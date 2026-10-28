@@ -1,0 +1,27 @@
+CHAPTER TWO (vol. 2, notes 02-03): what is different from the brief (28 Oct 2026)
+
+1. The OCR lost the footnote numbers in this chapter, so a new pre-pass made the definitions from the page images: it found
+   each footnote's start on the image (the line beginning with a superscript number in the footnote zone), numbered the
+   starts through the chapter (the superscript OCR'd where it could be read, else by sequence), and made `[^n]: ` at the
+   matching place in the note, often splitting a line where the converter had run a page's footnotes together.
+   pages.txt shows, under each page, what the pre-pass did ("pre-pass:" lines) and its flags.
+2. CHECK EVERY DEFINITION ON YOUR PAGES against the image: its label must be the printed superscript number at the start of
+   that footnote, and the definition must begin where that footnote begins. Fix a wrong label or a wrong start with def
+   ops (brief, op 2). Where the pre-pass missed a footnote (the flags name 44, 56, 67, 131 and 142; a page "with no
+   footnote defined" may still hold one), make it: old = its first words (with any garble mark just before them),
+   new = `[^n]: ` + the same words, or "\n\n[^n]: " + the words when it starts in the middle of a line.
+   Some definitions still begin with a garble mark the pre-pass left (e.g. `[^95]: " Above`, `[^127]: 1” The`):
+   remove the mark with a def op.
+3. LABELS = PRINTED NUMBERS. The print numbers this chapter's footnotes 1-155 or so through the chapter; the note must use
+   exactly the printed numbers. Do not renumber anything else. 146-151 are already real.
+4. CARRY-OVERS. Chapter Two's footnotes are long: many run over one or more pages, and some pages hold nothing but
+   footnote text. A carried-over part is plain text at the top of the next page's block (before that page's first
+   definition, or the page's only text). Join each paragraph of it with a move op (brief, op 4): `after` = the last line of
+   that footnote's text before it (its definition line, its last same-page continuation, or the line of the previous
+   carried paragraph when it runs over several pages: chains are allowed; several paragraphs moved after the same line
+   keep their order). Body text (the translation and commentary) that continues on the next page is NOT moved.
+5. Same-page further paragraphs of a footnote (verse lines, quotations, new paragraphs) that are not indented: indent them
+   (op 3). Body text the OCR put among the footnotes, or footnote text inside a body line: report, don't fix.
+6. YOUR PAGES ONLY. Another reader has the other pages of the same note.txt. Write ops only for lines that lie on your
+   pages (from your first page's marker line to the line before the marker of the page after your last). A move op's
+   `after` may point to a line before your range (a footnote carried over from the page before yours).

@@ -16,6 +16,8 @@ converted: 2026-10-15
 
 eleven as they sat at meat.”<sup>1551</sup> The difficulty does not lie in the mere fact that John says nothing about their sitting at meat, for he might well have omitted that; but it does rest in the use of the word “lastly,” for that makes it seem as if He did not show Himself to them after that occasion, whereas John still proceeds to record a third appearance of the Lord by the sea of Tiberias. And then we have to keep in view the fact that the same Mark tells us how Jesus “upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen.” In these words he refers to the two disciples to whom He appeared after He was risen, as they went toward a country-seat, and to Peter, to whom the examination of Luke’s narrative has shown us that He manifested Himself first of all \[among the apostles\],—perhaps also to Mary Magdalene, and those other women who were along with her on the occasion when He was seen by them at the sepulchre, and again when He met them as they were returning on the way. For the said Mark has constructed his record in a manner which leads him first to insert his brief notice of the two disciples to whom He appeared as they went toward the country-seat, and of their giving a report to the residue and obtaining no credit, and then to subjoin in the immediate connection this statement: “Lastly, He appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen.” How, then, is this phrase “lastly” used, as if they did not see Him subsequently to this occasion? For the last time that the apostles saw the Lord upon the earth was really the time when He ascended into heaven, and that event took place on the fortieth day after His resurrection. Now, is it likely that He would upbraid them at that period on the ground that they had not believed those who had seen Him after He was risen, when by that time they had seen Him themselves so often after His resurrection, and especially when they had seen Him on the very day of His resurrection,—that is to say, on the first day of the week, when it was now about night, as Luke and John record? It remains for us, therefore, to suppose that, in the passage under review, it was Mark’s intention to give a statement, in his own concise fashion, simply on the subject of the said day of the Lord’s resurrection; that is to say, that first day of the week on which Mary and the other women who were along with her saw Him after daybreak, on which also Peter beheld Him, on which likewise He appeared to the two disciples, of whom Cleophas was one, and to whom Mark himself also seems to refer; on which, further, when it was now about night, He showed Himself to the eleven (Thomas, however, being excepted) and those who were with them; and on which, finally, the persons already instanced reported to the disciples the things which they had seen. Hence it is that he has employed the term “*lastly,*” because the incident mentioned was the last that took place on this same day. For the night was now coming on
 
+1551 [[Mark 16#^16-14|Mark xvi. 14]].
+
 *[p. 490]* ^pg516
 
 by the time that the two disciples had returned from the place where they had recognised Him in the breaking of bread, and had made their way into Jerusalem and found the eleven, as Luke tells us, and those who were with them, speaking to each other about the Lord’s resurrection and about His having appeared to Peter; to whom these two also related what 219
@@ -23,6 +25,8 @@ by the time that the two disciples had returned from the place where they had re
 had occurred on the way, and how they came to know Him in the breaking of bread. But, assuredly, there were also there some who did not believe. Hence we see the truth of Mark’s words, “Neither believed they them.” When these, therefore, were now sitting at meat, as Mark informs us, and when they were talking of these subjects, as Luke tells us, the Lord stood in their midst, and said unto them, “Peace be unto you,” as Luke and John both record. Moreover, the doors were shut when He entered among them, as John alone mentions. And thus, among the words which, as Luke and John have reported, the Lord spoke to the disciples on that occasion, this expostulation also comes in, which is instanced by Mark, and in which He upbraided them for not believing those who had seen Him after He was risen.
 
 76\. But, again, a difficulty may also be felt in understanding how Mark says that the Lord appeared to the eleven as they sat at meat, if the time referred to is really the beginning of the night of that Lord’s day, as is indicated by Luke and John. For John, indeed, tells us plainly that the Apostle Thomas was not with them on that occasion; and we believe that he left them before the Lord entered among them, but after the two disciples who returned from the village had been conversing with the eleven, as we discover from Luke. Luke, it is true, presents a point in his narrative, at which we may fairly suppose, first, that Thomas went out while they were talking of these subjects, and then that the Lord came in. Mark, however, who says, “Lastly, He appeared unto the eleven as they sat at meat,” compels us to admit that Thomas also was there. But it may be the case, perhaps, that he chose to style them the eleven, although one of the company was absent, because the same apostolic society was designated by this number at the time previous to the election of Matthias in the place of Judas. Or, if there is a difficulty in accepting this explanation, we may still suppose that, after the many manifestations in which He vouchsafed His presence to the disciples during the forty days, He also showed Himself on one final occasion to the eleven as they sat at meat,—that is to say, on the fortieth day itself; and that, as He was now on the point of leaving them and ascending into heaven, He was minded on that memorable day specially to upbraid them with their refusal to believe those who had seen Him after He had risen until they should first have seen Him themselves; and this particularly because it was the case that, when they preached the gospel subsequently to His ascension, the very Gentiles would be ready to believe what they did not see. For, after mentioning this upbraiding, Mark at once proceeds to subjoin this passage: “And He said unto them, Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.”<sup>1552</sup> If, therefore, they were charged to preach that
+
+1552 [[Mark 16#^16-15|Mark xvi. 15]], [[Mark 16#^16-16|16]].
 
 *[p. 491]* ^pg517
 
@@ -34,7 +38,7 @@ he who believes not shall be condemned, when that indeed which he believes not i
 
 220
 
-1553 [[Mark 16#^16-17|Mark xvi. 17]], [[Mark 16#^16-18|18]]. 1554 [[Mark 16#^16-19|Mark xvi. 19]], [[Mark 16#^16-20|20]].
+1553 [[Mark 16#^16-17|Mark xvi. 17]], [[Mark 16#^16-18|18]]. 1554 [[Mark 16#^16-19|Mark xvi. 19]], [[Mark 16#^16-20|20]]. 1555 [[Acts 01#^1-4|Acts i. 4–8]].
 
 
 *[p. 492]* ^pg518
@@ -43,7 +47,7 @@ on the right side, and drew to land great fishes, a hundred and fifty and three:
 
 79\. We have next to consider now what was the occasion of His first appearance to the disciples in Galilee. For this incident, which John narrates as the third in order, took place in Galilee by the sea of Tiberias. And one may perceive that the scene was in that district, if he calls to mind the miracle of the five loaves, the narrative of which the same John commences in these terms: “After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.”<sup>1557</sup> And what should naturally be supposed to be the proper locality for His first manifestation to the disciples after His resurrection but Galilee? This seems to be the conclusion to which we should be led when we recollect the words of the angel who, according to Matthew’s Gospel, addressed the women as they came to the sepulchre. The words were these: “Fear not ye; for I know that ye seek Jesus of Nazareth, which was crucified. He is not here; for He is risen, as He said. Come, see the place where the Lord lay: and go quickly, and tell His disciples that He is risen from the dead; and, behold, He goeth before you into Galilee; there shall ye see Him: lo, I have told you.”<sup>1558</sup> Mark presents a similar report, whether the angel of whom he speaks be the same one or a different. His version runs thus: “Be not affrighted: ye seek Jesus of Nazareth which was crucified; He is risen; He is not here: behold the place where they laid Him. But go your way, tell His disciples and Peter that He goeth before you into Galilee: there shall ye see Him, as He said unto you.”<sup>1559</sup> Now the impression which these words seem to produce is, that Jesus was not to show Himself to His disciples after His resurrection, but in Galilee. The appearance thus referred to, however, is not recorded even by Mark himself, who has informed us how He showed Himself first to Mary Magdalene in the early morning of the first day of the week; how she went and told them that had been with Him as they mourned and wept; how these persons refused to believe her; how, after this, He was next seen by the two disciples who were going to the residence in the country; how these twain reported what had occurred to them to the residue, which, as Luke and John agree in certifying, took place in Jerusalem on the very day of the Lord’s resurrection, and when night was now coming on. Thereafter the same evangelist comes next to that appearance which he calls His last, and which was vouchsafed
 
-1556 Some editions read *si* = if I will, etc. But the best editions and mss. give *sic*, as above. And that Augustin read it so, is clear also from what occurs further on in Book iv. 20. 1557 [[John 06#^6-1|John vi. 1]]. 1558 [[Matthew 28#^28-5|Matt. xxviii. 5–7]].
+1556 Some editions read *si* = if I will, etc. But the best editions and mss. give *sic*, as above. And that Augustin read it so, is clear also from what occurs further on in Book iv. 20. 1557 [[John 06#^6-1|John vi. 1]]. 1558 [[Matthew 28#^28-5|Matt. xxviii. 5–7]]. 1559 [[Mark 16#^16-6|Mark xvi. 6]], [[Mark 16#^16-7|7]].
 
 
 *[p. 493]* ^pg519
@@ -54,13 +58,15 @@ world.”<sup>1560</sup> In these terms has Matthew closed his Gospel.
 
 80\. Thus, then, were it not that the consideration of the narratives given by others of the evangelists led us inevitably to examine the whole subject with greater care, we might entertain the idea that the scene of the Lord’s first manifestation of Himself to the disciples after His resurrection, could be nowhere else but in Galilee. In like manner, had Mark passed over the angel’s announcement without notice, any one might have supposed that Matthew was induced to tell us how the disciples went away to a mountain in Galilee, and there worshipped the Lord, by his desire to show the actual fulfilment of the charge, and of the prediction which he had also recorded to have been conveyed by the angel. As the case now stands, however, Luke and John both certify with sufficient clearness, that on the very day of His resurrection the Lord was seen by His disciples in Jerusalem, which is at such a distance from Galilee as makes it impossible for Him to have been seen by these same individuals in both places in the course of a single day. In like manner, Mark, while he does report in similar terms the announcement made by the angel, nowhere mentions that the Lord actually was seen in Galilee by His disciples after He was risen. These, therefore, are considerations which strongly force upon us an inquiry into the real import of this saying, “Behold, He
 
+1560 [[Matthew 28#^28-16|Matt. xxviii. 16–20]].
+
 *[p. 494]* ^pg520
 
 goeth before you into Galilee! there shall ye see Him.” For if Matthew himself, too, had not stated that the eleven disciples went away into Galilee into a mountain, where Jesus had appointed them, and that they saw Him there and worshipped Him, we might have supposed that there was no literal fulfilment of the prediction in question, but that the whole announcement was intended to convey a figurative meaning. And a parallel to that we should then find in the words recorded by Luke, namely, “Behold I cast out devils, and I do cures to-day and to-morrow, and the third day I shall be perfected;”<sup>1561</sup> which prediction certainly was not accomplished in the letter. In like manner, if the angel had said, “He goeth before you into Galilee, there shall ye see Him first;” or, “Only there shall ye see Him;” or, “Nowhere else but there shall ye see Him;” unquestionably, in that case, Matthew would have been in antagonism with the rest of the evangelists. As the matter stands, however, the words are simply these: “Behold, He goeth before you into Galilee; there shall ye see Him;” and there is no statement of the precise time at which that meeting was to take place—whether at the earliest opportunity, and before He was seen by them elsewhere, or at a later period, and after they had seen Him also in other places besides Galilee; and, further, although Matthew relates that the disciples went away into Galilee into a mountain, he neither specifies the day of that departure, nor constructs his narrative in an order which would force upon us the necessity of supposing that this particular event must have been actually the first appearance. Consequently, we may conclude that Matthew stands in no antagonism with the narratives of the other evangelists, but that he makes it quite competent for us, in due consistency with his own report, to understand the meaning and accept the truth of these other accounts. At the same time, as the Lord thus pointed, not to the place where He intended first to manifest Himself, but to the locality of Galilee, where undoubtedly He appeared afterwards; and as He conveyed these instructions about beholding Himself at once through the angel, who said,” Behold, He goeth before you into Galilee: there shall ye see Him;” and by His own words, “Go, tell my brethren, that they go into Galilee, and there shall ye see me;”—in these facts we find considerations which make every believer anxious to inquire with what mystical significance all this may be understood to have been stated.
 
 81\. In the first place, however, we must also consider the question of the time at which He may thus have shown Himself in bodily form in Galilee, according to the statement given by Matthew in these terms: “Then the eleven disciples went away into Galilee into a mountain where Jesus had appointed them; and when they saw Him, they worshipped Him; but some doubted.” That it was not on the day of His resurrection is manifest. For Luke and John agree in telling us most plainly that He was seen in Jerusalem that very day, when the night was coming on; while Mark is not so clear on the subject. When was it, then, that they saw the Lord in Galilee? I do not refer to the appearance mentioned by John, by the sea of
 
-[[Luke 13#^13-32|Luke xiii. 32]]. See above, Book ii. chap. 75, § 145.
+1561 [[Luke 13#^13-32|Luke xiii. 32]]. See above, Book ii. chap. 75, § 145.
 
 *[p. 495]* ^pg521
 
@@ -70,7 +76,7 @@ supposition that the eleven had really seen Him on the mountain in Galilee withi
 
 82\. But another difficulty in the way of this settlement arises here. For, when John has recorded how the Lord was seen, not by the eleven on the mountain, but by seven of them when they were fishing in the sea of Tiberias, he appends the following statement: “This is now the third time that Jesus showed Himself to His disciples, after that He was risen from the dead.”<sup>1563</sup> Now, if we accept the theory that the Lord was seen by the company of the eleven disciples within the period of these eight days, and previous to His being seen by
 
-1562 *Illis undecim* = those eleven.
+1562 *Illis undecim* = those eleven. 1563 [[John 21#^21-14|John xxi. 14]].
 
 
 *[p. 496]* ^pg522
@@ -81,7 +87,7 @@ Thomas, this scene by the sea of Tiberias will not be the third but the fourth t
 
 1564 [[John 20#^20-14|John xx. 14]]. 1565 [[Matthew 28#^28-9|Matt. xxviii. 9]]. 1566 [[Luke 24#^24-35|Luke xxiv. 35]]. 1567 [[Luke 24#^24-15|Luke xxiv. 15]]. 1568 [[John 20#^20-19|John xx. 19–24]]. 1569 [[John 20#^20-26|John xx. 26]].
 
-1570 [[John 21#^21-1|John xxi. 1]]. 1571 [[Matthew 28#^28-16|Matt. xxviii. 16]], [[Matthew 28#^28-17|17]].
+1570 [[John 21#^21-1|John xxi. 1]]. 1571 [[Matthew 28#^28-16|Matt. xxviii. 16]], [[Matthew 28#^28-17|17]]. 1572 [[Mark 16#^16-14|Mark xvi. 14]].
 
 
 *[p. 497]* ^pg523
@@ -92,7 +98,7 @@ into heaven.”<sup>1573</sup> Luke, on the other hand, omits all that may have 
 
 84\. At the same time, all is not recorded, as John plainly declares.<sup>1575</sup> For He had frequent intercourse with His disciples during the forty days which preceded His ascension into heaven.<sup>1576</sup> He had not, however, showed Himself to them throughout all these forty days without interruption. For John tells us, that after the first day of His resurrection-life, there elapsed other eight days, at the end of which space He appeared to them again. The appearance which is identified \[in John\] as the third—namely, the one by the sea of Tiberias—may perhaps have taken place on an immediately succeeding day; for there is nothing antagonistic to that. And then He showed Himself when it seemed the proper time to Him, as He had appointed with them (which appointment had also been conveyed in the previous prophetic announcement) to go before them into Galilee. And all throughout these forty days, He appeared on occasions, and to individuals, and in modes, just as He was minded. To these appearances Peter alludes when, in the discourse which he delivered before Cornelius and those who were withhim, he says, “Even to us who did eat and drink with Him after He rose from the dead, for the space of forty days.”<sup>1577</sup> It is not meant, however, that they had eaten and drunk with Him daily throughout these forty days. For that would be contrary to John’s statement, who has interposed the space of eight days, during which He was not seen, and makes His third appearance take place by the sea of Tiberias. At the same
 
-1573 [[Mark 16#^16-19|Mark xvi. 19]]. 1574 [[Luke 24#^24-50|Luke xxiv. 50]], [[Luke 24#^24-51|51]]. 1575 [[John 21#^21-25|John xxi. 25]]. 1576 [[Acts 01#^1-3|Acts i. 3]]. [[Acts 10#^10-41|Acts x. 41]]—the words, *per quadraginta dies*, being added.
+1573 [[Mark 16#^16-19|Mark xvi. 19]]. 1574 [[Luke 24#^24-50|Luke xxiv. 50]], [[Luke 24#^24-51|51]]. 1575 [[John 21#^21-25|John xxi. 25]]. 1576 [[Acts 01#^1-3|Acts i. 3]]. 1577 [[Acts 10#^10-41|Acts x. 41]]—the words, *per quadraginta dies*, being added.
 
 
 *[p. 498]* ^pg524
@@ -103,7 +109,7 @@ time, even although He \[should be supposed to have\] manifested Himself to them
 
 86\. Consequently, let us now take up the subject which we had postponed, and inquire what mystical meaning may underlie the report given by Matthew and Mark, namely, that on rising He made this statement, “I will go before you into Galilee: there shall ye see me.” For this announcement, if it was fulfilled at all, was certainly not fulfilled till a considerable interval had elapsed; whereas it is couched in terms which seem to lead us (although such a conclusion is not an absolute necessity) most naturally to expect that the appearance re- 224 ferred to would be either the only one or the first that would ensue. We observe, however, that the words in question are not given as the words of the evangelist himself, in the form of a narrative of a past occurrence, but as the words of the angel, who spoke according to the Lord’s commission, and subsequently also as the words of the Lord Himself; that is to
 
-[[1 Corinthians 15#^15-4|1 Cor. xv. 4]], [[1 Corinthians 15#^15-5|5]].
+1578 [[1 Corinthians 15#^15-4|1 Cor. xv. 4]], [[1 Corinthians 15#^15-5|5]].
 
 *[p. 499]* ^pg525
 
@@ -111,14 +117,14 @@ say, the words are used by the evangelist in his narrative, but they are present
 
 1579 \[The discussion of the appearances of the Risen Lord is so clear and candid, that one must regret that it finds its conclusion in the allegorizing exegesis of this section.—R.\]
 
-1580 [[Philippians 02#^2-6|Phil. ii. 6]], [[Philippians 02#^2-7|7]]. 1581 [[John 14#^14-21|John xiv. 21]]. 1582 [[John 01#^1-5|John i. 5–9]]. 1583 [[1 John 03#^3-2|1 John iii. 2]].
+1580 [[Philippians 02#^2-6|Phil. ii. 6]], [[Philippians 02#^2-7|7]]. 1581 [[John 14#^14-21|John xiv. 21]]. 1582 [[John 01#^1-5|John i. 5–9]]. 1583 [[1 John 03#^3-2|1 John iii. 2]]. 1584 [[Matthew 25#^25-33|Matt. xxv. 33–46]].
 
 
 *[p. 500]* ^pg526
 
 do not see Him. For the wicked shall be taken away, so that he shall not see the brightness of the Lord;<sup>1585</sup> and the unrighteousness shall not see the light. For He says, “And this is life eternal, that they might know Thee, the only true God, and Jesus Christ, whom Thou hast sent;”<sup>1586</sup> even as He shall be known in that eternity to which He will bring His servants by the form of a servant, in order that in liberty they may contemplate the form of the Lord.
 
-1585 Isa. xxvi. 10.
+1585 Isa. xxvi. 10. 1586 [[John 18#^18-3|John xviii. 3]].
 
 
 *[p. 501]* ^pg527
@@ -147,7 +153,7 @@ Chapter I.—Of the Question Regarding the Proof that Mark’s Gospel is in Harm
 
 2\. Mark, then, commences as follows: “The beginning of the gospel of Jesus Christ, the Son of God: as it is written in the prophet Isaiah;” and so on, down to where it is said, “And they go into Capharnaum; and straightway on the Sabbath-day He entered into the synagogue and taught them.”<sup>1587</sup> In this entire context, everything has been examined above in connection with Matthew. This particular statement, however, about His going into the synagogue at Capharnaum and teaching them on the Sabbath-day, is one which Mark has in common with Luke.<sup>1588</sup> But it raises no question of difficulty.
 
-1587 [[Mark 01#^1-1|Mark i. 1–21]].
+1587 [[Mark 01#^1-1|Mark i. 1–21]]. 1588 [[Mark 04#^4-31|Mark iv. 31]].
 
 
 *[p. 504]* ^pg530
@@ -160,7 +166,7 @@ Chapter II.—Of the Man Out of Whom the Unclean Spirit that Was Tormenting Him 
 
 226 1589 The words *Let us alone*, are omitted. \[So the Greek text, according to the best mss.—R.\]
 
-1590 [[Mark 01#^1-22|Mark i. 22–39]]. 1591 [[Luke 04#^4-35|Luke iv. 35]]. Reading *elisis*. Various mss. give *amputatis aut evulsis* = amputated or torn off.
+1590 [[Mark 01#^1-22|Mark i. 22–39]]. 1591 [[Luke 04#^4-35|Luke iv. 35]]. 1592 Reading *elisis*. Various mss. give *amputatis aut evulsis* = amputated or torn off.
 
 
 *[p. 505]* ^pg531
@@ -171,7 +177,7 @@ Chapter III.—Of the Question Whether Mark’s Reports of the Repeated Occasion
 
 4\. The same Mark continues as follows: “And there came a leper to Him, beseeching Him, and kneeling down to Him, and saying unto Him, If thou wilt, thou canst make me clean;” and so on, down to where it is said, “And they cried out, saying, Thou art the Son of God: and He straightway charged them that they should not make Him known.”<sup>1593</sup> Luke<sup>1594</sup> also records something similar to the last passage which we have here adduced. But nothing emerges involving any discrepancy. Mark proceeds thus: “And He goeth up into a mountain, and calleth unto Him whom He would: and they came unto Him. And He ordained twelve that they should be with Him, and that He might send them forth to preach; and He gave them power to heal sicknesses, and to cast out devils. And Simon He surnamed Peter;” and so on, down to where it is said, “And he departed, and began to publish in Decapolis how great things Jesus had done: and all men did marvel.”<sup>1595</sup> I am aware that I have spoken already of the names of the disciples when following the order of Matthew’s narrative.<sup>1596</sup> Here, therefore, I repeat the caution, that no one should suppose Simon to have received the name Peter on this occasion for the first time, or fancy that Mark is here in any antagonism with John, who reports that disciple to have been addressed long before in these terms: “Thou shalt be called Cephas, which is, by interpretation, A stone.”<sup>1597</sup> For John has there recorded the very words in which the Lord gave him that name. Mark, on the other hand, has introduced the matter in the form of a recapitulation in this passage, when he says, “And Simon He surnamed Peter.” For, as it was his intention to enumerate the names of the twelve apostles here, and it was necessary for him thus to mention Peter, he decided briefly to intimate the fact that the said name was not borne by that disciple all along, but was given him by the Lord, not, however, at the time with which Mark was immediately dealing, but on the occasion in connection with which John has introduced the very words employed by the Lord. The other matters embraced within this paragraph, present nothing inconsistent with any of the other Gospels, and they have also been discussed previously.
 
-1593 [[Mark 01#^1-40|Mark i. 40-iii. 12]]. 1594 [[Luke 04#^4-41|Luke iv. 41]]. 1595 [[Mark 03#^3-13|Mark iii. 13-v. 20]]. 1596 See above, Book ii. chaps. 17 and 53.
+1593 [[Mark 01#^1-40|Mark i. 40-iii. 12]]. 1594 [[Luke 04#^4-41|Luke iv. 41]]. 1595 [[Mark 03#^3-13|Mark iii. 13-v. 20]]. 1596 See above, Book ii. chaps. 17 and 53. 1597 [[John 01#^1-42|John i. 42]].
 
 
 *[p. 506]* ^pg532
@@ -184,7 +190,7 @@ Chapter IV.—Of the Words, “The More He Charged Them to Tell No One, So Much 
 
 227 1598 [[Mark 05#^5-21|Mark v. 21-vi. 30]]. 1599 [[Mark 06#^6-31|Mark vi. 31-vii. 37]].
 
-1600 [[John 02#^2-24|John ii. 24]], [[John 02#^2-25|25]]. 1601 The text gives simply: *futuram Petro prænuntiavit*, to which *cogitationem* has to be supplied. Some editions insert *negationem* = his future denial.
+1600 [[John 02#^2-24|John ii. 24]], [[John 02#^2-25|25]]. 1601 The text gives simply: *futuram Petro prænuntiavit*, to which *cogitationem* has to be supplied. Some editions insert *negationem* = his future denial. 1602 [[Matthew 26#^26-33|Matt. xxvi. 33–35]].
 
 
 *[p. 507]* ^pg533
@@ -201,7 +207,7 @@ Chapter V.—Of the Statement Which John Made Concerning the Man Who Cast Out De
 
 6\. Mark proceeds as follows: “In those days again,<sup>1603</sup> the multitude being very great, and having nothing to eat;” and so on, down to the words, “John answered Him, saying, Master, we saw one casting out devils in Thy name, and he followeth not us; and we forbade him.<sup>1604</sup> But Jesus said, Forbid him not; for there is no man which shall do a miracle in my name, that can lightly speak evil of me; for he that is not against you is on your side.”<sup>1605</sup> Luke relates this in similar terms, with this exception, that he does not insert the clause, “for there is no man which shall do a miracle in my name that can lightly speak evil of me.” Consequently, there is nothing here to raise the question of any discrepancy between these two. We must see, however, whether this sentence must be supposed to stand in opposition to another of the Lord’s sayings, namely, the one to this effect, “He that is not with me is against me; and he that gathereth not with me scattereth abroad.”<sup>1606</sup> For how was this man not against Him, who was not with Him, and of whom John reported that he did not unite with them in following Him, if he is against Him who is not with Him? Or if the man was against Him, how does He say to the disciples, “Forbid him not; for he that is not against you is on your side”? Will any one aver that it is of consequence to observe that here He says to the disciples, “He that is not against you is on your side;” whereas, in the other passage, He spoke of Himself in the terms, “He that is not with me is against me”? That would make it appear, indeed, as if it were possible for one not to be with Him, although he was associated with those disciples of His who are, so to speak, His very members. Besides, how would the truth of such sayings as these stand then: “He that receiveth you receiveth me;”<sup>1607</sup> and “Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me”?<sup>1608</sup> Or is it possible for one not to be against Him, although he may be against His disciples? Nay; for what shall we make then of words like these: “He that despiseth you,
 
-1603 *Iterum*, inserted. \[The Greek text, according to the best mss. reads: “when there was again a great multitude.” So Revised Version. Augustin’s text is: “In those days again, when there was a great multitude.”—R.\] 1604 The words, “because he followeth not us,” are omitted. \[So the Vulgate and old Latin text; but the best Greek mss. omit the clause, “and he followeth not us,” inserting the last clause, “because he followeth not us,” as in [[Luke 09#^9-49|Luke ix. 49]].—R.\] 1605 [[Mark 08#^8-1|Mark viii. 1-ix. 39]]. 1606 [[Matthew 12#^12-30|Matt. xii. 30]]. 1607 [[Matthew 10#^10-40|Matt. x. 40]].
+1603 *Iterum*, inserted. \[The Greek text, according to the best mss. reads: “when there was again a great multitude.” So Revised Version. Augustin’s text is: “In those days again, when there was a great multitude.”—R.\] 1604 The words, “because he followeth not us,” are omitted. \[So the Vulgate and old Latin text; but the best Greek mss. omit the clause, “and he followeth not us,” inserting the last clause, “because he followeth not us,” as in [[Luke 09#^9-49|Luke ix. 49]].—R.\] 1605 [[Mark 08#^8-1|Mark viii. 1-ix. 39]]. 1606 [[Matthew 12#^12-30|Matt. xii. 30]]. 1607 [[Matthew 10#^10-40|Matt. x. 40]]. 1608 [[Matthew 25#^25-40|Matt. xxv. 40]].
 
 
 *[p. 509]* ^pg535
@@ -223,13 +229,15 @@ Chapter VI.—Of the Circumstance that Mark Has Recorded More Than Luke as Spoke
 
 7\. Mark proceeds with his narrative in these terms: “For whosoever shall give you a cup 228 of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward. And whosoever shall offend one of these little ones that believe on me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea. And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched; where their worm dieth not, and the fire is not quenched.” And so on, down to where it is said, “Have salt in yourselves, and have peace one with another.”<sup>1613</sup> These words Mark represents to have been spoken by the Lord in the connection immediately following what He said in forbidding the man to be interdicted who was casting out devils in His name, and yet was not following Him along with the disciples. In this section, too, he introduces some matters which are not found in any of the other evangelists, but also some which occur in Matthew as well, and some which we come across in like manner both in Matthew and in Luke. Those other evangelists, however, bring in these matters in different connections, and in another order of facts, and not at this particular point when the statement was made to Christ about the man who did not follow Him along with the disciples, and yet was casting out devils in His name. My opinion, therefore, is, that the Lord did really utter sayings in this connection, according to Mark’s attestation, of which he also delivered Himself on other occasions, and this for the simple reason, that they were sufficiently pertinent to this expression of His mind which he gave here, when He forbade the placing of any interdict upon the working of miracles in His name, even although that should be done by a man who did not follow Him along with His disciples. For Mark presents the relation of the one passage to the other thus: “For he that is not against us is on our part; for whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.” This makes it plain that even this man, whose case John had taken up, and thus had given occasion for the Lord to commence the discourse referred to, was not separating himself from the society of the disciples to any such effect as to scorn it like a heretic. But his position was something parallel to the familiar one of men who, while not going the length yet of receiving the sacraments of Christ, nevertheless favour the Christian name so far as even to receive Christians, and accommodate themselves to them for this very reason,
 
+1613 [[Mark 09#^9-40|Mark ix. 40–50]].
+
 *[p. 511]* ^pg537
 
 *Of the Circumstance that Mark Has Recorded More Than Luke as Spoken by the…*
 
 and none other, that they are Christian; of which type of persons it is that He tells us that they do not lose their reward. This does not mean, however, that they ought at once to think themselves quite safe and secure simply on account of this kindness which they cherish towards Christians, while at the same time they are neither cleansed by Christ’s baptism, nor incorporated into the unity of His body. But the import is, that they are now being guided by the mercy of God in such a way that they may also come to these higher things,<sup>1614</sup> and so quit this present world in safety. And such persons assuredly are more profitable \[servants\], even before they become associated with the number of Christians, than those individuals who, while already bearing the Christian name and partaking in the Christian sacraments, recommend courses which are only fitted to drag others, whom they may persuade to adopt them, along with themselves into eternal punishment. These are the persons to whom He refers under the figure of the members of the body, and whom He commands to be cast out from the body, like an offending hand or eye; that is to say, to be cut off from the fellowship of that unity, in order that they should seek rather to enter into life without such associates, than to go into hell in their company. Moreover, they are separated from those from whom they separate themselves, just when no consent is yielded to their evil recommendations, that is to say, to the offences in which they indulge. And if, indeed, they are discovered in the character of their perversity to all good men with whom they have any fellowship,<sup>1615</sup> they are cut off completely from the fellowship of all, and also from participation in the divine sacraments. But if they are known in this character only to some, while their perversity is unknown to the majority, they must just be borne with, as the chaff is endured in the thrashing-floor previous to the winnowing; that is to say, they must be dealt within a manner which will neither involve any agreement with them in the fellowship of unrighteousness, nor lead to a forsaking of the society of the good on their account. This is what is done by those who have salt in themselves, and who have peace one with another.
 
-1614 The text gives *ad ea*. Another reading is *ad eam* = that unity of His body. Reading *societas*. Many mss. give *notitia* = acquaintance.
+1614 The text gives *ad ea*. Another reading is *ad eam* = that unity of His body. 1615 Reading *societas*. Many mss. give *notitia* = acquaintance.
 
 
 *[p. 512]* ^pg538
@@ -240,7 +248,7 @@ Chapter VII.—Of the Fact that from This Point on to the Lord’s Supper, with 
 
 8\. Mark continues as follows: “And He arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto Him again; and, as He 229 was wont, He taught them again;” and so on, down to where it is said, “For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living.”<sup>1616</sup> In this entire context, all the above has been subjected to investigation already, with the view of removing the appearance of any contrariety, when we were comparing the other Gospels in due order with Matthew. This narrative, however, of the poor widow who cast two mites into the treasury is reported only by two of them, namely, Mark and Luke.<sup>1617</sup> But their harmony admits of no question. And from this point onwards to the Lord’s Supper, which latter act formed the starting-point for our discussion of all the records of the four evangelists taken conjointly, Mark introduces nothing of a kind to make it necessary for us to institute a special comparison between it and any other statement, or to conduct an inquiry with the view of dispelling any appearance of discrepancy.
 
-1616 [[Mark 10#^10-1|Mark x. 1-xii. 44]].
+1616 [[Mark 10#^10-1|Mark x. 1-xii. 44]]. 1617 [[Luke 21#^21-1|Luke xxi. 1–4]].
 
 
 *[p. 513]* ^pg539
@@ -253,7 +261,7 @@ Chapter VIII.—Of Luke’s Gospel, and Specially of the Harmony Between Its Com
 
 1618 *Completæ sunt*. \[So Revised Version.—R.\] 1619 \[*Et mihi assecuto a principio omnibus* (some mss. have *omnia*) *diligenter ex ordine tibi scribere*. Comp. Revised Version and Augustin’s explanation below.—R.\]
 
-1620 [[Luke 01#^1-1|Luke i. 1–4]]. 1621 *Usque in diem quo apostolis quos elegit*, etc. Some editions read *quo apostolos elegit* = on which He chose the apostles, giving them commandment, etc. 1622 [[Acts 01#^1-1|Acts i. 1]], [[Acts 01#^1-2|2]].
+1620 [[Luke 01#^1-1|Luke i. 1–4]]. 1621 *Usque in diem quo apostolis quos elegit*, etc. Some editions read *quo apostolos elegit* = on which He chose the apostles, giving them commandment, etc. 1622 [[Acts 01#^1-1|Acts i. 1]], [[Acts 01#^1-2|2]]. 1623 [[John 21#^21-25|John xxi. 25]].
 
 
 *[p. 514]* ^pg540
@@ -272,7 +280,7 @@ Chapter IX.—Of the Question How It Can Be Shown that the Narrative of the Haul
 
 10\. Luke, then, commences his Gospel in the following fashion: “There was in the days of Herod the king of Judæa, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth;”and so on, down to the passage where it is said, “Now when He had left speaking, He said unto Simon, Launch out into the deep, and let down your nets for a draught.”<sup>1624</sup> In this whole section, there is nothing to stir any question as to discrepancies. It is true that John appears to relate something resembling the last passage. But what he gives is really something widely different. I refer to what took place by the sea of Tiberias after the Lord’s resurrection.<sup>1625</sup> In that instance, not only is the particular time extremely different, but the circumstances themselves are of quite another character. For there the nets were cast on the right side, and a hundred and fifty and three fishes were caught. It is added, too, that they were great fishes. And the evangelist, therefore, has felt it necessary to state, that “for all there were so many, yet was not the net broken,” surely just because he had in view the previous case, which is recorded by Luke, and in connection with which the nets were broken<sup>1626</sup> by reason of the multitude of fishes. As for the rest, Luke has not recounted things like those which John has narrated, except in relation to the Lord’s passion and resurrection. And this whole section, which comes in between the Lord’s Supper and the conclusion, has already been handled by us in a manner which has yielded, as the result of a comparison of the testimonies of all the evangelists conjointly, the demonstration of an entire absence of discrepancies between them.
 
-1624 [[Luke 01#^1-5|Luke i. 5-v. 4]]. 1625 [[John 21#^21-1|John xxi. 1–11]]. \[*Rumpebantur*, “were breaking,” as in the Greek; comp. Revised Version.—R.\]
+1624 [[Luke 01#^1-5|Luke i. 5-v. 4]]. 1625 [[John 21#^21-1|John xxi. 1–11]]. 1626 \[*Rumpebantur*, “were breaking,” as in the Greek; comp. Revised Version.—R.\]
 
 
 *[p. 516]* ^pg542
@@ -285,7 +293,7 @@ Chapter X.—Of the Evangelist John, and the Distinction Between Him and the Oth
 
 231 1627 [[Revelation 04#^4-6|Apoc. iv. 6]], [[Revelation 04#^4-7|7]]. 1628 See chap. iii. 1629 [[John 01#^1-1|John i. 1]], [[John 01#^1-14|14]].
 
-1630 [[John 10#^10-30|John x. 30]].
+1630 [[John 10#^10-30|John x. 30]]. 1631 [[John 02#^2-1|John ii. 1–11]].
 
 
 *[p. 517]* ^pg543
@@ -300,7 +308,7 @@ the flesh, but means to convey the conception of His divinity with special fitne
 
 14\. Next he brings us back to Jerusalem, and tells the story of the healing of the man who had an infirmity of thirty-eight years’ standing. What words are spoken on this occasion, and how ample is the discourse! Here we are met by the sentence, “The Jews sought to kill Him, because He not only broke the Sabbath, but said also that God was His Father, making Himself equal with God.”<sup>1634</sup> In this passage it is made sufficiently plain that He did not speak of God as His Father in the ordinary sense in which holy men are in the habit of using
 
-1632 [[John 02#^2-12|John ii. 12–22]]. 1633 [[John 04#^4-48|John iv. 48]].
+1632 [[John 02#^2-12|John ii. 12–22]]. 1633 [[John 04#^4-48|John iv. 48]]. 1634 [[John 05#^5-18|John v. 18]].
 
 
 *[p. 518]* ^pg544
@@ -311,7 +319,7 @@ the phrase, but that He meant that He is His equal. For, a little before this, H
 
 is with the same Lord, but upon the earth, and joins them in recording the feeding of the five thousand men with the five loaves. In this narrative, however, he is the only one who mentions, that when the people wished to make Him a king, Jesus departed into a mountain Himself alone.<sup>1637</sup> And in making that statement, his intention appears to me to have been just to communicate to the reasonable soul the truth, that Christ reigns over our mind and reason purely in a sphere in which He is exalted above us, in which He has no community of nature with men, and in which He is verily by Himself alone, as He is the Father’s only fellow. This, however, is a mystical truth, which escapes the cognizance of carnal men, whose life creeps upon the lower soil of this earth, just because it is so sublime a mystery. Hence Christ Himself also departs into the mountain from the men whose habit is to seek for His kingdom with earthly conceptions of it. Thus is it that He expresses Himself elsewhere to this effect, “My kingdom is not of this world.”<sup>1638</sup> And this, again, is something which is reported only by John, who soars high over earth in a kind of ethereal flight, and delights himself in the light of the Sun of righteousness. Then, on passing from the narrative connected with this mountain, and from the miracle of the five loaves, he still keeps company with the same three for a little while, until the notice of the crossing of the sea is reached, and the occasion on which Jesus walked upon the waters. But at this point he at once rises again to the region of the Lord’s discourses, and relates those words, so grave, so lengthened, so sustainedly lofty and elevated, which had their occasion in the multiplying of the bread, when He addressed the multitudes to the following effect: “Verily, verily, I say unto you, ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled. Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life.”<sup>1639</sup> After which sayings, He continues to discourse in similar terms for a
 
-232 1635 [[John 05#^5-17|John v. 17]]. 1636 [[John 05#^5-19|John v. 19]]. 1637 [[John 06#^6-15|John vi. 15]]. 1638 [[John 18#^18-36|John xviii. 36]].
+232 1635 [[John 05#^5-17|John v. 17]]. 1636 [[John 05#^5-19|John v. 19]]. 1637 [[John 06#^6-15|John vi. 15]]. 1638 [[John 18#^18-36|John xviii. 36]]. 1639 [[John 06#^6-26|John vi. 26]], [[John 06#^6-27|27]].
 
 *[p. 519]* ^pg545
 
@@ -321,7 +329,7 @@ very long period, and in the most exalted strain. At that time, some fell away f
 
 16\. Next we come to the passage where His brethren—that is to say, His relations according to the flesh—urge Him to go up to the feast-day, in order that He may have an opportunity of making Himself known to the multitude. And here, again, how supremely elevated is the tone of His reply! “My time is not yet come, but your time is alway ready. The world cannot hate you; but me it hateth, because I testify of it that the works thereof are evil.” <sup>1642</sup> So it is the case, then, that “your time is alway ready,” because ye desire that kind of day to which the prophet refers when he says, “But I have not laboured following Thee, O Lord; and the day of man I have not desired, Thou knowest:”<sup>1643</sup> that is to say, to soar to the light of the Word, and to desire that day which Abraham desired to see, and which he did see, and was glad.<sup>1644</sup> And again, how wonderful, how divine, how sublime are the words which John represents Him to have spoken after He had gone up to the temple, at the time of the feast! They are such as these: that where He was about to go, thither they could not come;<sup>1645</sup> that they both knew Him, and knew whence He was;<sup>1646</sup> that He who sent Him is true, whom they knew not,<sup>1647</sup> which is much the same as if He had said, “Ye both know whence I am, and know not whence I am.” And what else did He wish to be understood by such utterances, but that it was possible for Him to be known to them according to the flesh, in respect of lineage and country, but that, so far as regarded His divinity, He was unknown to them? On this occasion, too, when He spoke of the gift of the Holy Spirit, He showed them who He was, inasmuch as He could hold the power of bestowing that highest boon.
 
-1640 [[John 06#^6-63|John vi. 63]]. 1641 The text gives: *et per carnem spiritus prodest*. Some editions read *et carni*, etc. = the spirit profiteth even the flesh. \[The erroneous view of the term “flesh” leads to this explanation. It has already in this passage an ethical sense, which Augustin ignores.—R.\] 1642 [[John 07#^7-6|John vii. 6]], [[John 07#^7-7|7]]. 1643 Jer. xvii. 16. 1644 [[John 08#^8-56|John viii. 56]]. 1645 [[John 07#^7-34|John vii. 34]]. 1646 [[John 07#^7-28|John vii. 28]].
+1640 [[John 06#^6-63|John vi. 63]]. 1641 The text gives: *et per carnem spiritus prodest*. Some editions read *et carni*, etc. = the spirit profiteth even the flesh. \[The erroneous view of the term “flesh” leads to this explanation. It has already in this passage an ethical sense, which Augustin ignores.—R.\] 1642 [[John 07#^7-6|John vii. 6]], [[John 07#^7-7|7]]. 1643 Jer. xvii. 16. 1644 [[John 08#^8-56|John viii. 56]]. 1645 [[John 07#^7-34|John vii. 34]]. 1646 [[John 07#^7-28|John vii. 28]]. 1647 [[John 07#^7-28|John vii. 28]].
 
 
 *[p. 520]* ^pg546
@@ -332,9 +340,9 @@ very long period, and in the most exalted strain. At that time, some fell away f
 
 18\. Next, after telling the story of the giving of sight to the man who was blind from his birth, John tarries for a space over the copious discourse to which that incident gave occasion, on the subject of the sheep, and the shepherd, and the door, and the power of laying down His life and taking it again, wherein He gave token of the supreme might of His divinity. Thereafter, he relates how, at the time when the feast of the dedication was being celebrated in Jerusalem, the Jews said to Him, “How long dost thou make us to doubt? If thou be the Christ, tell us plainly.”<sup>1654</sup> And then he reports the sublime words which the Lord uttered
 
-1648 [[Luke 10#^10-20|Luke x. 20]]. *Se esse principium quod et loqueretur eis*, as the rendering of the τὴν ἀρχὴν ὁ τι καὶ λαλῶ ὑμῖν in John 1649 viii. 25.
+1648 [[Luke 10#^10-20|Luke x. 20]]. 1649 *Se esse principium quod et loqueretur eis*, as the rendering of the τὴν ἀρχὴν ὁ τι καὶ λαλῶ ὑμῖν in John viii. 25.
 
-1650 [[Matthew 05#^5-14|Matt. v. 14]], [[Matthew 05#^5-15|15]]. 1651 [[John 05#^5-35|John v. 35]]. 1652 [[John 01#^1-16|John i. 16]]. 1653 [[John 08#^8-36|John viii. 36]].
+1650 [[Matthew 05#^5-14|Matt. v. 14]], [[Matthew 05#^5-15|15]]. 1651 [[John 05#^5-35|John v. 35]]. 1652 [[John 01#^1-16|John i. 16]]. 1653 [[John 08#^8-36|John viii. 36]]. 1654 [[John 10#^10-24|John x. 24]].
 
 
 *[p. 521]* ^pg547
@@ -345,7 +353,7 @@ when the opportunity thus arose for a discourse. It was on this occasion that He
 
 19\. Moreover, so far as regards the Lord’s discourses, he does not cease to ascend to the sublimer and more extended utterances of which, from this point also, He delivered Himself. For he inserts a lofty address which the Lord spoke on the occasion when, through Philip and Andrew, the Gentiles expressed their desire to see Him, and which is introduced by none of the other evangelists. There, too, he reports the remarkable words which were spoken again on the subject of the light which enlightens and makes men the children of light.<sup>1658</sup> Thereafter, in connection with the Supper itself, of which none of the evangelists has failed to give us some notice, how affluent and how lofty are those words of Jesus which John records, but which the others have passed over in silence! I may instance not only His commendation of humility, when He washed the disciples’ feet, but also that marvellously overpowering and pre-eminently copious discourse which the Lord delivered to the eleven who remained with Him after His betrayer had been indicated by the morsel of bread, and had gone out. It was in this discourse, over which John lingers long, that He said, “He that hath seen me, hath seen the Father also.”<sup>1659</sup> It was in it, too, that He expressed Himself so largely about the Holy Spirit, the Comforter, whom He was to send to them, and about His own glory, which He had with the Father before the world was, and about His making us one in Himself, even as He and the Father are one,—not that He and the Father and we should be one, but that we should be one as they are one. And many other things of a wonderfully sublime order did He utter in that connection. But who can fail to see that to discuss such themes in any manner that would be worthy of them, even if we were competent to do so, is at least not the task which we have undertaken in the present effort? For our object is to help those who are lovers of the Word of God and students of holy truth to understand
 
-1655 [[John 10#^10-30|John x. 30]]. 1656 [[John 11#^11-25|John xi. 25]], [[John 11#^11-26|26]]. 1657 [[John 12#^12-1|John xii. 1–9]]; [[Matthew 26#^26-6|Matt. xxvi. 6–13]]; [[Mark 14#^14-3|Mark xiv. 3–9]]. 1658 [[John 12#^12-20|John xii. 20–50]].
+1655 [[John 10#^10-30|John x. 30]]. 1656 [[John 11#^11-25|John xi. 25]], [[John 11#^11-26|26]]. 1657 [[John 12#^12-1|John xii. 1–9]]; [[Matthew 26#^26-6|Matt. xxvi. 6–13]]; [[Mark 14#^14-3|Mark xiv. 3–9]]. 1658 [[John 12#^12-20|John xii. 20–50]]. 1659 [[John 14#^14-9|John xiv. 9]].
 
 
 *[p. 522]* ^pg548
@@ -369,7 +377,7 @@ and unchangeableness of the Trinity, and in which, above all, we see at what a d
 
 1667 [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]]. 1668 [[Colossians 03#^3-4|Col. iii. 4]]. 1669 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]].
 
-1670 [[John 16#^16-13|John xvi. 13]]. 1671 [[Romans 08#^8-10|Rom. viii. 10]], [[Romans 08#^8-11|11]]. 1672 Wisd. of Sol. ix. 13. Ecclus. xxiv. 3.
+1670 [[John 16#^16-13|John xvi. 13]]. 1671 [[Romans 08#^8-10|Rom. viii. 10]], [[Romans 08#^8-11|11]]. 1672 Wisd. of Sol. ix. 13. 1673 Ecclus. xxiv. 3.
 
 
 *[p. 524]* ^pg550
@@ -382,4 +390,4 @@ knowledge by the same Spirit.<sup>1676</sup> One man regardeth the day to the Lo
 
 1674 *Contemperata* = attempered to. 1675 [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]], 9, 10. 1676 [[1 Corinthians 12#^12-8|1 Cor. xii. 8]]. 1677 [[Romans 14#^14-6|Rom. xiv. 6]]. 1678 [[2 Corinthians 12#^12-2|2 Cor. xii. 2–4]]. 1679 [[2 Corinthians 05#^5-6|2 Cor. v. 6]].
 
-1680 [[John 14#^14-21|John xiv. 21]]. 1681 Ecclus. iii. 18.
+1680 [[John 14#^14-21|John xiv. 21]]. 1681 Ecclus. iii. 18. 1682 [[John 13#^13-5|John xiii. 5]].

@@ -1,0 +1,19 @@
+CHECKING FOOTNOTES AGAINST THE PRINTED PAGE (28 Oct 2026). Reading task; you change nothing but your own output file.
+
+Each case is a pair of files with the same id: vNN.jpg is one page of a printed book (Nicene and Post-Nicene Fathers, 1888, as
+reset by CCEL), and vNN.txt is the Markdown text an Obsidian note holds for that page. In the text, a footnote CALL in the body is
+written <sup>N</sup>; the FOOTNOTES themselves are written as plain paragraphs near the end, "N text", several often run together
+on one line ("2799 Matt. xix. 24. 2800 Matt. xix. 25."). Scripture references may be wrapped as links: [[Matthew 19#^19-24|Matt. xix. 24]]
+reads as "Matt. xix. 24". Square brackets may be escaped as \[ and \]. A bare number before the footnotes (e.g. "368") may be the
+1888 edition's page number: ignore it. The text may start with "…" (cut for length).
+
+For each case, compare the footnotes printed at the foot of the page image with the footnote paragraphs in the text:
+- every footnote printed on the page should be in the text, with its own number directly before its own text;
+- no number should sit before the wrong note's text, and no footnote text should lack its number;
+- ignore italics, line breaks, spacing, link markup, and small OCR differences in Greek accents or letters.
+
+Output: a JSON Lines file at the path given in your task, one line per case, in id order:
+{"id": "v03", "verdict": "ok", "problems": ""}
+or {"id": "v03", "verdict": "problem", "problems": "footnote 2805 'Ps. li.' is on the page but its number is missing in the text"}
+Verdicts: ok / problem / unclear (say why). Check that there is one line per case and each parses as JSON.
+Reply with one short line of counts (ok, problem, unclear). Do not paste the cases into the reply.

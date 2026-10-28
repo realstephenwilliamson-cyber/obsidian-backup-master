@@ -18,7 +18,7 @@ converted: 2026-10-15
 
 thou hast pleasure in feeding bodies which are mortal, though they be the bodies of Saints; but when thou shalt have got to that country, wilt thou find there any stranger whom thou mayest receive into thine house? wilt thou find the hungry, to whom thou mayest break thy bread? or the thirsty, to whom thou mayest hold out thy cup? the sick whom thou mayest visit? the litigious, whom thou mayest set at one? the dead, whom thou mayest bury? None of all these will be there, but what will be there? What Mary hath chosen; there shall we be fed, and shall not feed others. Therefore there will that be in fulness and perfection which Mary hath chosen here; from that rich table, from the word of the Lord did she gather up some crumbs. For would ye know what will be there? The Lord Himself saith of His servants: “Verily I say unto you, that He will make them to sit down to meat, and will pass by<sup>3325</sup> and serve them.”<sup>3326</sup> What is “to sit down to meat,” but to “be still”? What is, “to sit down to meat,” but to rest? What is, “He will pass by and serve them”? First, He passeth by, and so serveth. And where? In that heavenly Banquet, of which he saith, “Verily I say unto you, Many shall come from the East and West, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.”<sup>3327</sup> There will the Lord feed us, but first He passeth on from hence. For (as ye should know) the Pasch is by interpretation Passing-over. The Lord came, He did divine things, He suffered human things. Is He still spit upon? Is He still struck with the palm of the hand? Is He still crowned with thorns? Is He still scourged? Is He still crucified? Is He still wounded with a spear? “He hath passed by.” And so too the Gospel tells us, when He kept the Paschal feast with His disciples. What says the Gospel? “But when the hour was come that Jesus should pass out of this world unto the Father.”<sup>3328</sup> Therefore did He pass,<sup>3329</sup> that He might feed us; let us follow, that we may be fed.
 
-429 παρελθων; *transiens*, Vulgate. 3325 3326 [[Luke 12#^12-37|Luke xii. 37]]. 3327 [[Matthew 08#^8-11|Matt. viii. 11]]. 3328 [[John 13#^13-1|John xiii. 1]]. μεταβῇ; *transeat*, Vulgate.
+429 3325 παρελθων; *transiens*, Vulgate. 3326 [[Luke 12#^12-37|Luke xii. 37]]. 3327 [[Matthew 08#^8-11|Matt. viii. 11]]. 3328 [[John 13#^13-1|John xiii. 1]]. 3329 μεταβῇ; *transeat*, Vulgate.
 
 *[p. 895]* ^pg921
 
@@ -30,7 +30,7 @@ Sermon LIV.
 
 2\. For what, do we imagine that Martha’s serving was blamed, whom the cares of hospitality had engaged, who had received the Lord Himself into her house? How could she be rightly blamed, who was gladdened by so great a guest? If this be true, let men give over their ministrations to the needy; let them choose for themselves “the better part, which shall not be taken from” them; let them give themselves<sup>3332</sup> wholly to the word, let them long after the sweetness of doctrine; be occupied about the saving knowledge; let it be no care to them, what stranger is in the street, who there is that wants bread, or clothing, or to be visited, to be redeemed, to be buried; let works of mercy cease, earnest heed be given to knowledge only. If this be “the better part,” why do not all do this, when we have the Lord Himself for our defender in this behalf? For we do not fear in this matter, lest we should offend His justice, when we have the support of His judgment.
 
-3330 [[Luke 10#^10-41|Luke x. 41]], [[Luke 10#^10-42|42]]. 3331 *Ventris*. *Vacent*.
+3330 [[Luke 10#^10-41|Luke x. 41]], [[Luke 10#^10-42|42]]. 3331 *Ventris*. 3332 *Vacent*.
 
 
 *[p. 896]* ^pg922
@@ -41,7 +41,7 @@ Sermon LIV.
 
 The things which were made, are many, He who made them is One. The heaven, the earth, the sea, and all things that in them are, how many are they! Who could enumerate them? who conceive their vast number? Who made all these? God made them all. Behold, “they are very good.”<sup>3333</sup> Very good are the things He made; how much better is He who made them! Let us consider then our “occupations about many things.” Much serving is necessary for the refreshment of our bodies. Wherefore is this? Because we hunger, and thirst. Mercy is necessary for the miserable. Thou breakest bread to the hungry; because thou hast found an hungry man; take hunger away; to whom dost thou break bread? Take houseless wandering<sup>3334</sup> away; to whom dost thou show hospitality? Take nakedness away; to whom dost thou furnish clothes? Let there be no sickness; whom dost thou visit? No captivity; whom dost thou redeem? No quarrelling; whom dost thou reconcile? No death; whom dost thou bury? In that world to come, these evils will not be; therefore these services will not be either. Well then did Martha, as touching the bodily—what shall I call it, want, or will, of the Lord?—minister to His mortal flesh. But who was He in that mortal flesh? “In the beginning was the Word, and the Word was with God, and the Word was God:”<sup>3335</sup> see what Mary was listening to! “The Word was made flesh, and dwelt among us:”<sup>3336</sup> see to whom Martha was ministering! Therefore “hath Mary chosen the better part, which shall not be taken from her.” For she chose that which shall abide for ever; “it shall not be taken from her.” She wished to be occupied about “one thing.” She understood already, “But it is good for me to cleave to the Lord.”<sup>3337</sup> She sat at the feet of our Head. The more lowlily she sat, the more amply did she receive. For the water flows together to the low hollows of the valley, runs down from the risings of the hill. The Lord then did not blame Martha’s work, but distinguished between their services. “Thou art occupied about many things; yet one thing is needful.” Already hath Mary chosen this for herself. The labour of manifoldness passeth away, and the love of unity abideth. Therefore what she hath chosen, “shall not be taken from her.” But from thee, that which thou hast chosen (of course this follows, of course
 
-430 3333 Gen. i. 31. 3334 *Peregrinationem*. 3335 [[John 01#^1-1|John i. 1]]. 3336 [[John 01#^1-14|John i. 14]].
+430 3333 Gen. i. 31. 3334 *Peregrinationem*. 3335 [[John 01#^1-1|John i. 1]]. 3336 [[John 01#^1-14|John i. 14]]. 3337 Ps. lxxiii. 28.
 
 *[p. 897]* ^pg923
 
@@ -51,7 +51,7 @@ this is understood) from thee, that which thou hast chosen shall be taken away. 
 
 4\. Ye see then, dearly Beloved, and, as I suppose, ye understand already, that in these two women, who were both well pleasing to the Lord, both objects of His love, both disciples; ye see, I say (and an important thing it is which whosoever understand, understand hereby, a thing which, even those of you who do not understand ought to give ear to, and to know), that in these two women the two lives are figured, the life present, and the life to come, the life of labour, and the life of quiet, the life of sorrow, and the life of blessedness, the life temporal, and the life eternal. These are the two lives: do ye think of them more fully. What this life contains, I speak not of a life of evil, or iniquity, or wickedness, or luxuriousness, or ungodliness; but of labour, and full of sorrows, by fears subdued, by temptations disquieted: even this harmless life I mean, such as was suitable for Martha: this life I say, examine as best ye can; and as I have said, think of it more fully than I speak. But a wicked life was far from that house, and was neither with Martha nor with Mary; and if it ever had been, it fled at the Lord’s entrance. There remained then in that house, which had received the Lord, in the two women the two lives, both harmless, both praiseworthy; the one of labour, the other of ease; neither vicious, neither slothful. Both harmless, both, I say, praiseworthy: but one of labour, the other of ease: neither vicious, which the life of labour must beware of; neither slothful, which the life of ease must beware of. There were then in that house these two lives, and Himself, the Fountain of life. In Martha was the image of things present, in Mary of things to come. What Martha was doing, that we are now; what Mary was doing, that we hope for. Let us do the first well, that we may have the second fully. For what of it have we now? How far have we it? As long as we are here, how much of it is there that we have? For in some measure are we employed in it now, and ye too when removed from business, and laying aside domestic cares, ye meet together, stand, listen. In so far as ye do this, ye are like Mary. And with greater facility do ye do that which Mary doeth, than I who have to distribute. Yet if I say ought, it is Christ’s; therefore doth it feed you, because it is Christ’s. For the Bread is common to us all, of which I too live as well as you. “But now we live, if ye, Brethren, stand fast in the Lord.” <sup>3338</sup> I would not that ye should stand fast in us, but in the Lord. “For neither is he that planteth anything, neither he that watereth; but God that giveth the increase.”<sup>3339</sup>
 
-3338 [[1 Thessalonians 03#^3-8|1 Thess. iii. 8]]. [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 431
+3338 [[1 Thessalonians 03#^3-8|1 Thess. iii. 8]]. 3339 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 431
 
 
 *[p. 898]* ^pg924
@@ -66,7 +66,7 @@ Sermon LV.
 
 2\. Let us awake, and believe Him who exhorteth us, obey Him who promiseth us, and rejoice in Him who giveth unto us. For peradventure, some time or other some friend out of his way has come to us too, and we have found nothing to set before him; and under the experience of this necessity, we have received both for ourselves and him. For it cannot be, but that some one of us hath fallen in with a friend who asked him something, which he could not answer; and then he has discovered that he has it not, when he is pressed to give it. A friend has come to thee “out of the way,” out, that is, of the life of this world, in which all men are passing along as strangers, and no one abides here as possessor; but to every man it is said, “Thou hast been refreshed, pass on, go on thy way, give place to the next comer.”<sup>3342</sup> Or perhaps from an evil “way,” that is, from an evil life, some friend of thine
 
-3340 [[Luke 11#^11-5|Luke xi. 5]]. 3341 [[Luke 18#^18-2|Luke xviii. 2]]. Ecclus. xxix. 27.
+3340 [[Luke 11#^11-5|Luke xi. 5]]. 3341 [[Luke 18#^18-2|Luke xviii. 2]]. 3342 Ecclus. xxix. 27.
 
 
 *[p. 899]* ^pg925
@@ -81,7 +81,7 @@ wearied out, and not finding the truth, by the hearing and perceiving of which h
 
 5\. But necessary it is that thou have charity, that thou have faith, that thou have hope; that that which is given may be sweet unto thee. And these same, faith, hope, charity, are
 
-*Merearis*.
+3343 *Merearis*.
 
 *[p. 900]* ^pg926
 
@@ -93,7 +93,7 @@ three. And these too are gifts of God. For faith we have received from Him; “A
 
 3344 [[Romans 12#^12-3|Rom. xii. 3]]. 3345 Ps. cxix. 49. 3346 [[Romans 05#^5-5|Rom. v. 5]]. 3347 [[1 Corinthians 13#^13-13|1 Cor. xiii. 13]]. 3348 [[Luke 11#^11-11|Luke xi. 11–13]]. 3349 Cant. iv. 8, Sept. See on St. Cyprian, Ep. p. 278, note *n*.
 
-3350 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]], [[2 Corinthians 11#^11-3|3]]. [[Ephesians 03#^3-17|Eph. iii. 17]].
+3350 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]], [[2 Corinthians 11#^11-3|3]]. 3351 [[Ephesians 03#^3-17|Eph. iii. 17]].
 
 
 *[p. 901]* ^pg927
@@ -102,7 +102,7 @@ three. And these too are gifts of God. For faith we have received from Him; “A
 
 7\. There remains hope, which, as I think, is compared to an egg. For hope has not yet arrived at attainment; and an egg is something, but not yet the chicken. So then quadrupeds give birth to young ones, but birds to the hope of young. Hope therefore exhorts us to this, to despise things present, to wait for things to come; “forgetting those things which are behind,” let us, with the Apostle,” reach forth unto those things which are before.” <sup>3352</sup> For so he says; “But one thing I do, forgetting those things which are behind, reaching forth unto those things which are before, I follow on earnestly unto the prize of the high calling of God in Christ Jesus.” Nothing then is so hostile to hope, as to “look back,” to place hope, that is, in those things which flit by and pass away; but in those things should we place it, which are not yet given, but which sometime will be given, and will never pass away. But when the world is deluged by trials,<sup>3353</sup> as it were the sulphureous rain of Sodom, the example of Lot’s wife must be feared. For she “looked behind;”<sup>3354</sup> and in the spot where she looked behind, there did she remain. She was turned into salt, that she might season the wise by her example. Of this hope the Apostle Paul speaketh thus; “For we are saved in hope; but hope that is seen is not hope; for what a man seeth, why doth he yet hope for: but if we hope for that we see not, then do we with patience wait for it. For what a man seeth, why doth he yet hope for.”<sup>3355</sup> It is an egg, and not as yet the chicken. And it is covered with a shell; it is not seen because it is covered; let it be with patience waited for; let it feel the warmth, that it may come to life. Press on, “reach forth unto the things which are before, forget the past. For the things which are seen, are temporal. Not looking back,” says he, “at the things which are seen, but at the things which are not seen. For the things which are seen are temporal; but the things which are not seen are eternal.”<sup>3356</sup> Unto those things which are not seen then extend thy hope, wait, endure. Look not back. Fear “the scorpion” for thine “egg.” See how he wounds with the tail, which he has behind him. Let not then the “scorpion” crush thine “egg,” let not this world crush thy hope (so to say) with its poison, therefore against thee, because behind. How loudly does the world talk to thee, what an uproar does it make behind thy back, that thou mayest look back! that is, that thou mayest place thy hope in present things (and yet not even present, for they cannot be called present which have no fixedness), and mayest turn thy mind away from that which Christ hath promised, and not yet given, but who, seeing He is faithful, will give it, and mayest be content to look for rest in a perishing world.
 
-3352 [[Philippians 03#^3-13|Phil. iii. 13]]. 3353 As by the irruption of the barbarian tribes. 3354 Gen. xix. 26. 3355 [[Romans 08#^8-24|Rom. viii. 24]], [[Romans 08#^8-25|25]]. [[2 Corinthians 04#^4-18|2 Cor. iv. 18]].
+3352 [[Philippians 03#^3-13|Phil. iii. 13]]. 3353 As by the irruption of the barbarian tribes. 3354 Gen. xix. 26. 3355 [[Romans 08#^8-24|Rom. viii. 24]], [[Romans 08#^8-25|25]]. 3356 [[2 Corinthians 04#^4-18|2 Cor. iv. 18]].
 
 
 *[p. 902]* ^pg928
@@ -115,7 +115,7 @@ three. And these too are gifts of God. For faith we have received from Him; “A
 
 3357 *Munde immunde*. 3358 *Alimenta mentiris*. 3359 Ps. xxxiv. 1.
 
-3360 Job i. 21, Sept. 3361 Ps. cxlvii. 2. 3362 Ps. cxxvii. 1. 3363 Ps. cxxi. 4. [[Galatians 03#^3-16|Gal. iii. 16]].
+3360 Job i. 21, Sept. 3361 Ps. cxlvii. 2. 3362 Ps. cxxvii. 1. 3363 Ps. cxxi. 4. 3364 [[Galatians 03#^3-16|Gal. iii. 16]].
 
 
 *[p. 903]* ^pg929
@@ -132,7 +132,7 @@ To them no bounds of empire I assign, Nor term of years to their immortal line.<
 
 3365 [[Galatians 03#^3-29|Gal. iii. 29]]. 3366 Gen. xii. 3 and xxii. 18. 3367 [[Luke 12#^12-35|Luke xii. 35]], [[Luke 12#^12-36|36]]. 3368 [[Mark 13#^13-8|Mark xiii. 8]]. 3369 [[Luke 01#^1-33|Luke i. 33]].
 
-3370 Virg. *Æneid*, i. 282–283 (Dryden). 3371 [[Luke 21#^21-33|Luke xxi. 33]]. *Georg*. ii. 489.
+3370 Virg. *Æneid*, i. 282–283 (Dryden). 3371 [[Luke 21#^21-33|Luke xxi. 33]]. 3372 *Georg*. ii. 489.
 
 
 *[p. 904]* ^pg930
@@ -145,7 +145,7 @@ See how I spoke of the impending ruin of the state. I spoke of its impending rui
 
 12\. Ye have noticed, it may be, how a hen will tear a scorpion in pieces. O then that the Hen of the Gospel would tear in pieces and devour these blasphemers, creeping out of their holes, and inflicting hurtful stings, would pass them over into Her Body, and turn them into an egg. Let them not be angry; we seem to be excited; but we do not return curses for curses. “We are cursed, and we bless, being defamed, we entreat.”<sup>3375</sup> But “let him not speak of Rome, it is said of me: O that he would hold his tongue about Rome;” as though I were insulting it, and not rather entreating the Lord for it, and exhorting you all, unworthy as I am. Be it far from me to insult it! The Lord avert this from my heart, and from the grief of my conscience. Have we not had many brethren there? have we not still? Does not a large portion of the pilgrim city Jerusalem live there? has it not endured there temporal afflictions? but it has not lost the things eternal. What can I say then, when I speak of Rome, but that is
 
-3373 *Ad delicias*. 3374 [[Matthew 23#^23-37|Matt. xxiii. 37]]. [[1 Corinthians 04#^4-12|1 Cor. iv. 12]], [[1 Corinthians 04#^4-13|13]].
+3373 *Ad delicias*. 3374 [[Matthew 23#^23-37|Matt. xxiii. 37]]. 3375 [[1 Corinthians 04#^4-12|1 Cor. iv. 12]], [[1 Corinthians 04#^4-13|13]].
 
 
 *[p. 905]* ^pg931
@@ -169,6 +169,8 @@ Christian faith, were yet hostile and opposed to idols, and they took Rome; they
 
 They were involved in the afflictions of their earthly kingdom: but they lost not the kingdom of heaven; yea, rather, they were made the better for obtaining it through the exercise of tribulations. And if they did not in their tribulations blaspheme, they came out as sound vessels from the furnace, and were filled with the blessing of the Lord. Whereas those blasphemers, who follow and long after earthly things, who place their hope in earthly things, when these they have lost, whether they will or no, what shall they retain? where shall they abide? Nothing without, nothing within; an empty coffer, an emptier conscience. Where is their rest? where their salvation? where their hope? Let them then come, let them give over blaspheming, let them learn to adore; let the scorpions with their stings be devoured by the Hen, let them be turned into His body who makes them pass over into it; let them on earth be exercised, in heaven be crowned.
 
+3381 Ps. xxxiv. 1.
+
 *[p. 907]* ^pg933
 
 ### On the words of the Gospel, Luke xi. 39, ‘Now do ye Pharisees cleanse the outside of the cup and the platter,’ etc.
@@ -181,7 +183,7 @@ Sermon LVI.
 
 2\. And what did He say to them after this? “But rather give alms, and behold all things are clean unto you.”<sup>3385</sup> See the praise of alms, do, and prove it. But mark awhile; this was said to the Pharisees. These Pharisees were Jews, the choice men as it were of the Jews. For those of most consideration and learning were then called Pharisees. They had not been washed by Christ’s Baptism; they had not yet believed on Christ, the Only-begotten Son of God, who walked among them, yet was not acknowledged by them. How then doth He say to them, “Give alms, and behold all things are clean unto you”? If the Pharisees had paid heed to Him, and given alms, at once according to His word “all things would have been
 
-3382 [[Luke 11#^11-39|Luke xi. 39]]. 3383 [[Acts 15#^15-9|Acts xv. 9]]. 3384 [[1 Peter 03#^3-20|1 Pet. iii. 20]], [[1 Peter 03#^3-21|21]].
+3382 [[Luke 11#^11-39|Luke xi. 39]]. 3383 [[Acts 15#^15-9|Acts xv. 9]]. 3384 [[1 Peter 03#^3-20|1 Pet. iii. 20]], [[1 Peter 03#^3-21|21]]. 3385 [[Luke 11#^11-41|Luke xi. 41]].
 
 
 *[p. 908]* ^pg934
@@ -194,7 +196,7 @@ clean to them;” what need then was there for them to believe on Him? But if th
 
 4\. If this be so, why did He say to them, “Do alms, and behold all things are clean unto you”? What is, “Do alms”? Do mercy. What is, “Do mercy”? If thou understand, begin with thine own self. For how shouldest thou be merciful to another, if thou art cruel to thyself? “Give alms, and all things are clean unto you.” Do true alms. What is alms? Mercy. Hear the Scripture; “Have mercy on thine own soul, pleasing God.”<sup>3388</sup> Do alms, “Have mercy on thine own soul, pleasing God.” Thine own soul is a beggar before thee, return to thy conscience. Whosoever thou art, who art living in wickedness or unbelief, return to thy conscience; and there thou findest thy soul in beggary, thou findest it needy, thou findest it poor, thou findest it in sorrow, nay perhaps thou dost not find it in need, but dumb through its neediness. For if it beg, it “hungereth after righteousness.” Now when thou findest thy soul in such a state (all this is within, in thy heart), first do alms, give it bread. What bread? If the Pharisee had asked this question, the Lord would have said to him, “Give alms to thine own soul.” For this He did say to him; but he did not understand it, when He enumerated
 
-3386 [[Matthew 23#^23-23|Matt. xxiii. 23]]. 3387 [[Luke 11#^11-42|Luke xi. 42]]. Ecclus. xxx. 23, Vulgate.
+3386 [[Matthew 23#^23-23|Matt. xxiii. 23]]. 3387 [[Luke 11#^11-42|Luke xi. 42]]. 3388 Ecclus. xxx. 23, Vulgate.
 
 
 *[p. 909]* ^pg935
@@ -220,7 +222,7 @@ Sermon LVII.
 
 3\. “Speak to my brother, that he divide the inheritance with me.” Just case, short case. But let us hear Him who at once gives judgment and instruction. “Man,” He saith. “O man;”
 
-3391 more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 [[Luke 12#^12-15|Luke xii. 15]].
+3391 more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 [[Luke 12#^12-15|Luke xii. 15]]. 3393 [[Luke 12#^12-13|Luke xii. 13]].
 
 
 *[p. 911]* ^pg937
@@ -231,7 +233,7 @@ for seeing thou valuest this inheritance so highly, what art thou but a man? He 
 
 4\. Thou hast petitioned for a kindness; hear counsel. “I say unto you, Beware of all covetousness.”<sup>3398</sup> “Perhaps,” he would say, “thou wouldest call him covetous and greedy, if he were seeking another’s goods; but I say, seek not even thine own greedily or covetously.” This is “Of all, beware of all covetousness.” A heavy burden this! If by any chance this burden be imposed on them that are weak; let Him be sought unto, that He who imposes it, may vouchsafe to give us strength. For it is not a thing to be lightly regarded, my Brethren, when our Lord, our Redeemer, our Saviour, who died for us, who gave His Own Blood as our ransom, to redeem us, our Advocate and Judge; it is no light matter when He saith, “Beware.” He knoweth well how great the evil is; we know it not, let us believe Him. “Beware,” saith He. Wherefore? of what? “of all covetousness.” I am but keeping what is mine own, I am not taking away another’s; “Beware of all covetousness.” Not only is he covetous, who plunders the goods of others; but he is covetous too, who greedily keeps his own. But if he is so blamed who greedily keeps his own; how is he condemned who plunders what is another’s! “Beware,” He saith, “of all covetousness: For a man’s life consisteth not in the abundance of the things which he possesseth.” He that stores up great abundance, how much does he take therefrom to live? When he has taken it, and in a way separated in thought sufficient to live upon from it, let him consider for whom the rest remains; lest haply when thou keepest wherewith to live, thou art gathering only wherewith to die. Behold Christ, behold truth, behold severity. “Beware,” saith truth: “Beware,” saith severity. If thou love
 
-3394 Ps. lxxxii. 6. 3395 [[Luke 12#^12-14|Luke xii. 14]]. 3396 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]. 3397 [[1 Corinthians 01#^1-12|1 Cor. i. 12]], [[1 Corinthians 01#^1-13|13]].
+3394 Ps. lxxxii. 6. 3395 [[Luke 12#^12-14|Luke xii. 14]]. 3396 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]. 3397 [[1 Corinthians 01#^1-12|1 Cor. i. 12]], [[1 Corinthians 01#^1-13|13]]. 3398 [[Luke 12#^12-15|Luke xii. 15]].
 
 
 *[p. 912]* ^pg938
@@ -246,7 +248,7 @@ not the truth, fear severity. “A man’s life consisteth not in the abundance 
 
 438 3399 [[Luke 12#^12-16|Luke xii. 16]].
 
-3400 *Successerat*. 3401 [[Luke 12#^12-18|Luke xii. 18]], [[Luke 12#^12-19|19]]. 3402 [[Luke 12#^12-20|Luke xii. 20]]. 3403 *Iniquius*. *Vid*. Serm. xxii. (lxxii. Ben.) 4 (iii.); xxxii. (lxxxii. Ben.) 14 (xi.); xxxv. (lxxxv. Ben).
+3400 *Successerat*. 3401 [[Luke 12#^12-18|Luke xii. 18]], [[Luke 12#^12-19|19]]. 3402 [[Luke 12#^12-20|Luke xii. 20]]. 3403 *Iniquius*. 3404 *Vid*. Serm. xxii. (lxxii. Ben.) 4 (iii.); xxxii. (lxxxii. Ben.) 14 (xi.); xxxv. (lxxxv. Ben).
 
 
 *[p. 913]* ^pg939
@@ -257,7 +259,7 @@ not wish to be good himself? Unworthy art thou to have them, who dost not wish t
 
 7\. But peradventure he was not yet a Christian. Let us hear then, Brethren, to whom as believers the Gospel is read, by whom He who spake these things, is worshipped, whose mark is borne by us on our forehead, and is held in the heart. For of very great concernment is it where a man hath the mark of Christ, whether in the forehead, or both in the forehead and the heart. Ye have heard to-day the words of the holy prophet Ezekiel, how that before God sent one to destroy the ungodly people, He first sent one to mark them, and said to him, “Go and set a mark upon the foreheads of the men that sigh and moan for the sins of my people that are done in the midst of them.”<sup>3407</sup> He did not say, “which<sup>3408</sup> are done without them;” but “in the midst of them.” Yet they “sigh and moan;” and therefore are they “marked on the forehead:” in the forehead of the inner man, not the outer. For there is a forehead in the face, there is a forehead in the conscience. So it happens that when the inner forehead is stricken, the outer grows red; either red with shame, or pale with fear. So then there is a forehead of the inner man. There were they “marked” that they might not be destroyed; because though they did not correct the sins which were “done in the midst of them,” yet they sorrowed for them, and by that very sorrow separated themselves; and though separated in God’s sight, they were mixed with them in the eyes of men. They are “marked” secretly, are not hurt openly. Afterwards the Destroyer is sent, and to him it is said, “Go, lay waste, spare neither young nor old, male nor female, but come not near those who have the mark on their forehead.” <sup>3409</sup> How great security is granted to you, my Brethren, who among this people are sighing, and moaning for the iniquities which are being done in the midst of you, and who do them not!
 
-3405 *Casulam*. 3406 *Ventres*. 3407 Ezek ix. 4. 3408 Against the Donatists. Ezek. ix. 6.
+3405 *Casulam*. 3406 *Ventres*. 3407 Ezek ix. 4. 3408 Against the Donatists. 3409 Ezek. ix. 6.
 
 
 *[p. 914]* ^pg940
@@ -268,7 +270,7 @@ not wish to be good himself? Unworthy art thou to have them, who dost not wish t
 
 9\. Give me a man who has given ear to Christ, give me a man who has heard with fear “Beware of all covetousness;” and let him not say to me, “I am a poor man, a plebeian of mean estate, one of the common people, how can I hope ever to be a judge? I am in no fear of this temptation, the peril of which thou hast placed before mine eyes.” Yet lo, even this
 
-3410 *Divinitate*. 3411 In allusion to the Circumcelliones amongst the Donatists. See ab. p. 305, note. 3412 *Quibus male inhæsisti*. *Proscribor*.
+3410 *Divinitate*. 3411 In allusion to the Circumcelliones amongst the Donatists. See ab. p. 305, note. 3412 *Quibus male inhæsisti*. 3413 *Proscribor*.
 
 
 *[p. 915]* ^pg941
@@ -279,7 +281,7 @@ poor man I will tell what he ought to fear. Some rich and powerful person calls 
 
 10\. Lo, thou art in confusion, tossed to and fro; thy heart as a ship is shaken about by tempests. Christ is asleep: awake Him, that sleepeth, and thou shalt be exposed no more to the raging of the storm. Awake Him, who was pleased to have nothing here, and thou hast all, who came even to the Cross for thee, whose “Bones” as He was naked and hanging “were numbered” by them that mocked Him; and “beware of all covetousness.” Covetousness of money is not all; “beware of covetousness” of life. A dreadful covetousness, covetousness much to be feared. Sometimes a man will despise what he has, and say, “I will not give false witness; I will not. You tell me, I will take away what thou hast. Take away what I have; you do not take away what I have within. For he was not left a poor man, who said, ‘The Lord gave, the Lord hath taken away; it is done as it pleased the Lord; blessed’ therefore ‘be the Name of the Lord. Naked came I out of my mother’s womb, naked shall I return to the earth.’<sup>3414</sup> Naked outwardly, well-clothed within. Naked as regards these rags, these corruptible rags outwardly, clothed within. With what? ‘Let thy priests be clothed with righteousness.’”<sup>3415</sup> But what if he say to thee, when thou hast despised the things which thou possessest, what if he say to thee, “I will kill thee”? If thou have given ear to Christ, answer him, “Wilt Thou kill me? Better that thou shouldest kill my body, than that I by a false tongue should kill my soul! What canst thou do to me? Thou wilt kill my body; my soul will depart
 
-3414 Job i. 21.
+3414 Job i. 21. 3415 Ps. cxxxii. 9.
 
 
 *[p. 916]* ^pg942
@@ -290,7 +292,7 @@ at liberty, to receive again at the end of the world even this very body she hat
 
 etousness everywhere, when we wish for more than is necessary, causes us to sin. Beware we of all covetousness, if we would enjoy eternal wisdom.
 
-Wisd. i. 11.
+3416 Wisd. i. 11.
 
 *[p. 917]* ^pg943
 
@@ -306,7 +308,7 @@ Sermon LVIII.
 
 3417 [[Matthew 28#^28-20|Matt. xxviii. 20]]. 3418 [[Romans 06#^6-9|Rom. vi. 9]]. 3419 [[John 01#^1-10|John i. 10]].
 
-3420 The troubles through the incursions of the barbarian tribes, as heralds of the end. See St. Cyprian, *Ad Demetr*. 2, p. 201, Oxf. tr.; *De Mort*. v. 2, p. 216, 7. 3421 [[Matthew 05#^5-15|Matt. v. 15]]. 3422 [[Matthew 05#^5-16|Matt. v. 16]]. 3423 [[Luke 12#^12-35|Luke xii. 35]].
+3420 The troubles through the incursions of the barbarian tribes, as heralds of the end. See St. Cyprian, *Ad Demetr*. 2, p. 201, Oxf. tr.; *De Mort*. v. 2, p. 216, 7. 3421 [[Matthew 05#^5-15|Matt. v. 15]]. 3422 [[Matthew 05#^5-16|Matt. v. 16]]. 3423 [[Luke 12#^12-35|Luke xii. 35]]. 3424 Ps. xxxiv. 14.
 
 
 *[p. 918]* ^pg944
@@ -319,7 +321,7 @@ Sermon LVIII.
 
 4\. But if, as I have said, there is so great care in men, as to desire with daily, great and perpetual labours, to die somewhat later: with how great cause ought they to strive, that they may never die? Of this, no one will think. Day by day “good days” are sought for in
 
-441 3425 [[Luke 12#^12-36|Luke xii. 36]]. 3426 Ps. xxxiv. 14.
+441 3425 [[Luke 12#^12-36|Luke xii. 36]]. 3426 Ps. xxxiv. 14. 3427 [[Acts 24#^24-25|Acts xxiv. 25]].
 
 *[p. 919]* ^pg945
 
@@ -331,7 +333,7 @@ this world, where they are not found; yet no one wishes so to live, that he may 
 
 6\. For would ye with me hear His counsel, who knoweth where “good days” and where “life” is? Hear it not from me, but together with me. For One says to us, “Come, ye children, hearken unto Me.” And let us run together, and stand, and prick up our ears, and with our hearts understand the Father, who hath said, “Come, ye children, hearken unto Me, I will teach you the fear of the Lord.”<sup>3429</sup> And then follows what he would teach us, and to what end the fear of the Lord is useful. “Who is the man that wisheth life, and loveth to see good days?” We all answer, “We wish it.” Let us listen then to what follows, “Refrain thy tongue from evil, and thy lips that they speak no guile.”<sup>3430</sup> Now say, “I wish it.” Just now when I said, “Who is the man that wisheth for life, and loveth to see good days?” we all answered,
 
-3428 Ps. xxxiv. 12. 3429 Ps. xxxiv. 11.
+3428 Ps. xxxiv. 12. 3429 Ps. xxxiv. 11. 3430 Ps. xxxiv. 13.
 
 
 *[p. 920]* ^pg946
@@ -354,7 +356,7 @@ Sermon LIX.
 
 2\. Wherefore let us give ear to the Lord, let us do within ourselves what He hath enjoined. Let us see who that adversary is, of whom He hath put us in fear, saying, “If thou goest with thine adversary to the magistrate, give diligence in the way to be delivered from him; lest
 
-3431 [[Matthew 04#^4-17|Matt. iv. 17]]. 3432 [[Matthew 03#^3-2|Matt. iii. 2]]. 3433 [[Luke 17#^17-20|Luke xvii. 20]]. 3434 [[Luke 17#^17-21|Luke xvii. 21]]. *Præceptoris*.
+3431 [[Matthew 04#^4-17|Matt. iv. 17]]. 3432 [[Matthew 03#^3-2|Matt. iii. 2]]. 3433 [[Luke 17#^17-20|Luke xvii. 20]]. 3434 [[Luke 17#^17-21|Luke xvii. 21]]. 3435 *Præceptoris*.
 
 
 *[p. 922]* ^pg948
@@ -367,7 +369,7 @@ said, “Give diligence in the way to be delivered from him;” the other said, 
 
 3\. Let us then seek out this “adversary,” with whom we ought to “agree, lest he deliver us to the judge, and the judge to the officer;” let us seek him out, “and agree with him.” If thou sin, the word of God is thine adversary.<sup>3440</sup> For example, it is a delight to thee perchance to be drunken; it says to thee, “Do it not.” It is a delight to thee to frequent the spectacles, and such triflings; it says to thee, “Do it not.” It is a delight to thee to commit adultery; the word of God saith to thee, “Do it not.” In what sins soever thou wouldest do thine own will, it saith to thee, “Do it not.” It is the adversary of thy will, till it become the author of thy salvation. O how goodly, how useful an “adversary”! It does not seek our will, but our advantage. It is our “adversary,” as long as we are our own adversaries. As long as thou art thine own enemy, thou hast the word of God thine enemy; be thine own friend, and thou art in agreement with it. “Thou shalt do no murder;” give ear, and thou hast “agreed” with it. “Thou shalt not steal;” give ear, and thou hast “agreed” with it. “Thou shalt not commit
 
-3436 [[Luke 12#^12-58|Luke xii. 58]], [[Luke 12#^12-59|59]]. 3437 [[Colossians 01#^1-13|Col. i. 13]]. 3438 [[Luke 12#^12-58|Luke xii. 58]]. 3439 [[Matthew 05#^5-25|Matt. v. 25]]. Serm. ix. 3. *De decem chordis*.
+3436 [[Luke 12#^12-58|Luke xii. 58]], [[Luke 12#^12-59|59]]. 3437 [[Colossians 01#^1-13|Col. i. 13]]. 3438 [[Luke 12#^12-58|Luke xii. 58]]. 3439 [[Matthew 05#^5-25|Matt. v. 25]]. 3440 Serm. ix. 3. *De decem chordis*.
 
 
 *[p. 923]* ^pg949
@@ -378,7 +380,7 @@ adultery;” give ear, and thou hast “agreed” with it. “Thou shalt not giv
 
 4\. When is “the way” ended? It is not ended at the same hour to all. Each several man hath his hour when he shall end his “way.” This life is called “the way;” when thou hast ended this life, thou hast ended “the way.” We are going on, and the very living is advancing. Unless peradventure ye imagine that time advances, and we stand still! It cannot be. As time advances, we too advance; and years do not come to us, but rather go away. Greatly are men mistaken when they say, “This boy has little good sense yet, but years will come on him, and he will be wise.” Consider what thou sayest. “Will come on him,” thou hast said; “I will show that they go away,” whereas thou sayest, “they come on.” And hear how easily I prove it. Let us suppose that we have known the number of his years from his birth; for instance (that we may wish him well) he has to live fourscore years, he is to arrive at old age. Write down fourscore years. One year he has lived; how many hast thou in the total? how many hast thou down? Fourscore! Deduct one. He has lived ten; seventy remain. He has lived twenty; sixty remain. Yet surely, it will be said, they did come; what can this mean? Our years come that they may depart; they come, I say that they may go. For they do not come, that they may abide with us, but as they pass through us, they wear us out, and make us less and less strong. Such is “the way” into which we have come. What then have we to do with that “adversary,” that is, with the word of God? “Agree with him.” For thou knowest not when “the way” may be ended. When “the way” is ended, there remain “the judge,” and “the officer,” and “the prison.” But if thou maintain a good will to “thine adversary,” and “agree with him;” instead of a “judge,” shalt thou find a father, instead of a cruel “officer,” an Angel taking thee away into Abraham’s bosom, instead of a “prison,” paradise. How rapidly hast thou changed all things “in the way,” because thou hast “agreed with thine adversary”!
 
-Exod. xx. 13, etc.
+3441 Exod. xx. 13, etc.
 
 *[p. 924]* ^pg950
 
@@ -390,7 +392,7 @@ Sermon LX.
 
 1\. Touching “the fig-tree” which had its three years’ trial, and bare no fruit, and “the woman which was in an infirmity eighteen years,” hearken to what the Lord may grant me to say. The fig-tree is the human race. And the three years are the three times; one before the Law, the second under the Law, the third under grace. Now there is nothing unsuitable in understanding by “the fig-tree” the human race. For when the first man sinned, he covered his nakedness with fig-leaves;<sup>3442</sup> covered those members, from which we derive our birth. For what before his sin should have been his glory, after sin became his shame. So before that, “they were naked, and were not ashamed.”<sup>3443</sup> For they had no reason to blush, when 444 no sin had gone before; nor could they blush for their Creator’s works, because they had not yet mingled any evil work of their own with the good works of their Creator. For they had not yet eaten of the tree of knowledge of good and evil, of which they had been forbidden to eat. After then that they had eaten and sinned, the human race sprang from them; that is, man from man, debtor from debtor, mortal from mortal, sinner from sinner. In this “tree” then he entitles those, who through the whole range of time would not bear fruit; and for this cause the axe was hanging over the unfruitful tree. The gardener intercedes for it, punishment is deferred, that help may be administered. Now the gardener who intercedes, is every saint who within the Church prays for those who are without the Church. And what does he pray? “Lord, let it alone this year also;” that is, in this time of grace, spare the sinners, spare the unbelievers, spare the barren, spare the unfruitful. “I will dig about it, and put a basket of dung about it; if it bear fruit, well; but if not, thou shalt come and cut it down.”<sup>3444</sup> “Thou shalt come:” When? Thou shalt come in judgment, when Thou shalt come to judge the quick and dead. Meanwhile they are spared. But what is the “digging”? What is the “digging about it,” but the teaching lowliness and repentance? For a ditch is low ground. The basket of dung understand in its good effects. It is filthy, but it produces fruit. The gardener’s filth is the sinner’s sorrows. They who repent, repent in filthy robes; if, that is, they understand aright, and repent in truth. To this tree then is it said, “Repent ye, for the kingdom of heaven is at hand.”<sup>3445</sup>
 
-3442 Gen. iii. 7. 3443 Gen. ii. 25. 3444 [[Luke 13#^13-8|Luke xiii. 8]], [[Luke 13#^13-9|9]].
+3442 Gen. iii. 7. 3443 Gen. ii. 25. 3444 [[Luke 13#^13-8|Luke xiii. 8]], [[Luke 13#^13-9|9]]. 3445 [[Matthew 03#^3-2|Matt. iii. 2]].
 
 
 *[p. 925]* ^pg951
@@ -403,7 +405,7 @@ Sermon LX.
 
 3446 Ps. viii. 4. 3447 Ps. cxvi. 11. 3448 Ps. ix. 19. 3449 [[1 Peter 03#^3-20|1 Pet. iii. 20]].
 
-3450 Ps. xvii. 45, Sept. (cxliv. 11). *Conf*. B. x. 67–70 (42, 43).
+3450 Ps. xvii. 45, Sept. (cxliv. 11). 3451 *Conf*. B. x. 67–70 (42, 43).
 
 
 *[p. 926]* ^pg952
@@ -416,7 +418,7 @@ or rather wast Thou showing forth Thy Patience? and yet they mocked Thee, and ye
 
 4\. Ah! unfruitful tree, mock not, because thou art yet spared; the axe is delayed, be not<sup>3453</sup> thou secure; He will come and thou shalt be cut down. Believe that He will come. All these things which now ye see, once were not. Once the Christian people were not over the whole world. It was read of in prophecy, not seen in the earth; now it is both read and seen. Thus was the Church herself completed. It was not said to her, “See, O daughter, and hear;” but, “Hear and see.”<sup>3454</sup> Hear the predictions, see the completions. As then, my beloved Brethren, Christ had once not been born of a Virgin, but His birth was promised, and He was born; He had once not done His miracles, they were promised, and He did them: He had not yet suffered, it was promised, and so it came to pass: He had not risen again, it was foretold, and so fulfilled: His Name was not throughout the world, it was foretold, and so fulfilled: the idols were not destroyed and broken down, it was foretold, and so fulfilled: heretics had not assailed the Church, it was foretold, and so fulfilled. So also the Day of Judgment is not yet, but seeing it hath been foretold, it shall be fulfilled. Can it be that He who in so many things hath shown Himself true, should be false touching the Day of Judgment? He hath given us a bond<sup>3455</sup> of His promises. For God hath made Himself a debtor, not by owing ought, that is, not by borrowing; but by promising. We cannot therefore say to Him, “Give back what Thou hast received.” Since “who hath first given to Him, and it
 
-3452 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3453 A paranomasia not to be preserved in the original, *dilata est* securis, *noli esse* secura. 3454 Ps. xliv. 11, Sept. (xlv. 10, English version). *Chirographum*.
+3452 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3453 A paranomasia not to be preserved in the original, *dilata est* securis, *noli esse* secura. 3454 Ps. xliv. 11, Sept. (xlv. 10, English version). 3455 *Chirographum*.
 
 
 *[p. 927]* ^pg953
@@ -427,7 +429,7 @@ shall be recompensed unto him again?”<sup>3456</sup> We cannot say to Him, “
 
 5\. For hence it is that we are bold to say, day by day, “Thy kingdom come;”<sup>3458</sup> that when His kingdom comes, we too may reign with Him. Which hath been promised to us in these words; “Then will I say unto them, Come, ye blessed of My Father, receive the kingdom prepared for you from the beginning of the world.”<sup>3459</sup> But assuredly only if we shall have done what follows in that place. “For I was an hungred, and ye gave Me meat,” etc. He made these promises to our fathers; but He hath given us a security,<sup>3460</sup> for us too to read. If He who hath vouchsafed to give us this security, were to make a reckoning with us and say, “Read my debts, the debts, that is, of my promises, and reckon up what I have already paid, and reckon also what I still owe; see how many I have paid already; and what I owe is but little; will ye for that little that remains, think Me an untrustworthy promiser?” What should we have to answer against this most evident truth? Let him then who is barren repent, and bear “fruit worthy of repentance.” He that is bent down, who looks only on the earth, rejoices in earthly happiness, who thinks this the only happy life, where he may be happy, and who believes no other can be; whosoever he be that is so bent down, let him be made straight; if he cannot by himself, let him call upon God. For was that woman made straight by herself? Woe had it been for her, if He had not stretched out His Hand.
 
-3456 [[Romans 11#^11-35|Rom. xi. 35]]. 3457 *Planè*. 3458 [[Matthew 06#^6-10|Matt. vi. 10]]. 3459 [[Matthew 25#^25-34|Matt. xxv. 34]]. *Cautionem*.
+3456 [[Romans 11#^11-35|Rom. xi. 35]]. 3457 *Planè*. 3458 [[Matthew 06#^6-10|Matt. vi. 10]]. 3459 [[Matthew 25#^25-34|Matt. xxv. 34]]. 3460 *Cautionem*.
 
 
 *[p. 928]* ^pg954
@@ -440,7 +442,7 @@ Sermon LXI.
 
 1\. “The three measures of meal”<sup>3461</sup> of which the Lord spake, is the human race. Recollect the deluge; three only remained, from whom the rest were to be re-peopled. Noe had three sons, by them was repaired the human race. That holy “woman who hid the leaven,” is Wisdom. Lo, the whole world crieth out in the Church of God, “I know that the Lord is great.”<sup>3462</sup> Yet doubtless there are but few who are saved. Ye remember a question which was lately set before us out of the Gospel, “Lord,” it was said, “are there few that be saved?”<sup>3463</sup> What said the Lord to this? He did not say, “Not few, but many are they who are saved.” He did not say this. But what said He, when He had heard, “Are there few that be saved? Strive to enter by the strait gate.”<sup>3464</sup> When thou hearest then, “Are there few that be saved?” the Lord confirmed what He heard. Through the “strait gate” but “few” can “enter.” In another 446 place He saith Himself, “Strait and narrow is the way which leadeth unto life, and few there be that go thereby: but broad and spacious is the way that leadeth to destruction, and many there be which walk thereby.”<sup>3465</sup> Why rejoice we in great numbers? Give ear to me, ye “few.” I know that ye are “many,” who hear me, yet but “few” of you hear to obey. I see the floor, I look for the corn. And hardly is the corn seen, when the floor is being threshed; but the time is coming, that it shall be winnowed. But few then are saved in comparison of the many that shall perish. For these same “few” will constitute in themselves a great mass. When the Winnower shall come with His fan in His Hand, “He will cleanse His floor, and lay up the wheat into the garner; but the chaff He will burn with unquenchable fire.”<sup>3466</sup> Let not the chaff scoff at the wheat; in this He speaketh truth, and deceiveth no one. Be ye then in yourselves among many a many, few though ye be in comparison of a certain many. So large a mass is to come out of this floor, as to fill the garner of heaven. For the Lord Christ would not contradict Himself, who hath said, “Many there are who enter in by the narrow gate, many who go to ruin through the wide gate;” contradict Himself, who hath in another place said, “Many shall come from the East and West.”<sup>3467</sup> “Many” then are the “few;” both
 
-3461 [[Luke 13#^13-21|Luke xiii. 21]]. 3462 Ps. cxxxv. 5. 3463 [[Luke 13#^13-23|Luke xiii. 23]]. 3464 [[Luke 13#^13-24|Luke xiii. 24]]. 3465 [[Matthew 07#^7-13|Matt. vii. 13]], [[Matthew 07#^7-14|14]]. 3466 [[Luke 03#^3-17|Luke iii. 17]].
+3461 [[Luke 13#^13-21|Luke xiii. 21]]. 3462 Ps. cxxxv. 5. 3463 [[Luke 13#^13-23|Luke xiii. 23]]. 3464 [[Luke 13#^13-24|Luke xiii. 24]]. 3465 [[Matthew 07#^7-13|Matt. vii. 13]], [[Matthew 07#^7-14|14]]. 3466 [[Luke 03#^3-17|Luke iii. 17]]. 3467 [[Matthew 08#^8-11|Matt. viii. 11]].
 
 
 *[p. 929]* ^pg955
@@ -455,7 +457,7 @@ And after the Sermon.
 
 I suggest to you, Beloved, what ye know already. To-morrow breaks the anniversary day of the venerable<sup>3470</sup> lord Aurelius’ ordination; he asks and admonishes you, dear
 
-3468 [[Revelation 07#^7-9|Rev. vii. 9]]. 3469 Ps. cxxxv. 5. *Senis*.
+3468 [[Revelation 07#^7-9|Rev. vii. 9]]. 3469 Ps. cxxxv. 5. 3470 *Senis*.
 
 
 *[p. 930]* ^pg956
@@ -464,7 +466,7 @@ I suggest to you, Beloved, what ye know already. To-morrow breaks the anniversar
 
 Brethren, by my humble ministry, that ye would be so good<sup>3471</sup> as to meet together with all devotion at the basilica of Faustus. Thanks be to God.
 
-*Dignemini*.
+3471 *Dignemini*.
 
 *[p. 931]* ^pg957
 
@@ -476,7 +478,7 @@ Sermon LXII.
 
 2\. They who would not come made excuses. And how did they excuse themselves? There were three excuses: “One said, I have bought a farm,<sup>3476</sup> and I go to see it; have me excused. Another said, I have bought five pairs of oxen, and I go to prove them; I pray thee have me excused. A third said, I have married a wife, have me excused; I cannot come.”<sup>3477</sup> Do we suppose that these are not the excuses, which hinder all men, who decline to come to this supper? Let us look into them, discuss, find them out; but only that we may beware. In the purchase of the farm, the spirit of domination is marked out; therefore pride is rebuked. For men are delighted to have a farm, to hold, to possess it, to have men in it under them,
 
-3472 See Serm. xl. (xc. Ben.). 3473 Ps. lxxx. 7. 3474 [[Luke 14#^14-16|Luke xiv. 16]]. 3475 [[1 Timothy 02#^2-5|1 Tim. ii. 5]]. 3476 *Villam*, Vulgate.
+3472 See Serm. xl. (xc. Ben.). 3473 Ps. lxxx. 7. 3474 [[Luke 14#^14-16|Luke xiv. 16]]. 3475 [[1 Timothy 02#^2-5|1 Tim. ii. 5]]. 3476 *Villam*, Vulgate. 3477 [[Luke 14#^14-18|Luke xiv. 18–20]].
 
 
 *[p. 932]* ^pg958
@@ -497,7 +499,7 @@ to have dominion. An evil vice, the first vice. For the first man wished to have
 
 3478 [[John 20#^20-25|John xx. 25]]. 3479 [[John 20#^20-29|John xx. 29]].
 
-3480 *Temporalem*. 3481 [[John 12#^12-3|John xii. 3]]. 3482 [[1 Corinthians 11#^11-29|1 Cor. xi. 29]]. 3483 [[Luke 14#^14-15|Luke xiv. 15]].
+3480 *Temporalem*. 3481 [[John 12#^12-3|John xii. 3]]. 3482 [[1 Corinthians 11#^11-29|1 Cor. xi. 29]]. 3483 [[Luke 14#^14-15|Luke xiv. 15]]. 3484 [[John 06#^6-51|John vi. 51]].
 
 
 *[p. 934]* ^pg960
@@ -508,4 +510,4 @@ for that outward sense; nor have we said, “Let them believe who have seen with
 
 6\. “The third said, I have married a wife.” This is the pleasure of the flesh, which is a hindrance to many: and I would that it were so only without, and not within! There are men who say, “There is no happiness for a man, if he have not the pleasures of the flesh.” These are they whom the Apostle censures, saying, “‘Let us eat and drink, for to-morrow we shall die.’<sup>3486</sup> Who hath risen to this life from the other? Who hath ever told us what goes on there? We take away with us, what in the time present makes our happiness.” He that speaks thus, “has married a wife,” attaches himself to the flesh, places his delight in the pleasures of the flesh, excuses himself from the supper; let him look well to it that he die not by an inward famine. Attend to John, the holy Apostle and Evangelist; “Love not the world, neither the things that are in the world.”<sup>3487</sup> O ye who come to the Supper of the Lord, “Love not the world, neither the things that are in the world.” He did not say, “Have not;” but, “Love not.” Thou hast had, possessed, loved. The love of earthly things, is the bird-lime of the spirit’s wings. Lo, thou hast desired, thou hast stuck fast. “Who will give thee wings as of a dove?”<sup>3488</sup> When wilt thou fly, whither thou mayest in deed, seeing thou hast perversely wished to rest here, where thou hast to thy hurt stuck fast? “Love not the world,” is the divine trumpet. By the voice of this trumpet unceasingly is it proclaimed to the compass of the
 
-3485 [[John 20#^20-27|John xx. 27]]. 3486 [[1 Corinthians 15#^15-32|1 Cor. xv. 32]]. 3487 [[1 John 02#^2-15|1 John ii. 15]]. Ps. liv. 7, Sept. (lv. 6, English version).
+3485 [[John 20#^20-27|John xx. 27]]. 3486 [[1 Corinthians 15#^15-32|1 Cor. xv. 32]]. 3487 [[1 John 02#^2-15|1 John ii. 15]]. 3488 Ps. liv. 7, Sept. (lv. 6, English version).

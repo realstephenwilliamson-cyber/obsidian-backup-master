@@ -32,7 +32,7 @@ advertisement.
 
 ————————————The Sermons of St. Augustin, besides their other excellencies, furnish a beautiful picture of perhaps the deepest and most powerful mind of the Western Church adapting itself to 239 the little ones of Christ. In them, he who has furnished the mould for all the most thoughtful minds for fourteen hundred years, is seen forming with loving tenderness the babes in Christ. Very touching is the child-like simplicity, with which he gradually leads them through what to them were difficulties, watching all the while whether he made himself clear to them, keeping up their attention, pleased at their understanding, dreading their approbation, and leading them off from himself to some practical result. Very touching the tenderness with which he at times reproves, the allowance which he makes for human infirmities and for those in secular life, if they will not make their infirmities their boast, or in allowed duties and indulgences forget God. But his very simplicity precludes the necessity of any preface. His Sermons explain themselves. They appear from a passage in the Commentary on the Psalms to have been often taken down in writing at the time by the more attentive sort of hearers (as were those of St. Chrysostom); Possidius states that this was done from the commencement of his presbyterate, and that “thence<sup>1683</sup> through the body of Africa, excellent doctrine and the most sweet savour of Christ was diffused and made manifest, the Church of God beyond seas, when it heard thereof, partaking of the joy.” Those on the New Testament have been now selected, both as furnishing a comment, and as a gradual introduction to what is found in a larger measure elsewhere, the spiritual interpretation of Holy Scripture. It will doubtless seem strange to some at first sight that the spiritual meaning of numbers, for instance, should be made a part of religious instruction. And yet, it might not require any great diffidence to think that St. Augustin knew better than any of us, the tendency and effects of his mode of teaching upon minds, which he evidently treated with such tender care, and that they who have entered into that system can estimate its value better than they who have not. It will appear also, probably, that a system which sees a meaning everywhere in Holy Scripture is more reverential than one which overlooks it; as, on the other hand, as a fact, the anti-mystical interpretation has both in ancient and modern times stood connected with a cold rationalism, and with heresy. This is, however, a large subject, upon which this does not seem the place to enter, since such interpretations are here only incidental and subordinate, and it is here intended only to give a practical warning. Those who close their eyes, of course, never see. The eye also requires to be insensibly familiarized with what, as new, is strange to it. But whoever will not set himself against what is in fact the received mode of interpretation of the Church, will be insensibly won by it, and will have his reward. The interpretations of St. Augustin were, as he himself often says, sought by his own prayers
 
-*Vit.* c. 7.
+1683 *Vit.* c. 7.
 
 *[p. 527]* ^pg553
 
@@ -64,7 +64,7 @@ sermons on selected lessons of the new testament.
 
 2\. Now what more marvellous, what more magnificent thing could our Lord Jesus Christ, the Son of God, and also the Son of man (for this also He vouchsafed to be), grant to us, than the gathering into His fold not only of the spectators of these foolish shows, but even some of the actors in them; for He hath combated<sup>1688</sup> unto salvation not only the lovers of the combats of men with beasts, but even the combatants themselves, for He also was made a spectacle Himself. Hear how. He hath told us Himself, and foretold it before He was made a spectacle, and in the words of prophecy announced beforehand what was to come to pass,
 
-1685 [[2 Corinthians 04#^4-7|2 Cor. iv. 7]]. 1686 *Muneris*. 1687 [[Matthew 10#^10-22|Matt. x. 22]]. *Ipsos venatores venatus est ad salutem*.
+1685 [[2 Corinthians 04#^4-7|2 Cor. iv. 7]]. 1686 *Muneris*. 1687 [[Matthew 10#^10-22|Matt. x. 22]]. 1688 *Ipsos venatores venatus est ad salutem*.
 
 
 *[p. 529]* ^pg555
@@ -73,7 +73,7 @@ as if it were already done, saying in the Psalms, “They pierced My hands and M
 
 246 1689 Ps. xxii. 16, 17.
 
-1690 [[1 Corinthians 04#^4-9|1 Cor. iv. 9]]. 1691 *Spiritaliter*. *Venatorem*.
+1690 [[1 Corinthians 04#^4-9|1 Cor. iv. 9]]. 1691 *Spiritaliter*. 1692 *Venatorem*.
 
 
 *[p. 530]* ^pg556
@@ -82,7 +82,7 @@ whole world. But they who in that hesitation have chosen rather to run to the am
 
 3\. That our Lord Jesus Christ might do this He became the Son of man by being born of a woman. But now, “would He have been any less a man, if He had not been born of the Virgin Mary” one may say. “He willed to be a man; well and good; He might have so been, and yet not be born of a woman; for neither did He make the first man whom He made, of a woman.” Now see what answer I make to this. You say, Why did He choose to be born of a woman? I answer, Why should He avoid being born of a woman? Granted that I could not show that He chose to be born of a woman; do you show why He need have avoided it. But I have already said at other times, that if He had avoided the womb of a woman, it might have betokened, as it were, that He could have contracted defilement from her; but by how much He was in His own substance more incapable of defilement, by so much less had He cause to fear the woman’s womb, as though He could contract defilement from it. But by being born of a woman, He purposed to show to us some high mystery.<sup>1694</sup> For of a truth, brethren, we grant too, that if the Lord had willed to become man without being born of a woman, it were easy to His sovereign Majesty. For as He could be born of a woman without a man, so could He also have been born without the woman. But this hath He shown us, that mankind of neither sex might despair of its salvation, for the human sexes are male and female. If therefore being a man, which it behoved Him assuredly to be, He had not been born of a woman, women might have despaired of themselves, as mindful of their first sin, because by a woman was the first man deceived, and would have thought that they had no hope at all in Christ. He came therefore as a man to make special choice of that sex, and was born of a woman to console the female sex, as though He would address them and say; “That ye may know that no creature of God is bad, but that<sup>1695</sup> unregulated pleasure perverteth it, when in the beginning I made man, I made them male and female. I do not condemn the creature which I made. See I have been born a Man, and born of a woman; it is not then the creature which I made that I condemn, but the sins which I made not.” Let each sex then at once see its honour, and confess its iniquity, and let them both hope for salvation. The poison to deceive man was presented him by woman, through woman let salvation for man’s recovery be presented; so let the woman make amends for the sin by which she deceived the man, by giving birth to Christ. For the same reason again, women were the first who announced to the Apostles the Resurrection of God. The woman in Paradise announced
 
-1693 [[John 16#^16-33|John xvi. 33]]. 1694 *Sacramenti*. *Prava*.
+1693 [[John 16#^16-33|John xvi. 33]]. 1694 *Sacramenti*. 1695 *Prava*.
 
 
 *[p. 531]* ^pg557
@@ -93,7 +93,7 @@ death to her husband, and the women in the Church announced salvation to the men
 
 1696 *Deberet*. 1697 *Commendare*. 1698 *Populariter agere*. 1699 Gen. xxii. 18.
 
-1700 *Singularitate*. *Periti*.
+1700 *Singularitate*. 1701 *Periti*.
 
 
 *[p. 532]* ^pg558
@@ -104,7 +104,7 @@ to confound the things which are mighty, and the foolish things of the world to 
 
 6\. They bring forward then their cavillings,<sup>1706</sup> and say, “You allow Matthew is an Evangelist.” We answer: Yes indeed, with a godly confession, and a heart devout, in neither having any doubt at all, we answer plainly, Matthew is an Evangelist. “Do you believe him?” they say. Who will not answer, I do? How clear an assent doth that your godly murmur convey! So, brethren, you believe it in all assurance; you have no cause to blush for it. I am speaking to you, who was once deceived, when as in my early boyhood I chose to bring to the divine Scriptures a subtlety of criticising before the godly temper of one who was seeking truth: by my irregular<sup>1707</sup> life I shut the gate of my Lord against myself: when I should have knocked for it to be opened, I went on so as to make it more closely shut, for I dared to search in pride for that which none but the humble can discover. How much more blessed
 
-1702 [[1 Corinthians 01#^1-27|1 Cor. i. 27]], [[1 Corinthians 01#^1-28|28]]. 1703 [[Colossians 02#^2-6|Col. ii. 6]], [[Colossians 02#^2-7|7]]. 1704 [[Colossians 02#^2-3|Col. ii. 3]]. 1705 [[2 Corinthians 03#^3-16|2 Cor. iii. 16]]. 1706 *Calumnias*. *Perversis moribus*.
+1702 [[1 Corinthians 01#^1-27|1 Cor. i. 27]], [[1 Corinthians 01#^1-28|28]]. 1703 [[Colossians 02#^2-6|Col. ii. 6]], [[Colossians 02#^2-7|7]]. 1704 [[Colossians 02#^2-3|Col. ii. 3]]. 1705 [[2 Corinthians 03#^3-16|2 Cor. iii. 16]]. 1706 *Calumnias*. 1707 *Perversis moribus*.
 
 
 *[p. 533]* ^pg559
@@ -115,7 +115,7 @@ now are you, with what sure confidence do you learn, and in what safety, who are
 
 8\. Now upon this thus faithfully narrated, the first cavil they bring is, that the same Matthew goes on to say, “All the generations from Abraham to David are fourteen generations
 
-1708 [[Matthew 01#^1-1|Matt. i. 1]].
+1708 [[Matthew 01#^1-1|Matt. i. 1]]. 1709 [[Matthew 01#^1-2|Matt. i. 2–6]].
 
 
 *[p. 534]* ^pg560
@@ -124,7 +124,7 @@ now are you, with what sure confidence do you learn, and in what safety, who are
 
 9\. This also which follows they like to laugh at, whose wish it is to destroy the authority of the Evangelical books, that they may show as it were that we have without any good reason believed what is said, “When as His mother Mary was espoused to Joseph, before they came together, she was found with Child of the Holy Ghost. Then Joseph her husband being a just man, and not willing to make her a public example, was minded to put her away privily;” <sup>1711</sup> for because he knew that she was not with child by him, he thought that she was so to say<sup>1712</sup> necessarily an adulteress. “Being a just man,” as the Scripture saith, “and not willing to make her a public example,” (that is, to divulge the matter, for so it is in many copies), “he was minded to put her away privily.” The husband indeed was in trouble, but as being a just man he deals not severely; for so great justice is ascribed to this man, as that he neither wished to keep an adulterous wife, nor could bring himself<sup>1713</sup> to punish and expose her. “He was minded to put her away privily,” because he was not only unwilling to punish, but even to betray her; and mark his genuine justice; for he did not wish to spare her, because he had a desire to keep her; for many spare their adulterous wives through a carnal love, choosing to keep them even though adulterous, that they may enjoy them through a carnal desire. But this just man has no wish to keep her, and so does not love in any carnal sort; and yet he does not wish to punish her; and so in his mercy he spares her. How truly just a man is this! He would neither keep an adulteress, lest he should seem to
 
-1710 [[Matthew 01#^1-7|Matt. i. 7–18]]. 1711 [[Matthew 01#^1-19|Matt. i. 19]]. 1712 *Velut*. *Auderet*.
+1710 [[Matthew 01#^1-7|Matt. i. 7–18]]. 1711 [[Matthew 01#^1-19|Matt. i. 19]]. 1712 *Velut*. 1713 *Auderet*.
 
 
 *[p. 535]* ^pg561
@@ -135,7 +135,7 @@ spare her because of an impure affection, and yet he would not punish or betray 
 
 11\. What then do our adversaries say? “If,” says one, “I shall discover a lie, surely you will not then believe it all; and such I have discovered.” Let us see: I will reckon up the generations; for by their slanderous cavillings they invite and bring us to this. Yes, if we live religiously, if we believe Christ, if we do not desire to fly out of the nest before the time, they only bring us to this—to the knowledge of mysteries. Mark then, holy brethren, <sup>1716</sup> the usefulness of heretics; their usefulness, that is, in respect of the designs of God, who makes a good use even of those that are bad; whereas, as regards themselves, the fruit of their own designs is rendered to them, and not that good which God brings out of them. Just as in the case of Judas; what great good did he! By the Lord’s Passion all nations are saved; but that the Lord might suffer, Judas betrayed Him. God then both delivers the nations by the Passion of His Son, and punishes Judas for his own wickedness. For the mysteries which lie hid in Scripture, no one who is content with the simplicity of the faith would curiously sift them, and therefore as no one would sift them, no one would discover them but for cavillers who force us. For when heretics cavil, the little ones are disturbed; when disturbed, they make search, and their search is, so to say, a beating of the head at the mother’s breasts, that they may yield as much milk as is sufficient for these little ones. They search then, because they are troubled; but they who know and have learnt these things, because they have investigated them, and God hath opened to their knocking, they in their turn open to those who are in trouble. And so it happens that heretics serve usefully for the discovery of the truth, whilst they cavil to seduce men into error. For with less carefulness would truth be sought out, if it had not lying adversaries; “For there must be also heresies among you,” and as though we
 
-1714 [[Matthew 01#^1-20|Matt. i. 20]]. 1715 [[Matthew 01#^1-21|Matt. i. 21]]. *Sanctitas vestra*.
+1714 [[Matthew 01#^1-20|Matt. i. 20]]. 1715 [[Matthew 01#^1-21|Matt. i. 21]]. 1716 *Sanctitas vestra*.
 
 
 *[p. 536]* ^pg562
@@ -146,7 +146,7 @@ should enquire the cause, he immediately subjoined, “that they which are appro
 
 13\. Give attention, holy brethren, to this circumstance, at once mysterious and pleasant; for I confess to you the feeling<sup>1719</sup> of my own heart, whereby I believe that when I have brought it forth, and you have got taste of it, you will give the same report of it. Attend then. In the third division, beginning from this Jechonias unto the Lord Jesus Christ, are found fourteen generations; for this Jechonias is reckoned twice, as the last of the former, and the first of the following division. “But why is Jechonias,” one may say, “reckoned twice?” Nothing took place of old among the people of Israel, which was not a mysterious figure of things to come: and indeed it is not without good reason that Jechonias is reckoned twice, because if there be a boundary between two fields, be it a stone, or any dividing wall, both he who is on the one side measures up to that same wall, and he who is on the other takes the beginning of his measurement again from the same. But why this was not done in the first connecting link of the divisions, when we number from Abraham to David fourteen generations, and begin to reckon the fourteen others, not from David over again, but from Solomon, a reason must be given which contains an important mystery.<sup>1720</sup> Attend then.
 
-250 1717 [[1 Corinthians 11#^11-19|1 Cor. xi. 19]]. 1718 *Sacramentum*. 1719 *Gustatum*. *Sacramentum*.
+250 1717 [[1 Corinthians 11#^11-19|1 Cor. xi. 19]]. 1718 *Sacramentum*. 1719 *Gustatum*. 1720 *Sacramentum*.
 
 *[p. 537]* ^pg563
 
@@ -154,7 +154,7 @@ The carrying away into Babylon took place when Jechonias was appointed king in t
 
 14\. Remember then, that Jechonias, rejected without any fault of his, ceased to reign, and passed over unto the Gentiles, when the carrying away unto Babylon took place. Now observe the figure hereby manifested beforehand, of things to come in the Lord Jesus Christ. For the Jews would not that our Lord Jesus Christ should reign over them, yet found they no fault in Him. He was rejected in His own person, and in that of His servants also, and so they passed over unto the Gentiles as into Babylon in a figure. For this also did Jeremiah prophesy, that the Lord commanded them to go into Babylon: and whatever other prophets told the people not to go into Babylon, them he reproved as false prophets.<sup>1721</sup> Let those who read the Scriptures, remember this as we do; and let those who do not, give us credit. Jeremiah then on the part of God threatened those who would not go into Babylon, whereas to them who should go he promised rest there, and a sort of happiness in the cultivation of their vines, and planting of their gardens, and the abundance of their fruits. How then does the people of Israel, not now in figure but in verity, pass over unto Babylon? Whence came the Apostles? Were they not of the nation of the Jews? Whence came Paul himself? for he saith, “I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.”<sup>1722</sup> Many of the Jews then believed in the Lord; from them were the Apostles chosen; of them were the more than five hundred brethren, to whom it was vouchsafed<sup>1723</sup> to see the Lord after His resurrection;<sup>1724</sup> of them were the hundred and twenty in the house,<sup>1725</sup> when the Holy Ghost came down. But what saith the Apostle in the Acts of the Apostles, when the Jews refused the word of truth? “We were sent unto you, but seeing ye have rejected the word of God, lo! we turn unto the Gentiles.”<sup>1726</sup> The true passing over then into Babylon, which was then prefigured in the time of Jeremiah, took place in the spiritual dispensation of the
 
-1721 Jer. xxvii. 1722 [[Romans 11#^11-1|Rom. xi. 1]]. 1723 *Meruerunt*. 1724 [[1 Corinthians 15#^15-6|1 Cor. xv. 6]]. 1725 [[Acts 01#^1-15|Acts i. 15]].
+1721 Jer. xxvii. 1722 [[Romans 11#^11-1|Rom. xi. 1]]. 1723 *Meruerunt*. 1724 [[1 Corinthians 15#^15-6|1 Cor. xv. 6]]. 1725 [[Acts 01#^1-15|Acts i. 15]]. 1726 [[Acts 13#^13-46|Acts xiii. 46]].
 
 
 *[p. 538]* ^pg564
@@ -163,7 +163,7 @@ time of the Lord’s Incarnation. But what saith Jeremiah of these Babylonians, 
 
 15\. The carrying away into Babylon took place of old by Jechonias, who was not permitted to reign in the nation of the Jews, as a type of Christ, whom the Jews would not have reign over them. Israel passed over unto the Gentiles, that is, the preachers of the Gospel passed over unto the people of the Gentiles. What marvel then, that Jechonias is reckoned twice? for if he were a figure of Christ passing over from the Jews unto the Gentiles, consider only what Christ is between the Jews and Gentiles. Is He not that Corner-stone? In a corner-stone you see the end of one wall, and the beginning of another; up to that stone you measure one wall, and another from it; therefore the corner-stone which connects both walls is reckoned twice. Jechonias then as prefiguring the Lord was, as it were, a type of the corner-stone; and as Jechonias was not permitted to reign over the Jews, but they went unto Babylon, so Christ, “the stone which the builders rejected, is made the head of the corner,”<sup>1730</sup> that the Gospel might reach unto the Gentiles. Hesitate not then to reckon the head of the corner twice, and you have at once the number written: and so there are fourteen in each of the three divisions, yet altogether the generations are not forty-two, but forty-one; for as when the order of the stones runs in a straight line, they are all reckoned but once, but when there is a deviation from the straight line to make an angle, that stone at which the deviation begins must be reckoned twice, because it belongs at once to that line which is finished at it, and to that other line which begins from it; so as long as the order of the generations continued in the Jewish people, it made no angle in the regular division of fourteen; but when the line was turned that the people might pass over into Babylon, a sort of angle as it were was made at
 
-251 1727 Jer. xxix. 7. 1728 [[1 Timothy 02#^2-1|1 Tim. ii. 1]], [[1 Timothy 02#^2-2|2]]. 1729 *Agricultura*.
+251 1727 Jer. xxix. 7. 1728 [[1 Timothy 02#^2-1|1 Tim. ii. 1]], [[1 Timothy 02#^2-2|2]]. 1729 *Agricultura*. 1730 Ps. cxviii. 22.
 
 *[p. 539]* ^pg565
 
@@ -173,7 +173,7 @@ Jechonias, so that it was necessary to reckon him twice, as the type of that ado
 
 17\. Consider when this was. When the Lord Jesus, as to His Human Nature, was twelve years old<sup>1733</sup> (for as to His Divine Nature He is before all times, and without time), He tarried behind them in the temple, and disputed with the elders, and they wondered at His doctrine; and His parents who were returning from Jerusalem sought Him among their company, among those, that is, who were journeying with them, and when they found Him not, they returned in trouble to Jerusalem, and found Him disputing in the temple with the elders, when He was, as I said, twelve years old. But what wonder? The Word of God is never silent, though it is not always heard. He is found then in the temple, and His mother saith to Him, “Why hast Thou thus dealt with us? Thy father and I have sought Thee sorrowing;” and He said, “Wist ye not that I must be about My Father’s service?”<sup>1734</sup> This He said for that the Son of God was in the temple of God, for that temple was not Joseph’s, but God’s. See, says some one, “He did not allow that He was the Son of Joseph.” Wait, brethren, with a little patience, because of the press of time, that it may be long enough for what I have to say. When Mary had said, “Thy father and I have sought Thee sorrowing,” He answered, “Wist ye not that I must be about My Father’s service?” for He would not be their Son in such a sense, as not to be understood to be also the Son of God. For the Son of God He was—ever the Son of God—Creator even of themselves who spake to Him; but the Son of Man in time; born of a Virgin without the operation of her husband, yet the Son of both parents. Whence
 
-1731 [[Matthew 01#^1-20|Matt. i. 20]]. 1732 [[Matthew 01#^1-21|Matt. i. 21]]. 1733 [[Luke 02#^2-42|Luke ii. 42]].
+1731 [[Matthew 01#^1-20|Matt. i. 20]]. 1732 [[Matthew 01#^1-21|Matt. i. 21]]. 1733 [[Luke 02#^2-42|Luke ii. 42]]. 1734 [[Luke 02#^2-48|Luke ii. 48]], [[Luke 02#^2-49|49]].
 
 
 *[p. 540]* ^pg566
@@ -186,7 +186,7 @@ prove we this? Already have we proved it by the words of Mary, “Thy father and
 
 252 1735 [[Luke 01#^1-31|Luke i. 31]]. 1736 [[Luke 01#^1-32|Luke i. 32]]. 1737 *Meruerat*. 1738 *Dignitatem*. 1739 [[Ephesians 05#^5-23|Ephes. v. 23]].
 
-1740 [[Galatians 04#^4-4|Gal. iv. 4]]. 1741 *Fidei*. 1742 אשה *femina mulier omnis ætatis et conditionis, sive nupta est, sive non est*. Gesenius, *Lex. Heb.*, *vide exempla*, especially Gen. xxiv. 5 and Isa. iv. 1. *Vid*. Serm. lii. 10. Gen. ii. 22.
+1740 [[Galatians 04#^4-4|Gal. iv. 4]]. 1741 *Fidei*. 1742 אשה *femina mulier omnis ætatis et conditionis, sive nupta est, sive non est*. Gesenius, *Lex. Heb.*, *vide exempla*, especially Gen. xxiv. 5 and Isa. iv. 1. *Vid*. Serm. lii. 10. 1743 Gen. ii. 22.
 
 
 *[p. 541]* ^pg567
@@ -206,7 +206,7 @@ did not deny that He was David’s Son, so that they could not understand that H
 
 as though concupiscence and not conjugal affection constitutes the marriage bond.<sup>1756</sup> Attend, holy brethren; Christ’s Apostle was some time after this to say in the Church, “It remaineth that they that have wives be as though they had none.”<sup>1757</sup> And we know many of our brethren bringing forth fruit through grace, who for the Name of Christ practise an entire restraint by mutual consent, who yet suffer no restraint of true conjugal affection. Yea, the more the former is repressed, the more is the other strengthened and confirmed. Are they then not married people who thus live, not requiring from each other any carnal gratification, or exacting the satisfaction<sup>1758</sup> of any bodily desire? And yet the wife is subject to the husband, because it is fitting that she should be, and so much the more in subjection is she, in proportion to her greater chastity; and the husband for his part loveth his wife truly, as it is written, “In honour and sanctification,”<sup>1759</sup> as a coheir of grace: as “Christ,” saith the Apostle, “loved the Church.”<sup>1760</sup> If then this be a union, and a marriage; if it be not the less a marriage because nothing of that kind passes between them, which even with
 
-1. 253 1752 Ps. cxxxii. 11. 1753 Ps. cx. 1. 1754 [[Philippians 02#^2-6|Phil. ii. 6]]. 1755 [[Philippians 02#^2-7|Phil. ii. 7]]. 1756 *Uxorem*. 1757 [[1 Corinthians 07#^7-29|1 Cor. vii. 29]]. 1758 *Debitum*. 1759 [[1 Thessalonians 04#^4-4|1 Thess. iv. 4]]. [[Ephesians 05#^5-25|Ephes. v. 25]].
+1. 253 1752 Ps. cxxxii. 11. 1753 Ps. cx. 1. 1754 [[Philippians 02#^2-6|Phil. ii. 6]]. 1755 [[Philippians 02#^2-7|Phil. ii. 7]]. 1756 *Uxorem*. 1757 [[1 Corinthians 07#^7-29|1 Cor. vii. 29]]. 1758 *Debitum*. 1759 [[1 Thessalonians 04#^4-4|1 Thess. iv. 4]]. 1760 [[Ephesians 05#^5-25|Ephes. v. 25]].
 
 *[p. 543]* ^pg569
 
@@ -214,7 +214,7 @@ unmarried persons may take place, but then unlawfully; (O that all could live so
 
 22\. Hence, my brethren, understand the sense of Scripture concerning those our ancient fathers, whose sole design in their marriage was to have children by their wives. For those even who, according to the custom of their time and nation, had a plurality of wives, lived in such chastity with them, as not to approach their bed, but for the cause I have mentioned, thus treating them indeed with honour. But he who exceeds the limits which this rule prescribes for the fulfilment of this end of marriage, acts contrary to the very contract<sup>1761</sup> by which he took his wife. The contract is read, read in the presence of all the attesting witnesses; and an express clause is there that they marry “for the procreation of children;” and this is called the marriage contract.<sup>1762</sup> If it was not for this that wives were given and taken to wife, what father could without blushing give up his daughter to the lust of any man? But now, that the parents may not blush, and that they may give their daughters in honourable marriage, not to shame,<sup>1763</sup> the contract is read out. And what is read from it?—the clause, “for the sake of the procreation of children.” And when this is heard, the brow of the parent is cleared up and calmed. Let us consider again the feelings<sup>1764</sup> of the husband who takes his wife. The husband himself would blush to receive her with any other view, if the father would blush with any other view to give her. Nevertheless, if they cannot contain (as I have said on other occasions), let them require what is due, and let them not go to any others than those from whom it is due. Let both the woman and the man seek relief for their infirmity in themselves. Let not the husband go to any other woman, nor the woman to any other man, for from this adultery gets its name, as though it were “a going to another.”<sup>1765</sup> And if they exceed the bounds of the marriage contract, let them not at least exceed those of conjugal fidelity. Is it not a sin in married persons to exact from one another more than this design of the “procreation of children” renders necessary? It is doubtless a sin, though a venial one. The Apostle saith, “But I speak this of allowance,”<sup>1766</sup> when he was treating the matter thus. “Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.”<sup>1767</sup> What does this mean? That you do not impose upon
 
-1761 *Tabulas*. 1762 *Tabulæ matrimoniales*. 1763 *Ut sint soceri non lenones*. 1764 *Frontem*. 1765 *Adulterium quasi ad alterum*. 1766 [[1 Corinthians 07#^7-6|1 Cor vii. 6]]. [[1 Corinthians 07#^7-5|1 Cor. vii. 5]].
+1761 *Tabulas*. 1762 *Tabulæ matrimoniales*. 1763 *Ut sint soceri non lenones*. 1764 *Frontem*. 1765 *Adulterium quasi ad alterum*. 1766 [[1 Corinthians 07#^7-6|1 Cor vii. 6]]. 1767 [[1 Corinthians 07#^7-5|1 Cor. vii. 5]].
 
 
 *[p. 544]* ^pg570
@@ -225,7 +225,7 @@ yourselves any thing beyond your strength, that you do not by your mutual contin
 
 24\. Seeing then that the human race subsists in such sort, as that those two supports, of which enough has now been said, are necessary to it, the wise, and understanding, and the faithful man descends to both as matter of duty, and does not fall into them through lust.
 
-254 1768 *Modo*. Ecclus. xiv. 18.
+254 1768 *Modo*. 1769 Ecclus. xiv. 18.
 
 *[p. 545]* ^pg571
 
@@ -233,7 +233,7 @@ But how many are there who rush greedily to their eating and drinking, and make 
 
 25\. It was thus those holy men of former times, those men of God sought and wished for children. For this one end—the procreation of children, was their intercourse and union with their wives. It is for this reason that they were allowed to have a plurality of wives. For if immoderateness in these desires could be well-pleasing to God, it would have been as much allowed at that time for one woman to have many husbands, as one husband many wives. Why then had all chaste women no more than one husband, but one man had many wives, except that for one man to have many wives is a means to the multiplication of a family, whereas a woman would not give birth to more children, how many soever more
 
-1770 [[Philippians 03#^3-19|Phil. iii. 19]]. 1 Kings xix. 6.
+1770 [[Philippians 03#^3-19|Phil. iii. 19]]. 1771 1 Kings xix. 6.
 
 
 *[p. 546]* ^pg572
@@ -242,7 +242,7 @@ husbands she might have. Wherefore, brethren, if our fathers’ union and interc
 
 26\. Among that people then, because it was necessary that there should be an abundant 255 increase until Christ came, by the multiplication of that people in whom were to be prefigured all that was to be prefigured as instruction for the Church, it was a duty to marry wives, by means of whom that people in whom the Church should be foreshown might increase. But when the King of all nations Himself was born, then began the honour of virginity with the mother of the Lord, who had the privilege<sup>1773</sup> of bearing a Son without any loss of her virgin purity. As that then was a true marriage, and a marriage free from all corruption, so why should not the husband chastely receive what his wife had chastely brought forth? For as she was a wife in chastity, so was he in chastity a husband; and as she was in chastity a mother, so was he in chastity a father. Whoso then says that he ought not to be called father, because he did not beget his Son in the usual <sup>1774</sup> way, looks rather to the satisfaction of passion in the procreation of children, and not the natural feeling of affection. What others desire to fulfil in the flesh, he in a more excellent way fulfilled in the spirit. For thus they who adopt children, beget them by the heart in greater chastity, whom they cannot by the flesh beget. Consider, brethren, the laws of adoption; how a man comes to be the son of another, of whom he was not born, so that the choice of the person who adopts has more right in him than the nature of him who begets him has. Not only then must Joseph be a father, but in a most excellent manner a father. For men beget children of women also who are not their wives, and they are called natural children, and the children of the lawful marriage are placed above them. Now as to the manner of their birth, they are born alike;
 
-1772 *Meruit*. 1773 *Meruit*. *Sic*.
+1772 *Meruit*. 1773 *Meruit*. 1774 *Sic*.
 
 
 *[p. 547]* ^pg573
@@ -253,7 +253,7 @@ why then are the latter set above the other, but because the love of a wife, of 
 
 28\. And let not the law of adoption seem to you to be foreign to our Scriptures, and that, as if it were recognised<sup>1775</sup> only in the practice of human laws, it cannot fall in with the authority of the divine books. For it is a thing established of old time, and frequently heard of in the Ecclesiastical books<sup>1776</sup>—that not only the natural way of birth, but the free choice<sup>1777</sup> of the will also, should give birth to a child. For women, if they had no children of their own, used to adopt children born of their husbands by their hand-maids, and even oblige their husbands to give them children in this way; as Sarah, Rachel, and Leah.<sup>1778</sup> And in doing this the husbands did not commit adultery, in that they obeyed their wives in that matter which had regard to conjugal duty, according to what the Apostle saith: “The wife hath not power of her own body, but the husband; and likewise also the husband hath not
 
-1775 *Animadversum*. 1776 The Scriptures. 1777 *Gratia*. Gen. xvi. 2 and xxx.
+1775 *Animadversum*. 1776 The Scriptures. 1777 *Gratia*. 1778 Gen. xvi. 2 and xxx.
 
 
 *[p. 548]* ^pg574
@@ -264,7 +264,7 @@ sons of Joseph, his own children, in these words: “These too shall be mine, an
 
 1779 [[1 Corinthians 07#^7-4|1 Cor. vii. 4]].
 
-1780 Exod. ii. 10. 1781 [[Romans 02#^2-14|Rom. ii. 14]]. 1782 Gen. xlviii. 5, 6. 1783 *In magno sacramento*. 1784 [[Galatians 04#^4-4|Gal. iv. 4]], [[Galatians 04#^4-5|5]]. 1785 [[Romans 08#^8-23|Rom. viii. 23]]. [[Romans 09#^9-3|Rom. ix. 3]], etc.
+1780 Exod. ii. 10. 1781 [[Romans 02#^2-14|Rom. ii. 14]]. 1782 Gen. xlviii. 5, 6. 1783 *In magno sacramento*. 1784 [[Galatians 04#^4-4|Gal. iv. 4]], [[Galatians 04#^4-5|5]]. 1785 [[Romans 08#^8-23|Rom. viii. 23]]. 1786 [[Romans 09#^9-3|Rom. ix. 3]], etc.
 
 
 *[p. 549]* ^pg575
@@ -273,7 +273,7 @@ sons of Joseph, his own children, in these words: “These too shall be mine, an
 
 30\. Enough has now been said to show that the question, why the generations are reckoned through Joseph and not through Mary, ought not to perplex us; for as she was a mother without carnal desire, so was he a father without any carnal intercourse. Let then the generations ascend and descend through him. And let us not exclude him from being a father, because he had none of this carnal desire. Let his greater purity only confirm rather his relationship of father, lest the holy Mary herself reproach us. For she would not put her own name before her husband; but said, “Thy father and I have sought Thee sorrowing.”<sup>1789</sup> Let not then these perverse murmurers do that which the chaste spouse of Joseph did not.
 
-1787 Deut. xxv. 5; [[Matthew 22#^22-24|Matt. xxii. 24]]. 1788 Of these two solutions, (1) that Joseph may have been the adopted son of Eli, or (2) the son of his wife who, as the next of kin, married Jacob after his decease, the latter is stated by Africanus (Eus. *H. E*. i. 7) to be traditional and derived from kinsmen of the Lord’s. It may be the more likely, in that the name of the wife of Matthan and Malchi (Estha) is also handed down, through whom, though half-blood, Heli and Jacob became, at all events, near kinsmen. Else in the Jerus. Talm. (ap. Lightfoot *ad loc*.) St. Mary is called the daughter of Heli, and her genealogy might be counted as his, to whom, according to the above statement, she was nearly related. The name Heli, indeed, is no way connected (as some have thought) with Eliachim, *i.q.* Joachim; but this name of the father of the Blessed Virgin is said by St. Augustin to have been taken by the Manichees from apocryphal books (comp. *Faust*. xxiii. 9), so neither is it any hindrance. St. Augustin remarks (*Quæst. Ev*. ii. 5) that any one possible explanation is sufficient, and yet that it would be rash to say that there were only the two that he had named. He treats it then as “madness” to ground any charge against the evangelists thereon; inasmuch as it can be solved, faith is indifferent to the “how,” since God has not explained it.
+1787 Deut. xxv. 5; [[Matthew 22#^22-24|Matt. xxii. 24]]. 1788 Of these two solutions, (1) that Joseph may have been the adopted son of Eli, or (2) the son of his wife who, as the next of kin, married Jacob after his decease, the latter is stated by Africanus (Eus. *H. E*. i. 7) to be traditional and derived from kinsmen of the Lord’s. It may be the more likely, in that the name of the wife of Matthan and Malchi (Estha) is also handed down, through whom, though half-blood, Heli and Jacob became, at all events, near kinsmen. Else in the Jerus. Talm. (ap. Lightfoot *ad loc*.) St. Mary is called the daughter of Heli, and her genealogy might be counted as his, to whom, according to the above statement, she was nearly related. The name Heli, indeed, is no way connected (as some have thought) with Eliachim, *i.q.* Joachim; but this name of the father of the Blessed Virgin is said by St. Augustin to have been taken by the Manichees from apocryphal books (comp. *Faust*. xxiii. 9), so neither is it any hindrance. St. Augustin remarks (*Quæst. Ev*. ii. 5) that any one possible explanation is sufficient, and yet that it would be rash to say that there were only the two that he had named. He treats it then as “madness” to ground any charge against the evangelists thereon; inasmuch as it can be solved, faith is indifferent to the “how,” since God has not explained it. 1789 [[Luke 02#^2-48|Luke ii. 48]].
 
 
 *[p. 550]* ^pg576
@@ -282,7 +282,7 @@ Let us reckon then through Joseph, because as he is in chastity a husband, so is
 
 them both give the Child a name, and hereby is the authority of both parents established. For when Zacharias was yet dumb, the mother gave a name to her newborn son. And when they who were present “made signs to his father what he would have him called, he took a writing-table and wrote”<sup>1791</sup> the name which she had already pronounced. So to Mary too the Angel saith, “Behold, thou shalt conceive a Son, and shalt call His name Jesus.”<sup>1792</sup> And to Joseph also he saith, “Joseph, thou son of David, fear not to take unto thee Mary thy wife; for That which is conceived in her is of the Holy Ghost. And she shall bring forth a Son, and thou shalt call His name Jesus, for He shall save His people from their sins.”<sup>1793</sup> Again it is said, “And she brought forth a Son to him,”<sup>1794</sup> by which he is established to be a father, not in the flesh indeed, but in love. Let us then acknowledge him to be a father, as in truth he is. For most advisedly and most wisely do the Evangelists reckon through him, whether Matthew in descending from Abraham down to Christ, or Luke in ascending from Christ through Abraham up to God. The one reckons in a descending, the other in an ascending order; but both through Joseph. And why? Because he is the father. How the father? Because he is the more undeniably<sup>1795</sup> a father in proportion as he is more chastely so. He was thought, it is true, to be the father of our Lord Jesus Christ in another way: that is, as other parents are according to a fleshly birth, and not through the fruitfulness of a wholly spiritual love. For Luke said, “Who was supposed to be the father of Jesus.”<sup>1796</sup> Why supposed? Because men’s thoughts and suppositions were directed to what is usually the case with men. The Lord then was not of the seed of Joseph, though He was supposed to be; yet nevertheless
 
-1790 [[Matthew 01#^1-19|Matt. i. 19]]. 1791 [[Luke 01#^1-63|Luke i. 63]]. 1792 [[Luke 01#^1-31|Luke i. 31]]. 1793 [[Matthew 01#^1-20|Matt. i. 20]], [[Matthew 01#^1-21|21]]. 1794 [[Luke 02#^2-7|Luke ii. 7]]. There seems to be no trace of any such reading anywhere else. 1795 *Firmius*.
+1790 [[Matthew 01#^1-19|Matt. i. 19]]. 1791 [[Luke 01#^1-63|Luke i. 63]]. 1792 [[Luke 01#^1-31|Luke i. 31]]. 1793 [[Matthew 01#^1-20|Matt. i. 20]], [[Matthew 01#^1-21|21]]. 1794 [[Luke 02#^2-7|Luke ii. 7]]. There seems to be no trace of any such reading anywhere else. 1795 *Firmius*. 1796 [[Luke 03#^3-23|Luke iii. 23]].
 
 
 *[p. 551]* ^pg577
@@ -295,7 +295,7 @@ the Son of the Virgin Mary, who is also the Son of God, was born to Joseph, the 
 
 1797 *Pertinere*. 1798 St. Augustin corrects this confusion of Nathan, the son of David, with the prophet Nathan, in his *Retract*. B. ii. c. 16. 1799 2 Sam. xii. 1.
 
-1800 *Eminet*. *Certos articulos numerorum*.
+1800 *Eminet*. 1801 *Certos articulos numerorum*.
 
 
 *[p. 552]* ^pg578
@@ -308,7 +308,7 @@ Himself, our Lord Jesus Christ, fasted forty days, because in the time of this l
 
 1802 Gen. xv. 13; [[Acts 07#^7-6|Acts vii. 6]]. 1803 Deut. ix. 9; 1 Kings xix. 8; [[Matthew 04#^4-2|Matt. iv. 2]]. 1804 Num. xxxii. 13. 1805 Gen. vii. 4. 1806 *Veritatem*. 1807 [[Acts 01#^1-3|Acts i. 3]]. 1808 [[2 Corinthians 05#^5-6|2 Cor. v. 6]]. 1809 [[1 Corinthians 11#^11-26|1 Cor. xi. 26]].
 
-1810 [[Romans 04#^4-25|Rom. iv. 25]].
+1810 [[Romans 04#^4-25|Rom. iv. 25]]. 1811 [[John 01#^1-14|John i. 14]].
 
 
 *[p. 553]* ^pg579
@@ -317,7 +317,7 @@ number is signified the abolition of all sins, which takes place in Baptism. Not
 
 34\. Now, why the number seventy-seven should contain all sins which are remitted in Baptism, there occurs this probable reason, for that the number ten implies the perfection of all righteousness, and blessedness, when the creature denoted by seven<sup>1813</sup> cleaves to the Trinity of the Creator; whence also the Decalogue of the Law was consecrated in ten precepts. Now the “transgression” of the number ten is signified by the number eleven; and sin is known to be transgression, when a man, in seeking something “more,” exceeds the rule of justice. And hence the Apostle calls avarice “the root of all evils.”<sup>1814</sup> And to the soul which goes a-whoring from God, it is said, in the Person of the same Lord, “Thou wast in hope, if thou didst depart from Me, that thou wouldest have something more.” Because the sinner then has in his transgression, that is, in his sin, regard to himself alone—in that he wishes to gratify himself by some private good of his own (whence they are blamed “who seek their own, not the things which are Jesus Christ’s;”<sup>1815</sup> and charity is commended, “which seeketh not her own”<sup>1816</sup>); therefore, this number eleven, by which transgression is signified, is multiplied, not ten times, but seven, and so makes up seventy-seven. For transgression looks<sup>1817</sup> not to the Trinity of the Creator, but to the creature, that is, to the man himself, which creature the number seven denotes. Three, because of the soul, in which there<sup>1818</sup> is a kind of image of the Trinity of the Creator (for it is in the soul that man has been made after the image of God); and four, because of the body. For the four elements<sup>1819</sup> of which the body is made up are known by all. And if any one know them not, he may easily remember, that this body of the world, in which our bodies move along, has, so to say, four principal parts, which even Holy Scripture is constantly making mention of, East, and West,
 
-1812 [[Matthew 03#^3-16|Matt. iii. 16]]. 1813 *Septenaria*. 1814 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. 1815 [[Philippians 02#^2-21|Phil. ii. 21]]. 1816 [[1 Corinthians 13#^13-5|1 Cor. xiii. 5]]. 1817 *Pertinet*. 1818 *Vid*. Aug. *De Trin*. ix. 4, 5; xiv. c. 6–16, etc.; lib. xv. 40–43. Ep. 169 (Ben.). 6. *De Civ. Dei*, xi. 26 and 28. *Conf*. xiii. 12 (11) and note in Oxf. ed. *Primordia*.
+1812 [[Matthew 03#^3-16|Matt. iii. 16]]. 1813 *Septenaria*. 1814 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. 1815 [[Philippians 02#^2-21|Phil. ii. 21]]. 1816 [[1 Corinthians 13#^13-5|1 Cor. xiii. 5]]. 1817 *Pertinet*. 1818 *Vid*. Aug. *De Trin*. ix. 4, 5; xiv. c. 6–16, etc.; lib. xv. 40–43. Ep. 169 (Ben.). 6. *De Civ. Dei*, xi. 26 and 28. *Conf*. xiii. 12 (11) and note in Oxf. ed. 1819 *Primordia*.
 
 
 *[p. 554]* ^pg580
@@ -326,7 +326,7 @@ and North, and South. And forasmuch as sins are committed either by the mind, as
 
 35\. So, then, seven times eleven, that is, as has been explained, the transgression of righteousness, which has regard only to the sinner himself, make up the number seventy-seven, in which it is signified, that all sins which are remitted in Baptism are contained. And hence it is that Luke ascends up through seventy-seven generations unto God, as showing that man is reconciled unto God by the abolition of all sin. Hence the Lord Himself saith to Peter, who asked Him how oft he ought to forgive a brother, “I say not unto thee<sup>1822</sup> 259 seven times, but until seventy times and seven.”<sup>1823</sup> Now, whatever else can be drawn out of these recesses and treasures of God’s mysteries by those who are more diligent and more worthy than I, receive. Yet have I spoken according to my poor ability, as the Lord hath aided and given me power, and as I best could, considering also the little time I had. If any one of you be capable of anything further, let him knock at Him from whom I too receive what I am able to receive and speak. But, above all things, remember this; not to be disturbed by the Scriptures, which you do not yet understand, nor be puffed up by what you do understand; but what you do not understand, with submission<sup>1824</sup> wait for, and what you do understand, hold fast with charity.
 
-1820 *Commemorat*. 1821 Amos i. 2, Sept. 1822 *Vide* Sermon xxxiii. (Bened. lxxxiii.). 1823 [[Matthew 18#^18-22|Matt. xviii. 22]]. *Honore*.
+1820 *Commemorat*. 1821 Amos i. 2, Sept. 1822 *Vide* Sermon xxxiii. (Bened. lxxxiii.). 1823 [[Matthew 18#^18-22|Matt. xviii. 22]]. 1824 *Honore*.
 
 
 *[p. 555]* ^pg581
@@ -343,7 +343,7 @@ Sermon II.
 
 1825 *Commendari*. 1826 [[Matthew 03#^3-14|Matt. iii. 14]]. 1827 [[Matthew 03#^3-15|Matt. iii. 15]]. 1828 [[Matthew 03#^3-17|Matt. iii. 17]]. 1829 [[Matthew 03#^3-13|Matt. iii. 13]].
 
-1830 [[Matthew 03#^3-16|Matt. iii. 16]]. [[Matthew 03#^3-17|Matt. iii. 17]]; [[Mark 01#^1-11|Mark i. 11]].
+1830 [[Matthew 03#^3-16|Matt. iii. 16]]. 1831 [[Matthew 03#^3-17|Matt. iii. 17]]; [[Mark 01#^1-11|Mark i. 11]].
 
 
 *[p. 556]* ^pg582
@@ -356,7 +356,7 @@ very Voice of the Father sounded neither from the earth, nor from the water, but
 
 4\. Now this is a question which is often proposed by the most earnest brethren, and often has place in the conversation of the lovers of God’s word; for this much knocking is wont to be made unto God, while men say, “Doeth the Father anything which the Son doeth not?
 
-260 1832 *Præsumptionis*. 1833 *Lectionis*. 1834 *Aperientes sinum*. 1835 Wisd. ix. 15.
+260 1832 *Præsumptionis*. 1833 *Lectionis*. 1834 *Aperientes sinum*. 1835 Wisd. ix. 15. 1836 Ps. lxxxvi. 4.
 
 *[p. 557]* ^pg583
 
@@ -370,7 +370,7 @@ or doeth the Son anything which the Father doeth not?” Let us first speak of t
 
 1837 Ps. xxvi. 9, Sept. (xxvii. English version). 1838 [[John 01#^1-3|John i. 3]]. 1839 *Satiate*.
 
-1840 Wisd. viii. 1. 1841 Ps. cxvi. 10. *Fide*, i.e. *Symb. fidei* (Ben.).
+1840 Wisd. viii. 1. 1841 Ps. cxvi. 10. 1842 *Fide*, i.e. *Symb. fidei* (Ben.).
 
 
 *[p. 558]* ^pg584
@@ -383,7 +383,7 @@ Pontius Pilate and was dead, not the Father. Have we forgotten, that some, misun
 
 8\. The proposing of the question pleases you. May God grant His aid, that its solution may please you too. See, what I am asking Him, that He would free both me and you. For in one faith do we stand in the Name of Christ; and in one house do we live under one Lord, and in one body are we members under One Head, and by One Spirit are we quickened.<sup>1843</sup> That the Lord then may set both me who speak, and you who hear, free from the straits of this most perplexing question, I say as follows: The Son indeed and not the Father was born of the Virgin Mary; but this very birth of the Son, not of the Father, was the work both of the Father and the Son. The Father indeed suffered not, but the Son, yet the suffering of the Son was the work of the Father and the Son. The Father did not rise again, but the Son, yet the resurrection of the Son was the work of the Father and the Son. We seem then to be already quit of this question, but peradventure it is only by words of my own; let us see whether it is not as well by words divine. It is my place then to prove by testimonies of the sacred books, that the birth, and passion, and resurrection of the Son were in such sort the works of the Father and the Son, that whereas it is the birth, and passion, and resurrection of the Son only, yet these three things which belong to the Son only, were wrought neither by the Father alone, nor by the Son alone, but by the Father and the Son. Let us prove each
 
-*Vegetamur*.
+1843 *Vegetamur*.
 
 *[p. 559]* ^pg585
 
@@ -397,7 +397,7 @@ several point, you hear as judges; the case has been already laid open; now let 
 
 11\. We have then proved that the birth of the Son was the work of the Father; now let us prove that it was the work of the Son also. Now what is the birth of the Son of the Virgin Mary? Surely it is His assumption of the form of a servant in the Virgin’s womb. Is the birth
 
-1844 *Litigatorum*. 1845 [[Galatians 04#^4-4|Gal. iv. 4]], [[Galatians 04#^4-5|5]]. 1846 Isa. vii. 14. 1847 *Vide* Serm. i. (li.) 18. 1848 Gen. ii. 22. Num. xxxi. 18; Judg. xxi. 11.
+1844 *Litigatorum*. 1845 [[Galatians 04#^4-4|Gal. iv. 4]], [[Galatians 04#^4-5|5]]. 1846 Isa. vii. 14. 1847 *Vide* Serm. i. (li.) 18. 1848 Gen. ii. 22. 1849 Num. xxxi. 18; Judg. xxi. 11.
 
 
 *[p. 560]* ^pg586
@@ -410,7 +410,7 @@ of the Son ought else, but the taking of the form of a servant in the womb of th
 
 13\. Let us see the Son indeed, and not the Father, rising again, but both the Father and the Son working the resurrection of the Son. The resurrection of the Son is the work of the Father; for it is written, “Wherefore He exalted Him, and gave Him a name which is above every name.”<sup>1857</sup> The Father therefore raised the Son to life again, in exalting, and awakening Him from the dead. And did the Son also raise Himself? Assuredly He did. For He said of the temple, as the figure of His own body, “Destroy this temple, and in three days I will raise it again.”<sup>1858</sup> Lastly, as the laying down of life has reference to the Passion, so the taking it again has reference to the resurrection. Let us see then if the Son laid down His life indeed, and the Father restored His life to Him, and not He to Himself. For that the Father restored it is plain. For so saith the Psalm, “Raise Thou Me up, and I will requite
 
-1850 [[Philippians 02#^2-6|Phil. ii. 6]], [[Philippians 02#^2-7|7]]. 1851 [[Galatians 04#^4-4|Gal. iv. 4]]. 1852 *i.e.*the term *made* belongs to His birth in the flesh, Who was begotten in eternity. 1853 [[Romans 01#^1-3|Rom. i. 3]]. 1854 *Faciat Pater passionem Filii*. 1855 [[Romans 08#^8-32|Rom. viii. 32]]. 1856 [[Galatians 02#^2-20|Gal. ii. 20]]. 1857 [[Philippians 02#^2-9|Phil. ii. 9]].
+1850 [[Philippians 02#^2-6|Phil. ii. 6]], [[Philippians 02#^2-7|7]]. 1851 [[Galatians 04#^4-4|Gal. iv. 4]]. 1852 *i.e.*the term *made* belongs to His birth in the flesh, Who was begotten in eternity. 1853 [[Romans 01#^1-3|Rom. i. 3]]. 1854 *Faciat Pater passionem Filii*. 1855 [[Romans 08#^8-32|Rom. viii. 32]]. 1856 [[Galatians 02#^2-20|Gal. ii. 20]]. 1857 [[Philippians 02#^2-9|Phil. ii. 9]]. 1858 [[John 02#^2-19|John ii. 19]].
 
 
 *[p. 561]* ^pg587
@@ -425,7 +425,7 @@ them.”<sup>1859</sup> But why do ye wait for a proof from me that the Son also
 
 1859 Ps. xli. 10.
 
-1860 *Reddentes*. 1861 [[John 10#^10-18|John x. 18]]. 1862 [[John 14#^14-10|John xiv. 10]]. 1863 *Corporalibus*. *Quidquid est quod Deus est*.
+1860 *Reddentes*. 1861 [[John 10#^10-18|John x. 18]]. 1862 [[John 14#^14-10|John xiv. 10]]. 1863 *Corporalibus*. 1864 *Quidquid est quod Deus est*.
 
 
 *[p. 562]* ^pg588
@@ -440,7 +440,7 @@ tongue be silent, let the heart be aroused, let the heart be lifted up thither. 
 
 1865 [[Romans 01#^1-20|Rom. i. 20]]. 1866 *Proferantur*. 1867 Ps. xxxi. 22, Sept. 1868 See Aug *Conf*. B. xii. ch. 23–26. 1869 *Subreptus*.
 
-1870 *Membris*. *Demonstrari*.
+1870 *Membris*. 1871 *Demonstrari*.
 
 
 *[p. 563]* ^pg589
@@ -451,7 +451,7 @@ But whither shall we go? To the heaven, to dispute of the sun and moon and stars
 
 18\. See, O man, and consider whether what I am saying be true. Hast thou a body and flesh? I have, you say. For how am I in this place that I now occupy, and how do I move from place to place? How do I hear the words of one who is speaking, but by the ears of my body? How do I see the mouth of him who is speaking, but by the eyes of my body? It is plain then that thou hast a body, no need is there to trouble one’s self about so plain a matter. Consider then another point, consider what it is that acts through this body. For thou hearest by means of the ear, but it is not the ear that hears. There is something else within which
 
-1872 *Defecisti in divinis*. *Pronuntientur*.
+1872 *Defecisti in divinis*. 1873 *Pronuntientur*.
 
 
 *[p. 564]* ^pg590
@@ -464,7 +464,7 @@ eye who is only thinking of something else, sees not the form of the object that
 
 19\. I am asking, I am speaking remember of a distant<sup>1875</sup> resemblance. So let no one say, See what he has compared to God! I have advertised you of this already, and by anticipation have both put you on your guard, and have guarded myself. The two are indeed very far removed from each other, as the lowest from the Highest, as the changeable from the Unchangeable, the created from the Creator, the human nature from the Divine. Lo! I apprise you of this at first, that no one may say ought against me, because there is so great a difference in the things whereof I am about to speak. Lest then while I am asking for your ears, ye should any of you be getting ready your teeth, remember I have undertaken merely to show, that there are some three things which are separately exhibited, whose operation is yet inseparable. How like or how unlike these things are to the Almighty Trinity is no concern of mine at present; but in the very creatures of the lowest order, and subject to change, we do find three things which may be separately exhibited, whose operation is yet inseparable. O carnal imagination! obstinate, unbelieving conscience! Why as concerning that ineffable Majesty dost thou doubt as to that thing, which thou canst discover in thine own self? For I ask thee, O man, hast thou memory? If not, how hast thou retained what I have said? But perhaps thou hast forgotten already what I said but a little while ago. Yet these very words, “I said”—these two syllables, thou couldest not retain except by memory. For how shouldest
 
-1874 Gen. i. 26. *Dissimilem rem*.
+1874 Gen. i. 26. 1875 *Dissimilem rem*.
 
 
 *[p. 565]* ^pg591
@@ -477,4 +477,4 @@ These are the three things which I promised I would bring home to your ears and 
 
 20\. The Lord will be my present help, and I see that He is present to help me; by your understanding what I say, I see that He is present to help me. For I perceive by these your voices how that you have understood me, and I surely trust that He will still assist us, that you may comprehend the whole. I promised to show you three things which are separately exhibited whose operation is yet inseparable. See then; I did not know what was in thy mind, and thou showedest me by saying, “Memory.” This word, this sound, this expression came forth from thy mind to mine ears. For before that, thou hadst the silent idea of this memory, but thou didst not express it. It was in thee, but it had not yet come to me. But in order that that which was in thee might be passed on to me, thou didst express the very word, that is, “Memory.” I heard it, I heard these three syllables in the word, “Memory.” It is a noun, a word of three syllables, it sounded, and came to my ear, and impressed<sup>1877</sup> a certain idea on my mind. The sound has passed away, but the word whereby the idea was conveyed, and the idea itself, remains. But I ask, when thou didst pronounce this word, “Memory,” thou seest certainly that it has reference to the memory only. For the other two things have their own proper names. For one is called “the understanding,” and the other, “the will,” not the “memory,” but that one alone is called “memory.” Nevertheless, whereby didst thou work in order to express this, in order to produce these three syllables? This word which has reference to the memory only, both memory was engaged in producing in thee, that thou mightest retain what thou saidst, and understanding, that thou mightest know what thou retainedst, and will, that thou mightest give expression to what thou knewest. Thanks be to
 
-265 1876 *Pronuntiari*. *Insinuavit*.
+265 1876 *Pronuntiari*. 1877 *Insinuavit*.

@@ -4,7 +4,7 @@ work: "[[Idel - Ben, Sonship and Jewish Mysticism]]"
 book: "[[Library/Judaica/Ben - Sonship and Jewish Mysticism (Idel)/Ben - Sonship and Jewish Mysticism (Idel)|Ben - Sonship and Jewish Mysticism (Idel)]]"
 order: 2
 source_pdf: Library/Judaica/Idel - Ben, Sonship and Jewish Mysticism (2007).pdf
-page_range: 2–107
+page_range: 1–107
 pdf_pages: 6–59
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07
@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[PDF 6]* ^pg6
+*[p. 1]* ^pg6
 
 ## Introduction
 

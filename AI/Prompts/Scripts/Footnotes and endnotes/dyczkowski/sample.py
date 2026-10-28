@@ -6,6 +6,7 @@
 import sys, json, re, random, os, subprocess
 from PIL import Image, ImageOps
 outdir, pdf = sys.argv[1:3]; os.makedirs(outdir, exist_ok=True)
+NPER = int(os.environ.get('NPER', '8'))   # footnotes per note (28 Oct 2026: 16 for Chapter Two's new pre-pass)
 PAGE = re.compile(r'^\*\[p\. ([^\]]*)\]\* \^pg(\d+)\s*$')
 key, tasks = {}, []
 for spec in sys.argv[3:]:
@@ -39,9 +40,9 @@ for spec in sys.argv[3:]:
     carries = [(num(o.get('n')), ppage[o['line'] - 1], re.sub(r'^\[\^\d+\]: ', '', P[o['line'] - 1].strip())[:80]) for o in ops if o.get('op') == 'move']
     new = [n for n in sorted(defpage) if (n not in old_real or n in special) and n in callpos]
     rnd = random.Random(nid)
-    pick = ([n for n in new if n in top] + [n for n in new if n in hi and n not in top] + [n for n in new if n in special and n not in hi])[:8]
+    pick = ([n for n in new if n in top] + [n for n in new if n in hi and n not in top] + [n for n in new if n in special and n not in hi])[:NPER]
     rest = [n for n in new if n not in pick]; rnd.shuffle(rest)
-    pick = sorted(pick + rest[:max(0, 8 - len(pick))])
+    pick = sorted(pick + rest[:max(0, NPER - len(pick))])
     bypage = {}
     for n in pick: bypage.setdefault(defpage[n], set()).add(n)
     for pg, ns in sorted(bypage.items()):

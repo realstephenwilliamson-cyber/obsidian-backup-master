@@ -47,6 +47,6 @@ Everything open at the close of the 21 Oct orientation chat, as one list to tick
 
 ## Dates
 
-- [ ] Week of 26 Oct (usage reset): [[Audit corrections (Oct 2026)]], batch by batch.
+- [x] Week of 26 Oct (usage reset): [[Audit corrections (Oct 2026)]], batch by batch — done 26–28 Oct 2026; what is left is in the [[AI log]] entry of 28 Oct 2026 (14:12–15:15). ✅ 2026-10-28
 - [ ] Week of 2 Nov (usage reset): the audit of the 26 Oct work ([[Complete vault audit]], scoped), and whatever the corrections week left.
 - [ ] From 6 Nov: maintenance mode ([[Prompts - read me]] → *Maintenance mode*): the monthly report with no AI, filing in batches, linking quarterly, second opinions in any chat model.

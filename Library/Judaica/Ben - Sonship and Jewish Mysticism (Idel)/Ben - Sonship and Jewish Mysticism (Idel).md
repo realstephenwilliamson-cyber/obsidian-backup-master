@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 ## Contents
 
 - [[Ben - Sonship and Jewish 01 - Front matter|Front matter (Title, Table of Contents, Preface, Abbreviations)]] (pp. ix–xi)
-- [[Ben - Sonship and Jewish 02 - Introduction|Introduction]] (pp. 2–107)
+- [[Ben - Sonship and Jewish 02 - Introduction|Introduction]] (pp. 1–107)
 - [[Ben - Sonship and Jewish 03 - Chapter 1|Chapter 1]] (pp. 108–193)
 - [[Ben - Sonship and Jewish 04 - Chapter 2|Chapter 2]] (pp. 194–275)
 - [[Ben - Sonship and Jewish 05 - Chapter 3|Chapter 3]] (pp. 276–375)

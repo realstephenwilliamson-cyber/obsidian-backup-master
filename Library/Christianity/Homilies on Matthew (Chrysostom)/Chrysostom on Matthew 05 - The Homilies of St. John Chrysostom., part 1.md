@@ -100,7 +100,7 @@ The doctrinal views of Chrysostom were positive and usually well defined. He doe
 
 It thus appears that, whatever may be defects in his expositions, however faulty his comments may seem to us, Chrysostom stands as the representative of more correct principles than any of the early Fathers. That his eminence as a preacher is due to this fact can scarcely be doubted. A new interest in his writings would serve to emphasize the importance of adherence to the historico-exegetical method of interpretation. Great pulpit orators do not
 
-2 Stephens *St. Chrysostom*, p. 31; comp. pp. 27–32, on Diodorus. On the Antiochian School, see Schaff, *Church History*, III. pp. 935–7; Reuss *History of the New Testament*, II., pp. 542–6, American edition. Reuss, *History New Testament*, p. 544, American edition.
+2 Stephens *St. Chrysostom*, p. 31; comp. pp. 27–32, on Diodorus. On the Antiochian School, see Schaff, *Church History*, III. pp. 935–7; Reuss *History of the New Testament*, II., pp. 542–6, American edition. 3 Reuss, *History New Testament*, p. 544, American edition.
 
 *[p. 11]* ^pg19
 
@@ -120,7 +120,7 @@ From an exegetical point of view the Homilies on the Old Testament rank lowest, 
 
 2\. In all the Homilies there is apparent a proper conception of the relation of the Old Testament and the New. Chrysostom’s treatment of the two parts of revelation agrees in many respects with the methods now generally accepted in the subdivision of Exegetical Theology technically termed Biblical Theology. He recognized the progressive movement; thus holding to the essential unity of Scripture, but also admitting the incompleteness of the Old Testament and superiority of the New. The distinction between the two is never regarded as an antagonism. Indeed some of the severest utterances in the Homilies is in opposition to the error that denies the authority of the Old Testament as a revelation from the Father of our Lord Jesus Christ. But the unity of the two parts of Scripture are not maintained at the expense of the historical sense of the Old Testament. While Chrysostom finds in the older revelation a prophecy of Christ who was to come, “he fails not also to point out the moral aspect of prophecy as a system of teaching rather than prediction, as
 
-4 *History of the Christian Church*, III., p. 939. Stephens, *St. Chrysostom*, p. 427. He refers to Tillemont, *Memoires*, vol. xi. p. 37.
+4 *History of the Christian Church*, III., p. 939. 5 Stephens, *St. Chrysostom*, p. 427. He refers to Tillemont, *Memoires*, vol. xi. p. 37.
 
 *[p. 13]* ^pg21
 
@@ -182,7 +182,7 @@ But since in process of time they made shipwreck, some with regard to doctrines,
 
 2\. Reflect then how great an evil it is for us, who ought to live so purely as not even to need written words, but to yield up our hearts, as books, to the Spirit; now that we have lost that honor, and are come to have need of these, to fail again in duly employing even this
 
-\[μηδ δεσθαι, “not even to need,” as below in sec. 2.—R.\] 15 \[ἐδλωσεν, “made evident, showed.” The translator very frequently renders the aorist by the English perfect. 16 Attention will be called in some instances, where the sense is affected by such renderings.—R.\] 17 [[John 14#^14-26|John xiv. 26]]. 18 Jerem. xxxi. 31–33; Is. liv. 13; [[Hebrews 08#^8-8|Heb. viii. 8–11]]; [[John 06#^6-45|John vi. 45]]. [[2 Corinthians 03#^3-3|2 Cor. iii. 3]]. \[The text here agrees with the Rec., not with the oldest mss. followed in the R.V.—R.\]
+15 \[μηδ δεσθαι, “not even to need,” as below in sec. 2.—R.\] 16 \[ἐδλωσεν, “made evident, showed.” The translator very frequently renders the aorist by the English perfect. Attention will be called in some instances, where the sense is affected by such renderings.—R.\] 17 [[John 14#^14-26|John xiv. 26]]. 18 Jerem. xxxi. 31–33; Is. liv. 13; [[Hebrews 08#^8-8|Heb. viii. 8–11]]; [[John 06#^6-45|John vi. 45]]. 19 [[2 Corinthians 03#^3-3|2 Cor. iii. 3]]. \[The text here agrees with the Rec., not with the oldest mss. followed in the R.V.—R.\]
 
 *[p. 17]* ^pg25
 
@@ -194,7 +194,7 @@ But that no such effect may ensue, let us give strict heed unto the things that 
 
 3\. How then was that law given in time past, and when, and where? After the destruction 2 of the Egyptians, in the wilderness, on Mount Sinai, when smoke and fire were rising up out of the mountain, a trumpet sounding, thunders and lightnings, and Moses entering into the very depth of the cloud.<sup>21</sup> But in the new covenant not so,—neither in a wilderness, nor in a mountain, nor with smoke and darkness and cloud and tempest; but at the beginning of the day, in a house, while all were sitting together, with great quietness, all took place. For to those, being more unreasonable, and hard to guide, there was need of outward pomp,<sup>22</sup>as of a wilderness, a mountain, a smoke, a sound of trumpet, and the other like things: but they who were of a higher character, and submissive, and who had risen above mere corporeal imaginations,<sup>23</sup> Yea, for it was removal of punishment, and remission of sins, and “righteousness, and sanctification, and redemption,”<sup>24</sup>and adoption, and an inheritance of Heaven, and a relationship unto the Son of God, which he came declaring unto all; to enemies, to the perverse, to them that were sitting in darkness. What then could ever be equal to these good tidings? God on earth, man in Heaven; and all became mingled together, angels joined the choirs of men, men had fellowship with the angels, and with the other powers above: and one might see the long war brought to an end, and reconciliation made between God and our nature,<sup>25</sup>the devil brought to shame, demons in flight, death destroyed, Paradise opened, the curse blotted out, sin put out of the way, error driven off, truth returning, the word of godliness everywhere sown, and flourishing in its growth, the polity of those above planted on the earth, those powers in secure intercourse with us, and on earth angels continually haunting, and hope abundant touching things to come.
 
-20 \[Literally, “the punishment *that is* greater.”—R.\] 21 \[Literally, “the very cloud.”—R.\] σωματικ φαντασα. 22 τν τν σωμτων ννοιανεαγγλιον).—R.\] 23 24 \[A reminiscence of [[1 Corinthians 01#^1-30|1 Cor. i. 30]].—R.\] 25 \[Literally, “reconciliations of God to our nature.” The doctrinal point of view is Pauline: God is reconciled, His anger removed.—R.\]
+20 \[Literally, “the punishment *that is* greater.”—R.\] 21 \[Literally, “the very cloud.”—R.\] 22 σωματικ φαντασα. 23 τν τν σωμτων ννοιανεαγγλιον).—R.\] 24 \[A reminiscence of [[1 Corinthians 01#^1-30|1 Cor. i. 30]].—R.\] 25 \[Literally, “reconciliations of God to our nature.” The doctrinal point of view is Pauline: God is reconciled, His anger removed.—R.\]
 
 *[p. 18]* ^pg26
 
@@ -214,7 +214,7 @@ But if there be anything touching times or places, which they have related diffe
 
 But what are these points? Such as follow: That God became man, that He wrought miracles, that He was crucified, that He was buried, that He rose again, that He ascended, that He will judge, that He hath given commandments tending to salvation, that He hath brought in a law not contrary to the Old Testament, that He is a Son, that He is only-begotten,
 
-26 \[The independence of the Gospels is thus emphasized by the most competent exegete of the Nicene period. His treatment of the apparent discrepancies is suggestive.—R.\] 27 \[That is, “in nothing,” in no respect.—R.\] συγκροτοσιν. \[Literally, “weld together,” used of organizing a body of soldiers.—R.\]
+26 \[The independence of the Gospels is thus emphasized by the most competent exegete of the Nicene period. His treatment of the apparent discrepancies is suggestive.—R.\] 27 \[That is, “in nothing,” in no respect.—R.\] 28 συγκροτοσιν. \[Literally, “weld together,” used of organizing a body of soldiers.—R.\]
 
 *[p. 19]* ^pg27
 
@@ -228,23 +228,23 @@ And if amongst the miracles they have not all of them mentioned all, but one the
 
 But as to John, he hath himself kept silence touching the cause; yet,<sup>33</sup>(as a tradition<sup>34</sup>saith, which hath come down to us from the first, even from the Fathers,) neither did he come to write without purpose; but forasmuch as it had been the care of the three to dwell upon the account of the dispensation,<sup>35</sup>and the doctrines of the Godhead were near being left in silence, he, moved by Christ, then and not till then set himself to compose his Gospel.<sup>36</sup> And this is manifest both from the history itself, and from the opening of his Gospel. For he doth not begin like the rest from beneath, but from above, from the same point, at which he was aiming, and it was with a view to this that<sup>37</sup>he composed the whole book. And not in the beginning only, but throughout all the Gospel, he is more lofty than the rest.
 
-προσεφαι πλ.
+29 προσεφαι πλ.
 
-29 30
+30
 
-\[“accurate.”—R.\] 31
+\[“accurate.”—R.\]
 
-[[Luke 01#^1-4|Luke i. 4]].
+31 [[Luke 01#^1-4|Luke i. 4]].
 
 ’Ασφλεια, “certainty,” seems to be used here first *objectively*, as when we say, “a thing is certain,” then 32 *subjectively*, as “I am certain of it.”
 
-\[The translator, with the Latin, follows the reading δ; most mss. have γρ, which is the more difficult read- 33 ing.—R.\] 34
+33 \[The translator, with the Latin, follows the reading δ; most mss. have γρ, which is the more difficult read- ing.—R.\]
 
-So St. Irenæus, iii. 11, 1. “John, the disciple of the Lord, purposing by the publication of a Gospel to take away the error which Cerinthus had sown among men, and long before him those who are called Nicolait-ans….thus began the instruction of his Gospel: *In the beginning, &c*.” See also St. Clem. of Alex. in Euseb. E. H. vi. 14; St. Jerome, Pref. to Com. on St. Matth.
+34 So St. Irenæus, iii. 11, 1. “John, the disciple of the Lord, purposing by the publication of a Gospel to take away the error which Cerinthus had sown among men, and long before him those who are called Nicolait-ans….thus began the instruction of his Gospel: *In the beginning, &c*.” See also St. Clem. of Alex. in Euseb. E. H. vi. 14; St. Jerome, Pref. to Com. on St. Matth.
 
-οκονομα, *i.e*., our Lord’s assumption of the Manhood. The word is so used continually by the Fathers. 35 36
+35 οκονομα, *i.e*., our Lord’s assumption of the Manhood. The word is so used continually by the Fathers.
 
-\[This paraphrase fairly brings out the sense, but is a very free rendering of the text.—R.\] \[κα δι τοτο.\]
+36 \[This paraphrase fairly brings out the sense, but is a very free rendering of the text.—R.\] 37 \[κα δι τοτο.\]
 
 *[p. 20]* ^pg28
 
@@ -256,7 +256,7 @@ For this cause then Matthew, as writing to Hebrews, sought to shew nothing more,
 
 8\. But the harmony between them we will establish, both by the whole world, which hath received their statements, and by the very enemies of the truth. For many sects have had birth, since their time, holding opinions opposed to their words; whereof some have received all that they have said, while some have cut off from the rest certain portions of their statements, and so retain them for themselves.<sup>40</sup> But if there were any hostility<sup>41</sup>in their statements, neither would the sects, who maintain the contrary part, have received all, but only so much as seemed to harmonize with themselves; nor would those, which have parted off a portion, be utterly refuted by that portion; so that the very fragments<sup>42</sup>cannot be hid, but declare aloud their connexion<sup>43</sup>with the whole body. And like as if thou shouldest take any part from the side of an animal, even in that part thou wouldest find all the things out of which the whole is composed;—nerves and veins, bones, arteries, and blood, and a sample, as one might say, of the whole lump;—so likewise with regard to the
 
-38 Euseb. E. H. iii. 24; St. Jer. de Vir. Ill. 3; Orig. in Matth. t. iii. 440; St. Iren. iii. 1. But St. Chrysostom seems to be quoting the words of some other writer besides these. 39 Or in Rome, before the death of St. Peter, who approved the Gospel. So St. Clem. Alex. in Euseb. E. H. ii. 15; St. Jer. de Vir. Illustr. c. 8. St. Iren. iii. 1, seems rather to agree with St. Chrysostom. Perhaps they may be reconciled by supposing St. Mark’s Gospel written at Rome and approved by St. Peter, but not published until after his death, when St. Mark was in Egypt. See Massuet’s note on the place in St. Irenæus; and Euseb. ii. 16. 40 The Arians, *e.g.* and kindred sects, received all the Scriptures; the Marcionites, besides rejecting the Old Testament received only the Gospel of St. Luke, and ten of St. Paul’s epistles: out of which Tertulian refutes them at large. The Manichæans rejected the Old Testament and The Acts of the Apostles in which latter the Montanists agreed with them. This was besides numerous interpolations which they all alleged in the books which they did receive. See St. Aug. Ep. 237. \[μχη, the technical term for “contradiction” when applied to statements. See *Sophocles’ Greek Lexicon of* 41 *the Roman and Byzantine periods; sub voce*.—R.\] κμματα, Gr. 42 κμματα, Gr.
+38 Euseb. E. H. iii. 24; St. Jer. de Vir. Ill. 3; Orig. in Matth. t. iii. 440; St. Iren. iii. 1. But St. Chrysostom seems to be quoting the words of some other writer besides these. 39 Or in Rome, before the death of St. Peter, who approved the Gospel. So St. Clem. Alex. in Euseb. E. H. ii. 15; St. Jer. de Vir. Illustr. c. 8. St. Iren. iii. 1, seems rather to agree with St. Chrysostom. Perhaps they may be reconciled by supposing St. Mark’s Gospel written at Rome and approved by St. Peter, but not published until after his death, when St. Mark was in Egypt. See Massuet’s note on the place in St. Irenæus; and Euseb. ii. 16. 40 The Arians, *e.g.* and kindred sects, received all the Scriptures; the Marcionites, besides rejecting the Old Testament received only the Gospel of St. Luke, and ten of St. Paul’s epistles: out of which Tertulian refutes them at large. The Manichæans rejected the Old Testament and The Acts of the Apostles in which latter the Montanists agreed with them. This was besides numerous interpolations which they all alleged in the books which they did receive. See St. Aug. Ep. 237. 41 \[μχη, the technical term for “contradiction” when applied to statements. See *Sophocles’ Greek Lexicon of* *the Roman and Byzantine periods; sub voce*.—R.\] 42 κμματα, Gr. 43 κμματα, Gr.
 
 *[p. 21]* ^pg29
 
@@ -308,7 +308,7 @@ And these things even to a laborer, and to a servant, and to a widow woman, and 
 
 Yea, for there wilt thou see true wisdom<sup>52</sup>abounding, and choirs of angels shining forth in a human body, and the commonwealth<sup>53</sup>of Heaven manifested here on earth. For a commonwealth<sup>54</sup>did these fishermen too write for us, not with commands that it should be embraced from childhood, like those others, nor making it a law that the virtuous man must be so many years old, but addressing their discourse generally to every age. For those lessons are children’s toys, but these are the truth of things.
 
-48 \[ἐδδαξεν.\] 49 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. \[φιλοσοφαν=true wisdom.—R.\] 52 \[πολιτεα, in its proper case.\] 53 \[πολιτεα, in its proper case.\]
+48 49 \[ἐδδαξεν.\] 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. 52 \[φιλοσοφαν=true wisdom.—R.\] \[πολιτεα, in its proper case.\] 53 \[πολιτεα, in its proper case.\] 54 \[πολιτεα, in its proper case.\]
 
 *[p. 24]* ^pg32
 
@@ -330,11 +330,11 @@ But in order that the word may be the more easy to learn, we pray and entreat yo
 
 \[πολιτεα, in its proper case.\] 58
 
-\[φιλοσοφα.\] 59
+59 \[φιλοσοφα.\]
 
 \[πολιτεα, in its proper case.\] 60
 
-\[πολιτεα, in its proper case.\] 61
+\[πολιτεα, in its proper case.\] 62 [[Acts 08#^8-28|Acts viii. 28]]. 61
 
 *[p. 25]* ^pg33
 
@@ -354,7 +354,7 @@ And wherefore Luke hath made mention of other names, and not only not all of the
 
 Ye see how much wakeful attention is needed on our part, not only for explanation, but even that we may learn what things we have to explain. For neither is this a little matter, to
 
-7 \[Κα γρ.\] 63 \[Κα γρ κα τοτο.\] 64 \[See Homily iv., where this question is discussed.—R.\]
+7 63 \[Κα γρ.\] 64 \[Κα γρ κα τοτο.\] 65 \[See Homily iv., where this question is discussed.—R.\]
 
 *[p. 26]* ^pg34
 
@@ -374,7 +374,7 @@ When then, I pray thee, are we to do what is commanded, and to put our hand to t
 
 Why, he that is grown old, and hath travelled over much country, reports to us with all exactness the number of stadia, and the situations of cities, their plans, and their harbors
 
-66 \[Literally, “and learn.”—R.\] ἐρτε 67 68 [[Matthew 07#^7-6|Matt. vii. 6]]. \[The citation is not, however, verbally accurate.—R.\] \[πολιτεα \]
+66 \[Literally, “and learn.”—R.\] 67 ἐρτε 68 [[Matthew 07#^7-6|Matt. vii. 6]]. \[The citation is not, however, verbally accurate.—R.\] 69 \[πολιτεα \]
 
 *[p. 27]* ^pg35
 
@@ -392,7 +392,7 @@ Yes, for the city is most kingly and glorious; not as the cities with us, divide
 
 For the present we find the gates closed; but when we see them thrown open (for this is the solution of the difficulties), then we shall perceive the greatness of the splendor within. For there also, leading thee with the eyes of the Spirit, is one who offers to show thee all, even this Publican; where the King sitteth, and who of His host stand by Him; where are the angels, where the archangels; and what place is set apart for the new citizens in this city, and what kind of way it is that leads thither, and what manner of portion they have received, who first were citizens therein, and those next after them, and such as followed these. And how many are the orders of these tribes, how many those of the senate, how many the distinctions of dignity.
 
-8 \[σπουδζωμεν; the verb is rendered “endeavor” in the preceding sentence.—R.\] 70 \[Κα γρ.\]
+8 70 \[σπουδζωμεν; the verb is rendered “endeavor” in the preceding sentence.—R.\] 71 \[Κα γρ.\]
 
 *[p. 28]* ^pg36
 
@@ -420,7 +420,7 @@ Herein standeth the trophy of the cross, glorious, and conspicuous, the spoils w
 
 Thou shalt see likewise the tyrant here bound, and the multitude of the captives following, and the citadel from which that unholy demon overran all things in time past. Thou wilt
 
-9 \[κα γρ; but there is some variation in the readings.—R.\] 72 73 [[Hebrews 12#^12-18|Heb. xii. 18]]. \[Here the Greek text agrees more closely with that of the received text in Hebrews than with that of the earliest mss.—R.\] \[φιλοσοφαν.\] 74 75 Heb. xii. 22, 23, 44. \[The citation is free; but it is evident that Chrysostom accepts the view indicated in the R.V. margin: “the general assembly of angels.”—R.\] \[τ κροθνια, “the chief spoils,” see [[Hebrews 07#^7-4|Heb. vii. 4]].—R.\]
+9 72 \[κα γρ; but there is some variation in the readings.—R.\] 73 [[Hebrews 12#^12-18|Heb. xii. 18]]. \[Here the Greek text agrees more closely with that of the received text in Hebrews than with that of the earliest mss.—R.\] 74 \[φιλοσοφαν.\] 75 Heb. xii. 22, 23, 44. \[The citation is free; but it is evident that Chrysostom accepts the view indicated in the R.V. margin: “the general assembly of angels.”—R.\] 76 \[τ κροθνια, “the chief spoils,” see [[Hebrews 07#^7-4|Heb. vii. 4]].—R.\]
 
 *[p. 30]* ^pg38
 
@@ -436,7 +436,7 @@ And what is marvellous, thou wilt see death destroyed by death, and curse exting
 
 It is not then of that we are now to speak, but of this beneath, this which took place on earth, which was amongst ten thousand witnesses. And concerning this again we will relate in such wise as it may be possible for us, having received the grace of the Spirit. For not even this may any one set forth altogether plainly, forasmuch as this too is most awful. Think
 
-77 See [[1 Peter 03#^3-19|1 Pet. iii. 19]], [[1 Peter 03#^3-20|20]]; [[1 Peter 04#^4-6|iv. 6]]; St. Iren. iv. 45; iii. 23; iv. 39, 56, 66; v. 31; Orig. in Joan, t. ii. 30; contr. Cels. ii. 43; in Rom. lib. 5, l. t. iv. 551. B; Tert. de Anim. 7; St. Greg. Naz. Or. 42, p. 693. Ed. Morell; and others cited by Cotelerius on St. Hermas. iii. 16. 78 Wisd. xviii. 15. 79 \[Literally, “for.”\] Isaiah liii. 8. \[Here γενεν occurs; not the term used by Matthew, but in the phrase “that other generation,” 80 γννησιν, occurs.—R.\]
+77 See [[1 Peter 03#^3-19|1 Pet. iii. 19]], [[1 Peter 03#^3-20|20]]; [[1 Peter 04#^4-6|iv. 6]]; St. Iren. iv. 45; iii. 23; iv. 39, 56, 66; v. 31; Orig. in Joan, t. ii. 30; contr. Cels. ii. 43; in Rom. lib. 5, l. t. iv. 551. B; Tert. de Anim. 7; St. Greg. Naz. Or. 42, p. 693. Ed. Morell; and others cited by Cotelerius on St. Hermas. iii. 16. 78 Wisd. xviii. 15. 79 \[Literally, “for.”\] 80 Isaiah liii. 8. \[Here γενεν occurs; not the term used by Matthew, but in the phrase “that other generation,” γννησιν, occurs.—R.\]
 
 *[p. 31]* ^pg39
 
@@ -448,7 +448,7 @@ Seest thou at once from the beginning of what nature are the Gospels? If thou do
 
 Wherefore the birth was twofold, both made like unto us, and also surpassing ours. For to be born of a woman indeed was our lot, but “to be born not of blood, nor of the will of flesh, nor of man,” but of the Holy Ghost,<sup>84</sup>was to proclaim beforehand the birth surpassing us, the birth to come, which He was about freely to give us of the Spirit. And everything else too was like this. Thus His baptism also was of the same kind, for it partook of the old, and it partook also of the new. To be baptized by the prophet marked the old, but the coming down of the Spirit shadowed out the new. And like as though any one were to place himself in the space between any two persons that were standing apart, and stretching forth both his hands were to lay hold on either side, and tie them together; even so hath He done,
 
-81 Baruch iii. 37. Or Unapproachable ἀπρσιτο, according to some mss. Savil. 82 83 \[Chrysostom uses the imperative: “Because of this very thing especially marvel,” etc.—R.\]
+81 Baruch iii. 37. 82 Or Unapproachable ἀπρσιτο, according to some mss. Savil. 83 \[Chrysostom uses the imperative: “Because of this very thing especially marvel,” etc.—R.\] 84 [[John 01#^1-13|John i. 13]].
 
 *[p. 32]* ^pg40
 
@@ -464,11 +464,11 @@ However, lest having heard the word Jesus, thou shouldest by reason of the ident
 
 5\. But wherefore doth he call it a “book of the generation of Jesus Christ,” while yet this book hath not the birth only, but the whole dispensation? Because this is the sum of the whole dispensation, and is made an origin and root of all our blessings. As then Moses calleth it the book of heaven and earth,<sup>87</sup>although he hath not discoursed of heaven and earth only, but also of all things that are in the midst thereof; so also this man hath named his book from that which is the sum of all the great things done. For that which teems with astonishment, and is beyond hope and all expectation, is that God should become man. But this having come to pass, all afterwards follows in reasonable consequence.
 
-ἀστραπν. \[Used of a flash of lightning, or dazzling brightness.—R.\] 85
+85 ἀστραπν. \[Used of a flash of lightning, or dazzling brightness.—R.\]
 
-\[κα γρ.\] 86
+86 \[κα γρ.\]
 
-Gen. ii. 4.
+87 Gen. ii. 4.
 
 *[p. 33]* ^pg41
 
@@ -480,7 +480,7 @@ On account of this he makes the beginning at once from him who was more known, a
 
 Of which then is it necessary to speak first? How the Virgin is of David. How then shall we know that she is of David? Hearken unto God, telling Gabriel to go unto “a virgin betrothed to a man (whose name was Joseph), of the house and lineage of David.”<sup>93</sup> What
 
-88 [[John 07#^7-42|John vii. 42]]. 89 Ezek. xxxiv. 23, 24; xxxvii. 24, 25; Jer. xxx. 9; Hos. iii. 5. 90 2 Kings xix. 34. 91 1 Kings ii. 11, 12, 13. \[Κα.\] 92 93 [[Luke 01#^1-27|Luke i. 27]]. \[The words, “and lineage” occur in some mss. of the New Testament. But the citation here is probably made with freedom.—R.\]
+88 [[John 07#^7-42|John vii. 42]]. 89 Ezek. xxxiv. 23, 24; xxxvii. 24, 25; Jer. xxx. 9; Hos. iii. 5. 90 2 Kings xix. 34. 91 1 Kings ii. 11, 12, 13. 92 \[Κα.\] 93 [[Luke 01#^1-27|Luke i. 27]]. \[The words, “and lineage” occur in some mss. of the New Testament. But the citation here is probably made with freedom.—R.\]
 
 *[p. 34]* ^pg42
 
@@ -512,11 +512,11 @@ For if ye retain these things, ye will the more encourage us with respect to wha
 
 Wherefore I entreat you to revolve these things. For from taking thought concerning such matters, there springs in the soul some great good, tending unto salvation. For by these meditations we shall be able to please God Himself; and our mouths will be pure from insults, and filthy talking, and reviling, while they are exercising themselves in spiritual sayings; and we shall be formidable to the devils, while arming our tongue with such words; and we shall draw unto ourselves God’s grace the more, and it will render our eye more piercing. For indeed both eyes and mouth and hearing He set in us to this intent, that all our members may serve Him, that we may speak His words, and do His deeds, that we may sing unto Him continual hymns, that we may offer up sacrifices of thanksgiving,<sup>98</sup>and by these may thoroughly purify our consciences.
 
-παραχαρττειν. \[This word is the technical one for counterfeiting or forging.—R.\] 96 97
+96 παραχαρττειν. \[This word is the technical one for counterfeiting or forging.—R.\]
 
-See Hom. iii. sec. 1.
+97 See Hom. iii. sec. 1.
 
-εχαριστα.
+98 εχαριστα.
 
 *[p. 36]* ^pg44
 
@@ -526,7 +526,7 @@ For nothing doth so hurt and dim the eye of the soul as the crowd of worldly anx
 
 Now if there be need both of an unencum bered mind, and of spiritual grace, that we may mount up to that height; what if there be none of these things, but we draw to ourselves whatever is opposite to them, even a satanical weight? how shall we be able to soar upwards, when dragged down by so great a load? For indeed, should any one attempt to weigh our words as it were in just balances; in ten thousand talents of worldly talk he will scarcely find an hundred pence of spiritual words, or rather, I should say, not even ten farthings. Is it not then a disgrace, and an extreme mockery, that if we have a servant, we make use of him for the most part in things necessary, but being possessed of a tongue, we do not deal with our member so well even as with a slave, but on the contrary make use of it for things unprofitable, and mere makeweights?<sup>102</sup> And would it were only for makeweights:<sup>103</sup>but now it is
 
-13 \[φιλοσοφωτρα is rendered, “more endued with practical wisdom.”—R.\] 99 100 Ps. cii. 3, LXX. \[R.V., “My days consume away like smoke.” The LXX. has the aorist, hence, “have failed” is the rendering here adopted. Some editions of Chrysostom read the imperfect here. The Oxford edition has a second note, the meaning of which is not clear: “Rather *have failed*, LXX.”—R.\] \[εζνου, “well-girded,” then figuratively, “unencumbered.”—R.\] 101 \[παρλκοντα .\] 102 \[παρλκοντα.\]
+13 99 \[φιλοσοφωτρα is rendered, “more endued with practical wisdom.”—R.\] 100 Ps. cii. 3, LXX. \[R.V., “My days consume away like smoke.” The LXX. has the aorist, hence, “have failed” is the rendering here adopted. Some editions of Chrysostom read the imperfect here. The Oxford edition has a second note, the meaning of which is not clear: “Rather *have failed*, LXX.”—R.\] 101 \[εζνου, “well-girded,” then figuratively, “unencumbered.”—R.\] \[παρλκοντα .\] 102 \[παρλκοντα.\]
 
 *[p. 37]* ^pg45
 
@@ -544,7 +544,7 @@ For if thou wouldest learn how great is the profit of the Scriptures, examine th
 
 This is a soul’s food, this its ornament, this its security; even as not to hear is famine and wasting; for “I will give them,” saith He, “not a famine of bread, nor a thirst of water, but a famine of hearing the word of the Lord.”<sup>107</sup>
 
-\[ἐν μσ στρεφομνοι .\] 104 105 1 Cor. x. 11. 106 1 Cor. xv. 33. Amos viii. 11.
+104 \[ἐν μσ στρεφομνοι .\] 105 1 Cor. x. 11. 106 1 Cor. xv. 33. 107 Amos viii. 11.
 
 *[p. 38]* ^pg46
 
@@ -560,7 +560,7 @@ But if a word merely have such great power, tell me, how is it thou dost despise
 
 Let us not therefore despise the hearing of the divine Scriptures. For this is of Satan’s devising; not suffering us to see the treasure, lest we should gain the riches. Therefore he saith that the hearing the divine laws is nothing, lest he should see us from the hearing acquiring the practice also.
 
-108 \[[[2 Corinthians 07#^7-11|2 Cor. vii. 11]] is here cited, but in abridged form. All the mss. and editions of Chrysostom, except the Benedictine, give the briefer reading, but in Migne’s edition, αλλ φβον, λλ πιπθησιν (“yea, *what* fear, yea, *what* vehement desire”) are supplied in brackets. In the New Testament passage there is no variation in text, so far as these phrases are concerned. Like most patristic authors, this great Homilist was quite free in his method of citing Scripture.—R.\] \[Literally, “will condemn himself.”—R.\]
+108 \[[[2 Corinthians 07#^7-11|2 Cor. vii. 11]] is here cited, but in abridged form. All the mss. and editions of Chrysostom, except the Benedictine, give the briefer reading, but in Migne’s edition, αλλ φβον, λλ πιπθησιν (“yea, *what* fear, yea, *what* vehement desire”) are supplied in brackets. In the New Testament passage there is no variation in text, so far as these phrases are concerned. Like most patristic authors, this great Homilist was quite free in his method of citing Scripture.—R.\] 109 \[Literally, “will condemn himself.”—R.\]
 
 *[p. 39]* ^pg47
 
@@ -580,7 +580,7 @@ Come, then, let us speak to-day what remains. What is it then that is now requir
 
 Nay, be not troubled at the strangeness of the saying. For it is no statement of mine, but of our fathers, wonderful and illustrious men.<sup>110</sup> For if He disguised many things from the first, calling Himself Son of Man, and hath not everywhere clearly unfolded to us even His equality with the Father; why dost thou wonder at His having for a time disguised this also, taking order as He was for a certain great and marvellous purpose?<sup>111</sup>and would have condemned her for adultery. For if in regard to the other matters, for which they had frequent 15
 
-St. Ignatius ad Ephes. xix. init. Κα λαθεν τον ρχοντα το ανο τουτο παρθενα Μαρα, κα τοκετς ατ, μοω κα 110 θνατο το Κυρου τρα μυστρια κραυγ τινα ν συχ Θεο πρχθη. “Now the virginity of Mary, and her delivery, was kept in secret from the prince of this world, as was also the Lord’s death; three most notable mysteries, yet done in Secret of God.” \[See *Ante-Nicene Fathers*, Vol. I., p. 57. The Greek given in this note is from the “briefer” form of the Ignatian Epistles. But the “longer” form differs very little, and the Syriac version, brief as it is, contains this sentence.—R.\] And Origen, 6th Homily on St. Luke, says, “It has been well written in one of the epistles of a certain martyr, I mean Ignatius, the next Bishop of Antioch after the blessed Peter, him who fought with wild beasts in the persecution at Rome, ‘Now the virginity of Mary was kept in secret from the prince of this world.’ It was concealed because of Joseph, because of her espousals, because she was supposed to have a husband. For, had she had no spouse or supposed husband, it could not have been concealed from the prince of this world. For presently the thought would have silently occurred to the evil one, ‘How is she with child, who knoweth not a man? This conception must be divine, it must be something higher than human nature.’ On the contrary, our Saviour had purposed that the devil should be ignorant of his Œconomy and Incarnation: for which cause He both in His birth concealed the same, and commanded His disciples afterwards that they should not make Him known. Also when tempted by the devil in person, He no where owned Himself Son of God.” Origen then quotes [[1 Corinthians 02#^2-6|1 Cor. ii. 6–8]], to the same effect. And in answer to the objection, How the devils which were from time to time cast out knew Him to be the Son of God, he suggests that it might be owing to their inferiority in malice and mischief: according to the rule among men, that the worse they are, the less they can know of Christ. \[The *Homilies* of Origen are not included in the *Ante-Nicene Fathers*.\] See also a supposed Homily of St. Basil’s, *De Christi generatione*, Ed. Ben. ii. 598, c.; and St. Jerome on St. [[Matthew 01#^1-18|Matt. i. 18]]. \[θαυμαστν τι κα μγα οκονομνκακουργοντε .
+St. Ignatius ad Ephes. xix. init. Κα λαθεν τον ρχοντα το ανο τουτο παρθενα Μαρα, κα τοκετς ατ, μοω κα 110 θνατο το Κυρου τρα μυστρια κραυγ τινα ν συχ Θεο πρχθη. “Now the virginity of Mary, and her delivery, was kept in secret from the prince of this world, as was also the Lord’s death; three most notable mysteries, yet done in Secret of God.” \[See *Ante-Nicene Fathers*, Vol. I., p. 57. The Greek given in this note is from the “briefer” form of the Ignatian Epistles. But the “longer” form differs very little, and the Syriac version, brief as it is, contains this sentence.—R.\] And Origen, 6th Homily on St. Luke, says, “It has been well written in one of the epistles of a certain martyr, I mean Ignatius, the next Bishop of Antioch after the blessed Peter, him who fought with wild beasts in the persecution at Rome, ‘Now the virginity of Mary was kept in secret from the prince of this world.’ It was concealed because of Joseph, because of her espousals, because she was supposed to have a husband. For, had she had no spouse or supposed husband, it could not have been concealed from the prince of this world. For presently the thought would have silently occurred to the evil one, ‘How is she with child, who knoweth not a man? This conception must be divine, it must be something higher than human nature.’ On the contrary, our Saviour had purposed that the devil should be ignorant of his Œconomy and Incarnation: for which cause He both in His birth concealed the same, and commanded His disciples afterwards that they should not make Him known. Also when tempted by the devil in person, He no where owned Himself Son of God.” Origen then quotes [[1 Corinthians 02#^2-6|1 Cor. ii. 6–8]], to the same effect. And in answer to the objection, How the devils which were from time to time cast out knew Him to be the Son of God, he suggests that it might be owing to their inferiority in malice and mischief: according to the rule among men, that the worse they are, the less they can know of Christ. \[The *Homilies* of Origen are not included in the *Ante-Nicene Fathers*.\] See also a supposed Homily of St. Basil’s, *De Christi generatione*, Ed. Ben. ii. 598, c.; and St. Jerome on St. [[Matthew 01#^1-18|Matt. i. 18]]. 111 \[θαυμαστν τι κα μγα οκονομνκακουργοντε .
 
 *[p. 41]* ^pg49
 
@@ -590,13 +590,11 @@ It is then for this reason that both Joseph has his genealogy traced, and the Vi
 
 2\. But why is it, that having mentioned Abraham, and having said that “he begat Isaac, and Isaac, Jacob;” and not having made any mention of his brother; when he is come to Jacob, he remembers both “Judah, and his brethren”? Now there are some that say, it was because of the perverseness of Esau, and of the rest that came before. But I should not say this; for if it were so, how is it that he a little after mentions such women? It being out of contraries, in this place, that His glory is manifested; not by having great forefathers, but
 
-φανερ ναισχντουν.
+112 φανερ ναισχντουν.
 
-112
+113 \[Κα γρ.\]
 
-\[Κα γρ.\] 113
-
-\[ἐκενην.\] 114
+114 \[ἐκενην.\] 115 [[Luke 02#^2-48|Luke ii. 48]].
 
 *[p. 42]* ^pg50
 
@@ -608,7 +606,7 @@ But he did these things not only to instruct us, but also to bring down the haug
 
 Besides this, he is establishing another point also, to show that all are under sin, even their forefathers themselves. At least their patriarch and namesake is shown to have committed no small sin, for Thamar stands against him, to accuse his whoredom. And David too had Solomon by the wife whom he corrupted. But if by the great ones the law was not
 
-16 116 Matt. i. 3. 117 \[More accurately, “But why is this? one may say.”—R.\] \[τν Αβραμ νω κα κτω παρφερον.\]
+16 116 Matt. i. 3. 117 \[More accurately, “But why is this? one may say.”—R.\] 118 \[τν Αβραμ νω κα κτω παρφερον.\]
 
 *[p. 43]* ^pg51
 
@@ -620,4 +618,4 @@ For this cause he made mention also of the twelve patriarchs, by this again brin
 
 Seest thou the dark expression of mysteries? For it was not without purpose that these things were recorded for us: since neither was it worth our study to learn, what it might be that the midwife said; nor worth a narrative to know, that he who came out second, put forth his hand first. What then is the mysterious lesson?<sup>121</sup> First, from the name of the child<sup>122</sup>we learn what is inquired, for Phares is “a division,” and “a breach.” And moreover from the thing itself, which took place; for it was not in the order of nature that, having thrust out his hand, he should draw it in again when bound; these thing neither belonged to a movement directed by reason, nor did they take place in the way of natural consequence. For after the hand had found its way out, that another child should come forth before was perhaps not unnatural; but that he should draw it back, and give a passage for another, was
 
-119 Gen. xxxviii. 27. 120 Our marginal translation is, “Wherefore hast thou made this breach against thee?” Gen. xxxviii. 29. \[R.V. text: “Wherefore hast thou made a breach for thyself,” with the margin: “Or, How hast thou made a breach ! A breach be upon thee!” The LXX. rendering, which Chrysostom cites, misses the suggestion of the original Hebrew.—R.\] τ ανιγμα. 121 \[τ προηγοπα το παιδου. The terms seem to be chosen to suggest that the name of the child came from the greeting given it by the midwife.—R.\]
+119 Gen. xxxviii. 27. 120 Our marginal translation is, “Wherefore hast thou made this breach against thee?” Gen. xxxviii. 29. \[R.V. text: “Wherefore hast thou made a breach for thyself,” with the margin: “Or, How hast thou made a breach ! A breach be upon thee!” The LXX. rendering, which Chrysostom cites, misses the suggestion of the original Hebrew.—R.\] 121 τ ανιγμα. 122 \[τ προηγοπα το παιδου. The terms seem to be chosen to suggest that the name of the child came from the greeting given it by the midwife.—R.\]

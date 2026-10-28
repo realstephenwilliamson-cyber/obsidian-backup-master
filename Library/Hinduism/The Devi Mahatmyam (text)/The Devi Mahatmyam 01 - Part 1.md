@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Devi Mahatmyam (text)|contents]] · [[The Devi Mahatmyam 02 - Part 2|next →]]
 
-*[PDF 1]* ^pg1
+*[p. 1]* ^pg1
 
 *The Devi Mahatmyam* 
 
@@ -46,7 +46,7 @@ Granting Boons to the King and the Merchant.
 
  *For more information see ‘Notes’ on page 55.* 
 
-*[PDF 2]* ^pg2
+*[p. 2]* ^pg2
 
 *The Devi Mahatmyam* 
 
@@ -76,7 +76,7 @@ He, the wielder of powerful weapons, fought a battle with the Kolā destroyers, 
 
 1. 4. 6.
 
-*[PDF 3]* ^pg3
+*[p. 3]* ^pg3
 
 Even in his own city, the King, now bereft of strength, was robbed of his 8. 
 
@@ -92,7 +92,7 @@ treasury and army by his own powerful, vicious and evil-disposed ministers. Ther
 
 26\. The King said: 'Why is your mind affectionately attached to those covetous folk, your sons, wife and others, who have deprived you of your wealth?' 
 
-*[PDF 4]* ^pg4
+*[p. 4]* ^pg4
 
 29\. The Merchant said: 'This very thought has occurred to me, just as You have uttered it. What can I do? My mind does not become harsh; it bears deep affection to those very persons who have driven me out in their greed for wealth, abandoning love for a father and attachment to one's master and kinsmen. I do not comprehend although, I know it. O noble hearted King, how it is that the mind is prone to love even towards worthless kinsmen. On account of them I heave heavy sighs and feel dejected. What can I do since my mind does not become hard towards those unloving ones?’ 
 
@@ -104,7 +104,7 @@ Without the control of my intellect, my mind is afflicted with sorrow. Though I 
 
 50\. The knowledge that men have, birds and beasts too have; and what they have men also possess; and the rest like eating and sleeping is common to both of them. Look at these birds, which though they possess knowledge, and are themselves distressed by hunger are yet, because of the delusion, engaged in dropping grains into the beaks of their young ones. Human beings are, O tiger 
 
-*[PDF 5]* ^pg5
+*[p. 5]* ^pg5
 
 among men, attached to their children because of greed for return help. Do you not see this? Even so men are hurled into the whirlpool of attachment, the pit of delusion, through the power of Mahāmāyā the Great Illusion, who makes the existence of the world possible. Marvel not at this. This Mahāmāyā is the Yoga-nidra of Viṣhṇu, the Lord of the World. It is by Her the World is deluded. Verily She, the Bhagavati, the Mahāmāyā forcibly drawing the minds of even the wise, throws them into delusion. She creates this entire Universe, both moving and unmoving. It is She who, when propitious, becomes a boon-giver to human beings for their final liberation. She is the Supreme Knowledge, the Cause of Final Liberation, and Eternal; She is the Cause of the Bondage of Transmigration and the Sovereign over All Lords.’ 
 
@@ -114,7 +114,7 @@ How did She come into being and what is Her sphere of action, O Brahmana? What c
 
 *The following Brahmā Stuti, the first of the four great Hymns of the Devi Mahatmyam, is in Anushtubh Metre (four blocks of eight syllables) an easy flowing rhythm for recitation or singing. \* Janārdana and Hari are names of Śhrī Vishnu.* 
 
-*[PDF 6]* ^pg6
+*[p. 6]* ^pg6
 
 The Brahmā Stuti – ‘Praise by Shrī Brahmā’ 
 
@@ -148,7 +148,7 @@ Prakṛitis-tvam cha sarvasya guṇa-trayā vibhāvinī |
 Kāla-rātrir mahā-rātrir mohā-rātriśh cha dāruṇā ||
 *78* You are the Primordial Cause of Everything, bringing into force the Three Qualities. You are the Dark Night of Periodic Dissolution, You are the Great Night of Final Dissolution, and the Terrible Night of Delusion. 
 
-*[PDF 7]* ^pg7
+*[p. 7]* ^pg7
 
 Tvam Śhrīs-tvam Īsvaṛī Tvam Hrīs-tvam buddhir bodha-laksḥaṇā |
 Lajjā puṣhṭis-tathā tuṣhṭis-tvam śhāntiḥ ksḥāntir eva cha || *79* 
@@ -241,7 +241,7 @@ and Indra the Lord of Devas*-‘Gods’*, there was a war between the Devas and 
 
 6\. ‘Mahiṣhāsura himself has assumed the jurisdictions of Sūrya, Indra, Agni, Vayu, Chandra, Yama and Varuna and other Devas. Thrown out from Heaven by that evil-natured Mahiṣha, the hosts of Devas wander on the Earth like mortals. All that has been done by this enemy of the Devas has been related to You both, and we have sought shelter under You both. May both of You be pleased to think out the means of his destruction.' 
 
-*[PDF 10]* ^pg10
+*[p. 10]* ^pg10
 
 Having thus heard the words of the Devas, Viṣhṇu was angry and also Śhiva, 9. 
 
@@ -265,7 +265,7 @@ and their faces became fierce with frowns.
 
 gave a spotless Sword and a Shield. 
 
-*[PDF 11]* ^pg11
+*[p. 11]* ^pg11
 
 25\. The Ocean of Milk gave a pure Necklace, a pair of un-decaying Garments, a divine Crest-jewel, a pair of Ear-rings, Bracelets, a brilliant half-moon Ornament, Armlets on all Arms, a pair of shining Anklets, a unique Necklace and excellent Rings on all the Fingers. Viśhvakarman gave Her a very brilliant Axe, weapons of various forms and also an impenetrable Armour. The Ocean gave Her a Garland of unfading lotuses for Her Head and another for Her Breast, besides a very beautiful Lotus in Her Hand. The Mountain Himavat gave Her a Lion to ride on and various jewels. 
 
@@ -325,7 +325,7 @@ Devi, advanced in anger to fight with Ambikā. That Asura rained showers of arro
 
 16\. Then the lion, springing up quickly to the sky, and descending, severed Chāmara's head with a blow from its paw. 
 
-*[PDF 15]* ^pg15
+*[p. 15]* ^pg15
 
 17\. And Udagra was killed in the battle by the Devi with stones, trees and the like, and Karala also stricken down by Her teeth and fists and slaps. 
 
@@ -351,7 +351,7 @@ This enraged Ambikā.
 
 32\. The elephant tugged at Her great lion with his trunk and roared loudly, but as he was dragging, the Devi cut off his trunk with Her sword. 
 
-*[PDF 16]* ^pg16
+*[p. 16]* ^pg16
 
 33\. The great Asura then resumed his buffalo shape and shook the Three Worlds with their movable and immovable objects. 
 
@@ -375,7 +375,7 @@ This enraged Ambikā.
 
 Here ends the Third Chapter called 'The Slaying of Mahiṣhāsura' of Devī Māhātmyam in the Mārkaṇḍeya Purāṇa during the period of Savarni, the Manu. 
 
-*[PDF 17]* ^pg17
+*[p. 17]* ^pg17
 
 CHAPTER 4 - The Shakr’ādya Stuti 
 
@@ -419,7 +419,7 @@ Nāśhāya chāśhubha bhayasya matim karotu ||
 
 *\* See Notes (p.55) for details on the metre and rhythm of this poem.* 
 
-*[PDF 18]* ^pg18
+*[p. 18]* ^pg18
 
 Yā śhrīḥ svayam sukṛitināṁ bhavaneṣhv’alakṣhmīḥ 
 
@@ -463,7 +463,7 @@ You are the Origin of all the Worlds! Though possessed of the Three Guṇas You 
 
 8 
 
-*[PDF 19]* ^pg19
+*[p. 19]* ^pg19
 
 O Devi, You are Svāhā, whose utterance propitiates the Gods during Sacrifices. You are Svadhā which gives satisfaction to the Ancestors. Therefore people chant to You as Svāhā and Svadhā in Sacrifices. 
 
@@ -501,7 +501,7 @@ Gaurī tvameva śhaśhi-mauli kṛita pratiṣhṭhā ||
 
 11 O Devi, You are the Intelligence which grasps the Essence of All Scriptures. You are Śhrī Durga, the Unobstructed Boat that carries us across the difficult Ocean of Worldly Existence. You are Goddess Lakshmi whose abides in the heart of Śhrī Viṣhṇu. You are Śhrī Gaurī whose place is ever with the Moon-crested Lord Śhiva. 
 
-*[PDF 20]* ^pg20
+*[p. 20]* ^pg20
 
 Īṣhat-sahā sam-amalaṁ pari-pūrṇa chandra 
 
@@ -547,7 +547,7 @@ Yeṣhāṁ sadābhy’udayadā bhavatī prasannā ||
 
 15 Those Fortunate Ones with whom You are well pleased, are celebrated in their countries, have riches, glories, and their acts of righteousness never perish; they are indeed blessed and possessed of devoted children, servants and wives. 
 
-*[PDF 21]* ^pg21
+*[p. 21]* ^pg21
 
 Dharmyāṇi Devi sakalāni sadaiva karmāṇy’ 
 
@@ -593,7 +593,7 @@ Ittham matir bhavati teṣhvahi teṣhu sādhvī ||
 
 19 
 
-*[PDF 22]* ^pg22
+*[p. 22]* ^pg22
 
 Can You not reduce all Asuras to ashes by mere sight? And yet You direct Your Weapons against them so that even the most inimical, purified by those missiles, may attain the Higher Worlds. Such is Your kindly intention towards them. 
 
@@ -629,7 +629,7 @@ Tvayy’eva Devi varade bhuvana-traye-'pi ||
 
 22 To what may Your prowess be compared? Or this Beauty of Yours most charming, yet striking fear in enemies? Compassion of Heart and Relentlessness in Battle are seen only in You, O Devi, Bestower of Boons to the Three Worlds! 
 
-*[PDF 23]* ^pg23
+*[p. 23]* ^pg23
 
 Trailokyam-etad akhilam ripu-nāśhanena 
 
@@ -702,7 +702,7 @@ extolled the Devi, who is the Illusive Power of Viṣhṇu. The Devas praised He
 
  *There follows the Tantrika Devi Sūktam – ‘Auspicious Utterance to the Goddess’.* *It is referred to as Tantrika-‘from the Tantras’ to distinguish it from the Vaidika-‘from the Vedas’ Devi Sūktam – (‘aham rudrebhir’) which is also recited at Navaratri as a part of the Sapta-śhati aṅga –‘limbs of the Devi Mahatmyam’* 
 
-*[PDF 26]* ^pg26
+*[p. 26]* ^pg26
 
 The Tantrika Devi Sūktam 
 
@@ -764,7 +764,7 @@ Namas-tasyai, namo namaḥ.
 
 *Salutations to Her, again and again.* 
 
-*[PDF 27]* ^pg27
+*[p. 27]* ^pg27
 
 Yā Devī sarva-bhūteśhu 
 
@@ -820,7 +820,7 @@ Bhrānti rūpeṇa
 
 *To the Devi who in all beings,* *is termed as Consciousness,* *Salutations to Her, Salutations to Her,* *Salutations to Her, again and again.* *To the Devi who abides in all beings,* *In the Form of Intelligence,* *Salutations to Her, Salutations to Her,* *Salutations to Her, again and again.* *Form of Sleep Form of Hunger Form of Shadow Form of Energy Form of Thirst Form of Patience Form of Position by birth Form of Modesty Form of Peace Form of Faith Form of Beauty Form of Good Fortune Form of Character Form of Memory Form of Compassion Form of Contentment Form of Mother Form of Delusion and Error* 
 
-*[PDF 28]* ^pg28
+*[p. 28]* ^pg28
 
 Indriyānām adhiṣhthātrī 
 
@@ -866,7 +866,7 @@ Namas-tasyai, namo namaḥ
 
 90\. They both told Śhumbha: 'O King, a certain woman, most surpassingly beautiful, dwells there shedding lustre on Mount Himalaya. Such supreme beauty was never seen by anyone anywhere. Ascertain who that Goddess is and take possession of Her, O Lord of the Asuras! 
 
-*[PDF 29]* ^pg29
+*[p. 29]* ^pg29
 
 92\. She is a gem among women, of exquisitely beautiful limbs, illuminating the quarters with Her lustre, O Lord of the Daityas. You should see Her. 
 
@@ -1034,7 +1034,7 @@ overwhelmed the noises of Her bow-string, Lion and Bell by Her terrific roars.
 
 16\. Māheśhvarī arrived, seated on a bull, holding a fine trident, wearing bracelets of great snakes and adorned with a crescent moon. 
 
-*[PDF 36]* ^pg36
+*[p. 36]* ^pg36
 
 17\. Ambikā Kaumarī, in the form of Karttikeya, holding a spear in hand riding on a fine peacock, advanced to attack the Asuras. 
 
@@ -1058,7 +1058,7 @@ overwhelmed the noises of Her bow-string, Lion and Bell by Her terrific roars.
 
 33\. And Brahmāṇī, wherever She moved, made the enemies bereft of valour and prowess by sprinkling on them the water from Her Kamandalu. 
 
-*[PDF 37]* ^pg37
+*[p. 37]* ^pg37
 
 34\. The very wrathful Māheśhvarī slew the Daityas with Her trident, and Vaiṣhṇavī, with Her discus and Kaumarī, with Her javelin. 
 
@@ -1140,7 +1140,7 @@ other, Śhumbha and Niśhumbha who, like two thunder-clouds, rained a most tempe
 
 14\. Then the Dānava Niśhumbha, swelling with wrath, seized a dart; and that also, as it came, the Devi powdered with a blow of Her fist. 
 
-*[PDF 40]* ^pg40
+*[p. 40]* ^pg40
 
 15\. Then brandishing his club, he flung it against Chandikā; cleft by the trident of the Devi, it also turned to ashes. 
 

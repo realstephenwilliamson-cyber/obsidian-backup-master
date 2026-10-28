@@ -26,7 +26,7 @@ Then He gives also another consolation, not inferior to this: for this indeed is
 
 “There is nothing covered, that shall not be revealed; nor hid, that shall not be known.”<sup>1445</sup> Now what He saith is like this. It is indeed sufficient for your encouragement, that I also shared with you in the same reproach; I who am your Master and Lord. But if it still grieve you to hear these words, consider this other thing too, that even from this suspicion ye will soon be released. For why do ye grieve? At their calling you sorcerers and deceivers? But wait a little, and all men will address you as saviors, and benefactors of the world. Yea, for time discovers all things that are concealed, it will both refute their false accusation, and make manifest your virtue. For when the event shows you saviors, and benefactors, and examples of all virtue, men will not give heed to their words, but to the real state of the case; and they will appear false accusers, and liars, and slanderers, but ye brighter than the sun, length of time revealing and proclaiming you, and uttering a voice clearer than a trumpet,
 
-1441 [[Matthew 10#^10-24|Matt. x. 24–26]]. 1442 \[In the Greek this seems to be a repetition of verse 24, and not a question.—R.\] γνησιτητα πιδεικνμενο. 1443 1444 [[John 15#^15-15|John xv. 15]], 14.
+1441 [[Matthew 10#^10-24|Matt. x. 24–26]]. 1442 \[In the Greek this seems to be a repetition of verse 24, and not a question.—R.\] 1443 γνησιτητα πιδεικνμενο. 1444 [[John 15#^15-15|John xv. 15]], 14. 1445 [[Matthew 10#^10-16|Matt. x. 16]].
 
 
 *[p. 405]* ^pg413
@@ -43,7 +43,7 @@ And wherefore said He not only, “Preach on the housetops,” and “Speak in t
 
 Then, because He had lifted them up on high, He again gives warning of the perils also, adding wings to their mind, and exalting them high above all. For what saith He? “Fear not them which kill the body, but are not able to kill the soul.”<sup>1451</sup> Seest thou how He set them
 
-1446 \[R.V., “proclaim.”\] 1447 Matt. x. 27. γυμν τ κεφαλ. 1448 1449 John xiv. 12. υπορττοντο.
+1446 \[R.V., “proclaim.”\] 1447 Matt. x. 27. 1448 γυμν τ κεφαλ. 1449 John xiv. 12. 1450 υπορττοντο.
 
 145\. 0
 
@@ -56,7 +56,7 @@ Seest thou how again He doth not promise them deliverance from death, but permit
 
 Thus, lest they should think, when killed and butchered, that as men forsaken they suffered this, He introduces again the argument of God’s providence, saying on this wise: “Are not two sparrows sold for a farthing? And one of them shall not fall into a snare<sup>1453</sup>without your Father. But the very hairs of your head are all numbered.”<sup>1454</sup>“For what is viler than they?” saith He; “nevertheless, not even these shall be taken without God’s knowledge.” For He means not this, “by His operation they fall,” for this were unworthy of God; but, “nothing that is done is hid from Him.” If then He is not ignorant of anything that befalls us, and loves us more truly than a father, and so loves us, as to have numbered our very hairs; we ought not to be afraid. And this He said, not that God numbers our hairs, but that He might indicate His perfect knowledge, and His great providence over them. If therefore He both knows all the things that are done, and is able to save you, and willing; whatever ye may have to suffer, think not that as persons forsaken ye suffer. For neither is
 
-1452 \[Chrysostom plainly refers this to God, not Satan. Hence the capital letter of the Oxford translator.—R.\] 1453 See received text above, Hom. IX. 4. \[The reading here followed is accepted by several others of the Fathers but has no mss. authority. See Tischendorf, *in loco*. In Homily IX. 4, there is no variation from the Greek text, as now attested.—R.\]
+1452 \[Chrysostom plainly refers this to God, not Satan. Hence the capital letter of the Oxford translator.—R.\] 1453 See received text above, Hom. IX. 4. \[The reading here followed is accepted by several others of the Fathers but has no mss. authority. See Tischendorf, *in loco*. In Homily IX. 4, there is no variation from the Greek text, as now attested.—R.\] 1454 [[Matthew 10#^10-29|Matt. x. 29]], [[Matthew 10#^10-30|30]].
 
 
 *[p. 407]* ^pg415
@@ -77,7 +77,7 @@ Thus not from the good things only, but also from the opposites, doth He urge th
 
 And mark His exact care; He said not “me,” but “in me,” implying that not by a power of his own, but by the help of grace from above, the confessor makes his confession. But of him that denies, He said not, “in me,” but “me;” for he having become destitute of the gift, his denial ensues.
 
-1455 [[Matthew 10#^10-31|Matt. x. 31]]. 1456 \[R.V., “Every one, therefore, shall confess me (Greek, in me) before men, him (Greek, in him),” etc. See the use made in the Homily of the Greek preposition “in.”—R.\]
+1455 [[Matthew 10#^10-31|Matt. x. 31]]. 1456 \[R.V., “Every one, therefore, shall confess me (Greek, in me) before men, him (Greek, in him),” etc. See the use made in the Homily of the Greek preposition “in.”—R.\] 1457 [[Matthew 10#^10-32|Matt. x. 32]], [[Matthew 10#^10-33|33]].
 
 
 *[p. 408]* ^pg416
@@ -114,7 +114,7 @@ But as it is, together with all other things this also comforts the soul, that t
 
 5\. For it is not the body wherein the beauty lies, but the expression,<sup>1460</sup>and the bloom which is shed over its substance by the soul. Now then, I bid thee love that which makes the body also to appear such as it is. And why speak I of death? Nay even in life itself, I would have thee mark how all is hers that is beautiful. For whether she be pleased, she showers roses over the cheeks; or whether she be pained, she takes that beauty, and involves it all in a dark robe. And if she be continually in mirth, the body improves in condition; if in grief, she renders the same thinner and weaker than a spider’s web; if in wrath, she hath made it again abominable and foul; if she show the eye calm, great is the beauty that she bestows; if she express envy, very pale and livid is the hue she sheds over us; if love, abundant the gracefulness she at once confers. Thus in fact many women, not being beautiful in feature, have derived much grace from the soul; others again of brilliant bloom, by having an ungracious soul, have marred their beauty. Consider how a face that is pale grows red, and by the
 
-διπλασι, “the moulding of it by the informing soul.”
+1460 διπλασι, “the moulding of it by the informing soul.”
 
 *[p. 411]* ^pg419
 
@@ -125,6 +125,8 @@ For nothing is fairer, nothing sweeter than a beauteous soul. For while as to bo
 This then I bid thee do in regard of the soul also, and acquaint thyself with it first; for this is clad with the body instead of a mask; wherefore also that abides such as it is; but the other, though it be mishapen, may quickly become beautiful. Though it have an eye that is unsightly, and harsh, and fierce, it may become beautiful, mild, calm, sweet-tempered, gentle.
 
 This beauty therefore let us seek, this countenance let us adorn; that God also may “have pleasure in our beauty,”<sup>1461</sup>and impart to us of His everlasting blessings, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
+
+1461 Ps. xlv. 12, LXX.
 
 *[p. 412]* ^pg420
 
@@ -144,7 +146,7 @@ The war is not then the effect of His purpose, but of their temper. For His will
 
 And these things He saith, as strengthening them against the evil suspicion of the multitude.
 
-1462 \[R.V, “came.”\] 1463 \[R.V. “came not.”\] 1464 [[Luke 02#^2-14|Luke ii. 14]]. 1465 Gen. xi. 7, 8. 1466 [[Acts 23#^23-6|Acts xxiii. 6]], [[Acts 23#^23-7|7]]. 1 Kings xxi.
+1462 \[R.V, “came.”\] 1463 \[R.V. “came not.”\] 1464 [[Luke 02#^2-14|Luke ii. 14]]. 1465 Gen. xi. 7, 8. 1466 [[Acts 23#^23-6|Acts xxiii. 6]], [[Acts 23#^23-7|7]]. 1467 1 Kings xxi.
 
 
 *[p. 413]* ^pg421
@@ -161,7 +163,7 @@ But if any think these things intolerable, let them be reminded of an ancient hi
 
 Therefore, you see, implying that it was He who approved those other acts also, He makes mention also of a prophecy, which if not spoken for this end, yet involves the same meaning. And what is this?
 
-1468 [[Matthew 10#^10-35|Matt. x. 35]]. \[R.V., “I came,” etc.\] 1469 [[Romans 11#^11-8|Rom. xi. 8]]. Exod. xxxii. 29; Numb. xxv. 7–11.
+1468 [[Matthew 10#^10-35|Matt. x. 35]]. \[R.V., “I came,” etc.\] 1469 [[Romans 11#^11-8|Rom. xi. 8]]. 1470 Exod. xxxii. 29; Numb. xxv. 7–11.
 
 
 *[p. 414]* ^pg422
@@ -176,7 +178,7 @@ Seest thou a teacher’s dignity? Seest thou, how He signifies himself a true So
 
 “And why speak I,” saith He, “of friends and kinsmen? Even if it be thine own life which thou preferrest to my love, thy place is far from my disciples.” What then? Are not these things contrary to the Old Testament? Far from it, rather they are very much in harmony therewith. For there too He commands not only to hate the worshippers of idols, but even to stone them; and in Deuteronomy again, admiring these, He saith, “Who said unto his father, and to his mother, I have not seen thee; neither did he acknowledge his brethren, and his own sons he disowned: he kept Thy oracles.”<sup>1476</sup> And if Paul gives many directions touching parents, commanding us to obey them in all things, marvel not; for in those things only doth he mean us to obey, as many as do not hinder godliness.<sup>1477</sup> For indeed it is a
 
-1471 [[Matthew 10#^10-36|Matt. x. 36]]. 1472 Micah vii. 5, 6. 1473 [[Luke 12#^12-49|Luke xii. 49]]. ἤλειφε, “would anoint them for action.” 1474 1475 [[Matthew 10#^10-37|Matt. x. 37]], [[Matthew 10#^10-38|38]]. 1476 Deut. xxxiii. 9. [[Ephesians 06#^6-1|Eph. vi. 1]]. See there St. Chrysostom’s explanation of the expression, “in the Lord.”
+1471 [[Matthew 10#^10-36|Matt. x. 36]]. 1472 Micah vii. 5, 6. 1473 [[Luke 12#^12-49|Luke xii. 49]]. 1474 ἤλειφε, “would anoint them for action.” 1475 [[Matthew 10#^10-37|Matt. x. 37]], [[Matthew 10#^10-38|38]]. 1476 Deut. xxxiii. 9. 1477 [[Ephesians 06#^6-1|Eph. vi. 1]]. See there St. Chrysostom’s explanation of the expression, “in the Lord.”
 
 
 *[p. 415]* ^pg423
@@ -191,7 +193,7 @@ And He discourses nothing as yet of His own passion, that when they had been for
 
 “He that findeth his life,” saith He, “shall lose it: and he that loseth his life for my sake, shall find it.”<sup>1480</sup> Seest thou how great the damage to such as love it unduly? how great the gain to them that hate it? I mean, because the injunctions were disagreeable, when He was bidding them set themselves against parents, and children, and nature, and kindred, and the world, and their very soul, He sets forth the profit also, being very great. Thus, “These things,” saith He, “so far from harming, will very greatly profit; and their opposites will injure
 
-229 1478 [[Luke 14#^14-26|Luke xiv. 26]]. 1479 [[Matthew 10#^10-38|Matt. x. 38]]. Comp. [[Luke 14#^14-27|Luke xiv. 27]]. \[The word “beareth” (from Luke) is here substituted for “taketh.”—R.\]
+229 1478 [[Luke 14#^14-26|Luke xiv. 26]]. 1479 [[Matthew 10#^10-38|Matt. x. 38]]. Comp. [[Luke 14#^14-27|Luke xiv. 27]]. \[The word “beareth” (from Luke) is here substituted for “taketh.”—R.\] 1480 [[Matthew 10#^10-39|Matt. x. 39]].
 
 *[p. 416]* ^pg424
 
@@ -209,7 +211,7 @@ With this, what may compare? that one should receive the Father and the Son! But
 
 And as before He threatens punishment to such as do not receive them, here He defines also a certain refreshment<sup>1484</sup>for the good. And to teach thee His greater care for them, He said not simply, “He that receiveth a prophet,” or “He that receiveth a righteous man,” but subjoined, “in the name of a prophet,” and, “in the name of a righteous man;” that is, if not for any worldly preferment, nor for any other temporal thing, he receive him, but because he is either a prophet or a righteous man, he shall receive a prophet’s reward, and a righteous man’s reward; such as it were meet for him to have, that hath received a prophet, or a righteous man; or, such as that other is himself to receive. Which kind of thing Paul also said: “That your abundance may be a supply for their want, that their abundance also may be a supply for your want.”<sup>1485</sup>
 
-1481 Or “soul;” the same word standing in the Greek for both “soul” and “life;” which makes it impossible to give the full force of the passage in English. 1482 [[Matthew 10#^10-40|Matt. x. 40]]. 1483 [[Matthew 10#^10-41|Matt. x. 41]]. ἄνεσιν, opposed to κλασιν, “punishment,” in the same way, Hom. XIII. 8, in the Benedictine edition, p. 1484 176, c.; and elsewhere. [[2 Corinthians 08#^8-14|2 Cor. viii. 14]].
+1481 Or “soul;” the same word standing in the Greek for both “soul” and “life;” which makes it impossible to give the full force of the passage in English. 1482 [[Matthew 10#^10-40|Matt. x. 40]]. 1483 [[Matthew 10#^10-41|Matt. x. 41]]. 1484 ἄνεσιν, opposed to κλασιν, “punishment,” in the same way, Hom. XIII. 8, in the Benedictine edition, p. 176, c.; and elsewhere. 1485 [[2 Corinthians 08#^8-14|2 Cor. viii. 14]].
 
 
 *[p. 417]* ^pg425
@@ -222,7 +224,7 @@ Seest thou what mighty persuasions He used, and how He opened to them the houses
 
 Since though he may be doing no such great work, he is a man, inhabiting the same world with thee, beholding the same sun having the same soul, the same Lord, a partaker with thee of the same mysteries, called to the same heaven with thee; having a strong claim, his poverty, and his want of necessary food. But now they that waken thee with flutes and pipes in the winter season, and disturb thee without purpose or fruit, depart from thee receiving
 
-230 1486 Matt. x. 43.
+230 1486 Matt. x. 43. 1487 [[Matthew 25#^25-45|Matt. xxv. 45]].
 
 *[p. 418]* ^pg426
 
@@ -245,7 +247,7 @@ And this I say, not as making a law in favor of idleness, far from it; but rathe
 
 Nay, thou instead of pitying, dost even make a show of him; and whereas God hath commanded to give secretly, thou standest exposing publicly him that hath accosted thee, and upbraiding him, for what ought to move thy pity. Why, if thou art not minded to give, to what end add reproach, and bruise that weary and wretched soul? He came as into a harbor, seeking help at thine hands; why stir up waves, and make the storm more grievous? Why dost thou condemn him of meanness? What? had he thought to hear such things, would he have come to thee? Or if he actually came foreseeing this, good cause therefore both to pity him, and to shudder at thine own cruelty, that not even so, when thou seest an inexorable necessity laid upon him, dost thou become more gentle, nor judgest him to have a sufficient excuse for his importunity in the dread of hunger, but accusest him of impudence:
 
-1491 2 Thess. iii. 10, 13. 1492 2 Thess. iii. 14, 15. \[ὑπρ τ μτρον διαρρηγνει .\]
+1491 2 Thess. iii. 10, 13. 1492 2 Thess. iii. 14, 15. 1493 \[ὑπρ τ μτρον διαρρηγνει .\]
 
 
 *[p. 420]* ^pg428
@@ -258,7 +260,7 @@ and yet hast thou often thyself practised greater impudence, yea in respect of g
 
 Again, God said to Moses in the hearing of the Jews, “Let me alone, that I may consume the people,”<sup>1498</sup>(for though they were not present when God was saying this, yet they were to hear it afterwards): but privately He gives him directions of the opposite tenor. And this, Moses upon constraint revealed afterwards, thus saying, “What? did I conceive them, that thou sayest to me, Carry them, as a nurse would carry the sucking child in her bosom?”<sup>1499</sup> These things are done also in houses, and often a father while he blames the tutor in private for having used his child reproachfully, saying, “Be not rough, nor hard,” to the youth speaks in the contrary way, “Though thou be reproached unjustly, bear it;” out of those opposites making up some one wholesome result. Thus also Paul said to such as are in health and beg, “If any man will not work, neither let him eat,” that he may urge them into employment: but to such as can show mercy, “Ye, for your part, be not weary in well doing:” that he may lead them to give alms.
 
-1494 Ecclus. iv. 8. 1495 [[2 Thessalonians 03#^3-10|2 Thess. iii. 10]]. 1496 [[2 Thessalonians 03#^3-13|2 Thess. iii. 13]]. 1497 Exod. xxxii. 32 \[LXX.\]. 1498 Exod. xxxii. 10. Numb. xi. 12 \[LXX.\].
+1494 Ecclus. iv. 8. 1495 [[2 Thessalonians 03#^3-10|2 Thess. iii. 10]]. 1496 [[2 Thessalonians 03#^3-13|2 Thess. iii. 13]]. 1497 Exod. xxxii. 32 \[LXX.\]. 1498 Exod. xxxii. 10. 1499 Numb. xi. 12 \[LXX.\].
 
 
 *[p. 421]* ^pg429
@@ -275,7 +277,7 @@ Be not then a severe judge. Why, if thou wert clear of all sins, not even then w
 
 7\. Let us not then be savage, nor cruel, not without natural feeling, not implacable, not worse than wild beasts. For I know many to have gone even so far in brutishness, as for a little trouble to slight famishing persons, and to say these words: “I have no servant now with me; we are far from home; there is no money-changer that I know.” Oh cruelty! Didst thou promise the greater, and dost thou not fulfill the less? To save thy walking a little way, doth he perish with hunger? Oh insolence! Oh pride! Why, if it were ten furlongs to be walked, oughtest thou to be backward? Doth it not even come into thy mind that so thy reward
 
-1500 [[Romans 11#^11-17|Rom. xi. 17]]. 1501 [[Luke 06#^6-30|Luke vi. 30]]. 1502 [[Luke 06#^6-36|Luke vi. 36]]. \[The construction is difficult: ἵνα σχολαιτερον βαδσ. We must accept here a causal sense of ἵνα.—R.\]
+1500 [[Romans 11#^11-17|Rom. xi. 17]]. 1501 [[Luke 06#^6-30|Luke vi. 30]]. 1502 [[Luke 06#^6-36|Luke vi. 36]]. 1503 \[The construction is difficult: ἵνα σχολαιτερον βαδσ. We must accept here a causal sense of ἵνα.—R.\]
 
 
 *[p. 422]* ^pg430
@@ -294,7 +296,7 @@ This reckoning do thou make in regard of God also; for truly it is He that sends
 
 Duly considering then all these things, let us both bridle our tongue, and put away inhumanity, and let us stretch forth the hand to give alms, and not with money only, but with
 
-233 1504 Gen. xviii. 7. 1505 Gen. xiv. 14. Comp. ep. of Barn. c. 9. Ecclus. xviii. 16.
+233 1504 Gen. xviii. 7. 1505 Gen. xiv. 14. Comp. ep. of Barn. c. 9. 1506 Ecclus. xviii. 16.
 
 *[p. 423]* ^pg431
 
@@ -318,13 +320,13 @@ But Luke saith, they also told John of the miracles, and then he sent them.<sup>
 
 But what follows is completely among the controverted points. Of what nature then is this? Their saying, “Art Thou He that should come, or do we look for another?” That is, he that knew Him before His miracles, he that had learned it of the Spirit, he that heard it of the Father, he who had proclaimed Him before all men; doth he now send to learn of Him, whether it be Himself or no? And if yet thou didst not know that it is surely He, how thinkest thou thyself credible, affirming as thou dost concerning things, whereof thou art ignorant? For he that is to bear witness to others, must be first worthy of credit himself. Didst thou not say, “I am not meet to loose the latchet of His shoe?”<sup>1512</sup> Didst thou not say, “I knew Him not, but He that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending and resting upon Him, the same is He which baptizeth with the Holy Ghost?”<sup>1513</sup> Didst thou not see the Spirit in form of a dove? didst thou not hear the voice? Didst thou not utterly forbid Him, saying, “I have need to be baptized of Thee?”<sup>1514</sup> Didst thou not say even to thy disciples, “He must increase, I must decrease?”<sup>1515</sup> Didst thou not teach all the people, that “He should baptize them with the Holy Ghost and
 
-\[R.V., “Of the Christ,” as in nearly all authorities, but Chrysostom reads το Ιησο.—R.\] 1507 1508
+1507 \[R.V., “Of the Christ,” as in nearly all authorities, but Chrysostom reads το Ιησο.—R.\]
 
-\[R.V., “by his disciples,” but some ancient authorities (Vulgate also) support “two.” Taken from [[Luke 07#^7-19|Luke vii. 19]].—R.\] 1509
+1508 \[R.V., “by his disciples,” but some ancient authorities (Vulgate also) support “two.” Taken from [[Luke 07#^7-19|Luke vii. 19]].—R.\]
 
-\[R.V., “He that cometh.”\] 1510
+1509 \[R.V., “He that cometh.”\]
 
-[[Matthew 11#^11-2|Matt. xi. 2]], [[Matthew 11#^11-3|3]].
+1510 [[Matthew 11#^11-2|Matt. xi. 2]], [[Matthew 11#^11-3|3]].
 
 1511
 
@@ -340,7 +342,7 @@ But what follows is completely among the controverted points. Of what nature the
 
 1514
 
-[[Matthew 03#^3-14|Matt. iii. 14]].
+[[Matthew 03#^3-14|Matt. iii. 14]]. 1515 [[John 03#^3-30|John iii. 30]].
 
 *[p. 425]* ^pg433
 
@@ -354,7 +356,7 @@ Whence it is evident, that neither did he send as being himself in doubt, nor di
 
 For what intent then did he send to ask? John’s disciples were starting aside from Jesus, and this surely any one may see, and they had always a jealous feeling towards Him. And it
 
-1516 Matt. iii. 11. 1517 John i. 29. \[R.V., “Or, beareth the sin,” etc.\] \[οκ ν αυτ δξαν περιθηκε.\]
+1516 Matt. iii. 11. 1517 John i. 29. \[R.V., “Or, beareth the sin,” etc.\] 1518 \[οκ ν αυτ δξαν περιθηκε.\]
 
 
 *[p. 426]* ^pg434
@@ -367,7 +369,7 @@ But Christ knowing the purpose of John, did not say, I am He; for this would aga
 
 1519 [[John 03#^3-26|John iii. 26]].
 
-1520 [[John 03#^3-25|John iii. 25]]. \[R.V., “with a Jew.” So one ms. here. In Homily XXIX. on John, Chrysostom distinctly accepts the singular, as do nearly all Greek mss.—R.\] 1521 [[Matthew 09#^9-14|Matt. ix. 14]]. 1522 [[Matthew 11#^11-3|Matt. xi. 3]].
+1520 [[John 03#^3-25|John iii. 25]]. \[R.V., “with a Jew.” So one ms. here. In Homily XXIX. on John, Chrysostom distinctly accepts the singular, as do nearly all Greek mss.—R.\] 1521 [[Matthew 09#^9-14|Matt. ix. 14]]. 1522 [[Matthew 11#^11-3|Matt. xi. 3]]. 1523 [[Luke 07#^7-21|Luke vii. 21]].
 
 
 *[p. 427]* ^pg435
@@ -380,7 +382,7 @@ Knowing therefore, as being God, the mind with which John had sent them, He stra
 
 What then do some affirm? That this which we have stated was not the cause, but that John was in ignorance, yet not in ignorance of all; but that He was the Christ, he knew, but whether He was also to die for mankind, he knew not, therefore he said, “Art Thou He that should come?” that is, He that is to descend into hell.<sup>1527</sup> But this is not tenable; for neither of this was John ignorant. This at least he proclaimed even before all the others, and bare record of this first, “Behold,” saith he, “the Lamb of God, which taketh away the sin of the world.”<sup>1528</sup> Now he called Him a lamb, as proclaiming the cross, and again in saying, “That taketh away the sin of the world,” he declared this same thing. For not otherwise than by the cross did He effect this; as Paul likewise said: “And the handwriting which was contrary to us, even it He took out of the way, nailing it to His cross.”<sup>1529</sup> And his saying too, “He
 
-1524 [[Matthew 04#^4-5|Matt. iv. 5]]. 1525 [[Matthew 11#^11-6|Matt. xi. 6]]. \[R.V., “shall find none occasion of stumbling in me.”\] 1526 [[John 08#^8-13|John viii. 13]]. \[R.V., “witness.”\] 1527 See Origen, 2 Hom. *in Reg*. t. ii. p. 495, 6; St. Ambr. *in Luc*. vii. 19; St. Jerome *in loc*. \[The Greek term used is “Hades,” not “Gehenna.”—R.\] 1528 [[John 01#^1-29|John i. 29]]. [[Colossians 02#^2-14|Col. ii. 14]]. \[Comp. R.V., *in loco*.\]
+1524 [[Matthew 04#^4-5|Matt. iv. 5]]. 1525 [[Matthew 11#^11-6|Matt. xi. 6]]. \[R.V., “shall find none occasion of stumbling in me.”\] 1526 [[John 08#^8-13|John viii. 13]]. \[R.V., “witness.”\] 1527 See Origen, 2 Hom. *in Reg*. t. ii. p. 495, 6; St. Ambr. *in Luc*. vii. 19; St. Jerome *in loc*. \[The Greek term used is “Hades,” not “Gehenna.”—R.\] 1528 [[John 01#^1-29|John i. 29]]. 1529 [[Colossians 02#^2-14|Col. ii. 14]]. \[Comp. R.V., *in loco*.\]
 
 
 *[p. 428]* ^pg436
@@ -402,7 +404,7 @@ How then were “the gates of brass burst, and the bars of iron broken in sunder
 
 “What then?” one may say, “were they wronged, who lived before His coming?” By no means, for men might then be saved, even though they had not confessed Christ. For this was not required of them, but not to worship idols, and to know the true God. “For the Lord thy God,” it is said, “is one Lord.”<sup>1546</sup> Therefore the Maccabees were admired, because for the observance of the law they suffered what they did suffer; and the three children, and many others too amongst the Jews, having shown forth a very virtuous life, and having maintained the standard of this their knowledge, had nothing more required of them. For then it was sufficient for salvation, as I have said already, to know God only; but now it is so no more, but there is need also of the knowledge of Christ. Therefore He said, “If I had
 
-1540 1541 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. Ps. vi. 5 \[ἅδ\]. 1542 1543 Ps. cvii. 16. \[γεννη.\] 1544 1545 [[Matthew 10#^10-15|Matt. x. 15]]. Deut. vi.
+1540 1541 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. 1542 Ps. vi. 5 \[ἅδ\]. 1543 Ps. cvii. 16. 1544 \[γεννη.\] 1545 [[Matthew 10#^10-15|Matt. x. 15]]. Deut. vi.
 
 
 *[p. 430]* ^pg438
@@ -419,7 +421,7 @@ Let us not then any more bring in such old wives’ doctrines, and Jewish fables
 
 4. 237 1547 [[John 15#^15-22|John xv. 22]]. \[R.V., “excuse.”\] 1548 [[Philippians 02#^2-10|Phil. ii. 10]], [[Philippians 02#^2-11|11]]. 1549 [[1 Corinthians 15#^15-26|1 Cor. xv. 26]].
 
-1550 Rom. ii. 12. 1551 Rom. ii. 12. 1552 Rom. i. 18. 1553 Rom. ii. 8, 9. \[γεννη.\]
+1550 Rom. ii. 12. 1551 Rom. ii. 12. 1552 Rom. i. 18. 1553 Rom. ii. 8, 9. 1554 \[γεννη.\]
 
 
 *[p. 431]* ^pg439
@@ -432,7 +434,7 @@ And besides, there is this also to be said; that he who is not restrained by the
 
 But there is something else, which the multitude say with respect to this also. For “where,” say they, “is God’s justice, when any one for sinning here, is punished both here and there?” Would ye then I should put you in mind of your own sayings, that ye may no longer give us trouble, but furnish the solution from within yourselves. I have heard many of our people, if haply they were told of a murderer cut off in a court of justice, how they had indignation, and talked in this way: “This unholy and accursed wretch, having perpetrated thirty murders, or even many more, hath himself undergone one death only; and where is the justice of it?” So that ye yourselves confess, that one death is not sufficient for punishment; how give ye then an opposite sentence now. Because not others but yourselves are the objects of your judgment: so great a hindrance is self-love to our perceiving what is just. Because of this, when we are judging others, we search out all things with strictness, but when we are sitting in judgment on ourselves, we are blinded. Since if we were to search into these things in our own case too, as we do with regard to other men, we should give an uncorrupt sentence. For we also have sins, deserving not two or three, but ten thousand deaths. And to pass over all the rest, let us recollect ourselves, as many of us as partake unworthily of the mysteries; such men being guilty of the body and blood of Christ. Wherefore, when thou art talking of the murderer, take account of thyself also. For he indeed hath murdered a man, but thou
 
-φιλοσοφα. 1555 \[γεννη, and so throughout the paragraph.—R.\] 1556 σκμματα.
+1555 φιλοσοφα. 1556 \[γεννη, and so throughout the paragraph.—R.\] 1557 σκμματα.
 
 *[p. 432]* ^pg440
 
@@ -444,7 +446,7 @@ And what are they that bite and devour their brethren, and pour out such abundan
 
 For though to many hell<sup>1559</sup>seem to be a fearful thing, yet I for my part will not cease continually to say, that this is more grievous and fearful than any hell; and you I entreat to be of the same mind. For so shall we both be delivered from hell, and enjoy the glory that is bestowed of Christ; unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
 
-1558 The words in italics, both here and below, are omitted in several mss. \[γεννα, and similarly throughout the paragraph.—R.\]
+1558 The words in italics, both here and below, are omitted in several mss. 1559 \[γεννα, and similarly throughout the paragraph.—R.\]
 
 
 *[p. 433]* ^pg441
@@ -465,7 +467,7 @@ And in establishing this, He employs not at first his own sentence, but their fo
 
 Wherefore He saith, “What went ye out into the wilderness to see?” as though He had said, Wherefore did ye leave your cities, and your houses, and come together all of you into the wilderness? To see a pitiful and flexible kind of person? Nay, this were out of all reason, this is not what is indicated by that earnestness, and the concourse of all men unto the wilderness
 
-1560 \[R.V. text, “But wherefore went ye out? to see a prophet?” In the margin the received reading is given. Chrysostom gives the latter here, but has the other in his comments. See sec. 2.—R.\]
+1560 \[R.V. text, “But wherefore went ye out? to see a prophet?” In the margin the received reading is given. Chrysostom gives the latter here, but has the other in his comments. See sec. 2.—R.\] 1561 [[Matthew 09#^9-4|Matt. ix. 4]].
 
 
 *[p. 434]* ^pg442
@@ -480,7 +482,7 @@ Now His meaning is like this: He was not of himself a waverer; and this ye yours
 
 2\. When therefore as well by the place, as by his garments, and by their concourse unto Him, He had delineated his character, He proceeds to bring in the prophet. For having said, “Why went ye out? To see a prophet? Yea I say unto you, and more than a prophet;”<sup>1564</sup> He goes on, “For this is he of whom it is written,<sup>1565</sup> Behold, I send my messenger before Thy face, which shall prepare Thy way before Thee.”<sup>1566</sup> Having before set down the testimony of the Jews, He then applies that of the prophets; or rather, He puts in the first place the sentence of the Jews, which must have been a very strong demonstration, the witness
 
-ὑφορμοσαν 1562 1563 [[Matthew 11#^11-8|Matt. xi. 8]]. 1564 [[Matthew 11#^11-9|Matt. xi. 9]]. \[See note 1, p. 243.\] 1565 See Mal. iii. 1.
+1562 ὑφορμοσαν 1563 [[Matthew 11#^11-8|Matt. xi. 8]]. 1564 [[Matthew 11#^11-9|Matt. xi. 9]]. \[See note 1, p. 243.\] 1565 See Mal. iii. 1. 1566 [[Matthew 11#^11-10|Matt. xi. 10]].
 
 *[p. 435]* ^pg443
 
@@ -496,7 +498,7 @@ Now what He said is like this: “woman hath not borne a greater than this man.�
 
 Wherefore this also, in an unsuspected way, He corrects by saying, “He that is less,<sup>1569</sup>in the kingdom of Heaven is greater than he.” Less in age, and according to the opinion of the
 
-1567 [[Matthew 11#^11-11|Matt. xi. 11]]. \[τ γνμη; “zeal” would be a better rendering, though there is no precise English equivalent.—R.\] 1568 \[R.V., “but little;” Gr. “lesser.”\]
+1567 [[Matthew 11#^11-11|Matt. xi. 11]]. 1568 \[τ γνμη; “zeal” would be a better rendering, though there is no precise English equivalent.—R.\] 1569 \[R.V., “but little;” Gr. “lesser.”\]
 
 
 *[p. 436]* ^pg444
@@ -509,7 +511,7 @@ Or if we should even grant that this was said by Him in the way of comparison, t
 
 Now some affirm, that Christ said this of the apostles, others again, of angels.<sup>1578</sup> Thus, when any have turned aside from the truth, they are wont to wander many ways. For what sort of connexion hath it, to speak either of angels or of apostles? And besides, if He were
 
-1570 [[Matthew 11#^11-19|Matt. xi. 19]]. 1571 [[Matthew 13#^13-55|Matt. xiii. 55]]. 1572 [[Matthew 03#^3-11|Matt. iii. 11]]. 1573 [[Hebrews 03#^3-3|Heb. iii. 3]]. 1574 [[Matthew 12#^12-42|Matt. xii. 42]]. Or, “by way of economy;” οκονομικ. 1575 1576 Ps. lxxxvi. 8. 1577 Ps. lxxvii. 13. 1578 “Many will understand this of the Saviour; that he who is less in time is greater in dignity. But let us simply understand, that every Saint who is already with God is greater than he whose post is yet in the battle. For it is one thing to possess the crown of victory, another still to fight in the battle. Some will take it that the lowest angel serving God in Heaven is greater than any, even the first of men who as yet dwells on earth.” St. Jerome, *in loco*. “Finally, it is so utterly impossible that there should be any comparison between John and the Son of God, that the former is of less esteem even than the angels. Thus, on the one hand, inasmuch as He had called him an angel” (Mal. iii. 1), “He is of course set above men; on the other, because he had declared him chief among those born of women, He therefore added, *For he who is lesser in the kingdom of heaven is greater than he*: that you might know he could not compare with the angels.” St. Ambr. on St. Luke, vii. 27; St. Aug. *Contr. Advers. Legis et Proph*. ii. xx, states both interpretations, without any preference for either. But in his 13 *Tract. on St. John*, c. ii. he gives the same as St. Chrysostom.
+1570 [[Matthew 11#^11-19|Matt. xi. 19]]. 1571 [[Matthew 13#^13-55|Matt. xiii. 55]]. 1572 [[Matthew 03#^3-11|Matt. iii. 11]]. 1573 [[Hebrews 03#^3-3|Heb. iii. 3]]. 1574 [[Matthew 12#^12-42|Matt. xii. 42]]. 1575 Or, “by way of economy;” οκονομικ. 1576 Ps. lxxxvi. 8. 1577 Ps. lxxvii. 13. 1578 “Many will understand this of the Saviour; that he who is less in time is greater in dignity. But let us simply understand, that every Saint who is already with God is greater than he whose post is yet in the battle. For it is one thing to possess the crown of victory, another still to fight in the battle. Some will take it that the lowest angel serving God in Heaven is greater than any, even the first of men who as yet dwells on earth.” St. Jerome, *in loco*. “Finally, it is so utterly impossible that there should be any comparison between John and the Son of God, that the former is of less esteem even than the angels. Thus, on the one hand, inasmuch as He had called him an angel” (Mal. iii. 1), “He is of course set above men; on the other, because he had declared him chief among those born of women, He therefore added, *For he who is lesser in the kingdom of heaven is greater than he*: that you might know he could not compare with the angels.” St. Ambr. on St. Luke, vii. 27; St. Aug. *Contr. Advers. Legis et Proph*. ii. xx, states both interpretations, without any preference for either. But in his 13 *Tract. on St. John*, c. ii. he gives the same as St. Chrysostom.
 
 
 *[p. 437]* ^pg445
@@ -545,7 +547,7 @@ Now He used so many dark sayings, to stir them up to inquiry. And if not even so
 
 Now what He saith is like this: We have come each of us an opposite way, I and John; and we have done just as if it were some hunters with a wild beast that was hard to catch,
 
-1583 [[Matthew 11#^11-15|Matt. xi. 15]]. 1584 [[Matthew 11#^11-16|Matt. xi. 16]], [[Matthew 11#^11-17|17]]. \[The former verse is abridged. R.V. (ver. 17), “We piped unto you, and ye did not dance; we wailed, and ye did not mourn (Greek, beat the breast).”—R.\] 1585 Isa. v. 4 \[LXX.\] 1586 \[“demon.”\] [[Matthew 11#^11-16|Matt. xi. 16–19]] \[see note 1\].
+1583 [[Matthew 11#^11-15|Matt. xi. 15]]. 1584 [[Matthew 11#^11-16|Matt. xi. 16]], [[Matthew 11#^11-17|17]]. \[The former verse is abridged. R.V. (ver. 17), “We piped unto you, and ye did not dance; we wailed, and ye did not mourn (Greek, beat the breast).”—R.\] 1585 Isa. v. 4 \[LXX.\] 1586 \[“demon.”\] 1587 [[Matthew 11#^11-16|Matt. xi. 16–19]] \[see note 1\].
 
 
 *[p. 439]* ^pg447
@@ -559,6 +561,8 @@ And besides, John indeed exhibited no more than his life and conversation; for �
 Let us ask the Jews then, “Is fasting a good thing, and to be admired? you should then have obeyed John, and received him, and believed his sayings. For so would those sayings have led you towards Jesus. Is fasting, on the other hand, a thing grievous, and burdensome? then should you have obeyed Jesus, and have believed in Him that came the opposite way. Thus, either way, ye would have found yourselves in the kingdom.” But, like an intractable wild beast, they were speaking evil of both. The fault is not then theirs who were not believed, but they are to be blamed who did not believe. For no man would ever choose to speak evil of opposite things, any more than he would on the other hand commend them. I mean thus: he that approves the cheerful and free character, will not approve him that is sad and grave; he that commends the man of a sad countenance will not commend the cheerful man. For it is a thing impossible to give your vote both ways at once. Therefore also He saith, “We have piped unto you, and ye have not danced;” that is, “I have exhibited the freer kind of life, and ye obeyed not:” and, “We have mourned, and ye have not lamented;” that is, “John followed the rugged and grave life, and ye took no heed.” And He saith not, “he this, I that,” but the purpose of both being one, although their modes of life were opposite, for this cause He speaks of their doings as common. Yea, for even their coming by opposite ways arose out of a most exact accordance, such as continued looking to one and the same end. What sort of excuse then can ye have after all this?
 
 242
+
+1588 [[John 10#^10-41|John x. 41]].
 
 *[p. 440]* ^pg448
 
@@ -580,7 +584,7 @@ Then, to show thee that they are not such by nature, He states also the name of 
 
 1589 [[Matthew 11#^11-19|Matt. xi. 19]]. \[The text of the Homily agrees with the received text. Comp. [[Luke 07#^7-35|Luke vii. 35]], where this reading is undoubtedly the correct one.—R.\]
 
-1590 Ps. li. 4. 1591 See Ezek. iv. 5, 12, 13, 24, &c. 1592 [[Matthew 11#^11-18|Matt. xi. 18]]. 1593 [[John 07#^7-20|John vii. 20]]; [[John 08#^8-48|viii. 48]], [[John 08#^8-52|52]]; [[John 10#^10-20|x. 20]]. [[Luke 07#^7-29|Luke vii. 29]], [[Luke 07#^7-30|30]]. \[δεξμενοι for βαπτισθντε in Luke.\] 1594 1595 [[Matthew 11#^11-20|Matt. xi. 20]], [[Matthew 11#^11-21|21]].
+1590 Ps. li. 4. 1591 See Ezek. iv. 5, 12, 13, 24, &c. 1592 [[Matthew 11#^11-18|Matt. xi. 18]]. 1593 [[John 07#^7-20|John vii. 20]]; [[John 08#^8-48|viii. 48]], [[John 08#^8-52|52]]; [[John 10#^10-20|x. 20]]. 1594 [[Luke 07#^7-29|Luke vii. 29]], [[Luke 07#^7-30|30]]. \[δεξμενοι for βαπτισθντε in Luke.\] 1595 [[Matthew 11#^11-20|Matt. xi. 20]], [[Matthew 11#^11-21|21]]. 1596 [[John 01#^1-44|John i. 44]].
 
 
 *[p. 441]* ^pg449
@@ -595,7 +599,7 @@ Thus elsewhere also He makes a comparison, condemning them by the Ninevites, and
 
 In order then that both our houses may be continually open to the one, and our ears to the others, let us purge away the filth from the ears of our soul. For as filth and mud close up the ears of our flesh, so do the harlot’s songs, and worldly news, and debts, and the business of usury and loans, close up the ear of the mind, worse than any filth; nay rather, they do not close it up only, but also make it unclean. And they are putting dung in your ears, who tell you of these things. And that which the barbarian threatened, saying, “Ye shall
 
-243 1597 \[R.V., “Hades.”\] 1598 [[Matthew 11#^11-22|Matt. xi. 22–24]]. \[The Greek here agrees with the received text. In verse 23 the R.V. follows a different and better established reading.—R.\] Ezek. xvi. 51. \[The LXX. is not cited with verbal accuracy.—R.\]
+243 1597 \[R.V., “Hades.”\] 1598 [[Matthew 11#^11-22|Matt. xi. 22–24]]. \[The Greek here agrees with the received text. In verse 23 the R.V. follows a different and better established reading.—R.\] 1599 Ezek. xvi. 51. \[The LXX. is not cited with verbal accuracy.—R.\]
 
 *[p. 442]* ^pg450
 
@@ -609,7 +613,7 @@ For tell me, art thou pleased at hearing men blaspheme? Dost thou not rather shu
 
 8\. Heardest thou not what Paul saith, “Rejoice in the Lord?”<sup>1601</sup> He said not, “in the devil.” When then wilt thou be able to hear Paul? when, to gain a sense of thy wrong actions? drunken as thou art, ever and incessantly, with the spectacle I was speaking of. For thy having come here is nothing wonderful nor great; or rather it is wonderful. For here thou
 
-1600 Isa. xxxvi. 12. [[Philippians 04#^4-4|Philip. iv. 4]].
+1600 Isa. xxxvi. 12. 1601 [[Philippians 04#^4-4|Philip. iv. 4]].
 
 
 *[p. 443]* ^pg451

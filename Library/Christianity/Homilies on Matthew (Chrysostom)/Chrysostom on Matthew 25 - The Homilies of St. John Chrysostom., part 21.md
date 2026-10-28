@@ -40,7 +40,7 @@ After this, that they might not straightway return to it again, and say, “When
 
 2816 \[R.V., “Now from the fig-tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh; even so ye also, when ye see all these things, know ye that he (or, it) is nigh, *even* at the doors.”\] 2817 \[The comment seems to imply a preference for the interpretation: “it is nigh,” *i.e.,* the day of the Lord’s coming.—R.\] 2818 [[John 12#^12-24|John xii. 24]]. 2819 \[A clause is omitted here: “reasoning with the Corinthians about the resurrection.”—R.\]
 
-2820 [[1 Corinthians 15#^15-36|1 Cor. xv. 36]]. [[Matthew 24#^24-34|Matt. xxiv. 34]]. \[R.V., “pass away” and “accomplished.”\]
+2820 [[1 Corinthians 15#^15-36|1 Cor. xv. 36]]. 2821 [[Matthew 24#^24-34|Matt. xxiv. 34]]. \[R.V., “pass away” and “accomplished.”\]
 
 
 *[p. 806]* ^pg814
@@ -66,7 +66,7 @@ For this cause, I say, when He had told all things, both the times and the seaso
 
 2828 [[Acts 01#^1-7|Acts i. 7]]. \[R.V., “set within his own authority.”\] 2829 [[1 Corinthians 02#^2-10|1 Cor. ii. 10]].
 
-2830 [[John 01#^1-3|John i. 3]]. \[Literally rendered.\] ανα. 2831 Arians \[The word οσαν, here used, was the current term in the Arian controversy.—R.\] 2832 [[Colossians 02#^2-3|Col. ii. 3]].
+2830 [[John 01#^1-3|John i. 3]]. \[Literally rendered.\] 2831 ανα. 2832 Arians \[The word οσαν, here used, was the current term in the Arian controversy.—R.\] 2833 [[Colossians 02#^2-3|Col. ii. 3]].
 
 
 *[p. 808]* ^pg816
@@ -79,7 +79,7 @@ But not so the righteous, but they were passing their time in tribulation and de
 
 And wherefore did He not speak of the ills in Sodom? It was His will to introduce an example embracing all men,<sup>2836</sup>and disbelieved after it was foretold. So therefore, as by the more part the things to come are disbelieved, He confirms those things by the past, terrifying their minds. And together with the points I have mentioned, He shows this also, that of the
 
-2834 [[Matthew 24#^24-38|Matt. xxiv. 38]], [[Matthew 24#^24-39|39]]. \[The passage is abridged.\] 2835 [[1 Thessalonians 05#^5-3|1 Thess. v. 3]]. καθολικν.
+2834 [[Matthew 24#^24-38|Matt. xxiv. 38]], [[Matthew 24#^24-39|39]]. \[The passage is abridged.\] 2835 [[1 Thessalonians 05#^5-3|1 Thess. v. 3]]. 2836 καθολικν.
 
 
 *[p. 809]* ^pg817
@@ -117,7 +117,7 @@ Tell me, is this too the language of one who is in ignorance? For if because He 
 
 And the Father too will be found to be saying such things. For He Himself likewise saith, “Adam, where art thou?”<sup>2847</sup>and, “The cry of Sodom and Gomorrah is waxed great before
 
-2842 \[The future tense is peculiar to this citation, also the addition of “their.”—R.\] 2843 See last note. 2844 [[Matthew 24#^24-45|Matt. xxiv. 45–47]]. \[R.V., “that he will set him over all that he hath.” The translator has made a similar change in verse 45.—R.\] 2845 [[John 21#^21-16|John xxi. 16]]. 2846 [[John 11#^11-34|John xi. 34]]. Gen. iii. 9.
+2842 \[The future tense is peculiar to this citation, also the addition of “their.”—R.\] 2843 See last note. 2844 [[Matthew 24#^24-45|Matt. xxiv. 45–47]]. \[R.V., “that he will set him over all that he hath.” The translator has made a similar change in verse 45.—R.\] 2845 [[John 21#^21-16|John xxi. 16]]. 2846 [[John 11#^11-34|John xi. 34]]. 2847 Gen. iii. 9.
 
 
 *[p. 811]* ^pg819
@@ -128,7 +128,7 @@ But these things are spoken not of money only, but also of speech, and of power,
 
 And let us also that have money listen to these things. For not unto teachers only doth He discourse, but also unto the rich. For either sort were entrusted with riches; those that teach with the more necessary wealth, ye with what is inferior. When then at the time that the teachers are scattering abroad the greater, ye are not willing to show forth your liberality even in the less, or rather not liberality but honesty (for ye give the things of another), what excuse will you have? But now, before the punishment of them that do the contrary things,
 
-448 2848 Gen. xviii. 20, 21. 2849 Ezek. ii. 5. [[Luke 20#^20-13|Luke xx. 13]]. \[In Homily LXVIII. this form of the saying is cited as occurring in Matthew (xxi. 37).—R.\]
+448 2848 Gen. xviii. 20, 21. 2849 Ezek. ii. 5. 2850 [[Luke 20#^20-13|Luke xx. 13]]. \[In Homily LXVIII. this form of the saying is cited as occurring in Matthew (xxi. 37).—R.\]
 
 *[p. 812]* ^pg820
 
@@ -146,7 +146,7 @@ But do thou hear also what followeth, and learn how continually He reminds them 
 
 What then is the purport of that which followeth? “For He shall come in a day when he looketh not for Him, and in an hour that he is not aware of;”<sup>2856</sup>and shall inflict upon him
 
-2851 \[R.V., “when he expecteth not, and in an hour when he knoweth not.”\] 2852 \[R.V. margin, “severely scourge him.”\] 2853 [[Matthew 24#^24-48|Matt. xxiv. 48–51]]. \[The textual variations are slight, and are indicated in the emendations of the A.V. appearing in the above rendering.—R.\] 2854 [[Philippians 04#^4-5|Phil. iv. 5]], [[Philippians 04#^4-6|6]]. 2855 [[Hebrews 10#^10-37|Heb. x. 37]].
+2851 \[R.V., “when he expecteth not, and in an hour when he knoweth not.”\] 2852 \[R.V. margin, “severely scourge him.”\] 2853 [[Matthew 24#^24-48|Matt. xxiv. 48–51]]. \[The textual variations are slight, and are indicated in the emendations of the A.V. appearing in the above rendering.—R.\] 2854 [[Philippians 04#^4-5|Phil. iv. 5]], [[Philippians 04#^4-6|6]]. 2855 [[Hebrews 10#^10-37|Heb. x. 37]]. 2856 [[Matthew 24#^24-50|Matt. xxiv. 50]].
 
 
 *[p. 813]* ^pg821
@@ -189,7 +189,7 @@ Wilt thou that I tell thee a fourth proof also of these things? “Peter, lovest
 
 2857 [[1 Corinthians 10#^10-24|1 Cor. x. 24]]. 2858 [[Romans 15#^15-2|Rom. xv. 2]], [[Romans 15#^15-3|3]]. 2859 [[1 Corinthians 13#^13-3|1 Cor. xiii. 3]].
 
-2860 [[Philippians 01#^1-23|Philip. i. 23]], [[Philippians 01#^1-24|24]]. 2861 [[John 21#^21-15|John xxi. 15–17]].
+2860 [[Philippians 01#^1-23|Philip. i. 23]], [[Philippians 01#^1-24|24]]. 2861 [[John 21#^21-15|John xxi. 15–17]]. 2862 [[Luke 12#^12-32|Luke xii. 32]].
 
 
 *[p. 816]* ^pg824
@@ -202,7 +202,7 @@ For, if in worldly matters no man lives for himself, but artisan, and soldier, a
 
 What then, thou wouldest say, if I neglect my own interests, while seeking after the good of the rest? It is not possible, for one who seeks after the good of the rest to overlook his own; for he who seeks after the good of the rest pains no man, but pities all, helps them to the utmost of his powers; will rob no man, will covet the goods of no man, will not steal, will not bear false witness; will abstain from all wickedness, will apply himself to all virtue, and will pray for his enemies, and do good to them that plot against him, and will neither revile any, nor speak ill of them, though he hear from them ten thousand evil things; but will speak the words of the apostle: “Who is weak, and I am not weak? who is offended, and I burn not?”<sup>2864</sup> But when looking to our own good, it is not quite sure that the good of the rest will follow.
 
-451 2863 [[Acts 10#^10-4|Acts x. 4]]. [[2 Corinthians 11#^11-29|2 Cor. xi. 29]].
+451 2863 [[Acts 10#^10-4|Acts x. 4]]. 2864 [[2 Corinthians 11#^11-29|2 Cor. xi. 29]].
 
 *[p. 817]* ^pg825
 
@@ -236,7 +236,7 @@ But wherefore doth He set forth this parable in the person of the virgins, and d
 
 “And about midnight there was a cry made.” Either He was continuing the parable, or again He shows that the resurrection will be at night. But the cry Paul also indicates, saying, “With a shout, with a voice of an archangel, with the last trump, He shall come down from Heaven.”<sup>2870</sup> And what mean the trumpets, and what saith the cry? “The bridegroom
 
-2866 [[Matthew 19#^19-12|Matt. xix. 12]]. 2867 [[1 Corinthians 07#^7-25|1 Cor. vii. 25]]. α δ. 2868 α νικηθεσαι. 2869 [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]] (comp. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]]).
+2866 [[Matthew 19#^19-12|Matt. xix. 12]]. 2867 [[1 Corinthians 07#^7-25|1 Cor. vii. 25]]. α δ. 2868 2869 α νικηθεσαι. 2870 [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]] (comp. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]]).
 
 
 *[p. 820]* ^pg828
@@ -252,6 +252,8 @@ But what now do we learn from hence? That no man can protect us there, if we are
 2\. Seest thou what great profit arises to us from the poor? shouldest thou take them away, thou wouldest take away the great hope of our salvation. Wherefore here must we get together the oil, that it may be useful to us there, when the time calls us. For that is not the time of collecting it, but this. Spend not then your goods for nought in luxury and vainglory. For thou wilt have need of much oil there.
 
 Having heard these things, those virgins went their way; but they profited nothing. And this He saith, either pursuing the parable, and working it up; or also by these things showing, that though we should become humane after our departure, we shall gain nothing from thence towards our escape. Therefore neither did their forwardness avail these virgins, because they went to them that sell not here, but there; nor the rich man, when he became so charitable, as even to be anxious about his relations. For he that was passing by him that was laid at the gate, is eager to rescue from perils and from hell them whom he did not so much as see, and entreats that some be sent to tell them these things. But nevertheless, he derived no benefit from thence, as neither did these virgins. For when they having heard these things went their way, the bridegroom came, and they that were ready went in with Him, but the others were shut out. After their many labors, after their innumerable toils, and that intolerable fight, and those trophies which they had set up over the madness of natural appetite, disgraced, and with their lamps gone out, they withdrew, bending down their faces to the earth. For nothing is more sullied than virginity not having mercy; so that
+
+2871 [[Luke 16#^16-26|Luke xvi. 26]].
 
 *[p. 821]* ^pg829
 
@@ -269,7 +271,7 @@ But see Him everywhere, not requiring it again immediately. For in the case of t
 
 454
 
-2872 [[Matthew 25#^25-12|Matt. xxv. 12]]. 2873 See [[Matthew 07#^7-23|Matt. vii. 23]]. 2874 [[Matthew 25#^25-13|Matt. xxv. 13]]. [[1 Corinthians 07#^7-34|1 Cor. vii. 34]], [[1 Corinthians 07#^7-35|35]].
+2872 [[Matthew 25#^25-12|Matt. xxv. 12]]. 2873 See [[Matthew 07#^7-23|Matt. vii. 23]]. 2874 [[Matthew 25#^25-13|Matt. xxv. 13]]. 2875 [[1 Corinthians 07#^7-34|1 Cor. vii. 34]], [[1 Corinthians 07#^7-35|35]].
 
 
 *[p. 822]* ^pg830
@@ -284,7 +286,7 @@ What could be more gentle than this? For men indeed do not so, but him that hath
 
 2876 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2877 [[Matthew 25#^25-24|Matt. xxv. 24]], [[Matthew 25#^25-25|25]]. 2878 [[Matthew 25#^25-27|Matt. xxv. 27]]. \[R.V., “bankers.”\] 2879 \[R.V., “the ten talents.”\]
 
-2880 [[Matthew 25#^25-28|Matt. xxv. 28]], [[Matthew 25#^25-29|29]]. [[Matthew 25#^25-30|Matt. xxv. 30]]. \[R.V., “cast ye out,” etc.\]
+2880 [[Matthew 25#^25-28|Matt. xxv. 28]], [[Matthew 25#^25-29|29]]. 2881 [[Matthew 25#^25-30|Matt. xxv. 30]]. \[R.V., “cast ye out,” etc.\]
 
 
 *[p. 823]* ^pg831
@@ -297,7 +299,7 @@ For this end God gave us speech, and hands, and feet, and strength of body, and 
 
 Such things then let us speak, that of themselves they may be evidently the words of Christ. For not only if I should say, “Arise, and walk;”<sup>2884</sup>neither if I should say, “Tabitha, arise,”<sup>2885</sup>then only do I speak Christ’s words, but much more if being reviled I bless, if being despitefully used I pray for him that doeth despite to me. Lately indeed I said, that our tongue is a hand laying hold on the feet of God; but now much more do I say, that our tongue is a tongue imitating the tongue of Christ, if it show forth the strictness that becometh us, if we speak those things which He wills. But what are the things which He wills us to speak? Words full of gentleness and meekness, even as also He Himself used to speak, saying to them that were insulting Him, “I have not a devil;”<sup>2886</sup>and again, “If I have spoken evil, bear witness
 
-455 προστασαν . 2882 2883 [[Acts 04#^4-13|Acts iv. 13]]. 2884 [[Matthew 09#^9-5|Matt. ix. 5]]. 2885 [[Acts 09#^9-40|Acts ix. 40]]. [[John 08#^8-49|John viii. 49]]. \[Greek, “demon.”\]
+455 2882 προστασαν . 2883 [[Acts 04#^4-13|Acts iv. 13]]. 2884 [[Matthew 09#^9-5|Matt. ix. 5]]. 2885 [[Acts 09#^9-40|Acts ix. 40]]. 2886 [[John 08#^8-49|John viii. 49]]. \[Greek, “demon.”\]
 
 *[p. 824]* ^pg832
 
@@ -311,7 +313,7 @@ Wherefore greater is he that thus speaks, than he that prophecies. For this is e
 
 Let us see also how a devil’s mouth is made; that we may never frame that. How then is it made? By curses, by insults, by envy, by perjury. For when any one speaks his words, he takes his tongue. What kind of excuse then shall we have; or rather, what manner of
 
-2887 John xviii. 23. Jer. xv. 19.
+2887 John xviii. 23. 2888 Jer. xv. 19.
 
 
 *[p. 825]* ^pg833
@@ -328,9 +330,9 @@ But mark them, how they are destitute not of one or two things only, but of all.
 
 And mark how easy are His injunctions. He said not, “I was in prison, and ye set me free; I was sick, and ye raised me up again;” but, “ye visited me,” and, “ye came unto me.” And neither in hunger is the thing commanded grievous. For no costly table did He seek, but what is needful only, and His necessary food, and He sought in a suppliant’s garb, so that all things were enough to bring punishment on them; the easiness of the request, for it was bread; the pitiable character of Him that requesteth, for He was poor; the sympathy of nature, for He was a man; the desirableness of the promise, for He promised a kingdom;
 
-κατ τν τ οκονομα λγονἐρφια, *hædos*, not *capras*; St. Jerome. 2889 ἔριφο.
+2889 κατ τν τ οκονομα λγονἐρφια, *hædos*, not *capras*; St. Jerome. 2890 ἔριφο.
 
-2890 Hosea vi. 6.
+2891 Hosea vi. 6.
 
 
 *[p. 826]* ^pg834
@@ -343,7 +345,7 @@ For further back also He saith, that they who receive not such as these shall su
 
 And this comparison is sometimes made in the case of an equal, as here, and in the instance of the virgins, sometimes of him that hath advantage, as when he said, “The men of Nineveh shall rise up and shall condemn this generation, because they believed at the preaching of Jonas; and, behold, a greater than Jonas is here;” and, “The queen of the south shall condemn this generation, because she came to hear the wisdom of Solomon;”<sup>2894</sup>and of an equal again, “They shall be your judges;”<sup>2895</sup>and again of one at advantage, “Know ye not, that we shall judge angels, how much more things that pertain to this life?”<sup>2896</sup>
 
-457 2892 [[Matthew 25#^25-45|Matt. xxv. 45]]; comp. verse 40. \[“My brethren” is added here from verse 40. The order of words varies from that found in that verse.—R.\] 2893 [[Matthew 25#^25-34|Matt. xxv. 34–40]]. 2894 [[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]]. 2895 [[Matthew 12#^12-27|Matt. xii. 27]]. [[1 Corinthians 06#^6-3|1 Cor. vi. 3]].
+457 2892 [[Matthew 25#^25-45|Matt. xxv. 45]]; comp. verse 40. \[“My brethren” is added here from verse 40. The order of words varies from that found in that verse.—R.\] 2893 [[Matthew 25#^25-34|Matt. xxv. 34–40]]. 2894 [[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]]. 2895 [[Matthew 12#^12-27|Matt. xii. 27]]. 2896 [[1 Corinthians 06#^6-3|1 Cor. vi. 3]].
 
 *[p. 827]* ^pg835
 
@@ -386,7 +388,7 @@ What did they consult together? That they might seize Him secretly, or that they
 
 Yet for all this, boiling with anger, they changed their purpose again. For though they had said, “Not at the feast time;” when they found the traitor, they waited not for the time, but slew Him at the feast. But why did they take Him then? They were boiling with rage, as I said; and they expected then to find Him, and all things they did as blinded. For though He Himself made the greatest use of their wickedness for His own dispensation, they were not surely for this guiltless, but deserving of inflictions without number for their temper of mind. At least when all should be set free, even the guilty, then these men slew the guiltless, Him that had conferred on them countless benefits, and who for a time had neglected the Gentiles for their sake. But O loving-kindness! them that were thus depraved, them that were *thus froward, and*<sup>2902</sup>full of countless evils, He again saves, and sends the apostles to
 
-2900 [[Matthew 26#^26-3|Matt. xxvi. 3–5]]. \[This passage contains some peculiar variations: in verse 3, “in the palace” (court) is substituted for “unto;” in verse 4, the more probable reading should be rendered, “were consulting” (or taking counsel together). Verse 5 shows no variations but should be rendered as in the R.V., “Not during the feast, lest a tumult arise among the people.” The comments show that Chrysostom understood the verse as referring to the entire festival.—R.\] 2901 \[“Not during the feast.”\] \[The words in italics are not sustained by the mss. collated by Field.—R.\]
+2900 [[Matthew 26#^26-3|Matt. xxvi. 3–5]]. \[This passage contains some peculiar variations: in verse 3, “in the palace” (court) is substituted for “unto;” in verse 4, the more probable reading should be rendered, “were consulting” (or taking counsel together). Verse 5 shows no variations but should be rendered as in the R.V., “Not during the feast, lest a tumult arise among the people.” The comments show that Chrysostom understood the verse as referring to the entire festival.—R.\] 2901 \[“Not during the feast.”\] 2902 \[The words in italics are not sustained by the mss. collated by Field.—R.\]
 
 
 *[p. 830]* ^pg838
@@ -401,7 +403,7 @@ What can be equal to this tenderness? On hearing these things let us hide our fa
 
 The sons of the Greeks, who look for nothing great, have often shown self-command toward these: and thou who art to depart hence with such hopes, shrinkest, and art slow to act; and that which time effects, this thou endurest not to do before the time for God’s law, but willest this passion to be quenched without reward, rather than for a reward? For neither,
 
-2903 [[2 Corinthians 05#^5-20|2 Cor. v. 20]]. \[R.V., “on behalf of Christ.”\] [[Luke 23#^23-34|Luke xxiii. 34]]. \[Freely cited.\]
+2903 [[2 Corinthians 05#^5-20|2 Cor. v. 20]]. \[R.V., “on behalf of Christ.”\] 2904 [[Luke 23#^23-34|Luke xxiii. 34]]. \[Freely cited.\]
 
 
 *[p. 831]* ^pg839
@@ -416,7 +418,7 @@ Wilt thou learn how good a thing it is not to remember injuries, and how this mo
 
 “Why? did not God guard the other side also? Why? did He not drive him that hath done the wrong to him that is wronged? Doth He not send him from the altar to the other, and so after the reconciliation invite him to the table?” But do not therefore wait for the other to come, since thus thou hast lost all. For to this intent most especially doth He appoint unto thee an unspeaka ble reward, that thou mayest prevent the other, since, if thou art reconciled by his entreaties, the amity is no longer the result of the divine command, but of the other party’s diligence. Wherefore also thou goest away uncrowned, while he receives the rewards.
 
-460 2905 Amos vi. 6. Micah i. 11, LXX.
+460 2905 Amos vi. 6. 2906 Micah i. 11, LXX.
 
 *[p. 832]* ^pg840
 
@@ -434,7 +436,7 @@ Now I had undertaken that he should receive no harm; but the account as it proce
 
 Let us not then vex ourselves with others, injuring ourselves, and rendering our soul weak. For the vexation is not so much from our neighbors’ wickedness, as from our weakness. Because of this, should any one insult us, we weep, and frown; should any one rob us, we
 
-2907 Prov. xii. 28, LXX. 2908 Ecclus. xxviii. 3. 2909 [[2 Corinthians 04#^4-16|2 Cor. iv. 16]]. \[R.V., “our outward man is decaying.”\] [[Romans 05#^5-4|Rom. v. 4]]. \[R.V., “probation;” δοκιμν cannot be accurately rendered by any single English term.—R.\]
+2907 Prov. xii. 28, LXX. 2908 Ecclus. xxviii. 3. 2909 [[2 Corinthians 04#^4-16|2 Cor. iv. 16]]. \[R.V., “our outward man is decaying.”\] 2910 [[Romans 05#^5-4|Rom. v. 4]]. \[R.V., “probation;” δοκιμν cannot be accurately rendered by any single English term.—R.\]
 
 
 *[p. 833]* ^pg841
@@ -443,7 +445,7 @@ suffer the same like those little children, which the more clever of their compa
 
 Wherefore I entreat, let us let go this childish mind, and lay hold of Heaven. For indeed, Christ willeth us to be men, perfect men. On this wise did Paul also command, “Brethren, be not children in understanding,” he saith, “howbeit in malice be ye children.”<sup>2911</sup> Let us therefore be children<sup>2912</sup>in malice, and flee wickedness, and lay hold on virtue, that we may attain also to the good things eternal, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might, world without end. Amen.
 
-2911 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. \[R.V., “be not children in mind; howbeit in malice be ye babes.”\] \[“babes.”\]
+2911 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. \[R.V., “be not children in mind; howbeit in malice be ye babes.”\] 2912 \[“babes.”\]
 
 
 *[p. 834]* ^pg842
@@ -462,7 +464,7 @@ But not without purpose did the evangelist mention the leprosy of Simon, but in 
 
 The woman therefore having seen Him, and having taken confidence from thence came unto Him. For if she that had the issue of blood, although conscious to herself of nothing like this, yet because of that natural seeming uncleanness, approached Him trembling and in fear; much more was it likely this woman should be slow, and shrink back because of her evil conscience. Wherefore also it is after many women, the Samaritan, the Canaanite, her that had the issue of blood, and other besides, that she cometh unto Him, being conscious to herself of much impurity; and then not publicly but in a house. And whereas all the others were coming unto Him for the healing of the body alone, she came unto Him by way of
 
-2913 St. Augustin, on St. John, Hom. XLIX. sec. 3, speaks of the identity as doubtful. See also Greswell, vol. ii., Diss. XVII., and vol. iii. Diss. III. It seems that the *occasion* recorded in [[Luke 07#^7-37|Luke vii. 37]] must have been different, whether the person were the same or not. St. Chrysostom supposes *two* unctions *at Bethany*. See note at the end of “Sermons preached at St. Saviour’s Church, Leeds.” \[Augustin discusses the question more fully in his *Harmony of the Gospels*, see *Nicene Fathers*, vol. vi. pp. 173, 174. He holds that there were two occasions, one named by Luke, and the other by Matthew, Mark and John, but that Mary was the person anointing on both occasions. This leads to the identification of Mary, the sister of Lazarus, with Mary Magdalene. But there is no proof that Luke refers to the latter. The opinion of Chrysostom seems to be that Matthew, Mark and Luke refer to the same person, and John to another on a different occasion. But to this there are insuperable objections.—R.\] Lit, an economy.
+2913 St. Augustin, on St. John, Hom. XLIX. sec. 3, speaks of the identity as doubtful. See also Greswell, vol. ii., Diss. XVII., and vol. iii. Diss. III. It seems that the *occasion* recorded in [[Luke 07#^7-37|Luke vii. 37]] must have been different, whether the person were the same or not. St. Chrysostom supposes *two* unctions *at Bethany*. See note at the end of “Sermons preached at St. Saviour’s Church, Leeds.” \[Augustin discusses the question more fully in his *Harmony of the Gospels*, see *Nicene Fathers*, vol. vi. pp. 173, 174. He holds that there were two occasions, one named by Luke, and the other by Matthew, Mark and John, but that Mary was the person anointing on both occasions. This leads to the identification of Mary, the sister of Lazarus, with Mary Magdalene. But there is no proof that Luke refers to the latter. The opinion of Chrysostom seems to be that Matthew, Mark and Luke refer to the same person, and John to another on a different occasion. But to this there are insuperable objections.—R.\] 2914 Lit, an economy.
 
 
 *[p. 835]* ^pg843
@@ -481,7 +483,7 @@ For if He refused not to become man, and to be borne in the womb, and to be fed 
 
 But the disciples not knowing her purpose found fault unseasonably, and by the things they laid to her charge, they show the woman’s munificence. For saying, that it might have been sold for three hundred pence, they showed how much this woman had spent on the ointment, and how great generosity she had manifested. Wherefore He also rebuked them, saying, “Why trouble ye the woman?” And He adds a reason, as it was His will again to put them in mind of His passion, “For she did it,” He said, “for my burial.” And another reason.
 
-462 2915 [[Matthew 26#^26-8|Matt. xxvi. 8–13]]. \[The Greek text agrees with the received with the exception of a change of order in the first clause of verse 11. In verse 12, the R.V. renders, “to prepare me for burial,” and in verse 12, “bespoken of” for “be told.”—R.\] See ix. 13, and xii. 7.
+462 2915 [[Matthew 26#^26-8|Matt. xxvi. 8–13]]. \[The Greek text agrees with the received with the exception of a change of order in the first clause of verse 11. In verse 12, the R.V. renders, “to prepare me for burial,” and in verse 12, “bespoken of” for “be told.”—R.\] 2916 See ix. 13, and xii. 7.
 
 *[p. 836]* ^pg844
 
@@ -548,7 +550,7 @@ Hearken, all ye covetous, ye that have the disease of Judas; hearken, and beware
 
 And how was he taken by this calamity? one may say. Because he grew remiss. For hence arise such changes, as on the other hand, those for the better from diligence. How many for instance that were violent, are now more gentle than lambs? how many lascivious persons have become afterwards continent? how many, heretofore covetous, yet now have cast away even their own possessions? And the contrary again has been the result of remissness. For Gehazi also lived with a holy man, and he too became depraved from the same disease. For this calamity is the most grievous of all. Hence come robbers of tombs, hence menslayers, hence wars and fightings, and whatsoever evil thou mayest mention, it cometh hence. And in every respect is such a one useless, whether it be requisite to lead an army or to guide a people: or rather not in public matters only, but also in private. If he is to marry a wife, he will not take the virtuous woman, but the vilest of all; if he have to buy a house, not that
 
-\[The words “their kinsmen” should be inserted here.—R.\]
+2922 \[The words “their kinsmen” should be inserted here.—R.\]
 
 *[p. 840]* ^pg848
 
@@ -560,7 +562,7 @@ And why do I speak of leading an army, and guiding a people, and managing househ
 
 Why then dost thou mourn, being in a state of poverty. Why wailest thou keeping a feast, for indeed it is an occasion of feasting. Why weepest thou, for poverty is a festival, if thou be wise. Why lamentest thou, thou little child; for such a one we should call a little child. Did such a person strike thee? What is this, he made thee more able to endure? But did he take away thy money? He hath removed the greater part of thy burden. But hath he cut off thine honor? Again thou tellest me of another kind of freedom. Hear even those without teaching wisdom touching these things, and saying, “Thou hast suffered no ill, if thou show no regard to it.” But hath he taken away that great house of thine, which hath enclosures about it? But behold the whole earth is before thee, the public buildings, whether thou wouldest have them for delight, or for use. And what is more pleasing or more beautiful than the firmament of Heaven.
 
-Ecclus. x. 9.
+2923 Ecclus. x. 9.
 
 *[p. 841]* ^pg849
 
@@ -594,7 +596,7 @@ But wherefore did He keep the passover? To indicate by all things unto the last 
 
 And for what possible reason doth He send them to an unknown person? To show by this also that He might have avoided suffering. For He who prevailed over this man’s mind, so that he received them, and that by words; what would He not have done with them that crucified Him, if it had been His will not to suffer? And what He did about the ass, this He did here also. For there too He saith, “If any man say aught unto you, ye shall say, that the Lord hath need of them;”<sup>2928</sup>and so likewise here, “The Master saith, I will keep the passover at thy house.” But I marvel not at this only, that he received Him, being unknown, but that
 
-2924 [[John 13#^13-1|John xiii. 1]]. 2925 \[But John does not call it the day before.—R.\] 2926 [[Luke 22#^22-7|Luke xxii. 7]]. 2927 \[The language is somewhat obscure. But it would seem from this passage that Chrysostom believed our Lord ate the passover at the regular time. In Homily LXXXIV., he speaks of the chief priests as neglecting to eat it in their hate against our Lord, explaining in this way the difficulty arising from the statement in [[John 18#^18-28|John xviii. 28]]. But in Homily LXXXIII. 3, on the Gospel of John, he presents both views, either that the whole feast is meant, or that our Lord had anticipated the observance of the Paschal supper.—R.\]
+2924 [[John 13#^13-1|John xiii. 1]]. 2925 \[But John does not call it the day before.—R.\] 2926 [[Luke 22#^22-7|Luke xxii. 7]]. 2927 \[The language is somewhat obscure. But it would seem from this passage that Chrysostom believed our Lord ate the passover at the regular time. In Homily LXXXIV., he speaks of the chief priests as neglecting to eat it in their hate against our Lord, explaining in this way the difficulty arising from the statement in [[John 18#^18-28|John xviii. 28]]. But in Homily LXXXIII. 3, on the Gospel of John, he presents both views, either that the whole feast is meant, or that our Lord had anticipated the observance of the Paschal supper.—R.\] 2928 [[Matthew 21#^21-3|Matt. xxi. 3]].
 
 
 *[p. 843]* ^pg851
@@ -613,4 +615,4 @@ Intolerable sorrow thereupon seized that holy company. And John indeed saith, th
 
 467 2929 1 Sam. x. 3.
 
-2930 [[Matthew 26#^26-20|Matt. xxvi. 20]]. \[R.V., “was sitting at meat with the twelve disciples.” The rec. text omits “disciples,” as does one mss. of the Homilies here. Comp. R.V. margin. Below it is omitted by Chrysostom also.—R.\] 2931 Lit., salt. 2932 \[See note 7, p. 485.\] 2933 [[Matthew 26#^26-21|Matt. xxvi. 21]]. \[R.V., “were eating.”\] [[John 13#^13-22|John xiii. 22]]. \[Freely cited.\]
+2930 [[Matthew 26#^26-20|Matt. xxvi. 20]]. \[R.V., “was sitting at meat with the twelve disciples.” The rec. text omits “disciples,” as does one mss. of the Homilies here. Comp. R.V. margin. Below it is omitted by Chrysostom also.—R.\] 2931 Lit., salt. 2932 \[See note 7, p. 485.\] 2933 [[Matthew 26#^26-21|Matt. xxvi. 21]]. \[R.V., “were eating.”\] 2934 [[John 13#^13-22|John xiii. 22]]. \[Freely cited.\]

@@ -123,7 +123,7 @@ Mudra Exercises How to Create Your Own Mudra What a Mudra Cannot Do .45 46 47 47
 
 PRACTICAL APPLICATIONS 
 
-*[PDF 5]* ^pg5
+*[p. vii]* ^pg5
 
 C O N T E N T S 
 

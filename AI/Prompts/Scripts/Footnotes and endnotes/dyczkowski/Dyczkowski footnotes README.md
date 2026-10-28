@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # Dyczkowski footnotes - README
 
@@ -20,14 +20,15 @@ Scripts for turning the plain footnotes of the library copy of Dyczkowski's Tant
 | `calib.py` | The calibration: a reader's result on vol. 5 part 8 (from its backup) against the converted note. |
 | `dyfn-check.tpl.js` | The read-only check after each apply (a copy is in `.work/edits/`): divine-name counts against the backups, Obsidian's footnote cache by id, every `^pg` block still registered, every heading link into the notes resolves, unresolved links. |
 | `review.py`, `crop.py`, `cmpshow.py`, `save_batch.py`, `ledger.py` | The lead's helpers (night 2): `review.py ID[=START|=0|=map:FILE]` runs `apply_ops.py` and prints a summary (label minus printed number, word differences, the reader's problems); `crop.py VOL PDFPAGE "words" OUT.png` crops the line of a page that holds the words (for reading a call on the image); `cmpshow.py` lists a blind check's mismatches; `save_batch.py` records a batch in `progress.json` and stages its op files and checks; `ledger.py` adds up the agents' tokens against the caps. |
+| `ch2/` (28 Oct 2026) | **Chapter Two of vol. 2**, whose footnote numbers the OCR lost: `fnstarts2.py` finds the footnote starts on 300 dpi page images (the zone below the rule or set in the smaller type; a line at the margin opening with a misread superscript) from Tesseract's TSV; `supnum.py` reads each superscript number with a digits-only OCR (good for 1–99, not for 100+); `prepass_ch2.py` numbers the starts through the chapter by alignment (OCR'd numbers as anchors, real labels fixed, the lead's page decisions in `OVERRIDE`), matches each to its place in the note and writes the note with `N\. ` paragraphs (splitting lines where the converter ran a page's footnotes together), for `prepass.py`; `packet_ch2.py` builds a reader's folder for a range of pages (every page imaged, the pre-pass's work listed per page); `merge_ops.py` joins two readers' op lists for one note; `reader-ch2.txt` and `reader-task-ch2.txt` the readers' addendum and task. `sample.py` now takes `NPER` (footnotes per note) from the environment. |
 
 **Data kept:** the readers' op lists (`ops-*.json`, with the lead's edits marked `"by": "lead"` and explained under `lead`; `map-*.json` where labels were mapped) and the blind checks' tasks, keys, answers and reports are in `.work/edits/dyfn/`.
 
 **Order per note:** stage the note → `prepass.py` → `packet.py` → a reader agent with `reader-brief.txt` and `reader-task.txt` → `review.py` (read the word differences and the reader's problems; give `=START` or a map where the numbers drift from the print) → blind check per batch of up to five notes → re-stage, `batch.py`, dry run, apply → `dyfn-check`.
 
 **Facts about the book** (for the next reader):
-- The vault numbers the footnotes through each chapter or volume, as the print does in vols. 1–3 (vol. 1 through the volume; vol. 2's Chapter Two 1–151 and Chapter Three 1–885; vol. 3's Chapter Four 1–999); vol. 11's print starts again in each chapter, and the appendices of vol. 3 start again at 1 in each appendix. In those cases the vault keeps its own through-numbering.
+- The vault numbers the footnotes through each chapter or volume, as the print does in vols. 1–3 (vol. 1 through the volume; vol. 2's Chapter Two 1–155 and Chapter Three 1–885; vol. 3's Chapter Four 1–999); vol. 11's print starts again in each chapter, and the appendices of vol. 3 start again at 1 in each appendix. In those cases the vault keeps its own through-numbering.
 - The converter's numbers drift from the print where two footnotes ran together or one was split in two; readers split, join and renumber so that every call meets its own text, and the lead gives the printed numbers (`--start`, `--map`). A number may therefore occur at the end of one note and the start of the next.
 - The text layer has no call digits (Tesseract read the superscripts as quote marks, `?`, `TM` or stray letters), so the calls are read on the page images. Already-real calls that an earlier pass left inside Devanagari verse lines are moved to where the print has them; the English words that pass left there stay.
 - Carried-over footnote text is usually already joined to its footnote; a definition split off from another often stays in the earlier page's footnote zone (harmless: Obsidian collects footnotes at the end).
-- Vol. 2's Chapter Two (notes 02 and 03): most footnotes stand as plain paragraphs whose numbers the OCR lost, so the pre-pass does not see them; only 146–151 were made footnotes. They need a pre-pass that takes a paragraph without a number.
+- Vol. 2's Chapter Two (notes 02 and 03): the OCR lost the footnote numbers; done on 28 Oct 2026 with the `ch2/` pre-pass (155 footnotes, 1–155: the chapter runs to 155, not 151). Its op lists and the blind check are in `.work/edits/dyfn/chapter2/`.

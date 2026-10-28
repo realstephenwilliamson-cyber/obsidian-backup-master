@@ -32,7 +32,7 @@ But why, it may be asked, did he use a girdle with his raiment? This was customa
 
 Seest thou how great power was in the coming of the prophet? how he stirred up all the people; how he led them to a consideration of their own sins? For it was indeed worthy of wonder to behold him in human form showing forth such things and using so great freedom of speech, and rising up in condemnation of all as children, and having his great grace beaming out from his countenance. And, moreover, the appearance of a prophet after the
 
-436 As in refusing to be supported (in several cases) by those to whom he preached the gospel. See his account of his views in so doing, 1 Cor. ix., especially towards the end of the chapter. 437 [[John 21#^21-7|John xxi. 7]]. 438 [[Acts 21#^21-11|Acts xxi. 11]]. 439 2 Kings i. 8. 440 [[Matthew 11#^11-8|Matt. xi. 8]]. ἐξομολογσεω . 441 \[τ διαβλ. The Oxford edition has “the devils,” but this is misleading, since it suggests a reference to 442 “demons.” Probably the plural is a misprint.—R.\]
+436 As in refusing to be supported (in several cases) by those to whom he preached the gospel. See his account of his views in so doing, 1 Cor. ix., especially towards the end of the chapter. 437 [[John 21#^21-7|John xxi. 7]]. 438 [[Acts 21#^21-11|Acts xxi. 11]]. 439 2 Kings i. 8. 440 [[Matthew 11#^11-8|Matt. xi. 8]]. 441 ἐξομολογσεω . 442 \[τ διαβλ. The Oxford edition has “the devils,” but this is misleading, since it suggests a reference to “demons.” Probably the plural is a misprint.—R.\] 443 [[Matthew 03#^3-5|Matt. iii. 5]], [[Matthew 03#^3-6|6]].
 
 *[p. 126]* ^pg134
 
@@ -42,7 +42,7 @@ great interval of time contributed to their amazement, because the gift had fail
 
 For the signs too are now complete, which announce that day. For “this Gospel of the Kingdoms,” saith He, “shall be preached in all the world for a witness unto all nations; and then shall the end come.”<sup>448</sup> Attend with care to what is said. He said not, “when it hath
 
-63 444 [[Acts 05#^5-36|Acts v. 36]], [[Acts 05#^5-37|37]]. ἐξομολογεσθαι . 445 446 [[Romans 13#^13-12|Rom. xiii. 12]]. 447 [[Hebrews 10#^10-37|Heb. x. 37]]. [[Matthew 24#^24-14|Matt. xxiv. 14]]. \[“All the nations,” so R.V., and comp. what follows here.—R.\]
+63 444 [[Acts 05#^5-36|Acts v. 36]], [[Acts 05#^5-37|37]]. 445 ἐξομολογεσθαι . 446 [[Romans 13#^13-12|Rom. xiii. 12]]. 447 [[Hebrews 10#^10-37|Heb. x. 37]]. 448 [[Matthew 24#^24-14|Matt. xxiv. 14]]. \[“All the nations,” so R.V., and comp. what follows here.—R.\]
 
 *[p. 127]* ^pg135
 
@@ -54,11 +54,11 @@ But we, while hearing these things and seeing them, slumber, and see dreams, sun
 
 \[παρ πντων νθρπων…παρ πασ, is the explanation of Chrysostom, paraphrasing the New Testament pas- 449 sage.—R.\]
 
-\[ἐν βαθυττ νυκτ.\] 450 451
+450 \[ἐν βαθυττ νυκτ.\]
 
-[[Matthew 03#^3-8|Matt. iii. 8]]. \[R.V., more literally, “worthy of repentance,” with margin, “Or, your repentance,” the Greek being τ μετανοα; so in the text of Chrysostom.—R.\] 452
+451 [[Matthew 03#^3-8|Matt. iii. 8]]. \[R.V., more literally, “worthy of repentance,” with margin, “Or, your repentance,” the Greek being τ μετανοα; so in the text of Chrysostom.—R.\]
 
-Ps. xxxiv. 14.
+452 Ps. xxxiv. 14. 453 Ps. xxxiv. 13 \[LXX.\].
 
 *[p. 128]* ^pg136
 
@@ -68,9 +68,9 @@ Heaven. Yet shall we be able to bring her back again, if we will put away pride 
 
 For so we shall both easily repulse all hostile devices, and attain unto the incorruptible crowns: by the grace and love towards man of our Lord Jesus Christ, with whom be unto the Father glory, might, and honor, together with the Holy Ghost, now, and always, even for ever and ever. Amen.
 
-\[“If we desire (θλωμεν), by putting away, etc.…to pursue this temperate and frugal life.”—R.\] 454
+454 \[“If we desire (θλωμεν), by putting away, etc.…to pursue this temperate and frugal life.”—R.\]
 
-ὑπερτθεται, used as in the word ὑπρθεσιχριν εδτε πρ πντων τ εδτι.\]
+455 ὑπερτθεται, used as in the word ὑπρθεσιχριν εδτε πρ πντων τ εδτι.\]
 
 *[p. 129]* ^pg137
 
@@ -90,7 +90,7 @@ How then doth Christ say, that they did not believe John?<sup>456</sup> Because 
 
 And to convince thee that the Pharisees came with one mind, and the people with another, hear how the evangelist hath declared this too; saying of the people, “that they came and were baptized of him, confessing their sins;”<sup>462</sup>but concerning the Pharisees, no longer like that, but that “when he saw many of the Pharisees and Sadducees coming, he said, O generation of vipers, who hath warned you to flee from the wrath to come?” O greatness of mind! How doth he discourse unto men ever thirsting after the blood of the prophets, and in disposition no better than serpents! how doth he disparage both themselves and their progenitors with all plainness!
 
-456 [[Luke 20#^20-5|Luke xx. 5]]. 457 [[John 05#^5-46|John v. 46]]. 458 [[Matthew 21#^21-25|Matt. xxi. 25]], [[Matthew 21#^21-26|26]]. 459 \[“When some of them were sending.”—R.\] 460 [[John 01#^1-24|John i. 24]]. 461 [[John 01#^1-25|John i. 25]].
+456 [[Luke 20#^20-5|Luke xx. 5]]. 457 [[John 05#^5-46|John v. 46]]. 458 [[Matthew 21#^21-25|Matt. xxi. 25]], [[Matthew 21#^21-26|26]]. 459 \[“When some of them were sending.”—R.\] 460 [[John 01#^1-24|John i. 24]]. 461 [[John 01#^1-25|John i. 25]]. 462 [[Matthew 03#^3-6|Matt. iii. 6]].
 
 *[p. 130]* ^pg138
 
@@ -106,7 +106,7 @@ And see how straightway from the beginning he alarmed them, by laying first, for
 
 And full well did he likewise call them, “generation of vipers.” For that animal too is said to destroy the mother that is in travail with her, and eating through her belly, thus to come forth unto light; which kind of thing these men also did being “murderers of fathers, and murderers of mothers,”<sup>465</sup>and destroying their instructors with their own hands.
 
-463 Is. i. 10. 464 Amos ix. 7. [[1 Timothy 01#^1-9|1 Tim. i. 9]].
+463 Is. i. 10. 464 Amos ix. 7. 465 [[1 Timothy 01#^1-9|1 Tim. i. 9]].
 
 *[p. 131]* ^pg139
 
@@ -120,7 +120,7 @@ And see how with his honor paid to the patriarch he combines his correction touc
 
 This accordingly the prophet also was intimating, when he said, “Look unto the hard rock, whence ye are hewn, and to the hole of the pit, whence ye are digged: look unto Abraham your father, and unto Sarah that bare you.”<sup>471</sup> Now of this prophecy, you see, he reminds
 
-466 \[R.V., “worth of repentance,” marg., “your repentance.”\] \[συνθη \] 467 The correct reading seems to be ὅτε, “when,” not ὅτι, “that.”—R\] 468 469 [[John 08#^8-33|John viii. 33]]. 470 [[Matthew 03#^3-9|Matt. iii. 9]]. Is. li. 1, 2.
+466 \[R.V., “worth of repentance,” marg., “your repentance.”\] 467 \[συνθη \] 468 The correct reading seems to be ὅτε, “when,” not ὅτι, “that.”—R\] 469 [[John 08#^8-33|John viii. 33]]. 470 [[Matthew 03#^3-9|Matt. iii. 9]]. 471 Is. li. 1, 2.
 
 *[p. 132]* ^pg140
 
@@ -132,7 +132,7 @@ Seest thou how for the time he drew them off from their vain imagination about t
 
 For having said that “God is able of these stones to raise up children unto Abraham,” he added, “And now also the axe is laid unto the root of the trees,”<sup>472</sup>by all means making his speech alarming. For as he from his way of life had much freedom of speech, so they needed his severe rebuke, having been left barren<sup>473</sup>now for a long time. For “why do I say” (such are his words) “that ye are on the point of falling away from your relationship to the patriarch and of seeing others, even those that are of stones, brought in to your pre-eminence? Nay, not to this point only will your penalty reach, but your punishment will proceed further. “For now,” saith he, “the axe is laid unto the root of the trees.” There is nothing more terrible than this turn of his discourse. For it is no longer “a flying sickle,”<sup>474</sup>nor “the taking down of a hedge,” nor “the treading under foot of the vineyard;”<sup>475</sup>but an axe exceeding sharp, and what is worse, it is even at the doors. For inasmuch as they continually disbelieved the prophets, and used to say, “Where is the day of the Lord:”<sup>476</sup>and “let the counsel of the Holy One of Israel come, that we may know it,”<sup>477</sup>by reason that it was many years before what they said came to pass; to lead them off from this encouragement also, he sets the terrors close to them. And this he declared by saying “now,” and by his putting it to “the root.” “For the space between is nothing now,” saith he, “but it is laid to the very root.” And he said not, “to the branches,” nor “to the fruits,” but “to the root.” Signifying, that if they were negligent, they would have incurable horrors to endure, and not have so much as a hope of
 
-67 472 [[Matthew 03#^3-10|Matt. iii. 10]]. \[R.V., “And even now is the axe laid,” etc.—R.\] χερσωθντε. 473 474 Zech. v. 1, LXX. 475 Is. v. 5. 476 See Amos v. 18; Jer. xvii. 15; Ezek. xii. 22, 27. Is. v. 19.
+67 472 [[Matthew 03#^3-10|Matt. iii. 10]]. \[R.V., “And even now is the axe laid,” etc.—R.\] 473 χερσωθντε. 474 Zech. v. 1, LXX. 475 Is. v. 5. 476 See Amos v. 18; Jer. xvii. 15; Ezek. xii. 22, 27. 477 Is. v. 19.
 
 *[p. 133]* ^pg141
 
@@ -146,15 +146,15 @@ By these words he alarmed even publicans, the soldiers’ mind was startled by h
 
 5\. “And how,” saith one, “shall we be able to bring forth fruit, when the edge is being applied, and the time so strait, and the appointed season cut short.” “Thou wilt be able,” saith he, “for this fruit is not of the same kind as that of common trees, waiting a long time,
 
-λγον.
+478 λγον.
 
-478 479
+479
 
 [[Romans 09#^9-28|Rom. ix. 28]].
 
-ατοτελς, *self-executed*.
+480 ατοτελς, *self-executed*. 481 [[Matthew 03#^3-10|Matt. iii. 10]].
 
-480
+
 
 *[p. 134]* ^pg142
 
@@ -162,7 +162,7 @@ and in bondage to the necessities<sup>482</sup>of seasons, and requiring much ot
 
 For (let me add) on account of this,—lest they should say, “Thou art alarming and pressing, and constraining us, applying an axe, and threatening us with being cut down, yet requiring produce in time of punishment,”—he hath added, to signify the ease of bearing that fruit, “I indeed baptize you with water, but He that cometh after me is mightier than I, the latchet of whose shoe I am not worthy to unloose; He shall baptize you with the Holy Ghost and with fire:”<sup>483</sup>implying hereby that consideration<sup>484</sup>only is needed and faith, not labors and toils; and as it is easy to be baptized, so is it easy to be converted, and to become better men. So having stirred their mind by the fear of *God’s* judgment, and the expectation of *His* punishment, and by the mention of the axe, and by the loss of their ancestors, and by the bringing in of those other children, and by the double vengeance of cutting off and burning, and having by all means softened their hardness, and brought them to desire deliverance from so great evils; then he brings in what he hath to say touching Christ; and not simply, but with a declaration of His great superiority. Then in setting forth the difference between himself and Him, lest he should seem to say this out of favor, he establishes the fact by comparison of the gifts bestowed by each of them. For he did not at once say, “I am not worthy to unloose the latchet of His shoe;” but when he had first set forth the little value of his own baptism, and had shown that it hath nothing more than to lead them to repentance (for he did not say with water of remission, but of repentance), he sets forth Christ’s also, which is full of the unspeakable gift. Thus he seems to say, “Lest, on being told that He cometh after me, thou shouldest despise Him as having come later; learn thou the virtue<sup>485</sup>of His gift, and thou wilt clearly know that I uttered nothing worthy nor great, when I said, “I am not worthy to unloose the latchet of His shoe.” So too when thou art told, “He is mightier than I,” do not think I said this in the way of making a comparison. For I am not worthy to be ranked so much as among His servants, no, not even the lowest of His servants, nor to receive the least honored portion of His ministry.” Therefore He did not merely say, “His shoes,” but not even “the latchet,” which kind of office was counted the last of all. Then to hinder thy attributing what he had said to humility, he adds also the proof from the facts: “For He shall baptize you,” saith he, “with the Holy Ghost and with fire.”
 
-68 ἀναγκα. 482 483 [[Matthew 03#^3-11|Matt. iii. 11]]. Comp. [[Luke 03#^3-16|Luke iii. 16]]. \[In neither passage is the preposition repeated in the Greek text. Chrysostom (see sec. 6) interprets “fire” as part of the blessing promised. So many modern commentators.—R.\] \[γνμη.\] 484 \[δναμιν.\]
+68 482 ἀναγκα. 483 [[Matthew 03#^3-11|Matt. iii. 11]]. Comp. [[Luke 03#^3-16|Luke iii. 16]]. \[In neither passage is the preposition repeated in the Greek text. Chrysostom (see sec. 6) interprets “fire” as part of the blessing promised. So many modern commentators.—R.\] 484 \[γνμη.\] 485 \[δναμιν.\]
 
 *[p. 135]* ^pg143
 
@@ -176,7 +176,7 @@ Wherefore he again cried out, saying, “Behold the Lamb of God, which beareth t
 
 And again, he said, “He is Son of God.”<sup>489</sup> But not even this declared His rank openly to the hearers (for they did not so much as know yet how to conceive of Him as a true Son):
 
-486 Ezek. i. 27. [[John 01#^1-29|John i. 29]]; Engl. Vers. *in marg*. \[So R.V. marg. The Greek phrase is ὁ αρων, “he that taketh up.”—R.\] 487 \[ατν ναλαβεν is the better supported reading, but various conjectural emendations occur. “Himself to 488 assume *it*,” is the most literal rendering.—R.\]
+486 Ezek. i. 27. 487 [[John 01#^1-29|John i. 29]]; Engl. Vers. *in marg*. \[So R.V. marg. The Greek phrase is ὁ αρων, “he that taketh up.”—R.\] 488 \[ατν ναλαβεν is the better supported reading, but various conjectural emendations occur. “Himself to assume *it*,” is the most literal rendering.—R.\] 489 [[John 01#^1-34|John i. 34]].
 
 *[p. 136]* ^pg144
 
@@ -188,7 +188,7 @@ Thus, as before he had spoken of the punishment, so here he points out the Judge
 
 Where now are they by whom hell-fire<sup>493</sup>is disbelieved? Since surely here are two points laid down, one, that He will baptize with the Holy Ghost, the other, that He will burn up the disobedient. If then that is credible, so is this too, assuredly. Yea, this is why the two predictions are put by him in immediate connection, that by that which hath taken place already, he might accredit the other, as yet unaccomplished. For Christ too Himself in many places doth so, often of the same things, and often of opposites, setting down two prophecies; the one of which He performs here, the other He promises in the future; that such as are too contentious may, from the one which has already come to pass, believe the other also, which is not yet accomplished. For instance, to them that strip themselves of all that they have for His sake<sup>494</sup> He promised to give an hundred fold in the present world, and life eternal in that which is to come; by the things already given making the future also credible.
 
-490 [[John 01#^1-33|John i. 33]], [[John 01#^1-34|34]]. \[ R.V. more correctly, “I have seen, and have borne witness,” etc. The Greek perfects are to be taken in their grammatical sense, as the comment of Chrysostom implies.—R.\] 491 [[Matthew 03#^3-12|Matt. iii. 12]]. 492 [[John 15#^15-1|John xv. 1]]. \[γενν.\] 493 [[Mark 10#^10-30|Mark x. 30]]; [[Luke 18#^18-30|Luke xviii. 30]].
+490 [[John 01#^1-33|John i. 33]], [[John 01#^1-34|34]]. \[ R.V. more correctly, “I have seen, and have borne witness,” etc. The Greek perfects are to be taken in their grammatical sense, as the comment of Chrysostom implies.—R.\] 491 [[Matthew 03#^3-12|Matt. iii. 12]]. 492 [[John 15#^15-1|John xv. 1]]. 493 \[γενν.\] 494 [[Mark 10#^10-30|Mark x. 30]]; [[Luke 18#^18-30|Luke xviii. 30]].
 
 *[p. 137]* ^pg145
 
@@ -198,7 +198,7 @@ Let no man then become chaff, let no one be tossed to and fro, nor lie exposed t
 
 Now to have said directly that He will judge men’s doings, would not so effectually procure acceptance for His doctrine: but to blend with it the parable, and so establish it all, was apter to persuade the hearer, and attract him by a more ample encouragement. Wherefore also Christ Himself<sup>499</sup>for the most part so discourses with them; threshing floor, and harvest, and vineyard, and wine-press, and field, and net, and fishing, and all things familiar, and among which they were busied He makes ingredients in His discourses. This kind of thing then the Baptist likewise did here, and offered an exceeding great demonstration of his words, the giving of the Spirit. For “He who hath so great power, as both to forgive
 
-70 \[φαλοι, “worthless.”—R.\] 495 φιλοσοφα. 496 497 [[Matthew 03#^3-10|Matt. iii. 10]]. πριστηροειδ, see Is. xl. 15. 498 \[The better supported text seems to be ατς, without ὁ χριστς; the latter is an explanatory gloss.—R.\]
+70 495 \[φαλοι, “worthless.”—R.\] 496 φιλοσοφα. 497 [[Matthew 03#^3-10|Matt. iii. 10]]. 498 πριστηροειδ, see Is. xl. 15. 499 \[The better supported text seems to be ατς, without ὁ χριστς; the latter is an explanatory gloss.—R.\]
 
 *[p. 138]* ^pg146
 
@@ -210,7 +210,7 @@ Seest thou how now in due order the mystery<sup>500</sup>came to be laid as a fo
 
 8\. Therefore, knowing these things, let us use great diligence, while we are in the threshing floor; for it is possible while we are here, to change even out of chaff into wheat, even as on the other hand many from wheat have become chaff. Let us not then be supine, nor be carried about with every wind; neither let us separate ourselves from our brethren, though they seem to be small and mean; forasmuch as the wheat also compared with the chaff is less in measure, but better in nature. Look not therefore to the forms of outward pomp, for they are prepared for the fire, but to this godly humility, so firm and indissoluble, and which cannot be cut, neither is burnt by the fire. It being for their sake that He bears long with the very chaff, that by their intercourse with them they may become better. Therefore judgment is not yet, that we may be all crowned together, that from wickedness many may be converted unto virtue.
 
-500 “The Mystery:” *i.e*., Christ’s Baptism by Fire, His dwelling in our hearts by His Spirit. Comp. [[Colossians 01#^1-26|Col. i. 26]], [[Colossians 01#^1-27|27]]; [[Ephesians 01#^1-9|Eph. i. 9]], [[Ephesians 01#^1-10|10]]; [[Ephesians 03#^3-9|iii. 9]]. 501 [[Hebrews 06#^6-1|Heb. vi. 1]], [[Hebrews 06#^6-2|2]]. 502 \[“The loosing of death, the abolition of sins,” etc., “the entrance into Paradise,” etc. The construction is the same throughout the list.—R.\] 503 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. \[See note 3 on sec. 6, p. 71.—R.\]
+500 “The Mystery:” *i.e*., Christ’s Baptism by Fire, His dwelling in our hearts by His Spirit. Comp. [[Colossians 01#^1-26|Col. i. 26]], [[Colossians 01#^1-27|27]]; [[Ephesians 01#^1-9|Eph. i. 9]], [[Ephesians 01#^1-10|10]]; [[Ephesians 03#^3-9|iii. 9]]. 501 [[Hebrews 06#^6-1|Heb. vi. 1]], [[Hebrews 06#^6-2|2]]. 502 \[“The loosing of death, the abolition of sins,” etc., “the entrance into Paradise,” etc. The construction is the same throughout the list.—R.\] 503 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. 504 \[See note 3 on sec. 6, p. 71.—R.\]
 
 *[p. 139]* ^pg147
 
@@ -222,7 +222,7 @@ For if we, when sending children to teachers, should we see them reaping no bene
 
 Therefore, lest this be our case too, wipe thou out the letters, or rather the impressions, which the devil hath engraven in thy soul; and bring me a heart set free from worldly tumults, that without fear I may write on it what I will. Since now at least there is nothing else to 71 discern, except his letters;—rapines, covetings, envy, jealousy. Wherefore of course, when I receive your tablets, I am not able so much as to read them. For I find not the letters, which we every Lord’s day inscribe on you, and so let you go; but others, instead of these, unintelligible and misshapen. Then, when we have blotted them out, and have written those which are of the Spirit, ye departing, and giving up your hearts to the works of the devil, give him again power to substitute his own characters in you. What then will be the end of all this, even without any words of mine, each man’s own conscience knoweth. For I indeed will
 
-Is. xxix. 13; comp. [[Mark 07#^7-6|Mark vii. 6]].
+505 Is. xxix. 13; comp. [[Mark 07#^7-6|Mark vii. 6]].
 
 *[p. 140]* ^pg148
 
@@ -238,7 +238,7 @@ Do this with respect to vainglory also. For if thou train thyself not to be vain
 
 And with respect to the other passions too, let us do this self-same thing, exercising ourselves against them at home, and anointing ourselves every day.
 
-[^506]: \[The first clause stands independently in the Greek text, forming the conclusion of the preceding paragraph. The new exhortation begins, “But I beseech again,” etc.—R.\] στχον.
+[^506]: \[The first clause stands independently in the Greek text, forming the conclusion of the preceding paragraph. The new exhortation begins, “But I beseech again,” etc.—R.\] 507 στχον.
 
 *[p. 141]* ^pg149
 
@@ -266,7 +266,7 @@ For this cause, let me add, John also by way of anticipation said all that he ha
 
 And he said not, “And art Thou baptized of me?” nay, for this he feared to say: but what? “And comest Thou to me?” What then doth Christ? What He did afterwards with respect to Peter, this did He then also. For so he too would have forbidden Him to wash his feet, but when he had heard, “What I do thou knowest not now, but thou shalt know hereafter,” and “thou hast no part with me,”<sup>509</sup>he speedily withdrew from his determination, and went over to the contrary. And this man again in like manner, when he had heard, “Suffer it to be so now, for thus it becometh us to fulfill all righteousness,”<sup>510</sup>straightway obeyed. For
 
-508 [[Matthew 03#^3-14|Matt. iii. 14]]. 509 [[John 13#^13-7|John xiii. 7]], [[John 13#^13-8|8]]. [[Matthew 03#^3-15|Matt. iii. 15]]. \[R.V., “Suffer *it* (or *me*) now, for thus it becometh,” etc.—R.\]
+508 [[Matthew 03#^3-14|Matt. iii. 14]]. 509 [[John 13#^13-7|John xiii. 7]], [[John 13#^13-8|8]]. 510 [[Matthew 03#^3-15|Matt. iii. 15]]. \[R.V., “Suffer *it* (or *me*) now, for thus it becometh,” etc.—R.\]
 
 *[p. 143]* ^pg151
 
@@ -280,7 +280,7 @@ And He did not merely say, “suffer,” but He added, “now.” “For it will
 
 For inasmuch as many supposed that John was greater than He, because John had been brought up all his time in the wilderness, and was son of a chief priest, and was clothed with such raiment, and was calling all men unto his baptism, and had been born of a barren mother; while Jesus, first of all, was of a damsel of ordinary rank (for the virgin birth was not yet manifest to all); and besides, He had been brought up in an house, and held converse with all men, and wore this common raiment; they suspected Him to be less than John, knowing as yet nothing of those secret things;—and it fell out moreover that He was baptized of John, which thing added support to this surmise, even if none of those mentioned before had existed; for it would come into their mind that this man was one of the many (for were He not one of the many, He would not have come with the many to the baptism), but that John was greater than He and far more admirable:—in order therefore that this opinion might not prevail with the multitude, the very heavens are opened, when He is baptized, and the Spirit comes down, and a voice with the Spirit, proclaiming the dignity of the Only
 
-[[Matthew 03#^3-15|Matt. iii. 15]], [[Matthew 03#^3-16|16]]. \[R.V., “from the water,” and “coming” for “lighting.”—R.\]
+511 [[Matthew 03#^3-15|Matt. iii. 15]], [[Matthew 03#^3-16|16]]. \[R.V., “from the water,” and “coming” for “lighting.”—R.\]
 
 *[p. 144]* ^pg152
 
@@ -296,7 +296,7 @@ But let our argument with the Jews stand over unto some other time; for the pres
 
 Wherefore were the heavens opened? To inform thee that at thy baptism also this is done, God calling thee to thy country on high, and persuading thee to have nothing to do with earth. And if thou see not, yet never doubt it. For so evermore at the beginnings of all wonderful and spiritual transactions, sensible visions appear, and such-like signs, for the sake of them that are somewhat dull in disposition, and who have need of outward sight,
 
-74 Is. v. 4. \[Chrysostom varies from the LXX., introducing με δει, to strengthen his argument.—R.\] 512
+74 512 Is. v. 4. \[Chrysostom varies from the LXX., introducing με δει, to strengthen his argument.—R.\] 513 [[Matthew 03#^3-16|Matt. iii. 16]].
 
 *[p. 145]* ^pg153
 
@@ -308,7 +308,7 @@ But why in the fashion of a dove? Gentle is that creature, and pure. Forasmuch t
 
 Reflect now on the greatness of the gift, and do not account His dignity the less for His appearing in such a likeness. For I actually hear some saying,<sup>519</sup>that “such as is the difference between a man and a dove, so great is that between Christ and the Spirit: since the one appeared
 
-514 [[Acts 02#^2-2|Acts ii. 2]]. 515 [[1 Corinthians 14#^14-22|1 Cor. xiv. 22]]. 516 [[Galatians 06#^6-1|Gal. vi. 1]]. \[The immediate reference in [[Galatians 06#^6-1|Gal. vi. 1]] is not to the Holy Spirit, yet there is a suggestion of the influence of the Holy Spirit.—R.\] 517 Gen. viii. 518 [[2 Corinthians 09#^9-15|2 Cor. ix. 15]]. *i.e*., the Macedonians, who were censured at Constantinople, A.D. 381.
+514 [[Acts 02#^2-2|Acts ii. 2]]. 515 [[1 Corinthians 14#^14-22|1 Cor. xiv. 22]]. 516 [[Galatians 06#^6-1|Gal. vi. 1]]. \[The immediate reference in [[Galatians 06#^6-1|Gal. vi. 1]] is not to the Holy Spirit, yet there is a suggestion of the influence of the Holy Spirit.—R.\] 517 Gen. viii. 518 [[2 Corinthians 09#^9-15|2 Cor. ix. 15]]. 519 *i.e*., the Macedonians, who were censured at Constantinople, A.D. 381.
 
 *[p. 146]* ^pg154
 
@@ -320,7 +320,7 @@ Do not now, I pray thee, become unthankful towards thy Benefactor nor with the v
 
 Having then all this in thy mind, do thou show forth a life worthy of the love of Him who calls thee, and of thy citizenship in that world, and of the honor that is given thee. Crucified as thou art to the world, and having crucified it to thyself, show thyself with all strictness a citizen of the city of the heavens. And do not, because thy body is not translated
 
-520 “The contraries:” for whereas the Spirit came to exalt, and make us partakers of the Divine Nature, the heretics would degrade Him to something like our own. \[παραδιδναι; “hand down” would express the sense more clearly.—R.\]
+520 “The contraries:” for whereas the Spirit came to exalt, and make us partakers of the Divine Nature, the heretics would degrade Him to something like our own. 521 \[παραδιδναι; “hand down” would express the sense more clearly.—R.\]
 
 [^522]: \[The sentence in the Greek is not negative but affirmative: “Then assuredly” both these events occurred.—R.\]
 
@@ -334,7 +334,7 @@ Now then, having to partake of such blessings, do I see thee minding money, and 
 
 For if he who had paradise for his portion, for one disobedience underwent such dreadful things after his honor; we, who have received Heaven, and are become joint heirs with the Only Begotten, what excuse shall we have, for running to the serpent after the dove? For it will be no longer, “Dust thou art, and unto dust shalt thou return,”<sup>523</sup>and thou “tillest the ground,”<sup>524</sup>and those former words, that will be said to us;<sup>525</sup>but what is far more grievous than these, the “outer darkness,”<sup>526</sup>the bonds that may not be burst, the venomous worm, the “gnashing of teeth;” and this with great reason. For he that is not made better
 
-523 Gen. iii. 19. Gen. iv. 12. \[The LXX. has γ in both passages. The verbal suggestion of the original may be retained by 524 rendering: “Earth thou art, and unto earth thou shalt return,” and thou “tillest the earth.”—R.\] 525 \[Literally, “that we shall hear.”—R.\]
+523 Gen. iii. 19. 524 Gen. iv. 12. \[The LXX. has γ in both passages. The verbal suggestion of the original may be retained by rendering: “Earth thou art, and unto earth thou shalt return,” and thou “tillest the earth.”—R.\] 525 \[Literally, “that we shall hear.”—R.\]
 
 526 [[Matthew 25#^25-30|Matt. xxv. 30]].
 
@@ -350,9 +350,9 @@ How then is it not of the utmost folly, where destruction and waste is the lot o
 
 Therefore I say we shall suffer the utmost punishment, departing thither naked and poor; or rather it will not be for our own poverty that we shall undergo these irremediable calamities, but also for our making others to be such as ourselves. For when heathens see
 
-\[δναμι \] 527
+527 \[δναμι \]
 
-\[῞Ελληνε.\] “Greeks.” But the ecclesiastical use is correctly given in the translation. In the New Testament, 528 the term was equivalent to “Gentiles,” as opposed to Jews; but was afterwards applied to heathen as opposed to Christians. See Sophocles *Greek Lexicon* of the Roman and Byzantine periods, *sub voce*.—R.\]
+528 \[῞Ελληνε.\] “Greeks.” But the ecclesiastical use is correctly given in the translation. In the New Testament, the term was equivalent to “Gentiles,” as opposed to Jews; but was afterwards applied to heathen as opposed to Christians. See Sophocles *Greek Lexicon* of the Roman and Byzantine periods, *sub voce*.—R.\]
 
 *[p. 149]* ^pg157
 
@@ -360,7 +360,7 @@ them that have partaken of so great mysteries earnest about these matters, much 
 
 Considering then all these things, let us loose the bands of such deceit, that we may not at all fall into those things which deliver us over to the unquenchable fire. For he that is a slave to money, the chains both here and there will have him continually liable to them; but he that is rid of this desire will attain to freedom from both. Unto which that we also may attain, let us break in pieces the grievous yoke of avarice, and make ourselves wings toward Heaven; by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
 
-\[ἐπισφγγωμεν, The verb means “to bind tight,” and is variously applied.—R.\]
+529 \[ἐπισφγγωμεν, The verb means “to bind tight,” and is variously applied.—R.\]
 
 *[p. 150]* ^pg158
 
@@ -380,7 +380,7 @@ How then saith He, “Pray that ye enter not into temptation.”<sup>530</sup> F
 
 And see whither the Spirit led Him up, when He had taken Him; not into a city and forum, but into a wilderness. That is, He being minded to attract the devil, gives him a handle not only by His hunger, but also by the place. For then most especially doth the devil assail, when he sees men left alone, and by themselves. Thus did he also set upon the woman in the beginning, having caught her alone, and found her apart from her husband. Just as when he sees us with others and banded together, he is not equally confident, and
 
-530 Matt. xxvi. 41. κατ τν λγον τ οκονομα.
+530 Matt. xxvi. 41. 531 κατ τν λγον τ οκονομα.
 
 *[p. 151]* ^pg159
 
@@ -392,7 +392,7 @@ On this account then even He too fasts forty days, pointing out to us the medici
 
 Having then fasted forty days and as many nights, “He was afterwards an hungered;<sup>538</sup>” affording him a point to lay hold of and approach, that by actual conflict He might show how to prevail and be victorious. Just so do wrestlers also: when teaching their pupils how to prevail and overcome, they voluntarily in the lists
 
-78 532 [[Mark 01#^1-13|Mark i. 13]]. \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 533 \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 534 535 Ezek. xvi. 49. 536 Isa. v. 11, 12. οκονομα, that is, the assumption of humanity. \[Justin Martyr and Ignatius so use the term; see reffs. in 537 Sophocles, *Greek Lexicon*, etc., *sub voce*.—R.\]
+78 532 [[Mark 01#^1-13|Mark i. 13]]. \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 533 \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 534 535 Ezek. xvi. 49. 536 Isa. v. 11, 12. οκονομα, that is, the assumption of humanity. \[Justin Martyr and Ignatius so use the term; see reffs. in 537 Sophocles, *Greek Lexicon*, etc., *sub voce*.—R.\] 538 [[Matthew 04#^4-2|Matt. iv. 2]].
 
 *[p. 152]* ^pg160
 
@@ -408,7 +408,7 @@ What then saith Christ? To put down his pride, and to signify that there was not
 
 So that He begins with the necessity of the belly. But mark, I pray thee, the craft of that wicked demon, and whence he begins his wrestlings, and how he doth not forget his proper art. For by what means he cast out also the first man, and encompassed him with thousands of other evils, with the same means here likewise he weaves his deceit; I mean, with incontinence of the belly. So too even now one may hear many foolish ones say their bad words by thousands because of the belly. But Christ, to show that the virtuous man is not compelled even by this tyranny to do anything that is unseemly, first hungers, then submits not to what
 
-539 [[Matthew 04#^4-3|Matt. iv. 3]].
+539 [[Matthew 04#^4-3|Matt. iv. 3]]. 540 [[Matthew 04#^4-4|Matt. iv. 4]].
 
 *[p. 153]* ^pg161
 
@@ -426,7 +426,7 @@ But if a man say, “still He should have displayed Himself;” I would ask him,
 
 What can the reason be, that at each temptation He adds this, “If Thou be Son of God?” Much the same as he did in that former case, he doth also at this time. That is, as he then slandered God, saying, “In the day ye eat, your eyes shall be opened;”<sup>546</sup>thereby intending
 
-541 \[Here “demons” is the more correct rendering.—R.\] 542 \[Here “demons” is the more correct rendering.—R.\] 543 [[Acts 16#^16-18|Acts xvi. 18]]. \[ἐλγξ, “might convince,” “argue over.”—R.\] 544 545 [[Matthew 04#^4-6|Matt. iv. 6]]. Gen. iii. 5.
+541 \[Here “demons” is the more correct rendering.—R.\] 542 \[Here “demons” is the more correct rendering.—R.\] 543 [[Acts 16#^16-18|Acts xvi. 18]]. 544 \[ἐλγξ, “might convince,” “argue over.”—R.\] 545 [[Matthew 04#^4-6|Matt. iv. 6]]. 546 Gen. iii. 5.
 
 *[p. 154]* ^pg162
 
@@ -442,7 +442,7 @@ But marvel thou not, if he in reasoning with Christ oftentimes turn himself abou
 
 5\. “And he leadeth Him up into a high mountain, and showeth Him all the kingdoms, and saith, All these things will I give Thee, if Thou wilt fall down and worship me. Then saith He, Get thee behind me, Satan, for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve.”<sup>548</sup>
 
-547 [[Matthew 04#^4-7|Matt. iv. 7]].
+547 [[Matthew 04#^4-7|Matt. iv. 7]]. 548 [[Matthew 04#^4-8|Matt. iv. 8–10]].
 
 *[p. 155]* ^pg163
 
@@ -454,7 +454,7 @@ How then are we to get the better of him? In the way which Christ that taught us
 
 “And, behold, angels came and ministered unto Him.”<sup>551</sup> For when the assault was going on, He suffered them not to appear, that He might not thereby drive away the prey; but after He had convicted him in all points, and caused him to take to flight, then they appear
 
-549 \[[[Luke 04#^4-13|Luke iv. 13]]. The form of the passage is changed by Chrysostom, but the words are identical. The R.V. renders: “And when the devil had completed every temptation.” Chrysostom puts the emphasis on the word “every,” as his argument shows.—R.\] [[Luke 04#^4-13|Luke iv. 13]]. \[In [[Luke 04#^4-13|Luke iv. 13]], the reading is ἄχρι καιρο, but Chrysostom has ἕω καιρο, apparently accepting 550 the sense given in the R.V. margin: “until a season,” which has much to recommend it.—R.\]
+549 \[[[Luke 04#^4-13|Luke iv. 13]]. The form of the passage is changed by Chrysostom, but the words are identical. The R.V. renders: “And when the devil had completed every temptation.” Chrysostom puts the emphasis on the word “every,” as his argument shows.—R.\] 550 [[Luke 04#^4-13|Luke iv. 13]]. \[In [[Luke 04#^4-13|Luke iv. 13]], the reading is ἄχρι καιρο, but Chrysostom has ἕω καιρο, apparently accepting the sense given in the R.V. margin: “until a season,” which has much to recommend it.—R.\] 551 [[Matthew 04#^4-11|Matt. iv. 11]].
 
 *[p. 156]* ^pg164
 
@@ -465,6 +465,8 @@ How then are we to get the better of him? In the way which Christ that taught us
 Or should he, offering glory and dominion, and an endless amount of wealth, enjoin thee to worship him, do thou stand again manfully. For neither did the devil deal so with the common Lord of us all only, but every day also he brings these his machinations to bear on each of His servants, not in mountains only and in wildernesses, nor by himself: but in cities likewise, in market-places, and in courts of justice, and by means of our own kindred, even men. What then must we do? Disbelieve him altogether, and stop our ears against him, and hate him when he flatters, and when he proffers more, then so much the more shun him. Because in Eve’s case also, when he was most lifting her up with hopes, then he cast her down, and did her the greatest evils. Yea, for he is an implacable enemy, and hath taken up against us such war as excludes all treaty. And we are not so earnest for our own salvation, as he is for our ruin. Let us then shun him, not with words only, but also with works; not in mind only, but also in deed; and let us do none of the things which he approves, for so shall we do all those which God approves. Yea, for he makes also many promises, not that he may give, but that he may take. He promises by rapine, that he may deprive us of the kingdom, and of righteousness; and sets treasures in the earth as a kind of gins or traps, that he may deprive us both of these and of the treasures in Heaven, and he would have us be rich here, that we may not be rich there.
 
 And if he should not be able by wealth to cast us out of our portion there, he comes 81 another way, the way of poverty; as he did with respect to Job. That is, when he saw that wealth did him no harm, he weaves his toils by poverty, expecting on that side to get the better of him. But what could be more foolish than this? Since he that hath been able to bear wealth with moderation, much more will he bear poverty with manliness; and he who desires not riches when present, neither will he seek them when absent; even as that blessed man did not, but by his poverty, on the other hand, he became still more glorious. For of his possessions that wicked demon had power indeed to deprive him, but his love toward God
+
+552 [[Luke 16#^16-22|Luke xvi. 22]].
 
 *[p. 157]* ^pg165
 
@@ -478,15 +480,15 @@ See for instance how much long-suffering Pharaoh met with, and afterwards underw
 
 Yet for all this some are so cold and senseless, as to be always seeking only the things that are here, and uttering those absurd sayings, “Let me enjoy all things present for a time, and then I will consider about things out of sight: I will gratify my belly, I will be a slave to
 
-διακωδνισα .
+553 διακωδνισα .
 
-553 554
+554
 
 “Curse God and die,” Job ii. 9.
 
-\[τι τν ο προηκντων.—R.\] 555
+555 \[τι τν ο προηκντων.—R.\]
 
-[[Hebrews 12#^12-6|Heb. xii. 6]].
+556 [[Hebrews 12#^12-6|Heb. xii. 6]].
 
 *[p. 158]* ^pg166
 
@@ -526,9 +528,9 @@ And how can this be reasonable? Why, these things, if we be silent “the stones
 
 Having then considered all these things, and having convinced our own soul, that after our departure hence, we shall both stand at the fearful judgment-seat, and give account of
 
-φιλοτιμαν .
+559 φιλοτιμαν . 560 [[Luke 19#^19-40|Luke xix. 40]].
 
-559
+
 
 *[p. 161]* ^pg169
 
@@ -550,15 +552,15 @@ Then implying that they did not of themselves seek and find, but that God showed
 
 2\. “From that time Jesus began to preach and to say, Repent; for the kingdom of heaven is at hand.”
 
-\[το πειρασμο: here including “trials” of every kind.—R.\] 561 562
+561 \[το πειρασμο: here including “trials” of every kind.—R.\]
 
-[[Matthew 04#^4-14|Matt. iv. 14]], and Is. ix. 1, 2.
+562 [[Matthew 04#^4-14|Matt. iv. 14]], and Is. ix. 1, 2.
 
 563
 
-\[R.V., “Toward the sea, *Greek*, the way of the sea.” The text is cited accurately in the Homily.—R.\] 564
+\[R.V., “Toward the sea, *Greek*, the way of the sea.” The text is cited accurately in the Homily.—R.\]
 
-[[Matthew 04#^4-15|Matt. iv. 15]], [[Matthew 04#^4-16|16]]; see Is. ix. 1, 2.
+564 [[Matthew 04#^4-15|Matt. iv. 15]], [[Matthew 04#^4-16|16]]; see Is. ix. 1, 2. 565 [[John 01#^1-9|John i. 9]].
 
 *[p. 163]* ^pg171
 
@@ -574,4 +576,4 @@ Again, if even after so many divine precautions,<sup>569</sup> John’s disciple
 
 566 [[Luke 01#^1-76|Luke i. 76]].
 
-[^567]: [[Matthew 11#^11-18|Matt. xi. 18]], [[Matthew 11#^11-19|19]]. \[The citation is from Matthew, not Luke, but the last clause in the R.V. reads: “And wisdom is justified by her works.” Comp. however, the margin and [[Luke 07#^7-35|Luke vii. 35]].—R.\] 568 [[John 08#^8-13|John viii. 13]]. τοσοτων οκονομηθντων .
+[^567]: [[Matthew 11#^11-18|Matt. xi. 18]], [[Matthew 11#^11-19|19]]. \[The citation is from Matthew, not Luke, but the last clause in the R.V. reads: “And wisdom is justified by her works.” Comp. however, the margin and [[Luke 07#^7-35|Luke vii. 35]].—R.\] 568 [[John 08#^8-13|John viii. 13]]. 569 τοσοτων οκονομηθντων .

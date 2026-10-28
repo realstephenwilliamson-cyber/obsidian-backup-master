@@ -20,7 +20,7 @@ thrice over, He also gave him thrice over the self-same charge to feed His sheep
 
 1247 [[John 21#^21-15|John xxi. 15–17]]. 1248 [[John 13#^13-33|John xiii. 33–36]]. 1249 [[John 13#^13-37|John xiii. 37]].
 
-1250 [[Luke 22#^22-31|Luke xxii. 31–33]]. 1251 [[Matthew 26#^26-30|Matt. xxvi. 30–32]].
+1250 [[Luke 22#^22-31|Luke xxii. 31–33]]. 1251 [[Matthew 26#^26-30|Matt. xxvi. 30–32]]. 1252 [[Mark 14#^14-26|Mark xiv. 26–28]].
 
 
 *[p. 406]* ^pg432
@@ -40,7 +40,7 @@ put in so general a form what the Lord said with regard to the manner in which t
 
 before the cock should crow, Peter was to deny Him thrice. On the other hand, if \[we suppose that\] he went through the whole triple denial before the cock began to crow at all, then Mark will be made to underlie the charge of having given a superfluous statement when he puts these words into the Lord’s mouth: “Verily I say unto thee, That this day, before the cock crow twice, thou shall deny me thrice.” For to what purpose would it be to say, “before the cock crow twice,” when, on the supposition that this entire threefold denial was gone through previous to the first crowing of the cock, it is self-evident that a negation, which would thus be proved to have been completed before the first cockcrow, must also, as matter of course, be understood to have been fully uttered before the second cockcrow and before the third, and, in short, before all the cockcrowings which took place on that same night? But, inasmuch as this threefold denial was begun previous to the first crowing of the cock, those three evangelists concerned themselves with noticing, not the time at which Peter was to complete it, but the extent <sup>1255</sup> to which it was to be carried, and the period at which it was to commence; that is to say, their object was to bring out the facts that it was to be thrice repeated, and that it was to begin previous to the cockcrowing. At the same time, so far as the man’s own mind is concerned, we might also quite well understand it to have been engaged in, as a whole, previous to the first cockcrow. For although it is true that, so far as regards the actual utterance of the individual who was guilty of the denial, that threefold negation was only entered upon previous to the first cockcrow, and really finished before the second cockcrow, still it is equally true that, in so far as the disposition of mind and the apprehensions indulged by Peter were concerned, it was conceived,<sup>1256</sup> as a whole, before the first cockcrow. Neither is it a matter of any consequence of what duration those intervals of delay were which elapsed between the several utterances of that thrice-recurring voice, if it is the case that the denial completely possessed his heart even previous to the first cockcrow,—in consequence, indeed, of his having imbibed a spirit of terror so abject as to make him capable of denying the Lord when he was questioned regarding Him, not only once, but a second time, and even a third time. Thus, a more correct and careful consideration of the matter might show us<sup>1257</sup> that, precisely as it is declared that the man who looketh on a woman to lust after her has committed adultery with her already in his heart,<sup>1258</sup> so, in the present instance, inasmuch as in the words which he spoke, Peter merely expressed the apprehension which he had already conceived with such intensity in his mind as to make it capable of
 
-180 1255 Reading *quanta futura esset*. *Quando* also occurs for *quanta*, in which case the sense would be = the period at which it was to take place. 1256 Adopting *concepta est*. There is another reading, *coepta est* = it was commenced. 1257 The text gives simply: *ut rectius diligentiusque attendentibus*. Migne states that in six mss. *videtur* is added = it seems to those who consider the matter more correctly, etc.
+180 1255 Reading *quanta futura esset*. *Quando* also occurs for *quanta*, in which case the sense would be = the period at which it was to take place. 1256 Adopting *concepta est*. There is another reading, *coepta est* = it was commenced. 1257 The text gives simply: *ut rectius diligentiusque attendentibus*. Migne states that in six mss. *videtur* is added = it seems to those who consider the matter more correctly, etc. 1258 [[Matthew 05#^5-28|Matt. v. 28]].
 
 *[p. 408]* ^pg434
 
@@ -50,7 +50,7 @@ enduring even on to a third repetition of his denial of the Lord, this threefold
 
 8\. If, however, the demand is to get at the very words, literally and completely, which the Lord addressed to Peter, we answer that it is impossible to discover these; and further, that it is simply superfluous to ask them, inasmuch as the speaker’s meaning—to intimate which was the object He had in view in uttering the words—admits of being understood with the utmost plainness, even under the diverse terms employed by the evangelists. And whether, then, it be the case that Peter, instigated at different occasions in the course of the Lord’s sayings, made his presumptuous declaration three several times, and had his denial foretold him thrice over by the Lord, as is the more probable result to which our investigation points us; or whether it may appear that the accounts given by all the evangelists are capable of being reduced to a single statement, when a certain order of narration is adopted, so that it could be proved that it was only on one occasion that the Lord predicted to Peter, on the exhibition of his presumptuous spirit, the fact that he would deny Him;—in either case, any contradiction between the evangelists will fail to be detected, as nothing of that nature really exists.
 
-The text gives *eum*. Another common reading is *eam* = it, *i.e.* his mind.
+1259 The text gives *eum*. Another common reading is *eam* = it, *i.e.* his mind.
 
 *[p. 409]* ^pg435
 
@@ -71,7 +71,7 @@ Chapter III.—Of the Manner in Which It Can Be Shown that No Discrepancies Exis
 
 written must yet be accomplished in me, And He was reckoned among the transgressors: for the things concerning me have an end. And they said, Lord, behold, here are two swords. And He said unto them, It is enough.”<sup>1264</sup> Next comes the passage, given both by Matthew and by Mark: “And when they had sung an hymn, they went out into the Mount of Olives. Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the Shepherd, and the sheep of the flock shall be scattered abroad. But after I am risen again, I will go before you into Galilee. Peter answered and said unto Him, Though all men shall be offended because of Thee, yet will I never be offended. Jesus saith unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice. Peter saith unto Him, Though I should die with Thee, yet will I not deny Thee. Likewise also said all the disciples.”<sup>1265</sup> We have introduced the preceding section as it is presented by Matthew. But Mark also records it almost in so many and the same words, with the exception of the apparent discrepancy, which we have already cleared up above, on the subject of the crowing of the cock.
 
-1264 [[Luke 22#^22-31|Luke xxii. 31–38]]. \[The conversation in regard to the swords (vers. 35–38) probably preceded the discourse reported by John (xiv.-xvii.).—R.\]
+1264 [[Luke 22#^22-31|Luke xxii. 31–38]]. \[The conversation in regard to the swords (vers. 35–38) probably preceded the discourse reported by John (xiv.-xvii.).—R.\] 1265 [[Matthew 26#^26-30|Matt. xxvi. 30–35]].
 
 
 *[p. 411]* ^pg437
@@ -84,7 +84,7 @@ Chapter IV.—Of What Took Place in the Piece of Ground or Garden to Which They 
 
 1266 [[Matthew 26#^26-36|Matt. xxvi. 36–46]]. 1267 [[Mark 14#^14-32|Mark xiv. 32–42]]. 1268 [[Luke 22#^22-39|Luke xxii. 39–46]]. 1269 [[John 18#^18-1|John xviii. 1]].
 
-1270 \[“Go yonder and pray;” so the Latin, as well as the Greek text. Comp. Revised Version, which in some other instances, in the passage here cited, agrees more closely with Augustin’s text than does the Authorized Version.—R.\]
+1270 \[“Go yonder and pray;” so the Latin, as well as the Greek text. Comp. Revised Version, which in some other instances, in the passage here cited, agrees more closely with Augustin’s text than does the Authorized Version.—R.\] 1271 [[Matthew 26#^26-36|Matt. xxvi. 36–46]].
 
 
 *[p. 412]* ^pg438
@@ -95,7 +95,7 @@ Chapter IV.—Of What Took Place in the Piece of Ground or Garden to Which They 
 
 12\. Luke, on the other hand, has omitted to mention the number of times that He prayed. He has told us, however, a fact which is not recorded by the others—namely, that when He prayed He was strengthened by an angel, and that, as He prayed more earnestly, He had a bloody sweat, with drops falling down to the ground. Thus it appears that when he makes the statement, “And when He rose up from prayer, and was come to His disciples,” he does not indicate how often He had prayed by that time. But still, in so doing, he does not stand in any kind of antagonism to the other two. Moreover, John does indeed mention how He entered into the garden along with His disciples. But he does not relate how He was occupied there up to the period when His betrayer came in along with the Jews to apprehend Him.
 
-[[Mark 14#^14-41|Mark xiv. 41]]. \[On the various explanations of this difficult passage, see commentaries.—R.\]
+1272 [[Mark 14#^14-41|Mark xiv. 41]]. \[On the various explanations of this difficult passage, see commentaries.—R.\]
 
 *[p. 413]* ^pg439
 
@@ -105,7 +105,7 @@ Chapter IV.—Of What Took Place in the Piece of Ground or Garden to Which They 
 
 14\. Again, as to Mark’s mentioning that the Lord said not only “Father,” but “Abba, Father,” the explanation simply is, that “Abba” is in Hebrew exactly what “Pater” is in Latin. And perhaps the Lord may have used both words with some kind of symbolical significance, 183 intending to indicate thereby, that in sustaining this sorrow He bore the part of His body, which is the Church, of which He has been made the corner-stone, and which comes to Him \[in the person of disciples gathered\] partly out of the Hebrews, to whom He refers when He says “Abba,” and partly out of the Gentiles, to whom He refers when He says “Pater” \[Father\].<sup>1273</sup> The Apostle Paul also makes use of the same significant expression.
 
-See [[Ephesians 02#^2-11|Eph. ii. 11–22]].
+1273 See [[Ephesians 02#^2-11|Eph. ii. 11–22]].
 
 *[p. 414]* ^pg440
 
@@ -113,7 +113,7 @@ See [[Ephesians 02#^2-11|Eph. ii. 11–22]].
 
 For he says, “In whom we cry, Abba, Father;”<sup>1274</sup> and, in another passage, “God sent His Spirit into your hearts, crying, Abba, Father.”<sup>1275</sup> For it was meet that the good Master and true Saviour, by sharing in the sufferings of the more infirm,<sup>1276</sup> should in His own person illustrate the truth that His witnesses ought not to despair, although it might perchance happen that, through human frailty, sorrow might steal in upon their hearts at the time of suffering; seeing that they would overcome it if, mindful that God knows what is best for those whose well-being He regards, they gave His will the preference over their own. On this subject, however, as a whole, the present is not the time for entering on any more detailed discussion. For we have to deal simply with the question concerning the harmony of the evangelists, from whose varied modes of narration we gather the wholesome lesson that, in order to get at the truth, the one essential thing to aim at in dealing with the terms is simply the intention which the speaker had in view in using them. For the word “Father” means just the same as the phrase “Abba, Father.” But with a view to bring out the mystic significance, the expression, “Abba, Father,” is the clearer form; while, for indicating the unity, the word “Father” is sufficient. And that the Lord did indeed employ this method of address, “Abba, Father,” must be accepted as matter of fact. But still His intention would not appear very obvious were there not the means (since others use simply the term “Father”) to show that under such a form of expression those two Churches, which are constituted, the one out of the Jews, and the other out of the Gentiles, are presented as also really one. In this way, then, \[we may suppose that\] the phrase, “Abba, Father,” was adopted in order to convey the same idea as was indicated by the Lord on another occasion, when He said, “Other sheep I have which are not of this fold.”<sup>1277</sup> In these words He certainly referred to the Gentiles, since He had sheep also among the people of Israel. But in that passage He goes on immediately to add the declaration, “Them also I must bring, that there may be one fold and one Shepherd.” And so we may say that, just as the phrase, “Abba, Father,” contains the idea of \[the two races,\] the Israelites and the Gentiles, the word “Father,” used alone, points to the one flock which these two constitute.
 
-1274 [[Romans 08#^8-15|Rom. viii. 15]]. 1275 [[Galatians 04#^4-6|Gal. iv. 6]]. 1276 Or = having compassion on the more infirm; *infirmioribus compatiens*.
+1274 [[Romans 08#^8-15|Rom. viii. 15]]. 1275 [[Galatians 04#^4-6|Gal. iv. 6]]. 1276 Or = having compassion on the more infirm; *infirmioribus compatiens*. 1277 [[John 10#^10-16|John x. 16]].
 
 
 *[p. 415]* ^pg441
@@ -128,7 +128,7 @@ Chapter V.—Of the Accounts Which are Given by All the Four Evangelists in Rega
 
 184 1278 [[Matthew 26#^26-47|Matt. xxvi. 47–56]]; [[Mark 14#^14-43|Mark xiv. 43–50]]. 1279 [[Luke 12#^12-48|Luke xii. 48]].
 
-1280 [[John 18#^18-4|John xviii. 4–9]]. \[This passage is more naturally placed before the kissing by Judas.—R.\] 1281 [[Luke 22#^22-51|Luke xxii. 51]]. 1282 [[Matthew 26#^26-52|Matt. xxvi. 52–55]].
+1280 [[John 18#^18-4|John xviii. 4–9]]. \[This passage is more naturally placed before the kissing by Judas.—R.\] 1281 [[Luke 22#^22-51|Luke xxii. 51]]. 1282 [[Matthew 26#^26-52|Matt. xxvi. 52–55]]. 1283 [[John 18#^18-11|John xviii. 11]].
 
 
 *[p. 416]* ^pg442
@@ -148,7 +148,7 @@ sense which would show Him to have expressed approval on this occasion of the vo
 
 18\. After this, Matthew continues the narrative, and mentions that in that hour He addressed the multitude as follows: “Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.”<sup>1285</sup> Then He added also certain words, which Luke introduces thus: “But this is your hour, and the power of darkness.”<sup>1286</sup> Next comes the sentence given by Matthew: “But all this was done that the Scriptures of the prophets might be fulfilled. Then all the disciples forsook Him and fled.” This last fact is recorded also by Mark. The same evangelist makes also the following addition: “And there followed Him a certain young man, having a linen cloth cast about his naked body; and when they laid hold on him, he left the linen cloth, and fled from 185 them naked.” <sup>1287</sup>
 
-1285 [[Matthew 26#^26-53|Matt. xxvi. 53]]. 1286 [[Luke 22#^22-53|Luke xxii. 53]].
+1285 [[Matthew 26#^26-53|Matt. xxvi. 53]]. 1286 [[Luke 22#^22-53|Luke xxii. 53]]. 1287 [[Mark 14#^14-52|Mark xiv. 52]].
 
 
 *[p. 418]* ^pg444
@@ -163,7 +163,7 @@ Chapter VI.—Of the Harmony Characterizing the Accounts Which These Evangelists
 
 1288 [[Matthew 26#^26-57|Matt. xxvi. 57]]. 1289 [[John 18#^18-13|John xviii. 13]].
 
-1290 [[Mark 14#^14-53|Mark xiv. 53]]; [[Luke 22#^22-54|Luke xxii. 54]]. 1291 [[John 18#^18-12|John xviii. 12]]. 1292 [[Matthew 26#^26-58|Matt. xxvi. 58]]. 1293 [[Mark 14#^14-54|Mark xiv. 54]]. 1294 [[Luke 22#^22-54|Luke xxii. 54]], [[Luke 22#^22-55|55]]. 1295 [[John 18#^18-15|John xviii. 15–18]]. 1296 \[It is implied here that the denials of Peter took place in the house of Annas, and also that Matthew and Mark, in their account of the night examination, refer to the same event described by John (xviii. 19–23). The objection to this is found in the explicit statement of Matthew (xxvi. 57) in regard to Caiaphas.—R.\]
+1290 [[Mark 14#^14-53|Mark xiv. 53]]; [[Luke 22#^22-54|Luke xxii. 54]]. 1291 [[John 18#^18-12|John xviii. 12]]. 1292 [[Matthew 26#^26-58|Matt. xxvi. 58]]. 1293 [[Mark 14#^14-54|Mark xiv. 54]]. 1294 [[Luke 22#^22-54|Luke xxii. 54]], [[Luke 22#^22-55|55]]. 1295 [[John 18#^18-15|John xviii. 15–18]]. 1296 \[It is implied here that the denials of Peter took place in the house of Annas, and also that Matthew and Mark, in their account of the night examination, refer to the same event described by John (xviii. 19–23). The objection to this is found in the explicit statement of Matthew (xxvi. 57) in regard to Caiaphas.—R.\] 1297 [[Matthew 26#^26-59|Matt. xxvi. 59]], [[Matthew 26#^26-60|60]].
 
 
 *[p. 419]* ^pg445
@@ -176,7 +176,7 @@ ation, that “their witness agreed not together.”<sup>1298</sup> But, as Matt
 
 1298 [[Mark 14#^14-56|Mark xiv. 56]]. 1299 [[Matthew 26#^26-61|Matt. xxvi. 61]].
 
-1300 [[Mark 14#^14-57|Mark xiv. 57–59]]. 1301 [[Matthew 26#^26-62|Matt. xxvi. 62–64]]. 1302 [[Mark 14#^14-62|Mark xiv. 62]]. 1303 [[Mark 14#^14-62|Mark xiv. 62]]. 1304 [[Matthew 26#^26-65|Matt. xxvi. 65]], [[Matthew 26#^26-66|66]]. 1305 [[Matthew 26#^26-67|Matt. xxvi. 67]], [[Matthew 26#^26-68|68]].
+1300 [[Mark 14#^14-57|Mark xiv. 57–59]]. 1301 [[Matthew 26#^26-62|Matt. xxvi. 62–64]]. 1302 [[Mark 14#^14-62|Mark xiv. 62]]. 1303 [[Mark 14#^14-62|Mark xiv. 62]]. 1304 [[Matthew 26#^26-65|Matt. xxvi. 65]], [[Matthew 26#^26-66|66]]. 1305 [[Matthew 26#^26-67|Matt. xxvi. 67]], [[Matthew 26#^26-68|68]]. 1306 [[Mark 14#^14-65|Mark xiv. 65]].
 
 
 *[p. 420]* ^pg446
@@ -191,7 +191,7 @@ Peter’s temptation, and only after that the reproaches borne by the Lord; whil
 
 23\. But it was not when he was outside at the gate that he denied the Lord the second time. That took place after he had come back to the fire-place. There was no need, however, to mention the precise time at which he did thus return. Consequently Mark goes on with his narrative of the incident in these terms: “And he went out into the porch, and the cock crew. And a maid saw him again, and began to say to them that stood by, This is one of them. And he denied it again.”<sup>1309</sup> This is not the same maid, however, as the former one, but another, as Matthew tells us. Nay, we gather further that on the occasion of the second denial he was addressed by two parties, namely, by the maid who is mentioned by Matthew and Mark, and also by another person who is noticed by Luke. For Luke’s account runs in this style: “And Peter followed afar off. And when they had kindled a fire in the midst of
 
-1307 \[The evangelists indicate three distinct episodes of recognition and denial, but do not refer to the same facts in detail. This Augustin seems to apprehend.—R.\] 1308 [[Matthew 26#^26-69|Matt. xxvi. 69–74]]. 187
+1307 \[The evangelists indicate three distinct episodes of recognition and denial, but do not refer to the same facts in detail. This Augustin seems to apprehend.—R.\] 1308 [[Matthew 26#^26-69|Matt. xxvi. 69–74]]. 1309 [[Mark 14#^14-68|Mark xiv. 68–70]]. 187
 
 
 *[p. 421]* ^pg447
@@ -202,7 +202,7 @@ the hall, and were sat down together, Peter sat down among them. But a certain m
 
 24\. It may be, however, that some one will say to us: Peter had not actually gone out as yet, but had only risen with the purpose of going out. This may be the allegation of one who is of opinion that the second interrogation and denial took place when Peter was outside at the door. Let us therefore look at what follows in John’s narrative. It is to this effect: “The high priest then asked Jesus of His disciples, and of His doctrine. Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing. Why askest thou me? ask them which heard me what I have said unto them: behold, they know what I said. And when He had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so? Jesus answered him, If I have spoken evil, bear witness of the evil; but if well, why smitest thou me? And Annas sent Him bound to Caiaphas the high priest.”<sup>1313</sup> This certainly shows us that Annas was high priest. For Jesus had not been sent to Caiaphas as yet, when the question was thus put to Him, “Answerest thou the high priest so?” Mention is also made of Annas and Caiaphas as high priests by Luke at the be-
 
-1310 [[Luke 22#^22-54|Luke xxii. 54–58]]. 1311 [[John 18#^18-17|John xviii. 17]]. 1312 [[John 18#^18-18|John xviii. 18]].
+1310 [[Luke 22#^22-54|Luke xxii. 54–58]]. 1311 [[John 18#^18-17|John xviii. 17]]. 1312 [[John 18#^18-18|John xviii. 18]]. 1313 [[John 18#^18-19|John xviii. 19–24]].
 
 
 *[p. 422]* ^pg448
@@ -211,7 +211,7 @@ the hall, and were sat down together, Peter sat down among them. But a certain m
 
 ginning of his Gospel.<sup>1314</sup> After these statements, John reverts to the account which he had previously begun of Peter’s denial. Thus he brings us back to the house in which the incidents took place which he has recorded, and from which Jesus was sent away to Caiaphas, to whom He was being conducted at the commencement of this scene, as Matthew has informed us.<sup>1315</sup> Moreover, it is in the way of a recapitulation that John records the matters regarding Peter which he has introduced at this point. Falling back upon his narration of that incident with the view of making up a complete account of the threefold denial, he proceeds thus: “And Simon stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.”<sup>1316</sup> Here, therefore, we find that Peter’s second denial occurred, not when he was at the door, but as he was standing by the fire. This, however, could not have been the case, had he not returned by this time after having gone outside. For it is not that by this second occasion he had actually gone out, and that the other maid who is referred to saw him there outside; but the matter is put as if it was on his going out that she saw him; or, in other words, it was when he rose to go out that she observed him, and said to those who were there,—that is, to those who were gathered by the fire inside, within the court,—“This fellow was also with Jesus of Nazareth.” Then we are to suppose that the man who had thus gone outside, on hearing this assertion, came in again, and swore to those who were now inimically disposed, “I do not know the man.”<sup>1317</sup> In like manner, Mark also says of this same maid, that “she began to say to them that stood by, This is one of them.”<sup>1318</sup> For this damsel was speaking not to Peter, but to those who had remained there when he went out. At the same time, she spoke in such a manner that he heard her words; whereupon he came back and stood again by the fire, and met their words with a negative. Then we have the statement made by John in these terms: “They said, Art not thou also one of his disciples?” We understand this question to have been addressed to him on his return as he stood there; and we also recognise the harmony in which this stands with the position that on this occasion Peter had to do not only with that other maid who is mentioned by Matthew and Mark in connection with this second denial, but also with that other person who is introduced by Luke. This is the reason why John uses the plural, “They said.” The explanation then may be, that when the maid said to those who
 
-1314 [[Luke 03#^3-2|Luke iii. 2]]. 1315 Matt. xxviii. 57. \[See note on § 19. Augustin’s Latin text in [[John 18#^18-24|John xviii. 24]], *et misit eum*, etc., agrees in tense with the Greek. The Authorized Version incorrectly renders, “Now Annas had sent,” etc. The Revised Version has, “Annas therefore sent,” The theory of two distinct night examinations (before Annas first, and then before Caiphas) agrees best with the literal sense. Both may have occupied parts of the same house.—R.\] 1316 [[John 18#^18-25|John xviii. 25]]. 1317 Matt. xxviii. 71.
+1314 [[Luke 03#^3-2|Luke iii. 2]]. 1315 Matt. xxviii. 57. \[See note on § 19. Augustin’s Latin text in [[John 18#^18-24|John xviii. 24]], *et misit eum*, etc., agrees in tense with the Greek. The Authorized Version incorrectly renders, “Now Annas had sent,” etc. The Revised Version has, “Annas therefore sent,” The theory of two distinct night examinations (before Annas first, and then before Caiphas) agrees best with the literal sense. Both may have occupied parts of the same house.—R.\] 1316 [[John 18#^18-25|John xviii. 25]]. 1317 Matt. xxviii. 71. 1318 [[Mark 14#^14-69|Mark xiv. 69]].
 
 
 *[p. 423]* ^pg449
@@ -224,7 +224,7 @@ were with her in the court as he went out, “This is one of them,” he heard h
 
 188 1319 [[Mark 14#^14-70|Mark xiv. 70–72]].
 
-1320 [[Luke 22#^22-59|Luke xxii. 59]], [[Luke 22#^22-60|60]].
+1320 [[Luke 22#^22-59|Luke xxii. 59]], [[Luke 22#^22-60|60]]. 1321 [[John 18#^18-26|John xviii. 26]], [[John 18#^18-27|27]].
 
 
 *[p. 424]* ^pg450
@@ -235,7 +235,7 @@ confidence, joined him in pressing the assertion upon Peter. If this is the case
 
 26\. Matthew then proceeds with his narrative in these terms: “And Peter remembered the word of Jesus which He had said unto him, Before the cock crow thou shalt deny me thrice. And he went out and wept bitterly.”<sup>1322</sup> Mark, again, gives it thus: “And Peter called to mind the word that Jesus had said unto him, Before the cock crow twice thou shall deny me thrice. And he began to weep.”<sup>1323</sup> Luke’s version is as follows: “And the Lord turned and looked upon Peter. And Peter remembered the word of the Lord, how He had said unto him, Before the cock crow thou shalt deny me thrice. And Peter went out and wept bitterly.”<sup>1324</sup> John says nothing about Peter’s recollection and weeping. Now, the statement made here by Luke, to the effect that “the Lord turned and looked upon Peter,” is one which requires more careful consideration, with a view to its correct acceptance. For although there are also inner halls (or courts), so named, it was in the outer court (or hall) that Peter appeared on this occasion among the servants, who were warming themselves along with him at the fire. And it is not a credible supposition that Jesus was heard by the Jews in this place, so that we might also understand the *look* referred to to have been a look with the
 
-1322 [[Matthew 26#^26-75|Matt. xxvi. 75]]. 1323 [[Mark 14#^14-72|Mark xiv. 72]]: the words, “when he thought thereon,” being omitted. \[There is nothing omitted. The difficult Greek term (ἐπιβαλών) is explained by “when he thought thereon” in the Authorized Version. Augustin’s view is given in Revised Version margin, “And he began to weep.”—R.\]
+1322 [[Matthew 26#^26-75|Matt. xxvi. 75]]. 1323 [[Mark 14#^14-72|Mark xiv. 72]]: the words, “when he thought thereon,” being omitted. \[There is nothing omitted. The difficult Greek term (ἐπιβαλών) is explained by “when he thought thereon” in the Authorized Version. Augustin’s view is given in Revised Version margin, “And he began to weep.”—R.\] 1324 [[Luke 22#^22-61|Luke xxii. 61]], [[Luke 22#^22-62|62]].
 
 
 *[p. 425]* ^pg451
@@ -248,7 +248,7 @@ Lord thus looking mercifully upon him<sup>1328</sup>), to lead him to repent, an
 
 1325 [[Matthew 26#^26-67|Matt. xxvi. 67]], [[Matthew 26#^26-68|68]]. 1326 *Atrio*, court. \[The Revised Version properly renders the terms referring to the “court,” etc. “Palace” (Authorized Version) is misleading.—R.\] 1327 [[Mark 14#^14-66|Mark xiv. 66]]. 1328 Or, *regarding* him, *respiciente*. 1329 Ps. xiii. 3.
 
-1330 *Converte*.
+1330 *Converte*. 1331 Ps. vi. 4.
 
 
 *[p. 426]* ^pg452
@@ -307,7 +307,7 @@ however, why the Lord should have so determined it, there is this first and most
 
 of all these prophets been spoken by the mouth of a single individual. The same consideration might also fitly suggest the duty of accepting unhesitatingly whatever the Holy Spirit has given expression to through the agency of these prophets, and of looking upon their individual communications as also those of the whole body, and on their collective communications as also those of each separately. If, then, it is the case that words spoken by Jeremiah are really as much Zechariah’s as Jeremiah’s, and, on the other hand, that words spoken by Zechariah are really as much Jeremiah’s as they are Zechariah’s, what necessity was there for Matthew to correct his text when he read over what he had written, and found that the one name had occurred to him instead of the other? Was it not rather the proper course for him to bow to the authority of the Holy Spirit, under whose guidance he certainly felt his mind to be placed in a more decided sense than is the case with us, and consequently to leave untouched what he had thus written, in accordance with the Lord’s counsel and appointment, with the intent to give us to understand that the prophets maintain so complete a harmony with each other in the matter of their utterances that it becomes nothing absurd, but, in fact, a most consistent thing for us to credit Jeremiah with a sentence originally spoken by Zechariah?<sup>1344</sup> For if, in these days of ours, a person, desiring to bring under our notice the words of a certain individual, happens to mention the name of another by whom the words were not actually uttered,<sup>1345</sup> but who at the same time is the most intimate friend and associate of the man by whom they were really spoken; and if forthwith recollecting that he has given the one name instead of the other, he recovers himself and corrects the mistake, but does it nevertheless in some such way as this, “After all, what I said was not amiss;” what would we take to be meant by this, but just that there subsists so perfect a unison of sentiment between the two parties—that is to say, the man whose words the individual in question intended to repeat, and the second person whose name occurred to him at the time instead of that of the other—that it comes much to the same thing to represent the words to have been spoken by the former as to say that they were uttered by the latter? How much more, then, is this a usage which might well be understood and most particularly commended to our attention in the case of the holy prophets, so that we might accept the books composed by the whole series of them, as if they formed but a single book written by
 
-1344 \[The simplest explanation is that the name “Jeremiah” was applied to the collection of prophetical books, in which it was placed first by the Jews.—R.\] Reading *a quo non dicta sint*. Most of the mss. omit the *non*.
+1344 \[The simplest explanation is that the name “Jeremiah” was applied to the collection of prophetical books, in which it was placed first by the Jews.—R.\] 1345 Reading *a quo non dicta sint*. Most of the mss. omit the *non*.
 
 
 *[p. 431]* ^pg457
@@ -326,7 +326,7 @@ one author, in which no discrepancy with regard to the subjects dealt with shoul
 
 a real reference to this occurrence, which took place in connection with the price set upon Christ. Moreover, in Jeremiah, the evidence of the purchase of the field is ordered to be cast into an earthen vessel. In like manner, we find in the Gospel that the money paid for the Lord was used for the purchase of a potter’s field, which field also was to be employed as a burying-place for strangers. And it may be that all this was significant of the permanence of the repose of those who sojourn like strangers in this present world, and are buried with Christ by baptism. For the Lord also declared to Jeremiah, that the said purchase of the field was expressive of the fact that in that land \[of Judæa\] there would be a remnant of the people delivered from their captivity.<sup>1347</sup> I judged it proper to give some sort of sketch<sup>1348</sup> of these things, as I was calling attention to the kind of significance which a really careful and painstaking study should look for in these testimonies of the prophets, when they are reduced to a unity and compared with the evangelical narrative. These, then, are the statements which Matthew has introduced with reference to the traitor Judas.
 
-1347 See Jer. xxxii. Reading *delineanda*. Four mss. give *delibanda* = proper to touch upon.
+1347 See Jer. xxxii. 1348 Reading *delineanda*. Four mss. give *delibanda* = proper to touch upon.
 
 
 *[p. 433]* ^pg459
@@ -339,7 +339,7 @@ Chapter VIII.—Of the Absence of Any Discrepancies in the Accounts Which the Ev
 
 33\. Mark also presents an almost entire identity with the above, both in language and in subject. The words, however, in which Pilate replied to the people when they asked him to release one prisoner according to the custom of the feast, are reported by this evangelist as follows: “But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?”<sup>1350</sup> On the other hand, Matthew gives them thus: “Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?” There need be no difficulty in the circumstance that Matthew says nothing about the people having requested that one should be released unto them. But it may fairly be asked, what were the words which Pilate actually uttered, whether these reported by Matthew, or those recited by Mark. For there seems to be some difference between these two forms of expression, namely, “Whom will ye that I release unto you? Barabbas,
 
-1349 [[Matthew 27#^27-11|Matt. xxvii. 11–26]].
+1349 [[Matthew 27#^27-11|Matt. xxvii. 11–26]]. 1350 [[Mark 15#^15-9|Mark xv. 9]].
 
 
 *[p. 434]* ^pg460
@@ -352,7 +352,7 @@ concerned the Lord Himself, has not mentioned Barabbas here. For, in the report 
 
 34\. Luke gives the following version of what took place in presence of Pilate: “And they began to accuse Him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Cæsar, and saying that he himself is Christ a king.”<sup>1355</sup> The previous two
 
-1351 Or, *Christs*, Christos. 1352 The text gives: *et qui dixit illum an illum*. 1353 Or, *Christs*, Christos. 1354 [[Mark 15#^15-2|Mark xv. 2–15]].
+1351 Or, *Christs*, Christos. 1352 The text gives: *et qui dixit illum an illum*. 1353 Or, *Christs*, Christos. 1354 [[Mark 15#^15-2|Mark xv. 2–15]]. 1355 [[Luke 23#^23-2|Luke xxiii. 2]], [[Luke 23#^23-3|3]].
 
 
 *[p. 435]* ^pg461
@@ -361,7 +361,7 @@ concerned the Lord Himself, has not mentioned Barabbas here. For, in the report 
 
 evangelists have not recorded these words, although they do mention the fact that these parties accused Him. Luke is thus the one who has specified the terms of the false accusations which were brought against Him. On the other hand, he does not state that Pilate said to Him, “Answerest thou nothing? behold, how many things they witness against thee.” Instead of introducing these sentences, Luke goes on to relate other matters which are also reported by these two. Thus he continues: “And Pilate asked Him, saying, Art thou the King of the Jews? And He answered him and said, Thou sayest.” Matthew and Mark have likewise inserted this fact, previous to the statement that Jesus was taken to task for not answering His accusers. The truth, however, is not at all affected by the order in which Luke has narrated these things; and as little is it affected by the mere circumstance that one writer passes over some incident without notice, which another expressly specifies. We have an instance in what follows; namely, “Then said Pilate to the chief priests and to the people, I find no fault in this man. And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place. But when Pilate heard of Galilee, he asked whether the man were a Galilean. And as soon as he knew that He belonged unto Herod’s jurisdiction, he sent Him to Herod, who himself also was at Jerusalem at that time. And when Herod saw Jesus, he was exceeding glad; for he was desirous to see Him of a long season, because he had heard many things of Him, and he hoped to see some miracle done by Him. Then he questioned with Him in many words; but He answered him nothing. And the chief priests and scribes stood and vehemently accused Him. And Herod with his men of war set Him at nought, and mocked Him, and arrayed Him in a gorgeous robe, and sent Him again to Pilate. And the same day Herod and Pilate were made friends together: for before they were at enmity between themselves.”<sup>1356</sup> All these things are related by Luke alone, namely, the fact that the Lord was sent by Pilate to Herod, and the account of what took place on that occasion. At the same time, among the statements which he makes in this passage, there are some bearing a resemblance to matters which may be found reported by the other evangelists in connection with different portions of their narrations. But the immediate object of these others, however, was to recount simply the various things which were done in Pilate’s presence on to the time when the Lord was delivered over to be crucified. In accordance with his own plan, however, Luke makes the above digression with the view of telling what occurred with Herod; and after that he reverts to the history of what took place in the governor’s presence. Thus he now continues as follows: “And Pilate, when he had called together the chief priests and the rulers and the people, said unto them, Ye have brought this man unto me as one that perverteth the people: and, behold, I having examined him before you, have found no fault in this man touching those things whereof ye accuse him.”<sup>1357</sup> Here we notice that he has omitted to mention how Pilate asked the Lord what
 
-194 1356 [[Luke 22#^22-4|Luke xxii. 4–12]].
+194 1356 [[Luke 22#^22-4|Luke xxii. 4–12]]. 1357 [[Luke 23#^23-13|Luke xxiii. 13]], [[Luke 23#^23-14|14]].
 
 *[p. 436]* ^pg462
 
@@ -373,7 +373,7 @@ answer He had to make to His accusers. Thereafter he proceeds in these terms: �
 
 1358 The words, *and of the chief priests*, are omitted in the text. \[So the Greek text, according to the best authorities. Comp. Revised Version.—R.\] 1359 [[Luke 23#^23-15|Luke xxiii. 15–23]].
 
-1360 [[Luke 23#^23-24|Luke xxiii. 24]], [[Luke 23#^23-25|25]].
+1360 [[Luke 23#^23-24|Luke xxiii. 24]], [[Luke 23#^23-25|25]]. 1361 [[John 18#^18-28|John xviii. 28–30]].
 
 
 *[p. 437]* ^pg463
@@ -382,7 +382,7 @@ answer He had to make to His accusers. Thereafter he proceeds in these terms: �
 
 him up unto thee;” the purport of which was, that he should accept their authority, cease to inquire what fault was alleged against Him, and believe Him guilty for the simple reason that He had been \[reckoned\] worthy of being delivered up by them to him. This being the case, then, we ought to suppose that both these versions report words which were actually said, both the one before us at present, and the one given by Luke. For among the multitude of sayings and replies which passed between the parties, these writers have made their own selections as far as their judgment allowed them to go, and each of them has introduced into his narrative just what he considered sufficient. It is also true that John himself mentions certain charges which were alleged against Him, and which we shall find in their proper connections. Here, then, he proceeds thus: “Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews, therefore, said unto him, It is not lawful for us to put any man to death; that the saying of Jesus might be fulfilled, which He spake, signifying what death He should die. Then Pilate entered into the judgment-hall again, and called Jesus, and said unto Him, Art thou the King of the Jews? And Jesus answered, Sayest thou this thing of thyself, or did others tell it thee of me?”<sup>1362</sup> This again may seem not to harmonize with what is recorded by the others,—namely, “Jesus answered, Thou sayest,”—unless it is made clear in what follows that the one thing was said as well as the other. Hence he gives us to understand that the matters which he records next are \[not to be regarded as\] things never actually uttered by the Lord, but are rather to be considered things which have been passed over in silence by the other evangelists. Mark, therefore, what remains of his narrative. It proceeds thus: “Pilate answered, Am I a Jew? Thine own nation, and the chief priests, have delivered thee unto me: what hast thou done? Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews; but now is my kingdom not from hence. Pilate therefore said unto Him, Art thou a king then? Jesus answered, Thou sayest that I am a king.” <sup>1363</sup> Behold, here is the point at which he comes to that which the other evangelists have reported. And then he goes on, the Lord being still the speaker, to recite other matters which the rest have not recorded. His terms are these: “To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find no fault in him. But ye have a custom, that I should release unto you one at the passover: will ye, therefore, that I release unto you the King of the Jews? Then cried they all again, Not this man, but Barabbas. Now Barabbas was a robber. Then Pilate, therefore, took Jesus, and scourged Him. And the soldiers platted a crown of thorns, and put it on His head, and they put on Him a purple robe; and they came to Him
 
-195 1362 [[John 18#^18-31|John xviii. 31–34]].
+195 1362 [[John 18#^18-31|John xviii. 31–34]]. 1363 [[John 18#^18-35|John xviii. 35–37]].
 
 *[p. 438]* ^pg464
 
@@ -403,14 +403,16 @@ Chapter IX.—Of the Mockery Which He Sustained at the Hands of Pilate’s Cohor
 
 1368 [[Matthew 27#^27-27|Matt. xxvii. 27–31]]. 1369 [[Mark 15#^15-16|Mark xv. 16–20]].
 
-1370 [[John 19#^19-1|John xix. 1–3]].
+1370 [[John 19#^19-1|John xix. 1–3]]. 1371 [[Matthew 27#^27-30|Matt. xxvii. 30]], [[Matthew 27#^27-31|31]].
 
 
 *[p. 440]* ^pg466
 
 *Of the Mockery Which He Sustained at the Hands of Pilate’s Cohort, and of…*
 
-own raiment were done at the close, when He was being led away. This is given by Mark, as follows: “And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him.”<sup>1372</sup>
+own raiment were done at the close, when He was being led away. This is given by Mark, as follows: “And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him.”
+
+1372 [[Mark 15#^15-20|Mark xv. 20]].<sup>1372</sup>
 
 *[p. 441]* ^pg467
 
@@ -420,7 +422,7 @@ Chapter X.—Of the Method in Which We Can Reconcile the Statement Which is Made
 
 37\. Matthew, accordingly, goes on with his narrative in these terms: “And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear His cross.”<sup>1373</sup> In like manner, Mark says: “And they led Him out to be crucified. And they compelled one Simon, a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear His cross.”<sup>1374</sup> Luke’s version is also to this effect: “And as they led Him away, they laid hold upon one Simon a Cyrenian, coming out of the country; and on him they laid the cross, that he might bear it after Jesus.”<sup>1375</sup> On the other hand, John records the matter as follows: “And they took Jesus, and led Him away. And He bearing His cross went forth into a place called the place of a skull, which is called in the Hebrew, Golgotha; where they crucified Him.”<sup>1376</sup> From all this we understand that Jesus was carrying the cross Himself as He went forth into the place mentioned. But on the way the said Simon, who is named by the other three evangelists, was pressed into the service, and got the cross to carry for the rest of the course until the spot was reached. Thus we find that both circumstances really took place; namely, first the one noticed by John, and thereafter the one instanced by the other three.
 
-1373 [[Matthew 27#^27-32|Matt. xxvii. 32]]. 1374 [[Mark 15#^15-20|Mark xv. 20]], [[Mark 15#^15-21|21]]. 1375 [[Luke 23#^23-26|Luke xxiii. 26]]. \[This probably implies that the afterpart of the cross was laid upon Simon, not the whole of it. This obviates the necessity for the explanation given by Augustin.—R.\]
+1373 [[Matthew 27#^27-32|Matt. xxvii. 32]]. 1374 [[Mark 15#^15-20|Mark xv. 20]], [[Mark 15#^15-21|21]]. 1375 [[Luke 23#^23-26|Luke xxiii. 26]]. \[This probably implies that the afterpart of the cross was laid upon Simon, not the whole of it. This obviates the necessity for the explanation given by Augustin.—R.\] 1376 [[John 19#^19-16|John xix. 16–18]].
 
 
 *[p. 442]* ^pg468
@@ -433,7 +435,7 @@ Chapter XI.—Of the Consistency of Matthew’s Version with that of Mark in the
 
 197
 
-1377 [[Matthew 27#^27-33|Matt. xxvii. 33]]. 1378 *Vinum*. \[So the correct Greek text. Comp. Revised Version.—R.\] 1379 [[Matthew 27#^27-34|Matt. xxvii. 34]].
+1377 [[Matthew 27#^27-33|Matt. xxvii. 33]]. 1378 *Vinum*. \[So the correct Greek text. Comp. Revised Version.—R.\] 1379 [[Matthew 27#^27-34|Matt. xxvii. 34]]. 1380 [[Mark 15#^15-23|Mark xv. 23]].
 
 
 *[p. 443]* ^pg469
@@ -444,7 +446,7 @@ Chapter XII.—Of the Concord Preserved Among All the Four Evangelists on the Su
 
 39\. Matthew goes on thus: “And after they crucified Him, they parted His garments, casting lots: and sitting down, they watched Him.”<sup>1381</sup> Mark reports the same incident, as follows: “And crucifying Him, they parted His garments, casting lots upon them, what every man should take.”<sup>1382</sup> In like manner Luke says: “And they parted His raiment, and cast lots. And the people stood beholding.”<sup>1383</sup> The occurrence is thus recorded briefly by the first three. But John gives us a more detailed narrative of the method in which the act was gone about. His version runs thus: “Then the soldiers, when they had crucified Jesus, took His garments, and made four parts, to every soldier a part; and also His coat: now the coat was without seam, woven from the top throughout. They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the Scripture might be fulfilled, which saith, They parted my garments, and for my vesture they did cast lots.”<sup>1384</sup>
 
-1381 [[Matthew 27#^27-35|Matt. xxvii. 35]], [[Matthew 27#^27-36|36]]. The words, “that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots,” are omitted. \[So the Greek text, according to the best authorities. Comp. Revised Version.—R.\] 1382 [[Mark 15#^15-24|Mark xv. 24]]. 1383 [[Luke 23#^23-34|Luke xxiii. 34]], [[Luke 23#^23-35|35]].
+1381 [[Matthew 27#^27-35|Matt. xxvii. 35]], [[Matthew 27#^27-36|36]]. The words, “that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots,” are omitted. \[So the Greek text, according to the best authorities. Comp. Revised Version.—R.\] 1382 [[Mark 15#^15-24|Mark xv. 24]]. 1383 [[Luke 23#^23-34|Luke xxiii. 34]], [[Luke 23#^23-35|35]]. 1384 [[John 19#^19-23|John xix. 23]], [[John 19#^19-24|24]].
 
 
 *[p. 444]* ^pg470
@@ -457,7 +459,7 @@ Chapter XIII.—Of the Hour of the Lord’s Passion, and of the Question Concern
 
 41\. First, then, let us consider what the hour really is at which He can have been crucified; and then we shall see how it happens that Mark has reported Him to have been crucified at the third hour. Now it was about the sixth hour when Pilate, who was sitting, as has been stated, at the time upon the judgment-seat, delivered Him up to be crucified. The expression is not that it was the sixth hour fully, but only that it was about the sixth hour; that is to say, the fifth hour was entirely gone, and so much of the sixth hour had also been entered upon. These writers, however, could not naturally use such phraseologies as the fifth hour and a quarter, or the fifth hour and a third, or the fifth hour and a half or anything of that kind. For the Scriptures have the well-known habit of dealing simply with the round numbers, without mention of fractions, especially in matters of time. We have an example of this in
 
-1385 [[Matthew 27#^27-37|Matt. xxvii. 37]]. \[No notice is taken of the different forms the “title” on the cross, recorded by the evangelists.—R.\] 1386 [[Mark 15#^15-25|Mark xv. 25]].
+1385 [[Matthew 27#^27-37|Matt. xxvii. 37]]. \[No notice is taken of the different forms the “title” on the cross, recorded by the evangelists.—R.\] 1386 [[Mark 15#^15-25|Mark xv. 25]]. 1387 [[John 19#^19-13|John xix. 13–16]].
 
 
 *[p. 445]* ^pg471
@@ -472,7 +474,7 @@ three of the evangelists, namely, Matthew, Mark, and Luke.<sup>1390</sup>
 
 1388 [[Luke 09#^9-28|Luke ix. 28]]. 1389 [[Matthew 17#^17-1|Matt. xvii. 1]]; Mark ix. 1.
 
-1390 [[Matthew 27#^27-45|Matt. xxvii. 45]]; [[Mark 15#^15-33|Mark xv. 33]]; [[Luke 23#^23-44|Luke xxiii. 44]]. 1391 [[Mark 15#^15-25|Mark xv. 25]].
+1390 [[Matthew 27#^27-45|Matt. xxvii. 45]]; [[Mark 15#^15-33|Mark xv. 33]]; [[Luke 23#^23-44|Luke xxiii. 44]]. 1391 [[Mark 15#^15-25|Mark xv. 25]]. 1392 [[John 19#^19-23|John xix. 23]].
 
 
 *[p. 446]* ^pg472
@@ -484,3 +486,5 @@ persons did really crucify Christ at the time when they cried out. All the more,
 43\. Moreover, if any one alleges that it was not the third hour when the Jews cried out for the first time in the terms referred to, he simply displays himself most insanely to be an enemy to the Gospel; unless perchance he can prove himself able to produce some new solution of the problem. For he cannot possibly establish the position that it was not the third hour at the period alluded to. And, consequently, we surely ought rather to credit a veracious evangelist than the contentious suspicions of men. But you may ask, How can you prove that it was the third hour? I answer, Because I believe the evangelists; and if you also believe them, show me how the Lord can have been crucified both at the sixth hour and at the third. For, to make a frank acknowledgment, we cannot get over the statement of the sixth hour in John’s narrative; and Mark records the third hour: and, therefore, if both of us accept the testimony of these writers, show me any other way in which both these notes of time can be taken as literally correct. If you can do so, I shall most cheerfully acquiesce. For what I prize is not my own opinion, but the truth of the Gospel. And I could wish, indeed, that more methods of clearing up this problem might be discovered by others. Until that be done, however, join me, if it please you, in taking advantage of the solution which I have propounded. For if no explanation can be found, this one will suffice of itself. But if another can be devised, when it is unfolded, we shall make our choice. Only don’t consider it an inevitable conclusion that any one of all the four evangelists has stated what is false, or has fallen into error in a position of authority at once so elevated and so holy.
 
 44\. Again, if any one affirms his ability to prove it not to have been the third hour when the Jews cried out in the terms in question, because, after Mark’s statement to this effect, “And Pilate answered, and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews? And they cried out again, Crucify him,” we find no further details introduced into the narrative of the same evangelist, but are led on at once to the statement, that the Lord was delivered up by Pilate to be crucified—an act which John
+
+1393 [[John 18#^18-29|John xviii. 29–31]].

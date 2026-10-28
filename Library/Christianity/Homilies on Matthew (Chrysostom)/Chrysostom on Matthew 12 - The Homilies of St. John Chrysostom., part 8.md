@@ -26,9 +26,9 @@ And besides, it is not of great things (as I have already observed), nor of thin
 
 “Thou hypocrite, first cast out the beam out of thine own eye.”<sup>991</sup> Here His will is to signify the great wrath, which He hath against them that do such things. For so, wheresoever He would indicate that the sin is great, and the punishment and wrath in store for it grievous, He begins with a reproach.<sup>992</sup> As then unto him that was exacting the hundred pence, He said in His deep displeasure, “Thou wicked servant, I forgave thee all that debt;”<sup>993</sup>even so here also, “Thou hypocrite.” For not of protecting care comes
 
-ἔρανον.
+988 ἔρανον.
 
-988 989
+989
 
 [[Matthew 07#^7-3|Matt. vii. 3]].
 
@@ -40,9 +40,9 @@ And besides, it is not of great things (as I have already observed), nor of thin
 
 [[Matthew 07#^7-5|Matt. vii. 5]].
 
-ὕβρεω.
+992 ὕβρεω. 993 [[Matthew 18#^18-32|Matt. xviii. 32]].
 
-992
+
 
 *[p. 285]* ^pg293
 
@@ -84,7 +84,7 @@ It is not, you see, that those truths furnish them with armor, but they become f
 
 Let them hearken, who shamelessly associate with all, and make the awful things contemptible. For the mysteries we too therefore celebrate with closed doors, and keep out the uninitiated, not for any weakness of which we have convicted our rites, but because the many are as yet imperfectly prepared for them. For this very reason He Himself also discoursed much unto the Jews in parables, “because they seeing saw not.” For this, Paul likewise commanded “to know how we ought to answer every man.”<sup>1007</sup>
 
-ἐμπαροινεται . 1001 1002 \[R.V., properly omits “again.”—R.\] ἐπιεκειαν. 1003 1004 [[2 Timothy 04#^4-15|2 Tim. iv. 15]]. 1005 [[2 Timothy 03#^3-5|2 Tim. iii. 5]]. \[The citation is modified.—R.\] 1006 [[Titus 03#^3-10|Titus iii. 10]]. \[R.V., “A man that is heretical (or factious) after a first and second admonition, refuse (or avoid).”—R.\] [[Colossians 04#^4-6|Col. iv. 6]].
+1001 ἐμπαροινεται . 1002 \[R.V., properly omits “again.”—R.\] 1003 ἐπιεκειαν. 1004 [[2 Timothy 04#^4-15|2 Tim. iv. 15]]. 1005 [[2 Timothy 03#^3-5|2 Tim. iii. 5]]. \[The citation is modified.—R.\] 1006 [[Titus 03#^3-10|Titus iii. 10]]. \[R.V., “A man that is heretical (or factious) after a first and second admonition, refuse (or avoid).”—R.\] 1007 [[Colossians 04#^4-6|Col. iv. 6]].
 
 *[p. 288]* ^pg296
 
@@ -100,7 +100,7 @@ Despond not therefore, O man, nor show less of zeal about virtue, than they do o
 
 5\. And if thou doubt my affirmation, at any rate believe His example.
 
-1008 [[Matthew 07#^7-6|Matt. vii. 6]]. [[Matthew 19#^19-25|Matt. xix. 25]], and 10.
+1008 [[Matthew 07#^7-6|Matt. vii. 6]]. 1009 [[Matthew 19#^19-25|Matt. xix. 25]], and 10.
 
 
 *[p. 289]* ^pg297
@@ -113,7 +113,7 @@ Because, as among men, if thou keep on doing so, thou art even accounted trouble
 
 Do thou also therefore ask nothing worldly, but all things spiritual, and thou wilt surely receive. For so Solomon,<sup>1013</sup>because he asked what he ought, behold how quickly he received. Two things now, you see, should be in him that prays, asking earnestly, and asking what he ought: “since ye too,” saith He, “though ye be fathers, wait for your sons to ask: and if they should ask of you anything inexpedient, ye refuse the gifts; just as, if it be expedient, ye consent and bestow it.” Do thou too, considering these things, not withdraw until thou receive; until thou have found, retire not; relax not thy diligence, until the door be opened. For if thou approach with this mind, and say, “Except I receive, I depart not;” thou wilt surely receive, provided thou ask such things, as are both suitable for Him of whom thou askest to give, and expedient for thee the petitioner. But what are these? To seek the things spiritual, all of them; to forgive them that have trespassed, and so to draw nigh asking forgiveness; “to lift up holy hands without wrath and doubting.”<sup>1014</sup> If we thus ask, we shall receive. As it is, surely our asking is a mockery, and the act of drunken rather than of sober men.
 
-1010 [[Matthew 07#^7-9|Matt. vii. 9]]. \[The citation is not exact. Here, as below, Chrysostom gives the form: “For which is there of you,” omitting “man.” The Oxford translator follows the A.V. here but not below. “Of whom” (in R.V.) is better English (see below); the Greek is the same in both passages.—R.\] ἐπετεχισε. 1011 \[οκ ατεν χρ μνου, λλ κα χρ ιτεν, “not only is it fitting to ask,” but to ask what “is fitting.”—R.\] 1012 1013 1 Kings iii. 10–14; 2 Chron. i. 11, 12. 1014 [[1 Timothy 02#^2-8|1 Tim. ii. 8]], perhaps “disputing” rather than “doubting.” \[R.V. text “disputing,” in the margin “doubting.” Comp. Homily XIX. 11, p. 138.—R.\]
+1010 [[Matthew 07#^7-9|Matt. vii. 9]]. \[The citation is not exact. Here, as below, Chrysostom gives the form: “For which is there of you,” omitting “man.” The Oxford translator follows the A.V. here but not below. “Of whom” (in R.V.) is better English (see below); the Greek is the same in both passages.—R.\] 1011 ἐπετεχισε. 1012 \[οκ ατεν χρ μνου, λλ κα χρ ιτεν, “not only is it fitting to ask,” but to ask what “is fitting.”—R.\] 1013 1 Kings iii. 10–14; 2 Chron. i. 11, 12. 1014 [[1 Timothy 02#^2-8|1 Tim. ii. 8]], perhaps “disputing” rather than “doubting.” \[R.V. text “disputing,” in the margin “doubting.” Comp. Homily XIX. 11, p. 138.—R.\]
 
 
 *[p. 290]* ^pg298
@@ -134,7 +134,7 @@ Now here indeed He signifies His goodness by means of our fathers, but in what p
 
 “For all things,” saith He, “whatsoever ye would that men should do to you, do ye also to them.”<sup>1019</sup>
 
-1015 [[Matthew 07#^7-11|Matt. vii. 11]]. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] πονηραν. 1016 1017 Or “life:” see [[Matthew 06#^6-25|Matt. vi. 25]]. 1018 [[Romans 08#^8-32|Rom. viii. 32]]. [[Matthew 07#^7-12|Matt. vii. 12]]. \[οτω is omitted; so the Vulgate.—R.\] \[πολιτεα.\]
+1015 [[Matthew 07#^7-11|Matt. vii. 11]]. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] 1016 πονηραν. 1017 Or “life:” see [[Matthew 06#^6-25|Matt. vi. 25]]. 1018 [[Romans 08#^8-32|Rom. viii. 32]]. 1019 [[Matthew 07#^7-12|Matt. vii. 12]]. \[οτω is omitted; so the Vulgate.—R.\] \[πολιτεα.\]
 
 
 *[p. 291]* ^pg299
@@ -153,7 +153,7 @@ And yet after this He said, “My yoke is easy, and my burden is light.”<sup>1
 
 And not only herein is the part of virtue easy, but also by the end again it becomes yet easier. For not the passing away of our labors and toils, but also their issuing in a good end (for they end in life) is enough to console those in conflict. So that both the temporary nature of our labors, and the perpetuity of our crowns, and the fact that the labors come first, and the crowns after, must prove a very great relief in our toils. Wherefore Paul also called their
 
-1020 Confined, τεθλιμμνη . 1021 1022 [[Matthew 06#^6-13|Matt. vi. 13]], [[Matthew 06#^6-14|14]]. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\]
+1020 1021 Confined, τεθλιμμνη . 1022 [[Matthew 06#^6-13|Matt. vi. 13]], [[Matthew 06#^6-14|14]]. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\] 1023 [[Matthew 11#^11-30|Matt. xi. 30]].
 
 
 *[p. 292]* ^pg300
@@ -186,19 +186,19 @@ And by the figure of “false prophets,” here, I think He shadows out not the 
 
 “What then,” it may be said, “if in these things too they counterfeit?” “Nay, they will be easily detected; for such is the nature of this way, in which I commanded men to walk, painful and irksome; but the hypocrite would not choose to take pains, but to make a show only; wherefore also he is easily convicted.” Thus, inasmuch as He had said, “there be few
 
-συγκροτοντα .
+1028 συγκροτοντα .
 
-1028 1029
+1029
 
 [[Matthew 07#^7-15|Matt. vii. 15]]. \[“For they will come” is substituted by Chrysostom for “which come,” but without any mss. authority known to us.—R.\]
 
-ἐπιθετν.
+1030 ἐπιθετν.
 
-1030 1031
+1031
 
 [[Matthew 07#^7-16|Matt. vii. 16]].
 
-βιν. Comp. Hom. XLVI. p. 486, Ben. \[In the passage referred to, the word is rendered “practice.” For the 1032 ethical sense of βι in classical usage, see Trench, *Synonymes New Testament*, *sub voce*.—R.\]
+1032 βιν. Comp. Hom. XLVI. p. 486, Ben. \[In the passage referred to, the word is rendered “practice.” For the ethical sense of βι in classical usage, see Trench, *Synonymes New Testament*, *sub voce*.—R.\]
 
 *[p. 294]* ^pg302
 
@@ -220,7 +220,7 @@ But Christ saith not this, that for the wicked there is no way to change, or tha
 
 161
 
-1033 [[Romans 16#^16-18|Rom. xvi. 18]]. \[R.V., “by their smooth and fair speech they beguile the hearts of the innocent.” But Chrysostom omits κα ελογα, agreeing with the reading of the four principal Græco-Latin mss. of the Pauline Epistles.—R.\] 1034 [[Matthew 07#^7-16|Matt. vii. 16–18]]. [[Romans 08#^8-6|Rom. viii. 6]], [[Romans 08#^8-7|7]]. \[R.V., “For the mind of the flesh,” etc. The translator has not rendered γρ, which occurs in the Greek of the Homily, as in [[Romans 08#^8-6|Rom. viii. 6]].—R.\]
+1033 [[Romans 16#^16-18|Rom. xvi. 18]]. \[R.V., “by their smooth and fair speech they beguile the hearts of the innocent.” But Chrysostom omits κα ελογα, agreeing with the reading of the four principal Græco-Latin mss. of the Pauline Epistles.—R.\] 1034 [[Matthew 07#^7-16|Matt. vii. 16–18]]. 1035 [[Romans 08#^8-6|Rom. viii. 6]], [[Romans 08#^8-7|7]]. \[R.V., “For the mind of the flesh,” etc. The translator has not rendered γρ, which occurs in the Greek of the Homily, as in [[Romans 08#^8-6|Rom. viii. 6]].—R.\]
 
 
 *[p. 295]* ^pg303
@@ -237,7 +237,7 @@ And though it appear indeed to be some single judgment, the being burnt up, yet 
 
 But may this never be our case, O thou only-begotten Son of God, neither may we ever have any experience of this irremediable punishment. For how great an evil it is to fall from
 
-ἐπετεχισεν ατο. 1036 1037 [[Matthew 07#^7-19|Matt. vii. 19]]. [[Matthew 07#^7-20|Matt. vii. 20]]. \[There is here a slight variation from the New Testament text.—R.\]
+1036 ἐπετεχισεν ατο. 1037 [[Matthew 07#^7-19|Matt. vii. 19]]. 1038 [[Matthew 07#^7-20|Matt. vii. 20]]. \[There is here a slight variation from the New Testament text.—R.\]
 
 *[p. 296]* ^pg304
 
@@ -251,7 +251,7 @@ Even here He shows His love, and indicates the yearning which He hath toward the
 
 162 1039 [[Philippians 01#^1-23|Phil. i. 23]].
 
-1040 [[Matthew 25#^25-12|Matt. xxv. 12]].
+1040 [[Matthew 25#^25-12|Matt. xxv. 12]]. 1041 [[Matthew 25#^25-42|Matt. xxv. 42]].
 
 
 *[p. 297]* ^pg305
@@ -276,7 +276,7 @@ But if to get money honestly be thus absurd, and of extreme madness; when not ev
 
 12\. Or wilt thou that we take in hand some other part also of virtue? Let us then introduce again another man, who is in power, commanding all, invested with great dignity, having a gorgeous herald, and girdle, and lictors, and a large company of attendants. Doth not this seem great, and meet to be called happy? Well then, against this man again let us set another, him that is patient of injuries, and meek, and lowly, and long suffering; and let this last be despitefully used, be beaten, and let him bear it quietly, and bless them that are doing such things.
 
-\[πλεονεξα.\]
+1042 \[πλεονεξα.\]
 
 *[p. 299]* ^pg307
 
@@ -304,17 +304,17 @@ And here He seems to me to be censuring the Jews chiefly, laying as they did the
 
 And why marvel if He hath bestowed gifts on men that have believed on Him, though without life suitable to their faith, when even on those who have fallen from both these, He is unquestionably found working? For so Balaam was an alien both from faith and from a truly good life; nevertheless grace wrought on him for the service<sup>1046</sup>of other men. And Pharaoh too was of the same sort: yet for all that even to him He signified the things to come. And Nebuchadnezzar was very full of iniquity; yet to him again He revealed what was to follow after many generations.<sup>1047</sup> And again to the son of this last, though surpassing his father in iniquity, He signified the things to come, ordering a marvellous and great dispensation.<sup>1048</sup> Accordingly because then also the beginnings of the gospel were taking place,
 
-\[ἀγαπητν; probably the sense is rather: “it must suffice them,” etc.—R.\] 1043
+1043 \[ἀγαπητν; probably the sense is rather: “it must suffice them,” etc.—R.\]
 
-[[Romans 02#^2-17|Rom. ii. 17]], [[Romans 02#^2-18|18]]. \[R.V., “But if thou bearest the name of a Jew,” etc., following the reading ε δ, which is 1044 abundantly attested. Chrysostom has ἴδεἀγπη.—R.\] 1045
+1044 [[Romans 02#^2-17|Rom. ii. 17]], [[Romans 02#^2-18|18]]. \[R.V., “But if thou bearest the name of a Jew,” etc., following the reading ε δ, which is abundantly attested. Chrysostom has ἴδεἀγπη.—R.\]
 
-[[Mark 09#^9-38|Mark ix. 38]]; [[Luke 09#^9-49|Luke ix. 49]]. \[“Demons,” so in the New Testament passages.—R.\] οκονομαν.
+1045 [[Mark 09#^9-38|Mark ix. 38]]; [[Luke 09#^9-49|Luke ix. 49]]. \[“Demons,” so in the New Testament passages.—R.\] 1046 οκονομαν.
 
-1046 1047
+1047
 
 Dan. iii.
 
-Dan. v.
+1048 Dan. v.
 
 *[p. 301]* ^pg309
 
@@ -332,7 +332,7 @@ Seest thou how He varies His discourse; at one time saying, “Not every one tha
 
 Thus whereas all His discourse had been touching the future; of a kingdom, and an unspeakable reward and consolation, and the like; His will is, out of things here also to give them their fruits, and to signify how great is the strength of virtue even in the present life. What then is this her strength? To live in safety, to be easily subdued by no terror, to stand superior to all that despitefully use us. To this what can be equal? For this, not even he that wears the diadem can provide for himself, but that man who follows after virtue. For he alone is possessed of it in full abundance: in the ebb and flow<sup>1050</sup>of the things present he
 
-165 1049 [[Matthew 07#^7-24|Matt. vii. 24]]. \[R.V., “Every one, therefore which beareth these words of mine, and doeth them, shall be likened.” The Greek text in the Homily is identical with that accepted in the R.V.—R.\] \[ερπ, a strait, where the ebb and flow is great and frequent. See Liddell and Scott, *Greek Lexicon*.—R.\]
+165 1049 [[Matthew 07#^7-24|Matt. vii. 24]]. \[R.V., “Every one, therefore which beareth these words of mine, and doeth them, shall be likened.” The Greek text in the Homily is identical with that accepted in the R.V.—R.\] 1050 \[ερπ, a strait, where the ebb and flow is great and frequent. See Liddell and Scott, *Greek Lexicon*.—R.\]
 
 *[p. 302]* ^pg310
 
@@ -348,6 +348,8 @@ What then? Did no such thing befall them? Did they suffer no evil at any man’s
 
 Thou then likewise, if thou be willing to perform these things exactly, shall laugh all ills to scorn. Yea, for if thou be but strengthened with such philosophy as is in these admonitions, nothing shall be able to hurt thee. Since in what is he to harm thee, who is minded to lay plots? Will he take away thy money? Well, but before their threatening thou wast commanded to despise it, and to abstain from it so exceedingly, as not so much as even to ask any such thing of thy Lord. But doth he cast thee into prison? Why, before thy prison, thou wast enjoined so to live, as to be crucified even to all the world. But doth he speak evil? Nay, from this pain also Christ hath delivered thee, by promising thee without toil a great reward for the endurance of evil, and making thee so clear from the anger and vexation hence arising,
 
+1051 [[Matthew 07#^7-25|Matt. vii. 25]].
+
 *[p. 303]* ^pg311
 
 as even to command thee to pray for them. But doth he banish thee and involve thee in innumerable ills? Well, he is making the crown more glorious for thee. But doth he destroy and murder thee? Even hereby he profits thee very greatly, procuring for thee the rewards of the martyrs, and conducting thee more quickly into the untroubled haven, and affording thee matter for a more abundant recompence, and contriving for thee to make a gain of the universal penalty.<sup>1052</sup> Which thing indeed is most marvellous of all, that the plotters, so far from injuring at all, do rather make the objects of their despite more approved. To this what can be comparable? I mean, to the choice of such a mode of life as this, and no other, is.
@@ -362,11 +364,9 @@ For as with regard to virtue, not only from the things to come did He urge them 
 
 τν κοινν δικν πραγματεεσθα σε παρασκευζωνπραγματεεσθαι. \[The verb means “to engage in business,” 1052 and it is an easy transition to the successful result of trading. The Latin rendering of Montfaucon is: *ac tibi providens, ut a communi illa reddenda ratione te expedias* —R.\]
 
-γυμνζων.
+1053 γυμνζων.
 
-1053
-
-[[Matthew 07#^7-26|Matt. vii. 26]]. \[R.V., “these words.”—R.\]
+1054 [[Matthew 07#^7-26|Matt. vii. 26]]. \[R.V., “these words.”—R.\]
 
 *[p. 304]* ^pg312
 
@@ -376,7 +376,7 @@ Such an one was Ahab, but not such Elijah (since when we have put virtue and vic
 
 But the Apostles not so, but how? “We cannot but speak the things which we have seen and heard.”<sup>1058</sup> Seest thou a noble spirit? seest thou a rock laughing waves to scorn? seest thou a house unshaken? And what is yet more marvellous; so far from turning cowards themselves at the plots formed against them, they even took more courage, and cast the others into greater anxiety. For so he that smites adamant, is himself the one smitten; and he that kicks against the pricks, is himself the one pricked, the one on whom the severe wounds fall: and he who is forming plots against the virtuous, is himself the one in jeopardy. For wickedness becomes so much the weaker, the more it sets itself in array against virtue. And as he who wraps up fire in a garment, extinguishes not the flame, but consumes the
 
-1055 [[Galatians 06#^6-8|Gal. vi. 8]]. 1056 [[Acts 04#^4-16|Acts iv. 16]]. 1057 [[Acts 05#^5-28|Acts v. 28]].
+1055 [[Galatians 06#^6-8|Gal. vi. 8]]. 1056 [[Acts 04#^4-16|Acts iv. 16]]. 1057 [[Acts 05#^5-28|Acts v. 28]]. 1058 [[Acts 04#^4-20|Acts iv. 20]].
 
 
 *[p. 305]* ^pg313
@@ -391,9 +391,9 @@ Seest thou the rock? Seest thou the sand; how easily it sinks down, how it yield
 
 And it doth not merely fall, but with great calamity: for “great indeed,” He saith, “was the fall of it.” The risk not being of trifles, but of the soul, of the loss of Heaven, and those immortal blessings. Or rather even before that loss, no life so wretched as he must live that follows after this; dwelling with continual despondencies, alarms, cares, anxieties; which a certain wise man also was intimating when he said, “The wicked fleeth, when no man is pursuing.”<sup>1066</sup> For such men tremble at their shadows, suspect their friends, their enemies,
 
-\[ἑαυτν δ φνισε, “but obliterates himself.”—R.\] 1059 [[Matthew 14#^14-2|Matt. xiv. 2]]; [[Luke 09#^9-9|Luke ix. 9]]. \[The verb ἀνελον, which occurs here, is not found in the New Testament accounts
+1059 \[ἑαυτν δ φνισε, “but obliterates himself.”—R.\] 1060 [[Matthew 14#^14-2|Matt. xiv. 2]]; [[Luke 09#^9-9|Luke ix. 9]]. \[The verb ἀνελον, which occurs here, is not found in the New Testament accounts
 
-1060 of Herod’s language.—R.\] 1061 [[Luke 03#^3-10|Luke iii. 10]], [[Luke 03#^3-14|14]]. 1062 [[Matthew 03#^3-7|Matt. iii. 7]]. 1063 1 Kings xviii. 21, LXX. 1064 1 Kings xxi. 19, LXX. 1065 [[Mark 06#^6-18|Mark vi. 18]]. Prov. xxviii. 1.
+of Herod’s language.—R.\] 1061 [[Luke 03#^3-10|Luke iii. 10]], [[Luke 03#^3-14|14]]. 1062 [[Matthew 03#^3-7|Matt. iii. 7]]. 1063 1 Kings xviii. 21, LXX. 1064 1 Kings xxi. 19, LXX. 1065 [[Mark 06#^6-18|Mark vi. 18]]. 1066 Prov. xxviii. 1.
 
 
 *[p. 306]* ^pg314
@@ -422,7 +422,7 @@ And yet it was likely that this too would disturb them. For if, when they saw Hi
 
 But do thou mark, I pray thee, the Lord’s consideration, how He varies the mode of profiting His hearers, after miracles entering on words, and again from the instruction by His words passing to miracles. Thus, both before they went up into the mountain, He healed many, preparing the way for His sayings; and after finishing that long discourse to the people, He comes again to miracles, confirming what had been said by what was done. And so, because
 
-1067 \[R.V., “When Jesus ended these words, the multitudes were astonished at his teaching.”—R.\]
+1067 \[R.V., “When Jesus ended these words, the multitudes were astonished at his teaching.”—R.\] 1068 [[Matthew 08#^8-1|Matt. viii. 1]].
 
 
 *[p. 308]* ^pg316
@@ -439,7 +439,7 @@ And it was not that He said this, but did it not; but the work also followed imm
 
 1069 [[Matthew 07#^7-2|Matt. vii. 2]]. \[The first clause is from verse 1; and the passages are joined to point the lesson from the assumed delay. But there can be little doubt that the healing of the leper took place earlier. Comp. [[Mark 01#^1-40|Mark i. 40–42]]; [[Luke 05#^5-12|Luke v. 12–16]].—R.\]
 
-1070 [[Mark 01#^1-40|Mark i. 40]]. Comp. [[Luke 05#^5-12|Luke v. 12]]. [[Acts 03#^3-12|Acts iii. 12]]. \[The New Testament passage has been modified in the citation.—R.\]
+1070 [[Mark 01#^1-40|Mark i. 40]]. Comp. [[Luke 05#^5-12|Luke v. 12]]. 1071 [[Acts 03#^3-12|Acts iii. 12]]. \[The New Testament passage has been modified in the citation.—R.\]
 
 
 *[p. 309]* ^pg317
@@ -471,7 +471,7 @@ But what is, “for a testimony unto them”? For reproof, for demonstration, fo
 
 And if they were not in fact to be the better, hereby most of all one may perceive His respect for the law, that although He foreknew they would reap no benefit, He fulfilled all
 
-170 1075 Lev. xiv. 1–32. φιλοσοφ.
+170 1075 Lev. xiv. 1–32. 1076 φιλοσοφ.
 
 *[p. 311]* ^pg319
 
@@ -483,9 +483,9 @@ For this cause Paul also said, “Be ye thankful.”<sup>1081</sup> For the best
 
 For this cause even the awful mysteries, so full of that great salvation, which are celebrated at every communion, are called a sacrifice of thanksgiving,<sup>1082</sup>because they are the commemoration of many benefits, and they signify the very sum of God’s care for us, and by all means they work upon us to be thankful. For if His being born of a virgin was a great miracle, and the evangelist said in amaze, “now all this was done;” His being also slain, what place shall we find for that? tell me. I mean, if to be born is called “all this;” to be crucified, and
 
-1077 \[This interpretation is scarcely admissible, nor does Chrysostom notice the disobedience of the healed man ([[Mark 01#^1-45|Mark i. 45]]). The “testimony” is that commanded by Moses.—R.\] 1078 [[Matthew 24#^24-14|Matt. xxiv. 14]]. 1079 Ps. xix. 4; [[Romans 10#^10-18|Rom. x. 18]]. τ φλτρ.
+1077 \[This interpretation is scarcely admissible, nor does Chrysostom notice the disobedience of the healed man ([[Mark 01#^1-45|Mark i. 45]]). The “testimony” is that commanded by Moses.—R.\] 1078 [[Matthew 24#^24-14|Matt. xxiv. 14]]. 1079 Ps. xix. 4; [[Romans 10#^10-18|Rom. x. 18]]. 1080 τ φλτρ.
 
-1080 1081 [[Colossians 03#^3-15|Col. iii. 15]]. εχαριστα. \[The translator has paraphrased the passage. Literally, “which are at every assembly (σναξιν), are called Eucharist.” There is no suggestion of “sacrifice” in the Greek at this point.—R.\]
+1081 [[Colossians 03#^3-15|Col. iii. 15]]. 1082 εχαριστα. \[The translator has paraphrased the passage. Literally, “which are at every assembly (σναξιν), are called Eucharist.” There is no suggestion of “sacrifice” in the Greek at this point.—R.\]
 
 
 *[p. 312]* ^pg320
@@ -504,7 +504,7 @@ Wherefore Paul also, everywhere in his epistles, gives thanks for God’s gracio
 
 And to pass over all the rest, which exceed the sand in multitude; what is equal to the dispensation<sup>1085</sup>that hath taken place for our sake? In that what was more precious to Him than all, even His only-begotten Son, Him He gave for us His enemies; and not only gave, but after giving, did even set Him before us as food;<sup>1086</sup> Himself doing all things that were for our good, both in giving Him, and in making us thankful for all this. For because man is for the most part unthankful, He doth Himself everywhere take in hand and bring about what is for our good. And what He did with respect to the Jews, by places, and times, and feasts, reminding them of His benefits, that He did in this case also, by the manner of the sacrifice bringing us to a perpetual remembrance of His bounty in these things.
 
-1083 \[Here the word meaning “sacrifice” is used.—R.\] 1084 [[Luke 02#^2-14|Luke ii. 14]]. \[The form is that of the received text; but “among men” is the correct rendering even of this reading.—R.\] οκονομα. 1085 τρπεζαν, a table.
+1083 \[Here the word meaning “sacrifice” is used.—R.\] 1084 [[Luke 02#^2-14|Luke ii. 14]]. \[The form is that of the received text; but “among men” is the correct rendering even of this reading.—R.\] 1085 οκονομα. 1086 τρπεζαν, a table.
 
 
 *[p. 313]* ^pg321
@@ -515,9 +515,9 @@ No one hath so labored that we should be approved, and great, and in all things 
 
 And this springs from pride, and from thinking one’s self worthy of something. But the contrite will acknowledge grounds of thanksgiving to God, not for good things only, but also for what seem to be adverse; and how much soever he may suffer, will count none of his sufferings undeserved. Let us then also, the more we advance in virtue, so much the more make ourselves contrite; for indeed this, more than anything else is virtue. Because, as the sharper our sight is, the more thoroughly do we learn how distant we are from the sky; so the more we advance in virtue, so much the more are we instructed in the difference between God and us. And this is no small part of true wisdom,<sup>1089</sup>to be able to perceive our own desert. For he best knows himself, who accounts himself to be nothing. Thus we see that both David and Abraham, when they were come up to the highest pitch of virtue, then best fulfilled this; and would call themselves, the one, “earth and ashes,”<sup>1090</sup>the other, “a worm;”<sup>1091</sup>and all the saints too, like these, acknowledge their own wretchedness. So that he surely who is lifted up in boasting, is the very person to be most ignorant of himself. Wherefore also in our common practice we are wont to say of the proud, “he knows not himself,” “he is ignorant of himself.” And he that knows not himself, whom will he know? For as he that knows himself will know all things, so he who knows not this, neither will he know the rest.
 
-1087 2 Cor. xii. 9. 1088 Wisdom xvi. 29. φιλοσοφα. 1089
+1087 2 Cor. xii. 9. 1088 Wisdom xvi. 29. 1089 φιλοσοφα.
 
-1090 Gen. xviii. 27.
+1090 Gen. xviii. 27. 1091 Ps. ii. 7.
 
 
 *[p. 314]* ^pg322
@@ -528,7 +528,7 @@ Him therefore let us emulate and follow. And we shall follow him, if we rid ours
 
 172 In order therefore that we may learn this good knowledge, let us, disengaged from all the perishable things that kindle in us so great flame, and made aware of their vileness, show forth all lowliness of mind, and self-restraint: that we may attain unto blessings, both present and future: by the grace and love towards man of our Lord Jesus Christ, with whom be glory, might, and honor, to the Father, together with the Holy and Good Spirit, now and ever, and world without end. Amen.
 
-Isa. xiv. 13, τν στρων το ορανοἐλαχιστοτρον, here ἐσχτον.
+1092 Isa. xiv. 13, τν στρων το ορανοἐλαχιστοτρον, here ἐσχτον.
 
 *[p. 315]* ^pg323
 
@@ -550,7 +550,7 @@ This at least He did, in an opposite way, in the case also of the Phœnician wom
 
 For being a wise physician and full of resources, He knows how to bring about contraries the one by the other.<sup>1096</sup> And as here by His freely-offered coming, so there by His peremptory putting off and denial, He unfolds the woman’s faith. So likewise He doth in Abraham’s case, saying, “I will by no means hide from Abraham my servant;”<sup>1097</sup>to make thee know that man’s kindly affection, and his care for Sodom. And in the instance of Lot,<sup>1098</sup>they that
 
-1093 \[R.V., “in the house.”\] [[Luke 07#^7-2|Luke vii. 2]]. \[R.V., “and” at the point of death; κα in the citation means “and,” not “even.”—R.\] 1094 1095 [[Luke 05#^5-19|Luke v. 19]]. δι τν ναντων τ νντια. The argument seems to require τ ατ, “the same things by opposite means:” but no 1096 ms. authority appears for such a change. 1097 Gen. xviii. 17 \[LXX.\]. Gen. xix. 2.
+1093 \[R.V., “in the house.”\] 1094 [[Luke 07#^7-2|Luke vii. 2]]. \[R.V., “and” at the point of death; κα in the citation means “and,” not “even.”—R.\] 1095 [[Luke 05#^5-19|Luke v. 19]]. 1096 δι τν ναντων τ νντια. The argument seems to require τ ατ, “the same things by opposite means:” but no ms. authority appears for such a change. 1097 Gen. xviii. 17 \[LXX.\]. 1098 Gen. xix. 2.
 
 
 *[p. 316]* ^pg324
@@ -571,7 +571,7 @@ Seest thou how each of them that bore witness of His authority is “marvelled a
 
 1099 [[Matthew 08#^8-8|Matt. viii. 8]].
 
-1100 \[R.V., “only say the word,” “Gr. with a word.” Chrysostom varies from the order, placing “only” last.—R.\] 1101 [[Matthew 08#^8-4|Matt. viii. 4]]. 1102 [[Matthew 07#^7-29|Matt. vii. 29]].
+1100 \[R.V., “only say the word,” “Gr. with a word.” Chrysostom varies from the order, placing “only” last.—R.\] 1101 [[Matthew 08#^8-4|Matt. viii. 4]]. 1102 [[Matthew 07#^7-29|Matt. vii. 29]]. 1103 [[Matthew 08#^8-2|Matt. viii. 2]].
 
 
 *[p. 317]* ^pg325
@@ -590,9 +590,9 @@ It follows, that to have high imaginations concerning Him, this especially is of
 
 Thus, since He had shown many miracles, He proceeds to talk with them more unreservedly.
 
-174 1104 [[Matthew 08#^8-8|Matt. viii. 8]]. 1105 [[Matthew 08#^8-10|Matt. viii. 10]]. \[The reading of the received text is found here. Comp. R.V. margin for the reading of the Vatican ms., accepted by Augustin.—R.\] 1106 [[John 11#^11-22|John xi. 22]]. 1107 [[John 11#^11-40|John xi. 40]]. 1108 [[John 11#^11-25|John xi. 25]]. ἐνεργεαν. 1109 [[Matthew 08#^8-10|Matt. viii. 10]]. Comp. στραφες, is taken from the latter passage.—R.\]
+174 1104 [[Matthew 08#^8-8|Matt. viii. 8]]. 1105 [[Matthew 08#^8-10|Matt. viii. 10]]. \[The reading of the received text is found here. Comp. R.V. margin for the reading of the Vatican ms., accepted by Augustin.—R.\] 1106 [[John 11#^11-22|John xi. 22]]. 1107 [[John 11#^11-40|John xi. 40]]. 1108 [[John 11#^11-25|John xi. 25]]. 1109 ἐνεργεαν. 1110 [[Matthew 08#^8-10|Matt. viii. 10]]. Comp. στραφες, is taken from the latter passage.—R.\]
 
-1110 [[Matthew 08#^8-11|Matt. viii. 11]], [[Matthew 08#^8-12|12]]. \[For “with” Chrysostom substitutes “in the bosom of” (ε το κλπου), commenting upon the term below (sec. 5). There is no authority for this reading, so far as now known.—R.\]
+1111 [[Matthew 08#^8-11|Matt. viii. 11]], [[Matthew 08#^8-12|12]]. \[For “with” Chrysostom substitutes “in the bosom of” (ε το κλπου), commenting upon the term below (sec. 5). There is no authority for this reading, so far as now known.—R.\]
 
 
 *[p. 318]* ^pg326
@@ -605,7 +605,7 @@ Then, that no one might suppose His words to come of flattery, but that all migh
 
 And yet it was not he that pressed it, but Christ that offered it: nevertheless even so he feared, lest perchance he should be thought to be going beyond his own deservings, and to
 
-175 1112 [[Matthew 08#^8-13|Matt. viii. 13]]. τ προαιρσειποιε. 1113 1114 [[Luke 07#^7-2|Luke vii. 2]]. 1115 [[John 04#^4-49|John iv. 49]]. φιλοσοφε.
+175 1112 [[Matthew 08#^8-13|Matt. viii. 13]]. 1113 τ προαιρσειποιε. 1114 [[Luke 07#^7-2|Luke vii. 2]]. 1115 [[John 04#^4-49|John iv. 49]]. 1116 φιλοσοφε.
 
 *[p. 319]* ^pg327
 
@@ -617,15 +617,15 @@ And if any one should say, “wherefore did not Christ honor him in return?” w
 
 Wherefore he said likewise, “For I also am a man set under authority;” that is, Thou art God, and I man; I under authority, but Thou not under authority. If I therefore, being a man, and under authority, can do so much; far more He, both as God, and as not under authority. Thus with the strongest expression he desires to convince Him, that he saith this, as one giving not a similar example, but one far exceeding. For if I (said he), being equal in
 
-βαρ πργμα.
+1117 βαρ πργμα.
 
-1117 1118
+1118
 
 [[Luke 07#^7-4|Luke vii. 4]].
 
 1119
 
-Ps. cxv. 3.
+Ps. cxv. 3. 1120 [[Matthew 08#^8-4|Matt. viii. 4]].
 
 *[p. 320]* ^pg328
 
@@ -643,7 +643,7 @@ And not by this alone did He honor him, but also by signifying upon whose castin
 
 But that His saying might not affront<sup>1124</sup>the hearers, nor afford them any handle; He neither brings forward prominently what He hath to say of the Gentiles, but upon occasion
 
-1121 [[Matthew 08#^8-9|Matt. viii. 9]]. 1122 1 Sam. xxvi. 1123 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Comp. Hom. XXII. 4, p.148, on the reading “kingdom of heaven.”—R.\] προσστναι, “disagree with, be nauseous to.”
+1121 [[Matthew 08#^8-9|Matt. viii. 9]]. 1122 1 Sam. xxvi. 1123 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Comp. Hom. XXII. 4, p.148, on the reading “kingdom of heaven.”—R.\] 1124 προσστναι, “disagree with, be nauseous to.”
 
 
 *[p. 321]* ^pg329
@@ -660,7 +660,7 @@ Let no man therefore suppose that the threat is one only, for both the punishmen
 
 But nevertheless, unto this great and marvellous work the centurion too contributed no little; which thing, we see, Christ also declared, saying, “Go thy way, and as thou hast
 
-1125 [[Matthew 08#^8-11|Matt. viii. 11]]. 1126 \[Both terms were current in Jewish theological language; but it is implied in the argument that “Abraham’s bosom” was not so well known, or so definitely apprehended.—R.\]
+1125 [[Matthew 08#^8-11|Matt. viii. 11]]. 1126 \[Both terms were current in Jewish theological language; but it is implied in the argument that “Abraham’s bosom” was not so well known, or so definitely apprehended.—R.\] 1127 [[Matthew 03#^3-9|Matt. iii. 9]].
 
 
 *[p. 322]* ^pg330
@@ -677,7 +677,7 @@ For not at all among Jews only may one see this taking place, but also among the
 
 1128 [[Matthew 19#^19-28|Matt. xix. 28]]. 1129 [[Matthew 19#^19-30|Matt. xix. 30]].
 
-1130 [[Matthew 03#^3-9|Matt. iii. 9]]. 1131 [[1 Corinthians 10#^10-12|1 Cor. x. 12]]. Jer. viii. 4.
+1130 [[Matthew 03#^3-9|Matt. iii. 9]]. 1131 [[1 Corinthians 10#^10-12|1 Cor. x. 12]]. 1132 Jer. viii. 4.
 
 
 *[p. 323]* ^pg331
@@ -692,4 +692,4 @@ Knowing therefore the devil’s craft, and that as well the lawgivers of the Gen
 
 Let us look then to the manner both of the sickness, and of the speedy recovery of that blessed man. What then was the manner of his sickness? He committed adultery and murder. For I shrink not from proclaiming these things with a loud voice. Since if the Holy Ghost thought it no shame to record<sup>1133</sup>all this history, much less ought we to draw any shade
 
-ἀναθεναι.
+1133 ἀναθεναι.

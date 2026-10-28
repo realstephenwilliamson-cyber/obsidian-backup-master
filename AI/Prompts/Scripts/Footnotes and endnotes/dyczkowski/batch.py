@@ -8,7 +8,7 @@
 import sys, os, json, subprocess
 B, first = sys.argv[1], int(sys.argv[2]); pairs = [a.split('=', 1) for a in sys.argv[3:]]
 H = '/home/claude/dyfn'; UP = '/mnt/user-data/uploads/Obsidian Vault/'; OUT = '/mnt/user-data/outputs/dyfn/' + B
-BK = '.work/backup-dyfn-2026-10-27-n2'   # the night's backup folder: change it each night (27 Oct night 1: backup-dyfn-2026-10-27)
+BK = '.work/backup-dyfn-2026-10-28-ch2'   # the session's backup folder: change it each night (27 Oct night 1: backup-dyfn-2026-10-27; night 2: -n2; 28 Oct Chapter Two: -ch2)
 os.makedirs(OUT + '/edits/dyfn-' + B, exist_ok=True); os.makedirs(OUT + '/queue', exist_ok=True)
 args, lst = [], []
 for nid, vp in pairs:
@@ -26,6 +26,6 @@ mk = lambda tag: t.replace('__NAME__', 'dyfn-' + B).replace('__TAG__', tag).repl
 job(first, f'dyfn-{B}-dry', False, mk(f'pf{first}-dyfn-{B}-dry'))
 job(first + 1, f'dyfn-{B}-apply', True, mk(f'pf{first + 1}-dyfn-{B}-apply'))
 c = open(f'{H}/scripts/dyfn-check.tpl.js', encoding='utf-8').read()
-c = c.replace('__TAG__', f'pf{first + 2}-dyfn-{B}-check').replace('__BACKUP__', BK).replace('__LIST__', json.dumps(lst, ensure_ascii=False)).replace('__UNRES__', '16/30')
+c = c.replace('__TAG__', f'pf{first + 2}-dyfn-{B}-check').replace('__BACKUP__', BK).replace('__LIST__', json.dumps(lst, ensure_ascii=False)).replace('__UNRES__', '17/33')
 job(first + 2, f'dyfn-{B}-check', False, c)
 print(sorted(os.listdir(OUT + '/queue')))

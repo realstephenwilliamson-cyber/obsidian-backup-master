@@ -24,7 +24,7 @@ received it when it was given, repented, found grace, and believing drunk that B
 
 2955 [[Acts 02#^2-37|Acts ii. 37]]. 2956 [[Galatians 05#^5-22|Gal. v. 22]]. 2957 [[Matthew 21#^21-21|Matt. xxi. 21]]. 2958 [[Matthew 21#^21-22|Matt. xxi. 22]]. 2959 [[John 15#^15-5|John xv. 5]].
 
-2960 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. Isa. ii. 2.
+2960 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. 2961 Isa. ii. 2.
 
 
 *[p. 813]* ^pg839
@@ -35,7 +35,7 @@ been done, and done by the Apostles. The tree is the Jewish nation, but I say ag
 
 3\. Now that in order to convey this truth the Lord acted prophetically, I mean that, as concerning this tree, it was not His will merely to exhibit a miracle, but that by the miracle He conveyed the intimation of something to come, there are many things which teach and persuade us, yea even against our wills force us to believe. In the first place, what fault in the tree was it that it had no fruit, when even if it had no fruit at the proper season, that is, the season of its fruit, it would not assuredly be any fault in the tree; for the tree as being without sense and reason could not be to blame. But to this is added, that as we read it in the narrative of the other Evangelist who expressly mentions this, “it was not the time for that fruit.”<sup>2964</sup> For that was the time when the fig-tree shoots forth its tender leaves, which come, we know, before the fruit; and this we prove, because the day of the Lord’s Passion was at hand, and we know at what time He suffered; and if we did not know it, we ought of course to give credit to the Evangelist who says, “The time of figs was not yet.” So then if it was only a miracle that was to have been set forth, and not something to be prophetically figured, it would have been much more worthy of the clemency and mercy of the Lord, to have made green again any tree He might find withered; as He healed the sick, as He cleansed the lepers, as He raised the dead. But then contrariwise, as though against the ordinary rule of His clemency, He found a green tree, not yet bearing fruit out of its proper season, but still not refusing the hope of fruit to its dresser, and He withered it away; as though He
 
-390 2962 [[Acts 13#^13-46|Acts xiii. 46]], etc.; Isa. xlix. 6. 2963 Isa. v. 6.
+390 2962 [[Acts 13#^13-46|Acts xiii. 46]], etc.; Isa. xlix. 6. 2963 Isa. v. 6. 2964 [[Mark 11#^11-13|Mark xi. 13]].
 
 *[p. 814]* ^pg840
 
@@ -45,7 +45,7 @@ would say to us, “I have no delight in the withering away of this tree, but th
 
 4\. This one thing is that which the Lord intimates that He designed to signify by what He did. What else is there? He cometh to the tree being hungry, and seeketh fruit. Did He not know that it was not the time for it? What the cultivator of the tree knew, did not its Creator know? He seeketh on the tree then for fruit which it had not yet. Doth He really seek for it, or rather make a pretence of seeking it? For if He really sought it, He was mistaken. But this be far from Him, to be mistaken! He made then a pretence of seeking it. Fearing to allow this, that he maketh a pretence, thou dost confess that He was mistaken. Again, thou dost turn away from the idea of His being mistaken, and so run into that of His making a pretence. We are parched up between the two. If we are parched, let us beg for rain, that we may grow green, lest in saying anything unworthy of the Lord, we rather wither away. The Evangelist indeed says, “He came to the tree, and found no fruit on it.”<sup>2965</sup> “He found none,” would not be said of Him, unless He had either really sought for it, or made a pretence of seeking, though He knew that there was none there. Wherefore we do not hesitate, let us by no means say that Christ was mistaken. What then? shall we say He made a pretence? Shall we say this? How shall we get out of this difficulty? Let us say what, if the Evangelist had not said of the Lord in another place, we should not of ourselves dare to say. Let us say what the Evangelist has written, and when we have said, let us understand it. But in order that we may understand it, let us first believe. For, “unless ye believe,” says the Prophet, “ye shall not understand.”<sup>2966</sup> The Lord Christ after His Resurrection, was walking in the way with two of His disciples, by whom He was not yet recognised, and with whom He joined company as a third traveller. They came to the place whither they were going, and the Evangelist says, “But He made a pretence as though He would have gone further.”<sup>2967</sup> But they kept Him, saying, in the spirit of a courteous kindness,<sup>2968</sup> that it was already drawing toward evening, and praying Him to tarry there with them; being received and entertained by them, He breaketh Bread, and is known of them in blessing and breaking of the Bread. So then, let us not now fear to say, that He made a pretence of seeking, if He made a pretence
 
-2965 [[Matthew 21#^21-19|Matt. xxi. 19]]. 2966 Isa. vii. 9, Sept. 2967 [[Luke 24#^24-28|Luke xxiv. 28]]. *More humanitatis*.
+2965 [[Matthew 21#^21-19|Matt. xxi. 19]]. 2966 Isa. vii. 9, Sept. 2967 [[Luke 24#^24-28|Luke xxiv. 28]]. 2968 *More humanitatis*.
 
 
 *[p. 815]* ^pg841
@@ -58,7 +58,7 @@ of going further. But here there arises another question. Yesterday<sup>2969</su
 
 391 2969 Probably in that Sermon which is marked as next before this in Posidonius’ Catalogue, ch. 9, namely, “From the Epistle to the Galatians, where Paul reproved Peter.” Ben ed. note.
 
-2970 *Commendavimus*. 2971 *Regulariter*. 2972 *Cognitionem*. 2973 [[Matthew 21#^21-42|Matt. xxi. 42]]; Ps. cxviii. 22. 2974 [[Ephesians 02#^2-14|Eph. ii. 14]]. 2975 *Magnum*. Gen. xxviii. 11, etc.
+2970 *Commendavimus*. 2971 *Regulariter*. 2972 *Cognitionem*. 2973 [[Matthew 21#^21-42|Matt. xxi. 42]]; Ps. cxviii. 22. 2974 [[Ephesians 02#^2-14|Eph. ii. 14]]. 2975 *Magnum*. 2976 Gen. xxviii. 11, etc.
 
 
 *[p. 816]* ^pg842
@@ -71,7 +71,7 @@ took the stone for a figure of Christ, to prove to us thereby that he was no str
 
 2977 Gen. xxv. 27. 2978 [[John 01#^1-47|John i. 47]], etc. 2979 [[1 Corinthians 11#^11-3|1 Cor. xi. 3]].
 
-2980 [[Acts 09#^9-4|Acts ix. 4]]. 2981 [[Galatians 01#^1-18|Gal. i. 18]]. [[Galatians 04#^4-22|Gal. iv. 22]].
+2980 [[Acts 09#^9-4|Acts ix. 4]]. 2981 [[Galatians 01#^1-18|Gal. i. 18]]. 2982 [[Galatians 04#^4-22|Gal. iv. 22]].
 
 
 *[p. 817]* ^pg843
@@ -82,7 +82,7 @@ fact; are ye looking for that which was figured in it? “These are the two Test
 
 7\. I see that one may say, Explain to me; what did that signify, that “He made a pretence of going further”? For if it had no further meaning, it is a deceit, a lie. We must then according to our rules of exposition, and distinctions, tell you what this “pretence of going further,” signified; “He made a pretence of going further,” and is kept back from going further. In so far then as the Lord Christ being as they supposed absent in respect of His Bodily presence, was thought to be really absent, He will as it were “go further.” But hold Him fast by faith, hold Him fast at the breaking of Bread. What shall I say more? Have ye recognised Him? If so, then have ye found Christ. I must not speak<sup>2984</sup> any longer on this Sacrament. They who put off the knowledge of this Sacrament, Christ goeth further from them. Let them then hold It fast, let them not let Him go; let them invite Him to their home, and so they are invited to heaven.
 
-392 2983 [[Matthew 13#^13-3|Matt. xiii. 3]], etc. See Serm. vi. (lvi. Ben.) 10 (vi.) note.
+392 2983 [[Matthew 13#^13-3|Matt. xiii. 3]], etc. 2984 See Serm. vi. (lvi. Ben.) 10 (vi.) note.
 
 *[p. 818]* ^pg844
 
@@ -98,7 +98,7 @@ Sermon XL.
 
 2985 The great Church in Carthage where the bodies of the Martyr Sts. Perpetua and Felicitas lay. See Ben. ed. in Sermon xix. note. 2986 *Baptized fideles*. 2987 *Apparatus*. 2988 *Voluntati omnium*. 2989 [[1 Corinthians 11#^11-29|1 Cor. xi. 29]].
 
-2990 *Liquido*. 2991 [[Matthew 19#^19-17|Matt. xix. 17]]. 2992 [[Matthew 07#^7-11|Matt. vii. 11]].
+2990 *Liquido*. 2991 [[Matthew 19#^19-17|Matt. xix. 17]]. 2992 [[Matthew 07#^7-11|Matt. vii. 11]]. 2993 [[John 13#^13-10|John xiii. 10]].
 
 
 *[p. 819]* ^pg845
@@ -111,7 +111,7 @@ dressing them all together, He said, “If ye being evil.” Peter heard this, J
 
 4\. But one will say, What of one man? what strange, what great matter is it, if one among the crowd “not having a wedding garment” crept in unperceived to the servants of the Householder? Could it be said because of that one, “they invited good and bad”? Attend therefore, my Brethren, and understand. That one man represented one class; for they were
 
-393 2994 [[Matthew 22#^22-10|Matt. xxii. 10]]. 2995 [[1 John 01#^1-8|1 John i. 8]]. [[1 John 01#^1-9|1 John i. 9]].
+393 2994 [[Matthew 22#^22-10|Matt. xxii. 10]]. 2995 [[1 John 01#^1-8|1 John i. 8]]. 2996 [[1 John 01#^1-9|1 John i. 9]].
 
 *[p. 820]* ^pg846
 
@@ -121,7 +121,7 @@ many. Here some diligent hearer may answer me, and say, “I have no wish for yo
 
 2997 Serm. xlv. (xcv. Ben.) 6. 2998 [[Matthew 22#^22-11|Matt. xxii. 11]]. 2999 [[Matthew 22#^22-12|Matt. xxii. 12]].
 
-3000 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 [[2 Corinthians 05#^5-3|2 Cor. v. 3]]. 3003 [[Matthew 22#^22-13|Matt. xxii. 13]].
+3000 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 [[2 Corinthians 05#^5-3|2 Cor. v. 3]]. 3003 [[Matthew 22#^22-13|Matt. xxii. 13]]. 3004 [[Matthew 22#^22-14|Matt. xxii. 14]].
 
 
 *[p. 821]* ^pg847
@@ -132,7 +132,7 @@ not cast out. He was it is true but one man “who had not the wedding garment. 
 
 5\. What is it then? I would not that ye all who approach the Lord’s Table which is in this life, should be with the many who are to be shut out, but with the few who are to be reserved. And how shall ye be able to attain to this? Take “the wedding garment.” Ye will say, “Explain this ‘wedding garment’ to us.” Without a doubt, that is the garment which none but the good have, who are to be left at the feast, reserved unto that other feast to which no bad man approaches, who are to be brought safely thither by the grace of the Lord; these have “the wedding garment.” Let us then, my Brethren, seek for those among the faithful who have something which bad men have not, and this will be “the wedding garment.” If we speak of sacraments, ye see how that these are common to the bad and good. Is it Baptism? Without Baptism it is true no one attaineth to God; but not every one that hath Baptism attaineth to Him. I cannot therefore understand Baptism, the Sacrament itself that is, to be “the wedding garment;” for this garment I see in the good, I see in the bad. Peradventure it is the Altar, or That which is received at the Altar. But no; we see that many eat, and “eat and drink judgment to themselves.” What is it then? Is it fasting? The wicked fast also. Is it running together to the Church? The wicked run thither also. Lastly, is it miracles? Not only do the good and bad perform them, but sometimes the good perform them not. See, among the ancient people Pharaoh’s magicians wrought miracles, the Israelites did not; among the Israelites, Moses only and Aaron wrought them; the rest did not, but saw, and feared, and believed.<sup>3006</sup> Were the magicians of Pharaoh who did miracles, better men than the people
 
-394 3005 [[Matthew 08#^8-11|Matt. viii. 11]]. Exod. vii.
+394 3005 [[Matthew 08#^8-11|Matt. viii. 11]]. 3006 Exod. vii.
 
 *[p. 822]* ^pg848
 
@@ -144,7 +144,7 @@ of Israel who could not do them, and yet that people were the people of God. In 
 
 3007 [[1 Corinthians 12#^12-29|1 Cor. xii. 29]], etc. 3008 [[1 Timothy 01#^1-5|1 Tim. i. 5]]. 3009 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]].
 
-3010 *Sacramentorum*. 3011 [[1 Corinthians 13#^13-3|1 Cor. xiii. 3]]. [[1 John 01#^1-8|1 John i. 8]].
+3010 *Sacramentorum*. 3011 [[1 Corinthians 13#^13-3|1 Cor. xiii. 3]]. 3012 [[1 John 01#^1-8|1 John i. 8]].
 
 
 *[p. 823]* ^pg849
@@ -157,7 +157,7 @@ all his heart and with all his mind. To such an one I would at once entrust his 
 
 7\. One may say, “Who is my neighbour?” Every man is your neighbour. Had we not all the same two parents? Animals of every species are neighbours one to the other, the dove to the dove, the leopard to the leopard, the asp to the asp, the sheep to the sheep, and is not man neighbour to man? Call to mind the ordering of the creation. God spake, the waters brought forth swimming creatures, great whales, fish, birds, and such like things. Did all the birds come of one bird? Did all vultures come of one vulture? Did all doves come of one dove? Did all snakes come of one snake? or all gilt-heads of one gilt-head?<sup>3016</sup> or all sheep of one sheep? No, the earth assuredly brought forth all these kinds together. But when it came to man, the earth did not bring forth man. One father was made for us; not even two, father and mother: one father, I say, was made for us, not even two, father and mother; but out of the one father came the one mother; the one father came from none, but was made by God, and the one mother came out of him. Mark then the nature of our race: we flowed out of one fountain; and because that one was turned to bitterness, we all became from a good, a wild olive tree. And so grace came also. One begat us unto sin and death, yet as one race, yet as neighbours one to another, yet as not merely like, but related to each other. There came *One* against *one*; against the one who scattered, One who gathereth. Thus against the
 
-3013 [[Philippians 02#^2-21|Phil. ii. 21]]. 3014 *Deferte*. 3015 Ps. x. 5, Sept. (xi. 5, English version). *Aurata*.
+3013 [[Philippians 02#^2-21|Phil. ii. 21]]. 3014 *Deferte*. 3015 Ps. x. 5, Sept. (xi. 5, English version). 3016 *Aurata*.
 
 
 *[p. 824]* ^pg850
@@ -170,7 +170,7 @@ one who slayeth, is the One who maketh alive. “For as in Adam all die, even so
 
 3017 [[1 Corinthians 15#^15-22|1 Cor. xv. 22]]. 3018 [[James 02#^2-19|Jas. ii. 19]]. 3019 [[Matthew 16#^16-16|Matt. xvi. 16]].
 
-3020 [[Matthew 08#^8-29|Matt. viii. 29]]; [[Mark 01#^1-24|Mark i. 24]]. 3021 [[Matthew 26#^26-35|Matt. xxvi. 35]]. 3022 [[Galatians 05#^5-6|Gal. v. 6]].
+3020 [[Matthew 08#^8-29|Matt. viii. 29]]; [[Mark 01#^1-24|Mark i. 24]]. 3021 [[Matthew 26#^26-35|Matt. xxvi. 35]]. 3022 [[Galatians 05#^5-6|Gal. v. 6]]. 3023 Ps. liii. 1.
 
 
 *[p. 825]* ^pg851
@@ -181,7 +181,7 @@ and not love Christ. But it is not possible that ye should love Christ, and yet 
 
 9\. So then, have faith with love. This is the “wedding garment.” Ye who love Christ, love one another, love your friends, love your enemies. Let not this be hard to you. What then do ye lose thereby, when ye gain so much? What? dost thou ask of God as some great favour, that thine enemy may die? This is not “the wedding garment.” Turn thy thoughts to the Bridegroom Himself hanging upon the Cross for thee, and praying to His Father for His enemies; “Father,” saith He, “forgive them, for they know not what they do.”<sup>3024</sup> Thou hast seen the Bridegroom speaking thus; see too the friend of the Bridegroom, a guest “with the wedding garment.” Look at the blessed Stephen, how he rebukes the Jews as though in rage and resentment, “Ye stiffnecked and uncircumcised in heart and ears, ye have resisted the Holy Ghost. Which of the Prophets have not your fathers killed?”<sup>3025</sup> Thou hast heard how 396 severe he is with his tongue. And at<sup>3026</sup> once thou art prepared to speak against any one; and I would it were against him who offendeth God, and not who offendeth thee. One offendeth God, and thou dost not rebuke him; he offendeth thee, and thou criest out; where is that “wedding garment”? Ye have heard therefore how Stephen was severe; now hear how he loved. He offended those whom he was rebuking, and was stoned by them. And as he was being overwhelmed and bruised to death by the hands of his furious persecutors on every side, and the blows of the stones, he first said, “Lord Jesus Christ, receive my spirit.”<sup>3027</sup> Then after he had prayed for himself standing, he bent the knee for them who were stoning him, and said, “Lord, lay not this sin to their charge; let me die in my body, but let not these die in their souls. And when he had said this, he fell asleep.”<sup>3028</sup> After these words he added no more; he spake them and departed; his last prayer was for his enemies. Learn ye hereby to have “the wedding garment.” So do thou too bend the knee, and beat thy forehead against the ground, and as thou art about to approach the Table of the Lord, the Feast of the Holy Scriptures, do not say, “O that mine enemy might die! Lord, if I have deserved ought of Thee, slay mine enemy.” Because if so be that thou sayest so, dost thou not fear lest He should answer thee, “If I should choose to slay thine enemy, I should first slay thee. What! dost thou glory because thou hast now come invited hither? Think only what thou wast but a little while ago. Hast thou not blasphemed Me? hast thou not derided Me? didst thou not wish to wipe out My Name from off the earth? Yet now thou dost applaud thyself because thou hast come invited hither! If I had slain thee when thou wast Mine enemy, how could
 
-3024 [[Luke 23#^23-34|Luke xxiii. 34]]. 3025 [[Acts 07#^7-51|Acts vii. 51]], [[Acts 07#^7-52|52]]. 3026 *Adhuc*. 3027 [[Acts 07#^7-59|Acts vii. 59]].
+3024 [[Luke 23#^23-34|Luke xxiii. 34]]. 3025 [[Acts 07#^7-51|Acts vii. 51]], [[Acts 07#^7-52|52]]. 3026 *Adhuc*. 3027 [[Acts 07#^7-59|Acts vii. 59]]. 3028 [[Acts 07#^7-60|Acts vii. 60]].
 
 
 *[p. 826]* ^pg852
@@ -194,7 +194,7 @@ I have made thee My friend? Why, by thy wicked prayers dost thou teach Me to do,
 
 3029 [[Luke 23#^23-34|Luke xxiii. 34]].
 
-3030 *Zabulo*; Lactant. *De Mort. Pers.* 16. 3031 *Grata*. 3032 [[2 Corinthians 12#^12-14|2 Cor. xii. 14]]. *Vid*. Serm. xxxvi. (lxxxvi. Ben.) 11 (ix., x.).
+3030 *Zabulo*; Lactant. *De Mort. Pers.* 16. 3031 *Grata*. 3032 [[2 Corinthians 12#^12-14|2 Cor. xii. 14]]. 3033 *Vid*. Serm. xxxvi. (lxxxvi. Ben.) 11 (ix., x.).
 
 
 *[p. 827]* ^pg853
@@ -205,7 +205,7 @@ thine enemy: let him be drawn to God. There is a son, a wife, a servant; let the
 
 it bruised? how worn away? When it is rubbed against the earth? And what is, “When it is rubbed against the earth”? When it is worn by earthly lusts. For “though man <sup>3034</sup> walketh in this image, yet is he disquieted in vain.”<sup>3035</sup> Truth is looked for in God’s image, not vanity. By the love of the truth then be that image, after which we were created, engraven anew, and His Own tribute rendered to our Cæsar. For so ye have heard from the Lord’s answer, when the Jews tempted Him, as He said, “Why tempt ye Me, ye hypocrites; show Me the tribute money,”<sup>3036</sup> that is, the impress and superscription of the image. Show me what ye pay, what ye get ready, what is exacted of you. And “they showed Him a denarius;” and “He asked whose image and superscription it had.” They answered, “Cæsar’s.” So Cæsar looks for his own image. It is not Cæsar’s will that what he ordered to be made should be lost to him, and it is not surely God’s will that what He hath made should be lost to Him. Cæsar, my Brethren, did not make the money; the masters of the mint<sup>3037</sup> make it; the workmen have their orders, he issues his commands to his ministers. His image was stamped upon the money; on the money was Cæsar’s image. And yet he requires what others have stamped; he puts it in his treasures; he will not have it refused him. Christ’s coin is man. In him is Christ’s image, in him Christ’s Name, Christ’s gifts, Christ’s rules of duty.<sup>3038</sup>
 
-3034 Serm. x. (lx. Ben.) 2, etc. 3035 Ps. xxxviii. 7, Sept. (xxxix. 6 English version). 3036 [[Matthew 22#^22-18|Matt. xxii. 18]], [[Matthew 22#^22-19|19]]. 3037 *Monetarii*. *Officia*.
+3034 Serm. x. (lx. Ben.) 2, etc. 3035 Ps. xxxviii. 7, Sept. (xxxix. 6 English version). 3036 [[Matthew 22#^22-18|Matt. xxii. 18]], [[Matthew 22#^22-19|19]]. 3037 *Monetarii*. 3038 *Officia*.
 
 
 *[p. 828]* ^pg854
@@ -222,7 +222,7 @@ Sermon XLI.
 
 3039 [[Matthew 27#^27-42|Matt. xxvii. 42]].
 
-3040 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]]. 3041 Gen. xxii. 18. 3042 Ps. cxviii. 22; [[Luke 20#^20-17|Luke xx. 17]], [[Luke 20#^20-18|18]].
+3040 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]]. 3041 Gen. xxii. 18. 3042 Ps. cxviii. 22; [[Luke 20#^20-17|Luke xx. 17]], [[Luke 20#^20-18|18]]. 3043 [[Matthew 22#^22-42|Matt. xxii. 42]].
 
 
 *[p. 829]* ^pg855
@@ -235,7 +235,7 @@ us;”<sup>3046</sup> see how He is David’s Son. But as being ignorant, they w
 
 3\. But seeing that is a great thing to know the mystery how He is David’s Son and David’s Lord: how one Person is both Man and God; how in the form of Man He is less than the Father, in the form of God equal with the Father; how again He saith, on the one hand, “The Father is greater than I;”<sup>3047</sup> and on the other, “I and My Father are one;”<sup>3048</sup> seeing this is a great mystery,<sup>3049</sup> our conduct must be fashioned, that it may be comprehended. For to the unworthy is it closed up, it is opened to those who are meet for it. It is not with stones, or clubs, or the fist, or the heel, that we knock unto the Lord. It is the life which knocks, it is to the life that it is opened. The seeking is with the heart, the asking is with the heart, the knocking is with the heart, the opening is to the heart. Now that heart which asks rightly, and knocks and seeks rightly, must be godly. Must first love God for His Own sake (for this is godliness); and not propose to itself any reward which it looks for from Him other than God Himself. For than Him is there nothing better. And what precious thing can he ask of God, in whose sight God Himself is lightly esteemed? He giveth earth, and thou rejoicest, thou lover of the earth, who art thyself become earth. If when He giveth earthly goods, thou dost rejoice, how much more oughtest thou to rejoice when He giveth thee Himself, who made heaven and earth? So then God must be loved for His own sake. For the Devil not knowing what was passing in the heart of holy Job, brought this as a great charge against him, saying, “Doth Job worship God for His Own sake.”<sup>3050</sup>
 
-3044 [[Matthew 22#^22-43|Matt. xxii. 43–45]]. 3045 [[John 01#^1-1|John i. 1]]. 3046 [[John 01#^1-14|John i. 14]]. 3047 [[John 14#^14-28|John xiv. 28]]. 3048 [[John 10#^10-30|John x. 30]]. 3049 *Sacramentum*. Job i. 9. *Gratis*.
+3044 [[Matthew 22#^22-43|Matt. xxii. 43–45]]. 3045 [[John 01#^1-1|John i. 1]]. 3046 [[John 01#^1-14|John i. 14]]. 3047 [[John 14#^14-28|John xiv. 28]]. 3048 [[John 10#^10-30|John x. 30]]. 3049 *Sacramentum*. 3050 Job i. 9. *Gratis*.
 
 
 *[p. 830]* ^pg856
@@ -246,7 +246,7 @@ us;”<sup>3046</sup> see how He is David’s Son. But as being ignorant, they w
 
 5\. Because then, in order to understand the mystery<sup>3053</sup> of God, how Christ is both man and God, the heart must be cleansed: and it is cleansed by a good conversation, by a pure life,<sup>3054</sup> by chastity, and sanctity, and love, and by “faith, which worketh by love”<sup>3055</sup> (now all this that I am speaking of, is, as it were, the tree which hath its root in the heart; for it is only from the root of the heart that actions proceed; in which if thou plant desire, thorns spring forth; if thou plant charity, good fruit): the Lord, after that question which He had
 
-3051 [[2 Corinthians 01#^1-12|2 Cor. i. 12]]. 3052 Job i. 21, Sept. 3053 *Sacramentum*. 3054 *Vita*. [[Galatians 05#^5-6|Gal. v. 6]].
+3051 [[2 Corinthians 01#^1-12|2 Cor. i. 12]]. 3052 Job i. 21, Sept. 3053 *Sacramentum*. 3054 *Vita*. 3055 [[Galatians 05#^5-6|Gal. v. 6]].
 
 
 *[p. 831]* ^pg857
@@ -259,7 +259,7 @@ but because they love them. For in these words he accused their heart. Now none 
 
 6\. But what then has the Church of God to do, that it may be able to understand what it has first obtained<sup>3060</sup> grace to believe? It must make the mind capacious for receiving what shall be given it. And that this may be done, that the mind, that is, may be capacious, our Lord God suspends His promises, He has not taken them away. Therefore does He suspend them, that we may stretch out ourselves; and therefore do we stretch ourselves out, that we may grow; and therefore do we grow, that we may reach them. Behold the Apostle Paul stretching himself out unto these suspended promises: “Not as though I had already attained, either were already perfect. Brethren, I count not myself to have apprehended: but
 
-3056 [[Matthew 23#^23-6|Matt. xxiii. 6]]; [[Mark 12#^12-39|Mark xii. 39]]. 3057 *Prepositi plebis*. 3058 [[Matthew 16#^16-6|Matt. xvi. 6]]. 3059 [[Matthew 16#^16-9|Matt. xvi. 9]], [[Matthew 16#^16-12|12]]. *Meruit*.
+3056 [[Matthew 23#^23-6|Matt. xxiii. 6]]; [[Mark 12#^12-39|Mark xii. 39]]. 3057 *Prepositi plebis*. 3058 [[Matthew 16#^16-6|Matt. xvi. 6]]. 3059 [[Matthew 16#^16-9|Matt. xvi. 9]], [[Matthew 16#^16-12|12]]. 3060 *Meruit*.
 
 
 *[p. 832]* ^pg858
@@ -270,7 +270,7 @@ this one thing I do; forgetting those things which are behind, and stretching fo
 
 7\. We must journey on then, yet for this no need of anointing the feet, or looking out for beasts, or providing a vessel. Run with the heart’s affection, journey on with love, ascend by charity. Why seekest thou for the way? Cleave unto Christ, who by Descending and Ascending hath made Himself the Way. Dost thou wish to ascend? Hold fast to Him that ascendeth. For by thine own self thou canst not rise. “For no man hath ascended up to heaven, but He that came down from heaven, even the Son of Man which is in heaven.”<sup>3062</sup> If no one ascendeth but He that descended, that is, the Son of Man, our Lord Jesus, dost thou wish to ascend also? Be then a member of Him who Only hath ascended. For He the Head, with all the members, is but One Man. And since no one can ascend, but he who in His Body is made a member of Him; that is fulfilled, “that no man hath ascended, but He that descended.” For thou canst not say, “Lo, why hath Peter, for instance, ascended, why hath Paul ascended, why have the Apostles ascended, if no one hath ascended, but He that descended?” The answer to this is, “What do Peter, and Paul, and the rest of the Apostles, and all the faithful, what do they hear from the Apostle? ‘Now ye are the Body of Christ, and members in particular.’<sup>3063</sup> If then the Body of Christ and His members belong to One, do not thou make two of them. For He left ‘father and mother, and clave to his wife, that two might be one flesh.’<sup>3064</sup> He left His Father, in that here He did not show Himself as equal with the Father; but ‘emptied Himself, taking the form of a servant.’<sup>3065</sup> He left His mother also, the synagogue of which He was born after the flesh. He clave to His Wife, that is, to His Church. Now in the place where Christ Himself brought forward this testimony, He showed that the marriage bond might not be dissolved: ‘Have ye not read,’ said He, ‘that God which made them at the beginning, made them male and female; and said, They twain shall be in one flesh? What therefore God hath joined together, let not man put asunder.’ 3066 And what is the meaning of ‘They twain shall be in one flesh’? He goes on to say;
 
-3061 [[Philippians 03#^3-12|Phil. iii. 12]], etc. 3062 [[John 03#^3-13|John iii. 13]]. 3063 [[1 Corinthians 12#^12-27|1 Cor. xii. 27]]. 3064 [[Ephesians 05#^5-31|Eph. v. 31]]. 3065 [[Philippians 02#^2-7|Phil. ii. 7]]. [[Matthew 19#^19-4|Matt. xix. 4]], etc.
+3061 [[Philippians 03#^3-12|Phil. iii. 12]], etc. 3062 [[John 03#^3-13|John iii. 13]]. 3063 [[1 Corinthians 12#^12-27|1 Cor. xii. 27]]. 3064 [[Ephesians 05#^5-31|Eph. v. 31]]. 3065 [[Philippians 02#^2-7|Phil. ii. 7]]. 3066 [[Matthew 19#^19-4|Matt. xix. 4]], etc.
 
 
 *[p. 833]* ^pg859
@@ -285,7 +285,7 @@ this one thing I do; forgetting those things which are behind, and stretching fo
 
 3067 [[John 03#^3-13|John iii. 13]]. 3068 Isa. lxi. 10, Sept. 3069 Isa. vii. 9, Sept.
 
-3070 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]]. 3071 *Benefica*. *Promerebimur abundantem*.
+3070 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]]. 3071 *Benefica*. 3072 *Promerebimur abundantem*.
 
 
 *[p. 834]* ^pg860
@@ -294,7 +294,7 @@ this one thing I do; forgetting those things which are behind, and stretching fo
 
 the blind; another visit the sick, another bury the dead. These are things which all may do, so that in a word it would be hard to find one who has not some means of doing good to others. And last of all comes that important duty which the Apostle speaks of; “Bear ye one another’s burdens, and so shall ye fulfil the law of Christ.”<sup>3073</sup>
 
-[[Galatians 06#^6-2|Gal. vi. 2]].
+3073 [[Galatians 06#^6-2|Gal. vi. 2]].
 
 *[p. 835]* ^pg861
 
@@ -304,7 +304,7 @@ Sermon XLII.
 
 \[XCII. Ben.\] *On the same words of the Gospel, [[Matthew 22#^22-42|Matt. xxii. 42]]* 1. The question which was proposed to the Jews, Christians ought to solve. For the Lord Jesus Christ, who proposed it to the Jews, did not solve it Himself, to the Jews, I mean, He did not, but to us He hath solved it. I will put you in remembrance, Beloved, and ye will find that He hath solved it. But first consider the knot of the question. He asked the Jews what they “thought of Christ, whose Son He was to be;” for they too look for the Christ. They read of Him in the Prophets, they expected Him to come, when He was come they killed Him; for where they read that Christ would come, there did they read that they should kill Christ. But His future coming they hoped for in the Prophets; for they did not see their future crime. He therefore so questioned them about the Christ, not as if about One who was unknown to them, or whose Name they had never heard, or whose coming they had never hoped for. For they err in that even yet they hope for Him. And we indeed hope for Him too; but we hope for Him as One who is to come as Judge, not to be judged. For the Holy Prophets prophesied both, that He should come first to be judged unrighteously, that He should come afterwards to judge with righteousness. “What think ye,” then, saith he, “of Christ? whose Son is He? They answered Him, The Son of David.”<sup>3074</sup> And this was entirely according to the Scriptures. But He said, “How then doth David in spirit call Him Lord, saying, The Lord said unto My Lord, Sit Thou on My right hand, till I make Thine enemies Thy footstool. If David then in spirit call Him Lord, how is He his Son?”<sup>3075</sup> 2. Here then is need of a caution, lest Christ be thought to have denied that He was the Son of David. He did not deny that He was the Son of David, but He enquired the way. “Ye have said that Christ is the Son of David, I do not deny it; but David calls Him Lord; tell me how is He his Son, who is also his Lord; tell me how?” They did not tell Him, but were silent. Let us then tell by the explanation of Christ Himself. Where? By His Apostle. But first, whereby do we prove that Christ hath Himself explained it? The Apostle says, “Would ye receive a proof of Christ who speaketh in me?”<sup>3076</sup> So then in the Apostle hath He vouchsafed to solve this question. In the first place, what said Christ speaking by the Apostle to Timothy? “Remember that Jesus Christ of the seed of David was raised from the dead according to my Gospel.”<sup>3077</sup> See, Christ is the Son of David. How is He also David’s Lord? Tell us, O Apostle: “who being in the form of God, thought it not robbery to be equal with God.” Acknowledge David’s Lord. If thou acknowledge David’s Lord, our Lord, the Lord of heaven
 
-401 3074 [[Matthew 22#^22-42|Matt. xxii. 42]]. 3075 [[Matthew 22#^22-43|Matt. xxii. 43–45]]. 3076 2 Cor. xiii. 3. [[2 Timothy 02#^2-8|2 Tim. ii. 8]].
+401 3074 [[Matthew 22#^22-42|Matt. xxii. 42]]. 3075 [[Matthew 22#^22-43|Matt. xxii. 43–45]]. 3076 2 Cor. xiii. 3. 3077 [[2 Timothy 02#^2-8|2 Tim. ii. 8]].
 
 *[p. 836]* ^pg862
 
@@ -316,7 +316,7 @@ and earth, the Lord of the Angels, equal with God, in the form of God, how is He
 
 3078 [[Philippians 02#^2-6|Phil. ii. 6]], etc. 3079 [[Matthew 21#^21-44|Matt. xxi. 44]].
 
-3080 Vinc. Lirinens. *Commonit*. xii.; *Conf*. vii. 26 (xx.), Oxf. transl, and note *f*. 3081 *Conf*. v. 16 (ix.), 20 (x.), 25 (xix.), vii. 25 (xix.), Oxf. trans. and note *A*, p. 325. *De Dono Perseverant*, c. 67 (xxiv.), Serm. lxvi. (cxvi. Ben.) 1–5 (i.-iv.), Epist. 236 (al. 74) 2. 3082 [[John 01#^1-1|John i. 1]]. 3083 [[Philippians 02#^2-6|Phil. ii. 6]]. 3084 [[John 01#^1-14|John i. 14]]. [[Philippians 02#^2-7|Phil. ii. 7]].
+3080 Vinc. Lirinens. *Commonit*. xii.; *Conf*. vii. 26 (xx.), Oxf. transl, and note *f*. 3081 *Conf*. v. 16 (ix.), 20 (x.), 25 (xix.), vii. 25 (xix.), Oxf. trans. and note *A*, p. 325. *De Dono Perseverant*, c. 67 (xxiv.), Serm. lxvi. (cxvi. Ben.) 1–5 (i.-iv.), Epist. 236 (al. 74) 2. 3082 [[John 01#^1-1|John i. 1]]. 3083 [[Philippians 02#^2-6|Phil. ii. 6]]. 3084 [[John 01#^1-14|John i. 14]]. 3085 [[Philippians 02#^2-7|Phil. ii. 7]].
 
 
 *[p. 837]* ^pg863
@@ -337,7 +337,7 @@ Sermon XLIII.
 
 2\. So then let us understand, dearly Beloved, that this parable relates to us all, that is, to the whole Church together, not to the Clergy<sup>3088</sup> only of whom we spoke yesterday; nor to the laity only; but generally to all. Why then are the Virgins five and five? These five and five virgins are all Christian souls together. But that I may tell you what by the Lord’s inspiration I think, it is not souls of every sort, but such souls as have the Catholic faith, and seem to have good works in the Church of God; and yet even of them, “five are wise, and five are foolish.” First then let us see why they are called “five,” and why “virgins,” and then let us consider the rest. Every soul in the body is therefore denoted<sup>3089</sup> by the number five, because it makes use of five senses. For there is nothing of which we have perception by the body, but by the five folded gate, either by the sight, or the hearing, or the smelling, or the tasting, or the touching. Whoso then abstaineth from unlawful seeing, unlawful hearing, unlawful smelling, unlawful tasting, and unlawful touching, by reason of his uncorruptness<sup>3090</sup> hath gotten the name of virgin.
 
-402 3086 *Sancti moniales*. 3087 Bing. *Antiq*. B, vii. c. iv. sect. 8. 3088 *Præpositos*. 3089 *Censetur*. *Integritatem*.
+402 3086 *Sancti moniales*. 3087 Bing. *Antiq*. B, vii. c. iv. sect. 8. 3088 *Præpositos*. 3089 *Censetur*. 3090 *Integritatem*.
 
 *[p. 839]* ^pg865
 
@@ -349,7 +349,7 @@ Sermon XLIII.
 
 5\. Of these then, my Brethren, yea, of these let us the rather treat. He who will not see what is evil, he who will not hear what is evil, he that turneth away his smell from the unlawful fumes, and his taste from the unlawful food of the sacrifices, he who refuseth the embrace of another man’s wife, breaketh his bread to the hungry, bringeth the stranger into his house, clotheth the naked, reconcileth the litigious, visiteth the sick, burieth the dead; he surely is a virgin, surely he hath lamps. What seek we more? Something yet I seek. What seekest thou
 
-3091 [[Matthew 05#^5-16|Matt. v. 16]]. 3092 [[Luke 12#^12-35|Luke xii. 35]]. 3093 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]]. [[2 Corinthians 11#^11-3|2 Cor. xi. 3]].
+3091 [[Matthew 05#^5-16|Matt. v. 16]]. 3092 [[Luke 12#^12-35|Luke xii. 35]]. 3093 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]]. 3094 [[2 Corinthians 11#^11-3|2 Cor. xi. 3]].
 
 
 *[p. 840]* ^pg866
@@ -362,7 +362,7 @@ yet, one will say? Something yet I seek; the Holy Gospel hath set me on the sear
 
 403 3095 *Supereminentiorem*. [[1 Corinthians 12#^12-31|1 Cor. xii. 31]]. 3096 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]]. 3097 *Vincit*. 3098 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. *Cadit*. 3099 [[Matthew 24#^24-12|Matt. xxiv. 12]], [[Matthew 24#^24-13|13]].
 
-3100 [[Matthew 25#^25-21|Matt. xxv. 21]]. 3101 [[Matthew 25#^25-5|Matt. xxv. 5]]. [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]].
+3100 [[Matthew 25#^25-21|Matt. xxv. 21]]. 3101 [[Matthew 25#^25-5|Matt. xxv. 5]]. 3102 [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]].
 
 
 *[p. 841]* ^pg867
@@ -377,7 +377,7 @@ are they called “they which are asleep,” but because they are in their own d
 
 9\. “But when that cry was made at midnight.” What cry was this, but that of which the Apostle says, “In the twinkling of an eye, at the last trump”? “For the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed”?<sup>3107</sup> And so when the
 
-3103 Ps. xl. 9, Sept. (xli. 8, English version). 3104 [[Matthew 25#^25-6|Matt. xxv. 6]]. 3105 [[Acts 01#^1-7|Acts i. 7]]. 3106 [[1 Thessalonians 05#^5-2|1 Thess. v. 2]]. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]].
+3103 Ps. xl. 9, Sept. (xli. 8, English version). 3104 [[Matthew 25#^25-6|Matt. xxv. 6]]. 3105 [[Acts 01#^1-7|Acts i. 7]]. 3106 [[1 Thessalonians 05#^5-2|1 Thess. v. 2]]. 3107 [[1 Corinthians 15#^15-52|1 Cor. xv. 52]].
 
 
 *[p. 842]* ^pg868
@@ -392,7 +392,7 @@ cry was made at midnight, “Behold, the Bridegroom cometh;” what follows? “
 
 3108 [[John 05#^5-28|John v. 28]], [[John 05#^5-29|29]]. 3109 [[Matthew 25#^25-4|Matt. xxv. 4]], 3.
 
-3110 [[2 Corinthians 01#^1-12|2 Cor. i. 12]]. 3111 [[Matthew 25#^25-8|Matt. xxv. 8]].
+3110 [[2 Corinthians 01#^1-12|2 Cor. i. 12]]. 3111 [[Matthew 25#^25-8|Matt. xxv. 8]]. 3112 [[Matthew 25#^25-9|Matt. xxv. 9]].
 
 
 *[p. 843]* ^pg869
@@ -407,7 +407,7 @@ in them. For they were not wise by ought of their own; but that wisdom was in th
 
 14\. See then what this, “Give us oil,” is. They were told “Go ye rather to them that sell.” In that ye have been used to live upon the praises of men, ye do not carry oil with you; but we can give you none; “lest there be not enough for us and you.” For scarcely do we judge of ourselves, how much less can we judge of you? What is “scarcely do we judge of ourselves”? Because, “When the righteous King sitteth on the throne, who will glory that his heart is pure?” <sup>3119</sup> It may be thou dost not discover anything in thine own conscience; but He who seeth better, whose Divine glance penetrateth into deeper things, discovereth it may be
 
-3113 Prov. i. 26. 3114 [[Matthew 25#^25-9|Matt. xxv. 9]]. 3115 *Impinguabit*. 3116 Ps. cxl. 5, Sept. (cxli. English version). 3117 *Titillant*. 3118 [[Matthew 06#^6-12|Matt. vi. 12]]. Prov. xx. 8, 9, Sept.
+3113 Prov. i. 26. 3114 [[Matthew 25#^25-9|Matt. xxv. 9]]. 3115 *Impinguabit*. 3116 Ps. cxl. 5, Sept. (cxli. English version). 3117 *Titillant*. 3118 [[Matthew 06#^6-12|Matt. vi. 12]]. 3119 Prov. xx. 8, 9, Sept.
 
 
 *[p. 844]* ^pg870
@@ -422,7 +422,7 @@ heaven.”<sup>3122</sup> He did not say, “may glorify you.” For thou hast n
 
 16\. It is said, and it is true, and no deceiving saying, “Knock, and it shall be opened unto you;”<sup>3125</sup> but now when it is the time of mercy, not when it is the time of judgment. For these times cannot be confounded, since the Church sings to her Lord of “mercy and judgment.”<sup>3126</sup> It is the time of mercy; repent. Canst thou repent in the time of judgment? Thou wilt be then as those virgins, against whom the door was shut. “Lord, Lord, open to us.” What! did they not repent, that they had brought no oil with them? Yes, but what profiteth
 
-3120 Ps. cxliii. 2. 3121 [[Matthew 06#^6-1|Matt. vi. 1]], etc. 3122 [[Matthew 05#^5-16|Matt. v. 16]]. 3123 [[1 Corinthians 04#^4-7|1 Cor. iv. 7]]. 3124 [[Matthew 25#^25-10|Matt. xxv. 10]]. 3125 [[Matthew 07#^7-7|Matt. vii. 7]].
+3120 Ps. cxliii. 2. 3121 [[Matthew 06#^6-1|Matt. vi. 1]], etc. 3122 [[Matthew 05#^5-16|Matt. v. 16]]. 3123 [[1 Corinthians 04#^4-7|1 Cor. iv. 7]]. 3124 [[Matthew 25#^25-10|Matt. xxv. 10]]. 3125 [[Matthew 07#^7-7|Matt. vii. 7]]. 3126 Ps. ci. 1.
 
 
 *[p. 845]* ^pg871
@@ -435,7 +435,7 @@ them their late repentance, when the true wisdom mocked them? Therefore “the d
 
 3127 [[Matthew 25#^25-12|Matt. xxv. 12]]. 3128 [[Matthew 25#^25-13|Matt. xxv. 13]]. 3129 *Vegetentur*.
 
-3130 *Incorporeis*. *Fluctuant*.
+3130 *Incorporeis*. 3131 *Fluctuant*.
 
 
 *[p. 846]* ^pg872
@@ -448,7 +448,7 @@ Sermon XLIV.
 
 1\. My lords, my brethren, and fellow bishops have deigned to visit us and gladden us by their presence; but I know not why they are unwilling to assist me, when wearied. I have said this to you, Beloved, in their hearing, that your hearing may in a manner intercede for me with them, that when I ask them they also may discourse unto you in their turn. Let them dispense what they have received, let them vouchsafe to work rather than excuse themselves. Be pleased, however, to hear from me, fatigued though I be and have difficulty in speaking, a few words only. For we have besides a record of God’s mercies vouchsafed through a holy Martyr, which we must give willing audience to altogether.<sup>3132</sup> What is it then? what shall I say unto you? Ye have heard in the Gospel both the due recompense<sup>3133</sup> of the good servants, and the punishment of the bad. And the whole wickedness of that servant who was reprobate and severely condemned, was that he would not put out his money to use. He kept the entire sum he had received; but the Lord looked for profit from it. God is coveteous with regard to our salvation. If he who did not put out to use is so condemned, what must they look for who lose what they have received? We then are the dispensers, we put out, ye receive. We look for profit; do ye live well. For this is the profit in our dealings with you. But do not think that this office of putting out to use does not belong to you also. Ye cannot execute it indeed from this elevated seat, but ye can wherever ye chance to be. Wherever Christ is attacked, defend Him; answer murmurers, rebuke blasphemers, from their fellowship keep yourselves apart. So do ye put out to use, if ye make gain of any. Discharge our office in your own houses. A bishop is called from hence, because he superintends, because he takes care and attends to others. To every man then, if he is the head of his own house, ought the office of the Episcopate to belong, to take care how his household believe, that none of them fall into heresy, neither wife, nor son, nor daughter, nor even his slave, because he has been bought at so great a price. The Apostolic teaching has set the master over the slave, and put the slave under the master; <sup>3134</sup> nevertheless Christ gave the same price for both. Do not neglect then the least of those belonging to you, look after the salvation of all your household with all vigilance. This if ye do, ye put out to use; ye will not be slothful servants, ye will not have to fear so horrible a condemnation.
 
-406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. [[Ephesians 06#^6-5|Eph. vi. 5]]; [[Titus 02#^2-9|Tit. ii. 9]].
+406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. 3134 [[Ephesians 06#^6-5|Eph. vi. 5]]; [[Titus 02#^2-9|Tit. ii. 9]].
 
 *[p. 847]* ^pg873
 
@@ -466,7 +466,7 @@ Sermon XLV.
 
 3135 *Saginam laudis eructuate*. 3136 [[Mark 08#^8-6|Mark viii. 6]]. 3137 Ps. cxix. 164. 3138 Ps. xxxiv. 1. 3139 [[Revelation 01#^1-4|Rev. i. 4]].
 
-3140 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu.
+3140 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu. 3141 [[Mark 08#^8-6|Mark viii. 6]].
 
 
 *[p. 848]* ^pg874
@@ -477,7 +477,7 @@ For so it is said, “And they that did eat were four thousand men, excepting wo
 
 4\. Ye know it, dearly Beloved; call to mind the parable of the Gospel, how that the Lord came in to inspect the guests at a certain feast of His. The Master of the house who had invited them, as it is written, “found there a man which had not on a wedding garment.”<sup>3143</sup> For to the marriage had that Bridegroom invited them who is “fair in beauty above the children of men.” That Bridegroom became deformed because of His deformed spouse, that he might make her fair. How did the Fair One become deformed? If I do not prove it, I am blaspheming. The testimony of his fair beauty the Prophet gives me, who saith, “Thou art fair in beauty above the children of men.”<sup>3144</sup> The testimony of his deformity another Prophet gives me, who saith, “We saw Him, and He had no grace, nor beauty; but His countenance was marred, and His whole look<sup>3145</sup> deformed.”<sup>3146</sup> O Prophet, who saidst, “Thou art fair in beauty above the children of men;” thou art contradicted; another Prophet cometh out against thee, and saith, “Thou speakest falsely. We have seen Him. What is this that thou sayest, ‘Thou art fair in beauty above the children of men? We have seen Him, and He had no grace nor beauty.’” Are then these two Prophets at disagreement in the Corner-stone of peace? Both spake of Christ, both spake of the Cornerstone. In the corner the walls unite. If they do not unite, it is not a building, but a ruin. No, the Prophets agree, let us not leave them in strife. Yea, rather let us understand their peace; for they know not how to strive. O Prophet, who saidst, “Thou art fair in beauty above the children of men;” where didst thou see Him? Answer me, answer where didst thou see Him? “Being in the form of God, He thought it not robbery to be equal with God.”<sup>3147</sup> There I saw Him. Dost thou doubt that He who is “equal with God” is “fair in beauty above the children of men”? Thou hast answered; now let him answer who said, “We saw Him, and He had no grace, nor beauty.” Thou hast said so; tell us where didst thou see Him? He begins from the other’s words; where the other ended, there he begins. Where did he end? “Who being in the form of God, thought
 
-407 3142 [[Matthew 15#^15-38|Matt. xv. 38]]. 3143 [[Matthew 22#^22-11|Matt. xxii. 11]]. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. [[Philippians 02#^2-6|Phil. ii. 6]].
+407 3142 [[Matthew 15#^15-38|Matt. xv. 38]]. 3143 [[Matthew 22#^22-11|Matt. xxii. 11]]. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. 3147 [[Philippians 02#^2-6|Phil. ii. 6]].
 
 *[p. 849]* ^pg875
 
@@ -491,7 +491,7 @@ it not robbery to be equal with God.” Lo, where he saw Him who was “fair in 
 
 3148 [[Philippians 02#^2-7|Phil. ii. 7]], [[Philippians 02#^2-8|8]]. 3149 Cant. i. 8.
 
-3150 Cant. viii. 5, Sept. *Dealbata*, “not as women whiten themselves, who would appear what they are not; not as a whitened wall,—not thus whitened, but enlightened, because not of itself white.—Grace came illumining and whitening; first thou wert black, but hast been made white by His grace. For ye were darkness, but now are ye light in the Lord.” St. Aug. *In Ps*. 103, s. 1, § 6. [[Matthew 22#^22-12|Matt. xxii. 12]], etc.
+3150 Cant. viii. 5, Sept. *Dealbata*, “not as women whiten themselves, who would appear what they are not; not as a whitened wall,—not thus whitened, but enlightened, because not of itself white.—Grace came illumining and whitening; first thou wert black, but hast been made white by His grace. For ye were darkness, but now are ye light in the Lord.” St. Aug. *In Ps*. 103, s. 1, § 6. 3151 [[Matthew 22#^22-12|Matt. xxii. 12]], etc.
 
 
 *[p. 850]* ^pg876
@@ -502,7 +502,7 @@ there I break the bread, and set it before you to be eaten. For He said, when he
 
 7\. What is “the wedding garment”? Let us search for it in the Holy Scriptures. What is “the wedding garment”? Without doubt it is something which the bad and good have not in common; let us discover this, and we shall discover “the wedding garment.” Among the gifts of God, what have not the good and bad in common?<sup>3153</sup> That we are men and not beasts, is a gift of God; but this is common to good and bad. That the light from heaven rises upon us, that the rain descends from the cloud, the fountains flow, the fields yield their fruit; these are gifts, but common to the good and bad. Let us go to the marriage feast, let us leave the others without, who being called come not. Let us consider the guests themselves, that 408 is, Christians. Baptism is a gift of God, the good and bad have it. The Sacraments of the Altar the good and bad receive together. Saul prophesied for all his wickedness, and in his rage against a holy and most righteous man, even while he was persecuting him, he prophesied. Are the good only said to believe? “The devils also believe and tremble.”<sup>3154</sup> What shall I do? I have sifted all, and have not yet come to “the wedding garment.” I have unfolded my envelopings, I have considered all, or almost all, and have not yet come to that garment. The Apostle Paul in a certain place has brought me a great collection<sup>3155</sup> of excellent things; he has laid them open before me, and I have said to him, “Show me, if so be thou hast found among them that ‘wedding garment.’” He begins to unfold them one by one, and to say, “Though I speak with the tongues of men and of Angels, though I have all knowledge, and the gift of prophecy, and all faith, so that I could remove mountains; though I distribute all my goods to the poor, and give my body to be burned.”<sup>3156</sup> Precious garments! nevertheless, there is not yet here that “wedding garment.” Now bring out to us “the wedding garment.” Why dost thou keep us in suspense, O Apostle? Peradventure prophecy is a gift of God which both good and bad have not. “If,” says He, “I have not charity, nothing profiteth me.” See “the wedding garment;” put it on, ye guests, that ye may sit down securely. Do not say; “we are too poor to have that garment.” Clothe others, and ye are clothed yourselves. It is winter, clothe the naked. Christ is naked; and He will give you that “wedding garment”
 
-3152 [[Matthew 22#^22-14|Matt. xxii. 14]]. 3153 *Vid*. Serm. xl. (xc. Ben.) 5, etc. 3154 [[James 02#^2-19|Jas. ii. 19]]. 3155 *Involucrum*. [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]], etc.
+3152 [[Matthew 22#^22-14|Matt. xxii. 14]]. 3153 *Vid*. Serm. xl. (xc. Ben.) 5, etc. 3154 [[James 02#^2-19|Jas. ii. 19]]. 3155 *Involucrum*. 3156 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]], etc.
 
 
 *[p. 851]* ^pg877
@@ -523,4 +523,4 @@ Sermon XLVI.
 
 2\. The first destruction of man, was the love of himself. For if he had not loved himself, if he had preferred God to himself, he would have been willing to be ever subject unto God; and would not have been turned to the neglect of His will, and the doing his own will. For this is to love one’s self, to wish to do one’s own will. Prefer to this God’s will; learn to love thyself by not loving thyself. For that ye may know that it is a vice to love one’s self, the Apostle speaks thus, “For men shall be lovers of their own selves.”<sup>3160</sup> And can he who loves himself have any sure trust in himself? No; for he begins to love himself by forsaking God, and is driven away from himself to love those things which are beyond himself; to such a degree that when the aforesaid Apostle had said,” Men shall be lovers of their own selves,” he subjoined immediately, “lovers of money.” Already thou seest that thou art without. Thou hast begun to love thyself: stand in thyself if thou canst. Why goest thou without?
 
-409 3157 [[Mark 08#^8-34|Mark viii. 34]]. 3158 Ps. xvi. 4, Sept. (xvii. English version). 3159 [[Matthew 11#^11-30|Matt. xi. 30]]. [[2 Timothy 03#^3-2|2 Tim. iii. 2]].
+409 3157 [[Mark 08#^8-34|Mark viii. 34]]. 3158 Ps. xvi. 4, Sept. (xvii. English version). 3159 [[Matthew 11#^11-30|Matt. xi. 30]]. 3160 [[2 Timothy 03#^3-2|2 Tim. iii. 2]].

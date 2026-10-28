@@ -70,29 +70,11 @@ Thus we believe that while man's nature makes war possible, it does not make war
 
 *[p. 51]* ^pg62
 
-*"There is no escape from the impending doom save through a bold unconditional acceptance of the non-violent method. Democracy and violence go ill together. The States that today are nominaUy democratic have either to become frankly totalitarian or, if they are to become truly democratic, they must become courageously non-violent."* 
-
-*15* 
-
-3\. We make this choice because we believe that modern conditions have brought us to the end of the military road. The heavy polarization of power into two world centers, the development of ultimate weapons, and the miracles of communication and transportation are new factors in history that demand new attitudes toward conflict. If men continue to hold on to an old rehearsed response in the presence of these new elements, they will not grow, but die. This is the crisis that all living things periodically have faced. To try to cling to outworn patterns of security rather than face the risks of striving for a new approach, has always meant death. We believe it will again mean death. 
-
-The Choice-Untried 
-
-The choice we propose is a radical one, requiring new attitudes, new risks, and it may be, new suffering. It is not a choice that the United States has ever made before. It has no relation whatever to what military leaders and patriotic groups like to refer to as the "pacifist virus that undermined America" in the years after the first World War. Campaigns to demobilize and "bring the boys home," pressures for a quick "return to normalcy," insistence on lower taxes and smaller military budgets, and drifts toward isolationism, may be sincere expressions of a war-weary people, but they are not pacifism. These attitudes, stemming as they did from selfish motives, and unaccompanied by concern for the welfare of others, may, indeed, have hastened war in a world where power is necessary to retain privilege and protect position. It does not follow, however, that peace is only for the militarily strong, as Americans are being so insistently advised. Indeed, even if military superiority once did insure a kind of enforced peace, it can do so no longer now that cosmic weapons place cosmic power at the disposal of more than one nation. 
-
-We suggest that from now on, peace will not be for the strong, but for the just, and further, that there will neither be peace until men learn to be just, nor justice until men determine to renounce violence. 
+*The scan repeats pp. 51–52 here (PDF 62–63); their text is above, at PDF 60–61.*
 
 *[p. 52]* ^pg63
 
-The Choice--Not Utopian 
-
-Thus, we dissociate ourselves from the basically selfi~h attitude that has been miscalled pacifism, but that might be more accurately described as a kind of irresponsible anti-militarism. We dissociate ourselves also from utopianism. Though the choice of non-violence involves a radical change in men, it does not require perfection. 
-
-The renunciation of violence and the creation of a new climate in the world community will certainly be difficult, but we believe human nature, illumined and ennobled by divine power, can bear effective witness in the direction of world community. Man's character is a strange mixture of the petty, the self-centered, the fearful, and the complacent on the one hand, and the compassionate, the patient, the forgiving, and the noble on the other. The redemptive working of God in human lives, perhaps through the person of an inspired leader, can invoke on a large scale the qualities of sacrifice and service which are evidenced daily in common living, and which make up the heart of the non-violent alternative. Man *can* rise to noble heights, but he must first free himself from the compulsions of fear and the pressures of conformity. 
-
-Nor is this assertion of man's capacity to rise to noble heights only a philosophical conjecture. A concrete demonstration exists in the Indian campaign for independence, in which multitudes of men and women, without being raised to individual sainthood, were able to make an entirely new response to injustice and humiliation. In this situation, under the stimulus of a beloved cause and inspired leadership, ordinary people were enabled to find new courage and self-respect, were able to overcome hostility toward an enemy, and to endure physical suffering, imprisonment and other outrages without resorting to violence in return. The failure of Indians always to live up to Gandhi's exacting standards only underscores their humanity, and establishes the very point we are here making: it is not necessary to wait until a nation is made of saints to call forth other attitudes and responses than those which have for so long held men in the bondage of hatred and violence. 
-
-Thus we believe that while man's nature makes war possible, it does not make war inevitable. Under the inspiration of a great cause and with great leadership, human nature can be made adequate to achieve creative solutions to whatever problems confront it. Moreover, man's struggle to control himself has *been* marked by a continuing 
+*(Repeated page; see PDF 61.)*
 
 *[p. 53]* ^pg64
 
@@ -112,7 +94,7 @@ Nations is the best means of counteracting the corrosive effect of political att
 
 But we believe something more is needed if men are to find the inspiration and the wisdom finally to banish war from the international scene. Leadership at a new and deeper level is required; leadership that rejects violence and calls men to a new and revolutionary commitment to practice love in every area of life. Such a commitment will demand a high price, but we believe that those who would lead must be ready to pay it. Great goals are always costly, and we doubt there is any road to peace save that which for many leads through suffering and sacrifice. Indeed, we go further and say that paying this price is the most relevant political and spiritual act of our day. In order that others may judge its relevance, we therefore turn to a consideration of its meaning, in personal and in political terms. Since no superhuman demand is made, it should be possible to learn peace by practicing peace. What does this involve? 
 
-*[p. vi]* ^pg66
+*[p. 55]* ^pg66
 
 THE POLITICS OF NON-VIOLENCE 
 
@@ -230,7 +212,7 @@ resistance as a means of national defense until a people ready to pour billions 
 
 Such is the program we would chart for the individual and for the state of which he is a part. We have not denied that it involves risk, but no policy can be formulated that does not involve risk. We have not suggested it will be easy, but only that no policy that aims at achieving peace can be easy. Finally, we have made no sweeping claims that it would work, but only that it appears to us more workable and more relevant than the barren doctrines of vio.- lence that now enslave us. We believe that it merits the consideration of thoughtful men. 
 
-*[p. vii]* ^pg78
+*[p. 67]* ^pg78
 
 AN AFFIR~IATION 
 
@@ -304,7 +286,7 @@ t l HoRDERN, WILLIAM, *Christianity, Communism and History.* Nashville, Tennesse
 
 1s PATON, ALAN, *Cry, the Beloved Country.* New York: Charles Scribner's Sons, 1948. 19 FOULDS, ELFRIDA VIPONT, "Let Your Lives Speak," Pendle Hill pamphlet #71, May, 1953. 
 
-*[p. 83]* ^pg83
+*[PDF 83]* ^pg83
 
 HISTORICAL NOTE ABOUT 
 
@@ -318,7 +300,7 @@ For those wishing to learn more about Bayard Rustin, please go to http://rustin.
 
 March 2, 2012 
 
-*[p. 84]* ^pg84
+*[PDF 84]* ^pg84
 
 Copies of this report may be obtained from bookstores or from any of the following listed offices of the American Friends Service Committee, Incorporated: 
 

@@ -218,7 +218,7 @@ Take a cab very far, maybe two hours in traffic, to the shop to try and find the
 
 The shop is located in a bazaar with various stands. As I wait, the tattoo art\* ist whose shop, Anatolia Tattoo, is at the end of the bazaar comes over and starts talking to me. He asks if I have any tattoos, and I tell him ’No’. Why don‘t I get one, he says. I think, well, after coming all the way to Maltepe, I should make the trip worthwhile ... I've been wanting a tattoo anyway. The owner finally returns with a black laptop that looks oldish. I ask him if I can turn it on to check it out. He wants me to pay first, but 1 say I want to test it. Boot it. The thing runs loud and loads slow. When the desktop comes up, 1 see there are the usual icons, clustered on a black and white grainy image of what looks like a human cutting himself open with a straight razor. As I switch to the start program. I see other programs too: mathtype, lindo,
 
-*[PDF 17]* ^pg17
+*[p. xviii]* ^pg17
 
 mathcad, maple, fuzzygen. Go into Documents, but when I try open one. I find they are all PGP encrypted. Every single one of them. I go on the search browser and check the history and bookmarks ... find two links bookmarked in netscape browser and quickly write them down.
 

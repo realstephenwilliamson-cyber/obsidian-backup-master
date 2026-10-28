@@ -1,0 +1,14 @@
+You are a page reader for Stephen's Obsidian vault. First read your brief: /home/claude/dyfn/scripts/reader-brief.txt, then the Chapter Two points in /home/claude/dyfn/ch2/reader-ch2.txt (they take precedence where they differ) — follow them exactly.
+
+DIR = /home/claude/dyfn/rd/__ID__
+PDF = /mnt/user-data/uploads/Obsidian Vault/Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf
+Note: __TITLE__. YOUR PAGES: PDF __A__-__B__ (printed pp. __PA__-__PB__), the page images in DIR. Chapter Two's footnotes are numbered through the chapter; on your pages expect about __N1__-__N2__.
+
+Practical points:
+- Start with DIR/pages.txt, then read note.txt in ranges as you go (Read with offset/limit), and the page images 3 or 4 per turn.
+- Save your work as you go: after every 4-5 pages, write DIR/ops.json with all ops so far (same format as the final one), so nothing is lost if you are stopped. The final write replaces it.
+- Every footnote whose definition lies on your pages needs exactly one call `[^n]` where the print has its superscript (usually on the same page; a call may be on the page before).
+- In per_note, give every footnote of your pages: "n" (its label), "pdf", "printed" (the superscript NUMBER as printed at the footnote's start), "call_line".
+- Do not use more than about 300 tool calls; if a page truly cannot be decided, list it in problems and move on.
+- Never write the Tetragrammaton (the four-letter divine name) anywhere, in files or in your reply.
+- Write nothing outside DIR (no helper scripts left behind). Reply in under 250 words: the numbers covered, the count of each op kind, whether every definition's label equals the printed number (list the ones you changed), and the problems.

@@ -32,7 +32,7 @@ And these things again He said, both to restore the disciples, that they might n
 
 2935 [[Matthew 26#^26-22|Matt. xxvi. 22]]. 2936 [[John 13#^13-26|John xiii. 26]]. \[This verse is abridged in the Homily. “To whom, having dipped the sop, I will give it,” is an exact rendering. “He it is” is supplied above.—R.\] 2937 \[The words “his hand” are omitted.\] 2938 \[R.V., “through;” “that” is omitted.\] 2939 [[Matthew 26#^26-23|Matt. xxvi. 23]], [[Matthew 26#^26-24|24]]. \[R.V., “good were it,” etc.\]
 
-2940 \[Here “that” is given as in the received text.—R.\] [[Matthew 26#^26-25|Matt. xxvi. 25]]. \[R.V., “Rabbi;” but this change of title is first noticed below.—R.\]
+2940 \[Here “that” is given as in the received text.—R.\] 2941 [[Matthew 26#^26-25|Matt. xxvi. 25]]. \[R.V., “Rabbi;” but this change of title is first noticed below.—R.\]
 
 
 *[p. 845]* ^pg853
@@ -49,7 +49,7 @@ First then, it were well to repeat to thee the saying of the apostle, “Nay but
 
 But if thou still demandest reasons, we would say this, that the good are more admired for being among the bad; because their long-suffering and great self-command is then most shown. But thou takest away the occasion of their wrestlings, and conflicts, by saying these things. “What then, in order that these may appear good, are others punished?” saith he.
 
-[[Romans 09#^9-20|Rom. ix. 20]]. \[R.V., “Why didst thou make me thus?”\]
+2942 [[Romans 09#^9-20|Rom. ix. 20]]. \[R.V., “Why didst thou make me thus?”\]
 
 *[p. 846]* ^pg854
 
@@ -63,7 +63,7 @@ But how do Matthew and the other evangelists say, that, when he made the agreeme
 
 But how, if they were eating the passover, did they eat it contrary to the law? For they should not have eaten it, sitting down to their meat.<sup>2947</sup> What then can be said? That after eating it, they then sat down to the banquet.
 
-2943 [[Matthew 26#^26-25|Matt. xxvi. 25]]. 2944 \[A sentence is omitted here: “On this account, therefore, he also calls Him ‘Rabbi.’”—R.\] 2945 [[John 13#^13-27|John xiii. 27]]. [[John 13#^13-2|John xiii. 2]]. \[The Greek text of the citations begins with the words, δεπνου γενομνου, “supper being 2946 ended” (A.V.). But the better attested text reads γινομνου, “during supper,” (R.V.). The clause is omitted by the translator, for what reason does not appear.—R \] Exod. xii. 11.
+2943 [[Matthew 26#^26-25|Matt. xxvi. 25]]. 2944 \[A sentence is omitted here: “On this account, therefore, he also calls Him ‘Rabbi.’”—R.\] 2945 [[John 13#^13-27|John xiii. 27]]. 2946 [[John 13#^13-2|John xiii. 2]]. \[The Greek text of the citations begins with the words, δεπνου γενομνου, “supper being ended” (A.V.). But the better attested text reads γινομνου, “during supper,” (R.V.). The clause is omitted by the translator, for what reason does not appear.—R \] 2947 Exod. xii. 11.
 
 
 *[p. 847]* ^pg855
@@ -78,7 +78,7 @@ Will ye, that we bring forward the possessed and the covetous, and make a compar
 
 And this I will hereby endeavor to prove. For whom should we say was more mad, amongst madmen themselves; one who should cut himself, or one who together with himself
 
-2948 [[Luke 22#^22-15|Luke xxii. 15]].
+2948 [[Luke 22#^22-15|Luke xxii. 15]]. 2949 [[Matthew 26#^26-15|Matt. xxvi. 15]].
 
 
 *[p. 848]* ^pg856
@@ -97,6 +97,8 @@ should hurt those who met him? It is quite clear that it is this last. The madme
 
 That they are more naked than the possessed is evident from these things; and that they go into the deserts, neither this again could any one gainsay. For the wide and broad way is more desert than any desert. For though it have many that journey on it, yet none from
 
+2950 Ps. lvii. 4.
+
 *[p. 849]* ^pg857
 
 amongst men, but serpents, scorpions, wolves, adders, and asps. Such are they that practise wickedness. And this way is not only desert, but much more rugged than that *of the mad*. And this is hereby evident. For stones and ravines and crags do not so wound those that mount them, as robbery and covetousness the souls that practise them.
@@ -107,7 +109,7 @@ Would ye that I show next, how they also cut their heads with stones? Whence the
 
 And things here are like this; but let us speak also of the day to come. For though they give not heed, yet it is necessary for us to speak. In the day to come then, one will see everywhere such men as these undergoing punishment. For when He saith, “I was an hungered, and ye gave me no meat; I was thirsty, and ye gave me no drink;”<sup>2952</sup> He is punishing these; and when He saith, “Depart into the eternal fire prepared for the devil,” He is sending thither them that make a bad use of riches. And the wicked servant, who gives not to his fellow-servants the goods of his Lord, is of the number of these men, and he that buried his talent, and the five virgins.
 
-2951 [[Matthew 23#^23-25|Matt. xxiii. 25]], and comp. verse 27.
+2951 [[Matthew 23#^23-25|Matt. xxiii. 25]], and comp. verse 27. 2952 [[Matthew 25#^25-42|Matt. xxv. 42]].
 
 
 *[p. 850]* ^pg858
@@ -120,7 +122,7 @@ Therefore, I beseech you, let us give diligence to amend all such things, and to
 
 And the first sea to view is that of our childish days, having much tempestuousness, because of its folly, its facility, because it is not steadfast. Therefore also we set over it guides
 
-2953 [[Luke 16#^16-26|Luke xvi. 26]]. \[Freely cited.\]
+2953 [[Luke 16#^16-26|Luke xvi. 26]]. \[Freely cited.\] 2954 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
 
 *[p. 851]* ^pg859
@@ -161,9 +163,9 @@ And He gives thanks, to teach us how we ought to celebrate this sacrament, and t
 
 \[The text agrees exactly with the received; except in the substitution of ὑπρ for περ. The R.V. following 2956 the older authorities, omits “new,” also rendering διαθκη “covenant” in the text.—R.\]
 
-\[φρικωδεσττη, “most awful;” literally, “most terrifying,” but applied to religious awe.—R.\] 2957
+2957 \[φρικωδεσττη, “most awful;” literally, “most terrifying,” but applied to religious awe.—R.\]
 
-[[Luke 22#^22-3|Luke xxii. 3]]; see also [[John 13#^13-27|John xiii. 27]].
+2958 [[Luke 22#^22-3|Luke xxii. 3]]; see also [[John 13#^13-27|John xiii. 27]].
 
 *[p. 853]* ^pg861
 
@@ -177,7 +179,7 @@ And He Himself drank of it. For lest on hearing this, they should say, What then
 
 2959 Exod. xii. 14.
 
-2960 See [[1 Corinthians 11#^11-26|1 Cor. xi. 26]], and St. Chrys. on the place, Hom. XXVII. on 1 Cor., where he attributes the words “until He come,” expressly to St. Paul. Various early writers attribute them to our Lord. 2961 [[Luke 22#^22-15|Luke xxii. 15]].
+2960 See [[1 Corinthians 11#^11-26|1 Cor. xi. 26]], and St. Chrys. on the place, Hom. XXVII. on 1 Cor., where he attributes the words “until He come,” expressly to St. Paul. Various early writers attribute them to our Lord. 2961 [[Luke 22#^22-15|Luke xxii. 15]]. 2962 [[John 06#^6-60|John vi. 60]], [[John 06#^6-61|61]], [[John 06#^6-66|66]].
 
 
 *[p. 854]* ^pg862
@@ -196,7 +198,7 @@ But for what reason doth He go forth unto the mountain? Making Himself manifest,
 
 Then “He saith unto them, All ye shall be offended in me.”<sup>2965</sup> After this He mentions also a prophecy, “For it is written, I will smite the shepherd, and the sheep shall be scattered abroad:”<sup>2966</sup>at once persuading them ever to give heed to the things that are written, and at same time making it plain that He was crucified, according to God’s purpose; and by everything showing He was no alien from the old covenant, nor from the God preached therein, but that what is done is a dispensation,<sup>2967</sup>and that the prophets all proclaimed all
 
-474 2963 [[Matthew 26#^26-29|Matt. xxvi. 29]]. \[The word “henceforth” is omitted; “this” is joined with “vine,” and “new” is in a different position in the Greek. All these are variations from the received text, which is also followed in the R.V.—R.\] ε μσονασθητν. 2964 2965 [[Matthew 26#^26-31|Matt. xxvi. 31]]. 2966 See Zech. xiii. 7. \[The words “of the flock” are omitted, as in [[Mark 14#^14-27|Mark xiv. 27]]. They do not occur in the passage in Zechariah.—R.\] οκονομα.
+474 2963 [[Matthew 26#^26-29|Matt. xxvi. 29]]. \[The word “henceforth” is omitted; “this” is joined with “vine,” and “new” is in a different position in the Greek. All these are variations from the received text, which is also followed in the R.V.—R.\] 2964 ε μσονασθητν. 2965 [[Matthew 26#^26-31|Matt. xxvi. 31]]. 2966 See Zech. xiii. 7. \[The words “of the flock” are omitted, as in [[Mark 14#^14-27|Mark xiv. 27]]. They do not occur in the passage in Zechariah.—R.\] 2967 οκονομα.
 
 *[p. 855]* ^pg863
 
@@ -212,9 +214,9 @@ He suffers them not however, on the other hand, to wait until the sorrows, but w
 
 3\. What sayest thou, O Peter? the prophet said, “The sheep shall be scattered;” Christ hath confirmed the saying, and sayest thou, No? Is not what passed before enough, when Thou saidst, “Far be it from Thee,”<sup>2970</sup>and thy mouth was stopped? For this then He suffers him to fall, teaching him thereby to believe Christ in all things, and to account His declaration more trustworthy than one’s own conscience. And the rest too reaped no small benefit from his denial, having come to know man’s weakness, and God’ s truth. For when He foretells anything, we must no longer be subtle, nor lift up ourselves above the common sort. For, “thy rejoicing,” it is said, “thou shalt have in thyself, and not in another.”<sup>2971</sup> For where he should have prayed, and have said, Help us, that we be not cut off, he is confident in himself,
 
-2968 [[Matthew 26#^26-32|Matt. xxvi. 32]]. \[R.V., “am raised up.”\] [[Matthew 26#^26-33|Matt. xxvi. 33]]. \[The word ἀλλ is inserted, as in [[Mark 14#^14-29|Mark xiv. 29]].—R.\] 2969
+2968 [[Matthew 26#^26-32|Matt. xxvi. 32]]. \[R.V., “am raised up.”\] 2969 [[Matthew 26#^26-33|Matt. xxvi. 33]]. \[The word ἀλλ is inserted, as in [[Mark 14#^14-29|Mark xiv. 29]].—R.\]
 
-2970 [[Matthew 16#^16-22|Matt. xvi. 22]]. [[Galatians 06#^6-4|Gal. vi. 4]]. \[R.V., “glorying.”\]
+2970 [[Matthew 16#^16-22|Matt. xvi. 22]]. 2971 [[Galatians 06#^6-4|Gal. vi. 4]]. \[R.V., “glorying.”\]
 
 
 *[p. 856]* ^pg864
@@ -233,7 +235,7 @@ How then was it that He denied? he said not, that thou mayest not deny, but that
 
 For indeed fear had driven out all else, for it was beyond measure, and it became beyond measure, since God had to an exceeding degree deprived him of His help, and He did exceedingly deprive him thereof, because there was to an exceeding degree in him the passion of self-will and contradiction. In order then that He might pluck it up by the roots, therefore He suffered the terror to overtake him.
 
-2972 [[Luke 22#^22-32|Luke xxii. 32]]. \[R.V., “made supplication.”\] [[Luke 22#^22-31|Luke xxii. 31]]. \[R.V., “Satan asked;” margin, “Or, obtained you by asking.”\]
+2972 [[Luke 22#^22-32|Luke xxii. 32]]. \[R.V., “made supplication.”\] 2973 [[Luke 22#^22-31|Luke xxii. 31]]. \[R.V., “Satan asked;” margin, “Or, obtained you by asking.”\]
 
 
 *[p. 857]* ^pg865
@@ -248,9 +250,9 @@ See at any rate after these things how he was subdued. For after the resurrectio
 
 4\. All these things did that fall effect, and whereas before that he attributes all to himself, saying, “Though all men shall be offended, yet will I not be offended;” and, “If I should die, I will not deny Thee” (when he should have said, If I receive the assistance from Thee);—yet
 
-\[The preposition ἐν is omitted from the Greek text.—R.\] 2974 2975 [[Matthew 26#^26-34|Matt. xxvi. 34]], [[Matthew 26#^26-35|35]]. \[R.V., “If I must die with thee, *yet* will I not deny thee.”\] 2976 [[Matthew 26#^26-33|Matt. xxvi. 33]]. \[Slightly changed.\] 2977 [[Luke 22#^22-24|Luke xxii. 24]]. 2978 [[John 21#^21-21|John xxi. 21]]. 2979 *i.e*., the Ascension.
+2974 \[The preposition ἐν is omitted from the Greek text.—R.\] 2975 [[Matthew 26#^26-34|Matt. xxvi. 34]], [[Matthew 26#^26-35|35]]. \[R.V., “If I must die with thee, *yet* will I not deny thee.”\] 2976 [[Matthew 26#^26-33|Matt. xxvi. 33]]. \[Slightly changed.\] 2977 [[Luke 22#^22-24|Luke xxii. 24]]. 2978 [[John 21#^21-21|John xxi. 21]]. 2979 *i.e*., the Ascension.
 
-2980 [[Acts 01#^1-7|Acts i. 7]].
+2980 [[Acts 01#^1-7|Acts i. 7]]. 2981 [[Acts 10#^10-15|Acts x. 15]].
 
 
 *[p. 858]* ^pg866
@@ -271,7 +273,7 @@ How many now say, I would wish to see His form, the mark, His clothes, His shoes
 
 Let then no one approach it with indifference, no one faint-hearted, but all with burning hearts, all fervent, all aroused. For if Jews standing, and having on their shoes and their staves in their hands, ate with haste, much more oughtest thou to be watchful. For they indeed
 
-2982 [[Acts 03#^3-12|Acts iii. 12]]. \[Slightly altered.\]
+2982 [[Acts 03#^3-12|Acts iii. 12]]. \[Slightly altered.\] 2983 [[Luke 07#^7-47|Luke vii. 47]].
 
 
 *[p. 859]* ^pg867
@@ -283,6 +285,8 @@ were to go forth to Palestine, wherefore also they had the garb of pilgrims, but
 Consider how indignant thou art against the traitor, against them that crucified Him. Look therefore, lest thou also thyself become guilty of the body and blood of Christ. They slaughtered the all-holy body, but thou receivest it in a filthy soul after such great benefits. For neither was it enough for Him to be made man, to be smitten and slaughtered, but He also commingleth Himself with us, and not by faith only, but also in very deed maketh us His body. What then ought not he to exceed in purity that hath the benefit of this sacrifice, than what sunbeam should not that hand be more pure which is to sever this flesh, the mouth that is filled with spiritual fire, the tongue that is reddened by that most awful blood? Consider with what sort of honor thou wast honored, of what sort of table thou art partaking. That which when angels behold, they tremble, and dare not so much as look up at it without awe on account of the brightness that cometh thence, with this we are fed, with this we are commingled, and we are made one body and one flesh with Christ. “Who shall declare the mighty works of the Lord, and cause all His praises to be heard?”<sup>2984</sup> What shepherd feeds his sheep with his own limbs? And why do I say, shepherd? There are often mothers that after the travail of birth send out their children to other women as nurses; but He endureth not to do this, but Himself feeds us with His own blood, and by all means entwines us with Himself.
 
 Mark it, He was born of our substance. But, you say, this is nothing to all men; though it does concern all. For if He came unto our nature, it is quite plain that it was to all; but if to all, then to each one. And how was it, you say, that all did not reap the profit therefrom. This was not of His doing, whose choice it was to do this in behalf of all, but the fault of them that were not willing. With each one of the faithful doth He mingle Himself in the mysteries, and whom He begat, He nourishes by Himself, and putteth not out to another; by this also persuading thee again, that He had taken thy flesh. Let us not then be remiss, having been counted worthy of so much both of love and honor. See ye not the infants with how much eagerness they lay hold of the breast? with what earnest desire they fix their lips 477 upon the nipple? With the like let us also approach this table, and the nipple of the spiritual cup. Or rather, with much more eagerness let us, as infants at the breast, draw out the grace of the spirit, let it be our one sorrow, not to partake of this food. The works set before us are not of man’s power. He that then did these things at that supper, this same now also works them. We occupy the place of servants. He who sanctifieth and changeth them is the same. Let then no Judas be present, no covetous man. If any one be not a disciple, let him
+
+2984 Ps. cvi. 2.
 
 *[p. 860]* ^pg868
 
@@ -302,7 +306,7 @@ And whence know I, you may say, this person, and that person? I speak not of the
 
 Shall I say something more fearful. It is not so grievous a thing for the energumens<sup>2987</sup>to be within, as for such as these, whom Paul affirms to trample Christ under foot, and to “account the blood of the covenant unclean, and to do despite to the grace of the Spirit.”<sup>2988</sup> For he that hath fallen into sin and draws nigh, is worse than one possessed with a devil.
 
-2985 [[Matthew 26#^26-18|Matt. xxvi. 18]]. 2986 Ezek. xxxiii. 8. 2987 *i.e*., vexed with devils. [[Hebrews 10#^10-29|Heb. x. 29]]. \[Slightly altered, as in Homily LXXV. 5, p. 455.—R.\]
+2985 [[Matthew 26#^26-18|Matt. xxvi. 18]]. 2986 Ezek. xxxiii. 8. 2987 *i.e*., vexed with devils. 2988 [[Hebrews 10#^10-29|Heb. x. 29]]. \[Slightly altered, as in Homily LXXV. 5, p. 455.—R.\]
 
 
 *[p. 861]* ^pg869
@@ -337,7 +341,7 @@ Not without reason doth He inveigh against Peter most, although the others also 
 
 And He prays with earnestness, in order that the thing might not seem to be acting. And sweats flow over him for the same cause again, even that the heretics might not say this, that He acts the agony. Therefore there is a sweat like drops of blood, and an angel appeared strengthening Him, and a thousand sure signs of fear, lest any one should affirm the words to be feigned. For this cause also was this prayer. By saying then, “If it be possible, let it pass from me,” He showed His humanity; but by saying, “Nevertheless not as I will, but as Thou wilt,” He showed His virtue and self-command, teaching us even when nature pulls us back, to follow God. For since it was not enough for the foolish to show His face
 
-\[The only variation of text is the substitution of κα for ττε, at the beginning of verse 38. The R.V. renders, 2989 “sorrowful and sore troubled,” and “abide” instead of “tarry.”—R.\] 2990 [[Matthew 26#^26-39|Matt. xxvi. 39–41]]. \[The first part of verse 39 is abridged, and in 40“them” is substituted for “the disciples.” The remainder of the passage is in verbal agreement with the received text.—R.\]
+\[The only variation of text is the substitution of κα for ττε, at the beginning of verse 38. The R.V. renders, 2989 “sorrowful and sore troubled,” and “abide” instead of “tarry.”—R.\] 2990 [[Matthew 26#^26-39|Matt. xxvi. 39–41]]. \[The first part of verse 39 is abridged, and in 40“them” is substituted for “the disciples.” The remainder of the passage is in verbal agreement with the received text.—R.\] 2991 [[Matthew 26#^26-36|Matt. xxvi. 36]].
 
 *[p. 863]* ^pg871
 
@@ -353,7 +357,7 @@ And again He prayed in the same way, saying, “Father, if this cannot pass from
 
 And wherefore came He the second time? In order to reprove them, for that they were so drowned in despondency, as not to have any sense even of His presence. He did not however reprove them, but stood apart from them a little, showing their unspeakable
 
-2992 Comp. [[Mark 14#^14-37|Mark xiv. 37]]. 2993 [[Matthew 26#^26-42|Matt. xxvi. 42]]. \[The word “cup” is omitted as in R.V., but “from me” is retained as in the received text.—R.\] 2994 [[Matthew 26#^26-43|Matt. xxvi. 43]]. \[R.V., “sleeping;” “again” is omitted.—R.\] 2995 Gen. xli. 32. οκονομα.
+2992 Comp. [[Mark 14#^14-37|Mark xiv. 37]]. 2993 [[Matthew 26#^26-42|Matt. xxvi. 42]]. \[The word “cup” is omitted as in R.V., but “from me” is retained as in the received text.—R.\] 2994 [[Matthew 26#^26-43|Matt. xxvi. 43]]. \[R.V., “sleeping;” “again” is omitted.—R.\] 2995 Gen. xli. 32. 2996 οκονομα.
 
 
 *[p. 864]* ^pg872
@@ -370,7 +374,7 @@ But wherefore doth He say this? Because often when seized by them He had gone ou
 
 2997 [[Matthew 26#^26-45|Matt. xxvi. 45]]. 2998 [[Matthew 26#^26-46|Matt. xxvi. 46]]. 2999 [[Matthew 26#^26-47|Matt. xxvi. 47]].
 
-3000 [[Matthew 26#^26-48|Matt. xxvi. 48]]. \[R.V., “take him.”\]
+3000 [[Matthew 26#^26-48|Matt. xxvi. 48]]. \[R.V., “take him.”\] 3001 [[John 18#^18-4|John xviii. 4]].
 
 
 *[p. 865]* ^pg873
@@ -383,7 +387,7 @@ Knowing then these things, let us flee from covetousness. For that, that it was,
 
 Wherefore I say, let us flee from it; for I will not cease for ever saying this. For why, O man, dost thou gather gold? Why dost thou make thy bondage more bitter? Why thy watching more grievous? Why thy anxiety more painful? Account for thine own the metals buried in the mines, those in the kings’ courts. For indeed if thou hadst all that heap, thou wouldest keep it only, and wouldest not use it. For if now thou hast not used the things thou possessest, but abstainest from them as though they belonged to others, much more would this be the case with thee, if thou hadst more. For it is the way of the covetous, the more they heap up around them, the more to be sparing of it. “But I know,” sayest thou, “that these things are mine.” The possession then is in supposition only, not in enjoyment. But I should be an object of fear to men, sayest thou. Nay, but thou wouldest by this become a more easy prey both to rich and poor, to robbers, and false accusers, and servants, and in general to all that are minded to plot against thee. For if thou art desirous to be an object of fear, cut off the occasions by which they are able to lay hold of thee and pain thee, whoever
 
-[[Matthew 26#^26-50|Matt. xxvi. 50]]. \[The Greek text in the Homily is ἐφ πρει; but there is some authority for ἐφ πρει; which 3002 is abundantly attested in the New Testament passage. The latter reading is accepted in the R.V., “Friend, *do* that for which thou art come.”—R.\]
+[[Matthew 26#^26-50|Matt. xxvi. 50]]. \[The Greek text in the Homily is ἐφ πρει; but there is some authority for ἐφ πρει; which 3002 is abundantly attested in the New Testament passage. The latter reading is accepted in the R.V., “Friend, *do* that for which thou art come.”—R.\] 3003 [[Luke 22#^22-48|Luke xxii. 48]].
 
 *[p. 866]* ^pg874
 
@@ -405,7 +409,7 @@ But tell me the pleasure from hence. “I appear to be rich,” he saith, “and
 
 But there are some, saith he, who do enjoy what they possess, living in luxury, in gluttony, in drunkenness, spending sumptuously. You are telling me of persons worse than the first. For the last above all are the men, who have no enjoyment. For the first at least abstains
 
-Ecclus. xx. 4, xxx. 20.
+3004 Ecclus. xx. 4, xxx. 20.
 
 *[p. 867]* ^pg875
 
@@ -425,7 +429,7 @@ But nowhere do these things so plainly appear as in poverty, nowhere are those t
 
 When therefore thou seest great care about outward things, then be ashamed at the great unseemliness. For the houses of them that are rich most of all want seemliness. For when thou seest tables covered with hangings, and couches inlaid with silver, much as in the theatre, much as in the display of the stage, what can be equal to this unseemliness? For what kind of house is most like the stage, and the things on the stage? The rich man’s or the
 
-Eccles. ii. 13.
+3005 Eccles. ii. 13.
 
 *[p. 868]* ^pg876
 
@@ -439,7 +443,7 @@ But these things we have spoken not of those who are rich for a useful purpose, 
 
 If then thou also desirest to invite Him, deck thy house with alms, with prayers, with supplications, with vigils. These are the decorations of Christ the King, but those of mammon, the enemy of Christ. Let no one be ashamed then of a humble house, if it hath this furniture; let no rich man pride himself on having a costly house, but let him rather hide his face, and seek after this other, forsaking that, that both here he may receive Christ, and there enjoy the eternal tabernacles, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might world without end. Amen.
 
-[[Luke 19#^19-8|Luke xix. 8]]. \[Altered, as in previous citations.—R.\]
+3006 [[Luke 19#^19-8|Luke xix. 8]]. \[Altered, as in previous citations.—R.\]
 
 *[p. 869]* ^pg877
 
@@ -463,7 +467,7 @@ And wherefore doth He mention a scrip also? He was teaching them henceforth to b
 
 But whence were the swords there? They were come forth from the supper, and from the table. It was likely also there should be swords because of the lamb, and that the disciples,
 
-483 3007 \[R.V., “Or thinkest.”\] 3008 \[R.V., “even now.”\] \[The citation is very accurate; the only variation is the omission of μου after πατρα.—R.\] 3009
+483 3007 \[R.V., “Or thinkest.”\] 3008 \[R.V., “even now.”\] 3009 \[The citation is very accurate; the only variation is the omission of μου after πατρα.—R.\]
 
 3010 [[John 18#^18-10|John xviii. 10]]. 3011 [[Luke 22#^22-35|Luke xxii. 35–38]]. \[On the renderings of verse 36, see R.V. The text of the Homily admits of either interpretation, but the comment favors the rendering given in the text of the R.V.—R.\]
 
@@ -484,7 +488,7 @@ And wherefore did He not say, “Think ye that I cannot destroy them all?” Bec
 
 Since then He had shown forth many tokens of human nature, He did not seem likely to speak so as to be believed, if He had said, “Think ye that I cannot destroy them.” Therefore He saith, “What, think ye that I cannot pray to my Father?” And again He speaks it humbly, in saying, “He will presently give me twelve legions of angels.” For if one angel slew one hundred and eighty-five armed thousands,<sup>3016</sup>what need of twelve legions against a thousand men? But He frames His language with a view to their terror and weakness, for indeed they
 
-3012 [[John 18#^18-11|John xviii. 11]]. 3013 [[Luke 22#^22-49|Luke xxii. 49]]. 3014 [[Matthew 26#^26-53|Matt. xxvi. 53]], [[Matthew 26#^26-54|54]]. 3015 [[Matthew 26#^26-38|Matt. xxvi. 38]], [[Matthew 26#^26-39|39]]. 2 Kings xix. 35.
+3012 [[John 18#^18-11|John xviii. 11]]. 3013 [[Luke 22#^22-49|Luke xxii. 49]]. 3014 [[Matthew 26#^26-53|Matt. xxvi. 53]], [[Matthew 26#^26-54|54]]. 3015 [[Matthew 26#^26-38|Matt. xxvi. 38]], [[Matthew 26#^26-39|39]]. 3016 2 Kings xix. 35.
 
 
 *[p. 871]* ^pg879
@@ -503,7 +507,7 @@ But wherefore did they not lay hold on Him in the temple? Because they would not
 
 “Then all His disciples,” it is said, “forsook Him, and fled.” For when He was seized, they remained; but when He had said these things to the multitudes, they fled. For thenceforth
 
-3017 [[Matthew 26#^26-55|Matt. xxvi. 55]]. \[R.V., “robber”…“ to seize me”…“ye took me not.”\]
+3017 [[Matthew 26#^26-55|Matt. xxvi. 55]]. \[R.V., “robber”…“ to seize me”…“ye took me not.”\] 3018 [[Matthew 26#^26-56|Matt. xxvi. 56]].
 
 
 *[p. 872]* ^pg880
@@ -522,7 +526,7 @@ Wherefore also they were all assembled together, and it was a council of pestile
 
 3019 [[Matthew 26#^26-57|Matt. xxvi. 57]], [[Matthew 26#^26-58|58]]. \[Abridged and altered.\]
 
-3020 [[John 18#^18-15|John xviii. 15]]. 3021 [[John 18#^18-28|John xviii. 28]]. \[Compare Homily LXXVI. 1, and the note there.—R.\] συνδριον λοιμν; cf. Ps. i. 1. 3022 3023 [[Mark 14#^14-56|Mark xiv. 56]], [[Mark 14#^14-59|59]]. \[The passages are combined.—R.\] 3024 [[Matthew 26#^26-60|Matt. xxvi. 60]], [[Matthew 26#^26-61|61]]. \[The citation is very free, not agreeing with any one of the evangelists, according to our authorities; but it seems to combine terms from several passages.—R.\] 3025 See [[John 02#^2-19|John ii. 19–21]]. [[Matthew 26#^26-62|Matt. xxvi. 62]], [[Matthew 26#^26-63|63]]. \[Freely cited; the beginning is from the language of Pilate; chap. xxvii. 13.—R.\]
+3020 [[John 18#^18-15|John xviii. 15]]. 3021 [[John 18#^18-28|John xviii. 28]]. \[Compare Homily LXXVI. 1, and the note there.—R.\] 3022 συνδριον λοιμν; cf. Ps. i. 1. 3023 [[Mark 14#^14-56|Mark xiv. 56]], [[Mark 14#^14-59|59]]. \[The passages are combined.—R.\] 3024 [[Matthew 26#^26-60|Matt. xxvi. 60]], [[Matthew 26#^26-61|61]]. \[The citation is very free, not agreeing with any one of the evangelists, according to our authorities; but it seems to combine terms from several passages.—R.\] 3025 See [[John 02#^2-19|John ii. 19–21]]. 3026 [[Matthew 26#^26-62|Matt. xxvi. 62]], [[Matthew 26#^26-63|63]]. \[Freely cited; the beginning is from the language of Pilate; chap. xxvii. 13.—R.\]
 
 
 *[p. 873]* ^pg881
@@ -537,7 +541,7 @@ Having rent therefore his clothes, he saith, “What think ye?”<sup>3030</sup>
 
 But wherefore did they not bring forward the Sabbaths? Because He had often stopped their mouths; and moreover they wanted to take Him, and condemn Him by the things then said. And *the high priest* anticipated them, and gave the sentence as from them, and
 
-3027 [[Matthew 26#^26-63|Matt. xxvi. 63–65]]. \[In verse 63, “the living God” occurs twice, peculiar to this Homily: in verse 64“of heaven” is omitted. In other details the citation agrees with the received text.—R.\] 3028 [[Acts 07#^7-59|Acts vii. 59]]. 3029 [[Matthew 22#^22-43|Matt. xxii. 43–46]]. 486
+3027 [[Matthew 26#^26-63|Matt. xxvi. 63–65]]. \[In verse 63, “the living God” occurs twice, peculiar to this Homily: in verse 64“of heaven” is omitted. In other details the citation agrees with the received text.—R.\] 3028 [[Acts 07#^7-59|Acts vii. 59]]. 3029 [[Matthew 22#^22-43|Matt. xxii. 43–46]]. 3030 [[Matthew 26#^26-66|Matt. xxvi. 66]]. 486
 
 
 *[p. 874]* ^pg882
@@ -556,7 +560,7 @@ For such is the nature of error: it is destroyed by those things whereby it plot
 
 Let us not then everywhere seek victory, nor everywhere shun defeat. There is an occasion when victory brings hurt, but defeat profit. For, for instance, in the case of them that are angry; he that hath been very outrageous seems to have prevailed; but this man above all is the one subdued and hurt by the most grievous passion; but he that hath endured nobly, this man hath got the better and conquered. And while the one hath not had strength to
 
-3031 [[John 18#^18-30|John xviii. 30]]. \[R.V., “an evil-doer.”\] 3032 [[John 11#^11-48|John xi. 48]]. \[Freely paraphrased.\] 3033 [[John 18#^18-31|John xviii. 31]]. [[John 19#^19-21|John xix. 21]]. \[The citation is accurate; “it” is supplied by the translator to complete the sense.—R.\]
+3031 [[John 18#^18-30|John xviii. 30]]. \[R.V., “an evil-doer.”\] 3032 [[John 11#^11-48|John xi. 48]]. \[Freely paraphrased.\] 3033 [[John 18#^18-31|John xviii. 31]]. 3034 [[John 19#^19-21|John xix. 21]]. \[The citation is accurate; “it” is supplied by the translator to complete the sense.—R.\]
 
 
 *[p. 875]* ^pg883
@@ -584,7 +588,7 @@ Knowing then these things, let us follow after this victory, which is obtained b
 
 487
 
-Gen. xxxix. 17.
+3036 Gen. xxxix. 17.
 
 *[p. 877]* ^pg885
 
@@ -604,7 +608,7 @@ But another<sup>3041</sup>saith, that they covered His face with His own garment
 
 3037 \[R.V. margin, “Or, with rods.”\] 3038 \[R.V., “struck thee.” The variety of Greek terms used to express the maltreatment is remarkable, and is indicated in the R.V.—R.\] 3039 \[R.V., “struck thee.” The variety of Greek terms used to express the maltreatment is remarkable, and is indicated in the R.V.—R.\]
 
-3040 Isa. lii. 14 \[LXX.\].
+3040 Isa. lii. 14 \[LXX.\]. 3041 [[Luke 22#^22-64|Luke xxii. 64]].
 
 
 *[p. 878]* ^pg886
@@ -617,7 +621,7 @@ These things let us read continually, these things let us hear aright, these thi
 
 Oh strange and wonderful acts! When indeed he saw his master seized only, he was so fervent as both to draw his sword, and to cut off the man’s ear; but when it was natural for him to be more indignant, and to be inflamed and to burn, hearing such revilings, then he becomes a denier. For who would not have been inflamed to madness by the things that were then done? yet the disciple, overcome by fears, so far from showing indignation, even denies, and endures not the threat of a miserable and mean girl, and not once only, but a second and third time doth he deny Him; and in a short period, and not so much as before judges, for it was without for “when he had gone out into the porch,” they asked him, and he did not even readily come to a sense of his fall. And this Luke saith,<sup>3049</sup>namely, that Christ looked on him showing that he not only denied Him, but was not even brought to remembrance from within, and this though the cock had crowed; but he needed a further
 
-[[Mark 14#^14-65|Mark xiv. 65]]. \[In this passage δολοι does not occur, but ὑπηρται, which has a wider sense.—R.\] 3042 3043 [[Hebrews 13#^13-13|Heb. xiii. 13]]. 3044 [[Hebrews 12#^12-2|Heb. xii. 2]]. 3045 \[The order here is peculiar to this Homily.—R.\] \[ατν is inserted here.—R.\] 3046 \[The reading is peculiar (λγει Εκε κα οτο), as indicated in the rendering.—R.\] 3047 [[Matthew 26#^26-69|Matt. xxvi. 69–75]]. \[In verse 74, καταθεματζειν is read; in verse 75, ατ is omitted. These variations and 3048 those noted above are the only peculiarities.—R.\]
+3042 [[Mark 14#^14-65|Mark xiv. 65]]. \[In this passage δολοι does not occur, but ὑπηρται, which has a wider sense.—R.\] 3043 [[Hebrews 13#^13-13|Heb. xiii. 13]]. 3044 [[Hebrews 12#^12-2|Heb. xii. 2]]. 3045 \[The order here is peculiar to this Homily.—R.\] 3046 \[ατν is inserted here.—R.\] 3047 \[The reading is peculiar (λγει Εκε κα οτο), as indicated in the rendering.—R.\] 3048 [[Matthew 26#^26-69|Matt. xxvi. 69–75]]. \[In verse 74, καταθεματζειν is read; in verse 75, ατ is omitted. These variations and those noted above are the only peculiarities.—R.\] 3049 [[Luke 22#^22-61|Luke xxii. 61]].
 
 *[p. 879]* ^pg887
 
@@ -635,7 +639,7 @@ But mark, I pray thee, how the act was forced on, so as to take place at the fea
 
 This was a charge both against him, and against these men; against him, not because he repented, but because he did so, late, and slowly, and became self-condemned (for that he delivered Him up, he himself confessed); and against them, for that having the power to reverse it, they repented not.
 
-3050 [[Mark 14#^14-68|Mark xiv. 68]], [[Mark 14#^14-72|72]]. \[In both passages in Mark there are textual variations in the mss. The clause in verse 68, telling of the first cock-crowing, is omitted in three of the best mss. But the absence of any parallel statement would account for the omission.—R.\] 3051 [[1 Peter 05#^5-13|1 Pet. v. 13]]. 3052 [[Matthew 26#^26-34|Matt. xxvi. 34]]. 3053 [[Mark 14#^14-72|Mark xiv. 72]]. 3054 Chap. xxvii. 1, 2. \[This is not a citation, but a combination of terms occurring in all four accounts.—R.\] [[Matthew 26#^26-3|Matt. xxvi. 3]]. \[R.V. omits “had,” and reads “repented himself,” “brought back.”— R.\]
+3050 [[Mark 14#^14-68|Mark xiv. 68]], [[Mark 14#^14-72|72]]. \[In both passages in Mark there are textual variations in the mss. The clause in verse 68, telling of the first cock-crowing, is omitted in three of the best mss. But the absence of any parallel statement would account for the omission.—R.\] 3051 [[1 Peter 05#^5-13|1 Pet. v. 13]]. 3052 [[Matthew 26#^26-34|Matt. xxvi. 34]]. 3053 [[Mark 14#^14-72|Mark xiv. 72]]. 3054 Chap. xxvii. 1, 2. \[This is not a citation, but a combination of terms occurring in all four accounts.—R.\] 3055 [[Matthew 26#^26-3|Matt. xxvi. 3]]. \[R.V. omits “had,” and reads “repented himself,” “brought back.”— R.\]
 
 
 *[p. 880]* ^pg888
@@ -650,7 +654,7 @@ For neither could he bear his conscience scourging him. But mark, I pray thee, t
 
 3056 \[The words “and elders” are omitted, though Tischendorf cites Chrysostom otherwise.—R.\] 3057 \[R.V., “into the sanctuary,” accepting the reading given in the Homily.—R.\] 3058 [[Matthew 27#^27-3|Matt. xxvii. 3–5]]. \[R.V., “and he went away,” etc.\] 3059 [[John 19#^19-21|John xix. 21]].
 
-3060 Matt. xxvii. 64. \[Abridged.\] ὁ κορυφαο.
+3060 Matt. xxvii. 64. \[Abridged.\] 3061 ὁ κορυφαο.
 
 
 *[p. 881]* ^pg889
@@ -665,7 +669,7 @@ For if indeed these things had been said after the crucifixion, and His being sl
 
 3\. What then did that man? When he saw that he was laboring to no profit, and that they would not consent to receive the pieces of silver, “he cast them down in the temple, and went and hanged himself.<sup>3062</sup> And the chief priests took the pieces of silver, and said, it is not lawful for to put them into the treasury, because it is the price of blood. And they took counsel, and bought with them the potter’s field to bury strangers in. Wherefore that field was called, the field of blood, unto this day. Then was fulfilled that which was spoken by Jeremy the prophet, saying, and they took the thirty pieces of silver, the price of Him that was valued, and gave them for the potter’s field, as the Lord appointed me.”<sup>3063</sup>
 
-3062 [[Matthew 27#^27-5|Matt. xxvii. 5]]. \[See notes on the previous citation of this verse.—R.\] [[Matthew 27#^27-6|Matt. xxvii. 6–10]]. \[The only textual peculiarities are, the substitution of κα for δ, at the beginning of verse 7; and the omission of a clause in verse 9, as indicated above.—R.\]
+3062 [[Matthew 27#^27-5|Matt. xxvii. 5]]. \[See notes on the previous citation of this verse.—R.\] 3063 [[Matthew 27#^27-6|Matt. xxvii. 6–10]]. \[The only textual peculiarities are, the substitution of κα for δ, at the beginning of verse 7; and the omission of a clause in verse 9, as indicated above.—R.\]
 
 
 *[p. 882]* ^pg890
@@ -678,7 +682,7 @@ Hear ye as many as think to do good works out of murders, and take a reward for 
 
 Touching whom also the prophet saith, “Ye covered my altar with tears.”<sup>3064</sup> Christ is not willing to be fed by covetousness, He accepts not this food. Why dost thou insult thy Lord, offering Him unclean things? It is better to leave men to pine with hunger, than to feed them from these sources. That was the conduct of a cruel man, this of one both cruel and insolent. It is better to give nothing, than to give the things of one set of persons to others. For tell me, if you saw any two persons, one naked, one having a garment, and then having stripped the one that had the garment, thou wert to clothe the naked, wouldest thou not have committed an injustice? It is surely plain to every one. But if when thou hast given all that thou hast taken to another, thou hast committed an injustice, and not shown mercy; when thou givest not even a small portion of what thou robbest, and callest the deed alms, what manner of punishment wilt thou not undergo? For if men offering lame brutes were blamed, what favor wilt thou obtain doing things more grievous? For if the chief, making restitution to the owner himself, still doeth an injustice, and so doeth an injustice, as by adding fourfold scarcely to do away the charge against himself, and this under the old covenant;<sup>3065</sup>he that is not stealing, but taking by violence, and not even giving to him that is robbed, but instead of him to another; nor yet giving fourfold, but not so much as the half; and moreover not living under the old dispensation, but under the new; consider how much fire he is heaping together upon his own head. And if he do not as yet suffer his punishment, for this self-same thing I say bewail him, for he is treasuring up against himself a greater
 
-3064 Mal. ii. 13. Exod. xxii. 1.
+3064 Mal. ii. 13. 3065 Exod. xxii. 1.
 
 
 *[p. 883]* ^pg891
@@ -697,4 +701,4 @@ These things I do not mention for nought in the way of complaint, but in order t
 
 But if ye are not willing, behold the poor before your eyes; as many as it is possible for us to suffice, we will not cease to feed; but those, whom it is not possible, we will leave to you, that ye may not hear those words on the awful day, which shall be spoken to the unmerciful and cruel. “Ye saw me an hungered, and fed me not.”<sup>3067</sup>
 
-491 3066 [[Luke 13#^13-4|Luke xiii. 4]], [[Luke 13#^13-5|5]]. \[Freely cited.\]
+491 3066 [[Luke 13#^13-4|Luke xiii. 4]], [[Luke 13#^13-5|5]]. \[Freely cited.\] 3067 [[Matthew 25#^25-42|Matt. xxv. 42]].

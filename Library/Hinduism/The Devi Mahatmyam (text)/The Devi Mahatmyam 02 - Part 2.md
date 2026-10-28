@@ -128,7 +128,7 @@ World, endowed with various attributes. By You alone, the Mother, this World is 
 
  *Salutations to You, the Refuge of Humanity.* 
 
-*[PDF 45]* ^pg45
+*[p. 45]* ^pg45
 
 9\) Kalā kāṣhṭh’ādi rūpeṇa 
 
@@ -232,7 +232,7 @@ Kaumārī-rūpa samsthāne
 
 *Salutations be to You, O Narayani* 
 
-*[PDF 46]* ^pg46
+*[p. 46]* ^pg46
 
 16\) Śhañkha chakra gadā śhārñga *You wield the Supreme Weapons* 
 
@@ -322,7 +322,7 @@ Mahā-rātri mahā-māye
 
  *Salutations be to You, O Narayani.* 
 
-*[PDF 47]* ^pg47
+*[p. 47]* ^pg47
 
 23\) Medhe Saraswati vare, *Excellent Giver of Speech and Intelligence* Bhūti bābhravi tāmasi, *The Dark-coloured Consort of Shri Vishnu* 
 
@@ -416,7 +416,7 @@ Lokānāṁ varadā bhava *(35)*
 
 *Here ends the portion normally sung in Anushtubh Metre.* 
 
-*[PDF 48]* ^pg48
+*[p. 48]* ^pg48
 
 29\. When satisfied, You destroy illness but when wrathful You frustrate longed-for desires. No calamity befalls men who have sought You. Those who have sought You become verily a refuge for others. 
 
@@ -486,7 +486,7 @@ never forsake and there My Presence is certain.
 
 12\. During autumnal season, when the great annual worship is performed, the man hearing this glorification of mine with devotion shall certainly through My Grace, be delivered without doubt from all troubles and be blessed with riches, grains and children. 
 
-*[PDF 51]* ^pg51
+*[p. 51]* ^pg51
 
 14\. Hearing this glorification and auspicious appearances of Mine, and My feats of prowess in battles, a man becomes fearless. 
 
@@ -558,7 +558,7 @@ stationed themselves on the sand-bank of a river and practised penances, chantin
 
 12\. When they, with controlled minds, propitiated Her thus for three years, Chandikā, the Upholder of the World, was well pleased and spoke to them in visible form. 
 
-*[PDF 54]* ^pg54
+*[p. 54]* ^pg54
 
 13\. The Devi said: ‘What you solicit, O King, and you, O family’s pride, receive all that from Me. Well-pleased, I bestow those to you both.’ 
 
@@ -586,7 +586,7 @@ OM TAT SAT OM.
 
 ‘Om, the Supreme Consciousness is alone the Truth of this Universe’ 
 
-*[PDF 55]* ^pg55
+*[p. 55]* ^pg55
 
 Notes 
 

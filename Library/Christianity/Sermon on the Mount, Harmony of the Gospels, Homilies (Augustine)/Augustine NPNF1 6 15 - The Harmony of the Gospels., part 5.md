@@ -24,7 +24,7 @@ Chapter XLII.—Of His Coming into His Own Country, and of the Astonishment of t
 
 1029 Three mss., however, give *in synagoga eorum*—in their synagogue—as in our version.
 
-1030 [[Matthew 13#^13-53|Matt. xiii. 53–58]]. 1031 [[Mark 04#^4-35|Mark iv. 35]], [[Mark 05#^5-17|v. 17]]; [[Luke 08#^8-22|Luke viii. 22–37]]. \[On the variations in the name, see critical editions of Greek text. Comp. Revised Version. The Latin versions generally read “Gerasenes” in all three accounts.—R.\] 1032 [[Matthew 08#^8-23|Matt. viii. 23–34]]. 1033 [[John 06#^6-42|John vi. 42]].
+1030 [[Matthew 13#^13-53|Matt. xiii. 53–58]]. 1031 [[Mark 04#^4-35|Mark iv. 35]], [[Mark 05#^5-17|v. 17]]; [[Luke 08#^8-22|Luke viii. 22–37]]. \[On the variations in the name, see critical editions of Greek text. Comp. Revised Version. The Latin versions generally read “Gerasenes” in all three accounts.—R.\] 1032 [[Matthew 08#^8-23|Matt. viii. 23–34]]. 1033 [[John 06#^6-42|John vi. 42]]. 1034 [[Mark 06#^6-1|Mark vi. 1–6]].
 
 
 *[p. 322]* ^pg348
@@ -34,6 +34,8 @@ Chapter XLII.—Of His Coming into His Own Country, and of the Astonishment of t
 quite fairly have have been designated by both these names. For in taking Him to be the son of a carpenter, they naturally also took Him to be a carpenter. Luke, on the other hand, sets forth the same incident on a wider scale, and records a variety of other matters which took place in that connection. And this account he brings in at a point not long subsequent to His baptism and temptation, thus unquestionably introducing by anticipation what really happened only after the occurrence of a number of intervening circumstances. In this, therefore, every one may see an illustration of a principle of prime consequence in relation to this most weighty question concerning the harmony of the evangelists, which we have undertaken to solve by the help of God,—the principle, namely, that it is not by mere ignorance that these writers have been led to make certain omissions, and that it is as little through simple ignorance of the actual historical order of events that they have \[at times\] preferred to keep by the order in which these events were recalled to their own memory. The correct- 145
 
 ness of this principle may be gathered most clearly from the fact that, at a point antecedent to any account given by him of anything done by the Lord at Capharnaum, Luke has anticipated the literal date, and has inserted this passage which we have at present under consideration, and in which we are told how His fellow-citizens at once were astonished at the might of the authority which was in Him, and expressed their contempt for the meanness of His family. For he tells us that He addressed them in these terms: “Ye will surely say unto me, Physician, heal thyself: whatsoever we have heard done in Capharnaum, do also here in thy country;”<sup>1035</sup> while, so far as the narrative of this same Luke is concerned, we have not yet read of Him as having done anything at Capharnaum. Furthermore, as it will not take up much time, and as, besides, it is botha very simple and a highly needful matter to do so, we insert here the whole context, showing the subject from which and the method in which the writer has come to give the contents of this section. After his statement regarding the Lord’s baptism and temptation, he proceeds in these terms: “And when the devil had ended all the temptation, he departed from Him for a season. And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of Him through all the region round about. And He taught in their synagogues, and was magnified of all. And He came to Nazareth, where He had been brought up: and, as his custom was, He went into the synagogue on the Sabbath-day, and stood up for to read. And there was delivered unto Him the book of the prophet Esaias: and when He had opened the book, He found the place where it was written, The Spirit of the Lord is upon me, because He hath anointed me. He hath sent me to preach the gospel to the poor, to proclaim deliverance to the captives, and sight to the blind; to set at liberty them that are bruised, to proclaim the accepted year of the Lord, and the day of retribution. And when He had closed the book, He gave it again to the minister, and sat down: and the eyes of all them that were in the synagogue were fastened
+
+1035 [[Luke 04#^4-23|Luke iv. 23]].
 
 *[p. 323]* ^pg349
 
@@ -54,7 +56,7 @@ Chapter XLIII.—Of the Mutual Consistency of the Accounts Which are Given by Ma
 
 146 1038 [[Matthew 14#^14-1|Matt. xiv. 1]], [[Matthew 14#^14-2|2]]. 1039 [[Mark 06#^6-14|Mark vi. 14–16]]. *Dicebant;* so that the reading ἔλεγον is followed instead of ἔλεγεν in [[Mark 06#^6-14|Mark vi. 14]]. \[Westcott and Hort
 
-1040 give the plural in their text, following the Vatican codex and some other authorities.—R.\]
+1040 give the plural in their text, following the Vatican codex and some other authorities.—R.\] 1041 [[Luke 09#^9-7|Luke ix. 7–9]].
 
 
 *[p. 325]* ^pg351
@@ -74,7 +76,7 @@ Chapter XLIV.—Of the Order in Which the Accounts of John’s Imprisonment and 
 
 92\. Matthew then proceeds with his narrative in the following terms: “For Herod laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother’s wife;” and so on, down to the words, “And his disciples came and took up the body, and buried it, and went and told Jesus.”<sup>1043</sup> Mark gives this narrative in similar terms.<sup>1044</sup> Luke, on the other hand, does not relate it in the same succession, but introduces it in connection with his statement of the baptism wherewith the Lord was baptized. Hence we are to understand him to have acted by anticipation here, and to have taken the opportunity of recording at this point an event which took place actually a considerable period later. For he has first reported those words which John spake with regard to the Lord—namely, that “His fan is in His hand, and that He will thoroughly purge His floor, and will gather the wheat into His garner; but the chaff He will burn up with fire unquenchable;” and immediately thereafter he has appended his statement of an incident which the evangelist John demonstrates not to have taken place in direct historical sequence. For this latter writer mentions that, after Jesus had been baptized, He went into Galilee at the period when He turned the water into wine; and that, after a sojourn of a few days in Capharnaum, He left that district and returned to the land of Judæa, and there baptized a multitude about the Jordan, previous to the time when John was imprisoned.<sup>1045</sup> Now what reader, unless he were all the better versed<sup>1046</sup> in these writings, would not take it to be implied here that it was after the utterance of the words with regard to the fan and the purged floor that Herod became incensed against John, and cast him into prison? Yet, that the incident referred to here did not, as matter of fact, occur in the order in which it is here recorded, we have already shown elsewhere; and, indeed, Luke himself puts the proof into our hands.<sup>1047</sup> For if \[he had meant that\] John’s incarceration took place immediately after the utterance of those words, then what are we to make of the fact that in Luke’s own narrative the baptism of Jesus is introduced subsequently to his notice of the imprisonment of John? Consequently it is manifest that, recalling the circumstance in connection with the present occasion, he has brought it in here by anticipation, and has thus inserted it in his history at a point antecedent to a number of incidents, of which it was his purpose to leave us some record, and which, in point of time, were antecedent to this mishap that befell John. But it is as little the case that the other two evangelists,
 
-147 1043 [[Matthew 14#^14-3|Matt. xiv. 3–12]]. 1044 [[Mark 06#^6-17|Mark vi. 17–29]]. 1045 [[John 02#^2-1|John ii. 1]], [[John 02#^2-12|12]], [[John 03#^3-22|iii. 22–24]]. 1046 The reading in the mss. and in Migne’s text is, *quis autem non putet qui minus in his litteris eruditus est*; for which some give, *quis autem non putet nisi qui minus*, etc.
+147 1043 [[Matthew 14#^14-3|Matt. xiv. 3–12]]. 1044 [[Mark 06#^6-17|Mark vi. 17–29]]. 1045 [[John 02#^2-1|John ii. 1]], [[John 02#^2-12|12]], [[John 03#^3-22|iii. 22–24]]. 1046 The reading in the mss. and in Migne’s text is, *quis autem non putet qui minus in his litteris eruditus est*; for which some give, *quis autem non putet nisi qui minus*, etc. 1047 [[Luke 03#^3-15|Luke iii. 15–21]].
 
 *[p. 327]* ^pg353
 
@@ -82,7 +84,7 @@ Chapter XLIV.—Of the Order in Which the Accounts of John’s Imprisonment and 
 
 Matthew and Mark, have placed the fact of John’s imprisonment in that position in their narratives which, as is apparent also from their own writings, belonged to it in the actual order of events. For they, too, have told us how it was on John’s being cast into prison that the Lord went into Galilee;<sup>1048</sup> and then, after \[relating\] a number of things which He did in Galilee, they come to Herod’s admonition or doubt as to the rising again from the dead of that John whom he beheaded;<sup>1049</sup> and in connection with this latter occasion, they give us the story of all that occurred in the matter of John’s incarceration and death.
 
-1048 [[Matthew 04#^4-12|Matt. iv. 12]]; [[Mark 01#^1-14|Mark i. 14]]. [[Matthew 14#^14-1|Matt. xiv. 1]], [[Matthew 14#^14-2|2]]; [[Mark 06#^6-14|Mark vi. 14–16]].
+1048 [[Matthew 04#^4-12|Matt. iv. 12]]; [[Mark 01#^1-14|Mark i. 14]]. 1049 [[Matthew 14#^14-1|Matt. xiv. 1]], [[Matthew 14#^14-2|2]]; [[Mark 06#^6-14|Mark vi. 14–16]].
 
 
 *[p. 328]* ^pg354
@@ -95,7 +97,7 @@ Chapter XLV.—Of the Order and the Method in Which All the Four Evangelists Com
 
 94\. But John, again, who differs greatly from those three in this respect, that he deals more with the discourses which the Lord delivered than with the works which He so mar-
 
-1050 [[Matthew 14#^14-13|Matt. xiv. 13]], [[Matthew 14#^14-14|14]]. 1051 [[Luke 09#^9-9|Luke ix. 9]]. 1052 [[Mark 06#^6-30|Mark vi. 30–44]]. 1053 [[Luke 03#^3-20|Luke iii. 20]].
+1050 [[Matthew 14#^14-13|Matt. xiv. 13]], [[Matthew 14#^14-14|14]]. 1051 [[Luke 09#^9-9|Luke ix. 9]]. 1052 [[Mark 06#^6-30|Mark vi. 30–44]]. 1053 [[Luke 03#^3-20|Luke iii. 20]]. 1054 [[Luke 09#^9-10|Luke ix. 10–17]].
 
 
 *[p. 329]* ^pg355
@@ -106,7 +108,7 @@ vellously wrought, after recording how He left Judæa and departed the second ti
 
 with His disciples,—the passover, a feast of the Jews, being then nigh; that then, on lifting up His eyes and seeing a very great company, He fed them with the five loaves and the two fishes;<sup>1057</sup> which notice is given us also by the other evangelists. And this makes it certain that he has passed by those incidents which form the course along which these others have come to introduce the notice of this miracle into their narratives. Nevertheless, while different methods of narration, as it appears, are prosecuted, and while the first three evangelists have thus left unnoticed certain matters which the fourth has recorded, we see how those three, on the one hand, who have been keeping nearly the same course, have found a direct meeting-point with each other at this miracle of the five loaves; and how this fourth writer, on the other hand, who is conversant above all with the profound teachings of the Lord’s discourses, in relating some other matters on which the rest are silent, has sped round in a certain method upon their track, and, while about to soar off from their pathway after a brief space again into the region of loftier subjects, has found a meeting-point with them in
 
-1055 [[John 04#^4-3|John iv. 3]], [[John 04#^4-5|5]], [[John 04#^4-43|43–54]]. 1056 \[Augustin here passes over one of the most difficult questions in connection with the Gospel history. The length of our Lord’s ministry turns upon the feast referred to in John v. If it was passover, then John refers to four passovers; and our Lord’s ministry extended over three years and a few weeks. If some other feast is meant, the ministry covered but two years and a few weeks.—R.\]
+1055 [[John 04#^4-3|John iv. 3]], [[John 04#^4-5|5]], [[John 04#^4-43|43–54]]. 1056 \[Augustin here passes over one of the most difficult questions in connection with the Gospel history. The length of our Lord’s ministry turns upon the feast referred to in John v. If it was passover, then John refers to four passovers; and our Lord’s ministry extended over three years and a few weeks. If some other feast is meant, the ministry covered but two years and a few weeks.—R.\] 1057 John v.-vi. 13.
 
 
 *[p. 330]* ^pg356
@@ -125,7 +127,7 @@ Chapter XLVI.—Of the Question as to How the Four Evangelists Harmonize with Ea
 
 96\. The inquiry which we have here to handle does not concern itself with a statement given by this evangelist, in which he specifies the kind of loaves; for he has not omitted to mention, what has been omitted by the others, that they were barley loaves. Neither does
 
-1058 [[Matthew 14#^14-15|Matt. xiv. 15–21]]. 1059 [[Mark 06#^6-34|Mark vi. 34–44]]; [[Luke 09#^9-12|Luke ix. 12–17]].
+1058 [[Matthew 14#^14-15|Matt. xiv. 15–21]]. 1059 [[Mark 06#^6-34|Mark vi. 34–44]]; [[Luke 09#^9-12|Luke ix. 12–17]]. 1060 [[John 06#^6-5|John vi. 5–13]].
 
 
 *[p. 332]* ^pg358
@@ -136,7 +138,7 @@ the question deal with what he has left unnoticed,—namely, the fact that, in a
 
 them, a difficulty may be raised as to the truth of the statement which is made by the others,—namely, that the disciples first said to the Lord that He should send the multitudes away, in order that they might go and purchase food for themselves in the neighbouring localities, and that He made this reply to them, according to Matthew: “They need not depart; give ye them to eat.”<sup>1061</sup> With this last Mark and Luke also agree, only that they leave out the words, “They need not depart.” We are to suppose, therefore, that after these words the Lord looked at the multitude, and spoke to Philip in the terms which John records, but which those others have omitted. Then the reply which, according to John, was made by Philip, is mentioned by Mark as having been given by the disciples,—the intention being, that we should understand Philip to have returned this answer as the mouthpiece of the rest; although they may also have put the plural number in place of the singular, according to very frequent usage. The words here actually ascribed to Philip—namely, “Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little”<sup>1062</sup>—have their counterpart in this version by Mark, “Shall we go and buy two hundred pennyworth of bread, and give them to eat?”<sup>1063</sup> The expression, again, which the same Mark relates to have been used by the Lord, namely, “How many loaves have ye?” has been passed by without notice by the rest. On the other hand, the statement occurring in John, to the effect that Andrew made the suggestion about the five loaves and the two fishes, appears in the others, who use here the plural number instead of the singular, as a notice referring the suggestion to the disciples generally. And, indeed, Luke has coupled Philip’s reply together with Andrew’s answer in one sentence. For when he says, “We have no more but five loaves and two fishes,” he reports Andrew’s response; but when he adds, “except we should go and buy meat for all this people,” he seems to carry us back to Philip’s reply, only that he has left unnoticed the “two hundred pennyworth.” At the same time, that \[sentence about the going and buying meat\] may also be understood to be implied in Andrew’s own words.
 
-1061 [[Matthew 14#^14-16|Matt. xiv. 16]]. 1062 [[John 06#^6-7|John vi. 7]].
+1061 [[Matthew 14#^14-16|Matt. xiv. 16]]. 1062 [[John 06#^6-7|John vi. 7]]. 1063 [[Mark 06#^6-37|Mark vi. 37]].
 
 
 *[p. 333]* ^pg359
@@ -159,7 +161,7 @@ Chapter XLVII.—Of His Walking Upon the Water, and of the Questions Regarding t
 
 100\. Furthermore, John still tarries for a little space with these others. For, after his recital of the miracle of the five loaves, he also gives us some account of the vessel that laboured, and of the Lord’s act in walking upon the sea. This notice he connects with his preceding narrative in the following manner: “When Jesus therefore perceived that they would come and take Him by force and make Him a king, He departed again into a mountain Himself alone. And when it became late, His disciples went down unto the sea; and when they had entered into a ship, they came over the sea to Capharnaum: and it was now dark, and Jesus was not come to them. And the sea arose by reason of a great wind that blew,” and so on.<sup>1066</sup>
 
-1064 [[Matthew 14#^14-23|Matt. xiv. 23–33]]. 1065 [[Mark 06#^6-47|Mark vi. 47–54]].
+1064 [[Matthew 14#^14-23|Matt. xiv. 23–33]]. 1065 [[Mark 06#^6-47|Mark vi. 47–54]]. 1066 [[John 06#^6-15|John vi. 15–21]].
 
 
 *[p. 335]* ^pg361
@@ -168,7 +170,7 @@ Chapter XLVII.—Of His Walking Upon the Water, and of the Questions Regarding t
 
 In this there cannot appear to be anything contrary to the records preserved in the other Gospels, unless it be the circumstance that Matthew tells us how, when the multitudes were sent away, He went up into a mountain, in order that there He might pray alone; while John states that He was on a mountain with those same multitudes whom He fed with the five loaves.<sup>1067</sup> But seeing that John also informs us how He departed into a mountain after the said miracle, to preclude His being taken possession of by the multitudes, who wished to make Him a king, it is surely evident that they had come down from the mountain to more level ground when those loaves were provided for the crowds. And consequently there is no contradiction between the statements made by Matthew and John as to His going up again to the mountain. The only difference is, that Matthew uses the phrase “He went up,” while John’s term is “He departed.” And there would be an antagonism between these two, only if in departing He had not gone up. Nor, again, is any want of harmony betrayed by the fact that Matthew’s words are, “He went up into a mountain apart to pray;” whereas John puts it thus: “When He perceived that they would come to make Him a king, He departed again into a mountain Himself alone.” Surely the matter of the departure is in no way a thing antagonistic to the matter of prayer. For, indeed, the Lord, who in His own person transformed the body of our humiliation in order that He might make it like unto the body of His own glory,<sup>1068</sup> hereby taught us also the truth that the matter of departure should be to us in like manner grave matter for prayer. Neither, again, is there any defect of consistency proved by the circumstance that Matthew has told us first how He commanded His disciples to embark in the little ship, and to go before Him unto the other side of the lake until He sent the multitudes away, and then informs us that, after the multitudes were sent away, He Himself went up into a mountain alone to pray; while John mentions first that He departed unto a mountain alone, and then proceeds thus: “And when it became late, His disciples came down unto the sea; and when they had entered into a ship,” etc. For who will not perceive that, in recapitulating the facts, John has spoken of something as actually done at a later point by the disciples, which Jesus had already charged them to do before His own departure unto the mountain; just as it is a familiar procedure in discourse, to revert in some fashion or other to any matter which otherwise would have been passed over? But inasmuch as it may not be specifically noted that a reversion, especially when done briefly and instantaneously, is made to something omitted, the auditors are sometimes led to suppose that the occurrence which is mentioned at the later stage also took place lit-
 
-151 1067 Reading *in monte fuisse cum eisdem turbis quas de quinque panibus pavit.* According to Migne, this is the reading of several mss. of the better class; some twelve other mss. give *in monte fuisse cum easdem turbas*, etc. = “He was on a mountain when He fed,” etc. Some editions have also *in montem fugisse cum easdem*, etc. = “He departed to a mountain when He fed,” etc. [[Philippians 03#^3-21|Phil. iii. 21]].
+151 1067 Reading *in monte fuisse cum eisdem turbis quas de quinque panibus pavit.* According to Migne, this is the reading of several mss. of the better class; some twelve other mss. give *in monte fuisse cum easdem turbas*, etc. = “He was on a mountain when He fed,” etc. Some editions have also *in montem fugisse cum easdem*, etc. = “He departed to a mountain when He fed,” etc. 1068 [[Philippians 03#^3-21|Phil. iii. 21]].
 
 *[p. 336]* ^pg362
 
@@ -178,7 +180,7 @@ erally at the later period. In this way the evangelist’s statement really is, 
 
 101\. On the other hand, Luke, after the record of the miracle of the five loaves, passes to another subject, and diverges from this order of narration. For he makes no mention of that little ship, and of the Lord’s pathway over the waters. But after the statement conveyed in these words, “And they did all eat, and were filled, and there was taken up of fragments that remained to them twelve baskets,” he has subjoined the following notice: “And it came to pass, as He was alone praying, His disciples were with Him; and He asked them, saying, Who say the people that I am?”<sup>1070</sup> Thus he relates in this succession something new, which is not given by those three who have left us the account of the manner in which the Lord walked upon the waters, and came to the disciples when they were on the voyage. It ought not, however, on this account, to be supposed that it was on that same mountain to which Matthew has told us He went up in order to pray alone, that He said to His disciples, “Who say the people that I am?” For Luke, too, seems to harmonize with Matthew in this, because his words are, “as He was alone praying;” while Matthew’s were, “He went up unto a mountain alone to pray.” But it must by all means be held to have been on a different occasion that He put this question, since \[it is said here, both that\] He prayed alone, and \[that\] the disciples were with Him. Thus Luke, indeed, has mentioned only the fact of His being alone, but has said nothing of His being without His disciples, as is the case with Matthew and John, since \[according to these latter\] they left Him in order to go before Him to the other side of the sea. For with unmistakeable plainness Luke has added the statement that “His disciples also were with Him.” Consequently, in saying that He was alone, he meant his statement to refer to the multitudes, who did not abide with Him.
 
-1069 \[The difficulty in regard to the course of the ship did not suggest itself to Augustin, nor does he allude to the position of Bethsaida. [[Luke 09#^9-10|Luke ix. 10]] seems to place it on one side of the lake and [[Mark 06#^6-45|Mark vi. 45]] on the other. A contrary wind would blow them across the lake, unless they were trying to get to some point on the eastern shore; from which shore they certainly started, after the feeding of the five thousand.—R.\]
+1069 \[The difficulty in regard to the course of the ship did not suggest itself to Augustin, nor does he allude to the position of Bethsaida. [[Luke 09#^9-10|Luke ix. 10]] seems to place it on one side of the lake and [[Mark 06#^6-45|Mark vi. 45]] on the other. A contrary wind would blow them across the lake, unless they were trying to get to some point on the eastern shore; from which shore they certainly started, after the feeding of the five thousand.—R.\] 1070 [[Luke 09#^9-17|Luke ix. 17]], [[Luke 09#^9-18|18]].
 
 
 *[p. 337]* ^pg363
@@ -189,7 +191,7 @@ Chapter XLVIII.—Of the Absence of Any Discrepancy Between Matthew and Mark on 
 
 102\. Matthew proceeds as follows: “And when they were gone over, they came into the land of Genesar. And when the men of that place had knowledge of Him, they sent out unto all that country round about, and brought unto Him all that were diseased, and besought Him that they might only touch the hem of His garment: and as many as touched were made perfectly whole. Then came to Him scribes and Pharisees from Jerusalem, saying, Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread,” and so on, down to the words, “But to eat with unwashen hands defileth not a man.”<sup>1071</sup> This is also related by Mark, in a way which precludes the raising of any question about discrepancies. For anything expressed here by the one in a form differing from that used by the other, involves at least no departure from identity in sense. John, on the other hand, fixing his attention, as his wont is, upon the Lord’s discourses, passes on from the notice of the ship, which the Lord reached by walking upon the waters, to what took place after they disembarked upon the land, and mentions that He took occasion from the eating of the bread to deliver many lessons, dealing pre-eminently with divine things. After this address, too, his narrative is again borne on to one subject after another, in a sublime strain.<sup>1072</sup> At the same time, this transition which he thus makes to different themes does not involve any real want of harmony, although he exhibits certain divergencies from these others, with the order of events presented by the rest of the evangelists. For what is there to hinder us from supposing at once that those persons, whose story is given by Matthew and Mark, were healed by the Lord, and that He delivered this discourse which John recounts to the people who followed Him across the sea? Such a supposition is made all the more reasonable by the fact that Capharnaum, to which place they are said, according to John, to have crossed, is near the lake of Genesar; and that, again, is the district into which they came, according to Matthew, on landing.
 
-1071 [[Matthew 14#^14-34|Matt. xiv. 34-xv. 20]].
+1071 [[Matthew 14#^14-34|Matt. xiv. 34-xv. 20]]. 1072 [[John 06#^6-22|John vi. 22–72]].
 
 
 *[p. 338]* ^pg364
@@ -200,7 +202,7 @@ Chapter XLIX.—Of the Woman of Canaan Who Said, “Yet the Dogs Eat of the Crum
 
 103\. Matthew, accordingly, proceeds with his narrative, after the notice of that discourse 152 which the Lord delivered in the presence of the Pharisees on the subject of the unwashed hands. Preserving also the order of the succeeding events, as far as it is indicated by the transitions from the one to the other, he introduces this account into the context in the following manner: “And Jesus went thence, and departed into the coasts of Tyre and Sidon. And, behold, a woman of Canaan came out of the same coasts, and cried unto Him, saying, Have mercy on me, O Lord, Thou son of David; my daughter is grievously vexed with a devil. But He answered her not a word,” and so on, down to the words, “O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.”<sup>1073</sup> This story of the woman of Canaan is recorded also by Mark, who keeps the same order of events, and gives no occasion to raise any question as to a want of harmony, unless it be found in the circumstance that he tells us how the Lord was in the house at the time when the said woman came to Him with the petition on behalf of her daughter.<sup>1074</sup> Now we might readily suppose that Matthew has simply omitted mention of the house, while nevertheless relating the same occurrence. But inasmuch as he states that the disciples made the suggestion to Him in these terms, “Send her away, for she crieth after us,” he seems to imply distinctly that the woman gave utterance to these cries of entreaty behind the Lord as He walked on. In what sense, then, could it have been “in the house,” unless we are to take Mark to have intimated the fact, that she had gone into the place where Jesus then was, when he mentioned at the beginning of the narrative that He was in the house? But when Matthew says that “He answered her not a word,” he has given us also to understand what neither of the two evangelists has related explicitly,—namely, the fact that during that silence which He maintained Jesus went out of the house. And in this manner all the other particulars are brought into a connection which from this point onwards presents no kind of appearance of discrepancy. For as to what Mark records with respect to the answer which the Lord gave her, to the effect that it was not meet to take the children’s bread and cast it unto the dogs, that reply was returned only after the interposition of certain sayings which Matthew has not left unrecorded. That is to say, \[we are to suppose that\] there came in first the request which the disciples addressed to Him in regard to the woman’s case, and the answer He gave them, to the effect that He was not sent but unto the lost sheep of the house of Israel; that next there was her own approach, or, in other words, her coming after Him, and wor-
 
-1073 [[Matthew 15#^15-21|Matt. xv. 21–28]].
+1073 [[Matthew 15#^15-21|Matt. xv. 21–28]]. 1074 [[Mark 07#^7-24|Mark vii. 24–30]].
 
 
 *[p. 339]* ^pg365
@@ -219,7 +221,7 @@ Chapter L.—Of the Occasion on Which He Fed the Multitudes with the Seven Loave
 
 105\. In the case of this miracle of the seven loaves, it is certainly not a superfluous task to call attention to the fact that these two evangelists, Matthew and Mark, have thus introduced it into their narrative. For if one of them had recorded this miracle, who at the same time had taken no notice of the instance of the five loaves, he would have been judged to stand opposed to the rest. For in such circumstances, who would not have supposed that there was only the one miracle wrought in actual fact, and that an incomplete and unveracious version of it had been given by the writer referred to, or by the others, or by all of them together; so \[that we must have imagined\] either that the one evangelist, by a mistake on his own part, had been led to mention seven loaves instead of five; or that the other two, whether as having both presented an incorrect statement, or as having been misled through a slip of memory, had put the number five for the number seven. In like manner, it might have been supposed that there was a contradiction between the twelve baskets<sup>1077</sup> and the seven baskets,<sup>1078</sup> and again, between the five thousand and the four thousand, expressing the numbers of those who were fed. But now, since those evangelists who have given us the account of the miracle of the seven loaves have also not failed to mention the other miracle of the five loaves, no difficulty can be felt by any one, and all can see that both works were really wrought. This, accordingly, we have instanced, in order that, if in any other passage
 
-153 1075 [[Matthew 15#^15-29|Matt. xv. 29–38]]. 1076 [[Mark 07#^7-31|Mark vii. 31-viii. 9]]. 1077 *Cophinis*. *Sportis*.
+153 1075 [[Matthew 15#^15-29|Matt. xv. 29–38]]. 1076 [[Mark 07#^7-31|Mark vii. 31-viii. 9]]. 1077 *Cophinis*. 1078 *Sportis*.
 
 *[p. 341]* ^pg367
 
@@ -227,7 +229,7 @@ Chapter L.—Of the Occasion on Which He Fed the Multitudes with the Seven Loave
 
 we come upon some similar deed of the Lord’s, which, as told by one evangelist, seems so utterly contrary to the version of it given by another that no method of solving the difficulty can possibly be found, we may understand the explanation to be simply this, that both incidents really took place, and that they were recorded separately by the two several writers. This is precisely what we have already recommended to attention in the matter of the seating of the multitudes by hundreds and by fifties. For were it not for the circumstance that both these numbers are found noted by the one historian, we might have supposed that the different writers had made contradictory statements.<sup>1079</sup>
 
-See above, chap. xlvi.
+1079 See above, chap. xlvi.
 
 *[p. 342]* ^pg368
 
@@ -248,7 +250,7 @@ Chapter LII.—Of Matthew’s Agreement with Mark in the Statement About the Lea
 
 107\. Matthew proceeds: “And He left them, and departed. And when His disciples were come to the other side, they forgot to take bread. Then Jesus said unto them, Take heed, and beware of the leaven of the Pharisees and of the Sadducees;” and so forth, down to where we read, “Then understood they that He bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.”<sup>1084</sup> These words are recorded also by Mark, and that likewise in the same order.<sup>1085</sup>
 
-1084 [[Matthew 16#^16-5|Matt. xvi. 5–12]].
+1084 [[Matthew 16#^16-5|Matt. xvi. 5–12]]. 1085 [[Mark 08#^8-13|Mark viii. 13–21]].
 
 
 *[p. 344]* ^pg370
@@ -263,7 +265,7 @@ Chapter LIII.—Of the Occasion on Which He Asked the Disciples Whom Men Said th
 
 1086 Some editions omit the *me* in *quem me dicum*, etc., and make it = Whom do men say that the Son of man is? 1087 [[Matthew 16#^16-13|Matt. xvi. 13–19]]. 1088 [[Mark 08#^8-22|Mark viii. 22–29]]. 1089 [[Luke 09#^9-18|Luke ix. 18–20]].
 
-1090 Adopting, with the Ratisbon mss., *eum movet qui nunquam oravit in via*. Another reading is, *eum movet qui putat nunquam*, etc. = a difficulty to the man who thinks He never prayed on the way. 1091 [[John 01#^1-42|John i. 42]].
+1090 Adopting, with the Ratisbon mss., *eum movet qui nunquam oravit in via*. Another reading is, *eum movet qui putat nunquam*, etc. = a difficulty to the man who thinks He never prayed on the way. 1091 [[John 01#^1-42|John i. 42]]. 1092 [[Mark 03#^3-16|Mark iii. 16–19]].
 
 
 *[p. 345]* ^pg371
@@ -279,6 +281,8 @@ gested to the writer’s recollection at that particular point, and not because 
 Chapter LIV.—Of the Occasion on Which He Announced His Coming Passion to the Disciples, and of the Measure of Concord Between Matthew, Mark, and Luke in the Accounts Which They Give of the Same.
 
 110\. Matthew proceeds in the following strain: “Then charged He His disciples that they should tell no man that He was Jesus the Christ. From that time forth began Jesus to show unto His disciples how that He must go into Jerusalem, and suffer many things of the elders, and chief priests, and scribes;” and so on, down to where we read, “Thou savourest not the things that be of God, but those that be of men.”<sup>1093</sup> Mark and Luke add these passages in the same order. Only Luke says nothing about the opposition which Peter expressed to the passion of Christ.
+
+1093 [[Matthew 16#^16-20|Matt. xvi. 20–23]].
 
 *[p. 347]* ^pg373
 
@@ -303,7 +307,7 @@ Chapter LVI.—Of the Manifestation Which the Lord Made of Himself, in Company w
 
 114\. Moreover, the statement which Luke makes with regard to Moses and Elias in these terms, “And it came to pass, as they departed<sup>1099</sup> from Him, Peter said unto Jesus, Master, it is good for us to be here,” and so forth, ought not to be considered antagonistic to what Matthew and Mark have subjoined to the same effect, as if they made Peter offer this suggestion while Moses and Elias were still talking with the Lord. For they have not expressly
 
-1098 [[Matthew 16#^16-28|Matt. xvi. 28-xvii. 9]]; Mark viii. 39-ix. 9; [[Luke 09#^9-27|Luke ix. 27–36]]. \[*Dum discederent*. The Revised Version correctly renders the Greek: “as they were parting.”—R.\]
+1098 [[Matthew 16#^16-28|Matt. xvi. 28-xvii. 9]]; Mark viii. 39-ix. 9; [[Luke 09#^9-27|Luke ix. 27–36]]. 1099 \[*Dum discederent*. The Revised Version correctly renders the Greek: “as they were parting.”—R.\]
 
 
 *[p. 349]* ^pg375
@@ -320,7 +324,7 @@ Chapter LVII.—Of the Harmony Between Matthew and Mark in the Accounts Given of
 
 115\. Matthew goes on thus: “And His disciples asked Him, saying, Why then say the scribes that Elias must first come? And Jesus answered and said unto them, Elias truly shall first come and restore all things. But I say unto you, that Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them. Then the disciples understood that He spake unto them of John the Baptist.” <sup>1100</sup> This same passage is given also by Mark, who keeps also the same order; and although he exhibits some diversity of expression, he makes no departure from a truthful representation of the same sense.<sup>1101</sup> He has not, however, added the statement, that the disciples understood that the Lord had referred to John the Baptist in saying that Elias was come already.
 
-1100 [[Matthew 17#^17-10|Matt. xvii. 10–13]].
+1100 [[Matthew 17#^17-10|Matt. xvii. 10–13]]. 1101 [[Mark 09#^9-10|Mark ix. 10–12]].
 
 
 *[p. 351]* ^pg377
@@ -331,7 +335,7 @@ Chapter LVIII.—Of the Man Who Brought Before Him His Son, Whom the Disciples W
 
 116\. Matthew goes on in the following terms: “And when He was come<sup>1102</sup> to the multitude, there came to Him a certain man, kneeling down before Him, and saying, Lord, have mercy on my son; for he is lunatic, and sore vexed;” and so on, down to the words, “Howbeit this kind is not cast out but by prayer and fasting.”<sup>1103</sup> Both Mark and Luke record this incident, and that, too, in the same order, without any suspicion of a want of harmony.<sup>1104</sup>
 
-1102 *Venisset*. 1103 [[Matthew 17#^17-14|Matt. xvii. 14–20]]. Mark ix. 16–28; [[Luke 09#^9-38|Luke ix. 38–45]].
+1102 *Venisset*. 1103 [[Matthew 17#^17-14|Matt. xvii. 14–20]]. 1104 Mark ix. 16–28; [[Luke 09#^9-38|Luke ix. 38–45]].
 
 
 *[p. 352]* ^pg378
@@ -342,7 +346,7 @@ Chapter LIX.—Of the Occasion on Which the Disciples Were Exceeding Sorry When 
 
 117\. Matthew continues thus: “And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men; and they shall kill Him, and the third day He shall rise again. And they were exceeding sorry.”<sup>1105</sup> Mark and Luke record this passage in the same order.<sup>1106</sup>
 
-1105 Matt. xvii. 21, 22. Mark ix. 29–31; [[Luke 09#^9-44|Luke ix. 44]], [[Luke 09#^9-45|45]].
+1105 Matt. xvii. 21, 22. 1106 Mark ix. 29–31; [[Luke 09#^9-44|Luke ix. 44]], [[Luke 09#^9-45|45]].
 
 
 *[p. 353]* ^pg379
@@ -352,6 +356,8 @@ Chapter LIX.—Of the Occasion on Which the Disciples Were Exceeding Sorry When 
 Chapter LX.—Of His Paying the Tribute Money Out of the Mouth of the Fish, an Incident Which Matthew Alone Mentions.
 
 118\. Matthew continues in these terms: “And when they were come to Capharnaum, they that received tribute money came to Peter, and said to him, Doth not your master pay tribute? He saith, Yes;” and so on, down to where we read: “Thou shall find a piece of money: that take, and give unto them for me and thee.”<sup>1107</sup> He is the only one who relates this oc- 155 currence, after the interposition of which he follows again the order which is pursued also by Mark and Luke in company with him.
+
+1107 [[Matthew 17#^17-23|Matt. xvii. 23–27]].
 
 *[p. 354]* ^pg380
 
@@ -363,7 +369,7 @@ Chapter LXI.—Of the Little Child Whom He Set Before Them for Their Imitation, 
 
 1108 Matt. xviii. 1109 Mark ix. 33–49.
 
-1110 [[Luke 09#^9-46|Luke ix. 46–48]]. 1111 [[John 20#^20-23|John xx. 23]].
+1110 [[Luke 09#^9-46|Luke ix. 46–48]]. 1111 [[John 20#^20-23|John xx. 23]]. 1112 [[Matthew 16#^16-19|Matt. xvi. 19]].
 
 
 *[p. 355]* ^pg381
@@ -382,7 +388,7 @@ Chapter LXII.—Of the Harmony Subsisting Between Matthew and Mark in the Accoun
 
 121\. As far as the order or method of statement here adopted is concerned, we ought to understand that it in no way affects the truth of the subject itself, whether the question regarding the permission to write a bill of divorcement given by the said Moses, by whom also it is recorded that God made male and female to be one flesh,<sup>1115</sup> was addressed by
 
-1113 \[Augustin entirely ignores the most perplexing problem in the Gospel history, namely, the proper distribution of the matter peculiar to Luke and John, at this point in the narrative. The passages are: [[Luke 09#^9-51|Luke ix. 51-xviii. 14]] and [[John 07#^7-2|John vii. 2-xi. 54]]. These events cover about six months, but Matthew and Mark omit all reference to them. The difficulty is all the greater, since Luke inserts in his narrative many things that evidently belong to an earlier period (*e.g.*, chaps. xi. 14-xiii. 19). There are also peculiar difficulties connected with the chronology of John x. and xi.—R.\] 1114 [[Matthew 19#^19-1|Matt. xix. 1–12]]. Gen. ii. 24.
+1113 \[Augustin entirely ignores the most perplexing problem in the Gospel history, namely, the proper distribution of the matter peculiar to Luke and John, at this point in the narrative. The passages are: [[Luke 09#^9-51|Luke ix. 51-xviii. 14]] and [[John 07#^7-2|John vii. 2-xi. 54]]. These events cover about six months, but Matthew and Mark omit all reference to them. The difficulty is all the greater, since Luke inserts in his narrative many things that evidently belong to an earlier period (*e.g.*, chaps. xi. 14-xiii. 19). There are also peculiar difficulties connected with the chronology of John x. and xi.—R.\] 1114 [[Matthew 19#^19-1|Matt. xix. 1–12]]. 1115 Gen. ii. 24.
 
 
 *[p. 357]* ^pg383
@@ -414,7 +420,7 @@ Chapter LXIV.—Of the Occasions on Which He Foretold His Passion in Private to 
 
 124\. Matthew continues his narrative in the following terms: “And Jesus, going up to Jerusalem, took the twelve disciples apart, and said unto them, Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn Him to death, and shall deliver Him to the Gentiles to mock, and to scourge, and to crucify Him; and the third day He shall rise again. Then came to Him the mother of Zebedee’s children with her sons, worshipping Him, and desiring a certain thing of Him;” and so on, down to the words, “Even as the Son of man came not to be ministered unto, but to minister, and to give His life a ransom for many.”<sup>1122</sup> Here again Mark keeps the same order as Matthew, only he represents the sons of Zebedee to have made the request themselves; while Matthew has stated that it was preferred on their behalf not by their own personal application, but by their mother, as she had laid what was their wish before the Lord. Hence Mark has briefly intimated what was said on that occasion as spoken by them, rather than by her \[in their name\]. And to conclude with the matter, it is to them rather than to her, according to Matthew no less than according to Mark, that the Lord returned His reply. Luke, on the other hand, after narrating in the same order our Lord’s predictions to the twelve disciples on the subject of His passion and resurrection, leaves unnoticed what the other two evangelists immediately go on to record; and after the interposition of these passages, he is joined by his fellow-writers again \[at the point where they report the incident\] at Jericho. <sup>1123</sup> Moreover, as to what Matthew and Mark have stated with respect to the princes of the Gentiles exercising dominion over those who are subject to them,—namely, that it should not be so with them \[the disciples\], but that he who was greatest among them should even be a servant to the others,—Luke also gives us something of the same tenor, although not in that connection;<sup>1124</sup> and the order itself indicates that the same sentiment was expressed by the Lord on a second occasion.
 
-1122 [[Matthew 20#^20-17|Matt. xx. 17–28]]. 1123 [[Luke 18#^18-31|Luke xviii. 31–35]].
+1122 [[Matthew 20#^20-17|Matt. xx. 17–28]]. 1123 [[Luke 18#^18-31|Luke xviii. 31–35]]. 1124 [[Luke 22#^22-24|Luke xxii. 24–27]].
 
 
 *[p. 360]* ^pg386
@@ -427,7 +433,7 @@ Chapter LXV.—Of the Absence of Any Antagonism Between Matthew and Mark, or Bet
 
 126\. But Luke, although he mentions an incident altogether of the same tenor, is nevertheless to be understood as really narrating only a similar miracle which was wrought in the case of another blind man, and as putting on record its similarity to the said miracle in the method of performance. For he states that it was performed when He was coming nigh unto Jericho;<sup>1129</sup> while the others say that it took place when He was departing from Jericho. Now the name of the city, and the resemblance in the deed, favour the supposition that there was but one such occurrence. But still, the idea that the evangelists really contradict each other here, in so far as the one says, “As He was come nigh unto Jericho,” while the
 
-1125 [[Matthew 20#^20-29|Matt. xx. 29–34]]. 1126 [[Mark 10#^10-46|Mark x. 46–52]]. 1127 See chap. xxiv. § 56. 1128 [[Mark 05#^5-22|Mark v. 22–43]].
+1125 [[Matthew 20#^20-29|Matt. xx. 29–34]]. 1126 [[Mark 10#^10-46|Mark x. 46–52]]. 1127 See chap. xxiv. § 56. 1128 [[Mark 05#^5-22|Mark v. 22–43]]. 1129 [[Luke 18#^18-35|Luke xviii. 35–43]].
 
 
 *[p. 361]* ^pg387
@@ -436,7 +442,7 @@ Chapter LXV.—Of the Absence of Any Antagonism Between Matthew and Mark, or Bet
 
 others put it thus, “As He came out of Jericho,” is one which no one surely will be prevailed on to accept, unless those who would have it more readily credited that the gospel is unveracious, than that He wrought two miracles of a similar nature and in similar circumstances.<sup>1130</sup> But every faithful son of the gospel will most readily perceive which of these two alternatives is the more credible, and which the rather to be accepted as true; and, indeed, every gainsayer too, when he is advised concerning the real state of the case, will answer himself either by the silence which he will have to observe, or at least by the tenor of his reflections should he decline to be silent.
 
-\[Various other solutions are suggested. Comp. Robinson’s Greek Harmony, rev. ed. pp. 234, 235.—R.\]
+1130 \[Various other solutions are suggested. Comp. Robinson’s Greek Harmony, rev. ed. pp. 234, 235.—R.\]
 
 *[p. 362]* ^pg388
 
@@ -450,4 +456,4 @@ Chapter LXVI.—Of the Colt of the Ass Which is Mentioned by Matthew, and of the
 
 159
 
-1131 [[Matthew 21#^21-1|Matt. xxi. 1–9]]. 1132 [[Mark 11#^11-1|Mark xi. 1–10]]. 1133 [[Luke 19#^19-1|Luke xix. 1–38]]. 1134 See above, chap. xlvi. § 98.
+1131 [[Matthew 21#^21-1|Matt. xxi. 1–9]]. 1132 [[Mark 11#^11-1|Mark xi. 1–10]]. 1133 [[Luke 19#^19-1|Luke xix. 1–38]]. 1134 See above, chap. xlvi. § 98. 1135 [[John 12#^12-14|John xii. 14]], [[John 12#^12-15|15]].

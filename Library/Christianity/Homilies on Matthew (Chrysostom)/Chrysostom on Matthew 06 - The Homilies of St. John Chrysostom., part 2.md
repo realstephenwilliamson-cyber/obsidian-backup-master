@@ -20,7 +20,7 @@ What then? Some of those who have examined these things accurately say, that the
 
 123
 
-*i.e*., The Jewish and the Christian. Compare the 62d Homily on Genesis, t. i. 478, ed. Sav. “Zara being interpreted, is ‘the East.’ And that these things did not take place at random, but were a type of what was to come, the facts themselves indicate. For that which happened was not in the order of nature. For how was it possible, when the hand had been bound with the scarlet thread, for it to be again drawn back to afford passage to him who came after had there not been some divine power which before ordained these things, and as in a kind of shadow drew out this figure; that at first and from the beginning Zara (that is the East, which is the type of the Church) began to increase, and after it had made a little progress and then retired, the observance of the Law, represented by Phares, came in: and after prevailing a long time, on a second advance of Zara, who had before retired, made room on the contrary for the Church; I mean, the whole Jewish polity did so.” “Perhaps, however, it is necessary now to state the matter more briefly and clearly. There was a beginning, like the putting forth of Zara’s hand, in Abel, Enoch, Noah, Melchisedek, Abraham, making extreme account of what might please God. Afterwards, when they had grown into a multitude, and had heaped on themselves heavy burdens of sin, and needed the benefit of some slight consolation, the Law was given as a kind of shadow, not as taking away sins, but as declaring and making them manifest: that as imperfect children living on milk they might be capable of attaining full age. But when even thus they failed of profiting, yea, kept mingling themselves up again with their sins, all the while that the Law was pointing out the greatness of the same, He came who is our common Lord, and freely bestowed on mankind this present spiritual polity, full of all virtue, whereof Zara was to stand as a type. For this cause the evangelist also both mentioned Thamar and her children, saying, ‘Judas begat Pharez and Zarah of Thamar.’” Compare also St. Cyr. of Alex. 6 lib. in Gen. t. i. 201, ed. Aubert; Theod. in Gen. qu. 96; St. Aug. in Ps. 61, t. iv. 442, D. \[A good specimen of the allegorizing exegesis which even such an expositor as Chrysostom could indulge in. The detailed account of the birth of Pharez is justified by the importance attached to the position of first-born.—R.\]
+*i.e*., The Jewish and the Christian. Compare the 62d Homily on Genesis, t. i. 478, ed. Sav. “Zara being interpreted, is ‘the East.’ And that these things did not take place at random, but were a type of what was to come, the facts themselves indicate. For that which happened was not in the order of nature. For how was it possible, when the hand had been bound with the scarlet thread, for it to be again drawn back to afford passage to him who came after had there not been some divine power which before ordained these things, and as in a kind of shadow drew out this figure; that at first and from the beginning Zara (that is the East, which is the type of the Church) began to increase, and after it had made a little progress and then retired, the observance of the Law, represented by Phares, came in: and after prevailing a long time, on a second advance of Zara, who had before retired, made room on the contrary for the Church; I mean, the whole Jewish polity did so.” “Perhaps, however, it is necessary now to state the matter more briefly and clearly. There was a beginning, like the putting forth of Zara’s hand, in Abel, Enoch, Noah, Melchisedek, Abraham, making extreme account of what might please God. Afterwards, when they had grown into a multitude, and had heaped on themselves heavy burdens of sin, and needed the benefit of some slight consolation, the Law was given as a kind of shadow, not as taking away sins, but as declaring and making them manifest: that as imperfect children living on milk they might be capable of attaining full age. But when even thus they failed of profiting, yea, kept mingling themselves up again with their sins, all the while that the Law was pointing out the greatness of the same, He came who is our common Lord, and freely bestowed on mankind this present spiritual polity, full of all virtue, whereof Zara was to stand as a type. For this cause the evangelist also both mentioned Thamar and her children, saying, ‘Judas begat Pharez and Zarah of Thamar.’” Compare also St. Cyr. of Alex. 6 lib. in Gen. t. i. 201, ed. Aubert; Theod. in Gen. qu. 96; St. Aug. in Ps. 61, t. iv. 442, D. \[A good specimen of the allegorizing exegesis which even such an expositor as Chrysostom could indulge in. The detailed account of the birth of Pharez is justified by the importance attached to the position of first-born.—R.\] 124 Ps. lxxx. 12.
 
 *[p. 45]* ^pg53
 
@@ -30,7 +30,7 @@ about it:”<sup>125</sup>and Paul, “Having broken down the middle wall of the
 
 See, for instance, what befell Ruth, how like it is to the things which belong to us. For she was both of a strange race, and reduced to the utmost poverty, yet Boaz when he saw her neither despised her poverty nor abhorred her mean birth, as Christ having received the Church, being both an alien and in much poverty, took her to be partaker of the great blessings. But even as Ruth, if she had not before left her father, and renounced household and race, country and kindred, would not have attained unto this alliance; so the Church too, having forsaken the customs which men had received from their fathers, then, and not before,<sup>129</sup>became lovely to the Bridegroom. Of this therefore the prophet discourses unto her, and saith, “Forget thy people, and thy father’s house, so shall the king have pleasure in thy beauty.”<sup>130</sup> This Ruth did too, and because of this she became a mother of kings, even as the Church did likewise. For of her David himself sprung. So then to shame them by all these things, and to prevail on them not to be high-minded, he hath both composed the genealogy, and brought forward these women. Yes, for this last, through those who intervened, was parent to the great king, and of these David is not ashamed. For it cannot, nay, it cannot be that a man should be good or bad, obscure or glorious, either by the virtue or by the vice of his forefathers; but if one must say somewhat even paradoxical, he shines forth the more, who not being of worthy ancestors, has yet become excellent.
 
-125 Is. v. 2, where the marginal translation is, *He made a wall about it:* the word hedge occurs verse 5. \[R.V., verse 2. “He made a trench about it,” with margin, “Or, digged it.” In the LXX. φραγμν occurs, however.—R.\] 126 [[Ephesians 02#^2-14|Eph. ii. 14]], where this word is translated “partition.” \[Retained in the R.V.\] \[The entire paragraph is based on the LXX. rendering, which by introducing φραγμς suggests an idea 127 foreign to the original Hebrew.—R.\] 128 Hos. i. 2; Jer. iii.; Ezek. xxiii. 4, 5, 11. \[The Greek text has simply ττε, a term that is usually paraphrased by the translator.—R.\] 129
+125 Is. v. 2, where the marginal translation is, *He made a wall about it:* the word hedge occurs verse 5. \[R.V., verse 2. “He made a trench about it,” with margin, “Or, digged it.” In the LXX. φραγμν occurs, however.—R.\] 126 [[Ephesians 02#^2-14|Eph. ii. 14]], where this word is translated “partition.” \[Retained in the R.V.\] 127 \[The entire paragraph is based on the LXX. rendering, which by introducing φραγμς suggests an idea foreign to the original Hebrew.—R.\] 128 Hos. i. 2; Jer. iii.; Ezek. xxiii. 4, 5, 11. 129 \[The Greek text has simply ττε, a term that is usually paraphrased by the translator.—R.\] 130 Ps. xlv. 11, 12.
 
 *[p. 46]* ^pg54
 
@@ -44,7 +44,7 @@ Let us not therefore lift up ourselves, but let us declare ourselves unprofitabl
 
 7\. Wherefore it is necessary to forget our good actions. “Yet how is it possible,” one may say, “not to know these things with which we are well acquainted?” How sayest thou? Offending thy Lord perpetually, thou livest delicately, and laughest, and dost not so much as
 
-131 \[That is, no proud thought.—R.\] 132 \[“Thyself” is supplied by the translator.—R.\] Ezek. xxxvi. 22.
+131 \[That is, no proud thought.—R.\] 132 \[“Thyself” is supplied by the translator.—R.\] 133 Ezek. xxxvi. 22.
 
 *[p. 47]* ^pg55
 
@@ -54,7 +54,7 @@ Be not therefore for ever parading them, lest some one should take them away. As
 
 8\. Let us beware therefore of saying anything about ourselves, for this renders us both odious with men and abominable to God. For this reason, the greater the good works we do, the less let us say of ourselves; this being the way to reap the greatest glory both with men and with God. Or rather, not only glory from God, but a reward, yea, a great recompense. Demand not therefore a reward that thou mayest receive a reward. Confess thyself to be saved by grace, that He may profess Himself a debtor to thee; and not for thy good works only, but also for such rightness of mind. For when we do good works, we have Him debtor for our good works only; but when we do not so much as think we have done any good
 
-19 το συλλγοντο. 134 135 Song of the Three Children, Vers. 6, 8, 4. ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 136 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words.
+19 134 το συλλγοντο. 135 Song of the Three Children, Vers. 6, 8, 4. ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 136 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 137 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of confiteor and the kindred words.
 
 *[p. 48]* ^pg56
 
@@ -64,7 +64,7 @@ It was in this way that the centurion also said, “I am not fit that thou shoul
 
 For nothing is so acceptable to God as to number one’s self with the last. This is a first principle of all practical wisdom.<sup>144</sup> For he that is humbled, and bruised in heart, will not be vainglorious, will not be wrathful, will not envy his neighbor, will not harbor any other passion. For neither when a hand is bruised, though we strive ten thousand times, shall we be able to lift it up on high. If therefore we were thus to bruise our heart<sup>145</sup>likewise, though it were stirred by ten thousand swelling passions, it could not be lifted up, no, not ever so little. For if a man, by mourning for things pertaining to this life, drives out all the diseases of his soul, much more will he, who mourns for sins, enjoy the blessing of self-restraint.<sup>146</sup>
 
-138 [[Luke 17#^17-10|Luke xvii. 10]]. 139 [[Matthew 08#^8-8|Matt. viii. 8]]. 140 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]]. 141 [[Mark 01#^1-7|Mark i. 7]]; [[Luke 03#^3-16|Luke iii. 16]]; [[John 01#^1-27|John i. 27]], [[John 03#^3-29|iii. 29]]. 142 Alluding to [[Matthew 03#^3-14|Matthew iii. 14]], [[Matthew 03#^3-15|15]]; and to the custom of the ancient Church of adding imposition of hands for the gift of the strengthening Spirit immediately on baptism, if the bishop were present. See Bingham, xii. 1, 1, and the writers quoted by him, especially Tertullian, de Bapt. 7. “As soon as we are come out of the water, we are anointed with the consecrated oil…Then we receive imposition of hands, summoning and inviting the Holy Spirit in the way of solemn benediction.” \[*Ante-Nicene Fathers*, vol. iii. p. 672. The second sentence is the beginning of chap. 8 in Tertullian’s treatise.—R.\] 143 [[Luke 05#^5-8|Luke v. 8]]. \[φιλοσοφα.\] 144 \[ψυχν.\] 145 \[τ φιλοσοφια.\]
+138 [[Luke 17#^17-10|Luke xvii. 10]]. 139 [[Matthew 08#^8-8|Matt. viii. 8]]. 140 [[1 Corinthians 15#^15-9|1 Cor. xv. 9]]. 141 [[Mark 01#^1-7|Mark i. 7]]; [[Luke 03#^3-16|Luke iii. 16]]; [[John 01#^1-27|John i. 27]], [[John 03#^3-29|iii. 29]]. 142 Alluding to [[Matthew 03#^3-14|Matthew iii. 14]], [[Matthew 03#^3-15|15]]; and to the custom of the ancient Church of adding imposition of hands for the gift of the strengthening Spirit immediately on baptism, if the bishop were present. See Bingham, xii. 1, 1, and the writers quoted by him, especially Tertullian, de Bapt. 7. “As soon as we are come out of the water, we are anointed with the consecrated oil…Then we receive imposition of hands, summoning and inviting the Holy Spirit in the way of solemn benediction.” \[*Ante-Nicene Fathers*, vol. iii. p. 672. The second sentence is the beginning of chap. 8 in Tertullian’s treatise.—R.\] 143 [[Luke 05#^5-8|Luke v. 8]]. 144 \[φιλοσοφα.\] 145 \[ψυχν.\] 146 \[τ φιλοσοφια.\]
 
 *[p. 49]* ^pg57
 
@@ -72,7 +72,7 @@ For nothing is so acceptable to God as to number one’s self with the last. Thi
 
 Such a spirit as this let us too acquire, and whatever we may suffer we shall bear it easily, and before the Kingdom, we shall reap here the gain accruing from lowliness of mind. Thus “learn,” saith He, “of me, for I am meek and lowly in heart, and ye shall find rest unto your souls.”<sup>153</sup> Therefore in order that we may enjoy rest both here and hereafter, let us with
 
-20 ἐπεμβανοντα ατο τ καιρ. 147 148 2 Sam. xvi. 10. 149 \[The words “of God” are supplied by the translator.—R.\] 150 Or, “Carry back the ark of God into the city, and put it in its place: if I shall find favor in the eyes of the Lord,” &c. Benedict. and Savil. 2 Sam. xv. 25, 26. ἐπιεκεαν. 151 152 [[Acts 13#^13-22|Acts. xiii. 22]]; 1 Sam. xiii. 14.
+20 147 ἐπεμβανοντα ατο τ καιρ. 148 2 Sam. xvi. 10. 149 \[The words “of God” are supplied by the translator.—R.\] 150 Or, “Carry back the ark of God into the city, and put it in its place: if I shall find favor in the eyes of the Lord,” &c. Benedict. and Savil. 2 Sam. xv. 25, 26. 151 ἐπιεκεαν. 152 [[Acts 13#^13-22|Acts. xiii. 22]]; 1 Sam. xiii. 14. 153 [[Matthew 11#^11-29|Matt. xi. 29]].
 
 *[p. 50]* ^pg58
 
@@ -98,7 +98,7 @@ How is it then that Luke not only traces the genealogy, but doth it through a gr
 
 2\. And what may be the reason that Matthew said not at the beginning, in the same way as the prophet, “the vision which I saw,” and “the word which came unto me”? Because he was writing unto men well disposed, and exceedingly attentive to him. For both the miracles that were done cried aloud, and they who received the word were exceeding faithful. But in the case of the prophets, there were neither so many miracles to proclaim them; and besides,
 
-154 See St. Jerome *in loc*. 155 \[St. Augustin’s *Harmony of the Gospel*s, ii. 4; *Nicene Fathers*, vol. vi. pp. 105, 106, where the sum of the names (forty) is given a symbolical significance.—R.\] \[But see Homily I. 5, 6, where the independence of the evangelists is emphasized.—R.\]
+154 See St. Jerome *in loc*. 155 \[St. Augustin’s *Harmony of the Gospel*s, ii. 4; *Nicene Fathers*, vol. vi. pp. 105, 106, where the sum of the names (forty) is given a symbolical significance.—R.\] 156 \[But see Homily I. 5, 6, where the independence of the evangelists is emphasized.—R.\]
 
 *[p. 52]* ^pg60
 
@@ -108,7 +108,7 @@ And if ever miracles were done, they were done for the aliens’ sake, to increa
 
 And what took place at a later period<sup>158</sup>were few and at intervals; for example, when the sun stood still in its course, and started back in the opposite direction. And this one may see to have occurred in our case also. For so even in our generation, in the instance of him who surpassed all in ungodliness, I mean Julian, many strange things happened. Thus when the Jews were attempting to raise up again the temple at Jerusalem, fire burst out from the foundations, and utterly hindered them all; and when both his treasurer,<sup>159</sup>and his uncle and namesake, made the sacred vessels the subject of their open insolence, the one was “eaten with worms, and gave up the ghost,”<sup>160</sup>the other “burst asunder in the midst.” Moreover, the fountains failing,<sup>161</sup>when sacrifices were made there, and the entrance of the famine into the cities together with the emperor himself, was a very great sign. For it is usual with God to do such things; when evils are multiplied, and He sees His own people
 
-157 Exod. xii. 38; Jer. l. 37. \[Ε δ κα μετ τατα γγονεν.\] 158 159 “The tyrant commanded the sacred vessels to be delivered up to the imperial treasury.…Into the Temple of God then,” at Antioch, “there entered, along with Julian the Prefect of the East, Felix the Steward of the Imperial Treasures…And they say that Julian grievously insulted the sacred table, and when Euzoius” (the Arian bishop) “endeavored to prevent him, he gave him a blow on the temple…Julian, however, presently fell into a grievous disease, and had his bowels wasted with a kind of mortification…and so came to an end of his life. Felix also for his part being afflicted with a scourge from God, had to vomit blood night and day from his mouth…until he also wasted away.” Theodoret. E H. iii. 8, 9, ed. Schulze. See also Sozom. E. H. v. 8. St. Chrys. Orat. in Babylam. t. v. p. 246, *sub fin*. where he says that Felix “burst asunder.” 160 [[Acts 12#^12-23|Acts xii. 23]], [[Acts 01#^1-18|i. 18]]. 161 He mentions this miracle too with the former ones, Hom. in Ps. cx. t. 1, 738; and in his first Hom. on St. Paul, t. 8, 44. “The fountains among us, whose current is stronger than the rivers, shrank suddenly and started back (a thing which never had occurred to them before), upon the Emperor’s attempting to defile the place with sacrifices and libations.”
+157 Exod. xii. 38; Jer. l. 37. 158 \[Ε δ κα μετ τατα γγονεν.\] 159 “The tyrant commanded the sacred vessels to be delivered up to the imperial treasury.…Into the Temple of God then,” at Antioch, “there entered, along with Julian the Prefect of the East, Felix the Steward of the Imperial Treasures…And they say that Julian grievously insulted the sacred table, and when Euzoius” (the Arian bishop) “endeavored to prevent him, he gave him a blow on the temple…Julian, however, presently fell into a grievous disease, and had his bowels wasted with a kind of mortification…and so came to an end of his life. Felix also for his part being afflicted with a scourge from God, had to vomit blood night and day from his mouth…until he also wasted away.” Theodoret. E H. iii. 8, 9, ed. Schulze. See also Sozom. E. H. v. 8. St. Chrys. Orat. in Babylam. t. v. p. 246, *sub fin*. where he says that Felix “burst asunder.” 160 [[Acts 12#^12-23|Acts xii. 23]], [[Acts 01#^1-18|i. 18]]. 161 He mentions this miracle too with the former ones, Hom. in Ps. cx. t. 1, 738; and in his first Hom. on St. Paul, t. 8, 44. “The fountains among us, whose current is stronger than the rivers, shrank suddenly and started back (a thing which never had occurred to them before), upon the Emperor’s attempting to defile the place with sacrifices and libations.”
 
 *[p. 53]* ^pg61
 
@@ -130,7 +130,7 @@ And observe a most admirable order in the things he hath mentioned. For he did n
 
 [[Matthew 01#^1-18|Matt. i. 18]].
 
-\[καιντερον.\]
+164 \[καιντερον.\]
 
 *[p. 54]* ^pg62
 
@@ -144,9 +144,9 @@ And wherefore did she not conceive before her espousal? It was, as I said at fir
 
 Proceed therefore no further, neither require anything more than what hath been said; neither say thou, “But how was it that the Spirit wrought this of a virgin?” For if, when nature
 
-σντεμνει.
+165 σντεμνει.
 
-165 166
+166
 
 See the different opinions of the Fathers on these dates, in St. Jerome on Daniel ix.
 
@@ -154,7 +154,7 @@ See the different opinions of the Fathers on these dates, in St. Jerome on Danie
 
 [[Matthew 01#^1-18|Matt. i. 18]].
 
-Gen. xix. 8, 14.
+168 Gen. xix. 8, 14.
 
 *[p. 55]* ^pg63
 
@@ -164,7 +164,7 @@ is at work, it is impossible to explain the manner of the formation; how, when t
 
 Nor think that thou hast learnt all, by hearing “of the Spirit;” nay, for we are ignorant of many things, even when we have learnt this; as, for instance, how the Infinite is in a womb, how He that contains all things is carried, as unborn, by a woman; how the Virgin bears, and continues a virgin. How, I pray thee, did the Spirit frame that Temple? how did He take not all the flesh from the womb, but a part thereof, and increased it, and fashioned it? For that He did come forth of the Virgin’s flesh, He hath declared by speaking of “that which was conceived in her;”<sup>169</sup>and Paul, by saying, “made of a woman;” whereby he stops the mouths of them<sup>170</sup>that say, Christ came among us as through some conduit. For, if this were so, what need of the womb? If this were so, He hath nothing in common with us, but that flesh is of some other kind, and not of the mass which belongs to us. How then was He of the root of Jesse? How was He a rod? how Son of man? how was Mary His mother? how was He of David’s seed? how did he “take the form of a servant?”<sup>171</sup>how “was the Word made flesh?”<sup>172</sup>and how saith Paul to the Romans, “Of whom as concerning the flesh Christ
 
-23 169 [[Galatians 04#^4-4|Gal. iv. 4]]. 170 *i.e*., the Valentinians and some other Gnostics. Theodoret, Ep. 145. “Valentinus, and Basilides, and Bardesanes, and Harmonius, and those of their company, allow indeed the Virgin’s conception and the birth, but affirm that God the Word took nothing of the Virgin, but in a manner made Himself a passage through her as through a conduit, and that in manifesting Himself to men He was employing a mere phantom, and only seeming to be a man; as He appeared to Abraham and certain other of the ancients.” S. Epiph. Hær. xxxi. 7. “They affirm that He brought down His body from Heaven, and that as water through a conduit, so He passed through the Virgin Mary taking nothing of His mother’s womb, but having His body from Heaven, as I said before.” Comp. Massuet’s 1st Dissert. prefixed to the Benedictine Irenæus, sec. 73. \[Comp. the recovered work of Hippolytus (unknown when the Oxford translation was made), *Refutation of all Heresies*, Book VI., VII., *Ante-Nicene Fathers*, Vol. V. pp. 81 et sqq.—R.\] 171 [[Philippians 02#^2-7|Phil. ii. 7]].
+23 169 [[Galatians 04#^4-4|Gal. iv. 4]]. 170 *i.e*., the Valentinians and some other Gnostics. Theodoret, Ep. 145. “Valentinus, and Basilides, and Bardesanes, and Harmonius, and those of their company, allow indeed the Virgin’s conception and the birth, but affirm that God the Word took nothing of the Virgin, but in a manner made Himself a passage through her as through a conduit, and that in manifesting Himself to men He was employing a mere phantom, and only seeming to be a man; as He appeared to Abraham and certain other of the ancients.” S. Epiph. Hær. xxxi. 7. “They affirm that He brought down His body from Heaven, and that as water through a conduit, so He passed through the Virgin Mary taking nothing of His mother’s womb, but having His body from Heaven, as I said before.” Comp. Massuet’s 1st Dissert. prefixed to the Benedictine Irenæus, sec. 73. \[Comp. the recovered work of Hippolytus (unknown when the Oxford translation was made), *Refutation of all Heresies*, Book VI., VII., *Ante-Nicene Fathers*, Vol. V. pp. 81 et sqq.—R.\] 171 [[Philippians 02#^2-7|Phil. ii. 7]]. 172 [[John 01#^1-14|John i. 14]].
 
 *[p. 56]* ^pg64
 
@@ -174,7 +174,7 @@ came, who is God over all?”<sup>173</sup> Therefore that He was of us, and of 
 
 Having said that it was of the Holy Ghost, and without cohabitation, he establishes his statement in another way again.<sup>176</sup> Lest any one should say, “Whence doth this appear? Who hath heard, who hath seen any such thing ever come to pass?”—or lest you should suspect the disciple as inventing these things to favor his Master;—he introduces Joseph as contributing, by what he underwent, to the proof of the things mentioned; and by his narrative all but says, “If thou doubt me, and if thou suspect my testimony, believe her husband.” For “Joseph,” saith he, “her husband, being a just man.” By “a just man” in this place he means him that is virtuous in all things. For both freedom from covetousness is justice, and universal virtue is also justice;<sup>177</sup>and it is mostly in this latter sense that the Scripture uses the name of justice; as when it saith, “a man that was just and true;”<sup>178</sup>and again, “they were both just.”<sup>179</sup> Being then “just,” that is good and considerate, “he was minded to put her away privily.” For this intent he tells what took place before Joseph’s being fully informed, that thou mightest not mistrust what was done after he knew. However, such a one was not liable to be made a public example only, but that she should also be punished was the command of the law. Whereas Joseph remitted not only that greater punishment, but the less likewise, namely, the disgrace. For so far from punishing, he was not minded even to make an example of her. Seest thou a man under self-restraint, and freed from the most tyrannical of passions. For ye know how great a thing jealousy is: and therefore He said, to whom these things are clearly known, “For full of jealousy is the rage of a husband;”<sup>180</sup>“he will not spare in the day of vengeance:” and “jealousy is cruel as the grave.”<sup>181</sup> And we too know of many that have chosen to give up their lives rather than fall under the suspicion of jealousy. But in this case it was not so little as suspicion, the burden of the womb entirely convicting her.
 
-173 [[Romans 09#^9-5|Rom. ix. 5]]. φυρματο. 174 175 [[Matthew 01#^1-19|Matt. i. 19]]. 176 \[The punctuation of the translation has here been conformed to that of the Greek text.—R.\] 177 See Arist. Eth. Nicom. v. 1, 2. 178 Job i. 1. 179 [[Luke 01#^1-6|Luke i. 6]]. 180 Prov. vi. 34. Cant. viii. 6.
+173 [[Romans 09#^9-5|Rom. ix. 5]]. 174 φυρματο. 175 [[Matthew 01#^1-19|Matt. i. 19]]. 176 \[The punctuation of the translation has here been conformed to that of the Greek text.—R.\] 177 See Arist. Eth. Nicom. v. 1, 2. 178 Job i. 1. 179 [[Luke 01#^1-6|Luke i. 6]]. 180 Prov. vi. 34. 181 Cant. viii. 6.
 
 *[p. 57]* ^pg65
 
@@ -186,7 +186,7 @@ Wherefore then did not the angel speak before Joseph became troubled. For we mus
 
 9\. Why then, it may be asked, did he not so in the Virgin’s case also, and declare the good tidings to her after the conception? Lest she should be in agitation and great trouble. For it were likely that she, not knowing the certainty, might have even devised something
 
-24 \[τ πλεον.\] 182 \[πντων ν μηχαν καθεσττων.\] 183
+24 182 \[τ πλεον.\] 183 \[πντων ν μηχαν καθεσττων.\] 184 [[Luke 01#^1-34|Luke i. 34]].
 
 *[p. 58]* ^pg66
 
@@ -200,7 +200,7 @@ Seest thou the mildness of the husband? So far from punishing, he did not even d
 
 And why not openly, as to the shepherds, and to Zacharias, and to the Virgin? The man was exceedingly full of faith, and needed not this vision. Whereas the Virgin, as having declared to her very exceeding good tidings, greater than to Zacharias, and this before the event, needed also a marvellous vision; and the shepherds, as being by disposition rather dull and clownish.<sup>188</sup> But this man, after the conception,<sup>189</sup>and wide the interval between the two men; wherefore neither was there need of rebuke.
 
-185 \[That is, did not give way to her feeling, with loud cry, whether of joy or grief.—R.\] 186 [[Luke 01#^1-29|Luke i. 29]]. 187 [[Matthew 01#^1-20|Matt. i. 20]]. \[ἀγροικικτερον, “more boorish.”—R.\] 188 τν τκονοικονομουμενα.
+185 \[That is, did not give way to her feeling, with loud cry, whether of joy or grief.—R.\] 186 [[Luke 01#^1-29|Luke i. 29]]. 187 [[Matthew 01#^1-20|Matt. i. 20]]. 188 \[ἀγροικικτερον, “more boorish.”—R.\] 189 τν τκονοικονομουμενα.
 
 *[p. 59]* ^pg67
 
@@ -216,7 +216,7 @@ A strange thing it was which he spake of, surpassing man’s reason, and above a
 
 Or rather, not by things past only, but like wise by things to come, he wins him over. “And she shall bring forth,” saith he, “a Son, and thou shalt call His name Jesus.”<sup>191</sup>“For do not thou, because He is of the Holy Ghost, imagine that thou art an alien to the ministry of this dispensation. Since although in the birth thou hast no part, but the Virgin abode untouched, nevertheless, what pertains to a father, not injuring the honor of virginity, that do I give thee, to set a Name on that which is born: for “thou shalt call Him.” For though the offspring be not thine, yet shalt thou exhibit a father’s care towards Him. Wherefore I do straightway, even from the giving of the name, connect thee with Him that is born.”
 
-ἐκ περιουσα, “superabundantly.”—R.\] 190
+190 ἐκ περιουσα, “superabundantly.”—R.\] 191 [[Matthew 01#^1-21|Matt. i. 21]].
 
 *[p. 60]* ^pg68
 
@@ -234,11 +234,11 @@ And mark how he hath by the way discovered to us also His dignity, by calling th
 
 14\. Forasmuch then as we have partaken of so great a gift, let us do everything not to dishonor such a benefit. For if even before this honor, what was done was worthy of punishment, much more now, after this unspeakable benefit. And this I say not now for no cause,<sup>194</sup>but because I see many after their baptism living more carelessly than the uninitiated, and having nothing peculiar to distinguish them in their way of life. It is, you see, for this cause, that neither in the market nor in the Church is it possible to know quickly who is a believer and who an unbeliever; unless one be present at the time of the mysteries, and see the one sort put out, the others remaining within. Whereas they ought to be distinguished
 
-μετωρον.
+192 μετωρον.
 
-192 193
+193
 
-\[More literally, “Removal and destruction of sins.”—R.\] \[οχ πλ, here in the sense, “not generally, not at random.”—R.\]
+\[More literally, “Removal and destruction of sins.”—R.\] 194 \[οχ πλ, here in the sense, “not generally, not at random.”—R.\]
 
 *[p. 61]* ^pg69
 
@@ -250,21 +250,15 @@ By what then, tell me, am I to recognize the believer<sup>198</sup>in thee, whil
 
 Further, if I were bidding thee make another man gentle, not even so ought I to seem as one enjoining impossible things; however, thou mightest then object that thou hast not the control of another’s disposition, and that it doth not altogether rest with thee. But now it is thine own wild beast, and a thing which absolutely depends on thee. What plea then hast thou? or what fair excuse wilt thou be able to put forth, turning as thou art a lion into
 
-ἔξωθεν. 1 Cor. v. 13.
+195 ἔξωθεν. 1 Cor. v. 13.
 
-195
+196 ἐφδιον.
 
-ἐφδιον.
+197 σεσηρυαν.
 
-196
+198 \[πιστν. The translator sometimes, as in this instance, rendered the word “Christian.” For the sake of uni- formity, “believer” has been substituted several times in this paragraph.—R.\]
 
-σεσηρυαν.
-
-197
-
-\[πιστν. The translator sometimes, as in this instance, rendered the word “Christian.” For the sake of uni- 198 formity, “believer” has been substituted several times in this paragraph.—R.\]
-
-The Hebrew name προαιρσεω, deliberate choice.—R.\]
+199 The Hebrew name προαιρσεω, deliberate choice.—R.\]
 
 *[p. 62]* ^pg70
 
@@ -272,13 +266,11 @@ a man, and regardless that thou thyself art of a man becoming a lion; upon the b
 
 17\. How then are we to be freed from this pest? If we can drink a potion that is able to kill the worms within us and the serpents. “And of what nature,” it will be asked, “may this potion be, that hath such power?” The precious Blood of Christ, if it be received with full assurance,<sup>201</sup>(for this will have power to extinguish every disease); and together with this 26 the divine Scriptures carefully heard, and almsgiving added to our hearing; for by means of all these things we shall be enabled to mortify the affections that mar our soul. And then only shall we live; for now surely we are in no better state than the dead: forasmuch as it cannot be, that while those passions live, we should live too, but we must necessarily perish. And unless we first kill them here, they will be sure to kill us in the other life; or rather before that death they will exact of us, even here, the utmost penalty. Yes, for every such passion is both cruel and tyrannical and insatiable, and never ceases to devour us every day. For “their teeth are the teeth of a lion,”<sup>202</sup>or rather even far more fierce. For the lion, as soon as ever he is satisfied, is wont to leave the carcass that hath fallen in his way; but these passions neither are satisfied, nor do they leave the man whom they have seized, until they have set him nigh the devil. For so great is their power, that the very service which Paul showed forth to Christ,<sup>203</sup>despising both hell and the kingdom for His sake, even this same do they require of them whom they have seized. For whether it be with the love of women, or of riches, or of glory, that any one is entangled, he laughs at hell thenceforth, and despises the kingdom, that he may work the will of these. Let us not then doubt Paul when he saith that he so loved
 
-τν τοιοτον λογισμν.
+200 τν τοιοτον λογισμν.
 
-200
+201 παησα. \[“Boldness” or “confidence” would better express the meaning.—R.\]
 
-παησα. \[“Boldness” or “confidence” would better express the meaning.—R.\] 201 202
-
-Joel i. 6.
+202 Joel i. 6. 203 [[Romans 08#^8-38|Rom. viii. 38]].
 
 *[p. 63]* ^pg71
 
@@ -290,7 +282,7 @@ For though thou shouldest become infinitely conspicuous, thou wilt be nothing be
 
 But as to the noble and great servants of God, not by these means, but by such as best became them, even by such did they shine forth. For captives as they were, and slaves, and youths, and strangers, and stripped of all resources of their own, they proved at that time far more awful than he who was invested with all these things. And while Nebuchadnezzar found neither so great an image, nor satraps, nor captains of the host, nor endless legions, nor abundance of gold, nor other pomp, enough to meet his desire, and to show him great; to these, on the other hand, stripped of all this, their high self-restraint alone was sufficient, and showed him that wore the diadem and the purple, as much inferior in glory to those who had no such thing, as the sun is more glorious than a pearl.<sup>204</sup> For they were led forth
 
-μαργάρου.
+204 μαργάρου.
 
 *[p. 64]* ^pg72
 
@@ -302,7 +294,7 @@ Then when they considered that it was possible that God might be willing even to
 
 For it was not for rewards and recompenses that they did what they did, but out of love alone; and yet they were in captivity too, and in slavery, and had enjoyed no good thing. Yea, they had lost their country, and their freedom, and all their possessions. For tell me not of their honors in the king’s courts, for holy and righteous as they were, they would have chosen ten thousand times rather to have been beggars at home, and to have been partakers of the blessings in the temple. “For I had rather,” it is said, “be an outcast<sup>209</sup>in the house of my God, than to dwell in the tents of sinners.” And “one day in thy courts is better than thousands.”<sup>210</sup> They would have chosen then ten thousand times rather to be outcasts
 
-205 Dan. iii. 18. \[εσβειαν.\] 206 207 Dan. iii. 17. 208 Dan. iii. 18. παραιπτεσθαι, *i.e*., be a worshipper outside the courts. Our marginal translation is, “I would choose rather 209 to sit at the threshold.” \[The R.V. margin is, “I had rather stand at the threshold.”—R.\]
+205 Dan. iii. 18. 206 \[εσβειαν.\] 207 Dan. iii. 17. 208 Dan. iii. 18. 209 παραιπτεσθαι, *i.e*., be a worshipper outside the courts. Our marginal translation is, “I would choose rather to sit at the threshold.” \[The R.V. margin is, “I had rather stand at the threshold.”—R.\] 210 Ps. lxxxiv. 10, LXX.
 
 *[p. 65]* ^pg73
 
@@ -312,7 +304,7 @@ at home, than kings in Babylon. And this is manifest, from what they declare eve
 
 From this furnace Lazarus too went forth, not less glorious than those children; but the rich man who was in the place of them that worshipped the image, was condemned to hell.<sup>216</sup> For indeed what we have now mentioned was a type of this. Wherefore as in this instance they who fell into the furnace suffered no hurt, but they who sat without were laid hold of with great fierceness, so likewise shall it be then. The saints walking through the river of fire shall suffer no pain, nay they will even appear joyous; but they that have worshipped
 
-28 211 Dan. ii. 17, 18. 212 [[Philippians 02#^2-4|Phil. ii. 4]]; [[1 Corinthians 10#^10-33|1 Cor. x. 33]]. δυσωπσαι. 213 214 Song of the Three Children, v. 16.
+28 211 Dan. ii. 17, 18. 212 [[Philippians 02#^2-4|Phil. ii. 4]]; [[1 Corinthians 10#^10-33|1 Cor. x. 33]]. 213 δυσωπσαι. 214 Song of the Three Children, v. 16.
 
 [^215]: Song of the Three Children, v. 26. \[The Greek phrase, δρσο διασυρζουσα, literally means, “a dew continually whistling.” Chrysostom refers several times in what follows to the “dew,” having this citation in mind.—R.\] 216 Gehenna. \[But in [[Luke 16#^16-23|Luke xvi. 23]], “Hades” occurs. The context in the Gospel, however, justifies the interpretation of the passage given here.—R.\]
 
@@ -326,7 +318,7 @@ Then, an angel went down with those children; now, let us go down with<sup>219</
 
 Let us not therefore sit down without the furnace, feeling no pity towards the poor; lest the same befall us as then befell those executioners. For if thou shouldest go down to them, and take thy stand with the children, the fire will no longer work thee any harm; but if thou shouldest sit above and neglect them in the flame of their poverty, the flame will burn thee
 
-217 \[See note 11, (p. 29).—R.\] 218 \[See note 11, (p. 29).—R.\] συγκαταβμεν, “condescend.” 219 220 \[See note 11, (p. 29).—R.\] 221 [[Matthew 25#^25-35|Matt. xxv. 35]]. 222 \[See note 11, (p. 29).—R.\] \[τν φιλοσοφοντων.\]
+217 \[See note 11, (p. 29).—R.\] 218 \[See note 11, (p. 29).—R.\] 219 συγκαταβμεν, “condescend.” 220 \[See note 11, (p. 29).—R.\] 221 [[Matthew 25#^25-35|Matt. xxv. 35]]. 222 \[See note 11, (p. 29).—R.\] 223 \[τν φιλοσοφοντων.\]
 
 *[p. 67]* ^pg75
 
@@ -334,7 +326,7 @@ up. Go down therefore into the fire, that thou mayest not be burnt up by the fir
 
 In order then to become worthy of the things in Heaven, I bid thee laugh to scorn things present. For in this way thou shalt both be more glorious here, and enjoy the good things to come, by the grace and love towards man of our Lord Jesus Christ; to whom be glory and might for ever and ever. Amen.
 
-[[Hebrews 11#^11-38|Heb. xi. 38]].
+224 [[Hebrews 11#^11-38|Heb. xi. 38]].
 
 *[p. 68]* ^pg76
 
@@ -352,9 +344,9 @@ For if after the bath you would not choose to hurry into the market place, lest 
 
 That this then may not be the case, when you retire from the Communion, you must account nothing more necessary than that you should put together the things that have been said to you. Yes, for it were the utmost folly for us, while we give up five and even six days to the business of this life, not to bestow on things spiritual so much as one day, or rather not so much as a small part of one day. See ye not our own children, that whatever lessons are given them, those they study throughout the whole day? This then let us do likewise, since otherwise we shall derive no profit from coming here, drawing water daily into a vessel with holes, and not bestowing on the retaining of what we have heard even so much earnestness as we plainly show with respect to gold and silver. For any one who has received a few pence both puts them into a bag and sets a seal thereon; but we, having given us oracles more precious than either gold or costly stones, and receiving the treasures of the Spirit, do not put them away in the storehouses of our soul, but thoughtlessly and at random suffer
 
-\[τ συνξεω, the technical term for a religious service among Christians. It does not of itself imply a 225 Eucharistic service, as the above rendering seems to suggest. Indeed, the exordium of this Homily points directly to a service in which the sermon was prominent, making no allusion to the Lord’s Supper. For a wider use, see the close of Homily LXXXVIII.—R.\] 226
+\[τ συνξεω, the technical term for a religious service among Christians. It does not of itself imply a 225 Eucharistic service, as the above rendering seems to suggest. Indeed, the exordium of this Homily points directly to a service in which the sermon was prominent, making no allusion to the Lord’s Supper. For a wider use, see the close of Homily LXXXVIII.—R.\]
 
-Comp. Herbert’s Country Parson, c. 10. “He himself, or his wife, takes account of sermons, and how every one profits, comparing this year with the last.”
+226 Comp. Herbert’s Country Parson, c. 10. “He himself, or his wife, takes account of sermons, and how every one profits, comparing this year with the last.”
 
 *[p. 69]* ^pg77
 
@@ -382,7 +374,7 @@ Therefore, to say, “they shall call” Him “Emmanuel,” means nothing else 
 
 But if Jews are obstinate, we will ask the, when was the child called, “Make speed to the spoil, hasten the prey?” Why, they could not say. How is it then that the prophet said, “Call his name Maher-shalal-hash-baz?”<sup>232</sup> Because, when he was born, there was a taking and dividing of spoils, therefore the event that took place in his time is put as his name. And the city, too, it is said, shall be called “the city of righteousness, the faithful city Sion.”<sup>233</sup> And yet we nowhere find that the city was called “righteousness,” but it continued to be called Jerusalem. However, inasmuch as this came to pass in fact, when the city underwent a change for the better, on that account he saith it is so called. For when any event happens which marks out him who brings it to pass, or who is benefited by it, more clearly than his name, the Scripture<sup>234</sup>speaks of the truth of the event as being a name to him.
 
-230 \[“Unless,” is not found in the mss., but inserted by the editors as necessary to the sense.—R.\] 231 \[“Prophet” is the correct rendering; the plural in the Oxford version is probably due to a typographical error.—R.\] 232 Isa. viii. 3. \[Chrysostom does not use the Hebrew name here, but simply repeats a part of the Greek phrase used to translate “Maher-shalal-hash-baz” in the LXX., which he had already given in the previous sentence: Ταχω σκλευσον, ξω προνμευσον. The R.V. *in loco* does not accept the imperative rendering, but gives this marginal explanation: “That is, *The spoil speedeth, the prey hasteth*.”—R.\] 233 Isa. i. 26, 27. \[Supplied by translator; literally, “it speaks.”—R.\]
+230 \[“Unless,” is not found in the mss., but inserted by the editors as necessary to the sense.—R.\] 231 \[“Prophet” is the correct rendering; the plural in the Oxford version is probably due to a typographical error.—R.\] 232 Isa. viii. 3. \[Chrysostom does not use the Hebrew name here, but simply repeats a part of the Greek phrase used to translate “Maher-shalal-hash-baz” in the LXX., which he had already given in the previous sentence: Ταχω σκλευσον, ξω προνμευσον. The R.V. *in loco* does not accept the imperative rendering, but gives this marginal explanation: “That is, *The spoil speedeth, the prey hasteth*.”—R.\] 233 Isa. i. 26, 27. 234 \[Supplied by translator; literally, “it speaks.”—R.\]
 
 *[p. 71]* ^pg79
 
@@ -396,7 +388,7 @@ And what goes before also establishes this interpretation. For he doth not merel
 
 “And took unto him Mary his wife.” Seest thou how continually the evangelist uses this word, not willing that that mystery should be disclosed as yet, and annihilating that evil suspicion?
 
-235 *i.e.*, Aquila who flourished A.D. 128, Theodotion, A.D. 175, Symmachus, A.D. 201: who were all of them Jews or Judaizing heretics. Cave, Hist. Lit. i. 32, 48, 64. 236 \[This reference to the “agreement” of the LXX. seems to indicate an acceptance of the current tradition in regard to the supernatural exactness of that version.—R.\] 237 Ps. cxlviii. 12. 238 Deut. xxii. 27. In our translation, “the betrothed damsel cried.” This place is cited by St. Jerome on Matt. with reference to the same argument. Isa. vii. 14.
+235 *i.e.*, Aquila who flourished A.D. 128, Theodotion, A.D. 175, Symmachus, A.D. 201: who were all of them Jews or Judaizing heretics. Cave, Hist. Lit. i. 32, 48, 64. 236 \[This reference to the “agreement” of the LXX. seems to indicate an acceptance of the current tradition in regard to the supernatural exactness of that version.—R.\] 237 Ps. cxlviii. 12. 238 Deut. xxii. 27. In our translation, “the betrothed damsel cried.” This place is cited by St. Jerome on Matt. with reference to the same argument. 239 Isa. vii. 14.
 
 *[p. 72]* ^pg80
 
@@ -406,7 +398,7 @@ How then, one may say, are James and the others called His brethren? In the same
 
 6\. Nevertheless they, who did not believe at first, became afterwards admirable, and illustrious. At least when Paul and they that were of his company were come up to Jerusalem about decrees,<sup>246</sup>they went in straightway unto James. For he was so admired as even to be
 
-240 \[There is no indication here of any knowledge of the reading found in the oldest authorities of every class (uncials, cursives and versions): ἔτεκεν υν, instead of ἔτεκεν τν υν ατ τν πρωττοκον. The latter is the reading of all authorities in [[Luke 02#^2-7|Luke ii. 7]].—R.\] 241 Gen. viii. 7. 242 Ps. xc. 2. 243 Ps. lxxii. 7. 244 [[John 19#^19-27|John xix. 27]]. 245 [[John 07#^7-5|John vii. 5]]. \[In regard to the “brethren of our Lord,” there seems to be some confusion in the statements of Chrysostom: Comp. Hom. LXXXVIII., on chap. xxvii. 55, 56. The digression here to the character of James seems intended to divert from the historical discussion.—R.\]
+240 \[There is no indication here of any knowledge of the reading found in the oldest authorities of every class (uncials, cursives and versions): ἔτεκεν υν, instead of ἔτεκεν τν υν ατ τν πρωττοκον. The latter is the reading of all authorities in [[Luke 02#^2-7|Luke ii. 7]].—R.\] 241 Gen. viii. 7. 242 Ps. xc. 2. 243 Ps. lxxii. 7. 244 [[John 19#^19-27|John xix. 27]]. 245 [[John 07#^7-5|John vii. 5]]. \[In regard to the “brethren of our Lord,” there seems to be some confusion in the statements of Chrysostom: Comp. Hom. LXXXVIII., on chap. xxvii. 55, 56. The digression here to the character of James seems intended to divert from the historical discussion.—R.\] 246 [[Acts 15#^15-4|Acts xv. 4]], [[Acts 16#^16-4|xvi. 4]], [[Acts 21#^21-18|xxi. 18]].
 
 *[p. 73]* ^pg81
 
@@ -416,7 +408,7 @@ power of Christ. For they that mock Him when living, after His death are so fill
 
 7\. And these things we tell you, that ye may not hear only, but imitate also his manly severity,<sup>249</sup>his plainness of speech, his righteousness in all things; that no one may despair of himself, though hitherto he have been careless, that he may set his hopes on nothing else, after God’s mercy, but on his own virtue. For if these were nothing the better for such a kindred, though they were of the same house and lineage with Christ, until they gave proof of virtue; what favor can we possibly receive, when we plead righteous kinsmen and brethren, unless we be exceeding dutiful,<sup>250</sup>and have lived in virtue? As the prophet too said, intimating the selfsame thing, “A brother redeemeth not, shall a man redeem?”<sup>251</sup> No, not although it were<sup>252</sup> Moses, Samuel, Jeremiah. Hear, for example, what God saith unto this last, “Pray not thou for this people, for I will not hear thee.”<sup>253</sup> And why marvellest thou if I hear not thee? “Though Moses himself and Samuel stood before me,”<sup>254</sup> I would not receive their supplication for these men.” Yea, if it be Ezekiel who entreats, he will be told, “Though Noah stand forth, and Job, and Daniel, they shall deliver neither sons nor daughters.”<sup>255</sup> Though
 
-247 See Hegesippus in St. Jerome de Viris Illustr., c. 2. 248 [[Acts 21#^21-20|Acts xxi. 20]]; see also verse 22. \[ἀνδρεαν, “manliness.”—R.\] 249 ἐπιεικε. 250 251 Ps. xlix. 7. \[This is the rendering of the LXX.—R.\] \[kἂν , “even if it were.”—R.\] 252 253 Jer. xi. 14. 254 Jer. xv. 1. Ezek. xiv. 14, 16.
+247 See Hegesippus in St. Jerome de Viris Illustr., c. 2. 248 [[Acts 21#^21-20|Acts xxi. 20]]; see also verse 22. 249 \[ἀνδρεαν, “manliness.”—R.\] 250 ἐπιεικε. 251 Ps. xlix. 7. \[This is the rendering of the LXX.—R.\] 252 \[kἂν , “even if it were.”—R.\] 253 Jer. xi. 14. 254 Jer. xv. 1. 255 Ezek. xiv. 14, 16.
 
 *[p. 74]* ^pg82
 
@@ -430,7 +422,7 @@ And Samuel again was not able to save Saul from the wrath from above, yet he oft
 
 And in the Gospels too we shall see both these events come to pass, not in the case of different persons, but of the same; and the same man now prevailing for himself and now given up. For he who owed the ten thousand talents, though he had delivered himself from
 
-256 Gen. xviii. 33. 257 1 Sam. xvi. 1. 258 Num. xii. 14. 259 Ex. xxxii.; Num. xii. 260 Alluding, perhaps, to 2 Maccab. xv. 13–16. Dan. ii. 24.
+256 Gen. xviii. 33. 257 1 Sam. xvi. 1. 258 Num. xii. 14. 259 Ex. xxxii.; Num. xii. 260 Alluding, perhaps, to 2 Maccab. xv. 13–16. 261 Dan. ii. 24.
 
 *[p. 75]* ^pg83
 
@@ -440,7 +432,7 @@ So that on the one hand, if we be careless, we shall not be able to obtain salva
 
 8\. And this I say, not that we may omit supplicating the saints, but to hinder our being careless, and entrusting our concerns to others only, while we fall back and slumber ourselves. For so when He said, “make to yourselves friends,”<sup>264</sup>he did not stop at this only, but He added, “of the unrighteous mammon;” that so again the good work may be thine own; for it is nothing else but almsgiving which He hath here signified. And, what is marvellous, neither doth He make a strict account with us, if we withdraw ourselves from injustice. For what He saith is like this: “Hast thou gained ill? spend well. Hast thou gathered by unrighteousness? scatter abroad in righteousness.” And yet, what manner of virtue is this, to give out of such gains? God, however, being full of love to man, condescends even to this and if we thus do, promises us many good things. But we are so past all feeling, as not to give even of our unjust gain, but while plundering without end, if we contribute the smallest part, we think we have fulfilled all. Hast thou not heard Paul saying, “He which soweth sparingly, shall reap also sparingly”?<sup>265</sup> Wherefore then dost thou spare? What, is the act an outlay? is it an expense? Nay, it is gain and good merchandise. Where there is merchandise, there is also increase; where there is sowing, there is also reaping. But thou, if thou hadst to till a rich and deep soil, and capable of receiving much seed, wouldest both spend what thou hadst, and wouldest borrow of other men, accounting parsimony in such cases to be loss; but, when it is Heaven which thou art to cultivate, which is exposed to no variation of weather, and will surely repay thine outlay with abundant increase, thou art slow and backward, and considerest not that it is possible by sparing to lose, and by not sparing to gain.
 
-262 [[Matthew 18#^18-26|Matt. xviii. 26–34]]. 263 [[Luke 15#^15-13|Luke xv. 13–20]]. 264 [[Luke 16#^16-9|Luke xvi. 9]]. It would seem from this that the saints whom we are to supplicate for their help are those on earth, whom we may assist by our alms. And the examples before tend to confirm this view. 2 Cor. xix. 6.
+262 [[Matthew 18#^18-26|Matt. xviii. 26–34]]. 263 [[Luke 15#^15-13|Luke xv. 13–20]]. 264 [[Luke 16#^16-9|Luke xvi. 9]]. It would seem from this that the saints whom we are to supplicate for their help are those on earth, whom we may assist by our alms. And the examples before tend to confirm this view. 265 2 Cor. xix. 6.
 
 *[p. 76]* ^pg84
 
@@ -496,7 +488,7 @@ In the fourth place, one may perceive this clearly, from its mode of pointing Hi
 
 4\. Seest thou, by what store of proofs this star is shown not to be one of the many, nor to have shown itself according to the order of the outward creation? And for what intent
 
-οκονομν.
+266 οκονομν.
 
 *[p. 80]* ^pg88
 
@@ -506,7 +498,7 @@ did it appear? To reprove the Jews for their insensibility, and to cut off from 
 
 In imitation of this, Paul also reasons with the Greeks from an heathen altar, and brings forward testimonies from the poets.<sup>268</sup> And not without circumcision doth he harangue the Jews. Sacrifices he makes the beginning of his instruction to them that are living under the law. For, since to every one what is familiar is dear, both God, and the men that are sent by Him, manage things on this principle with a view to the salvation of the world. Think it not therefore unworthy of Him to have called them by a star; since by the same rule thou wilt find fault with all the Jewish rites also, the sacrifices, and the purifications, and the new moons, and the ark, and the temple too itself. For even these derived their origin from Gentile grossness.<sup>269</sup> Yet for all that, God, for the salvation of them that were in error, endured
 
-267 [[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]]. 268 [[Acts 17#^17-23|Acts xvii. 23]], [[Acts 17#^17-28|28]]; [[1 Corinthians 15#^15-33|1 Cor. xv. 33]]; [[Titus 01#^1-12|Titus i. 12]]. See St. Iren. iv. 28, 29; Tertull. adv. Marc. i. 18, 22; St. Chrys. adv. Jud. Hom. i. t. 6, 318.
+267 [[Matthew 12#^12-41|Matt. xii. 41]], [[Matthew 12#^12-42|42]]. 268 [[Acts 17#^17-23|Acts xvii. 23]], [[Acts 17#^17-28|28]]; [[1 Corinthians 15#^15-33|1 Cor. xv. 33]]; [[Titus 01#^1-12|Titus i. 12]]. 269 See St. Iren. iv. 28, 29; Tertull. adv. Marc. i. 18, 22; St. Chrys. adv. Jud. Hom. i. t. 6, 318.
 
 *[p. 81]* ^pg89
 
@@ -518,7 +510,7 @@ With respect to the star, we have said these things, and yet more perhaps may be
 
 5\. And what is the beginning? “When Jesus was born in Bethlehem of Judæa, in the days of Herod the king, behold, there came wise men from the east to Jerusalem.” While wise men followed under the auspices of a star, these believed not, with prophets even sounding in their ears. But wherefore doth he mention to us both the time and the place, saying, “in
 
-270 1 Sam. vi. 9. 271 1 Sam. xxviii. Prov. ix. 9.
+270 1 Sam. vi. 9. 271 1 Sam. xxviii. 272 Prov. ix. 9.
 
 *[p. 82]* ^pg90
 
@@ -528,7 +520,7 @@ And this again is worth inquiry, whence it was that they came to entertain such 
 
 And wherefore, one may ask, did He not reveal this to all the wise men of the East? Because all would not have believed, but these were better prepared than the rest; since also there were countless nations that perished, but it was to the Ninevites only that the prophet was sent; and there were two thieves on the cross, but one only was saved. See at least the virtue of these men, not only by their coming, but also by their boldness of speech. For so that they may not seem to be a sort of impostors,<sup>275</sup>they tell who showed them the way, and the length of their journey; and being come, they had boldness of speech: “for we are come,” that is their statement, “to worship Him:” and they were afraid neither of the people’s anger, nor of the tyranny of the king. Whence to me at least they seem to have been at home also teachers of their countrymen.<sup>276</sup> For they who here did not shrink from saying this, much more would they speak boldly in their own country, as having received both the oracle from the angel, and the testimony from the prophet.
 
-273 Micah v. 2. 274 Gen. xlix. 10. ὑποβολιμαοι τινε. 275 276 So in Op. Imperf. in Matt. Hom. 2. “After their return, they continued serving God more than before, and instructed many by their preaching. And at last, when Thomas had gone into that province, they joined themselves to him and were baptized, and became doers of his word.” This work has been attributed to St. Chrysostom, and seems certainly of the same date with him.
+273 Micah v. 2. 274 Gen. xlix. 10. 275 ὑποβολιμαοι τινε. 276 So in Op. Imperf. in Matt. Hom. 2. “After their return, they continued serving God more than before, and instructed many by their preaching. And at last, when Thomas had gone into that province, they joined themselves to him and were baptized, and became doers of his word.” This work has been attributed to St. Chrysostom, and seems certainly of the same date with him.
 
 *[p. 83]* ^pg91
 
@@ -540,4 +532,4 @@ But nevertheless, although troubled, they seek not to see what hath happened, ne
 
 7\. But none of these things thoroughly awakens them, so great was their dullness, and with this their envy also: both which we must with exact care root out of our mind; and he must be more fervent than fire who is to stand in such an array. Wherefore also Christ said, “I am come to send fire on earth, and I would it were already kindled.”<sup>280</sup>in the same lot with it, even so godly tears are a germ of perpetual and unfading joy. In this way the very harlot became more honorable than virgins when seized by this fire. That is, being thoroughly
 
-277 \[Literally, “were they.”—R.\] \[ἄνωθεν, “from above.” The word occurs in the previous paragraph, and is probably used here in the same 278 sense.—R.\] 279 Is. ix. 5, 6, LXX. *i.e*. “They (the enemies of Christ) would rather have been burned, than for this to happen.” The LXX., reading differently from the present Hebrew, seem to construe the passage thus. \[The R.V. renders Is. ix. 5 thus: “For all the armor of the armed man in the tumult, and the garments rolled in blood, shall even be for burning, for fuel of fire.” This opposes entirely the interpretation given above (and possibly implied in the LXX.). The rendering of the A.V. is quite obscure, in spite of its verbal splendor.—R.\] ἤθελον for τ θλωσυγκεκληρωμνην .
+277 \[Literally, “were they.”—R.\] 278 \[ἄνωθεν, “from above.” The word occurs in the previous paragraph, and is probably used here in the same sense.—R.\] 279 Is. ix. 5, 6, LXX. *i.e*. “They (the enemies of Christ) would rather have been burned, than for this to happen.” The LXX., reading differently from the present Hebrew, seem to construe the passage thus. \[The R.V. renders Is. ix. 5 thus: “For all the armor of the armed man in the tumult, and the garments rolled in blood, shall even be for burning, for fuel of fire.” This opposes entirely the interpretation given above (and possibly implied in the LXX.). The rendering of the A.V. is quite obscure, in spite of its verbal splendor.—R.\] 280 ἤθελον for τ θλωσυγκεκληρωμνην .

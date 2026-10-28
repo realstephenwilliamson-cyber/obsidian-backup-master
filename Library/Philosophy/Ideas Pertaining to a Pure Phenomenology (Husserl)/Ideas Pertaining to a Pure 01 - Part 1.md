@@ -755,7 +755,7 @@ Index to Proper Names Analytic Subject Index .
 148\. § 148. Problems of the Theory of Reason Pertaining to Formal Ontology 329 333 340
 
 
-*[PDF 6]* ^pg6
+*[p. xii–xiii]* ^pg6
 
 Edmund Husserl’s \[deen zu einer reinen Phanomenologie und phanomenologischen Philosophie, Erstes Buch: Allgemeine Einfuhrung in die reine Phano-menologte, was first published in 1913 in the first volume of Jahrbuch fur Philosophie und phanomenologische Forschung, edited by Edmund Husserl, Adolf Reinach, Max Scheler, Moritz Geiger and Alexander Pfander (Halle: Max Niemeyer), pp. 1-323. In 1922 the book was reprinted with an ‘“‘Ausfiihrliches Sachregister” prepared by Gerda Walther. Reprinted again in 1928, the book contained a ‘“‘Sachregis-ter” prepared by Ludwig Landgrebe replacing that of Gerda Walther. A new edition of the book was published in 1950 by Martinus Nijhoff, The Hague. Edited by Walter Biemel, the title page states that the edition is a ““Neu, auf Grund der handschriftlichen Zusatze des Verfassers erweiterte Auflage.”’ This edition, published as Volume III of Edmund Husserl, Gesammelte Werke (Hus-serliana) included additions, insertions and marginal notes of Husserl which were either run into the text itself or printed in a section of “Textkritische Anmerkungen” (pp. 463-483). Much of this supplementary material was taken from three copies of Ideen which Husserl annotated between 1913 and 1929. Biemel also included as appendices manuscripts of Husserl in which he either developed further certain ideas in the text or else tried to rewrite existing sections of the book.
 
@@ -953,7 +953,7 @@ accessible intuitions; because, rather, in general long investigations
 
 must precede their definitive clarifications and determinations: combined ways of speaking are therefore frequently indispensable which arrange together a plurality of expressions of common discourse which are in use in approximately the same sense and which give terminological pre-eminence to single expressions of this sort. One cannot define in philosophy as in mathematics; any imitation of mathematical procedure in this respect is not only unfruitful but wrong, and has most injurious consequences. For the rest, each of the above terminological expressions is to receive its fixed sense by means of a determinate, intrinsically evident validation of that sense in the deliberations to be carried out. Meanwhile, circumstantial critical comparisons with the philosophical tradition in this respect, as in all others, must be renounced if only because of the length of this work.
 
-*[PDF 12]* ^pg12
+*[p. 1]* ^pg12
 
 FIRST BOOK <7)
 
@@ -961,13 +961,13 @@ GENERAL INTRODUCTION TO A PURE
 
 PHENOMENOLOGY
 
-*[PDF 13]* ^pg13
+*[p. 2–3]* ^pg13
 
 PART ONE
 
 ESSENCE AND EIDETIC COGNITION
 
-*[PDF 14]* ^pg14
+*[p. 4–5]* ^pg14
 
 MATTER OF FACT AND ESSENCE
 

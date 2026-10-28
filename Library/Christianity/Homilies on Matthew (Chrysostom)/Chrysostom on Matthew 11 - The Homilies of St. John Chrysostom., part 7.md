@@ -24,7 +24,7 @@ Seest thou how He hath taught us also to be modest, by making it clear that virt
 
 8\. “Give us this day our daily bread.”<sup>853</sup> What is “*daily bread*”? That for one day.<sup>854</sup>
 
-ἔρωτα. 850 ἀνωμαλα. 851 852 Ps. ciii. 20. 853 [[Matthew 06#^6-11|Matt. vi. 11]]. 854 \[This is one of the most important passages in these Homilies, from a lexical point of view. The Greek text is, Τ στι, Τον ρτον τν πιυσιον; Το φμερον. The word ἐπιοσιο is found only in [[Matthew 06#^6-11|Matt. vi. 11]], [[Luke 11#^11-3|Luke xi. 3]], and in the Christian literature based on these passages. As all Biblical scholars are aware, the etymology and meaning are still open to discussion. See Thayer’s *Greek Lexicon, New Testament, sub voce*. The Fathers generally gave it a spiritual or mystical sense, and Chrysostom’s position is, therefore, the more important. The modern views may be inferred from the R.V., which in the text of both renders the word “daily,” with the margin “Greek, our bread for the coming day,” but the American Company add as a second marginal rendering, “our needful bread.” These two marginal renderings represent two distinct etymologies, while “daily” is an explanatory or inferential rendering, for which the authority of Chrysostom has furnished strong support.—R.\]
+850 ἔρωτα. 851 ἀνωμαλα. 852 Ps. ciii. 20. 853 [[Matthew 06#^6-11|Matt. vi. 11]]. 854 \[This is one of the most important passages in these Homilies, from a lexical point of view. The Greek text is, Τ στι, Τον ρτον τν πιυσιον; Το φμερον. The word ἐπιοσιο is found only in [[Matthew 06#^6-11|Matt. vi. 11]], [[Luke 11#^11-3|Luke xi. 3]], and in the Christian literature based on these passages. As all Biblical scholars are aware, the etymology and meaning are still open to discussion. See Thayer’s *Greek Lexicon, New Testament, sub voce*. The Fathers generally gave it a spiritual or mystical sense, and Chrysostom’s position is, therefore, the more important. The modern views may be inferred from the R.V., which in the text of both renders the word “daily,” with the margin “Greek, our bread for the coming day,” but the American Company add as a second marginal rendering, “our needful bread.” These two marginal renderings represent two distinct etymologies, while “daily” is an explanatory or inferential rendering, for which the authority of Chrysostom has furnished strong support.—R.\]
 
 *[p. 245]* ^pg253
 
@@ -38,7 +38,7 @@ This, as He proceeded, he enjoined also more fully, saying, “Take no thought f
 
 “Forgive us our debts, as we also forgive our debtors.”<sup>857</sup> Seest thou surpassing mercy? After taking away so great evils, and after the unspeakable greatness of His gift, if men sin again, He counts them such as may be forgiven. For that this prayer belongs to believers, is taught us both by the laws of the church, and by the beginning of the prayer. For the uninitiated could not call God Father. If then the prayer belongs to believers, and they pray, entreating that sins may be forgiven them, it is clear that not even after the laver is the profit of repentance taken away. Since, had He not meant to signify this, He would not have made a law that we should so pray. Now He who both brings sins to remembrance, and bids us ask forgiveness, and teaches how we may obtain remission and so makes the way easy; it is perfectly clear that He introduced this rule of supplication, as knowing, and signifying, that it is possible even after the font<sup>858</sup>to wash ourselves from
 
-133 855 [[Matthew 06#^6-34|Matt. vi. 34]]. τ διστημα. 856 857 [[Matthew 06#^6-12|Matt. vi. 12]]. \[R.V., “have forgiven our debtors,” following a different and better supported reading than that accepted by Chrysostom.—R.\] \[μετ τ λουτρν, rendered above, “after the laver.”—R.\]
+133 855 [[Matthew 06#^6-34|Matt. vi. 34]]. 856 τ διστημα. 857 [[Matthew 06#^6-12|Matt. vi. 12]]. \[R.V., “have forgiven our debtors,” following a different and better supported reading than that accepted by Chrysostom.—R.\] 858 \[μετ τ λουτρν, rendered above, “after the laver.”—R.\]
 
 *[p. 246]* ^pg254
 
@@ -52,13 +52,13 @@ Since He might indeed, even without this, forgive thee all thine offenses; but H
 
 For what canst thou have to say? that thou hast wrongfully endured some ill of thy neighbor? (For these only are trespasses, since if it be done with justice, the act is not a trespass.) But thou too art drawing near to receive forgiveness for such things, and for much greater. And even before the forgiveness, thou hast received no small gift, in being taught to have a human soul, and in being trained to all gentleness. And herewith a great reward shall also be laid up for thee elsewhere, even to be called to account for none of thine offenses.
 
-φιλοσοφεν.
+859 φιλοσοφεν.
 
-859 860
+860
 
 [[Matthew 06#^6-14|Matt. vi. 14]].
 
-Many mss. read *hast given judgment on him*.
+861 Many mss. read *hast given judgment on him*.
 
 *[p. 247]* ^pg255
 
@@ -74,7 +74,7 @@ Having then made us anxious as before conflict, by putting us in mind of the ene
 
 Doth it not then follow, that if His be the kingdom, we should fear no one, since there can be none to withstand, and divide the empire with him. For when He saith, “Thine is the kingdom,” He sets before us even him, who is warring against us, brought into subjection, though he seem to oppose, God for a while permitting it. For in truth he too is among God’s servants, though of the degraded class, and those guilty of offense; and he would not dare set upon any of his fellow servants, had he not first received license from above. And why say I, “his fellow servants?” Not even against swine did he venture any outrage, until He
 
-134 862 [[Matthew 06#^6-13|Matt. vi. 13]]. \[Two points of great interest are to be noticed here: (1) that the interpretation “of the evil one” is unqualifedly accepted; (2) that the doxology is given without any suggestion of doubt respecting the genuineness of it. Here, as so often, the exegetical accuracy of Chrysostom appears to exceed his critical estimate of the Greek text of the New Testament.—R.\] πονηρα.
+134 862 [[Matthew 06#^6-13|Matt. vi. 13]]. \[Two points of great interest are to be noticed here: (1) that the interpretation “of the evil one” is unqualifedly accepted; (2) that the doxology is given without any suggestion of doubt respecting the genuineness of it. Here, as so often, the exegetical accuracy of Chrysostom appears to exceed his critical estimate of the Greek text of the New Testament.—R.\] 863 πονηρα.
 
 *[p. 248]* ^pg256
 
@@ -94,7 +94,7 @@ For this same cause again in every one of the clauses He commands us to make our
 
 How great punishment then must they deserve, who after all this, so far from themselves forgiving, do even entreat God for vengeance on their enemies, and diametrically as it were transgress this law; and this while He is doing and contriving all, to hinder our being at
 
-864 [[Luke 08#^8-32|Luke viii. 32]]. 865 Job i. 12. 866 [[Matthew 06#^6-14|Matt. vi. 14]], [[Matthew 06#^6-15|15]]. \[The latter verse is abridged, but there are variations in the mss. of the New Testament; comp. Tischendorf, *in loco*.—R.\] βιωτικν \[here in the sense of “secular.”—R.\] 867
+864 [[Luke 08#^8-32|Luke viii. 32]]. 865 Job i. 12. 866 [[Matthew 06#^6-14|Matt. vi. 14]], [[Matthew 06#^6-15|15]]. \[The latter verse is abridged, but there are variations in the mss. of the New Testament; comp. Tischendorf, *in loco*.—R.\] 867 βιωτικν \[here in the sense of “secular.”—R.\] 868 [[Matthew 05#^5-45|Matt. v. 45]].
 
 *[p. 249]* ^pg257
 
@@ -108,7 +108,7 @@ But yet from our so great and so many sins, God hath given us a short and easy w
 
 But if so far from forgiving him thyself, thou makest intercession to God against him, what hope of salvation wilt thou then have, if at the very time when thou oughtest rather to appease God, even then thou provokest Him; putting on the garb of a suppliant, but uttering the cries of a wild beast, and darting out against thyself those shafts of the wicked one? Wherefore Paul also, making mention of prayer, required nothing so much as the observance of this commandment; for He saith, “lifting up holy hands without wrath and doubting.”<sup>869</sup>
 
-[[1 Timothy 02#^2-8|1 Tim. ii. 8]]. \[R.V., “disputing,” with margin, “doubting.”—R.\]
+869 [[1 Timothy 02#^2-8|1 Tim. ii. 8]]. \[R.V., “disputing,” with margin, “doubting.”—R.\]
 
 *[p. 250]* ^pg258
 
@@ -130,9 +130,9 @@ And these things the prophets proclaim every day, each of them in a different wa
 
 And raising aloud the cry of victory over death, he said, “Where, O Death, is thy victory? Where, O Grave, is thy sting?”<sup>876</sup> And another again, declaring glad tidings of the most profound peace, said, “They shall beat their swords into ploughshares, and their spears into
 
-\[το βασιλω, the Greek title of the emperor. The term is so rendered above.—R.\] 870 871
+870 \[το βασιλω, the Greek title of the emperor. The term is so rendered above.—R.\]
 
-Ps. ciii. 22.
+871 Ps. ciii. 22.
 
 872
 
@@ -166,7 +166,7 @@ Have we then hereafter any right to marvel, if aught befall us of the things whi
 
 Therefore, considering these things, let us cast up that venom; let us put an end to our enmities, and let us make the prayers that become such as we are. Instead of the brutality of devils, let us take upon us the mildness of angels; and in whatsoever things we may have been injured, let us, consider ing our own case, and the reward appointed us for this commandment, soften our anger; let us assuage the billows, that we may both pass through the present life calmly, and when we have departed thither, may find our Lord such as we have been towards our fellow-servants. And if this be a heavy and fearful thing, let us make it light and desirable; and let us open the glorious gates of confidence towards Him; and what
 
-137 877 Isa. ii. 4 ; Micah iv. 3. 878 Zech. ix. 9. 879 Mal. iii. 1, 2. Mal. iv. 2. The present reading of the LXX. is σκιρτσετε, “ye shall leap.” \[So the Hebrew; comp. R.V.—R.\] 880 881 Baruc. iii. 35. τ συνξεω: “of the Holy Communion.” \[But see note 1 in Homily V., p. 31, and comp. Homily LXXXVIII. at the close.—R.\]
+137 877 Isa. ii. 4 ; Micah iv. 3. 878 Zech. ix. 9. 879 Mal. iii. 1, 2. 880 Mal. iv. 2. The present reading of the LXX. is σκιρτσετε, “ye shall leap.” \[So the Hebrew; comp. R.V.—R.\] 881 Baruc. iii. 35. 882 τ συνξεω: “of the Holy Communion.” \[But see note 1 in Homily V., p. 31, and comp. Homily LXXXVIII. at the close.—R.\]
 
 *[p. 253]* ^pg261
 
@@ -194,7 +194,7 @@ And whereas in the matter of almsgiving, He did not put it simply, but having sa
 
 As therefore, when He said, “Let not thy left hand know what thy right hand doeth,” it was not of hands that He was speaking, but of the duty of being strictly concealed from all; and as when He commanded us to enter into our closet, not there alone absolutely, nor there primarily, did He command us to pray, but He covertly intimated the same thing again; so likewise here, in commanding us “to be anointed,” He did not enact that we positively must anoint ourselves; for then we should all of us be found transgressors of this law;
 
-\[Or Homily XXI. in the Latin versions; see note on Homily XIX., sec. 6, p. 134.—R.\]
+883 \[Or Homily XXI. in the Latin versions; see note on Homily XIX., sec. 6, p. 134.—R.\]
 
 *[p. 255]* ^pg263
 
@@ -206,7 +206,7 @@ And somewhat else He signified by this name, this of hypocrites,<sup>886</sup> I
 
 And by another motive again He withdraws them from the hypocrites, by showing that His injunction is light. For He doth not make the fast more strict, nor command us to practise more of it, but not to lose the crown thereof. So that what seems hard to bear, is common to us and to the hypocrites, for they also fast; but that which is lightest, namely, not to lose the reward after our labors, “this is what I command,” saith He; adding nothing to our toils, but gathering our wages for us with all security, and not suffering us to go away unrewarded, as they do. Nay, they will not so much as imitate them that wrestle in the Olympic games, who although so great a multitude is sitting there, and so many princes, desire to please but one, even him who adjudges the victory amongst them; and this, though he be much their inferior. But thou, though thou hast a twofold motive for displaying the victory to Him, first, that He is the person to adjudge it, and also, that He is beyond comparison superior to all that are sitting in the theatre,—thou art displaying it to others, who so far from profiting, do privily work thee the greatest harm.
 
-884 2 Sam. xii. 20. 885 Dan. x. 3. 886 Literally, “actors.” [[Hebrews 04#^4-13|Heb. iv. 13]]. \[R.V., “laid open,” τετραχηλισμνα .—R.\]
+884 2 Sam. xii. 20. 885 Dan. x. 3. 886 Literally, “actors.” 887 [[Hebrews 04#^4-13|Heb. iv. 13]]. \[R.V., “laid open,” τετραχηλισμνα .—R.\]
 
 *[p. 256]* ^pg264
 
@@ -216,7 +216,7 @@ However, I do not forbid even this, saith He. Only, if thou art desirous to make
 
 Now above He had only said, that we must show mercy; but here He points out also how great mercy we must show, when He saith, “Lay not up treasure.” For it not being possible at the beginning to introduce all at once His discourse on contempt of riches, by reason of the tyranny of the passion, He breaks it up into small portions, and having set free the hearer’s mind, instills it therein, so as that it shall become acceptable. Wherefore, you see, He said first, “Blessed are the merciful;” and after this, “Agree with thine adversary;”
 
-139 888 [[Matthew 06#^6-19|Matt. vi. 19]]. \[“upon the earth,” so R.V.—R.\] ἀκτημοσυν.
+139 888 [[Matthew 06#^6-19|Matt. vi. 19]]. \[“upon the earth,” so R.V.—R.\] 889 ἀκτημοσυν.
 
 *[p. 257]* ^pg265
 
@@ -236,6 +236,8 @@ And on either hand He attracts them. For He said not only, “If thou give alms,
 
 And see His unspeakable prudence. For neither did He say, “Thou dost but leave them to others;” since this too is pleasant to men: He alarms them however on a new ground, by signifying that not even this do they obtain: since though men defraud not, there are those which are sure to defraud, “the moth” and “the rust.” For although this mischief seem very easy to restrain, it is nevertheless irresistible and uncontrollable, and devise what thou wilt, thou wilt be unable to check this harm.
 
+890 [[Matthew 04#^4-9|Matt. iv. 9]], [[Matthew 04#^4-10|10]].
+
 *[p. 258]* ^pg266
 
 “What then, doth moth<sup>891</sup>make away with the gold?” Though not moth,<sup>892</sup>yet thieves do. “What then, have all been despoiled?” Though not all, yet the more part.
@@ -248,13 +250,13 @@ However, forasmuch as this was too high for the mind of His hearers, and neither
 
 “The light of the body is the eye.”<sup>894</sup> What He saith is like this: Bury not gold in the earth, nor do any other such thing, for thou dost but gather it for the moth, and the rust, and the thieves. And even if thou shouldest entirely escape these evils, yet the enslaving of thine heart, the nailing it to all that is below, thou wilt not escape: “For wheresoever thy treasure may be, there is thine heart also.” As then, laying up stores in heaven, thou wilt reap not this fruit only, the attainment of the rewards for these things, but from this world thou already receivest thy recompence, in getting into harbor there, in setting thine affections on the things that are there, and
 
-\[σ. The Oxford Version has inadvertently rendered it “rust.”—R.\] 891
+891 \[σ. The Oxford Version has inadvertently rendered it “rust.”—R.\]
 
-\[σ. The Oxford Version has inadvertently rendered it “rust.”—R.\] 892 893
+892 \[σ. The Oxford Version has inadvertently rendered it “rust.”—R.\]
 
-[[Matthew 06#^6-21|Matt. vi. 21]]. \[The correct text of [[Matthew 06#^6-21|Matt. vi. 21]] is rendered, “For where thy treasure is, there will thy heart be also” (R.V.), but Chrysostom varies from this both here and below. The plural form has little authority.—R.\]
+893 [[Matthew 06#^6-21|Matt. vi. 21]]. \[The correct text of [[Matthew 06#^6-21|Matt. vi. 21]] is rendered, “For where thy treasure is, there will thy heart be also” (R.V.), but Chrysostom varies from this both here and below. The plural form has little authority.—R.\]
 
-[[Matthew 06#^6-22|Matt. vi. 22]]. \[R.V., “The lamp of the body,” etc.—R.\]
+894 [[Matthew 06#^6-22|Matt. vi. 22]]. \[R.V., “The lamp of the body,” etc.—R.\]
 
 *[p. 259]* ^pg267
 
@@ -268,7 +270,7 @@ For when the pilot is drowned, and the candle is put out, and the general is tak
 
 Thus then, omitting now to speak of the plots to which wealth gives occasion, the strifes, the suits (these indeed He had signified above, when He said, “The adversary shall deliver thee to the judge, and the judge to the officer”); and setting down what is more grievous than all these, as sure to occur, He so withdraws us from the wicked desire. For to inhabit the prison is not nearly so grievous, as for the mind to be enslaved by this disease; and the former is not sure to happen, but the other is connected as an immediate consequent with the desire of riches. And this is why He puts it after the first, as being a more grievous thing, and sure to happen.
 
-895 [[Matthew 06#^6-22|Matt. vi. 22]], [[Matthew 06#^6-23|23]]. \[In verse 23, “If therefore” is the correct reading, and some mss. of the Homilies have this reading here.—R.\] \[In the Greek text, the parenthesis extends to this place.—R.\]
+895 [[Matthew 06#^6-22|Matt. vi. 22]], [[Matthew 06#^6-23|23]]. \[In verse 23, “If therefore” is the correct reading, and some mss. of the Homilies have this reading here.—R.\] 896 \[In the Greek text, the parenthesis extends to this place.—R.\]
 
 *[p. 260]* ^pg268
 
@@ -284,7 +286,7 @@ And thus, as in dealing with him that for vainglory fasts and gives alms and pra
 
 It is true that hereafter He displayed more clearly the evil effect of this on the mind, I mean, when He made mention of the thorns;<sup>898</sup>but for the present, even here He hath strikingly intimated<sup>899</sup>the same, by representing him as darkened who is beside himself in this way.
 
-897 \[These clauses are not parenthetical, but in the Greek define what precedes.—R.\] 898 [[Matthew 13#^13-22|Matt. xiii. 22]]. \[οχ τυχε.\]
+897 \[These clauses are not parenthetical, but in the Greek define what precedes.—R.\] 898 [[Matthew 13#^13-22|Matt. xiii. 22]]. 899 \[οχ τυχε.\]
 
 *[p. 261]* ^pg269
 
@@ -294,7 +296,7 @@ And as they that are on the stage, skilled in those wicked arts, do in them go t
 
 5\. Let us then give heed unto Him exactly, that though late we may at length recover our sight. And how may one recover sight? If thou learn how thou wast blinded. How then wast thou blinded? By thy wicked desire. For the love of money, like an evil humor<sup>900</sup>which hath collected upon a clear eyeball, hath caused the cloud to become thick.
 
-χυμ.
+900 χυμ.
 
 *[p. 262]* ^pg270
 
@@ -304,9 +306,9 @@ But even this cloud may be easily scattered and broken, if we will receive the b
 
 6\. But if thou tellest me of the time, and the delay of the recompence, I too can point out and tell how much thou receivest back even here: and besides all this, from the very things of this life, I will try to convict thee of making this excuse to no purpose. I mean, that even in the present life thou providest many things which thou art not thyself to enjoy; and should any one find fault, thou pleadest thy children and their children, and so thinkest thou hast found palliation enough for thy superfluous labors. For when in extreme old age thou art building splendid houses, before the completion of which (in many instances) thou wilt have departed; when thou plantest trees, which will bear their fruit after many years;<sup>902</sup>when thou art buying properties and inheritances, the ownership of which thou
 
-ἐπηρεα.
+901 ἐπηρεα.
 
-901 902
+902
 
 \[In the Greek text, bracketted by Field, and in the Latin, occurs this clause: “when” \[or “for when”\] “thou plantest trees in the field, the fruit of which will yield after many (μυρα) years.”—R.\]
 
@@ -324,13 +326,13 @@ For even if the common day of the consummation never overtake us, the end of eac
 
 While then we have opportunity, let us store up for ourselves beforehand much confidence, let us gather oil in abundance, let us remove all into Heaven, that in the fitting time, and when we most need them, we may enjoy all: by the grace and love towards man of our Lord Jesus Christ, to whom be the glory, and the might, now and always, and forever and ever. Amen.
 
-ἀλειν.
+903 ἀλειν.
 
-903 904
+904
 
 [[Luke 16#^16-24|Luke xvi. 24]].
 
-Ezek. xiv. 14.
+905 Ezek. xiv. 14.
 
 *[p. 264]* ^pg272
 
@@ -354,7 +356,7 @@ But He sets it not down directly, rather He establishes it first upon general co
 
 Then, as adding to the force of it, He saith, “so far from serving, he will even hate and abhor:” “For either he will hate the one,” saith He, “and love the other, or else he will hold
 
-144 906 \[“More in number and more terrible.”—R.\] \[ἀκριβ.\] 907
+144 906 \[“More in number and more terrible.”—R.\] 907 \[ἀκριβ.\] 908 [[Acts 04#^4-32|Acts iv. 32]].
 
 *[p. 265]* ^pg273
 
@@ -366,7 +368,7 @@ to the one and despise the other.” And it seems indeed as if the same thing we
 
 Now He calls mammon here “a master,” not because of its own nature, but on account of the wretchedness of them that bow themselves beneath it. So also He calls “the belly a
 
-909 Job xxxi. 25. \[Μ τοινυν περιττ φιλοσφει.\]
+909 Job xxxi. 25. 910 \[Μ τοινυν περιττ φιλοσφει.\]
 
 *[p. 266]* ^pg274
 
@@ -394,7 +396,7 @@ From what we have already, thus saying:
 
 4\. However, some of the ungodly have come to so great a pitch of madness, as even to attack His illustration. Because, say they, it was not meet for one strengthening<sup>920</sup>moral principle, to use natural advantages as incitements to that end. For to those animals, they add, this belongs by nature. What then shall we say to this? That even though it is theirs by
 
-914 [[Matthew 06#^6-25|Matt. vi. 25]]. \[R.V., “Is not the life more than the food,” *i.e.*, the food that sustains it.—R.\] 915 [[Matthew 06#^6-27|Matt. vi. 27]]. 916 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 917 [[Matthew 06#^6-26|Matt. vi. 26]]. δημδη. 918 919 [[Matthew 04#^4-4|Matt. iv. 4]]. ἀλεφοντα.
+914 [[Matthew 06#^6-25|Matt. vi. 25]]. \[R.V., “Is not the life more than the food,” *i.e.*, the food that sustains it.—R.\] 915 [[Matthew 06#^6-27|Matt. vi. 27]]. 916 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 917 [[Matthew 06#^6-26|Matt. vi. 26]]. 918 δημδη. 919 [[Matthew 04#^4-4|Matt. iv. 4]]. 920 ἀλεφοντα.
 
 *[p. 268]* ^pg276
 
@@ -406,7 +408,7 @@ Of this lesson David also lays the foundation from old time, saying enigmaticall
 
 “Who then,” it may be said, “have not taken thought”? Didst thou not hear how many of the righteous I adduced? Seest thou not with them Jacob, departing from his father’s house destitute of all things? Dost thou not hear him praying and saying, “If the Lord give me bread to eat and raiment to put on?”<sup>926</sup>which was not the part of one taking thought, but of one seeking all of God. This the apostles also attained, who cast away all, and took no thought: also, the “five thousand,” and the “three thousand.”<sup>927</sup>
 
-921 Prov. vi. 6–8, LXX. See before, Hom. XVII., 6, note. 922 Jer. viii. 7. καπηλεουσινἐμπορεονται: two words which in the New Testament are always used in a bad sense. 923 924 Ps. cxlv. 16. 925 Ps. cxlvii. 9. 926 Gen. xxviii. 20. [[Acts 04#^4-4|Acts iv. 4]], and [[Acts 02#^2-41|ii. 41]].
+921 Prov. vi. 6–8, LXX. See before, Hom. XVII., 6, note. 922 Jer. viii. 7. 923 καπηλεουσινἐμπορεονται: two words which in the New Testament are always used in a bad sense. 924 Ps. cxlv. 16. 925 Ps. cxlvii. 9. 926 Gen. xxviii. 20. 927 [[Acts 04#^4-4|Acts iv. 4]], and [[Acts 02#^2-41|ii. 41]].
 
 *[p. 269]* ^pg277
 
@@ -424,7 +426,7 @@ But for you, just now, it is enough to learn not to covet, and that almsgiving i
 
 928 [[Matthew 06#^6-27|Matt. vi. 27]]. 929 1 Kings xix. 18; [[Romans 11#^11-4|Rom. xi. 4]]. 930 [[Acts 02#^2-41|Acts ii. 41]], [[Acts 04#^4-5|iv. 5]].
 
-[^931]: See Sulpicius Severus, Dial. i. c. 14. “It is told of a certain holy man that he constantly and entirely abstained from all drink: and that by way of food, he lived upon seven figs only.”
+[^931]: See Sulpicius Severus, Dial. i. c. 14. “It is told of a certain holy man that he constantly and entirely abstained from all drink: and that by way of food, he lived upon seven figs only.” 932 [[Luke 03#^3-14|Luke iii. 14]].
 
 *[p. 270]* ^pg278
 
@@ -434,7 +436,7 @@ For this very reason we too are practising you<sup>933</sup>in the inferior duti
 
 Let us then, considering the measures of that discipline which is set before us, press on at least to the middle station, that we may both be delivered from the punishment which is to come, and proceeding regularly, may arrive at the very summit of all good things; unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and dominion for ever and ever. Amen.
 
-\[ύμ γυμνζομεν, “we are exercising you.”—R.\] 933 So Aristippus: *vid*. Hor. *Serm*. 2, 3, 100.
+933 \[ύμ γυμνζομεν, “we are exercising you.”—R.\] 934 So Aristippus: *vid*. Hor. *Serm*. 2, 3, 100.
 
 *[p. 271]* ^pg279
 
@@ -458,7 +460,7 @@ Hereby He teaches us not only to take no thought, but not even to be dazzled at 
 
 And see how from the beginning He signifies the injunction to be easy; by the contraries again, and by the things of which they were afraid, leading them away from these cares.
 
-148 ἑκατρωθεν δεξαι τν περβολν. 935 \[ετελεα, “cheapness” first, then “meanness.”—R.\] 936
+148 935 ἑκατρωθεν δεξαι τν περβολν. 936 \[ετελεα, “cheapness” first, then “meanness.”—R.\] 937 [[Matthew 06#^6-30|Matt. vi. 30]].
 
 *[p. 272]* ^pg280
 
@@ -472,7 +474,7 @@ Wherefore then did He make them so beautiful? That He might display His own wisd
 
 2\. Now when, as you see, He had demonstrated the greatness of God’s providential care, and they were in what follows to be rebuked also, even in this He was sparing, laying to their charge not want, but poverty, of faith. Thus, “if God,” saith He, “so clothe the grass of the field, much more you, O ye of little faith.”<sup>940</sup>
 
-938 Ps. xix. 1. 939 Ps. cxlviii. 9.
+938 Ps. xix. 1. 939 Ps. cxlviii. 9. 940 [[Matthew 06#^6-30|Matt. vi. 30]].
 
 *[p. 273]* ^pg281
 
@@ -516,7 +518,7 @@ For to this end also He bade us ask even those, not as though God needed remindi
 
 Seest thou how by this again He would persuade them, that they shall surely receive the things present? For He that bestows the greater, much more will He give the less. “For not for this end,” saith He, “did I tell you not to take thought nor to ask, that ye should suffer
 
-947 [[Matthew 06#^6-33|Matt. vi. 33]]. \[The reading of this verse given by Chrysostom is peculiar. The best authorities support the form accepted in the R.V., “his kingdom and his righteousness.” But the reading of the received text is ancient. Some other Fathers agree with Chrysostom. The phrase “kingdom of heaven” is peculiar to Matthew.—R.\] προηγομενα .
+947 [[Matthew 06#^6-33|Matt. vi. 33]]. \[The reading of this verse given by Chrysostom is peculiar. The best authorities support the form accepted in the R.V., “his kingdom and his righteousness.” But the reading of the received text is ancient. Some other Fathers agree with Chrysostom. The phrase “kingdom of heaven” is peculiar to Matthew.—R.\] 948 προηγομενα .
 
 *[p. 276]* ^pg284
 
@@ -528,7 +530,7 @@ By “evil” here He means, not wickedness, far from it, but affliction, and tr
 
 This then is His meaning here also, when He saith, “sufficient unto the day is the evil thereof.” For nothing so pains the soul, as carefulness and anxiety. Thus did Paul also, when urging to celibacy, give counsel, saying, “I would have you without carefulness.”[^956]
 
-151 949 [[Matthew 06#^6-4|Matt. vi. 4]]. σχματο. 950 951 [[Matthew 05#^5-34|Matt. v. 34]]. συντριβπλεονεξα; but one mss. reads δυναστεα, referring to oppressive oligarchies, Latin, *principatus*.—R.\] 952 953 Isa. xlv. 7. \[κακαν, the word rendered “evil” throughout this passage.—R.\] 954 955 1 Sam. vi. 9.
+151 949 [[Matthew 06#^6-4|Matt. vi. 4]]. 950 σχματο. 951 [[Matthew 05#^5-34|Matt. v. 34]]. 952 συντριβπλεονεξα; but one mss. reads δυναστεα, referring to oppressive oligarchies, Latin, *principatus*.—R.\] 953 Isa. xlv. 7. 954 \[κακαν, the word rendered “evil” throughout this passage.—R.\] 955 1 Sam. vi. 9.
 
 [^956]: [[1 Corinthians 07#^7-32|1 Cor. vii. 32]]. \[R.V., “to be free from care;” ἀμερμνου, a compound of the same origin as the word rendered “take no thought” in the A.V.—R.\]
 
@@ -542,7 +544,7 @@ But mark His tender care also, how He surpasses the affection of any father. Thu
 
 6\. Nevertheless, after so many and so grave words, we take thought for these things, but for the things in Heaven no longer: rather we have reversed His order, on either side fighting against His sayings. For mark; “Seek ye not the things present,” saith He, “at all;” but we are seeking these things for ever: “seek the things in Heaven,” saith He; but those things we seek not so much as for a short hour, but according to the greatness of the anxiety we display about the things of the world, is the carelessness we entertain in things spiritual; or rather even much greater. But this doth not prosper for ever; neither can this be for ever. What if
 
-957 [[Matthew 10#^10-9|Matt. x. 9]], [[Matthew 10#^10-10|10]].
+957 [[Matthew 10#^10-9|Matt. x. 9]], [[Matthew 10#^10-10|10]]. 958 [[Matthew 08#^8-20|Matt. viii. 20]].
 
 *[p. 278]* ^pg286
 
@@ -554,7 +556,7 @@ For there is not, yea, there is not any sin, that doth not yield and give way to
 
 7\. And yet God would have us demand things of Him, and for this accounts Himself greatly bound to thee.<sup>960</sup> For He alone of all debtors, when the demand is made, counts it a favor, and gives what we have not lent Him. And if He should see him pressing earnestly that makes the demand, He pays down even what He hath not received of us; but if sluggishly, He too keeps on making delays; not through unwillingness to give, but because He is pleased
 
-152 959 2 Chron. xxxiii. 1–20; 2 Kings xxi. 1–18. \[κα χριν χει σοι τοτου πολλν.\]
+152 959 2 Chron. xxxiii. 1–20; 2 Kings xxi. 1–18. 960 \[κα χριν χει σοι τοτου πολλν.\]
 
 *[p. 279]* ^pg287
 
@@ -564,7 +566,7 @@ So that though thou be no friend, though thou be not demanding thy due, though t
 
 But, “behold, I pray,” saith one, “and there is no result.” Why, thou prayest not like those; such I mean as the Syrophœnician woman, the friend that came late at night, and the widow that is continually troubling the judge, and the son that consumed his father’s goods. For didst thou so pray, thou wouldest quickly obtain. For though despite have been done unto Him, yet is He a Father; and though He have been provoked to anger, yet is He fond of His children; and one thing only doth He seek, not to take vengeance for our affronts,
 
-961 [[Luke 11#^11-5|Luke xi. 5–8]]. 962 [[Luke 18#^18-1|Luke xviii. 1–8]]. 963 [[Matthew 15#^15-21|Matt. xv. 21–28]]; [[Mark 07#^7-24|Mark vii. 24–30]]. δοναι. See Hom. LII.
+961 [[Luke 11#^11-5|Luke xi. 5–8]]. 962 [[Luke 18#^18-1|Luke xviii. 1–8]]. 963 [[Matthew 15#^15-21|Matt. xv. 21–28]]; [[Mark 07#^7-24|Mark vii. 24–30]]. 964 δοναι. See Hom. LII.
 
 *[p. 280]* ^pg288
 
@@ -572,7 +574,7 @@ but to see thee repenting and entreating Him. Would that we were warmed in like 
 
 the crumbs which fall from their masters’ table.”<sup>967</sup> Let us draw nigh “in season, out of season:” or rather, one can never draw nigh out of season, for it is unseasonable not to be continually approaching. For of Him who desires to give it is always seasonable to ask: yea, as breathing is never out of season, so neither is praying unseasonable, but rather not praying. Since as we need this breath, so do we also the help that comes from Him; and if we be willing, we shall easily draw Him to us. And the prophet, to manifest this, and to point out the constant readiness of His beneficence, said, “We shall find Him prepared as the morning.”<sup>968</sup> For as often as we may draw nigh, we shall see Him awaiting our movements. And if we fail to draw from out of His ever-springing goodness, the blame is all ours. This, for example, was His complaint against certain Jews, when He said, “My mercy is as a morning cloud, and as the early dew it goeth away.”<sup>969</sup> And His meaning is like this; “I indeed have supplied all my part, but ye, as a hot sun coming over scatters both the cloud and the dew, and makes them vanish, so have ye by your great wickedness restrained the unspeakable Beneficence.”
 
-965 \[The Greek word is that rendered “insult” in this and the preceding sentence.—R.\] 966 Isa. xlix. 15. 967 [[Matthew 15#^15-27|Matt. xv. 27]]. 968 Hosea vi. 3, LXX. “His going forth is prepared as the morning,” agreeing with the present Hebrew copies. The sentiment of both readings (as we so often find, apparently by a special Providence) is the same. \[R.V., “His going forth is sure as the morning.” This, too, conveys the same general sentiment, but is a more accurate rendering of the Hebrew.—R.\] Hosea vi. 4. A.V., “Your goodness is as the morning cloud;” and so also LXX. τ λεο μν. And with this the 969 Hebrew copies agree, as did St. Jerome’s (*in loc.* t. vi. 63, Venet. 1768). But St. Cyril (*in loc.* t. iii. 96), reads τ λεο μο And St. Jerome’s Commentary shows that according to his interpretation the two readings came to the same meaning. “Your mercy, that wherewith I have always had mercy upon you, hath passed by…for now is the captivity near.” \[R.V., “For your goodness (or, kindness) is as a morning cloud.” In the Homily δ occurs, but is not translated.—R.\]
+965 \[The Greek word is that rendered “insult” in this and the preceding sentence.—R.\] 966 Isa. xlix. 15. 967 [[Matthew 15#^15-27|Matt. xv. 27]]. 968 Hosea vi. 3, LXX. “His going forth is prepared as the morning,” agreeing with the present Hebrew copies. The sentiment of both readings (as we so often find, apparently by a special Providence) is the same. \[R.V., “His going forth is sure as the morning.” This, too, conveys the same general sentiment, but is a more accurate rendering of the Hebrew.—R.\] 969 Hosea vi. 4. A.V., “Your goodness is as the morning cloud;” and so also LXX. τ λεο μν. And with this the Hebrew copies agree, as did St. Jerome’s (*in loc.* t. vi. 63, Venet. 1768). But St. Cyril (*in loc.* t. iii. 96), reads τ λεο μο And St. Jerome’s Commentary shows that according to his interpretation the two readings came to the same meaning. “Your mercy, that wherewith I have always had mercy upon you, hath passed by…for now is the captivity near.” \[R.V., “For your goodness (or, kindness) is as a morning cloud.” In the Homily δ occurs, but is not translated.—R.\]
 
 *[p. 281]* ^pg289
 
@@ -580,7 +582,7 @@ Which also itself again is an instance of providential care: that even when He s
 
 Let us not therefore despair, but having so many motives and good hopes, though we sin every day, let us approach Him, entreating, beseeching, asking the forgiveness of our sins. For thus we shall be more backward to sin for the time to come; thus shall we drive away the devil, and shall call forth the lovingkindness of God, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
 
-[[Romans 10#^10-12|Rom. x. 12]]. κα π πντα is omitted in our present copies. Mr. Field refers to [[Romans 03#^3-22|Rom. iii. 22]]; “unto all *and upon* 970 *all* them that believe.” \[There is no authority for κα π παντα in [[Romans 10#^10-12|Rom. x. 12]], and in iii. 22the weight of authority is against the phrase (see R.V. *in loco*); but Chrysostom undoubtedly accepted the longer reading in the latter passage, and seems to have combined the two in the present instance.—R.\] [[2 Corinthians 08#^8-9|2 Cor. viii. 9]]. \[The citation is not accurate, probably the variation is intentional.—R.\]
+[[Romans 10#^10-12|Rom. x. 12]]. κα π πντα is omitted in our present copies. Mr. Field refers to [[Romans 03#^3-22|Rom. iii. 22]]; “unto all *and upon* 970 *all* them that believe.” \[There is no authority for κα π παντα in [[Romans 10#^10-12|Rom. x. 12]], and in iii. 22the weight of authority is against the phrase (see R.V. *in loco*); but Chrysostom undoubtedly accepted the longer reading in the latter passage, and seems to have combined the two in the present instance.—R.\] 971 [[2 Corinthians 08#^8-9|2 Cor. viii. 9]]. \[The citation is not accurate, probably the variation is intentional.—R.\]
 
 *[p. 282]* ^pg290
 
@@ -602,7 +604,7 @@ What then can the saying be? Let us carefully attend, lest the medicines of salv
 
 But if to many of the less attentive, it seem yet rather obscure, I will endeavor to explain it from the beginning. In this place, then, as it seems at least to me, He doth not simply
 
-972 [[Romans 14#^14-10|Rom. xiv. 10]]. 973 [[Romans 14#^14-4|Rom. xiv. 4]]. 974 [[1 Corinthians 04#^4-5|1 Cor. iv. 5]]. 975 [[2 Timothy 04#^4-2|2 Tim. iv. 2]]. 976 [[1 Timothy 05#^5-20|1 Tim. v. 20]]. \[R.V., “reprove.” The Greek verb is the same in [[Matthew 18#^18-15|Matt. xviii. 15]] also.—R.\] 977 [[Matthew 18#^18-15|Matt. xviii. 15]], [[Matthew 18#^18-16|16]], [[Matthew 18#^18-17|17]]. 978 [[Matthew 18#^18-17|Matt. xviii. 17]]. \[πλεσι.\] 979
+972 [[Romans 14#^14-10|Rom. xiv. 10]]. 973 [[Romans 14#^14-4|Rom. xiv. 4]]. 974 [[1 Corinthians 04#^4-5|1 Cor. iv. 5]]. 975 [[2 Timothy 04#^4-2|2 Tim. iv. 2]]. 976 [[1 Timothy 05#^5-20|1 Tim. v. 20]]. \[R.V., “reprove.” The Greek verb is the same in [[Matthew 18#^18-15|Matt. xviii. 15]] also.—R.\] 977 [[Matthew 18#^18-15|Matt. xviii. 15]], [[Matthew 18#^18-16|16]], [[Matthew 18#^18-17|17]]. 978 [[Matthew 18#^18-17|Matt. xviii. 17]]. 979 \[πλεσι.\] 980 [[Matthew 07#^7-3|Matt. vii. 3]].
 
 *[p. 283]* ^pg291
 
@@ -616,4 +618,4 @@ This then is the sort of thing which Christ also in this place intimated; not in
 
 2\. “For with what judgment ye judge,” saith He, “ye shall be judged.”<sup>987</sup> That is, “it is not the other,” saith Christ, “that thou condemnest, but thyself, and thou art making the judgment-seat dreadful to thyself, and the account strict.” As then in the forgiveness of our sins the beginnings are from us, so also in this judgment, it is by ourselves that the measures of our condemnation are laid down. You see, we ought not to upbraid nor trample upon them, but to admonish; not to revile, but to advise; not to assail with
 
-155 τ μεγαλ. The article implies the distinction. 981 982 [[Matthew 23#^23-4|Matt. xxiii. 4]]. 983 [[Matthew 23#^23-23|Matt. xxiii. 23]]. 984 [[Matthew 23#^23-24|Matt. xxiii. 24]]. \[R.V., more correctly, “strain out;” the word “at” is probably a typographical blunder of the A.V.—R.\] 985 [[1 Corinthians 04#^4-5|1 Cor. iv. 5]]. ἐπστησε. 986
+155 981 τ μεγαλ. The article implies the distinction. 982 [[Matthew 23#^23-4|Matt. xxiii. 4]]. 983 [[Matthew 23#^23-23|Matt. xxiii. 23]]. 984 [[Matthew 23#^23-24|Matt. xxiii. 24]]. \[R.V., more correctly, “strain out;” the word “at” is probably a typographical blunder of the A.V.—R.\] 985 [[1 Corinthians 04#^4-5|1 Cor. iv. 5]]. 986 ἐπστησε. 987 [[Matthew 07#^7-2|Matt. vii. 2]].

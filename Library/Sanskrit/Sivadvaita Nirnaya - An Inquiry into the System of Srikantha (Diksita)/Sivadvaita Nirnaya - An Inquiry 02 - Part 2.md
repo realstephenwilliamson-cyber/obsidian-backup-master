@@ -4,7 +4,7 @@ work: "[[Appayya Diksita - Sivadvaita Nirnaya]]"
 book: "[[Library/Sanskrit/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)|Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)]]"
 order: 2
 source_pdf: Library/Sanskrit/Sivadvaita.Nirnaya.by.Appayya.Diksita.pdf
-page_range: "33–62; 2–6"
+page_range: "33–62; 1–8"
 pdf_pages: 41–80
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -1050,7 +1050,7 @@ dualism. Śrīkattha alone has provided a commen-
 
 tary suitable to all three grades of capacity. 
 
-*[PDF 73]* ^pg73
+*[p. 1]* ^pg73
 
 ॥ श्रीरस्तु ।
 
@@ -1107,7 +1107,7 @@ H \[illegible\] i
 
 इति तत्र (क)
 
-*[PDF 75]* ^pg75
+*[p. 3]* ^pg75
 
 रिकाद्रैतनिणेयः ।
 ड भ्रययेन च तस्य वस्तुद्धयम्रतिपादनपरत्वात् । तथा अभियुक्तसूक्तिः--
@@ -1122,7 +1122,7 @@ H \[illegible\] i
 
 अत एव भूमाधिकरणे सह भूमशचब्देन ब्रह्मशब्दस्यार्थे स्प्रपश्च- 2'221 स्यान्तभाबो दक्षतः । तत्न दि ¢ यत्र नान्यत्पश्यति नान्यच्छुणोति नान्य- द्विजानाति स भूमा” इति भूमरक्षणवाक्येन कथं भूर्न्युमूयमानेऽन्यस्य दशषेनायमाव उच्यत, भननसय सतो द्रीनादीनां परिटदुमराक्यादि- मामाञ्ककाम् ८ प्रपन्ने सत्येव कथं मुक्तात्मनामपुरुषाथस्य तस्य दर्शनं परि- दियते ” इनि वाक्येनोद्धाव्य प्रपच्चस्य सद्यत्वेऽपि तस्य भूमश्षब्दाथौम्तभूत- तथैव ददीनगोचरता भवति न तदन्यतयेति समर्थनेन च तत्परिहदारो दर्चितः- «५न हि युक्तानां प्राकृतप्रपश्चो दशेनविषयः # तु निरतिश्चयानन्द्स्वरूषं ब्रह्मैव प्रपञ्चाकारेण द्रौनगोचरो भवति ” इति। तदनन्तरं भूमश्षब्दलमाना - ब्रमशब्दार्थान्तभौवेनैव प्रपञ्चस्य मुक्त प्रति दशन विषयता भवतीति मरति-
 
-*[PDF 76]* ^pg76
+*[p. 4]* ^pg76
 
 शिवधितनिणीयः ।
 
@@ -1184,7 +1184,7 @@ g हि श्रुतिः ‹ एतत्ततो भवतिं \[ह�
 
 ऽपि दोषाः न प्रसथ्यन्ते । स्त्र दि श्रुतिषु स्मृतिषु च “एष आत्मा पश्चिसरीसृपादिश्छरीरसवन्धमापाद्च (ग) ¢ समीहितम्
 
-*[PDF 79]* ^pg79
+*[p. 7]* ^pg79
 
 ry शिषादितनिर्णयः ।
 अपहतपाप्मा विजयो विमरस्युः विदोको विजिघत्सो विपिपासः सलयकामः सत्यसङ्कल्पः)”
@@ -1200,7 +1200,7 @@ ry शिषादितनिर्णयः ।
 
 तथाप्यरूपत्वादिवाक्यैरापतन्नर्िशेषत्वं कथं वारणीयमिति चेत् १.59 इत्थम् ; श्रत्योदिंरोषे सति नैकस्याः शरुेरतःत्त्विकविषयत्वकल्षनेनाथौपापो
 
-*[PDF 80]* ^pg80
+*[p. 8]* ^pg80
 
 शिकः,
 

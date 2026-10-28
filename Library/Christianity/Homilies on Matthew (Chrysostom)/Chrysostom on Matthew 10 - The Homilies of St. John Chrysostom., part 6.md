@@ -20,9 +20,9 @@ who make use of the Syrians’ language say, “Raca,” putting that word inste
 
 For wherefore, tell me, doth the commandment seem overburdensome? Knowest thou not that most punishments and most sins have their beginning from words? Yea, for by 108 words are blasphemies, and denials are by words, and revilings, and reproaches, and perjuries, and bearing false witness.<sup>720</sup> Regard not then its being a mere word, but whether it have not much danger, this do thou inquire. Art thou ignorant that in the season of enmity, when wrath is inflamed, and the soul kindled, even the least thing appears great, and what is not very reproachful is counted intolerable? And often these little things have given birth even to murder, and overthrown whole cities. For just as where friendship is, even grievous things are light, so where enmity lies beneath, very trifles appear intolerable. And however simply a word be spoken, it is surmised to have been spoken with an evil meaning. And as in fire: if there be but a small spark, though thousands of planks lie by, it doth not easily lay hold of them; but if the flame have waxed strong and high, it readily seizes not planks only, but stones, and all materials that fall in its way; and by what things it is usually quenched, by the same it is kindled the more (for some say that at such a time not only wood and tow, and the other combustibles, but even water darted forth upon it doth but fan its power the more); so is it also with anger; whatever any one may say, becomes food in a moment for this evil conflagration. All which kind of evils Christ checking beforehand, had condemned first him that is angry without a cause to the judgment, (this being the very reason why He said, “He that is angry shall be in danger of the judgment”); then him that saith “Raca,” to the council. But as yet these are no great things; for the punishments are here. Therefore for him who calleth “fool” He hath added the fire of hell, now for the first time mentioning the name of hell. For having before discoursed much of the kingdom, not until then did He mention this; implying, that the former comes of His own love and indulgence towards man, this latter of our negligence.
 
-\[ε τν γενναν το πυρο. Comp. R.V. *in loco*.—R.\] 719
+719 \[ε τν γενναν το πυρο. Comp. R.V. *in loco*.—R.\]
 
-\[One ms. adds here κα ναιρεν (“and murdering”). The words are bracketed in Field’s Greek text; while the Latin version has *ipsa homicidia*.—R.\]
+720 \[One ms. adds here κα ναιρεν (“and murdering”). The words are bracketed in Field’s Greek text; while the Latin version has *ipsa homicidia*.—R.\]
 
 *[p. 205]* ^pg213
 
@@ -34,7 +34,7 @@ For indeed He makes much account of love: this being above all things the mother
 
 Think not therefore that these sayings are in any wise hyperbolical, but consider the good done by them, and admire the mildness of these laws. For there is nothing for which God takes so much pains, as this; that we should be united and knit together one with another
 
-ἀποπηδσ. 721 ὁ μλιστα δναται δκνειν. 722 1 Cor. vi. 9, 10.
+721 ἀποπηδσ. 722 ὁ μλιστα δναται δκνειν. 723 1 Cor. vi. 9, 10.
 
 *[p. 206]* ^pg214
 
@@ -50,7 +50,7 @@ O goodness! O exceeding love to man! He makes no account of the honor due unto H
 
 With what motive then doth He command so to do, and wherefore? These two ends, as it appears to me, He is hereby shadowing out and providing for. First, as I have said, His
 
-724 [[Matthew 24#^24-12|Matt. xxiv. 12]]. \[“Shall be multiplied” is a more exact rendering of the verb in the first clause. Comp. R.V.—R.\] ἄπελθε, St. Chrys. ὕπαγεἄπελθε and ἀπελθν.—R.\] 725 726 [[Matthew 05#^5-23|Matt. v. 23]], [[Matthew 05#^5-24|24]]. συνελντα τ προκεμενα. Mr. Field translates this, “quickly doing the work in hand:” alleging that the word 727 συναιρεν cannot well stand for “removing.” But its strict meaning seems to be “to pack up,” or “put into a small compass.” So Odyss. xx. 95. χλαναν μν συνελν κα κεα, ποσιν νευδεν. And this meaning suits well enough with the word προκεμενα, taken in its liturgical sense. \[The technical sense of the verb is “to contract,” and the context favors Field’s view. The command was neither “after hastening through the service (Latin, *nec propere confecto sacrificio*) nor before beginning it.”—R.\]
+724 [[Matthew 24#^24-12|Matt. xxiv. 12]]. \[“Shall be multiplied” is a more exact rendering of the verb in the first clause. Comp. R.V.—R.\] 725 ἄπελθε, St. Chrys. ὕπαγεἄπελθε and ἀπελθν.—R.\] 726 [[Matthew 05#^5-23|Matt. v. 23]], [[Matthew 05#^5-24|24]]. 727 συνελντα τ προκεμενα. Mr. Field translates this, “quickly doing the work in hand:” alleging that the word συναιρεν cannot well stand for “removing.” But its strict meaning seems to be “to pack up,” or “put into a small compass.” So Odyss. xx. 95. χλαναν μν συνελν κα κεα, ποσιν νευδεν. And this meaning suits well enough with the word προκεμενα, taken in its liturgical sense. \[The technical sense of the verb is “to contract,” and the context favors Field’s view. The command was neither “after hastening through the service (Latin, *nec propere confecto sacrificio*) nor before beginning it.”—R.\]
 
 *[p. 207]* ^pg215
 
@@ -66,7 +66,7 @@ Or rather, even here too He seems to me to be sending the injured person: and fo
 
 And He said not, “When thou hast suffered any of the greater wrongs, then be reconciled; but, “Though it be some trifle that he hath against thee.” And He added not, “Whether justly
 
-110 \[τν γπην, properly rendered “love” in the next sentence.—R.\] 728 ἀτλεστον. 729 730 Ps. l. 23. 731 Ps. l. 14.
+110 728 \[τν γπην, properly rendered “love” in the next sentence.—R.\] 729 ἀτλεστον. 730 Ps. l. 23. 731 Ps. l. 14. 732 Ps. cxli. 2.
 
 *[p. 208]* ^pg216
 
@@ -82,7 +82,7 @@ And first of all He saith, “Be not angry;” and after that, “revile not.”
 
 “Agree with thine adversary quickly, whilst thou art in the way with him.”<sup>735</sup> That is, that thou mayest not say, “What then, if I am injured;” “what if I am plundered, and dragged too before the tribunal?” even this occasion and excuse He hath taken away: for He commands us not even so to be at enmity. Then, since this injunction was great, He draws His advice from the things present, which are wont to restrain the grosser sort more than the future. “Why, what sayest thou?” saith He. “That thine adversary is stronger, and doeth thee wrong? Of course then he will wrong thee more, if thou do not make it up, but
 
-733 [[2 Corinthians 05#^5-19|2 Cor. v. 19]]. 734 [[Ephesians 04#^4-26|Eph. iv. 26]].
+733 [[2 Corinthians 05#^5-19|2 Cor. v. 19]]. 734 [[Ephesians 04#^4-26|Eph. iv. 26]]. 735 [[Matthew 05#^5-25|Matt. v. 25]].
 
 *[p. 209]* ^pg217
 
@@ -96,6 +96,8 @@ Now some say that He obscurely signifies the devil himself, under the name of th
 
 For after he had abashed men by higher things, and things future, he alarms them also by such as are in this life. Which thing Paul also doth, using both the future and the present to sway his hearer: as when, deterring from wickedness, he points out to him that is inclined to evil, the ruler armed: thus saying, “But if thou do that which is evil, be afraid; for he beareth not the sword in vain; for he is a minister of God.”<sup>736</sup> And again, enjoining us to be subject unto him, he sets forth not the fear of God only, but the threatening also of the other party, and his watchful care. “For ye must needs be subject, not only for wrath, but
 
+736 [[Romans 13#^13-4|Rom. xiii. 4]].
+
 *[p. 210]* ^pg218
 
 also for conscience sake.”<sup>737</sup> Because the more irrational, as I have already said, are wont to be sooner corrected by these things, things which appear and are at hand. Wherefore Christ also made mention, not of hell only, but also of a court of justice, and of being dragged thither, and of the prison, and of all the suffering there; by all these means destroying the roots of murder. For he who neither reviles, nor goes to law, nor prolongs enmity, how will he ever commit murder? So that from hence also it is evident, that in the advantage of our neighbor stands our own advantage. For he that agrees with his adversary, will benefit himself much more; becoming free, by his own act, from courts of law, and prisons, and the wretchedness that is there.
@@ -105,6 +107,8 @@ also for conscience sake.”<sup>737</sup> Because the more irrational, as I hav
 When therefore the custom of evil things, and the desire of wealth, keep on bewitching thee; do thou war against them with that mode of thinking which tells us, “Great is the reward we shall receive, for despising the pleasure which is but for a season;” and say to thy soul; “Art thou quite dejected because I defraud thee of pleasure? Nay, be of good cheer, for I am introducing thee into Heaven. Thou doest it not for man’s sake, but for God’s. Be patient therefore a little while, and thou shalt see how great is the gain. Endure for the present life, and thou shalt receive an unspeakable confidence.” For if we would thus discourse with our own soul, and not only consider that which is burdensome in virtue, but take account also of the crown that comes thereof, we shall quickly withdraw it from all wickedness.
 
 For if the devil, holding out pleasure for a season, but pain for ever, is yet strong, and prevails; seeing our case is just the reverse in these matters, the labor temporary, the pleasure and profit immortal, what plea shall we have, if we follow not virtue after so great encouragement? Why, the object of our labors is enough to set against all, and our clear persuasion that for God’s sake we are enduring all this. For if one having the king his debtor, thinks he hath sufficient security for all his life; consider how great will he be, who hath made the Gracious and Everlasting God a debtor to himself, for good deeds both small and great. Do
+
+737 [[Romans 05#^5-5|Rom. v. 5]].
 
 *[p. 211]* ^pg219
 
@@ -116,7 +120,7 @@ In order then that we also may extinguish all the furnace of disordered pleasure
 
 In order then that we too may establish ourselves in this habit, let us order ourselves each day by what hath been said, and “forgetting those things which are behind, and reaching forth unto those things which are before, let us press on towards the prize of the high calling:”<sup>741</sup>unto which God grant that we may all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and power for ever and ever. Amen.
 
-738 \[This clause is not found in the Greek text of Field, nor noticed in the critical notes. The Latin version has *jacula viorare*, and was probably inadvertently followed by the translator.—R.\] 739 [[Romans 06#^6-21|Rom. vi. 21]]. 740 [[2 Corinthians 04#^4-17|2 Cor. iv. 17]], [[2 Corinthians 12#^12-10|xii. 10]]; [[Romans 05#^5-3|Rom. v. 3]]; [[Galatians 06#^6-17|Gal. vi. 17]]; [[Colossians 01#^1-24|Col. i. 24]]. [[Philippians 03#^3-13|Phil. iii. 13]], [[Philippians 03#^3-14|14]].
+738 \[This clause is not found in the Greek text of Field, nor noticed in the critical notes. The Latin version has *jacula viorare*, and was probably inadvertently followed by the translator.—R.\] 739 [[Romans 06#^6-21|Rom. vi. 21]]. 740 [[2 Corinthians 04#^4-17|2 Cor. iv. 17]], [[2 Corinthians 12#^12-10|xii. 10]]; [[Romans 05#^5-3|Rom. v. 3]]; [[Galatians 06#^6-17|Gal. vi. 17]]; [[Colossians 01#^1-24|Col. i. 24]]. 741 [[Philippians 03#^3-13|Phil. iii. 13]], [[Philippians 03#^3-14|14]].
 
 *[p. 212]* ^pg220
 
@@ -140,11 +144,11 @@ But by keeping back at the proper season His teaching on these subjects, He was 
 
 For the present, however, by the manifestation of His miracles, and by the very manner of His teaching, He unfolds it on occasion, gradually and quietly. For His enacting such laws, and such corrections of laws, with authority, would lead on the attentive and understanding hearer, by little and little, unto the word of His doctrine. For it is said, “they were astonished at Him, because He taught not as their Scribes.”<sup>746</sup>
 
-\[The phrase “to them of old time” (το ρχαοι) is not found in the oldest mss. of the New Testament, in 742 [[Matthew 05#^5-27|Matt. v. 27]]. It would be readily inserted from similar passages.—R.\] 743
+\[The phrase “to them of old time” (το ρχαοι) is not found in the oldest mss. of the New Testament, in 742 [[Matthew 05#^5-27|Matt. v. 27]]. It would be readily inserted from similar passages.—R.\]
 
-Deut. vi. 4. \[Comp. [[Mark 12#^12-29|Mark xii. 29]], and the renderings of the R.V. text and margin in both passages.—R.\] \[ἑαυτν συνειαγαγεν .\] 744 745
+743 Deut. vi. 4. \[Comp. [[Mark 12#^12-29|Mark xii. 29]], and the renderings of the R.V. text and margin in both passages.—R.\] 744 \[ἑαυτν συνειαγαγεν .\]
 
-[[John 08#^8-48|John viii. 48]].
+745 [[John 08#^8-48|John viii. 48]]. 746 [[Matthew 07#^7-28|Matt. vii. 28]], [[Matthew 07#^7-29|29]].
 
 *[p. 213]* ^pg221
 
@@ -158,7 +162,7 @@ Thus we see why He said not, “whosoever shall lust to commit adultery,” but,
 
 Why then did He not make a distinction here also? Nay, very great is the distinction which, if thou attend, thou wilt see here also included. For He said not simply, “whosoever shall desire,” since it is possible for one to desire even when sitting in the mountains; but, “Whosoever shall look to lust;” that is to say, he who gathers in lust unto himself; he who, when nothing compels him, brings in the wild beast upon his thoughts when they are calm. For this comes no longer of nature, but of self-indulgence. This even the ancient Scripture corrects from the first, saying, “Contemplate not beauty which is another’s.”<sup>747</sup> And then, lest any one should say, “what then, if I contemplate, and be not taken captive,” He punishes the look, lest confiding in this security thou shouldest some time fall into sin. “What then,” one may say, “if I should look, and desire indeed, but do no evil?” Even so thou art set among the adulterers. For the Lawgiver hath pronounced it, and thou must not ask any more
 
-Ecclus. ix. 8.
+747 Ecclus. ix. 8.
 
 *[p. 214]* ^pg222
 
@@ -180,7 +184,7 @@ For not at all to this end did God make thee eyes, that thou shouldest thereby i
 
 Job xxxi. 1.
 
-\[οκτι σχοντε, “no longer having strength.”—R.\]
+750 \[οκτι σχοντε, “no longer having strength.”—R.\]
 
 *[p. 215]* ^pg223
 
@@ -192,7 +196,7 @@ But if thou desirest to hear also His rebuke for them in particular, listen to I
 
 3\. Wherefore also He subjoins,
 
-751 Isa. iii. 16. 752 [[1 Timothy 02#^2-9|1 Tim. ii. 9]]; [[Titus 02#^2-3|Titus ii. 3]], [[Titus 02#^2-4|4]], [[Titus 02#^2-5|5]]. 753 \[The words in italics are a translation of the Latin version; nothing corresponding to these terms occurs in the Greek text of the Homily.—R.\] 754 Or, *wantonness*. See [[1 Timothy 05#^5-6|1 Tim. v. 6]]. \[The text has simply τν σκανδαλζοντα. The precept is thus made more general.—R.\]
+751 Isa. iii. 16. 752 [[1 Timothy 02#^2-9|1 Tim. ii. 9]]; [[Titus 02#^2-3|Titus ii. 3]], [[Titus 02#^2-4|4]], [[Titus 02#^2-5|5]]. 753 \[The words in italics are a translation of the Latin version; nothing corresponding to these terms occurs in the Greek text of the Homily.—R.\] 754 Or, *wantonness*. See [[1 Timothy 05#^5-6|1 Tim. v. 6]]. 755 \[The text has simply τν σκανδαλζοντα. The precept is thus made more general.—R.\]
 
 *[p. 216]* ^pg224
 
@@ -230,7 +234,7 @@ For if He had not enjoined this, but it were lawful first to cast her out, and t
 
 But these things were done by reason of another, a far greater wickedness; I mean, had He made it necessary to keep in the house her even that was hated, the husband, hating,
 
-116 κινσα. 759 ββλιον ποστασου, St. Chrys. Comp. [[Mark 10#^10-4|Mark x. 4]]: ἀποστσιον, rec. Text. \[There is no variation in the text of 760 Matthew here, but in verse 32 the best authorities read π πολωνὃς ν πολσ, as in text. rec.—R.\] 761 [[Matthew 06#^6-31|Matt. vi. 31]], [[Matthew 06#^6-32|32]]. Deut. xxiv. 1–4.
+116 759 κινσα. ββλιον ποστασου, St. Chrys. Comp. [[Mark 10#^10-4|Mark x. 4]]: ἀποστσιον, rec. Text. \[There is no variation in the text of 760 Matthew here, but in verse 32 the best authorities read π πολωνὃς ν πολσ, as in text. rec.—R.\] 761 [[Matthew 06#^6-31|Matt. vi. 31]], [[Matthew 06#^6-32|32]]. 762 Deut. xxiv. 1–4.
 
 *[p. 218]* ^pg226
 
@@ -240,7 +244,7 @@ And observe Him everywhere addressing His discourse to the man. Thus, “He that
 
 And if He discourse not at all unto her concerning these things, marvel not; for the woman is rather a weak creature.<sup>767</sup> For this cause letting her go, in his threatening against the men He fully corrects her remissness. Just as if any one who had a prodigal child, leaving him, should rebuke those who make him such, and forbid them to have intercourse, or to approach him. And if that be galling, call to mind, I pray thee, His former sayings, on what terms He had blessed His hearers; and thou wilt see that it is very possible and easy. For he
 
-763 Ps. lxxix. 3. προηγομενο. 764 765 [[Matthew 19#^19-8|Matt. xix. 8]]. \[R.V. “for your hardness of heart.”—R.\] μικροψυχα . 766 \[ἀσθενστερον γρ γυν. The translator paraphrases this as above, giving an unnecessary tone of depreciation to the language.—R.\]
+763 Ps. lxxix. 3. 764 προηγομενο. 765 [[Matthew 19#^19-8|Matt. xix. 8]]. \[R.V. “for your hardness of heart.”—R.\] 766 μικροψυχα . 767 \[ἀσθενστερον γρ γυν. The translator paraphrases this as above, giving an unnecessary tone of depreciation to the language.—R.\]
 
 *[p. 219]* ^pg227
 
@@ -258,7 +262,7 @@ But what means, “Thou shalt perform unto the Lord thine oaths?”<sup>769</sup
 
 Next, to lead them farther away from swearing by God, He saith, “Neither by Heaven, for it is God’s throne, nor by the earth, for it is the footstool of His feet; nor by Jerusalem, for it is the city of the great King:”<sup>770</sup>still speaking out of the prophetical writings, and signifying Himself not to be opposed to the ancients. This was because they had a custom of swearing by these objects, and he intimates this custom near the end of his Gospel.<sup>771</sup> But mark, I pray thee, on what ground He magnifies the elements; not from their own nature, but from God’s relation to them, such as it had been in condescension declared. For because the tyranny of idolatry was great, that the elements might not be thought worthy of honor for their own sake, He hath assigned this cause, which we have mentioned, which again would pass on to the glory of God. For He neither said, “because Heaven is beautiful
 
-117 768 [[Matthew 05#^5-33|Matt. v. 33]], [[Matthew 05#^5-34|34]]. 769 See Num. xxx. 2; Deut. xxiii. 23. 770 Isa. lxxvi. 1; Ps. xlviii. 2. [[Matthew 23#^23-16|Matt. xxiii. 16]], *et seq*.
+117 768 [[Matthew 05#^5-33|Matt. v. 33]], [[Matthew 05#^5-34|34]]. 769 See Num. xxx. 2; Deut. xxiii. 23. 770 Isa. lxxvi. 1; Ps. xlviii. 2. 771 [[Matthew 23#^23-16|Matt. xxiii. 16]], *et seq*.
 
 *[p. 220]* ^pg228
 
@@ -290,7 +294,7 @@ Therefore as the breast, when it hath fulfilled all its part, and is dismissing 
 
 But if the old law had belonged to the devil, it would not have led people away from idolatry, but rather would have drawn them on and cast them into it; for this did the devil desire. But now we see the opposite effect produced by the old law. And indeed this very thing, the oath, was ordained of old for this cause, that they might not swear by the idols. For “ye shall swear,” saith He, “by the true God.”<sup>774</sup> They were then no small advantages
 
-Jer. iv. 2. LXX. κα μσ, Ζ Κριο, μετ ληθεα ν, κρσει, κα ν δικαιοσν.
+774 Jer. iv. 2. LXX. κα μσ, Ζ Κριο, μετ ληθεα ν, κρσει, κα ν δικαιοσν.
 
 *[p. 222]* ^pg230
 
@@ -308,7 +312,7 @@ Let us not then examine simply the acts, but the season too, and the causes, and
 
 And let us be diligent, if we would attain unto the kingdom, to show forth something more than the old commandments; since we cannot otherwise lay hold of the things of
 
-119 775 Num. xxv. 8. 776 [[John 08#^8-44|John viii. 44]]. 777 Ps. cvi. 31.
+119 775 Num. xxv. 8. 776 [[John 08#^8-44|John viii. 44]]. 777 Ps. cvi. 31. 778 Acts v.
 
 *[p. 223]* ^pg231
 
@@ -352,7 +356,7 @@ Let me have no rich man, no potentate, puffing at me here, and drawing up his ey
 
 In order therefore that ye may not destroy both us and your own selves with us, be persuaded, I entreat you; set very many to watch over you, and call you to account, and so free yourselves from the habit of oaths; that going on orderly from thence, ye may both with all facility succeed in attaining unto all other virtue, and may enjoy the good things to come; which God grant that we may all win, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might now and always, even for ever and ever. Amen.
 
-ἐπισρεσθαι . 785 1 Sam. iii. 13.
+785 ἐπισρεσθαι . 786 1 Sam. iii. 13.
 
 *[p. 226]* ^pg234
 
@@ -376,7 +380,7 @@ Having therefore mentioned the ancient law, and recognized it all, He signifies 
 
 \[R.V. text, “him that is evil.” Chrysostom interprets τ πονηρ, “the evil one.” In verse 40 the R.V. renders 787 “would go to law with thee.”—R.\]
 
-ὁ το δικαου λγο.
+788 ὁ το δικαου λγο.
 
 *[p. 227]* ^pg235
 
@@ -388,7 +392,7 @@ Now whereas at the beginning He said, “he that is angry with his brother witho
 
 And this He saith, not as legislating about such a blow as this only, but as teaching also what forbearance we should practise in all our other trials. For just as when He saith, “whoso calleth his brother fool, is in danger of hell,” He speaks not of this word only, but also of all reviling; even so here also He is making a law, not so much for our bearing it manfully, when smitten, as that we should be undisturbed, whatever we suffer. Because of this He both there singled out the extremest insult, and here hath set down that which seems to be of all blows most opprobrious, the blow on the cheek, so full of all insolence. And He commands this as having regard both of him that strikes and of him that is stricken. Since both he that is insulted will not think that he suffers any harm, being thus framed to self-restraint (nay, he will not even have any sense of the insult, as striving rather for a prize than as receiving a blow); and he that is offering the affront will be made ashamed, and not add a second blow, though he be fiercer than any wild beast, yea, rather will condemn himself heartily for the former. For nothing so restrains the wrong doers, as when the injured bear what is done with gentleness. And it not only restrains them from rushing onward, but works upon them also to repent for what has gone before, and in wonder at such forbearance to draw back. And it makes them more our own, and causes them to be slaves, not merely friends, instead of haters and enemies; even as avenging one’s self does just the contrary: for it both disgraces each of the two, and makes them worse, and their anger it heightens into a greater flame;
 
-ἀντιφιλοτιμεσθαι .
+789 ἀντιφιλοτιμεσθαι .
 
 *[p. 228]* ^pg236
 
@@ -406,7 +410,7 @@ And just as, after He had bidden not to call another fool, nor to be angry witho
 
 Further: even though one were of necessity to go about naked on account of this sort of self-denial, neither so were it any disgrace. Since Adam too was “naked”<sup>792</sup>in paradise, “and was not ashamed;” and Isaiah was “naked, and barefoot,” and more glorious than all the Jews;<sup>793</sup>and Joseph<sup>794</sup>also, when he stripped himself, did then more than ever shine forth. For to be thus naked is no evil, but to be so clad, as we now are, with costly garments, this is both disgraceful and ridiculous. For this cause, you see, those had praise of God, but these He blames, both by prophets and by apostles.
 
-790 [[Matthew 05#^5-40|Matt. v. 40]]. ὑπερβολν. 791 792 Gen. ii. 25. 793 Isa. xx. 2, 3. Gen. xxxix. 12.
+790 [[Matthew 05#^5-40|Matt. v. 40]]. 791 ὑπερβολν. 792 Gen. ii. 25. 793 Isa. xx. 2, 3. 794 Gen. xxxix. 12.
 
 *[p. 229]* ^pg237
 
@@ -422,7 +426,7 @@ Because of this, He said, “If any one shall compel thee to go one mile, go wit
 
 For if the things of which He spake at the beginning, being far less than these, have so great blessings pronounced on them; consider what sort of portion awaits them, who duly perform these, and what they become even before their rewards, in a human and passible
 
-123 συγκροτε. 795
+123 795 συγκροτε. 796 [[Matthew 05#^5-41|Matt. v. 41]].
 
 *[p. 230]* ^pg238
 
@@ -442,19 +446,19 @@ But by “borrowing,” here, He means not the compact with usury, but the use m
 
 See how He hath set the highest pinnacle on our good deeds. For this is why He teaches not only to endure a blow, but to offer the right cheek also; not only to add the cloak to the coat, but to travel also two miles with him who compels thee to go one; in order that thou
 
-\[παθητ. There is a paranomasia in the original, indicated here by the word “passible.”—R.\] 797
+797 \[παθητ. There is a paranomasia in the original, indicated here by the word “passible.”—R.\]
 
-ἀγγαρεσαι. \[R.V. marg., “impress,” a legal act of oppression. The Greek work is of Persian origin, and was 798 transferred into Latin also; see Vulgate, [[Matthew 05#^5-41|Matt. v. 41]].—R.\] 799
+798 ἀγγαρεσαι. \[R.V. marg., “impress,” a legal act of oppression. The Greek work is of Persian origin, and was transferred into Latin also; see Vulgate, [[Matthew 05#^5-41|Matt. v. 41]].—R.\]
 
-[[Matthew 05#^5-42|Matt. v. 42]].
+799 [[Matthew 05#^5-42|Matt. v. 42]].
 
 800
 
 [[Luke 06#^6-35|Luke vi. 35]]. “Do good and lend, hoping for nothing again.” \[But the R.V. renders “never despairing,” with the margin, “Some ancient authorities read *despairing of no man*.”—R.\]
 
-ὄμοιοι, Chrys. υο, rec. text. \[For the former reading in the New Testament there is no ms. authority.—R.\] 801 802
+801 ὄμοιοι, Chrys. υο, rec. text. \[For the former reading in the New Testament there is no ms. authority.—R.\]
 
-[[Matthew 05#^5-43|Matt. v. 43–45]]. \[The briefer form of verse 44 is now accepted by critical editors (so Vulgate). The longer reading is from [[Luke 06#^6-27|Luke vi. 27]], [[Luke 06#^6-28|28]]. Comp. R.V.—R.\]
+802 [[Matthew 05#^5-43|Matt. v. 43–45]]. \[The briefer form of verse 44 is now accepted by critical editors (so Vulgate). The longer reading is from [[Luke 06#^6-27|Luke vi. 27]], [[Luke 06#^6-28|28]]. Comp. R.V.—R.\]
 
 *[p. 231]* ^pg239
 
@@ -470,7 +474,7 @@ And observe, I pray thee, how neither in this place, nor in the preceding parts,
 
 “For He too, so far from hating,” so He speaks, “even pours benefits on those that insult Him.” Yet surely in no respect is the case parallel, not only because of the surpassing nature of His benefits, but also by reason of the excellence of His dignity. For thou indeed art despised by thy fellow-slave, but He by His slave, who hath also received ten thousand benefits from Him: and thou indeed givest words, in praying for him, but He, deeds, very great and marvellous, kindling the sun, and giving the annual showers. “Nevertheless, even so I grant thee to be mine equal, in such wise as it is possible for a man so to be.”
 
-124 νεανικ. 803
+124 803 νεανικ. 804 [[Matthew 05#^5-45|Matt. v. 45]].
 
 *[p. 232]* ^pg240
 
@@ -480,7 +484,7 @@ Hate not then the man that doeth thee wrong, who is procuring thee such good thi
 
 Now let us do this too likewise with respect to them that are angry; for in truth the enraged are like the possessed; yea rather, are more wretched than they, being mad with consciousness of it. Wherefore also their frenzy is without excuse. Trample not then on the fallen, but rather pity him. For so, should we see any one troubled with bile, blinded and giddy, and straining to cast up this evil humor, we stretch forth a hand, and continue to support him through his struggles, and though we stain our garments, we regard it not, but seek one thing only, how we may set him free from this grievous distress. This then let us do with respect to the angry also, and continue to bear them up when vomiting and struggling; nor let him go, until he put from him all the bitterness. And then shall he feel toward
 
-805 [[Luke 23#^23-34|Luke xxiii. 34]].
+805 [[Luke 23#^23-34|Luke xxiii. 34]]. 806 [[Romans 08#^8-34|Rom. viii. 34]].
 
 *[p. 233]* ^pg241
 
@@ -496,7 +500,7 @@ And this thing most especially we may admire in His teaching, that while in each
 
 And there are places where He puts down the sin itself by way of punishment, leaving to the hearer to infer the grievousness of the punishment: as when He saith, “he hath committed adultery with her in his heart;” and, “he that putteth away causeth her to commit adultery;” and, “That which is more than these is of the evil one.” For to them that have understanding, instead of the mention of the punishment, the very greatness of the sin is sufficient for correction.
 
-σε τν νδρα εσονταιἁψδα.
+807 σε τν νδρα εσονταιἁψδα.
 
 *[p. 234]* ^pg242
 
@@ -510,7 +514,7 @@ Wherefore also He here brings forward the heathens and the publicans, by the qua
 
 Wherefore now dost thou not address him first? “Because he is waiting for this,” is the reply. Nay, for this very reason most of all thou shouldest have sprung forward to him, that thou mightest win the crown. “No,” saith he, “since this was his object.” And what can be worse than this folly? That is, “Because this,” saith he, “was his object;—to become procurer of a reward for me;—I will not put my hand to what he has thus suggested.” Now if he first address thee, thou gainest nothing, even though thou accost him. But if thou be first to spring forward and speak to him, thou hast made thyself profit of his pride, and hast gathered in a manner abundant fruit from his obstinacy.<sup>813</sup> What is it then but the utmost folly, when we are to reap so large fruit from bare words, to give up the gain; and condemning him, to stumble at the very same thing? For if thou blamest him for this, that he first waits to be addressed by another, wherefore dost thou emulate that same thing which thou accusest? That which thou saidst was evil, why art thou to imitate the same as good? Seest thou how that nothing is more senseless than a man who associates with wickedness? Wherefore, I
 
-808 [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]]. 809 [[1 Thessalonians 04#^4-5|1 Thess. iv. 5]]. τελωνα, rec. text. \[But ο θνικο, the reading accepted by Chrysostom, is supported by the best authorities 810 of every class. Comp. R.V.—R.\] 811 [[Matthew 05#^5-47|Matt. v. 47]]. [[Matthew 05#^5-48|Matt. v. 48]]. \[The text of the Homily has γνεσθε, which is probably imperative, but in [[Matthew 05#^5-48|Matt. v. 48]], ἔσεσθε 812 is the undisputed reading: comp. R.V., “Ye therefore shall be perfect,” etc.—R.\] ἀπονοα.
+808 [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]]. 809 [[1 Thessalonians 04#^4-5|1 Thess. iv. 5]]. τελωνα, rec. text. \[But ο θνικο, the reading accepted by Chrysostom, is supported by the best authorities 810 of every class. Comp. R.V.—R.\] 811 [[Matthew 05#^5-47|Matt. v. 47]]. 812 [[Matthew 05#^5-48|Matt. v. 48]]. \[The text of the Homily has γνεσθε, which is probably imperative, but in [[Matthew 05#^5-48|Matt. v. 48]], ἔσεσθε is the undisputed reading: comp. R.V., “Ye therefore shall be perfect,” etc.—R.\] 813 ἀπονοα.
 
 *[p. 235]* ^pg243
 
@@ -526,7 +530,7 @@ This then let us pursue, in such wise as Himself commanded, and making no accoun
 
 And together with all these things we shall receive also the unutterable blessings: unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory, and power, and worship, with the unoriginate Father, and the Holy and Good Spirit, now and always, even forever and ever. Amen.
 
-ἀγγαρευσθαι. \[See note on sec. 3.—R.\]
+814 ἀγγαρευσθαι. \[See note on sec. 3.—R.\]
 
 *[p. 236]* ^pg244
 
@@ -548,17 +552,17 @@ And mark how Christ began, as though He were speaking of some wild beast, hard t
 
 Forasmuch then as He had made much discourse about almsgiving, and brought forward God, “Who maketh His sun to rise on the evil and the good,”<sup>821</sup>and *by motives* from all quarters had urged them on to this, and had persuaded them to exult in the abundance of their giving; He finishes by taking away also all things that encumber this fair olive tree. For
 
-\[All authorities of an early period, including many fathers prior to Chrysostom, read δικαιοσνην (comp. 815 R.V.). It seems likely that the apparent homiletical advantage of the other reading made it the common one.—R.\] 816
+815 \[All authorities of an early period, including many fathers prior to Chrysostom, read δικαιοσνην (comp. R.V.). It seems likely that the apparent homiletical advantage of the other reading made it the common one.—R.\]
 
-[[Luke 18#^18-12|Luke xviii. 12]].
+816 [[Luke 18#^18-12|Luke xviii. 12]].
 
-Or, “by the publican:” τ τελν νεδεκνυτο. \[The dative is correctly rendered in the text, but the verb is used 817 in a figurative sense.—R.\] 818
+817 Or, “by the publican:” τ τελν νεδεκνυτο. \[The dative is correctly rendered in the text, but the verb is used in a figurative sense.—R.\]
 
-[[Luke 18#^18-11|Luke xviii. 11]].
+818 [[Luke 18#^18-11|Luke xviii. 11]].
 
 819
 
-[[Philippians 03#^3-2|Phil. iii. 2]]. \[“The dogs,” so R.V.—R.\] \[Κα γρ.\] 820
+[[Philippians 03#^3-2|Phil. iii. 2]]. \[“The dogs,” so R.V.—R.\] 820 \[Κα γρ.\] 821 [[Matthew 05#^5-45|Matt. v. 45]].
 
 *[p. 237]* ^pg245
 
@@ -578,7 +582,7 @@ And well hath He called them “hypocrites” for the mask was of mercy, but the
 
 It is not then the giving alms which is required, but the giving as one ought, the giving for such and such an end.<sup>825</sup>
 
-822 Matt. vi. 1. 823 Matt. vi. 2. ἐκπομπεων. 824 \[δι τοτο.\]
+822 Matt. vi. 1. 823 Matt. vi. 2. 824 ἐκπομπεων. 825 \[δι τοτο.\]
 
 *[p. 238]* ^pg246
 
@@ -590,7 +594,7 @@ And then the reward too; consider how great it is. For after He had spoken of th
 
 “Thy Father which seeth in secret shall reward thee openly.”<sup>829</sup> Setting for him a great and august assemblage of spectators, and what He desires, that very thing bestowing on him in great abundance. “For what,” saith He, “dost thou wish? is it not to have some to be spectators of what is going on? Behold then, thou hast some; not angels, nor archangels, but the God of all.” And if thou desire to have men also as spectators, neither of this desire doth He deprive thee at the fitting season, but rather in greater abundance affords it unto thee. For, if thou shouldest now make a display, thou wilt be able to make it to ten only, or twenty, or (we will say) a hundred persons: but if thou take pains to lie hid now, God Himself will then proclaim thee in the presence of the whole universe. Wherefore above all, if thou wilt have men see thy good deeds, hide them now, that then all may look on them with the more honor, God making them manifest, and extolling them, and proclaiming them before all. Again, whereas now they that behold will rather condemn thee as vainglorious; when they see thee crowned, so far from condemning, they will even
 
-129 826 \[As in the previous clause, “ought we to act.”—R.\] 827 [[Matthew 06#^6-3|Matt. vi. 3]]. σκαιο, literally, “on the left hand.” 828 [[Matthew 06#^6-4|Matt. vi. 4]]. \[The phrase ἐν τ φανερ is poorly supported in verses 4, 6, 18. It seems, however, to be accepted 829 by Chrysostom. The R.V. properly renders “recompense thee” to distinguish from the word “reward” (μισθν), which occurs in verse 2and similar passages.—R.\]
+129 826 \[As in the previous clause, “ought we to act.”—R.\] 827 [[Matthew 06#^6-3|Matt. vi. 3]]. 828 σκαιο, literally, “on the left hand.” [[Matthew 06#^6-4|Matt. vi. 4]]. \[The phrase ἐν τ φανερ is poorly supported in verses 4, 6, 18. It seems, however, to be accepted 829 by Chrysostom. The R.V. properly renders “recompense thee” to distinguish from the word “reward” (μισθν), which occurs in verse 2and similar passages.—R.\]
 
 *[p. 239]* ^pg247
 
@@ -610,7 +614,7 @@ Having then discredited them, who order not this duty as they ought, both from t
 
 “What then,” it may be said, “ought we not to pray in church?” Indeed we ought by all means, but in such a spirit as this. Because everywhere God seeks the intention of all that is
 
-830 [[Matthew 06#^6-5|Matt. vi. 5]]. \[R.V., “to stand and pray,” and, “They have received their reward.”—R.\] [[Matthew 06#^6-6|Matt. vi. 6]]. \[R.V., “Enter into thine inner chamber and having shut thy door, pray,” etc.—R.\]
+830 [[Matthew 06#^6-5|Matt. vi. 5]]. \[R.V., “to stand and pray,” and, “They have received their reward.”—R.\] 831 [[Matthew 06#^6-6|Matt. vi. 6]]. \[R.V., “Enter into thine inner chamber and having shut thy door, pray,” etc.—R.\]
 
 *[p. 240]* ^pg248
 
@@ -626,7 +630,7 @@ But art thou pained in mind, and canst not help crying aloud? yet surely it is t
 
 Do thou also then groan, even as that holy one, I forbid it not. “Rend,” as the prophet commanded,<sup>837</sup>“thine heart, and not thy garments.” Out of deeps call upon God, for it is said, “Out of the depths have I cried to Thee, O Lord.”<sup>838</sup> From beneath, out of the heart, draw forth a voice, make thy prayer a mystery. Seest thou not that even in the houses of
 
-συρφετωδ. 832 ἐπιεικεα. 833 834 Exod. xiv. 15. 835 1 Sam. i. 13. 836 Gen. iv. 10. 837 Joel ii. 13.
+832 συρφετωδ. 833 ἐπιεικεα. 834 Exod. xiv. 15. 835 1 Sam. i. 13. 836 Gen. iv. 10. 837 Joel ii. 13. 838 Ps. cxxxi. 1.
 
 *[p. 241]* ^pg249
 
@@ -644,7 +648,7 @@ But touching prayer, He adds somewhat over and above; “not to use vain repetit
 
 “For He knoweth,” saith He, “what things ye have need of.”<sup>841</sup> And herewith He seems to me to command in this place, that neither should we make our prayers long; long, I mean, not in time, but in the number and length of the things mentioned. For perseverance indeed in the same requests is our duty: His word being, “continuing instant in prayer.”<sup>842</sup>
 
-839 [[Matthew 06#^6-6|Matt. vi. 6]]. \[See note on sec. 2, verse 4.—R.\] 840 [[Matthew 06#^6-7|Matt. vi. 7]]. (R.V., “And in praying use not vain repetitions, as the Gentiles do.”—R.\] 841 [[Matthew 06#^6-8|Matt. vi. 8]].
+839 [[Matthew 06#^6-6|Matt. vi. 6]]. \[See note on sec. 2, verse 4.—R.\] 840 [[Matthew 06#^6-7|Matt. vi. 7]]. (R.V., “And in praying use not vain repetitions, as the Gentiles do.”—R.\] 841 [[Matthew 06#^6-8|Matt. vi. 8]]. 842 [[Romans 12#^12-12|Rom. xii. 12]].
 
 *[p. 242]* ^pg250
 

@@ -48,11 +48,11 @@ Keyūravatī Kalyāṇikā
 
 Govindarāja 
 
-Bhānuka Erakanātha (Naverakanātha Hrasvanātha)' 
+Bhānuka Erakanātha (Naverakanātha Hrasvanātha)[^1164] 
 
 Somananda 
 
-Ujjaṭa ad Udbhatṭta onwards? 
+Ujjaṭa ad Udbhatṭta onwards[^1165] 
 
 Bhojarāja 
 
@@ -62,24 +62,24 @@ Abhinavegupta
 
 There are two other chronologies of Krama teachers apart from the one in the Kramakeli. The first is found in the Mahānayaprakāśa, that is commented 
 
-1164?\. Hrasvanātha’s name occurs in the context of a discussion concerning the number of disciples Keyūravatī (also called Kakāradevī) had. Jayaratha refutes an earlier view that she had only three pupils. Instead of Somaraja, he mentions Bhojarāja as the sixth. Therefore, if we accept him as a pupil of Keyūravatī he, like Erakanātha, would belong to the close of the tenth century AD. However, the text is not clear whether they were contemporaries or successors. Jayaratha maintains that Hrasvanātha, Bhojarāja and Somarāja succeeded one another. He points out that Hrasvanātha quotes Somarāja, and so precedes him, as he does Bhojarāja, who was Somarāja’s teacher. Jayaratha says: hrasvanāthenāpi svalipivivaraṇe asya pāthasya dṛṣtatvāt । 16 ad 4/206. Correcting hrasvanāthenāpi for hrasvanāthasyāpi, then it would mean that Hrasvanātha had written a commentary on the Kramastotra, and that Jayaratha had seen the original in his handwriting. He saw the second verse praising Kālānalarudrakālīọ there in it. Accordingly, he asserts that in the Kramastotra both the goddesses Yamakāli and Kālāgnirudrakālī were praised in two verses.
+[^1164]: Hrasvanātha’s name occurs in the context of a discussion concerning the number of disciples Keyūravatī (also called Kakāradevī) had. Jayaratha refutes an earlier view that she had only three pupils. Instead of Somaraja, he mentions Bhojarāja as the sixth. Therefore, if we accept him as a pupil of Keyūravatī he, like Erakanātha, would belong to the close of the tenth century AD. However, the text is not clear whether they were contemporaries or successors. Jayaratha maintains that Hrasvanātha, Bhojarāja and Somarāja succeeded one another. He points out that Hrasvanātha quotes Somarāja, and so precedes him, as he does Bhojarāja, who was Somarāja’s teacher. Jayaratha says: hrasvanāthenāpi svalipivivaraṇe asya pāthasya dṛṣtatvāt । 16 ad 4/206. Correcting hrasvanāthenāpi for hrasvanāthasyāpi, then it would mean that Hrasvanātha had written a commentary on the Kramastotra, and that Jayaratha had seen the original in his handwriting. He saw the second verse praising Kālānalarudrakālīọ there in it. Accordingly, he asserts that in the Kramastotra both the goddesses Yamakāli and Kālāgnirudrakālī were praised in two verses.
 
-1165?\. This is Jayaratha's lineage.
+[^1165]: This is Jayaratha's lineage.
 
 
 *[p. 484]* ^pg497
 
 APPENDIX G CHAPTER FOUR 
 
-upon by Śitikaṇtha. The other one is in the Mahānayaprakāśa by Arṇasiṁha, which is several generations later. Sitikanṭha tells us that Jñānanetranātha received the teachings from Makāradevī, that is the goddess Maṅgalā,? who is accordingly called the 'first teacher'.\* Maṅgalā was a local goddess in Udqdiyāna, where the first transmission took place. She is identified with the goddess Kālasaṁkarṣiṇī. According to this Mahānayaprakāśa, there are three levels or ‘currents’ of transmission of the teachings. The first is the Siddhaugha — the Accomplished Current, which is the goddess Maṅgalā herself, who is the first teacher. The second current is the Mānavaugha, the Current of Men, which is represented by Netrarājñī, that is, Jñānanetra, whose ‘Eye is the Queen’, i.e., the goddess and Hrasvanātha. These three are the ‘firestick of Kula’, that is, a particular special lineage (ovalliviśeṣa), and so are like the three sacred fires of the Vedic sacrifice. At the end of the Current of Men comes the Śiṣyaugha — the Current of Disciples, of which the first and foremost teacher was the venerable Bhānu (i.e. Cakrabhānu), who had eight disciples, out of which the greatest was the Queen \[illegible\] called Īśānikā.\* Cakrabhānu — the Sun of the Lotuses — was given this name because he made the lotus-like consciousness of his disciples bloom, as does the rising sun.‘ Clearly, in this account, as in the one reported by 
+upon by Śitikaṇtha. The other one is in the Mahānayaprakāśa by Arṇasiṁha, which is several generations later. Sitikanṭha tells us that Jñānanetranātha received the teachings from Makāradevī, that is the goddess Maṅgalā,[^1166] who is accordingly called the 'first teacher'.[^1167] Maṅgalā was a local goddess in Udqdiyāna, where the first transmission took place. She is identified with the goddess Kālasaṁkarṣiṇī. According to this Mahānayaprakāśa, there are three levels or ‘currents’ of transmission of the teachings. The first is the Siddhaugha — the Accomplished Current, which is the goddess Maṅgalā herself, who is the first teacher. The second current is the Mānavaugha, the Current of Men, which is represented by Netrarājñī, that is, Jñānanetra, whose ‘Eye is the Queen’, i.e., the goddess and Hrasvanātha. These three are the ‘firestick of Kula’, that is, a particular special lineage (ovalliviśeṣa), and so are like the three sacred fires of the Vedic sacrifice. At the end of the Current of Men comes the Śiṣyaugha — the Current of Disciples, of which the first and foremost teacher was the venerable Bhānu (i.e. Cakrabhānu), who had eight disciples, out of which the greatest was the Queen \[illegible\] called Īśānikā.[^1168] Cakrabhānu — the Sun of the Lotuses — was given this name because he made the lotus-like consciousness of his disciples bloom, as does the rising sun.[^1169] Clearly, in this account, as in the one reported by 
 
-1166?\. prāptādeśena \[ण eva bhūtadayāviṣtena satā kramārthatayā kathanapūjanābhyā vāntam - iti ovallīsūcanam, tad eva prastūyate ॥ 9 || Commenting on verse nine, Śitikaṇṭha writes: ‘the venerable Jñānanetra, who had obtained the command of the venerable goddess Makāra in her most excellent seat, had a direct experience (there of her) true nature as the first (and foremost) goddess, present both internally and externally. Penetrated by com\] jon for living beings, it was that itself that was emitted by speech and worship as the (reality, purport and) goal of the Krama (kramārtha). The lineage of (the tradition) (ovalli) has been indicated in this way and it is that which is being presented.”
+[^1166]: prāptādeśena \[ण eva bhūtadayāviṣtena satā kramārthatayā kathanapūjanābhyā vāntam - iti ovallīsūcanam, tad eva prastūyate ॥ 9 || Commenting on verse nine, Śitikaṇṭha writes: ‘the venerable Jñānanetra, who had obtained the command of the venerable goddess Makāra in her most excellent seat, had a direct experience (there of her) true nature as the first (and foremost) goddess, present both internally and externally. Penetrated by com\] jon for living beings, it was that itself that was emitted by speech and worship as the (reality, purport and) goal of the Krama (kramārtha). The lineage of (the tradition) (ovalli) has been indicated in this way and it is that which is being presented.”
 
-1167?\. śrīmakāradevī ādigururūpā jīyāt | suprabuddhaśrīmaṁgalārūpeṇa ādidevataiva vivṛtā stutir āsūtritā || 2 ॥ MNP (iKa) p. 5.
+[^1167]: śrīmakāradevī ādigururūpā jīyāt | suprabuddhaśrīmaṁgalārūpeṇa ādidevataiva vivṛtā stutir āsūtritā || 2 ॥ MNP (iKa) p. 5.
 
-1168?\. sā ca siddhaugharūpā mānavaugha (> -ghe) netrarājñī hrasvanātheti trirūpasya kulāraniḥ - kulasya ovallīviśeṣasya araniḥ, trayāṇām agnīnām iva utpattisthānam, tataś ca manavaughasyānte śiṣyaughāgranīr bhānupādaḥ aṣṭānām śiṣyāṇāṁ prabhuḥ, yanmadhyād काणि īśānākhyā (+ tām) samadattaṁ pāramparyanidīnam SI (The Goddess) is the Siddhaugha (the Current of the Accomplished). Netrarājñī and Hrasvanātha are part of the Mānavaugha (the Human Current). This is the firestick with three forms. The firestick of (this) particular lineage (ovalli) of the three that are present (here) are as if the three (sacred) fires. And then at the end of the Human Current, at the beginning (and foremost) of the Śiśyaugha (the Current of Disciples) comes the venerable Bhānu, who is the lord of eight disciples. In the midst of the is the queen \[illegible\] called ikā, (to whom) the treasure of the teachings of the series (of teachers) was given. (ibid. p. 107 commentary on verse 5).
+[^1168]: sā ca siddhaugharūpā mānavaugha (> -ghe) netrarājñī hrasvanātheti trirūpasya kulāraniḥ - kulasya ovallīviśeṣasya araniḥ, trayāṇām agnīnām iva utpattisthānam, tataś ca manavaughasyānte śiṣyaughāgranīr bhānupādaḥ aṣṭānām śiṣyāṇāṁ prabhuḥ, yanmadhyād काणि īśānākhyā (+ tām) samadattaṁ pāramparyanidīnam SI (The Goddess) is the Siddhaugha (the Current of the Accomplished). Netrarājñī and Hrasvanātha are part of the Mānavaugha (the Human Current). This is the firestick with three forms. The firestick of (this) particular lineage (ovalli) of the three that are present (here) are as if the three (sacred) fires. And then at the end of the Human Current, at the beginning (and foremost) of the Śiśyaugha (the Current of Disciples) comes the venerable Bhānu, who is the lord of eight disciples. In the midst of the is the queen \[illegible\] called ikā, (to whom) the treasure of the teachings of the series (of teachers) was given. (ibid. p. 107 commentary on verse 5).
 
-1169?\. yathā mahādevaḥ \[illegible\] mūrtīnām vikāsakaḥ, brahmā vā tāvatāṁ prajāpatīnām, aruṇodayo vā tāato diṁmandalasya, tathaiva bhānuḥ śrīcakrabhānuḥ siṣ.yakamalānāri vikāsakaḥ, iti ॥ 6 ॥ etādṛśī ovallīnām paramparā uditā satī dṛśyate, sā ca nirvikārā upāyasaranṇiḥ, andhakāre dīpamāleva svaparaprakāśikā dyotate, iti - siddhaugha - mānavaugha - siṣyaughāh ॥ 7 Il ‘Just as Mahādeva is the one who unfolds (the consciousness) of the eight divine forms (mūrti) or Brahmā, the same (number of) Prajāpatis, or the rising sun (aruṇodaya), the circle of the directions, in the same way Bhānu, that is, the venerable Cakrabhānu, unfolds the lotuses (of the hearts of his) disciples. Such is the series (of teachers) of the lineages that is perceived when it is risen. And it is the undistorted path which is the means (to realisation), like a garland of lamps in the darkness, it illumines itself and others. Such are the Currents (called) Siddha, Mānava and Śiśya.’ (ibid. p. 108 commentary on verses 6 and 7)
+[^1169]: yathā mahādevaḥ \[illegible\] mūrtīnām vikāsakaḥ, brahmā vā tāvatāṁ prajāpatīnām, aruṇodayo vā tāato diṁmandalasya, tathaiva bhānuḥ śrīcakrabhānuḥ siṣ.yakamalānāri vikāsakaḥ, iti ॥ 6 ॥ etādṛśī ovallīnām paramparā uditā satī dṛśyate, sā ca nirvikārā upāyasaranṇiḥ, andhakāre dīpamāleva svaparaprakāśikā dyotate, iti - siddhaugha - mānavaugha - siṣyaughāh ॥ 7 Il ‘Just as Mahādeva is the one who unfolds (the consciousness) of the eight divine forms (mūrti) or Brahmā, the same (number of) Prajāpatis, or the rising sun (aruṇodaya), the circle of the directions, in the same way Bhānu, that is, the venerable Cakrabhānu, unfolds the lotuses (of the hearts of his) disciples. Such is the series (of teachers) of the lineages that is perceived when it is risen. And it is the undistorted path which is the means (to realisation), like a garland of lamps in the darkness, it illumines itself and others. Such are the Currents (called) Siddha, Mānava and Śiśya.’ (ibid. p. 108 commentary on verses 6 and 7)
 
 
 *[p. 485]* ^pg498
@@ -88,15 +88,15 @@ Jayaratha from the Kramakeli and, as we shall see, in the one by Arṇasiṁha, 
 
 We can be fairly sure of Cakrabhānv’s date, as Kalhaṇa refers to him in the following passage in his Rājataraṁginī as living during the reign of Yaśaskara, that is, 939 to 948 CE: 
 
-‘The king (Yaśaskara) \[was ever\] ready to exercise control over the castes and conditions of life \[among his\] subjects. On discovering that at a cakramelaka \[i.e., a gathering of male and female initiates\] a Brahmin ascetic Cakrabhānu by name had departed from proper conduct, the king, in accordance with the law, punished him by having the mark of a dog’s foot branded on his forehead. Infuriated by this, the uncle of that \[Brahmin\], the magician Vīranātha, who was the king's own minister of foreign affairs, then took revenge upon him.” 
+‘The king (Yaśaskara) \[was ever\] ready to exercise control over the castes and conditions of life \[among his\] subjects. On discovering that at a cakramelaka \[i.e., a gathering of male and female initiates\] a Brahmin ascetic Cakrabhānu by name had departed from proper conduct, the king, in accordance with the law, punished him by having the mark of a dog’s foot branded on his forehead. Infuriated by this, the uncle of that \[Brahmin\], the magician Vīranātha, who was the king's own minister of foreign affairs, then took revenge upon him.’[^1170] 
 
 Śivānanda was three generations before Cakrabhānu, and so lived somewhere around 825 to 900 CE. Five generations separate Cakrabhānu from Arṇasimha. Allowing for the usual twenty-five years for each generation, he lived about 125 years later, that is, around 1100 CE. Arṇasimha supplies us with an account of his Krama lineages, ending with his two teachers, Someśvara and Nāga. Both are the fourth generation after Cakrabhānu, who is the third generation after Śivānanda. The two lineages are given below. 
 
-The other Māhānayaprakāśa is by Arṇasiṁha, who is also called Vīrasiṁha.\* Arṇasiṁha probably lived in South India towards the end of the lith century. Arṇasiṁha tells us (in verses 151-166) that there were two 
+The other Māhānayaprakāśa is by Arṇasiṁha, who is also called Vīrasiṁha.[^1171] Arṇasiṁha probably lived in South India towards the end of the lith century. Arṇasiṁha tells us (in verses 151-166) that there were two 
 
-1170?\. RT 6/108-110.
+[^1170]: RT 6/108-110.
 
-1171?\. \[illegible\] Unfortunately, the final colophon in this Mahānayaprakāśa is lacunose where the name of the author was written. However, he tells us directly that he is Arṇasiṁha in one place (253) and elsewhere (135) he says that the teaching concerning Vṛndacakra was originally taught by Jñānanetra and was later revealed by Vīrasiṁha, which probably meant himself.
+[^1171]: \[illegible\] Unfortunately, the final colophon in this Mahānayaprakāśa is lacunose where the name of the author was written. However, he tells us directly that he is Arṇasiṁha in one place (253) and elsewhere (135) he says that the teaching concerning Vṛndacakra was originally taught by Jñānanetra and was later revealed by Vīrasiṁha, which probably meant himself.
 
 
 *[p. 486]* ^pg499
@@ -117,7 +117,7 @@ Summing up, the first lineage is as follows:
 
 The second lineage is: 
 
-Cakrabhānu > Prabodha (nātha) > Jaiyaka > Paṁka > Nāga > Arṇasiṁha.’” 
+Cakrabhānu > Prabodha (nātha) > Jaiyaka > Paṁka > Nāga > Arṇasiṁha.[^1172] 
 
 All these teachers are said to have been penetrated and possessed (samāviṣṭa) by the Deity (samāveśa), immersed in Emptiness and experienced the Great Wonder. In addition to this, some are positively characterized as Kāpālika ascetics. Thus, he says of Cakrabhānu that ‘practicing the Great Vow (mahāvrata), he attained the supreme abode.’ 
 
@@ -125,4 +125,4 @@ All these teachers are said to have been penetrated and possessed (samāviṣṭ
 
 Abhinava was certainly well acquainted with the basic Krama principles concerning the cycles of emanation and destruction. He knew the main goddesses ~ Khecarī, Vāmeśvarī, and Bhūcarī — whose nature he expounds as energies of consciousness and perception in his commentary on the Parātrimśikā. However, he shows no signs of knowing about the elaboration of the Krama system (that is, the Pañcavāha) we find in the three texts called Mahānayaprakāśa (see below). Even Kṣemarāja, his disciple, does not seem to know about it, although he refers frequently to Krama concepts. In short, it appears that the system was developing, and texts were being added to it after Abhinava’s time and that of his immediate successor. 
 
-1172?\. MNP (A) 152-161, 162-168.
+[^1172]: MNP (A) 152-161, 162-168.

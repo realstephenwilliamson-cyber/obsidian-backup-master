@@ -94,7 +94,7 @@ The nature of the essential nature (svarūparūpa) (of consciousness) is one. It
 
 Again, each one according to its nature also abides four-fold, due to the relative distinctions between creation, persistence (withdrawal and the inexplicable generated) by the process of differentiation (kalanā), which is (analogously) considered to be four-fold, (beginning with) ‘emergence’ (udaya) and ending with the Devouring of Time (kālagrāsa). (Thus, three times four makes twelve phases). The state of repose of that (consciousness) is one, and so 
 
-the goddesses are thirteen." (16-17). 
+the goddesses are thirteen.[^1184] (16-17). 
 
 They are the objects of worship because the Cycle of the Inexplicable (anākhyacakra) (to which they belong) is the main one. Their final state of rest within themselves is supreme, and is the Great Dissolution (mahāvilaya). (18) 
 
@@ -111,7 +111,7 @@ udyoge nāvabhāsaś cet kathaṁ saktasya sambhave (> —vet) |
 acarvito ‘vabhāsaḥ syāt tad amṛṣṭatayā katham || 22 ॥
 tatsargasthitisamhārarūpe yo yah kramaḥ sthitaḥ | 
 
-1184?\. The four phases of the cycle of cognitive consciousness, the Inexplicable, are 1) udaya (Emergence), 2) avabhāsa (Manifestation), 3) carvaṇa (Relish), 4) kālagrāsa (Devouring of Time). These four are described together in 31-32ab, Relish in 26.
+[^1184]: The four phases of the cycle of cognitive consciousness, the Inexplicable, are 1) udaya (Emergence), 2) avabhāsa (Manifestation), 3) carvaṇa (Relish), 4) kālagrāsa (Devouring of Time). These four are described together in 31-32ab, Relish in 26.
 
 
 *[p. 527]* ^pg540
@@ -224,9 +224,9 @@ Time is clearly seen to be consumed for one who is (engaged in) the Yoga of seei
 
 Once having entered within (the essentially conscious nature,) the rum that eliminates duality, (the yogic) state of wonder (camatkāra), becomes firm without (needing to) associate with (outer) objects, (for it happens just) by the expansion of the Middle Plane (consciousness) of the Great Enjoyment of the 
 
-reflection’! (of the Goddess within it). (43-44ab) 
+reflection[^1185] (of the Goddess within it). (43-44ab) 
 
-Once having entered the plane of the means of knowledge (pramānṇa) (i.e. the senses and mind), there are four Kālikās. In accord with the meaning of the root kal, in the sense of the activity of ‘resounding’ (śabda) and ‘enumeration’ (sankhāyana), the Kālikās arise four-fold, divided into the emanation of persistence (the persistence of persistence) and so on."!\* (44-45) 
+Once having entered the plane of the means of knowledge (pramānṇa) (i.e. the senses and mind), there are four Kālikās. In accord with the meaning of the root kal, in the sense of the activity of ‘resounding’ (śabda) and ‘enumeration’ (sankhāyana), the Kālikās arise four-fold, divided into the emanation of persistence (the persistence of persistence) and so on.[^1186] (44-45) 
 
 evan māṁsavyasaninām antarāsvādabhūminām |
 pramātrrūpam āviśya catasraḥ kālikāḥ sthitāḥ ॥ 46 ॥
@@ -235,9 +235,9 @@ darśanasparśasambhogavirāmodrekatā matāḥ ॥ 47 ||
 satmihārasṛṣtyādimayaś caturdhāyaṁi kramaḥ sthitaḥ |
 strīmadyamāmisabhogeṣu camatkārānuvṛttitaḥ ॥ 48 I| 
 
-1185?\. The twelve Kālīs are all reflections (pratibimba) of the thirteenth Kālī, which is the original image (bimba) in the centre.
+[^1185]: The twelve Kālīs are all reflections (pratibimba) of the thirteenth Kālī, which is the original image (bimba) in the centre.
 
-1186?\. Cf. TĀ 4/173cd-175. This analysis indicates that the author had seen the Tantrāloka.
+[^1186]: Cf. TĀ 4/173cd-175. This analysis indicates that the author had seen the Tantrāloka.
 
 
 *[p. 530]* ^pg543

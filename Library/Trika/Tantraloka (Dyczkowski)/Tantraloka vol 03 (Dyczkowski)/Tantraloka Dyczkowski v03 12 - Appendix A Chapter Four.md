@@ -34,13 +34,13 @@ The Early Krama
 
 Introduction 
 
-The Jayadrathayāmala, from which the passage in Appendix A is drawn, is a long Tantra divided into four sections of six thousand verses called ‘ṣatkas’. These were most probably written separately over a period of time by more than one person. All the manuscripts we have are Nepalese. Unfortunately, mostly badly corrupt, the oldest is not earlier that the 16\* or 17" century. Sanderson reads a reference Jayaratha makes to his father’s and teacher’s teacher, Śṛṁgāra, son of Rājānaka DĀāśī, as suggesting that he taught this Tantra." Whether that is so or not, Jayaratha knew it well enough to quote from all four ṣatkas, whereas Abhinava only quotes from the fourth one. This may be because, although it seems unlikely, that this is the only one that existed in Abhinava’s day. Indeed, he never refers to the Jayadrathayāmala as such or by its honorific alias Tantrarājabhaṭṭāraka, as Jayaratha and the Tantra itself do.? He always calls it the Mādhavakula, which is the name by which it knows itself? Mādhava is a name of Viṣṇu. The goddess here is related to the 
+The Jayadrathayāmala, from which the passage in Appendix A is drawn, is a long Tantra divided into four sections of six thousand verses called ‘ṣatkas’. These were most probably written separately over a period of time by more than one person. All the manuscripts we have are Nepalese. Unfortunately, mostly badly corrupt, the oldest is not earlier that the 16\* or 17" century. Sanderson reads a reference Jayaratha makes to his father’s and teacher’s teacher, Śṛṁgāra, son of Rājānaka DĀāśī, as suggesting that he taught this Tantra.[^1000] Whether that is so or not, Jayaratha knew it well enough to quote from all four ṣatkas, whereas Abhinava only quotes from the fourth one. This may be because, although it seems unlikely, that this is the only one that existed in Abhinava’s day. Indeed, he never refers to the Jayadrathayāmala as such or by its honorific alias Tantrarājabhaṭṭāraka, as Jayaratha and the Tantra itself do.[^1001] He always calls it the Mādhavakula, which is the name by which it knows itself.[^1002] Mādhava is a name of Viṣṇu. The goddess here is related to the 
 
-1000?\. See note to verse 36 of Jayaratha’s biography of his family’s lineage at the end of his commentary. There Jayaratha says that he taught him the ‘rājatantra’. Rastogi has understood this to mean that he taught him political science. Sanderson instead sees a reference there to the Tantrarāja, which is another name for the Jayadrathayāmala. See note to that verse.
+[^1000]: See note to verse 36 of Jayaratha’s biography of his family’s lineage at the end of his commentary. There Jayaratha says that he taught him the ‘rājatantra’. Rastogi has understood this to mean that he taught him political science. Sanderson instead sees a reference there to the Tantrarāja, which is another name for the Jayadrathayāmala. See note to that verse.
 
-1001?\. See the following note for an example.
+[^1001]: See the following note for an example.
 
-1002?\. Śṛnuṣva kathayiṣyāmi taṁtrarājasya madhyataḥ | 138a k) yathā tan mādhavakulari vaktavyaṁ maṁńdaropari (> mandalopari) ॥ 4 ॥ 117b kh) yathā ca tatra sā kālā (> kālī) tathā sarvańn bravīmi te | yo ‘sau śāntaḥ parākāśaḥ prapūrṇaḥ \[kh g: prapūrna\] sarvatomukhaḥ ॥ 5 ॥ nityaḥ sadasannirmuktaḥ \[kh g: -sanirmuktah \] kāranṇātītavigrahaḥ | ajo hy anantaḥ sarvajño vibhur dhātā śivo ‘vyayaḥ ॥ 6 ॥ akulaḥ \[g: akulas\] sarvato dikkaḥ paritaḥ sarvyavasthitaḥ | tasyodaram idaṁ vyaktaṁ \[g: vyaṁktai\] avibhedi prakāśabhāk ॥ 7 \\\\ nityānaṁdarasoddāmasvābhāsābharibhāsuraḥ \[kh: -ra\] | sa mādhaveti vijñeyaḥ \[g: -yo\] kuleśaḥ kulabhāskaraḥ ॥ 8 Il ‘Listen, I will tell (you) the Mādhavakula, that is in the middle of the Tantrarāja (as a part of it). It should be taught in the manner in which it is (venerated) on the mandala and because Kālī is present there. I will tell you everything. The Supreme Sky that is tranquil is completely full and omnipresent (sarvatomukha), eternal, free of being and nonbeing, its form beyond the (universal) cause. Unborn, endless, omniscient, and all-pervasive, it is the Benefactor, imperishable Śiva. He is Akula, who faces (and is located) everywhere. This manifest (universe) is his belly. Undivided, he possesses (great) light. He should be known to be Mādhava, the Lord of Kula, who is the Sun of Kula. Unborn, imperishable, tranquil, he generates emanation and brings about withdrawal. Greatly terrible and most excellent, he is the fierce Kulabhairava.” (4cd-9) The colophon of this chapter tells us that ‘it is called the Tantrācāranirnaya (the Teachings Concerning Right Tantric Conduct), belonging to the Kālīkula in the Jayarathayāmala’. iti jayadrathayāmale kālikule taṁitrācāranirṇayo \[illegible\] taritrācāra \* + \*?\] nāma \[g: ?\] ॥ 20 ॥ ) The entire chapter is quoted and translated in an Appendix to Chapter Twenty-nine of the Tantrāloka.
+[^1002]: Śṛnuṣva kathayiṣyāmi taṁtrarājasya madhyataḥ | 138a k) yathā tan mādhavakulari vaktavyaṁ maṁńdaropari (> mandalopari) ॥ 4 ॥ 117b kh) yathā ca tatra sā kālā (> kālī) tathā sarvańn bravīmi te | yo ‘sau śāntaḥ parākāśaḥ prapūrṇaḥ \[kh g: prapūrna\] sarvatomukhaḥ ॥ 5 ॥ nityaḥ sadasannirmuktaḥ \[kh g: -sanirmuktah \] kāranṇātītavigrahaḥ | ajo hy anantaḥ sarvajño vibhur dhātā śivo ‘vyayaḥ ॥ 6 ॥ akulaḥ \[g: akulas\] sarvato dikkaḥ paritaḥ sarvyavasthitaḥ | tasyodaram idaṁ vyaktaṁ \[g: vyaṁktai\] avibhedi prakāśabhāk ॥ 7 \\\\ nityānaṁdarasoddāmasvābhāsābharibhāsuraḥ \[kh: -ra\] | sa mādhaveti vijñeyaḥ \[g: -yo\] kuleśaḥ kulabhāskaraḥ ॥ 8 Il ‘Listen, I will tell (you) the Mādhavakula, that is in the middle of the Tantrarāja (as a part of it). It should be taught in the manner in which it is (venerated) on the mandala and because Kālī is present there. I will tell you everything. The Supreme Sky that is tranquil is completely full and omnipresent (sarvatomukha), eternal, free of being and nonbeing, its form beyond the (universal) cause. Unborn, endless, omniscient, and all-pervasive, it is the Benefactor, imperishable Śiva. He is Akula, who faces (and is located) everywhere. This manifest (universe) is his belly. Undivided, he possesses (great) light. He should be known to be Mādhava, the Lord of Kula, who is the Sun of Kula. Unborn, imperishable, tranquil, he generates emanation and brings about withdrawal. Greatly terrible and most excellent, he is the fierce Kulabhairava.” (4cd-9) The colophon of this chapter tells us that ‘it is called the Tantrācāranirnaya (the Teachings Concerning Right Tantric Conduct), belonging to the Kālīkula in the Jayarathayāmala’. iti jayadrathayāmale kālikule taṁitrācāranirṇayo \[illegible\] taritrācāra \* + \*?\] nāma \[g: ?\] ॥ 20 ॥ ) The entire chapter is quoted and translated in an Appendix to Chapter Twenty-nine of the Tantrāloka.
 
 
 *[p. 388]* ^pg401
@@ -51,34 +51,34 @@ Bhairava’s fierce avatāra of Viṣṇu — Narasiṁha. This is a common asso
 
 *[p. 389]* ^pg402
 
-The Jayadrathayāmala teaches the worship of numerous forms of \[illegible\] who is sometimes identified as a fierce counterpart of Lakṣmī. These are sometimes solitary or arranged in groups (cakra), as are these Kālīs. If the Mādhavakula is the earliest of the four \[illegible\] the list of the names of the thirteen Kālīs we find in the chapter translated in Appendix A is the earliest known one.‘ Be that as it may, Jayaratha quotes it as an authority in his commentary,” and the names and sequential order is indeed what we most commonly find. Although they are listed there, and the list certainly served as a model, they are just one of numerous configurations of Kālīs. However, in the Kālīkula (also called Kālīkrama) scriptural sources that followed, they assumed a much more prominent role. Despite its subsequent prominence, only small parts of the Jayadrathayāmala are dedicated to the emergent Kālīkula, from which the Krama system subsequently developed. Sanderson (2006b: 23-24 n. 62) helpfully identifies these places, as follows: 
+The Jayadrathayāmala teaches the worship of numerous forms of \[illegible\][^1004] who is sometimes identified as a fierce counterpart of Lakṣmī. These are sometimes solitary or arranged in groups (cakra), as are these Kālīs. If the Mādhavakula is the earliest of the four \[illegible\] the list of the names of the thirteen Kālīs we find in the chapter translated in Appendix A is the earliest known one.[^1005] Be that as it may, Jayaratha quotes it as an authority in his commentary,[^1006] and the names and sequential order is indeed what we most commonly find. Although they are listed there, and the list certainly served as a model, they are just one of numerous configurations of Kālīs. However, in the Kālīkula (also called Kālīkrama) scriptural sources that followed, they assumed a much more prominent role. Despite its subsequent prominence, only small parts of the Jayadrathayāmala are dedicated to the emergent Kālīkula, from which the Krama system subsequently developed. Sanderson (2006b: 23-24 n. 62) helpfully identifies these places, as follows: 
 
 ‘In the Jayadrathayāmala Krama teachings are found in \[1\] the 2nd satka in the kalpa of Vīiryakālī (96v8-100r9), in \[2\] the 3rd in the consecutive avyapadeśyakālīvidhi, devīsvarūpanirūpaṇavidhi, and devīkramapaṭala (ff. 21516-22673), in \[3\] the 4th in the kālīkramavidhi (ff. 57v61v5), and the consecutive 
 
 sālambakramavidhibheda, nirālamba-kramapūjāvidhipaṭala, ādyayāgavidhikramārthapūjāpaṭala, and vīratāndava-vidhikramajṁānapaṭala (ff. 200v7-2008r6). Initiation before the mandala of the 13 Kālīs (1 + 12) is taught here in the kālīkramavidhipaṭala (ff. 57v61v5). It is this set of identical Kālīs that Viśvāvarta hymns in the last verse of his Tantrarājāvatārastotra, implying that the teachings of the Tantra culminate here.” 
 
-Krama teachings are central to Abhinava’s Kaulism, and the Mādhavakula was a major source of them. Ādyayāga, which is the centrepiece of Kaula ritual in Chapter Twenty-nine of the Tantrāloka, is drawn from there. As this is so, it is very significant that Abhinava hardly refers to Kālīkula Tantras. In one or two places where it appears that he does, the reference is uncertain. Even though independent Kālīkula Tantras had developed, he chooses to follow the Jayadrathayāmala. There we do find references to a ‘kulāgama’,’ 
+Krama teachings are central to Abhinava’s Kaulism, and the Mādhavakula was a major source of them. Ādyayāga, which is the centrepiece of Kaula ritual in Chapter Twenty-nine of the Tantrāloka, is drawn from there.[^1007] As this is so, it is very significant that Abhinava hardly refers to Kālīkula Tantras. In one or two places where it appears that he does, the reference is uncertain. Even though independent Kālīkula Tantras had developed, he chooses to follow the Jayadrathayāmala. There we do find references to a ‘kulāgama’,[^1008] 
 
-1004?\. See Dyczkowski 1988: 85 and 188 n 191.
+[^1004]: See Dyczkowski 1988: 85 and 188 n 191.
 
-1005?\. JY 4/4/38cd-42ab, translated below in Appendix A.
+[^1005]: JY 4/4/38cd-42ab, translated below in Appendix A.
 
-1006?\. See TĀv ad 4/173ab
+[^1006]: See TĀv ad 4/173ab
 
-1007?\. \[illegible\] See Appendix to TĀ 29 for a translation of passages from the JY concerning Ādiyāga and its auxiliary Anuyāga in the form of Navayāga.
+[^1007]: \[illegible\] See Appendix to TĀ 29 for a translation of passages from the JY concerning Ādiyāga and its auxiliary Anuyāga in the form of Navayāga.
 
-1008?\. See, for example, TĀ28/128b and TĀv ad 32/63.
+[^1008]: See, for example, TĀ28/128b and TĀv ad 32/63.
 
 
 *[p. 390]* ^pg403
 
-but a corpus of texts is not meant. Rather the word ‘Āāgama’ there has the more literal sense of ‘what has come (from the past)’ as tradition. The frequent references to the teachings of the Kālīkrama as oral tradition (mukhāgama) may be understood to sustain this view. The Jayadrathayāmala, which, along with the Brahmayāmala, is the earliest known Tantra centred on Kālī and Her many forms, belongs to a class of Bhairava Tantras of the \[illegible\] called ‘Matayāmala’, which were the precursors of the Kaula Tantras. As the CMSS declares: ‘the knowledge in the teacher’s mouth is obtained within the Mata’. An important form of Kālī of the Jayadrathayāmala is Mateśvarī, which supports the view that it was a Mata Tantra. This type of Bhairava Tantra stood at the threshold of the transition to Kula Tantras. As a precursor of them, it contains extensive passages concerning Kaula Kālī teachings. In this Appendix, one is translated in which initiation into the worship of these Kālīs is described. In the Appendices to Chapters Twelve and Twenty-nine, there are two more. The following Appendix contains a translation of a passage from the CMSS, which belongs to the same form of the early Kālīkrama as we find in the Jayadrathayāmala. 
+but a corpus of texts is not meant. Rather the word ‘Āāgama’ there has the more literal sense of ‘what has come (from the past)’ as tradition. The frequent references to the teachings of the Kālīkrama as oral tradition (mukhāgama) may be understood to sustain this view. The Jayadrathayāmala, which, along with the Brahmayāmala, is the earliest known Tantra centred on Kālī and Her many forms, belongs to a class of Bhairava Tantras of the \[illegible\] called ‘Matayāmala’, which were the precursors of the Kaula Tantras. As the CMSS declares: ‘the knowledge in the teacher’s mouth is obtained within the Mata’.[^1009] An important form of Kālī of the Jayadrathayāmala is Mateśvarī, which supports the view that it was a Mata Tantra. This type of Bhairava Tantra stood at the threshold of the transition to Kula Tantras. As a precursor of them, it contains extensive passages concerning Kaula Kālī teachings. In this Appendix, one is translated in which initiation into the worship of these Kālīs is described. In the Appendices to Chapters Twelve and Twenty-nine, there are two more. The following Appendix contains a translation of a passage from the CMSS, which belongs to the same form of the early Kālīkrama as we find in the Jayadrathayāmala. 
 
 The term ‘krama’ has multiple meanings. In the most basic literal sense, the word ‘krama’ means a ‘sequence’. In the context of ritual procedure, a krama is a liturgy. It is the sequence in which deities are worshipped through the utterance of Mantras and the corresponding ritual actions that accompany them. In this perspective, the Kālī- or Kālikā- krama is simply the rite through which Kālī, her forms and associated deities, are worshipped. Similarly, ‘krama’ may also denote the sequence of teachers. As such, it is the gurukrama, that is, the lineage through which the teachings are transmitted. By extension, the krama is also what is transmitted. In this sense, a ‘krama’ is the school or tradition in eneral. Thus, the Kālīkrama is Kālī’s tradition, just as the Śrīkrama is the Śrīvidyā tradition, and Anuttaratrikakulakrama is Abhinava’s Trika school, as well as what they teach. The krama is not only the entire teaching; it may also be a particular teaching that is transmitted through it or other schools. The Kālīkrama existed in this less developed form before it became consolidated as an independent school with its own Tantras. 
 
 Finally, from an ontological perspective, the term may be applied in a variety of ways to denote the sequence of metaphysical principles (tattvakrama), world-orders (bhuvanakrama), energies (kalākrama) and the like. In a more subtle perspective, the fabric of phenomenal existence is woven with the threads of the sequences of space and time (deśa- and kāla- krama). The common nomenclature implies that the sequence of the liturgy with its deities and the rest is more or less implicitly related to parallel ontological processes. These may be constituents of the inner equivalent of the liturgy — the pūjākrama, or the lineage and its teachings — the gurukrama. The permeability and equivalence of ‘inner’ and ‘outer’, particular and universal, micro- and macrocosm, fundamental to all forms of religion in India, is applied here to these identifications with outer phenomenal processes, which may be internalized in various degrees and modalities. The activities of the mind, senses, the vital breath and all else to do with the psychophysical body are governed and sustained by the deities of the 
 
-1009?\. CMSS 7/202cd.
+[^1009]: CMSS 7/202cd.
 
 
 *[p. 391]* ^pg404
@@ -87,69 +87,69 @@ Krama, as are outer objects. These are understood to be their fundamental nature
 
 Accordingly, the most fundamental and all-embracing process is that of the one reality and ultimate nature (svabhāva) of all things, which is consciousness. This is the Great Process — mahākrama — that is, the sequence of emanation (57) of phenomena from consciousness, their persistence (sthiti) within it, their withdrawal (sahāra) back into it, and the Inexplicable (anākhya) fourth condition that embraces all of them without being any of them. These four or analogous sets of four are multiplied by the first three to make twelve. The independent Krama Tantras teach how each one, consisting of an assembly of Kālīs, is worshipped in its own right. The worship of these assemblies (cakra) of Kālīs in this sequence came to be a standard model for the worship of Kālīs in various forms. This is what we find, for example, in the case of the worship of Guhyakālī, according to the Mahākālasarihitā, possibly redacted in the Kathmandu Valley in the in the 16\* century. Indeed, all the numerous Kālīs there are generally worshipped in this format. 
 
-Collectively, the three cycles of emanation and the rest are the Cycle of the Inexplicable ~ Anākhyacakra — and so is where they ultimately culminate and from which they arise. That this perspective is the original one is confirmed by the concluding statement relating to the last Kālī and so, by extension, to all of them ~ namely, that the last Kālī, who consumes and includes them all, is ‘the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays of the architect \[illegible\] of the three processes (of emanation, persistence and withdrawal).’'! This dynamic fundamental consciousness is identified in the later sources and by Abhinava as Saṁviddevī — the Goddess of Consciousness, an appellation hardly found in the Jayadrathayāmala. This is surprising because, out of the many names for consciousness in the primary sources, saṁvid is the standard one in the Jayadrathayāmala. It is also in the philosophy of the Pratyabhijñā, and was Abhinava’s favourite. It literally means ‘knowing completely or together’. It is a common term in idealist Buddhist sources, but generally not in non-Buddhist ones. In the Buddhist idealist context, the term ‘knowing together’ is particularly appropriate. Idealist Buddhism — the Yogācāra — maintains that the emptiness of pure consciousness is the one reality. The world of perceivers and perception is the domain of thought constructs. It is like a dream, in which we appear unknowing that we are dreaming, and disappears when we wake up. Where it came from and where it disappears, nobody can say. It existed, insofar as it is experienced, but it has no ontological existence — no ‘Being’; it is ‘empty’. But for as long as it appears, perceivers perceive their objects. The split between these two aspects of the momentary stream of perception is both the result and necessary attendant factor of the dream of existence, of which consciousness, as the stream of perception, is the reality of both ‘known together’. But while the term for consciousness may be the same, these Śaiva sources and the nondual philosophy that also 
+Collectively, the three cycles of emanation and the rest are the Cycle of the Inexplicable ~ Anākhyacakra — and so is where they ultimately culminate and from which they arise. That this perspective is the original one is confirmed by the concluding statement relating to the last Kālī and so, by extension, to all of them ~ namely, that the last Kālī, who consumes and includes them all, is ‘the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays of the architect \[illegible\] of the three processes (of emanation, persistence and withdrawal).’[^1010] This dynamic fundamental consciousness is identified in the later sources and by Abhinava as Saṁviddevī — the Goddess of Consciousness, an appellation hardly found in the Jayadrathayāmala. This is surprising because, out of the many names for consciousness in the primary sources, saṁvid is the standard one in the Jayadrathayāmala. It is also in the philosophy of the Pratyabhijñā, and was Abhinava’s favourite. It literally means ‘knowing completely or together’. It is a common term in idealist Buddhist sources, but generally not in non-Buddhist ones. In the Buddhist idealist context, the term ‘knowing together’ is particularly appropriate. Idealist Buddhism — the Yogācāra — maintains that the emptiness of pure consciousness is the one reality. The world of perceivers and perception is the domain of thought constructs. It is like a dream, in which we appear unknowing that we are dreaming, and disappears when we wake up. Where it came from and where it disappears, nobody can say. It existed, insofar as it is experienced, but it has no ontological existence — no ‘Being’; it is ‘empty’. But for as long as it appears, perceivers perceive their objects. The split between these two aspects of the momentary stream of perception is both the result and necessary attendant factor of the dream of existence, of which consciousness, as the stream of perception, is the reality of both ‘known together’. But while the term for consciousness may be the same, these Śaiva sources and the nondual philosophy that also 
 
-1010?\. This is part of the description of Mahābhairavacandograghorakālī, according to the Kramastotra by Erakanātha.
+[^1010]: This is part of the description of Mahābhairavacandograghorakālī, according to the Kramastotra by Erakanātha.
 
 
 *[p. 392]* ^pg405
 
 makes use of it consider the world, which shines with the Light of consciousness, to be no less real than it is. Accordingly, the Jayadrathayāmala, also making use of the common terminology developed centuries earlier in the Upaniṣads and elsewhere, refers to these aspects of consciousness as the ‘eater’ (bhoktr) and the ‘eaten’ (bhogya). These terms denote the perceiver who is engaged in experiencing the consequences of his Karma. In this view, the world may be deceptive and binding, but it is not unreal. 
 
-Appendix A is a translation of chapter four of the fourth ṣatka,” called kālīkramavidhi (ff. 57v61v5). It describes the circle of twelve Kālīs, with one in the centre from which they emanate, and into which they dissolve away. They are like thirteen suns. Again, the Twelve Kālīs are rays of the Sun, identified with the thirteenth Kālī in the centre. From another point of view, the twelve Kālīs are the one sun in twelve forms, changing every month. So there are two suns. One is in the centre, and another in twelve forms around the circumference. According to common belief in India, the sun in each of the twelve months of the year is a different sun. Accordingly, there are twelve suns, formed from the rays of the one sun from which they emanate, thereby marking and generating time. The months, characterized by the signs of the zodiac and in other ways, are, as Abhinava tells us, the rays of the Goddess in the domain of objectivity (TĀ 4/146cd), and so the time the Twelve Kālīs measure out and consume is that of the sun. Every three years, an extra month is added in order to keep the solar and lunar calendars synchronized. This is the thirteenth sun, from which the other twelve are said to be derived. In the JY, the centre is the lamp of Kālī, that shines illuming everything with its twelve rays, and so too itself. 
+Appendix A is a translation of chapter four of the fourth ṣatka,[^1011] called kālīkramavidhi (ff. 57v61v5). It describes the circle of twelve Kālīs, with one in the centre from which they emanate, and into which they dissolve away. They are like thirteen suns. Again, the Twelve Kālīs are rays of the Sun, identified with the thirteenth Kālī in the centre. From another point of view, the twelve Kālīs are the one sun in twelve forms, changing every month. So there are two suns. One is in the centre, and another in twelve forms around the circumference. According to common belief in India, the sun in each of the twelve months of the year is a different sun. Accordingly, there are twelve suns, formed from the rays of the one sun from which they emanate, thereby marking and generating time. The months, characterized by the signs of the zodiac and in other ways, are, as Abhinava tells us, the rays of the Goddess in the domain of objectivity (TĀ 4/146cd), and so the time the Twelve Kālīs measure out and consume is that of the sun. Every three years, an extra month is added in order to keep the solar and lunar calendars synchronized. This is the thirteenth sun, from which the other twelve are said to be derived. In the JY, the centre is the lamp of Kālī, that shines illuming everything with its twelve rays, and so too itself. 
 
 Analogously, the Seventeen Kālīs relates to the sixteen phases of the Moon in a lunar month. The seventeenth is Kālasaṁkarṣiṇī Kālī, who is ‘the pure digit of the Moon’ (TĀ 1/1) as the energy of the New Moon (amākalā). Her Mantra is made up of seventeen syllables. Each represented by a Kālī, sixteen of them surround Kālasaṁkarṣinṇī in the middle, just as the twelve Kālīs of the Sun surrounds the thirteenth, of which they are replicants. Accordingly, the texts commonly refer to the Twelve Kālīs as a single unit, describing the nature and activity of the assembly, and then refer to the ‘thirteenth’. The Twelve and the Thirteenth together represent major polarities — the former immanence and the latter transcendence. In this way, already in the early sources, the Twelve took on an extensive identity of their own, paving the way for Abhinava to eliminate the thirteenth in the centre. 
 
 Moreover, right from the start, they were associated with the dynamism of perception, and the senses through which it operates. The senses are at the periphery, and the sentient consciousness that illumines and absorbs them, in the centre. The former is immanent and the latter transcendent. Here, as we often find, the twelve are identified as the Kula of the deity, in this case the male Lord. This is a very important association, somewhat cryptically and yet clearly made in the following lines. It attests to the soundness of the interpretation of the Kālīs as phases in the cycle of perception that is central to Abhinava’s 
 
-1011?\. The fourth ṣaṭka is said to be especially concerned with the Kālīkrama, that is, the Anākhyakrama. The preceding three ṣaṭkas are concerned with emanation, persistence and destruction, respectively.
+[^1011]: The fourth ṣaṭka is said to be especially concerned with the Kālīkrama, that is, the Anākhyakrama. The preceding three ṣaṭkas are concerned with emanation, persistence and destruction, respectively.
 
 
 *[p. 393]* ^pg406
 
 exegesis. The twelve Kālīs that are the rays of the Sun of Consciousness are here the five types of sensory objects and their five ‘abodes’ — that is, the field of the senses, along with the Root of Kula and Sound, which is the ‘resonance’ of sensory perception. So, we read in the Kālikulavidhi: 
 
-“If the five rays (of the senses) within the Shining One (shine) within the fivefold nature (of their objects), then the one who is the Five Abodes (of the senses) transcends the five objects (artha). If the Wheel of Lakṣmī (i.e., Kālī) unfolds within the world, which is the root Kula within the abode of the objects of perception, then the Sound (of the supernal Sun) is well established. If the supreme mass of rays present in the twelve rays were to be emitted and differentiated properly, (the yogi) is then the Lord of Kula.” 
+“If the five rays (of the senses) within the Shining One (shine) within the fivefold nature (of their objects), then the one who is the Five Abodes (of the senses) transcends the five objects (artha). If the Wheel of Lakṣmī (i.e., Kālī) unfolds within the world, which is the root Kula within the abode of the objects of perception, then the Sound (of the supernal Sun) is well established. If the supreme mass of rays present in the twelve rays were to be emitted and differentiated properly, (the yogi) is then the Lord of Kula.”[^1012] 
 
 Whilst the texts are fairly uniform concerning the surrounding Twelve, the characterization and identification of the centre varies, although it is clear that all the variants are essentially the same. Broadly speaking, we observe two views. As the one in the centre and the twelve around it are polarities, it makes sense that we find that the Sun of Consciousness in the centre is male and the periphery female. In the text we are examining, the Supreme Sun (paramārka) in the centre is a male Sun called Ravi, Bhāskara or, less often, Sūrya. We shall see that when we get to the DP, the Centre is directly identified with Siva, although the text continues, as here, to talk about a Kālī in the centre which is more basic. Either way, the two are intimately related. The Sun in the centre is grounded in Kāli, its solar energy (bhānavī), and is the source of the Sun of the Twelve Kālīs 
 
 in the circumference. The latter are the aggregate, the ‘family’ ~ Kula ~ of its possessor ~ Kaula, which is the energy of the Sun ~ Kaulinī that transcends it, even as it is its source. Together they are ‘Mahākaula, that is located in Śiva, the Skyfarer. Free of thought constructs (7). The thirteenth in the centre is the Sun of Consciousness (cidarka) by whose, will the twelve Suns unfold. (3cd). In the centre, which is the Summit of all things, the goddess shines within the inner and outer processes (krama) of her own consciousness. So, we read concerning the Centre — the thirteenth — and its unfolding into twelve. Note how it is both the male Sun and the ultimate Kālī: 
 
-‘It is just the Sun, which is the expansion of the abode of the modalities (of consciousness) (vṛtti), that unfolds. It is twelve, and is located in the twelve, and it shines within (the reality) within the twelve. He is the leader of the Wheel of the Kālikās, and has no desire for the mass (kula) of rays of Mantra. They shine, radiant lights, by the division of the various rays. Their inner supreme radiant energy (dīpti) shines, differentiating (in various forms). I will tell (you) that process (krama) that has come down through the oral tradition. The thirteenth unfolds inlaid with the unfolding rays (of consciousness). "4 
+‘It is just the Sun, which is the expansion of the abode of the modalities (of consciousness) (vṛtti), that unfolds. It is twelve, and is located in the twelve, and it shines within (the reality) within the twelve. He is the leader of the Wheel of the Kālikās, and has no desire for the mass (kula) of rays of Mantra. They shine, radiant lights, by the division of the various rays. Their inner supreme radiant energy (dīpti) shines, differentiating (in various forms). I will tell (you) that process (krama) that has come down through the oral tradition. The thirteenth unfolds inlaid with the unfolding rays (of consciousness). "[^1013] 
 
 The text goes on to list the names of the Kālīs, with Mahābhairavakālī as the thirteenth. In the DP, she is called, as she is by Abhinava, Mahābhairavaghoracandakālī. Here she is Karaṁkinī, the Skeleton Goddess, 
 
-1012?\. JY 4/4/26cd-29ab.
+[^1012]: JY 4/4/26cd-29ab.
 
-1013?\. JY4/4/35-38ab
+[^1013]: JY4/4/35-38ab
 
 
 *[p. 394]* ^pg407
 
-‘present in each of the divisions.’ Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla \[illegible\] - Skeleton \[illegible\] The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’. In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
+‘present in each of the divisions.’[^1014] Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla \[illegible\] - Skeleton \[illegible\] The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’.[^1015] In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
 
-(kṛśodarī)." 
+(kṛśodarī).[^1016] 
 
 It is also called, as is the praxis, the Bhānavīkrama. Bhānavī is the goddess of the sun (bhānu). This is the teaching or tradition of the Bhānavīkula, also called Sūryakula in the CMSS (7/171-172). We find a reference to this krama in a verse of unidentified origin quoted by Jayaratha. He does this to make up for the absence of a specific reference to it by Abhinava, who certainly knew all this. However, the Krama he had inherited no longer focused on this association. Even so, he does not omit it entirely. Thus, he refers in the introduction to his concise presentation of the Twelve Kālīs in the Tantrāloka to their possible equation with the twelve signs of the zodiac, amongst others (TĀ 4/146cd). Even though he just mentions it in passing, it is very significant. Here, it is all in all, as the Wheel of the Inexplicable (anākhyacakra), that is, of the Twelve Kālīs. 
 
-She is also called Rāviṇī, Mahākālī in the centre, burning and pulsing radiantly.' She is the female counterpart of Ravi — the Sun. Her name can also be derived from rāva — meaning ‘sound’, the English cognate is ‘roar’. As such, it is said of her that ‘the assembly of fierce (deities) is frightened by the deep sound (of her) HUMKĀRA.’ She flashes forth the Fire that consumes the universe at the end of a cosmic age. Like the Vedic Fire, the resonance that accompanies Kālī’s luminosity is the source of all Mantras. 
+She is also called Rāviṇī, Mahākālī in the centre, burning and pulsing radiantly.[^1017] She is the female counterpart of Ravi — the Sun. Her name can also be derived from rāva — meaning ‘sound’, the English cognate is ‘roar’. As such, it is said of her that ‘the assembly of fierce (deities) is frightened by the deep sound (of her) HUMKĀRA.’ She flashes forth the Fire that consumes the universe at the end of a cosmic age. Like the Vedic Fire, the resonance that accompanies Kālī’s luminosity is the source of all Mantras. 
 
 This powerful solar symbolism may well seem strange. The dark goddess Kālī is naturally associated with the night. Indeed, her Vedic predecessor is Kālarātrī — the Dark Night ~ who is repeatedly identified with Kālasaṁkarṣiṇī in the Jayadrathayāmala. Accordingly, one would expect her to have a lunar nature. Indeed, this is so. As Kālasaṁkarṣinṇī, her seventeen syllable Vidyā is more amenable to identification with the Moon, especially the inner New Moon of the seventeenth digit. Here it is assimilated into the solar symbolism (Kālī). She is Bhāskarī, the energy of the Sun, which is associated 
 
-1014?\. pratibhedagatā saikā devadevī karaṁkinī JY 4/4/69ab.
+[^1014]: pratibhedagatā saikā devadevī karaṁkinī JY 4/4/69ab.
 
-1015?\. JY 4/4/84-86ab.
+[^1015]: JY 4/4/84-86ab.
 
-1016?\. See Dyczkowski 2009 vol. 2 p. 210-211 for a translation of the visualization and a drawing. See Appendix to Chapter Thirty for the visualized form of Kṛśodarī given in the Kālīkulakramakramārcana.
+[^1016]: See Dyczkowski 2009 vol. 2 p. 210-211 for a translation of the visualization and a drawing. See Appendix to Chapter Thirty for the visualized form of Kṛśodarī given in the Kālīkulakramakramārcana.
 
-1017?\. JY 4/4/49cd-54.
+[^1017]: JY 4/4/49cd-54.
 
 
 *[p. 395]* ^pg408
 
-with the digit of the New Moon (amākalā), and possesses its vivifying nectar.” Sometimes they are found both together, as happens in the Kramastotra.” We are told that the Thirteen Kālīs should be worshipped at the End of the Sixteen?" as the culmination of the lunar energy of Kālasaṁkarṣiṇī. 
+with the digit of the New Moon (amākalā), and possesses its vivifying nectar.[^1018] Sometimes they are found both together, as happens in the Kramastotra.[^1019] We are told that the Thirteen Kālīs should be worshipped at the End of the Sixteen[^1020] as the culmination of the lunar energy of Kālasaṁkarṣiṇī. 
 
-Kālasaṁkarṣiṇī is a major Kālī in the Jayadrathayāmala. The first ṣaṭka declares that it is dedicated to her. In the later Krama initiated by Sivānanda, she is the goddess of the Krama. Indeed, Abhinava must have known of the earlier form of the Krama prior to Śivānanda, for he mentions Kṛṣodarī once, in a citation he draws from the Mādhavakula.” In Kālasaṁkarṣiṇī’s Vidyā, she is addressed generically as Mahā-caṇndayogeśvarī — the Great and Fierce Mistress of Yoga.” Here and in the CMSS, the Kālī in the centre is never called Kālasaṁkarṣiṇī. Karaṁkinṇī is the Kālī in the centre of the Twelve Kālīs. She is also called Rāviṇī. The thirteenth Kālī listed with the names of the Kālīs is called Mahābhairavakālikā.” But whatever the name, we understand from internal references that her Vidyā is that of Kālasaṁkarṣiṇī. 
+Kālasaṁkarṣiṇī is a major Kālī in the Jayadrathayāmala. The first ṣaṭka declares that it is dedicated to her. In the later Krama initiated by Sivānanda, she is the goddess of the Krama. Indeed, Abhinava must have known of the earlier form of the Krama prior to Śivānanda, for he mentions Kṛṣodarī once, in a citation he draws from the Mādhavakula.[^1021] In Kālasaṁkarṣiṇī’s Vidyā, she is addressed generically as Mahā-caṇndayogeśvarī — the Great and Fierce Mistress of Yoga.[^1022] Here and in the CMSS, the Kālī in the centre is never called Kālasaṁkarṣiṇī. Karaṁkinṇī is the Kālī in the centre of the Twelve Kālīs. She is also called Rāviṇī. The thirteenth Kālī listed with the names of the Kālīs is called Mahābhairavakālikā.[^1023] But whatever the name, we understand from internal references that her Vidyā is that of Kālasaṁkarṣiṇī. 
 
 Although not common, we do find references elsewhere in the Jayadrathayāmala concerning these Kālīs in relation to Kālasaṁkarṣiṇī. While the link to her is not represented often, she is a pervasive presence throughout the Jayadrathayāmala, especially in the first ṣatka. We find another example of her association with the Kālīs in the following passage, drawn from the third ṣaṭka. Here as elsewhere, her luminosity and that of her cakra is strongly emphasized, and so, as a result, her associations with the Moon and Fire, as well as the Sun. 
 
@@ -159,45 +159,45 @@ Although not common, we do find references elsewhere in the Jayadrathayāmala co
 
 O greatly fortunate one! When that supreme energy (kalā) manifests, by virtue of which she knows what she knows, and the means by which she knows, 
 
-1018?\. \[illegible\] bhāskarīrūīpasaiyuktā hy amā cāmṛtasaṁyutā || JY 2/25/37cd
+[^1018]: \[illegible\] bhāskarīrūīpasaiyuktā hy amā cāmṛtasaṁyutā || JY 2/25/37cd
 
-1019?\. See below, the description of the twelfth Kāli.
+[^1019]: See below, the description of the twelfth Kāli.
 
-1020?\. DP 5/48cd-49.
+[^1020]: DP 5/48cd-49.
 
-1021?\. JY 4/20/194-195, quoted in TĀ 29/75cd-77. This chapter is called Tantrācāranirnaya. It has been translated in an Appendix to Chapter Twenty-nine.
+[^1021]: JY 4/20/194-195, quoted in TĀ 29/75cd-77. This chapter is called Tantrācāranirnaya. It has been translated in an Appendix to Chapter Twenty-nine.
 
-1022?\. See Appendix to Chapter Thirty. Abhinava calls her Caṇdayogeśvarī in chapter eight of his Tantroccaya. See passage quoted here at the beginning of the introduction to the Appendices.
+[^1022]: See Appendix to Chapter Thirty. Abhinava calls her Caṇdayogeśvarī in chapter eight of his Tantroccaya. See passage quoted here at the beginning of the introduction to the Appendices.
 
-1023?\. In the Kramastotra, both by Erakanātha and Abhinava (see below, Appendices E and F), she is called Mahābhairavaghoracandakālī. Clearly, ‘ghoracanda’ ‘terrible and fierce’ are adjectives.
+[^1023]: In the Kramastotra, both by Erakanātha and Abhinava (see below, Appendices E and F), she is called Mahābhairavaghoracandakālī. Clearly, ‘ghoracanda’ ‘terrible and fierce’ are adjectives.
 
 
 *[p. 396]* ^pg409
 
 is her body. If (the adept) is properly mounted there (on that plane), then that energy becomes manifest. Just as the sprout of birth arises (as the twelve Kālīs), it dissolves away (into the centre). Wherever he goes, if he is mounted on that, then (that) energy manifests. When the (Goddess of) Light (bhāsā), who destroys the Kula of the Sun (of the twelve Kālīs), is within the Sun, which is the Kula of (the energies of) Light (Bhāsākula), then that energy manifests (within it) as a burning fire. 
 
-If the one who consumes the Fire of Time is within the foundation of the Fire of Time, he too, the Lord of the Heroes, swallows (all things,) and then that energy manifests. If (he is present) in the abode of the Moon that has flowed forth from the Thousand Phonemes, then that energy manifests within the wonderfully varied Skeleton of Time. If the one who is called Birth (jātināmā) (?), who destroys all things, and brings the Kula to an end, is well established in that supreme womb, then that energy manifests. In the same way, he whose universe arises and falls away (while) he is content and located within the Kula (of the Kālīs), (then) that energy, which is his, manifests.’ ” 
+If the one who consumes the Fire of Time is within the foundation of the Fire of Time, he too, the Lord of the Heroes, swallows (all things,) and then that energy manifests. If (he is present) in the abode of the Moon that has flowed forth from the Thousand Phonemes, then that energy manifests within the wonderfully varied Skeleton of Time. If the one who is called Birth (jātināmā) (?), who destroys all things, and brings the Kula to an end, is well established in that supreme womb, then that energy manifests. In the same way, he whose universe arises and falls away (while) he is content and located within the Kula (of the Kālīs), (then) that energy, which is his, manifests.’ [^1024] 
 
-1024?\. kālasamkarṣaṇīcakre ṣodaśenduvirājite \[gh?: ṣodaśaśaṁidu-\] ॥ 42 ॥ trayodaśārkasandīpte \[g: -pto\] vahnitrayasamanvite \[gh: -teh\] | bhāsure \[gh: tā-\] bhāsurādhāre \[all except g: -dhāro\] tyāgagrāsakramākulaḥ \[g: yāga- 1॥ 43॥ sthitikālikramārūdhaḥ \[all MSs: -dho\] sṛṣtidhāmni \[k: vṛṣtidhāmni; gh: -dhāsni\] vijrńbhate । avatīrṇas tathā \[all MSs except gh: avatīnirṇa-\] rūpas tadā vyajyati sā kalā ॥ 44 ॥ 219a gh) trāsahāsabhayasparśakrodhaśokagṁāntare | sānande ‘tha \[g: va\] nirānande vyaktas tiṣthati susthiraḥ \[g: suṣthiraḥ\] ॥ 45 ॥ yadā tadā \[k: sadā\] mahābhāge vyajyate sā parā kalā | yato jānāti yad vetti yena jānāti tadvapuḥ \[g: yadva-\] ॥ 46 ॥ 286a g) tatrārūdho yadā samyak tadā 17 sā kalā | janmāṁkurasamutthānaṁi \[kh gh: janmārmikula-; g: -na\] yāto \[gh: yato\] jātaṁ \[k: jānta\] pralīyate ॥ 47 ॥ yatra \[illegible\] \[k: patra yānti, g: yatra jāti\] ca tadrūdho yadā vyajyet tadā kalā | 227b) yadā (> tadā) bhāsākule \[gh: ?\] bhānau bhāsā bhānukulāntakaḥ \[g: sānu-\] (> - kā) ॥ 48 ॥ jvalajjvalanasaṁsthityā \[kh: -jvālana; g: -jvalana\] tadā vyajyati sā kalā | yadā kālānalādhāre \[k: -narā-\] kālavahniprabhakṣakaḥ ॥ 49 ॥ so ‘pi \[g: sāpi\] grasati vīrendras tadā vyajyati sā kalā | 184b kh) yadā candrakulāvāse \[kh gh: candakulā-; g: ca kundalā-\] sahasrārṇavisarpite \[gh: -tai\] 50 ॥ vicitrakālakaṁikāle \[k: -la\] tadā vyajyati sā kalā | yadā sarvakṣayaṁkaro jātināma kulāntakṛt || 51 ॥ tadgarbhaparame rūdhas tadā vyajyati sā evam eva jagad yasya kṣayam eti hy udeti \[g \_h: hyadeti\] ca ॥ 52 ॥ so nivṛtaḥ \[k: nivṛtā; kh: -tto; gh: tivṛntā\] kulāntastho tasya \[k: nasya; g: ta \*\] vyajyati sā kalā | JY 3/57/42cd-453ab This passage is drawn from a chapter called devīsvarūpanirūpaṇavidhiḥ — ‘the manner of describing the goddess’s essential nature’. The colophon reads: iti bhairavasrotasi \[g: nāsti; gh: bhaira \* srotasi\] vidyāpīthe \[g: nāsti\] śiracchede \[g: nāsti\] jayadrathayāmale mahātantre \[g: nāsti\] caturviṁśatisāhasre \[g: nāsti\] tṛtīyaṣatke devīsvarūpanirūpanṇavidhir nāma paṭalaḥ \[kh: + ॥ 57 |\] ॥
+[^1024]: kālasamkarṣaṇīcakre ṣodaśenduvirājite \[gh?: ṣodaśaśaṁidu-\] ॥ 42 ॥ trayodaśārkasandīpte \[g: -pto\] vahnitrayasamanvite \[gh: -teh\] | bhāsure \[gh: tā-\] bhāsurādhāre \[all except g: -dhāro\] tyāgagrāsakramākulaḥ \[g: yāga- 1॥ 43॥ sthitikālikramārūdhaḥ \[all MSs: -dho\] sṛṣtidhāmni \[k: vṛṣtidhāmni; gh: -dhāsni\] vijrńbhate । avatīrṇas tathā \[all MSs except gh: avatīnirṇa-\] rūpas tadā vyajyati sā kalā ॥ 44 ॥ 219a gh) trāsahāsabhayasparśakrodhaśokagṁāntare | sānande ‘tha \[g: va\] nirānande vyaktas tiṣthati susthiraḥ \[g: suṣthiraḥ\] ॥ 45 ॥ yadā tadā \[k: sadā\] mahābhāge vyajyate sā parā kalā | yato jānāti yad vetti yena jānāti tadvapuḥ \[g: yadva-\] ॥ 46 ॥ 286a g) tatrārūdho yadā samyak tadā 17 sā kalā | janmāṁkurasamutthānaṁi \[kh gh: janmārmikula-; g: -na\] yāto \[gh: yato\] jātaṁ \[k: jānta\] pralīyate ॥ 47 ॥ yatra \[illegible\] \[k: patra yānti, g: yatra jāti\] ca tadrūdho yadā vyajyet tadā kalā | 227b) yadā (> tadā) bhāsākule \[gh: ?\] bhānau bhāsā bhānukulāntakaḥ \[g: sānu-\] (> - kā) ॥ 48 ॥ jvalajjvalanasaṁsthityā \[kh: -jvālana; g: -jvalana\] tadā vyajyati sā kalā | yadā kālānalādhāre \[k: -narā-\] kālavahniprabhakṣakaḥ ॥ 49 ॥ so ‘pi \[g: sāpi\] grasati vīrendras tadā vyajyati sā kalā | 184b kh) yadā candrakulāvāse \[kh gh: candakulā-; g: ca kundalā-\] sahasrārṇavisarpite \[gh: -tai\] 50 ॥ vicitrakālakaṁikāle \[k: -la\] tadā vyajyati sā kalā | yadā sarvakṣayaṁkaro jātināma kulāntakṛt || 51 ॥ tadgarbhaparame rūdhas tadā vyajyati sā evam eva jagad yasya kṣayam eti hy udeti \[g \_h: hyadeti\] ca ॥ 52 ॥ so nivṛtaḥ \[k: nivṛtā; kh: -tto; gh: tivṛntā\] kulāntastho tasya \[k: nasya; g: ta \*\] vyajyati sā kalā | JY 3/57/42cd-453ab This passage is drawn from a chapter called devīsvarūpanirūpaṇavidhiḥ — ‘the manner of describing the goddess’s essential nature’. The colophon reads: iti bhairavasrotasi \[g: nāsti; gh: bhaira \* srotasi\] vidyāpīthe \[g: nāsti\] śiracchede \[g: nāsti\] jayadrathayāmale mahātantre \[g: nāsti\] caturviṁśatisāhasre \[g: nāsti\] tṛtīyaṣatke devīsvarūpanirūpanṇavidhir nāma paṭalaḥ \[kh: + ॥ 57 |\] ॥
 
 
 *[p. 397]* ^pg410
 
 Kālasaṁkarṣiṇī is the Kālī related to the Trika goddesses in the syncretistic Trika Tantra, the Devyāyāmala. Although unfortunately lost, we know that this must have been so, as Abhinava quotes a passage from there 
 
-describing Kālasaṁkarṣinṇī. 
+describing Kālasaṁkarṣinṇī.[^1025] 
 
 Conversely, in the Krama sources, she is the 
 
-Supreme Goddess (Parā Devī).” Here we are examining the teachings of the Bhānavīkula. The developments we witness, that we will examine further ahead as we progress through from the Mādhavakula to the CMSS and then the DP, are taking place within that tradition. As the name of this Kula itself suggests, right from the very earliest Krama teachings, central to all three is the Supreme Sun, which is one’s own consciousness.” According to the JY, the Kālī in the centre is the Summit, who ‘shines with the mass of rays (of the light of the Sun). She who is within that is the Krama, divided into inner and outer.’ (JY 4/4/3) The inner Krama is that of the senses and mind (cf. ibid. 26cd-29ab). The outer is that of the worldly temporal order. As the Sun of Consciousness, it is the eternal Lamp of Kālī that shines illumining all things (6cd-9ab). Self-luminous, it does not require another lamp to illumine it. This Sun ‘vomits and devours’, creating and destroying in consonance with the rhythm of perception. 
+Supreme Goddess (Parā Devī).[^1026] Here we are examining the teachings of the Bhānavīkula. The developments we witness, that we will examine further ahead as we progress through from the Mādhavakula to the CMSS and then the DP, are taking place within that tradition. As the name of this Kula itself suggests, right from the very earliest Krama teachings, central to all three is the Supreme Sun, which is one’s own consciousness.[^1027] According to the JY, the Kālī in the centre is the Summit, who ‘shines with the mass of rays (of the light of the Sun). She who is within that is the Krama, divided into inner and outer.’ (JY 4/4/3) The inner Krama is that of the senses and mind (cf. ibid. 26cd-29ab). The outer is that of the worldly temporal order. As the Sun of Consciousness, it is the eternal Lamp of Kālī that shines illumining all things (6cd-9ab). Self-luminous, it does not require another lamp to illumine it. This Sun ‘vomits and devours’, creating and destroying in consonance with the rhythm of perception. 
 
 In all these accounts, we are presented with a range of expressions of polarities that work in consonance, emerge from one another and consume each other. Accordingly, the inner Sun is consonant with the outer physical sun. ‘The one who illumines the Sun (ravi) has emerged from the (physical) sun (sūrya). Ravi is the inner Sun that illumines all the universe.’ (12) The universe the Sun illumines consists of the Twelve Kālīs. As such it is the thirteenth. It is ‘the transcendental Sun of all worldly experience (bhoga) by which Kulākula (Śakti and Śiva) is enveloped, impelled and fashioned.’ It is the Fourth State of awakened consciousness (13cd-15ab). The Supreme Sun is one’s own consciousness, encompassed by the Wheel of Light — its Twelve Rays that, ever emergent from the Centre, destroy time, absorbing it into the Eternal Light of the centre. The elevated Kaula Yogi internalizes in this way his outer Mantra, and externalizes the inner mantra of realised consciousness, and so achieves oneness. This too is a paradox — that of stillness and the pulse (parispanda) within the pulse of the bliss of consciousness, experienced like an orgasm in the 
 
-1025?\. Note that in the great majority of cases in the printed edition of the Tantrāloka, the name is spelled Kālasaṁkarṣiṇī. This is the spelling in the Mahānayaprakāśa by Śitikantha (commentary on verse 6). However, in the manuscripts of the JY, the spelling is Kālasaṁkarṣanī, as it is in the Mahānayaprakāśa of Arṇasiṁha (verse 210). We also find this spelling occasionally in some manuscripts of the Tantrāloka. Both spellings are grammatically correct. We find that spellings of some proper names may be inconsistent in this way. Another example is a text Abhinava cites that he himself spells in two ways ~ Yogasarhicara and Yogasarhicāra. In that case, the variant may due to metrical considerations. Although the spelling Kālasaṁkarṣanī is common in the original sources, the spelling in the Tantrāloka and commentary has been standardized to Kālasaṁkarṣinī, as we find in the printed edition.
+[^1025]: Note that in the great majority of cases in the printed edition of the Tantrāloka, the name is spelled Kālasaṁkarṣiṇī. This is the spelling in the Mahānayaprakāśa by Śitikantha (commentary on verse 6). However, in the manuscripts of the JY, the spelling is Kālasaṁkarṣanī, as it is in the Mahānayaprakāśa of Arṇasiṁha (verse 210). We also find this spelling occasionally in some manuscripts of the Tantrāloka. Both spellings are grammatically correct. We find that spellings of some proper names may be inconsistent in this way. Another example is a text Abhinava cites that he himself spells in two ways ~ Yogasarhicara and Yogasarhicāra. In that case, the variant may due to metrical considerations. Although the spelling Kālasaṁkarṣanī is common in the original sources, the spelling in the Tantrāloka and commentary has been standardized to Kālasaṁkarṣinī, as we find in the printed edition.
 
-1026?\. \[illegible\] MNP Śitikaṇtha commentary verse six: parā devī kālasaikarṣinī.
+[^1026]: \[illegible\] MNP Śitikaṇtha commentary verse six: parā devī kālasaikarṣinī.
 
-1027?\. JY 4/4/15cd.
+[^1027]: JY 4/4/15cd.
 
 
 *[p. 398]* ^pg411
@@ -212,9 +212,9 @@ The worship of Karaṅkinī, the thirteenth Kālī, along with the others is ver
 
 The Kaula offerings listed here (in the Maādhavakula) even include human flesh (69cd). An interesting feature of the animal sacrifice described here (69cd-73ab) is that the Guru who is making the offering on the behalf of his disciples should vomit. In this way, he replicates the manner the Goddess Vāmā is said to emit the universe. Another passage in the Mādhavakula discusses the offerings at length. This has been put in the Appendix to Chapter Twelve. There Abhinava focus on one of his favourite themes concerning Kaula practice, which also frequently recurs in the sources, namely, the overcoming of inhibition or doubts \[illegible\] with regards to their use. According to Abhinava, this entails the Śāktopāya practice of purification of thought (vikalpasaṁskāra). Free of conceptualization, the officiant enters into the Sambhava state in which, with these barriers removed, he identifies with the deity - Bhairava. Finally, we note that, as one would expect, initiation takes place by a process of possession (āveśa). This can be immediate for the more advanced disciple, or gradual for one who is less so. The first takes place solely by the power of the teacher’s intense gaze. The latter by the same gaze, but with the support of fire offerings and mantra. 
 
-It is a notable fact that Abhinava has chosen to omit the rites associated with these Kālīs, although the Ādiyāga he presents as the core of the Kaula ritual of Chapter Twenty-nine is drawn from the Mādhavakula.” One wonders why 
+It is a notable fact that Abhinava has chosen to omit the rites associated with these Kālīs, although the Ādiyāga he presents as the core of the Kaula ritual of Chapter Twenty-nine is drawn from the Mādhavakula.[^1028] One wonders why 
 
-1028?\. \[illegible\] We have noted that there is an allusion to sexual practice here. We shall see that the worship and experience of the Kālīs as phases of the cognitive cycle is explicitly related to sex and the pleasure of the ingestion of meat and the inebriation of wine, in one of the three Mahānayaprakāśas (see below, the last Appendix).
+[^1028]: \[illegible\] We have noted that there is an allusion to sexual practice here. We shall see that the worship and experience of the Kālīs as phases of the cognitive cycle is explicitly related to sex and the pleasure of the ingestion of meat and the inebriation of wine, in one of the three Mahānayaprakāśas (see below, the last Appendix).
 
 
 *[p. 399]* ^pg412
@@ -231,16 +231,16 @@ Arimalla, that is, in the 11" century, and was a priest at the well-known Paśup
 
 Chapter Four of the Mādhavakula, the Fourth \[illegible\] of the Jayadrathayāmala, 
 
-Called the Kālīkramavidhipatala,” Which Teaches 
+Called the Kālīkramavidhipatala,[^1030] Which Teaches 
 
 the Initiation in Front of the mandala of the Thirteen Kālīs. 
 
-67b) Vevar śrutvā bhagavatī haravaktrāmbujādbhutam |
+67b) [^1031]evar śrutvā bhagavatī haravaktrāmbujādbhutam |
 prāha prasannagaṁbhīraṁ punar eva śivaṁ vacam \[k, g: vaca; kh: vacaḥ\] ॥ 1 ॥
 śrīdevyuvāca tṛptāsmi bhagavan samyag jñātaṁ tat paramaṁ padam |
 mayā tava prasādena sarveśvara maheśvara || 2 ||
 adhunā śrotum icchāmi kamkālākhyami kulārṇavam \[k: -va\] |
-yatra sā kālikā devī cidakkocchā (>cidarkkecchā) vijrńbhate ॥ 3 I 8lb g) 
+yatra sā kālikā devī cidakkocchā (>cidarkkecchā) vijrńbhate ॥ 3 I[^1032] 8lb g) 
 
 śekharādhasthitā \[illegible\] -rā kh: 
 
@@ -250,11 +250,11 @@ etad icchāmi bhagavan jṁñātuṁ suravarārcitam |
 68a) evam ākarṇya devendraḥ \[g: devendro\] prāśya paicāmṛtari kulam || 5 I|
 cidarkar \[kh: vidakām\] śekharīkṛtya uvāca paramaṁ mahat | 
 
-1030?\. JY ṣaṭka 4 MSs K: 67b - 73a and G: 819 - 87a.
+[^1030]: JY ṣaṭka 4 MSs K: 67b - 73a and G: 819 - 87a.
 
-1031?\. \[illegible\] Manuscripts do not distinguish between the letter ‘b’ and ‘v’. I silently read b for v where required. Often the manuscripts, depending on the scribe, read ausvāra for ‘m’ or ‘m’. This too I silently standardise.
+[^1031]: \[illegible\] Manuscripts do not distinguish between the letter ‘b’ and ‘v’. I silently read b for v where required. Often the manuscripts, depending on the scribe, read ausvāra for ‘m’ or ‘m’. This too I silently standardise.
 
-1032?\. MS g: unclear up to here.
+[^1032]: MS g: unclear up to here.
 
 
 *[p. 401]* ^pg414
@@ -263,9 +263,9 @@ Once the Goddess had heard in this way the astonishing (teaching that had come f
 
 The venerable Goddess said: 
 
-O Lord! Lord of All! Maheśvara! I am satisfied, (now) I have known that supreme plane by your grace. Now I wish to hear the ocean of Kula called Kaṁkāla (the Skeleton), where that goddess \[illegible\] the will of the Sun of Consciousness (cidarka), unfolds. She who is above on (its) Summit, and shines with the mass of rays (of the light of the Sun), is she who, within that, is the Krama, divided into inner and outer. O Lord, I wish to know that, worshipped as it is by the most excellent gods. 
+O Lord! Lord of All! Maheśvara! I am satisfied, (now) I have known that supreme plane by your grace. Now I wish to hear the ocean of Kula called Kaṁkāla (the Skeleton), where that goddess \[illegible\][^1033] the will of the Sun of Consciousness (cidarka), unfolds. She who is above on (its) Summit, and shines with the mass of rays (of the light of the Sun), is she who, within that, is the Krama, divided into inner and outer. O Lord, I wish to know that, worshipped as it is by the most excellent gods. 
 
-Once the King of the gods had heard this and consumed the Kaula sacrificial substance (kula) consisting of the Five Jewels,” and having placed the supreme and great Sun of Consciousness on the Peak (of his head), spoke. (2-6ab) 
+Once the King of the gods had heard this and consumed the Kaula sacrificial substance (kula) consisting of the Five Jewels,[^1034] and having placed the supreme and great Sun of Consciousness on the Peak (of his head), spoke. (2-6ab) 
 
 srībhairava uvāca śṛnuṣva kathayiṣyāmi rahasyam idam uttamaṁ \[g: \* \* \*(?)J || 6 ॥
 puṣthibhūtaṁ \[k, kh: mu-; g: (?)\] mahākaulai khecare ‘vasthitan bhavet \[k: haret kh, g: ha \* t\] |
@@ -282,18 +282,18 @@ Listen. 1 will tell (you) this most excellent secret, which is prosperity, namel
 
 sa ravir bhāsurādhāras tadādhārā \[g: (?)\] hi \[g: (?)\] kālikā ॥ 9 ॥ 
 
-1033?\. \[illegible\] link to the Ocean of Kula is stated by referring to her in this line of the Kālīkrama as Kaṁkālakālī (Skeleton Kālī). Here she is called Karaṁkinī, (Skeleton) and Rāviṇī (Roaring One). Other names are Kṛśā (Emaciated), Kṛśodarī (Emaciated Stomach) and Suśkā (Dried Out).
+[^1033]: \[illegible\] link to the Ocean of Kula is stated by referring to her in this line of the Kālīkrama as Kaṁkālakālī (Skeleton Kālī). Here she is called Karaṁkinī, (Skeleton) and Rāviṇī (Roaring One). Other names are Kṛśā (Emaciated), Kṛśodarī (Emaciated Stomach) and Suśkā (Dried Out).
 
-1034?\. \[illegible\] The Five Jewels are feces, urine, spittle, menstrual blood and sperm. Kubjikā in her aged, Kālī-like form is also said to eat these five Kaula substances.
+[^1034]: \[illegible\] The Five Jewels are feces, urine, spittle, menstrual blood and sperm. Kubjikā in her aged, Kālī-like form is also said to eat these five Kaula substances.
 
 
 *[p. 402]* ^pg415
 
-sadāre \[g: ṣa spokes[^1035] \*(?)\] vipulādhāraḥ \[g: (?)\] ṣodaśoddyotasannibhā \[g: devours.[^1036] Sun[^1037] \*(?) dyota\] |
+sadāre \[g: ṣa spokes \*(?)\] vipulādhāraḥ \[g: (?)\] ṣodaśoddyotasannibhā \[g: devours. Sun \*(?) dyota\] |
 sphurad vamanasaṁgrāsarāvikī sṛṣtikārikā || 10 ॥
-sa ravir devatākāraḥ \[g: sa ravi Bhairavas.[^1038] \* \* + \*(?)\] ravir eva \[g: (?)\] tadākṛtiḥ \[g: 11 
+sa ravir devatākāraḥ \[g: sa ravi Bhairavas. \* \* + \*(?)\] ravir eva \[g: (?)\] tadākṛtiḥ \[g: 11 
 
-That is the Sun, which has as (its) foundation the Shining One, the foundation of which is Kālikā. The extensive foundation within (the Wheel of) six spokes% that is like (the Goddess of) Sixteen Lights who, flashing forth, brings about the emanation of the Sun that vomits and devours.” That Sun” is the form of the deity. The Sun itself is its (physical) form. (lab) 
+That is the Sun, which has as (its) foundation the Shining One, the foundation of which is Kālikā. The extensive foundation within (the Wheel of) six spokes[^1035] that is like (the Goddess of) Sixteen Lights who, flashing forth, brings about the emanation of the Sun that vomits and devours.[^1036] That Sun[^1037] is the form of the deity. The Sun itself is its (physical) form. (lab) 
 
 ravi (>raviḥ) pradīpako \[g: (?)\] loke \[g: (?)\] sūryamadhyāt \[kh, g: (?)\] samutthitaḥ \[kh: (?)\] ॥ 11 ॥
 ravirantargato bhānur bhāmayaṁty (CMSS > bhāsayaty) akhilaṁ jagat । \[kh: (2 bhānavī kaulinī yā sā tatpuṁjabharitaṁ \[g: puṁhja \* \* \*(?)\] jagat (8. (211 ॥ 12 ॥
@@ -305,15 +305,18 @@ sarvāvaraṇanirmukte sarvabhogātibhāskaraḥ |
 68b) āvṛtari prāvṛtaṁ yena racita ca kulākulam ॥ 14 ||
 sa raviḥ sūryaturyāṁte bhrājate raudradāmare | 
 
-The Sun (ravi) (of the Twelve Kālis) that is the illumining Light in the world has emerged from the middle of the Sun (sūrya) (in the centre). Within the Sun (of the Twelve Kālīs) (ravi) is the Sun (bhānu), that illumines all the universe. The universe is filled with the network (of the rays of energy that emanate from) her, she who is Bhānavī Kaulinī (the Kaulinī of the Sun in the centre). The great mantras that have arisen there are the wombs (yoni) of the eight times eight Bhairavas.” (1 1cd-13ab) 
+The Sun (ravi) (of the Twelve Kālis) that is the illumining Light in the world has emerged from the middle of the Sun (sūrya) (in the centre). Within the Sun (of the Twelve Kālīs) (ravi) is the Sun (bhānu), that illumines all the universe. The universe is filled with the network (of the rays of energy that emanate from) her, she who is Bhānavī Kaulinī (the Kaulinī of the Sun in the centre). The great mantras that have arisen there are the wombs (yoni) of the eight times eight Bhairavas.[^1038] (1 1cd-13ab) 
 
 (The transcendental) Sun (bhāskara) beyond all worldly experience (bhoga), by which Kulākula is enveloped, impelled and fashioned, does not (shine) by means of the Light in the Sky. Free of all (obscuring) coverings, (that Light) is not that of either, and (yet) is not devoid of either. That is the Sun (ravi) that shines within the Raudradāmara, within the Sun, that is the Fourth State. (13cd-15ab) 
 
 svasarvit \[kh: \*(? )saṁvit\] paramāditya (> -tyo) nityoditamarīcibhiḥ ॥ 15 ॥ 
 
 [^1035]: Assuming the symbolism has persisted up to Abhinava, we can understand ṣadāracakra to be the hexagon that represents the union of male and female organs. If I have understood correctly, the text is saying that the cycle of the assembly of Kālīs operates in the course of this union. Certainly, later sources attest to this practice.
+
 [^1036]: Perhaps the text is alluding here to the seventeen syllable Vidyā of Kālasaṁkarṣiṇī, of which the seventeenth syllable, emanated by the first sixteen, is the source of the Sun of the Kālīs.
+
 [^1037]: The Sun with its twelve rays is Kālī in her thirteen forms. Even so, the word for ‘Sun’ is masculine.
+
 [^1038]: These two verses are reproduced CMSS 7/166-167. See below for an edition and translation of the whole passage.
 
 *[p. 403]* ^pg416
@@ -333,7 +336,7 @@ cidānamdaparispadagarbhasthaspaidarūpayā ॥ 19 ॥
 vyāptā (.> vyāptyā) paramayā bhāti ṣadadhvāvaraṇārtige (> -varanāntage) |
 satvasatvāṁtarāma tyāgālamve bhave nave || 20 ॥ 
 
-Knowledge, the object of knowledge and the knower, and the abode which is like the womb of cognition (jñapti) — (it all) dissolves away in the Supreme Abode (which is the ultimate reality) Devoid of Ego (nirahaṁkāra). It shines in the form of the pulse (parispanda) within the womb of the intense pulsation of the bliss of consciousness as the supreme (state of) pervasion within that which is at the extremity of (or ‘within’) the enclosure of the Six Paths, in between Being and Nonbeing, within phenomenal existence (consisting of) abandonment, and taking the support (of things). (18cd-20) 
+Knowledge, the object of knowledge and the knower, and the abode which is like the womb of cognition (jñapti) — (it all) dissolves away in the Supreme Abode (which is the ultimate reality) Devoid of Ego (nirahaṁkāra). It shines in the form of the pulse (parispanda) within the womb of the intense pulsation of the bliss of consciousness as the supreme (state of) pervasion within that which is at the extremity of (or ‘within’) the enclosure of the Six Paths, in between Being and Nonbeing, within phenomenal existence (consisting of) abandonment, and taking the support (of things).[^1039] (18cd-20) 
 
 saṁyogo ghorasahsāramūlanirmathanakṣamaḥ |
 ātmamadhye kham ādāya ātmā caiva (> ātmānari ca) khamadhyataḥ ॥ 21 ॥
@@ -341,11 +344,11 @@ khātmanor ekadhā yogā (> yogād) na \[illegible\] avaśiṣyate |
 antastejo vahistejā \[kh: -tejah; g: -tejo\] sarvābhāso nirāmayaḥ ॥ 22 ॥
 58a kh) sīmayaṁ kāyagahana madhyamari karpara tyajet | 
 
-Union (saṁyoga) can churn (and destroy the very) root of (this) terrible transmigratory existence, having taken up the Sky in the centre of the Self and the Self in the middle of the Sky.\*' By uniting the Sky and the Self (just) once, nothing (else) remains. The inner radiant energy (tejas) and the outer one, the light of all things, devoid of imperfection, should abandon the middle bowl (karpara) (?), which is the abyss of the diseased (sāmaya) body. (21-23ab) 
+Union (saṁyoga) can churn (and destroy the very) root of (this) terrible transmigratory existence, having taken up the Sky in the centre of the Self and the Self in the middle of the Sky.[^1040] By uniting the Sky and the Self (just) once, nothing (else) remains. The inner radiant energy (tejas) and the outer one, the light of all things, devoid of imperfection, should abandon the middle bowl (karpara) (?), which is the abyss of the diseased (sāmaya) body. (21-23ab) 
 
-1039?\. The MSs read satvasatvārtarāma tyāgālamve bhave nave. This makes no sense. I have very tentatively emended to satvāsatvāntare nāma tyāgālambe bhave ca vai |
+[^1039]: The MSs read satvasatvārtarāma tyāgālamve bhave nave. This makes no sense. I have very tentatively emended to satvāsatvāntare nāma tyāgālambe bhave ca vai |
 
-1040?\. In other words, the Void in the Self and the Self in the Void.
+[^1040]: In other words, the Void in the Self and the Self in the Void.
 
 
 *[p. 404]* ^pg417
@@ -384,17 +387,17 @@ tatra raśmikulākrāmī tadā khecarabhāg \[k: ce \* ra, kh: ce \* (2); g: cer
 dṛgadaśsīḥ (> -drgdarśī) dṛgantarānto (k, kh, g: dṛganartānto) dṛśyadṛṣṭo virājate ॥ 31 ॥
 na dṛdgādṛdga vā draṣtā \[illegible\] raśmikuleśvaraḥ | 
 
-Free of phenomenal fettered existence, enjoying the inner rays of phenomenal fettered existence,” (the yogi) is then the Lord of Kula. Established as a Skyfarer, his nature the Sky, the Sky of the sky. Undivided, entering there into the mass (kula) of rays, he is then endowed with (the state of a) Skyfarer, and the perceiver of perception. Within the inside of perception, the object of perception perceived, shines. The perceiver, who is neither perception nor its absence (dṛdgādṛdga vā ?) is then the Lord of the mass of rays (raśmikula). (29cd-32ab) 
+Free of phenomenal fettered existence, enjoying the inner rays of phenomenal fettered existence,[^1042] (the yogi) is then the Lord of Kula. Established as a Skyfarer, his nature the Sky, the Sky of the sky. Undivided, entering there into the mass (kula) of rays, he is then endowed with (the state of a) Skyfarer, and the perceiver of perception. Within the inside of perception, the object of perception perceived, shines. The perceiver, who is neither perception nor its absence (dṛdgādṛdga vā ?) is then the Lord of the mass of rays (raśmikula). (29cd-32ab) 
 
 69b) 83a g) abhogabhogasaṁbhogī bhogabhogāgraguhyeśaḥ \[g: bhogaṁ-\] ॥ 32
 ॥
-bhogapimdāmtako tada[^1042] tathā kālikramāgranī |
-subhāsā lāsate bhāsyaṁi bhāsyaṁṁ bhāsati tadgatam \[g: tada[^1043] tarn\] | 33 ॥
+bhogapimdāmtako tada tathā kālikramāgranī |
+subhāsā lāsate bhāsyaṁi bhāsyaṁṁ bhāsati tadgatam \[g: tada tarn\] | 33 ॥
 yasya bhāsyaṁ navābhāsā raśminātho hy asau smṛtaḥ \\\[kh: (?)\]) 
 
 maṁdirar \[kh: (?)\] maṁdire līno maṁdiro maṁdirārmtagaḥ ॥ 34 ॥ 
 
-(The Siddha who is the Lord of Kula) experiences (both) worldly experience and its absence. He is the Lord, the secret (reality) which is the foremost experience of worldly experience. Embodied, he brings about the end of the body of worldly experience, and in that way is foremost in the Kālīkrama. (The goddess, who is) beautiful light, dances (the dance of) the object of illumination and illumines the object of illumination present within it. He whose object of illumination is the Nine Lights“ is said to be He who is the Lord of the Rays. The temple (of the Siddha’s identity) is merged within the temple (of the goddess’s identity), and (so) the temple is within the temple. (32cd-34) 
+(The Siddha who is the Lord of Kula) experiences (both) worldly experience and its absence. He is the Lord, the secret (reality) which is the foremost experience of worldly experience. Embodied, he brings about the end of the body of worldly experience, and in that way is foremost in the Kālīkrama. (The goddess, who is) beautiful light, dances (the dance of) the object of illumination and illumines the object of illumination present within it. He whose object of illumination is the Nine Lights[^1043] is said to be He who is the Lord of the Rays. The temple (of the Siddha’s identity) is merged within the temple (of the goddess’s identity), and (so) the temple is within the temple. (32cd-34) 
 
 The Thirteen Kālīs of the Supreme Sun 
 
@@ -409,6 +412,7 @@ pronmiṣadraśmikhacitau jṛhbhaty eva daśatrikam |
 It is just the Sun, which is the expansion of the abode of the modalities (of consciousness) (vṛtti), that unfolds. It is twelve, and is located in the twelve, and it shines within (the reality) within the twelve. He is the leader of the Wheel 
 
 [^1042]: The manuscripts read mayā vipātalavyagras; clearly this reading is too corrupt for me to emend.
+
 [^1043]: Perhaps these lights are the syllables of the nine-syllable Vidyā of Kālasaṁkarṣiṇī that is, KHPHREM MAHACANDAYOGEŚVARI.
 
 *[p. 406]* ^pg419
@@ -430,18 +434,18 @@ paramārkaprabhāśānta (> -prabhāsāntāh) sphuratsmaraṇadīpitāḥ ॥ 42
 bhārūpā paramā kālī kālayantī \[k, g: kārayaritī\] jagatsthitā |
 ekadhā triprakārā sā tridhā sā turyagā smṛtā ॥ 43 ॥ 
 
-parcadhā caiva ṣodhā ca saptāṣtanavadhā \[g: -na twelvefold.[^1044] dhā\] smṛtā \[k, g: -tāḥ\] |
+parcadhā caiva ṣodhā ca saptāṣtanavadhā \[g: -na twelvefold. dhā\] smṛtā \[k, g: -tāḥ\] |
 daśaikā \[g: -kāṁ\] daśadhā \[g: daśadhā\] devi tathā dvādaśadhā priye ॥ 44 ॥
 trayodaśavibhedena grasate sacarācaram |
 tenaiṣā kālikā jñeyā tasyā maṁtraṁ śṛnuṣva me || 45 || 
 
-(They are all) within the light of the Supreme Sun, energized by the flashing pulse of recollection. The form of the supreme Kālī is light; she abides in the universe, generating time. Once (i.e., single), of three kinds, she is threefold and said to be in the four. She is fivefold, sixfold, and considered to be seven, eight and ninefold. She is eleven, tenfold and so too, O beloved, twelvefold.“ Divided into thirteen, she devours the mobile and immobile 
+(They are all) within the light of the Supreme Sun, energized by the flashing pulse of recollection. The form of the supreme Kālī is light; she abides in the universe, generating time. Once (i.e., single), of three kinds, she is threefold and said to be in the four. She is fivefold, sixfold, and considered to be seven, eight and ninefold. She is eleven, tenfold and so too, O beloved, twelvefold.[^1044] Divided into thirteen, she devours the mobile and immobile 
 
 [^1044]: These numbers denote the serial emergence of the Kālīs. Kālī emerges by a process called ‘kalana’, a term that has several meanings, one of which is ‘enumeration’ (saṁkhyāyana). See TĀ 4/173cd-175.
 
 *[p. 407]* ^pg420
 
-(universe). Thus, she should be known to be Kālikā. Now listen to her mantra from me.“ (42cd-44) 
+(universe). Thus, she should be known to be Kālikā. Now listen to her mantra from me.[^1045] (42cd-44) 
 
 Rāviṇī 
 
@@ -472,7 +476,7 @@ mahātaraṇi mudraughakeśarī \[kh: keśurī; g: keśu \*(?)\] kṛta \[illegi
 
 (She is Karaṅkinī,) a voracious Bhairavī (engaged in) devouring Ananta and the rest of the Lords of the Nāgas (at the base of the universe, to go on to 
 
-1045?\. The pinda mantra of Kūteśvarīcakra (i.e. the assembly of thirteen Kālīs) is extracted next in code. This is KHPHREM. The mantras of the Kālīs all begin with this syllable (pinda) followed by the name of the Kālī in the dative and the salutation NAMAH.
+[^1045]: The pinda mantra of Kūteśvarīcakra (i.e. the assembly of thirteen Kālīs) is extracted next in code. This is KHPHREM. The mantras of the Kālīs all begin with this syllable (pinda) followed by the name of the Kālī in the dative and the salutation NAMAH.
 
 
 *[p. 408]* ^pg421
@@ -487,7 +491,7 @@ nīpatītatvagrāvāra kṛtārabhaṭibhairavām || 61 ॥
 
 (Her) great (third) eye throbs radiantly above (on her forehead), its form burning with fire. She is the abyss of the Egg of Māyā, that pulses radiantly by the striking together of the severed heads and arms she wears as a garland of hundreds of skeletons; voracious, (she invades) all the assemblies (cakra) of 
 
-deities (?).” (59cd-61) 
+deities (?).[^1046] (59cd-61) 
 
 viśvakṣayakaroccamdabhrūkṣepodbhāsitānanām |
 sahasakālamuṁdaughakṛtatripurabhairavīm || 62 ॥
@@ -503,7 +507,7 @@ brahmakamikālasadvīṇāvādanaikavinodinām \[kh, g: -tāmn\] ॥ 65 ॥
 aśeṣadevatācakrakramākramaṇaghasmarām \[kh: kramā krama-; g: kramā kra \* nagha-\] |
 nipitatva gamādhāna bhairaveśānabhāsakām ॥ 66 ॥ 
 
-1046?\. Line 6lcd is so corrupt it is unintelligible.
+[^1046]: Line 6lcd is so corrupt it is unintelligible.
 
 
 *[p. 409]* ^pg422
@@ -514,7 +518,7 @@ dhyātvā svadhāmni vitato pūjanīyātha \[kh: (?)\] maṁhdale |
 tadvad evya (> devyaḥ) prapūjye va (> prapūjyāś ca) dhyeyāḥ sarvā yathārthavat \[kh, g: sarvā ya-\] || 68 ॥
 pratibhedagatā saikā devadevī \[illegible\] | 
 
-(Her) body shines (like that of) Nārāyaṇa, she who is the enemy of the garland of great ghosts (?).[^1048] Her one pastime is playing the good vīṇā made of Brahma’s skeleton. Voraciously greedy to invade the sequence of cycles of all the deities \* \* ++ she illumines the Lord Bhairava. All the Lords and Bhairavas adorn (her) body and ears. Emitting (the universe) because the moment of destruction is clearly manifest, she delights in the wonderful variety of (her) dance. 
+(Her) body shines (like that of) Nārāyaṇa, she who is the enemy of the garland of great ghosts (?). Her one pastime is playing the good vīṇā made of Brahma’s skeleton. Voraciously greedy to invade the sequence of cycles of all the deities \* \* \*,[^1048] she illumines the Lord Bhairava. All the Lords and Bhairavas adorn (her) body and ears. Emitting (the universe) because the moment of destruction is clearly manifest, she delights in the wonderful variety of (her) dance. 
 
 Having visualized her extensively in her own abode, she should be worshipped in (her) mandala. The goddesses should be worshipped in the same way. They should all be visualized in accord with (one’s) purpose (yathārtha). Present in each variety, she is Karaṅkiṇī, the one goddess of the gods. (65-69ab) 
 
@@ -610,7 +614,7 @@ The teacher who has mastered the Krama should gaze upon (his disciple) in this w
 
 *[p. 412]* ^pg425
 
-whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union (sāyujya) (with the deity) (This will surely be so;) my word is not false! (89-91ab) 
+whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union (sāyujya) (with the deity)[^1050] (This will surely be so;) my word is not false! (89-91ab) 
 
 anukrame yadā śaktaḥ \[g: śakto\] kuryād vā vyavahārakam || 91 ॥
 yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma \[illegible\] ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
@@ -639,7 +643,7 @@ Success will come in six months by means of this practice, O goddess of the gods
 evar rahasyam \[g: raha + m\] ākhyātaṁi suguptaṁ kālikākramaṁi ॥ 99 ॥
 kathanīyam na caiveha śiṣye mamidaparīkṣite | 
 
-1050?\. Tf the disciple cannot be totally merged into the deity by this initiation, he is conjoined to it by this milder rite. Although there is no complete āveśa, he is conjoined to the deity by the teacher’s gaze as he makes offerings of sesame seeds into the fire.
+[^1050]: Tf the disciple cannot be totally merged into the deity by this initiation, he is conjoined to it by this milder rite. Although there is no complete āveśa, he is conjoined to the deity by the teacher’s gaze as he makes offerings of sesame seeds into the fire.
 
 
 *[p. 413]* ^pg426

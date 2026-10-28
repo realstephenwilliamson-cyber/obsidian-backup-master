@@ -25,8 +25,11 @@ Your folder (DIR, given in your task) holds:
 - No other wording changes: leave OCR slips, `\[illegible\]` placeholders (keep them also when you split or renumber a definition: `[^n]: \[illegible\] text`), misprints, Sanskrit, everything else alone. Never touch page markers, headings (`#`), block ids, or the frontmatter.
 - Footnote text that the OCR put into the body, body text among the notes, text out of order: report in `problems`, don't fix (unless it is a plain carry-over, op 4).
 - Write a call followed by an opening parenthesis with a space between them where the print has one (`[^n] (54-55ab)`): `[^n](…)` is read by Obsidian as a link.
-- If two calls fall in the same line, write two separate ops whose `old` strings don't overlap.
+- If two calls fall in the same line, write two separate ops whose `old` strings don't overlap (not even by a word).
+- An already-real footnote whose call stands in the wrong place (inside a Devanagari verse line, on a stray fragment): move it with two call ops (remove `[^n]` where it is, put it where the print has it), and say so in `problems`. Leave the stray words that stood with it.
+- An unnumbered asterisk note (`*`, `**`) printed inside or under a footnote is not a footnote of its own: make it an indented paragraph of that footnote (op 3 or 4) and keep its mark; don't give it a number or a call.
+- A footnote whose call is in another note (the previous or next part), or whose call stands on words the note lacks: leave its paragraph plain (`n\. text`) and report it.
 
 ## Output
 
-Write `DIR/ops.json`: `{"note": "...", "ops": [...], "problems": ["..."], "per_note": [{"n": 366, "pdf": 153, "printed": 3, "call_line": 68}]}` (per_note for every footnote you placed). Write no other file outside DIR. Reply in under 250 words: the numbers covered, the count of each op, and the problems.
+Write `DIR/ops.json`: `{"note": "...", "ops": [...], "problems": ["..."], "per_note": [{"n": 366, "pdf": 153, "printed": 3, "call_line": 68}]}` (per_note for every footnote you placed; `printed` is the footnote number as printed on the page, not the page number). In your reply, say whether the note's numbers equal the printed numbers, and where they change. Write no other file outside DIR. Reply in under 250 words: the numbers covered, the count of each op, and the problems.

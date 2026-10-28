@@ -1,4 +1,4 @@
-# batch.py (27 Oct 2026, Dyczkowski footnotes night 1): prepares one apply batch for the runner.
+# batch.py (27 Oct 2026, Dyczkowski footnotes night 1; BK per night since night 2): prepares one apply batch for the runner.
 # Usage: batch.py BATCH FIRSTJOB ID=VAULTPATH [ID=VAULTPATH ...]
 #   ID is the work id (e.g. v11-06): src/ID.md is the text the reader worked from, work/ID/out.md the converted text,
 #   and /mnt/user-data/uploads/Obsidian Vault/VAULTPATH the note as freshly re-staged from the vault.
@@ -8,7 +8,7 @@
 import sys, os, json, subprocess
 B, first = sys.argv[1], int(sys.argv[2]); pairs = [a.split('=', 1) for a in sys.argv[3:]]
 H = '/home/claude/dyfn'; UP = '/mnt/user-data/uploads/Obsidian Vault/'; OUT = '/mnt/user-data/outputs/dyfn/' + B
-BK = '.work/backup-dyfn-2026-10-27'
+BK = '.work/backup-dyfn-2026-10-27-n2'   # the night's backup folder: change it each night (27 Oct night 1: backup-dyfn-2026-10-27)
 os.makedirs(OUT + '/edits/dyfn-' + B, exist_ok=True); os.makedirs(OUT + '/queue', exist_ok=True)
 args, lst = [], []
 for nid, vp in pairs:

@@ -18,11 +18,11 @@ Appendix F
 
 The Kramastotra by Abhinavagupta 
 
-Abhinavagupta himself also wrote a Kramastotra' in which he describes the Twelve Kālīs. After his concise description of them in Chapter Four of the Tantrāloka, he describes them again briefly in his Tantrasāra, Tantroccaya and Tantravaṭadhanikā. However, nowhere does he deal with them as extensively as he does here in his Kramastotra. 
+Abhinavagupta himself also wrote a Kramastotra[^1156] in which he describes the Twelve Kālīs. After his concise description of them in Chapter Four of the Tantrāloka, he describes them again briefly in his Tantrasāra, Tantroccaya and Tantravaṭadhanikā. However, nowhere does he deal with them as extensively as he does here in his Kramastotra. 
 
 One of his first substantial works was a commentary on Erakanātha’s Kramastotra. Clearly, it had made a deep impression on him at an early age. Thus, it would be not be surprising if that inspired the title of his own Kramastotra. Indeed, apart from the number and order of the Kālīs, he follows the style of that Kramastotra, taking care for example to write it in the same complex metre. 
 
-This is one of three works in which Abhinava does us the great favour of giving us a date of its composition.? He says that ‘I, Abhinavagupta praised Siva on the ninth day of the dark (fortnight) in (the month of) Mārgaśīrṣa during the so called sixty sixth year. (30). Note that he says that he did it on this day. Are we to understand that he wrote all this deep and beautiful hymn in just one day? 
+This is one of three works in which Abhinava does us the great favour of giving us a date of its composition.[^1157] He says that ‘I, Abhinavagupta praised Siva on the ninth day of the dark (fortnight) in (the month of) Mārgaśīrṣa during the so called sixty sixth year. (30). Note that he says that he did it on this day. Are we to understand that he wrote all this deep and beautiful hymn in just one day? 
 
 ayar duhkhavrātavrataparigame pāraṇavidhir mahāsaukhyasāraprasaraṇarase durdinam idam |
 yad anyanyakkṛtyā viṣamaviśikhaploṣanaguror vibhoḥ stotre saśvat pratiphalati ceto gatabhayam || 1 ॥ 
@@ -34,9 +34,9 @@ vimṛṣtaś ca svātmā nikhilaviṣayajñānasamaye tad itthań tvatstotre 'h
 
 Having reflected on himself, the one who lauds (You) reflects again on (Your) laudable conduct (carita), and reveals it in the hymn that has as its subject the oneness of duality. And so too is one’s own Self contemplated every time knowledge of the objects of sense (viṣaya) (arises). In this way, free of fatigue, I am always (present) here in your hymn. (2) 
 
-1156?\. The Kramastotra was edited and published by K.C. Pandey 1963: 948-951.
+[^1156]: The Kramastotra was edited and published by K.C. Pandey 1963: 948-951.
 
-1157?\. The other two are the Bhairavastotra and vivṛtvimarśinī on the Īśvarapratyabhijñā.
+[^1157]: The other two are the Bhairavastotra and vivṛtvimarśinī on the Īśvarapratyabhijñā.
 
 
 *[p. 472]* ^pg485
@@ -221,7 +221,7 @@ The Sphere of Subjectivity
 
 9\) Paramārkakālī (The emanation of subjectivity) 
 
-samagrāsakālīṛ kramavirahitā sātmani muhur 
+samagrāsakālī[^1159] kramavirahitā sātmani muhur 
 
 niveśyānantāntarbahalitamahāraśminivahā |
 parā divyānandam kalayitum udārādaravatī prasannā me bhūyāt hṛdayapadavīi bhūṣayatu ca ॥ 24 ॥ 
@@ -249,7 +249,7 @@ Consciousness, called Light, devoid of succession, merges externally and flows i
 tato devyāṁ yasyāri paramaparipūrṇasthitijuṣi kraman vicchidyāśu sthitimatirasāt saṁvidadhati |
 pramāṇari mātārari mitim atha samagrari jagad idar \[illegible\] 
 
-1159?\. Read samagrāsakālī for samagrāmakṣālīṁ.
+[^1159]: Read samagrāsakālī for samagrāmakṣālīṁ.
 
 
 *[p. 479]* ^pg492
@@ -285,7 +285,7 @@ The Final Form of the Krama System
 
 The final development of the fully formed Krama system is consolidated in three texts that are all called Mahānayaprakāśa — the Light of the Great Teaching. Abhinava makes no reference to this developed form of the Krama, and so it appears that it had not yet emerged in his time. But this is far from certain. The earliest of the three was written in old Kashmiri and commented on in Sanskrit by Śitikantha. It has been published in the Kashmiri Series of Texts and Studies. Sanderson has argued that, although it is commonly assumed that the author and commentator are the same person, this is far from certain. The colophons identity the author of this Mahānayaprakāía as 
 
-Śitikanṭha.' 
+Śitikanṭha.[^1160] 
 
 One of the other two is anonymous, and there is no concrete evidence of where it was written except the circumstance that the sole manuscript is found in Trivandrum. The other Mahānayaprakāśa, by Arṇasiṁha, was most probably South Indian, as are the Krama works written after them that have survived. These are two. The first of these is the Cidgaganacandrikā, followed by the Mahārthamañjarī ~ the Bouquet of (the Teachings of the) Mahārtha - of Maheśvarānanda, who quotes it. The latter is composed in seventy verses in old Mahārāṣṭrian. Maheśvarānanda claims that it was revealed to him directly by the Goddess. He translated the verses and wrote an extensive commentary in Sanskrit. 
 
@@ -307,14 +307,14 @@ Sanderson has demonstrated that the Cidgaganacandrikā by = Śrīvatsa elaborate
 
 We know from the many citations Maheśvarānanda makes of the existence of a good number of Krama works belonging to this final phase, many written by Maheśvarānanda himself. Some, probably redacted in Kashmir, were known to Kṣemarāja. An important one is the Kālikākrama, which he quotes in several places. Unknown to Abhinava, it seems that this Krama text, as well as 
 
-1160?\. The colophons begin: iti śrīśitikanthācāryaviracite mahānayaprakāśe.
+[^1160]: The colophons begin: iti śrīśitikanthācāryaviracite mahānayaprakāśe.
 
 
 *[p. 481]* ^pg494
 
-others Kṣemarāja quotes that are not cited by his teacher, were written after Abhinava wrote on Trika. Apart from the ‘allusions’ Sanderson has identified in Śivānanda’s Kālikāstotra, that we have examined, there is little in the earlier Kālīkula works that can be said to indicate directly an articulation of the complex system elaborated in the Mahānayaprakāśías, although the basic constituents are indeed prefigured to some degree, as we have seen. The core is already presented in what is probably one of the last Tantras of the second phase in the scriptural substratum: the Kramasadbhāva. The importance of this text in this respect is acknowledged by Śithikantha.? A fragment has been recovered in one Nepalese manuscript. Another part of it is preserved in a chapter of a Kubjikā Tantra called the Kulakaulinīmata. There too we find confirmation that it is expounding a prototype of this developed form of the Krama.’ 
+others Kṣemarāja quotes that are not cited by his teacher, were written after Abhinava wrote on Trika. Apart from the ‘allusions’ Sanderson has identified in Śivānanda’s Kālikāstotra, that we have examined, there is little in the earlier Kālīkula works that can be said to indicate directly an articulation of the complex system elaborated in the Mahānayaprakāśías, although the basic constituents are indeed prefigured to some degree, as we have seen. The core is already presented in what is probably one of the last Tantras of the second phase in the scriptural substratum: the Kramasadbhāva. The importance of this text in this respect is acknowledged by Śithikantha.[^1161] A fragment has been recovered in one Nepalese manuscript. Another part of it is preserved in a chapter of a Kubjikā Tantra called the Kulakaulinīmata. There too we find confirmation that it is expounding a prototype of this developed form of the Krama.[^1162] 
 
-Another Mahānayaprakāśa, probably the last in time, is by an anonymous author. There is only one manuscript of this text, which was recovered in the library of Trivandrum University. It was published by Ganapati Śāstrī with extensive emendations. It certainly postdates Abhinava but precedes Jayaratha, who quotes it.\* It differs from the other two because it is extensively influenced by Abhinava’s exegetical models and tools. The author knows the classification of the forms of descent of the power of grace (Saktipāta) Abhinava elaborates in Chapter Thirteen of the Tantrāloka, inspired by his teacher Śambhunātha (Sanderson 2006: 672). He is well conversant with the classification in categories of means to realization (upāyabheda). In particular, he regularly refers to Anupāya as elaborated by Abhinava, that is, as recognition (which is the Pratyabhijñā view) that comes in a flash of intense transmission of insight (saṁńkramana) (which is the Krama view). This is particularly striking, because sudden enlightenment through direct transmission (sarikrāma) is a major theme of the Krama teachings from their incipience. Abhinava reinforced the doctrine and found a place for it in his classification of the means to realization as ‘No Means’. Our anonymous author correlates it to Abhinava’s distinctive conception of Anuttara, and regularly identifies it, as Abhinava does, with Anupāya. Again, we observe the regular application of the fundamental concepts 
+Another Mahānayaprakāśa, probably the last in time, is by an anonymous author. There is only one manuscript of this text, which was recovered in the library of Trivandrum University. It was published by Ganapati Śāstrī with extensive emendations. It certainly postdates Abhinava but precedes Jayaratha, who quotes it.[^1163] It differs from the other two because it is extensively influenced by Abhinava’s exegetical models and tools. The author knows the classification of the forms of descent of the power of grace (Saktipāta) Abhinava elaborates in Chapter Thirteen of the Tantrāloka, inspired by his teacher Śambhunātha (Sanderson 2006: 672). He is well conversant with the classification in categories of means to realization (upāyabheda). In particular, he regularly refers to Anupāya as elaborated by Abhinava, that is, as recognition (which is the Pratyabhijñā view) that comes in a flash of intense transmission of insight (saṁńkramana) (which is the Krama view). This is particularly striking, because sudden enlightenment through direct transmission (sarikrāma) is a major theme of the Krama teachings from their incipience. Abhinava reinforced the doctrine and found a place for it in his classification of the means to realization as ‘No Means’. Our anonymous author correlates it to Abhinava’s distinctive conception of Anuttara, and regularly identifies it, as Abhinava does, with Anupāya. Again, we observe the regular application of the fundamental concepts 
 
 of the 
 
@@ -324,8 +324,8 @@ These include the characterization of consciousness as Light (prakāśa) and Awa
 
 Along with this basic view of an ultimate subjectivity, the analysis of perception with which consciousness is identified as the dynamic interplay of the triad of subject, object and means of knowledge is also taken over from Abhinava’s exegesis. Accordingly, this Mahānayaprakāśa teaches that the Twelve Kālīs are markers of phases in the cycle of cognitive consciousness which is the Goddess and ultimate reality, as Abhinava does. This passage is 
 
-1161?\. MNP (ŚiKa) p. 86.
+[^1161]: MNP (ŚiKa) p. 86.
 
-1162?\. pañcavāhakramam \[ṁ: pañcavāhu-\] hyetat \[ṁ: hotat\] kathita tava Śobhane | KuKauM 15/159ab.
+[^1162]: pañcavāhakramam \[ṁ: pañcavāhu-\] hyetat \[ṁ: hotat\] kathita tava Śobhane | KuKauM 15/159ab.
 
-1163?\. See comm. on TĀ 4/125.
+[^1163]: See comm. on TĀ 4/125.

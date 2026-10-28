@@ -25,7 +25,7 @@ vibhāti sarvagā saṁvin nānātvena sadoditā ॥ 1 ||
 Although transcending all, (the one) consciousness, undefinable, eternal, ever manifest and omnipresent, shines as the diversity (of the many things of this world). (1) 
 
 tattvatas tu na nānārtharūpā nāpy ekavigrahā |
-yāniketā nirātaṁkā khasvabhāvā (yāniketa nirātaṁka khasvabhāvān)! namāmi (namosmi) 
+yāniketā nirātaṁkā khasvabhāvā (yāniketa nirātaṁka khasvabhāvān)[^1173] namāmi (namosmi) 
 
 tām |21 
 
@@ -48,7 +48,7 @@ yat tat sadgurupādābjaprasādāvagataṁ (-pādāvje-) sphutam |
 dhāmāditritayeneha cakrabhaṁgabhayān manāk || 5 || prakāśyate mayā samyag vākyair aviṣamāśayaiḥ |
 kudeśikamatenaiva (-mataśvabhra) bhraṁśinār bhaktiśālinām ॥ 6 ॥ 
 
-1173?\. Only one manuscript of this text has been recovered. See bibliography. Where the text has been emended, the original reading in the manuscript is noted in brackets after the emendation.
+[^1173]: Only one manuscript of this text has been recovered. See bibliography. Where the text has been emended, the original reading in the manuscript is noted in brackets after the emendation.
 
 
 *[p. 488]* ^pg501
@@ -191,12 +191,12 @@ One should know this same (goddess) to be Raudreśvarī, intent on laying hold o
 itthaṁ devīnaye (-name) samyag vyomavāmādipañcakam ॥ 30 ॥
 dandamundakramenoktaṁ mahānirvānasiddhidam | 
 
-Thus, the pentad consisting of Vyomavāmā and the others has been properly explained in the Devīnaya (the Teaching Concerning the Goddess) in terms of the sequence of the Stick and the Head,’ that bestows the accomplishment of the Great Extinction (mahānirvāṇa). (30cd-31ab) 
+Thus, the pentad consisting of Vyomavāmā and the others has been properly explained in the Devīnaya (the Teaching Concerning the Goddess) in terms of the sequence of the Stick and the Head,[^1174] that bestows the accomplishment of the Great Extinction (mahānirvāṇa). (30cd-31ab) 
 
 grāhyagrāhakabhedotthakalpanākṣobhasarikhyayā (-bhedotthaṁ-) | 31 ॥
 sāmarasyamahāhlādadhāmny (-dhāmnetā) etā bhānti devatāḥ | 
 
-1174?\. These two are the twelve rays of the organs of action along with the vital breath (prāṇa), and those of knowledge along with the intellect, respectively.
+[^1174]: These two are the twelve rays of the organs of action along with the vital breath (prāṇa), and those of knowledge along with the intellect, respectively.
 
 
 *[p. 492]* ^pg505
@@ -574,7 +574,7 @@ kakārādibhakārāntā varnavyañjanarūpinaḥ |
 
 dviṣatkadvigunākrāntāḥ (-ṇnākrāmūh (?)) siddhā (siddha) vācakavigrahāḥ (\* + \* kavigrahāḥ) ॥ 108 ॥ 
 
-The Mantrasiddhas are the consonants (varṇavyañjana)} ranging from K to BH. They possess twenty-four qualities and are the denotators (vācaka). (108) dvādaśākhyās tathā (-tayāh) proktā mātrās tā eva saṁismṛtāḥ \\ melāpasiddhāḥ (-siddhā) satatan sīmarasyapradāḥ sadā ॥ 109 ॥ 
+The Mantrasiddhas are the consonants (varṇavyañjana)[^1176] ranging from K to BH. They possess twenty-four qualities and are the denotators (vācaka). (108) dvādaśākhyās tathā (-tayāh) proktā mātrās tā eva saṁismṛtāḥ \\ melāpasiddhāḥ (-siddhā) satatan sīmarasyapradāḥ sadā ॥ 109 ॥ 
 
 Similarly, the Melāpasiddhas who bestow oneness (sāmarasya) at all times are considered to be the twelve measures (of the letter A). (109) 
 
@@ -602,7 +602,7 @@ Here I will explain clearly according to the oral tradition how (these) goddesse
 
 sphuṭā ye jñānasiddhākhyā (sphu \* \* \* \* \* dākhyā) raudrīśṛṁgātakākṛte (cau \* \* \* fakākṛte) | 
 
-1176?\. There is an interesting play of words here. The twenty-four consonants represent the twenty-four principles from Earth to Nature. They are the principles that make manifest (vyañjana) the inner energies represented by the sixteen vowels. Thus, like the consonants (vyañjana), that ‘make manifest’ the ‘colour’ or ‘type’ (varna) of the vowels. The 24 principles consist of the five gross elements, their five corresponding sensations, the five organs of sense and five of action, the inner mental organ consisting of mind, intellect and ego, and Nature, which is the immediate source and ‘substance’ of all of them. These principles serve as the channels through which the energies of consciousness operate, and so are made manifest, just as the consonants manifest the vowels.
+[^1176]: There is an interesting play of words here. The twenty-four consonants represent the twenty-four principles from Earth to Nature. They are the principles that make manifest (vyañjana) the inner energies represented by the sixteen vowels. Thus, like the consonants (vyañjana), that ‘make manifest’ the ‘colour’ or ‘type’ (varna) of the vowels. The 24 principles consist of the five gross elements, their five corresponding sensations, the five organs of sense and five of action, the inner mental organ consisting of mind, intellect and ego, and Nature, which is the immediate source and ‘substance’ of all of them. These principles serve as the channels through which the energies of consciousness operate, and so are made manifest, just as the consonants manifest the vowels.
 
 
 *[p. 503]* ^pg516
@@ -650,12 +650,12 @@ But even if (these energies) are clearly perceived (individually) in this way by
 ekā devīti vā bhāti tisro dvādaśadhoditā |
 udyogādikrameṇoccair ekaikā pañcadhotthitā || 123 ॥ 
 
-Or (from another point of view, one could say that only) one goddess, the third (of the five), manifests and arises twelve times over (as aspects of her own energy),\* each of which arises five-fold through the process (of manifestation) that commences with exertion (udyoga). (123) 
+Or (from another point of view, one could say that only) one goddess, the third (of the five), manifests and arises twelve times over (as aspects of her own energy),[^1177] each of which arises five-fold through the process (of manifestation) that commences with exertion (udyoga). (123) 
 
 tṛtīyenādyakārenṇa (tṛtīyena prakāreṇa) vṛndacakrakramodayaḥ |
 ādyanāthoktabhāṣāyāṁ (-bhagyāyāṁ) laghūktyā prakaṭīkṛtaḥ \\\\ 124 ॥ 
 
-From a third (point of view, one can say that) the arising of the sequence of the Wheel of the Aggregate is engendered by A, the first letter, as explained concisely in the commentary (bhāṣā) uttered by Ādyanātha.ć (124) 
+From a third (point of view, one can say that) the arising of the sequence of the Wheel of the Aggregate is engendered by A, the first letter, as explained concisely in the commentary (bhāṣā) uttered by Ādyanātha.[^1178] (124) 
 
 The Ascent of Consciousness 
 
@@ -674,9 +674,9 @@ yā saṁvid rājate saiva mahāmelāpavigrahaḥ | 127 ||
 
 The consciousness that shines, full of the great bliss (āhlāda) that comes from the contact between subject and object, is the form of the Great Union. (127) 
 
-1177?\. Perhaps the third goddess who governs the Melāpasiddhas is meant here. There she appears as the twelve energies (mātrā — ‘measures’) of the letter A.
+[^1177]: Perhaps the third goddess who governs the Melāpasiddhas is meant here. There she appears as the twelve energies (mātrā — ‘measures’) of the letter A.
 
-1178?\. Sense and edition uncertain.
+[^1178]: Sense and edition uncertain.
 
 
 *[p. 505]* ^pg518
@@ -1129,7 +1129,7 @@ teṣām evāśu yugapad vyaktāvyaktasvarūpatā ॥ 215 ||
 sarrhartum (saṁhatum) uditā devyo niraharikāravigrahāḥ |
 nirvikalpamahāvyomadīptayo vigatāśrayāḥ ॥ 216 ॥ 
 
-The goddesses, their form egolessness (nirahaṁkāra), free of (outer) support, energized by the great sky of consciousness free of thought constructs, arise to withdraw simultaneously and in an instant (aśu), the manifest and unmanifest nature of these, (the twelve vowels) beginning with A and ending with Emission, free of (the four) neuter (letters).” (215-216) 
+The goddesses, their form egolessness (nirahaṁkāra), free of (outer) support, energized by the great sky of consciousness free of thought constructs, arise to withdraw simultaneously and in an instant (aśu), the manifest and unmanifest nature of these, (the twelve vowels) beginning with A and ending with Emission, free of (the four) neuter (letters).[^1179] (215-216) 
 
 parādyā sā udety (parādyunmorūṭity) eva sphuritāīnandaghūrnitā (-tāḥ) \\ yākramaspandalaharī (-syanda-) vidyullekhaiva (-kheva) cañcalā ॥ 217 ॥ 
 
@@ -1144,7 +1144,7 @@ tasyā hi (pi) triprakārākhyā kalpanā yā samantataḥ |
 pratyekaśaḥ (-śa) svarūpo ‘pi sṛṣtyādikramasarijñakaḥ (-ke) ॥ 219 ॥
 caturthonmiṣitaṁ (caturthormiśitaṁ) rūpam udyogādivibhedataḥ | 
 
-1179?\. The so-called ‘neuter’ vowels - r R \] Ḷ — are a mix of pure vowel sounds with a touch of the semi-vowels R and L. As the vowels symbolize the subjective energies and the consonants the objective ones, they symbolize objectivity in the stream of subjective cognitive activity represented by the series of vowels. When these are absent, the flow of inner consciousness is free of ‘outer support’.
+[^1179]: The so-called ‘neuter’ vowels - r R \] Ḷ — are a mix of pure vowel sounds with a touch of the semi-vowels R and L. As the vowels symbolize the subjective energies and the consonants the objective ones, they symbolize objectivity in the stream of subjective cognitive activity represented by the series of vowels. When these are absent, the flow of inner consciousness is free of ‘outer support’.
 
 
 *[p. 518]* ^pg531

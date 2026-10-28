@@ -588,9 +588,9 @@ He is not dependent in himself on (any) means (to realisation), as is one who de
 
 *[p. 58]* ^pg74
 
-(application of) the means (to realisation). Accordingly, (Abhinava) also said that ‘even he should take recourse to the procedure we are about to explain’. As is sung (in the Bhagavadgītā): 
+(application of) the means (to realisation). Accordingly, (Abhinava) also said that ‘even he should take recourse to the procedure we are about to explain’.[^146] As is sung (in the Bhagavadgītā): 
 
-‘Just as the ignorant act impelled by attachment, O Arjuna, so should the wise man act (but) without attachment, desiring to do good to the world." 
+‘Just as the ignorant act impelled by attachment, O Arjuna, so should the wise man act (but) without attachment, desiring to do good to the world.’[^147] 
 
 This is not just said by us, as our own personal idea, rather it is said everywhere by the Lord (Himself) and the earlier teachers. So in order to show that the meaning of all this chapter is not contrary (to the teachings of the scriptures), he says: 
 
@@ -604,11 +604,19 @@ The Dissipation of Doubt by the Teacher, Scriptures and Faith
 śrīmadūrmimahāśāstre siddhasaṁtānarūpake |
 idam uktaṁ tathā śrīmatsomānandādidaiśikaiḥ ॥ 48 ॥ 
 
-This (teaching is not a product of our imagination); it is stated in the great scripture, the venerable Urmi, which is (the teaching of) the lineage of 
+This (teaching is not a product of our imagination); it is stated in the great scripture, the venerable Urmi,[^148] which is (the teaching of) the lineage of 
 
-14 Above, 2/44d. 19 \[illegible\] 3/25. Abhinava comments: “The purpose behind performing acts even by such a person who has already attained perfection, and therefore has his mind fully satisfied, is to educate people. Here Lord Kṛṣṇa gives himself as an example. The actions which are one’s duty should be performed without expecting their fruit. Furthermore, if one who has already attained perfection would not perform any act, then chaos would prevail in society. This is because people would not follow the well-established path and a firm faith (in that well-established path) would be shaken. In such a situation people would not be able to experience the consequences of their past deeds or to follow right knowledge. Therefore, they would become indifferent. Because ordinary people are not purified by the right knowledge, inactivity of any enlightened person would do them great harm by making their minds unstable. Therefore, the enlightened man should never act in such a way that would harm ordinary people.’ Translation by Boris Marjanovic (2002: 94).
+[^146]: Above, 2/44d.
 
-1\. This is the Ọrmikaulārṇava, a Krama scripture attributed to Matsyendranātha quoted by Abhinava several times throughout the Tantrāloka. By referring to the ŪKau along with Somānanda, Abhinava is aligning the nondualist Śaiva tradition with Kaulism as both teaching Anupāya. How this is so in the former case is clear from Jayaratha’s citation of the Śivadṛṣṭi. But how this is the case in the latter instance is not so clear on the basis of the references Jayaratha has chosen. One wonders why he did not choose other references. For example, in chapter two of the fragment of the Ọrmikaulārnava that has survived, we find a description of degrees and visible signs of the ‘initiation by piercing’ (vedhadīkṣṣā), in which the disciple is overwhelmed by an intense descent of the power of grace (fīvraśaktipāta). This is identified, as ít is in the MV, with Rudra’s power (rudraśakti), that gives rise to three forms of penetration (āveśa), namely, (those) pertaining to Śiva \[illegible\] Power (śākta) and the individual soul (āṇava) (see above, 1/168-170). In that context the ŪKau teaches what we have seen is essentially Anupāya (see above note 2,4): tīvraśaktinipātena samyaggurvāvalokanāt || vedhayen nātra sahdehaḥ pātayet parvatāny api | ‘By the fall of intense power, due to the proper gaze of the teacher, (the disciple is) pierced. There is no doubt here (about this) and it makes even mountains fall to the ground (let alone the disciple who thus falls to the ground enlightened)’ ŪKau 2/244cd- 245ab 149 ‘“Ovalli’ is a term for a Kaula lineage and its tradition. For an etymology and history of this term, see Dyczkowski 2009: intro. 2, 307 n. 2, 397. Matsyendranātha, to whom the Ürmikaulārṇava is attributed in its colophons, is said to have had six disciples who transmitted his teachings. They each founded a lineage — ovalli — named after themselves. The pādovalli is one of them. See below, 29/36 ff. and comm.; also Dyczkowski 1988: 70- 71. 150 Cf. SvT 4/292cd: “That which is not void is said to be the Void. (What is) ‘void’ is said to be \[illegible\] Concerning ‘nonbeing’” and voidness, see Dyczkowski 2004: 51 ff. 1! Cf. above 2/32ab (2/32cd).
+[^147]: \[illegible\] 3/25. Abhinava comments: “The purpose behind performing acts even by such a person who has already attained perfection, and therefore has his mind fully satisfied, is to educate people. Here Lord Kṛṣṇa gives himself as an example. The actions which are one’s duty should be performed without expecting their fruit. Furthermore, if one who has already attained perfection would not perform any act, then chaos would prevail in society. This is because people would not follow the well-established path and a firm faith (in that well-established path) would be shaken. In such a situation people would not be able to experience the consequences of their past deeds or to follow right knowledge. Therefore, they would become indifferent. Because ordinary people are not purified by the right knowledge, inactivity of any enlightened person would do them great harm by making their minds unstable. Therefore, the enlightened man should never act in such a way that would harm ordinary people.’ Translation by Boris Marjanovic (2002: 94).
+
+[^148]: This is the Ọrmikaulārṇava, a Krama scripture attributed to Matsyendranātha quoted by Abhinava several times throughout the Tantrāloka. By referring to the ŪKau along with Somānanda, Abhinava is aligning the nondualist Śaiva tradition with Kaulism as both teaching Anupāya. How this is so in the former case is clear from Jayaratha’s citation of the Śivadṛṣṭi. But how this is the case in the latter instance is not so clear on the basis of the references Jayaratha has chosen. One wonders why he did not choose other references. For example, in chapter two of the fragment of the Ọrmikaulārnava that has survived, we find a description of degrees and visible signs of the ‘initiation by piercing’ (vedhadīkṣṣā), in which the disciple is overwhelmed by an intense descent of the power of grace (fīvraśaktipāta). This is identified, as ít is in the MV, with Rudra’s power (rudraśakti), that gives rise to three forms of penetration (āveśa), namely, (those) pertaining to Śiva \[illegible\] Power (śākta) and the individual soul (āṇava) (see above, 1/168-170). In that context the ŪKau teaches what we have seen is essentially Anupāya (see above note 2,4): tīvraśaktinipātena samyaggurvāvalokanāt || vedhayen nātra sahdehaḥ pātayet parvatāny api | ‘By the fall of intense power, due to the proper gaze of the teacher, (the disciple is) pierced. There is no doubt here (about this) and it makes even mountains fall to the ground (let alone the disciple who thus falls to the ground enlightened)’ ŪKau 2/244cd- 245ab
+
+[^149]: ‘“Ovalli’ is a term for a Kaula lineage and its tradition. For an etymology and history of this term, see Dyczkowski 2009: intro. 2, 307 n. 2, 397. Matsyendranātha, to whom the Ürmikaulārṇava is attributed in its colophons, is said to have had six disciples who transmitted his teachings. They each founded a lineage — ovalli — named after themselves. The pādovalli is one of them. See below, 29/36 ff. and comm.; also Dyczkowski 1988: 70- 71.
+
+[^150]: Cf. SvT 4/292cd: “That which is not void is said to be the Void. (What is) ‘void’ is said to be \[illegible\] Concerning ‘nonbeing’” and voidness, see Dyczkowski 2004: 51 ff.
+
+[^151]: Cf. above 2/32ab (2/32cd).
 
 
 *[p. 59]* ^pg75
@@ -617,9 +625,9 @@ the Siddhas (Matsyendranātha and the rest) as well as by (our) teachers, includ
 
 #### Viveka on 2.48
 
-‘The great scripture, the venerable Ūrmi’, is (the teaching of) the lineage of the Siddhas of the venerable Ūrmikaula. In this way he also indicates (the clarity and) undecaying nature (of the teachings) in the lineage (of teachers) belonging to the Pādovalli.' There (we read): 
+‘The great scripture, the venerable Ūrmi’, is (the teaching of) the lineage of the Siddhas of the venerable Ūrmikaula. In this way he also indicates (the clarity and) undecaying nature (of the teachings) in the lineage (of teachers) belonging to the Pādovalli.[^149] There (we read): 
 
-‘A void (śūnya) is nothing at all. That Void (which is ultimate reality) is not empty \[illegible\] it is not vacuity." Why should one not think that what is not anything is not nothing at all?” 
+‘A void (śūnya) is nothing at all. That Void (which is ultimate reality) is not empty \[illegible\] it is not vacuity.[^150] Why should one not think that what is not anything is not nothing at all?” 
 
 Questioned (in this way) by the goddess, the Lord (replied) beginning with (the words: 
 
@@ -627,7 +635,7 @@ Questioned (in this way) by the goddess, the Lord (replied) beginning with (the 
 
 And ending with (the following), He said much: 
 
-\*‘It does not exist’, ‘it does exist’, and ‘it does not not exist’ — that which these polarities do not touch is not in the domain of words,'\*" and so is said here to be (ultimate) reality (tattva). ‘What will not be, will not be and what will be, (will) not be other than that’ — having reflected in this way, the wise man should not dwell in thought. That (reality) is omnipresent, subtle and totally devoid of limitation (upādhi).” 
+\*‘It does not exist’, ‘it does exist’, and ‘it does not not exist’ — that which these polarities do not touch is not in the domain of words,[^151] and so is said here to be (ultimate) reality (tattva). ‘What will not be, will not be and what will be, (will) not be other than that’ — having reflected in this way, the wise man should not dwell in thought. That (reality) is omnipresent, subtle and totally devoid of limitation (upādhi).” 
 
 ‘It is stated by (our) teachers, including the venerable Somānanda and the rest, that is, in the Sivadṛgṣṭi etc. As is said there: 
 

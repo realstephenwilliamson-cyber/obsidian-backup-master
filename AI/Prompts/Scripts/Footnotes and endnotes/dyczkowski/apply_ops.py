@@ -11,6 +11,8 @@
 import sys, json, re, difflib
 from collections import Counter
 origf, pref, opsf, outf, repf = sys.argv[1:6]; RENUM = '--renumber' in sys.argv
+# --start=N (28 Oct 2026, night 2): with --renumber, the first label is N (the printed number of the note's first footnote) instead of the lowest label
+START = next((int(a.split('=')[1]) for a in sys.argv if a.startswith('--start=')), None)
 O = open(origf, encoding='utf-8').read()
 L = open(pref, encoding='utf-8').read().split('\n')
 D = json.load(open(opsf, encoding='utf-8')); ops = D['ops'] if isinstance(D, dict) else D
@@ -65,14 +67,24 @@ glued = len(re.findall(r'\[\^\d+\]\(', text)); text = re.sub(r'(\[\^\d+\])\(', r
 # --renumber: a reader who split run-together notes may have used letter labels (232b); relabel every footnote of the note
 # by the order of its calls, from the first number on (each label must have one call and one definition)
 relabel = {}
-if RENUM:
+# --map=FILE (28 Oct 2026, night 2): an explicit relabel map {old label: new label} (e.g. to give the printed numbers where a
+# note's labels run behind the print), applied instead of --renumber
+MAPF = next((a.split('=', 1)[1] for a in sys.argv if a.startswith('--map=')), None)
+if MAPF:
+    relabel = {str(k): str(v) for k, v in json.load(open(MAPF, encoding='utf-8')).items()}
+    text = re.sub(r'\[\^([0-9A-Za-z]+)\]', lambda m: '[^%s]' % relabel.get(m.group(1), m.group(1)), text)
+elif RENUM:
     order = []
     for m in re.finditer(r'\[\^([0-9A-Za-z]+)\](?!:)', text):
         if m.group(1) not in order: order.append(m.group(1))
-    start = min(int(x) for x in order if x.isdigit())
+    start = START if START is not None else min(int(x) for x in order if x.isdigit())
     relabel = {lab: str(start + i) for i, lab in enumerate(order)}
     text = re.sub(r'\[\^([0-9A-Za-z]+)\]', lambda m: '[^%s]' % relabel.get(m.group(1), m.group(1)), text)
     relabel = {k: v for k, v in relabel.items() if k != v}
+# a definition right after a non-blank line is not a footnote of its own for Obsidian (its cache lists neither the definition
+# nor its call; 27-28 Oct 2026): keep a blank line before every definition
+glue = len(re.findall(r'(?m)^(?:[^\n]*\S[^\n]*)\n(?=\[\^[0-9A-Za-z]+\]:)', text))
+text = re.sub(r'(?m)^([^\n]*\S[^\n]*)\n(?=\[\^[0-9A-Za-z]+\]:)', r'\1\n\n', text)
 # checks
 calls = [int(m.group(1)) for m in re.finditer(r'\[\^(\d+)\](?!:)', text)]
 defs = [int(m.group(1)) for m in re.finditer(r'(?m)^\[\^(\d+)\]:', text)]
@@ -98,7 +110,7 @@ diffs = [(t, ' '.join(w0[a:b])[:200], ' '.join(w1[c:d])[:200]) for t, a, b, c, d
 illeg = (O.count('[illegible]') + O.count('\\[illegible\\]'), text.count('[illegible]') + text.count('\\[illegible\\]'))
 C0, C1 = Counter(w0), Counter(w1); removed = dict(C0 - C1); added = dict(C1 - C0)
 open(outf, 'w', encoding='utf-8').write(text)
-R = {'problems': probs, 'relabelled': relabel, 'space_before_paren': glued, 'calls': len(calls), 'defs': len(defs), 'numbers': [nums[0], nums[-1]] if nums else None, 'not_once': not_once,
+R = {'problems': probs, 'relabelled': relabel, 'space_before_paren': glued, 'blank_before_def': glue, 'calls': len(calls), 'defs': len(defs), 'numbers': [nums[0], nums[-1]] if nums else None, 'not_once': not_once,
      'calls_in_order': order, 'struct': struct_ok, 'pg_blank_after': pg_blank, 'illegible': illeg, 'words_removed': removed, 'words_added': added, 'word_diffs': diffs,
      'ops': len(ops), 'moves': len(moves), 'deletes': len(delete), 'lines_before': len(L), 'lines_after': len(out)}
 json.dump(R, open(repf, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

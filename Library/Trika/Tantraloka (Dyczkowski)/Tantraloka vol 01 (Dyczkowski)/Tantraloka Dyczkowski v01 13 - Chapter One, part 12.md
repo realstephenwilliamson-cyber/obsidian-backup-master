@@ -45,20 +45,20 @@ The ‘mixed’ (relationship is the one called) “‘Divine-cum-non-divine’ 
 
 ‘(Relationship) is of five kinds (each with its own) separate characteristic. (These are) ‘Great’, ‘Intermediate’, ‘Divine’, and ‘Divine-cum-Non-divine’ as the fourth, along with the ‘Mutual’ path.” 
 
-One should understand this group of five relationships to be, in due order, the one between Śiva and Sadāśiva (which is ‘Great’),' then from him to Anantanātha (which is ‘Intermediate’), and from him to Śrīkaṇtha and Nandikumāra etc. (which is ‘Divine’), and from them to the Rṣis, that is, Sanatkumāra and the rest (which is ‘Divine-cum-Non-divine), and from them also to (common) human beings (which is ‘Mutual’ or ‘Non-divine’). As is said there itself (in the following passage in the Kularatnamālā):? 
+One should understand this group of five relationships to be, in due order, the one between Śiva and Sadāśiva (which is ‘Great’),[^1259] then from him to Anantanātha (which is ‘Intermediate’), and from him to Śrīkaṇtha and Nandikumāra etc. (which is ‘Divine’), and from them to the Rṣis, that is, Sanatkumāra and the rest (which is ‘Divine-cum-Non-divine), and from them also to (common) human beings (which is ‘Mutual’ or ‘Non-divine’). As is said there itself (in the following passage in the Kularatnamālā):[^1260] 
 
-‘Śiva, Who is completely full, (perfect, all-embracing,) supreme and unlimited radiant energy (rejas), possesses (one supreme) power (called) Sādākhyā (The Existent One), Who operates in the field of the agency of Her own (free) will (svecchākartṛtva). 1) (The wise) know the relationship that has attained (its) being by that (relationship between them) to be the first (i.e., Great). 2) Again, in due order, the Intermediate One (takes place) in association (with Śakti) (yogena),? and was received by the god Ananteśa! from 
+‘Śiva, Who is completely full, (perfect, all-embracing,) supreme and unlimited radiant energy (rejas), possesses (one supreme) power (called) Sādākhyā (The Existent One), Who operates in the field of the agency of Her own (free) will (svecchākartṛtva). 1) (The wise) know the relationship that has attained (its) being by that (relationship between them) to be the first (i.e., Great). 2) Again, in due order, the Intermediate One (takes place) in association (with Śakti) (yogena),[^1261] and was received by the god Ananteśa[^1262] from 
 
-1259\. When a disciple has this relationship with his teacher, he experiences himself as Sadāśiva and his teacher as Śiva. Similarly, depending on the level of his subjectivity, he experiences himself as the corresponding being at that level and his teacher as the perceiver on the level of development above him. At the lowest level, he experiences himself as a fully bound individual soul in relation to his enlightened human teacher.
+[^1259]: When a disciple has this relationship with his teacher, he experiences himself as Sadāśiva and his teacher as Śiva. Similarly, depending on the level of his subjectivity, he experiences himself as the corresponding being at that level and his teacher as the perceiver on the level of development above him. At the lowest level, he experiences himself as a fully bound individual soul in relation to his enlightened human teacher.
 
-1260\. The following passage is also quoted in the notes to the PTv (p. 12).
+[^1260]: The following passage is also quoted in the notes to the PTv (p. 12).
 
-1261\. One could translate the word ‘yogena’ as ‘by means of Yoga’, i.e. Ananta received it from Sādākhya by means of Yoga. However, that way it is not possible to explain how Sādākhyā is feminine in the first instance and denotes Śakti, whereas Sadākhya in the second instance is masculine and denotes Sadāśiva. Jayaratha ignoring this problem simply identifies the two, saying that the Great relationship is that between Siva and Sadāśiva, although the text clearly says that it is between Śiva and Śakti (who is called Sadākhyā). In order to solve this inconsistency, I have translated in this way.
+[^1261]: One could translate the word ‘yogena’ as ‘by means of Yoga’, i.e. Ananta received it from Sādākhya by means of Yoga. However, that way it is not possible to explain how Sādākhyā is feminine in the first instance and denotes Śakti, whereas Sadākhya in the second instance is masculine and denotes Sadāśiva. Jayaratha ignoring this problem simply identifies the two, saying that the Great relationship is that between Siva and Sadāśiva, although the text clearly says that it is between Śiva and Śakti (who is called Sadākhyā). In order to solve this inconsistency, I have translated in this way.
 
 
 *[p. 454]* ^pg468
 
-Sādākhya (i.e., Sadāśiva), and so is called the second one. 3) Again, the third one, O goddess, is Śrīkantha, (who received it) along with Nandin. As both have understood it in this way from a god, it is called Divine. 4) That was given to the Rṣis by Nandin in a concise form and (so) (this), the fourth one, is called by the Lord Divine-cum-non-divine. 5) The fifth is the Mutual One, which is in the form of the (human) disciple and teacher (that is formed) in association with the systematic explanation (vyākhyānakrama) (of the scriptures) in the course of worshipping the Seat of Knowledge (vidyāpītha).” This is said to be the relationship (between the teacher and the taught,) which is of five kinds.’ 
+Sādākhya (i.e., Sadāśiva), and so is called the second one. 3) Again, the third one, O goddess, is Śrīkantha, (who received it) along with Nandin. As both have understood it in this way from a god, it is called Divine. 4) That was given to the Rṣis by Nandin in a concise form and (so) (this), the fourth one, is called by the Lord Divine-cum-non-divine. 5) The fifth is the Mutual One, which is in the form of the (human) disciple and teacher (that is formed) in association with the systematic explanation (vyākhyānakrama) (of the scriptures) in the course of worshipping the Seat of Knowledge (vidyāpītha).[^1263] This is said to be the relationship (between the teacher and the taught,) which is of five kinds.’ 
 
 (Now) he describes the nature of the Supreme Power. 
 
@@ -71,18 +71,18 @@ bhinnayoḥ praṣtṛtadvaktroś caikātmyaṁ yat sa ucyate ॥ 276 ॥
 
 #### Viveka on 1.275
 
-‘He who enquires’ is, for example, Sadāśiva, and the one who replies in that case is Siva. The word ‘that’ refers to the reflective awareness, which is the act of questioning (praśnakriyā). Although the two differ, there is a relationship between them by virtue of the oneness which is the stability of consciousness (engaged) in such a matter. (This is) because the nature of this (relationship, as others,) is unity-in-difference (bhedābheda).”\* (However,) if 
+‘He who enquires’ is, for example, Sadāśiva, and the one who replies in that case is Siva. The word ‘that’ refers to the reflective awareness, which is the act of questioning (praśnakriyā). Although the two differ, there is a relationship between them by virtue of the oneness which is the stability of consciousness (engaged) in such a matter. (This is) because the nature of this (relationship, as others,) is unity-in-difference (bhedābheda).[^1264] (However,) if 
 
-1262\. in the Āgamas to be the creator and governor of the cosmic order, ranging from Māyā down to the earth principle (see 8/305ab-307ab (8/304-306) and commentary). As such, he is said to be the Lord of Māyā, which he stimulates to generate the cosmic order below it (8/324ab, (8/323), 331ab-332cd (330cd-332ab)). He is also the Lord of the souls who reside in the sphere of Māyā (8/336ab-349ab (8/345cd-348)). A different Ananta is said to be the Lord of one of the eight worlds associated with the Īśvara principle (8/342ab-344ab (8/341- 343)), which is just below that of Sadāśiva. Perhaps this is the one meant here. If so Śrīkantha here can be identified with the Ananta who generates and governs the lower principles. Indeed, Śrīkantha is said to reside in Unmanifest Nature, and is responsible for the destruction of all things within the domain of Māyā (6/150ab-151cd (6/149- 150ab)). However, it is quite possible that no such associations are meant in this context.
+[^1262]: in the Āgamas to be the creator and governor of the cosmic order, ranging from Māyā down to the earth principle (see 8/305ab-307ab (8/304-306) and commentary). As such, he is said to be the Lord of Māyā, which he stimulates to generate the cosmic order below it (8/324ab, (8/323), 331ab-332cd (330cd-332ab)). He is also the Lord of the souls who reside in the sphere of Māyā (8/336ab-349ab (8/345cd-348)). A different Ananta is said to be the Lord of one of the eight worlds associated with the Īśvara principle (8/342ab-344ab (8/341- 343)), which is just below that of Sadāśiva. Perhaps this is the one meant here. If so Śrīkantha here can be identified with the Ananta who generates and governs the lower principles. Indeed, Śrīkantha is said to reside in Unmanifest Nature, and is responsible for the destruction of all things within the domain of Māyā (6/150ab-151cd (6/149- 150ab)). However, it is quite possible that no such associations are meant in this context.
 
-1263\. There are several possible meanings of the term ‘vidyāpīṭha’, the Seat of Knowledge. It may refer to a sacred site (pīṭha), which in this case is unlikely. It may also refer to the class or group (द) of scriptures. The term may also mean the sacred plinth दव) on which manuscripts of the Tantras are placed to worship them. In that sense, the worship of the Seat of Knowledge amounts to the worship of the scriptures (see Dyczkowski 2009: intro. 3, 33 ff.). This seems to me to be the most likely meaning here.
+[^1263]: There are several possible meanings of the term ‘vidyāpīṭha’, the Seat of Knowledge. It may refer to a sacred site (pīṭha), which in this case is unlikely. It may also refer to the class or group (द) of scriptures. The term may also mean the sacred plinth दव) on which manuscripts of the Tantras are placed to worship them. In that sense, the worship of the Seat of Knowledge amounts to the worship of the scriptures (see Dyczkowski 2009: intro. 3, 33 ff.). This seems to me to be the most likely meaning here.
 
-1264\. AIl relationships involve something which is common to both the relata, otherwise they could not be related. At the same time there must also be a difference between them, otherwise they would not be two members of a relationship. Thus, all relationships are a unity-in-difference.
+[^1264]: AIl relationships involve something which is common to both the relata, otherwise they could not be related. At the same time there must also be a difference between them, otherwise they would not be two members of a relationship. Thus, all relationships are a unity-in-difference.
 
 
 *[p. 455]* ^pg469
 
-there is a state of (perfect) oneness because even the most subtle trace (gandha lit. ‘scent’) of duality (bheda) has fallen away, then that would be a state of plenitude, which is that of being all things, and the supreme relationship (obtains)." He says that. 
+there is a state of (perfect) oneness because even the most subtle trace (gandha lit. ‘scent’) of duality (bheda) has fallen away, then that would be a state of plenitude, which is that of being all things, and the supreme relationship (obtains).[^1265] He says that. 
 
 ### TĀ 1.275 (2)
 
@@ -93,18 +93,18 @@ Its supreme state is the realisation (prathā) of complete oneness (pūrṇaikā
 
 #### Viveka on 1.275 (2)
 
-The ‘supreme state’ is ‘the realisation (prathā) of complete oneness (pūrṇaikātmya)’. Everything is present (in that one reality, which is) complete (pūrna). It is complete everywhere and so it is also present in (all) the five relationships. Thus, it is rightly said that ‘they are all the Supreme Power’. That is said (in the Trikahṛdaya):"\* 
+The ‘supreme state’ is ‘the realisation (prathā) of complete oneness (pūrṇaikātmya)’. Everything is present (in that one reality, which is) complete (pūrna). It is complete everywhere and so it is also present in (all) the five relationships. Thus, it is rightly said that ‘they are all the Supreme Power’. That is said (in the Trikahṛdaya):[^1266] 
 
-1265\. The level of relationship between its polarities — in this case the teacher who emb the consciousness that replies and the disciple who embodies the one that questions — corresponds to the degree in which the difference between them is more or less subtle. Thus, from this perspective, the Great relationship, which is the highest, is that between Śiva, who is absolutely one and Sadāśiva, who embodies the state of consciousness corresponding to the reflective awareness ‘I am He’. In that case there is merely a trace of difference — just enough to experience the totality of all that exists as Śiva, Who is experienced objectively as ‘He’ Who I am. The supreme relationship is said to be one in which every trace of objectivity is removed, and as such is the plenitude (pūrṇatā ~ a feminine word) of perfect oneness. In a sense, therefore, one could say that this is not a relationship at all, and so only five are enumerated. But in another sense, it is the oneness which is the essential basis of all the levels of relationship between the teacher and the taught, which are thus aspects of it. In other words, the plenitude of the perfect realisation of the oneness of consciousness arises when consciousness itself experiences itself as all that there is and more beyond. Everything is equally sacred consciousness. The human is divine. The limited fettered soul is unlimited, free consciousness. Disciple and master are one.
+[^1265]: The level of relationship between its polarities — in this case the teacher who emb the consciousness that replies and the disciple who embodies the one that questions — corresponds to the degree in which the difference between them is more or less subtle. Thus, from this perspective, the Great relationship, which is the highest, is that between Śiva, who is absolutely one and Sadāśiva, who embodies the state of consciousness corresponding to the reflective awareness ‘I am He’. In that case there is merely a trace of difference — just enough to experience the totality of all that exists as Śiva, Who is experienced objectively as ‘He’ Who I am. The supreme relationship is said to be one in which every trace of objectivity is removed, and as such is the plenitude (pūrṇatā ~ a feminine word) of perfect oneness. In a sense, therefore, one could say that this is not a relationship at all, and so only five are enumerated. But in another sense, it is the oneness which is the essential basis of all the levels of relationship between the teacher and the taught, which are thus aspects of it. In other words, the plenitude of the perfect realisation of the oneness of consciousness arises when consciousness itself experiences itself as all that there is and more beyond. Everything is equally sacred consciousness. The human is divine. The limited fettered soul is unlimited, free consciousness. Disciple and master are one.
 
-1266\. We know that Jayaratha is quoting the Trikahṛdaya because Kṣemarāja quotes the same verse in his commentary on the Svacchandatantra and tells us its source (SvTu ad 8/38). A passage in the Svacchandatantra (8/36-38) outlines the descent of its transmission from Śrīkaṇtha down to men through a downward progression of beings. Kṣemarāja comments on it by framing the phases of the transmission in terms of this sequence of five types of relationships (saṁbandha). He concludes by saying that: ‘it is the Goddess herself who is the power Parā who sustains (and governs) the universe and whose heart is a lake of the sentiment (rasa) which is the desire to grace (all) who, having entered the body of each (of these) teacher (ācārya), bestows her grace. It is said in this way that it is the supreme (form of) relationship that falls everywhere right down to the human (non-divine) one. That is said in the Trikahṛdaya.’ He then goes on to quote this verse.
+[^1266]: We know that Jayaratha is quoting the Trikahṛdaya because Kṣemarāja quotes the same verse in his commentary on the Svacchandatantra and tells us its source (SvTu ad 8/38). A passage in the Svacchandatantra (8/36-38) outlines the descent of its transmission from Śrīkaṇtha down to men through a downward progression of beings. Kṣemarāja comments on it by framing the phases of the transmission in terms of this sequence of five types of relationships (saṁbandha). He concludes by saying that: ‘it is the Goddess herself who is the power Parā who sustains (and governs) the universe and whose heart is a lake of the sentiment (rasa) which is the desire to grace (all) who, having entered the body of each (of these) teacher (ācārya), bestows her grace. It is said in this way that it is the supreme (form of) relationship that falls everywhere right down to the human (non-divine) one. That is said in the Trikahṛdaya.’ He then goes on to quote this verse.
 
 
 *[p. 456]* ^pg470
 
-‘O Supreme Goddess, all (forms of) relationship (between the master and disciple) are the Supreme Power, (whether) ‘Great’, ‘Intermediate’, ‘Divine’, ‘Mixed’ and the Non-divine (i.e. Human), that comes after that.” 
+‘O Supreme Goddess, all (forms of) relationship (between the master and disciple) are the Supreme Power, (whether) ‘Great’, ‘Intermediate’, ‘Divine’, ‘Mixed’ and the Non-divine (i.e. Human), that comes after that.’[^1267] 
 
-1267\. Abhinava quotes the following reference from the Svacchandatantra in his commentary on the Parātrīśikā. The same verse is quoted below in TĀv ad 35/26-27 note 35,24, where the commentary on this and following verses is translated. guruśiṣyapade sthitvā svayaṁ devaḥ sadāśivaḥ ॥ pūrvottarapadair vākyais tantram ādhārabhedataḥ | ‘Having established himself on the plane of teacher and disciple, the god Sadāśiva (created) the Tantra by means of statements made of questions and answers, based on the distinction between (their) ground (as the Lord and recipient of the teaching). (SvT 8/31cd-32ab) ‘In this way, the power of grace is perpetually present, and never sets within every perceiver. It is this supreme relationship which is the sole life of the essence of the Trika scriptures. This is because here within the Absolute (Anuttara), according to the aforementioned teaching, all the other relationships - Great, Intermediate, Divine, Non-divine and the rest, are one with the Supreme One. That is said in the Trikahṛdaya (where we read): ‘the Supreme Lord, Who is always intent on emitting into His own power, is grace by nature and, free of constraint, the creator and destroyer (of all things). Such is the ever emergent (immanent and active) state (in terms of) this process. As the Supreme Lord, Who is consciousness, is the ultimate reality which is such (at the supreme level of Speech), the inner reality which shines 1 him) as undivided is contemplated on the plane of the Speech of Vision as the (initial) intention to differentiate the phrases, words and phonemes (that manifest on the following levels of Speech). (Then,) on the plane of the Middle Speech, it is (in the process of being) divided up, until it finally (comes) to possess (the form of) Corporeal Speech, as the composition (racanā) of sentences made of up of separate (bhinna) phenomenal (māyïya) phonemes and words . . . \[of the statements of the scriptures\] that concern (and are based on) reality (vastupūrvaka). That is itself the invisible face of Bhairava, which is the reflective awareness of emission (visarga). It is the arousal (kṣobha) which is the attainment of the union of Śiva and His Power in the form of the letters A (which stands for anuttara, the Absolute) and Ā (which stands for काकवत, bliss) (respectively), the essence of which is the Absolute (corresponding to Śiva) and (pure) ‘T’ consciousness (corresponding to His power). This is the seed of the unfolding flow (prasara) of the Trika scriptures, the Stable Plane (dhruvapada), the Root (reality), and the vital principle of all living beings. \^ \^ ~ The nature of reality (itself) (vastu) is question and its answer, ever emergent (and active) (satatodita), which is initially (one and) undivided. Thus, such is here the (essential intended) sense (tātparya). One's own Self, which is by nature all things and is perceived by itself, contemplates itself by means of question and answer, which are not separate from its own nature, as the subjectivity (ahantā) consisting of the one who questions and the one who answers, thereby (inspiring itself with) wonder. (The words of each particular scripture thus arise progressively in consonance with the emergence of the desire that) ‘I wish (to experience) this kind of diverse (and beautiful) wonder (vicitracamatkāra) and then, knowing in that way, I am such (as exemplified by three sections of the Parātrīśikā) beginning with ‘the goddess (asking), “how is the Absolute?” Then in the middle: ‘Bhairava said: “listen O goddess” up to (the words) “this is the Rudra couple (in union)” (at the end). Or else (the same process can be understood to take place with respect to) all the scriptures that originate from the five currents until they arrive progressively to the (level of the) business of daily life. This is said to be the supreme relationship (between the one who utters the teachings and the one who receives them).’ PTv pp. 12-16. Abhinava adds in the same PTv (p. 64-65): ‘Consciousness, the Goddess Parā, flows forth (spontaneously) by its very nature. Parā is said to be the power of the will and (undivided from) Bhairava does not divide Him. Her form is the power of knowledge etc. which are the attributes (of Her) flow, and it sustains the body of the (Speech of) Vision and the rest (of the levels of Speech), the nature of which are Parāparā and Aparā. Such is that act of reflection (parāmarśana) on the nature of the form of (Her) flow which is the question the Goddess, who poses questions of that nature, asks. The act of reflection on the nature of that flow is said to be supreme, its nature indicative (rūpaka) of (both) that question and the answer. Moreover, commencing from the inner state of the other consciousness (that replies), the body of Bhairava which has internalized the entire flow, again serves as the means of withdrawing the bliss of the dense (uninterrupted) supreme consciousness, and unfolds perpetually in the form of the one who replies. These two, the flow and withdrawal, are undifferentiated by time, and so this reality, which is their one nature, is (both) question and answer. That is itself the supreme relationship (parasaṁbandha) endowed with the state of the Absolute (anuttaratā). In the past the teachers have described this as the wealth of the essence of Trika (ṣadardha).”
+[^1267]: Abhinava quotes the following reference from the Svacchandatantra in his commentary on the Parātrīśikā. The same verse is quoted below in TĀv ad 35/26-27 note 35,24, where the commentary on this and following verses is translated. guruśiṣyapade sthitvā svayaṁ devaḥ sadāśivaḥ ॥ pūrvottarapadair vākyais tantram ādhārabhedataḥ | ‘Having established himself on the plane of teacher and disciple, the god Sadāśiva (created) the Tantra by means of statements made of questions and answers, based on the distinction between (their) ground (as the Lord and recipient of the teaching). (SvT 8/31cd-32ab) ‘In this way, the power of grace is perpetually present, and never sets within every perceiver. It is this supreme relationship which is the sole life of the essence of the Trika scriptures. This is because here within the Absolute (Anuttara), according to the aforementioned teaching, all the other relationships - Great, Intermediate, Divine, Non-divine and the rest, are one with the Supreme One. That is said in the Trikahṛdaya (where we read): ‘the Supreme Lord, Who is always intent on emitting into His own power, is grace by nature and, free of constraint, the creator and destroyer (of all things). Such is the ever emergent (immanent and active) state (in terms of) this process. As the Supreme Lord, Who is consciousness, is the ultimate reality which is such (at the supreme level of Speech), the inner reality which shines 1 him) as undivided is contemplated on the plane of the Speech of Vision as the (initial) intention to differentiate the phrases, words and phonemes (that manifest on the following levels of Speech). (Then,) on the plane of the Middle Speech, it is (in the process of being) divided up, until it finally (comes) to possess (the form of) Corporeal Speech, as the composition (racanā) of sentences made of up of separate (bhinna) phenomenal (māyïya) phonemes and words . . . \[of the statements of the scriptures\] that concern (and are based on) reality (vastupūrvaka). That is itself the invisible face of Bhairava, which is the reflective awareness of emission (visarga). It is the arousal (kṣobha) which is the attainment of the union of Śiva and His Power in the form of the letters A (which stands for anuttara, the Absolute) and Ā (which stands for काकवत, bliss) (respectively), the essence of which is the Absolute (corresponding to Śiva) and (pure) ‘T’ consciousness (corresponding to His power). This is the seed of the unfolding flow (prasara) of the Trika scriptures, the Stable Plane (dhruvapada), the Root (reality), and the vital principle of all living beings. \^ \^ ~ The nature of reality (itself) (vastu) is question and its answer, ever emergent (and active) (satatodita), which is initially (one and) undivided. Thus, such is here the (essential intended) sense (tātparya). One's own Self, which is by nature all things and is perceived by itself, contemplates itself by means of question and answer, which are not separate from its own nature, as the subjectivity (ahantā) consisting of the one who questions and the one who answers, thereby (inspiring itself with) wonder. (The words of each particular scripture thus arise progressively in consonance with the emergence of the desire that) ‘I wish (to experience) this kind of diverse (and beautiful) wonder (vicitracamatkāra) and then, knowing in that way, I am such (as exemplified by three sections of the Parātrīśikā) beginning with ‘the goddess (asking), “how is the Absolute?” Then in the middle: ‘Bhairava said: “listen O goddess” up to (the words) “this is the Rudra couple (in union)” (at the end). Or else (the same process can be understood to take place with respect to) all the scriptures that originate from the five currents until they arrive progressively to the (level of the) business of daily life. This is said to be the supreme relationship (between the one who utters the teachings and the one who receives them).’ PTv pp. 12-16. Abhinava adds in the same PTv (p. 64-65): ‘Consciousness, the Goddess Parā, flows forth (spontaneously) by its very nature. Parā is said to be the power of the will and (undivided from) Bhairava does not divide Him. Her form is the power of knowledge etc. which are the attributes (of Her) flow, and it sustains the body of the (Speech of) Vision and the rest (of the levels of Speech), the nature of which are Parāparā and Aparā. Such is that act of reflection (parāmarśana) on the nature of the form of (Her) flow which is the question the Goddess, who poses questions of that nature, asks. The act of reflection on the nature of that flow is said to be supreme, its nature indicative (rūpaka) of (both) that question and the answer. Moreover, commencing from the inner state of the other consciousness (that replies), the body of Bhairava which has internalized the entire flow, again serves as the means of withdrawing the bliss of the dense (uninterrupted) supreme consciousness, and unfolds perpetually in the form of the one who replies. These two, the flow and withdrawal, are undifferentiated by time, and so this reality, which is their one nature, is (both) question and answer. That is itself the supreme relationship (parasaṁbandha) endowed with the state of the Absolute (anuttaratā). In the past the teachers have described this as the wealth of the essence of Trika (ṣadardha).”
 
 
 *[p. 457]* ^pg471
@@ -177,7 +177,7 @@ There (in that context, now) will be stated the initial enunciation (of the cont
 
 *[p. 459]* ^pg473
 
-The Types of Liberating Knowledge कका). 
+The Types of Liberating Knowledge कका).[^1268] 
 
 2\) 
 
@@ -195,15 +195,15 @@ The Individual Means (ānavopāya).
 
 6\) 
 
-The Temporal Means (kālopāya) 
+The Temporal Means[^1269] (kālopāya) 
 
 7\) 
 
-The Arising of the Wheels (cakrodaya).” 
+The Arising of the Wheels (cakrodaya).[^1270] 
 
 8\) 
 
-The Path of Space.” (deśādhvan). 
+The Path of Space.[^1271] (deśādhvan). 
 
 9\) 
 
@@ -211,11 +211,11 @@ The Path of the Principles (tattvādhvan).
 
 10\) 
 
-The Division of the Principles”” (tattvabhedanam). 
+The Division of the Principles[^1272] (tattvabhedanam). 
 
 11\) 
 
-The Path of the Forces and the Rest"” (kalādyadhvan). 
+The Path of the Forces and the Rest[^1273] (kalādyadhvan). 
 
 12\) 
 
@@ -239,9 +239,9 @@ The Common Initiation into the Rule (samayadīkṣā).
 
 16\) 
 
-The Initiation of the Apprentice (pautrika)."\* 17) 
+The Initiation of the Apprentice (pautrika).[^1274] 17) 
 
-What needs be Done" in the Procedure concerning the Apprentice (vidheyaprakriyā vidhau). 
+What needs be Done[^1275] in the Procedure concerning the Apprentice (vidheyaprakriyā vidhau). 
 
 18\) 
 
@@ -255,7 +255,7 @@ Initiation of the Immediate Exit (from the Body) (sadyahsamutkrama).
 
 20\) 
 
-The Initiation of the Scales” (पाद्वत). 
+The Initiation of the Scales[^1276] (पाद्वत). 
 
 21\) 
 
@@ -263,25 +263,25 @@ The Initiation of those Absent कण).
 
 22\) 
 
-The Extraction of Sectarian Signs (liṅgoddhara).” 
+The Extraction of Sectarian Signs (liṅgoddhara).[^1277] 
 
-1268\. In this context the forms of consciousness are those corresponding to the means of realisation.
+[^1268]: In this context the forms of consciousness are those corresponding to the means of realisation.
 
-1269\. This chapter teaches how the cycles of time correspond to the cycle of the breath. By attending to the breathing cycle with this awareness, the yogi practicing in ānavopāya absorbs the thought constructs which are the of the sense of time passing. Ultimately, when the process is complete, he realises his own eternal conscious nature, which is free of time.
+[^1269]: This chapter teaches how the cycles of time correspond to the cycle of the breath. By attending to the breathing cycle with this awareness, the yogi practicing in ānavopāya absorbs the thought constructs which are the of the sense of time passing. Ultimately, when the process is complete, he realises his own eternal conscious nature, which is free of time.
 
-1270\. This chapter teaches how cycles — ‘wheels’ — of repetitions of Mantras of various lengths ‘arise’ in consonance with the cycle of the breath.
+[^1270]: This chapter teaches how cycles — ‘wheels’ — of repetitions of Mantras of various lengths ‘arise’ in consonance with the cycle of the breath.
 
-1271\. In this chapter, Abhinava presents a detailed description of the worlds (bhuvana) that make up the cosmic order.
+[^1271]: In this chapter, Abhinava presents a detailed description of the worlds (bhuvana) that make up the cosmic order.
 
-1272\. In the previous chapter, Abhinava described the nature of the thirty-six principles (tattva); in this one, he teaches how a series of seven perceivers correspond to them. These range from the most fully conditioned (sakala) right up to Śiva, the supreme perceiver.
+[^1272]: In the previous chapter, Abhinava described the nature of the thirty-six principles (tattva); in this one, he teaches how a series of seven perceivers correspond to them. These range from the most fully conditioned (sakala) right up to Śiva, the supreme perceiver.
 
-1273\. The Forces (kalā) are five spheres of energy in which the thirty-six principles are contained.
+[^1273]: The Forces (kalā) are five spheres of energy in which the thirty-six principles are contained.
 
-1274\. The ‘apprentice’ is the teacher’s spiritual son, who is destined to become a teacher in his turn.
+[^1274]: The ‘apprentice’ is the teacher’s spiritual son, who is destined to become a teacher in his turn.
 
-1275\. I tentatively emend prameyaprakriyā, which makes no sense to me, to vidheyaprakriyā.
+[^1275]: I tentatively emend prameyaprakriyā, which makes no sense to me, to vidheyaprakriyā.
 
-1276\. The belief is that Karma weighs down the body. So in order to check that the teacher has successfully removed the disciple’s Karma by means of initiation, he weighs him.
+[^1276]: The belief is that Karma weighs down the body. So in order to check that the teacher has successfully removed the disciple’s Karma by means of initiation, he weighs him.
 
 
 *[p. 460]* ^pg474
@@ -304,7 +304,7 @@ The Worship of the Liṅga (liṅgārcā).
 
 28\) 
 
-The Many Kinds of Propitious Times (कव), (the Offering of) the 
+The Many Kinds of Propitious Times (कव),[^1278] (the Offering of) the 
 
 Sacred Thread and other Occasional Rites (bahubhitparvapavitrādi nimittaja). 
 
@@ -314,7 +314,7 @@ The Secret Observance (rahasyacaryā).
 
 30\) 
 
-The Current of Mantras.”” (mantraugha). 
+The Current of Mantras.[^1279] (mantraugha). 
 
 31\) 
 
@@ -322,9 +322,9 @@ The (Trika) Mandala (mandala).
 
 32\) 
 
-The Procedure concerning Mudrās (mudrikāvidhi)." 33) 
+The Procedure concerning Mudrās (mudrikāvidhi).[^1280] 33) 
 
-The Gathering Together (of the Deities) (लल). 
+The Gathering Together (of the Deities) (लल).[^1281] 
 
 34\) 
 
@@ -346,22 +346,22 @@ Description of the Scriptures to be Adopted (śāstropādeyatvanirūpan. (279cd-
 
 The preliminary enunciation is (simply) a presentation (of contents) by naming (them briefly) in a general way (as chapter headings). The subsequent 
 
-1277\. The word ‘liṅgodhara’ literally means ‘the extraction of sectarian marks’. When a person belonging to another tradition takes Śaiva initiation, the teacher must first remove his connection with it. This procedure may involve the removal of the sectarian marks on the disciple’s body that indicate his past affiliation.
+[^1277]: The word ‘liṅgodhara’ literally means ‘the extraction of sectarian marks’. When a person belonging to another tradition takes Śaiva initiation, the teacher must first remove his connection with it. This procedure may involve the removal of the sectarian marks on the disciple’s body that indicate his past affiliation.
 
-1278\. In common astrological terms, a parvan (lit. ‘node’ or ‘juncture’) is a special fixed period of time when a special celestial conjunction occurs. These include the days of the four changes of the moon, that is, the full moon and change to the new moon, the eighth and fourteenth of each half-month, the day of the moon’s passing the node at its opposition or conjunction, the moment of the sun’s entering a new sign, and any particular time of the year such as an equinox a solstice. Such periods of time are occasions for the performance of rites that are considered to be especially efficacious. In this chapter, Abhinava presents special Tantric parvans that are special days for the worship, for example, of the eight Mothers. Others include the birthdays and death anniversaries of teachers or when they come to visit. The etymology proposed by Abhinavagupta for the word parvan is to derive it from the root py, to fill (see below above, 25/1 Icd-12ab and below, 28/14cd-18ab). Although it is purely a didactic one, it indicates how he understood these special occasions periods to be. Accordingly, following Gnoli’s lead, I translate parvan, as ‘a time of fulfilment’.
+[^1278]: In common astrological terms, a parvan (lit. ‘node’ or ‘juncture’) is a special fixed period of time when a special celestial conjunction occurs. These include the days of the four changes of the moon, that is, the full moon and change to the new moon, the eighth and fourteenth of each half-month, the day of the moon’s passing the node at its opposition or conjunction, the moment of the sun’s entering a new sign, and any particular time of the year such as an equinox a solstice. Such periods of time are occasions for the performance of rites that are considered to be especially efficacious. In this chapter, Abhinava presents special Tantric parvans that are special days for the worship, for example, of the eight Mothers. Others include the birthdays and death anniversaries of teachers or when they come to visit. The etymology proposed by Abhinavagupta for the word parvan is to derive it from the root py, to fill (see below above, 25/1 Icd-12ab and below, 28/14cd-18ab). Although it is purely a didactic one, it indicates how he understood these special occasions periods to be. Accordingly, following Gnoli’s lead, I translate parvan, as ‘a time of fulfilment’.
 
-1279\. In this chapter, Abhinava presents the Mantras required to perform the Trika rituals taught in the Tantrāloka.
+[^1279]: In this chapter, Abhinava presents the Mantras required to perform the Trika rituals taught in the Tantrāloka.
 
-1280\. Khecarī Mudrā (the Gesture of the Skyfarer) is the main Mudrā that gives energy to the others described in this chapter. It is essentially the upward flight of (णतो through the subtle body and out along its axis, which may be outlined by Śiva’s Trident projected into it.
+[^1280]: Khecarī Mudrā (the Gesture of the Skyfarer) is the main Mudrā that gives energy to the others described in this chapter. It is essentially the upward flight of (णतो through the subtle body and out along its axis, which may be outlined by Śiva’s Trident projected into it.
 
-1281\. The word ekīkāra literally means ‘making one’ and so, by extension, ‘gathering together’, or ‘assembling’. This chapter is dedicated to listing the names of the deities that are the members of the enclosing assemblies (cakra) that, according to the scriptures, surround the central Trika deities of the Trika Trident.
+[^1281]: The word ekīkāra literally means ‘making one’ and so, by extension, ‘gathering together’, or ‘assembling’. This chapter is dedicated to listing the names of the deities that are the members of the enclosing assemblies (cakra) that, according to the scriptures, surround the central Trika deities of the Trika Trident.
 
 
 *[p. 461]* ^pg475
 
 enunciation is a presentation (of contents) by naming the particular (subsections of each chapter). This same division (into two types of enunciation) has been described elsewhere. There (in that context), he declares the preliminary enunciation beginning with ‘the Various Forms of Consciousness’ and ending with ‘an exposition . . .’. The ‘forms of consciousness’ are divided up into those pertaining to Śiva (śĀāmbhava) and the rest. ‘Devoid of Means’ means No Means (anupāya). ‘The Initiation of Apprentices (putraka)’ is in relation to the procedure prescribed for (the initiation of) apprentices (who are going to become teachers). (The word) ‘initiation’ is related to what was stated previously (and has been brought forward to refer to the procedure for apprentices). ‘Rituals’ should be associated with the procedure prescribed for apprentices. As he will say: 
 
-‘(This is) explained in the subsequent enunciation of that chapter concerning the procedure prescribed for apprentices.” "8? 
+‘(This is) explained in the subsequent enunciation of that chapter concerning the procedure prescribed for apprentices.’[^1282] 
 
 What is the purpose of writing such (an extensive) book? With this doubt in mind, he says: 
 
@@ -376,15 +376,15 @@ iti saptādhikām साकी (कवक yah sadā budhaḥ |
 saptatriṁśatsu sampūrṇabodho yad bhairavo bhavet |
 kir citram aṇavo ‘py asya dṛśā bhairavatām iyuḥ ॥ 287 ॥ 
 
-Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt)." He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava, what wonder is it if by his (mere) glance, individual souls (also) attain Bhairava’s state? (286-287) (284cd-286ab) 
+Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt).[^1283] He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava,[^1284] what wonder is it if by his (mere) glance, individual souls (also) attain Bhairava’s state? (286-287) (284cd-286ab) 
 
 #### Viveka on 1.284–286
 
-1282\. T have not been able to trace this statement in the Tantrāloka or its commentary.
+[^1282]: T have not been able to trace this statement in the Tantrāloka or its commentary.
 
-1283\. This and the following verse are quoted below in TĀv ad 13/160 and 37/32-33ab. Cf. below, 13/160, where Abhinava promises that a person who studies and practices the teachings in the Tantrāloka becomes a true teacher. Thus, he is Bhairava in person —sākṣāt — which means he is Bhairava who can be seen directly.
+[^1283]: This and the following verse are quoted below in TĀv ad 13/160 and 37/32-33ab. Cf. below, 13/160, where Abhinava promises that a person who studies and practices the teachings in the Tantrāloka becomes a true teacher. Thus, he is Bhairava in person —sākṣāt — which means he is Bhairava who can be seen directly.
 
-1284\. The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
+[^1284]: The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
 
 
 *[p. 462]* ^pg476
@@ -441,7 +441,7 @@ The kind of (penetration into ultimate reality which is) devoid of means is (dis
 
 3\) 
 
-(The topics) discussed in (the third chapter, that) deals with the Supreme Means, are a)the reflection of all things within consciousness, b) the sequence of the arising of (the fifty forms) of reflective awareness, and c) the oneness (of these forms of reflective 
+(The topics) discussed in (the third chapter, that) deals with the Supreme Means, are a)the reflection of all things within consciousness, b) the sequence of the arising of (the fifty forms) of reflective awareness,[^1285] and c) the oneness (of these forms of reflective 
 
 awareness) 
 
@@ -449,30 +449,30 @@ with Mantra and the other (ritual procedures).
 
 4\) 
 
-Here (in chapter four, that) deals with the Empowered Means, (the following topics) are discussed: a) the purification of thought,” b) the true nature of discriminative reasoning (tarka), c) nature and characteristics of teachers, d) the inapplicability of the auxiliaries of yoga 
+Here (in chapter four, that) deals with the Empowered Means, (the following topics) are discussed: a) the purification of thought,[^1286] b) the true nature of discriminative reasoning (tarka), c) nature and characteristics of teachers, d) the inapplicability of the auxiliaries of yoga 
 
-(apart from sound discriminative reasoning), e) the irrelevance of conceived forms of worship etc., f) the arising of the cycles of Consciousness, g) the vitality of Mantra,” h) the true repetition of Mantra (japya) and the rest (of the constituents of ritual), i) the equivalence of prohibitions and injunctions.” 
+(apart from sound discriminative reasoning), e) the irrelevance of conceived forms of worship etc., f) the arising of the cycles of Consciousness,[^1287] g) the vitality of Mantra,[^1288] h) the true repetition of Mantra (japya) and the rest (of the constituents of ritual), i) the equivalence of prohibitions and injunctions.[^1289] 
 
-1285\. This is the flow as pure ‘T’ consciousness, represented by the letters of the alphabet.
+[^1285]: This is the flow as pure ‘T’ consciousness, represented by the letters of the alphabet.
 
-1286\. <sup>1386</sup>The ‘purification’, that is, progressive elimination, of thought constructs leading to the direct recognition of one’s own Śiva nature free of thought constructs, is the practice of the Empowered Means. Accordingly, Abhinava begins his exposition of this means by describing the stages in which it takes place and how it does so.
+[^1286]: <sup>1386</sup>The ‘purification’, that is, progressive elimination, of thought constructs leading to the direct recognition of one’s own Śiva nature free of thought constructs, is the practice of the Empowered Means. Accordingly, Abhinava begins his exposition of this means by describing the stages in which it takes place and how it does so.
 
-1287\. The most excellent Wheel or Cycle of Consciousness is that of the Twelve Kālīs, which is described here. The Twelve Kālīs correspond to twelve phases in the cycle of perception. These are the four phases of the arising, persistence, withdrawal, and the fourth encompassing state of unity, in the domain of the object, means of knowledge and the perceiver. Although the recognition of this cycle is the culminating experience of all three means to realisation, Abhinava describes it in this chapter concerning the Empowered Means, as it primarily marks the phases of elimination of thought constructs in the three domains of subject, object and means of knowledge. When this process is complete, the liberated soul recognizes that he is the oneness which is Śiva, and that the whole universe (of duality) is an emanation of the Light of his own consciousness. Thus, he realises unity-in-diversity (bhedābheda) and enters the pure oneness of the Absolute ~ Anuttara — beyond means (anupāya).
+[^1287]: The most excellent Wheel or Cycle of Consciousness is that of the Twelve Kālīs, which is described here. The Twelve Kālīs correspond to twelve phases in the cycle of perception. These are the four phases of the arising, persistence, withdrawal, and the fourth encompassing state of unity, in the domain of the object, means of knowledge and the perceiver. Although the recognition of this cycle is the culminating experience of all three means to realisation, Abhinava describes it in this chapter concerning the Empowered Means, as it primarily marks the phases of elimination of thought constructs in the three domains of subject, object and means of knowledge. When this process is complete, the liberated soul recognizes that he is the oneness which is Śiva, and that the whole universe (of duality) is an emanation of the Light of his own consciousness. Thus, he realises unity-in-diversity (bhedābheda) and enters the pure oneness of the Absolute ~ Anuttara — beyond means (anupāya).
 
-1288\. The vitality (vīrya) of Mantra is the universal pulsation (sāmānyaspanda) of the pure ‘T of Śiva consciousness, realised as the plenitude of the phases of consciousness worshipped as the Twelve Kālīs, and so is discussed here.
+[^1288]: The vitality (vīrya) of Mantra is the universal pulsation (sāmānyaspanda) of the pure ‘T of Śiva consciousness, realised as the plenitude of the phases of consciousness worshipped as the Twelve Kālīs, and so is discussed here.
 
-1289\. The prohibitions and injunctions taught in the scriptures are meant for the benefit of people who practice in the lower means to realisation. However, in reality they are just notions, as is evidenced by the fact that they are relative to one another and vary in different contexts and according to differing traditions. Thus, they are equivalent and so not relevant for those who are practicing the purification and elimination of thought constructs in the Empowered Means.
+[^1289]: The prohibitions and injunctions taught in the scriptures are meant for the benefit of people who practice in the lower means to realisation. However, in reality they are just notions, as is evidenced by the fact that they are relative to one another and vary in different contexts and according to differing traditions. Thus, they are equivalent and so not relevant for those who are practicing the purification and elimination of thought constructs in the Empowered Means.
 
 
 *[p. 464]* ^pg478
 
-(The following) are described (in Chapter Five, that deals with) the Individual Means: a) meditation by means of the intellect, b) the utterance through the principle of the vital breath, and ९) the utterance through the conscious nature, d) entry into the Supreme Principle, e) the characteristic signs on the path, f) the instruments (of yoga), and g) the true nature of the phonemes. 6) 
+(The following) are described (in Chapter Five, that deals with) the Individual Means: a) meditation by means of the intellect, b) the utterance through the principle of the vital breath, and ९) the utterance through the conscious nature,[^1290] d) entry into the Supreme Principle, e) the characteristic signs on the path, f) the instruments (of yoga), and g) the true nature of the phonemes. 6) 
 
 (Chapter Six deals with) the conception (kalpana) of the Path of Time. (The topics discussed here are:) a) the measure of the movement (of the vital breath), b) the conception of night and day and the transits (of the sun through the zodiac) and so on, ९) the various kinds of reabsorptions (of the breath into consciousness), and d) the (progressive) arising of the (energies of the) phonemes (in the cycle of the breath). 
 
 7\) 
 
-(This chapter deals with the progressive) arising of the cycles (cakrodaya) (of the syllables of Mantras in the movement of the breath) and the various types of cycles, Mantras and Vidyās. 8) 
+(This chapter deals with the progressive) arising of the cycles (cakrodaya)[^1291] (of the syllables of Mantras in the movement of the breath) and the various types of cycles, Mantras and Vidyās. 8) 
 
 In (the chapter that) teaches the Path of Space, (we discuss) the dimensions of the worlds, a summary of the worlds, and their association with the metaphysical principles. 
 
@@ -492,9 +492,9 @@ The two (topics discussed in the chapter) dealing with the Path of the Principle
 शक्तिपातपरीक्षायामेतावान्वाच्यसंग्रहः ।
 तिरोभावव्यपगमो ज्ञानेन परिपूर्णता ॥ २३१ ॥
 
-1290\. Read cidātmanā for cidātmatā.
+[^1290]: Read cidātmanā for cidātmatā.
 
-1291\. The word cakra literally means ‘wheel’. In this context, as in many others, it means ‘cycle’. In this chapter, Abhinava examines the number of times Mantras of varying lengths can be repeated in consonance with the cyclic movement of the breath in the course of twenty-four hours. The various ‘Wheels’ are these cycles of varying length and number according to the length of the particular Mantra recited in this way.
+[^1291]: The word cakra literally means ‘wheel’. In this context, as in many others, it means ‘cycle’. In this chapter, Abhinava examines the number of times Mantras of varying lengths can be repeated in consonance with the cyclic movement of the breath in the course of twenty-four hours. The various ‘Wheels’ are these cycles of varying length and number according to the length of the particular Mantra recited in this way.
 
 
 *[p. 465]* ^pg479
@@ -515,13 +515,13 @@ utkrāntyanupayogitvaṁ dīkṣopakramane sthitam |
 
 10\) 
 
-In the (chapter concerning) the various ways the principles are divided (into groups, the following topics are discussed): a) (perceptibility as) a property of entities (vastudharma),?”” b) the procedure pertaining to the principles (with regards to the seven levels of perceivers), ९) a description of the waking and other states (of consciousness in relation to them), d) the various types of experiencing subjects. 
+In the (chapter concerning) the various ways the principles are divided (into groups, the following topics are discussed): a) (perceptibility as) a property of entities (vastudharma),[^1292] b) the procedure pertaining to the principles (with regards to the seven levels of perceivers), ९) a description of the waking and other states (of consciousness in relation to them), d) the various types of experiencing subjects. 
 
 11\) 
 
 In (this 
 
-chapter dealing with) the Path of the Forces etc., (the following) are discussed: a) the nature of the forces, b) the conception (of the division of all things) into one, three and five etc. principles,” ९) the process of the differentiation of the phonemes (in relation to these divisions), and d) a description of the power that sustains everything. 
+chapter dealing with) the Path of the Forces etc., (the following) are discussed: a) the nature of the forces, b) the conception (of the division of all things) into one, three and five etc. principles,[^1293] ९) the process of the differentiation of the phonemes (in relation to these divisions), and d) a description of the power that sustains everything. 
 
 12\) 
 
@@ -531,9 +531,9 @@ chapter dealing with) the Path of the Forces etc., (the following) are discussed
 
 a) The superiority (of Śaivism with respect to) Sāmkhya etc., b) the nature of impurity (mala) etc., ९) the variety of (the descents of) power, d) proof of their independence (from personal effort), and e) the variety of forms of obscuration. Such, in brief, are the matters discussed (in Chapter Thirteen, which is) concerned with the 
 
-1292\. In this section Abhinava discusses the nature of phenomena and the perceiver. He discusses whether the objects the perceiver perceives exist independently of the perceiver and perception, or not. In this way he introduces his exposition of the seven levels of perceivers arranged along the hierarchy of the thirty-six principles and corresponding objects.
+[^1292]: In this section Abhinava discusses the nature of phenomena and the perceiver. He discusses whether the objects the perceiver perceives exist independently of the perceiver and perception, or not. In this way he introduces his exposition of the seven levels of perceivers arranged along the hierarchy of the thirty-six principles and corresponding objects.
 
-1293\. At the lowest level, seven levels of perceivers span the thirty-six principles. They each have their objective sphere, thus making fourteen. Their own essential nature (svarūpa) is the fifteenth. Proceeding upwards to the next higher perceiver, the units decrease by two. Finally, at the top, only their essential nature remains, which is Śiva who is perceived directly as the consciousness beyond subject and object. Thus, in descent the units increase from one to three, then five and so on up to fifteen.
+[^1293]: At the lowest level, seven levels of perceivers span the thirty-six principles. They each have their objective sphere, thus making fourteen. Their own essential nature (svarūpa) is the fifteenth. Proceeding upwards to the next higher perceiver, the units decrease by two. Finally, at the top, only their essential nature remains, which is Śiva who is perceived directly as the consciousness beyond subject and object. Thus, in descent the units increase from one to three, then five and so on up to fifteen.
 
 
 *[p. 466]* ^pg480
@@ -546,7 +546,7 @@ examination of the (forms of) the descent of the power (of grace) (Śaktipāta).
 
 ### TĀ 1.301–307
 
-शिष्यौचित्यपरीक्षादौ स्नानभित्स्थानकल्पनम् ।। sndnabhit[^1294] ॥
+शिष्यौचित्यपरीक्षादौ स्नानभित्स्थानकल्पनम् ।। sndnabhit ॥
 सामान्यन्यासभेदोऽर्घपात्रं चैतत्प्रयोजनम् ।
 द्रव्ययोग्यत्वमची च बहिद्रीरार्चनं क्रमात् || ३०३ ॥।
 प्रवेशो दिक्स्वरूपं च देहप्राणादिशोधनम् ।
@@ -560,7 +560,7 @@ examination of the (forms of) the descent of the power (of grace) (Śaktipāta).
 स्वस्य सामयं कर्म समयाश्चेति संग्रह; ।
 समयित्वविधावस्मिन्स्यात्पञ्चदश आद्धिके ।। ३०८ ॥
 
-15\) śiṣyaucityaparīkṣādau snānabhit?” sthānakalpanam || 302 ॥
+15\) śiṣyaucityaparīkṣādau snānabhit[^1294] sthānakalpanam || 302 ॥
 sāmānyanyāsabhedo ‘rghapātrari caitat prayojanam |
 dravyayogyatvam arcā ca bahirdvārārcanai kramāt || 303 ॥
 praveśo diksvarūpaṁ ca dehaprānādiśodhanam |
@@ -584,7 +584,7 @@ Chapter Fifteen deals with the (basic) common initiation. The topics discussed h
 
 *[p. 467]* ^pg481
 
-(sthānakalpana), d) the kinds of common depositions (on the body), e) the sacrificial jar and its purpose, f) the appropriateness of the sacrificial substances, g) the outer sacrifice and the worship of the door, h) entry (into the abode of the sacrifice), i) the nature of the directions, j) the purification of the body and the vital breath etc., k) the variety of special depositions (on the body), 1) the worship of the body, m) the special rite for the sacrificial vessel, n) worship and deposition of the path in the vital breath, intellect, mind and the ९०१, o) the superiority (of our school) over those of other scriptures, p) the worship of the Wheel in all respects, q) taking possession of the field, r) the five products of the cow, s) the worship of the earth and Ganeśa, t) the worship of the Weapon, u) the fire sacrifice, v) the purification of the fire, w) the libation, x) the preparation of the sacrificial pap (caru), y) the stick for the teeth, z) the final purification, a2) the rite of Śiva’s hand, b2) the making of the bed, c2) the examination of dreams, d2) the rite (during which the initiate is taught) the Rules, and e2) the Rules (themselves). (302cd-308) (301-307ab) 
+(sthānakalpana), d) the kinds of common depositions (on the body), e) the sacrificial jar and its purpose, f) the appropriateness of the sacrificial substances, g) the outer sacrifice and the worship of the door, h) entry (into the abode of the sacrifice), i) the nature of the directions, j) the purification of the body and the vital breath etc., k) the variety of special depositions (on the body), 1) the worship of the body, m) the special rite for the sacrificial vessel, n) worship and deposition of the path in the vital breath, intellect, mind and the ९०१,[^1295] o) the superiority (of our school) over those of other scriptures, p) the worship of the Wheel in all respects, q) taking possession of the field, r) the five products of the cow, s) the worship of the earth and Ganeśa, t) the worship of the Weapon, u) the fire sacrifice, v) the purification of the fire, w) the libation, x) the preparation of the sacrificial pap (caru), y) the stick for the teeth, z) the final purification, a2) the rite of Śiva’s hand, b2) the making of the bed, c2) the examination of dreams, d2) the rite (during which the initiate is taught) the Rules, and e2) the Rules (themselves). (302cd-308) (301-307ab) 
 
 ### TĀ 1.307–309
 
@@ -604,11 +604,11 @@ bhedo yojanikādeś ca ṣodaśe syād ihāhnike |
 
 16\) 
 
-Here in Chapter Sixteen will come (the following topics): a) the unifying contemplation of the constituents of the mandala,” b) (matters) concerning the animals fit to be offered, c) the propitiation of the fire, d) the inflaming of (the teacher’s) own essential nature, e) the procedure for the deposition of a Path on the disciple’s body, f) the variety of Paths to be purified and their 
+Here in Chapter Sixteen will come (the following topics): a) the unifying contemplation of the constituents of the mandala,[^1296] b) (matters) concerning the animals fit to be offered, c) the propitiation of the fire, d) the inflaming of (the teacher’s) own essential nature, e) the procedure for the deposition of a Path on the disciple’s body, f) the variety of Paths to be purified and their 
 
-1295\. Read citkhādhva- for citsvadhva-. See 15/295cd ff.
+[^1295]: Read citkhādhva- for citsvadhva-. See 15/295cd ff.
 
-1296\. Concerning the term anusaṁdhāna as meaning both ‘conjunction’ or ‘fusion’ and ‘contemplation’, see above note 1,1072. The expression mandalātmānusahdhānam reminds one of Śivasūtra 1/6 — ‘sakticakrānusaṁṁdhāne viśvasahhāraḥ — ‘when contemplating (and fusing together) the Wheel of Energies, the universe is withdrawn’ (see Dyczkowski 1992: 25). In this case, it is the constituent parts of the mandala that are conjoined together in the course of the ritual procedure, to be finally contemplated as one with Śiva.
+[^1296]: Concerning the term anusaṁdhāna as meaning both ‘conjunction’ or ‘fusion’ and ‘contemplation’, see above note 1,1072. The expression mandalātmānusahdhānam reminds one of Śivasūtra 1/6 — ‘sakticakrānusaṁṁdhāne viśvasahhāraḥ — ‘when contemplating (and fusing together) the Wheel of Energies, the universe is withdrawn’ (see Dyczkowski 1992: 25). In this case, it is the constituent parts of the mandala that are conjoined together in the course of the ritual procedure, to be finally contemplated as one with Śiva.
 
 
 *[p. 468]* ^pg482
@@ -646,7 +646,7 @@ Now a) the absence of (further) births etc. and b) the various types of Mantra w
 
 19\) 
 
-In (this chapter, which teaches the initiation) of immediate exit (from the body), is taught a) the ascertainment of impending death,” b) the deposition of the razor and the rest (in the dying man’s body), €) the circulation of (the breath in his) body and d) the procedure for the Brahmavidyā (that liberates him). (312cd-314ab) (311-312) 
+In (this chapter, which teaches the initiation) of immediate exit (from the body), is taught a) the ascertainment of impending death,[^1297] b) the deposition of the razor and the rest (in the dying man’s body), €) the circulation of (the breath in his) body and d) the procedure for the Brahmavidyā (that liberates him). (312cd-314ab) (311-312) 
 
 ### TĀ 1.313–315
 
@@ -654,7 +654,7 @@ In (this chapter, which teaches the initiation) of immediate exit (from the body
 इत्येतद्राच्यसर्वस्वं स्या्रिशतितमाहिके |
 मृतजीवद्विधिजीलोपदेशः संस्क्रियागणे ।। ३१५ ॥
 
-1297\. Read kālāvekṣā for kalāvekṣā.
+[^1297]: Read kālāvekṣā for kalāvekṣā.
 
 
 *[p. 469]* ^pg483
@@ -672,15 +672,15 @@ saṁkāccheda iti spaṣtaṁ vācyaṁi liṅgoddhṛtikrame |
 
 20\) 
 
-Now this is the essence of what is to be stated in Chapter Twenty: a) the inner purification, b) the examination (of the attainment) of authority"” and ९) the procedure of the scales. 
+Now this is the essence of what is to be stated in Chapter Twenty: a) the inner purification, b) the examination (of the attainment) of authority[^1298] and ९) the procedure of the scales. 
 
 21\) 
 
-The procedure (taught) in Chapter Twenty-One deals (includes) a) the procedure concerning (those who are absent, whether) dead or alive, b) the teaching of the net, c) the examination of the strength and weakness of the group of purifications.” 
+The procedure (taught) in Chapter Twenty-One deals (includes) a) the procedure concerning (those who are absent, whether) dead or alive, b) the teaching of the net, c) the examination of the strength and weakness of the group of purifications.[^1299] 
 
 22\) 
 
-In (this chapter, which is concerned with) the rite of extracting sectarian signs (from one who is converting to Śaivism), is found a clear exposition (vācya) of a) the proclamation (to the Lord) and (His) consent (to impart conversion), b) purification and liberation from sin, and c) the elimination of doubt. (314cd-317ab) (313-315) 
+In (this chapter, which is concerned with) the rite of extracting sectarian signs (from one who is converting to Śaivism), is found a clear exposition (vācya) of a) the proclamation[^1300] (to the Lord) and (His) consent (to impart conversion), b) purification and liberation from sin, and c) the elimination of doubt. (314cd-317ab) (313-315) 
 
 ### TĀ 1.316–317
 
@@ -699,11 +699,11 @@ taturvihśe ‘ntyayāgākhye vaktavyaṁ paricarcyate |
 
 In (Chapter Twenty-Three, which) deals with the consecration (of the teacher), is found a) the examination and creation of a teacher, b) his Mantra observance, ९) the removal of knowledge (from a deceitful disciple), d) the categories of those (deceitful teachers) and e) the (consecration into) the state of an adept. 
 
-1298\. Initiation imparts ‘authority’ or ‘aptitude’ to practice and achieve the goal of that practice. Thus, the examination of the outer signs of having attained it is essentially the ascertainment that the initiation has been imparted and received.
+[^1298]: Initiation imparts ‘authority’ or ‘aptitude’ to practice and achieve the goal of that practice. Thus, the examination of the outer signs of having attained it is essentially the ascertainment that the initiation has been imparted and received.
 
-1299\. Read saṁskriyāgane for sariskriyāganaḥ, as Gnoli suggests.
+[^1299]: Read saṁskriyāgane for sariskriyāganaḥ, as Gnoli suggests.
 
-1300\. Read śrāvaṇaṁ for śravanarmh.
+[^1300]: Read śrāvaṇaṁ for śravanarmh.
 
 
 *[p. 470]* ^pg484
@@ -756,12 +756,12 @@ vyākhyāvidhiḥ cyutavidhir gurupūjāvidhis tv iyat |
 naimittikaprakāśākhye ‘py aṣtāviṁśāhnike sthitam ॥ 324 ॥
 28) 
 
-In Chapter Twenty-Eight, which is called ‘the exposition of the occasional rites’ (naimittikaprakāśa), (the matters discussed include) a) the kinds of occasional events (naimittika), b) the injunction concerning their application, c) the various propitious times (parvan) and d) their special features, e) an examination (of the Sacrifice) of the assembly (cakra) and f) its worship. (Other topics include): g) a description of the purpose of the worship of the teacher’s birthday, the day he died and the like, h) an examination of death, h) the procedure concerning the gathering (melaka) of Yoginīs (णह) etc., i) the procedure for the explanation (of the scriptures), j) procedure for (the expiation of) transgressions (of the Rule),'? and k) the procedure for the worship of the teacher. (322-324) (320cd-323ab) 
+In Chapter Twenty-Eight, which is called ‘the exposition of the occasional rites’ (naimittikaprakāśa), (the matters discussed include) a) the kinds of occasional events (naimittika), b) the injunction concerning their application, c) the various propitious times (parvan) and d) their special features, e) an examination (of the Sacrifice) of the assembly (cakra) and f) its worship. (Other topics include): g) a description of the purpose of the worship of the teacher’s birthday, the day he died and the like, h) an examination of death, h) the procedure concerning the gathering (melaka) of Yoginīs (णह) etc., i) the procedure for the explanation (of the scriptures), j) procedure for (the expiation of) transgressions (of the Rule),[^1302] and k) the procedure for the worship of the teacher. (322-324) (320cd-323ab) 
 
 ### TĀ 1.323–324
 
 अधिकायीत्मनो भेदः सिद्धपत्नीकुलक्रमः ।
-अर्चीविधिरदौतविधी रहस्योपनिषतक्रमः ॥ Rule),[^1302] ॥
+अर्चीविधिरदौतविधी रहस्योपनिषतक्रमः ॥ Rule), ॥
 दीक्षाभिषेको वेधश्वत्येकोनत्रिंश आद्िके ।
 adhikāryātmano bhedaḥ siddhapatnīkulakramaḥ |
 arcāvidhir dautavidhī rahasyopaniṣatkramaḥ || 325 ॥
@@ -781,6 +781,7 @@ dīkṣābhiṣekau vedhaś cety ekonatriṁśa āhnike |
 30) mantrasvarūpari tadvīryam iti triṁśe nirūpitam | 326 ॥ 
 
 [^1302]: Read cyuta- for Śruta-.
+
 [^1303]: Read vedhaś for bodhaś.
 
 *[p. 472]* ^pg486
@@ -800,45 +801,45 @@ Chapter Thirty-One (was written) to fulfil the need for a detailed exposition of
 
 32\) 
 
-(Chapter Thirty-Two) deals with the Mudrās. The topics discussed (there) are a) (their) secondary and primary types, b) their nature, c) deliberation on (the nature of their) vitality (vīrya), and d) the various occasions (when they are applied). (326cd-328) (325-327ab) 
+(Chapter Thirty-Two) deals with the Mudrās. The topics discussed (there) are a) (their) secondary and primary types, b) their nature, c) deliberation on (the nature of their) vitality (vīrya), and d) the various occasions[^1304] (when they are applied). (326cd-328) (325-327ab) 
 
 #### Viveka on 1.325–327
 
 (The word) ‘thus’ (iri) (with which verse 284 begins and so marks the beginning of this entire section) does not just (imply) in this way that the greatness of this (book consists) only (in the contents that are briefly enunciated as the headings of each chapter), but in something else also, which is stated (in the passage) beginning with ‘these thirty-seven chapters’ and ending with ‘(chapter thirty-two) deals with’ (i.e. 
 
-the subsections of each chapter). Here (in this book), the author has, in accord with (the nature of) reality (which consists of thirty-seven principles), written thirty-seven chapters as a (single) whole (when read together as a book) and individually (when read as individual chapters)." Just 
+the subsections of each chapter). Here (in this book), the author has, in accord with (the nature of) reality (which consists of thirty-seven principles), written thirty-seven chapters as a (single) whole (when read together as a book) and individually (when read as individual chapters).[^1305] Just 
 
-as everything that is present within the Earth principle is in a gross form because it is predominantly based on duality, similarly, here also (all) that will be discussed is declared (in this, the first chapter, with the words) ‘all (the topics discussed in the Tantrāloka) are announced in due order (in the (first) तोषा). “The Supreme Means’ is the Means pertaining to Śiva (śāmbhavopāya). 1) It is generally said that (the nature) of this (means) is 
+as everything that is present within the Earth principle is in a gross form because it is predominantly based on duality, similarly, here also (all) that will be discussed is declared (in this, the first chapter, with the words) ‘all (the topics discussed in the Tantrāloka) are announced in due order (in the (first) तोषा).[^1306] “The Supreme Means’ is the Means pertaining to Śiva (śāmbhavopāya). 1) It is generally said that (the nature) of this (means) is 
 
-1304\. Read kālabheda for kalābheda.
+[^1304]: Read kālabheda for kalābheda.
 
-1305\. We shall see further ahead in Chapter Nine that reality is understood to be the undivided oneness of the thirty-seven metaphysical principles (वाव) as the one universal and transcendental consciousness. The principles are links in a causal chain, formed in such a way that the higher principles contain within themselves the lower ones in a potential form and contain the ones above as the actualization of their potential. Thus, a complete knowledge of any one of them is the knowledge of all of them. In other words, consciousness, the one reality, unfolds in such a way that the nature of each phase of its expansion contains all the others, in accord with the holistic motto of Trika Śaivism formulated by Śambhunātha, Abhinavagupta’s Trika master, namely, sarvaṁ sarvātmakam — ‘the nature of every (single thing) is everything’ (see PTv p. 165 ff.). Jayaratha is telling us here that Abhinava has written his Tantrāloka in the same way. A complete understanding of any one chapter (or, indeed of any part of it) is the same as a complete understanding of all of it. Jayaratha goes on to cite the first chapter, which corresponds to Earth, the lowest principle, as an example.
+[^1305]: We shall see further ahead in Chapter Nine that reality is understood to be the undivided oneness of the thirty-seven metaphysical principles (वाव) as the one universal and transcendental consciousness. The principles are links in a causal chain, formed in such a way that the higher principles contain within themselves the lower ones in a potential form and contain the ones above as the actualization of their potential. Thus, a complete knowledge of any one of them is the knowledge of all of them. In other words, consciousness, the one reality, unfolds in such a way that the nature of each phase of its expansion contains all the others, in accord with the holistic motto of Trika Śaivism formulated by Śambhunātha, Abhinavagupta’s Trika master, namely, sarvaṁ sarvātmakam — ‘the nature of every (single thing) is everything’ (see PTv p. 165 ff.). Jayaratha is telling us here that Abhinava has written his Tantrāloka in the same way. A complete understanding of any one chapter (or, indeed of any part of it) is the same as a complete understanding of all of it. Jayaratha goes on to cite the first chapter, which corresponds to Earth, the lowest principle, as an example.
 
-1306\. Above, 1/286cd (1/287ab).
+[^1306]: Above, 1/286cd (1/287ab).
 
 
 *[p. 473]* ^pg487
 
-(nondiscursive) thought-free (consciousness), and that is possible when there is no (perception of) duality, which (takes place) when the universe of words and their meanings is (realized to be) the one (pure) consciousness. There (in that context), the universe of (things) denoted by words is a reflection within consciousness and, as such, is of two kinds, namely, universal (as consciousness) and particular (as the reflections within it). 2, 3) Moreover, the universe of words is (also) said to be one (as is that of their meanings), because the Mantras etc. (from which the universe is generated) and the progressive emergence of the forms of reflective awareness (that correspond to the letters from which they are constructed) are (both an) undivided (unity), because they are not separate from consciousness.” These are the three things to be known (by this, the Supreme Means,) included here (in Chapter Three, which is dedicated to it). 
+(nondiscursive) thought-free (consciousness), and that is possible when there is no (perception of) duality, which (takes place) when the universe of words and their meanings is (realized to be) the one (pure) consciousness. There (in that context), the universe of (things) denoted by words is a reflection within consciousness and, as such, is of two kinds, namely, universal (as consciousness) and particular (as the reflections within it). 2, 3) Moreover, the universe of words is (also) said to be one (as is that of their meanings), because the Mantras etc. (from which the universe is generated) and the progressive emergence of the forms of reflective awareness (that correspond to the letters from which they are constructed) are (both an) undivided (unity), because they are not separate from consciousness.[^1307] These are the three things to be known (by this, the Supreme Means,) included here (in Chapter Three, which is dedicated to it).[^1308] 
 
-Again, the nature of the Empowered (Means) is the transformation (of thought constructs) (vikalpaka). Thus, 1) the purification of thought is the first thing that is discussed (in the beginning of Chapter Four, which is dedicated to this Means. There) it is explained (how this takes place) through (sound discriminative) reasoning by reflecting on, for example, (the true nature of) what should be avoided (and what should be adopted in order to realise the reality of consciousness, which is free of such conceived distinctions). 2) Thus (an exposition of the) nature of that (sound discriminative reasoning) follows after that. 3) Moreover, one acquires a true teacher by virtue of the radiant brilliance (visphūrjita) of (sound discriminative) reasoning, which is essentially Pure Knowledge (śuddhavidyā).” 4) Thus he explains that, along with its true nature. 5) (Sound discriminative) reasoning (in this sense) is a direct and clearly apparent auxiliary (aṅga)"" of Yoga, and so the other auxiliaries of Yoga are of no use. 6)Moreover, as (sound discriminative) reasoning (tarka)?! is 
+Again, the nature of the Empowered (Means) is the transformation (of thought constructs) (vikalpaka). Thus, 1) the purification of thought is the first thing that is discussed (in the beginning of Chapter Four, which is dedicated to this Means. There) it is explained (how this takes place) through (sound discriminative) reasoning by reflecting on, for example, (the true nature of) what should be avoided (and what should be adopted in order to realise the reality of consciousness, which is free of such conceived distinctions). 2) Thus (an exposition of the) nature of that (sound discriminative reasoning) follows after that. 3) Moreover, one acquires a true teacher by virtue of the radiant brilliance (visphūrjita) of (sound discriminative) reasoning, which is essentially Pure Knowledge (śuddhavidyā).[^1309] 4) Thus he explains that, along with its true nature. 5) (Sound discriminative) reasoning (in this sense) is a direct and clearly apparent auxiliary (aṅga)[^1310] of Yoga, and so the other auxiliaries of Yoga are of no use. 6)Moreover, as (sound discriminative) reasoning (tarka)[^1311] is 
 
-1307\. ‘Both’ may also be the universe of words and the things they denote. These two are both one with nondiscursive pure consciousness, and so as they are two aspects of it; they are essentially one with one another.
+[^1307]: ‘Both’ may also be the universe of words and the things they denote. These two are both one with nondiscursive pure consciousness, and so as they are two aspects of it; they are essentially one with one another.
 
-1308\. We have seen that these three topics discussed in Chapter Three, that deals with the Supreme Means, are a) the reflection of all things within consciousness, b) the sequence of the arising of (the fifty forms) of reflective awareness (that flow as pure T-consciousness represented by the letters of the alphabet), and c) the oneness (of these forms of reflective awareness) with Mantra and the rest.
+[^1308]: We have seen that these three topics discussed in Chapter Three, that deals with the Supreme Means, are a) the reflection of all things within consciousness, b) the sequence of the arising of (the fifty forms) of reflective awareness (that flow as pure T-consciousness represented by the letters of the alphabet), and c) the oneness (of these forms of reflective awareness) with Mantra and the rest.
 
-1309\. See below, 4/11 1cd ff.
+[^1309]: See below, 4/11 1cd ff.
 
-1310\. See above, note 1,184.
+[^1310]: See above, note 1,184.
 
-1311\. The term ‘arka’ literally means ‘reasoning’, ‘speculation’, ‘inquiry’, ‘logic’, or ‘confutation’. It is a common word for ‘logic’, and as such denotes both the discipline of logic and the Nyāya school of Indian philosophy, which supports what one could call the everyday ‘common sense’ understanding of the nature of reality. To do this, it developed an elaborate system of logic and formalized the principles of philosophical debate, and so is also sometimes called ‘rarkaśāstra’. The sense of ‘tarka’ in the Mālinīvijayottara, from which Abhinavagupta draws the term, is the discriminating discernment between what is to be adopted (upādeya) and what should be rejected (heyādyālocanā) (MV 17/18). Thus, as Abhinava explains it, it is a kind of reasoning insofar as it involves the operation and use of notions (vikalpa) that are exclusive of one another to form assessments. However, it differs also if understood as Pure Knowledge, which does not involve ratiocination, but is, on the contrary, an intuitive direct insight into the nature of reality, that is free of thought constructs. But we should not understand what is meant by ‘rarka’ as just insight, intuitive knowledge, as opposed to the dry logic of ‘rarka’, the former free of thought constructs and the latter quite the opposite. ‘Right or sound reasoning’ — sattarka mediates between the two — thought and the consciousness beyond it, which knows itself both as the transcendental perceiver who is all things and immanently as all things of which it is the true nature. One could say, in a way, that it is a ‘thoughtless thought’. It is ‘thoughtless’ because it is the insight consciousness has of itself as reality, which knows itself not just abstractly beyond all conceptual representation, but also concretely in every tiny detail of all that exists. It is ‘thought’ because insight issues into thought as the teachings and from them, by profound insight into their meaning, which ultimately transcends it. In other words, it is both the destination and the way to it. Accordingly, it is not wrong to retain, in part at least, the literal meaning of the word sattarka by translating as it as ‘sound discriminative intuitive reasoning’.
+[^1311]: The term ‘arka’ literally means ‘reasoning’, ‘speculation’, ‘inquiry’, ‘logic’, or ‘confutation’. It is a common word for ‘logic’, and as such denotes both the discipline of logic and the Nyāya school of Indian philosophy, which supports what one could call the everyday ‘common sense’ understanding of the nature of reality. To do this, it developed an elaborate system of logic and formalized the principles of philosophical debate, and so is also sometimes called ‘rarkaśāstra’. The sense of ‘tarka’ in the Mālinīvijayottara, from which Abhinavagupta draws the term, is the discriminating discernment between what is to be adopted (upādeya) and what should be rejected (heyādyālocanā) (MV 17/18). Thus, as Abhinava explains it, it is a kind of reasoning insofar as it involves the operation and use of notions (vikalpa) that are exclusive of one another to form assessments. However, it differs also if understood as Pure Knowledge, which does not involve ratiocination, but is, on the contrary, an intuitive direct insight into the nature of reality, that is free of thought constructs. But we should not understand what is meant by ‘rarka’ as just insight, intuitive knowledge, as opposed to the dry logic of ‘rarka’, the former free of thought constructs and the latter quite the opposite. ‘Right or sound reasoning’ — sattarka mediates between the two — thought and the consciousness beyond it, which knows itself both as the transcendental perceiver who is all things and immanently as all things of which it is the true nature. One could say, in a way, that it is a ‘thoughtless thought’. It is ‘thoughtless’ because it is the insight consciousness has of itself as reality, which knows itself not just abstractly beyond all conceptual representation, but also concretely in every tiny detail of all that exists. It is ‘thought’ because insight issues into thought as the teachings and from them, by profound insight into their meaning, which ultimately transcends it. In other words, it is both the destination and the way to it. Accordingly, it is not wrong to retain, in part at least, the literal meaning of the word sattarka by translating as it as ‘sound discriminative intuitive reasoning’.
 
 
 *[p. 474]* ^pg488
 
-essentially Pure Knowledge, and so because it counters Māyā’s dualistic thought constructs, ritual worship and the like, which is conceptual, is not taken into consideration (when practicing the Empowered Means). 7) Thus, the Cycle of Consciousness (saṁviccakra) (of the Twelve Kālīs) dawns by virtue of the stability of the purification of thought."? 8) That dawning (of the cycle of the Twelve Kālīs) is the supreme vitality of Mantras, and the reflective awareness (that operates) in this way is the true repetition of Mantra and (all) other (ritual procedures). 9) Thus, because there is no duality in consciousness, prohibitions and injunctions are equal (and both useless). In this way, (the fourth chapter, which deals with the Empowered Means,) contains nine things to be known (by means of the Empowered Means). 
+essentially Pure Knowledge, and so because it counters Māyā’s dualistic thought constructs, ritual worship and the like, which is conceptual, is not taken into consideration (when practicing the Empowered Means). 7) Thus, the Cycle of Consciousness (saṁviccakra) (of the Twelve Kālīs) dawns by virtue of the stability of the purification of thought.[^1312] 8) That dawning (of the cycle of the Twelve Kālīs) is the supreme vitality of Mantras, and the reflective awareness (that operates) in this way is the true repetition of Mantra and (all) other (ritual procedures). 9) Thus, because there is no duality in consciousness, prohibitions and injunctions are equal (and both useless). In this way, (the fourth chapter, which deals with the Empowered Means,) contains nine things to be known (by means of the Empowered Means). 
 
-In the same way, the (practice of) meditation by means of the intellect (buddhidhyāna)" and the rest, which belong to the Individual Means, also serve directly as a means to that (Empowered Means). We have not explained every word, because (much) is clear (as it is) and for fear of making the book too long, and also because (much) will be explained further ahead. Thus, one should understand it for oneself. 
+In the same way, the (practice of) meditation by means of the intellect (buddhidhyāna)[^1313] and the rest, which belong to the Individual Means, also serve directly as a means to that (Empowered Means). We have not explained every word, because (much) is clear (as it is) and for fear of making the book too long, and also because (much) will be explained further ahead. Thus, one should understand it for oneself. 
 
 Surely (one may ask,) why has the subsequent (detailed) enunciation of the chapters from (thirty-three), which deals with the assembly (of deities), not been made? With this question in mind, he says: 
 
@@ -849,16 +850,16 @@ Surely (one may ask,) why has the subsequent (detailed) enunciation of the chapt
 
 dvātriṁśatattvād īśākhyāt prabhṛti prasphuṭo yataḥ | 
 
-1312\. Read eva vikalpasariskārasya for evāvikalpasariskārasya. If we do not make this emendation, the meaning is ‘the stability of the latent trace (of consciousness) free of thought’. But this makes little sense, as it is thought that leaves behind latent traces. The other sense of ‘purification’ would also not apply to the thought-free condition, which is that of ‘pure’ consciousness. The Dawning of the Cycle of Consciousness within the expanse of individual consciousness completes the process begun by Sound Reasoning, by removing the last traces of doubts from which dualistic thought constructs germinate. See below, 4/122cd ff. more specifically 4/148 ff.
+[^1312]: Read eva vikalpasariskārasya for evāvikalpasariskārasya. If we do not make this emendation, the meaning is ‘the stability of the latent trace (of consciousness) free of thought’. But this makes little sense, as it is thought that leaves behind latent traces. The other sense of ‘purification’ would also not apply to the thought-free condition, which is that of ‘pure’ consciousness. The Dawning of the Cycle of Consciousness within the expanse of individual consciousness completes the process begun by Sound Reasoning, by removing the last traces of doubts from which dualistic thought constructs germinate. See below, 4/122cd ff. more specifically 4/148 ff.
 
-1313\. See below, 5/19cd-42.
+[^1313]: See below, 5/19cd-42.
 
 
 *[p. 475]* ^pg489
 
 na bhedo ‘sti tato noktam uddeśāntaram atra tat || 329 ॥ 
 
-The reason why there is no other enunciation here of (the contents of the Tantrāloka) is stated (beyond chapter thirty-two) is because, from the thirty-second principle, that is, the one called 52, "onwards, there is no clearly apparent division (bheda). (329) (327cd-328ab) 
+The reason why there is no other enunciation here of (the contents of the Tantrāloka) is stated (beyond chapter thirty-two) is because, from the thirty-second principle, that is, the one called 52,[^1314] onwards, there is no clearly apparent division (bheda). (329) (327cd-328ab) 
 
 #### Viveka on 1.327–328
 
@@ -871,7 +872,7 @@ Now if there is no differentiation (bheda) from there onwards, what was the purp
 मुख्यत्वेन च वेद्यत्वादधिकारान्तरक्रमः ।
 mukhyatvena ca vedyatvād adhikārāntarakramaḥ | 
 
-The remaining series of chapters (adhikāra) (corresponding to the inner sequence of competence within consciousness) (adhikārāntarakrama) is due to the (subtle presence of) objectivity (at the higher reality levels) in its primary (most generic, internal) form.” (330ab) (328cd) 
+The remaining series of chapters (adhikāra) (corresponding to the inner sequence of competence within consciousness) (adhikārāntarakrama) is due to the (subtle presence of) objectivity (at the higher reality levels) in its primary (most generic, internal) form.[^1315] (330ab) (328cd) 
 
 #### Viveka on 1.328
 
@@ -884,14 +885,14 @@ Concluding this (topic), he introduces another one.
 ity uddeśavidhiḥ proktaḥ sukhasahigrahahetave |
 athāsya lakṣaṇāvekṣe nirūpyete yathākramam ॥ 330 ॥ 
 
-1314\. See below, 9/50cd-53ab. This is Śuddha Vidyā, the first of the series of five pure principles in which nonduality prevails.
+[^1314]: See below, 9/50cd-53ab. This is Śuddha Vidyā, the first of the series of five pure principles in which nonduality prevails.
 
-1315\. There is enough differentiation (bheda) for there to be five metaphysical principles and corresponding reality levels beyond the thirty-second, although oneness between subjective consciousness and its objective contents prevails at these levels. Abhinava explains that the objectivity present even at these levels is in its ‘primary form’, in the sense that it is the experience that the subject has of itself as objectivity, which at its highest level is the immanent aspect of transcendental subjectivity. It is primary because it precedes and is the basis of outer objectivity, that is experienced as external and independent of the subject.
+[^1315]: There is enough differentiation (bheda) for there to be five metaphysical principles and corresponding reality levels beyond the thirty-second, although oneness between subjective consciousness and its objective contents prevails at these levels. Abhinava explains that the objectivity present even at these levels is in its ‘primary form’, in the sense that it is the experience that the subject has of itself as objectivity, which at its highest level is the immanent aspect of transcendental subjectivity. It is primary because it precedes and is the basis of outer objectivity, that is experienced as external and independent of the subject.
 
 
 *[p. 476]* ^pg490
 
-Such is the enunciation (uddeśa) (of the contents of the Tantrāloka), expounded in order (to present) an easy summary (of it). Now (in what follows), its definition and examination are presented in due order.” (330cdef) (329) 
+Such is the enunciation (uddeśa) (of the contents of the Tantrāloka), expounded in order (to present) an easy summary (of it). Now (in what follows), its definition and examination are presented in due order.[^1316] (330cdef) (329) 
 
 #### Viveka on 1.329
 
@@ -918,46 +919,46 @@ tasya svarūpaṁ sa ca nijamahasaśchādanād baddharūpaḥ |
 
 citrākārasya citraḥ prakaṭita iha yat saṁgrahenṇārtha eṣaḥ ॥ 331 ॥ 
 
-The Self is the abiding state (sthiti) of the Light of consciousness. It is (pure) consciousness without parts (or divisions) and so it encompasses (the entire) multitude of powers. By concealing its own glory, (it assumes) the bound form (of the fettered soul). Its liberation (comes about) by the procedure (vidhi) that reveals the Light of the Self, which is its own essential nature. The purport here (of the teachings) is this wonderfully various (liberated state of the fettered soul, whose) form is (also) various" and is revealed herein succinctly (sarigraheṇa) (by this collection of teachings). (331) (330) 
+The Self is the abiding state (sthiti) of the Light of consciousness. It is (pure) consciousness without parts (or divisions) and so it encompasses (the entire) multitude of powers. By concealing its own glory, (it assumes) the bound form (of the fettered soul). Its liberation (comes about) by the procedure (vidhi) that reveals the Light of the Self, which is its own essential nature. The purport here (of the teachings) is this wonderfully various (liberated state of the fettered soul, whose) form is (also) various[^1317] and is revealed herein succinctly (sarigraheṇa) (by this collection of teachings). (331) (330) 
 
 #### Viveka on 1.330
 
-Here (according to us), the essential nature of the Self is Light which, different from the (common) external light of the three abodes (of Sun, Moon and Fire), is consciousness alone. And consciousness is ‘without parts’. It is just one, and its form is undivided (continuous) Light. And so, in accord with the reason (yukti) stated previously, namely that ‘the power (śakti) (which is the functional efficacy) of an entity is its own (specific) nature as conceived by the subjects (who perceive it) (mātṛkalpita) (on the basis of its various effects), " the essential nature (svarūpa) of that Self (atman) has encompassed (within itself) endless powers. Although its nature is nondual in this way, it manifests 
+Here (according to us), the essential nature of the Self is Light which, different from the (common) external light of the three abodes (of Sun, Moon and Fire), is consciousness alone. And consciousness is ‘without parts’. It is just one, and its form is undivided (continuous) Light. And so, in accord with the reason (yukti) stated previously, namely that ‘the power (śakti) (which is the functional efficacy) of an entity is its own (specific) nature as conceived by the subjects (who perceive it) (mātṛkalpita) (on the basis of its various effects),’[^1318] the essential nature (svarūpa) of that Self (atman) has encompassed (within itself) endless powers. Although its nature is nondual in this way, it manifests 
 
-1316\. The first verse that follows defines the purport of the Tantrāloka and its contents. The following further examines it.
+[^1316]: The first verse that follows defines the purport of the Tantrāloka and its contents. The following further examines it.
 
-1317\. The variety of forms of liberation correspond, as we have seen (1/33), to the variety of traditions that teach forms of liberation corresponding to the form or level of the fettered soul.
+[^1317]: The variety of forms of liberation correspond, as we have seen (1/33), to the variety of traditions that teach forms of liberation corresponding to the form or level of the fettered soul.
 
-1318\. Above, 1/68 (69).
+[^1318]: Above, 1/68 (69).
 
 
 *[p. 477]* ^pg491
 
-the duality which is subject and object by concealing ‘its own glory’, that is, (its own unique) cognitive subjectivity and agency that it does not share in common with anything else, by (the power of) its own freedom, which does what is extremely difficult to do. (Thus,) in accord with the aforestated reason, namely, that ‘Śiva Himself has assumed the state of the fettered soul’, he is said to be ‘bound’. Even so, by reversing (this condition) (pratyāvṛtti), liberation is (achieved, which is) the unfolding experience (prathana) of one’s own ‘glory’, that is, (supreme) cognitive subjectivity and agency, in accord with the aforestated view, namely: 
+the duality which is subject and object by concealing ‘its own glory’, that is, (its own unique) cognitive subjectivity and agency that it does not share in common with anything else, by (the power of) its own freedom, which does what is extremely difficult to do. (Thus,) in accord with the aforestated reason, namely, that ‘Śiva Himself has assumed the state of the fettered soul’,[^1319] he is said to be ‘bound’. Even so, by reversing (this condition) (pratyāvṛtti), liberation is (achieved, which is) the unfolding experience (prathana) of one’s own ‘glory’, that is, (supreme) cognitive subjectivity and agency, in accord with the aforestated view, namely: 
 
-‘Liberation is nothing but the (full and complete) experience (prathana) of one’s own nature. And the nature of the Self is (pure) consciousness." 
+‘Liberation is nothing but the (full and complete) experience (prathana) of one’s own nature. And the nature of the Self is (pure) consciousness.’[^1320] 
 
 Moreover, as is the reality (they teach), such is the extent of the multitude of each of the endless (collections of) scriptures (दकव). He says this (by stating) ‘and this’ etc. And this ‘liberation’, which is the penetration pertaining to Śiva and the rest (of them), is ‘wonderfully various’ and is ‘revealed herein’, that is, in this chapter. (It is the liberated state of the fettered soul, whose) nature is various according to the plane of the particular philosophy taken up as the basis (of practice and insight,) in accord with the aforestated view: 
 
-“I am unsullied by attachment and the like”, “I am inwardly empty” and “I am inactive” (only this manner of knowledge, whether, collectively or individually, can liberate from that much (bondage).)” / 
+“I am unsullied by attachment and the like”, “I am inwardly empty” and “I am inactive” (only this manner of knowledge, whether, collectively or individually, can liberate from that much (bondage).)’[^1321] 
 
-Or else its ‘form is various’ in accord with the following teaching: ‘Thus, the wonderful diversity of that sentient aspect, (variously) called, for example, the individual soul (pudgala) or atom (of consciousness) (anu), rests in many ways in the aspect (of consciousness) that is unobscured.’"? 
+Or else its ‘form is various’ in accord with the following teaching: ‘Thus, the wonderful diversity of that sentient aspect, (variously) called, for example, the individual soul (pudgala) or atom (of consciousness) (anu), rests in many ways in the aspect (of consciousness) that is unobscured.’[^1322] 
 
 And such statements as: 
 
-‘Thus, while the Pervasive Lord (vibhu) reveals His own complete form (in all His fullness) to one perceiver (pramātr), (He does so) to some (other) part by part, progressively.’ "” 
+‘Thus, while the Pervasive Lord (vibhu) reveals His own complete form (in all His fullness) to one perceiver (pramātr), (He does so) to some (other) part by part, progressively.’[^1323] 
 
 ‘This is the purport’ (concerning the nature) of the two, bondage and liberation, revealed (here in this chapter) ‘succinctly’, that is, in brief. This is the way (one arrives at the) connected (prose order and sense of the words). 
 
-1319\. PS 5d. This quarter verse is also quoted above in TĀv ad 1/222-223 and below ad 9/144cd-145ab. Cf TĀv ad 6/41cd-42ab.
+[^1319]: PS 5d. This quarter verse is also quoted above in TĀv ad 1/222-223 and below ad 9/144cd-145ab. Cf TĀv ad 6/41cd-42ab.
 
-1320\. Above, 1/156abc. Also quoted above in TĀv ad 1/31 and the full verse is quoted below ad 16/90cd-93ab.
+[^1320]: Above, 1/156abc. Also quoted above in TĀv ad 1/31 and the full verse is quoted below ad 16/90cd-93ab.
 
-1321\. Above, 1/33ab.
+[^1321]: Above, 1/33ab.
 
-1322\. Above, 1/137.
+[^1322]: Above, 1/137.
 
-1323\. Above, 1/140.
+[^1323]: Above, 1/140.
 
 
 *[p. 478]* ^pg492
@@ -980,33 +981,33 @@ yat tu prekṣyaṁ dṛśi parigataṁ taimirīṁn doṣamudrāmn
 
 dūra runddhet prabhavatu kathaṁ tatra mālinyaśaṁkā ॥ 332 ॥ 
 
-False knowledge is a darkness that gives birth to (countless) unique defects of vision. It is due to its existence (sadbhāva) that (consciousness), although (perfectly) pure, appears to be the abode of impurity. What one should perceive, (once placed) around the eye (like collyrium), should block (and remove) to a great distance the disease of (that) darkness which seals (the eyes) (doṣamudrā). How (then) could doubt (that there is any) impurity there prevail (again)? (332) (331) 
+False knowledge is a darkness that gives birth to (countless) unique defects of vision. It is due to its existence (sadbhāva) that (consciousness), although (perfectly) pure, appears to be the abode of impurity. What one should perceive, (once placed) around the eye (like collyrium), should block (and remove)[^1324] to a great distance the disease of (that) darkness which seals (the eyes) (doṣamudrā). How (then) could doubt (that there is any) impurity there prevail (again)? (332) (331) 
 
 #### Viveka on 1.331
 
-‘Darkness’ is the Individual Impurity (āṇavamala) which is ‘false knowledge’, that is, the perception of duality (bhedaprathā), which is incomplete (apūrṇa) knowledge (vedana). ‘Vision’ is full (and complete) (pūrṇa) consciousness. It generates ‘(countless) unique defects’, such as the mistaken identification (of the Self with the body,) which is not the Self. Thus, because false knowledge exists, although that consciousness (काव) is ‘pure’ and also full, it ‘appears to be the abode of impurity’, that is, it manifests itself as incomplete (apūrṇa) by its own freedom. Thus, (it operates in this way) in the commerce of daily existence, as such is the extent of reality (manifest in the state of bondage). But on the contrary, what one should perceive as the goal, that is, (what) one must certainly know, is (that) full (and all-embracing) consciousness’? which is one with the supreme subject. (It is said): 
+‘Darkness’ is the Individual Impurity (āṇavamala) which is ‘false knowledge’, that is, the perception of duality (bhedaprathā), which is incomplete (apūrṇa) knowledge (vedana). ‘Vision’ is full (and complete) (pūrṇa) consciousness. It generates ‘(countless) unique defects’, such as the mistaken identification (of the Self with the body,) which is not the Self. Thus, because false knowledge exists, although that consciousness (काव) is ‘pure’ and also full, it ‘appears to be the abode of impurity’, that is, it manifests itself as incomplete (apūrṇa) by its own freedom. Thus, (it operates in this way) in the commerce of daily existence, as such is the extent of reality (manifest in the state of bondage). But on the contrary, what one should perceive as the goal, that is, (what) one must certainly know, is (that) full (and all-embracing) consciousness[^1325] which is one with the supreme subject. (It is said): 
 
 ‘I am not the vital breath, nor the body. I am not the mind, nor am I the intellect, ego or intelligence (dhī). I am that aspect which is the knower (jñārśa) who is here (amongst them).” 
 
-1324\. This translation follows Jayaratha’s explanation. Another, I would say better one, could be ‘the object of perception transcended (parigata) in the act of perception (dṛsi), sets aside . . ."
+[^1324]: This translation follows Jayaratha’s explanation. Another, I would say better one, could be ‘the object of perception transcended (parigata) in the act of perception (dṛsi), sets aside . . ."
 
-1325\. Read pārnaṁ jñānar for pūrna jñānaṁ.
+[^1325]: Read pārnaṁ jñānar for pūrna jñānaṁ.
 
 
 *[p. 479]* ^pg493
 
-Mounted on the plane of (pure) reflective awareness by progressively divesting (oneself of false identification) in accord with this teaching (nīti), ‘the darkness which seals (the eyes) (doṣamudrā)’, that arises from the false knowledge which is the (false) arrogation of Self onto (the body etc.,) that is not the Self, should be blocked (and removed) to a great distance, that is, it should be obscured by identifying the Self with what is (truly) the Self. Then’ what ‘doubt (that there is any) impurity there’ can there be? There is not even the possibility (then of its prevailing) there (again). Thus, in reality there is neither bondage, nor liberation (for that matter), of any sort, and so what variety could there possibly be there? (It is said,) with the same intended sense: 
+Mounted on the plane of (pure) reflective awareness by progressively divesting (oneself of false identification) in accord with this teaching (nīti), ‘the darkness which seals (the eyes) (doṣamudrā)’, that arises from the false knowledge which is the (false) arrogation of Self onto (the body etc.,) that is not the Self, should be blocked (and removed) to a great distance, that is, it should be obscured by identifying the Self with what is (truly) the Self. Then[^1326] what ‘doubt (that there is any) impurity there’ can there be? There is not even the possibility (then of its prevailing) there (again). Thus, in reality there is neither bondage, nor liberation (for that matter), of any sort, and so what variety could there possibly be there? (It is said,) with the same intended sense: 
 
-‘In reality there is no world of transmigration, (so) how can there be any question of embodied beings being bound? Acting (to achieve) liberation (muktikriyā) on the part of one who is liberated and who is not bound is not in accord with reality (दवद). This (cosmic) illusion (which is like) the rope (mistaken for a) snake and shade (mistaken for a) demon is a creation of false illusion. Abandon nothing! Take up nothing! Established in yourself just as you are, take rest! "7 
+‘In reality there is no world of transmigration, (so) how can there be any question of embodied beings being bound? Acting (to achieve) liberation (muktikriyā) on the part of one who is liberated and who is not bound is not in accord with reality (दवद). This (cosmic) illusion (which is like) the rope (mistaken for a) snake and shade (mistaken for a) demon is a creation of false illusion. Abandon nothing! Take up nothing! Established in yourself just as you are, take rest!’[^1327] 
 
-1326\. Read radā for tatra and add iti after mālinyaśaṁkā.
+[^1326]: Read radā for tatra and add iti after mālinyaśaṁkā.
 
-1327\. This is the second verse of Anuttarāṣṭakastotra - A Hymn in Eight Verses to Anuttara (the Absolute). The first line is quoted again below in TĀv ad 4/92-94 and19/51-53ab (51cd-53), and the last in TĀv ad 5/74cd-75ab (74); cf. below 2/12. Instead of virama — ‘take rest’, the published text edited by K.C. Pandey (1963: 943- 944) reads vilasa and his MS A vihara. Both mean ‘play’. This hymn is commonly attributed to Abhinavagupta, but this may well not be so. Jayaratha does not introduce his quotations from it as being by Abhinava, either directly or by showing some special deference to the author, as he normally (but not invariably) does when he quotes the master. More significantly, this verse, like others in this hymn, appears to present the view of Advaita Vedānta, rather than nondual Śaivism. The view here is that the world is illusory. It is a product of the ignorance of the Brahman, which is the one true reality. This verse refers to the common example, of this ignorance as the sight of a rope viewed in a dark room appearing to be a snake, for the semblance of the world superimposed on the real Brahman in the darkness of ignorance. While this is a good example one from the perspective of Advaita Vedānta, it is not an apt one to represent the Śaiva nondualist view, which maintains that the world is made of the energies of absolute consciousness. It is not the product of ignorance. The snake is not freely produced by the rope as its authentic manifestation, albeit one that obscures its fundamental basis and true nature, as nondualist Śaiva metaphysics would maintain. Jayaratha introduces this verse saying that it conveys what Abhinava means to say. But that is not correct. Abhinava is not saying that the ‘defect of vision’ gives rise to an illusion of an existent world. He is only saying that it is due to that that one fails to see that consciousness is pure. It is not, and cannot be, contaminated by any extraneous reality — as the dualist maintains, or indeed, by any mistaken notions — as the nondualist Vedāntin must inevitably accept. The purity of consciousness is its all-inclusive nature, which excludes nothing, because all that appears in any way is its manifestation. The view expressed in the Paramārthacarcā appears likewise to be that of Advaita Vedānta, Both these texts, as Sanderson (2007: 381) points out, ‘survive in Kashmirian manuscripts with colophons that assert that Abhinavagupta is their author. But I know of no evidence that confirms this assertion. Nor am I aware of any that refutes it. However, the fact that Jayaratha cites a line from the former without attribution does not inspire confidence, since this goes a; his usual practice when quoting Abhinavagupta’. Sanderson is referring to the of the first line of this verse in TĀv ad 4/92-94, That such contamination is possible is exemplified by the Mahopadeśaviṁṛśatika, which is another hymn attributed to Abhinavagupta with clear Advaita Vedānta leanings. In actual fact it is, as Sanderson (ibid. n 485) says: ‘for the most part a reworking and reframing of the first part (vv. 2-8) of the Nirgunamānasapūjā, which is one of the more than 300 hymns ascribed to Śaṅkara in the South Indian Smārta tradition under the spiritual authority of the Śaṅkarācāryas of 11 and Kāñcī.
+[^1327]: This is the second verse of Anuttarāṣṭakastotra - A Hymn in Eight Verses to Anuttara (the Absolute). The first line is quoted again below in TĀv ad 4/92-94 and19/51-53ab (51cd-53), and the last in TĀv ad 5/74cd-75ab (74); cf. below 2/12. Instead of virama — ‘take rest’, the published text edited by K.C. Pandey (1963: 943- 944) reads vilasa and his MS A vihara. Both mean ‘play’. This hymn is commonly attributed to Abhinavagupta, but this may well not be so. Jayaratha does not introduce his quotations from it as being by Abhinava, either directly or by showing some special deference to the author, as he normally (but not invariably) does when he quotes the master. More significantly, this verse, like others in this hymn, appears to present the view of Advaita Vedānta, rather than nondual Śaivism. The view here is that the world is illusory. It is a product of the ignorance of the Brahman, which is the one true reality. This verse refers to the common example, of this ignorance as the sight of a rope viewed in a dark room appearing to be a snake, for the semblance of the world superimposed on the real Brahman in the darkness of ignorance. While this is a good example one from the perspective of Advaita Vedānta, it is not an apt one to represent the Śaiva nondualist view, which maintains that the world is made of the energies of absolute consciousness. It is not the product of ignorance. The snake is not freely produced by the rope as its authentic manifestation, albeit one that obscures its fundamental basis and true nature, as nondualist Śaiva metaphysics would maintain. Jayaratha introduces this verse saying that it conveys what Abhinava means to say. But that is not correct. Abhinava is not saying that the ‘defect of vision’ gives rise to an illusion of an existent world. He is only saying that it is due to that that one fails to see that consciousness is pure. It is not, and cannot be, contaminated by any extraneous reality — as the dualist maintains, or indeed, by any mistaken notions — as the nondualist Vedāntin must inevitably accept. The purity of consciousness is its all-inclusive nature, which excludes nothing, because all that appears in any way is its manifestation. The view expressed in the Paramārthacarcā appears likewise to be that of Advaita Vedānta, Both these texts, as Sanderson (2007: 381) points out, ‘survive in Kashmirian manuscripts with colophons that assert that Abhinavagupta is their author. But I know of no evidence that confirms this assertion. Nor am I aware of any that refutes it. However, the fact that Jayaratha cites a line from the former without attribution does not inspire confidence, since this goes a; his usual practice when quoting Abhinavagupta’. Sanderson is referring to the of the first line of this verse in TĀv ad 4/92-94, That such contamination is possible is exemplified by the Mahopadeśaviṁṛśatika, which is another hymn attributed to Abhinavagupta with clear Advaita Vedānta leanings. In actual fact it is, as Sanderson (ibid. n 485) says: ‘for the most part a reworking and reframing of the first part (vv. 2-8) of the Nirgunamānasapūjā, which is one of the more than 300 hymns ascribed to Śaṅkara in the South Indian Smārta tradition under the spiritual authority of the Śaṅkarācāryas of 11 and Kāñcī.
 
 
 *[p. 480]* ^pg494
 
-This has been said elsewhere. Now, the ‘darkness’ is (that) particular disease of the eyes due to which the defect of knowing (things) otherwise (than they truly are) is generated in the (course of the) act of perception. It is blocked (and removed) by (the reality) that should be seen (as the true object of perception), which takes the place of collyrium and such things (that cleanse vision). There (in that case), there is not even a doubt (that there is any) impurity. Thus, this is the object of the analogy suggested (in this verse). 
+This has been said elsewhere. Now, the ‘darkness’ is (that) particular disease of the eyes due to which the defect of knowing (things) otherwise (than they truly are) is generated in the (course of the) act of perception. It is blocked (and removed) by (the reality) that should be seen (as the true object of perception), which takes the place of collyrium and such things (that cleanse vision).[^1328] There (in that case), there is not even a doubt (that there is any) impurity. Thus, this is the object of the analogy suggested (in this verse). 
 
 Now, for those others who, even though they do not know the supreme profundity of this treatise and its meaning, along with the reality (it teaches), who, by thinking in some other (contrary) manner, explain it in another (contrary) way, like something that is turned upside down (uttāna), the venerable author says the following, to mock them by way of false praise: 
 
@@ -1026,33 +1027,33 @@ yastvāmāha jadari jadaḥ sahṛdayaimanyatvaduhśikṣito
 
 manye ‘muṣya jadātmatā stutiadaṁ tvatsāmyasambhāvanāt || 333 ॥ 
 
-1328\. Here it appears that Jayaratha is departing from Abhinavagupta, who says, as I have translated, that the object of perception is transcended. If that is so, it is hard to understand how it can serve to cleanse perception, as Jayaratha maintains. Perhaps the point is that as the act of transcending the object in the moment of perception propels awareness into a state of pure consciousness, the object serves as a springboard and hence cleanses the vision of the fettered soul, which is focused on the object, not on the pure consciousness which transcends it. More directly, Jayaratha seems to mean that the true object of perception as ‘that which is to be seen’ (prekṣya) is Śiva Himself. The ‘emptiness’ of the first moment in the act of perception is the plenitude of Śiva consciousness, which cleanses the vision of obscuring thought constructs that arise in the second moment. Anyway, the practice is to perceive without elaboration. We just look at things without going into what they are specifically. In this way, it is possible to experience the underlying fundamental consciousness, which is not objective, and so is not subject to the limitations of objectivity. In the Buddhist Yoga of Naropa, this practice is likened to how a child looks with wonder at the paintings on the wall of a monastery with no idea of what they represent.
+[^1328]: Here it appears that Jayaratha is departing from Abhinavagupta, who says, as I have translated, that the object of perception is transcended. If that is so, it is hard to understand how it can serve to cleanse perception, as Jayaratha maintains. Perhaps the point is that as the act of transcending the object in the moment of perception propels awareness into a state of pure consciousness, the object serves as a springboard and hence cleanses the vision of the fettered soul, which is focused on the object, not on the pure consciousness which transcends it. More directly, Jayaratha seems to mean that the true object of perception as ‘that which is to be seen’ (prekṣya) is Śiva Himself. The ‘emptiness’ of the first moment in the act of perception is the plenitude of Śiva consciousness, which cleanses the vision of obscuring thought constructs that arise in the second moment. Anyway, the practice is to perceive without elaboration. We just look at things without going into what they are specifically. In this way, it is possible to experience the underlying fundamental consciousness, which is not objective, and so is not subject to the limitations of objectivity. In the Buddhist Yoga of Naropa, this practice is likened to how a child looks with wonder at the paintings on the wall of a monastery with no idea of what they represent.
 
 
 *[p. 481]* ^pg495
 
-O You who are all things (bhāvavrāta)! Having forcefully laid hold of the hearts of men, You dance (like an actor) with (Your) many ways of acting, and having concealed Your Heart as You do so, play! He who is dull (and devoid of higher states of consciousness) (jada), thinking he possesses an aesthetic sensitivity (though he does not), badly taught, says that You are dull matter (jada). I think that his dull (insensitive) nature (jadātmatā) is entitled to praise by virtue of (his) belief that (he) is the same as You (at least in this respect)!” (333) (332) 
+O You who are all things (bhāvavrāta)! Having forcefully laid hold of the hearts of men, You dance (like an actor) with (Your) many ways of acting, and having concealed Your Heart as You do so, play! He who is dull (and devoid of higher states of consciousness) (jada), thinking he possesses an aesthetic sensitivity (though he does not), badly taught, says that You are dull matter (jada). I think that his dull (insensitive) nature (jadātmatā) is entitled to praise by virtue of (his) belief that (he) is the same as You (at least in this respect)![^1329] (333) (332) 
 
 #### Viveka on 1.332
 
-‘O You who are all things! (O You who are all) phenomena such as (the colour) ‘blue’, having hidden Your Heart, and hence Your true nature, ‘having forcefully laid hold of the hearts’, that is, hopes, of all ‘men’ (who hold many) views (concerning Your nature) ‘You dance (like an actor) with (Your) many ways of acting’, and as you do so, play like an actor, that is, You manifest with an unreal (कादा) form, in accord with the manner (described in the following verse): 
+‘O You who are all things! (O You who are all) phenomena such as (the colour) ‘blue’, having hidden Your Heart, and hence Your true nature, ‘having forcefully laid hold of the hearts’, that is, hopes, of all ‘men’ (who hold many) views (concerning Your nature) ‘You dance (like an actor) with (Your) many ways of acting’, and as you do so, play like an actor, that is, You manifest with an unreal (कादा)[^1330] form, in accord with the manner (described in the following verse): 
 
-“Today He will fashion us from Nonbeing or from Being, or is this, (the source of our existence), two-fold? (Will He make us) permanent or impermanent? Mutually separate or undivided?” In this way, I think, the phenomena in the universe, intent on viewing the face of (true) existence (sadvadana),! their hearts blocked by silence, abide with difficulty.” 
+“Today He will fashion us from Nonbeing or from Being, or is this, (the source of our existence), two-fold? (Will He make us) permanent or impermanent? Mutually separate or undivided?” In this way, I think, the phenomena in the universe, intent on viewing the face of (true) existence (sadvadana),[^1331] their hearts blocked by silence, abide with difficulty.” 
 
-Thus, one who maintains that everything is insentient (matter), although devoid of aesthetic sensitivity, thinks of himself as possessing it, and so is ‘badly taught’, that is, knows nothing because of (his) false pride (due to which he identifies himself with the body and his personal existence alone), says that You, who are all things (bhāvavrata), are ‘dull matter’, that is, insentient. Thus, we make the following simile. The one who holds this view in actual fact believes himself to be like You, Who are consciousness, and so if he says that ‘You are Yourself like (phenomenal) existence, dull matter (jadātman)’, that is praise in the place of deprecation. In reality, the nature of (all) phenomena is consciousness; if they were not consciously known 
+Thus, one who maintains that everything is insentient (matter),[^1332] although devoid of aesthetic sensitivity, thinks of himself as possessing it, and so is ‘badly taught’, that is, knows nothing because of (his) false pride (due to which he identifies himself with the body and his personal existence alone), says that You, who are all things (bhāvavrata), are ‘dull matter’, that is, insentient. Thus, we make the following simile. The one who holds this view in actual fact believes himself to be like You, Who are consciousness, and so if he says that ‘You are Yourself like (phenomenal) existence, dull matter (jadātman)’, that is praise in the place of deprecation. In reality, the nature of (all) phenomena is consciousness; if they were not consciously known 
 
-1329\. Abhinava himself comments on this verse in DhĀI p. 127.
+[^1329]: Abhinava himself comments on this verse in DhĀI p. 127.
 
-1330\. In line with this nondualism, ‘unreal’ here does not mean illusory or even not ultimately real. Śiva manifests as everything both ‘real’ and ‘unreal’, ‘relative’ and ‘ultimate’, etc. These are ‘forms’ (rpa) of Siva. In other words, the view here is not that the world of phenomena is a product of ignorance, as is the snake which a rope is mistaken to be. The ‘unreal’, ‘non-ultimate’ universe of phenomena is a product of Śiva’s freedom to be that also without this limiting Him and without the universe being ‘unreal’ or ‘non-ultimate’. These forms are Śiva, Who manifests this way to Himself as the many limited perceivers. These too are similarly ‘unreal’ and ‘non-ultimate’, and yet not, for the same reason. This is Lord Śiva’s ‘dance’ and ‘play acting’, namely, His assumption of countless roles. The actor chooses to assume his role. The rope does not choose to be mistaken for a snake.
+[^1330]: In line with this nondualism, ‘unreal’ here does not mean illusory or even not ultimately real. Śiva manifests as everything both ‘real’ and ‘unreal’, ‘relative’ and ‘ultimate’, etc. These are ‘forms’ (rpa) of Siva. In other words, the view here is not that the world of phenomena is a product of ignorance, as is the snake which a rope is mistaken to be. The ‘unreal’, ‘non-ultimate’ universe of phenomena is a product of Śiva’s freedom to be that also without this limiting Him and without the universe being ‘unreal’ or ‘non-ultimate’. These forms are Śiva, Who manifests this way to Himself as the many limited perceivers. These too are similarly ‘unreal’ and ‘non-ultimate’, and yet not, for the same reason. This is Lord Śiva’s ‘dance’ and ‘play acting’, namely, His assumption of countless roles. The actor chooses to assume his role. The rope does not choose to be mistaken for a snake.
 
-1331\. The expression ‘sadvadana’ means both ‘face of (true) existence’ and ‘philosophy of Being’.
+[^1331]: The expression ‘sadvadana’ means both ‘face of (true) existence’ and ‘philosophy of Being’.
 
-1332\. Read sarvajadavādī for sarvo vādī.
+[^1332]: Read sarvajadavādī for sarvo vādī.
 
 
 *[p. 482]* ^pg496
 
-(acetyamāna) they would have no formal existence (rūpa) (as contents of consciousness). Thus, those who do not know this are more dull (and insentient) (jada) than even insentient (jada) phenomena.” So how can their being the same (sāmya) as phenomena that (are in reality) of the nature consciousness (which is Deity and so praiseworthy) end up being (an object of) deprecation? This is the sense (of this verse). Similarly, in relation to the main point also, the sense (of this verse is) that: may he who does not know the true nature of this book (and does not understand it correctly), not know it (— that doesn’t matter), however, if he says anything which differs (from what is taught here and insists that he is correct), it is he who is dull (and stupid) (jada); it is not a defect at all of this book. 
+(acetyamāna) they would have no formal existence (rūpa) (as contents of consciousness). Thus, those who do not know this are more dull (and insentient) (jada) than even insentient (jada) phenomena.[^1333] So how can their being the same (sāmya) as phenomena that (are in reality) of the nature consciousness (which is Deity and so praiseworthy) end up being (an object of) deprecation? This is the sense (of this verse). Similarly, in relation to the main point also, the sense (of this verse is) that: may he who does not know the true nature of this book (and does not understand it correctly), not know it (— that doesn’t matter), however, if he says anything which differs (from what is taught here and insists that he is correct), it is he who is dull (and stupid) (jada); it is not a defect at all of this book. 
 
 Surely (one may ask,) if this is the case, then (why not) request some other learned people to (make an effort to study and) understand this treatise (śāstra), so that having understood (the matter) here correctly (they) should not cultivate an aversion (to its teachings)? With this doubt in mind, he says: 
 
@@ -1076,18 +1077,18 @@ As (only) teachers free of impurity, whose nature is the very being of Śiva and
 
 #### Viveka on 1.333
 
-There are two (kinds of) people here in (this world) — those who have not received a descent of the power (of grace) and those who have. The former may be requested hundreds of times to (make an effort to) understand this (Tantrāloka), but not even their mind moves (towards doing that). Here (in this case), one should pay attention (to this), namely, that (simply) requesting (such people)' not to cultivate an aversion (to it) has no power (to change their 
+There are two (kinds of) people here in (this world) — those who have not received a descent of the power (of grace) and those who have. The former may be requested hundreds of times to (make an effort to) understand this (Tantrāloka), but not even their mind moves (towards doing that). Here (in this case), one should pay attention (to this), namely, that (simply) requesting (such people)[^1334] not to cultivate an aversion (to it) has no power (to change their 
 
-1333\. There is a play of words here that cannot be translated into English. The word ‘jada’ here translated as ‘dull (matter) and ʻinsentient’ also means ‘stupid’ in Sanskrit. So someone who is ‘jada’ is ‘stupid’, ‘dull’, ‘ignorant’ ‘unconscious’ and ‘insensitive’, like insentient matter.
+[^1333]: There is a play of words here that cannot be translated into English. The word ‘jada’ here translated as ‘dull (matter) and ʻinsentient’ also means ‘stupid’ in Sanskrit. So someone who is ‘jada’ is ‘stupid’, ‘dull’, ‘ignorant’ ‘unconscious’ and ‘insensitive’, like insentient matter.
 
-1334\. These are people who have not received grace and are not inspired to study the Tantrāloka. It may seem that Abhinava is saying that only fully realised teachers are fit to study the Tantrāloka. Jayaratha tacitly corrects this impression by referring to such teachers as ‘supremely fit’ (paramādhikārin). All those who are recipients of Śiva’s grace are inspired to exert themselves to grasp its meaning. These, too, he clearly implies, are fit to study the Tantrāloka, just by virtue of their divinely inspired desire to do 80.
+[^1334]: These are people who have not received grace and are not inspired to study the Tantrāloka. It may seem that Abhinava is saying that only fully realised teachers are fit to study the Tantrāloka. Jayaratha tacitly corrects this impression by referring to such teachers as ‘supremely fit’ (paramādhikārin). All those who are recipients of Śiva’s grace are inspired to exert themselves to grasp its meaning. These, too, he clearly implies, are fit to study the Tantrāloka, just by virtue of their divinely inspired desire to do 80.
 
 
 *[p. 483]* ^pg497
 
-attitude). Whereas the others (who have received grace), even if not requested (to do so), they themselves set about (doing what is necessary) in order to understand this (teaching). There (in that case) also, requesting is useless. (Accordingly,) he says: ‘the yearning (कन्द) to destroy the defect of aversion (for this work in others) is fruitless’. How are (the people) who have received a descent of the power (of grace)? He says they are ‘free of impurity’, that is, they are such that the impurity of their ignorance has fallen away. Thus, those who know the ‘supreme’, that is, the first (and foremost reality beyond which) there is nothing higher (anuttara) (A), and the ‘lower’, that is the last (final) emission (visarga) (H), are those who know the vitality of Mantra, which is the reflective awareness of supreme ‘T’-consciousness. Thus ‘their nature is the very being of Śiva’, that is, they possess the knowledge (jñāna) which is (the state of consciousness that is) one with the supreme subject. And so they are ‘teachers’ who teach the true nature of things. Thus, they are said to be supremely fit to understand this (Tantrāloka), as they ‘can make (a person) fit to ponder (on these teachings)’. As will be said (further ahead): ‘The characteristic. of a teacher is just this, namely, that he should know the first and last (letters of the alphabet ~ A and H). He who knows this is as worthy of devotion as I am (so’ham Śiva). He is Bhairava Himself, the deity." 
+attitude). Whereas the others (who have received grace), even if not requested (to do so), they themselves set about (doing what is necessary) in order to understand this (teaching). There (in that case) also, requesting is useless. (Accordingly,) he says: ‘the yearning (कन्द) to destroy the defect of aversion (for this work in others) is fruitless’. How are (the people) who have received a descent of the power (of grace)? He says they are ‘free of impurity’, that is, they are such that the impurity of their ignorance has fallen away. Thus, those who know the ‘supreme’, that is, the first (and foremost reality beyond which) there is nothing higher (anuttara) (A), and the ‘lower’, that is the last (final) emission (visarga) (H),[^1335] are those who know the vitality of Mantra, which is the reflective awareness of supreme ‘T’-consciousness. Thus ‘their nature is the very being of Śiva’, that is, they possess the knowledge (jñāna) which is (the state of consciousness that is) one with the supreme subject. And so they are ‘teachers’ who teach the true nature of things. Thus, they are said to be supremely fit to understand this (Tantrāloka), as they ‘can make (a person) fit to ponder (on these teachings)’. As will be said (further ahead): ‘The characteristic. of a teacher is just this, namely, that he should know the first and last (letters of the alphabet ~ A and H). He who knows this is as worthy of devotion as I am (so’ham Śiva). He is Bhairava Himself, the deity.’[^1336] 
 
-In order to show that this chapter and the one that follows are mutually connected, that is, gathered together as is wealth, he both concludes the end (of this chapter) and introduces the beginning (of the following one) with just one verse, for such is the author’s style. Accordingly, in (this,) the first half of the verse, he summarizes the sense (and purpose) of (this) chapter.” 
+In order to show that this chapter and the one that follows are mutually connected, that is, gathered together as is wealth, he both concludes the end (of this chapter) and introduces the beginning (of the following one) with just one verse, for such is the author’s style. Accordingly, in (this,) the first half of the verse, he summarizes the sense (and purpose) of (this) chapter.[^1337] 
 
 ### Dyczkowski's verse 335ab
 
@@ -1097,11 +1098,11 @@ In order to show that this chapter and the one that follows are mutually connect
 
 tantrāloke ‘bhinavaracite ‘mutra vijñānasattā-bhedodgāraprakatanapaṭāvāhnike ‘smin samāptiḥ | 
 
-1335\. The supreme is Anuttara, represented by the letter A. The ‘lower’ is the last, grossest form of emission (visarga) (see below, 3/143ab-143cd (3/142cd-143ab) and commentary), represented by the letter H. Together they constitute the beginning and end of AHAM (T), that is, the reflective awareness of the pure ‘T’ of absolute consciousness.
+[^1335]: The supreme is Anuttara, represented by the letter A. The ‘lower’ is the last, grossest form of emission (visarga) (see below, 3/143ab-143cd (3/142cd-143ab) and commentary), represented by the letter H. Together they constitute the beginning and end of AHAM (T), that is, the reflective awareness of the pure ‘T’ of absolute consciousness.
 
-1336?\. Below, 3/224.
+[^1336]: Below, 3/224.
 
-1337?\. The line that follows is the first half of the verse. The following chapter begins with the second half of the verse. This is how Abhinava links one chapter to the next throughout the Tantrāloka. It is a feature of the way he writes. Jayaratha points out that we are told in the first half of the verse, with which this chapter ends, that its sense and purpose is the exposition of the ‘perfect knowledge’. Abhinava introduces the following chapter by saying that he is going on to expound ‘the uninterrupted consciousness of the Absolute’, which is essentially the same subject that he presents in that chapter from another perspective.
+[^1337]: The line that follows is the first half of the verse. The following chapter begins with the second half of the verse. This is how Abhinava links one chapter to the next throughout the Tantrāloka. It is a feature of the way he writes. Jayaratha points out that we are told in the first half of the verse, with which this chapter ends, that its sense and purpose is the exposition of the ‘perfect knowledge’. Abhinava introduces the following chapter by saying that he is going on to expound ‘the uninterrupted consciousness of the Absolute’, which is essentially the same subject that he presents in that chapter from another perspective.
 
 
 *[p. 484]* ^pg498
@@ -1112,10 +1113,10 @@ This is the end of this (the first) chapter of the Tantrāloka, composed by Abhi
 
 This is the auspicious (end) (iti śivam). 
 
-Having received a faultless family lineage (janmakrama) from (his father), the learned and venerable Śṛṁgāraratha, and from the venerable Śaṅkhadhara a most excellent knowledge of all (the forms of) learning (vidyā) also, and an understanding of all the Āgamas from Siva, whose body is the venerable Kalyāṇa,' Jayaratha has explained the first chapter. May it be an object of reflection here for the wise! Thus ends the first chapter, called the ‘Elucidation of the Types of Discerning Insight (vijñāna) of the Tantrāloka, composed by the venerable Abhinavagupta, the most excellent and great Śaiva teacher (mahāmāheśvarācārya). It has a commentary called ‘Light’ (prakāśa) written by the venerable Rājānaka' Jayaratha. May this be an offering to Lord Siva. 
+Having received a faultless family lineage (janmakrama) from (his father), the learned and venerable Śṛṁgāraratha,[^1338] and from the venerable Śaṅkhadhara a most excellent knowledge of all (the forms of) learning (vidyā) also, and an understanding of all the Āgamas from Siva, whose body is the venerable Kalyāṇa,[^1339] Jayaratha has explained the first chapter. May it be an object of reflection here for the wise! Thus ends the first chapter, called the ‘Elucidation of the Types of Discerning Insight (vijñāna) of the Tantrāloka, composed by the venerable Abhinavagupta, the most excellent and great Śaiva teacher (mahāmāheśvarācārya). It has a commentary called ‘Light’ (prakāśa) written by the venerable Rājānaka[^1340] Jayaratha. May this be an offering to Lord Siva. 
 
-1338?\. Śmṁgāraratha, Jayaratha's father, was a minister of Rājarāja (Rājadeva, r. 1213-1236). He was initiated by Subhaṭadatta, as was Jayaratha. He was a descendent of Vibhūtidatta and author of a lost commentary on the Tantrāloka. See below, concluding verse 35 of the TĀv.
+[^1338]: Śmṁgāraratha, Jayaratha's father, was a minister of Rājarāja (Rājadeva, r. 1213-1236). He was initiated by Subhaṭadatta, as was Jayaratha. He was a descendent of Vibhūtidatta and author of a lost commentary on the Tantrāloka. See below, concluding verse 35 of the TĀv.
 
-1339?\. Jayaratha has referred to Kalyāṇa above in the introductory verse 2 as the teacher through whom he attained liberation.
+[^1339]: Jayaratha has referred to Kalyāṇa above in the introductory verse 2 as the teacher through whom he attained liberation.
 
-1340?\. Sanderson (2007: 240-241) explains that ‘rājānaka’ was a title give in Kashmir by the ruler to brahmin ministers and inherited by their descendants. The title has been given to a number of nondualist Śaiva teachers, including Abhinavagupta himself, Kṣemarāja, Rāma (who wrote the commentary (vivṛti) on the Spandakārikā), and Yogarāja. The social standing of these teachers is exemplified by Abhinavagupta himself, whose inner circle of devotees were members of families of ministers (see below, 37/66ab-84ab (37/65-83) and PTv concluding verses 5-10, where Abhinava tells us about them). Jayaratha reports that his ancestors included ministers under kings Yaśaskara (r. 939-948 CE), Ananta (r. 1028-1063), Uccala (r. 1101-1111) and Rājadeva (r. 1213-1236) (see below, concluding verse of the commentary, 8-41).
+[^1340]: Sanderson (2007: 240-241) explains that ‘rājānaka’ was a title give in Kashmir by the ruler to brahmin ministers and inherited by their descendants. The title has been given to a number of nondualist Śaiva teachers, including Abhinavagupta himself, Kṣemarāja, Rāma (who wrote the commentary (vivṛti) on the Spandakārikā), and Yogarāja. The social standing of these teachers is exemplified by Abhinavagupta himself, whose inner circle of devotees were members of families of ministers (see below, 37/66ab-84ab (37/65-83) and PTv concluding verses 5-10, where Abhinava tells us about them). Jayaratha reports that his ancestors included ministers under kings Yaśaskara (r. 939-948 CE), Ananta (r. 1028-1063), Uccala (r. 1101-1111) and Rājadeva (r. 1213-1236) (see below, concluding verse of the commentary, 8-41).

@@ -24,11 +24,11 @@ Amongst the most lucid and detailed accounts are those in the Svacchandatantra a
 
 It is more convenient to present that first, as it is very similar in the Svacchanda; indeed, the very wording in places is the same. The version in the NT appears to be a modification of the one in the Svacchanda, made to identify stage 9 — Śakti - with Kuṇdalinī. This is not stated directly in the Svacchanda, nor commonly in other sources that simple accept the sequence as it is in the Svacchanda. SvT 4/255 is identical to NT 22/21 (see below). These lines along with the preceding and following two lines are quoted by Jayaratha in TĀv ad 1/83cd-85ab (84cd-86ab). Clearly, he took that to be the standard basic reference. They declare that: 
 
-‘That (Vidyā with) eleven parts moves continuously within the vital breath. (They are) the letters A, U and M, along with the Point, the Half Moon, the Obstructress, Sound, End of Sound, Power, the Pervasive One and the Equal One, which is considered to be the eleventh.'! The Transmental is beyond that, and beyond that is the Untainted (Absolute — nirāmaya).’ SvT 4/254cd-256 
+‘That (Vidyā with) eleven parts moves continuously within the vital breath. (They are) the letters A, U and M, along with the Point, the Half Moon, the Obstructress, Sound, End of Sound, Power, the Pervasive One and the Equal One, which is considered to be the eleventh.[^1341] The Transmental is beyond that, and beyond that is the Untainted (Absolute — nirāmaya).’ SvT 4/254cd-256 
 
 We notice, by the way, that Kṣṣemarāja comments in much greater detail on this sequence in the NT than he does in the SvT. This may be taken to suggest that he wrote the commentary on the NT before that on the SvT and did not wish to repeat himself. As we shall see in Chapter Eight, the stages beyond the audible articulation of this ascent are incorporated into the Śaiva cosmology 
 
-1341?\. For SvT 4/255cd sakti\$ ca vyāpinī caiva samanaikādaśī smṛtā\\ NT 22/22ab reads: kaundalī vyāpinī Śaktiḥ samanāś ceti sīmayāḥ\\
+[^1341]: For SvT 4/255cd sakti\$ ca vyāpinī caiva samanaikādaśī smṛtā\\ NT 22/22ab reads: kaundalī vyāpinī Śaktiḥ samanāś ceti sīmayāḥ\\
 
 
 *[p. 486]* ^pg500

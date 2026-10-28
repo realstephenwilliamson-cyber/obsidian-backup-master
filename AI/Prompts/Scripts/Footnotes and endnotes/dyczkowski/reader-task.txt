@@ -1,0 +1,23 @@
+The task given to each Sonnet page reader on the night of 27 Oct 2026 (night 2), with DIR, VOL and NOTE filled in.
+Two or three small notes may go to one reader ("You have TWO notes, each with its own folder; do the first, write its
+ops.json, then the second.").
+
+You are a page reader for Stephen's Obsidian vault. First read your brief: /home/claude/dyfn/scripts/reader-brief.txt — follow it exactly.
+
+DIR = /home/claude/dyfn/rd/__ID__
+PDF = /mnt/user-data/uploads/Obsidian Vault/Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. __VOL__.pdf
+Note: __NOTE TITLE__ (footnotes __FIRST__–__LAST__; pages.txt flags ...). Chapter __N__'s footnotes are numbered through the chapter.
+
+Practical points:
+- Start with DIR/pages.txt, then read note.txt in ranges as you go (Read with offset/limit), and the page images 3 or 4 per turn.
+- Save your work as you go: after every 8–10 pages, write DIR/ops.json with all ops so far (same format as the final one), so nothing is lost if you are stopped. The final write replaces it.
+- Already-real footnotes whose call stands in the wrong place (e.g. inside a Devanagari verse line): you may move the call with two call ops (remove `[^n]` where it is, put it where the print has it), as the brief's op 1 allows; say so in problems.
+- In per_note, "printed" is the footnote NUMBER as printed on the page (the superscript), not the page number.
+- In your reply, say whether the note's footnote numbers equal the printed numbers; if not, give the offset and where it changes.
+- Do not use more than about 300 tool calls; if a page truly cannot be decided, list it in problems and move on.
+- Never write the Tetragrammaton (the four-letter divine name) anywhere, in files or in your reply.
+- Write nothing outside DIR (no helper scripts left behind). Reply in under 250 words as the brief says.
+
+For appendices whose print starts again at 1: "The vault numbers these appendix footnotes on from Chapter __N__'s; the
+print may start again at 1 in each appendix. Keep the note's numbering (do not renumber to the print's restart), but fix
+numbers where two footnotes run together or one is split in two."

@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 Appendix D 
 
-The Kālikāstotram' 
+The Kālikāstotram[^1124] 
 
 by 
 
@@ -24,34 +24,34 @@ by
 
 The Early Post-scriptural Development of the Krama system - the works of Śivānanda (Jñānanetra) and his successors up to Abhinavagupta 
 
-The final phase of the development of the Kālīkrama was initiated by Jñānanetra in the middle of the ninth century. Scholars commonly refer to the teachings of the school he founded, the Krama system. He is said to have received it as a revelation from the Goddess Maṁgalā, who is identified with Kālasaṁkarṣiṇī in Oddiyānapīṭha. Thus, his teachings mark the beginning of post-scriptural Krama. The names of the system, for example, Kramanaya, Devīnaya and Mahārtha, are known to the earlier scriptural traditions of the Kālīkula, also called Kālīkrama. However, with Śivānanda it emerges out of the anonymity of scripture. Thus, he founded the school that we nowadays call the Krama system and that bears these same names, especially Mahārtha. He also ‘brought down to earth’ at least one Tantra — the Yonigahvara. Significantly, this too is said to have been revealed in Uddiyāna — the uttarapītha.? This is unusual. We are only rarely told who does this. The precedent in this c: s Matsyendranātha. He was the first to bring Kula Tantras down to earth. Kaulism existed before, but its teachings lay embedded in the Mata and Yāmala, specifically, 
+The final phase of the development of the Kālīkrama was initiated by Jñānanetra in the middle of the ninth century. Scholars commonly refer to the teachings of the school he founded, the Krama system. He is said to have received it as a revelation from the Goddess Maṁgalā, who is identified with Kālasaṁkarṣiṇī in Oddiyānapīṭha. Thus, his teachings mark the beginning of post-scriptural Krama. The names of the system, for example, Kramanaya, Devīnaya and Mahārtha, are known to the earlier scriptural traditions of the Kālīkula, also called Kālīkrama. However, with Śivānanda it emerges out of the anonymity of scripture. Thus, he founded the school that we nowadays call the Krama system and that bears these same names, especially Mahārtha. He also ‘brought down to earth’ at least one Tantra — the Yonigahvara. Significantly, this too is said to have been revealed in Uddiyāna — the uttarapītha.[^1125] This is unusual. We are only rarely told who does this. The precedent in this c: s Matsyendranātha. He was the first to bring Kula Tantras down to earth. Kaulism existed before, but its teachings lay embedded in the Mata and Yāmala, specifically, 
 
 the 
 
 Jayadrathayāmala and the earlier Picumata, the Brahmayāmala, where it was even less defined. There are indeed several Tantras that consider themselves to have been brought down to earth by Matsyendranātha. These are of two kinds: sectarian and non-sectarian. Well known examples of non-sectarian ones are the Kaulajñānanirnaya and related Tantras. Amongst sectarian ones, the earliest that has survived is a Krama Tantra, namely, the Ọrmikaularanava. Subsequently, the Kubjikā Tantras appeared, attributed to him. 
 
-A passage found in the Yonigahvara’ is also found at the beginning of chapter three of the Devīpañcaśatika,\* the same apart from the usual minor 
+A passage found in the Yonigahvara[^1126] is also found at the beginning of chapter three of the Devīpañcaśatika,[^1127] the same apart from the usual minor 
 
-1 x \*\*\*\* stotram (Jñānanetrapādakṛtam) K: NAK no. 5-5183 Śaivatantra 157 = NGMPP reel no. A 150/6; 32 1/2 x 12 1/2; fí 35. remarks: Devanāg; page. 21 Page no. 21: ittha svarūpastutirabhyadhāyi samyak samāveśadaśāvaśena | mayā (Sivenāstu) śivāya samyag mamaiva viśvasya tu maṁgalākhye |I ॥ kṛtiriyar śrījñānanetrapādānāṁ iti ||
+[^1124]: \*\*\*\* stotram (Jñānanetrapādakṛtam) K: NAK no. 5-5183 Śaivatantra 157 = NGMPP reel no. A 150/6; 32 1/2 x 12 1/2; fí 35. remarks: Devanāg; page. 21 Page no. 21: ittha svarūpastutirabhyadhāyi samyak samāveśadaśāvaśena | mayā (Sivenāstu) śivāya samyag mamaiva viśvasya tu maṁgalākhye |I ॥ kṛtiriyar śrījñānanetrapādānāṁ iti ||
 
-1124?\. The colophon of the Yonigahvara reads: ity uttarāmnāye śrī uṁṁkārapīṭhavinirgate srīcandabhairave ṣodaśasahasre udite \[udvite\] yonigahvaram samāptam || See bibliography for the bibliographical details of the sole recovered manuscript of this Tantra.
+[^1125]: The colophon of the Yonigahvara reads: ity uttarāmnāye śrī uṁṁkārapīṭhavinirgate srīcandabhairave ṣodaśasahasre udite \[udvite\] yonigahvaram samāptam || See bibliography for the bibliographical details of the sole recovered manuscript of this Tantra.
 
-1125?\. Yonigahvara Asiatic Society of Bengal catalogue serial number serial no. 5903 MS no 10000 (fl. 17-18a).
+[^1126]: Yonigahvara Asiatic Society of Bengal catalogue serial number serial no. 5903 MS no 10000 (fl. 17-18a).
 
-1126?\. DP 3/1-18ab.
+[^1127]: DP 3/1-18ab.
 
 
 *[p. 455]* ^pg468
 
-variants. Listed there are the four Yuganāthas, who were founders of Kaulism in the four cosmic ages (yuga), and their consorts. Matsyendranātha figures as the founder of Kaulism in this Age.\* He had twelve disciples. A detailed account is found in the Kulakrīdāvatāra, which Abhinava quotes in Chapter Twenty-nine.‘ In both the YG and the DP, the passage continues with a lineage of four teachers beginning with Niṣkriyānanda, noted above. In this way the locus of an independent Kaula tradition saw its roots in the Kaulism taught by Matsyendranātha. In this way, Kaulism as a whole is channelled through the teachings of the lineage of the Kālīkrama that thereby appropriates them. This connection is strengthened and maintained down the line. The YG and DP texts begin with the same auspicious verse of invocation, thus emphasizing the tie between them. We also find it at the beginning of the Devīdvyardhaśatika, which draws a great deal from the Yonigahvara or some common source. It reads: 
+variants. Listed there are the four Yuganāthas, who were founders of Kaulism in the four cosmic ages (yuga), and their consorts. Matsyendranātha figures as the founder of Kaulism in this Age.[^1128] He had twelve disciples. A detailed account is found in the Kulakrīdāvatāra, which Abhinava quotes in Chapter Twenty-nine.[^1129] In both the YG and the DP, the passage continues with a lineage of four teachers beginning with Niṣkriyānanda, noted above. In this way the locus of an independent Kaula tradition saw its roots in the Kaulism taught by Matsyendranātha. In this way, Kaulism as a whole is channelled through the teachings of the lineage of the Kālīkrama that thereby appropriates them. This connection is strengthened and maintained down the line. The YG and DP texts begin with the same auspicious verse of invocation, thus emphasizing the tie between them. We also find it at the beginning of the Devīdvyardhaśatika, which draws a great deal from the Yonigahvara or some common source. It reads: 
 
-‘I bow to Kālī, the supreme bestower of Being, to my own nature. She is the Light that has emerged from frying pan (heated by the) Fire at the end (of Time) She is established in the middle within the three paths of the Moon, Sun and Fire, her state the dissolving away of consciousness, the object of consciousness, the mind, the senses and (their) objects. 7 
+‘I bow to Kālī, the supreme bestower of Being, to my own nature. She is the Light that has emerged from frying pan (heated by the) Fire at the end (of Time) She is established in the middle within the three paths of the Moon, Sun and Fire, her state the dissolving away of consciousness, the object of consciousness, the mind, the senses and (their) objects. [^1130] 
 
-1127?\. The four Yuganāthas and their consorts: Kṛtayuga: Khagendranātha and Vijjā avvā (DP ambā) Dvāyuga: Kūrmanātha and Maṁgalādūti (DP ambā) Tretayuga: Meśanātha and Kāmamaṁgalā Kaliyuga: Mīnanāthaṁ and Koṁkaṇāmbā (DP Kuṁkaṇādūti)
+[^1128]: The four Yuganāthas and their consorts: Kṛtayuga: Khagendranātha and Vijjā avvā (DP ambā) Dvāyuga: Kūrmanātha and Maṁgalādūti (DP ambā) Tretayuga: Meśanātha and Kāmamaṁgalā Kaliyuga: Mīnanāthaṁ and Koṁkaṇāmbā (DP Kuṁkaṇādūti)
 
-1128?\. TĀ 29/29 ff. See Dyczkowski 1988: 69-71, 79-81 for charts and detailed presentation.
+[^1129]: TĀ 29/29 ff. See Dyczkowski 1988: 69-71, 79-81 for charts and detailed presentation.
 
-1129?\. yā sāntakāgnikuharotthitabhāsvarūpāṁ somārkavahnitripathodaramadhyasaṁsthām \[k, kh: somākka-\] | ciccetyacittaviṣayākṣavilīnabhāvāṁ \[k: cicceta- -virīnabhāvār; kh: cicceta-\] svabhāvabhāvakiparār \[k, kh: svābhāva-\] praṇnamāmi kālīm I| This is the edited verse at the beginning of the two recovered manuscripts of the Devīdvyardhaśatika. The same verse that appears at the beginning of the Yonigahavara and the Devīpañcaśatika is practically identical. Surprisingly, whilst the version in the Devīdvyardhaśatika is practically correct, the corruptions in these two texts are exactly the same. It reads in both cases without variants: yā sāntakāgnikuharothitabhāsvarūpāmi somārkavahnitṛthodaramadhyasaṁsthā | ciccetaccintavihśabhāvār svābhāvabhasaki \[illegible\] pranamāmi kālīm || Jayaratha knows the Devīdvyardhaśatika, which he calls Sārdhaśatika, quoting from it the names of the thirteen Kālīs (see TĀv ad 4/149-150a and notes). The colophon reads: paramahaṁsaparivrājakauttarānvayācāryaśrīmadvimalaprabodhapādānām iyam iti \[k: -ti; kh: -parivrājaka-uttarānvayā- -miti\] | “This (book) is that of the venerable renouncer and teacher Vimalaprabodha of the Northern Lineage.’ One wonders if this line means that Vimalaprabodha was the author or that the book was in his possession.
+[^1130]: yā sāntakāgnikuharotthitabhāsvarūpāṁ somārkavahnitripathodaramadhyasaṁsthām \[k, kh: somākka-\] | ciccetyacittaviṣayākṣavilīnabhāvāṁ \[k: cicceta- -virīnabhāvār; kh: cicceta-\] svabhāvabhāvakiparār \[k, kh: svābhāva-\] praṇnamāmi kālīm I| This is the edited verse at the beginning of the two recovered manuscripts of the Devīdvyardhaśatika. The same verse that appears at the beginning of the Yonigahavara and the Devīpañcaśatika is practically identical. Surprisingly, whilst the version in the Devīdvyardhaśatika is practically correct, the corruptions in these two texts are exactly the same. It reads in both cases without variants: yā sāntakāgnikuharothitabhāsvarūpāmi somārkavahnitṛthodaramadhyasaṁsthā | ciccetaccintavihśabhāvār svābhāvabhasaki \[illegible\] pranamāmi kālīm || Jayaratha knows the Devīdvyardhaśatika, which he calls Sārdhaśatika, quoting from it the names of the thirteen Kālīs (see TĀv ad 4/149-150a and notes). The colophon reads: paramahaṁsaparivrājakauttarānvayācāryaśrīmadvimalaprabodhapādānām iyam iti \[k: -ti; kh: -parivrājaka-uttarānvayā- -miti\] | “This (book) is that of the venerable renouncer and teacher Vimalaprabodha of the Northern Lineage.’ One wonders if this line means that Vimalaprabodha was the author or that the book was in his possession.
 
 
 *[p. 456]* ^pg469
@@ -68,20 +68,22 @@ date, all of which, we have seen, are called Mahānayaprakāśa. There we find a
 
 We find it in both texts in a seed state. Thus, after presenting the Yuganāthas, the YG goes on to declare that: 
 
-‘In the cremation ground (called) Karavīra in the venerable Uttarapīṭha, once the venerable Jñānanetranātha had extracted the Yonigahvara, which is most excellent essence of Mantra, he revealed it on the surface of the earth. \* 
+‘In the cremation ground (called) Karavīra in the venerable Uttarapīṭha, once the venerable Jñānanetranātha had extracted the Yonigahvara, which is most excellent essence of Mantra, he revealed it on the surface of the earth.[^1131] 
 
 The YG is indeed concerned with the ‘essence of Mantra’, as most of it is taken up with the extraction in code of the forms of Kālasaṁkarṣiṇī’s Vidyā, that is used for the worship of the cycles (cakra) of emanation (sṛṣti), persistence (sthiti), withdrawal (saṁhāra), the Inexplicable (Anāmā) and illumination (bhāsā). 
 
-Thus, here we find a precursor in this form of the Pañcacakrakrama, the Sequence of the Five Wheels. The DP also goes on to describe the same cremation ground. The wording is practically the same, but there all is that is said is that it is worshipped by the Deity, and other details are given, but there is no mention of Jñānanetra’s presence there.” Nonetheless, Śivānanda (i.e., Jñānanetra) appears as the fourth in line in the lineage founded by Niṣkriyānanda, according to verses in the common passage mentioned above. This absence suggests that the DP preceded the YG. If so, the passage in common we are examining was carried over from there into the YG. 
+Thus, here we find a precursor in this form of the Pañcacakrakrama, the Sequence of the Five Wheels. The DP also goes on to describe the same cremation ground. The wording is practically the same, but there all is that is said is that it is worshipped by the Deity, and other details are given, but there is no mention of Jñānanetra’s presence there.[^1132] Nonetheless, Śivānanda (i.e., Jñānanetra) appears as the fourth in line in the lineage founded by Niṣkriyānanda, according to verses in the common passage mentioned above. This absence suggests that the DP preceded the YG. If so, the passage in common we are examining was carried over from there into the YG. 
 
-1130?\. śrīmaduttarapīthe tu śmaśāne karavīrake \\ yonigahvaram uddhṛtya mantrasadbhāvam uttamam || śrījñānanetranāthena bhutalasatiprakāśitam |
+[^1131]: śrīmaduttarapīthe tu śmaśāne karavīrake \\ yonigahvaram uddhṛtya mantrasadbhāvam uttamam || śrījñānanetranāthena bhutalasatiprakāśitam |
 
-1131?\. \[illegible\] (DP: śrīmaduttarapīthasya \[k: śrīmaduttaraṁ-\] śmaśānari karavīrakam | pūjitan devadevena śivena paramātmanā \[k, kh: paramātmane; g: paramātmano\] || 3 ॥ The cremation ground of the venerable Uttarapīṭha (is called) Karavīra, It is worshipped by Śiva, who is the Supreme Soul and the God of the gods. 10 # + # + \* Stotram (jñānanetrapādakṛtam) K: NAK no. 5-5183 Śaivatantra 157 = NGMPP reel no. A 150/6; size: 32 1/2 x 12 1/2; folios are 35 and script is devanāgarī. itthaṁ svarūpastutir abhyadhāyi samyak samāveśadaśāvaśena | mayā (śivenāstu) śivāya samyag mamaiva viśvasya tu maṁgalākhye |l || folio 219. At the end: kṛtir iya Srījṁānanetrapādānār iti \\
+[^1132]: \[illegible\] (DP: śrīmaduttarapīthasya \[k: śrīmaduttaraṁ-\] śmaśānari karavīrakam | pūjitan devadevena śivena paramātmanā \[k, kh: paramātmane; g: paramātmano\] || 3 ॥ The cremation ground of the venerable Uttarapīṭha (is called) Karavīra, It is worshipped by Śiva, who is the Supreme Soul and the God of the gods. 
+
+[^1133]: # + # + \* Stotram (jñānanetrapādakṛtam) K: NAK no. 5-5183 Śaivatantra 157 = NGMPP reel no. A 150/6; size: 32 1/2 x 12 1/2; folios are 35 and script is devanāgarī. itthaṁ svarūpastutir abhyadhāyi samyak samāveśadaśāvaśena | mayā (śivenāstu) śivāya samyag mamaiva viśvasya tu maṁgalākhye |l || folio 219. At the end: kṛtir iya Srījṁānanetrapādānār iti \\
 
 
 *[p. 457]* ^pg470
 
-The Kālikāstotra by Jñānanetra” 
+The Kālikāstotra by Jñānanetra[^1133] 
 
 The first part of the development of the fully formed post-scriptural Krama system begins with Jñānanetra and continues up to Abhinavagupta and beyond. The most important text of this period is the Kramastotra by Erakanātha, who was a disciple of Keyuravatī, a direct disciple of Jñānanetra. Here the thirteen Kālīs of the Cycle of the Inexplicable (anākhyacakra) are described and praised. Abhinavagupta wrote a commentary on it early in his life, unfortunately lost, called the Kramakeli, confirming its unique importance. This Kramastotra is presented in Appendix E. This period includes Abhinava’s own important contribution, which is dispersed in his Trika works. Particularly important is the presentation of the Twelve Kālīs in Chapter Four of the Tantrāloka and Jayaratha’s extensive commentary. He also presents them in the Tantrasāra and Tantravaṭadhanika. These are translated in the notes to the translation. Abhinava also wrote a Kramastotra where they are described. This is translated in Appendix F. 
 
@@ -99,15 +101,15 @@ tradition maintains he received the teachings directly from the goddess Kālasa�
 
 The sole independent work we have by Śivānanda is his Kālikāstotra. It is not only a beautiful hymn; it is also dense with meaning. We have travelled a fair way from Niṣkriyānanda’s Krama into a milder atmosphere. Even so, we are closer to that than the final form of the Krama that we find in the three Mahānayaprakāśas. There Krama idealism reaches its ultimate zenith in the Mahānayaprakāśa, published in Trivandrum, of unknown authorship. At all stages of its development, the fundamental view is maintained, namely, that consciousness is the Deity. It is cognitive, and operates its perception of the ideal universe it generates and withdraws through its activity. In its final phase, we shall see that this activity is analysed in detail, as marked by the systematic operation of assemblies of cognitive energies arranged in well-ordered spheres of operation. 
 
-Although there is no trace of the earlier perception of the twelve Kālīs as the rays of the Sun which is the thirteenth, that is the core and focus of the Krama teachings in the earlier strata, even so, the model of the twelve with an encompassing thirteenth is maintained. They continue to be the assembly of energies of the Inexplicable phase of the dynamism of cognitive consciousness and retain basic features of their identity. However, they are now just a part of a larger, more detailed and complex layout. Thus, Śivānanda first refers to the twelve Kālīs as the twelve parts of the body of the Goddess Time, and then to the thirteenth as encompassing them within herself, where they shine as one." Note that here, the twelve are formed by the standard phases of emanation, persistence and withdrawal multiplied by themselves and a fourth phase which is their ineffable repose’ (viśrāma) with consciousness, at one with it. There is no detailed explicit reference to perception and operation set into the relationship between subject and object. Even so, despite the movement away from the central role it had in the early Krama, the closeness of Śivānanda”s relationship to it is his reference to the goddess as Kṛśodarī.”? Thi: 
+Although there is no trace of the earlier perception of the twelve Kālīs as the rays of the Sun which is the thirteenth, that is the core and focus of the Krama teachings in the earlier strata, even so, the model of the twelve with an encompassing thirteenth is maintained. They continue to be the assembly of energies of the Inexplicable phase of the dynamism of cognitive consciousness and retain basic features of their identity. However, they are now just a part of a larger, more detailed and complex layout. Thus, Śivānanda first refers to the twelve Kālīs as the twelve parts of the body of the Goddess Time, and then to the thirteenth as encompassing them within herself, where they shine as one.[^1134] Note that here, the twelve are formed by the standard phases of emanation, persistence and withdrawal multiplied by themselves and a fourth phase which is their ineffable repose’ (viśrāma) with consciousness, at one with it. There is no detailed explicit reference to perception and operation set into the relationship between subject and object. Even so, despite the movement away from the central role it had in the early Krama, the closeness of Śivānanda”s relationship to it is his reference to the goddess as Kṛśodarī.[^1135] Thi: 
 
 si as the tradition, when we get to the Mahānayaprakāśas, understands him to have received the teaching from Maṅgalā, who is considered to be a form of Kālasaṁkarṣiṇī. 
 
 Sanderson perceives in this hymn the fully-fledged system that was going to develop in the three Mahānayaprakāśas, of which the one by Arṇasiṁha, presented in Appendix H below, is a good example. Sanderson (2006b: 33-35) observes that in the Kālikāstotra by Jñānanetra, he does clearly mention the goddesses Khecarī and the following three as the deities of the sacred seat (pītha) of the core of consciousness which, in the fully developed Krama, is the first of six phases. However, the following five are found, according to Sanderson, but only as allusions. They are 1) the Assembly of the Five Currents (pañcavāhacakra), 2) the Assemblies of Light (prakāśacakra), 3) Bliss (ānandacakra), 4) the Form of Emptiness (khamūrticakra), and 5) the Divine Current (divyaugha) of the lineage of the master (gurukrama) also called 
 
-1132?\. See below, verses 5 and 6.
+[^1134]: See below, verses 5 and 6.
 
-1133?\. Verse 13.
+[^1135]: Verse 13.
 
 
 *[p. 459]* ^pg472
@@ -130,13 +132,13 @@ that follow these five, that is, the cycles of emanation, persistence, withdrawa
 
 Again, according to Sanderson, in verses five and eighteen, he venerates the last of these. Sanderson translates: 
 
-‘Supreme are you, O Kālī who, after dividing the body of Time into twelve, make that same nature shine forth within yourself as one.”” (5) 
+‘Supreme are you, O Kālī who, after dividing the body of Time into twelve, make that same nature shine forth within yourself as one.”[^1136] (5) 
 
 ‘I praise the absolutely transcendent Goddess within that ground that lies within the state (of the Inexplicable,) in which withdrawal itself is withdrawal, who is untouched by the prolixities of the existent and the non-existent that she projects; (she is) manifest in everything at every moment.” (18) 
 
 We turn now to the Kālikāstotra by Jñānanetra. 
 
-1134?\. The point is that the 12 Kālīs are the manifestation of the thirteenth Kālī worshipped in the centre.
+[^1136]: The point is that the 12 Kālīs are the manifestation of the thirteenth Kālī worshipped in the centre.
 
 
 *[p. 460]* ^pg473
@@ -229,18 +231,18 @@ divyaugham udgirantī \[k: udigarantī\] jayati jagattārinī \[k: jattārinī\]
 
 The Mother Who is the saviour of the universe, having divided the form numbering thirteen (units), each one into five parts, pouring forth the Divine 
 
-Current (of the teachings), is victorious! (16) 
+Current (of the teachings),[^1137] is victorious! (16) 
 
 bhūdiggokhagadevīcakralasatjṁñānavibhavaparipūrṇam |
 nirupamam acittamayaṁ \[k: nirūpamavi \* ttamayari\] śrīpīthaṁ jayati te \[illegible\] ॥ 17॥ 
 
-Śrīpītha, Your sacred seat (pīṭha) which is No-mind, incomparable, completely full of the glory of knowledge that is pouring out of the wheels of the goddesses, Bhūcarī, Dikcarī, Gocarī and Khagā,' triumphs! (17) 
+Śrīpītha, Your sacred seat (pīṭha) which is No-mind, incomparable, completely full of the glory of knowledge that is pouring out of the wheels of the goddesses, Bhūcarī, Dikcarī, Gocarī and Khagā,[^1138] triumphs! (17) 
 
 pralayalayāntarabhūmau vilasati sadasatprapañcaparihīnām | 
 
-1135?\. See following Appendix G concerning the currents (ogha) of the lineages of teachers and their division into ‘divine’ (divya), ‘accomplished’ (siddha) and ‘human’ (mānuṣya).
+[^1137]: See following Appendix G concerning the currents (ogha) of the lineages of teachers and their division into ‘divine’ (divya), ‘accomplished’ (siddha) and ‘human’ (mānuṣya).
 
-1136?\. Abhinava knows this group of four, which he mentions in the PTv p. 39-40. There is no evidence that the configuration into five, with Vāmeśvarī as the highest above these four, had emerged in his time or earlier. Even so, it became so well established so quickly that Kṣemarāja treats it as the basic set in his Spandasaṁdoha (p. 18-21 in Dyczkowski 1992: 68-70). Thus, looking back synchronically, we have two progressions. One is that of the group of four (kramacatuṣthaya) and the other that of the five-fold flux (pañcavāha).
+[^1138]: Abhinava knows this group of four, which he mentions in the PTv p. 39-40. There is no evidence that the configuration into five, with Vāmeśvarī as the highest above these four, had emerged in his time or earlier. Even so, it became so well established so quickly that Kṣemarāja treats it as the basic set in his Spandasaṁdoha (p. 18-21 in Dyczkowski 1992: 68-70). Thus, looking back synchronically, we have two progressions. One is that of the group of four (kramacatuṣthaya) and the other that of the five-fold flux (pañcavāha).
 
 
 *[p. 463]* ^pg476

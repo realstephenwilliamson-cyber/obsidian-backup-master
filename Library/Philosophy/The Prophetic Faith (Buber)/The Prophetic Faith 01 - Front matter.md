@@ -4,7 +4,7 @@ work: "[[Buber - Prophetic Faith]]"
 book: "[[Library/Philosophy/The Prophetic Faith (Buber)/The Prophetic Faith (Buber)|The Prophetic Faith (Buber)]]"
 order: 1
 source_pdf: Library/Philosophy/Buber - Prophetic Faith (1960).pdf
-page_range: Cover–v
+page_range: "iii–v"
 pdf_pages: 1–4
 text_source: fresh OCR with Tesseract 5 (eng); the PDF's own OCR layer was not usable (words out of order)
 converted: 2026-10-07

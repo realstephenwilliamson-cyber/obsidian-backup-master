@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Barth, Origen, and Universal 01 - Front matter|Front matter]] (pp. Cover–xviii)
+- [[Barth, Origen, and Universal 01 - Front matter|Front matter]] (pp. i–xviii)
 - [[Barth, Origen, and Universal 02 - Contents|Contents]] (pp. xix)
 - [[Barth, Origen, and Universal 03 - Abbreviations|Abbreviations]] (pp. xx–xxiv)
 - [[Barth, Origen, and Universal 04 - 1. Introduction|1. Introduction]] (pp. 1–16)

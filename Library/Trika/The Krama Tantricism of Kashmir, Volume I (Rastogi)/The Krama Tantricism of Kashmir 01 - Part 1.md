@@ -4,7 +4,7 @@ work: "[[Rastogi - The Krama Tantricism of Kashmir, Volume I]]"
 book: "[[Library/Trika/The Krama Tantricism of Kashmir, Volume I (Rastogi)/The Krama Tantricism of Kashmir, Volume I (Rastogi)|The Krama Tantricism of Kashmir, Volume I (Rastogi)]]"
 order: 1
 source_pdf: Library/Trika/Rastogi - The Krama Tantricism of Kashmir, Volume I (1979).pdf
-page_range: 1–13
+page_range: "x–13"
 pdf_pages: 1–40
 text_source: the PDF's own text, which ABBYY FineReader 8 re-typeset from a scan without diacritics (the pages carry no scan, and the Devanagari quotations are separate images, not in this text), PyMuPDF; footnotes for the notes that are wholly text in the PDF layer 18 Oct 2026
 converted: 2026-10-07

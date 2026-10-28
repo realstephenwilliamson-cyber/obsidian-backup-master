@@ -4,7 +4,7 @@ work: "[[Narasimhananda (ed.) - Prabuddha Bharata, January 2016]]"
 book: "[[Library/Hinduism/Prabuddha Bharata, January 2016 (Narasimhananda)/Prabuddha Bharata, January 2016 (Narasimhananda)|Prabuddha Bharata, January 2016 (Narasimhananda)]]"
 order: 4
 source_pdf: Library/Hinduism/012016.pdf
-page_range: 10–176
+page_range: "100–167"
 pdf_pages: 110–177
 text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07
@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (OCRmyPDF with Tesseract 5), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 10]* ^pg110
+*[p. 100]* ^pg110
 
 ## 4 cj
 
@@ -49,7 +49,7 @@ is the hidden core of the Vedas, the end or crown of the Vedas, thus identical t
 
 Once this essence, this Truth is known all other knowledge is useless. Mukti, Liberation, is not to be obtained by the chanting of the Vedas, nor by the study of the Sastras; Jnana, real knowledge alone can give the liberation. .. All First Day Cover of the indian Postal Stamp issued in Honour 
 
-*[p. 11]* ^pg111
+*[p. 101]* ^pg111
 
 other ways are deceptive, oppressive; the Truth-Knowledge alone is life-giving. 
 
@@ -249,7 +249,7 @@ In the ancient sacred Sanskrit texts, bri- ‘The realisation of the importance 
 
 bhakti, all love, compassion, empathy, tolerance, understanding, and kindness. Tantra must un-ES Yogini Shambhavi Devi is a master Yoga teacher fold its mysticism in the spiritual heart. The enfrom Santa Fe, Mexico, and along with her husband richment and expansive expression of beatitude David Frawley also known as Vamadeva Shastri, is is expressed through Devi worship. Worship committed to bringing the wisdom of the ancient allows the soma, ‘sacred nectar’, to flow through Rishis alive in our contemporary times. 
 
-*[PDF 120]* ^pg120
+*[p. 110]* ^pg120
 
 our expressions of deep nurturing through tender loving care. ‘The summit of purity, of the nature of consciousness, self-effulgent, of the form of eternal bliss, pervading the entire universe, yours is the image of perception that belongs to oneself, which is why you should be meditated upon by us within our hearts.” 
 
@@ -267,7 +267,7 @@ Sacred symbolism unravels the subtle nuances of tantra. Symbols unveil the image
 
 The sadhaka with an inner vision and deep devotion realises and nurtures the divine currents of God working through the forces of light, fire, time, space, and all of Nature. One experiences that Brahman manifests as the unchanging ground of being within the entire cosmic revelation. Brahman prevails in God, the guru, and the 
 
-*[PDF 121]* ^pg121
+*[p. 111]* ^pg121
 
 Reflections on Tantra 
 
@@ -295,7 +295,7 @@ merges into the one godhead, the absolute Brahman, who is beyond all personality
 
 ness. The heroic seeks the truth in every sphere ‘The human heart understands and responds easof life unfolding the higher ideals of a spiritual ily to the expressions of divine love and emo-existence. Life plays out the sacrificial yajna, ‘saction held in such visionary forms. ‘The deity is red ritual’ with every simple act of worship in propitiated in the form of a living or manifest every living moment of our existence, in which 
 
-*[PDF 122]* ^pg122
+*[p. 112]* ^pg122
 
 we learn to offer ourselves to this higher unknown power. 
 
@@ -323,7 +323,7 @@ has held this jnana in high esteem.
 
 ‘The ancient tantric teachings unfold when we create a stillness born of peace in our inner and. outer existence. Most of our energies are spent 
 
-*[PDF 123]* ^pg123
+*[p. 113]* ^pg123
 
 Reflections on Tantra 
 
@@ -349,7 +349,7 @@ Taking this concept of the Mother toa higher plane, the source and sustenance of
 
 In Hinduism, the Devi is not a mere myth and Shakti worship must not be confused with 
 
-*[PDF 124]* ^pg124
+*[p. 114]* ^pg124
 
 the Western thought of a guardian or angel as is the worship of Isis in Egypt, Ishtar in Babylon, Demeter in Greece, or Cybele in Rome. Shakti is the light which illumines our consciousness through power, wisdom, and beauty. 
 
@@ -379,7 +379,7 @@ Vishnudharmottara Purana, 3.46.1.
 
 Devi Mahaimyam, 47-9. 
 
-*[PDF 125]* ^pg125
+*[p. 115]* ^pg125
 
 Sri Aurobindo’s Appr 
 
@@ -403,7 +403,7 @@ one after another but one may not haye the swift-Prema Nandakumar is a literary 
 
 IIS 
 
-*[PDF 126]* ^pg126
+*[p. 116]* ^pg126
 
 its fruits so that one could turn to the next. Not that it is impossible, says Sri Aurobindo: 
 
@@ -417,7 +417,7 @@ In all of them the lord of the Yoga is the Purusha, the Conscious Soul that know
 
 Tantra, to put it simplistically, is a worship of Shakti, power, or energy. However, Vedanta finds Shakti to be actually the power of illusion to help us overcome the deceptions of active energy. What else is this cycle of repeated births and deaths that finally creates disgust in us for worldly life? So, is Shakti a power or mere illusion? ‘But 
 
-*[PDF 127]* ^pg127
+*[p. 117]* ^pg127
 
 Sri Aurobindo’ Approach to Tantra 
 
@@ -437,7 +437,7 @@ This is, of course, at the level of the ordinary mind. Once we go higher up in m
 
 ae 
 
-*[PDF 128]* ^pg128
+*[p. 118]* ^pg128
 
 of self and spirit is one with the supreme Purusha, so on the side of Nature, in power of self and spirit it is one with Shakti, para prakrtir jivabhuta. To realise this double oneness is the condition of the integral self-perfection. The Jiva is then the meeting-place of the play of one-ness of the supreme Soul and Nature (869-70). 
 
@@ -449,7 +449,7 @@ This is all well as a general assurance, an overview of the way tantra yoga work
 
 The sadhaka has therefore first to keep the idea and get the realisation of a one self or spirit in all behind all these workings. He must be aware behind Prakriti of the one supreme and universal Purusha. He must see and feel not only that all is the self-shaping of the one Force, Prakriti or Nature, but that all her actions are those of the Divine in all, the one Godhead in all, however veiled, altered and as it were, perverted—for perversion comes by a conversion into lower forms—by transmission through the ego and the gunas. This will farther diminish the open or covert insistence of the ego and, if thoroughly realised, it will make it difficult or impossible for it to assert itself in such a way as to disturb or hamper the farther progress (872). The universal Shakti does help us by sending down her revelations, but we must be wary of mistaking the revelations as hers totally. As the divine power comes down the mental, vital, and physical planes to transform them, inevitably it also gets mixed up occasionally with the lower powers, in case our aspiration has not been total. Sri Aurobindo says that these ups and downs in yoga ‘must be regarded as the natural vicissitudes of a process of transformation from the normal to the spiritual being? One must strive to gain equanimity; or else, be prepared to make a total surrender. Such a surrender helps us not 
 
-*[PDF 129]* ^pg129
+*[p. 119]* ^pg129
 
 claim something from the Divine but accept a fulfilment of the Divine in us ‘content with the delight of oneness in being, content to leave the supreme Self and Master of existence to do whatever is the will of his absolute wisdom and knowledge through our more and more perfected Nature’? 
 
@@ -467,7 +467,7 @@ as indispensable by the integral Yoga and that may
 
 be described as faith in God and the Shakti, faith in the presence and power of the Divine in us and the world, a faith that all in the world is the working of one Goddess Maheshwari 
 
-*[PDF 130]* ^pg130
+*[p. 120]* ^pg130
 
 divine Shakti, that all the steps of the Yoga, its strivings and sufferings and failures as well as its successes and satisfactions and victories are utilities and necessities of her workings and that by a firm and strong dependence on anda total self-surrender to the Divine and to his Shakti in us we can attain to oneness and freedom and victory and perfection (881-2). 
 
@@ -485,7 +485,7 @@ It is in answer to your aspiration that the Mahakali force descended—the serpe
 
 The colourful image of the kundalini is central 
 
-*[PDF 131]* ^pg131
+*[p. 121]* ^pg131
 
 to tantra. The coiled power at the base which loosens itself to rise and reach the sehasrara at the crown has been visualised as a serpent that lies coiled in the box of the snake-charmer. The siddha poets of Tamil Nadu have used this image very often to describe their yoga. Sri Aurobindo accepts the serpent-power’s presence in the Integral Yoga but says it has less to do with the forms and rituals of tantrics engaged in yoga. Once the prayer is heard by Mother and her descent takes place, the pressure automatically opens the six centres in a human body. Though Integral Yoga is not interested in the descriptions of experience as is found in tantric books, Sri Aurobindo said, ‘the ascent of the force from the Muladhara does take place’\* He has given a visual experience of this movement in yoga, in his epic poem Savimi: 
 
@@ -503,7 +503,7 @@ Goddess Mahakali An image sat of the original Power ‘Wearing the mighty Mother
 
 After the siddhi or spiritual perfection attained by Sri Aurobindo in 1926, he retired into near-total seclusion. In the very first year of Sri Aurobindo’s seclusion, came out his slender book, The Moher. It is aseminal document which reveals the combination of Vedanta and tantra in his yoga. The book was published in 1928. This was the time when Mirra Alfassa Richard from France—who had come to Pondicherry and settled down to follow yoga—had been asked to take charge of the ashrama. When T V Kapali Sastri, one of his disciples, asked Sri Aurobindo whether the book was about ‘our 
 
-*[PDF 132]* ^pg132
+*[p. 122]* ^pg132
 
 Mother’ the answer was ‘yes. This statement in the book makes this clear: ‘Individual, she embodies the power of these two vaster ways of her existence, makes them living and near to us and mediates between the human personality and the divine Nature’® At the transcendental level we may not be able to envision the Mother figure. That is why the great rishis of the past visualised innumerable cosmic godheads seen by them in their meditation. Of these Sri Aurobindo had chosen four—Maheshwari, Mahakali, Mahalakshmi, and Mahasaraswati—and placed them as inspirations for the yoga of self-perfection in his The Synthess of Yoga. 
 
@@ -525,7 +525,7 @@ That is the secret of this creation which has innumerable forms where even two l
 
 Jaw of the world and its times and how all wasand is and must be. A strength isin her that meets everything and masters and none can prevail in the end against her vast intangible wisdom and high tranquil power. Equal, patient and unalterable in her will she deals with men according to their nature and with things and happenings according to their force and the truth that is in them. Partiality she has none, butshe follows the decrees of the Supreme and some she raises up and some she casts down or puts away from her into the darkness. To the wise she gives a greater and more luminous wisdom; those that have vision she admits to her counsels; on the hostile she imposes the consequence of their hostility, the ignorant and Symbol of Sri Aurobindo Ashbrama\_ ture and what moyes them and the 
 
-*[PDF 133]* ^pg133
+*[p. 123]* ^pg133
 
 foolish she leads according to their blindness (ibid.). 
 
@@ -559,7 +559,7 @@ Who dares misery love, And hug the form of Death, Dance in Destruction’s dance
 
 Mahalakshmi is almost a contrast to the Mahakali experience. The tantric texts do not give any special place to Mahalakshmi though Goddess Mahatakshmi 
 
-*[PDF 134]* ^pg134
+*[p. 124]* ^pg134
 
 captive and plunged into the depths of an unfathomable bliss. Magnetic is the touch of her hands and their occult and delicate influence refines mind and life and body and where she presses her feet course miraculous streams of an entrancing Ananda.” 
 
@@ -579,7 +579,7 @@ yel; grace and charm and tenderness flow out sion, reminding always of the ever-
 
 In4 
 
-*[PDF 135]* ^pg135
+*[p. 125]* ^pg135
 
 of the higher nature. All the work of the other Powers leans on her for its completeness; for she assures the material foundation, elaborates the 
 
@@ -655,7 +655,7 @@ living thing,"
 
 Sensex. The two human goals of artha and kama If the dershanas, philosophies, themselves are at the root of almost all cultures today. The upshot of thisis: every activity has at its core the Prof. M Sivaramkrishna is a litterateur in English age-old aim: sukha prapti and dubkha muritti—and Telugu and former Head of the Department of acquiring happiness and ayoiding sorrow. English, Osmania University, Hyderabad. 
 
-*[PDF 137]* ^pg137
+*[p. 127]* ^pg137
 
 Kali Yuga: Congenial to Faith Alain Daniélou suggests that the very negatives, the paradoxes of Kali Yuga, are precisely the raw materials needed for the Divine Mother's play. They are available in plenty to warrant the advent of Kali. And may I add, for the arrival on the scene of her greatest devotee, Sri Ramakrishna? With the Mother at the centre, her unique child becomes the conduit for unrolling her ‘agendas’. What Girish Chandra Ghosh told the Master is extremely relevant: ‘I am a sinner, he declares and ‘the very ground where I sit becomes unholy’. Sri Ramakrishna questions the very idea: “How can you say that? Suppose a light is brought into a room that has been dark athousand years; does itillumine the room little by little, or all in a flash? (679). A song sung by Narendrais much more explicit of the ambience of Kali Age residents: 
 
@@ -675,7 +675,7 @@ And with Shiva in command and Kali around, ‘the divine is defined as “that i
 
 If we look at the narratives of what Geoffrey A Oddie calls Imagined Hinduism, the views of Calcutta and in particular Hinduism at its worst phase, the field was fertile to need a towering personality to stem the tide. He quotes Alexander Duff, a missionary and his scathing critique of Hinduism: “What could be more affecting? he declared, ‘than to behold thousands intensely occupied in the investigation of the noblest truths, and only zecumudating heaps of vilest error? This was around 1835-40. Athome he used to exhibit Alain Daniélou (1907-94) 
 
-*[PDF 138]* ^pg138
+*[p. 128]* ^pg138
 
 Swami Satyananda Saraswati (1923-2009) 
 
@@ -699,7 +699,7 @@ Looking ‘Behind the Screer’
 
 Ifthis isto happen—and it did, surely—‘looking behind the screen’ at the real play is the way. ‘The prose and passion of life today, the compositional magic of, especially, The Gospel of Sri 
 
-*[PDF 139]* ^pg139
+*[p. 129]* ^pg139
 
 Ramakrishnais surely that ofa modern Champu Kavya. It is a panorama, a spacious spectacle of events, persons, and emotions, which reflect—almost a replica of our world today, visibly or invisibly. As Swami Saradananda, a participant in and a biographer of the divine play, which unfolded before him notes, drawing a distinction between Shakti and energy: ‘The votaries of science might be called, in a manner, the worshippers of energy, although physical energy alone is the object of their consideration. In India we have also worshippers of Sakti or energy; but the Indian worshippers have always looked behind the screen and found something different in it from what has been found by modern science, to justify their reverence for it as an object of worship.’® In effect, Shakti as incarnate Kali and the other mahavidyas. 
 
@@ -735,7 +735,7 @@ Perils of Kali’s Sword:
 
 This is the title of a study focusing on tantric Buddhism and the role of physical, passionate 
 
-*[PDF 140]* ^pg140
+*[p. 130]* ^pg140
 
 of the Bodhisattyas’ (255). Obviously, contact in tantric sadhana. To phrase it, there is not much difficulty: Mirinda Shaw describes Kali too has comparable traits. Sri this process of physical contact in sadhana as Ramakrishna himself gave a comprehenpart of ‘Inner Yoga. The arguments are impecsive list of the various manifest forms of cable, the scholarship impressive, but with Kali. Describing Smashana Kali, he said no attempt at analysing the persis of passion. 
 
@@ -791,7 +791,7 @@ But then, says Dowman, ‘the Tantric pantheon Lies like a lifeless corpse benea
 
 devouring Dakinis ... besides the sublime consorts ‘The uniqueness of Sri Ramakrishna’s tantra is 
 
-*[PDF 141]* ^pg141
+*[p. 131]* ^pg141
 
 to accept all that exists in Nature and all the psychological and emotive dimensions they evoke. 
 
@@ -819,7 +819,7 @@ Why Vishnu?
 
 Why Vishnu particularly in Gaya kshetra, place, 
 
-*[PDF 142]* ^pg142
+*[p. 132]* ^pg142
 
 worshipper passes from a blind faith to an understanding of the supreme protecting energy of the Brahman’ (ibid.) \[Emphasis added\]. ‘The nexcis the path of knowledge. Meditation is the means of both. But dzkshina-marga is ‘the final preparation for passing out of the Paw state .- Meditation is on the Dev? (ibid.). It is clear that the Vishnu legacy of bhakti is related to the pasha releasing itself of the animal traits. Now the supreme element is the protecting energy—for the Master: Kali. Hence, Gaya is the place of final dissolution of humans. Love underlies that advent. 
 
@@ -841,7 +841,7 @@ its long history has been bearing outwardly and by the cultivation of the Suprem
 
 a Vedic garb and colour but from within its soul it has been Saiva-Sakta in nature and character”? It is the Path of Devotion (bbaktimarga). The 
 
-*[PDF 143]* ^pg143
+*[p. 133]* ^pg143
 
 Tracing Kali’s Evident Footprints At present books on Kali appear quite regularly and surprisingly. There are very fascinating studies. A brief account of this is the yery balanced study of Kali versus the dialectics of desire. ‘Kali has been’ says Neela Bhattacharya Saxena, quite ubiquitous in various cultural and academic discourses: she appears as the Great Mother in the Jungian analysis of the archetypes; she becomes a vehicle of liberation for many feminists; she epitomizes the very nadir of pagan barbarism for the Christian missionaries. She presides over the temple of doom in Hollywood movies, And of late she is portrayed. as lover of aberrations. In short, a vehicle for re- 
 
@@ -871,7 +871,7 @@ Why Songs?
 
 Sri Ramakrishna’s Gospel is remarkably prolific in terms of music, songs, and other related aesthetic aspects of culture. Why? Gaurinath Sastri in his elaborate listing of tantra and other related areas—more than thirty—mentions the relation 
 
-*[PDF 144]* ^pg144
+*[p. 134]* ^pg144
 
 of tantra to music. He says: ‘Tantra exercised influence on such a fine art as music. For example, the Sangita-ratnakara of Sarngadeva mentions Cakra, Nadis, etc., within the human body. The idea of Nada found in Sanskrit works on music, has a close parallel to that occurring in Tantra. The idea of Vayu within the body, which is supposed in musicology to produce Nada in conjunction with fire, is also similar to that found in Tantra.”\* 
 
@@ -897,7 +897,7 @@ Oh, what a pity my foolish mind will not see what is true!
 
 Even with all his penances rarely does Siva Him- 
 
-*[PDF 145]* ^pg145
+*[p. 135]* ^pg145
 
 Olf Painting of Shiva and Kall on Canvas Used by Sri Ramakrishna. Frame Made In 2003. 
 
@@ -921,7 +921,7 @@ spectrum of Kali’s being as
 
 the “Fairest of the Three Spheres of the Universe”, the one and only “she”, this majestic, wonderful figure is the embodiment of man’s desires and delights, the archetypal object of all longings and all thought. In order that she may represent the fd significance of Shakti-Maya, this alluring, the ever-charming Eternal Female 
 
-*[PDF 146]* ^pg146
+*[p. 136]* ^pg146
 
 of our Soul has to be painted black, has to be clad with the symbols of destruction and death as the symbols of life,”° Extending her area into ‘dialectic; Zimmer further says: “We may learn from her Tantric philosophy and art, which unfold the rich Hegelian implications of her dialectic. ... the Goddess in the fullness of her terrible beauty’ etched in the ‘utterly disillusioned and yet world-affirming, profoundly living productions of the last great period of Indian creative thought’ (215). 
 
@@ -969,7 +969,7 @@ in the Sea of the World Before we go further, we have to be clear about the uniq
 
 Essence of All Essences Sri Ramakrishna pointed out that if you have ‘firm conviction’ you will know the real nature of the Divine Mother. Her true nature is today inching towards tantra as that nature, which is universal. In her basic rationale and relevance, the Mother is the ‘creatrix: Therefore, she represents a global phenomenon. And ‘global’ used not as an impressive word but as a truth that can be seen. A tantric writer, Bernard Soulie says: 
 
-*[PDF 147]* ^pg147
+*[p. 137]* ^pg147
 
 “Tantra is the fundamental form of all religions, the one which has given rise to virtually all the religions which for thousands of years have had hundreds of millions of followers in that part of the world? And itis seen now as ‘the essence of all essences’ in the words of M. 
 
@@ -1033,7 +1033,7 @@ Kali’s Kolkata Divine Play:
 
 Sri Ramakrishna’s Lilasthali, Panchavati The location for sadhana is as important as initiation itself. In his translation of Jnana Sankalini Tantra, Paramahamsa Prajnanananda says that there is what is called s2unda-sadhana, which is ‘finding an appropriate place for meditation. The scriptures abound with elaborate descriptions of suitable places for spiritual exercises. 
 
-*[p. 450]* ^pg150
+*[p. 140]* ^pg150
 
 Suggestions include isolated and beautiful spots such asa temple, a riverbank, a mountain valley, a place close to a pond or lake, a well-ventilated 
 
@@ -1047,7 +1047,7 @@ Mother, Master, merchants of Indigo! A locale and its participants for the divin
 
 Mental-Environmental Fusion Enyironmental factors certainly affect the mental. 
 
-*[p. 451]* ^pg151
+*[p. 141]* ^pg151
 
 The ground of the Great Master’s divine play has elicited mention in a Harvard study of Hinduism and Ecology. The motif focussing on rivers says ‘Rivers of Love’ like the Ganges for the Master. We require them ‘in an age of pollution. The Ganga, besides the Dakshineswar temple, is the liquid form of Nature’s Love. Making a specific reference to Sri Ramakrishna and others, George A James says: ‘A revalorization of nature can be found in the teachings of Aurobindo, Vivekananda, Ramakrishna, and others.” And, Madhu Khanna says, ‘Both Durga and Kali originated as the vitalizing energy of the forest.”\* Vana Durga is a popu-Jar name. In those days Panchavati would have been a mini forest! There is a song which catches Radha’s agony on hearing Sri Krishna’s flute which has the background of a Kadamba tree: “Who is the Sorcerer that dwells in the kadamba grove? /
 His flute-notes suddenly enter my ears and strike a chord in my heart; Piercing my very soul, they slay my dharma and drive me mad.”\* 
@@ -1070,7 +1070,7 @@ cessible to experience. And in tantric texts this plays a very vital role. Perha
 
 William Corlett and John Moore in their 
 
-*[p. 452]* ^pg152
+*[p. 142]* ^pg152
 
 exploration of “Hindu Sound’ say: “The heard or revealed’ or shruti. In its basic nature, ‘it is not so much the meaning of the words that mattered but the spoken sound. Ignoring ‘obsession with intellectual meanings, we should ‘realize or hear the quality, rhythm and effects of the human mind. This is ‘not some primitive system of chanting but it represents the fact that revelation through sound is an eternal and ever-present possibility for anyone who is minded to listen’\*\* Indeed, this is, says Guy Beck, ‘the supreme sound which has nosound” And specially ‘tuned’ to the ‘feminine’ power. 
 
@@ -1080,7 +1080,7 @@ In these terms, if we see the worship of Sri Sarada Devi as Shodashi, it relieve
 
 The worship took place on the Phalaharini Kali worship day and was held in Sri Ramakrishna’s room. He followed the norms of the puja meticulously and offered all the items as befitting the Devi. Even as the worship was complete—even as it was progressing—Sri Sarada Devi lost consciousness followed by Sri Ramakrishna himself. The Master’s sadhana, says Swami Saradanan da, ‘culminated in this worship of the Divine Mother in the body of a woman who was an embodiment of spiritual wisdom. 
 
-*[PDF 153]* ^pg153
+*[p. 143]* ^pg153
 
 Both his divine and human aspects had achieved ultimate perfection.” 
 
@@ -1110,9 +1110,9 @@ The Presence of Chandi The Master ate fish cooked ina human skull. But when it c
 
 There are two implications which emerge from the above. If Kali is all that exists, there 
 
-*[PDF 154]* ^pg154
+*[p. 144]* ^pg154
 
-*[PDF 155]* ^pg155
+*[p. 145]* ^pg155
 
 can be no question of relative value judgements: Kali and Chandi as ‘ferocious’ and Bhavatarini as benign. As Young says in his remarkable volume ofa tantric journey, the apparently terrifying Mother also cleanses all that is ‘dark’ in us: ‘The first glimpse of Kali is devastating. The purpose of the meditation is to allow Kali to devour everything in you that is dark and terrifying so that what's left is beautiful. When you sit through an evening of meditation with Kali devouring you, what you are left within the morning is an image of Kali that is extraordinarily beautiful” 
 
@@ -1150,7 +1150,7 @@ sport of my mad Mother Kali} sings the Master.”
 
 Vedic Wisdom: The Dialectics of Desire The preamble to the dialectics of desire is found in the immemorial Rig Veda: ‘Desire first stirred in it, desire that was first said of the spirit. The connection of the existent in the non-existent, the sages found, seeing in their hearts with wisdom?\*\* In the cosmic womb—Hiranyagarbha—the first sound could easily be about the omnipresent 
 
-*[PDF 156]* ^pg156
+*[p. 146]* ^pg156
 
 desire with its vast network of ambitions. Let us take some hints from the Great Master: 
 
@@ -1188,7 +1188,7 @@ an end in itself, but some blurring of the boundary does exist’
 
 Perhaps panchamakara is, in this sense, a snakes and ladders structure. But the cosmic kundalini that the Great Master is, he made tantra, a method without titillating tantrums. 
 
-*[PDF 157]* ^pg157
+*[p. 147]* ^pg157
 
 Cosmic Kundalini’s Dance in Joy ‘The primal Shakti operated through the Master. Swami Chetananandas intuitive observation is highly relevant: ‘As he \[Sri Ramakrishna\] sat in the village of Dakshineswar, he shook the Cosmic-kundalini so vigorously that his message encircled the globe within a short time of his passing. The Cosmic-kundalini is the Divine Mother Kali’ We have the most invaluable evidence of Swami Vijnanananda, a direct disciple of the Master. He observed that this experience ‘temained imprinted in my memory forever. From the base of the Master’s spine right up to his head, the whole column had become inflamed like a thick rope. And the energy that rose upward towards the brain seemed to be spreading its hood and swaying like a snake dancing in joy’ (51). 
 
@@ -1206,7 +1206,7 @@ in Calcutta’ In Kalika Purana, however, Kaliis
 
 benevolent in all aspects but, Jani describes it as a ‘caste purana. No problem to Sri Ramakrishna: “The Master used to say that the devotees formed. 
 
-*[p. 458]* ^pg158
+*[p. 148]* ^pg158
 
 a separate caste by themselves; among them there money matters which mattered to them! Mas- 
 

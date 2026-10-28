@@ -4,7 +4,7 @@ work: "[[Slouber - Early Tantric Medicine]]"
 book: "[[Library/Hinduism/Early Tantric Medicine (Slouber)/Early Tantric Medicine (Slouber)|Early Tantric Medicine (Slouber)]]"
 order: 1
 source_pdf: Library/Hinduism/Slouber - Early Tantric Medicine (2017).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF; 92 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

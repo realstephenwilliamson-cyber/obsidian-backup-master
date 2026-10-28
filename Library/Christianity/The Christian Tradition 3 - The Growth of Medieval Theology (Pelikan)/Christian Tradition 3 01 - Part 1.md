@@ -164,7 +164,7 @@ The completion of The Growth of Medieval Theology has brought my history of the 
 
 As I have sought to show in the introduction to this volume, even the word “theology” is used in the title (as it was often used in the Middle Ages) ina sense different from that in which we generally use it. To us, the word tends to mean what individual theologians do and how they develop their systems, but I am employing it almost as a synonym for “church doctrine.” Therefore the outline of The Growth of Medieval Theology is shaped primarily
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
 PREFACE vili
 
@@ -174,13 +174,13 @@ The setting of this volume within the context of the entire work has helped to g
 
 Once again, I am obliged—and delighted—to acknowledge the help I have received from others. A series of dissertations I directed on topics in medieval doctrine, notably that of Patrick Geary on relics and that of E. Ann
 
-*[PDF 11]* ^pg11
+*[p. ix]* ^pg11
 
 Preface ix
 
 Matter on Mary, made me aware of issues and of texts that I might otherwise have overlooked. Several lecture invitations gave me the opportunity to try out most of these chapters on a living audience and on colleagues in medieval studies who gave me the benefit of their criticism and advice. The host institutions for those lectures were (in alphabetical order): The University of Calgary; the Catholic University of America; the University of Chicago; Princeton University; Saint Mary's College at Notre Dame, the University of Toronto (the Centre for Medieval Studies and the Pontifical Institute of Mediaeval Studies); and Yale University. I have likewise benefited from several distinguished library collections, above all from the Sterling Memorial Library and the Beinecke Rare Book and Manuscript Library at Yale, but also from the Library of Congress, the Widener Library at Harvard, and the library of the Medieval Institute of the University of Notre Dame. Most of all, of course, I have learned from the primary sources listed at the beginning of the book and from the secondary works listed at the end of the book, as well as from other writings in both categories not specifically identified. Nancy Wellins assisted me with verifying citations. The devoted and accurate transcription of a difficult manuscript into its final form was the work of my secretary, Mrs. Candace Bryce.
 
-*[PDF 12]* ^pg12
+*[p. x]* ^pg12
 
 *[p. xi]* ^pg13
 
@@ -800,7 +800,7 @@ Herm.Sched.Conv.
 
 That It Is Permissible to Speak of the Deity as Trine On Diverse Matters Fragments On Predestination How Many Ways Redemption Is Spoken of Responses A Slip of Paper {Schedula} On the Trinity Gozechinus. Epistle to Valcherus Gregory the Great Dialogues Homilies on the Gospels {In evangelia homiliae} Moral Discourses on Job Pseudo-Gregory the Great. Antiphonary Gregory of Tours History of the Franks On Miracles Walter of Tournai. Against the Jews Walter of Saint-Victor. Against the Four Labyrinths of France Guibert of Nogent Epistle on the Morsel Given to Judas and on the Reality of the Lord’s Body {Epistola de buccella Judae data et de veritate dominici corporis} The Deeds of God through the Franks (Gesta dei per Francos} On the Incarnation In Laud of Saint Mary Moral Discourses on Genesis The Order of a Sermon On the Relics of the Saints {De pignoribus sanctorum} On Virginity Autobiography {De vita sua} Guitmond of Aversa Confession On the Reality of the Body and Blood of Christ in the Eucharist (De corporis et sanguinis Christi veritate in eucharistia} Pope Hadrian I. Epistle to the Bishops of Spaiv The Heresy of the Cathars Pseudo-Haimo of Halberstadt. Ow the Body and Blood of the Lord {De corpore et sanguine Domini} Heriger of Lobbes ‘ On the Body and Blood of the Lord {De corpore ef sanguine Domini} Epistle to Hugh History of the Bishops of Liége (Gesta pontificum Tungren-sinm sive Leodicensium} Life of Saint Hadalinus Life of Saint Landoald Life of Saint Remaclus Herbert of Losinga. Sermons Heribert. Epistle on the Heretics Master Herman. Epitome of Christian Theology Herman of Scheda. On His Conversion
 
-*[PDF 20]* ^pg20
+*[p. xviii]* ^pg20
 
 Herm.Torn.Rest.Mart.
 

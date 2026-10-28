@@ -4,7 +4,7 @@ work: "[[Sreedhar - Hobbes on Resistance]]"
 book: "[[Library/Philosophy/Hobbes on Resistance (Sreedhar)/Hobbes on Resistance (Sreedhar)|Hobbes on Resistance (Sreedhar)]]"
 order: 1
 source_pdf: Library/Philosophy/Susanne Sreedhar - Hobbes on Resistance_ Defying the Leviathan-Cambridge University Press (2010).pdf
-page_range: C1–viii
+page_range: "i–viii"
 pdf_pages: 1–10
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

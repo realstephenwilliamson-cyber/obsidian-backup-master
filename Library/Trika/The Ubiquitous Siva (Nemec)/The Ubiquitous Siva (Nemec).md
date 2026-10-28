@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 12
 
 ## Contents
 
-- [[The Ubiquitous Siva 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[The Ubiquitous Siva 01 - Front matter|Front matter]] (pp. i–iv)
 - [[The Ubiquitous Siva 02 - Contents|Contents]] (pp. v–vi)
 - [[The Ubiquitous Siva 03 - Acknowledgments|Acknowledgments]] (pp. vii–viii)
 - [[The Ubiquitous Siva 04 - Abbreviations|Abbreviations]] (pp. ix–xii)

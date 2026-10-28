@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 
 ## Contents
 
-- [[Tantraloka Dyczkowski v11 01 - Front matter|Front matter]] (pp. 1–18)
+- [[Tantraloka Dyczkowski v11 01 - Front matter|Front matter]] (pp. iii–xiii)
 - [[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1|Chapter Thirty, part 1]] (pp. 1–32)
 - [[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2|Chapter Thirty, part 2]] (pp. 33–64)
 - [[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1|Chapter Thirty-One, part 1]] (pp. 65–99)

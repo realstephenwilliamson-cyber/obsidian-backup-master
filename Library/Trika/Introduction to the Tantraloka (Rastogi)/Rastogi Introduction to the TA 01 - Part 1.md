@@ -4,7 +4,7 @@ work: "[[Rastogi - Introduction to the Tantraloka]]"
 book: "[[Library/Trika/Introduction to the Tantraloka (Rastogi)/Introduction to the Tantraloka (Rastogi)|Introduction to the Tantraloka (Rastogi)]]"
 order: 1
 source_pdf: Library/Trika/Rastogi - Introduction to the Tantraloka (1987).pdf
-page_range: 1–10
+page_range: "viii–10"
 pdf_pages: 1–40
 text_source: the original ClearScan text layer (one copy; the 5 Oct OCR copy left out); footnotes read again with Tesseract Latin+san (7 Oct 2026)
 converted: 2026-10-07
@@ -164,7 +164,7 @@ be deemed complete if it does not take the *Tantraloka* into account. Written on
 
 [^2]: The Philosophy of the *Tantraloka* in the First Three Ahnikas with translation into English, by Ira Bajpai, thesis submitted to the Lucknow University for Ph. D. Degree in 1971 (unpublished).
 
-*[PDF 11]* ^pg11
+*[p. x]* ^pg11
 
 studies[^1] which merit special mention here. Pandey and myself have constantly dwelt on the *Tantraloka,* but the whole exercise becomes of secondary importance because it is Abhinavagupta or Krama system, as the case may be, that is being studied and not the *Tantraloka* and as such, only the relevant material is being referred to. For example, Pandey's mainstay are the 1st to 5th and 29th Ahnikas, while mine are the 1st, 4th, 13th and 30th. Goudriaan's observations are important, but he takes up the *Tantraloka* for a very brief treatment.[^2-p11] Recently a major work that has come to our notice is the *Upodghata* (Sanskrit introduction to the *Luptagamasamgraha*[^3] by B.V. Dwivedi). It comes as an appendix to the first two volumes of the *Luptagamasarhgraha* which are the compilation of citations from the Agamas in various sources and has assumed the form of an introduction to the 2nd Volume. The *Upodghata* deals, inter alia, with the citations in the *Tantraloka* and the *Tantralokaviveka.* In the first part Dwivedi's perspective is 
 
@@ -216,7 +216,7 @@ before the discerning judgement of the scholars for what it is worth with a cita
 
 Navjivan Rastogi 
 
-*[PDF 18]* ^pg18
+*[p. xvii]* ^pg18
 
 *CONTENTS* 
 
@@ -262,7 +262,7 @@ general 129 (a) Jayaratha vs. Ksemaraja 130 (vi) Restoring tradition: fathoming 
 
 relationship among Agamas 
 
-*[PDF 20]* ^pg20
+*[p. xix]* ^pg20
 
 CONTENTS 
 
@@ -468,7 +468,7 @@ Upodghata to the Luptagamasamgraha V.M.V.
 
 Vamakesvarl-mata-vivarana 
 
-*[PDF 26]* ^pg26
+*[p. xxvi]* ^pg26
 
 *SELECT BIBLIOGRAPHY* 
 

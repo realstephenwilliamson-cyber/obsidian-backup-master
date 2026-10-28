@@ -4,7 +4,7 @@ work: "[[Reijers and Coeckelbergh - Narrative and Technology Ethics]]"
 book: "[[Library/Philosophy/Narrative and Technology Ethics (Reijers)/Narrative and Technology Ethics (Reijers)|Narrative and Technology Ethics (Reijers)]]"
 order: 1
 source_pdf: Library/Philosophy/Wessel Reijers, Mark Coeckelbergh - Narrative And Technology Ethics-Palgrave Macmillan (2020).pdf
-page_range: C1–v
+page_range: "i–v"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -29,7 +29,7 @@ Converted from the PDF on 12 Oct 2026 (a fresh OCR (Tesseract 5) of the page ima
 
 ## Contents
 
-- [[Ambigua I 01 - Front matter|Front matter]] (pp. cover–v)
+- [[Ambigua I 01 - Front matter|Front matter]] (pp. iii–v)
 - [[Ambigua I 02 - Introduction|Introduction]] (pp. vii–xxxii)
 
 ### Ambigua to Thomas

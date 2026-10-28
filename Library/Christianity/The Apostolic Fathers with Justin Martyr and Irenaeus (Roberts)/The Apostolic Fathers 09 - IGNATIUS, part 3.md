@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 9
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 168–1353
+page_range: "164–193"
 pdf_pages: 204–247
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -644,7 +644,7 @@ Darest thou, then, who didst fall “as lightning”<sup>1341</sup> from the ver
 
 119 [[Matthew 04#^4-3|Matt. iv. 3]]. 1337 Or, “the belly.” 1338 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]]. 1339 Some insert, “corruptible.” 1340 [[Luke 10#^10-18|Luke x. 18]]. 1341 [[Matthew 04#^4-6|Matt. iv. 6]]. 1342 Comp. [[Romans 04#^4-17|Rom. iv. 17]]. 1343 [[Matthew 04#^4-6|Matt. iv. 6]]. 1344
 
-*[p. 1352]* ^pg232
+*[p. 192]* ^pg232
 
 If, therefore, thou art trodden down under the feet of the Lord, how dost thou tempt Him that cannot be tempted, forgetting that precept of the lawgiver, “Thou shall not tempt the Lord thy God?”<sup>1346</sup> Yea, thou even darest, most accursed one, to appropriate the works of God to thyself, and to declare that the dominion over these was delivered to thee.<sup>1347</sup> And thou dost set forth thine own fall as an example to the Lord, and dost promise to give Him what is really His own, if He would fall down and worship thee.<sup>1348</sup> And how didst thou not shudder, O thou spirit more wicked through thy malevolence than all other wicked spirits, to utter such words against the Lord? Through thine appetite<sup>1349</sup> wast thou overcome, and through thy vainglory wast thou brought to dishonour: through avarice and ambition dost thou \[now\] draw on \[others\] to ungodliness. Thou, O Belial, dragon, apostate, crooked serpent, rebel against God, outcast from Christ, alien from the Holy Spirit, exile from the ranks of the angels, reviler of the laws of God, enemy of all that is lawful, who didst rise up against the first-formed of men, and didst drive forth \[from obedience to\] the commandment \[of God\] those who had in no respect injured thee; thou who didst raise up against Abel the murderous Cain; thou who didst take arms against Job: dost thou say to the Lord, “If Thou wilt fall down and worship me?” Oh what audacity! Oh what madness! Thou runaway slave, thou incorrigible<sup>1350</sup> slave, dost thou rebel against the good Lord? Dost thou say to so great a Lord, the God of all that either the mind or the senses can perceive, “If Thou wilt fall down and worship me?”
 
@@ -678,7 +678,7 @@ Or, “that always needs whipping.”
 
 [[Matthew 04#^4-10|Matt. iv. 10]]; Deut. vi. 13.
 
-*[p. 1353]* ^pg233
+*[p. 193]* ^pg233
 
 not an enemy of God; I acknowledge His pre-eminence; I know the Father, who is the author of my generation.
 

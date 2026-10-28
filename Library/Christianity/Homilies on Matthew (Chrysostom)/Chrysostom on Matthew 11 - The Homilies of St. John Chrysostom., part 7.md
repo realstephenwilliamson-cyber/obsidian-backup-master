@@ -24,6 +24,8 @@ Seest thou how He hath taught us also to be modest, by making it clear that virt
 
 8\. “Give us this day our daily bread.”<sup>853</sup> What is “*daily bread*”? That for one day.<sup>854</sup>
 
+ἔρωτα. 850 ἀνωμαλα. 851 852 Ps. ciii. 20. 853 [[Matthew 06#^6-11|Matt. vi. 11]]. 854 \[This is one of the most important passages in these Homilies, from a lexical point of view. The Greek text is, Τ στι, Τον ρτον τν πιυσιον; Το φμερον. The word ἐπιοσιο is found only in [[Matthew 06#^6-11|Matt. vi. 11]], [[Luke 11#^11-3|Luke xi. 3]], and in the Christian literature based on these passages. As all Biblical scholars are aware, the etymology and meaning are still open to discussion. See Thayer’s *Greek Lexicon, New Testament, sub voce*. The Fathers generally gave it a spiritual or mystical sense, and Chrysostom’s position is, therefore, the more important. The modern views may be inferred from the R.V., which in the text of both renders the word “daily,” with the margin “Greek, our bread for the coming day,” but the American Company add as a second marginal rendering, “our needful bread.” These two marginal renderings represent two distinct etymologies, while “daily” is an explanatory or inferential rendering, for which the authority of Chrysostom has furnished strong support.—R.\]
+
 *[p. 245]* ^pg253
 
 For because He had said thus, “Thy will be done in earth as it is in heaven,” but was discoursing to men encompassed with flesh, and subject to the necessities of nature, and incapable of the same impassibility with the angels:—while He enjoins the commands to be practised by us also, even as they perform them; He condescends likewise, in what follows, to the infirmity of our nature. Thus, “perfection of conduct,” saith He, “I require as great, not however freedom from passions; no, for the tyranny of nature permits it not: for it requires necessary food.” But mark, I pray thee, how even in things that are bodily, that which is spiritual abounds. For it is neither for riches, nor for delicate living, nor for costly raiment, nor for any other such thing, but for bread only, that He hath commanded us to make our prayer. And for “daily bread,” so as not to “take thought for the morrow.”<sup>855</sup> Because of this He added, “*daily* bread,” that is, bread for one day.
@@ -422,7 +424,7 @@ But for you, just now, it is enough to learn not to covet, and that almsgiving i
 
 928 [[Matthew 06#^6-27|Matt. vi. 27]]. 929 1 Kings xix. 18; [[Romans 11#^11-4|Rom. xi. 4]]. 930 [[Acts 02#^2-41|Acts ii. 41]], [[Acts 04#^4-5|iv. 5]].
 
-[^931]: See Sulpicius Severus, Dial. i. c. 14. “It is told of a certain holy man that he constantly and entirely abstained from all drink: and that by way of food, he lived upon seven figs only.” \[ύμ γυμνζομεν, “we are exercising you.”—R.\] 933 So Aristippus: *vid*. Hor. *Serm*. 2, 3, 100.
+[^931]: See Sulpicius Severus, Dial. i. c. 14. “It is told of a certain holy man that he constantly and entirely abstained from all drink: and that by way of food, he lived upon seven figs only.”
 
 *[p. 270]* ^pg278
 
@@ -431,6 +433,8 @@ unfit for this, he speaks of the lesser things. Because, if he had mentioned wha
 For this very reason we too are practising you<sup>933</sup>in the inferior duties. Yes, because as yet, we know, the burden of voluntary poverty is too great for you, and the heaven is not more distant from the earth, than such self-denial from you. Let us then lay hold, if it be only of the lowest commandments, for even this is no small encouragement. And yet some 147 amongst the heathens have achieved even this, though not in a proper spirit, and have stripped themselves of all their possessions.<sup>934</sup> However, we are contented in your case, if alms are bestowed abundantly by you; for we shall soon arrive at those other duties too, if we advance in this way. But if we do not so much as this, of what favor shall we be worthy, who are bidden to surpass those under the old law, and yet show ourselves inferior to the philosophers among the heathens? What shall we say, who when we ought to be angels and sons of God, do not even quite maintain our being as men? For to spoil and to covet comes not of the gentleness of men, but of the fierceness of wild beasts; nay, worse than wild beasts are the assailers of their neighbor’s goods. For to them this comes by nature, but we who are honored with reason, and yet are falling away unto that unnatural vileness, what indulgence shall we receive?
 
 Let us then, considering the measures of that discipline which is set before us, press on at least to the middle station, that we may both be delivered from the punishment which is to come, and proceeding regularly, may arrive at the very summit of all good things; unto which may we all attain, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and dominion for ever and ever. Amen.
+
+\[ύμ γυμνζομεν, “we are exercising you.”—R.\] 933 So Aristippus: *vid*. Hor. *Serm*. 2, 3, 100.
 
 *[p. 271]* ^pg279
 
@@ -526,7 +530,7 @@ This then is His meaning here also, when He saith, “sufficient unto the day is
 
 151 949 [[Matthew 06#^6-4|Matt. vi. 4]]. σχματο. 950 951 [[Matthew 05#^5-34|Matt. v. 34]]. συντριβπλεονεξα; but one mss. reads δυναστεα, referring to oppressive oligarchies, Latin, *principatus*.—R.\] 952 953 Isa. xlv. 7. \[κακαν, the word rendered “evil” throughout this passage.—R.\] 954 955 1 Sam. vi. 9.
 
-[^956]: [[1 Corinthians 07#^7-32|1 Cor. vii. 32]]. \[R.V., “to be free from care;” ἀμερμνου, a compound of the same origin as the word rendered “take no thought” in the A.V.—R.\] 957 [[Matthew 10#^10-9|Matt. x. 9]], [[Matthew 10#^10-10|10]].
+[^956]: [[1 Corinthians 07#^7-32|1 Cor. vii. 32]]. \[R.V., “to be free from care;” ἀμερμνου, a compound of the same origin as the word rendered “take no thought” in the A.V.—R.\]
 
 *[p. 277]* ^pg285
 
@@ -537,6 +541,8 @@ And here indeed He advises, but as He proceeds, He even makes it a law, saying, 
 But mark His tender care also, how He surpasses the affection of any father. Thus, “This I command,” saith He, “for nothing else, but that I may deliver you from superfluous anxieties. For even if to-day thou hast taken thought for to-morrow, thou wilt also have to take thought again to-morrow. Why then what is over and above? Why force the day to receive more than the distress which is allotted to it, and together with its own troubles add to it also the burden of the following day; and this, when there is no chance of thy lightening the other by the addition so taking place, but thou art merely to exhibit thyself as coveting superfluous troubles?” Thus, that He may reprove them the more, He doth all but give life to the very time, and brings it in as one injured, and exclaiming against them for their causeless despite. Why, thou hast received the day, to care for the things thereof. Wherefore then add unto it the things of the other day also? Hath it not then burden enough in its own anxiety? Why now, I pray, dost thou make it yet heavier? Now when the Lawgiver saith these things, and He that is to pass judgment on us, consider the hopes that He suggests to us, how good they are; He Himself testifying, that this life is wretched and wearisome, so that the anxiety even of the one day is enough to hurt and afflict us.
 
 6\. Nevertheless, after so many and so grave words, we take thought for these things, but for the things in Heaven no longer: rather we have reversed His order, on either side fighting against His sayings. For mark; “Seek ye not the things present,” saith He, “at all;” but we are seeking these things for ever: “seek the things in Heaven,” saith He; but those things we seek not so much as for a short hour, but according to the greatness of the anxiety we display about the things of the world, is the carelessness we entertain in things spiritual; or rather even much greater. But this doth not prosper for ever; neither can this be for ever. What if
+
+957 [[Matthew 10#^10-9|Matt. x. 9]], [[Matthew 10#^10-10|10]].
 
 *[p. 278]* ^pg286
 

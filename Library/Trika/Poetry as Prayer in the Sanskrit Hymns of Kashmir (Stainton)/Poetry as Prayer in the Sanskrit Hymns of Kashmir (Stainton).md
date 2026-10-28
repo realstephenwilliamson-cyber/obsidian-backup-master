@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Poetry as Prayer in the Sanskrit 01 - Front matter|Front matter (Cover, Series, Poetry as Prayer in the Sanskrit Hymns of Kashmir, Copyright, Ded)]] (pp. Cover–viii)
+- [[Poetry as Prayer in the Sanskrit 01 - Front matter|Front matter (Cover, Series, Poetry as Prayer in the Sanskrit Hymns of Kashmir, Copyright, Ded)]] (pp. i–viii)
 - [[Poetry as Prayer in the Sanskrit 02 - Acknowledgments|Acknowledgments]] (pp. ix–xiv)
 - [[Poetry as Prayer in the Sanskrit 03 - Abbreviations|Abbreviations]] (pp. xv–xviii)
 - [[Poetry as Prayer in the Sanskrit 04 - 1. Introduction|1. Introduction]] (pp. 1–26)

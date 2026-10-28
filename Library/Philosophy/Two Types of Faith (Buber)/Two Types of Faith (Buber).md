@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Two Types of Faith 01 - Front matter|Front matter (Cover, Title Page, Copyright, Translator's Foreword)]] (pp. Cover–6)
+- [[Two Types of Faith 01 - Front matter|Front matter (Cover, Title Page, Copyright, Translator's Foreword)]] (pp. 3–6)
 - [[Two Types of Faith 02 - Foreword|Foreword]] (pp. 7–16)
 - [[Two Types of Faith 03 - I|I]] (pp. 17–23)
 - [[Two Types of Faith 04 - II|II]] (pp. 24–29)

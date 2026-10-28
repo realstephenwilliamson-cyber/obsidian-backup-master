@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[The Mystical Experience 01 - Front matter|Front matter (Front matter, Half Title Page, Title Page, Copyright Page, Table of Contents, Fo)]] (pp. Front Cover–xiii)
+- [[The Mystical Experience 01 - Front matter|Front matter (Front matter, Half Title Page, Title Page, Copyright Page, Table of Contents, Fo)]] (pp. i–xiii)
 - [[The Mystical Experience 02 - Introduction|Introduction]] (pp. 1–12)
 - [[The Mystical Experience 03 - 1. Techniques for Attaining Ecstasy|1. Techniques for Attaining Ecstasy]] (pp. 13–52)
 - [[The Mystical Experience 04 - 2. Music and Ecstatic Kabbalah|2. Music and Ecstatic Kabbalah]] (pp. 53–72)
@@ -27,4 +27,4 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 - [[The Mystical Experience 08 - 4. Erotic Images for the Ecstatic Experience|4. Erotic Images for the Ecstatic Experience]] (pp. 179–228)
 - [[The Mystical Experience 09 - Bibliography|Bibliography]] (pp. 229–232)
 - [[The Mystical Experience 10 - Index of Subjects and Proper Names|Index of Subjects and Proper Names]] (pp. 233–240)
-- [[The Mystical Experience 11 - Index of Titles|Index of Titles]] (pp. 241–Back Cover)
+- [[The Mystical Experience 11 - Index of Titles|Index of Titles]] (pp. 241–247)

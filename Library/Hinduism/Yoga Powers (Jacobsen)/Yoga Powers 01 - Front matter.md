@@ -4,7 +4,7 @@ work: "[[Jacobsen (ed.) - Yoga Powers]]"
 book: "[[Library/Hinduism/Yoga Powers (Jacobsen)/Yoga Powers (Jacobsen)|Yoga Powers (Jacobsen)]]"
 order: 1
 source_pdf: Library/Hinduism/Yoga Powers.pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

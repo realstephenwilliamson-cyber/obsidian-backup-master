@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Language Animal 01 - Front matter|Front matter (Front matter)]] (pp. FC–ii)
+- [[The Language Animal 01 - Front matter|Front matter (Front matter)]] (pp. i–ii)
 - [[The Language Animal 02 - The Language Animal The Full Shape of the Human Linguistic Capacity|The Language Animal: The Full Shape of the Human Linguistic Capacity]] (pp. iii–vi)
 - [[The Language Animal 03 - Contents|Contents]] (pp. vii–viii)
 - [[The Language Animal 04 - Preface|Preface]] (pp. ix–xii)

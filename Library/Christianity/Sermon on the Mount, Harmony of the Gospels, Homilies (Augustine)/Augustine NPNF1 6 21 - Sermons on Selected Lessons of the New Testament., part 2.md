@@ -46,7 +46,7 @@ Sermon III.
 
 2\. Mark what follows: “Blessed,” saith He, “are the meek, for they shall inherit the earth.”<sup>1885</sup> Thou wishest to possess the earth now; take heed lest thou be possessed by it. If thou be meek, thou wilt possess it; if ungentle, thou wilt be possessed by it. And when thou hearest of the proposed reward, do not, in order that thou mayest possess the earth, unfold the lap of covetousness, whereby thou wouldest at present possess the earth, to the exclusion even of thy neighbour by whatever means; let no such imagination deceive thee. Then wilt thou truly possess the earth, when thou dost cleave to Him who made heaven and earth. For this is to be meek, not to resist thy God, that in that thou doest well He may be well-
 
-1881 *Meruit*. 1882 This portion of St. Matthew is the gospel during the whole octave of All Saints, as in our own Church on All Saints’ Day; the corresponding portion of St. Luke is read in the Comm. Plur. Mart. 1883 [[Matthew 05#^5-3|Matt. v. 3]]. 1884 [[Luke 14#^14-11|Luke xiv. 11]] and xviii. 14. Matt. v. 5 (4, Vulgate). 267 1886 Matt. v. 4 (5, Vulgate). 1887 *Peregrinari*. 1888 [[Matthew 05#^5-6|Matt. v. 6]]. 1889 [[John 04#^4-13|John iv. 13]].
+1881 *Meruit*. 1882 This portion of St. Matthew is the gospel during the whole octave of All Saints, as in our own Church on All Saints’ Day; the corresponding portion of St. Luke is read in the Comm. Plur. Mart. 1883 [[Matthew 05#^5-3|Matt. v. 3]]. 1884 [[Luke 14#^14-11|Luke xiv. 11]] and xviii. 14. Matt. v. 5 (4, Vulgate).
 
 
 *[p. 569]* ^pg595
@@ -61,6 +61,8 @@ pleasing to thee, not thou to thyself; and in that thou sufferest ill justly, He
 
 5\. Mark what comes next: “Blessed are the merciful, for they shall obtain mercy.”<sup>1892</sup> Do this, and so shall it be done to thee; deal so with others, that God may so deal with thee. For thou art at once in abundance and in want—in abundance of temporal things, in want of things eternal. The man whom thou hearest is a beggar, and thou art thyself God’s beggar.
 
+267 1886 Matt. v. 4 (5, Vulgate). 1887 *Peregrinari*. 1888 [[Matthew 05#^5-6|Matt. v. 6]]. 1889 [[John 04#^4-13|John iv. 13]].
+
 1890 [[John 06#^6-41|John vi. 41]]. 1891 Ps. xxxvi. 9.
 
 
@@ -72,7 +74,7 @@ Petition is made to thee, and thou makest thy petition. As thou hast dealt with 
 
 6\. Mark what comes next: “Blessed are the pure in heart, for they shall see God.”<sup>1893</sup> This is the end of our love; an end whereby we are perfected, and not consumed. For there is an end of food, and an end of a garment; of food when it is consumed by the eating; of a garment when it is perfected in the weaving. Both the one and the other have an end; but the one is an end of consumption, the other of perfection. Whatsoever we now do, whatsoever we now do well, whatsoever we now strive for, or are in laudable sort eager for, or blamelessly desire, when we come to the vision of God, we shall require no more. For what need he seek for, with whom God is present? or what shall suffice him, whom God sufficeth not? We wish to see God, we seek, we kindle with desire to see Him. Who doth not? But mark what is said: “Blessed are the pure in heart, for they shall see God.” Provide thyself then with that whereby thou mayest see Him. For (to speak after the flesh) how with weak eyes desirest thou the rising of the sun? Let the eye be sound, and that light will be a rejoicing, if it be not sound, it will be but a torment. For it is not permitted with a heart impure to see that which is seen only by the pure heart. Thou wilt be repelled, driven back from it, and wilt not see it. For “blessed are the pure in heart, for they shall see God.” How often already hath he enumerated the blessed, and the causes of their blessedness, and their works and recompenses, their merits and rewards! But nowhere hath it been said, “They shall see God.” “Blessed are the poor in spirit, for theirs is the kingdom of heaven.” “Blessed are the meek, for they shall inherit the earth.” “Blessed are they that mourn, for they shall be comforted.” “Blessed are they that hunger and thirst after righteousness, they shall be filled.” “Blessed are the merciful, they shall obtain mercy.” In none of these hath it been said, “They shall see God.” When we come to the “pure in heart,” there is the vision of God promised. And not without good cause; for there, in the heart, are the eyes, by which God is seen. Speaking of these eyes, the Apostle Paul saith, “The eyes of your heart being enlightened.”<sup>1894</sup> At present then these eyes are enlightened, as is suitable to their infirmity, by faith; hereafter as shall be suited to their strength, they shall be enlightened by sight. “For as long as we are in the body we are absent from the Lord; For we walk by faith, not by sight.”<sup>1895</sup> Now as long as we are in this state of faith, what is said of us? “We see now through a glass darkly; but then face to face.”<sup>1896</sup> 7. Let no thought be entertained here of a bodily face. For if enkindled by the desire of seeing God, thou hast made ready thy bodily face to see Him, thou wilt be looking also for
 
-1893 [[Matthew 05#^5-8|Matt. v. 8]]. 1894 [[Ephesians 01#^1-18|Eph. i. 18]]. 1895 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]]. [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]]. 268 1897 Probably the Sermon xxiii., on Ps. lxxiii. 23, *seu de visione Dei* (Ben.). 1898 [[Romans 01#^1-22|Rom. i. 22]], [[Romans 01#^1-23|23]]. 1899 Wisd. i. 1.
+1893 [[Matthew 05#^5-8|Matt. v. 8]]. 1894 [[Ephesians 01#^1-18|Eph. i. 18]]. 1895 [[2 Corinthians 05#^5-6|2 Cor. v. 6]], [[2 Corinthians 05#^5-7|7]]. [[1 Corinthians 13#^13-12|1 Cor. xiii. 12]].
 
 
 *[p. 571]* ^pg597
@@ -80,6 +82,8 @@ Petition is made to thee, and thou makest thy petition. As thou hast dealt with 
 *On the words of the Gospel, Matt. Chap. v. 3 and 8, 'Blessed are the poor…*
 
 such a face in God. But if now thy conceptions of God are at least so spiritual as not to imagine Him to be corporeal (of which<sup>1897</sup> subject I treated yesterday at considerable length, if yet it was not in vain), if I have succeeded in breaking down in your heart, as in God’s temple, that image of human form; if the words in which the Apostle expresses his detestation of those, “who, professing themselves to be wise became fools, and changed the glory of the incorruptible God into an image made like unto corruptible man,”<sup>1898</sup> have entered deep into your minds, and taken possession of your inmost heart; if ye do now detest and abhor such impiety, if ye keep clean for the Creator His own temple, if ye would that He should come and make His abode with you, “Think of the Lord with a good heart, and in simplicity of heart seek for Him.”<sup>1899</sup> Mark well who it is to whom ye say, if so be ye do say it, and say it in sincerity, “My heart said to Thee, I will seek Thy face.” Let thine heart also say, and add, “Thy face, Lord, will I seek.”<sup>1900</sup> For so wilt thou seek it well, because thou seekest with thine heart. Scripture speaks of the “face of God, the arm of God, the hands of God, the feet of God, the seat of God,” and His footstool; but think not in all this of human members. If thou wouldest be a temple of truth, break down the idol of falsehood. The hand of God is His power. The face of God is the knowledge of God. The feet of God are His presence. The seat of God, if thou art so minded, is thine own self. But perhaps thou wilt venture to deny that Christ is God! “Not so,” you say. Dost thou grant this too, that “Christ is the power of God and the wisdom of God?<sup>1901</sup> “I grant it,” you say. Hear then, “The soul of the righteous is the seat of wisdom.”<sup>1902</sup> “Yes.” For where hath God His seat, but where He dwelleth? And where doth He dwell, but in His temple? “For the temple of God is holy, which temple ye are.”<sup>1903</sup> Take heed therefore how thou dost receive God. “God is a Spirit, and must be worshipped in spirit and in truth.”<sup>1904</sup> Let the ark of testimony enter now into thy heart, if thou art so minded, and let Dagon fall.<sup>1905</sup> Now therefore give ear at once, and learn to long for God; learn to make ready that whereby thou mayest see God. “Blessed,” saith He, “are the pure in heart, for they shall see God.” Why dost thou make ready the eyes of the body? If He should be seen by them, that which should be so seen would be contained in space.
+
+268 1897 Probably the Sermon xxiii., on Ps. lxxiii. 23, *seu de visione Dei* (Ben.). 1898 [[Romans 01#^1-22|Rom. i. 22]], [[Romans 01#^1-23|23]]. 1899 Wisd. i. 1.
 
 1900 Ps. xxvi. 8, Sept. (xxvii. English version). 1901 [[1 Corinthians 01#^1-24|1 Cor. i. 24]]. 1902 Wisd. i. 1903 [[1 Corinthians 03#^3-17|1 Cor. iii. 17]]. 1904 [[John 04#^4-24|John iv. 24]]. 1 Sam. v. 3.
 
@@ -279,7 +283,7 @@ So if from God the Father, who is in heaven, thou dost wish for the death of thi
 
 1969 Ps. cix. 7.
 
-1970 [[1 Timothy 01#^1-13|1 Tim. i. 13]]. 1971 [[Luke 23#^23-34|Luke xxiii. 34]]. [[Galatians 01#^1-22|Gal. i. 22]], etc. 276 1973 [[Matthew 06#^6-8|Matt. vi. 8]]. 1974 *Exaudientis effectus*. 1975 [[Matthew 06#^6-10|Matt. vi. 10]].
+1970 [[1 Timothy 01#^1-13|1 Tim. i. 13]]. 1971 [[Luke 23#^23-34|Luke xxiii. 34]]. [[Galatians 01#^1-22|Gal. i. 22]], etc.
 
 
 *[p. 587]* ^pg613
@@ -291,6 +295,8 @@ Therefore when thou prayest thou hast need of piety, not of wordiness. “For yo
 5\. “Do ye therefore say,” saith he, “Our Father, which art in heaven.” Where ye see ye have begun to have God for your Father. Ye will have Him, when ye are new born. Although even now before ye are born, ye have been conceived of His seed, as being on the eve of being brought forth in the font, the womb as it were of the Church. “Our Father, which art in heaven.” Remember then, that ye have a Father in heaven. Remember that ye were born of your father Adam unto death, that ye are to be born anew of God the Father unto life. And what ye say, say in your hearts. Only let there be the earnest affection of prayer, and there will be the effectual<sup>1974</sup> answer of Him who heareth prayer. “Hallowed be thy Name.” Why dost thou ask, that God’s Name may be hallowed? It *is* holy. Why then askest thou for that which is already holy? And then when thou dost ask that His Name may be hallowed, dost thou not as it were pray to Him for Him, and not for thyself? No. Understand it aright, and it is for thine own self thou askest. For this thou askest, that what is always in itself holy, may be hallowed in thee. What is “be hallowed?” “Be accounted holy,” be not despised. So then you see, that the good thou dost wish, thou wishest for thine own self. For if thou despise the Name of God, for thyself it will be ill, and not for God.
 
 6\. “Thy kingdom come.”<sup>1975</sup> To whom do we speak? and will not God’s kingdom come, if we ask it not. For of that kingdom do we speak which will be after the end of the world. For God hath a kingdom always; neither is He ever without a kingdom, whom the whole creation serveth. But what kingdom then dost thou wish for? That of which it is written in the Gospel, “Come, ye blessed of My Father, receive the kingdom which is prepared for you from the beginning of the world.” <sup>1976</sup> Lo here is the kingdom whereof we say, “Thy kingdom come.” We pray that it may come *in* us; we pray that we may be found in *it*. For come it certainly will; but what will it profit thee, if it shall find thee at the left hand? Therefore, here again it is for thine own self that thou wishest well; for thyself thou prayest. This it is that
+
+276 1973 [[Matthew 06#^6-8|Matt. vi. 8]]. 1974 *Exaudientis effectus*. 1975 [[Matthew 06#^6-10|Matt. vi. 10]].
 
 *[p. 588]* ^pg614
 
@@ -304,7 +310,7 @@ thou dost long for; this desire in thy prayer, that thou mayest so live, that th
 
 1977 [[Matthew 06#^6-10|Matt. vi. 10]]. 1978 [[Matthew 25#^25-34|Matt. xxv. 34]]. 1979 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
-1980 [[Romans 07#^7-25|Rom. vii. 25]]. 1981 [[1 Corinthians 15#^15-54|1 Cor. xv. 54]]. [[Galatians 05#^5-17|Gal. v. 17]]. 277 1983 *Pius*. 1984 [[Matthew 06#^6-11|Matt. vi. 11]].
+1980 [[Romans 07#^7-25|Rom. vii. 25]]. 1981 [[1 Corinthians 15#^15-54|1 Cor. xv. 54]]. [[Galatians 05#^5-17|Gal. v. 17]].
 
 
 *[p. 589]* ^pg615
@@ -316,6 +322,8 @@ have been changed into charity, nothing shall remain in the body to oppose the s
 9\. “Give us this day our daily bread.”<sup>1984</sup> Now here it is manifest, that it is for ourselves we pray. When thou sayest, “Hallowed be Thy Name,” it requires explanation how it is that it is for thyself thou prayest, not for God. When thou sayest, “Thy will be done;” here again is there need of explanation, lest thou think that thou art wishing well to God in this prayer, that His will may be done, and not rather that thou art praying for thyself. When thou sayest, “Thy kingdom come;” this again must be explained, lest thou think that thou art wishing well to God in this prayer that He may reign. But from this place and onwards to the end of the Prayer, it is plain that we are praying to God for our own selves. When thou sayest, “Give us this day our daily bread,” thou dost profess thyself to be God’s beggar. But be not ashamed at this; how rich soever any man be on earth, he is still God’s beggar. The beggar takes his stand before the rich man’s house; but the rich man himself stands before the door of the great rich One. Petition is made to him, and he maketh his petition. If he were not in need, he would not knock at the ears of God in prayer. And what doth the rich man need? I am bold to say, the rich man needeth even daily bread. For how is it that he hath abundance of all things? whence but because God hath given it him? What should he have, if God withdrew His hand? Have not many laid down to sleep in wealth, and risen up in beggary? And that he doth not want, is due to God’s mercy, not to his own power.
 
 10\. But this bread, Dearly beloved, by which our body is filled, by which the flesh is recruited day by day; this bread, I say, God giveth not to those only who praise, but to those also who blaspheme Him; “Who maketh His sun to rise upon the evil and on the good, and sendeth rain upon the just and on the unjust.”<sup>1985</sup> Thou praisest Him, and He feedeth thee; thou dost blaspheme Him, He feedeth thee. He waiteth for thee to repent; but if thou wilt
+
+277 1983 *Pius*. 1984 [[Matthew 06#^6-11|Matt. vi. 11]].
 
 *[p. 590]* ^pg616
 
@@ -386,7 +394,7 @@ he will go then to thy Lord, and say to Him, “Lord, I have prayed my fellow-se
 
 19\. Now these three first petitions, “Hallowed be Thy Name, Thy kingdom come, Thy will be done as in heaven so in earth,” these three regard the life eternal, for God’s Name ought to be hallowed in us always, we ought to be in His kingdom always, we ought to do His will always. This will be to all eternity. But “daily bread” is necessary now. All the rest that we pray for from this article, regards the necessities of the present life. Daily bread is necessary in this life; the forgiveness of our debts is necessary in this life. For when we shall arrive at the other life, there will be an end of all debts. In this life there is temptation, in this life the sailing is dangerous, in this life something is ever stealing its way in through the chinks of our frailties, which must be pumped out. But when we shall be made equal to the Angels of God; no more need to say and pray to God to forgive us our debts, when there will be none. Here then is the “daily bread;” here the prayer that our “debts may be forgiven;” here that we “enter not into temptation;” for in that life temptation does not enter; here that we may be “delivered from evil;” for in that life there will be no evil, but eternal and abiding good.
 
-2002 [[Matthew 18#^18-32|Matt. xviii. 32]], [[Matthew 18#^18-33|33]]. 281 2004 Joel ii. 32; [[Romans 10#^10-13|Rom. x. 13]]. 2005 [[Romans 10#^10-14|Rom. x. 14]], [[Romans 10#^10-15|15]].
+2002 [[Matthew 18#^18-32|Matt. xviii. 32]], [[Matthew 18#^18-33|33]].
 
 
 *[p. 596]* ^pg622
@@ -402,6 +410,8 @@ Sermon VII.
 2\. The Son of God, our Lord Jesus Christ, hath taught us a Prayer; and though He be the Lord Himself, as ye have heard and repeated in the Creed, the Only Son of God, yet He would not be alone. He is the Only Son, and yet would not be alone; He hath vouchsafed to have brethren. For to whom doth He say, “Say, Our Father, which art in heaven?”<sup>2006</sup> Whom did He wish us to call our Father, save His own Father? Did He grudge us this? Parents sometimes when they have gotten one, or two, or three children, fear to give birth to any more, lest they reduce the rest to beggary. But because the inheritance which He promiseth us is such as many may possess, and no one be straitened; therefore hath He called into His brotherhood the peoples of the nations; and the Only Son hath numberless brethren; who say, “Our Father, which art in heaven.” So said they who have been before us; and so shall say those who will come after us. See how many brethren the Only Son hath in His grace, sharing His inheritance with those for whom He suffered death. We had a father and mother on earth, that we might be born to labours and to death: but we have found other parents, God our Father, and the Church our Mother, by whom we are born unto life eternal. Let us then consider, beloved, whose children we have begun to be; and let us live so as becomes those who have such a Father. See, how that our Creator hath condescended to be our Father!
 
 3\. We have heard whom we ought to call upon, and with what hope of an eternal inheritance we have begun to have a Father in heaven; let us now hear what we must ask of Him.
+
+281 2004 Joel ii. 32; [[Romans 10#^10-13|Rom. x. 13]]. 2005 [[Romans 10#^10-14|Rom. x. 14]], [[Romans 10#^10-15|15]].
 
 *[p. 597]* ^pg623
 
@@ -441,7 +451,7 @@ but the whole is understood in a part. When we ask for bread, we thereby underst
 
 9\. “Lead us not into temptation, but deliver us from evil.”<sup>2017</sup> Will this again be necessary in the life to come? “Lead us not into temptation,” will not be said, except where there can be temptation. We read in the book of holy Job, “Is not the life of man upon earth a
 
-2013 See Sermon vi. (lvi. Bened.) 10 and note. 2014 *Codex*. 2015 *Irroramur*. 2016 [[Matthew 06#^6-12|Matt. vi. 12]]. Job vii. 1, Sept.; πειρατηρίον. 2018 2019 [[James 01#^1-13|Jas. i. 13]].
+2013 See Sermon vi. (lvi. Bened.) 10 and note. 2014 *Codex*. 2015 *Irroramur*. 2016 [[Matthew 06#^6-12|Matt. vi. 12]].
 
 
 *[p. 600]* ^pg626
@@ -451,6 +461,8 @@ but the whole is understood in a part. When we ask for bread, we thereby underst
 temptation?”<sup>2018</sup> What then do we pray for? Hear what. The Apostle James saith, “Let no man say when he is tempted, I am tempted of God.”<sup>2019</sup> He spoke of those evil temptations, whereby men are deceived, and brought under the yoke of the devil. This is the kind of temptation he spoke of. For there is another sort of temptation which is called a proving; of this kind of temptation it is written, “The Lord your God tempteth (proveth) you to know whether ye love Him.”<sup>2020</sup> What means “to know”? “To make you know,” for He knoweth already. With that kind of temptation, whereby we are deceived and seduced, God tempteth no man. But undoubtedly in His deep and hidden judgment He abandons some. And when He hath abandoned them, the tempter finds his opportunity. For he finds in him no resistance against his power, but forthwith presents himself to him as his possessor, if God abandon him. Therefore that He may not abandon us, do we say, “Lead us not into temptation.” “For 283
 
 every one is tempted,” says the same Apostle James, “when he is drawn away of his own lust and enticed. Then lust, when it hath conceived, bringeth forth sin; and sin, when it is finished, bringeth forth death.”<sup>2021</sup> What then has he hereby taught us? To fight against our lusts. For ye are about to put away your sins in Holy Baptism; but lusts will still remain, wherewith ye must fight after that ye are regenerate. For a conflict with your own selves still remains. Let no enemy from without be feared: conquer thine own self, and the whole world is conquered. What can any tempter from without, whether the devil or the devil’s minister, do against thee? Whosoever sets the hope of gain before thee to seduce thee, let him only find no covetousness in thee; and what can he who would tempt thee by gain effect? Whereas if covetousness be found in thee, thou takest fire at the sight of gain, and art taken by the bait of this corrupt food.<sup>2022</sup> But if he find no covetousness in thee, the trap remains spread in vain. Or should the tempter set before thee some woman of surpassing beauty; if chastity be within, iniquity from without is overcome. Therefore that he may not take thee with the bait of a strange woman’s beauty, fight with thine own lust within; thou hast no sensible perception of thine enemy, but of thine own concupiscence thou hast. Thou dost not see the devil, but the object that engageth thee thou dost see. Get the mastery then over that of which thou art sensible within. Fight valiantly, for He who hath regenerated thee is thy Judge; He hath arranged the lists, He is making ready the crown. But because thou wilt without doubt be conquered, if thou have not Him to aid thee, if He abandon thee: therefore dost thou say in the prayer, “Lead us not into temptation.” The Judge’s wrath hath given
+
+Job vii. 1, Sept.; πειρατηρίον. 2018 2019 [[James 01#^1-13|Jas. i. 13]].
 
 2020 Deut. xiii. 3. 2021 [[James 01#^1-14|Jas. i. 14]], [[James 01#^1-15|15]]. *Vitiosæ escæ laqueo*.
 
@@ -487,7 +499,7 @@ vengeance, will lose for thee the power thou hadst to say, “As we also forgive
 
 tried even with hunger, and have been found gold, and have not been forsaken by God. They would have perished with hunger, if the daily inward bread were to leave their heart. After this let us chiefly hunger. For, “Blessed are they who hunger and thirst after righteousness, for they shall be filled.”<sup>2030</sup> But He can in mercy look upon our infirmity, and see us, as it is said, “Remember that we are dust.”<sup>2031</sup> He who from the dust made and quickened man, for that His work of clay’s sake, gave His Only Son to death. Who can explain, who can worthily so much as conceive, how much He loveth us?
 
-2030 [[Matthew 05#^5-6|Matt. v. 6]]. Ps. cii. 14, Sept. (ciii. English version). 285 2032 [[Romans 10#^10-14|Rom. x. 14]]. 2033 *Jurisperitus*. 2034 Easter Eve. 2035 *i.e*. in Lent. 2036 [[Matthew 06#^6-9|Matt. vi. 9]].
+2030 [[Matthew 05#^5-6|Matt. v. 6]]. Ps. cii. 14, Sept. (ciii. English version).
 
 
 *[p. 604]* ^pg630
@@ -504,6 +516,8 @@ Sermon VIII.
 
 3\. “Hallowed be Thy Name, Thy kingdom come.”<sup>2037</sup> This hallowing of God’s Name is that whereby we are made holy. For His Name is always Holy. We wish also for His kingdom to come; come it will, though we wish it not; but to wish and pray that His kingdom may come, is nothing else than to wish of Him, that He would make us worthy of His kingdom, lest haply, which God forbid, it should come, and not come to us. For to many that will never come, which nevertheless must come. For to them will it come, to whom it
 
+285 2032 [[Romans 10#^10-14|Rom. x. 14]]. 2033 *Jurisperitus*. 2034 Easter Eve. 2035 *i.e*. in Lent. 2036 [[Matthew 06#^6-9|Matt. vi. 9]].
+
 *[p. 605]* ^pg631
 
 *Again on the Lord’s Prayer, Matt. vi. To the Competentes.*
@@ -516,7 +530,7 @@ shall be said, “Come, ye blessed of My Father, receive the kingdom prepared fo
 
 2038 [[Matthew 25#^25-34|Matt. xxv. 34]]. 2039 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
-2040 [[Matthew 06#^6-10|Matt. vi. 10]]. 2041 [[Romans 07#^7-22|Rom. vii. 22]]. 2042 [[Galatians 05#^5-17|Gal. v. 17]]. 2043 *Portat*. 2044 Gen. iii. 19, Sept. 2045 [[Matthew 06#^6-11|Matt. vi. 11]]. [[Hebrews 03#^3-13|Heb. iii. 13]]. 286 *Tegumentum*; σκεπάσματα. 2047 2048 [[1 Timothy 06#^6-7|1 Tim. vi. 7]], [[1 Timothy 06#^6-8|8]]. 2049 Gen. xliii. 16, Sept.
+2040 [[Matthew 06#^6-10|Matt. vi. 10]]. 2041 [[Romans 07#^7-22|Rom. vii. 22]]. 2042 [[Galatians 05#^5-17|Gal. v. 17]]. 2043 *Portat*. 2044 Gen. iii. 19, Sept. 2045 [[Matthew 06#^6-11|Matt. vi. 11]]. [[Hebrews 03#^3-13|Heb. iii. 13]].
 
 
 *[p. 606]* ^pg632
@@ -526,5 +540,7 @@ shall be said, “Come, ye blessed of My Father, receive the kingdom prepared fo
 us daily bread. Why did He not say “covering” too, for the support of our life is in meat and drink, our covering in raiment and lodging. Man should desire nothing more than these. Forasmuch as the Apostle saith, “We brought nothing into this world, neither can we carry anything out: having food and covering,<sup>2047</sup> let us be therewith content.”<sup>2048</sup> Perish covetousness, and nature is rich. Therefore if this prayer have reference to our daily sustenance, since this is a good understanding of the words, “Give us this day our daily bread;” let us not marvel, if under the name of bread other necessary things are also understood. As when Joseph invited his brethren, “These men,” saith he, “will eat bread with me to-day.”<sup>2049</sup> Why, were they to eat bread only? No, but in the mention of bread only, all the rest was understood. So when we pray for daily bread, we ask for whatever is necessary for us in earth for our bodies’ sake. But what saith the Lord Jesus? “Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you.”<sup>2050</sup> Again, this is a very good sense of, “Give us this day our daily bread,” thy Eucharist, our daily food. For the faithful know what they receive, and good for them it is to receive that daily bread which is necessary for this time present. They pray then for themselves, that they may become good, that they may persevere in goodness, and faith, and a holy life. This do they wish, this they pray for; for if they persevere not in this good life, they will be separated from that Bread. Therefore, “Give us this day our daily bread.” What is this? Let us live so, that we be not separated from Thy altar. Again, the Word of God which is laid open to us, and in a manner broken day by day, is “daily bread.” And as our bodies hunger after that other, so do our souls after this bread. And so we both ask for this bread simply, and whatsoever is in this life needful both for our souls and bodies, is included in “daily bread.”
 
 6\. “Forgive us our debts,”<sup>2051</sup> we say, and we may well say so; for we say the truth. For who is he that lives here in the flesh, and hath no debts? What man is there that lives so, that this prayer is not necessary for him? He may puff himself up, justify himself he cannot. It were well for him to imitate the Publican, and not swell as the Pharisee, “who went up into the temple,”<sup>2052</sup> and boasted of his deserts, and covered up his wounds. Whereas he who said, “Lord, be merciful to me a sinner,”<sup>2053</sup> knew wherefore he went up. This prayer the Lord Jesus, consider, my brethren, this prayer the Lord Jesus taught His disciples to offer, those great first Apostles of His, the leaders of our flock.<sup>2054</sup> If the leaders of the flock then
+
+286 *Tegumentum*; σκεπάσματα. 2047 2048 [[1 Timothy 06#^6-7|1 Tim. vi. 7]], [[1 Timothy 06#^6-8|8]]. 2049 Gen. xliii. 16, Sept.
 
 2050 [[Matthew 06#^6-33|Matt. vi. 33]]. 2051 [[Matthew 06#^6-12|Matt. vi. 12]]. 2052 [[Luke 18#^18-10|Luke xviii. 10]], [[Luke 18#^18-11|11]]. 2053 [[Luke 18#^18-13|Luke xviii. 13]]. *Arietes nostros*.

@@ -106,7 +106,7 @@ And together with what hath been said, all the time also since these things is s
 
 43 304 Micah v. 2.
 
-[^305]: St. Jerome, de Nom. Hebr. t. 3, 77, ed. Venet. 1767. *“Zorobabel, ‘princeps vel magister Babylonis’, sive ‘aliena translatio,’ vel ‘ortus in Babylone.’”* 306 *i.e*. He made Bethlehem so far greater than Jerusalem: because “not the least” seems here equivalent to “the greatest.” 307 [[Matthew 01#^1-21|Matt. i. 21]]. 308 \[The R.V. renders more accurately: “Which shall be shepherd of my people Israel.”—R.\] 309 [[Matthew 21#^21-16|Matt. xxi. 16]]; Ps. viii. 2. 310 Ps. cx. 1; [[Acts 02#^2-34|Acts ii. 34]]. 311 Isa. xi. 10; [[Romans 15#^15-12|Rom. xv. 12]]. \[The latter passage also follows the LXX. The word “trust” should be changed to “hope,” as in R.V., [[Romans 15#^15-12|Rom. xv. 12]].—R.\]
+[^305]: St. Jerome, de Nom. Hebr. t. 3, 77, ed. Venet. 1767. *“Zorobabel, ‘princeps vel magister Babylonis’, sive ‘aliena translatio,’ vel ‘ortus in Babylone.’”*
 
 *[p. 91]* ^pg99
 
@@ -115,6 +115,8 @@ comprehended even Jerusalem.<sup>306</sup> But not even so have they given heed,
 But how saith he that Bethlehem is “not the least among the princes of Judah?” for not in Palestine alone, but in the whole world, the village hath become conspicuous. Why, so far he was speaking to Jews; wherefore also he added, “He shall feed my people Israel.” And yet He fed the whole world; but as I have said, He is fain not to offend as yet, by revealing what He hath to say touching the Gentiles.
 
 But how was it, one may say, that He did not feed the Jewish people? I answer, first, this too is accomplished: for by the term Israel in this place, he figuratively meant such as believed on Him from among the Jews. And Paul interpreting this, saith, “For they are not all Israel, which are of Israel,”<sup>312</sup>but as many as have been born by faith and promise. And if He did
+
+306 *i.e*. He made Bethlehem so far greater than Jerusalem: because “not the least” seems here equivalent to “the greatest.” 307 [[Matthew 01#^1-21|Matt. i. 21]]. 308 \[The R.V. renders more accurately: “Which shall be shepherd of my people Israel.”—R.\] 309 [[Matthew 21#^21-16|Matt. xxi. 16]]; Ps. viii. 2. 310 Ps. cx. 1; [[Acts 02#^2-34|Acts ii. 34]]. 311 Isa. xi. 10; [[Romans 15#^15-12|Rom. xv. 12]]. \[The latter passage also follows the LXX. The word “trust” should be changed to “hope,” as in R.V., [[Romans 15#^15-12|Rom. xv. 12]].—R.\]
 
 *[p. 92]* ^pg100
 
@@ -130,7 +132,7 @@ Nevertheless, many as were the reasons to withhold him, he made the attempt; and
 
 44 \[R.V. “learned of them carefully” (ἠκρβωσεν παρ ατν). “Diligently” is from the Vulgate.—R.\] 313 314 [[Matthew 02#^2-7|Matt. ii. 7]]. ἀνοα. \[Rendered “folly,” “extreme folly,” etc., below.—R.\] 315
 
-[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great 317 superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\] 318 \[“Search out carefully,” R.V. The Greek text of the New Testament is accurately cited.—R.\] 319 [[Matthew 02#^2-8|Matt. ii. 8]]. 320 [[Matthew 02#^2-9|Matt. ii. 9]]. 321 Some mss. read “the Jews.” \[δμο. The translation is somewhat obscure, throughout the entire sentence.—R.\]
+[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great 317 superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\]
 
 *[p. 93]* ^pg101
 
@@ -145,6 +147,8 @@ And he said not, “go and learn concerning the King,” but “concerning the y
 4\. But the wise men perceive nothing of this, by reason of their exceeding reverence (for they never could have expected that he could have gone on to so great wickedness, and would have attempted to form plots against a dispensation so marvellous): and they depart suspecting none of these things, but from what was in themselves auguring all that would be in the rest of mankind.
 
 “And, lo! the star, which they saw in the east, went before them.”<sup>320</sup> For therefore only was it hidden, that having lost their guide, they might come to be obliged to make inquiry of the Jews, and so the matter might be made evident to all. Since after they have made inquiries, and have had His enemies<sup>321</sup>for informants, it appears to them again. And mark how excellent was the order; how in the first place after the star the people<sup>322</sup>of the Jews receives them, and the king, and these bring in the prophecy to explain what had appeared: how next, after the prophet, an angel again took them up and taught them all things; but for a time they journey from Jerusalem to Bethlehem by the guidance
+
+318 \[“Search out carefully,” R.V. The Greek text of the New Testament is accurately cited.—R.\] 319 [[Matthew 02#^2-8|Matt. ii. 8]]. 320 [[Matthew 02#^2-9|Matt. ii. 9]]. 321 Some mss. read “the Jews.” \[δμο. The translation is somewhat obscure, throughout the entire sentence.—R.\]
 
 *[p. 94]* ^pg102
 
@@ -422,13 +426,15 @@ former, he who composed the fourth book of Kings, saying, that after<sup>387</su
 
 387 2 Kings xxii. 8, etc. 388 See [[Acts 03#^3-22|Acts iii. 22]], [[Acts 03#^3-6|iii. 6]], [[Acts 04#^4-10|iv. 10]], [[Acts 06#^6-14|vi. 14]], etc. 389 [[John 01#^1-46|John i. 46]]. 390 [[John 07#^7-52|John vii. 52]]. \[R.V. text: “Search, and see that out of Galilee ariseth no prophet.”—R.\] 391
 
-[^392]: [[Romans 11#^11-28|Rom. xi. 28]]. \[The Oxford edition reads: “for the Fathers sake;” a misprint, conveying an incorrect sense.—R.\] 57 393 [[Hebrews 11#^11-14|Heb. xi. 14]], [[Hebrews 11#^11-15|15]]. 394 [[Hebrews 11#^11-13|Heb. xi. 13]]. \[R.V., more correctly: “having seen them and greeted them from afar.”—R.\] 395 [[Matthew 03#^3-9|Matt. iii. 9]]. 396 [[Romans 09#^9-6|Rom. ix. 6–8]]. \[ἀκρβειαν, “strictness.”—R.\] 397 \[προστασαν, “advancement.”—R.\] 398 σκαο. 399 \[τ παλαι, without a substantive, the technical term in ecclesiastical Greek for the Old Testament.—R.\] 400
+[^392]: [[Romans 11#^11-28|Rom. xi. 28]]. \[The Oxford edition reads: “for the Fathers sake;” a misprint, conveying an incorrect sense.—R.\]
 
 *[p. 115]* ^pg123
 
 how he saith, “They that say these things, show plainly that they seek a country; and truly if they had been mindful of that from whence they came out, they might have had opportunity to have returned: but now they desire another, a better country.”<sup>393</sup> And again, “These all died in faith, not having obtained the promises, but having seen them afar off, and embraced them.”<sup>394</sup> And John too said unto those that were coming to him, “Think not to say, We have Abraham to our father.”<sup>395</sup> And Paul again, “For they are not all Israel, which are of Israel; neither they, which are the children of the flesh, are they the children of God.”<sup>396</sup> For what were the sons of Samuel advantaged, tell me, by their father’s nobleness, when they were not heirs of their father’s virtue? And what profit had Moses’ sons, not having emulated his perfection?<sup>397</sup> Therefore neither did they inherit the dominion; but whilst they enrolled him as their father, the rule of the people passed away to another, to him who had become his son in the way of virtue. And what harm was it to Timothy, that he was of a Greek father? Or what on the other hand again was Noah’s son profited by the virtue of his father, when he became a slave instead of free? Seest thou, how little the nobleness of a father avails his children in the way of advocacy?<sup>398</sup> For the wickedness of Ham’s disposition overcame the laws of nature, and cast him not only out of the nobility which he had in respect of his father, but also out of his free estate. And what of Esau? Was he not son of Isaac, and had he not his father to stand his friend? Yea, his father too endeavored and desired that he should partake of the blessings, and he himself for the sake of this did all that was commanded him. Nevertheless, because he was untoward,<sup>399</sup>none of these things profited him; but although he was by birth first, and had his father on his side doing everything for this object, yet not having God with him, he lost all.
 
 But why do I speak of men? The Jews were sons of God, and gained nothing by this their high birth. Now if a man, having become a son of God, but failing to show forth an excellency meet for this noble birth, is even punished the more abundantly; why dost thou bring me forward the nobleness of ancestors remote or near? For not under the old covenant<sup>400</sup>only, but even under the new, one may find this rule to have held. For “as many as received Him,” it is said “to them gave He power to become the sons of God.”<sup>401</sup> And yet
+
+57 393 [[Hebrews 11#^11-14|Heb. xi. 14]], [[Hebrews 11#^11-15|15]]. 394 [[Hebrews 11#^11-13|Heb. xi. 13]]. \[R.V., more correctly: “having seen them and greeted them from afar.”—R.\] 395 [[Matthew 03#^3-9|Matt. iii. 9]]. 396 [[Romans 09#^9-6|Rom. ix. 6–8]]. \[ἀκρβειαν, “strictness.”—R.\] 397 \[προστασαν, “advancement.”—R.\] 398 σκαο. 399 \[τ παλαι, without a substantive, the technical term in ecclesiastical Greek for the Old Testament.—R.\] 400
 
 *[p. 116]* ^pg124
 

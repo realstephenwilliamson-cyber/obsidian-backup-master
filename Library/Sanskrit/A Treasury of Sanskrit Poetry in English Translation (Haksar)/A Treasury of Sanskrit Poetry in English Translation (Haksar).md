@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[A Treasury of Sanskrit Poetry 01 - Front matter|Front matter]] (pp. Cover–vi)
+- [[A Treasury of Sanskrit Poetry 01 - Front matter|Front matter]] (pp. i–vi)
 - [[A Treasury of Sanskrit Poetry 02 - Foreword|Foreword]] (pp. vii–viii)
 - [[A Treasury of Sanskrit Poetry 03 - Acknowledgements|Acknowledgements]] (pp. ix–xii)
 - [[A Treasury of Sanskrit Poetry 04 - Contents|Contents]] (pp. xiii–xxii)

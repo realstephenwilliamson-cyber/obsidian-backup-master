@@ -4,7 +4,7 @@ work: "[[Coeckelbergh - Green Leviathan or the Poetics of Political Liberty]]"
 book: "[[Library/Philosophy/Green Leviathan or the Poetics of Political Liberty (Coeckelbergh)/Green Leviathan or the Poetics of Political Liberty (Coeckelbergh)|Green Leviathan or the Poetics of Political Liberty (Coeckelbergh)]]"
 order: 1
 source_pdf: Library/Philosophy/Coeckelbergh - Green Leviathan or the Poetics of Political Liberty.pdf
-page_range: Cover–x
+page_range: "i–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

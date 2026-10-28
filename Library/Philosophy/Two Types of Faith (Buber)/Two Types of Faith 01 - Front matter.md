@@ -4,7 +4,7 @@ work: "[[Buber - Two Types of Faith]]"
 book: "[[Library/Philosophy/Two Types of Faith (Buber)/Two Types of Faith (Buber)|Two Types of Faith (Buber)]]"
 order: 1
 source_pdf: Library/Philosophy/Buber, Martin - Two Types of Faith (Macmillan, 1951).pdf
-page_range: Cover–6
+page_range: "3–6"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

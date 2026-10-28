@@ -20,12 +20,12 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[Sivadvaita Nirnaya - An Inquiry 01 - Part 1|Part 1]] (pp. 1–32)
+- [[Sivadvaita Nirnaya - An Inquiry 01 - Part 1|Part 1]] (pp. 5–32)
 - [[Sivadvaita Nirnaya - An Inquiry 02 - Part 2|Part 2]] (pp. 33–80)
 - [[Sivadvaita Nirnaya - An Inquiry 03 - Part 3|Part 3]] (pp. 9–48)
 - [[Sivadvaita Nirnaya - An Inquiry 04 - Part 4|Part 4]] (pp. 49–88)
 - [[Sivadvaita Nirnaya - An Inquiry 05 - Part 5|Part 5]] (pp. 89–32)
-- [[Sivadvaita Nirnaya - An Inquiry 06 - Part 6|Part 6]] (pp. 33–240)
+- [[Sivadvaita Nirnaya - An Inquiry 06 - Part 6|Part 6]] (pp. 33–69)
 - [[Sivadvaita Nirnaya - An Inquiry 07 - Part 7|Part 7]] (pp. 78–112)
 - [[Sivadvaita Nirnaya - An Inquiry 08 - Part 8|Part 8]] (pp. 113–152)
 - [[Sivadvaita Nirnaya - An Inquiry 09 - Part 9|Part 9]] (pp. 153–161)

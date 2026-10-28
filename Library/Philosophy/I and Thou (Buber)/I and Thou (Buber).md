@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[I and Thou 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. Cover–iv)
+- [[I and Thou 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. iii–iv)
 - [[I and Thou 02 - Translator's Preface to the Second Edition|Translator's Preface to the Second Edition]] (pp. v–xii)
 - [[I and Thou 03 - Table of Contents|Table of Contents]] (pp. xiii–1)
 - [[I and Thou 04 - Part One|Part One]] (pp. 2–34)

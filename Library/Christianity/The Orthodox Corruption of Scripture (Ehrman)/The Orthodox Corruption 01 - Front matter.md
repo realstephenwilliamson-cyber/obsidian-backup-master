@@ -4,7 +4,7 @@ work: "[[Ehrman - The Orthodox Corruption of Scripture]]"
 book: "[[Library/Christianity/The Orthodox Corruption of Scripture (Ehrman)/The Orthodox Corruption of Scripture (Ehrman)|The Orthodox Corruption of Scripture (Ehrman)]]"
 order: 1
 source_pdf: Library/Christianity/Ehrman - The Orthodox Corruption of Scripture (1996).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: fresh OCR with Tesseract 5 (eng); the PDF's own OCR layer splits words ('wh o', 'subscribe d')
 converted: 2026-10-07

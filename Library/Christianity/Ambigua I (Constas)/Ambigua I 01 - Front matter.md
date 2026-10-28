@@ -4,7 +4,7 @@ work: "[[Maximus the Confessor - Ambigua (Constas)]]"
 book: "[[Library/Christianity/Ambigua I (Constas)/Ambigua I (Constas)|Ambigua I (Constas)]]"
 order: 1
 source_pdf: "Library/Christianity/Maximus the Confessor - Ambigua I (Constas 2014).pdf"
-page_range: "cover–v"
+page_range: "iii–v"
 pdf_pages: "1–5"
 text_source: "a fresh OCR (Tesseract 5) of the page images: the Greek pages read with grc+eng, the English pages with eng, the Notes to the Translation with eng+grc; the Notes to the Text from the PDF's earlier OCR layer (ABBYY FineReader), which was set aside elsewhere because its Greek lacks breathings and most accents and its English splits many words"
 converted: 2026-10-12

@@ -4,7 +4,7 @@ work: "[[Urban - Tantra]]"
 book: "[[Library/Hinduism/Tantra - Sex, Secrecy, Politics, and Power in the Study (Urban)/Tantra - Sex, Secrecy, Politics, and Power in the Study (Urban)|Tantra - Sex, Secrecy, Politics, and Power in the Study (Urban)]]"
 order: 1
 source_pdf: Library/Hinduism/Urban - Tantra (2003).pdf
-page_range: A–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

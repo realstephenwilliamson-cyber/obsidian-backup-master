@@ -19,7 +19,7 @@ Converted from the PDF on 22 Oct 2026 (the PDF's earlier OCR text layer (a scan)
 
 ## Contents
 
-- [[The Paradoxical Ascent to God 01 - Front matter|Front matter (Front matter, Half Title Page, Title Page, Copyright Page, Dedication Page)]] (pp. Front Cover–vi)
+- [[The Paradoxical Ascent to God 01 - Front matter|Front matter (Front matter, Half Title Page, Title Page, Copyright Page, Dedication Page)]] (pp. i–vi)
 - [[The Paradoxical Ascent to God 02 - Table of Contents|Table of Contents]] (pp. vii–x)
 - [[The Paradoxical Ascent to God 03 - Preface|Preface]] (pp. xi–xx)
 - [[The Paradoxical Ascent to God 04 - Introduction|Introduction]] (pp. xxi–46)

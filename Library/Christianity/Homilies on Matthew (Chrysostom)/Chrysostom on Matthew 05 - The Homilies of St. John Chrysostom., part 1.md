@@ -294,7 +294,7 @@ Yet these high doctrines were both accepted and believed, and they flourish ever
 
 \[πολιτεαν, as in the latter part of the sentence. This term also is variously rendered by the translator, to 46 suit the context. But in this Homily there is always a reference to Plato’s Republic, when the word πολιτεα is used. Hence attention is called to the instances where it occurs.—R.\]
 
-[^47]: \[φιλοσοφεν. Literally “to philosophize what no one of them was at any time able even to,” etc. The negatives are repeated in the original for greater emphasis.—R.\] 6 \[πολιτεα.\] 48 \[ἐδδαξεν.\] 49 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. \[φιλοσοφαν=true wisdom.—R.\] 52 \[πολιτεα, in its proper case.\] 53 \[πολιτεα, in its proper case.\]
+[^47]: \[φιλοσοφεν. Literally “to philosophize what no one of them was at any time able even to,” etc. The negatives are repeated in the original for greater emphasis.—R.\] 6 \[πολιτεα.\]
 
 *[p. 23]* ^pg31
 
@@ -307,6 +307,8 @@ And very naturally, for they were demons that published these things; wherefore 
 And these things even to a laborer, and to a servant, and to a widow woman, and to a very child, and to him that appeareth to be exceedingly slow of understanding, are all plain to comprehend and easy to learn. For the lessons of the truth are like this; and the actual result bears witness thereto. All at least have learned what things they are to do, and not learned only, but been emulous also of them; and not in the cities alone nor in the midst of the market places, but also in the summits of the mountains.
 
 Yea, for there wilt thou see true wisdom<sup>52</sup>abounding, and choirs of angels shining forth in a human body, and the commonwealth<sup>53</sup>of Heaven manifested here on earth. For a commonwealth<sup>54</sup>did these fishermen too write for us, not with commands that it should be embraced from childhood, like those others, nor making it a law that the virtuous man must be so many years old, but addressing their discourse generally to every age. For those lessons are children’s toys, but these are the truth of things.
+
+48 \[ἐδδαξεν.\] 49 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. \[φιλοσοφαν=true wisdom.—R.\] 52 \[πολιτεα, in its proper case.\] 53 \[πολιτεα, in its proper case.\]
 
 *[p. 24]* ^pg32
 

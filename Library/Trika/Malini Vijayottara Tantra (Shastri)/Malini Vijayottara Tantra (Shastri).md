@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026; text read again on 15 Oct 2026 (fresh OCR 
 
 ## Contents
 
-- [[Malini Vijayottara Tantra 01 - Part 1|Part 1]] (pp. 1–6; 1–28)
+- [[Malini Vijayottara Tantra 01 - Part 1|Part 1]] (pp. 1–28)
 - [[Malini Vijayottara Tantra 02 - Part 2|Part 2]] (pp. 29–68)
 - [[Malini Vijayottara Tantra 03 - Part 3|Part 3]] (pp. 69–99; 2–8)
 - [[Malini Vijayottara Tantra 04 - Part 4|Part 4]] (pp. 9–48)

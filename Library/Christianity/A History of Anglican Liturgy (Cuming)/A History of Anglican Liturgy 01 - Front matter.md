@@ -4,7 +4,7 @@ work: "[[Cuming - A History of Anglican Liturgy]]"
 book: "[[Library/Christianity/A History of Anglican Liturgy (Cuming)/A History of Anglican Liturgy (Cuming)|A History of Anglican Liturgy (Cuming)]]"
 order: 1
 source_pdf: Library/Christianity/G. J. Cuming (auth.) - A History of Anglican Liturgy-Palgrave Macmillan UK (1982).pdf
-page_range: C1–xvi
+page_range: "i–xvi"
 pdf_pages: 1–15
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

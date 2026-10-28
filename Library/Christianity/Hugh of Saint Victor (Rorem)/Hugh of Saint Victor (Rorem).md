@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Hugh of Saint Victor 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[Hugh of Saint Victor 01 - Front matter|Front matter]] (pp. i–iv)
 - [[Hugh of Saint Victor 02 - Foreword|Foreword]] (pp. v–x)
 - [[Hugh of Saint Victor 03 - Contents|Contents]] (pp. xi–xiv)
 - [[Hugh of Saint Victor 04 - Part I Foundations|Part I: Foundations]] (pp. 1–56)

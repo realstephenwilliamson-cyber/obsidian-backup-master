@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Philosophy of Sadhana 01 - Part 1|Part 1]] (pp. COVER–22)
+- [[The Philosophy of Sadhana 01 - Part 1|Part 1]] (pp. IV–22)
 - [[The Philosophy of Sadhana 02 - Part 2|Part 2]] (pp. 23–62)
 - [[The Philosophy of Sadhana 03 - Part 3|Part 3]] (pp. 63–102)
 - [[The Philosophy of Sadhana 04 - Part 4|Part 4]] (pp. 103–143)

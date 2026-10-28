@@ -4,7 +4,7 @@ work: "[[Dyczkowski (tr.) - Tantraloka chapters 1 and 3 (drafts with Sanskrit)]]
 book: "[[Library/Trika/Tantraloka, chapter 1 (Dyczkowski draft)/Tantraloka, chapter 1 (Dyczkowski draft)|Tantraloka, chapter 1 (Dyczkowski draft)]]"
 order: 2
 source_pdf: Library/Trika/Tantraloka-chapter-1.pdf
-page_range: 41–71
+page_range: "61–62"
 pdf_pages: 41–71
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -740,7 +740,7 @@ The Enunciation of the Various Topics dealt within the Light of the Tantras
 विज्ञानभिद्गतोपायः परोपायस्तृतीयकः ॥
 शाक्तोपायो नरोपायः कालोपायोऽथ सप्तमः । 
 
-*[p. 19]* ^pg61
+*[p. 61]* ^pg61
 
 चक्रोदयोऽथ देशाध्वा तत्त्वाध्वा तत्त्वभेदनम् ॥
 कलाद्यध्वाध्वोपयोगः शक्तिपाततिरोहिती ।
@@ -843,7 +843,7 @@ The Brief Initiation.
 
 The Initiation of the Immediate Exit (from the Body). 
 
-*[p. 20]* ^pg62
+*[p. 62]* ^pg62
 
 The Initiation of the Balance. 
 

@@ -4,7 +4,7 @@ work: "[[Negarestani - Cyclonopedia]]"
 book: "[[Library/Philosophy/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)|Cyclonopedia - Complicity with Anonymous Materials (Negarestani)]]"
 order: 3
 source_pdf: Library/Philosophy/Negarestani - Cyclonopedia, Complicity with Anonymous Materials (2008).pdf
-page_range: 81–120
+page_range: ""
 pdf_pages: 81–120
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

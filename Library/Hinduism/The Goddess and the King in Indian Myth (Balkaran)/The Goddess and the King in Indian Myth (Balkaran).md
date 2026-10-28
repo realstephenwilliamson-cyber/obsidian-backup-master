@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Goddess and the King 01 - Front matter|Front matter (Cover, Half title, Title page, Copyright page, Table of contents, List of illust)]] (pp. Cover–xii)
+- [[The Goddess and the King 01 - Front matter|Front matter (Cover, Half title, Title page, Copyright page, Table of contents, List of illust)]] (pp. i–xii)
 - [[The Goddess and the King 02 - Introduction framing ascetics, framing kings|Introduction: framing ascetics, framing kings]] (pp. 1–5)
 - [[The Goddess and the King 03 - 1 Framing the framing focusing the study of the Devi Mahatmya|1 Framing the framing: focusing the study of the Devi Mahatmya]] (pp. 6–33)
 - [[The Goddess and the King 04 - 2 Finding the forest hermit ascetic ideology in the Devi Mahatmya|2 Finding the forest hermit: ascetic ideology in the Devi Mahatmya]] (pp. 34–59)

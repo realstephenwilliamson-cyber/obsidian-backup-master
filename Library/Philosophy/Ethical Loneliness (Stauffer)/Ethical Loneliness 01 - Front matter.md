@@ -4,7 +4,7 @@ work: "[[Stauffer - Ethical Loneliness - The Injustice of Not Being Heard]]"
 book: "[[Library/Philosophy/Ethical Loneliness (Stauffer)/Ethical Loneliness (Stauffer)|Ethical Loneliness (Stauffer)]]"
 order: 1
 source_pdf: Library/Philosophy/Ethical-loneliness-the-injustice-of-not-being-heard.pdf
-page_range: Front Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

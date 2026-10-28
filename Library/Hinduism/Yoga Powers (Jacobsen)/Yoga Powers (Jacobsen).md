@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Yoga Powers 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[Yoga Powers 01 - Front matter|Front matter]] (pp. i–iv)
 - [[Yoga Powers 02 - Contents|Contents]] (pp. v–vi)
 - [[Yoga Powers 03 - List of Figures|List of Figures]] (pp. vii–viii)
 - [[Yoga Powers 04 - A Note on Transliteration|A Note on Transliteration]] (pp. ix–xii)

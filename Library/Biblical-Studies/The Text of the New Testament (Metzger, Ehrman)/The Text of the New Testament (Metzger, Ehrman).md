@@ -21,7 +21,7 @@ Converted from the PDF on 8 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[The Text of the New Testament 01 - Cover|Cover]] (pp. Cover)
+- [[The Text of the New Testament 01 - Cover|Cover]] (PDF 1)
 - [[The Text of the New Testament 02 - Front Matter|Front Matter]] (pp. i–xviii)
 - [[The Text of the New Testament 03 - Part One The Materials for the Textual Criticism of the New|Part One: The Materials for the Textual Criticism of the New Testament]] (pp. 1–2)
 - [[The Text of the New Testament 04 - Chapter 1. The Making of Ancient Books|Chapter 1. The Making of Ancient Books]] (pp. 3–51)

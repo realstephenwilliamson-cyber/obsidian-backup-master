@@ -4,7 +4,7 @@ work: "[[Masson, Patwardhan - Santarasa and Abhinavagupta's Philosophy of Aesthe
 book: "[[Library/Trika/Santarasa and Abhinavagupta's Philosophy of Aesthetics (Masson)/Santarasa and Abhinavagupta's Philosophy of Aesthetics (Masson)|Santarasa and Abhinavagupta's Philosophy of Aesthetics (Masson)]]"
 order: 1
 source_pdf: Library/Trika/Masson, Patwardhan - Santarasa and Abhinavagupta's Philosophy of Aesthetics (1969).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–8
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

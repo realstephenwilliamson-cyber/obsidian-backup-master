@@ -1,0 +1,18 @@
+PLACING FOOTNOTES ON THEIR PAGE (reading task; change nothing but your own output file)
+
+The text is from a converted book (Schaff's Nicene and Post-Nicene Fathers, CCEL edition). Each case gives the FOOTNOTE TEXT that the
+conversion put at the foot of one page (page A), as raw Markdown (links look like [[Target|label]]; numbers at the start of footnotes
+are footnote numbers; a bare 3-digit number may be the 1888 print-page number). The conversion sometimes put some of the NEXT page's
+footnotes (page B) at the end of page A's text, and sometimes jumbled the order (a Greek word before its own number, and the like).
+
+You get two images: the lower part of page A and of page B. Compare the text with what each page prints, and decide:
+- "move": the text from a certain point to its very end is printed on page B (not on A), and everything before that point is printed on A.
+  Give that point as "start_quote": the first 4 to 10 words of the part that belongs to B, copied EXACTLY from the raw text (same
+  characters, brackets, asterisks and link markup), so that a program can find it. It must occur once in the case's text.
+- "mixed": some of the text is printed on B but it is not one block at the end (pieces of A and B alternate). Say which in "note".
+- "none": all of the text is printed on page A.
+- "unclear": you cannot tell (say why).
+Output one JSON object per case, as JSON Lines, at the path given in your task:
+{"case": "h00", "decision": "move", "start_quote": "...", "note": "at most 25 words"}
+Never write the divine name (the four-letter name of God) in any form; write "the divine name". Open the images with the Read tool.
+Check that every case has one line and each parses as JSON. Reply with one short line of counts.

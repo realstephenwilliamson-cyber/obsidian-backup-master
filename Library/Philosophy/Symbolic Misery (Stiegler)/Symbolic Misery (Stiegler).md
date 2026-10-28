@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Symbolic Misery 01 - Front matter|Front matter]] (pp. Front Cover–iii)
+- [[Symbolic Misery 01 - Front matter|Front matter]] (pp. i–iii)
 - [[Symbolic Misery 02 - Contents|Contents]] (pp. iv–vi)
 - [[Symbolic Misery 03 - Foreword|Foreword]] (pp. vii–viii)
 - [[Symbolic Misery 04 - I. Of Symbolic Misery, the Control of Affects, and the Shame that Follows|I. Of Symbolic Misery, the Control of Affects, and the Shame that Follows]] (pp. 1–13)
@@ -26,4 +26,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Symbolic Misery 07 - IV. Tiresias and the War of Time On a Film by Bertrand Bonello|IV. Tiresias and the War of Time: On a Film by Bertrand Bonello]] (pp. 81–93)
 - [[Symbolic Misery 08 - Afterword|Afterword]] (pp. 94–98)
 - [[Symbolic Misery 09 - Notes|Notes]] (pp. 99–113)
-- [[Symbolic Misery 10 - Index|Index]] (pp. 114–Back Cover)
+- [[Symbolic Misery 10 - Index|Index]] (pp. 114–118)

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Taming the Leviathan 01 - Front matter|Front matter (Cover)]] (pp. Cover)
+- [[Taming the Leviathan 01 - Front matter|Front matter (Cover)]] (PDF 1)
 - [[Taming the Leviathan 02 - Frontmatter|Frontmatter]] (pp. i–viii)
 - [[Taming the Leviathan 03 - Contents|Contents]] (pp. ix)
 - [[Taming the Leviathan 04 - Acknowledgements|Acknowledgements]] (pp. x–xii)

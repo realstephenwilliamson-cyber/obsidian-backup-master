@@ -114,7 +114,7 @@ Such are many men now also, decking themselves indeed outwardly, but full of ini
 
 3\. But that “they” should be such persons is not “so” dreadful a thing (although it be dreadful), but that “you,” that have been counted worthy to become temples of God, should of a sudden have become sepulchers, having as much ill savor, this is extreme wretchedness. He in whom Christ dwells, and the Holy Spirit hath worked, and such great mysteries, that this man should be a sepulchre, what wretchedness is this? What mournings and lamentations doth this call for, when the members of Christ have become a tomb of uncleanness? Consider how thou wast born, of what things thou hast been counted worthy, what manner of garment
 
-2696 Matt. xxiii. 27. 425 \[πολμιον ντα αυτ κα χθρν.\] 2698
+2696 Matt. xxiii. 27. 425
 
 
 *[p. 770]* ^pg778
@@ -134,6 +134,8 @@ Since then both in this respect it is more grievous, and from the sick not being
 But first listen to what thou sayest in the Psalm, “Let my prayer be set forth in Thy sight as incense.”<sup>2699</sup> When then not incense, but a stinking smoke arises from thee, and from thy deeds, what punishment dost thou not deserve to undergo?
 
 What then is the stinking smoke? Many come in gazing about at the beauty of women; others curious about the blooming youth of boys. After this, dost thou not marvel, how bolts are not launched, and all things are not plucked up from their foundations? For worthy
+
+\[πολμιον ντα αυτ κα χθρν.\] 2698
 
 *[p. 771]* ^pg779
 
@@ -201,7 +203,7 @@ And this is manifest too by what comes after; He adds at least, “Ye serpents, 
 
 Then, because He was searching their temper of mind, which is to the more part obscure, He doth, from those things also which they were about to perpetrate, which would be manifest to all, establish His words. For, because He had said, “Wherefore ye be witnesses unto yourselves that ye are the children of them which killed the prophets,” making it evident, that of their affinity in wickedness He is speaking, and that it was a pretense to say,
 
-2706 \[There are two variations in the text of verse 29: the omission of “Scribes and Pharisees, hypocrites!” and the substitution of “their” for “of the righteous.”—R.\] 2707 [[Luke 11#^11-47|Luke xi. 47]], [[Luke 11#^11-48|48]]. 428 2709 [[Matthew 23#^23-32|Matt. xxiii. 32]]. καταφορικτρ .
+2706 \[There are two variations in the text of verse 29: the omission of “Scribes and Pharisees, hypocrites!” and the substitution of “their” for “of the righteous.”—R.\] 2707 [[Luke 11#^11-47|Luke xi. 47]], [[Luke 11#^11-48|48]].
 
 
 *[p. 775]* ^pg783
@@ -217,6 +219,8 @@ And besides what hath been said, He shows them to be also exceedingly vainglorio
 Ye serpents, ye generation of vipers, that is, wicked sons of wicked men, and more wicked than those who begat them. For He showeth that they are committing greater crimes, both by their committing them after those others, and by their doing much more grievous things than they, and this, while positively affirming that they never would have fallen into the same. For they add that which is both the end and the crown of their evil deeds. For the others slew them that came to the vineyard, but these, both the son, and them that were bidding them to the wedding.
 
 But these things He saith, to separate them off from the affinity to Abraham, and to show that they had no advantage from thence, unless they followed his works; wherefore also He adds, “How can ye flee<sup>2713</sup>from the damnation of hell,” when following them that have committed such acts?
+
+428 2709 [[Matthew 23#^23-32|Matt. xxiii. 32]]. καταφορικτρ .
 
 2710 2711 [[Matthew 23#^23-33|Matt. xxiii. 33]]. \[R.V., “judgment of hell . Greek, Gehenna.”\] 2712 [[Matthew 23#^23-34|Matt. xxiii. 34]]. \[The reading “will send” is peculiar; in the next citation of the passage “send” occurs, as in our New Testament authorities.—R.\] \[“escape,” as before, the verb being the same, though the tense is changed; see note 6, p. 445.—R.\]
 
@@ -313,7 +317,7 @@ Seest thou what manner of things he enjoins? Wilt thou call in also another phys
 
 2732 [[Hebrews 10#^10-37|Heb. x. 37]]. 2733 [[Philippians 04#^4-5|Phil. iv. 5]], [[Philippians 04#^4-6|6]]. 2734 [[1 Corinthians 07#^7-31|1 Cor. vii. 31]]. μετοχετεει . 2735 2736 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. 2737 [[1 Timothy 05#^5-6|1 Tim. v. 6]]. 2738 [[1 Corinthians 07#^7-30|1 Cor. vii. 30]], [[1 Corinthians 07#^7-31|31]]. 2739 *i.e*., by Matthew.
 
-2740 [[Matthew 06#^6-24|Matt. vi. 24]]. 432 2742 [[Matthew 19#^19-16|Matt. xix. 16]]. 2743 [[Luke 16#^16-24|Luke xvi. 24–26]]. 2744 [[Matthew 06#^6-26|Matt. vi. 26]]. 2745 [[Luke 18#^18-27|Luke xviii. 27]].
+2740 [[Matthew 06#^6-24|Matt. vi. 24]].
 
 
 *[p. 782]* ^pg790
@@ -327,6 +331,8 @@ How then is it possible for the rich man to be saved. By possessing his goods in
 He shows thee together with these this selfsame publican also, that was grievously oppressed by the fever of covetousness, quickly set free from it. For what more sordid than a publican? Nevertheless, the man became indifferent to wealth from obeying the laws of the physician. For indeed He hath for His disciples such persons as these, that were sick of the same diseases as we are, and have recovered their health quickly. And He shows us each, in order we may not despair. See at least this publican. Mark again another, a chief of the publicans, who promised four fold indeed for all that he had extorted, and the half of all that he possessed, that he might receive Jesus.
 
 But art thou on fire with exceeding desire for riches. Have the possessions of all men instead of thine own. For indeed I give thee, He saith, more than thou seekest, in opening to thee the houses of the wealthy throughout the world. “For whosoever hath forsaken father or mother, or lands, or house, shall receive an hundredfold.”<sup>2746</sup> Thus wilt thou not enjoy more abundant possessions only, but thou wilt even remove this grievous thirst altogether, and wilt endure all things easily, so far from desiring more, not seeking often even
+
+432 2742 [[Matthew 19#^19-16|Matt. xix. 16]]. 2743 [[Luke 16#^16-24|Luke xvi. 24–26]]. 2744 [[Matthew 06#^6-26|Matt. vi. 26]]. 2745 [[Luke 18#^18-27|Luke xviii. 27]].
 
 *[p. 783]* ^pg791
 
@@ -377,7 +383,7 @@ Therefore He saith, they shall come not by themselves or at once, but with signs
 
 Then lest on hearing of the showers of evils, they should suppose the gospel to be broken through, He added, “See,<sup>2753</sup>be not troubled, for all things must come to pass,” *i.e.* which I foretold, and the approach of the temptations will set aside none of the things which I have said; but there shall indeed be tumults and confusion, but nothing shall shake my predictions.
 
-2752 [[Matthew 24#^24-4|Matt. xxiv. 4–6]]. \[The Oxford translator renders “Take heed,” but ὀρτε is rendered “See” above; so A.V. and R.V.—R.\] 434 2754 \[R.V., “lead you astray.”\] 2755 \[R.V., “lead you astray.”\] 2756 [[Matthew 24#^24-7|Matt. xxiv. 7]]. 2757 [[Matthew 24#^24-8|Matt. xxiv. 8]]. \[R.V., “travail,” birth pangs.—R.\] 2758 [[Matthew 24#^24-9|Matt. xxiv. 9]]. \[R.V., “unto tribulation.”\] [[Matthew 24#^24-9|Matt. xxiv. 9–13]]. \[In verse 9, “all *men*” is substituted for “all the nations” (τν θνν omitted); in verse 2759 11“many false Christs and” occurs (taken from verse 24). The R.V. represents, in other details, the Greek text of the Homily. In verse 12, “the many” is the necessary rendering.—R.\]
+2752 [[Matthew 24#^24-4|Matt. xxiv. 4–6]]. \[The Oxford translator renders “Take heed,” but ὀρτε is rendered “See” above; so A.V. and R.V.—R.\]
 
 
 *[p. 786]* ^pg794
@@ -390,13 +396,15 @@ Afterwards, when He hath roused them to listen about these things (for, “take 
 
 2\. But by “wars and rumors of wars,” He meaneth, what I before said, the troubles coming upon them. After this, because, as I have already said, they supposed after that war the end would come, see how He warns them, saying, “But the end is not yet. For nation,” He saith, “shall rise against nation, and kingdom against kingdom.”<sup>2756</sup> Of the preludes to the ills of the Jews doth He speak. “All these are the beginning of sorrows,”<sup>2757</sup>that is, of those that befall them. “Then shall they deliver you up to be afflicted, and shall kill you.”<sup>2758</sup> In good season did He introduce their ills, having a consolation from the common miseries; and not in this way only, but also by His adding, that it is “for my name’s sake. For ye shall be hated,” He saith, “of all men for my name’s sake. Then shall many be offended, and shall betray one another, and many false Christs and false prophets shall arise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold; but he that shall endure unto the end, the same shall be saved.”<sup>2759</sup>
 
+434 2754 \[R.V., “lead you astray.”\] 2755 \[R.V., “lead you astray.”\] 2756 [[Matthew 24#^24-7|Matt. xxiv. 7]]. 2757 [[Matthew 24#^24-8|Matt. xxiv. 8]]. \[R.V., “travail,” birth pangs.—R.\] 2758 [[Matthew 24#^24-9|Matt. xxiv. 9]]. \[R.V., “unto tribulation.”\] [[Matthew 24#^24-9|Matt. xxiv. 9–13]]. \[In verse 9, “all *men*” is substituted for “all the nations” (τν θνν omitted); in verse 2759 11“many false Christs and” occurs (taken from verse 24). The R.V. represents, in other details, the Greek text of the Homily. In verse 12, “the many” is the necessary rendering.—R.\]
+
 *[p. 787]* ^pg795
 
 This is the greater evil, when the war is intestine too, for there were many false brethren. Seest thou the war to be threefold? from the deceivers, from the enemies, from the false brethren. See Paul too lamenting over the same things, and saying, “Without were fightings, within were fears;”<sup>2760</sup>and, “perils among false brethren,”<sup>2761</sup>and again, “For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.”<sup>2762</sup> After this again, what is more grievous than all, they shall not have so much as the consolation from love. Then indicating, that these things will in no degree harm the noble and the firm, He saith, Fear not, neither be troubled. For if ye show forth the patience that becomes you, the dangers will not prevail over you. And it is a plain proof of this, that the word shall surely be preached everywhere in the world, so much shall ye be above the things that alarm you. For, that they may not say, how then shall we live? He said more, Ye shall both live and preach everywhere. Therefore He added moreover, “And this gospel shall be preached in the whole world for a witness to all nations, and then shall the end come,”<sup>2763</sup>of the downfall of Jerusalem.
 
 For in proof that He meant this, and that before the taking of Jerusalem the gospel was preached, hear what Paul saith, “Their sound went into all the earth;”<sup>2764</sup>and again, “The gospel which was preached to every creature which is under Heaven.”<sup>2765</sup> And seest thou him running from Jerusalem unto Spain? And if one took so large a portion, consider what the rest also wrought. For writing to others also, Paul again saith concerning the gospel, that “it is bringing forth fruit, and growing up in every creature which is under Heaven.”<sup>2766</sup> But what meaneth, “For a witness to all nations?” Forasmuch as though it was everywhere preached, yet it was not everywhere believed. It was for a witness, He saith, to them that were disbelieving, that is, for conviction, for accusation, for a testimony; for they that believed will bear witness against them that believed not, and will condemn them. And for this cause, after the gospel is preached in every part of the world, Jerusalem is destroyed, that they may not have so much as a shadow of an excuse for their perverseness. For they that saw His power shine throughout every place, and in an instant take the world captive, what excuse could they then have for continuing in the same perverseness? For in proof that it was everywhere preached at that time, hear what Paul saith, “of the gospel which was preached to every creature which is under Heaven.”<sup>2767</sup>
 
-2760 [[2 Corinthians 07#^7-5|2 Cor. vii. 5]]. 2761 [[2 Corinthians 11#^11-26|2 Cor. xi. 26]]. 2762 [[2 Corinthians 11#^11-13|2 Cor. xi. 13]]. 2763 [[Matthew 24#^24-14|Matt. xxiv. 14]]. \[“Of the kingdom” omitted.\] 2764 [[Romans 10#^10-18|Rom. x. 18]]. 2765 [[Colossians 01#^1-23|Col. i. 23]]. 2766 [[Colossians 01#^1-6|Col. i. 6]]. \[Combined with [[Colossians 01#^1-23|Col. i. 23]].\] [[Colossians 01#^1-23|Col. i. 23]]. 435 [[Matthew 24#^24-15|Matt. xxiv. 15]]. \[Instead of ον the particle δ (as in Mark and Luke) is found here.\] 2768
+2760 [[2 Corinthians 07#^7-5|2 Cor. vii. 5]]. 2761 [[2 Corinthians 11#^11-26|2 Cor. xi. 26]]. 2762 [[2 Corinthians 11#^11-13|2 Cor. xi. 13]]. 2763 [[Matthew 24#^24-14|Matt. xxiv. 14]]. \[“Of the kingdom” omitted.\] 2764 [[Romans 10#^10-18|Rom. x. 18]]. 2765 [[Colossians 01#^1-23|Col. i. 23]]. 2766 [[Colossians 01#^1-6|Col. i. 6]]. \[Combined with [[Colossians 01#^1-23|Col. i. 23]].\] [[Colossians 01#^1-23|Col. i. 23]].
 
 
 *[p. 788]* ^pg796
@@ -410,6 +418,8 @@ For He brought in also a prophecy, to confirm their desolation, saying, “But w
 Thus were all things, precipices, and reefs, and rocks, the things in the cities, the things in the fields, the things in the houses, and every single person was at war with them; generals and rulers, and private persons, and all nations, and all people, and a turmoil which cannot be set forth by words. For the Jewish race was exceedingly detestable to the government of the Romans, as having occasioned them endless trouble; and not even from this did the preaching of the word take hurt; but the city was stormed and set on fire, and involved its inhabitants in countless evils; but the apostles that came from thence, introducing new laws, prevailed even over the Romans.
 
 O strange and wonderful facts! Countless myriads of Jews did the Romans then subdue, and they did not prevail over twelve men fighting against them naked and unarmed. What language can set forth this miracle? For they that teach need to have these two things, to be worthy of credit, and to be beloved by them whom they are instructing; and together with
+
+435 [[Matthew 24#^24-15|Matt. xxiv. 15]]. \[Instead of ον the particle δ (as in Mark and Luke) is found here.\] 2768
 
 *[p. 789]* ^pg797
 
@@ -461,7 +471,7 @@ For what more worthless than that rich man, who giveth not to Lazarus so much as
 
 And the proof of this, if thou wilt, I will show thee, not from the things to come only, but also from the present life. For the blessed David, when he sinned that sin of Bathsheba, and was convicted by the prophet, for this cause most of all was he more severely reproved, that even when he had enjoyed such security, he was like this. Hear at least God upbraiding him with this especially. “Did not I anoint thee for a king, and delivered thee from the hand of Saul, and give thee all that pertained to thy master, and all the house of Israel and Judah, and if it had been little for thee, I would have added thus and thus; and wherefore hast thou done that which was evil in my sight?”<sup>2772</sup> For not for all sins are there the same punishments, but many and diverse, according to the times, according to the persons, according to their rank, according to their understanding, according to other things besides. And that what I say may be more clear, let one sin be set forth, fornication; and mark how many different punishments I find not from myself, but from the divine Scriptures. Did any one commit fornication before the law, he is differently punished; and this Paul showeth, “For as many as have sinned without law, shall also perish without law.”<sup>2773</sup> Did any one commit fornication after the law? He shall suffer more grievous things. “For as many as have sinned in the law shall be judged by the law.”<sup>2774</sup> Did any one commit fornication being a priest, he receives from his dignity a very great addition to his punishment. So for this cause, whereas the other women were slain for fornication, the daughters of the priests were burnt; the lawgiver showing the more amply, how great punishment await the priest if he commits this sin. For if on the daughter he inflicts a greater punishment, because of her being a priest’s daughter, much more on the man himself who bears the priest’s office. Was fornication committed with any violence? she is even freed from punishment. Did one play the harlot being rich, and another being poor? Here again also is a difference. And this is evident from what we have said before concerning David. Was any one guilty of fornication after Christ’s coming? Should he depart uninitiated, he will suffer a punishment more sore than all those. Was any guilty of fornication after the laver? in this case not even a consolation is left for the sin any more. And this selfsame thing Paul declared when he said, “He that despised Moses’ law dieth without mercy, under two or three witnesses: of how much sorer punishment suppose ye shall he be counted worthy, who hath trodden underfoot the Son of God, and hath counted the blood of the covenant an unholy thing, and hath done despite to the grace of the Spirit?<sup>2775</sup> Hath any been guilty of fornication, bearing the priest’s office now? this above all is the crown of the evil deeds.
 
-2772 2 Sam. xii. 7–9. 2773 [[Romans 02#^2-12|Rom. ii. 12]]. 2774 [[Romans 02#^2-12|Rom. ii. 12]]. \[The article does not occur, either here or in the text of the New Testament. R.V., “under law” and “by law.”—R.\] [[Hebrews 10#^10-28|Heb. x. 28]], [[Hebrews 10#^10-29|29]]. \[The last phrase is altered, as indicated in the above rendering.—R.\] 438 2776 [[Luke 12#^12-47|Luke xii. 47]]. 2777 [[Matthew 21#^21-32|Matt. xxi. 32]]. 2778 [[Luke 13#^13-34|Luke xiii. 34]]. 2779 [[Matthew 23#^23-35|Matt. xxiii. 35]].
+2772 2 Sam. xii. 7–9. 2773 [[Romans 02#^2-12|Rom. ii. 12]]. 2774 [[Romans 02#^2-12|Rom. ii. 12]]. \[The article does not occur, either here or in the text of the New Testament. R.V., “under law” and “by law.”—R.\] [[Hebrews 10#^10-28|Heb. x. 28]], [[Hebrews 10#^10-29|29]]. \[The last phrase is altered, as indicated in the above rendering.—R.\] 438
 
 
 *[p. 793]* ^pg801
@@ -481,6 +491,8 @@ And when any one surpasses in negligence those who are far inferior; wherewith i
 And when one is not sobered even by the examples of others, “She saw her sister,” it is said, “and justified her.”<sup>2784</sup>
 
 And when one has had the advantage of more abundant care; “For if,” He saith, “these mighty works had been done in Tyre and Sidon, they would have repented long ago; but it shall be more tolerable for Tyre and Sidon than for that city.”<sup>2785</sup>
+
+2776 [[Luke 12#^12-47|Luke xii. 47]]. 2777 [[Matthew 21#^21-32|Matt. xxi. 32]]. 2778 [[Luke 13#^13-34|Luke xiii. 34]]. 2779 [[Matthew 23#^23-35|Matt. xxiii. 35]].
 
 2780 Prov. vi. 30. \[Most editors supply the remainder of the verse.—R.\] 2781 Ezek. xvi. 20, 21. LXX. 2782 1 Sam. ii. 25. \[LXX. The Hebrew differs: for the clause “they shall pray for him,” the R.V. has, “God shall judge him.”—R.\] 2783 Ezek. v. 7. 2784 Ezek. xvi. 51. \[First half freely cited.\]
 
@@ -580,7 +592,7 @@ But how doth He come? The very creation being then transfigured, for “the sun 
 
 2798 [[2 Thessalonians 02#^2-9|2 Thess. ii. 9]], [[2 Thessalonians 02#^2-10|10]]. 2799 [[Matthew 24#^24-27|Matt. xxiv. 27]], [[Matthew 24#^24-28|28]].
 
-2800 [[Matthew 24#^24-29|Matt. xxiv. 29]]. 2801 Job xxxviii. 7, LXX. \[The LXX. is accurately cited. At this point there is a great variation in the readings of the mss. of the Homilies, which may be due to the variation from the Hebrew.—R.\] 442 2802 [[Matthew 24#^24-30|Matt. xxiv. 30]]. μετ λαμπρο το σχματο. 2803 2804 [[Matthew 24#^24-30|Matt. xxiv. 30]]. 2805 \[So Tischendorf, and R.V. margin.—R.\]
+2800 [[Matthew 24#^24-29|Matt. xxiv. 29]]. 2801 Job xxxviii. 7, LXX. \[The LXX. is accurately cited. At this point there is a great variation in the readings of the mss. of the Homilies, which may be due to the variation from the Hebrew.—R.\]
 
 
 *[p. 800]* ^pg808
@@ -596,6 +608,8 @@ And forasmuch as He had made mention of the cross, He added, “They shall see t
 For think not, He meaneth, because thou hearest of the cross, that it is again anything mournful, for He shall come with power and great glory. But He bringeth it, that their sin may be self-condemned, as if any one who had been struck by a stone, were to show the stone itself, or his garments stained with blood. And He cometh in a cloud as He was taken up, and the tribes seeing these things mourn. Not however that the terrors shall with them proceed no further than mournings; but the mourning shall be, that they may bring forth their sentence from within, and condemn themselves.
 
 And then again, “He will send His angels with a great trumpet,<sup>2805</sup>and they shall gather the elect from the four winds, from one end of Heaven to the other.”<sup>2806</sup>
+
+442 2802 [[Matthew 24#^24-30|Matt. xxiv. 30]]. μετ λαμπρο το σχματο. 2803 2804 [[Matthew 24#^24-30|Matt. xxiv. 30]]. 2805 \[So Tischendorf, and R.V. margin.—R.\]
 
 *[p. 801]* ^pg809
 

@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time 3 - Cinematic Time and the Question of Malaise (Stiegler)/Technics and Time 3 - Cinematic Time and the Question of Malaise (Stiegler)|Technics and Time 3 - Cinematic Time and the Question of Malaise (Stiegler)]]"
 order: 4
 source_pdf: Library/Philosophy/(Technics and Time 3) Cinematic Time and the Question of Malaise (2011).pdf
-page_range: 67–i
+page_range: "67–103"
 pdf_pages: 80–118
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Ricoeur - Lectures on Ideology and Utopia]]"
 book: "[[Library/Philosophy/Lectures on Ideology and Utopia (Ricoeur)/Lectures on Ideology and Utopia (Ricoeur)|Lectures on Ideology and Utopia (Ricoeur)]]"
 order: 1
 source_pdf: Library/Philosophy/Lectures on Ideology and Utopia - Paul Ricoeur.pdf
-page_range: Cover–viii
+page_range: "iv–viii"
 pdf_pages: 1–6
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

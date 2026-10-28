@@ -594,7 +594,7 @@ dependently of Abh.’s interpretation.
 
 the others (cf. [[Tantraloka 02.002|TĀ II.2-3]] and Jayaratha’s commentary).
 
-*[PDF 40]* ^pg40
+*[p. xxxviii]* ^pg40
 
 solved in the Bhairavic fire of consciousness to him who has entered this
 

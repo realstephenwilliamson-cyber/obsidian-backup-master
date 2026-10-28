@@ -925,7 +925,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^39]: **Whoever arouses himself to purity is assisted** See BT *Shabbat* [[Shabbat 104#104a|104a]]: “Resh Lakish said, ‘… If one comes to defile himself, he is provided an opening; if one comes to purify himself, he is assisted.’”
 
-    Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-53b|1:53b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]], [[Zohar 1.08 - Parashat Noah#^z1-76b|76b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]].
+    Cf. *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-53b|1:53b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-76b|76b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]].
 
 [^40]: **An entity above is not aroused until…** A general principle of Kabbalah. See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35a|1:35a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-82b|82b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|86b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|88a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|164a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-244a|244a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31b|2:31b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-265a|265a]]; [[Zohar 8.04 - Parashat Emor#^z3-92a|3:92a]], nob.
 
@@ -1037,7 +1037,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^81]: **This verse has been established** In the rabbinic discussion of the primordial light of Creation. See BT *Ḥagigah* [[Chagigah 12#12a|12a]]: “Rabbi El’azar said, ‘With the light created by the blessed Holy One on the first day, one could gaze and see from one end of the universe to the other. When the blessed Holy One foresaw the corrupt deeds of the generation of the Flood and the generation of the Dispersion \[the generation of the Tower of Babel\], He immediately hid it from them, as is written: *The wicked are denied their light* \[or: *The light of the wicked is withheld*\]. For whom did He hide it? For the righteous in the time to come.’”
 
-    See *Bereshit Rabbah* 3:6; 41:3; *Shemot Rabbah* 35:1; *Tanḥuma, Shemini* 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|1:31b]]-32a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b-46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]]; [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]].
+    See *Bereshit Rabbah* 3:6; 41:3; *Shemot Rabbah* 35:1; *Tanḥuma, Shemini* 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|1:31b]]-32a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b-46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]]; [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.06 - Parashat Pequdei#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]].
 
 [^82]: **Nimrod** King of Babylonia and Assyria. See [[Torah 02 - Noach#^10-8|Genesis 10:8-12]]; above, note 34.
 
@@ -2043,7 +2043,7 @@ Rabbi Yose said, “*Then your light will burst through like the dawn*… ([[Isa
 
 [^501]: **If one comes to purify himself…** See BT *Shabbat* [[Shabbat 104#104a|104a]]: “Resh Lakish said, ‘…If one comes to defile himself, he is provided an opening; if one comes to purify himself, he is assisted.’”
 
-    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|1:54a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|56b]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]], [[Zohar 1.08 - Parashat Noah#^z1-76b|76b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]].
+    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|1:54a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|56b]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-76b|76b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]].
 
 [^502]: **after Abraham pursued these kings…** See [[Torah 03 - Lech Lecha#^14-1|Genesis 14]], and *Vayiqra Rabbah* 1:4: “Rabbi Isaac said, ‘Can anyone pursue those already killed, as is written: *He* \[Abraham\] *smote them and pursued them as far as Hobah* ([[Torah 03 - Lech Lecha#^14-15|Genesis 14:15]])? Rather this teaches that the blessed Holy One slew and Abraham pursued.’” Cf. Margaliot’s edition and note; *Bereshit Rabbah* 42(43):3 (on [[Torah 03 - Lech Lecha#^14-15|Genesis 14:15]]); above, page 50.
 

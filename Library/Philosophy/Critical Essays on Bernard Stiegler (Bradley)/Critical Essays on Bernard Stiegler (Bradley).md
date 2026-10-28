@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 12
 
 ## Contents
 
-- [[Critical Essays on Bernard 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[Critical Essays on Bernard 01 - Front matter|Front matter]] (pp. i–iv)
 - [[Critical Essays on Bernard 02 - Table of Contents|Table of Contents]] (pp. v–vi)
 - [[Critical Essays on Bernard 03 - Acknowledgments|Acknowledgments]] (pp. vii–viii)
 - [[Critical Essays on Bernard 04 - Introduction|Introduction]] (pp. ix–xiv)

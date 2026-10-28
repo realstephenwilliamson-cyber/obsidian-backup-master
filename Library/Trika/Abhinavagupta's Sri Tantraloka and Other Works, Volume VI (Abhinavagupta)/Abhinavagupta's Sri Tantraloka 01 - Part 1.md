@@ -299,7 +299,7 @@ What Abhinavagupta has done vis-a-vis such revelations embedded in the Vedic Sam
 
 It is partly due to the support of such an attitude towards Veda by authorities like Abhinavagupta and mainly due to the divisive interests and denunciatory cultural bias of the Western Indologists particularly of British orientation against Veda
 
-*[PDF 22]* ^pg22
+*[p. xxi]* ^pg22
 
 that they invented the myth of the theory of Aryan Invasion and tried to create a wedge between the Vedic and Tantric dispensations declaring a non-Aryan origin of idea of Śiva and as hence non-Vedic as against the pure naturalism of Vedic gods and goddesses. As is evident from subsequent archaeological finds and other researches it has been found that there is no evidence at all to suggest that anything like an invasion from the European hordes took place on the Indian soil in course of the known history. As regards the case of linguistic affinity throughout the area concerned, that is explicable the other way round in view of the antiquity and structure of Sanskrit language vis-a-vis the other languages concerned. Thus, to imagine that Śaivism in its origin is non-Vedic is a mere myth created with some vested interest.
 
@@ -493,7 +493,7 @@ amounts to karma-yoga.
 9\. [[Tantraloka 01.151|Tantrāloka, I.151]]
 
 
-*[PDF 39]* ^pg39
+*[p. xxxviii]* ^pg39
 
 xxxviii Sri Tantrāloka
 

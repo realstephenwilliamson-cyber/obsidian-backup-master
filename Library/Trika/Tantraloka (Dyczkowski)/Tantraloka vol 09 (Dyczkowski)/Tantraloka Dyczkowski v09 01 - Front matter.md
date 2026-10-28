@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)|Tantraloka vol 09 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf
-page_range: 1–viii
+page_range: "iii–viii"
 pdf_pages: 1–12
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -80,7 +80,7 @@ In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
-*[p. m]* ^pg7
+*[p. iii]* ^pg7
 
 are many other renowned scholars in Kāśī whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century exponent of Śrīvidyā. 
 
@@ -108,7 +108,7 @@ I always recall with much gratitude the foreigner’s scholars who have been my 
 
 It was just the bare text without Jayaratha’s commentary and relatively meagre notes. Even so, this and his other translations into Italian and books contributed much to my understanding. My esteemed seniors and mentors include Professor André Padoux who, especially in these last few years, give me great moral support by his appreciation of my humble efforts. Professor Richard Gombrich has never forgotten me although many years have passed since he was my supervisor in Oxford. Others include the late David Kinsley, a sincere and most humble man who took pleasure in conversation and exchanging views. David Lorenzen has been a friend for over thirty years whom I have come to know better over the past ten or so since he began to make short yearly trips to Varanasi. He has always brought with him new vistas and interests along with his deep sensitivity and a self-effacing nature that hides the depth of his scholarship. Amongst my other fellow scholars, I would like to thank the 'other 
 
-*[PDF 9]* ^pg9
+*[p. v]* ^pg9
 
 David', that is, David White. A dear friend, he has been unfailing in his support and has always tried his best to keep me on the path towards the distant goal of completing these volumes. Amongst those younger than me, I recall Jeffrey Lidke, whose exchanges have led to much reflection, and John Nemec. I should mention with gratitude my students who have always been very supportive. 
 
@@ -118,7 +118,7 @@ Finally, I wish to express my unbounded gratitude to Ram Krishnan and Raphael W�
 
 Freedom Cole is an old friend and very excellent and well-known astrologer. He dedicated a good deal of his very valuable time to writing a substantial essay on Indian astrology in the light of the teachings of chapter six of the Tantrāloka. These are concerned with the projection of the cycles of time into that of the breath. All the diagrams and drawings in that article are made by him. The reader will find it in the appendix to that chapter. 
 
-*[PDF 10]* ^pg10
+*[p. vi]* ^pg10
 
 CONTENTS 
 

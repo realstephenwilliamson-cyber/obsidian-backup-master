@@ -4,7 +4,7 @@ work: "[[Gray - Domestic Mandala]]"
 book: "[[Library/Hinduism/Domestic Mandala (Gray)/Domestic Mandala (Gray)|Domestic Mandala (Gray)]]"
 order: 1
 source_pdf: Library/Hinduism/Domestic Mandala_ Architecture of Lifeworlds in Nepal-Routledge (2006).pdf
-page_range: Cover–x
+page_range: "i–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[The Doctrine of Vibration 01 - Front matter|Front matter]] (pp. Cover–VII)
+- [[The Doctrine of Vibration 01 - Front matter|Front matter]] (pp. I–VII)
 - [[The Doctrine of Vibration 02 - Acknowledgements|Acknowledgements]] (pp. VIII–IX)
 - [[The Doctrine of Vibration 03 - Introduction|Introduction]] (pp. 1–32)
 - [[The Doctrine of Vibration 04 - Chapter I The Integral Monism of Kashmiri Saivism|Chapter I: The Integral Monism of Kashmiri Saivism]] (pp. 33–58)

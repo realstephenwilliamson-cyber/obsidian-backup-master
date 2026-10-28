@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Being Human in a Technological 01 - Front matter|Front matter]] (pp. Cover–IV)
+- [[Being Human in a Technological 01 - Front matter|Front matter]] (pp. I–IV)
 - [[Being Human in a Technological 02 - Table of Contents|Table of Contents]] (pp. V–VI)
 - [[Being Human in a Technological 03 - List of Contributors|List of Contributors]] (pp. VII–XII)
 - [[Being Human in a Technological 04 - Foreword|Foreword]] (pp. XIII–2)

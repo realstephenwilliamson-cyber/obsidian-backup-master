@@ -62,7 +62,7 @@ Converted from the PDF on 8 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Lost Scriptures 34 - The Homilies of Clement|The Homilies of Clement]] (pp. 195–200)
 - [[Lost Scriptures 35 - Ptolemy's Letter to Flora|Ptolemy’s Letter to Flora]] (pp. 201–206)
 - [[Lost Scriptures 36 - The Treatise on the Resurrection|The Treatise on the Resurrection]] (pp. 207–210)
-- [[Lost Scriptures 37 - The Didache|The Didache]] (pp. 211–222)
+- [[Lost Scriptures 37 - The Didache|The Didache]] (pp. 211–217)
 - [[Lost Scriptures 38 - The Letter of Barnabas|The Letter of Barnabas]] (pp. 219–235)
 - [[Lost Scriptures 39 - The Preaching of Peter|The Preaching of Peter]] (pp. 236–238)
 - [[Lost Scriptures 40 - Pseudo-Titus|Pseudo-Titus]] (pp. 239–248)

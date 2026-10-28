@@ -4,7 +4,7 @@ work: "[[Stiegler - States of Shock]]"
 book: "[[Library/Philosophy/States of Shock (Stiegler)/States of Shock (Stiegler)|States of Shock (Stiegler)]]"
 order: 9
 source_pdf: Library/Philosophy/States of Shock Stupidity and Knowledge in the 21st Century (2015).pdf
-page_range: A1
+page_range: ""
 pdf_pages: 291–291
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

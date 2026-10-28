@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Platonian Leviathan 01 - Front matter|Front matter (Cover, Title Page)]] (pp. Cover–iii)
+- [[The Platonian Leviathan 01 - Front matter|Front matter (Cover, Title Page)]] (pp. i–iii)
 - [[The Platonian Leviathan 02 - Copyright|Copyright]] (pp. iv–viii)
 - [[The Platonian Leviathan 03 - Contents|Contents]] (pp. ix–x)
 - [[The Platonian Leviathan 04 - Acknowledgments|Acknowledgments]] (pp. xi–xii)

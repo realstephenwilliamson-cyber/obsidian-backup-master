@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Ubiquitous Siva, Volume II 01 - Front matter|Front matter (Cover Page, Half title Page, Series Page, Title Page, Copyright Page, Dedication)]] (pp. Cover–x)
+- [[The Ubiquitous Siva, Volume II 01 - Front matter|Front matter (Cover Page, Half title Page, Series Page, Title Page, Copyright Page, Dedication)]] (pp. i–x)
 - [[The Ubiquitous Siva, Volume II 02 - Acknowledgments|Acknowledgments]] (pp. xi–xiv)
 - [[The Ubiquitous Siva, Volume II 03 - Abbreviations|Abbreviations]] (pp. xv–xvi)
 - [[The Ubiquitous Siva, Volume II 04 - Part I Introduction to the Translation|Part I Introduction to the Translation]] (pp. 1–58)

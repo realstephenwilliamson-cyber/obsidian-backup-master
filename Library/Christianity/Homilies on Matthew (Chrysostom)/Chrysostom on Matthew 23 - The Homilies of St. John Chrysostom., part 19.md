@@ -28,6 +28,8 @@ But they, neither by the multitude, nor by what had been said, were brought to a
 
 3\. For nothing so urges men headlong and drives them down precipices, nothing so makes them fail of the things to come, as their being riveted to these decaying things. Nothing so surely makes them enjoy both the one and the other, as their esteeming the things to come above all. For, “Seek ye,” saith Christ, “the kingdom of God, and all these things shall be added unto you.”<sup>2582</sup> And indeed, even if this were not joined, not even in that case ought we to aim at them. But now in obtaining the others, we may obtain these
 
+[[Matthew 21#^21-45|Matt. xxi. 45]], [[Matthew 21#^21-46|46]]. \[“because of” (δι) is peculiar to this citation.—R.\] 2579
+
 2580 \[[[John 07#^7-25|John vii. 25]], [[John 07#^7-26|26]].\] Gr. οκονομα, *i.e*., the verity of the Incarnation. 2581 [[Matthew 06#^6-33|Matt. vi. 33]]. \[“first” is omitted; inserted by the Oxford translator against the Greek text.—R.\]
 
 
@@ -63,7 +65,7 @@ After this, when they have risen up and finished those holy and continual prayer
 
 4\. Where now are they who give themselves to devilish choirs, and harlot’s songs, and sit in theatres? For I am indeed ashamed to make mention of them; nevertheless, because of your infirmity it is needful to do even this. For Paul too saith, “Like as ye have yielded your members servants to uncleanness, even so now yield your members servants to righteousness unto holiness.”<sup>2585</sup>
 
-2583 “For all Thy goodness and loving kindness *to us, and to all men.*” Thanksgiving Prayer. See the Morning Thanksgiving; Const. Apost. viii. 38, and The Eucharistic Prayer, ib. c. 12. 2584 \[[[Luke 02#^2-14|Luke ii. 14]], as in the received text. But “among men” is the only possible rendering, whichever reading he accepted.—R.\] [[Romans 06#^6-19|Rom. vi. 19]]. \[R.V., “sanctification.”\] 401 2586 \[“by the tongues of those;” there being a contrast in the Greek, which is obscured in the English rendering.—R.\]
+2583 “For all Thy goodness and loving kindness *to us, and to all men.*” Thanksgiving Prayer. See the Morning Thanksgiving; Const. Apost. viii. 38, and The Eucharistic Prayer, ib. c. 12. 2584 \[[[Luke 02#^2-14|Luke ii. 14]], as in the received text. But “among men” is the only possible rendering, whichever reading he accepted.—R.\] [[Romans 06#^6-19|Rom. vi. 19]]. \[R.V., “sanctification.”\]
 
 
 *[p. 727]* ^pg735
@@ -75,6 +77,8 @@ But is the sound of pipes joined to them with unmeaning noise, and unpleasing sh
 Or rather, whatever we may say, it is not possible to set forth the pleasure thereof, because of them that are riveted to their clay, and their brick-making? Therefore I would even wish to take one of those who are mad about these matters, and to lead him off there, and to show him the choir of those saints, and I should have no more need for these words. Nevertheless, though we speak unto miry ones, we will try, though by word, still by little and little, to draw them out of the slime and the fens. For there the hearer receives straightway the fire of illicit love; for as though the sight of the harlot were not enough to set the mind on fire, they add the mischief also from the voice; but here even should the soul have any such thing, it lays it aside straightway. But not their voice only, nor their countenance, but even their clothes do more than these confound the beholders. And should it be some poor man of the grosser and heedless sort, from the sight he will cry out ten thousand times in bitter despair, and will say to himself, “The harlot, and the prostituted boy, children of cooks and cobblers, and often even of slaves live in such delicacy, and I a freeman, and born of freemen, choosing honest labor, am not able so much as to imagine these things in a dream;” and thus he will go his way inflamed with discontent.
 
 But in the case of the monks there is no such result, but rather the contrary altogether. For when he shall see children of rich men and descendants of illustrious ancestors clothed in such garments as not even the lowest of the poor, and rejoicing in this, consider how great a consolation against poverty he will receive as he goes away. And should he be rich, he returns sobered, become a better man. Again in the theatre, when they see the harlot clothed with golden ornaments, while the poor man will lament, and bemoan, seeing his own wife having nothing of the kind, the rich will in consequence of this spectacle contemn and despise the partners of their home. For when the harlot present to the beholders garb and look, and voice and step, all luxurious, they depart set on fire, and enter into their own houses, thenceforth captives.
+
+401 2586 \[“by the tongues of those;” there being a contrast in the Greek, which is obscured in the English rendering.—R.\]
 
 *[p. 728]* ^pg736
 
@@ -660,7 +664,7 @@ And what are these phylacteries, and these borders? Since they were continually 
 
 2669 [[Matthew 23#^23-5|Matt. xxiii. 5]].
 
-2670 [[Matthew 23#^23-5|Matt. xxiii. 5]]. Deut. vi. 8; so LXX. A.V. “as frontlets between.” 420 2672 Numb. xv. 38, 39. \[The passage is freely given from the LXX.\] 2673 \[R.V., “the chief place.”\] 2674 \[With the oldest New Testament mss. the word “Rabbi” is not repeated.—R.\] 2675 This passage has afforded grounds for a conjecture as to the date of the Homily, but the language is too general to prove anything; see Montfaucon’s Preface.
+2670 [[Matthew 23#^23-5|Matt. xxiii. 5]]. Deut. vi. 8; so LXX. A.V. “as frontlets between.”
 
 
 *[p. 761]* ^pg769
@@ -676,6 +680,8 @@ And it comes upon me now even to weep, when I hear of the first seats, and the g
 But mark thou, I pray thee, how vainglory prevailed; when they were commanded not to be vainglorious, even in the synagogues, where they had entered to discipline others.
 
 For to have this feeling at feasts, to howsoever great a degree, doth not seem to be so dreadful a thing; although even there the teachers ought to be held in reverence, and not in the church only, but everywhere. And like as a man, wherever he may appear, is manifestly distinguished from the brutes; so also ought the teacher, both speaking and holding his peace, and dining, and doing whatever it may be, to be distinguished as well by his gait, as by his look, and by his garb, and by all things generally. But they were on every account objects of ridicule, and in every respect disgraced themselves, making it their study to follow what they ought to flee. For they love them, it is said; but if the loving them be a matter of
+
+420 2672 Numb. xv. 38, 39. \[The passage is freely given from the LXX.\] 2673 \[R.V., “the chief place.”\] 2674 \[With the oldest New Testament mss. the word “Rabbi” is not repeated.—R.\] 2675 This passage has afforded grounds for a conjecture as to the date of the Homily, but the language is too general to prove anything; see Montfaucon’s Preface.
 
 *[p. 762]* ^pg770
 

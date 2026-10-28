@@ -4,7 +4,7 @@ work: "[[Hanneder - Abhinavagupta's Philosophy of Revelation]]"
 book: "[[Library/Trika/Abhinavagupta's Philosophy of Revelation (Hanneder)/Abhinavagupta's Philosophy of Revelation (Hanneder)|Abhinavagupta's Philosophy of Revelation (Hanneder)]]"
 order: 1
 source_pdf: Library/Trika/Abhinavagupta's Philosophy of Revelation Malini Shloka Vartika I , 1-399 - Jurgen Hanneder.pdf
-page_range: 1–31
+page_range: "4–31"
 pdf_pages: 1–40
 text_source: the PDF's own text layer (an older OCR layer with good IAST; the pages are rotated 180° and are read in the order shown), its junk words replaced from a fresh OCR (Tesseract 5, eng+san); Appendix 1 (pp. 249–277 of the PDF, the Sanskrit text in Devanagari, where the old layer is junk) read by the fresh OCR (san). Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -895,7 +895,7 @@ And by combining the five faces, namely Iśāna, Tatpuruṣa, Sadyojāta, Vāmad
 109\. The next sentence seems corrupt. MO Sadyojāta/Vāmadeva, Sadyojāta/Aghora, Tatpuruṣaą/Vāmadeva, Tatpuruṣḷṣa/Aghora.
 
 
-*[p. i]* ^pg39
+*[p. 30]* ^pg39
 
 scriptures of Rudra which have duality and unity as their main \[doctrine\]. This has been taught \[as follows\]: 
 

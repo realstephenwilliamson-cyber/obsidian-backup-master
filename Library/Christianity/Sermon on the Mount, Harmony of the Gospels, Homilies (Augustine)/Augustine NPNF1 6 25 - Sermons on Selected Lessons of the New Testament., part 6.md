@@ -116,7 +116,7 @@ if I so quickly make an end? Here Thou biddest me to finish quickly; there “al
 
 3\. Wherefore, see how the Lord in this passage exhorted His disciples to prayer, when He said, “Ye could not cast out this devil because of your unbelief.”<sup>2674</sup> For then exhorting them to prayer He ended thus; “this kind is not cast out but by prayer and fasting.” If a man must pray, to cast out devils from another, how much more to cast out his own covetousness? how much more to cast out his own drunkenness? how much more to cast out his own luxuriousness? how much more to cast out his own uncleanness? How many things in a man are there, which if they are persevered in, allow of no admission into the kingdom of heaven! Consider, Brethren, how a physician is entreated for the preservation of temporal health, how, if any one is desperately ill, is he ashamed or slow to throw himself at a man’s feet? to bathe in tears the footsteps of any very able chief physician? And what if the physician say to him, “Thou canst not else be cured, except I bind thee, and use the fire and knife”? He will answer,” Do what thou wilt, only cure me.” With what eagerness does he long for the health of a few days, fleeting as a vapour, that for it he is content to be bound, and submit to the fire, and knife, and to be watched, that he neither eat nor drink what, or when, he
 
-2673 [[Luke 18#^18-1|Luke xviii. 1]]. 351 2675 *Renuntiet ad illum*. 2676 [[Romans 03#^3-23|Rom. iii. 23]]. 2677 [[Matthew 09#^9-11|Matt. ix. 11]], etc. 2678 *Armario suo*. *Personam suam*.
+2673 [[Luke 18#^18-1|Luke xviii. 1]].
 
 
 *[p. 738]* ^pg764
@@ -129,13 +129,15 @@ pleases! All this he will endure, that he may die a little later; and yet he wil
 
 5\. For first, not forgetting on the Cross His own character,<sup>2679</sup> and manifesting forth His patience to us, and giving us an example of love to our enemies; as He saw them raging
 
+351 2675 *Renuntiet ad illum*. 2676 [[Romans 03#^3-23|Rom. iii. 23]]. 2677 [[Matthew 09#^9-11|Matt. ix. 11]], etc. 2678 *Armario suo*. *Personam suam*.
+
 *[p. 739]* ^pg765
 
 *On the words of the Gospel, [[Matthew 17#^17-19|Matt. xvii. 19]], ‘Why could not we cast it out’?…*
 
 round Him, who had known their disease, seeing He was the Physician, who had known the frenzy by which they had become infatuated, He said at once to the Father, “Father, forgive them; for they know not what they do.”<sup>2680</sup> Now suppose ye that those Jews were not malignant, cruel, bloody, turbulent, and enemies of the Son of God? Suppose ye that that cry, “Father, forgive them, for they know not what they do,” was ineffectual and in vain? He saw them all, but He knew amongst them those that should one day be His. In a word, He died, because it was so expedient, that by His Death He might kill death. God died, that an exchange might be effected by a kind of heavenly contract, that man might not see death. For Christ is God, but He died not in that Nature in which He is God. For the same Person is God and man; for God and man is one Christ. The human nature<sup>2681</sup> was assumed, that we might be changed for the better; He did not degrade the Divine<sup>2682</sup> Nature down to the lower. For He assumed that which He was not, He did not lose that which He was. Forasmuch then as He is both God and man, being pleased that we should live by that which was His, He died in that which was ours. For He had nothing Himself, whereby He could die; nor had we anything whereby we could live. For what was He who had nothing whereby He could die? “In the beginning was the Word, and the Word was with God, and the Word was God.” <sup>2683</sup> If thou seek for anything in God whereby He may die, thou wilt not find it. But we all die, who are flesh; men bearing about sinful flesh. Seek out for that whereby sin may live; it hath it not. So then neither could He have death in that which was His own, nor we life in that which was our own; but we have life from that which is His, He death from what is ours. What an exchange! What hath He given, and what received? Men who trade enter into commercial intercourse for exchange of things. For ancient commerce was only an exchange of things. A man gave what he had, and received what he had not. For example, he had wheat, but had no barley; another had barley, but no wheat; the former gave the wheat which he had, and received the barley which he had not. How<sup>2684</sup> simple it was that the larger quantity should make up for the cheaper sort! So then another man gives barley, to receive wheat; lastly, another gives lead, to receive silver, only he gives much lead against a little silver; another gives wool, to receive a ready-made garment. And who can enumerate all these exchanges? But no one gives life to receive death. Not in vain then was the voice of the Physician as He hung upon the tree. For in order that He might die for us because the Word could not die, “The Word was made flesh, and dwelt among us.”<sup>2685</sup> He hung upon
 
-2680 [[Luke 23#^23-34|Luke xxiii. 34]]. 2681 *Homo*. 2682 *Deum*. 2683 [[John 01#^1-1|John i. 1]]. 2684 *Quanti erat*. 352 2686 *Vilitas*. 2687 *Caritas*. 2688 [[Luke 23#^23-34|Luke xxiii. 34]]. 2689 [[Luke 17#^17-5|Luke xvii. 5]].
+2680 [[Luke 23#^23-34|Luke xxiii. 34]]. 2681 *Homo*. 2682 *Deum*. 2683 [[John 01#^1-1|John i. 1]]. 2684 *Quanti erat*.
 
 
 *[p. 740]* ^pg766
@@ -147,6 +149,8 @@ the Cross, but in the flesh. There was the meanness,<sup>2686</sup> which the Je
 6\. Therefore, to finish this discourse with that with which we began it, let us pray, and let us rely on God; let us live as He enjoineth; and when we totter in this life, let us call upon Him as the disciples called, saying, “Lord, increase our faith.”<sup>2689</sup> Peter both put his trust in Him, and tottered; but notwithstanding he was not disregarded and left to sink, but was lifted up and raised. For his trust whence was it? Not from anything of his own; but from what was the Lord’s. How? “Lord, if it be Thou, bid me come unto Thee on the water.” For on the water was the Lord walking. “If it be Thou, bid me come unto Thee on the water.” For I know that if it be Thou, Thou biddest, and it is done. “And He saith, Come.” He went down at His bidding, but in his own weakness he was afraid. Nevertheless when he was afraid, he cried out, “Lord, save me.” Then the Lord took him by the hand, and said, “O thou of little faith, wherefore didst thou doubt?”<sup>2690</sup> He first invited him, He delivered him, as he tottered, and stumbled; that it might be fulfilled which was said in the Psalm, “If I said my foot hath slipped, Thy mercy, O Lord, aided me.”<sup>2691</sup>
 
 7\. There are then two kinds of blessings, temporal and eternal. Temporal blessings are health, substance, honour, friends, a home, children, a wife, and the other things of this life in which we are sojourners. Put we up then in the hostelry of this life as travellers passing on, and not as owners intending to remain. But eternal blessings are, first, eternal life itself,
+
+352 2686 *Vilitas*. 2687 *Caritas*. 2688 [[Luke 23#^23-34|Luke xxiii. 34]]. 2689 [[Luke 17#^17-5|Luke xvii. 5]].
 
 2690 [[Matthew 14#^14-28|Matt. xiv. 28]], etc.
 
@@ -200,7 +204,7 @@ that thou acquiesce therein, and art in loving harmony with the truth, thou will
 
 4\. But thy wife comes to thee advising thee to some evil thing. Thou dost love her as a wife should be loved; she is one of thy members. “But if thine eye offend thee, if thine hand offend thee, if thy foot offend thee,” thou hast just heard the Gospel, “cut them off, and cast them from thee.”<sup>2707</sup> Whosoever he be that is dear to thee, whosoever he be that is held in high estimation by thee, let him be so long of high esteem with thee, so long thy beloved
 
-2703 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 2704 [[James 04#^4-6|Jas. iv. 6]]. 2705 [[John 01#^1-10|John i. 10]]. 2706 [[2 Corinthians 05#^5-19|2 Cor. v. 19]]. 355 2708 [[Matthew 16#^16-23|Matt. xvi. 23]]. 2709 [[Matthew 16#^16-17|Matt. xvi. 17]].
+2703 [[1 Corinthians 03#^3-7|1 Cor. iii. 7]]. 2704 [[James 04#^4-6|Jas. iv. 6]]. 2705 [[John 01#^1-10|John i. 10]]. 2706 [[2 Corinthians 05#^5-19|2 Cor. v. 19]].
 
 
 *[p. 746]* ^pg772
@@ -208,6 +212,8 @@ that thou acquiesce therein, and art in loving harmony with the truth, thou will
 *On the words of the Gospel, [[Matthew 18#^18-7|Matt. xviii. 7]], where we are admonished to beware…*
 
 member, as he shall not begin to offend thee, that is, to advise thee to any evil. Hear now how that this is the meaning of “offence.” I have brought forward the example of Job and his wife; but there the word “offence” did not occur. Hear the Gospel: when the Lord prophesied of His Passion, Peter began to persuade him not to suffer. “Get thee behind Me, Satan, thou art an offence to Me.”<sup>2708</sup> Here undoubtedly the Lord who hath given thee an example of life, hath taught thee both what an “offence” is, and how an offence is to be avoided. Him to whom He had a little while before said, “Blessed art thou, Simon Bar-jona;”<sup>2709</sup> He had shown to be His member. But when he begins to be an offence, He cuts off the member; only He restored the member, and put it into its place again. He then will be an “offence” to thee, who shall begin to persuade thee to any evil thing. And here, Beloved, take heed; this takes place for the most part not through any evil will, but through a mistaken good will. Thy friend who loves thee, and is loved by thee again, thy father, thy brother, thy child, thy wife, sees thee in an evil case, and would have thee do what is evil. What do I mean by “sees thee in an evil case”? Sees thee in some press of trouble. This pressure it may be thou art suffering for righteousness’ sake; art suffering it because thou will not give false witness. I would speak merely by way of illustration. Examples abound; for “woe to the world, because of offences.” See, for instance, some powerful person, to cover his rapine and plunder, asks of you the service of a false witness. You refuse: refuse the false oath, lest thou shouldest deny Him that is true. That I may not dwell long on this, he is angry, he is powerful, he oppresses thee: a friend comes who would not have thee in this press of trouble, in this evil case; “I pray thee, do what is told thee; what great matter is it?” And then perhaps as Satan with the Lord, “It is written of Thee, He shall give His Angels charge concerning Thee, that Thou dash not Thy foot against a stone.” <sup>2710</sup> Perhaps too this friend of thine, because he sees thou art a Christian, wishes to persuade thee out of the Law to do what he thinks you ought to do. “Do what the other tells.” “What? Do what the other wishes.” “But it is a lie, it is false.” “Well, have you not read, ‘All men are liars’?”<sup>2711</sup> Now is he an “offence.” He is a friend, what will you do? He is an eye, he is a hand: “Cut it off, and cast it from thee.” What is, “cut it off, and cast it from thee”? Consent not to him. For members in our body make up unity by consent, by consent they live, by consent are joined together one with the other. Where there is dissent, there is disease, or a sore. He is then one of thy members; thou wilt love him. But he is an offence to thee; “Cut him off, and cast him from thee.” Consent not to him; drive him off from thine ears, it may be he will return amended.
+
+355 2708 [[Matthew 16#^16-23|Matt. xvi. 23]]. 2709 [[Matthew 16#^16-17|Matt. xvi. 17]].
 
 2710 [[Matthew 04#^4-6|Matt. iv. 6]].
 
@@ -220,7 +226,7 @@ member, as he shall not begin to offend thee, that is, to advise thee to any evi
 
 6\. “How then are all men liars? What! Thou art not a man, I suppose?” Answer quickly and truly. “And O that I may not be a man, that so I may not be a liar.” For see; “God looked down from heaven upon the children of men, to see if there were any that did understand, and seek after God. They are all gone out of the way, they are all together become unprofitable: there is none that doeth good, no not even one.”<sup>2717</sup> Why? Because they wished to be
 
-2712 Wisd. i. 11. 2713 *Corpus, dicis tu, premit: dico ego, perimit*. 2714 Deut. v. 20. 2715 Ps. v. 6. 2716 [[Matthew 10#^10-28|Matt. x. 28]]. 356 2718 [[John 01#^1-12|John i. 12]]. 2719 Ps. lxxxii. 6. By the inundation of the Goths, Serm. lv. (cv. Ben.).
+2712 Wisd. i. 11. 2713 *Corpus, dicis tu, premit: dico ego, perimit*. 2714 Deut. v. 20. 2715 Ps. v. 6. 2716 [[Matthew 10#^10-28|Matt. x. 28]].
 
 
 *[p. 748]* ^pg774
@@ -230,6 +236,8 @@ member, as he shall not begin to offend thee, that is, to advise thee to any evi
 sons of men. But in order that he might deliver them from these iniquities, cure, heal, change, the sons of men; “he gave them power to become the sons of God.”<sup>2718</sup> What marvel then! Ye were men, if we were the sons of men; ye were all men, and were liars, for, “All men are liars.” The grace of God came to you, and “gave you power to become the sons of God.” Hear the voice of My Father saying, “I have said, Ye are gods; and ye are all the children of the Most High.”<sup>2719</sup> Since then they are men, and the sons of men, if they are not the children of the Most High, they are liars, for, “all men are liars.” If they are the sons of God, if they have been redeemed by the Saviour’s grace, if purchased with His precious Blood, if born again of water and of the Spirit, if predestinated to the inheritance of heaven, then indeed are they children of God. And so thereby are gods. What then would a lie have to do with thee? For Adam was a mere man, Christ, man and God; God, the Creator of all creation. Adam a mere man, the Man Christ, the Mediator with God, the Only Son of the Father, the God-man. Lo, thou, O man, art far from God, and God is far above man; between them the God-man placed Himself. Acknowledge Christ, and by Him as Man ascend up to God.
 
 7\. Being then now reformed, and, if my words have been so blessed, “meek,” let us “hold fast our profession without wavering.” Let us love the law of God, that we may escape that which is written, “Woe unto the world because of offences.” Now I would say a few words about “offences,” of which the world is full, and how it is that offences thicken, pressing troubles abound. The world<sup>2720</sup> is laid waste, the winepress is trodden. Ah! Christians, heavenly shoot, ye strangers on the earth, who seek a city in heaven, who long to be associated with the holy Angels; understand that ye have come here on this condition only, that ye should soon depart. Ye are passing on through the world, endeavouring to reach Him who created it. Let not the lovers of the world, who wish to remain in the world, and yet, whether they will or no, are compelled to move from it; let them not disturb you, let them not deceive nor seduce you. These pressing troubles are not offences. Be ye righteous, and they will be only exercises. Tribulation comes; it will be as ye choose it, either an exercise, or a condemnation. Such as it shall find you to be, will it be. Tribulation is a fire; does it find thee gold? it takes away the filth: does it find thee chaff? it turns it into ashes. The pressing troubles then which abound are not “offences.” But what are “offences”? Those expressions, those words in which we are thus addressed. “See what Christian times bring about;” lo, these are the true offences. For this is said to thee, to this end, that if thou love the world, thou mayest blaspheme Christ. And this he saith to thee who is thy friend, and counsellor; and so “thine eye.” This he saith to thee who ministereth to thee, and shareth thy labours, and so “thine hand.” This he saith to thee it may be who supporteth thee, who lifteth thee
+
+356 2718 [[John 01#^1-12|John i. 12]]. 2719 Ps. lxxxii. 6. By the inundation of the Goths, Serm. lv. (cv. Ben.).
 
 *[p. 749]* ^pg775
 
@@ -263,7 +271,7 @@ they had their gods with them, they builded Rome in Latium, and there they place
 
 2729 *Æn*. i. 71, 2.
 
-2730 *De Civit. Dei*, lib. i. c. 3. *Immo vero victos deos tanquam præsides ac defensores colere, quid est aliud quam tenere non numina bona sed omina mala?* *Numen erat*, an omen. 358 2732 Ps. vi. 8, Sept. (7, English version). [[1 John 03#^3-15|1 John iii. 15]].
+2730 *De Civit. Dei*, lib. i. c. 3. *Immo vero victos deos tanquam præsides ac defensores colere, quid est aliud quam tenere non numina bona sed omina mala?* *Numen erat*, an omen.
 
 
 *[p. 752]* ^pg778
@@ -280,6 +288,8 @@ Sermon XXXII.
 
 3\. In order then that we may be able well to do and to fulfil what we have been admonished of to-day, let us first persuade ourselves to this, above all things to have no hate. For
 
+358 2732 Ps. vi. 8, Sept. (7, English version). [[1 John 03#^3-15|1 John iii. 15]].
+
 *[p. 753]* ^pg779
 
 *On the words of the Gospel, [[Matthew 18#^18-15|Matt. xviii. 15]], ‘If thy brother sin against…*
@@ -288,7 +298,7 @@ when there is no beam in thine own eye, thou seest rightly whatever may be in th
 
 4\. Therefore ought we to rebuke in love; not with any eager desire to injure, but with an earnest care to amend. If we be so minded, most excellently do we practise that which we have been recommended to-day; “If thy brother shall sin against thee, rebuke him between thee and him alone.”<sup>2735</sup> Why dost thou rebuke him? Because thou art grieved, that he should have sinned against thee? God forbid. If from love of thyself thou do it, thou doest nothing. If from love to him thou do it, thou doest excellently. In fact, observe in these words themselves, for the love of whom thou oughtest to do it, whether of thyself or him. “If he shall hear thee, thou hast gained thy brother.” Do it for his sake then, that thou mayest “gain” him. If by so doing thou “gain” him, hadst thou not done it, he would have been lost. How is it then that most men disregard these sins, and say, “What great thing have I done? I have only sinned against man.” Disregard them not. Thou hast sinned against man; but wouldest thou know that in sinning against man thou art lost. If he, against whom thou hast sinned, have “rebuked thee between thee and him alone,” and thou hast listened to him, he hath “gained” thee. What can “hath gained thee,” mean; but that thou hadst been lost, if he had not gained thee. For if thou wouldest not have been lost, how hath he gained thee? Let
 
-2734 [[1 John 02#^2-9|1 John ii. 9]]. 359 2736 [[1 Corinthians 08#^8-12|1 Cor. viii. 12]]. 2737 [[Matthew 05#^5-22|Matt. v. 22]]. 2738 [[Matthew 05#^5-23|Matt. v. 23]], [[Matthew 05#^5-24|24]]. 2739 [[Luke 14#^14-11|Luke xiv. 11]].
+2734 [[1 John 02#^2-9|1 John ii. 9]].
 
 
 *[p. 754]* ^pg780
@@ -302,6 +312,8 @@ no man then disregard it, when he sins against a brother. For the Apostle saith 
 6\. But men are easy and ready enough to inflict injuries, and hard to seek for reconciliation. Ask pardon, says one, of him whom thou hast offended, of him whom thou hast injured. He answers, “I will not so humble myself.” But now if thou despise thy brother, at least give ear to thy God. “He that humbleth himself shall be exalted.”<sup>2739</sup> Wilt thou refuse to humble thyself, who hast already fallen? Great is the difference between one who humbleth himself, and one who lieth on the ground. Already dost thou lie on the ground, and wilt thou then not humble thyself? Thou mightest well say, I will not descend; if thou hadst first been unwilling to fall.
 
 7\. This then ought one to do who hath done an injury. And he who hath suffered one, what ought he to do? What we have heard to-day, “If thy brother shall sin against thee, rebuke him between thee and him alone.”<sup>2740</sup> If thou shall neglect this, thou art worse than he. He
+
+359 2736 [[1 Corinthians 08#^8-12|1 Cor. viii. 12]]. 2737 [[Matthew 05#^5-22|Matt. v. 22]]. 2738 [[Matthew 05#^5-23|Matt. v. 23]], [[Matthew 05#^5-24|24]]. 2739 [[Luke 14#^14-11|Luke xiv. 11]].
 
 *[p. 755]* ^pg781
 

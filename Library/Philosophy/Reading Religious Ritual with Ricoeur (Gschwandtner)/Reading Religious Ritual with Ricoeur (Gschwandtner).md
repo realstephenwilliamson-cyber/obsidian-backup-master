@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Reading Religious Ritual 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Dedication, Contents)]] (pp. Cover–viii)
+- [[Reading Religious Ritual 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Dedication, Contents)]] (pp. i–viii)
 - [[Reading Religious Ritual 02 - Preface|Preface]] (pp. ix–xii)
 - [[Reading Religious Ritual 03 - Acknowledgments|Acknowledgments]] (pp. xiii–xvi)
 - [[Reading Religious Ritual 04 - Abbreviations of Frequently Cited Works by Ricur|Abbreviations of Frequently Cited Works by Ricœur]] (pp. xvii–xx)

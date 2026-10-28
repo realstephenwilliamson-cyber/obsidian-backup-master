@@ -4,7 +4,7 @@ work: "[[O'Collins and Jones - Jesus Our Priest]]"
 book: "[[Library/Christianity/Jesus Our Priest (O'Collins)/Jesus Our Priest (O'Collins)|Jesus Our Priest (O'Collins)]]"
 order: 1
 source_pdf: Library/Christianity/O'Collins and Jones - Jesus Our Priest (OUP 2010).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

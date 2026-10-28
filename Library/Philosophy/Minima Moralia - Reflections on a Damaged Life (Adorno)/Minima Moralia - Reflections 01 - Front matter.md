@@ -4,7 +4,7 @@ work: "[[Adorno - Minima Moralia]]"
 book: "[[Library/Philosophy/Minima Moralia - Reflections on a Damaged Life (Adorno)/Minima Moralia - Reflections on a Damaged Life (Adorno)|Minima Moralia - Reflections on a Damaged Life (Adorno)]]"
 order: 1
 source_pdf: Library/Philosophy/Adorno - Minima Moralia (2005).pdf
-page_range: Cover–6
+page_range: "3–6"
 pdf_pages: 1–5
 text_source: fresh OCR with Tesseract 5 (eng) (the PDF text layer is a weak old OCR)
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Buber - I and Thou]]"
 book: "[[Library/Philosophy/I and Thou (Buber)/I and Thou (Buber)|I and Thou (Buber)]]"
 order: 1
 source_pdf: Library/Philosophy/Buber, Martin - I and Thou (trans. Smith, Scribners 1958).pdf
-page_range: Cover–iv
+page_range: "iii–iv"
 pdf_pages: 1–3
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

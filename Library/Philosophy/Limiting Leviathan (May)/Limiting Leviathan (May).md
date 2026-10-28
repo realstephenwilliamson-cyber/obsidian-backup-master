@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Limiting Leviathan 01 - Cover|Cover]] (pp. Cover–vi)
+- [[Limiting Leviathan 01 - Cover|Cover]] (pp. i–vi)
 - [[Limiting Leviathan 02 - Contents|Contents]] (pp. vii–xii)
 - [[Limiting Leviathan 03 - Introduction|Introduction]] (pp. 1–19)
 - [[Limiting Leviathan 04 - 1. Law, Morality, and Prudence|1. Law, Morality, and Prudence]] (pp. 20–47)

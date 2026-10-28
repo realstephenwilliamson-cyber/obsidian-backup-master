@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Language of the Gods 01 - Front matter|Front matter]] (pp. Cover–vi)
+- [[The Language of the Gods 01 - Front matter|Front matter]] (pp. i–vi)
 - [[The Language of the Gods 02 - Contents|Contents]] (pp. vii–x)
 - [[The Language of the Gods 03 - Preface and Acknowledgments|Preface and Acknowledgments]] (pp. xi–xviii)
 - [[The Language of the Gods 04 - Introduction|Introduction]] (pp. 1–36)

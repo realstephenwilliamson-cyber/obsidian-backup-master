@@ -4,7 +4,7 @@ work: "[[Bradley (ed.) - Critical Essays on Bernard Stiegler]]"
 book: "[[Library/Philosophy/Critical Essays on Bernard Stiegler (Bradley)/Critical Essays on Bernard Stiegler (Bradley)|Critical Essays on Bernard Stiegler (Bradley)]]"
 order: 1
 source_pdf: Library/Philosophy/Bradley - Critical Essays on Bernard Stiegler (2024).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF; 124 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

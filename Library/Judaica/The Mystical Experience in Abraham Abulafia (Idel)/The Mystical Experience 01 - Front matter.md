@@ -4,7 +4,7 @@ work: "[[Idel - The Mystical Experience in Abraham Abulafia]]"
 book: "[[Library/Judaica/The Mystical Experience in Abraham Abulafia (Idel)/The Mystical Experience in Abraham Abulafia (Idel)|The Mystical Experience in Abraham Abulafia (Idel)]]"
 order: 1
 source_pdf: Library/Judaica/Idel - The Mystical Experience in Abraham Abulafia (1988).pdf
-page_range: Front Cover–xiii
+page_range: "i–xiii"
 pdf_pages: 1–14
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF
 converted: 2026-10-07

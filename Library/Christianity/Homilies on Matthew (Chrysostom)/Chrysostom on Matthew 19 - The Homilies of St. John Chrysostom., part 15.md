@@ -73,7 +73,7 @@ The evangelist speaks against the woman, that he may show forth her marvellous a
 
 2028 \[R.V., “And Jesus went out thence and withdrew into the parts of Tyre and Sidon. And behold, a Canaanitish woman came out from those borders, and cried.” But Chrysostom agrees with the rec. text, in adding “unto Him.” There is some doubt as to the correct form of the Greek verb rendered “cried,” both in the New Testament and in Chrysostom’s text.—R.\] 2029 [[Mark 07#^7-24|Mark vii. 24]].
 
-2030 [[Acts 10#^10-15|Acts x. 15]], [[Acts 10#^10-20|20]]. 2031 [[Matthew 10#^10-5|Matt. x. 5]]. \[R.T. “*any* way.”\] 312 2033 See [[John 04#^4-49|John iv. 49]], and comp. [[Matthew 09#^9-18|Matt. ix. 18]].
+2030 [[Acts 10#^10-15|Acts x. 15]], [[Acts 10#^10-20|20]]. 2031 [[Matthew 10#^10-5|Matt. x. 5]]. \[R.T. “*any* way.”\]
 
 
 *[p. 568]* ^pg576
@@ -91,6 +91,8 @@ But having described both her calamity, and the intensity of the disease, she pl
 Whom would not this have offended, seeing the facts so opposite to the report? For whereas they had heard, that He went about the villages healing, her, when she had come to Him, He utterly repels. And who would not have been moved by her affliction, and by the supplication she made for her daughter in such evil case? For not as one worthy, nor as demanding a due, not so did she approach Him, but she entreated that she might find mercy, and merely gave a lamentable account of her own affliction; yet is she not counted worthy of so much as an answer.
 
 Perhaps many of the hearers were offended, but she was not offended. And why say I, of the hearers? For I suppose that even the very disciples must have been in some degree affected at the woman’s affliction, and have been greatly troubled, and out of heart.
+
+312 2033 See [[John 04#^4-49|John iv. 49]], and comp. [[Matthew 09#^9-18|Matt. ix. 18]].
 
 *[p. 569]* ^pg577
 
@@ -221,7 +223,7 @@ But now He saith not this, “Give ye them to eat,” but what? “I have compas
 
 But as thou hast seen their imperfection hereby, so do thou observe the severity of their spirit, and admire their love of truth, how, writing themselves, they conceal not their own
 
-2055 [[Matthew 15#^15-33|Matt. xv. 33]]. \[R.V., “in a desert place.”\] 2056 [[Matthew 14#^14-16|Matt. xiv. 16]]. 2057 [[Matthew 15#^15-34|Matt. xv. 34]]. [[Matthew 15#^15-35|Matt. xv. 35]], [[Matthew 15#^15-36|36]]. \[The imperfect ἐδδου, “kept giving,” is found here, against the rec. text.—R.\] 2059
+2055 [[Matthew 15#^15-33|Matt. xv. 33]]. \[R.V., “in a desert place.”\] 2056 [[Matthew 14#^14-16|Matt. xiv. 16]]. 2057 [[Matthew 15#^15-34|Matt. xv. 34]].
 
 
 *[p. 575]* ^pg583
@@ -235,6 +237,8 @@ Now all the rest He doth as on the former occasion; thus He both makes them sit 
 For, “He commanded,” it is said, “the multitude to sit down on the ground. And He took the seven loaves, and the fishes, and gave thanks, and brake, and gave to His disciples, and the disciples to the multitude.”<sup>2059</sup>
 
 But when we come to the end, there is a difference.
+
+[[Matthew 15#^15-35|Matt. xv. 35]], [[Matthew 15#^15-36|36]]. \[The imperfect ἐδδου, “kept giving,” is found here, against the rec. text.—R.\] 2059
 
 316 For, “they did all eat,” so it is said, “and were filled, and they took up of the broken meat that was left,<sup>2060</sup>seven baskets full. And they that did eat were four thousand men, besides women and children.”<sup>2061</sup>
 
@@ -316,7 +320,7 @@ And wherefore did He not ask them at once their own opinion, but that of the peo
 
 And He said not, “Whom say the Scribes and Pharisees that I am?” often as these had come unto Him, and discoursed with Him; but, “Whom do men say that I am?” inquiring
 
-2083 [[Matthew 16#^16-11|Matt. xvi. 11]]. \[See R.V., for a different reading.\] 2084 [[Matthew 14#^14-12|Matt. xiv. 12]]. \[Some mss. insert φιλοτιμα κα, “from ambition and want of faith.” It is *με*. So R.V. margin, “that I the 2085 Son of Man am,” as in the parallel passages.—R.\] 2086 \[The A.V. is ungrammatical; “whom” is simply a transfer of the Greek accusative (with the infinitive in the passage) into the English finite clause.—R.\] 319 2087 *i.e*. His Incarnation. 2088 [[John 03#^3-13|John iii. 13]]. 2089 [[John 06#^6-62|John vi. 62]].
+2083 [[Matthew 16#^16-11|Matt. xvi. 11]]. \[See R.V., for a different reading.\] 2084 [[Matthew 14#^14-12|Matt. xiv. 12]]. \[Some mss. insert φιλοτιμα κα, “from ambition and want of faith.” It is *με*. So R.V. margin, “that I the 2085 Son of Man am,” as in the parallel passages.—R.\] 2086 \[The A.V. is ungrammatical; “whom” is simply a transfer of the Greek accusative (with the infinitive in the passage) into the English finite clause.—R.\]
 
 
 *[p. 580]* ^pg588
@@ -330,6 +334,8 @@ Then, since they said, “Some John the Baptist, some Elias, some Jeremias, or o
 2\. What then saith the mouth of the apos tles, Peter, the ever fervent, the leader of the apostolic choir?<sup>2093</sup> When all are asked, he answers. And whereas when He asked the opinion of the people, all replied to the question; when He asked their own, Peter springs forward, and anticipates them, and saith, “Thou art the Christ, the Son of the living God.”<sup>2094</sup> What then saith Christ? “Blessed art thou, Simon Barjona, for flesh and blood hath not revealed it unto thee.”<sup>2095</sup>
 
 Yet surely unless he had rightly confessed Him, as begotten of the very Father Himself, this were no work of revelation; had he accounted our Lord to be one of the many, his saying was not worthy of a blessing. Since before this also they said, “Truly He is Son of God,”<sup>2096</sup>those, I mean, who were in the vessel after the tempest, which they saw, and were
+
+319 2087 *i.e*. His Incarnation. 2088 [[John 03#^3-13|John iii. 13]]. 2089 [[John 06#^6-62|John vi. 62]].
 
 2090 [[Matthew 16#^16-14|Matt. xvi. 14]]. 2091 [[Matthew 16#^16-15|Matt. xvi. 15]]. 2092 [[Matthew 14#^14-2|Matt. xiv. 2]]. ὁ κορυφαο. 2093 2094 [[Matthew 16#^16-16|Matt. xvi. 16]]. 2095 [[Matthew 16#^16-17|Matt. xvi. 17]].
 
@@ -477,7 +483,7 @@ What is more easy than this? tell me. But even if thou account it difficult, loo
 
 For much as our emperors at the horse races heap together before the combatants crowns, and prizes, and garments, even so Christ also sets His rewards in the midst of His course, holding them out by the prophet’s words, as it were by many hands. And the emperors
 
-2134 Jerem. xxiii. 23. 2135 Is. lviii. 9, lxv. 24. \[The citation is from the former passage; but “I will say” from the latter is substituted for “he will say.” So in the last part of the longer citation below.—R.\] 2136 Is. lviii. 6–9. \[LXX., see note above.\] \[το οκεοι, “thy kinsmen,” taken from Isa. lviii. 7., LXX., last clause (see above.)—R.\] 324 \[πρωμον, explained below. Our versions render “as the morning.”—R.\] 2138 2139 Isaiah xxxv. 10. [[1 Corinthians 02#^2-9|1 Cor. ii. 9]].
+2134 Jerem. xxiii. 23. 2135 Is. lviii. 9, lxv. 24. \[The citation is from the former passage; but “I will say” from the latter is substituted for “he will say.” So in the last part of the longer citation below.—R.\] 2136 Is. lviii. 6–9. \[LXX., see note above.\] \[το οκεοι, “thy kinsmen,” taken from Isa. lviii. 7., LXX., last clause (see above.)—R.\]
 
 
 *[p. 589]* ^pg597
@@ -489,6 +495,8 @@ For much as our emperors at the horse races heap together before the combatants 
 And first, let us learn the meaning of “It shall break forth.” For He said not at all, “shall appear,” but “shall break forth;” declaring to us its quickness and plentifulness, and how exceedingly He desires our salvation, and how the good things themselves travail to come forth, and press on; and that which would check their unspeakable force shall be nought; by all which He indicates their plentifulness, and the infinity of His abundance. But what is “the morning.” It means, “not after being in life’s temptations, neither after our evils have come upon us;” nay, it is quite beforehand with them. For as in our fruits, we call that early, which has shown itself before its season; so also here again, declaring its rapidity, he has spoken in this way, much as above He said, “Whilst thou art yet speaking, I will say, Lo! here I am.”
 
 But of what manner of light is He speaking, and what can this light be? Not this, that is sensible; but another far better, which shows us Heaven, the angels, the archangels, the cherubim, the seraphim, the thrones, the dominions, the principalities, the powers, the whole host, the royal palaces, the tabernacles. For shouldest thou be counted worthy of this light, thou shalt both see these, and be delivered from hell, and from the venomous worm, and from the gnashing of teeth, and from the bonds that cannot be broken, and from the anguish and the affliction, from the darkness that hath no light, and from being cut asunder, and from the river of fire, and from the curse, and from the abodes of sorrow; and thou shalt depart, “where sorrow and woe are fled away,”<sup>2139</sup>where great is the joy, and the peace, and the love, and the pleasure, and the mirth; where is life eternal, and unspeakable glory, and inexpressible beauty; where are eternal tabernacles, and the untold glory of the King, and those good things, “which eye hath not seen, nor ear heard, neither have entered into the heart of man;”<sup>2140</sup>where is the spiritual bridechamber, and the apartments of the heavens,
+
+324 \[πρωμον, explained below. Our versions render “as the morning.”—R.\] 2138 2139 Isaiah xxxv. 10. [[1 Corinthians 02#^2-9|1 Cor. ii. 9]].
 
 *[p. 590]* ^pg598
 
@@ -592,7 +600,7 @@ And what marvel, if it be so with the soul? Since even in the body one may see t
 
 Now thus I bid thee reason with regard to thy soul also; or rather even much more with regard to the soul; and do thou, forsaking all besides, spend all thy care upon it. Do not then while taking thought about the things of others, neglect thyself and thine own things; which now all men do, resembling them that work in the mines. For neither do these receive any profit from this labor, nor from the wealth; but rather great harm, both because they incur fruitless peril, and incur it for other men, reaping no benefit from such their toils and deaths. These even now are objects of imitation to many, who are digging up wealth for others; or rather we are more wretched even than this, inasmuch as hell itself awaits us after these our
 
-2152 \[Here the citation agrees with the rec. text.—R.\] \[Here ὑπρ does not occur, the text agreeing with the received.—R.\] 328 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So 2154 R.V.—R.\] 2155 [[1 Corinthians 15#^15-41|1 Cor. xv. 41]]. \[τν πρξιν, the reading accepted in R.V.—R.\]
+2152 \[Here the citation agrees with the rec. text.—R.\] \[Here ὑπρ does not occur, the text agreeing with the received.—R.\]
 
 
 *[p. 596]* ^pg604
@@ -611,6 +619,8 @@ He suffered not however His discourse to appear only dismal, but tempered it als
 
 6\. And He indeed spake it, in part to refresh the good, but I ever shudder at hearing it, for I am not of them that are crowned, and I suppose that others also share with us in our fear and anxiety. For whom is this saying not enough to startle, when he hath entered into
 
+328 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So 2154 R.V.—R.\] 2155 [[1 Corinthians 15#^15-41|1 Cor. xv. 41]]. \[τν πρξιν, the reading accepted in R.V.—R.\]
+
 *[p. 597]* ^pg605
 
 his own conscience; and to make him shudder, and convince him that we have need of sackcloth, and of prolonged fasting, more than the people of the Ninevites? For not for an overthrow of a city, and the common end, are we concerned, but for eternal punishment, and the fire that is never quenched.
@@ -621,7 +631,7 @@ Now this hymn is in all parts worthy of admiration, but especially the above end
 
 For after that feast, then they ventured on those acts of lawless daring. Do thou therefore also look to it, lest something like it befall thee. For though thou sacrifice not to stone nor to gold, either sheep or bullocks, see lest to wrath thou sacrifice thine own soul, lest to whoredom or other like passions, thou sacrifice thine own salvation. Yea—on this account, you see, they being afraid of these downfalls, when they have enjoyed their meal, or rather fasting (for their meal is in fact fasting), remind themselves of the terrible judgment-seat, and of that day. And if they who correct themselves both with fasting, and with nights spent on the ground, with watchings, and with sackcloth, and with ten thousand means, do yet require also this reminding, when will it be possible for us to live virtuously; who set forth tables loaded with innumerable wrecks, and do not so much as pray at all, neither in the beginning nor the end ?
 
-2157 Deut. xxxii. 15 \[LXX.\] Deut. vi. 11, 12. 329 2159 [[Colossians 03#^3-17|Colos. iii. 17]].
+2157 Deut. xxxii. 15 \[LXX.\] Deut. vi. 11, 12.
 
 
 *[p. 598]* ^pg606
@@ -641,6 +651,8 @@ To establish this, Christ Himself said, “How many sparrows do ye exceed in val
 Hereby they stop the mouths, both of the Manichæans, and of them of Valentinus, and of all that are diseased in their way. For sure this Being is not evil, who sets his own stores before all, even before them that blaspheme Him.
 
 Then comes the petition: “Fill our hearts with joy and gladness.” With what manner of joy then, doth it mean? the joy of this world? God forbid: for had they meant this, they would
+
+329 2159 [[Colossians 03#^3-17|Colos. iii. 17]].
 
 2160 [[Luke 12#^12-7|Luke xii. 7]]. \[Very freely cited.\] Deut. viii. 3; [[Matthew 04#^4-4|Matt. iv. 4]].
 
@@ -663,7 +675,7 @@ Therefore neither let us blame these our angels, as acting disorderly, for that 
 
 Wherefore they say, “Glory be to Thee, O Lord; glory be to Thee, O Holy One; glory be to Thee, O King; that Thou hast given us food to make us glad.”
 
-2162 [[Galatians 05#^5-22|Gal. v. 22]]. 2163 [[2 Corinthians 09#^9-8|2 Cor. ix. 8]]. 2164 [[Galatians 01#^1-4|Gal. i. 4]], [[Galatians 01#^1-5|5]]. ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the 2166 Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] \[See above, note 1.—R.\]
+2162 [[Galatians 05#^5-22|Gal. v. 22]]. 2163 [[2 Corinthians 09#^9-8|2 Cor. ix. 8]]. 2164 [[Galatians 01#^1-4|Gal. i. 4]], [[Galatians 01#^1-5|5]].
 
 
 *[p. 600]* ^pg608
@@ -671,6 +683,8 @@ Wherefore they say, “Glory be to Thee, O Lord; glory be to Thee, O Holy One; g
 Since not for the greater things only, but also for the lesser, we ought to give thanks. And they do give thanks for these also, putting to shame the heresy of the Manichæans, and of as many as affirm our present life to be evil. For lest for their high self-command, and contempt of the belly, thou shouldest suspect them as abhorring the meat, like the heretics aforesaid, who choke themselves<sup>2166</sup>to death; they by their prayer teach thee, that not from abhorrence of God’s creatures they abstain from most of them, but as exercising self-restraint.
 
 And see how after thanksgiving for His past gifts, they are importunate also for the greater things, and dwell not upon the mat ters of this life, but mount above the heavens, and say, “Fill us with the Holy Ghost.” For it is not even possible to approve one’s self as one ought, not being filled with that grace; as there is no doing anything noble or great, without the benefit of Christ’s influences.
+
+ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the 2166 Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] \[See above, note 1.—R.\]
 
 330 As therefore when they had said, “That we may abound unto every good work,” they added, “In Christ Jesus;” so here also they say, “Fill us with the Holy Ghost, that we may be found to have been well-pleasing before Thee.”<sup>2167</sup>
 
@@ -700,7 +714,7 @@ And the prophets too, all had both wives and households, as Isaiah, as Ezekiel, 
 
 These then let us also imitate, and continually offer thanksgiving to God, continually sing hymns to Him; let us give heed to temperance, and to all other virtues, and the self-denial that is practised in the deserts, let us bring into our cities; that we may appear both well-pleasing before God, and approved before men, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, through whom and with whom be unto the Father, glory, honor, and might, together with the holy and life-giving Spirit, now and always and world without end. Amen.<sup>2170</sup>
 
-2170 The grace here commented on is in its commencement the same with one still used *before meat* in collegiate bodies: *e.g.* in Oriel College, Oxford. “*Benedicte Deus qui pascis nos in juventute nostra, et præbes cibum omni carni: reple gaudio et lætitia corda nostra, ut nos affatim quod satis est habentes, abundemus ad omne opus bonum: Per Jesum Christum Dominum nostrum*: Amen.” The conclusion of St. Chrysostom’s grace seems to be referred to by St. Just Mart. Apol. 1. p. 83 C. and p. 50 E. as quoted by Mr. Field here. \[γεννη.\] 2171 2172 [[Matthew 16#^16-25|Matt. xvi. 25]]. [[Matthew 16#^16-27|Matt. xvi. 27]]. \[τν πρξιν ατο.\] 2173 2174 [[Matthew 17#^17-1|Matt. xvii. 1]].
+2170 The grace here commented on is in its commencement the same with one still used *before meat* in collegiate bodies: *e.g.* in Oriel College, Oxford. “*Benedicte Deus qui pascis nos in juventute nostra, et præbes cibum omni carni: reple gaudio et lætitia corda nostra, ut nos affatim quod satis est habentes, abundemus ad omne opus bonum: Per Jesum Christum Dominum nostrum*: Amen.” The conclusion of St. Chrysostom’s grace seems to be referred to by St. Just Mart. Apol. 1. p. 83 C. and p. 50 E. as quoted by Mr. Field here.
 
 
 *[p. 602]* ^pg610
@@ -712,6 +726,8 @@ Homily LVI.
 Matt. XVI. 28.
 
 “Verily, verily, I say unto you, There are some of them that stand here, which shall not taste of death, until they see the Son of Man coming in His kingdom.”
+
+\[γεννη.\] 2171 2172 [[Matthew 16#^16-25|Matt. xvi. 25]]. [[Matthew 16#^16-27|Matt. xvi. 27]]. \[τν πρξιν ατο.\] 2173 2174 [[Matthew 17#^17-1|Matt. xvii. 1]].
 
 331 Thus, inasmuch as He had discoursed much of dangers and death, and of His own passion, and of the slaughter of the disciples, and had laid on them those severe injunctions; and these were in the present life and at hand, but the good things in hope and expectation:—for example, “They save their life who lose it;” “He is coming in the glory of His Father;” “He renders His rewards:”—He willing to assure their very sight, and to show what kind of glory that is wherewith He is to come, so far as it was possible for them to learn it; even in their present life He shows and reveals this; that they should not grieve any more, either over their own death, or over that of their Lord, and especially Peter in His sorrow.
 

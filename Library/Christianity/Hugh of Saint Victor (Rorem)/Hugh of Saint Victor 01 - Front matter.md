@@ -4,7 +4,7 @@ work: "[[Rorem - Hugh of Saint Victor]]"
 book: "[[Library/Christianity/Hugh of Saint Victor (Rorem)/Hugh of Saint Victor (Rorem)|Hugh of Saint Victor (Rorem)]]"
 order: 1
 source_pdf: Library/Christianity/Rorem - Hugh of Saint Victor (OUP 2009).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

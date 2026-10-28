@@ -4,7 +4,7 @@ work: "[[White (ed.) - Tantra in Practice]]"
 book: "[[Library/Hinduism/Tantra in Practice (White)/Tantra in Practice (White)|Tantra in Practice (White)]]"
 order: 2
 source_pdf: Library/Hinduism/David Gordon White - Tantra in Practice (2000).pdf
-page_range: 4–38
+page_range: "vi–38"
 pdf_pages: 4–54
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -243,7 +243,7 @@ Century Yogasastra of Hemacandra
 
 Tantra Revisited by the Isma'ili Preachers 
 
-*[PDF 14]* ^pg14
+*[p. xv]* ^pg14
 
 *CONTENTS* 
 

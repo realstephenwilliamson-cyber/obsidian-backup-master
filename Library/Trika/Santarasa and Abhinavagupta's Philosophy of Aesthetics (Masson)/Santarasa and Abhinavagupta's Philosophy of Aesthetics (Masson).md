@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Santarasa and Abhinavagupta's 01 - Front matter|Front matter]] (pp. Cover–vi)
+- [[Santarasa and Abhinavagupta's 01 - Front matter|Front matter]] (pp. i–vi)
 - [[Santarasa and Abhinavagupta's 02 - Contents|Contents]] (pp. vii–viii)
 - [[Santarasa and Abhinavagupta's 03 - Foreword|Foreword]] (pp. ix–x)
 - [[Santarasa and Abhinavagupta's 04 - Preface|Preface]] (pp. xi–xii)

@@ -24,7 +24,7 @@ received it when it was given, repented, found grace, and believing drunk that B
 
 2955 [[Acts 02#^2-37|Acts ii. 37]]. 2956 [[Galatians 05#^5-22|Gal. v. 22]]. 2957 [[Matthew 21#^21-21|Matt. xxi. 21]]. 2958 [[Matthew 21#^21-22|Matt. xxi. 22]]. 2959 [[John 15#^15-5|John xv. 5]].
 
-2960 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. Isa. ii. 2. 390 2962 [[Acts 13#^13-46|Acts xiii. 46]], etc.; Isa. xlix. 6. 2963 Isa. v. 6.
+2960 The meaning of “*facio*” as “to *do*,” and “to make,” cannot be expressed in our language. Isa. ii. 2.
 
 
 *[p. 813]* ^pg839
@@ -35,6 +35,8 @@ been done, and done by the Apostles. The tree is the Jewish nation, but I say ag
 
 3\. Now that in order to convey this truth the Lord acted prophetically, I mean that, as concerning this tree, it was not His will merely to exhibit a miracle, but that by the miracle He conveyed the intimation of something to come, there are many things which teach and persuade us, yea even against our wills force us to believe. In the first place, what fault in the tree was it that it had no fruit, when even if it had no fruit at the proper season, that is, the season of its fruit, it would not assuredly be any fault in the tree; for the tree as being without sense and reason could not be to blame. But to this is added, that as we read it in the narrative of the other Evangelist who expressly mentions this, “it was not the time for that fruit.”<sup>2964</sup> For that was the time when the fig-tree shoots forth its tender leaves, which come, we know, before the fruit; and this we prove, because the day of the Lord’s Passion was at hand, and we know at what time He suffered; and if we did not know it, we ought of course to give credit to the Evangelist who says, “The time of figs was not yet.” So then if it was only a miracle that was to have been set forth, and not something to be prophetically figured, it would have been much more worthy of the clemency and mercy of the Lord, to have made green again any tree He might find withered; as He healed the sick, as He cleansed the lepers, as He raised the dead. But then contrariwise, as though against the ordinary rule of His clemency, He found a green tree, not yet bearing fruit out of its proper season, but still not refusing the hope of fruit to its dresser, and He withered it away; as though He
 
+390 2962 [[Acts 13#^13-46|Acts xiii. 46]], etc.; Isa. xlix. 6. 2963 Isa. v. 6.
+
 *[p. 814]* ^pg840
 
 *On the words of the Gospel, [[Matthew 21#^21-19|Matt. xxi. 19]], where Jesus dried up the fig-tree;…*
@@ -43,7 +45,7 @@ would say to us, “I have no delight in the withering away of this tree, but th
 
 4\. This one thing is that which the Lord intimates that He designed to signify by what He did. What else is there? He cometh to the tree being hungry, and seeketh fruit. Did He not know that it was not the time for it? What the cultivator of the tree knew, did not its Creator know? He seeketh on the tree then for fruit which it had not yet. Doth He really seek for it, or rather make a pretence of seeking it? For if He really sought it, He was mistaken. But this be far from Him, to be mistaken! He made then a pretence of seeking it. Fearing to allow this, that he maketh a pretence, thou dost confess that He was mistaken. Again, thou dost turn away from the idea of His being mistaken, and so run into that of His making a pretence. We are parched up between the two. If we are parched, let us beg for rain, that we may grow green, lest in saying anything unworthy of the Lord, we rather wither away. The Evangelist indeed says, “He came to the tree, and found no fruit on it.”<sup>2965</sup> “He found none,” would not be said of Him, unless He had either really sought for it, or made a pretence of seeking, though He knew that there was none there. Wherefore we do not hesitate, let us by no means say that Christ was mistaken. What then? shall we say He made a pretence? Shall we say this? How shall we get out of this difficulty? Let us say what, if the Evangelist had not said of the Lord in another place, we should not of ourselves dare to say. Let us say what the Evangelist has written, and when we have said, let us understand it. But in order that we may understand it, let us first believe. For, “unless ye believe,” says the Prophet, “ye shall not understand.”<sup>2966</sup> The Lord Christ after His Resurrection, was walking in the way with two of His disciples, by whom He was not yet recognised, and with whom He joined company as a third traveller. They came to the place whither they were going, and the Evangelist says, “But He made a pretence as though He would have gone further.”<sup>2967</sup> But they kept Him, saying, in the spirit of a courteous kindness,<sup>2968</sup> that it was already drawing toward evening, and praying Him to tarry there with them; being received and entertained by them, He breaketh Bread, and is known of them in blessing and breaking of the Bread. So then, let us not now fear to say, that He made a pretence of seeking, if He made a pretence
 
-2965 [[Matthew 21#^21-19|Matt. xxi. 19]]. 2966 Isa. vii. 9, Sept. 2967 [[Luke 24#^24-28|Luke xxiv. 28]]. *More humanitatis*. 391 2969 Probably in that Sermon which is marked as next before this in Posidonius’ Catalogue, ch. 9, namely, “From the Epistle to the Galatians, where Paul reproved Peter.” Ben ed. note.
+2965 [[Matthew 21#^21-19|Matt. xxi. 19]]. 2966 Isa. vii. 9, Sept. 2967 [[Luke 24#^24-28|Luke xxiv. 28]]. *More humanitatis*.
 
 
 *[p. 815]* ^pg841
@@ -53,6 +55,8 @@ would say to us, “I have no delight in the withering away of this tree, but th
 of going further. But here there arises another question. Yesterday<sup>2969</sup> I insisted<sup>2970</sup> at some length on the truth which is in the Apostles; how then do we find any “pretence” in the Lord Himself? Therefore, Brethren, I must tell you, and teach you according to my poor abilities, which the Lord giveth me for your benefit, and must convey to you what ye may hold as a rule<sup>2971</sup> in the interpretation of all Scripture. Everything that is said or done is to be understood either in its literal signification, or else it signifies something figuratively; or at least contains both of these at once, both its own literal interpretation,<sup>2972</sup> and a figurative signification also. Thus I have set forth three things, examples of them must now be given; and from whence, but from the Holy Scriptures? It is said in its literal acceptation, that the Lord suffered, that He rose again, and ascended into heaven; that we shall rise again at the end of the world, that we shall reign with Him for ever, if we do not despise Him. Take all this as spoken literally, and look not out for figures; as it is expressed, so it really is. And so also with divers actions. The Apostle went up to Jerusalem to see Peter, the Apostle actually did this, it actually took place, it was an action peculiar to himself. It is a fact which he tells you; a simple fact according to its literal meaning. “The stone which the builders refused, is become the Head of the corner,”<sup>2973</sup> is spoken in a figure. If we take “the stone” literally, what “stone did the builders refuse, which became the Head of the corner”? If we take “the stone” literally, of what corner is this “stone” become the Head? If we admit that it was figuratively expressed, and take it figuratively, the Corner-stone is Christ: the head of the corner, is the Head of the Church. Why is the Church the Corner? Because she has called the Jews from one side, and the Gentiles from another, and these two walls as it were coming from different quarters, and meeting together in one, she has bound together by the grace of her peace. For, “He is our peace, who hath made both one.”<sup>2974</sup>
 
 5\. Ye have heard instances of a literal expression, and a literal action, and of a figurative expression; ye are waiting for an instance of a figurative action. There are many such, but meanwhile, as is suggested by this mention of the corner-stone, when Jacob anointed the stone which he had placed at his head as he slept, and in his sleep saw a mysterious<sup>2975</sup> dream, ladders rising from the earth to heaven, and Angels ascending and descending, and the Lord standing upon the ladder,<sup>2976</sup> he understood what it was designed to figure, and
+
+391 2969 Probably in that Sermon which is marked as next before this in Posidonius’ Catalogue, ch. 9, namely, “From the Epistle to the Galatians, where Paul reproved Peter.” Ben ed. note.
 
 2970 *Commendavimus*. 2971 *Regulariter*. 2972 *Cognitionem*. 2973 [[Matthew 21#^21-42|Matt. xxi. 42]]; Ps. cxviii. 22. 2974 [[Ephesians 02#^2-14|Eph. ii. 14]]. 2975 *Magnum*. Gen. xxviii. 11, etc.
 
@@ -67,7 +71,7 @@ took the stone for a figure of Christ, to prove to us thereby that he was no str
 
 2977 Gen. xxv. 27. 2978 [[John 01#^1-47|John i. 47]], etc. 2979 [[1 Corinthians 11#^11-3|1 Cor. xi. 3]].
 
-2980 [[Acts 09#^9-4|Acts ix. 4]]. 2981 [[Galatians 01#^1-18|Gal. i. 18]]. [[Galatians 04#^4-22|Gal. iv. 22]]. 392 2983 [[Matthew 13#^13-3|Matt. xiii. 3]], etc. See Serm. vi. (lvi. Ben.) 10 (vi.) note.
+2980 [[Acts 09#^9-4|Acts ix. 4]]. 2981 [[Galatians 01#^1-18|Gal. i. 18]]. [[Galatians 04#^4-22|Gal. iv. 22]].
 
 
 *[p. 817]* ^pg843
@@ -77,6 +81,8 @@ took the stone for a figure of Christ, to prove to us thereby that he was no str
 fact; are ye looking for that which was figured in it? “These are the two Testaments.” That then which is spoken figuratively, is a sort of fiction. But since it has some real event represented by it, and the very figure itself has its ground of truth, it escapes all imputation of falsehood. “The sower went out to sow his seed; and as he sowed, some fell by the way side, some fell upon stony places, some fell among thorns, and some fell upon good ground.”<sup>2983</sup> Who went out “to sow,” or when went he out, or upon what “thorns,” or “stones” or “way side” or in what field did he sow? If we receive this as a fictitious story, we understand it in a figurative sense; it is fictitious. For if any sower really went out, and did cast the seed in these different places, as we have heard, it were no fiction, and so no falsehood. But now though it be a fiction, yet it is no falsehood. Why? Because the fiction has some further signification, it deceives thee not. It requires only one to understand it, and does not lead any one into error. And thus Christ wishing to convey this lesson to us, sought for fruit, and hereby set forth to us a figurative, and no deceiving fiction; a fiction therefore worthy of praise, not of blame; not one by the examination of which we might run into what was false; but by the diligent investigation of which we might discover what is true.
 
 7\. I see that one may say, Explain to me; what did that signify, that “He made a pretence of going further”? For if it had no further meaning, it is a deceit, a lie. We must then according to our rules of exposition, and distinctions, tell you what this “pretence of going further,” signified; “He made a pretence of going further,” and is kept back from going further. In so far then as the Lord Christ being as they supposed absent in respect of His Bodily presence, was thought to be really absent, He will as it were “go further.” But hold Him fast by faith, hold Him fast at the breaking of Bread. What shall I say more? Have ye recognised Him? If so, then have ye found Christ. I must not speak<sup>2984</sup> any longer on this Sacrament. They who put off the knowledge of this Sacrament, Christ goeth further from them. Let them then hold It fast, let them not let Him go; let them invite Him to their home, and so they are invited to heaven.
+
+392 2983 [[Matthew 13#^13-3|Matt. xiii. 3]], etc. See Serm. vi. (lvi. Ben.) 10 (vi.) note.
 
 *[p. 818]* ^pg844
 
@@ -92,7 +98,7 @@ Sermon XL.
 
 2985 The great Church in Carthage where the bodies of the Martyr Sts. Perpetua and Felicitas lay. See Ben. ed. in Sermon xix. note. 2986 *Baptized fideles*. 2987 *Apparatus*. 2988 *Voluntati omnium*. 2989 [[1 Corinthians 11#^11-29|1 Cor. xi. 29]].
 
-2990 *Liquido*. 2991 [[Matthew 19#^19-17|Matt. xix. 17]]. 2992 [[Matthew 07#^7-11|Matt. vii. 11]]. 393 2994 [[Matthew 22#^22-10|Matt. xxii. 10]]. 2995 [[1 John 01#^1-8|1 John i. 8]]. [[1 John 01#^1-9|1 John i. 9]].
+2990 *Liquido*. 2991 [[Matthew 19#^19-17|Matt. xix. 17]]. 2992 [[Matthew 07#^7-11|Matt. vii. 11]].
 
 
 *[p. 819]* ^pg845
@@ -105,6 +111,8 @@ dressing them all together, He said, “If ye being evil.” Peter heard this, J
 
 4\. But one will say, What of one man? what strange, what great matter is it, if one among the crowd “not having a wedding garment” crept in unperceived to the servants of the Householder? Could it be said because of that one, “they invited good and bad”? Attend therefore, my Brethren, and understand. That one man represented one class; for they were
 
+393 2994 [[Matthew 22#^22-10|Matt. xxii. 10]]. 2995 [[1 John 01#^1-8|1 John i. 8]]. [[1 John 01#^1-9|1 John i. 9]].
+
 *[p. 820]* ^pg846
 
 *On the words of the Gospel, [[Matthew 22#^22-2|Matt. xxii. 2]], etc., about the marriage of the…*
@@ -113,7 +121,7 @@ many. Here some diligent hearer may answer me, and say, “I have no wish for yo
 
 2997 Serm. xlv. (xcv. Ben.) 6. 2998 [[Matthew 22#^22-11|Matt. xxii. 11]]. 2999 [[Matthew 22#^22-12|Matt. xxii. 12]].
 
-3000 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 [[2 Corinthians 05#^5-3|2 Cor. v. 3]]. 3003 [[Matthew 22#^22-13|Matt. xxii. 13]]. 394 3005 [[Matthew 08#^8-11|Matt. viii. 11]]. Exod. vii.
+3000 Ps. cxxxii. 9. 3001 See note, Serm. viii. (lviii. Ben.) 13 (xi.). 3002 [[2 Corinthians 05#^5-3|2 Cor. v. 3]]. 3003 [[Matthew 22#^22-13|Matt. xxii. 13]].
 
 
 *[p. 821]* ^pg847
@@ -123,6 +131,8 @@ many. Here some diligent hearer may answer me, and say, “I have no wish for yo
 not cast out. He was it is true but one man “who had not the wedding garment. Cast him out.” But why is he cast out? “For many are called, but few chosen.” Leave alone the few, cast out the many. It is true, that man was but one. Yet undoubtedly that one not only was many, but those many in numbers far surpassed the number of the good. For the good are many also; but in comparison of the bad, they are few. In the crop there is much wheat; compare it with the chaff, and the grains of corn are few. The same persons considered in themselves are many, in comparison with the bad are few. How do we prove that in themselves they are many? “Many shall come from the East and from the West.” Whither shall they come? To that feast, into which both good and bad enter. But speaking of another feast, He subjoined, “and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven.”<sup>3005</sup> That is the feast to which the bad shall not approach. Be that feast which now is, received worthily, that we may attain to the other. The same then are many, who are also few; in themselves many; in comparison with the bad few. Therefore what saith the Lord? He found one, and said, “Let the many be cast out, the few remain.” For to say, “many are called, but few chosen,” is nothing else than to show plainly who in this present feast are accounted to be such, as to be brought to that other feast, where no bad men shall come.
 
 5\. What is it then? I would not that ye all who approach the Lord’s Table which is in this life, should be with the many who are to be shut out, but with the few who are to be reserved. And how shall ye be able to attain to this? Take “the wedding garment.” Ye will say, “Explain this ‘wedding garment’ to us.” Without a doubt, that is the garment which none but the good have, who are to be left at the feast, reserved unto that other feast to which no bad man approaches, who are to be brought safely thither by the grace of the Lord; these have “the wedding garment.” Let us then, my Brethren, seek for those among the faithful who have something which bad men have not, and this will be “the wedding garment.” If we speak of sacraments, ye see how that these are common to the bad and good. Is it Baptism? Without Baptism it is true no one attaineth to God; but not every one that hath Baptism attaineth to Him. I cannot therefore understand Baptism, the Sacrament itself that is, to be “the wedding garment;” for this garment I see in the good, I see in the bad. Peradventure it is the Altar, or That which is received at the Altar. But no; we see that many eat, and “eat and drink judgment to themselves.” What is it then? Is it fasting? The wicked fast also. Is it running together to the Church? The wicked run thither also. Lastly, is it miracles? Not only do the good and bad perform them, but sometimes the good perform them not. See, among the ancient people Pharaoh’s magicians wrought miracles, the Israelites did not; among the Israelites, Moses only and Aaron wrought them; the rest did not, but saw, and feared, and believed.<sup>3006</sup> Were the magicians of Pharaoh who did miracles, better men than the people
+
+394 3005 [[Matthew 08#^8-11|Matt. viii. 11]]. Exod. vii.
 
 *[p. 822]* ^pg848
 
@@ -339,7 +349,7 @@ Sermon XLIII.
 
 5\. Of these then, my Brethren, yea, of these let us the rather treat. He who will not see what is evil, he who will not hear what is evil, he that turneth away his smell from the unlawful fumes, and his taste from the unlawful food of the sacrifices, he who refuseth the embrace of another man’s wife, breaketh his bread to the hungry, bringeth the stranger into his house, clotheth the naked, reconcileth the litigious, visiteth the sick, burieth the dead; he surely is a virgin, surely he hath lamps. What seek we more? Something yet I seek. What seekest thou
 
-3091 [[Matthew 05#^5-16|Matt. v. 16]]. 3092 [[Luke 12#^12-35|Luke xii. 35]]. 3093 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]]. [[2 Corinthians 11#^11-3|2 Cor. xi. 3]]. 403 3095 *Supereminentiorem*. [[1 Corinthians 12#^12-31|1 Cor. xii. 31]]. 3096 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]]. 3097 *Vincit*. 3098 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. *Cadit*. 3099 [[Matthew 24#^24-12|Matt. xxiv. 12]], [[Matthew 24#^24-13|13]].
+3091 [[Matthew 05#^5-16|Matt. v. 16]]. 3092 [[Luke 12#^12-35|Luke xii. 35]]. 3093 [[2 Corinthians 11#^11-2|2 Cor. xi. 2]]. [[2 Corinthians 11#^11-3|2 Cor. xi. 3]].
 
 
 *[p. 840]* ^pg866
@@ -349,6 +359,8 @@ Sermon XLIII.
 yet, one will say? Something yet I seek; the Holy Gospel hath set me on the search. It hath said that even of these, virgins, and carrying lamps, some are wise and some foolish. By what do we see this? By what make the distinction? By the oil. Some great, some exceedingly great thing doth this oil signify. Thinkest thou that it is not charity? This we say as searching out what it is; we hazard no precipitate judgment. I will tell you why charity seems to be signified by the oil. The Apostle says, “I show unto you a way above the rest.”<sup>3095</sup> Though I speak with the tongues of men and of Angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.”<sup>3096</sup> This, that is “charity,” is “that way above the rest,” which is with good reason signified by the oil. For oil swims above all liquids. Pour in water, and pour in oil upon it, the oil will swim above. Pour in oil, pour in water upon it, the oil will swim above. If you keep the usual order, it will be uppermost;<sup>3097</sup> if you change the order, it will be uppermost. “Charity never falleth.”<sup>3098</sup>
 
 6\. What is it then, Brethren? Let us treat now of the five wise and the five foolish virgins. They wished to go to meet the Bridegroom. What is the meaning of “to go and meet the Bridegroom”? To go with the heart, to be waiting for his coming. But he tarried. “While he tarries, they all slept.” What is “all”? Both the foolish and the wise, “all slumbered and slept.” Think we is this sleep good? What is this sleep? Is it that at the tarrying of the Bridegroom, “because iniquity aboundeth, the love of many waxeth cold”? Are we to understand this sleep so? I like it not. I will tell you why. Because among them are the wise virgins; and certainly when the Lord said, “Because iniquity shall abound, the love of many shall wax cold;” He went on to say, “But he that shall endure unto the end, the same shall be saved.”<sup>3099</sup> Where would ye have those wise virgins be? Are they not among those that “shall endure unto the end”? They would not be admitted within at all, Brethren, for any other reason, than because they have “endured unto the end.” No coldness of love then crept over them, in them love did not wax cold; but preserves its glow even unto the end. And because it glows even unto the end, therefore are the gates of the Bridegroom opened to them; therefore are they told to enter in, as that excellent servant, “Enter thou into the joy of thy Lord.”<sup>3100</sup> What then is the meaning of they “all slept”?<sup>3101</sup> There is another sleep which no one escapes. Remember ye not the Apostle saying, “But I would not have you to be ignorant, brethren, concerning them which are asleep,”<sup>3102</sup> that is, concerning them which are dead? For why
+
+403 3095 *Supereminentiorem*. [[1 Corinthians 12#^12-31|1 Cor. xii. 31]]. 3096 [[1 Corinthians 13#^13-1|1 Cor. xiii. 1]]. 3097 *Vincit*. 3098 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. *Cadit*. 3099 [[Matthew 24#^24-12|Matt. xxiv. 12]], [[Matthew 24#^24-13|13]].
 
 3100 [[Matthew 25#^25-21|Matt. xxv. 21]]. 3101 [[Matthew 25#^25-5|Matt. xxv. 5]]. [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]].
 
@@ -423,7 +435,7 @@ them their late repentance, when the true wisdom mocked them? Therefore “the d
 
 3127 [[Matthew 25#^25-12|Matt. xxv. 12]]. 3128 [[Matthew 25#^25-13|Matt. xxv. 13]]. 3129 *Vegetentur*.
 
-3130 *Incorporeis*. *Fluctuant*. 406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. [[Ephesians 06#^6-5|Eph. vi. 5]]; [[Titus 02#^2-9|Tit. ii. 9]].
+3130 *Incorporeis*. *Fluctuant*.
 
 
 *[p. 846]* ^pg872
@@ -435,6 +447,8 @@ Sermon XLIV.
 \[XCIV. Ben.\] *On the words of the Gospel, [[Matthew 25#^25-24|Matt. xxv. 24]], etc., where the slothful servant who would not put out the talent he had received, is condemned.*
 
 1\. My lords, my brethren, and fellow bishops have deigned to visit us and gladden us by their presence; but I know not why they are unwilling to assist me, when wearied. I have said this to you, Beloved, in their hearing, that your hearing may in a manner intercede for me with them, that when I ask them they also may discourse unto you in their turn. Let them dispense what they have received, let them vouchsafe to work rather than excuse themselves. Be pleased, however, to hear from me, fatigued though I be and have difficulty in speaking, a few words only. For we have besides a record of God’s mercies vouchsafed through a holy Martyr, which we must give willing audience to altogether.<sup>3132</sup> What is it then? what shall I say unto you? Ye have heard in the Gospel both the due recompense<sup>3133</sup> of the good servants, and the punishment of the bad. And the whole wickedness of that servant who was reprobate and severely condemned, was that he would not put out his money to use. He kept the entire sum he had received; but the Lord looked for profit from it. God is coveteous with regard to our salvation. If he who did not put out to use is so condemned, what must they look for who lose what they have received? We then are the dispensers, we put out, ye receive. We look for profit; do ye live well. For this is the profit in our dealings with you. But do not think that this office of putting out to use does not belong to you also. Ye cannot execute it indeed from this elevated seat, but ye can wherever ye chance to be. Wherever Christ is attacked, defend Him; answer murmurers, rebuke blasphemers, from their fellowship keep yourselves apart. So do ye put out to use, if ye make gain of any. Discharge our office in your own houses. A bishop is called from hence, because he superintends, because he takes care and attends to others. To every man then, if he is the head of his own house, ought the office of the Episcopate to belong, to take care how his household believe, that none of them fall into heresy, neither wife, nor son, nor daughter, nor even his slave, because he has been bought at so great a price. The Apostolic teaching has set the master over the slave, and put the slave under the master; <sup>3134</sup> nevertheless Christ gave the same price for both. Do not neglect then the least of those belonging to you, look after the salvation of all your household with all vigilance. This if ye do, ye put out to use; ye will not be slothful servants, ye will not have to fear so horrible a condemnation.
+
+406 3132 *Vid*. Serm. xxix. (lxxix. Ben.). 3133 *Meritum*. [[Ephesians 06#^6-5|Eph. vi. 5]]; [[Titus 02#^2-9|Tit. ii. 9]].
 
 *[p. 847]* ^pg873
 
@@ -452,7 +466,7 @@ Sermon XLV.
 
 3135 *Saginam laudis eructuate*. 3136 [[Mark 08#^8-6|Mark viii. 6]]. 3137 Ps. cxix. 164. 3138 Ps. xxxiv. 1. 3139 [[Revelation 01#^1-4|Rev. i. 4]].
 
-3140 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu. 407 3142 [[Matthew 15#^15-38|Matt. xv. 38]]. 3143 [[Matthew 22#^22-11|Matt. xxii. 11]]. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. [[Philippians 02#^2-6|Phil. ii. 6]].
+3140 *Voraces*, Edd. ant.; *veraces*, B from 1Ms. 2da manu.
 
 
 *[p. 848]* ^pg874
@@ -462,6 +476,8 @@ Sermon XLV.
 For so it is said, “And they that did eat were four thousand men, excepting women and children.”<sup>3142</sup> As though the void of understanding, and the effeminate were without number. Yet let even these eat. Let them eat: it may be the children will grow, and will be children no more; it may be the effeminate will be amended, and become chaste. Let them eat; we dispense, we deal out to them. But who these are, God inspecteth His feast, and if they do not amend themselves, He who knew how to invite them thither, knoweth also how to separate them from the rest.
 
 4\. Ye know it, dearly Beloved; call to mind the parable of the Gospel, how that the Lord came in to inspect the guests at a certain feast of His. The Master of the house who had invited them, as it is written, “found there a man which had not on a wedding garment.”<sup>3143</sup> For to the marriage had that Bridegroom invited them who is “fair in beauty above the children of men.” That Bridegroom became deformed because of His deformed spouse, that he might make her fair. How did the Fair One become deformed? If I do not prove it, I am blaspheming. The testimony of his fair beauty the Prophet gives me, who saith, “Thou art fair in beauty above the children of men.”<sup>3144</sup> The testimony of his deformity another Prophet gives me, who saith, “We saw Him, and He had no grace, nor beauty; but His countenance was marred, and His whole look<sup>3145</sup> deformed.”<sup>3146</sup> O Prophet, who saidst, “Thou art fair in beauty above the children of men;” thou art contradicted; another Prophet cometh out against thee, and saith, “Thou speakest falsely. We have seen Him. What is this that thou sayest, ‘Thou art fair in beauty above the children of men? We have seen Him, and He had no grace nor beauty.’” Are then these two Prophets at disagreement in the Corner-stone of peace? Both spake of Christ, both spake of the Cornerstone. In the corner the walls unite. If they do not unite, it is not a building, but a ruin. No, the Prophets agree, let us not leave them in strife. Yea, rather let us understand their peace; for they know not how to strive. O Prophet, who saidst, “Thou art fair in beauty above the children of men;” where didst thou see Him? Answer me, answer where didst thou see Him? “Being in the form of God, He thought it not robbery to be equal with God.”<sup>3147</sup> There I saw Him. Dost thou doubt that He who is “equal with God” is “fair in beauty above the children of men”? Thou hast answered; now let him answer who said, “We saw Him, and He had no grace, nor beauty.” Thou hast said so; tell us where didst thou see Him? He begins from the other’s words; where the other ended, there he begins. Where did he end? “Who being in the form of God, thought
+
+407 3142 [[Matthew 15#^15-38|Matt. xv. 38]]. 3143 [[Matthew 22#^22-11|Matt. xxii. 11]]. 3144 Ps. xliv. 3 (xlv. 2, English version). 3145 *Positio*. 3146 Isa. liii. 2, Sept. [[Philippians 02#^2-6|Phil. ii. 6]].
 
 *[p. 849]* ^pg875
 

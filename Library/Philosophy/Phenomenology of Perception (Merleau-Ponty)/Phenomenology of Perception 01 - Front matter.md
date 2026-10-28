@@ -4,7 +4,7 @@ work: "[[Merleau-Ponty - Phenomenology of Perception]]"
 book: "[[Library/Philosophy/Phenomenology of Perception (Merleau-Ponty)/Phenomenology of Perception (Merleau-Ponty)|Phenomenology of Perception (Merleau-Ponty)]]"
 order: 1
 source_pdf: Library/Philosophy/Merleau-Ponty - Phenomenology of Perception (2012).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

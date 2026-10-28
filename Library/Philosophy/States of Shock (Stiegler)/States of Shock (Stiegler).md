@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[States of Shock 01 - Front matter|Front matter (Cover, Dedication, Title page, Copyright page, Contents)]] (pp. C1–vi)
+- [[States of Shock 01 - Front matter|Front matter (Cover, Dedication, Title page, Copyright page, Contents)]] (pp. i–vi)
 - [[States of Shock 02 - Introduction|Introduction]] (pp. 1–12)
 - [[States of Shock 03 - Part I and Chapters 1-2, Unreason - Doing and Saying Stupid Things in the Twentieth Century|Part I and Chapters 1–2, Unreason – Doing and Saying Stupid Things in the Twentieth Century]] (pp. 13–58)
 - [[States of Shock 04 - Chapter 2 (end), Chapters 3-4, Differance and Repetition - Apres Coup, the Differend|Chapter 2 (end), Chapters 3–4, Différance and Repetition – Après Coup, the Differend]] (pp. 59–104)
@@ -25,4 +25,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[States of Shock 06 - Part II The University with Conditions|Part II: The University with Conditions]] (pp. 149–220)
 - [[States of Shock 07 - Notes|Notes]] (pp. 221–273)
 - [[States of Shock 08 - Index|Index]] (pp. 274–282)
-- [[States of Shock 09 - EULA|EULA]] (pp. A1)
+- [[States of Shock 09 - EULA|EULA]] (PDF 291)

@@ -4,7 +4,7 @@ work: "[[Heidegger - The Question Concerning Technology and Other Essays]]"
 book: "[[Library/Philosophy/The Question Concerning Technology and Other Essays (Heidegger)/The Question Concerning Technology and Other Essays (Heidegger)|The Question Concerning Technology and Other Essays (Heidegger)]]"
 order: 1
 source_pdf: Library/Philosophy/Heidegger - The Question Concerning Technology and Other Essays (1977).pdf
-page_range: Cover–xi
+page_range: "iii–xi"
 pdf_pages: 1–9
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

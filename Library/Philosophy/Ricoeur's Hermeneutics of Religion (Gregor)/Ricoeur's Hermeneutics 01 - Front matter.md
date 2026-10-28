@@ -4,7 +4,7 @@ work: "[[Gregor - Ricoeur's Hermeneutics of Religion]]"
 book: "[[Library/Philosophy/Ricoeur's Hermeneutics of Religion (Gregor)/Ricoeur's Hermeneutics of Religion (Gregor)|Ricoeur's Hermeneutics of Religion (Gregor)]]"
 order: 1
 source_pdf: Library/Philosophy/Gregor - Ricoeur's Hermeneutics of Religion (2019).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

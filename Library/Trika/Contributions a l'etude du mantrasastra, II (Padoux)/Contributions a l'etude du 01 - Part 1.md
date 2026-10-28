@@ -4,7 +4,7 @@ work: "[[Padoux - Contributions a l'etude du mantrasastra II]]"
 book: "[[Library/Trika/Contributions a l'etude du mantrasastra, II (Padoux)/Contributions a l'etude du mantrasastra, II (Padoux)|Contributions a l'etude du mantrasastra, II (Padoux)]]"
 order: 1
 source_pdf: Library/Trika/Padoux - Contributions a l'etude du mantrasastra II (1980).pdf
-page_range: Présentation–102
+page_range: "59–102"
 pdf_pages: 1–45
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

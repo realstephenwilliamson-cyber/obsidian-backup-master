@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 
 ## Contents
 
-- [[Tantraloka Dyczkowski v09 01 - Front matter|Front matter]] (pp. 1–viii)
+- [[Tantraloka Dyczkowski v09 01 - Front matter|Front matter]] (pp. iii–viii)
 - [[Tantraloka Dyczkowski v09 02 - Contents, part 1|Contents, part 1]] (pp. ix–x)
 - [[Tantraloka Dyczkowski v09 03 - Contents, part 2|Contents, part 2]] (pp. xi)
 - [[Tantraloka Dyczkowski v09 04 - Contents, part 3|Contents, part 3]] (pp. xii–xvi)

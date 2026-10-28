@@ -4,7 +4,7 @@ work: "[[Merleau-Ponty - The Visible and the Invisible]]"
 book: "[[Library/Philosophy/The Visible and the Invisible (Merleau-Ponty)/The Visible and the Invisible (Merleau-Ponty)|The Visible and the Invisible (Merleau-Ponty)]]"
 order: 1
 source_pdf: Library/Philosophy/Maurice Merleau-Ponty - The Visible and the Invisible.pdf
-page_range: a–x
+page_range: "vii–x"
 pdf_pages: 1–5
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

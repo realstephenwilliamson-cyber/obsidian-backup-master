@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Politics, Economy, and Society 01 - Front matter|Front matter (Cover, Title page, Copyright page, Contents)]] (pp. cover–vi)
+- [[Politics, Economy, and Society 01 - Front matter|Front matter (Cover, Title page, Copyright page, Contents)]] (pp. i–vi)
 - [[Politics, Economy, and Society 02 - Editor's Introduction|Editor’s Introduction]] (pp. vii–xii)
 - [[Politics, Economy, and Society 03 - Note on the French Edition|Note on the French Edition]] (pp. xiii–xiv)
 - [[Politics, Economy, and Society 04 - I Theological-Political Prologue|I Theological-Political Prologue]] (pp. 1–2)

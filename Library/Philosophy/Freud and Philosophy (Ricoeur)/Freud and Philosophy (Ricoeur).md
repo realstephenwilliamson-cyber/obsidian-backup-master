@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Freud and Philosophy 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. Cover–vi)
+- [[Freud and Philosophy 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. iii–vi)
 - [[Freud and Philosophy 02 - Contents|Contents]] (pp. vii–x)
 - [[Freud and Philosophy 03 - Preface|Preface]] (pp. xi–xiii)
 - [[Freud and Philosophy 04 - Translator's Note|Translator's Note]] (pp. xiv)

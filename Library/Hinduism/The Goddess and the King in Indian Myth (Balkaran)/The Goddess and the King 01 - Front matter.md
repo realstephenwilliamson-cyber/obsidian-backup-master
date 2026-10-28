@@ -4,7 +4,7 @@ work: "[[Balkaran - The Goddess and the King in Indian Myth]]"
 book: "[[Library/Hinduism/The Goddess and the King in Indian Myth (Balkaran)/The Goddess and the King in Indian Myth (Balkaran)|The Goddess and the King in Indian Myth (Balkaran)]]"
 order: 1
 source_pdf: Library/Hinduism/Balkaran - The Goddess and the King in Indian Myth (2019).pdf
-page_range: Cover–xii
+page_range: "i–xii"
 pdf_pages: 1–13
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

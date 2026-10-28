@@ -440,7 +440,7 @@ Rabbi Yehudah opened, *“She does not fear for her household because of snow, f
 
 [^42]: **El’azar, you have made it impossible…** His presentation has been so profound that none of the other Companions will dare to say anything further. See above at note 10.
 
-[^43]: ***Letting loose springs in streams*…** On these verses, see *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-220a|2:220a]].
+[^43]: ***Letting loose springs in streams*…** On these verses, see *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-220a|2:220a]].
 
 [^44]: **When supernal Wisdom struck its engravings…** When *Ḥokhmah* stimulated the primordial sefirotic designs engraved within it, the river of *Binah* issued, including all Her fifty gates.
 

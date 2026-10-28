@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Age of Disruption 01 - Front matter|Front matter (Cover, Title page, Copyright page)]] (pp. cover–iv)
+- [[The Age of Disruption 01 - Front matter|Front matter (Cover, Title page, Copyright page)]] (pp. i–iv)
 - [[The Age of Disruption 02 - Contents|Contents]] (pp. v–viii)
 - [[The Age of Disruption 03 - Part One The Epokhe of My Life|Part One The Epokhē of My Life]] (pp. 1–2)
 - [[The Age of Disruption 04 - 1 Disruption A 'New Form of Barbarism'|1 Disruption: A ‘New Form of Barbarism’]] (pp. 3–9)

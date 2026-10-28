@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Repair of the Soul 01 - Front cover|Front cover]] (pp. Cover–vi)
+- [[Repair of the Soul 01 - Front cover|Front cover]] (pp. i–vi)
 - [[Repair of the Soul 02 - Contents|Contents]] (pp. vii–viii)
 - [[Repair of the Soul 03 - Foreword|Foreword]] (pp. ix–xviii)
 - [[Repair of the Soul 04 - Preface|Preface]] (pp. xix–xxii)

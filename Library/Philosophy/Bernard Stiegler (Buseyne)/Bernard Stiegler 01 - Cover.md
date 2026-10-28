@@ -4,7 +4,7 @@ work: "[[Buseyne, Tsagdis, Willemarck (eds.) - Bernard Stiegler, Memories of the
 book: "[[Library/Philosophy/Bernard Stiegler (Buseyne)/Bernard Stiegler (Buseyne)|Bernard Stiegler (Buseyne)]]"
 order: 1
 source_pdf: Library/Philosophy/Buseyne, Tsagdis, Willemarck (eds.) - Bernard Stiegler, Memories of the Future (2024).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

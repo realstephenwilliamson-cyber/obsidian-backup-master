@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Jesus and the Zealots 01 - Cover|Cover]] (pp. A–ii)
+- [[Jesus and the Zealots 01 - Cover|Cover]] (pp. i–ii)
 - [[Jesus and the Zealots 02 - Title|Title]] (pp. iii–iv)
 - [[Jesus and the Zealots 03 - Contents|Contents]] (pp. v–vi)
 - [[Jesus and the Zealots 04 - List of Illustrations|List of Illustrations]] (pp. vii–viii)

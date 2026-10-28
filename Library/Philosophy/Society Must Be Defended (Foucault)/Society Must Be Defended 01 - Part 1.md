@@ -247,7 +247,7 @@ Michel Foucault approached his teaching as a researcher. He explored possibiliti
 7\. April 1975.
 
 
-*[PDF 9]* ^pg9
+*[p. xii]* ^pg9
 
 *Foreword* 
 
@@ -263,7 +263,7 @@ This edition is based upon the words pronounced in public by Michel Foucault. It
 
 [^8]: Particular use has been made of the recordings made by Gilbert Burlet and Jacques Lagrange. These have been deposited at the College de France and in the Fonds Michel Foucault held by Institut Memoires de l'Edition Contemporaine.
 
-*[PDF 10]* ^pg10
+*[p. xiii]* ^pg10
 
 *Foreword* x m been to remain as close as possible to the lecture that was actually given. 
 

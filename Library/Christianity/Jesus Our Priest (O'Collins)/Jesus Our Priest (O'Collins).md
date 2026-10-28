@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Jesus Our Priest 01 - Front matter|Front matter]] (pp. Cover–viii)
+- [[Jesus Our Priest 01 - Front matter|Front matter]] (pp. i–viii)
 - [[Jesus Our Priest 02 - Contents|Contents]] (pp. ix)
 - [[Jesus Our Priest 03 - Abbreviations|Abbreviations]] (pp. x)
 - [[Jesus Our Priest 04 - 1. The Jewish Matrix and the Gospels|1. The Jewish Matrix and the Gospels]] (pp. 1–26)

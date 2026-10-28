@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 ## Contents
 
 - [[The Parakhyatantra - A Scripture 01 - Part 1|Part 1]] (pp. vi–xxxviii)
-- [[The Parakhyatantra - A Scripture 02 - Part 2|Part 2]] (pp. xxxi̇x–lxxviii)
+- [[The Parakhyatantra - A Scripture 02 - Part 2|Part 2]] (pp. xl–lxxviii)
 - [[The Parakhyatantra - A Scripture 03 - Part 3|Part 3]] (pp. lxxix–cxviii)
 - [[The Parakhyatantra - A Scripture 04 - Part 4|Part 4]] (pp. cxix–30)
 - [[The Parakhyatantra - A Scripture 05 - Part 5|Part 5]] (pp. 31–70)

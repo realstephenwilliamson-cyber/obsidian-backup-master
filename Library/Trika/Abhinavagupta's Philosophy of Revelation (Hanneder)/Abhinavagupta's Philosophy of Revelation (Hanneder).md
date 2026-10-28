@@ -17,7 +17,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's own text layer (an older OCR lay
 
 ## Contents
 
-- [[Abhinavagupta's Philosophy 01 - Part 1|Part 1]] (pp. 1–31)
+- [[Abhinavagupta's Philosophy 01 - Part 1|Part 1]] (pp. 4–31)
 - [[Abhinavagupta's Philosophy 02 - Part 2|Part 2]] (pp. i–ii)
 - [[Abhinavagupta's Philosophy 03 - Part 3|Part 3]] (pp. 72–ii)
 - [[Abhinavagupta's Philosophy 04 - Part 4|Part 4]] (pp. ii–151)

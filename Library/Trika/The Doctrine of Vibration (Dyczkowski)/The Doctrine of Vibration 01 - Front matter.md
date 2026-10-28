@@ -4,7 +4,7 @@ work: "[[Dyczkowski - The Doctrine of Vibration]]"
 book: "[[Library/Trika/The Doctrine of Vibration (Dyczkowski)/The Doctrine of Vibration (Dyczkowski)|The Doctrine of Vibration (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski The doctrine of vibration.pdf
-page_range: Cover–VII
+page_range: "I–VII"
 pdf_pages: 1–8
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

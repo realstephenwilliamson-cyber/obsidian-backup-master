@@ -158,7 +158,7 @@ In parāpara-samvitti—supreme-cum-non-supreme
 
 consciousness, sarvamadhyarūpatā in the order of Mātrkā-letters ....nonueusneseeneeeeso eeseeseese .....145 Arrangement of letters according to Mātrka in parāparasamvitti sarvāntya-rūpata ........ssess.. ....146 Malini in apara samvitti and Mātrkā in pasyanti or parāpara samvitti .....oessososseseenenssenen e... -147 The outine of the Mandala of the trident and lotuses (trisūlābjamandala) ........nenenen eeeeeeees 237
 
-*[PDF 10]* ^pg10
+*[p. viii]* ^pg10
 
 *[p. ix]* ^pg11
 

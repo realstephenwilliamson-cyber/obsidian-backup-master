@@ -4,7 +4,7 @@ work: "[[Sauthoff - Illness and Immortality]]"
 book: "[[Library/Trika/Illness and Immortality (Sauthoff)/Illness and Immortality (Sauthoff)|Illness and Immortality (Sauthoff)]]"
 order: 1
 source_pdf: Library/Trika/Sauthoff - Illness and Immortality (2022).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

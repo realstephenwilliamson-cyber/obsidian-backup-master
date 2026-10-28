@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Gitarthasangraha 01 - Front matter|Front matter]] (pp. a–b)
+- [[Gitarthasangraha 01 - Front matter|Front matter]] (PDF 1–2)
 - [[Gitarthasangraha 02 - Preface|Preface]] (pp. vii–xii)
 - [[Gitarthasangraha 03 - Contents|Contents]] (pp. xiii–xiv)
 - [[Gitarthasangraha 04 - Foreword|Foreword]] (pp. xv–1)

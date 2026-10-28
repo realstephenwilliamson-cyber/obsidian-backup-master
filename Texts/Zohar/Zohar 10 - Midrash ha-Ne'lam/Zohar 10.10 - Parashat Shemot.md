@@ -1373,7 +1373,7 @@ Rabbi Yoḥanan said in the name of Rabbi Yitsḥak, “Moses was worried, think
 
 [^155]: **David… comprehended this…** By attuning himself to the song on high, David was able to compose the Psalms.
 
-    See *Midrash Tehillim* 18:1: “Rabbi Yudan said in the name of Rabbi Yehudah, ‘Whatever David said in his book pertains to himself, to all Israel, and to all times.’” See also BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-179a|1:179a]].
+    See *Midrash Tehillim* 18:1: “Rabbi Yudan said in the name of Rabbi Yehudah, ‘Whatever David said in his book pertains to himself, to all Israel, and to all times.’” See also BT *Pesaḥim* [[Pesachim 117#117a|117a]]; *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-179a|1:179a]].
 
 [^156]: **Solomon attained even more of this song…** Solomon was also attuned to the celestial song, as a result of which he composed משלי (*Mishlei*), the book of Proverbs, and the Song of Songs.
 

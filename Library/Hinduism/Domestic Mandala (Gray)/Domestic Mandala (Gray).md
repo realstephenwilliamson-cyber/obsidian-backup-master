@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Domestic Mandala 01 - Front matter|Front matter (Cover, Half Title, Title Page, Copyright Page, Table of Contents, Dedication, Li)]] (pp. Cover–x)
+- [[Domestic Mandala 01 - Front matter|Front matter (Cover, Half Title, Title Page, Copyright Page, Table of Contents, Dedication, Li)]] (pp. i–x)
 - [[Domestic Mandala 02 - Series Editors' Preface|Series Editors’ Preface]] (pp. xi–xiv)
 - [[Domestic Mandala 03 - Preface|Preface]] (pp. xv–xvi)
 - [[Domestic Mandala 04 - Introduction Domestic Space, Activities and Experience of the Cosmos|Introduction: Domestic Space, Activities and Experience of the Cosmos]] (pp. 1–16)

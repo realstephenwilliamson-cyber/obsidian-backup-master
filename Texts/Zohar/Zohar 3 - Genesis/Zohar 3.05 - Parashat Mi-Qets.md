@@ -603,7 +603,7 @@ He said further, “Because *God is good to Israel*, they have a share in this w
 
     On this dross, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-48a|1:48a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a]], [[Zohar 1.08 - Parashat Noah#^z1-73a|73a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-236a|2:236a–b]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-51a|3:51a]], [[Zohar 7.07 - Parashat Metsora#^z3-56a|56a]]; Moses de León, *Sheqel ha-Qodesh*, 41 (49). Cf. *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-118b|1:118b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-153a|153a]]. On the alchemical associations, see Scholem, *Alchemie und Kabbala*, 40–43.
 
-[^7]: **established this matter** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165a|1:165a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|2:99a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|3:58a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-80a|80a]].
+[^7]: **established this matter** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165a|1:165a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|2:99a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|3:58a]], [[Zohar 8.03 - Parashat Qedoshim#^z3-80a|80a]].
 
 [^8]: **grasping the Tree of Life…** Torah is identified with the Tree of Life, based on this description of wisdom in Proverbs. In Kabbalah both Torah and Tree of Life symbolize *Tif’eret*.
 
@@ -1377,7 +1377,7 @@ He said further, “Because *God is good to Israel*, they have a share in this w
 
 [^271]: **priest who blesses…** The verse reads: *They shall set My name upon the Children of Israel, and I Myself will bless them*.
 
-    See BT *Sotah* [[Sotah 38#38b|38b]] (in the name of Rabbi Yehoshu’a son of Levi); *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-67a|2:67a]]; Moses de León, *Sefer ha-Rimmon*, 255.
+    See BT *Sotah* [[Sotah 38#38b|38b]] (in the name of Rabbi Yehoshu’a son of Levi); *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-67a|2:67a]]; Moses de León, *Sefer ha-Rimmon*, 255.
 
 [^272]: **one who clings to the Other Side…** If one violates the Torah and clings to the demonic realm, he interrupts the flow of emanation to *Shekhinah*, impoverishing Her and consequently himself.
 
@@ -1501,7 +1501,7 @@ He said further, “Because *God is good to Israel*, they have a share in this w
 
 [^317]: **when an entire people live…** God values peace above monotheistic worship. In Hosea, Ephraim refers collectively to the ten tribes of the northern kingdom of Israel, and the plain meaning of the verse is that because they are addicted to idolatry, rebuking them is futile. According to the midrashic reading, *joined* implies harmonious union among the tribes.
 
-    See *Sifrei*, Numbers 42; *Bereshit Rabbah* 38:6; *Tanḥuma, Tsav* 7; *Kallah Rabbati* 5:1; *Derekh Erets* 7:37; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-76b|1:76b]].
+    See *Sifrei*, Numbers 42; *Bereshit Rabbah* 38:6; *Tanḥuma, Tsav* 7; *Kallah Rabbati* 5:1; *Derekh Erets* 7:37; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-76b|1:76b]].
 
 [^318]: **charity is peace…** By shearing money for charity, one increases peace on earth and in the divine realm.
 
@@ -1767,7 +1767,7 @@ He said further, “Because *God is good to Israel*, they have a share in this w
 
 [^408]: **sun that He has treasured away…** See *Vayiqra Rabbah* 11:7: “Rabbi Yehudah son of Rabbi Simon said, ‘With the light created by the blessed Holy One on the first day, one could gaze and see from one end of the universe to the other. When the Holy One foresaw the corruption of the generation of Enosh and the generation of the Flood, He hid it away from them, as is written: *The light of the wicked is withheld* ([[Job 38#^38-15|Job 38:15]]). Where did He hide it? In the Garden of Eden. *Light is sown for the righteous, joy for the upright in heart* ([[Psalms 097#^97-11|Psalms 97:11]]).’”
 
-    See *Bereshit Rabbah* 3:6; 41:3; BT *Ḥagigah* [[Chagigah 12#12a|12a]]; *Shemot Rabbah* 35:1; *Tanḥuma, Shemini*, 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-7a|1:7a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|31b–32a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b–46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-59a|59a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]]; [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]].
+    See *Bereshit Rabbah* 3:6; 41:3; BT *Ḥagigah* [[Chagigah 12#12a|12a]]; *Shemot Rabbah* 35:1; *Tanḥuma, Shemini*, 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-7a|1:7a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|31b–32a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b–46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-59a|59a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]]; [[Zohar 5.05 - Parashat Terumah#^z2-127a|2:127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.06 - Parashat Pequdei#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]].
 
     Concerning the generation of Enosh, [[Torah 01 - Bereshit#^4-26|Genesis 4:26]] states: *Then for the first time the name YHVH was invoked*. In the Midrash this is taken to mean that Enosh’s generation was the first to worship idols and address them by the name *YHVH*.
 

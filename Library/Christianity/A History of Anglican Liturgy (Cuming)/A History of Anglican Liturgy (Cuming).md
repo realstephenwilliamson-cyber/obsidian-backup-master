@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[A History of Anglican Liturgy 01 - Front matter|Front matter]] (pp. C1–xvi)
+- [[A History of Anglican Liturgy 01 - Front matter|Front matter]] (pp. i–xvi)
 - [[A History of Anglican Liturgy 02 - I The End of the Middle|I The End of the Middle]] (pp. 1–69)
 - [[A History of Anglican Liturgy 03 - 5 The Second Prayer Book of Edward VI|5 The Second Prayer Book of Edward VI]] (pp. 70–101)
 - [[A History of Anglican Liturgy 04 - 7 The Grand Debate, part 1|7 The Grand Debate, part 1]] (pp. 102–134)

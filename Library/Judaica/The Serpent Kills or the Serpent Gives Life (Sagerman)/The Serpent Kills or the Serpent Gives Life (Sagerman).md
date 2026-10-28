@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Serpent Kills or the Serpent 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[The Serpent Kills or the Serpent 01 - Front matter|Front matter]] (pp. i–iv)
 - [[The Serpent Kills or the Serpent 02 - CONTENTS|CONTENTS]] (pp. v–vi)
 - [[The Serpent Kills or the Serpent 03 - Preface|Preface]] (pp. vii–xii)
 - [[The Serpent Kills or the Serpent 04 - Introduction Abraham Abulafia A Brief Biographical Sketch|Introduction: Abraham Abulafia: A Brief 

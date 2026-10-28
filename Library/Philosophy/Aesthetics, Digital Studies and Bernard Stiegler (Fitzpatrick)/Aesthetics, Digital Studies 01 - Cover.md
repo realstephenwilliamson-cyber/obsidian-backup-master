@@ -4,7 +4,7 @@ work: "[[Fitzpatrick, O'Dwyer, O'Hara (eds.) - Aesthetics, Digital Studies and B
 book: "[[Library/Philosophy/Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)/Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)|Aesthetics, Digital Studies and Bernard Stiegler (Fitzpatrick)]]"
 order: 1
 source_pdf: Library/Philosophy/Fitzpatrick, O'Dwyer, O'Hara (eds.) - Aesthetics, Digital Studies and Bernard Stiegler (2021).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

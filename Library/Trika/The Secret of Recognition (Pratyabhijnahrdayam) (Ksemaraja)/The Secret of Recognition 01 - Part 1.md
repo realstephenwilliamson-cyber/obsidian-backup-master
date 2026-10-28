@@ -4,7 +4,7 @@ work: "[[Ksemaraja - The Secret of Recognition (Pratyabhijnahrdayam)]]"
 book: "[[Library/Trika/The Secret of Recognition (Pratyabhijnahrdayam) (Ksemaraja)/The Secret of Recognition (Pratyabhijnahrdayam) (Ksemaraja)|The Secret of Recognition (Pratyabhijnahrdayam) (Ksemaraja)]]"
 order: 1
 source_pdf: Library/Trika/sen-secret-of-recognition-pratyabhijnahrdaya.pdf
-page_range: 1–28
+page_range: "vi–28"
 pdf_pages: 1–40
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -131,7 +131,7 @@ THE ADYAR LIBRARY, १ र
 
 ¢ The Theosophical Society, Honorary Director 15th July, 1938. 
 
-*[PDF 4]* ^pg4
+*[p. vii]* ^pg4
 
 THE PRATYABHIJNAĀ SYSTEM AND THE 
 

@@ -4,7 +4,7 @@ work: "[[Goodall (ed.) - The Parakhyatantra - A Scripture of the Saiva Siddhanta
 book: "[[Library/Trika/The Parakhyatantra - A Scripture of the Saiva Siddhanta (Goodall)/The Parakhyatantra - A Scripture of the Saiva Siddhanta (Goodall)|The Parakhyatantra - A Scripture of the Saiva Siddhanta (Goodall)]]"
 order: 2
 source_pdf: Library/Trika/Goodall (ed.) - The Parakhyatantra (2004).pdf
-page_range: xxxi̇x–lxxviii
+page_range: "xl–lxxviii"
 pdf_pages: 41–80
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
@@ -110,7 +110,7 @@ Now there may indeed once have been an Ur-Raurava that is now irretrievably lost
 
 (2000:xxviii, fn. 50), but they failed to realise that the quotation in question is in fact not independent but one of the quotations that is a principal source for chapter 58 of the edition.
 
-*[PDF 48]* ^pg48
+*[p. xlvi]* ^pg48
 
 xlvi Paraākhyatantra
 

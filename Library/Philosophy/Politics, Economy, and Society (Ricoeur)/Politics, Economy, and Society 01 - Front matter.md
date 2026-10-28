@@ -4,7 +4,7 @@ work: "[[Ricoeur - Politics, Economy, and Society (Writings and Lectures Vol 4)]
 book: "[[Library/Philosophy/Politics, Economy, and Society (Ricoeur)/Politics, Economy, and Society (Ricoeur)|Politics, Economy, and Society (Ricoeur)]]"
 order: 1
 source_pdf: Library/Philosophy/Paul Ricoeur - Politics, Economy, and Society_ Writings and Lectures, Volume 4-Polity (2021).pdf
-page_range: cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Recognition Sutras 01 - Front matter|Front matter (Front Cover, Title Page, Half Title, Copyright, Contents, Frontispiece I, Prefac)]] (pp. Cover–xiv)
+- [[The Recognition Sutras 01 - Front matter|Front matter (Front Cover, Title Page, Half Title, Copyright, Contents, Frontispiece I, Prefac)]] (pp. i–xiv)
 - [[The Recognition Sutras 02 - Introduction History and Context|Introduction: History and Context]] (pp. 1–9)
 - [[The Recognition Sutras 03 - Frontispiece III|Frontispiece III]] (pp. 10)
 - [[The Recognition Sutras 04 - Spiritual Introduction The Heart of the Tantrik Way|Spiritual Introduction: The Heart of the Tantrik Way]] (pp. 11–20)

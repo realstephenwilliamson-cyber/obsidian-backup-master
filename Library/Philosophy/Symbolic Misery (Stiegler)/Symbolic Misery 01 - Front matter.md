@@ -4,7 +4,7 @@ work: "[[Stiegler - Symbolic Misery (vols 1-2)]]"
 book: "[[Library/Philosophy/Symbolic Misery (Stiegler)/Symbolic Misery (Stiegler)|Symbolic Misery (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/Bernard Stiegler - Symbolic Misery, Volume One_ The Hyperindustrial Epoch-Polity Press (2014).pdf
-page_range: Front Cover–iii
+page_range: "i–iii"
 pdf_pages: 1–4
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

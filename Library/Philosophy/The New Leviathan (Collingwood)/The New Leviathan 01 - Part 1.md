@@ -97,9 +97,9 @@ STREATLEY, BERKSHIRE
 
 *16 January 19,42* 
 
-*[PDF 7]* ^pg7
+*[p. vi]* ^pg7
 
-*[PDF 8]* ^pg8
+*[p. vii]* ^pg8
 
 CONTENTS 
 

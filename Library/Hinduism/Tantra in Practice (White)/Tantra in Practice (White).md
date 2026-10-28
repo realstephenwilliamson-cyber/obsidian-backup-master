@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 ## Contents
 
 - [[Tantra in Practice 01 - Front matter|Front matter (TANTRA)]] (PDF 1–3)
-- [[Tantra in Practice 02 - TANTRA|TANTRA]] (pp. 4–38)
+- [[Tantra in Practice 02 - TANTRA|TANTRA]] (pp. vi–38)
 - [[Tantra in Practice 03 - Gurus and Adepts|Gurus and Adepts]] (pp. 42–115)
 - [[Tantra in Practice 04 - Kings and Priests|Kings and Priests]] (pp. 120–164)
 - [[Tantra in Practice 05 - Devotees and Deities|Devotees and Deities]] (pp. 168–227)

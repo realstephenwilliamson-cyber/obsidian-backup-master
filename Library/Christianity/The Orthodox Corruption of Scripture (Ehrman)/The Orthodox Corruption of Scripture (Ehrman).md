@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng); the PDF'
 
 ## Contents
 
-- [[The Orthodox Corruption 01 - Front matter|Front matter]] (pp. Cover–viii)
+- [[The Orthodox Corruption 01 - Front matter|Front matter]] (pp. i–viii)
 - [[The Orthodox Corruption 02 - Contents|Contents]] (pp. ix–x)
 - [[The Orthodox Corruption 03 - Introduction|Introduction]] (pp. xi–2)
 - [[The Orthodox Corruption 04 - 1. The Text of Scripture in an Age of Dissent Early Christian|1. The Text of Scripture in an Age of Dissent: Early Christian Struggles for Orthodoxy]] (pp. 3–46)

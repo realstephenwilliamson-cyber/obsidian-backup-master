@@ -17,7 +17,7 @@ Converted from the PDF on 22 Oct 2026 (PDF text layer (born-digital), PyMuPDF). 
 ## Contents
 
 - [[The Emergence of Modern Hinduism 01 - Front matter|Front matter (Cover)]] (pp. 1)
-- [[The Emergence of Modern Hinduism 02 - Luminos Page|Luminos Page]] (pp. a–d)
+- [[The Emergence of Modern Hinduism 02 - Luminos Page|Luminos Page]] (pp. c–d)
 - [[The Emergence of Modern Hinduism 03 - Half Title|Half Title]] (pp. i–ii)
 - [[The Emergence of Modern Hinduism 04 - Title|Title]] (pp. iii–iv)
 - [[The Emergence of Modern Hinduism 05 - Contents|Contents]] (pp. v–vi)

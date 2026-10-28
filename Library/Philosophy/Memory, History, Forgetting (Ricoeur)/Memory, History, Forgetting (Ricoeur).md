@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Memory, History, Forgetting 01 - Front matter|Front matter]] (pp. Cover–x)
+- [[Memory, History, Forgetting 01 - Front matter|Front matter]] (pp. i–x)
 - [[Memory, History, Forgetting 02 - CONTENTS|CONTENTS]] (pp. xi–xiv)
 - [[Memory, History, Forgetting 03 - Preface|Preface]] (pp. xv–xviii)
 - [[Memory, History, Forgetting 04 - PART I ON MEMORY AND RECOLLECTION, part 1|PART I ON MEMORY AND RECOLLECTION, part 1]] (pp. 1–44)

@@ -280,7 +280,7 @@ pages 388-391
 
 6\) The Supreme Piercing, verses 252-254ab, pages 391-393 
 
-*[PDF 14]* ^pg14
+*[p. x]* ^pg14
 
 B) The Initiation by Piercing According to the Vīrāvalikula, verses 254cd- 281, pages 393-407 
 
@@ -314,7 +314,7 @@ Chapter Six of the Kulapradīpa by Śrīgosvāmī Śivānanda, pages 456- 457
 
 Appendix D: The Procedure Concerning the Kaula Consort dūtiyāgavidhiḥ, pages 458-478 
 
-*[PDF 15]* ^pg15
+*[p. xi]* ^pg15
 
 Abbreviations 
 

@@ -4,7 +4,7 @@ work: "[[Zeiler (ed.) - Digital Hinduism]]"
 book: "[[Library/Hinduism/Digital Hinduism (Zeiler)/Digital Hinduism (Zeiler)|Digital Hinduism (Zeiler)]]"
 order: 1
 source_pdf: Library/Hinduism/Zeiler (ed.) - Digital Hinduism (2020).pdf
-page_range: Cover–x
+page_range: "i–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Goshen-Gottstein - Same God, Other God]]"
 book: "[[Library/Judaica/Same God, Other God (Goshen-Gottstein)/Same God, Other God (Goshen-Gottstein)|Same God, Other God (Goshen-Gottstein)]]"
 order: 1
 source_pdf: Library/Judaica/Same God, other god _ Judaism, Hinduism, and the problem of idolatry-Palgrave Macmillan (2015).pdf
-page_range: C1–x
+page_range: "i–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

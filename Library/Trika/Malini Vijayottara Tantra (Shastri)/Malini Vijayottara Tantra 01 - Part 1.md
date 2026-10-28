@@ -4,7 +4,7 @@ work: "[[Shastri - Malini Vijayottara Tantra]]"
 book: "[[Library/Trika/Malini Vijayottara Tantra (Shastri)/Malini Vijayottara Tantra (Shastri)|Malini Vijayottara Tantra (Shastri)]]"
 order: 1
 source_pdf: Library/Trika/Malini Vijayottara Tantra Eng Translation 1956 - Vishnu Datt Shastri.pdf
-page_range: "1–6; 1–28"
+page_range: "1–28"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5, English model, of the page images, each page straightened and enlarged first (15 Oct 2026; replaces the reading of 8 Oct, whose Sanskrit model put Devanagari and digits into the English)
 converted: 2026-10-08

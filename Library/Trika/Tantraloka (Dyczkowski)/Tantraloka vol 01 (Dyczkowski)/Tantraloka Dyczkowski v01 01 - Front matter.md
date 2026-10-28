@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)/Tantraloka vol 01 (Dyczkowski)|Tantraloka vol 01 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 01.pdf
-page_range: 1–x
+page_range: "ii–x"
 pdf_pages: 1–14
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san; footnotes separated at the footnote rule and numbered by sequence (7 Oct 2026)
 converted: 2026-10-07
@@ -82,7 +82,7 @@ In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
-*[PDF 7]* ^pg7
+*[p. iii]* ^pg7
 
 the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in ठे whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18\* century exponent of Śrīvidyā. 
 
@@ -136,7 +136,7 @@ The Exposition of the Tantrāloka: verses 105cd (106) onwards, pages 238-278 The
 
 Concerning the Means to Realization: verses 140-245, pages 278-442 Preliminary Analysis of the Means based on Will, Knowledge and Action: verses 140-149, pages 278-289 
 
-*[p. vi]* ^pg11
+*[p. vii]* ^pg11
 
 Knowledge Extends into Action and Develops into Yoga: verses 150-155, pages 
 

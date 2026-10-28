@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 92
 
 ## Contents
 
-- [[Early Tantric Medicine 01 - Front matter|Front matter (Cover, Half Title, Title page, Copyright, Dedication, Contents, List of Figures)]] (pp. Cover–viii)
+- [[Early Tantric Medicine 01 - Front matter|Front matter (Cover, Half Title, Title page, Copyright, Dedication, Contents, List of Figures)]] (pp. i–viii)
 - [[Early Tantric Medicine 02 - Preface|Preface]] (pp. ix–xii)
 - [[Early Tantric Medicine 03 - 1. Introduction|1. Introduction]] (pp. 1–18)
 - [[Early Tantric Medicine 04 - 2. Precursors to Garudam|2. Precursors to Gāruḍam]] (pp. 19–38)

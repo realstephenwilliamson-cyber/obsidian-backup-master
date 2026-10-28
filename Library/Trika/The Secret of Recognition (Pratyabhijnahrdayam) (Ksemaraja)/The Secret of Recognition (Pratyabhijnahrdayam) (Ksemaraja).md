@@ -20,7 +20,7 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 ## Contents
 
-- [[The Secret of Recognition 01 - Part 1|Part 1]] (pp. 1–28)
+- [[The Secret of Recognition 01 - Part 1|Part 1]] (pp. vi–28)
 - [[The Secret of Recognition 02 - Part 2|Part 2]] (pp. 29–68)
 - [[The Secret of Recognition 03 - Part 3|Part 3]] (pp. 69–108)
 - [[The Secret of Recognition 04 - Part 4|Part 4]] (pp. 109–148)

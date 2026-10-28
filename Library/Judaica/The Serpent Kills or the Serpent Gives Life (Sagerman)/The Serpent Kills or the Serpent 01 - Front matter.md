@@ -4,7 +4,7 @@ work: "[[Sagerman - The Serpent Kills or the Serpent Gives Life]]"
 book: "[[Library/Judaica/The Serpent Kills or the Serpent Gives Life (Sagerman)/The Serpent Kills or the Serpent Gives Life (Sagerman)|The Serpent Kills or the Serpent Gives Life (Sagerman)]]"
 order: 1
 source_pdf: Library/Judaica/downloadfile.pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

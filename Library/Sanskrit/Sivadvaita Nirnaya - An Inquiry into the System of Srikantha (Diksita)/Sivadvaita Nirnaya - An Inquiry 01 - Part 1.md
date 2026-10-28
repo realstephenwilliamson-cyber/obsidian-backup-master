@@ -4,7 +4,7 @@ work: "[[Appayya Diksita - Sivadvaita Nirnaya]]"
 book: "[[Library/Sanskrit/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)/Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)|Sivadvaita Nirnaya - An Inquiry into the System of Srikantha (Diksita)]]"
 order: 1
 source_pdf: Library/Sanskrit/Sivadvaita.Nirnaya.by.Appayya.Diksita.pdf
-page_range: 1–32
+page_range: "5–32"
 pdf_pages: 1–40
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

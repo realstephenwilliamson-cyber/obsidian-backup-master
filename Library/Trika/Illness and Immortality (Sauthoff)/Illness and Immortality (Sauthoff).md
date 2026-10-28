@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Illness and Immortality 01 - Front matter|Front matter (Cover, Illness and Immortality, Copyright, Dedication, Contents)]] (pp. Cover–viii)
+- [[Illness and Immortality 01 - Front matter|Front matter (Cover, Illness and Immortality, Copyright, Dedication, Contents)]] (pp. i–viii)
 - [[Illness and Immortality 02 - Acknowledgments|Acknowledgments]] (pp. ix–xii)
 - [[Illness and Immortality 03 - List of Abbreviations|List of Abbreviations]] (pp. xiii–xiv)
 - [[Illness and Immortality 04 - Introduction|Introduction]] (pp. 1–8)

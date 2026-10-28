@@ -22,6 +22,8 @@ But mark both their faith, and their obedience. For though they were in the mids
 
 But if thou should say, “the promise is very great;” even for this do I most admire them, for that when they had not as yet seen any sign, they believed in so great a reach of promise,
 
+570 [[Matthew 04#^4-18|Matt. iv. 18]], [[Matthew 04#^4-19|19]]. 571 [[John 01#^1-42|John i. 42]]. 572 \[“it was natural.”—R.\] μγιστο τρπο λεα. 573 574 1 Kings xix. 20, 21.
+
 *[p. 165]* ^pg173
 
 and accounted all but second to that attendance. And this, because they believed that by what words they were caught, by the same they would be able to catch others also.
@@ -684,7 +686,7 @@ And to prove to thee that it was of one and the same mildness; in the one He sai
 
 710 Jer. xxxi. 31, 32.
 
-[^711]: Because they denied the authority of the Old Testament, but received the New, including St. Paul’s Epistles. 712 [[Galatians 04#^4-22|Gal. iv. 22]]. 714 See Bp. Butler’s Sermon on Resentment. 715 [[Romans 12#^12-19|Rom. xii. 19]]. 716 [[1 Corinthians 06#^6-7|1 Cor. vi. 7]]. 717 Ps. iv. 5, LXX., comp. [[Ephesians 04#^4-26|Eph. iv. 26]]. “Stand in awe, and sin not,” in our version. Another part of the same Hebrew verb is, however, rendered “rage” in our translation: 2 Kings xix. 27, 28; Is. xxxvii. 28, 29. \[The R.V. has the marginal rendering, “Be ye angry,” in Ps. iv. 5. In [[Ephesians 04#^4-26|Eph. iv. 26]], the LXX. is accurately cited.—R.\] \[The original repeats the emphatic and contemptuous σ.—R.\]
+[^711]: Because they denied the authority of the Old Testament, but received the New, including St. Paul’s Epistles. 712 [[Galatians 04#^4-22|Gal. iv. 22]].
 
 *[p. 203]* ^pg211
 
@@ -699,3 +701,5 @@ Being angry then is not a transgression, but being so unseasonably. For this cau
 10\. “And whosoever shall say to his brother, Raca, shall be in danger of the council.” By the council in this place He means the tribunal of the Hebrews: and He hath mentioned this now, on purpose that He might not seem everywhere to play the stranger and innovator.
 
 But this word, “Raca,” is not an expression of a great insolence, but rather of some contempt and slight on the part of the speaker. For as we, giving orders either to our servants, or to any very inferior person, say, “Away with thee; you here, tell such an one:”<sup>718</sup>so they
+
+714 See Bp. Butler’s Sermon on Resentment. 715 [[Romans 12#^12-19|Rom. xii. 19]]. 716 [[1 Corinthians 06#^6-7|1 Cor. vi. 7]]. 717 Ps. iv. 5, LXX., comp. [[Ephesians 04#^4-26|Eph. iv. 26]]. “Stand in awe, and sin not,” in our version. Another part of the same Hebrew verb is, however, rendered “rage” in our translation: 2 Kings xix. 27, 28; Is. xxxvii. 28, 29. \[The R.V. has the marginal rendering, “Be ye angry,” in Ps. iv. 5. In [[Ephesians 04#^4-26|Eph. iv. 26]], the LXX. is accurately cited.—R.\] \[The original repeats the emphatic and contemptuous σ.—R.\]

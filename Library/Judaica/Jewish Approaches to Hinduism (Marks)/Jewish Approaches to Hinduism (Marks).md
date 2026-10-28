@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Jewish Approaches to Hinduism 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Dedication, Contents)]] (pp. Cover–xii)
+- [[Jewish Approaches to Hinduism 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Dedication, Contents)]] (pp. i–xii)
 - [[Jewish Approaches to Hinduism 02 - Introduction|Introduction]] (pp. 1–8)
 - [[Jewish Approaches to Hinduism 03 - PART I India's idolaters, magicians, scientists, philosophers|PART I: India’s idolaters, magicians, scientists, philosophers, and ascetics: 12–14th centuries, part 1]] (pp. 9–51)
 - [[Jewish Approaches to Hinduism 04 - PART I India's idolaters, magicians, scientists, philosophers|PART I: India’s idolaters, magicians, scientists, philosophers, and ascetics: 12–14th centuries, part 2]] (pp. 52–94)

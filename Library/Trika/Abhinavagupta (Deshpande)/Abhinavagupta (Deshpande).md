@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Abhinavagupta 01 - Front matter|Front matter]] (pp. Cover–7)
+- [[Abhinavagupta 01 - Front matter|Front matter]] (pp. 1–7)
 - [[Abhinavagupta 02 - Sanskrit Alphabet|Sanskrit Alphabet]] (pp. 8)
 - [[Abhinavagupta 03 - Preface|Preface]] (pp. 9–10)
 - [[Abhinavagupta 04 - Contents|Contents]] (pp. 11–12)

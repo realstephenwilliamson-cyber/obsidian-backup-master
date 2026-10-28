@@ -19,7 +19,7 @@ Converted from the PDF on 22 Oct 2026 (the PDF's earlier OCR text layer (a scan)
 
 ## Contents
 
-- [[Two Powers in Heaven 01 - Front matter|Front matter]] (pp. FC–II)
+- [[Two Powers in Heaven 01 - Front matter|Front matter]] (pp. I–II)
 - [[Two Powers in Heaven 02 - TWO POWERS IN HEAVEN Early Rabbinic Reports about Christianity and|TWO POWERS IN HEAVEN: Early Rabbinic Reports about Christianity and Gnosticism]] (pp. III–VI)
 - [[Two Powers in Heaven 03 - Table of Contents|Table of Contents]] (pp. VII–VIII)
 - [[Two Powers in Heaven 04 - Preface|Preface]] (pp. IX–XIV)
@@ -42,4 +42,4 @@ Converted from the PDF on 22 Oct 2026 (the PDF's earlier OCR text layer (a scan)
 - [[Two Powers in Heaven 21 - XV. Gnosticism|XV. Gnosticism]] (pp. 244–259)
 - [[Two Powers in Heaven 22 - XVI. Conclusions|XVI. Conclusions]] (pp. 260–267)
 - [[Two Powers in Heaven 23 - Bibliography|Bibliography]] (pp. 268–288)
-- [[Two Powers in Heaven 24 - Indices|Indices]] (pp. 289–BC)
+- [[Two Powers in Heaven 24 - Indices|Indices]] (pp. 289–314)

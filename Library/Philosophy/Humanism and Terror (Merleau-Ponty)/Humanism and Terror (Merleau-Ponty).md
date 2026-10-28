@@ -23,4 +23,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Humanism and Terror 04 - Part One Terror, part 1|Part One: Terror, part 1]] (pp. xlviii–48)
 - [[Humanism and Terror 05 - Part One Terror, part 2|Part One: Terror, part 2]] (pp. 49–98)
 - [[Humanism and Terror 06 - Part Two The Humanist Perspective|Part Two: The Humanist Perspective]] (pp. 99–177)
-- [[Humanism and Terror 07 - Conclusion|Conclusion]] (pp. 178–BC)
+- [[Humanism and Terror 07 - Conclusion|Conclusion]] (pp. 178–189)

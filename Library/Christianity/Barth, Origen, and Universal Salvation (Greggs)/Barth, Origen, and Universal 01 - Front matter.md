@@ -4,7 +4,7 @@ work: "[[Greggs - Barth, Origen, and Universal Salvation]]"
 book: "[[Library/Christianity/Barth, Origen, and Universal Salvation (Greggs)/Barth, Origen, and Universal Salvation (Greggs)|Barth, Origen, and Universal Salvation (Greggs)]]"
 order: 1
 source_pdf: Library/Christianity/Greggs - Barth, Origen, and Universal Salvation (OUP 2009).pdf
-page_range: Cover–xviii
+page_range: "i–xviii"
 pdf_pages: 1–19
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

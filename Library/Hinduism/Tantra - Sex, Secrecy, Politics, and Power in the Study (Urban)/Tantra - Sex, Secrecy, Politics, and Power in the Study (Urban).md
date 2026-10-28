@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Tantra - Sex, Secrecy, Politics 01 - Front matter|Front matter]] (pp. A–viii)
+- [[Tantra - Sex, Secrecy, Politics 01 - Front matter|Front matter]] (pp. i–viii)
 - [[Tantra - Sex, Secrecy, Politics 02 - Illustrations|Illustrations]] (pp. ix–x)
 - [[Tantra - Sex, Secrecy, Politics 03 - Preface and Acknowledgments|Preface and Acknowledgments]] (pp. xi–xiv)
 - [[Tantra - Sex, Secrecy, Politics 04 - Abbreviations|Abbreviations]] (pp. xv–xvi)

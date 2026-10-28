@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Routledge Philosophy GuideBook 01 - Front matter|Front matter (Front matter, TITLE, COPYRIGHT, CONTENTS, ACKNOWLEDGEMENTS, INTRODUCTION)]] (pp. Cover–3)
+- [[Routledge Philosophy GuideBook 01 - Front matter|Front matter (Front matter, TITLE, COPYRIGHT, CONTENTS, ACKNOWLEDGEMENTS, INTRODUCTION)]] (pp. i–3)
 - [[Routledge Philosophy GuideBook 02 - 1 MERLEAU-PONTY'S PHENOMENOLOGY|1 MERLEAU-PONTY’S PHENOMENOLOGY]] (pp. 4–35)
 - [[Routledge Philosophy GuideBook 03 - 2 TRADITIONAL PREJUDICES AND THE RETURN TO PHENOMENA|2 TRADITIONAL PREJUDICES AND THE RETURN TO PHENOMENA]] (pp. 36–61)
 - [[Routledge Philosophy GuideBook 04 - 3 THE BODY|3 THE BODY]] (pp. 62–102)

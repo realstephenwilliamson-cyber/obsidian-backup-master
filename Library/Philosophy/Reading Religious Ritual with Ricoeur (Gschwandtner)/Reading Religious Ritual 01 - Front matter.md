@@ -4,7 +4,7 @@ work: "[[Gschwandtner - Reading Religious Ritual with Ricoeur]]"
 book: "[[Library/Philosophy/Reading Religious Ritual with Ricoeur (Gschwandtner)/Reading Religious Ritual with Ricoeur (Gschwandtner)|Reading Religious Ritual with Ricoeur (Gschwandtner)]]"
 order: 1
 source_pdf: Library/Philosophy/Gschwandtner - Reading Religious Ritual with Ricoeur (2021).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

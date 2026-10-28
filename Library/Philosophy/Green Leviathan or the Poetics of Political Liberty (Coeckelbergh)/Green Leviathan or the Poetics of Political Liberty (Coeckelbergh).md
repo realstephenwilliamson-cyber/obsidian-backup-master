@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Green Leviathan or the Poetics 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Table of Contents, A)]] (pp. Cover–x)
+- [[Green Leviathan or the Poetics 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Table of Contents, A)]] (pp. i–x)
 - [[Green Leviathan or the Poetics 02 - 1 A Green Brave New World Dealing with Climate Change and AI as|1 A Green Brave New World: Dealing with Climate Change and AI as a Political Problem Concerning Freedom]] (pp. 1–14)
 - [[Green Leviathan or the Poetics 03 - 2 Leviathan Reloaded Climate Change and AI as a Hobbesian|2 Leviathan Reloaded: Climate Change and AI as a Hobbesian Problem for a Vulnerable Civilization]] (pp. 15–30)
 - [[Green Leviathan or the Poetics 04 - 3 Big Data for the Grand Inquisitor The Discussion about Human|3 Big Data for the Grand Inquisitor: The Discussion about Human Nature and Freedom from Rousseau to Nudging]] (pp. 31–48)

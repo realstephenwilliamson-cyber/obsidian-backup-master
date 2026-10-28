@@ -4,7 +4,7 @@ work: "[[Flueckiger - When the World Becomes Female]]"
 book: "[[Library/Hinduism/When the World Becomes Female (Flueckiger)/When the World Becomes Female (Flueckiger)|When the World Becomes Female (Flueckiger)]]"
 order: 1
 source_pdf: Library/Hinduism/Flueckiger - When the World Becomes Female (2013).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

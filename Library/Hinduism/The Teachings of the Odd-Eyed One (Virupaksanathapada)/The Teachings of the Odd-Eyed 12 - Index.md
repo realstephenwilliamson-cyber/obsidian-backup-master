@@ -4,7 +4,7 @@ work: "[[Virupaksanathapada - The Teachings of the Odd-Eyed One]]"
 book: "[[Library/Hinduism/The Teachings of the Odd-Eyed One (Virupaksanathapada)/The Teachings of the Odd-Eyed One (Virupaksanathapada)|The Teachings of the Odd-Eyed One (Virupaksanathapada)]]"
 order: 12
 source_pdf: Library/Hinduism/Lawrence - The Teachings of the Odd-Eyed One, Virupaksapancasika (SUNY).pdf
-page_range: 185–b
+page_range: "185–195"
 pdf_pages: 198–209
 text_source: fresh OCR with Tesseract 5 (Latin); the PDF's text layer writes long vowels as a separate dash (Viru– pa–kṣa)
 converted: 2026-10-07

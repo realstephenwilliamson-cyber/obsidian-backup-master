@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[The Question Concerning 01 - Front matter|Front matter (Cover, Title Page, Copyright, Contents, Acknowledgments, Preface)]] (pp. Cover–xi)
+- [[The Question Concerning 01 - Front matter|Front matter (Cover, Title Page, Copyright, Contents, Acknowledgments, Preface)]] (pp. iii–xi)
 - [[The Question Concerning 02 - Introduction|Introduction]] (pp. xiii–xxxix)
 - [[The Question Concerning 03 - Part I|Part I]] (pp. 1–49)
 - [[The Question Concerning 04 - Part II|Part II]] (pp. 51–112)

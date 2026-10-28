@@ -17,4 +17,4 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Contributions a l'etude du 01 - Part 1|Part 1]] (pp. Présentation–102)
+- [[Contributions a l'etude du 01 - Part 1|Part 1]] (pp. 59–102)

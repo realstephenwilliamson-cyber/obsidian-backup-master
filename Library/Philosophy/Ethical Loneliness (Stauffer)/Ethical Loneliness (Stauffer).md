@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Ethical Loneliness 01 - Front matter|Front matter]] (pp. Front Cover–vi)
+- [[Ethical Loneliness 01 - Front matter|Front matter]] (pp. i–vi)
 - [[Ethical Loneliness 02 - Table of Contents|Table of Contents]] (pp. vii–viii)
 - [[Ethical Loneliness 03 - Acknowledgments|Acknowledgments]] (pp. ix–xii)
 - [[Ethical Loneliness 04 - List of Abbreviations|List of Abbreviations]] (pp. xiii–xvi)

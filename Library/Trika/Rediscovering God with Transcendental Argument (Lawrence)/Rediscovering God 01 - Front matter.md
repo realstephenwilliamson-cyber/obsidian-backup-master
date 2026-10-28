@@ -4,7 +4,7 @@ work: "[[Lawrence - Rediscovering God with Transcendental Argument]]"
 book: "[[Library/Trika/Rediscovering God with Transcendental Argument (Lawrence)/Rediscovering God with Transcendental Argument (Lawrence)|Rediscovering God with Transcendental Argument (Lawrence)]]"
 order: 1
 source_pdf: Library/Trika/Lawrence - Rediscovering God with Transcendental Argument (SUNY 1999).pdf
-page_range: C1–ii
+page_range: "i–ii"
 pdf_pages: 1–4
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

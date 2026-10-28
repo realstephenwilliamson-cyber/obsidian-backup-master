@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng) (the PDF 
 
 ## Contents
 
-- [[Problems of Moral Philosophy 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. Cover–iv)
+- [[Problems of Moral Philosophy 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. i–iv)
 - [[Problems of Moral Philosophy 02 - CONTENTS|CONTENTS]] (pp. v–viii)
 - [[Problems of Moral Philosophy 03 - Lecture One|Lecture One]] (pp. 1–11)
 - [[Problems of Moral Philosophy 04 - Lecture Two|Lecture Two]] (pp. 12–21)

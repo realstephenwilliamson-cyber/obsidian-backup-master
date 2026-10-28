@@ -4,7 +4,7 @@ work: "[[Flood (ed.) - The Bhagavad Gita]]"
 book: "[[Library/Hinduism/The Bhagavad Gita (Flood)/The Bhagavad Gita (Flood)|The Bhagavad Gita (Flood)]]"
 order: 1
 source_pdf: Library/Hinduism/Flood (ed.) - The Bhagavad Gita (2015).pdf
-page_range: Cover–ii
+page_range: "i–ii"
 pdf_pages: 1–3
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

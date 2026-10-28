@@ -4,7 +4,7 @@ work: "[[Merleau-Ponty - Humanism and Terror]]"
 book: "[[Library/Philosophy/Humanism and Terror (Merleau-Ponty)/Humanism and Terror (Merleau-Ponty)|Humanism and Terror (Merleau-Ponty)]]"
 order: 7
 source_pdf: Library/Philosophy/Merleau_Ponty_Maurice_Humanism_and_Terror_An_Essay_on_the_Communist_Problem_1969.pdf
-page_range: 178–BC
+page_range: "178–189"
 pdf_pages: 226–238
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

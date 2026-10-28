@@ -222,7 +222,7 @@ INDEX OF TERMS AND DEITIES
 
 435
 
-*[PDF 13]* ^pg13
+*[p. ix]* ^pg13
 
 FOREWORD
 
@@ -230,7 +230,7 @@ About two centuries ago the West discovered the spiritual teachings of the East 
 
 There is, however, one dimension of Eastern teachings which the West is still having trouble with - and that is cosmology. And of all the cosmologies of all the traditions of the East, none can equal that of Kashmir Śaivism. Not only is it stupendously vast and intricately precise, but it is also a teaching of salvation. In fact, it is a cosmological soteriology. That is, both reality and liberation - and hence both illusion and bondage -
 
-*[PDF 14]* ^pg14
+*[p. x]* ^pg14
 
 are defined in terms of levels of manifestation and the laws that govern the appearance of those levels.
 
@@ -264,7 +264,7 @@ yet radically transform it.
 
 Andrew Rawlinson University of Lancaster October 1992
 
-*[PDF 17]* ^pg17
+*[p. xiii]* ^pg17
 
 PREFACE
 
@@ -312,7 +312,7 @@ In future research I hope to develop aspects and themes of the present monograph
 
 A note on transliteration. Due to an insurmountable problem with fonts, it has not been possible to indicate retroflex letters, the visarga or the anusvāra.
 
-*[PDF 23]* ^pg23
+*[p. xix]* ^pg23
 
 ACKNOWLEDGEMENTS
 

@@ -4,7 +4,7 @@ work: "[[Craig - The Platonian Leviathan]]"
 book: "[[Library/Philosophy/The Platonian Leviathan (Craig)/The Platonian Leviathan (Craig)|The Platonian Leviathan (Craig)]]"
 order: 1
 source_pdf: Library/Philosophy/Craig - The Platonian Leviathan (2010).pdf
-page_range: Cover–iii
+page_range: "i–iii"
 pdf_pages: 1–4
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

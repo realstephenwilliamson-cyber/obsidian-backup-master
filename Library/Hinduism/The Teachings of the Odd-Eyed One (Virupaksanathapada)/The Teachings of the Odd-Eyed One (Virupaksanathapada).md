@@ -29,4 +29,4 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin); the PD
 - [[The Teachings of the Odd-Eyed 09 - Notes|Notes]] (pp. 131–158)
 - [[The Teachings of the Odd-Eyed 10 - Glossary|Glossary]] (pp. 159–164)
 - [[The Teachings of the Odd-Eyed 11 - Bibliography|Bibliography]] (pp. 165–184)
-- [[The Teachings of the Odd-Eyed 12 - Index|Index]] (pp. 185–b)
+- [[The Teachings of the Odd-Eyed 12 - Index|Index]] (pp. 185–195)

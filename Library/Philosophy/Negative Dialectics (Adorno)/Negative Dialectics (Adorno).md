@@ -21,4 +21,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Negative Dialectics 02 - Part 2|Part 2]] (PDF 41–80)
 - [[Negative Dialectics 03 - Part 3|Part 3]] (PDF 81–120)
 - [[Negative Dialectics 04 - Part 4|Part 4]] (PDF 121–160)
-- [[Negative Dialectics 05 - Part 5|Part 5]] (pp. 161–188)
+- [[Negative Dialectics 05 - Part 5|Part 5]] (pp. 1–7)

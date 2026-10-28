@@ -19,7 +19,7 @@ Converted from the PDF on 22 Oct 2026 (fresh OCR with Tesseract 5 (eng) of the p
 
 ## Contents
 
-- [[New Critique of Political Economy 01 - Front matter|Front matter (Front matter, Contents)]] (pp. Cover–2)
+- [[New Critique of Political Economy 01 - Front matter|Front matter (Front matter, Contents)]] (pp. iii–2)
 - [[New Critique of Political Economy 02 - 1. Heads Buried in the Sand - A Warning|1. Heads Buried in the Sand - A Warning]] (pp. 3–7)
 - [[New Critique of Political Economy 03 - 2. Introduction|2. Introduction]] (pp. 8–13)
 - [[New Critique of Political Economy 04 - 3. Pharmacology of the Proletariat|3. Pharmacology of the Proletariat]] (pp. 14–44)

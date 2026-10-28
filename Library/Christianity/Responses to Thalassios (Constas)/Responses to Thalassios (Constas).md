@@ -26,7 +26,7 @@ Converted from the PDF on 12 Oct 2026 (PDF text layer (born-digital), PyMuPDF). 
 
 ## Contents
 
-- [[Responses to Thalassios 01 - Front matter|Front matter]] (pp. cover–xii)
+- [[Responses to Thalassios 01 - Front matter|Front matter]] (pp. i–xii)
 - [[Responses to Thalassios 02 - Bibliography|Bibliography]] (pp. xiii–xx)
 - [[Responses to Thalassios 03 - Introduction|Introduction]] (pp. 1–60)
 

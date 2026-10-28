@@ -4,7 +4,7 @@ work: "[[Dyczkowski (tr.) - Tantraloka chapters 1 and 3 (drafts with Sanskrit)]]
 book: "[[Library/Trika/Tantraloka, chapter 1 (Dyczkowski draft)/Tantraloka, chapter 1 (Dyczkowski draft)|Tantraloka, chapter 1 (Dyczkowski draft)]]"
 order: 1
 source_pdf: Library/Trika/Tantraloka-chapter-1.pdf
-page_range: 2–40
+page_range: ""
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

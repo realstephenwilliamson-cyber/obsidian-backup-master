@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)/Tantraloka vol 07 (Dyczkowski)|Tantraloka vol 07 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 07.pdf
-page_range: 1–xvi
+page_range: "ii–xvi"
 pdf_pages: 1–20
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -96,7 +96,7 @@ attend classes on the Nāṭyaśastra with
 
 listen to many lectures and Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
-*[p. m]* ^pg7
+*[p. iii]* ^pg7
 
 are many other renowned scholars in Kāśî whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
@@ -262,7 +262,7 @@ The Existence of Ignorance cannot be Explained, verses 41cd-49, pages 149-156
 
 Positing the Existence of a Binding Power of Impurity is not a Solution, verses 50-51ab, pages 156-157 
 
-*[PDF 13]* ^pg13
+*[p. ix]* ^pg13
 
 The Descent of the Power of Grace Takes Place to the Degree this Binding Power Decreases. This Concept of Impurity is Untenable, verses 51cd-53, pages 157-158 
 
@@ -298,7 +298,7 @@ The Self-created (svayahbhū) Teacher, verses 134cd-135ab, page 208 The Stabiliz
 
 The Greater the Power of Intuition (pratibhā), the Greater the Teacher, verses 138-139, pages 210-211 
 
-*[PDF 14]* ^pg14
+*[p. x]* ^pg14
 
 Initiation and the Like Not Needed for One on the Path of Intuition, verses 140-141, page 211 
 
@@ -452,7 +452,7 @@ Appendix to Chapter Twelve: Chapter Twenty-one of the Fourth Ṣaṭka of the Ja
 
 Kṣemarāja Concerning Initiation, pages 403-429 
 
-*[PDF 18]* ^pg18
+*[p. xiv]* ^pg18
 
 Abbreviations 
 

@@ -30,6 +30,6 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 - [[Mandalas and Yantras 11 - Icons of Inclusivism Appendices|Icons of Inclusivism: Appendices]] (pp. 215–224)
 - [[Mandalas and Yantras 12 - Mandalas in Abhinavagupta's Tantraloka. Andre Padoux|Mandalas in Abhinavagupta's Tantraloka. Andre Padoux]] (pp. 225–238)
 - [[Mandalas and Yantras 13 - The Sricakra according to the First Chapter of the Yoginihrdaya. Andre|The Sricakra according to the First Chapter of the Yoginihrdaya. Andre Padoux 239]] (pp. 239–250)
-- [[Mandalas and Yantras 14 - Vastupurusamandalas - Planning in the Image of Man (Meister)|Vastupurusamandalas: Planning in ihc Image of Man. Michael W. Meister]] (pp. 251–Plate)
+- [[Mandalas and Yantras 14 - Vastupurusamandalas - Planning in the Image of Man (Meister)|Vastupurusamandalas: Planning in ihc Image of Man. Michael W. Meister]] (pp. 251–270)
 - [[Mandalas and Yantras 15 - Bibliography and Abbreviations|Bibliography and Abbreviations]] (pp. 271–290)
 - [[Mandalas and Yantras 16 - Index|Index]] (pp. 291–305)

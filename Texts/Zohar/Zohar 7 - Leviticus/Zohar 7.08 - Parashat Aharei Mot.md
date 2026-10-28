@@ -1312,7 +1312,7 @@ Rabbi Ḥizkiyah said, “From here: *No eye has seen, O God, but You, what He w
 
     The verse in Ecclesiastes reads: *All the streams flow into the sea, yet the sea is not full. To the place that the streams flow, there they flow again* \[literally: *return to flow*\]. In the *Zohar* this verse is expounded frequently, e.g., 1:19b, 29a; 2:30a, 220a, 234b; 3:6b, 43a.
 
-[^44]: **Every day a herald proclaims…** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165a|1:165a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-193a|193a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|2:99a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-80a|3:80a]] (all quoting [[Proverbs 09#^9-1|Proverbs 9]]), and [[Zohar 8.08 - Parashat Naso#^z3-126a|3:126a]] (quoting the verse in [[Proverbs 01#^1-1|Proverbs 1]]). The full verses in [[Proverbs 09#^9-1|Proverbs 9]], spoken by Lady Wisdom, read: *“Whoever is a fool, let him turn aside here, he who lacks sense”—she says to him: “Come, partake of my bread, and drink of the wine I have mixed!”*
+[^44]: **Every day a herald proclaims…** See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-165a|1:165a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-193a|193a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|2:99a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-80a|3:80a]] (all quoting [[Proverbs 09#^9-1|Proverbs 9]]), and [[Zohar 8.08 - Parashat Naso#^z3-126a|3:126a]] (quoting the verse in [[Proverbs 01#^1-1|Proverbs 1]]). The full verses in [[Proverbs 09#^9-1|Proverbs 9]], spoken by Lady Wisdom, read: *“Whoever is a fool, let him turn aside here, he who lacks sense”—she says to him: “Come, partake of my bread, and drink of the wine I have mixed!”*
 
 [^45]: **Torah is destined to be forgotten…** And even among the wise, no one will be able to “close and open,” which can mean to declare forbidden (or impure) and permitted (or pure). “From here on,” that is, from the time of Rabbi Shim’on, there will be no generation as great as his until the Messiah appears.
 
@@ -3372,7 +3372,7 @@ Rabbi Ḥizkiyah said, “From here: *No eye has seen, O God, but You, what He w
 
 [^508]: **he draws a soul for him from the side of impurity…** His own impurity attracts an impure soul for his child, who then grows into a wicked person.
 
-    See *Zohar* [[#^z3-80a|3:80a]]–b. Cf. BT *Nedarim* [[Nedarim 20#20a|20a]]–b. On God’s response to the wicked, see above, note 505.
+    See *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-80a|3:80a]]–b. Cf. BT *Nedarim* [[Nedarim 20#20a|20a]]–b. On God’s response to the wicked, see above, note 505.
 
 [^509]: **the blessed Holy One draws a thread of love…** Distinguishing him and ensuring that no demonic or human forces dare to harm him.
 

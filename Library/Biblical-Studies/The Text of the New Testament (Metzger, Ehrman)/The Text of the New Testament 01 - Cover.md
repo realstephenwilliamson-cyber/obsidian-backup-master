@@ -4,7 +4,7 @@ work: "[[Metzger, Ehrman - The Text of the New Testament]]"
 book: "[[Library/Biblical-Studies/The Text of the New Testament (Metzger, Ehrman)/The Text of the New Testament (Metzger, Ehrman)|The Text of the New Testament (Metzger, Ehrman)]]"
 order: 1
 source_pdf: Library/Biblical-Studies/Metzger, Ehrman - The Text of the New Testament (4th ed., 2005).pdf
-page_range: Cover
+page_range: ""
 pdf_pages: 1–1
 text_source: the scan's OCR text layer (ABBYY FineReader 9), PyMuPDF
 converted: 2026-10-08

@@ -4,7 +4,7 @@ work: "[[Brandon - Jesus and the Zealots]]"
 book: "[[Library/Christianity/Jesus and the Zealots (Brandon)/Jesus and the Zealots (Brandon)|Jesus and the Zealots (Brandon)]]"
 order: 1
 source_pdf: Library/Christianity/Brandon - Jesus and the Zealots (1967).pdf
-page_range: A–ii
+page_range: "i–ii"
 pdf_pages: 1–4
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

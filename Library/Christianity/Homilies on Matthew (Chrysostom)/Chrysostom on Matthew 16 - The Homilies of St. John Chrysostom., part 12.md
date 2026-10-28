@@ -96,7 +96,7 @@ But when thou hearest, “they are delivered,” do not surmise anything human. 
 
 1618 \[“would;” but the whole clause has been freely paraphrased.—R.\] 1619 [[Luke 10#^10-21|Luke x. 21]].
 
-1620 [[Romans 01#^1-28|Rom. i. 28]]. 1621 [[2 Corinthians 04#^4-4|2 Cor. iv. 4]]. \[“This passage is irrelevant, since it speaks of “the god of this world.”—R.\] 1622 \[See above, and note 1, p. 250.—R.\] 1623 [[Matthew 11#^11-27|Matt. xi. 27]]. βοληται. \[R.V., “willeth.”\] 1625 1626 [[Matthew 11#^11-27|Matt. xi. 27]]. 1627 [[John 14#^14-6|John xiv. 6]]. ἐπσταται. 1628 1629 That is, that none but the Father has full knowledge of Him.
+1620 [[Romans 01#^1-28|Rom. i. 28]]. 1621 [[2 Corinthians 04#^4-4|2 Cor. iv. 4]]. \[“This passage is irrelevant, since it speaks of “the god of this world.”—R.\] 1622 \[See above, and note 1, p. 250.—R.\] 1623 [[Matthew 11#^11-27|Matt. xi. 27]].
 
 
 *[p. 450]* ^pg458
@@ -110,6 +110,8 @@ And thereby he establishes another point also, His being in harmony and of one m
 But when He saith, “Neither knoweth any man the Father, save the Son,” He means not this, that all men were ignorant of Him, but that with the knowledge wherewith He knows<sup>1628</sup> Him, no man is acquainted with Him; which may be said of the Son too.<sup>1629</sup> For it was not of some God unknown, and revealed to no man, that He was so speaking, as Marcion saith;<sup>1630</sup>but it is the perfection of knowledge that He is here intimating, since neither do we know the Son as He should be known; and this very thing, to add no more, Paul was declaring, when he said, “We know in part, and we prophesy in part.”<sup>1631</sup>
 
 3\. Next, having brought them by His words to an earnest desire, and having signified His unspeakable power, He after that invites them, saying, “Come unto me, all ye that labor and are heavy laden, and I will give you rest.”<sup>1632</sup> Not this or that person, but all that are in
+
+βοληται. \[R.V., “willeth.”\] 1625 1626 [[Matthew 11#^11-27|Matt. xi. 27]]. 1627 [[John 14#^14-6|John xiv. 6]]. ἐπσταται. 1628 1629 That is, that none but the Father has full knowledge of Him.
 
 1630 Tertull. adv. Marc. i. 8. “The Marcionites bring forward a new God, as if we were ashamed of the ancient One.…I hear them talk of a new God, in the old world and in the old age, and under that ancient God, unknown and unheard of.” \[*Ante-Nicene Fathers*, vol. iii. p. 276.\] It seems to have been common to all the Oriental sects, to speak of the Supreme God as utterly unknown until the Christian dispensation began. 1631 [[1 Corinthians 13#^13-9|1 Cor. xiii. 9]].
 
@@ -407,7 +409,7 @@ And who knows not, one may say, that envy is an evil thing? No one indeed is ign
 
 Herewith consider this also; that thou injurest not him whom thou enviest, but into thyself thou art thrusting the sword. For wherein did Cain injure Abel? Did he not even against his own will send him the more quickly into the kingdom? but himself he pierced through with innumerable evils. Wherein did Esau harm Jacob? Did not Jacob grow wealthy, and enjoy unnumbered blessings; while he himself both became an outcast from his father’s house, and wandered in a strange land, after that plot of his?<sup>1707</sup> And wherein did Jacob’s sons again make Joseph the worse, and this, though they proceeded even unto blood? had not they to endure famine, and encounter peril to the utmost, whereas he became king of all Egypt? For the more thou enviest, the more dost thou become a procurer of greater blessing to the object of thine envy. For there is a God who beholds these things; and when
 
-1706 Numb. xvi. Gen. xxvii. 41. 257 1708 Prov. xxiv. 17, 18. 1709 [[Matthew 05#^5-46|Matt. v. 46]]. \[γέενναν.\]
+1706 Numb. xvi. Gen. xxvii. 41.
 
 
 *[p. 468]* ^pg476
@@ -425,6 +427,8 @@ Let us then extirpate the many-headed wild beast. For in truth many are the kind
 For what serious harm shall he do to him? vote him out of his office? And what of that? For if it be justly done, he is even profited; for nothing so provokes God, as for one to hold the priest’s office unworthily. But if unjustly, the blame again falls on the other, not on him; for he who hath suffered anything unjustly, and borne it nobly, obtains in this way the greater confidence towards God.
 
 Let us not then aim at this, how we may be in places of power, and honor, and authority, but that we may live in virtue and self denial. For indeed places of authority persuade men to do many things which are not approved of God; and great vigor of soul is needed, in order to use authority aright. For as he that is deprived thereof, practises self restraint, whether with or against his will, so he that enjoys it is in some such condition, as if any one living with a graceful and beautiful damsel were to receive rules never to look upon her
+
+257 1708 Prov. xxiv. 17, 18. 1709 [[Matthew 05#^5-46|Matt. v. 46]]. \[γέενναν.\]
 
 *[p. 469]* ^pg477
 
@@ -473,7 +477,7 @@ Yet surely, if He had been minded to extend his speech in length, and to make th
 
 How then doth He plead with them? Not by allegation out of the Scriptures (for they would not so much as attend, but were sure rather to distort their meaning), but by the events of ordinary life. For “every kingdom,” saith He, “divided against itself shall not stand; and a city and a house, if it be divided, is soon dissolved.”<sup>1716</sup>
 
-1715 [[Matthew 09#^9-34|Matt. ix. 34]]. \[“Demons,” and so throughout.—R.\] \[Comp. ver se 25.\] 259 1717 See [[Matthew 12#^12-3|Matt. xii. 3]], [[Matthew 12#^12-5|5]], [[Matthew 12#^12-7|7]], and [[Mark 02#^2-27|Mark ii. 27]]. 1718 [[Matthew 12#^12-27|Matt. xii. 27]]. εγνειαν, “hereditary good feeling.” \[Comp. [[Acts 17#^17-11|Acts xvii. 11]].\]
+1715 [[Matthew 09#^9-34|Matt. ix. 34]]. \[“Demons,” and so throughout.—R.\] \[Comp. ver se 25.\]
 
 
 *[p. 472]* ^pg480
@@ -491,6 +495,8 @@ Seest thou how great the absurdity of the accusation, how great the folly, the i
 See here too His gentleness. For He said not, “my disciples,” nor, “the apostles,” but “your sons;” to the end that if indeed they were minded to return to the same nobleness<sup>1719</sup>with them, they might derive hence a powerful spring that way; but if they were uncandid, and continued in the same course, they might not thenceforth be able to allege any plea, though ever so shameless.
 
 But what He saith is like this, “By whom do the apostles cast them out?” For in fact they were doing so already, because they had received authority from Him, and these men brought no charge against them; their quarrel not being with the acts, but with the person only. As then it was His will to show that their sayings arose only from their envy against Him, He
+
+259 1717 See [[Matthew 12#^12-3|Matt. xii. 3]], [[Matthew 12#^12-5|5]], [[Matthew 12#^12-7|7]], and [[Mark 02#^2-27|Mark ii. 27]]. 1718 [[Matthew 12#^12-27|Matt. xii. 27]]. εγνειαν, “hereditary good feeling.” \[Comp. [[Acts 17#^17-11|Acts xvii. 11]].\]
 
 *[p. 473]* ^pg481
 
@@ -529,7 +535,7 @@ And He said not, He will take away, but “He will spoil,” to express what is 
 
 Behold also a fourth refutation. For what is my desire? saith He. To bring men to God, to teach virtue, to proclaim the kingdom. What, that of the devil, and the evil spirits? The contrary to these. How then should he that gathers not with me, nor is at all with me, be likely to co-operate with me? And why do I say co-operate? Nay, on the contrary, his desire is rather to scatter abroad my goods. He then who is so far from cooperating that he even scatters abroad, how should he have exhibited such unanimity with me, as with me to cast out the devils?
 
-1723 [[Matthew 12#^12-29|Matt. xii. 29]]. \[The R.V and A.V. follow a different reading in the last clause.—R.\] 261 1725 [[Mark 09#^9-40|Mark ix. 40]]; [[Luke 09#^9-50|Luke ix. 50]]. \[In Mark “us” is better supported.—R.\] 1726 [[Mark 09#^9-38|Mark ix. 38]] ; [[Luke 09#^9-49|Luke ix. 49]]. 1727 [[Matthew 12#^12-31|Matt. xii. 31]]. \[R.V. “every sin,” etc.\] [[Matthew 12#^12-31|Matt. xii. 31]], [[Matthew 12#^12-32|32]]. \[The Greek text is almost identical with that followed in the R.V.—R.\]
+1723 [[Matthew 12#^12-29|Matt. xii. 29]]. \[The R.V and A.V. follow a different reading in the last clause.—R.\]
 
 
 *[p. 475]* ^pg483
@@ -550,6 +556,8 @@ First then it were well to listen to the very words: “All manner of sin and bl
 
 What now is it that He affirms? Many things have ye spoken against me; that I am a deceiver, an adversary of God. These things I forgive you on your repentance, and exact no penalty of you; but blasphemy against the Spirit shall not be forgiven, no, not to those who repent. And how can this be right? For even this was forgiven upon repentance. Many at least of those who said these words believed afterward, and all was forgiven them. What is it then that He saith? That this sin is above all things unpardonable. Why so? Because
 
+261 1725 [[Mark 09#^9-40|Mark ix. 40]]; [[Luke 09#^9-50|Luke ix. 50]]. \[In Mark “us” is better supported.—R.\] 1726 [[Mark 09#^9-38|Mark ix. 38]] ; [[Luke 09#^9-49|Luke ix. 49]]. 1727 [[Matthew 12#^12-31|Matt. xii. 31]]. \[R.V. “every sin,” etc.\] [[Matthew 12#^12-31|Matt. xii. 31]], [[Matthew 12#^12-32|32]]. \[The Greek text is almost identical with that followed in the R.V.—R.\]
+
 *[p. 476]* ^pg484
 
 Himself indeed they knew not, who He might be, but of the Spirit they received ample experience. For the prophets also by the Spirit said whatever they said; and indeed all in the Old Testament had a very high notion of Him.
@@ -564,7 +572,7 @@ Let us labor, therefore, to be of the same part with these: or if not with these
 
 1729 See 1 Cor. v. and vi.
 
-1730 See 1 Cor. v. and vi. ἀποτηγανιζμενο, “was broiling.” 262 1732 [[1 Corinthians 11#^11-31|1 Cor. xi. 31]]. \[The Greek text of [[1 Corinthians 11#^11-31|1 Cor. xi. 31]] is slightly modified here.—R.\] 1733 Isa. xliii. 26 \[LXX.\]. \[This clause is wanting in three mss.—R.\]
+1730 See 1 Cor. v. and vi. ἀποτηγανιζμενο, “was broiling.”
 
 
 *[p. 477]* ^pg485
@@ -576,6 +584,8 @@ But how are we to exact our own penalty? one may ask. Lament, groan bitterly, hu
 Account not then these things to be little, but put all together, and write them as in a book. For if thou write them down, God blots them out; even as on the other hand, if thou omit writing them, God both inscribes them, and exacts their penalty. It were then far better for them to be written by us, and blotted out above, than on the contrary, when we have forgotten them, for God to bring them before our eyes in that day.
 
 Therefore that this may not be so, let us reckon up all with strictness, and we shall find ourselves answerable for much. For who is clear from covetousness? Nay, tell me not of the quantity, but since even in a small amount we shall pay the same penalty, consider this and repent. Who is rid of all insolence? Yet this casts into hell. Who hath not secretly spoken evil of his neighbor? Yet this deprives one of the Kingdom.<sup>1734</sup> Who hath not been self-willed? Yet this man is more unclean than all. Who hath not looked with unchaste eyes? Yet this is a complete adulterer. Who hath not been “angry with his brother without a cause”? Yet such an one is “in danger of the council.” Who hath not sworn? Yet this thing is of the evil one. Who hath not forsworn himself? but this man is something more than of the evil
+
+262 1732 [[1 Corinthians 11#^11-31|1 Cor. xi. 31]]. \[The Greek text of [[1 Corinthians 11#^11-31|1 Cor. xi. 31]] is slightly modified here.—R.\] 1733 Isa. xliii. 26 \[LXX.\]. \[This clause is wanting in three mss.—R.\]
 
 *[p. 478]* ^pg486
 
@@ -647,7 +657,7 @@ And that is idle, which is not according to the fact, which is false, which hath
 
 Thus the plotter destroys himself first; just as he that treads<sup>1742</sup>on fire burns up himself, and he that smites adamant spites himself, and he that kicks against the pricks draws blood from himself. For somewhat of this kind is he that knows how to suffer wrong, and to bear it manfully; he is adamant, and the pricks, and fire; but he that hath used himself to do wrong is feebler than any clay.
 
-1740 [[Matthew 12#^12-36|Matt. xii. 36]]. 1741 [[Matthew 12#^12-37|Matt. xii. 37]]. πατν. Bened. from mss. ἀνπτων, “he that kindles:” which seems to agree with the tenor of the sentence 1742 better. \[There are other various readings: ἅπτωνἄπτων. All can be more readily accounted for, if πατν is accepted as the original form.—R.\] 265 1743 \[Oxford Version: “things;” probably a misprint, the Greek being the same as before.—R.\] Gen. xxxi. 29.
+1740 [[Matthew 12#^12-36|Matt. xii. 36]]. 1741 [[Matthew 12#^12-37|Matt. xii. 37]]. πατν. Bened. from mss. ἀνπτων, “he that kindles:” which seems to agree with the tenor of the sentence 1742 better. \[There are other various readings: ἅπτωνἄπτων. All can be more readily accounted for, if πατν is accepted as the original form.—R.\]
 
 
 *[p. 482]* ^pg490
@@ -661,6 +671,8 @@ But that I may give you another demonstration of what I have said, greater than 
 Would ye that in another way also I should make what I say plainer? Let us look into their case, who avenge themselves even justly. For as to the wrong doers, that they are the most worthless of all men, warring against their own soul; this is surely plain to every one.
 
 But who avenged himself justly, yet kindled innumerable ills, and pierced himself through with many calamities and sorrows? The captain of David’s host. For he both stirred up a
+
+265 1743 \[Oxford Version: “things;” probably a misprint, the Greek being the same as before.—R.\] Gen. xxxi. 29.
 
 *[p. 483]* ^pg491
 

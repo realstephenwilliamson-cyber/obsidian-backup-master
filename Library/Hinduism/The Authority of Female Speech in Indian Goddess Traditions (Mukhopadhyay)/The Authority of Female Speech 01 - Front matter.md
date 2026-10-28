@@ -4,7 +4,7 @@ work: "[[Mukhopadhyay - The Authority of Female Speech in Indian Goddess Traditi
 book: "[[Library/Hinduism/The Authority of Female Speech in Indian Goddess Traditions (Mukhopadhyay)/The Authority of Female Speech in Indian Goddess Traditions (Mukhopadhyay)|The Authority of Female Speech in Indian Goddess Traditions (Mukhopadhyay)]]"
 order: 1
 source_pdf: Library/Hinduism/Mukhopadhyay - The Authority of Female Speech in Indian Goddess Traditions (2020).pdf
-page_range: C1–iv
+page_range: "i–iv"
 pdf_pages: 1–4
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

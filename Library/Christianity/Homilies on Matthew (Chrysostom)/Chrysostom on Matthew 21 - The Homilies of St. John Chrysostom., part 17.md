@@ -32,7 +32,7 @@ This, when He sat on the mount also, He advised; at one time bringing him who ha
 
 But here He is devising another mode. For not him that gave the pain, *doth He now call upon*,<sup>2337</sup>but him that was pained He brings to this one. For because this who hath done the wrong would not easily come to make excuse, out of shame, and confusion of face, He draws that other to him, and not merely so, but in such way as also to correct what hath been done. And He saith not, “Accuse,” nor “Charge him,” nor “Demand satisfaction, and an account,” but, “Tell him of his fault,”<sup>2338</sup>saith He. For he is held in a kind of stupor
 
-2333 \[The form of the Greek verb here is peculiar to the text of the Homily. R.V., “sin,” for “trespass.”—R.\] 2334 Lit. “reprove” or “convict him.” 2335 [[Matthew 05#^5-24|Matt. v. 24]]. \[But the citation is fuller: “If thou art standing by the altar and rememberest that thy brother hath aught against thee, go away, be reconciled,” etc.—R.\] 2336 [[Matthew 06#^6-12|Matt. vi. 12]]. 2337 \[Supplied by translator.\] Or, “Convict him.” 355 2339 [[Matthew 18#^18-16|Matt. xviii. 16]]. \[The words “or three” are omitted in the Homily here, but not below. In both cases the form of the verb is changed.—R.\]
+2333 \[The form of the Greek verb here is peculiar to the text of the Homily. R.V., “sin,” for “trespass.”—R.\] 2334 Lit. “reprove” or “convict him.” 2335 [[Matthew 05#^5-24|Matt. v. 24]]. \[But the citation is fuller: “If thou art standing by the altar and rememberest that thy brother hath aught against thee, go away, be reconciled,” etc.—R.\] 2336 [[Matthew 06#^6-12|Matt. vi. 12]]. 2337 \[Supplied by translator.\] Or, “Convict him.”
 
 
 *[p. 645]* ^pg653
@@ -45,7 +45,9 @@ For since thou appearedst to be too weak alone, make thyself more powerful by th
 
 Wherefore, with respect to them that are without He saith no such thing, but, “If any one smite thee,” He saith, “on thy right cheek, turn to him the other also,”<sup>2341</sup>but here not in such wise. For what Paul meaneth, saying, “What have I to do to judge them also that are without?”<sup>2342</sup>but the brethren he commands both to tell of their faults, and to avoid them, and to cut them off, not being obedient, that they may be ashamed; this Himself also doeth here, making these laws about the brethren; and He sets three<sup>2343</sup>over him for teachers and judges, to teach him the things that are done at the time of his drunkenness. For though it be himself that hath said and done all those unreasonable things, yet he will need others to
 
-2340 [[Matthew 18#^18-17|Matt. xviii. 17]]. 2341 [[Matthew 05#^5-39|Matt. v. 39]]. 2342 [[1 Corinthians 05#^5-12|1 Cor. v. 12]]. \[Oxford edition, “these,” misprint, since the Greek word is τρε.—R.\] ἐκστατικτερον. 2344 2345 [[Matthew 05#^5-46|Matt. v. 46]].
+355 2339 [[Matthew 18#^18-16|Matt. xviii. 16]]. \[The words “or three” are omitted in the Homily here, but not below. In both cases the form of the verb is changed.—R.\]
+
+2340 [[Matthew 18#^18-17|Matt. xviii. 17]]. 2341 [[Matthew 05#^5-39|Matt. v. 39]]. 2342 [[1 Corinthians 05#^5-12|1 Cor. v. 12]]. \[Oxford edition, “these,” misprint, since the Greek word is τρε.—R.\]
 
 
 *[p. 646]* ^pg654
@@ -66,6 +68,8 @@ But what is, “In the mouth of two or three witnesses every word shall be estab
 
 But mark thou, I pray thee, how everywhere He putteth the publican for an example of the greatest wickedness. For above too He saith, “Do not even the publicans the same?”<sup>2345</sup> And further on again, “Even the publicans and the harlots shall go before you into the Kingdom of Heaven,”<sup>2346</sup>that is, they who are utterly reprobated and condemned. Let them hearken, who are rushing upon unjust gains, who are counting up usuries upon usuries.
 
+ἐκστατικτερον. 2344 2345 [[Matthew 05#^5-46|Matt. v. 46]].
+
 *[p. 647]* ^pg655
 
 But why did He set him with these? To soothe the person wronged, and to alarm him. Is this only then the punishment? Nay, but hear also what follows. “Whatsoever ye shall bind on earth shall be bound in Heaven.”<sup>2347</sup> And He did not say to the ruler of the church, “Bind such a man,” but, “If thou bind,” committing the whole matter to the person himself, who is aggrieved, and the bonds abide indissoluble. Therefore he will suffer the utmost ills; but not he who hath brought him to account is to blame, but he who hath not been willing to be persuaded.
@@ -80,7 +84,7 @@ Seest thou how by another motive also He puts down our enmities, and takes away 
 
 2347 [[Matthew 18#^18-18|Matt. xviii. 18]]. \[R.V., “What things soever,” etc. But the singular pronoun is substituted in the text of the Homily.—R.\] 2348 \[A clause is omitted here, “and doth not straightway cut him off.”—R.\] 2349 [[Matthew 18#^18-19|Matt. xviii. 19]], [[Matthew 18#^18-20|20]]. μικροψυχα .
 
-2350 [[2 Corinthians 12#^12-9|2 Cor. xii. 9]]. \[R.V., “for *my* power is made perfect in weakness.”\] πολιτεαν. 2352 2353 [[Matthew 05#^5-44|Matt. v. 44]]. 2354 Jer. xi. 14. ἐπικηρων.
+2350 [[2 Corinthians 12#^12-9|2 Cor. xii. 9]]. \[R.V., “for *my* power is made perfect in weakness.”\]
 
 
 *[p. 648]* ^pg656
@@ -97,6 +101,8 @@ But now we see the more part having other motives of friendship. For one loves, 
 
 And this is evident from the causes that work enmity. For because they are bound one to another by these temporal<sup>2355</sup>motives, therefore they are neither fervent towards one
 
+πολιτεαν. 2352 2353 [[Matthew 05#^5-44|Matt. v. 44]]. 2354 Jer. xi. 14. ἐπικηρων.
+
 *[p. 649]* ^pg657
 
 another, nor constant, but insult, and loss of money, and envy, and love of vainglory, and every such thing coming upon them, severs the love-tie. For it finds not the root spiritual. Since if indeed it were such, no worldly thing would dissolve things spiritual. For love for Christ’s sake is firm, and not to be broken, and impregnable, and nothing can tear it asunder; not calumnies, not dangers, not death, no other thing of this kind. For though he suffer ten thousand things, who thus loves; looking to the ground of his love, he will not desist. For 357
@@ -111,7 +117,7 @@ And those even that crucified Him, and acted in so many instances with contumely
 
 This love then let us also imitate, unto this let us look, that being followers of Christ, we may attain both unto the good things here, and unto those to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might world without end. Amen.
 
-2356 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. \[R.V., “Love never faileth.” The Greek word is rendered “love” throughout this part of the Homily.—R.\] 2357 [[John 15#^15-13|John xv. 13]]. 358 2359 \[R.V. margin, “seventy times and seven.” There is no difference of reading, but one of interpretation. Comp. Augustin, vol. vi., p. 107, *Nicene and Post Nicene Fathers*. Chrysostom does not indicate which view he accepts.—R.\]
+2356 [[1 Corinthians 13#^13-8|1 Cor. xiii. 8]]. \[R.V., “Love never faileth.” The Greek word is rendered “love” throughout this part of the Homily.—R.\] 2357 [[John 15#^15-13|John xv. 13]].
 
 
 *[p. 650]* ^pg658
@@ -133,6 +139,8 @@ What then saith Christ, the good God, who is loving towards man? “I say not un
 This at least He indicated by the parable that is put after. For that He might not seem to any to enjoin great things and hard to bear, by saying, “Seventy times seven,” He added this parable, at once both leading them on to what He had said, and putting down him who was priding himself upon this, and showing the act was not grievous, but rather very easy. Therefore let me add, He brought forward His own love to man, that by the comparison, as He saith, thou mightest learn, that though thou forgive seventy times seven, though thou continually pardon thy neighbor for absolutely all his sins, as a drop of water to an endless sea, so much, or rather much more, doth thy love to man come short in comparison of the boundless goodness of God, of which thou standest in need, for that thou art to be judged, and to give an account.
 
 Wherefore also He went on to say, “The Kingdom of Heaven is likened unto a certain king, which would take account of his servants.<sup>2361</sup> And when he had begun to reckon, one
+
+358 2359 \[R.V. margin, “seventy times and seven.” There is no difference of reading, but one of interpretation. Comp. Augustin, vol. vi., p. 107, *Nicene and Post Nicene Fathers*. Chrysostom does not indicate which view he accepts.—R.\]
 
 2360 1 Sam. ii. 5. \[R.V., “make a reckoning.”\]
 
@@ -215,7 +223,7 @@ Bearing in mind all these things, and considering the ten thousand talents, let 
 
 In order then that we may learn this well, let us hear the whole parable, going on regularly through it. “For there was brought unto Him,” it saith, “one which owed ten thousand talents,
 
-2370 2371 Jer. ii. 12. ἐξεβακχεθη. 2372 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was 2373 implied in “husbandry” (γεωργαν).—R.\] 361 2374 \[“The lord of that servant,” according to our authorities; the Homily varies.—R.\] 2375 [[Matthew 18#^18-26|Matt. xviii. 26]], [[Matthew 18#^18-27|27]]. ἕναυλον. 2376
+2370 2371 Jer. ii. 12. ἐξεβακχεθη. 2372 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was 2373 implied in “husbandry” (γεωργαν).—R.\]
 
 
 *[p. 655]* ^pg663
@@ -233,6 +241,8 @@ What then saith the other? “Have patience with me, and I will pay thee all. An
 For, “he found one of his fellow-servants, which owed him an hundred pence, and took him by the throat, saying, Pay me what thou owest.”<sup>2377</sup>
 
 Seest thou the master’s benevolence? Seest thou the servant’s cruelty? Hear, ye who do these things for money. For if for sins we must not do so, much more not for money.
+
+361 2374 \[“The lord of that servant,” according to our authorities; the Homily varies.—R.\] 2375 [[Matthew 18#^18-26|Matt. xviii. 26]], [[Matthew 18#^18-27|27]]. ἕναυλον. 2376
 
 *[p. 656]* ^pg664
 
@@ -252,7 +262,7 @@ And whereas, when he owed ten thousand talents, he called him not wicked, neithe
 
 2378 [[Matthew 18#^18-29|Matt. xviii. 29]]. \[R.V. omits “all” in this verse, with the best authorities. Probably taken from verse 26.—R.\] 2379 \[R.V., “besoughtest.”\]
 
-2380 [[Matthew 18#^18-32|Matt. xviii. 32]]. \[R.V., “have had mercy on thy fellow servant, even as I had mercy on thee.” The verb is the same in both clauses. “On thy fellow servant,” omitted here, is inserted in the comment.—R.\] 362 2381 [[Romans 11#^11-29|Rom. xi. 29]]. \[Freely cited.\] 2382 [[Matthew 18#^18-35|Matt. xviii. 35]]. \[The best New Testament authorities omit “their trespasses,” which was readily introduced from similar passages.—R.\]
+2380 [[Matthew 18#^18-32|Matt. xviii. 32]]. \[R.V., “have had mercy on thy fellow servant, even as I had mercy on thee.” The verb is the same in both clauses. “On thy fellow servant,” omitted here, is inserted in the comment.—R.\]
 
 
 *[p. 657]* ^pg665
@@ -274,6 +284,8 @@ He saith not “your Father,” but “my Father.” For it is not meet for God 
 Let us not then thrust the sword into ourselves by being revengeful. For what grief hath he who hath grieved thee inflicted upon thee, like thou wilt work unto thyself by keeping thine anger in mind, and drawing upon thyself the sentence from God to condemn thee? For if indeed thou art watchful, and keepest thyself under control, the evil will come round upon his head, and it will be he that will suffer harm; but if thou shouldest continue indignant, and displeased, then thyself wilt undergo the harm not from him, but from thyself.
 
 Say not then that he insulted thee, and slandered thee, and did unto thee ills beyond number; for the more thou tellest, so much the more dost thou declare him a benefactor. For he hath given thee an opportunity to wash away thy sins; so that the greater the injuries he hath done thee, so much more is he become to thee a cause of a greater remission of sins.
+
+362 2381 [[Romans 11#^11-29|Rom. xi. 29]]. \[Freely cited.\] 2382 [[Matthew 18#^18-35|Matt. xviii. 35]]. \[The best New Testament authorities omit “their trespasses,” which was readily introduced from similar passages.—R.\]
 
 *[p. 658]* ^pg666
 
@@ -388,7 +400,7 @@ But what took place there, this happened here also. For as there, when the Jews 
 
 For now they understood the saying more than before. Therefore then indeed they held their peace, but now when there hath been gainsaying, and answering, and question, and learning by reply, and the law appeared more clear, they ask Him. And openly to contradict they do not dare, but they bring forward what seemed to be a grievous and galling result of
 
-2393 \[The citation agrees with the briefer reading, accepted by Tischendorf; comp. R.V. margin.—R.\] 2394 [[Matthew 15#^15-11|Matt. xv. 11]]. 2395 [[Matthew 12#^12-12|Matt. xii. 12]]. 2396 [[Matthew 15#^15-15|Matt. xv. 15]]. [[Matthew 19#^19-10|Matt. xix. 10]]. \[Compare the more exact citation which follows.—R.\] 366 2398 [[Mark 10#^10-10|Mark x. 10]]. 2399 [[Matthew 19#^19-11|Matt. xix. 11]].
+2393 \[The citation agrees with the briefer reading, accepted by Tischendorf; comp. R.V. margin.—R.\] 2394 [[Matthew 15#^15-11|Matt. xv. 11]]. 2395 [[Matthew 12#^12-12|Matt. xii. 12]]. 2396 [[Matthew 15#^15-15|Matt. xv. 15]]. [[Matthew 19#^19-10|Matt. xix. 10]]. \[Compare the more exact citation which follows.—R.\]
 
 
 *[p. 664]* ^pg672
@@ -404,6 +416,8 @@ But see herein a contradiction. For He indeed saith this is a great thing; but t
 For the excision of a member is not able to quell such waves, and to make a calm, like the curb of reason; or rather, reason only can do this.
 
 For this intent therefore He brought in those others, even that He might encourage these, since if this was not what He was establishing, what means His saying concerning the other eunuchs? But when He saith, that they made themselves eunuchs, He means not the
+
+366 2398 [[Mark 10#^10-10|Mark x. 10]]. 2399 [[Matthew 19#^19-11|Matt. xix. 11]].
 
 *[p. 665]* ^pg673
 
@@ -437,7 +451,7 @@ Let us also then, if we would be inheritors of the Heavens, possess ourselves of
 
 Therefore He said, “of such is the kingdom of Heaven,” that by choice we should practise these things, which young children have by nature. For since the Pharisees from nothing else so much as out of craft and pride did what they did, therefore on every hand He charges the disciples to be single hearted, both darkly hinting at those men, and instructing these.
 
-2403 [[Matthew 19#^19-13|Matt. xix. 13–15]]. 368 σοβεν. 2405 μεσασμος. 2406 2407 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. 2408 Prov. ix. 12, LXX. 1 Sam. xxviii. 15.
+2403 [[Matthew 19#^19-13|Matt. xix. 13–15]].
 
 
 *[p. 667]* ^pg675
@@ -453,6 +467,8 @@ Let us then also be like the little children, and “in malice be we babes.”<s
 For what could be more wicked than that man, who when he was leading his armies, and bringing all his wars to a successful issue, and undergoing the labors of the victory and the trophies, but bringing the crowns to him, assayed to slay him?
 
 6\. Such is the nature of envy, it is ever plotting against its own honors, and wasting him that hath it, and encompassing him with countless calamities. And that miserable man, for instance, until David departed, burst not forth into that piteous cry, bewail ing himself and saying, “I am sore distressed, and the Philistines make war against me, and the Lord is departed from me.”<sup>2409</sup> Until he was separated from David, he fell not in war, but was both
+
+368 σοβεν. 2405 μεσασμος. 2406 2407 [[1 Corinthians 14#^14-20|1 Cor. xiv. 20]]. 2408 Prov. ix. 12, LXX. 1 Sam. xxviii. 15.
 
 *[p. 668]* ^pg676
 
@@ -495,7 +511,7 @@ Wherefore then doth Christ thus reply to him, saying, “There is none good?”<
 
 And when He saith this self-same thing, He saith it not as depriving even men of goodness, but in contradistinction to the goodness of God. Wherefore also He added, “But one, that is, God;” and He said not, “but my Father,” that thou mightest learn that He had not revealed Himself to the young man. So also further back He called men evil, saying, “If ye, being evil, know how to give good gifts to your children.”<sup>2417</sup> For indeed there too He called them evil, not as condemning the whole race as evil (for by “ye,” He means not “ye men”), but comparing the goodness that is in men with the goodness of God, He thus named
 
-2412 [[Mark 10#^10-17|Mark x. 17–21]]. 2413 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.”\] 2414 [[Matthew 19#^19-17|Matt. xix. 17]]. \[This clause is found in the rec. text, but not in the better supported form of the verse, which reads, “Why askest thou me concerning that which is good? One there is who is good.” It is probable, but not certain, that Chrysostom accepted the other form of the text. Comp. note on Homily XXVII. 5., p. 186.—R.\] 2415 [[John 04#^4-22|John iv. 22]]. 2416 [[John 05#^5-31|John v. 31]]. 370 \[φησν, “one may say,” occurs in the Greek here.—R.\] 2418 2419 [[Matthew 19#^19-20|Matt. xix. 20]]. \[R.V. omits “from my youth up.”\]
+2412 [[Mark 10#^10-17|Mark x. 17–21]]. 2413 [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.”\] 2414 [[Matthew 19#^19-17|Matt. xix. 17]]. \[This clause is found in the rec. text, but not in the better supported form of the verse, which reads, “Why askest thou me concerning that which is good? One there is who is good.” It is probable, but not certain, that Chrysostom accepted the other form of the text. Comp. note on Homily XXVII. 5., p. 186.—R.\] 2415 [[John 04#^4-22|John iv. 22]]. 2416 [[John 05#^5-31|John v. 31]].
 
 
 *[p. 671]* ^pg679
@@ -507,6 +523,8 @@ Since also when He saith, “Call no one master upon earth,” it is in contradi
 If he had come unto Him tempting, he would not have departed sorrowing for what he heard. This was not at any rate ever the feeling of any of the Pharisees, but they grew fierce when their mouths were stopped. But not so this man; but he goeth away cast down, which is no little sign that not with an evil will he had come unto Him, but with one too feeble, and that he did indeed desire life, but was held in subjection by another and most grievous feeling.
 
 Therefore when Christ said, “If thou wilt enter into life, keep the commandments,” he saith, “Which?” Not tempting, far from it, but supposing there were some others besides those of the law that should procure him life, which was like one who was very desirous. Then since Jesus mentioned those out of the law, he saith, “All these things have I kept from my youth up.”<sup>2419</sup> And neither at this did he stop, but again asks, “What lack I yet?” which itself again was a sign of his very earnest desire.<sup>2420</sup>
+
+370 \[φησν, “one may say,” occurs in the Greek here.—R.\] 2418 2419 [[Matthew 19#^19-20|Matt. xix. 20]]. \[R.V. omits “from my youth up.”\]
 
 2420 \[An important sentence is omitted here: “But that also was not a little thing which he supposed he lacked, nor did he think that what he had said sufficed for attaining what he desired.”—R.\]
 
@@ -592,7 +610,7 @@ Therefore they that are without used to call the love of money the citadel<sup>2
 
 Considering then all these things, let us emulate the things worthy of emulation, not gorgeous buildings not costly estates, but the men that have much confidence towards God, those that have riches in Heaven, the owners of those treasures, them that are really rich, them that are poor for Christ’s sake, that we may attain unto the good things of eternity by the grace and love towards man of our Lord Jesus Christ, with whom be unto the Father, together with the Holy Ghost, glory, might, honor, now and always and world without end. Amen.
 
-2434 Mr. Field cites Stobæus, p. 130, 52, of Bion, and Diog. Laert. vi. 50, of Diogenes the cynic, noting that both say μητρπολι, not ἀκρπολι. See Adnot. p. 133. [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.” 374 2436 [[Matthew 19#^19-21|Matt. xix. 21]].
+2434 Mr. Field cites Stobæus, p. 130, 52, of Bion, and Diog. Laert. vi. 50, of Diogenes the cynic, noting that both say μητρπολι, not ἀκρπολι. See Adnot. p. 133. [[1 Timothy 06#^6-10|1 Tim. vi. 10]]. \[R.V., “a root of all kinds of evil.”
 
 
 *[p. 678]* ^pg686
@@ -615,6 +633,8 @@ What then saith He? “Verily, I say unto you, that ye which have followed me, i
 
 Hear how, and on what principle. There is a law ordained of God, recited by Jeremiah, the prophet to the Jews, and in these words: “At what instant I shall speak a sentence concerning a nation and kingdom, to pluck up and destroy; if that nation turn from their evil deeds, I also will repent of the evils, which I thought to do unto them. And at what instant I shall speak concerning a nation and kingdom to build and to plant it; and if they do evil
 
+374 2436 [[Matthew 19#^19-21|Matt. xix. 21]].
+
 *[p. 679]* ^pg687
 
 in my sight, that they obey not my voice, I also will repent of the good, which I said I would do unto them.”<sup>2438</sup>
@@ -633,7 +653,7 @@ For lest any after having heard the word “ye,” should suppose this a thing p
 
 2438 Jer. xviii. 7–10. 2439 Gen. ix. 2.
 
-2440 [[Matthew 19#^19-29|Matt. xix. 29]]. \[The citation differs from that in the last Homily. The order here is that of Tischendorf (not of R.V. or rec. text): “or wife” occurs here; “house” is substituted for “houses.”—R.\] 375 2441 [[Matthew 12#^12-27|Matt. xii. 27]]. 2442 [[Matthew 12#^12-41|Matt. xii. 41]]. 2443 [[2 Timothy 02#^2-12|2 Tim. ii. 12]]. 2444 Gal. iv. 51.
+2440 [[Matthew 19#^19-29|Matt. xix. 29]]. \[The citation differs from that in the last Homily. The order here is that of Tischendorf (not of R.V. or rec. text): “or wife” occurs here; “house” is substituted for “houses.”—R.\]
 
 
 *[p. 680]* ^pg688
@@ -649,6 +669,8 @@ And besides even in this He intimated by the way something more than these thing
 To these then He spake of these things, but to all the rest of eternal life and an hundredfold here. But if to the rest, much more to these too, both these things, and the things in this life.
 
 And this surely came to pass; for when they had left a fishing rod and a net, they possessed with authority the substances of all, the prices of the houses and the lands, and the very bodies of the believers. For often did they choose even to be slain for their sake, as Paul also bears witness to many, when he saith, “If it had been possible ye would have plucked out your eyes, and given them to me.”<sup>2444</sup> But when He saith, “Every one who hath forsaken wife,” He saith not this, for marriages to be broken asunder for nought, but as He saith concerning one’s life, “He that loseth his life for my sake shall find it,”<sup>2445</sup>not that we should
+
+375 2441 [[Matthew 12#^12-27|Matt. xii. 27]]. 2442 [[Matthew 12#^12-41|Matt. xii. 41]]. 2443 [[2 Timothy 02#^2-12|2 Tim. ii. 12]]. 2444 Gal. iv. 51.
 
 *[p. 681]* ^pg689
 

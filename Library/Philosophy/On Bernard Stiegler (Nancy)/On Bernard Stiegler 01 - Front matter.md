@@ -4,7 +4,7 @@ work: "[[Nancy - On Bernard Stiegler, Philosopher of Friendship]]"
 book: "[[Library/Philosophy/On Bernard Stiegler (Nancy)/On Bernard Stiegler (Nancy)|On Bernard Stiegler (Nancy)]]"
 order: 1
 source_pdf: Library/Philosophy/Nancy - On Bernard Stiegler, Philosopher of Friendship (2024).pdf
-page_range: Cover–vii
+page_range: "i–vii"
 pdf_pages: 1–8
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

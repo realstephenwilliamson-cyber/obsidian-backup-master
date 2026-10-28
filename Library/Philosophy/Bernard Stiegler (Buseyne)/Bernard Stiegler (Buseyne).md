@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Bernard Stiegler 01 - Cover|Cover]] (pp. Cover–iv)
+- [[Bernard Stiegler 01 - Cover|Cover]] (pp. i–iv)
 - [[Bernard Stiegler 02 - Contents|Contents]] (pp. v–vii)
 - [[Bernard Stiegler 03 - Contributors|Contributors]] (pp. viii–xi)
 - [[Bernard Stiegler 04 - Acknowledgements|Acknowledgements]] (pp. xii)

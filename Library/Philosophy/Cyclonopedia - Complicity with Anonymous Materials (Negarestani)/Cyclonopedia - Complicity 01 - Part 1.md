@@ -4,7 +4,7 @@ work: "[[Negarestani - Cyclonopedia]]"
 book: "[[Library/Philosophy/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)|Cyclonopedia - Complicity with Anonymous Materials (Negarestani)]]"
 order: 1
 source_pdf: Library/Philosophy/Negarestani - Cyclonopedia, Complicity with Anonymous Materials (2008).pdf
-page_range: 1–40
+page_range: "xi–4"
 pdf_pages: 1–40
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -119,7 +119,7 @@ Realization that 2. is not going to show and I have no one in Turkey and a non-r
 
 Go out and wander around, find myself in the Blue Mosque ... legs covered with a green chador Beautiful, gardens surrounding pretty, hydrangeas blooming like at home in New York. Too hot to be outside... back to the small room, on the way back, buy a bottle of Chardonnay and some takeout Turkish kebab I finally feel like I am going to wake up. Not quite sleepwalking, but confused about what time it is and where I am, I flick the still-full glass of wine over by accident and the wine hits the floor between the twin beds. Automatically react and stumble to the bathroom for a towel. Begin dabbing up the wine . . amazingly the glass has not shattered. Liquid running seeping under the bed, manage to turn the light on and look under the lifted bedspread. Half asleep half awake I see something under the bed. Wine's not going to get to it and I am done cleaning. It is filthy, and I think: go back to bed.
 
-*[PDF 11]* ^pg11
+*[p. xii]* ^pg11
 
 *Tuesday. July 26, 2005* in the morning, sun shining through the orange tapestry curtains. I am displaced. I think it is jetlag. Look over on the other bed and see the dust\* covered box and vaguely remember it was exhumed in the night from under my bed.
 
@@ -147,7 +147,7 @@ Overwhelmed by entering a new level of adventure, I pull up the items of my new 
 
 *it* Note on top of one of the sections reads 'Ayasophia the Loge of Empress second floor’ Must go there.
 
-*[PDF 12]* ^pg12
+*[p. xiii]* ^pg12
 
 Sun blades rolling on my Scandinavian skin. Visit Ayasophia and look around. I use the map, as I am getting help from the walkthrough I have bought to find the Loge in the Church of Holy Wisdom. Can't figure out how I should use the walkthrough by tracing the cryptic letters and icons on the floor and walls. All churches are built upon blasphemy, as 2. once told me; I can easily see it here. The images of winged abominations in the corners of the ceiling. The upper floor is a freak show of saints and martyrs, all protected by the seal which 1. once sent to me on the walls: a twisted number or a symbol starting level and then curling like the Mobius loop. It looks like the calligraphy writing on archways and on the outside of buildings here in Turkey.
 
@@ -159,7 +159,7 @@ Burn Burn Burn Bum *if* Research Reza Negarestani online:
 
 Find an article entitled ‘John Carpenter’s *The Thing.* White War and Hypercamouflage', but the text has been replaced with this message: ‘This page is not available\*; a piece with a similar title is in RN's manuscript. Even though the post is not available, the comments are, the first comment from RN reads: ‘Identities are the plot holes of someone else's curriculum vitae (course of life).\* Ctheory, Hyperstition and Cold Me. I contact other contributors at the Hyperstition website who seem to have known RN for a relatively long time, but none of them have met RN or could offer much help. A contributor at Hyperstition asks if I know where Reza is because he has abruptly halted his regular contributions since June 18, suggesting to me that I contact RN's Iranian friends. I look for his last article (again it says, ‘This page is temporarily unavailable'). Track a few blogs linked to on the Hyperstition
 
-*[PDF 13]* ^pg13
+*[p. xiv]* ^pg13
 
 website, apparently belonging to RN‘s Iranian friends. Some of the people I contacted suggest that RN must be a fictional invention of Hyperstition. a term loosely defined as fictional quantities that make themselves real. A few people think RN might be another avatar of one of the contributors at Hyperstition website, and finally some took Reza at face value, believing that he would need to host his site outside of Iran to circumvent any internet laws that could cause problems for him (maybe that's why he removed so many posts at Hyperstition).
 
@@ -204,7 +204,7 @@ Try to change my room as 302 is really getting to me. There is someone in the wi
 
 *it* I go out for lunch ... TimeOutl Guide says Rami Restaurant is ‘one of the district's classier options.' Up to the top floor, I sit in a room with a wooden
 
-*[PDF 16]* ^pg16
+*[p. xvii]* ^pg16
 
 floor which produces creaking sounds as I walk, making me believe that they are choosing not to repair the place to make it more authentic - the effect really works. Wonder whether, H an antique seller or a retie expert ran a restaurant, the setting would be like this. I start to read RN’s text from page 41, 'Palaeopetrology: From Gog-Magog Axis to Petropunkism', not getting very far because the praying at the Blue Mosque is coming on over the loudspeaker and drowning my thoughts. The food bears the genuineness of a culinary relic. I head down the stairs to leave. The stairs have a unique space of their own, a Piranesiesque structure spiraling down. I notice a James Spader photo there on the wall. James Spader - my favorite cult actor! Wonder to myself, do celebrities carry around glossy photographs of themselves to autograph everywhere they go?
 

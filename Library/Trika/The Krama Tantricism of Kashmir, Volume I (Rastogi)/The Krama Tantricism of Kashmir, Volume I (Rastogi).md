@@ -17,11 +17,11 @@ Converted from the PDF on 7 Oct 2026 (the PDF's own text, which ABBYY FineReader
 
 ## Contents
 
-- [[The Krama Tantricism of Kashmir 01 - Part 1|Part 1]] (pp. 1–13)
+- [[The Krama Tantricism of Kashmir 01 - Part 1|Part 1]] (pp. x–13)
 - [[The Krama Tantricism of Kashmir 02 - Part 2|Part 2]] (pp. 14–53)
 - [[The Krama Tantricism of Kashmir 03 - Part 3|Part 3]] (pp. 54–93)
 - [[The Krama Tantricism of Kashmir 04 - Part 4|Part 4]] (pp. 94–133)
 - [[The Krama Tantricism of Kashmir 05 - Part 5|Part 5]] (pp. 134–173)
 - [[The Krama Tantricism of Kashmir 06 - Part 6|Part 6]] (pp. 174–213)
 - [[The Krama Tantricism of Kashmir 07 - Part 7|Part 7]] (pp. 214–253)
-- [[The Krama Tantricism of Kashmir 08 - Part 8|Part 8]] (pp. 254–326)
+- [[The Krama Tantricism of Kashmir 08 - Part 8|Part 8]] (pp. 254–296)

@@ -4,7 +4,7 @@ work: "[[Haksar (ed.) - A Treasury of Sanskrit Poetry in English Translation]]"
 book: "[[Library/Sanskrit/A Treasury of Sanskrit Poetry in English Translation (Haksar)/A Treasury of Sanskrit Poetry in English Translation (Haksar)|A Treasury of Sanskrit Poetry in English Translation (Haksar)]]"
 order: 1
 source_pdf: Library/Sanskrit/25 A Treasury of Sanskrit Poetry.pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

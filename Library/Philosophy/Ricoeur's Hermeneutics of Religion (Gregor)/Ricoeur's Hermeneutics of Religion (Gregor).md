@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Ricoeur's Hermeneutics 01 - Front matter|Front matter (Cover, Ricoeur’s Hermeneutics of Religion, Series Page, Ricoeur’s Hermeneutics o)]] (pp. Cover–viii)
+- [[Ricoeur's Hermeneutics 01 - Front matter|Front matter (Cover, Ricoeur’s Hermeneutics of Religion, Series Page, Ricoeur’s Hermeneutics o)]] (pp. i–viii)
 - [[Ricoeur's Hermeneutics 02 - Abbreviations for FrequentlyCited Works by Ricoeur|Abbreviations for FrequentlyCited Works by Ricoeur]] (pp. ix–xii)
 - [[Ricoeur's Hermeneutics 03 - Preface|Preface]] (pp. xiii–xvi)
 - [[Ricoeur's Hermeneutics 04 - Introduction|Introduction]] (pp. 1–10)

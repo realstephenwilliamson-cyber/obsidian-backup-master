@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Same God, Other God 01 - Front matter|Front matter (Cover, Title Page, Copyright Page, Dedication, Table of Contents, Preface)]] (pp. C1–x)
+- [[Same God, Other God 01 - Front matter|Front matter (Cover, Title Page, Copyright Page, Dedication, Table of Contents, Preface)]] (pp. i–x)
 - [[Same God, Other God 02 - Part I Presentations|Part I Presentations]] (pp. 1–24)
 - [[Same God, Other God 03 - Part II Introducing Avoda Zara|Part II Introducing Avoda Zara]] (pp. 25–39)
 - [[Same God, Other God 04 - Part III The Other god Defining Avoda Zara, part 1|Part III The Other god: Defining Avoda Zara, part 1]] (pp. 41–83)

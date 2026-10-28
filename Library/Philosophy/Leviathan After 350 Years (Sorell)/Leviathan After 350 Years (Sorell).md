@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Leviathan After 350 Years 01 - Front matter|Front matter]] (pp. Cover–vi)
+- [[Leviathan After 350 Years 01 - Front matter|Front matter]] (pp. i–vi)
 - [[Leviathan After 350 Years 02 - Contents|Contents]] (pp. vii–viii)
 - [[Leviathan After 350 Years 03 - Notes on contributors|Notes on contributors]] (pp. ix–x)
 - [[Leviathan After 350 Years 04 - Introduction|Introduction]] (pp. 1–10)

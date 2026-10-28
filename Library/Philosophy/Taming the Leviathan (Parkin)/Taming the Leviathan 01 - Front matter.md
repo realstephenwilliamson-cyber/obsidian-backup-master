@@ -4,7 +4,7 @@ work: "[[Parkin - Taming the Leviathan]]"
 book: "[[Library/Philosophy/Taming the Leviathan (Parkin)/Taming the Leviathan (Parkin)|Taming the Leviathan (Parkin)]]"
 order: 1
 source_pdf: Library/Philosophy/Parkin - Taming the Leviathan (2007).pdf
-page_range: Cover
+page_range: ""
 pdf_pages: 1–1
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

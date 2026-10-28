@@ -4,7 +4,7 @@ work: "[[Abhinavagupta - Gitarthasangraha]]"
 book: "[[Library/Trika/Gitarthasangraha (Abhinavagupta)/Gitarthasangraha (Abhinavagupta)|Gitarthasangraha (Abhinavagupta)]]"
 order: 1
 source_pdf: Library/Trika/Abhinavagupta - Gitarthasangraha (1983).pdf
-page_range: a–b
+page_range: ""
 pdf_pages: 1–2
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

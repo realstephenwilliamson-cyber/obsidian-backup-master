@@ -4,7 +4,7 @@ work: "[[Stiegler - What Makes Life Worth Living]]"
 book: "[[Library/Philosophy/What Makes Life Worth Living (Stiegler)/What Makes Life Worth Living (Stiegler)|What Makes Life Worth Living (Stiegler)]]"
 order: 2
 source_pdf: Library/Philosophy/What Makes Life Worth Living On Pharmacology (2013).pdf
-page_range: c3–58
+page_range: "1–58"
 pdf_pages: 3–66
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

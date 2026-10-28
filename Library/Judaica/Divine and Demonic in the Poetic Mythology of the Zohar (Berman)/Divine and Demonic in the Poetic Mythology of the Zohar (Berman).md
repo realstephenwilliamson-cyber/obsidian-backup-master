@@ -16,7 +16,7 @@ Converted from the PDF on 22 Oct 2026 (PDF text layer (born-digital), PyMuPDF). 
 
 ## Contents
 
-- [[Divine and Demonic 01 - Front matter|Front matter]] (pp. Cover–vi)
+- [[Divine and Demonic 01 - Front matter|Front matter]] (pp. i–vi)
 - [[Divine and Demonic 02 - Contents|Contents]] (pp. vii–viii)
 - [[Divine and Demonic 03 - Prefatory Note - Bibliography, Footnotes, Principal Texts, Translations|Prefatory Note - Bibliography, Footnotes, Principal Texts, Translations, and Transliterations]] (pp. ix–xi)
 - [[Divine and Demonic 04 - Acknowledgements|Acknowledgements]] (pp. xii–xiv)

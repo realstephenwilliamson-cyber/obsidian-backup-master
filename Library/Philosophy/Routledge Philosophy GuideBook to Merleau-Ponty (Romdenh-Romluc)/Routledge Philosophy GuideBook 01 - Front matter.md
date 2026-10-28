@@ -4,7 +4,7 @@ work: "[[Romdenh-Romluc - Routledge Philosophy GuideBook to Merleau-Ponty]]"
 book: "[[Library/Philosophy/Routledge Philosophy GuideBook to Merleau-Ponty (Romdenh-Romluc)/Routledge Philosophy GuideBook to Merleau-Ponty (Romdenh-Romluc)|Routledge Philosophy GuideBook to Merleau-Ponty (Romdenh-Romluc)]]"
 order: 1
 source_pdf: Library/Philosophy/Romdenh-Romluc - Merleau-Ponty and Phenomenology of Perception (2011).pdf
-page_range: Cover–3
+page_range: "i–3"
 pdf_pages: 1–14
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

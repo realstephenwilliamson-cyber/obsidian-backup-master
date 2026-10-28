@@ -4,7 +4,7 @@ work: "[[SenSharma - The Philosophy of Sadhana]]"
 book: "[[Library/Trika/The Philosophy of Sadhana (SenSharma)/The Philosophy of Sadhana (SenSharma)|The Philosophy of Sadhana (SenSharma)]]"
 order: 1
 source_pdf: Library/Trika/Sen Sharma - The Philosophy of Sadhana (SUNY 1990).pdf
-page_range: COVER–22
+page_range: "IV–22"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

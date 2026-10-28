@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Aesthetics, Digital Studies 01 - Cover|Cover]] (pp. Cover–vi)
+- [[Aesthetics, Digital Studies 01 - Cover|Cover]] (pp. i–vi)
 - [[Aesthetics, Digital Studies 02 - Contents|Contents]] (pp. vii–viii)
 - [[Aesthetics, Digital Studies 03 - List of Plates|List of Plates]] (pp. ix–x)
 - [[Aesthetics, Digital Studies 04 - Editors|Editors]] (pp. xi–xii)

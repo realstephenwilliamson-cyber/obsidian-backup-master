@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Tantra, Magic, and Vernacular 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Table of Contents, L)]] (pp. Cover–xii)
+- [[Tantra, Magic, and Vernacular 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Table of Contents, L)]] (pp. i–xii)
 - [[Tantra, Magic, and Vernacular 02 - Introduction|Introduction]] (pp. 1–11)
 - [[Tantra, Magic, and Vernacular 03 - Chapter 1 More pre-Tantric sources of Tantrism Skulls and|Chapter 1: More pre-Tantric sources of Tantrism: Skulls and skull-cups]] (pp. 12–39)
 - [[Tantra, Magic, and Vernacular 04 - Chapter 2 Charnel ground items, smasanika s, and the question of|Chapter 2: Charnel ground items, śmāśānika s, and the question of the magical substratum of the early Tantras]] (pp. 40–59)

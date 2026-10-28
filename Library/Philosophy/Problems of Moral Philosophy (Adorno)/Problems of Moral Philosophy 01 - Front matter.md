@@ -4,7 +4,7 @@ work: "[[Adorno - Problems of Moral Philosophy]]"
 book: "[[Library/Philosophy/Problems of Moral Philosophy (Adorno)/Problems of Moral Philosophy (Adorno)|Problems of Moral Philosophy (Adorno)]]"
 order: 1
 source_pdf: Library/Philosophy/Adorno - Problems of Moral Philosophy (2001).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: fresh OCR with Tesseract 5 (eng) (the PDF text layer is a weak old OCR)
 converted: 2026-10-07

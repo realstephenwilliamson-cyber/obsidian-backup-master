@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[When the World Becomes Female 01 - Cover|Cover]] (pp. Cover–vi)
+- [[When the World Becomes Female 01 - Cover|Cover]] (pp. i–vi)
 - [[When the World Becomes Female 02 - CONTENTS|CONTENTS]] (pp. vii–viii)
 - [[When the World Becomes Female 03 - PREFACE AND ACKNOWLEDGMENTS|PREFACE AND ACKNOWLEDGMENTS]] (pp. ix–xiv)
 - [[When the World Becomes Female 04 - NOTE ON TRANSLITERATION|NOTE ON TRANSLITERATION]] (pp. xv–xviii)

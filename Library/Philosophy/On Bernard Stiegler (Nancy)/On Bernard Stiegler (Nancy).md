@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[On Bernard Stiegler 01 - Front matter|Front matter (Front matter, Half Title, Series Page, Title Page, Copyright Page, Contents, Fig)]] (pp. Cover–vii)
+- [[On Bernard Stiegler 01 - Front matter|Front matter (Front matter, Half Title, Series Page, Title Page, Copyright Page, Contents, Fig)]] (pp. i–vii)
 - [[On Bernard Stiegler 02 - Contributors|Contributors]] (pp. viii–xii)
 - [[On Bernard Stiegler 03 - Chapter 1 Introduction Deconstruction The portrait of the family|Chapter 1: Introduction: Deconstruction: The portrait of the family]] (pp. 1–28)
 - [[On Bernard Stiegler 04 - Chapter 2 Preface|Chapter 2: Preface]] (pp. 29–32)

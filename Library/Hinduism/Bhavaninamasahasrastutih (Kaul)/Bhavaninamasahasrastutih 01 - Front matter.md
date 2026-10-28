@@ -4,7 +4,7 @@ work: "[[Kaul (tr.) - Bhavaninamasahasrastutih]]"
 book: "[[Library/Hinduism/Bhavaninamasahasrastutih (Kaul)/Bhavaninamasahasrastutih (Kaul)|Bhavaninamasahasrastutih (Kaul)]]"
 order: 1
 source_pdf: Library/Hinduism/Kaul (tr.) - Bhavani-nama-sahasra-stutih, The Thousand Names of Bhavani (1991).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

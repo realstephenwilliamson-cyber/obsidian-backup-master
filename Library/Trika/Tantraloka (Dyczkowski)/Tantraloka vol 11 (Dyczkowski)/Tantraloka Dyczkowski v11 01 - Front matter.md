@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)|Tantraloka vol 11 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf
-page_range: 1–18
+page_range: "iii–xiii"
 pdf_pages: 1–18
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -90,7 +90,7 @@ In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
-*[p. m]* ^pg7
+*[p. iii]* ^pg7
 
 are many other renowned scholars in Kāśf whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was 8 scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
@@ -130,7 +130,7 @@ Finally, I wish to express my unbounded gratitude to Ram Krishnan and Raphael W�
 
 Freedom Cole is an old friend and very excellent and well-known astrologer. He dedicated a good deal of his very valuable time to writing a substantial essay on Indian astrology in the light of the teachings of chapter six of the Tantrāloka. These are concerned with the projection of the cycles of time into that of the breath. All the diagrams and drawings in that article are made by him. The reader will find it in the appendix to that chapter. 
 
-*[PDF 10]* ^pg10
+*[p. vi]* ^pg10
 
 CONTENTS 
 
@@ -320,7 +320,7 @@ Appendix D to Chapter Thirty-two Mahārthamañjarī concerning Mudrā according 
 
 Biblography, pages 338-276 The Numbering of the Verses of the Printed Edition of the Tantrāloka, pages 377-379 Index, pages 380-431 
 
-*[PDF 16]* ^pg16
+*[p. xii]* ^pg16
 
 Abbreviations 
 

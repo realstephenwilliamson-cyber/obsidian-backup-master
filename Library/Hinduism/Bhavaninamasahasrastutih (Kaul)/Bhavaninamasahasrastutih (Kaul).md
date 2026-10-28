@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Bhavaninamasahasrastutih 01 - Front matter|Front matter]] (pp. Cover–iv)
+- [[Bhavaninamasahasrastutih 01 - Front matter|Front matter]] (pp. i–iv)
 - [[Bhavaninamasahasrastutih 02 - Contents|Contents]] (pp. v)
 - [[Bhavaninamasahasrastutih 03 - 1. Publisher's Note|1. Publisher's Note]] (pp. vi)
 - [[Bhavaninamasahasrastutih 04 - 2. Foreword (Sri M.P. Pandit)|2. Foreword (Sri M.P. Pandit)]] (pp. vii–viii)

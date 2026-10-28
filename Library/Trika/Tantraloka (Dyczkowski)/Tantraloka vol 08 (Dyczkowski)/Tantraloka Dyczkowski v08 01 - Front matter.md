@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)|Tantraloka vol 08 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf
-page_range: 1–xiv
+page_range: "ii–xiv"
 pdf_pages: 1–18
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -106,7 +106,7 @@ I always recall with much gratitude the foreigner’s scholars who have been my 
 
 It was just the bare text without Jayaratha’s commentary and relatively meagre notes. Even so, this and his other translations into Italian and books contributed much to my understanding. My esteemed seniors and mentors include Professor André Padoux who, especially in these last few years, give me great moral support by his appreciation of my humble efforts. Professor Richard Gombrich has never forgotten me although many years have passed since he was my supervisor in Oxford. Others include the late David Kinsley, a sincere and most humble man who took pleasure in conversation and exchanging views. David Lorenzen has been a friend for over thirty years whom I have come to know better over the past ten or so since he began to make short yearly trips to Varanasi. He has always brought with him new vistas and interests along with his deep sensitivity and a self-effacing nature that hides the depth of his scholarship. Amongst my other fellow scholars, I would like to thank the 'other David', that is, David White. A dear friend, he has been unfailing in his support 
 
-*[PDF 9]* ^pg9
+*[p. v]* ^pg9
 
 and has always tried his best to keep me on the path towards the distant goal of completing these volumes. Amongst those younger than me, I recall Jeffrey Lidke, whose exchanges have led to much reflection, and John Nemec. I should mention with gratitude my students who have always been very supportive. 
 
@@ -300,7 +300,7 @@ The Deposition of the Throne (āsananyāsa) According to the
 
 Svacchandatantra 2/55ab-84 with Kṣemarāja’s Commentary, pages 378-390 Appendix E: The Mantras of the Trident according to the Mālinīvijayottara, pages 391-401 Appendix F: Concerning Mantras — The Iniatory Mantra, pages 402-403 Appendix G: Chapter Eight of the Mālinīvijayottara, The Initiation into the Rule (samaya), pages 404-439 Appendix H: A comparative chart between the tattvas and the Trident Throne, page 440 Appendix I: A comparative chart between the tattvas and the Trividya, page 441 
 
-*[PDF 16]* ^pg16
+*[p. xii]* ^pg16
 
 Abbreviations 
 

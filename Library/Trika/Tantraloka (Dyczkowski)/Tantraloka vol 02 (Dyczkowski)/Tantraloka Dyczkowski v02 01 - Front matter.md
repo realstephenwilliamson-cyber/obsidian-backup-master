@@ -4,7 +4,7 @@ work: "[[Dyczkowski - Tantraloka (tr., vols I-XI)]]"
 book: "[[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)|Tantraloka vol 02 (Dyczkowski)]]"
 order: 1
 source_pdf: Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf
-page_range: 1–16
+page_range: "iii–xi"
 pdf_pages: 1–16
 text_source: the PDF OCR layer, with anusvara fix; Devanagari lines read again with Tesseract san (7 Oct 2026); words the old OCR layer garbled replaced from a fresh OCR (Tesseract eng+san) where that reads an English word or Devanagari
 converted: 2026-10-07
@@ -138,7 +138,7 @@ Finally, I wish to express my unbounded gratitude to Ram Krishnan and Raphael W�
 
 Freedom Cole is an old friend and very excellent and well-known astrologer. He dedicated a good deal of his very valuable time to writing a substantial essay on Indian astrology in the light of the teachings of chapter six of the Tantrāloka. These are concerned with the projection of the cycles of time into that of the breath. All the diagrams and drawings in that article are made by him. The reader will find it in the appendix to that chapter. 
 
-*[PDF 10]* ^pg10
+*[p. vi]* ^pg10
 
 CONTENTS 
 

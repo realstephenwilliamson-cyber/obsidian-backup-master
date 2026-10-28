@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Lectures 1949-1968, Volume 2 01 - Front matter|Front matter (Cover, Title page, Copyright, Contents)]] (pp. Cover–vi)
+- [[Lectures 1949-1968, Volume 2 01 - Front matter|Front matter (Cover, Title page, Copyright, Contents)]] (pp. i–vi)
 - [[Lectures 1949-1968, Volume 2 02 - Urban Architecture and the Social Order|Urban Architecture and the Social Order]] (pp. 1–16)
 - [[Lectures 1949-1968, Volume 2 03 - The Contemporary Relevance of Sociology|The Contemporary Relevance of Sociology]] (pp. 17–35)
 - [[Lectures 1949-1968, Volume 2 04 - On the Relationship between Individual and Society Today|On the Relationship between Individual and Society Today]] (pp. 36–62)
@@ -30,4 +30,4 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Lectures 1949-1968, Volume 2 11 - Aspects of the New Right-Wing Extremism|Aspects of the New Right-Wing Extremism]] (pp. 169–186)
 - [[Lectures 1949-1968, Volume 2 12 - Editor's Notes|Editor’s Notes]] (pp. 187–238)
 - [[Lectures 1949-1968, Volume 2 13 - Index|Index]] (pp. 239–253)
-- [[Lectures 1949-1968, Volume 2 14 - EULA|EULA]] (pp. EULA)
+- [[Lectures 1949-1968, Volume 2 14 - EULA|EULA]] (PDF 261)

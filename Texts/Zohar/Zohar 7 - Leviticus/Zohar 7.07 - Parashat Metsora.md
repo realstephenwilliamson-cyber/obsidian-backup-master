@@ -187,7 +187,7 @@ It has been taught: The walls of Jerusalem are destined to reach on high, approa
 
 [^6]: ***Like birds caught in an evil net*…** The full verse actually reads: *For a human does not know his time. Like fish caught in an evil net, like birds held in a trap, so humans are ensnared by an evil time, when it falls upon them suddenly*. See *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-195b|1:195b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|217b]].
 
-    On the daily proclamation, cf. above, note 1. On no one listening, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|1:224a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-80a|3:80a]]. Cf. *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]]–b (*MhN*); [[Zohar 8.08 - Parashat Naso#^z3-127b|3:127b]].
+    On the daily proclamation, cf. above, note 1. On no one listening, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|1:224a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227a|227a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|235a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-80a|3:80a]]. Cf. *Zohar* [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]]–b (*MhN*); [[Zohar 8.08 - Parashat Naso#^z3-127b|3:127b]].
 
 [^7]: **When evening dusks…** Then the heavenly gates close and from the Hollow of the Great Abyss demonic forces issue into the world. They smuggle false material into human dreams, along with some true information.
 

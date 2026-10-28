@@ -65,7 +65,7 @@ Wherefore also He rebukes them severely. And when they were questioning Him roug
 
 Now by these sayings He signified Himself to be of one accord with His Father, and them to be doing nothing new; He was also unfolding their secrets, how with hypocrisy and as enemies they were making their demand. Therefore He called them “an evil generation,” because they have been always ungrateful towards their benefactors; because upon favors they become worse, which belongs to extreme wickedness.
 
-1750 \[“Unto them” is omitted in the Greek text here, against all our New Testament codices.—R.\] See Ezek. xvi. 23, etc. διορθσαι. 1752 γυμνζει. 1753 1754 [[Matthew 22#^22-40|Matt. xxii. 40]]. [[Matthew 27#^27-63|Matt. xxvii. 63]]. \[The citation is not exact: at the close a different verb, in a different tense, is given.—R.\]
+1750 \[“Unto them” is omitted in the Greek text here, against all our New Testament codices.—R.\] See Ezek. xvi. 23, etc.
 
 
 *[p. 487]* ^pg495
@@ -81,6 +81,8 @@ All this however He saith not, but leaves it to after time to make it clear to t
 “For as Jonas,” saith He, “was three days and three nights in the whale’s belly, so shall the Son of Man be three days and three nights in the heart of the earth.”<sup>1754</sup> Thus, He said not indeed openly that He should rise again, since they would have even laughed Him to scorn, but He intimated it in such manner, that they might believe Him to have foreknown it. For as to their being aware of it, they say to Pilate, “That deceiver said,” these are their words, “while He was yet alive, After three days I will rise again;”<sup>1755</sup>and yet we know His disciples were ignorant of this; even as they had been beforehand more void of understanding than these: wherefore also these became self-condemned.
 
 But see how exactly He expresses it, even though in a dark saying. For He said not, “In the earth,” but, “In the heart of the earth;” that He might designate His very sepulchre, and
+
+διορθσαι. 1752 γυμνζει. 1753 1754 [[Matthew 22#^22-40|Matt. xxii. 40]]. [[Matthew 27#^27-63|Matt. xxvii. 63]]. \[The citation is not exact: at the close a different verb, in a different tense, is given.—R.\]
 
 *[p. 488]* ^pg496
 
@@ -292,7 +294,7 @@ And this was not the case with the seed only, but also with the net; for that to
 
 And how can it be reasonable, saith one, to sow among the thorns, on the rock, on the wayside? With regard to the seeds and the earth it cannot be reasonable; but in the case of men’s souls and their instructions, it hath its praise, and that abundantly. For the husbandman indeed would reasonably be blamed for doing this; it being impossible for the rock to become earth, or the wayside not to be a wayside, or the thorns, thorns; but in the things that have reason it is not so. There is such a thing as the rock changing, and becoming rich
 
-1791 Is. v. 4. 1792 Is. v. 1. βναυσοι. 1794 1795 [[Matthew 13#^13-20|Matt. xiii. 20]], [[Matthew 13#^13-21|21]], 19. \[There are some variations in the Greek text, not found in any New Testament mss. In verse 19 ἀληθεα is substituted for βασιλεα.—R.\]
+1791 Is. v. 4. 1792 Is. v. 1.
 
 
 *[p. 500]* ^pg508
@@ -312,6 +314,8 @@ Now it is not the same thing for the doctrine to wither away, when no man is evi
 Let us not then blame the things, but the corrupt mind. For it is possible to be rich and not to be deceived; and to be in this world, and not to be choked with its cares. For indeed riches have two contrary disadvantages; one, care, wearing us out, and bringing a darkness over us; the other, luxury, making us effeminate.
 
 And well hath He said, “The deceitfulness of riches.” For all that pertains to riches is deceit; they are names only, not attached to things. For so pleasure and glory, and splendid array, and all these things, are a sort of vain show, not a reality.
+
+βναυσοι. 1794 1795 [[Matthew 13#^13-20|Matt. xiii. 20]], [[Matthew 13#^13-21|21]], 19. \[There are some variations in the Greek text, not found in any New Testament mss. In verse 19 ἀληθεα is substituted for βασιλεα.—R.\]
 
 *[p. 501]* ^pg509
 
@@ -388,7 +392,7 @@ Then He also made what He had said more distinct, pointing out the meaning of, �
 
 “For in them is fulfilled,” saith He, “the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand, and seeing ye shall see, and shall not perceive.”<sup>1808</sup> Seest thou the prophet likewise, accusing them with this same accuracy? for neither did He say, Ye see not, but “Ye shall see and not perceive;” nor again, Ye shall not hear, but “Ye shall hear and not understand.” So that they first inflicted the loss on themselves, by stopping
 
-1805 [[Matthew 13#^13-13|Matt. xiii. 13]]. 1806 [[Matthew 12#^12-14|Matt. xii. 14]]. 1807 [[John 09#^9-16|John ix. 16]]. [[Matthew 13#^13-14|Matt. xiii. 14]]. See Is. vi. 9, 10. 279 1809 [[Matthew 13#^13-15|Matt. xiii. 15]]. \[The passage is abridged. R.V., “should turn again ” (so in Isaiah). Chrysostom takes it in this sense, as the context shows.—R.\]
+1805 [[Matthew 13#^13-13|Matt. xiii. 13]]. 1806 [[Matthew 12#^12-14|Matt. xii. 14]]. 1807 [[John 09#^9-16|John ix. 16]]. [[Matthew 13#^13-14|Matt. xiii. 14]]. See Is. vi. 9, 10. 279
 
 
 *[p. 506]* ^pg514
@@ -404,6 +408,8 @@ For in proof that our sin belongs not to nature, nor to necessity and compulsion
 Seest thou that, “unto you it is given,” was not of necessity? For neither would they have been blessed, unless the well-doing had been their own. For tell me not this, that it was spoken obscurely; for they might have come and asked Him, as the disciples did: but they would not, being careless and supine. Why say I, they would not? nay, they were doing the very opposite, not only disbelieving, not only not hearkening, but even waging war, and disposed to be very bitter against all He said: which He brings in the prophet laying to their charge, in the words, “They heard heavily.”
 
 But not such were these; wherefore He also blessed them. And in another way too He assures them again, saying,
+
+1809 [[Matthew 13#^13-15|Matt. xiii. 15]]. \[The passage is abridged. R.V., “should turn again ” (so in Isaiah). Chrysostom takes it in this sense, as the context shows.—R.\]
 
 1810 \[“turn again.”\] \[τ πιστραφναι.\] 1811 1812 Ezek. xviii. 23. \[Freely cited in the first part.—R.\]
 
@@ -548,7 +554,7 @@ And what can it be then, he will say, that showed them great? Their contempt of 
 
 What manner of miracle did John work, that he fixed on himself the attention<sup>1831</sup>of so many cities? For as to the fact that he did no wondrous works, hear the evangelist, saying, “John did no miracle.”<sup>1832</sup> And whence did Elias become admirable? Was it not from his boldness towards the king? from his zeal towards God? from his voluntary poverty? from his garment of sheep’s skin, and his cave, and his mountains? For his miracles he did after all these. And as to Job, what manner of miracle did he work in sight of the devil, that he was amazed at him? No miracle indeed, but a life that shone and displayed an endurance
 
-1830 This sentence is printed in italics, as not appearing in many of the mss. It is evidently a marginal note by some copyist. \[It is not found in any of the mss. collated by Field, and was bracketed as doubtful by earlier editors.—R.\] ἀνηρτσατο. 1831 [[John 10#^10-41|John x. 41]]. \[R.V., “sign,” and so elsewhere in this edition of the Homilies. The same term (σημεον) occurs frequently in the present context, and is uniformly rendered “miracle.”—R.\] 284 1833 [[Acts 13#^13-22|Acts xiii. 22]]. 1834 [[Matthew 08#^8-20|Matt. viii. 20]]. 1835 [[Matthew 05#^5-16|Matt. v. 16]]. 1836 [[John 21#^21-16|John xxi. 16]].
+1830 This sentence is printed in italics, as not appearing in many of the mss. It is evidently a marginal note by some copyist. \[It is not found in any of the mss. collated by Field, and was bracketed as doubtful by earlier editors.—R.\] ἀνηρτσατο. 1831 [[John 10#^10-41|John x. 41]]. \[R.V., “sign,” and so elsewhere in this edition of the Homilies. The same term (σημεον) occurs frequently in the present context, and is uniformly rendered “miracle.”—R.\]
 
 
 *[p. 515]* ^pg523
@@ -560,6 +566,8 @@ And Himself too, when He was making laws for His own disciples, what said He? �
 Whence then had these the advantage? From the virtue in their soul. Seest thou how everywhere practice is required, and the proof by works? “For by their fruits,” saith He, “ye shall know them.”<sup>1837</sup> And what commends our own life? Is it indeed a display of miracles, or the perfection of an excellent conversation? Very evidently it is the second; but as to the miracles, they both have their origin from hence, and terminate herein. For both he that shows forth an excellent life, draws to himself this gift, and he that receives the gift, receives it for this end, that he may amend other men’s lives. Since even Christ for this end wrought those miracles, that having made Himself thereby credible, and drawn men unto Him, He might bring virtue into our life. Wherefore also He lays more stress of the two on this. For He is not at all satisfied with the signs only, but He also threatens hell, and promises a kingdom, and lays down those startling laws, and all things He orders to this end, that He may make us equal to the angels.
 
 And why say I, that Christ doth all for this object? Why, even thou, should one give thee thy choice, to raise dead men by His name, or to die for His name; which I pray thee, of the two wouldest thou rather accept? Is it not quite plain, the latter? and yet the one is a miracle,
+
+284 1833 [[Acts 13#^13-22|Acts xiii. 22]]. 1834 [[Matthew 08#^8-20|Matt. viii. 20]]. 1835 [[Matthew 05#^5-16|Matt. v. 16]]. 1836 [[John 21#^21-16|John xxi. 16]].
 
 *[p. 516]* ^pg524
 
@@ -605,7 +613,7 @@ Wherefore also He left them and went away. For, “Then,” saith he, “Jesus s
 
 1846 \[R.V., “nothing,” following a reading accepted by Chrysostom, both here and in the comments. The received text has “not.”—R. \] 1847 \[R.V., “things hidden.”\] 1848 Comp. Ps. lxxviii. 2. 1849 Matt. iv. 33.
 
-1850 Ezek. xii. 9, xxiv. 19, xxxvii. 18. 1851 \[R.V., “he left the multitudes.” Compare the previous sentence. But Chrysostom, with the rec. text inserts “Jesus.”—R.\] 1852 [[Matthew 13#^13-36|Matt. xiii. 36]], *the* house (rec. text). ἐπιλαβσθαι . 1853 1854 \[[[Matthew 13#^13-36|Matt. xiii. 36]], freely cited.\] [[Mark 09#^9-32|Mark ix. 32]]. 286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to 1857 heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 [[Matthew 13#^13-37|Matt. xiii. 37–43]]. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
+1850 Ezek. xii. 9, xxiv. 19, xxxvii. 18. 1851 \[R.V., “he left the multitudes.” Compare the previous sentence. But Chrysostom, with the rec. text inserts “Jesus.”—R.\] 1852 [[Matthew 13#^13-36|Matt. xiii. 36]], *the* house (rec. text). ἐπιλαβσθαι . 1853 1854 \[[[Matthew 13#^13-36|Matt. xiii. 36]], freely cited.\] [[Mark 09#^9-32|Mark ix. 32]].
 
 
 *[p. 519]* ^pg527
@@ -621,6 +629,8 @@ And, as I am always saying, the parables must not be explained throughout word f
 For whereas He Himself is the sower, and that of His own field, and out of His own kingdom He gathers, it is quite clear that the present world also is His.
 
 But mark His unspeakable love to man, and His leaning to bounty, and His disinclination to punishment; in that, when He sows, He sows in His own person, but when He punishes, it is by others, that is, by the angels.
+
+286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to 1857 heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 [[Matthew 13#^13-37|Matt. xiii. 37–43]]. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
 
 *[p. 520]* ^pg528
 
@@ -642,7 +652,7 @@ And how saith He elsewhere, that “the righteous are caught up first?”<sup>18
 
 1859 [[John 04#^4-35|John iv. 35]].
 
-1860 [[Matthew 09#^9-37|Matt. ix. 37]]; [[Luke 10#^10-2|Luke x. 2]]. 1861 [[John 04#^4-37|John iv. 37]]. ὑπακουσντων . 1862 1863 [[1 Thessalonians 04#^4-17|1 Thess. iv. 17]]. [[Matthew 13#^13-51|Matt. xiii. 51]]. \[R.V., omits “Lord,” so the oldest mss. and the Vulgate.—R.\] 287 [[Matthew 13#^13-44|Matt. xiii. 44–46]]. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, 1865 as in a few mss. of the New Testament.—R.\] 1866 [[Matthew 13#^13-47|Matt. xiii. 47]], [[Matthew 13#^13-48|48]]. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\]
+1860 [[Matthew 09#^9-37|Matt. ix. 37]]; [[Luke 10#^10-2|Luke x. 2]]. 1861 [[John 04#^4-37|John iv. 37]]. ὑπακουσντων . 1862 1863 [[1 Thessalonians 04#^4-17|1 Thess. iv. 17]]. [[Matthew 13#^13-51|Matt. xiii. 51]]. \[R.V., omits “Lord,” so the oldest mss. and the Vulgate.—R.\]
 
 
 *[p. 521]* ^pg529
@@ -662,6 +672,8 @@ And much as he that hath the pearl knows indeed himself that he is rich, but oth
 And wherein doth this differ from the parable of the tares? For there too the one are saved, the other perish; but there, for choosing of wicked doctrines; and those before this again, for not giving heed to His sayings, but these for wickedness of life; who are the most wretched of all, having attained to His knowledge, and being caught, but not even so capable of being saved.
 
 Yet surely He saith elsewhere, that the shepherd Himself separates them, but here He saith the angels do this;<sup>1867</sup>and so with respect to the tares. How then is it? At one time He
+
+287 [[Matthew 13#^13-44|Matt. xiii. 44–46]]. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, 1865 as in a few mss. of the New Testament.—R.\] 1866 [[Matthew 13#^13-47|Matt. xiii. 47]], [[Matthew 13#^13-48|48]]. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\]
 
 *[p. 522]* ^pg530
 
@@ -713,4 +725,4 @@ And if thou wilt see the eyes also, behold them exactly delineated with decency 
 
 1877 [[Matthew 05#^5-3|Matt v. 3]]; [[Luke 06#^6-20|Luke vi. 20]]. 1878 Is. lxvi. 2. 1879 Ps. ci. 6, comp. Ps. lxxvi. 9.
 
-1880 Ps. xxxiv. 18. βμο, θυσιαστριον. These two words are commonly used, the former in a bad, the other in a good sense, 1881 of Heathen, and Christian, or Jewish, altars respectively. This seems to be an invariable rule, as to the word βμο, in the Greek Bible except that it is used of the Jewish altar in the following places of the Apocrypha: Ecclus. l. 12, 14; 2 Macc. ii. 19, xiii. 8, which may suffice to show that it was occasionally employed, as by St. Chrysostom here, with no unholy association. 1882 Ps. li. 17. 1883 Ecclus. xxxii. 10. \[ἀγπ \] 1885 \[ἀγπην.\] 1886 1887 [[Luke 22#^22-30|Luke xxii. 30]]. 1888 [[Acts 05#^5-41|Acts v. 41]]. σψι, q.d. “the wear and tear.”
+1880 Ps. xxxiv. 18. βμο, θυσιαστριον. These two words are commonly used, the former in a bad, the other in a good sense, 1881 of Heathen, and Christian, or Jewish, altars respectively. This seems to be an invariable rule, as to the word βμο, in the Greek Bible except that it is used of the Jewish altar in the following places of the Apocrypha: Ecclus. l. 12, 14; 2 Macc. ii. 19, xiii. 8, which may suffice to show that it was occasionally employed, as by St. Chrysostom here, with no unholy association. 1882 Ps. li. 17. 1883 Ecclus. xxxii. 10.

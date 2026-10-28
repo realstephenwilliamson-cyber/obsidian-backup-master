@@ -4,7 +4,7 @@ work: "[[Deloria - God Is Red]]"
 book: "[[Library/Other/God Is Red (Deloria)/God Is Red (Deloria)|God Is Red (Deloria)]]"
 order: 1
 source_pdf: Library/Other/Deloria - God Is Red (2003).pdf
-page_range: Front Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

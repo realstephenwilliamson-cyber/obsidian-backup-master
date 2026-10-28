@@ -4,7 +4,7 @@ work: "[[Buhnemann - Mandalas and Yantras in the Hindu Traditions]]"
 book: "[[Library/Hinduism/Mandalas and Yantras in the Hindu Traditions (Buhnemann)/Mandalas and Yantras in the Hindu Traditions (Buhnemann)|Mandalas and Yantras in the Hindu Traditions (Buhnemann)]]"
 order: 14
 source_pdf: Library/Hinduism/Mandalas and Yantras in the Hindu Traditions.pdf
-page_range: 251–Plate
+page_range: "251–270"
 pdf_pages: 269–304
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

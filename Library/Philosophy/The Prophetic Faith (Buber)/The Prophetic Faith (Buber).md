@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng); the PDF'
 
 ## Contents
 
-- [[The Prophetic Faith 01 - Front matter|Front matter (Cover, Title Page, Copyright, Table of Contents)]] (pp. Cover–v)
+- [[The Prophetic Faith 01 - Front matter|Front matter (Cover, Title Page, Copyright, Table of Contents)]] (pp. iii–v)
 - [[The Prophetic Faith 02 - 1. Introduction|1. Introduction]] (pp. 1–7)
 - [[The Prophetic Faith 03 - 2. The Song of Deborah|2. The Song of Deborah]] (pp. 8–12)
 - [[The Prophetic Faith 04 - 3. Origins|3. Origins]] (pp. 13–30)

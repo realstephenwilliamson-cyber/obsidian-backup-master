@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[Rediscovering God 01 - Front matter|Front matter]] (pp. C1–ii)
+- [[Rediscovering God 01 - Front matter|Front matter]] (pp. i–ii)
 - [[Rediscovering God 02 - Rediscovering God with Transcendental Argument|Rediscovering God with Transcendental Argument]] (pp. iii–vi)
 - [[Rediscovering God 03 - Contents|Contents]] (pp. vii–viii)
 - [[Rediscovering God 04 - Foreword|Foreword]] (pp. ix–xii)

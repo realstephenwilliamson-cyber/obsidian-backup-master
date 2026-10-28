@@ -4,7 +4,7 @@ work: "[[May - Limiting Leviathan - Hobbes on Law and International Affairs]]"
 book: "[[Library/Philosophy/Limiting Leviathan (May)/Limiting Leviathan (May)|Limiting Leviathan (May)]]"
 order: 1
 source_pdf: Library/Philosophy/May - Limiting Leviathan (2013).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

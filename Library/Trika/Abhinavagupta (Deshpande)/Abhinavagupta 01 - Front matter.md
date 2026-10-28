@@ -4,7 +4,7 @@ work: "[[Deshpande - Abhinavagupta]]"
 book: "[[Library/Trika/Abhinavagupta (Deshpande)/Abhinavagupta (Deshpande)|Abhinavagupta (Deshpande)]]"
 order: 1
 source_pdf: Library/Trika/G. T. Deshpande - Abhinavagupta-Sahitya Akademi (1995).pdf
-page_range: Cover–7
+page_range: "1–7"
 pdf_pages: 1–8
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[Lectures on Ideology and Utopia 01 - Front matter|Front matter (Cover, Copyright, Contents, Editor's Acknowledgments)]] (pp. Cover–viii)
+- [[Lectures on Ideology and Utopia 01 - Front matter|Front matter (Cover, Copyright, Contents, Editor's Acknowledgments)]] (pp. iv–viii)
 - [[Lectures on Ideology and Utopia 02 - Editor's Introduction|Editor's Introduction]] (pp. ix–xxxviii)
 - [[Lectures on Ideology and Utopia 03 - 1. Introductory Lecture|1. Introductory Lecture]] (pp. 1–18)
 - [[Lectures on Ideology and Utopia 04 - Part I and Lectures 2-4, Marx, The Critique of Hegel and the Manuscripts - Marx, The 'Third Manuscript'|Part I and Lectures 2–4, Marx: The Critique of Hegel and the Manuscripts – Marx: The “Third Manuscript”]] (pp. 19–60)

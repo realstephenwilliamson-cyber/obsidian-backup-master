@@ -130,7 +130,7 @@ Finally, I wish to express my unbounded gratitude to Ram Krishnan and Raphael W�
 
 Freedom Cole is an old friend and very excellent and well-known astrologer. He dedicated a good deal of his very valuable time to writing a substantial essay on Indian astrology in the light of the teachings of chapter six of the Tantrāloka. These are concerned with the projection of the cycles of time into that of the breath. All the diagrams and drawings in that article are made by him. The reader will find it in the appendix to that chapter. 
 
-*[PDF 10]* ^pg10
+*[p. vi]* ^pg10
 
 CONTENTS 
 
@@ -338,7 +338,7 @@ the Path of the Time (kālādhvaprakāśana), pages 398-399
 
 Appendix to Chapter Eight: The Path of the Worlds, pages 400-41 1 
 
-*[PDF 16]* ^pg16
+*[p. xii]* ^pg16
 
 Abbreviations 
 

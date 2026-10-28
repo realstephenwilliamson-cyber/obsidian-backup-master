@@ -4,7 +4,7 @@ work: "[[Narasimhananda (ed.) - Prabuddha Bharata, January 2016]]"
 book: "[[Library/Hinduism/Prabuddha Bharata, January 2016 (Narasimhananda)/Prabuddha Bharata, January 2016 (Narasimhananda)|Prabuddha Bharata, January 2016 (Narasimhananda)]]"
 order: 3
 source_pdf: Library/Hinduism/012016.pdf
-page_range: 62–109
+page_range: "52–96"
 pdf_pages: 62–109
 text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07
@@ -509,7 +509,7 @@ Etymology and Origin The word ‘tantra’ has been derived from the root ‘tan
 
 The Hindu primary scriptures, the Vedas, have shown two paths in life. They are bhoga, enjoyment and 2pavarga, emancipation. Those who desire the former path are required to perform certain rimals called yajna. The major portion of the Vedas is covered by various types of such 
 
-*[PDF 79]* ^pg79
+*[p. 69]* ^pg79
 
 rituals. They have a twofold effect. In the first place, those rituals purify the minds of the performer, and in the second, they give back by way of 
 
@@ -527,7 +527,7 @@ represent the Bhairava tradition. These Bhairavas seem to haye been human teache
 
 ‘The supplementary literature of the Yammala group indicates a new orientation of the tantric culture. The sadhanas of the agamas assume in them amore pronounced character of Shaktism, ‘The tradition of the zgzmas developed through two channels—the exoteric and the esoteric. The former was continued as pure Shaivism with a yiew to attaining salvation. The latter was continued as Shaktism with greater emphasis on the various Shakti cults, notso much to atrain salvation as to gain control over the forces of nature. 
 
-*[PDF 80]* ^pg80
+*[p. 70]* ^pg80
 
 Practice The word ‘tantra’ also means that which rules or governs. It is the science of living a way of life that leads to the desired goal. So it is characterised by practice combined with esoteric knowledge. But this practice differs from the Vedic practice of yajna in that the tantric practice centres round the psycho-physical make-up of the practitioner, and so it is inward by nature. The tantras lay down different forms of practice for the attainment of the highest aim of human existence by one living the ordinary life of a householder. In this respect they correspond to the worship portion of the Vedas. The proponents of tantra say that when the Vedic rituals became outmoded, Shiva replaced them with tantric rites. This statement seems quite reasonable, for the tantric system, besides synthesising the two distinct paths of enjoyment and renunciation, acts as a conduit between the rituals and philosophy of the Vedas. 
 
@@ -537,7 +537,7 @@ Each act in the process of worship in the tantric system has to be performed wit
 
 The religious attitude in tantric rituals is twofold: the exoteric ritual of the Vedic type, which aims at acquisition of control over the forces of nature, and the esoteric ritual, its aim being the union of the two prime principles—Shiva and Shakti. Even this latter ritual traces its origin in the Vedic Brahmana and Upanishad passages like: “The head is the chariot of Soma; the mouth, the ahavaniya fire; the crown of the head, the sacrificial post; the belly, the cart-shed; the feet, the two fires; the sacrificial items, the limbs. Similarly in the Brihadaranyaka Upanishad, the limbs of the horse meant for the ashvamedha sacrifice have been equated with certain subtle elements: “The head of the sacrificial horse is the dawn, its eye the sun, its vital force the 
 
-*[PDF 81]* ^pg81
+*[p. 71]* ^pg81
 
 air, its open mouth the fire called Vaishvanara, and the body of the sacrificial horse is the year. Tes back is heaven?” Hence it is meet to say that the tantras emerged out of the Vedic religion and were then developed into a type of esoteric knowledge. But they can rather be called a development than grafting from the Vedic religion. Even some of the Vedic sacrifices could be used for both good and bad purposes. In the Vedic texts traces of whatis called ‘black magic are also found. The Atharva Veda is commonly believed to be the source of such rites. This explains the occurrence of magical practices in the tantras. 
 
@@ -545,7 +545,7 @@ The practice of tantra dominates in three zones in India: Bengal, Kashmir, and K
 
 In the tantras, bhava, disposition, is an important factor in spiritual practice, Humankind is classified under three heads—divya-bhava, one with adivine disposition, vva-bhava, one with a heroic disposition, and pashw-bhava, one with an animal disposition. One with an animal disposition can hardly be expected to see beyond the gross aspect of things. So such a person is guided along the path of strictest control of desires and passions. ‘The one with heroic attitude is fighting with the Shiva and Parvati 
 
-*[PDF 82]* ^pg82
+*[p. 72]* ^pg82
 
 six passions to reach the plane beyond matter. And the one possessed of divine disposition is by nature endowed with qualities of controlling his lower propensities. According to the Kamakhya Tantra, such a person is less spoken, quiet, steady, sagacious, truthful, attentive, and endearing to all. Depending on the prevalent disposition of an individual the tantra texts have prescribed seven acharas or codes of conduct in tantric practice. These are given in the Kularnava Tantra as veda, vaishnava, shaiva, dakshina, vama, siddhanta, and kaula. They represent seven stages of development in the aspirant. In the first stage, cleanliness of the body and the mind is cultivated; the second stage is that of devotion; the third that of knowledge; the fourth stage is one of consolidation of the acquisition in the first three stages; the fifth is the stage of renunciation and not the practice of rites with a woman, as is wrongly held by many; the sixth stage is of definite conclusion regarding the merits of enjoyment and renunciation. By pursuing the path of renunciation, the seventh stage kaula is reached. Of these seven, the first three belong to pashu-bhava, the next two belong to virabhava, and the last two to divya-bhava. 
 
@@ -557,7 +557,7 @@ world? Again, when he was brought to witness
 
 the tantric discipline of ritual sexual union, just the vision of extreme joy of the couple indulging in such act reminded him of the infinitely blissful Divine Mother assuming those human forms, and he lost himself into deep meditation of her supremely blissful aspect expressed even through sexual union. 
 
-*[PDF 83]* ^pg83
+*[p. 73]* ^pg83
 
 Mantra and Diksha 
 
@@ -575,7 +575,7 @@ destroys the sins of the disciple”? Diksha has
 
 been classified by the teachers of tantra into three types—Shambhavi, shakti, and mantri or anavi—depending on the spiritual status of the disciple. The first of these is done with a mere meet, touch, or conversation with the disciple, as happened in the life of Narendranath, Swami Vivekananda's pre-monastic name, on his second meeting with Sti Ramakrishna. In the shake type of initiation, the guru forces into the disciple his own spiritual power with his divine wisdom, 
 
-*[PDF 84]* ^pg84
+*[p. 74]* ^pg84
 
 thus awakening the spiritual dimension of the disciple. In this process, the bia-mantra is written by the guru on the tongue of the disciple and the latter at once merges into a vision of his chosen ideal. And in the mantri or anavi type the guru whispers the mantra into the disciple’s ear. Constant repetition and meditation on its meaning by the disciple bursts out the hard outer crust of the mantra. This phenomenon is known as mantra-chaitanya. It is the awakening of nada, the eternal sound. At this stage words or letters of the mantra melt in the moving stream of an unbroken vibration called akhanda-nada. This vibration of sound leads to illumination and the aspirant becomes blessed with the vision of one’s chosen ideal. This process has been mentioned in authentic tantric texts like Rudra-Yamala, Vayaviya Samhita, and Vishvasara Tantra. 
 
@@ -587,7 +587,7 @@ According to the tantras, from the supreme Self came out Shakti, the primal ener
 
 The tantric literature makes it imperative for the aspirant desirous of conducting worship of any deity to be initiated by some guru. We have to bring up a brief discussion in this context on the varnamala. The eternal union of Shakti with Shiva is indicated by the letter 7 in the word Shiva. Take it away from the word, and it changes into shava, lifeless corpse. This 
 
-*[PDF 85]* ^pg85
+*[p. 75]* ^pg85
 
 unique philosophy demonstrates that the order second letter ‘#7. These two letters, when com- 
 
@@ -621,7 +621,7 @@ Nataraja Shiva
 
 7S 
 
-*[PDF 86]* ^pg86
+*[p. 76]* ^pg86
 
 and that in the fourteenth sutra ‘ha’ together constitute the entire gamut of our existence, as it begins with the first vowel ‘a’ in the alphabet and ends with the last consonant of the alphabet, ‘ha’; and these two poles, when joined by the point represented by ‘mm; makes it aham, ‘T. In the tantric context the word ‘aham’ represents the whole world of living beings. Like the cardinal sentence in Vedanta, ‘aham brahmasmi;1 am Brahman} the two words ‘aham and ‘idam in the tantric context represent the eternal relation between the individual soul and Shiva. It also means the elimination of the difference between the knower and the known, the enjoyer and the enjoyed. Shankara also says in the introduction to his commentary on the Brahma Sutra that the physical world consists of the infinite variety of relationship between the two words ‘“aham’ and “idam>, ‘TV and ‘this’: ‘A natural human behaviour based on self-identification in the form of “I am 
 
@@ -633,7 +633,7 @@ The Significance of Sri-yantra We have discussed in the foregoing passages the s
 
 The word ‘yantra’ occurs frequently in all tantric contexts of worship. All dualistic forms of worship need an image, a symbol, or something like that. Since the ordinary aspirants need an object of adoration or worship, a gross form is made after the desired pattern of the worshipper thinking about the form of the worshipped. Thus there may be an innumerable variety of symbols depending on the mental make-up of individuals. Shalagrama and Shiva-linga are some such symbols. The tantric method of Shakti worship is represented by such a yantra called Sri-chakra or Sri-yantra. It is a beautiful piece of geometric figure representing the Divine Mother in her individual as well as universal form. It consists of several fields or planes of existence, two sets of triangles, and two groups of lotus petals. The Sri-chakra is of immense significance in the tantric method of worship. As awhole, it represents the universe—the macrocosm and the microcosm—and its divine cause. At the centre of the chakra there is a point. It represents the coexistence of Lalita and Kameshvara in an undifferentiated union. An inverted triangle encloses this point. This triangle represents the triple dimensions of Shakti known as knowledge, willpower, and action, and also the three qualities of sattva, rajas, and tamaés, and their presiding deities. Circumscribing this small triangle there 
 
-*[PDF 87]* ^pg87
+*[p. 77]* ^pg87
 
 is a group of eight triangles and circumscribing even this group of eight there are two sets of triangles, each containing ten triangles, one surrounding the other. Still outside these two sets of ten triangles, there exists a set of fourteen triangles circumscribing them. Next, circumscribing this set of fourteen triangles stands a circle of eight lotus petals, another concentric circle of sixteen petals. Still outside that region are three concentric circles and three concentric squares outside the three circles. Thus, reversely from outside inward, the nine chakras are: Viz tatraya or bhupura; shodasha-dala, darcle with sixteen petals; ashta-dala, circle with eight petals; manvashara, circular area with fourteen triangles; dashara-yugma, two circular areas with two sets of ten triangles each; ashtakona, circular area with eight triangles; inverted triangle; and bindu, point. The order of these nine chakras Sri Yantra 
 
@@ -645,7 +645,7 @@ Epilogue ‘The tantric view is that wherever there is Shiva, Shakti is identifi
 
 a 
 
-*[PDF 88]* ^pg88
+*[p. 78]* ^pg88
 
 cannot exist without the other. Many people erroneously identify Shakti with a woman or female principle, and Shiva with the male principle. However, they are neither male nor female nor neuter. The aspirant who worships the wisdom aspect of Reality is called a Shaiva, and one who worships the power aspect of the same Reality is called a Shakta. The worshipper of the knowledge aspect will spontaneously be endowed with power. But if one wants to attain perfection in the acquisition of power, one has to stop the wastage of energy by all means. The aspirant has to identify his inner Self with the source of all power, keep the channel of descent of that power clean by purifying himself through an ardent invocation, worship, and self-surrender with a yearning heart. It is in this way alone that the great power becomes propitiated and gives boon to the worshipper. Endowed with that boon, the aspirant comes to realise the manifestation of the same Divine Mother in all women, and the living presence of Shiva, the source of knowledge, in all beings. It is then that the aspirant truly feels the meaning of the maxim, ‘yatra jivastatra shivah; wherever there is jiva, there is Shiva, and proceeds with all conviction to serve God in all beings because, according to tantric injunction, no individual can attain liberation until all others reach that state. 
 
@@ -683,7 +683,7 @@ Ow Notes and References 1. See Vidyaranya Muni, Panchadashi, 6.130:
 
 14\. Gospel, 315. 
 
-*[PDF 89]* ^pg89
+*[p. 79]* ^pg89
 
 Shakti, the Supreme: 
 
@@ -705,7 +705,7 @@ has been lost to posterity. Even today when bitter struggles rage over the super
 
 Mother Goddess in Hinduism 
 
-*[PDF 90]* ^pg90
+*[p. 80]* ^pg90
 
 as endowed with divinity. Thus everything in the universe was imbued with the presence of the divine and the question of distinguishing the female from the male or according superiority to one over the other would not fit into the overall scheme of Vedic philosophy. This tendency would later blossom into the concepts of Brahman and Atman in the Upanishads where the outer reality Brahman got to be identified with the inner reality in everything that exists called Atman. It is also echoed in the Ardhanarishvara concept where Shiva is viewed as half male and half female emphasising the importance of both male and female in Nature. 
 
@@ -717,7 +717,7 @@ There are a profusion of mother-deities that dot the Hindu landscape. Thus you h
 
 Itis not possible to state definitely when this supremacy accorded to Shakti came into being. Depiction of female figurines on seals are available from the Indus Valley civilisation around third and second millennium BCE and later onin the Mauryan period, around the third to second century BCE, which by then had both masculine and feminine divine representations. It is with the age of the Puranas, that one notices written documents which accord this supreme status to Devi. She is celebrated as the one who killed the demon Mahishasura and one can boldly assert 
 
-*[PDF 91]* ^pg91
+*[p. 81]* ^pg91
 
 Shakti, the Supreme: Mother Goddess in Hinduism 
 
@@ -727,7 +727,7 @@ The Devi Mahatmyam, considered to be of sixth century CE, recounts in detail the
 
 needs to wanscend the world of Prakriti by the Maharsaya: The word ‘maya, as we all know, practice of discernment which is not an easy prop-goes back to the Rig Veda, associated with magic osition. People are bound to the world of Prakriti and the power of delusion. In late Upanishadic in general. By the time of popular Hinduism rep-philosophy and the later Vedanta schools, maya resented by the Puranas, Prakriti is associated has the power mainly of ensnaring humans to more with human behaviour, which invariably the mundane world and distracting them from drags humans into the yortex of worldly activity. No wonder the Gita says, ‘It is Nature that acts” attaining liberation, However in the Puranic 
 
-*[PDF 92]* ^pg92
+*[p. 82]* ^pg92
 
 and associates behaviour with the sattvic, rajasic and tamasic qualities, which are the constituents of Prakriti “born of sativa, rajas, and tamas (17.2). Just as behaviour following the natural inclination of Prakriti is difficult to resist so is Kali, who represents the darker side of Shakti, difficult to control says Kinsley. Perhaps this is the reason behind her being called Kali, the dark one, who is Prakriti or Shakti in her not so benevolent aspect according to Kinsley. While Kinsley associates Kali with the dark colour, another understanding is that Kali is derived from the word ‘kala’ meaning time. She is therefore the power associated with time.\* Either way what Kali signifies is that humans are not in full control of their lives and evil in many forms impacts their lives at unforeseen moments. This isan acknowledgement of the helplessness of humans in the face of difficulties. 
 
@@ -737,7 +737,7 @@ In whatever way Devi is worshipped, there is no gainsaying the fact that she has
 
 Shakti has been identified with yoga-nidra, yogic sleep, and the reason for this is narrated in the following manner in the Devi Mahatmyam: Vishnu has entered his yoga-nidra and the demons Madhu and Kaitabha use this moment to start tormenting Brahma who tries to awaken Vishnu from his yoga-nidra. The same story occurs in the Mahabharata, which version is slightly different and it does not give due importance to the Devi. Thus the Mahabharata mentions Brahma shaking the lotus, in which he is born from the navel of Vishnu, in order to wake Vishnu up from his yoga-vdva, who eventually wakes up and then slays the two demons. But in the Devi Mahatmyam Brahma prays to the Devi addressing her as »ahamaya, who then agrees to 
 
-*[PDF 93]* ^pg93
+*[p. 83]* ^pg93
 
 Shakti, the Supreme: Mother Goddess in Hinduism 
 
@@ -799,7 +799,7 @@ and nirvana
 
 is emphasised. The spiritual aspirant or the seeker of truth is caught up in the world of samsara in which one typically suffers and, with the help of Buddhist practices, ultimately transcends it to reach the state ofniryana. The main — 
 
-*[PDF 95]* ^pg95
+*[p. 85]* ^pg95
 
 On Tantra 
 
@@ -813,7 +813,7 @@ Be that as it may, a major doctrine of Mahayana Buddhism consists of the claim t
 
 It might, however, be useful to refer to a perhaps uniquely Buddhist argument which was used to justify the emergence of tantra. Intention plays a very important role in Buddhist thought and the Buddha is even famously known to have virtually identified karma with intention. So it was argued that if the intention of tantric practices was to secure ‘enlightenment; then they could be justified. One could even broaden this argument and claim that to engage in the quest for enlightenment was to engage in such a demanding enterprise that it required the mobilisation of a// powers and dimensions which constitute the human personality, especially if 
 
-*[PDF 96]* ^pg96
+*[p. 86]* ^pg96
 
 one wanted to achieve this enlightenment in the course of one life. Arguably, the identification of nirvana and samsara provided the requisite metaphysics for the development of tantra, along with the kind of soteriology which went hand in hand with it. It is also worth noting that, in Mahayana Buddhism, the soteriologically sharp distinction between the life of the householder and the life of a monk, found in Theravada Buddhism, was replaced by a willing acceptance of the fact that householders could get enlightened, and that not all monks were necessarily fully enlightened. 
 
@@ -827,7 +827,7 @@ Anyone who reflects on the teachings of Ramana Maharishi over the years carefull
 
 As more and more people started approaching Ramana Maharishi, the implications of his teachings for ordinary life also started to come into prominence. For instance, in his later teachings he expresses himself clearly against the idea 
 
-*[PDF 97]* ^pg97
+*[p. 87]* ^pg97
 
 On Tantra 
 
@@ -878,7 +878,7 @@ Vasugupta taught Kallata (c. 855 CE) the spiritual philosophy contained in the S
 
 Vasugupta’s disciple Siddha Somananda (c. 850 CE) gave a new turn to the development of 
 
-*[p. 400]* ^pg100
+*[p. 90]* ^pg100
 
 Prabuddba Bharata 
 
@@ -888,7 +888,7 @@ Abhinavagupta (950-1020 CE) was a master syneretist, who discovered the thread o
 
 Abhinavagupta has mentioned three triads, vriéa, in his magnum opus Tantraloka as constituting the subject matter of the Trika school of Shaivism. These are: Shiva, Shakti, and their union; Shiva, Shakti, and Nara; and Para Shakti, Abhinavagapta 
 
-*[p. 401]* ^pg101
+*[p. 91]* ^pg101
 
 Apara Shakti, and Parapara Shakti. He has projected the idea of their essential identity by naming the Advaita Shaiva school of spiritual philosophy as Trika. 
 
@@ -904,7 +904,7 @@ result of this, the universe is manifested in three different forms, technically
 
 QI 
 
-*[p. 402]* ^pg102
+*[p. 92]* ^pg102
 
 one more a7da, a sphere, which he calls prith vyanda. He has classified thirty-six s2\#tvzs or levels of manifested universe admitted in the Adyaita Shaiva school of Kashmir under four 2zdzs: sadashiva tattva; ishvara tattua and the shuddhavidya tattva constivating the shzktyanda; mayashakei and five kanchukas namely, kala, vidya, raga, kala, and niyati, constituting mayandz; Purusha, Prakriti, buddhi, abamkara, and manas, five powers of sense perception called jranendriyas, five powers of action called karmendriyas, and five primary subtle elements called tanmatras constituting the prakrityanda; five gross material elements called mahabbuvas that are the product of five tanmatras constituting prizhuyanda. The total number of ta#\#vas constituting the manifest world is thirty-four. The remaining two tattvas out of a total number of thirty-six tattuas, Shiva-tatrua and. Shakti-tartva are held to be eternally existent as such, as these stay above the world creation. Parama Shiva, the supreme Being exists on the top as the transcendent Reality and the Absolute. He is also immanent or creative at the same time. His creative nature is represented by Shiva-tattva, which symbolises the initial creative movement. The universe manifested by the supreme Being, Parama Shiva out of his free will, not only consists of thirty-six attvas or levels of creation mentioned earlier, but also of infinite number of limited beings—pramaza, experients, and their objects of prameya, experience, which exist on each of the leyels of the manifested universe described above. Actually, it is the supreme Being, Parama Shiva, who manifests himself both as so many \#a¢tuas or levels of creation and also as an infinite number of experients and their objects of experience by assuming self-contraction out of his free will (6). 
 

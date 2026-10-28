@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Digital Hinduism 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Contents, List of fi)]] (pp. Cover–x)
+- [[Digital Hinduism 01 - Front matter|Front matter (Cover, Half Title, Series Page, Title Page, Copyright Page, Contents, List of fi)]] (pp. i–x)
 - [[Digital Hinduism 02 - List of contributors|List of contributors]] (pp. xi–xiv)
 - [[Digital Hinduism 03 - Introduction Digital Hinduism Studying Hinduism at the intersections of|Introduction: Digital Hinduism: Studying Hinduism at the intersections of digital media and culture]] (pp. 1–10)
 - [[Digital Hinduism 04 - PART 1 Who belongs Identity and finding one's place|PART 1 Who belongs? Identity and finding one’s place]] (pp. 11–88)

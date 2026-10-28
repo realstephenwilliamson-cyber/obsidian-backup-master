@@ -4,7 +4,7 @@ work: "[[Padoux (tr.) - The Heart of the Yogini]]"
 book: "[[Library/Trika/The Heart of the Yogini (Padoux)/The Heart of the Yogini (Padoux)|The Heart of the Yogini (Padoux)]]"
 order: 1
 source_pdf: Library/Trika/Padoux, Jeanty (tr.) - The Heart of the Yogini (2013).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

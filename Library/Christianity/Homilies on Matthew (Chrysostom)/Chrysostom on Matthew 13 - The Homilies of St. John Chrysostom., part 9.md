@@ -131,7 +131,7 @@ For not by any means in working wonders only was He wonderful, but even when mer
 
 1149 Isa. liii. 4. The Evangelist seems to quote the Hebrew, not the LXX. \[The explanation given in the Homily agrees with the LXX., “he bare our sins and suffered pain (ὀδυνται) on our behalf.” Hebrew has “sorrows” instead of “sicknesses” or “diseases.”—R.\]
 
-1150 [[John 01#^1-29|John i. 29]]. κατ στοραν τν μαρτυραν ναγινσκων, “reading the text in that sense, to which the actual knowledge of 1151 the facts concerning Christ, apart from what faith teaches, might guide a man.” See Suicer in v. ἱστορα. 1152 [[Matthew 08#^8-18|Matt. viii. 18]]. 1153 [[Mark 01#^1-34|Mark i. 34]]; [[Luke 04#^4-41|Luke iv. 41]]. 1154 *i.e*., “moderate, as receivers, in what we expect from Him: and averse to all display, when we give in His Name.” ὡραο. 1155 1156 Ps. xlv. 2, LXX. Isa. liii. 2, LXX. \[So the Hebrew.\] μετ παησα. 1158 1159 [[Matthew 08#^8-19|Matt. viii. 19]].
+1150 [[John 01#^1-29|John i. 29]]. κατ στοραν τν μαρτυραν ναγινσκων, “reading the text in that sense, to which the actual knowledge of 1151 the facts concerning Christ, apart from what faith teaches, might guide a man.” See Suicer in v. ἱστορα. 1152 [[Matthew 08#^8-18|Matt. viii. 18]]. 1153 [[Mark 01#^1-34|Mark i. 34]]; [[Luke 04#^4-41|Luke iv. 41]]. 1154 *i.e*., “moderate, as receivers, in what we expect from Him: and averse to all display, when we give in His Name.” ὡραο. 1155 1156 Ps. xlv. 2, LXX. Isa. liii. 2, LXX. \[So the Hebrew.\]
 
 
 *[p. 331]* ^pg339
@@ -150,7 +150,9 @@ But observe how He doth not simply drive them away, lest He should hurt them. Fo
 
 Yet nevertheless the Lord rebuked not his unseasonable confidence, teaching us to bear even with such as these. Therefore He doth not openly convict them who are devising mischief, but replies to their secret thought, leaving it to themselves only to know that they are convicted, and doubly doing them good, first by showing that He knows what is in their conscience, next by granting unto them concealment after this manifestation, and allowing them to recover themselves again, if they will: which thing He doth in the case of this man also.
 
-1160 [[Matthew 22#^22-36|Matt. xxii. 36]]; [[Luke 10#^10-25|Luke x. 25]]. \[The passage in Luke tells of an entirely different incident. The citation from Matthew is not exact, though “first” occurs in the answer of our Lord.—R.\] 183 1161 [[Matthew 08#^8-20|Matt. viii. 20]]. 1162 [[Matthew 19#^19-16|Matt. xix. 16]], [[Matthew 19#^19-17|17]]; [[Luke 18#^18-18|Luke xviii. 18]], [[Luke 18#^18-19|19]]. \[The citation agrees more exactly with [[Mark 10#^10-18|Mark x. 18]]. In Matthew, according to the best mss. authorities, and also the Latin versions and fathers, another form of the answer occurs. Even in Homily LXIII., where the incident is commented upon, Chrysostom does not directly attribute this language, as given above, to Matthew’s Gospel.—R.\] 1163 [[Matthew 12#^12-47|Matt. xii. 47]], [[Matthew 12#^12-48|48]]. 1164 [[John 07#^7-4|John vii. 4]], [[John 07#^7-6|6]]. 1165 [[John 01#^1-47|John i. 47]].
+μετ παησα. 1158 1159 [[Matthew 08#^8-19|Matt. viii. 19]].
+
+1160 [[Matthew 22#^22-36|Matt. xxii. 36]]; [[Luke 10#^10-25|Luke x. 25]]. \[The passage in Luke tells of an entirely different incident. The citation from Matthew is not exact, though “first” occurs in the answer of our Lord.—R.\]
 
 
 *[p. 332]* ^pg340
@@ -168,6 +170,8 @@ And when they said unto Him, “Behold, Thy mother and Thy brethren seek Thee;�
 And again to His brethren themselves, saying unto Him, “Show thyself to the world,”<sup>1164</sup>and wishing thence to feed their vainglory, He said, “Your time” (so He speaks) “is always ready, but my time is not yet come.”
 
 And in the opposite cases too He doth so; as in that of Nathanael, saying, “Behold an Israelite indeed, in whom is no guile.”<sup>1165</sup> And again, “Go and show John again those things which ye do hear and see.”<sup>1166</sup> For neither in this did He reply to the words, but to the intention of him that sent them. And with the people again in like manner, He addresses His
+
+183 1161 [[Matthew 08#^8-20|Matt. viii. 20]]. 1162 [[Matthew 19#^19-16|Matt. xix. 16]], [[Matthew 19#^19-17|17]]; [[Luke 18#^18-18|Luke xviii. 18]], [[Luke 18#^18-19|19]]. \[The citation agrees more exactly with [[Mark 10#^10-18|Mark x. 18]]. In Matthew, according to the best mss. authorities, and also the Latin versions and fathers, another form of the answer occurs. Even in Homily LXIII., where the incident is commented upon, Chrysostom does not directly attribute this language, as given above, to Matthew’s Gospel.—R.\] 1163 [[Matthew 12#^12-47|Matt. xii. 47]], [[Matthew 12#^12-48|48]]. 1164 [[John 07#^7-4|John vii. 4]], [[John 07#^7-6|6]]. 1165 [[John 01#^1-47|John i. 47]].
 
 *[p. 333]* ^pg341
 
@@ -219,7 +223,7 @@ And if ye will, let it be some one of them that are great and distinguished, who
 
 Let us then behold their head bound up. For indeed, when they are for ever drunken, even as the dead by their many wrappers and grave-clothes, so are all their organs of sense closed and bound up. And if thou wilt look at their hands too, thou shalt see these again
 
-1174 \[More exactly, “ten days.”—R.\] πμα, the lid of a coffer of any kind: here of a sarcophagus. εδωλον. The classical use of this word is well known: see *e.g.* Odyss. xi. 602. “A shadow or phantom: not 1176 a true substantial soul.” Alluding to [[John 12#^12-2|John xii. 2]].
+1174 \[More exactly, “ten days.”—R.\] πμα, the lid of a coffer of any kind: here of a sarcophagus.
 
 
 *[p. 336]* ^pg344
@@ -231,6 +235,8 @@ Hast thou seen the dead? behold also the embalmer. Who then is the embalmer of t
 Forasmuch then as they are in a sort of senseless state, being turned to dead men, let us in their behalf draw nigh unto Jesus, let us entreat Him to raise them up, let us take away the stone, let us loosen the grave clothes. For if thou take away the stone, that is, their insensibility to their own miseries, thou wilt quickly be able to bring them also out of the tomb; and having brought them out, thou wilt more easily rid them of their bonds. Then shall Christ know thee, when thou art risen, when unbound; then will He call thee even unto His own supper.<sup>1177</sup> As many therefore of you as are friends of Christ, as many as are disciples, as many as love him that is gone, draw near unto Jesus, and pray. For even though his ill savor abound and be ever so intense, nevertheless not even so should we, his friends, forsake him, but so much the rather draw near; even as the sisters of Lazarus then did; neither should we leave interceding, beseeching, entreating, until we have received him alive.
 
 For if we thus order our own affairs, and those of our neighbors, we shall also attain speedily unto the life to come; unto which may we all attain, by the grace and love to man of our Lord Jesus Christ, to whom be glory forever and ever. Amen.
+
+εδωλον. The classical use of this word is well known: see *e.g.* Odyss. xi. 602. “A shadow or phantom: not 1176 a true substantial soul.” Alluding to [[John 12#^12-2|John xii. 2]].
 
 *[p. 337]* ^pg345
 
@@ -254,7 +260,7 @@ The tempest therefore being thoroughly excited, and the sea raging, “They awak
 
 186 1178 [[Luke 08#^8-22|Luke viii. 22]]. 1179 See [[Mark 04#^4-35|Mark iv. 35]]. \[But Mark is very specific as to time. This event is placed very much out of chronological position in Matthew’s account. But Chrysostom does not discuss such questions with any fullness. Indeed, the order of Matthew seems to have been accepted up to his time. The earliest harmonies were based upon Matthew. Comp. even Augustin, *Harmony, Nicene and Post-Nicene Fathers*, vol. vi., first series, pp. 67–69, and elsewhere.—R.\]
 
-1180 *i.e*., the miracle at the Red Sea, afterwards mentioned. 1181 See [[Mark 04#^4-38|Mark iv. 38]]. φιλοσοφαν. 1182 πραγμτων, “of things.” 1184 1185 [[2 Corinthians 01#^1-8|2 Cor. i. 8]], [[2 Corinthians 01#^1-10|10]]. Exod. iv. 3, 4.
+1180 *i.e*., the miracle at the Red Sea, afterwards mentioned. 1181 See [[Mark 04#^4-38|Mark iv. 38]]. φιλοσοφαν. 1182
 
 
 *[p. 338]* ^pg346
@@ -270,6 +276,8 @@ Therefore neither doth He this in the presence of the multitudes, that they migh
 “Why are ye fearful, O ye of little faith:” instructing them also, that men’s fear is wrought not by the approach of the temptations, but by the weakness of their mind.
 
 But should any one say, that it was not fearfulness, or little faith, to come near and awaken Him; I would say this, that that very thing was an especial sign of their wanting the right opinion concerning Him. That is, His power to rebuke when awakened they knew, but that He could do so even sleeping, they knew not as yet.
+
+πραγμτων, “of things.” 1184 1185 [[2 Corinthians 01#^1-8|2 Cor. i. 8]], [[2 Corinthians 01#^1-10|10]]. Exod. iv. 3, 4.
 
 *[p. 339]* ^pg347
 
@@ -300,7 +308,7 @@ And their words too are such as well betray their implacable and shameless natur
 
 3\. But what can be the reason that they love also to dwell in the tombs? They would fain suggest to the multitude a pernicious opinion, as though the souls of the dead become demons,<sup>1196</sup>which God forbid we should ever admit into our conception. “But what then
 
-1193 [[Mark 05#^5-10|Mark v. 10]]; [[Luke 08#^8-31|Luke viii. 31]]. ο περ τν Λουκν. 1194 τιμωρουμνου . 1195 1196 So St. Augustin *de Civitate De*i, ix. 11. “Plotinus says that the souls of men are demons, and of men become Lares, if they are of good desert; if of bad, Lemures or Larvæ.” Mr. Field refers to St. Chrys. 2 *Hom. on Lazarus*, vi. 235, 6 (Savile). “Many of the simpler sort imagine that the souls of such as die violent deaths are turned into demons, whereas the souls which really become such are theirs who are yet living in their sins, not by change of substance, but by imitating their evil mind.…Why did the devil introduce this wicked doctrine? He tried to undermine the glory of the martyrs. I mean, because they die violent deaths, he wishing to diffuse an evil impression of them, did this. This, however, he could not do, but another very grievous result he did accomplish. He induced, by these doctrines, the sorcerers that minister to him to butcher the bodies of many tender youths, in the hope that they would become demons, and in return minister to them.” He proceeds to argue against the superstition much as in the text here. 1197 Wisd. iii. 1. 1198 [[Luke 12#^12-20|Luke xii. 20]]. 1199 [[Acts 07#^7-59|Acts vii. 59]].
+1193 [[Mark 05#^5-10|Mark v. 10]]; [[Luke 08#^8-31|Luke viii. 31]]. ο περ τν Λουκν. 1194 τιμωρουμνου . 1195 1196 So St. Augustin *de Civitate De*i, ix. 11. “Plotinus says that the souls of men are demons, and of men become Lares, if they are of good desert; if of bad, Lemures or Larvæ.” Mr. Field refers to St. Chrys. 2 *Hom. on Lazarus*, vi. 235, 6 (Savile). “Many of the simpler sort imagine that the souls of such as die violent deaths are turned into demons, whereas the souls which really become such are theirs who are yet living in their sins, not by change of substance, but by imitating their evil mind.…Why did the devil introduce this wicked doctrine? He tried to
 
 
 *[p. 341]* ^pg349
@@ -312,6 +320,8 @@ And besides, it stands not to reason that the injured soul should co-operate wit
 Nor indeed is it possible for a soul, torn away from the body, to wander here any more. For “the souls of the righteous are in the hand of God;”<sup>1197</sup>and if of the righteous, then those children’s souls also; for neither are they wicked: and the souls too of sinners are straightway led away hence. And it is evident from Lazarus and the rich man; and elsewhere too Christ saith, “This day they require thy soul of thee.”<sup>1198</sup> And it may not be that a soul, when it is gone forth from the body, should wander here; nor is the reason hard to see. For if we, going about on the earth which is familiar and well known to us, being encompassed with a body, when we are journeying in a strange road, know not which way to go unless we have some one to lead us; how should the soul, being rent away from the body, and having gone out from all her accustomed region, know where to walk without one to show her the way?
 
 And from many other things too one might perceive, that it is not possible for a disembodied soul to remain here. For both Stephen saith, “Receive my spirit;”<sup>1199</sup>and Paul, “To depart and to be with Christ is far better;”<sup>1200</sup>and of the patriarch too the Scripture saith, that “he was gathered unto his fathers, being cherished in a good old age.”<sup>1201</sup> And as to
+
+undermine the glory of the martyrs. I mean, because they die violent deaths, he wishing to diffuse an evil impression of them, did this. This, however, he could not do, but another very grievous result he did accomplish. He induced, by these doctrines, the sorcerers that minister to him to butcher the bodies of many tender youths, in the hope that they would become demons, and in return minister to them.” He proceeds to argue against the superstition much as in the text here. 1197 Wisd. iii. 1. 1198 [[Luke 12#^12-20|Luke xii. 20]]. 1199 [[Acts 07#^7-59|Acts vii. 59]].
 
 1200 [[Philippians 01#^1-23|Phil. i. 23]]. Gen. xv. 15, in LXX.
 
@@ -326,7 +336,7 @@ And besides what hath been mentioned, there is another thing also, which we lear
 
 For these reasons then He suffered them to depart into the herd of swine, and that they also who dwelt in those places should learn His power. For where His name was great, He did not greatly display Himself: but where no one knew Him, but they were still in an insensible condition, He made His miracles to shine out, so as to bring them over to the knowledge of His Godhead. For it is evident from the event that the inhabitants of that city were a sort of senseless people; for when they ought to have adored and marvelled at His power, they sent Him away, and “besought Him that He would depart out of their coasts.”<sup>1204</sup>
 
-1202 [[Luke 16#^16-27|Luke xvi. 27]], [[Luke 16#^16-28|28]]. 1203 [[Matthew 10#^10-30|Matt. x. 30]]. [[Matthew 08#^8-34|Matt. viii. 34]]. \[R.V., “from their borders.”\] κατ ναγωγν. \[Comp. the “analogical” sense of Scripture in the later Hermeneuties. But Origen and others 1205 had already made the term ἀναγωγ familiar and technical in the usage of ecclesiastical Greek.—R.\] 1206 \[“demons.”\] σωματ.
+1202 [[Luke 16#^16-27|Luke xvi. 27]], [[Luke 16#^16-28|28]]. 1203 [[Matthew 10#^10-30|Matt. x. 30]]. [[Matthew 08#^8-34|Matt. viii. 34]]. \[R.V., “from their borders.”\]
 
 
 *[p. 343]* ^pg351
@@ -340,6 +350,8 @@ And mark also His meekness together with His power. For when the inhabitants of 
 5\. These things any one may see happening now also, even many in the tombs possessed of evil spirits, whom nothing restrains from their madness; not iron, nor chain, nor multitude of men, nor advice, nor admonition, nor terror, nor threat, nor any other such thing.
 
 For so when any man is dissolute, eager after all embraces,<sup>1207</sup>he differs not at all from the demoniac, but goes about naked like him, clad indeed in garments, but deprived of the true covering, and stripped of his proper glory; cutting himself not with stones, but with sins more hurtful than many stones. Who then shall be able to bind such a one? Who, to stay his unseemliness and frenzy, his way of never coming to himself, but forever haunting
+
+κατ ναγωγν. \[Comp. the “analogical” sense of Scripture in the later Hermeneuties. But Origen and others 1205 had already made the term ἀναγωγ familiar and technical in the usage of ecclesiastical Greek.—R.\] 1206 \[“demons.”\] σωματ.
 
 *[p. 344]* ^pg352
 
@@ -431,7 +443,7 @@ Implying therefore that He is God, equal to Him that begat Him; what things they
 
 1222 [[Matthew 08#^8-10|Matt. viii. 10]]. 1223 [[Matthew 08#^8-6|Matt. viii. 6]]. \[“Upon the earth” is placed in this peculiar position by Chrysostom here. In the next reference to the passage the correct order is followed.—R.\] 1224 [[John 10#^10-33|John x. 33]]. 1225 [[John 10#^10-37|John x. 37]], [[John 10#^10-38|38]]. 1226 [[Matthew 09#^9-3|Matt. ix. 3]], [[Matthew 09#^9-4|4]]. μοντατο. 1227 1228 2 Chron. vi. 30. 1229 Ps. vii. 9.
 
-1230 Jer. xvii. 9, LXX. 1 Sam. xvi. 7. τ νεπαχθς. 1232 1233 [[Matthew 09#^9-4|Matt. ix. 4]]. 1234 \[R.V., margin, “authority;” compare the next paragraph. On the order, see note 7, p. 196.—R.\] 1235 [[Matthew 08#^8-4|Matt. viii. 4]]. 1236 [[Matthew 09#^9-5|Matt. ix. 5]], [[Matthew 09#^9-6|6]]. δικισμνον, literally, “distributed into different habitations;” as when the population of Mantinea was 1237 broken up by the Lacedæmonians, δικσθη Μαντινεα: see Xen. *Hellenic*, v. 2, 7; comp. Dem. *de Pace*, i. 59, ed. Reiske; *de Fals. Leg*. i. 366. λσαι.
+1230 Jer. xvii. 9, LXX. 1 Sam. xvi. 7.
 
 
 *[p. 350]* ^pg358
@@ -447,6 +459,8 @@ And whereas, when He spake unto the sick of the palsy, He spake without clearly 
 Seest thou, how far He was from unwillingness to be thought equal to the Father? For He said not at all, “The Son of Man hath need of another;” or, “He hath given Him authority,” but, “He hath authority.” Neither doth He say it for love of honor, but “to convince you,” so He speaks, “that I do not blaspheme in making myself equal with God.”
 
 Thus everywhere His will is to offer proofs clear and indisputable; as when He saith, “Go thy way, show thyself to the priest;”<sup>1235</sup>and when He points to Peter’s wife’s mother ministering, and permits the swine to cast themselves down headlong. And in the same manner here also; first, for a certain token of the forgiveness of his sins, He provides the giving tone to his body: and of that again, his carrying his bed; to hinder the fact from being thought a mere fancy. And He doeth not this, before He had asked them a question. “For whether is easier,” saith He, “to say, Thy sins be forgiven thee? or to say, Take up thy bed, and go unto thine house?”<sup>1236</sup> Now what He saith is like this, “Which seems to you easier, to bind up a disorganized<sup>1237</sup>body, or to undo<sup>1238</sup>the sins of a soul? It is quite manifest; to
+
+τ νεπαχθς. 1232 1233 [[Matthew 09#^9-4|Matt. ix. 4]]. 1234 \[R.V., margin, “authority;” compare the next paragraph. On the order, see note 7, p. 196.—R.\] 1235 [[Matthew 08#^8-4|Matt. viii. 4]]. 1236 [[Matthew 09#^9-5|Matt. ix. 5]], [[Matthew 09#^9-6|6]]. δικισμνον, literally, “distributed into different habitations;” as when the population of Mantinea was 1237 broken up by the Lacedæmonians, δικσθη Μαντινεα: see Xen. *Hellenic*, v. 2, 7; comp. Dem. *de Pace*, i. 59, ed. Reiske; *de Fals. Leg*. i. 366. λσαι.
 
 *[p. 351]* ^pg359
 
@@ -526,7 +540,7 @@ Because these more than others were in so strange and mean ways of life. For the
 
 2\. Having therefore called him, He also honored him with a very great honor by partaking straightway of his table; for in this way He would both give him good hope for the future, and lead him on to a greater confidence.<sup>1257</sup> For not in a long time, but at once, He healed
 
-1254 [[Luke 07#^7-38|Luke vii. 38]]. 1255 It appears by this that St. Chrysostom did not consider Nathanael to be the same with St. Bartholomew. 1256 [[Matthew 03#^3-6|Matt. iii. 6]]. παησαν. ἐγκαλλωπιζμενο . 1258 1259 [[Matthew 11#^11-19|Matt. xi. 19]].
+1254 [[Luke 07#^7-38|Luke vii. 38]]. 1255 It appears by this that St. Chrysostom did not consider Nathanael to be the same with St. Bartholomew. 1256 [[Matthew 03#^3-6|Matt. iii. 6]]. παησαν.
 
 
 *[p. 356]* ^pg364
@@ -542,6 +556,8 @@ Let them hear, as many as are striving to deck themselves with great honor for f
 And to teach thee that this great thing was wrought by his partaking of the table with Him, hear what Zacchæus saith, another publican. I mean, when he heard Christ saying, “To-day, I must abide in thy house,” the delight gave him wings, and he saith, “The half of my goods I give to the poor, and if I have taken anything from any man by false accusation, I restore him fourfold.”<sup>1260</sup> And to him Jesus saith, “This day is salvation come to this house.” So possible is it by all ways to give instruction.
 
 But how is it, one may say, that Paul commands, “If any man that is called a brother be a fornicator or covetous, with such an one no, not to eat?”<sup>1261</sup> In the first place, it is not as yet manifest, whether to teachers also he gives this charge, and not rather to brethren only. Next, these were not yet of the number of the perfect,<sup>1262</sup>nor of those who had become
+
+ἐγκαλλωπιζμενο . 1258 1259 [[Matthew 11#^11-19|Matt. xi. 19]].
 
 1260 Luke xix. 5, 8, 9. 1261 1 Cor. v. 11. ἀπηρτισμνων.
 
@@ -577,7 +593,7 @@ Having then reproved them, both by common illustrations and by the Scriptures, H
 
 1269 [[1 Corinthians 09#^9-14|1 Cor. ix. 14]]; comp. [[Matthew 10#^10-10|Matt. x. 10]].
 
-1270 [[Matthew 16#^16-9|Matt. xvi. 9]]. 1271 See Hosea vi. 6; Ps. l. 8–15; Prov. xxi. 3; Isa. i. 11–15; Micah vi. 6, 7, 8. 1272 [[John 05#^5-17|John v. 17]]. 1273 [[Matthew 09#^9-13|Matt. ix. 13]]. \[The best Greek mss., with the Vulgate (so Augustin) do not sustain the reading: “unto repentance.” Comp. [[Luke 05#^5-32|Luke v. 32]].—R.\] 1274 Gen. iii. 22, LXX. 1275 Ps. l. 12. 198 1277 Comp. [[Matthew 09#^9-14|Matt. ix. 14]]; [[Luke 05#^5-33|Luke v. 33]], &c., and [[Mark 02#^2-18|Mark ii. 18]], &c. 1278 See [[Matthew 14#^14-12|Matt. xiv. 12]]. 1279 [[Matthew 09#^9-14|Matt. ix. 14]].
+1270 [[Matthew 16#^16-9|Matt. xvi. 9]]. 1271 See Hosea vi. 6; Ps. l. 8–15; Prov. xxi. 3; Isa. i. 11–15; Micah vi. 6, 7, 8. 1272 [[John 05#^5-17|John v. 17]]. 1273 [[Matthew 09#^9-13|Matt. ix. 13]]. \[The best Greek mss., with the Vulgate (so Augustin) do not sustain the reading: “unto repentance.” Comp. [[Luke 05#^5-32|Luke v. 32]].—R.\] 1274 Gen. iii. 22, LXX. 1275 Ps. l.
 
 
 *[p. 359]* ^pg367
@@ -593,6 +609,8 @@ Now what say they? “Why do we and the Pharisees fast oft, but thy disciples fa
 Now their meaning is like this; “Granted,” say they, “Thou doest this as a physician; why do Thy disciples also leave fasting, and cleave to such tables?” Then, to make the accusation heavier, they put themselves first, and then the Pharisees; wishing by the comparison to aggravate the charge. For indeed “both we,” it is said, “and the Pharisees, fast oft.” And in truth they did fast, the one having learnt it from John, the other from the law; even as also the Pharisee said, “I fast twice in the week.”<sup>1282</sup>
 
 What then saith Jesus? “Can the children of the bridechamber fast, while the bridegroom is with them.” Before, He called Himself a physician, but here a bridegroom; by these names revealing His unspeakable mysteries. Yet of course He might have told them, more sharply,
+
+12. 198 1277 Comp. [[Matthew 09#^9-14|Matt. ix. 14]]; [[Luke 05#^5-33|Luke v. 33]], &c., and [[Mark 02#^2-18|Mark ii. 18]], &c. 1278 See [[Matthew 14#^14-12|Matt. xiv. 12]]. 1279 [[Matthew 09#^9-14|Matt. ix. 14]].
 
 1280 [[Matthew 06#^6-17|Matt. vi. 17]]. 1281 [[Matthew 09#^9-15|Matt. ix. 15]]. Comp. [[Mark 02#^2-19|Mark ii. 19]]; [[Luke 05#^5-33|Luke v. 33]].
 
@@ -611,7 +629,7 @@ It being also natural for them to pride themselves on John’s calamity, He from
 
 5\. Then what He had done before, this He doth here again. I mean, that as He, when they were attempting to prove Him blameable for eating with sinners, proved to them on
 
-1283 [[John 03#^3-29|John iii. 29]]. \[πολλ εφροσνη.\] 1284 1285 Lit., “humiliation.” Isa. lviii. 3; Numb. xxix. 7. 1286 [[Matthew 09#^9-15|Matt. ix. 15]]. 199 κεχρσθαι το πομνοι, “to treat their followers.” The last editor thinks there is a designed play upon the 1288 words, by way of rhetorical turn, here. 1289 [[Matthew 09#^9-15|Matt. ix. 15]]. \[The three accounts of the sayings in verses 15–17 vary greatly in form, and the authorities for the Greek text present a great number of various readings. It will be sufficient to refer to the R.V., and to note a few verbal changes.—R.\]
+1283 [[John 03#^3-29|John iii. 29]]. \[πολλ εφροσνη.\] 1284 1285 Lit., “humiliation.” Isa. lviii. 3; Numb. xxix. 7. 1286 [[Matthew 09#^9-15|Matt. ix. 15]].
 
 
 *[p. 361]* ^pg369
@@ -628,7 +646,9 @@ But Luke<sup>1292</sup>the same words, a second and a third time and often; not 
 
 Seest thou not the painters, how much they rub out, how much they insert, when they are making a beautiful portrait? Well then, do not thou prove inferior to these. For if these, in drawing the likeness of a body, used such great diligence, how much more were it meet for us, in fashioning a soul, to use every contrivance. For if thou shouldest fashion well the form of this soul, thou wilt not see the countenance of the body looking unseemly, nor lips stained, nor a mouth like a bear’s mouth dyed with blood, nor eyebrows blackened as with the smut of some kitchen vessel, nor cheeks whitened with dust like the walls of the tombs. For all these things are smut, and cinders, and dust, and signals of extreme deformity.
 
-1290 [[Matthew 09#^9-17|Matt. ix. 17]]: \[R.V., “wine-skins.” Comp. the next paragraph.\] 1291 Jer. xiii. 10–12. See [[Luke 05#^5-36|Luke v. 36]], [[Luke 05#^5-37|37]]. τ καινν σχζειἐπαντλν, “using fomentation.” See Mr. Field’s note on the place. ἐξεκυλσθην . 1293 \[῾Ελλνων; see note on Homily XII. 5, p. 79.—R.\] 1294
+199 κεχρσθαι το πομνοι, “to treat their followers.” The last editor thinks there is a designed play upon the 1288 words, by way of rhetorical turn, here. 1289 [[Matthew 09#^9-15|Matt. ix. 15]]. \[The three accounts of the sayings in verses 15–17 vary greatly in form, and the authorities for the Greek text present a great number of various readings. It will be sufficient to refer to the R.V., and to note a few verbal changes.—R.\]
+
+1290 [[Matthew 09#^9-17|Matt. ix. 17]]: \[R.V., “wine-skins.” Comp. the next paragraph.\] 1291 Jer. xiii. 10–12. See [[Luke 05#^5-36|Luke v. 36]], [[Luke 05#^5-37|37]]. τ καινν σχζειἐπαντλν, “using fomentation.” See Mr. Field’s note on the place.
 
 
 *[p. 362]* ^pg370
@@ -638,6 +658,8 @@ But stay: I have been led on unobserving, I know not how, into these expressions
 Together with these things remind her also of the women of old, of Sarah, of Rebecca, both of the fair and of them that were not so, and point out how all equally practised modesty. For even Leah, the wife of the patriarch, not being fair, was not constrained to devise any such thing, but although she were uncomely, and not very much beloved by her husband, she neither devised any such thing, nor marred her countenance, but continued to preserve the lineaments thereof undisfigured, and this though brought up by Gentiles.<sup>1294</sup>
 
 But thou that art a believing woman, thou that hast Christ for thine head, art thou bringing in upon us a satanic art? And dost thou not call to mind the water that dashed over thy countenance, the sacrifice that adorns thy lips, the blood that hath reddened thy tongue? For if thou wouldest consider all these things, though thou wert fond of dress to the ten thousandth degree, thou wilt not venture nor endure to put upon thee that dust and those cinders. Learn that thou hast been joined unto Christ, and refrain from this unseemliness. For neither is He delighted with these colorings, but He seeks after another beauty, of which He is in an exceeding degree a lover, I mean, that in the soul. This the prophet likewise hath charged thee to cherish, and hath said, “So shall the King have pleasure in thy beauty.”<sup>1295</sup> Let us not therefore be curious in making ourselves unseemly. For neither is any one of God’s works imperfect, nor doth it need to be set right by thee. For not even if to an image of the emperor, after it was set up, any one were to seek to add his own work, would the attempt be safe, but he will incur extreme danger. Well then, man works and thou addest not; but doth God work, and dost thou amend it? And dost thou not consider the fire of hell? Dost thou not consider the destitution of thy soul? For on this account it is neglected, because all thy care is wasted on the flesh.
+
+ἐξεκυλσθην . 1293 \[῾Ελλνων; see note on Homily XII. 5, p. 79.—R.\] 1294
 
 *[p. 363]* ^pg371
 

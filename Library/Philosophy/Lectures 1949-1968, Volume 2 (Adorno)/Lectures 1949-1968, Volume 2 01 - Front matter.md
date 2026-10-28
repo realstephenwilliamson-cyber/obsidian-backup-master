@@ -4,7 +4,7 @@ work: "[[Adorno, Walker (ed.) - Lectures 1949-1968, Vol 2]]"
 book: "[[Library/Philosophy/Lectures 1949-1968, Volume 2 (Adorno)/Lectures 1949-1968, Volume 2 (Adorno)|Lectures 1949-1968, Volume 2 (Adorno)]]"
 order: 1
 source_pdf: Library/Philosophy/Adorno - Lectures 1949-1968, Volume 2 (2025).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

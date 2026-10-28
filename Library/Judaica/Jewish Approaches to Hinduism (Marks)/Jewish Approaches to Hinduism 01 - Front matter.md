@@ -4,7 +4,7 @@ work: "[[Marks - Jewish Approaches to Hinduism]]"
 book: "[[Library/Judaica/Jewish Approaches to Hinduism (Marks)/Jewish Approaches to Hinduism (Marks)|Jewish Approaches to Hinduism (Marks)]]"
 order: 1
 source_pdf: Library/Judaica/Marks - Jewish Approaches to Hinduism (2021).pdf
-page_range: Cover–xii
+page_range: "i–xii"
 pdf_pages: 1–13
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Hobbes on Resistance 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Contents, Acknowledgements)]] (pp. C1–viii)
+- [[Hobbes on Resistance 01 - Front matter|Front matter (Front matter, Half-title, Title, Copyright, Contents, Acknowledgements)]] (pp. i–viii)
 - [[Hobbes on Resistance 02 - Introduction|Introduction]] (pp. 1–6)
 - [[Hobbes on Resistance 03 - Chapter 1 Hobbes's right of self-defense|Chapter 1 Hobbes’s right of self-defense]] (pp. 7–52)
 - [[Hobbes on Resistance 04 - Chapter 2 The true liberties of subjects|Chapter 2 The true liberties of subjects]] (pp. 53–88)

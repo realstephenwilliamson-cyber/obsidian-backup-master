@@ -22,6 +22,8 @@ First, as to his having been lowly and contrite, hear him, after his gospel, cal
 
 Let us imitate then this virtue, and most of all his humility and almsgiving, without which one cannot be saved. And this is shown by the five virgins, and together with them by the Pharisee. For without virginity indeed it is possible to see the kingdom, but without almsgiving it cannot be. For this is among the things that are essential, and hold all together. Not unnaturally then have we called it the heart of virtue. But this heart, unless it supply breath to all, is soon extinguished. In the same way then as the fountain also, if it confine its streams to itself, grows putrid; so it is with the rich also, when they keep their possessions to themselves. Wherefore even in our common conversation we say, “great is the consumption<sup>1889</sup>of wealth with such a man;” instead of saying, “great is the abundance, great the treasure.” For in truth there is a consumption, not of the possessors only, but of the riches themselves. Since both garments laid by spoil, and gold is cankered, and corn is eaten up, and the soul too of their owner is more than they all cankered and corrupted by the cares of them.
 
+\[ἀγπ \] 1885 \[ἀγπην.\] 1886 1887 [[Luke 22#^22-30|Luke xxii. 30]]. 1888 [[Acts 05#^5-41|Acts v. 41]]. σψι, q.d. “the wear and tear.”
+
 *[p. 525]* ^pg533
 
 And if thou be willing to produce in the midst a miser’s soul; like a garment eaten by innumerable worms, and not having any sound part, even so wilt thou find it, perforated on all sides by cares; rotted, cankered by sins.
@@ -98,7 +100,7 @@ But Luke affirms that the multitudes said, “This is Elias, or Jeremias, or one
 
 But it is probable that before this, in answer to them that said He was John (for many had said this too), he had denied it, and said, “I slew him,” priding himself and glorying in it. For this both Mark and Luke report that he said, “John I beheaded.”<sup>1908</sup> But when the rumor prevailed, then he too saith the same as the people.
 
-1903 [[Luke 04#^4-25|Luke iv. 25–27]]. 1904 [[Matthew 14#^14-1|Matt. xiv. 1]]. \[R.V., “the report concerning Jesus.”\] 1905 *“Perspicuum est prædictionem Christi reges mundi audire novissimos.”* St. Jerome, *in Jonam*. c. iii. 1906 [[Matthew 13#^13-2|Matt. xiii. 2]]. 1907 [[Luke 09#^9-8|Luke ix. 8]]. Comp. [[Matthew 16#^16-14|Matt. xvi. 14]]. [[Mark 06#^6-16|Mark vi. 16]]; [[Luke 09#^9-9|Luke ix. 9]]. προηγουμνω . 1909
+1903 [[Luke 04#^4-25|Luke iv. 25–27]]. 1904 [[Matthew 14#^14-1|Matt. xiv. 1]]. \[R.V., “the report concerning Jesus.”\] 1905 *“Perspicuum est prædictionem Christi reges mundi audire novissimos.”* St. Jerome, *in Jonam*. c. iii. 1906 [[Matthew 13#^13-2|Matt. xiii. 2]]. 1907 [[Luke 09#^9-8|Luke ix. 8]]. Comp. [[Matthew 16#^16-14|Matt. xvi. 14]]. [[Mark 06#^6-16|Mark vi. 16]]; [[Luke 09#^9-9|Luke ix. 9]].
 
 
 *[p. 529]* ^pg537
@@ -119,7 +121,9 @@ And the means too of the victory were worthy of the deeds done. For, “The daug
 
 Her reproach is twofold; first, that she danced, then that she pleased him, and so pleased him, as to obtain even murder for her reward.
 
-1910 [[Mark 06#^6-20|Mark vi. 20]]. 1911 [[Matthew 13#^13-3|Matt. xiii. 3–5]]. 1912 \[R.V., “come;” rec. text as in Homily.\] 1913 \[R.V., “in the midst;” so Homily, see below.—R.\] 1914 [[Matthew 13#^13-6|Matt. xiii. 6]]. 1915 \[“Swore” is substituted for “promised;” peculiar to Chrysostom, but probably borrowed from [[Mark 06#^6-23|Mark vi. 23]].—R.\] 1916 \[R.V., “being put forward by.”\] 292 1918 [[Matthew 13#^13-9|Matt. xiii. 9]]. \[R.V., “was grieved.”\] Deut. xxv. 5.
+προηγουμνω . 1909
+
+1910 [[Mark 06#^6-20|Mark vi. 20]]. 1911 [[Matthew 13#^13-3|Matt. xiii. 3–5]]. 1912 \[R.V., “come;” rec. text as in Homily.\] 1913 \[R.V., “in the midst;” so Homily, see below.—R.\] 1914 [[Matthew 13#^13-6|Matt. xiii. 6]]. 1915 \[“Swore” is substituted for “promised;” peculiar to Chrysostom, but probably borrowed from [[Mark 06#^6-23|Mark vi. 23]].—R.\] 1916 \[R.V., “being put forward by.”\]
 
 
 *[p. 530]* ^pg538
@@ -137,6 +141,8 @@ Why then, in the case also of death without offspring, did not another marry her
 Forasmuch then as Herod had married his brother’s wife, when she had a child, therefore John blames him, and blames him with moderation, showing together with his boldness, his consideration also.
 
 But mark thou, I pray thee, how the whole theatre was devilish. For first, it was made up of drunkenness and luxury, whence nothing healthful could come. Secondly, the spectators in it were depraved, and he that gave the banquet the worst transgressor of all. Thirdly, there
+
+292 1918 [[Matthew 13#^13-9|Matt. xiii. 9]]. \[R.V., “was grieved.”\] Deut. xxv. 5.
 
 *[p. 531]* ^pg539
 
@@ -156,7 +162,7 @@ For though the daughter of Herodias be not present, yet the devil, who then danc
 
 But if ye are able to keep clear of drunkenness, yet are ye partakers of another most grievous sin; such revels being also full of much rapine. For look not, I pray thee, on the meats that are set before them, nor on the cakes; but consider whence they are gathered, and thou wilt see that it is of vexation, and covetousness, and violence, and rapine.
 
-1920 [[Mark 06#^6-23|Mark vi. 23]]. \[δι ρχησιν ατ παραχωρσαιἀλλογενο, which seems to be opposed to αθιγενο, “of genuine origin.” 1921 [[1 Corinthians 06#^6-15|1 Cor. vi. 15]]. 293 Amos vi. 6, LXX. \[τν διυλισμνον ονον.\] 1923 1924 That is, to respect the obligation incurred by having been a person’s guest.
+1920 [[Mark 06#^6-23|Mark vi. 23]]. \[δι ρχησιν ατ παραχωρσαιἀλλογενο, which seems to be opposed to αθιγενο, “of genuine origin.” 1921 [[1 Corinthians 06#^6-15|1 Cor. vi. 15]].
 
 
 *[p. 532]* ^pg540
@@ -170,6 +176,8 @@ Wherefore, though the banquets be clear from covetousness, yet even so are they 
 9\. And these things I say not of those who introduce harlots to their tables (for to them I have nothing to say, even as neither have I to the dogs), nor of those who cheat some, and pamper others (for neither with them have I anything to do, even as I have not with the swine and with the wolves); but of those who enjoy indeed their own property, but do not impart thereof to others; of those who spend their patrimony at random. For neither are these clear from reprehension. For how, tell me, wilt thou escape reprov ing and blame, while thy parasite is pampered, and the dog that stands by thee, but Christ’s worth appears to thee even not equal to theirs? when the one receives so much for laughter’s sake, but the other for the Kingdom of Heaven not so much as the smallest fraction thereof. And while the parasite, on saying something witty, goes away filled; this Man, who hath taught us, what if we had not learnt we should have been no better than the dogs,—is He counted unworthy of even the same treatment with such an one?
 
 Dost thou shudder at being told it? Shudder then at the realities. Cast out the parasites, and make Christ to sit down to meat with thee. If He partake of thy salt, and of thy table, He will be mild in judging thee: He knows how to respect a man’s table.<sup>1924</sup> Yea, if robbers know this, much more the Lord. Think, for instance, of that harlot, how at a table He justified her, and upbraids Simon, saying, “Thou gavest me no kiss.”<sup>1925</sup> I say, if He feed thee, not
+
+293 Amos vi. 6, LXX. \[τν διυλισμνον ονον.\] 1923 1924 That is, to respect the obligation incurred by having been a person’s guest.
 
 *[p. 533]* ^pg541
 
@@ -259,7 +267,7 @@ But John saith also, that they were “barley loaves,”<sup>1938</sup>not menti
 
 1934 [[Matthew 16#^16-6|Matt. xvi. 6]]. 1935 [[Matthew 14#^14-16|Matt. xiv. 16]]. 1936 [[Matthew 14#^14-17|Matt. xiv. 17]]. 1937 Matt. vi. 52. \[Slightly altered.\] 1938 [[John 06#^6-9|John vi. 9]]. 1939 See 2 Kings iv. 42; v. 19–21. \[In verse 19 τονυν is inserted; the order of the clauses changed, and το ρτου omitted.—R.\]
 
-1940 1941 Verses 20, 21 are verbally exact. The R.V. renders more accurately the last clause of ver. 20, “that which remained over of the broken pieces, twelve baskets full.”—R.\] Gen. l. 11, 20. \[LXX., ἐρπετ ψυχν ζωσν.\] 1942
+1940 1941 Verses 20, 21 are verbally exact. The R.V. renders more accurately the last clause of ver. 20, “that which remained over of the broken pieces, twelve baskets full.”—R.\]
 
 
 *[p. 538]* ^pg546
@@ -275,6 +283,8 @@ For this is not at all a less work than the other. For though those were made of
 Thus, since the sick were constantly the subject of His miracles, He works also a general benefit, that the many might not be spectators only of what befell others, but themselves also partakers of the gift.
 
 And that which in the wilderness seemed to the Jews marvellous, (they said at least, “Can He give bread also? or prepare a table in the wilderness?”<sup>1943</sup>) this He shows forth in His works. With this view also He leads them into the wilderness, that the miracle might be very far beyond suspicion, and that no one might think that any village lying near contributed ought to the meal. For this reason He mentions the hour also, not the place only.
+
+Gen. l. 11, 20. \[LXX., ἐρπετ ψυχν ζωσν.\] 1942
 
 *[p. 539]* ^pg547
 
@@ -317,7 +327,7 @@ For even if He had seemed, when in sight, to be presenting an illusion, and not 
 
 1949 1 Kings xvii. 16.
 
-1950 [[John 06#^6-15|John vi. 15]]. ἐπγαζον. 1951 [[Matthew 14#^14-22|Matt. xiv. 22]]. \[R.V., “till he should send,” etc.\] 297 1953 \[R.V., “ye saw signs.”\] 1954 [[John 06#^6-26|John vi. 26]]. That is, “things for use.”
+1950 [[John 06#^6-15|John vi. 15]]. ἐπγαζον. 1951 [[Matthew 14#^14-22|Matt. xiv. 22]]. \[R.V., “till he should send,” etc.\]
 
 
 *[p. 541]* ^pg549
@@ -335,6 +345,8 @@ To these then let us also cling, and let us seek the heavenly bread, and having 
 Since even they were blamed, not because they sought Him for the bread, but because it was for this only they sought Him, and for this primarily. For should any one despise the great gifts, but cling to the small, and to those which the giver would have him despise, he loses these latter too: as on the other hand, if we love those, He adds these also. For these are but an appendage to the others; so vile are they and trifling, compared with those, although they be great. Let us not therefore spend our diligence on them, but account both the acquisition and loss of them alike indifferent, even as Job also neither clung to them when present, nor sought them absent. For on this account, they are called χρματα,<sup>1955</sup>not that we should bury them in the earth, but that we should use them aright.
 
 And as of artisans every one hath his peculiar skill, even so the rich man, as he knows not how to work in brass, nor to frame ships, nor to weave, nor to build houses, nor any such thing;—let him learn then to use his wealth aright, and to pity the poor; so shall he know a better art than all those.
+
+297 1953 \[R.V., “ye saw signs.”\] 1954 [[John 06#^6-26|John vi. 26]]. That is, “things for use.”
 
 *[p. 542]* ^pg550
 
@@ -563,7 +575,7 @@ Let us not then bring forward these things now, which were uttered because of so
 
 All which things let us consider, and sow liberally, that we may reap in more ample abundance, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory forever. Amen.
 
-1983 [[Matthew 26#^26-10|Matt. xxvi. 10]]. 1984 [[Matthew 28#^28-20|Matt. xxviii. 20]]. 1985 [[Luke 11#^11-41|Luke xi. 41]]. 1986 Hosea vi. 6; [[Matthew 09#^9-18|Matt. ix. 18]]. 305 1988 \[In the Oxford edition verses 3–6 are printed here in full from the A.V. But in the Greek text of the Homily only the first part of ver. 1 appears. As the larger part of the other verses is given below, and as several questions of text and interpretation arise, the passage has been printed here to correspond with the Greek.—R.\] 1989 \[R.V., “from Jerusalem Pharisees and Scribes.” But Chrysostom’s text is as above, agreeing with the received. The omission of the article affects the sense, as indicated in the R.V.—R.\] Deut. iv. 2.
+1983 [[Matthew 26#^26-10|Matt. xxvi. 10]]. 1984 [[Matthew 28#^28-20|Matt. xxviii. 20]]. 1985 [[Luke 11#^11-41|Luke xi. 41]]. 1986 Hosea vi. 6; [[Matthew 09#^9-18|Matt. ix. 18]].
 
 
 *[p. 555]* ^pg563
@@ -585,6 +597,8 @@ But mark, I pray thee, how even by the question itself they are convicted; in no
 But not the less were they innovating; as in this instance, that one ought not to eat with unwashen hands, that we must wash cups and brazen vessels, that we must wash also ourselves. Thus, when men were henceforth, as time advanced, to be freed from their observances, at that very time they bound them with the same in more and more instances, fearing lest any one should take away their power, and wishing to strike more dread, as though they were themselves also lawgivers. The thing in fact proceeded so far in enormity, that while their own commandments were kept, those of God were transgressed; and they so far prevailed, that the matter had actually become a ground of accusation. Which was a twofold charge against them, in that they both invented novelties, and were so strict exactors on their own account, while of God they made no reckoning.
 
 And omitting to speak of the other things, the pots and the brazen vessels (for it was too ridiculous), what seemed more reasonable than the rest, that they bring forward, wishing, as seems at least to me, in that way to provoke Him to anger. Wherefore also they made
+
+305 1988 \[In the Oxford edition verses 3–6 are printed here in full from the A.V. But in the Greek text of the Homily only the first part of ver. 1 appears. As the larger part of the other verses is given below, and as several questions of text and interpretation arise, the passage has been printed here to correspond with the Greek.—R.\] 1989 \[R.V., “from Jerusalem Pharisees and Scribes.” But Chrysostom’s text is as above, agreeing with the received. The omission of the article affects the sense, as indicated in the R.V.—R.\] Deut. iv. 2.
 
 *[p. 556]* ^pg564
 
@@ -699,7 +713,7 @@ What then saith Christ? With a sharp rebuke He answers, “Are ye also yet witho
 
 But these things He said, and reproved them, in order to cast out their prejudice; He stopped not however at this, but adds other things also, saying, “That whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught; but those things which proceed out of the mouth come forth from the heart, and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, blasphemies, falsewitnessings: and these are the things that defile the man: but to eat with unwashen hands defileth not the man.”<sup>2012</sup>
 
-2010 [[Matthew 15#^15-16|Matt. xv. 16]]. 2011 [[Matthew 15#^15-15|Matt. xv. 15]]. 309 2013 Lev. xi. 24, 25. \[τκτεται; the Oxford edition has “bad,” which is probably a misprint for “bred.”—R.\] 2014 2015 [[Mark 07#^7-19|Mark vii. 19]]. Origen in his commentary on this passage of St. Matthew, refers also to St. Mark, where he reads as St. Chrysostom here, καθαρζων instead of καθαρζον. The word “cleansing” or “purging” is therefore referred to our Lord, and our Saviour’s words will stand as a parenthesis. See Field *in loc*. \[The translator doubtless means that this view makes our Lord’s own words a parenthetical explanation of the evangelist. So the R.V. gives the clause. That καθαρζων is the correct reading is quite certain, but German commentators refer it to ἀφδρνα, accepting a change of construction. The evangelist Mark rarely inserts explanations. The citation from Origen will be found in Tischendorf, VIII., note on [[Mark 07#^7-19|Mark vii. 19]]. Despite the authority of Origen and Chrysostom, the rendering of the R.V. is of doubtful propriety.—R.\]
+2010 [[Matthew 15#^15-16|Matt. xv. 16]]. 2011 [[Matthew 15#^15-15|Matt. xv. 15]].
 
 
 *[p. 562]* ^pg570
@@ -713,6 +727,8 @@ But Mark saith, that “cleansing the meats,”<sup>2015</sup> He spake this. He
 5\. Let us learn then what are the things that defile the man; let us learn, and let us flee them. For even in the church we see such a custom prevailing amongst the generality, and men giving diligence to come in clean garments, and to have their hands washed; but how to present a clean soul to God, they make no account.
 
 And this I say, not forbidding them to wash hands or mouth; but willing men so to wash as is meet, not with water only, but instead of water, with all virtues. For the filth of the
+
+309 2013 Lev. xi. 24, 25. \[τκτεται; the Oxford edition has “bad,” which is probably a misprint for “bred.”—R.\] 2014 2015 [[Mark 07#^7-19|Mark vii. 19]]. Origen in his commentary on this passage of St. Matthew, refers also to St. Mark, where he reads as St. Chrysostom here, καθαρζων instead of καθαρζον. The word “cleansing” or “purging” is therefore referred to our Lord, and our Saviour’s words will stand as a parenthesis. See Field *in loc*. \[The translator doubtless means that this view makes our Lord’s own words a parenthetical explanation of the evangelist. So the R.V. gives the clause. That καθαρζων is the correct reading is quite certain, but German commentators refer it to ἀφδρνα, accepting a change of construction. The evangelist Mark rarely inserts explanations. The citation from Origen will be found in Tischendorf, VIII., note on [[Mark 07#^7-19|Mark vii. 19]]. Despite the authority of Origen and Chrysostom, the rendering of the R.V. is of doubtful propriety.—R.\]
 
 *[p. 563]* ^pg571
 

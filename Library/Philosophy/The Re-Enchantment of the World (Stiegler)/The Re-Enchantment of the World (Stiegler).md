@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 ## Contents
 
 - [[The Re-Enchantment of the World 01 - Front matter|Front matter]] (pp. viii–ix)
-- [[The Re-Enchantment of the World 02 - Introduction What Is to Be Done|Introduction: What Is to Be Done?]] (pp. 5–28)
+- [[The Re-Enchantment of the World 02 - Introduction What Is to Be Done|Introduction: What Is to Be Done?]] (pp. 1–28)
 - [[The Re-Enchantment of the World 03 - Th e Re-Foundation of Society|Th e Re-Foundation of Society]] (pp. 29–60)
 - [[The Re-Enchantment of the World 04 - Against the Reign of Ignorance Investing in an Increase in the|Against the Reign of Ignorance: Investing in an Increase in the Value of “Spirit”]] (pp. 61–94)
 - [[The Re-Enchantment of the World 05 - A Motion Adopted by Ars Industrialis on the Eve of the Tunis|A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit1]] (pp. 95–112)

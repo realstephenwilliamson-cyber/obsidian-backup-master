@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (eng) (the PDF 
 
 ## Contents
 
-- [[Minima Moralia - Reflections 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. Cover–6)
+- [[Minima Moralia - Reflections 01 - Front matter|Front matter (Cover, Title Page, Copyright)]] (pp. 3–6)
 - [[Minima Moralia - Reflections 02 - CONTENTS|CONTENTS]] (pp. 7–12)
 - [[Minima Moralia - Reflections 03 - Puhlisher's Note|Puhlisher's Note]] (pp. 13–14)
 - [[Minima Moralia - Reflections 04 - Dedication|Dedication]] (pp. 15–18)

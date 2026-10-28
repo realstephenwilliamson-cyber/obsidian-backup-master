@@ -4,7 +4,7 @@ work: "[[Taylor - The Language Animal]]"
 book: "[[Library/Philosophy/The Language Animal (Taylor)/The Language Animal (Taylor)|The Language Animal (Taylor)]]"
 order: 1
 source_pdf: Library/Philosophy/Taylor - The Language Animal (2016).pdf
-page_range: FC–ii
+page_range: "i–ii"
 pdf_pages: 1–3
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

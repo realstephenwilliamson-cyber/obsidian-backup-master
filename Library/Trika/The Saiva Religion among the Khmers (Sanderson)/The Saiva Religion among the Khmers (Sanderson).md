@@ -17,6 +17,6 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Saiva Religion among 01 - Part 1|Part 1]] (pp. Présentation–385)
+- [[The Saiva Religion among 01 - Part 1|Part 1]] (pp. 349–385)
 - [[The Saiva Religion among 02 - Part 2|Part 2]] (pp. 386–425)
 - [[The Saiva Religion among 03 - Part 3|Part 3]] (pp. 426–462)

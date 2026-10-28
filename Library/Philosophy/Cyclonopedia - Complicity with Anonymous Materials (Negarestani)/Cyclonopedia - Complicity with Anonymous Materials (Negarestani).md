@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[Cyclonopedia - Complicity 01 - Part 1|Part 1]] (pp. 1–40)
-- [[Cyclonopedia - Complicity 02 - Part 2|Part 2]] (pp. 41–80)
-- [[Cyclonopedia - Complicity 03 - Part 3|Part 3]] (pp. 81–120)
-- [[Cyclonopedia - Complicity 04 - Part 4|Part 4]] (pp. 121–160)
+- [[Cyclonopedia - Complicity 01 - Part 1|Part 1]] (pp. xi–4)
+- [[Cyclonopedia - Complicity 02 - Part 2|Part 2]] (PDF 41–80)
+- [[Cyclonopedia - Complicity 03 - Part 3|Part 3]] (PDF 81–120)
+- [[Cyclonopedia - Complicity 04 - Part 4|Part 4]] (PDF 121–160)
 - [[Cyclonopedia - Complicity 05 - Part 5|Part 5]] (pp. 161–200)
 - [[Cyclonopedia - Complicity 06 - Part 6|Part 6]] (pp. 201–245)

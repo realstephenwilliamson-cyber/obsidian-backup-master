@@ -4,7 +4,7 @@ work: "[[Pollock - The Language of the Gods in the World of Men]]"
 book: "[[Library/Sanskrit/The Language of the Gods in the World of Men (Pollock)/The Language of the Gods in the World of Men (Pollock)|The Language of the Gods in the World of Men (Pollock)]]"
 order: 1
 source_pdf: Library/Sanskrit/33 The Language of the Gods in The World of Men.pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

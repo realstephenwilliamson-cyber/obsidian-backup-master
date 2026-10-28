@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (Adobe Acrobat P
 
 ## Contents
 
-- [[God Is Red 01 - Front matter|Front matter]] (pp. Front Cover–iv)
+- [[God Is Red 01 - Front matter|Front matter]] (pp. i–iv)
 - [[God Is Red 02 - Contents|Contents]] (pp. v–vi)
 - [[God Is Red 03 - Foreword by Leslie Marmon Silko andLaguna Pueblo|Foreword by Leslie Marmon Silko and
 Laguna Pueblo]] (pp. vii–x)
@@ -44,4 +44,4 @@ Laguna Pueblo]] (pp. vii–x)
 - [[God Is Red 24 - Appendix II|Appendix II]] (pp. 301–302)
 - [[God Is Red 25 - Appendix III|Appendix III]] (pp. 303–306)
 - [[God Is Red 26 - Bibliography|Bibliography]] (pp. 307–312)
-- [[God Is Red 27 - Index|Index]] (pp. 313–Back Cover)
+- [[God Is Red 27 - Index|Index]] (pp. 313–325)

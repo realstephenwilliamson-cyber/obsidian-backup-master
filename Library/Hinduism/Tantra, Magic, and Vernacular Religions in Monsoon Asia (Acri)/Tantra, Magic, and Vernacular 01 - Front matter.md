@@ -4,7 +4,7 @@ work: "[[Acri (ed.) - Tantra, Magic, and Vernacular Religions in Monsoon Asia]]"
 book: "[[Library/Hinduism/Tantra, Magic, and Vernacular Religions in Monsoon Asia (Acri)/Tantra, Magic, and Vernacular Religions in Monsoon Asia (Acri)|Tantra, Magic, and Vernacular Religions in Monsoon Asia (Acri)]]"
 order: 1
 source_pdf: Library/Hinduism/Acri, Rosati (eds.) - Tantra, Magic, and Vernacular Religions in Monsoon Asia (2023).pdf
-page_range: Cover–xii
+page_range: "i–xii"
 pdf_pages: 1–13
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

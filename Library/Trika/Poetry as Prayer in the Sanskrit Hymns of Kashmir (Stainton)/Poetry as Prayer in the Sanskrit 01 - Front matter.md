@@ -4,7 +4,7 @@ work: "[[Stainton - Poetry as Prayer in the Sanskrit Hymns of Kashmir]]"
 book: "[[Library/Trika/Poetry as Prayer in the Sanskrit Hymns of Kashmir (Stainton)/Poetry as Prayer in the Sanskrit Hymns of Kashmir (Stainton)|Poetry as Prayer in the Sanskrit Hymns of Kashmir (Stainton)]]"
 order: 1
 source_pdf: Library/Trika/Stainton - Poetry as Prayer in the Sanskrit Hymns of Kashmir (2019).pdf
-page_range: Cover–viii
+page_range: "i–viii"
 pdf_pages: 1–9
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

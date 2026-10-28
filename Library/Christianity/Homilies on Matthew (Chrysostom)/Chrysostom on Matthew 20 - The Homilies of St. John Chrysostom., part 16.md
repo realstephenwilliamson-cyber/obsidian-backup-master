@@ -99,7 +99,7 @@ But what means, “In whom I am well pleased?” As though He had said, “In wh
 
 How was it that, when they heard these words, they were dismayed? And yet before this also a like voice was uttered at Jordan, and a multitude was present, and no one felt anything of the kind; and afterwards again, when also they said, “It thundered,”<sup>2205</sup>yet neither at that time did they experience anything like this. How then did they fall down in the mount? Because there was solitude, and height, and great quietness, and a transfiguration full of awe, and a pure light, and a cloud stretched out; all which things put them in great alarm.
 
-2204 [[Matthew 17#^17-6|Matt. xvii. 6–8]]. [[Matthew 17#^17-9|Matt. xvii. 9]]. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 [[Matthew 25#^25-34|Matt. xxv. 34]], [[Matthew 25#^25-35|35]]. 2208 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2209 [[Matthew 25#^25-41|Matt. xxv. 41]].
+2204 [[Matthew 17#^17-6|Matt. xvii. 6–8]].
 
 
 *[p. 609]* ^pg617
@@ -119,6 +119,8 @@ For as it is with the judges; when they judge publicly, the attendants drawing b
 And again passing an opposite sentence, to some He will answer, “Depart into the everlasting fire, that is prepared for the devil and his angels,”<sup>2209</sup>and to others, “O thou wicked and slothful servants.”<sup>2210</sup> And some He will “cut asunder,” and “deliver to the tormentors;” but others He will command to “be bound hand and foot, and cast into outer darkness.”<sup>2211</sup> And after the axe the furnace will follow; and all out of the net, that is cast away, will fall therein.
 
 “Then shall the righteous shine forth as the sun;”<sup>2212</sup>or rather more than the sun. But so much is said, not because their light is to be so much and no more, but since we know
+
+[[Matthew 17#^17-9|Matt. xvii. 9]]. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 [[Matthew 25#^25-34|Matt. xxv. 34]], [[Matthew 25#^25-35|35]]. 2208 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2209 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
 2210 [[Matthew 25#^25-26|Matt. xxv. 26]]. 2211 [[Matthew 22#^22-13|Matt. xxii. 13]]. 335 2213 [[Hebrews 04#^4-13|Heb. iv. 13]]. 2214 Is. lviii. 6. Is. lviii. 7.
 
@@ -263,7 +265,7 @@ And after a little while again, when He had cast out the devil, which His discip
 
 2238 This refers apparently to such texts as Jer. xxx. 9; Ezek. xxxiv. 23, 24, xxxvii. 24; Hos. iii. 5. 2239 Isa. i. 10.
 
-2240 Amos ix. 7. 2241 [[Matthew 17#^17-12|Matt. xvii. 12]]. 2242 [[Matthew 16#^16-21|Matt. xvi. 21]]. \[“Sinful” (ἁμαρτωλν) is omitted in some mss. of the Homily. It does not occur in [[Matthew 17#^17-22|Matt. xvii. 22]], but is 2243 taken from [[Luke 24#^24-7|Luke xxiv. 7]]. Comp. Homily LVIII. at the beginning.—R.\] 339 2245 [[Matthew 16#^16-14|Matt. xvi. 14]]. 2246 Comp. [[Luke 23#^23-24|Luke xxiii. 24]]. 2247 [[Matthew 17#^17-22|Matt. xvii. 22]], [[Matthew 17#^17-23|23]]. 2248 [[Mark 09#^9-32|Mark ix. 32]]. 2249 [[Luke 09#^9-45|Luke ix. 45]].
+2240 Amos ix. 7. 2241 [[Matthew 17#^17-12|Matt. xvii. 12]]. 2242 [[Matthew 16#^16-21|Matt. xvi. 21]]. \[“Sinful” (ἁμαρτωλν) is omitted in some mss. of the Homily. It does not occur in [[Matthew 17#^17-22|Matt. xvii. 22]], but is 2243 taken from [[Luke 24#^24-7|Luke xxiv. 7]]. Comp. Homily LVIII. at the beginning.—R.\]
 
 
 *[p. 618]* ^pg626
@@ -277,6 +279,8 @@ And not in this way only doth He console them, but also by pointing out that Joh
 But when they heard these things, they do not ask Him when Elias cometh; being straitened either by grief at His passion, or by fear. For on many occasions, upon seeing Him unwilling to speak a thing clearly, they are silent, and so an end. For instance, when during their abode in Galilee He said, “The Son of Man shall be betrayed, and they shall kill Him;”<sup>2247</sup>it is added by Mark, “That they understood not the saying, and were afraid to ask Him;”<sup>2248</sup>by Luke, “That it was hid from them, that they might not perceive it, and they feared to ask Him of that saying.”<sup>2249</sup>
 
 3\. “And when they were come to the multitude, there came to Him a man, kneeling down to Him, and saying, Lord, have mercy on my son, for he is lunatic, and sore vexed;<sup>2250</sup>for ofttimes he falleth into the fire, and oft into the water. And I brought him unto Thy disciples, and they could not cure him.”<sup>2251</sup>
+
+339 2245 [[Matthew 16#^16-14|Matt. xvi. 14]]. 2246 Comp. [[Luke 23#^23-24|Luke xxiii. 24]]. 2247 [[Matthew 17#^17-22|Matt. xvii. 22]], [[Matthew 17#^17-23|23]]. 2248 [[Mark 09#^9-32|Mark ix. 32]]. 2249 [[Luke 09#^9-45|Luke ix. 45]].
 
 2250 \[R.V., “for he is epileptic, and suffereth grievously.”\]
 
@@ -310,7 +314,7 @@ But do thou not only from this observe His providence and His beneficence, but a
 
 And if he call him “a lunatic,” trouble not thyself at all, for it is the father of the possessed who speaks the word. How then saith the evangelist also, “He healed many that were lunatic?”<sup>2263</sup> Denominating them according to the impression of the multitude. For the evil spirit, to bring a reproach upon nature,<sup>2264</sup>by wine? For the weaker the vessel, the more entire the shipwreck, whether she be free or a slave. For the free woman behaves herself unseemly in the midst of her slaves as spectators, and the slave again in like manner in the
 
-2260 [[Mark 09#^9-23|Mark ix. 23]]. 2261 [[Matthew 08#^8-2|Matt. viii. 2]]. [[Mark 09#^9-23|Mark ix. 23]]. \[The word πιστεσαι is read here; The R.V. has a briefer reading. The entire passage in Mark 2262 shows many variations of text.—R.\] [[Matthew 04#^4-24|Matt. iv. 24]]. \[σεληνιαζομνου; the same term occurs here, and is the basis of the comment.—R.\] 2263 το στοιχεουπαραφερομνη. 341 2265 [[1 Timothy 05#^5-23|1 Tim. v. 23]]. 2266 Ps. civ. 15. 2267 Lightfoot, *Harmony*, A.D., 43. t. i. p. 333, seems to show from Talmudic writers, that anointing was regularly used among the Jews, either as a remedy or as a charm, in complaints of the head especially; and he uses the fact to explain St. [[James 05#^5-15|James v. 15]].
+2260 [[Mark 09#^9-23|Mark ix. 23]]. 2261 [[Matthew 08#^8-2|Matt. viii. 2]]. [[Mark 09#^9-23|Mark ix. 23]]. \[The word πιστεσαι is read here; The R.V. has a briefer reading. The entire passage in Mark 2262 shows many variations of text.—R.\] [[Matthew 04#^4-24|Matt. iv. 24]]. \[σεληνιαζομνου; the same term occurs here, and is the basis of the comment.—R.\] 2263 το στοιχεουπαραφερομνη.
 
 
 *[p. 621]* ^pg629
@@ -324,6 +328,8 @@ But do not so; for this is of a satanical mind; do not find fault with the wine,
 God honored thee with the gift, why disgrace thyself with the excess thereof? Hear what Paul saith, “Use a little wine for thy stomach’s sake, and thine often infirmities.”<sup>2265</sup> But if that saint, even when oppressed with disease, and enduring successive sicknesses, partook not of wine, until his Teacher suffered him; what excuse shall we have, who are drunken in health? To him indeed He said, “Use a little wine for thy stomach’s sake;” but to each of you who are drunken, He will say, “Use little wine, for thy fornications, thy frequent filthy talking, for the other wicked desires to which drunkenness is wont to give birth.” But if ye are not willing, for these reasons, to abstain; at least on account of the despondencies which come of it, and the vexations, do ye abstain. For wine was given for gladness, “Yea, wine,” so it is said, “maketh glad the heart of man:”<sup>2266</sup>but ye mar even this excellence in it. For what kind of gladness is it to be beside one’s self, and to have innumerable vexations, and to see all things whirling round, and to be oppressed with giddiness, and like those that have a fever, to require some who may drench their heads with oil?<sup>2267</sup>
 
 6\. These things are not said by me to all: or rather they are said to all, not because all are drunken, God forbid; but because they who do not drink take no thought of the drunken. Therefore even against you do I rather inveigh, that are in health; since the physician too
+
+341 2265 [[1 Timothy 05#^5-23|1 Tim. v. 23]]. 2266 Ps. civ. 15. 2267 Lightfoot, *Harmony*, A.D., 43. t. i. p. 333, seems to show from Talmudic writers, that anointing was regularly used among the Jews, either as a remedy or as a charm, in complaints of the head especially; and he uses the fact to explain St. [[James 05#^5-15|James v. 15]].
 
 *[p. 622]* ^pg630
 
@@ -367,7 +373,7 @@ And if Mark saith,<sup>2278</sup>that they did not ask, but reasoned in themselv
 
 342
 
-2274 [[Matthew 08#^8-26|Matt. viii. 26]]. 2275 [[Matthew 14#^14-29|Matt. xiv. 29]]. 2276 [[Matthew 18#^18-1|Matt. xviii. 1]]. \[R.V., “Who then is greatest (Greek, greater).” Compare the comment.—R.\] 2277 [[Matthew 16#^16-19|Matt. xvi. 19]]. [[Mark 09#^9-34|Mark ix. 34]]. \[μεζων “greater.”\] 2279
+2274 [[Matthew 08#^8-26|Matt. viii. 26]]. 2275 [[Matthew 14#^14-29|Matt. xiv. 29]]. 2276 [[Matthew 18#^18-1|Matt. xviii. 1]]. \[R.V., “Who then is greatest (Greek, greater).” Compare the comment.—R.\] 2277 [[Matthew 16#^16-19|Matt. xvi. 19]]. [[Mark 09#^9-34|Mark ix. 34]].
 
 
 *[p. 624]* ^pg632
@@ -388,7 +394,9 @@ Seest thou how again He calls us on to all natural excellencies, indicating that
 
 And the child which He set in the midst I suppose to have been a very young child indeed, free from all these passions. For such a little child is free from pride and the mad desire of glory, and envy, and contentiousness, and all such passions, and having many virtues, simplicity, humility, unworldliness,<sup>2282</sup>prides itself upon none of them; which is a twofold severity of goodness; to have these things, and not to be puffed up about them.
 
-2280 \[R.V., “Except ye turn, and become as little children,” but Chrysostom substitutes “this little child.”—R.\] 2281 [[Matthew 18#^18-2|Matt. xviii. 2]], [[Matthew 18#^18-3|3]]. ἀπραγμοσνην . 343 2283 [[Matthew 18#^18-5|Matt. xviii. 5]]. \[“one such little child,” rec. text; so R.V.\] 2284 [[Matthew 18#^18-6|Matt. xviii. 6]]. \[R.V., “but whoso shall cause one of these little ones which believe in me to stumble, it is profitable for him that a great millstone (Greek, a millstone turned by an ass) should be hanged about his neck, and that he should be sunk in the depth of the sea.” The Greek text of Chrysostom agrees very closely with the received, but omits “which believe in me.”—R.\] \[σκνδαλον, “stumbling block.”\] 2285 \[συμφερε ατ, “it is profitable for him.”\]
+\[μεζων “greater.”\] 2279
+
+2280 \[R.V., “Except ye turn, and become as little children,” but Chrysostom substitutes “this little child.”—R.\] 2281 [[Matthew 18#^18-2|Matt. xviii. 2]], [[Matthew 18#^18-3|3]]. ἀπραγμοσνην .
 
 
 *[p. 625]* ^pg633
@@ -402,6 +410,8 @@ Wherefore He brought it in, and set it in the midst; and not at this merely did 
 “For as they,” saith He, “who honor these for my sake, have heaven, or rather an honor greater than the very kingdom; even so they likewise who dishonor them (for this is to offend them), shall suffer the extremity of punishment. And marvel thou not at His calling the affront “an offense;”<sup>2285</sup>for many feeble-minded persons have suffered no ordinary offense from being treated with slight and insult. To heighten therefore and aggravate the blame, He states the mischief arising therefrom.
 
 And He doth not go on to express the punishment in the same way, but from the things familiar to us, He indicates how intolerable it is. For when He would touch the grosser sort most sharply, He brings sensible images. Wherefore here also, meaning to indicate the greatness of the punishment they shall undergo, and to strike into the arrogance of those that despise them, He brought forward a kind of sensible punishment, that of the millstone, and of the drowning. Yet surely it were suitable to what had gone before to have said, “He that receiveth not one of these little ones, receiveth not me;” a thing bitterer than any punishment; but since the very unfeeling, and exceeding gross, were not so much penetrated by this, terrible as it is, He puts “a millstone,” and “a drowning.” And He said not, “A millstone shall be hanged about his neck,” but, “It were better for him”<sup>2286</sup>to undergo this; implying
+
+343 2283 [[Matthew 18#^18-5|Matt. xviii. 5]]. \[“one such little child,” rec. text; so R.V.\] 2284 [[Matthew 18#^18-6|Matt. xviii. 6]]. \[R.V., “but whoso shall cause one of these little ones which believe in me to stumble, it is profitable for him that a great millstone (Greek, a millstone turned by an ass) should be hanged about his neck, and that he should be sunk in the depth of the sea.” The Greek text of Chrysostom agrees very closely with the received, but omits “which believe in me.”—R.\] \[σκνδαλον, “stumbling block.”\] 2285 \[συμφερε ατ, “it is profitable for him.”\]
 
 *[p. 626]* ^pg634
 
@@ -457,7 +467,7 @@ And, if thou wilt, let us first bring forward glory, so lovely and desirable wit
 
 “But he rejoices,” thou wilt say, “and exults in these things, and they brighten him up.” The crowning point<sup>2295</sup>of his evils lies in that word of thine, and the incurable part of the disease. For he that rejoices in these things, would be unwilling however easily to be released
 
-2290 [[1 Corinthians 12#^12-26|1 Cor. xii. 26]]. 2291 [[1 Thessalonians 02#^2-19|1 Thes. ii. 19]]. 2292 [[1 Thessalonians 03#^3-8|1 Thes. iii. 8]]. 2293 [[2 Corinthians 02#^2-4|2 Cor. ii. 4]]. 2294 [[2 Corinthians 11#^11-29|2 Cor. xi. 29]]. κολοφνα. \[The Greek text has διασκεψμεθα, which the translator has ignored: “Let us consider well, lest,” etc.—R.\] 2296 \[Some mss. insert here: κα το συνδολου τπτοντε φειδ, “and beating the fellow servants unsparingly.” But it is put in brackets by Field.—R.\]
+2290 [[1 Corinthians 12#^12-26|1 Cor. xii. 26]]. 2291 [[1 Thessalonians 02#^2-19|1 Thes. ii. 19]]. 2292 [[1 Thessalonians 03#^3-8|1 Thes. iii. 8]]. 2293 [[2 Corinthians 02#^2-4|2 Cor. ii. 4]]. 2294 [[2 Corinthians 11#^11-29|2 Cor. xi. 29]]. κολοφνα.
 
 
 *[p. 630]* ^pg638
@@ -471,6 +481,8 @@ For wherefore, tell me, doth he rejoice? For his credit with the multitude, beca
 And they serve a most grievous servitude, both stooping basely under their passions,<sup>2297</sup>and trembling at all their accomplices. For he only is free, and he only a ruler, and more kingly than all kings, who is delivered from his passions.
 
 Knowing then these things, let us follow after the true freedom, and deliver ourselves from the evil slavery, and let us account neither pomp of power nor dominion of wealth, nor any other such thing, to be blessed; but virtue only. For thus shall we both enjoy security here, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might, with the Father and the Holy Spirit, world without end. Amen.
+
+\[The Greek text has διασκεψμεθα, which the translator has ignored: “Let us consider well, lest,” etc.—R.\] 2296 \[Some mss. insert here: κα το συνδολου τπτοντε φειδ, “and beating the fellow servants unsparingly.” But it is put in brackets by Field.—R.\]
 
 *[p. 631]* ^pg639
 
@@ -567,7 +579,7 @@ Seest thou how He hath put away the mischief that would result from the offenses
 
 παραμυθαν, Field. 2306 2307 [[Matthew 18#^18-7|Matt. xviii. 7]]. δ ο. 2308 \[δι ο and ὑφ ο, *i.e.,*“through whom” for “by whom,” the latter phrase referring to the personal agent.—R.\] 2309 Gen. iv. 1, LXX. \[δι το θεο.\]
 
-2310 2311 Gen. xl. 8. 2312 [[1 Corinthians 01#^1-9|1 Cor. i. 9]]. 2313 [[Matthew 18#^18-8|Matt. xviii. 8]], [[Matthew 18#^18-9|9]]. \[The variations from the received text appear in the English rendering as given above.—R.\] 350 γνμη. 2314 2315 [[Matthew 18#^18-10|Matt. xviii. 10]]. \[R.V., “See,” etc.\] 2316 [[1 Corinthians 10#^10-10|1 Cor. x. 10]]. 2317 A.V., “Children of Israel,” al. “Sons of God,” and hence “Angels.” Deut. xxxii. 8.
+2310 2311 Gen. xl. 8. 2312 [[1 Corinthians 01#^1-9|1 Cor. i. 9]]. 2313 [[Matthew 18#^18-8|Matt. xviii. 8]], [[Matthew 18#^18-9|9]]. \[The variations from the received text appear in the English rendering as given above.—R.\]
 
 
 *[p. 637]* ^pg645
@@ -591,6 +603,8 @@ And He speaks not of many only, but even of one, even by this again warding off 
 Then in another way also He makes them objects of reverence, saying, “That their angels do always behold the face of my Father which is in Heaven.”
 
 Hence it is evident, that the saints have angels, or even all men. For the apostle too saith of the woman, “That she ought to have power on her head because of the angels.”<sup>2316</sup> And Moses, “He set the bounds of the nations according to the number of the angels<sup>2317</sup>of God.”<sup>2318</sup>
+
+350 γνμη. 2314 2315 [[Matthew 18#^18-10|Matt. xviii. 10]]. \[R.V., “See,” etc.\] 2316 [[1 Corinthians 10#^10-10|1 Cor. x. 10]]. 2317 A.V., “Children of Israel,” al. “Sons of God,” and hence “Angels.” Deut. xxxii. 8.
 
 *[p. 638]* ^pg646
 
@@ -621,7 +635,7 @@ Wherefore I entreat, when morning hath appeared, straightway as we come out of o
 
 For the merchant too, to increase his wealth, crosses the sea; and the artisan, to add to his substance, doeth all things. Let us also then not be satisfied with our own salvation only, since else we destroy even this. For in a war too, and in an engagement, the soldier who is looking to this only how he may save himself by flight, destroys the rest also with himself; much as on the other hand the noble-minded one, and he who stands in arms in defense of the others, with the others preserves himself also. Since then our state too is a war, and of all wars the bitterest, and an engagement and a battle, even as our King commanded us, so let us set ourselves in array in the engagement, prepared for slaughter, and blood, and
 
-2323 [[Luke 15#^15-7|Luke xv. 7]]. 352 2325 *i.e.*Heathens.
+2323 [[Luke 15#^15-7|Luke xv. 7]]. 352
 
 
 *[p. 640]* ^pg648
@@ -637,6 +651,8 @@ Therefore I say, are we weak and easy to be overcome both by men, and by the dev
 But if thou hast any brother after the flesh, if he should perpetrate ten thousand evil deeds, thou laborest to conceal him, and accountest thyself also to partake of the shame, when he is disgraced; but as to thy spiritual brother, when thou oughtest to free him from calumny, thou dost rather encompass him with ten thousand charges against him?
 
 “Why he is worthless and insufferable,” thou mayest say. Nay then for this reason become his friend, that thou mayest put an end to his being such a one, that thou mayest convert him, that thou mayest lead him back to virtue.—“But he obeys not,” thou wilt say, “neither doth he bear advice.”—Whence knowest thou it? What, hast thou admonished him, and attempted to amend him?—“I have admonished him often,” thou wilt say. How many times?—Oftentimes, both once, and a second time.—Oh! Is this often? Why, if thou hadst done this throughout all the time, oughtest thou to grow weary, and to give it up? Seest thou not how God is always admonishing us, by the prophets, by the apostles, by the evangelists? What then? have we performed all? and have we been obedient in all things? By no means. Did He then cease admonishing? Did He hold His peace? Doth He not say each day, “Ye cannot serve God, and mammon”<sup>2326</sup>and with many, the superfluity and the tyranny of wealth yet increases? Doth He not cry aloud each day, “Forgive, and ye shall have forgiveness
+
+2325 *i.e.*Heathens.
 
 *[p. 641]* ^pg649
 

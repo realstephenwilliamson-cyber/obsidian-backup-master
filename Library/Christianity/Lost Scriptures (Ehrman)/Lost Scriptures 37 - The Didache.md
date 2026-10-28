@@ -4,7 +4,7 @@ work: "[[Ehrman - Lost Scriptures]]"
 book: "[[Library/Christianity/Lost Scriptures (Ehrman)/Lost Scriptures (Ehrman)|Lost Scriptures (Ehrman)]]"
 order: 37
 source_pdf: Library/Christianity/Ehrman - Lost Scriptures (2003).pdf
-page_range: 211–222
+page_range: "211–217"
 pdf_pages: 215–222
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-08

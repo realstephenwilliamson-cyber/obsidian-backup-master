@@ -49,7 +49,7 @@ Wherefore then did he not bring forward these things, it may be said, at that ti
 
 At these things the governor marvelled, and indeed it was worthy of admiration to see Him showing such great forbearance, and holding His peace, Him that had countless things
 
-3070 \[The article is omitted before “elders,” as in the best New Testament mss. In all other details the agreement with the received text is exact.—R.\] 3071 [[Acts 17#^17-7|Acts xvii. 7]]. 3072 [[John 18#^18-36|John xviii. 36]]. 3073 [[Matthew 22#^22-17|Matt. xxii. 17]]. 3074 [[John 06#^6-15|John vi. 15]]. Isa. liii. 8, LXX., see margin of our version. 493 3076 [[Matthew 27#^27-10|Matt. xxvii. 10]]. \[The word “these” is peculiar to this citation.—R.\] [[Matthew 27#^27-19|Matt. xxvii. 19]]. \[The readings ἔπεμψε for ἀπστειλεν, and τοτ for ἐκεινω, are peculiar. R.V., “And while he was sitting on the,” etc.—R.\]
+3070 \[The article is omitted before “elders,” as in the best New Testament mss. In all other details the agreement with the received text is exact.—R.\] 3071 [[Acts 17#^17-7|Acts xvii. 7]]. 3072 [[John 18#^18-36|John xviii. 36]]. 3073 [[Matthew 22#^22-17|Matt. xxii. 17]]. 3074 [[John 06#^6-15|John vi. 15]]. Isa. liii. 8, LXX., see margin of our version.
 
 
 *[p. 886]* ^pg894
@@ -66,6 +66,8 @@ Seest thou order reversed? For the petition in behalf of the condemned it was cu
 
 But it was not safe, it may be said, for him to let Him go, because they said He made Himself a king. He ought then to have sought for proofs, and a conviction, and for all the things that are infallible signs of an usurpation, as, for instance, whether He levied forces, whether He collected money, whether He forged arms, whether He attempted any other such thing. But he is led away at random, therefore neither doth Christ acquit him of the
 
+493 3076 [[Matthew 27#^27-10|Matt. xxvii. 10]]. \[The word “these” is peculiar to this citation.—R.\] [[Matthew 27#^27-19|Matt. xxvii. 19]]. \[The readings ἔπεμψε for ἀπστειλεν, and τοτ for ἐκεινω, are peculiar. R.V., “And while he was sitting on the,” etc.—R.\]
+
 *[p. 887]* ^pg895
 
 blame, in saying, “He that betrayeth me unto thee hath greater sin.”<sup>3078</sup> So that it was from weakness that he yielded and scourged Him, and delivered Him up.
@@ -80,7 +82,7 @@ But even then they said, “Crucify Him. But he said, why, what evil hath He don
 
 3078 [[John 19#^19-11|John xix. 11]]. \[“delivereth” is preferable, since the reference is not necessarily to Judas. Similarly in R.V.—R.\] 3079 [[Matthew 27#^27-20|Matt. xxvii. 20]]. \[R.V., “ask for;” but the form of the verb in the Homily is peculiar.—R.\]
 
-3080 [[Matthew 27#^27-22|Matt. xxvii. 22]]. \[Abridged, but given in full in some editions of the Homily.—R.\] 3081 [[Matthew 27#^27-22|Matt. xxvii. 22–24]]. \[Abridged. R.V., “prevailed nothing.”—R.\] *i.e*., the Jewish rulers; Mr. Field has observed in his note on this passage, that ο Ιουδαοι is thus used, es- 3083 pecially in St. John’s Gospel. 3084 [[Matthew 27#^27-25|Matt. xxvii. 25]]. 3085 [[Acts 21#^21-20|Acts xxi. 20]]. \[The R.V. accepts a different reading; but “which have believed” is the more accurate rendering of the received text.—R.\] [[Matthew 27#^27-26|Matt. xxvii. 26]]. \[R.V., “he scourged and delivered to be crucified.”—R.\]
+3080 [[Matthew 27#^27-22|Matt. xxvii. 22]]. \[Abridged, but given in full in some editions of the Homily.—R.\] 3081 [[Matthew 27#^27-22|Matt. xxvii. 22–24]]. \[Abridged. R.V., “prevailed nothing.”—R.\]
 
 
 *[p. 888]* ^pg896
@@ -96,6 +98,8 @@ See here too their great madness. For passion and wicked desire are like this. T
 Nevertheless, the lover of man, though they acted with so much madness, both against themselves, and against their children, so far from confirming their sentence upon their children, confirmed it not even on them, but from the one and from the other received those that repented, and counts them worthy of good things beyond number. For indeed even Paul was of them, and the thousands that believed in Jerusalem; for, “thou seest it is said, brother, how many thousands of Jews there are which believe.”<sup>3085</sup> And if some continued *in their sin*, to themselves let them impute their punishment.
 
 “Then released he Barabbas unto them, but Jesus, when he had scourged Him, he delivered to be crucified.”<sup>3086</sup>
+
+*i.e*., the Jewish rulers; Mr. Field has observed in his note on this passage, that ο Ιουδαοι is thus used, es- 3083 pecially in St. John’s Gospel. 3084 [[Matthew 27#^27-25|Matt. xxvii. 25]]. 3085 [[Acts 21#^21-20|Acts xxi. 20]]. \[The R.V. accepts a different reading; but “which have believed” is the more accurate rendering of the received text.—R.\] [[Matthew 27#^27-26|Matt. xxvii. 26]]. \[R.V., “he scourged and delivered to be crucified.”—R.\]
 
 *[p. 889]* ^pg897
 
@@ -184,7 +188,7 @@ What plea shall we have after this for being moved by injuries, after Christ suf
 
 For the things that were done go beyond all language. For as though they were afraid lest they should seem to fall short at all in the crime, having killed the prophets with their own hands, but this man with the sentence of a judge, so they do in every deed; and make it the work of their own hands, and condemn and sentence both among themselves and before Pilate, saying, “His blood be on us and on our children,”<sup>3104</sup>and insult Him, and do despite unto Him themselves, binding Him, leading Him away, and render themselves authors of the spiteful acts done by the soldiers, and nail Him to the cross, and revile Him, and spit
 
-3101 Greek, “Prætorium;” comp. [[Mark 15#^15-16|Mark xv. 16]], A.V.—R.\] 3102 \[The Greek text, as given by Field, agrees throughout with the received.—R.\] ἐχρευεν. 3103 [[Matthew 27#^27-31|Matt. xxvii. 31]]. \[ἤγαγον for ἀπγαγον.\] 3105 3106 [[John 19#^19-30|John xix. 30]].
+3101 Greek, “Prætorium;” comp. [[Mark 15#^15-16|Mark xv. 16]], A.V.—R.\] 3102 \[The Greek text, as given by Field, agrees throughout with the received.—R.\] ἐχρευεν. 3103
 
 
 *[p. 894]* ^pg902
@@ -202,6 +206,8 @@ They parted the garments, by which such great miracles were done. But they wroug
 And they gave Him gall to drink, and this to insult Him, but He would not. But another saith, that having tasted it, He said, “It is finished.”<sup>3106</sup> And what meaneth, “It is finished?” The prophecy was fulfilled concerning Him. “For they gave me,” it is said, “gall for my meat, and for my thirst they gave me vinegar to drink.”<sup>3107</sup> But neither doth that evangelist indicate that He drank, for merely to taste differs not from not drinking, but hath one and the same signification.
 
 But nevertheless not even here doth their contumely stop, but after having stripped and crucified Him, and offered Him vinegar, they proceeded still further, and beholding Him
+
+[[Matthew 27#^27-31|Matt. xxvii. 31]]. \[ἤγαγον for ἀπγαγον.\] 3105 3106 [[John 19#^19-30|John xix. 30]].
 
 *[p. 895]* ^pg903
 
@@ -334,7 +340,7 @@ And these first see Jesus; and the sex that was most condemned, this first enjoy
 
 3129 [[Matthew 27#^27-42|Matt. xxvii. 42]].
 
-3130 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3131 [[Matthew 27#^27-42|Matt. xxvii. 42]]. 3132 [[Matthew 27#^27-52|Matt. xxvii. 52]], [[Matthew 27#^27-53|53]]. \[Slightly abridged, and with a few minor variations, not appearing in one New Testament mss.—R.\] 3133 [[Luke 23#^23-47|Luke xxiii. 47]], [[Luke 23#^23-48|48]]. [[Matthew 27#^27-55|Matt. xxvii. 55]], [[Matthew 27#^27-56|56]]. \[There are three omissions: ἀπ before μακρθεν, τ Ιησο π τ Γαλιλαα, and ἐν α ν.—R.\] 3134 3135 In Homily V. 4, he maintains her perpetual virginity; “how then, you will say, are James and others called His brethren? In the same way as Joseph himself too was considered the Husband of Mary.” This is at least consistent with the explanation given in the spurious Homilies “on the Annunciation,” Ben. t. ii. p. 797. And “on the women bearing spices” t. ii. p. 159, Appendix, that she was the *step-mother* of James. Theodoret, on [[Galatians 01#^1-19|Gal. i. 19]], rejects this view and makes them sons of Cleopas by her sister. 3136 [[Luke 22#^22-48|Luke xxii. 48]]. [[Matthew 27#^27-57|Matt. xxvii. 57]], [[Matthew 27#^27-58|58]]. \[R.V., “asked for.” The reading ᾔτει is peculiar here.—R.\] 3137 [[Matthew 27#^27-61|Matt. xxvii. 61]]. \[R.V., “And Mary Magdalene was there,” etc.\]
+3130 [[Matthew 27#^27-40|Matt. xxvii. 40]]. 3131 [[Matthew 27#^27-42|Matt. xxvii. 42]]. 3132 [[Matthew 27#^27-52|Matt. xxvii. 52]], [[Matthew 27#^27-53|53]]. \[Slightly abridged, and with a few minor variations, not appearing in one New Testament mss.—R.\] 3133 [[Luke 23#^23-47|Luke xxiii. 47]], [[Luke 23#^23-48|48]]. [[Matthew 27#^27-55|Matt. xxvii. 55]], [[Matthew 27#^27-56|56]]. \[There are three omissions: ἀπ before μακρθεν, τ Ιησο π τ Γαλιλαα, and ἐν α ν.—R.\] 3134 3135 In Homily V. 4, he maintains her perpetual virginity; “how then, you will say, are James and others called His brethren? In the same way as Joseph himself too was considered the Husband of Mary.” This is at least consistent with the explanation given in the spurious Homilies “on the Annunciation,” Ben. t. ii. p. 797. And
 
 
 *[p. 904]* ^pg912
@@ -346,6 +352,8 @@ the rest. But another evangelist<sup>3136</sup>saith, that many also lamented ov
 “And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.”<sup>3138</sup> For what purpose do these wait by it? As yet they knew nothing great, as was meet, and high about Him, wherefore also they had brought ointments, and were waiting at the tomb, so that if the madness of the Jews should relax, they might go and embrace the body. Seest thou women’s courage? seest thou their affection? seest thou their noble spirit in money? their noble spirit even unto death?
 
 Let us men imitate the women; let us not forsake Jesus in temptations. For they for Him even dead spent so much and exposed their lives, but we (for again I say the same things) neither feed Him when hungry, nor clothe Him when naked, but seeing Him begging, we pass Him by. And yet if ye saw Himself, every one would strip himself of all his goods. But even now it is the same. For He Himself has said, I am he. Wherefore then dost thou not strip thyself of all? For indeed even now thou hearest Him say, Thou doest it unto me; and there is no difference whether thou givest to this man or to Him; thou hast nothing less than these women that then fed Him, but even much more. But be not perplexed! For it is not so much to have fed Him appearing in His own person, which would be enough to prevail with a heart of stone, as (because of His mere word) to wait upon the poor, the maimed, him that is bent down. For in the former case, the look and the dignity of Him who appears
+
+“on the women bearing spices” t. ii. p. 159, Appendix, that she was the *step-mother* of James. Theodoret, on [[Galatians 01#^1-19|Gal. i. 19]], rejects this view and makes them sons of Cleopas by her sister. 3136 [[Luke 22#^22-48|Luke xxii. 48]]. [[Matthew 27#^27-57|Matt. xxvii. 57]], [[Matthew 27#^27-58|58]]. \[R.V., “asked for.” The reading ᾔτει is peculiar here.—R.\] 3137 [[Matthew 27#^27-61|Matt. xxvii. 61]]. \[R.V., “And Mary Magdalene was there,” etc.\]
 
 *[p. 905]* ^pg913
 
@@ -450,7 +458,7 @@ Having delivered them then from the fear both by his words, and by his appearanc
 
 “He is risen.”<sup>3156</sup> Whence is it evident? “As He said.” So that if ye refuse to believe me, he would say, remember His words, and neither will ye disbelieve me. Then also another proof, “Come and see the place where He lay.”<sup>3157</sup> For this he had lifted up the stone, in order that from this too they might receive the proof. “And tell His disciples, that ye shall see Him in Galilee.”<sup>3158</sup> And he prepares them to bear good tidings to others, which thing most of all made them believe. And He said well “in Galilee,” freeing them from troubles and dangers, so that fear should not hinder their faith.
 
-3150 \[R.V., “Now late on the Sabbath day.”\] \[The only textual variation is the addition of το μνημεου. The R.V. omits “from the door of the tomb,” 3151 and renders “rolled away,” to distinguish from [[Mark 16#^16-4|Mark xvi. 4]].—R.\] 3152 Chap. xxviii. 1–3. \[εδον, “saw,” *i.e.*, when He was buried.—R.\] 3153 [[Matthew 28#^28-5|Matt. xxviii. 5]]. \[The emphatic ὑμε occurs in the Greek of the New Testament passage.—R.\] 3154 \[τν σταυρωμνον .\] 3155 3156 [[Matthew 28#^28-6|Matt. xxviii. 6]]. 3157 \[This agrees with the reading of the two oldest New Testament mss. So R.V. margin.—R.\] [[Matthew 28#^28-7|Matt. xxviii. 7]]. \[Abridged.\] 509 3159 [[Matthew 28#^28-8|Matt. xxviii. 8]]. \[The word “great” is omitted.—R.\]
+3150 \[R.V., “Now late on the Sabbath day.”\] \[The only textual variation is the addition of το μνημεου. The R.V. omits “from the door of the tomb,” 3151 and renders “rolled away,” to distinguish from [[Mark 16#^16-4|Mark xvi. 4]].—R.\] 3152 Chap. xxviii. 1–3. \[εδον, “saw,” *i.e.*, when He was buried.—R.\] 3153 [[Matthew 28#^28-5|Matt. xxviii. 5]]. \[The emphatic ὑμε occurs in the Greek of the New Testament passage.—R.\] 3154 \[τν σταυρωμνον .\] 3155 3156 [[Matthew 28#^28-6|Matt. xxviii. 6]]. 3157 \[This agrees with the reading of the two oldest New Testament mss. So R.V. margin.—R.\] [[Matthew 28#^28-7|Matt. xxviii. 7]]. \[Abridged.\]
 
 
 *[p. 912]* ^pg920
@@ -462,6 +470,8 @@ Having delivered them then from the fear both by his words, and by his appearanc
 Perchance some one of you would wish to be like them, to hold the feet of Jesus; ye can even now, and not His feet and His hands only, but even lay hold on that sacred head, receiving the awful mysteries with a pure conscience. But not here only, but also in that day ye shall see Him, coming with that unspeakable glory, and the multitude of the angels, if ye are disposed to be humane; and ye shall hear not these words only, “All hail!” but also those others, “Come ye blessed of my Father, inherit the kingdom prepared for you before the foundation of the world.”<sup>3162</sup>
 
 Be ye therefore humane, that ye may hear these things; and ye women, that wear gold, who have looked on the running of these women, at last, though late, lay aside the disease of the desire for golden ornaments. So that if ye are emulous of these women, change the ornaments which ye wear, and clothe yourselves instead with almsgiving. What is the use, I pray you, of these precious stones, and of the garments spangled with gold? “My soul,” you say, “is glad, and is pleased with these things.” I asked thee the profit, but thou tellest me the hurt. For nothing is worse than being taken up with these things, and delighting in them, and being riveted to them. For more bitter is this grievous slavery, when any one finds delight even in being a slave. For in what spiritual matter will she ever be diligent as she ought; when will she laugh to scorn, as she should, the things of this world, who thinks it a
+
+509 3159 [[Matthew 28#^28-8|Matt. xxviii. 8]]. \[The word “great” is omitted.—R.\]
 
 3160 [[Matthew 28#^28-9|Matt. xxviii. 9]]. \[R.V. “took hold of his feet.”\] 3161 [[Matthew 28#^28-10|Matt. xxviii. 10]]. \[R.V. “that they depart.”\]
 

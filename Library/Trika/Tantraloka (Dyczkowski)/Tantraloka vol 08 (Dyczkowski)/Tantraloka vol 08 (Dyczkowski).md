@@ -18,7 +18,7 @@ Converted from the PDF on 7 Oct 2026 (the PDF OCR layer, with anusvara fix; Deva
 
 ## Contents
 
-- [[Tantraloka Dyczkowski v08 01 - Front matter|Front matter]] (pp. 1–xiv)
+- [[Tantraloka Dyczkowski v08 01 - Front matter|Front matter]] (pp. ii–xiv)
 - [[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1|Chapter Fifteen, part 1]] (pp. 1–41)
 - [[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2|Chapter Fifteen, part 2]] (pp. 42–82)
 - [[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3|Chapter Fifteen, part 3]] (pp. 83–123)

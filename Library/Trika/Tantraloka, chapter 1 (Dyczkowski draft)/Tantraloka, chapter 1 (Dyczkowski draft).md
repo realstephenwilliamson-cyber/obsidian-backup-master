@@ -17,5 +17,5 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Tantraloka ch 1 draft 01 - Part 1|Part 1]] (pp. 2–40)
-- [[Tantraloka ch 1 draft 02 - Part 2|Part 2]] (pp. 41–71)
+- [[Tantraloka ch 1 draft 01 - Part 1|Part 1]] (PDF 1–40)
+- [[Tantraloka ch 1 draft 02 - Part 2|Part 2]] (pp. 61–62)

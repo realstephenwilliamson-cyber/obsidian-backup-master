@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Bhagavad Gita 01 - Front matter|Front matter (Cover, Other Norton Critical Editions)]] (pp. Cover–ii)
+- [[The Bhagavad Gita 01 - Front matter|Front matter (Cover, Other Norton Critical Editions)]] (pp. i–ii)
 - [[The Bhagavad Gita 02 - Title Page|Title Page]] (pp. iii–vi)
 - [[The Bhagavad Gita 03 - Introduction|Introduction]] (pp. vii–xviii)
 - [[The Bhagavad Gita 04 - The Text of the Bhagavad Gita, part 1|The Text of the Bhagavad Gita, part 1]] (pp. 1–45)

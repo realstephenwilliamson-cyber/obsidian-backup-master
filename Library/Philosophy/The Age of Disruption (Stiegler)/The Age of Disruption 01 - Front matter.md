@@ -4,7 +4,7 @@ work: "[[Stiegler - The Age of Disruption]]"
 book: "[[Library/Philosophy/The Age of Disruption (Stiegler)/The Age of Disruption (Stiegler)|The Age of Disruption (Stiegler)]]"
 order: 1
 source_pdf: Library/Philosophy/The Age of Disruption Technology and Madness in Computational Capitalism (2019).pdf
-page_range: cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

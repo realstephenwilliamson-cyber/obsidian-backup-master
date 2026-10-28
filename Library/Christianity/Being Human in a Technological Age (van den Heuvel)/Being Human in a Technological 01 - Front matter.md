@@ -4,7 +4,7 @@ work: "[[van den Heuvel (ed.) - Being Human in a Technological Age]]"
 book: "[[Library/Christianity/Being Human in a Technological Age (van den Heuvel)/Being Human in a Technological Age (van den Heuvel)|Being Human in a Technological Age (van den Heuvel)]]"
 order: 1
 source_pdf: Library/Christianity/Being Human in a Technological Age (2020).pdf
-page_range: Cover–IV
+page_range: "I–IV"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

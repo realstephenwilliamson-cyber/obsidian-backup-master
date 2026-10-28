@@ -4,7 +4,7 @@ work: "[[Nemec - The Ubiquitous Siva, vol. I]]"
 book: "[[Library/Trika/The Ubiquitous Siva (Nemec)/The Ubiquitous Siva (Nemec)|The Ubiquitous Siva (Nemec)]]"
 order: 1
 source_pdf: Library/Trika/Nemec - The Ubiquitous Siva, vol. I (2011).pdf
-page_range: Cover–iv
+page_range: "i–iv"
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF; 122 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07

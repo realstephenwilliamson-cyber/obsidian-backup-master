@@ -4,7 +4,7 @@ work: "[[Sanderson - The Saiva Religion among the Khmers, Part I]]"
 book: "[[Library/Trika/The Saiva Religion among the Khmers (Sanderson)/The Saiva Religion among the Khmers (Sanderson)|The Saiva Religion among the Khmers (Sanderson)]]"
 order: 1
 source_pdf: Library/Trika/Sanderson - The Saiva Religion among the Khmers I (2003).pdf
-page_range: Présentation–385
+page_range: "349–385"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

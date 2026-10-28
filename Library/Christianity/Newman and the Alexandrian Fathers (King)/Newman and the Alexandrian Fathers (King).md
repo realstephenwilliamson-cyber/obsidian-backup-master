@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Newman and the Alexandrian 01 - Front matter|Front matter]] (pp. Cover–x)
+- [[Newman and the Alexandrian 01 - Front matter|Front matter]] (pp. i–x)
 - [[Newman and the Alexandrian 02 - Contents|Contents]] (pp. xi–xii)
 - [[Newman and the Alexandrian 03 - Abbreviations|Abbreviations]] (pp. xiii–xviii)
 - [[Newman and the Alexandrian 04 - Introduction|Introduction]] (pp. 1–23)

@@ -4,7 +4,7 @@ work: "[[Sorell (ed.) - Leviathan After 350 Years]]"
 book: "[[Library/Philosophy/Leviathan After 350 Years (Sorell)/Leviathan After 350 Years (Sorell)|Leviathan After 350 Years (Sorell)]]"
 order: 1
 source_pdf: Library/Philosophy/Sorell, Foisneau (eds.) - Leviathan After 350 Years (2004).pdf
-page_range: Cover–vi
+page_range: "i–vi"
 pdf_pages: 1–7
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

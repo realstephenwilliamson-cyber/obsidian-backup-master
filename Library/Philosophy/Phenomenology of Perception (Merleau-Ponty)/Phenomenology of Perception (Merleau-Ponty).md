@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[Phenomenology of Perception 01 - Front matter|Front matter (Front matter, Maurice Merleau-Ponty: Phenomenology of Perception, Copyright)]] (pp. Cover–iv)
+- [[Phenomenology of Perception 01 - Front matter|Front matter (Front matter, Maurice Merleau-Ponty: Phenomenology of Perception, Copyright)]] (pp. i–iv)
 - [[Phenomenology of Perception 02 - General Table of Contents|General Table of Contents]] (pp. v–lii)
 - [[Phenomenology of Perception 03 - Bilingual Table of Contents Table of Contents|Bilingual Table of Contents / Table of Contents]] (pp. liii–lxix)
 - [[Phenomenology of Perception 04 - Preface|Preface]] (pp. lxx–lxxxvi)

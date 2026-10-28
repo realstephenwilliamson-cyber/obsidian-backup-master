@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 23
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 3249–688
+page_range: "668–707"
 pdf_pages: 708–747
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 22 - IRENUS, part 4|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 24 - IRENUS, part 6|next →]]
 
-*[p. 3249]* ^pg708
+*[p. 668]* ^pg708
 
 climate, have they brought upon the earth? And again, in opposition to these, what heat or dryness have they set over against them? or, what rivers have they made to flow? what fountains have they brought forth? with what flowers and trees have they adorned this sublunary world? or, what multitude of animals have they formed, some rational, and others irrational, but all adorned with beauty? And who can enumerate one by one all the remaining objects which have been constituted by the power of God, and are governed by His wisdom? or who can search out the greatness of that God who made them? And what can be told of those existences which are above heaven, and which do not pass away, such as Angels, Archangels, Thrones, Dominions, and Powers innumerable? Against what one of these works, then, do they set themselves in opposition? What have they similar to show, as having been made through themselves, or by themselves, since even they too are the Workmanship and creatures of this \[Creator\]? For whether the Saviour or their Mother (to use their own expressions, proving them false by means of the very terms they themselves employ) used this Being, as they maintain, to make an image of those things which are within the Pleroma, and of all those beings which she saw waiting upon the Saviour, she used him (the Demiurge) as being \[in a sense\] superior to herself, and better fitted to accomplish her purpose through his instrumentality; for she would by no means form the images of such important beings through means of an inferior, but by a superior, agent.
 

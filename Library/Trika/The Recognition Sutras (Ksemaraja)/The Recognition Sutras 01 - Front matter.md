@@ -4,7 +4,7 @@ work: "[[Ksemaraja - The Recognition Sutras]]"
 book: "[[Library/Trika/The Recognition Sutras (Ksemaraja)/The Recognition Sutras (Ksemaraja)|The Recognition Sutras (Ksemaraja)]]"
 order: 1
 source_pdf: Library/Trika/Wallis - The Recognition Sutras (Pratyabhijna-hrdaya of Ksemaraja).pdf
-page_range: Cover–xiv
+page_range: "i–xiv"
 pdf_pages: 1–15
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

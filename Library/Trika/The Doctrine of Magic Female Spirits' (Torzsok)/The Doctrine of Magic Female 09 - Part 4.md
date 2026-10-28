@@ -4,7 +4,7 @@ work: "[[Torzsok - 'The Doctrine of Magic Female Spirits']]"
 book: "[[Library/Trika/The Doctrine of Magic Female Spirits' (Torzsok)/The Doctrine of Magic Female Spirits' (Torzsok)|The Doctrine of Magic Female Spirits' (Torzsok)]]"
 order: 9
 source_pdf: Library/Trika/Torzsok - The Doctrine of Magic Female Spirits (1999).pdf
-page_range: 318–353
+page_range: "218–252"
 pdf_pages: 318–353
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

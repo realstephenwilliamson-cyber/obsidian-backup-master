@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 
 ## Contents
 
-- [[The Visible and the Invisible 01 - Front matter|Front matter (Front Matter, Contents)]] (pp. a–x)
+- [[The Visible and the Invisible 01 - Front matter|Front matter (Front Matter, Contents)]] (pp. vii–x)
 - [[The Visible and the Invisible 02 - Editor's Foreward|Editor's Foreward]] (pp. xi–xxxiii)
 - [[The Visible and the Invisible 03 - Editorial Note|Editorial Note]] (pp. xxxiv–xxxix)
 - [[The Visible and the Invisible 04 - Translator's Preface|Translator's Preface]] (pp. xl–2)

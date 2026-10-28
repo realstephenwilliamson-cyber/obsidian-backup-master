@@ -4,7 +4,7 @@ work: "[[Ricoeur - Freud and Philosophy]]"
 book: "[[Library/Philosophy/Freud and Philosophy (Ricoeur)/Freud and Philosophy (Ricoeur)|Freud and Philosophy (Ricoeur)]]"
 order: 1
 source_pdf: Library/Philosophy/Ricoeur - Freud and Philosophy (1970).pdf
-page_range: Cover–vi
+page_range: "iii–vi"
 pdf_pages: 1–5
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07

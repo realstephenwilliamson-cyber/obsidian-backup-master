@@ -4,7 +4,7 @@ work: "[[Maximus the Confessor - Responses to Thalassios]]"
 book: "[[Library/Christianity/Responses to Thalassios (Constas)/Responses to Thalassios (Constas)|Responses to Thalassios (Constas)]]"
 order: 1
 source_pdf: "Library/Christianity/Maximus the Confessor - Responses to Thalassios (Constas 2018).pdf"
-page_range: "cover–xii"
+page_range: "i–xii"
 pdf_pages: "1–13"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-12

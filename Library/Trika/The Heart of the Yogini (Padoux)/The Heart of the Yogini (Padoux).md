@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Heart of the Yogini 01 - Cover|Cover]] (pp. Cover–vi)
+- [[The Heart of the Yogini 01 - Cover|Cover]] (pp. i–vi)
 - [[The Heart of the Yogini 02 - Contents|Contents]] (pp. vii–viii)
 - [[The Heart of the Yogini 03 - Preface|Preface]] (pp. ix–x)
 - [[The Heart of the Yogini 04 - Note on the Transcription and Pronunciation of Sanskrit|Note on the Transcription and Pronunciation of Sanskrit]] (pp. xi–xiv)

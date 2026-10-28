@@ -322,7 +322,7 @@ Having then all this in thy mind, do thou show forth a life worthy of the love o
 
 520 “The contraries:” for whereas the Spirit came to exalt, and make us partakers of the Divine Nature, the heretics would degrade Him to something like our own. \[παραδιδναι; “hand down” would express the sense more clearly.—R.\]
 
-[^522]: \[The sentence in the Greek is not negative but affirmative: “Then assuredly” both these events occurred.—R.\] 523 Gen. iii. 19. Gen. iv. 12. \[The LXX. has γ in both passages. The verbal suggestion of the original may be retained by 524 rendering: “Earth thou art, and unto earth thou shalt return,” and thou “tillest the earth.”—R.\] 525 \[Literally, “that we shall hear.”—R.\]
+[^522]: \[The sentence in the Greek is not negative but affirmative: “Then assuredly” both these events occurred.—R.\]
 
 *[p. 147]* ^pg155
 
@@ -333,6 +333,8 @@ Let us then keep watch over that noble birth, which we received from the beginni
 Now then, having to partake of such blessings, do I see thee minding money, and clinging to the pomp which is here? And dost thou not esteem all that is seen to be more vile than beggars rags? And how wilt thou appear worthy of this honor? And what excuse wilt thou have to plead? or rather, what punishment wilt thou not have to suffer, who after so great a gift art running to thy former vomit? For no longer art thou punished merely as a man, but as a son of God that hath sinned; and the greatness of thy honor becomes a mean of bringing a sorer punishment on thee. Since we too punish not equally slaves that do wrong, and sons committing the same offense; and most of all when they have received some great kindness from us.
 
 For if he who had paradise for his portion, for one disobedience underwent such dreadful things after his honor; we, who have received Heaven, and are become joint heirs with the Only Begotten, what excuse shall we have, for running to the serpent after the dove? For it will be no longer, “Dust thou art, and unto dust shalt thou return,”<sup>523</sup>and thou “tillest the ground,”<sup>524</sup>and those former words, that will be said to us;<sup>525</sup>but what is far more grievous than these, the “outer darkness,”<sup>526</sup>the bonds that may not be burst, the venomous worm, the “gnashing of teeth;” and this with great reason. For he that is not made better
+
+523 Gen. iii. 19. Gen. iv. 12. \[The LXX. has γ in both passages. The verbal suggestion of the original may be retained by 524 rendering: “Earth thou art, and unto earth thou shalt return,” and thou “tillest the earth.”—R.\] 525 \[Literally, “that we shall hear.”—R.\]
 
 526 [[Matthew 25#^25-30|Matt. xxv. 30]].
 
@@ -572,4 +574,4 @@ Again, if even after so many divine precautions,<sup>569</sup> John’s disciple
 
 566 [[Luke 01#^1-76|Luke i. 76]].
 
-[^567]: [[Matthew 11#^11-18|Matt. xi. 18]], [[Matthew 11#^11-19|19]]. \[The citation is from Matthew, not Luke, but the last clause in the R.V. reads: “And wisdom is justified by her works.” Comp. however, the margin and [[Luke 07#^7-35|Luke vii. 35]].—R.\] 568 [[John 08#^8-13|John viii. 13]]. τοσοτων οκονομηθντων . 570 [[Matthew 04#^4-18|Matt. iv. 18]], [[Matthew 04#^4-19|19]]. 571 [[John 01#^1-42|John i. 42]]. 572 \[“it was natural.”—R.\] μγιστο τρπο λεα. 573 574 1 Kings xix. 20, 21.
+[^567]: [[Matthew 11#^11-18|Matt. xi. 18]], [[Matthew 11#^11-19|19]]. \[The citation is from Matthew, not Luke, but the last clause in the R.V. reads: “And wisdom is justified by her works.” Comp. however, the margin and [[Luke 07#^7-35|Luke vii. 35]].—R.\] 568 [[John 08#^8-13|John viii. 13]]. τοσοτων οκονομηθντων .

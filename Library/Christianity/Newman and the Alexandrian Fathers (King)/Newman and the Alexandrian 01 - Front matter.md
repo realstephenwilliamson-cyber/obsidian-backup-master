@@ -4,7 +4,7 @@ work: "[[King - Newman and the Alexandrian Fathers]]"
 book: "[[Library/Christianity/Newman and the Alexandrian Fathers (King)/Newman and the Alexandrian Fathers (King)|Newman and the Alexandrian Fathers (King)]]"
 order: 1
 source_pdf: Library/Christianity/King - Newman and the Alexandrian Fathers (OUP 2009).pdf
-page_range: Cover–x
+page_range: "i–x"
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

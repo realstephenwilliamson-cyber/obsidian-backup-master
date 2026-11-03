@@ -16,7 +16,7 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (OCRmyPDF with T
 
 ## Contents
 
-- [[Prabuddha Bharata, January 2016 01 - Front matter and Traditional Wisdom|Front matter and Traditional Wisdom]] (PDF 1–12)
+- [[Prabuddha Bharata, January 2016 01 - Front matter and Traditional Wisdom|Front matter and Traditional Wisdom]] (pp. 1–2)
 - [[Prabuddha Bharata, January 2016 02 - Traditional Wisdom (end), Editorial, The Phalaharini Kali - Sri Ramakrishna and Swami Vivekananda Revisited|Traditional Wisdom (end), Editorial: The Phalaharini Kali – Sri Ramakrishna and Swami Vivekananda Revisited]] (pp. 8–51)
 - [[Prabuddha Bharata, January 2016 03 - Sri Ramakrishna and Swami Vivekananda Revisited (end), Why Mother Kali - Tantric Mysticism|Sri Ramakrishna and Swami Vivekananda Revisited (end), Why Mother Kali? – Tantric Mysticism]] (pp. 62–109)
 - [[Prabuddha Bharata, January 2016 04 - Tantric Mysticism (end), Reflections on Tantra - Tantra, A Much-Misunderstood Path to Liberation|Tantric Mysticism (end), Reflections on Tantra – Tantra: A Much-Misunderstood Path to Liberation]] (pp. 10–176)

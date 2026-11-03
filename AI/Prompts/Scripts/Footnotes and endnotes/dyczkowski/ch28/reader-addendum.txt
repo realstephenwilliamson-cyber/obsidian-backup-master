@@ -1,0 +1,43 @@
+CHAPTER TWENTY-EIGHT (vol. 10, notes v10-02 to v10-07): what is different from the brief (2 Nov 2026)
+
+1. The OCR lost the footnote numbers in this chapter, so a pre-pass made the definitions from the page images: it found
+   each footnote's start on the image (a line at the margin of the footnote zone that begins with a raised superscript
+   number), read the superscript where it could (digit templates), numbered the starts through the chapter (the readings
+   as anchors, the rest by sequence), and made `[^n]: ` at the matching place in the note, often splitting a line where
+   the converter had run a page's footnotes together. pages.txt shows, under each page, what the pre-pass did
+   ("pre-pass:" lines) and its flags. Your TASK.txt names the numbers the pre-pass expects on your pages and any gaps.
+2. CHECK EVERY DEFINITION ON YOUR PAGES against the image: its label must be the printed superscript number at the start of
+   that footnote, and the definition must begin where that footnote begins. Fix a wrong label or a wrong start with def
+   ops (brief, op 2). Where the pre-pass missed a footnote (a gap in the numbers; a page "with no footnote defined" may
+   still hold one), make it: old = its first words (with any garble mark just before them), new = `[^n]: ` + the same
+   words, or "\n\n[^n]: " + the words when it starts in the middle of a line. Use the printed number when you are sure
+   of it, else a LETTER label (e.g. `57b`, after the footnote before it); split two printed footnotes run together in
+   one definition the same way. Some definitions may still begin with a garble mark the pre-pass left (e.g.
+   `[^95]: " Above`, `[^127]: 1” The`): remove the mark with a def op.
+3. LABELS = PRINTED NUMBERS. The print numbers this chapter's footnotes through the chapter, from 1 on its first page
+   (PDF 18) to several hundred; the note must use exactly the printed numbers. Do not renumber anything that is right.
+   In per_note give "printed" (the superscript number on the page) for EVERY footnote of your pages, also those whose
+   label you did not change; the lead relabels letter labels to the printed numbers afterwards.
+4. CARRY-OVERS. This chapter's footnotes are long: many run over one or more pages, and some pages hold nothing but
+   footnote text (e.g. PDF 19). A carried-over part is plain text at the top of the next page's block (before that page's
+   first definition, or the page's only text), often after the page's body text. Join each paragraph of it with a move op
+   (brief, op 4): `after` = the last line of that footnote's text before it (its definition line, its last same-page
+   continuation, or the line of the previous carried paragraph when it runs over several pages: chains are allowed;
+   several paragraphs moved after the same line keep their order). Body text (the translation and Jayaratha's
+   commentary, set in the larger type) that continues on the next page is NOT moved.
+5. Same-page further paragraphs of a footnote (Sanskrit quotations, their translations, new paragraphs) that are not
+   indented: indent them (op 3). Body text the OCR put among the footnotes, or footnote text inside a body line: report,
+   don't fix. Headings (`####`) that the converter put between the body and the footnotes stay where they are.
+6. YOUR PAGES ONLY. Another reader may have the other pages of the same note.txt. Write ops only for lines that lie on
+   your pages (from your first page's marker line to the line before the marker of the page after your last). A move
+   op's `after` may point to a line before your range (a footnote carried over from the page before yours).
+7. ACROSS NOTES. The chapter is split into six notes (02 is only PDF 18; 03 = PDF 19-58, 04 = 59-98, 05 = 99-138,
+   06 = 139-178, 07 = 179-216). Obsidian joins a call and its definition only inside one note. So:
+   - a footnote defined on your pages whose call is printed in the previous or next note (e.g. on the last page of the
+     previous note): undo its definition back to the plain `n\. ` form with a def op and report it (number, pages);
+   - text at the top of the first page of a note that carries over a footnote defined in the previous note (e.g. PDF 19,
+     the rest of footnote 2): leave it where it is and report it;
+   - a call on your pages whose footnote is defined in another note: add nothing, report it.
+8. The calls are superscript numbers in the body (bold verse translations and the commentary), sometimes at the very
+   start of a paragraph (e.g. PDF 18, "²Thus"), and in the verse translations often just before the verse number in
+   parentheses: write `[^n] (1)` with the space (brief: Obsidian reads `[^n](…)` as a link).

@@ -1,6 +1,6 @@
 ---
 type: parallel
-verse: "5.76"
+verse: "33.3"
 viveka: english
 cssclasses:
   - wide

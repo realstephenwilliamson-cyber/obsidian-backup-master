@@ -1,6 +1,6 @@
 ---
 type: parallel
-pericope: 7a
+pericope: "30"
 translation: nrsvue
 cssclasses:
   - wide

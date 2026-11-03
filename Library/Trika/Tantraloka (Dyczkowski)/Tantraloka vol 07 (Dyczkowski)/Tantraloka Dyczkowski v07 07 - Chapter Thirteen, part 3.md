@@ -26,9 +26,7 @@ latter) are various here (in the world), which is not the case with liberation. 
 
 ‘There this is the first sign, namely, sound unwavering devotion to 
 
-Rudra.’ 
-
-" 
+Rudra.’[^395] 
 
 ‘Those who do not aspire to (any worldly) fruits’ are those who desire liberation. (Devotion etc. with a desire for its fruits depends on the individual’s action and) ‘other (such factors)’ that precede (the descent of the power of grace). The Karma on which it depends is varied, and so too the fruit of each (action). Thus, it is said that ‘this is why the fruits (of the latter) are various here (in the world)’. On the contrary, there is no (such) difference in (the case of) liberation, because it does not depend on Karma. Accordingly, he says that that ‘is not the case with liberation’. 
 
@@ -52,7 +50,7 @@ Thus, in the case of one who desires worldly experience (bhoga) as well as liber
 
 ‘The second’ is liberation. As is said: 
 
-393?\. MV 2/14ab. Also quoted above in TĀv ad 3/292-293ab (291cd-292) and ad 13/73; cited directly in TĀ 13/214d and quoted in \[illegible\] ad 13/214-216.
+[^395]: MV 2/14ab. Also quoted above in TĀv ad 3/292-293ab (291cd-292) and ad 13/73; cited directly in TĀ 13/214d and quoted in \[illegible\] ad 13/214-216.
 
 
 *[p. 197]* ^pg217
@@ -61,7 +59,7 @@ Thus, in the case of one who desires worldly experience (bhoga) as well as liber
 
 It is thus established (siddha) in this way, that the first (i.e. liberation) is the supreme (para) descent of the power (of grace), and the second (i.e. worldly benefit) is the inferior (apara) one. As he will say: 
 
-‘One should know that this is the essence here (of the teaching); namely, that the supreme (para) form of the descent of the power (of grace) is the (direct experience of the) Light, free of (all) limitation, of the Self, that is completely full (and perfect) consciousness. Although the inferior (apara) form of the descent of the power (of grace) is also like this, it is characterised by the limitation imposed by the aspect (of consciousness which manifests as) worldly experience. (Even so,) ultimately, this (too) bestows identity which is Siva.” 
+‘One should know that this is the essence here (of the teaching); namely, that the supreme (para) form of the descent of the power (of grace) is the (direct experience of the) Light, free of (all) limitation, of the Self, that is completely full (and perfect) consciousness. Although the inferior (apara) form of the descent of the power (of grace) is also like this, it is characterised by the limitation imposed by the aspect (of consciousness which manifests as) worldly experience. (Even so,) ultimately, this (too) bestows identity which is Siva.”[^396] 
 
 Surely (one may ask), does the Lord depend on (the soul’s) Impurity and the rest when He obscures (the soul) as (He does to perform the tasks of) emanation etc., or not, as (is the case with) grace? With this question in mind, he accordingly explains the nature of that (act of obscuration, and how it) does not depend on Impurity and the other (factors) He has encompassed within Himself. 
 
@@ -82,16 +80,16 @@ sthitvā mantrādi saṁgṛhya tyajet so ‘sya tirobhavaḥ |
 
 He who, because the power of grace has not descended upon him, is not (really) enlightened, but even so, by the Lord’s will, in order to deceive others, hypocritically makes a show of his devotion and faith, behaving as if he were enlightened, and taking up the Mantras etc. taught in the Śaiva scripture, having been previously correctly initiated, but subsequently abandons (the practice) because he lacks (true) respect for it, is in a state of obscuration. He who, 
 
-394?\. Below, 13/254cd-256ab.
+[^396]: Below, 13/254cd-256ab.
 
 
 *[p. 198]* ^pg218
 
-although his own nature is (thus) obscured, (also) criticizes’ (the practice, is doubly obscured,) like a boil that bursts on (another) boil; he will never get out of (this) transmigratory existence. As (Abhinavagupta) himself has said elsewhere: 
+although his own nature is (thus) obscured, (also) criticizes[^397] (the practice, is doubly obscured,) like a boil that bursts on (another) boil; he will never get out of (this) transmigratory existence. As (Abhinavagupta) himself has said elsewhere: 
 
-‘He whose mind is, by God’s will, without faith, and so, (even as) he observes (a vow of right) conduct (caryā), criticizes, is said to be one (whose consciousness) is obscured (tirohita). The sin born of anger towards the observance, Vidyā and great Mantra etc. that has (thus) been reviled throws him down in every way into the most terrible abode of vengeance.” 
+‘He whose mind is, by God’s will, without faith, and so, (even as) he observes (a vow of right) conduct (caryā), criticizes, is said to be one (whose consciousness) is obscured (tirohita). The sin born of anger towards the observance, Vidyā and great Mantra etc. that has (thus) been reviled throws him down in every way into the most terrible abode of vengeance.”[^398] 
 
-Now, in order to accomplish what he had set out to do, (stating that,) ‘I will (now) speak about the great medicinal herb of scripture’,'” he says: 
+Now, in order to accomplish what he had set out to do, (stating that,) ‘I will (now) speak about the great medicinal herb of scripture’,[^399] he says: 
 
 श्रीसारशास्रे भगवान्वस्त्वेतत्समभाषत ।। १२१ ॥
 śrīsāraśāstre bhagavān vastv etat samabhāṣata ॥ 121 ॥ 
@@ -117,22 +115,22 @@ svayari badhnāti deveśaḥ svayaṁ caiva vimuñcati || 123 ॥
 svayari bhoktā svayari jñātā svayari caivopalakṣayet |
 svayari bhukti\$ ca muktiś ca svayańi devī svayaṁ prabhuḥ || 124 ॥ 
 
-395?\. Read -nyāyenanābhinindānari for -nyāyenanābhidhānam.
+[^397]: Read -nyāyenanābhinindānari for -nyāyenanābhidhānam.
 
-396?\. \[illegible\] Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś \[illegible\] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
+[^398]: \[illegible\] Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś \[illegible\] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
 
-397?\. Above, 13/102d.
+[^399]: Above, 13/102d.
 
 
 *[p. 199]* ^pg219
 
 svayam ekākṣarā caiva yathoṣmā kṛṣnavartmanaḥ | 
 
-‘Without a doubt, (when) the Lord (creates the world,) He covers Himself (svayam) (by Himself, independently of any cause,) with many forms (bhāva) of Dharma and Adharma, from the hells up to Śiva. In the same way, the God of gods covers himself with His powers, and so both binds and liberates Himself. He Himself is the enjoyer (bhoktr) (of worldly experience), Himself the knower, He Himself contemplates (reality), and He Himself is worldly enjoyment (bhukti) and liberation, He is the Goddess and Himself the Lord. He is the single syllable (Vidyā) (SAUṆ). (AIl things are related to Him) as heat is to fire.’ (122-125ab) 
+‘Without a doubt, (when) the Lord (creates the world,) He covers Himself (svayam) (by Himself, independently of any cause,) with many forms (bhāva) of Dharma and Adharma, from the hells up to Śiva. In the same way, the God of gods covers himself with His powers, and so both binds and liberates Himself. He Himself is the enjoyer (bhoktr) (of worldly experience), Himself the knower, He Himself contemplates (reality), and He Himself is worldly enjoyment (bhukti) and liberation, He is the Goddess and Himself the Lord. He is the single syllable (Vidyā) (SAUṆ).[^400] (AIl things are related to Him) as heat is to fire.’ (122-125ab) 
 
 ### TĀ 13.125
 
-The sense (of saying that, when Lord creates the world, He covers Himself by Himself) ‘with many forms (bhāva) of Dharma and Adharma’, is that the main cause of transmigratory existence is the varied impurity of Karma. ‘In the same way, the God of gods covers Himself’, that is, His own Self, ‘with His powers’, Vāmā, Jyeṣthā and the rest, and is governed (by them). Thus it is said that He ‘both binds and liberates Himself’, and so is said to be (Himself both) the enjoyer (bhoktr) (of worldly experience) and the knower, as worldly experience itself is bondage, and the state of the knower, liberation. Nor are they separate (from Him). So he says that ‘He Himself is worldly enjoyment (bhukti) and liberation’. Thus, He perceives all this universe as being His own nature. Accordingly, he says ‘He Himself contemplates’ (the reality) close at hand (before Him). “The Goddess’ is (the Lord’s) power (Sakti). ‘The single syllable (Vidyā)’ is the venerable goddess Parā (i.e. the syllable SAUH). She makes (Him) manifest (and is related to Him) ‘as heat is to fire’. As is said, ‘One should know (sakti to be) like the heat of fire . . . 1 He now declares the same according to (its essential) purport. वेस्तूक्तमत्र स्वातन्त्यात्स्वात्मरूपप्रकाशनम् ।। १२५ ॥
+The sense (of saying that, when Lord creates the world, He covers Himself by Himself) ‘with many forms (bhāva) of Dharma and Adharma’, is that the main cause of transmigratory existence is the varied impurity of Karma. ‘In the same way, the God of gods covers Himself’, that is, His own Self, ‘with His powers’, Vāmā, Jyeṣthā and the rest, and is governed (by them). Thus it is said that He ‘both binds and liberates Himself’, and so is said to be (Himself both) the enjoyer (bhoktr) (of worldly experience) and the knower, as worldly experience itself is bondage, and the state of the knower, liberation. Nor are they separate (from Him). So he says that ‘He Himself is worldly enjoyment (bhukti) and liberation’. Thus, He perceives all this universe as being His own nature. Accordingly, he says ‘He Himself contemplates’ (the reality) close at hand (before Him). “The Goddess’ is (the Lord’s) power (Sakti). ‘The single syllable (Vidyā)’ is the venerable goddess Parā (i.e. the syllable SAUH). She makes (Him) manifest (and is related to Him) ‘as heat is to fire’. As is said, ‘One should know (sakti to be) like the heat of fire . . .’[^401] He now declares the same according to (its essential) purport. वेस्तूक्तमत्र स्वातन्त्यात्स्वात्मरूपप्रकाशनम् ।। १२५ ॥
 vastūktam atra svātantryāt svātmarūpaprakāśanam || 125 |I 
 
 The essential point made here is that (the Lord) manifests His own nature by virtue of His own (absolute) freedom. (125cd) 
@@ -143,9 +141,9 @@ The essential point made here is that (the Lord) manifests His own nature by vir
 
 Nor is that said only here (in this scripture); it also (said) elsewhere. Thus, he says: 
 
-398?\. Abhinava is quoting the Trikasāra. He has already referred to it above (3/253cd- 254ab (253cd-254ab) in relation to the seed-syllable of Parā, which is the Vidyā meant here.
+[^400]: Abhinava is quoting the Trikasāra. He has already referred to it above (3/253cd- 254ab (253cd-254ab) in relation to the seed-syllable of Parā, which is the Vidyā meant here.
 
-399?\. NT 1/26a.
+[^401]: NT 1/26a.
 
 
 *[p. 200]* ^pg220
@@ -155,7 +153,7 @@ Nor is that said only here (in this scripture); it also (said) elsewhere. Thus, 
 Impurity Has No Absolute Existence and Cannot Sully the Self 
 
 श्रीमत्निशाकुलेऽप्यक्तं मिथ्याभावितचेतसः ।
-मलमायाविचारेण' क्लिश्यन्ते स्वल्पबुद्धयः ।। all.[^400] ॥
+मलमायाविचारेण' क्लिश्यन्ते स्वल्पबुद्धयः ।। all. ॥
 स्फटिकोपलगो रेणुः कि तस्य कुरुतां प्रिये ।
 व्योम्नीव नीलं हि मलं मलशङकं ततस्त्यजेत् ॥ १२७ ॥
 
@@ -170,7 +168,7 @@ It is also said in the venerable Niśākula: ‘O dear one, stupid people whose 
 
 ‘They are afflicted’ means that they experience affliction uselessly (for no purpose or reason). Just as a speck of dust on a crystal or the blue (colour) of the sky cannot really sully them in the slightest, so too, one should abandon (all) doubt that Impurity and Karma conceived by one’s own will alone (can sully) the Self, which is pure and awakened. The meaning is that, in reality, (Impurity) is nothing at all. As is said there (in the Niśākula): 
 
-ʻO dear one, in reality (the soul, which is essentially) pure, has no Impurity at all." The impurity (presumed to be) in the soul is said to be due to the impurity of one’s own mind. (Only) stupid people are afflicted by (their mistaken) notion (vicāra) of Māyā and Impurity. O beloved, what can a speck of dust on a crystal do (to it)? Impurity is only ignorance. Knowledge is pure by its very nature. He whose consciousness is pure by nature can never be bound. The Impurity of the one whose nature is consciousness is like the blue (colour) in the sky.’ 
+ʻO dear one, in reality (the soul, which is essentially) pure, has no Impurity at all.[^402] The impurity (presumed to be) in the soul is said to be due to the impurity of one’s own mind. (Only) stupid people are afflicted by (their mistaken) notion (vicāra) of Māyā and Impurity. O beloved, what can a speck of dust on a crystal do (to it)? Impurity is only ignorance. Knowledge is pure by its very nature. He whose consciousness is pure by nature can never be bound. The Impurity of the one whose nature is consciousness is like the blue (colour) in the sky.’ 
 
 Previous teachers have said the same. Thus, he says: 
 
@@ -186,7 +184,7 @@ The venerable teacher Vidyādhipati (vidyāguru) has said in the teaching (darś
 
 #### Viveka on 13.127
 
-[^400]: Read malo ‘malinaḥ for malo malinaḥ.
+[^402]: Read malo ‘malinaḥ for malo malinaḥ.
 
 *[p. 201]* ^pg221
 
@@ -204,7 +202,7 @@ taṁ svecchātaḥ sagiramānṇāḥ stavakādyāḥ
 
 svātantryaṁ tat tvayy anapekṣaṁ kathayeyuḥ ॥ 128 ॥ 
 
-‘The profound ones (gāhanika) (that is, the Siddhāntins) maintain that a descent of the power (of grace) (śaktipāta) obtains (pratipanna) in the intermediate time when the pervasion (of the powers of) Dharma and Adharma (to give rise to opposite Karmas) ceases (because they cancel each other out).[^401] Those who compose hymns praising You declare that (it occurs by Your) free will (alone), and that that freedom within You does not depend on anything.’ (128) 
+‘The profound ones (gāhanika) (that is, the Siddhāntins) maintain that a descent of the power (of grace) (śaktipāta) obtains (pratipanna) in the intermediate time when the pervasion (of the powers of) Dharma and Adharma (to give rise to opposite Karmas) ceases (because they cancel each other out).[^403] Those who compose hymns praising You declare that (it occurs by Your) free will (alone), and that that freedom within You does not depend on anything.’ (128) 
 
 #### Viveka on 13.128
 
@@ -212,10 +210,11 @@ Here (in this case), ‘the profound ones’ are dualists, who declare that the 
 
 The Varieties of the Descent of the Power of Grace (śaktipātavicitratā) 
 
-The Intense Descents of the Power of Grace (Saktipātavicitratā)[^402] 
+The Intense Descents of the Power of Grace (Saktipātavicitratā)[^404] 
 
-[^401]: These people subscribe to the view that śaktipāta occurs when a state of balance between contrary Karmas prevails (karmasāmya). See above, 13/67 ff.
-[^402]: This topic is discussed up to verse 253 which includes a long digression concerning the nature of ‘creative intuition’ (pratibhā) (verses 146-198). Abhinava’s elaboration of the nine-fold classification of śaktipāta, which he learnt from his teacher Śambhunātha (13/254ab), is first found in MVV 1/686 ff. The whole of chapter 11 of the Tantrasāra is dedicated to Śakipāta. It has been translated and published by Wallis in 2007 and a revised version presented in his thesis (p. 266-283) with comments. I gave him a copy of my translation of this chapter of the Tantrāloka as it was then. The following passage in the first part of the MVV sums up what Abhinava has said here.
+[^403]: These people subscribe to the view that śaktipāta occurs when a state of balance between contrary Karmas prevails (karmasāmya). See above, 13/67 ff.
+
+[^404]: This topic is discussed up to verse 253 which includes a long digression concerning the nature of ‘creative intuition’ (pratibhā) (verses 146-198). Abhinava’s elaboration of the nine-fold classification of śaktipāta, which he learnt from his teacher Śambhunātha (13/254ab), is first found in MVV 1/686 ff. The whole of chapter 11 of the Tantrasāra is dedicated to Śakipāta. It has been translated and published by Wallis in 2007 and a revised version presented in his thesis (p. 266-283) with comments. I gave him a copy of my translation of this chapter of the Tantrāloka as it was then. The following passage in the first part of the MVV sums up what Abhinava has said here.
 
 *[p. 200]* ^pg222
 
@@ -224,7 +223,7 @@ The Intense Descents of the Power of Grace (Saktipātavicitratā)[^402]
 Impurity Has No Absolute Existence and Cannot Sully the Self 
 
 श्रीमन्निशाकुलेऽप्यक्तं मिथ्याभावितचेतसः ।
-मलमायाविचारेण' क्लिश्यन्ते स्वल्पबुद्धयः ।। all.[^403] ॥
+मलमायाविचारेण' क्लिश्यन्ते स्वल्पबुद्धयः ।। all. ॥
 स्फटिकोपलगो रेणुः कि तस्य कुरुतां प्रिये ।
 व्योम्नीव नीलं हि मलं मलशङ्कां ततस्त्यजेत् । १२७ ॥
 
@@ -239,7 +238,7 @@ It is also said in the venerable Niśākula: ‘O dear one, stupid people whose 
 
 ‘They are afflicted’ means that they experience affliction uselessly (for no purpose or reason). Just as a speck of dust on a crystal or the blue (colour) of the sky cannot really sully them in the slightest, so too, one should abandon (all) doubt that Impurity and Karma conceived by one’s own will alone (can sully) the Self, which is pure and awakened. The meaning is that, in reality, (Impurity) is nothing at all. As is said there (in the Niśākula): 
 
-ʻO dear one, in reality (the soul, which is essentially) pure, has no Impurity at all." The impurity (presumed to be) in the soul is said to be due to the impurity of one’s own mind. (Only) stupid people are afflicted by (their mistaken) notion (vicāra) of Māyā and Impurity. O beloved, what can a speck of dust on a crystal do (to it)? Impurity is only ignorance. Knowledge is pure by its very nature. He whose consciousness is pure by nature can never be bound. The Impurity of the one whose nature is consciousness is like the blue (colour) in the sky.’ 
+ʻO dear one, in reality (the soul, which is essentially) pure, has no Impurity at all.[^402r] The impurity (presumed to be) in the soul is said to be due to the impurity of one’s own mind. (Only) stupid people are afflicted by (their mistaken) notion (vicāra) of Māyā and Impurity. O beloved, what can a speck of dust on a crystal do (to it)? Impurity is only ignorance. Knowledge is pure by its very nature. He whose consciousness is pure by nature can never be bound. The Impurity of the one whose nature is consciousness is like the blue (colour) in the sky.’ 
 
 Previous teachers have said the same. Thus, he says: 
 
@@ -254,7 +253,7 @@ The venerable teacher Vidyādhipati (vidyāguru) has said in the teaching (darś
 
 #### Viveka on 13.127 (2)
 
-[^403]: Read malo ‘malinaḥ for malo malinaḥ.
+[^402r]: Read malo ‘malinaḥ for malo malinaḥ.
 
 *[p. 201]* ^pg223
 
@@ -272,7 +271,7 @@ tar svecchātaḥ sahgiramānāḥ stavakādyāḥ
 
 svātantryaṁ tat tvayy anapekṣamṁ kathayeyuḥ ॥ 128 ॥ 
 
-‘The profound ones (gāhanika) (that is, the Siddhāntins) maintain that a descent of the power (of grace) (śaktipāta) obtains (pratipanna) in the intermediate time when the pervasion (of the powers of) Dharma and Adharma (to give rise to opposite Karmas) ceases (because they cancel each other out).[^404] Those who compose hymns praising You declare that (it occurs by Your) free will (alone), and that that freedom within You does not depend on anything.’ (128) 
+‘The profound ones (gāhanika) (that is, the Siddhāntins) maintain that a descent of the power (of grace) (śaktipāta) obtains (pratipanna) in the intermediate time when the pervasion (of the powers of) Dharma and Adharma (to give rise to opposite Karmas) ceases (because they cancel each other out).[^403r] Those who compose hymns praising You declare that (it occurs by Your) free will (alone), and that that freedom within You does not depend on anything.’ (128) 
 
 #### Viveka on 13.128 (2)
 
@@ -280,10 +279,13 @@ Here (in this case), ‘the profound ones’ are dualists, who declare that the 
 
 The Varieties of the Descent of the Power of Grace (śaktipātavicitratā) 
 
-The Intense Descents of the Power of Grace (Śaktipātavicitratā)[^405] 
+The Intense Descents of the Power of Grace (Śaktipātavicitratā)[^404r] 
 
-[^404]: These people subscribe to the view that śaktipāta occurs when a state of balance between contrary Karmas prevails (karmasāmya). See above, 13/67 ff.
-[^405]: This topic is discussed up to verse 253 which includes a long digression concerning the nature of ‘creative intuition’ (pratibhā) (verses 146-198). Abhinava’s elaboration of the nine-fold classification of śaktipāta, which he learnt from his teacher Śambhunātha (13/254ab), is first found in MVV 1/686 ff. The whole of chapter 11 of the Tantrasāra is dedicated to Íakipāta. It has been translated and published by Wallis in 2007 and a revised version presented in his thesis (p. 266-283) with comments. I gave him a copy of my translation of this chapter of the Tantrāloka as it was then. The following passage in the first part of the MVV sums up what Abhinava has said here. sivayogāṁam ātmānamri yasyām (> svasyām) ātmābhimanyate | yato (> yathā) vaicitryayogena tathātmānari sa manyate || saktipātasya tenoktā navadhātra vyavasthitiḥ | anyathā neśvarasyāsti rāgo dveṣo.atha vā kvacit || yena kvāpy eṣa niyatāri \[illegible\] aktin pātayed vibhuḥ | animittas tathā \[illegible\] śaktipāto maheśituḥ || ‘The Self considers within itself that (the individual) Self is worthy of Śiva Yoga, and because of the wonderful variety associated with it considers itself to be such accordingly. It is because of this (variety) that the state of the descent of the power (of grace) is said here to be of nine kinds. It is not otherwise. The Lord has no attachment or aversion anywhere (in any circumstance). (686-687) It is because of this that this pervasive Lord may cause His own ordained \[illegible\] power to descend anywhere (at any time). In this way, this, the Great Lord’s descent of the power (of grace) is (essentially) devoid of (any) instigating cause (nimitta). (688) tena rāgakṣayāt karmasāmyāt sukṛtagauravāt | malapākāt suhṛdyogād bhakter bhāvāc ca sevanāt || abhyāsād vāsanodbhedāt sarṁskāraparipākataḥ | mithyājñānakṣayāt karmasaṁinyāsāt kāmyavicyuteḥ || sāmyāc cittasya sā śaktiḥ patatīti yad ucyate | Thus, that power (of grace) is said (by others to) fall (for a variety of reasons). (According to the Sāṁkhya,) it is because attachment has ceased. (According to the scriptures of the Śaiva Siddhānta,) it is because of the balance of equal (and opposing) Karmas. (According to the Vaidikas and Purānṇikas,) it is because of the greatness of good works. (According to Śaiva Siddhānta exegetes,) it is because of the ripening of Impurity (malapāka). (Others say) that it is due to association with a good (spiritual) friends, devotion (bhakti), (a good) birth (cf. Yogasūtra 4.1), or service (to a true teacher), the practice (of Yoga), breaking through latent tendencies (to behave in certain ways) (vāsanā), (or, according to Patañjali’s Yoga,) because of the ripening of the latent traces (saṁskāra) (of past actions), (or according to Advaita Vedānta,) because of the destruction of false knowledge, (or according to the Jainas,) by renouncing Karma, (or) by the falling away of (all that is) desirable, and (according to the Bhagavadgita,) by the equanimity of the mind. 689-69 lab tad asan nanu tatrāpi nimittāntaramārganāt || anavasthātiprasaṁgasaṁbhavābhāvayogataḥ (-sańibhava->) | anyonyāśrayanihśreṇicakrakādyupapātataḥ ॥ asmirs tu pakṣe sarveṣāṁ pravādānām api sthitiḥ | yuktā sarvaṁsahe pakṣe na kiṁcit kila duṣyati || Surely, (each of these reason) is incorrect, and by searching there for (some) other instigating cause, one falls into endless circular (arguments) and mutual dependence, because of the associated (abiding) possibility of an unwarrantable stretching of the rules of logic and an infinite regress. (However,) in this, (our) side (of the argument), that can accept everything, the position of all these suppositions (pravāda) is sound, and nothing renders it defective. 691cd-693 śaktipātasamaye vicāraṇaṁi prāptam īśa na karoṣi karhicit | śrīmadutpalagurur nyarūpayat tatra tatra nijaśāstra īdṛśam ||
+[^403r]: These people subscribe to the view that śaktipāta occurs when a state of balance between contrary Karmas prevails (karmasāmya). See above, 13/67 ff.
+
+[^404r]: This topic is discussed up to verse 253 which includes a long digression concerning the nature of ‘creative intuition’ (pratibhā) (verses 146-198). Abhinava’s elaboration of the nine-fold classification of śaktipāta, which he learnt from his teacher Śambhunātha (13/254ab), is first found in MVV 1/686 ff. The whole of chapter 11 of the Tantrasāra is dedicated to Íakipāta. It has been translated and published by Wallis in 2007 and a revised version presented in his thesis (p. 266-283) with comments. I gave him a copy of my translation of this chapter of the Tantrāloka as it was then. The following passage in the first part of the MVV sums up what Abhinava has said here. sivayogāṁam ātmānamri yasyām (> svasyām) ātmābhimanyate | yato (> yathā) vaicitryayogena tathātmānari sa manyate || saktipātasya tenoktā navadhātra vyavasthitiḥ | anyathā neśvarasyāsti rāgo dveṣo.atha vā kvacit || yena kvāpy eṣa niyatāri \[illegible\] aktin pātayed vibhuḥ | animittas tathā \[illegible\] śaktipāto maheśituḥ || ‘The Self considers within itself that (the individual) Self is worthy of Śiva Yoga, and because of the wonderful variety associated with it considers itself to be such accordingly. It is because of this (variety) that the state of the descent of the power (of grace) is said here to be of nine kinds. It is not otherwise. The Lord has no attachment or aversion anywhere (in any circumstance). (686-687) It is because of this that this pervasive Lord may cause His own ordained \[illegible\] power to descend anywhere (at any time). In this way, this, the Great Lord’s descent of the power (of grace) is (essentially) devoid of (any) instigating cause (nimitta). (688) tena rāgakṣayāt karmasāmyāt sukṛtagauravāt | malapākāt suhṛdyogād bhakter bhāvāc ca sevanāt || abhyāsād vāsanodbhedāt sarṁskāraparipākataḥ | mithyājñānakṣayāt karmasaṁinyāsāt kāmyavicyuteḥ || sāmyāc cittasya sā śaktiḥ patatīti yad ucyate | Thus, that power (of grace) is said (by others to) fall (for a variety of reasons). (According to the Sāṁkhya,) it is because attachment has ceased. (According to the scriptures of the Śaiva Siddhānta,) it is because of the balance of equal (and opposing) Karmas. (According to the Vaidikas and Purānṇikas,) it is because of the greatness of good works. (According to Śaiva Siddhānta exegetes,) it is because of the ripening of Impurity (malapāka). (Others say) that it is due to association with a good (spiritual) friends, devotion (bhakti), (a good) birth (cf. Yogasūtra 4.1), or service (to a true teacher), the practice (of Yoga), breaking through latent tendencies (to behave in certain ways) (vāsanā), (or, according to Patañjali’s Yoga,) because of the ripening of the latent traces (saṁskāra) (of past actions), (or according to Advaita Vedānta,) because of the destruction of false knowledge, (or according to the Jainas,) by renouncing Karma, (or) by the falling away of (all that is) desirable, and (according to the Bhagavadgita,) by the equanimity of the mind. 689-69 lab tad asan nanu tatrāpi nimittāntaramārganāt || anavasthātiprasaṁgasaṁbhavābhāvayogataḥ (-sańibhava->) | anyonyāśrayanihśreṇicakrakādyupapātataḥ ॥ asmirs tu pakṣe sarveṣāṁ pravādānām api sthitiḥ | yuktā sarvaṁsahe pakṣe na kiṁcit kila duṣyati || Surely, (each of these reason) is incorrect, and by searching there for (some) other instigating cause, one falls into endless circular (arguments) and mutual dependence, because of the associated (abiding) possibility of an unwarrantable stretching of the rules of logic and an infinite regress. (However,) in this, (our) side (of the argument), that can accept everything, the position of all these suppositions (pravāda) is sound, and nothing renders it defective. 691cd-693 śaktipātasamaye vicāraṇaṁi prāptam īśa na karoṣi karhicit | śrīmadutpalagurur nyarūpayat tatra tatra nijaśāstra īdṛśam ||
+
+    tasyaiva hi prasādena bhaktir utpadyate nṛnām | yayā yānti parāṁ siddhi tadbhāvagatamānasāḥ || The venerable teacher Utpaladeva has declared here and there in his books such things as: 0 Lord, you never deliberate over the proper occasion for the descent of the power (of Your grace).’ (It is by the Lord’s) grace (alone) that devotion arises in men by virtue of which those whose minds (are immersed in) the Lord attain the supreme accomplishment (siddhi). 696-697
 
 *[p. 202]* ^pg224
 
@@ -297,17 +299,15 @@ The Intense Descents of the Power of Grace (Śaktipātavicitratā)[^405]
 tāratamyaprakāśo yas tīvramadhyamamandatāḥ |
 tā eva śaktipātasya pratyekaṁ traidhamāsthitāḥ ॥ 129 ॥ 
 
-The manifestation of the gradation (fāratamyaprakāśa) of the descent of the power (of grace) (śaktipāta) (takes place in three degrees), namely, intense, middling and weak. Each of these is of (these same) three kinds. (129) (129cd-130ab) 1 
+The manifestation of the gradation (fāratamyaprakāśa) of the descent of the power (of grace) (śaktipāta) (takes place in three degrees), namely, intense, middling and weak. Each of these is of (these same) three kinds. (129) (129cd-130ab)[^405] 
 
 #### Viveka on 13.129–130
 
-That which is said to be ‘the manifestation of the gradation’ of the descent of the power (of grace) is ‘intense, moderate and mild. Each of these is of (these same) three kinds’. The meaning is that it of nine kinds as ‘intensely intense’ (tīvratīvra) and the rest.” 
+That which is said to be ‘the manifestation of the gradation’ of the descent of the power (of grace) is ‘intense, moderate and mild. Each of these is of (these same) three kinds’. The meaning is that it of nine kinds as ‘intensely intense’ (tīvratīvra) and the rest.[^406] 
 
-tasyaiva hi prasādena bhaktir utpadyate nṛnām | yayā yānti parāṁ siddhi tadbhāvagatamānasāḥ || The venerable teacher Utpaladeva has declared here and there in his books such things as: 0 Lord, you never deliberate over the proper occasion for the descent of the power (of Your grace).’ (It is by the Lord’s) grace (alone) that devotion arises in men by virtue of which those whose minds (are immersed in) the Lord attain the supreme accomplishment (siddhi). 696-697
+[^405]: One line has not been numbered in the printed edition, so 129cd follows after 128cd.
 
-406?\. One line has not been numbered in the printed edition, so 129cd follows after 128cd.
-
-407?\. Abhinava himself refers to the teaching concerning the nine forms of saktipāta in his commenta (vivṛtivimarśinī). He does so in the context of explaining grace (anugraha) as one of Siva’s tasks (kṛtya). As usual, Abhinava promotes the man of knowledge as the most excellent aspirant, as indeed does Kṛṣna in the Bhagavadgītā. so ‘pi kramiko varadānātmā nandīśvarādiṣu, akramikastu dīkṣāprāptyādir jhagity apavargadaḥ | sarvam ity ukte 'nugrahasya api mā yatā uktā, tat ki vyāpārāntareṇa atreti śaṁkāḥ dhvasayati varadānādirapi | ādigrahaṇena siddhiprepsayā dhanādikāmyayā ārtivivārayiṣayā api ca yat parameśvarasamayapratipādanaṁ, tad api anugraharūpam evety āha | unmeṣaśabdena \[0 tatra vidyāyā ācai s tīvravidyākṛtānugrahabalena rudraśaktyāviṣto mokṣaprepsur va gurūpasadai mù dīkṣājñānayogacaryādikam etaddehapāta eva apavargaphalari prāpnoti, — iti darśayati | “(Grace can) also be gradual (karmika). (As such, it consists) essentially in (doing good deeds) such as works of charity (varadāna) (for the needy, as taught) in the Nandīśvara and elsewhere. The (direct form of grace) that is not gradual is (evident in) the attainment of initiation and the like, that awakens and bestows liberation. By saying ‘all’ is (implicitly) said that grace has its effect (within the domain of) Māyā. (So) what is the use of (engaging) in other action (if initiation bestows all one may need)? He destroys this doubt (by saying) ‘the offering of charity and the like’. By saying ‘and the like’ he is saying that the attainment of the Supreme Lord’s Rule (samaya) with the desire for (some) accomplishment (siddhi) (or) wealth etc. (or) with the desire to find (some) weak vulnerable and painful (spot in one’s enemy) is also grace. By the word ‘expansion’ (unmeṣa) he says that one who desires to attain liberation, penetrated by Rudra’s power (made manifest) by the strength of the grace generated by a powerful Vidyā, attains to the reverent attendance on a teacher, initiation, knowledge, Yoga, right conduct etc. and, when the body drops, the (ultimate) fruit which is liberation. \[illegible\] avinivṛttiḥ, tadāśayena ca sarvam iti ukta, tathāpi yady api varadānādau mí iktikṛto leśena āveśaḥ, yah paripāke mokṣaphalaḥ | ata sambhāvyata eva atra vid) eva gītam caturvidhā bhajante mām--------------------! 1 (7116) iti uktvā 1 (7118) (7118) iti | et prapañcitaṁ prathamata eva, tathā navadhā mukhyatayaiśvaraḥ śaktipātaḥ (13 ā0) iti suvivecitar śrītantrālokādau ॥ 7 ॥ Although (the practice of) charity and the like does not bring about the end of Māyā, with that intention it is said that ‘everything’ is, even so, possible. Here penetration (into consciousness) (āveśa) that is brought about by the power of knowledge (takes place by just) a little (of it) and, when it attains maturity, (its) fruit is liberation. Thus, the Gita says: \*0 lord of the Bharatas, the virtuous ones who worship me are of four kinds, namely, he who is distressed, the seeker of knowledge, the seeker of wealth, and the man of knowledge.” \[illegible\] 7/16) Having said that he goes on to say: ‘Of these, the man of knowledge, who is permanently established in yoga and whose devotion is single-minded, is the best. For I am dear to him, and he is exceedingly dear to Me.’ (ibid. 7/17) Revealed in this way the grace that is the intense power of knowledge (he concludes): ‘Noble indeed are all of these, but the man of knowledge I consider to be my very self. For, with an integrated Self, he resorts to me alone as the highest goal.’ \[illegible\] 71/16-18) That was discussed first of all. (Then) in the same way, the nine main kinds of the descent of grace are well analysed at length in the venerable Tantrāloka etc.’ IPVv 3 p. 279
+[^406]: Abhinava himself refers to the teaching concerning the nine forms of saktipāta in his commenta (vivṛtivimarśinī). He does so in the context of explaining grace (anugraha) as one of Siva’s tasks (kṛtya). As usual, Abhinava promotes the man of knowledge as the most excellent aspirant, as indeed does Kṛṣna in the Bhagavadgītā. so ‘pi kramiko varadānātmā nandīśvarādiṣu, akramikastu dīkṣāprāptyādir jhagity apavargadaḥ | sarvam ity ukte 'nugrahasya api mā yatā uktā, tat ki vyāpārāntareṇa atreti śaṁkāḥ dhvasayati varadānādirapi | ādigrahaṇena siddhiprepsayā dhanādikāmyayā ārtivivārayiṣayā api ca yat parameśvarasamayapratipādanaṁ, tad api anugraharūpam evety āha | unmeṣaśabdena \[0 tatra vidyāyā ācai s tīvravidyākṛtānugrahabalena rudraśaktyāviṣto mokṣaprepsur va gurūpasadai mù dīkṣājñānayogacaryādikam etaddehapāta eva apavargaphalari prāpnoti, — iti darśayati | “(Grace can) also be gradual (karmika). (As such, it consists) essentially in (doing good deeds) such as works of charity (varadāna) (for the needy, as taught) in the Nandīśvara and elsewhere. The (direct form of grace) that is not gradual is (evident in) the attainment of initiation and the like, that awakens and bestows liberation. By saying ‘all’ is (implicitly) said that grace has its effect (within the domain of) Māyā. (So) what is the use of (engaging) in other action (if initiation bestows all one may need)? He destroys this doubt (by saying) ‘the offering of charity and the like’. By saying ‘and the like’ he is saying that the attainment of the Supreme Lord’s Rule (samaya) with the desire for (some) accomplishment (siddhi) (or) wealth etc. (or) with the desire to find (some) weak vulnerable and painful (spot in one’s enemy) is also grace. By the word ‘expansion’ (unmeṣa) he says that one who desires to attain liberation, penetrated by Rudra’s power (made manifest) by the strength of the grace generated by a powerful Vidyā, attains to the reverent attendance on a teacher, initiation, knowledge, Yoga, right conduct etc. and, when the body drops, the (ultimate) fruit which is liberation. \[illegible\] avinivṛttiḥ, tadāśayena ca sarvam iti ukta, tathāpi yady api varadānādau mí iktikṛto leśena āveśaḥ, yah paripāke mokṣaphalaḥ | ata sambhāvyata eva atra vid) eva gītam caturvidhā bhajante mām--------------------! 1 (7116) iti uktvā 1 (7118) (7118) iti | et prapañcitaṁ prathamata eva, tathā navadhā mukhyatayaiśvaraḥ śaktipātaḥ (13 ā0) iti suvivecitar śrītantrālokādau ॥ 7 ॥ Although (the practice of) charity and the like does not bring about the end of Māyā, with that intention it is said that ‘everything’ is, even so, possible. Here penetration (into consciousness) (āveśa) that is brought about by the power of knowledge (takes place by just) a little (of it) and, when it attains maturity, (its) fruit is liberation. Thus, the Gita says: \*0 lord of the Bharatas, the virtuous ones who worship me are of four kinds, namely, he who is distressed, the seeker of knowledge, the seeker of wealth, and the man of knowledge.” \[illegible\] 7/16) Having said that he goes on to say: ‘Of these, the man of knowledge, who is permanently established in yoga and whose devotion is single-minded, is the best. For I am dear to him, and he is exceedingly dear to Me.’ (ibid. 7/17) Revealed in this way the grace that is the intense power of knowledge (he concludes): ‘Noble indeed are all of these, but the man of knowledge I consider to be my very self. For, with an integrated Self, he resorts to me alone as the highest goal.’ \[illegible\] 71/16-18) That was discussed first of all. (Then) in the same way, the nine main kinds of the descent of grace are well analysed at length in the venerable Tantrāloka etc.’ IPVv 3 p. 279
 
 
 *[p. 204]* ^pg226
@@ -332,7 +332,7 @@ madhyatīvrāt punaḥ sarvam ajñānaṁ vinivartate |
 svayam eva yato vetti bandhamokṣatayātmatām || 131 ॥
 tat prātibhaṁn mahājñānaṁ śāstrācāryānapekṣi yat | 
 
-The intensely intense (fīvrafīvra) descent of the power (of grace) itself (spontaneously) (svayam) bestows liberation by the death (it brings about) of the body at the very moment (it occurs), or else (the soul may be liberated) at some other time, according to the degree (tāratamya) (of grace). Again, by the moderately intense (madhyafīvra) (descent of the power of grace), all ignorance ceases (directly without the need of scriptures or teachers). That through which one knows by oneself (svayam eva) that one’s own Self is (the cause of both) bondage and liberation is the great knowledge (mahājñāna) (born) of the intuitive insight (pratibhā) (that comes by grace) independently (of the knowledge of the) scriptures or teachers.” (130-132ab) (130cd-132) 
+The intensely intense (fīvrafīvra) descent of the power (of grace) itself (spontaneously) (svayam) bestows liberation by the death (it brings about) of the body at the very moment (it occurs), or else (the soul may be liberated) at some other time, according to the degree (tāratamya) (of grace). Again, by the moderately intense (madhyafīvra) (descent of the power of grace), all ignorance ceases (directly without the need of scriptures or teachers). That through which one knows by oneself (svayam eva) that one’s own Self is (the cause of both) bondage and liberation is the great knowledge (mahājñāna) (born) of the intuitive insight (pratibhā) (that comes by grace) independently (of the knowledge of the) scriptures or teachers.[^407] (130-132ab) (130cd-132) 
 
 #### Viveka on 13.130–132
 
@@ -342,22 +342,22 @@ the accepted (view) (kaṭākṣita) is that there are twenty-seven varieties. T
 
 se), it is not, as in the previous (case, that grace brings about) the cessation of the body, rather ignorance ceases. (That through which one knows) ‘by oneself’, not by means of a teacher or scriptures, is one’s own intuitive insight, for it is due to this that this knowledge may arise. Thus, as it (so) great, it is the reason why there is no dependence on scriptures and a 
 
-teacher.” 
+teacher.[^408] 
 
 Surely (one may ask), does he know that the Self is (the cause of both) bondage and liberation just in relation to himself, or in relation to (someone) else also? With this doubt in mind, he says: 
 
 ### TĀ 13.133
 
-The Teacher and Disciple 
+The Teacher and Disciple[^409] 
 
 प्रतिभाचन्दरिकाशान्तध्वान्तश्चाचार्यचनद्रमाः || १३२ ॥।
 तमस्तापौ हन्ति दृशं विस्फा्यानन्दनिर्भराम् ।
 
-408?\. Quoted above in TĀv ad 4/46cd.
+[^407]: Quoted above in TĀv ad 4/46cd.
 
-409?\. Cf, above, TĀ 4/41d and 4/78cd-79 where KiT 1/9/14b is cited. \*(Śiva should be known) from the teacher, the scripture and oneself.
+[^408]: Cf, above, TĀ 4/41d and 4/78cd-79 where KiT 1/9/14b is cited. \*(Śiva should be known) from the teacher, the scripture and oneself.
 
-410?\. The following passage from 132cd to 144 concerns the qualities and nature of the most elevated teachers. Abhinava has presented an overview of the types and levels of teachers in Chapter Four (verses 40cd to 78ab), to which the reader is referred.
+[^409]: The following passage from 132cd to 144 concerns the qualities and nature of the most elevated teachers. Abhinava has presented an overview of the types and levels of teachers in Chapter Four (verses 40cd to 78ab), to which the reader is referred.
 
 
 *[p. 206]* ^pg228
@@ -365,13 +365,13 @@ The Teacher and Disciple
 pratibhācandrikāśāntadhvāntaś cācāryacandramāḥ ॥ 132 ||
 tamastāpau hanti dṛśaṁ visphāryānandanirbharām | 
 
-The moon-like teacher, whose (spiritual) darkness has been dispersed by the lunar rays (candrikā) of divine intuition (pratibhā), casting a glance’ full of bliss (at his disciples), removes the darkness (of their ignorance) and the heat (tāpa) (of their suffering). (132cd-133ab) (133) 
+The moon-like teacher, whose (spiritual) darkness has been dispersed by the lunar rays (candrikā) of divine intuition (pratibhā), casting a glance[^410] full of bliss (at his disciples), removes the darkness (of their ignorance) and the heat (tāpa) (of their suffering). (132cd-133ab) (133) 
 
 #### Viveka on 13.133
 
 (The teacher removes) ‘the darkness (of the ignorance) and the heat (tāpa) (of the suffering)’ of (his) disciples. 
 
-Surely (one may object), one should also indicate who possesses this kind of intuitive insight. It cannot be the teacher, because at the time when he acquires (his) understanding (vyutpatti) (of the truth of the scriptures), that is absent." Only one who has (already) acquired (that) understanding and generates it in others is rightly said to be a teacher. Nor can it be the disciple, because his understanding (of the teachings) needs to be taken from others. So we do not know which of these two (it could be). With this doubt in mind, he says: 
+Surely (one may object), one should also indicate who possesses this kind of intuitive insight. It cannot be the teacher, because at the time when he acquires (his) understanding (vyutpatti) (of the truth of the scriptures), that is absent.[^411] Only one who has (already) acquired (that) understanding and generates it in others is rightly said to be a teacher. Nor can it be the disciple, because his understanding (of the teachings) needs to be taken from others. So we do not know which of these two (it could be). With this doubt in mind, he says: 
 
 ### TĀ 13.134
 
@@ -380,7 +380,7 @@ sa śiṣtaḥ karmakartṛtvāc chiṣyo ‘nyaḥ karmabhāvataḥ ॥ 133 ॥
 
 (The teacher is) learned (śiṣṭa), as he is both the object (of his intuition) and the agent (of it, because he is both instructed by it directly and transmits it). The disciple (śiṣya — lit. ‘one who is to be instructed’) differs (from him), because (he is only) the object (of the teacher’s) action 
 
-(that 15, instruction).’ (133cd) (134ab) 
+(that 15, instruction).[^412] (133cd) (134ab) 
 
 #### Viveka on 13.134
 
@@ -390,11 +390,11 @@ is a passive perfect participle (karmani kte) (i.e. he is one who imparts instru
 
 Moreover, as he is himself (spontaneously learned) in all the scriptures independently of a teacher etc., he is self-created. Thus, he says: 
 
-411?\. drgań visphārya lit. ‘expanding (his) vision’ or ‘opening (his) eye’.
+[^410]: drgań visphārya lit. ‘expanding (his) vision’ or ‘opening (his) eye’.
 
-412?\. Read tadabhavāt for tattvābhāvāt. If he had an intuitive understanding of the scriptures, he would not need to acquire the knowledge of them.
+[^411]: Read tadabhavāt for tattvābhāvāt. If he had an intuitive understanding of the scriptures, he would not need to acquire the knowledge of them.
 
-413?\. Ideally the teacher should awaken the capacity for intuitive insight (pratibhā) he has in his student. When this has taken place, the student becomes in his turn a teacher who is illumined within himself by himself, and so is in this sense both teacher and taught.
+[^412]: Ideally the teacher should awaken the capacity for intuitive insight (pratibhā) he has in his student. When this has taken place, the student becomes in his turn a teacher who is illumined within himself by himself, and so is in this sense both teacher and taught.
 
 
 *[p. 207]* ^pg229
@@ -406,15 +406,13 @@ The Self-created (svayaṁbhū) Teacher शिष्टः सर्वत्र
 sistaḥ sarvatra ca smārtapadakālakulādiṣu ॥ 134 ||
 uktaḥ svayaṁnbhūḥ śāstrārthapratibhāpariniṣṭhitaḥ | 
 
-(A teacher) who is learned (śiṣṭa) (by the power of this intuitive insight) in all respects in the Vedic tradition (smārta), grammar (pada), astronomy (kāla), Kula and the rest, and is well established in the intuitive understanding (pratibhā) of the meaning of the scriptures. is called Self-created (svayahbhū)."“ (134cd-135ab) 
+(A teacher) who is learned (śiṣṭa) (by the power of this intuitive insight) in all respects in the Vedic tradition (smārta), grammar (pada), astronomy (kāla), Kula and the rest, and is well established in the intuitive understanding (pratibhā) of the meaning of the scriptures. is called Self-created (svayahbhū).[^413] (134cd-135ab) 
 
 #### Viveka on 13.134–135
 
 That was said before (where we read): 
 
-‘This (discriminative intuitive) reasoning (tarka) arises thus for some (spontaneously) by itself (svata eva). And such a one is called in the scriptures ‘Spontaneously Enlightened’ (sāmsiddhika), and his nature is such that he is enlightened by himself (svapratyayātmaka) (without instruction). 
-
-"\* 
+‘This (discriminative intuitive) reasoning (tarka) arises thus for some (spontaneously) by itself (svata eva). And such a one is called in the scriptures ‘Spontaneously Enlightened’ (sāmsiddhika), and his nature is such that he is enlightened by himself (svapratyayātmaka) (without instruction).’[^414] 
 
 Surely (one may ask), if (this) intuitive insight arises (spontaneously) by itself, how is it that it is restricted to some particular person? (In response to this question, he says,) indeed there is no restriction. 
 
@@ -427,13 +425,13 @@ yan \[illegible\] Śāsanari tena na riktaḥ ko ‘pi jantukaḥ ॥ 135 ॥
 
 #### Viveka on 13.135
 
-The root of understanding is that reality (vastu) which is intuition. ‘No living being’, including an animal, is \*(totally) devoid of’ the reality which is intuitive insight. It would not be possible otherwise to explain its skill in engaging in the activity that is appropriate to its own (nature). Thus it is said that: ‘it is that due to which (the various ways they) behave are made known, even to animals.” 14 
+The root of understanding is that reality (vastu) which is intuition. ‘No living being’, including an animal, is \*(totally) devoid of’ the reality which is intuitive insight. It would not be possible otherwise to explain its skill in engaging in the activity that is appropriate to its own (nature). Thus it is said that: ‘it is that due to which (the various ways they) behave are made known, even to animals.”[^415] 
 
-414?\. See below, 13/147-148 and 23/7-10 and Jayaratha’s reference to 4/40ab-41cd where this type of teacher is also termed sāṁsiddhika.
+[^413]: See below, 13/147-148 and 23/7-10 and Jayaratha’s reference to 4/40ab-41cd where this type of teacher is also termed sāṁsiddhika.
 
-415?\. Above, 4/40cd-41ab.
+[^414]: Above, 4/40cd-41ab.
 
-416?\. Also quoted above in TĀv ad 11/66-67ab. Read with Th riryañcām for tiraścām. Intuition is not the exclusive endowment of one or other person, but exists in a more or less intense form in every sentient being. Animals possess this intuition in the form we call ‘instinct’.
+[^415]: Also quoted above in TĀv ad 11/66-67ab. Read with Th riryañcām for tiraścām. Intuition is not the exclusive endowment of one or other person, but exists in a more or less intense form in every sentient being. Animals possess this intuition in the form we call ‘instinct’.
 
 
 *[p. 208]* ^pg230
@@ -482,7 +480,7 @@ An unsteady understanding (of the teachings) becomes steady for some people by i
 
 understanding becomes firm with the help of) reasoning and the like is one who 
 
-does need support (sabhittika).'” 
+does need support (sabhittika).[^416] 
 
 Surely (one may ask), is there any difference in the fruit (of insight)? With this doubt in mind, he says: 
 
@@ -518,19 +516,19 @@ As was said before:
 
 ‘He who has worshipped (his) teacher with devotion by any (befitting) means knows the purport of the scriptures through the series of initiations (dīkṣākrama) (the teacher gives him). Then, once he has obtained consecration (abhiṣeka), he becomes a ‘created’ (kalpita) teacher. However, even though he is such (and not one who is spontaneously enlightened), he is (equally) skilled in stemming the torrent (of his disciples’) fetters. (The teacher) who attains spontaneous (ākasmika) awakened consciousness (bodha) of any matter taught in the scriptures (by practicing) in conformity with (the reality and) procedure 
 
-417?\. See above, 4/47cd-48.
+[^416]: See above, 4/47cd-48.
 
 
 *[p. 210]* ^pg232
 
-(they teach) (yathākramayogena) is one who is ‘created-cum-uncreated’. (Of these two,) his ‘uncreated’ aspect is considered to be the best (of all). "+ 
+(they teach) (yathākramayogena) is one who is ‘created-cum-uncreated’. (Of these two,) his ‘uncreated’ aspect is considered to be the best (of all).’[^417] 
 
 ### TĀ 13.140–141
 
 Initiation and the Like Not Needed for One on the Path of Intuition 
 
 न चास्य समयित्वादिक्रमो नाप्यभिषेचनम् ।
-न सन्तानादि नो विद्याव्रतं परातिभवत्मनः ॥ all).[^418] ॥।
+न सन्तानादि नो विद्याव्रतं परातिभवत्मनः ॥ all). ॥।
 आदिविद्रामहादेवस्तेनेषोऽधिष्ठितो यतः ।
 संस्कारास्तदधिष्ठानसिद्ध्चै
 
@@ -541,7 +539,7 @@ na santānādi no vidyāvratari prātibhavartmanaḥ ॥ 140 ॥
 ādividvān mahādevas tenaiṣo ‘dhiṣthito yataḥ |
 sariskārās tadadhiṣthānasiddhyai tat tasya tu svataḥ ॥ 141 ॥ 
 
-The various orders and degrees of (initiation) from the regular initiate (samayin) onwards, consecration (as a teacher), the line of teachers and the like, and (even) the Vow of Knowledge (Vidyāvrata)[^419] are not (required) for one (who proceeds) on the path of intuition. (This is so) because (such a teacher) is sustained (adhiṣthita)[^420] (directly) by the first learned one, Mahādeva (Himself). He (spontaneously possesses) by himself (svataḥ) (the inspiration required) to achieve (that for which the various) rites of purification (saṁskāra) (including initiation have been ordained). (140-141) 
+The various orders and degrees of (initiation) from the regular initiate (samayin) onwards, consecration (as a teacher), the line of teachers and the like, and (even) the Vow of Knowledge (Vidyāvrata)[^418] are not (required) for one (who proceeds) on the path of intuition. (This is so) because (such a teacher) is sustained (adhiṣthita)[^419] (directly) by the first learned one, Mahādeva (Himself). He (spontaneously possesses) by himself (svataḥ) (the inspiration required) to achieve (that for which the various) rites of purification (saṁskāra) (including initiation have been ordained). (140-141) 
 
 #### Viveka on 13.140–141
 
@@ -556,13 +554,15 @@ Direct Initiation by the Goddess and Self Purification
 देवीभिर्दीक्षितस्तेन सभक्तिः शिवशासने ।
 devībhir dīkṣitas tena sabhaktiḥ śivaśāsane | 
 
-[^418]: Above, 4/70cd-73.
-[^419]: See note to 13/148, below, 23/31-51 especially note 23,49.
-[^420]: The term adhiṣthā- is frequently used in the sense of ‘empower’, so also in Buddhist scriptures. See, for example, below, 16/15cd ff.
+[^417]: Above, 4/70cd-73.
+
+[^418]: See note to 13/148, below, 23/31-51 especially note 23,49.
+
+[^419]: The term adhiṣthā- is frequently used in the sense of ‘empower’, so also in Buddhist scriptures. See, for example, below, 16/15cd ff.
 
 *[p. 211]* ^pg233
 
-He (does not need any outer initiation, as he) has been initiated (directly) by the Goddesses," and so possesses (true) devotion for Śiva’s teaching (śivaśāsana) (transmitted in the Āgamas). (142ab) 
+He (does not need any outer initiation, as he) has been initiated (directly) by the Goddesses,[^420] and so possesses (true) devotion for Śiva’s teaching (śivaśāsana) (transmitted in the Āgamas). (142ab) 
 
 #### Viveka on 13.142
 
@@ -578,17 +578,17 @@ In this way, although he has not been formed (by another teacher), somewhere in 
 dṛdhatākampratābhedaiḥ so ‘pi svayam atha vratāt || 142 ॥
 tapojapāder gurutaḥ svasaiskāraṁi prakalpayet | 
 
-According to whether (his intuition) is variously (more or less) firm or fickle, he should celebrate his own purifying rites (that is, the initiations etc. that purify him) by the observance of a vow, and the intensity (gurutaḥ)' (of his) austerity, repetition of Mantras, and the \[illegible\] (142cd-143ab) 
+According to whether (his intuition) is variously (more or less) firm or fickle, he should celebrate his own purifying rites (that is, the initiations etc. that purify him) by the observance of a vow, and the intensity (gurutaḥ)[^421] (of his) austerity, repetition of Mantras, and the \[illegible\][^422] (142cd-143ab) 
 
 #### Viveka on 13.142–143
 
 Also, the teacher (who is illumined) by intuitive insight (prātibhaguru) is characterized according to the various types (bheda) (of empowering grace he receives,) whether intense, moderate or weak, the basis of which are (the degrees) of the firmness or fickleness (of his insight). Being such, ‘he should celebrate (his own) purificatory rites’, that is, initiation and the rest, himself, by the contemplation his own (true) nature (ātmabhāvanā), and the observance of a vow and the rest successively (in due order), or else with the assistance of (his) teacher (gurutaḥ). It is due to that that he was said previously to be a ‘uncreated-cum-created’ (akalpitakalpaka) teacher. 
 
-421?\. See above 4/42cd-43ab, 60cd-62ab and note there.
+[^420]: See above 4/42cd-43ab, 60cd-62ab and note there.
 
-422?\. According to Jayaratha, gurutaḥ means ‘with the assistance of his teacher.” But the Abhinavagupta is making here is that this kind of adept becomes a realized teacher by Siva’s grace directly by means of his practice, not by means of a teacher. Thus, it is better to understand the last line to mean that by the intensity (gurutaḥ) of his austerities, he should perform his own initiation. Cf. above 1/168 Abhinava’s interpretation of the expression ‘gurunā’ in MV 2/23 defining Śāmbhavasamāveśa, see above 1/172 and note.
+[^421]: According to Jayaratha, gurutaḥ means ‘with the assistance of his teacher.” But the Abhinavagupta is making here is that this kind of adept becomes a realized teacher by Siva’s grace directly by means of his practice, not by means of a teacher. Thus, it is better to understand the last line to mean that by the intensity (gurutaḥ) of his austerities, he should perform his own initiation. Cf. above 1/168 Abhinava’s interpretation of the expression ‘gurunā’ in MV 2/23 defining Śāmbhavasamāveśa, see above 1/172 and note.
 
-423?\. \[illegible\] An individual endowed with devotion is thus endowed with the first characteristic of a descent of grace. In this way he becomes an ‘unformed-cum-formed (akalpitakalpaka) teacher. See above 4/51-53.
+[^422]: \[illegible\] An individual endowed with devotion is thus endowed with the first characteristic of a descent of grace. In this way he becomes an ‘unformed-cum-formed (akalpitakalpaka) teacher. See above 4/51-53.
 
 
 *[p. 212]* ^pg234
@@ -607,33 +607,36 @@ by
 
 various means, (including) 
 
-contemplation (bhāvanā), meditation (dhyāna), the repeated recitation of mantra (japa), (yogic) sleep (svapna), (by observing a) vow (vrata), and (offering) oblations.” 
+contemplation (bhāvanā), meditation (dhyāna), the repeated recitation of mantra (japa), (yogic) sleep (svapna), (by observing a) vow (vrata), and (offering) oblations.”[^423] 
 
-oblations.[^424] 
+oblations. 
 
 Surely, (one may ask) what the authority (pramānṇa) here (for this view) is. With this doubt in mind, he says: 
 
 ### TĀ 13.143–144
 
-यतो वाजसिनेयाख्य उक्तं सिञ्चेत्स्वयं तनुम् ।॥। oneself.[^427] ॥
+यतो वाजसिनेयाख्य उक्तं सिञ्चेत्स्वयं तनुम् ।॥। oneself. ॥
 इत्यादयुपक्रमं यावदन्ते तत्परिनिष्ठितम् |
 अभिषिक्तो भवेदेवं न बाह्यकलशाम्बुभिः || १४४ ॥।
 yato vājasineyākhya uktaṁ siñcet svayaṁ tanum || 143 ||
 ityādy upakramari yāvad ante tatpariniṣthitam |
 abhiṣikto bhaved evaṁ na bāhyakalaśāmbubhiḥ ॥ 144 ॥ 
 
-For it is said in (the Tantra) called Vājasineya, after (the two verses) commencing with the words:[^425] ‘one should sprinkle one’s own body (with consecrated water)’ and ending with ‘(this entire universe is) established within that (mind)’. ‘He is consecrated (abhiṣikta)[^426] (as a teacher) in this way, not by the waters of (any) external (sacrificial) jar.’ (143cd-144) 
+For it is said in (the Tantra) called Vājasineya, after (the two verses) commencing with the words:[^424] ‘one should sprinkle one’s own body (with consecrated water)’ and ending with ‘(this entire universe is) established within that (mind)’. ‘He is consecrated (abhiṣikta)[^425] (as a teacher) in this way, not by the waters of (any) external (sacrificial) jar.’ (143cd-144) 
 
 #### Viveka on 13.143–144
 
 As is said there (in the Vājasineya), beginning with: 
 
-‘Having performed the sacrifice at the commencement of the observance of a vow and the repeated recitation of Mantra, and in the same way, in the end one should, according to the procedure (enjoined in the scripture), consecrate oneself.” If there is no money (to pay for the outer rite), one should 
+‘Having performed the sacrifice at the commencement of the observance of a vow and the repeated recitation of Mantra, and in the same way, in the end one should, according to the procedure (enjoined in the scripture), consecrate oneself.[^426] If there is no money (to pay for the outer rite), one should 
 
-[^424]: Above, 4/51cd-53.
-[^425]: Here Abhinava quotes the Vājasineya as stating that one may consecrate and so initiate oneself directly. This is in accord with 4/54 above, where Abhinava lists this Tantra along with the Sarvavīra, Brahmayāmala and Siddhā as teaching that a person may initiate himself. There Abhinava cites relevant passages from the Brahmayāmala and the Siddhayogeśvarīmata in 4/57cd ff. First, according to Jayaratha he quotes from the Sarvavīra. See notes to 4/55-57ab for details. These three Tantras were prominent in Abhinava’s mind as teaching this, for he refers to them again here as doing so (13/145). Just a little further ahead he refers to the commentators on the Parātrīśikā as declaring that the Parātrīśikā promotes those who gain liberating insight by themselves by the deity’s grace directly (below 13/149-150ab).
-[^426]: The word abhiṣikta- literally means ‘sprinkled’.
-[^427]: The citation reads: svena svam abhiṣecayet || Cf. siñcet svayaṁ tanum ॥ TĀ 13/143d.
+[^423]: Above, 4/51cd-53.
+
+[^424]: Here Abhinava quotes the Vājasineya as stating that one may consecrate and so initiate oneself directly. This is in accord with 4/54 above, where Abhinava lists this Tantra along with the Sarvavīra, Brahmayāmala and Siddhā as teaching that a person may initiate himself. There Abhinava cites relevant passages from the Brahmayāmala and the Siddhayogeśvarīmata in 4/57cd ff. First, according to Jayaratha he quotes from the Sarvavīra. See notes to 4/55-57ab for details. These three Tantras were prominent in Abhinava’s mind as teaching this, for he refers to them again here as doing so (13/145). Just a little further ahead he refers to the commentators on the Parātrīśikā as declaring that the Parātrīśikā promotes those who gain liberating insight by themselves by the deity’s grace directly (below 13/149-150ab).
+
+[^425]: The word abhiṣikta- literally means ‘sprinkled’.
+
+[^426]: The citation reads: svena svam abhiṣecayet || Cf. siñcet svayaṁ tanum ॥ TĀ 13/143d.
 
 *[p. 213]* ^pg235
 
@@ -641,7 +644,7 @@ imagine (it) mentally in this (ďsame) way, for this entire universe is establis
 
 And ending with: 
 
-‘Then, having meditated on the sacrificial jar (which is filled with) nectar and adorned with the lotus of energies (kalā), the wise man should imagine that his own head is flooded with it. He is consecrated in this way, not by the waters of (any) external sacrificial \[illegible\] He who is thus consecrated is fit to practice the repetition of mantra and the rest.’ 
+‘Then, having meditated on the sacrificial jar (which is filled with) nectar and adorned with the lotus of energies (kalā), the wise man should imagine that his own head is flooded with it. He is consecrated in this way, not by the waters of (any) external sacrificial \[illegible\][^427] He who is thus consecrated is fit to practice the repetition of mantra and the rest.’ 
 
 And that is not said only here (in this scripture), it is (said) elsewhere also. Thus, he says: 
 
@@ -653,19 +656,19 @@ And that is not said only here (in this scripture), it is (said) elsewhere also.
 śrīsarvavīraśrībrahmayāmalādau ca tat tathā |
 nirūpitaṁ maheśena kiyad vā likhyatām idam || 145 ॥ 
 
-This has been described in this way by the Great Lord in the venerable Sarvavīra and Brahmayāmala etc.;' (even so,) let us write a little more (on the subject). (145) 
+This has been described in this way by the Great Lord in the venerable Sarvavīra and Brahmayāmala etc.;[^428] (even so,) let us write a little more (on the subject). (145) 
 
 #### Viveka on 13.145
 
 एण), 
 
-\[illegible\] Intelligence and Imagination 
+\[illegible\][^429] Intelligence and Imagination 
 
-428?\. This sentence is reproduced verbatim by Abhinava with no variants (13/144cd). Clearly, Jayaratha is quoting from the same source, i.e. the Vājasineya.
+[^427]: This sentence is reproduced verbatim by Abhinava with no variants (13/144cd). Clearly, Jayaratha is quoting from the same source, i.e. the Vājasineya.
 
-429?\. See above, note 13,155.
+[^428]: See above, note 13,155.
 
-430?\. The following section from 13/146 to 13/187ab deals with intuitive insight —pratibhā. Abhinava’s source here is the Nandaśikhā, of which this long passage is essentially an extended citation and explanation. See Pandey (1963a: 692 ff.) for summary and discussion of this section of the Tantrāloka and a comparison between the conception of pratibhā expounded here and in the third section of the Yogasūtra, where pratibhā figures as the intelligent discernment and insight that develops through the practice of concentration. Abhinava praises Parā, the Supreme Goddess of Trika, as citpratibhā, that shines within the three domains of the subject, object and means of knowledge (1/2). It is by virtue of this creative imagination that Bhairava is free to be all things (3/65cd- 66ab). It operates at every level, as does consciousness from the highest to the lowest. Thus, it is by virtue of this that animals have instincts — the birds know when it is time to migrate and lions know the power of their claws. At the next level is the intelligence of consciousness that makes language possible. Iyer (1977: 13-14) explains that, according to Bhartṛhari (VP 2/152), the great Sanskrit grammarian and exponent of Indian cognitive linguistics: ‘The sentence — sphoṭa is the word and pratibhā its meaning. It cannot be explained to others and even the experiencer cannot explain it to himself. It is produced by the word itself or by impressions coming down from previous births. It exists in all, including animals. It is a part of Nature. The word, proximate or remote, is the cause of this Intuition ~ pratibhā. In being the cause of Intuition, the word is assisted by bhāvanā, that is, the tendency to act according to the nature of the class of beings to which one belongs. It is either inherited from previous lives or arises in this life. The causality is bhāvanā > āgama > pratibhā. By bhāvanā what is called śabdabhāvanā in the first part (khanda) (of the Vākyapadīya) seems to be meant here. Pratibhā is of six kinds depending upon its cause. (1) The first kind is caused by svabhāva, Nature. The instinctive knowledge of animals which enables them to engage in activities appropriate to their species. Punyarāja (the commentator) gives the example of the monkey and its activities. (2) The second cause of pratibhā is carana, that is, one’s own branch of the Veda. The Intuition of Vasiṣtha and others who acquired special illumination by strictly observing the prescriptions of their Vedic school is given as the example. (3) The next cause of Intuition is abhyāsa — practice. The knowledge of those who can tell where water can be found for digging a well or a tank is given as the example (VP 2/152 and the vytti thereon). It requires long practice before one can become an expert in such predictions. Another example of abhyāsa or practice is the knowledge of experts who can tell the genuineness of precious stones and of coins. (4) The next cause of Intuition is said to be yoga. It id that through yoga one can know what is going on in the mind of others. (5) What is called adṛṣtṭa is mentioned next as the cause of Intuition. It is an invisible power generated by one’s own deeds in previous lives. It is the power to confer special knowledge on others. The example given in the commentary (vṛtti) is the power of Rakṣas and icas which enables them to enter the body of others and to make themselves invisible. (6) Lastly there is the Intuition caused by the grace of a special person (viśistopahita). The example given is that of the special knowledge which Vyāsa gave to Sañjaya and others at the time of the Mahābhārata war so that they could see the war, scattered over a big area, in its totality and in its details.’ Pratibhā is all these things and more — here Abhinava concentrates on that aspect that is most important for the seekers of liberation, namely that it is the intuitive insight which develops initially as discernment and discrimination to become liberating illumination. It is attained in all its fullness at the culmination of the purification of thought constructs through Sound Intuitive Reasoning (sattarka) and contemplation (bhāvanā) that begins in the domain of the Empowered Means to culminate in Śāmbhava state free of thought constructs.
+[^429]: The following section from 13/146 to 13/187ab deals with intuitive insight —pratibhā. Abhinava’s source here is the Nandaśikhā, of which this long passage is essentially an extended citation and explanation. See Pandey (1963a: 692 ff.) for summary and discussion of this section of the Tantrāloka and a comparison between the conception of pratibhā expounded here and in the third section of the Yogasūtra, where pratibhā figures as the intelligent discernment and insight that develops through the practice of concentration. Abhinava praises Parā, the Supreme Goddess of Trika, as citpratibhā, that shines within the three domains of the subject, object and means of knowledge (1/2). It is by virtue of this creative imagination that Bhairava is free to be all things (3/65cd- 66ab). It operates at every level, as does consciousness from the highest to the lowest. Thus, it is by virtue of this that animals have instincts — the birds know when it is time to migrate and lions know the power of their claws. At the next level is the intelligence of consciousness that makes language possible. Iyer (1977: 13-14) explains that, according to Bhartṛhari (VP 2/152), the great Sanskrit grammarian and exponent of Indian cognitive linguistics: ‘The sentence — sphoṭa is the word and pratibhā its meaning. It cannot be explained to others and even the experiencer cannot explain it to himself. It is produced by the word itself or by impressions coming down from previous births. It exists in all, including animals. It is a part of Nature. The word, proximate or remote, is the cause of this Intuition ~ pratibhā. In being the cause of Intuition, the word is assisted by bhāvanā, that is, the tendency to act according to the nature of the class of beings to which one belongs. It is either inherited from previous lives or arises in this life. The causality is bhāvanā > āgama > pratibhā. By bhāvanā what is called śabdabhāvanā in the first part (khanda) (of the Vākyapadīya) seems to be meant here. Pratibhā is of six kinds depending upon its cause. (1) The first kind is caused by svabhāva, Nature. The instinctive knowledge of animals which enables them to engage in activities appropriate to their species. Punyarāja (the commentator) gives the example of the monkey and its activities. (2) The second cause of pratibhā is carana, that is, one’s own branch of the Veda. The Intuition of Vasiṣtha and others who acquired special illumination by strictly observing the prescriptions of their Vedic school is given as the example. (3) The next cause of Intuition is abhyāsa — practice. The knowledge of those who can tell where water can be found for digging a well or a tank is given as the example (VP 2/152 and the vytti thereon). It requires long practice before one can become an expert in such predictions. Another example of abhyāsa or practice is the knowledge of experts who can tell the genuineness of precious stones and of coins. (4) The next cause of Intuition is said to be yoga. It id that through yoga one can know what is going on in the mind of others. (5) What is called adṛṣtṭa is mentioned next as the cause of Intuition. It is an invisible power generated by one’s own deeds in previous lives. It is the power to confer special knowledge on others. The example given in the commentary (vṛtti) is the power of Rakṣas and icas which enables them to enter the body of others and to make themselves invisible. (6) Lastly there is the Intuition caused by the grace of a special person (viśistopahita). The example given is that of the special knowledge which Vyāsa gave to Sañjaya and others at the time of the Mahābhārata war so that they could see the war, scattered over a big area, in its totality and in its details.’ Pratibhā is all these things and more — here Abhinava concentrates on that aspect that is most important for the seekers of liberation, namely that it is the intuitive insight which develops initially as discernment and discrimination to become liberating illumination. It is attained in all its fullness at the culmination of the purification of thought constructs through Sound Intuitive Reasoning (sattarka) and contemplation (bhāvanā) that begins in the domain of the Empowered Means to culminate in Śāmbhava state free of thought constructs.
 
 
 *[p. 214]* ^pg236
@@ -678,17 +681,17 @@ This has been described in this way by the Great Lord in the venerable Sarvavīr
 \[illegible\] prātibhavijñānari kim ki kasya na sādhayet |
 yat prātibhād vā sarvar cety ūce śeṣamahāmuniḥ || 146 || 
 
-What indeed does such knowled; gel born of intuition, not achieve for anybody in this way? As the great sage i.e. Patañjali) has said: ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā).[^431] (146) 
+What indeed does such knowled; gel born of intuition, not achieve for anybody in this way? As the great sage i.e. Patañjali) has said: ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā).[^430] (146) 
 
 #### Viveka on 13.146
 
-[^431]: YSū 3/33, also quoted in MVV 1/184ab, where Abhinava offers his own explanation: tathā hi patañjalinā pāde vaibhūtanāmani 1118311 nyarūpyata prātibhād vā sarvam atra mayāpi ca | prātibhe prathamonmeṣe saṁvidrūpiny akhandite || 184 ॥ sthitaḥ sarvasphurattātmā sarvasiddhiphalodayaḥ | ‘Patañjali has said the same here (in this regard) in the section (of the Yogasūtra) called ‘concerning yogic powers’ (vibhūti) ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā) , and so have I. The dawning of the fruit which is all the (yogic) accomplishments (siddhi) and nature the effulgent radiance (sphurattā) of all things is located within the first unfolding of intuitive insight which is (pure) undivided consciousness (that heralds perception). MVV 1/183cd-185ab
+[^430]: YSū 3/33, also quoted in MVV 1/184ab, where Abhinava offers his own explanation: tathā hi patañjalinā pāde vaibhūtanāmani 1118311 nyarūpyata prātibhād vā sarvam atra mayāpi ca | prātibhe prathamonmeṣe saṁvidrūpiny akhandite || 184 ॥ sthitaḥ sarvasphurattātmā sarvasiddhiphalodayaḥ | ‘Patañjali has said the same here (in this regard) in the section (of the Yogasūtra) called ‘concerning yogic powers’ (vibhūti) ‘or else (the Yogi discerns) all by (the power of) intuition (pratibhā) , and so have I. The dawning of the fruit which is all the (yogic) accomplishments (siddhi) and nature the effulgent radiance (sphurattā) of all things is located within the first unfolding of intuitive insight which is (pure) undivided consciousness (that heralds perception). MVV 1/183cd-185ab
 
 *[p. 215]* ^pg237
 
 ‘As’ etc. is the statement of an authority (pramāna). ‘(The sage) has said’ in Patañjali’s sūtras. 
 
-Some disagree here (on this matter), for this (consecration, they say,) cannot be the cause of obtaining the full accomplishment (of the authorization that a teacher would require to perform all the rites) (sarvasaṁpattihetu).[^432] Thus, he says: 
+Some disagree here (on this matter), for this (consecration, they say,) cannot be the cause of obtaining the full accomplishment (of the authorization that a teacher would require to perform all the rites) (sarvasaṁpattihetu).[^431] Thus, he says: 
 
 ### TĀ 13.147–148
 
@@ -703,14 +706,15 @@ anye tv āhur akāmasya prātibho gurur īdṛśaḥ |
 sāmagrījanyatā kāmye tenāsmin saṁskṛto guruḥ ॥ 147 ॥ niyater mahimā naiva phale sādhye nivartate |
 abhiṣiktaś cīrṇavidyāvratas tena phalapradaḥ ॥ 148 ॥ 
 
-Others say that a teacher such as this. who possesses (this) direct intuition (pratibhā), is (good) for one who has no desires (and so aspires to liberation). (However, in order to perform the rites) to fulfil particular intentions (kāmya), a teacher (is required) who has undergone the appropriate (empowering) purifying rites (saṁskṛta). This is because (intentional rites) are generated from a complex (sāmagrī) (of ritual procedures by the teacher, who must be initiated and an expert to apply them).[^433] (The production of this or that) result (one wishes) to achieve (sādhya) never escapes the power of the constraint (of Karma) (niyati). So (only a teacher) who has been properly consecrated and regularly observed 
+Others say that a teacher such as this. who possesses (this) direct intuition (pratibhā), is (good) for one who has no desires (and so aspires to liberation). (However, in order to perform the rites) to fulfil particular intentions (kāmya), a teacher (is required) who has undergone the appropriate (empowering) purifying rites (saṁskṛta). This is because (intentional rites) are generated from a complex (sāmagrī) (of ritual procedures by the teacher, who must be initiated and an expert to apply them).[^432] (The production of this or that) result (one wishes) to achieve (sādhya) never escapes the power of the constraint (of Karma) (niyati). So (only a teacher) who has been properly consecrated and regularly observed 
 
-[^432]: verse of Utpaladeva’s Īśvarapratyabhijñā. Recognition - pratyabhijñā — is also a direct, immediate means to realisation that Abhinava understands to be the equivalent of immediate realisation brought about by the descent of an intense power of grace taught in the Trika and other elevated Tantras. katharhicid āsādya maheśvarasya dāsyaṁ janasyāpy upakāram icchan samastasaṁpatsamavāptihetuṁ tatpratyabhijñām upapādayāmi || “Having in some way attained the condition of a servant of Maheśvara, desiring also to help others, I am expounding (the Doctrine of) Recognition which is the cause of the acquisition of all good fortune.’ \[illegible\] 1/1/1
-[^433]: Abhinavagupta criticizes this view also below in 23/7-10.
+[^431]: verse of Utpaladeva’s Īśvarapratyabhijñā. Recognition - pratyabhijñā — is also a direct, immediate means to realisation that Abhinava understands to be the equivalent of immediate realisation brought about by the descent of an intense power of grace taught in the Trika and other elevated Tantras. katharhicid āsādya maheśvarasya dāsyaṁ janasyāpy upakāram icchan samastasaṁpatsamavāptihetuṁ tatpratyabhijñām upapādayāmi || “Having in some way attained the condition of a servant of Maheśvara, desiring also to help others, I am expounding (the Doctrine of) Recognition which is the cause of the acquisition of all good fortune.’ \[illegible\] 1/1/1
+
+[^432]: Abhinavagupta criticizes this view also below in 23/7-10.
 
 *[p. 216]* ^pg238
 
-the Vow of Knowledge (vidyāvrata)"“ can give (the disciple) good results (phalaprada). (147-148) 
+the Vow of Knowledge (vidyāvrata)[^433] can give (the disciple) good results (phalaprada). (147-148) 
 
 #### Viveka on 13.147–148
 
@@ -725,7 +729,7 @@ According to the Trīs 52504, Spontaneous (sāṁsiddhika) Insight \[illegible\]
 ### TĀ 13.149–151
 
 असदेतदिति प्रहुरगुरवस्ततत्वदशीनः ।
-्रीसोमानन्दकल्याणभवभूतिपुरोगमाः ॥ (vidydvrata)[^434] ॥
+्रीसोमानन्दकल्याणभवभूतिपुरोगमाः ॥ (vidydvrata) ॥
 तथाहि त्ीशिकाशाखविवृतौ तेऽभ्यधरबुधाः ।
 सांसिद्धिकं यद्रिजञानं तच्चिन्तारत्नमुच्यते ।। १५० ॥
 तदभावे तदर्थं तदाहतं ज्ञानमादृतम् ।
@@ -738,11 +742,11 @@ tadabhāve tadarthaṁ tadāhṛtaṁ jñānam ādṛtam |
 
 (Our) teachers who know the truth, led by the venerable Somānanda, Kalyāṇa, and Bhavabhūti, say that this is untrue. These sages 
 
-[^434]: The Vow of Knowledge involves the constant repetition of a Vidyā (i.e. a Mantra dedicated to a goddess) as the adept (vīra) undertakes a pilgrimage to sacred sites seeking to meet a Yoginī who will bestow boons on him and liberate him. This is practically a unique reference to a common practice taught in the Kaula Tantras. There it enjoys a special place of honour as a practice that has direct Kāpālika roots. See Dyczkowski 2009: vol. 1, 517-528 and vol. 3, 324-326 for an extensive exposition. Meant primarily for renunciate wondering ascetics, Abhinava here relegates it to the level of a kāmya procedure that can lead only to the acquisition of Siddhis, not liberation.
+[^433]: The Vow of Knowledge involves the constant repetition of a Vidyā (i.e. a Mantra dedicated to a goddess) as the adept (vīra) undertakes a pilgrimage to sacred sites seeking to meet a Yoginī who will bestow boons on him and liberate him. This is practically a unique reference to a common practice taught in the Kaula Tantras. There it enjoys a special place of honour as a practice that has direct Kāpālika roots. See Dyczkowski 2009: vol. 1, 517-528 and vol. 3, 324-326 for an extensive exposition. Meant primarily for renunciate wondering ascetics, Abhinava here relegates it to the level of a kāmya procedure that can lead only to the acquisition of Siddhis, not liberation.
 
 *[p. 217]* ^pg239
 
-have declared in (their) commentaries on the Trīśikāśāstra[^435] that that spontaneous (sāmsiddhika) insight (vijñāna) is said to be the (true) wish-granting gem. When that is absent, the (common) knowledge procured (in other ways) has that (higher intuitive knowledge) as its purpose, (and so) is respected (as is that knowledge). (149-151ab) 
+have declared in (their) commentaries on the Trīśikāśāstra[^434] that that spontaneous (sāmsiddhika) insight (vijñāna) is said to be the (true) wish-granting gem. When that is absent, the (common) knowledge procured (in other ways) has that (higher intuitive knowledge) as its purpose, (and so) is respected (as is that knowledge). (149-151ab) 
 
 #### Viveka on 13.149–151
 
@@ -771,15 +775,15 @@ avidhijño vidhānajño jāyate yajanari prati ॥ 153 ॥
 ityādibhis trīśikoktair vākyair māheśvaraiḥ sphutam |
 jṁñānam dīkṣādisamskārasatattvam iti varnitam || 154 ॥ 
 
-[^435]: This is the Parātrīśikā. Abhinava tells us at the end of his commentary on the Parātrīśika that he wrote it after having very carefully studied one by Somānanda (śrīsomānandamataṁ vimṛśya mayā nibaddham idam ॥ PTv p.282). Passages from Somānanda’s commentary (vivṛtti) are quoted, and it is referenced at least eleven times by Abhinava in his PTv at pp. 16, 41, 52 and 59, 63, 90, 92, 99, 119, 207, and 268. We know nothing about Kalyāṇa or Bhavabhūti.
+[^434]: This is the Parātrīśikā. Abhinava tells us at the end of his commentary on the Parātrīśika that he wrote it after having very carefully studied one by Somānanda (śrīsomānandamataṁ vimṛśya mayā nibaddham idam ॥ PTv p.282). Passages from Somānanda’s commentary (vivṛtti) are quoted, and it is referenced at least eleven times by Abhinava in his PTv at pp. 16, 41, 52 and 59, 63, 90, 92, 99, 119, 207, and 268. We know nothing about Kalyāṇa or Bhavabhūti.
 
 *[p. 218]* ^pg240
 
-“He who knows“ this in truth has (received) the (true) initiation, which, devoid of (outer offerings such as) sesame seeds, clarified butter 
+“He who knows[^435] this in truth has (received) the (true) initiation, which, devoid of (outer offerings such as) sesame seeds, clarified butter 
 
-(and the like), is sure, and leads to Nirvāṇa.”"” 
+(and the like), is sure, and leads to Nirvāṇa.”[^436] 
 
-“He who knows this in reality, although he has not seen the Mandala, always possesses (every) accomplishment (siddhi). He (is a true) yogi and (true) initiate, and, with respect to the sacrifice, (although) he does not know the procedure, he becomes one who (truly) does.” \[illegible\] 
+“He who knows this in reality, although he has not seen the Mandala, always possesses (every) accomplishment (siddhi). He (is a true) yogi and (true) initiate, and, with respect to the sacrifice, (although) he does not know the procedure, he becomes one who (truly) does.” \[illegible\][^437] 
 
 These and other things the Great Lord says in the Parātrīśikā clearly declare that insight \[illegible\] is the true (and essential) nature of (all) the purifying rites, including initiation. (151cd-154) 
 
@@ -797,7 +801,7 @@ The insight which has as its instigating cause initiation and other (rituals) is
 jñānopāyas tu dīkṣādikriyā jṁñānaviyoginām |
 ity etad adhunaivāstā svaprastāve bhaviṣyati | 155 ॥ 
 
-Initiation and other such ritual action is the means to (attain this) insight (jñāna) for those who do not possess it. Let this suffice for the moment. This (subject) will (be discussed at length) in its own appropriate place.” (155) 
+Initiation and other such ritual action is the means to (attain this) insight (jñāna) for those who do not possess it. Let this suffice for the moment. This (subject) will (be discussed at length) in its own appropriate place.[^438] (155) 
 
 #### Viveka on 13.155
 
@@ -805,13 +809,13 @@ Initiation and other such ritual action is the means to (attain this) insight (j
 
 Surely (one may ask), in this way, the means of knowledge, which is the instigating cause that serves to make true knowledge manifest, is also like 
 
-436?\. Read with the printed edition of the PTv vetti for veda.
+[^435]: Read with the printed edition of the PTv vetti for veda.
 
-437?\. PT 25.
+[^436]: PT 25.
 
-438?\. PT 18cd-20. 18cd is quoted below in TĀv ad Sab.
+[^437]: PT 18cd-20. 18cd is quoted below in TĀv ad Sab.
 
-439?\. Abhinava teaches ritual procedure from Chapter Fifteen onwards.
+[^438]: Abhinava teaches ritual procedure from Chapter Fifteen onwards.
 
 
 *[p. 219]* ^pg241
@@ -828,7 +832,7 @@ pratibhā param evaiṣā sarvakāmadughā yataḥ | 156 ॥
 
 (Other) means of knowledge (pramāna), such as the teacher or the scriptures, are indeed means (to realization, although only indirectly,) but (personal) intuition (pratibhā) is the supreme (means), for it is (like) the cow 
 
-of plenty who fulfils all desires.” (156) 
+of plenty who fulfils all desires.[^439] (156) 
 
 #### Viveka on 13.156
 
@@ -850,7 +854,7 @@ It is well established here and there (in various places in the scriptures) that
 
 The ‘process’ of association of the Individual and the other means (to realisation), that is, their mutual relationship, which is, for example, the Individual (means) (āṇava) present in the Empowered (śākta) and the 
 
-440?\. Above in 4/14, Abhinava describe bhāvanā, which is equivalent to sattarka, as the cow of plenty who fulfils all desires. Attention (sāvadhāntā) to the relationship between subject and object is also extolled in the same way (see 10/204). The basic triad of teacher, scripture and personal insight as sources of knowledge, see above 4/78cd-79.
+[^439]: Above in 4/14, Abhinava describe bhāvanā, which is equivalent to sattarka, as the cow of plenty who fulfils all desires. Attention (sāvadhāntā) to the relationship between subject and object is also extolled in the same way (see 10/204). The basic triad of teacher, scripture and personal insight as sources of knowledge, see above 4/78cd-79.
 
 
 *[p. 220]* ^pg242
@@ -875,7 +879,7 @@ As is said:
 
 ‘That teacher who, even though uncreated (akalpita), has by the confirmation (obtained) from other (teachers or scriptures) strengthened (his conviction of the genuineness of his enlightenment), and is thus further purified, 
 
-is Bhairava in person (sākṣāt).” 
+is Bhairava in person (sākṣāt).”[^440] 
 
 (This) intuition (pratibhā) arises in this way in progressively higher forms by virtue of the wonderful diversity of the external means (to realisation) of the descent of the power (of grace). It is due to this that the moderately-intense (madhyatīvra) descent of the power (of grace) is also variously divided into its intense and other varieties (bheda). 
 
@@ -889,14 +893,14 @@ pratibhodeti khadyotaratnatārendusūryavat || 159 ||
 
 Intuition (pratibhā) arises for some (rare person) in order to liberate just him (and then, with heightening degrees of intensity,) the entire universe, just as (the amount of light emitted by) a firefly, jewel, star, 
 
-441?\. Above, 4/76cd-77ab. Also quoted in TĀv ad 13/251-253ab.
+[^440]: Above, 4/76cd-77ab. Also quoted in TĀv ad 13/251-253ab.
 
 
 *[p. 221]* ^pg243
 
 moon and sun (are progressively greater, so is the illuminating light of 
 
-these yogis). (159) 
+these yogis).[^441] (159) 
 
 #### Viveka on 13.159
 
@@ -916,24 +920,22 @@ is Attained and One Becomes a Teacher
 tataḥ prātibhasaṁvittyai śāstram asmatkṛtaṁ tv idam |
 yo ‘bhyasyet sa gurur naiva vastvarthā hi vidambakāḥ ॥ 160 ॥ 
 
-Thus, whoever practices (the study) of this treatise (śāstra) I have written in order to (attain this) intuitive consciousness (prātibhasaṁvitti) becomes a (true) teacher. Facts (vastvartha) are not conceits.' (160) 
+Thus, whoever practices (the study) of this treatise (śāstra) I have written in order to (attain this) intuitive consciousness (prātibhasaṁvitti) becomes a (true) teacher. Facts (vastvartha) are not conceits.[^442] (160) 
 
 #### Viveka on 13.160
 
 ‘Thus’, for this reason, namely, because intuition arises with progressively higher (degrees of intensity), one should dedicate oneself to practice (the study) of ‘this treatise I have written’ called ‘Tantrāloka’ in 
 
-442?\. Swami Lakshmanjoo’s explanation of this verse in Kashmiri Shaivism: the Secret Supreme (2003) is as follows. ‘As the light bug has sufficient light to show his own body, there are those yogis who, like jewels, shine so much that their light illumines those that are near them. Those yogis that shine like stars illumine even more with their light. Those that shine like the moon illuminate still more. But the Śaivite yogi established in śāmbhavopāya, is just like the sun — he lights the whole universe.” Swami Lakshmanjoo translates this verse as follows: ‘Enlightenment dawns in some for their own salvation, but in others for the liberation of the entire universe — just as a firefly, a jewel, a star, the moon (reflect the light in differing degrees), but the sun (enlightens everything). Some have suggested that this is an important place where Abhinava refers to universal salvation, but the context may not support this interpretation. He is expounding the levels and degrees of realisation and grace of teachers of various orders. Liberation just for oneself is not the most advanced stage. The measure of the excellence of liberation is both the manner it is attained and the degree to which it is transmitted to others.
+[^441]: Swami Lakshmanjoo’s explanation of this verse in Kashmiri Shaivism: the Secret Supreme (2003) is as follows. ‘As the light bug has sufficient light to show his own body, there are those yogis who, like jewels, shine so much that their light illumines those that are near them. Those yogis that shine like stars illumine even more with their light. Those that shine like the moon illuminate still more. But the Śaivite yogi established in śāmbhavopāya, is just like the sun — he lights the whole universe.” Swami Lakshmanjoo translates this verse as follows: ‘Enlightenment dawns in some for their own salvation, but in others for the liberation of the entire universe — just as a firefly, a jewel, a star, the moon (reflect the light in differing degrees), but the sun (enlightens everything). Some have suggested that this is an important place where Abhinava refers to universal salvation, but the context may not support this interpretation. He is expounding the levels and degrees of realisation and grace of teachers of various orders. Liberation just for oneself is not the most advanced stage. The measure of the excellence of liberation is both the manner it is attained and the degree to which it is transmitted to others.
 
-443?\. Hanneder (1998) translates: ‘for this reason, whoever studies this śāstra composed by us, in order to get an intuitive knowledge of consciousness, becomes a teacher. This is no boasting, but the truth.”
+[^442]: Hanneder (1998) translates: ‘for this reason, whoever studies this śāstra composed by us, in order to get an intuitive knowledge of consciousness, becomes a teacher. This is no boasting, but the truth.”
 
 
 *[p. 222]* ^pg244
 
 order to become aware of the intuitive sense (prātibhatva) (inherent in consciousness). (One who has done this) first is, by virtue of the complete (and perfect) consciousness (he attains thereby), a teacher (born of) intuition. (He is such that) everybody (else) may also become of that same nature just by the fall of (his) gaze (upon them). As was said before: 
 
-‘Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt). He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava;\* what wonder is it if by his (mere) glance, individual souls (also) attain Bhairava’s state? 
-
-"75 
+‘Thus, the wise man who constantly (and assiduously) practices these thirty-seven chapters becomes Bhairava Himself in person (directly visible) (sākṣāt). He whose awakened understanding of the thirty-seven (chapters) is perfectly complete (and His perfectly full consciousness (pervades) within the thirty-seven (principles)) is Bhairava;[^443] what wonder is it if by his (mere) glance, individual souls (also) attain Bhairava’s state?’[^444] 
 
 Surely, (someone may object,) is it not a great disgrace to praise one’s own work in this way? With this doubt in mind, he says that ‘facts (vastvartha) are not conceits’. 
 
@@ -949,19 +951,19 @@ Disciples with Mild Grace Depend on Others
 paropajīvitābuddhyā sarva itthaṁ na bhāsate |
 taduktyā na vinā vetti śaktipātasya māndyataḥ ॥ 161 ॥ 
 
-Not all (disciples) shine in this way (with intuition), because their understanding (buddhi) depends on others (and they know 10). Without the words of others they know (nothing), because the descent of the power (of grace they have) is mild. (161) 
+Not all (disciples) shine in this way (with intuition), because their understanding (buddhi) depends on others (and they know 10).[^445] Without the words of others they know (nothing), because the descent of the power (of grace they have) is mild. (161) 
 
 #### Viveka on 13.161
 
-Everybody acts depending on others,” because otherwise, without being dependent on others, it is not possible (for them to do so). Thus (not everybody) ‘shines in this way’, that is, possesses (this power of) intuition in the manner stated previously. Apart from what (he has been told) by others, (such a disciple) knows nothing, as the descent of the power (of grace he has 
+Everybody acts depending on others,[^446] because otherwise, without being dependent on others, it is not possible (for them to do so). Thus (not everybody) ‘shines in this way’, that is, possesses (this power of) intuition in the manner stated previously. Apart from what (he has been told) by others, (such a disciple) knows nothing, as the descent of the power (of grace he has 
 
-444?\. The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
+[^443]: The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
 
-445?\. TĀ 1/286-287 (284cd-286ab) also quoted below in TĀv ad 37/32-33ab.
+[^444]: TĀ 1/286-287 (284cd-286ab) also quoted below in TĀv ad 37/32-33ab.
 
-446?\. \[illegible\] The expression paropajīvitābuddhyā can mean both ‘because (their) understanding (buddhi) depends on others’ and ‘because they understand (buddhi) that they depend on others’ In other words, the intuitive insight of the great majority of disciples is weak and so, aware of that, they depend on others to understand the meaning of the scriptures.
+[^445]: \[illegible\] The expression paropajīvitābuddhyā can mean both ‘because (their) understanding (buddhi) depends on others’ and ‘because they understand (buddhi) that they depend on others’ In other words, the intuitive insight of the great majority of disciples is weak and so, aware of that, they depend on others to understand the meaning of the scriptures.
 
-447?\. Read upajīvito for upajīvituṁ.
+[^446]: Read upajīvito for upajīvituṁ.
 
 
 *[p. 223]* ^pg245
@@ -989,7 +991,7 @@ All this has been clearly explained in various scriptures. (162ab)
 kiraṇāyār \[illegible\] ca gurutaḥ śāstrataḥ svataḥ ॥ 162 ॥
 jṁñānayogyās tathā kecic caryāyogyās tathāpare | 
 
-It has been said in this same way in the Kiraṇā (that knowledge is acquired) from the teacher, scripture and oneself. So also, some are suited (to seek) knowledge, whereas some to (the practice of) religious observance (caryā).[^448] (162cd-163ab) 
+It has been said in this same way in the Kiraṇā (that knowledge is acquired) from the teacher, scripture and oneself. So also, some are suited (to seek) knowledge, whereas some to (the practice of) religious observance (caryā).[^447] (162cd-163ab) 
 
 #### Viveka on 13.162–163
 
@@ -997,7 +999,7 @@ The words ‘so also’ suggest that, moreover, some are fit for Yoga and some f
 
 Surely, (one may object: alright,) let this knowledge that depends on the teacher and the scripture and is established to be means (siddhasādhana) arise (as you say it does). That is proved (to be so just) by worldly experience (lokataḥ); so what is the use of presenting an authority here (to establish that)? Again, what is the authority (for the view) that for some (people) it arises spontaneously? With this doubt in mind, he says: 
 
-[^448]: The analogy in this case is based on the fact that people are of various dispositions. Thus, some find it easier to learn from one or other of these sources. Similarly, the pursuit of insight suits some whereas the practice of right conduct suits others better as their primary means to spiritual development. Observe how Abhinava makes this point simply by combining two lines from the Kiranatantra. 13/162b corresponds to KiT 1/9/13cd. The same is quoted above in 4/41cd, 78cd-79ab. 13/163ab is KiT 1/6/7cd. Abhinava quotes the same line without variants again, to make the same point in a different context in 15/18ab. In TĀv ad 15/18 Jayaratha quotes KiT 1/6/6-7. Instead of kecid — ‘some’ the editions of the KiT and Jayaratha’s citation read cānye ‘and others’.
+[^447]: The analogy in this case is based on the fact that people are of various dispositions. Thus, some find it easier to learn from one or other of these sources. Similarly, the pursuit of insight suits some whereas the practice of right conduct suits others better as their primary means to spiritual development. Observe how Abhinava makes this point simply by combining two lines from the Kiranatantra. 13/162b corresponds to KiT 1/9/13cd. The same is quoted above in 4/41cd, 78cd-79ab. 13/163ab is KiT 1/6/7cd. Abhinava quotes the same line without variants again, to make the same point in a different context in 15/18ab. In TĀv ad 15/18 Jayaratha quotes KiT 1/6/6-7. Instead of kecid — ‘some’ the editions of the KiT and Jayaratha’s citation read cānye ‘and others’.
 
 *[p. 224]* ^pg246
 
@@ -1011,7 +1013,7 @@ Discrimination (viveka) Bestows Knowledge Born of Intuition (prātibha), the Sup
 śrīmannandiśikhātantre vitaty aitan nirūpitam | 163 I|
 praśnottaramukheneti tad abhagnaṁ nirūpyate | 
 
-This has been explained at length in the venerable Nandiśsikhātantra by means of (a series of) questions and answers, which will (now) be stated in full.” (163cd-164ab) 
+This has been explained at length in the venerable Nandiśsikhātantra by means of (a series of) questions and answers, which will (now) be stated in full.[^448] (163cd-164ab) 
 
 #### Viveka on 13.163–164
 
@@ -1025,7 +1027,7 @@ This has been explained at length in the venerable Nandiśsikhātantra by means 
 anirdeśyaḥ śivas tatra ko ‘bhyupāyo nirūpyatām ॥ 164 ॥
 iti praśne kṛte devyā śrīmāñ chanbhur nyarūpayat | 
 
-The goddess asked: ‘Śiva cannot be described (or taught) (anirdeśya), (50) pray tell me what is the means there (in that case to attain him)?’ To which the venerable” Śambhu (replied,) saying (the following). (164cd-165ab) 
+The goddess asked: ‘Śiva cannot be described (or taught) (anirdeśya), (50) pray tell me what is the means there (in that case to attain him)?’ To which the venerable[^449] Śambhu (replied,) saying (the following). (164cd-165ab) 
 
 #### Viveka on 13.164–165
 
@@ -1040,9 +1042,9 @@ What did he say? He says:
 उपायोऽत्र विवेकंकः स हि हेयं विहापयन् ।। १६५ ॥
 ददात्यस्य च सुश्रोणि प्रातिभं ज्ञानमुत्तमम् |
 
-449?\. Abhinavagupta invokes the authority of this scripture to strengthen his position and has a valid means of proving that this self-evoked initiation exists and that this is its nature. Abhinava closely paraphrases the Nandiśikhātantra from line 164cd to 195. Jayaratha quotes the original in his commentary as he goes along.
+[^448]: Abhinavagupta invokes the authority of this scripture to strengthen his position and has a valid means of proving that this self-evoked initiation exists and that this is its nature. Abhinava closely paraphrases the Nandiśikhātantra from line 164cd to 195. Jayaratha quotes the original in his commentary as he goes along.
 
-450?\. Abhinava is quoting from a Tantra and so Śambhu here clearly means Śiva, not Sambhunātha, his Trika teacher; even so, Abhinava prefixes the name with the honorific appellative śrīmat, as would normally be done in the case of a person, not a deity.
+[^449]: Abhinava is quoting from a Tantra and so Śambhu here clearly means Śiva, not Sambhunātha, his Trika teacher; even so, Abhinava prefixes the name with the honorific appellative śrīmat, as would normally be done in the case of a person, not a deity.
 
 
 *[p. 225]* ^pg247
@@ -1054,7 +1056,7 @@ dadāty asya ca suśroni prātibhaṁ jñānam uttamam |
 
 #### Viveka on 13.165–166
 
-‘The sole (means to realise Him) is discrimination (viveka)’. Discrimination is the sole (means, in the sense that it is) the main (and most fundamental one). Discrimination is self-awareness (svaparāmarśa). This is the meaning. ‘What should be abandoned’ are the phenomenal things of Māyā.[^451] ‘One’ is the adept (sādhaka). 
+‘The sole (means to realise Him) is discrimination (viveka)’. Discrimination is the sole (means, in the sense that it is) the main (and most fundamental one). Discrimination is self-awareness (svaparāmarśa). This is the meaning. ‘What should be abandoned’ are the phenomenal things of Māyā.[^450] ‘One’ is the adept (sādhaka). 
 
 Then what (does he say)? He says that: 
 
@@ -1066,7 +1068,7 @@ Then what (does he say)? He says that:
 yadā pratibhayā yuktas tadā muktaś ca mocayet ॥ 166 ॥
 paraśaktinipātena dhvastamāyāmalaḥ pumān | 
 
-‘If one possesses (this) intuition, then he is (both) liberated (himself) and liberates (others). He is a person whose impurity (mala) of Māyā[^452] has been eradicated by a supreme descent of the power (of grace) (paraśaktipāta). (166cd-167ab) 
+‘If one possesses (this) intuition, then he is (both) liberated (himself) and liberates (others). He is a person whose impurity (mala) of Māyā[^451] has been eradicated by a supreme descent of the power (of grace) (paraśaktipāta). (166cd-167ab) 
 
 #### Viveka on 13.166–167
 
@@ -1076,8 +1078,9 @@ That is said there (in the Nandiśikhātantra):
 
 Surely, (it was said there) just before, that: 
 
-[^451]: Read māyīyabhāvāni for māyīṛyabhāvādi; cf. the fourth line of the quote from the Nandiśikhā in the commentary on the following verse.
-[^452]: Tt iṣ also possible to translate the expression dhvastamāyāmalaḥ as (he is a person whose) ‘Impurity and Māyā have been eradicated’. Then ‘mala’ would mean āṇavamala.
+[^450]: Read māyīyabhāvāni for māyīṛyabhāvādi; cf. the fourth line of the quote from the Nandiśikhā in the commentary on the following verse.
+
+[^451]: Tt iṣ also possible to translate the expression dhvastamāyāmalaḥ as (he is a person whose) ‘Impurity and Māyā have been eradicated’. Then ‘mala’ would mean āṇavamala.
 
 *[p. 226]* ^pg248
 
@@ -1089,7 +1092,7 @@ According to this teaching, liberation (is attained) by initiation. Now (the vie
 
 Liberation can be Attained by Both Intuition and Initiation 
 
-ननु प्राग्दीक्षया मोक्षोऽधुना तु प्रातिभात्कथम् ।। intuition.[^453] ॥।
+ननु प्राग्दीक्षया मोक्षोऽधुना तु प्रातिभात्कथम् ।। intuition. ॥।
 nanu prāg dīkṣayā mokṣo ‘dhunā tu prātibhāt katham ॥ 167 ॥ 
 
 Surely, it was (said) before that liberatio) 
@@ -1100,7 +1103,7 @@ s (attained) by initiation. How is it that now (it is said to be attained) by in
 
 ‘How is it?’ The sense (of this question is,) out of these two, which one is the means of knowledge? That is said there (in the Nandiśsikhātantra): 
 
-‘It was said before that the individual soul is liberated from the ocean of phenomenal existence by initiation. Now you are saying that that is so (evam) only because of intuition.’ How is that? O lord of the gods, is the means of knowledge (pramāna) here (in this case) intuition or initiation? O Maheśvara, enemy of Kāma, (tell) me that clearly.’ 
+‘It was said before that the individual soul is liberated from the ocean of phenomenal existence by initiation. Now you are saying that that is so (evam) only because of intuition.[^452] How is that? O lord of the gods, is the means of knowledge (pramāna) here (in this case) intuition or initiation? O Maheśvara, enemy of Kāma, (tell) me that clearly.’ 
 
 The Supreme Lord answers that (question) also. Thus, he says: 
 
@@ -1118,15 +1121,15 @@ prātibho ‘sya svabhāvas tu kevalībhāvasiddhidaḥ ॥ 169 ॥
 
 The Lord said (in response) to the goddess’s question, “O beloved, a person can be liberated by initiation or by (the direct personal knowledge that comes from) intuition. (The difference between them is only that) initiation depends on a teacher in order to liberate the fettered soul from bondage, while (the knowledge that comes from) intuition, which bestows 
 
-[^453]: Read prātibhād eva for prātibhasyeva.
+[^452]: Read prātibhād eva for prātibhasyeva.
 
 *[p. 227]* ^pg249
 
-the accomplishment of the state of isolation (kevalībhāva) (from bondage, is the fettered soul’s) own essential nature.” (168-169) 
+the accomplishment of the state of isolation (kevalībhāva) (from bondage, is the fettered soul’s) own essential nature.”[^453] (168-169) 
 
 #### Viveka on 13.168–169
 
-454?\. Note that Jayaratha does not quote the Nandisikhā here. This may simply be because Abhinava’s citation is so literal that repeating it would be redundant, but it may also not be so. We notice that in 13/177-179ab, Abhinava has quoted his source fairly literally; but even so, Jayaratha quotes it. Clearly, if Jayaratha does not quote Abhinava’s source when he has access to it, it does not necessarily mean that he doesn’t do so simply to avoid redundancy. Another possibility is that it is not from the Nandiśikhā. Maheśvarānanda, the \[illegible\] century author of the Mahārthamañjarī, did not believe that it was. Thus, he quotes TĀ 13/168cd-169, saying that it is from the Kirana (kiraṇaprakriyā) (MM p. 169). But this cannot be correct. There is no indication that the source Abhinava is quoting has changed. Moreover, the dialogue in the Nandisikhā, as Abhinava himself tells us, is between the God and the Goddess (13/164cd-165ab). In the Kirana, it is between Siva and Garuda. He introduces the citation with the following reference he says is from the Tantrāloka, but that cannot be traced in it: yac coktaṁ śrītantrāloke ~ guruhṛdayaniviṣtaḥ śaṅkaro.anugrahītā iti | ‘And as is said in the venerable Tantrāloka: ‘Śaṁkara who is present in the heart of the teacher is the bestower of grace.” He goes on to quote this passage with the following variants: MM reads baddha- for badhya- and pratibhā svasvabhāvas for pratibhā svasvabhāvas. He continues by tempering the view Abhinava is expressing to bring it in line with the standard orthodox one. Thus, he writes: iti śrīkiraṇaprakriyayā \[illegible\] svapratibhāmātraniṣpadyamāna-mokṣānubhāvānām api paryantataḥ kiñciddeśikanāthānugrahā ambhāva evety ukta bhavati | yena parameśvarasvātantryādhīna-vijrmbhite viśvasminn etadājñām antareṇa teṣāṁṁ tādṛk pratibhaiva na sańpadyate | parameśvarānupraviṣṭaśarīrasyaiva ca bhagavato deśikanāthasya dīkṣādyalaukikakriyopakṣepakṣamatvam iti | parameśvarānupraviṣta-sarīrasyaiva ca bhagavato deśikanāthasya dīkṣādyalaukikakriyopakṣepakṣamatvam iti | tasya ca kaṭākṣapāte satīty anena kevala cākṣi eva dīkṣākhyāyate | yāvad āṇavaśāktaśīmbhavākhyaprakāratrayānupraviṣtās tattaddeśa-kālasvabhāvānu-gunyādy anyatam aucityaśālinaḥ sarve ‘pi tatprakārāḥ parāmṛśyante | ‘According to the procedure (prakriyā) (taught in) the venerable Kirana, it is said that some grace from a teacher is necessary for (all) people up to (when they) experience liberation brought about by their own insight (svapratibhā) alone. Thus, the kind of insight that they possess is not attained in this universe, the unfolding of which depends upon the Supreme Lord’s freedom, without (the teacher's) permission (ājñā) (to receive it). The venerable teacher is the Lord, and his body has entered into the Supreme Lord. (Thus,) he is capable of administering supernal rites, such as initiation. (This takes place) when his gracious gaze falls upon (his disciple). By (saying this,) it is stated (that it) applies only to initiation through the eyes (cākṣuṣī dīkṣā). Whereas those who have entered into (one or other of the) modalities (of practice) called the Individual (āṇava), Empowered and Divine and those who are fit in another way, in accord with the qualities of their location, time, and nature are all also considered to be of those (three) kinds. yataḥ \[illegible\] nāma \[illegible\] anugrāhyarni praty anuveśayitum \[illegible\] svahṛdayasarivinmayī sāmbhavyādyaśeṣadīkṣānusyütā dṛkśaktir ity ākhyāyate | yad āhuḥ ~ sā ca sarvādhvasampūrṇamātrasarivid (> mātṛsamvid) abhedinā | gurunānugrahadhiyā śiṣye yad avalokanam || iti | (p. 170) tatra guror mantrodbhāvanadvārā śiṣyasya Śravaṇamātraprādhānyena kundalinīśaktyullekhanātmikā manovyāpārānu-svarūpasamāveśadāyinī dīkṣāṇavī, sandheyā sākti, sarvavikalpavaimukhyena svasvarūpāvibhinnaśambhusamāveśasvabhāvā śāmbhavīti vivekaḥ | evan Śśaktipātasya tīvratīvrataratvādayo ‘pi bhedāḥ svayam üūhanīyāh ॥ sarvathā deśikanāthacaraṇaśuśrūṣāmātrānuprāṇanam etat kaulika-siddhāntānusandhānam iti rahasyam | For in order to penetrate the (disciple) who is the object of grace, the teacher’s gracious gaze is the best (iṣṭā). It is the consciousness of one’s own heart, which is explained to be the power of vision (dṛkśakti), Śāmbhavī, the primal (power) that threads through the entire initiation. As (the wise) say: ‘The gaze (that falls upon) the disciple is the consciousness of the perceiver (mātr), replete with all the Path (transmitted) by the teacher, whose undivided mind is made up to grace (his disciple).’ There, in this regard, the difference (between the three types of initiation is as follows). The Individual Initiation \[illegible\] \[illegible\] that takes place by the communication of Mantra bestows immersion into one’s own nature primarily just by the disciple’s hearing (the teacher’s words). The empowered (initiation) involves the tracing out (and manifestation) of the power of Kundalinī that can be contemplated by the activity of the mind. The divine one (śāmbhavī) is immersion in Śiva, who is one with one’s nature, (that takes place) by aversion to all thought constructs. In this way one can infer for oneself the various types (bheda) of the descent of the power (of grace) as intense, more intense etc. The secret is that the contemplation of the Kaulika teachings draws its life in all respects simply from the desire to listen (to the teachings that issue from) the teacher’s feet.’ MM p. 169-170 (comm. on verse 67)
+[^453]: Note that Jayaratha does not quote the Nandisikhā here. This may simply be because Abhinava’s citation is so literal that repeating it would be redundant, but it may also not be so. We notice that in 13/177-179ab, Abhinava has quoted his source fairly literally; but even so, Jayaratha quotes it. Clearly, if Jayaratha does not quote Abhinava’s source when he has access to it, it does not necessarily mean that he doesn’t do so simply to avoid redundancy. Another possibility is that it is not from the Nandiśikhā. Maheśvarānanda, the \[illegible\] century author of the Mahārthamañjarī, did not believe that it was. Thus, he quotes TĀ 13/168cd-169, saying that it is from the Kirana (kiraṇaprakriyā) (MM p. 169). But this cannot be correct. There is no indication that the source Abhinava is quoting has changed. Moreover, the dialogue in the Nandisikhā, as Abhinava himself tells us, is between the God and the Goddess (13/164cd-165ab). In the Kirana, it is between Siva and Garuda. He introduces the citation with the following reference he says is from the Tantrāloka, but that cannot be traced in it: yac coktaṁ śrītantrāloke ~ guruhṛdayaniviṣtaḥ śaṅkaro.anugrahītā iti | ‘And as is said in the venerable Tantrāloka: ‘Śaṁkara who is present in the heart of the teacher is the bestower of grace.” He goes on to quote this passage with the following variants: MM reads baddha- for badhya- and pratibhā svasvabhāvas for pratibhā svasvabhāvas. He continues by tempering the view Abhinava is expressing to bring it in line with the standard orthodox one. Thus, he writes: iti śrīkiraṇaprakriyayā \[illegible\] svapratibhāmātraniṣpadyamāna-mokṣānubhāvānām api paryantataḥ kiñciddeśikanāthānugrahā ambhāva evety ukta bhavati | yena parameśvarasvātantryādhīna-vijrmbhite viśvasminn etadājñām antareṇa teṣāṁṁ tādṛk pratibhaiva na sańpadyate | parameśvarānupraviṣṭaśarīrasyaiva ca bhagavato deśikanāthasya dīkṣādyalaukikakriyopakṣepakṣamatvam iti | parameśvarānupraviṣta-sarīrasyaiva ca bhagavato deśikanāthasya dīkṣādyalaukikakriyopakṣepakṣamatvam iti | tasya ca kaṭākṣapāte satīty anena kevala cākṣi eva dīkṣākhyāyate | yāvad āṇavaśāktaśīmbhavākhyaprakāratrayānupraviṣtās tattaddeśa-kālasvabhāvānu-gunyādy anyatam aucityaśālinaḥ sarve ‘pi tatprakārāḥ parāmṛśyante | ‘According to the procedure (prakriyā) (taught in) the venerable Kirana, it is said that some grace from a teacher is necessary for (all) people up to (when they) experience liberation brought about by their own insight (svapratibhā) alone. Thus, the kind of insight that they possess is not attained in this universe, the unfolding of which depends upon the Supreme Lord’s freedom, without (the teacher's) permission (ājñā) (to receive it). The venerable teacher is the Lord, and his body has entered into the Supreme Lord. (Thus,) he is capable of administering supernal rites, such as initiation. (This takes place) when his gracious gaze falls upon (his disciple). By (saying this,) it is stated (that it) applies only to initiation through the eyes (cākṣuṣī dīkṣā). Whereas those who have entered into (one or other of the) modalities (of practice) called the Individual (āṇava), Empowered and Divine and those who are fit in another way, in accord with the qualities of their location, time, and nature are all also considered to be of those (three) kinds. yataḥ \[illegible\] nāma \[illegible\] anugrāhyarni praty anuveśayitum \[illegible\] svahṛdayasarivinmayī sāmbhavyādyaśeṣadīkṣānusyütā dṛkśaktir ity ākhyāyate | yad āhuḥ ~ sā ca sarvādhvasampūrṇamātrasarivid (> mātṛsamvid) abhedinā | gurunānugrahadhiyā śiṣye yad avalokanam || iti | (p. 170) tatra guror mantrodbhāvanadvārā śiṣyasya Śravaṇamātraprādhānyena kundalinīśaktyullekhanātmikā manovyāpārānu-svarūpasamāveśadāyinī dīkṣāṇavī, sandheyā sākti, sarvavikalpavaimukhyena svasvarūpāvibhinnaśambhusamāveśasvabhāvā śāmbhavīti vivekaḥ | evan Śśaktipātasya tīvratīvrataratvādayo ‘pi bhedāḥ svayam üūhanīyāh ॥ sarvathā deśikanāthacaraṇaśuśrūṣāmātrānuprāṇanam etat kaulika-siddhāntānusandhānam iti rahasyam | For in order to penetrate the (disciple) who is the object of grace, the teacher’s gracious gaze is the best (iṣṭā). It is the consciousness of one’s own heart, which is explained to be the power of vision (dṛkśakti), Śāmbhavī, the primal (power) that threads through the entire initiation. As (the wise) say: ‘The gaze (that falls upon) the disciple is the consciousness of the perceiver (mātr), replete with all the Path (transmitted) by the teacher, whose undivided mind is made up to grace (his disciple).’ There, in this regard, the difference (between the three types of initiation is as follows). The Individual Initiation \[illegible\] \[illegible\] that takes place by the communication of Mantra bestows immersion into one’s own nature primarily just by the disciple’s hearing (the teacher’s words). The empowered (initiation) involves the tracing out (and manifestation) of the power of Kundalinī that can be contemplated by the activity of the mind. The divine one (śāmbhavī) is immersion in Śiva, who is one with one’s nature, (that takes place) by aversion to all thought constructs. In this way one can infer for oneself the various types (bheda) of the descent of the power (of grace) as intense, more intense etc. The secret is that the contemplation of the Kaulika teachings draws its life in all respects simply from the desire to listen (to the teachings that issue from) the teacher’s feet.’ MM p. 169-170 (comm. on verse 67)
 
 
 *[p. 228]* ^pg250
@@ -1156,7 +1159,7 @@ nābadhyo bandhane śaktiḥ karanan \[illegible\] spṛśat \\ sivaḥ karteti 
 punar vivekād uktaṁ tad uttarottaram ucyatām |
 kathai vivekaḥ kim vāsya devadeva vivicyate ॥ 172 ॥ 
 
-“He who is (thus) isolated (from bondage and is independent) is certainly united" with the Supreme Principle.” (The goddess asked again:) “Surely, You have said that there are three principles, namely, Man, Power and Śiva. Man is the one who is bound. Power, which is in contact with the agent (of bondage), is the instrument of (his) bondage, and Śiva is the agent (of bondage). It is said that all (the liberating knowledge) the individual soul possesses comes from the teacher and the scripture. Now please expound again that which is more excellent than excellent, said (to be grasped) by discrimination. 0 God of the gods, how can one discern (this) discrimination (viveka), and what is its (object)?” (170-172) 
+“He who is (thus) isolated (from bondage and is independent) is certainly united[^454] with the Supreme Principle.” (The goddess asked again:) “Surely, You have said that there are three principles, namely, Man, Power and Śiva. Man is the one who is bound. Power, which is in contact with the agent (of bondage), is the instrument of (his) bondage, and Śiva is the agent (of bondage). It is said that all (the liberating knowledge) the individual soul possesses comes from the teacher and the scripture. Now please expound again that which is more excellent than excellent, said (to be grasped) by discrimination. 0 God of the gods, how can one discern (this) discrimination (viveka), and what is its (object)?” (170-172) 
 
 #### Viveka on 13.170–172
 
@@ -1166,12 +1169,12 @@ by virtue of that that his (innate) Great Knowledge may arise, (born of the insi
 
 ‘Reality (fattva) is said to be of three kinds, as Man (Nara), Power (Śakti) and Śiva. Śivas nature is all-pervasive, stainless and transcendent (niṣprapañca). 0 Maheśvara, you have said that Śakti possesses that (same) nature (dharma). The Nara principle is described as being the state of bondage of the bound. You have described the principle of Śakti as present in the agency and instrument (of bondage). And that has been clearly taught as attainable by (all) individual souls, by means of the teacher and scriptures. So how is it that 
 
-455?\. \[illegible\] Read yuktiḥ for muktiḥ.
+[^454]: \[illegible\] Read yuktiḥ for muktiḥ.
 
 
 *[p. 230]* ^pg252
 
-you say repeatedly (bhūyas) that that can be attained \[illegible\] by discrimination? I am now quite confused as to why you have taught that knowledge is of two types, namely, one that is derived from intuition, and one that is attained through the line of teachers. Please then, Śaṁkara, clearly explain to me the nature of (that) most excellent (reality), so that the fettered soul may without doubt attain in the end (both) accomplishment (siddhi) and liberation. O God of the gods, how can one discern (this) discrimination and what is its (object)? 
+you say repeatedly (bhūyas) that that can be attained \[illegible\][^455] by discrimination? I am now quite confused as to why you have taught that knowledge is of two types, namely, one that is derived from intuition, and one that is attained through the line of teachers. Please then, Śaṁkara, clearly explain to me the nature of (that) most excellent (reality), so that the fettered soul may without doubt attain in the end (both) accomplishment (siddhi) and liberation. O God of the gods, how can one discern (this) discrimination and what is its (object)? 
 
 The Supreme Lord replied in order to teach that. Thus, he says: 
 
@@ -1193,7 +1196,7 @@ adharottaragair vākyaiḥ siddhaṁ prātibhatāṁ vrajet |
 
 When the Supreme Goddess had said this, Śiva, the first (of all) teachers, (responded): “The triple principle, Śiva (Power and Man,) is attained (siddha), and the (disciple) reaches a state (of direct) intuitive knowledge (of their nature), by the teacher’s teachings, present in the series of questions and answers (between himself and his disciple), elicited by 
 
-scripture.” (173-174ab) 
+scripture.”[^456] (173-174ab) 
 
 #### Viveka on 13.173–174
 
@@ -1206,9 +1209,9 @@ Surely (one may ask), it has been said many times (that the knowledge born of) i
 दीक्षासिच्छिन्नपाशत्वाद्धावनाभावितस्य हि । १७४ ॥
 विकासं तत्त्तमायाति प्रातिभं तदुदाहृतम् ।
 
-456?\. The word labhya can also mean ‘must be attained’ not just \[illegible\] be attained’.
+[^455]: The word labhya can also mean ‘must be attained’ not just \[illegible\] be attained’.
 
-457?\. Abhinava talks about the deeper reality of this exchange of questions and answers above in 1/257cd-258ab (256) and also in the PTv p. 15 Kṣemarāja also discusses that at the beginning of his commentary on the Vijñānabhairava p. 2.
+[^456]: Abhinava talks about the deeper reality of this exchange of questions and answers above in 1/257cd-258ab (256) and also in the PTv p. 15 Kṣemarāja also discusses that at the beginning of his commentary on the Vijñānabhairava p. 2.
 
 
 *[p. 231]* ^pg253
@@ -1222,7 +1225,7 @@ That (inner) reality (fattvam) of one who is purified by contemplation (bhāvan�
 
 The reality which is intuition (pratibhātattva), and is real and true (vastusat), of the adept whose ‘bonds have been severed by the sword of initiation’ (received) from the teacher, and ‘is purified by contemplation (bhāvanābhāvita)’ (learnt) from the scriptures, expands. That (expansion) itself is said to be the knowledge of intuitive insight. That is said (in the Nandiśikhātantra): 
 
-‘O great Lord, that (triple principle) can be attained (sādhya) by means of the scripture, from the teacher's mouth. By virtue of the penetration (āveśa) of the rays of Śiva’s power, the teacher is one who awakens the disciple; strengthened by the Lord’s power (prabhuśakti), (he does so) by means of (a series of) questions and answers. The (inner) expanding reality (vikāsaṁ tattvam) of one who is purified by contemplation (bhāvanābhāvita), his bonds severed by the sword of initiation, is O beloved, this knowledge which comes (to him) and is said to be that of intuitive insight, (brought about) by the contemplation of the knowledge of reality.’ 
+‘O great Lord, that (triple principle) can be attained (sādhya) by means of the scripture, from the teacher's mouth. By virtue of the penetration (āveśa) of the rays of Śiva’s power, the teacher is one who awakens the disciple; strengthened by the Lord’s power (prabhuśakti), (he does so) by means of (a series of) questions and answers.[^457] The (inner) expanding reality (vikāsaṁ tattvam) of one who is purified by contemplation (bhāvanābhāvita), his bonds severed by the sword of initiation, is O beloved, this knowledge which comes (to him) and is said to be that of intuitive insight, (brought about) by the contemplation of the knowledge of reality.’ 
 
 (He helps the student accept this teaching and) take it to heart, by presenting an (appropriate) example. 
 
@@ -1236,10 +1239,10 @@ bhasmacchannāgnivat sphautyańi prātibhe gauravāgamāt ॥ 175 ॥
 bījaṁ kāloptasarisiktaṁ yathā vardheta tat tathā |
 yogayāgajapair uktair guruṇā prātibhaṁ \[illegible\] | 176 ॥ 
 
-The clarity of (this) intuitive (knowledge) is due to the (excellence) of the teaching that has come down from the teachers (gauravāgamāt). Just as a fire hidden by ashes, (stoked by the wind, blazes, or) a seed sown and watered at the right time grows (abundantly), (this) intuitive (knowledge similarly) should become clear and brilliant (sphutet) by (the practice of) Yoga, the sacrificial rite (yāga), and the repeated recitation of Mantra, as taught by the teacher.” (175cd-176) 
+The clarity of (this) intuitive (knowledge) is due to the (excellence) of the teaching that has come down from the teachers (gauravāgamāt). Just as a fire hidden by ashes, (stoked by the wind, blazes, or) a seed sown and watered at the right time grows (abundantly), (this) intuitive (knowledge similarly) should become clear and brilliant (sphutet) by (the practice of) Yoga, the sacrificial rite (yāga), and the repeated recitation of Mantra, as taught by the teacher.[^458] (175cd-176) 
 
 #### Viveka on 13.175–176
 
-458?\. One could also translate the expression ‘adharottaragair vākyaiḥ’ as ‘by means of lower and higher statements’, but that makes less sense.
+[^457]: One could also translate the expression ‘adharottaragair vākyaiḥ’ as ‘by means of lower and higher statements’, but that makes less sense.
 
-459?\. \[illegible\] By comparing the original text cited by Jayaratha, it is clear that the reference to the manner of practice is Abhinava’s gloss.
+[^458]: \[illegible\] By comparing the original text cited by Jayaratha, it is clear that the reference to the manner of practice is Abhinava’s gloss.

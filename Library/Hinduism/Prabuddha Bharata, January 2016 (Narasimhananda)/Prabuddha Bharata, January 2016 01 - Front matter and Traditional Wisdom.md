@@ -4,7 +4,7 @@ work: "[[Narasimhananda (ed.) - Prabuddha Bharata, January 2016]]"
 book: "[[Library/Hinduism/Prabuddha Bharata, January 2016 (Narasimhananda)/Prabuddha Bharata, January 2016 (Narasimhananda)|Prabuddha Bharata, January 2016 (Narasimhananda)]]"
 order: 1
 source_pdf: Library/Hinduism/012016.pdf
-page_range: ""
+page_range: "1–2"
 pdf_pages: 1–12
 text_source: the scan's OCR text layer (OCRmyPDF with Tesseract 5), PyMuPDF
 converted: 2026-10-07
@@ -512,7 +512,7 @@ We thank our subscribers and readers for having supported us for these 120 years
 
 of the journal for ensuring a smooth ride. We are grateful to all the authors, reviewers, photographers, artists, publishers who have sent their books for review, reviewers, proofreaders, copyeditors, advertisers, patrons, donors, web page designers, and;wellowishers, Theineubboreandengours agericnthamensured thargemmot widonrand insights of depth have reached the minds of countless, month after month, year after year. 
 
-*[PDF 11]* ^pg11
+*[p. 1]* ^pg11
 
 sfred ara sre aerferatac | 
 
@@ -556,7 +556,7 @@ Navayonir-nava-chakrani didbire navaiva yoga nava yoginishcha.
 
 Navanam chakre adhinathah syona nava mudranava bhadra mahinam. 
 
-*[PDF 12]* ^pg12
+*[p. 2]* ^pg12
 
 \[From each of the three points, dmdus, come three centres, and\], nine yonis created nine centres, \[and three centres together form a triangle and there are totally nine lines in these three triangles\], nine yogas (or chakras\], nine yoginis, the nine rulers of the nine centres \[having nine different planes, one on top of the other, forming the merz of Sti Chakra\], \[and Chakresh-yari\] the cause of happiness \[and misery\], nine mudras \[the saxshobbini mudra, the widravant mudra, the 2karshini mudra, the vashankari mudra, the sarvonmadini mudra, the mahankusha mudya, the &hechari mudra, the 2ij2 mudra, and the yous mudra\], nine Shadras \[merit sin, Aunan, the indwelling soul, the Paramatma, the all-knowing Self, the knower, the object of knowledge, and knowledge\], \[and\] for each base of the triangles \[on the SriChakra\]. (2) 
 

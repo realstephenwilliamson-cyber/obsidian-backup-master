@@ -1,0 +1,147 @@
+{
+ "route": "pymupdf",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-29",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "skip_unmatched_sub": true,
+ "authors": [
+  "Emmanuel Levinas"
+ ],
+ "pdf": "/home/claude/p4/pdf/ti.pdf",
+ "pdf_vault": "Library/Philosophy/Levinas - Totality and Infinity (1969).pdf",
+ "catalog": "Levinas - Totality and Infinity",
+ "title": "Totality and Infinity: An Essay on Exteriority",
+ "byline": "Emmanuel Levinas, translated by Alphonso Lingis.",
+ "folder": "Library/Philosophy/Totality and Infinity (Levinas)",
+ "index_name": "Totality and Infinity (Levinas)",
+ "prefix": "Totality and Infinity",
+ "text_source": "the scan's own OCR text layer (Adobe Acrobat Paper Capture), PyMuPDF",
+ "callout": "> [!note] Text from the scan's OCR layer\n> This text comes from the OCR layer that came with the scan (Adobe Acrobat Paper Capture), not from a born-digital text: words can be misread. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "Introduction",
+   11
+  ],
+  [
+   1,
+   "Preface",
+   21
+  ],
+  [
+   1,
+   "Section I, A. Metaphysics and Transcendence",
+   31
+  ],
+  [
+   1,
+   "Section I, B. Separation and Discourse",
+   53
+  ],
+  [
+   1,
+   "Section I, C. Truth and Justice",
+   82
+  ],
+  [
+   1,
+   "Section I, D. Separation and Absoluteness",
+   102
+  ],
+  [
+   1,
+   "Section II, A. Separation as Life",
+   107
+  ],
+  [
+   1,
+   "Section II, B. Enjoyment and Representation",
+   122
+  ],
+  [
+   1,
+   "Section II, C. I and Dependence",
+   143
+  ],
+  [
+   1,
+   "Section II, D. The Dwelling",
+   152
+  ],
+  [
+   1,
+   "Section II, E. The World of Phenomena and Expression",
+   175
+  ],
+  [
+   1,
+   "Section III, A. Sensibility and the Face",
+   185
+  ],
+  [
+   1,
+   "Section III, B. Ethics and the Face",
+   194
+  ],
+  [
+   1,
+   "Section III, C. The Ethical Relation and Time",
+   220
+  ],
+  [
+   1,
+   "Section IV. Beyond the Face",
+   249
+  ],
+  [
+   2,
+   "A. The Ambiguity of Love",
+   254
+  ],
+  [
+   2,
+   "B. Phenomenology of Eros",
+   256
+  ],
+  [
+   2,
+   "C. Fecundity",
+   267
+  ],
+  [
+   2,
+   "D. The Subjectivity in Eros",
+   270
+  ],
+  [
+   2,
+   "E. Transcendence and Fecundity",
+   274
+  ],
+  [
+   2,
+   "F. Filiality and Fraternity",
+   278
+  ],
+  [
+   2,
+   "G. The Infinity of Time",
+   281
+  ],
+  [
+   1,
+   "Conclusions",
+   287
+  ],
+  [
+   1,
+   "Index",
+   309
+  ]
+ ],
+ "pnum_override": {
+  "8": "8"
+ }
+}

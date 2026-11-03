@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 277]* ^pg297
 
-The Extraction of Sectarian Signs (liṅgoddhāra)' 
+The Extraction of Sectarian Signs (liṅgoddhāra)[^635] 
 
 I praise the Lord who has opened His mouth wide to withdraw the false purification of those who are badly fashioned (durvṛtta); the praise (I offer) is not weak (amanda) and delights (all) the worlds. 
 
@@ -32,7 +32,7 @@ We will now talk of the extraction of the sectarian signs (of other schools), wh
 
 (lt is explained) only (in Śiva’s teachings). As was said before: 
 
-“Thus, purificatory rites are described only here in the Śaiva scriptures, for those who have no faith in the teachings (artha) of other scriptures. And so also (for this reason), Śaiva (doctrine) is the most excellent. One who has fallen elsewhere (in another school) can be graced here with increasingly higher (teachings). This is not so for one who has fallen anywhere (in any lower school) other than this one. This is the reason why Brahmā, Viṣṇu and other omniscient (sarvajña) (gods) have not prescribed in their scriptures any (rites to) extract the sectarian marks (of other schools) or the like.”? 
+“Thus, purificatory rites are described only here in the Śaiva scriptures, for those who have no faith in the teachings (artha) of other scriptures. And so also (for this reason), Śaiva (doctrine) is the most excellent. One who has fallen elsewhere (in another school) can be graced here with increasingly higher (teachings). This is not so for one who has fallen anywhere (in any lower school) other than this one. This is the reason why Brahmā, Viṣṇu and other omniscient (sarvajña) (gods) have not prescribed in their scriptures any (rites to) extract the sectarian marks (of other schools) or the like.”[^636] 
 
 Surely (one may ask), is this initiation taught in our scripture (i.e. the Mālinīvijayottara), or not? With this doubt in mind, he says: 
 
@@ -48,9 +48,9 @@ and Led Upwards Inspired by Grace
 स तत्रैव नियोक्तव्यो दीक्षाकाठे ततस्त्वसौ ॥ ३ ॥
 फल सर्व समासाद्य शिवे युक्तोऽपवृज्यते ।
 
-635?\. Chapter 18 of the Sarvajñānottara (IFP T 334) called liṅgoddhārādiprakaranam and the short chapter 25 of the Sārdhatrimśatikālottara are dedicated to this subject, that is, conversion to jaivism.
+[^635]: Chapter 18 of the Sarvajñānottara (IFP T 334) called liṅgoddhārādiprakaranam and the short chapter 25 of the Sārdhatrimśatikālottara are dedicated to this subject, that is, conversion to jaivism.
 
-636?\. TĀ 13/357-359.
+[^636]: TĀ 13/357-359.
 
 
 *[p. 278]* ^pg298
@@ -74,18 +74,18 @@ kapilāya purā proktaṁ prathame paṭale tathā |
 anena kramayogena samprāptaṁi paraman padam ॥ 6 ॥
 na bhūyaḥ paśutāmeti śuddhe svātmani tiṣthati \\ 
 
-After having taught (the manner of) concentration on the (gross element) Earth, it is said in the venerable Mālinītantra that ‘wherever (the disciple) is conjoined (by the teacher), he does not return back (from there). (The disciple) should be conjoined there at the time of initiation (to the reality level) where (his karmic) predisposition (vāsanā} (for it) has arisen by virtue of (his) competence (yogyatā) (for it). Then, having (thus) attained all the fruit (of his Karma), he is united with Śiva and departs (from transmigratory existence). (But) even if he is not (thus) united (to Śiva), having received a higher purification from the lord of the world (in which he resides), he is (finally) pure. The fetters of transmigratory existence (that bind him) burnt away, he attains Śiva’s state.” Again, after having taught (the manner of) concentration on the (reality level of the) individual soul, it is said (there): ‘ʻI first imparted (this teaching) that follows after the Vedas (vaidāntika) to Kapila’.\* Similarly, (it is said) in the first chapter (of the 
+After having taught (the manner of) concentration on the (gross element) Earth, it is said in the venerable Mālinītantra that ‘wherever (the disciple) is conjoined (by the teacher), he does not return back (from there). (The disciple) should be conjoined there at the time of initiation (to the reality level) where (his karmic) predisposition (vāsanā}[^637] (for it) has arisen by virtue of (his) competence (yogyatā) (for it). Then, having (thus) attained all the fruit (of his Karma), he is united with Śiva and departs (from transmigratory existence). (But) even if he is not (thus) united (to Śiva), having received a higher purification from the lord of the world (in which he resides), he is (finally) pure. The fetters of transmigratory existence (that bind him) burnt away, he attains Śiva’s state.”[^638] Again, after having taught (the manner of) concentration on the (reality level of the) individual soul, it is said (there): ‘ʻI first imparted (this teaching) that follows after the Vedas (vaidāntika) to Kapila’.[^639] Similarly, (it is said) in the first chapter (of the 
 
-637?\. Read vāsanā for śāsanā. Cf. above, 15/2cd-4, especially 15/3d.
+[^637]: Read vāsanā for śāsanā. Cf. above, 15/2cd-4, especially 15/3d.
 
-638?\. 22/3-5ab is a quotation of MV 12/41ab, 40, 41cd-42 with minor variants.
+[^638]: 22/3-5ab is a quotation of MV 12/41ab, 40, 41cd-42 with minor variants.
 
-639?\. 22/5d-6a is a brief paraphrase of MV 16/24. A series of meditative supports (dhāraṇā) are described in chapters 12 to 16 of the MV. These correspond to cach of the reality levels beginning with Earth and ending with Māyā (16/42). Then beyond that, the yogi attains “the plane of the Lord of the Lords of mantra’ (16/47). Along this chain of ascent, he rises to the reality level of the individual soul (16/17cd-23) and meditates on him within the lotus of the heart. In the MV, Śiva, echoed by Abhinava, declares that: ‘that is the knowledge (vijñāna) of the Vedānta, described in brief. I imparted this (teaching) previously to Kapila extensively.” (16/24) As the founder of Sāṁkhya, the sage Kapila is traditionally believed to have contributed considerably to the concept of the individual soul. Uncreated and eternal, individual souls are innumerable, some embodied, others not. The respect Kapila enjoys in Śaiva circles underscores their indebtedness to the Sāṁkhya for supplying twenty-four of the reality levels absorbed into the Śaiva system of thirty-six. Here we are alerted that he was especially venerated for his teachings concerning the individual soul (puruṣa).
+[^639]: 22/5d-6a is a brief paraphrase of MV 16/24. A series of meditative supports (dhāraṇā) are described in chapters 12 to 16 of the MV. These correspond to cach of the reality levels beginning with Earth and ending with Māyā (16/42). Then beyond that, the yogi attains “the plane of the Lord of the Lords of mantra’ (16/47). Along this chain of ascent, he rises to the reality level of the individual soul (16/17cd-23) and meditates on him within the lotus of the heart. In the MV, Śiva, echoed by Abhinava, declares that: ‘that is the knowledge (vijñāna) of the Vedānta, described in brief. I imparted this (teaching) previously to Kapila extensively.” (16/24) As the founder of Sāṁkhya, the sage Kapila is traditionally believed to have contributed considerably to the concept of the individual soul. Uncreated and eternal, individual souls are innumerable, some embodied, others not. The respect Kapila enjoys in Śaiva circles underscores their indebtedness to the Sāṁkhya for supplying twenty-four of the reality levels absorbed into the Śaiva system of thirty-six. Here we are alerted that he was especially venerated for his teachings concerning the individual soul (puruṣa).
 
 
 *[p. 279]* ^pg299
 
-Mālinīvijayottara): ‘once the supreme plane has been attained‘ by means of this gradual union (kramayoga), one never returns to the fettered state, (but always) abides within one’s own pure Self.” (2-7ab) 
+Mālinīvijayottara): ‘once the supreme plane has been attained[^640] by means of this gradual union (kramayoga), one never returns to the fettered state, (but always) abides within one’s own pure Self.”[^641] (2-7ab) 
 
 #### Viveka on 22.2–7
 
@@ -107,17 +107,17 @@ samastaśāstrakathitavastuvaiviktyadāyinaḥ ॥ 8 ॥
 sivāgamasya sarvebhyo ‘py āgamebhyo viśiṣṭatā |
 sivajñānena ca vinā bhūyo ‘pi paśutodbhavaḥ ॥ 9 ॥ 
 
-Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels (tattva) below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines (śāstra). (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
+[^642]Thus, the sense that (these verses) suggest is also that 1) one who has been conjoined to reality levels (tattva) below that of Śiva, should be extracted from them again (and elevated further). 2) Śiva’s scripture bestows separation from the realities taught in all (the other) doctrines (śāstra). (Such) is its special (excellence) with respect to all (other) serāptures (which makes it the most elevated of all). 3) Without knowledge of Siva, the fettered state (inevitably) arises again. (7cd-9) 
 
 #### Viveka on 22.7–9
 
 ‘Thus’ because of (these) three statements, (it is clear that the Śaiva teachings are the most elevated). The ‘reality levels (fattva) below that of Śiva’ (meant here) are those that are also on the plane of Māyā. This is the meaning. He is declaring in this way that even a person who is located in a lower philosophy (darsana) (but) has received a descent of the power (of grace) by means of the ritual procedure (prakriyā) of the Śaivāgama should be extracted 
 
-640?\. \[illegible\] Read saṁprāptaṁ for saṁprāptaḥ.
+[^640]: \[illegible\] Read saṁprāptaṁ for saṁprāptaḥ.
 
-641?\. 22/6cd-7ab, literal quote of MV 1/47. See above, 19/14 and TĀv ad 19/55. Before expounding the rite of conversion, Abhinava wishes to establish that although this subject is not discussed explicitly in his primary source, the Mālinīvijayottara, it is suggested in the passages to which he refers here, and explains in this perspective up to verse 14ab.
+[^641]: 22/6cd-7ab, literal quote of MV 1/47. See above, 19/14 and TĀv ad 19/55. Before expounding the rite of conversion, Abhinava wishes to establish that although this subject is not discussed explicitly in his primary source, the Mālinīvijayottara, it is suggested in the passages to which he refers here, and explains in this perspective up to verse 14ab.
 
-642?\. \[illegible\] Abhinava is explaining the passages he has just quoted from the MV.
+[^642]: \[illegible\] Abhinava is explaining the passages he has just quoted from the MV.
 
 
 *[p. 280]* ^pg300
@@ -140,13 +140,13 @@ bhogyatvapāśavatyāgaḥ patikartṛtvasaṁkṣayaḥ ।
 svātmasthitiś cety evaṁ hi darśanāntarasaṁsthiteḥ ॥ 11 ॥
 proktam uddharanīyatvaṁ śivaśaktīritasya hi | 
 
-The extraction (rescue and elevation from lower levels) of one who is established in other (inferior) doctrines (darśana) (but is) impelled by Śiva’s power (takes place in the following) sequence (of stages) (krama). (It begins with a) descent of the power (of grace). (Due to that, the corresponding) decrease (of the soul’s) Impurity (gives rise to) a desire to go forth (to find a true teacher). (When he finds him, he receives) initiation, (which is followed by) insight (bodha) (that leads to a further) decrease of what should be abandoned and (a corresponding) state of merger in what should be adopted. (Thus, he) abandons the fettered state he is compelled to experience, and (the experience of) the agency of the Lord (in and through his own actions) develops,” (which ultimately results in his being) well-established in his own (true) Self (which is Śiva). (10-12ab) 
+The extraction (rescue and elevation from lower levels) of one who is established in other (inferior) doctrines (darśana) (but is) impelled by Śiva’s power (takes place in the following) sequence (of stages) (krama).[^643] (It begins with a) descent of the power (of grace). (Due to that, the corresponding) decrease (of the soul’s) Impurity (gives rise to) a desire to go forth (to find a true teacher). (When he finds him, he receives) initiation, (which is followed by) insight (bodha) (that leads to a further) decrease of what should be abandoned and (a corresponding) state of merger in what should be adopted. (Thus, he) abandons the fettered state he is compelled to experience, and (the experience of) the agency of the Lord (in and through his own actions) develops,[^644] (which ultimately results in his being) well-established in his own (true) Self (which is Śiva). (10-12ab) 
 
 #### Viveka on 22.10–12
 
-643?\. Here Abhinava is explaining MV 1/44, i.e. ‘one who is penetrated by Rudra’s power, desires to go to a true teacher in order to attain worldly benefits and liberation, and is led (to him) by Śiva’s will.
+[^643]: Here Abhinava is explaining MV 1/44, i.e. ‘one who is penetrated by Rudra’s power, desires to go to a true teacher in order to attain worldly benefits and liberation, and is led (to him) by Śiva’s will.
 
-644?\. Gnoli suggests that reading should ‘evidently’ be emended from —saṁkṣayaḥ (‘destruction’) to -sarcayah (‘development ). The resultant meaning in that case would amount to ‘(the experience of) the agency of the Lord (in and through his own actions) develops’. This makes good sense. Jayaratha takes the reading as it stands as good, and understands it as translated. Although this also makes sense, the understanding of ‘agency’ as the impulse that impels towards transmigratory existence does indeed appear to be somewhat strained.
+[^644]: Gnoli suggests that reading should ‘evidently’ be emended from —saṁkṣayaḥ (‘destruction’) to -sarcayah (‘development ). The resultant meaning in that case would amount to ‘(the experience of) the agency of the Lord (in and through his own actions) develops’. This makes good sense. Jayaratha takes the reading as it stands as good, and understands it as translated. Although this also makes sense, the understanding of ‘agency’ as the impulse that impels towards transmigratory existence does indeed appear to be somewhat strained.
 
 
 *[p. 281]* ^pg301
@@ -166,22 +166,22 @@ yadā śivārkaraśmyoghair vikāsi hṛdayāmbujam |
 liṅgoddhṛtis tadā pūrvaṁ dīkṣākarma tataḥ param || 13 ॥
 prāg liṅgāntarasaṁstho ‘pi dīkṣātaḥ śivatāṁ vrajet | 
 
-If the lotus of the heart of those who follow inferior doctrines, beginning with the Vaiṣṇava and Buddhist and ending with Tantra (tantrānta), blossoms by the flood of rays of Śiva’s sun,” then (the teacher should) first of all extract the sectarian marks (of the lower traditions to which they belong). After that (he should perform the Śaiva) rite of initiation. (Thus,) even if (the disciple) previously belonged to (another tradition, indicated by) a different sectarian mark (than ours), he attains Śiva after (receiving) initiation. (12cd-14ab) 
+If the lotus of the heart of those who follow inferior doctrines, beginning with the Vaiṣṇava and Buddhist and ending with Tantra (tantrānta), blossoms by the flood of rays of Śiva’s sun,[^645] then (the teacher should) first of all extract the sectarian marks (of the lower traditions to which they belong). After that (he should perform the Śaiva) rite of initiation. (Thus,) even if (the disciple) previously belonged to (another tradition, indicated by) a different sectarian mark (than ours), he attains Śiva after (receiving) initiation. (12cd-14ab) 
 
 #### Viveka on 22.12–14
 
 The one ‘ending with Tantra (fantrānta)’ is the Siddhānta. It was said before: 
 
-‘However, if by (the power of) Śiva’s freedom, they too (become) propense (to attaining) Śiva’s state, the purification (they have to undergo) is double, (as it takes place) by the ‘extraction of (their) sectarian marks’ (liṅgoddhṛti), (which signals their conversion, and then) by initiation. A jar (that smells bad) is perfumed with flowers in order to eliminate the bad smell. The purification that it requires is double. Such is not the procedure when a jar is clean.””? 
+‘However, if by (the power of) Śiva’s freedom, they too (become) propense (to attaining) Śiva’s state, the purification (they have to undergo) is double, (as it takes place) by the ‘extraction of (their) sectarian marks’ (liṅgoddhṛti), (which signals their conversion, and then) by initiation. A jar (that smells bad) is perfumed with flowers in order to eliminate the bad smell. The purification that it requires is double. Such is not the procedure when a jar is clean.”[^646] 
 
-645?\. Cf. below, 23/74cd-76.
+[^645]: Cf. below, 23/74cd-76.
 
-646?\. Above, 13/281cd-283ab.
+[^646]: Above, 13/281cd-283ab.
 
 
 *[p. 282]* ^pg302
 
-The Proclamation” (to the Lord) and (His) Consent (Śrāvanam cābhyanujñānam) 
+The Proclamation[^647] (to the Lord) and (His) Consent (Śrāvanam cābhyanujñānam) 
 
 ### TĀ 22.14–19
 
@@ -208,16 +208,16 @@ snātaṁ saṁiprokṣayed arghapātrāmbhobhir anantaram ॥ 18 ॥
 pañcagavyaṁ dantakāṣthaṁ tatas tasmai samarpayet |
 tatas tan baddhanetrar ca praveśya pranipātayet ॥ 19 ॥ 
 
-Having made his (disciple) fast, the following day (the teacher) worships (the Lord) on the sacrificial surface with the (basic) common Mantras, and having done so, tells (the Lord his disciple’s) life story (vartinī). (He then says:) “He was previously marked with sectarian signs, (but) is now impelled by You, well disposed (towards him), grace him as is befitting (samyak) (to him). May he not (need to) observe a penance as a result of doubts (that may) arise by his abandoning his own sectarian signs. Having become of Your nature, may he quickly attain (every) worldly benefit and liberation!” (Then,) having received the Lord’s consent \[illegible\] (with the words) “may it be so!”, (the teacher) removes (his obligation to observe his previous) vow and, having done so, places him in water, and should then make him bathe accordingly. After that, once he has bathed, (the teacher) should sprinkle him with water from the sacrificial vessel 
+Having made his (disciple) fast, the following day (the teacher) worships (the Lord) on the sacrificial surface with the (basic) common Mantras, and having done so, tells (the Lord his disciple’s) life story (vartinī). (He then says:) “He was previously marked with sectarian signs, (but) is now impelled by You, well disposed (towards him), grace him as is befitting (samyak) (to him). May he not (need to) observe a penance as a result of doubts (that may) arise by his abandoning his own sectarian signs. Having become of Your nature, may he quickly attain (every) worldly benefit and liberation!”[^648] (Then,) having received the Lord’s consent \[illegible\] (with the words) “may it be so!”, (the teacher) removes (his obligation to observe his previous) vow and, having done so, places him in water, and should then make him bathe accordingly. After that, once he has bathed, (the teacher) should sprinkle him with water from the sacrificial vessel 
 
-647?\. Read śrāvanṇaṁ for śravanaṁ.
+[^647]: Read śrāvanṇaṁ for śravanaṁ.
 
-648?\. For a similar declaration, see MV 9/37-38 cited above in 16/74-76.
+[^648]: For a similar declaration, see MV 9/37-38 cited above in 16/74-76.
 
 
 *[p. 283]* ^pg303
 
-(arghapātra). Then he should offer (him) the five products of a cow (pañcagavya),\* a stick (to clean) the teeth, and having introduced him into the sacrificial area with his eyes blindfolded, he should make him prostrate. (14cd-19) 
+(arghapātra). Then he should offer (him) the five products of a cow (pañcagavya),[^649] a stick (to clean) the teeth, and having introduced him into the sacrificial area with his eyes blindfolded, he should make him prostrate. (14cd-19) 
 
 #### Viveka on 22.14–19
 
@@ -242,22 +242,22 @@ teṣāṁ madhyād ekatamaṁ mantram asmai samarpayet |
 so ‘py ahorātram evainaṁ japed alpabhug apy abhuk ॥ 21 ॥ mantram asmai samarpyātha sādhāravidhisaṁskṛte |
 vahnau tarpitatanmantre vrataśuddhiṁ samācaret || 22 || 
 
-1\) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye)” — these are the seven (universal) common 
+1\) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky),[^650] 5) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye)[^651] — these are the seven (universal) common 
 
-649?\. See above, 15/369.
+[^649]: See above, 15/369.
 
-650?\. See above, 6/219cd ff.
+[^650]: See above, 6/219cd ff.
 
-651?\. The deposition of Mātṛkā is explained above in 15/117cd-120. HRĪM is the mantra of Māyā. Vyomavyāpin (the Pervader of the Sky) consists of eighty-one phrases praising Śiva (see above, 6/226cd-227ab and note). The six-syllabled mantra is OM NAMAH ŚIVĀYA, as is confirmed by Jayaratha himself, in his Haracaritacintāmani, 30/15-22. Bahurūpa (the Pluriform) is the mantra of Aghora, one of the five Brahmās (see above, 15/203cd-204ab and note): AGHOREBHYO”
+[^651]: The deposition of Mātṛkā is explained above in 15/117cd-120. HRĪM is the mantra of Māyā. Vyomavyāpin (the Pervader of the Sky) consists of eighty-one phrases praising Śiva (see above, 6/226cd-227ab and note). The six-syllabled mantra is OM NAMAH ŚIVĀYA, as is confirmed by Jayaratha himself, in his Haracaritacintāmani, 30/15-22. Bahurūpa (the Pluriform) is the mantra of Aghora, one of the five Brahmās (see above, 15/203cd-204ab and note): AGHOREBHYO”
 
-652?\. GHOREBHYO GHORAGHORATAREBHYAŚ CA SARVATAH ŚARVA SARVEBHYO
+    GHOREBHYO GHORAGHORATAREBHYAŚ CA SARVATAH ŚARVA SARVEBHYO
 
-653?\. TE RUDRARŪPEBHYAH. Translated, this means: ‘Praise in respects to you O Śarva, to all who are the Rudras, you who are Not Fierce (aghora), fierce (ghora) and most fierce (ghoratara)! Concerning Aghora, who is identified with Svacchandabhairava, see SVT 1/43. Netra (the Eye) is the mantra of Śiva Mṛtyuñjaya, that is, OM JUM SAH (see below, 30/40cd- 4190).
+    TE RUDRARŪPEBHYAH. Translated, this means: ‘Praise in respects to you O Śarva, to all who are the Rudras, you who are Not Fierce (aghora), fierce (ghora) and most fierce (ghoratara)! Concerning Aghora, who is identified with Svacchandabhairava, see SVT 1/43. Netra (the Eye) is the mantra of Śiva Mṛtyuñjaya, that is, OM JUM SAH (see below, 30/40cd- 4190).
 
 
 *[p. 284]* ^pg304
 
-Mantras." (The teacher) should offer one Mantra amongst them (to his disciple), who should repeat it day and night, eating little or nothing (at all). Now, once (the teacher) has presented the Mantra (to his disciple) and offered (tarpita) that Mantra (with oblations etc.) into the fire that has been purified by means of the common (basic) procedure,” he should (proceed) to purify (his disciple of the obligation to observe his previous) vow (vrataśuddhi). (20-22) 
+Mantras.[^652] (The teacher) should offer one Mantra amongst them (to his disciple), who should repeat it day and night, eating little or nothing (at all). Now, once (the teacher) has presented the Mantra (to his disciple) and offered (tarpita) that Mantra (with oblations etc.) into the fire that has been purified by means of the common (basic) procedure,[^653] he should (proceed) to purify (his disciple of the obligation to observe his previous) vow (vrataśuddhi). (20-22) 
 
 #### Viveka on 22.20–22
 
@@ -265,9 +265,9 @@ Mantras." (The teacher) should offer one Mantra amongst them (to his disciple), 
 
 Having purified him in this way, in order to explain (how he is) liberated from sin, he says: 
 
-654?\. \[illegible\] NTS uttarasūtra p. 349-350 Goodall’s commentary on 2/1; “The use of mātṛkā as mantra is in later literature typically reserved for contexts where some general all-purpose mantra is required (hence its prominence in the relatively eclectic Iśānasivagurudevapaddhati), such as in liṅgoddhāra . . . or in cases where an existing image is to be newly adapted for worship and the mantra that was originally installed in it is no longer known. . . . The mātṛkā is therefore commonly counted amongst types of exoteric or ‘universal’ (sādhārana) mantras. Thus, in the Jñānaratnāvalī (I have taken the passage from the e-text I prepared for Muktabodha): atha sādhāraṇaliṁgapakṣe sādhāraṇnamantreṇaivārcanari kāryam | tathā ~ pranṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ | prāsādāghoramantraś ca sapta sādhāraṇā matāḥ \\\\ ebhiḥ sampūjayed vidvān sarvasādhāranaṁ śivam |I iti | “Now with regards to common (public) liṅgas — worship should be done with a common (universal) mantra. (It is said) accordingly: “The seven — 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be (universally) common. The leaned man should worship Śiva, (the deity) common to all by means of these (mantras).”” We find practically the same verse in the Somaśambhupaddhativyākhya (IFP transcript 'T 0170 (p. 240) c-text on Muktabodha’s site). Trilocanaśiva supplies a similar context: sarvasāmānyatvena nṛpādibhi(h) sthāpiteṣu niyatajanapūjyeṣu sādhāranānubhir iti praṇavo māyā mātṛkā vyomavyāpi ṣadakṣaram | prāsādo bahurūpaśca sapta sādhāraṇā matā || (iti) | ebhiḥ pūjā kāryā । “With regards to (liṅgas) that have been installed by kings and the like, and that are to be worshipped by a limited number of people, common souls should worship them as being common to all and by means of these (mantras as stated in this verse). 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be the seven (universal) common (mantras).
+[^652]: \[illegible\] NTS uttarasūtra p. 349-350 Goodall’s commentary on 2/1; “The use of mātṛkā as mantra is in later literature typically reserved for contexts where some general all-purpose mantra is required (hence its prominence in the relatively eclectic Iśānasivagurudevapaddhati), such as in liṅgoddhāra . . . or in cases where an existing image is to be newly adapted for worship and the mantra that was originally installed in it is no longer known. . . . The mātṛkā is therefore commonly counted amongst types of exoteric or ‘universal’ (sādhārana) mantras. Thus, in the Jñānaratnāvalī (I have taken the passage from the e-text I prepared for Muktabodha): atha sādhāraṇaliṁgapakṣe sādhāraṇnamantreṇaivārcanari kāryam | tathā ~ pranṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ | prāsādāghoramantraś ca sapta sādhāraṇā matāḥ \\\\ ebhiḥ sampūjayed vidvān sarvasādhāranaṁ śivam |I iti | “Now with regards to common (public) liṅgas — worship should be done with a common (universal) mantra. (It is said) accordingly: “The seven — 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be (universally) common. The leaned man should worship Śiva, (the deity) common to all by means of these (mantras).”” We find practically the same verse in the Somaśambhupaddhativyākhya (IFP transcript 'T 0170 (p. 240) c-text on Muktabodha’s site). Trilocanaśiva supplies a similar context: sarvasāmānyatvena nṛpādibhi(h) sthāpiteṣu niyatajanapūjyeṣu sādhāranānubhir iti praṇavo māyā mātṛkā vyomavyāpi ṣadakṣaram | prāsādo bahurūpaśca sapta sādhāraṇā matā || (iti) | ebhiḥ pūjā kāryā । “With regards to (liṅgas) that have been installed by kings and the like, and that are to be worshipped by a limited number of people, common souls should worship them as being common to all and by means of these (mantras as stated in this verse). 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be the seven (universal) common (mantras).
 
-655?\. TSā (p. 171) adds ‘by means of the (basic) common mantra’.
+[^653]: TSā (p. 171) adds ‘by means of the (basic) common mantra’.
 
 
 *[p. 285]* ^pg305
@@ -300,13 +300,13 @@ tacchravaṇaṁ ca devāya kṣamasveti visarjanam |
 
 Having encapsulated the name (of his disciple) with the Mantra that is being worshipped (in this way, he inserts it in the following mantra), appropriately 
 
-modified according to the particular case. PRĀYAŚCITTAM ŚODHAYĀMI \[illegible\] SVĀHĀ.” Having offered a hundred or one thousand oblations (whilst uttering this Mantra), he casts a plenary oblation (into the fire) with the same procedure, ending with (the mantra) VAUṢAT. Then, having invoked the Lord of the Vow, saying OM VRATEŚVARĀYA NAMAH,” he should then worship him and declare: “By Śiva’s command you should not do anything to him.” Then libation should be offered to the Lord of the Vow (with an oblation) that ends with the mantra SVĀHĀ. Having asked his pardon, he should be discharged, and so too the fire after that. (The procedure is in two parts): first the declaration to the deity, and then (the deity’s) discharge (with the words) “please pardon (him).” (23-27ab) 
+modified according to the particular case. PRĀYAŚCITTAM ŚODHAYĀMI \[illegible\] SVĀHĀ.[^654] Having offered a hundred or one thousand oblations (whilst uttering this Mantra), he casts a plenary oblation (into the fire) with the same procedure, ending with (the mantra) VAUṢAT. Then, having invoked the Lord of the Vow, saying OM VRATEŚVARĀYA NAMAH,[^655] he should then worship him and declare: “By Śiva’s command you should not do anything to him.” Then libation should be offered to the Lord of the Vow (with an oblation) that ends with the mantra SVĀHĀ. Having asked his pardon, he should be discharged, and so too the fire after that. (The procedure is in two parts): first the declaration to the deity, and then (the deity’s) discharge (with the words) “please pardon (him).” (23-27ab) 
 
 #### Viveka on 22.23–27
 
-656?\. “I purify \[basic mantra\] so-and-so \[basic mantra\] (of the obligation to perform) penance. PHATṬ SVĀHĀ”.
+[^654]: “I purify \[basic mantra\] so-and-so \[basic mantra\] (of the obligation to perform) penance. PHATṬ SVĀHĀ”.
 
-657?\. OM obeisance to the Lord of the Vow.
+[^655]: OM obeisance to the Lord of the Vow.
 
 
 *[p. 286]* ^pg306
@@ -345,28 +345,28 @@ sādhakācāryatāmārge na yogyās te punarbhuvaḥ |
 punarbhuvo ‘pi jñïāneddhā bhavanti gurutāspadam || 29 ॥
 mokṣāyaiva na bhogāya bhogāyāpy abhyupāyataḥ |
 ity uktavān svapaddhatyām īśānaśivadaiśikaḥ ॥ 30 ॥
-śsrīdevyāyāmalīyoktitattvasamyakpravādakaḥ ” 
+śsrīdevyāyāmalīyoktitattvasamyakpravādakaḥ |[^656] 
 
-The initiation (that bestows) liberation to those who previously bore the sectarian signs (of other traditions), does not carry with it the competence (to become a teacher). Converts” are not competent to be on 
+The initiation (that bestows) liberation to those who previously bore the sectarian signs (of other traditions), does not carry with it the competence (to become a teacher). Converts[^657] are not competent to be on 
 
-658?\. For śrīdevyā yāmalīyoktitattvasamyakpravedakaḥ, read śrīdevyāyāmalīyoktitattvasamyak-pravādakah.
+[^656]: For śrīdevyā yāmalīyoktitattvasamyakpravedakaḥ, read śrīdevyāyāmalīyoktitattvasamyak-pravādakah.
 
-659?\. The word here for ‘convert’ is punarbhū, which literally means ‘one who has been reborn’.
+[^657]: The word here for ‘convert’ is punarbhū, which literally means ‘one who has been reborn’.
 
 
 *[p. 287]* ^pg307
 
-the path of an adept (sādhaka) or teacher (ācārya).” The teacher Īśānaśiva, who correctly explains the true meaning of the teaching of the venerable Devyāyāmala,” has declared in his Paddhati that ‘converts enflamed by knowledge occupy the office of a teacher (only) to liberate (their disciples, but) not to also confer worldly benefits (on them). (It is only by the use of) the appropriate means that (he can act so that they may) also (enjoy) worldly benefits.” (28cd-31ab) 
+the path of an adept (sādhaka) or teacher (ācārya).[^658] The teacher Īśānaśiva, who correctly explains the true meaning of the teaching of the venerable Devyāyāmala,[^659] has declared in his Paddhati that ‘converts enflamed by knowledge occupy the office of a teacher (only) to liberate (their disciples, but) not to also confer worldly benefits (on them). (It is only by the use of) the appropriate means that (he can act so that they may) also (enjoy) worldly benefits.”[^660] (28cd-31ab) 
 
 #### Viveka on 22.28–31
 
-The reason here (in this case as to why they) are not fit (to be teachers or adepts) is that they (must be) born again. As is said:” 
+The reason here (in this case as to why they) are not fit (to be teachers or adepts) is that they (must be) born again. As is said:[^661] 
 
-“Those operators of Mantras are not” subject to rebirth.’ 
+“Those operators of Mantras are not[^662] subject to rebirth.’ 
 
 Again, they will be characterized (further ahead): 
 
-‘He too (is not a true teacher) who (once bore) the sectarian sign of another (tradition), and (although now) established in the Śaiva (tradition), must be born again.” 
+‘He too (is not a true teacher) who (once bore) the sectarian sign of another (tradition), and (although now) established in the Śaiva (tradition), must be born again.”[^663] 
 
 ‘(If they) are enflamed by knowledge’, (they are fit to become teachers). The sense is, how can those who are enflamed with the knowledge of supreme nonduality not have authority? (They can liberate others) ‘by making use of the appropriate means’, in accord with the methods etc. (prakriyā) (explained in) the scriptures that serve as means to (the attainment of) worldly benefits. This the meaning. Nor is that said without a basis. Thus, he says that (it is taught in) ‘the venerable Devyāyāmala’ etc. 
 
@@ -384,17 +384,17 @@ Lower Order and to those who are Obscured
 कृत्वा रहस्यं कथयेन्नान्यथा कामिके किल ।
 अन्यतन्वराभिषिक्तेऽपि रहस्यं न प्रकाशयेत् ॥ ३२ ॥
 
-660?\. See also above, 15/4720-4749 (470-471).
+[^658]: See also above, 15/4720-4749 (470-471).
 
-661?\. Read śrīdevyāyāmalīyokti- for śrīdevyā yāmalīyokti- and -pravādakah for -pravedakah. See Sanderson 2007: 391 note 528 and Sanderson 2006b: 136 note 482.
+[^659]: Read śrīdevyāyāmalīyokti- for śrīdevyā yāmalīyokti- and -pravādakah for -pravedakah. See Sanderson 2007: 391 note 528 and Sanderson 2006b: 136 note 482.
 
-662?\. As the Devyāyāmala was a Kashmiri work, Sanderson opines that this Īśānaśiva was from Kashmir. Sanderson 2007: 391. Referring to the paddhati of ISānaśiva, of which the sole traced citation is here in the TĀ, he writes: ‘that passage gives a ruling that excludes converts to Śaivism from holding thè office as Ācāryas or Sādhakas, with the exception in the former case of converts who achieve self-realization. In giving this ruling, Abhinavagupta tells us, "Īsānaśiva was explaining a statement on this subject in the Trika's Devyāyāmala. The fact that it cites this source makes it likely to have been a Kashmirian work, since it is probable that the Devyāyāmala too was a product of this region.” There is no reason to identify this ISānaśiva with Īśvaraśiva who, along with Śaṅkararāśi, first propagated the tradition of Śrīvidyā in Kashmir (ibid. 384).
+[^660]: As the Devyāyāmala was a Kashmiri work, Sanderson opines that this Īśānaśiva was from Kashmir. Sanderson 2007: 391. Referring to the paddhati of ISānaśiva, of which the sole traced citation is here in the TĀ, he writes: ‘that passage gives a ruling that excludes converts to Śaivism from holding thè office as Ācāryas or Sādhakas, with the exception in the former case of converts who achieve self-realization. In giving this ruling, Abhinavagupta tells us, "Īsānaśiva was explaining a statement on this subject in the Trika's Devyāyāmala. The fact that it cites this source makes it likely to have been a Kashmirian work, since it is probable that the Devyāyāmala too was a product of this region.” There is no reason to identify this ISānaśiva with Īśvaraśiva who, along with Śaṅkararāśi, first propagated the tradition of Śrīvidyā in Kashmir (ibid. 384).
 
-663?\. \[illegible\] This line, as we know the following is, may well be drawn from the Devyāyāmala.
+[^661]: \[illegible\] This line, as we know the following is, may well be drawn from the Devyāyāmala.
 
-664?\. MS Threads matāḥ for sthitāḥ.
+[^662]: MS Threads matāḥ for sthitāḥ.
 
-665?\. \[illegible\] This line is quoted by Abhinava from the Devyāyāmala below, 23/10cd.
+[^663]: \[illegible\] This line is quoted by Abhinava from the Devyāyāmala below, 23/10cd.
 
 
 *[p. 288]* ^pg308
@@ -403,7 +403,7 @@ gurvantasyāpy adhodṛṣtiśāyinaḥ samskriyām imām ॥ 31 ॥
 kṛtvā rahasyaṁ kathayen nānyathā kāmike kila |
 anyatantrābhiṣikte ‘pi rahasya na prakāśayet ॥ 32 ॥ 
 
-Even (if he is) up to the (level of a) teacher, the secret (teaching) is only to be revealed to a follower of inferior doctrines once this rite of purification (saṁskriyā) has been performed — not otherwise. Indeed, (it is said) in the Kāmika: ‘even if one is consecrated (as a teacher) in another Tantra,” the secret (teaching) should not be revealed (to him)’.” (31cd-32) 
+Even (if he is) up to the (level of a) teacher, the secret (teaching) is only to be revealed to a follower of inferior doctrines once this rite of purification (saṁskriyā) has been performed — not otherwise. Indeed, (it is said) in the Kāmika: ‘even if one is consecrated (as a teacher) in another Tantra,[^664] the secret (teaching) should not be revealed (to him)’.[^665] (31cd-32) 
 
 #### Viveka on 22.31–32
 
@@ -437,9 +437,9 @@ tato ‘sya śuddhiṁ prāk kṛtvā tato dīkṣām samācaret |
 
 (The reason for this) is because he has repeated a Mantra devoid of vitality, that has come from the mouth of an ignorant teacher. Moreover, (that) teacher has no authority (to teach and impart Mantras), due to the 
 
-666?\. T: anyatantre ‘bhisikto ‘pi.
+[^664]: T: anyatantre ‘bhisikto ‘pi.
 
-667?\. \[illegible\] Cf. below, 23/4, where Abhinava cites the Kāmika again concerning this subject.
+[^665]: \[illegible\] Cf. below, 23/4, where Abhinava cites the Kāmika again concerning this subject.
 
 
 *[p. 289]* ^pg309
@@ -470,7 +470,7 @@ One who has been previously initiated by a teacher who belongs to an inferior sc
 
 Surely (one may ask), it will be said that: 
 
-‘(Those who wish to receive the Śaiva teachings) should not be examined (as to their competence) in the course of initiation; (rather) it should be taken into consideration (only) when knowledge is imparted (to them). ”?? 
+‘(Those who wish to receive the Śaiva teachings) should not be examined (as to their competence) in the course of initiation; (rather) it should be taken into consideration (only) when knowledge is imparted (to them). ”[^666] 
 
 So, in accord with this ruling, let (the teacher) impart initiation (to the convert) in this way. But how can the teaching be imparted without having (first) considered (whether this initiate is fit to receive it)? With this doubt in mind, he says: 
 
@@ -483,7 +483,7 @@ Ascertainment of a Disciple’s Competence
 सर्वथा तवन्रुवननेष ब्रुवाणो वा विपर्ययम् ॥ ३८ ॥
 अज्ञो वस्तुत एवेति तत्त्यक्त्वेत्थं विधिं चरेत् ।
 
-668?\. \[illegible\] This line is drawn from Sarvajñānottara kriyāpāda 19/27cd. 11 is found below as TĀ 23/21cd. See note there.
+[^666]: \[illegible\] This line is drawn from Sarvajñānottara kriyāpāda 19/27cd. 11 is found below as TĀ 23/21cd. See note there.
 
 
 *[p. 290]* ^pg310
@@ -493,7 +493,7 @@ vijñānadāne tac chiṣyo yogyatāmi darśayen nijām |
 sarvathā tv abruvann eṣa bruvānṇo vā viparyayam || 38 ||
 ajño vastuta eveti tat tyaktvetthaṁ vidhi caret | 
 
-Even once a true teacher has been found, if he does not know the state (of the disciple’s) aptitude to receive the knowledge (of the scriptures) (and wants to ascertain it), the disciple is obliged to show him his own competence (to do \[illegible\] Nevertheless, even if (the disciple) says nothing or says (something) that is contrary (to the teaching) (viparyaya), (the teacher, reflecting that) he is in fact ignorant (by nature) (vastutaḥ), abandoning that (inquiry), should apply the procedure in this way. (37cd-39ab) 
+Even once a true teacher has been found, if he does not know the state (of the disciple’s) aptitude to receive the knowledge (of the scriptures) (and wants to ascertain it), the disciple is obliged to show him his own competence (to do \[illegible\][^667] Nevertheless, even if (the disciple) says nothing or says (something) that is contrary (to the teaching) (viparyaya), (the teacher, reflecting that) he is in fact ignorant (by nature) (vastutaḥ), abandoning that (inquiry), should apply the procedure in this way. (37cd-39ab) 
 
 #### Viveka on 22.37–39
 
@@ -517,7 +517,7 @@ The sense is that in a state of obscuration, (the disciple) would not desire to 
 
 He elaborates on this. 
 
-669?\. Cf. below 23/20cd-22ab.
+[^667]: Cf. below 23/20cd-22ab.
 
 
 *[p. 291]* ^pg311
@@ -536,23 +536,23 @@ bhairavīye catuhṣaṣtau tān paśūn dīkṣayet trike |
 siddhavīrāvalīsāre bhairavīye kule ‘pi ca ॥ 41 ॥
 pañcadīkṣākramopāntā dīkṣānuttarasaijñitā | 
 
-(The teacher) should initiate into Trika those fettered souls who have been initiated into the Siddhānta, that is, Tantra divided into ten and eighteen (Tantras), and into the sixty-four Bhairava (Tantras). It is said in the Siddhavīrāvalisāra as well as in Bhairava’s Kula < that the initiation that is called Anuttara\* is preceded by a series of five initiations.” (40cd-42ab) 
+(The teacher) should initiate into Trika those fettered souls who have been initiated into the Siddhānta, that is, Tantra divided into ten and eighteen (Tantras), and into the sixty-four Bhairava (Tantras). It is said in the Siddhavīrāvalisāra[^668] as well as in Bhairava’s Kula [^669] that the initiation that is called Anuttara[^670] is preceded by a series of five initiations.[^671] (40cd-42ab) 
 
 #### Viveka on 22.40–42
 
-This (matter) has been discussed in chapter thirteen. Accordingly, one should refer (back to) there. \* 
+This (matter) has been discussed in chapter thirteen. Accordingly, one should refer (back to) there. [^672] 
 
 (Now) he brings this (exposition back) to rest in the main point. 
 
-670?\. Abhinava refers to a Siddhāvīratantra in TĀ 33/2. But we know that the citation is from the Siddhayogeśvarīmata. A manuscript of a fragment (chapter five) of a text called Siddhavīreśvarī-tantra is deposited in the Asiatic Society of Calcutta (MS 3917D, no. 5947, see Śāstrī 1939-1940: 135-136). I have not seen it, so I cannot say whether it is the Siddhayogeśvarīmata. Perhaps the Siddhavīrāvali-sāra cited in TĀ 22/40cd42ab may be the Vīrāvalitantra. But this seems unlikely. Another possibility is that it is the Vīrāvalihṛdaya, quoted above in 15/102cd-104ab. Perhaps Abhinava is referring to three Trika Tantras in a single co-ordinate (dvandva) compound, namely, the Siddhayogeśvarīmata (Siddha-), Vīrāvali, and Trikasāra (-sāra). If so, Abhinava is saying in TĂ 22/40cd-42ab that Anuttaradīkṣā, which bestows immediate realization, is taught in all three of these Trika Tantras. The initiation is also taught in the Parātrīśikā, or at least possesses the same characteristic (see ibid. verse 25).
+[^668]: Abhinava refers to a Siddhāvīratantra in TĀ 33/2. But we know that the citation is from the Siddhayogeśvarīmata. A manuscript of a fragment (chapter five) of a text called Siddhavīreśvarī-tantra is deposited in the Asiatic Society of Calcutta (MS 3917D, no. 5947, see Śāstrī 1939-1940: 135-136). I have not seen it, so I cannot say whether it is the Siddhayogeśvarīmata. Perhaps the Siddhavīrāvali-sāra cited in TĀ 22/40cd42ab may be the Vīrāvalitantra. But this seems unlikely. Another possibility is that it is the Vīrāvalihṛdaya, quoted above in 15/102cd-104ab. Perhaps Abhinava is referring to three Trika Tantras in a single co-ordinate (dvandva) compound, namely, the Siddhayogeśvarīmata (Siddha-), Vīrāvali, and Trikasāra (-sāra). If so, Abhinava is saying in TĂ 22/40cd-42ab that Anuttaradīkṣā, which bestows immediate realization, is taught in all three of these Trika Tantras. The initiation is also taught in the Parātrīśikā, or at least possesses the same characteristic (see ibid. verse 25).
 
-671?\. \[illegible\] One could also understand bhairavīye kule to mean ‘belonging to the Bhairavakula’, rather than the name of a text. But this is unlikely. Abhinava has quoted the Bhairavakula concerning the five levels of initiation leading to Trika. See above, 13/302. Indeed, he quotes the Bhairavakula Tantra in several other places. See TĀ 27/45-46, 28/50-52ab, 28/59cd and 28/388cd.
+[^669]: \[illegible\] One could also understand bhairavīye kule to mean ‘belonging to the Bhairavakula’, rather than the name of a text. But this is unlikely. Abhinava has quoted the Bhairavakula concerning the five levels of initiation leading to Trika. See above, 13/302. Indeed, he quotes the Bhairavakula Tantra in several other places. See TĀ 27/45-46, 28/50-52ab, 28/59cd and 28/388cd.
 
-672?\. Tt is also possible to take ‘anuttara’ here to be an adjective meaning ‘unexcelled’ or ‘most excellent’. However, it appears, at least in my opinion, that Abhinava is referring to initiation into Trika as Anuttaradīksā (see above 13/302). Taking ‘anuttara’ to be a proper name, the expression means initiation into Anuttara, which could be taken to be short for Anuttaratrika.
+[^670]: Tt is also possible to take ‘anuttara’ here to be an adjective meaning ‘unexcelled’ or ‘most excellent’. However, it appears, at least in my opinion, that Abhinava is referring to initiation into Trika as Anuttaradīksā (see above 13/302). Taking ‘anuttara’ to be a proper name, the expression means initiation into Anuttara, which could be taken to be short for Anuttaratrika.
 
-673?\. Read -kramopāntā for -kramopātta.
+[^671]: Read -kramopāntā for -kramopātta.
 
-674?\. \[illegible\] See above, 13/302.
+[^672]: \[illegible\] See above, 13/302.
 
 
 *[p. 292]* ^pg312
@@ -580,17 +580,17 @@ One does not resort to another teacher only when a teacher is incompetent, (that
 
 ### TĀ 22.43–44
 
-So too, one who, impelled by Maheśvara, who resides in his heart, aspires to a very extensive knowledge of the scriptures, may go to many teachers and also take their initiations that end in (his) consecration (as a teacher). Indeed, performed by (various teachers) who (individually) possess the knowledge this and that each one (of the scriptures), strengthen (and reinforce his) knowledge.” (43-44) 
+So too, one who, impelled by Maheśvara, who resides in his heart, aspires to a very extensive knowledge of the scriptures, may go to many teachers and also take their initiations that end in (his) consecration (as a teacher). Indeed, performed by (various teachers) who (individually) possess the knowledge this and that each one (of the scriptures), strengthen (and reinforce his) knowledge.[^673] (43-44) 
 
 #### Viveka on 22.43–44
 
 Surely, according to such views (as the following), it is taught that it is (an obstructing) sin (pratyavāya) to abandon a teacher: 
 
-40 ‘By disrespecting the teacher, one dies. By disrespecting the Mantra, one becomes poor. By abandoning the teacher and the Mantra, even a Siddha goes to hell?“ 
+‘By disrespecting the teacher, one dies. By disrespecting the Mantra,[^674] one becomes poor. By abandoning the teacher and the Mantra, even a Siddha goes to hell?“[^675] 
 
-675?\. Here it appears that Abhinava is talking about himself. He clearly declares that he has gone to many teachers (see below, 37/58 ff.). Moreover, we have observed on many occasions that Abhinava refers to his Trika teacher, Śambhunātha, as the Supreme Lord (parameśvara) as well as, occasionally, Maheśvara (see, for example, 5/97 (96cd-97ab)). Who else could reside in his heart? In other words, however many teachers have initiated him, it is only this one teacher who is in his heart. He never abandons him, nor relativises him in relation to other teachers, even if he has received the full range of initiations from them. Jayaratha goes on to tell us that, although encouraged to learn from other teachers, the disciple may only do so if he receives the permission of his teacher to do so, or is sent by him to another teacher. So it may well be that the Maheśvara in Abhinava’s heart who is directing him to seek out teachers is indeed Śambhunātha.
+[^673]: Here it appears that Abhinava is talking about himself. He clearly declares that he has gone to many teachers (see below, 37/58 ff.). Moreover, we have observed on many occasions that Abhinava refers to his Trika teacher, Śambhunātha, as the Supreme Lord (parameśvara) as well as, occasionally, Maheśvara (see, for example, 5/97 (96cd-97ab)). Who else could reside in his heart? In other words, however many teachers have initiated him, it is only this one teacher who is in his heart. He never abandons him, nor relativises him in relation to other teachers, even if he has received the full range of initiations from them. Jayaratha goes on to tell us that, although encouraged to learn from other teachers, the disciple may only do so if he receives the permission of his teacher to do so, or is sent by him to another teacher. So it may well be that the Maheśvara in Abhinava’s heart who is directing him to seek out teachers is indeed Śambhunātha.
 
-676?\. The medial vowel between words in the compound mantrāvajñayā has been shortened to mantravajñayā for the sake of the metre. Although such adjustments metri causa are not allowed in standard Pāṇinian Sanskrit, they are common in the deviant (aisa) Sanskrit of early Śaiva texts. Indeed, most of the deviant forms we observe in the Sanskrit of these texts is for that reason. Normally Jayaratha, like Abhinava, silently corrects the text to standard Sanskrit, and would have done that in this case also, but was prevented from doing so by the evident infringement of the metre that would result.
+[^674]: The medial vowel between words in the compound mantrāvajñayā has been shortened to mantravajñayā for the sake of the metre. Although such adjustments metri causa are not allowed in standard Pāṇinian Sanskrit, they are common in the deviant (aisa) Sanskrit of early Śaiva texts. Indeed, most of the deviant forms we observe in the Sanskrit of these texts is for that reason. Normally Jayaratha, like Abhinava, silently corrects the text to standard Sanskrit, and would have done that in this case also, but was prevented from doing so by the evident infringement of the metre that would result.
 
 
 *[p. 293]* ^pg313
@@ -607,13 +607,13 @@ uktaṁ ca Śrīmate śāstre tatra tatra ca bhūyasā |
 āmodārthī yathā bhṛṅgaḥ puṣpāt puṣpāntaraṁ vrajet ॥ 45 ॥
 vijñānārthī tathā śiṣyo guror gurvantaraṁ tv iti | 
 
-It is said in the venerable Mataśāstra and in many (other) places that ‘just as a bee desiring fine scent goes from flower to flower, so too a (good) student who desires knowledge should go from teacher to teacher.’ (45-46ab) 
+It is said in the venerable Mataśāstra and in many (other) places that ‘just as a bee desiring fine scent goes from flower to flower, so too a (good) student who desires knowledge should go from teacher to teacher.’[^676] (45-46ab) 
 
 #### Viveka on 22.45–46
 
 There is just this much (that needs to be) specified here, namely, (the disciple) should go to another teacher with the permission of the previous one. That is said (in the following verse): 
 
-‘However, he should go with the teacher’s permission, and not abandon (the previous) teacher. By abandoning that teacher, no success (siddhi) (is possible,) even by repeating Mantra millions of times.” 
+‘However, he should go with the teacher’s permission, and not abandon (the previous) teacher. By abandoning that teacher, no success (siddhi) (is possible,) even by repeating Mantra millions of times.”[^677] 
 
 Surely (one may ask), amongst these many teachers, is there in this way some special (quality) some one of them may possess, or not? With this doubt in mind, he says: 
 
@@ -624,11 +624,13 @@ Veneration of the One Teacher who Bestows the Highest Knowledge
 गुरूणां भूयसां मध्ये यतो विज्ञानमुत्तमम् ॥ ४६ ॥
 प्राप्तं सोऽस्य गुरु्दीक्षा चात्र मुख्या हि संविदि ।
 
-677?\. This verse is most probably from the same source as the one quoted in TĀv ad 22/45-46ab.
+[^675]: This verse is most probably from the same source as the one quoted in TĀv ad 22/45-46ab.
 
-678?\. The same verse, with no variants, is quoted above in 13/335. See there for the verse that follows and cf. 4/276cd-277ab (276). Gnoli has identified this reference as being from the SYM, but this is unlikely. Törzsök (1999: 227) opines: ‘the reference seems more likely to belong to the Mata, which saw itself as surpassing other systems, and perhaps was encouraging initiates of other systems to ‘convert’. However, as Jayaratha points out, disciples were supposed to ask permission to leave their guru and could not fly from one guru to another like bees from flower to flower, as Abhinavagupta describes the situation. Abhinavagupta’s version reflects perhaps his own experience.” Cf. above, 4/276cd-277ab (276)
+[^676]: The same verse, with no variants, is quoted above in 13/335. See there for the verse that follows and cf. 4/276cd-277ab (276). Gnoli has identified this reference as being from the SYM, but this is unlikely. Törzsök (1999: 227) opines: ‘the reference seems more likely to belong to the Mata, which saw itself as surpassing other systems, and perhaps was encouraging initiates of other systems to ‘convert’. However, as Jayaratha points out, disciples were supposed to ask permission to leave their guru and could not fly from one guru to another like bees from flower to flower, as Abhinavagupta describes the situation. Abhinavagupta’s version reflects perhaps his own experience.” Cf. above, 4/276cd-277ab (276)
 
-679?\. This verse is most probably from the same source as the one quoted in TĀv ad 22/43-44. Read cātra mukhyā for nātra mukhyā. Abhinava can only be referring here to his Trika teacher Sambhunātha. Initiation into Trika is initiation into Anuttara consciousness.
+[^677]: This verse is most probably from the same source as the one quoted in TĀv ad 22/43-44.
+
+[^678]: Read cātra mukhyā for nātra mukhyā. Abhinava can only be referring here to his Trika teacher Sambhunātha. Initiation into Trika is initiation into Anuttara consciousness.
 
 
 *[p. 294]* ^pg314
@@ -636,7 +638,7 @@ Veneration of the One Teacher who Bestows the Highest Knowledge
 gurūṇār bhūyasām madhye yato vijñānam uttamam || 46 ॥
 prāptaṁ so ‘sya gurur dīkṣā cātra mukhyā hi saṁvidi | 
 
-Amongst the many teachers, one’s teacher (in the fullest sense is the one) from whom one has obtained the highest knowledge, and his is the chief initiation here within consciousness.“ (46cd-47ab) 
+Amongst the many teachers, one’s teacher (in the fullest sense is the one) from whom one has obtained the highest knowledge, and his is the chief initiation here within consciousness.[^678] (46cd-47ab) 
 
 #### Viveka on 22.46–47
 

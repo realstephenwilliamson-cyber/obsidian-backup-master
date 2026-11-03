@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Lessig - Code Version 2.0]]"
 book: "[[Library/Philosophy/Code Version 2.0 (Lessig)/Code Version 2.0 (Lessig)|Code Version 2.0 (Lessig)]]"
 order: 3
 source_pdf: "Library/Philosophy/Lessig - Code Version 2.0 (2006).pdf"
-page_range: "xiii–15"
+page_range: "xiii–xix"
 pdf_pages: "10–15"
 text_source: "the PDF's own text layer (PyMuPDF)"
 converted: 2026-10-22
@@ -86,5 +86,5 @@ I began this project as a fellow at Harvard’s Program on Ethics and the Profes
 
 But more significant than any of that support has been the patience, and love, of the person to whom I’ve dedicated my life, Bettina Neuefeind. Her love will seem crazy, and wonderful, for much more than a year.
 
-*[p. 15]* ^pg15
+*[p. xix]* ^pg15
 

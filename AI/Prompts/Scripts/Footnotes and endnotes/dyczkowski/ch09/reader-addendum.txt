@@ -1,0 +1,44 @@
+CHAPTER NINE (vol. 6, notes 03-09): what is different from the brief (2 Nov 2026; adapted from the Chapter Two addendum)
+
+1. The OCR lost the footnote numbers in this chapter, so a pre-pass made the definitions from the page images: it found each
+   footnote's start on the image (the line in the footnote zone beginning with a superscript number), read the superscript
+   numbers (template matching; good for nearly all), numbered the starts through the chapter, and made `[^n]: ` at the
+   matching place in the note, mostly by splitting the long line into which the converter had run a page's footnotes.
+   pages.txt shows, under each page, what the pre-pass did ("pre-pass:" lines) and its flags. "MANUAL:" = a start the lead
+   placed by hand from the image.
+2. CHECK EVERY DEFINITION ON YOUR PAGES against the image: its label must be the printed superscript number at the start of
+   that footnote, and the definition must begin where that footnote begins. Fix a wrong start with def ops (brief, op 2).
+   Where the pre-pass missed a footnote, or two footnotes still run together in one definition, make the missing one with a
+   LETTER label (e.g. `57b` after 57): old = its first words (with any garble mark just before them), new = `[^57b]: ` + the
+   same words, or "\n\n[^57b]: " + the words when it starts in the middle of a line; place its call `[^57b]`; give its
+   printed number in per_note. Never use a free number; the lead relabels letter labels to the printed numbers.
+   A definition that still begins with a mark standing for the superscript (`\^`, `%`, `+`, a stray digit, a Devanagari
+   letter such as `र`): remove the mark with a def op. But keep:
+   - `\[illegible\]` at the head of a definition: it stands for the superscript or the first word(s); it stays.
+   - a `7`, `7?` or similar where the print has ĪP (Īśvarapratyabhijñā): that is the OCR's reading of the word, not of the
+     number (e.g. `[^40]: 7 2/4/3-4.`, `[^157]: 7 3/2/10.`, `[^316]: 7? 1/5/16a.`, `[^67]: नौ? 2/4/2.`).
+3. LABELS = PRINTED NUMBERS. The print numbers Chapter Nine's footnotes 1-576 through the chapter (notes 03 to 09); the
+   labels the pre-pass gave are the printed numbers. Do not renumber anything. 561-565 and 568 (note 09) are already real:
+   no op for them, unless a call stands in the wrong place.
+   Known gaps: 76 (PDF 54) and 235 (PDF 118) have no text in the note (the converter dropped them): report them, add no
+   definition and no call. 374: the images show 373 on PDF 181 and 375 on PDF 182; the print seems to skip 374: confirm.
+4. CARRY-OVERS. A carried-over part of a footnote is plain text at the top of the next page's footnotes: after the pre-pass
+   it stands as an unnumbered paragraph just before that page's first definition (or as the page's only footnote text).
+   Join each such paragraph with a move op (brief, op 4): `after` = the last line of that footnote's text before it (its
+   definition line, its last same-page continuation, or the line of the previous carried paragraph when it runs over
+   several pages: chains are allowed; several paragraphs moved after the same line keep their order). Body text (the
+   translation and commentary) that continues on the next page is NOT moved. The converter ran a footnote's further
+   paragraphs into the same line, so there is usually nothing to indent; where a further paragraph of a footnote stands
+   as a line of its own after the definition, indent it (op 3).
+5. Body text the OCR put among the footnotes, or footnote text inside a body line: report, don't fix. An unnumbered
+   asterisk note: follow the brief where it is printed inside or under a footnote; one printed on its own at the head
+   of the footnotes (e.g. PDF 217, `* Instead of trividhena kañcukamalena, ...`): leave it plain and report it.
+6. REPEATED PAGES. PDF 263-264 are a second scan of PDF 261-262 (printed pp. 244-245); the vault keeps both copies.
+   Note 08 has 507 on PDF 261 and its copy on PDF 263: the copy is left plain by the pre-pass; make it a definition with
+   the label `507b` (def op, dropping the garble before its first words) and place `[^507b]` at its call on PDF 263's
+   body; report it (the lead decides its final label). Note 09's PDF 264 holds the copies of 508-511 (their originals are
+   in note 08): in note 09 they keep the labels 508-511.
+7. YOUR PAGES ONLY. Other readers have the other pages of the same note.txt. Write ops only for lines that lie on your
+   pages (from your first page's marker line to the line before the marker of the page after your last). A move op's
+   `after` may point to a line before your range (a footnote carried over from the page before yours). If the first
+   footnote text on your first page carries over from the page before, join it (that is yours).

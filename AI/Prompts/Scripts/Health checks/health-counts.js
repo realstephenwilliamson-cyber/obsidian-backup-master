@@ -165,7 +165,7 @@
   guard('dups');
   // Guide and Welcome: every backtick path and [[link]] checked
   const gw = {};
-  for (const p of ['Vault Guide.md', 'Welcome to the vault.md', 'AI/Prompts/Prompts - read me.md', 'AI/Prompts/House rules for AI work.md']) {
+  for (const p of ['Vault Guide.md', 'AI/Prompts/Prompts - read me.md', 'AI/Prompts/House rules for AI work.md']) {
     const t = await ad.read(p); const miss = [];
     for (const m of t.matchAll(/`((?:Texts|Library|Catalog|Study|Projects|Journal|Notes|AI|Templates|Calendar|Excalidraw)\/[^`]*)`/g)) { const q = m[1].replace(/\/$/, '').replace(/\/\*\*$/, ''); if (/[<>*…]/.test(q)) continue; if (!(await ad.exists(q)) && !(await ad.exists(q + '.md'))) miss.push('path: ' + m[1]); }
     for (const m of t.matchAll(/\[\[([^\]|#]+)/g)) { const n = m[1].replace(/\\$/, ''); if (/[<>]/.test(n) || n.length > 120) continue; if (!MC.getFirstLinkpathDest(n, p)) miss.push('link: ' + n); }

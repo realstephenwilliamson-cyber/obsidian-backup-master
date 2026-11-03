@@ -105,7 +105,7 @@ saṇnmāsād varadā devi svakīyāṁśasya \[g: sasya\] sādhake ॥ 254 ॥
 
 APPENDIX B CHAPTER TWENTY-EIGHT 
 
-excellent garment of antelope skin. A svastika is drawn on (her) hand’ and she utters Vedic mantras. (The adept) should display her gestures (mudrā), then she will be pleased. O goddess, in six months she will bestow boons to the adept who belongs to her own limb. O beloved, she bestows her grace (ādeśa) also to one who is not (her) limb in a year. (16/652cd-255ab) 
+excellent garment of antelope skin. A svastika is drawn on (her) hand[^570] and she utters Vedic mantras. (The adept) should display her gestures (mudrā), then she will be pleased. O goddess, in six months she will bestow boons to the adept who belongs to her own limb. O beloved, she bestows her grace (ādeśa) also to one who is not (her) limb in a year. (16/652cd-255ab) 
 
 Kaumārī 2\] śuklagauryā tu yā gauryā vibhaktāṇgī ghanāruhā || 255 ॥
 kapilā dīrghakeśī ca kapilekṣaṇarūgviṇā |
@@ -129,7 +129,7 @@ mayūradhvanigaṁbhīrā priyālāpā sumālinī || 262 ॥
 evar prayatnato jñātvā mudrāṁ tasyā \[g: tasyāḥ\] pradarśayet || 263 ॥
 Saktighanta Saktighanta patākā vā vapūraṁi vāpi darśayet | 
 
-570?\. Although one manuscript reads haste (‘on the hand’) which makes sense. MS G reads dvāne that does not correct but suggests a possible bhāle ‘on the forehead’.
+[^570]: Although one manuscript reads haste (‘on the hand’) which makes sense. MS G reads dvāne that does not correct but suggests a possible bhāle ‘on the forehead’.
 
 
 *[p. 415]* ^pg432
@@ -148,7 +148,7 @@ evar jñātvā tu mantrajño mudrām tasyā pradarśayet |
 samkhamudgarasārangacakraṁ muśalam eva vā I| 268 ॥
 svagotre varadā devī vigotre Subham ādiset | 
 
-(The yoginī associated with Cāmunqā is) a woman whose skin is dark, like a hemp flower. She always likes (to wear) yellow clothes, fights with wrestlers, and is passionate. She is attached to (good) wine and, O fair lady, she delights in destroying demons. She is rich with betel (leaves), flowers and (fine) clothes. She has much (sexual) desire and likes (to play with Śiva’s) host. One should know her to be always free of shame, and is ever devoted to wandering about. Once the knower of mantra has known her to be such, he should display her gesture or else (show her) a conch, pestle, bow, discus or club. The goddess bestows boons (to those of) her own clan and (to those of) another clan; she ordains (all that is) auspicious.? (16/265cd-269ab) 
+(The yoginī associated with Cāmunqā is) a woman whose skin is dark, like a hemp flower. She always likes (to wear) yellow clothes, fights with wrestlers, and is passionate. She is attached to (good) wine and, O fair lady, she delights in destroying demons. She is rich with betel (leaves), flowers and (fine) clothes. She has much (sexual) desire and likes (to play with Śiva’s) host. One should know her to be always free of shame, and is ever devoted to wandering about. Once the knower of mantra has known her to be such, he should display her gesture or else (show her) a conch, pestle, bow, discus or club. The goddess bestows boons (to those of) her own clan and (to those of) another clan; she ordains (all that is) auspicious.[^571] (16/265cd-269ab) 
 
 Vārāhī 5\] bhinnāṁjanapratīkāśā dariturā pāvikadvijā ॥ 269 ॥
 lambastanī bṁatkāyā sthūlamātrā ghanatviṣā |
@@ -156,7 +156,7 @@ lambastanī bṁatkāyā sthūlamātrā ghanatviṣā |
 nistrisā \[g: -sā\] nispṁā devi bhavate kalahapriyā |
 vārāhyaṁiśā samuddiṣtā mudrāṁ tasyā.h pradāpayet ॥ 271 ॥ 
 
-571?\. According to the normal serial order, Cāmunqā is the penultimate or, sometimes, last Mother. This is also the order of presentation in the list of their sacred days recorded here further ahead. The visualized form also corresponds to that of Cāmundā. Again, while this visualization is not named here, the visualization of Indrāṇī is named. This too confirms that the sequential order of the visualizations has somehow been changed.
+[^571]: According to the normal serial order, Cāmunqā is the penultimate or, sometimes, last Mother. This is also the order of presentation in the list of their sacred days recorded here further ahead. The visualized form also corresponds to that of Cāmundā. Again, while this visualization is not named here, the visualization of Indrāṇī is named. This too confirms that the sequential order of the visualizations has somehow been changed.
 
 
 *[p. 416]* ^pg433

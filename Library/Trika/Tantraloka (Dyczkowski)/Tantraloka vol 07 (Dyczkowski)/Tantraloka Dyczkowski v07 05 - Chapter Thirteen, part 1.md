@@ -20,7 +20,7 @@ The Descents of Power and Obscuration (śaktipātatirohifī)
 
 May the one who waxes great by (his) victory (over all things) increase (our) wealth of bliss (sukharddhi), He whose path is made clear by the full moon, He who nourishes the universe by the showers (āsāra) of nectar of the descent of the power of (His) own (grace). 
 
-(One may ask that,) here, in accord with the teaching that ‘the wise should not imagine that there is any difference here in the fruit, which is consciousness’,' the attainment of the plane of Anuttara alone is the fruit (of all the means to realization), including the Individual Means and the rest. So you should teach that there is just one means. What is the use of (having) these three? In order to clear up this doubt, it is taught that there is a difference in the qualifications (people have to practice) (adhikārabheda).? (Thus,) in order to define the discernment (of the differences) in the sequence of (the degrees) of the descent of the power (of grace) (that determines the degree and level of a practitioner’s qualification to practice), he introduces (the subject) in the second half of the verse (of which the first line concludes the previous chapter). 
+(One may ask that,) here, in accord with the teaching that ‘the wise should not imagine that there is any difference here in the fruit, which is consciousness’,[^270] the attainment of the plane of Anuttara alone is the fruit (of all the means to realization), including the Individual Means and the rest. So you should teach that there is just one means. What is the use of (having) these three? In order to clear up this doubt, it is taught that there is a difference in the qualifications (people have to practice) (adhikārabheda).[^271] (Thus,) in order to define the discernment (of the differences) in the sequence of (the degrees) of the descent of the power (of grace) (that determines the degree and level of a practitioner’s qualification to practice), he introduces (the subject) in the second half of the verse (of which the first line concludes the previous chapter). 
 
 ### TĀ 13.1
 
@@ -38,9 +38,9 @@ In order to discern either who is qualified here (to receive initiation and prac
 
 Surely (one may ask), others have talked about the discernment (of differences in the degrees) of the descent of the power (of grace). So what is the use of that here? (Our reply is,) yes, that is so, (but) not having accepted that, and (found) the defects (in the views of others concerning this), we will present our own view (siddhānta). Thus, he says: 
 
-270?\. MV 2/25, also quoted in TĀv ad 1/226cd-227ab (227), ad 5/155cd-156ab (154cd-155ab), and ad 34/3; read, as in the other places, saṁvittiphalabhedo for samvidi phalabhedo.
+[^270]: MV 2/25, also quoted in TĀv ad 1/226cd-227ab (227), ad 5/155cd-156ab (154cd-155ab), and ad 34/3; read, as in the other places, saṁvittiphalabhedo for samvidi phalabhedo.
 
-271?\. Somadeva (2004: 386): ‘In the Trika of the Mālinīvijayottara, which offers a plethora of equally liberating means (upāya), the existence of more advanced or quicker methods does not however invalidate the ‘lower’ teachings, since not all practitioners are considered to be equally qualified, competent, or even inclined to take up certain practices.”
+[^271]: Somadeva (2004: 386): ‘In the Trika of the Mālinīvijayottara, which offers a plethora of equally liberating means (upāya), the existence of more advanced or quicker methods does not however invalidate the ‘lower’ teachings, since not all practitioners are considered to be equally qualified, competent, or even inclined to take up certain practices.”
 
 
 *[p. 121]* ^pg141
@@ -53,7 +53,7 @@ Surely (one may ask), others have talked about the discernment (of differences i
 tatra kecid iha prāhuḥ śaktipāta \[illegible\] vidhim |
 tam pradarśya nirākṛtya svamataṁ darśayiṣyate ॥ 2 || 
 
-There (in that connection), some (others)? have (also) discussed this procedure (vidhi) (i.e. initiation) in relation to the descent of the power (of grace) (Śaktipāta). Once that has been presented and refuted, we will expound our own view. (2) 
+There (in that connection), some (others)[^272] have (also) discussed this procedure (vidhi) (i.e. initiation) in relation to the descent of the power (of grace) (Śaktipāta). Once that has been presented and refuted, we will expound our own view. (2) 
 
 #### Viveka on 13.2
 
@@ -79,7 +79,7 @@ ghaṭādivat kāryam iti hetur eko ‘sya sā niśā ॥ 4 ॥
 
 There (in this context, according to the Sāṁkhya,) (all) this (sphere of) perceptible (objective) existence, (ranging from the principle of the 
 
-272?\. The others are Siddhāntins such as Sadyojyotiṣ and Rāmakanṇṭha, as well as the Siddhāntāgamas themselves. Verses 1-101 contain a lengthy dispute concerning Karma, Impurity (mala) and Māyā, and the reasons Saiddhāntikas give for the occurrence of śaktipāta — the descent of the power of grace. From verse 102 onwards, Abhinava presents his own view concerning śaktipāta, shifting from the somewhat dry tone of the preceding discussion to a lighter, more poetic one.
+[^272]: The others are Siddhāntins such as Sadyojyotiṣ and Rāmakanṇṭha, as well as the Siddhāntāgamas themselves. Verses 1-101 contain a lengthy dispute concerning Karma, Impurity (mala) and Māyā, and the reasons Saiddhāntikas give for the occurrence of śaktipāta — the descent of the power of grace. From verse 102 onwards, Abhinava presents his own view concerning śaktipāta, shifting from the somewhat dry tone of the preceding discussion to a lighter, more poetic one.
 
 
 *[p. 122]* ^pg142
@@ -102,11 +102,11 @@ With this doubt in mind, he says ‘this is’ (Unmanifest (Nature) (avyakta), w
 
 *[p. 124]* ^pg144
 
-it is not multiple." Insofar as it is insentient, Unmanifest (Nature) is multiple, and so is an effect (of a prior cause). It was said before that: 
+it is not multiple.[^274] Insofar as it is insentient, Unmanifest (Nature) is multiple, and so is an effect (of a prior cause). It was said before that: 
 
 ‘Every insentient (entity) is both diverse (anekātmā) and the product (of a preceding cause), as is, as for example, a jar. Fundamental matter (pradhāna) is such; therefore, it is an effect (of a preceding cause, not the basic cause of objective phenomena, as the Sāṁkhya maintain). This is not the case with the 
 
-Self, which is conscious.’ 
+Self, which is conscious.’[^275] 
 
 As Unmanifest Nature is an effect, what (then) is its cause? Thus (in response to this question), it is said that ‘the sole cause of this (objectivity is Māyā), the Night (niśā)’. . 
 
@@ -125,13 +125,13 @@ kalādidharaṇīprāntaṁ jāḍyāt sā sūtaye ‘kṣamā || 5 ॥
 
 teneśaḥ kṣobhayed enām kṣobho “s; tiyogyatā | 
 
-(However,) that (Māyā) is (also) insentient, because its products are such; and its product, that is, (all the principles) from the Force (of limited agency) (kalā) down to Earth, (including the factors that individualize the soul, constitute) the (objective) reality (sat) contained within it.” (However,) because of (its) insentience, (Māyā) cannot (in fact) give birth (to any of 
+(However,) that (Māyā) is (also) insentient, because its products are such; and its product, that is, (all the principles) from the Force (of limited agency) (kalā) down to Earth, (including the factors that individualize the soul, constitute) the (objective) reality (sat) contained within it.[^276] (However,) because of (its) insentience, (Māyā) cannot (in fact) give birth (to any of 
 
-274?\. Read \[illegible\] caitanye for tadācaitanye.
+[^274]: Read \[illegible\] caitanye for tadācaitanye.
 
-275?\. Above, 9/153.
+[^275]: Above, 9/153.
 
-276?\. Māyā is the material cause and not the efficient cause of these various products that thus constitute it (see above, 9/151cd-152). These reality levels (tattva) from the Force (of limited agency) to Earth are the mental, sensory and physical principles that are permeated by consciousness and serve as its instruments, and are its objectively experienced content. Liberation is not achieved, as the Yoga and Sāṁńkhya systems maintain, just by discrimination, as outlined above in note 13,4. Liberation can only be achieved by God's grace. Above the sphere of Māyā, deity is the supreme subjectivity, in relation to which the individual soul is also an object. Accordingly, the principles ranging from the Force (of limited agency) to Earth are here said to be ‘insentient’, that is, objective. This sphere also includes the individual soul (puruṣatattva), in this sense. At the same time, it appears from what follows that the individual soul is understood to be a centre of consciousness, for which the other principles ranging from Māyā to Earth operate.
+[^276]: Māyā is the material cause and not the efficient cause of these various products that thus constitute it (see above, 9/151cd-152). These reality levels (tattva) from the Force (of limited agency) to Earth are the mental, sensory and physical principles that are permeated by consciousness and serve as its instruments, and are its objectively experienced content. Liberation is not achieved, as the Yoga and Sāṁńkhya systems maintain, just by discrimination, as outlined above in note 13,4. Liberation can only be achieved by God's grace. Above the sphere of Māyā, deity is the supreme subjectivity, in relation to which the individual soul is also an object. Accordingly, the principles ranging from the Force (of limited agency) to Earth are here said to be ‘insentient’, that is, objective. This sphere also includes the individual soul (puruṣatattva), in this sense. At the same time, it appears from what follows that the individual soul is understood to be a centre of consciousness, for which the other principles ranging from Māyā to Earth operate.
 
 
 *[p. 125]* ^pg145
@@ -213,20 +213,20 @@ dharmād yadi kutaḥ so ‘pi karmataś cet tad ucyatām ॥ 10 ॥
 
 #### Viveka on 13.8–10
 
-Now (Kṛṣṇa declares in the Bhagavadgītā): ʻO Arjuna, the fire of knowledge reduces all Karmas to ashes.” If, in accord with this teaching, one considers that Karma is destroyed by knowledge, (the question arises) what the attendant cause (nimitta) of that knowledge is. Accordingly, he asks ‘where does that (knowledge) come from?’ Others (i.e. the Vaiśeṣikas and 
+Now (Kṛṣṇa declares in the Bhagavadgītā): ʻO Arjuna, the fire of knowledge reduces all Karmas to ashes.”[^278] If, in accord with this teaching, one considers that Karma is destroyed by knowledge, (the question arises) what the attendant cause (nimitta) of that knowledge is. Accordingly, he asks ‘where does that (knowledge) come from?’ Others (i.e. the Vaiśeṣikas and 
 
-278?\. \[illegible\] 81 4/37cd.
+[^278]: \[illegible\] 81 4/37cd.
 
 
 *[p. 128]* ^pg148
 
-Naiyāyikas) say (that) the cause is of many kinds, such as attendance to the six or sixteen realities (padārtha).” So, (having said) that much (tāvaf), we do not know which one out of these (alternatives) has been ordained (to be its cause). He says there (with regards to that,) with reference to (the view of) the Mīmāṁsā (and the Nyāya), that accept the existence of a God (who governs the universe and ordains its laws, and that the means to this liberating knowledge is the observance of) ‘the duty (dharma) enjoined (codita) by God’. The meaning is that (this) ‘duty’, which is variously (otherwise) termed, for example ‘apūrva’ etc., has as its characteristic that it is ‘enjoined’, (the injunction being that) ‘one should offer sacrifice’ (to the gods) (yajet).? (But) 
+Naiyāyikas) say (that) the cause is of many kinds, such as attendance to the six or sixteen realities (padārtha).[^279] So, (having said) that much (tāvaf), we do not know which one out of these (alternatives) has been ordained (to be its cause). He says there (with regards to that,) with reference to (the view of) the Mīmāṁsā (and the Nyāya), that accept the existence of a God (who governs the universe and ordains its laws, and that the means to this liberating knowledge is the observance of) ‘the duty (dharma) enjoined (codita) by God’. The meaning is that (this) ‘duty’, which is variously (otherwise) termed, for example ‘apūrva’[^280] etc., has as its characteristic that it is ‘enjoined’, (the injunction being that) ‘one should offer sacrifice’ (to the gods) (yajet).[^281] (But) 
 
-279?\. Jayaratha is referring here to the Vaiśeṣika and its closely related philosophy, Nyāya. The Vaiśeṣika ‘takes its name from ‘viśeṣa’ (particularity); it emphasizes the significance of particulars or individuals, and is decidedly pluralistic. The Vaiśeṣika is mainly a system of physics and metaphysics. It adopts a sixfold classification of the objects of experience (padārthas): substance, quality, activity, generality, and inherence, to which later Vaiśeṣikas added a seventh, non-existence. We find that three of these (substance, quality and activity) possess real objective existence and we can intuit them; others (generality, particularity, and inherence) are the products of intellectual discrimination. They are logically inferred, not directly perceived.’ (Radhakrishnan and Moor 1957; 386). These categories are described in detail in the Vaiseṣikasūtra ascribed to Kaṇāda written not later than 300 BCE. ‘Nyāya’ literally means ‘that by which the mind is led to a conclusion’. We are led to conclusions by argument and reasoning. These arguments are either valid or invalid. ‘Nyāya’ in popular usage means ‘right’ or ‘just’, and so Nyāya becomes the science of right or just reasoning. It is, in a wider sense, the science of demonstration or correct knowledge (pramāṇaśāstra).' (op. cit. p. 356). Thus, the most basic of the sixteen categories on which the Naiyāyika reflects are concerned with that. The remaining ones are concerned with the principles of sound disputation and the identification of unsound ones. Gotama, also called Akṣapāda, who lived in the third century BCE, was a founder of the system. He wrote the Nyāyasūtra which begins in the first sūtra with a list of these categories that are then discussed in the same serial order in succeeding sections of the text. They are: (1) the means of authoritative knowledge (pramāṇa), (2) the object of knowledge (prameya), (3) doubt (saṁśaya / śaṅkā), (4) purpose (prayojana), (5) familiar instance (dṛstānta), (6) established tenets (siddhānta), (7) the members of a syllogism (avayava), (8) logical reasoning (tarka), (9) ascertainment (nirṇaya), (10) discussion (vāda), (11) wrangling (jalpa), (12) cavil (vitandā), (13) fallacies (hetvābhāsa), (14) deceitful quibbling (chala), (15) futility (āti), and (16) occasions for rebuke (nigrahasthāna).
+[^279]: Jayaratha is referring here to the Vaiśeṣika and its closely related philosophy, Nyāya. The Vaiśeṣika ‘takes its name from ‘viśeṣa’ (particularity); it emphasizes the significance of particulars or individuals, and is decidedly pluralistic. The Vaiśeṣika is mainly a system of physics and metaphysics. It adopts a sixfold classification of the objects of experience (padārthas): substance, quality, activity, generality, and inherence, to which later Vaiśeṣikas added a seventh, non-existence. We find that three of these (substance, quality and activity) possess real objective existence and we can intuit them; others (generality, particularity, and inherence) are the products of intellectual discrimination. They are logically inferred, not directly perceived.’ (Radhakrishnan and Moor 1957; 386). These categories are described in detail in the Vaiseṣikasūtra ascribed to Kaṇāda written not later than 300 BCE. ‘Nyāya’ literally means ‘that by which the mind is led to a conclusion’. We are led to conclusions by argument and reasoning. These arguments are either valid or invalid. ‘Nyāya’ in popular usage means ‘right’ or ‘just’, and so Nyāya becomes the science of right or just reasoning. It is, in a wider sense, the science of demonstration or correct knowledge (pramāṇaśāstra).' (op. cit. p. 356). Thus, the most basic of the sixteen categories on which the Naiyāyika reflects are concerned with that. The remaining ones are concerned with the principles of sound disputation and the identification of unsound ones. Gotama, also called Akṣapāda, who lived in the third century BCE, was a founder of the system. He wrote the Nyāyasūtra which begins in the first sūtra with a list of these categories that are then discussed in the same serial order in succeeding sections of the text. They are: (1) the means of authoritative knowledge (pramāṇa), (2) the object of knowledge (prameya), (3) doubt (saṁśaya / śaṅkā), (4) purpose (prayojana), (5) familiar instance (dṛstānta), (6) established tenets (siddhānta), (7) the members of a syllogism (avayava), (8) logical reasoning (tarka), (9) ascertainment (nirṇaya), (10) discussion (vāda), (11) wrangling (jalpa), (12) cavil (vitandā), (13) fallacies (hetvābhāsa), (14) deceitful quibbling (chala), (15) futility (āti), and (16) occasions for rebuke (nigrahasthāna).
 
-280?\. Apūrva is a term coined by the Mīmāṁsaka exegetes of Vedic ritual to denote the invisible merit accrued by performing Vedic sacrifices. Its existence explains how ritual action has a long-term effect at a distance. In this respect it is like Karma, but it is not a part of the processes and factors that bind the soul.
+[^280]: Apūrva is a term coined by the Mīmāṁsaka exegetes of Vedic ritual to denote the invisible merit accrued by performing Vedic sacrifices. Its existence explains how ritual action has a long-term effect at a distance. In this respect it is like Karma, but it is not a part of the processes and factors that bind the soul.
 
-281?\. Jayaratha is referring to a number of sūtras in Jaimini’s Mīmāmasāsūtra (third century BCE). These include: ‘Dharma is that which is indicated by means of the Veda as conducive to the highest good,” 1/1/2. ‘There is apūrva, because action (is enjoined)’ (2/1/5). Śabara comments: \^, . there is such a thing as apūrva — in such injunctions as ‘desirous of heaven, he should sacrifice.” Otherwise, if there were no such thing as apūrva, such an injunction would be meaningless, as the act of sacrifice itself is perishable, so that if the sacrifice were to perish without bringing into existence something else, then the cause having ceased to exist, the result (in the shape of heaven) could never come about. From this it follows that the sacrifice does bring into existence something (namely, a force or potency that continues to exist and operate until such time as the result is actually brought about). ‘That one result would be ‘heaven’, as it is equally desirable for all. Also, because such is the common notion (of people)’ (4/3/15-16) ‘Furthermore, inasmuch as the act (of sacrifice) must be related (to something), it should be taken to be related to the desired thing (heaven); hence the text should be taken as enjoining (the act of sacrifice, as the means to the attainment of heaven).’ (6/1/3) Translation by Ganganatha Jha (1933).
+[^281]: Jayaratha is referring to a number of sūtras in Jaimini’s Mīmāmasāsūtra (third century BCE). These include: ‘Dharma is that which is indicated by means of the Veda as conducive to the highest good,” 1/1/2. ‘There is apūrva, because action (is enjoined)’ (2/1/5). Śabara comments: \^, . there is such a thing as apūrva — in such injunctions as ‘desirous of heaven, he should sacrifice.” Otherwise, if there were no such thing as apūrva, such an injunction would be meaningless, as the act of sacrifice itself is perishable, so that if the sacrifice were to perish without bringing into existence something else, then the cause having ceased to exist, the result (in the shape of heaven) could never come about. From this it follows that the sacrifice does bring into existence something (namely, a force or potency that continues to exist and operate until such time as the result is actually brought about). ‘That one result would be ‘heaven’, as it is equally desirable for all. Also, because such is the common notion (of people)’ (4/3/15-16) ‘Furthermore, inasmuch as the act (of sacrifice) must be related (to something), it should be taken to be related to the desired thing (heaven); hence the text should be taken as enjoining (the act of sacrifice, as the means to the attainment of heaven).’ (6/1/3) Translation by Ganganatha Jha (1933).
 
 
 *[p. 129]* ^pg149
@@ -259,20 +259,20 @@ There is no such kind of Karma that gives rise to knowledge. And (even if we ass
 
 *[p. 130]* ^pg150
 
-Nor is it logically possible that the result of (some) action destroys another (different) action (karma). Thus, he says: 
+Nor is it logically possible that the result of (some) action destroys another (different) action (karma).[^282] Thus, he says: 
 
 ### TĀ 13.12
 
 अन्यकर्मफलं प्राच्यं कर्मराशिं च किं दहेत् ।
 anyakarmaphalamri prācyari \[illegible\] \[illegible\] ca ki dahet | 
 
-Moreover, why would the result of another (subsequent) action burn up (dahet) the preceding mass of Karma? (12ab) 
+Moreover, why would the result of another (subsequent) action burn up (dahet)[^283] the preceding mass of Karma? (12ab) 
 
 #### Viveka on 13.12
 
 The sense is that, because in this way there is no difference in the essential (nature of the) fruits (of Karma), then even such fruit as (the attainment) of heaven or (the condition of an) animal would also (be capable of) burning up the Karma that generates knowledge. 
 
-Surely, (one may rejoin that,) even if there is no difference in the essential (nature of the) consequences (of Karma), because the Lord wills it so, only knowledge burns up other Karma and (nothing else,) not even also (the attainment) of heaven or (rebirth as a sacrificial) animal” or the like. With this doubt in mind, he says: 
+Surely, (one may rejoin that,) even if there is no difference in the essential (nature of the) consequences (of Karma), because the Lord wills it so, only knowledge burns up other Karma and (nothing else,) not even also (the attainment) of heaven or (rebirth as a sacrificial) animal[^284] or the like. With this doubt in mind, he says: 
 
 ### TĀ 13.12–13
 
@@ -288,18 +288,18 @@ The Lord is devoid of attachment and aversion, so how is it that he pays attenti
 
 The Lord who is devoid of attachment and aversion (and so is unbiased, does not favour anyone,) ‘somewhere (in some circumstance)’, that is, when knowledge (is the fruit of action,) and (not) ‘elsewhere (in another)’, when (the fruit of Karma is the attainment) of heaven or (rebirth as a) sacrificial animal or the like, ‘as there is no cause for (this) difference’. This is because for Him there is no such distinction at all (between forms of Karma), such that without (even) a single incidental cause (to do so), he pays attention (to one form of 
 
-282?\. Read with MS K karmāntaraphalena for karmāntaraphalane (‘when another action reaches fruition’).
+[^282]: Read with MS K karmāntaraphalena for karmāntaraphalane (‘when another action reaches fruition’).
 
-283?\. A common metaphor for spiritual knowledge is that it is a fire that burns up binding Karma. Cf. above, TĀv ad 13/7cd-10, where Jayaratha quotes BhGī 4/37.
+[^283]: A common metaphor for spiritual knowledge is that it is a fire that burns up binding Karma. Cf. above, TĀv ad 13/7cd-10, where Jayaratha quotes BhGī 4/37.
 
-284?\. Tt is believed that the animals offered in a Vedic sacrifice are in their last life, and offering them liberates them.
+[^284]: Tt is believed that the animals offered in a Vedic sacrifice are in their last life, and offering them liberates them.
 
 
 *[p. 131]* ^pg151
 
-Karma) as that which burns (and consumes), and the other as that which is burnt 16 
+Karma) as that which burns (and consumes), and the other as that which is burnt 
 
-up. 
+up.[^285] 
 
 Moreover, it is not a consequence of the Lord’s will that knowledge, although a fruit of Karma, burns up other Karmas; rather, (there is no need to take recourse to this explanation. One may) adduce (this fact just) on the strength of reason. 
 
@@ -317,13 +317,13 @@ Surely (someone may say that) knowledge burns up the nets of (various) Karmas in
 
 #### Viveka on 13.13–14
 
-Here (in this context, the term), ‘karma’ (denotes ritual action,) characterized as the (performance of the) Agnihotra fire sacrifice and the like, which is to be (regularly) observed. According to such teachings as: ‘present in the agent devoid of (the fullness of) consciousness, (the Impurity) of Karma (gives (as its consequence worldly) birth and experience)’,” (it is only action) that is associated with ignorance that generates such specific fruit as ‘(the attainment of) heaven or the like’. ‘Ignorance is destroyed by knowledge’, which is said to have as its cause another (kind of) Karma. Thus, in actual fact, because (ignorance), its concomitant cause, is absent, the capacity of the Karma that arises to generate (its) consequences has been blocked. Thus, it is only just (in this sense that) it is said that ‘knowledge burns the nets of (various) Karmas’. 
+Here (in this context, the term), ‘karma’ (denotes ritual action,) characterized as the (performance of the) Agnihotra fire sacrifice and the like, which is to be (regularly) observed. According to such teachings as: ‘present in the agent devoid of (the fullness of) consciousness, (the Impurity) of Karma (gives (as its consequence worldly) birth and experience)’,[^286] (it is only action) that is associated with ignorance that generates such specific fruit as ‘(the attainment of) heaven or the like’. ‘Ignorance is destroyed by knowledge’, which is said to have as its cause another (kind of) Karma. Thus, in actual fact, because (ignorance), its concomitant cause, is absent, the capacity of the Karma that arises to generate (its) consequences has been blocked. Thus, it is only just (in this sense that) it is said that ‘knowledge burns the nets of (various) Karmas’. 
 
 Surely (one may ask), if by causing the cessation of the ignorance, which is the concomitant cause of the dispensation of the consequences (of Karma), the capacity of Karma to generate (its) consequences is blocked, how should one understand (what is taking place in cases) where Karma has been 
 
-285?\. Each action is like any other; nor is the Lord biased in one way or another, that He should ordain that some types of action consume the consequences of other types of action.
+[^285]: Each action is like any other; nor is the Lord biased in one way or another, that He should ordain that some types of action consume the consequences of other types of action.
 
-286?\. 7 3/2/5bc. The whole verse says: ‘Here (in this case when Individual Impurity (āṇavamala) exists), the perception of objects as divided off (from one another and the perceiver) is the (Impurity) here called ‘Māyā. Present in an agent devoid of (the fullness of) consciousness, (the Impurity) of Karma gives (as its consequence worldly) birth and experience. All three are due to the power of Māyā alone.’
+[^286]: 7 3/2/5bc. The whole verse says: ‘Here (in this case when Individual Impurity (āṇavamala) exists), the perception of objects as divided off (from one another and the perceiver) is the (Impurity) here called ‘Māyā. Present in an agent devoid of (the fullness of) consciousness, (the Impurity) of Karma gives (as its consequence worldly) birth and experience. All three are due to the power of Māyā alone.’
 
 
 *[p. 132]* ^pg152
@@ -340,19 +340,19 @@ niṣphalīkurute duṣtan karmety aṁgīkṛtaṁ kila ॥ 15 ॥
 
 (Our response to this view is that it implies) that you have accepted (a view that cannot be correct, namely) that (good Karma such as) fasting and the like may be the fruit of (some) other tainted Karma, and that it divests tainted Karma of its consequences (even without the prior 
 
-elimination of ignorance). (15) 
+elimination of ignorance).[^287] (15) 
 
 #### Viveka on 13.15
 
 Here indeed (in this view), the ‘other’ (observances are those such as) ‘fasting and the like’ taught in other texts such as the 50710118. By the words ‘and the like’ (are meant those observances) that are free from sin etc. This kind of Karmic consequence is ‘tainted’. The meaning is that there (in such cases), the (normal) condition of the consequences of Karma would be annulled (utsīdef) (and so the entire basis of the theory of Karma would be undermined). As a result, (it follows that) acts of penance such as fasting and the like may render tainted, that is, hostile (viruddha) Karma such as dog bite ‘free of consequences’, that is, make it capable of generating consequences that have been blocked, even without the elimination of ignorance. Such is what you who advocate (the doctrine of) Karma have accepted (as true). As the Śātātapa (declares): ‘A person who (takes care to observe) vows well, that has been bitten 
 
-by a dog, should fast for three nights.” 
+by a dog, should fast for three nights.”[^288] 
 
 That is not logically sound. (Indeed,) thought concerning whether or not Karma is rendered free of consequences by eliminating ignorance would be (endlessly) extensive. Expressing this doubt, he says: 
 
-287?\. Gnoli translates: ‘However in this case (I reply) that fasting etc would not be capable of neutralizing bad Karman, whereas you maintain the contrary, that is, that they do neutralize it’ He assumes an unstated emendation to the text. Sanderson suggests (Wallis thesis p. 397 n 947) emending duṣtakarmaphalaṁi (‘the fruit of tainted Karma’) to duṣtakarmāpaham (‘removes tainted Karma’). The meaning then would be: ‘(this implies) that you accept (a view that cannot be correct, namely) that (good Karma such as) fasting and the like, removes (some) other tainted action.’ Jayaratha basically accepts the reading as it stands taking —duṣtaphalam to be -duṣtan phalam. I have had to translate accordingly, although I prefer the alternative translations, especially the second one.
+[^287]: Gnoli translates: ‘However in this case (I reply) that fasting etc would not be capable of neutralizing bad Karman, whereas you maintain the contrary, that is, that they do neutralize it’ He assumes an unstated emendation to the text. Sanderson suggests (Wallis thesis p. 397 n 947) emending duṣtakarmaphalaṁi (‘the fruit of tainted Karma’) to duṣtakarmāpaham (‘removes tainted Karma’). The meaning then would be: ‘(this implies) that you accept (a view that cannot be correct, namely) that (good Karma such as) fasting and the like, removes (some) other tainted action.’ Jayaratha basically accepts the reading as it stands taking —duṣtaphalam to be -duṣtan phalam. I have had to translate accordingly, although I prefer the alternative translations, especially the second one.
 
-288?\. \[illegible\] The case in question refers to a person who, engaging in the performance of a sacrifice, has taken care to observe all the rules of purity but has been rendered impure by being bitten by a dog. According to the regulations of the law books (smṛti), this tainted Karma is remedied and removed by observing a fast for three days. This is an example of the common practice of ritual atonement (prāyaścitta), which illustrates how one Karma may be removed by another one, irrespective of the officiant’s knowledge or ignorance.
+[^288]: \[illegible\] The case in question refers to a person who, engaging in the performance of a sacrifice, has taken care to observe all the rules of purity but has been rendered impure by being bitten by a dog. According to the regulations of the law books (smṛti), this tainted Karma is remedied and removed by observing a fast for three days. This is an example of the common practice of ritual atonement (prāyaścitta), which illustrates how one Karma may be removed by another one, irrespective of the officiant’s knowledge or ignorance.
 
 
 *[p. 133]* ^pg153
@@ -375,7 +375,7 @@ kasyāpi vātha jñānasya prācyaḥ pakṣas tv asarṁbhavī |
 
 #### Viveka on 13.16–17
 
-(The following discussion concerning) the ‘absence of knowledge’ (is relevant,) because it is based on (the conception of ignorance as) total negation (prasajyapratiṣedha) (of knowledge, not just a metaphorical or conditional one).” (Does knowledge not exist because of its) ‘destruction’, that is, (it once existed but) has ceased to exist (pradhvaṁsābhāva)?” (Or does) ‘this absence precede (the arising of knowledge) (prāgabhāva) there (in that case)? (Saying) ʻin the first case’ etc., (he goes on to) consider the alternatives. (Does this absence of knowledge concern) ‘(just) some kind of knowledge’, that is, some (particular) fixed (piece or form of knowledge?). 
+(The following discussion concerning) the ‘absence of knowledge’ (is relevant,) because it is based on (the conception of ignorance as) total negation (prasajyapratiṣedha) (of knowledge, not just a metaphorical or conditional one).[^289] (Does knowledge not exist because of its) ‘destruction’, that is, (it once existed but) has ceased to exist (pradhvaṁsābhāva)?[^290] (Or does) ‘this absence precede (the arising of knowledge) (prāgabhāva) there (in that case)? (Saying) ʻin the first case’ etc., (he goes on to) consider the alternatives. (Does this absence of knowledge concern) ‘(just) some kind of knowledge’, that is, some (particular) fixed (piece or form of knowledge?). 
 
 “The former alternative’ is the absence ‘all (forms of) cognitive consciousness’. 
 
@@ -388,9 +388,9 @@ Ignorance as Total Absence of Knowledge is Refuted
 न किञ्चिद्यस्य विज्ञानमुदपादि तथाविधः ।। १७ ॥
 नाणुरस्ति भवे हयस्मित्ननादौ कोऽन्वयं क्रमः ।
 
-289?\. See above, TĀ 2/2 note 2.13. concerning the distinction between metaphorical negation (paryudāsapratiṣedha) and total negation (prasajyapratiṣedha).
+[^289]: See above, TĀ 2/2 note 2.13. concerning the distinction between metaphorical negation (paryudāsapratiṣedha) and total negation (prasajyapratiṣedha).
 
-290?\. According to the Nyāya, there are four kinds of ‘non-existence’. These are as follows. 1) Antecedent non-existence, prior to the coming into being of something (prāgabhāva). 2) Subsequent non-existence, after somethings ceases to exist (pradhvaṁsābhāva). 3) Absolute non-existence (atyantābhāva). 4) Mutual non-existence in two things of one another as their mutual exclusion (anyonyābhāva).
+[^290]: According to the Nyāya, there are four kinds of ‘non-existence’. These are as follows. 1) Antecedent non-existence, prior to the coming into being of something (prāgabhāva). 2) Subsequent non-existence, after somethings ceases to exist (pradhvaṁsābhāva). 3) Absolute non-existence (atyantābhāva). 4) Mutual non-existence in two things of one another as their mutual exclusion (anyonyābhāva).
 
 
 *[p. 134]* ^pg154
@@ -398,7 +398,7 @@ Ignorance as Total Absence of Knowledge is Refuted
 na kiñcid yasya vijñānam udapādi tathāvidhaḥ || 17 ॥
 nānṇur asti bhave hy asminn anādau ko ‘nvayari kramaḥ | 
 
-There is no individual soul of this kind in this beginningless world of transmigration that, like an (empty) boat, has ever been totally devoid of knowledge. What sense (anvaya) (then is there in affirming this)? (17cd-18ab) 
+[^291]There is no individual soul of this kind in this beginningless world of transmigration that, like an (empty) boat, has ever been totally devoid of knowledge. What sense (anvaya) (then is there in affirming this)? (17cd-18ab) 
 
 #### Viveka on 13.17–18
 
@@ -424,7 +424,7 @@ jñānam bhāvi vimukte ‘sminn iti cec carcyatām idam || 19 ||
 
 (Knowledge that) ‘will be’ is (such because it is destined to exist) in the future. The sense is that the absence (of knowledge) that once existed is an absence due to (its) destruction (pradhvaṁsābhāva). The sense of the word ‘also’ is that (if ignorance is the antecedent absence of some form of knowledge,) the liberated soul would (also) possesses that (kind of ignorance,) not just one who is bound by ego and the like. ‘That’ is the antecedent absence of (some form of) knowledge that there will be (at some future time). How is that? He (explains,) saying that ʻit precedes the birth (of knowledge)’ etc. This 
 
-291?\. In this verse, Abhinava elaborates on what he has just stated, namely, that ignorance can either be a total absence of knowledge or the absence which precedes its arising. In this verse, he explains that the former alternative is impossible, that is, that ignorance is just an absence of knowledge. This amounts to saying that ignorance is an absence of sentience. This is impossible. If the soul were to be insentient, it would be a dead physical object.
+[^291]: In this verse, Abhinava elaborates on what he has just stated, namely, that ignorance can either be a total absence of knowledge or the absence which precedes its arising. In this verse, he explains that the former alternative is impossible, that is, that ignorance is just an absence of knowledge. This amounts to saying that ignorance is an absence of sentience. This is impossible. If the soul were to be insentient, it would be a dead physical object.
 
 
 *[p. 135]* ^pg155
@@ -444,22 +444,22 @@ tat kasmāt karmaṇaḥ kṣainyāt tat kuto ‘jñānahānitaḥ ॥ 20 ॥
 ajñānasya katha hāniḥ prāgabhāve hi saṁłvidah |
 ajñānari prāgabhāvo ‘sau na bhāvyutpattyasaṁbhavāt || 21 ॥ 
 
-Why should there not be any knowledge to come in the future here (in this case for the liberated soul)? (If you reply that) this is because here (in this case) the body and the rest are not born (again), (we would ask,) why is that? (If you reply that,) this is because (his) Karma is exhausted, (we would then ask,) how is that? (You may say that this) is the result of the destruction of ignorance; but then how could ignorance be destroyed, when it is merely the previous non-existence of knowledge? (According to you,) there can be no prior absence of knowledge (in the case of a liberated soul, because further knowledge) cannot arise (for him) in the future (as it would if he were an ignorant fettered soul). (20-21) 
+Why should there not be any knowledge to come in the future here (in this case for the liberated soul)?[^292] (If you reply that) this is because here (in this case) the body and the rest are not born (again), (we would ask,) why is that? (If you reply that,) this is because (his) Karma is exhausted, (we would then ask,) how is that? (You may say that this) is the result of the destruction of ignorance; but then how could ignorance be destroyed, when it is merely the previous non-existence of knowledge? (According to you,) there can be no prior absence of knowledge (in the case of a liberated soul, because further knowledge) cannot arise (for him) in the future (as it would if he were an ignorant fettered soul). (20-21) 
 
 #### Viveka on 13.20–21
 
-The knowledge of a knowing subject operates here in daily life in the case of bound souls when the object is established in relation to the external senses and the intellect. In actual fact, knowledge neither arises nor falls away. Liberated souls, on the contrary, are devoid of (any) association with the body and the senses etc., and so the possibility of the arising etc. of knowledge that occurs in daily life is far removed.” This is said (with the words,) ‘this is because the body and the rest are not born’. There is no question of doubting that there is (any) conceptual knowledge (vikalpajñāna) here (in this case,) because (the individual souls) are liberated. 
+The knowledge of a knowing subject operates here in daily life in the case of bound souls when the object is established in relation to the external senses and the intellect. In actual fact, knowledge neither arises nor falls away. Liberated souls, on the contrary, are devoid of (any) association with the body and the senses etc., and so the possibility of the arising etc. of knowledge that occurs in daily life is far removed.[^293] This is said (with the words,) ‘this is because the body and the rest are not born’. There is no question of doubting that there is (any) conceptual knowledge (vikalpajñāna) here (in this case,) because (the individual souls) are liberated. 
 
 (Liberated souls are not born again, because their Karma is exhausted as) ‘the result of the destruction of ignorance’. It was said before that only 
 
-292?\. For the sake of argument, ignorance is here interpreted to mean that there was knowledge previously which has been lost but will be regained in the future. The opponent however says that the liberated soul has no more knowledge to gain in the future.
+[^292]: For the sake of argument, ignorance is here interpreted to mean that there was knowledge previously which has been lost but will be regained in the future. The opponent however says that the liberated soul has no more knowledge to gain in the future.
 
-293?\. The souls in bondage are said to be knowing subjects in that they have a knowledge of sense objects which they acquire through the external senses in association with the mind. This is not the case with liberated souls, and so no knowledge (of this sort at least) can arise for them.
+[^293]: The souls in bondage are said to be knowing subjects in that they have a knowledge of sense objects which they acquire through the external senses in association with the mind. This is not the case with liberated souls, and so no knowledge (of this sort at least) can arise for them.
 
 
 *[p. 136]* ^pg156
 
-Karmas that are associated with ignorance give rise to their consequences. Surely (one may ask), it was said (before) that there is no ignorance in a liberated soul, and that its characteristic is the preceding absence of future knowledge. So how can ignorance be destroyed? The preceding absence of future knowledge must most certainly exist for the liberated soul also. Accordingly, he says: ‘(how could ignorance be destroyed) when it is (merely) the previous non-existence of knowledge?[^294] What is meant by ‘knowledge’ (in this case) is some future knowledge. Surely (one may object that) no (further) knowledge will arise for a liberated soul, so who (amongst them) could possess its prior absence? Thus he says that ‘there can be no prior absence (of knowledge)’ etc. (in the case of a liberated soul). 
+Karmas that are associated with ignorance give rise to their consequences. Surely (one may ask), it was said (before) that there is no ignorance in a liberated soul, and that its characteristic is the preceding absence of future knowledge. So how can ignorance be destroyed? The preceding absence of future knowledge must most certainly exist for the liberated soul also. Accordingly, he says: ‘(how could ignorance be destroyed) when it is (merely) the previous non-existence of knowledge?’[^294] What is meant by ‘knowledge’ (in this case) is some future knowledge. Surely (one may object that) no (further) knowledge will arise for a liberated soul, so who (amongst them) could possess its prior absence? Thus he says that ‘there can be no prior absence (of knowledge)’ etc. (in the case of a liberated soul). 
 
 Surely (one may ask), why is future knowledge not possible for a liberated soul? Thus (in response to this question) he says: 
 
@@ -471,7 +471,7 @@ Surely (one may ask), why is future knowledge not possible for a liberated soul?
 kasmān na bhāvi taj jñānaṁ nanu dehādyajanmataḥ |
 ity eṣa sarvapakṣaghno niśitaś cakrakabhramaḥ || 22 ॥ 
 
-(If you say that, we would ask,) why should there be no knowledge (like) that yet to come? If you reply that this is because the body and the rest is not born, (that view would result in) a terrible vicious circle” that destroys every (possible) view. (22) 
+(If you say that, we would ask,) why should there be no knowledge (like) that yet to come? If you reply that this is because the body and the rest is not born, (that view would result in) a terrible vicious circle[^295] that destroys every (possible) view. (22) 
 
 #### Viveka on 13.22
 
@@ -490,17 +490,19 @@ Destruction of Prior Knowledge
 
 atha pradhvaṁsa evedam ajñānaṁ tat sadā sthitam | 
 
-[^294]: Read saṁvido ‘jñānam for savido jñānam. % nisitaś cakrakabhramaḥ means literally ‘the rotation of a sharp wheel (made of blades).
+[^294]: Read saṁvido ‘jñānam for savido jñānam.
+
+[^295]: nisitaś cakrakabhramaḥ means literally ‘the rotation of a sharp wheel (made of blades).
 
 *[p. 137]* ^pg157
 
 muktānuṣv iti teṣv astu māyākāryavijṛmbhitam || 23 ॥ 
 
-Now (let us examine the second possibility, namely, that) this ignorance is the destruction (of prior knowledge) (pradhvaṁsābhāva). (The consequence of this view is that) that (ignorance would) always persist (as it could not be remedied by knowledge that has been destroyed), and it would be present in those liberated souls also, and (so) the effects of Māyā (would) unfold within them (just as they do in ignorant, fettered souls).” (23) 
+Now (let us examine the second possibility, namely, that) this ignorance is the destruction (of prior knowledge) (pradhvaṁsābhāva). (The consequence of this view is that) that (ignorance would) always persist (as it could not be remedied by knowledge that has been destroyed), and it would be present in those liberated souls also, and (so) the effects of Māyā (would) unfold within them (just as they do in ignorant, fettered souls).[^296] (23) 
 
 #### Viveka on 13.23
 
-‘(Ignorance would) always persist’, because (worldly) experience, consisting of the knowledge (jñāna) of pleasure or pain, associated with each (of the various) sense objects, has not totally ceased.” Thus because ignorance always persists within those (liberated souls) also, the Karmas which have that associated with them give rise to their consequences. Thus, when the Impurity of Māyā, which has that as its cause, (inevitably) arises, its effect, namely, (the principles) beginning with the Force (of limited agency) down to Earth, would also arise. Thus, there would be no difference between liberated and fettered souls. This is the meaning. 
+‘(Ignorance would) always persist’, because (worldly) experience, consisting of the knowledge (jñāna) of pleasure or pain, associated with each (of the various) sense objects, has not totally ceased.[^297] Thus because ignorance always persists within those (liberated souls) also, the Karmas which have that associated with them give rise to their consequences. Thus, when the Impurity of Māyā, which has that as its cause, (inevitably) arises, its effect, namely, (the principles) beginning with the Force (of limited agency) down to Earth, would also arise. Thus, there would be no difference between liberated and fettered souls. This is the meaning. 
 
 Having refuted in this way the view that (ignorance is) the total negation (prasajyapratiṣedha) (of knowledge), he presents (the view that ignorance) is a metaphorical (conditional negation of knowledge) (paryudāsa). 
 
@@ -514,22 +516,22 @@ False Knowledge and the Production of Karma
 athājñānaṁ na hy abhāvo mithyājṁñānaṁ tu tan matam |
 tad eva karmaṇnār svasmin kartavye sahakāraṇam || 24 || 
 
-Now (you may say that) ignorance (jñāna) is not (just) the absence (of knowledge), (rather) it is considered to be false knowledge (mithyājñāna).” When actions give rise to their consequences, that (false knowledge) is (just) an ancillary cause. (24) 
+Now (you may say that) ignorance (jñāna) is not (just) the absence (of knowledge), (rather) it is considered to be false knowledge (mithyājñāna).[^298] When actions give rise to their consequences, that (false knowledge) is (just) an ancillary cause. (24) 
 
 #### Viveka on 13.24
 
 Surely, if false knowledge is the ancillary cause (of the production) of the effects of Karmas, does it function as an auxiliary cause spontaneously at (any) time when (their) consequences arise or does it continue along with (them) 
 
-295?\. \[illegible\] Abhinava examines the view that ignorance (ajñāna) is just the absence of knowledge. This absence can be of two kinds. One is that knowledge previously existed but has ceased (prāgabhāva) and is attained later. The other is knowledge that has been destroyed (pradhvaṁsābhāva). The former view leads to a vicious circle, the latter involves the contradiction that bound and liberated souls would be equally ignorant.
+[^296]: \[illegible\] Abhinava examines the view that ignorance (ajñāna) is just the absence of knowledge. This absence can be of two kinds. One is that knowledge previously existed but has ceased (prāgabhāva) and is attained later. The other is knowledge that has been destroyed (pradhvaṁsābhāva). The former view leads to a vicious circle, the latter involves the contradiction that bound and liberated souls would be equally ignorant.
 
-296?\. Read bhogasya nātyantanivṛtteḥ for bhogasyātyanta nivṛtteḥ.
+[^297]: Read bhogasya nātyantanivṛtteḥ for bhogasyātyanta nivṛtteḥ.
 
-297?\. \[illegible\] It is only a manner of speaking, that is, a metaphor, to say there is no knowledge at all about anything that is unknown as it truly is. In actual fact, that ‘absence of knowledge’ is also knowledge, but it is false, erroneous knowledge.
+[^298]: \[illegible\] It is only a manner of speaking, that is, a metaphor, to say there is no knowledge at all about anything that is unknown as it truly is. In actual fact, that ‘absence of knowledge’ is also knowledge, but it is false, erroneous knowledge.
 
 
 *[p. 138]* ^pg158
 
-from the time of its arising” up to the end of (their) consequences? One should (clearly) state this. Thus, he says: 
+from the time of its arising[^299] up to the end of (their) consequences? One should (clearly) state this. Thus, he says: 
 
 Is Ignorance a Cause When Karma Generates its Consequences? 
 
@@ -549,7 +551,7 @@ mithyājñānaṁ yadi tatas tādṛśāt karmnaḥ 0141471 ॥ 26 ॥
 
 Thus, one should declare whether this false knowledge becomes (an ancillary) cause (of bondage) at the very time (tadaiva) when Karma generates its own consequences, or does the consequence (originate) from that kind of Karma if (this) false knowledge exists (svarūpasat) at the time 
 
-the Karma is created? ” (25-26) 
+the Karma is created? [^300] (25-26) 
 
 #### Viveka on 13.25–26
 
@@ -564,9 +566,9 @@ He (now) refutes that (view) step by step (kramena).
 उत्तरस्मिन्युनः पक्षे यदा यद्येन यत्र वा ।
 क्रियते कर्म तत्सर्वमज्ञानसचिवं तदा ।॥ २८ ॥
 
-298?\. Read svotpattikālāt instead of syotpattikālāt.
+[^299]: Read svotpattikālāt instead of syotpattikālāt.
 
-299?\. Jayaratha understands that false knowledge is an ancillary cause that aids the production of the fruit of Karma, like the soil required to produce the sprout from a seed. Abhinava seems to be saying something else, if we read the text as it stands, which is how I have translated it.
+[^300]: Jayaratha understands that false knowledge is an ancillary cause that aids the production of the fruit of Karma, like the soil required to produce the sprout from a seed. Abhinava seems to be saying something else, if we read the text as it stands, which is how I have translated it.
 
 
 *[p. 139]* ^pg159
@@ -585,11 +587,11 @@ avaśyam iti kasyāpi na karmaprakṣayo bhavet |
 
 ‘Destruction’ is the Great Destruction (mahāsamihāra), that is, the total destruction that takes place due to the destruction of the body, vital breath, intellect, and void also (along with all else at the end of the period of creation). This is the meaning. (This continues) up to ‘the first’, that is, the initial (creation of the next cosmic cycle). There is no disagreement here that from the first creation, the Lord ordains the conjunction etc. of specific bodies with (particular) individual souls in accord with their own Karma. Karma, which is associated with ignorance, gives rise to its consequences, (but) when the body etc. has not arisen, ignorance is without support (adhikarana) and (so) does not exist. Thus, because its associated ancillary cause does not exist, the capacity Karmas have to give rise to (their) consequences is blocked, and so creation cannot take place. Thus, in that case, even just (the basic) functions (pravṛtti) of the Lord could not be accomplished, and nothing at all would exist. 
 
-Now, (as for the second alternative,) ignorance is associated with Karmas from the time of their arising up to the conclusion of (their) consequences, and (so) they must necessarily be associated with (ignorance) all the time. Thus, nobody’s Karma would ever cease” at any time, (for) it is said that it only due to the destruction of ignorance that that would be destroyed. (However,) ignorance is always associated with it, so how could this condition (ever) come about? 
+Now, (as for the second alternative,) ignorance is associated with Karmas from the time of their arising up to the conclusion of (their) consequences, and (so) they must necessarily be associated with (ignorance) all the time. Thus, nobody’s Karma would ever cease[^301] at any time, (for) it is said that it only due to the destruction of ignorance that that would be destroyed. (However,) ignorance is always associated with it, so how could this condition (ever) come about? 
 
 The Karma created by one who knows (this ultimate reality) would be associated with ignorance (as its ancillary cause) (simply) because it is Karma. (Thus, if) even in that case its capacity to give rise to its consequences is blocked, what to say in the case of those who are ignorant? Or else (one may respond that,) let that be so. The Karma one who knows (ultimate reality) creates is without consequences due to (his) knowledge, because there is no 
 
-300?\. Read kṣīyeta for kṣāyeta.
+[^301]: Read kṣīyeta for kṣāyeta.
 
 
 *[p. 140]* ^pg160
@@ -622,13 +624,13 @@ atha pralayakāle ‘pi citsvabhāvatvayogataḥ ॥ 30 ॥
 anṇūnāṁ sańibhavaty eva jñānaṁ mithyeti tat kutaḥ |
 svabhāvād iti cen mukte śive vā kiṁ tathā na hi || 31 ॥ 
 
-Now, (you may reply that) it is possible for individual souls? to possess (some) knowledge even when cosmic destruction (pralaya) (takes place,) because of (their) connection with (their) (own essential) conscious nature. (But in that case, we reply by asking,) how could that (knowledge) be false? If you were to say that that is the essential nature (of knowledge itself), why then is it absent in that form (fathā) within Śiva, who is liberated? (30cd-31) 
+Now, (you may reply that) it is possible for individual souls[^302] to possess (some) knowledge even when cosmic destruction (pralaya) (takes place,) because of (their) connection with (their) (own essential) conscious nature. (But in that case, we reply by asking,) how could that (knowledge) be false? If you were to say that that is the essential nature (of knowledge itself), why then is it absent in that form (fathā) within Śiva, who is liberated? (30cd-31) 
 
 #### Viveka on 13.30–31
 
 (Agreed), let it be that (these fettered souls) possess (some) knowledge, (but) how is it that it is false? Thus he says, ‘how could that (knowledge) be false?’ Now if the falsity of (their) knowledge is just because it is knowledge, then as it does not differ from the essential conscious nature, why should 
 
-301?\. Read anūnāṁ for anūnā.
+[^302]: Read anūnāṁ for anūnā.
 
 
 *[p. 141]* ^pg161
@@ -661,11 +663,11 @@ prakāśanād dhiyo \[illegible\] saha bhogaḥ sa bhanyate ॥ 34 ॥
 
 ### TĀ 13.34
 
-There (in that case), that is said to be ‘worldly experience’ (bhoga), namely, (the presumed) identity (of consciousness, which is the individual soul’s essential nature,) with the modalities of the intellect (buddhivṛtti), brought about by the illumination of the intellect along with (its) object (artha), by the grace of the light” of the soul. (34) 
+There (in that case), that is said to be ‘worldly experience’ (bhoga), namely, (the presumed) identity (of consciousness, which is the individual soul’s essential nature,) with the modalities of the intellect (buddhivṛtti), brought about by the illumination of the intellect along with (its) object (artha), by the grace of the light[^303] of the soul. (34) 
 
 #### Viveka on 13.34
 
-302?\. Read puṁsprakāśa- for puprayāśa-
+[^303]: Read puṁsprakāśa- for puprayāśa-
 
 
 *[p. 142]* ^pg162
@@ -674,32 +676,32 @@ There (in that case), that is said to be ‘worldly experience’ (bhoga), namel
 
 ‘Without creation (sarga) the individual soul could not be bound, and 
 
-the purpose of creation is its liberation.” 
+the purpose of creation is its liberation.”[^304] 
 
 Thus, there (in that context), the state of (constant) transformation is said to be ‘for the benefit of the soul’. The revelation of the (mistaken) association (with Nature) which, up until independence from fundamental (Nature) takes place, is limited for the benefit of the soul ‘(prompted by its) disposition (yogyatā)’, which one and in common with none other, is associated with it, that is, is generated with it, as its propensity to generate (its) effect. This is the meaning. That is said (in the Sārkhyakārikā): 
 
 ‘In order that fundamental Nature may be viewed by the individual soul, and that (the latter) may be liberated, creation is fashioned by the association (saṁyoga) of both, which is like (that between) a person who cannot walk and 
 
-one who is blind.’ 
+one who is blind.’[^305] 
 
-‘The intellect arises from fundamental Nature (pradhāna), from that the ego, and from that the group of sixteen.” The five (gross) Elements arise from the five (sensations), which are among the group of sixteen.” 
+‘The intellect arises from fundamental Nature (pradhāna), from that the ego, and from that the group of sixteen.[^306] The five (gross) Elements arise from the five (sensations), which are among the group of sixteen.”[^307] 
 
 Surely, (rejoins the opponent, alright,) let Fundamental Nature (constantly) undergo transformation, whether it be in (false) association (with the individual soul) or separate (from it), what then is said to be insight here (in this case)? With this doubt in mind, he says, ‘there (in that case)’ etc. When Fundamental Nature undergoes transformation there in this way, the great power of the projection of the light of the individual soul renders the intellect, the form of which is that of each one (of its) objects (artha), sentient, although it is (in itself) insentient. As its condition is such, even though the consciousness of the 
 
-303?\. This looks like a passage from a Sāṁkhya text.
+[^304]: This looks like a passage from a Sāṁkhya text.
 
-304?\. \[illegible\] SāmKā 21. See above note 13,4 for an outline of Sāṁkhya dualism. The association between the individual soul that knows but cannot act and Nature, that acts but is not conscious, is like that between a man who can walk, but is blind, and a paralytic who can see, that is sitting on his shoulders, directing his movements.
+[^305]: \[illegible\] SāmKā 21. See above note 13,4 for an outline of Sāṁkhya dualism. The association between the individual soul that knows but cannot act and Nature, that acts but is not conscious, is like that between a man who can walk, but is blind, and a paralytic who can see, that is sitting on his shoulders, directing his movements.
 
-305?\. \[illegible\] The group of sixteen comprises the mind (manas), the five senses of action and the five senses of perception, along with the five kinds of sensations corresponding to them.
+[^306]: \[illegible\] The group of sixteen comprises the mind (manas), the five senses of action and the five senses of perception, along with the five kinds of sensations corresponding to them.
 
-306?\. SāmKā 22.
+[^307]: SāmKā 22.
 
 
 *[p. 143]* ^pg163
 
 individual soul is (essentially) in a state of aloof indifference (to objectivity), by the projection of the shade of its own (conscious nature into it), the intellect becomes like a stainless mirror on both sides. (The upper reflecting the light of the perceiving soul, and the lower the sphere of objectivity). By its activity (vṛtti) consisting (of perceptions in the form) “I know this”, (the intellect) arrogates agency to itself, due to which it (appears to assume) a common nature (sārūpya) (with the individual soul). ‘That is said to be ‘worldly experience” (bhoga), namely, the perception of the (mistaken) association (of the individual soul with Nature), which takes place by the projection (saṁkrānti) of the shade of consciousness within the intellect, to which the shade of the object is linked. This is the meaning. As is said (in the Sāmkhyakārikā): 
 
-‘Therefore, the insentient, subtle body (liṅga) appears to be sentient because of this association (with the sentient Self). Similarly, it is also by virtue of the presence of the agency of the constituents (gunas) (of insentient Nature, that are the agents of every action,) that the (individual soul,) who stands by aloof (observing their activity), appears to be the agent.[^307] 
+‘Therefore, the insentient, subtle body (liṅga) appears to be sentient because of this association (with the sentient Self). Similarly, it is also by virtue of the presence of the agency of the constituents (gunas) (of insentient Nature, that are the agents of every action,) that the (individual soul,) who stands by aloof (observing their activity), appears to be the agent.’[^308] 
 
 Having defined (the mistaken) association (of the soul with Nature), he elucidates the (discerning discrimination) which is (their) separation. 
 
@@ -717,35 +719,38 @@ madvilakṣaṇna ekātmety evar vaiviktyasaṁvidi || 35 ॥
 pumarthasya kṛtatvena sahakāriviyogataḥ |
 tarn pumāmsaṁ prati naiva sūte kiṁ tv anyam eva hi | 36 ॥ 
 
-The consciousness of ‘separation[^308] (vaiviktyasańvid) (consists of the insight that) “I am the intellect, which is a modification (vikṛti) (of Nature). There is a certain (other inscrutable reality) which is quite different (vilakṣaṇa) from me, that is, the solitary (eka) Self.” (When this insight arises,) and the soul has realized its goals, it separates itself from (Nature and the disposition) associated with it (to assist the individual soul to have worldly experience). Thus, (Nature) no longer generates (its products) for that soul, but however, (continues to do so) for another. (35-36) 
+The consciousness of ‘separation’[^309] (vaiviktyasańvid) (consists of the insight that) “I am the intellect, which is a modification (vikṛti) (of Nature). There is a certain (other inscrutable reality) which is quite different (vilakṣaṇa) from me, that is, the solitary (eka) Self.” (When this insight arises,) and the soul has realized its goals, it separates itself from (Nature and the disposition) associated with it (to assist the individual soul to have worldly experience). Thus, (Nature) no longer generates (its products) for that soul, but however, (continues to do so) for another. (35-36) 
 
 #### Viveka on 13.35–36
 
-[^307]: SārnKā 20.
-[^308]: Read vaiviktyasarhividi for vaivi yasaṁvidi. \^ ऽव<5 11.
+[^308]: SārnKā 20.
+
+[^309]: Read vaiviktyasarhividi for vaivi yasaṁvidi.
+
+[^310]: ऽव<5 11.
 
 *[p. 144]* ^pg164
 
 By saying that (the intellect is) ʻa modification (vikṛti) (of Nature)’, (he states that) it is insentient etc. because it undergoes modifications. Thus, because it is linked to the consciousness etc. of the individual soul, it is said, in order to establish its difference (from it, that), ‘there is a certain (other inscrutable reality) which is quite different (vilakṣaṇa) from me’. As (the followers of the Sāṁkhya) say: 
 
-‘(Made of) the three (constituent) qualities (guna), devoid of discernment, (the substance of every) object, universal, insentient, its nature is to generate (phenomena) — such is manifest as well as (unmanifest) Fundamental Nature (pradhāna). The Self is (the very) opposite of this.”\*' 
+‘(Made of) the three (constituent) qualities (guna), devoid of discernment, (the substance of every) object, universal, insentient, its nature is to generate (phenomena) — such is manifest as well as (unmanifest) Fundamental Nature (pradhāna). The Self is (the very) opposite of this.”[^310] 
 
 It is rightly (vastutaḥ) said that (the discerning discriminating) knowledge of the separation of Nature and the individual soul is the projection of the shade of consciousness alone, which is like the motionless flame of a lamp, into the intellect, in which the shade of the object has ceased. (It occurs) where one attends to this, namely, Nature is one thing, and the individual soul is something else. As is said (in the Sā&mkhyakārikā): 
 
 ‘In this way, through the repeated practice of the truth, because of the absence of error (and doubt), there arises the perfectly pure (pariśuddha) and complete insight (jñāna) (into the distinction between Nature and the Self) which, independent (and absolute) (kevalam), is in the form of “I do not exist”, 
 
-“this is not mine” and “I am not 
+“this is not mine” and “I am not[^311] 
 
 As the insight (darśana) (into the nature) of the individual and the object has thus taken place for both of them by the separation of the attendant cause (sahakārin), which is the competence of the individual and (its) object (to be subject and object), (Nature no longer) generates (its products) for the soul who has attained the knowledge which is the (discerning) discrimination (between itself and Nature). The meaning is that (Nature) has ceased to produce (its product) completely. As is stated (in the Sā&mikhyakārikā): 
 
-309?\. SāhKā 64. Vācaspati Miśra comments: “The nature of (this) insight (jñāna) is stated as follows. ‘I do not exist’, ‘it is not mine’ and ‘I am not’. This denies that any activity takes place in the Self as is declared (by the grammarians): ‘the root as (as in asmi) together with bhū and kr denote action in general.’ Therefore, all activity, both external and internal, such as intellectual assessment ((adhyavasāya), self-awareness, observation and apprehension etc. are all denied of the Self. The notion ‘I am not’ is due to the absence of all impulse to activity in the Self. ‘T here denotes agency. This is because in all cases in such (linguistic) usage as ‘I know’, ‘I offer oblations’, and ‘I give’, the active agent is represented as ‘T’. Wherever action is absent so is agency. So it is rightly said that \[illegible\] am not’. Consequently, the idea (11 is not mine’ follows, for it is only the agent who can be the possessor (of anything); hence in the absence of agency, the notion of ownership is naturally absent. Or else, it may be interpreted as follows also. The statement ‘I am not’ means that I am the Self, not Nature. Because of its unproductive nature, the absence of agency is indicated as ‘I am not’. As (the Self is) not an agent, the sense of ownership is also absent hence the statement ‘it is not mine’.
+[^311]: SāhKā 64. Vācaspati Miśra comments: “The nature of (this) insight (jñāna) is stated as follows. ‘I do not exist’, ‘it is not mine’ and ‘I am not’. This denies that any activity takes place in the Self as is declared (by the grammarians): ‘the root as (as in asmi) together with bhū and kr denote action in general.’ Therefore, all activity, both external and internal, such as intellectual assessment ((adhyavasāya), self-awareness, observation and apprehension etc. are all denied of the Self. The notion ‘I am not’ is due to the absence of all impulse to activity in the Self. ‘T here denotes agency. This is because in all cases in such (linguistic) usage as ‘I know’, ‘I offer oblations’, and ‘I give’, the active agent is represented as ‘T’. Wherever action is absent so is agency. So it is rightly said that \[illegible\] am not’. Consequently, the idea (11 is not mine’ follows, for it is only the agent who can be the possessor (of anything); hence in the absence of agency, the notion of ownership is naturally absent. Or else, it may be interpreted as follows also. The statement ‘I am not’ means that I am the Self, not Nature. Because of its unproductive nature, the absence of agency is indicated as ‘I am not’. As (the Self is) not an agent, the sense of ownership is also absent hence the statement ‘it is not mine’.
 
 
 *[p. 145]* ^pg165
 
-‘By virtue of that (insight), the individual soul (puruṣa), whose condition is like that of a pure (detached) onlooker, views Nature (prakṛti), that has withdrawn from its seven forms” because of the influence (on it) of (the soul’s) purpose, (inducing it) to generate (its forms), has ceased. 
+‘By virtue of that (insight), the individual soul (puruṣa), whose condition is like that of a pure (detached) onlooker, views Nature (prakṛti), that has withdrawn from its seven forms[^312] because of the influence (on it) of (the soul’s) purpose, (inducing it) to generate (its forms), has ceased. 
 
-One (views Nature, realizing that,) “I have seen her!” and so becomes indifferent (to it). The other, (realizing that,) “I have been seen”, desists (from her activity). (Thus,) even if there is an association between them, creation (sarga) serves no purpose.” \* 
+One (views Nature, realizing that,) “I have seen her!” and so becomes indifferent (to it). The other, (realizing that,) “I have been seen”, desists (from her activity). (Thus,) even if there is an association between them, creation (sarga) serves no purpose.”[^313] 
 
 Nor does the undesired contingency arise that, because Nature has ceased to produce (its products) in this way, all (the souls) would be released, because (Nature) is the same (for all of them). Thus, it is said that, ‘however, (it continues to do so) for another’. The ‘other’ is one who has not attained the knowledge which is the (discerning) discrimination (between them). This is the meaning. 
 
@@ -763,17 +768,17 @@ from the Sāṁkhyā Point of View
 atra puṁso ‘tha mūlasya dharmo ‘darśanatā dvayoḥ |
 athaveti vikalpo ‘yam āstām etat tu bhanyatām || 37 ॥ 
 
-Here (from the perspective of this view of reality), the absence of insight (adarśanatā) may be a quality of the soul, the Root (Nature), or of both together.” Now (if that is the case), please explain (the following). (37) 
+Here (from the perspective of this view of reality), the absence of insight (adarśanatā) may be a quality of the soul, the Root (Nature), or of both together.[^314] Now (if that is the case), please explain (the following). (37) 
 
 #### Viveka on 13.37
 
 If this ignorance which is lack of insight (into the distinction between Nature and the soul) is a quality of the soul, then it would always be subject to bondage, or knowledge (would constantly) arise (within it. Either way,) it would be subject to change, and so would be insentient. If it is a quality of Nature, how could it affect the soul in such a way that it would be bound? Thus, it would 
 
-310?\. According to Vācaspati Miśra, the seven forms of Nature are righteousness (dharma), unrighteousness (adharma), ignorance, dispassion, attachment and weakness. They arise due to lack of insight, and cease by virtue of discrimination (viveka).
+[^312]: According to Vācaspati Miśra, the seven forms of Nature are righteousness (dharma), unrighteousness (adharma), ignorance, dispassion, attachment and weakness. They arise due to lack of insight, and cease by virtue of discrimination (viveka).
 
-311?\. ऽब 65-66.
+[^313]: ऽब 65-66.
 
-312?\. Jayaratha notes the defects of these three alternatives as follows. If ignorance were to be a quality of the soul, it would always be associated with it. If knowledge were to arise in it (at some particular time), that would mean that it is liable to change. For the Sāṁnkhya, this mutability is characteristic insentience. Again, if it (ignorance) were to be a quality of Nature, it could have no association with the soul, and so it would abide perpetually free. If it were to be a quality shared by both, it would entail both these defects.
+[^314]: Jayaratha notes the defects of these three alternatives as follows. If ignorance were to be a quality of the soul, it would always be associated with it. If knowledge were to arise in it (at some particular time), that would mean that it is liable to change. For the Sāṁnkhya, this mutability is characteristic insentience. Again, if it (ignorance) were to be a quality of Nature, it could have no association with the soul, and so it would abide perpetually free. If it were to be a quality shared by both, it would entail both these defects.
 
 
 *[p. 146]* ^pg166
@@ -798,18 +803,18 @@ If (you say) that worldly experience (that is the consequence of Karma) (bhoga) 
 
 #### Viveka on 13.38–39
 
-As is said (in the Sāmkhyakārikā), with this (ďsame) intended sense: ‘the purpose of engagement (in creation) is liberation. If everything is accomplished by creation“ when discriminating insight is attained, (that would be) the final limit (and end of worldly experience), because it is not proper (ayogāt) (and reasonable to maintain) that the fulfilment (of that purpose) is (attained) by another creation (as that would be superfluous). 
+As is said (in the Sāmkhyakārikā), with this (ďsame) intended sense: ‘the purpose of engagement (in creation) is liberation.[^315] If everything is accomplished by creation[^316] when discriminating insight is attained, (that would be) the final limit (and end of worldly experience), because it is not proper (ayogāt) (and reasonable to maintain) that the fulfilment (of that purpose) is (attained) by another creation (as that would be superfluous). 
 
 (Then we would ask,) ‘what is that’ (creation)? Is it (generic, as) just creation alone (sūtimātra), or (is it particular) as the production of specific 
 
-313?\. SāṁKĀā 17d.
+[^315]: SāṁKĀā 17d.
 
-314?\. sūtisaripatti — the fulfilment of the purpose of creation that has issued forth from Prakṛti.
+[^316]: sūtisaripatti — the fulfilment of the purpose of creation that has issued forth from Prakṛti.
 
 
 *[p. 147]* ^pg167
 
-(things,) such as earthen jars? Thus he says (putting the question), “(is creation a process of transformation of Nature that takes place) universally (sāmānyena), or (does it take place as and through the countless) particulars (viśeṣa)? It is it not logically possible that it be both (together) also. Thus he says, ‘in the former (case)’ etc., ‘it would (take place) by the coming into being of (just) one (thing)’. This is because a universal is present in its entirety in (every) single (differentiated) manifestation (of Nature). (In the latter case,) ‘it would never (take place)’, because there are an infinite number of (possible) future particular (constituents) of creation (sūtiviśeṣa). 
+(things,) such as earthen jars?[^317] Thus he says (putting the question), “(is creation a process of transformation of Nature that takes place) universally (sāmānyena), or (does it take place as and through the countless) particulars (viśeṣa)? It is it not logically possible that it be both (together) also. Thus he says, ‘in the former (case)’ etc., ‘it would (take place) by the coming into being of (just) one (thing)’. This is because a universal is present in its entirety in (every) single (differentiated) manifestation (of Nature). (In the latter case,) ‘it would never (take place)’, because there are an infinite number of (possible) future particular (constituents) of creation (sūtiviśeṣa). 
 
 Surely, (the opponent may rejoin,) accepting the latter view, that which is impelled would not be endless if, by not taking into consideration (anavalambanāt) all the particulars, (one were to) refer to just a few of them. With this doubt in mind, he says: 
 
@@ -821,15 +826,15 @@ Surely, (the opponent may rejoin,) accepting the latter view, that which is impe
 kaiścid eva viśeṣaiś cet sarveṣāṁ yugapad bhavet |
 viveko ‘nādisaṁmyogāt kā hy anyonyavicitratā ॥ 40 ॥ 
 
-If one (maintains) that (this kind of perception of creation takes place) by means of certain particulars (only and not all of them), then the discriminating insight (that liberates one individual soul) would occur simultaneously for all (of them), because (their) association (with Nature) has no beginning. What is the mutual difference between (souls the Sāṁńkhya maintains exists)?” (40) 
+If one (maintains) that (this kind of perception of creation takes place) by means of certain particulars (only and not all of them), then the discriminating insight (that liberates one individual soul) would occur simultaneously for all (of them), because (their) association (with Nature) has no beginning. What is the mutual difference between (souls the Sāṁńkhya maintains exists)?[^318] (40) 
 
 #### Viveka on 13.40
 
 The association with Nature has no beginning, and is the same for all individual souls; thus, as happens with wheat plants that mature more or less at the same time together in a field, this discriminating insight should follow at the same time, or nearly so, after the appearance of the specific aspects of Nature that are under consideration here. Thus, because it is not logically reasonable (to maintain) (ayogāt) that (individual souls) differ from one another, worldly experience (bhoga) and liberation (from it) would not follow successively (in due course for all of them, because the maturing to liberation of one soul would 
 
-315?\. Anything that has objective existence has two aspects. One is universal and the other is particular or specific. A jar, for example, is that one specific, unique jar. It also partakes in the universal nature of ‘jar-ness’ that all jars must have to be jars. The question here concerns what is generated from Prakṛti. Is it the universal or the particular?
+[^317]: Anything that has objective existence has two aspects. One is universal and the other is particular or specific. A jar, for example, is that one specific, unique jar. It also partakes in the universal nature of ‘jar-ness’ that all jars must have to be jars. The question here concerns what is generated from Prakṛti. Is it the universal or the particular?
 
-316?\. Read anyoyavicitratā for anyoyaṁ vicitratā. Every individual soul is a dimensionless, timeless and formless pinpoint, as it were, of consciousness. There are not specific features of any one of them that could distinguish it from the others and there is no time or space. So the condition of one would be that of all the others. As the common state and nature of all of them is that of any one of them in all respects, what would distinguish one from the other?
+[^318]: Read anyoyavicitratā for anyoyaṁ vicitratā. Every individual soul is a dimensionless, timeless and formless pinpoint, as it were, of consciousness. There are not specific features of any one of them that could distinguish it from the others and there is no time or space. So the condition of one would be that of all the others. As the common state and nature of all of them is that of any one of them in all respects, what would distinguish one from the other?
 
 
 *[p. 148]* ^pg168
@@ -851,7 +856,7 @@ The word ‘also’ in the phrase ‘from the Sāṅkhyā point of view also’ 
 
 Surely, (the opponent may insist that) it is just (the nature of) worldly experience and liberation that needs be taken up here (as the matter under consideration), so discuss that. What is the use of talking about whether (the notion of the nature) of ignorance is logically sound or not? With this doubt in mind, he says: 
 
-The Nature of Impurity etc. (malādīnāṁ tattvam)[^317] 
+The Nature of Impurity etc. (malādīnāṁ tattvam)[^319] 
 
 ### TĀ 13.41–42
 
@@ -871,7 +876,7 @@ The ‘state’ (of bondage and liberation is) ‘this (soul) is bound, and this
 
 Surely then (the opponent may rejoin), let there not be ignorance. Whether it be logically reasonable (that it exists) or not, why should that concern us? The distinction between the liberated and fettered (condition) of individual souls can be established just by the existence of Māyā. With this doubt in mind, he says: 
 
-[^317]: This section extends from 13/41cd to 13/1 16ab. Here Abhinava examines the nature of the Impurity (mala) that binds the soul and establishes that it is ignorance. The nature of Impurity has already been discussed above, see 9/61-88ab.
+[^319]: This section extends from 13/41cd to 13/1 16ab. Here Abhinava examines the nature of the Impurity (mala) that binds the soul and establishes that it is ignorance. The nature of Impurity has already been discussed above, see 9/61-88ab.
 
 *[p. 149]* ^pg169
 
@@ -899,18 +904,18 @@ cidanūnām āvaraṇari kiñcid vācyari vipaścitā |
 
 Thus, an intelligent person should say that the term ‘ignorance’ refers to some kind of (kiñcit) obscuring covering (that envelops) the individual oci of consciousness (cidāṇnu) that are endowed with the 
 
-attributes“ of subjectivity and agency. (43cd-44ab) 
+attributes[^320] of subjectivity and agency. (43cd-44ab) 
 
 #### Viveka on 13.43–44
 
 As is said (concerning) ‘the term “ignorance”: 
 
-318?\. Read -dharmāṇām for -dharmanām.
+[^320]: Read -dharmāṇām for -dharmanām.
 
 
 *[p. 150]* ^pg170
 
-‘Impurity (mala), ignorance, the fettered state (paśutva), the producer of obscurity, delusion (famas), nescience (avidyā), obscuring covering (āvṛti), and coma (murccha) are said there (in that regard) to be synonyms. ’ 
+‘Impurity (mala), ignorance, the fettered state (paśutva), the producer of obscurity,[^321] delusion (famas), nescience (avidyā), obscuring covering (āvṛti), and coma (murccha) are said there (in that regard) to be synonyms. ’[^322] 
 
 And how is that (obscuring covering)? Thus (in order to answer this question,) he says: 
 
@@ -926,19 +931,19 @@ bhede pramāṇābhāvāc ca tad ekar nikhilātmasu |
 
 #### Viveka on 13.44–45
 
-‘it (must be) undifferentiated by its very nature’. The meaning is that it is without parts, as is (the whole of an) entity which is the possessor of the parts (of which it is constituted).\* In this way, (an opponent may say that) there is a reason (pramāṇa) as to why there are many entities which are the possessors of parts, namely, that their causes differ. (To which we reply) that that is not so. ‘(The obscuring covering must be) one and the same (for all souls)’, because there is no reason for there to be (any) difference. (However,) the plural is used in the statement that (it is so) ‘for all individual souls’, and so although one and the same, (the obscuring covering must) have many powers, otherwise it would not be possible for it to be an obscuring covering for all (of them). Or else, if one were to say it is one (without many powers), all (the fettered souls) would be liberated (when one of them is liberated).” As they say: 
+‘it (must be) undifferentiated by its very nature’. The meaning is that it is without parts, as is (the whole of an) entity which is the possessor of the parts (of which it is constituted).[^323] In this way, (an opponent may say that) there is a reason (pramāṇa) as to why there are many entities which are the possessors of parts, namely, that their causes differ. (To which we reply) that that is not so. ‘(The obscuring covering must be) one and the same (for all souls)’, because there is no reason for there to be (any) difference. (However,) the plural is used in the statement that (it is so) ‘for all individual souls’, and so although one and the same, (the obscuring covering must) have many powers, otherwise it would not be possible for it to be an obscuring covering for all (of them). Or else, if one were to say it is one (without many powers), all (the fettered souls) would be liberated (when one of them is liberated).[^324] As they say: 
 
-‘(Many and) various are the powers of Impurity that obscure the qualities of each soul (individually).’ \* 
+‘(Many and) various are the powers of Impurity that obscure the qualities of each soul (individually).’ [^325] 
 
-319?\. Read with the citation in the rātparyadīpikā and MS Ṭh, tiraskārakaras for tiraskārarasas.
+[^321]: Read with the citation in the rātparyadīpikā and MS Ṭh, tiraskārakaras for tiraskārarasas.
 
-320?\. Kirṇāgama vidyāpāda 2/20cd-2lab, quoted by Śrīkumāra in his commentary tātparyadīpikā on the Tattvaprakāśa. The citation reads in the tatpāryadīpikā ākṛtir for Āāvṛtir and tasya vācakāḥ for tatra coditāḥ.
+[^322]: Kirṇāgama vidyāpāda 2/20cd-2lab, quoted by Śrīkumāra in his commentary tātparyadīpikā on the Tattvaprakāśa. The citation reads in the tatpāryadīpikā ākṛtir for Āāvṛtir and tasya vācakāḥ for tatra coditāḥ.
 
-321?\. The empiricist Naiyāyikas maintain that the whole is the possessor of parts (avayavin), and its parts are distinct. In other words, the whole of an entity exists independently and is in itself undivided and without parts.
+[^323]: The empiricist Naiyāyikas maintain that the whole is the possessor of parts (avayavin), and its parts are distinct. In other words, the whole of an entity exists independently and is in itself undivided and without parts.
 
-322?\. The covering of ignorance that obscures all liberated souls is the same and undivided. But even so, it affects each of the countless fettered souls separately and in various ways because it possesses many and various powers, some of which affect one soul and others another.
+[^324]: The covering of ignorance that obscures all liberated souls is the same and undivided. But even so, it affects each of the countless fettered souls separately and in various ways because it possesses many and various powers, some of which affect one soul and others another.
 
-323?\. \[illegible\] Tattvatrayanirṇaya 11cd. Also quoted above ad 9/68ab. See note there.
+[^325]: \[illegible\] Tattvatrayanirṇaya 11cd. Also quoted above ad 9/68ab. See note there.
 
 
 *[p. 151]* ^pg171
@@ -957,17 +962,17 @@ kvacid eva suvītaitan na tu muktātmanīty ayam |
 prācyaḥ paryanuyogaḥ syān nimittaṁ cen na labhyate ॥ 46 ॥
 utpattyabhāvatas tena nityaṁ na ca vinaśyati | 
 
-Again, from what could that (obscuring covering) be born? If it (were to be born) from Māyā, how could (Māyā) generate it in some place (for fettered) souls and not for those who are liberated? The previous objection would apply (here also).” Again, if (you try and avoid this problem by saying that) there is no (instrumental) cause (nimitta) (of this obscuring covering), thus (the obscuration is just an illusion and so) it does not (really) come into being, then it would be permanent and so is not destroyed. (45cd-47ab) 
+Again, from what could that (obscuring covering) be born? If it (were to be born) from Māyā, how could (Māyā) generate it in some place (for fettered) souls and not for those who are liberated? The previous objection would apply (here also).[^326] Again, if (you try and avoid this problem by saying that) there is no (instrumental) cause (nimitta) (of this obscuring covering), thus (the obscuration is just an illusion and so) it does not (really) come into being, then it would be permanent and so is not destroyed. (45cd-47ab) 
 
 #### Viveka on 13.45–47
 
-If (the obscuring covering of ignorance were to be born) from Māyā, then it would generate it for all (individual souls), not for (just) some (particular) one. He says that (with the words), ʻif it (were to be born) from Māyā’, etc. Therefore, it would generate it for liberated souls also like bound souls, without distinction. Thus, the previous (objection) would apply (here also). In this way, knowledge would be false just because it is knowledge, and so, because there would be no difference in its nature (whether the soul be bound or liberated), as was explained before, (the obscuring covering of ignorance) would be conjoined to liberated souls also (as it is to bound ones). The sense is that it would not have a preference (for one soul or another,) in accord with its nature.” 
+If (the obscuring covering of ignorance were to be born) from Māyā, then it would generate it for all (individual souls), not for (just) some (particular) one. He says that (with the words), ʻif it (were to be born) from Māyā’, etc. Therefore, it would generate it for liberated souls also like bound souls, without distinction. Thus, the previous (objection) would apply (here also). In this way, knowledge would be false just because it is knowledge, and so, because there would be no difference in its nature (whether the soul be bound or liberated), as was explained before, (the obscuring covering of ignorance) would be conjoined to liberated souls also (as it is to bound ones). The sense is that it would not have a preference (for one soul or another,) in accord with its nature.[^327] 
 
 Now, if (you try and avoid this problem by saying that) there is no (instrumental) cause (nimitta) (of this obscuring covering) at all, then it would be permanent. Thus, he says: ‘(if) there is no (instrumental) cause (nimitta) etc. ‘Thus’, because no instrumental cause is found (to exist), this is the reason why it does not come into being. As its instrumental cause does not exist, (ignorance) does not come into being. Therefore, it is permanent, and so because it is permanent, it is (never) destroyed. He says that (with the words): ‘it is not destroyed’. 
 
-324?\. See above, 13/45ab.
+[^326]: See above, 13/45ab.
 
-325?\. Read vastubhavatpakṣapāti for vastu bhavatpakṣapāti.
+[^327]: Read vastubhavatpakṣapāti for vastu bhavatpakṣapāti.
 
 
 *[p. 152]* ^pg172
@@ -1000,7 +1005,7 @@ Nor is it non-existent (avastu), because it is causally effective (arthakāritva
 
 is not non-existent) ‘because it is causally effective’. The meaning is (that 1 
 
-proved to exist) because (the obscuring covering) implements the function, which is to shroud the individual soul.’ It is said that its nature as such is not noetic consciousness (jñāna), because consciousness is not (and cannot be) an obscuring covering of that (soul). The point is that consciousness itself cannot be serve as an obscuring covering of consciousness. 
+proved to exist) because (the obscuring covering) implements the function, which is to shroud the individual soul.[^328] It is said that its nature as such is not noetic consciousness (jñāna), because consciousness is not (and cannot be) an obscuring covering of that (soul). The point is that consciousness itself cannot be serve as an obscuring covering of consciousness. 
 
 Surely, (one may ask, alright,) agreed that that is so, (but) what serves to link that (covering) to the individual soul? With this doubt in mind, he says: 
 
@@ -1009,12 +1014,12 @@ Surely, (one may ask, alright,) agreed that that is so, (but) what serves to lin
 न चैतेनात्मनां योगो हेतुमांस्तदसंभवात् ।॥ ४८ ॥
 na caitenātmanāṁ yogo hetumāṁs tad \[illegible\] || 48 || 
 
-326?\. \[illegible\] pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
+[^328]: \[illegible\] pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
 
 
 *[p. 153]* ^pg173
 
-Thus, there could be no association (yoga) (of Impurity - mala) with (any of the countless) individual souls, because nothing that causes (it) could possibly exist. (48cd) 
+Thus, there could be no association (yoga) (of Impurity - mala) with (any of the countless) individual souls,[^329] because nothing that causes (it) could possibly exist. (48cd) 
 
 #### Viveka on 13.48 (2)
 
@@ -1022,20 +1027,18 @@ Thus, there could be no association (yoga) (of Impurity - mala) with (any of the
 
 ‘The association of Impurity, which has no beginning, is without 
 
-beginning. 
-
-”' 
+beginning.”[^330] 
 
 The scripture (i.e. the Kiraṇatantra) also (declares): 
 
-‘How can a pure crystal (be sullied) or (lustrous) copper stained with Verdigris? Just as there is an instrumental cause (of that in such cases), there is none such with regards to the Self, which (is essentially) pure Siva. © तेनैक वस्तु सत्नत्यं | नित्यसंबद्धमात्मभिः ।
+‘How can a pure crystal (be sullied) or (lustrous) copper stained with Verdigris? Just as there is an instrumental cause (of that in such cases), there is none such with regards to the Self, which (is essentially) pure Siva. [^331] तेनैक वस्तु सत्नत्यं | नित्यसंबद्धमात्मभिः ।
 जडं मलं तदज्ञानं संसारादुरकारणम् ।। ४९ ॥।
 
-327?\. The problem throughout is accounting for why Impurity, which is eternal and all pervasive, should affect some souls and not others. There must be some factor that relates a particular soul to its particular forms and degree of Impurity. If both are eternal, separate realitie,s as the dualist Siddhānta maintains, there is no solution to this problem. If, however, we admit the nondualist point of view, we can explain it by the freedom universal consciousness possesses to operate independently in countless ways, in all forms and degrees of limitation differently for each individual contracted version of itself.
+[^329]: The problem throughout is accounting for why Impurity, which is eternal and all pervasive, should affect some souls and not others. There must be some factor that relates a particular soul to its particular forms and degree of Impurity. If both are eternal, separate realitie,s as the dualist Siddhānta maintains, there is no solution to this problem. If, however, we admit the nondualist point of view, we can explain it by the freedom universal consciousness possesses to operate independently in countless ways, in all forms and degrees of limitation differently for each individual contracted version of itself.
 
-328?\. Bhogakārikā 132c The next half of this line states: \*(Impurity) is common (to all souls); it is imperishable.” Aghoraśiva comments: “That (Impurity) has no beginning and its relationship with (the many individual) souls is without beginning. (That) obscuring covering without beginning is just one for all individual souls. Thus, one must accept that Impurity is eternal. If that is so, because Impurity is eternal, then it never departs from individual souls. Or else, if it does cease, then, because it is one, when a single individual soul is liberated, there would be the contingency that all are liberated. Thus he says: “There is a power which is fixed for each individual soul, which ceases for each (for each soul) at its own time.’ (133ab)
+[^330]: Bhogakārikā 132c The next half of this line states: \*(Impurity) is common (to all souls); it is imperishable.” Aghoraśiva comments: “That (Impurity) has no beginning and its relationship with (the many individual) souls is without beginning. (That) obscuring covering without beginning is just one for all individual souls. Thus, one must accept that Impurity is eternal. If that is so, because Impurity is eternal, then it never departs from individual souls. Or else, if it does cease, then, because it is one, when a single individual soul is liberated, there would be the contingency that all are liberated. Thus he says: “There is a power which is fixed for each individual soul, which ceases for each (for each soul) at its own time.’ (133ab)
 
-329?\. KiT vidyāpada, 2/4. Instead of: yathā tatra nimittari no tathā śuddhaśivātmanoḥ | “Just as there is an instrumental cause (of that in such cases), there is none such with regards to the Self, which (is essentially) pure Śiva.’ Goodall’s edition reads the second line: yathāsminn nimittari hi tathā naiva śivātmanoḥ | ‘Just as there is an instrumental cause in this (case), there is none such at all with regards to the Self, which is Śiva.”
+[^331]: KiT vidyāpada, 2/4. Instead of: yathā tatra nimittari no tathā śuddhaśivātmanoḥ | “Just as there is an instrumental cause (of that in such cases), there is none such with regards to the Self, which (is essentially) pure Śiva.’ Goodall’s edition reads the second line: yathāsminn nimittari hi tathā naiva śivātmanoḥ | ‘Just as there is an instrumental cause in this (case), there is none such at all with regards to the Self, which is Śiva.”
 
 
 *[p. 154]* ^pg174
@@ -1045,24 +1048,24 @@ The scripture (i.e. the Kiraṇatantra) also (declares):
 tenaikaṁ vastu san nitya nityasahbaddham ātmabhiḥ |
 jadam malari tad ajñānam sahsārāṁṁkurakāraṇam || 49 ॥ 
 
-&(The dualist Śaiva Siddhāntin opponent nonetheless declares that,) Impurity (mala) is therefore one, a real entity (vastu) and eternal; it is always associated with all (fettered) souls. It is insentient, and is the ignorance which is the cause of the sprout of the world of transmigration.“ (49) 
+[^332] (The dualist Śaiva Siddhāntin opponent nonetheless declares that,) Impurity (mala) is therefore one, a real entity (vastu) and eternal; it is always associated with all (fettered) souls. It is insentient, and is the ignorance which is the cause of the sprout of the world of transmigration.[^333] (49) 
 
 #### Viveka on 13.49
 
-That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause of the sprout of the world of transmigration, which is the Impurity of Māyā described (in, for example, the scripture that says that) ‘bodies, worlds and forms are (the Impurity of) Māyā (māyīya).’ \^ It is like a sprout. It is the 
+That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause of the sprout of the world of transmigration, which is the Impurity of Māyā described (in, for example, the scripture that says that) ‘bodies, worlds and forms are (the Impurity of) Māyā (māyīya).’[^334] It is like a sprout. It is the 
 
-330?\. Abhinavagupta first states the dualist Siddhānta view up to verse 52 and then goes on to refute it in the following verses, which conclude below in lines 9/98-100ab, to then put forward his own view as an introduction to his understanding of the nature of the descent of the power of grace (śaktipāta), its forms and modalities.
+[^332]: Abhinavagupta first states the dualist Siddhānta view up to verse 52 and then goes on to refute it in the following verses, which conclude below in lines 9/98-100ab, to then put forward his own view as an introduction to his understanding of the nature of the descent of the power of grace (śaktipāta), its forms and modalities.
 
-331?\. The last line is a paraphrase of MV 1/23cd. It is quoted above in TĀv 1/23, 9/120cd, in TĀv ad 9/98cd-99ab. Also see above, 9/88cd-90ab.
+[^333]: The last line is a paraphrase of MV 1/23cd. It is quoted above in TĀv 1/23, 9/120cd, in TĀv ad 9/98cd-99ab. Also see above, 9/88cd-90ab.
 
-332?\. worlds and forms are (the Impurity of) Māyā (māyīya).’ The SvT and commentary continue: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | bhogahetuś ca karma syād abhilāṣo malo ‘tra tu ॥ 105 ॥ bhuvanair bhāvabhūtādi lakṣyate, tena yat kińcidvedyati Āā bhāti sa māyīyo malaḥ, bhogena tadākṣiptaṁ janmāpi lakṣitam | \[illegible\] ca pratyabhiji bhinnavedyaprathātraiva māyākhyam, iti tathā janmabhogadam kartary abodhe kārmaṁ tu | iti | abhilāṣa iti apūrnaṁmanyatātmā lolikārūpaḥ, na tu \[illegible\] me syād itīdṛk, rāgatattvasyaivam ātmatvāt | atra tv iti, etasminn āṇave bhittibhūte sati anyan maladvayam ity arthaḥ ॥ 105 ॥ ‘Bodies, worlds and forms are said to be (the Impurity of) Māyā. The cause of worldly experience is Karma. The Impurity here (in this case) is craving (abhilāṣa).’ (SvT 4/105) The ‘worlds’ (also) indicate phenomena, the gross elements etc. Thus, whatever shines as objectivity, is the Impurity of Māyā. It is included by (the expression) ‘worldly experience’, and is characterized by birth and the rest. It is said in the Pratyabhijñā: ‘The perception of separate (different) objects) is here called Māyā.’ IP 3/2/5a) Moreover: ‘Karma gives rise to (repeated) births and worldly experience.” (ibid. 3/2/5c) ‘Craving’ is considering oneself to be incomplete and its nature is avidity. (It is a pervasive sense of longing and frustration,) it is not like “may I have something (or other).” (Such feelings are those) of the principle of Attachment because (they are those) of the individual self. As this individual (state of consciousness) exists that serves as the foundation (bhitti) (of Impurity), there are two other Impurities ‘here’. This is the meaning.
+[^334]: worlds and forms are (the Impurity of) Māyā (māyīya).’ The SvT and commentary continue: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | bhogahetuś ca karma syād abhilāṣo malo ‘tra tu ॥ 105 ॥ bhuvanair bhāvabhūtādi lakṣyate, tena yat kińcidvedyati Āā bhāti sa māyīyo malaḥ, bhogena tadākṣiptaṁ janmāpi lakṣitam | \[illegible\] ca pratyabhiji bhinnavedyaprathātraiva māyākhyam, iti tathā janmabhogadam kartary abodhe kārmaṁ tu | iti | abhilāṣa iti apūrnaṁmanyatātmā lolikārūpaḥ, na tu \[illegible\] me syād itīdṛk, rāgatattvasyaivam ātmatvāt | atra tv iti, etasminn āṇave bhittibhūte sati anyan maladvayam ity arthaḥ ॥ 105 ॥ ‘Bodies, worlds and forms are said to be (the Impurity of) Māyā. The cause of worldly experience is Karma. The Impurity here (in this case) is craving (abhilāṣa).’ (SvT 4/105) The ‘worlds’ (also) indicate phenomena, the gross elements etc. Thus, whatever shines as objectivity, is the Impurity of Māyā. It is included by (the expression) ‘worldly experience’, and is characterized by birth and the rest. It is said in the Pratyabhijñā: ‘The perception of separate (different) objects) is here called Māyā.’ IP 3/2/5a) Moreover: ‘Karma gives rise to (repeated) births and worldly experience.” (ibid. 3/2/5c) ‘Craving’ is considering oneself to be incomplete and its nature is avidity. (It is a pervasive sense of longing and frustration,) it is not like “may I have something (or other).” (Such feelings are those) of the principle of Attachment because (they are those) of the individual self. As this individual (state of consciousness) exists that serves as the foundation (bhitti) (of Impurity), there are two other Impurities ‘here’. This is the meaning.
 
 
 *[p. 155]* ^pg175
 
 cause of the Impurity of Karma. (The Impurity of Individuality, which is) its cause, as it is of the two Impurities (of Karma and Māyā together) also, is the instrumental cause (of the world of transmigratory existence), whether directly (sākṣāt) or indirectly (pāramparyena). This is the meaning. As is said: 
 
-‘(the soul’s essential) Impurity and Karma are the instrumental cause (nimitta), the effect (of which) follows after.’ 
+‘(the soul’s essential) Impurity and Karma are the instrumental cause (nimitta), the effect (of which) follows after.’[^335] 
 
 Surely, if Impurity is such, it is eternal and, permanently associated with (all) fettered souls, the world of transmigration would never quell it. Thus, the (undesired) consequence would be that there is no liberation. With this doubt in mind, he says: 
 
@@ -1082,11 +1085,11 @@ If the power (of Impurity), which paralyzes (the soul), ceases (to function), th
 
 #### Viveka on 13.50–51
 
-(The binding power of Impurity) ‘ceases’. The meaning is that it desists from its own activity, technically called ‘blocking’ (nirodha) (that blocks the soul’s powers of knowledge and action). (Then the soul is) ‘touched’ (by Śiva’s rays). The meaning is that he participates in a descent of the power (of grace). Thus, just as a magnifying glass that is touched by the rays of the sun, ‘penetrates’ into its own activity, which is to burn, in the same way, (the soul) that has been purified by a descent of the power (of grace, penetrates) into its own (powers of) knowledge and action, that are full (and unrestricted). The meaning is that the glorious power of its own consciousness is fully manifest.“ 
+(The binding power of Impurity) ‘ceases’. The meaning is that it desists from its own activity, technically called ‘blocking’ (nirodha) (that blocks the soul’s powers of knowledge and action). (Then the soul is) ‘touched’ (by Śiva’s rays). The meaning is that he participates in a descent of the power (of grace). Thus, just as a magnifying glass that is touched by the rays of the sun, ‘penetrates’ into its own activity, which is to burn, in the same way, (the soul) that has been purified by a descent of the power (of grace, penetrates) into its own (powers of) knowledge and action, that are full (and unrestricted). The meaning is that the glorious power of its own consciousness is fully manifest.[^336] 
 
-333?\. SvT 3/176ab. It is also quoted above in TĀv ad 1/23 (see note there), ad 5/105-106ab and ad 9/88cd-89ab.
+[^335]: SvT 3/176ab. It is also quoted above in TĀv ad 1/23 (see note there), ad 5/105-106ab and ad 9/88cd-89ab.
 
-334?\. Literally: ‘he becomes one with the glorious power of whose own consciousness is fully manifest’.
+[^336]: Literally: ‘he becomes one with the glorious power of whose own consciousness is fully manifest’.
 
 
 *[p. 156]* ^pg176
@@ -1105,7 +1108,7 @@ vicitratvam ataḥ prāhur abhivyaktau svasarhividaḥ |
 
 Thus, (dualist Śaiva Siddhāntins) say that the wonderful variety (of forms of) one’s own consciousness becomes manifest to the degree in which (this) binding power (of Impurity and ignorance) is within (the soul) who is 
 
-indifferent (to worldly matters).\* (51cd-52ab) 
+indifferent (to worldly matters).[^337] (51cd-52ab) 
 
 #### Viveka on 13.51–52
 
@@ -1119,7 +1122,7 @@ the binding power associated with Impurity. That proce:
 
 degree, that is, according to the increasing excellence of the soul who is ‘indifferent (to worldly matters)’, that is, detached from its own (worldly) business. This is the reason why, although (all individual) souls are (inherently) pure, there is a mutual difference between them. 
 
-Surely (one may ask), it is taught everywhere (in all the scriptures) that the Supreme Lord’s descent of the power (of grace) is the instrumental cause of the manifestation of one’s own consciousness. So how is it that it said here that the maturity of Impurity is (essentially the individual soul’s) indifference to (Impurity’s) paralyzing power? With this doubt in mind, he says: 
+Surely (one may ask), it is taught everywhere (in all the scriptures) that the Supreme Lord’s descent of the power (of grace) is the instrumental cause of the manifestation of one’s own consciousness. So how is it that it said here that the maturity of Impurity is (essentially the individual soul’s) indifference to (Impurity’s) paralyzing power?[^338] With this doubt in mind, he says: 
 
 ### TĀ 13.52
 
@@ -1130,14 +1133,14 @@ That is this (process of illumination,) termed in the scriptures ‘the descent 
 
 #### Viveka on 13.52
 
-335?\. I am following Jayaratha’s interpretation. Another possible translation that relates the variety to the constraining power of Impurity rather than the manifestation of the individual souls is as follows. ‘Thus (dualist Śaiva Siddhāntins) say that the variety (of forms) of the binding power (of Impurity) due to the process that depends on the (souls) grade of detachment (is apparent) in the manifestation of one’s own consciousness.’
+[^337]: I am following Jayaratha’s interpretation. Another possible translation that relates the variety to the constraining power of Impurity rather than the manifestation of the individual souls is as follows. ‘Thus (dualist Śaiva Siddhāntins) say that the variety (of forms) of the binding power (of Impurity) due to the process that depends on the (souls) grade of detachment (is apparent) in the manifestation of one’s own consciousness.’
 
-336?\. Read rodhasaktyaudāsīnyāt for rodhaśaktyaudāsīnyātmā.
+[^338]: Read rodhasaktyaudāsīnyāt for rodhaśaktyaudāsīnyātmā.
 
 
 *[p. 157]* ^pg177
 
-\[illegible\] is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Kheṭapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).” This is the meaning. 
+\[illegible\] is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Kheṭapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).[^339] This is the meaning. 
 
 Having presented others’ teaching (vidhi) concerning the descent of the power (of grace), he (now) refutes it. 
 
@@ -1151,7 +1154,7 @@ iti pūrvāhṇike proktaṁ punaruktau tu ki phalam ॥ 53 ॥
 
 Here (in response to this view), it is said that this (concept of) Impurity (mala) in this way is untenable. This has been discussed in a previous chapter. What (would be) gained by repeating what has been said 
 
-already?” (53) 
+already?[^340] (53) 
 
 #### Viveka on 13.53
 
@@ -1174,6 +1177,6 @@ sa eko mala ity ukter nairmalyam anuṣajyate ॥ 54 ॥
 atha pratyātmaniyato ‘nādiś ca prāgabhāvavat |
 malo naśyet tathāpy eṣa nāśo yadi sahetukaḥ ॥ 55 ॥ hetuḥ karmeśvarecchā vā karma tāvan na tādṛśam | 
 
-337?\. Kheṭapāla, also called Sadyojyotiṣ, is the earliest known exponent of the dualist school of Śaivism, which holds that ignorance is a cover that hides the perfection of the Self with respect to its knowledge and action (see Pandey p. 451-60).
+[^339]: Kheṭapāla, also called Sadyojyotiṣ, is the earliest known exponent of the dualist school of Śaivism, which holds that ignorance is a cover that hides the perfection of the Self with respect to its knowledge and action (see Pandey p. 451-60).
 
-338?\. See above 9/60 onward.
+[^340]: See above 9/60 onward.

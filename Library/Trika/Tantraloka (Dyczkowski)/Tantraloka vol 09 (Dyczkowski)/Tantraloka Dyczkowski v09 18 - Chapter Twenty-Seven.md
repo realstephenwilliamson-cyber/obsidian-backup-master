@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 400]* ^pg420
 
-‘(The yogi) should worship the inner (spiritual) (ādhyātmika) Liṅga. . -° The Many Kinds of Liṅga (liṅgasvarūpaṁ bahudhā) 
+‘(The yogi) should worship the inner (spiritual) (ādhyātmika) Liṅga. . .’[^935] The Many Kinds of Liṅga (liṅgasvarūpaṁ bahudhā) 
 
 Higher Secret Mantras Should Not be Used Externally 
 
@@ -42,15 +42,15 @@ Surely (one may ask,) what would be the consequence of installing them externall
 svavīryānandamāhātmyapraveśāveśaśālinīm |
 ye siddhi dadate teṣām bāhyatvaṁ rūpavicyutiḥ ॥ 3 ॥ 
 
-(Such Mantras) bestow the accomplishment (siddhi) endowed with the penetration (āveśa) which is entry\* into the glorious power (māhātmya) of the bliss of their own (innate) vitality. Their external state (i.e. uttered aloud as public Mantras that are not kept secret) amounts to a fall from (their essential) nature. (3) 
+(Such Mantras) bestow the accomplishment (siddhi) endowed with the penetration (āveśa) which is entry[^936] into the glorious power (māhātmya) of the bliss of their own (innate) vitality. Their external state (i.e. uttered aloud as public Mantras that are not kept secret) amounts to a fall from (their essential) nature. (3) 
 
 #### Viveka on 27.3
 
 There is also another reason. Thus he says: 
 
-935?\. MV 18/38. The complete passage says: “The Yogi should not worship a Liṅga made of earth, stone, metal, gems and the like, rather he should sacrifice to the inner (ādhyātmika) Liṅga, where (the whole universe, with all) moving and immobile things, rests. Indeed, the essential nature of the outer Liṅga is empowered by this (inner Liṅga).’ MV 18/2cd-3 (quoted above ad 5/121cd (120cd). Concerning the triadic inner Linga, see above 5/1 12cd-127. The experience of the inner Liṁga is the subject of MV 18/1-56ab. Conceming the installation of a Liṅga, especially the external fixed one, see Brunner-Lachaux 1998 Śomaśambhupaddhati vol. IV, written by Somaśambhu in the first half of the eleventh century.
+[^935]: MV 18/38. The complete passage says: “The Yogi should not worship a Liṅga made of earth, stone, metal, gems and the like, rather he should sacrifice to the inner (ādhyātmika) Liṅga, where (the whole universe, with all) moving and immobile things, rests. Indeed, the essential nature of the outer Liṅga is empowered by this (inner Liṅga).’ MV 18/2cd-3 (quoted above ad 5/121cd (120cd). Concerning the triadic inner Linga, see above 5/1 12cd-127. The experience of the inner Liṁga is the subject of MV 18/1-56ab. Conceming the installation of a Liṅga, especially the external fixed one, see Brunner-Lachaux 1998 Śomaśambhupaddhati vol. IV, written by Somaśambhu in the first half of the eleventh century.
 
-936?\. Read -praveśāveśaśālinīm for -praveśavaśaśālinīm.
+[^936]: Read -praveśāveśaśālinīm for -praveśavaśaśālinīm.
 
 
 *[p. 401]* ^pg421
@@ -63,7 +63,7 @@ There is also another reason. Thus he says:
 kiñca coktan samāveśāpūrne bhoktrātmakaḥ śivaḥ |
 bhogalāmpaṭyabhāg bhogavicchede nigrahātmakaḥ ॥ 4 ॥ 
 
-Moreover, it is said that when penetration (into His own nature) (samāveśa) is incomplete,“ Śiva is a worldly experiencer (bhoktr) who is greedy for worldly enjoyment (bhoga). If that enjoyment is interrupted, it is His nature to punish (those who deprive Him of it). (4) 
+Moreover, it is said that when penetration (into His own nature) (samāveśa) is incomplete,[^937] Śiva is a worldly experiencer (bhoktr) who is greedy for worldly enjoyment (bhoga). If that enjoyment is interrupted, it is His nature to punish (those who deprive Him of it). (4) 
 
 #### Viveka on 27.4
 
@@ -77,13 +77,13 @@ Surely (one may ask), what is the consequence of His nature being to punish (his
 sāntatvanyakkriyodbhüūtajighatsābrihitan vapuḥ |
 svayaṁ pratiṣthitaṁ yena so ‘syābhoge vinaśyati ॥ 5 ॥ 
 
-(The power of) an (iconic) form (vapuṣ) (of an esoteric deity that has been installed externally) is intensified by (its) voracity, that arises by repressing its tranquil (aspect). He who has installed it by himself (with no right to do so) is destroyed when (he leaves it) without the food (bhoga) (it craves for).‘ (5) 
+(The power of) an (iconic) form (vapuṣ) (of an esoteric deity that has been installed externally) is intensified by (its) voracity, that arises by repressing its tranquil (aspect). He who has installed it by himself (with no right to do so) is destroyed when (he leaves it) without the food (bhoga) (it craves for).[^938] (5) 
 
 #### Viveka on 27.5
 
-937?\. Read samāveśāpūrne for samāveśapūrno.
+[^937]: Read samāveśāpūrne for samāveśapūrno.
 
-938?\. The sense, it seems, is that the deity should not be installed in a \[illegible\] by means of the secret mantras (1.6. those of the three Trika Goddesses, the four Bhairavas, etc.), but rather by means of the common generic mantras, that is, for example, the above mentioned ‘Eye’, which is Mṛtyuñjaya’s mantra. This is the seventh of seven common mantras Abhinava enumerates above in 22/20. ‘The use of mantras from the ‘higher’ scriptures in the installation of outer idols is prohibited, because these mantras can only grant perfection (siddhi) if they are used secretly and internally; because they might even be dangerous. This is explained by Śiva’s lust for enjoyment, and by alluding to the negative consequences for the worshipper who fails to comply with it, the quotation from the Jñānotiara (in TĀ 27/6-8) is adduced as a scriptural support. Here the desire for enjoyment, which is more readily connected with ferocious deities is projected onto Śiva. In the Mālinīvijayavārttikā the quotation has been adduced for similar reasons; the concept of enjoyment as a source of liberation; which has been mentioned in MVV 1/45, is explained in an admittedly oblique way through the quotation: if the desire of the deities is gratified through enjoyment, they grant perfection or liberation.” Hanneder 1998: 155. Also ibid note 29: ‘we can distinguish many aspects of this structure, a ritual one ('outside’ deities are gratified by forbidden substances), a Gnostic one (their nature is recognised) and one of internal ritual.” Sanderson 2006 (with reference to 27/1-13): “The mantras of the Siddhānta \[may be\] , . ~ installed permanently in fixed idols where they will remain so long as the appropriate Saiddhāntika worship and purity are maintained. The left maintains that its own mantra-deities are simply too powerful, indeed too dangerous, to be placed in this way beyond the immediate control of the worshipper. Fixed images of certain of the esoteric deities are not unknown; but where such installations are prescribed it is the exoteric mantras of the Siddhānta which animate them. So the boundary between the exoteric right and the esoteric left was breached in appearance rather than fact; for it is the mantras rather than the iconic forms which may be associated with them that are the essential embodiments of the deities in Tantric worship. There are cults of aniconic mantras but not icons which are not mantras.”
+[^938]: The sense, it seems, is that the deity should not be installed in a \[illegible\] by means of the secret mantras (1.6. those of the three Trika Goddesses, the four Bhairavas, etc.), but rather by means of the common generic mantras, that is, for example, the above mentioned ‘Eye’, which is Mṛtyuñjaya’s mantra. This is the seventh of seven common mantras Abhinava enumerates above in 22/20. ‘The use of mantras from the ‘higher’ scriptures in the installation of outer idols is prohibited, because these mantras can only grant perfection (siddhi) if they are used secretly and internally; because they might even be dangerous. This is explained by Śiva’s lust for enjoyment, and by alluding to the negative consequences for the worshipper who fails to comply with it, the quotation from the Jñānotiara (in TĀ 27/6-8) is adduced as a scriptural support. Here the desire for enjoyment, which is more readily connected with ferocious deities is projected onto Śiva. In the Mālinīvijayavārttikā the quotation has been adduced for similar reasons; the concept of enjoyment as a source of liberation; which has been mentioned in MVV 1/45, is explained in an admittedly oblique way through the quotation: if the desire of the deities is gratified through enjoyment, they grant perfection or liberation.” Hanneder 1998: 155. Also ibid note 29: ‘we can distinguish many aspects of this structure, a ritual one ('outside’ deities are gratified by forbidden substances), a Gnostic one (their nature is recognised) and one of internal ritual.” Sanderson 2006 (with reference to 27/1-13): “The mantras of the Siddhānta \[may be\] , . ~ installed permanently in fixed idols where they will remain so long as the appropriate Saiddhāntika worship and purity are maintained. The left maintains that its own mantra-deities are simply too powerful, indeed too dangerous, to be placed in this way beyond the immediate control of the worshipper. Fixed images of certain of the esoteric deities are not unknown; but where such installations are prescribed it is the exoteric mantras of the Siddhānta which animate them. So the boundary between the exoteric right and the esoteric left was breached in appearance rather than fact; for it is the mantras rather than the iconic forms which may be associated with them that are the essential embodiments of the deities in Tantric worship. There are cults of aniconic mantras but not icons which are not mantras.”
 
 
 *[p. 402]* ^pg422
@@ -104,34 +104,34 @@ Accordingly, he says:
 सात्र शासेषु नो कायी कायी साधारणी पुनः ॥ ८ ॥
 
 \[illegible\] jñānottarāyāṁ ca tad etat parameśinā |
-sivo yāgapriyo yasmād viíeṣān mātṛmadhyagaḥ ॥ 6 ॥7
+sivo yāgapriyo yasmād viíeṣān mātṛmadhyagaḥ ॥ 6 ॥[^939]
 tasmād rahasyaśāstreṣu ye mantrās tān budho bahiḥ |
 na pratiṣthāpayej jātu viśeṣād vyaktarūpinaḥ ॥ 7 ॥
 ata eva mṛtasyārthe pratiṣthānyatra yoditā |
 sātra śāstreṣu no kāryā kāryā sādhāranṇī punaḥ ॥ 8 ॥ 
 
-Moreover, the Supreme Lord has said this in the Jñānottara.\* (There we read): ‘Śiva loves sacrifices (yāga), especially (when He is) in the midst of the (Circle of the) Mothers.’ Thus, a wise man should most 
+Moreover, the Supreme Lord has said this in the Jñānottara.[^940] (There we read): ‘Śiva loves sacrifices (yāga), especially (when He is) in the midst of the (Circle of the) Mothers.[^941] Thus, a wise man should most 
 
-939?\. ātṛmadhyataḥ ||
+[^939]: ātṛmadhyataḥ ||
 
-940?\. If the text is the Sarvajñānottara, the name is always, except here, in the masculine, as one would expect. We have noted that we observe a shift of gender in the case of the Kāmika /Kāmikā, Kiraṇa / Kiraṇā, and Mṛgendra / Mṛgendrā (see notes 4,83 and 15,78). Thus, a similar shift in this case is not impossible, although one could consider emending to the normal gender jñānottare yac as a possible correct reading. This passage cannot be traced to the manuscripts of the Sarvajñānottara. Moreover, the reference to rahasyaśāstra here is suspect. Although the Sarvajñānottara is an unusual Siddhāntāgama in many respects, promoting in several places nondualism and direct identification with Siva, nonetheless it does not think of itself as a ‘secret scripture’. It is thus quite possible that Abhinava is not referring here to the Sarvajñānottara.
+[^940]: If the text is the Sarvajñānottara, the name is always, except here, in the masculine, as one would expect. We have noted that we observe a shift of gender in the case of the Kāmika /Kāmikā, Kiraṇa / Kiraṇā, and Mṛgendra / Mṛgendrā (see notes 4,83 and 15,78). Thus, a similar shift in this case is not impossible, although one could consider emending to the normal gender jñānottare yac as a possible correct reading. This passage cannot be traced to the manuscripts of the Sarvajñānottara. Moreover, the reference to rahasyaśāstra here is suspect. Although the Sarvajñānottara is an unusual Siddhāntāgama in many respects, promoting in several places nondualism and direct identification with Siva, nonetheless it does not think of itself as a ‘secret scripture’. It is thus quite possible that Abhinava is not referring here to the Sarvajñānottara.
 
-941?\. Concerning the eight Mothers, see above, 8/241cd-242, where their names are listed, and the commentary. Abhinava comments on line 27/6cd in the MVV 1/46-47: yatrocyate svaśakyādikṣobhasariraribhanirbharā | devasya yāgapriyatā vieṣān mātṛmadhyataḥ |l 46cd is equivalent to TĀ 27/6cd aiśvaryaśaktyudrekena labdheśvarapadābhidaḥ | devo vijñānamahimāprodbhūto ‘yam prapañcitaḥ ॥ “Where it is said that the love the god has for the sacrifice is full (to overflowing) with the enthusiasm that comes from the arousal of his own power etc., especially (when he is) in the midst of the (Circle of the) Mothers, the god, by virtue of the superabundance of the power of (His) lordship, is called ‘He who has attained the plane of the Lord (īśvara)’, and by the glorious power (of His) consciousness (vijñāna), (all) this that is extensively conceived (prapañcita) has arisen.’ Śiva’s relish for enjoyment is more commonly associated with ferocious deities, specifically his form as Bhairava. This is so in MVV 1/42-45, that precedes this passage in MVV 1/46-47, where Abhinava presents the experience Deity has of the world as a source of liberation: “As soon as Bhairava, who is knowledge, becomes entirely identified with the flood of the waves of objects (tat), but (remains) (when he) as the possessor of his power is satisfied with no less than the plenitude of things, when this state of having a power is subordinated by means of his full, own power alone, then such a stream of knowledge consisting of reflective awareness (vimarśa), in which an extraordinary bliss (hlāda) appears through instruction in enjoyment (bhoga), pervades (everything). For the fortunate ones, even the multitude of enjoyments, if cultivated by confidence in this (yadīya) performance of the ‘practice of consciousness’ are transformed into the abode of salvation.’ (MVV 1/42-45) Translation by Hanneder.
+[^941]: Concerning the eight Mothers, see above, 8/241cd-242, where their names are listed, and the commentary. Abhinava comments on line 27/6cd in the MVV 1/46-47: yatrocyate svaśakyādikṣobhasariraribhanirbharā | devasya yāgapriyatā vieṣān mātṛmadhyataḥ |l 46cd is equivalent to TĀ 27/6cd aiśvaryaśaktyudrekena labdheśvarapadābhidaḥ | devo vijñānamahimāprodbhūto ‘yam prapañcitaḥ ॥ “Where it is said that the love the god has for the sacrifice is full (to overflowing) with the enthusiasm that comes from the arousal of his own power etc., especially (when he is) in the midst of the (Circle of the) Mothers, the god, by virtue of the superabundance of the power of (His) lordship, is called ‘He who has attained the plane of the Lord (īśvara)’, and by the glorious power (of His) consciousness (vijñāna), (all) this that is extensively conceived (prapañcita) has arisen.’ Śiva’s relish for enjoyment is more commonly associated with ferocious deities, specifically his form as Bhairava. This is so in MVV 1/42-45, that precedes this passage in MVV 1/46-47, where Abhinava presents the experience Deity has of the world as a source of liberation: “As soon as Bhairava, who is knowledge, becomes entirely identified with the flood of the waves of objects (tat), but (remains) (when he) as the possessor of his power is satisfied with no less than the plenitude of things, when this state of having a power is subordinated by means of his full, own power alone, then such a stream of knowledge consisting of reflective awareness (vimarśa), in which an extraordinary bliss (hlāda) appears through instruction in enjoyment (bhoga), pervades (everything). For the fortunate ones, even the multitude of enjoyments, if cultivated by confidence in this (yadīya) performance of the ‘practice of consciousness’ are transformed into the abode of salvation.’ (MVV 1/42-45) Translation by Hanneder.
 
 
 *[p. 403]* ^pg423
 
-certainly (jātu) not install the Mantras of the secret scriptures externally, especially not those that are (externally) manifest (and spoken out aloud). That is why the installation procedure taught elsewhere (in other scriptures) for the benefit of the deceased, (according to our) scriptures, should not be performed here (in this case). Rather, on the contrary, a common (sādhāranṇī) (rite of installation) should be performed (with common mantras). (6-8) 
+certainly (jātu) not install the Mantras of the secret scriptures externally, especially not those that are (externally) manifest (and spoken out aloud).[^942] That is why the installation procedure taught elsewhere (in other scriptures) for the benefit of the deceased, (according to our) scriptures, should not be performed here (in this case). Rather, on the contrary, a common (sādhāranṇī) (rite of installation) should be performed (with common mantras). (6-8) 
 
 #### Viveka on 27.6–8
 
 ‘That is why’, that is, because an outer (public) installation (of the deity) has been prohibited (in the secret scriptures). (It is enjoined) ‘elsewhere (in other scriptures)’ for example, in the venerable Mṛtyuñjayatantra. As is said there: 
 
-‘Or else one should also install (the deity) in the cremation ground when the body (of the deceased) has been burnt." 
+‘Or else one should also install (the deity) in the cremation ground when the body (of the deceased) has been burnt.’[^943] 
 
-942?\. On the distinctions into manifest, unmanifest, etc., with regards to Lingas see above, 5/113. See also MV 18/1-56ab with regards to the adept who is ‘avyaktaliṅgin’ and 15/595cd-596. Cf. Kulapañcaśikā: avyaktaliṁginaṁ \[k: -tarn\] \[illegible\] saibhāsanti marīcayaḥ | liṅginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet) ॥ 3/19 I Quoted by Kṣemarāja in commentary on the Sivasütra 3/26.
+[^942]: On the distinctions into manifest, unmanifest, etc., with regards to Lingas see above, 5/113. See also MV 18/1-56ab with regards to the adept who is ‘avyaktaliṅgin’ and 15/595cd-596. Cf. Kulapañcaśikā: avyaktaliṁginaṁ \[k: -tarn\] \[illegible\] saibhāsanti marīcayaḥ | liṅginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet) ॥ 3/19 I Quoted by Kṣemarāja in commentary on the Sivasütra 3/26.
 
-943?\. NT 18/119cd. The printed edition of the NT reads: pratiṣthāpyari tathā devi ʻO goddess, (the god) should be installed in this way’ for pratiṣthā vāpi kartavyā — ‘Or else one should also install (the deity) . . .’. Kṣemarāja explains that the meaning of ‘when the body (of the deceased) has been burnt’ (dagdhapinde) is ‘when the location of the body has been burnt’ (pluṣtadehasthāne). śrāddhe saṁpūjayed devam antyeṣtāv athavā yajet | pratiṣthāpyaṁ tathā devi dagdhapinde śmaśānake Il pūrvoktair dravyasaṁbhārair gurunā prāgvidhānataḥ | pūrvoktaṁ \[illegible\] rūpaṁ śaktidvayasamanvitam || dagdhapinde pluṣtadehasthāne | pūrvoktam iti bhairavīyaṁ śaktidvayaṁ kṛśasthūlam | “The god should be worshipped in the course of the rite of feeding the ancestors (SrĀāddha). Or else one should sacrifice (to him) during the funerary rite. O goddess, (the god) should be installed in this way when the body (of the deceased) has been burnt. (The god Bhairava,) who was mentioned before, (his) form frightening and possessing two energies (one subtle and the other gross), (should be worshipped) by the teacher with the requisite (sacrificial) substances in accord with the previous procedure.’ NT 18/119-120 This passage refers to a funerary rite taught above in Chapter Twenty-one. See TĀ 21/12-13 is a condensed paraphrase of NT 18/112-16a, which is quoted in full by Jayaratha, and TĀv ad 21/22cd-24, where NT 18/1 16bcd-117ab is quoted. The Jñānottara is referring to ‘secret scriptures’. So when it says ‘elsewhere’ that is, in other scriptures apart from itself and those like it, we would presume that it is referring to these ‘secret scriptures’. So it is surprising that Jayaratha cites the Netratantra (alias Amṛteśvara), which is not generally considered to be a ‘secret scripture’, as an example, especially because its main mantra, dedicated to Mṛtyuñjaya, is a common, public one (see above, note 27,6).
+[^943]: NT 18/119cd. The printed edition of the NT reads: pratiṣthāpyari tathā devi ʻO goddess, (the god) should be installed in this way’ for pratiṣthā vāpi kartavyā — ‘Or else one should also install (the deity) . . .’. Kṣemarāja explains that the meaning of ‘when the body (of the deceased) has been burnt’ (dagdhapinde) is ‘when the location of the body has been burnt’ (pluṣtadehasthāne). śrāddhe saṁpūjayed devam antyeṣtāv athavā yajet | pratiṣthāpyaṁ tathā devi dagdhapinde śmaśānake Il pūrvoktair dravyasaṁbhārair gurunā prāgvidhānataḥ | pūrvoktaṁ \[illegible\] rūpaṁ śaktidvayasamanvitam || dagdhapinde pluṣtadehasthāne | pūrvoktam iti bhairavīyaṁ śaktidvayaṁ kṛśasthūlam | “The god should be worshipped in the course of the rite of feeding the ancestors (SrĀāddha). Or else one should sacrifice (to him) during the funerary rite. O goddess, (the god) should be installed in this way when the body (of the deceased) has been burnt. (The god Bhairava,) who was mentioned before, (his) form frightening and possessing two energies (one subtle and the other gross), (should be worshipped) by the teacher with the requisite (sacrificial) substances in accord with the previous procedure.’ NT 18/119-120 This passage refers to a funerary rite taught above in Chapter Twenty-one. See TĀ 21/12-13 is a condensed paraphrase of NT 18/112-16a, which is quoted in full by Jayaratha, and TĀv ad 21/22cd-24, where NT 18/1 16bcd-117ab is quoted. The Jñānottara is referring to ‘secret scriptures’. So when it says ‘elsewhere’ that is, in other scriptures apart from itself and those like it, we would presume that it is referring to these ‘secret scriptures’. So it is surprising that Jayaratha cites the Netratantra (alias Amṛteśvara), which is not generally considered to be a ‘secret scripture’, as an example, especially because its main mantra, dedicated to Mṛtyuñjaya, is a common, public one (see above, note 27,6).
 
 
 *[p. 404]* ^pg424
@@ -152,7 +152,7 @@ Into a Liṅga Anywhere or Into an Iconic Representation
 \[illegible\] tanmayatvasaṁisiddher ā cābhīṣtaphalodayāt |
 putrakaḥ sādhako vyaktam avyaktan vā samāśrayet ॥ 9 ॥ 
 
-As long as (he has not) attained a state of identification (with the deity, or) until the desired fruit has not arisen,” a spiritual son (putraka) and adept (sādhaka) may resort (samāśrayet) to a manifest (outwardly visible iconic form) (vyakta) or (to a mental representation or an aniconic form in which the deity) is not (externally visibly) manifest (avyakta).” (9) 
+As long as (he has not) attained a state of identification (with the deity, or) until the desired fruit has not arisen,[^944] a spiritual son (putraka) and adept (sādhaka) may resort (samāśrayet) to a manifest (outwardly visible iconic form) (vyakta) or (to a mental representation or an aniconic form in which the deity) is not (externally visibly) manifest (avyakta).[^945] (9) 
 
 #### Viveka on 27.9
 
@@ -169,9 +169,9 @@ Should the spiritual sons (putraka) etc. prepare the idol (pratimā) (for worshi
 न तु पाषाणजं लिङ्गं शिल्पयुत्थं परिकल्पयेत् ।
 धातूत्थं च सुवर्णोत्थवर्जमन्यद्विवर्जयेत् ॥ १३ ॥
 
-944?\. This verse is quoted below in TĀv ad 27/52. We shall see in 27/56cd-57 that the Trika Trident is projected into the Linga these Trika initiates worship.
+[^944]: This verse is quoted below in TĀv ad 27/52. We shall see in 27/56cd-57 that the Trika Trident is projected into the Linga these Trika initiates worship.
 
-945?\. See above, note 26,39.
+[^945]: See above, note 26,39.
 
 
 *[p. 405]* ^pg425
@@ -225,40 +225,40 @@ While the spiritual sons must request the teacher (to perform the rites of insta
 
 ### TĀ 27.11
 
-Here (in that case), at the time when the (deity) is detained (in the 1९00) (००१०), ।
+Here (in that case), at the time when the (deity) is detained (in the 1९00) (००१०),[^946]
 
 \+ the teacher should say before the pervasive Lord: “As long as he lives, may you abide (here), until (he obtains) the fruit (he desires), or until the end of (his) life.” (11) 
 
 ### TĀ 27.12–13
 
-The liṅga may be a made of quartz (bānṇaliṅga)," gems, pearls, flowers, food, cloth, or fragrant substances. He should not take into consideration (parikalpayet) a Liṅga made of stone fashioned by an artisan (śilpin). So too any other made of metal should be avoided, with the exception of gold. (12-13) 
+The liṅga may be a made of quartz (bānṇaliṅga),[^947] gems, pearls, flowers, food, cloth, or fragrant substances. He should not take into consideration (parikalpayet) a Liṅga made of stone fashioned by an artisan (śilpin). So too any other made of metal should be avoided, with the exception of gold. (12-13) 
 
 ### TĀ 27.14–16
 
-The measurements etc. (listed in scriptures for) liṅgas are of no application here at all. (Only a liṅga) that shines with Mantras of illustrious vitality (udāravīrya) bestows (the desired) fruit (and none other). (However,) that too should be purified with the (same) procedure taught with regard to the sacrificial surface etc.“ (Then,) the Mantras should be offered to it, (and the deity) should be detained (within it) in the same way, that is, in the manner explained (previously), and so too the lustration (tarpana) of the fire (that comes next). (Finally,) the remuneration (dakṣinā) (offered to) the teacher should be very special. An additional procedure (vidhi) is the sacrifice (offered) by virtue of (one’s spiritual) wealth, which is (to bring joy to the complete) satisfaction (tṛpti) of the downtrodden (dīna) and others (that are afflicted). (14-16) 
+The measurements etc. (listed in scriptures for) liṅgas are of no application here at all. (Only a liṅga) that shines with Mantras of illustrious vitality (udāravīrya) bestows (the desired) fruit (and none other). (However,) that too should be purified with the (same) procedure taught with regard to the sacrificial surface etc.[^948] (Then,) the Mantras should be offered to it, (and the deity) should be detained (within it) in the same way, that is, in the manner explained (previously), and so too the lustration (tarpana) of the fire (that comes next). (Finally,) the remuneration (dakṣinā) (offered to) the teacher should be very special. An additional procedure (vidhi) is the sacrifice (offered) by virtue of (one’s spiritual) wealth, which is (to bring joy to the complete) satisfaction (tṛpti) of the downtrodden (dīna) and others (that are afflicted). (14-16) 
 
 ### TĀ 27.17–19
 
-Of all the aniconic (avyakta)” signs (of the presence of deity) (liṅga), the main one is (natural), not fashioned (by man) (akalpita). It is said in various places in the Supreme Lord’s (scripture), in which the defining characteristic (of Liṅgas is stated,) that there is neither invocation nor 
+Of all the aniconic (avyakta)[^949] signs (of the presence of deity) (liṅga), the main one is (natural), not fashioned (by man) (akalpita). It is said in various places in the Supreme Lord’s (scripture),[^950] in which the defining characteristic (of Liṅgas is stated,) that there is neither invocation nor 
 
-946?\. Literally, ‘at the time called ‘detention’ (nirodha)’. Four essential events take place at their own appropriate time in the course of the worship of a liṅga or any iconic, or indeed aniconic, representation of the deity. These are 1) the invocation of the divinity (āvāhana), 2) its installation (sthāpana) in the Liṅga or other representation, 3) it is ‘brought close’ (sarnnidhāna) to the worshipper and so easily accessible for worship, and 4) is detained or ‘fixed’ (sarnnirodhana) in the place where it is to stay up to the end of the rite. “This aforementioned detention of the God, who nevertheless penetrates all things, is his continuous (uninterrupted) presence up to the end of the ritual (SŚP vol. 1, 3/68cd-69ab). According to the Jñāratnāvali (SŚP vol. 1: 192 n. 3), the detention of the deity is accompanied by the prayer: “May the Blessed One remain favourable towards me constantly.”
+[^946]: Literally, ‘at the time called ‘detention’ (nirodha)’. Four essential events take place at their own appropriate time in the course of the worship of a liṅga or any iconic, or indeed aniconic, representation of the deity. These are 1) the invocation of the divinity (āvāhana), 2) its installation (sthāpana) in the Liṅga or other representation, 3) it is ‘brought close’ (sarnnidhāna) to the worshipper and so easily accessible for worship, and 4) is detained or ‘fixed’ (sarnnirodhana) in the place where it is to stay up to the end of the rite. “This aforementioned detention of the God, who nevertheless penetrates all things, is his continuous (uninterrupted) presence up to the end of the ritual (SŚP vol. 1, 3/68cd-69ab). According to the Jñāratnāvali (SŚP vol. 1: 192 n. 3), the detention of the deity is accompanied by the prayer: “May the Blessed One remain favourable towards me constantly.”
 
-947?\. The bānaliṅga is usually made of pebbles of quartz and is shaped like an egg. See Rao 1916: vol. I, p.12.
+[^947]: The bānaliṅga is usually made of pebbles of quartz and is shaped like an egg. See Rao 1916: vol. I, p.12.
 
-948?\. See above, 26/37 ff.
+[^948]: See above, 26/37 ff.
 
-949?\. Literally - ‘unmanifest’.
+[^949]: Literally - ‘unmanifest’.
 
-950?\. Abhinava may be referring specifically to the Parameśvarāgama, of which there is a Nepalese manuscript preserved in Cambridge. See bibliography.
+[^950]: Abhinava may be referring specifically to the Parameśvarāgama, of which there is a Nepalese manuscript preserved in Cambridge. See bibliography.
 
 
 *[p. 407]* ^pg427
 
-artifact (kalpanā) with regard to a thread (that is used for a rosary), a (sacrificial) jar, a flag, a cloth, a spontaneously born precious stone (bāṇa) venerated (as a liṅga), and one that has arisen in the current of a river. Nor is there any restriction (in this case) as to the (location) of a sacred seat \[illegible\] or building (where they are enshrined),” (the suitable) limbs of mantras (by which they are worshipped), time (when it should be done), or the like.” (17-19ab) 
+artifact (kalpanā) with regard to a thread (that is used for a rosary), a (sacrificial) jar, a flag, a cloth, a spontaneously born precious stone (bāṇa) venerated (as a liṅga), and one that has arisen in the current of a river. Nor is there any restriction (in this case) as to the (location) of a sacred seat \[illegible\] or building (where they are enshrined),[^951] (the suitable) limbs of mantras (by which they are worshipped), time (when it should be done), or the like.[^952] (17-19ab) 
 
 ### TĀ 27.19–20
 
-Or else the teacher may (if he so wishes), cause the installation of an iconic (vyakta) (representation of the deity),) such as a picture, (a mask, or image made of) papier machè etc., or it may be made of deodar wood” or gold fashioned by a true (member of the) artisan (caste) (śilpin) who has received (the appropriate) initiation (to do the job). (19cd-20ab) 
+Or else the teacher may (if he so wishes), cause the installation of an iconic (vyakta) (representation of the deity),) such as a picture, (a mask, or image made of) papier machè etc., or it may be made of deodar wood[^953] or gold fashioned by a true (member of the) artisan (caste) (śilpin) who has received (the appropriate) initiation (to do the job). (19cd-20ab) 
 
 #### Viveka on 27.19–20
 
@@ -266,17 +266,17 @@ Deity May be Installed and Worshipped in a Skull
 
 ### TĀ 27.20–21
 
-Or else, (the deity) may reside (in a skull) that possesses the (required) characteristics, (be it the entire) head (or) a bowl made from it (tatkarpara). (The deity) should be placed on the skull (tāra) (and worshipped there) according to the procedure relating to the lines, wheels, tridents and lotuses (natural to it or engraved on it).” (20cd-21ab) 
+Or else, (the deity) may reside (in a skull) that possesses the (required) characteristics, (be it the entire) head (or) a bowl made from it (tatkarpara). (The deity) should be placed on the skull (tāra) (and worshipped there) according to the procedure relating to the lines, wheels, tridents and lotuses (natural to it or engraved on it).[^954] (20cd-21ab) 
 
 #### Viveka on 27.20–21
 
-951?\. \[illegible\] Read -prāsāda- for -prasāda-.
+[^951]: \[illegible\] Read -prāsāda- for -prasāda-.
 
-952?\. Concerning all this, see śānaśivagurudevapaddhati, vol. 4 p. 374. The projection of Mantras etc. concern only the lingas fashioned by human hands (mānuṣeṣv eva liṅgeṣu mantramṛtyādi-samkarah, ibid. p. 374).
+[^952]: Concerning all this, see śānaśivagurudevapaddhati, vol. 4 p. 374. The projection of Mantras etc. concern only the lingas fashioned by human hands (mānuṣeṣv eva liṅgeṣu mantramṛtyādi-samkarah, ibid. p. 374).
 
-953?\. Cedrus Deodara.
+[^953]: Cedrus Deodara.
 
-954?\. As is the case with other references to the BY in the Tantrāloka, this one also could not be traced in the BY that survives in the early eleventh century Nepalese manuscript we have, from which the great majority, if not all other manuscripts we have are derived. Even so, tūrayāga ~ ‘the sacrifice performed on a skull’, that is, the invocation, installation and worship of deities on a skull, is well known to it; it is also found in the related Piṅgalāmata. The Picumata (alias Brahmayāmala) repeatedly describes rites involving the worship of deities invoked into a human skull or the deposition (nyāsa) of them onto it. The Picumata, which one could characterize, as Sanderson does, as a ‘“Kāpālika Tantra’, dedicates a long section on the iconometry of idols to be erected in cremation grounds and their worship. Like the Sacrifice of the Skull, this is not a subject commonly discussed in the Śaiva Tantras. Kiss (2015: 318) reports that chapter four of the Brahmayāmala from verse 338 to the end deals with a ‘description of ritual objects such as damarus, kapālas, khatvāṁgas and a section on image installation (pratiṣthā). Verses 740 to 779 deal with the characteristics of a skull (kapālalakṣana).’ Embellishing skulls with silver, gold, and precious stones to use for ritual purposes is common practice in the Buddhist Yoga and Anuttarayoga Tantras, but not those of the (chronologically earlier) Kriyā and Caryā Tantras. The transition from the first two to the second two types is marked by the strongly developed influence of the forms of Śaivism that subscribe to these kinds of ritual procedures. One of the central features is the worship of the deity in a skull (kapāla) or its use as a sacrificial vessel (pātra). As this is a feature of the cult of the Brahmayāmala, it can be said to be ‘kāpālika’. We may say the same about the Buddhist Tantric cults. Naturally, a skull is considered normally to be a very impure object, but not so when part of a living body. Accordingly, the Vijñānabhairava teaches: kapālāntar mano nyasya tiṣthan mīlitalocanaḥ | kramenṇa manaso dārdhyāt lakṣayel lakṣyam uttamam ॥ 34 ॥ “Having placed the mind within (the space of the) skull, abiding (motionless), with the eyes closed, by the progressively (increasing) stability of the mind, one perceives the supreme goal.’ (34)
+[^954]: As is the case with other references to the BY in the Tantrāloka, this one also could not be traced in the BY that survives in the early eleventh century Nepalese manuscript we have, from which the great majority, if not all other manuscripts we have are derived. Even so, tūrayāga ~ ‘the sacrifice performed on a skull’, that is, the invocation, installation and worship of deities on a skull, is well known to it; it is also found in the related Piṅgalāmata. The Picumata (alias Brahmayāmala) repeatedly describes rites involving the worship of deities invoked into a human skull or the deposition (nyāsa) of them onto it. The Picumata, which one could characterize, as Sanderson does, as a ‘“Kāpālika Tantra’, dedicates a long section on the iconometry of idols to be erected in cremation grounds and their worship. Like the Sacrifice of the Skull, this is not a subject commonly discussed in the Śaiva Tantras. Kiss (2015: 318) reports that chapter four of the Brahmayāmala from verse 338 to the end deals with a ‘description of ritual objects such as damarus, kapālas, khatvāṁgas and a section on image installation (pratiṣthā). Verses 740 to 779 deal with the characteristics of a skull (kapālalakṣana).’ Embellishing skulls with silver, gold, and precious stones to use for ritual purposes is common practice in the Buddhist Yoga and Anuttarayoga Tantras, but not those of the (chronologically earlier) Kriyā and Caryā Tantras. The transition from the first two to the second two types is marked by the strongly developed influence of the forms of Śaivism that subscribe to these kinds of ritual procedures. One of the central features is the worship of the deity in a skull (kapāla) or its use as a sacrificial vessel (pātra). As this is a feature of the cult of the Brahmayāmala, it can be said to be ‘kāpālika’. We may say the same about the Buddhist Tantric cults. Naturally, a skull is considered normally to be a very impure object, but not so when part of a living body. Accordingly, the Vijñānabhairava teaches: kapālāntar mano nyasya tiṣthan mīlitalocanaḥ | kramenṇa manaso dārdhyāt lakṣayel lakṣyam uttamam ॥ 34 ॥ “Having placed the mind within (the space of the) skull, abiding (motionless), with the eyes closed, by the progressively (increasing) stability of the mind, one perceives the supreme goal.’ (34)
 
 
 *[p. 408]* ^pg428
@@ -285,29 +285,29 @@ Characteristics and Features of a Skull
 
 ### TĀ 27.21–22
 
-We will now state its defining characteristic (lakṣana), as described in the venerable Picuśastra, (where we read that): ‘the sacrifice? (yāga) (performed) on a skull devoid of defects is always commended (śasta) as bestowing accomplishment (siddhi).”” (21cd-22ab) 
+We will now state its defining characteristic (lakṣana), as described in the venerable Picuśastra, (where we read that): ‘the sacrifice[^955] (yāga) (performed) on a skull devoid of defects is always commended (śasta) as bestowing accomplishment (siddhi).’[^956] (21cd-22ab) 
 
 #### Viveka on 27.21–22
 
 (The adept) ‘may install (the icon)’ by himself alone. ‘But if he does not’ know (how to do) it himself, (the teacher must do it for him). (As long as) ‘he’ (lives), that is, the adept or spiritual son. (May the Lord be present) ‘until (he obtains) the fruit’ or ‘or until the end of (his) life’. As was said (before): 
 
-“As long as (he has not) attained a state of identification (with the deity, or) so long as the desired fruit has not arisen.” 
+“As long as (he has not) attained a state of identification (with the deity, or) so long as the desired fruit has not arisen.”[^957] 
 
 ‘Made of cloth’ — the dwelling (of the deity) is made from cloth alone. He implies (by saying that the \[illegible\] ‘should not be made of stone’ that that is (only) fit for a permanent installation (of the deity). By saying that ‘any other should be avoided’, the meaning is that it should be made of gold. “The measurements etc. (listed in scriptures for) liṅgas are of no application here’. It is said with the same intended sense, that: 
 
 ‘one should not consider (what would be the correct) size etc. of (liṅgas) that have been installed by Siddhas.” 
 
-‘That too’, namely the liṅga, (should be purified as is the sacrificial surface and the deity within it, and should be addressed with the words): “As long as he lives, may you abide (here), until (he obtains) the fruit (he desires) or until the end of (his) life.” (The remuneration (dakṣinā) offered to the teacher) ‘should be very special’, not just special. (The procedure is) ‘additional’, because it is optional.” The ‘thread’ is the thread of a rosary. The ‘jar’ (meant here out of the two jars) is the large one. The ‘flag’ (stands for attributes of the deity,) such as the ascetic’s staff (khatvāṁga). The ‘cloth’ is one intended for the sacrifice. “The head’ is (the whole) unbroken (skull). The ‘wheels’ (of deities on the skull are worshipped) in sequence, going around (them). He quotes that (Picumata as saying): (the sacrifice performed) ‘on a skull’ etc. 
+‘That too’, namely the liṅga, (should be purified as is the sacrificial surface and the deity within it, and should be addressed with the words): “As long as he lives, may you abide (here), until (he obtains) the fruit (he desires) or until the end of (his) life.” (The remuneration (dakṣinā) offered to the teacher) ‘should be very special’, not just special. (The procedure is) ‘additional’, because it is optional.[^958] The ‘thread’ is the thread of a rosary. The ‘jar’ (meant here out of the two jars) is the large one. The ‘flag’ (stands for attributes of the deity,) such as the ascetic’s staff (khatvāṁga). The ‘cloth’ is one intended for the sacrifice. “The head’ is (the whole) unbroken (skull). The ‘wheels’ (of deities on the skull are worshipped) in sequence, going around (them). He quotes that (Picumata as saying): (the sacrifice performed) ‘on a skull’ etc. 
 
 He (now) defines the (possible) defects (of a skull). 
 
-955?\. Read yāgaḥ for yogaḥ.
+[^955]: Read yāgaḥ for yogaḥ.
 
-956?\. Lines 21cd to 24 are mostly drawn from the Picumata, i.e. Brahmayāmala.
+[^956]: Lines 21cd to 24 are mostly drawn from the Picumata, i.e. Brahmayāmala.
 
-957?\. Above, 27/9ab. The full passage is quoted below in TĀv ad 27/50-52.
+[^957]: Above, 27/9ab. The full passage is quoted below in TĀv ad 27/50-52.
 
-958?\. Read ity anityavāt for iti nityavāt.
+[^958]: Read ity anityavāt for iti nityavāt.
 
 
 *[p. 409]* ^pg429
@@ -323,14 +323,14 @@ If the skull has networks (of channels), old cavities, too many or too few teeth
 
 #### Viveka on 27.22–23
 
-(By) ‘networks (of holes)’ (are meant) ones that opened up recently and are generally small (sūkṣma).” ‘Old cavities’ are ones that were formed a long time back. “Too many or too few teeth’, that is, (more or less) than thirty-two. ‘Diseased’ in the form of (rotting) discharge. ‘Devoid of these (defects)’, that is, without networks (of holes) and the rest. 
+(By) ‘networks (of holes)’ (are meant) ones that opened up recently and are generally small (sūkṣma).[^959] ‘Old cavities’ are ones that were formed a long time back. “Too many or too few teeth’, that is, (more or less) than thirty-two. ‘Diseased’ in the form of (rotting) discharge. ‘Devoid of these (defects)’, that is, without networks (of holes) and the rest. 
 
 ### TĀ 27.23
 
 काम्य एव भवे्तूरमिति केचित्प्रपेदिरे ॥ २३ ॥
 kāmya eva bhavet tūram iti kecit prapedire ॥ 23 ॥ 
 
-Some maintain that the skull is used only for (magical) intentional rites (kāmya).” (23cd) 
+Some maintain that the skull is used only for (magical) intentional rites (kāmya).[^960] (23cd) 
 
 #### Viveka on 27.23
 
@@ -346,7 +346,7 @@ Some maintain that the skull is used only for (magical) intentional rites (kāmy
 एकादिपञ्सदर्रविद्यारेखान्विते शुभे ॥ २६ ॥
 न रुक्षवक्रशकलदीर्घनिम्नसबिन्दुके श्लक्ष्णया वञ्जसूच्यात्र स्फुटं देवीगणान्वितम् ॥ २७ ॥
 
-959?\. We find the same usage of the term ‘jālaka’ — here the feminine jālikā - meaning the fine network of channels in a skull, in the following passage from the Brahmayāmala: jālikābhedane caiva mahādoṣa prajāyate \\ 229 ॥ tasmāt sarvaprayatnena nirdoṣaṁ kārayed budhaḥ | jālikābhedane tūre karmahāniḥ prajāyate ॥ 230 ॥ vyādhiś caiva prajāyeta \[kh: prajñeyeta\] arthahānit tathaiva ca | "\^ great defect arises when the channels (of the skull) are broken. Therefore, the wise man should make every effort to render it free of defects. When the channels in a skull (rūra) are broken, (one’s) work is destroyed. Disease arises, and so too loss of wealth.” BY 4/229cd-23 Lab
+[^959]: We find the same usage of the term ‘jālaka’ — here the feminine jālikā - meaning the fine network of channels in a skull, in the following passage from the Brahmayāmala: jālikābhedane caiva mahādoṣa prajāyate \\ 229 ॥ tasmāt sarvaprayatnena nirdoṣaṁ kārayed budhaḥ | jālikābhedane tūre karmahāniḥ prajāyate ॥ 230 ॥ vyādhiś caiva prajāyeta \[kh: prajñeyeta\] arthahānit tathaiva ca | "\^ great defect arises when the channels (of the skull) are broken. Therefore, the wise man should make every effort to render it free of defects. When the channels in a skull (rūra) are broken, (one’s) work is destroyed. Disease arises, and so too loss of wealth.” BY 4/229cd-23 Lab
 
 
 *[p. 410]* ^pg430
@@ -363,9 +363,9 @@ na rūkṣavakraśakaladīrghanimnasabinduke |
 slakṣnṇayā vajrasūcyātra sphutaṁ devīganānvitam ॥ 27 ||
 sarvar samālikhet pūjyaṁ sarvāvayavasundaram | 
 
-(But our) teachers” explain that, when it is said in the Picumata (that) ‘in a magical rite (kāmyavidhi) one should take care to avoid (a skull 
+(But our) teachers[^961] explain that, when it is said in the Picumata (that) ‘in a magical rite (kāmyavidhi) one should take care to avoid (a skull 
 
-960?\. The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā caivaṁ caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyaṁ dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghoraṁ dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
+[^960]: The following is a passage from the Brahmayāmala, where we find an example of the use of a skull for a magical rite to subdue ~ ‘attract’ — a victim: yāgakāle prakartavyā gandhadhūpādikā kriyā \\ 162 I| daśārnarecitā vidyā siddhasandohalakṣanā | asya sādhanakarmaṁ ca kathayāmi yathā bhavet || 163 ॥ “At the time of a sacrifice, one should make ritual (offering of) perfume, incense and the like. The Vidyā is made of five phonemes and is the extract of (the teachings of the) Siddhas. Now I will tell you how the rite of its sādhana is. (162cd-163) mahāvīrakapāle tu kṛtvā caivaṁ caturbhujam | kapālamālābharanaṁ nāgayajñopavītinam \[g: -nīm\] Il 164 ॥ kapālakhaṭvāṁgadharāmi pretārūdhāri subhairavīm | 143a g\] digambarāṁ \[g: ?\] caturvaktrāṁ pāśāṁkuśadharāṁ śubhām ॥ 165 ॥ pūjayīta kṛtanyāso mudrāpañcakabhūṣitaḥ | The worshipper who has performed the deposition (of the mantras on his body) and is adorned with the five insignia (mudrā) (of a Kāpālika) (should worship) having fashioned in this way (a Bhairava) on the skull of a Great Hero with four arms (holding) a skull, a garland, as an ornament, and (wearing) a snake as a sacred thread. (On the skull there is also) a beautiful Bhairavi who holds an ascetic’s staff, mounted on a ghost, naked with four faces and holds an auspicious noose and elephant gaud, (164-166ab) digvāso muktakeśaś ca madhocchiṣtavidhau sthitaḥ ॥ 166 ॥ mṛtanirmālyapuṣpais tu anyair vācāntadhāūtakaiḥ | \[g: 21 pūjayed bhairavīdevīṁi puṣpair nānāvidhais tathā ॥ 167 ॥ \[g: ?\] dantakarnākṣināsāyā mūlaṁ balisamudbhavam | \[g: ?\] sugandhamiśritaṁ \[g: ?\] dadyād gandhametad dvijottamaḥ || 168 II He is naked, his hair dishevelled, observing the procedure that requires wine and the remnants of food. He should worship the goddess Bhairavi with dead leftover flowers, used previously as an offering and other (such things) and (also) with flowers of many kinds. The most excellent of the twice bor, should offer this as scent — the root of the teeth, ears and eyes of the animal offered in sacrifice (bali) mixed with fine perfume. (168) laśunaṁ guggulaṁ caiva mahāmāṁsari tathaiva ca | kṛsnamārjāraviṣṭiṁ ca ekatra viniyojitam ॥ 169 I| bodhitar strīrajenāyaṁn daded dhūpaṁ tu mantravit | svavāmāṁgodbhavenaiva rudhireṇa kapālake || 170 ॥ arghar tasya pradātavyaṁ suray ca pratarpayet | Garlic, bdellium, human flesh (or beef), a black cat and (the meat of a) slave together in one place — the knower of Mantra should offer (this), awakened (and energized) by a woman’s menstrual blood as incense. Purifying liquid (argha) should be offered with the blood from the left part of one’s own body onto the skull and offer libation with wine (surā). (171ab) matsyamāṁsaṁ caruṁ deva upahāraṁ tathaiva ca ॥ 171 II vaṭakaiḥ pūrakair dhūpair āmamāṁsamanvitaiḥ | naivedyaṁ dāpayet prājṁñaḥ palānduṁ laśunaṁ tathā ॥ 172 Il tato homar prakartavyaṁ mahāmārisena mantrinī | gomāṁsarudhireṇaiva tarpayed hastajena tu || 173 ॥ arthālābhena \[g: ?\] cānyena \[g: ?\] tataḥ kṛtvā pradakṣinām | japaṁ śahkhākṣasūtrari \[g: saṁ-\] ca mahāśaṁkho \[g: -sarikho\] hy atandritaḥ W 174 Il sadocchiṣto japed devīṁ yadīcchet siddhim ātmanaḥ \[g: -tsiddhimā + \*?\] | japet akṣarātyakṣena mahocchuṣmaṁ prapaśyati ? ॥ 175 ॥ bhinnāñjanapratīkāśami ghoraṁ dvādaśalocanam | svapnānte paśyate devī dṛṣṭvā siddhyati mantravit ॥ 176 ॥ O god, the wise man should offer a food offering of sacrificial pap made of fish and meat, along with cakes of pulse, balls of meat, incense, along with raw meat, onion, and garlic. O reciter of Mantra, (he should make) a fire offering of human flesh (or beef) (mahāmāṁsa) and offer libations with the blood of cow flesh and that of an elephant or with something else if he cannot procure the money (to do that). Then, having circumambulated (the skull), he should tirelessly repeat (the Vidyā of) the goddess if he wishes accomplishments for himself. (171cd-175ab) He should repeat Mantra without omitting (any letters) (until) he sees Mahocchuṣmā. (He is black) like sliced collyrium, fearsome and with twelve eyes. O goddess, he sees him in a dream and having seen him, the knower of Mantra is successful.” (175cd-176) The text goes on to list a variety of kinds of meat to offer in the fire concluding that the person with whose name he makes these offering is attracted in a moment. (177-1 82ab)
 
 
 *[p. 411]* ^pg431
@@ -374,13 +374,13 @@ with these) defects’, (the sense is that that) is not so (when it is used) in 
 
 ### TĀ 27.25–28
 
-According to the venerable Siddhātantra, the most excellent characteristic of a skull (is found) in one that has one (two, three or) four (clearly defined) parts (khanda), one that is (shaped like) the head of a cow (gomukha) (or) the full moon, (one that has the colour of a red or blue) lotus, (yellow) orpiment (gorocanā),;” and is (shiny and radiant) like pearls, (clear) water, or crystal. It has one (two, three, four or) five beautiful (sat) holes and, auspicious, has fourteen lines. (A skull that does) not (possesses good characteristics is one that is) rough, crooked, (broken) in pieces, elongated, with depressions and points (bindu). (On the surface of the skull), one should engrave clearly with a hard, thin scalpel everything that is to be worshipped, including the host of goddesses, beautiful in all their limbs. (25-28ab) 
+According to the venerable Siddhātantra, the most excellent characteristic of a skull (is found) in one that has one (two, three or) four (clearly defined) parts (khanda), one that is (shaped like) the head of a cow (gomukha) (or) the full moon, (one that has the colour of a red or blue) lotus, (yellow) orpiment (gorocanā),[^962] and is (shiny and radiant) like pearls, (clear) water, or crystal. It has one (two, three, four or) five beautiful (sat) holes and, auspicious, has fourteen lines. (A skull that does) not (possesses good characteristics is one that is) rough, crooked, (broken) in pieces, elongated, with depressions and points (bindu). (On the surface of the skull), one should engrave clearly with a hard, thin scalpel everything that is to be worshipped, including the host of goddesses, beautiful in all their limbs. (25-28ab) 
 
 #### Viveka on 27.25–28
 
-961?\. This is probably an honorific plural for ‘my teacher’, who could only be Śambhunātha.
+[^961]: This is probably an honorific plural for ‘my teacher’, who could only be Śambhunātha.
 
-962?\. According to Monier-Williams, gorocanā is a bright yellow orpiment prepared from the bile of cattle, employed in painting, dyeing, and marking a rilaka on the forehead. In medicine it is used as a sedative, tonic, and anthelmintic remedy.
+[^962]: According to Monier-Williams, gorocanā is a bright yellow orpiment prepared from the bile of cattle, employed in painting, dyeing, and marking a rilaka on the forehead. In medicine it is used as a sedative, tonic, and anthelmintic remedy.
 
 
 *[p. 412]* ^pg432
@@ -389,7 +389,7 @@ It is stated that (the skull may be shaped like) ‘the head of a cow’ etc. in
 
 ‘Well then (tāvat), first of all, one should examine the skull (to see if) it possesses the (required) characteristics. (Those are found in one that has just) one part, two, three or four parts and is very beautiful. Or else (its shape may be that of a) cow’s head, or be radiant as the full moon. Or else it may be the colour of a lotus, (yellow) orpiment, water, a pearl, coral, sapphire, or like pure crystal. (If auspicious,) it has fourteen lines, one, two, three, four or five holes. An auspicious mark should be fashioned (on such a skull). 
 
-(However,) O slim-waisted lady, you should never inscribe one that is rough, decaying, cruel, crooked, elongated, marked with points and (with a disfiguring) depression (nimna). Once ascertained that the skull is pure by virtue of its characteristics and that it fulfils all expectations, one should fashion on the upper hollow (of the skull) an image (of the deity) (pratimā) as one imagines it to be. Having fashioned an area (ksetra) on one quarter of it, one should draw a circle within it, and then again within (that) circle another circle in the middle (of it), divided into three parts, in the middle of which is a lotus. Once known that the goddess or the god is in the middle of it, surrounded by yoginīs, as within a wheel, the parts should be fashioned (in this way) by a hard, thin scalpel. 
+(However,) O slim-waisted lady, you should never inscribe one that is rough, decaying, cruel, crooked, elongated, marked with points and (with a disfiguring) depression (nimna). Once ascertained that the skull is pure by virtue of its characteristics and that it fulfils all expectations, one should fashion on the upper hollow (of the skull) an image (of the deity) (pratimā) as one imagines it to be. Having fashioned an area (ksetra) on one quarter of it, one should draw a circle within it, and then again within (that) circle another circle in the middle (of it), divided into three parts, in the middle of which is a lotus. Once known that the goddess or the god is in the middle of it, surrounded by yoginīs, as within a wheel, the parts should be fashioned (in this way) by a hard, thin scalpel.’[^963] 
 
 (The text continues to discuss the skull and related matters) in many ways. 
 
@@ -411,7 +411,7 @@ And the scripture also (characterizes the sacrificial jar) in the same way. Acco
 ्रीब्रह्मयामलेऽप्युक्तं पात्रं गोमुखमुत्तमम् ।
 गजकूर्मतल कुम्भवृत्तशक्तिकजाकृति ॥ २९॥
 
-963?\. This passage does seem to be Abhinava’s source here, which he tells us is the Siddhātantra. According to Törzsök (1999: 229), this long quotation from the Siddhātantra is not found in the available recension of the SYM, and the detailed manner of the description is uncharacteristic of it, as is the topic itself.
+[^963]: This passage does seem to be Abhinava’s source here, which he tells us is the Siddhātantra. According to Törzsök (1999: 229), this long quotation from the Siddhātantra is not found in the available recension of the SYM, and the detailed manner of the description is uncharacteristic of it, as is the topic itself.
 
 
 *[p. 413]* ^pg433
@@ -419,7 +419,7 @@ And the scripture also (characterizes the sacrificial jar) in the same way. Acco
 Śrībrahmayāmale ‘py uktaṁ pātraṁ gomukham uttamam |
 gajakūrmatalaṁ kumbhavṛttaśaktikajākṛti ॥ 29 ॥ 
 
-Tt is also said in the venerable Brahmayāmala that the best vessel (i.e. a skull) is (one that is shaped like) the head of a cow, its base (round like) a tortoise or elephant, and form like the female organ (śaktikaja),”it (should be) round like an elephant’s forehead (kumbha).(29) 
+Tt is also said in the venerable Brahmayāmala that the best vessel (i.e. a skull) is (one that is shaped like) the head of a cow, its base (round like) a tortoise or elephant, and form like the female organ (śaktikaja),[^964]it (should be) round like an elephant’s forehead (kumbha).[^965] (29) 
 
 #### Viveka on 27.29
 
@@ -441,19 +441,19 @@ akṣasūtraṁ kramotkṛṣtan raudrākṣaṁ vā viśeṣataḥ |
 śataṁ tithyuttaraṁ yad vā sāṣtaṁn yad vā tadardhakam || 31 ॥
 tadardhaṁ vātha pañcāśadyuktaṁ tat parikalpayet | 
 
-Now, one should fashion (or acquire) a rosary, and worship there itself the (entire) sequence (of principles, worlds and deities etc,) (krama). (The beads should be) made of the Heroes’ Substance (vīradhātu), seeds of padmākṣa,” pearls, gems, (or) gold. The rosary (made of these materials) is, respectively, more excellent, or especially so, one (made of) rudrākṣa.” It should be fashioned with one hundred and fifteen (beads), one hundred and eight, half of this, or half of that (again), or else (just) fifty.” (30-32ab) 
+Now, one should fashion (or acquire) a rosary, and worship there itself the (entire) sequence (of principles, worlds and deities etc,) (krama). (The beads should be) made of the Heroes’ Substance (vīradhātu), seeds of padmākṣa,[^966] pearls, gems, (or) gold. The rosary (made of these materials) is, respectively, more excellent, or especially so, one (made of) rudrākṣa.[^967] It should be fashioned with one hundred and fifteen (beads), one hundred and eight, half of this, or half of that (again), or else (just) fifty.[^968] (30-32ab) 
 
 #### Viveka on 27.30–32
 
-964?\. Śaktikaja literally means the Lotus of Śakti.
+[^964]: Śaktikaja literally means the Lotus of Śakti.
 
-965?\. Concerning this section of the Tantrāloka, see Sanderson 2007: 98. Cf BY 4/740: gomukhaṁ \[k: raga- kh: ro-\] rājapuṣtambā \[kh: gajaṣuṣumnā\] gajakuīibhas tathaiva ca | kurmapṛṣtākṛtiś caiva íaktipātraṁ \[kh: -pātaṁ\] tathaiva ca |
+[^965]: Concerning this section of the Tantrāloka, see Sanderson 2007: 98. Cf BY 4/740: gomukhaṁ \[k: raga- kh: ro-\] rājapuṣtambā \[kh: gajaṣuṣumnā\] gajakuīibhas tathaiva ca | kurmapṛṣtākṛtiś caiva íaktipātraṁ \[kh: -pātaṁ\] tathaiva ca |
 
-966?\. Nelumbium Speciosum.
+[^966]: Nelumbium Speciosum.
 
-967?\. \[illegible\] Elaeocarpus Ganitus.
+[^967]: \[illegible\] Elaeocarpus Ganitus.
 
-968?\. The rosary is a common subject in Tantras of all sorts. Conceming the rosary, see SŚP, vol. 1, p.216 and note 2. See Dyczkowski 2009: vol 7 note 11, 44 concerning the types of rosaries according to the Kubjikā Tantras. The passage conceming the rosary is in the MV (19/75 ff). It begins as follows: “Then the wise man should fashion a rosary, according to that (same) procedure, made of gems, pearls, (or) mother-of-pearl etc., (or) of padmākṣa etc. Or else it may be made of metal, such as gold, and measure fifty beads. It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down\* (from one’s hand), made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Sakti there.’ MV 19/75-77 \* Read samālambhya for samālabhya.
+[^968]: The rosary is a common subject in Tantras of all sorts. Conceming the rosary, see SŚP, vol. 1, p.216 and note 2. See Dyczkowski 2009: vol 7 note 11, 44 concerning the types of rosaries according to the Kubjikā Tantras. The passage conceming the rosary is in the MV (19/75 ff). It begins as follows: “Then the wise man should fashion a rosary, according to that (same) procedure, made of gems, pearls, (or) mother-of-pearl etc., (or) of padmākṣa etc. Or else it may be made of metal, such as gold, and measure fifty beads. It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down\* (from one’s hand), made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Sakti there.’ MV 19/75-77 \* Read samālambhya for samālabhya.
 
 
 *[p. 414]* ^pg434
@@ -509,7 +509,7 @@ Then again, when that is double, by (depositing) that (in the forward and revers
 
 ### TĀ 27.35–36
 
-The teacher should deposit both the two (that is, Mātṛkā as well as Mālinī) on the most excellent (rosary which is made of one hundred and fifteen beads,) after having deposited the fifteen Mantras taught previously as the main ones for the rite of initiation.” (35cd-36ab) 
+The teacher should deposit both the two (that is, Mātṛkā as well as Mālinī) on the most excellent (rosary which is made of one hundred and fifteen beads,) after having deposited the fifteen Mantras taught previously as the main ones for the rite of initiation.[^969] (35cd-36ab) 
 
 ### TĀ 27.36–37
 
@@ -517,45 +517,45 @@ Or if the rosary is made (of beads) numbering the principles, worlds, Forces, Ma
 
 ### TĀ 27.37–39
 
-Once the rosary has been made, everything (that needs be done to purify it etc.) is as with the sacrificial surface. Once it has been worshipped, one should repeat Mantra tirelessly with that same (rosary). This is the procedure taught in the venerable Mālinīvijayottara: ‘rotating (the rosary) like a wheel, (repeating the Mantra with each bead), whatever he says, that is Mantra, and whatever he sees he offers as an oblation, by introducing it into the fire of consciousness.’” (37cd-39) 
+Once the rosary has been made, everything (that needs be done to purify it etc.) is as with the sacrificial surface. Once it has been worshipped, one should repeat Mantra tirelessly with that same (rosary). This is the procedure taught in the venerable Mālinīvijayottara: ‘rotating (the rosary) like a wheel, (repeating the Mantra with each bead), whatever he says, that is Mantra, and whatever he sees he offers as an oblation, by introducing it into the fire of consciousness.’[^970] (37cd-39) 
 
 #### Viveka on 27.37–39
 
 The group of five faces ʻis five-fold’, because it is multiplied by the group of five energies commencing with consciousness, thus making twenty-five. This is the meaning. ‘Oneness’ is the single nature (rūpa) that transcends (the domain of) limiting adjuncts (upādhi). This is the meaning. It is of two 
 
-969?\. See above, 17/39cd, 40ab.
+[^969]: See above, 17/39cd, 40ab.
 
-970?\. 27/39 is a paraphrase of MV 19/82-83ab, which is quoted by Jayaratha in the commentary. Note that the MV continues by teaching that rotating the rosary in reverse, the mantras repeated with it serve for various kinds of black magic. To this, as one would expect, Abhinava makes no reference at all. Note also that although Chapter Nineteen of the MV is dedicated to the repetition of mantra (japa) and associated matters, such as the types of rosary one can use as an aid to this, none of these details are mentioned in the MV, although Abhinava claims that this procedure is taught there. It is possible that a part of this chapter of the MV has been lost. But this is unlikely, as the procedure taught there does not coincide with this one. Thus, we must surmise that Abhinava learnt it independently either from his teacher Śambhunātha or some other Trika Tantra, which is more likely. Anyway, the use of the Mālinī alphabet testifies to this being a Trika procedure.
+[^970]: 27/39 is a paraphrase of MV 19/82-83ab, which is quoted by Jayaratha in the commentary. Note that the MV continues by teaching that rotating the rosary in reverse, the mantras repeated with it serve for various kinds of black magic. To this, as one would expect, Abhinava makes no reference at all. Note also that although Chapter Nineteen of the MV is dedicated to the repetition of mantra (japa) and associated matters, such as the types of rosary one can use as an aid to this, none of these details are mentioned in the MV, although Abhinava claims that this procedure is taught there. It is possible that a part of this chapter of the MV has been lost. But this is unlikely, as the procedure taught there does not coincide with this one. Thus, we must surmise that Abhinava learnt it independently either from his teacher Śambhunātha or some other Trika Tantra, which is more likely. Anyway, the use of the Mālinī alphabet testifies to this being a Trika procedure.
 
 
 *[p. 416]* ^pg436
 
 kinds. (There is the oneness) that ‘precedes’, because the limiting adjuncts have not arisen, and (the oneness) at the end, because the limiting adjuncts have been stilled. In this way, there are twenty-seven (phases). (This is) ‘the penultimate’ (procedure,) because the last (kind of) rosary is one with fifty beads, and this one is next to it. ‘There’, that is, (in the case when there are) two (sets of) twenty-seven. ‘When it is double the measure’, that is, consists of fifty-four (beads). ‘In two forms’, consisting of Śakti and (Śiva,) its possessor. “Then again when that is double’, that is, one hundred and eight. “The most excellent’ (rosary is the one) made of one hundred and fifteen beads. (The teacher should deposit both) ‘the two’, Mātṛkā and Mālinī. (The Mantras taught) ‘previously’ (as the main ones) in chapter fifteen and seventeen. As is said there (above in Chapter Seventeen): 
 
-‘The fifteen mantras (that are used) for the purification (that takes place) by merger are, in due order, the group of eight beginning with Pibanī, the group of six (limbs) beginning with the Weapon, and Para." 
+‘The fifteen mantras (that are used) for the purification (that takes place) by merger are, in due order, the group of eight beginning with Pibanī, the group of six (limbs) beginning with the Weapon, and Para.’[^971] 
 
 ‘Or if’, according to another view, (the beads of the rosary correspond to the constituents of the six-fold Path). (This is the procedure) ‘taught’ in the nineteenth chapter (of the Mālinīvijayottara). As is said there: 
 
-‘Then, with this (same) procedure, the wise man should fashion a rosary made of gems, pearls, (or) mother-of-pearl etc. (or) lotus seeds (padmākṣa) etc. Or else it may be made of metal such as gold and measure fifty beads.” It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down (from one’s hand),“ made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Śakti there. One should utter the seed-syllable with each (bead) encapsulated (puṭāntaga) by the seed syllable of Parā. One should connect the radiant \[illegible\] at the end to the one letter which is at the beginning. 
+‘Then, with this (same) procedure, the wise man should fashion a rosary made of gems, pearls, (or) mother-of-pearl etc. (or) lotus seeds (padmākṣa) etc. Or else it may be made of metal such as gold and measure fifty beads.[^972] It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down (from one’s hand),[^973] made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Śakti there. One should utter the seed-syllable with each (bead) encapsulated (puṭāntaga) by the seed syllable of Parā.[^974] One should connect the radiant \[illegible\] at the end to the one letter which is at the beginning.[^975] 
 
-One should recollect the first letter as the most powerful (bhūyaḥ), pervading and presiding over all (the others). The letters are also of two kinds, the procedure regarding (their) division is considered to be this one (as follows). The pervasive letter (which is the first one) is in the second one. The second one should be deposited as was the previous one (into the one that follows), and so on with the third and the rest of the letters, ending with PH.“ This is also an accepted way. 
+One should recollect the first letter as the most powerful (bhūyaḥ), pervading and presiding over all (the others). The letters are also of two kinds, the procedure regarding (their) division is considered to be this one (as follows). The pervasive letter (which is the first one) is in the second one. The second one should be deposited as was the previous one (into the one that follows), and so on with the third and the rest of the letters, ending with PH.[^976] This is also an accepted way. 
 
-971?\. Above, 17/39cd-40ab.
+[^971]: Above, 17/39cd-40ab.
 
-972?\. MV 19/760 reads śatārdhapratimāṁ for śatārdhākṣamitām, as is found here and in MS K of the MV.
+[^972]: MV 19/760 reads śatārdhapratimāṁ for śatārdhākṣamitām, as is found here and in MS K of the MV.
 
-973?\. Read samālambhya for samālabhya.
+[^973]: Read samālambhya for samālabhya.
 
-974?\. SAUH AM SAUH, SAUH ĀM SAUH etc. A phoneme becomes a seed syllable — bīja - when anusvāra (Ñ) is added to it. It appears from the context that this is meant here.
+[^974]: SAUH AM SAUH, SAUH ĀM SAUH etc. A phoneme becomes a seed syllable — bīja - when anusvāra (Ñ) is added to it. It appears from the context that this is meant here.
 
-975?\. MV 17/75-78. This makes AKṢ. Thus, the word for ‘rosary’ is akṣamālā the ‘garland of Akṣa’, which also means the garland of all the letters from A to KṢ. Note that in this way there are fifty letters (with KṢ as extra on the end of the series of 49) and an extra (SAUH) AKṢA (SAUH) for the central bead, making 51 beads all together.
+[^975]: MV 17/75-78. This makes AKṢ. Thus, the word for ‘rosary’ is akṣamālā the ‘garland of Akṣa’, which also means the garland of all the letters from A to KṢ. Note that in this way there are fifty letters (with KṢ as extra on the end of the series of 49) and an extra (SAUH) AKṢA (SAUH) for the central bead, making 51 beads all together.
 
-976?\. This procedure is for the Mālinī alphabet that ends with PH. Assuming the presence of Parā’s seed syllable as before, the units are SAUH Nr SAUH, SAUH rR SAUH etc.
+[^976]: This procedure is for the Mālinī alphabet that ends with PH. Assuming the presence of Parā’s seed syllable as before, the units are SAUH Nr SAUH, SAUH rR SAUH etc.
 
 
 *[p. 417]* ^pg437
 
-Having then accordingly recollected Śakti one-pointedly as the radiant light of the thread (sūtrābhā), one should place Her in the middle of the AKṢA (on the central bead) in order to complete the rosary (akṣasūtra). Rotating“ (the rosary) like a wheel (repeating the Mantra with each bead), (whatever) he says here is all considered to be (prakalpate) the repetition of mantra that serves (to attain) the accomplishment of mantra (mantrasiddhi). Whatever he sees is, in the same way, an oblation here into the blazing reality (of consciousness). 
+Having then accordingly recollected Śakti one-pointedly as the radiant light of the thread (sūtrābhā), one should place Her in the middle of the AKṢA (on the central bead) in order to complete the rosary (akṣasūtra). Rotating[^977] (the rosary) like a wheel (repeating the Mantra with each bead), (whatever) he says here is all considered to be (prakalpate) the repetition of mantra that serves (to attain) the accomplishment of mantra (mantrasiddhi). Whatever he sees is, in the same way, an oblation here into the blazing reality (of consciousness).’[^978] 
 
 Even though the defining characteristics of the sacrificial jar have been stated, now, in order to further present its varieties, he explains (the same from) another point of view. 
 
@@ -573,7 +573,7 @@ nārikelam atho bailvaṁ sauvarṇaṁ rājataṁ ca vā ॥ 40 ॥
 tasyāpy eṣa vidhiḥ sarvaḥ pratiṣthādau prakīrtitaḥ |
 tan niṣkamparasaiḥ \[illegible\] kṛtvāsmin pūjayet kramam ॥ 41 || 
 
-Or else, the great sacrificial jar may be made of coconut, bilva,” gold or silver, (bearing in mind that the type) which follows (in this series of options) is superior (to that which precedes). The procedure (to follow) for its consecration etc. also is all as has been explained (before, in the preceding cases). Having filled it with (the sacrificial) fluids meant for those without fear (niṣkamparasa), (the deities of) the liturgy (krama) should be worshipped within it. (40-41) 
+Or else, the great sacrificial jar may be made of coconut, bilva,[^979] gold or silver, (bearing in mind that the type) which follows (in this series of options) is superior (to that which precedes). The procedure (to follow) for its consecration etc. also is all as has been explained (before, in the preceding cases). Having filled it with (the sacrificial) fluids meant for those without fear (niṣkamparasa), (the deities of) the liturgy (krama) should be worshipped within it. (40-41) 
 
 #### Viveka on 27.40–41
 
@@ -581,17 +581,17 @@ The
 
 ‘“(sacrificial) 
 
-fluids meant for those without fear (niṣkamparasa)’ are the (bodily) secretions (offered and consumed by) Kaula adepts and the like,“ such as, for example, the Five Nectars (pañcāmṛta). This is the meaning. 
+fluids meant for those without fear (niṣkamparasa)’ are the (bodily) secretions (offered and consumed by) Kaula adepts and the like,[^980] such as, for example, the Five Nectars (pañcāmṛta).[^981] This is the meaning. 
 
-977?\. MV 9/82a reads bhramayed enāṁ — ‘he should make it rotate’ for TĀv 27/31 bhramayann etad — ‘rotating it’.
+[^977]: MV 9/82a reads bhramayed enāṁ — ‘he should make it rotate’ for TĀv 27/31 bhramayann etad — ‘rotating it’.
 
-978?\. MV 19/75-83. Note that the procedure in the MV, even though Jayaratha quotes it here, does not fully coincide with the one Abhinava presents, which we must, therefore, presume is from some other source.
+[^978]: MV 19/75-83. Note that the procedure in the MV, even though Jayaratha quotes it here, does not fully coincide with the one Abhinava presents, which we must, therefore, presume is from some other source.
 
-979?\. Aegle Marmelos.
+[^979]: Aegle Marmelos.
 
-980?\. Read vīrarasādibhiḥ for vīrasandhibhiḥ. Perhaps vīrasyandibhiḥ (‘that ooze from (the bodies of Kaula adepts’).
+[^980]: Read vīrarasādibhiḥ for vīrasandhibhiḥ. Perhaps vīrasyandibhiḥ (‘that ooze from (the bodies of Kaula adepts’).
 
-981?\. The Five Nectars (pañcāmyta) are common offerings in all kinds of Sanskritic rituals. They are normally milk, coagulated or sour milk, butter, honey and sugar. Or else, they may be the five products of a cow (pañcagavya), namely, cow urine and dung, curd, milk and clarified butter (see SŚP vol. 2, p. 30). In Kaula ritual these five may be replaced or supplemented by Kaula sacrificial substances (kuladravya), normally considered to be very impure, called the Five Jewels. See below, note 29,55.
+[^981]: The Five Nectars (pañcāmyta) are common offerings in all kinds of Sanskritic rituals. They are normally milk, coagulated or sour milk, butter, honey and sugar. Or else, they may be the five products of a cow (pañcagavya), namely, cow urine and dung, curd, milk and clarified butter (see SŚP vol. 2, p. 30). In Kaula ritual these five may be replaced or supplemented by Kaula sacrificial substances (kuladravya), normally considered to be very impure, called the Five Jewels. See below, note 29,55.
 
 
 *[p. 418]* ^pg438
@@ -614,7 +614,7 @@ adhomukhaṁ ca saṁpūjya sthāpayeta vicakṣanaḥ ॥ 43 ॥
 
 (The sacrificial vessel is) ‘worshipped’ with the Vidyā of the sacrificial vessel etc. ‘In the course of worship’ of the Mantras etc. of one’s own choice, (it should be facing the officiant) and ‘it should be just the same’ (at the end of worship), that is, facing (him). 
 
-In order to present other supports (on which to) worship (may) also take place (pūjādhāra) taught in (certain other) particular scriptures, he says\*: 
+In order to present other supports (on which to) worship (may) also take place (pūjādhāra) taught in (certain other) particular scriptures, he says:[^982] 
 
 ### TĀ 27.44–46
 
@@ -623,7 +623,7 @@ Other Supports on which to Worship the Deity
 खद्धं कृपाणिकां यद्रा कर्तरीं मकरं चवा।
 विमल तत्तथा कुर्यच्छीमत्कालीमुखोदितम् ॥ ४४ ॥
 
-982?\. \[illegible\] Sanderson (2007: 375 n. 463): ‘No text of this name has been mentioned elsewhere in the literature known to me, but it is no doubt either the Kālīkula or a text closely related to it. For we have a close parallel in the Kālīkulapañcaśataka (4/71cd-72ab) referring to the worship of the phase of withdrawal.” Sanderson has the following lines in my edition of that text in mind: athavā cchurikār sthāpyā kartarīin vā sudārunām || mahāmakuṭapṛsthe \[k, kh: mahāmukupṛṣthe\] tu pūjyā sarṁārabhairavī | “Or else, Saṁhārabhairavī should be installed on a blade or a very fearsome sword or on the surface of a large mirror and should be worshipped (there). Clearly Sanderson changed his mind from 2001, where he lists the Kālīmukha as a separate text (2001: p. 4n 1)..
+[^982]: \[illegible\] Sanderson (2007: 375 n. 463): ‘No text of this name has been mentioned elsewhere in the literature known to me, but it is no doubt either the Kālīkula or a text closely related to it. For we have a close parallel in the Kālīkulapañcaśataka (4/71cd-72ab) referring to the worship of the phase of withdrawal.” Sanderson has the following lines in my edition of that text in mind: athavā cchurikār sthāpyā kartarīin vā sudārunām || mahāmakuṭapṛsthe \[k, kh: mahāmukupṛṣthe\] tu pūjyā sarṁārabhairavī | “Or else, Saṁhārabhairavī should be installed on a blade or a very fearsome sword or on the surface of a large mirror and should be worshipped (there). Clearly Sanderson changed his mind from 2001, where he lists the Kālīmukha as a separate text (2001: p. 4n 1)..
 
 
 *[p. 419]* ^pg439
@@ -639,24 +639,24 @@ sthandile ‘gnau pate liṅge pātre padme ‘tha mandale ॥ 45 ॥
 mūrtau ghate ‘strasaṅghāte paṭe sūtre ‘tha pūjayet |
 svena svenopacārenṇa saṁkarar varjayed iti ॥ 46 ॥ 
 
-It is said in the venerable Kālīmukha that a sword, a blade, a dagger, or a mirror without blemish may also (serve as the supports on which to worship the deity) in the same way. It is also said in the venerable Bhairavakula, that during the celebration that takes place on Kula feast days (kulaparvan),' one should worship (the deity) with its own appropriate offerings (upacāra) on the sacrificial surface, in the fire, on a cloth, in a \[illegible\] a (sacrificial) vessel, a lotus, a mandala, an icon (mūrti), a jar, on an assemblage of weapons, a jar, or on a thread. One should avoid mixing them up. (44-46) 
+It is said in the venerable Kālīmukha that a sword, a blade, a dagger, or a mirror without blemish may also (serve as the supports on which to worship the deity) in the same way. It is also said in the venerable Bhairavakula, that during the celebration that takes place on Kula feast days (kulaparvan),[^983] one should worship (the deity) with its own appropriate offerings (upacāra) on the sacrificial surface, in the fire, on a cloth, in a \[illegible\] a (sacrificial) vessel, a lotus, a mandala, an icon (mūrti), a jar, on an assemblage of weapons, a jar, or on a thread. One should avoid mixing them up. (44-46) 
 
 #### Viveka on 27.44–46
 
-‘Its own appropriate offerings’ are those that are appropriate to, for example, the condition of a householder. As is said: 
+‘Its own appropriate offerings’ are those that are appropriate to, for example, the condition of a householder.[^984] As is said: 
 
-‘One should worship, in accord with the enjoined procedure, in the house with (sacrificial) substances, and in the cremation ground with (substances) that come from that (place). One should not mix them up.’ 
+‘One should worship, in accord with the enjoined procedure, in the house with (sacrificial) substances, and in the cremation ground with (substances) that come from that (place). One should not mix them up.’[^985] 
 
 ### TĀ 27.47
 
 Surely (one may ask), what is the use of having many supports on which to worship, such as the sacrificial surface and the rest? Taking this doubt into consideration, he presents a classification of their area (of application). यथाप्सु शान्तये मनत्रास्तद्रदसखादिषु ध्रवम् ।
 शतरच्छेदादिकतीरः काम्योऽतः सड्धरोच्ितः ॥ ४७ ॥
 
-983?\. Instead of ‘during the celebration that take place on Kula feast days’, it is possible that kulaparvaprapūjane refers to a section of the Bhairavakula dedicated to this subject.
+[^983]: Instead of ‘during the celebration that take place on Kula feast days’, it is possible that kulaparvaprapūjane refers to a section of the Bhairavakula dedicated to this subject.
 
-984?\. Jayaratha understands svena svenopacārena to mean offerings appropriate to oneself. This is a possible interpretation, however the repetition of the possessive svena suggests the offerings should be appropriate to cach particular object and the deity present in it. This is effectively what Abhinava himself says in the following verse.
+[^984]: Jayaratha understands svena svenopacārena to mean offerings appropriate to oneself. This is a possible interpretation, however the repetition of the possessive svena suggests the offerings should be appropriate to cach particular object and the deity present in it. This is effectively what Abhinava himself says in the following verse.
 
-985?\. This verse may be from the Bhairavakula, as Jayaratha quotes it as part of his commentary on a passage Abhinava quotes from there. However, that is unlikely, as it does not contain any wording of Abhinava’s citation. Indeed, the verse Jayaratha quotes is not really dealing with the same issue.
+[^985]: This verse may be from the Bhairavakula, as Jayaratha quotes it as part of his commentary on a passage Abhinava quotes from there. However, that is unlikely, as it does not contain any wording of Abhinava’s citation. Indeed, the verse Jayaratha quotes is not really dealing with the same issue.
 
 
 *[p. 420]* ^pg440
@@ -711,7 +711,7 @@ ata eva yadā bhūridinan mandalakalpanam |
 tadā dine dine kuryād vibhavais tarpaṇaṁ bahu ॥ 51 ॥ pratiṣthāyāṁ ca sarvatra guruḥ pūrvodita param |
 satattvam anusandhāya saṁnidhiṁ sphutam ācaret || 52 ॥ 
 
-(It is essential) to purify and lustrate (tarpana) (the Liṅgas and icons etc.) installed in this way by oneself lavishly,“ (regularly, ànd) without a break, for as long as they are functional. Thus if, (for example), a mandala that has been fashioned to last for many days, it should be lustrated daily abundantly. When installing (a deity) the teacher should, in all respects, conjoin (himself in) meditation with the supreme reality and its essential nature mentioned previously, and having done so, bring (the deity) into his presence (saṁnidhi) in a clearly evident manner (in the outer icon). (50-52) 
+(It is essential) to purify and lustrate (tarpana) (the Liṅgas and icons etc.) installed in this way by oneself lavishly,[^986] (regularly, ànd) without a break, for as long as they are functional. Thus if, (for example), a mandala that has been fashioned to last for many days, it should be lustrated daily abundantly. When installing (a deity) the teacher should, in all respects, conjoin (himself in) meditation with the supreme reality and its essential nature mentioned previously, and having done so, bring (the deity) into his presence (saṁnidhi) in a clearly evident manner (in the outer icon). (50-52) 
 
 #### Viveka on 27.50–52
 
@@ -719,13 +719,13 @@ satattvam anusandhāya saṁnidhiṁ sphutam ācaret || 52 ॥
 
 Surely, (you said previously): 
 
-“As long as (he has not) attained a state of identification (with the deity, or) until the desired fruit has not arisen, a spiritual son (putraka) and adept (sādhaka) may resort (samāśrayet) to a manifest (outwardly visible iconic form) or (to a mental representation or an aniconic form in which the deity) is not (externally visibly) manifest.”" 
+“As long as (he has not) attained a state of identification (with the deity, or) until the desired fruit has not arisen, a spiritual son (putraka) and adept (sādhaka) may resort (samāśrayet) to a manifest (outwardly visible iconic form) or (to a mental representation or an aniconic form in which the deity) is not (externally visibly) manifest.”[^987] 
 
 According to this teaching, it is said that spiritual sons etc. resort to (the worship of) Liṅgas etc. until the particular intended result is not attained. What should be done after that? With this doubt in mind, he says: 
 
-986?\. The word is vibhavaiḥ. The literal sense is ‘with (all) the monetary means (at one’s disposal)’.
+[^986]: The word is vibhavaiḥ. The literal sense is ‘with (all) the monetary means (at one’s disposal)’.
 
-987?\. \[illegible\] Above, 27/9. The first line is quoted above in TĀv ad 27/10-21ab.
+[^987]: \[illegible\] Above, 27/9. The first line is quoted above in TĀv ad 27/10-21ab.
 
 
 *[p. 422]* ^pg442
@@ -746,21 +746,21 @@ agādhe ‘mbhasi tat kṣepyaṁ kṣamayitvā visṛjya ca ॥ 54 ॥
 ity eṣa svapratiṣthānavidhiḥ Śivanirūpitaḥ |
 parapratiṣthite liṅge bānīye ‘tha svayahbhuvi ॥ 55 ॥ sarvam āsanapakṣe prāù nyasya sahpūjayet kramam | 
 
-When the spiritual sons and the adepts have attained a state of identification (with the deity which is their desired) fruit, that (object of worship) is offered to another (initiate) that differs from those two (kinds). All the procedure (to be observed) in his regard is the same. If one cannot find (anybody who is fit to do this) in all respects, (the outer icon) should be thrown into deep water, after having asked (the deity’s) forgiveness (for any omissions or errors committed in the course of its worship), and (formally) dismissed (it). This is the procedure described by Śiva Himself for one’s own (personal) installation (of the deity).\* (52-55ab) 
+When the spiritual sons and the adepts have attained a state of identification (with the deity which is their desired) fruit, that (object of worship) is offered to another (initiate) that differs from those two (kinds). All the procedure (to be observed) in his regard is the same. If one cannot find (anybody who is fit to do this) in all respects, (the outer icon) should be thrown into deep water, after having asked (the deity’s) forgiveness (for any omissions or errors committed in the course of its worship), and (formally) dismissed (it). This is the procedure described by Śiva Himself for one’s own (personal) installation (of the deity).[^988] (52-55ab) 
 
 ### TĀ 27.55–56
 
-When a Liṅga has (already been) installed by others, whether it be made of precious stones (bāna) or (a natural) self-generated (svayahbhū) one,” one should first of all deposit all (the mantras of the principles, as is done) in the rite of (Śiva’s) Throne, and then worship the liturgy (krama) (within it).” (55ed-56ab) 
+When a Liṅga has (already been) installed by others, whether it be made of precious stones (bāna) or (a natural) self-generated (svayahbhū) one,[^989] one should first of all deposit all (the mantras of the principles, as is done) in the rite of (Śiva’s) Throne,[^990] and then worship the liturgy (krama) (within it).[^991] (55ed-56ab) 
 
 #### Viveka on 27.55–56
 
-988?\. One could also understand the expression svapratiṣthānavidhiḥ.as svapratiṣthāne vidhiḥ meaning that ‘(this is the procedure (described by Śiva Himself) for his own installation.”
+[^988]: One could also understand the expression svapratiṣthānavidhiḥ.as svapratiṣthāne vidhiḥ meaning that ‘(this is the procedure (described by Śiva Himself) for his own installation.”
 
-989?\. These natural stones that are discovered to be liṅgas.
+[^989]: These natural stones that are discovered to be liṅgas.
 
-990?\. Here Abhinava is saying that the characteristic Trika Trident should be projected onto the Liṅga in the manner taught above in 15/297cd ff. Thus, this is quite literally a Trika Liṅga, within which the deities of the Trika are worshipped. See following note.
+[^990]: Here Abhinava is saying that the characteristic Trika Trident should be projected onto the Liṅga in the manner taught above in 15/297cd ff. Thus, this is quite literally a Trika Liṅga, within which the deities of the Trika are worshipped. See following note.
 
-991?\. The term ‘krama’ denotes the configurations of mantras, and hence mantra deities, that are invoked in the course of the systematic (kramika) worship deity of which they are the entourage. Consider the simple basic example of a mandala. Its form, built up from geometric figures and also sometimes icons (such as the Trident), is determined by the configuration of deities and the like around the main deity (alone or with a consort) installed in the centre. In the course of worship, the surrounding deities are invoked and worshipped through their mantras in the location of the mandala allotted to them in the course of the sequence — krama — of the liturgy. The whole procedure is thus called kramapūjā or karmārcana, which means, in both cases, the worship of the Krama’, or through, in, and by means of the Krama. In the same way, the teachers of the tradition are worshipped in the Gurumandala, sacred sites in the Pīṭhamandala and so on in ‘due order’ —yathākramam. This manner of understanding the liturgy and the process of worship (krama) is distinctive of Kaula and proto-Kaula ritual, as is the terminology. Not found in the Kāpālika Brahmayāmala, one of the earliest Bhairava Tantras, the term emerges in the Kālīmata of the Jayadrathayāmala. In the context of the worship of forms of Kālī — the Goddess of Time and redemptive Death — the Krama is the uniquely distinctive manner in which she and her entourage are worshipped. There, the Krama is not set in space, it is set in time. The sequences of creation, preservation, and destruction, and the embracing Fourth, are the ‘locations’ of the divine forms that surround the goddess. In this case, krama is a most appropriate and understandable term. This is no less so when transposed to the worship of other goddesses not specifically associated with Time and Eternity. In this case, the Krama is the Trikakrama, that is, the sequence of mantras and depositions taught above in 15/297cd ff. for the projection and worship of the Trika Trident and its deities. See previous note.
+[^991]: The term ‘krama’ denotes the configurations of mantras, and hence mantra deities, that are invoked in the course of the systematic (kramika) worship deity of which they are the entourage. Consider the simple basic example of a mandala. Its form, built up from geometric figures and also sometimes icons (such as the Trident), is determined by the configuration of deities and the like around the main deity (alone or with a consort) installed in the centre. In the course of worship, the surrounding deities are invoked and worshipped through their mantras in the location of the mandala allotted to them in the course of the sequence — krama — of the liturgy. The whole procedure is thus called kramapūjā or karmārcana, which means, in both cases, the worship of the Krama’, or through, in, and by means of the Krama. In the same way, the teachers of the tradition are worshipped in the Gurumandala, sacred sites in the Pīṭhamandala and so on in ‘due order’ —yathākramam. This manner of understanding the liturgy and the process of worship (krama) is distinctive of Kaula and proto-Kaula ritual, as is the terminology. Not found in the Kāpālika Brahmayāmala, one of the earliest Bhairava Tantras, the term emerges in the Kālīmata of the Jayadrathayāmala. In the context of the worship of forms of Kālī — the Goddess of Time and redemptive Death — the Krama is the uniquely distinctive manner in which she and her entourage are worshipped. There, the Krama is not set in space, it is set in time. The sequences of creation, preservation, and destruction, and the embracing Fourth, are the ‘locations’ of the divine forms that surround the goddess. In this case, krama is a most appropriate and understandable term. This is no less so when transposed to the worship of other goddesses not specifically associated with Time and Eternity. In this case, the Krama is the Trikakrama, that is, the sequence of mantras and depositions taught above in 15/297cd ff. for the projection and worship of the Trika Trident and its deities. See previous note.
 
 
 *[p. 423]* ^pg443
@@ -776,15 +776,15 @@ suddhāśuddhādhvajāḥ sarve mantrāḥ sarvaḥ śivāntakaḥ ॥ 56 ॥
 adhvā cehāsane proktas tat sarvatrārcayed idam |
 āvāhanavisṛṣ{ī tu tatra prāgvat samācaret || 57 ॥ 
 
-All Mantras are born from the pure and impure Paths. (Moreover,) it is said that the entire Path ending with Śiva is (present) here in (His) Throne. (Thus,) it should be worshiped (anyway,) everywhere (in all cases). The invocation and dismissal (of the deity) should be done (in the same way) as before.“ (56cd-57) 
+All Mantras[^992] are born from the pure and impure Paths. (Moreover,) it is said that the entire Path ending with Śiva is (present) here in (His) Throne. (Thus,) it should be worshiped (anyway,) everywhere (in all cases). The invocation and dismissal (of the deity) should be done (in the same way) as before.[^993] (56cd-57) 
 
 #### Viveka on 27.56–57
 
 Nor is this established (to be correct) by just reasoning alone. Accordingly, he says: 
 
-992?\. In the light of Jayaratha’s introductory question, one would expect liṅgāḥ, but that would not be correct Sanskrit. We should therefore understand here that Jayaratha equates the mantras with Liṁgas and iconic forms in general. This makes sense, as the Deities are present in their iconic/aniconic representations as mantras.
+[^992]: In the light of Jayaratha’s introductory question, one would expect liṅgāḥ, but that would not be correct Sanskrit. We should therefore understand here that Jayaratha equates the mantras with Liṁgas and iconic forms in general. This makes sense, as the Deities are present in their iconic/aniconic representations as mantras.
 
-993?\. and worship the Trident and its deities, which is the Trika initiate’s basic daily worship (nityā pūjā). It appears that in all the places and things Abhinava has listed where the deity may be worshipped, the Trika initiate can project and worship the Trident into any of them in this same way. The Trika Śaivite worships the Trika Trident with the Trika Goddesses enthroned on it within the Liṅga in this way, and so too in the other places. Outwardly, it appears he is worshipping the Liṅga, whereas in reality he is worshiping the Trika goddesses on the Trident.
+[^993]: and worship the Trident and its deities, which is the Trika initiate’s basic daily worship (nityā pūjā). It appears that in all the places and things Abhinava has listed where the deity may be worshipped, the Trika initiate can project and worship the Trident into any of them in this same way. The Trika Śaivite worships the Trika Trident with the Trika Goddesses enthroned on it within the Liṅga in this way, and so too in the other places. Outwardly, it appears he is worshipping the Liṅga, whereas in reality he is worshiping the Trika goddesses on the Trident.
 
 
 *[p. 424]* ^pg444
@@ -882,7 +882,7 @@ paśūnām upayuktānāṁ nityamūrdhvagatir bhavet |
 
 ūrdhvagatiḥ śuddhavidyādipadasṛṣṭir muktir vā | 
 
-‘O fair-faced lady, the sacrificial animals (are offered) in order to grace them (with liberation). (The Mothers and Yoginīs etc. to whom they are offered) release them’ from sins, and they sever their mass of fetters. The sacrificial animals used (in this way) always have the upward way 
+‘O fair-faced lady, the sacrificial animals (are offered) in order to grace them (with liberation). (The Mothers and Yoginīs etc. to whom they are offered) release them[^995] from sins, and they sever their mass of fetters. The sacrificial animals used (in this way) always have the upward way.’[^996] 
 
 “The upward way’ is the emanation of the plane of Śuddha Vidyā etc. or liberation. 
 
@@ -899,9 +899,9 @@ ekībhāvam anuprāpya na viyuktāḥ kathaṁcana |
 tacchaktau tu vilīnās tā icchārūpeṇa saṁsthitāḥ | 13 ॥
 jñānotkarṣāḥ kriyāvasthā yāgayogāvadhūtikāḥ | 
 
-995?\. Amṛteśatantra MS reads tāḥ for tān.
+[^995]: Amṛteśatantra MS reads tāḥ for tān.
 
-996?\. NT 20/8-9ab is cited in TĀv ad 16/58cd-59ab.
+[^996]: NT 20/8-9ab is cited in TĀv ad 16/58cd-59ab.
 
 
 *[p. 427]* ^pg447
@@ -944,20 +944,20 @@ sarīreṇa pranaṣtena mokṣanaṁ nahi māranam || 20 ॥
 dṛdhaprarudhapāśasya baddhasya puruṣasya yah |
 viyogas tu Śarīreṇna marana tadvidurbudhāḥ ॥ 21 ॥ 
 
-‘By severing the root (of the fettered state) of the sacrificial animal,’ (the yoginīs) destroy (its) three impurities. The body of (the soul) that has been disconnected from the three Impurities does not develop (again in another life). 
+‘By severing the root (of the fettered state) of the sacrificial animal,[^997] (the yoginīs) destroy (its) three impurities. The body of (the soul) that has been disconnected from the three Impurities does not develop (again in another life). 
 
-997?\. NT reads teṣāṁ — ‘their’ for paśor — \*of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amyteśatantra (Nepal Archive MS no 1/285, NGMPP reel no. B25/4).
+[^997]: NT reads teṣāṁ — ‘their’ for paśor — \*of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amyteśatantra (Nepal Archive MS no 1/285, NGMPP reel no. B25/4).
 
 
 *[p. 428]* ^pg448
 
 APPENDIX CHAPTER SIXTEEN 
 
-The conjunction of (the soul) of the sacrificial animal (with the supreme reality) is like an initiation;\* it does not (amount to) killing it. 
+The conjunction of (the soul) of the sacrificial animal (with the supreme reality) is like an initiation;[^998] it does not (amount to) killing it. 
 
 ### Dyczkowski's verse 18-21
 
-(The supreme yoginīs) destroy the fetters of the sacrificial animal by (Śiva’s) essential pervasive nature and by the glorious outpouring (vibhava) of His own power’. It is by that (destruction) that (its) body is destroyed. The liberation that takes place when the body is destroyed (in this way) is not (the same as) killing (an animal).ć The wise know that the killing (of a person) is the disconnection from the body of a person who is bound with fetters that are firm and well developed.” (18-21) 
+(The supreme yoginīs) destroy the fetters of the sacrificial animal by (Śiva’s) essential pervasive nature and by the glorious outpouring (vibhava) of His own power[^999]. It is by that (destruction) that (its) body is destroyed. The liberation that takes place when the body is destroyed (in this way) is not (the same as) killing (an animal).[^1000] The wise know that the killing (of a person) is the disconnection from the body of a person who is bound with fetters that are firm and well developed.’[^1001] (18-21) 
 
 #### Viveka on Dyczkowski's verse 18-21
 
@@ -984,13 +984,13 @@ It is ‘made of Śakti’; that is, it is predominantly the vibrant effulgence 
 
 siddhānār siddhidari jñānaṁ khecaryaḥ paryupāsate ॥ 23 || 
 
-998?\. Here the reading is dīkṣāvad yojanari, NT reads dīpavad. The MS of the Amṛteśatantra reads diīkṣaiva yojane, which confirms the reading here.
+[^998]: Here the reading is dīkṣāvad yojanari, NT reads dīpavad. The MS of the Amṛteśatantra reads diīkṣaiva yojane, which confirms the reading here.
 
-999?\. am following Kṣemarāja, who comments on this line: vyāpakena śivātmanā | svaśaktivibhavena śāktena | yeneti trotanena.
+[^999]: am following Kṣemarāja, who comments on this line: vyāpakena śivātmanā | svaśaktivibhavena śāktena | yeneti trotanena.
 
-1000?\. AT reads mokṣanaṁ na jighāṁsanaṁ ‘liberation is not violent killing’.
+[^1000]: AT reads mokṣanaṁ na jighāṁsanaṁ ‘liberation is not violent killing’.
 
-1001?\. NT 20/18-21 cited in TÂv ad 16/59cd-62.
+[^1001]: NT 20/18-21 cited in TÂv ad 16/59cd-62.
 
 
 *[p. 429]* ^pg449
@@ -1107,7 +1107,7 @@ APPENDIX CHAPTER SIXTEEN
 
 #### Viveka on Dyczkowski's verse 31
 
-The meaning is that, having encompassed the supreme power of the vital breath completely (in all respects) by that, one’s own power, one should sever it by making use of the (mantra of) the Razor.’ 
+The meaning is that, having encompassed the supreme power of the vital breath completely (in all respects) by that, one’s own power, one should sever it by making use of the (mantra of) the Razor.[^1003] 
 
 saktirūpari tato devi sattvam āsthāya yogavit |
 svasattvasattārūpeṇa citsūryatvena tāpayet ॥ 32 ॥
@@ -1135,7 +1135,7 @@ There also by the strength of Yoga:
 
 #### Viveka on Dyczkowski's verse 33cd-35a
 
-1003?\. Concerning the Mantra of the Razor, see TĀ 19/10 ff. and the Appendix A to Chapter Nineteen.
+[^1003]: Concerning the Mantra of the Razor, see TĀ 19/10 ff. and the Appendix A to Chapter Nineteen.
 
 
 *[p. 433]* ^pg453
@@ -1269,7 +1269,7 @@ APPENDIX CHAPTER SIXTEEN
 
 kāni āgamikapāribhāṣikanāmāni, tad yathā \[illegible\] vibhāgajananam māmsam balavivardhanam, kāleyakaṁ kusumam, vasā mandam, śiro vicāraḥ, śastrahato labdhaḥ 
 
-This and more is explained there itself. The strength of the yoga of knowledge is the capacity to extract the Five Nectars” within the victim’s body, by the process of ascent (of the vital force) from the navel, brought about by penetration (āveśa) into its own iconic form, which is Yogīśvarī. The ‘chummakas’ are appellations that serve as code words in the Āgamas.”" For example, (the word) ‘weapon’ means ‘creating division’; ‘meat’ (means) ‘the growth of strength’; ‘curcuma’ (means) ‘flower’; ‘marrow’ (means) ‘brandy’; ‘head’ (means) ‘cogitation’; and ‘struck by a weapon’ (means) ‘obtained’. They are cut up in accord with the method (enjoined for a) slaughtered animal, as are the signs (made on) of the limbs (of the sacrificial animal) that serve as offerings (to the deity) of other practices (ācāra) (such as this one) taught in each particular Dākinītantra. 
+This and more is explained there itself. The strength of the yoga of knowledge is the capacity to extract the Five Nectars[^1004] within the victim’s body, by the process of ascent (of the vital force) from the navel, brought about by penetration (āveśa) into its own iconic form, which is Yogīśvarī. The ‘chummakas’ are appellations that serve as code words in the Āgamas.[^1005] For example, (the word) ‘weapon’ means ‘creating division’; ‘meat’ (means) ‘the growth of strength’; ‘curcuma’ (means) ‘flower’; ‘marrow’ (means) ‘brandy’; ‘head’ (means) ‘cogitation’; and ‘struck by a weapon’ (means) ‘obtained’. They are cut up in accord with the method (enjoined for a) slaughtered animal, as are the signs (made on) of the limbs (of the sacrificial animal) that serve as offerings (to the deity) of other practices (ācāra) (such as this one) taught in each particular Dākinītantra. 
 
 iti, ādinānyeṣāṁ tattaddākinītantroktāīnām ācārāṇnām tair yāny aṁgānām upahārīkriyamāṇānāṁ lakṣanāny aṁkanāni haṭthapaśuyuktyā cchedās taiḥ | tad ittham 
 
@@ -1280,13 +1280,13 @@ jighārisanti yadā devi tadā śreyaḥ samācaret ॥ 40 ॥
 
 trividhād yogād ādyaḥ prakāraḥ paśor mukti dadātīti śrutyaivoktaḥ, dvitīya-trtīyau bhogamokṣau vitarata ity arthalabdhau | āmnāyāntareṣu caitad astīty-āśayena yogeśyā bhakṣitasyāgameṣu mṛtoddhārādidīkṣyatvam ucyate ॥ 40 ॥ 
 
-The first variety of the threefold Yoga bestows liberation on the sacrificial victim. This is declared by the Vedas. The second and third (varieties) bestow worldly benefits and liberation, and so they have attained (their) purpose. This is also present in other traditions. It is with this intention (that) the rescue of the dead and the like is said there to have the status of an initiation by Yogeśī in the Āgamas of (her) devotee (?)"2 
+The first variety of the threefold Yoga bestows liberation on the sacrificial victim. This is declared by the Vedas. The second and third (varieties) bestow worldly benefits and liberation, and so they have attained (their) purpose. This is also present in other traditions. It is with this intention (that) the rescue of the dead and the like is said there to have the status of an initiation by Yogeśī in the Āgamas of (her) devotee (?)[^1006] 
 
-1004?\. The Five Nectars are feces, urine, spit, menstrual blood and semen. As the animal should be a female, I am not sure whether these standard five are meant here or a modified set in which menstrual blood is substituted with something else.
+[^1004]: The Five Nectars are feces, urine, spit, menstrual blood and semen. As the animal should be a female, I am not sure whether these standard five are meant here or a modified set in which menstrual blood is substituted with something else.
 
-1005?\. Chapter fifteen of the Svacchandatantra is dedicated to chummakas, that is, secret code words chummakā tatsamayānupraviṣtasañcityā pāribhāṣikī saṁjñā | SvT ad 15/1.
+[^1005]: Chapter fifteen of the Svacchandatantra is dedicated to chummakas, that is, secret code words chummakā tatsamayānupraviṣtasañcityā pāribhāṣikī saṁjñā | SvT ad 15/1.
 
-1006?\. The printed text reads bhakṣitasyāgameṣu, which literally means “in the Āgamas of one who has been eaten’, which makes no sense. Clearly there is a problem with the edition. I have very tentatively suggested emending to bhaktasyāgame.
+[^1006]: The printed text reads bhakṣitasyāgameṣu, which literally means “in the Āgamas of one who has been eaten’, which makes no sense. Clearly there is a problem with the edition. I have very tentatively suggested emending to bhaktasyāgame.
 
 
 *[p. 437]* ^pg457
@@ -1322,7 +1322,7 @@ visargānandanābhyāṁ ca pañcabhiḥ svasvabhāvavān | MM p. 59). According
 
 ‘The (senses of) hearing, touch, sight, taste and smell are the organs of cognition. The organs of action are speech, the hands, the anus, the genitals and the feet, in due order.’ 
 
-Clearly, there are substantial differences in the serial order. The most vexing is the difference between the serial order in the MV and the TĀ, even if it is only a change in the sequence between the anus and the genitals. As the MYV is the prime authority, for clarity and simplicity, I take the serial order there to be the standard, even if it is in disagreement with Abhinava, who seems for some reason to have preferred the Mṛgendra. The order followed here is the one in which Kṣemarāja lists the Tattvas in the Parāpraveśikā.' 
+Clearly, there are substantial differences in the serial order. The most vexing is the difference between the serial order in the MV and the TĀ, even if it is only a change in the sequence between the anus and the genitals. As the MYV is the prime authority, for clarity and simplicity, I take the serial order there to be the standard, even if it is in disagreement with Abhinava, who seems for some reason to have preferred the Mṛgendra. The order followed here is the one in which Kṣemarāja lists the Tattvas in the Parāpraveśikā.[^1007] 
 
 As a model for all the rest, Abhinava presents the Mantra of Earth, the first Tattva, in a simple code in TĀ 17/1 1cd-12. This is: NAMAH KṢAM /
 PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. In the ‘comprehensive mantra’, the single names ‘Earth’ etc. are substituted by the generic expression sarvatattva — ‘all the principles’. The Deposition of the Tattvas Earth 1. NAMAH KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH 
@@ -1347,7 +1347,7 @@ Space 5. NAMAH ŚAM / AIM ĀKĀŚA TVĀM ĀVĀHAYĀMI NAMAH
 
 TUBHYAM ĀKĀŚĀYA NAMAH / SVĀHĀ. 
 
-1007?\. The Tattvas are listed in Parāpraveśikā p. 6. This is the serial order according to Swami Lakshmanjoo, namely, genitals, anus, feet, hand, speech. Bäumer (2011: 187-188) and Singh (1998: 129-130) also follow the same order of the Tattvas, except for the five Kañcukas, that they present in the reverse with respect to that of the Tantrāloka and Mālinīvijayottara.
+[^1007]: The Tattvas are listed in Parāpraveśikā p. 6. This is the serial order according to Swami Lakshmanjoo, namely, genitals, anus, feet, hand, speech. Bäumer (2011: 187-188) and Singh (1998: 129-130) also follow the same order of the Tattvas, except for the five Kañcukas, that they present in the reverse with respect to that of the Tantrāloka and Mālinīvijayottara.
 
 
 *[p. 439]* ^pg459

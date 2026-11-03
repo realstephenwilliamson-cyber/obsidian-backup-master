@@ -29,6 +29,7 @@ that):
 195\. For this extraction the letter grid in Chapter 1 footnote
 
 320 may be used.
+
 [^196]: Note that the expressions "at the beginning, at the end" ete.  are rather arbitrary and sometimes have to be loosely interpreted. The Sākta arrows referred to in the main verse are thus DRAM DRIM KLIM VLUM and SAH.
 
 [^197]: Presumably it is minus the three HRIMs.
@@ -72,6 +73,7 @@ vidyā etc..
 (What was formerly stated by me in the Rurubheda, Oh Goddess, referred to the middle one. The bīja according to the prastāra variant was extracted by me earlier on.)[^204] + Following this method (the arrows) become fruitful; without the bījas and bereft of their traditional usage they do not attain their goal.
 
 In pūjā (the śāktas} are said to be with the bījas - not without."
+
 [^201]: It has been suggested that the grammatical construction of this line in Sanskrit be amended to read: "sanam devavarṇānām kakārādi sthitam bhavet." But in any case, the meaning appears to be that the letter "L" as part of a conjunct of letters can be written underneath the first letter in Sanskrit and, figuratively speaking, serves as a "seat" for that letter which is above: \$, H> g The verse says that the letters "k" ete. represent deities and "1" looks like the lotus seat that is a regular feature of Indian tconography.
 
 [^202]: The question mark placed against this line by the editor of the text suggests that something ts wrong with it. However, it appears to mean that excluding "the third one" (i.e. DE), Trimurti (i.e. "I") applies to and serves to "pterce" (Lancelike) the other three syllables KLA, MLA and VLA, thus making KLĪ, MLĪ and VLĪ.
@@ -269,6 +271,7 @@ TRAILOKYAMOHINĪ.
 MAHĀTRIPURASUNDARĪ BECAME THE HANDSOME CYNOSURE OF
 
 ALL (WOMEN)[^226] .?226
+
 [^225]: An epithet of Viṣnu - referring to the churning of the ocean when He took on the form of a woman in order to delude the asuras into pursuing Him instead of the nectar.
 
 [^223]: Chapter 3 only discusses the actual making of the mudrās.
@@ -394,6 +397,7 @@ SUPREME LADY:, HE OBTAINS UNLIMITED FRUIT.
 "The middle alone" means the one in the form of the root triangle. As the most important proceeding in pūjā is therein with the eighth and ninth cakras, the sense (of the verses) is: "What is the use of other inessential worship given that effort concentrated on the essential shares in the fruit?"[^4] By "involved in the outside and the middle" is meant the three-angled one that iś in the middle, in conjunction with the seventh cakra abode that is on the "outside" with its supervising entities that are the inner limb attendants having the nature of the eight deities VaSinī and the rest. Meaning therefore, that one should worship the three-spoked one together with the eight-spoked one. By "before it" is meant in front of the venerated cakra distinguished into three parts.[^5] "If" is meant in a causal sense. The use of the word "even" indicates that a lesser number is also admissable. Consequently, as one may perform repetition of the mantra a hundred and more, or a thousand times, it means that one may obtain "unlimited fruit". It is very clearly demonstrated here that "japa" is the main part. Vain are the babblings of others: Enough conjecture about the poor notions of those who consider themselves knowledgeable:[^6]
 
 End of commentary on Verse 5.
+
 [^4]: Jayaratha is pointing out that the main verses concentrate on the eighth cakra because it involves the most important part of the pūjāī ceremony. By worshipping it (and the ninth cakra) alone, the fruits of performing japa to all of the nine cakras may be obtained. So there is little need to take the ceremony to its fullest extent.
 
 [^5]: For the sake of performing japa the nine cakras kave been abridged to the bindu cakra (the ninth); the root triangle (the eighth) and the etght-spoked cakra (the seventh).
@@ -512,6 +516,7 @@ AND AS THE RESULT OF FIVE HUNDRED THOUSAND REPETITIONS,
 KE IS RID OF POVERTY AND BECOMES THE GOD OF WEALTH[^16]
 
 BEFORE ONE'S VERY EYES.
+
 [^16]: "Vaiśravaya" is an epithet of the god of wealth - Kubera.
 
 [^14]: The deities of these important three cakras can be worshipped all together in the ninth Tor "first - depending on how you look at tit) cakra.
@@ -658,6 +663,7 @@ and giving of a name, with the limb vidyās[^33] (and) individual oblations; by 
 22\. THEN THE VIDYA BECOMES THE DESTROYER OF THE HOST OF
 
 GRAVE OBSTACLES,
+
 [^33]: Are these the mantras belong to the individual cakras as given in Chapter I?
 [^37]: This may be the inner triangle (or seventh, eighth and ninth cakras?) plus the fifteen syllable vidyā.
 [^39]: The Sanskrit literally reads: "in similar and dissimilar tantras," which may mean that tantras of all kinds give the same basic method for pūjā.
@@ -748,6 +754,7 @@ FORTUNATE KANDARPA.[^47] .
 VERILY! ONE OBTAINS RENOWN UPON OFFERING CAMPAKA AND
 
 TRUMPET FLOWER (BLOSSOMS).[^48]“
+
 [^45]: The Mallikā flower is Jasminum zambac; the Mālatī is Jasminum grandiflorum and JātT is the Nutmeg tree.
 [^47]: Epithet of Kāma.
 
@@ -785,6 +792,7 @@ The proper order (of actions) is: "having gone to a crossroads at night"; having
 interpretations.
 
 So, Great Lady; This is the sixfold type of exposition of the supreme Lord which is obtained in al\] tantras through an uninterrupted line of succession."[^52] (Yo. Hr. 2:15)
+
 [^49]: On the authority of H.N. Chakravarti, the "pura" is the calyx of a flower. Perhaps also, "a leaf rolled into the shape of a funnel" as given in Monter-Williams.
 
 [^50]: Literally: "having performed" ;, Skt.: "kyptvā".
@@ -821,6 +829,7 @@ And,
 "It is one's very Self that is the one great Lord of all creatures, It is the essence of all things fostered by constant reflection on 'This I am'."
 
 According to the view stated by the former venerable guru, such is the nature of the Self in all life forms,[^63] - even in those that have perceptive natures with limited selves. When thought upon even casually by way of a mere understanding of one's essence as the paragon of lightë[^64] consisting of the reflection of the supreme "I",
+
 [^57]: "Prameyatām" in Sanskrit.
 [^58]: "Pramātṛ" in Sanskrit. See the section on the "Introduetion to the Philosophy of the Texts".
 
@@ -829,6 +838,7 @@ According to the view stated by the former venerable guru, such is the nature of
 60\. I.e., the pure undivided Self differentiates into separate
 
 centres of conseiousness. The experience of duality ts preserved in the illusion of an individual separate Self and other individual separate Selves.
+
 [^61]: "Nigarbha" has the connotation of "in the womb" or "embryonic".
 
 862\. "Dp" - literally "seeing".
@@ -920,9 +930,11 @@ Oh Goddess! The explicit interpretation and the traditional interpretation, alon
 are observed in the Tantra that possesses the ocean of knowledge,[^78] Oh Pārvatī!"
 
 And so on. "(For the various interpretations), there is a definite place in the different texts in relation[^79] to what is predominant." Enough of this rashness in revealing what is (already) revealed! Thus, reference to these (six interpretations) is as far as possible to be inferred in the various texts oneself.[^80] Moreover, for those who are of traditional inclinations, the explicit, traditional and esoteric interpretations are revealed by others according to the maxim of "representing burnt fried grains with the (addition) of salt".[^81] Of these (interpretations), the ancients and many of our contemporaries have made extensive efforts in the explicit meanings. This is elucidated (by them} in small part with only a mere hint of the other acceptable methods. Having promised explanations as appropriate, they maintain however, that the kula, the secret and the (great) principle interpretations are propounded by the Lord because "they are closely connected with the Self-awareness stemming from divine union; because they produce immediate conviction and because they bring about the disapperance of discursive thought"![^82] On this slender thread they have commented on words with words, maintaining that "(these interpretations) are to be revealed in secret by the great masters through the oral traditions of some ancients"! (So), on this subject, who ventures into the difficulties of putting into writing? Only superficial statements without basis have been madẹ in various in-between (places in the commentaries):
+
 [^78]: The "Ocean of Supreme Knowledge" is perhaps the name of the Tantra from which this quote is taken. It may refer to the Jnānārnava Tantra, but tit is unlikely.
 
 \`
+
 [^79]: Literally: "intention"; Skt.: "abhiprāyena".
 [^80]: Jayaratha does not agree with the above quotes that the  interpretations are to be allocated to speeifte types of texts. On the contrary, Jayaratha seems to believe that one and the same text may yield to various interpretations depending on the aim or state of realization that the sãdhaka is pursuing, or has reached.
 [^81]: I.e., only a Little more information has been added to a  subject that has already been thoroughly diseussed/cooked.

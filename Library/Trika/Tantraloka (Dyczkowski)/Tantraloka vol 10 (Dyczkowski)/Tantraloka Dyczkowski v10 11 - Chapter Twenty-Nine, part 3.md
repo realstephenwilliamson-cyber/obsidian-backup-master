@@ -30,11 +30,11 @@ Bliss is the supreme Brahman, and that is present in the body in three forms. Th
 
 #### Viveka on 29.97–98
 
-‘Bliss is the nature of the Brahman’. By saying it is ‘supreme’, he teaches that it is necessary to make use of it. ‘And that’ is not only present within the Self, undivided from the Supreme Brahman and the rest; it is also present in the external body etc. that is not the Self. Thus, he says that (it is present) ʻin the body’. ‘There’, amongst the three, ‘two’, that is, wine and meat, (are aids,) and ‘the other one’, that is, sexual union (is the fruit). When one whose vital seed (dhātu) has been increased by drinking wine and eating of meat enjoys sex, he becomes blissful. Thus, it is said that (the two) are aids and (the other) is the fruit. Thus, it is said that it ʻis of that (blissful) nature’, because it is what remains of all of them. The word ‘that’ here refers to bliss. 
+‘Bliss is the nature of the Brahman’.[^232] By saying it is ‘supreme’, he teaches that it is necessary to make use of it. ‘And that’ is not only present within the Self, undivided from the Supreme Brahman and the rest; it is also present in the external body etc. that is not the Self. Thus, he says that (it is present) ʻin the body’. ‘There’, amongst the three, ‘two’, that is, wine and meat, (are aids,) and ‘the other one’, that is, sexual union (is the fruit). When one whose vital seed (dhātu) has been increased by drinking wine and eating of meat enjoys sex, he becomes blissful. Thus, it is said that (the two) are aids and (the other) is the fruit. Thus, it is said that it ʻis of that (blissful) nature’, because it is what remains of all of them. The word ‘that’ here refers to bliss. 
 
 As they are made of the Brahman in this way, he who is their votary is said to be a Brahmacārin (lit. ‘a follower of the Brahman’). Thus he says: 
 
-232\. Jayaratha quotes this line as many as seven times in TĀv 1/242, ad 3/71 (71cd-72ab), 3/92cd- 93ab, 4/139, ad 28/332ab, ad 29/97cd-98ab, and ad 29/127cd-128ab.
+[^232]: Jayaratha quotes this line as many as seven times in TĀv 1/242, ad 3/71 (71cd-72ab), 3/92cd- 93ab, 4/139, ad 28/332ab, ad 29/97cd-98ab, and ad 29/127cd-128ab.
 
 
 *[p. 287]* ^pg304
@@ -58,9 +58,7 @@ Surely (one may ask), (according to Manusmṛti):
 
 *[p. 289]* ^pg306
 
-‘There is nothing wrong in eating meat, nor in (drinking) wine or having sex. This is the natural behaviour of living beings. (But) desisting from that bears great fruit.” 
-
-? 
+‘There is nothing wrong in eating meat, nor in (drinking) wine or having sex. This is the natural behaviour of living beings. (But) desisting from that bears great fruit.”[^234] 
 
 (Clearly,) according to this teaching, the purpose of scripture is to (inspire people) to desist from (eating) meat etc., not to indulge in it, as that happens (anyway by itself) naturally. The scripture is not invoked anywhere to induce a dirty man to bathe or a hungry man to eat or the like. So why has that he said that? With this doubt in mind, he says: 
 
@@ -73,21 +71,21 @@ tadvarjitā ye paśava ānandaparivarjitāḥ |
 ānandakṛtrimāhārās tadvarjaṁ cakrayājakāḥ ॥ 99 ॥
 dvaye ‘pi niraye yānti raurave bhīṣane tv iti | 
 
-Those are fettered souls (paśu) who, (abstaining from them out of avarice or doubt,) are devoid of them (even when worshipping, and so) are devoid of bliss. (Fettered also are) those who sacrifice to the Wheel without that, consuming deceitfully the bliss (of the three on other occasions). Both go to a horrible and frightening hell. (99-100ab) 
+Those are fettered souls (paśu) who, (abstaining from them out of avarice or doubt,) are devoid of them (even when worshipping, and so) are devoid of bliss. (Fettered also are) those who sacrifice to the Wheel without that, consuming deceitfully the bliss (of the three on other occasions).[^235] Both go to a horrible and frightening hell. (99-100ab) 
 
 #### Viveka on 29.99–100
 
 Here (according to us), those who, although they are engaged in the Kula manner (of ritual performance) and it is enjoined there, do not offer (this) in the course of the Sacrifice to the Wheel and the like, either for their own (benefit) or for (that of) others, out of avarice or doubt (vicikitsā), are indeed fettered souls (pasu). (This is) because they are devoid of the bliss which is the supreme Brahman and is born from it. The meaning is that they are gripped by a false identification with the body etc. It is said (in the Mādhavakula): 
 
-‘Those who adhere to the Kula traditions but have rejected (the use of) these substances, are said to be fettered souls (pasu), and one should not keep their company.” 
+‘Those who adhere to the Kula traditions but have rejected (the use of) these substances, are said to be fettered souls (pasu), and one should not keep their company.”[^236] 
 
 Those also who by themselves (on their own initiative) out of greed enjoy the three M’s made of bliss, but because of (their) avarice and the like worship the Wheel without this (triad), are also said to be fettered souls. This is the connection with the previous (verse). That has been said (in the scripture, where we read): 
 
-234\. Manu 51/56.
+[^234]: Manu 51/56.
 
-235\. These false Kaulas eat meat, drink wine and have sex, but do not offer them to the deity.
+[^235]: These false Kaulas eat meat, drink wine and have sex, but do not offer them to the deity.
 
-236\. JY 4/21/60 (no variants). MS K fl. 148b, Kh fl. 129c-130a, G fl. 186a) MS Kh 129r8-130v1 (Sanderson mistakenly reports that this is from ṣaka 3 (2006 p. 17 n. 44).
+[^236]: JY 4/21/60 (no variants). MS K fl. 148b, Kh fl. 129c-130a, G fl. 186a) MS Kh 129r8-130v1 (Sanderson mistakenly reports that this is from ṣaka 3 (2006 p. 17 n. 44).
 
 
 *[p. 290]* ^pg307
@@ -98,28 +96,28 @@ In this way ‘both go to a horrible and frightening hell’, where they experie
 
 ‘What is called bliss is (in reality) present (only) within the Brahman, and so, as it is acquired by resting (within the Brahman), one who is free of greed for the objects of sense should consume (i.e. eat) everything. 
 
-The bliss that extends (itself) by lust, delusion and the objects of sense, that are fixed in a state of separation (from the one who desires them),?” has the same basis (sādhāra) as the (pleasure) the fettered also (experience) here (in this world). 
+The bliss that extends (itself) by lust, delusion and the objects of sense, that are fixed in a state of separation (from the one who desires them),[^237] has the same basis (sādhāra) as the (pleasure) the fettered also (experience) here (in this world). 
 
-(But) that object of sense (viṣaya) that reveals (vyañjaka) consciousness when one is intent on the Self, which is (pure) consciousness alone, and manifests as a fitting (means to realisation) and always as one within the essential nature of the enjoyer, is said to be an object of sense that, (although) divided (off from all other objects), has reached a state of oneness. ”? 
+(But) that object of sense (viṣaya) that reveals (vyañjaka) consciousness when one is intent on the Self, which is (pure) consciousness alone, and manifests as a fitting (means to realisation) and always as one within the essential nature of the enjoyer, is said to be an object of sense that, (although) divided (off from all other objects), has reached a state of oneness. ”[^238] 
 
 Again: 
 
-‘The cognition of an object is enjoyed, even though it is not separate from (the perceiver,) by those who have not fallen from their own innate nature. These are the ones who observe the Hero's Vow~” and are established in the Great Process (mahākrama). One who is intent on the object (of his meditation) and immersed in the repetition of mantra, abiding by the rules of discipline, his mind tranquil by the practice of Brahmacaryā is, even when engaged in (sexual) union, a great sage, and his body is perfectly calm. He is engaged (abhiyukta) on the Great Path,” and accepts the rules and norms prescribed by the ethic of the Atimārga (of the Kaulas);”' a great awakened soul who is consciousness (itself), he is always established in himself. He is free of the imagination (bhāvanā) of the fettered, and comes in contact with the objects of sense in order to realise his own nature and not out of craving (laulyabhāvanā). He is careful in his own nature even in the midst of worldly life. Even when (he practices) the conduct of the left (vāmācāra), he never falls (from his observance and spiritual awareness). The nature of the Brahman is said to be the dawning of the consciousness of bliss, which takes place all of a sudden when 
+‘The cognition of an object is enjoyed, even though it is not separate from (the perceiver,) by those who have not fallen from their own innate nature. These are the ones who observe the Hero's Vow[^239] and are established in the Great Process (mahākrama). One who is intent on the object (of his meditation) and immersed in the repetition of mantra, abiding by the rules of discipline, his mind tranquil by the practice of Brahmacaryā is, even when engaged in (sexual) union, a great sage, and his body is perfectly calm. He is engaged (abhiyukta) on the Great Path,[^240] and accepts the rules and norms prescribed by the ethic of the Atimārga (of the Kaulas);[^241] a great awakened soul who is consciousness (itself), he is always established in himself. He is free of the imagination (bhāvanā) of the fettered, and comes in contact with the objects of sense in order to realise his own nature and not out of craving (laulyabhāvanā). He is careful in his own nature even in the midst of worldly life. Even when (he practices) the conduct of the left (vāmācāra), he never falls (from his observance and spiritual awareness). The nature of the Brahman is said to be the dawning of the consciousness of bliss, which takes place all of a sudden when 
 
-237\. Le, he sees them just as things out there that he wants to grab, out of desire or delusion.
+[^237]: Le, he sees them just as things out there that he wants to grab, out of desire or delusion.
 
-238\. Aesthetic savour removes the distance of the object from the subject. He tastes it as the flavour of his own cognition, rather than as something out there which he wants.
+[^238]: Aesthetic savour removes the distance of the object from the subject. He tastes it as the flavour of his own cognition, rather than as something out there which he wants.
 
-239\. They experience the illumination of consciousness through the senses, rather than its opposite.
+[^239]: They experience the illumination of consciousness through the senses, rather than its opposite.
 
-240\. Mahāmārga - the Great Path — is Krama, the Mahānaya.
+[^240]: Mahāmārga - the Great Path — is Krama, the Mahānaya.
 
-241\. The Atimārga — the Higher Path — normally designates the path of the Pāśupatas, but that seems to be an inappropriate way of understanding this term here, given the context.
+[^241]: The Atimārga — the Higher Path — normally designates the path of the Pāśupatas, but that seems to be an inappropriate way of understanding this term here, given the context.
 
 
 *[p. 291]* ^pg308
 
-the seminal fluid is ejaculated because, for a moment, all the activities of the mind are brought to a halt” by his own?self-awareness.” 
+the seminal fluid is ejaculated because, for a moment, all the activities of the mind are brought to a halt[^242] by his own[^243]self-awareness.” 
 
 Surely (one may ask), it is easy to make use of wine and meat here (in this world). So that is fine. However, the other is hard to do even for an immortal, what to say of mortals afflicted with misfortune. Therefore (it is said in the) venerable Tantrarājabhattāraka. 
 
@@ -129,33 +127,33 @@ Her eyes like those of a frightened doe, her laugh is charming, her fine braid (
 
 Her eyes move gracefully, her eyebrows knit like the bow of the god of love. She is the colour of the form of flowing (molten) gold, (her skin) free of wrinkles. She is a hundred times most beautiful with the wonderful beauty of the ornaments (that adorn) her ears. She is adorned with the best of adornments for her neck, that is beautiful like a conch. 
 
-She bends forward with the weight of (her) unrestrained breasts, beautiful like the temples of an elephant. She is adorned with Kandali flowers on her finely formed and well-rounded arms. She looks radiant, with the fingers of her hands like the five hoods (of a beautiful snake). Her finger is adorned (with a ring) that (shines) with the waves of the variegated rays of a glittering jewel. Her face, the very beauty of the full moon, steals away the mind. Her lovely waist, (slim as an) an ant, resembles a rainbow or that of a noble lion. The languid movement of her loins reveals a triple row of folds (around her navel). Her lovely thighs are like a plantain tree, and her beautiful shanks like the trunk of an elephant. She is most beautiful, with feet and ankles like Cupid’s chariot wheel. She is adorned with a string of beautiful pearls and gold ornaments that hang (from her neck). She makes a tinkling sound with her trembling anklets and jingling girdle. She makes a deep (faint) hum with the tinkle of her anklets and jingle?" of her girdle. He gait is like that of the lord of elephants in rut; her navel is deep. She says auspicious things and her voice is beautiful like the stammering cries of a goose. She is adorned with a garland of fragrant flowers on the thread of her armlet. She is eager for the most excellent betelnuts of the chaplets tied to the heads of a great cobra with five hoods. She dances, she sings, she makes cries of pleasure (si), ), she plays millions of games.” She is untroubled (nistaraṅgā) and retains her composure (savarnā), her mind devoted to the goddess alone. Greed and folly have disappeared from her mind, sanctified by (the inner) moon (of consciousness). (She is filled with the supreme bliss of the savour of the nectar of supreme consciousness, and is fully satisfied with wine, spiritous liquor and good meat.) Her sole nature is the 
+She bends forward with the weight of (her) unrestrained breasts, beautiful like the temples of an elephant. She is adorned with Kandali flowers on her finely formed and well-rounded arms. She looks radiant, with the fingers of her hands like the five hoods (of a beautiful snake). Her finger is adorned (with a ring) that (shines) with the waves of the variegated rays of a glittering jewel. Her face, the very beauty of the full moon, steals away the mind. Her lovely waist, (slim as an) an ant, resembles a rainbow or that of a noble lion. The languid movement of her loins reveals a triple row of folds (around her navel). Her lovely thighs are like a plantain tree, and her beautiful shanks like the trunk of an elephant. She is most beautiful, with feet and ankles like Cupid’s chariot wheel. She is adorned with a string of beautiful pearls and gold ornaments that hang (from her neck). She makes a tinkling sound with her trembling anklets and jingling girdle. She makes a deep (faint) hum with the tinkle of her anklets and jingle[^244] of her girdle. He gait is like that of the lord of elephants in rut; her navel is deep. She says auspicious things and her voice is beautiful like the stammering cries of a goose. She is adorned with a garland of fragrant flowers on the thread of her armlet. She is eager for the most excellent betelnuts of the chaplets tied to the heads of a great cobra with five hoods. She dances, she sings, she makes cries of pleasure (si), ), she plays millions of games.[^245] She is untroubled (nistaraṅgā) and retains her composure (savarnā), her mind devoted to the goddess alone. Greed and folly have disappeared from her mind, sanctified by (the inner) moon (of consciousness). (She is filled with the supreme bliss of the savour of the nectar of supreme consciousness, and is fully satisfied with wine, spiritous liquor and good meat.)[^246] Her sole nature is the 
 
-242\. Read pratyastamayāc cetaso for pratyastamanāś cetaso.
+[^242]: Read pratyastamayāc cetaso for pratyastamanāś cetaso.
 
-243\. Read svasaṁvittyā for svasaṁvṛttyā.
+[^243]: Read svasaṁvittyā for svasaṁvṛttyā.
 
-244\. Read with MS Th —ranatkāra- for -bhanatkāra-.
+[^244]: Read with MS Th —ranatkāra- for -bhanatkāra-.
 
-245\. Read with MSs K and G of the JY —kotisatāvṛtām for -kuṭtmitāvrtām.
+[^245]: Read with MSs K and G of the JY —kotisatāvṛtām for -kuṭtmitāvrtām.
 
-246\. This is an extra verse found in the source (i.e. the JY, see following note). It reads: parabodhāmṛtāsvādaparamānandapūrnitām | madirāsava sanmāiisa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 I|
+[^246]: This is an extra verse found in the source (i.e. the JY, see following note). It reads: parabodhāmṛtāsvādaparamānandapūrnitām | madirāsava sanmāiisa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 I|
 
 
 *[p. 292]* ^pg309
 
-relish of nothing but Bhairava’s unique aesthetic rapture (camatkāra).”” She is the infatuating Dūti, the Tantric consort (mudrā)\* in this universe of moving and unmoving things.” 
+relish of nothing but Bhairava’s unique aesthetic rapture (camatkāra).[^247] She is the infatuating Dūti, the Tantric consort (mudrā)[^248] in this universe of moving and unmoving things.”[^249] 
 
-247\. This passage is drawn from the 56" chapter of the fourth ṣaṭka of the JY, otherwise known to Abhinava as the Mādhavakula. It is called: ādyayāgavidhiḥ kramārthapūjāpatalaḥ | Here is the only surviving scriptural source of Ādiyāga, that Abhinava promotes as the most elevated of all rites. In the following chapter, Vīramelāpa is described for the congregation of initiates. See the appendix for editions of these chapters and translations. See above, 28/60cd ff. concerning cakracaryā.
+[^247]: This passage is drawn from the 56" chapter of the fourth ṣaṭka of the JY, otherwise known to Abhinava as the Mādhavakula. It is called: ādyayāgavidhiḥ kramārthapūjāpatalaḥ | Here is the only surviving scriptural source of Ādiyāga, that Abhinava promotes as the most elevated of all rites. In the following chapter, Vīramelāpa is described for the congregation of initiates. See the appendix for editions of these chapters and translations. See above, 28/60cd ff. concerning cakracaryā.
 
-248\. The Tantric consort is commonly called mudrā in the equivalent Buddhist Tantras. In the Śaiva Tantras this appellation is rare.
+[^248]: The Tantric consort is commonly called mudrā in the equivalent Buddhist Tantras. In the Śaiva Tantras this appellation is rare.
 
-249\. Quoted from JY 4/56/48-63ab (MS K fl. 216a-216b, Kh fl. 204a-204b G fl. 292a-292b). In the manuscripts it reads as follows. The variant reading in the Tantrāloka are labelled TĀ: tatas tatrānayed dūtīṁ madaghūrnitalocanām | bimboṣthīṁ \[kh g: -ṣthī\] cārudaśanār sabhrūbhaṁgānanāṁi śubhām ॥ 48 ॥ trastabālamṛgābhāsanayanāīi cāruhāsinīm | sphuradbhramarasaṁghātanibhasatkeśapāśikām ॥ 49 ॥ kāmakārmukasaikāíah bhabhaṁge \[TĀ: -saṁkāśabhrūbhaṁga-} taralekṣanām \[kh: taranakṣanām\] | dravaccāmīkarāvarṇā \[kh g: -gīkarā-\] savannā \[TA: dravaccāmīkarākārasavarṇāri) nistaraṁgiṇīm ॥ 50 ॥ karnābharaṇasaccitraśobhāśatasuśobhanam \[kh: -śuśobhanām; g: -nām\] | satkanṭhanibha \[TĀ: satkambunibha-\] satkanṭhavara \* + \* bhūṣitīm \[kh g: -bhūḷinam\] \[TĀ: - bhūṣanṇabhūṣitām) ॥ 51 ॥ gajakumbhanibhoddāmastanabhārāvanāmitām | suvṛttopaci lākāra vāhukadali \[TĀ —-kandali-\] manditām ॥ 52 ॥ —satyaṁ ca phenasahkāśa \[kh g: phanasahkāśa\] \[TĀ: 1) karaśākhāvirājitām | 204b kh) sphuradratnaśikhā citra ūrmikāṁgulibhūṣitām kh g: -ürmikai-\] \[TĀ: ~ citrakormikā-\] ॥ 531 pūrṇenduvaralāvaṇyār \[kh g: -vanyari\] vadanāṁ cittahārinīm | harihetimahāsiṁha pipāla varamadhyagām \[TĀ: -pipīlavara-) ॥ 54 ॥ 292b g) trivaliśrenisadviṁva jaghanālasagāminīm \[kh g: -nām\] | rambhā karikarākāravaroruvarajahghikām \[kh: -jamgvikām\] \\\\ 55 ॥ satkāmaravacakrābhagulphapādasuśobhanām \[ pralaṁvahemābharanahārāvali \[kh g: raraṇahāi sphuranmañjīra sahkārarasanāmukharasvarām \[TĀ: -mañjīrajhāṁkāraraśanā-\] \\ pārihāryajhanatkāravalayadhvānamantharām \[TĀ: -bhaṇatkāra-) (>kvanatkāra-) ॥ 57 ॥ mattanāgendrasaṁkāśagamāṁ \[kh: -śaṁ-\] \[TĀ: -gatiń) gambhīranābhikām | (216b) hamsagadgadavāgvahnśasadṛśāṁ śubhabhāṣinīm ॥ 58 ॥ keyürasūtrikāsārapuṣpasragdāmabhūṣitām \[TĀ: -sūtrikāmodi- | mahāpañcaphaṇāpīdatāīmbūlavaralālasām ॥ 59 ॥ \[kh: nāsti\] nṛtyagīta \[g: nṛttagīta\] sītkāra līlākoṭiśatāvṛtām \[TĀ: -līlākuṭṭamitā-) । \[kh: nāsti) nistaṁgām sarvavarṇāṁ devyekārpitamānasām Íg: devyai-\] \\| 60 ॥ \[kh: nāsti\] lobhamohaparikṣīnacetasām \[kh: mahāmoha-\] \[TĀ -saṁ) indubhāvitām | bhairavaikacamatkāracarvanaikasvarūpinīm ॥ 61 ॥ parabodhāmṛtāsvādaparamānandapūrṇitām | madirāsava sanmāṁsa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 || extra sā dūtir mohanīmudrā jagatyasmin carācare | The citation ends here. The JY continues: rūpenāharate cānyā sparśenānyā \[g: nanyam\] \] prabhāṣanṇāt ॥ 63 ॥ anyam sa \[kh g: +lāsari\] cārena (> anyā sālāsacārena) līlāceṣṭādike pare | 293a g) vilolālokane cānye cumbanenāpare priye || 64 || gādhāliṁganakenānyān āharet sa (> sā) mahāvalā |
+[^249]: Quoted from JY 4/56/48-63ab (MS K fl. 216a-216b, Kh fl. 204a-204b G fl. 292a-292b). In the manuscripts it reads as follows. The variant reading in the Tantrāloka are labelled TĀ: tatas tatrānayed dūtīṁ madaghūrnitalocanām | bimboṣthīṁ \[kh g: -ṣthī\] cārudaśanār sabhrūbhaṁgānanāṁi śubhām ॥ 48 ॥ trastabālamṛgābhāsanayanāīi cāruhāsinīm | sphuradbhramarasaṁghātanibhasatkeśapāśikām ॥ 49 ॥ kāmakārmukasaikāíah bhabhaṁge \[TĀ: -saṁkāśabhrūbhaṁga-} taralekṣanām \[kh: taranakṣanām\] | dravaccāmīkarāvarṇā \[kh g: -gīkarā-\] savannā \[TA: dravaccāmīkarākārasavarṇāri) nistaraṁgiṇīm ॥ 50 ॥ karnābharaṇasaccitraśobhāśatasuśobhanam \[kh: -śuśobhanām; g: -nām\] | satkanṭhanibha \[TĀ: satkambunibha-\] satkanṭhavara \* + \* bhūṣitīm \[kh g: -bhūḷinam\] \[TĀ: - bhūṣanṇabhūṣitām) ॥ 51 ॥ gajakumbhanibhoddāmastanabhārāvanāmitām | suvṛttopaci lākāra vāhukadali \[TĀ —-kandali-\] manditām ॥ 52 ॥ —satyaṁ ca phenasahkāśa \[kh g: phanasahkāśa\] \[TĀ: 1) karaśākhāvirājitām | 204b kh) sphuradratnaśikhā citra ūrmikāṁgulibhūṣitām kh g: -ürmikai-\] \[TĀ: ~ citrakormikā-\] ॥ 531 pūrṇenduvaralāvaṇyār \[kh g: -vanyari\] vadanāṁ cittahārinīm | harihetimahāsiṁha pipāla varamadhyagām \[TĀ: -pipīlavara-) ॥ 54 ॥ 292b g) trivaliśrenisadviṁva jaghanālasagāminīm \[kh g: -nām\] | rambhā karikarākāravaroruvarajahghikām \[kh: -jamgvikām\] \\\\ 55 ॥ satkāmaravacakrābhagulphapādasuśobhanām \[ pralaṁvahemābharanahārāvali \[kh g: raraṇahāi sphuranmañjīra sahkārarasanāmukharasvarām \[TĀ: -mañjīrajhāṁkāraraśanā-\] \\ pārihāryajhanatkāravalayadhvānamantharām \[TĀ: -bhaṇatkāra-) (>kvanatkāra-) ॥ 57 ॥ mattanāgendrasaṁkāśagamāṁ \[kh: -śaṁ-\] \[TĀ: -gatiń) gambhīranābhikām | (216b) hamsagadgadavāgvahnśasadṛśāṁ śubhabhāṣinīm ॥ 58 ॥ keyürasūtrikāsārapuṣpasragdāmabhūṣitām \[TĀ: -sūtrikāmodi- | mahāpañcaphaṇāpīdatāīmbūlavaralālasām ॥ 59 ॥ \[kh: nāsti\] nṛtyagīta \[g: nṛttagīta\] sītkāra līlākoṭiśatāvṛtām \[TĀ: -līlākuṭṭamitā-) । \[kh: nāsti) nistaṁgām sarvavarṇāṁ devyekārpitamānasām Íg: devyai-\] \\| 60 ॥ \[kh: nāsti\] lobhamohaparikṣīnacetasām \[kh: mahāmoha-\] \[TĀ -saṁ) indubhāvitām | bhairavaikacamatkāracarvanaikasvarūpinīm ॥ 61 ॥ parabodhāmṛtāsvādaparamānandapūrṇitām | madirāsava sanmāṁsa \[kh: sanmāsa\] paritṛptasvarūpinīm || 62 || extra sā dūtir mohanīmudrā jagatyasmin carācare | The citation ends here. The JY continues: rūpenāharate cānyā sparśenānyā \[g: nanyam\] \] prabhāṣanṇāt ॥ 63 ॥ anyam sa \[kh g: +lāsari\] cārena (> anyā sālāsacārena) līlāceṣṭādike pare | 293a g) vilolālokane cānye cumbanenāpare priye || 64 || gādhāliṁganakenānyān āharet sa (> sā) mahāvalā |
+
+    sā vai cāṣtakulodbhūtā kartavyā mṛgalocane || 65 ॥ 
 
 
 *[p. 293]* ^pg310
-
-sā vai cāṣtakulodbhūtā kartavyā mṛgalocane || 65 ॥ 
 
 ‘Another (dūtī) attracts by (her) beauty, another by (her) touch, another by speaking, another by (her) languid movement, others by (their) playful gait, others by (their) rolling (arousing) glances, and others, O beloved, by (their) kiss. That very powerful one attracts others by (her) deep embrace. O gazelle-eyed lady, (only) she who is bom of (one of the) eight Kulas should be adopted (kartavyā). (63cd-65) 
 
@@ -235,30 +233,30 @@ The yoginīs along with the Bhairavas bow to him constantly, and when he moves t
 
 In the venerable Trisirobhairava (she is described as follows): ‘Beautiful and virtuous, she follows the commands of (her) teacher. She speaks pleasantly and has a beautiful nature (susvarūpā), she is spiritual (sātvikā) and free from attachment. 
 
-She is accomplished in Bhairava’s practice (bhairavācāra), and longs for the nectars (of the Kaula substances). She is always devoted to nonduality,”” she is immersed in (spiritual) practice, and firm (in the observance of her) vows. 
+She is accomplished in Bhairava’s practice (bhairavācāra), and longs for the nectars (of the Kaula substances). She is always devoted to nonduality,[^250] she is immersed in (spiritual) practice, and firm (in the observance of her) vows. 
 
-She looks on everybody like (her own) son, abhorring (nothing and nobody), her mind is content (and tranquil). Born of a well-behaved and honest family (sadācārakula), she (is a young woman who has) not borne a child.” Her hair is beautiful and her limbs soft (and delicate). She is rich in vital seed (Sukrā) and desires wine. Her smile is delightful. She is very loving and well-mannered, and she is always well-disposed to being hospitable. 
+She looks on everybody like (her own) son, abhorring (nothing and nobody), her mind is content (and tranquil). Born of a well-behaved and honest family (sadācārakula), she (is a young woman who has) not borne a child.[^251] Her hair is beautiful and her limbs soft (and delicate). She is rich in vital seed (Sukrā) and desires wine.[^252] Her smile is delightful. She is very loving and well-mannered, and she is always well-disposed to being hospitable. 
 
 Her nature is offered to Mantra, and pure, she is devoid of pride. She is established in the liturgy (transmitted) by the lineage (of teachers) and (yet) she (also) observes (the common manner of conduct of the worldly. 
 
-She observes the regular and occasional rites, (as well as) the sacred days (parvan) of the tradition (krama).”\* ). She is devoutly dedicated to the practice of the arts of love (kāmatantrakriyā), knowing how to offer libation to the gods. She is content in every state of being.” 
+She observes the regular and occasional rites, (as well as) the sacred days (parvan) of the tradition (krama).[^253] She is devoutly dedicated to the practice of the arts of love (kāmatantrakriyā), knowing how to offer libation to the gods. She is content in every state of being.” 
 
 forever) and inspires the fearlessness of the Great Enjoyment. That is a pleasing thing where that is achieved by force. (85cd-88) yadi lakṣena hīnā \[k, g: hīnaṁ; kh: hīnaḥ\] syād dūtīnāṁ sādhakātmanām | tadvīracittā niṣkaṁpā sarvakarmasu śaśyate || 89 I| haret tādṛsīṁ \[kh: -śī\] samyag athavā \[kh: \* + \*thavā\] vīramelake | etat tava samākhyātam ādyayāgaṁ surārcitam ॥ 90 || kir bhūyaḥ kathayiṣyāmi vada yat te hṛdi sthitam | iti śrībhairavaśrotasi \[kh: \* bhairava-\] vidyāpīthe śiraśchede jayadrathayāmale mahātaritre caturviṁśatisāhasre caturthaṣaṭke ādyayāgavidhiḥ kramārthapūjā paṭalaḥ ॥ (Even) if the Dūti of those who are (true) adepts is devoid of (all the) characteristics, (but) her mind is solely focused on (her) Kaula partner (vīra) and is not shaken (niṣskampā) (by doubts), (the scriptures) prescribe (her presence) in all the rites.\* He should enjoy one such as that properly (alone) or else in a gathering (melaka) of vīras. I have told you that Ādyayāga, worshipped by the gods. What else should I tell you? Tell (me) what is in your heart. (89-91ab) \* Quoted below ad 29/100cd-101ab This is the chapter dealing with the worship of the Krama reality (artha) which is the procedure of Ādyayāga. It is part of the great Tantra, the Jayadrathayāmala (also called) Siraścheda of twenty-four thousand (verses) in four satkas. . It belongs to the Vidyāpīṭha of the Bhairava current (of scriptures).\*
 
-250\. The nonduality meant here characterizes Kaula practice, which is free of the Vedic dualism of pure and impure.
+[^250]: The nonduality meant here characterizes Kaula practice, which is free of the Vedic dualism of pure and impure.
 
-251\. According to the Yonitantra and the Samayācāratantra, the Kaula partner should not have children. Schoterman 1980: 18-19.
+[^251]: According to the Yonitantra and the Samayācāratantra, the Kaula partner should not have children. Schoterman 1980: 18-19.
 
-252\. Read with MS Th, madhyakāmā tu for madyakāmatta-.
+[^252]: Read with MS Th, madhyakāmā tu for madyakāmatta-.
 
-253\. Special lunar days when rites should be performed. See above, 28/6 ff.
+[^253]: Special lunar days when rites should be performed. See above, 28/6 ff.
 
 
 *[p. 296]* ^pg313
 
 It is impossible to get an outer partner (śakti) with the characteristics stated (here). Qualities like this are never seen to come (all) together anywhere (in anyone). As they say: 
 
-‘Where indeed are all (good) qualities (found) in all respects (in any person)??? 
+‘Where indeed are all (good) qualities (found) in all respects (in any person)?’[^254] 
 
 (But even so,) a Dūti who is not such should be avoided! As is said: 
 
@@ -274,23 +272,23 @@ The sense here (of this statement) is not that one should (perform the sacrifice
 śakter lakṣanam etāvat tadvato hy avibheditā ॥ 100 ॥
 tādṛśīr tena tām kuryān na tu varṇādyapekṣaṇam | 
 
-Accordingly, the only characteristic (required of) a Kaula partner (Sakti) ) is that she should not differ from the one who possesses her.” . Thus, one should adopt one who is like that, without any regard to (her) caste or other such (considerations). (100cd-101ab) 
+Accordingly, the only characteristic (required of) a Kaula partner (Sakti) ) is that she should not differ from the one who possesses her.[^255] Thus, one should adopt one who is like that, without any regard to (her) caste or other such (considerations).[^256] (100cd-101ab) 
 
 #### Viveka on 29.100–101
 
 Many accomplishments (siddhis) can be had from a Śakti of even low (caste). That is said (in the Mādhavakula): 
 
-‘(Even) if the Dūti of those who are (true) adepts is devoid of (all the) characteristics, (but) her mind is solely focused on (her) Kaula partner (vīra) and is not shaken (niṣkampā) (by doubts), (the scriptures) prescribe” (her presence) in all the rites.” 
+‘(Even) if the Dūti of those who are (true) adepts is devoid of (all the) characteristics, (but) her mind is solely focused on (her) Kaula partner (vīra) and is not shaken (niṣkampā) (by doubts), (the scriptures) prescribe[^257] (her presence) in all the rites.”[^258] 
 
-254\. This may well be a part of a saying found in common didactic texts like the Pañcatantra. Anyway, neither this nor the following citation is found in the JY. Indeed, a verse Jayaratha cites in his commentary on the following verse, which advocates the contrary, is drawn from there. Thus, the second, at least, of these two citations may well be drawn from the Trisirobhairava.
+[^254]: This may well be a part of a saying found in common didactic texts like the Pañcatantra. Anyway, neither this nor the following citation is found in the JY. Indeed, a verse Jayaratha cites in his commentary on the following verse, which advocates the contrary, is drawn from there. Thus, the second, at least, of these two citations may well be drawn from the Trisirobhairava.
 
-255\. Union with her lord, harmony with her partner, is the qualifying mark.
+[^255]: Union with her lord, harmony with her partner, is the qualifying mark.
 
-256\. Regarding caste, this is the point of view of the jnānī as opposed to the ritualist; a very common contradiction in Śaiva literature. We have similar lists of very restrictive characteristics for teachers, but they often end with ‘sarvalakṣsanahīno’pi jñānavān guru iśyate”, ‘but a Guru who has knowledge is acceptable, even if he lacks all these characteristics’. For the pursuit of siddhi, one must try to get the most perfect ritual instrument; external characteristics become overwhelmingly important. He must have a very beautiful dūti or a very ugly one. But for the liberation seeker, what is important is the mentality of the partner.
+[^256]: Regarding caste, this is the point of view of the jnānī as opposed to the ritualist; a very common contradiction in Śaiva literature. We have similar lists of very restrictive characteristics for teachers, but they often end with ‘sarvalakṣsanahīno’pi jñānavān guru iśyate”, ‘but a Guru who has knowledge is acceptable, even if he lacks all these characteristics’. For the pursuit of siddhi, one must try to get the most perfect ritual instrument; external characteristics become overwhelmingly important. He must have a very beautiful dūti or a very ugly one. But for the liberation seeker, what is important is the mentality of the partner.
 
-257\. Read with the JY, sasyate for gamyate.
+[^257]: Read with the JY, sasyate for gamyate.
 
-258\. yadi lakṣena hinam syād \[kh: hīnahsyād\] diitinam sādhakātmanām | tadvīracittā niskampa sarvakarmasu śaśyate ॥ 89 ॥ JY 4/56/89 (MS K fl. 217b, Kh fl. 205b, G fl. 294a) Cf. Sanderson 2006: 17 n 44. Read with the JY śaśyate for gamyate.
+[^258]: yadi lakṣena hinam syād \[kh: hīnahsyād\] diitinam sādhakātmanām | tadvīracittā niskampa sarvakarmasu śaśyate ॥ 89 ॥ JY 4/56/89 (MS K fl. 217b, Kh fl. 205b, G fl. 294a) Cf. Sanderson 2006: 17 n 44. Read with the JY śaśyate for gamyate.
 
 
 *[p. 297]* ^pg314
@@ -312,19 +310,19 @@ laukikālaukikadvyātmasaṁgāt tādātmyato ‘dhikāt ॥ 101 ॥
 kāryahetusahotthā sā tridhoktā śāsane guroḥ |
 sākṣāt paramparāyogāt tat tulyeti tridhā punaḥ ॥ 102 ॥ 
 
-According to the teacher’s teachings,” this (Śakti) is said to be of three kinds directly (saksat); ); namely, (as) an effect (i.e. the Kaula adept’s daughter), a cause (his mother), and born together (his twin sister). This is because (her) oneness (with her partner) surpasses the dualistic relationship of worldly (blood ties) and non-worldly (spiritual ones). Again, the (Śakti who is) indirectly so is equal to that (one who is so directly). Thus (as such Śakti) is again of three kinds.” (101cd-102) 
+According to the teacher’s teachings,[^259] this (Śakti) is said to be of three kinds directly (saksat); ); namely, (as) an effect (i.e. the Kaula adept’s daughter), a cause (his mother), and born together (his twin sister). This is because (her) oneness (with her partner) surpasses the dualistic relationship of worldly (blood ties) and non-worldly (spiritual ones). Again, the (Śakti who is) indirectly so is equal to that (one who is so directly). Thus (as such Śakti) is again of three kinds.[^260] (101cd-102) 
 
 #### Viveka on 29.101–102
 
-Here ‘according to the teacher’s teachings’, that is, our system (darśana), the Śakti who is such (as just described) is said to be primarily of three kinds, that is, (‘an effect’, i.e.) a daughter (janyā), (‘a cause’, i.e.) a mother (janikā), and (‘born together’, i.e.) a twin sister (sahajā). This is because here her oneness (with her partner) is more than a relationship that is ‘worldly’, that is, one of blood (between relatives) or ‘other-worldly’, that is, one of knowledge (between fellow initiates). A relationship of knowledge (between fellow initiates) elsewhere (in other circumstances) would not be there (in that case) one of oneness in this way. Again, in this way, (the relationship with) this Śakti is of two kinds, direct and indirect, and so making six kinds (in all). That is said (in the scripture, he is quoting): 
+Here ‘according to the teacher’s teachings’, that is, our system (darśana), the Śakti who is such (as just described) is said to be primarily of three kinds, that is, (‘an effect’, i.e.) a daughter (janyā), (‘a cause’, i.e.) a mother (janikā), and (‘born together’, i.e.) a twin sister (sahajā). This is because here her oneness (with her partner) is more than a relationship that is ‘worldly’, that is, one of blood (between relatives) or ‘other-worldly’, that is, one of knowledge (between fellow initiates).[^261] A relationship of knowledge (between fellow initiates) elsewhere (in other circumstances) would not be there (in that case) one of oneness in this way. Again, in this way, (the relationship with) this Śakti is of two kinds, direct and indirect, and so making six kinds (in all).[^262] That is said (in the scripture, he is quoting): 
 
-259\. The teacher in this case is Siva Himself directly. He is the first and foremost teacher (ādiguru).
+[^259]: The teacher in this case is Siva Himself directly. He is the first and foremost teacher (ādiguru).
 
-260\. Abhinava incorporates the wording of the first citation in the commentary and adds his explanation.
+[^260]: Abhinava incorporates the wording of the first citation in the commentary and adds his explanation.
 
-261\. Śakti is primarily of three kinds — A) Janyā, b) Janikā, and c) Sahajā. So then the relation is (1) worldly, i.e. from the same womb, (2) Alaukika — by knowledge, and 3) Oneness.
+[^261]: Śakti is primarily of three kinds — A) Janyā, b) Janikā, and c) Sahajā. So then the relation is (1) worldly, i.e. from the same womb, (2) Alaukika — by knowledge, and 3) Oneness.
 
-262\. Directly ~ daughter, mother and sister. Indirectly — daughter of the daughter, mother’s mother, sister’s daughters. In other words, the Śakti (i.e. Kaula partner) should not only be related to the male adept by the bond of consciousness (see above 28/194-212), but also by blood. The purpose of this definition is to show that Śakti must be related to the adept in a way more complete and deeper than blood or knowledge, separately considered. The ‘wife’ here has no place, because that may give rise to the idea that sexual desire is not totally eradicated in this sacrificial rite (yaga), ), as it should be. See also Hevajratantra 2/5/58-60, also Gnoli — Orofino 1994: 187 ff.
+[^262]: Directly ~ daughter, mother and sister. Indirectly — daughter of the daughter, mother’s mother, sister’s daughters. In other words, the Śakti (i.e. Kaula partner) should not only be related to the male adept by the bond of consciousness (see above 28/194-212), but also by blood. The purpose of this definition is to show that Śakti must be related to the adept in a way more complete and deeper than blood or knowledge, separately considered. The ‘wife’ here has no place, because that may give rise to the idea that sexual desire is not totally eradicated in this sacrificial rite (yaga), ), as it should be. See also Hevajratantra 2/5/58-60, also Gnoli — Orofino 1994: 187 ff.
 
 
 *[p. 298]* ^pg315
@@ -343,26 +341,24 @@ Surely (one may ask), how is it that one’s own wife is not also counted here (
 
 adepts 
 
-as the contemplation of cognitive consciousness Qjñānabhāvanā).”” 
+as the contemplation of cognitive consciousness Qjñānabhāvanā).”[^263] 
 
-Here (in this way), conflict with other scriptures has also been avoided. It is also taught there in the same way that (this should be done) avoiding the desire for sexual pleasure, in order to do what needs be to done. As Smṛti (declares):?” 
+Here (in this way), conflict with other scriptures has also been avoided. It is also taught there in the same way that (this should be done) avoiding the desire for sexual pleasure, in order to do what needs be to done.[^264] As Smṛti (declares):[^265] 
 
-263\. This verse is quoted above in TĀv ad 1/1. Read -mānavīṁn for -mānakā. MS Threads mdnasim. . When he quoted this passage above, Jayaratha was explaining that Abhinavagupta was conceived in this way, and so, bom in the womb of Yoginī (yoginībhū), he was already enlightened to some degree, from birth. See below, 29/162cd-163ab, which is also quoted by Jayaratha along with this verse.
+[^263]: This verse is quoted above in TĀv ad 1/1. Read -mānavīṁn for -mānakā. MS Threads mdnasim. . When he quoted this passage above, Jayaratha was explaining that Abhinavagupta was conceived in this way, and so, bom in the womb of Yoginī (yoginībhū), he was already enlightened to some degree, from birth. See below, 29/162cd-163ab, which is also quoted by Jayaratha along with this verse.
 
-264\. Read kāryārthatayā for kāryārthitayā.
+[^264]: Read kāryārthatayā for kāryārthitayā.
 
-265\. Manu and other law books advocate such levirate marriages (niyoga). This citation here is not found in Manusmyti. Jayaratha quotes it as an example of sex without desire (or indeed love) that would be commonly practiced and accepted.
+[^265]: Manu and other law books advocate such levirate marriages (niyoga). This citation here is not found in Manusmyti. Jayaratha quotes it as an example of sex without desire (or indeed love) that would be commonly practiced and accepted.
 
 
 *[p. 299]* ^pg316
 
-‘Having smeared the limbs with clarified butter or oil, avoiding contact of the mouth with the (partner’s) mouth, and not touching the (partner’s) partner’s) ) limbs with (his own) limbs, appointed by the elders (to do so) in order to prolong the family lineage, not out of sexual desire, he should approach (and unite) with the wife of (his) younger brother.” 
+‘Having smeared the limbs with clarified butter or oil, avoiding contact of the mouth with the (partner’s) mouth, and not touching the (partner’s) partner’s) ) limbs with (his own) limbs, appointed by the elders (to do so) in order to prolong the family lineage, not out of sexual desire, he should approach (and unite) with the wife of (his) younger brother.”[^266] 
 
 And such is the competence (adhikāra) (for this rite) of those great wise souls who function (on the level of consciousness,) free of thought constructs. By setting aside their own (fluctuating sensory and mental) functions (while they have sexual intercourse), they examine, by just observation alone, whether (their) mind is solely concentrated on the nonduality of consciousness, or not. As is said with the same intention: 
 
-‘The practice of Kaula sexual union (caryā), that is said to be beautiful by virtue of the passion (it arouses), is not taught for the sake of enjoyment. (Rather), it is done in order to observe whether one’s own mind is firm (and fixed on ultimate reality), or is fickle.” 
-
-” 
+‘The practice of Kaula sexual union (caryā),[^267] that is said to be beautiful by virtue of the passion (it arouses),[^268] is not taught for the sake of enjoyment. (Rather), it is done in order to observe whether one’s own mind is firm (and fixed on ultimate reality), or is fickle.”[^269] 
 
 Nor is this just our own idea. Accordingly, he says: 
 
@@ -373,32 +369,32 @@ Nor is this just our own idea. Accordingly, he says:
 śsrīsarvācārahṛdaye tad etad (upasamhṛtam upasamhṛtam |
 sad etāḥ śaktayaḥ proktā bhuktimuktiphalapradāḥ ॥ 103 ॥ 
 
-This (teaching) is concluded (and summed up) in the venerable Sarvācārahṛdaya (with the words,) ʻit is said that these six Śaktis?” bestow (both) worldly enjoyment and liberation.’ (103) 
+This (teaching) is concluded (and summed up) in the venerable Sarvācārahṛdaya (with the words,) ʻit is said that these six Śaktis[^270] bestow (both) worldly enjoyment and liberation.’ (103) 
 
 #### Viveka on 29.103
 
 ‘Vegavatī (Energetic One), Saṁhārī (the Destroyer), Trailokyakṣobhiṇī (She who Arouses the Triple World), Ardhavīrāsanā (She whose occupies half 
 
-266\. n 118) suggests a comparison with Rgvidhāna 3/43-44: ‘With the verse beginning with Udirṣava \[RV 10/18/8\], a brother-in-law should prohibit the wife of (his) issueless brother, for the sake of progeny, from ascending (the funeral pyre) when (her) husband is dead. And smearing himself with ghee and controlling his speech, (the brother-in-law) should at the proper time after menses beget one son, but on no account a second one.” Bhat 1987: 356.
+[^266]: n 118) suggests a comparison with Rgvidhāna 3/43-44: ‘With the verse beginning with Udirṣava \[RV 10/18/8\], a brother-in-law should prohibit the wife of (his) issueless brother, for the sake of progeny, from ascending (the funeral pyre) when (her) husband is dead. And smearing himself with ghee and controlling his speech, (the brother-in-law) should at the proper time after menses beget one son, but on no account a second one.” Bhat 1987: 356.
 
-267\. \[illegible\] I understand caryā ~ ‘observance’ — here to mean caryākrama — the observance of Kaula sexual union. See above, note 3,216 on TĀv ad 3/67cd-68ab.
+[^267]: \[illegible\] I understand caryā ~ ‘observance’ — here to mean caryākrama — the observance of Kaula sexual union. See above, note 3,216 on TĀv ad 3/67cd-68ab.
 
-268\. The same verse, which is probably from the Vīrāvalītantra, is quoted above in TĀv ad 4/243cd. . There instead of the reading Kāmasurīūpinī — ‘beautiful by virtue of the passion (that it arouses)’, we find bhīmarūpinī — ‘awesomely formidable’.
+[^268]: The same verse, which is probably from the Vīrāvalītantra, is quoted above in TĀv ad 4/243cd. . There instead of the reading Kāmasurīūpinī — ‘beautiful by virtue of the passion (that it arouses)’, we find bhīmarūpinī — ‘awesomely formidable’.
 
-269\. Cf. TĀv ad 29/98ab-100ab. The place where the ritual is performed should be beautiful, with pictures on the walls etc. to excite the senses. Abhinava is describing a private ritual for single couples, where the fourth sarka of the JY in chapter fifty-four describes the procedure of the Heroes’ Dance together with Yoginīs (Vīratāndavavidhi), which includes group sex; so too the gathering for Mahāśivarātri described in the Khacakrapañcakastotra; and the Kulārṇava describes an orgy.
+[^269]: Cf. TĀv ad 29/98ab-100ab. The place where the ritual is performed should be beautiful, with pictures on the walls etc. to excite the senses. Abhinava is describing a private ritual for single couples, where the fourth sarka of the JY in chapter fifty-four describes the procedure of the Heroes’ Dance together with Yoginīs (Vīratāndavavidhi), which includes group sex; so too the gathering for Mahāśivarātri described in the Khacakrapañcakastotra; and the Kulārṇava describes an orgy.
 
-270\. Cf, above, cd-102.
+[^270]: Cf, above, cd-102.
 
 
 *[p. 300]* ^pg317
 
 the Vīra’s seat), and Vaktrakaulā (She who is the Kaula of the Face), who is the fifth.” 
 
-Such passages intend (to indicate) that it is also possible for each to have further subdivisions. As these are endless, they are not enumerated here.” 
+Such passages intend (to indicate) that it is also possible for each to have further subdivisions. As these are endless, they are not enumerated here.[^271] 
 
 Surely (one may ask): Let that be (as you say). But how is it that it is has been said that ʻone should worship along with an external consort (Sakti) 
 
-?? With this doubt in mind, he says: 
+?[^272] With this doubt in mind, he says: 
 
 The Processes within Consciousness that Take 
 
@@ -409,21 +405,21 @@ Place in the Course of Union (melaka)
 द्राभ्यां तु सुष्टिसंहारौ तस्मान्मेलकमुत्तमम् ।
 dvābhyām tu sṛṣtisahārau tasmān melakam uttamam | 
 
-From these two (arise) emanation and withdrawal. From that (point of balance between arises) the most excellent union (melaka).?” (104ab) 
+From these two (arise) emanation and withdrawal. From that (point of balance between arises) the most excellent union (melaka).[^273] (104ab) 
 
 #### Viveka on 29.104
 
-‘From these two’, that is, from power and the powerholder, who are the causes, ‘(arise) emanation and withdrawal at the time of (their) sexual union, by virtue of the repose (they) primarily (enjoy) within their own nature, (which is withdrawal,) and by being intent on one another, (which is emanation). ‘From that’ (arises) the state of persistence (sthiti), (which is the centre of balance between them and) consists of both of them. Its outpouring takes place in the four aspects (of consciousness, that contains and transcends emanation, persistence and withdrawal). Thus, what arises spontaneously (svarasataḥ) from that in this way?” is ‘the most excellent union (melaka)’, because it bestows realization of the supreme plane. The meaning is that it brings about a state of oneness (tādātmyakara). 
+‘From these two’, that is, from power and the powerholder, who are the causes, ‘(arise) emanation and withdrawal at the time of (their) sexual union, by virtue of the repose (they) primarily (enjoy) within their own nature, (which is withdrawal,) and by being intent on one another, (which is emanation). ‘From that’ (arises) the state of persistence (sthiti), (which is the centre of balance between them and) consists of both of them. Its outpouring takes place in the four aspects (of consciousness, that contains and transcends emanation, persistence and withdrawal). Thus, what arises spontaneously (svarasataḥ) from that in this way[^274] is ‘the most excellent union (melaka)’, because it bestows realization of the supreme plane. The meaning is that it brings about a state of oneness (tādātmyakara). 
 
 How should that be done (kārya)? He says: 
 
-271\. Jayaratha is saying that he is quoting a passage to establish that cach of the six Kaula partners may be of many kinds, variously identified with Yoginīs such as these. One would expect Jayaratha to quote the passage to which Abhinava is referring to here, but he does not, probably because he did not have access to the Sarvācārahṛdaya. Thus, above in 12/23cd-24, where Abhinava mentions a Sarvācāra, along with other texts, Jayaratha quotes those extensively, but not the Sarvācāra(hṛdaya). Similarly, Abhinava quotes it in 13/304 but Jayaratha does not supply the original reference. So it seems that this reference is a stopgap. He could have simply omitted making any reference, but he chose instead to do this, to make his own point. Note also, that if this is true, 29/101cd-102 cannot be drawn from this source, because Jayaratha quotes it.
+[^271]: Jayaratha is saying that he is quoting a passage to establish that cach of the six Kaula partners may be of many kinds, variously identified with Yoginīs such as these. One would expect Jayaratha to quote the passage to which Abhinava is referring to here, but he does not, probably because he did not have access to the Sarvācārahṛdaya. Thus, above in 12/23cd-24, where Abhinava mentions a Sarvācāra, along with other texts, Jayaratha quotes those extensively, but not the Sarvācāra(hṛdaya). Similarly, Abhinava quotes it in 13/304 but Jayaratha does not supply the original reference. So it seems that this reference is a stopgap. He could have simply omitted making any reference, but he chose instead to do this, to make his own point. Note also, that if this is true, 29/101cd-102 cannot be drawn from this source, because Jayaratha quotes it.
 
-272\. Above, 29/96ab.
+[^272]: Above, 29/96ab.
 
-273\. \[illegible\] This line is talking about the expansion and contraction of orgasm. Both partners experience the upsurge and withdrawal of its pulsation, and the stillness in the centre of that oscillation, that is the ultimate fusion of the two flows of creation and withdrawal. It may well be that the passage from 104ab to 109ab, that describes what takes place inwardly in the course of union, is Abhinava’s own explanation. This may explain why Jayaratha has not managed to find parallel citations in the scriptures. If that is so, the distinctive terminology in this passage, in which consciousness ~ as the Main Wheel — is distinguished, even as it is associated with the senses ~ the secondary wheels, is Abhinava’s own.
+[^273]: \[illegible\] This line is talking about the expansion and contraction of orgasm. Both partners experience the upsurge and withdrawal of its pulsation, and the stillness in the centre of that oscillation, that is the ultimate fusion of the two flows of creation and withdrawal. It may well be that the passage from 104ab to 109ab, that describes what takes place inwardly in the course of union, is Abhinava’s own explanation. This may explain why Jayaratha has not managed to find parallel citations in the scriptures. If that is so, the distinctive terminology in this passage, in which consciousness ~ as the Main Wheel — is distinguished, even as it is associated with the senses ~ the secondary wheels, is Abhinava’s own.
 
-274\. Read tad idaṁ for tata idaṁ.
+[^274]: Read tad idaṁ for tata idaṁ.
 
 
 *[p. 301]* ^pg318
@@ -436,11 +432,11 @@ How should that be done (kārya)? He says:
 tām āhṛtya mitho ‘bhyarcya tarpayitvā parasparam ॥ 104 ॥
 antaraṁgakramenṇaiva mukhyacakrasya pūjanam | 
 
-After having drawn that (śakti) close by, worshipped each other mutually and offered libation to one another, the Main Wheel (mukhyacakra) is worshipped by the inner process (of consciousness).?” (104cd-105ab) 
+After having drawn that (śakti) close by, worshipped each other mutually and offered libation to one another, the Main Wheel (mukhyacakra)[^275] is worshipped by the inner process (of consciousness).[^276] (104cd-105ab) 
 
 #### Viveka on 29.104–105
 
-‘Having worshipped’, that is to say, on the plane of power and the powerholder (i.e. when the partners are identified with them), (the main Wheel) is ‘worshipped’, that is to say, (that that) should be done.” 
+‘Having worshipped’, that is to say, on the plane of power and the powerholder (i.e. when the partners are identified with them), (the main Wheel) is ‘worshipped’, that is to say, (that that) should be done.[^277] 
 
 Surely (one may ask), what is this internal process (krama) and what is that Main Wheel? He says: 
 
@@ -460,11 +456,11 @@ Only that which streams with bliss (ānandasyandin) is the inner part of conscio
 
 What is the reason for using the term ‘wheel’? With this doubt in mind, he says: 
 
-275\. The Main Wheel is also called the Heart of the Yogini (yoginīhṛdaya, see above 5/121-4). It is the fundamental cycle of consciousness (saṁvitkrama). This Abhinava presents in Chapter Four as the cycle of Twelve Kālīs, that moves through the three polarities of subject, object and means of knowledge arising, persisting, withdrawing, and in an Inexplicable fourth state, in each of the three domains. Its timeless rotation impels that of the senses, just as the master cog of a watch makes the other cogs rotate.
+[^275]: The Main Wheel is also called the Heart of the Yogini (yoginīhṛdaya, see above 5/121-4). It is the fundamental cycle of consciousness (saṁvitkrama). This Abhinava presents in Chapter Four as the cycle of Twelve Kālīs, that moves through the three polarities of subject, object and means of knowledge arising, persisting, withdrawing, and in an Inexplicable fourth state, in each of the three domains. Its timeless rotation impels that of the senses, just as the master cog of a watch makes the other cogs rotate.
 
-276\. \[illegible\] The ‘inner process’ is the progressive merger of the subordinate cycles of the energies of the senses and mind engaged in perception into the main cycle of consciousness itself. This is done essentially by attending to the direct experience (anubhava) of awareness itself, rather than its content and object. As practice progresses by Lord Śiva’s grace, thought constructs centred on the body, senses and their objects diminish, and the main cycle of the energies of awareness unfolds. As that happens, the two experience an intensification of the radiant pulse of the Light of consciousness, which now shines ever more clearly (sphuta) ) as all things that, illumined by it, appear within it like reflections in a mirror.
+[^276]: \[illegible\] The ‘inner process’ is the progressive merger of the subordinate cycles of the energies of the senses and mind engaged in perception into the main cycle of consciousness itself. This is done essentially by attending to the direct experience (anubhava) of awareness itself, rather than its content and object. As practice progresses by Lord Śiva’s grace, thought constructs centred on the body, senses and their objects diminish, and the main cycle of the energies of awareness unfolds. As that happens, the two experience an intensification of the radiant pulse of the Light of consciousness, which now shines ever more clearly (sphuta) ) as all things that, illumined by it, appear within it like reflections in a mirror.
 
-277\. \[illegible\] Jayaratha is saying that we should understand that what is meant is that “the Main Wheel (mukhyacakra) must be worshipped by the inner process (of consciousness)’.
+[^277]: \[illegible\] Jayaratha is saying that we should understand that what is meant is that “the Main Wheel (mukhyacakra) must be worshipped by the inner process (of consciousness)’.
 
 
 *[p. 302]* ^pg319
@@ -516,9 +512,9 @@ The outpouring of consciousness (comes forth internally) from the one conceived 
 
 ‘The outpouring of consciousness’, which is its expansion, (comes forth internally) ‘from the one conceived to be the possessor of power, who is present within (the Main) Wheel and the subordinate ones’, in accord with the teaching that: 
 
-‘Thus, he should offer libation externally to (his own) Self, which is full to overflowing and is present in the (Main) Wheel and subordinate ones, with drops (of the liquid of the sacrificial vessel, sprinkled) upwards and below, and by drinking it inwardly.” 
+‘Thus, he should offer libation externally to (his own) Self, which is full to overflowing and is present in the (Main) Wheel and subordinate ones, with drops (of the liquid of the sacrificial vessel, sprinkled) upwards and below, and by drinking it inwardly.”[^279] 
 
-‘It also (pours forth) from the (same possessor of power,) present in the vital breath’ the nature of which is exhalation etc., in accord with the teaching that ‘if the wind arises out of the Void, there is an erection (utthāpana) of the penis due to the conjunction of the vital breath and the penis . . .' it impels that. (Again, it also pours forth from) outer things ‘such as the scent, incense and garlands (offered to the deity)’, and ‘by eating (the sacrificial substances) that stream with bliss.’ This is the meaning. 
+‘It also (pours forth) from the (same possessor of power,) present in the vital breath’ the nature of which is exhalation etc.,[^280] in accord with the teaching that ‘if the wind arises out of the Void, there is an erection (utthāpana) of the penis due to the conjunction of the vital breath and the penis . . .' it impels that. (Again, it also pours forth from) outer things ‘such as the scent, incense and garlands (offered to the deity)’, and ‘by eating (the sacrificial substances) that stream with bliss.’ This is the meaning. 
 
 One should offer libation in this way to the subordinate centres in order to attain a state of oneness with the Main Wheel. Thus he says: 
 
@@ -529,15 +525,15 @@ One should offer libation in this way to the subordinate centres in order to att
 itthań svocitavastvahśair anucakreṣu tarpanam ॥ 109 ॥
 kurvīyātām ihānyonyaṁn mukhacakraikatākṛte | 
 
-(The couple) should in this way (satisfy and) offer libation (tarpana) here to one another in (their) subordinate Wheels, with the aspects of things appropriate to them, in order to realise a state of oneness with the Main Wheel (mukhyacakra). (109cd-110ab) 
+(The couple) should in this way (satisfy and) offer libation (tarpana) here to one another in (their) subordinate Wheels, with the aspects of things appropriate to them, in order to realise a state of oneness with the Main Wheel (mukhyacakra).[^281] (109cd-110ab) 
 
 #### Viveka on 29.109–110
 
-279\. Above, 29/23.
+[^279]: Above, 29/23.
 
-280\. Read -gād apānādyātmanaḥ for -gāt pānādyātmanaḥ.
+[^280]: Read -gād apānādyātmanaḥ for -gāt pānādyātmanaḥ.
 
-281\. \[illegible\] The fusion takes place by the pervasion of the subordinate wheels of the senses with the bliss of the main one.
+[^281]: \[illegible\] The fusion takes place by the pervasion of the subordinate wheels of the senses with the bliss of the main one.
 
 
 *[p. 304]* ^pg321
@@ -565,11 +561,12 @@ It is said in the Triśirastantra that ‘he whose abode (gocara) is a pure seat
 Even while consuming the appropriate objects (of the señses) here, ‘in the midst’ of all the wheels, that is, subordinate wheels (of the senses) when they are aroused, if he is well established in that condition (avasthāna) which is the ‘seat’ that is ‘pure’, that is, free of the stain of the loss of self-control, (abiding in that, he has) no attachment to those (objects), and so, by the repose (he enjoys) in his own essential nature (as detached, spontaneously expanding 
 
 [^282]: Read with MS Th, bhavate for bhajate.
+
 [^283]: These are the sense of sight and the other four cognitive senses along with the mind (manas) that directs and coordinates them.
 
 *[p. 305]* ^pg322
 
-consciousness,) that arousal is withdrawn, and he ‘penetrates into Rudra’s abode’. The meaning is that (the yogi) penetrates into the plane (daśā) of the supreme, (fully expanded) subject who is the Main Wheel. 
+consciousness,) that arousal is withdrawn, and he ‘penetrates into Rudra’s abode’. The meaning is that (the yogi) penetrates into the plane (daśā) of the supreme, (fully expanded) subject who is the Main Wheel.[^284] 
 
 \+ 
 
@@ -584,21 +581,21 @@ nijanijabhogābhoga-
 pravikāsinijasvarīūpaparimar‘śe || 111 ॥
 kramaśo ‘nucakradevyaḥ 
 
-sarviccakraṁ hi madhyamaṁ yānti 1\*5 When one reflects on one’s own nature, unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.” (111cd-112ab) 
+sarviccakraṁ hi madhyamaṁ yānti |[^285] [^286]When one reflects on one’s own nature, unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.[^287] (111cd-112ab) 
 
 #### Viveka on 29.111–112
 
-When the aesthetic rapture (camatkāra) of one’s own Self is pouring forth (exuberantly), and ‘one reflects’ ‘on one’s own nature’, which is the perceiver, unfolding in the form of an external upsurge (of consciousness) ‘with the bliss of the enjoyment’, which is the (direct nonconceptual) perception (ālocana) of one or other amongst ‘(the objects of) their own respective (senses)’, as for, example, form, (then) to the degree and manner in which (yathāyatham) ‘the goddesses of the subordinate wheels’ of sight and the rest (of the senses) ‘converge onto the wheel of consciousness’, that is, the perceiver composed of supreme bliss which, as the place of rest of all perceptions (saṁvid), is the main (wheel) and ‘the centre’, they attain rest there, 
+When the aesthetic rapture (camatkāra) of one’s own Self is pouring forth (exuberantly), and ‘one reflects’ ‘on one’s own nature’, which is the perceiver, unfolding in the form of an external upsurge (of consciousness) ‘with the bliss of the enjoyment’, which is the (direct nonconceptual) perception (ālocana) of one or other amongst ‘(the objects of) their own respective (senses)’, as for, example, form, (then) to the degree and manner in which (yathāyatham) ‘the goddesses of the subordinate wheels’ of sight and the rest (of the senses) ‘converge onto the wheel of consciousness’, that is, the perceiver composed of supreme bliss which, as the place of rest of all perceptions (saṁvid), is the main (wheel) and ‘the centre’, they attain rest there,[^288] 
 
-284?\. sense is the sexual organ, and also the fully expanded knowing subject, The pure seat he occupies is the unattached delight of the senses in the midst of their excitation, That is the pure seat, free of the contamination of craving. The joy of the experience of beauty when we watch a drama is limited by the fact that in order to appreciate the aesthetic sentiments it elicits, we must have mundane sentiments somewhere in our mind, or we can’t relate to the drama. Hence the bliss in the Kulayāga is higher, because of the lack of mundane sentiments. There appetitive consciousness develops into aesthetic consciousness and this into liberating consciousness in a single climactic continuum; the intensification accomplished by simultaneous lack of attachment and stimulation.
+[^284]: sense is the sexual organ, and also the fully expanded knowing subject, The pure seat he occupies is the unattached delight of the senses in the midst of their excitation, That is the pure seat, free of the contamination of craving. The joy of the experience of beauty when we watch a drama is limited by the fact that in order to appreciate the aesthetic sentiments it elicits, we must have mundane sentiments somewhere in our mind, or we can’t relate to the drama. Hence the bliss in the Kulayāga is higher, because of the lack of mundane sentiments. There appetitive consciousness develops into aesthetic consciousness and this into liberating consciousness in a single climactic continuum; the intensification accomplished by simultaneous lack of attachment and stimulation.
 
-285?\. This verse is also found in TSā p. 202; there -pravikāsinijasvarūpaparimarśe - ‘When one reflects on one’s own nature unfolding (with the bliss . . Pil reads - pravikāsamayasvarūpaparimarśe | — ‘when one reflects on one’s own nature that consists of the unfolding (of the bliss . . .).\*
+[^285]: This verse is also found in TSā p. 202; there -pravikāsinijasvarūpaparimarśe - ‘When one reflects on one’s own nature unfolding (with the bliss . . Pil reads - pravikāsamayasvarūpaparimarśe | — ‘when one reflects on one’s own nature that consists of the unfolding (of the bliss . . .).\*
 
-286?\. From here at least up to 140 (apart from a digression in 122-123) appears to be Abhinava’s own presentation of the processes that take place within consciousness in the course of Kaula sexual union, culminating in orgasm.
+[^286]: From here at least up to 140 (apart from a digression in 122-123) appears to be Abhinava’s own presentation of the processes that take place within consciousness in the course of Kaula sexual union, culminating in orgasm.
 
-287?\. The energies of the senses intensify the bliss of the Main Wheel (i.e. the primary, fundamental cycle of consciousness) by merging with it. The division and difference between the sensations pouring in through the senses dissolves away in the blissful unification of expanded consciousness.
+[^287]: The energies of the senses intensify the bliss of the Main Wheel (i.e. the primary, fundamental cycle of consciousness) by merging with it. The division and difference between the sensations pouring in through the senses dissolves away in the blissful unification of expanded consciousness.
 
-288?\. \[illegible\] The central Wheel is the main one (mukhya) because it is the place of rest of all cognitions.
+[^288]: \[illegible\] The central Wheel is the main one (mukhya) because it is the place of rest of all cognitions.
 
 
 *[p. 306]* ^pg323
@@ -617,11 +614,11 @@ tā dehādhiṣthitā vihāya yataḥ ॥ 112 ॥
 
 no pūrṇo nāpi cocchalati | 
 
-However, for another (person), who is confined to his own body, those (goddesses) abandon (their empowering) governance of it,” and so sit (aloof). Thus, considering himself to be (just) that (body), he is neither full nor overflowing. (112cd-113ab) 
+However, for another (person), who is confined to his own body, those (goddesses) abandon (their empowering) governance of it,[^289] and so sit (aloof). Thus, considering himself to be (just) that (body), he is neither full nor overflowing. (112cd-113ab) 
 
 #### Viveka on 29.112–113
 
-Again, a person who is other than this ‘is confined to his own body’, and (so), devoid of such reflective awareness, (his) state is generally one of indifference. Due to that, the goddesses of the subordinate wheel of sight and the rest (of the senses) etc. ‘abandon (their empowering) governance of it,” and so sit (aloof)’ there and maintain a state of indifference. Thus ‘considering himself’ (to be) in the body, gripped by a false identification with it (abhimāna), he is not ‘full’, that is, (he is not) one whose sensory activity has ceased, because all (his) desires (are fulfilled and so) have come to an end, (feeling no need for further input,) and nor is he ‘overflowing’. He would not be propense (unmukha) towards the outer (world,) even though he may have (unfulfilled) desires, because of his indifference to the activity of the senses of sight and the rest. The meaning is that he has fallen from both (the inner plenitude of his essential consciousness and the delight of the outer world). 
+Again, a person who is other than this ‘is confined to his own body’, and (so), devoid of such reflective awareness, (his) state is generally one of indifference. Due to that, the goddesses of the subordinate wheel of sight and the rest (of the senses) etc. ‘abandon (their empowering) governance of it,[^290] and so sit (aloof)’ there and maintain a state of indifference. Thus ‘considering himself’ (to be) in the body, gripped by a false identification with it (abhimāna), he is not ‘full’, that is, (he is not) one whose sensory activity has ceased, because all (his) desires (are fulfilled and so) have come to an end, (feeling no need for further input,) and nor is he ‘overflowing’. He would not be propense (unmukha) towards the outer (world,) even though he may have (unfulfilled) desires, because of his indifference to the activity of the senses of sight and the rest. The meaning is that he has fallen from both (the inner plenitude of his essential consciousness and the delight of the outer world).[^291] 
 
 Surely (one may ask), what happens to these two (i.e. power and the powerholder) by the repose of the goddesses of the subsidiary wheels within the main wheel? With this doubt in mind, he says: 
 
@@ -635,23 +632,23 @@ anucakradevatātmaka-
 marīciparipūraṇādhigatavīryam || 113 ॥
 tacchaktiśaktimadyugam 
 
-289?\. for dehādhiṣthitaṁ.
+[^289]: for dehādhiṣthitaṁ.
 
-290?\. Read dehādhiṣthitāri or dehādhiṣthitaṁ.
+[^290]: Read dehādhiṣthitāri or dehādhiṣthitaṁ.
 
-291?\. Only the everyday sense of personal existence plods on. There is no aesthetic awareness or awareness of the higher power of consciousness.
+[^291]: Only the everyday sense of personal existence plods on. There is no aesthetic awareness or awareness of the higher power of consciousness.
 
 
 *[p. 307]* ^pg324
 
-anyonyasamunmukham bhavati |
-The couple, power and the powerholder, who have acquired the vitality (of consciousness) by being completely filled with the rays that are the deities of the subordinate wheels, are (passionately) intent on one another (and begin to merge together).” (113cd-114ab) 
+anyonyasamunmukham bhavati |[^292]
+The couple, power and the powerholder, who have acquired the vitality (of consciousness) by being completely filled with the rays that are the deities of the subordinate wheels, are (passionately) intent on one another (and begin to merge together).[^293] (113cd-114ab) 
 
 #### Viveka on 29.113–114
 
 (The couple is) ‘filled with the rays’ that are the goddesses of sight and the rest (of the senses,) in accord with (the following) teaching: 
 
-‘Whatever manifests through the path of any one of the senses, by the strength the yogi who is present in that (possesses to) fix himself (within his pure conscious nature), becomes one with 11. 
+‘Whatever manifests through the path of any one of the senses, by the strength the yogi who is present in that (possesses to) fix himself (within his pure conscious nature), becomes one with 11.[^294] 
 
 Having thus managed to fix (themselves) within their own (conscious nature,) ‘the couple, power and the powerholder, are (passionately) intent on one another’, that they may attain union (with one another). This is the meaning. 
 
@@ -664,28 +661,28 @@ Surely (one may ask), even if this is so, what (is the result) of that (union)?
 ुभ्नात्यनुचक्राण्यपि तानि तदा तन्मयानि न पृथक्तुं ।
 tadyugalam ūrdhvadhāma- 
 
-praveśasaṁisparśajātasaṁkṣobham?” || 114 || kṣubhnāty anucakrāny api 
+praveśasaṁisparśajātasaṁkṣobham[^295] || 114 || kṣubhnāty anucakrāny api 
 
 tāni tadā tanmayāni na pṛthak tu | 
 
-292?\. There racchaktiśaktimadyugam reads: tacchaktitadvadātmakam.
+[^292]: There racchaktiśaktimadyugam reads: tacchaktitadvadātmakam.
 
-293?\. Propelled by the intensity of Śakti’s experience, the Yogi transcends his embodied consciousness, so that both may enter the Upper Abode, that is, the ultimate reality which is pure emission (vaisargikadhāmā). Profoundly tranquil and yet perpetually emergent (Sāntoditarūpa), inwardly centred and totally expansive, for it to manifest, both partners must experience its unfolding oneness.
+[^293]: Propelled by the intensity of Śakti’s experience, the Yogi transcends his embodied consciousness, so that both may enter the Upper Abode, that is, the ultimate reality which is pure emission (vaisargikadhāmā). Profoundly tranquil and yet perpetually emergent (Sāntoditarūpa), inwardly centred and totally expansive, for it to manifest, both partners must experience its unfolding oneness.
 
-294?\. This verse is also quoted above in TĀv ad 1/1, with regards to the energies that stream from the five faces of Abhinavagupta’s father, who is Sadāśiva. There Jayaratha identifies them with the five cycles of consciousness governed by the goddesses Vāmeśī etc., who are the energies of sight and the other senses. By doing this, the father’s body is ‘full’ and, having assimilated all phenomena and states of being within his own consciousness, he rests within his own nature. This then should be the condition of both the partners. Taking care to fix their attention on the core of their own consciousness, and attending to the oneness of all the sensations they experience through the senses, they become one with it and one another. The source of this citation is most probably a Krama work.
+[^294]: This verse is also quoted above in TĀv ad 1/1, with regards to the energies that stream from the five faces of Abhinavagupta’s father, who is Sadāśiva. There Jayaratha identifies them with the five cycles of consciousness governed by the goddesses Vāmeśī etc., who are the energies of sight and the other senses. By doing this, the father’s body is ‘full’ and, having assimilated all phenomena and states of being within his own consciousness, he rests within his own nature. This then should be the condition of both the partners. Taking care to fix their attention on the core of their own consciousness, and attending to the oneness of all the sensations they experience through the senses, they become one with it and one another. The source of this citation is most probably a Krama work.
 
-295?\. reads: praveśasaspandajātasaṁikṣobham ~ ‘the arousal brought about by the entry attended by the pulsation (of consciousness) (into the Upper Abode)’.
+[^295]: reads: praveśasaspandajātasaṁikṣobham ~ ‘the arousal brought about by the entry attended by the pulsation (of consciousness) (into the Upper Abode)’.
 
 
 *[p. 308]* ^pg325
 
-The arousal (sarikṣobha) of that couple, brought about by the touch of (one another, which coincides with their) entry into the Upper Abode (of supreme emissive consciousness), arouses the subordinate wheels also (as the Centre expands into the periphery). These are then of that same (supremely conscious) nature — they are certainly not separate (from it). (114cd-115ab) 
+The arousal (sarikṣobha)[^296] of that couple, brought about by the touch of (one another, which coincides with their) entry into the Upper Abode (of supreme emissive consciousness), arouses the subordinate wheels also (as the Centre expands into the periphery). These are then of that same (supremely conscious) nature — they are certainly not separate (from it). (114cd-115ab) 
 
 #### Viveka on 29.114–115
 
 The ‘arousal’ that takes place when (the couple) is engaged in (sexual) union is the plenitude which is the highest degree (atiśaya) of the aesthetic rapture of their own (essential conscious) nature (svātmacamatkāra). It is ‘brought about’ by correctly suppressing the mistaken identification with the body and the rest (of the psychophysical organism) by the progressively increased degree of penetration into the Main Wheel, which is the Mouth of the Yoginī consisting of supreme bliss, and the ‘Upper Abode’. This kind of couple, characterized as power and the powerholder, ‘arouses the subordinate wheels also’. The meaning is that (the couple) should contemplate (parāmṛśet) (them) as being one with (themselves as) that (couple). 
 
-Surely (one may ask), what is the nature of the subordinate wheels, like of one who has entered into (the Upper Abode) by suppressing the mistaken identification with the body and the rest (of the psychophysical organism? With this doubt in mind, it is said that ‘these are then of that same (supremely conscious) nature — they are certainly separate (from it)’. Now (their) arousal is here (in this case) their mutual slapping, embracing, passionate kissing and the like. How is it that here in this way supreme consciousness arises?” 
+Surely (one may ask), what is the nature of the subordinate wheels, like of one who has entered into (the Upper Abode) by suppressing the mistaken identification with the body and the rest (of the psychophysical organism? With this doubt in mind, it is said that ‘these are then of that same (supremely conscious) nature — they are certainly separate (from it)’. Now (their) arousal is here (in this case) their mutual slapping, embracing, passionate kissing and the like. How is it that here in this way supreme consciousness arises?[^297] 
 
 The Climax of the Couple in Union in the Stable Abode of Emission 
 
@@ -694,30 +691,34 @@ The Climax of the Couple in Union in the Stable Abode of Emission
 तद्धुवधामानुत्तरमुभयात्मकजगदुदारसानन्दम् ॥ १९६ ॥
 नो शान्त नाप्युदितं शान्तोदितसूतिकारणं पर कोलम् ।
 
-Sitthai yāmalam etad 
+[^298]itthai yāmalam etad 
 
-galitabhidāsaṁkathaṁi yad eva” syāt | 115 ॥
+galitabhidāsaṁkathaṁi yad eva[^299] syāt | 115 ॥
 kramatāratamyayogāt 
 
 saiva hi saṁvidvisargasaṅghattaḥ |
 taddhruvadhāmānuttaram 
 
-ubhayātmakajagadudārasānandam” || 116 ॥
+ubhayātmakajagadudārasānandam[^300] || 116 ॥
 no śāntar nāpy udita 
 
-296?\. Concerning the nature of this arousal, see above, 3/81cd-90 (82-90).
+[^296]: Concerning the nature of this arousal, see above, 3/81cd-90 (82-90).
 
-297?\. \[illegible\] Read kṣobhaḥ I| kasmād evam for kṣobhaḥ || evam. > Quoted in TSā p. 202-203.
+[^297]: \[illegible\] Read kṣobhaḥ I| kasmād evam for kṣobhaḥ || evam.
 
-298?\. TSa: yadaiva. 3% Ta: -mānandam.
+[^298]: Quoted in TSā p. 202-203.
+
+[^299]: TSa: yadaiva.
+
+[^300]: Ta: -mānandam.
 
 
 *[p. 309]* ^pg326
 
 śāntoditasūtikāranaṁ parar kaulam |
-This couple, from which (all) talk of duality has thus fallen away, is, by virtue of its association with the progressive development of the sequence (of the cycle of consciousness),” consciousness itself, as the union of (their) emission (visarga).” That is the Stable Abode (dhruvadhāman), the Absolute (anuttara), the noble Cosmic Bliss (jagadānanda),"? which is the nature of both. The supreme Kaula (reality) which, neither tranquil (transcendental repose) (śānta) nor (just) emergent (immanence) (udita), is the cause of the birth (of the one reality which is both) tranquil (transcendence) and emergent (immanence). (115cd-117ab 115cd-117ab) 
+This couple, from which (all) talk of duality has thus fallen away, is, by virtue of its association with the progressive development of the sequence (of the cycle of consciousness),[^301] consciousness itself, as the union of (their) emission (visarga).[^302] That is the Stable Abode (dhruvadhāman), the Absolute (anuttara), the noble Cosmic Bliss (jagadānanda),[^303] which is the nature of both. The supreme Kaula (reality)[^304] which, neither tranquil (transcendental repose) (śānta) nor (just) emergent (immanence) (udita), is the cause of the birth (of the one reality which is both) tranquil (transcendence) and emergent (immanence). (115cd-117ab 115cd-117ab) 
 
-‘The union of (their) emission’ is the (form of) emission which is the union (of Śiva and Sakti). ). “The nature of both’ is Cosmic Bliss (jagadānanda), which is the oneness (sāmarasya) of Śiva and Śakti. This the meaning. ‘Tranquil’ means transcendental (lit. ‘beyond the universe’). ‘Emergent’ means immanent (lit. ‘made of the universe’). “The supreme Kaula (reality) is of an extremely secret nature, because it cannot be denoted by terms such as ‘tranquil’ (or) ‘emergent’. This is the meaning. Again, as orgasm (kṣepa) has not been attained, it is not tranquil, and because it is the repose within its own essential nature (after orgasm), it is not emergent. Rather, it is the reality of (pure) undifferentiated consciousness alone, which is the cause of these two states. 
+‘The union of (their) emission’ is the (form of) emission which is the union (of Śiva and Sakti). ). “The nature of both’ is Cosmic Bliss (jagadānanda), which is the oneness (sāmarasya) of Śiva and Śakti. This the meaning. ‘Tranquil’ means transcendental (lit. ‘beyond the universe’). ‘Emergent’ means immanent (lit. ‘made of the universe’). “The supreme Kaula (reality) is of an extremely secret nature, because it cannot be denoted by terms such as ‘tranquil’ (or) ‘emergent’. This is the meaning. Again, as orgasm (kṣepa) has not been attained, it is not tranquil, and because it is the repose within its own essential nature (after orgasm), it is not emergent. Rather, it is the reality of (pure) undifferentiated consciousness alone, which is the cause of these two states.[^305] 
 
 When penetration (āveśa) into that (and by that) takes place, it is essential to pay close attention (to that state of pure consciousness). Thus he says: 
 
@@ -728,22 +729,22 @@ When penetration (āveśa) into that (and by that) takes place, it is essential 
 संविदमात्मसात्सदा कुयीत् ॥ ११७ ॥
 अनवच्छित्रं परमार्थतो हि रूपं चितो देव्याः ।
 
-299?\. I take the word ‘krama’ in the expression ‘kramatāratamya-\* to mean saṁvitkrama, ‘the procession of consciousness’. As we have seen several times before, this consists of the emanation, persistence, withdrawal and the Ineffable, in the domains of the object, means of knowledge, and the subject. Identified with the Twelve Kālis, they do indeed constitute a series of progressively heightened states of consciousness, tending towards oneness. Ultimately, the sequence culminates in the state of pure nondual consciousness, free of all thought constructs, of the supreme perceiver, variously defined in what follows.
+[^301]: I take the word ‘krama’ in the expression ‘kramatāratamya-\* to mean saṁvitkrama, ‘the procession of consciousness’. As we have seen several times before, this consists of the emanation, persistence, withdrawal and the Ineffable, in the domains of the object, means of knowledge, and the subject. Identified with the Twelve Kālis, they do indeed constitute a series of progressively heightened states of consciousness, tending towards oneness. Ultimately, the sequence culminates in the state of pure nondual consciousness, free of all thought constructs, of the supreme perceiver, variously defined in what follows.
 
-300?\. This is the highest of three forms of emission, from which the other two (i.e. fully emergent and tranquil) are derived. See below, 29/140cd ff. This profound conception of the opposites and their conjunctio outlined in these verses is probably also Abhinava’s own. Indeed, one of his great and original contributions is the concept of visarga. We find him returning to it repeatedly throughout his Trika works. Here it is abundantly clear that visarga is also the ejaculation that marks the climax of orgasm, not just the creative dynamism of consciousness. In this passage, Abhinava is talking about the experience the elevated Kaula Siddha and his partner have of orgasm. Indeed, every phase of their play, the first look, caress, kiss and the rest, mark the phases of the expansion of consciousness that thus ultimately attains its perpetual plenitude at its climax.
+[^302]: This is the highest of three forms of emission, from which the other two (i.e. fully emergent and tranquil) are derived. See below, 29/140cd ff. This profound conception of the opposites and their conjunctio outlined in these verses is probably also Abhinava’s own. Indeed, one of his great and original contributions is the concept of visarga. We find him returning to it repeatedly throughout his Trika works. Here it is abundantly clear that visarga is also the ejaculation that marks the climax of orgasm, not just the creative dynamism of consciousness. In this passage, Abhinava is talking about the experience the elevated Kaula Siddha and his partner have of orgasm. Indeed, every phase of their play, the first look, caress, kiss and the rest, mark the phases of the expansion of consciousness that thus ultimately attains its perpetual plenitude at its climax.
 
-301?\. This is the highest of the seven levels of bliss described above in 5/44-52ab, that Abhinava tells us he learnt from Śambhunātha.
+[^303]: This is the highest of the seven levels of bliss described above in 5/44-52ab, that Abhinava tells us he learnt from Śambhunātha.
 
-302?\. ‘Kaula’ is both Śiva who is Akula, and Śakti, who is Kula.
+[^304]: ‘Kaula’ is both Śiva who is Akula, and Śakti, who is Kula.
 
-303?\. See below, 29/140, where these three — union, emergence and rest — are equated to three forms of emission (visarga). Cf. above, 3/21 5cd-219.
+[^305]: See below, 29/140, where these three — union, emergence and rest — are equated to three forms of emission (visarga). Cf. above, 3/21 5cd-219.
 
 
 *[p. 310]* ^pg327
 
 anavacchinnapadepsus 
 
-tām saṁvidam ātmasāt sadā kuryāt \\\\ 117 ॥
+tām saṁvidam ātmasāt sadā kuryāt[^306] \\\\ 117 ॥
 anavacchinnaṁ paramā- 
 
 rthato hi rūpaṁ cito devyāḥ | 
@@ -780,29 +781,31 @@ The fortunate one should enter into the unconditioned Abode of Emission by caref
 
 ‘The coming into being (bhāva) and falling away (vilaya)’, that is, arising and non-arising of the two forms (of consciousness) which are ‘tranquillity and emergence’, that cannot be taught (to others) because their sole nature is one’s own (personal) experience alone, and so (for want of better words are said to be) “‘like this’ and ‘like that”. (The Vijñānabhairava teaches that): 
 
-‘When one thing” has been concealed (nyakte) (or abandoned), and consciousness has been (firmly) checked, it should not move on to something else. Then meditation (bhāvanā)\* blossoms forth intensely (ati) by virtue of 
+‘When one thing[^307] has been concealed (nyakte) (or abandoned), and consciousness has been (firmly) checked, it should not move on to something else. Then meditation (bhāvanā)[^308] blossoms forth intensely (ati) by virtue of 
 
-304?\. TSā: ātmasāt kuryāt | 29/1 1 8ab-119ab is missing in the TSā. The reading here (bhāve tyakte) is the one in Ānandabhatta’s version and is accepted by Swami Lakshmanjoo. Śivopādhyāya’s version of the VBh reads bhāve nyakte. The word nyaktam is derived from the root nyañj (1Ā) in the sense of ‘to creep in or ‘conceal oneself among’ (loc.) (Monier Williams). Śivopādhyāya supplies additional meanings.
+[^306]: TSā: ātmasāt kuryāt | 29/1 1 8ab-119ab is missing in the TSā.
 
-305?\. Read vikasaty atibhāvanā for vikasatyati bhāvanā.
+[^307]: The reading here (bhāve tyakte) is the one in Ānandabhatta’s version and is accepted by Swami Lakshmanjoo. Śivopādhyāya’s version of the VBh reads bhāve nyakte. The word nyaktam is derived from the root nyañj (1Ā) in the sense of ‘to creep in or ‘conceal oneself among’ (loc.) (Monier Williams). Śivopādhyāya supplies additional meanings.
+
+[^308]: Read vikasaty atibhāvanā for vikasatyati bhāvanā.
 
 
 *[p. 311]* ^pg328
 
-(the emptiness of) the state (free of thought) in the centre (between) them (tanmadhyabhāvena).[^306] 
+(the emptiness of) the state (free of thought) in the centre (between) them (tanmadhyabhāvena).[^309] 
 
-[^306]: \[illegible\] VBh 62 (61). Generally, the word ‘bhāva’ is understood here to mean a phenomenal entity. In that case, the practice is to allow one’s attention (= consciousness) to desist from attending to some entity and prevent it from moving on to attend to another, as normally happens in the course of perception. In this way, a state of meditative absorption that transcends the usual perception of objects develops in the centre between the two. In this case, the word ‘bhāva’ may also be understood to mean ‘state’, that is, the state of tranquil repose within consciousness, and that of its emergence out of that into perception. But this is not the way either of the two commentators understand it. Ānandabhatṭa: ekasmin vastuni svīkṛte niruddhā cit naiva bhāvāntara vrajet anyadvastuni na vrajet tatra tanmadhye śŭnyarūpasthityā bhāvanā ativikasati adbhutaphullanyāyena manaś cātivikāsatvari yāyāt — brahmaiva saripadyata ity arthaḥ ॥ “When one thing has been selected, the consciousness that ‘has been (firmly) checked’ ‘should not move on to something else’. (The meaning is that) it should not move on to another entity. There, in the centre between them, by virtue of its condition as Void by nature (Sūnyarūpa), meditation unfolds intensely (arivikasati), on the analogy of the (eyes) dilated (by the sight of something) astonishing. So too the mind becomes extremely expanded. The meaning is that the Brahman itself is attained.’ Śivopādhyāya: nyakte antarhite — adṛṣte bhāve padārthe trinetracaturbhujādyākāre dhyeyavastuni, cit cetanā niruddhā abhyāsapātavena nitarāṁ ruddhvā sthāpitā satī, bhāvāntaram anyapadārtha dṛṣtadehaghajādikaḥ naiva vrajet | nyaktaṁ —vruditaḥ tirohitam ~ antarhitam iti vedabhāsyakāraḥ | nyaktam iti chāndasaḥ prayogaḥ | bhāve = vyakte iti pāthe tu akārapraśleṣenṇāpi avyakte iti pūrvokta eva arthaḥ | evar sāūlambanadhyānayoge api dhyātṛdhyāne parityajya kramād dhyeyaikagocaram | nivātadīpavac citta samādhir abhidhīyate ॥ iti yogaśāstranītyā dhyātṛdhyāne vihāya, dhyeyanirālambanaśūnyamadhyadhāma-viśrānteh upeyatvāt, tayoḥ vyaktāvyaktayoḥ bhāvayoḥ madhyabhāvena na kińcid rūpa (> rūpaṁ) madhyadhāmaviśrāntyā bhāvanā madhyadaśāviśrāntisaiskāraḥ, atiśayena vikasati udbodham कव tena vyaktāvyaktabhāvadvayādimadhyānta-daśāvyāpakataddvayaikānusaridhātrcinmātrarūpamadhyaviśrāntih bhavet ity arthaḥ || “When one thing is submerged’ (means) when an entity which is an object of meditation (i.e. a visualized deity), the form of which possesses three eyes and four arms or the like, is hidden away and unseen, and ‘consciousness’, that is, awareness (cetanā) ‘has been (firmly) checked’ by the proficiency of practice. Once it has been very well fixed and (thus well) established, ‘it should not move on to something else’, that is, (to some) other entity such as a body, a jar and the like, that has been perceived. The Vedic commentator (has defined the meaning of) nyaktam (submerged) to be ‘immersed’ (vrudita), ‘obscured’ (tirohita) and ‘hidden away’ (antarhita). ‘nyaktam’ (also means) ‘making use of a metre’ (i.e. setting lines to verse). In the case of the reading bhāve vyakte, by adding the letter A (to the vyakte) (which was dropped in accord with with the rules of sandhi), (we arrive at the form) avyakte (‘unmanifest’), with (effectively the same) aforementioned meaning (i.e. when one thing (becomes) unmanifest . . .). Similarly, in the case of Yoga based on meditation with support (it is said): ‘Having gradually abandoned the meditator and meditation (itself), the mind, the sole field of which is the object of meditation, (steady) like the flame (of a lamp where there is) no wind, is said to be (absorbed in) contemplative trance (samādhi). Thus, abandoning the meditator and meditation (itself), in accord with the teaching of the texts on Yoga, because repose in the Middle Abode which is the Void unsupported by an object of meditation is the goal, by virtue of the middle state (between) those two states, manifest and unmanifest, they have no form at all. By resting in the Middle Abode, meditation (bhāvanā), that is, the residual trace (saṁskāra) of (the state of) repose in the middle state, blossoms forth extensively (atiśayena) and is awakened. The meaning is that (a state of) repose arises in the centre, the nature of which is the (pure) consciousness alone of the one perceiver of the two (who connects them together) and pervades the inner state in the centre of the two, that is, the manifest and unmanifest condition.”
+[^309]: \[illegible\] VBh 62 (61). Generally, the word ‘bhāva’ is understood here to mean a phenomenal entity. In that case, the practice is to allow one’s attention (= consciousness) to desist from attending to some entity and prevent it from moving on to attend to another, as normally happens in the course of perception. In this way, a state of meditative absorption that transcends the usual perception of objects develops in the centre between the two. In this case, the word ‘bhāva’ may also be understood to mean ‘state’, that is, the state of tranquil repose within consciousness, and that of its emergence out of that into perception. But this is not the way either of the two commentators understand it. Ānandabhatṭa: ekasmin vastuni svīkṛte niruddhā cit naiva bhāvāntara vrajet anyadvastuni na vrajet tatra tanmadhye śŭnyarūpasthityā bhāvanā ativikasati adbhutaphullanyāyena manaś cātivikāsatvari yāyāt — brahmaiva saripadyata ity arthaḥ ॥ “When one thing has been selected, the consciousness that ‘has been (firmly) checked’ ‘should not move on to something else’. (The meaning is that) it should not move on to another entity. There, in the centre between them, by virtue of its condition as Void by nature (Sūnyarūpa), meditation unfolds intensely (arivikasati), on the analogy of the (eyes) dilated (by the sight of something) astonishing. So too the mind becomes extremely expanded. The meaning is that the Brahman itself is attained.’ Śivopādhyāya: nyakte antarhite — adṛṣte bhāve padārthe trinetracaturbhujādyākāre dhyeyavastuni, cit cetanā niruddhā abhyāsapātavena nitarāṁ ruddhvā sthāpitā satī, bhāvāntaram anyapadārtha dṛṣtadehaghajādikaḥ naiva vrajet | nyaktaṁ —vruditaḥ tirohitam ~ antarhitam iti vedabhāsyakāraḥ | nyaktam iti chāndasaḥ prayogaḥ | bhāve = vyakte iti pāthe tu akārapraśleṣenṇāpi avyakte iti pūrvokta eva arthaḥ | evar sāūlambanadhyānayoge api dhyātṛdhyāne parityajya kramād dhyeyaikagocaram | nivātadīpavac citta samādhir abhidhīyate ॥ iti yogaśāstranītyā dhyātṛdhyāne vihāya, dhyeyanirālambanaśūnyamadhyadhāma-viśrānteh upeyatvāt, tayoḥ vyaktāvyaktayoḥ bhāvayoḥ madhyabhāvena na kińcid rūpa (> rūpaṁ) madhyadhāmaviśrāntyā bhāvanā madhyadaśāviśrāntisaiskāraḥ, atiśayena vikasati udbodham कव tena vyaktāvyaktabhāvadvayādimadhyānta-daśāvyāpakataddvayaikānusaridhātrcinmātrarūpamadhyaviśrāntih bhavet ity arthaḥ || “When one thing is submerged’ (means) when an entity which is an object of meditation (i.e. a visualized deity), the form of which possesses three eyes and four arms or the like, is hidden away and unseen, and ‘consciousness’, that is, awareness (cetanā) ‘has been (firmly) checked’ by the proficiency of practice. Once it has been very well fixed and (thus well) established, ‘it should not move on to something else’, that is, (to some) other entity such as a body, a jar and the like, that has been perceived. The Vedic commentator (has defined the meaning of) nyaktam (submerged) to be ‘immersed’ (vrudita), ‘obscured’ (tirohita) and ‘hidden away’ (antarhita). ‘nyaktam’ (also means) ‘making use of a metre’ (i.e. setting lines to verse). In the case of the reading bhāve vyakte, by adding the letter A (to the vyakte) (which was dropped in accord with with the rules of sandhi), (we arrive at the form) avyakte (‘unmanifest’), with (effectively the same) aforementioned meaning (i.e. when one thing (becomes) unmanifest . . .). Similarly, in the case of Yoga based on meditation with support (it is said): ‘Having gradually abandoned the meditator and meditation (itself), the mind, the sole field of which is the object of meditation, (steady) like the flame (of a lamp where there is) no wind, is said to be (absorbed in) contemplative trance (samādhi). Thus, abandoning the meditator and meditation (itself), in accord with the teaching of the texts on Yoga, because repose in the Middle Abode which is the Void unsupported by an object of meditation is the goal, by virtue of the middle state (between) those two states, manifest and unmanifest, they have no form at all. By resting in the Middle Abode, meditation (bhāvanā), that is, the residual trace (saṁskāra) of (the state of) repose in the middle state, blossoms forth extensively (atiśayena) and is awakened. The meaning is that (a state of) repose arises in the centre, the nature of which is the (pure) consciousness alone of the one perceiver of the two (who connects them together) and pervades the inner state in the centre of the two, that is, the manifest and unmanifest condition.”
 
 *[p. 312]* ^pg329
 
 By (carefully attending, that is,) reflecting all around (in all respects) in this way, ‘the fortunate one should enter into the unconditioned Abode of Emission’, so that he may achieve (in the course of orgasm) a direct experience of his own consciousness, which is full supreme consciousness. This is the meaning. 
 
-Surely (one may ask, agreed), let that be so (as you say, but then) how do the two forms (of consciousness,) tranquil and emergent (Sāntodita)," arise? (Do they arise) as present within power, or else as present within the powerholder? With this doubt in mind, he says: 
+Surely (one may ask, agreed), let that be so (as you say, but then) how do the two forms (of consciousness,) tranquil and emergent (Sāntodita),[^310] arise? (Do they arise) as present within power, or else as present within the powerholder? With this doubt in mind, he says: 
 
 ### TĀ 29.119
 
 शान्तोदितात्मक द्रयमथ युगपददेति शक्तिशक्तिमतोः ॥ ११९ ॥
-sāntoditātmakai dvayam” 
+sāntoditātmakai dvayam[^311] 
 
 atha yugapad udeti śaktiśaktimatoḥ ॥ 119 ॥ 
 
@@ -827,9 +830,9 @@ The emergent form (is consciousness) in the abode of each other, (passing from o
 
 As their mutual intent on one another does not cease, ‘the emergent form’ of (both) power and the powerholder manifests as the encompassing oneness of the Abode which is each one’s own Main Wheel. Again, the tranquil (form) is present only within one’s own Self. As that is so, the repose within one’s own Self may (also) arise in the same way within the other.? 
 
-310\. One can understand this expression variously to mean ‘passive and active’, ‘quiescent and arisen’, ‘transcendent and immanent’, ‘inwardly focused and outwardly focused’, etc.
+[^310]: One can understand this expression variously to mean ‘passive and active’, ‘quiescent and arisen’, ‘transcendent and immanent’, ‘inwardly focused and outwardly focused’, etc.
 
-311\. TS p. 203 TSā: -ātmakadvayam.
+[^311]: TS p. 203 TSā: -ātmakadvayam.
 
 
 *[p. 313]* ^pg330
@@ -906,19 +909,18 @@ Therefore, the teacher should correctly transmit the Kula teaching (kulārtha) t
 ‘Therefore’, (the teacher should first teach a woman,) because (her) Central (Abode is in constantly) expanding. This is the meaning. (Then,) ‘through her’, that is, by the mouth of Śakti, (he should teach men,) because 
 
 [^313]: Although one can translate the word ‘sāstra’ as scripture, as I have done, it may also denote the entire body of teachings transmitted by a school of philosophy or a science such as Ayurveda or astrology. Here, as in many other places, it denotes the Tantric tradition to which Abhinava adheres, that is, Trikaśāstra.
+
 [^314]: A man’s Central Abode does not expand by itself without Śakti. See above, 5/58cd ff. Swami Lakshmanjoo once explained to me that it is for this reason that two women together can experience emission in this way but not two men. As the consonants are symbolically considered to be feminine (yoni), according to him, the conjunct consonant KS symbolizes this union, and so represents the full expansion of consciousness (pūrnavikāsa). In 119c-122b, we are told that, although in Kaula sexual union both partners simultaneously experience a state of emission that is both quiescent (inwardly focused) and active (through ejaculation), only the woman can conceive, and that it is for this reason that she has been said to be ‘one whose centre expands’. Jayaratha explains ad 29/122cd-123ab that the reason why males cannot conceive is that they lack this expansion. The nature of this expansion is not clarified here, but it is surely associated with the bliss of emission (visargānanda) mentioned above in 5/72cd-73ab) (72). Women are endowed by nature with the capacity to experience sexual climax of a much greater intensity than that accessible to men, which explains both their greater ability to experience in Kaula practice the blissful ascent through the central channel (madhyadhāma, suṣumnā) of the fire of the vital energy termed udāna and their unique ability to conceive.
 
 *[p. 315]* ^pg332
 
 the Central Abode (madhyapada) of men does not expand fully (pravikāsa) (by itself alone). This is the sense (of this verse). (It is said) with the same intended sense: 
 
-‘the wise man should place (the teaching) in a woman’s mouth and then take it again from there". 
+‘the wise man should place (the teaching) in a woman’s mouth and then take it again from there".[^315] 
 
 Moreover, it is (also) said: 
 
-‘accomplishment (siddhi) comes from a woman’s mouth. (For) within (women) that state is well perfected. 
-
-73५ 
+‘accomplishment (siddhi) comes from a woman’s mouth. (For) within (women) that state is well perfected.[^316] 
 
 That is also said by (our venerable) teacher. Thus he says: 
 
@@ -932,19 +934,21 @@ vabhāvitām iti tataḥ prāha ॥ 123 I|
 srīmatkallaṭanāthaḥ 
 
 proktasamastārthalabdhaye vākyam |
-In order to summarize all that has been said (up to here), the venerable Kallaṭanātha has declared (that she) ‘is sanctified (bhāvitā) by the superior nature of her own body.” (123cd-124ab) 
+In order to summarize all that has been said (up to here), the venerable Kallaṭanātha has declared (that she) ‘is sanctified (bhāvitā) by the superior nature of her own body.”[^317] (123cd-124ab) 
 
 #### Viveka on 29.123–124
 
-‘The venerable Kallaṭanātha has said’ (this) ‘in order to summarize all that has been said’ previously, commencing with the characteristics of a Śakti, namely, that the teacher should adopt (lit. ‘make’) a Sakti that is superior to his own body, because (her) Central Abode is (constantly) spontaneously expanding, and so ʻis sanctified’, that is, purified by (her own) good nature. This is the meaning of (this) statement.’ 
+‘The venerable Kallaṭanātha has said’ (this) ‘in order to summarize all that has been said’ previously, commencing with the characteristics of a Śakti, namely, that the teacher should adopt (lit. ‘make’) a Sakti that is superior to his own body, because (her) Central Abode is (constantly) spontaneously expanding, and so ʻis sanctified’, that is, purified by (her own) good nature. This is the meaning of (this) statement.[^318] 
 
 Having had occasion to talk about this by the way, he now (returns to) talk about the (main) point. 
 
-315\. Ormikaulārnava 3/108ab. This line is also quoted above in TĀv ad 1/16. Read as above and the Ọrmikaulārnava punaḥ ('again’\`) for priye ('O beloved’).
+[^315]: Ormikaulārnava 3/108ab. This line is also quoted above in TĀv ad 1/16. Read as above and the Ọrmikaulārnava punaḥ ('again’\`) for priye ('O beloved’).
 
-316\. This line cannot be traced in the extant Ürmikaulārnava. \`The unrecovered Tartvārthacintāmani is the only work which we are repeatedly told was written by Kallaṭabhaṭṭa. Jayaratha quotes from it in several places (see above, note 28,316). Here, he does not, and so it is uncertain whether this line is drawn from there. Perhaps this is another work by Kallaṭa, but this seems unlikely, as we have no other references to it. Anyway, this reference proves that he and his tradition, with which the Sivasūtra and Spandakārikā, are associated, have, as one would expect, deep Kaula roots.
+[^316]: This line cannot be traced in the extant Ürmikaulārnava.
 
-317\. \[illegible\] The expansion of consciousness in the centre (madhyavikāsa) occurs in women spontaneously, and they are thereby purified in a way superior to any form of purification of the male disciple’s body.
+[^317]: The unrecovered Tartvārthacintāmani is the only work which we are repeatedly told was written by Kallaṭabhaṭṭa. Jayaratha quotes from it in several places (see above, note 28,316). Here, he does not, and so it is uncertain whether this line is drawn from there. Perhaps this is another work by Kallaṭa, but this seems unlikely, as we have no other references to it. Anyway, this reference proves that he and his tradition, with which the Sivasūtra and Spandakārikā, are associated, have, as one would expect, deep Kaula roots.
+
+[^318]: \[illegible\] The expansion of consciousness in the centre (madhyavikāsa) occurs in women spontaneously, and they are thereby purified in a way superior to any form of purification of the male disciple’s body.
 
 
 *[p. 316]* ^pg333
@@ -961,7 +965,7 @@ tatraiṣa sampradāyas
 
 tasmāt sarṁṁprāpyate jñānam | 
 
-The Great Lord has said that the Main Wheel is the Mouth of the Yoginī. This tradition (saṁpradāya) is there, and from that knowledge is obtained. (124cd-125ab) 
+The Great Lord has said that the Main Wheel is the Mouth of the Yoginī.[^319] This tradition (saṁpradāya) is there, and from that knowledge is obtained. (124cd-125ab) 
 
 #### Viveka on 29.124–125
 
@@ -985,11 +989,11 @@ It is said that this (knowledge) cannot be set to writing, but passes from mouth
 
 #### Viveka on 29.125–126
 
-‘It cannot be set to writing’ means that it is impossible to conceive it. Surely (one may ask), that (knowledge) passes from mouth to mouth. How is it (then, that) it is said that that cannot be set to writing? With his doubt in mind, he says ‘in the manner taught’ etc. Again, ‘the Great Lord has said that the mouth is indeed the Main Wheel, that is, the Mouth of the Yogini . . .' For the thus stated reason, the mouth? is said to be the principal Wheel. Arising in the (sexual) union of both, how could one’s own consciousness, the essence of which is simply one’s own experience, be written? 
+‘It cannot be set to writing’ means that it is impossible to conceive it. Surely (one may ask), that (knowledge) passes from mouth to mouth. How is it (then, that) it is said that that cannot be set to writing? With his doubt in mind, he says ‘in the manner taught’ etc. Again, ‘the Great Lord has said that the mouth is indeed the Main Wheel, that is, the Mouth of the Yogini . . .' For the thus stated reason, the mouth[^320] is said to be the principal Wheel. Arising in the (sexual) union of both, how could one’s own consciousness, the essence of which is simply one’s own experience, be written? 
 
-318\. The text Abhinava is citing here is quoted below ad 29/125cd-126ab.
+[^319]: The text Abhinava is citing here is quoted below ad 29/125cd-126ab.
 
-319\. Read vakrar for vaktra.
+[^320]: Read vakrar for vaktra.
 
 
 *[p. 317]* ^pg334
@@ -1008,25 +1012,25 @@ prācyār visargasattām
 anavacchidi te pade rūdhāḥ |
 Now, those who, within this two-fold abode, tranquil and emergent, (thus) emitted (sṛsta), ), attend to the essential being of emission (visargasattā) that 
 
-precedes (them),’ ). become firmly fixed on the (supreme) unconditioned plane. (126cd-127ab) 
+precedes (them),[^321] become firmly fixed on the (supreme) unconditioned plane. (126cd-127ab) 
 
 #### Viveka on 29.126–127
 
-The word ‘now’ marks the reply (to the question). Thus, this abode, its nature as explained previously, is, because it is tranquil and emergent, of two kinds. It has been ‘emitted’, that is, has (spontaneously) poured forth by itself,”? in accord with the teaching (of the Iśvarapratyabhijñā, according to which): 
+The word ‘now’ marks the reply (to the question). Thus, this abode, its nature as explained previously, is, because it is tranquil and emergent, of two kinds. It has been ‘emitted’, that is, has (spontaneously) poured forth by itself,[^322] in accord with the teaching (of the Iśvarapratyabhijñā, according to which): 
 
-‘(The Lord, by virtue of His freedom, which is the absence of duality, having fashioned (his own)) Self (ātman), that (abides) unforsaken (by that) freedom, (with notions that He is the Lord (Īśa) and the like, behaves (as such in daily life)). 
+‘(The Lord, by virtue of His freedom, which is the absence of duality, having fashioned (his own)) Self (ātman), that (abides) unforsaken (by that) freedom, (with notions that He is the Lord (Īśa) and the like, behaves (as such in daily life)).[^323] 
 
 There are those who, within (this abode of consciousness,) ‘attend to the essential being of emission (visargasattā) that precedes (them)’ ) and is the cause of these two states and their dynamic union (saṁghatta). (In other words,) they reflect that ‘all this has as its the essence just the expansion (sphāra) of that (emission}’, in accord with the teaching that: 
 
-‘The supreme Kaula (reality) which, neither tranquil (transcendental repose) (Santa) ) nor (just) emergent (immanence) (udita), is the cause of the birth (of the one reality which is both) tranquil (transcendence) and emergent (immanence).”?\* 
+‘The supreme Kaula (reality) which, neither tranquil (transcendental repose) (Santa) ) nor (just) emergent (immanence) (udita), is the cause of the birth (of the one reality which is both) tranquil (transcendence) and emergent (immanence).”[^324] 
 
-320\. This is the initial moment of orgasm as well as emissive power (visargaśakti) of consciousness about to pour out into creation.
+[^321]: This is the initial moment of orgasm as well as emissive power (visargaśakti) of consciousness about to pour out into creation.
 
-321\. Read svayaṁ samullāsite for svasamullāsite.
+[^322]: Read svayaṁ samullāsite for svasamullāsite.
 
-322\. 1/5/16a. Quoted in full above ad 1/72 (73) (see note there) and ad 3/227cd-278ab (277), 9/159 (1/5/16a), 11/10cd-12ab, and 11/28. Torella 2013: 122 n 33 quotes Abhinava (ĪPVv 1 p. 108) as saying: ‘although freedom and dependence are two diametrically opposed realities and mutually exclude one another, Parameśvara in his supreme freedom combines them (yojayati) when he creates differentiated perceptions such as Ivara, the Self etc. Their objective (idantā) component makes them able to become the object of meditation, worship, teaching and so on, and, on the other, their unveiled, subjective (ahantā) component ensures the attainment of their true nature.”
+[^323]: 1/5/16a. Quoted in full above ad 1/72 (73) (see note there) and ad 3/227cd-278ab (277), 9/159 (1/5/16a), 11/10cd-12ab, and 11/28. Torella 2013: 122 n 33 quotes Abhinava (ĪPVv 1 p. 108) as saying: ‘although freedom and dependence are two diametrically opposed realities and mutually exclude one another, Parameśvara in his supreme freedom combines them (yojayati) when he creates differentiated perceptions such as Ivara, the Self etc. Their objective (idantā) component makes them able to become the object of meditation, worship, teaching and so on, and, on the other, their unveiled, subjective (ahantā) component ensures the attainment of their true nature.”
 
-323\. Above, 29/117ab.
+[^324]: Above, 29/117ab.
 
 
 *[p. 318]* ^pg335
@@ -1037,7 +1041,7 @@ Having explained this in this way that applies to those who aspire to liberation
 
 ### TĀ 29.127–128
 
-ये सिद्धिमाप्तुकामास्तेऽभ्युदितं रूपमाहरेयुरथो ॥ eaten’,[^326] ॥
+ये सिद्धिमाप्तुकामास्तेऽभ्युदितं रूपमाहरेयुरथो ॥ eaten’, ॥
 तेनैव पूजयेयु : संवित्रैकस्यशुद्धतमवपुषा ।
 
 ye siddhim āptukāmās 
@@ -1051,7 +1055,7 @@ Now, those who wish to attain (worldly) accomplishment (siddhi) should eat the a
 
 #### Viveka on 29.127–128
 
-‘Those who wish to attain (worldly) accomplishment (siddhi) such as the (healthy) stability (and longevity) of the body, ‘should eat the arisen (ejaculated) form (of that emission) (abhyudita)’, which is variously called kundagolaka[^324] and the like. Now, ‘they should worship’ ‘with that’ arisen (ejaculated) form (abhyudita), which is ‘most pure’ because of its proximity to consciousness, consisting as it does of bliss, and the Veda declares ‘bliss is the nature of the Brahman’.[^325] So, in accord with the teaching that ‘therefore, that which is not very distant from consciousness is pure and should be eaten’,?” it should be offered as a libation to the Wheel of the Goddess. This is the meaning. 
+‘Those who wish to attain (worldly) accomplishment (siddhi) such as the (healthy) stability (and longevity) of the body, ‘should eat the arisen (ejaculated) form (of that emission) (abhyudita)’, which is variously called kundagolaka[^325] and the like. Now, ‘they should worship’ ‘with that’ arisen (ejaculated) form (abhyudita), which is ‘most pure’ because of its proximity to consciousness, consisting as it does of bliss, and the Veda declares ‘bliss is the nature of the Brahman’.[^326] So, in accord with the teaching that ‘therefore, that which is not very distant from consciousness is pure and should be eaten’,[^327] it should be offered as a libation to the Wheel of the Goddess. This is the meaning. 
 
 And how should it be eaten etc. here (in this case)? With this doubt in mind, he says: 
 
@@ -1067,40 +1071,42 @@ ajarāmarapadadāna-
 
 pravaṇar kulasarijñitaṁ paramam | 
 
-[^324]: See above, note 1,77.
-[^325]: Jayaratha quotes this statement in his commentary on 1/242, ad 3/71 (71cd-72ab), ad 3/92cd- 93ab, ad 4/139, ad 28/332ab, ad 29/97cd-98ab, and ad 29/127cd-128ab.
-[^326]: This line corresponds to 4/243ab above. There the reading is not quite the same, resulting in the meaning: ‘therefore, that which is not very distant from consciousness imparts purity’. See note there.
+[^325]: See above, note 1,77.
+
+[^326]: Jayaratha quotes this statement in his commentary on 1/242, ad 3/71 (71cd-72ab), ad 3/92cd- 93ab, ad 4/139, ad 28/332ab, ad 29/97cd-98ab, and ad 29/127cd-128ab.
+
+[^327]: This line corresponds to 4/243ab above. There the reading is not quite the same, resulting in the meaning: ‘therefore, that which is not very distant from consciousness imparts purity’. See note there.
 
 *[p. 319]* ^pg336
 
-That (ejaculate is) also (taken) from the main mouth and passes mutually (from mouth to) mouth. For it is said that it is the supreme (sacrificial substance) called Kula,” which bestows the plane (of being that is) free of old age and death. (128cd-129ab) 
+That (ejaculate is) also (taken) from the main mouth and passes mutually (from mouth to) mouth. For it is said that it is the supreme (sacrificial substance) called Kula,[^328] which bestows the plane (of being that is) free of old age and death. (128cd-129ab) 
 
 #### Viveka on 29.128–129
 
 ‘And that’ arisen (ejaculated) form (of emission) (abhyudita) is present in the body, and so is ‘termed Kula’ (as is the body), thus it is ‘supreme’, in accord with the teaching that: ‘the (sacrificial) substance present within one’s own body is the auspicious and most excellent alchemical elixir (rasāyana).; Thus, in accord with (the following) teaching, ‘it bestows the plane (of being that is) free of old age and death’: 
 
-‘Called ‘worship’, it is auspicious” (śiva), and honoured by the gods, it is always enjoined (for consumption). By just eating it, a man become immortal. Or else, O Goddess, the man who eats it regularly, mixed (with other sacrificial substances,) is free of wrinkles and grey hair and is dear to the Yoginis.” 
+‘Called ‘worship’, it is auspicious[^329] (śiva), and honoured by the gods, it is always enjoined (for consumption). By just eating it, a man become immortal. Or else, O Goddess, the man who eats it regularly, mixed (with other sacrificial substances,) is free of wrinkles and grey hair and is dear to the Yoginis.” 
 
 ‘It is said’ in all the scriptures (that it is taken) ‘from the principal mouth’, which is the Yoginī’s mouth, and ‘passes mutually (from mouth to) mouth’, that is, from one to the other (back and forth). This is the meaning. That (goes) from the YoginT’s mouth into one’s own mouth and then again into the Śakti’s mouth and then into one’s own. After that it should be cast into the sacrificial vessel (arghapātra) etc. As the scripture also (says): 
 
-‘Once the male seed (golaka) has been made to flow (vidrāvya) there, and so too the female blood (kunda) that is in the middle of the body,” laying hold of (that) great substance (i.e. the mixed fluids) present in the body (of the female partner) with (his) mouth, once it is placed again in her mouth and then again in his own, he should fill the sacrificial vessel with that, mixed with excellent liquor (mahāli). Prepare thus the sacrificial vessel (arghapātra), that bestows the fruit of every accomplishment.” 
+‘Once the male seed (golaka) has been made to flow (vidrāvya) there, and so too the female blood (kunda) that is in the middle of the body,[^330] laying hold of (that) great substance (i.e. the mixed fluids) present in the body (of the female partner) with (his) mouth, once it is placed again in her mouth and then again in his own, he should fill the sacrificial vessel with that, mixed with excellent liquor (mahāli). Prepare thus the sacrificial vessel (arghapātra), that bestows the fruit of every accomplishment.”[^331] 
 
-327\. The word ‘kula’ denotes, amongst other things, this Kaula sacrificial substance.
+[^328]: The word ‘kula’ denotes, amongst other things, this Kaula sacrificial substance.
 
-328\. Read Sivaṁ for sivaḥ.
+[^329]: Read Sivaṁ for sivaḥ.
 
-329\. The ‘middle of the body’ probably refers to the location of the Yoni, from which the ejaculate mixed with menstrual blood is drawn by the male partner.
+[^330]: The ‘middle of the body’ probably refers to the location of the Yoni, from which the ejaculate mixed with menstrual blood is drawn by the male partner.
 
-330\. See above, 29/22ab. This passage is JY 3/1 1/30cd-32 (MSs K 79a Kh 63a G 96b MS Gh 76b- 77a). The only variant is ‘nirūpayer’ — ‘observe’ for \*prapūrayer’ — ‘fill’, but that is clearly an erroneous reading. This practice is done by an avadhūta in a cremation ground or other appropriate place. The passage is introduced accordingly: gatvā pitrvanaṁ bhīmaṁ mātṛgṁam athāpi vā 28 ॥ gurugṁaṁ \[k, kh: -grha; gh: -grho\] maheśāni \[k, kh: matheśāni\] dūtiyuktaḥ \[k: drūti-\] prasannadhīḥ | 79a) svālaṁkṛtāṁ \[kh: strīlaṁ-\] tu (tar kṛtvā candanāgurucarcitāīm \[kh: -tāhJ II 29 ॥ palālibharitau \[k: -paritau\] dvau tu kṣobhayet kundagolakau | ‘O Maheśānī, (the practitioner) whose mind is well disposed, and in the company of (his) Kaula consort (dūri), first goes to a frightening cemetery, or else to a temple of the Mothers, or the teacher’s house. Then, having adorned her well and smeared her with sandalwood and musk, he should arouse (and thereby produce) the two (sexual fluids), male (golaka) and female (kunda), (that are offered) augmented with meat and wine.’ JY 3/1 1/28¢d-30ab
+[^331]: See above, 29/22ab. This passage is JY 3/1 1/30cd-32 (MSs K 79a Kh 63a G 96b MS Gh 76b- 77a). The only variant is ‘nirūpayer’ — ‘observe’ for \*prapūrayer’ — ‘fill’, but that is clearly an erroneous reading. This practice is done by an avadhūta in a cremation ground or other appropriate place. The passage is introduced accordingly: gatvā pitrvanaṁ bhīmaṁ mātṛgṁam athāpi vā 28 ॥ gurugṁaṁ \[k, kh: -grha; gh: -grho\] maheśāni \[k, kh: matheśāni\] dūtiyuktaḥ \[k: drūti-\] prasannadhīḥ | 79a) svālaṁkṛtāṁ \[kh: strīlaṁ-\] tu (tar kṛtvā candanāgurucarcitāīm \[kh: -tāhJ II 29 ॥ palālibharitau \[k: -paritau\] dvau tu kṣobhayet kundagolakau | ‘O Maheśānī, (the practitioner) whose mind is well disposed, and in the company of (his) Kaula consort (dūri), first goes to a frightening cemetery, or else to a temple of the Mothers, or the teacher’s house. Then, having adorned her well and smeared her with sandalwood and musk, he should arouse (and thereby produce) the two (sexual fluids), male (golaka) and female (kunda), (that are offered) augmented with meat and wine.’ JY 3/1 1/28¢d-30ab
 
 
 *[p. 320]* ^pg337
 
-3%Having extracted the Great Juice by applying the procedure of ‘mouth to mouth’, he should offer libation with that to the assembly (cakra) of deities and heroes.” 
+[^332]Having extracted the Great Juice by applying the procedure of ‘mouth to mouth’, he should offer libation with that to the assembly (cakra) of deities and heroes.”[^333] 
 
 ‘Then once having aroused the consort (dūti) and his desire is (also) aroused, he should (engage in mutually) feeding one another with the substance collected and generated from that.’ 
 
-‘In that way he should worship the Mantras and Vidyās with the vital seed (vīrya) that arises from both.’ 
+‘In that way he should worship the Mantras and Vidyās[^334] with the vital seed (vīrya) that arises from both.’ 
 
 Having explained in this way (the ritual) that pertains to the man of knowledge (jñānin), he also talks about (the rite) that pertains to the ritualist (karmin). 
 
@@ -1120,11 +1126,11 @@ Those
 
 who have not attained (complete) 
 
-enlightenment (aprāptavibodha),\* (but) are well-established in the sacrifice that has blossomed by the ejaculate, the deities located in that Wheel, fashioned by that 
+enlightenment (aprāptavibodha),[^335] (but) are well-established in the sacrifice that has blossomed by the ejaculate, the deities located in that Wheel, fashioned by that 
 
 (consciousness) 
 
-(parikalpita), attain discerning knowledge (of consciousness, and bestow its fruits to the less enlightened).\* (129cd-130ab) 
+(parikalpita), attain discerning knowledge (of consciousness, and bestow its fruits to the less enlightened).[^336] (129cd-130ab) 
 
 ### TĀ 29.129–130
 
@@ -1136,19 +1142,19 @@ dedicated
 
 (niṣtha) 
 
-to the path of (this Kaula) observance (caryāmārga).’” This is the meaning. 
+to the path of (this Kaula) observance (caryāmārga).[^337] This is the meaning. 
 
-331\. T could not find the following lines in the JY.
+[^332]: T could not find the following lines in the JY.
 
-332\. The word ‘cakra’ literally means a wheel. The spokes of the wheels (like the petals of a lotus) represent places where deities or people who are gathered together are located.
+[^333]: The word ‘cakra’ literally means a wheel. The spokes of the wheels (like the petals of a lotus) represent places where deities or people who are gathered together are located.
 
-333\. I suppose that Mantras and Vidyās are male and female deities projected onto the bodies of the partners who thus embody them, and so worship one another with the sexual fluids produced by intercourse, by smearing them onto each other. Dupuche (op. cit. 271) understands ‘Mantravidyā’ to mean ‘gods and goddesses’.
+[^334]: I suppose that Mantras and Vidyās are male and female deities projected onto the bodies of the partners who thus embody them, and so worship one another with the sexual fluids produced by intercourse, by smearing them onto each other. Dupuche (op. cit. 271) understands ‘Mantravidyā’ to mean ‘gods and goddesses’.
 
-334\. Sanderson (1990: 356): “Abhinavagupta refers explicitly to Kaula gurus who have not achieved enlightenment, teaching the manner in which they are to do the fixed rites (nityakrama) before they proceed to carry out a rite of Kaula initiation.”
+[^335]: Sanderson (1990: 356): “Abhinavagupta refers explicitly to Kaula gurus who have not achieved enlightenment, teaching the manner in which they are to do the fixed rites (nityakrama) before they proceed to carry out a rite of Kaula initiation.”
 
-335\. Dupuche (op. cit.) 271, n 150: “The knowledgeable person has discriminating knowledge; the officiant does not. Even though the officiant himself does not acquire this discriminating knowledge — he remains an officiant — at least the deities who are present do. They are brough to the centre, as described in 131-132 and will therefore grant him the boons he desires.”
+[^336]: Dupuche (op. cit.) 271, n 150: “The knowledgeable person has discriminating knowledge; the officiant does not. Even though the officiant himself does not acquire this discriminating knowledge — he remains an officiant — at least the deities who are present do. They are brough to the centre, as described in 131-132 and will therefore grant him the boons he desires.”
 
-336\. I understand caryāmārga to be a synonym of caryākrama, i.e. this Kaula ritual.
+[^337]: I understand caryāmārga to be a synonym of caryākrama, i.e. this Kaula ritual.
 
 
 *[p. 321]* ^pg338
@@ -1181,19 +1187,19 @@ aṣtakam aṣtāṣtakam atha
 
 vividhaṁ saṁpūjayet kramena muniḥ || 132 ॥ 
 
-Those (who are not fully enlightened) worship everything externally there within the Wheel of Śakti, in the four directions in the aforestated order,\*\* , beginning with (Ganesa, , with that same (sacrificial substance) made from the juice of Bliss (ānandarasa). After that, the sage should worship the couple Kuleśa (and Kuleśvarī) in the centre, (then) the (three) goddesses on the three spokes (of a triangle), and outside (that), on each spoke, a set of four. Thus (he should worship in this way), in due order, the wheel of twelve rays,” (that of the) group of eight (Mothers), and that of eight times eight (Yoginīs), which is of many kinds.” (130cd-132) 
+Those (who are not fully enlightened) worship everything externally there within the Wheel of Śakti, in the four directions in the aforestated order,[^338] beginning with (Ganesa, , with that same (sacrificial substance) made from the juice of Bliss (ānandarasa). After that, the sage should worship the couple Kuleśa (and Kuleśvarī) in the centre, (then) the (three) goddesses on the three spokes (of a triangle), and outside (that), on each spoke, a set of four. Thus (he should worship in this way), in due order, the wheel of twelve rays,[^339] (that of the) group of eight (Mothers), and that of eight times eight (Yoginīs), which is of many kinds.[^340] (130cd-132) 
 
 #### Viveka on 29.130–132
 
 The ‘Wheel of Śakti’ is the one related to the Śakti, that is, the Main one, which is the Mouth of the Yogini. This is the meaning. (They do this) ‘with that same (sacrificial substance)’, that is, with the ejaculate. (The order in 
 
-337\. See above, 26/27-29ab.
+[^338]: See above, 26/27-29ab.
 
-338\. \[illegible\] Arkāram also means ‘the spokes of which are suns’. This is reference to the Wheel of Twelve Kālis, each one of which is represented by one of the twelve suns that shine in corresponding months of the years.
+[^339]: \[illegible\] Arkāram also means ‘the spokes of which are suns’. This is reference to the Wheel of Twelve Kālis, each one of which is represented by one of the twelve suns that shine in corresponding months of the years.
 
-339\. This is the same basic mandala described above (see 29/27-29ab). Notice the progressive development from the centre. It begins with couple, Kuleśa and Kuleśvarī, expanding out into the surrounding triangle of the three Trika goddesses. As each one is of four kinds (by virtue of their emanation, persistence, withdrawal and the Inexplicable), thus, they expand out into the Twelve
+[^340]: This is the same basic mandala described above (see 29/27-29ab). Notice the progressive development from the centre. It begins with couple, Kuleśa and Kuleśvarī, expanding out into the surrounding triangle of the three Trika goddesses. As each one is of four kinds (by virtue of their emanation, persistence, withdrawal and the Inexplicable), thus, they expand out into the Twelve
 
-340\. Kalis, . The Eight Mothers, as usual, surround and so protect the deities in the core of the mandala. Surrounding them, they too unfold in what Abhinava refers to as the state of ‘complete expansion’ (pūrnavikāsa), in which each one is all eight. See above, 3/109cd-1 10ab (109).
+    Kalis, . The Eight Mothers, as usual, surround and so protect the deities in the core of the mandala. Surrounding them, they too unfold in what Abhinava refers to as the state of ‘complete expansion’ (pūrnavikāsa), in which each one is all eight. See above, 3/109cd-1 10ab (109).
 
 
 *[p. 322]* ^pg339
@@ -1213,7 +1219,7 @@ He should repeat what should be worshipped in exactly the same way in the abode 
 
 #### Viveka on 29.133
 
-Surely, it was said that contemplating the emission (visarga) which is the ejaculate of both, (arising) from sexual union, the development that takes place is within the undivided (unconditioned) state (of consciousness,) and knowledge (vijñāna) is attained (thereby). What happens (gati) to those who have developed within the emission which is tranquil? = With this doubt in mind, he says: 
+Surely, it was said that contemplating the emission (visarga) which is the ejaculate of both, (arising) from sexual union, the development that takes place is within the undivided (unconditioned) state (of consciousness,) and knowledge (vijñāna) is attained (thereby). What happens (gati) to those who have developed within the emission which is tranquil?[^341] With this doubt in mind, he says: 
 
 ### TĀ 29.133–134
 
@@ -1229,7 +1235,7 @@ Sdntam Śivapadam eti hi
 
 galitataraṅgārnavaprakhyam | 
 
-By repeatedly exercising that tranquil form with the awareness (inherent in) the Heart, it attains the tranquil plane of Śiva, which is like a sea devoid of waves.” (133cd-134ab) 
+By repeatedly exercising that tranquil form with the awareness (inherent in) the Heart, it attains the tranquil plane of Śiva, which is like a sea devoid of waves.[^342] (133cd-134ab) 
 
 #### Viveka on 29.133–134
 
@@ -1237,9 +1243,9 @@ The (well-)practiced tranquil form ‘attains’ (Śiva’s tranquil state,) and
 
 Surely (one may ask), what becomes of him in this way? With this doubt in mind, he says: 
 
-341\. Although neither, the one consciousness is, paradoxically, both at rest within itself and so is tranquil (Santa), ), as well as perpetually active (udita) (see above, 29/115cd-119cd). In this context perhaps, it refers to those aspiring to liberation, who do not consume the ejaculate. Possibly the ‘tranquil form’ as opposed to \*arisen form’ " refers to seminal retention during orgasm. There is emission, and yet as consciousness is both internal and external, nothing is emitted.
+[^341]: Although neither, the one consciousness is, paradoxically, both at rest within itself and so is tranquil (Santa), ), as well as perpetually active (udita) (see above, 29/115cd-119cd). In this context perhaps, it refers to those aspiring to liberation, who do not consume the ejaculate. Possibly the ‘tranquil form’ as opposed to \*arisen form’ " refers to seminal retention during orgasm. There is emission, and yet as consciousness is both internal and external, nothing is emitted.
 
-342\. Cf, above 3/185cd, where Abhinava says that it is natural that the sea be both tranquil at times and have waves at others.
+[^342]: Cf, above 3/185cd, where Abhinava says that it is natural that the sea be both tranquil at times and have waves at others.
 
 
 *[p. 323]* ^pg340
@@ -1256,7 +1262,7 @@ tiṣthaty uparatavṛttiḥ
 
 sūnyālambī nirānandaḥ | 
 
-By attaining that tranquil state, the activity of the entire troupe of deities that resides in the (central) Wheel ceases, and abiding (thus) suspended in the Void, is devoid of (outer) bliss (nirānanda).“(134cd-135ab) 
+By attaining that tranquil state, the activity of the entire troupe of deities that resides in the (central) Wheel ceases, and abiding (thus) suspended in the Void, is devoid of (outer) bliss (nirānanda).[^343] (134cd-135ab) 
 
 #### Viveka on 29.134–135
 
@@ -1276,17 +1282,17 @@ nirānande magnas
 
 tiṣthaty ānandasākāṁkṣaḥ | 
 
-That which resides in the subordinate Wheels of sight and the rest (of the senses) possesses (their same) nature, and it too depends on that (primary Wheel of consciousness); (immobile,) it is immersed in (that state) devoid of (outer) bliss,” yearning for bliss. (135cd-136ab) 
+That which resides in the subordinate Wheels of sight and the rest (of the senses) possesses (their same) nature, and it too depends on that (primary Wheel of consciousness); (immobile,) it is immersed in (that state) devoid of (outer) bliss,[^344] yearning for bliss. (135cd-136ab) 
 
 #### Viveka on 29.135–136
 
-‘That which resides in the subordinate Wheels of sight and the rest (of the senses) possesses (their same) nature’, that is to say, the troupe of deities. ‘It too depends on that’, that is to say, is controlled by the deities present in the Main Wheel. “Thus? because it too depends on that. 
+‘That which resides in the subordinate Wheels of sight and the rest (of the senses) possesses (their same) nature’, that is to say, the troupe of deities. ‘It too depends on that’, that is to say, is controlled by the deities present in the Main Wheel. “Thus? because it too depends on that.[^345] 
 
-343\. By ‘nirānanda’ is meant ‘niskriyānanda’, that is, ‘the bliss of inaction’. In other words, the deities are in a state of blissful repose.
+[^343]: By ‘nirānanda’ is meant ‘niskriyānanda’, that is, ‘the bliss of inaction’. In other words, the deities are in a state of blissful repose.
 
-344\. Read nirānande for tenānande.
+[^344]: Read nirānande for tenānande.
 
-345\. Clearly Jayaratha accepts the original unemended reading, i.e. ‘thus it is immersed in bliss’.
+[^345]: Clearly Jayaratha accepts the original unemended reading, i.e. ‘thus it is immersed in bliss’.
 
 
 *[p. 324]* ^pg341
@@ -1335,9 +1341,7 @@ By embracing (its) intense desire, this mass of rays (emitted by) the senses rel
 
 desire (rakti), attains the ineffable (kiñcit) abode of rest which its own the reflective awareness (of itself). After that, that is to say, once having savoured the mass of phenomena, (the group of senses) places (and offers those outer entities) within its own essential (conscious) nature. (Thus he said before that,) 
 
-“When one reflects on one’s own nature unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.’ 
-
-\* 
+“When one reflects on one’s own nature unfolding with the bliss of the enjoyment (of the objects of) their own respective (senses), the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.’[^346] 
 
 According to this teaching, (group of deities of the senses) rests within the main wheel of consciousness, which is the perceiver. 
 
@@ -1365,12 +1369,12 @@ So too the perceiver who, because he is the abode of rest of the Wheels (of the 
 
 ‘The couple, power and the powerholder, who have acquired the vitality (of consciousness) by being completely filled with the rays that are the deities of 
 
-346\. Above, 29/11 lcd-112ab.
+[^346]: Above, 29/11 lcd-112ab.
 
 
 *[p. 326]* ^pg343
 
-the subordinate wheels, are (passionately) intent on one another (and begin to merge together). 
+the subordinate wheels, are (passionately) intent on one another (and begin to merge together).[^347] 
 
 By this practice, taught previously, (the Lord of the Wheels) ‘surges (out of Himself) with great force’, that is, is suddenly (with great vigour) (sahasā) turns his attention outwards. This is the meaning. 
 
@@ -1393,7 +1397,7 @@ He explains why the term ‘emission’ is applied to the three types.
 
 ### TĀ 29.140 (2)
 
-विसुजति यतो विचित्रः सर्गो विगतश्च यत्र सर्ग इति ॥ together).[^347] ॥
+विसुजति यतो विचित्रः सर्गो विगतश्च यत्र सर्ग इति ॥ together). ॥
 visṛjati yato vicitraḥ 
 
 sargo vigataś ca yatra sarga iti ॥ 140 ॥ 
@@ -1418,16 +1422,20 @@ That is taught[^349] in the venerable Tattvarakṣaṇna, Nigama[^350] and Triś
 #### Viveka on 29.141
 
 [^347]: Above, 29/1 13cd-114ab
+
 [^348]: See above, 29/1 15cd-116ab.
+
 [^349]: The teaching to which Abhinava refers is that emission (visarga) is of three kinds. See above, 3/21 1-215ab.
+
 [^350]: \[illegible\] Here ‘nigama’ certainly does not mean the Veda. Jayaratha takes it to mean the Gamatantra, the reference from which he indicates as being the following verse.
+
 [^351]: See above, 3/138-141 (137cd-141ab).
 
 *[p. 327]* ^pg344
 
 The Tattvarakṣāvidhāna has (already) previously (been quoted) there (with regards to that, in order to) corroborate (this view, in the passage) beginning with: 
 
-‘Thus it is said in the Tattvarakṣāvidhāna that emission of three kinds.” 
+‘Thus it is said in the Tattvarakṣāvidhāna that emission of three kinds.”[^352] 
 
 Thus, without referring to that book, he corroborates (this view by referring to) the venerable Gamasāstra. 
 
@@ -1446,7 +1454,7 @@ he
 
 also (further) 
 
-corroborates it with the venerable 11111111 
+corroborates it with the venerable 11111111[^353] 
 
 The Plane of Union of the Tantric Partners सोतोद्रयस्य निष्ठान्तमूध्वाधश्चक्रवोधनम् ॥ १४२ ॥
 विश्रामं च समावेशं सुषीणां मरुतां तथा ।
@@ -1455,6 +1463,6 @@ The Plane of Union of the Tantric Partners सोतोद्रयस्य न
 गत्यागत्यन्तरा वित्ती संघटयति यच्छिवः ॥ १४४ ॥
 तत्प्रयत्नात्सदा तिष्ठेत्संघटे भैरवे पदे ।
 
-352\. Above, 3/21 5ab.
+[^352]: Above, 3/21 5ab.
 
-353\. 150ab.
+[^353]: 150ab.

@@ -55,6 +55,7 @@ End of commentary on Verse 1.
 Thus,
 
 "Homage to Sambhu who is the one cause of samsãra, who alone makes saṇpsāra cease, who is the very form of samsāãra and who is beyond it." (U. Sto. 1:8)
+
 [^67]: See footnote 62.
 
 
@@ -85,6 +86,7 @@ unimpellable is not impelled.
 By means of the various minute[^77] fractions of time,[^78] Oh Goddess!, it impels down below everything beginning with Vyāpint[^79]” ? upto the ends of the earth, and the path of moving and
 
 stationary beings." (Sva. 11:311)
+
 [^74]: The double meaning of mātrkā has been made expliett in the translation.
 [^79]: Vyāpinī is one of the categories below Unmani. In the order of descent the elassification is: "Unmani, Samanā, Vyāpini, Śakti, Nādānta, Nāda, Nirodhikā, Ardhacandra and Bindu.
 
@@ -118,6 +120,7 @@ From the void onwards, it is a fragmented light; to the shining Mother it is con
 In connection with what was said above, with the removal of the experiencing subjects classified as the void etc., (it is evident that):
 
 "Even in the expansion of diverse entities from the universal soul, there is liberation for one who thus knows that "all this power is mine". (Ī. Pra. 4:1:6)
+
 [^80]: Tuti, lava and nimega indicate smaller fractions within the fractions of time. The meaning seems to be that the Goddess ts capable of removing all the phenomenal distinctions which result from the action of time whether they oceur as sequential or non-sequen- tial manifestattons.
 
 [^81]: As this is a quotation from the Tśvarapratyabhijñā by Utpalācārya the "void" almost certatnly has the specifie meaning of that state in which no senstble object ts experienced. But even to the expertenceing subjects of this state called Pralāyakalas such non-sensible expertences as they do have are finite and fragmented. It ts only to the Supreme Being or "shining Mother" that the light of her manifestations are eternally present.
@@ -143,6 +146,7 @@ As He says:
 "Then, Oh Queen of the Gods, one becomes like another
 
 Vainateya."[^88] (4:48)
+
 [^84]: An epithet of Garuda.
 [^85]: An epithet of Śiva.
 
@@ -197,6 +201,7 @@ Since it is said that:
 The moon delights the world[^96] and Garuda destroys the ten kinds
 
 of poison.[^97]
+
 [^94]: Literally: What is the use of discussing the frutt (marrow) when we're still on the stem of the plant?"
 
 [^92]: The five quotations from the VT quoted above are in support of the main Verse 3 which mentions seven entities with which man can vie. The sun and moon are not given additional seriptural corroboration by Jayaratha because they can be ineluded under the headings of "fire" and "Kūma".
@@ -216,6 +221,7 @@ of the personal guru.[^103]
 For the three pingas[^104] are indeed the essence of the Goddess who is the origin of the universe.
 
 For this reason, the siddhis which are in the pingas are also
+
 [^99]: Normally the branches of knowledge (vidyās) are classified into groups of four, fourteen, thirty-three and even sixty-four. There exists the possibility that this reference ts to the ten "Mahāvidyās" - personifications of Sakti.
 [^102]: I.e., the nine references above to fire, sun, moon, Garuda, Kāīma, the Lord of Speech (or Vākpati), Sambhu, Viṣṇu and Brahmā.
 [^104]: Generally speaking the word "pinda" means ball, a lump, a roundish mass (of food) ete., but here and below itt means a syllable "eluster" which ts difficult to pronounce being mostly composed of consonants. The fifteen syllable mantra of the Goddess is made up of three piṇndas known as Vāgbhava, Kāmarāja and Sakti.
@@ -240,6 +246,7 @@ Here an artificial association (of ideas) is produced because without ample (evi
 On this matter (of the main verse) others have said:
 
 "The two vidyās - one of a single syllable and the other of three syllables - are what I mean by the expressions "kālahallola" and "sun, Garuda etc.".[^107]
+
 [^105]: In this quotation probably the same commentator as before has made connections between the various elements of the main verse and the Sricakra saying that they each have ten, or multiples of ten, or fourteen aspects which thereby connects them with the two ten-spoked and the fourteen-spoked cakras. As before, Jayaratha does not approve of reading so much into the main verse. There is a play on the word "yonitā" to indicate that supernatural powers are also attainable by the ritual worship of the female sexual organs.
 
 [^106]: Jayaratha does not think that these seven qualities should be duly applied to the sun, fire ete. as the same or some other commentator has done. Jayaratha objects because he says that the sun ete. are symbolic of more than any single attribute.
@@ -292,6 +299,7 @@ every thought process?[^115] (Ī. Pra. 2:3:16)
 According to this maxim, because proof does not apply to a sphere in which the matter in hand has no precedent, She is from the very beginning the self-evident Supreme Sakti and Mother known by (her)
 
 original title of MahātripurasundarÎ.
+
 [^113]: See footnote 46. "Pramătp" íis here conceived of as the \` "supreme experiencer" ~ the God or Goddess of eternal light.
 [^114]: I.e., ts ever "pure consetousness".
 
@@ -322,6 +330,7 @@ TO THE LOWEST INFERNAL REGION[^117] ARE THREADED AS
 ON A GREAT STRING.
 
 The meaning of the verse is that Brahmã's egg and the infernal regions are (part of) the Sakti sphere[^118] which shines everywhere. Its outcome is the triple world made up of the moving and the stationary in the forms of existence, existence-non-existence and non-existence[^119] (and) whose letters are the great thread which
+
 [^116]: Although the quotation from the Tantrãloka uses the word pramāṇa with its literal meaning of "eorreet notion, evidence, means of knowledge" ete., the reference seems to be to the pramātaras who may be said to be the subjects or agents through whieh the Goddess playfully explores/experiences the infinite range of being. The pramātaras of the verse seem to be those which belong to the pure (suddha) sphere of creatton, but the commentary makes it elear that all experiencing subjects are manifestations of the Goddess.
 
 [^117]: "Kaṭāha" is the lowest infernal region supposedly shaped like a cauldron.
@@ -370,6 +379,7 @@ THE OPTIMUM SUPPORT THROUGH THE DRAWING OUT OF
 THE LETTER "I".
 
 The "Her" under discussion is the Mother and great Goddess Bhagavatī who because of (Her) greatness is shining through consciousness (as just recently described). She has the nature of the first letter[^124] due to the predominance of eit sakti[^125]' (within Her). Since the scripture says of consciousness that "bliss is the form of the brahman", it has been said that "consciousness does not exist except in the form of bliss", therefore, "She is (also) the embodiment of bliss", "the essence of the second letter[^126] due to the predominance of bliss saktż." So, due to the fitful state of consciousness and bliss, (and) because there. results that reflection[^127] which is essentially the desire to create, She is the "optimum support" through the extraction of the third bṛjat[^128] which is the letter "i" and of the essence of Icchã sakti. That is to say that She is the support par excellence because of her involvement in causing the entire world to appear. Hence, because She abides[^129] in Śaktí states,[^130] She is the absolute and the relative and I bow
+
 [^125]: I.e., consetousness energy. "Cit śakti" is particularly applicable to the Śiva aspect of the supreme being.
 [^128]: Literally: "seed".
 
@@ -415,6 +425,7 @@ As the commentator says:
 “The eldest Timb is the crown-lock, forehead and spot between the eyes. The throat is at the base of the arms. The heart is the heart; what is behind it is said to be the navel. The hip is the genital area and, in the order of nyãsa,[^137] the foot is that which is low down."[^138]
 
 End of commentary on Verse 8.
+
 [^137]: "Nyāsa” is a Tantric ritual in which mantras are placed on vartous parts of the body.
 
 [^135]: The crown~lock, the forehead and the spot between the eyebrows are considered to be the three most important parts of the head.
@@ -482,6 +493,7 @@ All that shines is in consciousness, indeed, is also there because of consciousn
 joining of the pair is the one supreme form of Bhairava of
 
 the nature of "ahaṇ".[^148] (Tan. 3:207)
+
 [^148]: This is a difficult verse. One important aspect of its meaning ts that without the subjective ego (I-awareness pole), the objective pole of the universe carnot exist. Secondly, "aham" or "I" is the Goddess and all aspects of experience/ creations but the Skt. word "aham" also sums up the alphabet = creation stinee it begins with the first Skt. letter "a" and ends with the final Skt, letter "ha". ("m" = bindu = transcendence:) The alphabet as a whole symbolizes the manifested Sakti, but within it there are still Siva-Saktt aspects. Anuttara is the first letter implying all others because it is the initial simplest utterance.- "a". As such it represents Siva. The last letter "ha" represents Sakti because it ts the final "evolute" of the alphabet (t.e. creation) and being at the opposite pole from Siva ("a"}, it is especially Sakti. But Siva = anuttara = "a" is always in "ha" = Śakti. This is because the short vowel "a" is always inherent in all the spoken consonants. The "ha" evolving from the "a" and the "a" always present in the "ha" represent the Siva-Sakti pair in indissoluble union like binary stars in perpetual orbit around one another. Although apparently separate and at opposite poles for the purpose of creation, Siva is in fact always with Sakti, and Sakti with Siva. By saying that the \_ Goddess is "aham" it means that She exists with the pure Siva consetousness as self-consetousness and the universe which presents itself to consciousness - all part of the state of being "I".
 
 ५
@@ -646,6 +658,7 @@ THE TROTULA AND THE TROTULOTTARA;[^170]
 18\. THE PAÑCĀMRTA, THE RŪPABHEDA, THE BHŪTOQDDĀMARA, THE
 
 KULASĀRA, THE KULODDĪSA AND THE KULACŪṬĀMAṆI ,
+
 [^167]: The eight Bahurūpa Tantras are the eight Tantras of the Mātpkās and Sivadūtts.
 [^168]: The eight Yāmala Tantras are: Brahmayāmala, Viṣṇuyãīmala, Rudra-yāmala, Lakgmtyāmala, Umāyāmala, Skandayāmala, Gaṇesayðænala and Grahayāmala.
 
@@ -736,6 +749,7 @@ OH GODDESS: EARTH-SHAKING (POWER) ARISES THROUGH THE
 KNOWLEDGE OF HER.
 
 It may be objected that out of the blue one begins to talk about the drawing out of the cakra when the Lord asserts "Hear about Mahātripura-sundarī". (We reply) that so it seems. Nevertheless, the pre-eminent Lady and nityā Bhagavatī is the Supreme One who desires to project
+
 [^173]: The word "nityā" essentially meaning "eternal" is used in a Tantrie sense to mean a goddess or śakti. It is more or less synonymous with "vidyā", although "vidya" bears the additional Tantrie meaning of "feminine mantra". This text is concerned with the foremost nityā - Mahātripurasundart.
 [^174]: The nityãs are all to be worshipped from "pratipad" (first  day of a lunar fortnight) to pancadast and Mahātripurasundart ís worshipped on the sixteenth day. She is considered to pervade all the other nityās. There are some who worship all of the nityās every day giving pre-eminence to a different one in turn. The añga nityās are the fifteen and the añgī nityā is Mahairipurasnadni. The fifteen nityās are also the symbolie sum of a combination of the tanmātras.
 
@@ -816,6 +830,7 @@ five; four fires and five sakttis."
 "By extending with six lines from near each of the (three) angles of all triangles, one gets seven times seven yonis,"183
 
 In the prior (quote) the down pointing triangle is described with the word "tryaśra", and in the following one, the matter of the upward pointing is also (referred to} with the words "bhaga" and "yoni". This has no sense at allḷ:18%
+
 [^181]: One of the meanings of "bhaga" ts "female genital area"  having the shape therefore of a downward potnting triangle.
 
 183\. See footnote 182. 184\. Jayaratha has been pointing out in how many different and misleading ways the words "tryasra, bhaga" and "yoni" can be used. For example, it would have been more sensible to have used the word bhaga or yoni in the first of the immediate above quotes (because the tintertor triangle points down), and to have used the word "tryasra" in the second, as there are many upward pointing triangles among the forty-nine. To these the words "bhaga" and "yoni" do not properly apply.
@@ -860,6 +875,7 @@ By duly expanding the two sides of the fire - which is upward facing by nature -
 End of commentary on Verse 30.
 
 188\. The third sakti: X >77 1 \` 7
+
 [^189]: "Vahnicakra" and "vahnipura" are specifie synonyms for  "fire" — the upward pointing triangle.
 [^190]: The second fire:
 
@@ -878,6 +894,7 @@ THE INTERSECTING POINTS.
 From the intersections of the second fire and the third śakti where they join below, one should carefully and evenly intersect (i.e., connect through) the first śakti along the apex of the second śaktí, by duly extending downwards the fire called "Vahnipura" which is the foundation of the eight-spoked cakra (and whose sides have also been expanded in order to make the second fire). In reality it is the third śakti (which one intersects} although it is the primary śakti (involved) in this cakra. The result is the ten-spoked cakra. 193
 
 191\. Se "7
+
 [^192]: The very first sakti was the first one drawn, but the sakti  primarily involved in the production of the ten-spoked eakra (hence "ādyām") is actually the third śakti.
 
 193.
@@ -903,6 +920,7 @@ CAKRA.
 By "it" is meant that one should intersect this last drawn fourth śakti wîth the initial fire that has been comprised within the third śaktýí196 that is (involved) in the first cakra and in the ten-spoked cakra made directly afterwards. The third fire is produced by the prescribed expansion of both sides; going upward and taking care to touch on the way the four upper angles of the ten-spoked (cakra) and
 
 194\. I.e., above all other śaktis.
+
 [^195]: I.e., cormected with the first of the ten-spoked cakras.  The fourth sakti:
 
 [^196]: The Sanskrit reads "tadupalakgitena", meaning that the base line of the very first fire is bounded by the third śakti, and even when extended later, it appears to be dominated by the larger third śakti.

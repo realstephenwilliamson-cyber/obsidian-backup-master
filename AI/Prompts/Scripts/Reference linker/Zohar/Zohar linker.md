@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 # Zohar linker
 
@@ -16,6 +16,7 @@ Scripts that turn plain Zohar folio references in the vault's notes into links t
 | `mkpatch.py` | turns `proposals.json` into the spec of a `linepatch2` job (`.work/edits/linepatch2.tpl.js`): whole-note length and hash before and after, lines that hold the divine name as character offsets only; refuses to write if any line differs from the note, a new link does not resolve, or the plain text would change. |
 | `linkitems.py` | links chosen references to a decided target (a note and block, a note's top, or a Sefaria folio note) from a list of items (`[{path, line, block, label, note, block_target}]`) and writes a `linepatch2` spec with the same refusals as `mkpatch.py`; used for Stephen's decisions of 26 Oct 21:20 (the items are in `.work/edits/zohar-open-2026-10-26/`). |
 | `decide_packet.py` | lays out references the rule leaves undecided (rows of `undecided.json` or `noblock.json`) beside each candidate passage, for a reader to decide; the decisions then go through `linkitems.py`. |
+| `sifra-retarget.js` | (pf405 dry, pf406; 27 Oct 2026) moves every link into *Zohar 5.06 - Sifra di-Tsni'uta*'s plain copy (`^z…`) to the same folio block in Matt's annotated copy (`^z…-c`) where that block exists; labels unchanged; positions from the link cache, checked against the text; backups first. 426 links in 83 notes on 27 Oct. |
 | `shared-folio-list.js` | (pf417, read-only job) lists every link to the folio sides held by two parashah notes (vols. 1–9), counts them by block and target, and dumps the citing and holding notes for the packet script. Written 28 Oct 2026 for the five blocks of 26 Oct; widen `FIVE` for others (11 shared blocks, 355 links in all on 28 Oct). |
 | `shared_folio_packets.py` | builds a reading packet per block: both candidate passages once, then each citing link with its context and the link masked as ⟦label⟧, so the reader does not see the current target; writes `key.json`. |
 | `shared-folio-brief.txt` | the readers' brief for those packets (choices A, B, both, neither, unclear; no divine name in the reasons). |

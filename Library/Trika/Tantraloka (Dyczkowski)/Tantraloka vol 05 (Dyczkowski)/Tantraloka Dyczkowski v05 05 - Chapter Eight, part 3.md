@@ -16,68 +16,70 @@ converted: 2026-10-07
 
 *[p. 131]* ^pg149
 
-thousand leagues.”? One should know that land (extends for) five hundred (leagues) and water for five (hundred) in the same way.” 
+thousand leagues.[^372] One should know that land (extends for) five hundred (leagues) and water for five (hundred) in the same way.’[^373] 
 
 But in the venerable Mṛgendrāgama (it is said that): 
 
 ‘There are nine islands here in the current of the nine oceans, half of 
 
-which are land.’ 
+which are land.’[^374] 
 
 २५ 
 
-The Land of Kumārikā5 
+The Land of Kumārikā[^375] 
 
 This is said in relation to the ocean of salt, otherwise here (in this case) there would be the currents of ten oceans. Thus, there is the water of an ocean on both sides of all the islands except the one called Kanyā, where (there is an ocean) only on the southern (right) side of it, because it is divided off by the ocean (called) Vāruṇa, which is five hundred (leagues wide). Thus, there is only Himavat on its northern (left) side, not another ocean. If that were to be so, it would be separated by another ocean, and like (any other of the) islands, Himavat would be inaccessible to its inhabitants. Thus, it is established that it is delimited by its proximity to Himavat. That is said there: 
 
-‘The island called Kumārikā is considered to be close to Himavat. ” 
+‘The island called Kumārikā is considered to be close to Himavat.’[^376] 
 
 Lake Bindusaras 
 
 In this way one can arrive at the meaning that its thousand (leagues) is entirely land. Thus, in order to show its division up to the boundary of Himavat, it is taught in the venerable Tantrarāja etc., that it extends for one thousand leagues, beginning from a particular lake located at the foot of that (mountain), called Bindusaras. As is said there (in the Tantrarāja), beginning with: 
 
-372?\. \[illegible\] Kṣemarāja: jalena saha mānam etad ity arthaḥ ॥ “The meaning is that this is the measure, along with the water (in between).’
+[^372]: \[illegible\] Kṣemarāja: jalena saha mānam etad ity arthaḥ ॥ “The meaning is that this is the measure, along with the water (in between).’
 
-373?\. \[illegible\] SvT 10/250cd-251. Kṣemarāja: etat pārśvamānam | dairghyaṁ tu himavad yathānupātam ardhaṁ pañcaśatikajalavyavahitatvāt ॥ 251 ॥ ‘This is the measure of the breadth. The width accords with that of Himavat, which is half (of a thousand), because the waters that separate (one land mass from another) is five hundred.’ Presumably, he is saying that this is the width of Himavat also, for such is the size of the land. In this way, as the SvT (10/252a) goes on to say, they are ‘inaccessible to one another’ (parasparam agamyds ) agamyds te).
+[^373]: \[illegible\] SvT 10/250cd-251. Kṣemarāja: etat pārśvamānam | dairghyaṁ tu himavad yathānupātam ardhaṁ pañcaśatikajalavyavahitatvāt ॥ 251 ॥ ‘This is the measure of the breadth. The width accords with that of Himavat, which is half (of a thousand), because the waters that separate (one land mass from another) is five hundred.’ Presumably, he is saying that this is the width of Himavat also, for such is the size of the land. In this way, as the SvT (10/252a) goes on to say, they are ‘inaccessible to one another’ (parasparam agamyds ) agamyds te).
 
-374?\. MṛT vidyāpāda (bhuvanādhvaprakarana) 13/93cd.
+[^374]: MṛT vidyāpāda (bhuvanādhvaprakarana) 13/93cd.
 
-375?\. Although the land of Bhārata is divided into nine regions divided off from one another by seas, the text focuses entirely on the Island of Kumārikā. The innermost of the nine regions, it borders on the Himavat chain, where Karma is created most intensely.
+[^375]: Although the land of Bhārata is divided into nine regions divided off from one another by seas, the text focuses entirely on the Island of Kumārikā. The innermost of the nine regions, it borders on the Himavat chain, where Karma is created most intensely.
 
-376?\. One would suppose that by ‘there’, Jayaratha is referring to the Mṛgendra he quoted previously; however, this reference is not found there in any of the pādas.
+[^376]: One would suppose that by ‘there’, Jayaratha is referring to the Mṛgendra he quoted previously; however, this reference is not found there in any of the pādas.
 
 
 *[p. 132]* ^pg150
 
-‘To the south of the lake Prāleya and to the north (of the ocean) Vīcimālin is a land which has the shape of a bow, that is Kurumānasa.” And ending with: 
+‘To the south of the lake Prāleya and to the north (of the ocean) Vīcimālin is a land which has the shape of a bow, that is Kurumānasa.’[^377] And ending with: 
 
-“The lake called Bindusaras is just next to (mount) Sitasiinu.\*” . One of the parts (of Bharata) begins from there and is full everywhere with good people, and its extent is delimited by water. King Bharata, who laid hold of heaven from (his) rival \[Indra,\*\*’ Indra,\*\*’ gave (this) land to his virgin (kumārī) daughter. Thus, it is said that this land is called Kumārikā. It extends for a thousand leagues and has (people of) many castes and stages of life.” 
+“The lake called Bindusaras is just next to (mount) Sitasiinu.[^378] One of the parts (of Bharata) begins from there and is full everywhere with good people,[^379] and its extent is delimited by water.[^380] King Bharata, who laid hold of heaven from (his) rival Indra,[^381] gave (this) land to his virgin (kumārī) daughter. Thus, it is said that this land[^382] is called Kumārikā.[^383] It extends for a thousand leagues and has (people of) many castes and stages of life.’[^384] 
 
 TM So also (we read) in the Svacchandatantra: 
 
 ‘It is said that (the land) called Kumārī begins from Bindusaras. It extends for a thousand leagues and has (people of) many castes and stages of 
 
-life. 
+life.[^385] 
 
 The Nine Regions of Bhārata 
 
 (He now) states the various the names of the nine regions (of the continent of Bhārata): 
 
-377?\. JY 1/8/112, 115cd-118ab (MS K 72b-73a, Kh fl. 40b-4la). Read with the MSs, kurumānasam for kurumānagam. The expression here is ‘kurumānagam’, which means ‘present in (or part of) the measure of (the land of) Kuru)’; that makes no sense.
+[^377]: JY 1/8/112, 115cd-118ab (MS K 72b-73a, Kh fl. 40b-4la). Read with the MSs, kurumānasam for kurumānagam. The expression here is ‘kurumānagam’, which means ‘present in (or part of) the measure of (the land of) Kuru)’; that makes no sense.
 
-378?\. Read sītasūnoḥ for sītasānoḥ. Śītasūnu means ‘he whose son is the cold’, i.e. Himavat, the Himalayas.
+[^378]: Read sītasūnoḥ for sītasānoḥ. Śītasūnu means ‘he whose son is the cold’, i.e. Himavat, the Himalayas.
 
-379?\. The MSs read durjanākulam ~ ‘full of bad people’ for sajjanākulam — ‘full of good people’.
+[^379]: The MSs read durjanākulam ~ ‘full of bad people’ for sajjanākulam — ‘full of good people’.
 
-380?\. Read with the MSs vāriluptaṁ ca tanmānaṁ for vāriluptaṁ na yanmānam.
+[^380]: Read with the MSs vāriluptaṁ ca tanmānaṁ for vāriluptaṁ na yanmānam.
 
-381?\. Read sapatnendra- for sapatnendra-.
+[^381]: Read sapatnendra- for sapatnendra-.
 
-382?\. Read varṣaṁ with the MSs for dvīpaṁ (‘island’).
+[^382]: Read varṣaṁ with the MSs for dvīpaṁ (‘island’).
 
-383?\. The Indian subcontinent, which is a part — khanda — of the great land of Bhārata, is sometimes called kumārikākhanda — ‘the part of the virgin (goddess).’ The ‘part’ is the yoni of the goddess, which the triangular shape of India is believed to represent (see Dyczkowski 2009: vol 1, 115). 34t JY 1/8/112, 115cd-118ab (MS K 72b-73a, Kh fl. 40b-41a). The MSs of the JY read nānāvarṇa-samanvitam ‘has (people of) many castes’ for nānāvarṇāśramānvitam ‘has (people of) many castes and stages of life’. I have retained this reading because it coincides with the one in the SvT of the citation that follows, indicating that it was probably drawn from there. The SvT precedes the JY and is known to have been widely influential.
+[^383]: The Indian subcontinent, which is a part — khanda — of the great land of Bhārata, is sometimes called kumārikākhanda — ‘the part of the virgin (goddess).’ The ‘part’ is the yoni of the goddess, which the triangular shape of India is believed to represent (see Dyczkowski 2009: vol 1, 115).
 
-385\. SvT 10/254. Commenting on the verse that follows, Kṣemarāja quotes from an unnamed source he tells us is other than the Śrīkanṭhīyasarihitā he has just quoted. It says: varnāśramasamācāraḥ kumāryākhye na saṁṁśayaḥ | itare mlecchasaṁjñeyāḥ śiṣtācārabahiṣkṛtāḥ || ‘There is no doubt that caste and the (obligations of the) stages of life are equally observed in the (land) called Kumārī. Others should be called ‘barbarian’ (mleccha) and are devoid of well-mannered conduct (śiṣtācāra).”
+[^384]: JY 1/8/112, 115cd-118ab (MS K 72b-73a, Kh fl. 40b-41a). The MSs of the JY read nānāvarṇa-samanvitam ‘has (people of) many castes’ for nānāvarṇāśramānvitam ‘has (people of) many castes and stages of life’. I have retained this reading because it coincides with the one in the SvT of the citation that follows, indicating that it was probably drawn from there. The SvT precedes the JY and is known to have been widely influential.
+
+[^385]: SvT 10/254. Commenting on the verse that follows, Kṣemarāja quotes from an unnamed source he tells us is other than the Śrīkanṭhīyasarihitā he has just quoted. It says: varnāśramasamācāraḥ kumāryākhye na saṁṁśayaḥ | itare mlecchasaṁjñeyāḥ śiṣtācārabahiṣkṛtāḥ || ‘There is no doubt that caste and the (obligations of the) stages of life are equally observed in the (land) called Kumārī. Others should be called ‘barbarian’ (mleccha) and are devoid of well-mannered conduct (śiṣtācāra).”
 
 
 *[p. 133]* ^pg151
@@ -90,13 +92,13 @@ The Nine Regions of Bhārata
 indraḥ kaśerus tāmrābho nāgīyaḥ prāg gabhastimān |
 saumyagāndharvavārāhāḥ kanyākhyan cāsamudrataḥ || 84 I| 
 
-(The names of these regions), starting from the sea are 1) Indra, 2) Kaseru (Backbone), 3) Tāmrābha (Copper Colour), which is before 4) Gabhastimat (Sun), which is before 5) Nāgīya (the Island of Snakes), 6) Saumya (Tranquil), 7) Gāndharva, 8) Vārāha and 9) the one called Kumārikā (the Virgin). (84) 
+(The names of these regions), starting from the sea are 1) Indra, 2) Kaseru (Backbone), 3) Tāmrābha (Copper Colour), which is before 4) Gabhastimat (Sun), which is before 5) Nāgīya (the Island of Snakes), 6) Saumya (Tranquil), 7) Gāndharva, 8) Vārāha and 9) the one called Kumārikā (the Virgin).[^386] (84) 
 
 #### Viveka on 8.84
 
 ‘Starting from the sea’, beginning with the sea. Thus, the Island of Indra is next to the ocean of salt, (and Bhārata) extends up to Kanyā Island, which is next to (mount) Himavat. ‘Tāmrābha’ (‘looking like copper’) is Tāmravarṇa (the Colour of Copper). Gabhastimat is ‘before’, and Nāgadvīpa (Island of Snakes, comes) after. ‘Vārāha is Vāruṇa. That is said (in the Svacchandatantra): 
 
-‘(There is) 1) Indradvīpa (Indra’s Island), 2) Kaśeru (Backbone), 3) Tāmravarṇa (Copper Colour), 4) Gabhastimat (Sun), 5) Nāgadvīpa (Island of Snakes), 6) Saumya (Tranquil), 7) Gāndharva, and 8) Vāruṇa; 9) the island called Kumārikā is said to be the ninth.” 
+‘(There is) 1) Indradvīpa (Indra’s Island), 2) Kaśeru (Backbone), 3) Tāmravarṇa (Copper Colour), 4) Gabhastimat (Sun), 5) Nāgadvīpa (Island of Snakes), 6) Saumya (Tranquil), 7) Gāndharva, and 8) Vāruṇa; 9) the island called Kumārikā is said to be the ninth.’[^387] 
 
 ### TĀ 8.85–86
 
@@ -112,9 +114,9 @@ upadvīpāḥ ṣat kulādrisaptakena vibhūṣite ॥ 85 ॥
 aṁgayavamalayaśaṁkuḥ kumudavarāhau ca malayago ‘gastyaḥ |
 tatraiva ca trikūte \[lanka ṣad amī hy upadvīpāḥ ॥ 86 ॥ 
 
-386\. See SvT 10/250cd-253. Kumārikā is India. See below, 37/35 and above, note 8,271.
+[^386]: See SvT 10/250cd-253. Kumārikā is India. See below, 37/35 and above, note 8,271.
 
-387\. SvT 10/252cd-253.
+[^387]: SvT 10/252cd-253.
 
 
 *[p. 134]* ^pg152
@@ -138,12 +140,14 @@ These islands are called 1) Aṅga, 2) Yava, 3) Malaya, 4) Śaṁku, 5) Kumuda a
 ‘It is said that there is a mountain on the island of Malaya called Malaya. At its feet is Trikūtṭa, on top of which is Laṁkā.[^390] 
 
 [^388]: See SvT 10/255-62.
+
 [^389]: SvT.10/256cd-257ab.
+
 [^390]: Thid. 10/259. The SvT continues: sā ca ---- cāmīkaramayī śubhrā catvarodyānamanditā | catvaraiḥ śivādhiṣṭhitaiś catuṣpathair muktidaiḥ, udyānaiś ca bhogasthānair bhūṣitāḥ || tathā citraprākāraracitā vajravaidūryamanditā \\\\ anantavibhavās tatra rākṣasā deva akāḥ | ramante kanyakāsaktā mahābalaparākramāḥ |l ‘And that is ‘made of gold and, radiantly beautiful, is adorned with four gardens.” (10/260ab) It is adorned with four paths presided over by Śiva, that bestow liberation, and (four) gardens that are places of enjoyment. Again: ‘It is made of (various) beautiful ramparts and adorned with diamonds and cat’s eye gems. Very powerful and courageous demons, who afflict the gods and whose power is endless, play there, attached to young women.” (women.”’(10/260cd-261)
 
 *[p. 135]* ^pg153
 
-‘There, on excellent mountain Malaya, is Agastya peak where, (radiant) like crystal, is the most holy hermitage of Āgastya.”” 
+‘There, on excellent mountain Malaya, is Agastya peak where, (radiant) like crystal, is the most holy hermitage of Āgastya.’[^391] 
 
 How is the population here? With this question in mind, he says: 
 
@@ -161,16 +165,16 @@ According to the teachings of the venerable Ruru, both the main and minor island
 
 #### Viveka on 8.87
 
-391\. SvT 10/262. The SvT continues: tatrānyonyaviruddhās\* tu sattvāḥ krīdanty aśaṁkitāḥ | na tatra jāyate mārī nākālaḥ sampravartate ॥ 263 ॥ na jarā na ca śokaś ca nopasargabhayaṁ kvacit | mārī bahumaraṇam | akālo varṣātapavaiparītyam | upasargā vyādhayaḥ || ki ca ---- na vadaty anṛtam ! kaścid rāgadveṣo na kutracit | 264 ॥ agastyasya prabhāvena tv ajfidnam dūrato gatam | tatra vai rṣayo vīrā jñānayogakṛtaśramāḥ ॥ 265 ॥ japādhyayanahomādipūjāstutiparāyanāḥ ॥ tryambakasya mahādevi nityam ārādhane ratāḥ ॥ 266 ॥ agastyasahitāḥ sarve mokṣābhyudayavādinaḥ | tiṣthanti bhāvitātmānaḥ śāpānugrahakāriṇaḥ ॥ 267 ॥
+[^391]: SvT 10/262. The SvT continues: tatrānyonyaviruddhās\* tu sattvāḥ krīdanty aśaṁkitāḥ | na tatra jāyate mārī nākālaḥ sampravartate ॥ 263 ॥ na jarā na ca śokaś ca nopasargabhayaṁ kvacit | mārī bahumaraṇam | akālo varṣātapavaiparītyam | upasargā vyādhayaḥ || ki ca ---- na vadaty anṛtam ! kaścid rāgadveṣo na kutracit | 264 ॥ agastyasya prabhāvena tv ajfidnam dūrato gatam | tatra vai rṣayo vīrā jñānayogakṛtaśramāḥ ॥ 265 ॥ japādhyayanahomādipūjāstutiparāyanāḥ ॥ tryambakasya mahādevi nityam ārādhane ratāḥ ॥ 266 ॥ agastyasahitāḥ sarve mokṣābhyudayavādinaḥ | tiṣthanti bhāvitātmānaḥ śāpānugrahakāriṇaḥ ॥ 267 ॥
 
-392\. Read tatrānyonyā- for tatrānyonya-. ‘The creatures there are not in conflict with one another and play (together) without fear. There no epidemics occur, nor (are the seasons) not in time. There is no old age nor grief or fear anywhere of natural calamities. (263-264ab) ‘Epidemics’ mean the death of many. (The seasons are not) ‘not in time’, means that the heat (of the hot season) and the rains (of the rainy season) are not reversed (with respect to their normal time). ‘Natural calamities’ are (for example) diseases. ‘Nobody lies; nor is there aversion and attachment anywhere. By Agastya’s power, ignorance has departed far away. There the sages (rsi) ) are heroic warriors (vīra) who have laboured (to practice) knowledge and Yoga. They are dedicated to the repetition of Mantras, study, making offerings to the fire etc., rites of worship, and praising (the gods). O Great Goddess, they are always devoted to worshipping Tryambaka (Śiva). All of them accompany Agastya and teach that liberation is (true happiness and) prosperity. They abide with their souls sanctified (by the attainment of Siva), cursing (the wicked) and gracing (the righteous). (SvT 10/264cd-267).
+    \* Read tatrānyonyā- for tatrānyonya-. ‘The creatures there are not in conflict with one another and play (together) without fear. There no epidemics occur, nor (are the seasons) not in time. There is no old age nor grief or fear anywhere of natural calamities. (263-264ab) ‘Epidemics’ mean the death of many. (The seasons are not) ‘not in time’, means that the heat (of the hot season) and the rains (of the rainy season) are not reversed (with respect to their normal time). ‘Natural calamities’ are (for example) diseases. ‘Nobody lies; nor is there aversion and attachment anywhere. By Agastya’s power, ignorance has departed far away. There the sages (rsi) ) are heroic warriors (vīra) who have laboured (to practice) knowledge and Yoga. They are dedicated to the repetition of Mantras, study, making offerings to the fire etc., rites of worship, and praising (the gods). O Great Goddess, they are always devoted to worshipping Tryambaka (Śiva). All of them accompany Agastya and teach that liberation is (true happiness and) prosperity. They abide with their souls sanctified (by the attainment of Siva), cursing (the wicked) and gracing (the righteous). (SvT 10/264cd-267).
 
 
 *[p. 136]* ^pg154
 
 ‘Barbarian peoples’ means those who are excluded from the observance (dcdra) ) of caste and stages of life. The word ‘mostly’ suggests that there are (some who) in some places do observe right conduct. Surely (one may ask), what is the authority (for this view)? With this doubt in mind, he says: ‘according to the teachings of the venerable Ruru’. That is said there (in the Rauravāgama): 
 
-“The best”? inhabitants on (the island) called Kumārī are engaged in the observance of caste and the stages of life. Others are mostly barbarians who are rich with jewels and gold." 
+“The best[^392] inhabitants on (the island) called Kumārī are engaged in the observance of caste and the stages of life. Others are mostly barbarians who are rich with jewels and gold.’[^393] 
 
 Surely (one may ask), what is the purpose of acquiring auspicious and inauspicious (Karma) here? With this doubt in mind, he says: 
 
@@ -185,17 +189,17 @@ bhārate yat (kṛtam karma kṣapitaṁ vāpy 114/ |
 
 The Karma made or destroyed in Bhārata, particularly in (the land) called Kanyā (Virgin), (leads to rebirth in other worlds), from those 
 
-of hell up to Śiva, or (else) liberation.” (88) 
+of hell up to Śiva, or (else) liberation.[^394] (88) 
 
 #### Viveka on 8.88
 
 ‘Karma’, auspicious or inauspicious, is destroyed by ritual action or knowledge etc. Thus, by the Karma that is made or destroyed here (in Bhārata) one expe riences the consequences in this or that principle, ranging from Earth up to Siva, or else (one) then (attains) liberation. This is the meaning. As is said (in the Svacchandatantra): 
 
-393\. Read parāḥ for parar.
+[^392]: Read parāḥ for parar.
 
-394\. \[illegible\] Some part of the chapter concerning cosmology in the Rauravāgama, i.e. the Rauravasūtrasaigraha, has been lost (see above note to TĀv ad 6/142 (141cd-142ab)). This is probably why this verse cannot be traced in the printed edition.
+[^393]: \[illegible\] Some part of the chapter concerning cosmology in the Rauravāgama, i.e. the Rauravasūtrasaigraha, has been lost (see above note to TĀv ad 6/142 (141cd-142ab)). This is probably why this verse cannot be traced in the printed edition.
 
-395\. \[illegible\] According to the Mṛgendra (vidyāpāda) also, Bhārata is the only place where karman can be accumulated: guna eko yadyukto neṣtari kiñcin na sādhayet || sarvāsāri phalabhūmīnām karmabhūḥ kāraṇarni yataḥ | 13/92cd-93ab ‘There is only one quality because of which it (i.e. Bhārata) is superior (to the others): there is nothing that, if one desires it, one cannot obtain, because this is the cause, the place (of the accumulation) of karman, for all the places where the fruits (of karman are reaped). In some places it is unclear whether the whole of Bhūloka is the land of karman. Here it is clear that Bhārata alone is, especially the land of Kanyā, where it accumulates most efficiently. This place is probably the Indian peninsula, crowned with the Himalaya and surrounded by water of the other sides, as described here.
+[^394]: \[illegible\] According to the Mṛgendra (vidyāpāda) also, Bhārata is the only place where karman can be accumulated: guna eko yadyukto neṣtari kiñcin na sādhayet || sarvāsāri phalabhūmīnām karmabhūḥ kāraṇarni yataḥ | 13/92cd-93ab ‘There is only one quality because of which it (i.e. Bhārata) is superior (to the others): there is nothing that, if one desires it, one cannot obtain, because this is the cause, the place (of the accumulation) of karman, for all the places where the fruits (of karman are reaped). In some places it is unclear whether the whole of Bhūloka is the land of karman. Here it is clear that Bhārata alone is, especially the land of Kanyā, where it accumulates most efficiently. This place is probably the Indian peninsula, crowned with the Himalaya and surrounded by water of the other sides, as described here.
 
 
 *[p. 137]* ^pg155
@@ -204,7 +208,7 @@ of hell up to Śiva, or (else) liberation.” (88)
 
 to whatever Karma made there is auspicious or 
 
-inauspicious.” 
+inauspicious.’[^395] 
 
 Again: 
 
@@ -220,7 +224,9 @@ Surely (one may ask), why is that particularly so on Kanyā island? With this qu
 mahākālādikā rudrakoṭir atraiva bhārate |
 \` 
 
-396\. SvT 10/247cd-248ab. The SvT continues: atraiva bhogamokṣasiddhisādhanasvayambhūpunya-tīrthamahānadīsampadastīty āha -- mahākālas tathaikāīmram evamādi varānane ॥ 10/248 ॥ tīrthānām koṭir uddiṣṭā mahāpuṇyaphalodayā | gaṅgādīnār nadīnāṁ ca tatra pañca śatāni ca ॥ 10/249 ॥ ‘Here itself is (located) a wealth of great rivers and spontaneously created sacred bathing sites that serve as a means to worldly benefits, liberation and accomplishments (siddhi). Thus he says: ‘Mahākāla and Ekāmra, and in the same way others, O fair-faced lady, are said to be ten million sacred bathing sites (tirtha) ) that give rise to fruits of great merit. There are also five hundred rivers beginning with the Ganges.’ (SvT 10/248cd-249) evam ādītyādiśabdāt śrīamareśādipañcāṣṭtakānāḥ vārāṇasyādigataśrīmahādevāṣtṭa-ṣaṣteś ca parigrahaḥ | tīrthānām iti prabhāsādīnām | yad uktaṁ śrīdevīyāmale By the words ʻin the same way, others’ is included the five groups of eight (sacred sites) beginning with Amareśa, and the venerable sixty-eight (places) where the venerable Mahādeva is present, beginning with Vārāṇasī. The sacred bathing sites (are those) beginning with Prabhāsa. As is said in the venerable Devīyāmala: prabhāsādyā tu tīrthānām koṭir ekā varānane | pañcāṣṭakaṁ tu tatraiva lokānugrāhakari sadā || iti || 249 ॥ kuruvarṣar ca ---- navayojanasāhasrah dhanvākārari nibodha tam | ‘O fair-faced lady, the sacred sites are ten million. There (amongst them) are the five groups of eight that grace the world constantly.’ Again, the land of Kuru: “Know that that is shaped like a bow and (extends for) nine thousand leagues.” € Kṣemarāja quotes these lines in SvTu ad 10/255, introducing them as being from the Śrīkanṭī, also called the Śrīkanṭhīyasarihitā.
+[^395]: SvT 10/247cd-248ab. The SvT continues: atraiva bhogamokṣasiddhisādhanasvayambhūpunya-tīrthamahānadīsampadastīty āha -- mahākālas tathaikāīmram evamādi varānane ॥ 10/248 ॥ tīrthānām koṭir uddiṣṭā mahāpuṇyaphalodayā | gaṅgādīnār nadīnāṁ ca tatra pañca śatāni ca ॥ 10/249 ॥ ‘Here itself is (located) a wealth of great rivers and spontaneously created sacred bathing sites that serve as a means to worldly benefits, liberation and accomplishments (siddhi). Thus he says: ‘Mahākāla and Ekāmra, and in the same way others, O fair-faced lady, are said to be ten million sacred bathing sites (tirtha) ) that give rise to fruits of great merit. There are also five hundred rivers beginning with the Ganges.’ (SvT 10/248cd-249) evam ādītyādiśabdāt śrīamareśādipañcāṣṭtakānāḥ vārāṇasyādigataśrīmahādevāṣtṭa-ṣaṣteś ca parigrahaḥ | tīrthānām iti prabhāsādīnām | yad uktaṁ śrīdevīyāmale By the words ʻin the same way, others’ is included the five groups of eight (sacred sites) beginning with Amareśa, and the venerable sixty-eight (places) where the venerable Mahādeva is present, beginning with Vārāṇasī. The sacred bathing sites (are those) beginning with Prabhāsa. As is said in the venerable Devīyāmala: prabhāsādyā tu tīrthānām koṭir ekā varānane | pañcāṣṭakaṁ tu tatraiva lokānugrāhakari sadā || iti || 249 ॥ kuruvarṣar ca ---- navayojanasāhasrah dhanvākārari nibodha tam | ‘O fair-faced lady, the sacred sites are ten million. There (amongst them) are the five groups of eight that grace the world constantly.’ Again, the land of Kuru: “Know that that is shaped like a bow and (extends for) nine thousand leagues.”
+
+[^396]: Kṣemarāja quotes these lines in SvTu ad 10/255, introducing them as being from the Śrīkanṭī, also called the Śrīkanṭhīyasarihitā.
 
 
 *[p. 138]* ^pg156
@@ -233,11 +239,11 @@ Here in Bhārata (in the land called Kanyā), there are ten million Rudras, head
 
 ‘Here’ (means) on the island called Kanyā. As is said (in the Śrīkanṭhī): 
 
-‘There in middle is a great island called the island of Kumārī. It is full there with ten thousand Rudras, who have descended to do good to the fettered souls whose sin is destroyed by recollecting (them).”\*”). 
+‘There in middle is a great island called the island of Kumārī. It is full there with ten thousand Rudras, who have descended to do good to the fettered souls whose sin is destroyed by recollecting (them).’[^396] 
 
 Again: 
 
-‘O fair-faced lady, it is taught that there are ten million sacred bathing sites (tīrtha), that give rise fo the fruits of great desires, such as Mahākāla and Ekāmra. There are five hundred (sacred) rivers, beginning with the Ganges.” 
+‘O fair-faced lady, it is taught that there are ten million sacred bathing sites (tīrtha), that give rise fo the fruits of great desires, such as Mahākāla and Ekāmra. There are five hundred (sacred) rivers, beginning with the Ganges.’[^397] 
 
 ‘And so’ (it is very hard to be born there), because there are very many sacred places. 
 
@@ -245,15 +251,15 @@ Surely, in other lands the inhabitants are mostly happy, as is said (in the Svac
 
 ‘The inhabitants are very soft, like the tips of lotus petals. They eat the 
 
-juice of the Jambū fruit and are free of old age and death.” 
+juice of the Jambū fruit and are free of old age and death.’[^398] 
 
-Whereas it is said here that ‘the inhabitants are consumed by disease and fear, suffer and are poor’ and so are mostly unhappy. Thus, why is it said that it is ‘it is very hard to be born here’. With this doubt in mind, he says: 
+Whereas it is said here that ‘the inhabitants are consumed by disease and fear, suffer and are poor’[^399] and so are mostly unhappy. Thus, why is it said that it is ‘it is very hard to be born here’. With this doubt in mind, he says: 
 
-397\. SvT 10/248cd-249.
+[^397]: SvT 10/248cd-249.
 
-398\. SvT 10/213. The SvT continues: trayodaśābdasāhasraṁ teṣām āyuḥ prakītītam | ataś cākālamṛtyuvivarjitā ity uktaṁ bhavati \\\\ kiñ ca ---- devagandharvasiddhāś ca rṣayo tha vināyakāḥ ॥ 214 ॥ ganamātṛbhaginyaś ca vetālā rākṣasādayaḥ | evam ādyair asarṁkhyātair vṛtat caitad ilāvṛtam ॥ 215 ॥ ‘The length of their life is said to be thirteen thousand years.’ (10/214ab) Thus it is said that they do not die prematurely. Moreover: ‘Gods, Gandharvas, Siddhas, Rishis, Vināyakas, Gaṇas. Mothers, sisters, Vetālas and Rākṣasas etc. — inhabited (vṛta) by these and innumerable others such as them, this (place is called) Ilāvṛta.” (SvT 10/214cd-215)
+[^398]: SvT 10/213. The SvT continues: trayodaśābdasāhasraṁ teṣām āyuḥ prakītītam | ataś cākālamṛtyuvivarjitā ity uktaṁ bhavati \\\\ kiñ ca ---- devagandharvasiddhāś ca rṣayo tha vināyakāḥ ॥ 214 ॥ ganamātṛbhaginyaś ca vetālā rākṣasādayaḥ | evam ādyair asarṁkhyātair vṛtat caitad ilāvṛtam ॥ 215 ॥ ‘The length of their life is said to be thirteen thousand years.’ (10/214ab) Thus it is said that they do not die prematurely. Moreover: ‘Gods, Gandharvas, Siddhas, Rishis, Vināyakas, Gaṇas. Mothers, sisters, Vetālas and Rākṣasas etc. — inhabited (vṛta) by these and innumerable others such as them, this (place is called) Ilāvṛta.” (SvT 10/214cd-215)
 
-399\. SvT 10/240.
+[^399]: SvT 10/240.
 
 
 *[p. 139]* ^pg157
@@ -272,7 +278,7 @@ In other lands, one (helplessly) experiences like a fettered beast only the frui
 
 (What one attains in Bhārata) ‘surpasses (the most cherished) desire’, because (there) worldly enjoyment and liberation etc. are greater (than anywhere else). 
 
-Surely, if this is achieved in this way equally without distinction by (all) those who are born in Bhārata, then how is it that he said (that this is so) ‘particularly on (the land) called Kanyā’?\* With this doubt in mind, he says: 
+Surely, if this is achieved in this way equally without distinction by (all) those who are born in Bhārata, then how is it that he said (that this is so) ‘particularly on (the land) called Kanyā’?[^400] With this doubt in mind, he says: 
 
 ### TĀ 8.91
 
@@ -301,7 +307,7 @@ Thus, the inhabitants of that (place) attain heaven and (go to) hell according t
 
 pursāṁ sitāsitāny atra kurvatāri kila siddhyataḥ | 
 
-400\. Above, 8/88d.
+[^400]: Above, 8/88d.
 
 
 *[p. 140]* ^pg158
@@ -314,7 +320,7 @@ parāparau svarnirayāv iti rauravavārtike || 92 ||
 
 What is the authority here (for this view)? He says: ‘(it is declared) in the Rauravavārtika’. That is said there: 
 
-‘(The deeds) men do, white (pure) and black (impure), quickly result here in the upper and lower (worlds), heaven and hell. ”\*? 
+‘(The deeds) men do, white (pure) and black (impure), quickly result here in the upper and lower (worlds), heaven and hell.’[^402] 
 
 Rulers of the Lands of Jambūdvīpa 
 
@@ -347,7 +353,7 @@ Surely (one may ask), why is it divided in this way into regions? With this doub
 
 manoḥ svāyaṁibhuvasyāsan sutā daśa tatas trayaḥ | 
 
-402\. Clearly, Abhinava has lightly paraphrased this verse. The Rauravavārtika is by Bṛhaspati. See below note 8,303.
+[^402]: Clearly, Abhinava has lightly paraphrased this verse. The Rauravavārtika is by Bṛhaspati. See below note 8,303.
 
 
 *[p. 141]* ^pg159
@@ -358,11 +364,11 @@ nābhir yo navamas tasya naptā bharata ārṣabhiḥ ॥ 95 ॥
 tasyāṣtau tanayāḥ sāka kanyayā navamo ‘mśakaḥ |
 bhuktais tair navadhā tasmāl lakṣayojanamātrakāt ॥ 96 ॥ 
 
-Svāyambhuva Manu had ten sons. Three of them renounced the world. Now (the first son) was a king called Agnīdhra, (who reigned) on Jambūdvīpa. He had nine sons, and so (Jambudvīpa) was divided into nine parts. Nābhi, the ninth of these sons, had a grandson called Ārṣabha, whose son was Bharata, who had eight sons and a daughter. They divided the continent into nine parts. A ninth part of that (is the land of Jambūdvīpa), which thus measures only one hundred thousand leagues (in diameter). (94-96) 
+Svāyambhuva Manu had ten sons. Three of them renounced the world. Now (the first son) was a king called Agnīdhra, (who reigned) on Jambūdvīpa. He had nine sons, and so (Jambudvīpa) was divided into nine parts. Nābhi, the ninth of these sons, had a grandson called Ārṣabha, whose son was Bharata, who had eight sons and a daughter. They divided the continent into nine parts. A ninth part of that (is the land of Jambūdvīpa), which thus measures only one hundred thousand leagues (in diameter).[^403] (94-96) 
 
 #### Viveka on 8.94–96
 
-‘Sons’, (to be more precise,) grandsons. (He is) ‘the king on Jambūdvīpa’; that is to say, because he is in the middle of that. Ārṣabha is a patronymic of Rṣabha, and so he is said to be a grandson.“ The ‘eight sons’ were said before to be Indra and the rest. That is said (in the Svacchandatantra): 
+‘Sons’, (to be more precise,) grandsons. (He is) ‘the king on Jambūdvīpa’; that is to say, because he is in the middle of that. Ārṣabha is a patronymic of Rṣabha, and so he is said to be a grandson.[^404] The ‘eight sons’ were said before to be Indra and the rest.[^405] That is said (in the Svacchandatantra): 
 
 The Ten Sons of Manu 
 
@@ -372,24 +378,24 @@ Nine Sons of Agnīdhra, Kings of the Nine Lands of Jambūdvīpa
 
 The remaining seven, very powerful, were crowned on the seven islands. 1) Agnīdhra was on Jumbu Island. It is said that he had nine sons. (They were) 1) Nābhi (Navel), 2) Kiṁṇpuruṣa (Eunuch), 3) Hari (Saviour), 4) Ilāvṛta, 5) Bhadrāśva (Auspicious Horse), 6) Ketumāla, 7) Ramyaka (Playful), 8) Hiraṇnyamaya (Golden), with the one called 9) Kuru as the ninth, who are said to be the kings of the nine lands. These heroes, haughty with their great strength, were born from Agnīdhra (Bearer of the Fire). O Pārvatī, the nine 
 
-lands here are marked with their names.“ 
+lands here are marked with their names.[^406] 
 
 Eight Sons and Daughter of Rṣabha, Who Governs the Islands of Bhārata 
 
-403\. See SvT 10/274cd-83.
+[^403]: See SvT 10/274cd-83.
 
-404\. Otherwise, as Nābhi’s son, his name would be derived from Nābhi’s name.
+[^404]: Otherwise, as Nābhi’s son, his name would be derived from Nābhi’s name.
 
-405\. They gave their names to eight of the nine regions of Bhārata, listed above at 8/84.
+[^405]: They gave their names to eight of the nine regions of Bhārata, listed above at 8/84.
 
-406\. See above, 8/79.
+[^406]: See above, 8/79.
 
 
 *[p. 142]* ^pg160
 
-The greatly courageous Rṣabha, intent on righteousness, was the son of Nābhi. One should know that his son was the valorous Bharata, and that the most excellent land of Bhārata bears his name. O beloved, he too had eight sons and an excellent daughter. The eight sons were given the eight islands of Bhārata. The ninth, called Kumārī (Virgin), was given to the daughter(kanyā). Bharata named the islands after them.” 
+The greatly courageous Rṣabha, intent on righteousness, was the son of Nābhi. One should know that his son was the valorous Bharata, and that the most excellent land of Bhārata bears his name. O beloved, he too had eight sons and an excellent daughter. The eight sons were given the eight islands of Bhārata. The ninth, called Kumārī (Virgin), was given to the daughter(kanyā). Bharata named the islands after them.’[^407] 
 
-them.[^407] 
+them. 
 
 Measurements East to West of Jambūdvīpa 
 
@@ -421,17 +427,17 @@ The ocean of salt outside (that surrounds Jambūdvīpa) measures just one hundre
 
 *[p. 143]* ^pg161
 
-Dundubhi (Kettle Drum) and Dhūmra (Smoke), are outside it to the east. 2) To the north are Kaṅka (Gold), Droṇa (Soma Vessel) and Indu (Moon). 3) To the west are Varāha (Boar), Nandana (Delightful) and Aśoka (Without Suffering). 4) In the south along with Balāhaka, are Cakra (Wheel) and Maināka. Vādava, the submarine fire, is located between these (last) two. (97-98) 
+Dundubhi (Kettle Drum) and Dhūmra (Smoke), are outside it to the east. 2) To the north are Kaṅka (Gold), Droṇa (Soma Vessel) and Indu (Moon). 3) To the west are Varāha (Boar), Nandana (Delightful) and Aśoka (Without Suffering). 4) In the south[^408] along with Balāhaka, are Cakra (Wheel) and Maināka. Vādava, the submarine fire, is located between these (last) two. (97-98) 
 
 #### Viveka on 8.97–98
 
 As is said (in the Svacchandatantra): 
 
-‘The mountains, terrified by the fear of (Indra), the enemy of (the demon) Vptra, are located there. I will tell (you the names) of these twelve great heroes in brief. 1) (They are) Rṣabha, Dundubhi and Dhūmra, that are located in the east. 2) Candra, Kaṅka and Droṇa are located in the north. 3) Aśoka, Varāha and Nandana as the third, are the mountains located there to the west of the ocean of salt. 4) O fair lady, Cakra, the one called Maināka and Balāhaka, the third, are the mountains located in the south. Vadavānala stands in the middle (between) Cakra and Maināka.’\*'” 
+‘The mountains, terrified by the fear of (Indra),[^409] the enemy of (the demon) Vptra, are located there. I will tell (you the names) of these twelve great heroes in brief. 1) (They are) Rṣabha, Dundubhi and Dhūmra, that are located in the east. 2) Candra, Kaṅka and Droṇa are located in the north. 3) Aśoka, Varāha and Nandana as the third, are the mountains located there to the west of the ocean of salt. 4) O fair lady, Cakra, the one called Maināka and Balāhaka, the third, are the mountains located in the south. Vadavānala stands in the middle (between) Cakra and Maināka.’[^410] 
 
 ### TĀ 8.99–101
 
-Mount Vidyutvat\*" 
+Mount Vidyutvat[^411] 
 
 अब्धर्दक्षिणतः खाक्षिसहसरातिक्रमाद् गिरिः विद्युत्वाखिसहस्रोच्छिदायामोऽत्र फलाशिनः ॥ ९९ ॥
 मलदिग्धा दीर्घकेशश्मश्रवो गोसधर्मकाः ।
@@ -448,18 +454,18 @@ ity etad gurubhir gītaṁ Śrīmadrauravārtike ॥ 101 ॥
 
 At a distance of twenty thousand leagues, to the south of the (salty) ocean, there is a mountain (called) Vidyutvat (Lightning Bearer). It (stands) three thousand leagues in height and breadth. (The people who live) here eat fruit. They are filthy, have long hair and beards. Naked, (their way of life) is like cattle; they eat grass and live for eighty years. 
 
-408\. Read dakṣine for dakṣina.
+[^408]: Read dakṣine for dakṣina.
 
-409\. Indra, the great warrior king of the gods, is often said to tear mountains asunder with his weapon, the thunderbolt (vajra). Thus, mountains are afraid of him.
+[^409]: Indra, the great warrior king of the gods, is often said to tear mountains asunder with his weapon, the thunderbolt (vajra). Thus, mountains are afraid of him.
 
-410\. SVT 10/269cd-273.
+[^410]: SVT 10/269cd-273.
 
-411\. This entry is not found in the Svacchanda or Parākhya.
+[^411]: This entry is not found in the Svacchanda or Parākhya.
 
 
 *[p. 144]* ^pg162
 
-There (on that mountain), the doors (to the netherworlds) are always without locks, so that the Accomplishment of the Crevice (bilasiddhi), (by virtue of which one finds subterranean treasure, may be easily achieved).“? The 
+There (on that mountain), the doors (to the netherworlds) are always without locks, so that the Accomplishment of the Crevice (bilasiddhi), (by virtue of which one finds subterranean treasure, may be easily achieved).[^412] The 
 
 teacher 
 
@@ -480,20 +486,24 @@ venerable Rauravavārtike.[^413] (99-101)
 Six Islands and Seas beyond Jambūdvīpa and the Ocean of Salt 
 
 इत्थं य एष ठकवणसमुद्रः प्रतिपादितः ।
-तद्बहिः षडमी द्रीपाः प्रत्येक स्वाण्विर्वृताः ॥ achieved).[^412] ॥
+तद्बहिः षडमी द्रीपाः प्रत्येक स्वाण्विर्वृताः ॥ achieved). १०२ ॥
 क्रमद्विगुणिता : षदिभर्मनुपतरैरधिष्ठिताः ।
 शाककुशक्रञाः शाल्मलिगोमेधान्जमिति षडद्रीपाः ॥ १०३ ॥
 ्षीरदधिस्िक्षवमदिमधुरम्बुकाः षडम्बुधयः
 
 [^412]: ‘The term bilasiddhiḥ denotes the supernatural accomplishment of gaining access to the underworld through such caves.’ See Sanderson 2005: 280-282.
+
 [^413]: Read with MS C: —vārtike for -śāsane.
+
 [^414]: gurubhir iti bṁaspatipādaiḥ.
+
 [^415]: TĀ 8/99-101 is a paraphrase of the passage Jayaratha quotes in his commentary. He introduces it saying that the teacher who wrote this is Bṛhaspati. Gnoli ignores Jayaratha here and states in a note (1999: 177 n 1) that these verses are a paraphrase of some verses taken from Sadyojyotis’s commentary on the Rauravāgama. However, Sanderson (2006: 49 n 15) takes Jayaratha on his word, declaring the passage to be from Bṛhaspati’s vārtika on the Rauravasūtrasagraha. Bṛhaspati, along with Sadyojyotis, is one of the earliest known Siddhāntins to write commentaries on the Āgamas and the Eivatanu ad 8/345ab that Abhinava quotes many times, and a commentary - vārtika independent works. Jayaratha refers to the Vārtika as the work of the teacher who wrote ~ on the Rauravasūtrasaṁigraha. Here Jayaratha clearly identifies the author as Bṛhaspati. As the verses he quotes are not from the Śivatanu, which are invariably in Aryā metre, they can only be from the vārtika. Note also that MS C of the TĀ reads rauravavārtike for rauravaśāsane. See Dvivedi 1983: 70 and 63 and entry under Rauravavārtika in Appendix volume concerning the sources.
+
 [^416]: \[illegible\] Emend -phalāśanāh \[ch, ñ: -nah\] to phalāśinaḥ.
 
 *[p. 145]* ^pg163
 
-मेधातिधिर्वपुष्माञ्ज्योतिष्मान्युतिमता हवी राजा ॥ mentioned[^417] ॥
+मेधातिधिर्वपुष्माञ्ज्योतिष्मान्युतिमता हवी राजा ॥ mentioned १०४ ॥
 संवर इति शाकादिषु जम्बदरीपे न्यरूपि चाग्नीघ्रः ।
 
 \[ittham ya eṣa lavaṇasamudraḥ pratipāditaḥ |
@@ -514,12 +524,13 @@ jambudvīpe nyarūpi cāgnīdhraḥ |
 
 There are these (other) six islands beyond the ocean of salt, we have just described in this way. They are each surrounded by their own sea and, respectively twice the size (of the one preceding it), they are governed by the six sons of Manu. 
 
-The six islands are 1) Śāka, 2) Kuśa, 3) Krauñca, 4) Śalmali, 5) Gomeda and 6) Abja. The six seas (that surround them are made of) 1) milk, 2) curd, 3) clarified butter, 4) sugarcane juice, 5) wine and 6) sweet water.“ The kings of (these six islands) starting with Śāka are, respectively, 1) Medhātithi (Guest of Intelligence), 2) Vapuṣmat (Beautiful), 3) Jyotiṣmat (Luminous), with 4) Dyutimat (Brilliant), 5) king Havi (Fire Offering) and 6) Saṁvara (Forebearance). We have already mentioned“ 7) Agnīdhra (Bearer of Fire), (the king) of Jambudvīpa.[^418] (102-105ab) (102-104) 
+The six islands are 1) Śāka, 2) Kuśa, 3) Krauñca, 4) Śalmali, 5) Gomeda and 6) Abja. The six seas (that surround them are made of) 1) milk, 2) curd, 3) clarified butter, 4) sugarcane juice, 5) wine and 6) sweet water.[^417] The kings of (these six islands) starting with Śāka are, respectively, 1) Medhātithi (Guest of Intelligence), 2) Vapuṣmat (Beautiful), 3) Jyotiṣmat (Luminous), with 4) Dyutimat (Brilliant), 5) king Havi (Fire Offering) and 6) Saṁvara (Forebearance). We have already mentioned“ 7) Agnīdhra (Bearer of Fire), (the king) of Jambudvīpa.[^419] (102-105ab) (102-104) 
 
 #### Viveka on 8.102–104
 
 [^417]: See SvT 10/284-286ab. The seven islands and seas in the same order and with the same names are also found in the Parākhya 5/93-108ab The island is named first, followed by the sea. The origins of their names and their qualities are described one by one (ibid. 5/93-105). This is followed by their measurements (ibid. 5/106-108ab).
-[^418]: | \_ | \[अवात् \_\_ \[| King | Sea Śāka Medhātithi | Milk | Kuśa Vapuṣmat Curd Krauñca Jyotiṣmat | clarified butter | Samai | | \_Dyutimat | sugarcane juice Gomedha Havi Wine Abja (SvT: Puṣkara Saṁvara sweet water Jambudvīpa\* Agnīdhra salty water \*Note that the name of this Island is sometimes spelled Jambudvīpa as well as Jambūdvīpa. The Parākhya (5/93-105) supplies short references to the myths and etymologies explaining the names and nature of the seven Islands, starting with Jambu and the seven seas. The Seven Islands, Kings and Seas Island | Mountains | (King\_| Kig č | | Sons | Ocean Jambūdvīpa 12 Agnīdhra । \_- | Salt āka 7 Medhātithi 7 Milk Kuśa 7 Vapuṣmat 7 curd Krauñca 7 Jyotiṣmat 7 clarified butter | Śalmali, | 7 | Dywimt | 7 sugarcane juice Gomeda 7 Havi /Havya 7 | Ž < | Abja /Puṣkara | 1 | a) Saṁvara 2 sweet water b) Ghātakin
+
+[^419]: | \_ | \[अवात् \_\_ \[| King | Sea Śāka Medhātithi | Milk | Kuśa Vapuṣmat Curd Krauñca Jyotiṣmat | clarified butter | Samai | | \_Dyutimat | sugarcane juice Gomedha Havi Wine Abja (SvT: Puṣkara Saṁvara sweet water Jambudvīpa\* Agnīdhra salty water \*Note that the name of this Island is sometimes spelled Jambudvīpa as well as Jambūdvīpa. The Parākhya (5/93-105) supplies short references to the myths and etymologies explaining the names and nature of the seven Islands, starting with Jambu and the seven seas. The Seven Islands, Kings and Seas Island | Mountains | (King\_| Kig č | | Sons | Ocean Jambūdvīpa 12 Agnīdhra । \_- | Salt āka 7 Medhātithi 7 Milk Kuśa 7 Vapuṣmat 7 curd Krauñca 7 Jyotiṣmat 7 clarified butter | Śalmali, | 7 | Dywimt | 7 sugarcane juice Gomeda 7 Havi /Havya 7 | Ž < | Abja /Puṣkara | 1 | a) Saṁvara 2 sweet water b) Ghātakin
 
 *[p. 146]* ^pg164
 
@@ -527,14 +538,14 @@ The six islands are 1) Śāka, 2) Kuśa, 3) Krauñca, 4) Śalmali, 5) Gomeda and
 
 ‘O Pārvatī, the seven islands are Jambudvīpa, Śāka (Teak Tree), Kuśa (Grass), Krauñca (Curlew), Śalmali (Silk Cotton Tree), Gomedha (Cow Sacrifice) and the one called Puṣkara (Lake) are the seven islands.’ 
 
-‘The seven oceans are said to be (made) of salt, milk, curd, clarified butter, sugarcane juice, wine and sweet water. Jambudvīpa is said to measure one hundred thousand leagues, and one should know that it is surrounded (all around) outside by a sea of salt (water) that is equal to it (in size). The oceans in which the islands are located, in the same way (progressively), increase by double (the size). 
+‘The seven oceans are said to be (made) of salt, milk, curd, clarified butter, sugarcane juice, wine and sweet water. Jambudvīpa is said to measure one hundred thousand leagues, and one should know that it is surrounded (all around) outside by a sea of salt (water) that is equal to it (in size). The oceans in which the islands are located, in the same way (progressively), increase by double (the size).[^420] 
 
-419?\. SvT 10/284, 285cd-287 Kṣemarāja: tena śākādibhiḥ dvīpaiḥ saha kṣīrādisamudrāḥ kramād dviguṇavṛddhyā sthitāḥ | tad yathā śākadvīpaṁ dve lakṣe, tathā kṣīrābdhiḥ | kuśadvīpari lakṣānṇi catvāri, tathaiva dadhyabdhiḥ krauñcam aṣtau, tathaiva ca ghṛtābdhiḥ | śālmaliḥ ṣodaśa, tadvadikṣurasābdhiḥ | gomedo dvātriṁśat, tadvad madirābdhiḥ | puṣkaraś catuṣśaṣtiḥ, tathaiva svādūdaḥ | etac ca dvīpasamānatvam abdhīnām upasarīhariṣyati ---- ‘Thus, along with the islands Śāka and the rest, the milky ocean and the rest are, successively, twice the size (of the previous one). That is as follows. Śāka island is 200,000 (leagues in size) and so too the ocean of milk. The Kuśa island is 400,000 (leagues wide) and so too the ocean of curd. The Krauñca Island is eight (hundred thousand leagues wide) and so too the sea of clarified butter. The Śālmali Island is sixteen, so too the ocean of sugar cane juice. Gomeda is thirty-two and so too the ocean of wine. Puṣkara is sixty-four and so too (the ocean of) sweet water. He concludes (the account of) the islands and their size and of the oceans: puṣkaradvīpagunitaḥ svādūdo.ante vyavasthitaḥ | (SvT 10/327cd) iti | itha ca mervardhāt svādūdāntaḥ koṭidvayaṁ tripañcāśallakṣāṇi pañcāśac ca sah i bhavanti | yad vai pa ca sahas i koṭidvitayam eva ca || yojanānāri tu lakṣ mervardhād yāvat s svadiidam pramāṇaṁ parikīrtitam | (SvT 10/328-329ab) ‘(The ocean of) sweet water, along with the Island of Puṣkara, is located at the end (of the series). (10/327cd) In this way, there are 25,305,000 (leagues) from the half of Meru up to the (ocean of) sweet water. As will be said (further ahead): Fifty thousand and fifty-three hundred thousand, along with twenty million leagues, is said to be the measure from the half of Meru to the ocean of sweet (water). (SvT 10/328-329ab) The progressive doubling of the sizes of the seas is stated in Parākhya 5/106; Mṛgendra (vidyāpāda) 13/97cd-98ab and Mataṁga (vidyāpāda) 24/3 1ced-34.
+[^420]: SvT 10/284, 285cd-287 Kṣemarāja: tena śākādibhiḥ dvīpaiḥ saha kṣīrādisamudrāḥ kramād dviguṇavṛddhyā sthitāḥ | tad yathā śākadvīpaṁ dve lakṣe, tathā kṣīrābdhiḥ | kuśadvīpari lakṣānṇi catvāri, tathaiva dadhyabdhiḥ krauñcam aṣtau, tathaiva ca ghṛtābdhiḥ | śālmaliḥ ṣodaśa, tadvadikṣurasābdhiḥ | gomedo dvātriṁśat, tadvad madirābdhiḥ | puṣkaraś catuṣśaṣtiḥ, tathaiva svādūdaḥ | etac ca dvīpasamānatvam abdhīnām upasarīhariṣyati ---- ‘Thus, along with the islands Śāka and the rest, the milky ocean and the rest are, successively, twice the size (of the previous one). That is as follows. Śāka island is 200,000 (leagues in size) and so too the ocean of milk. The Kuśa island is 400,000 (leagues wide) and so too the ocean of curd. The Krauñca Island is eight (hundred thousand leagues wide) and so too the sea of clarified butter. The Śālmali Island is sixteen, so too the ocean of sugar cane juice. Gomeda is thirty-two and so too the ocean of wine. Puṣkara is sixty-four and so too (the ocean of) sweet water. He concludes (the account of) the islands and their size and of the oceans: puṣkaradvīpagunitaḥ svādūdo.ante vyavasthitaḥ | (SvT 10/327cd) iti | itha ca mervardhāt svādūdāntaḥ koṭidvayaṁ tripañcāśallakṣāṇi pañcāśac ca sah i bhavanti | yad vai pa ca sahas i koṭidvitayam eva ca || yojanānāri tu lakṣ mervardhād yāvat s svadiidam pramāṇaṁ parikīrtitam | (SvT 10/328-329ab) ‘(The ocean of) sweet water, along with the Island of Puṣkara, is located at the end (of the series). (10/327cd) In this way, there are 25,305,000 (leagues) from the half of Meru up to the (ocean of) sweet water. As will be said (further ahead): Fifty thousand and fifty-three hundred thousand, along with twenty million leagues, is said to be the measure from the half of Meru to the ocean of sweet (water). (SvT 10/328-329ab) The progressive doubling of the sizes of the seas is stated in Parākhya 5/106; Mṛgendra (vidyāpāda) 13/97cd-98ab and Mataṁga (vidyāpāda) 24/3 1ced-34.
 
 
 *[p. 147]* ^pg165
 
-‘O fair-faced lady, Agnīdhara is said to be the king of Jambudvīpa, Medhātithi of Śāka, Vapuṣmat of the one called Kuśa. The king of Kraunca is Jyotiṣmat, on Śalmali he is said to be Dyutimat, on Gomedha, Havya and Saṁvara is on Puṣkara.[^420] 
+‘O fair-faced lady, Agnīdhara is said to be the king of Jambudvīpa, Medhātithi of Śāka, Vapuṣmat of the one called Kuśa. The king of Kraunca is Jyotiṣmat, on Śalmali he is said to be Dyutimat, on Gomedha, Havya and Saṁvara is on Puṣkara.[^421] 
 
 He now describes the group of six islands (part by part). 
 
@@ -544,7 +555,7 @@ The Kings, Sons and Mountains of the remaining Six Islands
 
 गिरिसप्तकपरिकल्पि
 
-ततावत्खण्डास्तु पञ्च याकाद्याः ॥ north).[^421] ॥
+ततावत्खण्डास्तु पञ्च याकाद्याः ॥ north). १०५ ॥
 पुष्करसंज्ञो द्विदलो
 
 हरियमवरुणेन्दवोऽत्र पू्वीदौ ।
@@ -555,32 +566,31 @@ puṣkarasarijño dvidalo
 
 hariyamavarunendavo ‘tra pūrvādau | 
 
-The five islands starting with Śāka are divided by seven mountains, and as many are (their) regions. Puṣkara (the sixth) has two parts. (The cities of the four guardians of the quarters) are here. Starting from the east, they are, Indra’s city (in the east), Yama’s (in the south), Varuṇa’s (in the west), and Kubera’s (in the north). (105cd-106ab) (105) 
+The five islands starting with Śāka are divided by seven mountains, and as many are (their) regions. Puṣkara (the sixth) has two parts. (The cities of the four guardians of the quarters) are here. Starting from the east, they are, Indra’s city (in the east), Yama’s (in the south), Varuṇa’s (in the west), and Kubera’s (in the north).[^422] (105cd-106ab) (105) 
 
 #### Viveka on 8.105
 
 ‘As many’, that is, just seven (regions). There are ‘seven mountains’ because they are situated to the side (of each region). (Puṣkara) ‘has two parts’ 
 
-[^420]: SvT 10/288-289.
-[^421]: Cf. SvT 10/326-327ab: I will tell (the names) of the cities here (on the mountain) of the four guardians of the quarters. (These are, clockwise, beginning with the east,) (the city) of Hari is called Vasvekasāra. The city of the south is Saṁyamanī. The one called Sukhā is that (of Varuna) in the west and Vibhāvarī is that of the moon (in the north). SvT 10/326-327ab. Verses 97 to 105 are drawn from SvT 10/264ab-327.
+[^421]: SvT 10/288-289.
+
+[^422]: Cf. SvT 10/326-327ab: I will tell (the names) of the cities here (on the mountain) of the four guardians of the quarters. (These are, clockwise, beginning with the east,) (the city) of Hari is called Vasvekasāra. The city of the south is Saṁyamanī. The one called Sukhā is that (of Varuna) in the west and Vibhāvarī is that of the moon (in the north). SvT 10/326-327ab. Verses 97 to 105 are drawn from SvT 10/264ab-327.
 
 *[p. 148]* ^pg166
 
 because it is divided in the middle by a mountain with the form of a circular enclosure (valaya). ‘Starting from the east’ implies (that the cities of the guardians of the quarters are located) in the four directions. That is said (in the Svacchandatantra): 
 
-1\) ‘Medhatithi had seven sons, who were kings of Śākadvīpa. They were: 1) Śāntābhaya\* (Tranquil and Without Fear), 2) Śiśira (Cavity), 3) Sukhada (Giver of Joy), 4) Nandaka (Rejoicer), 5) Siva (Auspicious), (along with) 6) Kṣemaka (Forgiving) and 7) Dhruva (Immobile). They are marked with the names of the lands (they govern). The seven lands have been named. Now know (the names of) the mountains from me. 
+1\) ‘Medhatithi had seven sons, who were kings of Śākadvīpa. They were: 1) Śāntābhaya[^423] (Tranquil and Without Fear), 2) Śiśira (Cavity), 3) Sukhada (Giver of Joy), 4) Nandaka (Rejoicer), 5) Siva (Auspicious), (along with) 6) Kṣemaka (Forgiving) and 7) Dhruva (Immobile). They are marked with the names of the lands (they govern). The seven lands have been named. Now know (the names of) the mountains from me. 
 
-The seven Kula mountains (on them) are: 1) Gomedha (Cow Sacrifice), 2) the one called Candra (Moon), 3) Nārada and 4) Dundubhi (Kettle Drum), (as well as) 5) Rṣabha (Bull), 6) Somaka and 7) Vaibhrāja (Shining One). 
+The seven Kula mountains (on them) are: 1) Gomedha (Cow Sacrifice), 2) the one called Candra (Moon), 3) Nārada and 4) Dundubhi (Kettle Drum), (as well as) 5) Rṣabha (Bull), 6) Somaka and 7) Vaibhrāja (Shining One).[^424] 
 
-2\) ‘In the past, Vapuṣmat appointed (his) seven sons (as kings) on Kuśa Island, marked with the name of the land (the governed). (They are) 1) Śveta (White), 2) Lolita (Red), 3) Jīmūta (Cloud), 4) Harita (Green), 5) Vaidyuta (Lightning), 6) Mānasa (Mental) and 7) Suvrata (Good Vows). 
+2\) ‘In the past, Vapuṣmat appointed (his) seven sons (as kings) on Kuśa Island, marked with the name of the land (the governed). (They are) 1) Śveta (White), 2) Lolita (Red), 3) Jīmūta[^425] (Cloud), 4) Harita (Green), 5) Vaidyuta (Lightning), 6) Mānasa (Mental) and 7) Suvrata (Good Vows). 
 
 The seven mountains on (its) border are 1) Kumuda (Blue Lotus), 2) Urvada, 3) Varāha (Boar), 4) Droṇa (Soma Vessel), 5) Kaṁkata (Crab), 6) 
 
-Mahiṣa (Bull) and 7) Kumuda (Blue Lotus). 
+Mahiṣa (Bull) and 7) Kumuda (Blue Lotus).[^426] 
 
-\*\* 
-
-3\) ‘Jyotiṣmat appointed seven sons on Krauñca Island. They were 1) the one called Udbhijja and 2) Veṇumaṇdala (Circle of Bamboos),” 3) Rathakāra (Chariot-maker) and 4) Lavaṇa (Salt), 5) Dhṛtimat (Forebearing), 6) Supratāraka (Great Saviour) and 7) Kapila (Brown). These kings are marked with the name of the land (they govern). 
+3\) ‘Jyotiṣmat appointed seven sons on Krauñca Island. They were 1) the one called Udbhijja and 2) Veṇumaṇdala (Circle of Bamboos),[^427] 3) Rathakāra (Chariot-maker) and 4) Lavaṇa (Salt), 5) Dhṛtimat (Forebearing), 6) Supratāraka (Great Saviour) and 7) Kapila (Brown). These kings are marked with the name of the land (they govern). 
 
 1\) 
 
@@ -588,50 +598,46 @@ Vaidruma, 2)
 
 Hemanābha (Golden Navel), 3) 
 
-Dhyutimat (Luminous), 4) Puṣpadantaka (Flower Teeth), 5) Kuśala (Skilled), 6) Hari (Saviour) and 7) Marda (Slayer) are the seven Kula mountains (there). \* 
+Dhyutimat (Luminous), 4) Puṣpadantaka (Flower Teeth), 5) Kuśala (Skilled), 6) Hari (Saviour) and 7) Marda (Slayer) are the seven Kula mountains (there).[^428] 
 
 4\) ‘Dyutimat crowned (his) seven sons on Śalmali. They are said to be: 1) Manas (Mind), 2) Anuga (Follower), 3) Uṣṇa (Warm), 4) Pāvana (Holy), 5) Andhakāraka (Maker of Darkness), the sage called 6) Dundubhi (Kettle 
 
 Drum) and 7) Kuśala (Skilful). ° 
 
-1\) Krauñca, 2) Vāmana (Dwarf) as well as 3) Andhakāra (Darkness), 4) Divākṛti (Form of the Sky), 5) Dvibindu (Two Drops), 6) Puṇdarīka (Lotus) and 7) Dundubhi (Kettle Drum) are the Kula mountains (there).”\* 
+1\) Krauñca, 2) Vāmana (Dwarf) as well as 3) Andhakāra (Darkness), 4) Divākṛti (Form of the Sky), 5) Dvibindu (Two Drops), 6) Puṇdarīka (Lotus) and 7) Dundubhi (Kettle Drum) are the Kula mountains (there).’[^430] 
 
-422?\. Read śāntābhayas- for śāntobhayas-.
+[^423]: Read śāntābhayas- for śāntobhayas-.
 
-423?\. SvT 10/291-293.
+[^424]: SvT 10/291-293.
 
-424?\. Read jīmūto for jīmūtā.
+[^425]: Read jīmūto for jīmūtā.
 
-425?\. SVT 10/297cd-299.
+[^426]: SVT 10/297cd-299.
 
-426?\. Read venumandala for venurmandala.
+[^427]: Read venumandala for venurmandala.
 
-427?\. SvT 10/302cd-305ab.
+[^428]: SvT 10/302cd-305ab.
 
-429?\. SvT 10/310cd-31 lab.
+[^430]: SvT 10/310cd-31 lab.
 
 
 *[p. 149]* ^pg167
 
 5\) ‘King Havya crowned (his) seven sons on Gomeda (island). They are said to be 1)Jalada (Cloud), 2) Kumāra (Young Man), 3) Sukumāra (Handsome Young Man), 4) Marīcaka (Sun), 5) Kumuda (Blue Lotus), 6) 
 
-Ünnata (Elevated), and 7) Mahābhadra (Greatly Auspicious). 
+Ünnata (Elevated), and 7) Mahābhadra (Greatly Auspicious).’[^431] 
 
-"' 
+‘1) Udaya (Dawn), 2) Kesara (Lion’s Mane), 3) Jaṭhara (Belly), 4) Suraivata, 5) Śyāma (Dark Blue), 6) Ambikeya (Mother’s (Mountain)), and 7) Meru. These are the mountains on the border.’[^432] 
 
-‘1) Udaya (Dawn), 2) Kesara (Lion’s Mane), 3) Jaṭhara (Belly), 4) Suraivata, 5) Śyāma (Dark Blue), 6) Ambikeya (Mother’s (Mountain)), and 7) Meru. These are the mountains on the border.” 
+[^433]69\) ‘Thus on (the island) called Puṣkara, the leader there is Saṁvara. He is said to have had two sons crowned on (the island) called Puṣkara. 
 
-\*? 
+The mountain (there) has the form of a circular enclosure and is called Mānasottara (Beyond Mind).’[^434] 
 
-69\) ‘Thus on (the island) called Puṣkara, the leader there is Saṁvara. He is said to have had two sons crowned on (the island) called Puṣkara. 
+6b) ‘The king in the middle (island) is Ghātakin[^435] (Slayer), a great 
 
-The mountain (there) has the form of a circular enclosure and is called Mānasottara (Beyond Mind). ”\*\* 
+hero,[^436] he is the outer king.’[^437] 
 
-6b) ‘The king in the middle (island) is Ghātakin“ (Slayer), a great 
-
-hero,” he is the outer king.” 
-
-‘Know from me the cities here of the four guardians of the directions. 1) (In the east, the city) of Hari is called Vasvekasāra (the One Essence of the World), 2) that of the south is the city Saṁyamanī, 3) the (city) of the west is called Sukhā (Joy), and 4) that of the north is Vibhāvarī.” 
+‘Know from me the cities here of the four guardians of the directions. 1) (In the east, the city) of Hari is called Vasvekasāra (the One Essence of the World), 2) that of the south is the city Saṁyamanī, 3) the (city) of the west is called Sukhā (Joy), and 4) that of the north is Vibhāvarī.’[^438] 
 
 He (now) summarizes (everything) up to this much. 
 
@@ -645,34 +651,34 @@ Measurements from Meru to the Island of Puṣkara
 tripañcāśac ca lakṣāni dvikotyayutapañcakam |
 svādvarṇavānta mervardhād yojananām iyan pramā | 106 ॥ 
 
-There are twenty-five million and three hundred and fifty thousand leagues from the centre of Meru up to the extreme limit of the ocean of sweet water (which surrounds the island of Puṣkara). (106) (106cd-107ab) 
+There are twenty-five million and three hundred and fifty thousand leagues from the centre of Meru up to the extreme limit of the ocean of sweet water (which surrounds the island of Puṣkara).[^439] (106) (106cd-107ab) 
 
 #### Viveka on 8.106–107
 
-430?\. SvT 10/314cd-315.
+[^431]: SvT 10/314cd-315.
 
-431?\. SVT 10/316cd-317ab.
+[^432]: SVT 10/316cd-317ab.
 
-432?\. Abhinava says that Puṣkara is in two parts, which I take these to be, and label accordingly.
+[^433]: Abhinava says that Puṣkara is in two parts, which I take these to be, and label accordingly.
 
-433?\. SvT 10/321cd-322.
+[^434]: SvT 10/321cd-322.
 
-434?\. Read ghātakī for dhātakī.
+[^435]: Read ghātakī for dhātakī.
 
-435?\. Read mahāvīro for mahāvīto.
+[^436]: Read mahāvīro for mahāvīto.
 
-436?\. SvT 10/324ab.
+[^437]: SvT 10/324ab.
 
-437?\. SvT 10/326-327ab.
+[^438]: SvT 10/326-327ab.
 
-438?\. TĀ 8/106cd-107ab (106) is a condensation of SvT 10/328-329ab which reads as follows and means the same: pañcāśat tu sahasrāni tripañcāśat tathaiva ca | yojanānār tu lakṣāni koṭidvitayam eva ca || mervardhād yāvat svādūdaṁ pramāṇari parikirtītam |
+[^439]: TĀ 8/106cd-107ab (106) is a condensation of SvT 10/328-329ab which reads as follows and means the same: pañcāśat tu sahasrāni tripañcāśat tathaiva ca | yojanānār tu lakṣāni koṭidvitayam eva ca || mervardhād yāvat svādūdaṁ pramāṇari parikirtītam |
 
 
 *[p. 150]* ^pg168
 
-The (leagues) of Jambudvīpa amount to 50.000.4 the ocean of salt is 100,000, Śākadvīpa, 200,000, and the ocean of milk (which is another 200,000), Kuśa Island is 400,000, and the ocean of curd (is another 400,000), Krauñca (Island) is 800,000 and (so is) the ocean of clarified butter, Śamali is 1,600,000 and (so is) the ocean of sugarcane juice, Gomedha is 3,200,000 and (so is) the ocean of wine. Puṣkara is 6,400,000 and (so is the ocean of) sweet water. Thus, in this way, beginning with the half of Meru up to the end of (the ocean of) sweet water, the (distance) measures 25,350,000 leagues.“ That is (clearly) stated: 
+The (leagues) of Jambudvīpa amount to 50.000.[^440] the ocean of salt is 100,000, Śākadvīpa, 200,000, and the ocean of milk (which is another 200,000), Kuśa Island is 400,000, and the ocean of curd (is another 400,000), Krauñca (Island) is 800,000 and (so is) the ocean of clarified butter, Śamali is 1,600,000 and (so is) the ocean of sugarcane juice, Gomedha is 3,200,000 and (so is) the ocean of wine. Puṣkara is 6,400,000 and (so is the ocean of) sweet water. Thus, in this way, beginning with the half of Meru up to the end of (the ocean of) sweet water, the (distance) measures 25,350,000 leagues.[^441] That is (clearly) stated: 
 
-‘The seven islands and oceans together measure 25,350,000 leagues.” \*? 
+‘The seven islands and oceans together measure 25,350,000 leagues.’[^442] 
 
 ### TĀ 8.107–108
 
@@ -704,47 +710,45 @@ The eight directions (around) mount Lokāloka are presided over by eight Rudras,
 
 #### Viveka on 8.107–108
 
-439?\. The measurement begins from the middle of Meru. As Jambūdvīpa is 100,000 yojanas in diameter (see above 8/96), this is 50,000.
+[^440]: The measurement begins from the middle of Meru. As Jambūdvīpa is 100,000 yojanas in diameter (see above 8/96), this is 50,000.
 
-440?\. 50.000 + 100,000 + 200,000 + 200,000 + 400,000 + 400,000 + 800,000 + 8,000,000 + 1,600,000 + 1,600,000 ,000 + 3,200,000 + 3,200 000 + 6,400,000 + 6,400,000 = 25,350,000. SvT 10/332. TĀ 8/107 and 109 correspond to SvT 10/330-333.
+[^441]: 50.000 + 100,000 + 200,000 + 200,000 + 400,000 + 400,000 + 800,000 + 8,000,000 + 1,600,000 + 1,600,000 ,000 + 3,200,000 + 3,200 000 + 6,400,000 + 6,400,000 = 25,350,000. SvT 10/332. TĀ 8/107 and 109 correspond to SvT 10/330-333.
 
-441?\. This line is from an unknown source. Here is another example of the other source(s) parallel to the SvT Abhinava may be drawing from.
+[^442]: This line is from an unknown source. Here is another example of the other source(s) parallel to the SvT Abhinava may be drawing from.
 
 
 *[p. 151]* ^pg169
 
 ‘The Land of Gold’, that is to say, for the gods to play (there). As is said (in the Svacchandatantra): 
 
-ʻO fair-faced lady, after that comes the Land made of Gold, that (extends for) 100 million (leagues) and is for the god’s play. After that comes mount Lokāloka, which is round (valayākāra), extends for ten thousand leagues and is, O fair-faced lady, just one hundred thousand leagues high.” 
+ʻO fair-faced lady, after that comes the Land made of Gold, that (extends for) 100 million (leagues) and is for the god’s play. After that comes mount Lokāloka, which is round (valayākāra), extends for ten thousand leagues and is, O fair-faced lady, just one hundred thousand leagues high.’[^443] 
 
 ‘With the lords of the directions’, as is said: 
 
-‘The Guardians of the Quarters are located there, (as are) the Rudras of unfailing power.” 
-
-\*\* 
+‘The Guardians of the Quarters are located there, (as are) the Rudras of unfailing power.’[^444] 
 
 ‘As some would have it’, that is, Līlākāra and others. They explain differently, saying that as they are the guardians of all the worlds, there are only Rudras there who are Guardians of the Quarters. (This view is not correct, as) there are such passages from scripture (as the following,) that contradict that (view). 
 
-‘O goddess, then comes Lokāloka. The Rudras are established there. The power of all of them is unfailing. They are 1) Viraja\* (Shining One), 2) Vasudhāmaka (Controller of the Vasus),“ 3) Kardama (Mud) and 4) Śaṁkhapāla, 5) Paryanya (Cloud), 6) Svarṇalomaka (Golden Hairs), 7) Ketumat (Flaming One) and 8) Rājana (Royal One) are located in (in the directions), beginning with the east and ending with the northeast. Then, having pervaded all this, the Guardians of the Quarters are outside that." 
+‘O goddess, then comes Lokāloka. The Rudras are established there. The power of all of them is unfailing. They are 1) Viraja[^445] (Shining One), 2) Vasudhāmaka (Controller of the Vasus),[^446] 3) Kardama (Mud) and 4) Śaṁkhapāla, 5) Paryanya (Cloud), 6) Svarṇalomaka (Golden Hairs), 7) Ketumat (Flaming One) and 8) Rājana (Royal One) are located in (in the directions), beginning with the east and ending with the northeast. Then, having pervaded all this, the Guardians of the Quarters are outside that.’[^447] 
 
 (The sun shines within Lokāloka), ‘not beyond it’, because (Mount) Lokāloka is as high as the (trajectory of the) sun, and also because Meru stands 
 
-442?\. lab.
+[^443]: lab.
 
-443?\. SvT 10/332cd.
+[^444]: SvT 10/332cd.
 
-444?\. Read virajo for virajā.
+[^445]: Read virajo for virajā.
 
-445?\. Read vasudhāmakaḥ for vasudhāmakāḥ.
+[^446]: Read vasudhāmakaḥ for vasudhāmakāḥ.
 
-446?\. In the SvT (10/333), the names of the eight Rudras guarding the quarters are listed as follows: 1) Viraja, 2) Vasudhāmā, 3) Śaṁkhapāt, 4) Kardama, 5) Hiraṇyaromā 6) Parjanya, 7) Ketumat and 8) Bhājana. The last entry is simply a (better) variant reading of ‘rājana’. The rest are practically the same. There is only a small variation in the order. The basic common Guardians of the Quarters are the deities: 1) Indra (East); 2) Agni (Southeast); 3) Yama (South); 4) Nirriti (or Sūrya) (Southwest); 5) Varuṇa (West); 6) Vāyu (Northwest); 7) Kubera (North); 8) Īśāna (Soma or Pṛthivī) (Northeast). Kṣemarāja is aware, it seems, that there is a dispute as to whether the Rudras are the guardians of the quarters in this case only, and integrates them into the standard set: ‘(These) Rudras are the Lords who dwell together with all the Guardians of the Quarters who reside there. Indra and the rest are not capable of protecting the Path to that (full) extent, and so the Rudras have been appointed here. Indra and the rest are said to be Guardians of the Quarters because they are sustained by these aspects (amsa) of Rudra, by means of the unfailing power which is the power of the (Supreme) Lord (bhagavat). Thus, (these Rudras) are worthy of worship as a surrounding entourage (āvaranṇa) of the Lord.’ (intro. to SvT 10/333)
+[^447]: In the SvT (10/333), the names of the eight Rudras guarding the quarters are listed as follows: 1) Viraja, 2) Vasudhāmā, 3) Śaṁkhapāt, 4) Kardama, 5) Hiraṇyaromā 6) Parjanya, 7) Ketumat and 8) Bhājana. The last entry is simply a (better) variant reading of ‘rājana’. The rest are practically the same. There is only a small variation in the order. The basic common Guardians of the Quarters are the deities: 1) Indra (East); 2) Agni (Southeast); 3) Yama (South); 4) Nirriti (or Sūrya) (Southwest); 5) Varuṇa (West); 6) Vāyu (Northwest); 7) Kubera (North); 8) Īśāna (Soma or Pṛthivī) (Northeast). Kṣemarāja is aware, it seems, that there is a dispute as to whether the Rudras are the guardians of the quarters in this case only, and integrates them into the standard set: ‘(These) Rudras are the Lords who dwell together with all the Guardians of the Quarters who reside there. Indra and the rest are not capable of protecting the Path to that (full) extent, and so the Rudras have been appointed here. Indra and the rest are said to be Guardians of the Quarters because they are sustained by these aspects (amsa) of Rudra, by means of the unfailing power which is the power of the (Supreme) Lord (bhagavat). Thus, (these Rudras) are worthy of worship as a surrounding entourage (āvaranṇa) of the Lord.’ (intro. to SvT 10/333)
 
 
 *[p. 152]* ^pg170
 
 between it and (the sun). Thus, it is called ‘lokāloka’ because it is where there is light (āloka) for the worlds (loka) located on the inside (of it), and (also) because there is (both) light (āloka) and its absence (aloka), that is, darkness, on the outside of it and (light) on the inside of it. That is said (in the scripture where we read): 
 
-‘O fair lady of the gods, the sun shines within it, not outside (0.7 
+‘O fair lady of the gods, the sun shines within it, not outside (0.7[^448] 
 
 ### TĀ 8.109
 
@@ -762,25 +766,27 @@ bhānor uttaradakṣinam
 
 ayanadvayam etad eva kathayanti | 
 
-The two paths (vīthi) Su(vīthī) and, the other, Aja(vīthī), are the paths of the gods and the fathers, that are to the north and the south of it (i.e. the sun), (respectively). They say that these two are the northern and 
+The two paths (vīthi) Su(vīthī) and, the other, Aja(vīthī), are the paths of the gods and the fathers, that are to the north and the south of it (i.e. the sun), (respectively).[^449] They say that these two are the northern and 
 
-southern courses of the sun. 
+southern courses of the sun.[^450] 
 
-\+ (109cd-110ab) (109) 
+(109cd-110ab) (109) 
 
 #### Viveka on 8.109
 
 By the sun there being close to Meru, it travels along the northern path, and by its being close to Lokāloka, to the south. ‘The two paths (vīthi), Su(vīthī) and the other, Aja(vīthī)’, are called Suvīthī (the Good Path) and Ajavīthī (the Path of the Goat, respectively). This is the meaning. As is said: 
 
-‘Suvīthī (the Good Path) is to the north of it, and Ajavīthī (the Path of the Goat), to the south. ”\*' 
+‘Suvīthī (the Good Path) is to the north of it, and Ajavīthī (the Path of the Goat), to the south.’[^451] 
 
-447?\. SvT 10/332ab.
+[^448]: SvT 10/332ab.
 
-448?\. The correspondences referenced and made by Jayaratha are all consistently such that, if they were in correct serial order, the gods should be mentioned first and the fathers next, i.e. devapitṛpathāv for pitṛdevapathāv. However, reversing the order by altering the text would disrupt the meter. Jayaratha takes care to correct the possible mistake of assuming that they correspond by stating with scriptural authority all the correspondences. These are: The Southern path (Lokāloka) - Ajavīthī — Fathers. The Northern Path (Meru) - Suvīthī - Gods.
+[^449]: The correspondences referenced and made by Jayaratha are all consistently such that, if they were in correct serial order, the gods should be mentioned first and the fathers next, i.e. devapitṛpathāv for pitṛdevapathāv. However, reversing the order by altering the text would disrupt the meter. Jayaratha takes care to correct the possible mistake of assuming that they correspond by stating with scriptural authority all the correspondences. These are: The Southern path (Lokāloka) - Ajavīthī — Fathers. The Northern Path (Meru) - Suvīthī - Gods.
 
-449?\. See above, note to 6/1 13cd-114, concerning the southern and northern path of the sun (dakṣināyana and uttarāyana).
+[^450]: See above, note to 6/1 13cd-114, concerning the southern and northern path of the sun (dakṣināyana and uttarāyana).
 
-451\. SvT 10/339cd. etad vyācaṣte ---- pitrdevapatho hy eṣa kathitas tu mayā tava | 10/340ab śobhanā vīthī mārgo devapathaḥ | na jātā utpattisthāne samprati na kim api prāptā ity ajāḥ pitaraḥ, teṣāṁ vīthī panthā iti yathāsambhavari yojyam | “He explains that: ‘I have told you this, the Path of the Ancestors.’ (SvT 10/340ab) The beautiful path is the Path of the Gods. The ‘unborn’ are the ancestors who have not reached at present the place of (their future) birth. (This is) their path. This should be added as required. uttarāyaṇasya divyasiddhihetutvād devamārgatā, dakṣināyanasya tv aihikasiddhi-pūrakatvāt pitṛmārgatety arthaḥ | etac ca kālādhikāroktanītyāntar Śiva bahir api jñeyam | yad ukta gītāsu ---- The Northern Path is the cause of divine accomplishments and so is the Path of the Gods. The Southern Path fulfils the accomplishments here of this world and so is the Path of the Ancestors. This is the meaning. And (moreover, one should know) that, in accord with the teachings imparted in the chapter concerning time, the outer should be known to be like the inner. As is said in the (Gita suklakṛṣne gatī hy ete jagataḥ śāśvate mate | anayor yāty anāvṛttim ekayāvartate ‘nyayā || antar api hṛtpadmakarnikaiva meruḥ, tadupari cijjyotirmātrarūpasyātmano dhruvasyānulagnaḥ prāṇādityaḥ kālākāroktasakalabhacakragrahādyanuyātaḥ karnikopakanṭhagatapradhānanādīmukhasparśena pradakṣinam anāratam āvarta-mānas tiṣthan tattanmakarādi-sarikrāntikramenṇottaradakṣiṇādivibhāgan darśayatīty uktaprāyam | ‘These, the movements of the bright and dark (half of the year) of the universe are considered to be perpetual. They do not turn away from their course as one turns to the other.\* (816 8/26) \*(There are no variants in the reading in Rāmakantha’s version of the (Gita. . The reading in Abhinava’s version is ādyayāvartate — ‘as the first turns (to the other)’ for ekayāvartate — ‘as one turns (to the other)’). Also, in between is Meru, which is like the calyx of the lotus of the heart. Above it is the Sun of prana. , It is linked to Dhruva (the pole star), which is the Self that is the pure Light above (Meru). It is associated with the planets. All the wheel of the stars is said to be the form of time. It is constantly circulating around by (making) contact with the mouth of the main channel (nādī) (of the breath), which is next to the calyx. (In so doing,) it displays the division (of the quarters) from north to south etc. by the procession of the transits through each one (of the signs of the zodiac), beginning with Capricorn. This is the intended sense. yata ca meru (merulokālokāntarālasthavyomapathamadhyena) pradakṣiṇayaty aniśaḥ dineśaḥ, tata eva tadudayasthānātmakapūrvadigabhimukhānām ilāvṛta-varjapratipādita-varṣāṣtakadvīpāntarādisthānā jananadm sarveṣām uttare merur lokālokas tu dakṣiṇe | merun pradakṣinayan hi bhāskaratatpaścat ketumālādivāsināṁ meror dakṣiṇata udeti, taduttarasthakuruvarṣādivāsināṁ paścimataḥ, tatpūrva-bhadrāśvādivāsinām uttarataḥ, taddakṣiṇaharivarṣādiniṣthānām pūrvata iti sthityā sarveṣāṁ dvīpāntaragatāīnāīm api merulokālokau udagdakṣiṇnasthau bhavata ilāvṛtavarjam, tatrāpi vā chāyāmātreṇa sūryaprakāśānusārinṇī kācid avasthitir astīti kalpanīyam ||
+[^451]: SvT 10/339cd. etad vyācaṣte ---- pitrdevapatho hy eṣa kathitas tu mayā tava | 10/340ab śobhanā vīthī mārgo devapathaḥ | na jātā utpattisthāne samprati na kim api prāptā ity ajāḥ pitaraḥ, teṣāṁ vīthī panthā iti yathāsambhavari yojyam | “He explains that: ‘I have told you this, the Path of the Ancestors.’ (SvT 10/340ab) The beautiful path is the Path of the Gods. The ‘unborn’ are the ancestors who have not reached at present the place of (their future) birth. (This is) their path. This should be added as required. uttarāyaṇasya divyasiddhihetutvād devamārgatā, dakṣināyanasya tv aihikasiddhi-pūrakatvāt pitṛmārgatety arthaḥ | etac ca kālādhikāroktanītyāntar Śiva bahir api jñeyam | yad ukta gītāsu ---- The Northern Path is the cause of divine accomplishments and so is the Path of the Gods. The Southern Path fulfils the accomplishments here of this world and so is the Path of the Ancestors. This is the meaning. And (moreover, one should know) that, in accord with the teachings imparted in the chapter concerning time, the outer should be known to be like the inner. As is said in the (Gita suklakṛṣne gatī hy ete jagataḥ śāśvate mate | anayor yāty anāvṛttim ekayāvartate ‘nyayā || antar api hṛtpadmakarnikaiva meruḥ, tadupari cijjyotirmātrarūpasyātmano dhruvasyānulagnaḥ prāṇādityaḥ kālākāroktasakalabhacakragrahādyanuyātaḥ karnikopakanṭhagatapradhānanādīmukhasparśena pradakṣinam anāratam āvarta-mānas tiṣthan tattanmakarādi-sarikrāntikramenṇottaradakṣiṇādivibhāgan darśayatīty uktaprāyam | ‘These, the movements of the bright and dark (half of the year) of the universe are considered to be perpetual. They do not turn away from their course as one turns to the other.\* (816 8/26) \*(There are no variants in the reading in Rāmakantha’s version of the (Gita. . The reading in Abhinava’s version is ādyayāvartate — ‘as the first turns (to the other)’ for ekayāvartate — ‘as one turns (to the other)’). Also, in between is Meru, which is like the calyx of the lotus of the heart. Above it is the Sun of prana. , It is linked to Dhruva (the pole star), which is the Self that is the pure Light above (Meru). It is associated with the planets. All the wheel of the stars is said to be the form of time. It is constantly circulating around by (making) contact with the mouth of the main channel (nādī) (of the breath), which is next to the calyx. (In so doing,) it displays the division (of the quarters) from north to south etc. by the procession of the transits through each one (of the signs of the zodiac), beginning with Capricorn. This is the intended sense. yata ca meru (merulokālokāntarālasthavyomapathamadhyena) pradakṣiṇayaty aniśaḥ dineśaḥ, tata eva tadudayasthānātmakapūrvadigabhimukhānām ilāvṛta-varjapratipādita-varṣāṣtakadvīpāntarādisthānā jananadm sarveṣām uttare merur lokālokas tu dakṣiṇe | merun pradakṣinayan hi bhāskaratatpaścat ketumālādivāsināṁ meror dakṣiṇata udeti, taduttarasthakuruvarṣādivāsināṁ paścimataḥ, tatpūrva-bhadrāśvādivāsinām uttarataḥ, taddakṣiṇaharivarṣādiniṣthānām pūrvata iti sthityā sarveṣāṁ dvīpāntaragatāīnāīm api merulokālokau udagdakṣiṇnasthau bhavata ilāvṛtavarjam, tatrāpi vā chāyāmātreṇa sūryaprakāśānusārinṇī kācid avasthitir astīti kalpanīyam ||
+
+    As the sun constantly goes around Meru by the middle path in the space between Meru and Lokāloka, Meru is to the north of all the people who are on the islands and the aforementioned eight countries. They face the east, which is where it rises, except for Ilāvṛta (where the sun does not rise). Lokāloka is to the south. As the sun goes around Meru clockwise, it rises (first of all) from the south for those who live in Ketumālā etc., from the west who live in the land of Kuru etc., which is to the north of that, from the north for those who live in Bhadrāśva etc., which is preceded by that (land), from the east who live in the land of Hari which is to the south of that (land of Bhadrāśva). In this way, Meru and Lokāloka are to the north and south of all those who are on the islands, except Ilāvṛta. Or else, there also, one could conceive that there is some presence of the light of the sun just as a shadow alone.”
 
 
 *[p. 153]* ^pg171
@@ -795,8 +801,6 @@ The two paths are (those of the sun’s) northern course (uttarāyaṇna) and th
 
 ‘The sun’s southern course is (in that direction) because it is above Lokāloka and the northern course is said (to be in that direction) because it is to the north there.[^452] 
 
-As the sun constantly goes around Meru by the middle path in the space between Meru and Lokāloka, Meru is to the north of all the people who are on the islands and the aforementioned eight countries. They face the east, which is where it rises, except for Ilāvṛta (where the sun does not rise). Lokāloka is to the south. As the sun goes around Meru clockwise, it rises (first of all) from the south for those who live in Ketumālā etc., from the west who live in the land of Kuru etc., which is to the north of that, from the north for those who live in Bhadrāśva etc., which is preceded by that (land), from the east who live in the land of Hari which is to the south of that (land of Bhadrāśva). In this way, Meru and Lokāloka are to the north and south of all those who are on the islands, except Ilāvṛta. Or else, there also, one could conceive that there is some presence of the light of the sun just as a shadow alone.”
-
 [^452]: SvT 10/336cd-337ab. Commenting on this verse, Kṣemarāja writes: iha merulokālokayor antarvartigaganapathamadhye sañcaran bhūpīṭhikāpratiṣṭhita-liṅgamūrtimerum anavarataḥ parameśvaraniyatiniyantrita-ṣaṣtighaṭikātmanā bāhya-kālena pradakṣinyan dhruvanābhinibaddhabhacakrasañcārigrahamadhyago graha-grāmanṇīs tattadrāśisañcārānusāritatataddattasahabhāvād āśritatīvramandāmandādi - dīptibhedo ‘nyarūpo bhūtasargavartanīmi vicitrām vartayati | “(The sun) moves here in the middle of the path of the space between Meru and Lokāloka. Taking sixty ghaṭikas of external time (for each orbit) (i.e. 24 hours), as fixed by the Supreme Lord’s ordinance (niyati), it rotates constantly around Meru which, in the form of a Liṅga, is installed on the pedestal of the earth. (The sun,) the leader of the planets, is in the middle of the planets that move along with the wheel of the stars, firmly bound to Dhruva, situated on its axis (nābhi). It orbits around the wonderful variety of the material creation, with the support afforded by the corresponding movement of each of the signs of the zodiac, and its form varies according to variety of (its) blazing energy (dīpti), which comes forth (āśrita) as intense, weak, or other than weak etc. ataś ca sa vibhuḥ | lokālokopariṣtād iti tannaikatyena bhramaṇāt | tatreti, lokālokamerv-antarālavartini viṣaye sthitvā kramāt krama merunikaṭād bahir-nihsaraṇena bhramaṇāt karkaṭādirāśiṣatkasañcārarāūpa dakṣināyanam, lokāloka-saminikarṣān merunaikaṭyenāntarantaḥ praveśātmanottareṇna bhramaṇān makarādi-sañcārarūpar tūttarāyaṇaṁ bhavati | vakṣyati hi ---- sarveṣām uttare merur lokālokas tu dakṣine iti | eva saṅgatāgamikaprakriyayaiva etad vyākhyeyam, na tu parasparavisamvādi-jyotiśāstramatānusaraṇasaṁgatyā | Thus (the Sun) is the pervasive lord (vibhu). (The verse says) ‘because it is above Lokāloka’, that is, because it moves close to that. ‘There’ means located in the area in between Lokāloka and Meru. The Southern Path is the movement (of the sun) through the six signs of the zodiac, beginning with Cancer. Due to (the sun’s) motion, it gradually moves away, step by step, from the proximity of Meru. The Northern Path, which is the movement from Cancer (onwards through the other six signs of zodiac), (takes place) by its northern motion, which gets (progressively) closer to Meru, (away from) the proximity of Lokāloka. As is said (further ahead): ‘(Meru) is to the north of all (the eight continents), while Lokāloka is to the south.” (see TĀ 8/1 10cd (1109) and note) This should be explained in this way in accord with the consonant Āgamic cosmology (prakriyā), not in accord with the one that follows the view of the astrological texts, which are in disagreement with one another.”
 
 *[p. 155]* ^pg173
@@ -810,17 +814,17 @@ Surely (one may ask), what is the (scriptural) authority here for (saying) that 
 सर्वेषामुत्तरो मेरर्लोकालोकश्च दक्षिणः ॥ ११० ॥
 sarveṣām uttaro merur lokālokaś ca dakṣiṇaḥ ॥ 110 ॥ 
 
-(Meru) is to the north of all (the eight continents), while Lokāloka is to the south.\* (110cd) (110ab) 
+(Meru) is to the north of all (the eight continents), while Lokāloka is to the south.[^453] (110cd) (110ab) 
 
 #### Viveka on 8.110
 
-1\) ‘Of all’ the inhabitants of the eight lands etc. The sun does not shine in Iāvpta,\*“ and so what occasion (is there to consider whether the sun is to the north or the south there), however wonderfully diverse the movement (of the sun) may be? 
+1\) ‘Of all’ the inhabitants of the eight lands etc. The sun does not shine in Iāvpta,[^454] and so what occasion (is there to consider whether the sun is to the north or the south there), however wonderfully diverse the movement (of the sun) may be? 
 
 2\) The sun is the Lord (bhagavat). Located, in relation to Meru, to the south, (the sun rises) in the three lands of Bhārata, and the rest to the east (of Bhārata etc.), 
 
-453\. The same line with insignificant variants appears in SvTu ad 10/339cd, where it reads — sarveṣām uttare merur lokālokas tu dakṣiṇe. Kṣemarāja quotes it in SvTu 10/336cd- 337ab, stating that ‘this will be said’, presumably further ahead in the SvT. Thus, it appears that this line was found in the version of the Svacchandatantra to which Abhinava had access, but not in the modern printed edition.
+[^453]: The same line with insignificant variants appears in SvTu ad 10/339cd, where it reads — sarveṣām uttare merur lokālokas tu dakṣiṇe. Kṣemarāja quotes it in SvTu 10/336cd- 337ab, stating that ‘this will be said’, presumably further ahead in the SvT. Thus, it appears that this line was found in the version of the Svacchandatantra to which Abhinava had access, but not in the modern printed edition.
 
-454\. See above 8/68.
+[^454]: See above 8/68.
 
 
 *[p. 156]* ^pg174
@@ -863,13 +867,13 @@ madhyandinari tad vāruṇyāṁ saumye sūryodayaḥ smṛtaḥ |
 udayo yo (maravatyam maravatyam so ‘rdharātro yamālaye || 112 ||
 ke ‘stań saumye ca madhyāhna itthaṁ sūryagatāgatam | 
 
-At midnight in Amarāvatī (in the east), it is sunset in the south. That is midday in the west and said to be sunrise in the north. Sunrise in Amarāvatī is midnight (in the south), the abode of Yama, sunset in the west (ke), and midday in the north. The sun comes and goes in this way.“ (111cd-113ab) (111-112) 
+At midnight in Amarāvatī (in the east), it is sunset in the south. That is midday in the west and said to be sunrise in the north. Sunrise in Amarāvatī is midnight (in the south), the abode of Yama, sunset in the west (ke),[^455] and midday in the north. The sun comes and goes in this way.[^456] (111cd-113ab) (111-112) 
 
 #### Viveka on 8.111–112
 
-455\. Jayaratha glosses ke as vārune, i.e. in (the quarter of) Varuna’, that is, the west.
+[^455]: Jayaratha glosses ke as vārune, i.e. in (the quarter of) Varuna’, that is, the west.
 
-456?\. Read -gatāgatam for -gatāgate. See above, 8/48 ff. and below 15/213-216. TĀ 8/111cd-112ab (111) is practically a literal quote of SvT 10/337cd-338ab, and 112cd- 113ab (112) is a paraphrase of SvT 10/338cd-339ab, which reads: yadaiva cāmarāvatyām udayas tasya dṛśyate || tad āstam eti vārunyām ity ādityagatāgatam | “When the sun is seen to rise in Amarāvati, it sets in the south. This is the sun’s going and coming.’ SvT 10/388cd-389ab. Kṣemarāja comments: nirdiṣṭanītyā meru pradakṣinayataḥ sūryasya yadā saumya iti meror uttare bhāge udayo vāruṇyā āgacchato darśanaṁ tadā merutatpārśvasthaproktaparvatacchāyāvaśād yamasya disi sūryo ‘stam eti, na dṛśyate tatprakāśa ity arthaḥ | tadaiva ca vāru disgi madhyāhnaḥ, tatpūrvagasyārkasyodayadeśād dakṣiṇadi h pañcadaśaghaṭii vadher gateḥ sampannatvāt tadaiva tv amarāvatyām ardharātraḥ, ‘According to the imparted teaching, if the sun, in the course of its rotation around Meru, rises in the northern part of Meru, it is seen entering the west. Then the sun sets in the southern quarter, because of the shade of the aforementioned mountain next to Meru. The meaning is that its light is not seen. At that same time, it is midday in the west, because the movement (of the sun) continues up to the end of fifteen ghaṭikās towards the south, from the quarter the sun rises in the east. At that same time, it is midnight in Amarāvatī. ghaṭikāpañcadaśakenātra sūryodayasya bhaviṣyattvāt | itthaṁ ca yadaivāmarāvatyām asyodayaḥ, tadaiva vāruṇīvatīnām saurasya triṁśadghaṭikāvāhasya jātatvād vārunyāṁ sūryo ‘stam eti dinānto jāyate, ity anena prakāreṇādityagatāgata vidikṣv api mantavyam, pratipāditakramasya upalakṣaṇabhūtatvāt || This is because the sun will rise here in fifteen ghaṭikās (i.e. 6 hours). And when it rises the same way in Amarāvati, then for those who are in the west, the sun sets at the end of the day in the west, because the sun has moved for thirty ghaṭikās (i.e. twelve hours). One should also understand the coming and going of the sun in the same way within the intermediate quarters also, for the sequence that has been explained (in this way also) serves to illustrate (upalakṣana) (the analogous ones).’
+[^456]: Read -gatāgatam for -gatāgate. See above, 8/48 ff. and below 15/213-216. TĀ 8/111cd-112ab (111) is practically a literal quote of SvT 10/337cd-338ab, and 112cd- 113ab (112) is a paraphrase of SvT 10/338cd-339ab, which reads: yadaiva cāmarāvatyām udayas tasya dṛśyate || tad āstam eti vārunyām ity ādityagatāgatam | “When the sun is seen to rise in Amarāvati, it sets in the south. This is the sun’s going and coming.’ SvT 10/388cd-389ab. Kṣemarāja comments: nirdiṣṭanītyā meru pradakṣinayataḥ sūryasya yadā saumya iti meror uttare bhāge udayo vāruṇyā āgacchato darśanaṁ tadā merutatpārśvasthaproktaparvatacchāyāvaśād yamasya disi sūryo ‘stam eti, na dṛśyate tatprakāśa ity arthaḥ | tadaiva ca vāru disgi madhyāhnaḥ, tatpūrvagasyārkasyodayadeśād dakṣiṇadi h pañcadaśaghaṭii vadher gateḥ sampannatvāt tadaiva tv amarāvatyām ardharātraḥ, ‘According to the imparted teaching, if the sun, in the course of its rotation around Meru, rises in the northern part of Meru, it is seen entering the west. Then the sun sets in the southern quarter, because of the shade of the aforementioned mountain next to Meru. The meaning is that its light is not seen. At that same time, it is midday in the west, because the movement (of the sun) continues up to the end of fifteen ghaṭikās towards the south, from the quarter the sun rises in the east. At that same time, it is midnight in Amarāvatī. ghaṭikāpañcadaśakenātra sūryodayasya bhaviṣyattvāt | itthaṁ ca yadaivāmarāvatyām asyodayaḥ, tadaiva vāruṇīvatīnām saurasya triṁśadghaṭikāvāhasya jātatvād vārunyāṁ sūryo ‘stam eti dinānto jāyate, ity anena prakāreṇādityagatāgata vidikṣv api mantavyam, pratipāditakramasya upalakṣaṇabhūtatvāt || This is because the sun will rise here in fifteen ghaṭikās (i.e. 6 hours). And when it rises the same way in Amarāvati, then for those who are in the west, the sun sets at the end of the day in the west, because the sun has moved for thirty ghaṭikās (i.e. twelve hours). One should also understand the coming and going of the sun in the same way within the intermediate quarters also, for the sequence that has been explained (in this way also) serves to illustrate (upalakṣana) (the analogous ones).’
 
 
 *[p. 157]* ^pg175
@@ -895,7 +899,7 @@ Having explained that by the way, he (now) continues with the main point.
 Beyond Lokāloka: a Region of Darkness and the Ocean of Garbhoda 
 
 पञ्चत्रिंशत्कोरिसंख्या लक्षाण्येकोनविंशति ; ।
-चत्वारिंशत्सहस्राणि ध्वान्तं लोकाचलादबहिः ॥ leagues.[^459] ॥
+चत्वारिंशत्सहस्राणि ध्वान्तं लोकाचलादबहिः ॥ leagues. ११३ ॥
 सप्तसागरमानस्तु गर्भोदाख्यः समुद्ररट् |
 लोकालोकस्य परतो यदर्भे निखिलेव भूः ॥ ११४ ॥
 
@@ -914,22 +918,21 @@ That is said (in the Svacchandatantra, where we read):
 
 ‘Outside (beyond it) is terrible darkness which, hard to behold, is devoid of living beings. O fair-faced lady, (it extends for) three hundred and 
 
-fifty-one million, nine hundred and forty thousand leagues. 
-
-"+ 
+fifty-one million, nine hundred and forty thousand leagues.’[^459] 
 
 The seven oceans, beginning with that of salt, progressively doubling in size with respect to the previous one, beginning with (the first ocean that extends for) one hundred thousand (leagues), measure (all together) twelve 
 
 [^458]: Verses 111cd-115ab (111-114) correspond to SvT 10/337cd-341. \*Garbhoda has the dimensions of all the other oceans put together.” Parākhya 5/109cd.
+
 [^459]: SvT 10/340cd-341. This is the same size given in Parākhya 5/111. ‘Beyond that is the shell of the Egg of Brahma, one crore in thickness. And on the near side of Meru (i.e. South) (the radius of the Earth is fifty crores (yojanas); on the far (i.e. northern) side to the East of it and to the West is the same (radius). Thus is the earth measured.’ Parākhya 5/112 For detailed measurements of the whole Egg, see below ad 8/118cd- 119ab (118).
 
 *[p. 159]* ^pg177
 
-million and seven hundred thousand (leagues). The extent of that (ocean called Garbhoda) is equal to that. This is the meaning. (It is) ‘the emperor of the oceans’ because it contains within itself the seven oceans, beginning with that of salt. That is said (in the following verse): 
+million and seven hundred thousand (leagues).[^460] The extent of that (ocean called Garbhoda) is equal to that. This is the meaning. (It is) ‘the emperor of the oceans’ because it contains within itself the seven oceans, beginning with that of salt. That is said (in the following verse): 
 
-‘The seven oceans that have been described are said to be contained\*“' here (within it) and so is called Garbhoda (Container of the Waters) that transports the juice (rasa) of all the oceans.”\* 
+‘The seven oceans that have been described are said to be contained[^461] here (within it) and so is called Garbhoda (Container of the Waters) that transports the juice (rasa) of all the oceans.’[^462] 
 
-He (now) clarifies what the venerable Siddhayogīśvarīmata\* says in the place of (the area of) darkness. 
+He (now) clarifies what the venerable Siddhayogīśvarīmata[^463] says in the place of (the area of) darkness. 
 
 ### TĀ 8.115–117
 
@@ -951,32 +954,32 @@ tata uṣṇodakās triṁśan nadyaḥ pātālagās tataḥ |
 caturdiù naimirodyānar yoginīsevitaṁ sadā || 117 ॥
 tato merus tato nāgā meghā hemāndakaṁ tataḥ | 
 
-According to the Siddhātantra, there is a region (mandala) called Kauśeya\*\* on the shore of the Garbhoda ocean. Garuda resides there, 
+According to the Siddhātantra, there is a region (mandala) called Kauśeya[^464] on the shore of the Garbhoda ocean. Garuda resides there, 
 
-460?\. 100,000 + 200,000 + 400,000 + 800,000 + 1,600,000 + 3,200,000 + 6,400,000 = 12,700,000. See above ad 8/106cd-107ab (106). There, the calculation of the size of the oceans and the islands together resulted in 25,350,000 yojanas. Half of this is 12,675,000. The discrepancy of 25,000 yojanas is because the distances were measured from the middle of Meru. This is 50,000 to the shore of the salty ocean. Here the entire diameter of Jambūdvīpa, which is double that, has been taken into consideration. That way we arrive at the 25,400,000 for the islands and oceans together. Half of that is 12,700,000.
+[^460]: 100,000 + 200,000 + 400,000 + 800,000 + 1,600,000 + 3,200,000 + 6,400,000 = 12,700,000. See above ad 8/106cd-107ab (106). There, the calculation of the size of the oceans and the islands together resulted in 25,350,000 yojanas. Half of this is 12,675,000. The discrepancy of 25,000 yojanas is because the distances were measured from the middle of Meru. This is 50,000 to the shore of the salty ocean. Here the entire diameter of Jambūdvīpa, which is double that, has been taken into consideration. That way we arrive at the 25,400,000 for the islands and oceans together. Half of that is 12,700,000.
 
-461?\. Read garbhe for garme.
+[^461]: Read garbhe for garme.
 
-462?\. In the printed edition, the following verse is identified by the editor as being from the Mṛgendrāgama, but it is not found in any of the four published pādas.
+[^462]: In the printed edition, the following verse is identified by the editor as being from the Mṛgendrāgama, but it is not found in any of the four published pādas.
 
-463?\. Read —yogīśvarī- for —-yogīśvara-.
+[^463]: Read —yogīśvarī- for —-yogīśvara-.
 
-464?\. Kauśeya is generally not mentioned in the Siddhānta cosmologies.
+[^464]: Kauśeya is generally not mentioned in the Siddhānta cosmologies.
 
 
 *[p. 160]* ^pg178
 
-surrounded by Siddha Yakṣas,“\* who play on the mountain peaks. There are nine Kula mountains here, from which flow thirty rivers of hot water towards the hells. Then the garden Naimira extends in the four regions, and is always attended by Yoginīs. Then there are a great mountain, the serpent gods, the clouds and then the golden egg. (115cd-118ab) (115-117) 
+surrounded by Siddha Yakṣas,[^465] who play on the mountain peaks. There are nine Kula mountains here, from which flow thirty rivers of hot water towards the hells. Then the garden Naimira extends in the four regions, and is always attended by Yoginīs. Then there are a great mountain, the serpent gods, the clouds and then the golden egg. (115cd-118ab) (115-117) 
 
 #### Viveka on 8.115–117
 
-‘On the shore’ on the other side from this one, Garbhoda is ‘there’, near Lokāloka. ‘The garden Naimira’ is called Naimirapuṣpa. This is the meaning. ‘The serpent gods’, that is to say, in the land made of gems. ‘The clouds’, that is, on top of mount Hariścandra.\* “The golden egg’ means the shell 
+‘On the shore’ on the other side from this one, Garbhoda is ‘there’, near Lokāloka. ‘The garden Naimira’ is called Naimirapuṣpa. This is the meaning. ‘The serpent gods’, that is to say, in the land made of gems. ‘The clouds’, that is, on top of mount Hariścandra.[^466] “The golden egg’ means the shell 
 
 (karparikā) of the golden egg. 
 
 That is said there (in the Siddhayogeśvarīmata): 
 
-‘There is a region called Kauśeya on the far bank of the Garbhoda. The lord of the gods, Garuda, resides there surrounded by thousands of Siddha Yakṣas,\*” proud of (their) strength, which is equal to his. They play (there) on the mountain peaks again and again.’ 
+‘There is a region called Kauśeya on the far bank of the Garbhoda. The lord of the gods, Garuda, resides there surrounded by thousands of Siddha Yakṣas,[^467] proud of (their) strength, which is equal to his. They play (there) on the mountain peaks again and again.’ 
 
 ‘One should know that the (nine) Kula mountains (there) are 1) Hula (Double Edged Knife), 2) Hāla (Plow), 3) Vara (Best), 4) Krodha (Anger), 5) Koṭaka (Cavity), 6) Mount Mūla (Root), 7) Rodhaka (Obstructer), 8) Vāmana (Dwarf) and 9) Khāṇqda (Section).’ 
 
@@ -984,25 +987,27 @@ That is said there (in the Siddhayogeśvarīmata):
 
 ‘Again, on the bank of that river is the forest (called) Naimerapuṣpaka. O mistress of the gods, Yoginīs, proud of their strength, play there.” 
 
-‘The land outside the forest is everywhere dry and without water. Then again there is the land (called) Ratnajā (Born of Gems), which is strewn with the elephants of the quarters, and well adorned\* all around, it is where there are many elephants that look (as big) as (Mount) Meru and Mandara.” 
+‘The land outside the forest is everywhere dry and without water. Then again there is the land (called) Ratnajā (Born of Gems), which is strewn with the elephants of the quarters, and well adorned[^468] all around, it is where there are many elephants that look (as big) as (Mount) Meru and Mandara.” 
 
 ‘Then having crossed over them also, (one comes to) a great mountain that rises (up to the sky), shaped like a circular enclosure, called Hariścandra.’ 
 
 ‘There are clouds present there, Saṁvartā and the rest, that (make a) great sound.” 
 
-‘Then again, that intensely shining golden egg is visible (there).”\* 
+‘Then again, that intensely shining golden egg is visible (there).’[^469] 
 
 (In the next verse), he summarizes (all) that. 
 
-465?\. Read siddhayakṣa- for siddhapakṣa-.
+[^465]: Read siddhayakṣa- for siddhapakṣa-.
 
-466?\. Read —hariścandra- for —hariścandra-.
+[^466]: Read —hariścandra- for —hariścandra-.
 
-467?\. Read siddhayaksṣa- for siddhapakṣa-.
+[^467]: Read siddhayaksṣa- for siddhapakṣa-.
 
-468?\. Read with MS Ñ pariśobhitā for pariśodhitā.
+[^468]: Read with MS Ñ pariśobhitā for pariśodhitā.
 
-469?\. This the first of a number of eggs to which the SYM refers. See below 8/(184cd-186ab) (184-185) and citations there by Jayaratha. million yojanas (leagues).
+[^469]: This the first of a number of eggs to which the SYM refers. See below 8/(184cd-186ab) (184-185) and citations there by Jayaratha.
+
+[^470]: million yojanas (leagues).
 
 
 *[p. 161]* ^pg179
@@ -1025,7 +1030,7 @@ The distance from the centre of Meru up to the shell (kaṭāha) of the Egg of B
 
 #### Viveka on 8.118
 
-It was calculated previously that (the distance) there 1) from (the centre of) Meru up to the ocean of sweet water is 25,350,000 (leagues). 2) The Land of Gold (extends for) 100,000,000 (leagues) (kotidaśaka), 3) Mount Lokāloka (for) 10,000, 4) (the area of) darkness 351,940,000, and 5) Garbhoda for 12,700,000. Thus, together with 6) the 10,000,000 (leagues) for (the thickness of) the shell of the Egg of Brahmā, there are 500 million (leagues).“” Thus, in this way, ‘in the ten directions’ the Earth world (bhūrloka) (extends) all around for 1,000 million (leagues). 
+It was calculated previously that (the distance) there 1) from (the centre of) Meru up to the ocean of sweet water is 25,350,000 (leagues). 2) The Land of Gold (extends for) 100,000,000 (leagues) (kotidaśaka), 3) Mount Lokāloka (for) 10,000, 4) (the area of) darkness 351,940,000, and 5) Garbhoda for 12,700,000. Thus, together with 6) the 10,000,000 (leagues) for (the thickness of) the shell of the Egg of Brahmā, there are 500 million (leagues).[^470] Thus, in this way, ‘in the ten directions’ the Earth world (bhūrloka) (extends) all around for 1,000 million (leagues). 
 
 Moreover, this, the Earth world, is the location of the fourteen kinds of creatures (bhūtasarga). Thus, he says: 
 
@@ -1063,29 +1068,29 @@ just a false conception (abhimāna), there is nothing real (and permanent there)
 
 ‘(The learned) know (that the eight kinds of living beings there are) Piśācas, Rāk: 
 
-Gandharvas, Yakṣas, Vidyādharas (aindra), (those belonging to the) moon, Prajeśa (the Lord of the Creatures) and Brahmā, the eighth. \*' ‘Domestic animals, birds, wild animals and other reptiles, (along) with plants as the fifth. The sixth (kind of creature) is that born of men which, along with those born of the gods, is said to be the sphere of the world of transmigration of fourteen kinds, which one should purify in the earth world (bhurloka).\*”? 
+Gandharvas, Yakṣas, Vidyādharas (aindra), (those belonging to the) moon, Prajeśa (the Lord of the Creatures) and Brahmā, the eighth.’[^471] ‘Domestic animals, birds, wild animals and other reptiles, (along) with plants as the fifth. The sixth (kind of creature) is that born of men which, along with those born of the gods, is said to be the sphere of the world of transmigration of fourteen kinds, which one should purify in the earth world (bhurloka).\*”? 
 
-2\) Bhuvarloka, the Atmospheric World and the Paths of the Wind”? 
+2\) Bhuvarloka, the Atmospheric World and the Paths of the Wind[^473] 
 
 ### TĀ 8.121–122
 
 भुवर्कोकस्तथा त्वाकील्लक्षमेकं तदन्तरे ॥ १२१ ॥
 दश वायुपथास्ते च प्रत्येकमयुतान्तराः ।
 
-471?\. SvT 10/351. sahhārakramayogena śodhanīyāḥ śivādhvare | SvT 10/35290 saṁhārakramayogena ity anena cedam āha yat sthāvarādipaśvantam tāmasari pañcakaṁ samśodhya mānuṣyaṁ śodhayet \\ tataḥ paiśācādibrahmāntai devayonyaṣtakam ity eṣa eva ca kramo ‘gre sphuṭībhaviṣyati | evan yonyaṣtakam udghāṭya yoniṣatkam apy āha ---- 7 ‘They should be purified on Sivas Path by applying the process of withdrawal.’ (SvT 10/352ab) ‘The following is said by (saying) ‘by applying the process of withdrawal’: Once having purified the group of five tāmasika (creatures), beginning with plants and ending with animals, one should purify human beings. Then the group of eight divine beings (devayoni), starting with Piśācas and ending with Brahmā. This sequence will be clarified further ahead. Having introduced in this way the group of six wombs (yoniṣaṭka) also, he says . . ->
+[^471]: SvT 10/351. sahhārakramayogena śodhanīyāḥ śivādhvare | SvT 10/35290 saṁhārakramayogena ity anena cedam āha yat sthāvarādipaśvantam tāmasari pañcakaṁ samśodhya mānuṣyaṁ śodhayet \\ tataḥ paiśācādibrahmāntai devayonyaṣtakam ity eṣa eva ca kramo ‘gre sphuṭībhaviṣyati | evan yonyaṣtakam udghāṭya yoniṣatkam apy āha ---- 7 ‘They should be purified on Sivas Path by applying the process of withdrawal.’ (SvT 10/352ab) ‘The following is said by (saying) ‘by applying the process of withdrawal’: Once having purified the group of five tāmasika (creatures), beginning with plants and ending with animals, one should purify human beings. Then the group of eight divine beings (devayoni), starting with Piśācas and ending with Brahmā. This sequence will be clarified further ahead. Having introduced in this way the group of six wombs (yoniṣaṭka) also, he says . . ->
 
-473?\. The first path with its sixteen winds is described in 8/123 to 139cd (122cd-139ab). The remaining nine paths are briefly described in 8/140-142 (139cd-142ab).
+[^473]: The first path with its sixteen winds is described in 8/123 to 139cd (122cd-139ab). The remaining nine paths are briefly described in 8/140-142 (139cd-142ab).
 
 
 *[p. 163]* ^pg181
 
-आद्यो वायुपथस्तत्र विततः परिचच्यते ॥ (leagues).[^475] ॥
+आद्यो वायुपथस्तत्र विततः परिचच्यते ॥ (leagues). १२२ ॥
 
 bhuvarlokas tathā tv ārkāl lakṣam ekam tadantare ॥ 121 ॥
 daśa vāyupathās te ca pratyekam ayutāntarāḥ |
 ādyo vāyupathas tatra vitataḥ paricarcyate || 122 ॥ 
 
-Bhuvarloka (the atmospheric world) extends up to the sun and measures one hundred thousand (leagues). Within it are the ten paths of the winds, and there are ten thousand (leagues) between (each of) them.” We shall now discuss extensively the first path of the winds there.[^474] (121cd-122) (121-122ab) 
+Bhuvarloka (the atmospheric world) extends up to the sun and measures one hundred thousand (leagues). Within it are the ten paths of the winds, and there are ten thousand (leagues) between (each of) them.[^474] We shall now discuss extensively the first path of the winds there.[^475] (121cd-122) (121-122ab) 
 
 #### Viveka on 8.121–122
 
@@ -1118,7 +1123,12 @@ The Sixteen Winds and their Clouds
 विद्याधराधमाशात्र वजा संप्रतिष्ठिताः ।
 
 [^474]: Corresponds to SvT 10/42200-423.
-[^475]: See SvT 10/424-466. an | Wees | Qualities and Residents Rtarddhi wind nourishes growth Prācetas wind destroys trees and makes them grow Senānī Ogha Piśācas live in the wind Amogha Vinayākas reside here that steal away, Karma Vajrāṁga Inferior Vidyādharas, and inferior Vidyās who died Vaidyuta Apsaras, dead heroes, suicides Raivata Siddhas Saṁvartta Viṣāvarta Elect of the Vidyādharas who play music Durjaya Cloud | PR O\] the silent clouds lightning and transport rainwater rains living beings fish, frogs and turtles rains poisonous water causing disease Māraka deadly clouds stone clouds called rain down stones things lightning clouds Puṣtivāha clouds rain nourishment rainwater that causes disease black storm clouds rainwater of wrath born of Fire clouds generate winds that blow during the destruction of the universe The Sixteen Winds, their Clouds and Residents those dedicated to cruel | Tapana that do cruel
+
+[^475]: See SvT 10/424-466.
+
+[^477]: an | Wees | Qualities and Residents Rtarddhi wind nourishes growth Prācetas wind destroys trees and makes them grow Senānī Ogha Piśācas live in the wind Amogha Vinayākas reside here that steal away, Karma Vajrāṁga Inferior Vidyādharas, and inferior Vidyās who died Vaidyuta Apsaras, dead heroes, suicides Raivata Siddhas Saṁvartta Viṣāvarta Elect of the Vidyādharas who play music Durjaya Cloud | PR O\] the silent clouds lightning and transport rainwater rains living beings fish, frogs and turtles rains poisonous water causing disease Māraka deadly clouds stone clouds called rain down stones things lightning clouds Puṣtivāha clouds rain nourishment rainwater that causes disease black storm clouds rainwater of wrath born of Fire clouds generate winds that blow during the destruction of the universe The Sixteen Winds, their Clouds and Residents those dedicated to cruel | Tapana that do cruel
+
+    Parāvaha Vāyugama, Puṣkara Gandharvas nvaha Jīimūta Vidyādharas Jīimūta and Rūpavratas Mahāvaha clouds created to benefit creatures Mahāparivaha Saṁvarta Clouds born from Śiva\`s skull bowl The first eleven winds constitute the main path (mukhyapatha) of the Wind, and the last five are the divine path (divyapatha).
 
 *[p. 164]* ^pg182
 
@@ -1136,7 +1146,7 @@ ye haranti (kṛtam karma narāṇām akṛtātmanām |
 pañcāśadūrdhvari vajrāṁko vāyur atropalāmbudāḥ || 128 ||
 vidyādharādhamāś cātra vajrāṁke saipratiṣthitāḥ | 
 
-\#71) Fifty leagues above (the earth) is the wind called Rtarddhi, which nourishes (all) living beings. 2) Then, fifty leagues above that, is the 
+[^477]1) Fifty leagues above (the earth) is the wind called Rtarddhi, which nourishes (all) living beings. 2) Then, fifty leagues above that, is the 
 
 *[p. 165]* ^pg183
 
@@ -1144,9 +1154,9 @@ wind Prācetasa, while a hundred leagues above that is 3) the wind Senānī. The
 
 #### Viveka on 8.123–128
 
-\[illegible\] Above them, at a distance of one hundred (leagues, is the wind called Sattvavaha, within which) are clouds that rain frogs and others such living beings. 5) Beyond these, at a distance of fifty leagues, is (the wind called) Ogha. Here (some) clouds rain poisonous water and others Piśācas born of Skanda’s body. 6) Then, fifty leagues above that (in the wind called Amogha), are clouds called Māraka. There, in that place, reside the Vināyakas born from Mahādeva, who steal away the Karma of those who (have not reached perfection, and so) have not completed their Karma 
+[^478]\[illegible\] Above them, at a distance of one hundred (leagues, is the wind called Sattvavaha, within which) are clouds that rain frogs and others such living beings. 5) Beyond these, at a distance of fifty leagues, is (the wind called) Ogha. Here (some) clouds rain poisonous water and others Piśācas born of Skanda’s body. 6) Then, fifty leagues above that (in the wind called Amogha), are clouds called Māraka. There, in that place, reside the Vināyakas born from Mahādeva, who steal away the Karma of those who (have not reached perfection, and so) have not completed their Karma 
 
-(akṛtātman).“” 
+(akṛtātman).[^479] 
 
 7\) Fifty leagues above this is the wind Vajrāṁka. Here (there are) stone clouds. Inferior Vidyādharas reside here in Vajrāṁka. (123-129ab) (12260-128) 
 
@@ -1156,65 +1166,59 @@ wind Prācetasa, while a hundred leagues above that is 3) the wind Senānī. The
 
 2\) ‘Fifty leagues above’, that is, just as (the wind called) Rtarddhi is located above after fifty leagues from the surface of the earth, in the same way this (the next wind) is located further up, after an intervening space of fifty leagues. This is the meaning. (This, the wind) ‘Prācetasa’ is (so called) because it was made by (the sage) Pracetas, (who was called this) because fire lived 
 
-Parāvaha Vāyugama, Puṣkara Gandharvas nvaha Jīimūta Vidyādharas Jīimūta and Rūpavratas Mahāvaha clouds created to benefit creatures Mahāparivaha Saṁvarta Clouds born from Śiva\`s skull bowl The first eleven winds constitute the main path (mukhyapatha) of the Wind, and the last five are the divine path (divyapatha).
+[^478]: The account here shifts from referring to currents of wind blowing above the earth to bands of clouds. In a couple of cases, they are mentioned together. Presumably, the bands of clouds correspond to currents of wind. They have been numbered together accordingly.
 
-477?\. The account here shifts from referring to currents of wind blowing above the earth to bands of clouds. In a couple of cases, they are mentioned together. Presumably, the bands of clouds correspond to currents of wind. They have been numbered together accordingly.
-
-478?\. The wind in these clouds is called Amogha. According to Jayaratha, those who have not completed their Karma remain in the sphere of doubt.
+[^479]: The wind in these clouds is called Amogha. According to Jayaratha, those who have not completed their Karma remain in the sphere of doubt.
 
 
 *[p. 166]* ^pg184
 
-along with him. Thus (it both) nourishes and burns. That is said (in the Svacchandatantra): 
+along with him.[^481] Thus (it both) nourishes and burns. That is said (in the Svacchandatantra): 
 
-‘The wind called Prācetas was made by (the sage) Pracetas. It (both) destroys trees and sometimes makes them grow. The fire called Prācetas abides along with 11. 
+‘The wind called Prācetas was made by (the sage) Pracetas. It (both) destroys trees and sometimes makes them grow. The fire called Prācetas abides along with 11.[^482] 
 
-3\) ʻA hundred leagues above that’ means continuing on a hundred leagues above Prācetas also.“ One should explain (the distances between the winds) in the same way further ahead as well. 4) (The clouds there above Senānī) are said to transport living beings (sattvavaha), because such is their name (in accord with their nature), and because they rain down living beings such as frogs and the like. That is said (in the Svacchandatantra): 
+3\) ʻA hundred leagues above that’ means continuing on a hundred leagues above Prācetas also.[^483] One should explain (the distances between the winds) in the same way further ahead as well. 4) (The clouds there above Senānī) are said to transport living beings (sattvavaha), because such is their name (in accord with their nature),[^484] and because they rain down living beings such as frogs and the like. That is said (in the Svacchandatantra): 
 
 ‘It is said that the clouds a hundred leagues (further) up transport living 
 
-beings, and on a stormy day rain down fish, frogs and turtles. 
-
-\*\* 
+beings, and on a stormy day rain down fish, frogs and turtles.[^485] 
 
 (The clouds further up) rain down poisonous water, and so give rise to epidemics and other such (calamities). That is said (in the Svacchandatantra): 
 
-5\) ‘Fifty leagues above (that) is said to be the wind (called) Ogha. There are clouds within it that cause sickness and rain down poisonous water, due to which epidemics arise that kill all embodied beings.“ 
+5\) ‘Fifty leagues above (that) is said to be the wind (called) Ogha. There are clouds within it that cause sickness and rain down poisonous water, due to which epidemics arise that kill all embodied beings.’[^486] 
 
 ‘Within (the wind called) Ogha reside supernatural beings, Piśācas born from Skanda’s body. It is said that Skanda’s attendants (number) 300 million, 
 
-who worship the one born from Hara with divine flowers. 
-
-\* 
+who worship the one born from Hara with divine flowers.[^487] 
 
 ‘There, in that place’, that is, in the wind called Amogha, (reside the Vināyakas, who steal away the Karma of) ‘those who have not completed’ (their Karma) and give rise to doubts. That is said (in the Svacchandatantra): 
 
-6\) ‘O goddess, the wind (called) Amogha\*\* is located above that at the same (distance). Within that (wind) Amogha, there are clouds that kill (living 
+6\) ‘O goddess, the wind (called) Amogha[^488] is located above that at the same (distance). Within that (wind) Amogha, there are clouds that kill (living 
 
 beings). 
 
 \* 
 
-480?\. The adjective ‘pracetas’, means, ‘attentive’, mindful’ and ‘clever’. In the Vedas it is said so often of Agni, the Fire, that it has become one of his names.
+[^481]: The adjective ‘pracetas’, means, ‘attentive’, mindful’ and ‘clever’. In the Vedas it is said so often of Agni, the Fire, that it has become one of his names.
 
-481?\. SvT 10/427-428ab.
+[^482]: SvT 10/427-428ab.
 
-482?\. Above the wind Pracetas comes Senānī.
+[^483]: Above the wind Pracetas comes Senānī.
 
-483?\. Read rtathābhidhāyitabhāvat for tathābhidhāyitābhāvat. In other words, this wind is called Sattvavaha.
+[^484]: Read rtathābhidhāyitabhāvat for tathābhidhāyitābhāvat. In other words, this wind is called Sattvavaha.
 
-485\. SvT 10/431.
+[^485]: SvT 10/431.
 
-486\. SvT 10/432-433ab. SvT reads yojanānām śatādūrdhvaṁ — ‘one hundred leagues above (that) for pañcāśadyojanādūrdhvaṁ — ‘fifty leagues above (that).
+[^486]: SvT 10/432-433ab. SvT reads yojanānām śatādūrdhvaṁ — ‘one hundred leagues above (that) for pañcāśadyojanādūrdhvaṁ — ‘fifty leagues above (that).
 
-487\. SvT 10/442cd-443.
+[^487]: SvT 10/442cd-443.
 
-488\. Abhinava calls this Wind Māraka.
+[^488]: Abhinava calls this Wind Māraka.
 
 
 *[p. 167]* ^pg185
 
-‘There are fierce Vināyakas born from Mahādeva in Amogha. Three hundred million of them reside in that wind who steal away the Karma of those men who have not completed their Karma.”\* 
+‘There are fierce Vināyakas born from Mahādeva in Amogha. Three hundred million of them reside in that wind who steal away the Karma of those men who have not completed their Karma.’[^490] 
 
 7\) (In the wind Vajrāṁka there are) ‘stone clouds’, called that because they rain down stones. 
 
@@ -1236,34 +1240,34 @@ ye vidyāpauruṣe ye ca Smasandadiprasadhane
 ८54401८ ॥ 129 ॥
 mṛtās tatsiddhisiddhās te vajrāṁke maruti sthitāḥ | 
 
-Here, in the wind Vajrāṁka (Marked by Lightning), reside those who, dedicated to cruel (and inferior) Vidyās\*' effected in cremation grounds and the like, attained the accomplishments (siddhi) they lead to and died. (129cd-130ab) (129) 
+Here, in the wind Vajrāṁka (Marked by Lightning), reside those who, dedicated to cruel (and inferior) Vidyās[^491] effected in cremation grounds and the like, attained the accomplishments (siddhi) they lead to and died. (129cd-130ab) (129) 
 
 #### Viveka on 8.129
 
-‘Cruel (and inferior) Vidyās’ are Gāruda Vidyās\*”? and the like, that are (used when) in conflict (with others). (Those who made use of such Vidyās) ‘died’, that is to say that such is its (consequence and final) end. That is said (in the Svacchandatantra): 
+‘Cruel (and inferior) Vidyās’ are Gāruda Vidyās[^492] and the like, that are (used when) in conflict (with others). (Those who made use of such Vidyās) ‘died’, that is to say that such is its (consequence and final) end. That is said (in the Svacchandatantra): 
 
-‘The wind Vajrāṁka (Marked by Lightning) is located at a distance of fifty leagues (from the one below it). Within it are clouds called ‘stone (clouds) that rain down stones. ”\* 494 
+‘The wind Vajrāṁka (Marked by Lightning) is located at a distance of fifty leagues (from the one below it). Within it are clouds called ‘stone (clouds) that rain down stones.’[^493] 
 
-‘There are clouds also in the wind (called) Vajrāṁka,\* that do cruel things. (Black) as sliced collyrium, and terrible, they are well-known as Tāpana (Scourge) by name. Those who reside in this wind are inferior Vidyādharas who travel on the wind of the mind. Dedicated to cruel (and inferior) Vidyās,\*\* they 
+‘There are clouds also in the wind (called) Vajrāṁka,[^494] that do cruel things. (Black) as sliced collyrium, and terrible, they are well-known as Tāpana (Scourge) by name. Those who reside in this wind are inferior Vidyādharas who travel on the wind of the mind. Dedicated to cruel (and inferior) Vidyās,[^495] they 
 
-490\. SvT 10/444-445ab.
+[^490]: SvT 10/444-445ab.
 
-491\. ‘Vidyās’ are mantras dedicated to female beings.
+[^491]: ‘Vidyās’ are mantras dedicated to female beings.
 
-492\. Garuda is the mythical eagle-like bird which is Viṣṇu’s vehicle. Garuda, like eagles, kills snakes, and so the Vidyās and mantras of Garuda are used as magical remedies for snakebite and poison. Just as they cure them, they can also induce their effects, applied as imprecations against one’s enemies. Concerning these procedures and the Gāruda Tantras, see Dyczkowski 1988: 342.
+[^492]: Garuda is the mythical eagle-like bird which is Viṣṇu’s vehicle. Garuda, like eagles, kills snakes, and so the Vidyās and mantras of Garuda are used as magical remedies for snakebite and poison. Just as they cure them, they can also induce their effects, applied as imprecations against one’s enemies. Concerning these procedures and the Gāruda Tantras, see Dyczkowski 1988: 342.
 
-493\. SvT 10/434cd-435ab.
+[^493]: SvT 10/434cd-435ab.
 
-494\. SvT 10/445cd and MSs Ch and Ñ read vajrāṁge for vajrāṅke.
+[^494]: SvT 10/445cd and MSs Ch and Ñ read vajrāṁge for vajrāṅke.
 
-495\. Kṣemarāja: manaḥ pavanavan mātaṁgārohād eva gacchanti tacchīlāḥ, ata evādhamāḥ | uttamās tu vidyādiprabhāveṇaiva tattaddeśaprāptimantaḥ \\\\ ‘They move mounted on the elephant of the mind, which is like the wind. This is the way they behave, and so are the lowest (kind). The best (kind) reach each place by the power of knowledge (vidyā) and the like.’
+[^495]: Kṣemarāja: manaḥ pavanavan mātaṁgārohād eva gacchanti tacchīlāḥ, ata evādhamāḥ | uttamās tu vidyādiprabhāveṇaiva tattaddeśaprāptimantaḥ \\\\ ‘They move mounted on the elephant of the mind, which is like the wind. This is the way they behave, and so are the lowest (kind). The best (kind) reach each place by the power of knowledge (vidyā) and the like.’
 
 
 *[p. 168]* ^pg186
 
 have brought demonic ghosts (vetāla) from the cremation ground under their 
 
-control, and so are accomplished (siddha) (in this । 
+control, and so are accomplished (siddha) (in this ।[^496] 
 
 ### TĀ 8.130–131
 
@@ -1279,7 +1283,7 @@ abdā apsarasaś cātra ye ca punyakṛto narāḥ |
 bhṛgau vahnau jale ye ca saṁhgrāme cānivartinaḥ || 131 ॥
 gograhe bandimokṣe vā mṛtās te vaidyute sthitāḥ | 
 
-Fifty leagues above Vajrāṁka is (the wind called) Vaidyuta (Lightning). There are clouds (here) that rain lightning and Apsaras. Here (reside,) never returning from there, those people who have done meritorious deeds (in their life), or died falling into a precipice, into fire, water, in battle, or attempting to free (a kidnapped) maiden,” or save cows (from the attacks of hungry lions or the like). (130cd-132ab) (130-131) 
+Fifty leagues above Vajrāṁka is (the wind called) Vaidyuta (Lightning). There are clouds (here) that rain lightning and Apsaras. Here (reside,) never returning from there, those people who have done meritorious deeds (in their life), or died falling into a precipice, into fire, water, in battle, or attempting to free (a kidnapped) maiden,[^497] or save cows (from the attacks of hungry lions or the like).[^498] (130cd-132ab) (130-131) 
 
 #### Viveka on 8.130–131
 
@@ -1291,11 +1295,11 @@ Again:
 
 ‘One who has attained the supreme summit (of existence), who has been abandoned by the doctors, who has given up savouring (tasty) juices, afflicted by (many) diseases, is averse (to worldly pleasures), has been abandoned by his relatives, a man who, intent on abandoning the body, climbs up a Bhairava (cliff to throw himself down from it), should attain that fruit. If he commits suicide 
 
-496\. SvT 10/445cd-447. Kṣemarāja: vidyāpauruṣe śāstravidyādispardhāyāṁ \[tatha vetālādīn sādhayitvā ye ‘prasiddhā mṛtā ity arthaḥ || ‘Cruel (and inferior) Vidyās are those in conflict with the Vidyās of the scriptures. Having in that way brought Vetālas etc. under control, infamous, they have died. This is the meaning.’
+[^496]: SvT 10/445cd-447. Kṣemarāja: vidyāpauruṣe śāstravidyādispardhāyāṁ \[tatha vetālādīn sādhayitvā ye ‘prasiddhā mṛtā ity arthaḥ || ‘Cruel (and inferior) Vidyās are those in conflict with the Vidyās of the scriptures. Having in that way brought Vetālas etc. under control, infamous, they have died. This is the meaning.’
 
-497\. Read bandimokṣe for vadhyamokṣe. See SvT 10/449cd.
+[^497]: Read bandimokṣe for vadhyamokṣe. See SvT 10/449cd.
 
-498\. TĀ 8/123-132ab (122cd-131) correspond to SvT 10/422-449.
+[^498]: TĀ 8/123-132ab (122cd-131) correspond to SvT 10/422-449.
 
 
 *[p. 169]* ^pg187
@@ -1304,27 +1308,23 @@ Again:
 
 ‘In battle’ implies that the reason (for dying in battle) is that they have come to take refuge (in Bhairava), otherwise (if their attitude is not such), they would simply be committing suicide. So how can that plane be attained? As is said: 
 
-‘Those worlds have no sun and are wrapped in dense darkness. Those men who have committed suicide, having left (this world), attain those.” 
+‘Those worlds have no sun and are wrapped in dense darkness. Those men who have committed suicide, having left (this world), attain those.’[^499] 
 
 (They) ‘reside’ (in this wind) with their celestial vehicles. That is said (in the Svacchandatantra): 
 
-‘\*(After) as many leagues (comes) the wind Vaidyuta (Lightning). The clouds within it are lightning clouds, within which reside those who generate lightning. Agitated by the wind, great (flashes of) lightning arises within 
+‘(After) as many leagues (comes) the wind Vaidyuta (Lightning). The clouds within it are lightning clouds, within which reside those who generate lightning.[^500] Agitated by the wind, great (flashes of) lightning arises within 
 
-them.” 
+them.’[^501] 
 
-\*' 
+‘Apsaras (reside) in that (wind called) Vaidyuta, appointed (to their tasks) by Indra. They always reside there in order to guard the world of the earth. The most excellent of men who die (falling) into a precipice, fire, water, or in battles, not fleeing (from them), or when saving cows (or) freeing (a kidnapped) maiden, go up above that, (transported by celestial) vehicles decorated with gems.’[^502] 
 
-‘Apsaras (reside) in that (wind called) Vaidyuta, appointed (to their tasks) by Indra. They always reside there in order to guard the world of the earth. The most excellent of men who die (falling) into a precipice, fire, water, or in battles, not fleeing (from them), or when saving cows (or) freeing (a kidnapped) maiden, go up above that, (transported by celestial) vehicles decorated with gems. 
+[^499]: Tsāvāsyopaniṣat verse 3.
 
-”\*”? 
+[^500]: The SvT reads vaidyute — ‘within Vaidyuta’ for vaidyutāḥ. I have translated in accord with Kṣemarāja’s introduction to the following line: vaidyutatvam eteṣām vidyutkāraṇatvenety āha ‘They are said to be lightning (clouds) because they are the cause of lightning.”
 
-499\. Tsāvāsyopaniṣat verse 3.
+[^501]: SvT 10/435cd-436.
 
-500\. The SvT reads vaidyute — ‘within Vaidyuta’ for vaidyutāḥ. I have translated in accord with Kṣemarāja’s introduction to the following line: vaidyutatvam eteṣām vidyutkāraṇatvenety āha ‘They are said to be lightning (clouds) because they are the cause of lightning.”
-
-501\. SvT 10/435cd-436.
-
-502\. SvT 10/448-450ab. Kṣemarāja explains: na nivartanta ity anivartakāḥ sammukhaṁ ye mriyanta ity arthaḥ | gavāṁ grahaḥ simhādibhir ākramanam | bandyo balād gṁītā haṭhamriyamāṇāḥ parayoṣitaḥ | ete ca samgrāmādau mṛtāḥ sadācāratvāt puruṣottamāḥ, na tu pūrve ---- asūryā nāma te lokā andhena tamasāvṛtāḥ | tāṁs te pretyābhigacchanti ye ke cātmahano (janāḥ) Il iti śrutau teṣām anuttamatvenoktatvāt | 450 ॥ “Those who do not return are those who do not turn back. The meaning is that they die in front (of oneself). (They have been) attacked by bulls, a planet or lions etc. (There are those) who are imprisoned, caught by force, the women of others killed violently. Also, there are these ones who have died in a battle or the like whose conduct is correct and so are excellent people. These are (not the ones mentioned) previously, because according to (the following passage) in the Veda, they have been said not to be the best: ‘Those worlds are called ‘without the sun’, and are enveloped in blinding darkness. Ghosts of people who have committed suicide go there.” (Ñśopaniṣad 3)
+[^502]: SvT 10/448-450ab. Kṣemarāja explains: na nivartanta ity anivartakāḥ sammukhaṁ ye mriyanta ity arthaḥ | gavāṁ grahaḥ simhādibhir ākramanam | bandyo balād gṁītā haṭhamriyamāṇāḥ parayoṣitaḥ | ete ca samgrāmādau mṛtāḥ sadācāratvāt puruṣottamāḥ, na tu pūrve ---- asūryā nāma te lokā andhena tamasāvṛtāḥ | tāṁs te pretyābhigacchanti ye ke cātmahano (janāḥ) Il iti śrutau teṣām anuttamatvenoktatvāt | 450 ॥ “Those who do not return are those who do not turn back. The meaning is that they die in front (of oneself). (They have been) attacked by bulls, a planet or lions etc. (There are those) who are imprisoned, caught by force, the women of others killed violently. Also, there are these ones who have died in a battle or the like whose conduct is correct and so are excellent people. These are (not the ones mentioned) previously, because according to (the following passage) in the Veda, they have been said not to be the best: ‘Those worlds are called ‘without the sun’, and are enveloped in blinding darkness. Ghosts of people who have committed suicide go there.” (Ñśopaniṣad 3)
 
 
 *[p. 170]* ^pg188
@@ -1341,7 +1341,7 @@ vaidyutād raivatas tāvāṁs tatra puṣtivahāmbudāḥ || 132 I|
 ūrdhvaṁ ca rogāmbumucaḥ saṁvarte tadanantare |
 rocanāñjanabhasmādisiddhās tatraiva raivate | | 133 ॥ 
 
-At the same (distance above) Vidyūta is the wind Raivata. There (within it) are clouds that rain nourishment (puṣti). Just above that is the wind Saṁvarta, in which the clouds rain disease. There in (the wind) Raivata reside those who have attained (the magical powers of) yellow pigment (rocana), collyrium, ashes and the rest. (132cd-133) (132-133ab) 
+At the same (distance above) Vidyūta is the wind Raivata. There (within it) are clouds that rain nourishment (puṣti). Just above that is the wind Saṁvarta,[^503] in which the clouds rain disease. There in (the wind) Raivata reside those who have attained (the magical powers of) yellow pigment (rocana), collyrium, ashes and the rest. (132cd-133) (132-133ab) 
 
 #### Viveka on 8.132–133
 
@@ -1351,7 +1351,7 @@ By ʻand the rest of ʻashes and the rest’ are meant (magical attainments), su
 
 ‘Great souls who are accomplished yogis (siddha) are well established in Raivata. Smeared with yellow orpiment and ashes, they have wooden sandals (and wear) antelope skins etc. Having attained (the siddhis that come from that), they are great souls and accomplished yogis, whose form is as they wish it to be 
 
-(kāmarūpin).\*\* 
+(kāmarūpin).[^505] 
 
 ‘Above’ Raivata, where there is (that much) space in between, that is, after a space of those same fifty leagues, (comes the wind Saṁvarta). That is said (in the Svacchandatantra): 
 
@@ -1366,9 +1366,9 @@ clouds.’
 क्रोधोदकमुचां स्थानं विषावर्तः स मारुतः ।
 पञ्चाशदध्वं तत्रैव दुर्दिनाब्दा हुताशजाः ॥ १३४ ॥
 
-503\. Read saṁvarte for saṁvartās. See SvT 10/438cd.
+[^503]: Read saṁvarte for saṁvartās. See SvT 10/438cd.
 
-505\. SVT 10/451cd-452.
+[^505]: SVT 10/451cd-452.
 
 
 *[p. 171]* ^pg189

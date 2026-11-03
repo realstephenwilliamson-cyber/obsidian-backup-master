@@ -308,7 +308,7 @@ And these things even to a laborer, and to a servant, and to a widow woman, and 
 
 Yea, for there wilt thou see true wisdom<sup>52</sup>abounding, and choirs of angels shining forth in a human body, and the commonwealth<sup>53</sup>of Heaven manifested here on earth. For a commonwealth<sup>54</sup>did these fishermen too write for us, not with commands that it should be embraced from childhood, like those others, nor making it a law that the virtuous man must be so many years old, but addressing their discourse generally to every age. For those lessons are children’s toys, but these are the truth of things.
 
-48 49 \[ἐδδαξεν.\] 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. 52 \[φιλοσοφαν=true wisdom.—R.\] \[πολιτεα, in its proper case.\] 53 \[πολιτεα, in its proper case.\] 54 \[πολιτεα, in its proper case.\]
+48 49 \[ἐδδαξεν.\] 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. 52 \[φιλοσοφαν=true wisdom.—R.\] 53 \[πολιτεα, in its proper case.\] 54 \[πολιτεα, in its proper case.\]
 
 *[p. 24]* ^pg32
 

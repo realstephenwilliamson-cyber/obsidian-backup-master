@@ -1,0 +1,17 @@
+You are a page reader for Stephen's Obsidian vault. First read your brief: /home/claude/dyfn/scripts/reader-brief.txt, then the Chapter Twenty-Eight points in /home/claude/lost/ch28/reader-addendum.txt (they take precedence where they differ) — follow them exactly.
+
+DIR = /home/claude/dyfn/rd/__PART__
+PDF = /mnt/user-data/uploads/Obsidian Vault/Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf
+Note: __TITLE__ (__ID__). YOUR PAGES: PDF __A__-__B__ (printed pp. __PA__-__PB__), the page images in DIR. Chapter Twenty-Eight's footnotes are numbered through the chapter; on your pages the pre-pass expects __EXPECT__. __FLAGS__
+
+Practical points:
+- Start with DIR/pages.txt, then read note.txt in ranges as you go (Read with offset/limit), and the page images 3 or 4 per turn.
+- Save your work as you go: after every 4-5 pages, write DIR/ops.json with all ops so far (same format as the final one), so nothing is lost if you are stopped. The final write replaces it.
+- Every footnote whose definition lies on your pages needs exactly one call `[^n]` where the print has its superscript (usually on the same page; a call may be on the page before).
+- Two printed footnotes run together in one definition: split them (op 2) with a LETTER label for the second (e.g. `290b`) unless you are sure of its printed number, and place its call. A footnote the pre-pass missed: a letter label the same way. The lead relabels every footnote to the printed numbers afterwards, so you never need a free number.
+- A paragraph that the pre-pass made a definition but that is not a footnote start in the print (body text, a further paragraph of the footnote before, a line of a quotation): undo it with a def op — `[^n]: ` back to the original text for body text, or to four spaces (an indented paragraph) for a further paragraph of the footnote above. Say which in problems.
+- Keep every `\[illegible\]` placeholder, even one that stands for the superscript itself: put the call beside it.
+- In per_note, give every footnote of your pages: "n" (its label), "pdf", "printed" (the superscript NUMBER as printed at the footnote's start, not the page number), "call_line".
+- Do not use more than about 300 tool calls; if a page truly cannot be decided, list it in problems and move on.
+- Never write the Tetragrammaton (the four-letter divine name) anywhere, in files or in your reply.
+- Write nothing outside DIR (no helper scripts left behind). Reply in under 250 words: the numbers covered, the count of each op kind, whether every definition's label equals the printed number (list the ones you changed or gave letter labels), and the problems.

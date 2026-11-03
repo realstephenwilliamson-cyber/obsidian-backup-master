@@ -200,6 +200,7 @@ The commentary to the NSA mentions "being in the kuta which is the essence of th
 However, the term also strongly conveys the notion of the experience of non-duality which in Kashmir Saiva terms is the realization of the Oneness of God, the universe and man. The KCT says that kulas are those "who have given up their egoism",[^17] i.e. those who have merged their individuality into the unity of Śiva and Sakti. It seems likely therefore that one of the fundamental connotations of kuta is realization - not just intellectual appreciation - of supreme non-duality. Since non-duality is the ground of the universe, all things become kula as soon as their divine nature is truly realized. This broad interpretation partly accounts for the multiple uses of the word in the texts. Examples of such usage from the above quotations would be: “Having driven out the kula demon, the adept should worship the kula venue" and "Because of being in the kula which is the essence of the Self" etcetera.
 
 12\. Ibid., p. 595.
+
 [^13-p56]: Ibid., p. 584.
 
 
@@ -711,6 +712,7 @@ and such (doctrines) concerning the origin of things as the Vaiṣṇava,[^2-p74
 to me).
 
 Plus the sixty-four most excellent Tantras[^3] of the Mothers: the Mahāsārasvata Tantra,[^4-p74]’ the Yoginījālasambara Tantra, \*
+
 [^1]: Verses 1 and 2 give a list of twelve "Kulasundarts", or feminine kula deities. Tripurā, Ekajaṭã and Durgā are well known in Saktism and Mātangini may correspond to Matañgi, but the list as a whole does not represent a familiar classification.,
 
 [^2-p74]: The Vāmakesvara Tantra also gives a list of sixty-four tantras most of which correspond with the ltst given in this test.
@@ -909,6 +911,7 @@ Thus having honoured the kula guru and dismissed the; kula mother+?
 86. 87. 88. 39. 40. 41.
 
 37\. I.e., Kundalini.
+
 [^39]: The "sublime union" refers to the union of Śiva and Śakti in the Sahasrāra.
 
 [^35-p81]: I.e., the Kundalini.

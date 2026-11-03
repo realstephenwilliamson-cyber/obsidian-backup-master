@@ -4,7 +4,7 @@ work: "[[Stiegler - Acting Out]]"
 book: "[[Library/Philosophy/Acting Out (Stiegler)/Acting Out (Stiegler)|Acting Out (Stiegler)]]"
 order: 2
 source_pdf: Library/Philosophy/Acting Out (2008).pdf
-page_range: i–59
+page_range: 1–59
 pdf_pages: 8–67
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -21,7 +21,7 @@ converted: 2026-10-07
 
 *[PDF 9]* ^pg9
 
-*[p. i]* ^pg10
+*[p. 1]* ^pg10
 
 p
 
@@ -167,7 +167,7 @@ The necessity of telling the truth
 
 When, for the first time, they appeared to me as such, the questions of origin and reminiscence presented themselves to me immediately as the question of the *truth.* In fact, the question *ofthe*
 
-*[p. ii]* ^pg20
+*[p. 11]* ^pg20
 
 *origin* is the question of the *truth* of the origin, and as such it is immediately the question of *truth itself* Reflecting on the opportunity to respond to Marianne Alphant's invitation, I decided to turn and squarely confront this question of the truth, such as I *encountered* it at a moment in my life in an almost palpable way, as if it had a body, literally as if I could grab hold of it, as one says. Of course I have in fact never really touched it. But *it* has certainly touched me, in one way or another.
 
@@ -495,7 +495,7 @@ I carry this succession as the very mark of the default of origin-which is neces
 
 I dedicate this lecture <sup>1</sup> to the electors of the National Front, to whom I feel close. I feel close to them because they are people who suffer and who cause me to suffer. They cause me to suffer because in the proximity of their suffering, I feel them infinitely distanced from me-and I feel infinitely far from them. I fe~l that this distance is our lost community. This distance is paradoxically the vanishing point of our common suffering and, as such, our proximity. What is common to us is the feeling of absolute separation. But this concerns not only our common suffering, but also the suffering that separates us. If I feel close to those people who suffer while they also make me suffer, if I suffer with them, I do not suffer only because they make me suffer. I suffer also with them from that which makes them suffer.
 
-*[p. i]* ^pg47
+*[p. 39]* ^pg47
 
 The destruction of primordial
 
@@ -509,7 +509,7 @@ The violence and insecurity in which we live-as much as they are exploited to th
 
 Richard Durn suffered from a *structural privation ofhis primordial narcissistic capacities.* <sup>4</sup> I call "primordial narcissism" that structure of the psyche which is indispensable for functioning, that part of self-love which can sometimes become pathological, but without which any capacity for love would be impossible. Freud speaks of primary narcissism, but that is not what I am referring to. Primary narcissism designates infantile self-love, a precocious phase of sexuality. Freud also speaks of secondary narcissism, which survives
 
-*[PDF 48]* ^pg48
+*[p. 40]* ^pg48
 
 into adulthood, but this is still not primordial narcissism, which is without doubt closer to what Lacan calls the "mirror phase."
 

@@ -20,7 +20,7 @@ The Procedure Concerning the Kaula Consort dūtiyāgavidhiḥ
 
 Chapter Six of the Kulapradīpa by Śrīgosvāmī Śivānanda 
 
-The Kulapradīpa by Śivānanda (c. 16\* century) is a compendium of passages taken from numerous Kaula Tantras on various matters relating to Kaula practice. It is drawn from a large number of scriptures, including some that belong to the early period. This collection is so extensive and interesting that it could be taken as a point of departure for research into this large corpus of Kaula literature, that has hardly been researched at all up to now. Chapter Six, called the dūtiyāgavidhiḥ, is dedicated to the ritual procedures performed with a Kaula female partner, prescribed in the following Tantras. Devīyāmala verse 1 to 23; Kāmaśāstra 24 to 5090; Brahmayāmala from 50cd to 84; Kulacūdāmani from 85 to 114ab; another Tantra (?) 114cd to 117; Uttaratantra 118 to 125; Lalitāvyāptadīpikā 126 to 128; Uttaratantra 129 to 142; Devīyāmala 143 to 144ab; Rudrayāmala 144cd to 145ab; Pañcamīmala 145cd to 148ab; Śaktiyāmala 148cd to 155ab; Tantracūdāmaṇi 155cd to 163; Samayācāratantra 164 to 177 and Rudrayāmala' 178 to 180. 
+The Kulapradīpa by Śivānanda (c. 16\* century) is a compendium of passages taken from numerous Kaula Tantras on various matters relating to Kaula practice. It is drawn from a large number of scriptures, including some that belong to the early period. This collection is so extensive and interesting that it could be taken as a point of departure for research into this large corpus of Kaula literature, that has hardly been researched at all up to now. Chapter Six, called the dūtiyāgavidhiḥ, is dedicated to the ritual procedures performed with a Kaula female partner, prescribed in the following Tantras. Devīyāmala verse 1 to 23; Kāmaśāstra 24 to 5090; Brahmayāmala from 50cd to 84; Kulacūdāmani from 85 to 114ab; another Tantra (?) 114cd to 117; Uttaratantra 118 to 125; Lalitāvyāptadīpikā 126 to 128; Uttaratantra 129 to 142; Devīyāmala 143 to 144ab; Rudrayāmala 144cd to 145ab; Pañcamīmala 145cd to 148ab; Śaktiyāmala 148cd to 155ab; Tantracūdāmaṇi 155cd to 163; Samayācāratantra 164 to 177 and Rudrayāmala[^608] 178 to 180. 
 
 1\) According to the Devīyāmala 
 
@@ -38,7 +38,7 @@ kṛtakṛtyo na sandehaḥ sundarī (> sundari) suprasīdati |
 
 I will tell you the procedure for the sacrifice offered to the Duti, , which is the most excellent of the most excellent Kaula Dharmas. Just by practicing it one attains the state of a Brahmin for oneself. There are many kinds of Dharmas that bestow (benefits) here and in the next (world). Having observed the essence of that and other collections of Mantras, that which is the essence amongst them bestows immediate realisation. O fair lady, (it is) spoken about amongst the gods also. Once a Dūtīyāga has been completed, the one who utters Mantra 
 
-| This not from the published Rudrayāmala.
+[^608]: This not from the published Rudrayāmala.
 
 *[p. 459]* ^pg476
 
@@ -85,7 +85,7 @@ saralāmgulikā yuktā sarvalakṣaṇasamiyutā || 21 || kāyena manasā vāpi 
 pūjayā prayatnena pañcaviṁśativārṣakī || 22 ॥
 aprasūtā viśeṣeṇa Syamam ! (>Śyāmā) caivəmāmatā (> caivonmanā-)|\\ 
 
-O fair lady, I will now tell (you) the characteristics of a dūtī (). (She is) not fickle. Modest and born of a good family, she speaks softy. Skilful, she is well behaved. Her speech is pleasing, and she is devoted to (her) desire to hear the teacher (teaching). She is devoted to the Dharma of compassion; she is tranquil and intent on (the practice of) Mantra. She is always content and her limbs are well nourished. She is beautiful, respectful, and pure (Suci). She is not excessively bent or tall and all her limbs are beautiful. Her hair is long and her eyes are large. Her nose is beautiful, her cheeks and temples are full. Her lips are red and she has beautiful teeth. She has curly hair and fair skin. Her jaw is beautiful and her neck (well-formed like a) conch. Her creeper-like arms are beautiful and she has round (well-shaped) fat breasts. Her waist is thin, her navel beautiful. She is well built like the trunk of a red blossoming Khādira (tree). Her fingers are straight and possess all (good) characteristics. She is devoid of greed for anything, be it with (her) body, so too with (her) mind. Twenty-five years old, she should be worshipped with effort, especially if she is without child. She is appealing (śyāmā), and considered to be free of the mind (unmanā). (19ab-23) 
+O fair lady, I will now tell (you) the characteristics of a dūtī (). (She is) not fickle. Modest and born of a good family, she speaks softy. Skilful, she is well behaved. Her speech is pleasing, and she is devoted to (her) desire to hear the teacher (teaching). She is devoted to the Dharma of compassion; she is tranquil and intent on (the practice of) Mantra. She is always content and her limbs are well nourished. She is beautiful, respectful, and pure (Suci). She is not excessively bent or tall and all her limbs are beautiful. Her hair is long and her eyes are large. Her nose is beautiful,[^609] her cheeks and temples are full. Her lips are red and she has beautiful teeth. She has curly hair and fair skin. Her jaw is beautiful and her neck (well-formed like a) conch. Her creeper-like arms are beautiful and she has round (well-shaped) fat breasts. Her waist is thin, her navel beautiful. She is well built like the trunk of a red blossoming Khādira (tree). Her fingers are straight and possess all (good) characteristics. She is devoid of greed for anything, be it with (her) body, so too with (her) mind. Twenty-five years old, she should be worshipped with effort, especially if she is without child. She is appealing (śyāmā),[^610] and considered to be free of the mind (unmanā). (19ab-23) 
 
 syāmalakṣaṇnaṁ kāmaśāstre | 
 
@@ -103,9 +103,9 @@ svaśaktyā ayutam puṇyaṁ paraśaktiḥ prapūjane || 28 ॥
 tato veśyādhikā jñeyā rajakī ca tato’dhikā |
 raktyā (> śaktyā) kṣurakī (> kṣudrakī) śreṣthā kṣurakyāś (> kṣudrakyā”) carmakārnī ॥ 29 ॥ 
 
-604?\. The expression sūtrasuspṛṣtanāsikā makes no sense. The text is corrupt.
+[^609]: The expression sūtrasuspṛṣtanāsikā makes no sense. The text is corrupt.
 
-605?\. The adjective ‘éyāmā’ can also mean ‘dark’ (skinned).
+[^610]: The adjective ‘éyāmā’ can also mean ‘dark’ (skinned).
 
 
 *[p. 461]* ^pg478
@@ -179,11 +179,11 @@ tasmād dūtī prakartavyā lakṣanoktā tu pārvati ॥ 49 ॥
 
 One who is badly afflicted by disease and great headaches (is unsuitable, as is) one whose breasts hang down low, nose and eyes are small, limbs shrivelled up with her hair tied up, grounded in evil (kuniṣthā), her teeth like those of a hog and always selfish. (One should avoid one) who suffers from leprosy with limbs missing, crippled (pagbaṁdhā ?) and very greedy (so too one whose) body is white (with the marks of leprosy) one who is ferocious, a demon born from a goat, one whose mind has fallen (into sinful thoughts), one who is very disturbed, (or) very tall (or) very bent over. (44cd-47ab) 
 
-One should make an effort to avoid a Sakti with such characteristics; in particular, one should avoid a widow. One should never give Śakti’s vessel (Saktipātra) (as a sign that she has been chosen)‘ to a widow. If one such is obtained out of ignorance or delusion, (her) worship bears no fruit. 
+One should make an effort to avoid a Sakti with such characteristics; in particular, one should avoid a widow. One should never give Śakti’s vessel (Saktipātra) (as a sign that she has been chosen)[^611] to a widow. If one such is obtained out of ignorance or delusion, (her) worship bears no fruit. 
 
 Therefore, O Pārvatī, one should take a partner (dūtī) whose characteristics are stated (before). (47cd-49) 
 
-The Characteristics of a Dūtī According to the Brahmayāmala\* tathā brahmayāmale |
+The Characteristics of a Dūtī According to the Brahmayāmala[^612] tathā brahmayāmale |
 nārada uvāca sarvajña jagatār nātha §aktam ! cet śruticoditam |
 mātangīpūjanaṁ tatra katha muktipradāyakam | 50 ॥
 arcane prathitā veśyā veśyā sā tu rajasvalā |
@@ -197,9 +197,9 @@ Nārada said:
 
 “O omniscient lord of the universe! (Even) if Śākta scriptures enjoin the worship of a female sweeper, how can that bestow liberation? She is seen to be a prostitute in the course of worship, and that prostitute is menstruating. She is a sweeper in menses — such a Dūtī is auspicious in every way. This is what 
 
-606?\. The expression ‘śaktipātram’ is not clear to me. I have translated the literal meaning. Perhaps it would be better to emend to -pātryam; the meaning then would be ‘the competence (of a Śakti)’. In other words, she should not be appointed to be a Śakti.
+[^611]: The expression ‘śaktipātram’ is not clear to me. I have translated the literal meaning. Perhaps it would be better to emend to -pātryam; the meaning then would be ‘the competence (of a Śakti)’. In other words, she should not be appointed to be a Śakti.
 
-607?\. This Brahmayāmala is not the early scripture by this name of which parts have been edited and published.
+[^612]: This Brahmayāmala is not the early scripture by this name of which parts have been edited and published.
 
 
 *[p. 464]* ^pg481
@@ -372,7 +372,7 @@ samgopanaparāḥ prāyas taruṇyaḥ sarvasiddhidā (> -dāḥ) ॥ 101 ॥
 
 An 
 
-actress, female guard, prostitute, a low tribal woman, washerwoman, a tie-dyer (rañjakī), Sairandhrī and Suvāsinī, a woman who makes chalk, a potter woman, the daughter of a cowherd, all are especially clever female members of the Kula. By virtue of (their) devotion to the teacher they are (true) devotees, devoid of aversion and bashfulness, intent on keeping (their 
+actress, female guard, prostitute, a low tribal woman,[^613] washerwoman, a tie-dyer (rañjakī), Sairandhrī and Suvāsinī, a woman who makes chalk, a potter woman, the daughter of a cowherd, all are especially clever female members of the Kula. By virtue of (their) devotion to the teacher they are (true) devotees, devoid of aversion and bashfulness, intent on keeping (their 
 
 practice) 
 
@@ -405,7 +405,7 @@ vidhāya paryarikamadhye pūjayet kulanāyikām || 106 ॥
 
 Being such, one should worship her on (a seat of) flowers and cotton. She has bathed, is pure, well-disposed and adorned with scented paste. Her limbs are adorned and relaxed. (Having) welcomed (her) and seated (her) on (her) seat in the midst of the cotton with fragrant flowers, she, the leader of the 
 
-608?\. According to MW a pulkasa is the name of ‘a despised mixed tribe’.
+[^613]: According to MW a pulkasa is the name of ‘a despised mixed tribe’.
 
 
 *[p. 470]* ^pg487
@@ -565,15 +565,15 @@ bhāvayet kāmabhāvena tāsu tattvaṁ na cotsṛjet ॥ 146 ॥
 suddhamantrauṣadhenaiva mathayen madanālayam |
 mathyamāne punas tasyā jāyate tattvām (> tattvam) uttamam || 147 ||
 gṁnīyāt tat prayatnena dravyaṁ kundodbhavari śubham |
-mathanar gajahasta (> -hastahn) mudrayati | 
+mathanar gajahasta (> -hastahn) mudrayati |[^614] 
 
-Now begins (an exposition of) the procedure with which sexual fluids (kundagola) and the like are extracted. (It is said in the) Pañcamīmala. 
+Now begins (an exposition of) the procedure with which sexual fluids (kundagola) and the like are extracted. (It is said in the) Pañcamīmala.[^615] 
 
 Having offered tasty food to relish and suck on and so too clothes, ornaments and the like, one should worship in her (Yoni, which is) the Temple of Madana (the god of love), with pure unbroken grains of rice. One should contemplate (her) with passion (kāmabhāva), (but) one should not ejaculate 
 
-609?\. This line, as it stands, means ‘the churning stamps the seal (mudrā) of the elephant’s trunk’. It makes no sense, nor is it amenable to emendation. I have omitted it from the translation as spurious.
+[^614]: This line, as it stands, means ‘the churning stamps the seal (mudrā) of the elephant’s trunk’. It makes no sense, nor is it amenable to emendation. I have omitted it from the translation as spurious.
 
-610?\. I have not come across this text. Its name literally means ‘the Dirt of the Fifth One’. We can understand from the citation, that ‘the fifth’ is the fifth Kaula substance, that is, the sexual fluids.
+[^615]: I have not come across this text. Its name literally means ‘the Dirt of the Fifth One’. We can understand from the citation, that ‘the fifth’ is the fifth Kaula substance, that is, the sexual fluids.
 
 
 *[p. 475]* ^pg492
@@ -637,13 +637,13 @@ kastūrīm kuhkumāktari ca vatiṁ kṛtvā tu gopayet ॥ 162 ॥
 yantrarājaṁ samālikhya pūjayed yadi sādhakaḥ |
 etenākṣatayogena mahatīṁ siddhim ālabhet || 163 ॥ 
 
-Therefore, make every effort, once having seen the Kula substance, to repeat Mantra. O god, having seen that nectar that has oozed out (of the Yoni) and laid hold (of it), one is successful in all (his) spiritual practice (sādhana) (done) in order to be achieve success in (the observance of the) conduct of a Kaula (kulācāra). (Even) if Śakti does not have Śiva, in the beginning of (her) season (varṣataḥ) (she produces) it by herself. It is then, at that time, the supremely divine (offering) called the Flower (i.e. the menstrual blood) that is Born Spontaneously (svayaṁbhūkusuma).’ The sacrificial substance (called) the Flower that is Born Spontaneously is hard to obtain even in (all) the three worlds. (One does not know), O pervasive lord, (if can be) obtained (even) by the king of the Gandharvas somewhere (or other). O god, if one has obtained it, mixed with lac and musk, smeared with vermilion (to which pure ash is added) and fashioned into a ball (vati), ), keep it hidden (and safe). If the adept, once drawn the king of Yantras, worships it along with that uncorrupted (akṣata)' (substance), he attains the great accomplishment. (158cd-163) 
+Therefore, make every effort, once having seen the Kula substance, to repeat Mantra. O god, having seen that nectar that has oozed out (of the Yoni) and laid hold (of it), one is successful in all (his) spiritual practice (sādhana) (done) in order to be achieve success in (the observance of the) conduct of a Kaula (kulācāra). (Even) if Śakti does not have Śiva, in the beginning of (her) season (varṣataḥ) (she produces) it by herself. It is then, at that time, the supremely divine (offering) called the Flower (i.e. the menstrual blood) that is Born Spontaneously (svayaṁbhūkusuma).[^616] The sacrificial substance (called) the Flower that is Born Spontaneously is hard to obtain even in (all) the three worlds. (One does not know), O pervasive lord, (if can be) obtained (even) by the king of the Gandharvas somewhere (or other). O god, if one has obtained it, mixed with lac and musk, smeared with vermilion (to which pure ash is added) and fashioned into a ball (vati), ), keep it hidden (and safe). If the adept, once drawn the king of Yantras, worships it along with that uncorrupted (akṣata)[^617] (substance), he attains the great accomplishment. (158cd-163) 
 
 samayācāratantre 
 
-611?\. \[illegible\] It seems that the text is here specifying that this term denotes the first menstrual blood produced at the beginning of menses.
+[^616]: \[illegible\] It seems that the text is here specifying that this term denotes the first menstrual blood produced at the beginning of menses.
 
-612?\. The adjective akṣata, which literally means ‘unbroken’, can also be applied, in the feminine, to a virgin girl.
+[^617]: The adjective akṣata, which literally means ‘unbroken’, can also be applied, in the feminine, to a virgin girl.
 
 
 *[p. 477]* ^pg494
@@ -703,12 +703,12 @@ nikṣipya cālipātre ca tataḥ pūjā (> -jām) samācaret ॥ 180 ॥
 
 iti kundagolādidravyagrahanṇavidhiḥ ॥| 
 
-(lt is said in) the Rudrayāmala:” 
+(lt is said in) the Rudrayāmala:[^618] 
 
-O mistress of the gods, you are not satisfied with thousands of jars (of water drawn from sacred) bathing sites nor hundreds of heaps of meat (if they are) without the nectar (produced) by the Yoni and Liṅgam. It is said in the Bhairavāgama that the Yoni is the hearth (kunda), the sacrificial ladle is the Ligam, and the wooden bolt’? is the clitoris (bhagānkura). The clarified butter is the male seed (vīrya), the mind is the one who offers oblation. Having called the Dūtī and laid hold of the most excellent substance (rattva), placed it in a jar of liquor, then one should perform the rite of worship. (178-180) 
+O mistress of the gods, you are not satisfied with thousands of jars (of water drawn from sacred) bathing sites nor hundreds of heaps of meat (if they are) without the nectar (produced) by the Yoni and Liṅgam. It is said in the Bhairavāgama that the Yoni is the hearth (kunda), the sacrificial ladle is the Ligam, and the wooden bolt[^619] is the clitoris (bhagānkura). The clarified butter is the male seed (vīrya), the mind is the one who offers oblation. Having called the Dūtī and laid hold of the most excellent substance (rattva), placed it in a jar of liquor, then one should perform the rite of worship. (178-180) 
 
 This is the procedure by which one lays hold of the sacred sexual fluids (kundagola). 
 
-613?\. This passage is not found in the published Rudrayāmala.
+[^618]: This passage is not found in the published Rudrayāmala.
 
-614?\. An argala is according to MW: ‘a wooden bolt or pin for fastening a door or the cover of a vessel.” I am not sure what is meant here.
+[^619]: An argala is according to MW: ‘a wooden bolt or pin for fastening a door or the cover of a vessel.” I am not sure what is meant here.

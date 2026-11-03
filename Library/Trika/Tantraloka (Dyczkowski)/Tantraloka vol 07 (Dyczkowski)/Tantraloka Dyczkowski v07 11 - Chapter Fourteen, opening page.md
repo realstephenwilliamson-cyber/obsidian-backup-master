@@ -22,7 +22,7 @@ A Preamble to the Rite of Initiation (dīikṣopakramaṇar)
 
 We make an offering (bali) to that strength (bala) which, as the beloved of the Yoginīs, strengthens the process by which the obscuration of the universe disappears by virtue of its power (bala). 
 
-It is said here everywhere that the Supreme Lord performs the five (cosmic) functions (of emanation, persistence, and withdrawal of the universe, along with the grace and obscuration of the soul). In that context, the three, emanation (persistence and withdrawal) were explained when the diverse forms of withdrawal were described.' And grace was (similarly described) in the previous chapter. Thus now, in order to explain the fifth remaining function, namely, obscuration, he says in the second half (of the verse with which the previous chapter ends): 
+It is said here everywhere that the Supreme Lord performs the five (cosmic) functions (of emanation, persistence, and withdrawal of the universe, along with the grace and obscuration of the soul). In that context, the three, emanation (persistence and withdrawal) were explained when the diverse forms of withdrawal were described.[^664] And grace was (similarly described) in the previous chapter. Thus now, in order to explain the fifth remaining function, namely, obscuration, he says in the second half (of the verse with which the previous chapter ends): 
 
 ### TĀ 14.1
 
@@ -31,7 +31,7 @@ tirobhāvasvarūpari tu 1 11111
 
 Reflect on the nature of obscuration, which is (now) going to be 
 
-discussed.’ (lab) 
+discussed.[^665] (lab) 
 
 #### Viveka on 14.1
 
@@ -55,6 +55,6 @@ It is the Supreme Lord’s (Parameśvara) nature to manifest in two ways — in 
 
 #### Viveka on 14.1–2
 
-664?\. The exposition of the Paths of the worlds (bhuvana), principles (tattva), and forces (kalā) starts from the lower and progresses through to the highest. This is the sequence of withdrawal. The three Paths of Mantra, parts of Mantra and phonemes follow suit.
+[^664]: The exposition of the Paths of the worlds (bhuvana), principles (tattva), and forces (kalā) starts from the lower and progresses through to the highest. This is the sequence of withdrawal. The three Paths of Mantra, parts of Mantra and phonemes follow suit.
 
-665?\. Abhinava reverts to this topic below in 23/69 ff.
+[^665]: Abhinava reverts to this topic below in 23/69 ff.

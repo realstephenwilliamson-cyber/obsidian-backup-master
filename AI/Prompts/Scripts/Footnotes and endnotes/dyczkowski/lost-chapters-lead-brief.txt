@@ -1,0 +1,40 @@
+Brief for a chapter pre-pass agent (2 Nov 2026, night 3, Stephen's Obsidian vault; Dyczkowski's Tantraloka, library copy).
+
+You prepare ONE chapter whose footnote numbers the OCR lost, so that Sonnet page readers can then make its footnotes real
+Markdown footnotes. You do not write to the vault (nothing under /mnt/user-data/outputs, no device tools); only files under
+/home/claude. Never write the Tetragrammaton (the four-letter divine name) anywhere.
+
+Background (read these first):
+- /home/claude/dyfn/scripts/README.md (the night method; read the ch2/ row and "Facts about the book")
+- /home/claude/dyfn/scripts/reader-brief.txt (what readers do; op formats)
+- /home/claude/dyfn/scripts/ch2/ : the Chapter Two pre-pass of 28 Oct (fnstarts2.py, supnum.py, prepass_ch2.py,
+  packet_ch2.py, merge_ops.py, reader-ch2.txt, reader-task-ch2.txt). It found 155 footnote starts on the page images
+  (Tesseract TSV at 300 dpi; footnote zone below the rule / smaller line pitch; a start = a margin line whose first token
+  is a misread superscript), read the superscripts it could (supnum.py; good for 1-99 only), numbered the starts through the
+  chapter by alignment, and rewrote each note with `N\. ` paragraphs (splitting lines where the converter ran a page's
+  footnotes together) for /home/claude/dyfn/scripts/prepass.py, which turns them into `[^N]: ` definitions.
+  Its record: Chapter Two needed a few page decisions by hand (OVERRIDE in prepass_ch2.py).
+- The scripts have Chapter-Two paths hard-coded (/home/claude/dyfn/ch2/...). Copy them into YOUR folder
+  /home/claude/lost/<CHAP>/scripts and change the paths there; never edit /home/claude/dyfn/scripts/.
+
+What to produce (for each note ID of your chapter, e.g. v04-03):
+1. /home/claude/dyfn/src/ID.md = an exact copy of the staged vault note (given below; byte for byte).
+2. The pre-pass output in /home/claude/dyfn/work/ID/ : run /home/claude/dyfn/scripts/prepass.py on your numbered note
+   (`N\. ` paragraphs) so that work/ID/pre.md, pre.json, pre-numbered.txt exist exactly as prepass.py makes them.
+   Number the footnotes with the PRINTED numbers (the chapter numbers its footnotes through the chapter; find where the
+   chapter's numbering starts, normally 1 on its first page).
+3. Reader packets: split each note's pages into ranges of about 12-16 PDF pages and build one folder per range with your
+   adapted packet_ch2.py: /home/claude/dyfn/rd/ID-a, ID-b, ... (every page of the range imaged, also pages with only
+   carried-over text; pages.txt restricted to the range; what the pre-pass did per page). In each folder write TASK.txt,
+   adapted from reader-task-ch2.txt (DIR, the right PDF, the note title, YOUR PAGES, the expected printed numbers on them)
+   and pointing to an adapted chapter addendum that you write at /home/claude/lost/<CHAP>/reader-addendum.txt (from
+   reader-ch2.txt, for this chapter). Readers must also use letter labels (e.g. 57b) for any footnote the pre-pass missed
+   or for splits, and give "printed" for every footnote in per_note; the lead relabels to the printed numbers.
+4. /home/claude/lost/<CHAP>/REPORT.md: starts found per note, how many numbers OCR'd, how many by sequence, flags,
+   anything you decided by hand (with the page), the packet list (folder, pages, expected numbers), and anything odd.
+   Reply to the lead in under 200 words.
+
+Rules: keep your own context lean (data in files, look at page images only where a decision needs it); do not convert
+anything the print does not have; do not change wording, headings, page markers, block ids or frontmatter; keep every
+\[illegible\] placeholder. If a note already has real footnotes, keep their text; their labels may need the printed
+number (say so in the report).

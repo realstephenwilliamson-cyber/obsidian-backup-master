@@ -113,6 +113,7 @@ One name per line, with the subjects of their works in the library. Add anyone y
 - [[Mark Coeckelbergh]] · Philosophy
 - Gerald Moore · Philosophy
 - [[Timothy Knepper]] · Philosophy, Other
+- [[Emmanuel Levinas]] · Philosophy, Judaica · added 29 Oct 2026 (two works)
 
 ## Also in the library, not listed yet
 

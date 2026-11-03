@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 ### Dyczkowski's verse 1cd-2ab
 
-necessity (niyati); and independently of it. This is why he is said to be free (svacchanda). (1cd-2ab) 
+necessity (niyati),[^666] and independently of it. This is why he is said to be free (svacchanda). (1cd-2ab) 
 
 #### Viveka on Dyczkowski's verse 1cd-2ab
 
@@ -34,15 +34,13 @@ necessity (niyati); and independently of it. This is why he is said to be free (
 karmaphalayor āśrityaiṣa maheśvaraḥ ॥ 2 ॥
 sṛṣtisaṁsthitisarnṁārān vidhatte ‘vāntarasthitīn | 
 
-On the basis of the (constraint of) Karmic necessity and its fruit, the Lord performs the functions of emanation, persistence and withdrawal in their intermediate form.“ (2cd-3ab) 
+On the basis of the (constraint of) Karmic necessity and its fruit, the Lord performs the functions of emanation, persistence and withdrawal in their intermediate form.[^667] (2cd-3ab) 
 
 #### Viveka on 14.2–3
 
-(The cycles of creation are said to be) ‘in their intermediate form’ in relation to the Great Emanation of Power etc. (śāktamahāsṛṣti). Their field of operation (viṣaya) are the three Eggs, Earth and the rest. As was said before: 
+(The cycles of creation are said to be) ‘in their intermediate form’ in relation to the Great Emanation of Power etc. (śāktamahāsṛṣti). Their field of operation (viṣaya) are the three Eggs, Earth and the rest.[^668] As was said before: 
 
-‘Kālāgni is the destroyer within (the Egg of) Earth. The Lord of the Principle of Time within (the Egg of) Māyā is Śrikaṇtha, who (residing) within (the Egg of) the Root (Nature) creates and destroys all (the three eggs) together. He is master of (both) creation and destruction, as he is the sole agent of that intermediate form of (universal) destruction. 
-
-"\^ 
+‘Kālāgni is the destroyer within (the Egg of) Earth. The Lord of the Principle of Time within (the Egg of) Māyā is Śrikaṇtha, who (residing) within (the Egg of) the Root (Nature) creates and destroys all (the three eggs) together. He is master of (both) creation and destruction, as he is the sole agent of that intermediate form of (universal) destruction.’[^669] 
 
 Elsewhere (in other higher forms of emanation), there is no contact with (the constraining power of) necessity. Thus, he says: 
 
@@ -50,13 +48,13 @@ Elsewhere (in other higher forms of emanation), there is no contact with (the co
 
 महासर्गे पुनः सुष्टिसंहारानन्त्यशालिनि ॥ ३ ॥
 
-666?\. ‘Niyati’, which I translate as ‘necessity’, and can also be translated as ‘natural law’, is the principle that determines that a particular cause has its own specific effects. ‘Necessity’ applies in a special way to Karma and its consequences. God has ordained ‘necessity’ and so is free to act in accord with it or not, as He chooses in particular circumstances. He is not bound, for example, to dispense the fruits of Karma. Nor is He constrained to obey natural law, causality or even the principles of reason.
+[^666]: ‘Niyati’, which I translate as ‘necessity’, and can also be translated as ‘natural law’, is the principle that determines that a particular cause has its own specific effects. ‘Necessity’ applies in a special way to Karma and its consequences. God has ordained ‘necessity’ and so is free to act in accord with it or not, as He chooses in particular circumstances. He is not bound, for example, to dispense the fruits of Karma. Nor is He constrained to obey natural law, causality or even the principles of reason.
 
-667?\. The intermediate form of the cycle of creation and destruction is brought about by Śiva in the form of Śrīkanṭha at the lower level, below Māyā. The cycles of creation and destruction at the intermediate level are instigated by the Karmas of the individual souls subject to them. At the higher level, Śiva Himself operates spontaneously, independently of any need or constraint.
+[^667]: The intermediate form of the cycle of creation and destruction is brought about by Śiva in the form of Śrīkanṭha at the lower level, below Māyā. The cycles of creation and destruction at the intermediate level are instigated by the Karmas of the individual souls subject to them. At the higher level, Śiva Himself operates spontaneously, independently of any need or constraint.
 
-668?\. Concerning, the three Eggs, see above note 8,499.
+[^668]: Concerning, the three Eggs, see above note 8,499.
 
-669?\. Above, 6/17 1cd-172abc (171-172a).
+[^669]: Above, 6/17 1cd-172abc (171-172a).
 
 
 *[p. 347]* ^pg369
@@ -68,13 +66,13 @@ ekaḥ sa devo viśvātmā niyatityāgataḥ prabhuḥ |
 
 Again, on the contrary, in the case of the Great Emanation that contains innumerable emanations and reabsorptions, God, the one Lord who is all things, (acts independently) by abandoning (the constraints of 
 
-Karmic and causal) necessity.” (3cd-4ab) 
+Karmic and causal) necessity.[^670] (3cd-4ab) 
 
 #### Viveka on 14.3–4
 
 He explains the greatness (of the Great Emanation by saying that it) ‘contains innumerable emanations and reabsorptions’. As was said before: 
 
-‘The venerable Aghora creates and reabsorbs within the Egg of Energy (śaktyanda). The emanations and re-absorptions of the universe contained in one such creation are countless. This is why Śakti’s creation is called the Great Emanation (mahāsṛsti).”\* 
+‘The venerable Aghora creates and reabsorbs within the Egg of Energy (śaktyanda). The emanations and re-absorptions of the universe contained in one such creation are countless. This is why Śakti’s creation is called the Great Emanation (mahāsṛsti).”[^671] 
 
 (He does this) ‘by abandoning (the constraints of Karmic and causal) necessity’. This (kind of emanation) is not Karma, in relation to which here (in this case), (karmic) necessity is also assumed. 
 
@@ -102,9 +100,9 @@ The Lord Obscures Himself by the Power of Necessity;
 
 by Abandoning Karma He is Free of Obscuration 
 
-670?\. See above, 4/171-173. The Great Emanation takes place at the level of Śakti. It is brought about by Siva in the form of Aghora.
+[^670]: See above, 4/171-173. The Great Emanation takes place at the level of Śakti. It is brought about by Siva in the form of Aghora.
 
-671?\. \[illegible\] Above, 6/173-174ab (172cd-173). Also quoted ad 7/63cd-64ab. Concerning Karma and the Great Creation see MVV 2/188ab ff. quoted above in note 9,203 to 9/88ab.
+[^671]: \[illegible\] Above, 6/173-174ab (172cd-173). Also quoted ad 7/63cd-64ab. Concerning Karma and the Great Creation see MVV 2/188ab ff. quoted above in note 9,203 to 9/88ab.
 
 
 *[p. 348]* ^pg370
@@ -129,7 +127,7 @@ It is because ‘(the Lord) progressively obscures his own nature’. The meanin
 
 “Nor is the power of his Karma such that due to it he should be thus (in 
 
-such a state)’ 
+such a state)’[^672] 
 
 Surely (one may ask), why is it said to be a state of obscuration (tirodhāna) that even where (it prevails) the all-pervasive Lord (vibhu) (continues to be) independent of Karma and the rest? Taking this doubt into consideration, he defines its nature, presenting first an example in terms of its consequences. 
 
@@ -146,7 +144,7 @@ yathā prakāśasvātantryāt pratibuddho ‘py abuddhavat || 7 ||
 
 Just as one who, although awakened by the power of the freedom of the light (of consciousness), is (outwardly) like one who is not awake (in order to hide his spiritual state), similarly one who has not gone beyond 
 
-672?\. \[illegible\] Below, 14/14ab.
+[^672]: \[illegible\] Below, 14/14ab.
 
 
 *[p. 349]* ^pg371
@@ -159,9 +157,7 @@ One who, although awake (and fully realised) by virtue of the dawning of (suprem
 
 self-awareness (aharvimarśa) within the light (of his consciousness), abides (in the world) like one who is not awake. Resolutely resting upon the vitality of his own (true) nature, he keeps hidden, in accord with the axiom (nyāya) (that liberated souls) ‘behave (as if) they were attached, although they are devoid of (worldly) attachment’. Conversely, someone who, even though he ‘has not gone beyond (the confines of saṁsāra) (anutfīrna)’, that is, (whose true) nature has not been made manifest (to him), because no descent of the power (of grace) has taken place, ‘can act like one who has’, that is, like one (whose true) nature has been made manifest (to him). (He does this) in order to deceive others by a display of (false) devotion and faith, because he is a cheat (and a hypocrite). In actual fact, he has no idea of respect for the Supreme Lord’s Mantras and Tantras etc. The meaning is that this is (the state of) obscuration (tirodhāna). As was said before: 
 
-“(The consciousness of) one who behaves as if he were enlightened although he is not and, having taken up (the practice of reciting) Mantras and the like, gives it up, is in a state of obscuration (tirobhāva). 
-
-10 
+“(The consciousness of) one who behaves as if he were enlightened although he is not and, having taken up (the practice of reciting) Mantras and the like, gives it up, is in a state of obscuration (tirobhāva).[^673] 
 
 Surely (one may ask), it is taught here that according to the teaching that ‘I am Śiva, one without a second’, even one who does not possess Śiva’s state should consider (bhāvayet) that he does in order to gain oneness (with Śiva). If such is the case with him, then what defect is there (in his deceitful behaviour)? With this doubt in mind, he says: 
 
@@ -185,7 +181,7 @@ According to Vidyādhipati, the Initiates who Abandon the Path
 
 are not Properly Illumined; Those who are Never Fall 
 
-673?\. Above, 13/120cd-121ab.
+[^673]: Above, 13/120cd-121ab.
 
 
 *[p. 350]* ^pg372
@@ -231,9 +227,9 @@ no taiḥ \[illegible\] bhūtalasaṁsthair amṛtaṁ tad-
 
 yeṣām tṛtkṣudduhkhavibādhāḥ punar asmin ॥ 12 ॥ 
 
-Vidyādhipati has said something similar in the Mānastotra” (where we read). ‘Those who, (although they) have taken initiation into the path of Your teachings, come to disagree (with them) because they are (still) under the sway of delusion (moha), are certainly not in contact with the sun of Your (awakened consciousness). Are lotuses closed by the rays of the sun? 
+Vidyādhipati has said something similar in the Mānastotra[^674] (where we read). ‘Those who, (although they) have taken initiation into the path of Your teachings, come to disagree (with them) because they are (still) under the sway of delusion (moha), are certainly not in contact with the sun of Your (awakened consciousness). Are lotuses closed by the rays of the sun? 
 
-674?\. This is the Pramānastotra by Vidyādhipati. Goodall (1998: 365) has identified another verse from this stotras, quoted by Rāmakantṭha 2 in his commentary on the Kiraṇatantra ad 6/5-6. It says: ‘Surely it must be true (kila nūnam) those who (still) crave pleasure, that which generates worldly existence, cannot have been impelled by this power. Can they be said to have crossed over to the other side of a terrible great ocean when their bodies have been swallowed by sea monsters?’ As Goodall (ibid.) points out the verses Abhinava quotes ‘have a similar rhetorical structure, use similar fanciful imagery, and are also in mattamayūra metre.”
+[^674]: This is the Pramānastotra by Vidyādhipati. Goodall (1998: 365) has identified another verse from this stotras, quoted by Rāmakantṭha 2 in his commentary on the Kiraṇatantra ad 6/5-6. It says: ‘Surely it must be true (kila nūnam) those who (still) crave pleasure, that which generates worldly existence, cannot have been impelled by this power. Can they be said to have crossed over to the other side of a terrible great ocean when their bodies have been swallowed by sea monsters?’ As Goodall (ibid.) points out the verses Abhinava quotes ‘have a similar rhetorical structure, use similar fanciful imagery, and are also in mattamayūra metre.”
 
 
 *[p. 351]* ^pg373
@@ -256,11 +252,11 @@ The Hypocrite is Averse to the Behaviour of the Awakened ततः ्रबु�
 tataḥ prabuddhaceṣtāsau mantracaryārcanādikā |
 dveṣeddhāntar dahaty ena dāhaḥ śaṁkaiva sā yataḥ ॥ 13 ॥ 
 
-Thus, the behaviour of those who are awake,” that is, Mantra, spiritual discipline (caryā), worship and the like, (is similar to fuel, that when) stoked by aversion, inwardly burns (the hypocrite who imitates it); for it is doubt alone that burns (within him, not the inner fire of consciousness). (13) 
+Thus, the behaviour of those who are awake,[^675] that is, Mantra, spiritual discipline (caryā), worship and the like, (is similar to fuel, that when) stoked by aversion, inwardly burns (the hypocrite who imitates it); for it is doubt alone that burns (within him, not the inner fire of consciousness). (13) 
 
 #### Viveka on 14.13
 
-675?\. This verse follows from 7cd-9ab.
+[^675]: This verse follows from 7cd-9ab.
 
 
 *[p. 352]* ^pg374
@@ -269,9 +265,9 @@ The cause of (the hypocrite’s) inner burning is that it is ‘stoked by aversi
 
 ‘The sin born of anger due to (the practice) of a great Mantra, Vidyā, spiritual disciple and the like that he reviles, casts him down in every way into a terrible abode of torment.’ 
 
-What is the meaning here of (the word) ‘burning’? With this doubt in mind, he says that ʻit is doubt alone that burns (within him)’. Doubt is thought, and that alone is the instigating cause (nimitta) of transmigratory existence. As is said: ‘all thought is transmigratory existence.’ 
+What is the meaning here of (the word) ‘burning’? With this doubt in mind, he says that ʻit is doubt alone that burns (within him)’. Doubt is thought, and that alone is the instigating cause (nimitta) of transmigratory existence. As is said: ‘all thought is transmigratory existence.’[^676] 
 
-”? He states there in this way that his (state of) obscuration is his intense burning. 
+He states there in this way that his (state of) obscuration is his intense burning. 
 
 Surely (one may ask), is the instigating cause (of this) here (in this case) the agitation (visphūrjita) of his previous Karma, or something else? With this doubt in mind, he says: 
 
@@ -285,7 +281,7 @@ Obscuration, like Grace, is Due to the Lord’s Will, not Karma
 na cāsya karmamahimā tādṛg yenettham 2510 saḥ |
 kim hi tat karma kasmād vā pūrveṇātra samo vidhiḥ ॥ 14 || 
 
-Nor is the power of his Karma such that due to it he should be thus (in such a state). What is that Karma and what causes it? The ordinance (vidhi) is as before (and the same objections apply) here (in this case also as they do regarding the causes of grace). (14) 
+Nor is the power of his Karma such that due to it he should be thus (in such a state). What is that Karma and what causes it? The ordinance (vidhi) is as before (and the same objections apply) here (in this case also as they do regarding the causes of grace).[^677] (14) 
 
 #### Viveka on 14.14
 
@@ -293,9 +289,9 @@ Nor is the power of his Karma such that due to it he should be thus (in such a s
 
 Thus, he says: 
 
-676?\. This dictum is quoted above in TĀv ad 1/214 and 4/11160-11390 and below ad 16/283cd-284ab (284).
+[^676]: This dictum is quoted above in TĀv ad 1/214 and 4/11160-11390 and below ad 16/283cd-284ab (284).
 
-677?\. See above, 13/41cd ff.
+[^677]: See above, 13/41cd ff.
 
 
 *[p. 353]* ^pg375
@@ -379,11 +375,11 @@ As
 
 the 
 
-Supreme Lord has said in the venerable Anandagahvaratantra: 0 goddess, by transgressing the pledges one becomes a carnivorous demon for one hundred years.’ (18cd-19ab) 
+Supreme Lord has said in the venerable Anandagahvaratantra: 0 goddess, by transgressing the pledges one becomes a carnivorous demon for one hundred years.’[^679] (18cd-19ab) 
 
 #### Viveka on 14.18–19
 
-679?\. Abhinava quotes this line again in TĀ 16/204ab (204cd) just as it is here with no variants. We find the following similar line quoted by Rāmakanṭha ad Kirana 1/10 (with no attribution): This is the form Goodall (1998: 176 note 47) records is quoted in the Mṛgendravṛttidīpikā ad 1/2, p. 14 where it is attributed to the Rauravāgama but cannot be traced in the printed edition. Rāmakantha cites it in the Mataṁgavṛtti ad vidyāpāda 5/6ab and ad Kirana 5/27, where he attributes it (as he does in the Mataṅgavṛtti) to the Pauṣkara. He also quotes it ad 6/5-6 without attribution. Below ad 15/33cd-34ab Jayaratha quotes the same line with only one variant namely, instead of reading proktaṁ we find devi which one would not expect in a Siddhāntāgama. Thus it reads: The reference to the goddess as the interlocutor is as we find in this version of this line which Abhinava says is from the Ānandagahvara, which is not a Siddhāntāgama. This reads: samayollaṅghanād devi kravyādatvari śataṁ samāḥ | Jayaratha ad 23/98cd quotes this line as quoted here by Abhinava. Abhinava clearly prefers this variant, indeed there is no evidence that he knows the other one. Thus, paraphrasing the first half of the line in 23/98c, he writes anyatra samayatyāgāt ‘elsewhere (it is said) that: ‘by abandoning (the observance of) the pledges . . . -'. A variant of this line is Sārdhatriśatikālottara 25/2cd: samayollaṁghanād proktaḥ kravyādatvaṁnṁ śataṁ samāḥ. Note that here in this Siddhāntāgama the reading is proktari not devi.
+[^679]: Abhinava quotes this line again in TĀ 16/204ab (204cd) just as it is here with no variants. We find the following similar line quoted by Rāmakanṭha ad Kirana 1/10 (with no attribution): This is the form Goodall (1998: 176 note 47) records is quoted in the Mṛgendravṛttidīpikā ad 1/2, p. 14 where it is attributed to the Rauravāgama but cannot be traced in the printed edition. Rāmakantha cites it in the Mataṁgavṛtti ad vidyāpāda 5/6ab and ad Kirana 5/27, where he attributes it (as he does in the Mataṅgavṛtti) to the Pauṣkara. He also quotes it ad 6/5-6 without attribution. Below ad 15/33cd-34ab Jayaratha quotes the same line with only one variant namely, instead of reading proktaṁ we find devi which one would not expect in a Siddhāntāgama. Thus it reads: The reference to the goddess as the interlocutor is as we find in this version of this line which Abhinava says is from the Ānandagahvara, which is not a Siddhāntāgama. This reads: samayollaṅghanād devi kravyādatvari śataṁ samāḥ | Jayaratha ad 23/98cd quotes this line as quoted here by Abhinava. Abhinava clearly prefers this variant, indeed there is no evidence that he knows the other one. Thus, paraphrasing the first half of the line in 23/98c, he writes anyatra samayatyāgāt ‘elsewhere (it is said) that: ‘by abandoning (the observance of) the pledges . . . -'. A variant of this line is Sārdhatriśatikālottara 25/2cd: samayollaṁghanād proktaḥ kravyādatvaṁnṁ śataṁ samāḥ. Note that here in this Siddhāntāgama the reading is proktari not devi.
 
 
 *[p. 355]* ^pg377
@@ -425,7 +421,7 @@ anusāreṇa dīkṣādau kṛte syāc chivatāmayaḥ || 21 ||
 
 *[p. 356]* ^pg378
 
-(In the first case), graced again, he identifies with Śiva” after he has performed the rites of expiation and the like, followed accordingly by initiation and the rest. (21) 
+(In the first case), graced again, he identifies with Śiva[^680] after he has performed the rites of expiation and the like, followed accordingly by initiation and the rest. (21) 
 
 #### Viveka on 14.21
 
@@ -441,7 +437,7 @@ The sense is that he performs the rites of expiation himself. (They are) ‘foll
 tirobhūtaḥ paretāsur api bandhusuhṛdgurūn |
 ālambya śaktipātena dīkṣādyair anugṛhyate || 22 || 
 
-(In the second case,) one who is obscured, even if dead (paretāsu), may be graced by a descent of the power (of grace), by means of initiation and the like, with the assistance of his relatives, friends and teachers." (22) 
+(In the second case,) one who is obscured, even if dead (paretāsu), may be graced by a descent of the power (of grace), by means of initiation and the like, with the assistance of his relatives, friends and teachers.[^681] (22) 
 
 #### Viveka on 14.22
 
@@ -463,9 +459,9 @@ He (now) integrates (this teaching) with what was said before (as the reality th
 
 Fulfilment by Knowledge (jñānena paripūrṇatā) 
 
-680?\. He is sivatāmaya. This literally means he is is ‘made of Śivahood’.
+[^680]: He is sivatāmaya. This literally means he is is ‘made of Śivahood’.
 
-681?\. Cf. below, 19/4-5ab and, especially 21/9c-1 1b. The initiation of a deceased person at a distance is described in Chapter Twenty-one.
+[^681]: Cf. below, 19/4-5ab and, especially 21/9c-1 1b. The initiation of a deceased person at a distance is described in Chapter Twenty-one.
 
 
 *[p. 357]* ^pg379
@@ -486,7 +482,7 @@ iti pañcasu kartṛtvar śivatvaṁ saṁvidātmanaḥ ॥ 24 ॥
 
 In this way, the agency of consciousness (that performs) the five (tasks) of emanation, persistence, withdrawal, obscuration and grace is its 
 
-Śiva nature (śivatva).” (24) 
+Śiva nature (śivatva).[^682] (24) 
 
 #### Viveka on 14.24
 
@@ -516,7 +512,7 @@ In this way, this is the supreme object of attainment (upeya) by virtue of which
 aindrajālikavṛttānte na rajyeta kadācana |
 sādāśivo ‘pi yo bhogo bandhaḥ so ‘py ucitātmanām |I| 26 ॥ 
 
-682?\. \[illegible\] Concerning Śivaṛs five operations, see Dyczkowski 1992a: 178-183. Cf. below 14/42cd-43ab and 23/561.
+[^682]: \[illegible\] Concerning Śivaṛs five operations, see Dyczkowski 1992a: 178-183. Cf. below 14/42cd-43ab and 23/561.
 
 
 *[p. 358]* ^pg380
@@ -542,7 +538,7 @@ The sense is that there is no difference at all between knowledge and action. As
 
 ‘There is no knowledge devoid of action and no action devoid of 
 
-knowledge.” 
+knowledge.”[^683] 
 
 The nature of (this) agency is not meant here to be that of the agent who fashions (phenomenal entities) on the analogy of a potter, because that is not the main one. That (secondary agency) is supported by (the main) agency which is the pure freedom (to act of Śiva’s consciousness) because without that, it could not arise. That is said (in the following line): 
 
@@ -561,7 +557,7 @@ Surely then (one may ask,) the agency of people like me, like (that of) the pott
 
 इति ज्ञात्वा ग्रहीतव्या नैव जात्वपि खण्डना ।
 
-683?\. The second half of this line is quoted above, ad 1/163. The complete verse is quoted by Kṣemarāja in NTu ad 16/77-78ab (quoted above note to 1/151). He does not name the source. The second line reads: kriyājñānaviniṣpanna ācāryaḥ paśupāśahā | “The teacher who destroys the fetters of the fettered is generated from action and knowledge.’.
+[^683]: The second half of this line is quoted above, ad 1/163. The complete verse is quoted by Kṣemarāja in NTu ad 16/77-78ab (quoted above note to 1/151). He does not name the source. The second line reads: kriyājñānaviniṣpanna ācāryaḥ paśupāśahā | “The teacher who destroys the fetters of the fettered is generated from action and knowledge.’.
 
 
 *[p. 359]* ^pg381
@@ -591,19 +587,19 @@ kṛtaḥ kānyā dehatāsya tat ki syād vācyatāpadam || 30 ॥
 
 Things would follow my will if what shone here in my ‘I’ consciousness (ahaṁsamvit) were to be Śiva, the Supreme Lord. However (it is not). (What shines there) is my body and the like, that is created (and so is limited and insentient). Such (is) Śiva’s (experience,) by virtue of which the body is such as it is, and is created by You, (O Śiva). What else could His embodied condition be? Thus, what could be the ground of (this) 
 
-objection?” (29-30) 
+objection?[^684] (29-30) 
 
 #### Viveka on 14.29–30
 
 ‘In my ‘P consciousness’ means within the consciousness of myself. If Śiva, who is free, were to shine here, then the universe would follow the will of that which is present there. Now the body is a created thing, so how could (the universe follow its will) like that? It is only insentient, created with the full knowledge and action (of consciousness) concealed, otherwise its condition would not be that of a body. That is not what needs to be ascertained. ‘Thus’, he says, ‘what could be the ground of (this) objection?’ Therefore, one should only consider oneself to be Śiva Himself, not the body, so that by the excellence of the firmness (of that conviction,) the truth (tattva) may develop (within oneself). Such is said to be what is to be known, namely, that which is called the plenitude of (unconditioned) consciousness (jñāna). That is the supreme object of attainment, which is why he has said that: 
 
-‘One should never take a liking to tales of magic (indrajāla):”? 
+‘One should never take a liking to tales of magic (indrajāla):”[^685] 
 
 Surely (one may ask), what is the (scriptural) authority here (for this teaching). With this doubt in mind, he says: 
 
-684?\. Literally: ‘How can that be an occasion for discussion?’
+[^684]: Literally: ‘How can that be an occasion for discussion?’
 
-685?\. Above, 14/26ab.
+[^685]: Above, 14/26ab.
 
 
 *[p. 360]* ^pg382
@@ -620,13 +616,13 @@ uktaṁ ca siddhasantānaśrīmadūrmimahākule ।
 pavanabhramaṇaprāṇavikṣepādikṛtaśramāḥ || 31 ॥
 kuhakādiṣu ye bhrāntās te bhrāntāḥ parame pade | 
 
-It is also said in the venerable Ūrmimahākula, that belongs to the lineage of the Siddhas (founded by Matsyendranātha):” ‘those who have exerted themselves, (manipulating) the circulation of the winds (in the body) and ejecting the vital breath (out of it) and the like, (as well as) those who are deluded by the practice of magic etc., are (all) confused on the supreme plane.’ (31-32ab) 
+It is also said in the venerable Ūrmimahākula, that belongs to the lineage of the Siddhas (founded by Matsyendranātha):[^686] ‘those who have exerted themselves, (manipulating) the circulation of the winds (in the body) and ejecting the vital breath (out of it) and the like, (as well as) those who are deluded by the practice of magic etc., are (all) confused on the supreme plane.’ (31-32ab) 
 
 #### Viveka on 14.31–32
 
 “In the Ọrmimahākula’, that is, in the Ūrmikaula. 
 
-Surely (one may ask), if that » why is it said everywhere (in the scriptures) that quitting the body voluntarily (utkrānti)\* which is the (conscious) ejection of the vital breath (from the body), is a means to (attaining) the supreme plane? With this doubt in mind, he says: 
+Surely (one may ask), if that » why is it said everywhere (in the scriptures) that quitting the body voluntarily (utkrānti),[^687] which is the (conscious) ejection of the vital breath (from the body), is a means to (attaining) the supreme plane? With this doubt in mind, he says: 
 
 The Futility of Yogic Suicide (utkrāntyanupayogitva) 
 
@@ -636,16 +632,26 @@ The Futility of Yogic Suicide (utkrāntyanupayogitva)
 sarvatra bahumānena yāpy utkrāntir vimuktaye || 32 ||
 proktā sā sāraśāstreṣu bhogopāyatayoditā | 
 
-686?\. See above, note to 2/48. The Ūrmimahākula is the Ürmikaulārnavatantra.
+[^686]: See above, note to 2/48. The Ūrmimahākula is the Ürmikaulārnavatantra.
 
-687?\. The early Upaniṣads have a good deal to say about what happens to a man when he dies. Indeed, it is one of their major themes. Reading these accounts, one is struck by the detail with which the phases of the process of dying are described. Clearly, it was the result of much careful observation. Here, it seems, the concern is not with a person who is dying in general, but one who chooses to do so. It is, in other words, a kind of suicide. Even so, the term for it is not ‘&tmahatya’ ‘killing oneself’, which is the common word for suicide. It is ‘utkrānti which I translate as ‘quitting the body voluntarily’, and literally means ‘traversing upwards’. Cf. below 28/254cd-259ab. Concerning ritual and yogic suicide in ancient India, see Kane 1962.
+[^687]: The early Upaniṣads have a good deal to say about what happens to a man when he dies. Indeed, it is one of their major themes. Reading these accounts, one is struck by the detail with which the phases of the process of dying are described. Clearly, it was the result of much careful observation. Here, it seems, the concern is not with a person who is dying in general, but one who chooses to do so. It is, in other words, a kind of suicide. Even so, the term for it is not ‘&tmahatya’ ‘killing oneself’, which is the common word for suicide. It is ‘utkrānti which I translate as ‘quitting the body voluntarily’, and literally means ‘traversing upwards’. Cf. below 28/254cd-259ab. Concerning ritual and yogic suicide in ancient India, see Kane 1962.
 
 
 *[p. 361]* ^pg383
 
-Quitting the body voluntarily (utkrānti),” which is said with great respect everywhere (by all) to serve as a means to liberation is, according to 
+Quitting the body voluntarily (utkrānti),[^688] which is said with great respect everywhere (by all) to serve as a means to liberation is, according to 
 
-688?\. This matter is discussed by Somadeva (2004) p. 437-445. Yogic or ritual suicide is a topic in Tantras of all schools. It was and remains an ideal for Jain monks. The Jains believe Karma is a binding substance. The influx of Karma (karmāśravana) weighs down the soul, preventing it from rising upwards to the top of the universe, where it is liberated from the bonds of Karma. To prevent this influx, devoted Jain monks sit motionless, keeping as still as possible. They neither eat nor drink. Eventually, of course, they die. Memorial stones are found all over India marking places where a Jain monk has performed the ultimate practice. Thus, the practice of suicide for spiritual reasons carried with a it a great deal of prestige, even outside the Jain community. In the first example of this practice, we quote the Kubjikāmata, where we are told it makes a man famous. The passage is drawn from chapter 23 of the KM. An extended account is found in chapter 36 of the Ṣatsāhasrikā samhitā. anyatkāle na kartavyam utkrāntyutkramaṇaṁ priye ॥ 111 ॥ kīrtihetoḥ prakartavyā sā yathā kathyate .a dhunā | dvāreṣv argalasamyogari kuryāc codghāṭanari kvacit \\\\ 112 ॥ jīvādhāraṁ chined granthim etad utkrāntilakṣaṇam | gudaṁ liṅgaṁ tathā nābhir mukhai nāsā śrutīkṣaṇau || 113 Il eṣu sthāne .argalaṁ yojya kuñcikordhvaṁ niyojayet | ‘The rite of ritual suicide should not be done at any other time (or in any other circumstance). It should be done to achieve (spiritual) renown (kīrti). 1 will tell you that now. The doors should be locked with a chain. (Then, some of them) in certain places should be opened. The knot, which is the foundation of the living being, should be cut. This is the characteristic mark of (yogic) suicide (utkrānti). A chain should be placed on the anus, the penis, naval, mouth, nose, ears and eyes. Then a lock and key (kuñcikā) should be placed above it. (11 1cd-114ab) argalāny upadeśena śṛnu tvar karana yathā ॥ 114 ॥ gudādhāropari sthitvā kṛtvā vai kukkutāsanam | samapādorujaṁghas tu kurparau tu tadūrdhvagau || 115 ॥ bhagnapṛṣthaśirahskandho hy uttānordhvamukhaḥ sthitaḥ | muṣtibhyār pīdayet skandhau kanthasthau cānunāsikau |l 116 ॥ uccaret kṣurikā (> -kām) mūle granthicchedaṁ bhavet | kṣaṇāt ghāṭayitvā tu dvārāṇi nityam eva samabhyaset ॥ 117 ॥ ghanṭikāyār tu deveśi ṣanmāsāvadhipūrvakam | nityam evābhyasantasya pratyayāni bhavanti hi ॥ 118 ॥ ghatādhāragatai \[illegible\] kūrmayantreṇa pīdayet | abhyasan māsam ekaṁ tu sadyam utkrāntilakṣanam || 118 A ॥ (Next Bhairava goes on to describe the instrument (karana) used to cut through the chains). Squatting on his buttocks (the adept) assumes the ‘posture of the cock’ (kukkuṭāsana). The feet, legs and thighs are equally placed (next to each other). The head and shoulders bent over the elbows, are above (the knees) and the face is raised up. The shoulders should be struck with the fists and are placed at the throat facing the nose. He should utter the Razor (Mantra) at the base (of the spine).\* (In this way) the knots are severed in an instant. Once the doors have been opened, he should practice constantly within the uvula. Within six months, practicing constantly, signs of accomplishment (pratyaya) appear. Squeeze the vital breath within the foundation of the Jar with the Turtle Machine. Practicing for a month the signs of (impending yogic) death (utkrānti) (arises) spontaneously. (KM 23/214cd-1 18A) . \*According to 585 36/35-38AB, the Vidyā of the Razor is DHAM KṢRUM HRUM according to the commentary it is DHAM KṢRAUM HUM brahmarandhraṁ sphurantīva nirjīvaṁ kanthakāvadhim | evam abhyāsayen nityaṁ yatra bandhatanu\[h\] sthitaḥ ॥ 119 ॥ gudādhāre mṛduṁ dattvā pṛṣthādhārai suśobhanam | jānūrubhyāṁ tu pārśve tu kīlakau dvau nidhāpayet ॥ 120 ॥ tatpramāṇau samau bhūmyārṁ yantrayen mṛduyantraṇāt | (When Kundalinī reaches) the Cavity of Brahmā, it is as if pulsing with light (sphurantī); (the rest of the body) up to the throat is lifeless. He should practice like this regularly where the body is fixed (in a yogic posture). Having placed something soft at the base of the buttocks, (one should make use of) a beautiful back rest, with the knees and thighs on each side, he should place two ‘bolts’ (made of mantra) there of the same size. Then (seated comfortably in a firm and even posture) he should control (the breath) with gentle restraint. (119-121ab) evaṁ sahśodhayitvā tu pūrvasiddhi\[r\] yathā yathā ॥ 121 ॥ tadā saṁkurute kīrtim ity ājñā pārameśvarī | satatābhyāsayogena sadyam utkramane kṣamaḥ ॥ 122 ॥ kruddhaḥ sarrharate kṣipran ghātṭikābhyantarena vai | tṛna vṛkṣalatādīnāri ṣatpadākāśagāminām ॥ 123 ॥ phalapuṣpaprapātena tadā siddhiṁ vilakṣayet | akālenāpi kālas tu ṣadghaṭikābhyantarenṇa vai ॥ 124 ॥ ṣanmāsābhyāsayogena ātmanaḥ kurute dhruvam | evaṁ te kathitaṁ sarvar sarahasyaṁ mahāmatam || 125 ॥ Once the body has been purified in this way, (he attains) the aforementioned siddhis, and as he does so, he makes fame (for himself). This is the Supreme Goddess’s command. By practicing this constantly, he is able to leave the body (utkramana) (easily and) immediately. One who is angry quickly destroys (his impediments) by that which is within the body (ghaṭikā). His accomplishment then becomes apparent by the flowers and fruit that fall from the heavenly tree and creepers and the bees (that fly) in the sky. Even if death (kāla) (has come) at the wrong time, before the six ghaṭikas (have passed). By practicing for six months, he makes his Self firm. In this way I have told you everything with its secret.” (112cd -125) The next example of utkrānti by yogic means is found in the Tantrasadbhāva 9/299cd-326. This is a Trika Tantra, and so is a particularly relevant example, especially because in this passage is found the Mantra used for this procedure that Abhinava mentions below in 30/58-61. It is: RRAH RRAH HKṢAJAH KRAH KṢRAH SRKṢRAYŪM. ...-. paśugrahaṇam etad dhi \[illegible\] tu ataḥ 574 ॥ 299 ॥ nābhi bījastanaskari \[kh: -skas\] tu vāme caiva prayatnataḥ | 2 guhye nābhau \[k: nābhai; g: nābhos\] tathā vaktre \[kh: cakre\] śravaṇe \[g: sravanṇe\] ghrāṇacakṣuṣau ॥ 300 ॥ vargākṣarasamāyuktam etaiḥ \[k, g: -tai; kh: -mete\] sthānair yathākramam \[kh: sthāner-JI
+[^688]: This matter is discussed by Somadeva (2004) p. 437-445. Yogic or ritual suicide is a topic in Tantras of all schools. It was and remains an ideal for Jain monks. The Jains believe Karma is a binding substance. The influx of Karma (karmāśravana) weighs down the soul, preventing it from rising upwards to the top of the universe, where it is liberated from the bonds of Karma. To prevent this influx, devoted Jain monks sit motionless, keeping as still as possible. They neither eat nor drink. Eventually, of course, they die. Memorial stones are found all over India marking places where a Jain monk has performed the ultimate practice. Thus, the practice of suicide for spiritual reasons carried with a it a great deal of prestige, even outside the Jain community. In the first example of this practice, we quote the Kubjikāmata, where we are told it makes a man famous. The passage is drawn from chapter 23 of the KM. An extended account is found in chapter 36 of the Ṣatsāhasrikā samhitā. anyatkāle na kartavyam utkrāntyutkramaṇaṁ priye ॥ 111 ॥ kīrtihetoḥ prakartavyā sā yathā kathyate .a dhunā | dvāreṣv argalasamyogari kuryāc codghāṭanari kvacit \\\\ 112 ॥ jīvādhāraṁ chined granthim etad utkrāntilakṣaṇam | gudaṁ liṅgaṁ tathā nābhir mukhai nāsā śrutīkṣaṇau || 113 Il eṣu sthāne .argalaṁ yojya kuñcikordhvaṁ niyojayet | ‘The rite of ritual suicide should not be done at any other time (or in any other circumstance). It should be done to achieve (spiritual) renown (kīrti). 1 will tell you that now. The doors should be locked with a chain. (Then, some of them) in certain places should be opened. The knot, which is the foundation of the living being, should be cut. This is the characteristic mark of (yogic) suicide (utkrānti). A chain should be placed on the anus, the penis, naval, mouth, nose, ears and eyes. Then a lock and key (kuñcikā) should be placed above it. (11 1cd-114ab) argalāny upadeśena śṛnu tvar karana yathā ॥ 114 ॥ gudādhāropari sthitvā kṛtvā vai kukkutāsanam | samapādorujaṁghas tu kurparau tu tadūrdhvagau || 115 ॥ bhagnapṛṣthaśirahskandho hy uttānordhvamukhaḥ sthitaḥ | muṣtibhyār pīdayet skandhau kanthasthau cānunāsikau |l 116 ॥ uccaret kṣurikā (> -kām) mūle granthicchedaṁ bhavet | kṣaṇāt ghāṭayitvā tu dvārāṇi nityam eva samabhyaset ॥ 117 ॥ ghanṭikāyār tu deveśi ṣanmāsāvadhipūrvakam | nityam evābhyasantasya pratyayāni bhavanti hi ॥ 118 ॥ ghatādhāragatai \[illegible\] kūrmayantreṇa pīdayet | abhyasan māsam ekaṁ tu sadyam utkrāntilakṣanam || 118 A ॥ (Next Bhairava goes on to describe the instrument (karana) used to cut through the chains). Squatting on his buttocks (the adept) assumes the ‘posture of the cock’ (kukkuṭāsana). The feet, legs and thighs are equally placed (next to each other). The head and shoulders bent over the elbows, are above (the knees) and the face is raised up. The shoulders should be struck with the fists and are placed at the throat facing the nose. He should utter the Razor (Mantra) at the base (of the spine).\* (In this way) the knots are severed in an instant. Once the doors have been opened, he should practice constantly within the uvula. Within six months, practicing constantly, signs of accomplishment (pratyaya) appear. Squeeze the vital breath within the foundation of the Jar with the Turtle Machine. Practicing for a month the signs of (impending yogic) death (utkrānti) (arises) spontaneously. (KM 23/214cd-1 18A) . \*According to 585 36/35-38AB, the Vidyā of the Razor is DHAM KṢRUM HRUM according to the commentary it is DHAM KṢRAUM HUM brahmarandhraṁ sphurantīva nirjīvaṁ kanthakāvadhim | evam abhyāsayen nityaṁ yatra bandhatanu\[h\] sthitaḥ ॥ 119 ॥ gudādhāre mṛduṁ dattvā pṛṣthādhārai suśobhanam | jānūrubhyāṁ tu pārśve tu kīlakau dvau nidhāpayet ॥ 120 ॥ tatpramāṇau samau bhūmyārṁ yantrayen mṛduyantraṇāt | (When Kundalinī reaches) the Cavity of Brahmā, it is as if pulsing with light (sphurantī); (the rest of the body) up to the throat is lifeless. He should practice like this regularly where the body is fixed (in a yogic posture). Having placed something soft at the base of the buttocks, (one should make use of) a beautiful back rest, with the knees and thighs on each side, he should place two ‘bolts’ (made of mantra) there of the same size. Then (seated comfortably in a firm and even posture) he should control (the breath) with gentle restraint. (119-121ab) evaṁ sahśodhayitvā tu pūrvasiddhi\[r\] yathā yathā ॥ 121 ॥ tadā saṁkurute kīrtim ity ājñā pārameśvarī | satatābhyāsayogena sadyam utkramane kṣamaḥ ॥ 122 ॥ kruddhaḥ sarrharate kṣipran ghātṭikābhyantarena vai | tṛna vṛkṣalatādīnāri ṣatpadākāśagāminām ॥ 123 ॥ phalapuṣpaprapātena tadā siddhiṁ vilakṣayet | akālenāpi kālas tu ṣadghaṭikābhyantarenṇa vai ॥ 124 ॥ ṣanmāsābhyāsayogena ātmanaḥ kurute dhruvam | evaṁ te kathitaṁ sarvar sarahasyaṁ mahāmatam || 125 ॥ Once the body has been purified in this way, (he attains) the aforementioned siddhis, and as he does so, he makes fame (for himself). This is the Supreme Goddess’s command. By practicing this constantly, he is able to leave the body (utkramana) (easily and) immediately. One who is angry quickly destroys (his impediments) by that which is within the body (ghaṭikā). His accomplishment then becomes apparent by the flowers and fruit that fall from the heavenly tree and creepers and the bees (that fly) in the sky. Even if death (kāla) (has come) at the wrong time, before the six ghaṭikas (have passed). By practicing for six months, he makes his Self firm. In this way I have told you everything with its secret.” (112cd -125) The next example of utkrānti by yogic means is found in the Tantrasadbhāva 9/299cd-326. This is a Trika Tantra, and so is a particularly relevant example, especially because in this passage is found the Mantra used for this procedure that Abhinava mentions below in 30/58-61. It is: RRAH RRAH HKṢAJAH KRAH KṢRAH SRKṢRAYŪM. ...-. paśugrahaṇam etad dhi \[illegible\] tu ataḥ 574 ॥ 299 ॥ nābhi bījastanaskari \[kh: -skas\] tu vāme caiva prayatnataḥ | 2 guhye nābhau \[k: nābhai; g: nābhos\] tathā vaktre \[kh: cakre\] śravaṇe \[g: sravanṇe\] ghrāṇacakṣuṣau ॥ 300 ॥ vargākṣarasamāyuktam etaiḥ \[k, g: -tai; kh: -mete\] sthānair yathākramam \[kh: sthāner-JI
+
+    kundalīṁ \[k, kh, g: kundalī\] brahmarandhrasthāri \[k, kh, g: -sthaṁ\] cintayed \[g: ?\] yonirūpiṇīm || 301 II ‘Now listen to (the teaching concerning the voluntary) quitting of the body (utkrānti), which is the laying hold of the fettered soul. (299cd) . . . (300ab?) In the genitals, navel, mouth, ear, nose and eye — with these places in due order, along with the phoneme of (the corresponding) class, meditate on Kundalinī in the form of the Yoni, located in the Cavity of Brahmā. (300cd-301) tasya madhyagatarhi vāyuṁ tejākhyaṁ paramātmanam \[k, g: -manāṁ\] | suṣumnāmadhyagaṁ \[k: suṣumnā-\] devi brahmanādyāṁ \[k, kh, g: -dyā\] vyavasthitam |
+
+    II parena tu visargeṇa vedhanaṁ brahmarandhrayoḥ | tatrāgre tu manaḥ \[g: manaṣ\] kṛtvā yojayed bhāvadhāraṇām \[k: -dhāraṇā; kh: -vāraṇā\] ॥ 303 II nābhihṛtkanthatālvante vindunāde ca suvrate | chedayed astrarājena churikā yāthavā priye ॥ 304 ॥ (Meditate on the) Wind in the middle of that. It is called ‘Radiant Energy’ (tejas) and is the Supreme Soul. O goddess, present in the middle of suṣumnā, it is located in Brahmā’s Channel (brahmanādī). Brahmā and the Cavity are pierced by the supreme emission (visarga). Have placed the mind (manas) there in front, engage (it) in maintaining (its emotive) state (bhāvadhāraṇā). O lady of good vows, cut through the navel, heart, and throat (centres) up to the end of the palate, and (so too) the Point (bindu) and Sound (nāda), with the King of Weapons (astrarāja) or with the Razor, O beloved. (302-304) chedyen manasā sarvaṁ marmasandhanabandhanam \[kh: marmā-\] | jvālāmālāsahasrais tu daāhyamānaṁ \[k: \* \* mānā; kh:-nām\] vicintayet \[k: vā-; kh: va-Jl
+
+    II 36a\] nirgataṁ \[k, g: nagata\] brahmarandhrenṇa śeṣān bandhān \[kh: vandhā\] cchinaty asau | visargeṇa cchinet \[k, kh, g: cchine\] śaktiḥ \[k, kh, g: śakti\] lambakasyorddhvataḥ \[i kh: labdha-\] priye ॥ 306 ॥ Pierce the entire bond of the joints of the vital points (marma) (in the body) with the mind (manas). Think that it is being burnt away by thousands of garlands of flames, and having come out by the Cavity of Brahmā, it severs the rest of the bonds. O beloved, pierce through Śakti by means of emission (visarga) above the uvula (lambaka). (305-306) hiṣkaṁ tu kanthadeśasthaṁ \[g: -sasthaṁ\] bhāvayed bhavanāśanam \[g: -nāsa \*?\] | 92a kh\] anena kramayogena padabhedari samuccaret | 307 ॥ yāvad āvartanari \[kh, g: yāvadyā-\] yāti padabhedena suvrate | utkrāmayati \[kh: utkrāma + ti\] bhūtāni śataśo ‘tha \[kh: -sotha; g: satasota\] sahasraśaḥ \[illegible\] g: -saḥ\] ॥ 308 ॥ paśugrahaṇam etad dhi utkrāntiś ca tapodhane | kurute sādhakendras tu satyaṁ \[g: satya\] satya \[kh: sutyaṁ\] surārcite \[kh: -tańm\] ॥
+
+    II devyā \[g: \*?vyā\] vijñānam etat tu \[kh, g: -metantu\] nākhyeyari kasyacit priye | anena paśavo \[g: pasavo\] devyā \[k: devya; g: de \*?\] utkrāmanti \[g: ?\] ca \[g: ?\] bhūtale ॥ 310 ॥ tena guptań prakartavyaṁ nākhyeyaṁ gopayet sadā | Contemplate Hiṣkam (?), that is present in the location of the throat, and the destruction of phenomenal fettered existence. Utter the separate parts (of the Mantra) in association with this sequence, until it has rotated (through a whole cycle). It causes living beings in their hundreds and thousands to quit (the body). That is the laying hold of the fettered soul, (the voluntary) quitting of the body (utkrānti), O wealth of austerities! That the best of adepts does, this is true, true O (goddess) worshipped by the gods. That is the science of the goddess, O beloved, it should not be told to anybody. By this and by the goddess, the fettered souls quit (the body) on the surface of the earth. Thus, it should be kept secret. It should not be told (to just anybody); it should always be kept secret. (307-31 lab) 50a g\] kṣurikāṁ \[k, kh, g: -kā\] tu pravakṣyāmi yathālakṣaṇalakṣitām ॥ 311 ॥ 1 will tell (you) the Razor characterized by (its) appropriate characteristics. (31 1cd) (Extraction of the Vidyā set in Mālinī code follows.) (312-314) stanar devyās tu dakṣasthaṁ (CH) rephayuktari (R) visarpitaḥ \[k, g: visargitaḥ; kh: visargiṇaṁ\] (H) | dvirabhyāsapadaṁ kāryaṁ dvitīyaṁ daśanaṁ (K > “N ?) punaḥ ॥ 312 ॥ dakṣajanghāsamāyuktari (O) punas taù prathamākṣaram | prathamaṁ tu tato datvā daśanaṁ (KR) rephasariyutam ॥ 313 ॥ nābhistu (KṢ) tena saṁyuktaḥ \[k, kh, g: sayuktā) prathamari \[kh: prathamā\] tu punar dvijam \[kh: punadvijaṁ\] | yathā \[kh: yaya\] pūrvaṁ tathā kāryaṁ lakṣaṇari \[kh: -ṇa\] samudāhṛtam Il 314 ॥
+
+    RRAH HKṢAJAH KRAH KṢRAH SRKṢRAYÜM kathitā tu mayā bhadre kṣurikā marmachedanī | chedayeta tato marmar \[kh: marmā\] yojayet parame pade ॥ 315 ॥ O auspicious one, I have told (you) the Kṣurikā (Vidyā of the Razor), that severs the vital points (in the body) (marma). Thus the vital point should be severed and (the fettered soul) should be conjoined to the supreme plane. (315) sāmpratam astrarājānari kathayāmi samāsataḥ | nābhibījaṁ (\$) samuddhārya dandākrāntari (R) tu kārayet ॥ 316 ॥ nitambari \[kh: -ba\] (M) tadadhastār \[g: -stā\] tu punar dandan \[kh: punadda-\] (R) tu kārayet \[kh: vinyaset\] | sikharaṁ (N) tu tato yojyaṁ \[k, kh, g: yojyā\] bhūṣaṇaṁ tadanantaram ॥ 317 ॥ vāmakarnasya \[illegible\] suśroni \[g: \[illegible\] kalākhyaḥ (M ?) \[kh: -dyaṁ; g: -dhyaṁ\] mastake nyasetl 92b kh\] evan mayā \[kh: maryā; g: mayās\] samuddiṣtaṁ astrarājaṁ \[k, kh, g: -rājāḷ sudurlabham || 318 ॥ Now I will tell (you) the Astrarāja in brief. (316ab) (Extracted in 316cd-318ab. It appears to be KṢRMRNUM.) In this way, I have taught the Astrarāja, that is very hard to acquire. (318cd) āpādatalamūrdhānāntari \[kh: -mūrddhā + g: āpādutala-\] smared devaṁ tu vyāpakam | uccāro hy astrarājasya kartavyaḥ \[kh: -v : -vyas\] śaktisahyutaḥ \[g: sakti-\] ॥ 319 ॥ jvalatpāvakasaikāśo dhyāyamāno japet sadā | kuñcanaṁ aṅgulīnār tu kartavyaṁ codanar \[kh: -na\] tataḥ ॥ 320 ॥( jānuṁ \[kh: jānu\] cākuñcayet \[kh: cāṁkucayet\] paścād ūrakau \[kh: -rukau\] tadanantarāt ॥ kaṭiguhyaṁ tato ‘kuñcya nābhisthagrahaṇaṁ \[k, g: -51114071- 1 tataḥ ॥ 321 ॥ brahmasthar caiva viṣnusthaṁ rudrasthaṁ \[kh: -stha\] bindumadhyagam \[g: vidu-\] | nādasthaṁ \[kh: -stha\] caiva \[g: ceva\] śaktisthaṁ \[g: sa-\] vyāpinīsthaṁ ca sarvataḥ ॥ 32211 viṣuvasthaṁ ca jñātavyaṁ visargastham anantaram | guruvaktragataṁ \[kh: -ta\] jñātvā mucyate mocayati \[k, kh, g: -yeti\] ca ॥ 323 ॥ One should recollect the pervasive God (as present) from the soles of the feet up to the end of the head. The utterance of the Astrarāja should be conjoined with Śakti. Visualizing it to be like a burning fire, it should be repeated constantly. The fingers should be bent and then impelled (codana). The knee should be bent after that and then the two thighs. Having bent the buttocks and genitals, then one lays hold of the one located in the navel, then the one located in Brahmā, Viṣṇu, Rudra, between the Points, Sound, Śakti, the Pervasive One, in all respects, and in the Equinox (viṣuva). After that one should know the one located in Emission and, having known the one present in the Teacher's Mouth, he is liberated and liberates (others). (319-323) evar tyāgagatir \[g: -gatiḥ\] jñātvā śaktyādhārasya suvrate | śaktiḥ \[all MSs: śakti\] sūkṣmaparā jyotsnā \[ki 'tstā\] paradharmaprabodhanī ॥ 324 ॥ taṁ jṁñānaṁ parama devi pāramparyakramāgatam \[kh: pāraparya-\] | kathitaṁ sarahasyaṁ tu sadyonirvāṇadaṁ padam ॥ 325 ॥ utkrāntiḥ \[k, kh, g: utkrāntiṁ\] kathitā bhadre ātmano vā parasya vā | kartavyā jñānavijñānair yathā śāstre pradarśitāḥ \[k,kh, g: pradaśitāḥ\] ॥ 326 ॥ Having known in this way the course of abandonment (of the body) of one who has as his foundation Śakti, Śakti is subtle and supreme Light, and awakens to the supreme reality (dharma). O goddess, that is supreme knowledge that has come down through the tradition (of the line of teachers). The plane that bestows liberation (nirvāṇa) immediately has been explained along with (its) secret. O auspicious one, the quitting (of the body) of oneself or of another. It should be done with the knowledge and sciences as revealed in the scripture.” (324-326)
 
 
 *[p. 362]* ^pg384
@@ -654,18 +660,8 @@ Quitting the body voluntarily (utkrānti),” which is said with great respect e
 
 ### TĀ 14.32–33
 
-kundalīṁ \[k, kh, g: kundalī\] brahmarandhrasthāri \[k, kh, g: -sthaṁ\] cintayed \[g: ?\] yonirūpiṇīm || 301 II ‘Now listen to (the teaching concerning the voluntary) quitting of the body (utkrānti), which is the laying hold of the fettered soul. (299cd) . . . (300ab?) In the genitals, navel, mouth, ear, nose and eye — with these places in due order, along with the phoneme of (the corresponding) class, meditate on Kundalinī in the form of the Yoni, located in the Cavity of Brahmā. (300cd-301) tasya madhyagatarhi vāyuṁ tejākhyaṁ paramātmanam \[k, g: -manāṁ\] | suṣumnāmadhyagaṁ \[k: suṣumnā-\] devi brahmanādyāṁ \[k, kh, g: -dyā\] vyavasthitam |
-
-689?\. II parena tu visargeṇa vedhanaṁ brahmarandhrayoḥ | tatrāgre tu manaḥ \[g: manaṣ\] kṛtvā yojayed bhāvadhāraṇām \[k: -dhāraṇā; kh: -vāraṇā\] ॥ 303 II nābhihṛtkanthatālvante vindunāde ca suvrate | chedayed astrarājena churikā yāthavā priye ॥ 304 ॥ (Meditate on the) Wind in the middle of that. It is called ‘Radiant Energy’ (tejas) and is the Supreme Soul. O goddess, present in the middle of suṣumnā, it is located in Brahmā’s Channel (brahmanādī). Brahmā and the Cavity are pierced by the supreme emission (visarga). Have placed the mind (manas) there in front, engage (it) in maintaining (its emotive) state (bhāvadhāraṇā). O lady of good vows, cut through the navel, heart, and throat (centres) up to the end of the palate, and (so too) the Point (bindu) and Sound (nāda), with the King of Weapons (astrarāja) or with the Razor, O beloved. (302-304) chedyen manasā sarvaṁ marmasandhanabandhanam \[kh: marmā-\] | jvālāmālāsahasrais tu daāhyamānaṁ \[k: \* \* mānā; kh:-nām\] vicintayet \[k: vā-; kh: va-Jl
-
-690?\. II 36a\] nirgataṁ \[k, g: nagata\] brahmarandhrenṇa śeṣān bandhān \[kh: vandhā\] cchinaty asau | visargeṇa cchinet \[k, kh, g: cchine\] śaktiḥ \[k, kh, g: śakti\] lambakasyorddhvataḥ \[i kh: labdha-\] priye ॥ 306 ॥ Pierce the entire bond of the joints of the vital points (marma) (in the body) with the mind (manas). Think that it is being burnt away by thousands of garlands of flames, and having come out by the Cavity of Brahmā, it severs the rest of the bonds. O beloved, pierce through Śakti by means of emission (visarga) above the uvula (lambaka). (305-306) hiṣkaṁ tu kanthadeśasthaṁ \[g: -sasthaṁ\] bhāvayed bhavanāśanam \[g: -nāsa \*?\] | 92a kh\] anena kramayogena padabhedari samuccaret | 307 ॥ yāvad āvartanari \[kh, g: yāvadyā-\] yāti padabhedena suvrate | utkrāmayati \[kh: utkrāma + ti\] bhūtāni śataśo ‘tha \[kh: -sotha; g: satasota\] sahasraśaḥ \[illegible\] g: -saḥ\] ॥ 308 ॥ paśugrahaṇam etad dhi utkrāntiś ca tapodhane | kurute sādhakendras tu satyaṁ \[g: satya\] satya \[kh: sutyaṁ\] surārcite \[kh: -tańm\] ॥
-
-691?\. II devyā \[g: \*?vyā\] vijñānam etat tu \[kh, g: -metantu\] nākhyeyari kasyacit priye | anena paśavo \[g: pasavo\] devyā \[k: devya; g: de \*?\] utkrāmanti \[g: ?\] ca \[g: ?\] bhūtale ॥ 310 ॥ tena guptań prakartavyaṁ nākhyeyaṁ gopayet sadā | Contemplate Hiṣkam (?), that is present in the location of the throat, and the destruction of phenomenal fettered existence. Utter the separate parts (of the Mantra) in association with this sequence, until it has rotated (through a whole cycle). It causes living beings in their hundreds and thousands to quit (the body). That is the laying hold of the fettered soul, (the voluntary) quitting of the body (utkrānti), O wealth of austerities! That the best of adepts does, this is true, true O (goddess) worshipped by the gods. That is the science of the goddess, O beloved, it should not be told to anybody. By this and by the goddess, the fettered souls quit (the body) on the surface of the earth. Thus, it should be kept secret. It should not be told (to just anybody); it should always be kept secret. (307-31 lab) 50a g\] kṣurikāṁ \[k, kh, g: -kā\] tu pravakṣyāmi yathālakṣaṇalakṣitām ॥ 311 ॥ 1 will tell (you) the Razor characterized by (its) appropriate characteristics. (31 1cd) (Extraction of the Vidyā set in Mālinī code follows.) (312-314) stanar devyās tu dakṣasthaṁ (CH) rephayuktari (R) visarpitaḥ \[k, g: visargitaḥ; kh: visargiṇaṁ\] (H) | dvirabhyāsapadaṁ kāryaṁ dvitīyaṁ daśanaṁ (K > “N ?) punaḥ ॥ 312 ॥ dakṣajanghāsamāyuktari (O) punas taù prathamākṣaram | prathamaṁ tu tato datvā daśanaṁ (KR) rephasariyutam ॥ 313 ॥ nābhistu (KṢ) tena saṁyuktaḥ \[k, kh, g: sayuktā) prathamari \[kh: prathamā\] tu punar dvijam \[kh: punadvijaṁ\] | yathā \[kh: yaya\] pūrvaṁ tathā kāryaṁ lakṣaṇari \[kh: -ṇa\] samudāhṛtam Il 314 ॥
-
 
 *[p. 364]* ^pg386
-
-692?\. RRAH HKṢAJAH KRAH KṢRAH SRKṢRAYÜM kathitā tu mayā bhadre kṣurikā marmachedanī | chedayeta tato marmar \[kh: marmā\] yojayet parame pade ॥ 315 ॥ O auspicious one, I have told (you) the Kṣurikā (Vidyā of the Razor), that severs the vital points (in the body) (marma). Thus the vital point should be severed and (the fettered soul) should be conjoined to the supreme plane. (315) sāmpratam astrarājānari kathayāmi samāsataḥ | nābhibījaṁ (\$) samuddhārya dandākrāntari (R) tu kārayet ॥ 316 ॥ nitambari \[kh: -ba\] (M) tadadhastār \[g: -stā\] tu punar dandan \[kh: punadda-\] (R) tu kārayet \[kh: vinyaset\] | sikharaṁ (N) tu tato yojyaṁ \[k, kh, g: yojyā\] bhūṣaṇaṁ tadanantaram ॥ 317 ॥ vāmakarnasya \[illegible\] suśroni \[g: \[illegible\] kalākhyaḥ (M ?) \[kh: -dyaṁ; g: -dhyaṁ\] mastake nyasetl 92b kh\] evan mayā \[kh: maryā; g: mayās\] samuddiṣtaṁ astrarājaṁ \[k, kh, g: -rājāḷ sudurlabham || 318 ॥ Now I will tell (you) the Astrarāja in brief. (316ab) (Extracted in 316cd-318ab. It appears to be KṢRMRNUM.) In this way, I have taught the Astrarāja, that is very hard to acquire. (318cd) āpādatalamūrdhānāntari \[kh: -mūrddhā + g: āpādutala-\] smared devaṁ tu vyāpakam | uccāro hy astrarājasya kartavyaḥ \[kh: -v : -vyas\] śaktisahyutaḥ \[g: sakti-\] ॥ 319 ॥ jvalatpāvakasaikāśo dhyāyamāno japet sadā | kuñcanaṁ aṅgulīnār tu kartavyaṁ codanar \[kh: -na\] tataḥ ॥ 320 ॥( jānuṁ \[kh: jānu\] cākuñcayet \[kh: cāṁkucayet\] paścād ūrakau \[kh: -rukau\] tadanantarāt ॥ kaṭiguhyaṁ tato ‘kuñcya nābhisthagrahaṇaṁ \[k, g: -51114071- 1 tataḥ ॥ 321 ॥ brahmasthar caiva viṣnusthaṁ rudrasthaṁ \[kh: -stha\] bindumadhyagam \[g: vidu-\] | nādasthaṁ \[kh: -stha\] caiva \[g: ceva\] śaktisthaṁ \[g: sa-\] vyāpinīsthaṁ ca sarvataḥ ॥ 32211 viṣuvasthaṁ ca jñātavyaṁ visargastham anantaram | guruvaktragataṁ \[kh: -ta\] jñātvā mucyate mocayati \[k, kh, g: -yeti\] ca ॥ 323 ॥ One should recollect the pervasive God (as present) from the soles of the feet up to the end of the head. The utterance of the Astrarāja should be conjoined with Śakti. Visualizing it to be like a burning fire, it should be repeated constantly. The fingers should be bent and then impelled (codana). The knee should be bent after that and then the two thighs. Having bent the buttocks and genitals, then one lays hold of the one located in the navel, then the one located in Brahmā, Viṣṇu, Rudra, between the Points, Sound, Śakti, the Pervasive One, in all respects, and in the Equinox (viṣuva). After that one should know the one located in Emission and, having known the one present in the Teacher's Mouth, he is liberated and liberates (others). (319-323) evar tyāgagatir \[g: -gatiḥ\] jñātvā śaktyādhārasya suvrate | śaktiḥ \[all MSs: śakti\] sūkṣmaparā jyotsnā \[ki 'tstā\] paradharmaprabodhanī ॥ 324 ॥ taṁ jṁñānaṁ parama devi pāramparyakramāgatam \[kh: pāraparya-\] | kathitaṁ sarahasyaṁ tu sadyonirvāṇadaṁ padam ॥ 325 ॥ utkrāntiḥ \[k, kh, g: utkrāntiṁ\] kathitā bhadre ātmano vā parasya vā | kartavyā jñānavijñānair yathā śāstre pradarśitāḥ \[k,kh, g: pradaśitāḥ\] ॥ 326 ॥ Having known in this way the course of abandonment (of the body) of one who has as his foundation Śakti, Śakti is subtle and supreme Light, and awakens to the supreme reality (dharma). O goddess, that is supreme knowledge that has come down through the tradition (of the line of teachers). The plane that bestows liberation (nirvāṇa) immediately has been explained along with (its) secret. O auspicious one, the quitting (of the body) of oneself or of another. It should be done with the knowledge and sciences as revealed in the scripture.” (324-326)
 
 
 *[p. 365]* ^pg387
@@ -676,15 +672,17 @@ the Sāra scriptures (we follow), (merely) a means to obtaining worldly benefits
 
 As is said in the Bhagavadgīta: 
 
-‘Having restrained all the doors (of the body) and confined the mind in the heart, placed the vital breath in the head engaged (one-pointedly) in Yoga; uttering OM, the single-syllabled Brahman, recollecting me, he who departs (thus) leaving the body, attains the supreme goal.[^693] 
+‘Having restrained all the doors (of the body) and confined the mind in the heart, placed the vital breath in the head engaged (one-pointedly) in Yoga; uttering OM, the single-syllabled Brahman, recollecting me, he who departs (thus) leaving the body, attains the supreme goal.[^689] 
 
-[^693]: BhGT 8/12-13. In actual fact, these verses refer to the manner in which the yogi should leave the body at the point of death, rather than yogic suicide. Cidbhavānanda (1965: 467) explains: ‘Cold spreads all over the body as prānṇa leaves it. As a traveller goes to a vehicle station, the prāṇa of the yogi finally comes to the head. For this reason, the yogi’s head is the last region from which warmth vanishes.’ The Maitryupaniṣad declares: “There is a channel called ‘suṣumnā’, leading upwards, conveying the breath, piercing through the palate. Through it, by joining (yuj) the breath, the syllable OM, and the mind, one may aloft. . . . After having first caused to stand still the breath that has been restrained, then, having crossed beyond the limited, with the unlimited, one may at last have union in the head.’ Maitri Up. 6, 21 (with gaps) Abhinava comments on these and the following verse: ananyacetāḥ satata yo māṁ smarati nityaśaḥ | tasyāhaṁ sulabhaḥ pārtha nityayuktasya yoginaḥ ॥ ‘I am easy to attain for the yogin who, constantly engaged (in the practice of Yoga), his mind always undistracted, constantly remembers me.’ (810 8/14) om iti japanniti vāṁniyamaḥ | mām anusmarann iti cetaso ‘nanyagāmitā | yah prayāti-dinād dinam apunarāvṛttaye gacchati | tathā ca dehaṁ tyajan kathan me punar idaṁ sakalāpatsthānari śarīraḥ mā bhūyāt ity eva yo mām ananyacetāḥ smarati satatam eva yāti jānāti sa madbhāvam | na tv atra muneḥ para brahmādvaitapadopakṣepa-virodhī utkrāntau bharaḥ | tathā cokta ‘Constantly repeating the syllable OM, speech is controlled. “Recollecting me stantly’ means that) the mind does not wander anywhere else. ‘He who goes’ (yah ) refers to one who day by day (moves closer to the place of) no return (that is, liberation). One who while giving up the body thinks: “How is it possible for me to (never again) have a body, which is the source of all misfortune?” He who thus recollects me constantly, his mind undistracted comes to, that is, knows, Me (madbhāva — lit. ‘my being’). Here (in this context), the sage (Vyāsa) did not stress (the practice of) quitting (one’s own body voluntarily) (utkrānti) which is contrary to the allusion (here) to the plane of nonduality of the supreme Brahman. And the same has been said: vyāpinyām śivasattāyāmutkrāntirnāma niṣphalā | avyāpini śive nāma notkrāntiḥ śivadāyinī || iti | yadi vā satatābhyāso.api yairna kṛtastathāpi kutaścitsvatantreśvarecchāder nimittādantye eva kṣaṇe yadā tādṛgbhāvo jāyate tadāyam utkrāntilakṣaṇa upāyaḥ saṁskārāntarapratibandhaka uktaḥ | ata eva yad akṣaraṁ vedavido vadanti ityādinā abhidhāsye ity antena pratijṁñā kṛtā kṣaṇamātrasyāpi bhagavadanucintanasya sakala-sariskāravidhvaṁisanalakṣanām adbhutavrttiń pratipādayitum | yad āhur ācāryavaryāḥ ‘Quitting (the body voluntarily) (utkrānti) is fruitless if Śiva’s Being is omnipresent. (But even) if Śiva were not to be all-pervading, quitting (the body voluntarily) would not bestow Śiva.\* Or else, if those who have not practiced constantly (throughout their lives) somehow, for some reason, such as God’s free will, where that kind of state of mind (bhāva) (arises) at the time of death, only then is this means (to liberation) (upāya), characterized as voluntarily quitting of the body (utkrānti), said to block other latent traces (of Karma) (saṁskāra) (that give rise to further rebirth). Thus (in verse eleven), that begins with ‘that imperishable (one) that the knowers of the Veda speak about’ and ends with ‘I will explain’, introduces (what follows) in order to establish that there is an extraordinary modality (vṛtti) of the thought of God, even though (it lasts for) just a moment, which is characterized as the destruction of all latent traces (saṁskāra) (of past Karma). As the great teacher (Bhaṭtanārāyaṇa) has said:
+[^689]: BhGT 8/12-13. In actual fact, these verses refer to the manner in which the yogi should leave the body at the point of death, rather than yogic suicide. Cidbhavānanda (1965: 467) explains: ‘Cold spreads all over the body as prānṇa leaves it. As a traveller goes to a vehicle station, the prāṇa of the yogi finally comes to the head. For this reason, the yogi’s head is the last region from which warmth vanishes.’ The Maitryupaniṣad declares: “There is a channel called ‘suṣumnā’, leading upwards, conveying the breath, piercing through the palate. Through it, by joining (yuj) the breath, the syllable OM, and the mind, one may aloft. . . . After having first caused to stand still the breath that has been restrained, then, having crossed beyond the limited, with the unlimited, one may at last have union in the head.’ Maitri Up. 6, 21 (with gaps) Abhinava comments on these and the following verse: ananyacetāḥ satata yo māṁ smarati nityaśaḥ | tasyāhaṁ sulabhaḥ pārtha nityayuktasya yoginaḥ ॥ ‘I am easy to attain for the yogin who, constantly engaged (in the practice of Yoga), his mind always undistracted, constantly remembers me.’ (810 8/14) om iti japanniti vāṁniyamaḥ | mām anusmarann iti cetaso ‘nanyagāmitā | yah prayāti-dinād dinam apunarāvṛttaye gacchati | tathā ca dehaṁ tyajan kathan me punar idaṁ sakalāpatsthānari śarīraḥ mā bhūyāt ity eva yo mām ananyacetāḥ smarati satatam eva yāti jānāti sa madbhāvam | na tv atra muneḥ para brahmādvaitapadopakṣepa-virodhī utkrāntau bharaḥ | tathā cokta ‘Constantly repeating the syllable OM, speech is controlled. “Recollecting me stantly’ means that) the mind does not wander anywhere else. ‘He who goes’ (yah ) refers to one who day by day (moves closer to the place of) no return (that is, liberation). One who while giving up the body thinks: “How is it possible for me to (never again) have a body, which is the source of all misfortune?” He who thus recollects me constantly, his mind undistracted comes to, that is, knows, Me (madbhāva — lit. ‘my being’). Here (in this context), the sage (Vyāsa) did not stress (the practice of) quitting (one’s own body voluntarily) (utkrānti) which is contrary to the allusion (here) to the plane of nonduality of the supreme Brahman. And the same has been said: vyāpinyām śivasattāyāmutkrāntirnāma niṣphalā | avyāpini śive nāma notkrāntiḥ śivadāyinī || iti | yadi vā satatābhyāso.api yairna kṛtastathāpi kutaścitsvatantreśvarecchāder nimittādantye eva kṣaṇe yadā tādṛgbhāvo jāyate tadāyam utkrāntilakṣaṇa upāyaḥ saṁskārāntarapratibandhaka uktaḥ | ata eva yad akṣaraṁ vedavido vadanti ityādinā abhidhāsye ity antena pratijṁñā kṛtā kṣaṇamātrasyāpi bhagavadanucintanasya sakala-sariskāravidhvaṁisanalakṣanām adbhutavrttiń pratipādayitum | yad āhur ācāryavaryāḥ ‘Quitting (the body voluntarily) (utkrānti) is fruitless if Śiva’s Being is omnipresent. (But even) if Śiva were not to be all-pervading, quitting (the body voluntarily) would not bestow Śiva.\* Or else, if those who have not practiced constantly (throughout their lives) somehow, for some reason, such as God’s free will, where that kind of state of mind (bhāva) (arises) at the time of death, only then is this means (to liberation) (upāya), characterized as voluntarily quitting of the body (utkrānti), said to block other latent traces (of Karma) (saṁskāra) (that give rise to further rebirth). Thus (in verse eleven), that begins with ‘that imperishable (one) that the knowers of the Veda speak about’ and ends with ‘I will explain’, introduces (what follows) in order to establish that there is an extraordinary modality (vṛtti) of the thought of God, even though (it lasts for) just a moment, which is characterized as the destruction of all latent traces (saṁskāra) (of past Karma). As the great teacher (Bhaṭtanārāyaṇa) has said:
+
+    nimeṣamapi yadyekaṁ kṣīnadoṣe kariṣyasi padar citte tadā śaṁbho kiṁ na saṁpāda) iti | ata eva prayāṇakāle smaraṇena vinā khaṇdanā-iti \[illegible\] śaṁkā tān vītaśaṁkānkartumuktam-ananyacetāh satatam iti anyatra phalādau sādhye yasya na ceta ity arthaḥ | tasyāhaṁ sulabha iti tasya na kimcitprayānṇakālaucityaparyeṣanam-tīrthasevā uttarāyaṇam āyatanasariśrayaḥ sattvavivṛddhiḥ sacintakatvańi viṣuvadādi-punyakālah dinam akṛtrimapavitrabhūparigrahaḥ snehamalavihīnadehatā śuddha-vastrādigrahah ityādikleśo ‘bhyarthanīya ity arthaḥ | yat prāg uktaṁ tīrthe śvapacagṁe vā ityādi ॥ 14 ॥ ‘O Śambhu, if you, even for one moment (nimeṣa), will make (your) abode in (my) mind, that is free (by Your grace) from (every) defect, then what will You not bring about? (Stavacintāmani 114) Therefore, (there are) those who are beset by the doubt that ‘destruction (khandanā) (is what takes place) without recollection (of the Lord) at the time of departure (from the body)’. To free them from (this) doubt, (the Lord) said (about this yogi that): ‘his mind is always undistracted’, that is, his mind is not elsewhere (apart from his chosen) goal as, for example, the fruits (of his worldly actions). This is the meaning. Such a person does not need to invite (upon himself) such suffering (kleśa) at all by searching for what is appropriate for (him to do at) the time (of his death,) such as attend sacred bathing sites, (seek to die when the sun is in its) northern course, take shelter in a home (for the dying), increase (his store of) sattva, (develop discerning) reflection, (care about) auspicious times (to die,) such as an equinox and the (right) day (to do so), acquiring land that is naturally pure, (keeping his body clean), free from grease and dirt, wearing clean clothes and the like. This is the meaning.”
 
 *[p. 366]* ^pg388
 
 *[p. 367]* ^pg389
 
-‘The Sāra scriptures’ include the main ones, which are the Ūrmikaula and the rest. This is the meaning.” (Quitting the body voluntarily, according to this scripture, only serves as) ʻa means to obtaining worldly benefits (in the next life)’, not liberation. This (verse) also indicates that quitting the body voluntarily (utkrānti) is not a suitable (means to liberation). 
+‘The Sāra scriptures’ include the main ones, which are the Ūrmikaula and the rest. This is the meaning.[^690] (Quitting the body voluntarily, according to this scripture, only serves as) ʻa means to obtaining worldly benefits (in the next life)’, not liberation. This (verse) also indicates that quitting the body voluntarily (utkrānti) is not a suitable (means to liberation). 
 
 In order to establish that (teaching) (by sound argument), he quotes that same book. 
 
@@ -696,9 +694,7 @@ In order to establish that (teaching) (by sound argument), he quotes that same b
 yadi sarvagato devo vadotkramya kva yāsyati | 33 ॥
 athāsarvagatas tarhi ghaṭatulyas tadā bhavet | 
 
-nimeṣamapi yadyekaṁ kṣīnadoṣe kariṣyasi padar citte tadā śaṁbho kiṁ na saṁpāda) iti | ata eva prayāṇakāle smaraṇena vinā khaṇdanā-iti \[illegible\] śaṁkā tān vītaśaṁkānkartumuktam-ananyacetāh satatam iti anyatra phalādau sādhye yasya na ceta ity arthaḥ | tasyāhaṁ sulabha iti tasya na kimcitprayānṇakālaucityaparyeṣanam-tīrthasevā uttarāyaṇam āyatanasariśrayaḥ sattvavivṛddhiḥ sacintakatvańi viṣuvadādi-punyakālah dinam akṛtrimapavitrabhūparigrahaḥ snehamalavihīnadehatā śuddha-vastrādigrahah ityādikleśo ‘bhyarthanīya ity arthaḥ | yat prāg uktaṁ tīrthe śvapacagṁe vā ityādi ॥ 14 ॥ ‘O Śambhu, if you, even for one moment (nimeṣa), will make (your) abode in (my) mind, that is free (by Your grace) from (every) defect, then what will You not bring about? (Stavacintāmani 114) Therefore, (there are) those who are beset by the doubt that ‘destruction (khandanā) (is what takes place) without recollection (of the Lord) at the time of departure (from the body)’. To free them from (this) doubt, (the Lord) said (about this yogi that): ‘his mind is always undistracted’, that is, his mind is not elsewhere (apart from his chosen) goal as, for example, the fruits (of his worldly actions). This is the meaning. Such a person does not need to invite (upon himself) such suffering (kleśa) at all by searching for what is appropriate for (him to do at) the time (of his death,) such as attend sacred bathing sites, (seek to die when the sun is in its) northern course, take shelter in a home (for the dying), increase (his store of) sattva, (develop discerning) reflection, (care about) auspicious times (to die,) such as an equinox and the (right) day (to do so), acquiring land that is naturally pure, (keeping his body clean), free from grease and dirt, wearing clean clothes and the like. This is the meaning.”
-
-694?\. The expression ‘sāraśāstra’ may refer to the lost Trikasāra, which is quoted in the Tantrāloka several times and elsewhere (e.g. MVV 1/93) (see Gnoli 1972: 891 and Dviveda 1983b: 39). Here, according to Jayaratha, it refers to a class of scripture including the Ọrmikaulārnavatantra as a genre of ‘quintessential scriptures’ of the Kaula schools. See Dyczkowski 1988: 68 and 175 n 95 and also see Gnoli 1972 p. 892, and Hanneder 1998: 170.
+[^690]: The expression ‘sāraśāstra’ may refer to the lost Trikasāra, which is quoted in the Tantrāloka several times and elsewhere (e.g. MVV 1/93) (see Gnoli 1972: 891 and Dviveda 1983b: 39). Here, according to Jayaratha, it refers to a class of scripture including the Ọrmikaulārnavatantra as a genre of ‘quintessential scriptures’ of the Kaula schools. See Dyczkowski 1988: 68 and 175 n 95 and also see Gnoli 1972 p. 892, and Hanneder 1998: 170.
 
 
 *[p. 368]* ^pg390
@@ -708,7 +704,7 @@ nimeṣamapi yadyekaṁ kṣīnadoṣe kariṣyasi padar citte tadā śaṁbho k
 utkrāntividhiyogo ‘yam ekadeśena kathyate ॥ 34 ॥
 niraṁśe śivatattve tu katham utkrāntisamgatiḥ | 
 
-(The Ūrmikaulārnavatantra declares): ‘If God is omnipresent,” (pray) tell (me) — where will He go once (he has) quit (the body)? And if He is not omnipresent, He would then be like (any common object such as) a jar. This yogic practice of (voluntarily) leaving (the body) is said to take place part by part (ekadeśena). How can (any such) exiting reasonably 
+(The Ūrmikaulārnavatantra declares): ‘If God is omnipresent,[^691] (pray) tell (me) — where will He go once (he has) quit (the body)? And if He is not omnipresent, He would then be like (any common object such as) a jar. This yogic practice of (voluntarily) leaving (the body) is said to take place part by part (ekadeśena). How can (any such) exiting reasonably 
 
 apply to Śiva, who is devoid of parts?’ (33cd-35ab) 
 
@@ -716,7 +712,7 @@ apply to Śiva, who is devoid of parts?’ (33cd-35ab)
 
 (f Śiva were not to be omnipresent, He would be) ‘like (any common object) such as a jar’, because (He would be) as if contracted by having a fixed location, time and form. This Yoga is a way of voluntarily leaving the body. ‘It is said to take place part by part’ because it (happens) in fixed locations, for (the process of) quitting the body (utkrānti) is one of entering successively higher levels by successively abandoning the lower ones. And that does not apply to Śiva, because He is devoid of notions of existence and non-existence and is ‘devoid of parts’. That is said there (in the Ūrmikaulārṇavatantra) beginning with: 
 
-‘The body can be voluntarily abandoned (in such circumstances) where there is a notion of measure (mānakalpanā). When the Void manifests, which has no measure, there in that case, there is no (possibility of) voluntarily abandoning the body. If the Lord is (all-)pervasive, then pray tell (me) what is the use of quitting (the body)? If the Lord is not (all-)pervasive, then pray tell (me) what is the use of exiting (the body)? This yogic practice of (voluntarily) leaving (the body) is said to take place part by part (ekadeśena). As the Self is pervasive, it has (no parts) and nor does Śiva. Here reality (tattva) is said to beyond the realm of speech as the polarities ‘it exists’, ‘it does not exist’ and ‘it does not not exist’ do not touch it.’ , , . ‘If God is omnipresent,” (pray) tell (me) ~ where will He go once (He has) quit (the body)? And if He is not omnipresent, He would then be like (any common object such as) a jar. Therefore, this yogic practice of voluntarily leaving the body is an error which is darkness.’ 
+‘The body can be voluntarily abandoned (in such circumstances) where there is a notion of measure (mānakalpanā). When the Void manifests, which has no measure, there in that case, there is no (possibility of) voluntarily abandoning the body. If the Lord is (all-)pervasive, then pray tell (me) what is the use of quitting (the body)? If the Lord is not (all-)pervasive, then pray tell (me) what is the use of exiting (the body)? This yogic practice of (voluntarily) leaving (the body) is said to take place part by part (ekadeśena). As the Self is pervasive, it has (no parts) and nor does Śiva. Here reality (tattva) is said to beyond the realm of speech as the polarities ‘it exists’, ‘it does not exist’ and ‘it does not not exist’ do not touch it.’ , , . ‘If God is omnipresent,[^692] (pray) tell (me) ~ where will He go once (He has) quit (the body)? And if He is not omnipresent, He would then be like (any common object such as) a jar. Therefore, this yogic practice of voluntarily leaving the body is an error which is darkness.’ 
 
 How can that serve as a means to worldly enjoyment (in the next life)? With this doubt in mind, he says: 
 
@@ -728,16 +724,16 @@ How can that serve as a means to worldly enjoyment (in the next life)? With this
 yathā dharādau vāyvante bhṛgvambvagnyupavāsakaiḥ || 35 I|
 ātmano yojanaṁ vyomni tadvad utkrāntivartanā | 
 
-695?\. Read with MS C and the quote from the Ūrmikaulārṇava in Jayaratha’s commentary, sarvagato for sarvagatā.
+[^691]: Read with MS C and the quote from the Ūrmikaulārṇava in Jayaratha’s commentary, sarvagato for sarvagatā.
 
-696?\. See previous note.
+[^692]: See previous note.
 
 
 *[p. 369]* ^pg391
 
 Just as the Self is conjoined to (the elements) beginning with Earth and ending with Air by (committing suicide by throwing oneself off) a precipice, (into) water (or) fire and fasting (respectively), in just the same way (the yogi’s Self is conjoined) into (elemental) Space by the path 
 
-(vartanā) of quitting (the body voluntarily).” (35cd-36ab) 
+(vartanā) of quitting (the body voluntarily).[^693] (35cd-36ab) 
 
 #### Viveka on 14.35–36
 
@@ -752,7 +748,7 @@ Therefore, one should not make the individual soul (jīva) quit (the body) with 
 
 Surely (one may ask), if voluntarily quitting the body is not a means to attain liberation, how is it that (the following) is said in the Mālinīvijayottara? 
 
-‘abandoning his body, he attains the eternal plane.” 
+‘abandoning his body, he attains the eternal plane.”[^694] 
 
 With this doubt in mind, he says: 
 
@@ -764,14 +760,14 @@ With this doubt in mind, he says:
 srīpūrvaśāstre tūktaṁ yad utkrānter lakṣaṇami na tat |
 muktyupāyatayā kintu bhogahānyai tathaiṣanṇāt | 37 ॥ 
 
-697?\. Somadeva (2004: 437-8): ‘It may be worth distinguishing yogic suicide (utkrānti) which requires considerable yogic competence from the fanatical practices of suicide practiced by the Maheśvara laity. Four different such methods are distinguished in the Niśvāsatattvasarihitās treatment of ‘mundane religion’ (laukikadharma) of the uninitiated adherents of Śaivism: suicide by water \[at a sacred ford or confluence\], by fire, by jumping off a (sacred) cliff and by fasting until death.’ Clearly, Abhinava has this standard set of four ways in mind of committing suicide. These he understands to be ways of reincarnating in the worlds of the four gross elements to which they correspond and so be ‘conjoined’ to them. Abhinava is saying that yogic suicide is not essentially different. The yogis who follow this reincarnate in the worlds of elemental Space. It is not really some separate higher practice leading to liberation.
+[^693]: Somadeva (2004: 437-8): ‘It may be worth distinguishing yogic suicide (utkrānti) which requires considerable yogic competence from the fanatical practices of suicide practiced by the Maheśvara laity. Four different such methods are distinguished in the Niśvāsatattvasarihitās treatment of ‘mundane religion’ (laukikadharma) of the uninitiated adherents of Śaivism: suicide by water \[at a sacred ford or confluence\], by fire, by jumping off a (sacred) cliff and by fasting until death.’ Clearly, Abhinava has this standard set of four ways in mind of committing suicide. These he understands to be ways of reincarnating in the worlds of the four gross elements to which they correspond and so be ‘conjoined’ to them. Abhinava is saying that yogic suicide is not essentially different. The yogis who follow this reincarnate in the worlds of elemental Space. It is not really some separate higher practice leading to liberation.
 
-698?\. MV 17/25cd; also quoted below in TĀv 14/41-42ab and ad 19/54cd-55ab (55) which is an explanatory paraphrase of MV 17/25. MV 17/25-40ab is dedicated to this topic.
+[^694]: MV 17/25cd; also quoted below in TĀv 14/41-42ab and ad 19/54cd-55ab (55) which is an explanatory paraphrase of MV 17/25. MV 17/25-40ab is dedicated to this topic.
 
 
 *[p. 370]* ^pg392
 
-The definition stated in the Mālinīvijayottara of (the voluntary) exit (from the body) is not as a means to liberation” rather, (it is understood to be) motivated by the desire to avoid (further painful) worldly experience (bhoga) in that way. (37) 
+The definition stated in the Mālinīvijayottara of (the voluntary) exit (from the body) is not as a means to liberation;[^695] rather, (it is understood to be) motivated by the desire to avoid (further painful) worldly experience (bhoga) in that way. (37) 
 
 #### Viveka on 14.37
 
@@ -800,15 +796,15 @@ This is not taught here for the first time (anywhere). Accordingly, he says:
 
 svacchandamṛtyor api yad bhīṣmādeḥ śrūyate kila \\ bhogavairasyasaṁprāptau jīvitāntopasarpanam || 39 ॥ 
 
-(Indeed,) one hears that those who, like \[illegible\] were free to die when they wished,” gave up their life when they were totally averse to (further) worldly experience. (39) 
+(Indeed,) one hears that those who, like \[illegible\] were free to die when they wished,[^696] gave up their life when they were totally averse to (further) worldly experience. (39) 
 
 #### Viveka on Dyczkowski's verse 39
 
 Surely (one may ask), it is but natural that there is a reason for aversion to worldly pleasure in the case of one whose life is about to end. There is no way that a person who has abandoned the taste for the savour (of daily life) can (continue) to live. So what is the use of teaching that means (to such a one)? 
 
-699?\. \[illegible\] Abhinava is referring to MV 17/25 partly quoted by Jayaratha in the introduction to this verse.
+[^695]: \[illegible\] Abhinava is referring to MV 17/25 partly quoted by Jayaratha in the introduction to this verse.
 
-700?\. Bhīṣma received the ability from his father to choose the hour of his death, and so he waited for the sun to traverse the winter equinox to leave his body. His death is narrated in MBh 6/70.
+[^696]: Bhīṣma received the ability from his father to choose the hour of his death, and so he waited for the sun to traverse the winter equinox to leave his body. His death is narrated in MBh 6/70.
 
 
 *[p. 371]* ^pg393
@@ -827,7 +823,7 @@ One whose body is accomplished (that is, strong and resistant,) by (the practice
 
 #### Viveka on 14.40
 
-(This yogi’s) ‘body is accomplished’, having attained a stable (strong and resistant) state. This is the meaning. 
+(This yogi’s) ‘body is accomplished’, having attained[^697] a stable (strong and resistant) state. This is the meaning. 
 
 Nor has this been said as just our own idea. Thus, he says: 
 
@@ -843,32 +839,32 @@ ityādi vadatā sarvair alakṣyāntaḥ satattvakam |
 
 The Supreme Lord has said something similar, the true sense of which cannot be grasped by all, in the Mālinītantra (with the words): ‘Or else, considering all worldly experience (bhoga) to be ugly (and defective) 
 
-(virūpaka) , . \[illegible\] and what follows. (41-42ab) 
+(virūpaka) , . \[illegible\][^698] and what follows. (41-42ab) 
 
 #### Viveka on 14.41–42
 
-701?\. Read prāpyety arthaḥ for prāptety arthaḥ.
+[^697]: Read prāpyety arthaḥ for prāptety arthaḥ.
 
-702?\. MV 17/25ab. ‘Or else considering everything or worldly experience to be ugly (and defective), abandoning his body, he attains the eternal plane (of being). Then (in order to do this, he should perform) the aforementioned deposition that shines like the Fire (at the end) of Time (kālānala) in reverse (with each phoneme encapsulated) within the pair (of syllables) SRK and CHINDI. Once having performed the meditation on the fire (āgneyīm dhāraṇām) that heats up all the vital points, the body should be filled with (the vital) air from the big toe to the top of the head. Then having dragged (the vital breath along) from the big toe up, he should lead it to the end of the Cavity of Brahmā (In this way) the knower of yoga should sever all the vital points with this mantra.’ MV 17/26-
+[^698]: MV 17/25ab. ‘Or else considering everything or worldly experience to be ugly (and defective), abandoning his body, he attains the eternal plane (of being). Then (in order to do this, he should perform) the aforementioned deposition that shines like the Fire (at the end) of Time (kālānala) in reverse (with each phoneme encapsulated) within the pair (of syllables) SRK and CHINDI. Once having performed the meditation on the fire (āgneyīm dhāraṇām) that heats up all the vital points, the body should be filled with (the vital) air from the big toe to the top of the head. Then having dragged (the vital breath along) from the big toe up, he should lead it to the end of the Cavity of Brahmā (In this way) the knower of yoga should sever all the vital points with this mantra.’ MV 17/26-
 
-703?\. TĀ 19/11-13 is an explanatory paraphrase of MV 17/26-28. 19/12-13a = MV 17/27- 28a (literal quote). For a complete understanding of what Abhinava is saying here, the reader is referred below to 19/10-15. See notes there for details. There this procedure is presented as a form of initiation that is imparted when a person is dying. It is generally done by the teacher for the disciple. But it may also be done for oneself. There we are told that it is accessible to one who is just an ordinary initiate (samayin). It is not, as Abhinava presents it here, just for extraordinary yogis.
+    TĀ 19/11-13 is an explanatory paraphrase of MV 17/26-28. 19/12-13a = MV 17/27- 28a (literal quote). For a complete understanding of what Abhinava is saying here, the reader is referred below to 19/10-15. See notes there for details. There this procedure is presented as a form of initiation that is imparted when a person is dying. It is generally done by the teacher for the disciple. But it may also be done for oneself. There we are told that it is accessible to one who is just an ordinary initiate (samayin). It is not, as Abhinava presents it here, just for extraordinary yogis.
 
 
 *[p. 372]* ^pg394
 
-The prose order is “The Supreme Lord has said something similar and what follows.’ (Worldly experience is) ‘ugly (and defective)’ (for this yogi,) because of the (greater) excellence of the wonder of penetration into supreme consciousness (he experiences), certainly not because he has abandoned savouring the taste of the aesthetic (spiritual) quality (rasa of worldly experience). All who know the nature of things as if in an upside-down way” (cannot understand). This is ‘the true inner (sense)’ here (in this case), namely, that his liberation (takes place) by considering within himself to be Siva. It is due to this (liberation) that the body is (truly) abandoned (forever).” As said here (in the Mālinīvijayottara), with this same intended sense: 
+The prose order is “The Supreme Lord has said something similar and what follows.’ (Worldly experience is) ‘ugly (and defective)’ (for this yogi,) because of the (greater) excellence of the wonder of penetration into supreme consciousness (he experiences), certainly not because he has abandoned savouring the taste of the aesthetic (spiritual) quality (rasa of worldly experience). All who know the nature of things as if in an upside-down way[^699] (cannot understand). This is ‘the true inner (sense)’ here (in this case), namely, that his liberation (takes place) by considering within himself to be Siva. It is due to this (liberation) that the body is (truly) abandoned (forever).[^700] As said here (in the Mālinīvijayottara), with this same intended sense: 
 
-‘(Or else, considering everything or worldly experience to be ugly (and defective) (virūpa), abandoning his body, he attains the eternal plane (of being). Moreover ‘He attains the fruit which is said to be that of (this) 
+‘(Or else, considering everything or worldly experience to be ugly (and defective) (virūpa), abandoning his body, he attains the eternal plane (of being).[^701] Moreover ‘He attains the fruit which is said to be that of (this) 
 
-initiation.” 
+initiation.”[^702] 
 
-704?\. Jayaratha is careful here to maintain the Kaula perspective namely, that worldly experience is also a manifestation of supreme consciousness, which justifies the practice of viewing it as beautiful (surāpa) rather than ugly and defective (virūpa). In other words, this Kaula yogi decides to leave his mundane embodied state because he is wishes to experience the ‘wonder of penetration into supreme consciousness’, which is at a higher level along the gradation (rāratamya) of its experience than can be done when it is mediated by objectivity. Those ‘who know the nature of things as if in an upside-down way’ believe that disembodied experience of that wonder is at a lower level than the embodied one, and so cling to it and don’t experience it as repulsive in this sense. They are, in other words, still bound by worldly desires, whereas this yogi is in actual fact already liberated at the time he leaves the body.
+[^699]: Jayaratha is careful here to maintain the Kaula perspective namely, that worldly experience is also a manifestation of supreme consciousness, which justifies the practice of viewing it as beautiful (surāpa) rather than ugly and defective (virūpa). In other words, this Kaula yogi decides to leave his mundane embodied state because he is wishes to experience the ‘wonder of penetration into supreme consciousness’, which is at a higher level along the gradation (rāratamya) of its experience than can be done when it is mediated by objectivity. Those ‘who know the nature of things as if in an upside-down way’ believe that disembodied experience of that wonder is at a lower level than the embodied one, and so cling to it and don’t experience it as repulsive in this sense. They are, in other words, still bound by worldly desires, whereas this yogi is in actual fact already liberated at the time he leaves the body.
 
-705?\. Abhinava is carefully chalking out a higher compromise between two extreme views. One is the outright rejection of the practice of yogic suicide in general, which is represented by the Ūrmikaulārṇava. It is supported by the obvious consequence of a nondual view of reality, namely, that Śiva is everywhere and so liberation cannot be a attained by going somewhere else. The other is represented by the Mālinīvijayottara (17/25), Abhinava’s highest authority, that Jayaratha goes on to quote, making explicit what is being implicitly stated. As Somadeva (op. cit. p.443) points out: ‘Abhinavagupta claims there is a second esoteric meaning concealed in the verse . . . \[that\] teaches a method of liberation which results in the Yogin’s death. The key to this meaning is that Virūpa(ka) is also a name of Bhairava, Virūpaka may thus not only be taken as an adjective of bhoga but also as a factitive object governed by the present participle manyamāno. The second reading of the half-verse is therefore ‘realising that all (of one’s individual experience) is Śiva.’ Hence Jayaratha’s explanation.”
+[^700]: Abhinava is carefully chalking out a higher compromise between two extreme views. One is the outright rejection of the practice of yogic suicide in general, which is represented by the Ūrmikaulārṇava. It is supported by the obvious consequence of a nondual view of reality, namely, that Śiva is everywhere and so liberation cannot be a attained by going somewhere else. The other is represented by the Mālinīvijayottara (17/25), Abhinava’s highest authority, that Jayaratha goes on to quote, making explicit what is being implicitly stated. As Somadeva (op. cit. p.443) points out: ‘Abhinavagupta claims there is a second esoteric meaning concealed in the verse . . . \[that\] teaches a method of liberation which results in the Yogin’s death. The key to this meaning is that Virūpa(ka) is also a name of Bhairava, Virūpaka may thus not only be taken as an adjective of bhoga but also as a factitive object governed by the present participle manyamāno. The second reading of the half-verse is therefore ‘realising that all (of one’s individual experience) is Śiva.’ Hence Jayaratha’s explanation.”
 
-706?\. MV 17/25cd, also quoted above, in TĀv ad 14/36cd.
+[^701]: MV 17/25cd, also quoted above, in TĀv ad 14/36cd.
 
-707?\. The complete verse is quoted below in TĀv ad 19/55. It reads: anena kramayogena yojitaḥ parame pade | samayy api mahādevi dīkṣoktanṁ phalam aśnute ॥ ‘O Great Goddess, conjoined to the supreme plane by applying this gradual union (kramayoga), even a (common) regular initiate (samayin) attains the fruit that is said to be that of (this) initiation.” The same verse is paraphrased below as 19/14. Although not found in the printed edition of the MV, it appears to be from there. See below note to 19/11-14. In Chapter Nineteen, Abhinava presents this practice as a process the teacher applies to his disciple as a form of liberating initiation at the moment of death. Here his concern is to refute the belief that yogic suicide can do more than give limited worldly benefits in some other life. If this practice does liberate, and it must if the MV declares that it does so, it may only do so if the man who dies this way realises his essential identity with Śiva.
+[^702]: The complete verse is quoted below in TĀv ad 19/55. It reads: anena kramayogena yojitaḥ parame pade | samayy api mahādevi dīkṣoktanṁ phalam aśnute ॥ ‘O Great Goddess, conjoined to the supreme plane by applying this gradual union (kramayoga), even a (common) regular initiate (samayin) attains the fruit that is said to be that of (this) initiation.” The same verse is paraphrased below as 19/14. Although not found in the printed edition of the MV, it appears to be from there. See below note to 19/11-14. In Chapter Nineteen, Abhinava presents this practice as a process the teacher applies to his disciple as a form of liberating initiation at the moment of death. Here his concern is to refute the belief that yogic suicide can do more than give limited worldly benefits in some other life. If this practice does liberate, and it must if the MV declares that it does so, it may only do so if the man who dies this way realises his essential identity with Śiva.
 
 
 *[p. 373]* ^pg395
@@ -885,7 +881,7 @@ yat saiva mukhyadīkṣā syāc chiṣyasya śivadāyinī |
 
 Such is the teaching concerning the freedom of one’s own (essential nature that executes the five) tasks of emanation and the rest. This is the 
 
-main initiation that bestows Śiva to the disciple.” 
+main initiation that bestows Śiva to the disciple.[^703] 
 
 Nor is this (teaching) without authority. Thus, he says: 
 
@@ -903,11 +899,11 @@ vyāptaṁ
 vikalpayuktacittas tu pindapātāc chivaṁ vrajet ॥ 44 ॥ bāhyadīkṣādiyogena caryāsamayakalpanaiḥ |
 avikalpas tathādyaiva jīvanmukto na saṁśayaḥ ॥ 45 ॥ 
 
-“It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant 
+[^704]It is said in the venerable Niśicāra: ‘those whose minds are free of thought (vikalpa) see that everything is pervaded by Bhairava’s radiant 
 
-708?\. Cf above, 14/24-25; see note to 14/24.
+[^703]: Cf above, 14/24-25; see note to 14/24.
 
-709?\. Now Abhinava quotes a Tantra which allows him to accommodate both views. One who is still engaged in thought may take this practice of yogic suicide to be a means to higher worldly enjoyment in the next life or, for those free of thought constructs, as an initiation into the liberated life beginning at the moment of death.
+[^704]: Now Abhinava quotes a Tantra which allows him to accommodate both views. One who is still engaged in thought may take this practice of yogic suicide to be a means to higher worldly enjoyment in the next life or, for those free of thought constructs, as an initiation into the liberated life beginning at the moment of death.
 
 
 *[p. 374]* ^pg396
@@ -922,7 +918,7 @@ attained nondual consciousness
 
 just now. (But one who is free of thought is free in this very life) ‘just now’, even when (his) body still exists (and lives). That is said there (in the Nisisacāratantra): 
 
-‘All the mobile and immobile universe is pervaded by (Lord) Śiva’s radiant energy (tejas). The wise sages (muni), Siddhas, the multitudes of Heroes (vīra)? and deities see (it). People whose minds are free of thought constructs see it in the world. He whose mind is yoked to thought (vikalpayukta) attains Śiva (only) after the body falls away. He whose mind is free of thought sees himself as imperishable Siva by the purity of (his) state and is, without a doubt, liberated in this life. 
+‘All the mobile and immobile universe is pervaded by (Lord) Śiva’s radiant energy (tejas). The wise sages (muni), Siddhas, the multitudes of Heroes (vīra)[^705] and deities see (it). People whose minds are free of thought constructs see it in the world. He whose mind is yoked to thought (vikalpayukta) attains Śiva (only) after the body falls away.[^706] He whose mind is free of thought sees himself as imperishable Siva by the purity of (his) state and is, without a doubt, liberated in this life. 
 
 Thus, it is proved that those whose condition (1107) is free of thought are liberated whilst (still) alive, whereas others are (liberated) after the falling away of the body. 
 
@@ -944,9 +940,9 @@ syur visphuliṅgakanṇikā api cet tadante
 
 dedīpyate vimalabodhahutāśarāśiḥ ॥ 46 ॥ 
 
-710?\. Read with MS Th, -saṅghāś ca for \[illegible\] ca.
+[^705]: Read with MS Th, -saṅghāś ca for \[illegible\] ca.
 
-711?\. This line is quoted by Abhinava as 14/44cd and by Jayaratha ad 13/242ab. This and the following line is quoted ad 1/50-51.
+[^706]: This line is quoted by Abhinava as 14/44cd and by Jayaratha ad 13/242ab. This and the following line is quoted ad 1/50-51.
 
 
 *[p. 375]* ^pg397
@@ -955,7 +951,7 @@ Sparks from the fire of the Supreme Reality (shine even now), although thoughts,
 
 #### Viveka on 14.46
 
-Transmigratory existence is a decrepit tree, because it is consumed by the insect that eats the wood (ghuna) of pure thoughts, such as ‘all this glorious outpouring (vibhava) is mine’.“ Vitalized by duality, impure are the thoughts that, like a tangled mass of roots, serve as its support. Not directly manifest because it is hidden by them, they are like sparks from the fire of consciousness, which is supreme reality. Even so, if on the planes of profound contemplation (samādhāna) they were to be fragments of Your penetration (āveśa), then most certainly, energized by the blowing which is repeated practice, the fire of supreme reality shines intensely when the body comes to an end. The meaning is that having first offered as oblation the subjectivity of the body and the rest (of the psychophysical organism), the supreme subjectivity becomes intensely inflamed (radiant in all its splendour). 
+Transmigratory existence is a decrepit tree, because it is consumed by the insect that eats the wood (ghuna) of pure thoughts, such as ‘all this glorious outpouring (vibhava) is mine’.[^707] Vitalized by duality, impure are the thoughts that, like a tangled mass of roots, serve as its support. Not directly manifest because it is hidden by them, they are like sparks from the fire of consciousness, which is supreme reality. Even so, if on the planes of profound contemplation (samādhāna) they were to be fragments of Your penetration (āveśa), then most certainly, energized by the blowing which is repeated practice, the fire of supreme reality shines intensely when the body comes to an end. The meaning is that having first offered as oblation the subjectivity of the body and the rest (of the psychophysical organism), the supreme subjectivity becomes intensely inflamed (radiant in all its splendour). 
 
 He concludes (this teachings) with the first half of a verse. 
 
@@ -968,7 +964,7 @@ My own (completely) full (and perfect) consciousness, (first) unfit (and) obscur
 
 This is (the end) of the fourteenth chapter (prakāśana) of the Tantrāloka, called the Preamble to the (exposition of the rite of) Initiation. 
 
-712?\. ĪP 4/12a. Also quoted below in TĀv ad 1/41-42, 4/169-170, and above ad 7/64cd- 65ab. See note to the first instance. The complete verse is quoted in TĀv ad 5/129cd- 1319 (128cd-130ab).
+[^707]: ĪP 4/12a. Also quoted below in TĀv ad 1/41-42, 4/169-170, and above ad 7/64cd- 65ab. See note to the first instance. The complete verse is quoted in TĀv ad 5/129cd- 1319 (128cd-130ab).
 
 
 *[p. 376]* ^pg398
@@ -1271,7 +1267,7 @@ karmaṇā śubhāśubhātmanā bhogyaṁ rūpaṁm yasya jātyāyurbhogātmana�
 
 nivṛttiśsuddhiprasādād evam uktam, tac ca pratiṣthādivyāptāptatattvāntargata-bhuvanabhogopalakṣaṇaparam | anyas tu bhūloke iti pathitvā bhūrlokaikadeśe kanyādvīpe ‘rjitam iti vyākṛtavān ॥ 122 ॥ 
 
-The consequence of that which must be experienced due to auspicious and inauspicious Karma is purified in the course of its cessation. So it is proper that a hundred oblations are offered for that. The earth worlds are the worlds ending with that of Vīrabhadra. Present there, that is, having attained a state (there) in which it is to be experienced, that is said here in this way to be so by the grace of the purification of (the Force of) Cessation (nivṛtti). That is also meant to imply analogously the experience of the worlds included in the principle of Water, that is pervaded by the Foundation (pratiṣthā) and the other (kalās). Reading, as others do, ‘in the earth world’, it is explained to mean (the Karma) accrued only in the one place in the earth world, that is, Kanyādvīpa.' 
+The consequence of that which must be experienced due to auspicious and inauspicious Karma is purified in the course of its cessation. So it is proper that a hundred oblations are offered for that. The earth worlds are the worlds ending with that of Vīrabhadra. Present there, that is, having attained a state (there) in which it is to be experienced, that is said here in this way to be so by the grace of the purification of (the Force of) Cessation (nivṛtti). That is also meant to imply analogously the experience of the worlds included in the principle of Water, that is pervaded by the Foundation (pratiṣthā) and the other (kalās). Reading, as others do, ‘in the earth world’, it is explained to mean (the Karma) accrued only in the one place in the earth world, that is, Kanyādvīpa.[^713] 
 
 bhogo duhkhasukhātmakaḥ ity uktyā bhoga idānīm eva nirṇītaḥ, āyuḥ sṛstisahārapaṭtale nirneṣyate, ity avaśiṣtār jāti janmaprakārabhedair ādiśati - 
 
@@ -1285,7 +1281,7 @@ antyajān śudraviṭkṣatrabrāhmaṇnāriś ca viśodhayet | (10/384d)
 
 iti sarvajātiíśodhanaṁ vakṣyati | iha tu 
 
-713?\. This is the Island of Kumārī, which part of Bhārata, that is, India. It is main place where Karma is accrued. See TĀ 8/85-91.
+[^713]: This is the Island of Kumārī, which part of Bhārata, that is, India. It is main place where Karma is accrued. See TĀ 8/85-91.
 
 
 *[p. 382]* ^pg404
@@ -1355,7 +1351,7 @@ One should not only purify birth, lifespan and worldly enjoyment, in the course 
 
 viṣayā bhuvanākārā ye kecid bhogyarūpinaḥ ॥ 125 ॥
 bhuktakarmaphalāśeṣā niṣkṛtis tena sā smṛtā |
-viśleṣo niṣkṛtir bhogāt bhogābhāve sa hi smṛtaḥ ॥ 126 ॥ 
+viśleṣo niṣkṛtir[^714] bhogāt bhogābhāve sa hi smṛtaḥ ॥ 126 ॥ 
 
 ‘The consequences of Karma are the particular objects of experience, the forms of which are the world orders that are the objects of sense. (Their) ‘cessation’ (niṣkṛti) is recollected (in the course of initiation as) all the consequences of Karma that been endured completely (as that which should be purified) by that (initiation). Separation (viśleṣa) from (all) worldly experience is the cessation (of Karma) (niṣkṛti), which is said to take place because there is no (more) worldly experience (for the experiencing subject (bhoktr).’ (125cd-126) 
 
@@ -1380,7 +1376,7 @@ viśleṣaḥ kriyate tasya \[illegible\] mantraiḥ śivājñayā |
 
 ‘The condition of one who experiences the consequences of Karma (bhokttva) is attachment to the objects of sense, which is said to be the result of Impurity (mala). The absence of that is brought about there itself by separation 
 
-714?\. Read as in TĀv ad 11/85cd-86 niṣkṛtir for niṣkṛteḥ.
+[^714]: Read as in TĀv ad 11/85cd-86 niṣkṛtir for niṣkṛteḥ.
 
 
 *[p. 385]* ^pg407
@@ -1405,7 +1401,7 @@ Chapter Twenty-one of the Fourth Ṣaṭka of the
 
 Jayadrathayāmala, called Kālikulapaṭala 
 
-Much of Chapter Twelve of the Tantrāloka is devoted to establishing the power of Kaula sacrificial substances and that a true Kaula should have no doubts and inhibitions in offering and ingesting them. While there are several features of Kaulism that do not take up Abhinava’s attention, such as the pantheon and deities’ iconic forms, he returns to this subject repeatedly. Indeed, he chooses to dedicate a large part of Chapter Twelve to this topic. Although quite short, it is located in a very significant place, heralding Chapter Thirteen, that deals extensively with the doctrine of grace. Placing it there, he seems to suggest that the offering and the consumption of substances normally considered impure, indeed, even obnoxious, is heralded by deity’s grace and invokes it. He quotes the Bhargaśikhā as declaring that these doubts and inhibitions are the firm bars of the jail of transmigratory existence.’ 
+Much of Chapter Twelve of the Tantrāloka is devoted to establishing the power of Kaula sacrificial substances and that a true Kaula should have no doubts and inhibitions in offering and ingesting them. While there are several features of Kaulism that do not take up Abhinava’s attention, such as the pantheon and deities’ iconic forms, he returns to this subject repeatedly. Indeed, he chooses to dedicate a large part of Chapter Twelve to this topic. Although quite short, it is located in a very significant place, heralding Chapter Thirteen, that deals extensively with the doctrine of grace. Placing it there, he seems to suggest that the offering and the consumption of substances normally considered impure, indeed, even obnoxious, is heralded by deity’s grace and invokes it. He quotes the Bhargaśikhā as declaring that these doubts and inhibitions are the firm bars of the jail of transmigratory existence.[^715] 
 
 These offerings are of two kinds. One is food. The centrepiece of the menu are animals offered in sacrifice. They should be well cooked and tasty. The second kind includes uncooked meat and bodily fluids. The Five Gems are a typical example. These comprise, urine, faeces, spittle, menstrual blood and sperm. In this case, the challenge is greater. They are not supposed to be delicious, although said to be full of energy (dīpta) and invigorating. Accordingly, the code name for faeces, for example, is varcas ~ ‘radiant energy’. By ingesting the more obnoxious ones, the brave Kaula adept acquires a knowledge of nonduality with great force and intensity. It is for this reason that the great 19\* century Bengali devotee of Kālī, Rāmakṛṣṇa, went through a period in his practice in which he would ingest small amounts of excreta in the morning. Sperm, of course, has a special place amongst these substances, as does menstrual blood, especially mixed together. 
 
@@ -1417,4 +1413,4 @@ mūlamaṁitrari tvayā proktam advaitayajanakramam \[g: -yajanarnńkramarhi\] |
 vinā ye na bhavet siddhir yat \[g: siddhiyat\] kiṁcit parameśvara ॥ 1 ॥
 182b g) tan mam ācakṣva deveśa dravyāṇār nirṇayaṁ param | 
 
-715?\. ‘This kind of doubt (saṅkā), which is Impurity (mālinya), lassitude (glāni), the contraction (of embodied subjectivity), and the like, fashions the great (sthūla) pillar (to which the soul is bound) within the abode of the slaughterhouse of transmigratory existence.” TĀ 12/20cd-21ab.
+[^715]: ‘This kind of doubt (saṅkā), which is Impurity (mālinya), lassitude (glāni), the contraction (of embodied subjectivity), and the like, fashions the great (sthūla) pillar (to which the soul is bound) within the abode of the slaughterhouse of transmigratory existence.” TĀ 12/20cd-21ab.

@@ -21,7 +21,7 @@ He (now states) how the phonemes are divided here (in this case).
 ### TĀ 16.216–218
 
 सार्ध चैकं चैक सार्धद्रद्रे शशी दूगथ युग्मम् ।
-त्रीणि दुगब्धिश्वद्रः श्रुतिः शशी पञ्च विधुमहशनद्रः || nineteen[^243] ॥
+त्रीणि दुगब्धिश्वद्रः श्रुतिः शशी पञ्च विधुमहशनद्रः || nineteen ॥
 एका्नविंशतौ स्यादक्षरसंख्या पदेष्वियं देव्याः |
 हल्द्रययुतवसुचित्रगुपरिसंख्यातस्ववणीयाः ॥। २१७ ॥
 मूलान्तं सार्धवर्ण स्यान्मायान्तं वर्णमेककम् ।
@@ -50,21 +50,21 @@ niṣkale śivatattve vai paro nyāsaḥ paroditaḥ ॥ 219 ॥
 parāparāpadāny eva hy aghoryādyaṣṭtakadvaye |
 mantrās tadanusāreṇa tattveṣv etad dvayarhi kṣipet ॥ 220 ॥ 
 
-The number of phonemes contained in the nineteen” Parts of the Goddess (Parāparā) are, respectively, 1) one and a half, 2) one, 3) one, 4) one and a half, 5) two, 6) two, 7) one, 8) two, 9) two, 10) three, 11) two, 12) four, 13) one, 14) four, 15) one, 16) five, 17) one, 18) three (maha), and 19) one, thus making thirty-eight, along with two half phonemes without a vowel.” (216-217) (216cd-218ab) 
+The number of phonemes contained in the nineteen” Parts of the Goddess (Parāparā) are, respectively, 1) one and a half, 2) one, 3) one, 4) one and a half, 5) two, 6) two, 7) one, 8) two, 9) two, 10) three, 11) two, 12) four, 13) one, 14) four, 15) one, 16) five, 17) one, 18) three (maha), and 19) one, thus making thirty-eight, along with two half phonemes without a vowel.[^245] (216-217) (216cd-218ab) 
 
 #### Viveka on 16.216–218
 
-[^243]: The Parāparā Vidyā is recited here in the reverse order (vailomyāt) (16/213a (212¢)). 1) PHAT 2) HAH 3) HUM 4) PHAT 5) RARA 6) RURU 7) HE 8) PIBA 9) VAMA 10) BHĪṢANE 11)BHĪMA 12)GHORAMUKHI 13) HAH 14) GHORARŪPE 15) HUM 16) PARAMAGHORE 17) HRĪH 18) AGHORE 19) OM The two half phonemes without a vowel are the T at the end of the two PHAṬs.
+[^245]: The Parāparā Vidyā is recited here in the reverse order (vailomyāt) (16/213a (212¢)). 1) PHAT 2) HAH 3) HUM 4) PHAT 5) RARA 6) RURU 7) HE 8) PIBA 9) VAMA 10) BHĪṢANE 11)BHĪMA 12)GHORAMUKHI 13) HAH 14) GHORARŪPE 15) HUM 16) PARAMAGHORE 17) HRĪH 18) AGHORE 19) OM The two half phonemes without a vowel are the T at the end of the two PHAṬs.
 
 *[p. 94]* ^pg114
 
 ### TĀ 16.218–219
 
-The procedure for the deposition (of the goddess) Aparā (HRĪH HÜM PHAT)“ is said to be one phoneme and a half (for the principles) up to the Root (Nature) (PHAT), there is a single phoneme (HRĪH) (for the principles from there) up to Māyā, and one (HŪM) (for the remaining principles) ending with Śakti. (218) (218cd-219ab) 
+The procedure for the deposition (of the goddess) Aparā (HRĪH HÜM PHAT)[^246] is said to be one phoneme and a half (for the principles) up to the Root (Nature) (PHAT), there is a single phoneme (HRĪH) (for the principles from there) up to Māyā, and one (HŪM) (for the remaining principles) ending with Śakti.[^247] (218) (218cd-219ab) 
 
 ### TĀ 16.219–220
 
-The deposition of the (goddess) Parā (SAUH)”\* is said to consist of (a half-phoneme which is a consonant) without a vowel (hal), (for the principles beginning with Earth and) ending at Māyā (S), after which it is said that a vowel (AU) (covers the principles from there) up to Śakti, and the supreme (vowel) (H) is within the (transcendent) undifferentiated (niṣkala) Śiva principle.” (219) (219cd-220ab) 
+The deposition of the (goddess) Parā (SAUH)[^248] is said to consist of (a half-phoneme which is a consonant) without a vowel (hal), (for the principles beginning with Earth and) ending at Māyā (S), after which it is said that a vowel (AU) (covers the principles from there) up to Śakti, and the supreme (vowel) (H) is within the (transcendent) undifferentiated (niṣkala) Śiva principle.[^249] (219) (219cd-220ab) 
 
 ### TĀ 16.220–221
 
@@ -81,7 +81,7 @@ pindākṣarānāri sarveṣāṁn varnasaikhyāvibhedataḥ |
 avyaktāntari svare nyasyaṁ Śeṣaṁ Śeṣeṣu yojayet || 221 || bījāni sarvatattveṣu vyāptṛtvena prakalpayet |
 pindānār bījavannyāsamanye tu pratipedire \\\\ 222 ॥ 
 
-(All the principles) up to Nature should be deposited? into the vowel of any of the phonemes of a Pinda (mantra formed from groups of phonemes). In accord with (their) differing numbers of phonemes,” the remaining (set of principles from the individual soul onwards) should be conjoined within the remaining (phonemes). (221) (221cd-222ab) 
+(All the principles) up to Nature should be deposited[^250] into the vowel of any of the phonemes of a Pinda (mantra formed from groups of phonemes). In accord with (their) differing numbers of phonemes,[^251] the remaining (set of principles from the individual soul onwards) should be conjoined within the remaining (phonemes). (221) (221cd-222ab) 
 
 ### TĀ 16.222–223
 
@@ -89,49 +89,49 @@ Seed-syllable mantras should be conceived to be pervading all (their correspondi
 
 #### Viveka on 16.222–223
 
-244?\. See MV 4/24 and below, 30/26cd. %1 218 (218cd-219ab) is based on MV 4/24. HRĪH - Earth to Nature (Prakṛti) HÜM - Individual Soul to May; ā PHAṬ — Pure principle up to Sakti
+[^246]: See MV 4/24 and below, 30/26cd.
 
-245?\. Concerning the Vidyā of Parā (SAUH), see MV 4/25, above 3/168cd-175ab (168-174), 4/181cd-189ab, 5/143-145 (142-144) and below 30/27-28ab.
+[^247]: 218 (218cd-219ab) is based on MV 4/24. HRĪH - Earth to Nature (Prakṛti) HÜM - Individual Soul to May; ā PHAṬ — Pure principle up to Sakti
 
-246?\. on MV 4/25.
+[^248]: Concerning the Vidyā of Parā (SAUH), see MV 4/25, above 3/168cd-175ab (168-174), 4/181cd-189ab, 5/143-145 (142-144) and below 30/27-28ab.
 
-247?\. Read nyasyaṁ for nyasya.
+[^249]: on MV 4/25.
 
-248?\. Nine in the case of Navātmā, etc. Read varnasaṁkhyāvibhedataḥ for varnasaṁkhyā vibhedataḥ.
+[^250]: Read nyasyaṁ for nyasya.
+
+[^251]: Nine in the case of Navātmā, etc. Read varnasaṁkhyāvibhedataḥ for varnasaṁkhyā vibhedataḥ.
 
 
 *[p. 95]* ^pg115
 
 (The number) ‘three (maha)’ is denoted by the three, Moon, Sun and Fire. ‘Along with two half-phonemes without a vowel’. The meaning is, along with two letters, T without a vowel (of PHAT, of which there are two,) in addition to the thirty-eight. This is the meaning. As is said (in the Mālinīvijayottara): 
 
-‘Within niṣkala (transcendental, undifferentiated) (Śiva), there is one pada consisting of one phoneme (OM). One should know that there are two in sakala (immanent, differentiated) (Śiva) - one (part) with three syllables (AGHORE) and one with one (HRĪH). There are two (padas) in the two (principles of Īśvara and Pure Knowledge, one) of five (syllables) (PARAMAGHORBE), and (one of) one (HUM). There are two (padas) of four syllables (GHORARŪPE) and one (HAH) in the three (principles) considered to be Māyā etc. (limited agency and knowledge). There is one (pada) of four syllables (GHORAMUKHI) considered to be in the two (principles of) Time (and Necessity). There is one (pada) with two syllables (BHĪMA) in (the principle of) Attachment. One (pada) of three syllables (BHĪṢAṆE) is considered to be in Nature. There is one pada of two syllables (VAMA) in the intellect, which is considered to be pervading the group of eight deities. Then there are four (padas) of the Vidyā, two (PIBA), one (HE), two (RURU), two (RARA), and a syllable and a half (PHATṬ) as the fifth (in the principles from Nature to Water), which pervade the five groups of eight worlds (respectively). There are three (padas) of one (HUM), one (HAH) and one and a half syllables (PHAT) in the earth (principle). 
+‘Within niṣkala (transcendental, undifferentiated) (Śiva), there is one pada consisting of one phoneme (OM).[^252] One should know that there are two in sakala (immanent, differentiated) (Śiva) - one (part) with three syllables (AGHORE) and one with one (HRĪH). There are two (padas) in the two (principles of Īśvara and Pure Knowledge, one) of five (syllables) (PARAMAGHORBE), and (one of) one (HUM). There are two (padas) of four syllables (GHORARŪPE) and one (HAH) in the three (principles) considered to be Māyā etc. (limited agency and knowledge). There is one (pada) of four syllables (GHORAMUKHI) considered to be in the two (principles of) Time (and Necessity). There is one (pada) with two syllables (BHĪMA) in (the principle of) Attachment. One (pada) of three syllables (BHĪṢAṆE) is considered to be in Nature. There is one pada of two syllables (VAMA) in the intellect, which is considered to be pervading the group of eight deities.[^253] Then there are four (padas) of the Vidyā, two (PIBA), one (HE), two (RURU), two (RARA), and a syllable and a half (PHATṬ) as the fifth (in the principles from Nature to Water), which pervade the five groups of eight worlds (respectively). There are three (padas) of one (HUM), one (HAH) and one and a half syllables (PHAT) in the earth (principle).’[^254] 
 
-"+ 
-
-(There is one phoneme and a half for the principles) ‘up to the Root’, that is, up to Nature (PHAT). The meaning is that it pervades two Eggs. “There is a single phoneme’ (for the principles from there up to Māyā), which is the seed syllable of Māyā (HRĪH). There is ʻone’ (for the remaining principles ending with Śakti,) and that has four energies (catuṣkala) (HŪM).” (The half phoneme which is) ‘(a consonant) without a vowel (hal) is (in this case) is the Seed of Nectar (S). In this way, ‘the vowel’ is the letter AU. ‘Supreme’ is emission (visarga) (H). That is said (in the Mālinīvijayottara): 
+(There is one phoneme and a half for the principles) ‘up to the Root’, that is, up to Nature (PHAT). The meaning is that it pervades two Eggs. “There is a single phoneme’ (for the principles from there up to Māyā), which is the seed syllable of Māyā (HRĪH). There is ʻone’ (for the remaining principles ending with Śakti,) and that has four energies (catuṣkala) (HŪM).[^255] (The half phoneme which is) ‘(a consonant) without a vowel (hal) is (in this case) is the Seed of Nectar (S). In this way, ‘the vowel’ is the letter AU. ‘Supreme’ is emission (visarga) (H). That is said (in the Mālinīvijayottara): 
 
 ‘Two Eggs (that extend up to Nature) are pervaded by a syllable and a half (PHAT), and the two others by two syllables (HŪM and HRĪH). Such, in reverse, is (the extent of) the pervasion of Aparā. 
 
-The three Eggs (that extend up to the end of Māyā) are pervaded by the letter S, and the fourth one by the Trident (AU), and that which is beyond all, by emission (H). (This) is considered to be the pervasion of \[illegible\] 
+The three Eggs (that extend up to the end of Māyā) are pervaded by the letter S, and the fourth one by the Trident (AU), and that which is beyond all, by emission (H). (This) is considered to be the pervasion of \[illegible\][^256] 
 
-252\. MV 4/19ab is quoted in TĀv ad 11/89.
+[^252]: MV 4/19ab is quoted in TĀv ad 11/89.
 
-253\. This are probably the group of eight Bhairavas — aghorāstaka or its feminine counterpart.
+[^253]: This are probably the group of eight Bhairavas — aghorāstaka or its feminine counterpart.
 
-254\. MV 4/19-23ab.
+[^254]: MV 4/19-23ab.
 
-255\. The syllable HUM consists of four energies or parts (catuṣkala), one for each of the pure principles up to and including Śakti. Read ekakaṁ varnam iti māyābījam | ekam iti catuṣkalam | for ekakaṁ varnam iti catuṣkalam | ekam iti māyābījam \\
+[^255]: The syllable HUM consists of four energies or parts (catuṣkala), one for each of the pure principles up to and including Śakti. Read ekakaṁ varnam iti māyābījam | ekam iti catuṣkalam | for ekakaṁ varnam iti catuṣkalam | ekam iti māyābījam \\
 
-256\. MV 4/24-25. The first quarter of the second verse (i.e. MV 4/25) is quoted above in TĀv ad 3/166 (165cd-166ab), the second quarter is quoted in TĀv ad 3/104cd-105ab. AIl of verse 25 is quoted in TĀv ad 4/187cd-188ab and ad 11/89.
+[^256]: MV 4/24-25. The first quarter of the second verse (i.e. MV 4/25) is quoted above in TĀv ad 3/166 (165cd-166ab), the second quarter is quoted in TĀv ad 3/104cd-105ab. AIl of verse 25 is quoted in TĀv ad 4/187cd-188ab and ad 11/89.
 
 
 *[p. 96]* ^pg116
 
 (The mantras of the two groups of eight beginning with Aghorī should be placed in the principles) ‘in accord with that’ means that (this should be done) in accord with the (extent of the) pervasion of the aforementioned Parts of Parāparā. That is said (in the Mālinīvijayottara, where we read): 
 
-"Eight very powerful Yoginīs are born from the body of Parāparā. They should be known to be seven, which consist, in due order, of five, six, five, four, two, three and two syllables, and one of eleven syllables,” along with two consonants without vowels (ardhārna).” 
+[^257]"Eight very powerful Yoginīs are born from the body of Parāparā. They should be known to be seven, which consist, in due order, of five, six, five, four, two, three and two syllables, and one of eleven syllables,[^258] along with two consonants without vowels (ardhārna).’[^259] 
 
-‘The phonemes of a Piṇda (mantra), for example Navātman (HRKṢMLVYÜM),” the first (consonants of which) number nine and more. The ‘vowel’ (in that example) is the letter \[illegible\] “The remaining’ (set of principles) from the individual soul onwards (should be conjoined) ‘within the remaining (phonemes)’, that is, (in this case,) Y and the rest. ‘Seed-syllable mantras’ (bīja) begin with (only) one phoneme and (so) differ from Piṇdas and Parts (of Mantras that consist of more than one). (Others maintain that Pinda (mantras) should be deposited) ‘in the same way as seed-syllable (mantras) (bīja)’. The meaning is that (these people maintain) that pinda (mantras) should be deposited as pervading each principle (one by one, as do the seed-syllable mantras). 
+‘The phonemes of a Piṇda (mantra), for example Navātman (HRKṢMLVYÜM),[^260] the first (consonants of which) number nine and more. The ‘vowel’ (in that example) is the letter \[illegible\][^261] “The remaining’ (set of principles) from the individual soul onwards (should be conjoined) ‘within the remaining (phonemes)’, that is, (in this case,) Y and the rest. ‘Seed-syllable mantras’ (bīja) begin with (only) one phoneme and (so) differ from Piṇdas and Parts (of Mantras that consist of more than one). (Others maintain that Pinda (mantras) should be deposited) ‘in the same way as seed-syllable (mantras) (bīja)’. The meaning is that (these people maintain) that pinda (mantras) should be deposited as pervading each principle (one by one, as do the seed-syllable mantras). 
 
 ### TĀ 16.223–224
 
@@ -142,20 +142,20 @@ sodhakanyāsamātrenṇa sarvaṁ Śodhyaṁ viśudhyati ॥ 223 ॥
 
 (In some cases,) even though the object of purification has not been deposited (on the disciple’s body), all that needs to be purified is completely 
 
-257\. MV 3/59-60ab. Although Jayaratha’s citation here of the MV is cogent, it is not Abhinava’s source. The way he breaks up the Vidyā is not the same.
+[^257]: MV 3/59-60ab. Although Jayaratha’s citation here of the MV is cogent, it is not Abhinava’s source. The way he breaks up the Vidyā is not the same.
 
-258\. These are the seven parts of the Vidyā of Parāparā; divided up in this way they are: 1) OM AGHORE HRĪH (5) 2) PARAMAGHORE HUM (6) 3) GHORARŪPE HAH (5) 4) GHORAMUKHI (4) 5) BHĪMA (2) BHĪṢANE (3) 7) VAMA PIBA HE RURU RARA PHAT HUM HAH PHAT (11 + 2).
+[^258]: These are the seven parts of the Vidyā of Parāparā; divided up in this way they are: 1) OM AGHORE HRĪH (5) 2) PARAMAGHORE HUM (6) 3) GHORARŪPE HAH (5) 4) GHORAMUKHI (4) 5) BHĪMA (2) BHĪṢANE (3) 7) VAMA PIBA HE RURU RARA PHAT HUM HAH PHAT (11 + 2).
 
-259\. The word ‘ardhārna’ literally means ‘half a phoneme’. This is a consonant with a vowel. These are the two letters ¶ of the two PHATs.
+[^259]: The word ‘ardhārna’ literally means ‘half a phoneme’. This is a consonant with a vowel. These are the two letters ¶ of the two PHATs.
 
-260\. Navātman is the Mantra of Ratiśekhara, the Bhairava of Aparā. Navātman is also the Mantra of Svacchandabhairava and the Bhairava of the goddess Kubjikā. There are several variants of this important syllabic mantra. The form taught in MV 8/21cd-24ab is RHRKṢMLVYŪM. As far as we know this is the basic, or at least most common, form in the Trika Tantras. The one we find in the Svacchandatantra, the Kubjikā and Śrīvidyā Tantras is the most common form in general, namely: HSKṢMLVRYÜM. It is the mantric body of Svacchandabhairava, an iconic form of which is identified as Navātmā Bhairava. This Bhairava is the consort of the goddess Kubjikā. It is the Bhairava upon which Aparā sits. Kubjikā’s root Vidyā is a variation of Parāparā Vidyā.
+[^260]: Navātman is the Mantra of Ratiśekhara, the Bhairava of Aparā. Navātman is also the Mantra of Svacchandabhairava and the Bhairava of the goddess Kubjikā. There are several variants of this important syllabic mantra. The form taught in MV 8/21cd-24ab is RHRKṢMLVYŪM. As far as we know this is the basic, or at least most common, form in the Trika Tantras. The one we find in the Svacchandatantra, the Kubjikā and Śrīvidyā Tantras is the most common form in general, namely: HSKṢMLVRYÜM. It is the mantric body of Svacchandabhairava, an iconic form of which is identified as Navātmā Bhairava. This Bhairava is the consort of the goddess Kubjikā. It is the Bhairava upon which Aparā sits. Kubjikā’s root Vidyā is a variation of Parāparā Vidyā.
 
-261\. Emend ukāre to ūkāre.
+[^261]: Emend ukāre to ūkāre.
 
 
 *[p. 97]* ^pg117
 
-purified just by depositing the purifying (mantras) alone, by virtue of the power of what it is (vastubala) (that is, the power of \[illegible\] (223) (223cd-224ab) 
+purified just by depositing the purifying (mantras) alone, by virtue of the power of what it is (vastubala) (that is, the power of \[illegible\][^262] (223) (223cd-224ab) 
 
 #### Viveka on 16.223–224
 
@@ -169,7 +169,7 @@ What is the (scriptural) authority (that supports the view) here that, even if t
 Śrīmanmṛtyuñjayādau ca kathitaḥ parameṣthinā |
 adhunā nyāsamātreṇa bhūtaśuddhiḥ prajāyate ॥ 224 ॥ 
 
-And (the same) is said by the Supreme Lord in the venerable Mṛtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone.” (224) (224cd-225ab) 
+And (the same) is said by the Supreme Lord in the venerable Mṛtyuṁjaya for example (where we read): ‘Now, the gross elements are purified (bhūtaśuddhi) by just the deposition (of mantra) alone.’[^263] (224) (224cd-225ab) 
 
 #### Viveka on 16.224–225
 
@@ -192,9 +192,9 @@ The Deposition of Parāparā and the other Two Goddesses
 तुर्यपदात्पदषट्के मानद्रितयं परापरपराख्यम् || २२९ ॥
 दरादशकं द्वादशकं तत्तवोपरि पूर्वव्वन्यत् ।
 
-262\. See above 16/98, where Abhinava says that the Path is purified by the power of the purifying mantra alone. Thus, it is clear that ‘vastubala’ here means the power of mantra. See also above, 16/162-163ab.
+[^262]: See above 16/98, where Abhinava says that the Path is purified by the power of the purifying mantra alone. Thus, it is clear that ‘vastubala’ here means the power of mantra. See also above, 16/162-163ab.
 
-263\. T have not been able to trace this reference in the edited text of the Netratantra.
+[^263]: T have not been able to trace this reference in the edited text of the Netratantra.
 
 
 *[p. 98]* ^pg118
@@ -227,34 +227,34 @@ Although that (is taught there) in order to purify the body, (even so, that depo
 
 ### TĀ 16.227
 
-When purifying Mantras alone are deposited, the deposition of the limbs (i.e. phonemes) of Mātṛkā and the Mālinī is the same as in the procedure explained previously for the worship (of the deity). (226cd-227ab) (227) 
+When purifying Mantras alone are deposited, the deposition of the limbs (i.e. phonemes) of Mātṛkā and the Mālinī is the same as in the procedure explained previously for the worship (of the deity).[^264] (226cd-227ab) (227) 
 
 ### TĀ 16.228–229
 
-There are three Parts on each of the first pairs of fingers, and four Parts on each (of the following) eight. There are eleven Parts, ten, one, one, six, twelve, five, five, two, two, one, and one finger measures, respectively. Counting them (all together,) there are eighteen. The other (remaining nineteenth) Part (is not counted separately,) because of its pervasive (presence). This is the inferior measure of the goddess (Parāparā),“ when only the purifying mantra is deposited. (227cd-229ab) (228-229) 
+There are three Parts on each of the first pairs of fingers, and four Parts on each (of the following) eight. There are eleven Parts, ten, one, one, six, twelve, five, five, two, two, one, and one finger measures, respectively. Counting them (all together,) there are eighteen. The other (remaining nineteenth) Part (is not counted separately,) because of its pervasive (presence). This is the inferior measure of the goddess (Parāparā),[^265] when only the purifying mantra is deposited. (227cd-229ab) (228-229) 
 
 #### Viveka on 16.228–229
 
-264\. See above, 16/141 and also 16/108.
+[^264]: See above, 16/141 and also 16/108.
 
-265\. The nineteen Parts of the mantra are the same as those presented above in 16/213ab-215 (213-216ab) as those of Parāparā. In this deposition, these Parts are related to the eighty-four-finger space which constitutes the inferior measure of the body (see above 16/99-100). In the reverse order, as before (see above, 16/212cd-213ab (213), 1-3), the first three Parts take up a space of six fingers, 4-7) the following four, thirty-two fingers, and the remaining eleven occupy a space of 8) ten, 9) one, 10) one, 11) six, 12) twelve, 13) five, 14) five, 15) two, 16) two, 17) one, and 18) one finger, respectively (6 + 32 + 10 + 1 +1+6+12+54+5+24+2+ 1 + 1 = 84). Cf. below, 16/233cd-225 (234-226ab). 1) PHAT 2) HAH + 3) HUM = 6 fingers’ space 4) PHAT (+ 2 (+ 2)) 5) RARA (+2 (+ 2)) 6) RURU (+ 2 (+ 2)) T) HE (+ 2 (+ 2)) = 32 (+ 8 + 8) fingers’ space 8) PIBA (+ 2 (+ 2)) = 10 (+ 2 + 2) fingers’ space 9) VAMA (+2 (+ 2)) = 1 (+ 2 + 2) fingers’ space 10) BHĪṢAṆE BHĪMA = 1 finger’s space 11) GHORAMUKHI = 6 fingers’ space 12) HAH = 12 fingers’ space 13) GHORARÜPE = 5 fingers’ space 14) HUM = 2 fingers’ space 15) PARAMAGHORE = 2 fingers’ space 16) HRĪH = 2 fingers’ space 17) AGHORE = 1 fingers’ space 18) OM = I fingers’ space
+[^265]: The nineteen Parts of the mantra are the same as those presented above in 16/213ab-215 (213-216ab) as those of Parāparā. In this deposition, these Parts are related to the eighty-four-finger space which constitutes the inferior measure of the body (see above 16/99-100). In the reverse order, as before (see above, 16/212cd-213ab (213), 1-3), the first three Parts take up a space of six fingers, 4-7) the following four, thirty-two fingers, and the remaining eleven occupy a space of 8) ten, 9) one, 10) one, 11) six, 12) twelve, 13) five, 14) five, 15) two, 16) two, 17) one, and 18) one finger, respectively (6 + 32 + 10 + 1 +1+6+12+54+5+24+2+ 1 + 1 = 84). Cf. below, 16/233cd-225 (234-226ab). 1) PHAT 2) HAH + 3) HUM = 6 fingers’ space 4) PHAT (+ 2 (+ 2)) 5) RARA (+2 (+ 2)) 6) RURU (+ 2 (+ 2)) T) HE (+ 2 (+ 2)) = 32 (+ 8 + 8) fingers’ space 8) PIBA (+ 2 (+ 2)) = 10 (+ 2 + 2) fingers’ space 9) VAMA (+2 (+ 2)) = 1 (+ 2 + 2) fingers’ space 10) BHĪṢAṆE BHĪMA = 1 finger’s space 11) GHORAMUKHI = 6 fingers’ space 12) HAH = 12 fingers’ space 13) GHORARÜPE = 5 fingers’ space 14) HUM = 2 fingers’ space 15) PARAMAGHORE = 2 fingers’ space 16) HRĪH = 2 fingers’ space 17) AGHORE = 1 fingers’ space 18) OM = I fingers’ space
 
 
 *[p. 99]* ^pg119
 
 ### TĀ 16.230
 
-The other two measures (of the body), which are called (respectively) middling (parāpara) and supreme (para), (are formed) by adding to (the first group of) six parts, beginning with the fourth part, twelve (finger spaces, and then again another) twelve, as was done previously above for the principles.” (229cd-230ab) (228-230) 
+The other two measures (of the body), which are called (respectively) middling (parāpara) and supreme (para), (are formed) by adding to (the first group of) six parts, beginning with the fourth part, twelve (finger spaces, and then again another) twelve, as was done previously above for the principles.[^266] (229cd-230ab) (228-230) 
 
 #### Viveka on 16.230
 
 (That deposition) is ‘in actual fact’ (basically the same as this kind of deposition,) because it is the same as the deposition which consists of (both) the object of purification and the purifier. (A thing said in a particular context may well also be sound in a different one) ‘directly’, because it is normative (vidhāyaka) (of what should be done). ‘So why should that not be accepted elsewhere (in a different context)?’; rather it is indeed accepted. This is the meaning. ‘The limbs’ (of Mātṛkā and Mālinī, i.e. the phonemes,) are their essential nature. This is the meaning. ‘(When purifying Mantras) ‘alone’ (are deposited), that is, by omitting (the deposition of) the object of purification. (This) deposition with the sequence of phonemes etc. (takes place) in another manner than (the one) one taught before with regards to its combination with the object of purification. ‘It is the same’, that is, the deposition (is done in) that (same) sequence. 
 
-‘There are three Parts’ in the sequence of withdrawal (that is, in the reverse order), (and they are) ‘on each of the first pairs of fingers’. Thus, there are six fingers. (There are) ‘four Parts’ (on each of the following) ‘eight’ fingers. Thus, there are thirty-two (Parts). There are ‘eighteen’ Parts. (The nineteenth Part is not counted separately) ‘because of its pervasive (presence)’; that is because it is (the Part that) pervades (all the others). As is said (in the Mālinīvijayottara): “The other part is pervasive . . \[illegible\] ‘Only’ (the purifying mantra is deposited) by omitting (the deposition of) the object of purification. (There are) ‘six parts’, four of which (extend for) eight fingers, (i.e. 4) PHAT 5) RARA 6) RURU 7) HE), one for ten fingers (i.e. 8) PIBA) and one for one finger (i.e. 9) VAMA). (As was done previously) ‘above’. Thus, here (in this case), there is an extra two fingers (space) for each Part. This is the meaning. 
+‘There are three Parts’ in the sequence of withdrawal (that is, in the reverse order), (and they are) ‘on each of the first pairs of fingers’. Thus, there are six fingers. (There are) ‘four Parts’ (on each of the following) ‘eight’ fingers. Thus, there are thirty-two (Parts). There are ‘eighteen’ Parts. (The nineteenth Part is not counted separately) ‘because of its pervasive (presence)’; that is because it is (the Part that) pervades (all the others). As is said (in the Mālinīvijayottara): “The other part is pervasive . . \[illegible\][^267] ‘Only’ (the purifying mantra is deposited) by omitting (the deposition of) the object of purification. (There are) ‘six parts’, four of which (extend for) eight fingers, (i.e. 4) PHAT 5) RARA 6) RURU 7) HE), one for ten fingers (i.e. 8) PIBA) and one for one finger (i.e. 9) VAMA). (As was done previously) ‘above’. Thus, here (in this case), there is an extra two fingers (space) for each Part. This is the meaning. 
 
-266\. The six Parts, to which are added two or four finger spaces each, are thus the fourth, the fifth, the sixth and the seventh of cight fingers each, the eighth of ten digits, and the ninth of one finger. Jayaratha kindly confirms this for us. The inferior (apara) deposition extends, as before (see above, 16/100-100ab), for 84 fingers, from the feet to the forehead. The middle one (parāpara) extends for 96 fingers, from the feet up to the Cavity of Brahmā, and the supreme one for 108 fingers, up to the End of the Twelve. The calculations here in 227cd-230ab (228-230) may well be Abhinava’s own. He simply applies the same procedures and proportions to the parts of Parāparā Vidyā as are applied to Mātṛkā and the Mālinī, concerning which, see above, 16/141 and also 16/108.
+[^266]: The six Parts, to which are added two or four finger spaces each, are thus the fourth, the fifth, the sixth and the seventh of cight fingers each, the eighth of ten digits, and the ninth of one finger. Jayaratha kindly confirms this for us. The inferior (apara) deposition extends, as before (see above, 16/100-100ab), for 84 fingers, from the feet to the forehead. The middle one (parāpara) extends for 96 fingers, from the feet up to the Cavity of Brahmā, and the supreme one for 108 fingers, up to the End of the Twelve. The calculations here in 227cd-230ab (228-230) may well be Abhinava’s own. He simply applies the same procedures and proportions to the parts of Parāparā Vidyā as are applied to Mātṛkā and the Mālinī, concerning which, see above, 16/141 and also 16/108.
 
-267\. MV 6/24a.
+[^267]: MV 6/24a.
 
 
 *[p. 100]* ^pg120
@@ -299,15 +299,15 @@ The deposition of the sequence relating to (the puri metaphysical principles (ta
 
 *[p. 101]* ^pg121
 
-parts are of two kinds, according to (whether they are) divided into classes (varga) and the Vidyās.’” (231cd-233ab) (232-233) 
+parts are of two kinds, according to (whether they are) divided into classes (varga) and the Vidyās.’[^269] (231cd-233ab) (232-233) 
 
 #### Viveka on 16.232–233
 
 (One deposition) 
 
-‘has been taught in chapter four (of the Mālinīvijayottara), and that has been explained (with reference to the scripture) before.” (The Lord has taught another kind of deposition,) ‘having said’ (how it should be done,) in chapter six. As is said there: 
+‘has been taught in chapter four (of the Mālinīvijayottara), and that has been explained (with reference to the scripture) before.[^270] (The Lord has taught another kind of deposition,) ‘having said’ (how it should be done,) in chapter six. As is said there: 
 
-‘The Parts (of Mantra) here (in this case) are of two kinds, according to (whether they are) divided?" into classes (varga) or Vidyās. Now listen to how they pervade (the spaces they occupy,) like their (corresponding) Mantras.” 
+‘The Parts (of Mantra) here (in this case) are of two kinds, according to (whether they are) divided[^271] into classes (varga) or Vidyās. Now listen to how they pervade (the spaces they occupy,) like their (corresponding) Mantras.’[^272] 
 
 ‘Another kind’ (of deposition), which is the reverse of the deposition of the sequence of principles. This is the meaning. 
 
@@ -323,34 +323,34 @@ He says that.
 
 \[illegible\] dvyamgulaṁ jñeyaṁ tatra pūrvaṁ padatrayam || 233 ||
 aṣṭāmgulāni catvāri daśāmigulam ataḥ param |
-dvyaigule” dve pade cānye ṣadamgulam ataḥ param ॥ 234 ॥
+dvyaigule[^273] dve pade cānye ṣadamgulam ataḥ param ॥ 234 ॥
 dvādaśāmṁgulam anyac ca dve ‘nye pañcārigule pṛthak |
 padadvayari catuṣparva tathānye dve dviparvanī || 235 ॥ 
 
-One should know that the first three parts (of mantras) there”\* (extend) for two finger(-spaces) each, four for eight fingers” (each), (the eighth which is) the next after that, ten fingers, the (next) two parts for two fingers (one each), the next for six fingers, another for twelve, then two 
+One should know that the first three parts (of mantras) there[^274] (extend) for two finger(-spaces) each, four for eight fingers[^275] (each), (the eighth which is) the next after that, ten fingers, the (next) two parts for two fingers (one each), the next for six fingers, another for twelve, then two 
 
-269\. MV 6/18cd. MV 6/18d reads -vidyāvibhedatā for -vidyāvibhedatah. The division into the three Vidyās (Parāparā, Aparā and Parā) has been explained above, in 16/21 1cd-212ab (212) ff. Thus, it seems that the division into ‘classes’ is what is taught here. In the following three verses, Abhinavagupta’s paraphrases MV 6/19cd-23, essentially repeating what he has already said in 16/226cd-227ab (227) ff.
+[^269]: MV 6/18cd. MV 6/18d reads -vidyāvibhedatā for -vidyāvibhedatah. The division into the three Vidyās (Parāparā, Aparā and Parā) has been explained above, in 16/21 1cd-212ab (212) ff. Thus, it seems that the division into ‘classes’ is what is taught here. In the following three verses, Abhinavagupta’s paraphrases MV 6/19cd-23, essentially repeating what he has already said in 16/226cd-227ab (227) ff.
 
-270\. See above, 16/213ab (213cd) ff.
+[^270]: See above, 16/213ab (213cd) ff.
 
-271\. MV 6/18d reads vidyāvibhedatā for vidyāvibhedataḥ,
+[^271]: MV 6/18d reads vidyāvibhedatā for vidyāvibhedataḥ,
 
-272\. \[illegible\] MV 6/18cd-19ab.
+[^272]: \[illegible\] MV 6/18cd-19ab.
 
-273\. MV dvyamngulaṁ,
+[^273]: MV dvyamngulaṁ,
 
-274\. \[illegible\] MV 6/21b reads tataḥ — ‘thus’ for tatra — ‘there’.
+[^274]: \[illegible\] MV 6/21b reads tataḥ — ‘thus’ for tatra — ‘there’.
 
-275\. MV 6/22a reads saptāṁgulāni ‘seven fingers’ for aṣtāṁgulāni ‘eight fingers’.
+[^275]: MV 6/22a reads saptāṁgulāni ‘seven fingers’ for aṣtāṁgulāni ‘eight fingers’.
 
 
 *[p. 102]* ^pg122
 
-others for five each, two parts for four fingers (two each), and (finally) the other two, for two fingers (one each).”\* (233cd-235) (234-236ab) 
+others for five each, two parts for four fingers (two each), and (finally) the other two, for two fingers (one each).[^276] (233cd-235) (234-236ab) 
 
 #### Viveka on 16.234–236
 
-(The first) ‘three parts (of mantra extend) for two finger(-spaces) each’, that is, six finger(-spaces all together). Each of one (of the four following Parts) should be related here (in this case) also to ‘eight fingers’ (space. Thus, making a space of thirty-two fingers altogether). “The (next) two parts (extend) for two fingers’, which means that there is one finger(-space) for each Part. (Another two of five) ‘each’ means that each one (extends for a space of) five fingers. Otherwise, (if this statement is understood differently,) each one would (extend for) two and a half fingers. (There are) ‘two Parts for four fingers’, because each one (extends for) two. ((Finally, the last two extend) ‘for two fingers’, which means each (extends) for one finger(-space).”” 
+(The first) ‘three parts (of mantra extend) for two finger(-spaces) each’, that is, six finger(-spaces all together). Each of one (of the four following Parts) should be related here (in this case) also to ‘eight fingers’ (space. Thus, making a space of thirty-two fingers altogether). “The (next) two parts (extend) for two fingers’, which means that there is one finger(-space) for each Part. (Another two of five) ‘each’ means that each one (extends for a space of) five fingers. Otherwise, (if this statement is understood differently,) each one would (extend for) two and a half fingers. (There are) ‘two Parts for four fingers’, because each one (extends for) two. ((Finally, the last two extend) ‘for two fingers’, which means each (extends) for one finger(-space).[^277] 
 
 He concludes this (teaching saying): 
 
@@ -359,28 +359,28 @@ He concludes this (teaching saying):
 एवं परापरादेव्याः स्वतन्त्रो न्यास उच्यते ।
 \[illegible\] parāparādevyāḥ svatantro nyāsa ucyate | 
 
-Such is said to be the independent deposition of the Goddess Parāparā. (236ab) (236cd) 
+Such is said to be the independent deposition of the Goddess Parāparā.[^278] (236ab) (236cd) 
 
 #### Viveka on 16.236
 
-(This deposition is) ‘independent’, because it is not dependent on the deposition of the principles and the like. What is meant by its ‘dependence’ (in this context) is that its deposition (is done) once the object of purification, that is, the principles and the rest, has been deposited. Here (in this case), its deposition is done independently by avoiding that. Thus, this is part (bhāga) of its field (of application). As was said with this intended (sense in mind): ‘this is the inferior measure of the goddess (Parāparā), when only the purifying mantra is deposited.” 
+(This deposition is) ‘independent’, because it is not dependent on the deposition of the principles and the like. What is meant by its ‘dependence’ (in this context) is that its deposition (is done) once the object of purification, that is, the principles and the rest, has been deposited. Here (in this case), its deposition is done independently by avoiding that. Thus, this is part (bhāga) of its field (of application). As was said with this intended (sense in mind): ‘this is the inferior measure of the goddess (Parāparā), when only the purifying mantra is deposited.’[^279] 
 
 Thus, the deposition taught (here) as being of two kinds, because (it can either be) dependent on the object of purification or independent (of it) (is deposited on the body of the disciple as follows). 
 
 Reading ‘one, one and two finger (spaces)’ (instead of ‘two finger(- spaces) each’), then the first three Parts (of Mantra) (extend for) four finger- 
 
-276\. \[illegible\] TĀ 16/233ab-235ab (233cd-235) = MV 6/21cd-23. MV 6/23d reads dve ‘pūrve dve pṛthak tataḥ ~ ‘the last two are then two, (one each) separately’ for tathānye dve dvi parvanī — ‘the other two, for two fingers (one each). Basically, the configuration of the Parts (pada) related to the finger spaces of the body is the same as presented above in 16/227cd-229ab (228-229) (see note there). The only difference is that in the previous instance, the first three Parts of two fingers each are taken together as covering six finger spaces, and the following four Parts that occupy of eight fingers each are taken together as being thirty-two. Thus, the configuration of the previous one is 6 (2 x 3) + 32 (i.e. 4 x 8)+10+1+1+64+12+5+54+2+2+1 + 1 = 84 fingers in 13 divisions. This one is 2+42+2+484+48+8+8+10+1+1+6+12+5+5+2+2+1 + 1 = 84 fingers in 15 divisions.
+[^276]: \[illegible\] TĀ 16/233ab-235ab (233cd-235) = MV 6/21cd-23. MV 6/23d reads dve ‘pūrve dve pṛthak tataḥ ~ ‘the last two are then two, (one each) separately’ for tathānye dve dvi parvanī — ‘the other two, for two fingers (one each). Basically, the configuration of the Parts (pada) related to the finger spaces of the body is the same as presented above in 16/227cd-229ab (228-229) (see note there). The only difference is that in the previous instance, the first three Parts of two fingers each are taken together as covering six finger spaces, and the following four Parts that occupy of eight fingers each are taken together as being thirty-two. Thus, the configuration of the previous one is 6 (2 x 3) + 32 (i.e. 4 x 8)+10+1+1+64+12+5+54+2+2+1 + 1 = 84 fingers in 13 divisions. This one is 2+42+2+484+48+8+8+10+1+1+6+12+5+5+2+2+1 + 1 = 84 fingers in 15 divisions.
 
-277\. See the previous note.
+[^277]: See the previous note.
 
-278\. Cf. above, 16/227cd-229ab (228-229) and note.
+[^278]: Cf. above, 16/227cd-229ab (228-229) and note.
 
-279\. Above, 16/229ab (229cd).
+[^279]: Above, 16/229ab (229cd).
 
 
 *[p. 103]* ^pg123
 
-spaces (each), (the next) four for eight fingers (each), (the eighth, which is) the next after that, ten fingers. (Then each of (the following) two Parts, two fingers, and another (after that), six fingers. (Then,) together with the previous (spaces, there are another) twelve fingers. (The text continues, ‘then two others for five each’). Although (the next) two Parts make ten finger(-spaces together), (according to this view,) one is three fingers, the other is seven fingers. Again, (while we understand that the following two Parts extend for four fingers, that is, two for each Part, according to this other view,) the two Parts are of two kinds, one is four fingers, and (the other) two. 2 
+spaces (each), (the next) four for eight fingers (each), (the eighth, which is) the next after that, ten fingers. (Then each of (the following) two Parts, two fingers, and another (after that), six fingers. (Then,) together with the previous (spaces, there are another) twelve fingers. (The text continues, ‘then two others for five each’). Although (the next) two Parts make ten finger(-spaces together), (according to this view,) one is three fingers, the other is seven fingers. Again, (while we understand that the following two Parts extend for four fingers, that is, two for each Part, according to this other view,) the two Parts are of two kinds, one is four fingers, and (the other) two.[^280] 
 
 Defining the (spaces corresponding to the Parts) in this and similar ways by following (the sequential order of what) precedes and follows, by mixing together both views and by reversing (or mixing up) the order of the finger-spaces in the course of (this explanation,) results in the following defects. (To begin with,) one abandons the reading of the wise, (moreover,) it is hard to figure it out, (one falls in a) useless repetition (of what was said before), and one is at odds with the venerable teacher’s explanation. 
 
@@ -392,7 +392,7 @@ Surely (one may ask), why has the deposition of the (other) two goddesses not be
 इति दर्शयितुं नास्य पृथङ्ज्यासं न्यरूपयत् vidyādvayaṁ Śiṣyatanau vyāptṛtvenaiva yojayet ॥ 236 ॥
 iti darsayituṁ nāsya pṛthaṁ nyāsami nyarūpayat | 
 
-The other two vidyās' should by conjoined to the body of the disciple, as (the consciousness that) pervades (it). In order to teach this, (the Lord) has not explained (their) deposition separately. (236cd-237ab) (237) 
+The other two vidyās[^281] should by conjoined to the body of the disciple, as (the consciousness that) pervades (it). In order to teach this, (the Lord) has not explained (their) deposition separately. (236cd-237ab) (237) 
 
 #### Viveka on 16.237
 
@@ -406,9 +406,9 @@ Surely (one may ask), what is the use of (having) two kinds of deposition of the
 जननाद्धोगतः कर्मक्षये स्यादपवृक्तता ।
 evar śodhakamantrasya nyāse tadraśmiyogataḥ ॥ 237 ॥ 
 
-280\. According to this version, which Jayaratha notes and rejects, the spatial divisions of the body corresponding to the Parts of the Parāparā Vidyā are as follows: 4 +4 +4 +2 + 2 \[8 +8 +8 +8 + 10\]}+2+2+6+12+34+7+ 4+ 2 = 96 fingers in 18 divisions. The Vidyā of Parāparā consists of nineteen Parts. However, the Parts deployed are 18, as the nineteenth is pervasive.
+[^280]: According to this version, which Jayaratha notes and rejects, the spatial divisions of the body corresponding to the Parts of the Parāparā Vidyā are as follows: 4 +4 +4 +2 + 2 \[8 +8 +8 +8 + 10\]}+2+2+6+12+34+7+ 4+ 2 = 96 fingers in 18 divisions. The Vidyā of Parāparā consists of nineteen Parts. However, the Parts deployed are 18, as the nineteenth is pervasive.
 
-281\. The orders of Aparā and Parā. See above, 218ab (218cd), 217cd (218ab). Sec also 232cd-233ab (233) and note.
+[^281]: The orders of Aparā and Parā. See above, 218ab (218cd), 217cd (218ab). Sec also 232cd-233ab (233) and note.
 
 
 *[p. 104]* ^pg124
@@ -417,11 +417,11 @@ pāśajālar vilīyeta taddhyānabalato guroḥ |
 sodhyatattve samastānāṁ yonīnām tulyakālataḥ ॥ 238 ॥
 jananād bhogataḥ karmakṣaye syād apavṛktatā | 
 
-When the purifying mantra is deposited in this way, the net of (the disciple’s) fetters dissolves away by union (yoga) with its (purifying) rays (brought about) by the might of the teacher’s visualization of it. (Thus the disciple) is made to take birth simultaneously in all the wombs within the reality to be purified. By thus experiencing (them all), when his Karma is exhausted, (he attains) liberation. (237cd-239ab) (238-239) 
+When the purifying mantra is deposited in this way, the net of (the disciple’s) fetters dissolves away by union (yoga) with its (purifying) rays (brought about) by the might of the teacher’s visualization of it.[^282] (Thus the disciple) is made to take birth simultaneously in all the wombs within the reality to be purified. By thus experiencing (them all), when his Karma is exhausted, (he attains) liberation.[^283] (237cd-239ab) (238-239) 
 
 #### Viveka on 16.238–239
 
-‘The net of fetters’ is the Six Paths, that is to say, that has not been deposited. (The word) ‘tattva’ (‘reality principle’) is a synecdoche (that stands for all the Path); thus, (the sense is that this) also (takes place) within (all) the six Paths, and so the deposition accomplishes its purpose.” 
+‘The net of fetters’ is the Six Paths, that is to say, that has not been deposited. (The word) ‘tattva’ (‘reality principle’) is a synecdoche (that stands for all the Path); thus, (the sense is that this) also (takes place) within (all) the six Paths, and so the deposition accomplishes its purpose.[^284] 
 
 Surely (one may ask), as the individual soul is present in this way in many bodies at once, and is moreover the experiencing subjectivity of the consequences of Karma (bhoktr) (present in each body), as this is so, do (the many individual embodied perceivers that are born in this way) have a perception of one another that connects them together (anusamdhāna), or not? With this doubt in mind, he says: 
 
@@ -435,19 +435,19 @@ Initiation Aided by Cognitive Yoga
 dehais tāvadbhir asyāṇoś citra bhoktur api sphuṭam ॥ 239 ॥
 mano ‘nusandhir no viśvasahyogapravibhāgavat | 
 
-The individual soul possesses many bodies, that are such, but although it is the subject who experiences the consequences (of its Karma) (bhoktr) by means of them, it does not have a clear mental perception that connects it together (mano ‘nusandhi). (This is not surprising. Indeed, it is just) as happens (with the common experience of) the conjunction and separation with all things.” (239cd-240ab) (240) 
+The individual soul possesses many bodies, that are such, but although it is the subject who experiences the consequences (of its Karma) (bhoktr) by means of them, it does not have a clear mental perception that connects it together (mano ‘nusandhi). (This is not surprising. Indeed, it is just) as happens (with the common experience of) the conjunction and separation with all things.[^285] (239cd-240ab) (240) 
 
 #### Viveka on 16.240
 
 Here (according to us), the ‘individual soul’ is the contracted Self. Its many ‘bodies are such’, that is, dependent (for their existence) on the power of 
 
-282\. The six paths, in which case, they are not previously purified.
+[^282]: The six paths, in which case, they are not previously purified.
 
-283\. See MṛT, Kriyāpāda, 3/104b, 105a; SvT, 4/108b.
+[^283]: See MṛT, Kriyāpāda, 3/104b, 105a; SvT, 4/108b.
 
-284\. Read tena sadadhvany api nyāsaś cetyārthasiddhaḥ for tena ṣadadhvany api nyāsaś cetyārthasiddhaḥ. By purifying, i.e. depositing the mantras of one of the Paths, all the Paths are purified. So it doesn’t matter whether the depositions and related procedures taught here centre on the purification of the Tattvas or not.
+[^284]: Read tena sadadhvany api nyāsaś cetyārthasiddhaḥ for tena ṣadadhvany api nyāsaś cetyārthasiddhaḥ. By purifying, i.e. depositing the mantras of one of the Paths, all the Paths are purified. So it doesn’t matter whether the depositions and related procedures taught here centre on the purification of the Tattvas or not.
 
-285\. Eyen if the AIl is in reality dissolved and emitted each instant by the Lord, the particulars are not cognizant of this process.
+[^285]: Eyen if the AIl is in reality dissolved and emitted each instant by the Lord, the particulars are not cognizant of this process.
 
 
 *[p. 105]* ^pg125
@@ -458,7 +458,7 @@ Surely (one may object that) this example is not proved (to be correct), for (th
 
 ### TĀ 16.241
 
-नियत्या मनसो देहमात्रे वृत्तिस्ततः परम् ॥ object.[^287] ॥
+नियत्या मनसो देहमात्रे वृत्तिस्ततः परम् ॥ object. ॥
 नानुसन्धा यतः सैकस्वान्तयुक्ताक्षकल्पिता ।
 
 niyatyā manaso dehamātre vṛttis tataḥ param ॥ 240 ॥
@@ -468,11 +468,12 @@ The activity of the mind (manas) necessarily takes place only in the body, not b
 
 #### Viveka on 16.241
 
-‘The activity of the mind (manas)’ is constrained by the power of necessity (which determines the nature and function of everything), and so (the mental activity) that connects together perceptions (anusandhāna) (necessarily) takes place within the body alone. Certainly not elsewhere, for it is its activity. As (multiple) perceptions (jñāna) do not arise simultaneously, (this activity) is ‘conceived’ by an organ of sense, that is, is dependent on it. (That sense organ) is ‘one’ amongst (the senses of) sight and the rest, and ‘is inwardly conjoined with its own (mind), and (outwardly with) its own (object)’, in accord with principle that ‘the Self is conjoined with the mind, the mind with organ of sense, and the organ of sense with the object.” 
+‘The activity of the mind (manas)’ is constrained by the power of necessity (which determines the nature and function of everything), and so (the mental activity) that connects together perceptions (anusandhāna) (necessarily) takes place within the body alone. Certainly not elsewhere, for it is its activity. As (multiple) perceptions (jñāna) do not arise simultaneously, (this activity) is ‘conceived’ by an organ of sense, that is, is dependent on it. (That sense organ) is ‘one’ amongst (the senses of) sight and the rest, and ‘is inwardly conjoined with its own (mind), and (outwardly with) its own (object)’, in accord with principle that ‘the Self is conjoined with the mind, the mind with organ of sense, and the organ of sense with the object.’[^287] 
 
 Perception (jñāna) is the fixed (predetermined) activity of the senses. How is it possible for the mind to perceive (what is taking place) within other 
 
 [^286]: See above, 9/236, 238. Mental conception (kalpanā) is the function and activity of the internal senses.
+
 [^287]: Nyāyasüūtrabhāṣya ad 1/1/4.
 
 *[p. 106]* ^pg126
@@ -558,6 +559,7 @@ of each world?
 means the synthetic perception (anusandhāna) which has as its object the many bodies in each one of those worlds that some (fortunate disciple) who is the recipient of an intense descent of the power (of grace) possesses. “It is fitting’, because he does not wish (to make his disciple’s soul) take birth etc. (in the worlds). (If only the purifying mantras are deposited, the teacher) ‘should perform’ (the rite (krama) (in which the disciple’s soul is made) to take birth etc. (in the worlds)) (in a generic 
 
 [^288]: This verse implicitly refers back to verse 238cd-239ab (239) above.
+
 [^289]: See below note to 16/267cd-268ab (268) concerning \[illegible\]
 
 *[p. 108]* ^pg128
@@ -598,7 +600,7 @@ Surely (one may ask), the nature of discourse (saṁjalpa) is speech (Sabda). So
 
 *[p. 109]* ^pg129
 
-The Essential Being and Purpose of Mantra (mantrasattāprayojanam\\” 
+The Essential Being and Purpose of Mantra (mantrasattāprayojanam)[^290] 
 
 ### Dyczkowski's verse 250-251
 
@@ -624,19 +626,19 @@ discourse (saṁjalpamaya) which reflects (on the nature of its object) (vimarś
 
 ### TĀ 16.250–251
 
-The essential nature of thought is (inner) discourse, which is the (inner) nature of the subject who reflects (on the nature of things), because it is the freedom (to perceive) of the perceiver of the field (of objectivity) (kṣetrajña). ‘That’ (inner) discourse is ‘the essential nature of Mantra’, which is inner” reflective awareness, and because its sole form is (consciousness), free of thought constructs, it is ‘pure’. Thus, in accord with the teaching that ‘that which is this, the Lord’s being, is that of the fettered soul also’, it is ‘not the fettered state’. Thus, it is ‘eternal’, for according to (the following) teaching, its nature is (never) separated from it. 
+The essential nature of thought is (inner) discourse, which is the (inner) nature of the subject who reflects (on the nature of things), because it is the freedom (to perceive) of the perceiver of the field (of objectivity) (kṣetrajña). ‘That’ (inner) discourse is ‘the essential nature of Mantra’, which is inner[^291] reflective awareness, and because its sole form is (consciousness), free of thought constructs, it is ‘pure’. Thus, in accord with the teaching that ‘that which is this, the Lord’s being, is that of the fettered soul also’, it is ‘not the fettered state’. Thus, it is ‘eternal’, for according to (the following) teaching, its nature is (never) separated from it. 
 
 #### Viveka on 16.250–251
 
-‘The (wise) know that the (essential) nature of the light (of manifestation) (avabhāsa) is reflective awareness; otherwise (if that were not so), the light (of consciousness), although coloured by the (entities manifest within it), would be insentient, like a crystal.” 
+‘The (wise) know that the (essential) nature of the light (of manifestation) (avabhāsa) is reflective awareness; otherwise (if that were not so), the light (of consciousness), although coloured by the (entities manifest within it), would be insentient, like a crystal.’[^292] 
 
 Surely (one may ask), how is it possible for gross thought, the nature of which is (mental) discourse, to be linked to this kind of reflective awareness? With this doubt in mind, he has said that ʻit is fashioned (upakalpita) as one with Śiva, Who, without beginning, is the dispenser of (every) boon’. Even the thought of (the teacher) who recites mantra ‘attains Śiva’s state’ by 
 
-290\. Concerning Mantras, see above 5/135cd-142 and below 26/22.
+[^290]: Concerning Mantras, see above 5/135cd-142 and below 26/22.
 
-291\. Read yadāntrīyakaś ca for yannāntrīyakaś ca.
+[^291]: Read yadāntrīyakaś ca for yannāntrīyakaś ca.
 
-292\. ĪP 1/5/11a. Only the first quarter of this verse is quoted here. It is quoted in full in TĀv ad 2/31cd-32ab (32) and ad 4/184, the first line ad 11/46-47.
+[^292]: ĪP 1/5/11a. Only the first quarter of this verse is quoted here. It is quoted in full in TĀv ad 2/31cd-32ab (32) and ad 4/184, the first line ad 11/46-47.
 
 
 *[p. 110]* ^pg130
@@ -671,11 +673,11 @@ And this is taught in this way by Him (the Lord Himself). Accordingly, he says:
 parāmarśasvabhāvetthaṁ mantraśaktir udāhṛtā |
 parāmarśo dvidhā śuddhāśuddhatvān mantrabhedakaḥ ॥ 253 ॥ 
 
-It is said in this way (in this Tantra) that the power of Mantra is reflective awareness.” Reflective awareness is of two kinds, that is, pure and impure, and so it divides up (and differentiates) Mantras (in those terms). (253) (253cd-254ab) 
+It is said in this way (in this Tantra) that the power of Mantra is reflective awareness.[^293] Reflective awareness is of two kinds, that is, pure and impure, and so it divides up (and differentiates) Mantras (in those terms). (253) (253cd-254ab) 
 
 #### Viveka on 16.253–254
 
-293\. Here it is very clear how Abhinava explains the nature of something by giving it a name drawn from Pratyabhijñā terminology.
+[^293]: Here it is very clear how Abhinava explains the nature of something by giving it a name drawn from Pratyabhijñā terminology.
 
 
 *[p. 111]* ^pg131
@@ -702,13 +704,13 @@ vaiṣṇavādiḥ paśuḥ prokto na yogyaḥ patiśāsane || 255 ॥
 ye mantrāḥ śuddhamārgasthāḥ śivabhaṭṭtārakādayaḥ |
 Śrīmanmataṁgādidṛśā tanmayo hi guruḥ śivaḥ ॥ 256 ॥ 
 
-It is said in the venerable Pauṣkara that ‘(the mantras of) Brahmā and Viṣṇu etc. are not the same (as ours). Located in the Egg (of Brahmā), they belong to the domain of Nature (prādhānika) and, impure (sāñjana), they are sāttvika, rājasa or tīāīmasa. A Vaiṣṇava teacher and the like is said to be (just) a fettered soul. This is because, due to (his) impure judgement (parāmarśa),” he has been consecrated by identification with them (tanmayībhāvīta). He is not qualified (to receive and impart) the Śaiva teachings (patiśāstra). According to the view of the venerable Mataṅga and others, ‘the mantras that are on the pure path are those of Lord Śiva 
+It is said in the venerable Pauṣkara that ‘(the mantras of) Brahmā and Viṣṇu etc. are not the same (as ours). Located in the Egg (of Brahmā), they belong to the domain of Nature (prādhānika) and, impure (sāñjana), they are sāttvika, rājasa or tīāīmasa.[^294] A Vaiṣṇava teacher and the like is said to be (just) a fettered soul. This is because, due to (his) impure judgement (parāmarśa),[^295] he has been consecrated by identification with them (tanmayībhāvīta). He is not qualified (to receive and impart) the Śaiva teachings (patiśāstra). According to the view of the venerable Mataṅga[^296] and others, ‘the mantras that are on the pure path are those of Lord Śiva 
 
-294\. The original form of this verse (i.e. 16/254 (254cd-255ab) is: anye prādhānikāḥ mantra brahmaviṣnvādayo ‘pare | sāñjanās te andmadhyasthāḥ sāttvarājasatāīmasāḥ | It is quoted by Rāmakaṇtha ad MPĀ vidyāpāda 2/20-21 without ascription. Bhatt observes in a note to his edition that this verse is found in the Mṛgendravṛttidīpikā upodghātaprakaraṇa verse 22. There it is said to be drawn from Rauravāgama, but cannot be traced there. Abhinava tells us clearly it is drawn from the Pauṣkarāgama. This survives as the Parameśvaratantra in manuscript. See bibliography.
+[^294]: The original form of this verse (i.e. 16/254 (254cd-255ab) is: anye prādhānikāḥ mantra brahmaviṣnvādayo ‘pare | sāñjanās te andmadhyasthāḥ sāttvarājasatāīmasāḥ | It is quoted by Rāmakaṇtha ad MPĀ vidyāpāda 2/20-21 without ascription. Bhatt observes in a note to his edition that this verse is found in the Mṛgendravṛttidīpikā upodghātaprakaraṇa verse 22. There it is said to be drawn from Rauravāgama, but cannot be traced there. Abhinava tells us clearly it is drawn from the Pauṣkarāgama. This survives as the Parameśvaratantra in manuscript. See bibliography.
 
-295\. is not encountered in the scriptural sources. Thus, it is possible that this sentence is Abhinava’s gloss. But this may not be so. Thus, in the translation I have given a common, non-technical meaning of the word.
+[^295]: is not encountered in the scriptural sources. Thus, it is possible that this sentence is Abhinava’s gloss. But this may not be so. Thus, in the translation I have given a common, non-technical meaning of the word.
 
-296\. 256ab (256cd) is MPĀ vidyāpāda 2/20ab. According to Rāmakantha, the commentator, ‘the pure path’ is Vidyātattva.
+[^296]: 256ab (256cd) is MPĀ vidyāpāda 2/20ab. According to Rāmakantha, the commentator, ‘the pure path’ is Vidyātattva.
 
 
 *[p. 112]* ^pg132
@@ -735,13 +737,13 @@ pṛk kutaḥ sa vimarśāc cet kutaḥ so ‘pi nirūpane ॥ 257 ॥
 ādyas tathā vikalpatvapradaḥ syād upadeṣtṛtaḥ |
 yah saṁkrānto ‘bhijalpaḥ syāt tasyāpy anyopadeṣtṛtaḥ ॥ 258 ॥ 
 
-Surely (one may ask), agreed that the state of reflective awareness (thought possesses) is due to (its) association with (this) free (inner) discourse. (But one may ask,) where did that (association originate) from initially? (If you say that) that (association originated) from reflective awareness (vimarśa), (then) where did that also (originate from)? (In order to answer this question, let us examine what happens) in the course of instruction (nirūpana). The initial (reflective awareness) that bestows this kind of discursive thought (originates from) the teacher. Transmitted (saṁkrānta), it becomes discourse (abhijalpa). His (teaching) also (comes) from another teacher. (257-258) (257cd-259ab) 
+[^297]Surely (one may ask), agreed that the state of reflective awareness (thought possesses) is due to (its) association with (this) free (inner) discourse. (But one may ask,) where did that (association originate) from initially? (If you say that) that (association originated) from reflective awareness (vimarśa), (then) where did that also (originate from)? (In order to answer this question, let us examine what happens) in the course of instruction (nirūpana). The initial (reflective awareness) that bestows this kind of discursive thought (originates from) the teacher. Transmitted (saṁkrānta), it becomes discourse (abhijalpa). His (teaching) also (comes) from another teacher. (257-258) (257cd-259ab) 
 
 #### Viveka on 16.257–259
 
 Now, it is said that that (association of thought with inner discourse originates) from reflective awareness. (Well then,) where did that also (originate from)? Thus he says, ‘(If you say that) that (association originated) from reflective awareness (vimarśa), (then) where did that also (originate from)?’ (If one admits that) in this way, reflective awareness (originates) from (its) association with (this inner) discourse, and (conversely,) association with (this inner) discourse from that, the consequence would be a vicious circle. This is 
 
-297\. \[illegible\] After having presented the intricacies of these depositions, Abhinava continues from here to verse 294 (294cd-295ab) with his linguistic analysis of mantra.
+[^297]: \[illegible\] After having presented the intricacies of these depositions, Abhinava continues from here to verse 294 (294cd-295ab) with his linguistic analysis of mantra.
 
 
 *[p. 113]* ^pg133
@@ -787,7 +789,7 @@ Surely (one may ask), if this is so, where there is a difference in the reflecti
 ### TĀ 16.261–263
 
 घटः कुम्भ इतीत्थं वा यदि भेदो निरूप्यते ।
-सोऽप्यन्यकल्पनादायी हयनादृत्यः प्रयत्नतः ॥ (kumbha)[^298] ॥
+सोऽप्यन्यकल्पनादायी हयनादृत्यः प्रयत्नतः ॥ (kumbha) ॥
 पणायते करोतीति विकल्यस्योचितौ स्फुटम् ।
 करपाण्यभिजल्पौ तौ सङ्करयेतां कथं किल ॥ २६२ ॥
 
@@ -796,13 +798,13 @@ so ‘py anyakalpanādāyī hy anādṛtyaḥ prayatnataḥ ॥ 261 ॥
 panāyate karotīti vikalpasyocitau sphuṭam |
 karapāṇyabhijalpau tau saṁkīryetām kathan kila ॥ 262 ॥ 
 
-Or else, if (one explains that) “a jar (ghaṭa) is a pot (kumbha)”” and indicates in this way that there is a difference (in the apprehension of 
+Or else, if (one explains that) “a jar (ghaṭa) is a pot (kumbha)”[^298] and indicates in this way that there is a difference (in the apprehension of 
 
 [^298]: Read ghajaḥ kumbha for ghaṭakumbha. It may seem that it is possible to understand the meaning of a word by means of another, and that this the way we learn a language. But that is not so. Understanding meaning and putting words together according to their meaning to form sentences presupposes and requires a capacity to apprehend meaning. This Abhinava says is a one of the functions of vimarśa — reflective awareness, that when it operates in this way is called pratibhā. This cognitive linguistic noetic awareness is the fundamental unified ground in which the stream of signification of language rests and is known. If this reflective awareness were not to exist, each synonym would be closed in and confined within itself. Thus, Abhinava said above (11/68cd-69) that: “If it were not for this (grounding in an uncreated and infinite reflective awareness that grasps meaning directly), none of the many (words) with conventionally (agreed meanings) formed many times, (even if variously substituted by synonyms,) could come to rest (by conveying a clear meaning). The result would be an infinite regress, which is hard to avoid, because one would have to (continuously) make us of (various words belonging to an agreed) convention in order to explain (even) those by which a child is instructed.”
 
 *[p. 115]* ^pg135
 
-the meaning of these two synonyms, such that they can explain one another without reference to the innate reflective awareness of consciousness that grasps meaning, this supposed difference) also gives rise to other thought constructs (as to what the word means. Thus, the view that the meaning of words is understood in this way) should be vigorously rejected. (However, the case of synonyms with differing etymologies is not the same. Thus, for example) ‘kara’ and \[illegible\] (which both mean ‘hand’) are clearly appropriate dictions (abhijalpa) of the notion (vikalpa) of (two separate corresponding actions, namely that the hand) ‘does’ (karoti) (something) and ‘plays dice’ (panāyate) (respectively). So (if they are used with an eye on their etymological meaning,) how could they be mixed up (and used promiscuously)?” (261-262) (261cd-263ab) 
+the meaning of these two synonyms, such that they can explain one another without reference to the innate reflective awareness of consciousness that grasps meaning, this supposed difference) also gives rise to other thought constructs (as to what the word means. Thus, the view that the meaning of words is understood in this way) should be vigorously rejected. (However, the case of synonyms with differing etymologies is not the same. Thus, for example) ‘kara’ and \[illegible\] (which both mean ‘hand’) are clearly appropriate dictions (abhijalpa) of the notion (vikalpa) of (two separate corresponding actions, namely that the hand) ‘does’ (karoti) (something) and ‘plays dice’ (panāyate) (respectively). So (if they are used with an eye on their etymological meaning,) how could they be mixed up (and used promiscuously)?[^299] (261-262) (261cd-263ab) 
 
 #### Viveka on 16.261–263
 
@@ -818,7 +820,7 @@ Surely (one may ask), if this is so, then how can one distinguish (the direct un
 śsabdāc chabdāntare tena vyutpattir vyavadhānataḥ |
 vyavahārāt tu sā sākṣāc citropākhyāvimarśinī ॥ 263 ॥ 
 
-299\. Abhinava says we should not consider that synonymous words like ‘jar’ (ghaṭa) and ‘pot’ (kumbha) denote two different things. However, not uncommonly, two or more words with the same meaning have different etymological derivations. Such is the case with the words pāṇi and kara, which both mean ‘hand’. Even if the etymology of the two words differs, as happens for example with the word ‘pāṇi’, which derived from panāyate, ‘playing at dice’ and ‘kara’, from karoti, ‘to do’. The difference is that we apprehend directly, through common usage, the meaning of the words for jar, whereas the understanding of the meaning of the words for hand, through their etymology, is indirect. But even though, as synonyms their meaning is the same and does not change, they can also be understood to each have their own specific meaning in accord with their etymology. About synonyms and related matters, see K. Kunjunni Raja (1963: pp. 32ff.) and Kumārila, TV 1/3/26.
+[^299]: Abhinava says we should not consider that synonymous words like ‘jar’ (ghaṭa) and ‘pot’ (kumbha) denote two different things. However, not uncommonly, two or more words with the same meaning have different etymological derivations. Such is the case with the words pāṇi and kara, which both mean ‘hand’. Even if the etymology of the two words differs, as happens for example with the word ‘pāṇi’, which derived from panāyate, ‘playing at dice’ and ‘kara’, from karoti, ‘to do’. The difference is that we apprehend directly, through common usage, the meaning of the words for jar, whereas the understanding of the meaning of the words for hand, through their etymology, is indirect. But even though, as synonyms their meaning is the same and does not change, they can also be understood to each have their own specific meaning in accord with their etymology. About synonyms and related matters, see K. Kunjunni Raja (1963: pp. 32ff.) and Kumārila, TV 1/3/26.
 
 
 *[p. 116]* ^pg136
@@ -872,23 +874,23 @@ Thus, (the Lord) has adopted Mantra (as a means to realization), observing that 
 
 *[p. 118]* ^pg138
 
-‘Thus’, because the manifestation (of the meaning) (sphurana) of other words (that are not Mantras) is as their own specific prior reflective awareness (of their meaning), the Lord, ‘observing’ directly that ‘the notion’ that arises from these ‘special words (sounds) (śabda) and meanings of mantras’, the nature of which is innate and unconditioned (anavacchinna) reflective awareness, is ‘different’ and has different characteristics from the notion ‘that arises from other (common) words’, ‘has adopted Mantra’. The meaning is that he has taught (the practice of Mantra) as the supreme (practice) to be adopted. Although the nature of other (common) words is also (ultimately) supreme reflective awareness, it is said that (they have) arisen in the form of (common) gross language (saṁjalpa) by the process of descent (through the series of speakers), as it happens to be (in each case), as the (linguistic) tradition (paramparā) derived from the common daily commerce of the ancients (vṛddhavyavahāra). Mantras, however, beginning with (those of) the first teacher up to the present time, are all essentially the same innate and unconditioned reflective awareness (paramārśatva) (that has not descended onto the plane of ordinary language based on a common convention). 
+‘Thus’, because the manifestation (of the meaning) (sphurana) of other words (that are not Mantras) is as their own specific prior reflective awareness (of their meaning), the Lord, ‘observing’ directly that ‘the notion’ that arises from these ‘special words (sounds) (śabda) and meanings of mantras’, the nature of which is innate and unconditioned (anavacchinna) reflective awareness, is ‘different’ and has different characteristics from the notion ‘that arises from other (common) words’, ‘has adopted Mantra’. The meaning is that he has taught (the practice of Mantra) as the supreme (practice) to be adopted. Although the nature of other (common) words is also (ultimately) supreme reflective awareness, it is said that (they have) arisen in the form of (common) gross language (saṁjalpa) by the process of descent (through the series of speakers), as it happens to be (in each case), as the (linguistic) tradition (paramparā) derived from the common daily commerce of the ancients (vṛddhavyavahāra). Mantras, however, beginning with (those of) the first teacher up to the present time, are all essentially the same innate and unconditioned reflective awareness (paramārśatva) (that has not descended onto the plane of ordinary language based on a common convention).[^301] 
 
 Thus, it was ‘mentioned earlier’ (that all Mantras, whether) seed-syllables (bīja) and syllabic groups etc., are said to be essentially that (noetic) consciousness (bodha), (in accord with) such (teachings): 
 
-‘All (Mantras) consisting of seed syllables (bīja) and syllabic groups (pinda) are the (dynamic) pulsing nature (spandanātmatā) of consciousness. Thus, (a Mantra) is said to serve as a means to (to attain) Supreme Consciousness (because such is its nature). 
+‘All (Mantras) consisting of seed syllables (bīja) and syllabic groups (pinda) are the (dynamic) pulsing nature (spandanātmatā) of consciousness. Thus, (a Mantra) is said to serve as a means to (to attain) Supreme Consciousness (because such is its nature).[^302] 
 
 (According to this verse,) that (consciousness) ‘pertains to them alone’, not to other (common) words, because it has been explained that they assume a gross form (in their own) various ways. Therefore, as (Mantras consisting of) seed-syllables and syllabic groups etc. are essentially unconditioned consciousness, ‘how could they be a notion (that is derived) from something else?’ (That ‘something else’) is that other (form of) reflective awareness (of meaning) that has been coming down through each lineage of teachers (that manifests as common speech). The meaning is that there is no other equivalent domain (kakṣya) here of (inner) discourse (saṁjalpa) (for Mantras apart from that one). 
 
-It is with this same intention that it is said everywhere in the scripture that the main (and most important) characteristic of a teacher is that he is an expert in Mantras and their application (tantra). 
+It is with this same intention that it is said everywhere in the scripture that the main (and most important) characteristic of a teacher is that he is an expert in Mantras and their application (tantra).[^303] 
 
-TM” Accordingly, he says: 
+Accordingly, he says: 
 
-301\. Concerning linguistic conventions in general and how they are learnt, see 11/66-67ab, and how they are established in the intuitive genius (pratibhā) of consciousness, which is free of them, see above, 11/67cd-80ab.
+[^301]: Concerning linguistic conventions in general and how they are learnt, see 11/66-67ab, and how they are established in the intuitive genius (pratibhā) of consciousness, which is free of them, see above, 11/67cd-80ab.
 
-302\. Above, 7/2cd-3ab.
+[^302]: Above, 7/2cd-3ab.
 
-303?\. \[illegible\] Gnoli translates the expression ‘mantratantra’ as the ‘science of mantras’. The word ‘tantra’ in this context can also be understood to mean ‘ritual procedure’, in which case the teacher should be an expert in the knowledge of mantras and their application to ritual.
+[^303]: \[illegible\] Gnoli translates the expression ‘mantratantra’ as the ‘science of mantras’. The word ‘tantra’ in this context can also be understood to mean ‘ritual procedure’, in which case the teacher should be an expert in the knowledge of mantras and their application to ritual.
 
 
 *[p. 119]* ^pg139
@@ -898,7 +900,7 @@ TM” Accordingly, he says:
 A True Teacher is a Master of Mantra 
 
 एतदर्थ गुरोर्यत्नाल्लक्षणे तत्र तत्र तत् ।
-लक्षणं कथितं ह्येष मत्रतच्रविशारटः (apoha).[^304] ६७ ॥।
+लक्षणं कथितं ह्येष मत्रतच्रविशारटः (apoha). ६७ ॥।
 
 etadarthaṁ guror yatnāl lakṣanṇe tatra tatra tat |
 lakṣaṇari kathitaṁ hy eṣa mantratantraviśāradaḥ ॥ 267 ॥ 
@@ -917,7 +919,7 @@ Thus, in this way, the teacher who is intent on the application (parisīilana) o
 tena mantrārthasaṁbodhe mantravārtikam ādarāt |
 ūhāpohaprayogaṁ vā sarvathā gurur ācaret ॥ 268 ॥ 
 
-Therefore, in order to awaken (the disciple) to the meaning (purpose, goal and ultimate nature of) Mantras (mantrārtha), the teacher should with (great) respect make use in every way of the explanation of the mantras (mantravārttika) (found in the scriptures and transmitted by the tradition), or (when they are used for ritual purposes,) apply the methods of modification (ūha) and exclusion (apoha). (268) (268cd-269ab) 
+Therefore, in order to awaken (the disciple) to the meaning (purpose, goal and ultimate nature of) Mantras (mantrārtha), the teacher should with (great) respect make use in every way of the explanation of the mantras (mantravārttika) (found in the scriptures and transmitted by the tradition), or (when they are used for ritual purposes,) apply the methods of modification (ūha) and exclusion (apoha).[^304] (268) (268cd-269ab) 
 
 #### Viveka on 16.268–269
 
@@ -946,7 +948,7 @@ Thus, he says:
 तदभ्यासात्तत्सङ्धल्यमयो ह्यसौ ॥ २६९ ॥
 \[illegible\] tładabhyāsāt tatsaṁkalpamayo hy asau ॥ 269 ॥ 
 
-By virtue of (his assiduous) practice (abhyāsa) of that, (the teacher) is identified with the intention (that initiates its use) (tatsankalpa). (268cd-270ab) 
+By virtue of (his assiduous) practice (abhyāsa) of that, (the teacher) is identified with[^305] the intention (that initiates its use) (tatsankalpa). (268cd-270ab) 
 
 #### Viveka on 16.268–270
 
@@ -965,7 +967,9 @@ If by (deep) contemplation (bhāvanā) of the meaning (purpose, goal and ultimat
 
 Surely (one may object) that it is not proved that they are the same in all respects. The (formative) process of (a type of discourse) that is other than Mantra is not the same (as that of Mantra). With this doubt in mind, he says: 
 
-305?\. \[illegible\] Literally ‘made of’. \[illegible\] kathā japaḥ ŚSāū 3/27.
+[^305]: \[illegible\] Literally ‘made of’.
+
+[^306]: \[illegible\] kathā japaḥ ŚSāū 3/27.
 
 
 *[p. 121]* ^pg141
@@ -1009,7 +1013,7 @@ All that he utters is a mantra, which bestows (both) worldly benefits and libera
 
 #### Viveka on 16.273
 
-The Lord has stated concisely with the same intended sense that ‘the talk (of a yogi in the Fourth State) is repetition of Mantra.” 
+The Lord has stated concisely with the same intended sense that ‘the talk (of a yogi in the Fourth State) is repetition of Mantra.’[^306] 
 
 However, this is not our view. Thus he says: 
 
@@ -1023,7 +1027,7 @@ However, this is not our view. Thus he says:
 naiṣo ‘bhinavaguptasya pakṣo mantrārpitātmanaḥ | 273 ॥
 yo ‘rthakriyām āha bhinnām kīṭayor api tādṛśoḥ | 
 
-This is not the view of Abhinavagupta, who has (wholly) dedicated himself to (the practice) of Mantras. He says the causal efficacy of two such” worms (one common and the other born from cow dung) differs. (273cd-274ab) (274) 
+This is not the view of Abhinavagupta, who has (wholly) dedicated himself to (the practice) of Mantras. He says the causal efficacy of two such[^307] worms (one common and the other born from cow dung) differs. (273cd-274ab) (274) 
 
 #### Viveka on 16.274
 
@@ -1045,16 +1049,16 @@ Whatever one who has offered his (whole) mind to Mantra says is (so powerful tha
 
 ‘One who has offered his (whole) mind to Mantra’ is one who has (contemplated and) made a connection with the vitality of Mantras. This is the meaning. ‘Whatever’ (he says,) whatever verse or prose. As was said before: 
 
-‘Therefore, knowing whatever verse or prose (he utters) united with the first and last (letter) in this way, he sees everything as Mantra.’ \[illegible\] 
+‘Therefore, knowing whatever verse or prose (he utters) united with the first and last (letter) in this way, he sees everything as Mantra.’ \[illegible\][^308] 
 
-306?\. One wonders whether to emend tādṛśoḥ — ‘such’ to sādr.íoh — ‘similar’. It is common Indian belief that worms can be born from cow dung. They are similar to normal worms born from other worms but, Abhinava insists, they are not the same. One fundamental difference is that worms born from cow dung cannot reproduce.
+[^307]: One wonders whether to emend tādṛśoḥ — ‘such’ to sādr.íoh — ‘similar’. It is common Indian belief that worms can be born from cow dung. They are similar to normal worms born from other worms but, Abhinava insists, they are not the same. One fundamental difference is that worms born from cow dung cannot reproduce.
 
-307?\. Above, 3/225. Also quoted ad 4/194.
+[^308]: Above, 3/225. Also quoted ad 4/194.
 
 
 *[p. 123]* ^pg143
 
-Surely (one may ask), if he manages to remedy poison and (do other) such things just by having offered his mind to Mantra, would that not happen by (his) utterance of any word at all, (even) without (some such) purpose? Yes indeed, (it would not). Thus he says: 
+Surely (one may ask), if he manages to remedy poison and (do other) such things just by having offered his mind to Mantra, would that not happen[^309] by (his) utterance of any word at all, (even) without (some such) purpose? Yes indeed, (it would not). Thus he says: 
 
 ### TĀ 16.275 (2)
 
@@ -1069,7 +1073,7 @@ He renders this (view) acceptable by way of an example also.
 
 ### TĀ 16.276–277
 
-कान्तासंभोगसञ्जल्पसुन्द्रः कामुकः सदा ॥ happen[^308] ॥
+कान्तासंभोगसञ्जल्पसुन्द्रः कामुकः सदा ॥ happen ॥
 तत्संस्कृतोऽप्यन्यदेष कुर्व्वात्मनि तप्यति ।
 तथा तन्मन्रसञ्जल्पभावितोऽन्यदपि त्रवन् || २७६ ॥।
 अनिच्छुरपि तद्रूपस्तथा कार्यकरो ध्रवम् |
@@ -1087,7 +1091,7 @@ A lover, who is beautiful with (the delight of) discourse and (joyful) union wit
 
 Surely (one may ask), even if there is no desire for the discourse of Mantra, how is it that (his discourse) manifests as being of that nature? With this doubt in mind, he says: 
 
-[^308]: Read kiiḥ na syāt for kiṁ syāt.
+[^309]: Read kiiḥ na syāt for kiṁ syāt.
 
 *[p. 124]* ^pg144
 
@@ -1096,7 +1100,7 @@ Surely (one may ask), even if there is no desire for the discourse of Mantra, ho
 विकल्पयन्नप्येकार्थं यतोऽन्यदपि पश्यति ।। २७७ । ||
 vikalpayann apy \[illegible\] yato ‘nyad api paśyati ॥ 277 ॥ 
 
-This is because, even though (a person may be engaged) in thinking one thing, he also sees (something) else (at the same time). (277cd) (278ab) 
+This is because, even though (a person may be engaged) in thinking one thing, he also sees (something) else (at the same time).[^310] (277cd) (278ab) 
 
 #### Viveka on 16.278
 
@@ -1109,27 +1113,27 @@ He supports this (view) with the words of scripture.
 विषापहारिमन््रादीत्युक्त श्रीपूर्वशासने ।
 viṣāpahārimantrādīty uktaṁ Śrīpūrvaśāsane | 
 
-It is said in the Mālinīvijayottara (śŚrīpūrvaśāsana): ‘(Armed with) the mantras and the rest that counter poison and what follows. (278ab) (278cd) 
+It is said in the Mālinīvijayottara (śŚrīpūrvaśāsana): ‘(Armed with) the mantras and the rest that counter poison[^311] and what follows. (278ab) (278cd) 
 
 #### Viveka on 16.278 (2)
 
-And that is what is (said) there:”? 
+And that is what is (said) there:[^312] 
 
-‘Even though he is engaged in enjoying the objects of the senses (bhuñjāno viṣayān api), he whose mind does not waiver from reality is untouched by (their) defects, just as a lotus petal is (unaffected) by water. He who is armed with the Mantras etc. that counter poison, even though he ingests it, it does not make him lose his senses. Such is a yogi of great wisdom." 
+‘Even though he is engaged in enjoying the objects of the senses (bhuñjāno viṣayān api), he whose mind does not waiver from reality is untouched by (their) defects, just as a lotus petal is (unaffected) by water. He who is armed with the Mantras etc. that counter poison, even though he ingests it, it does not make him lose his senses. Such is a yogi of great wisdom.’[^313] 
 
-The meaning here is (as follows). He who knows the antidotes of poisons (jāṁgulika), although he eats poison, he sees himself as being established in his own nature (and so does not faint). In the same way, although a yogi of great wisdom enjoys the objects of sense, his mind does not waver, and so attains the supreme reality.’ 
+The meaning here is (as follows). He who knows the antidotes of poisons (jāṁgulika), although he eats poison, he sees himself as being established in his own nature (and so does not faint). In the same way, although a yogi of great wisdom enjoys the objects of sense, his mind does not waver, and so attains the supreme reality.’[^314] 
 
 If he who is (dedicated to and) well established in the meaning (purpose, goal and ultimate nature of) Mantras (mantrārthaniṣtha), saying what has been said (before by others), remedies poison, that (accomplishment) is the unfolding of Mantra itself, not of (some) words other than that. He (now) states another view there with regards to that. 
 
-310\. Gnoli: “This verse is a quote from Dharmakīrti’s PV 3/207. It is also quoted in the the PTv p. 199, ĪPVv vol. 2, p. 415 and vol. 3, p. 140 and 389. According to Abhinavagupta, and so too the Buddhists, several forms of knowledge can exist at the same time. For the arguments related to this verse, see Tilmann Vetter 1964, pp. 64-71. “As the venerable Utpaladeva has established in his commentary \[illegible\] on (his own) Īśvarapratyabhijñā. The means (yukti) to enter here (into this pure non-discursive consciousness is as follows): ‘one sees one thing, hears another, one does something and says something else, one thinks one thing and enjoys something else.” As the venerable Śrīkanṭha has said (in the Svacchandatantra 7/57cd): “The mind cast in one place, the eye falling in another — this is how the vital breath functions, effortlessly at all times.” PTv p. 196 SvT 7/57cd is also quoted above in TĀv ad 6/24ab.
+[^310]: Gnoli: “This verse is a quote from Dharmakīrti’s PV 3/207. It is also quoted in the the PTv p. 199, ĪPVv vol. 2, p. 415 and vol. 3, p. 140 and 389. According to Abhinavagupta, and so too the Buddhists, several forms of knowledge can exist at the same time. For the arguments related to this verse, see Tilmann Vetter 1964, pp. 64-71. “As the venerable Utpaladeva has established in his commentary \[illegible\] on (his own) Īśvarapratyabhijñā. The means (yukti) to enter here (into this pure non-discursive consciousness is as follows): ‘one sees one thing, hears another, one does something and says something else, one thinks one thing and enjoys something else.” As the venerable Śrīkanṭha has said (in the Svacchandatantra 7/57cd): “The mind cast in one place, the eye falling in another — this is how the vital breath functions, effortlessly at all times.” PTv p. 196 SvT 7/57cd is also quoted above in TĀv ad 6/24ab.
 
-311\. MV 18/81a.
+[^311]: MV 18/81a.
 
-312\. Read tathā ca for tathāca.
+[^312]: Read tathā ca for tathāca.
 
-313\. MV 18/80-81, quoted above in 4/219cd-221ab.
+[^313]: MV 18/80-81, quoted above in 4/219cd-221ab.
 
-314\. Read zattvam eti for tattvam iti.
+[^314]: Read zattvam eti for tattvam iti.
 
 
 *[p. 125]* ^pg145
@@ -1141,7 +1145,7 @@ If he who is (dedicated to and) well established in the meaning (purpose, goal a
 yadi vā viṣanāśe ‘pi hetubhedād vicitratā ॥ 278 ॥
 dhātvāpyāyādikānantakāryabhedā bhaviṣyati | 
 
-Or else it is (reasonable to maintain that) if when the poison is destroyed there will also be a variety of (other) endless, differing effects,” including the nourishment of the vital essences and the like, it is due to a diversity of causes. "\^ (278cd-279ab) (279) 
+Or else it is (reasonable to maintain that) if when the poison is destroyed there will also be a variety of (other) endless, differing effects,[^315] including the nourishment of the vital essences and the like, it is due to a diversity of causes.[^316] (278cd-279ab) (279) 
 
 #### Viveka on 16.279
 
@@ -1162,9 +1166,9 @@ In this way, by the yoga of the practice of the discourse (saṁjalpa) and thoug
 
 ‘Clarity’ is the immediate direct (experience) of ‘the reality that is the object of meditation’, that is, the Mantra deity contemplated as one with oneself. (This is achieved) by subordinating (worldly) discourse (in consonance with) the progressive development (fāratamya) of the practice of the words (Śabda) and reflective awareness (of the meaning) of Mantra, by the process (krama) that has been taught (takes place) in this way. This is the meaning. 
 
-315\. Read kāryabhedā for kāryabhedād.
+[^315]: Read kāryabhedā for kāryabhedād.
 
-316?\. The principal effect, which is the destruction of the poison, is brought about by the power of the Mantra, and not by the words that may accompany it. However, these may produce secondary effects, about which see above, 1/114cd-122ab (115-122).
+[^316]: The principal effect, which is the destruction of the poison, is brought about by the power of the Mantra, and not by the words that may accompany it. However, these may produce secondary effects, about which see above, 1/114cd-122ab (115-122).
 
 
 *[p. 126]* ^pg146
@@ -1193,7 +1197,7 @@ evar sañjalpaniṁrāse suparisphutatātmakam ॥ 281 ॥ akṛtrimavimarśātm
 
 As (the inner) discourse (of thought) decreases in this way, reality (vastu) manifests 
 
-radiantly as fully evident, authentic (akṛtrima), nonconceptual (avikalpaka) reflective awareness.” (281cd-282ab) (282) 
+radiantly as fully evident, authentic (akṛtrima), nonconceptual (avikalpaka) reflective awareness.[^317] (281cd-282ab) (282) 
 
 #### Viveka on 16.282
 
@@ -1204,7 +1208,7 @@ Surely (one may ask), it is said that, even in (states of intense emotion in whi
 निर्विकल्पा च सा संविद्यद्यथा पश्यति स्फुटम् ॥ २८२ ॥
 तत्तथैव तथात्मत्वाद्रस्तुनोऽपि बहिःस्थितेः |
 
-317?\. Abhinava explains here that the purpose of mantras is to transport the practitioner from thought (vikalpa) to the inner discourse (saṁjalpa) of which it consists, to the manifestation of its object as it truly is, that is, consciousness, and then finally to the authentic, uncreated (akṛtrima), non-discursive (avikalpa) reality of the mantra-deity, which is essentially the pure reflective awareness of the light of consciousness.
+[^317]: Abhinava explains here that the purpose of mantras is to transport the practitioner from thought (vikalpa) to the inner discourse (saṁjalpa) of which it consists, to the manifestation of its object as it truly is, that is, consciousness, and then finally to the authentic, uncreated (akṛtrima), non-discursive (avikalpa) reality of the mantra-deity, which is essentially the pure reflective awareness of the light of consciousness.
 
 
 *[p. 127]* ^pg147
@@ -1232,13 +1236,13 @@ The means to liberation (used by a teacher) who is one with (his own essential) 
 
 #### Viveka on 16.284
 
-(The teacher teaches) ‘the means to liberation’ of (his) disciple. Surely (one may ask), according to the saying that ‘all (discursive) thought (vikalpa) is transmigratory existence’, (intentional) thought (saṁkalpa) should be binding.” How is it that here, on the contrary, it is said to be a means to liberation? With this doubt in mind, he says ‘indeed, (both) liberation and bondage are due to this’. Here (according to us), liberation and bondage depend on the (intentional) thought (saṁkalpa) of the teacher ‘who is one with (his own essential) Śiva nature (śivatā) that is free of Māyā’. However, there is this much difference (between them), namely, bondage exists in the state of duality (bhedamayatā), otherwise (if that state of duality does not prevail, the soul attains) liberation. 
+(The teacher teaches) ‘the means to liberation’ of (his) disciple. Surely (one may ask), according to the saying that ‘all (discursive) thought (vikalpa) is transmigratory existence’,[^318] (intentional) thought (saṁkalpa) should be binding.[^319] How is it that here, on the contrary, it is said to be a means to liberation? With this doubt in mind, he says ‘indeed, (both) liberation and bondage are due to this’. Here (according to us), liberation and bondage depend on the (intentional) thought (saṁkalpa) of the teacher ‘who is one with (his own essential) Śiva nature (śivatā) that is free of Māyā’. However, there is this much difference (between them), namely, bondage exists in the state of duality (bhedamayatā), otherwise (if that state of duality does not prevail, the soul attains) liberation. 
 
 Surely, (one may object that,) even so, according to us that is logically correct, because (liberation) is ultimately a condition free of thought, certainly not otherwise. So how is it possible that liberation is due to just (the teacher’s) discourse alone? With this doubt in mind, he says: 
 
-318?\. This dictum is also quoted above in TĀv ad 1/24, 1/214, 4/11 1cd-1 13ab and 14/13.
+[^318]: This dictum is also quoted above in TĀv ad 1/24, 1/214, 4/11 1cd-1 13ab and 14/13.
 
-319?\. Tt appears that Jayaratha reads saṁkalpo (thought, intention) for saṁjalpo (discourse). The context clearly indicates that that is not correct. One could perhaps emend the text to saṁjalpād from saṁkalpād, but the reading saṁkalpād is confirmed a little further ahead. Even so, introducing the following verse, Jayaratha asks how liberation is possible ‘just by discourse alone’, suggesting that he did have the reading in the printed edition of the verse in the Tantrāloka before him, and that he tacitly understood that discourse implies ideation.
+[^319]: Tt appears that Jayaratha reads saṁkalpo (thought, intention) for saṁjalpo (discourse). The context clearly indicates that that is not correct. One could perhaps emend the text to saṁjalpād from saṁkalpād, but the reading saṁkalpād is confirmed a little further ahead. Even so, introducing the following verse, Jayaratha asks how liberation is possible ‘just by discourse alone’, suggesting that he did have the reading in the printed edition of the verse in the Tantrāloka before him, and that he tacitly understood that discourse implies ideation.
 
 
 *[p. 128]* ^pg148
@@ -1250,7 +1254,7 @@ Surely, (one may object that,) even so, according to us that is logically correc
 
 vikalpe ‘pi guroḥ samyagabhinnaśivatājuṣaḥ ॥ 284 ॥ avikalpakaparyantaparīkṣā nopayujyate | 
 
-Even if a teacher who is an authentic state of identity with Śiva is engaged in thought, it is not necessary (nor proper) to examine” whether he is ultimately free of thought constructs. (284cd-285ab) (285) 
+Even if a teacher who is an authentic state of identity with Śiva is engaged in thought, it is not necessary (nor proper) to examine[^320] whether he is ultimately free of thought constructs. (284cd-285ab) (285) 
 
 #### Viveka on 16.285
 
@@ -1272,19 +1276,17 @@ The Mantra deity expressed (by the Mantra) (vāycā) is the reflective awareness
 
 #### Viveka on 16.286
 
-The sense is that Mantra is (spontaneously,) by itself alone, (inherently) consciousness devoid of thought constructs. As Mantras and the like are in this way very close to supreme consciousness, those who adhere to them are capable of achieving success (siddhi). 
+The sense is that Mantra is (spontaneously,) by itself alone, (inherently) consciousness devoid of thought constructs.[^321] As Mantras and the like are in this way very close to supreme consciousness, those who adhere to them are capable of achieving success (siddhi).[^322] 
 
-”? 
+(The following) is said in order to state that by way of an analogy.[^323] 
 
-(The following) is said in order to state that by way of an analogy.” 
+[^320]: MS T reads -pārīkṣyā for -pratīkṣā. Emend to -parīkṣā.
 
-320?\. MS T reads -pārīkṣyā for -pratīkṣā. Emend to -parīkṣā.
+[^321]: Read evāvikalpa- for evāvilpaka-.
 
-321?\. Read evāvikalpa- for evāvilpaka-.
+[^322]: MS Threads tadāyattāṁ (which agrees with siddhiṁ) for tadāyattāḥ (which agrees with mantrādayas). If we accept the reading in manuscript Th, the meaning would be “((Mantras) are capable of achieving (for those who utter them) the accomplishment of) adhering to that (consciousness).
 
-322?\. MS Threads tadāyattāṁ (which agrees with siddhiṁ) for tadāyattāḥ (which agrees with mantrādayas). If we accept the reading in manuscript Th, the meaning would be “((Mantras) are capable of achieving (for those who utter them) the accomplishment of) adhering to that (consciousness).
-
-323?\. \[illegible\] Tt is very likely that the following verse is drawn from the Gamatantra. The term ‘vimarśa’ (reflective awareness’) is almost entirely absent in the primary sources. Thus, its usage in the previous verse can be taken as evidence that it is composed by Abhinava as a gloss on the one that follows, which is drawn from the Gamatantra. Cf. above 1/150-151 where a verse drawn from the Gamatantra is introduced as being from there, at the end of the previous line.
+[^323]: \[illegible\] Tt is very likely that the following verse is drawn from the Gamatantra. The term ‘vimarśa’ (reflective awareness’) is almost entirely absent in the primary sources. Thus, its usage in the previous verse can be taken as evidence that it is composed by Abhinava as a gloss on the one that follows, which is drawn from the Gamatantra. Cf. above 1/150-151 where a verse drawn from the Gamatantra is introduced as being from there, at the end of the previous line.
 
 
 *[p. 129]* ^pg149
@@ -1315,19 +1317,19 @@ Moreover, that is also said in our scripture. Thus, he says:
 uktābhiprāyagarbhaṁ tad uktaṁ śrīmālinīmate ॥ 287 ॥
 mantrāṇāṁ lakṣaṇaṁ kasmād ity ukte munibhiḥ kila | 
 
-What is said in the venerable Mālinīmata has the (same) intended sense as has (just) been stated (here), as when the sages asked (Kumāra), “what is the purpose of (the defining) the characteristic feature of Mantras?” (287cd-288ab) (288) 
+What is said in the venerable Mālinīmata has the (same) intended sense as has (just) been stated (here), as when the sages asked (Kumāra), “what is the purpose of (the defining) the characteristic feature of Mantras?”[^324] (287cd-288ab) (288) 
 
 #### Viveka on 16.288
 
 The sense of (the sages asking) “what is the purpose?” is, why is the characteristic feature of Mantras stated (in the Tantra) when a question has been asked concerning Yoga? As is said (there): 
 
-‘The Lord has been questioned by the goddess concerning the procedure (to follow on) the path of Yoga. Why then, although he had consented to (answer that question,) has he taught the characteristic feature of Mantras?” 
+‘The Lord has been questioned by the goddess concerning the procedure (to follow on) the path of Yoga. Why then, although he had consented to (answer that question,) has he taught the characteristic feature of Mantras?’[^325] 
 
 Desiring to answer the sages’ question, Kārtikeya (said) that it is taught (there) as an auxiliary (limb) of Yoga. Thus, in order to explain this, he says: 
 
-324?\. \[illegible\] Abhinava is broadly referring to MV 4/2, which is quoted by Jayaratha in the commentary.
+[^324]: \[illegible\] Abhinava is broadly referring to MV 4/2, which is quoted by Jayaratha in the commentary.
 
-325?\. MV 4/2.
+[^325]: MV 4/2.
 
 
 *[p. 130]* ^pg150
@@ -1360,35 +1362,35 @@ dvividhā sā prakartavyā tena caitad udāhṛtam ॥ 291 ॥
 na ca yogādhikāritvam ekamevānayā bhavet |
 api mantrādhikāritvaṁ muktiśca śivadīkṣayā ॥ 292 ॥ 
 
-‘The (wise) maintain that Yoga (which literally means ‘union’) is the oneness of one entity (vastu) with another. That which is (this other) entity, is said to be what needs to be known in order to achieve (the prescribed) avoidance (of what obstructs the attainment of the goal, and what should be adopted to achieve it). Śiva has uttered the knowledge described (in this way) so that it may be achieved.” 
+‘The (wise) maintain that Yoga (which literally means ‘union’) is the oneness of one entity (vastu) with another. That which is (this other) entity,[^326] is said to be what needs to be known in order to achieve (the prescribed) avoidance (of what obstructs the attainment of the goal, and what should be adopted to achieve it). Śiva has uttered the knowledge described (in this way) so that it may be achieved.[^327] 
 
-(Thus,) in order to achieve Yoga with seed (sabījayoga);” (knowledge just of) the characteristics of Mantras is (not) sufficient. There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation.” Moreover, (initiation) is said to be of two kinds, in accord with the 
+(Thus,) in order to achieve Yoga with seed (sabījayoga);[^328] (knowledge just of) the characteristics of Mantras is (not) sufficient. There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation.[^329] Moreover, (initiation) is said to be of two kinds, in accord with the 
 
-326?\. Read with the edition of the MV, yadvastu for tadvastu.
+[^326]: Read with the edition of the MV, yadvastu for tadvastu.
 
-327?\. \[illegible\] Abhinava omits MV 4/5ab, perhaps because it was not found in his manuscript or was added later as a gloss. It reads: dvirūpam api taj jṁñānaṁ vinā jñātuṁ na śakyate | “It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (jñāna).
+[^327]: \[illegible\] Abhinava omits MV 4/5ab, perhaps because it was not found in his manuscript or was added later as a gloss. It reads: dvirūpam api taj jṁñānaṁ vinā jñātuṁ na śakyate | “It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (jñāna).
 
-328?\. ‘concentration with seed’ — in Patañjali’s Yoga (YSū 1/46 ʻā eva sabījaḥ samādhiḥ). According to the Yogasūtrabhāṣya, the term denotes the four kinds of meditative attainments (5 ti) related to gross and subtle external objects (ibid. tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ).
+[^328]: ‘concentration with seed’ — in Patañjali’s Yoga (YSū 1/46 ʻā eva sabījaḥ samādhiḥ). According to the Yogasūtrabhāṣya, the term denotes the four kinds of meditative attainments (5 ti) related to gross and subtle external objects (ibid. tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ).
 
-329?\. \[illegible\] See above note 1,1172 to TĀv ad 1/231cd-232ab (232).
+[^329]: \[illegible\] See above note 1,1172 to TĀv ad 1/231cd-232ab (232).
 
 
 *[p. 131]* ^pg151
 
-distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said because that (initiation) should be performed in the two (corresponding) ways.[^330] Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself). (288cd-292) (289-293ab) 
+distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said because that (initiation) should be performed in the two (corresponding) ways.[^330] Śiva’s initiation not only confers entitlement (to the fruits of) Yoga (and its practice), it also (confers the) authority (to practice) Mantras as well as liberation (itself).[^331] (288cd-292) (289-293ab) 
 
 #### Viveka on 16.289–293
 
-As this has been explained before,” its meaning has been clarified and so is not analysed and explained here again. 
+As this has been explained before,[^332] its meaning has been clarified and so is not analysed and explained here again. 
 
 ### TĀ 16.293–295
 
 Initiation is Essential for Liberating Mantra Practice 
 
 अनेनैतदपि प्रोक्तं योगी तत्त्वैक्यसिद्धये ।
-मन््रमेवाश्रयेन्मूलं निर्विकल्पान्तमादूतः । (itself).[^331] ॥
+मन््रमेवाश्रयेन्मूलं निर्विकल्पान्तमादूतः । (itself). ॥
 मन्राभ्यासेन भोगं वा मोक्ष वापि प्रसाधयन् |
-तत्राधिकारितालब्ध्यै दीक्षां गृहीत दैशिकात् | before,[^332] ॥
+तत्राधिकारितालब्ध्यै दीक्षां गृहीत दैशिकात् | before, ॥
 
 anenaitadapi proktaṁ yogī tattvaikyasiddhaye |
 mantram evāśrayen mūlaṁ nirvikalpāntam ādṛtaḥ ॥ 293 ॥
@@ -1400,8 +1402,11 @@ It is also stated with these (words) that, in order to achieve oneness with (ult
 #### Viveka on 16.293–295
 
 [^330]: These are the Initiation by Action (kriyādīkṣā) and Initiation by Knowledge (jñānadīkṣā).
+
 [^331]: Verses 288cd-292 (289-293ab) are a direct literal quotation of MVT 4/4, 5cd-8 with no variants, with respect to Somadeva’s edition.
+
 [^332]: See above, 15/5-7, commentary and notes. MV 4/4-5 is quoted and discussed above in note to 1/150 note 1,952.
+
 [^333]: Commenting on the passage he has just quoted, Abhinava tells us here that he has quoted it in order to confirm the nondualist teaching that mantras are essentially non-dichotomizing awareness. The point is that for the yogi to achieve oneness with reality (tattvaikya), he should dedicate himself totally to the practice of the root Mantra until he achieves nondiscursive awareness. He is entitled and fit to do this once he has received initiation from a Śaiva teacher. This is in accord with the MV, that declares: ‘(Another,) having obtained the initiation into Yoga, and having understood (it), should practice yoga. (Thus, he first) attains the (magical) accomplishment (siddhi) (that comes from) yoga, and at the end of that, the eternal plane (of existence). After having attained initiation into yoga (yogadīkṣā) and learnt (the fundamentals of) yoga, he should practice (it). (Thus,) he will attain perfection in yoga, and at the end of it, the eternal state. Once the supreme plane has been attained by means of this gradual union (kramayoga), one never retums to the fettered state, (but always) abides within one’s own pure Self.’ MV 1/46-47.
 
 *[p. 132]* ^pg152
@@ -1417,13 +1422,13 @@ tat syād asyānyatattve ‘pi yuktasya guruṇā śiśoḥ ॥ 295 ॥
 
 ### TĀ 16.295–296
 
-Thus, even though the disciple may have been applied (yukta) by the teacher to (some) other principle (tattva), he can (nevertheless) accomplish every single thing (fat tat) there may be (in any of the principles) by the might (bala) of Mantra, knowledge and Yoga. (295) (295cd-296ab) 
+Thus, even though the disciple may have been applied (yukta) by the teacher to (some) other principle (tattva), he can (nevertheless) accomplish every single thing (fat tat)[^334] there may be (in any of the principles) by the might (bala) of Mantra, knowledge and Yoga. (295) (295cd-296ab) 
 
 #### Viveka on 16.295–296
 
 ‘Applied (yukta)’ means conjoined. By (saying) this, (he) also indicates the various kinds of conjunctions etc. 
 
-Surely (one may ask), if (the disciple) is conjoined by the teacher to (some) other principle, then how is it that by his own strength (bala) alone he can have the worldly benefits or (even) liberation of another (principle)? With this doubt in mind, he says: 
+Surely (one may ask), if (the disciple) is conjoined by the teacher to (some) other principle, then how is it that by his own strength (bala) alone he can have the worldly benefits or (even) liberation of another (principle)?[^335] With this doubt in mind, he says: 
 
 ### TĀ 16.296–297
 
@@ -1432,25 +1437,25 @@ Surely (one may ask), if (the disciple) is conjoined by the teacher to (some) ot
 dīkṣā hy asyopayujyeta sarniskriyāyāṁ sa saṁskṛtaḥ |
 svabalenaiva bhogaṁ vā mokṣaṁ vā labhate budhaḥ ॥ 296 ॥ 
 
-(The disciple’s) initiation should rightly serve to purify (him). (Once he is) purified (and empowered thereby), he, wise (as he is), obtains worldly benefits or (attains) liberation (as the case may be) by his own (inherent) strength (svabala) alone. (296) (296cd-297ab) 
+(The disciple’s) initiation should rightly serve to purify (him). (Once he is) purified (and empowered thereby), he, wise (as he is), obtains worldly benefits or (attains) liberation (as the case may be) by his own (inherent) strength (svabala) alone.[^336] (296) (296cd-297ab) 
 
 #### Viveka on 16.296–297
 
-334?\. Read tat tat prasādhayet for yat yat prasādhayet and yat syād- for tat syād-.
+[^334]: Read tat tat prasādhayet for yat yat prasādhayet and yat syād- for tat syād-.
 
-335?\. Read anyasya for anyathā.
+[^335]: Read anyasya for anyathā.
 
-336?\. Abhinava is drawing the term ‘svabala’ — ‘inherent strength’ — from the Spanda teachings, extending its application. ‘Seizing that strength (bala), Mantras, endowed with the power of omniscience, perform their functions, as do the senses of the embodied.” SpKā 26 Bhagavadutpala explains: ‘Mantras can be in the form of seed-syllables (bīja), aggregates of syllables (pinda), or words (pāda). They possess the attributes of reflection (manana) and salvation (trāna), energized as thcy are by the awakening of the power of the Natural Sound (of universal consciousness, sahajanāda). When one who recites mantra makes use of them with reverence, they fulfil their functions of bestowing grace and the rest by virtue of their omniscience and other powers, by ‘seizing’ and assuming as their support the ‘strength’ which is the exuberant outpouring of unobscured consciousness known as (its) Supreme Power, as do the hands, feet, and other senses of the embodied soul. What is meant by this is that, he who recites mantras can apply them as he likes through a mere act of will, by being conscious of the supreme principle that resides within them.’ Dyczkowski 1992: 160 ‘Just as an object which is not seen clearly at first, even when the mind attends to it carefully, later becomes fully evident when observed through the effort exerted through one’s own (inherent) strength (svabala); when the yogi lays hold of that same power in that same way, whatever (he perceives manifests to him) quickly, in accord with its true nature (paramārthena), whatever be its form, locus, time or state.’ SpKā 36-37 Kallaṭabhaṭta comments: ‘Just as a man, though attentive, does not at first discern the nature of some distant object, (although it does subsequently) become clearly apparent (to him) without his having to move at all, when he exerts a special effort to perceive it, just so, by this same special effort, anything of whatever nature at whatever time, in whichever place and whatever form it might be, becomes quickly manifest in that very way for (the yogi) who is established in his inherent strength (svabala), that is his essential nature (svasvabhāva), because it is free of obscuration. Therefore, it is not at all surprising (if he) knows the past and the future of (any) finite object.” Op. cit. p. 114.
+[^336]: Abhinava is drawing the term ‘svabala’ — ‘inherent strength’ — from the Spanda teachings, extending its application. ‘Seizing that strength (bala), Mantras, endowed with the power of omniscience, perform their functions, as do the senses of the embodied.” SpKā 26 Bhagavadutpala explains: ‘Mantras can be in the form of seed-syllables (bīja), aggregates of syllables (pinda), or words (pāda). They possess the attributes of reflection (manana) and salvation (trāna), energized as thcy are by the awakening of the power of the Natural Sound (of universal consciousness, sahajanāda). When one who recites mantra makes use of them with reverence, they fulfil their functions of bestowing grace and the rest by virtue of their omniscience and other powers, by ‘seizing’ and assuming as their support the ‘strength’ which is the exuberant outpouring of unobscured consciousness known as (its) Supreme Power, as do the hands, feet, and other senses of the embodied soul. What is meant by this is that, he who recites mantras can apply them as he likes through a mere act of will, by being conscious of the supreme principle that resides within them.’ Dyczkowski 1992: 160 ‘Just as an object which is not seen clearly at first, even when the mind attends to it carefully, later becomes fully evident when observed through the effort exerted through one’s own (inherent) strength (svabala); when the yogi lays hold of that same power in that same way, whatever (he perceives manifests to him) quickly, in accord with its true nature (paramārthena), whatever be its form, locus, time or state.’ SpKā 36-37 Kallaṭabhaṭta comments: ‘Just as a man, though attentive, does not at first discern the nature of some distant object, (although it does subsequently) become clearly apparent (to him) without his having to move at all, when he exerts a special effort to perceive it, just so, by this same special effort, anything of whatever nature at whatever time, in whichever place and whatever form it might be, becomes quickly manifest in that very way for (the yogi) who is established in his inherent strength (svabala), that is his essential nature (svasvabhāva), because it is free of obscuration. Therefore, it is not at all surprising (if he) knows the past and the future of (any) finite object.” Op. cit. p. 114.
 
 
 *[p. 133]* ^pg153
 
-Thus, although he has been purified?” in the course of initiation, there should be no discipline (niyama) (for him to which) the regular and other (kinds of initiates are bound by taking initiation). Accordingly, he says: 
+Thus, although he has been purified[^337] in the course of initiation, there should be no discipline (niyama) (for him to which) the regular and other (kinds of initiates are bound by taking initiation). Accordingly, he says: 
 
 ### TĀ 16.297–298
 
 तेन विज्ञानयोगादिबली प्राक् समयी भवन् ।
-पुत्रको वा न तावान्स्यादपि तु स्वबलोचितः ॥ purified[^337] ॥
+पुत्रको वा न तावान्स्यादपि तु स्वबलोचितः ॥ purified ॥
 
 tena vijñānayogādibalī prāk samayī bhavan |
 putrako vā na tāvān syād api tu svabalocitaḥ ॥ 297 ॥ 

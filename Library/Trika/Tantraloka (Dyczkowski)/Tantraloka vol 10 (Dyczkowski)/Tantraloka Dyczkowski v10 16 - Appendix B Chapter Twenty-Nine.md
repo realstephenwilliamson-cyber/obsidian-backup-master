@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 Appendix B to Chapter Twenty-nine 
 
-Chapter Twenty of the Fourth Satka of the Jayadrathayāmala called Tantrācāranirnaya' 
+Chapter Twenty of the Fourth Satka of the Jayadrathayāmala called Tantrācāranirnaya[^584] 
 
 evam ākaṁya sā devī praharṣānandanirbharā |
 punaḥ provāca \[kh: provoca\] devesam pranipatya jagad gurum || 1 || 
@@ -50,7 +50,7 @@ sa mādhaveti vijṁeyaḥ \[g: -yo\] kuleśaḥ kulabhāskaraḥ ॥ 8 ॥
 ajo ‘vyayaḥ praśāntātmā \[g: praśātrātmā\] sṛṣtisamhārakārakaḥ |
 mahāghoravaraś candaḥ kulabhairava ity asau | 9 ॥ 
 
-584?\. Abhinava quotes several passages from this chapter that he integrates into the Ādyayāga taught in Chapter Twenty-nine. Indeed, all the citations drawn from this passage are found there.
+[^584]: Abhinava quotes several passages from this chapter that he integrates into the Ādyayāga taught in Chapter Twenty-nine. Indeed, all the citations drawn from this passage are found there.
 
 
 *[p. 426]* ^pg443
@@ -94,27 +94,27 @@ tatrāntaragataīi bhāti \[g: bhātis\] tadraśmivalitari \[g: -tadrasmi-\] sad
 navayāgaratā devyaḥ \[g: devyo\] pūjayeta gṁeśvaram |
 tadvat pūjā prakartavyā navadhā navacakragā \[kh g: nacacakragā\] ॥ 20 ॥ 
 
-Its Lord and its foundation should be worshipped within the sequence of each wheel. It shines constantly within it, encompassed by its rays. Just as the goddesses devoted to the sacrifice of the nine, worship the lord of the house,? in the same way one should perform the rite of worship nine times within the nine wheels.’ (19-20) 
+Its Lord and its foundation should be worshipped within the sequence of each wheel. It shines constantly within it, encompassed by its rays. Just as the goddesses devoted to the sacrifice of the nine, worship the lord of the house,[^585] in the same way one should perform the rite of worship nine times within the nine wheels.[^586] (19-20) 
 
 navā navoditānantā naṁdinī navagahvarā |
 yāvat ṣodaśakami \[kh: yāvacchātrakami; g: yāvacchodakarni\] cakran tāvad eva \[kh g: deva\] prakalpayet ॥ 21 ॥
 etadādhāragā ghorā kālī kālaniṣ saptadaśapadāntasthā \[g: saptā-\] sā jṁeyā mādhaveśvarī || 22 || mahāmādhavikā saiva jñeyā kulakarankinī |
 24477161 tasmāt taṁtravare prāptājñā \[k g: -jā\] matasamijñake \[k g; mātra-\] \\ 23 ॥ 
 
-She who is Nine (Navā), arisen from the nine, is endless, rejoicing (nandini), ), she (resides in) nine caves. She should be conceived up to the sixteenth wheel. She who is present in its foundation is Kālī, the Destructress of Time. She is Mādhveśvarī, present on the plane of the seventeen (energies) (of Kālasaṁkarṣiṇī’s Vidyā). She is the great (goddess) Mādhavikā and she should be known as Kulakarankinī, for she has obtained the (empowering) command (ājñā) in the excellent Tantra called the Mata. (21-23) 
+She who is Nine (Navā), arisen from the nine, is endless, rejoicing (nandini), ), she (resides in) nine caves.[^587] She should be conceived up to the sixteenth wheel. She who is present in its foundation is Kālī, the Destructress of Time. She is Mādhveśvarī, present on the plane of the seventeen (energies) (of Kālasaṁkarṣiṇī’s Vidyā). She is the great (goddess) Mādhavikā and she should be known as Kulakarankinī, for she has obtained the (empowering) command (ājñā) in the excellent Tantra called the Mata.[^588] (21-23) 
 
 tatsthā taccakragā kālī kulakālīti kīrttitā |
 asmin \[kh: tasmin\] taṁtravare \[kh: tatravare\] devi sugūdhā gūdhavikramā ॥ 24
 ॥
 uktā ca vakṣyamāṇā ca suguptā gūdhagocarā | 
 
-585?\. Read with the JY, gṁeśvaram or yatheśvaram.
+[^585]: Read with the JY, gṁeśvaram or yatheśvaram.
 
-586?\. Quoted in TĀv ad 29/66, where Abhinava refers to Navayāga. The Nine are low caste women and a virgin girl worshipped in the subsidiary rite (anuyāga) of the Ādyayāga, in which Siddhas and Yoginīs assemble together.
+[^586]: Quoted in TĀv ad 29/66, where Abhinava refers to Navayāga. The Nine are low caste women and a virgin girl worshipped in the subsidiary rite (anuyāga) of the Ādyayāga, in which Siddhas and Yoginīs assemble together.
 
-587?\. I suppose the nine caves are the nine cavities of the body, that is, the two eyes, ears and nostrils along with the anus and the genitals.
+[^587]: I suppose the nine caves are the nine cavities of the body, that is, the two eyes, ears and nostrils along with the anus and the genitals.
 
-588?\. I suppose the Matatantra meant here is the Jayadrathayāmala.
+[^588]: I suppose the Matatantra meant here is the Jayadrathayāmala.
 
 
 *[p. 428]* ^pg445
@@ -517,7 +517,7 @@ rudraloke tu gacchanti yāvaccandrārkatārakāḥ \[g: - tārākāh\] \\\\ 139 
 
 The venerable Bhairava said: 
 
-One should in all cases appoint a female partner (diiti) ) (whose) clothes are very beautiful and (who) possesses the energies of the Mothers. He who is without a dūti is not successful.” (She is selected) by means of the procedure taught in the assembly (cakra). Listen, then, to me (concerning its) greatness. Having extracted ten million Kulas and eight groups of twenty-one, they go to Rudra’s abode, as many as are the Moon, Sun and stars, by the procedure taught in the assembly, if its nature is contemplated (and thus purified). (137-140ab) akulīnaiś ca sanparkāt \[k kh: sanparkā\] tatkulāt patanaṁ bhavet || 140 ||
+One should in all cases appoint a female partner (diiti) ) (whose) clothes are very beautiful and (who) possesses the energies of the Mothers. He who is without a dūti is not successful.[^590] (She is selected) by means of the procedure taught in the assembly (cakra). Listen, then, to me (concerning its) greatness. Having extracted ten million Kulas and eight groups of twenty-one, they go to Rudra’s abode, as many as are the Moon, Sun and stars, by the procedure taught in the assembly, if its nature is contemplated (and thus purified). (137-140ab) akulīnaiś ca sanparkāt \[k kh: sanparkā\] tatkulāt patanaṁ bhavet || 140 ||
 ekapātre kulīāmnāye kāryaṁn nānyat kadācana |
 yad icched ātmanaḥ śreyeḥ \[g: śreyo\] siddhir vā vīravandite \\\\ 141 ॥
 Jīvitaṁ suciraṁ nātha \[kh g: vātha\] yoginyo melakaś ca vā |
@@ -527,11 +527,11 @@ teṣu sahbhāṣaṇnar varjyaṁ \[g: vajyam\] \] saṁsparśaṁ kin punaḥ 
 ॥
 adīkṣitajanasparśāt snānam āgneyamācaret | 
 
-By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise," if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with 
+By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise,[^591] if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with 
 
-590?\. Line 138ab is quoted in TĀv ad 29/96.
+[^590]: Line 138ab is quoted in TĀv ad 29/96.
 
-591?\. JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b) is TĀ 15/576abc (572abc) which reads: akulīneṣu saṁparkāt tatkulāt patanād bhayam | ekapātre kulāmnāye tasmāt (tan parivarjayet Il
+[^591]: JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b) is TĀ 15/576abc (572abc) which reads: akulīneṣu saṁparkāt tatkulāt patanād bhayam | ekapātre kulāmnāye tasmāt (tan parivarjayet Il
 
 
 *[p. 442]* ^pg459
@@ -580,15 +580,19 @@ udyākeśī jāīnumadhye sopāraṁ cārtare smṛtam |
 (ksirikam ! \[kh: kṣī \* \*?\] vāmahaste \[kh: vāmaha \*?\] tu māyāpurīṁ \[kh g: ~ puryām\] tu dakṣine ॥ 157 ॥
 āmrātakeśvarai gulphe vāme rājagṁaṁ śubham |
 pādādhāre tu brahmānī kālāgnyavadhi \[kh: -vavi\] dhārakīṁ \[kh g: -kī\] ॥ 158 ॥
-1) Atṭahāsa is in the location of the topknot (sikhd). ). 2) Caitra is in the Aperture of Space (karandhra). 3) Kaulagiri is in the ears. 4) Jayantikā is in the nostrils. 5) Ujjayanī is the eyebrows. 6) Prayāga is in the mouth. 7) Vārāṇasī is in the heart. 8) Śrīpītha is on the two shoulders. 9) Viraja is on the neck. 10) Edābhī is on the stomach. 11) Hālā is in the navel. 12) Gośruti is in the bulb (kanda). 13) Merukośa is in the genitals. 14-55) Nagara and Paundravardhana are on the right and left buttock. 16-17) Elāpura and Purastīra are on the right and left thigh. 18-19) Kudyākeśī and Sopāra"' are on the right and left knees. 20-21) Māyāpura and Kṣīraka are on the right and left shank. 22-23) Amrātakeśvara and Rājagṁa are on the right and left ankles. 24) Vairiñcī is on the soles of the feet and sustains all things up to Kālāgni.” (152-158) 
+1) Atṭahāsa is in the location of the topknot (sikhd). ). 2) Caitra is in the Aperture of Space (karandhra). 3) Kaulagiri is in the ears. 4) Jayantikā is in the nostrils. 5) Ujjayanī is the eyebrows. 6) Prayāga is in the mouth. 7) Vārāṇasī is in the heart. 8) Śrīpītha is on the two shoulders. 9) Viraja is on the neck. 10) Edābhī is on the stomach. 11) Hālā[^592] is in the navel. 12) Gośruti is in the bulb (kanda). 13) Merukośa is in the genitals. 14-55) Nagara and Paundravardhana are on the right and left buttock. 16-17) [^593]Elāpura and Purastīra are on the right and left thigh. 18-19) Kudyākeśī and Sopāra[^594] are on the right and left knees. 20-21) Māyāpura and Kṣīraka are on the right and left shank. 22-23) Amrātakeśvara and Rājagṁa are on the right and left ankles. 24) Vairiñcī is on the soles of the feet and sustains all things up to Kālāgni.[^595] (152-158) 
 
 evar nityoditār bhadre vāsanām \[g: ?\] hṛdi \[g: ?\] sarńsmaret \[g: ?\] | 
 
-592?\. JY reads herundryaṁ for edābhīṁ and alaipuraṁ for halar, JY reads pṛsthāpuraṁ for elāpuraṁ. ryākesī for kudyākesīṁ. Read with JY sopāraṁ for sopānar.
+[^592]: JY reads herundryaṁ for edābhīṁ and alaipuraṁ for halar,
 
-593?\. JY 4/20/152-158 (MS K fl. 143a Kh fl. 123b G fl. 176a-176b) is quoted practically literally in
+[^593]: JY reads pṛsthāpuraṁ for elāpuraṁ.
 
-594?\. A map of these places is in Dyczkowski 2004: 161, and a drawing of the projections onto the body ibid. 172.
+[^594]: ryākesī for kudyākesīṁ. Read with JY sopāraṁ for sopānar.
+
+[^595]: JY 4/20/152-158 (MS K fl. 143a Kh fl. 123b G fl. 176a-176b) is quoted practically literally in
+
+    A map of these places is in Dyczkowski 2004: 161, and a drawing of the projections onto the body ibid. 172.
 
 
 *[p. 444]* ^pg461
@@ -604,7 +608,7 @@ taṁ \[g: 21 kālam grasate sā tu layodayavivarjitaḥ (> -tā) |
 ॥
 viśrāmaṁ yatra kurute sahasrāṇy ekavimśatiḥ | 
 
-O fair lady, one should recollect in this way (that) perpetually manifest (and active) latent impression (Kaula adepts possess) if one desires the best for oneself. Women should be worshipped for (the attainment of) one’s own accomplishment. Having known the injunction in this way, she who destroys (time shines) in the centre.” (159-160ab) 
+O fair lady, one should recollect in this way (that) perpetually manifest (and active) latent impression (Kaula adepts possess) if one desires the best for oneself. Women should be worshipped for (the attainment of) one’s own accomplishment. Having known the injunction in this way, she who destroys (time shines) in the centre.[^596] (159-160ab) 
 
 The power of the Supreme Goddess who is (subtle) like a (fine) woollen fibre, present at the extremity within (the yogi who has projected the sacred sites on his body) is said to be Saṁkarṣiṇī. She operates on the (Time that) that is within the six seasons and merged within him. She consumes that Time, she who is devoid of merger and emergence. O beloved, it is where emergence and merger, that is, the pulse of exhalation (prāṇa) and inhalation (apāna) (are located) and where (She) brings them to rest, 21,000 (times a day). (160cd-163ab) 
 
@@ -622,7 +626,7 @@ prabuddhā kaṁṁdaveśmani \[g: -veśme tu\] bhujagākṛtiḥ sā sthitā �
 somasūryasthitā (> -to) vahni (> vahniḥ) phaṇiratna prakīrtitā |
 sthitā sā tanturūpeṇa ūrddhamārgaprasarpinī || 167 ॥ 
 
-595?\. There are lacunae in the text here. This is he conjectured meaning.
+[^596]: There are lacunae in the text here. This is he conjectured meaning.
 
 
 *[p. 445]* ^pg462
@@ -693,7 +697,7 @@ hanāhalañ (> mahāhalari) lakṣmībījaṁ \[g: lakṣmī-\] dhyāyate tejas�
 
 *[p. 447]* ^pg464
 
-Listen to something else as it truly is, I will tell you O beautiful lady. Lakṣm?’s seed syllable (HRĪM) is the Great Plough. It should be visualized along with (its) radiant energy (tejas). Its head is covered with radiant energy (R). It is said to be Kula seed syllable mantras (pinda).'4(186cd-187) 
+Listen to something else as it truly is, I will tell you O beautiful lady. Lakṣm?’s seed syllable (HRĪM) is the Great Plough. It should be visualized along with (its) radiant energy (tejas). Its head is covered with radiant energy (R). It is said to be Kula seed syllable mantras (pinda).[^597] (186cd-187) 
 
 178b g) sarvacakreṣu martro ‘yan sarvasaubhāgyavarddhanaḥ \[kh g: -nam\] |
 kṣetrapālakulahi \[k, g: -lāṁ kh: -lā\] vṛkṣām (> vṛkṣamn) āyudhānāmasamyutām (-tam) ॥ 188 ॥
@@ -709,15 +713,17 @@ aṣtāngulapramānasthāḥ śobhanāś caturangulāḥ || 192 ॥
 adha ūrddhvasamāyuktā tatpramānṇena kārayet \[g: kāre + t\] |
 kṛtadīpena \[kh g: kṛtadīpena\] (> ghṛta-) saṁyuktā raktavartyuparisthitāḥ \[kh: -vartyāpari; g: -vartyopari\] ॥ 193 ॥ 
 
-The cremation ground, the wish-granting tree, the yoginīs and the guardians of the field are worshipped (there in the cakras), O beloved, with beautiful white flowers and (various kinds of) incense. Arrange twenty-four lamps in the four quarters. They are made of kneaded flour, (their) base and middle is thin, and they are beautifully round. (Protruding) above, are beautiful red wicks measuring four fingers. Fashion (the lamps) below and above together of that measure. (Thus,) the lamps, (fed) with clarified butter (ghṛtadīpa), stand measuring eight fingers. (190cd-193) 
+The cremation ground, the wish-granting tree, the yoginīs and the guardians of the field are worshipped (there in the cakras), O beloved, with beautiful white flowers and (various kinds of) incense. Arrange twenty-four lamps in the four quarters. They are made of kneaded flour, (their) base and middle is thin, and they are beautifully round. (Protruding) above, are beautiful red wicks measuring four fingers. Fashion (the lamps) below and above together of that measure. (Thus,) the lamps, (fed) with clarified butter (ghṛtadīpa),[^598] stand measuring eight fingers.[^599] (190cd-193) 
 
 kalaśaṁ netrabandhāś (> -bandhańn) ca mandalāni (> mandalaṁ na) vivarjayet \[k, kh: visarjayet\] | 
 
-596?\. Perhaps this means at HRĪM is the seed syllable of both Lakṣmī and Māyā.
+[^597]: Perhaps this means at HRĪM is the seed syllable of both Lakṣmī and Māyā.
 
-597?\. Jayaratha has omitted this line from the citation found in the JY: adha ürddhvasamāyuktā tatpramānena kārayet \[g: kāre \* t\] | īt is translated in brackets.
+[^598]: Jayaratha has omitted this line from the citation found in the JY: adha ürddhvasamāyuktā tatpramānena kārayet \[g: kāre \* t\] | īt is translated in brackets.
 
-598?\. 191cd-193 is quoted in TÀ 29/72cd-73ab and commentary. 11 194-195 is quoted in TĀv ad 29/75cd-77.
+[^599]: 191cd-193 is quoted in TÀ 29/72cd-73ab and commentary.
+
+[^600]: 194-195 is quoted in TĀv ad 29/75cd-77.
 
 
 *[p. 448]* ^pg465
@@ -726,7 +732,7 @@ tair vinā na (vihīne) bhavet siddhir agnir vai (> agninā) śrukśruvādayaḥ
 madyapūrneṣu bhāndeṣu pūrvokteṣu ganāmbike |
 rasāyanamayoktena madhye pūjyā kṛśodarī || 195 ॥ 
 
-One should set aside the jar, the blindfold and the mandala etc. Accomplishment (is attained) when they, along with the fire, the sacrificial ladles, large and small etc., are absent. O mother of the hosts, one should worship Kṛśodarī in the middle of the aforementioned jars, full of wine said to be made of alchemical elixir (rasāyana).” (194-195) 
+One should set aside the jar, the blindfold and the mandala etc. Accomplishment (is attained) when they, along with the fire, the sacrificial ladles, large and small etc., are absent. O mother of the hosts, one should worship Kṛśodarī in the middle of the aforementioned jars, full of wine said to be made of alchemical elixir (rasāyana).[^600] (194-195) 
 
 caturdikṣu varārohe \[kh: verārohe\] pūjyā vai pītṭhanāyakī |
 madyena surayā 
@@ -761,7 +767,7 @@ pūrvāhnṇe \[kh g: pūrvāhne\] cāparāhnṇe \[kh g: -rāhne\] vā ahorātr
 prabhāte vimale prāpte \[kh g: prāptarni\] vīrabhojyaṁ tu kārayet ॥ 201 ॥
 mahābhāgyodayari jāyed \[k kh: jāped\] rājyaṁn vā khecaro bhavet | 
 
-One should recite the Hymn to the Sacred Seats, either in the morning or in the afternoon, (or) at the end of the night and day. One who is attentive should repeat Mantra (japa) at night. When the clear light of dawn has come, one should eat (human flesh), the hero’s food (vīrabhojya), so that great good fortune may triumph in the kingdom, and in the end, he may become a Skyfarer (khecara).[^599] (200cd-202ab) 
+One should recite the Hymn to the Sacred Seats, either in the morning or in the afternoon, (or) at the end of the night and day. One who is attentive should repeat Mantra (japa) at night. When the clear light of dawn has come, one should eat (human flesh), the hero’s food (vīrabhojya), so that great good fortune may triumph in the kingdom, and in the end, he may become a Skyfarer (khecara).[^601] (200cd-202ab) 
 
 bhakṣaṇāt sidhyate vīro yadi syur mandabuddhayaḥ \[kh g: syānmamida-\] (> syād api mandabuddhir yah) ॥ 202 ॥
 vyādhidurbhikṣamaranam \[k: -darbhi-\] cauram agniṣu taskaram |
@@ -782,7 +788,9 @@ Again, he should feed Kumārī here, along with yogis (of all ranks), up to (tho
 
 The cremation ground, the wish-granting tree, and the Yoginīs who are the (sacred) field (are the three). The (performance of) black rites is the purpose of the cremation ground. The wish-granting tree bestows accomplishments. The union (melāpa) (of Siddhas and Yoginīs) in a field of the Yoginīs (bestows) all the accomplishment (taught) in the Kulāgama. (206cd-207) 
 
-[^599]: 200cd-202ab is quoted in TĀv ad 29/75cd-77. 8 210cd-21 lab is quoted in TĀv ad 29/70cd-7 lab.
+[^601]: 200cd-202ab is quoted in TĀv ad 29/75cd-77.
+
+[^602]: 210cd-21 lab is quoted in TĀv ad 29/70cd-7 lab.
 
 *[p. 450]* ^pg467
 
@@ -799,7 +807,7 @@ yoginyaḥ kṣetraṁ \[kh g: kṣetra\] bhrūmadhye jñātavyaṁ yoginīkule 
 īdṛśarṁ tu mahādevi kulaąpūjātra vai priye \\\\ 211 ॥
 180a g) siddhyate tatkṣanād \[g: tatkṣaṇā\] devi yadi cāsti mukhāgamam | 
 
-One should know that according to the Yoginīkula, the cremation ground is the place of the Heart, the wish-granting tree, Kundali, and the field of the Yoginīs is the centre between the eyebrows. O Great Goddess, such, O beloved, is Kula worship here. It is successful in that very moment, O goddess, if there is an oral tradition (to explain the practice). (10cd-212ab)" śrīdevyuvāca \[g: śrīdevyāvāca\] 126a kh) mā gopayasva me deva kramahīnari na siddhyati ॥ 212 ॥
+One should know that according to the Yoginīkula, the cremation ground is the place of the Heart, the wish-granting tree, Kundali, and the field of the Yoginīs is the centre between the eyebrows. O Great Goddess, such, O beloved, is Kula worship here. It is successful in that very moment, O goddess, if there is an oral tradition (to explain the practice). (10cd-212ab)[^602] śrīdevyuvāca \[g: śrīdevyāvāca\] 126a kh) mā gopayasva me deva kramahīnari na siddhyati ॥ 212 ॥
 khandajñānam bhavet sarvan khandacakraṁ na muktibhāk |
 māvamānaya me nātha sarvasvari na pragopayet \[k: -ya\] ॥ 213 ॥
 kathayasva svabhāvaṁ vai yadi sneha mamopari \\ 
@@ -834,7 +842,7 @@ tadā sa khecaro bhūtvā yoginīmelakaṁ labhet \[kh: bhavet\] ॥ 221 |
 
 Previous and subsequent Karmas have been made imperishable by nature, they are all obstacles and, O beloved, delude forcefully. The mind does not find joy in them. (Thus,) place the mind in the centre (of the Wheel). 
 
-“I am not, nor is there another.” If the one who is (thus) alone contemplates (this) natural state of rest here even for a moment in the tranquil nature, he then becomes a Skyfarer (khecara) and attains union with the Yoginīs (melaka).” (219-221) 
+“I am not, nor is there another.” If the one who is (thus) alone contemplates (this) natural state of rest here even for a moment in the tranquil nature, he then becomes a Skyfarer (khecara) and attains union with the Yoginīs (melaka).[^603] (219-221) 
 
 tanmadhye bhāvanāṁ kṛtvā praviśed \[g: -śe\] dehajān bahūn |
 tayāvalokitan cakran caturviṁśatisamkulam \[kh 8: -rviṁśa \* saṁ\] ॥ 222 ॥
@@ -842,7 +850,7 @@ tanmadhye bhāvanā yasyā sa vai coktā mukhāgame |
 tataḥ pūjākramami bhadre cānyathā paśubhāvanā ॥ 223 ॥
 anenāsau prayogena \[kh g: -na\] kramar pūjyānyathā paśuḥ । 
 
-600?\. Quoted in TĀv ad 29/64.
+[^603]: Quoted in TĀv ad 29/64.
 
 
 *[p. 452]* ^pg469
@@ -899,7 +907,7 @@ The venerable Bhairava said:
 
 *[p. 454]* ^pg471
 
-I will explain how he who, by the application of (powerful) Mantras (mantrayoga), is on the plane of Tantric practice (tantrācāra) and is truly successful. O beloved, he should perform the sacrifice by applying this ritual procedure (krama). One should worship one’s own sequence (of mantras) (svakrama) in the centre and avoid practice (based on) duality (between pure and impure). 
+I will explain how he who, by the application of (powerful) Mantras (mantrayoga), is on the plane of Tantric practice (tantrācāra) and is truly successful. O beloved, he should perform the sacrifice by applying this ritual procedure (krama). One should worship one’s own sequence (of mantras) (svakrama) in the centre and avoid practice (based on) duality (between pure and impure).[^604] 
 
 = (238-239) 
 
@@ -924,11 +932,11 @@ siddhāntā vaiṣṇavā bauddhā vedoktāḥ \[kh: vedāktāḥ\] smārtadarś
 
 (The Mantras of) the Siddhāntas, Vaiṣṇavas, Bauddhas, the Vedāntas and Smārta systems should be abandoned with effort, because they are considered to be 
 
-21 238ab and 239cd are quoted in TĀv ad 29/73cd-75ab.
+[^604]: 238ab and 239cd are quoted in TĀv ad 29/73cd-75ab.
 
 *[p. 455]* ^pg472
 
-those of the fettered.”? Those (Mantras) that abandon association with nondual (sacrificial) substances (commonly considered to be impure) become averse (to those whose who use them,) and without the life (the substances bestow), they (themselves) have no life.” (244-245) 
+those of the fettered.[^605] Those (Mantras) that abandon association with nondual (sacrificial) substances (commonly considered to be impure) become averse (to those whose who use them,) and without the life (the substances bestow), they (themselves) have no life.[^606] (244-245) 
 
 {tesam vai pūjanaṁ nāsti āvalyaḥ kramavarjitāḥ |
 na siddhiphalabhāgā ye pratyayaiś ca vivarjitāḥ ॥ 246 ॥
@@ -948,9 +956,9 @@ Then they bestow (good) fruits. They bestow liberation, intimacy (kāma), wealth
 
 (Here ends the chapter) called the teaching concerning Tantric practice (tantrācāra) which is part of the Kālīkula that is in the Jayadrathayāmala. 
 
-601?\. siddhanta siddhāntā vaiṣnavā bauddhā vedoktāḥ smārtadaríśanāh | te \[tat\] prayatnena vai varjyā yasmāt te paśavaḥ smṛtāḥ ॥ JY 4/20/244
+[^605]: siddhanta siddhāntā vaiṣnavā bauddhā vedoktāḥ smārtadaríśanāh | te \[tat\] prayatnena vai varjyā yasmāt te paśavaḥ smṛtāḥ ॥ JY 4/20/244
 
-602?\. 244-245 is quoted in TĀv ad 29/73cd-75ab.
+[^606]: 244-245 is quoted in TĀv ad 29/73cd-75ab.
 
 
 *[p. 456]* ^pg473
@@ -981,11 +989,11 @@ prāsayitvā tu tau hṛṣtau yāgadravyāni prokṣayet ॥ 201 ॥
 249a k) arcana hi tataḥ kṛtvā naivedyāni tu dāpayet |
 agneś ca yajanari kṛtvā agnikāryaṁ samārabhet \[k: -caret\] ॥ 202 ॥ 
 
-Once the adept (sādhaka) has aroused (her), taken hold of a sacred thread (pavitra) and fed the two, (who are both) delighted, he should sprinkle the sacrificial substances for the sacrifice (to consecrate them). Then, having worshipped, he should offer food (of various kinds). Having offered sacrifice to the fire, he should begin the fire sacrifice (with his Sakti).’ (201-202) 
+Once the adept (sādhaka) has aroused (her), taken hold of a sacred thread (pavitra) and fed the two, (who are both) delighted, he should sprinkle the sacrificial substances for the sacrifice (to consecrate them). Then, having worshipped, he should offer food (of various kinds). Having offered sacrifice to the fire, he should begin the fire sacrifice (with his Sakti).[^607] (201-202) 
 
-603?\. Swami Lakshmanjoo explains in the course of his oral commentary on TAA 4/67 that the three substances prescribed in the Kaula School. \[They are meat, wine and sexual fluids\]. In Chapter Twenty-nine it says that you must have sex with any girl, particularly one who does not want to
+[^607]: Swami Lakshmanjoo explains in the course of his oral commentary on TAA 4/67 that the three substances prescribed in the Kaula School. \[They are meat, wine and sexual fluids\]. In Chapter Twenty-nine it says that you must have sex with any girl, particularly one who does not want to
+
+    have sex with you (a dṛptanārī). The yogi can bring even such a woman under his power. Those women who do not want sex have a greater capacity for Madhyavikāsa \[expansion of consciousness from the Centre\]. A dṛpta \[proud and resistant\] woman is more valid then a nirlajjā \[shameless one\]. The dṛpra \[proud and resistant\] woman who doesn’t want sex with all men, only one will catch her and have sex with her forcibly. (Women in the act must not have vāsanā \[latent desires\].) Dṛptanārī \[proud, resistant women\] have more capacity for madhyavikāsa \[expansion of consciousness from the Centre\]. Then \[when that happens\] pride and arrogance will melt away in the \[sexual\] act and so \[Kundalinī\] will rise easily. You should agitate those girls especially who do not want to be agitated.
 
 
 *[p. 457]* ^pg474
-
-have sex with you (a dṛptanārī). The yogi can bring even such a woman under his power. Those women who do not want sex have a greater capacity for Madhyavikāsa \[expansion of consciousness from the Centre\]. A dṛpta \[proud and resistant\] woman is more valid then a nirlajjā \[shameless one\]. The dṛpra \[proud and resistant\] woman who doesn’t want sex with all men, only one will catch her and have sex with her forcibly. (Women in the act must not have vāsanā \[latent desires\].) Dṛptanārī \[proud, resistant women\] have more capacity for madhyavikāsa \[expansion of consciousness from the Centre\]. Then \[when that happens\] pride and arrogance will melt away in the \[sexual\] act and so \[Kundalinī\] will rise easily. You should agitate those girls especially who do not want to be agitated.

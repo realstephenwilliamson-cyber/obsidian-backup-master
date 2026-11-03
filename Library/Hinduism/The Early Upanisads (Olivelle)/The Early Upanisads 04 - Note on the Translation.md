@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Olivelle (ed.) - The Early Upanisads]]"
 book: "[[Library/Hinduism/The Early Upanisads (Olivelle)/The Early Upanisads (Olivelle)|The Early Upanisads (Olivelle)]]"
 order: 4
 source_pdf: "Library/Hinduism/Olivelle (ed.) - The Early Upanisads (1998).pdf"
-page_range: "xx–25"
+page_range: "xx–xxii"
 pdf_pages: "21–25"
 text_source: "fresh OCR with Tesseract 5 of the page images: Latin, and Latin+san on the pages of Devanagari text (the earlier OCR layer had lost the diacritics and the Devanagari)"
 converted: 2026-10-22
@@ -59,10 +59,10 @@ Major Changes from the translation in World’s Classics:
 
 BU 1.4.17; 2.4.10; 3.7.1; 4.5.11; 6.2.8; CU 3.11.3; 5.1.2; 5.2.2; 5.3.2; 5.3.7; 5.4.2; 5.5.2; 7.8.1; 8.1.3; 8.4.2; TU 2.1, 3, 4, 5; 3.1; 3.10.4; AU 2.1, 3; KsU 1.4b; 2.14; KaU 2.10-11; SU 2.2; 4.5; MuU 1.2.3; 2.2.2, 6, 11; 3.2.2, 4.
 
-*[p. 24]* ^pg24
+*[PDF 24]* ^pg24
 
 THE EARLY UPANISADS
 
-*[p. 25]* ^pg25
+*[PDF 25]* ^pg25
 
 This page intentionally left blank

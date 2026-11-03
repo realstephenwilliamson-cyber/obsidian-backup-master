@@ -9,10 +9,10 @@
   "baseFontSize": 17,
   "cssTheme": "Minimal",
   "accentColor": "#5c4cd6",
-  "interfaceFontFamily": "Palatino",
+  "interfaceFontFamily": "Noto Serif,Noto Serif Devanagari",
   "theme": "obsidian",
-  "textFontFamily": "Palatino",
-  "monospaceFontFamily": "Monaco",
+  "textFontFamily": "Noto Serif,Noto Serif Devanagari",
+  "monospaceFontFamily": "Noto Sans Mono",
   "showViewHeader": true,
   "baseFontSizeAction": true
 }

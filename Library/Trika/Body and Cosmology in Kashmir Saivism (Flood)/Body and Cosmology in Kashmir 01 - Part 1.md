@@ -4,7 +4,7 @@ work: "[[Flood - Body and Cosmology in Kashmir Saivism]]"
 book: "[[Library/Trika/Body and Cosmology in Kashmir Saivism (Flood)/Body and Cosmology in Kashmir Saivism (Flood)|Body and Cosmology in Kashmir Saivism (Flood)]]"
 order: 1
 source_pdf: Library/Trika/Body and Cosmology in Kashmir Saivism.pdf
-page_range: l–16
+page_range: v–16
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
@@ -82,7 +82,7 @@ I am not and another is not, I am only powers. (nahamasmi nacaāanyo'sti kevalā
 
 Abhinavagupta [[Tantraloka 29.064|Tantrāloka 29.64]]
 
-*[p. l]* ^pg9
+*[p. v]* ^pg9
 
 CONTENTS
 

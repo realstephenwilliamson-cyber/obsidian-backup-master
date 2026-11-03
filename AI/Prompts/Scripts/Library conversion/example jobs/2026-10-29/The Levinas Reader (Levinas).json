@@ -1,0 +1,140 @@
+{
+ "route": "pymupdf",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-29",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "skip_unmatched_sub": true,
+ "authors": [
+  "Emmanuel Levinas"
+ ],
+ "pdf": "/home/claude/p4/pdf/lr.pdf",
+ "pdf_vault": "Library/Philosophy/Levinas - The Levinas Reader (1989).pdf",
+ "catalog": "Levinas - The Levinas Reader",
+ "title": "The Levinas Reader",
+ "byline": "Emmanuel Levinas, edited by Seán Hand.",
+ "folder": "Library/Philosophy/The Levinas Reader (Levinas)",
+ "index_name": "The Levinas Reader (Levinas)",
+ "prefix": "The Levinas Reader",
+ "text_source": "the PDF's own text layer, PyMuPDF",
+ "toc": [
+  [
+   1,
+   "Introduction",
+   8
+  ],
+  [
+   1,
+   "1. The Phenomenological Theory of Being",
+   16
+  ],
+  [
+   1,
+   "2. There Is: Existence without Existents",
+   35
+  ],
+  [
+   1,
+   "3. Time and the Other",
+   43
+  ],
+  [
+   1,
+   "4. Martin Buber and the Theory of Knowledge",
+   65
+  ],
+  [
+   1,
+   "5. Ethics as First Philosophy",
+   81
+  ],
+  [
+   1,
+   "6. Substitution",
+   94
+  ],
+  [
+   1,
+   "7. Reality and Its Shadow",
+   132
+  ],
+  [
+   1,
+   "8. The Transcendence of Words",
+   148
+  ],
+  [
+   1,
+   "9. The Servant and her Master",
+   154
+  ],
+  [
+   1,
+   "10. The Other in Proust",
+   164
+  ],
+  [
+   1,
+   "11. God and Philosophy",
+   170
+  ],
+  [
+   1,
+   "12. Revelation in the Jewish Tradition",
+   192
+  ],
+  [
+   1,
+   "13. The Pact",
+   213
+  ],
+  [
+   1,
+   "14. Prayer without Demand",
+   229
+  ],
+  [
+   1,
+   "15. Ideology and Idealism",
+   237
+  ],
+  [
+   1,
+   "16. Difficult Freedom",
+   251
+  ],
+  [
+   1,
+   "17. Zionisms",
+   269
+  ],
+  [
+   1,
+   "18. Ethics and Politics",
+   291
+  ],
+  [
+   1,
+   "Glossary",
+   300
+  ],
+  [
+   1,
+   "Bibliography",
+   303
+  ],
+  [
+   1,
+   "Index",
+   310
+  ]
+ ],
+ "pnum_override": {
+  "16": "9",
+  "17": "11",
+  "132": "127",
+  "133": "129"
+ },
+ "legacy_fonts": false
+}

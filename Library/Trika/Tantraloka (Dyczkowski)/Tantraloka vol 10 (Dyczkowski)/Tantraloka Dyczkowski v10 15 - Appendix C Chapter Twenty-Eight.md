@@ -20,7 +20,7 @@ The Gathering of Initiates (vīramelāpa) According to
 
 Chapter Fifty-four of the Fourth Śatka of the 
 
-Jayadrathayāmala, Called vīratāndavavidhikramajñāna' 
+Jayadrathayāmala, Called vīratāndavavidhikramajñāna[^572] 
 
 The goddess tells Bhairava that she wants to know the procedure for the congregation of Kaula adepts (vīramelāpavidhi). To which Bhairava responds as follows. Similar descriptions of the bacchanalia of the assembly of yoginīs and their 
 
@@ -49,7 +49,7 @@ tatopaveśayet samyag yathv cakraniyogataḥ ॥ 10 ॥
 
 O goddess, he should then invite all those who observe Bhairava’s conduct, those who know the Rule and, content, are intent on Krama (ritual). O Supreme One, (he should invite) the regular initiates, apprentices, adepts and teachers, and those yoginīs who are awake and devoted, for they have not fallen. Having brought them (to the meeting place), established them (where they should be), and give (them) betel etc. (9ab). Seats should be offered here (to 
 
-572?\. iti bhairavaśrotasi \[g: -Śrota \*\] vidyāpīthe śiraśchede \[g: śiracchede\] jayadrathayāmale mahātantre caturviiśatisāhasre caturthaṣatke vīratāndavavidhikramajñāna paṭalaḥ I| 54 I|
+[^572]: iti bhairavaśrotasi \[g: -Śrota \*\] vidyāpīthe śiraśchede \[g: śiracchede\] jayadrathayāmale mahātantre caturviiśatisāhasre caturthaṣatke vīratāndavavidhikramajñāna paṭalaḥ I| 54 I|
 
 
 *[p. 419]* ^pg436
@@ -89,11 +89,11 @@ bhūya\] santarpya yāvad ānandamanthanam |
 
 APPENDIX C CHAPTER TWENTY-EIGHT 
 
-tato hy arghais (0; tato nādyais; g: tato flowers[^573] dyais\] tathā geyair 
+tato hy arghais (0; tato nādyais; g: tato flowers dyais\] tathā geyair 
 
 vīṇāvariśasvanais tathā || 21 || śrotrodakakaraiś citrais tarpayec cakrapañcakam | 
 
-They are filled with big flowers? and the collection of the Five Jewels. After that, tireless, one should give them many kinds of food. O goddess, immediately give whatever anyone chooses. (Offer them) many kinds of meat along with well prepared food to lick, drink, and suck, and so too many kinds of drinks (of many flavours), astringent, bitter, spicy, sweet, and sour. In this way, one should offer libation to the five circles (of initiates) with many (such things). Then offer them (food) again at noon, until (their) bliss is aroused. (Do so) along with liquid offerings, songs, and music made by vīṇās and flutes. Offerings should be made to the five circles (of initiates) accompanied by various kinds (of music) that make streams (of sound for them to enjoy). (17cd-22ab) 
+They are filled with big flowers[^573] and the collection of the Five Jewels. After that, tireless, one should give them many kinds of food. O goddess, immediately give whatever anyone chooses. (Offer them) many kinds of meat along with well prepared food to lick, drink, and suck, and so too many kinds of drinks (of many flavours), astringent, bitter, spicy, sweet, and sour. In this way, one should offer libation to the five circles (of initiates) with many (such things). Then offer them (food) again at noon, until (their) bliss is aroused. (Do so) along with liquid offerings, songs, and music made by vīṇās and flutes. Offerings should be made to the five circles (of initiates) accompanied by various kinds (of music) that make streams (of sound for them to enjoy). (17cd-22ab) 
 
 tatas taccakragā raśmyaḥ \[g: -mya\] prollasanti sutejitāḥ ॥ 22 ॥
 (218b) sphuranti mahadānandā vilāsaśatasarikulāḥ \[kh g: -lā\] |
@@ -196,9 +196,9 @@ tat tat tatrācaren mantrī yena saṁdīpanam bhavet || 47 ॥
 
 Having obtained a bedroom that is well painted and beautiful, with many kinds of paintings (hanging on the walls), pleasing with fragrant smell of fine incense, strewn with sandalwood and aloe, and pervaded by the abundant smell of flowers. (The bed) is adorned with a fine awning etc. made of radiant garlands of flowers and decorated with small bells. It resounds with (the cries of) cakravākas, partridges' ewes and parrots’ ewes. Having prepared an auspicious bed adorned with ivory (danta) and the like, replete with many beautiful things and adorned with a network of small bells, well made in all its parts with the statue of 
 
-a nymph gracefully bending the branch of a tree . . . . (?). Spreading a beautiful cloth there, on its cotton mattress to cover it, O fair lady, it should be strewn or else (anything that) enhances a mood of (passion and) romance. The reciter of mantra should do each thing there by virtue of which (the mood to make love) may be intensified.? (41cd-47) 
+a nymph gracefully bending the branch of a tree . . . . (?). Spreading a beautiful cloth there, on its cotton mattress to cover it, O fair lady, it should be strewn or else (anything that) enhances a mood of (passion and) romance. The reciter of mantra should do each thing there by virtue of which (the mood to make love) may be intensified.[^574] (41cd-47) 
 
-574?\. JY 4/53/41cd-47. The following verses from 63cd to 9188. are translated in note 29,248. In the following verses from 48 to 63ab the ideal female Kaula partner (diiti) ) is described. This passage is quoted in TĀv ad 29/99-100ab. The following verses from 63cd to 9lab where this chapter ends, are translated in note 29,249. eque
+[^574]: JY 4/53/41cd-47. The following verses from 63cd to 9188. are translated in note 29,248. In the following verses from 48 to 63ab the ideal female Kaula partner (diiti) ) is described. This passage is quoted in TĀv ad 29/99-100ab. The following verses from 63cd to 9lab where this chapter ends, are translated in note 29,249. eque
 
 
 *[p. 424]* ^pg441

@@ -46,6 +46,7 @@ At night, after one hundred thousand repetitions of the mantra, he should first 
 Proceeding to Jãālandhara?2° he should sacrifice to PūrṇeSi to
 
 begin with.
+
 [^218]: I.e., the thighs? the legs?
 [^219]: I.e., the genital region.
 
@@ -81,6 +82,7 @@ Then honouring the Goddess he should choose a reward for himself.
 12\. If the Goddess does not respond in such a manner, then he should worship her over again in the way prescribed above intent (as he is) in his devotion to the prescribed kula
 
 practices.
+
 [^221]: I.e., the top of the head.
 [^223]: I.e., the vulva.
 [^224]: I.e., to the goddess of the particular yantra that he has dram. See VI:2.
@@ -184,6 +186,7 @@ Lifting up the sword with the words: "Take it, my son!"
 KĀ}M ĪM ŪM OH KALYĀNĪ! PERFORM THE WHOLESALE SLAUGHTER OF THE ENEMY!"
 
 33\. Thus having consecrated the sword (with the above mantra), and indicating who the victim is to be, a man should throw it. It proceeds to destroy over and over again and then returns once more.
+
 [^239]: The same eighth night of the bright fortnight as above? (Tuesdays and Saturdays are also considered ausptetous as a rule.)
 
 [^237]: Presumably the sword was buried during the repetitions of the mantra.
@@ -235,6 +238,7 @@ By merely uttering the mantra "Phut" a hole opens up in the earth.
 45\. Oh my Son! Lord of the Kula Lords! Siddhís will\] never arise without the Durgā and Kālī mantras.
 
 End of Sixth Chapter.
+
 [^247]: Verse 40 deseribes the Tilaka siddhi whitch is the result of the previously ground bones of the cat mized together with musk, aloe and sandal. The mixture is presumably to be used in apply-ina the tilaka,
 
 [^246]: Verse 40 and the word "anjana" imply that the burnt (?) bones of the cat have been ground into a powder/ointment. With this ointment the sãdhaka outlines his eyes from their outer corners upto the bridge of the nose. (When the eyes are outlined with antimony or lampblack, it serves to ward off the evil influences that converge on young children and bridegrooms ete.)
@@ -262,6 +266,7 @@ of Mahiṣamardinī. 25°
 creation and preservation; She is the eternal root cause of all the gods and all the stiddhts.
 
 5\. If it is spoken of to (even) a pure person devoted to the guru, then (only) the eight syllables of the mantra should be mentioned (and) not the blja or the ritual practice.[^251]’'
+
 [^248]: The Sanskrit reads "samketa". As the ensuing verses give the mantra for Mahigamardini, "sign" or "mark" seem to be the more appropriate translations in the context.
 
 250\. "Three world blja = HRĪM; "the awakening word = the vocative of Mahiçṣamardint; "ereation and destruction" = the syllables SVĀHA. Hence HRIM MAHIṢAMARDINI SVĀHA.
@@ -337,6 +342,7 @@ TO THE HEAD!) jis the head mantra.
 Listen Bhairava: "HÜM" and “PHAṬ" are the weapons of
 
 Mahiṣamardinĵ.
+
 [^256]: I.e., HRĪM.
 
 261\. An amulet is conventionally worn just above the elbows.
@@ -521,6 +527,7 @@ chief component.
 43\. He should be sure to gratify the female jackal by making an offering of food.
 
 Just as the ŝrāddha ceremony, the morning and evening
+
 [^274]: She is an emanation of Tripurā or Tripurasundart.
 
 [^275]: A pun on "Sivā" is probably intended.
@@ -636,6 +643,7 @@ Oh Bhairava: In no way will I ever leave his house.
 Be he extremely i11 or without good fortune, again he will never be forsaken due to the presence of this Tantra.
 
 The merit of a kula pūjā is obtained on seeing a fellow kula (sādhaka). (That being the case,) what can the chief of sādha-kas fail to gain if he performs the kapālī-karaṇa[^279] in the presence of this book? Indeed, he should handle the text only after worshipping the kula deity.
+
 [^279]: A Tantric rite not yet identified.
 
 [^278]: The meaning of verses 60 and 61 is that the secret is kept not by the absence of words alone for a glance or a nod of the head may reveal the truth and words may be used to mislead.
@@ -671,6 +679,7 @@ After purifying a man overpowered and afflicted by illness with the aid of the t
 peacock tailfeather.
 
 In the course of seven days the man will be delivered from the demon of disease.[^281]
+
 [^280]: The word "yojanam" has been substituted for the Sanskrit "yonmattap" whieh bears no obvious meaning. "Union" has the merit of fitting in with the ritual practice of heroes.
 
 [^281]: Bunches of peacock feathers were/are often used by magicians. It seems that in the dargāh of Muslims peacock feathers were specifically used to remove illness. In such cases the patient ts placed over the feather - something which the Sanskrit text does not make explteit. Aeceording to N. Bhattacharyya, the Goddess is traditionally assoetated with peacocks. (Sākta Religion, p. 77.)
@@ -1093,6 +1102,7 @@ In this connection,
 "...there is no knowledge other than that of the letters of
 
 the alphabet." (Sva. 11:199)
+
 [^9]: Later on in the commentary to this first verse, the "gaṇas" explained as the eight classes of Sanskrit letters: a, ka, Ca, ta, ta, pa, ya and sa.
 [^10]: "Yogints" are semi-divine female beings with magical powers who are counted among the attendants of Śiva and the Goddess, and through whom some of the Tantric texts are said to have been transmitted. Tantric female ascatics may also have been referred to as yogints. Rastogi, Krama Tantricism, p. 45.
 
@@ -1129,6 +1139,7 @@ ways will her essence be spoken of. Also our guru says that:
 Supreme Speech as its essence.[^17]
 
 This pre-eminence of (Supreme Speech) is autonomous; its sovereign power is that of the Supreme Self."
+
 [^12]: A frequently used name for the Goddess.
 [^13]: The lowest of the three elasses of human beings who are overwhelmingly concerned with mundane matters. The other two ascending classes are vṛra (hero) and divya (divine).
 
@@ -1152,6 +1163,7 @@ essence is a free will.
 »
 
 ..alone I do not enjoy myself"
+
 [^21]: The words "vãeya" and "vācaka" have been left untranslated as they are important terms in the Kashmir Saiva philosophy of which Jayaratha was an eminent exponent. Fundamental or absolute reality tis mahārtha but it has two aspeets known as vācaka and vīcya, or vord and meaning. The implication of this duality ts that the "naming" or apprehension of an entity is as much a part of its reality as the so-called existent thing itself. Reality is established via two channels of which the naming component tis an essential component and not just an intellectual construct applied to the entity. Through tts faculty to apprehend, consciousness tis an integral part of reality. It gives the name (in whatever sound combination or language) to the substance that is the other no more real aspect of reality. Tantrism gives special importance to this view and it helps to explain why mantras - as entities in sound - are expected to work directly on that to which they correspond.
 
 [^18]: "She" meaning Supreme Speech (Parā Vāc) who is synonymous with the Goddess and Supreme Mother.
@@ -1199,6 +1211,7 @@ As to Her who bears "these forms":
 "Time is based on the movement of the sun...."
 
 (I. Pra. 2:1:3)
+
 [^30]: A tithi is any one of the fifteen lunar days in each lunar fortnight, but not necessarily corresponding to a twenty-four hour day.
 [^32]: "Brahm?" = Rohinī - one of the nakgatras.
 
@@ -1223,6 +1236,7 @@ Even though here (pītha) is merely denoting )She) who is the foundation of the 
 "Through diversity of form He manifests the arrangement of Space. The Lord also (manifests) the course of Time through the phenomena of diverse actions." (Ī. Pra. 2:1:5)
 
 According to this view, She manifests the dimension[^36] of space (by) shining through the diverse manifestation of forms that have the nature of kalā,[^37] tattva[^38] and bhuvana[^39] together with (the qualities) of the
+
 [^34]: "Deśa" having the meaning of 3-dimenstonal space here. Ākāśa often connotes the idea of "ether".
 
 [^33]: Literally: She "manifests, quivers, flashes" ete..
@@ -1241,6 +1255,7 @@ the time dimension by revealing the diversity of actions which are of
 the nature of varṇa;\*1 mantra[^42] and pada.[^43] She vibrates through the form of the universal AlI made up of (this) sixfold course.[^44]
 
 41\. In this context, the word "varna" indicates the first determining impulse to put sound in motion. It does not mean a letter in script, or letter as mental or enunctated sound. It refers to the starting point preceding any physical utterance or mental expression of a sound.
+
 [^43]: "Pada" refers to articulated physical sound usually expressed in a word. Mantras have their "pada" form when they are actually spoken or written.
 
 [^40]: By "absolute" is meant "of the highest" and therefore past definition and charaeterisatton.

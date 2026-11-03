@@ -69,6 +69,7 @@ In accord with the way that has been described, it means that the syllable in th
 importance is always a relative (matter).[^480] \* 80
 
 Again, the real truth here about this matter which has not been learnt by others directly from a guru, elsewhere, or by the elucidation of the meaning as corroborated in the SrīTantrāloka[^481] is all made clear in a way that has been handed down from generation to generation.
+
 [^481]: A work on which Jayaratha also commented.
 
 [^478]: "Ekamātra" consists of one syllabte instant of whieh the mantra HRIM ts an example.
@@ -80,6 +81,7 @@ Again, the real truth here about this matter which has not been learnt by others
 the one that follows the letter 's[^471]'" - the one that takes the form of "pepha" of the nature of fire[^472] with the fourth vowel and bindu."#71 Again, (one can take) the "below that" (part of the verse) as: the one that follows "s" is the letter "h" and a half of that is the aspirated "h". "Below that" also is the one which follows "s" of the nature of half an "r" in the form of a triangle!7? that is "downward pointing" and designated by the name "the face of the yogin?" etc.. The comprehensiveness (of the mantra HRĪM is demonstrated): by the letter "Ī" which is "e" because its form is the same as Sakti's;[^473] by the letter "h" which by virtue of being the same intoxicating sort is the letter "k";[^474] by the letter "r" which is the letter "I" because it recalls the (essential) oneness of "r" and "1";%75 and because of its being the half of that which follows "s", the letter "s" is implied.[^476] So this nucleus (of letters) is in essence the contraction (into) subtle form of all the parts of the root mantra.[^477] Because of its inward nature, the order of inherence is implied. Enough said.
 
 470\. "Repha" is synonymous with the letter "r". The one that follows the letter "s" is the letter "h" whose visarga form has been given as "the two bindus". "S" followed by "r" cean be said to be the two constituents of visarga because in sandhi visarga may substitute for either letter. In the Sāradā script the letter "r" or "repha" is written as ẹ\$ and the lower half of it ts a triangle.
+
 [^474]: Mādana is an epithet for Kāma who is represented by the letter "k". The Māyā bṛja which begins with the letter "h" indicates by its name that it can produce an intoxicated sort of world illusion.
 
 475\. "R" and "1" are the two closely related semi-vowels of the Sanskrit language.
@@ -215,6 +217,7 @@ NAME IS JOINED TO (A CAKRA) THAT IS WORSHIPPED WITH THE
 MUDRĀ AND ALL THE OFFERINGS IN RED.
 
 By "with the mudrā" is meant in the form of the yont which will be described later.[^10-p290] "With the name only" but not including the image etc..
+
 [^6-p290]: Presumably the Srīcakra is intended, although it is possible  that only one or two of the inner cakras need be drawn.
 [^7-p290]: Literally: "thinking upon" it; Skt.: "eintayet".
 [^8-p290]: The sādhaka has placed himself in the middle of the cakra probably in a standing position alongside the drawn image of the sādhyā, or else, he has drawn his own image beside the other's.
@@ -250,6 +253,7 @@ He also discusses (it) from the point of view of meditation and repetition of th
 15\. (THE SĀDHAKA) CAN UPSET ALL YOUNG WOMEN BY MEDITATING
 
 ON THE GREAT KĀMAKALĀ.[^19-p291]
+
 [^12-p291]: A semi-divine being. The males are frequently the attendants of Kubera.
 [^14-p291]: Half-human, half-animal beings often in the service of Kubera.
 
@@ -465,6 +469,7 @@ LETTERS OF THE ALPHABET.
 The gist is that one should enclose each letter of the beneficiary's name.[^37] By "in the middle" is indirectly stated that this should be done inside the cakra, otherwise, the statement "also outside" will have no relevance. "To be enclosed" means:
 
 "Each letter of the (person's) name ìs to be encased in the mantra (and) by knowers of mantra (this) should be understood as stringing them together."
+
 [^34]: I.e., the root mantra ~ KEILHRIM HSKLHRĪM HKHLHRĪM.
 
 [^33]: "Bāhumīlaśikhā" = "top of the armpit", t.e. on the shoulder, or somewhere above the elbow.
@@ -559,6 +564,7 @@ WITH A GLANCE HE PRODUCES FITS OF POSSESSION AND EVERY
 45\. WITH ONE LOOK HE IMMEDIATELY DESTROYS THE FEVER WHICH
 
 (RECURS) EVERY FOURTH DAY.[^42]
+
 [^41]: Literally: "to the ends" of the four seas; Skt.: "samudraparyantai".
 
 [^40]: I.e., unseen by the sādhaka.
@@ -693,6 +699,7 @@ THE PERSON IS HATED BY EVERYONE.
 The meaning of the verse is that, as before, the cakra is inscribed with the person's name in buffalo and horse dung mixed with cow's urine and is thrown into the middle of sour gruel, (whereupon) he will be hated by everyone.
 
 End of commentary on Verse 59.
+
 [^44]: I.e., in the east.
 
 *[p. 302]* ^pg298
@@ -899,6 +906,7 @@ THE EXCELLENT SĀDHAKA IMMEDIATELY ATTAINS THEM ALL -~
 THE PĒDUKĀ,[^55] THE SWORD,[^56] THE VETĒLA,[^57] THE SIDDHA, 58
 
 THE SIDDHI OF RAW FLESH,[^58] THE MANAHŜILĀ, 6°
+
 [^54]: I.e., the fourteenth day of the dark fortnight.
 [^55]: A stiek ts empowered with a vetāla and tis then sent off through the atir to destroy tts vietim. See KCT VI:22-27.
 [^57]: The Vetãla siddhi gives one the power to command the spirit of a corpse. See KCT VI:19-20.
@@ -926,6 +934,7 @@ Here ends the second chapter in the commentary composed by Srīmad
 Rājānaka Jayaratha on the SrīvāmakeSvarīmatam.
 
 61\. The "Anjana" or ointment siddhi results from the application of a certain mixture around the eyes described in the Kulacūdāmaṇi Tantra (VI: 39-40) as made from the ground bones of a cat mixed with musk, aloe and sandal. The effect of the siddhi is to make the sādhaka invisible?
+
 [^64]: The sãdhaka has the power of attracting yakgints who are presumably at his command.
 
 [^62]: The possessor of this siddhi is able to contraet himself into a minute size that is capable of passing through the smallest hole. See KCT VI:44.
@@ -1230,6 +1239,7 @@ There in the middle where the existent-non-existent state of
 supreme reality arises, one should place one's thought.
 
 This supreme mudrā of Liberation and others with (their) hand positions are found in all the sāstras. "3%
+
 [^31]: "Smell of intoxication" is a reference to the Mūlādhāra cakra whose element is earth assoctated with the sense of smell.
 [^32]: Literally: "That is in the mind of some great-souled people!"
 
@@ -1341,6 +1351,7 @@ SUPREME AND SURPASSES ALL KNOWLEDGE.
 BY MERELY PUTTING IT INTO PRACTICE ONE IS NO LONGER
 
 SUBMERGED IN THE OCEAN OF EXISTENCE.
+
 [^2-p318]: I.e., although "mudrās" are actions, prior knowledge about how to make them is necessary.
 
 [^1-p318]: Ritual practice or "sādhana” has the general meaning of a practice whieh effects a goal. TIn this context, it ts a ritual practice of worship and the varying sādhanas are aimed at producing varying spiritual effects.
@@ -1381,6 +1392,7 @@ self-evident or self-existent one.
 *[p. 320]* ^pg316
 
 a nature that is undivided by all the multitudes of śaktís.[^6-p320] She is without a name because She does not tolerate any definite designation.[^7] She is "first" because She is self-existent. Therefore because She does not evince the other determinants,[^8-p320] She is the shining forth of all the swallowed-up tattvas and kalanās.[^9-p320] She consists of the splendour of supreme I-ness and is the essence of Vimarśa. Strictly one, She is the absolute reality capable of (producing) the various manifestations and myriad phenomena. Due to her very own greatness and the desire to display Herself outwardly, the "Sakti" has the nature of Icchã, Jnāna and Kriyā in the supreme state. In the subtle state She is characterised by Vāmā, Jyeṣṭhā and Raudrī, and in the gross state She is differentiated into Brahmāã, Viṣṇu and Siva.[^10-p320] In keeping with the meaning (of the name), She is Tripurā of the three strongholds (in the way that has been mentioned!t) and of those states that are filled with creation, maintenance and destruction. By "the three worlds" is meant (the states) that have the nature of transcendence,
+
 [^6-p320]: "aktis" are female potencies that are expressions of her supreme power, but they are not her constituent parts in the sense that She ts their sum. She is One in and beyond the many.
 [^9-p320]: The Goddess is able to vomit forth the universe which tis swallowed up within Herself for the very reason that She ts indefinable and without attributes. The finite can only manifest from what ts not-fintite. The Absolute consists of both Prakãsa and Vimarśa (prakāśa-vimarśamaya) - the self-luminous and the self-conscious. As they are tnseparable there ts no question of the superiority of one over the other. However, in the act of manifesting, the Vimarśa aspect is to the fore as it represents the power ‚which gives rise to self-conscetousness, will, knowledge and ačtton. The "tattvas" are the thirt -six principles of creation in a - Y P P f The "kalanās" are attributes or qualittes.
 

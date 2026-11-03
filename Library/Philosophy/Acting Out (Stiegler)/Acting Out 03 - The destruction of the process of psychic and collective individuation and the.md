@@ -71,7 +71,7 @@ Disgust and discredit
 
 The system of synchronization put in place by the cultural industries (which aim at the adoption of consumer products through a system of integrated marketing) leads to de-diachronization, that is, to disbanding through the loss of love of self, and thus leads-through the loss of love, by all and of all, and hence the loss of all faith and all *credit-to* ruin, *here including in the pecuniary sense,* in the *generalized reign of disgust,* that is, of the diabolical. 10 All this makes possible the mad cow and all the phenomena of rejection of consumer products: these processes are the symptoms of a primordial suffering, if I may put it like this-a suffering of primordial narcissism-which leads to no longer wanting to consume, and thus to grabbing onto a certain number of alibis to justify this refusal to consume, alibis that correspond moreover to evident realities (the prion is not a phantasm). It concerns catastrophic phenomena in the strict sense: *in a single blow,* extremely dangerous rejection behavior proliferates, testifying to the fact that the unlimited exploitation of consumption engenders a refusal to consume that is itself unlimited (but in another relation to the unlimited, called the infinite).
 
-*[PDF 74]* ^pg74
+*[p. 64]* ^pg74
 
 Narcissism, diachrony, and
 

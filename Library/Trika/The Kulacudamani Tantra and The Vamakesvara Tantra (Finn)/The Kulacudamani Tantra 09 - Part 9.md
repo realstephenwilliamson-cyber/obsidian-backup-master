@@ -72,6 +72,7 @@ TRIANGLE,[^36] OH SUPREME LADY:
 *[p. 327]* ^pg323
 
 As a result of entering on the supreme inner path, She is "in a subtle form", i.e. unknowable due to her being of one essence with the supreme pramātp.[^37] And because of her intimate association in this, She is first. Since She (ever) remains in her own essence, She is the supreme Sakti who is also the whole causal universe actualised in her self. (She is the supreme Śakti) who as a result of the greatness of her autonomous will desires to display outwardly. Due to the tendency to propagate all things, assuming the coiled-up form,[^38] (as) Vāmā She reaches the sprouting stage vomiting forth[^39] the entire swallowed-up universe. Thereafter desiring to arise She is the peak. Jyeṣṭhā attains the state of rod-like clear straight lines which are all the paths that exist upto the doomsday conflagration.[^40]“ By duly closing the boundary, Raudrī - who is the one desirous of annihalating the world - produces the pyramidal triangular form whose essence is the joyful conmingling of the three saktis Icchãā etc..[^41] It means that She is manifesting the foremost letter[^42] which breathes life into all the letters (and) which is the three states of creation, preservation and destruction depicted on the screen of her self.
+
 [^37]: I.e., Siva.
 
 [^38]: I.e., in the form of Kundalint.
@@ -228,6 +229,7 @@ AND THE ŚAKTT BĪJA IS ICCHĀ HERSELF.
 Of the tattvas the three are liberation, desire and viga.[^70] ’° Of the varpas (the three are) Vāgbhava, Kāmarāja and akti blja.” And of the śaktis (the three are) Jñāna sakti etc.. There is an
 
 68\. See the commentary to the following verses for an explanation of the terms "tattva, varpa and sakti".
+
 [^70]: "Visa" is a reference to the ürdhvakuṇndalint in which the prāṇa and apāna prāṇas together rise up in the Suṣgumnā. Viga specifically symbolizes the rising up of the normally downward current of apāna. (Singh, Vijnānabhairava, p.
 
 65.) 71\. These are the three constituent bljas of the fifteen syllable root mantra.
@@ -313,6 +315,7 @@ AWAKENING ONE TO CONSCIOUSNESS AND BLISS.
 WHEN THE BRAHMA KNOT[^77]” HAS BEEN PIERCED SHE IS IN THE
 
 FORM OF A LIGHT ON THE TIP OF THE TONGUE.[^78]
+
 [^77]: The brahmagrantht is the first of the three principal obstructive knots which Kuṇndalint pierces on her way to Sahasrāra.
 
 [^76]: Alternatively, one may resort to a purely mental form of worship, tn which case, one internally visualizes the offerings. "Tantric and other texts often attach great value to the execution of 'mental worship’ (mānasa pūjā) which is sometimes said far to exceed in effectivity the external worship with lamps ete.." (Goudriaan, Māyā, p. 248.)
@@ -329,6 +332,7 @@ From the mention here of the word "penis", one extracts the term "desire" which 
 "The brahmagranthi is declared to be in the middle of fire and viga. The one who has reached it becomes versed in all śāstra matters and a poet."
 
 According to this verse the brahmagranthi lies between the two bearers of fire and viga at the root of the genitals in what is specified as the Sākta support.[^84] Having pierced it carefully, resolutely and completely (not just slightly), the supreme middle Sakti (comes) shining forth. She is Vāgīśvarī in the form of bīja who of her very nature is awakening one to consciousness and bliss, activating the sound of enlightenment.
+
 [^79]: See note 70. By "visa" the brahmagranthi ts probably intended. In the ascent of Kundalint, tt ts the point at which the two breaths are arrested.
 [^81]: Fire or "vahni" symbolizes the prāna breath in particular, but also the. "adhah Kuṇdalint" whose descent into the Mūlādhāra (after unton with Śiva in the Sahasrāra) reasserts the creative process. (Singh, Vijñanabhairava, p. 65.)
 
@@ -360,6 +364,7 @@ The gist is that even these types of people who reflect upon it become eloquent.
 intelligence ruined by cunning charms.
 
 End of commentary on Verse 26.
+
 [^85]: Sanskrit: "sphāra".
 
 [^86]: Jayaratha is taking exception to the remarks of an unknown commentator.
@@ -410,6 +415,7 @@ THE VIJNĀNA (DOCTRINE)[^91] AND THE PĀTĀLA SCRIPTURES.[^92]
 HE HAS EXPERIENCE OF NUMEROUS CRAFTS SUCH AS THE MAKING OF
 
 LOVELY PICTURES ETC.. (AND)
+
 [^89]: The mantras of Garuda are used in removing the effeets of potson as this mythical bird ts traditionally the enemy of the snake.
 [^90]: Tantras dealing with the subject of ghosts and the like.
 [^91]: The Vijñānavāãda of the Buddhists?
@@ -486,9 +492,11 @@ Indeed, (it can be achieved) by anyone when in the form.of Kāmakalā the very m
 “The Kāma without a head is the one whose abode is in the heart of Kāminī. "100
 
 She who is of the essence of the (just) mentioned vowel-less "h" kalā[^101] nature is like the newly risen sun; like the fruit of the Bimba[^102] and in a shimmering red form like the lighted flame of a lamp, She is continuously raining down her quintessence which is a stream of menstrual blood.[^103] In whatever distant places etc. (they may be), by means of her great predominance, She is in possession of the living egos of al\] the helpless sēõdhyās.[^104] She is that which is in a coiled-up form lying inside the Madana, i.e. the sexual organ (being the cause of its arousal)[^105] of whichever sādhyā, i.e. woman (there is).
+
 [^99]: The "middle Sakti" is Kungalint who rises up through the Sugumā or middle current.
 
 100\. "yithout a head" refers to the mātrā or straight line from which the Sanskrit characters are suspended.
+
 [^101]: "Kalā" ís used here in the sense of "letter".
 [^104]: The goddess ts in the role (bhumikā) of the sādhyā whose individual ego has been suppressed. It doesn't matter wherever or how many sādhyās there are, the Goddess is impersonated in them all.
 
@@ -514,6 +522,7 @@ According to this verse, that which has the nature of flame and bindu is the "sp
 According to a subsequent verse, in due order She is to be meditated upon (due to the mingling with equal savour of one another's prāṇaśaktíis) as the "essence of both", i.e. of the sādhaka and the sādhya "each one". And so "from the end of desire" means of Madana,[^110] i.e. from the sprouting tip; "up to the end" means to the dvādaśānta[^111] "of desire", i.e. of the akula void in the body of the sādhya. Meanwhile very intently:
 
 "A prāṇa equalising repetition of the mantra should be done."[^112]
+
 [^107]: The meaning of this verse is obseure.
 
 [^106]: "Mind-born bindu" is a reference to the Kūma bindu.
@@ -597,6 +606,7 @@ Kāmini.
 One should draw the gaze of the sakti astride the eyes with it."
 
 115\. I.e., Kundalini sakti.
+
 [^116]: Jayaratha is pointing out that despite the assoctations of  the moon with coolness, the metaphor of "rosy-red moon" intends to suggest a combination of both warmth and  refreshment.
 
 [^117]: Jayaratka ts potnting out a grammatical error.
@@ -671,6 +681,7 @@ Due to the difficulty of piercing the two knots of the palate,[^126] She is "enf
 126\.
 
 127\.
+
 [^123]: I.e., KLIY.
 
 [^122]: The half-uttered "h" is visarga or the Śakti as Kuṇgalinī who rises through the middle breath channel called Sugumnā.
@@ -696,6 +707,7 @@ And so on. According to precept, one should "cast" into the eyes etc. of the sā
 *[p. 348]* ^pg344
 
 which is producing the wheel of created beings.[^131] It means that in oneself, by the preceding action of concealment and rest,[^132] one brings (her) through (her) own inclination into a state lacking in self-control.[^133]
+
 [^133]: The above interpretatton of the Kāmamantra verses (45 & 46) apparently refers to the raising of Kundalin? who, when aroused, longs for union with Śiva in the Sahasrāra. The practice is antaryāga" or an inner form of worship, but the imagery tis deam from sexual love. The sãdhaka "leads" (nayet) his beloved Kundalinī to unton in the secret trysting place in the Sahasrāra. The force of his desire and words (mantra) inflame Her to seek union with Śiva. This ritual spiritual "intercourse" within the Self produces ecstasy and a stream of neetar that suffuses the practitioner in bliss. However, tt seems that the beloved must ultimately return home. In the process of parting, they wend their way stopping here and there to exchange loving looks, i.e. Kuṇndalint pauses to rest in the intervening four cakras. (As She does not go directly to Sahasrāra neither does She proceed direetly home.) She feels helpless and all her being ts at the sādhaka's disposal. Possessing Kuṇndalint and her divine energy gives the sādhaka the abtlity to play havoc with the universe, i.e. he acquires supernatural powers. Whilst the imagery of the commentary (not unique to this conmentary) ts concrete and sexual, the practice thereby described is a purely inner and spiritual one that begets fruits of a spiritual nature. Furthermore, as Ŝiva and Kungalin? represent the polar aspects of the sādhaka's own being, ít ts really he himself as Stva who unites with his other self - the Goddess who is the sādhyā.
 
 [^131]: The practice being spoken of in this passage and in the commentary to Verse 44 may have connection with secret mudrās that have nothing to do with hand postures. Singh says that in the Kramamudrāã "the mind swings alternately between the internal and the external. The internal appears as the universal: consciousness and the external no longer appears as merely the world, but as the form of Śiva or universal consetousness. (Singh, Pratyabhijnāhydayam, p p. 155.) Elsewhere he says that it tnvolves "an entrance of consetousness from the external into the internal and (then) from the internal into the external." (Ibid., p. 104.) Or, the practice may have to do with "bhrūkgepa" which ts a closely guarded secret for converting prānte energy into eitsakti. (Singh, Vijñānabhairava, p. 28.) \` The commentary to Verse 44 also indicates that this praetice (or another one similar to it) ts extremely esoterie.
@@ -1072,6 +1084,7 @@ In this way mentioning the dominance over women (resulting) from the mādanas, (
 HE OVERPOWERS THE GODS, GANDHARVAS, THE SIDDHAS AND
 
 THE VIDYĀDHARAS WITH HIS BODY TRANSFORMED INTO TRIPURĀ.
+
 [^189]: Verses 60-64 discuss the worship as far as the etght-spoked cakra with two different sets of blja mantras (arrows, bow, noose and goad) depending on whether one wants to affeet men or women.
 
 [^186]: Epithet of the god of love and its use in the main verse indicates that the yoni tis the location intended. The cakra with its bījas should be meditated upon in the sexual organ of the woman.

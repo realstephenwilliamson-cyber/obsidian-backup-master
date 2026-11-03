@@ -33,6 +33,7 @@ ONE IS DESTRUCTION. THUS (ONE GETS) THIS GREAT CAKRA
 CONTAINING MAHĀSRĪTRIPURĀ.[^212]
 
 According to what has been said, the cakra is effulgent because, in essence, there is a manifesting forth due to its marvelous (symbolic) configuration. It is "great" because it is different from other cakras mentioned in the various other scriptures; because it is the cause of all things having the nature of pramātp and prameya and because of its gradua\] manifestation of the (creative) display. It is designated by the word "ceakra" because by producing the realisation of the Self, it "cuts away"[^213] - removing everything and leaving only pure conscious ness; because it (connotes) the satisfactions and miseries of "plenty" etc. due to its turnings through the inferior (planes of existence);[^214] and because of its essence as creation, maintenance, destruction and the ineffable state (which transcends them}. Hence, She who is above
+
 [^212]: The first cakra = the fourteen-spoked cakra; the two middle ones = the two ten-spoked cakras; the oblation eater = the eight-spoked cakra and the fifth = the inner triangle. Note that the movement in this verse ts from creation on the outside towards dissolution at centre. See commentary below.
 
 [^213]: This is a reference to the meaning of "eakra" as discus or weapon.
@@ -89,6 +90,7 @@ As they say:
 \`“{support).
 
 But as it is an error on the part of the reader, the teaching of that (interpretation) is stupidity."
+
 [^224]: In this enumeration the inner white triangle and the central dot are included together under the name "Sarvānandakara".
 
 [^223]: A reference to the transcendental state called "anākhya".
@@ -175,6 +177,7 @@ shape of a pyramidal triangle...." (4:9)
 As for Ambikā being in the first letter: "in the Srīsarvavīra and other texts, in various places various new dispositions have been revealed for them in the extraction of other letters also." So, where even in the extraction of other letters there is no definite form, how can there be question of the first (letter) elsewhere?[^240] 2o In this matter there is certainly no fixed identification. Or else, the fault of the commentator is due to the fact that the learned man is also caught up with the need to make a living....[^241] Enough of this discussion:
 
 End of commentary on Verse 41.
+
 [^238]: The quotation is from Tantra Sadbhāva quoted in the Siva-sūtravimarsinī (II:3) of Kṣemarãja.
 
 [^237]: Literally: "She of the three paths".
@@ -215,6 +218,7 @@ ALL ONE'S TASKS.
 OH GODDESS! IT CAUSES (MENTAL) POSSESSION AND THE OPERATION
 
 OF VEDHA.[^246]
+
 [^244]: Those accomplishments that result from the mastery of vartous mantras.
 
 [^242]: The text is corrected to read from "asta" to "asya".
@@ -283,6 +287,7 @@ CONFUSING ANOTHER'S JUDGEMENT.
 IT OBSTRUCTS THE DISCUS[^251] OF THE FOE AND IMPEDES THE
 
 WEAPON OF THE ANTAGONIST.
+
 [^250]: I.e., Mahātripurasundart.
 
 [^247]: Literally: "produces".
@@ -317,6 +322,7 @@ FORTUNE.
 Although "melting" and "putting to flight" are designated separately, they indicate the same sort of thing. "Immobilise" explicitly means the immobilisation of enemy armies etc.. By “"(mental) possession"
 
 (is meant) the fifty different types of possession etc. that are mentioned elsewhere.[^253] "Vedha" (is done) through the nature of mantra sound which is spoken about in many places and in many ways.[^254] By "sacred bathing places" and "all the vows" is meant that it gives the benefits (incurred) by going on pilgrimage and performing vows. "Suffering" is agitation - a particular kind of affliction[^255] contrary to contentment. "Sorrow" is merely a grieving for oneself or another. "Immense enjoyment" is with respect to worldly things. By the mention of this phrase "it produces total bliss"[^256] (which is to assert the lack of real difference between "governor" and "governed"), the ninth cakra (beloved because it is deserving of worship) is also to be indirectly understood.[^257]
+
 [^257]: Total bliss arises when there is no longer any distinction i between subjeet/objeet, governor/governed ete., t.e. when duality is transeended. In terms of the Srīcakra this state of supreme bliss ts symbolised by the bindu - the ninth cakra called "Sarvānandakara".
 
 [^252]: Literally: "great poison"; Skt.: "mahāviṣa".
@@ -399,6 +405,7 @@ Afterwards one should extend a pair of threads.
 So this is called the ten-spoked cakra and is the third one. One should take up two threads with the apex on the fifth line, upto the two intersecting points of the middle upper and lower
 
 triangles.
+
 [^262]: Usually round, a mandala may deseribe a square. Here square is intended as can be judged from the later context.
 
 264\. I.e., the "pericarp" with the five Saktis and the four fires will 262. 263. cover approximately one-third of the central one-third area.
@@ -565,6 +572,7 @@ By "from the second and the sixth (threads})}" is meant those which have been in
 *[p. 229]* ^pg225
 
 By "up" (and) “the upper and lower facing ones in the middle" is meant that the object is to go "up to", i.e. as far as the intersecting points (that arise from their mutual intersection) on the two triangles that are involved in the prior , subsequent and third (cakras).[^295] This is the cakra.?96 The reason for the resumē of the five cakras
+
 [^295]: The triangles referred to are those formed from the first and seventh lines. They are the only ones involved in all the previous three cakras. One should put the apex of the new triangle on the fifth line and take the base line through the points where the first and seventh Line triangles intersect with one another.
 
 296\.
@@ -850,6 +858,7 @@ In view (of the fact) that there is no unanimity (on the interpretation) of Vāg
 83\. THE BĪJA BETWEEN "E" AND "O" THAT APPLIES TO SPEECH[^311]
 
 WITH THE ALONE ONE.
+
 [^309]: SAUḤ is the Śakti bija.
 
 [^310]: "Haṇsadeva" = goose god and "vahnivesma" = the abode of fire.
@@ -882,6 +891,7 @@ Oh Great Goddess: The Kæmarãja grants perfection in matters of desire.
 Oh Queen of the Gods! When the lord of the night[^318] is extracted,
 
 316\. "Puraṇdara" is an epithet of Indra, hence the letter "I". 8317.
+
 [^317]: I.e., the letter "i".
 
 [^312]: Mādana ts an epithet of the god of desire Kāma, hence "k".
@@ -907,6 +917,7 @@ KaraSuddhikarī."[^320]
 The one between "o" and "j" is "ai". The one above "jh" is "am". Hence AIM. The one between "am" and "g" is "k" (in terms of upward pointing triangles); the one between "v" and "r" is "I" and the one between "ā" and "g" is "ī". Hence KLĪM. The one between "v" and "h" is "s"; the one below "ā" is "au" and the one between "aṇ" and "k" is "ah". Hence
 
 SAUH.
+
 [^320]: The Śrīrasamahodadhi uses a particular chart or grid of letters by which to extract mantras. It is reproduced in the commentary of the NSA on p. 45 of the Sanskrit edition and tisreproduced here below.
 
 [^319]: "Creation" = visarga (ah) because it ts something "emitted" or projected outwards.
@@ -940,6 +951,7 @@ In one who is assiduous in its worship and japa, siddhi arises within six months
 So listen, Oh Goddess:, to those mantras that are extracted."
 
 the arrangement of the (textual) exposition.[^324]
+
 [^323]: The letter "a".
 
 [^321]: A measure of length equal to four hastas.
@@ -1015,6 +1027,7 @@ THE FIRST POSITION OF THIS VIDYA.
 828\. "Kulavidyā" suggests that it is the "lady of the fanily"
 
 to be kept hidden away and protected.
+
 [^329]: By doing aganyāsa with this mantra, t.e. by ritually placing the mantra on the various parts of the body, one is protected.
 
 *[p. 242]* ^pg238

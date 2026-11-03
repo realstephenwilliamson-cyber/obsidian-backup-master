@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 328]* ^pg347
 
-(prakāśana) of the entity is not accomplished (siddha). According to the Nyāya, consciousness is an inherent quality of perception, but not the Self. The Self appears to be sentient in the course of perception, otherwise not. Even if cognition is in this way the object of another cognition, the primary modality of the causative is not (operative), and so the manifestation (of cognition) would not be established (siddha). It is not logically tenable for there to be a (conscious) unifier (pratisadhātr) of what is insentient and unmanifest. In the absence of a (conscious) unification (of elements perceived separately), the superimposition (adhyāropa) based on it is not logically possible.” As that is so, how could a metaphoric ascription be sustained here? So enough of much (discussion). 
+(prakāśana) of the entity is not accomplished (siddha). According to the Nyāya, consciousness is an inherent quality of perception, but not the Self. The Self appears to be sentient in the course of perception, otherwise not. Even if cognition is in this way the object of another cognition, the primary modality of the causative is not (operative), and so the manifestation (of cognition) would not be established (siddha). It is not logically tenable for there to be a (conscious) unifier (pratisadhātr) of what is insentient and unmanifest. In the absence of a (conscious) unification (of elements perceived separately), the superimposition (adhyāropa) based on it is not logically possible.[^76] As that is so, how could a metaphoric ascription be sustained here? So enough of much (discussion). 
 
 Surely, (the opponent may rejoin,) although a lamp is an object of illumination of something else (i.e. cognition), yet it serves as a light of (an outer) object. Such should also be the case with cognition. So how is it that it is said that cognition, which is not manifest by nature (aprakāśarūpa), does not manifest the object (artha), because it is the object of another (succeeding) cognition? Thus he says: 
 
@@ -27,7 +27,7 @@ nanu pradīpo rūpasya prakāśaḥ katham īdṛśam || 52 ||
 
 Surely, (you may object,) how is it that a lamp illumines the form 
 
-(of something)” in this way? (52cd) 
+(of something)[^77] in this way? (52cd) 
 
 #### Viveka on 10.52
 
@@ -46,9 +46,9 @@ atrāpi na 1404111) etāḥ kiń nu yuktivikalpanāḥ |
 
 Here (in this case, the example advanced) is not only totally refuted (as valid) by sound argument; there is also a lack of correspondence (between the example and cognition, which it exemplifies). Thus he says: 
 
-76\. Saying that an object ‘shines’, i.e. manifests or appears because it is illumined by perception, implies that the object is inherently unmanifest. To say that ‘it shines by the light of perception’ is a metaphor is equivalent to saying that the ‘luminosity’ of perception is superimposed on the object. It is like the snake that is superimposed on a rope and seen in its place. But this is not possible in this case, because only a sentient perceiver could connect the image of a snake seen somewhere at some time with the rope that is present before him.
+[^76]: Saying that an object ‘shines’, i.e. manifests or appears because it is illumined by perception, implies that the object is inherently unmanifest. To say that ‘it shines by the light of perception’ is a metaphor is equivalent to saying that the ‘luminosity’ of perception is superimposed on the object. It is like the snake that is superimposed on a rope and seen in its place. But this is not possible in this case, because only a sentient perceiver could connect the image of a snake seen somewhere at some time with the rope that is present before him.
 
-77\. kathan pradīpo rūpasya prakāśaḥ literally means ‘how is the lamp is the light of form’.
+[^77]: kathan pradīpo rūpasya prakāśaḥ literally means ‘how is the lamp is the light of form’.
 
 
 *[p. 329]* ^pg348
@@ -65,26 +65,26 @@ A lamp illumines the form (rūpa) (of an object) by its very nature, and it is t
 
 #### Viveka on 10.53–54
 
-‘This is not the case’ (with cognition), because (according to you,) it is not self-luminous. Thus, the word ‘certainly’ (stresses that this case) is different. Thus, when an object is made manifest, the lamp illumines itself, cognition certainly does not. Thus (it is said that), ‘that is not proved which is established by an unproven argument’. The point is that, according to this axiom (nyāya), how could cognition (jñāna), which does not itself shine, illumine something else? He further strengthens (the view that there is a) lack of correspondence (between the example and cognition, which it exemplifies,) in another way also. 
+‘This is not the case’ (with cognition), because (according to you,) it is not self-luminous. Thus, the word ‘certainly’ (stresses that this case) is different. Thus, when an object is made manifest, the lamp illumines itself, cognition certainly does not.[^78] Thus (it is said that), ‘that is not proved which is established by an unproven argument’. The point is that, according to this axiom (nyāya), how could cognition (jñāna), which does not itself shine, illumine something else? He further strengthens (the view that there is a) lack of correspondence (between the example and cognition, which it exemplifies,) in another way also. 
 
 ### TĀ 10.54–55
 
 प्रदीपश्चैष भावानां प्रकाशत्वं दधात्यलम् ॥ ५४ ॥
 अन्यथा न प्रकाेरत्रभेदे चेदृशो विधिः ।
 
-pradīpaś caiṣa bhāvānām prakāśatvaṁ dadhāty” alam ॥ 54 ॥ anyathā na prakāśeran na bhede cedṛśo vidhiḥ | 
+pradīpaś caiṣa bhāvānām prakāśatvaṁ dadhāty[^79] alam ॥ 54 ॥ anyathā na prakāśeran na bhede cedṛśo vidhiḥ | 
 
 Again, the lamp gives sufficient light to the things (it illumines); otherwise, they would not shine. (However,) the same applies (to cognition only) if it is there is no difference (bheda) (between it and the object). (54cd-55ab) 
 
 #### Viveka on 10.54–55
 
-(The lamp) ‘gives light’; that is, bestows luminosity (to the objects it lights up,) by strewing its own light (all around). This is the meaning. It is due to this that the false report of those who spread false rumours is that, even though a cloth is blue, it is falsely (said to be) red.” In this way, objects would not manifest (lit. ‘possess light’) without them assuming luminosity (from something else). That is said (with the words): ‘otherwise they would not shine’. Thus it is said (by implication), that in (the light of a) a dim lamp, 
+(The lamp) ‘gives light’; that is, bestows luminosity (to the objects it lights up,) by strewing its own light (all around). This is the meaning. It is due to this that the false report of those who spread false rumours is that, even though a cloth is blue, it is falsely (said to be) red.[^80] In this way, objects would not manifest (lit. ‘possess light’) without them assuming luminosity (from something else). That is said (with the words): ‘otherwise they would not shine’. Thus it is said (by implication), that in (the light of a) a dim lamp, 
 
-78\. The Nyāya does not agree that cognitions ‘illumine’ themselves; that is, they are not known in themselves to themselves. They are known by subsequent cognitions. See above, note 10,69.
+[^78]: The Nyāya does not agree that cognitions ‘illumine’ themselves; that is, they are not known in themselves to themselves. They are known by subsequent cognitions. See above, note 10,69.
 
-79\. \[illegible\] As suggested by the editor of the printed text, read dadhāty for dadāty.
+[^79]: \[illegible\] As suggested by the editor of the printed text, read dadhāty for dadāty.
 
-80\. One person can deceive another concerning the nature of an object that is not clearly visible, because it is not well illuminated. This can happen because the light that illumines it may be of varying intensity, according to the degree and spread of its rays. If objects were to be self-luminous, that would not be possible.
+[^80]: One person can deceive another concerning the nature of an object that is not clearly visible, because it is not well illuminated. This can happen because the light that illumines it may be of varying intensity, according to the degree and spread of its rays. If objects were to be self-luminous, that would not be possible.
 
 
 *[p. 330]* ^pg349
@@ -116,6 +116,7 @@ Therefore, the nature of each individual thing (bhāvavapus) is clearly apparent
 Thus he says: 
 
 [^81]: Above, 1/52ab. Also quoted in TĀv ad 1/26 and 1/54. The next line is given in brackets for the sake of clarity.
+
 [^82]: \[illegible\] Above, 10/19ab; also quoted above in TĀv ad 10/19cd and ad 10/68cd-69.
 
 *[p. 331]* ^pg350
@@ -170,17 +171,17 @@ buddhvā nādatta evāśu parīpsāvivaśo ‘pi san |
 seyari paśyati mār netratribhāgeneti sādaram || 59 ॥
 svaṁ deham amṛteneva siktar paśyati kāmukaḥ | 
 
-Thus, the thief restrains (himself),” conscious that (what he intends to do) is clearly perceptible (vedya) to Caitra. He is not quick to take (anything), although full of desire to do so. Similarly, the lover who, full of respectful devotion, (is aware that his beloved) is looking at him with a sidelong glance, sees (and feels as if) his own body is being sprinkled with 
+Thus, the thief restrains (himself),[^84] conscious that (what he intends to do) is clearly perceptible (vedya) to Caitra. He is not quick to take (anything), although full of desire to do so. Similarly, the lover who, full of respectful devotion, (is aware that his beloved) is looking at him with a sidelong glance, sees (and feels as if) his own body is being sprinkled with 
 
-nectar." (58cd-60ab) 
+nectar.[^85] (58cd-60ab) 
 
 #### Viveka on 10.58–60
 
 The meaning is, just as ‘a thief’, although intent on the desire to lay hold of (and steal) some particular object, ‘is not quick’ (to do so), that is, (does not engage) in increasing degrees of reflecting (on how to do it). This is because, having understood that it is clearly certain that Caitra knows (that he intends to do so), he does not take it, even though it is supremely (needful for him) to have it. Thus, he is not able to either take or abandon it. Thus, because 
 
-84\. This verse connects to verse 10/56cd-57ab.
+[^84]: This verse connects to verse 10/56cd-57ab.
 
-85\. \[illegible\] The above are two examples of how ‘being known’ affects the subject of the knowledge ~ the thief suffers for it, while the lover feels pleasure.
+[^85]: \[illegible\] The above are two examples of how ‘being known’ affects the subject of the knowledge ~ the thief suffers for it, while the lover feels pleasure.
 
 
 *[p. 333]* ^pg352
@@ -208,7 +209,7 @@ Nor is this perceptibility just consciousness alone, which is cognition, as it i
 
 *[p. 334]* ^pg353
 
-entity (itself) or its (inherent) attribute. (However,) perceptibility is not thus the entity (itself). It is its perceptibility. It is certainly not just perceptibility (itself). Therefore, it is an (inherent) attribute of that (entity), and so it was rightly said that ‘perceptibility (vedyatva) is a property of an entity (bhāvadharmay’ .\* 
+entity (itself) or its (inherent) attribute. (However,) perceptibility is not thus the entity (itself). It is its perceptibility. It is certainly not just perceptibility (itself). Therefore, it is an (inherent) attribute of that (entity), and so it was rightly said that ‘perceptibility (vedyatva) is a property of an entity (bhāvadharmay’ .[^86] 
 
 Surely (then, one may object) that here (in this case), the aforementioned defect (applies), namely, that if perceptibility were to be an attribute of the (perceivable) entity, then (that attribute) should be (perceptible) to all. (We declare that) that is not so. Thus he says: 
 
@@ -220,13 +221,13 @@ Surely (then, one may object) that here (in this case), the aforementioned defec
 yac coktaṁ vedyatādharmo bhāvaḥ sarvān api prati ॥ 61 ॥
 syād ity etat svapakṣaghnaṁ duṣprayogāstravat tava | 
 
-(The objection) that has been voiced, namely, that perceptibility is an attribute” of the (perceivable) entity; (as such,) it would be (perceptible) to all ~ (our response to that reply is that,) like a weapon badly handled, this (response itself) confutes your own view, (not ours). (61cd-62ab) 
+(The objection) that has been voiced, namely, that perceptibility is an attribute[^87] of the (perceivable) entity; (as such,) it would be (perceptible) to all ~ (our response to that reply is that,) like a weapon badly handled, this (response itself) confutes your own view, (not ours). (61cd-62ab) 
 
 #### Viveka on 10.61–62
 
 It is your delusion, namely that, (like) the mace of Varuṇa (vārunī gadā), because it is ‘badly handled’, that is, used against Vāsudeva, who is not fighting, killed the one who was known to have that weapon (śrutāyudha). In the same way, applying (this logical) 
 
-fallacy to my view, you would demolish your own.\* Moreover, even if cognition does not impart (some special) quality to the object, and if, according to your view, it assumes a state of perceptibility because that special quality is not specific (to any one perceiver), then it would be perceptible to all. On the contrary, according to our view, only Śiva, who is free and whose nature is the supreme light (of consciousness), exists. Nothing else at all exists in relation to Him. Thus, because nothing (else) exists, to whom would He manifest? Thus he says: 
+fallacy to my view, you would demolish your own.[^88] Moreover, even if cognition does not impart (some special) quality to the object, and if, according to your view, it assumes a state of perceptibility because that special quality is not specific (to any one perceiver), then it would be perceptible to all. On the contrary, according to our view, only Śiva, who is free and whose nature is the supreme light (of consciousness), exists. Nothing else at all exists in relation to Him. Thus, because nothing (else) exists, to whom would He manifest? Thus he says: 
 
 ### TĀ 10.62–63
 
@@ -240,11 +241,11 @@ We who are the votaries of the doctrine that only Śiva exists and is self-lumin
 
 #### Viveka on 10.62–63
 
-86\. Below, 10/132c.
+[^86]: Below, 10/132c.
 
-87\. \[illegible\] Read vedyatādharmo for vedyatādharmā.
+[^87]: \[illegible\] Read vedyatādharmo for vedyatādharmā.
 
-88\. Read tvatpakṣam eva for matpakṣam eva.
+[^88]: Read tvatpakṣam eva for matpakṣam eva.
 
 
 *[p. 335]* ^pg354
@@ -282,24 +283,24 @@ tava nīlaḥ ki nu pīto maivaṁ bhūn na tu nīlakaḥ |
 na kañcit prati nīlo ‘sau nīlo vā yar prati sthitaḥ | 65 ॥
 tar praty eva sa vedyaḥ syāt saṁkalpadvārako ‘ntataḥ | 
 
-(Consider this:) the blue colour of Kālāgnirudra’s” body is certainly not your (common) blue. Is it yellow (or any other colour then)? Certainly not! But nor is it blue. Either this blue (does) not (manifest as) such for anybody, or else it (manifests as) blue (only) for the (person) who 
+(Consider this:) the blue colour of Kālāgnirudra’s[^89] body is certainly not your (common) blue. Is it yellow (or any other colour then)? Certainly not! But nor is it blue. Either this blue (does) not (manifest as) such for anybody, or else it (manifests as) blue (only) for the (person) who 
 
-89\. Kālāgnirudra — the Rudra of the Fire of Time — is a particular form of Śiva; see above,
+[^89]: Kālāgnirudra — the Rudra of the Fire of Time — is a particular form of Śiva; see above, 4/164-167.
 
 
 *[p. 336]* ^pg355
 
 stands before it; and ultimately, (the same would be the case even if it is 
 
-only) imagined.” (64cd-66ab) 
+only) imagined.[^90] (64cd-66ab) 
 
 #### Viveka on 10.64–66
 
-The quality called ‘blue’ perceived in the body of Kālāgnirudra cannot be considered to be that of Caitra’s (body). It is not right to say that an attribute (dharma) present in the possessor of (that) attribute (dharmin) is also present in another bearer of attributes as its own. By saying that it is present in Kālāgnirudra’s body is meant that it is impossible to perceive it elsewhere as the attribute of something else. Surely (one may ask), if the (colour) blue is present in something else (anyagata), and is not so for someone else, would it be yellow for him? Thus he asks: “is it yellow?” To which he replies “certainly not! But nor is it blue”. One should not consider it to be yellow or blue. It is not logically possible for the red colour of a jar to be the red colour of a cloth.” Thus we do not understand what the sense of the view is that (the colour) blue (manifests equally) for everybody. If the sense of (your) view is that (the colour) blue is the same for all, as it is perceptible, (then) what is to be proved (dārṣtāntaka) has been made into the example (dṛṣtāntīkṛta). (Thus, you have) declared something that is contrary to your own view; thus it is said that (it is said) by ‘those of dull intellect’. Here (according to) our view, on the contrary, there is no separate manifestation (avabhāsa) of subject and object in relation the supreme subject, and so what could manifest to whom? Thus he says: ‘this blue (does) not (manifest as) such for anybody’. Although there is an evident division between subject and object in relation to the lower (phenomenal) subject, but as the object (artha) is of the nature of the subject (anyway), in accord with the aforestated reasoning, blue would be perceptible (vedya) to that (perceiver) to whom (the colour) blue (appears). Thus he says: ‘or else it is blue (only for the (person) who stands before it)’. Surely (the opponent may object), we do not observe any cause (nimitta) at all for a fixed rule that (the colour) blue (of this example must always be) perceptible (vedya). (Simply) due to differences in (its) location and time, for example, it may also become out of reach of the senses (parokṣa). With this doubt in mind, he says: ‘ultimately (the same would be the case even if it is not an object of direct perception, but) 
+The quality called ‘blue’ perceived in the body of Kālāgnirudra cannot be considered to be that of Caitra’s (body). It is not right to say that an attribute (dharma) present in the possessor of (that) attribute (dharmin) is also present in another bearer of attributes as its own. By saying that it is present in Kālāgnirudra’s body is meant that it is impossible to perceive it elsewhere as the attribute of something else. Surely (one may ask), if the (colour) blue is present in something else (anyagata), and is not so for someone else, would it be yellow for him? Thus he asks: “is it yellow?” To which he replies “certainly not! But nor is it blue”. One should not consider it to be yellow or blue. It is not logically possible for the red colour of a jar to be the red colour of a cloth.[^91] Thus we do not understand what the sense of the view is that (the colour) blue (manifests equally) for everybody. If the sense of (your) view is that (the colour) blue is the same for all, as it is perceptible, (then) what is to be proved (dārṣtāntaka) has been made into the example (dṛṣtāntīkṛta). (Thus, you have) declared something that is contrary to your own view; thus it is said that (it is said) by ‘those of dull intellect’. Here (according to) our view, on the contrary, there is no separate manifestation (avabhāsa) of subject and object in relation the supreme subject, and so what could manifest to whom? Thus he says: ‘this blue (does) not (manifest as) such for anybody’. Although there is an evident division between subject and object in relation to the lower (phenomenal) subject, but as the object (artha) is of the nature of the subject (anyway), in accord with the aforestated reasoning, blue would be perceptible (vedya) to that (perceiver) to whom (the colour) blue (appears). Thus he says: ‘or else it is blue (only for the (person) who stands before it)’. Surely (the opponent may object), we do not observe any cause (nimitta) at all for a fixed rule that (the colour) blue (of this example must always be) perceptible (vedya). (Simply) due to differences in (its) location and time, for example, it may also become out of reach of the senses (parokṣa). With this doubt in mind, he says: ‘ultimately (the same would be the case even if it is not an object of direct perception, but) 
 
-90\. Gnoli writes in a note to his translation of these verses: “Thus the notion that this is ‘equal for all’ cannot be sustained even from the point of view of the opponent (whether he be a Naiyāyika or of any other school). According to Abhinavagupta, a quality (dharma), whatever it may be, is not equally the same for everybody; moreover, it differs according to the possessor of that quality (dharmin). The colour ‘blue’ that appears related to the body of Kālāgnirudra is not the same ‘blue’ that appears in relation to Caitra, because one cannot say that the same quality that belongs to a particular possessor of that quality belongs also to another. Thus the assertion that the quality ‘blue’ appears equally with reference to all without distinction is erroneous. From the Śaiva point of view, which maintains that there is only one subject, the colour ‘blue’ cannot be (be said to) to be set in relation to just one particular, determinate subject. Moreover, to say that the colour ‘blue’ that appears with reference to a particular subject is also ‘perceptible’ for him is a completely imaginary assertion. One should bear in mind that according to this school, a quality or potency (dharma, śakti) is not separate from its possessor, as the Vaiśeṣika maintains. See above, 1/158.
+[^90]: Gnoli writes in a note to his translation of these verses: “Thus the notion that this is ‘equal for all’ cannot be sustained even from the point of view of the opponent (whether he be a Naiyāyika or of any other school). According to Abhinavagupta, a quality (dharma), whatever it may be, is not equally the same for everybody; moreover, it differs according to the possessor of that quality (dharmin). The colour ‘blue’ that appears related to the body of Kālāgnirudra is not the same ‘blue’ that appears in relation to Caitra, because one cannot say that the same quality that belongs to a particular possessor of that quality belongs also to another. Thus the assertion that the quality ‘blue’ appears equally with reference to all without distinction is erroneous. From the Śaiva point of view, which maintains that there is only one subject, the colour ‘blue’ cannot be (be said to) to be set in relation to just one particular, determinate subject. Moreover, to say that the colour ‘blue’ that appears with reference to a particular subject is also ‘perceptible’ for him is a completely imaginary assertion. One should bear in mind that according to this school, a quality or potency (dharma, śakti) is not separate from its possessor, as the Vaiśeṣika maintains. See above, 1/158.
 
-91\. Read lauhityam iti for mālinyam ity.
+[^91]: Read lauhityam iti for mālinyam ity.
 
 
 *[p. 337]* ^pg356
@@ -321,15 +322,15 @@ Just as you declare that cognition is the light of (a particular) object, you sh
 
 #### Viveka on 10.66–67
 
-You have said that the nature of cognition \[illegible\] is that it is universally (sāmānyena) the light of (any) entity (perceived). (But) although it is the light of all things without distinction, even so, because it is not possible for (cognition) to be simultaneously in conjunction with an endless number of entities,” it is accepted (in your view) that cognition is (not associated with all things in the same way, and so is) the light of (only some) fixed (determined) entity, (with the result that one perceives that) ‘this is the cognition of blue’ and ‘this is the cognition of yellow’.” Such is the case in our view also; the quality called ‘perceptibility’ belongs to the object (the perceiver seeks to) perceive, or else (we) say that it is associated with a (specific) fixed (and determined) perceiver (so that a perceptible object is not for this reason perceived by one and all simultaneously). What is this inappropriate obstinacy (on your part) that what is perceptible to one perceiver should also be so to another in the same way? Now, just as the creativity (of a cause), for example, does not assume a (different) constraining basis (nibandhana) other than (its effect),” that is also just the same here (in this case) also. It is (our) contention that, on the plane of Māyā, perceptibility is a product of the (individual) perceiver. Thus, the Naiyāyika’s (empirical analytical) method (prakriyā) is based on the daily business of life (vyavahāra), which (takes place) on the plane of Māyā. This is the tradition of the ancients.” 
+You have said that the nature of cognition \[illegible\] is that it is universally (sāmānyena) the light of (any) entity (perceived). (But) although it is the light of all things without distinction, even so, because it is not possible for (cognition) to be simultaneously in conjunction with an endless number of entities,[^92] it is accepted (in your view) that cognition is (not associated with all things in the same way, and so is) the light of (only some) fixed (determined) entity, (with the result that one perceives that) ‘this is the cognition of blue’ and ‘this is the cognition of yellow’.[^93] Such is the case in our view also; the quality called ‘perceptibility’ belongs to the object (the perceiver seeks to) perceive, or else (we) say that it is associated with a (specific) fixed (and determined) perceiver (so that a perceptible object is not for this reason perceived by one and all simultaneously). What is this inappropriate obstinacy (on your part) that what is perceptible to one perceiver should also be so to another in the same way? Now, just as the creativity (of a cause), for example, does not assume a (different) constraining basis (nibandhana) other than (its effect),[^94] that is also just the same here (in this case) also. It is (our) contention that, on the plane of Māyā, perceptibility is a product of the (individual) perceiver. Thus, the Naiyāyika’s (empirical analytical) method (prakriyā) is based on the daily business of life (vyavahāra), which (takes place) on the plane of Māyā. This is the tradition of the ancients.[^95] 
 
-92\. Read samārthānantyāyogāt for sāmasamanantyāyogāt.
+[^92]: Read samārthānantyāyogāt for sāmasamanantyāyogāt.
 
-93\. Read pītajñṁānam idam iti for pītajṁñānam iti.
+[^93]: Read pītajñṁānam idam iti for pītajṁñānam iti.
 
-94\. \[illegible\] Read nibandhanāntarari nāśrīyate for nibandhanāntaramāśrīyate.
+[^94]: \[illegible\] Read nibandhanāntarari nāśrīyate for nibandhanāntaramāśrīyate.
 
-95\. Gnoli translates the last line as “The ‘perceptibility’ on the part of a (particular) sentient subject is a property of the object.’ He writes in a note: ‘According to the opponent, a quality maintains its identity for all subjects, but appears in relation to a particular subject in the form of ‘this is yellow’ or ‘this is blue’. Thus, if we say that ‘perceptibility’, which is a quality of the thing, appears in relation to a particular subject and not to others, you would have no reason to object.”
+[^95]: Gnoli translates the last line as “The ‘perceptibility’ on the part of a (particular) sentient subject is a property of the object.’ He writes in a note: ‘According to the opponent, a quality maintains its identity for all subjects, but appears in relation to a particular subject in the form of ‘this is yellow’ or ‘this is blue’. Thus, if we say that ‘perceptibility’, which is a quality of the thing, appears in relation to a particular subject and not to others, you would have no reason to object.”
 
 
 *[p. 338]* ^pg357
@@ -343,7 +344,7 @@ We do not see even a tiny (possibility of an) occasion for the application of th
 
 na ca jñātātra niyataḥ kaścij jñāne yathā tava ॥ 67 ॥ arthe jñātā yadā yo yas tad vedyaṁ vapur ucyatām | 
 
-Unlike you, (we do not maintain) here (in our view) that the subject is fixed (and determined) (niyata) in the course of cognition.” You should say that the perceptible objective nature of an entity (vedyaṁ vapus) (is always the same,) whoever the perceiver may be or whenever (he may be present). (67cd-68ab) 
+Unlike you, (we do not maintain) here (in our view) that the subject is fixed (and determined) (niyata) in the course of cognition.[^96] You should say that the perceptible objective nature of an entity (vedyaṁ vapus) (is always the same,) whoever the perceiver may be or whenever (he may be present). (67cd-68ab) 
 
 #### Viveka on 10.67–68
 
@@ -359,7 +360,7 @@ One who, although he has heard us say this repeatedly, (nonetheless) ignores it,
 tattadvijñātrvedyatvarni sarvān praty eva bhāsatām ॥ 68 ||
 ity evan codayan manye vrajed badhiradhuryatām | 
 
-96\. In the sense of pre-existent, already formed, separate from Śiva, and something apart from the manifest nature of the object, just as the opponent maintains that the object is independent of its cognition. According to this Śaiva view, the conscious subject is not a separate reality from the object; on the contrary, it is a subject to the degree in which it moves out towards the object and contains within itself all things.
+[^96]: In the sense of pre-existent, already formed, separate from Śiva, and something apart from the manifest nature of the object, just as the opponent maintains that the object is independent of its cognition. According to this Śaiva view, the conscious subject is not a separate reality from the object; on the contrary, it is a subject to the degree in which it moves out towards the object and contains within itself all things.
 
 
 *[p. 339]* ^pg358
@@ -368,13 +369,13 @@ na hy anyar prati vai kañcid bhāti sā vedyatā tathā ॥ 69 ॥
 
 He who insists that the perceptibility (of a particular object apprehended) by the particular subject (who perceives it) should be manifest to all has, I believe, reached the limit of deafness. That perceptibility (as we understand it to be) (vedyatā) does not manifest in this 
 
-way to any other (subject).” (68cd-69) 
+way to any other (subject).[^97] (68cd-69) 
 
 #### Viveka on 10.68–69
 
 (The opponent has reached) ‘the limit of deafness’. What is being said in this way is that a deaf man does not hear at all, whereas although (the opponent) does hear, he does not listen, and so excels him also (in deafness). ‘That perceptibility (as we understand it to be) (vedyatā) does not manifest in this way,’ that is, in a state of oneness, ‘to any other (subject)’, the nature of which is the consciousness associated with the manifestation of that entity. The meaning is that an entity would not become perceptible to him. 
 
-Thus, does what was said before, namely that ‘perceptibility (vedyatā) is an entity’s own (specific) form’, make you angry without cause? Thus he says: 
+Thus, does what was said before, namely that ‘perceptibility (vedyatā) is an entity’s own (specific) form’,[^98] make you angry without cause? Thus he says: 
 
 ### TĀ 10.70
 
@@ -385,13 +386,13 @@ bhāvasya rūpam ity ukte keyam asthānavaidhurī |
 
 #### Viveka on 10.70
 
-Surely (the opponent may object that), according to the view that perceptibility is a property of an entity (bhāvadharma), perceptibility itself also, like (the colour) blue, for example, is associated with the perceptibility that penetrates into the essential nature (of something) that is separate from itself, (and that perceptibility would similarly require another and so on;) thus this would entail an infinite regress.” How can that (fallacy) be avoided? 
+Surely (the opponent may object that), according to the view that perceptibility is a property of an entity (bhāvadharma), perceptibility itself also, like (the colour) blue, for example, is associated with the perceptibility that penetrates into the essential nature (of something) that is separate from itself, (and that perceptibility would similarly require another and so on;) thus this would entail an infinite regress.[^99] How can that (fallacy) be avoided? 
 
-97\. According to Abhinava, talk of ‘any other’ (subject) or ‘all other’ (subjects) makes no sense, because the subject is one only and identified with Śiva, who is free and independent in all respects. Moreover, all objects are one with him.
+[^97]: According to Abhinava, talk of ‘any other’ (subject) or ‘all other’ (subjects) makes no sense, because the subject is one only and identified with Śiva, who is free and independent in all respects. Moreover, all objects are one with him.
 
-98\. \[illegible\] Above, 10/19ab, also quoted above in TĀv ad 10/55cd-56ab.
+[^98]: \[illegible\] Above, 10/19ab, also quoted above in TĀv ad 10/55cd-56ab.
 
-99\. The colour blue is known to the perceiver because it is perceptible. Its perceptibility inheres in the object of which blue is a quality. But in order to perceive that perceptibility, it must itself possess that same quality of perceptibility. If so, then that perceptibility would also have to possess that quality, and so on, leading to an infinite regress. This is because each of the ‘perceptibilities’ are qualities of different things. Cf, above, 10/23-24cd: ‘Again, if this (hypothetical) quality called ‘perceptibility’ is itself imperceptible, (then it is no more real then) a sky-flower. But if it is perceptible, then there should be perceptibility there (in that) also, and (so that would result in) an infinite regress. Thus, nothing would be perceptible, and the (entire) universe would be (as if) in a coma.’
+[^99]: The colour blue is known to the perceiver because it is perceptible. Its perceptibility inheres in the object of which blue is a quality. But in order to perceive that perceptibility, it must itself possess that same quality of perceptibility. If so, then that perceptibility would also have to possess that quality, and so on, leading to an infinite regress. This is because each of the ‘perceptibilities’ are qualities of different things. Cf, above, 10/23-24cd: ‘Again, if this (hypothetical) quality called ‘perceptibility’ is itself imperceptible, (then it is no more real then) a sky-flower. But if it is perceptible, then there should be perceptibility there (in that) also, and (so that would result in) an infinite regress. Thus, nothing would be perceptible, and the (entire) universe would be (as if) in a coma.’
 
 
 *[p. 340]* ^pg359
@@ -409,7 +410,7 @@ This line of reasoning totally precludes (the possibility) of an infinite regres
 
 ‘This line of reasoning’, namely, that just as it is not reasonable that the perceptibility (of something) to one perceiver be related to another perceiver, in the same way, because the same reasoning holds good, (the perceptibility of one thing is not) related to the perceptibility of (something) 
 
-else. 
+else.[^100] 
 
 He explains that with reasoned argument: 
 
@@ -425,15 +426,15 @@ dharmī vedyatvam abhyeti sa sattāsamavāyavat |
 
 Perceptibility is not like the colour blue or other (qualities of an object). Rather, it is (a fundamental) attribute (dharma) (of an object), like Being (sattā) and inherence (samavāya). Conjoined with that (yad yogāt), the substratum (dharmin), that possesses all the qualities, becomes 
 
-perceptible.” (71bcd-72ab) 
+perceptible.[^101] (71bcd-72ab) 
 
 #### Viveka on 10.71–72
 
 Surely (a question arises that the opponent must address). According to your view, is perceptibility just a quality (like all others), or does it belong to a different category of qualities (guṇnapadārtha), as essentially cognition (jñānarūpa)? In that case (tatra), if it were to be just a quality alone, it could not be associated with another quality called ‘perceptibility’. While if (you consider it) to be a quality of cognition, then according to the principle that ‘qualities (are themselves) without qualities’, how can (perceptibility) have a quality of the same type (sajātīya) as itself, which is an (additional) subsequent perceptibility 
 
-100\. In this case, the ‘something else’ is the perceptibility of the perceptibility. The first perceptibility renders the object to which is related perceptible. The second is the perceptibility of the perceptibility, which is something different.
+[^100]: In this case, the ‘something else’ is the perceptibility of the perceptibility. The first perceptibility renders the object to which is related perceptible. The second is the perceptibility of the perceptibility, which is something different.
 
-101\. In other words, by possessing this attribute called ‘perceptibility’, an object, along with all its properties, becomes perceptible. This includes the perceptibility itself.
+[^101]: In other words, by possessing this attribute called ‘perceptibility’, an object, along with all its properties, becomes perceptible. This includes the perceptibility itself.
 
 
 *[p. 341]* ^pg360
@@ -476,17 +477,17 @@ avedyo vedyatārūpād dharmād vedyatvam āgataḥ |
 
 *[p. 342]* ^pg361
 
-(particular) quality (viśeṣa) (of an entity) is separation, (that makes things) that are not separate, separate. Brilliant white (makes) what is not white, white. In the same way, movement (makes something move). Similarly, the bearer of attributes (dharmin) endowed with all its qualities, such as blue and the like, (although) in itself imperceptible (avedya), becomes, by virtue of the quality of perceptibility, perceptible.” (72cd-75ab) 
+(particular) quality (viśeṣa) (of an entity) is separation, (that makes things) that are not separate, separate. Brilliant white (makes) what is not white, white. In the same way, movement (makes something move). Similarly, the bearer of attributes (dharmin) endowed with all its qualities, such as blue and the like, (although) in itself imperceptible (avedya), becomes, by virtue of the quality of perceptibility, perceptible.[^103] (72cd-75ab) 
 
 #### Viveka on 10.72–75
 
-(The word) ‘makes’ is to be added to all these statements. (Being) ‘when present’ as it is by (its very) nature. ‘(Inherence) conjoined (to something)’. ‘(When something is) conjoined (with inherence)’ means that it performs (its own) function by itself (svayaṁ vṛttirūpaḥ).'\* “The last ((particular) quality (viśeṣa) (of an entity)) is the condition, amongst (those) eternal substances that are the endings (of things) called ‘the eng’, is the end of the arising and destruction (of something in particular). ʻA particular’ is that which separates off (an entity from all others), because it specifies in all respects (the entity) which is own substratum. This is the meaning. That which is ‘brilliant white’, that is, itself white, makes what is not white, white. This is the meaning. In the same way, (movement) makes that which is not moving, move. This is the sense (of this statement). One should add to (to what follows that, in the same way, an entity becomes perceptible) when perceptibility, having come (to be inherent in it,) abides (as such). Indeed, this is your philosophy, according to which Being (sattā), which is the supreme universal, (common to all existing 
+(The word) ‘makes’ is to be added to all these statements. (Being) ‘when present’ as it is by (its very) nature. ‘(Inherence) conjoined (to something)’. ‘(When something is) conjoined (with inherence)’ means that it performs (its own) function by itself (svayaṁ vṛttirūpaḥ).[^104] “The last ((particular) quality (viśeṣa) (of an entity)) is the condition, amongst (those) eternal substances that are the endings (of things) called ‘the eng’, is the end of the arising and destruction (of something in particular).[^105] ʻA particular’ is that which separates off (an entity from all others), because it specifies in all respects (the entity) which is own substratum. This is the meaning. That which is ‘brilliant white’, that is, itself white, makes what is not white, white. This is the meaning. In the same way, (movement) makes that which is not moving, move. This is the sense (of this statement). One should add to (to what follows that, in the same way, an entity becomes perceptible) when perceptibility, having come (to be inherent in it,) abides (as such). Indeed, this is your philosophy, according to which Being (sattā), which is the supreme universal, (common to all existing 
 
-103\. arises. Just as ‘blue’ is by its very nature existent, so also ‘perceptibility’ should be by its very nature perceivable. However, as ‘perceptibility’ is that by virtue of which something becomes perceptible, one and the same thing would have two contrasting qualities, namely, perceptibility and the capacity to make it perceptible (vedakatvam). We shall see that Abhinava counters this objection by saying that ‘perceptibility’ is ultimately equivalent to "self luminosity’.
+[^103]: arises. Just as ‘blue’ is by its very nature existent, so also ‘perceptibility’ should be by its very nature perceivable. However, as ‘perceptibility’ is that by virtue of which something becomes perceptible, one and the same thing would have two contrasting qualities, namely, perceptibility and the capacity to make it perceptible (vedakatvam). We shall see that Abhinava counters this objection by saying that ‘perceptibility’ is ultimately equivalent to "self luminosity’.
 
-104\. can be linked to a substance in two ways: by inherence (samavāya) or conjunction (sarṁyoga). The ‘clay-ness’ of clay is an inherent quality of clay, in the sense that without it, clay would not be clay, and so is linked to it by way of inherence. The colour of the clay, on the other hand, is an adventitious quality. It can vary without this entailing an inherent change in the clay. Thus, this kind of quality is linked to the clay by conjunction (sarryoga). These two kinds of qualities are often distinguished by calling them ‘dharma’ (‘attribute’) and ‘quality’ (guna), respectively. The point being made here is that the inherence that links an attribute to the bearer of that attribute does not require that there be another inherence to link the first inherence to the attribute. If that were to be so, that would lead to an infinite regress, and so inherence would be impossible, and clay could have no ‘clay-ness’, as the Buddhists maintain. In other words, inherence both inheres in the substance and causes other things to inhere in it, according to their nature. Thus it ‘it performs (its own) function by itself’.
+[^104]: can be linked to a substance in two ways: by inherence (samavāya) or conjunction (sarṁyoga). The ‘clay-ness’ of clay is an inherent quality of clay, in the sense that without it, clay would not be clay, and so is linked to it by way of inherence. The colour of the clay, on the other hand, is an adventitious quality. It can vary without this entailing an inherent change in the clay. Thus, this kind of quality is linked to the clay by conjunction (sarryoga). These two kinds of qualities are often distinguished by calling them ‘dharma’ (‘attribute’) and ‘quality’ (guna), respectively. The point being made here is that the inherence that links an attribute to the bearer of that attribute does not require that there be another inherence to link the first inherence to the attribute. If that were to be so, that would lead to an infinite regress, and so inherence would be impossible, and clay could have no ‘clay-ness’, as the Buddhists maintain. In other words, inherence both inheres in the substance and causes other things to inhere in it, according to their nature. Thus it ‘it performs (its own) function by itself’.
 
-105\. According to the Nyāya’s radically realist way of thinking, the end of an entity is ‘some thing’. That is evident, they say, because it is named ‘the end’, as is any existent thing. Moreover, it is eternal, as there can be no end of the end. There are as many ‘ends’ as there are things that come to an end. All of them are made of an ‘eternal substance’ (nityadravya). The ‘end’, like the other things presented here as examples, is both the end itself and it brings to an end what it is associated with, by way of inherence.
+[^105]: According to the Nyāya’s radically realist way of thinking, the end of an entity is ‘some thing’. That is evident, they say, because it is named ‘the end’, as is any existent thing. Moreover, it is eternal, as there can be no end of the end. There are as many ‘ends’ as there are things that come to an end. All of them are made of an ‘eternal substance’ (nityadravya). The ‘end’, like the other things presented here as examples, is both the end itself and it brings to an end what it is associated with, by way of inherence.
 
 
 *[p. 343]* ^pg362
@@ -495,30 +496,30 @@ things), is of two kinds, namely, Being which is the essential nature (of things
 
 ‘Being generates three categories (of things) (padārtha).” 
 
-There (in that context), substances (qualities and actions) neither exist nor do not exist (in themselves), by their very nature. They exist due to the inherence of Being (sattā) (within them). As Being exists by its very nature alone (eva), (to ask) whether it exists or not is mere (senseless) questioning. Another kind of universal is also implied in this way. This is so because a cow is not a cow by its inherent nature (svarūpena), nor is it not a cow. It is a cow by its association (abhisahbandha) with (universal) ‘cow-ness’. ‘Cow-ness’, however, is such of itself (svataḥ), and so does not entail union (yoga) with another universal (jāti). Just as an effect, whether a universal within (its) cause or in a particular (quality), is not in itself functional by nature (svayam avṛttirūpam), (but is so) by virtue of (its state) of inherence (within them). (However,) inherence, present within its own substratum, is functional in itself (svayam), and so does not require another (subsequent) functioning of inherence or the like (for it to inhere within it). 
+There (in that context), substances (qualities and actions) neither exist nor do not exist (in themselves), by their very nature. They exist due to the inherence of Being (sattā) (within them). As Being exists by its very nature alone (eva), (to ask) whether it exists or not is mere (senseless) questioning.[^106] Another kind of universal is also implied in this way. This is so because a cow is not a cow by its inherent nature (svarūpena), nor is it not a cow. It is a cow by its association (abhisahbandha) with (universal) ‘cow-ness’. ‘Cow-ness’, however, is such of itself (svataḥ), and so does not entail union (yoga) with another universal (jāti). Just as an effect, whether a universal within (its) cause or in a particular (quality), is not in itself functional by nature (svayam avṛttirūpam), (but is so) by virtue of (its state) of inherence (within them). (However,) inherence, present within its own substratum, is functional in itself (svayam), and so does not require another (subsequent) functioning of inherence or the like (for it to inhere within it). 
 
 Attributes such as qualities and actions that are the causes of the notion of exclusion (and difference) \[illegible\] are here (considered by Naiyāyikas to be) particulars 
 
-(viśeṣa) which serve as the counter to the doubts that (may) result from the association with universals that are the causes of the apprehensions (pratyaya) complying with (the specific nature of phenomenally) existing things.” The particulars that are the endings of those (particulars) are proved (to be existent) (siddha) by the direct perception of yogis, because otherwise, for those 
+(viśeṣa) which serve as the counter to the doubts that (may) result from the association with universals that are the causes of the apprehensions (pratyaya) complying with (the specific nature of phenomenally) existing things.[^107] The particulars that are the endings of those (particulars) are proved (to be existent) (siddha) by the direct perception of yogis, because otherwise, for those 
 
 who 
 
 are 
 
-like me, it would not be logically possible (mādṛśāmanyathānupapattyā) (to establish that). Amongst eternal substances, (‘endings’) are the cause of the notion of total exclusion (atyantavyāvṛtti) (of everything that exists), and they assume (a condition) which differs in character from both being of the same type or of a different type (sajātīyavijātīya) (from anything else). (They occur when the particulars) are destroyed (pralaya), or 
+like me, it would not be logically possible (mādṛśāmanyathānupapattyā) (to establish that). Amongst eternal substances, (‘endings’) are the cause of the notion of total exclusion (atyantavyāvṛtti) (of everything that exists), and they assume (a condition) which differs in character from both being of the same type or of a different type (sajātīyavijātīya) (from anything else).[^108] (They occur when the particulars) are destroyed (pralaya), or 
 
-106\. Read with MS K, paryanuyogamātram for paryanuyogapātram.
+[^106]: Read with MS K, paryanuyogamātram for paryanuyogapātram.
 
-107\. One may have a general notion that something is present. This is a universal. It is specified and identified by association with a particular quality (viśeṣa) that differentiates that particular entity from others. Thus, it is freed from the doubt of it being something else. When a pillar or the stump of a tree is seen at a distance on a foggy night, the universal ‘stump-ness’ is perceived, but its identity is uncertain. So one may ask oneself, “is this the stump of a tree or a man?” If by further examination, some defining details are perceived, it is possible to determine with certainty which one of the two options it is, by exclusion of one or the other (see above 1/249cd-250ab (248) ff.).
+[^107]: One may have a general notion that something is present. This is a universal. It is specified and identified by association with a particular quality (viśeṣa) that differentiates that particular entity from others. Thus, it is freed from the doubt of it being something else. When a pillar or the stump of a tree is seen at a distance on a foggy night, the universal ‘stump-ness’ is perceived, but its identity is uncertain. So one may ask oneself, “is this the stump of a tree or a man?” If by further examination, some defining details are perceived, it is possible to determine with certainty which one of the two options it is, by exclusion of one or the other (see above 1/249cd-250ab (248) ff.).
 
-108\. “The end’ as an eternal substance (see above note 10,105) is unique. There is nothing else which is of the same type. It is not a ‘thing’, that it can be of a different type from anything else.
+[^108]: “The end’ as an eternal substance (see above note 10,105) is unique. There is nothing else which is of the same type. It is not a ‘thing’, that it can be of a different type from anything else.
 
 
 *[p. 344]* ^pg363
 
 else when they are the cause of doubt due to their conjunction with a universal 
 
-(sāmānyayoga).'” 
+(sāmānyayoga).[^109] 
 
 Again, phenomena (bhāva) are not intrinsically (svarūpeṇa) exclusive of one another (vyāvṛtta), nor are they not so. Rather, it is by (their) union (yoga) with (the universal which is) ‘exclusion’ that they are exclusive of one another (vyāvytta). In this way, they are made to be exclusive (of one another) by the particulars (associated with each one). However, particulars are in themselves (svayam) exclusive by nature, and so cannot be conceived to be either exclusive (of one another) or not. Again, a cloth is neither intrinsically (svarūpāt) white nor otherwise; (rather,) it is white by its association (sańibandha) with the quality ‘white’. The quality ‘white’ (is such) by virtue of its white nature, another ‘white’ which is inherently concomitant with it (samavāyin) is not added on to it (to make it such). 
 
@@ -526,7 +527,7 @@ Again, just as one who is moving (gantr) is not in himself (svayam) one who move
 
 Surely (an opponent may object that), just as Being (sattā) exists by its very nature, so too perceptibility is perceptible by its very nature. (However,) by saying that, (one implies that that) same essential nature could come to possess the perceptibility (vedyatva) (of an object) as well as the subjectivity (vedakatva) (of a perceiver), and that is not logically sound because (they are mutually) contradictory. With this doubt in mind, (he responds) by bringing self-perceptibility (svayaṁsaṁvedyatā) to rest within the self-luminosity (of the 
 
-light of consciousness). 
+light of consciousness).[^110] 
 
 ### TĀ 10.75–76
 
@@ -535,9 +536,9 @@ light of consciousness).
 
 vedyatā bhāsamānā ca svayaṁ nīlādidharmavat || 75 ॥ 
 
-109\. See previous note 10,105 and 107.
+[^109]: See previous note 10,105 and 107.
 
-110\. The light of consciousness by virtue of which all things ‘shine’, that is, manifest, whether as objects or as their respective perceivers, illumines itself. Otherwise, it would fall to the level of an object of manifestation and so, reduced to a particular, could not be the universal Light that shines as all things. Moreover, for the same reason, the Light of consciousness is not and cannot be an object of perception of another consciousness. Consciousness, and hence cognition, which exemplifies it epistemologically as does manifestation ontologically, is self-cognitive. It is perceptible by its own consciousness (of itself) (svasaṁvedanasaṁvedya). If this were not so, a cognition would require another cognition to perceive it, and that too another, and so on, leading to an infinite regress that radically precludes perception. See above, note 10,69.
+[^110]: The light of consciousness by virtue of which all things ‘shine’, that is, manifest, whether as objects or as their respective perceivers, illumines itself. Otherwise, it would fall to the level of an object of manifestation and so, reduced to a particular, could not be the universal Light that shines as all things. Moreover, for the same reason, the Light of consciousness is not and cannot be an object of perception of another consciousness. Consciousness, and hence cognition, which exemplifies it epistemologically as does manifestation ontologically, is self-cognitive. It is perceptible by its own consciousness (of itself) (svasaṁvedanasaṁvedya). If this were not so, a cognition would require another cognition to perceive it, and that too another, and so on, leading to an infinite regress that radically precludes perception. See above, note 10,69.
 
 
 *[p. 345]* ^pg364
@@ -560,7 +561,7 @@ Thus, one should not consider perceptibility (vedyatā) to be itself perceivable
 prakāśe khalu viśrāntin vedyaḥ śrayati cet tataḥ ॥ 76 ॥
 nānyā kācid apekṣāsya kṛtakṛtyasya sarvataḥ | 
 
-If objectivity" thus abides at rest (in this way) in the light (of consciousness), it depends on nothing else, and has accomplished its task in every respect. (76cd-77ab) 
+If objectivity[^111] thus abides at rest (in this way) in the light (of consciousness), it depends on nothing else, and has accomplished its task in every respect. (76cd-77ab) 
 
 #### Viveka on 10.76–77
 
@@ -576,7 +577,7 @@ Surely (one may ask), if perceptibility is essentially repose in the Light (of c
 yathā ca śivanāthena svātantryād bhāsyate bhidā ॥ 77 |
 nīlādivat tathaivāyaṁi vedyatā dharma ucyate | 
 
-111\. Read vedyaḥ for vivam.
+[^111]: Read vedyaḥ for vivam.
 
 
 *[p. 346]* ^pg365
@@ -604,7 +605,7 @@ vedyatvam ekarūpaṁ syāc cāturdaśyam ataḥ kutaḥ ॥ 79 ॥
 
 is one for (all 
 
-the) subjects, (beginning with Śiva) up to the Fully Conditioned One (sakala) at the end, how is it that (it is said to be) of fourteen kinds?? (78cd-79) 
+the) subjects, (beginning with Śiva) up to the Fully Conditioned One (sakala) at the end, how is it that (it is said to be) of fourteen kinds?[^112] (78cd-79) 
 
 #### Viveka on 10.78–79
 
@@ -620,7 +621,7 @@ ucyate paripūrnaṁ ced bhāvīyaṁ rūpam ucyate |
 tad vibhur bhairavo devo bhagavān eva bhanyate ॥ 80 ॥
 atha tannijamāhātmyakalpito ‘mśāmśikākramaḥ | 
 
-112\. See above, 10/10cd-12ab.
+[^112]: See above, 10/10cd-12ab.
 
 
 *[p. 347]* ^pg366
@@ -649,9 +650,9 @@ The supreme secret (upaniṣad) is therefore this. Whatever be the form, in what
 
 #### Viveka on 10.82
 
-‘Whatever be the form’, that is, perceptible by (the hierarchy of) perceivers, beginning with the those that are fully conditioned (sakala) onwards up to Śiva, with (their power) in an emergent state or otherwise, (is its nature). \[illegible\] 
+‘Whatever be the form’, that is, perceptible by (the hierarchy of) perceivers, beginning with the those that are fully conditioned (sakala) onwards up to Śiva, with (their power) in an emergent state or otherwise, (is its nature).[^113] \[illegible\] 
 
-113\. reads: udriktānudriktaśaktikasakalādi-A perceiver that is completely conditioned by all the forms of Impurity (mala) will perceive the blue to be an independently existent entity that differs from all others and the perceiver. As the soul’s Impurity is removed, higher degrees of subjectivity emerge that perceive the same colour blue in varying forms and degrees of oneness with the perceiver and other objects. The purpose of the previous complex discussion is to logically establish that the same object may appear variously in this way to perceivers on different levels.
+[^113]: reads: udriktānudriktaśaktikasakalādi-A perceiver that is completely conditioned by all the forms of Impurity (mala) will perceive the blue to be an independently existent entity that differs from all others and the perceiver. As the soul’s Impurity is removed, higher degrees of subjectivity emerge that perceive the same colour blue in varying forms and degrees of oneness with the perceiver and other objects. The purpose of the previous complex discussion is to logically establish that the same object may appear variously in this way to perceivers on different levels.
 
 
 *[p. 348]* ^pg367
@@ -694,18 +695,18 @@ A Show Delights an Audience of Many Perceivers
 तथा ह्येकाग्रसकलसामाजिकजनेक्षितम् ।
 नृत्तं गीतं सुधासारसागरत्वेन मन्यते ।। ८५ ॥
 
-tathā hy ekāgrasakalasāmājikajanekṣitam |
+tathā hy ekāgrasakalasāmājikajanekṣitam[^114] |
 nṛttaṁ gītaṁ sudhāsārasāgaratvena manyate || 85 ॥ 
 
-In this (same) way, one experiences (manyate) the song and dance viewed by an audience of embodied (sakala) perceivers, who attend to it one-pointedly, to be (a veritable) ocean of the very essence of nectar.” (85) 
+In this (same) way, one experiences (manyate) the song and dance viewed by an audience of embodied (sakala) perceivers, who attend to it one-pointedly, to be (a veritable) ocean of the very essence of nectar.[^115] (85) 
 
 #### Viveka on 10.85
 
 For, in the same way, the people in the audience, all focused on the song and dance, take it to be an ocean of nectar-substance. 
 
-Here (in daily life, we observe that) one perceiver in the midst of the members of an audience who are viewing (a show), by the firmness (and stability of his concentration), values'' the excellence called ‘perceptibility’ (common to) many (perceivers) of, for example, dance and song. Considering (it to be excellent, he) reflects on that as the (very) essence of the wonder (that has reached its) ultimate level and is solely in the purview of his own experience. The excellence of the dance etc. is the collectivity (saṁcetya) of the object of many perceivers, (formed) because it is the object of each one of them individually. It is due to that, that in this aspect, which is such, the perceivers 
+Here (in daily life, we observe that) one perceiver in the midst of the members of an audience who are viewing (a show), by the firmness (and stability of his concentration), values[^116] the excellence called ‘perceptibility’ (common to) many (perceivers) of, for example, dance and song. Considering (it to be excellent, he) reflects on that as the (very) essence of the wonder (that has reached its) ultimate level and is solely in the purview of his own experience. The excellence of the dance etc. is the collectivity (saṁcetya) of the object of many perceivers, (formed) because it is the object of each one of them individually. It is due to that, that in this aspect, which is such, the perceivers 
 
-are one." 
+are one.[^117] 
 
 He says that. 
 
@@ -717,20 +718,20 @@ He says that.
 tata evocyate mallanaṭaprekṣopadeśane |
 sarvapramātṛtādātmyari pūrnarūpānubhāvakam || 86 ॥ 
 
-114\. Read with MSs G and C: -janekṣitam for -janaḥ khalu.
+[^114]: Read with MSs G and C: -janekṣitam for -janaḥ khalu.
 
-115\. CF. below, 27/373cd-380ab.
+[^115]: CF. below, 27/373cd-380ab.
 
-116\. Read manyate for mayeti.
+[^116]: Read manyate for mayeti.
 
-117\. Tt makes a great a difference if a person listens to music alone or if he hears it together with others. The aesthetic delight each individual experiences is amassed in the one experience of the collective subjectivity that emerges when, by the intense concentration of each individual, the lower daily discursive consciousness is transcended, and they enter the wonder of the oneness of a higher, universal subjectivity. Accordingly, Abhinava discusses aesthetic experience above in Chapter Three, which deals with Śāmbhavopāya. See 3/229 ff.
+[^117]: Tt makes a great a difference if a person listens to music alone or if he hears it together with others. The aesthetic delight each individual experiences is amassed in the one experience of the collective subjectivity that emerges when, by the intense concentration of each individual, the lower daily discursive consciousness is transcended, and they enter the wonder of the oneness of a higher, universal subjectivity. Accordingly, Abhinava discusses aesthetic experience above in Chapter Three, which deals with Śāmbhavopāya. See 3/229 ff.
 
 
 *[p. 350]* ^pg369
 
 Thus, it is taught in the teaching concerning a show of wrestlers or actors, that a state of identity (develops) between the subjects (who view it), 
 
-that gives rise to a (blissful) experience of plenitude.” (86) 
+that gives rise to a (blissful) experience of plenitude.[^118] (86) 
 
 #### Viveka on 10.86
 
@@ -752,18 +753,18 @@ Surely (one may ask), the perception (saṁvitti) of the dance etc. of each (per
 tāvanmātrārthasaṁvittituṣtāḥ pratyekaśo yadi |
 kaḥ sambhūya gunas teṣāṁ pramātraikyaṁ bhavec ca kim || 87 ॥ 
 
-If each (spectator) were to be satisfied with just as much awareness of the object (as he individually possesses and nothing more), then what quality do they have in common? What would the oneness of (these) perceivers (pramātraikya) be? (87) 
+If each (spectator) were to be satisfied with just as much awareness of the object (as he individually possesses and nothing more), then what quality do they have in common? What would the oneness of (these) perceivers (pramātraikya) be?[^119] (87) 
 
 #### Viveka on 10.87
 
-118\. See Gnoli 1985: 56-57 n. 3, and also below: 28/373cd-380ab.
+[^118]: See Gnoli 1985: 56-57 n. 3, and also below: 28/373cd-380ab.
 
-119\. ef, \[illegible\] 1/5/1 vol. 1 pp 238-9: tatrāpi kvacit ābhāse pramātṚn ekīkaroti nitambanīnytta iva prekṣakān tāvati hi teṣām ābhāse aikyam ‘There (in that case) also, when in some circumstance a (single unified) manifestation (of consciousness occurs,) making (many) perceivers one (within it), as does the dance of a beautiful woman the spectators. Such indeed is their oneness in (the presence) of (a single) manifestation (of consciousness they view together). When the spectators of a show are combined as one cognisor, the reality of their common perception is reinforced. In ĪP 1/5/1, the argument for a unity of cognisors is that all cognisors are ultimately just consciousness projected from the limited perspective of embodied (sakala) subjects. Sometimes the Lord unifies these various limited perceivers, joining them as one in relation to their common object, in this case the dancer, i.e., they are so rapt in their attention to the dance that they have no perception of the ‘self and ‘other’. This view is a way of solving a major issue in aesthetics, namely, whether it is a purely personal experience, or it is also that of another (svagataparagatatva). These verses (TĀ 10/83 ff) are addressed to this issue in an originally epistemological context, i.e. whether an object is a common object of perception to more than one perceiver. ‘When ‘T’ know something that is known by Caitra or by two or more people, this state of my knowing what others know becomes a variety of things, such as purposeful action and so on. For, in the same way, the people in the audience, all focused on the song and dance, take it to be an ocean of nectar-substance. For that reason, it is said that the identity of all cognisors with reference to spectating engenders an emotional effect which is full in form (cf. TĀ 10/87). If singly the spectators’ minds are satisfied by objects being just so (fāvanmātrārtha), what quality do they have in common, and how can they become a unity of cognisors? (cf. ibid. 10/88) But when an object is contained in an arrangement whose property is the state of being known by various people, then this object is other than its formerly dry form. The reasoning here is that, in general, the state of being known is not ‘dry’, i.e. it is not confined merely to itself, but is known in relation to other things by a consensus of cognisors. Thus, Abhinava argues for the notion of inference — that inference does not depend on pervasion as a process existing in objects, fire and smoke, as known by a single cognisor’s mental continuum, but rather by a unity of cognisors who, although distinct from one another, are made one in respect of both an appearance of smoke and an appearance of fire. The epistemological unity of cognisors in respect of the object of knowledge underlies the inferential process. Only in this way can we speak of inferential knowledge as new and unperceived before, and not as something known from a previous experience (ĪPv 2/4/15 vol. 2 pp 182-185)’ Kuanponpol 1991: p. 19-20, n 19.
+[^119]: ef, \[illegible\] 1/5/1 vol. 1 pp 238-9: tatrāpi kvacit ābhāse pramātṚn ekīkaroti nitambanīnytta iva prekṣakān tāvati hi teṣām ābhāse aikyam ‘There (in that case) also, when in some circumstance a (single unified) manifestation (of consciousness occurs,) making (many) perceivers one (within it), as does the dance of a beautiful woman the spectators. Such indeed is their oneness in (the presence) of (a single) manifestation (of consciousness they view together). When the spectators of a show are combined as one cognisor, the reality of their common perception is reinforced. In ĪP 1/5/1, the argument for a unity of cognisors is that all cognisors are ultimately just consciousness projected from the limited perspective of embodied (sakala) subjects. Sometimes the Lord unifies these various limited perceivers, joining them as one in relation to their common object, in this case the dancer, i.e., they are so rapt in their attention to the dance that they have no perception of the ‘self and ‘other’. This view is a way of solving a major issue in aesthetics, namely, whether it is a purely personal experience, or it is also that of another (svagataparagatatva). These verses (TĀ 10/83 ff) are addressed to this issue in an originally epistemological context, i.e. whether an object is a common object of perception to more than one perceiver. ‘When ‘T’ know something that is known by Caitra or by two or more people, this state of my knowing what others know becomes a variety of things, such as purposeful action and so on. For, in the same way, the people in the audience, all focused on the song and dance, take it to be an ocean of nectar-substance. For that reason, it is said that the identity of all cognisors with reference to spectating engenders an emotional effect which is full in form (cf. TĀ 10/87). If singly the spectators’ minds are satisfied by objects being just so (fāvanmātrārtha), what quality do they have in common, and how can they become a unity of cognisors? (cf. ibid. 10/88) But when an object is contained in an arrangement whose property is the state of being known by various people, then this object is other than its formerly dry form. The reasoning here is that, in general, the state of being known is not ‘dry’, i.e. it is not confined merely to itself, but is known in relation to other things by a consensus of cognisors. Thus, Abhinava argues for the notion of inference — that inference does not depend on pervasion as a process existing in objects, fire and smoke, as known by a single cognisor’s mental continuum, but rather by a unity of cognisors who, although distinct from one another, are made one in respect of both an appearance of smoke and an appearance of fire. The epistemological unity of cognisors in respect of the object of knowledge underlies the inferential process. Only in this way can we speak of inferential knowledge as new and unperceived before, and not as something known from a previous experience (ĪPv 2/4/15 vol. 2 pp 182-185)’ Kuanponpol 1991: p. 19-20, n 19.
 
 
 *[p. 351]* ^pg370
 
-What (added) quality is there (if) in this way the multiple perceptibility of the perceivers who are members of an audience were (all) brought together (into a single collective whole)? None at all! (All that would happen is) that the excellence of the wonder, witnessed by one’s own experience, would be concealed (nihnava). This is the meaning. Surely (one may object that), experience of wonder in this way is because of the oneness of the perceivers in just this aspect. With this doubt in mind, he says ‘what would the oneness of (these) perceivers be?’ The seed (cause), by virtue of which one is fit (to experience) the essence (of the collective aesthetic) delight (ānandasaṁdoha) of this kind, occurs when the subjects become one through the falling away of relative distinctions (bheda) (between them). (This is) brought about by the progressive growth of the reflective awareness, consisting of the repose within their own Self, (even though) the one object may manifest as variously perceptible (to different perceivers)."” 
+What (added) quality is there (if) in this way the multiple perceptibility of the perceivers who are members of an audience were (all) brought together (into a single collective whole)? None at all! (All that would happen is) that the excellence of the wonder, witnessed by one’s own experience, would be concealed (nihnava). This is the meaning. Surely (one may object that), experience of wonder in this way is because of the oneness of the perceivers in just this aspect. With this doubt in mind, he says ‘what would the oneness of (these) perceivers be?’ The seed (cause), by virtue of which one is fit (to experience) the essence (of the collective aesthetic) delight (ānandasaṁdoha) of this kind, occurs when the subjects become one through the falling away of relative distinctions (bheda) (between them). (This is) brought about by the progressive growth of the reflective awareness, consisting of the repose within their own Self, (even though) the one object may manifest as variously perceptible (to different perceivers).[^120] 
 
 Thus he says: 
 
@@ -775,7 +776,7 @@ Thus he says:
 yadā tu tattadvedyatvadharmasaridarbhagarbhitam |
 tad vastu śuṣkāt prāgrūpād anyad yuktam idaṁ tadā || 88 ॥ 
 
-120\. ekasmin hi vastuny anekavedyatāvabhāsa eva literally means, ‘there is the manifestation of many perceptibilities in one entity’.
+[^120]: ekasmin hi vastuny anekavedyatāvabhāsa eva literally means, ‘there is the manifestation of many perceptibilities in one entity’.
 
 
 *[p. 352]* ^pg371
@@ -814,7 +815,7 @@ Each particular perceptibility (vedyatva) performs (its own) specific function (
 
 *[p. 353]* ^pg372
 
-‘Generally’ means everywhere (in the scriptures), without exception. He gives an example beginning with the words ‘in this way’. And having himself explained (the passage), he goes on to relate it to the main point with the words (that it is the Lord’s experience of all things that is their) ‘sustaining ground’. Our (view of the nature of the) universe is not, as the dualists (maintain), that it is separate (from consciousness) so that, as they say, there is a relationship between (Śiva and the universe as) the sustainer and the sustained. Thus it is said that ʻit is the Lord’s experience (pravedana) of all things (viva) that is (their) sustaining ground’. The (universe) is made of consciousness, and the perceptible (saṁvedya) is the object (viṣaya) of consciousness. Thus it is said to be the sustainer (as well as) the sustained.” Known thus in this way to be Śiva’s object of perception as the many kinds of perceptibility, the natural (prakṛta) universe characterized as the Six Paths performs its natural function, which is the rite of initiation and the rest. The meaning is that it is capable (thereby) of (performing) this kind of function (arthakriyā). In this way, one attains each (particular) fixed (and determined metaphysical) principle as (the corresponding level of) perceptibility for the Mantra, Mantreśvara and the rest (of the higher perceivers). Thus, the function (arthakriyā) (of their perceptibility) here is various in countless (ways). 
+‘Generally’ means everywhere (in the scriptures), without exception. He gives an example beginning with the words ‘in this way’. And having himself explained (the passage), he goes on to relate it to the main point with the words (that it is the Lord’s experience of all things that is their) ‘sustaining ground’. Our (view of the nature of the) universe is not, as the dualists (maintain), that it is separate (from consciousness) so that, as they say, there is a relationship between (Śiva and the universe as) the sustainer and the sustained. Thus it is said that ʻit is the Lord’s experience (pravedana) of all things (viva) that is (their) sustaining ground’. The (universe) is made of consciousness, and the perceptible (saṁvedya) is the object (viṣaya) of consciousness. Thus it is said to be the sustainer (as well as) the sustained.[^122] Known thus in this way to be Śiva’s object of perception as the many kinds of perceptibility, the natural (prakṛta) universe characterized as the Six Paths performs its natural function, which is the rite of initiation and the rest. The meaning is that it is capable (thereby) of (performing) this kind of function (arthakriyā). In this way, one attains each (particular) fixed (and determined metaphysical) principle as (the corresponding level of) perceptibility for the Mantra, Mantreśvara and the rest (of the higher perceivers). Thus, the function (arthakriyā) (of their perceptibility) here is various in countless (ways). 
 
 Concluding that (point), he begins another. 
 
@@ -834,7 +835,7 @@ It has been proved in this way that this quality termed ‘perceptibility’ man
 
 ‘When it does not manifest’ means when there is no reflective awareness of the attribute (of an object) called ‘perceptibility’. Thus, devoid of other manifestations (ābhāsa), such as unconsciousness (saṁmūrchana) and the like, reflecting (that this is the colour) blue, that is, (not as a particular, but as) each single generic manifestation (ābhāsa), that is said to be the fifteenth 
 
-122\. The universe of experience is based on the subject’s (God’s) awareness of it; in fact, they are one and the same thing; it is this awareness that gives being to phenomenal entities, making them causally effective within their own sphere of activity. Pure consciousness is both the substratum and what it supports, the awareness and the object of awareness. The universe exists by virtue of the fact that it is Śiva’s object of awareness.
+[^122]: The universe of experience is based on the subject’s (God’s) awareness of it; in fact, they are one and the same thing; it is this awareness that gives being to phenomenal entities, making them causally effective within their own sphere of activity. Pure consciousness is both the substratum and what it supports, the awareness and the object of awareness. The universe exists by virtue of the fact that it is Śiva’s object of awareness.
 
 
 *[p. 354]* ^pg373
@@ -861,13 +862,13 @@ own
 
 specific characteristics (svālakṣanyāt)ů, by association (saṁṁmūrchanā) with the manifestations of (its) 
 
-location (in space) and (existence at a particular) time. This is the overall sense (bhāva).'” 
+location (in space) and (existence at a particular) time. This is the overall sense (bhāva).[^123] 
 
-‘The form in which (something (artha) appears to) oneself’, that is, the perceiver, is ‘its own nature’, which is (its own) essential nature (svarūpa) as a generic (rather than a particular object).'” Reflective awareness (vimarśa) posited here on the plane of Māyā, that is, on the conceptual level (vikalpadaśā) of awareness, operating (pravartamāna) in order to remove other qualities that have been projected onto it, separating off (every) other manifestation from the condition (of the object in which it manifests), in accord with its own specific characteristics (svālakṣanyāt), although (that manifestation, as are all others, is consciousness, and so) not (essentially) different (from it), contemplates the blue alone in a generic form (i.e. as ‘blueness’). It does not also make contact with Being, that is invariably concomitant with (an entity’s) ‘own nature’ (svarūpa). So, in the state of the reflective awareness of (pure, generic) ‘blue’ 
+‘The form in which (something (artha) appears to) oneself’, that is, the perceiver, is ‘its own nature’, which is (its own) essential nature (svarūpa) as a generic (rather than a particular object).[^124] Reflective awareness (vimarśa) posited here on the plane of Māyā, that is, on the conceptual level (vikalpadaśā) of awareness, operating (pravartamāna) in order to remove other qualities that have been projected onto it, separating off (every) other manifestation from the condition (of the object in which it manifests), in accord with its own specific characteristics (svālakṣanyāt), although (that manifestation, as are all others, is consciousness, and so) not (essentially) different (from it), contemplates the blue alone in a generic form (i.e. as ‘blueness’). It does not also make contact with Being, that is invariably concomitant with (an entity’s) ‘own nature’ (svarūpa). So, in the state of the reflective awareness of (pure, generic) ‘blue’ 
 
-123\. Thus, an entity’s own essential nature is a ‘generic’ or ‘universal’ (sāmāyātmaka) image of that thing, beyond the images of time and space etc. that define it. In that sense, it is not clearly apparent, when it manifests as a specific, particular entity located in a specific place at a specific time. Then it appears in accord with its own specific characteristics (svalakṣana).
+[^123]: Thus, an entity’s own essential nature is a ‘generic’ or ‘universal’ (sāmāyātmaka) image of that thing, beyond the images of time and space etc. that define it. In that sense, it is not clearly apparent, when it manifests as a specific, particular entity located in a specific place at a specific time. Then it appears in accord with its own specific characteristics (svalakṣana).
 
-124\. AIl trees possess the same essential nature (svabhāva). In other words, it is the generic nature common to all of them. But that can only be known in the specific instance of a particular tree. Unspecified, the object appears to be vaguely something that looks like it could be a tree. It is, in other words, unclearly manifest. The clarity required to identify the object only emerges when its specific form, location and time is ascertained, thus differentiating it from everything else that it is not. This is achieved by the reflective awareness that is the power of consciousness operating through the perceiver.
+[^124]: AIl trees possess the same essential nature (svabhāva). In other words, it is the generic nature common to all of them. But that can only be known in the specific instance of a particular tree. Unspecified, the object appears to be vaguely something that looks like it could be a tree. It is, in other words, unclearly manifest. The clarity required to identify the object only emerges when its specific form, location and time is ascertained, thus differentiating it from everything else that it is not. This is achieved by the reflective awareness that is the power of consciousness operating through the perceiver.
 
 
 *[p. 355]* ^pg374
@@ -884,7 +885,7 @@ Perceptibility, Manifest and Unmanifest
 घट एव स्वरूपेण भात इत्युपदिश्यते ।
 
 jānāmi ghaṭam ity atra vedyatānuparāgavān ॥ 93 ||
-ghata eva svarūpeṇa bhāta ity \[illegible\] | 
+ghata eva svarūpeṇa bhāta ity \[illegible\][^125] | 
 
 (When one says) “I know the jar”, what one is saying is that the jar manifests 
 
@@ -892,7 +893,7 @@ according to its own nature, uncoloured by (its objective) perceptibility. (Othe
 
 #### Viveka on 10.93–94
 
-Surely, here (in this case), (the experience that) “I know” is basically (tāvat) perceptibility (just for) oneself, as the object of the act of cognition (jñānakriyākarma). For it is said that it is necessary that perceptibility to another perceiver must exist; if it were not in the purview of oneself (or other perceivers) etc., then ultimately (everything, including) a louse, would not be perceptible (vedya), even to an omniscient being and the like." So how is it that it said that ‘the jar 
+Surely, here (in this case), (the experience that) “I know” is basically (tāvat) perceptibility (just for) oneself, as the object of the act of cognition (jñānakriyākarma). For it is said that it is necessary that perceptibility to another perceiver must exist; if it were not in the purview of oneself (or other perceivers) etc., then ultimately (everything, including) a louse, would not be perceptible (vedya), even to an omniscient being and the like.[^126] So how is it that it said that ‘the jar 
 
 manifests according to its own nature, uncoloured by (its objective) perceptibility’? 
 
@@ -906,22 +907,22 @@ He says that:
 nanu tatra svayaṁvedyabhāvo mantrādyapekṣayā ॥ 94 I|
 api cāsty eva 
 
-(An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra’” and others. (94cd-95a) 
+(An opponent may object that,) surely, there (in that case), perceptibility (can exist) in itself (svayam) (without being conscious of it), and so too in relation to Maitra[^127] and others. (94cd-95a) 
 
 #### Viveka on 10.94–95
 
-125\. Read upadiśyate for apadiśyate.
+[^125]: Read upadiśyate for apadiśyate.
 
-126\. \[illegible\] Read krimiḥ sarvajñāder api na vedyo for krimisarvajñāder api vedyo.
+[^126]: \[illegible\] Read krimiḥ sarvajñāder api na vedyo for krimisarvajñāder api vedyo.
 
-127\. Read maitrādy for mantrādy.
+[^127]: Read maitrādy for mantrādy.
 
 
 *[p. 356]* ^pg375
 
 This consideration (codya) refers to what one has not noticed. We did not say that the jar is uncoloured by (its objective) perceptibility by its own nature. Rather, we said that ‘the jar manifests uncoloured by (its objective) 
 
-perceptibility. perceptibility 
+perceptibility.[^128] perceptibility 
 
 Nor is it the case that when (one experiences that) “I know the jar”, that one inspects whether “here (in this case) I know what is perceptible to me and what is perceptible to one who is omniscient.” (The awareness that) “I know” is just the reflective awareness of knowing, that rests in my subjective reality (asmadarthaviśrānta). Thus he says: 
 
@@ -946,13 +947,13 @@ mameti saṁvidi paraṁ śuddhaṁ vastu prakāśate |
 
 (When one is aware that): “the body of Kālāgnirudra is imperceptible to me, (as are) the regions beyond mount Meru”, the real (thing in itself) (vastu) shines within consciousness in its supreme, pristine 
 
-form.” (95cd-96ab) 
+form.[^129] (95cd-96ab) 
 
 #### Viveka on 10.95–96
 
-128\. The perceptibility of a specific object relates to a particular perceiver. Perceptibility is a quality of the entity out there. It is its objectivity with respect to the perceiver, who perceives it with all its qualities. The manifestation of the thing in itself is unspecified by its particular qualities, and so is also devoid of perceptibility; that is, it is not an object with respect to a particular perceiver. This is the manner in which it manifests. It is not intrinsically imperceptible. The quality of perceptibility, i.e. the objectivity of an entity, is specified with respect to a perceiver. Thus, what is perceptible to one or more perceivers may not be to others. Moreover, its association with specific perceivers is only a part of the properties of an object's perceptibility. Thus, for example, by virtue of its perceptibility, a perceiver not only perceivers the object; he also knows that it is perceptible to other perceivers also. This may not always be his concern, and so he may not take note of that, in which case the object is not perceived as being such. But that does not mean that it is not so. If the first perceiver pays attention, and wishes to do so, he will perceive that the object is perceptible to other particular perceivers.
+[^128]: The perceptibility of a specific object relates to a particular perceiver. Perceptibility is a quality of the entity out there. It is its objectivity with respect to the perceiver, who perceives it with all its qualities. The manifestation of the thing in itself is unspecified by its particular qualities, and so is also devoid of perceptibility; that is, it is not an object with respect to a particular perceiver. This is the manner in which it manifests. It is not intrinsically imperceptible. The quality of perceptibility, i.e. the objectivity of an entity, is specified with respect to a perceiver. Thus, what is perceptible to one or more perceivers may not be to others. Moreover, its association with specific perceivers is only a part of the properties of an object's perceptibility. Thus, for example, by virtue of its perceptibility, a perceiver not only perceivers the object; he also knows that it is perceptible to other perceivers also. This may not always be his concern, and so he may not take note of that, in which case the object is not perceived as being such. But that does not mean that it is not so. If the first perceiver pays attention, and wishes to do so, he will perceive that the object is perceptible to other particular perceivers.
 
-129\. An image of the absence of perceptibility is formed in such notions of things that do exist but cannot be perceived. They are objective and yet are not perceived to be such. Even so, they exist within consciousness not as perceived, but as ‘things in themselves’. consciousness, things may exist within consciousness, and therefore exist without being perceivable. Existence is not necessarily equated with perception. When an entity is perceived, it is an object of perception (vedya) and possesses the property of ‘objectivity’, it is also perceptible. But when it is not perceived or cannot be perceived for any reason, it does not cease to exist, i.e. it does not drop out of consciousness. It continues to exist even if it is devoid of that attribute, that is, even if it does not possess the attribute (dharma) of a perceptible object. As such, it is just the bare thing in itself —vastu. It is a real, existent entity — vastu, not an unreal, non-existent one — avastu. Even if I cannot see them, Meru and the regions beyond it do exist. How do they exist? Simply as an ‘existent thing’ — vastu, not as an object in relation to myself as a perceiver.
+[^129]: An image of the absence of perceptibility is formed in such notions of things that do exist but cannot be perceived. They are objective and yet are not perceived to be such. Even so, they exist within consciousness not as perceived, but as ‘things in themselves’. consciousness, things may exist within consciousness, and therefore exist without being perceivable. Existence is not necessarily equated with perception. When an entity is perceived, it is an object of perception (vedya) and possesses the property of ‘objectivity’, it is also perceptible. But when it is not perceived or cannot be perceived for any reason, it does not cease to exist, i.e. it does not drop out of consciousness. It continues to exist even if it is devoid of that attribute, that is, even if it does not possess the attribute (dharma) of a perceptible object. As such, it is just the bare thing in itself —vastu. It is a real, existent entity — vastu, not an unreal, non-existent one — avastu. Even if I cannot see them, Meru and the regions beyond it do exist. How do they exist? Simply as an ‘existent thing’ — vastu, not as an object in relation to myself as a perceiver.
 
 
 *[p. 357]* ^pg376
@@ -1014,7 +1015,7 @@ Fully Conditioned (sakala) Subjects
 evar pañcadaśātmeyaṁ dharā tadvaj jalādayaḥ || 97 |
 avyaktāntā yato ‘sty \[illegible\] sakalar prati vedyatā | 
 
-In this way, the Earth (principle) has fifteen aspects, as do those (principles) from Water to Unmanifest Nature, insofar as they are perceptible (vedyatā) to the Fully Conditioned (sakala) (subjects)." (97cd-98ab) 
+In this way, the Earth (principle) has fifteen aspects, as do those (principles) from Water to Unmanifest Nature, insofar as they are perceptible (vedyatā) to the Fully Conditioned (sakala) (subjects).[^131] (97cd-98ab) 
 
 #### Viveka on 10.97–98
 
@@ -1022,7 +1023,7 @@ After dealing with the object of perception, namely, the nature of an entity (in
 
 Surely, the location of the Fully Conditioned (perceiver extends) up the Force (of limited agency), according to the following statement (in the Mālinīvijayottara): 
 
-‘The individual souls, who possess (the principles) from the Force (of limited agency) (kalā) to Earth, should be known to be Fully Conditioned > end (sakala) (by those who desire to bring this condition to an end)’. 
+‘The individual souls, who possess (the principles) from the Force (of limited agency) (kalā) to Earth, should be known to be Fully Conditioned > end (sakala) (by those who desire to bring this condition to an end)’.[^132] 
 
 So how is it that it is said (here that its) subjectivity extends (only) up to Unmanifest Nature? With this doubt in mind, he says: 
 
@@ -1032,9 +1033,9 @@ So how is it that it is said (here that its) subjectivity extends (only) up to U
 सकला इति तत्कोशषट्कोद्रेकोपलक्षणम् ।
 कोपलक्षणम् ।
 
-131\. Literally ‘they possess perceptibility with respect to the Fully Conditioned (sakala) (perceivers).”
+[^131]: Literally ‘they possess perceptibility with respect to the Fully Conditioned (sakala) (perceivers).”
 
-132\. MV 1/35abc.
+[^132]: MV 1/35abc.
 
 
 *[p. 359]* ^pg378
@@ -1042,7 +1043,7 @@ So how is it that it is said (here that its) subjectivity extends (only) up to U
 yat tūcyate kalādyena dharāntena samanvitāḥ || 98 ||
 sakalā iti tatkośaṣatkodrekopalakṣanam | 
 
-It is said (in the Mālinīvijayottara) that the Fully Conditioned (sakala) (subjects) possess (the principles) ranging from the Force (of limited agency) up to Earth. (But this is only) a secondary characterization (of these perceivers, which serves to) indicate that, (in their case, all) six coverings (kośa, i.e. kañcuka) have emerged (and are functioning). (98cd-99ab) 
+It is said (in the Mālinīvijayottara) that the Fully Conditioned (sakala) (subjects) possess (the principles) ranging from the Force (of limited agency) up to Earth. (But this is only) a secondary characterization (of these perceivers, which serves to) indicate that, (in their case, all) six coverings (kośa, i.e. kañcuka) have emerged (and are functioning).[^133] (98cd-99ab) 
 
 #### Viveka on 10.98–99
 
@@ -1053,7 +1054,7 @@ He says that:
 ### TĀ 10.98–100
 
 उद्धूताशुद्धयिद्रागकलटादिरसकञ्ुकाः ।। ९९ ॥
-सकलालयसंज्ञास्तु न्यग्भूताखिलकञ्ुकाः ज्ञानाकलास्तु ध्वस्तैतत्कञ्चुका इति निर्णयः ।। functioning).[^133] ॥
+सकलालयसंज्ञास्तु न्यग्भूताखिलकञ्ुकाः ज्ञानाकलास्तु ध्वस्तैतत्कञ्चुका इति निर्णयः ।। functioning). ॥
 
 'uddhacidrāgakalādirasakañcukāḥ ॥ 99 ॥
 sakalā layasaṁijñās tu nyagbhūtākhilakañcukāḥ |
@@ -1068,11 +1069,12 @@ of the)
 Deconditioned by Consciousness ((Vi)jñānākala) 
 
 [^133]: The passages from the MV just quoted by Jayaratha that Abhinava is referring to here may lead one to think that the subjectivity of Sakala perceivers extends from Earth up to the Force (of limited agency) (Kalā). However, these perceivers are the individual souls who belong to Puruṣa, the twenty-fifth principle, whereas Kalā is the thirty-first. Thus, the Sakalas experience the range of principles from Earth to unmanifest Nature (prakṛti), which is the twenty-fourth principle. In order to explain this apparent contradiction, Abhinava clarifies that the MV is referring here only to the expanded state of the six obscuring coverings (kañcuka). It is not teaching that these realities are objects of cognition for the Sakala perceivers.
+
 [^134]: Read sakalā layasaṁnjñās tu for sakalālayasaṁjṁās tu. Abhinava refers to the pralayākala perceivers here as layasaṁjña, i.e. ‘called dissolution’.
 
 *[p. 360]* ^pg379
 
-(perceivers), these coverings have been destroyed. This is the teaching. (98cd-100) 
+(perceivers), these coverings have been destroyed. This is the teaching.[^135] (98cd-100) 
 
 #### Viveka on 10.98–100
 
@@ -1090,9 +1092,9 @@ Thus, even though the object of knowledge predominates, the individual soul, who
 
 #### Viveka on 10.101
 
-Thus, although the object of knowledge, which is the body etc., predominates in the Fully Conditioned (perceiver), even so, because the coverings, namely, the Force (of limited agency), limited knowledge and the rest that stimulate the knowledge and action (of the individual soul) are functional,' it is in this way a perceiver. Thus, (the existence of the) condition in which there are fifteen aspects is (logically) unassailable. 
+Thus, although the object of knowledge, which is the body etc., predominates in the Fully Conditioned (perceiver), even so, because the coverings, namely, the Force (of limited agency), limited knowledge and the rest that stimulate the knowledge and action (of the individual soul) are functional,[^136] it is in this way a perceiver. Thus, (the existence of the) condition in which there are fifteen aspects is (logically) unassailable. 
 
-Surely (someone may object that), it is right that the condition in which there are fifteen aspects be present in the individual soul also, as it is the Earth etc., because the objective aspect predominates (at that level also). (So) how is it that it is said that ‘there are two divisions less from the individual soul (up to the Force (of limited agency))’? With this doubt in mind, he says: 
+Surely (someone may object that), it is right that the condition in which there are fifteen aspects be present in the individual soul also, as it is the Earth etc., because the objective aspect predominates (at that level also). (So) how is it that it is said that ‘there are two divisions less from the individual soul (up to the Force (of limited agency))’[^137]? With this doubt in mind, he says: 
 
 ### TĀ 10.102
 
@@ -1104,16 +1106,16 @@ sakalāntaram asty eva prameye ‘trāpi mātr hi ॥ 102 ||
 
 The condition in which there are fifteen aspects is within the Fully Conditioned (subject), who is present in (the principles) from Earth 
 
-135\. We have seen (above, 10/12ab-18) that the powers of the seven perceivers are distinguished from one another by the prominence or absence of the two obscuring coverings of Kalā and Vidyā and the degree of manifestation of Pure Knowledge. Here the perceivers themselves are distinguished from one another according to the degree in which the six obscuring coverings are present.
+[^135]: We have seen (above, 10/12ab-18) that the powers of the seven perceivers are distinguished from one another by the prominence or absence of the two obscuring coverings of Kalā and Vidyā and the degree of manifestation of Pure Knowledge. Here the perceivers themselves are distinguished from one another according to the degree in which the six obscuring coverings are present.
 
-136\. Read, as the editor of the printed edition suggests, jñānakriyo- for jñānakalo-.
+[^136]: Read, as the editor of the printed edition suggests, jñānakriyo- for jñānakalo-.
 
-137\. Above 10/3d-4a.
+[^137]: Above 10/3d-4a.
 
 
 *[p. 361]* ^pg380
 
-onwards.'\* Here, (in this case) also, the perceiving subject (of the Fully Conditioned subject) (mātr), within the object of knowledge, is another Fully Conditioned subject. (102) 
+onwards.[^138] Here, (in this case) also, the perceiving subject (of the Fully Conditioned subject) (mātr), within the object of knowledge, is another Fully Conditioned subject. (102) 
 
 #### Viveka on 10.102
 
@@ -1135,41 +1137,41 @@ pītādyāḥ sthirakampratvāc caturdaśa dharādiṣu ॥ 103 ॥
 svarūpībhūtajadatāḥ prāṇadehapathe tataḥ |
 pramātṛtājuṣaḥ proktā dhāranṇā vijayottare ॥ 104 ॥ 
 
-(The various aspects of the object of knowledge, such as its qualities,) beginning with (the colour) yellow, (can be contemplated in the principles) ranging from Earth (up to Nature) in fourteen ways,” 
+(The various aspects of the object of knowledge, such as its qualities,) beginning with (the colour) yellow, (can be contemplated in the principles) ranging from Earth (up to Nature) in fourteen ways,[^139] 
 
-138\. In other words, the sakalas (fully conditioned subjects) can be seen from fifteen different points of view.
+[^138]: In other words, the sakalas (fully conditioned subjects) can be seen from fifteen different points of view.
 
-139\. According to chapter 12 of the Mālinīvijayottara, each of the various principles, from Earth up to Nature, can be the object of fourteen different forms of meditation. Jayaratha understands Abhinava here to be referring to a set of meditations (dhāraṇā) that constitute chapter twelve of the MV. In a concluding verse of that chapter, it says: ‘The Earth principle should be practiced thus in fifteen ways so that yogis with the desire to enjoy its fruits may attain accomplishment in yoga.’ MV 12/39 However, Abhinava says here that there are fourteen meditations (dhāranā). This may be the number, if I have reckoned them correctly. But I may well be wrong, as the ones beyond the ninth are not specifically enumerated. It is also quite possible that a part of the text has been lost. If not, it is possible that Abhinava was aware of this discrepancy, and accounts for it apparently, by saying that the Earth itself is the fifteenth, as their ‘innate nature’, which thus cannot be an object of meditation.
+[^139]: According to chapter 12 of the Mālinīvijayottara, each of the various principles, from Earth up to Nature, can be the object of fourteen different forms of meditation. Jayaratha understands Abhinava here to be referring to a set of meditations (dhāraṇā) that constitute chapter twelve of the MV. In a concluding verse of that chapter, it says: ‘The Earth principle should be practiced thus in fifteen ways so that yogis with the desire to enjoy its fruits may attain accomplishment in yoga.’ MV 12/39 However, Abhinava says here that there are fourteen meditations (dhāranā). This may be the number, if I have reckoned them correctly. But I may well be wrong, as the ones beyond the ninth are not specifically enumerated. It is also quite possible that a part of the text has been lost. If not, it is possible that Abhinava was aware of this discrepancy, and accounts for it apparently, by saying that the Earth itself is the fifteenth, as their ‘innate nature’, which thus cannot be an object of meditation.
 
 
 *[p. 362]* ^pg381
 
-(corresponding to the seven levels of perceiver), according to whether it is 1) gross (sthūla), 2) obscured (āvṛta), 3) at its incipience (ādi), 4) contracted (saṁkoca), 5) the same (tat) (contraction but to a lesser degree), 6) contrary (anya) (to it), and 7) pervasive (vyāpta). (They are of two kinds,) because (each of them) can be immobile (sthira) or mobile (kampra). (The fifteenth aspect) is insentient, and consists of the innate nature. These meditations (dhāraṇā) are taught in the (Mālinī-)Vijayottara. TOhey attain a state of subjectivity on the planes of the body and the vital breath.” (103-104) 
+(corresponding to the seven levels of perceiver), according to whether it is 1) gross (sthūla), 2) obscured (āvṛta), 3) at its incipience (ādi), 4) contracted (saṁkoca), 5) the same (tat) (contraction but to a lesser degree), 6) contrary (anya) (to it), and 7) pervasive (vyāpta). (They are of two kinds,) because (each of them) can be immobile (sthira) or mobile (kampra). (The fifteenth aspect) is insentient, and consists of the innate nature. These meditations (dhāraṇā) are taught in the (Mālinī-)Vijayottara. TOhey attain a state of subjectivity on the planes of the body and the vital breath.[^140] (103-104) 
 
 #### Viveka on 10.103–104
 
 It is said in the Mālinīvijayottara with regards to this, that within the twenty-four principles that range from Earth to Unmanifest Nature, for each principle, along with meditation on the ‘Innate Nature’, which is insentient, there are fourteen meditations. There, (in that case, these are as follows). 1) Gross (sthūla), which pertains to the Fully Conditioned (perceiver), who possess (all) three Impurities (mala), including that of Individuality (āṇava) and the rest. 2) Obscured (āvṛta), which is the obscuring covering of the Deconditioned by Dissolution (pralayākala) (perceiver). In accord with the etymological derivation (of the word, it consists of) two Impurities (there is no Māyīya Impurity). 3) Incipience (ādi) pertains to the Deconditioned by 
 
-(āṇavamala). 4) Contracted (sammkoca). The contraction of the Mantra subjects (in relation to expanded consciousness) is their obscured condition, because their material cause is the Deconditioned by Dissolution (perceivers). 5) The contraction of the Mantreśvara (subjects), denoted (here) by the word the ‘same (tat), is gross, because their material cause is the Fully Conditioned (perceivers). 6) Contrary (anya) (to that) is the expansion (of consciousness) of the Mahāmantreśvara (perceivers), (that develops) as the contraction ceases. 7) Pervasive (vyāpta). Śiva’s pervasive state is because he is devoid of the limitations of time and space and the like. (The seven perceivers) possess and practice (these meditations) as their support (ālambana).\*' This the 
+(āṇavamala). 4) Contracted (sammkoca). The contraction of the Mantra subjects (in relation to expanded consciousness) is their obscured condition, because their material cause is the Deconditioned by Dissolution (perceivers). 5) The contraction of the Mantreśvara (subjects), denoted (here) by the word the ‘same (tat), is gross, because their material cause is the Fully Conditioned (perceivers). 6) Contrary (anya) (to that) is the expansion (of consciousness) of the Mahāmantreśvara (perceivers), (that develops) as the contraction ceases. 7) Pervasive (vyāpta). Śiva’s pervasive state is because he is devoid of the limitations of time and space and the like. (The seven perceivers) possess and practice (these meditations) as their support (ālambana).[^141] This the 
 
-meaning." 
+meaning.[^142] 
 
 Surely (one may ask), in this way, there would be seven meditations (dhāranṇnā), not fourteen. With this doubt in mind, it is said, ‘(each of them) can 
 
-140\. The first group of principles (from Earth to Nature) can be the object of perception and concentration in fourteen different ways. The subject who concentrates is a limited subject, related to the planes of the body, the vital breath etc. It must be admitted that Abhinava’s conflation of these meditations with these fourteen is somewhat forced, as the reader can see for himself, by referring to that chapter in the translation of the Maālinīvijayottara.
+[^140]: The first group of principles (from Earth to Nature) can be the object of perception and concentration in fourteen different ways. The subject who concentrates is a limited subject, related to the planes of the body, the vital breath etc. It must be admitted that Abhinava’s conflation of these meditations with these fourteen is somewhat forced, as the reader can see for himself, by referring to that chapter in the translation of the Maālinīvijayottara.
 
-141\. The word here for ‘meditation’ is dhārnā, which literally means ‘a support’.
+[^141]: The word here for ‘meditation’ is dhārnā, which literally means ‘a support’.
 
-142\. In brief: 1) Gross (sthūla) — the Sakala condition, characterized as having all three impurities (mala). 2) Obscured (āvṛta) — Pralayākala, with two impurities (there is no 4) Contracted (sańkoca) — Mantra subjects, which are in a contracted condition in relation to expanded consciousness. Contracted, they are fashioned from Pralayākalas. 5) Same (tat) — Mantreśa still contracted, but less than the Mantras, they are fashioned from Sakala subjects. 6) Contrary (anya) — Mahāmantreśa are in a state of expansion. 7) Pervasive (vyāpta) — Siva.
+[^142]: In brief: 1) Gross (sthūla) — the Sakala condition, characterized as having all three impurities (mala). 2) Obscured (āvṛta) — Pralayākala, with two impurities (there is no 4) Contracted (sańkoca) — Mantra subjects, which are in a contracted condition in relation to expanded consciousness. Contracted, they are fashioned from Pralayākalas. 5) Same (tat) — Mantreśa still contracted, but less than the Mantras, they are fashioned from Sakala subjects. 6) Contrary (anya) — Mahāmantreśa are in a state of expansion. 7) Pervasive (vyāpta) — Siva.
 
 
 *[p. 363]* ^pg382
 
-be immobile (sthira) or mobile (kampra).’ The immobile (aspect) (sthira) is the powerholder. He does nothing (and is immobile), because of the repose (he enjoys) within himself. The mobile (aspect) (kampra) is Śakti, who is active (savyāpāra), and (whose) nature (is the universal and transcendental) vibration (of consciousness) (spanda). Thus it is said here (in the Mālinīvijayottara), with regards to the Fully Conditioned (perceiver) and its power, that ‘in the same way, one should recollect the body. However (it should be) inactive.” So too, tone should recollect the body that is active." 
+be immobile (sthira) or mobile (kampra).’ The immobile (aspect) (sthira) is the powerholder. He does nothing (and is immobile), because of the repose (he enjoys) within himself. The mobile (aspect) (kampra) is Śakti, who is active (savyāpāra), and (whose) nature (is the universal and transcendental) vibration (of consciousness) (spanda). Thus it is said here (in the Mālinīvijayottara), with regards to the Fully Conditioned (perceiver) and its power, that ‘in the same way, one should recollect the body. However (it should be) inactive.”[^143] So too, tone should recollect the body that is active."[^144] 
 
 These (subjects) reside on the plane of the subject (who identifies with) the body, vital breath and intellect etc., in accord with the (extent and) manner duality has fallen away. Thus it is said that ‘they attain a state of subjectivity on the planes of the body and the vital breath’. These are (described) there (in the Mālinīvijayottara) with regards to the meditations (dhāraṇā) on the ‘Innate Nature’, the Fully Conditioned (perceiver), the powerholder, and power. As is said there, beginning with: 
 
-‘One’s own body, shining like gold and streaked with lightning, is the abode of the Fourth State (turiya).” 
+‘One’s own body, shining like gold and streaked with lightning, is the abode of the Fourth State (turiya).”[^145] 
 
 Meditations on the (perceivers) 
 
@@ -1177,27 +1179,25 @@ Deconditioned by Dissolution (pralayākala) and Deconditioned by Consciousness (
 
 ‘One should meditate on the one present in the Heart, extending (for a 
 
-span of) twelve fingers in the Fourth (State). 
-
-TM\* 
+span of) twelve fingers in the Fourth (State).[^146] 
 
 By the words ‘beginning with’ (when he says) ‘beginning with (the colour) yellow’, the (colours) white and the rest, (that are the qualities of) the principles of Water and the rest, are (implicitly) included. All of that is discussed at length in the Mālinīvijayottara. It should be grasped from there, (in the section) beginning and ending (with the following verses): 
 
-‘Again, he who, (initiated) by the teacher, has first of all completed the process which is the procedure (to attain) penetration (āveśavidhikrama), should begin to conquer the planes (of existence) (bhūmikā) in accord with the experience of (his Karmic) tendencies (vāsanā). 
+‘Again, he who, (initiated) by the teacher, has first of all completed the process which is the procedure (to attain) penetration (āveśavidhikrama), should begin to conquer the planes (of existence) (bhūmikā) in accord with the experience of (his Karmic) tendencies (vāsanā).[^147] 
 
-‘These meditative supports (dhāranā), beneficial to yogis, relating to the principles beginning with Earth, are said in brief to be twenty-four, each of which is of fifteen kinds." 
+‘These meditative supports (dhāranā), beneficial to yogis, relating to the principles beginning with Earth, are said in brief to be twenty-four, each of which is of fifteen kinds."[^148] 
 
-143?\. MV 12/29ab.
+[^143]: MV 12/29ab.
 
-144?\. MV 12/26a.
+[^144]: MV 12/26a.
 
-145?\. MV 12/22cd.
+[^145]: MV 12/22cd.
 
-146?\. MV 12/30ab.
+[^146]: MV 12/30ab.
 
-147?\. MV 12/20cd-21ab.
+[^147]: MV 12/20cd-21ab.
 
-148?\. MV 16/16cd-17ab. A long passage in the Mālinīvijayottara (12/20cd to 16/47) is dedicated to a series of meditations (dhāranā) on the principles ranging from Earth to Māyā and beyond. From this, Jayaratha has selected the part that describes the series of meditations (dhāranā) on twenty-four principles (tattva), from Earth to the Intellect.
+[^148]: MV 16/16cd-17ab. A long passage in the Mālinīvijayottara (12/20cd to 16/47) is dedicated to a series of meditations (dhāranā) on the principles ranging from Earth to Māyā and beyond. From this, Jayaratha has selected the part that describes the series of meditations (dhāranā) on twenty-four principles (tattva), from Earth to the Intellect.
 
 
 *[p. 364]* ^pg383
@@ -1226,7 +1226,7 @@ trayodaśatvaṁ tacchaktiśaktimaddvayavarjanāt || 106 ॥
 nyagbhūtakañcuko mātā yatas tatra layākalaḥ |
 māyāniviṣṭo vijñānākalādyāḥ prāgvadeva tu ॥ 107 ॥ 
 
-\[illegible\] (the series of principles) ranging from the individual soul to the Force (of limited agency) is considered to be objective (that is, not as aspects of the subject,) the aspect that arises out of this (group of principles), namely, the obscuring coverings (of the individual soul) (tadudbhūtaḥ kañcukāmśo), becomes an object of knowledge, and so is not (a part of his) subjectivity." Thus, (at this level, the subject) termed ‘Fully Conditioned’ (sakala) does not possess subjectivity (pramātṛtva). By shedding two (of its aspects, namely,) that of power and its possessor, it has thirteen (aspects). The covering of the subject there is in abeyance, and 50151 (this is the level of) the Dissolution Deconditioned \[illegible\] (subject, who is) 
+[^149]\[illegible\] (the series of principles) ranging from the individual soul to the Force (of limited agency) is considered to be objective (that is, not as aspects of the subject,) the aspect that arises out of this (group of principles), namely, the obscuring coverings (of the individual soul) (tadudbhūtaḥ kañcukāmśo), becomes an object of knowledge, and so is not (a part of his) subjectivity.[^150] Thus, (at this level, the subject) termed ‘Fully Conditioned’ (sakala) does not possess subjectivity (pramātṛtva). By shedding two (of its aspects, namely,) that of power and its possessor, it has thirteen (aspects). The covering of the subject there is in abeyance, and 50[^151] (this is the level of) the Dissolution Deconditioned \[illegible\] (subject, who is) 
 
 immersed in Māyā. 
 
@@ -1234,16 +1234,16 @@ The Consciousness Deconditioned (subjects) (vijñānākala) are, analogously as 
 
 #### Viveka on 10.105–107
 
-149?\. These verses from 105 to 113ab are all together in the printed edition. The have been divided up for easy reading.
+[^149]: These verses from 105 to 113ab are all together in the printed edition. The have been divided up for easy reading.
 
-150?\. If we read tadodbhūtakañcukāmśo for tadudbhūtaḥ kañcukāmśo, the meaning would then be: ‘the beings whose obscuring coverings are in a state of emergence become an object of knowledge.”
+[^150]: If we read tadodbhūtakañcukāmśo for tadudbhūtaḥ kañcukāmśo, the meaning would then be: ‘the beings whose obscuring coverings are in a state of emergence become an object of knowledge.”
 
-151?\. Read yatas for yuktas.
+[^151]: Read yatas for yuktas.
 
 
 *[p. 365]* ^pg384
 
-‘The principles ranging from the individual soul to the Force (of limited agency)’ are the six beginning with the principle of the individual soul and ending with that of the Force (of limited agency). This is the meaning. (At this level, the Fully Conditioned subject is deprived of his subjectivity,) because the aspect of the group of six coverings that arises out of this (group of principles) becomes an object of knowledge. (The Dissolution Deconditioned subject at the next level) ‘has thirteen (aspects)’, because the Fully Conditioned (subject) has become the ‘Innate Nature’, as (it) and its power are the object (of that higher level perceiver). Surely, (one may object,) that it is said here that the Fully Conditioned (perceiver has become) the object of the Dissolution Deconditioned (perceiver, who is its) perceiver. Well then, what is the condition of the Consciousness Deconditioned and the rest (of the perceivers above that)? With this doubt in mind, he says that ‘the Consciousness Deconditioned (subjects) (vijñānākala), are, analogously as before, (the subjects in relation to this group)’. The meaning is that their subjectivity is (in relation to the perceivers that precede them, such that they are their objects). (This is) just as happens (at the level below, in relation to) the Fully Conditioned subject, (who is the object of the perceiver at the next level above it). 
+‘The principles ranging from the individual soul to the Force (of limited agency)’ are the six beginning with the principle of the individual soul and ending with that of the Force (of limited agency). This is the meaning. (At this level, the Fully Conditioned subject is deprived of his subjectivity,) because the aspect of the group of six coverings that arises out of this (group of principles) becomes an object of knowledge. (The Dissolution Deconditioned subject at the next level) ‘has thirteen (aspects)’, because the Fully Conditioned (subject) has become the ‘Innate Nature’, as (it) and its power are the object (of that higher level perceiver).[^152] Surely, (one may object,) that it is said here that the Fully Conditioned (perceiver has become) the object of the Dissolution Deconditioned (perceiver, who is its) perceiver. Well then, what is the condition of the Consciousness Deconditioned and the rest (of the perceivers above that)? With this doubt in mind, he says that ‘the Consciousness Deconditioned (subjects) (vijñānākala), are, analogously as before, (the subjects in relation to this group)’. The meaning is that their subjectivity is (in relation to the perceivers that precede them, such that they are their objects). (This is) just as happens (at the level below, in relation to) the Fully Conditioned subject, (who is the object of the perceiver at the next level above it). 
 
 The Eleven Aspects Related to the Dissolution 
 
@@ -1252,9 +1252,9 @@ Deconditioned (pralayākala) Subject
 ### TĀ 10.108–109
 
 मायातत्त्वे ज्ेयरूपे कञ्चुकन्यग्भवोऽपि य: ।
-सोऽपि मेयः कञ्ुकैकयं यतो माया सुसश्मिका । perceiver).[^152] ॥
+सोऽपि मेयः कञ्ुकैकयं यतो माया सुसश्मिका । perceiver). ॥
 विज्ञानाकल एवात्र ततो मातापकञचकः ।
-मायानिविष्टेऽप्यकले तथेत्येकादशात्मता ॥ (vijfianakala),[^153] ॥
+मायानिविष्टेऽप्यकले तथेत्येकादशात्मता ॥ (vijfianakala), ॥
 
 māyātattve jñeyarūpe kañcukanyagbhavo ‘pi yah |
 so ‘pi meyaḥ kañcukaikyaḥ yato māyā susūkṣmikā ॥ 108 ॥ 
@@ -1262,10 +1262,13 @@ so ‘pi meyaḥ kañcukaikyaḥ yato māyā susūkṣmikā ॥ 108 ॥
 vijñānākala evātra tato mātāpakañcukaḥ |
 māyāniviṣte ‘py akale tathety ekādaśātmatā ॥ 109 ॥ 
 
-When the principle of Māyā is the object of knowledge, (the subject in whom) the coverings are in abeyance also becomes an object of knowledge. As Māyā (at this level) is the unity of the coverings (fused together within it), extremely subtle. Thus, the subject here is ijñā 13 who is free of coverings. (The 
+When the principle of Māyā is the object of knowledge, (the subject in whom) the coverings are in abeyance also becomes an object of knowledge. As Māyā (at this level) is the unity of the coverings (fused together within it), extremely subtle. Thus, the subject here is ijñā[^153] who is free of coverings. (The 
 
 [^152]: When, however, one is considering how the knowable, consisting of the principles ranging from Puruṣa to Kalā, are, then the (sakala subjects), which are characterized as being in a state in which the kañcukas are in an emergent condition, are then no longer subjects, but objects of awareness. This is the reason why the Sakalas are no longer subjects with respect to these Tattvas (from Purusṣa upwards), which due to the absence of the two aspects of the Sakala subjects, that is, Power and the Powerholder, have thirteen aspects only.
-[^153]: \[illegible\] Along with the Mantra and other subjects above it. 1\$ kañcukadhvarisasusthite, which literally means ‘(who is) in a good state because (his) obscuring coverings have been destroyed.”
+
+[^153]: \[illegible\] Along with the Mantra and other subjects above it.
+
+[^154]: kañcukadhvarisasusthite, which literally means ‘(who is) in a good state because (his) obscuring coverings have been destroyed.”
 
 *[p. 366]* ^pg385
 
@@ -1282,7 +1285,7 @@ Surely (one may ask), when the principle of Māyā is the object of knowledge, t
 The Remaining Subjects Up to Śiva 
 
 विज्ञानकेवले वेद्ये कञ्चुकध्वंससुस्थिते ।
-उद्वुभूषुप्रबोधानां मत्राणामेव मातृता ॥ subjects.[^155] ॥
+उद्वुभूषुप्रबोधानां मत्राणामेव मातृता ॥ subjects. ॥
 तेऽपि मरा यदा मेयास्तदा माता तदीश्वर : ।
 स ह्युद्धवातपूर्णबोधस्तस्मिन्राप्ते तु मेयताम् ॥ १११ ॥
 उदधूतपूर्णरूपोऽसौ माता मन्रमहेशवरः ।
@@ -1297,9 +1300,11 @@ udbhūtapūrnarūpo ‘sau mātā mantramaheśvaraḥ |
 tasmin vijñeyatām prāpte svaprakāśaḥ paraḥ śivaḥ ॥ 112 ॥
 pramātā svakatādātmyabhāsitākhilavedyakaḥ | 
 
-When the object of knowledge is the Consciousness Deconditioned (subject), whose coverings have been completely destroyed, only Mantra (perceivers), whose consciousness is about to awake, are the subjects.” When these Mantra (perceivers) are the objects of knowledge, then the subject is (Mantreśvara), their Lord, within whom the fullness of consciousness is in the process of arising. When he becomes an object, the subject is the Great Lord of Mantra, within whom the full (and complete) form (of consciousness) has dawned. (Finally,) when (he has) become an 
+When the object of knowledge is the Consciousness Deconditioned (subject), whose coverings have been completely destroyed,[^154] only Mantra (perceivers), whose consciousness is about to awake, are the subjects.[^155] When these Mantra (perceivers) are the objects of knowledge, then the subject is (Mantreśvara), their Lord, within whom the fullness of consciousness is in the process of arising. When he becomes an object, the subject is the Great Lord of Mantra, within whom the full (and complete) form (of consciousness) has dawned. (Finally,) when (he has) become an 
 
-[^155]: mantrāṇām eva mātṛtā literally means, ‘subjectivity belongs to the Mantra (subjects) alone.’ coverings have been destroyed, Mantra alone can be the experiencing subjects who are in the process of reawakening. When these same Mantra subjects have become objects of awareness, then the Mantreśas are the subjects within which total consciousness is in the process of coming into being. These too then becoming object of awareness, the Mahāmantreśas are the subjects within which total consciousness is fully manifest.
+[^155]: mantrāṇām eva mātṛtā literally means, ‘subjectivity belongs to the Mantra (subjects) alone.’
+
+[^156]: coverings have been destroyed, Mantra alone can be the experiencing subjects who are in the process of reawakening. When these same Mantra subjects have become objects of awareness, then the Mantreśas are the subjects within which total consciousness is in the process of coming into being. These too then becoming object of awareness, the Mahāmantreśas are the subjects within which total consciousness is fully manifest.
 
 *[p. 367]* ^pg386
 
@@ -1307,7 +1312,7 @@ object, the subject is Śiva, who, supreme and self-luminous, manifests all obje
 
 #### Viveka on 10.110–113
 
-‘(When the object of knowledge is the Consciousness Deconditioned perceivers’ subjectivity,) ‘only Mantra (perceivers) are the subjects’, not indeed the Consciousness Deconditioned (perceiver) also. So here (at this level, the aspects) are nine. Their Lord is the Lord of Mantras. (Finally, Śiva manifests all objectivity) ‘as one with Himself’. The intended sense being that (he) certainly (does) not (manifest it as) a unity-in-difference etc. (bhedābheda), as is the case with Mantra, Lord of Mantras, and other (higher perceivers). That was taught at the very beginning of (this) chapter, and so (there is no need to exert the same) effort (to do so) again here. 
+‘(When the object of knowledge is the Consciousness Deconditioned perceivers’ subjectivity,) ‘only Mantra (perceivers) are the subjects’, not indeed the Consciousness Deconditioned (perceiver) also. So here (at this level, the aspects) are nine. Their Lord is the Lord of Mantras.[^156] (Finally, Śiva manifests all objectivity) ‘as one with Himself’. The intended sense being that (he) certainly (does) not (manifest it as) a unity-in-difference etc. (bhedābheda), as is the case with Mantra, Lord of Mantras, and other (higher perceivers). That was taught at the very beginning of (this) chapter, and so (there is no need to exert the same) effort (to do so) again here. 
 
 Surely (one may ask), when (Śiva) also has become an object of knowledge, who is the perceiver? With this doubt in mind, he says: 
 
@@ -1317,7 +1322,7 @@ Surely (one may ask), when (Śiva) also has become an object of knowledge, who i
 
 Self-Luminous Śiva 
 
-शिव : प्रमाता नो मेयो हयन्याधीनप्रकाशता ।। light?[^157] ॥।
+शिव : प्रमाता नो मेयो हयन्याधीनप्रकाशता ।। light? ॥।
 मेयता सा न तत्रास्ति स्वप्रकाशो ह्यसौ प्रभुः ।
 
 sivaḥ pramātā no meyo hy anyādhīnaprakāśatā ॥ 113 ॥
@@ -1329,7 +1334,7 @@ meyatā sā na tatrāsti svaprakāśo hy asau prabhuḥ |
 
 Objectivity is a state that (derives its) manifest nature from another light. And that (state of objectivity) does not belong (to Śiva), because He is His own Light. So how can Śiva (ever), like other (lower) perceivers, be an object of perception? This is the meaning. 
 
-Surely (one may object) that the manifestation of all things is achieved by means of the light (of consciousness), which is other than they are. (If you agree that that is true,) what is the use of also accepting (that the perceiver shines) by its own light? 177 With this doubt in mind, he says: 
+Surely (one may object) that the manifestation of all things is achieved by means of the light (of consciousness), which is other than they are. (If you agree that that is true,) what is the use of also accepting (that the perceiver shines) by its own light?[^157] With this doubt in mind, he says: 
 
 [^157]: paraprakāśatvenaiva sarveṣāi prakāíah siddhyati, which literally means, ‘the light of all things is achieved because it is the light of another’. An object is illumined and made manifest by the light of consciousness, which is the perceiver. Tt shines by the light of another. The perceiver, on the contrary, shines by its own light. It is known by itself and appears by itself to itself. In other words, the perceiver illumines both the object and himself by the light of his own innate consciousness. There is a difference between the state of the manifestation of consciousness which is self-luminous —svaprakāśatva, and the state of the manifestation of an insentient object which illumined by another — paraprakāśatva. The question here is that, if it is agreed that the object ‘shines’ by the light of another, what is the use of adding that that light is self-luminous?
 
@@ -1352,7 +1357,7 @@ If one admits that the light (prakāśa) (of what manifests is derived from some
 
 Thus, the universe would be as if in a coma. (The result would be that) this establishes what comes to amount to the reversal of the contention (prasaṁgaviparyaya) of what is being contended (prasaṅga). (Thus he says) ‘(it does not manifest) in this way! 
 
-Surely (one may rejoin), if the universe does manifest (which it does), then in accord with the view that ʻif the initial (view) is such (as accords with reality), then why hold fast to an aversion (to it)?’ let us agree that that (universe) itself is self-luminous. What is the need of (some other) intermediate (avāntara) (light)? With this doubt in mind, he says: 
+Surely (one may rejoin), if the universe does manifest (which it does), then in accord with the view that ʻif the initial (view) is such (as accords with reality), then why hold fast to an aversion (to it)?’[^158] let us agree that that (universe) itself is self-luminous. What is the need of (some other) intermediate (avāntara) (light)? With this doubt in mind, he says: 
 
 ### TĀ 10.116
 
@@ -1360,7 +1365,7 @@ Surely (one may rejoin), if the universe does manifest (which it does), then in 
 
 \[11111111 hi tad bhāty anyas tv asau śivaḥ | 
 
-158\. The same line is quoted below in TĀv ad 11/28. There we are told that the author of the ĪP and others hold this view.
+[^158]: The same line is quoted below in TĀv ad 11/28. There we are told that the author of the ĪP and others hold this view.
 
 
 *[p. 369]* ^pg388
@@ -1392,12 +1397,14 @@ Rather, the successful application (siddhi) (of any of) the means of knowledge d
 ‘Indeed, this Light (of consciousness) shines at all times;[^161] so, as it cannot be denied, what is the use (of applying) contrived means of knowledge to it? (All that needs be done is to recognise that the One Light exists, and that it illumines the manifestation of all things). The (many) means of knowledge give life to all things (vastu) (because it is by means of them that they appear to the sentient subject), while the supreme living essence (jīva) of those (means) also is that same Supreme Lord (Himself, Who is the true identity of the perceiver).” 
 
 [^159]: Śiva is the universal and transcendental perceiver. If he were not to exist, there would be no perceivers, and nothing would manifest to anybody. Thus, His existence is proved ‘right from the start’. Also because those who disputes His existence can only do so because they exist, and their existence depends on Siva, who is Being itself. See above, note 1,462.
+
 [^160]: Read yad uktaṁ for tad uktaṁ. These verses are TĀ 1/54-55.
+
 [^161]: I read, as does Jayaratha, sarvadaiva for sarvatraiva. However, the reading ‘sarvatraiva’ — ‘everywhere indeed’ may be better. The ‘denial’ to which this verse refers is a cognitive process whereby a particular object perceived by the senses, or even imagined, is identified by ‘denying’ that it is anything else. Clearly, this is not possible in the case of the light of consciousness, that shines everywhere as everything.
 
 *[p. 370]* ^pg389
 
-Surely, objectivity is present within Śiva, even though He is self-luminous; otherwise, teachings such as ‘this Self has shone forth gD once’ ' could not be logically justified. So how is it that it was said that Siva is not an object of knowledge?” With this doubt in mind, he says: 
+Surely, objectivity is present within Śiva, even though He is self-luminous; otherwise, teachings such as ‘this Self has shone forth gD once’[^162] could not be logically justified. So how is it that it was said that Siva is not an object of knowledge?” With this doubt in mind, he says: 
 
 ### TĀ 10.117–118
 
@@ -1407,11 +1414,11 @@ The Supreme Lord Makes Śiva into an Object of Instruction
 उपदेश्योपदेष्टृत्वव्यवहारोऽन्यथा कथम् ।
 
 nanv asti svaprakāśe ‘pi śive vedyatvam īdṛśaḥ ॥ 117 ॥
-1 upadeśyopadeṣtṛtvavyavahāro ‘nyathā katham | 
+[^163]upadeśyopadeṣtṛtvavyavahāro ‘nyathā katham | 
 
-Surely, (the opponent objects), although Śiva is self-luminous, He is objectively perceivable (vedyatva)“ (to some degree). Otherwise, how (could) the common interaction (vyavahāra) like this between (Śiva) the 
+Surely, (the opponent objects), although Śiva is self-luminous, He is objectively perceivable (vedyatva)[^164] (to some degree). Otherwise, how (could) the common interaction (vyavahāra) like this between (Śiva) the 
 
-teacher and the taught (be possible)? (117cd-118ab) 
+teacher and the taught (be possible)?[^165] (117cd-118ab) 
 
 #### Viveka on 10.117–118
 
@@ -1431,10 +1438,10 @@ nīto mantramaheśādikakṣyā samadhiśāyyate |
 
 #### Viveka on 10.118–119
 
-162\. The sense of this statement is that the Self shines in the perpetual present, and so, in temporal terms, all the time. See note above in TĀv ad 1/57.
+[^162]: The sense of this statement is that the Self shines in the perpetual present, and so, in temporal terms, all the time. See note above in TĀv ad 1/57.
 
-163\. Read, as the editor suggests, upadeśyo- for upadeśo-.
+[^163]: Read, as the editor suggests, upadeśyo- for upadeśo-.
 
-164\. Sive vedyatvam literally means that there is some degree of ‘objectivity within Siva’.
+[^164]: Sive vedyatvam literally means that there is some degree of ‘objectivity within Siva’.
 
-165\. Concerning the distinction between the teacher and the taught — the one who replies and the one who questions ~ and how they are ultimately two aspects of the one consciousness, see above 1/257cd-258ab (256).
+[^165]: Concerning the distinction between the teacher and the taught — the one who replies and the one who questions ~ and how they are ultimately two aspects of the one consciousness, see above 1/257cd-258ab (256).

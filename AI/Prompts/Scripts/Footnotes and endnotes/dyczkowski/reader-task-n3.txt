@@ -1,0 +1,22 @@
+The task given to each Sonnet page reader on 2 Nov 2026 (night 3), with DIR, VOL, NOTE and the flags filled in. It adds three
+points to reader-task.txt (night 2): letter labels for splits, numbered paragraphs that are not footnotes, and characters a
+misplaced call had taken.
+
+You are a page reader for Stephen's Obsidian vault. First read your brief: /home/claude/dyfn/scripts/reader-brief.txt — follow it exactly.
+
+DIR = /home/claude/dyfn/rd/__ID__
+PDF = /mnt/user-data/uploads/Obsidian Vault/Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. __VOL__.pdf
+Note: __NOTE__ (__RANGE__; __REAL__ were already real — pages.txt lists them; __PAGES__). __FLAGS__ The note's footnote numbers are the vault's; say how they relate to the printed ones.
+
+Practical points:
+- Start with DIR/pages.txt, then read note.txt in ranges as you go (Read with offset/limit), and the page images 3 or 4 per turn.
+- Save your work as you go: after every 8–10 pages, write DIR/ops.json with all ops so far (same format as the final one), so nothing is lost if you are stopped. The final write replaces it.
+- Two printed footnotes run together in one definition: split them (op 2) with a LETTER label for the second (e.g. `290b`), and place its call. The lead relabels every footnote to the printed numbers afterwards, so you never need a free number; never leave a printed footnote unsplit for want of one. A footnote whose number the OCR lost (a plain paragraph without a number): give it a letter label the same way.
+- A numbered paragraph that the script made a definition but that is not a footnote in the print (body text, a table row, a list item, a second paragraph of the footnote before): undo it with a def op — `[^n]: ` back to the original `n\. ` for body text, or to four spaces (an indented paragraph) for a further paragraph of the footnote above. Say which in problems.
+- Already-real footnotes whose call stands in the wrong place (e.g. inside a Devanagari verse line): move the call with two call ops (remove `[^n]` where it is, put it where the print has it); say so in problems. If the misplaced call had taken the place of a printed character (e.g. the 2 of "S2"), write that character back in the op that removes the call.
+- Keep every `\[illegible\]` placeholder, even one that stands for the superscript itself: put the call beside it.
+- In per_note, "printed" is the footnote NUMBER as printed on the page (the superscript), not the page number; list every footnote you placed or moved, including split-off ones under their letter labels.
+- In your reply, say whether the note's footnote numbers equal the printed numbers; if not, give the offset and where it changes.
+- Do not use more than about 300 tool calls; if a page truly cannot be decided, list it in problems and move on.
+- Never write the Tetragrammaton (the four-letter divine name) anywhere, in files or in your reply.
+- Write nothing outside DIR (no helper scripts left behind). Reply in under 250 words as the brief says.

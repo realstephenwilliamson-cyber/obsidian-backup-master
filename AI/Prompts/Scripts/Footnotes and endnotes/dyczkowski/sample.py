@@ -61,8 +61,15 @@ for spec in sys.argv[3:]:
             im = Image.open(tmp + '.png').convert('L'); bb = ImageOps.invert(im).point(lambda v: 255 if v > 60 else 0).getbbox()
             if bb: im = im.crop((max(0, bb[0] - 12), max(0, bb[1] - 12), min(im.width, bb[2] + 12), min(im.height, bb[3] + 12)))
             im.save(dst, optimize=True); os.remove(tmp + '.png')
-    for n, pg, first in carries:
+    seen_n = set(); first_carries = []   # 2 Nov 2026: one carry task per footnote (the first page its moved text comes from)
+    for c in carries:
+        if c[0] in seen_n: continue
+        seen_n.add(c[0]); first_carries.append(c)
+    CM = int(os.environ.get('CARRYMAX', '0'))   # 2 Nov 2026: optional cap on carry tasks per note (seeded choice)
+    if CM and len(first_carries) > CM: first_carries = sorted(random.Random(nid).sample(first_carries, CM))
+    for n, pg, first in first_carries:
         tid = '%s-p%d-carry' % (nid, pg)
+        if tid in key: continue   # 2 Nov 2026: one task per page; the first carried line is the one to check (a chain of moves gave one task per line)
         tasks.append({'task': tid, 'pdf_page': pg, 'image': 'p-%03d.png' % pg, 'paragraphs': []})
         key[tid] = {'note': nid, 'sampled': [], 'defs_on_page': [], 'special': [n], 'calls': {}, 'def_starts': {}, 'carry_expected': first, 'carry_of': n}
         dst = os.path.join(outdir, 'p-%03d.png' % pg)

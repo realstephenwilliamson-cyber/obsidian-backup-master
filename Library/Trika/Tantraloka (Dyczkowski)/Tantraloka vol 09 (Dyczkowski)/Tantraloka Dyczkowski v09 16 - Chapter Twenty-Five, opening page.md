@@ -18,18 +18,18 @@ converted: 2026-10-07
 
 CHAPTER TWENTY-FIVE 
 
-The Fashioning of the Offerings to the Ancestors" (śrāddhaklṛpti) 
+The Fashioning of the Offerings to the Ancestors[^823] (śrāddhaklṛpti) 
 
 May (the teacher) who bestows Śiva, presiding over the terrible body which is phenomenal existence, and is as if bestowing existence all around, prevailing in the hearts of (His) devotees, be auspicious (śiva) for the wise (satām). 
 
-In order to teach the ritual procedure for the worship of the ancestors (śŚrāddha) he says with the second half (of the verse begun at the end of the previous chapter): 
+In order to teach the ritual procedure for the worship of the ancestors (śŚrāddha)[^824] he says with the second half (of the verse begun at the end of the previous chapter): 
 
 ### TĀ 25.1
 
 अथ श्राद्धविधिः श्रीमत्षटर्धोक्तो निगद्यते ॥ १ ॥
 atha śŚrāddhavidhih śrīmatṣadardhokto nigadyate ॥ 1 ॥ 
 
-We will now explain the ritual procedure for the worship of the ancestors (Śrāddha) taught in the venerable Trika (scriptures).? (1) 
+We will now explain the ritual procedure for the worship of the ancestors (Śrāddha) taught in the venerable Trika (scriptures).[^825] (1) 
 
 #### Viveka on 25.1
 
@@ -40,14 +40,14 @@ Surely (one may ask), where is this ritual procedure for the worship of the ance
 सिद्धातन््रे सूचितोऽसौ मूर्तियागनिरूपणे ।
 siddhātantre sūcito ‘sau mūrtiyāganirūpane | 
 
-This is mentioned in the Siddhātantra, in the course of describing the Worship of the Icons (mā iga).\* (1-2ab) 
+This is mentioned in the Siddhātantra, in the course of describing the Worship of the Icons (mā iga).[^826] (1-2ab) 
 
 #### Viveka on 25.1–2
 
-823?\. This chapter corresponds to the second half of chapter nineteen of the Tantrasāra, that Abhinava says concerns śrāddhadīkṣā. It is performed after the antyasaṁskāradīkṣā taught in the previous chapter.
+[^823]: This chapter corresponds to the second half of chapter nineteen of the Tantrasāra, that Abhinava says concerns śrāddhadīkṣā. It is performed after the antyasaṁskāradīkṣā taught in the previous chapter.
 
-824?\. The śrāddha — the ‘postmortem offering’ — is a funeral rite that involves the offering of food to the ancestors. Monier-Williams explains in his dictionary that śrāddha is ‘a ceremony in honour and for the benefit of dead relatives observed with great strictness at various fixed periods and on occasion of rejoicing as well as mourning by the surviving relatives. These ceremonies are performed by the daily offering of water, and on stated occasions by the offering of pindas or balls of rice and meal to three paternal and three maternal forefathers, i.e. to the father, grandfather and great grandfather. It should be borne in mind that śrāddha is not a funeral ceremony (antyesṭi) but a supplement to such a ceremony. It is an act of reverential homage to a deceased person performed by relatives, and is moreover supposed to supply the dead with strengthening nutriment after the performance of the previous funeral ceremonies has endowed them with ethereal bodies. Indeed, until those antyeṣṭi or ‘funerary rites’ have been performed, and until the succeeding first śrāddha has been celebrated, the deceased relative is a preta or restless wandering ghost and has no real body \[only a subtle one — liṅgaśarīra\]. It is not until the first śrāddha has taken place that he attains a position amongst the pits or Divine Fathers in their blissful abode called pitṛloka. The śrāddha is most desirable and efficacious when performed by a son.’
+[^824]: The śrāddha — the ‘postmortem offering’ — is a funeral rite that involves the offering of food to the ancestors. Monier-Williams explains in his dictionary that śrāddha is ‘a ceremony in honour and for the benefit of dead relatives observed with great strictness at various fixed periods and on occasion of rejoicing as well as mourning by the surviving relatives. These ceremonies are performed by the daily offering of water, and on stated occasions by the offering of pindas or balls of rice and meal to three paternal and three maternal forefathers, i.e. to the father, grandfather and great grandfather. It should be borne in mind that śrāddha is not a funeral ceremony (antyesṭi) but a supplement to such a ceremony. It is an act of reverential homage to a deceased person performed by relatives, and is moreover supposed to supply the dead with strengthening nutriment after the performance of the previous funeral ceremonies has endowed them with ethereal bodies. Indeed, until those antyeṣṭi or ‘funerary rites’ have been performed, and until the succeeding first śrāddha has been celebrated, the deceased relative is a preta or restless wandering ghost and has no real body \[only a subtle one — liṅgaśarīra\]. It is not until the first śrāddha has taken place that he attains a position amongst the pits or Divine Fathers in their blissful abode called pitṛloka. The śrāddha is most desirable and efficacious when performed by a son.’
 
-825?\. See also below, 28/8-9.
+[^825]: See also below, 28/8-9.
 
-826?\. This rite is also called the Sacrifice of the Assembly (cakrārca). Trika Tantras and others consider it to be the most important rite initiates may participate in. See below, 28/60cd ff. In 28/61, Abhinava confirms that this Worship of the Icons is taught in the SYM. These gatherings in which the rite is performed collectively take place on various occasions, one of which is when offerings are made to the ancestors (see below, 28/76cd-78ab). The Krama version of the Mūrtiyāga is presented in chapter 15 of the Ājnākhanda of the MBT in 15/96cd ff. The Krama related material there was probably lifted from the Kramasadbhāva.
+[^826]: This rite is also called the Sacrifice of the Assembly (cakrārca). Trika Tantras and others consider it to be the most important rite initiates may participate in. See below, 28/60cd ff. In 28/61, Abhinava confirms that this Worship of the Icons is taught in the SYM. These gatherings in which the rite is performed collectively take place on various occasions, one of which is when offerings are made to the ancestors (see below, 28/76cd-78ab). The Krama version of the Mūrtiyāga is presented in chapter 15 of the Ājnākhanda of the MBT in 15/96cd ff. The Krama related material there was probably lifted from the Kramasadbhāva.

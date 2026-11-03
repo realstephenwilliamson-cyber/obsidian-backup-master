@@ -1,6 +1,6 @@
 ---
 type: parallel
-ref: Romans 1:1
+ref: Matthew 5:12
 translation: nrsvue
 cssclasses:
   - wide

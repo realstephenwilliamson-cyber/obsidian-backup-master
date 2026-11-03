@@ -37,6 +37,7 @@ In the doorway of the place of worship he makes himself joyful with song, dance 
 14\. (thereby) driven away the kula demon, (the sādhaka) should worship the kula venue.
 
 Arranging a kula seat[^64] 6" therein which he worships as he pleases,
+
 [^61]: I.e., the mantra ts addressed either to the god Bhairava or to the goddess Bhairavt.
 [^63]: Literally means the "seat of kula". Tt ts a square platform made of wood and may be situated in the home, temple, or a place of worship out of doors. The verse here suggests that the pṛṭtha is in an enclosure with entrance.
 
@@ -62,6 +63,7 @@ and are devoted to the guru and the deity, the kula worshipper beautified with a
 and he should put the things for the deity before the deity
 
 (at a lower level).[^70]
+
 [^69]: The water should be in a conch shell containing a flower. The narrow end of the conch should point towards the deity.
 
 [^65]: One does not know of a specifie "kulāsana" but it may be the one prescribed by the guru at the time of initiation.
@@ -208,6 +210,7 @@ counterproductive.[^97]
 12\. When, Oh my Son!, there is question of the wife of another, then (the sādhaka) himself becomes her guru.
 
 He should give the supreme (mantra) into her left ear and should sprinkle her with the mantra.
+
 [^96]: "Stddhis” may be generally deseribed as magical powers because they are beyond the range of ordinary human faculties.
 
 [^95]: I.e., she is în a situation from which she cannot possibly escape
@@ -238,6 +241,7 @@ female yogi
 and the very accomplished lady - al\] these ladies
 
 (are purified) by the mantra.
+
 [^99]: There appears to be a typographical error in the test. Although the Sanskrit reads "guru", "kuru" is more appropriate in the context as also suggested by the 1926 Sanskrit edition and by the Bengali seript edition of this tert.
 
 [^98]: In mantra code language, "hydaya" (heart) = "namah" (homage). According to the Bengali sertpt edition the correct reading for 'vāntānte" its "bālānte". But according to Prof. G.K. Bhat "vāntānte" may be understood in comectton with Verse 12 where the Tparā" (vidyā) is given into the left ear of the śakti. I.e., the vidyā is "bloun" or "whispered" into the sakti's ear. "Vānta" its taken as the past pass. part. of Y va.
@@ -264,6 +268,7 @@ differing flavours
 23\. (and) milk, curds, ghee, buttermilk and fresh butter mixed with granulated sugar, powdered refined sugar and various kinds of elixirs,
 
 24\. coconut, the sour "elephant" fruit, lemon, well-ripened citron and the pomegranate fruit,
+
 [^104]: Magical or supernatural powers of which eight are commonly enumerated: Animā (smallness), Laghimā (lightness), Prāptíih (power to obtain everything), Prākāmyam (irresistable will), Mahimā (largeness), Isitvam (supremacy), Vasitvam (power to subjugate) and Kāmāvasãyttā (power of suppressîng desire).
 
 [^101]: I.e., the śakti.
@@ -338,6 +343,7 @@ In your mercy remove the obstacle (to my progress) and grant me the full attainm
 38\. Oh Goddess! Who bears the form of Viṣṇu and are borne along by the son of Vinatāã!
 
 ‘In your mercy...
+
 [^111]: I.e., the mantra HRIṆM,
 
 112. Here, the use of the word siddhi probably indicates success in the sādhaka's endeavours rather than any particular supernatural power.
@@ -648,6 +654,7 @@ Listen Oh Bhairava! The Dākinīs[^135] also are all parts of myself.
 22\. Looking and gazing at him with a sideways glance, the composure of her mind is broken by her longing (for the sādhkaka).
 
 As a swarm of bees overwhelmed with the intoxication of honey
+
 [^135]: A dākinī is a malignant female spirit especially popular in Tantric Buddhism.
 [^136]: A class of demons.
 
@@ -715,6 +722,7 @@ Then (he should write) on a leaf the nine letters of Mahișṣa-
 mardin, 1%5
 
 141\. Literally: "friend" or "companion".
+
 [^142]: According to Dr. G.K. Bhat, the mention of "moon" ts a reference to poetry and the kāmasāstra where the marks of a loverts fingernails on the beloved's breasts are compared to the crescent moon.
 [^143]: Literally: "positioned near and/or far".
 [^144]: I.e., the bija mantra "PHAṬ". "SPHEM SPHEM KIṬḶI KIṬI PHAṬ"
@@ -751,6 +759,7 @@ Exhilirated with intoxicants, the whole trembling and quivering earth is in her 
 Her two other hands make the gestures of granting favours and refuge. Out of her gruesome mouth her tongue is
 
 hanging.
+
 [^146]: I.e., towards the east.
 [^147]: A complex symbol often of two interlocking triangles representing the face, breasts and yoni (genital region) of the Goddess.
 [^148]: Verses 39-45 give the dhyāna of the goddess Kāli.
@@ -827,6 +836,7 @@ facing him.[^167]
 FULFILLER OF MY DESIRE! I SHALL PERFORM THE KULA PUJA!
 
 GRANT ME THE PRACTICE OF IT!"
+
 [^157]: I.e., the top surface of the feet.
 [^158]: I.e., the legs?
 [^161]: On the breasts.
@@ -886,6 +896,7 @@ he writes an excellent, large cakra inscribed with the names of the sādhaka and
 3\. The one of desire, the middle one of desire, enclosed by
 
 desire, with desire one should excite the desirable, with desire one should join the desirable.[^175]
+
 [^173]: I.e., at night.
 [^174]: There ts a direct equivalence between the śakti's physical body and Kāmarūpa - the region of Assam in the subcontinent where the Goddess’ most sacred shrine ts situated. The sādhaka ts irmediatety transported there by entering the temple of the yoni in the śakti's body, t.e. through sexual intercourse.
 
@@ -914,6 +925,7 @@ Spirits, ghosts, piśācas, rākṣasas and creeping animals,
 11\. a kinnarī, a.nāga girl and girls from the nether world, a vidyādharī, a bhairava, a vaṭuka and a gaṇapa also,
 
 (these interfering creatures) on entering and seeing the sleeping women of the house will create obstacles. With the intention of making trouble, they cause the death of children, anxiety, disease, ruin, the loss of property and distress of mind. Oh Sañkara!, if for such a reason as this, the head ọf the household suffers even the loss of a blade of grass, then the sādhakas are destroyed. Therefore the guru should make every effort to awaken al\] (the sleeping people}.
+
 [^176]: I.e., the yantra.
 [^177]: I.e., the yoni.
 
@@ -1029,6 +1041,7 @@ Abandoning all the other pīṭthas, there I reside my Son:
 41\. That pīṭha is of two types - secret and manifest, Oh MahesSvara: (Even) by the best of sāãdhakas the secret one is harder to obtain than the manifest pṛtha and is more meritorious.
 
 42\. Oh Lord of the Kulas: It is everywhere a secret acquired by noble kula sādhakas.
+
 [^190]: The double meaning should be understood here. Not only tis the actual Kāmākhyā temple in Assam referred to, but the Kāmākhyā temple of the body is also implied - including the even more 189. 190. esoterie pîtha of Verse 39.
 
 

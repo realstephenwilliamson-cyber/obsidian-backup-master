@@ -58,7 +58,7 @@ The energy called the Vulva is endowed with the movement of the three paths (i.e
 
 [^103]: This interesting and original concept, reminiscent in some ways of the Tantric Buddhist conception of Bodhicitta - 'Mind of Enlightenment’, is dealt with extensively solely in the Kubjikā Tantras. All beings whatever their status, gods, men or demons, have spiritual authority because they have received the Command (ājñā) of the goddess Kubjikā. This Command permits them to exert this authority within their jurisdiction. This doctrine may well have served to justify the configuration of Newar Kaula Tantrism around this goddess in the radical manner in which it is at present.
 
-[^104]: madhye viśrāmabhūmiṁ prasaramanubhavaṁ pratyayaṁ svādhikāram \\\\ (KKh 1/3c)
+[^104]: madhye viśrāmabhūmiṁ prasaramanubhavaṁ pratyayaṁ svādhikāram || (KKh 1/3c)
 
 [^105]: prāṇāpānāntare līnā ānandaśaktirucyate
 
@@ -96,7 +96,7 @@ You, who alone possess all the powers of the Wheel of the the Sacred Seats, abid
 
     tacchrījālandharākhyaṁ prakaṭitanilaye dakṣiṇe caiva koṇe
 
-    vāme śrīpūrṇapīṭhaṁ paśujanabhayakṛt kāmarūpaṁ tadagre \\\\ (CMSS 1/4)
+    vāme śrīpūrṇapīṭhaṁ paśujanabhayakṛt kāmarūpaṁ tadagre || (CMSS 1/4)
 
     The above verse is in śragdharā metre. Apart from the standard śloka, the metre in which most of the Tantras are written, this complex metre appears to have been especially favoured by Tantric authors prior to the eleventh century. The Buddhist Kālacakratantra is almost entirely written in this metre. The above passage is of special interest because it is quoted in the Vimalaprabhā, a commentary on the Kālacakratantra by Śrīpuṇḍarīka, who lived in the middle of the eleventh’ century. In the usual derisive manner of Buddhist commentators towards others who are not Buddhists, Puṇḍarīka refers to those who accept the authority of the source of the above reference as demons to be devoured (bhakṣadaitya). They have not known the supreme secret and their body is like that of the demon Māra who tormented the Buddha (Vimalaprabhā, vol. 3 pp. 146-8). This body is the triangular Vulva (bhaga) of the goddess, which this verse describes and the Kubjikā Tantras teach the adept should project into his own body. Here is yet another testimony to the existence of the Kubjikā Tantras in the eleventh century outside Nepal, possibly in Bengal, if this is the place where Śrīpuṇḍarīka wrote his commentary, as some scholars believe.
 
@@ -198,7 +198,7 @@ Thus, (reality), supreme (transcendent) and inferior (immanent), is divided by t
 
     vegetation.
 
-[^120]: The Kumārikā section of the Churning Bhairava Tantra defines the nature of this activity as follows: "(The act of) churning is said to be emanation itself, which is the arising of the aspects of the (energy of) Kula” (manthānaṁ sṛṣṭirevoktaṁ kaulikaṁ kalasaṁbhavam \\\\ KKh 17/35cd). Maheśvarānanda, writing in South India during the thirteenth or twelfth century, quotes the Kramakeli in his Mahārthamañjari (p. 172). This important work by Abhinavagupta on the Kashmiri Kālīkrama had, along with many other works of this tradition, reached South India from the North by that time. The same passage is also quoted by Kṣemarāja in his commentary, the Spandanirṇaya (p. 6), on the Spandakārikā. The passage explains that the god of the Kālīkrama is called Manthānabhairava, lit. the Churning Bhairava, because "he engenders the creation etc. of all things (by arousing) and churning his own power." In this case, the teachings of the Kālīkrama and Kubjikā's Śrīkrama coincide.
+[^120]: The Kumārikā section of the Churning Bhairava Tantra defines the nature of this activity as follows: "(The act of) churning is said to be emanation itself, which is the arising of the aspects of the (energy of) Kula” (manthānaṁ sṛṣṭirevoktaṁ kaulikaṁ kalasaṁbhavam || KKh 17/35cd). Maheśvarānanda, writing in South India during the thirteenth or twelfth century, quotes the Kramakeli in his Mahārthamañjari (p. 172). This important work by Abhinavagupta on the Kashmiri Kālīkrama had, along with many other works of this tradition, reached South India from the North by that time. The same passage is also quoted by Kṣemarāja in his commentary, the Spandanirṇaya (p. 6), on the Spandakārikā. The passage explains that the god of the Kālīkrama is called Manthānabhairava, lit. the Churning Bhairava, because "he engenders the creation etc. of all things (by arousing) and churning his own power." In this case, the teachings of the Kālīkrama and Kubjikā's Śrīkrama coincide.
 
 *[p. 42]* ^pg47
 
@@ -225,7 +225,7 @@ The Newars, following a pattern common to Kaula Tantrism in general from the thi
     evaṁ sṛṣṭigatānaṅgaṁ anaṅgaṁ kāmanāśanam |
     sa ca haṁsaṁ mahātmānaṁ jvalanādamṛtodbhavam 1|
     dvāvetau śivaśaktyākhyau otaprotaṁ jagattrayam |
-    etad rahasyamākhyātaṁ mahāmanthānasaṁjñayā \\\\ (KKh 24/27cd - 29)
+    etad rahasyamākhyātaṁ mahāmanthānasaṁjñayā || (KKh 24/27cd - 29)
 
 [^122]: pīṭhādyaiḥ ṣaṭprakāraistaduparimathitaṁ divyaliṅgaṁ vibhinnam |
 
@@ -297,7 +297,7 @@ In this way the goddess is worshipped as all that exists both externally, in the
 
     santi paddhatayaścitrāḥ srotobhedeṣu bhūyasā |
 
-    anuttaraṣaḍardhārthakrame tvekāpi nekṣyate \\\\
+    anuttaraṣaḍardhārthakrame tvekāpi nekṣyate ||
 
     ityahaṁ bahuśaḥ sadbhiḥ śiṣyasabrahmacāribhiḥ |
 
@@ -411,7 +411,7 @@ manifest (vyāvṛta).[^142]
 
     krama maṇḍalamadhyasthaṁ jvalantaṁ dīparūpakam į
 
-    talliṅgaṁ taṁ ca vṛkṣaṁ ca vidhinā kramanāyakam \\\\
+    talliṅgaṁ taṁ ca vṛkṣaṁ ca vidhinā kramanāyakam ||
 
     The (reality) in the centre of the Krama Maṇḍala burns in the form of (the flame of a) lamp. That is the Liṅga, that the Tree and, according to the rule, the master of the Krama. (ibid. 8/77).
 
@@ -423,19 +423,19 @@ manifest (vyāvṛta).[^142]
 
 [^142]: śūnyākāre tamaikatve ramaṇānandacetasam |
 
-    śamanaṁ kulasaṁkāśaṁ kiñcijjānāmyahaṁ hara \\\\
+    śamanaṁ kulasaṁkāśaṁ kiñcijjānāmyahaṁ hara ||
 
-    na vācā śruticakṣubhyāṁ na ca buddhyāmyahaṁ hara \\ kaivalyānandamāhlādaṁ saṁvartāntaṁ śatārdhakam \\\\
+    na vācā śruticakṣubhyāṁ na ca buddhyāmyahaṁ hara \\ kaivalyānandamāhlādaṁ saṁvartāntaṁ śatārdhakam ||
 
     tasyecchā kiñciccinmātramavyaktaṁ vyaktirūpiṇam |
 
-    tadāhaṁ vismayamāpannā kimidaṁ śūnyarūpakam \\\\ iti matvā gahanaṁ ghoraṁ bhītāhaṁ suptacetasā |
+    tadāhaṁ vismayamāpannā kimidaṁ śūnyarūpakam || iti matvā gahanaṁ ghoraṁ bhītāhaṁ suptacetasā |
 
-    praviṣṭā bhairave yajñe sthitāhaṁ pararūpataḥ \\\\
+    praviṣṭā bhairave yajñe sthitāhaṁ pararūpataḥ ||
 
     paramāṇusvarūpeṇa kiñcidrūpaṁ ca siṁhakam |
 
-    siṁhasaṁvartakaṁ nātha vyāvṛtaṁ tamasākulam \\\\ (KKh 24/7-11)
+    siṁhasaṁvartakaṁ nātha vyāvṛtaṁ tamasākulam || (KKh 24/7-11)
 
 *[p. 50]* ^pg55
 
@@ -459,7 +459,7 @@ The goddess was then born to Himavān, the god of the Himalaya range, as Bhadrak
     jvalantaṁ cintayitvā tu mudrāmaṇḍalamadhyataḥ \\|
     vajrāsanaṁ tato badhvā smṛtāghoreśvarīkalā |
 
-    kālāgninā svayaṁ dagdhā nirdhūmāṅgāratāṁ gatā \\\\
+    kālāgninā svayaṁ dagdhā nirdhūmāṅgāratāṁ gatā ||
 
     mṛtā bhasmagatā sādhvī uttīrṇā martyalokataḥ i (KKh 3/162cd- 6ab)
 
@@ -514,7 +514,7 @@ The New[^150] and the Full Moon are the two extremities of the movement of vital
 
     śuklapakṣe tvahaṁ vande pūrṇākhyāmṛtarūpiṇīm |
 
-    tanmadhye kālikābimbaṁ utsaṅgāmṛtakesarīm \\\\
+    tanmadhye kālikābimbaṁ utsaṅgāmṛtakesarīm ||
 
     devīṁ amāmahaṁ vande candrikākārarūpiṇīm | (KKh 3/121cd-3ab)
 
@@ -579,13 +579,13 @@ Such yogic visualizations of the movement of the vital breath are an important p
     vakraśaktiranantātmā saumyarūpā vicintayet |
     saṁhārasyāgame sṛṣṭiściñciṇī paramā kalā ||
     ānayecca anāmānte tu kṣīrakaṇikopamā |
-    tato'bhiṣekastenaiva prāksvarūpeṇa devyatā \\\\
+    tato'bhiṣekastenaiva prāksvarūpeṇa devyatā ||
 
     hṛccakre pūrṇasaṁsthāne pūrṇacandrasamaprabhā |
 
     evaṁ saṁcintya cittena svacakre tu praveśayet \\|
     prahasantī parānandā dravate sābhinanditā |
-    citsvarūpātmikā śaktiranāmānāmamaṇḍale \\\\ tenāmṛtabharā tṛptiḥ paurṇamāsī pravartate |
+    citsvarūpātmikā śaktiranāmānāmamaṇḍale || tenāmṛtabharā tṛptiḥ paurṇamāsī pravartate |
 
     āgamaṁ sṛṣṭibhedena etadājñābhiṣecanam ||
 
@@ -629,13 +629,13 @@ Another tree closely associated with Kubjikā is the kadamba tree. At times it i
 
 [^157]: In one place this tree is said to be a kiṁśuka which, like the tamarind, has beautiful red flowers:
 
-    śaktitritayamadhye tu kiṁśukākāradevatā \\\\
+    śaktitritayamadhye tu kiṁśukākāradevatā ||
 
     piṇḍaṁ tasyā bhagākāraṁ vande trikoṇapīṭhagām |
 
     In the midst of the three energies is the deity whose form is that of a blossom of the kimśuka tree. The shape of her body is that of the vulva; I praise her who resides in the sacred seat of the Triangle. (KKh 3/125cd -126ab)
 
-[^158]: ānandaṁ vimalaṁ ciñcaṁ ... | ānandaṁ vyāpakaṁ deva sarvabhūteṣvavasthitam \\\\ The tamarind is pure bliss. ... O god, bliss is pervasive and is present in all beings. (KKh 17/18abd)
+[^158]: ānandaṁ vimalaṁ ciñcaṁ ... | ānandaṁ vyāpakaṁ deva sarvabhūteṣvavasthitam || The tamarind is pure bliss. ... O god, bliss is pervasive and is present in all beings. (KKh 17/18abd)
 
 [^159]: Referring to the tree which grows from the triangle of the maṇḍala, the CMSS (7/8cd) declares: Supreme repose, devoid of pleasure and pain, is there (tatra viśrāntiparamaṁ sukhaduḥkhavivarjitam).
 
@@ -649,7 +649,7 @@ Another tree closely associated with Kubjikā is the kadamba tree. At times it i
 
     raśmijvālākadambaṁ ca cintayecca adhomukham |
 
-    navalakṣakṛte deva trailokyamapi sādhayet \\\\
+    navalakṣakṛte deva trailokyamapi sādhayet ||
 
     Once having formed the conjunction of the three (energies) and thrown the Command into the maṇḍala, one should think (of it) as the kadamba (tree) aflame with its rays facing downwards. Once one has (recited the Vidyā) 900,000 times, one controls even the three worlds. (KKh 11/22cd - 23)
 

@@ -384,7 +384,7 @@ Siddhilakṣmī.[^39] Especially the last two are so well defined that even thou
 
     nepāle saṁsthitandevaṁ paśunāṁmpatiriṣyate |
 
-    guhyeśvarīsamāyuktaṁ sthānapālasamanvitaṁ \\\\
+    guhyeśvarīsamāyuktaṁ sthānapālasamanvitaṁ ||
 
     The god who resides in Nepal is considered to be the lord of the fettered (i.e. Paśupati). He is linked
 
@@ -424,7 +424,7 @@ There is a city there called Candrapura (the City of the Moon) with (many) citiz
 
 [^45]: etad vai paścimaṁ veśma candrapuryeti nāmataḥ |
 
-    maṇḍalaṁ prathamedaṁ tu adhikāraṁ tu mantriṇām \\\\ (KKh 3/12)
+    maṇḍalaṁ prathamedaṁ tu adhikāraṁ tu mantriṇām || (KKh 3/12)
 
 [^46]: meroḥ paścimadigbhāge | (KMT 1/59c)
 
@@ -458,8 +458,6 @@ At the foot of a wonderful tree in Candrapurī, \[which is\] situated by the wes
 [^50]: It is significant in this regard that Vidyānanda, a fourteenth-century South Indian commentator on the Nityāṣoḍaśikārṇava “seems to have possessed", as the editors of the KMT inform us, "a fair knowledge of the texts of the Kubjikā school because he repeatedly refers to them" (Goudriaan and Schoterman 1988: 18). Maheśvarānanda, who was a disciple of Vidyānanda and lived in the part of South India ruled at that time by the Cholas, quotes from Kubjikā sources in three places in his autocommentary on the Mahārthmañjarī (two on p. 4 and one on p. 126). Although these references have not been traced in the KMT, he appears to have been acquainted with the Kubjikā Tantras which, although little known, must therefore have been in circulation in South India in the fourteenth century. For the few other references drawn from the KMT see Goudriaan and Schoterman 1988: 14ff..
 
 [^51]: Quoted by White 1996: 94 from Saletore 1937: 20ff.
-
-30
 
 *[p. 22]* ^pg27
 
@@ -495,14 +493,14 @@ life.[^60]
 
     pakṣe śive cāśvinanāmadheye tithau tṛtīyāṁ dharaṇīsute'hni |
 
-    śrīharṣadevasya ca vardhamāne rājye mahānandakare \[Į-maṁdakare\] prajānām \\\\
+    śrīharṣadevasya ca vardhamāne rājye mahānandakare \[Į-maṁdakare\] prajānām ||
 
     nepāladeśaṁ samupāgatena kāṣṭhābhidhe \* \* \* saṁsthitena |
 
     svaśiṣyavargasya nibodhanāya paropakārāya kṛtaprayatnaḥ |l
 
     bhaktyā svayaṁ śrīkularatnapūrvamuddyotayantaṁ |-mudyotasantaṁ\] bṛhadāgamedam |
-    śrīmatkulācāryavivekaratnakenāpi Į śrīmatkalācārya-\] saṁlekhitaṁ \[-ta\] paṇḍitena \\\\
+    śrīmatkulācāryavivekaratnakenāpi Į śrīmatkalācārya-\] saṁlekhitaṁ \[-ta\] paṇḍitena ||
 
     {The teacher} himself has come to the land of Nepal and resides in Kathmandu {kāṣṭhābhidha) and made an effort to instruct his disciples and help others. (He came) when Śrīharṣadeva's kingdom was prospering and gave great joy to the subjects (who resided there). (This effort was made and bore fruit in the form of this manuscript completed ) on Tuesday (dharaṇīsute'hni), in the bright half (śivapakṣa} (of the lunar month of} Aśvin on the third lunar day.
 
@@ -570,15 +568,15 @@ Significantly Sanderson quotes a verse from a Kubjikā Tantra, the Kularatnoddyo
 
 [^68]: viṣayeṣveva saṁlīnānadho'dhaḥ pātayantyaṇūn |
 
-    rudrāṇūn yāḥ samāliṅgya ghorataryo'parāstu tāḥ \\\\
+    rudrāṇūn yāḥ samāliṅgya ghorataryo'parāstu tāḥ ||
 
     miśrakarmaphalāsaktiṁ pūrvavajjanayanti yāḥ |
 
-    muktimārganirodhinyastāḥ syurghorāḥ parāparāḥ \\\\
+    muktimārganirodhinyastāḥ syurghorāḥ parāparāḥ ||
 
     pūrvavajjantujātasya śivadhāmaphalapradāḥ |
 
-    parāḥ prakathitāstajjñairaghorāḥ śivaśaktayaḥ \\\\ (MV 3/31-3)
+    parāḥ prakathitāstajjñairaghorāḥ śivaśaktayaḥ || (MV 3/31-3)
 
     The Ghoratarā (energies), which are the lower (aparā) ones, embrace the Rudra {i.e. individual) souls. Having done so, they throw down (those) individual souls who are attached to the objects of sense to increasingly lower levels.
 
@@ -694,7 +692,7 @@ Again:
 
 [^85]: This short tract of about three hundred verses is one of a number of such short tracts collected in a manuscript preserved in the National Archives in Kathmandu. The manuscript is wrongly labelled Kālīkulapañcaśatikā (see bibliography). Prof. Sanderson gave me a copy of the entire manuscript in 1981. I am grateful to him for supplying me with this material. Almost twenty years have elapsed since he gave it to me. To the best of my knowledge he has not published this text nor is he about to do so. I have therefore taken the liberty of making use of this important material myself.
 
-[^86]: kramākramobhayottīrṇaraśmipuñjātighasmaraḥ \\\\
+[^86]: kramākramobhayottīrṇaraśmipuñjātighasmaraḥ ||
 
     svarūpaṁ hartumudyukto nistaraṅgo'niketanaḥ |
 
@@ -718,7 +716,7 @@ Free of objectivity and residing in his own foundation (ādhāra), (he contempla
 
 Abiding thus for a moment, he applied (his) mind (manas) to his own foundation (svādhi-ṣṭhāna).[^90] (Thus) he aroused (his) supreme power whose form was coiled. Fire came forth by the
 
-[^88]: tadbhakṣaṇaḥ paraḥ prokto bhāvābhāvatamojjhitaḥ \\\\
+[^88]: tadbhakṣaṇaḥ paraḥ prokto bhāvābhāvatamojjhitaḥ ||
 
     nirupādhimahābodharaśmyullāsamayodayaḥ |
 
@@ -773,19 +771,19 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 
     kartuṁ f{k: kartaṁ: kh: karta} devo.aprameyātmā {k kh: devya prameyātmāj\]
 
-    svakīyādhārasaṁsthitaḥ \\\\
+    svakīyādhārasaṁsthitaḥ ||
 
     evamacintayat svayaṁ {k kh: evaṁ cintaya tastasye}\] kalpakoṭyarbudāni \[kh: asya kalpakoṭya-\] ca |
-    atītāni varārohe kaivalyārthasthitasya \[kh: kaivalyārthai-} ca \\\\
+    atītāni varārohe kaivalyārthasthitasya \[kh: kaivalyārthai-} ca ||
 
     athākarojjagaddhātā praticārakahetave \[kh: -hetava\] \\
 
-    cintāṁ \[k kh: cintā\] paramanirvāṇaṁ \[k kh: -nirvāṇaḥ\] ko.asmākaṁ praticārakaḥ \\\\ iti sthitvā muhūrtaṁ \[k: -rthaṁ; kh: mudruttaṁ} vai \[k: se; kh: me\] svādhiṣṭhāne \[kh: -sthāne\] mano dadhau |
+    cintāṁ \[k kh: cintā\] paramanirvāṇaṁ \[k kh: -nirvāṇaḥ\] ko.asmākaṁ praticārakaḥ || iti sthitvā muhūrtaṁ \[k: -rthaṁ; kh: mudruttaṁ} vai \[k: se; kh: me\] svādhiṣṭhāne \[kh: -sthāne\] mano dadhau |
     kṣobhayet \[k kh: -yat\] paramāṁ \[kh: paramā\] śaktiṁ kuṇḍalākāravigrahām \[k kh: -kālavigrahāṁ JI\\
 
     niṣkrāmya vāmamārgeṇa bahirvyomni \[kh: vahi-} parāpare {kh: -para\] \\
 
-    sṛṣṭavān \[k: -vāt\] paramāṁ devīṁ \[kh: devī\] sa paraḥ {k kh: parāṁ\] parameśvaraḥ \\\\
+    sṛṣṭavān \[k: -vāt\] paramāṁ devīṁ \[kh: devī\] sa paraḥ {k kh: parāṁ\] parameśvaraḥ ||
 
     sā ca devī mahāmāyā priye taddharmadharmiṇī |
 
@@ -793,7 +791,7 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 
     tābhyāṁ taṁ tu mamārabdaṁ cakramānandasaṁjñakam |
 
-    nirmitā paramā divyā pañcaviṁśaguṇairyutā \\\\ pañcaviṁśatitattvasthā \[kh: -tatvaiśca\] śobhitā \[k kh: śobhitāṁ}\] parameśvarī \[k kh: -rīṁ\] \\ pañcaratnakṛtāṭopā saptadhātuparicchadā \[k kh: -dāṁ}) \\\\ sudhāsvarūpiṇī \[k kh: sudhāturūpiṇī\] divyā \[k kh: divyāṁ} tattvarāgānurañjitā \[k kh: -tāṁ}\] |
+    nirmitā paramā divyā pañcaviṁśaguṇairyutā || pañcaviṁśatitattvasthā \[kh: -tatvaiśca\] śobhitā \[k kh: śobhitāṁ}\] parameśvarī \[k kh: -rīṁ\] \\ pañcaratnakṛtāṭopā saptadhātuparicchadā \[k kh: -dāṁ}) || sudhāsvarūpiṇī \[k kh: sudhāturūpiṇī\] divyā \[k kh: divyāṁ} tattvarāgānurañjitā \[k kh: -tāṁ}\] |
 
     svakīyecchā ca {k kh: svakīyaśira\] sā \[k kh: soj\] devī \[k kh: devi\] devadevena \[kh: bhedavadevana\] bhairavī \[k kh: bhairavi\] M (KRU 1/53-65)
 
@@ -830,7 +828,7 @@ and shining, (it shone with the) light of tens of millions of suns.[^95]
 
     sadyiśretvabhava\] priye |
 
-    tatrotpanno \[kh: tatrojñā\] mahābinduramṛto yo Įkh: yā\] varānane \\\\ dīptivān bhāsvaraścaiva \[kh: dīptivārtāsvara-\] sūryakoṭisamaprabhaḥ \[k kh: -prabhuḥ\]} | (KRU 1/73cd-9ab)
+    tatrotpanno \[kh: tatrojñā\] mahābinduramṛto yo Įkh: yā\] varānane || dīptivān bhāsvaraścaiva \[kh: dīptivārtāsvara-\] sūryakoṭisamaprabhaḥ \[k kh: -prabhuḥ\]} | (KRU 1/73cd-9ab)
 
 *[p. 35]* ^pg40
 
@@ -856,11 +854,11 @@ Kālī thus creates oneness in, and through, the destruction of multiplicity. Co
 
 [^98]: For example, see MV 1/44cd-5:
 
-    ajñānena sahaikatvaṁ kasyacid vinivartate \\\\
+    ajñānena sahaikatvaṁ kasyacid vinivartate ||
 
     rudraśaktisamāviṣṭaḥ sa yiyāsuḥ śivecchayā |
 
-    bhuktimuktiprasiddhyarthaṁ nīyate sadguruṁ prati \\\\
+    bhuktimuktiprasiddhyarthaṁ nīyate sadguruṁ prati ||
 
     (lt may happen) that the unity a person has with (the condition of) ignorance ceases. (Such a one) is penetrated by Rudra'’s energy. By Śiva's will, he desires to go to a true teacher and is led {to one) so that he can attain liberation and (worldly) enjoyment.
 

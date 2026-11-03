@@ -26,14 +26,14 @@ Goodall (2015: 44-46) provides an outline of the evolution of the system of thir
 
 Another place Abhinava has an occasion to present the system of Tattvas is in the Parātrimhśikāvivarapa (p. 130-141). A translation of this interesting passage follows. 
 
-‘Above the Speech of Vision (paśsyanti) is the plane of the goddess Parā, where everything shines (bhāti) and is contemplated (vimṛśyate) as one (abhedena). Although (the Light of consciousness) shines (bhāsanā) undivided (abhedena) on the plane of (Pure) Knowledge and so too on the plane of Māyā, it is otherwise with the reflective awareness (inherent in it that perceives polarities within the one Light). Thus, on the plane of (Pure) Knowledge, the ‘this’ (aspect), that is, the totality of the perceiving subjects and objects, is projected (saṁkrāmet) as a unity (ekataḥ) into the (subjectivity which is the) ‘T (aspect) (ahamātmani). It is then contemplated as covered over (ācchādita) by that (‘T’) as ‘l-this’ (i.e. ‘I am (all) this’). (In other words,) both (these polarities) are reflected (pratibimbita) within a common foundation (adhikaraṇa), which is consciousness, as undivided (from it) and, manifesting in this way, it is said that they possess (a common) basis (p. 131). Thus, as the venerable Utpaladeva has said with regards to the Īśvara principle (that corresponds to this state of consciousness): ‘in Īśvara’s state (avasthā), phenomena (bhāva) are on the plane (of unity-in-difference,) which is supreme-cum-inferior (parāparā), just as on the path of Māyā (they are on the plane of difference, which is the) inferior one (aparā). Indeed, that (supreme power) is not the supreme-cum-inferior (parāparāśakti) one or the inferior one (aparāśakti). Nor should one think that it is right to doubt that (his view) is contrary to the scriptures that are being expounded.’ (p. 132) 
+‘Above the Speech of Vision (paśsyanti) is the plane of the goddess Parā, where everything shines (bhāti) and is contemplated (vimṛśyate) as one (abhedena). Although (the Light of consciousness) shines (bhāsanā) undivided (abhedena) on the plane of (Pure) Knowledge and so too on the plane of Māyā, it is otherwise with the reflective awareness (inherent in it that perceives polarities within the one Light). Thus, on the plane of (Pure) Knowledge, the ‘this’ (aspect), that is, the totality of the perceiving subjects and objects, is projected (saṁkrāmet) as a unity (ekataḥ) into the (subjectivity which is the) ‘T (aspect) (ahamātmani). It is then contemplated as covered over (ācchādita) by that (‘T’) as ‘l-this’ (i.e. ‘I am (all) this’). (In other words,) both (these polarities) are reflected (pratibimbita) within a common foundation (adhikaraṇa), which is consciousness, as undivided (from it) and, manifesting in this way, it is said that they possess (a common) basis (p. 131). Thus, as the venerable Utpaladeva has said with regards to the Īśvara principle (that corresponds to this state of consciousness): ‘in Īśvara’s state (avasthā), phenomena (bhāva) are on the plane (of unity-in-difference,) which is supreme-cum-inferior (parāparā), just as on the path of Māyā (they are on the plane of difference, which is the) inferior one (aparā). Indeed, that (supreme power) is not the supreme-cum-inferior (parāparāśakti) one or the inferior one (aparāśakti). Nor should one think that it is right to doubt that (his view) is contrary to the scriptures that are being expounded.[^392] (p. 132) 
 
-392?\. Here it seems Abhinava is talking about the difference between the metaphysical principle called ‘Īśvara’ and ‘Īśvara’ (literally meaning “lord’) as Śiva Himself. The energy of the former is Parāparā and of the latter, Parā.
+[^392]: Here it seems Abhinava is talking about the difference between the metaphysical principle called ‘Īśvara’ and ‘Īśvara’ (literally meaning “lord’) as Śiva Himself. The energy of the former is Parāparā and of the latter, Parā.
 
 
 *[p. 497]* ^pg516
 
-Although the essential nature (rpa) within the Great Lords of Mantra and the rest (of the perceivers in the pure principles}? is in ultimate reality solely (awakened) consciousness alone, (bodha) but as they are different from one another, consciousness (saṁvid) assumes in them the form “I (am) I” (aham aham); whereas ‘this (is) just this’. Again, although the Consciousness Deconditioned 
+Although the essential nature (rpa) within the Great Lords of Mantra and the rest (of the perceivers in the pure principles)[^393] is in ultimate reality solely (awakened) consciousness alone, (bodha) but as they are different from one another, consciousness (saṁvid) assumes in them the form “I (am) I” (aham aham); whereas ‘this (is) just this’. Again, although the Consciousness Deconditioned 
 
 (vijñānākala) 
 
@@ -47,7 +47,7 @@ As there is no awareness (saṁvedana) of any other cause of (its presenting its
 
 Thus, (at the supreme level of Speech,) phenomena manifest as one in all respects, like water in water or a flame in a flame (jvā/ā), not even like a reflection (in a mirror, as is the case at the level of the Speech of Vision, where there is a trace of difference). It is only to the degree in which this supreme goddess (parameśvarī) also is described in words for the purpose of instruction that she is fashioned (by Her own will) into lower states of being (adharasattākiptā). (p. 134) In this way, Bhairava’s nature, which is the Light 
 
-393?\. See TĀ 1/77-78 and 10/3-7ab.
+[^393]: See TĀ 1/77-78 and 10/3-7ab.
 
 
 *[p. 498]* ^pg517
@@ -66,7 +66,7 @@ Thus, (all) this exists and makes sense (sargacchate) if the light (bhāsā) (of
 
 (aesthetic) relish (camatkāra) of the parts which respectively precede it, in a manner that cannot deviate from its own nature (svabhāvāvyabhicārāīnu-rodha), and so, (abiding) in a state of oneness with Bhairava attained (thereby), the light, even (when they are considered) individually (ekaikam api param), is full (and perfectly all-embracing). (p. 136) This is so until they reach the most intimate point of their own being \[illegible\] . . . nikatataravarti rūpam), which is considered to be Bhairava, Who shines with His own Light. This is the abode of rest ( viśrāntidhāman), or (that) of one’s own will, or (one may say that it is) the body (vapuṣ) called Bhairava. May you yourselves be skilful in that reflective awareness and dedicated to (this contemplative) enumeration (prasarikhyāna) (of the principles). Vision roams uninterrupted over a wild land, which is not broken up by (its) lakes, mountains, trees and the like or else, extending (unbroken) to a great distance in woodlands (seen from a height). Thus, (attaining this state of unbroken wholeness), it leads to entry into Bhairava’s (awakened) consciousness (bodha), and so may you all attain (the reality) taught in the traditional teachings (sapradāyatā). As is said (in the Vijñānabhairava): 
 
-‘Cast (your) gaze onto a place without trees, mountains or walls , . . etc. 
+‘Cast (your) gaze onto a place without trees, mountains or walls , . . etc.[^394] 
 
 Otherwise, if (the various parts) were to fall one by one, beginning with the first part (without being connected to one another), or if this were to be devoid of parts, 
 
@@ -76,7 +76,7 @@ Thus, reality, which is Siva (sfvatattva), is (never absent) even here (in every
 
 (vika/pa). Freedom itself, without beginning, it is the beginning of all things. This has been proved and to this extent there is no disagreement. That (reality) becomes thus completely full (and all-embracing), if it reaches the plane of the Earth principle, the last of all. Indeed, he who contemplates the Earth (principle as a whole, independently of the beings and things that constitute it), can illumine and contemplate it as an object, and even so, as (one 
 
-394?\. VBh v. 60.
+[^394]: VBh v. 60.
 
 
 *[p. 500]* ^pg519
@@ -85,17 +85,17 @@ APPENDIX A CHAPTER NINE
 
 and) undivided (abhedena), if one is actively engaged (in directing one’s attention) to the reflective awareness and manifestation of the (universal) essence (sarvasva) of its own nature. The nature and essence of that (awareness as a whole) is that of functioning as the foundation (ādharavṛtti) of the gross elements, from Ether to Water. These have come forth from the subtle elements which precede them, and have as their root cause the ego (ahaṁkāra), which is a modification (parināma) of the intellect \[illegible\] which is an allotropic form (vikāra) of Nature (prakṛti), which consists of the totality of objectivity (erāhyacakra) in an undifferentiated state of the perceiver subject to Māyā, who is freedom and consciousness in a contracted state. (p. 138) (This contracted state) arises due to the manifestation of complete duality (ekarasabheda), which is preceded by duality that has not (yet fully) developed (aprarādha), which is fashioned (k/pta), from complete (and perfect) freedom in the course of (its) emanation. (The Earth is only completely Earth and as such fully formed in its) own nature when it implicitly (encompasses within itself all other things). It encompasses within itself five qualities, and so for this reason, the five subtle elements which, contained implicitly within it, must, in order to form their own full nature, in their turn, implicitly contain their cause which, in its turn, must contain its prior root (causal principle), which establishes it (to be such), and so on. The view that what is considered to be the material cause does not continue (to exist in its) product is not (logically) sustainable. (At the most,) one may say that sometimes the efficient and other (ancillary) causes are not present (in the effect). We have discussed (this view) thoroughly elsewhere (in another) book dedicated to that (subject); (discussing it here again) would lead us away from the topic, and so (need not be discussed) at length here. 
 
-In this way, the Earth (principle) is in the beginning (of the ascending series of principles). Water, which comes after it, should be filled (with the same consciousness) illumined and contemplated in its wholeness (sākalyena), (arousing a corresponding state) of relish (camatkāra) of the light and reflective awareness of that (image of the Water principle), having encompassed within itself the latent traces and essential nature of the Earth principle which is such (as described). (The same should be repeated with the other principles) until, in the end, (the yogi attains) the Goddess who is full (and all-embracing) consciousness (pārpasaṁvid), Who is Śiva’s very nature. (p. 139) What is said in the scripture, namely, that although the Absolute (Brahman) is (equally in each) place, (It is) omniform, (unsurpassed and inconceivable),\* and that in each principle are present (all) thirty-six principles," is based on these arguments and teaching. And such also is the teaching of the Stanzas on Vibration, which should be taken to heart, where we read: 
+In this way, the Earth (principle) is in the beginning (of the ascending series of principles). Water, which comes after it, should be filled (with the same consciousness) illumined and contemplated in its wholeness (sākalyena), (arousing a corresponding state) of relish (camatkāra) of the light and reflective awareness of that (image of the Water principle), having encompassed within itself the latent traces and essential nature of the Earth principle which is such (as described). (The same should be repeated with the other principles) until, in the end, (the yogi attains) the Goddess who is full (and all-embracing) consciousness (pārpasaṁvid), Who is Śiva’s very nature. (p. 139) What is said in the scripture, namely, that although the Absolute (Brahman) is (equally in each) place, (It is) omniform, (unsurpassed and inconceivable),[^395] and that in each principle are present (all) thirty-six principles,[^396] is based on these arguments and teaching. And such also is the teaching of the Stanzas on Vibration, which should be taken to heart, where we read: 
 
-‘When (the yogi’s consciousness) pervades all things by (his) desire to perceive, then why speak much? — He will experience it for himself.” 
+‘When (the yogi’s consciousness) pervades all things by (his) desire to perceive, then why speak much? — He will experience it for himself.’[^397] 
 
 The last part (of these verses) alludes to this. What is (the use of saying) anything else? (Let this suffice!) Within the unfolding (of the sphere) of Natural 
 
-395?\. See note 1,001.
+[^395]: See note 1,001.
 
-396?\. Cf. TĀ 9/51cd.
+[^396]: Cf. TĀ 9/51cd.
 
-397?\. SpKā 3/13 (43).
+[^397]: SpKā 3/13 (43).
 
 
 *[p. 501]* ^pg520

@@ -408,8 +408,14 @@
 	gap: 8px 16px;
 }
 
+/* `auto`: the title reserves its own width and no more. A fixed reservation
+   (it was 12rem) is wrong in both directions — wider than a short title, so the
+   buttons wrapped under a title that had room to share the line with them, and
+   narrower than a long translation, which then wrapped beside them instead. With
+   `auto` the line breaks exactly when the full title and the full buttons stop
+   fitting side by side, which is also the question `scanPlacement.ts` asks. */
 .callout-studio-settings .cs-callout-list-heading .setting-item-info {
-	flex: 1 1 12rem;
+	flex: 1 1 auto;
 	min-width: 0;
 	margin-inline-end: 0;
 }
@@ -482,6 +488,102 @@
 	height: auto;
 	white-space: normal;
 	overflow-wrap: anywhere;
+}
+
+/* ─── "My callout types": where Scan goes ─────────────────────── */
+
+/* The heading keeps **Scan for callouts** beside **Add new callout** for as
+   long as the title and both buttons fit on its one line. When they do not —
+   a phone, an iPad in portrait, a narrow settings window, a long translation,
+   larger text — Scan goes to the foot of the list (`.cs-discover-footer`,
+   below), under **Load more** when there is one, and Add keeps the title's
+   line at the trailing edge. The heading never splits its buttons over two
+   lines; the stacking above is only what shows where nothing has measured.
+
+   Measured, not keyed to `.is-phone` or to a width: `scanPlacement.ts` lays
+   the heading out with both buttons, sees whether they stayed on the title's
+   line, and sets `.cs-scan-below` on the section when they did not. Its
+   `.cs-scan-measure` is "lay this out as if Scan were here" for the length of
+   that one reading, which is why the hiding rule skips it.
+
+   Scan is built twice — once in the heading's control, once in the footer —
+   rather than one button moved between the two: the rows above the footer are
+   rebuilt on every registry change, and a button rebuilt while it holds focus
+   makes the pane's scroller clamp and jump; the footer is the one child of the
+   body the painter keeps (see `CalloutListsSection`). The two share one
+   progress state (see `manualDiscoveryButton.ts`), so a scan started from
+   either greys both. */
+.callout-studio-settings
+	.cs-scan-below
+	.cs-callout-list-heading:not(.cs-scan-measure)
+	.cs-discover-callouts-btn {
+	display: none;
+}
+
+.callout-studio-settings .cs-discover-footer {
+	display: none;
+}
+
+/* The last thing in the section body, so it sits under the list and under
+   **Load more**, which is the list's own last child: Load more continues the
+   list and has to stay against its last row, and a scan is about the section,
+   not one row of it. It carries no trailing space of its own — it is inside the
+   body, so the body's `--cs-section-gap` falls under it as it would under a last
+   row, and it folds away with the body. */
+.callout-studio-settings .cs-scan-below .cs-discover-footer {
+	display: flex;
+	justify-content: center;
+	padding-top: var(--size-4-4);
+}
+
+/* Wrapping, not sizing — the same pair of declarations the heading's buttons
+   carry above, for the same long-translation reason. */
+.callout-studio-settings .cs-discover-footer .cs-discover-callouts-btn {
+	max-inline-size: 100%;
+	min-block-size: var(--input-height);
+	height: auto;
+	white-space: normal;
+	overflow-wrap: anywhere;
+}
+
+/* A phone measures the same way, but only after its buttons are given their
+   own width back. Its settings live inside `.modal`, and Obsidian's
+   `.is-phone .modal .setting-item-control button` rules reach a heading's
+   buttons too (their exclusion list covers the control's width, not the
+   buttons'): `width: 100%`, `margin: 0`, `padding: 10px`. A button that claims
+   the control's whole width fits beside no title, so Scan would leave even a
+   phone turned sideways, and Add would be a full-width bar under the title
+   rather than a button on its line. Both are restated at (0,5,1), one class
+   beyond Obsidian's (0,4,1).
+
+   The column gap and the side padding are trimmed to Obsidian's own 12px: the
+   title and Add then share one line from a 370px window up, which takes in the
+   375px iPhones and every common Android width but 360. The 16px used above
+   needs 381px. Below that, Add falls to a line of its own at the trailing edge
+   — the control's auto margin above — rather than crushing the title.
+
+   The `gap` shorthand, with the 8px row gap above restated, rather than
+   `column-gap`: Obsidian's plugin review reads every `column-*` property as
+   multi-column layout, which Can I Use lists as partial in every Chromium, and
+   warns. This is flex gap, which it is not. Change the two 8px together. */
+.is-phone .callout-studio-settings .cs-callout-list-heading.setting-item {
+	gap: 8px var(--size-4-3);
+}
+
+.is-phone
+	.callout-studio-settings
+	.cs-callout-list-heading
+	.setting-item-control
+	> button.mod-cta,
+.is-phone
+	.callout-studio-settings
+	.cs-callout-list-heading
+	.setting-item-control
+	> button.cs-discover-callouts-btn {
+	width: auto;
+	margin: 0;
+	padding-block: 0;
+	padding-inline: var(--size-4-3);
 }
 
 /* ─── Foldable section headings ───────────────────────────────── */
@@ -3610,20 +3712,6 @@ button.callout-studio-icon-picker-loading {
 	font-family: var(--font-monospace);
 }
 
-.callout-studio-replace-no-replace {
-	color: var(--text-muted);
-	border-top: 2px solid var(--background-modifier-border);
-}
-
-.callout-studio-replace-no-replace .callout-studio-replace-item-icon {
-	color: var(--text-error);
-}
-
-.callout-studio-replace-no-replace .callout-studio-replace-item-name {
-	color: var(--text-muted);
-	font-style: italic;
-}
-
 /* ─── Autocomplete Suggestions ────────────────────────────────── */
 
 .callout-studio-suggestion {
@@ -5218,6 +5306,16 @@ input.cs-input-invalid.cs-input-invalid.cs-input-invalid.cs-input-invalid:focus 
 	margin-top: 4px;
 }
 
+/* Not a problem, something worth knowing: the callout editor's "On save,
+   "test" moves here from Abstract." One line per id moving, and one more,
+   so its ceiling is higher than an error's. */
+.cs-tag-error.is-note {
+	color: var(--text-muted);
+}
+.cs-tag-error.is-note.is-visible {
+	max-height: 12em;
+}
+
 /*
  * The duplicate-color error stands alone in the palette editor's options
  * column rather than inside a setting's info block, so it needs even more
@@ -5411,6 +5509,16 @@ input.cs-input-invalid.cs-input-invalid.cs-input-invalid.cs-input-invalid:focus 
 	line-height: 1.4;
 	white-space: nowrap;
 	user-select: none;
+}
+
+/* On mobile Obsidian turns every field into a pill (`--input-radius` is
+   `--touch-radius-m` under `.is-mobile`), so a 4px chip sat square under a round
+   field. There the chips take the field's own corners; desktop keeps
+   `--radius-s`. The extra inline padding keeps the text clear of the curve. */
+.is-mobile .cs-tag-chip {
+	padding-inline: 8px;
+	border-radius: var(--input-radius, var(--radius-s));
+	corner-shape: var(--input-corner-shape, round);
 }
 
 .cs-tag-chip-text {
@@ -6366,12 +6474,6 @@ input.cs-input-invalid.cs-input-invalid.cs-input-invalid.cs-input-invalid:focus 
 	line-height: 1.5;
 }
 
-/* Phase 7: delete-without-replace styling */
-.callout-studio-replace-no-replace .callout-studio-replace-no-replace-name {
-	color: var(--text-error);
-	padding-left: 8px;
-}
-
 /* Phase 7: autocomplete create-new entry */
 .callout-studio-suggestion-create-new {
 	display: flex;
@@ -6832,7 +6934,7 @@ input.cs-input-invalid.cs-input-invalid.cs-input-invalid.cs-input-invalid:focus 
    empty until its card is the active one. The check inside it is always there
    and simply has no colour until then, so choosing moves nothing. With nothing
    in its card to choose, it fades. */
-.cs-import-radio {
+.cs-option-radio {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -6846,24 +6948,58 @@ input.cs-input-invalid.cs-input-invalid.cs-input-invalid.cs-input-invalid:focus 
 		background 120ms ease,
 		border-color 120ms ease;
 }
-.cs-import-radio .svg-icon {
+.cs-option-radio .svg-icon {
 	width: 12px;
 	height: 12px;
 	stroke-width: 3px;
 }
-.cs-import-radio[aria-disabled="true"] {
+.cs-option-radio[aria-disabled="true"] {
 	opacity: 0.45;
 }
-.cs-import-radio:focus-visible {
+.cs-option-radio:focus-visible {
 	outline: 2px solid var(--background-modifier-border-focus);
 	outline-offset: 2px;
 }
-.cs-option-box.is-selected .cs-import-radio {
+.cs-option-box.is-selected .cs-option-radio {
 	border-color: var(--checkbox-color);
 	background: var(--checkbox-color);
 	color: var(--text-on-accent);
 }
 
+/* ─── "Update your notes?" (settings/noteQuestion.ts) ─── */
+
+/* One question for everything Save would change, in the callout editor
+   (settings/editor/NoteChangesModal.ts) and the palette editor
+   (settings/PaletteNotesModal.ts) alike: the changes — a line, or a list when
+   there are several — then the count and the question, then the two answers,
+   drawn as the import window draws its cards. */
+.cs-note-change-line {
+	margin: 0 0 10px;
+}
+.cs-note-change-list {
+	margin: 0 0 10px;
+	padding-inline-start: 1.25em;
+	list-style: disc;
+}
+.cs-note-change-list li + li {
+	margin-top: 4px;
+}
+/* A card with a dropdown: it sits at the trailing edge, centred on the card's
+   height, just before the dot — where the import card keeps its button. On a
+   narrow window the card wraps, and the dropdown and the dot take a line of
+   their own, still at the trailing edge, rather than squeezing the words. */
+.cs-option-box.cs-note-change-picking {
+	flex-wrap: wrap;
+	row-gap: 8px;
+}
+.cs-note-change-picking .cs-option-box-text {
+	flex: 1 1 180px;
+}
+.cs-note-change-target {
+	display: flex;
+	flex: 0 0 auto;
+	margin-inline-start: auto;
+}
 /* A card's own button — Upload, which reads Replace once a file is staged, and
    Paste: a standard button at the card's trailing edge, never squeezed by a
    long file name. It wears the shared neutral face and border, as a footer's

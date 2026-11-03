@@ -54,7 +54,7 @@ Be not therefore for ever parading them, lest some one should take them away. As
 
 8\. Let us beware therefore of saying anything about ourselves, for this renders us both odious with men and abominable to God. For this reason, the greater the good works we do, the less let us say of ourselves; this being the way to reap the greatest glory both with men and with God. Or rather, not only glory from God, but a reward, yea, a great recompense. Demand not therefore a reward that thou mayest receive a reward. Confess thyself to be saved by grace, that He may profess Himself a debtor to thee; and not for thy good works only, but also for such rightness of mind. For when we do good works, we have Him debtor for our good works only; but when we do not so much as think we have done any good
 
-19 134 το συλλγοντο. 135 Song of the Three Children, Vers. 6, 8, 4. ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 136 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 137 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of confiteor and the kindred words.
+19 134 το συλλγοντο. 135 Song of the Three Children, Vers. 6, 8, 4. 136 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of *confiteor* and the kindred words. 137 ὁμολογεν—ὁμολογοντα. There seems an allusion to the two meanings of confiteor and the kindred words.
 
 *[p. 48]* ^pg56
 

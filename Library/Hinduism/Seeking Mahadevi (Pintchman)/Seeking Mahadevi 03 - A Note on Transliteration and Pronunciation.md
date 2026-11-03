@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Pintchman (ed.) - Seeking Mahadevi]]"
 book: "[[Library/Hinduism/Seeking Mahadevi (Pintchman)/Seeking Mahadevi (Pintchman)|Seeking Mahadevi (Pintchman)]]"
 order: 3
 source_pdf: "Library/Hinduism/Pintchman (ed.) - Seeking Mahadevi (2001).pdf"
-page_range: "xiii–15"
+page_range: "xiii"
 pdf_pages: "14–15"
 text_source: "PDF text layer (born-digital), PyMuPDF; the font's own letter codes for the diacritics (Å for ā, ç for ī, æ for ṇ and so on) mapped to the right letters"
 converted: 2026-10-22
@@ -40,4 +40,4 @@ c cheek
 
 In addition, the letter h after a consonant aspirates the consonant, meaning that it is pronounced as a puff of air following the consonant. So, for example, in the name “Bhairo,” the b and the h are pronounced separately, resulting in an aspiration of the letter b. Th, similarly, is pronounced as an aspirated t, as in hothouse (not as in path).
 
-*[p. 15]* ^pg15
+*[PDF 15]* ^pg15

@@ -26,34 +26,34 @@ You have taught the root Mantra and the liturgy (krama) of nondual worship witho
 srībhairava uvāca 
 
 aprakāśyam idan gopyaṁ rahasyaṁ bhairavoditam ॥ 4 ॥
-rakṣayeta prayatnād vai yathā lokar na garhati | \[illegible\] palāṇndur \[kh g: -ndar\] laśunādīni laṁvumṁśalaratarkaśā (?) | 5 ॥
+rakṣayeta prayatnād vai yathā lokar na garhati | \[illegible\][^716] palāṇndur \[kh g: -ndar\] laśunādīni laṁvumṁśalaratarkaśā (?) | 5 ॥
 anyāni \[illegible\] a"'ngāni \[g: magāni\] vāmākusumasathyutam |
 dravyāṇy etāni subhage śaśyante kulamārgake \[kh: kulamā \* \*; g: -ko\] \\\\ 6 ॥
-147a) śivāmbu \[g: -buṁṁ\] ca surā raktaṁ mahātailaḥ ca sīdhukam \[k: mahyatailasodhakam\] |? 
+147a) śivāmbu \[g: -buṁṁ\] ca surā raktaṁ mahātailaḥ ca sīdhukam \[k: mahyatailasodhakam\] |[^717] 
 
 kuṇdagolodbhavaṁ devi hy ete pānāḥ kulodbhavāḥ ॥ 7 ॥
 matsya māṁsaṁ gahogotthahn (> -mahāgo-) sthalajākāśagāminām |
-nirvikalpas tu sarveṣāṁ bhojanaṁ kurute sadā || 8 ॥4 
+nirvikalpas tu sarveṣāṁ bhojanaṁ kurute sadā || 8 ॥[^718] 
 
-716?\. The following, up to verse 21, is quoted without acknowledgement by Vimalaprabodha in his kālikākulapañcakramakramārcana MS Ķ: NGMPP reel no. A 148/10, 31 folios, paper, Newari script. MS Kh: NGMPP reel no. A 158/1, NAV no. 1-169, 30 folios, paper, Newari script. He introduces it saying: atha nityanaimittikakāmyārcanaṁi (k, kh: - naimitti +) kuladravyagaṇaṁ (kh: -dravye ganar) likhyate ॥ And concludes it with the words: īdṛśaṁ kālikācakraṁ pūjayed vidhipūrvakaṁ | vyākhyādīkṣādhikāraṁ ca yāgaṁ kuryāt (kh: kuryā) susiddhaye || iti dravyagaṇavyavasthā | | The passages drawn from there follow one another without a break with the occasional insertion of an extra line.
+[^716]: The following, up to verse 21, is quoted without acknowledgement by Vimalaprabodha in his kālikākulapañcakramakramārcana MS Ķ: NGMPP reel no. A 148/10, 31 folios, paper, Newari script. MS Kh: NGMPP reel no. A 158/1, NAV no. 1-169, 30 folios, paper, Newari script. He introduces it saying: atha nityanaimittikakāmyārcanaṁi (k, kh: - naimitti +) kuladravyagaṇaṁ (kh: -dravye ganar) likhyate ॥ And concludes it with the words: īdṛśaṁ kālikācakraṁ pūjayed vidhipūrvakaṁ | vyākhyādīkṣādhikāraṁ ca yāgaṁ kuryāt (kh: kuryā) susiddhaye || iti dravyagaṇavyavasthā | | The passages drawn from there follow one another without a break with the occasional insertion of an extra line.
 
-717?\. Verses 7 and 10ab are missing in manuscript Kh.
+[^717]: Verses 7 and 10ab are missing in manuscript Kh.
 
-718?\. KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: \[illegible\] peyāny aṣtau kulāgame | matsyaṁ māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa \[illegible\] kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
+[^718]: KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: \[illegible\] peyāny aṣtau kulāgame | matsyaṁ māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa \[illegible\] kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
 
 
 *[p. 388]* ^pg410
 
 The venerable Bhairava said: 
 
-This should not be revealed. It is the secret uttered by Bhairava that should be kept hidden. It should be protected with effort, so that the world may not contaminate it. (The sacred foods are) onion and garlic ete . . . (95 They have other ancillaries. (Every substance is) mixed with menstrual blood. O fair lady, these are the sacrificial substances taught on the Kula Path. (There is) urine \[illegible\] liquor (surā), blood, wine, melted human fat (mahātaila), rum (sīdhu) and, O goddess, that which comes from a mixture of male and female sexual fluids (kundagola). These are the drinks that come from (the sacrificial substances called) Kula. They come from an abundance of fish and meat of (creatures) that move on the ground and in the air. They are all always eaten by one who is free of thoughts (nirvikalpa). (4cd-8) 
+This should not be revealed. It is the secret uttered by Bhairava that should be kept hidden. It should be protected with effort, so that the world may not contaminate it. (The sacred foods are) onion and garlic ete . . . (9[^719] They have other ancillaries. (Every substance is) mixed with menstrual blood. O fair lady, these are the sacrificial substances taught on the Kula Path. (There is) urine \[illegible\] liquor (surā), blood, wine, melted human fat (mahātaila), rum (sīdhu) and, O goddess, that which comes from a mixture of male and female sexual fluids (kundagola). These are the drinks that come from (the sacrificial substances called) Kula.[^720] They come from an abundance of fish and meat of (creatures) that move on the ground and in the air. They are all always eaten by one who is free of thoughts (nirvikalpa). (4cd-8) 
 
 mātā vā \[k, kh: mātambā\] bhaginī bhāryā duhitā bandhukāndharī \[g: -vī\] |
-mātargī kajjalī śaundī \[g: kajjalī-\] kaṁdukī carmaraṁginī \[k: \[illegible\] ॥ 9
+mātargī kajjalī śaundī \[g: kajjalī-\] kaṁdukī carmaraṁginī \[k: \[illegible\][^721] ॥ 9
 ॥
-183a g) dhvajinī cāstivijanī dhīvarī \[k kh: dhīcarī\] cakriṇī priye | \[kh: nāsti\] 
+183a g) dhvajinī cāstivijanī dhīvarī \[k kh: dhīcarī\] cakriṇī priye[^722] | \[kh: nāsti\] 
 
-(It is consumed with the Kaula partner, who is one’s) mother or sister, wife, daughter, or female relative. O beloved, there is 1) the female sweeper, 2) collyrium maker, 3) the butcher’s wife, 4) the bowmaker’s wife, 5) the tanner’s wife, 6) a distiller’s wife, 7) a bone-breaker’s wife, 8) fisherwoman, and 9) miller’s wife (cakrinī).? (9cd-10ab) 
+(It is consumed with the Kaula partner, who is one’s) mother or sister, wife, daughter, or female relative. O beloved, there is 1) the female sweeper, 2) collyrium maker, 3) the butcher’s wife, 4) the bowmaker’s wife, 5) the tanner’s wife, 6) a distiller’s wife, 7) a bone-breaker’s wife, 8) fisherwoman, and 9) miller’s wife (cakrinī).[^723] (9cd-10ab) 
 
 ete \[kh: nāsti\] caiva \[kh: nāsti\] mahāpīṭhasamudbhūtāḥ \[k g: mahāpīthāḥ- kh: \* hāpīṭthāḥ-; kh g: samudbhutā\] kulāṁganāḥ \[k: kulākulā\] \\\\ 10 ॥
 128a kh) taiḥ sadāvartanari kuryād yadīcchet siddhim ātmani \[kh: -mātmanah\] ॥
@@ -62,20 +62,20 @@ bhojane tatvayuktānām dūtīnām taiś ca sarṁṁyutam |
 evar saṁcārayogena \[kh: saṁsāra-\] pūjā vaiśeṣikī \[g:?\] smṛtā \[g:?\] ॥ 12 ॥
 nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegible\] \[g:?\] tu \[g:?\] bhavet \[g:?\] \[illegible\] \[g:?\] (> \[illegible\] | 
 
-719?\. The reading of this quarter is larṁvuṁśalaratarkaśā. It is too corrupt for me to understand.
+[^719]: The reading of this quarter is larṁvuṁśalaratarkaśā. It is too corrupt for me to understand.
 
-720?\. Amongst its many meanings, ‘Kula’ also denotes the sacrificial substances like this that Kaulas offer and ingest.
+[^720]: Amongst its many meanings, ‘Kula’ also denotes the sacrificial substances like this that Kaulas offer and ingest.
 
-721?\. The citation reads kārmukī carmakārinī for karṁdukī carmaraṁginī.
+[^721]: The citation reads kārmukī carmakārinī for karṁdukī carmaraṁginī.
 
-722?\. \[illegible\] KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāḥ kālikākule ||
+[^722]: \[illegible\] KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāḥ kālikākule ||
 
-723?\. 9cd-10ab is quoted in TĀv ad 29/66.
+[^723]: 9cd-10ab is quoted in TĀv ad 29/66.
 
 
 *[p. 389]* ^pg411
 
-tadāsau siddhyate devi tair bhuktan bhāvitaīi yadi I| 13 I 
+tadāsau siddhyate devi tair bhuktan bhāvitaīi yadi I| 13 I[^724] 
 
 And these are the Kula women who originate from the great sacred seats. If one desires accomplishment for oneself, one should always keep their company. They are all linked with the supreme kinds of sacrificial substances, (consumed in) the meal of those who are intent on reality and accompanied by (their) Kaula partners (dūtī). Linked in this way with the wandering (the Kaula adept does around the sacred sites), it is said to be (particularly) special (Kaula) worship. If worship is (performed) by way of the path free of doubts, then, O goddess, he is successful, if he is sanctified by those (substances he has) eaten. (10-13) 
 
@@ -88,23 +88,23 @@ jñānabhāvagatāḥ samyag vrajanti gaganāntaram \[kh: gagaṇāntaram\] | 16
 hitāya sādhakendrāṇāri yāgārthaṁ prakaṭīkṛtam |
 tayā śaktyā vihīnā ye na te siddhim avāpnuyāt \[k: -yah\] ॥ 17 ॥ 
 
-(Just by) touching that drink and eating the food, they are said to sever the fetters. In the past, I concealed the beauty of nondual conduct. Those pure and holy ones who are dedicated to the Kaula teachings and those devoted to the conduct of the teacher (although) holy are considered to be fettered souls (according to Vedic norms). Without having known this (Kaula practice) by association (yoga) with (impure) food one goes to hell. Those who are rightly immersed in the state of insight go to into the (inner) Sky (of consciousness). The true nature of the sacrifice has been revealed in order to benefit the best adepts. Those devoid of that Śakti, do not attain success.” (14-17) 
+(Just by) touching that drink and eating the food, they are said to sever the fetters. In the past, I concealed the beauty of nondual conduct. Those pure and holy ones who are dedicated to the Kaula teachings and those devoted to the conduct of the teacher (although) holy are considered to be fettered souls (according to Vedic norms). Without having known this (Kaula practice) by association (yoga) with (impure) food one goes to hell. Those who are rightly immersed in the state of insight go to into the (inner) Sky (of consciousness). The true nature of the sacrifice has been revealed in order to benefit the best adepts. Those devoid of that Śakti, do not attain success.[^725] (14-17) 
 
-724?\. KāKuKra: nihśaṁkācāramārgenṇa (k, kh: -mārgena) (p. 32ak) (kh: 29a) pūjanam cābhaved yadi | tadā sā (kh: sau) sidhyate devi te bhukte bhavite yadi |
+[^724]: KāKuKra: nihśaṁkācāramārgenṇa (k, kh: -mārgena) (p. 32ak) (kh: 29a) pūjanam cābhaved yadi | tadā sā (kh: sau) sidhyate devi te bhukte bhavite yadi |
 
-725?\. KāKuKra: tatpānasparśanāhārāt pāśacchedakarī (kh: tatpānaparśa-) smṛtā | gaupitaistanmayā (kh: -taitanmayā) pūrvaṁ (k, kh: pūrva) adyaitācāraśobhane | | kaulopadeśayuktā ya gurvāvāraratāś ca ye | te ca (kh: na) śuddhāḥ pavitrāśca varjitāḥ (kh: -tā) paśavaḥ (kh: paśaśca) smṛtāḥ | | anenāhārayogena ajñātvā narakaṁ vrajet | | jñānabhāvagatāḥ samyak vrajanti gaganāntarami (kh: -re)\\ | In place of the last two lines, the KāKuKra reads: khānapānastriyāhīno (k, kh: -hī ah kuryāt kramapūjanari | | na te (sa) siddhyanti (> ti) deveśi 'ruddhañ ca phalaṁ labhet | | ‘O mistress of the gods, he who performs the worship of the Krama without (Kaula) food and drink and a woman is not success (indeed) he obtains the opposite result,”
+[^725]: KāKuKra: tatpānasparśanāhārāt pāśacchedakarī (kh: tatpānaparśa-) smṛtā | gaupitaistanmayā (kh: -taitanmayā) pūrvaṁ (k, kh: pūrva) adyaitācāraśobhane | | kaulopadeśayuktā ya gurvāvāraratāś ca ye | te ca (kh: na) śuddhāḥ pavitrāśca varjitāḥ (kh: -tā) paśavaḥ (kh: paśaśca) smṛtāḥ | | anenāhārayogena ajñātvā narakaṁ vrajet | | jñānabhāvagatāḥ samyak vrajanti gaganāntarami (kh: -re)\\ | In place of the last two lines, the KāKuKra reads: khānapānastriyāhīno (k, kh: -hī ah kuryāt kramapūjanari | | na te (sa) siddhyanti (> ti) deveśi 'ruddhañ ca phalaṁ labhet | | ‘O mistress of the gods, he who performs the worship of the Krama without (Kaula) food and drink and a woman is not success (indeed) he obtains the opposite result,”
 
 
 *[p. 390]* ^pg412
 
 tasmāt sarvaprayatnena yāgaṁ kuryāt tayā \[g: tayāḥ\] saha |
 183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 || sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
-digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\]°? ॥ 19
+digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\][^726] ॥ 19
 ॥
 parasparaṁ yajed dehau \[illegible\] deho kh: dehaḥ\] khānapānādisevitau |
 147b) parasparam tu ratinau kundagolādisaṁyutau \[kh: -tāḥ\] | 20 ॥
 mīnamaṇndūkasariyuktau bhoktārau ca parasparam |
-vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanaṁ pānacumbanam || 21 || ©? 
+vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanaṁ pānacumbanam || 21 || [^727] 
 
 Therefore, one should offer the sacrifice with all one’s efforts along with her (that is, the Kaula partner). If he does otherwise, all he possesses is destroyed. One who desires accomplishments (siddhi) (should offer it) in a sacred site for Kaula adepts that is well-hidden, solitary, and beautiful. (The adepts should be) naked, disinhibited, and worshippers of the nondual Kula. (They should worship) one another, (their) bodies plied with (good) food and drink. (They should be) devoted to one another and have kundagolas (balls of chalk mixed with sperm and menstrual blood) and the like (to make offerings). They should have (cooked) fish and frogs and feed one another, taking food and drink from (each other’s) mouth and putting it (in each other’s) mouth and kissing (as they do so). (18-21) 
 
@@ -119,9 +119,9 @@ na yatra launar cāsti na siddhir mokṣam eva ca || 25 ॥
 
 Green vegetables (?), of many varieties and auspicious, like the thunderbolt in Indra’s hand and Brahmā’s waterpot, (or) like the trident in my hand and Hari’s cakra, such are garlic and the like that purify Kaula adepts (devoted to) Yogīśvarī. Onion, garlic and the other substances enjoined (for the Kaula sacrifice) that are sacred (pavitraka) are auspicious because they intensify (the power of Kaula) sacrifices and so are considered to be (good) for the protection of the sacrifices. Free of obstacles, they quell obstacles and, auspicious, quickly bestow accomplishments. Where there is no garlic there is no accomplishment or liberation. (22-25) 
 
-726?\. \[illegible\] From here to 26ab MS G is illegible.
+[^726]: \[illegible\] From here to 26ab MS G is illegible.
 
-727?\. KāKuKra: sugupte nirjane ramye vīrakṣetre “tha siddhiṣu | | digvāso hrīvinirmukto advaitakulapūjakaḥ (kh: adyaita-) | | parāt parar (kh: -rād) yajed deho khānapānādisevitau | paraspararitaratinau kundagolādisevitau | | mīnamanṇndalasaṁyuktau bhoktārau ca parasparau | | vaktrād vaktrena (kh: -vaktraṁi na) yojyantau bhājanaṁn pānacūmbanarmi | |
+[^727]: KāKuKra: sugupte nirjane ramye vīrakṣetre “tha siddhiṣu | | digvāso hrīvinirmukto advaitakulapūjakaḥ (kh: adyaita-) | | parāt parar (kh: -rād) yajed deho khānapānādisevitau | paraspararitaratinau kundagolādisevitau | | mīnamanṇndalasaṁyuktau bhoktārau ca parasparau | | vaktrād vaktrena (kh: -vaktraṁi na) yojyantau bhājanaṁn pānacūmbanarmi | |
 
 
 *[p. 391]* ^pg413
@@ -253,7 +253,7 @@ kulāmnāyeṣu ye saktā ebhir dravyair bahiṣkṛtāḥ |
 130a kh) paśavas te samuddiṣtā na teṣu \[g: tepu\] sahavartanam || 60 ||
 etad vīreṣu māhātmyaṁ tvayi snehāt prakāśitam | 
 
-What to say of one who, endowed with faith, worships the special Krama? O mistress of the gods, (what to) say of the adept who is engaged (in practicing) the procedure? Those who adhere to the Kula traditions but have rejected (the use of) these substances, are said to be fettered souls (pasu), and one should not keep their company." This is the greatness in Kaula adepts, revealed out of love for you. (59-61ab) 
+What to say of one who, endowed with faith, worships the special Krama? O mistress of the gods, (what to) say of the adept who is engaged (in practicing) the procedure? Those who adhere to the Kula traditions but have rejected (the use of) these substances, are said to be fettered souls (pasu), and one should not keep their company.[^729] This is the greatness in Kaula adepts, revealed out of love for you. (59-61ab) 
 
 (The Tantra now goes on to refer to the worship of nine low caste women in the sacred seat, a procedure called navayāga. Abhinava cites it in TĀ 29/66 ff., skilfully combining them with the worship of Kālasaṁkarṣiṇī, who is identified with the ninth one, that is, the miller’s wife — Cakrinī, who is the embodiment of Kundalinī. The Tantra continues with the following description of the experience of eating the nectar that drips down from her body when she has risen to her highest place. Thus, the Tantra reverts to the original theme, but now the sacrificial food is internal and is ingested inwardly.) 
 
@@ -274,7 +274,7 @@ The power Kundalinī is located in the Secret Wheel (guhyacakra) (of the genital
 amā somakalā yā tu brahmadvāre vyavasthitā || 78 ||
 tatra yātaṁ jalan Śuddhaṁ patitaṁ kaundalīhṛdi | 
 
-729?\. Verse 60 is quoted in the TĀv ad 29/99-100ab.
+[^729]: Verse 60 is quoted in the TĀv ad 29/99-100ab.
 
 
 *[p. 396]* ^pg418
@@ -401,7 +401,7 @@ parā vibhūtayas tasya vādhe tiṣthanti \[kh: vādyaistiṣthanti; g: vādyes
 
 Called the subduer (damant) of transmigratory existence, she severs the fetters. Called Damanī, she destroys ghosts and demons. Taught in the Picutantras, she delights in the conduct of nonduality. She quells the calamity of thought constructs, her vitality tranquil, she is the supreme power (kalā). Tranquil, born of the tranquil, noble, she is Parā who bestows good fortune and bliss, she quells untimely death, consumes time up to the end of a great aeon (kalpa) 
 
-By just recollecting her, O Bhairavī (there is) nothing here (that cannot be achieved) \* \* \* ' (107-110) 
+By just recollecting her, O Bhairavī (there is) nothing here (that cannot be achieved) \* \* \* [^730] (107-110) 
 
 The Tantra goes on to give the Anāmā Vidyā in code up to 115 and then praises it. 
 
@@ -411,7 +411,7 @@ iti
 
 śrījayadrathayāmale caturviṁśatisāhasre caturthaṣaṭtke kālikulapaṭalaḥ 
 
-1 yā neha sa japtena ca is corrupt.
+[^730]: yā neha sa japtena ca is corrupt.
 
 *[p. 400]* ^pg422
 
@@ -486,7 +486,7 @@ amūrtatvāt karmaṇām abhya"ngādayo na santīti tāni dīkṣaiva kṣapayat
 
 One perceives that at the moment of death, as before, the initiate lays hold of the Self etc. One should say the same with regards to (his) Karmas. If (one were to reply) that initiation is not capable of purifying the Karma of which the effect has begun (to take place), (we would reply) what certainty could there be that that is (not so) elsewhere, (in the case of other sorts of Karma)? If (you say) that the authority for that is scripture, what prevents (the acceptance that) that is the sense of the scripture? Just as a seed that is obstructed by Mantra does not give birth to a sprout, in the same way, the seeds of Karma do not give birth to transmigratory existence. By comparing the success (of the rite of initiation to the sprouting of) a seed and the like, (what is meant is that) the causes that incapacitate the initiate (preventing his attainment of the goal) apply, for example to a seed, (that does not sprout) if it is smeared with oil, burnt and the like. (However, the analogy does not hold.) Karmas are formless, whereas smearing (with oil) and the like are not. 
 
-(We maintain that) the initiation itself (alone) destroys (the power of Impurity and Karma). (We say that evidence for this is) that one observes a decrease in the weight of the initiate who has taken the initiation of the scales.’ (The Buddhist opponent contends that that decrease in weight) is not the sin etc. (that has been removed) because a formless entity is weightless. (According to him,) only the insight that there is no Self, which is heralded by the contemplation of momentariness etc., is liberation. 
+(We maintain that) the initiation itself (alone) destroys (the power of Impurity and Karma). (We say that evidence for this is) that one observes a decrease in the weight of the initiate who has taken the initiation of the scales.[^731] (The Buddhist opponent contends that that decrease in weight) is not the sin etc. (that has been removed) because a formless entity is weightless. (According to him,) only the insight that there is no Self, which is heralded by the contemplation of momentariness etc., is liberation. 
 
 atrocyate 
 
@@ -501,7 +501,7 @@ jātikatrividha-
 
 dehatadāśrayavicitrabhuvanabhoktavyārthasārthapratītibhājāmāyākhyena malena ca valitaḥ | 
 
-730?\. See Chapter Twenty of the Tantrāloka, where this kind of initiation is described.
+[^731]: See Chapter Twenty of the Tantrāloka, where this kind of initiation is described.
 
 
 *[p. 403]* ^pg425
@@ -633,7 +633,7 @@ Thus, that is not a cause of (any) defect (in our view). It has been said (by Dh
 
 is intended. This is because the cause of the (obscuring) covering of sin, which is made of tamas, does have weight within the body. The scale initiation brings it to an end by the cessation of (its) cause, just as a jar is cleaned (by removing the dirt from it). The same is (written) by a smarta author: 
 
-‘The darkness in the body due to Adharma has weight. Its cessation by (the practice of) Dharma makes it lighter, and so it is perceived from a jar (into which the Adharma has been projected and becomes lighter by its purification). 
+‘The darkness in the body due to Adharma has weight. Its cessation by (the practice of) Dharma makes it lighter, and so it is perceived from a jar (into which the Adharma has been projected and becomes lighter by its purification).[^732] 
 
 tathaivaitat 
 
@@ -649,7 +649,7 @@ dīkṣā, śaktipāto malakṣayāt sa ca śaktipātād itītaretarāśrayaḥ,
 
 akṣīṇnamalasya śaktipāte sarvasyāsau syāt, atha malakṣayasya śaktipātād anyo hetuḥ kaścit sa eva tarhi śaktipāte hetur astu kiṁ malakṣayenṇetiṁ | satyam etat, kitu nirargalapārameśavicitraśaktipātavato 
 
-731?\. This verse is quoted at the beginning of Chapter Twenty.
+[^732]: This verse is quoted at the beginning of Chapter Twenty.
 
 
 *[p. 408]* ^pg430
@@ -732,7 +732,7 @@ tuṣakambukavajjṁñeyan māyājama"nkurasya tu | |
 
 The Self is the true nature of oneness which is established (siddha) by the reflective awareness of uncreated subjectivity (akṛtakāhaṁvimarśa) that abides (unchanged) even when each appearing (of every single thing) is different (from every other) (ābhāsabheda). Surely (someone may ask), the venerable teacher Kheṭapāla accepts that the descent of the power (of grace) is caused by the complete maturation of Impurity and has criticized the view that the descent of the power (of grace) is independent (of any causes and conditions). So how does that square with its being based on the view that the descent of the power (of grace) is independent? It is said here (in this regard): If one desires to argue about this, that also is being discussed (with reasoned argument) (nirnīyate). Listen: 
 
-‘Now, it is said that the (fundamental) beginningless Impurity (mala) of the (countless) individual souls is their (basic) fettered state (paśutva). One should know that (the Impurity) born from Māyā is like the chaff and integument of the sprout (of the fettered state).”? 
+‘Now, it is said that the (fundamental) beginningless Impurity (mala) of the (countless) individual souls is their (basic) fettered state (paśutva). One should know that (the Impurity) born from Māyā is like the chaff and integument of the sprout (of the fettered state).”[^733] 
 
 iti Śrīsvāyarṁbhuvasūtre "mala" iti \[illegible\] iti coktiparyālocanayā eko ‘py asau bahuśaktikaḥ anyathā bahvāvārakatvam asya na ghaṭate, ekamuktau ca sarve mucyeran, karmabhiś ca saha pariṇamati, amiśrasya pariṇnāmāyogāt |
 pariṇnamaṁś ca kālaviśeṣāt kamicit prati katharicit tīvramadhyādibhedād yadā paripacyate, tadā pumṁsāṁ karmaparipākam ivāpekṣya śaktipātam karoti maheśvaraḥ, 
@@ -741,7 +741,7 @@ yāvac ca malasya paripāko na jāaḥ, tāvat tat puṁbandhakatvenaiva tañ pa
 
 This is according to the venerable Svāyaṁbhuvasūtra. (The view there is that) by examining the words ‘Impurity’ and ‘individual souls’ (we arrive at the understanding that,) even though there is one (individual soul), he has many powers; otherwise it would not be possible for him to have many (obscuring) coverings. When one is liberated, all would be liberated. (Moreover,) he would change along with the Karmas. It would not be possible for (a single entity) not mixed (with any other) to be subject to change (parināmāyogāt). The change (in the condition of the Impurity happens) if the (Impurity) matures because of differences in time. It happens with respect to some (person and not another), in some way (and not another), according to whether it is variously intense or middling etc. Then Maheśvara brings about a descent of the power (of grace), as if it were dependent on the maturation of the Karma of the (various) individual souls. As long as Impurity has not matured, (it functions) as a bond (that binds) the individual soul, and that (Karma) causes that (Impurity to go on) changing. Whereas, if (the Lord) sees that (the Impurity) in a soul has matured because it 
 
-732?\. SvaSūSaṁ 2 (33)/1ab), quoted in TĀv ad 1/46.
+[^733]: SvaSūSaṁ 2 (33)/1ab), quoted in TĀv ad 1/46.
 
 
 *[p. 412]* ^pg434
@@ -799,7 +799,7 @@ patyus tv ete rodhyā badhyāḥ śodhyāś ca bodhyāś ca ॥ 9 ॥
 
 iti kim artham uktam | ata eva śivasya malaśaktyadhiṣthātṛtvam apīṣyate iti cet satyam, iṣyate, na tu siddhyati, dvayor anāditvenānvayavyatirekābhāvāt, prayojana-mātravaśena ca bhāvavyavasthānupapatteḥ | 
 
-Why has this been stated? If in this way, the desired view is that Siva presides over (and controls) the power of Impurity, then (we agree) that that is true. It is (indeed) the desired (view). However (by conceiving the problem in this way, Śiva’s control) is not established (siddha), because the two (i.e. Śiva and the power of Impurity) are not related in such a way that when one is present the other is absent. This is because (according to you), both are (eternal principles) without beginning and it is not logical (to maintain that) the state of being (of something) (bhāvavyavasthā) is determined solely on the basis of (its) purpose (not its nature).[^733] 
+Why has this been stated? If in this way, the desired view is that Siva presides over (and controls) the power of Impurity, then (we agree) that that is true. It is (indeed) the desired (view). However (by conceiving the problem in this way, Śiva’s control) is not established (siddha), because the two (i.e. Śiva and the power of Impurity) are not related in such a way that when one is present the other is absent. This is because (according to you), both are (eternal principles) without beginning and it is not logical (to maintain that) the state of being (of something) (bhāvavyavasthā) is determined solely on the basis of (its) purpose (not its nature).[^734] 
 
 astu, naivan tathāpi \[illegible\] prati nirodhāya śivo mala prayu"nkte, te sivatulyatvād bahutvāc ca pratyuta śivam eva prati tan prayuñjīran, bhūyasām ekāpekṣayā sāmarthyātiśayāt | 
 
@@ -823,7 +823,7 @@ If the power of Impurity blocks (nirodhikā)
 
 just by (its) close proximity, (it) would be such (for) Śiva (also), as it is for the aforementioned souls. Now, as (the power that blocks operates) as an obscuring covering of (their) essential nature, which is cognitive subjectivity and agency, (these) souls undergo change. Or else their essential nature would be destroyed because Śaiva 
 
-[^733]: As both Śiva and Impurity are eternal, they cannot be distinguished from one another, as individual entities normally are mutually concomitant absence, that is, A is A because it is not B and vice versa. One apparent way to circumvent this problem is to consider the function of an entity to distinguish it from another which has a different function. This would work in this case to a degree, but it is not a sufficient to distinguish the two specifically. The same entity may perform two or more functions.
+[^734]: As both Śiva and Impurity are eternal, they cannot be distinguished from one another, as individual entities normally are mutually concomitant absence, that is, A is A because it is not B and vice versa. One apparent way to circumvent this problem is to consider the function of an entity to distinguish it from another which has a different function. This would work in this case to a degree, but it is not a sufficient to distinguish the two specifically. The same entity may perform two or more functions.
 
 *[p. 415]* ^pg437
 
@@ -955,9 +955,9 @@ paripakvam
 eva malam Tśecchā ruṇaddhīti kairanavyākhyātṛmatam āśrīyate, tarhi uktadūṣaṇāvṛttir anupapannā vyarthakarma-sāmyābhyupagamadoṣaś cāpatati |
 etena tadapi pratyuktam yadāhuḥ kecit ---- 
 
-Lord should block the Impurity of (all of them) simultaneously; (however,) he has only awakened eight (of them). Thus the limit set on (their) number in the scriptures is untenable. Now, according to the view of the commentator of the Kiraṇa Tantra, the Lord’s will blocks the Impurity that has matured when a balance of Karmas takes place. Then the aforementioned defect does not apply. (However, it also) follows that (this view) entails the defect of accepting the useless (notion that) a balance of Karma (is the occasion for the descent of the 
+Lord should block the Impurity of (all of them) simultaneously; (however,) he has only awakened eight (of them).[^735] Thus the limit set on (their) number in the scriptures is untenable. Now, according to the view of the commentator of the Kiraṇa Tantra, the Lord’s will blocks the Impurity that has matured when a balance of Karmas takes place. Then the aforementioned defect does not apply. (However, it also) follows that (this view) entails the defect of accepting the useless (notion that) a balance of Karma (is the occasion for the descent of the 
 
-734?\. See TĀ10/139cd-140ab and commentary with reference to MV 1/18cd-19ab; also quoted in TAv ad 9/92cd-93ab.
+[^735]: See TĀ10/139cd-140ab and commentary with reference to MV 1/18cd-19ab; also quoted in TAv ad 9/92cd-93ab.
 
 
 *[p. 421]* ^pg443
@@ -1008,7 +1008,7 @@ tadvicāritam,
 
 mā bhūt tatra dīkṣātantranibhālanodyatānāmi sukumārahṛdayānāri vyāmoha iti | kiñca, bhedavāde jīvānām ānantye ‘pi punar anyeṣām udayābhāvāt | īśvareṇeyattayā paricchedyamānatvāc ca naiyatyańi saṁsārasya cānāditvam ato yadi pratiyugamekaiko ‘nur mucyate, taduccheda eva sahisārasya prasaktaḥ | 
 
-Although, (where it was said) in chapter four that ‘craving is the Impurity here’,[^735] there was an occasion to reflect upon the nature of Impurity, even so here, after advancing a doctrine that is contrary to that (pratighattaka), it was discussed (again). May that not confuse those whose hearts are very tender and exert themselves to perceive the teachings there concerning initiation. However (there are inconsistences). According to the dualist view, individual souls are endless (in number; they cannot be more) because other (souls) do not arise. Transmigratory existence has no beginning and is regulated (and fixed) because it depends upon the Lord, and it is defined (in its specific details) (paricchedyamānatva) (for each soul by him). Thus, even if (just) one soul is liberated in a cosmic cycle (yuga), its severance (from transmigratory existence) would entail that (all of) transmigratory existence (would come to an end). 
+Although, (where it was said) in chapter four that ‘craving is the Impurity here’,[^736] there was an occasion to reflect upon the nature of Impurity, even so here, after advancing a doctrine that is contrary to that (pratighattaka), it was discussed (again). May that not confuse those whose hearts are very tender and exert themselves to perceive the teachings there concerning initiation. However (there are inconsistences). According to the dualist view, individual souls are endless (in number; they cannot be more) because other (souls) do not arise. Transmigratory existence has no beginning and is regulated (and fixed) because it depends upon the Lord, and it is defined (in its specific details) (paricchedyamānatva) (for each soul by him). Thus, even if (just) one soul is liberated in a cosmic cycle (yuga), its severance (from transmigratory existence) would entail that (all of) transmigratory existence (would come to an end). 
 
 atha jīvānāṁ tādṛgānantyam asti, yadīśenāpi na paricchidyate tarhi 
 
@@ -1024,7 +1024,7 @@ taiḥ
 
 svatantraśaktipātavādipakṣe coditam īśvarasya nirnimitte nigrahādikāritve ‘prekṣā-pūrvakāritvam yugapatsarvatattvasraṣtṛtā sarvar 
 
-[^735]: \[illegible\] SvT 4/105.
+[^736]: \[illegible\] SvT 4/105.
 
 *[p. 423]* ^pg445
 

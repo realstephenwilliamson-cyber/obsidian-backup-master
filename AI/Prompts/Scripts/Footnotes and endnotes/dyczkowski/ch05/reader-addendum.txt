@@ -1,0 +1,46 @@
+CHAPTER FIVE (vol. 4, notes v04-03 to v04-07): what is different from the brief (2 Nov 2026, night 3; from the Chapter Two
+addendum of 28 Oct)
+
+1. The OCR lost the footnote numbers in this chapter, so a pre-pass made the definitions from the page images: it found each
+   footnote's start on the image (the line beginning with a superscript number in the footnote zone), numbered the starts
+   through the chapter (the superscript OCR'd where it could be read, else by sequence; the lead checked the doubtful pages
+   on the images), and made `[^n]: ` at the matching place in the note, often splitting a line where the converter had run a
+   page's footnotes together. pages.txt shows, under each page, what the pre-pass did ("pre-pass:" lines) and its flags.
+   "taken as no footnote" lines are starts the pre-pass judged NOT to be footnotes (continuation lines, numbered list items,
+   asterisk notes): nothing to do for them unless the image shows a real numbered footnote there.
+2. CHECK EVERY DEFINITION ON YOUR PAGES against the image: the definition must begin where that footnote begins (and its
+   label should be the printed superscript number). Fix a wrong start with def ops (brief, op 2): take `[^n]: ` off where it
+   wrongly stands (old = `[^n]: ` + a few words, new = the same words) and put it where the footnote begins. Some definitions
+   still begin with a garble mark the pre-pass left (e.g. `[^29]: ” Above, 5/13b.`): remove the mark with a def op.
+   Keep any old-OCR word that stands for a printed word, however garbled (e.g. `[^395]: 7? 1/5/14.` where 7? is ĪP,
+   `[^404]: 816 1/7/23ab.` where 816 is BhGī, `[^134]: 857. 1/2/67` where 857. is PāŚū.): no wording changes.
+3. LABELS. The print numbers this chapter's footnotes 1-424 through the chapter, and the pre-pass labels should already be
+   the printed numbers. Do NOT relabel: if a label differs from the printed superscript, leave it, give the printed number
+   in per_note and say so in problems; the lead relabels. A footnote the pre-pass missed (a page "with no footnote defined"
+   may still hold one), or a second footnote run together into one definition: make it / split it with a LETTER label after
+   the previous number (e.g. `57b`): old = its first words (with any garble mark just before them), new = `[^57b]: ` + the
+   same words, or "\n\n[^57b]: " + the words when it starts in the middle of a line; and place its call. Give "printed" for
+   EVERY footnote in per_note (letter labels included).
+   391, 392, 403 and 409 (note v04-07) were made real earlier tonight (their calls are in place: no op for them); the
+   pre-pass has split off the footnotes the converter had run into them (393-395, 404, 410-414): check those splits.
+4. KNOWN GAPS. 84, 85 and 86 (PDF 58, note v04-04): their text stands inside line 25 of v04-04, which the converter made a
+   heading ("# SvT 4/292cd-293ab. ...", the superscript 84 read as #). Never touch that heading: make no definition and no
+   call for 84-86; just write in problems the words just before each of their calls on the image (for the lead).
+   297 (PDF 156): the print has the superscript 297 inside the text of footnote 296 carried over to PDF 156 (the KMT
+   quotation, "...all) the worlds'²⁹⁷"), and the pre-pass found no footnote 297 on PDF 151-157. If you find its text, make it
+   as `[^296b]: ` and place the call; otherwise report it and add nothing.
+5. CARRY-OVERS. Chapter Five's footnotes are often long: many run over one or more pages, and some pages hold nothing but
+   footnote text (e.g. PDF 65-68, 72, 97, 185, 203). A carried-over part is plain text at the top of the next page's block
+   (before that page's first definition, or the page's only text). Join each paragraph of it with a move op (brief, op 4):
+   `after` = the last line of that footnote's text before it (its definition line, its last same-page continuation, or the
+   line of the previous carried paragraph when it runs over several pages: chains are allowed; several paragraphs moved after
+   the same line keep their order). Body text (the translation and commentary) that continues on the next page is NOT moved.
+6. PARAGRAPHS OF A FOOTNOTE. Same-page further paragraphs of a footnote (verse lines, quotations, numbered lists such as
+   "1) The Emptiness ..." or "1. Joy ...", new paragraphs) that are not indented: indent them (op 3). Unnumbered asterisk notes
+   (*, **, ***, e.g. on PDF 74, 121, 122, 142, 166) are paragraphs of the footnote they stand in or under (brief). Body text
+   the OCR put among the footnotes, or footnote text inside a body line: report, don't fix.
+7. YOUR PAGES ONLY. Other readers have the other pages of the same note.txt. Write ops only for lines that lie on your pages
+   (from your first page's marker line to the line before the marker of the page after your last). A move op's `after` may
+   point to a line before your range (a footnote carried over from the page before yours). A call may stand on the page
+   before its footnote: if that page is outside your range, still write the call op (it is the one op allowed outside your
+   range) and say so in problems.

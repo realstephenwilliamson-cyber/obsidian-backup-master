@@ -72,3 +72,4 @@ Options that already existed, used in new ways that day:
 - `Soft hyphens/` ([[Soft hyphens]]): born-digital PDFs that store every hyphen as U+00AD, which the converter drops; the scan, the classifier and the page-by-page patch used for Sen Sharma and Brown.
 - `Page labels/` ([[Page labels]]): read-only scans of the index labels and of the `[PDF K]` markers inside numbered runs, with their results of 26 Oct (not applied).
 - `example jobs/2026-10-26/`: the four re-split jobs of 26 Oct (second session).
+- `example jobs/2026-10-29/`: the two Levinas jobs of 29 Oct (*Totality and Infinity*, 19 notes; *The Levinas Reader*, 24 notes; `legacy_fonts: false` for the Reader).

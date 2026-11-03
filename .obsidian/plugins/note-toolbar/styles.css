@@ -2947,6 +2947,10 @@ body.is-tablet .note-toolbar-menu[data-ntb-meta*="mgls"] {
     & .setting-item-name {
         color: var(--text-error);
     }
+    &.setting-group {
+        padding: 0;
+        margin-bottom: var(--size-4-4);
+    }
 }
 
 .note-toolbar-setting-plugin-onboarding,
@@ -5343,6 +5347,13 @@ input[type="text"].note-toolbar-setting-error,
     }
 }
 
+.note-toolbar-notice-ctas {
+    border-top: solid 1px var(--background-modifier-border);
+    display: block;
+    margin-bottom: 0;
+    padding-top: 0.5em;
+}
+
 .note-toolbar-notice-pointer {
     cursor: pointer;
 }
@@ -5421,6 +5432,9 @@ input[type="text"].note-toolbar-setting-error,
             width: 100%;
         }
     }
+    &[data-ntb-ui-type="prompt"] {
+        top: unset;
+    }
     &[data-ntb-ui-type="suggester"] {
         &.ntb-suggester-collapse {
             & .prompt-results {
@@ -5486,6 +5500,19 @@ input[type="text"].note-toolbar-setting-error,
 
 .note-toolbar-ui-input {
     flex-grow: 1;
+}
+
+.workspace-leaf-content[data-type="note-toolbar-sidebar"] {
+    & .view-content {
+        padding-top: var(--size-4-1);
+        user-select: text;
+        -webkit-user-select: text;
+    }
+    &.ntb-error-sidebar {
+        & .view-content {
+            font-family: monospace;
+        }
+    }
 }
 /*
  * New tab toolbar (Launchpad) 

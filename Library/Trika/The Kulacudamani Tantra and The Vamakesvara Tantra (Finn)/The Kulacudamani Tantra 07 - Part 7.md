@@ -130,6 +130,7 @@ WITH BINDU AND THE CRESCENT MOON.
 99\. THIS IS THE GREAT BIJA (CALLED) KĀMARAJA (WHICH IS
 
 CONDUCIVE) TO GREAT PROSPERITY.
+
 [^340]: There are fifteen elements in the mülamantra. The first five are also called Vāgbhava. The second five are called Kāmarāja and the last set of five are called Sakti. The five parts of the Vāgbhava are: k, e, i, l, hriṇ. The fact that the root mantra begins with the letter "k" is indicative of a Kādi school text.
 
 [^339]: The "mantra objects” are the individual letters of the mantra syllable. They are governed by "Lord Bindu" who ts placed above the mātrā, t.e. above the horizontal bar.
@@ -301,6 +302,7 @@ SEATED ON A RED SUPPORT.
 WITH HIS BODY TRANSFORMED[^363] INTO TRIPURĀ, HE IS DRESSED IN
 
 ALL THE GARMENTS (SUITABLE) FOR LOVE MAKING.
+
 [^362]: There are two ways of being silent: "kāçṣṭha” in whieh there ts no movement of any kind, and "ākāra" which allows one to make gestures.
 [^363]: Literally: "made into Tripurā". I.e., worshipper and worshipped are completely identified.
 
@@ -356,6 +358,7 @@ By "triple city" is meant the anus, the heart and the space between the eyebrows
 As will be explained:
 
 "in the middle of the maydala of the navel, the lotus of the heart and the maydala of the face." (4:51)
+
 [^366]: See Verse 105.
 
 
@@ -380,6 +383,7 @@ CAKRĀSANA, SARVAMANTRĀSANA AND SĀDHYASIDDHĀSANA,
 OH GODDESS:
 
 Having placed Ātmāsana with the seat in the self as the force of the name (suggests), the rule for the nyāsa of Cakrāsana et al - because of the lack of authority in determining (specific) locations in the form of anus, the bulbžł72 and the heart - is due to the appropriateness (of the nysa) to the nature of the various āsanas[^373] by a
+
 [^368]: The "parama guru" is the guru's guru.
 [^369]: At the start of most rituals mantras such as the weapon mantra PHUṬ are said for the removal of obstacles. Jayaratha ts about to say that the bṛjas of the root vidyā are not intended for that purpose.
 
@@ -704,6 +708,7 @@ AND WITH THEM THE EIGHT MOTHERS ARE TO BE WORSHIPPED IN
 s
 
 HE (CAKRA).
+
 [^399]: The previous rituals were all preparatory to the actual worship.
 
 [^397]: I.e., even beyond the power of thought.
@@ -740,6 +745,7 @@ There is no inconsistency because (the goddesses) Brāhmī et al are indicated b
 "There and in the other (cakras) is Tripurā.... "4+
 
 (Yo. Hr. 2:9)
+
 [^400]: HRĪM is the māyā bīja and ŚRĪM is the Lakṣmī bīja.
 [^401]: The direction of Vāyu is the north-west; "the Lord's" is the north-east; Agni's is the south-east and Nirppti's is the south-west.
 
@@ -779,6 +785,7 @@ SHE WHOSE ESSENCE IS TO ELICIT STEADFASTNESS;
 SHE WHO EMBODIES THE PULL OF MEMORY (AND) SHE WHO
 
 CREATES THE LURE OF NAMES;
+
 [^406]: Each cakra has a governing goddess here called a "mudrā" and with each one of them an individual siddhi is associated. In this Trailokyamohana cakra a particular mudrā and siddhi is to be worshipped in addition to all of the eight siddhis which are also related to the "manifested yogints" or Mothers.
 [^408]: The cakra called "Sarvāśāparíipūraṇam" in Sanskrit.
 
@@ -860,6 +867,7 @@ Here, the queen of the cakra is Tripurasundarf.
 As has been said:
 
 "Oh Goddess! In the cakra which is "the instigator of all turmoil" are established the goddesses ~- She who is the Blossom of Kāma etc. who are more secret than the secret."
+
 [^411]: It means that the particular deity presiding over this second cakra is Tripurtsvarṛ.
 
 [^412]: The cakra called "Sarvasaṁkgobhakāraka" in Sanskrít.
@@ -995,6 +1003,7 @@ As the guru says:
 "...S0, with the exception of the queen of the cakra, the yoginīs in the six cakras are joined with the bṛjas Māyā and
 
 Srī."
+
 [^421]: The reference here is to the bījas HRĪM and ŚRĪM which may substitute for the "hap" and "sa" of the great breath mantra. "HR" and "SR" refer to the outward and inward breaths while the "staff" means the vowel "T" plus the bindu. The idea is to breathe in and out on these syllables straightening them into a linear flow. This quotation suggests that one should worship with the bijas in conjunction with breath control.
 
 [^420]: See Verse 135. These blijas are to be used in the worship of every cakra, 421.
@@ -1105,6 +1114,7 @@ As they say:
 "Oh my beloved! In the cakra which takes away all illnesses are established the secret deities and great
 
 429\. The "nigarbha deities" (embryonic deities) are one of the sets of yoginis or Avõāraṇa saktis associated with each of the eakras of the Sricakra. In due order they are: Prakāṭa, Gupta, Gupta-tara, Sampradãya, Kulakauta, Nigarbha, Rahasya, Atirahasya and Paraæpararahasya. \[Puṇyānanda-naātha, Kama-kalā-vilāsa with the commentary of Natanānanda-nãtha, trst. with commentary by Sir John Woodroffe, 4th ed. (Madras: Ganesh & Co., 1971), p. 185.\]
+
 [^431]: "Pirst cakra" in the sense of being the first "spoked wheel" to follow the bindu and triangle. However, út ts the seventh tin order of worship.
 
 [^430]: The cakra called "Sarvarogahara" in Sanskrit.
@@ -1191,6 +1201,7 @@ due order from the first - since the object (of worship) is the same.[^441] The 
 It is with this in mind that the Srīrasamahodadhi says:
 
 "...together with the one that is at the end of the sequence."
+
 [^439]: This text ts not mentioned in Kavirāj's list of Tantrie texts and thus appears to be no longer extant.
 
 440\. Tripurāmbikā/Tripurasundart.
@@ -1253,6 +1264,7 @@ OF THE GREAT GOAD, OF LIBERATION,[^447] OF THE FORM OF BĪJA
 "Disposed in their proper order" in each cakra means that the Sañkṣobha-nī (mudrā) is in the first cakra (and so on) as far as the eighth Blja mudrā which, by the expression "that begins", is assimilated to the ninth one - the three part yoni mudrā. According to the guru, there are two mudrās that must be worshipped here (in the ninth cakra). And there are also ten siddhis involved here.
 
 445\. I.e., goddesses.
+
 [^448]: The Sanskrit names for these mudrās are: Sañkṣobha, Drāãvaṇa, Ākarga, Āveśa, Unmāda, Mahāñkuśa, Khecarī, Btja and the Yoni mudrās. kach one relates to one PoF the nine cakras and should be worshipped therein. Thetr formation ts deseribed in Chapter III of this text.
 
 [^446]: "Mudrā" may stand for goddess, but ts more commonly a ritualised gesture of the hands and fingers as intended in thts verse.
@@ -1273,6 +1285,7 @@ As:
 The teaching in the Srīrasamahodadhi too is that the union of this goddess with SrīmahākāmeSvara is the cause which gives rise to the Rasa siddhi.
 
 449\. Animā, Laghimā, Mahimā, Prāpti, Prākāmnya, Īsítva, Vaśítva and kõmāvasãyíitva. This last siddhi literally means the power of complete satisfaction whieh leaves nothing more to be desired. See Yoga Sūtra 3:45 for a resumë of the siddhis.
+
 [^450]: The siddhis of the "joy of unton" and liberation.
 
 [^451]: Literally: "accomplished or brought to fruition" within the self; Skt.: "sūdhyante".
@@ -1305,6 +1318,7 @@ and ending with Mokga"
 was also said by men ọf old. Again, on this same subject, others have said that in the eighth cakra are the three mudrās (Bija mudrā etc.)[^454] and the eight siddhts with Prāpti and Kāmāvasāūyitva omitted and replaced by the Bhukti and Iechā siddhis. (This idea) should be ignored as it is beyond common sense and the scriptures.
 
 By "in a composed frame of mind" is meant that the attention is solely bent on perceiving that (Tripurasundarī's) true nature is supreme and undivided mantra.
+
 [^453]: The Goddess is saying that in addition to knowing about the arrangement of the cakra ete., itt ts necessary to have the good fortune that comes from worshipping Mahātripurasundart who is in a state of constant blissful union with Kāmeśvara. As her worship ts particularly auspicious, the Goddess desires to know about it so that all other Living creatures ignorant of its efficacy may thus benefit through Her. The Goddess ts both the end and the means of salvation. In her role as medtatrixs, She poses the questions on behalf of mankind.
 
 [^454]: I.e., Bija mudra, yoni mudrā and Khecarī mudrā?

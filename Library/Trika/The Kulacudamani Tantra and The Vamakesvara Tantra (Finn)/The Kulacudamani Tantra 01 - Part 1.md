@@ -357,6 +357,7 @@ In his introduction to this edition of the text, Maitra points out[^35] that the
 For these additional reasons, one can reasonably suppose the KCT to have been written between the 9th and llth centuries, and when one goes on to consider the further internal evidence that the Kula-cüdāmaṇi presents, it generally points to an earlier rather than later date on this scale.
 
 For example, a text like Bhavabhūti's Mālatī-Mādhava reveals that magic and bloody sacrifices of Tantric type[^37] were certainly current in 7-8th C India. The KCT has a frank and almost predominant interest in the application of mantras for magical and mundane ends, and as the extant text has a somewhat abrupt and patchy presentation suggesting that many verses may have been deleted or bowdlerized - perhaps because they had begun to seem offensive, this may in itself indicate a date before the consolidation of the caste structure and the gradual emergence of a more censorious society. These characteristics, in addition to the lack of the usual introductory
+
 [^36]: The "bija" counts as the ninth syllable.
 
 [^35]: Woodroffe, Kulacūdāmaṇi Tantra, p. 13.
@@ -369,6 +370,7 @@ verses,[^38] the absence of florid language,[^39] and the reference to horse sac
 A further important point is that there are a number of goddesses more or less equally singled out for worship in this text; chiefly - Tripurā,[^40] KālĪ,[^41] Durgā,[^42] Mahiçamardinī,[^43] Araṇyā[^44] and the Mothers[^45] ,\*#5 whereas most Tantric texts specialize in the worship of KālĪ or Tripurasundarī. In the VāmakeSvara Tantra, for example, Mahiçamardinf is not even mentioned and the worship of the Mothers is relegated to a position in the outermost cakra.[^46] In the Kulacūdāmaṇi however, the Mothers are frequently referred to and the inclusion of worship for them and Mahiṣāsuramardinī is particularly interesting. If a relatively clear date can be assigned to the popularity of worship of the Mothers, this would in its turn give a useful indication of the likely age of
 
 the Kulacūgdāmaṇi .
+
 [^40]: Tripurā: I:2; III:18;\_ IV:9-10; V:23-24 (Tribhuvanesvart) ; VII:37 (Tripurabhairavti).
 [^41]: KĀLĪ: IV:5; IV:39-49; V:45-80; VI:38-45 (Kālikā); VII:37.
 [^42]: Durgā: In this text Mahigamardin? tis her principal identity, but there exist incidental references to Durgã as Durgā. E.g., IV:13 (Jayadurgā); V:54; VI:45; VII:8-9; VII:30 (part of a very late hym); VII:39.
@@ -466,6 +468,7 @@ Although, due to her demon slaying myth, Mahiṣãsuramardinī has remained a mo
 of today.
 
 Therefore the heyday of the worship of goddesses such as Mahiṣãsura-mardinī, the Mothers and Araṇyā is deduced to be in the 7th to 8th centuries of the first millenium followed by a marked decline in their popularities that must have begun by the end of the same era. On the basis that the KCT includes a surprising amount of worship for these goddesses in comparison to known later texts, one beljeves the KCT to be a relatively early eclectic work promoting the worship
+
 [^57]: Although she is no longer a "living" goddess, there is 7th C evidence that Araṇyyā was once worshipped in temples. Epigraphica Indica, Vol. 20 (Calcutta: Arehaeological Survey of India, n.d.), p. 97.
 
 
@@ -493,6 +496,7 @@ Kullā, Kurukullā, Virodhī, Vipracittā, Ugramukhī, Ugraprabhā, Pradīpta, N
 Dictionary of the Indian Religions.
 
 For example, Vimalā is one of the ten Buddhist bhūmis;[^62] Kurukullā has various sādhanas in the SM;[^63] VāgīsvarĪ is one of the Buddhist attendants of the mother goddess Brahmāṇĵi;[^64] Pradīptā is probably Pradīpa Tārā who is the same as Aparājitās[^65] - an inferior Mahāyāna goddess; Kapālinī is a Buddhist deity in the SM and the NSP, and NĪ1ā66 is supposedly the same as Anilā and is a blue/black goddess in the NSP.[^67] Judging from their names, one suspects that Sukulā, Kulā, Ugramukhī and Ugraprabhā would also be part of the Buddhist pantheon if some identification could be found for them.
+
 [^64]: Ibid., p. 129.
 
 
@@ -517,6 +521,7 @@ In the KCT it is notable that the Buddhist name is preferred to the Hindu name o
 Also, there is a curious half-verse (I1:1) which refers to the various colours of the Goddess as black, red, green and blue. Colour coding of gods and goddesses is practised in Hinduism and in Buddhism, but what attracts the attention here is that instead of the conventional Hindu sequence of the four colours white, red, yellow and black,[^70] two of the colours are blue and green which seem to be more characteristic of. Buddhist deities.
 
 Furthermore, Chapter VI Verse 39 mentions the "añjana giddhi".[^71] In Hinduism the traditional list of siddhis includes Aṇnimā, Laghimā, Mahimā, Prāpti, Prakāmya, Tsitva, Vaśitva and Kāmāvasāyitva.[^72]” The Buddhist list contains: Khadga, Añjana, Pādalepa, Antardhāna, Rasara-
+
 [^69]: Benoytosh Bhattacharyya, An Introduction to Buddhist Esoterism (Delhi: M. Banarsidass, 1980), p. 151.
 
 
@@ -531,6 +536,7 @@ Furthermore, Chapter VI Verse 39 mentions the "añjana giddhi".[^71] In Hinduism
 sãyana, Khecara, Bhūcãra and Pātāla.[^73] The Kulacūgdāmaṇi text mentions six siddhis: the Khadga, the Añjana, the Vetāla, the Paduka, the Tilaka and the Gupti siddhis. The Khadga and Anjana siddhís as described in the KCT apnear to correspond directly with the first two Buddhist siddhís. The Vetāla siddhi does not correspond to any in the Hindu or Buddhist classification and neither does the Tilika. The Pāduka siddhi - briefly described in Chapter VI Verses 25 and 26 - does not differ greatly from the Vetãla siddhi and is again not mentioned in either of the traditional Buddhist or Hindu lists. In Verse 40 there is a reference to the Tilaka siddhi which prescribes that the previously ground bones of the cat (used in the Anjana siddhi) should be mixed with musk, aloe and sandal. The Gupti siddhi is described in Verses 41-44 and by description seems to correspond as much to the Bhūcāra siddhi of the Buddhists as to the Aṇyimā siddhi of the Hindus. Bhattacarya describes the Bhūcāra siddhi as giving a person "the power to go at will anywhere on earth in a moment".[^74] In the KCT the description of the Gupti siddhi says that “as much as a. hundred leagues away, she will appear wending her way underground",[^75] and, “the man (who possesses this siddhi) can pass
 
 [^73]: "Khadga, signifies the perfection which enables a person to conquer in battle with the help of a sword over which mantras have been muttered. The second, Anjana, very probably refers to the magte unguent which, when appited to the eyes, enables a person to perceive the treasures buried under the earth, or otherwise hidden from the eyes. The third, Pādalepa, refers to the mysterious ointment which, when applied to the feet, enables a person to move about everywhere without his body being perceived by any one. The fourth, Antardhāna, similarly refers to the mysterious power which enables a person to disappear miraculously before the very eyes of the people watching him. The fifth, Rasarasãyana, refers probably either to the magie solution whitch turns baser metals into gold, or the medicine which gives immunity from death. The sixth, Khecara, enables one to move in the firmament. The seventh, Bhūcāãra, gives a person power to go at will anywhere on this earth in a moment; and the eighth, Pătãla, refers to the power of going to the nether-worlds.” (Bhattacharyya, Bhuddist Esoterism, p. 89.)
+
 [^74]: Ibid., p. 89.
 [^75]: o. VI: 43.
 
@@ -578,6 +584,7 @@ The division which is perhaps best known outside of Tantric circles is that into
 Unfortunately the terms "left-hand" and "right hand" are not always similarly defined by the varying authors who employ them. In common usage, the left-hand path has "emphasized the use of the five
 
 81\. A familiarity with the Saradã script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
+
 [^82]: Goudriaan, Tantrie and Sākta Literature, p. 64.
 
 
@@ -598,6 +605,7 @@ It is in connection with the more notorious connotations of the left-hand path a
 The second classification into "rotas" or "currents" is a more ancient one, but it too is not very instructive for the good reason that texts of the left current are rare91 and their content and meaning are so far effectively unknown.
 
 87\. I.e., wine, fish, meat, parched grain and sexual intereourse.
+
 [^88]: Vijhānabhairava or Divine Consetousness, trsl. and notes by  Jaideva Singh (Delhi: M. Banarstdass, 1979), p. 4.
 
 
@@ -625,6 +633,7 @@ The first five chapters of the Vāmakesvara Tantra presented here in translation
 Chapter I is concerned with the making and worship of the Srīceakra; Chapter II speaks of the various benefits obtainable from its worship; Chapter III describes the mudrās required for worship;
 
 93\. Rastogi, Krama Tantrieism, p. 20.
+
 [^95]: The additional reason for calling the path pointed out by the Śaivāgamas, which originate from the northern face, Vāmamārga seems to be the influence...of Śiva and Śakti. ..the wife, according to the Indian tradition always stands to the left of the husband... the word Vāmā in Sanskrit, for this reason, stands for wife." (Pandey, Abhinavagupta, p. 611.) An exception to this general rule ts the goddess Minākṣt who ts regularly seated on the right.
 
 [^92]: Pandey, Abhinavagupta, p. 280.
@@ -663,6 +672,7 @@ The principal subject matter of the VT is the esoteriç Śrīceakra and the Śr�
 Sivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yoga-Tantra-Granthamãlā Vol. 1 (Varanasi: Varanaseya
 
 Sanskrit Vishvavidyalaya, 1968).
+
 [^99]: See the Appendix.
 [^100]: Jayaratha's "Vivarana" (12th C); Sivānanda's "Rjuvimarśin"  (13th C); Vidyānanda's "A4rtharatnāval?" (? C) and Bhāskararāya's "Setubandha” (18th C). (Goudriaan, Bindu Tantric and Sākta Literature, p. 60.
 
@@ -679,6 +689,7 @@ According to Pandey, Jayaratha lived towards the close of the 12th and at the be
 Although one learns from the Tantrālokaviveka that the Kula tradition to which Jayaratha adheres was received from his immediate guru Subhata Datta, (with instruction in Śaivism from Kalyāna and additional teaching in other subjects from Saṁkhadhara,[^103]) it is a tradition in the line of descent from ĪSvaraśiva - 9th century abbot of Sūramatha founded by the minister of Anantivarman, to Visvāvarta (9-10th C), Abhinavagupta (10th C), Kṣṣemarāja (10-11th C) and Dīpikanātha (12th C?).
 
 This lineage (paramparā) is confirmed in the works of Jayaratha for he regularly makes references to these spiritual ancestors as a means of establishing his authority on the legitimate Kashmir tradition.
+
 [^103]: Ibid., p. 262.
 
 
@@ -693,6 +704,7 @@ From the NSA commentary itself (1:88) one learns that Jayaratha espouses the vie
 Among Jayaratha's authorities, he quotes from and expresses immense respect for the word of Abhinavagupta who follows sometime after Visvāvarta in the order of succession. Abhinava is a fully identified personage of the 10th century and remains the most influential spokesman of Kashmir Tantrism with a particular devotion to the Kula system.[^107]  Since Jayaratha's other well known work is the "Tantrālokaviveka" which is a commentary on Abhinava's own famous survey of Tantric religion - the Tantrãloka, it is clear from this text and his other writings that Abhinavagupta was a major link in the chain of traditions which Jayaratha inherited. In addition, we know that Kṣemarāja was a "grand guru"[^108] and he quotes from Kṣemarāja's work the Utpala Stotrāvalī.[^109]
 
 The final guru whom Jayaratha mentions in a way which indicates that the guru was in the line of Jayaratha's received traditions is Dīpikanātha who is referred to in the commentary to Chapter IV Verses
+
 [^104]: See commentary to I¥\*88.
 [^105]: See commentary to IV:62.
 [^106]: Ibids, p. 581.
@@ -718,6 +730,7 @@ hrdaya by Kṣemarāja and the Srīrasamahodadhi.[^112]
 The conclusion to be drawn from Jayaratha's name dropping and extensive use of scriptural sources is that he placed himself directly in the succession of Kashmir's most prestigious gurus and therefore felt fully qualified to throw light upon the inner meanings of the
 
 VāmakeSvarīmatam.[^113] 
+
 [^111]: Rastogi, Krama Tantrieism, p. 213.
 
 
@@ -768,6 +781,7 @@ period of its composition.
 Thirdly, Abhinavagupta (alive in AD 1000) and his works bear no witness to the existence of the VT. In view of the Vāmakesvara's subsequent importance this suggests that the VT had either not yet been composed, or was still only a little known contemporary text. This absence of any reference by Abhinavagupta to the Vāmake5vara is the strongest evidence for dating this text to the lith century, but it is obviously not conclusive since the text may well have been composed elsewhere much earlier and introduced into Kashmir only in the llth century. At the same time, one should bear in mind that Abhinavagupta did not reside exclusively in Kashmir and it is possible that there was a much more rapid circulation of scriptures than one imagines due to the custom
 
 of making pilgrimages.
+
 [^119]: There are explicit references to the Rudrayāmala in I:84 and  IV:59; there is also an implicit reference in I:15.
 [^120]: Ibid., p. 47.
 

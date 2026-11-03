@@ -47,15 +47,15 @@ Now, concluding this (subject), he continues with the main point.
 tena svarūpasvātantryamātraṁ malavijṛmbhitam || 83 ॥
 nirṇītaṁ vitataṁ caitan mayānyatrety alaṁ punaḥ | 
 
-Therefore, (the varied) expansion (vijṛmbhita) of Impurity is only (an expression of) the freedom (inherent in the Lord’s) own nature.” I have explained (all) this extensively elsewhere, and so let this suffice. (83cd-84ab) 
+Therefore, (the varied) expansion (vijṛmbhita) of Impurity is only (an expression of) the freedom (inherent in the Lord’s) own nature.[^196] I have explained (all) this extensively elsewhere, and so let this suffice. (83cd-84ab) 
 
 #### Viveka on 9.83–84
 
-1% This line is quoted above in TĀv ad 1/37-38ab.
+[^196]: This line is quoted above in TĀv ad 1/37-38ab.
 
 *[p. 84]* ^pg101
 
-‘Elsewhere’ means in the first chapter etc." 
+‘Elsewhere’ means in the first chapter etc.[^197] 
 
 The Nature of Impurity Continued 
 
@@ -76,13 +76,21 @@ ahamamātmatātaṅko māyāśaktir athāvṛtiḥ ॥ 85 ॥
 doṣabīja paśutvaṁ ca saṁsārāṅkurakāranṇam |
 ityādy anvarthasaṁijñābhis tatra tatraiṣa bhanyate ॥ 86 ॥ 
 
-"Impurity is given a number of names in various places (in the scriptures) in accord with its nature. Thus, for example, (it is called) desire (abhilāṣa), ignorance, nescience, craving (lolikā), absence of insight (aprathā), the defect of phenomenal existence (bhavadoṣa), the boat of the soul (anuplava), lassitude (glāni),” aridity (śoṣa), delusion (vimūdhatā), the 
+[^198]Impurity is given a number of names in various places (in the scriptures) in accord with its nature. Thus, for example, (it is called) desire (abhilāṣa),[^199] ignorance, nescience, craving (lolikā),[^200] absence of insight (aprathā), the defect of phenomenal existence (bhavadoṣa), the boat of the soul (anuplava), lassitude (glāni),[^201] aridity (śoṣa), delusion (vimūdhatā), the 
 
-1? See above, 1/23 ff. and below, 13/41cd ff. Abhinava is also referring to MVV 2/157- 186, translated above in note 9,183. \[illegible\] Lines 84cd to 88ab are Abhinava’s summary and brief didactic etymology of the terms for Impurity. 19 Concerning desire (abhilāṣa), see note 13,65, with reference to SvTu 4/105. 20 See below, 9/143-144ab. > See above, note to 1/181cd-182ab and below, 12/20cd. The Stanzas on Vibration teach: ‘Lassitude ravages the body, and this arises from ignorance, but if it is eliminated by an expansion of consciousness (unmeṣa), how can (ignorance), deprived of its cause, continue to exist? The expansion of consciousness that takes place when one is engaged in a single thought should be known as the source from whence another arises. One should experience that for oneself.’ SpKā 40-41 From a different perspective Abhinava explains: ‘Ignorant that (there) in the Heart (one) savours within oneself the joy of supreme wealth, immersed as it is in the body, the vital breath and the rest, it is afflicted by a lassitude (glāni) without equal. (But) if the supreme goddess who delights in giving birth to all the universe (is within our hearts), may she play (there in all her) plenitude, (blazing forth) as does an offering to the fire (havi). PTv p. 111
+[^197]: See above, 1/23 ff. and below, 13/41cd ff. Abhinava is also referring to MVV 2/157- 186, translated above in note 9,183.
+
+[^198]: \[illegible\] Lines 84cd to 88ab are Abhinava’s summary and brief didactic etymology of the terms for Impurity.
+
+[^199]: Concerning desire (abhilāṣa), see note 13,65, with reference to SvTu 4/105.
+
+[^200]: See below, 9/143-144ab.
+
+[^201]: See above, note to 1/181cd-182ab and below, 12/20cd. The Stanzas on Vibration teach: ‘Lassitude ravages the body, and this arises from ignorance, but if it is eliminated by an expansion of consciousness (unmeṣa), how can (ignorance), deprived of its cause, continue to exist? The expansion of consciousness that takes place when one is engaged in a single thought should be known as the source from whence another arises. One should experience that for oneself.’ SpKā 40-41 From a different perspective Abhinava explains: ‘Ignorant that (there) in the Heart (one) savours within oneself the joy of supreme wealth, immersed as it is in the body, the vital breath and the rest, it is afflicted by a lassitude (glāni) without equal. (But) if the supreme goddess who delights in giving birth to all the universe (is within our hearts), may she play (there in all her) plenitude, (blazing forth) as does an offering to the fire (havi). PTv p. 111
 
 *[p. 85]* ^pg102
 
-state of ‘T’ and ‘mine’, fear, the power of Māyā, the veil, the seed of defects, the fettered state (paśutva), and the cause of the sprout of transmigratory existence \[illegible\] (84cd-86) 
+state of ‘T’ and ‘mine’, fear, the power of Māyā, the veil, the seed of defects, the fettered state (paśutva), and the cause of the sprout of transmigratory existence \[illegible\][^202] (84cd-86) 
 
 #### Viveka on 9.84–86
 
@@ -113,9 +121,11 @@ The forms of the remaining (names) are easy to understand and their proper meani
 
 Thus, for fear of making the book too long, we have not explained that. Thus, one can infer it for oneself. 
 
-Concerning Karma” 
+Concerning Karma[^203] 
 
-%? This expression is drawn from MV 1/23d. See above, note 9,167 for cross-references. \[illegible\] Karman is discussed at length in MVV 2/187-206, translated here. MVV 2/157-186 is translated above in note 9,183. Abhinava starts out by talking about the nature of Karma and how it ‘matures’, and then how it is the Lord who ultimately brings it about in MVV 2/202ff. Cf. below TĀ 9/90cd-141, where Karman is discussed in relation to the Deconditioned by Dissolution (Pralayākalā) and Deconditioned by Knowledge (Vijñānakalā) subjects. In the previous part of this discussion concerning Impurity, Karma and Māyā Abhinava concluded that, in order to explain how the consciousness of individual souls can be obscured, we must admit Śiva Himself does it, for He alone is free to do anything, and so makes this possible also (see above, note 9,183). The discussion now turns to Karma as another possible alternative reason. Thus, Abhinava begins: yac ca karmāpi nāmeṣtar tat tāvat pravicāryatām | tathāhi karmasaṁbandhe sthite ‘pi katham īdṛśaḥ |I 187 ॥ mahāpralaya ucyeta mahāsṛṣtiś ca vā katham |
+[^202]: This expression is drawn from MV 1/23d. See above, note 9,167 for cross-references.
+
+[^203]: \[illegible\] Karman is discussed at length in MVV 2/187-206, translated here. MVV 2/157-186 is translated above in note 9,183. Abhinava starts out by talking about the nature of Karma and how it ‘matures’, and then how it is the Lord who ultimately brings it about in MVV 2/202ff. Cf. below TĀ 9/90cd-141, where Karman is discussed in relation to the Deconditioned by Dissolution (Pralayākalā) and Deconditioned by Knowledge (Vijñānakalā) subjects. In the previous part of this discussion concerning Impurity, Karma and Māyā Abhinava concluded that, in order to explain how the consciousness of individual souls can be obscured, we must admit Śiva Himself does it, for He alone is free to do anything, and so makes this possible also (see above, note 9,183). The discussion now turns to Karma as another possible alternative reason. Thus, Abhinava begins: yac ca karmāpi nāmeṣtar tat tāvat pravicāryatām | tathāhi karmasaṁbandhe sthite ‘pi katham īdṛśaḥ |I 187 ॥ mahāpralaya ucyeta mahāsṛṣtiś ca vā katham |
 
 *[p. 86]* ^pg103
 
@@ -192,7 +202,7 @@ Surely (one may ask), how (can it be said that the meaning of the expression):
 
 ‘the 
 
-cause of the sprout of transmigratory existence’ (saṁsārāṁkurakāranam) is easily understood to be in accord with nature (of Impurity)? Should we understand it to mean that transmigratory existence itself is the sprout,” or that (Impurity) is the cause of the sprout of transmigratory existence? Now its turn has come, he praises the Impurity of Karma, in the course of remedying this doubt, explaining first of all the appropriateness (of this matter) to the object of enquiry, which is the topic (at hand). 
+cause of the sprout of transmigratory existence’ (saṁsārāṁkurakāranam)[^204] is easily understood to be in accord with nature (of Impurity)? Should we understand it to mean that transmigratory existence itself is the sprout,[^205] or that (Impurity) is the cause of the sprout of transmigratory existence?[^206] Now its turn has come, he praises the Impurity of Karma, in the course of remedying this doubt, explaining first of all the appropriateness (of this matter) to the object of enquiry, which is the topic (at hand). 
 
 ### TĀ 9.88–89
 
@@ -202,21 +212,33 @@ cause of the sprout of transmigratory existence’ (saṁsārāṁkurakāranam) 
 saṁsārakāraṇaṁi karma saṁsārāṅkura ucyate || 88 ॥
 caturdaśavidhaṁi bhūtavaicitryan karmajaṁ yataḥ | 
 
-Karma, the cause of transmigratory existence, is said to be the sprout of transmigratory existence” because the fourteen kinds of the wonderful variety of living beings” are born of Karma. (88cd-89ab) 
+Karma, the cause of transmigratory existence, is said to be the sprout of transmigratory existence[^207] because the fourteen kinds of the wonderful variety of living beings[^208] are born of Karma. (88cd-89ab) 
 
 #### Viveka on 9.88–89
 
 The second half (of this verse states) the reason why Karma is the cause of transmigratory existence. Thus, transmigratory existence is the Impurity of Māyā, which is described as follows: 
 
-“It is said that the body, world and form are (the Impurity) of Māyā.”?” The sprout (of the impurity of Māyā) is like a sprout, the cause of which is the Impurity of Karma, and its cause is the (essential Impurity of) the individual soul (āṇavamala). As is said: 
+“It is said that the body, world and form are (the Impurity) of Māyā.’[^209] The sprout (of the impurity of Māyā) is like a sprout, the cause of which is the Impurity of Karma, and its cause is the (essential Impurity of) the individual soul (āṇavamala). As is said: 
 
-(saṁvedana) and so is (just) one indeed. It is the agent of everything that, because of (this) wonderful diversity (vaicitrya), is said to be associated with Karma.’ (205-206) MVV 2/187-206. 2 MV 1/23d. Quoted above in 1/23ab and elsewhere. See note there. ५ ऽक सव कोप, \[illegible\] Sarisārasyā” kuras tasya kāraṇam. 2% Abhinava is refering here to MV 1/⁄23cd: malam ajñānam icchanti sarsārāṁkurakāraṇam || ‘(The wise) prefer (the view that) impurity is ignorance (not a material substance as the dualists maintain). It is the cause of (Karma, which is) the sprout of transmigratory existence (saṁsāra).’ This line is quoted verbatim above as 1/23cd and below as 9/120cd, in TĀv ad 9/99cd-100ab, and paraphrased in 13/49cd. MV may be elaborating on \[illegible\] 1/17c: malan sahsārakāranam In the MV, this line comes just after a description of the Vijñāna- and Pralayakevala. \[illegible\] See above, 8/119-120. The fourteen kinds of living beings are listed in MV 5/7-9, quoted above in note 8,1009. %9 SvT 4/105a ad 13/49. SvT reads: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | “It is said that the bodies, worlds and (phenomenal) forms are (the Impurities of) Māyā’. The reading here is: śarīrabhuvanākāra māyīyaṁ parikītītam | The same reading is found below ad 13/49, and so has been retained. The next line says, “Karma is the cause of worldly experience (bhoga), whereas Impurity here is craving.”
+(saṁvedana) and so is (just) one indeed. It is the agent of everything that, because of (this) wonderful diversity (vaicitrya), is said to be associated with Karma.’ (205-206) MVV 2/187-206.
+
+[^204]: MV 1/23d. Quoted above in 1/23ab and elsewhere. See note there.
+
+[^205]: ५ ऽक सव कोप,
+
+[^206]: \[illegible\] Sarisārasyā” kuras tasya kāraṇam.
+
+[^207]: Abhinava is refering here to MV 1/⁄23cd: malam ajñānam icchanti sarsārāṁkurakāraṇam || ‘(The wise) prefer (the view that) impurity is ignorance (not a material substance as the dualists maintain). It is the cause of (Karma, which is) the sprout of transmigratory existence (saṁsāra).’ This line is quoted verbatim above as 1/23cd and below as 9/120cd, in TĀv ad 9/99cd-100ab, and paraphrased in 13/49cd. MV may be elaborating on \[illegible\] 1/17c: malan sahsārakāranam In the MV, this line comes just after a description of the Vijñāna- and Pralayakevala.
+
+[^208]: \[illegible\] See above, 8/119-120. The fourteen kinds of living beings are listed in MV 5/7-9, quoted above in note 8,1009.
+
+[^209]: SvT 4/105a ad 13/49. SvT reads: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | “It is said that the bodies, worlds and (phenomenal) forms are (the Impurities of) Māyā’. The reading here is: śarīrabhuvanākāra māyīyaṁ parikītītam | The same reading is found below ad 13/49, and so has been retained. The next line says, “Karma is the cause of worldly experience (bhoga), whereas Impurity here is craving.”
 
 *[p. 89]* ^pg106
 
-‘(the soul’s essential) Impurity (mala) and Karma are the instrumental cause (nimitta), the effect (of which) follows after.” 
+‘(the soul’s essential) Impurity (mala) and Karma are the instrumental cause (nimitta), the effect (of which) follows after.’[^210] 
 
-‘The instigating cause (of Karma) is called craving (abhilāṣa). . . °" 
+‘The instigating cause (of Karma) is called craving (abhilāṣa). . . ’[^211] 
 
 As (this) wonderfully various transmigratory existence arises in this way due to Karma, everybody exerts (themselves) to remove that. Thus, he says: 
 
@@ -228,17 +250,25 @@ As (this) wonderfully various transmigratory existence arises in this way due to
 ata eva sāṁkhyayogapāñcarātrādiśāsane || 89 ||
 ahahmameti santyāgo naiṣkarmyāyopadiśyate | 
 
-Therefore, according to the teaching of the Sāṁkhya, Yoga, Pāñcarātra and others,” the renunciation of ‘P’ and ‘mine’ leads to freedom from Karma.?" (89cd-90ab) 
+Therefore, according to the teaching of the Sāṁkhya, Yoga, Pāñcarātra and others,[^212] the renunciation of ‘P’ and ‘mine’ leads to freedom from Karma.[^213] (89cd-90ab) 
 
 #### Viveka on 9.89–90
 
 ‘The teaching’ means the scriptures. This is what is taught there, namely, one whose mind is fixed in the Supreme Brahman, whatever he does, considering that ‘I am not doing anything’, abandons (his) sense of self (ahantā). And, as there is no attachment there (in that case,) he also does not obstinately cling to the sense of ‘mine’, (reflecting that,) ‘by having done this, nothing belongs to me.’ (Thus,) he may achieve freedom from Karma, so that he may not (be subject to) transmigratory existence, which has this as its sole (direct) instrumental cause. As is sung (in the Bhagavadgīta): 
 
-\*“Actions (karman) do not stain me, nor do I have desire for (their) fruits.” He who knows me in this way is not bound by (his) actions. ’?" 
+\*“Actions (karman) do not stain me, nor do I have desire for (their) fruits.” He who knows me in this way is not bound by (his) actions.’[^214] 
 
 ‘Having abandoned attachment to the fruits of (his) actions, always content and free of (all outer) support, although he is engaged in action, (it is as if) he does nothing at all.” 
 
-210 SvT 3/176ab. Also quoted above in TĀv ad 1/23 and ad 5/106 (105cd-106ab), and below ad 13/49. 21! SvT 3/177a. Also quoted above in TĀv ad 9/62 and in the first half of a line quoted ad 13/83-84, and ad 13/1 10cd-111ab. 212 Note that as Abhinava goes on to talk about the condition of the Vijñānakevalin, it is clear that this is the level that the followers of the Sāmkhya and the like attain. Cf. above 4/230, where Vaiṣṇavas, Vedāntins and others like them who conjoin with supreme Prakṛti attain the level of Pralayākala, which is below that. \[illegible\] Karman is discussed at length in MVV 2/187-206; see above, note 9,203 for a translation. Cf. TĀ 9/90cd-146. 214 This reference is drawn from BhGī 4/14, the following three are ibid. 4/20, 5/7-8ab and 5/10, respectively.
+[^210]: SvT 3/176ab. Also quoted above in TĀv ad 1/23 and ad 5/106 (105cd-106ab), and below ad 13/49.
+
+[^211]: SvT 3/177a. Also quoted above in TĀv ad 9/62 and in the first half of a line quoted ad 13/83-84, and ad 13/1 10cd-111ab.
+
+[^212]: Note that as Abhinava goes on to talk about the condition of the Vijñānakevalin, it is clear that this is the level that the followers of the Sāmkhya and the like attain. Cf. above 4/230, where Vaiṣṇavas, Vedāntins and others like them who conjoin with supreme Prakṛti attain the level of Pralayākala, which is below that.
+
+[^213]: \[illegible\] Karman is discussed at length in MVV 2/187-206; see above, note 9,203 for a translation. Cf. TĀ 9/90cd-146.
+
+[^214]: This reference is drawn from BhGī 4/14, the following three are ibid. 4/20, 5/7-8ab and 5/10, respectively.
 
 *[p. 90]* ^pg107
 
@@ -250,7 +280,7 @@ Surely (one may ask), if that is so, is he not a liberated (soul)? With this dou
 
 ### TĀ 9.90–92
 
-The Karma of the Seven Perceivers?" 
+The Karma of the Seven Perceivers[^215] 
 
 निष्कमी हि स्थिते मूलमलेऽप्यज्ञाननामनि || ९० |
 वैचित्यकारणाभावात्रध्व सरति नाप्यधः ।
@@ -261,13 +291,15 @@ niṣkarmā hi sthite mūlamale ‘py ajṁñānanāmani ॥ 90 ॥ vaicitryakā
 kevalai pārimityena śivābhedam asamispṛśan ॥ 91 ॥
 (णन 
 
-Although (the Vijñānakevalin) is devoid of Karma, he does not move (sarati) upwards (to higher levels) because ignorance, the root impurity (i.e. Āṇavamala), persists, nor downwards (to the lower ones) because (Karma, which is) the cause of the variety (of worldly experience), is lacking. Thus, due to his (conditioned) limited nature (pārimitya), he is \[illegible\] (in consciousness), without coming in touch with Śiva’s unity. (Thus,) the ‘one who is isolated in consciousness alone’ (vijñānakevalin) is said to be well-established in pure consciousness alone (but is devoid of freedom). (90cd-92ab) 
+Although (the Vijñānakevalin) is devoid of Karma, he does not move (sarati) upwards (to higher levels) because ignorance, the root impurity (i.e. Āṇavamala), persists, nor downwards (to the lower ones) because (Karma, which is) the cause of the variety (of worldly experience), is lacking. Thus, due to his (conditioned) limited nature (pārimitya), he is \[illegible\][^216] (in consciousness), without coming in touch with Śiva’s unity. (Thus,) the ‘one who is isolated in consciousness alone’ (vijñānakevalin) is said to be well-established in pure consciousness alone (but is devoid of freedom). (90cd-92ab) 
 
 #### Viveka on 9.90–92
 
 ‘Although’ is not in the correct (prose) order with respect to the meaning. Thus, (what is meant is,) although ‘(the Vijñānakevalin) is free of Karma’, he does not transmigrate (saṁsarati) ‘upwards’; that is, to the Pure Path, because of the abiding presence (avasthāna) of the root Impurity of 
 
-?!5 This subject is treated up to verse 97ab. It is an important subject for Abhinava, who returns to it repeatedly throughout the Tantrāloka. See above, 1/77-80 (78-81), 4/29- 32ab (the perceivers that correspond to levels of liberation reached by other schools). He deals with the subject extensively and in detail in Chapter Ten, setting out the main points in 10/3-18, and going on to discuss associated matters (such as the nature of perceptibility in 10/19-78ab). 216 Gnoli suggests the emendation kevalaḥ for kevalai. But if we maintain the reading in the printed edition, the meaning would be ‘only because of (his) conditioned nature’.
+[^215]: This subject is treated up to verse 97ab. It is an important subject for Abhinava, who returns to it repeatedly throughout the Tantrāloka. See above, 1/77-80 (78-81), 4/29- 32ab (the perceivers that correspond to levels of liberation reached by other schools). He deals with the subject extensively and in detail in Chapter Ten, setting out the main points in 10/3-18, and going on to discuss associated matters (such as the nature of perceptibility in 10/19-78ab).
+
+[^216]: Gnoli suggests the emendation kevalaḥ for kevalai. But if we maintain the reading in the printed edition, the meaning would be ‘only because of (his) conditioned nature’.
 
 *[p. 91]* ^pg108
 
@@ -275,13 +307,15 @@ Individuality (āṇava) called ‘ignorance’. Nor (does he move) ‘downwards
 
 ‘Those (souls) who are Isolated in Consciousness are above Māyā and 
 
-below Pure Knowledge.” 
+below Pure Knowledge.’[^217] 
 
 According to this teaching (yukti), although his sole nature is pure consciousness (bodha), he resides between the pure and impure path because of the loss (of his) freedom, that is, because of the presence of contraction of his own nature, brought about by a trace of the defilement of individuation (āṇavamala). ‘Due to his (conditioned) limited nature (pārimitya)’, he has not attained oneness with the Supreme Lord who is consciousness, that is not disassociated from (its) freedom. (As such,) he is (a soul) who is Isolated in Consciousness Alone (vijñānakevalin); that is, his nature is consciousness alone (kevala) which is devoid of freedom. He is everywhere ‘proclaimed’ (to be such). As is said: 
 
-‘Those who, even though their nature is pure consciousness, do not possess the most excellent agency (of consciousness), and their own nature is fashioned separately by the Lord (bhartr) due to the passing away of their agency, and who, although their nature as consciousness etc. is one, are separate from one another by the difference (bheda) in the Lord’s will that they be such, are those who are Isolated in Consciousness Alone (vijñānakevala).’' 
+‘Those who, even though their nature is pure consciousness, do not possess the most excellent agency (of consciousness), and their own nature is fashioned separately by the Lord (bhartr) due to the passing away of their agency, and who, although their nature as consciousness etc. is one, are separate from one another by the difference (bheda) in the Lord’s will that they be such, are those who are Isolated in Consciousness Alone (vijñānakevala).’[^218] 
 
-21? Somadeva (2004: 170) points out that, according to the MV (2/1-9), the Pralayākala universe. Abhinava, however, locates the latter in Mahāmāyātattva, which is an independent principle between Māyā and Śuddhavidyā. He cites no authority for this. Possibly because there is none, he resorts to reasoned argument. Thus, he writes in the PTv (p. 117-8): ‘There must necessarily exist another principle above the principle of Māyā and below the principle of (Śuddha) Vidyā, wherein abide the Vijñānākalas. As has of) Pure Knowledge.’ If (the level of) Mahāmāyā did not exist, then since the level of Māyā is occupied by the Pralayākalas, and the (principle beginning with Śuddha) Vidyā by the Mantra-regents etc., what then would be the level of the Vijñānākalas? (translation by Somadeva (2004: 170-171)) %8 The Vijñānakevalins cannot ascend, because Āṇava Mala, in the form of Ignorance, still persists, but neither do they transmigrate down to the Impure level below Māyā, for there is no Karma Mala anymore. Thus, they reside between the Pure and Impure levels (i.e. Śuddha Vidyā and Māyā) so that, although their nature is pure consciousness, they have no freedom. They are of finite size because their innate nature is contracted down to finite dimensions, due to the Impurity of Individuality, to which they are still subject. They are called Vijñānakevalin, as they are endowed with consciousness (vijñāna) alone, but not freedom. See below 13/275cd-276ab. For an extensive, detailed presentation of the Seven Perceivers (saptapramātr), see Chapter Ten; for a basic description, see 10/3-18.
+[^217]: Somadeva (2004: 170) points out that, according to the MV (2/1-9), the Pralayākala universe. Abhinava, however, locates the latter in Mahāmāyātattva, which is an independent principle between Māyā and Śuddhavidyā. He cites no authority for this. Possibly because there is none, he resorts to reasoned argument. Thus, he writes in the PTv (p. 117-8): ‘There must necessarily exist another principle above the principle of Māyā and below the principle of (Śuddha) Vidyā, wherein abide the Vijñānākalas. As has of) Pure Knowledge.’ If (the level of) Mahāmāyā did not exist, then since the level of Māyā is occupied by the Pralayākalas, and the (principle beginning with Śuddha) Vidyā by the Mantra-regents etc., what then would be the level of the Vijñānākalas? (translation by Somadeva (2004: 170-171))
+
+[^218]: The Vijñānakevalins cannot ascend, because Āṇava Mala, in the form of Ignorance, still persists, but neither do they transmigrate down to the Impure level below Māyā, for there is no Karma Mala anymore. Thus, they reside between the Pure and Impure levels (i.e. Śuddha Vidyā and Māyā) so that, although their nature is pure consciousness, they have no freedom. They are of finite size because their innate nature is contracted down to finite dimensions, due to the Impurity of Individuality, to which they are still subject. They are called Vijñānakevalin, as they are endowed with consciousness (vijñāna) alone, but not freedom. See below 13/275cd-276ab. For an extensive, detailed presentation of the Seven Perceivers (saptapramātr), see Chapter Ten; for a basic description, see 10/3-18.
 
 *[p. 92]* ^pg109
 
@@ -297,7 +331,7 @@ kramān mantreśatannetrrūpo yāti śivātmatām |
 
 (When,) on the contrary (punaḥ), by Śiva’s will, contemplating (his) oneness with Śiva, he progressively assumes the form of the Mantra p erceivers), (then their) Lords, and (then their) Lords, he (finally) attains 
 
-Śiva’s nature.?” (92cd-93ab) 
+Śiva’s nature.[^219] (92cd-93ab) 
 
 #### Viveka on 9.92–93
 
@@ -305,9 +339,7 @@ The sense is that ‘progressively’, or even instantaneously, according to the
 
 ‘At the beginning of the creation of the universe, desiring to emit (it), He awakened by His own will the eight souls who are Isolated in Consciousness 
 
-Alone (vijñānakevalin). 
-
-"२ 
+Alone (vijñānakevalin).’[^220]
 
 The ‘Lords’ are the Lords of Mantra, and their lords are the Mantramaheśvaras. 
 
@@ -316,7 +348,9 @@ the Impurity of Individuality (Ā&navamala), and that is the cause of (the Impur
 ननु कारणमेतस्य कर्मणश्ेन्मलः कथम् ॥ ९३ ॥
 स विज्ञानाकलस्यापि न सूते कर्मसंततिम् ।
 
-219 This verse is quoted below in TĀv ad 13/275cd-276ab. Preferring to ignore Jayaratha’s interpretation of this verse, 50 a (2004: 171) translates this last sentence (i.e. kramān mantreśatannetrrūpo yí tmatām) differently: ‘By the will of Śambhu he may experience non-difference from Śiva and in due order (in accord with the intensity of his experience) he attains identity with Siva in the form of a Mantra-regent \[mantreśvara\] or a Sovereign of the Mantra-regents \[Mantramaheśvara\].” But this translation may not be correct. cf. below 9/96cd: vijñānākalamantreśatadīśāditvakalpanā || Somadeva does translate this line as referring to Vijñānākala, Mantra, Mantreśa, Mahāmantreśa and Ādi (= Śiva). \[illegible\] MV 1/18cd-19ab. This verse is paraphrased below in 10/139cd-140ab and quoted in full in the commentary there.
+[^219]: This verse is quoted below in TĀv ad 13/275cd-276ab. Preferring to ignore Jayaratha’s interpretation of this verse, 50 a (2004: 171) translates this last sentence (i.e. kramān mantreśatannetrrūpo yí tmatām) differently: ‘By the will of Śambhu he may experience non-difference from Śiva and in due order (in accord with the intensity of his experience) he attains identity with Siva in the form of a Mantra-regent \[mantreśvara\] or a Sovereign of the Mantra-regents \[Mantramaheśvara\].” But this translation may not be correct. cf. below 9/96cd: vijñānākalamantreśatadīśāditvakalpanā || Somadeva does translate this line as referring to Vijñānākala, Mantra, Mantreśa, Mahāmantreśa and Ādi (= Śiva).
+
+[^220]: \[illegible\] MV 1/18cd-19ab. This verse is paraphrased below in 10/139cd-140ab and quoted in full in the commentary there.
 
 *[p. 93]* ^pg110
 
@@ -336,9 +370,9 @@ But surely (one may ask), if the cause of this Karma is the Impurity (of Individ
 
 #### Viveka on 9.93–95
 
-(He says that) ‘(the impurity of the (Vi)jñānākala is) about to be destroyed, (and its (self-)destruction proceeds (thereafter spontaneously and) independently)’, because (the individual soul cannot do that by itself), in accord with the teaching (concerning the Impurity of Individuality to which it is subject, that it): ‘is also the lack of consciousness of (its innate) freedom.’ (It is about to be destroyed) because the duality which is the false arrogation of subjectivity (ahaṁbhāva) to the body and the rest (of the psychophysical organism) has inwardly ceased. Thus, because it is incapable of giving rise to its own effect, he says ‘how can it be a cause (of further Karma)?’ On the contrary (it can indeed). By virtue of its own excellence, which is its propensity to destruction, the process of its destruction or its subsequent destruction itself may arise. For it is not so that a seed intent on perishing will germinate once more. And when it is in the process of perishing, or when it has perished, it is not possible to expect anything else (from it), precisely because it is intent on perishing. 
+(He says that) ‘(the impurity of the (Vi)jñānākala is) about to be destroyed, (and its (self-)destruction proceeds (thereafter spontaneously and) independently)’, because (the individual soul cannot do that by itself), in accord with the teaching (concerning the Impurity of Individuality to which it is subject, that it): ‘is also the lack of consciousness of (its innate) freedom.’[^221] (It is about to be destroyed) because the duality which is the false arrogation of subjectivity (ahaṁbhāva) to the body and the rest (of the psychophysical organism) has inwardly ceased. Thus, because it is incapable of giving rise to its own effect, he says ‘how can it be a cause (of further Karma)?’ On the contrary (it can indeed). By virtue of its own excellence, which is its propensity to destruction, the process of its destruction or its subsequent destruction itself may arise. For it is not so that a seed intent on perishing will germinate once more. And when it is in the process of perishing, or when it has perished, it is not possible to expect anything else (from it), precisely because it is intent on perishing. 
 
-It is with this same intention that the sequence beginning with 
+It is with this same intention that the sequence beginning with[^222] 
 
 everywhere (in the scriptures). Thus he says: 
 
@@ -348,7 +382,9 @@ everywhere (in the scriptures). Thus he says:
 दशास्वन्तः कृतावस्थान्तरासु स्वक्रमस्थितेः ।
 विज्ञानाकलमन्रेशतदीशादित्वकल्पना || ९६ ॥|
 
-21 ĪP 3/2/4d. The full definition of the nature of the Impurity of Individuality (āṇavamala) is: ‘As it conceals one’s own nature, this is the soul’s (essential) Impurity (āṇavamala). It is two-fold (as) the loss of the freedom of (its innate) consciousness and so too (along with it) the lack of consciousness of (its innate) freedom.” Quoted in full above in TĀv ad 1/23, 5/106 (5/105cd-106ab) and 9/62. \[illegible\] These perceivers are called both Vijñānākala ~ Consciousness Deconditioned and Vijñānakevalin - Isolated in Consciousness Alone.
+[^221]: ĪP 3/2/4d. The full definition of the nature of the Impurity of Individuality (āṇavamala) is: ‘As it conceals one’s own nature, this is the soul’s (essential) Impurity (āṇavamala). It is two-fold (as) the loss of the freedom of (its innate) consciousness and so too (along with it) the lack of consciousness of (its innate) freedom.” Quoted in full above in TĀv ad 1/23, 5/106 (5/105cd-106ab) and 9/62.
+
+[^222]: \[illegible\] These perceivers are called both Vijñānākala ~ Consciousness Deconditioned and Vijñānakevalin - Isolated in Consciousness Alone.
 
 *[p. 94]* ^pg111
 
@@ -366,11 +402,15 @@ Individuality)
 
 #### Viveka on 9.95–96
 
-The intermediate stages are a) somewhat in the process of destruction (kiṁciddhvaṁsamānatva), and b) somewhat destroyed (kińciddhvastatva). The reason for their inclusion (amongst the three main stages) is because they are ‘in accord with their sequential order’. The point is that the stages that follow after the expected (impending) destruction (of Impurity), namely, (the actual) process of its destruction (dhvarṁsamāna) or the state when it is (fully) destroyed, do not arise all of a sudden without a break. Thus the nature of the Vijñānākala (Consciousness Deconditioned) and the rest (of the perceivers) is conceived to be in these five stages, corresponding respectively (to Mantras), Lords of Mantras, the Great Lords of Mantras, and ‘the First \[illegible\] that is, Śiva, (Whose existence) is established right from the start (ādisiddha);”\* otherwise (if it were not), the Lords of Mantras and the rest could not?” be conceived (to exist) in this way. Thus, because of the difference in their condition in this way, the (states of) deep sleep and the Fourth (in which they are) is of many forms. The meaning (of these lines) has thus been established. 
+The intermediate stages are a) somewhat in the process of destruction (kiṁciddhvaṁsamānatva), and b) somewhat destroyed (kińciddhvastatva). The reason for their inclusion (amongst the three main stages) is because they are ‘in accord with their sequential order’. The point is that the stages that follow after the expected (impending) destruction (of Impurity), namely, (the actual) process of its destruction (dhvarṁsamāna) or the state when it is (fully) destroyed, do not arise all of a sudden without a break. Thus the nature of the Vijñānākala (Consciousness Deconditioned) and the rest (of the perceivers) is conceived to be in these five stages,[^223] corresponding respectively (to Mantras), Lords of Mantras, the Great Lords of Mantras, and ‘the First \[illegible\] that is, Śiva, (Whose existence) is established right from the start (ādisiddha);[^224] otherwise (if it were not), the Lords of Mantras and the rest could not[^225] be conceived (to exist) in this way. Thus, because of the difference in their condition in this way, the (states of) deep sleep and the Fourth (in which they are) is of many forms. The meaning (of these lines) has thus been established. 
 
 Thus he says: 
 
-%23 Five progressively more pure perceivers correspond to the five stages of the destruction of the Impurity of individuality. These are: 1) Vijñānākala: the expected (impending) destruction (of Impurity) (didhvaṁsiṣu), 2) Mantra: somewhat in the process of destruction (kihciddhvahsamānatva). 3) Mantreśa: in the process of destruction (dhvaṁsamāna). 4) Mahāmantreśa: somewhat destroyed (kiṁciddhvastatva) and 5) Śiva: (fully) destroyed (dhvasta). 2 Cf. ĪP 1/1/1: ‘What sentient being can disprove or prove (the existence) of Maheśvara, who is the agent and knower within himself, who is proved (to exist) right at the start (as his own nature)?’ The inherent and ultimate nature of each sentient being is the self-luminous Light of consciousness, which is present within them as the agent and knower. With nothing objective to distinguish it, it is one and the same in all sentient beings and even Śiva Himself. Thus, Śiva cannot be disproved to exist, for anyone who denies Śiva exists would be denying his own existence. For the same reason, no proof need be advanced to prove His existence, as the very act of doing so, right from the start, establishes his existence as that of the one who seeks to do so. 25 Read na tadīśādikalpanety eva for = tadīśādikalpanety eva.
+[^223]: Five progressively more pure perceivers correspond to the five stages of the destruction of the Impurity of individuality. These are: 1) Vijñānākala: the expected (impending) destruction (of Impurity) (didhvaṁsiṣu), 2) Mantra: somewhat in the process of destruction (kihciddhvahsamānatva). 3) Mantreśa: in the process of destruction (dhvaṁsamāna). 4) Mahāmantreśa: somewhat destroyed (kiṁciddhvastatva) and 5) Śiva: (fully) destroyed (dhvasta).
+
+[^224]: Cf. ĪP 1/1/1: ‘What sentient being can disprove or prove (the existence) of Maheśvara, who is the agent and knower within himself, who is proved (to exist) right at the start (as his own nature)?’ The inherent and ultimate nature of each sentient being is the self-luminous Light of consciousness, which is present within them as the agent and knower. With nothing objective to distinguish it, it is one and the same in all sentient beings and even Śiva Himself. Thus, Śiva cannot be disproved to exist, for anyone who denies Śiva exists would be denying his own existence. For the same reason, no proof need be advanced to prove His existence, as the very act of doing so, right from the start, establishes his existence as that of the one who seeks to do so.
+
+[^225]: Read na tadīśādikalpanety eva for = tadīśādikalpanety eva.
 
 *[p. 95]* ^pg112
 
@@ -379,7 +419,7 @@ Thus he says:
 ततश्च सुप्ते तुर्ये च वक्ष्यते बहुभेदता ।
 tataś ca supte turye ca vakṣyate bahubhedatā | 
 
-It is for this reason that, as we shall explain later,” there are many subdivisions in the states of deep sleep and the Fourth. (97ab) 
+It is for this reason that, as we shall explain later,[^226] there are many subdivisions in the states of deep sleep and the Fourth. (97ab) 
 
 #### Viveka on 9.97
 
@@ -387,7 +427,7 @@ Therefore, it is well said that the (impending) destruction of the root Impurity
 
 He says that: 
 
-The Nature of Karma?” 
+The Nature of Karma[^227] 
 
 ### TĀ 9.97–98
 
@@ -414,13 +454,15 @@ Moreover, Karma also is not (in itself) due to Impurity, because Karma is action
 
 #### Viveka on 9.98–99
 
-> See below, 10/227cd ff. what sense are they so? To answer this question, Abhinava now embarks on a discussion about the nature of Karma in general and in this context in particular. It extends from 97cd to 146. This is followed by an exposition of the nature of Māyā up to verse 154ab and 164cd-166ab.
+[^226]: See below, 10/227cd ff.
+
+[^227]: what sense are they so? To answer this question, Abhinava now embarks on a discussion about the nature of Karma in general and in this context in particular. It extends from 97cd to 146. This is followed by an exposition of the nature of Māyā up to verse 154ab and 164cd-166ab.
 
 *[p. 96]* ^pg113
 
 The meaning is that ‘Impurity’ is not an agent and it is not free (to act). The relationship between cause and effect is, as was established before, that between the agent and the deed. 
 
-Surely, if that is so, how is it that it is said: ‘(The wise) prefer (the view that) Impurity is ignorance (not a material substance as the dualists maintain). Is it the cause of (Karma which is) the sprout of transmigratory existence (saṁsāra)’? With this doubt in mind, he says: 
+Surely, if that is so, how is it that it is said: ‘(The wise) prefer (the view that) Impurity is ignorance (not a material substance as the dualists maintain). Is it the cause of (Karma which is) the sprout of transmigratory existence (saṁsāra)’[^228]? With this doubt in mind, he says: 
 
 ### TĀ 9.99–100
 
@@ -451,7 +493,7 @@ The subject who experiences the various and diverse consequences (of Karma) cons
 
 Thus, Impurity is not a cause, material or auxiliary, of (the soul’s) own good fortune (saṁpatti) (or otherwise); rather, it just lends a hand to the implementation of the effect (kāryakarana) (of the soul’s Karma). Thus he says: 
 
-? MV 1/23cd, quoted above 1/23 and below 9/120cd. and 9/98cd-99ab.
+[^228]: MV 1/23cd, quoted above 1/23 and below 9/120cd. and 9/98cd-99ab.
 
 *[p. 97]* ^pg114
 
@@ -502,7 +544,7 @@ maivam adhvastasaṁkoco ‘py asau bhāvanayā dṛdham | 103 Il nāhar karteti
 
 #### Viveka on 9.103–104
 
-The ‘(practice of) contemplation (bhāvanā)’ is the renunciation etc. of (notions of) ‘T’ and ‘mine’.?” Thus, because of his inactive state (naiṣkarmya), he is not conjoined to the Impurity of Karma, and so (his) state is that of a Consciousness Deconditioned (perceiver). 
+The ‘(practice of) contemplation (bhāvanā)’ is the renunciation etc. of (notions of) ‘T’ and ‘mine’.[^229] Thus, because of his inactive state (naiṣkarmya), he is not conjoined to the Impurity of Karma, and so (his) state is that of a Consciousness Deconditioned (perceiver). 
 
 Surely (one may ask), when the latent impressions (of past Karma) cease, there would be no assessment (anusaṁdhāna) of ‘prior’ (action) and (its) ‘subsequent’ (consequence), and so would that (not entail) that he would not be a perceiver? With this doubt in mind, he says: 
 
@@ -516,13 +558,15 @@ sa saṁskāraḥ phalāyeha na tu smaraṇakāraṇam |
 
 The (latent Karmic) impression that serves to bear fruit here (in this world) is the firm sense \[illegible\] that one has within oneself that ‘this Karma will give rise to its consequences’. It is not (the one that is) the cause 
 
-of memory.” (104cd-105ab) 
+of memory.[^230] (104cd-105ab) 
 
 #### Viveka on 9.104–105
 
 (This sense is) ‘firm’ because it has no beginning. The latent impression which is the conception (bhāvanā) within oneself (variously) termed ‘sense’ (vṛtti) and the like is of two kinds, that is, either with a beginning or without. It is not the first (of these two) that, associated with (a past) experience, is awakened by the power of awakened consciousness (prabodha), as the cause of recollection that nourishes the perceiver’s state as a perceiver who connects (the present with the past) (anusaridhātṛtva). Again, the other is the latent 
 
-2 The ‘contemplation’ — bhāvanā meant here is the sound intuitive reasoning (sattarka) that “I am Śiva and all this universe is the outpouring of my glory.” See above 4/2 ff. It is more than just abandoning the individual ego. 20 Latent impressions are of two kinds — with a beginning and without a beginning. The former are the ones that give rise to memory, while the latter are those that give rise to the various fruits of actions. See below, 28/324cd ff., where Abhinava discusses the role of memory at the time of death according to the teachings of the Bhagavadgītā.
+[^229]: The ‘contemplation’ — bhāvanā meant here is the sound intuitive reasoning (sattarka) that “I am Śiva and all this universe is the outpouring of my glory.” See above 4/2 ff. It is more than just abandoning the individual ego.
+
+[^230]: Latent impressions are of two kinds — with a beginning and without a beginning. The former are the ones that give rise to memory, while the latter are those that give rise to the various fruits of actions. See below, 28/324cd ff., where Abhinava discusses the role of memory at the time of death according to the teachings of the Bhagavadgītā.
 
 *[p. 99]* ^pg116
 
@@ -538,7 +582,7 @@ Surely (one may ask), if the latent impression of Karma has been removed, what h
 apradhvaste ‘pi \[illegible\] \[illegible\] nāhari karteti bhāvanāt ॥ 105 ॥
 na phala kṣīvamūdhādeḥ prāyaścitte ‘tha vā kṛte | 
 
-Even when the contracted (state of consciousness) has not been eliminated, (the actions) for example of a drunkard or a fool, or once (one has) performed an atoning penance, do not bear fruit, because (in such cases one) thinks: “It is not I who acts, I did not do it” (nāham kartā). (105cd-106ab) 
+Even when the contracted (state of consciousness) has not been eliminated, (the actions) for example of a drunkard or a fool, or once (one has) performed an atoning penance, do not bear fruit, because (in such cases one) thinks: “It is not I who acts, I did not do it” (nāham kartā).[^231] (105cd-106ab) 
 
 #### Viveka on 9.105–106
 
@@ -546,7 +590,7 @@ Even when the contracted (state of consciousness) has not been eliminated, (the 
 
 rising out (of a state of deep meditation). 
 
-’? 
+’[^232] 
 
 (Karma) does not give rise to its corresponding consequences by meditating on its cessation, (reflecting that) ʻit is not I who act’ once ‘(one has) performed an atoning penance’ (or) by the weakening of the attention (anusaṁdhāna) to this and that particular object. As they say: 
 
@@ -562,11 +606,13 @@ Surely (one may ask), as this is so, does this amount (to saying) that it is not
 yanmayādya tapas taptaṁ tad asmai syād iti sphutam || 106 ॥
 abhisańidhim ataḥ karma na phaled abhisandhitaḥ | 
 
-31 A repentant person thinks “I wish I had not done so”. %2? This citation is from the Yogasūtra or its commentary (bhāṣya).
+[^231]: A repentant person thinks “I wish I had not done so”.
+
+[^232]: This citation is from the Yogasūtra or its commentary (bhāṣya).
 
 *[p. 100]* ^pg117
 
-The action of one whose clear intention is (of the form): “may the austerity I have practiced today be for this (other person’s benefit)” does not bear fruit (for himself), by virtue of his intention.” (106cd-107ab) 
+The action of one whose clear intention is (of the form): “may the austerity I have practiced today be for this (other person’s benefit)” does not bear fruit (for himself), by virtue of his intention.[^233] (106cd-107ab) 
 
 #### Viveka on 9.106–107
 
@@ -594,7 +640,7 @@ Thus, the rule (codya) is not the same when the intention that the fruit of one�
 
 Surely (one may ask), the (normal) condition of Karma and its (relation to its) fruit would cease if it were to depend in this way on just intention alone. Thus, anybody (just) by intending that (a particular Karma) should not bear fruit (for himself), even though he may do this or that, would not be subject to consequences (of his actions). Would heaven and hell (which are the consequence of good and bad actions) not cease? (We reply) that that is true if someone is intensely intent (in this way). He says that: 
 
-23 In other words, the actions of a person who has no selfish intentions do not produce Karma and its consequences.
+[^233]: In other words, the actions of a person who has no selfish intentions do not produce Karma and its consequences.
 
 *[p. 101]* ^pg118
 
@@ -609,7 +655,7 @@ yas tu tatrāpi dārdhyena phalasariskāram ujjhati \\\\ 108 Il sa tatphalatyāg
 
 #### Viveka on 9.108–109
 
-Again, ‘he who there (in that case) abandons’ also ‘the latent impression of the fruit of (his) action by the firmness (of his intention to do so)’, in accord with the teaching (that) ‘he who discharges his duty (kāryaṁ karma) without concern for the fruit of (his) action’, gives up attachment (to it). By his detachment from the fruit (of his actions) ‘he enjoys a special’ supernal (lokottara) ‘fruit’ generated (from that detachment). The meaning is that he attains the plane beyond Māyā. As is said in the Bhagavadgītā: 
+Again, ‘he who there (in that case) abandons’ also ‘the latent impression of the fruit of (his) action by the firmness (of his intention to do so)’, in accord with the teaching (that) ‘he who discharges his duty (kāryaṁ karma) without concern for the fruit of (his) action’,[^234] gives up attachment (to it). By his detachment from the fruit (of his actions) ‘he enjoys a special’ supernal (lokottara) ‘fruit’ generated (from that detachment). The meaning is that he attains the plane beyond Māyā. As is said in the Bhagavadgītā: 
 
 ‘The wise, endowed with intelligence, renouncing the fruit born of action, are freed from the bondage of (repeated) birth and attain the plane free of 
 
@@ -621,7 +667,7 @@ It is said here (regarding this objection): where is this intention (anusaṁdh�
 
 (If the intention is applied to) the nature (of his Karma), that (Karma) is here (as it is, it cannot be changed). The fisherman did reflect “I am awake”, 
 
-°+ BhGī 6/lab. The following line says: ‘He is a (true) renunciate, he is (a true) yogi, not one who is without the sacred fire and without the sacred rites.’
+[^234]: BhGī 6/lab. The following line says: ‘He is a (true) renunciate, he is (a true) yogi, not one who is without the sacred fire and without the sacred rites.’
 
 *[p. 102]* ^pg119
 
@@ -629,7 +675,7 @@ because, unlike the drunkard or the fool, he was not deranged (asvastha). Howeve
 
 a 
 
-venerable caitya, who in the course of his circumambulation was elevated (from his humble condition). (What he did) was not (just by chance with no clear intention,) as happens with a tuft of grass (blown about) impelled by the wind. Thus, it is fitting that by (his submission to) the Lord’s sovereignty he was led near to (the spiritual) power of (that sacred) building (vastu) and in the next life found the true path (of Dharma). (Conversely,) in the case of (one) who drinks what is prohibited unintentionally, without considering that it should not be drunk, has the same intention (as one who does, thinking) “I am drinking this”, so that his penance is prescribed (in the Law books) (smṛta) as one who has done (something wrong), without examining (what he is doing). However, (the atoning penance prescribed) is less than that (of one who does so) intentionally. As Manu (says): 
+venerable caitya,[^236] who in the course of his circumambulation was elevated (from his humble condition). (What he did) was not (just by chance with no clear intention,) as happens with a tuft of grass (blown about) impelled by the wind. Thus, it is fitting that by (his submission to) the Lord’s sovereignty he was led near to (the spiritual) power of (that sacred) building (vastu) and in the next life found the true path (of Dharma). (Conversely,) in the case of (one) who drinks what is prohibited unintentionally, without considering that it should not be drunk, has the same intention (as one who does, thinking) “I am drinking this”, so that his penance is prescribed (in the Law books) (smṛta) as one who has done (something wrong), without examining (what he is doing). However, (the atoning penance prescribed) is less than that (of one who does so) intentionally. As Manu (says): 
 
 ‘Penance (is prescribed for both) those who (misbehave) unintentionally and (those who do so) intentionally. (But) what is prescribed for those who does so 
 
@@ -639,13 +685,11 @@ is
 
 double that (prescribed for those who do so) 
 
-unintentionally.’ 
-
-?” 
+unintentionally.’[^237] 
 
 Thus, (our view is sound that) the condition (vyavasthā) (of the relationship between) Karma and its consequence is determined by the intention (behind it). Now enough of much (discussion). 
 
-He now relates (what has been said) to the main point:” 
+He now relates (what has been said) to the main point:[^238] 
 
 ### TĀ 9.109–110
 
@@ -655,9 +699,15 @@ He now relates (what has been said) to the main point:”
 anayā paripātyā yah samastāi karmasaṁtatim || 109 ॥
 anahaṁyutayā projjhet sasaṁkoco ‘pi so ‘kalaḥ | 
 
-He who abandons the entire stream of Karma by disassociating himself from it (anahamyutayā)” is, by this process, a Vijñānakevalin 
+He who abandons the entire stream of Karma by disassociating himself from it (anahamyutayā)[^239] is, by this process, a Vijñānakevalin 
 
-2 Read caityabhattārakar for caitanyabhattārakari. %7 This verse is not found in the Manusmṛti commonly available. 2" After this digression from 97cd onwards concerning Karma, Abhinava returns to the main point to talk about the Vijñānakevalin who has abandoned Karma. 2 Anahamyutayā lit. ‘not associating the ego (with it)’. The Vijnānakevalin at his level of subjectivity does not experience himself as an agent. He does not feel, as do the lower-level subjects who are affected by the impurity of Karma, that he is the agent of actions with Karmic consequences. In other words, he does not associate his ego with Karmic action, thinking “I am doing this for a particular purpose to benefit me in some way or avoid suffering.” His actions are not (an) ahamyuta- ‘conjoined (yuta) with the ‘T (aham).
+[^236]: Read caityabhattārakar for caitanyabhattārakari.
+
+[^237]: This verse is not found in the Manusmṛti commonly available.
+
+[^238]: After this digression from 97cd onwards concerning Karma, Abhinava returns to the main point to talk about the Vijñānakevalin who has abandoned Karma.
+
+[^239]: Anahamyutayā lit. ‘not associating the ego (with it)’. The Vijnānakevalin at his level of subjectivity does not experience himself as an agent. He does not feel, as do the lower-level subjects who are affected by the impurity of Karma, that he is the agent of actions with Karmic consequences. In other words, he does not associate his ego with Karmic action, thinking “I am doing this for a particular purpose to benefit me in some way or avoid suffering.” His actions are not (an) ahamyuta- ‘conjoined (yuta) with the ‘T (aham).
 
 *[p. 103]* ^pg120
 
@@ -734,7 +784,7 @@ Surely (one may ask), (clearly) the other person does not (formulate) the intent
 
 (other person’s benefit)” 
 
-? With this doubt in mind, he says: 
+?[^240] With this doubt in mind, he says: 
 
 ### TĀ 9.115–116
 
@@ -766,7 +816,7 @@ anahamyutayā sarvā vilīnāḥ karmasaṁskriyāḥ ॥ 117 ॥
 
 The point of what we are saying is that all the latent impressions of 
 
-24 Above, 9/106c.
+[^240]: Above, 9/106c.
 
 *[p. 106]* ^pg123
 
@@ -774,7 +824,7 @@ destroyed (because he is disassociated from them) by not considering them to be 
 
 #### Viveka on 9.117
 
-(By saying that this is so for) ‘(the Vijñānakevalin) who behaves (cara) in the manner described’ is recollected all that should be known, mentioned previously, that logically explains the absence of Karmic Impurity (in his case). Thus (for this reason), the Vijñānākala has no Karmic Impurity. As there is no need for him to do (anything) to make this capacity (to destroy the traces of Karma) manifest; (it is clear that) the Impurity (of this perceiver) is about to be destroyed. (Spontaneously,) by its very nature, it is in the process of being destroyed by the progression (of stages), beginning with the condition in which it is being destroyed to some degree, and the subsequent (stages, until) it is fully ०९ ऽ0\$८त। २५1
+(By saying that this is so for) ‘(the Vijñānakevalin) who behaves (cara) in the manner described’ is recollected all that should be known, mentioned previously, that logically explains the absence of Karmic Impurity (in his case). Thus (for this reason), the Vijñānākala has no Karmic Impurity. As there is no need for him to do (anything) to make this capacity (to destroy the traces of Karma) manifest; (it is clear that) the Impurity (of this perceiver) is about to be destroyed. (Spontaneously,) by its very nature, it is in the process of being destroyed by the progression (of stages), beginning with the condition in which it is being destroyed to some degree, and the subsequent (stages, until) it is fully destroyed.[^241]
 
 He says that: 
 
@@ -787,7 +837,7 @@ malaḥ karotu tenāyarni dhvaṁṁsamānatvam aśnute || 118 ॥
 
 Therefore, he neither has any Karma, nor does Impurity (continue to) serve as an (attendant) concomitant cause of anything, and so it is in the 
 
-process of being destroyed.” (118) 
+process of being destroyed.[^242] (118) 
 
 #### Viveka on 9.118
 
@@ -802,7 +852,9 @@ Surely (one may ask), when Impurity has been destroyed, the egoity (ahaṁbhāva
 apadhvastamalas tv antahśivāveśavaśīkṛtaḥ |
 ahamibhāvaparo ‘py eti na karmādhīnavṛttitām | 119 ॥ 
 
-%1 See above, 9/93cd-95ab. \`\^ These are the three main stages in which Karmic impressions are progressively destroyed — 1) cessation of acquisition of new Karma, 2) no stimulus from one’s own innate Impurity, that is, ignorance, to produce more Karma, 3) the destruction of the previous Karma.
+[^241]: See above, 9/93cd-95ab.
+
+[^242]: These are the three main stages in which Karmic impressions are progressively destroyed — 1) cessation of acquisition of new Karma, 2) no stimulus from one’s own innate Impurity, that is, ignorance, to produce more Karma, 3) the destruction of the previous Karma.
 
 *[p. 107]* ^pg124
 
@@ -826,7 +878,7 @@ This Impurity is thus the cause of the sprout of transmigratory existence. Havin
 malam ajñānam icchanti sahsārāṁkurakāraṇam || 120 ॥
 dharmādharmātmakarni karma sukhaduhkhādilakṣaṇam | 
 
-The Supreme Lord has said as much in the Śrīpūrvaśāstra. “(The wise) prefer (the view that) Impurity is ignorance, (not a material substance, as the dualists maintain). It is the cause of (Karma, which is) the sprout of transmigratory existence \[illegible\] Karma is (both) virtue (dharma) and vice (adharma), and the characteristic sign of (Karma is that we experience) pleasure, pain, and the like, (that are the consequences of Karma).” (120-121ab) 
+The Supreme Lord has said as much in the Śrīpūrvaśāstra. “(The wise) prefer (the view that) Impurity is ignorance, (not a material substance, as the dualists maintain). It is the cause of (Karma, which is) the sprout of transmigratory existence \[illegible\] Karma is (both) virtue (dharma) and vice (adharma), and the characteristic sign of (Karma is that we experience) pleasure, pain, and the like, (that are the consequences of Karma).’[^243] (120-121ab) 
 
 #### Viveka on 9.120–121
 
@@ -835,7 +887,7 @@ He declares the thread of (the sequence of the consequences of) Karma there (in 
 ### TĀ 9.121
 
 लक्षयत्सुखदुःखादि स्वं कार्यं हेतुभावतः ॥ १२१ ॥
-lakṣayet sukhaduhkhādi svan kāryan\* hetubhāvataḥ ॥ 121 ॥ 
+lakṣayet sukhaduhkhādi svan kāryan[^244] hetubhāvataḥ ॥ 121 ॥ 
 
 The result of one’s own (Karma) is experienced as pleasure, pain, and the like, in accord with (their Karmic) causes. (121cd) 
 
@@ -843,13 +895,15 @@ The result of one’s own (Karma) is experienced as pleasure, pain, and the like
 
 (The result of one’s own (Karma)) ‘is experienced’, that is, established as that which instigates one’s own being (to be subject to its consequences). 
 
-+ Verses 120cd-12lab are MV 1/23cd-24ab. The first line is also quoted above in 1/23ab in TĀv ad 9/98cd-99ab and paraphrased below in 13/49cd. MV 1/23c is cited in TĀv ad 9/65cd-66ab. % Read kāryaṁ for kārya.
+[^243]: Verses 120cd-12lab are MV 1/23cd-24ab. The first line is also quoted above in 1/23ab in TĀv ad 9/98cd-99ab and paraphrased below in 13/49cd. MV 1/23c is cited in TĀv ad 9/65cd-66ab.
+
+[^244]: Read kāryaṁ for kārya.
 
 *[p. 108]* ^pg125
 
 This is the meaning. (One may ask) what renders it apparent? With this doubt in mind, he says, (the results that are) ‘in accord with (their Karmic) causes.’ 
 
-Surely (one may object) that, because of the principle that ‘causes do not necessarily (produce their) effects (immediately and in every case)’, in what way can a cause invariably (niyamena) establish (the nature of its) effect? 
+Surely (one may object) that, because of the principle that ‘causes do not necessarily (produce their) effects (immediately and in every case)’,[^245] in what way can a cause invariably (niyamena) establish (the nature of its) effect? 
 
 ### TĀ 9.122
 
@@ -859,7 +913,7 @@ Surely (one may object) that, because of the principle that ‘causes do not nec
 na hi hetuḥ kadāpy āste vinā kāryaṁ nijam kvacit |
 hetutā yogyataivāsau phalānantaryabhāvitā ॥ 122 ॥ 
 
-There is no cause anywhere ever devoid of its own effect. The causal state (hetutā) is the capacity (yogyatā) (to produce an effect). It is established to be such by its consequent result.” (122) 
+There is no cause anywhere ever devoid of its own effect. The causal state (hetutā) is the capacity (yogyatā) (to produce an effect).[^246] It is established to be such by its consequent result.[^247] (122) 
 
 #### Viveka on 9.122
 
@@ -875,9 +929,15 @@ Surely (one may ask), if that is so, does the causal status of fire, for example
 
 #### Viveka on 9.123
 
-Thus, the explanation (given above), that the characteristic sign of (Karma is that we experience) pleasure, pain and the like (which are the consequences of Karma). This explanation contains that of the genitive ascriptive compound (ṣaṣfītatpuruṣa) (sukhaduhkhādilakṣaṇam, i.e. ‘the characteristic sign of (Karma is that we experience) pleasure, pain and the like (that are the consequences of Karma)’).”\*\* 
+Thus, the explanation (given above), that the characteristic sign of (Karma is that we experience) pleasure, pain and the like (which are the consequences of Karma). This explanation contains that of the genitive ascriptive compound (ṣaṣfītatpuruṣa) (sukhaduhkhādilakṣaṇam, i.e. ‘the characteristic sign of (Karma is that we experience) pleasure, pain and the like (that are the consequences of Karma)’).[^248] 
 
-%5 The same dictum is quoted above in TĀv intro to 1/161 (see 1/161 for Abhinava’s response) and TĀv ad 4/59. 2%&#37; The word yogyatā that I here translate as ‘capacity’ literally means ‘competence’. A cause is a cause because it is fit to produce its own effect. 247 We know that the nature of a Karma by its effect, that is, consequence. 28 See above, 9/121b.
+[^245]: The same dictum is quoted above in TĀv intro to 1/161 (see 1/161 for Abhinava’s response) and TĀv ad 4/59. 2%&#37;
+
+[^246]: The word yogyatā that I here translate as ‘capacity’ literally means ‘competence’. A cause is a cause because it is fit to produce its own effect.
+
+[^247]: We know that the nature of a Karma by its effect, that is, consequence.
+
+[^248]: See above, 9/121b.
 
 *[p. 109]* ^pg126
 
@@ -937,7 +997,7 @@ It is evident here (in this world) also that action and its fruit are present (a
 
 #### Viveka on 9.125–126
 
-Nobody disagrees that ‘here (in this world) also’ the body changes every moment.” There is no disagreement (with the view) that \*Karma is accumulated in one body and its consequence in another’. Thus, land is ploughed and the seed is sown in spring and its fruit (the harvest is reaped) in autumn, and because of the variety (of these) situations, this makes for a difference (in his) the body. Thus, it is rightly said that ‘one infers that the Karma (accumulated) in another (previous) body is the cause (of one’s present condition)’. 
+Nobody disagrees that ‘here (in this world) also’ the body changes every moment.[^249] There is no disagreement (with the view) that \*Karma is accumulated in one body and its consequence in another’. Thus, land is ploughed and the seed is sown in spring and its fruit (the harvest is reaped) in autumn, and because of the variety (of these) situations, this makes for a difference (in his) the body. Thus, it is rightly said that ‘one infers that the Karma (accumulated) in another (previous) body is the cause (of one’s present condition)’. 
 
 Surely (one may object that that) would (entail the unwanted) consequence that what has been done is destroyed and what has not been done accrues (the experience of the consequence of Karma)? With this doubt in mind, he says: 
 
@@ -955,7 +1015,7 @@ Insofar as the subject who links together experience (anusaṁdhātr) is one and
 
 “I experience today what I have sown before” — because of the unity of this ascertainment (anusaṁdhāna) (which links the two experiences together), insofar as the foundation of Karma and its consequence is not different, what 
 
-% sarīrakṣanikatve means literally ‘the body is momentary’.
+[^249]: sarīrakṣanikatve means literally ‘the body is momentary’.
 
 *[p. 111]* ^pg128
 
@@ -997,11 +1057,11 @@ He says that:
 ata eva kṛtaṁ karma karmanā tapasāpi vā || 129 ||
 jñānena vā nirudhyeta phalapākeṣv anunmukham | 
 
-Therefore, the Karma produced (in the past), which is not propense to the maturing of (its) consequences (phalapāka), can be checked by (performing a) ritual, by (practicing) austerity, or by knowledge.? (129cd-130ab) 
+Therefore, the Karma produced (in the past), which is not propense to the maturing of (its) consequences (phalapāka), can be checked by (performing a) ritual, by (practicing) austerity, or by knowledge.[^250] (129cd-130ab) 
 
 #### Viveka on 9.129–130
 
-‘Therefore’, because it is necessary for Karma to be propense (to give rise to its) consequences for there to be a preceding unwavering intention (for it to do so). ‘It can be checked by (performing a) ritual’, such as ritual initiation (kriyādīkṣā)," 
+‘Therefore’, because it is necessary for Karma to be propense (to give rise to its) consequences for there to be a preceding unwavering intention (for it to do so). ‘It can be checked by (performing a) ritual’, such as ritual initiation (kriyādīkṣā),[^251] 
 
 which makes (Karma) unfit to bear its fruit. This is the meaning. 
 
@@ -1015,23 +1075,31 @@ Thus, Karma, which is propense to give its fruit, cannot be blocked. Accordingly
 ārabdhakāryaṁ dehe ‘smin yat punaḥ karma tat katham || 130 ॥
 ucchidyatām antyadaśaṁ niroddhur na hi śakyate | 
 
-(However), how can the Karma that has started to have its effect (arabdhakārya) in this body be eliminated? (It cannot). That which has reached its final stage (of completion) cannot be \[illegible\] \[illegible\] (130cd-131ab) 
+(However), how can the Karma that has started to have its effect (arabdhakārya) in this body be eliminated? (It cannot). That which has reached its final stage (of completion) cannot be \[illegible\] \[illegible\][^252] (130cd-131ab) 
 
 #### Viveka on 9.130–131
 
-> Phalapāka literally means ‘maturing of the fruit’. 351 Initiation can be imparted by means of a rite (kriyā), or in other more direct ways, such as the imparting of knowledge (jñānadīkṣā), or just transfer (sańkramana) of the teacher’s state of enlightened consciousness to the disciple. See above, note 1,1020. 25 See below, 13/237.
+[^250]: Phalapāka literally means ‘maturing of the fruit’.
+
+[^251]: Initiation can be imparted by means of a rite (kriyā), or in other more direct ways, such as the imparting of knowledge (jñānadīkṣā), or just transfer (sańkramana) of the teacher’s state of enlightened consciousness to the disciple. See above, note 1,1020.
+
+[^252]: See below, 13/237.
 
 *[p. 113]* ^pg130
 
-‘How can (that Karma) be eliminated?’ It cannot be eliminated in any way. This is the meaning. The reason for this is that it ‘has started to have its effect’. To the extent that (the Karma) has not begun to produce (its) effect, it can be prevented from beginning to do so by some (other) intermediate means. Thus (in that circumstance), it is possible (yukta) to block (its production). However, when, on the contrary, it has begun to produce (its effect), because it has commenced (to do so), how can it be suppressed? Thus it is said: ‘that which has reached its final stage (of completion) cannot be suppressed’. With the same intended sense, it is declared everywhere that: ‘only (the Karma) that has begun (to take effect) (prārabdha) should not be purified (in the course of initiation)’ \*. . , that (Karma) by which this (body is sustained can only be destroyed) by the experience (of its consequences), ’”\* 
+‘How can (that Karma) be eliminated?’ It cannot be eliminated in any way. This is the meaning. The reason for this is that it ‘has started to have its effect’. To the extent that (the Karma) has not begun to produce (its) effect, it can be prevented from beginning to do so by some (other) intermediate means. Thus (in that circumstance), it is possible (yukta) to block (its production). However, when, on the contrary, it has begun to produce (its effect), because it has commenced (to do so), how can it be suppressed? Thus it is said: ‘that which has reached its final stage (of completion) cannot be suppressed’. With the same intended sense, it is declared everywhere that: ‘only (the Karma) that has begun (to take effect) (prārabdha) should not be purified (in the course of initiation)’[^253] \*. . , that (Karma) by which this (body is sustained can only be destroyed) by the experience (of its consequences).’[^254] 
 
-2353 SvT 4/141d also quoted below in 15/27. This is an instruction issued to the teacher who is initiating his disciple. Initiation is a process of purification from binding Impurity, including that of past Karma. The Tantra instructs that Karma that has started to produce its effect should not be removed. Otherwise, the disciple would die, as he continues to inhabit the body in order to experience the consequences of Karma. Cf. above, 1/36-51, also TĀv ad 1/43, where the same is quoted. % Kirana vidyāpāda 6/20d. This quarter verse is also quoted below in TĀv ad 15/27-29 and ad 19/27cd-29ab. It is quoted repeatedly by Saiddhāntikas. See for example, by Sadyojyotiṣ ad Tattvasahgraha 37 (whole verse), by Aghoraśivācārya ad Ratnatrayaparīkṣā 165cd-166ab (whole verse), again ibid. ad 315 (whole). This quarter verse is quoted by Rāmakantṭha in his commentary (vṛtti) on the Sārdhatriśatikālottara ad 2/lab, also Mataṁgapārameśvaravṛtti (Kriyāpāda p. 150 line 17. Kṣemarāja quotes it in SvTu ad 3/174 and ad 4/67. The entire verse, which Kṣemarāja states is from the Kirana, is quoted in the commentary on SvT 4/1 19ab. It reads: anekabhavikar karma dagdharhi bījam\* ivāṇubhiḥ | bhaviṣyad api saṁhruddhaṁi yenedaṁ tad dhi bhogataḥ ॥ \*Goodall (Kiraṇa: p. 384 n 645): ‘\[instead of dagdhari bījaṁ\] we must read dagdhabījaṁ in compound and understand it as a bahuvrīhi \[attributive compound qualifying karma\]. Admittedly only one manuscript has this; but it is supported by the commentaries of Rāmakanṭtha and Tryambakaśambhu and by the commentary on Śataratnasaṁgraha 88 (p. 91), and the expression has parallels in other Tantras, for example, Svacchanda 4/ 14864." “The action of many existences has its seeds burnt, so to speak (iva), by mantra (in initiation). Future (action) too is blocked; (but) that by which this (body is sustained can be destroyed only) by experience (of its consequences).’ KiT 1/6/20 (Goodall’s translation 1998: 383-4) It is useful to quote the verse that follows also, along with Rāmakantha’s commentary (translation by Goodall, Kirana p. 383-384): \*(Only) when the body collapses (does the soul attain) liberation. Otherwise (initiation) which gives immediate liberation (sadyonirvāṇadā) may also be effected by mantra-souls (anubhiḥ) that are eternally established, and therefore they link (souls) to Śiva.’ (Kirana VP 6/21) Rāmakanṭha: ‘Now (tāvat), in the initiation that grants immediate liberation, it is (here) taught that all previous accumulated actions without exception are destroyed
+[^253]: SvT 4/141d also quoted below in 15/27. This is an instruction issued to the teacher who is initiating his disciple. Initiation is a process of purification from binding Impurity, including that of past Karma. The Tantra instructs that Karma that has started to produce its effect should not be removed. Otherwise, the disciple would die, as he continues to inhabit the body in order to experience the consequences of Karma. Cf. above, 1/36-51, also TĀv ad 1/43, where the same is quoted.
+
+[^254]: Kirana vidyāpāda 6/20d. This quarter verse is also quoted below in TĀv ad 15/27-29 and ad 19/27cd-29ab. It is quoted repeatedly by Saiddhāntikas. See for example, by Sadyojyotiṣ ad Tattvasahgraha 37 (whole verse), by Aghoraśivācārya ad Ratnatrayaparīkṣā 165cd-166ab (whole verse), again ibid. ad 315 (whole). This quarter verse is quoted by Rāmakantṭha in his commentary (vṛtti) on the Sārdhatriśatikālottara ad 2/lab, also Mataṁgapārameśvaravṛtti (Kriyāpāda p. 150 line 17. Kṣemarāja quotes it in SvTu ad 3/174 and ad 4/67. The entire verse, which Kṣemarāja states is from the Kirana, is quoted in the commentary on SvT 4/1 19ab. It reads: anekabhavikar karma dagdharhi bījam\* ivāṇubhiḥ | bhaviṣyad api saṁhruddhaṁi yenedaṁ tad dhi bhogataḥ ॥ \*Goodall (Kiraṇa: p. 384 n 645): ‘\[instead of dagdhari bījaṁ\] we must read dagdhabījaṁ in compound and understand it as a bahuvrīhi \[attributive compound qualifying karma\]. Admittedly only one manuscript has this; but it is supported by the commentaries of Rāmakanṭtha and Tryambakaśambhu and by the commentary on Śataratnasaṁgraha 88 (p. 91), and the expression has parallels in other Tantras, for example, Svacchanda 4/ 14864." “The action of many existences has its seeds burnt, so to speak (iva), by mantra (in initiation). Future (action) too is blocked; (but) that by which this (body is sustained can be destroyed only) by experience (of its consequences).’ KiT 1/6/20 (Goodall’s translation 1998: 383-4) It is useful to quote the verse that follows also, along with Rāmakantha’s commentary (translation by Goodall, Kirana p. 383-384): \*(Only) when the body collapses (does the soul attain) liberation. Otherwise (initiation) which gives immediate liberation (sadyonirvāṇadā) may also be effected by mantra-souls (anubhiḥ) that are eternally established, and therefore they link (souls) to Śiva.’ (Kirana VP 6/21) Rāmakanṭha: ‘Now (tāvat), in the initiation that grants immediate liberation, it is (here) taught that all previous accumulated actions without exception are destroyed
+
+    through experience (bhoga) before their time, even without producing their (ordinary expected) fruit, by the power of the mantras. But in the initiation which does not grant immediate liberation, because the soul wishing to receive immediate liberation is not entitled to it, the mantras are not used to destroy the body, but rather to protect it, because that body of past actions by which this body is sustained (ārabdham) and the way in which it is sustained, can be destroyed only by experiencing, not by this (power of mantras). As for that body of action called ‘future’ because it is to be performed after initiation, it is taught (here) that it is blocked by this (power of the mantras), because it lacks the strength to leave traces of itself (from which results would spring), since actions (in order to have their results) must leave traces in matter (prakṛtau). And so, all actions without exception are rendered such that their seeds are burnt, with regard to (their capacity to affect) the initiate, by the power of the mantras; they do not again become fit to keep their traces. And in initiation that grants immediate liberation, although these (actions) are destroyed because of the power of the propitiated mantras, it is taught that the body remains sustained, as with the spinning of the (potter's) wheel. Thus, the fault that the body should die absolutely after initiation does not apply (in either case).”
 
 *[p. 114]* ^pg131
 
-Again, the initiation that bestows immediate liberation, for example, is imparted when death is immanent. In that case also it is because the fruit (of Karma) is practically exhausted, thus it is possible to purify the (remaining) Karma, which is not propense (to fruition), and so there is no defect (in our view). It is said (further ahead): 
+Again, the initiation that bestows immediate liberation, for example, is imparted when death is immanent. In that case also it is because the fruit (of Karma) is practically exhausted,[^255] thus it is possible to purify the (remaining) Karma, which is not propense (to fruition), and so there is no defect (in our view). It is said (further ahead): 
 
-‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should cause him to quit (the body), and then conjoin him to the Supreme Reality. ’ 
+‘having observed that the disciple is consumed by old age and is severely afflicted by illness, (the teacher) should cause him to quit (the body), and then conjoin him to the Supreme Reality.’[^256] 
 
 The Karma that determines lifespan and caste, that initiates (the existence of) the body, should not be blocked, because it has begun to take effect. However, the present or past (Karma accrued) in (this) body will give rise to (its) effect, that is, just the experience of (its) consequence (bhoga), in (some) days, months or years. Is it possible to block that or not? With this doubt in mind, he says: 
 
@@ -1043,19 +1111,21 @@ The Karma that determines lifespan and caste, that initiates (the existence of) 
 tatraiva dehe yat tv anyad adyagari vā purātanam || 131 ||
 karma taj jṁñānadīkṣādyaiḥ śandhīkartuṁ prasahyate | 
 
-The other (kind of) Karma (that has not started to take its effect), whether it is present (action) or past, can be neutralized there, in that same body, by the initiation of knowledge?” and other (means). (131cd-132ab) 
+The other (kind of) Karma (that has not started to take its effect), whether it is present (action) or past, can be neutralized there, in that same body, by the initiation of knowledge[^257] and other (means). (131cd-132ab) 
 
 #### Viveka on 9.131–132
 
-through experience (bhoga) before their time, even without producing their (ordinary expected) fruit, by the power of the mantras. But in the initiation which does not grant immediate liberation, because the soul wishing to receive immediate liberation is not entitled to it, the mantras are not used to destroy the body, but rather to protect it, because that body of past actions by which this body is sustained (ārabdham) and the way in which it is sustained, can be destroyed only by experiencing, not by this (power of mantras). As for that body of action called ‘future’ because it is to be performed after initiation, it is taught (here) that it is blocked by this (power of the mantras), because it lacks the strength to leave traces of itself (from which results would spring), since actions (in order to have their results) must leave traces in matter (prakṛtau). And so, all actions without exception are rendered such that their seeds are burnt, with regard to (their capacity to affect) the initiate, by the power of the mantras; they do not again become fit to keep their traces. And in initiation that grants immediate liberation, although these (actions) are destroyed because of the power of the propitiated mantras, it is taught that the body remains sustained, as with the spinning of the (potter's) wheel. Thus, the fault that the body should die absolutely after initiation does not apply (in either case).” 25 dattaprāyaphalatvāt “because the fruit has virtually (all) been given’. \[illegible\] Abhinava quotes these lines below in 16/182 and 19/8, telling us both times that they are from the Gahvaratantra. Jayaratha quotes this verse again in TĀv ad 13/236-238. Kṣemarāja quotes it SvTu ad 4/148cd-149.
+[^255]: dattaprāyaphalatvāt “because the fruit has virtually (all) been given’.
+
+[^256]: \[illegible\] Abhinava quotes these lines below in 16/182 and 19/8, telling us both times that they are from the Gahvaratantra. Jayaratha quotes this verse again in TĀv ad 13/236-238. Kṣemarāja quotes it SvTu ad 4/148cd-149.
 
 *[p. 115]* ^pg132
 
-‘The other (kind of Karma)’ is the present one,” that has not started to have effect, (and so) ‘can be neutralized’. The meaning is that it can be destroyed by eliminating its competence (yogyatā) to bear fruit. The general rule is that ‘only (the Karma) that has begun (to take effect) (prārabdha) should not be purified.” Thus, because this is not said to be a special (case) in this way, one does not do so (i.e. desist from eliminating it). ‘Other (means)’ are Mantras and medicinal herbs. (Concerning) that it is said: 
+‘The other (kind of Karma)’ is the present one,[^258] that has not started to have effect, (and so) ‘can be neutralized’. The meaning is that it can be destroyed by eliminating its competence (yogyatā) to bear fruit. The general rule is that ‘only (the Karma) that has begun (to take effect) (prārabdha) should not be purified.’[^259] Thus, because this is not said to be a special (case) in this way,[^260] one does not do so (i.e. desist from eliminating it). ‘Other (means)’ are Mantras and medicinal herbs. (Concerning) that it is said: 
 
 ‘Those (Karmas) which are said to be incidental (āgantu) here are pacified by medicinal herbs, the recitation of Mantras and the offering of 
 
-oblations.” 
+oblations.’[^261] 
 
 The employment of mercury for medical purposes (rasāyana) and the like can assist the Karma already operant that determines a lifespan, so that one who (lives) for a long time may be intent on carrying out (his chosen) tasks without interruption. In this way, those who are intent (on doing so) may conquer, that is, impede for a while, (their) appointed time of death (kālamṛtyu), although it must necessarily happen. That is said (in the following verse): 
 
@@ -1067,7 +1137,15 @@ that
 
 instigates the commencement (of its consequences) (ārambhakakarman). As such, (although) unseen, (that power functions) for (an outer visible) purpose, that can also be accomplished by (other outer means) such as medicinal herbs. (If someone has little faith that this is possible), what faith can there be in that when the purpose is also unseen (as is the case with the removal of Karma in the course of initiation)? Thus, one should not say “what is the use of initiation?” (but rather believe that it is effective). Medicinal herbs and the like do nothing new (and miraculous) that should lead to a lack of faith (in their efficacy, nor does initiation). So enough of this extensive (discussion). 
 
-2357 Concerning the initiation of knowledge (jñānadīkṣā), see below, 16/249, 304cd- 306ab. 28 Read adya for sadya. 29 SyT 4/141d, quoted above, TĀv ad 9/130cd-13 lab, see note there. 29 There are special cases when this general rule does not apply. An example is the initiation of a dying man. But here no such special provision is made, and so the general rule applies. In other words, the Karma that can be neutralized is one that has not begun to take effect, not the one that has begun to do so. %! Read with MS Ñ -pradānaiś for -pradhānaií.
+[^257]: Concerning the initiation of knowledge (jñānadīkṣā), see below, 16/249, 304cd- 306ab.
+
+[^258]: Read adya for sadya.
+
+[^259]: SyT 4/141d, quoted above, TĀv ad 9/130cd-13 lab, see note there.
+
+[^260]: There are special cases when this general rule does not apply. An example is the initiation of a dying man. But here no such special provision is made, and so the general rule applies. In other words, the Karma that can be neutralized is one that has not begun to take effect, not the one that has begun to do so.
+
+[^261]: Read with MS Ñ -pradānaiś for -pradhānaií.
 
 *[p. 116]* ^pg133
 
@@ -1112,7 +1190,7 @@ What is the authority here (for this view)? With this question in mind, he says:
 
 \[illegible\] ca Śrīpūrve ‘hānādānaḥ sarvadṛg ulvaṇaḥ ॥ 134 ॥ muhūrtān nirdahet sarvań dehastham \[illegible\] kṛtam | 
 
-It is said in the venerable Mālinīviyajottara that he who sees all things and does not take up or reject (anything) and is powerful, should burn up (in an auspicious) moment all (the residual traces of what) he has done (that he should not have done) and what he has not done (that he should have done) present in the body. (134cd-135ab) 
+It is said in the venerable Mālinīviyajottara[^262] that he who sees all things and does not take up or reject (anything) and is powerful, should burn up (in an auspicious) moment all (the residual traces of what) he has done (that he should not have done) and what he has not done (that he should have done) present in the body. (134cd-135ab) 
 
 #### Viveka on 9.134–135
 
@@ -1136,7 +1214,7 @@ saṅkoca eva sānena so ‘pi dehaikatāmayaḥ || 137 ॥
 
 (The expression) ‘present in the body’ refers to consciousness itself which, by (its) freedom, has assumed a state of identity with the body. The Karma present there (within embodied consciousness) is burnt away by abandoning the latent impression (vāsanā) (which brings about this) oneness with the body. This is brought about by (realizing) one’s own 
 
-% Read śrīpūrve for śrīpare. This emendation is confirmed because 135ab (from ‘burns up’ onwards) is a literal citation of MV 18/21ab.
+[^262]: Read śrīpūrve for śrīpare. This emendation is confirmed because 135ab (from ‘burns up’ onwards) is a literal citation of MV 18/21ab.
 
 *[p. 118]* ^pg135
 
@@ -1146,7 +1224,7 @@ nature as all things in the undivided, pervasive, eternity (of consciousness). T
 
 (It is) ‘consciousness itself’. The sense is that all empirical existents are the (abounding) expanse (sphāra) of (pure) consciousness. ‘(The Karma) present there’ is firmly established in consciousness conditioned by the body. This is the meaning. Such is the burning away of Karma, namely, the subordinate state of the latent impression of identification with the body (dehāhaṁbhāva), because the notion of one’s own identity (ātmabhimāna) within consciousness that dwells (within its) identity as all things is primary. This is (the realisation of) ‘one’s own nature as all things’. It is not logically possible for there to be any latent impression of the body etc. as separate (from consciousness) within the conscious nature, which is the one, nondual ultimate reality (paramārtha) that is eternal and (all-)pervasive. And that (latent impression exists) when there is a contracted (state of 60 usness), and (that) contraction is one with the body etc. So it is rightly said that by generating everything in a state at one with consciousness, Karma is burnt away. As is sung (in the Bhagavadgīta), with this (same) intended meaning: 
 
-‘Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, whatever austerity you practice, O Kaunteya, do it as an offering to Me. ”” 
+‘Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, whatever austerity you practice, O Kaunteya, do it as an offering to Me.’[^263] 
 
 Concluding this (teaching), he introduces another: 
 
@@ -1157,20 +1235,22 @@ Concluding this (teaching), he introduces another:
 ततः ्वद्धसंस्कारास्ते यथोचितभागिनः ।
 ब्र्मादिस्थावरान्तेऽस्मिन् संसरन्ति पुनः पुनः ॥ १३९ ॥
 
-etat kārmamalaṁ proktaḥ?” yena sākam layākalāḥ |
+etat kārmamalaṁ proktaḥ[^264] yena sākam layākalāḥ |
 syur guhāgahanāntahsthāḥ suptā iva sarīsṛpāḥ ॥ 138 ॥
 tataḥ prabuddhasaṁiskārās te yathocitabhāginaḥ |
 brahmādisthāvarānte ‘smin sańisaranti punaḥ punaḥ || 139 ॥ 
 
 This is said to be Karmic impurity with which the Dissolution Deconditioned (pralayākala) subjects are associated. Like sleeping serpents, they reside deep in the abyss of the cave (of Māyā). Then, when their latent (karmic) impressions are awakened, they reap their appropriate 
 
-%3 BhGT 9/27. \[illegible\] Note the gender change here from the regular masculine of malaḥ to the neuter. There are several instances.
+[^263]: BhGT 9/27.
+
+[^264]: \[illegible\] Note the gender change here from the regular masculine of malaḥ to the neuter. There are several instances.
 
 *[p. 119]* ^pg136
 
 consequences and transmigrate repeatedly in this (universe) ranging from 
 
-(the world of) Brahmā down to (that of) plants.” (138-139) 
+(the world of) Brahmā down to (that of) plants.[^265] (138-139) 
 
 #### Viveka on 9.138–139
 
@@ -1178,7 +1258,7 @@ That ‘with which’ (they are associated) is Karmic impurity. Dissolution Deco
 
 ‘At the end of his Day, the universe dissolves into Māyā, and at the end of the Night, which is the same length (as the day), Gahaneśa creates them 
 
-again.” 
+again.’[^266] 
 
 Surely (one may ask), do they all without distinction travel downwards, or (do they travel) upwards also? With this doubt in mind, he says: 
 
@@ -1191,7 +1271,9 @@ bhāvanāpariniṣpattim aprāpya pralayai gatāḥ ॥ 140 ॥
 mahāntari te tathāntahsthabhāvanāpākasauṣthavāt |
 mantratvaṁ pratipadyante citrāc citraḥ ca karmataḥ ॥ 141 ॥ 
 
-%5 Vijñānakevalin subjects have just the one basic āṇavamala. Pralayākala subjects have two malas — Karma and Ānava. Neither of the two subjects have Māyīyamala, as they reside in principles that are above Māyā, experiencing the state in which the phenomenal universe is dissolved away at the end of a cycle of creation. This state of withdrawal (saṁhāra) is the Night. When the period of withdrawal ends, a new Day begins. Jayaratha quotes the following verse in this regard: ‘At the end of that Day, the Universe dissolves into Māyā; when this Night comes to an end, Gahaneśa creates (it) once again.” The Vijñānākalas at that time progress upwards into the pure principles (śuddha tattva), where their Āṇavamala is also exhausted, with just the latent traces of it remaining. Some Pralayākalas ‘wake up’ instead back on the lower sphere of the impure principles, and are reborn in physical bodies. Some, whose Karma has exhausted, may rise — ‘wake up’ — at the pure level. Pralayākala escape karmic retribution only until the next cosmic dissolution. >\^ Above, 6/155cd-156ab (155).
+[^265]: Vijñānakevalin subjects have just the one basic āṇavamala. Pralayākala subjects have two malas — Karma and Ānava. Neither of the two subjects have Māyīyamala, as they reside in principles that are above Māyā, experiencing the state in which the phenomenal universe is dissolved away at the end of a cycle of creation. This state of withdrawal (saṁhāra) is the Night. When the period of withdrawal ends, a new Day begins. Jayaratha quotes the following verse in this regard: ‘At the end of that Day, the Universe dissolves into Māyā; when this Night comes to an end, Gahaneśa creates (it) once again.” The Vijñānākalas at that time progress upwards into the pure principles (śuddha tattva), where their Āṇavamala is also exhausted, with just the latent traces of it remaining. Some Pralayākalas ‘wake up’ instead back on the lower sphere of the impure principles, and are reborn in physical bodies. Some, whose Karma has exhausted, may rise — ‘wake up’ — at the pure level. Pralayākala escape karmic retribution only until the next cosmic dissolution.
+
+[^266]: Above, 6/155cd-156ab (155).
 
 *[p. 120]* ^pg137
 
@@ -1199,29 +1281,43 @@ mantratvaṁ pratipadyante citrāc citraḥ ca karmataḥ ॥ 141 ॥
 
 Again, those who have started to practice meditation (bhāvanā) in order to destroy the latent impressions of their Karma, (but are themselves) dissolved away in the great destruction up to unmanifest Nature (mahat) (at the end of a cosmic cycle) before their meditative practice has reached perfection, assume the diverse states of the Mantra (subjects) brought about by their diverse Karma, and according to the degree in which the inner (impression) of their meditative practice 
 
-(bhāvanā has reached maturity. (140-141) 
+(bhāvanā)[^267] has reached maturity. (140-141) 
 
 #### Viveka on 9.140–141
 
-(This happens) ‘before their meditative practice has reached perfection’. The sense (of saying this is that,) had they achieved that, their status would be that of Consciousness Deconditioned (perceivers) (vijñānākala). ‘The inner (impression)’ (these perceivers have) is the latent impression (of past Karma) (they) possess (dattavāsānā), according to the (degree in which their) latent trace of Karma is destroyed. (The word) ‘diverse’, in accord with the maxim of the eye of a crow, qualifies both Karma and the degree in which the inner (impression) of their meditative practice (bhāvanā) has reached maturity.” Thus, it is said that the state of the Mantra (perceiver) is diverse, according to whether it is stained (sāñjana) or stainless (nirañjana). The sense is that the effect is various, according to the diversity of the cause. It is not possible (to explain this diversity) otherwise, as the Dissolution Deconditioned (perceivers) are the material cause (upādāna) of the Mantra (perceivers). As they say: 
+(This happens) ‘before their meditative practice has reached perfection’. The sense (of saying this is that,) had they achieved that, their status would be that of Consciousness Deconditioned (perceivers) (vijñānākala). ‘The inner (impression)’ (these perceivers have) is the latent impression (of past Karma) (they) possess (dattavāsānā), according to the (degree in which their) latent trace of Karma is destroyed. (The word) ‘diverse’, in accord with the maxim of the eye of a crow,[^268] qualifies both Karma and the degree in which the inner (impression) of their meditative practice (bhāvanā) has reached maturity.[^269] Thus, it is said that the state of the Mantra (perceiver) is diverse, according to whether it is stained (sāñjana) or stainless (nirañjana). The sense is that the effect is various, according to the diversity of the cause. It is not possible (to explain this diversity) otherwise, as the Dissolution Deconditioned (perceivers) are the material cause (upādāna)[^270] of the Mantra (perceivers). As they say: 
 
 ‘The being of the Mantra (perceivers) is graced by that of the Dissolution Deconditioned (perceivers).\* 271 
 
-Moreover, it is said in the Mālinīvijayottara" 
+Moreover, it is said in the Mālinīvijayottara[^271] 
 
 that the material cause of the Mantramaheśvara (perceivers) are the Consciousness Deconditioned ones 
 
-(perceivers). Thus, as the remaining ones, it is established that the Dissolution Deconditioned (perceivers) are the material cause of the Mantra (perceivers).?””? 
+(perceivers). Thus, as the remaining ones, it is established that the Dissolution Deconditioned (perceivers) are the material cause of the Mantra (perceivers).[^272] 
 
-20 See above 4/14 and Singh 1989: 37. 2% The crow is believed to have only one eye, that shifts from one side of its head to the other as it moves it. The analogy (nyāya) refers to a quality that is applicable equally to two or more things, alternately or together. 2% In other words, the diverse states of the Mantra subjects which the Dissolution Deconditioned perceivers become is brought about both by their prior diverse Karma and by the diverse degree in which the inner (impression) of their meditative practice (bhāvanā) has reached maturity. 20 Read pralayākalopādānatve for pralayākalopādanatve. The term ‘upādāna’ denotes the material cause of something, as for example, the clay of a jar. The Mantra perceivers are ‘made’ from the Dissolution Deconditioned perceivers, in the sense that the latter evolve into the former. %71 Tt seems from this statement that the line Jayaratha has quoted is drawn from the MV, but it cannot be traced in the printed edition, nor can the rest Jayaratha says. %7? The impure level is the basis of the pure, in the sense that it is the ‘contracted’ or limited form at the equivalent pure level. There are several examples of this principle in differing contexts. We have observed it in the formation of the consonants from the vowels. Normally, as a mirror image of the pure level, the impure level is reversed with respect to it. Thus, whereas the vowel series begins with Anuttara, the highest principle,
+[^267]: See above 4/14 and Singh 1989: 37.
+
+[^268]: The crow is believed to have only one eye, that shifts from one side of its head to the other as it moves it. The analogy (nyāya) refers to a quality that is applicable equally to two or more things, alternately or together.
+
+[^269]: In other words, the diverse states of the Mantra subjects which the Dissolution Deconditioned perceivers become is brought about both by their prior diverse Karma and by the diverse degree in which the inner (impression) of their meditative practice (bhāvanā) has reached maturity.
+
+[^270]: Read pralayākalopādānatve for pralayākalopādanatve. The term ‘upādāna’ denotes the material cause of something, as for example, the clay of a jar. The Mantra perceivers are ‘made’ from the Dissolution Deconditioned perceivers, in the sense that the latter evolve into the former.
+
+[^271]: Tt seems from this statement that the line Jayaratha has quoted is drawn from the MV, but it cannot be traced in the printed edition, nor can the rest Jayaratha says.
+
+[^272]: The impure level is the basis of the pure, in the sense that it is the ‘contracted’ or limited form at the equivalent pure level. There are several examples of this principle in differing contexts. We have observed it in the formation of the consonants from the vowels. Normally, as a mirror image of the pure level, the impure level is reversed with respect to it. Thus, whereas the vowel series begins with Anuttara, the highest principle,
+
+    the consonants begin with Earth, which is the lowest. In accord with this logic, we would expect the Mahāmantreśvara (= Mantramaheśvara) perceivers to be the counterparts at the pure level of the Sakalas, at the impure. The counterparts of the Pralayākala perceivers. One wonders whether to emend the text here or whether Jayaratha is mistaken.
 
 *[p. 121]* ^pg138
 
 Now he concludes the main point. 
 
-The Nature of Māyā’” 
+The Nature of Māyā[^273] 
 
-the consonants begin with Earth, which is the lowest. In accord with this logic, we would expect the Mahāmantreśvara (= Mantramaheśvara) perceivers to be the counterparts at the pure level of the Sakalas, at the impure. The counterparts of the Pralayākala perceivers. One wonders whether to emend the text here or whether Jayaratha is mistaken. \[illegible\] This subject is discussed from here up to verse 166ab, cf. MVV 2/207-216 which is as follows: māyā ca nāma viśvasya yā kāraṇam iti sthitā | sā dharaṇyantatattvāśagarbhā nityā yadi sphutam I| 207 ॥ pralayo na kadācit syān nanu sa vyaktibhāvataḥ \[vyaktyabhāveti pāthaḥ\] \\ vyaktiń nāma na imo vijñānar grāhyatā yataḥ ॥ 208 ॥ tadīśvaraparajñṁñānagrāhyatāsti sadātanī | tasyām avidyamānāyām īśvaraḥ kāraṇari kutaḥ ॥ 209 ॥ ‘Māyā abides as the cause of the universe. It contains (all its) aspects within itself, ending with the principle of Earth. If it were to be perpetually apparent (sphuṭa), cosmic destruction (pralaya) would never occur. Surely, (someone may object that that takes place) because it manifests (as such, and so that too is a kind of manifestation) (vyaktibhāva). (Our response to that objection is that) we know of no such thing called ‘manifestation’ (vyakti) (out of unmanifest Māyā), for objectivity is (ultimately) consciousness (vijñāna), and so the objectivity (grāhyatā) of the supreme knowledge of the Lord of that (universe) is eternal. How can the Lord be the cause of its absence? (207-209) sphuṭaṁ prakurute kumbhaṁ tadvad īśe bhaviṣyati | maivam antarbahīrūpakaraṇapravibhedataḥ ॥ 210 ॥ sphuṭāsphuṭādivijñānami yuktan kumbhākṛti sphuṭam | Tśvarasya sphuṭodārapūrvavijñānaśālinaḥ ॥ 211 ॥ ko na jñāto bhaved bhāgo yatrāpi vyaktyapekṣitā | (The opponent rejoins:) (the potter) makes the jar apparent (sphuṭa). It will be like that (also) within the Lord. (Our reply is that) no! that is not so, for that would entail that there is a difference between internal and external instrumental causes. (What is) sound (yukta), is that there is consciousness (that is variously) apparent (sphuṭa) or not (asphuṭa) etc. The form of the jar is clearly apparent. What part (bhāga) of the Lord, Who possesses the prior consciousness (vijñāna), which is clearly apparent and noble, is not known, even where that (part) depends on (its) manifestation? (210-212ab) satkāryavādinām deśe kāranṇe ‘pi sphuṭaṁ sthitam || 212 ॥ viśvam ity api māyāyāṁ sphuṭtaṁn syād asamañjasam | vyāpakāś ca śivātmānas tattvaiḥ \[illegible\] parasparam || 213 ॥ kathaṁ ca nāma vidyantām vyāpakatvatirohiteḥ | vikāsaḥ paramo vyāptiḥ saṁvido bheda ucyate ॥ 214 ॥ According to those who maintain that the effect is pre-existent in the cause (satkāryavādin), the universe clearly abides within the place which is its cause, and so it should also be apparent within Māyā. (According to us this is) incorrect (and illogical).
+[^273]: \[illegible\] This subject is discussed from here up to verse 166ab, cf. MVV 2/207-216 which is as follows: māyā ca nāma viśvasya yā kāraṇam iti sthitā | sā dharaṇyantatattvāśagarbhā nityā yadi sphutam I| 207 ॥ pralayo na kadācit syān nanu sa vyaktibhāvataḥ \[vyaktyabhāveti pāthaḥ\] \\ vyaktiń nāma na imo vijñānar grāhyatā yataḥ ॥ 208 ॥ tadīśvaraparajñṁñānagrāhyatāsti sadātanī | tasyām avidyamānāyām īśvaraḥ kāraṇari kutaḥ ॥ 209 ॥ ‘Māyā abides as the cause of the universe. It contains (all its) aspects within itself, ending with the principle of Earth. If it were to be perpetually apparent (sphuṭa), cosmic destruction (pralaya) would never occur. Surely, (someone may object that that takes place) because it manifests (as such, and so that too is a kind of manifestation) (vyaktibhāva). (Our response to that objection is that) we know of no such thing called ‘manifestation’ (vyakti) (out of unmanifest Māyā), for objectivity is (ultimately) consciousness (vijñāna), and so the objectivity (grāhyatā) of the supreme knowledge of the Lord of that (universe) is eternal. How can the Lord be the cause of its absence? (207-209) sphuṭaṁ prakurute kumbhaṁ tadvad īśe bhaviṣyati | maivam antarbahīrūpakaraṇapravibhedataḥ ॥ 210 ॥ sphuṭāsphuṭādivijñānami yuktan kumbhākṛti sphuṭam | Tśvarasya sphuṭodārapūrvavijñānaśālinaḥ ॥ 211 ॥ ko na jñāto bhaved bhāgo yatrāpi vyaktyapekṣitā | (The opponent rejoins:) (the potter) makes the jar apparent (sphuṭa). It will be like that (also) within the Lord. (Our reply is that) no! that is not so, for that would entail that there is a difference between internal and external instrumental causes. (What is) sound (yukta), is that there is consciousness (that is variously) apparent (sphuṭa) or not (asphuṭa) etc. The form of the jar is clearly apparent. What part (bhāga) of the Lord, Who possesses the prior consciousness (vijñāna), which is clearly apparent and noble, is not known, even where that (part) depends on (its) manifestation? (210-212ab) satkāryavādinām deśe kāranṇe ‘pi sphuṭaṁ sthitam || 212 ॥ viśvam ity api māyāyāṁ sphuṭtaṁn syād asamañjasam | vyāpakāś ca śivātmānas tattvaiḥ \[illegible\] parasparam || 213 ॥ kathaṁ ca nāma vidyantām vyāpakatvatirohiteḥ | vikāsaḥ paramo vyāptiḥ saṁvido bheda ucyate ॥ 214 ॥ According to those who maintain that the effect is pre-existent in the cause (satkāryavādin), the universe clearly abides within the place which is its cause, and so it should also be apparent within Māyā. (According to us this is) incorrect (and illogical).
+
+    (The individual) souls are pervasive and, (essentially) Śiva by nature, are (related) mutually (to one another), along with the reality principles (fattva). (Pray tell me, their) pervasive state is obscured, and so how would they be known? (In reply to this question, we say that) the supreme pervasion is the expansion of consciousness, and that is said to be unity (abheda). (212cd-214) \[illegible\] kañcukavrātari tathā karaṇasaricayaḥ | m itaḥ pūrvam eva kāryavargaś ca carcitaḥ ॥ 215 ॥ yāvac chivapadādhyāsavandhyaṁ viśvaṁ na visphuret | tatsvātantryakathāmātram etad ity avadhāryatām || 216 ॥ The aggregate of obscuring coverings (kañcuka) is made of Māyā, 9 the aggregate of instrumental means (of perception and action). This has been expounded (vicarita) previously, as has the category of the resultant (gross material) products (kāryavarga). (The conclusion is that,) as long as the universe is devoid of the superimposition (adhyāsa) of Śiva’s plane (pada), it would not be manifestly apparent. Understand that (all this discussion) is only talk concerning (Śiva\`s) freedom.” (215-216)
 
 *[p. 122]* ^pg139
 
@@ -1239,17 +1335,17 @@ This Karmic Impurity flows along the path within Māyā. Its fundamental (materi
 
 (The soul’s basic impurity) is the ‘fundamental cause’ (of Karma), because it makes each of (its) powers (sāmarthya) manifest. The sense is that it has no capacity at all to give rise to its effects without its assistance (as an auxiliary cause). As is said: 
 
-‘The power Karma possesses to gives rise to the birth (of the soul in an embodied state) is never without (the soul’s fundamental) Impurity. An individual soul (anu) is nowhere seen to be born free of ignorance.” 
+‘The power Karma possesses to gives rise to the birth (of the soul in an embodied state) is never without (the soul’s fundamental) Impurity. An individual soul (anu) is nowhere seen to be born free of ignorance.’[^274] 
 
 Surely (one may ask), fine, let it be (as you say, but) then what is said to be the disturbed state introduced previously (in the following words): 
 
-(The individual) souls are pervasive and, (essentially) Śiva by nature, are (related) mutually (to one another), along with the reality principles (fattva). (Pray tell me, their) pervasive state is obscured, and so how would they be known? (In reply to this question, we say that) the supreme pervasion is the expansion of consciousness, and that is said to be unity (abheda). (212cd-214) \[illegible\] kañcukavrātari tathā karaṇasaricayaḥ | m itaḥ pūrvam eva kāryavargaś ca carcitaḥ ॥ 215 ॥ yāvac chivapadādhyāsavandhyaṁ viśvaṁ na visphuret | tatsvātantryakathāmātram etad ity avadhāryatām || 216 ॥ The aggregate of obscuring coverings (kañcuka) is made of Māyā, 9 the aggregate of instrumental means (of perception and action). This has been expounded (vicarita) previously, as has the category of the resultant (gross material) products (kāryavarga). (The conclusion is that,) as long as the universe is devoid of the superimposition (adhyāsa) of Śiva’s plane (pada), it would not be manifestly apparent. Understand that (all this discussion) is only talk concerning (Śiva\`s) freedom.” (215-216) \[illegible\] BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
+[^274]: \[illegible\] BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
 
 *[p. 123]* ^pg140
 
 ‘The craving for worldly experience has been aroused by the Lord’s 
 
-will 
+will[^275] 
 
 With this doubt in mind, he says: 
 
@@ -1261,9 +1357,9 @@ With this doubt in mind, he says:
 kṣobho ‘sya lolikākhyasya sahakāritayā sphuṭam |
 tiṣthāsāyogyataunmukhyam \[illegible\] \[illegible\] ca tat ॥ 143 I| 
 
-The disturbance (kṣobha) (brought about by) this (Impurity) called ‘craving’ (lolikā) is its clearly evident propensity (aunmukhya) to act” as a concomitant cause (of Karmic Impurity). That too is due to the lord’s 
+The disturbance (kṣobha) (brought about by) this (Impurity) called ‘craving’ (lolikā)[^276] is its clearly evident propensity (aunmukhya) to act[^277] as a concomitant cause (of Karmic Impurity). That too is due to the lord’s 
 
-will.” (143) 
+will.[^278] (143) 
 
 #### Viveka on 9.143
 
@@ -1291,4 +1387,10 @@ anavo nāma naivānyat prakāśātmā maheśvaraḥ || 144 || cidacidrūpatābh�
 
 The individual souls (anu) are none other than Maheśvara (the Great Lord) Who is the Light (of consciousness). Manifesting (as a mixture 
 
-75 Above, 9/618. 6 See above 9/84cd-86. 2" tiṣthāsāyogyatā literally means (intent) “to be fit to wish to abide’. 78 See MV 1/24cd and above, 9/61.
+[^275]: Above, 9/618.
+
+[^276]: See above 9/84cd-86.
+
+[^277]: tiṣthāsāyogyatā literally means (intent) “to be fit to wish to abide’.
+
+[^278]: See MV 1/24cd and above, 9/61.

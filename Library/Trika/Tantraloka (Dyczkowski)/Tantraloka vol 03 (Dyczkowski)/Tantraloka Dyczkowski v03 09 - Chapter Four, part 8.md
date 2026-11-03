@@ -391,7 +391,7 @@ In the same way, this (world, which is immanent) Being (sat) (S)[^734] that is r
 
 [^733]: Reflective awareness is the aesthetically arousing innate nature of consciousness. The experience of consciousness is the experience of beauty, which is wonder.
 
-[^734]: \[illegible\] These lines refer to the three letters of the seed-syllable of Parā, that is, SAUH. They are noted in brackets.
+[^734]: These lines refer to the three letters of the seed-syllable of Parā, that is, SAUH. They are noted in brackets.
 
 [^735]: The Upaniṣads similarly say that ‘this universe is rooted in the Brahman’ (brahmamūlam idar jagat). The double meaning may well be intended.
 
@@ -663,7 +663,7 @@ prāṇyād vā mṛśate vāpi sa sarvo ‘sya japo mataḥ ॥ 194 ॥
 
 #### Viveka on 4.194
 
-[^779]: \[illegible\] Above, 3/223ab.
+[^779]: Above, 3/223ab.
 
 [^780]: In 4/180cd-181ab, Abhinava introduced the topic of the interiorization of ritual. This was followed by a digression from 181cd-182ab to discuss the vitality of Mantra, and how that is represented by the flow of the power of consciousness through the seed-syllables of emanation and withdrawal. From 194, he continues to examine the interiorization of the elements of ritual, namely, japa (194), dhyāna (195-199), mudrā (200), and oblation (201-202). The Tantras and their exegetes repeatedly teach such interiorizations of ritual. But even so, we rarely find the identifications they make with inner processes or states to be the same, although they may, of course, be similar. It is instructive and interesting to compare here what two other related sources say. One is a passage that comes towards the end of the Śivadṛṣṭi by Somānanda, the teacher of Utpaladeva of the Pratyabhijñā school. The other is the Vijñānabhairava. See above note 4,359 to TĀ 4/122cd-123ab for a full translation of ŚDr 7/78-106, where the interior equivalents of worship are described, presented along with passages from the Vijñānabhairava.
 
@@ -773,7 +773,7 @@ Now he says that the unconditioned (and undivided) form (of consciousness) manif
 yas tu \[illegible\] na phala nāma 1 \[illegible\] |
 tasya viśvākṛtir devī sā cāvacchedavarjanāt ॥ 199 ॥ 
 
-[^791]: \[illegible\] Read tathātvenāsya for tattvenāsya.
+[^791]: Read tathātvenāsya for tattvenāsya.
 
 [^792]: Above, 4/196cd.
 
@@ -906,7 +906,7 @@ According to (the following) words, there is no fixed rule (that only some parti
 
 [^805]: Literally ‘one who cooks (and eats) dogs’.
 
-[^806]: \[illegible\] This verse looks as if it is drawn from the Bhagavadgītā. There, as here in this verse, Kṛsna repeatedly refers to ‘my devotee’ (madbhakta) as being of special interest to him. It is a clear stylistic feature of the manner in which he expresses himself. See for example BhGī 6/16 (of the Kashmiri recension), 7/23, and 18/55. Similarly, the repeated insistence there, as in this verse, that caste distinctions are not important. What makes a person a Brahmin are his moral qualities, not birth. One of them is that he views all people equally without prejudice, and another is that devotion to Kṛṣṇa is paramount. Jayaratha does not tell us his source. It is possible that it is a lost verse from the Gītā, but this is unlikely if the reference here is to initiation. There is no evidence that at the time the \[illegible\] was redacted any developed system of initiation existed other than Vedic in the Sanskritic tradition. Whereas, on the contrary, it is a major distinguishing feature of the Tantras, the earliest of which postdate the Gīrā.
+[^806]: This verse looks as if it is drawn from the Bhagavadgītā. There, as here in this verse, Kṛsna repeatedly refers to ‘my devotee’ (madbhakta) as being of special interest to him. It is a clear stylistic feature of the manner in which he expresses himself. See for example BhGī 6/16 (of the Kashmiri recension), 7/23, and 18/55. Similarly, the repeated insistence there, as in this verse, that caste distinctions are not important. What makes a person a Brahmin are his moral qualities, not birth. One of them is that he views all people equally without prejudice, and another is that devotion to Kṛṣṇa is paramount. Jayaratha does not tell us his source. It is possible that it is a lost verse from the Gītā, but this is unlikely if the reference here is to initiation. There is no evidence that at the time the \[illegible\] was redacted any developed system of initiation existed other than Vedic in the Sanskritic tradition. Whereas, on the contrary, it is a major distinguishing feature of the Tantras, the earliest of which postdate the Gīrā.
 
 *[p. 307]* ^pg320
 
@@ -957,4 +957,4 @@ Just as the course of a horse driven here and there in various places, on level 
 
 ‘Just as a horse driven here and there in various places,” as is the playful gait of the vehicle, rocky or dusty etc. land, ‘on level ground or (up and down) hills and dales, (its course)’ circular or otherwise, ‘comes to be directed by’ the rider’s ‘will alone’ and is submissive to it. ‘Similarly, 
 
-[^809]: \[illegible\] Abhinava is explaining here how the higher forms of Trika ritual he has just described and the worship of the Trika deities lead to the attainment of supreme consciousness in the perspective of the Empowered Means, that is, the purification of thought. The Trika deities, as with those of other Tantric traditions, are variously fierce or peaceful and benign; by means of them consciousness, directed by the higher universal subjectivity operating through the individual, traverses the path to liberation, with its ups and down, terror and tranquillity, thus training his mind until it follows his will alone. In this way it abandons the false, rebellious notions of duality, with their pretence of a false independence which, far from being freedom, is really bondage. These notions, which embody and sustain the sense of difference, are fed by the contrast between one’s own will and that of universal consciousness. The former, seemingly free, is actually bound by that very freedom, which is wild and without direction. When that freedom, which is bondage, is reined in by the true freedom of consciousness, manifest through its energies in the moments and forms of its worship, notions no longer obscure the individual’s freedom; rather, of a piece with it, he becomes one with Bhairava, and shines as the supreme consciousness of Anuttara.
+[^809]: Abhinava is explaining here how the higher forms of Trika ritual he has just described and the worship of the Trika deities lead to the attainment of supreme consciousness in the perspective of the Empowered Means, that is, the purification of thought. The Trika deities, as with those of other Tantric traditions, are variously fierce or peaceful and benign; by means of them consciousness, directed by the higher universal subjectivity operating through the individual, traverses the path to liberation, with its ups and down, terror and tranquillity, thus training his mind until it follows his will alone. In this way it abandons the false, rebellious notions of duality, with their pretence of a false independence which, far from being freedom, is really bondage. These notions, which embody and sustain the sense of difference, are fed by the contrast between one’s own will and that of universal consciousness. The former, seemingly free, is actually bound by that very freedom, which is wild and without direction. When that freedom, which is bondage, is reined in by the true freedom of consciousness, manifest through its energies in the moments and forms of its worship, notions no longer obscure the individual’s freedom; rather, of a piece with it, he becomes one with Bhairava, and shines as the supreme consciousness of Anuttara.

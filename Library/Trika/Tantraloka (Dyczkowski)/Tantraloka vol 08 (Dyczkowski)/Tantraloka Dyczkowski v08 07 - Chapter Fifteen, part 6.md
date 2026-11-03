@@ -80,7 +80,7 @@ According to the saying, ‘that is the first moment (tuṭi) of the will’,[^5
 
 [^550]: The Five Causes generate the gross elements, and with them they body. Located in the subtle body, arranged along the axis of suṣumnā, they mark stages in the rise of the Kundalini of the vital breath. See above, note 8,823, and below 32/ 43-44ab.
 
-[^551]: \[illegible\] 1/8d, quoted ad 3/71 (7 lcd-72ab) as part of the ŚDr 1/7cd-8.
+[^551]: ŚDṛ 1/8d, quoted ad 3/71 (7 lcd-72ab) as part of the ŚDr 1/7cd-8.
 
 
 *[p. 209]* ^pg227
@@ -144,7 +144,7 @@ tad idan syād āsanatvena |
 
 [^554]Indeed, here (according to this view), knowledge, action and the will are said to be Siva. When the shattering (of oneness) which is 
 
-[^554]: \[illegible\] Verses 339-352ab are a summary of verses 15/239cd-338. Sanderson (1986: pp. 190-193) presents the following passage from 15/339 ff. as follows: “At the lowest level, the three powers of precognitive impulse, cognition, and action project objectivity as though it were outside them. In this projection, they establish fully unenlightened consciousness, appearing in their contraction as the three impurities (malāni), that contaminate the self. Precognitive impulse becomes intuition of essential limitedness (āṇavamalam = apūrṇamanyatā); cognition becomes the projection of divided plurality (māyīyaṁ malam = bhinnavedyaprathā); action becomes the impregnating consciousness with the impressions of its actions as good or bad, and therefore as karmically charged (karmaṁ malam = subhāśubhavāsanā). When this extrusion of objectivity subsists only as inactive, latent traces beneath the surface of seemingly contentless consciousness, then these three powers are manifest as the self in the next level, that of the Pralayākalas, ‘those Inert in Dissolution’. This level is itself divided into two. The first is analogous to dreamless but blissful sleep (savedyapralayākalatā) and the other to dreamless sleep completely void of sensation (apavedya pralayākalatā). In Utpaladeva’\*s fourfold division of the limited self (māyāparamātā), these are, respectively, the self as premental, internal sensation (prāṇapramātā), and the self as void (śŭnyapramā In the first, the Impurity of differentiated perception (māyṛyaṁ malam) persists; in the second, it is transcended, The Impurity of charged action (karmar malam) remains at both levels; for though there is no action here at all ~ the self is suspended in a state of inertia, the impressions of past actions remain, waiting to regenerate world-experience when the period of dissolution (pralaya) comes to an end. Above the Pralayākala-level, the three powers constitute themselves as the representation with the projection of the impure tattvas from māyā to earth (pṛthivī). The self here is therefore free of the Impurity of differentiated perception (māyïyari malam) and of the Impurity of charged actions (karmar malam), but its awareness, though pure, is completely passive. Still subject, like the lower levels, to the impurity of the intuition of limitedness (ānavaṁ malam = svātantrasyābodhaḥ), it hangs suspended between māyā at the summit of the impure universe and Gnosis (śuddhavidyā) at the beginning of the pure. It has yet to enter into the upward expansion of active power (svātantryam) which defines consciousness within the pure levels of the cosmos. As these three powers expand above the Vijñānākala level into the tṛattvas of Gnosis, Ivara and Sadāśiva (32TM to 34\*), they manifest themselves successively as the Mantras, Lords of Mantras (mantreśvarāḥ), and Great Lords of Mantras (mantramaheśvarāḥ). At these levels, the Impurity which remained in the preceding stage progressively evaporates. At the first level, the three powers form a mode of consciousness in which vast but internally differentiated segments of the universe flash into view. At the second and third levels, the nature of the subject-object relation is itself radically transformed. While in the Mantra-stage, the “I” perceives the object (“it”) as independently grounded (vyadhikaranam), here “T’-perception and “It’-perception (ahaṁdhīḥ, idaṁdhīḥ) are collocated and equated, with the difference between the two levels that, for the Lords of Mantras, it is the “It’-pole that is emphasized ~ the self equates itself with the universe, while for the Great Lords of Mantras, it is the “T’-pole — consciousness equates the universe with itself in the experience of a transcendental (all-inclusive) plurality-within-unity (bhedābheda). These six levels, from ordinary consciousness in the waking and dream states (sakalapramātṛtā) to that of the Great Lords of Mantras, are to be seen as pervaded by the three powers of the mandala in the portion of the trident which extends up to and includes the Sadāśiva-corpse. In the Sadāśiva level, that of the great Lords of Mantras, objectivity ("it"-ness, idantā) has not disappeared; it is merely withdrawn into the resonance of transcendental subjectivity. Above it, as the powers rise into the trifurcation of the trident, this element of plurality within Sadāśiva is imagined undergoing progressive annihilation. Precognitive impulse, cognition and action flash forth from within Sadāśiva to dissolve all traces of this limiting projection of the “it”, so that the self remains as nothing but these three powers, distinct from each other but from nothing else. The meditator sees the rise of the three through Power (śaktiḥ), the Pervading (vyāpinī), and the Conscious (samanā), in the space of the trifurcation itself, as the process of this dissolution; and he sees its culmination in the three white lotuses of the Transmental (unmanā) as the completion of this dissolution. The meditator then sees these same powers rising up in the urge to enter the undifferentiated heart of (his) consciousness, to abandon their mutual difference in their final expansion as the nondual ground. It is in this ultimate thrust of resorption that they manifest themselves as the deities enthroned on the lotuses, revealing in this configuration of convergence the worshipper’s innermost identity as the Fourth Power hidden in their centre. Worship is the emergence of this Fourth Power in consciousness, as the convergence of the Triad. The point of rest in the pure autonomy of the self, the innermost identity within Parā, Parāparā and Aparā, which finally resorbs the distinction between Power and “T” as the Holder of Power (Saktimān), between the worshipped and the worshipper, is the Goddess Kāli, the Destroyer of Time (Kālasarkarṣini).
+[^554]: Verses 339-352ab are a summary of verses 15/239cd-338. Sanderson (1986: pp. 190-193) presents the following passage from 15/339 ff. as follows: “At the lowest level, the three powers of precognitive impulse, cognition, and action project objectivity as though it were outside them. In this projection, they establish fully unenlightened consciousness, appearing in their contraction as the three impurities (malāni), that contaminate the self. Precognitive impulse becomes intuition of essential limitedness (āṇavamalam = apūrṇamanyatā); cognition becomes the projection of divided plurality (māyīyaṁ malam = bhinnavedyaprathā); action becomes the impregnating consciousness with the impressions of its actions as good or bad, and therefore as karmically charged (karmaṁ malam = subhāśubhavāsanā). When this extrusion of objectivity subsists only as inactive, latent traces beneath the surface of seemingly contentless consciousness, then these three powers are manifest as the self in the next level, that of the Pralayākalas, ‘those Inert in Dissolution’. This level is itself divided into two. The first is analogous to dreamless but blissful sleep (savedyapralayākalatā) and the other to dreamless sleep completely void of sensation (apavedya pralayākalatā). In Utpaladeva’\*s fourfold division of the limited self (māyāparamātā), these are, respectively, the self as premental, internal sensation (prāṇapramātā), and the self as void (śŭnyapramā In the first, the Impurity of differentiated perception (māyṛyaṁ malam) persists; in the second, it is transcended, The Impurity of charged action (karmar malam) remains at both levels; for though there is no action here at all ~ the self is suspended in a state of inertia, the impressions of past actions remain, waiting to regenerate world-experience when the period of dissolution (pralaya) comes to an end. Above the Pralayākala-level, the three powers constitute themselves as the representation with the projection of the impure tattvas from māyā to earth (pṛthivī). The self here is therefore free of the Impurity of differentiated perception (māyïyari malam) and of the Impurity of charged actions (karmar malam), but its awareness, though pure, is completely passive. Still subject, like the lower levels, to the impurity of the intuition of limitedness (ānavaṁ malam = svātantrasyābodhaḥ), it hangs suspended between māyā at the summit of the impure universe and Gnosis (śuddhavidyā) at the beginning of the pure. It has yet to enter into the upward expansion of active power (svātantryam) which defines consciousness within the pure levels of the cosmos. As these three powers expand above the Vijñānākala level into the tṛattvas of Gnosis, Ivara and Sadāśiva (32TM to 34\*), they manifest themselves successively as the Mantras, Lords of Mantras (mantreśvarāḥ), and Great Lords of Mantras (mantramaheśvarāḥ). At these levels, the Impurity which remained in the preceding stage progressively evaporates. At the first level, the three powers form a mode of consciousness in which vast but internally differentiated segments of the universe flash into view. At the second and third levels, the nature of the subject-object relation is itself radically transformed. While in the Mantra-stage, the “I” perceives the object (“it”) as independently grounded (vyadhikaranam), here “T’-perception and “It’-perception (ahaṁdhīḥ, idaṁdhīḥ) are collocated and equated, with the difference between the two levels that, for the Lords of Mantras, it is the “It’-pole that is emphasized ~ the self equates itself with the universe, while for the Great Lords of Mantras, it is the “T’-pole — consciousness equates the universe with itself in the experience of a transcendental (all-inclusive) plurality-within-unity (bhedābheda). These six levels, from ordinary consciousness in the waking and dream states (sakalapramātṛtā) to that of the Great Lords of Mantras, are to be seen as pervaded by the three powers of the mandala in the portion of the trident which extends up to and includes the Sadāśiva-corpse. In the Sadāśiva level, that of the great Lords of Mantras, objectivity ("it"-ness, idantā) has not disappeared; it is merely withdrawn into the resonance of transcendental subjectivity. Above it, as the powers rise into the trifurcation of the trident, this element of plurality within Sadāśiva is imagined undergoing progressive annihilation. Precognitive impulse, cognition and action flash forth from within Sadāśiva to dissolve all traces of this limiting projection of the “it”, so that the self remains as nothing but these three powers, distinct from each other but from nothing else. The meditator sees the rise of the three through Power (śaktiḥ), the Pervading (vyāpinī), and the Conscious (samanā), in the space of the trifurcation itself, as the process of this dissolution; and he sees its culmination in the three white lotuses of the Transmental (unmanā) as the completion of this dissolution. The meditator then sees these same powers rising up in the urge to enter the undifferentiated heart of (his) consciousness, to abandon their mutual difference in their final expansion as the nondual ground. It is in this ultimate thrust of resorption that they manifest themselves as the deities enthroned on the lotuses, revealing in this configuration of convergence the worshipper’s innermost identity as the Fourth Power hidden in their centre. Worship is the emergence of this Fourth Power in consciousness, as the convergence of the Triad. The point of rest in the pure autonomy of the self, the innermost identity within Parā, Parāparā and Aparā, which finally resorbs the distinction between Power and “T” as the Holder of Power (Saktimān), between the worshipped and the worshipper, is the Goddess Kāli, the Destroyer of Time (Kālasarkarṣini).
 
 
 *[p. 211]* ^pg229
@@ -375,7 +375,7 @@ The venerable Śambhu(nātha) himself, who was well disposed (towards me), taugh
 
 [^562]: ĪP 1/6/3. The vpiti explains: “The ascertainment ‘jar’ brought about by the free knowing subject only within whom lie the manifestations of that (jar) and its opposite, and that takes place through the exclusion of the opposii 15 is the activity called vikalpa.’ Torella’s translation. We have already noted that apohavāda is originally a Buddhist doctrine. While Utpaladeva agrees that apoha (the negation of a counter-correlate) is essential for the conceptual ascertainment of the nature of an object (as what the counter-correlate is not), it is only possible if the manifestations of both the object and its counter-correlate are present in the perceiver who makes the ascertainment. In other words, subjectivity which is non-conceptual (i.e. not a notion) is the essential ground of all conceptualization, because the initial manifestation which is identified by conceptualization must always appear within the perceiver.
 
-[^563]: \[illegible\] The metre of the first half of this line is not correct in the printed edition. It contains three syllables too many, and also does not make sense, as the object of worship here is not Bhairava. By emending iti bhairavaparapūjātattvaṁ, ‘the true nature of Bhairava’s supreme worship’ to iti parāpūjātattvaṁ ‘the true nature of the Parā’s worship’, it makes good sense, and the extra syllables are eliminated. However, the fifth syllable is long (guru) instead of short (laghu), as the metre demands.
+[^563]: The metre of the first half of this line is not correct in the printed edition. It contains three syllables too many, and also does not make sense, as the object of worship here is not Bhairava. By emending iti bhairavaparapūjātattvaṁ, ‘the true nature of Bhairava’s supreme worship’ to iti parāpūjātattvaṁ ‘the true nature of the Parā’s worship’, it makes good sense, and the extra syllables are eliminated. However, the fifth syllable is long (guru) instead of short (laghu), as the metre demands.
 
 
 *[p. 218]* ^pg236
@@ -616,7 +616,7 @@ yāmalaikyāṁgavaktrādisadasattāvikalpataḥ ॥ 365 ॥
 
 Or else, alternatively, (if he so wishes, the officiant) can worship each goddess or the Mantra in the lotus (individually, not as a couple).[^584] 
 
-[^582]: \[illegible\] MV 8/82cd-83ab, of which TĀ 15/363 is an explanatory paraphrase.
+[^582]: MV 8/82cd-83ab, of which TĀ 15/363 is an explanatory paraphrase.
 
 [^583]: According to MV 8/82cd-83ab, one should meditate on three Tridents that range from the individual one to the supreme. This meditation does not alter the essential structure of the Trident in the mandala.
 
@@ -663,7 +663,7 @@ Surely (one may ask), if one has performed the inner sacrifice, then what is the
 
 [^585]: The external rite begins here.
 
-[^586]: \[illegible\] This is a well-known expression we commonly find in the sources. Thus, for example, Kṣemarāja quotes this same quarter verse in SvTu ad 2/35cd.
+[^586]: This is a well-known expression we commonly find in the sources. Thus, for example, Kṣemarāja quotes this same quarter verse in SvTu ad 2/35cd.
 
 [^587]: Read -paryante for -paryantaṁ.
 
@@ -730,7 +730,7 @@ One should consecrate (the Five Products of the Cow, namely, cow’s) urine, cow
 
 #### Viveka on 15.369–374
 
-[^589]: \[illegible\] Read nyaset for nayet.
+[^589]: Read nyaset for nayet.
 
 [^590]: See above 15/69-70, and citations there in the commentary from the Trisirobhairava.
 
@@ -766,7 +766,7 @@ phādināntāṁ smared devīṁ pṛthivyādiśivāntagām || 374 ||
 
 [^595]: Vedic Mantras were used in the preliminary part of the rite. Now Abhinava goes on to the next part of the rite, in which Trika Mantras are used.
 
-[^596]: \[illegible\] MV 8/88cd-89 deal with vāstuyāga, that is “the sacrifice offered to the site (of the sacrifi large class of rites includes those performed when the foundations of a building have been laid, to propitiate the \[illegible\] that is, Śiva embodied in the site or foundation or, indeed, the habitation itself. In this case, the site where the rite is performed to worship the deities that reside there. This is clearly the subject of verses 374cd-376ab. However, although Jayaratha does quote the MV here, the distinct difference in the wording makes it uncertain, if not unlikely, that this is Abhinava’s source. Perhaps it is the Trisirobhairava, but this seems unlikely, as Jayaratha does not quote the original passage, as he normally would.
+[^596]: MV 8/88cd-89 deal with vāstuyāga, that is “the sacrifice offered to the site (of the sacrifi large class of rites includes those performed when the foundations of a building have been laid, to propitiate the \[illegible\] that is, Śiva embodied in the site or foundation or, indeed, the habitation itself. In this case, the site where the rite is performed to worship the deities that reside there. This is clearly the subject of verses 374cd-376ab. However, although Jayaratha does quote the MV here, the distinct difference in the wording makes it uncertain, if not unlikely, that this is Abhinava’s source. Perhaps it is the Trisirobhairava, but this seems unlikely, as Jayaratha does not quote the original passage, as he normally would.
 
 
 *[p. 229]* ^pg247
@@ -839,15 +839,15 @@ when Ananta, Dharma, Knowledge, Dispassion, Mastery and the calix (of the lotus)
 
 [^600]: The six constituents of the throne are Ananta (see above 15/297cd ff., ŚSP vol. 1, p-158 note 1), the four properties of the mind (piety, knowledge, detachment and power), and the lotus of Pure Knowledge.
 
-[^601]: \[illegible\] Read vaidyā for vaidyaṁ. ‘Vaidyā’ means ‘pertaining to knowledge — vidyā’. The rules of compound word formation allow for the shortening of long vowels as the end of a component word within a compound. Thus, for example, the spelling of name of the great Sanskrit poet is Kālidāsa, which literally means ‘the servant’ — dāsa of Kālī. In this case, the compound is sadvaidyakarnikā. This is a kind of compound called karmadharāya, in which the first part is an adjective qualifying the substantive, which is the second part of the compound. An example in English is the word ‘blackbird’. In this case the pericarp - karnikā is described as being sadvaidyā. The final vowel has been shortened to fit with the metre. Accordingly, the text here should read the feminine vaidyā; instead, we find the neuter vaidyaṁ.
+[^601]: Read vaidyā for vaidyaṁ. ‘Vaidyā’ means ‘pertaining to knowledge — vidyā’. The rules of compound word formation allow for the shortening of long vowels as the end of a component word within a compound. Thus, for example, the spelling of name of the great Sanskrit poet is Kālidāsa, which literally means ‘the servant’ — dāsa of Kālī. In this case, the compound is sadvaidyakarnikā. This is a kind of compound called karmadharāya, in which the first part is an adjective qualifying the substantive, which is the second part of the compound. An example in English is the word ‘blackbird’. In this case the pericarp - karnikā is described as being sadvaidyā. The final vowel has been shortened to fit with the metre. Accordingly, the text here should read the feminine vaidyā; instead, we find the neuter vaidyaṁ.
 
 [^602]: MV 8/93.
 
 [^603]: MV 8/85d.
 
-[^604]: \[illegible\] Read with K, gandhapusṣpādibhir, which is the standard formula for the anomalous gandha-dhūpādibhir.
+[^604]: Read with K, gandhapusṣpādibhir, which is the standard formula for the anomalous gandha-dhūpādibhir.
 
-[^605]: \[illegible\] Read, as in the KSTS edition of the MV, ṣaddīrghasvara- for ṣaddīrghahrasva-. Thus, the six limbs of Gaṇeśa are:
+[^605]: Read, as in the KSTS edition of the MV, ṣaddīrghasvara- for ṣaddīrghahrasva-. Thus, the six limbs of Gaṇeśa are:
 
     GĀM HRDAYĀYA NAMAH
 
@@ -891,9 +891,9 @@ In the beginning of the initiation (of a disciple) who desires accomplishments, 
 
 [^608]: Th: saṅgam.
 
-[^609]: \[illegible\] C: mālipūrvarivā vāpta-.
+[^609]: C: mālipūrvarivā vāpta-.
 
-[^610]: \[illegible\] These three verses are not found in the edited text, where they are replaced by two rows of dots. However, they are found three manuscripts preserved in the Research Department in Srinagar, here designated as C, T and Th (see bibliography). Apparently, they must have been acquired after 1938, when the same Research Department published chapter 15. In these three verses, Abhinavagupta summarizes MV 8/92cd-100, which is mostly all quoted by Jayaratha.
+[^610]: These three verses are not found in the edited text, where they are replaced by two rows of dots. However, they are found three manuscripts preserved in the Research Department in Srinagar, here designated as C, T and Th (see bibliography). Apparently, they must have been acquired after 1938, when the same Research Department published chapter 15. In these three verses, Abhinavagupta summarizes MV 8/92cd-100, which is mostly all quoted by Jayaratha.
 
 [^611]: See below, 30/41cd. See above 15/56, note 130.
 
@@ -966,9 +966,9 @@ dakṣiṇe cāstravārdhānī sthāpyā kurṁbhasya \[illegible\] (1 {4 ॥ 38
 
 [^618]After that, a jar (kumbha), full of a supremely fragrant liquid sacrificial substance, is worshipped and decorated \[illegible\][^619] with the root mantra. The small jar (karkarī) should be consecrated with the Weapon (Mantra) (asi) (repeated) a hundred times.[^620] If the Weapon was not 
 
-[^618]: \[illegible\] Verses 381-390 (378cd-388ab) are a paraphrase of MV 8/101-109.
+[^618]: Verses 381-390 (378cd-388ab) are a paraphrase of MV 8/101-109.
 
-[^619]: \[illegible\] The word \*carcita’ literally means ‘smeared (with unguents)’. 1 have translated according to Jayaratha’s interpretation.
+[^619]: The word \*carcita’ literally means ‘smeared (with unguents)’. 1 have translated according to Jayaratha’s interpretation.
 
 [^620]: There are two jars. One is large and is called a \[illegible\] The other is smaller and is a ‘kalasa’. Here it is called a karkari, although normally, according to Apte, this is the name of ‘a water-jar with small holes at the bottom, as in a sieve.’ Technically it is called a ‘vārdhānī — ‘she who bestows prosperity’. The small jar is designated to be the Jar of the Weapon, where the embodiment of the Weapon is worshipped.
 
@@ -1096,7 +1096,7 @@ In this way, after the worship of the mandala, in order to perform the rite of t
 
 Surely (one may ask), it is said everywhere (in the scriptures) that the external preparation of the fire pit is done by means of the (preparatory) purifications, that is, the tracing it out (and excavation), sprinkling, pounding (to 
 
-[^637]: \[illegible\] The kunda for the external rite is a hole dug out of the ground, contained in raised walls surrounded by encompassing enclosures (mekhalā), that increase in width beginning from the centre, forming steps, as it were. The centre of the kunda is made of a lotus fashioned in relief,
+[^637]: The kunda for the external rite is a hole dug out of the ground, contained in raised walls surrounded by encompassing enclosures (mekhalā), that increase in width beginning from the centre, forming steps, as it were. The centre of the kunda is made of a lotus fashioned in relief,
 
 *[p. 241]* ^pg259
 
@@ -1178,7 +1178,7 @@ And in this way, they may achieve success (siddhi). Thus, he says:
 \[illegible\] 5110 mantramayaḥ saṅkalpā me tadātmakāḥ ॥ 397 ॥
 \[illegible\] ca kundavahnyādi śivātmeti \[illegible\] smaret | 
 
-[^639]: \[illegible\] There is a play of words here. The word ‘krama’ means, amongst other things, ‘sequence, process gradation’; it also means ‘liturgy’, as that involves a fixed sequence of actions, Mantras etc. Some are capable of reaching such a firm and stable state of awareness immediately. They are those who receive the most intense descent of the power of grace in anupāya. For them, there is no ‘process’ or ‘sequence’ — krama ~ of stages, and so too, no liturgy — krama, that is, ritual they need to perform or attend. The rite is ‘gradual’, not immediate. To put it another way, there are a few who are fit to engage in a rite that is effective instantaneously. The rite is not sublated, it reaches immediate completion.
+[^639]: There is a play of words here. The word ‘krama’ means, amongst other things, ‘sequence, process gradation’; it also means ‘liturgy’, as that involves a fixed sequence of actions, Mantras etc. Some are capable of reaching such a firm and stable state of awareness immediately. They are those who receive the most intense descent of the power of grace in anupāya. For them, there is no ‘process’ or ‘sequence’ — krama ~ of stages, and so too, no liturgy — krama, that is, ritual they need to perform or attend. The rite is ‘gradual’, not immediate. To put it another way, there are a few who are fit to engage in a rite that is effective instantaneously. The rite is not sublated, it reaches immediate completion.
 
 [^640]: Gnoli translates more loosely: ‘However, everybody is not capable of reaching immediately such firm awareness and so, in order to help those who are not, we teach the (external) gradual rite.’
 
@@ -1289,7 +1289,7 @@ Then once the pit has been worshipped as (Śiva’s) power of action clearly (ap
 
 [^646]: See ŚSP vol. 1, p. 244, note 3. The Lords of the Directions protect the newly bom fire.
 
-[^647]: \[illegible\] Verses 401cd-403 (399-40 1ab) comment on MV 8/1 10-1 1 lab. For the various rites concerning the sacrificial hearth (kunda), see Rauravāgama 15/1-4; MṛT Kriyāpāda, 6/1-4; and ŚSP, vol. 1, pp. 232-236.
+[^647]: Verses 401cd-403 (399-40 1ab) comment on MV 8/1 10-1 1 lab. For the various rites concerning the sacrificial hearth (kunda), see Rauravāgama 15/1-4; MṛT Kriyāpāda, 6/1-4; and ŚSP, vol. 1, pp. 232-236.
 
 
 *[p. 246]* ^pg264
@@ -1316,7 +1316,7 @@ And she, (we can understand by implication), is in her fertile season (rtu).[^65
 
 ‘Having meditated on the goddess who is such, that is, (radiant) like a blue lotus, in her season and with beautiful eyes, place her in the middle of the pit.[^653] 
 
-[^648]: \[illegible\] SvT 2/220b. “They (should all be placed) with the Weapon Mantra. Brahmā (should be placed) on the seat in the east, having placed Rudra in the south, Viṣṇu on the seat in the west and Sadāśiva in the north, (each) marked with the parts of their own name.” SvT 2/220-22190".
+[^648]: SvT 2/220b. “They (should all be placed) with the Weapon Mantra. Brahmā (should be placed) on the seat in the east, having placed Rudra in the south, Viṣṇu on the seat in the west and Sadāśiva in the north, (each) marked with the parts of their own name.” SvT 2/220-22190".
 
 [^649]: This is said above in 15/370, where the five are listed.
 

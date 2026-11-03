@@ -507,7 +507,7 @@ This ‘duality’ consisting of subject and object etc. is the sole cause of bo
 
 [^36]: Read sat for san.
 
-[^37]: \[illegible\] The word sat is thus fancifully derived from sākṣāt (‘directly apparent’) and tattva (‘reality’).
+[^37]: The word sat is thus fancifully derived from sākṣāt (‘directly apparent’) and tattva (‘reality’).
 
 [^38]: Śuddha Vidyā is the experience of entry into the Pure Principles above the duality of Māyā. It is a state of consciousness of oneness free of thought constructs — vikalpa. The experience has two aspects. One is that “all this universe is me” and the other is “I am all this universe”. They correspond to the principles of Īśvara and Sadāśiva beyond it. One may wonder why there need be these two beyond, when they combine in Śuddha Vidyā. The answer, according to Swami Lakshmanjoo, is that Śuddha Vidyā is not stable. There is entry and exit from it into the duality of Māyā in the domain of thought constructs just below it. Thus, further ascent is not so much a matter of an evolving experience as one that is marked by growing stability of insight. Understanding sattarka to be Śuddha Vidyā is thus a way of expressing that, although sattarka moves into the realms of nondual consciousness beyond Māyā, until it is fully perfected it repeatedly falls back into Māyā to then rise out of it again. In this way, the domain of vikalpa is gradually purified by increasing absorption into nirvikalpa until, when Śuddha Vidyā reaches its supreme form, that is, its completely stable form, fully immersed in nirvikalpa, the recognition of one’s own true identity as Siva flashes forth so perfectly and completely that it need not do so again.
 
@@ -659,7 +659,7 @@ Surely (one may object that this applies) in every case (and so all reasoning is
 
 [^60]: Concerning these two principles, see below, 9/45cd-48ab, 62-66ab, 119cd-200ab, 202cd-203. Necessity — niyati — is the principle that determines that specific causes have their specific effects. It is also the moral Law of Karma, which ordains that every action we do has its appropriate consequence — good, if the action is good, and bad if the action is bad. The principle of Attachment works together with Necessity. It is due to these two that individuals follow a teaching that cannot lead beyond the level of Māyā, of which these two are its aspects. The principle of Attachment impels the ignorant into feeling, “I need this”. In this context, it is the mistaken attachment to a wrong or incomplete view.
 
-[^61]: \[illegible\] Read with MSs Ch and Jh niyate for niyateḥ.
+[^61]: Read with MSs Ch and Jh niyate for niyateḥ.
 
 [^62]: Cf. below, 13/28.
 
@@ -970,7 +970,7 @@ The prose order is that ‘by the word ‘attachment’, for the reason about to
 
 Surely (one may ask,) how is it that this person does not emerge out of the sphere of transmigration even when he has attained the liberation taught in 
 
-[^87]: \[illegible\] Read taduttīrnar for taduttīrna.
+[^87]: Read taduttīrnar for taduttīrna.
 
 [^88]: Read pārvar for pūrva. See above, 4/17-18ab and also quote in TĀv ad 1/37-38ab. The order in which the Obscuring Coverings are arranged varies in different scriptures. See below, 9/45cd-48ab.
 

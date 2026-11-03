@@ -487,7 +487,7 @@ Just as within the bodies (of living beings) the Days and Nights (throughout the
 
 #### Viveka on 6.87–88
 
-[^204]: \[illegible\] Note that Jayaratha extends the identification of Day and Night with Light and Repose, respectively, to that of Light and reflective awareness.
+[^204]: Note that Jayaratha extends the identification of Day and Night with Light and Repose, respectively, to that of Light and reflective awareness.
 
 [^205]: Gnoli would emend noditam ~ ‘not mentioned’ to coditam — ‘taught’, as is required if we follow Jayaratha’s understanding of the word ‘that as referring to the body. But one could equally well accept the reading without emendation. In that case, we could translate that ‘that has not been taught in detail’, that is, in relation to the world orders at all, or in detail, in either case, whether the body or the outer world. Indeed, the exposition of the cycle of Day and Night within the breath is relatively brief. Anyway, the change of the lengths of the days throughout the year is not represented in the breath (which is ‘within the body’). This matter is also not discussed in Chapter Eight, which deals with Śaiva cosmology, although reference is made to changes in the motion of the sun in the two halves of the year as the ‘northern’ and ‘southern’ paths. It has only been accommodated into the phases of the act of perception. Indeed, one could not do so anywhere else.
 
@@ -663,7 +663,7 @@ Again, the (lunar) digit called ‘Amā’ is the sixteenth,[^221] and is the �
 
 [^220]: Sāmbapañcāśikā 8abc.
 
-[^221]: \[illegible\] The sixteen digits (kalā) of the Moon are lunar energies (kalā); as such, they are goddesses and so have feminine names. ‘Amā’ in Vedic Sanskrit means ‘together’ and vasyā means ‘abode or home’. Thus, the name denotes the place of union where the Sun and Moon abide together. It is also the name of the sixteenth digit of the Moon. See above, note to TĀv ad 3/138-141. It also means ‘together’ because, as Jayaratha says, it contains within itself in a potential form all the other digits simultaneously together that will be progressively emitted, one by one, as the moon waxes in the course of exhalation.
+[^221]: The sixteen digits (kalā) of the Moon are lunar energies (kalā); as such, they are goddesses and so have feminine names. ‘Amā’ in Vedic Sanskrit means ‘together’ and vasyā means ‘abode or home’. Thus, the name denotes the place of union where the Sun and Moon abide together. It is also the name of the sixteenth digit of the Moon. See above, note to TĀv ad 3/138-141. It also means ‘together’ because, as Jayaratha says, it contains within itself in a potential form all the other digits simultaneously together that will be progressively emitted, one by one, as the moon waxes in the course of exhalation.
 
 
 *[p. 321]* ^pg336
@@ -770,9 +770,9 @@ The Solar Eclipse
 tatra prātipade tasmirs tuṭyardhārdhe purādalam || 100 ॥
 āmāvasyaṁ tithicchedāt kuryāt sūryagraharii viset | 
 
-[^228]: \[illegible\] Amarakośa 1/4/7ab. The Amarakośa is a well-known Sanskrit lexicon.
+[^228]: Amarakośa 1/4/7ab. The Amarakośa is a well-known Sanskrit lexicon.
 
-[^229]: \[illegible\] Cole remarks: ‘This is an external timing for pūjā and the times indicated to be the junctions of the breath of the universe.’ According to Swami Lakshmanjoo (TPR p. 61): “Day is the time that the breath exits externally. One should not worship the Lord whose nature is consciousness at that time. One should also not worship the Lord who is one’s own nature during the Night, that is, when inhalation (apāna) moves into the body. Rather one should worship the Deity, which is one’s Self in the form of Siva, when both Day and Night have ended.’
+[^229]: Cole remarks: ‘This is an external timing for pūjā and the times indicated to be the junctions of the breath of the universe.’ According to Swami Lakshmanjoo (TPR p. 61): “Day is the time that the breath exits externally. One should not worship the Lord whose nature is consciousness at that time. One should also not worship the Lord who is one’s own nature during the Night, that is, when inhalation (apāna) moves into the body. Rather one should worship the Deity, which is one’s Self in the form of Siva, when both Day and Night have ended.’
 
 [^230]: Tt seems that there were some who held the view that there is only a half tuṭi at the junction of the day and night, which is divided in two. Jayaratha refutes this view by pointing out that in that case, as there is only one tuṭi for both junctions, there would be one tuṭi less, and the remaining one would serve no purpose and could not be accounted for. The length of a lunar day varies between 21 and 26 hours. The beginning and end of a lunar day does not coincide with the beginning and end of a solar day. There must always be fifteen lunar days (rithi). The first one begins at the end of the Dark Moon (amāvasyā) and the beginning of the first lunar day of the new moon (prātipada). The fifteenth lunar day ends at the end of the full moon and the beginning of the waning phase. This period may vary between 14 and 15 days. This means that the beginning and end of the other lunar days (rithi) do not coincide with solar days. Moreover, the length of a lunar day throughout the month may increase or decrease, which adds to the variance of the discrepancy. The day is named after the lunar day at sunrise. So it possible that a whole lunar day passes and a second begins within twenty-four hours, that is, before the next sunrise. This is termed a ‘loss of a lunar day’ (kṣayatithi). 11 is also possible that a sunrise and the following sunrise occur within the same lunar day. That is an ‘increase’ in the lunar day.
 

@@ -97,7 +97,7 @@ sarvais tu sahito yāgo vīrasaṁkara ucyate |
 
 ‘The nine wives of (the following) are (worshipped) in the sacrifice of the nine (circles) (navayāga): the sweeper (mātanga), the black (collyrium maker) (kṛsna), the butcher (Śaunika),[^114] the barber, the leather worker (cārmika), the liquor merchant (vikoṣin), the bone-breaker (dhātuvibheda), the fisherman (mātsyaka), and the miller (cākrika).’[^115] 
 
-[^109]: \[illegible\] Perhaps cakrinyādyāś should be read as cakrikādyāś, as we find in 29/66c below, which is quoted in the commentary. See below, 29/65 ff.
+[^109]: Perhaps cakrinyādyāś should be read as cakrikādyāś, as we find in 29/66c below, which is quoted in the commentary. See below, 29/65 ff.
 
 [^110]: Read śaktiyogyā for śaktiyogād.
 
@@ -170,7 +170,7 @@ Then, the wise man should worship the first circle[^117] when the sacrificial ve
 
 #### Viveka on 28.87–88
 
-[^117]: \[illegible\] According to the TSā p. 185, this is the circle of the assembly of deities.
+[^117]: According to the TSā p. 185, this is the circle of the assembly of deities.
 
 [^118]: According to Swami Lakshmanjoo: ‘Cakrapūjā in the 28th chapter is in Śāktopāya. Yoginīmelāpa \[union with the Yoginī\] is in Śāmbhava, which is just after that, The latter is subtler, but still in the physical body, but it is then in subtler physical body. Yogini is not the gross body of the female. Although it seems that there are gross bodies, in fact Yoginīmelāpa \[union with the Yoginī\] appears in the subtle sphere after Cakra Pūjā. In Cakra Pūjā there are all three Makāras, not just two. Not just the Arghapātra (the sacrificial vessel). He explains that in a subtle way ~ he alludes to this when he says that the Pātra (vessel) should not be without ddhara - a base. He alludes to the third Makāra ~ without Ādhāra, it is nothing. Yoginimelāpa \[union with the Yogini\] can occur ‘hathataḥ \[with force\] or priyataḥ \[pleasingly with love\] and mantras are given. How can mantras be operating there? Manana \[reflection\] and Trāṇana \[salvation\] function there in a subtle way. They are subtle; but an outsider who comes, \[all he\] perceives is wine drinking etc. But it is nirargala \[unconstrained\] — there are no rules as in Cakra Pūjā. Question: In these rituals where cakrapūjā occurs and the Yoginīs go into trance in identification with, for example, the eight Mātṛs \[Mothers\]. What is the nature of that trance? Reply: That Ilveśa \[trance is\] in Śāktopāya. The Yoginī’s trance is in Śāktopāya. She may have Śambhavopāya trance in the end. So, for example, if the 64 people in the cakra are all together in trance, it is collective. It arises spontaneously. Whatever the Yoginīs say, that is zar tathā — that comes true.”
 
@@ -322,7 +322,7 @@ is easily accomplished.’[^128]
 
 [^127]: Read pānaṁ for pāne.
 
-[^128]: \[illegible\] This mudrā is made by cupping the hands and drinking from them as an alternative to drinking from the sacrificial vessel.
+[^128]: This mudrā is made by cupping the hands and drinking from them as an alternative to drinking from the sacrificial vessel.
 
 [^129]: Read saptakṛtvakarane for saptakṛtvaḥ karane.
 
@@ -656,7 +656,7 @@ He says that (quoting from the Kularatnamālā):[^144]
 नागं निजजटाजूटपीठगं पर्यकल्पयत् |
 ततः समस्तदेवौधैधीरितोऽसौ स्वमूर्धनि ॥ ११७ ॥
 
-[^143]: \[illegible\] Sanderson (2001 4 n 1) considers the Mālinīsāra to be the Trikasāra. There is no other reference to a Mālinīsāra. It is unlikely that it is the Mālinīvijayottara, as this rite is not mentioned there at all.
+[^143]: Sanderson (2001 4 n 1) considers the Mālinīsāra to be the Trikasāra. There is no other reference to a Mālinīsāra. It is unlikely that it is the Mālinīvijayottara, as this rite is not mentioned there at all.
 
 [^144]: The passage from the (Trika) Kularatnamālā Abhinava is citing in 28/114-1219 is similar enough to the one found in the Kubjikāmata (24/143 ff) and its expansion thi tsāharasaṁhitā (chapter 48) for it to be quite probably the common source. The Kularatnamālā is well known to the Kubjikā Tantras, and they draw from it in several places. So it is possible that the account of the origin of this rite found in these Kubjikā Tantras is drawn from there. They may also, of course, share a common original source. If, as Jayaratha says (ad 28/112-113), the myth of origin of this ritual is not clearly given in other sources, it strengthens the case for supposing that the KM/ṢSS has drawn its account, in part at least, from there. However, the wording in the KM and 595 differs in many places from the KRMĀā, but as we shall see, comparing the two as we go along, they are not distant from one another. The strands of the three threads of the pavitra are divided into three parts, said to correspond to the Self, Vidyā, and Śiva. This is a common basic identification cf. the Mayasaṁgraha, quoted below ad 28/155cd-156ab. We read in the SSS; “(The sacred thread) of cotton (is symbolically made of) three threads of gold, silver, and copper, (each of which is) first tripled (thus making nine strands), and, having done that, it should (all) be purified. Here (in this case) the strands are three hundred and sixty, as the teacher says (there should be). O beloved, they should be (divided) into three (parts, representing) the Self, Vidyā, and Śiva.” The rite described in the 585 also involves the worship of snake gods - Nāgas: ‘Again, I will now discuss something else. O goddess, this, the prescription concerning (the offering of) the sacred thread (on) the eighth and (or) the fourteenth of the bright fortnight (of Caitra). O fair lady, that Nāga who is the good son of the aforementioned (sage) destroys the fruit of men's worship if he is not worshipped. Thus, I have revealed his name and form in the mortal world. O mistress of the gods, by worshipping (him) one obtains the aforementioned fruits.”
 
@@ -1119,7 +1119,7 @@ na tu duhkhaprade kṛṣne kartrrāṣtranṛpādiṣu ॥ 150 ॥
 
 [^180]: See above, note 15,339 and Dyczkowski 1988: 64, 169 n. 57.
 
-[^181]: \[illegible\] The word ‘praśamana> literally means ‘quelling’. The consequences of bad actions, i.e. sins, are ‘quelled’, i.e. remedied, by rites of expiation such as this one.
+[^181]: The word ‘praśamana> literally means ‘quelling’. The consequences of bad actions, i.e. sins, are ‘quelled’, i.e. remedied, by rites of expiation such as this one.
 
 *[p. 75]* ^pg92
 

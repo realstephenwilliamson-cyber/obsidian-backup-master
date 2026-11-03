@@ -101,7 +101,7 @@ Just as the object of knowledge predominates in the waking state, so does the me
 
 [^314]: Cf. Somadeva (2004) p. 227-8. In other words, the dream state is for accomplished yogis, one of pure understanding and ‘conception’ of the cosmic order which is experienced inwardly within the vital breath. Sleep is generally considered to be a state in which the outer senses are at rest, and so the breath which vitalizes them becomes dominant. There is no outer object. Instead, in the ‘locus’ of sleep one can experience the Cosmic Order as a reality within consciousness. This is real, but not experienced in the common waking state of consciousness, which focuses instead on the countless particular objects presented to the individual perceiver. The Cosmic Order is universal, and so experienced within the sphere of the conceptualizing inner cognitive consciousness that perceives in terms of the parameters of perception as such which operates universally. There the Cosmic Order is ‘understood’ and ‘conceived’ within the vital breath. Free of outer objectivity, the Cosmic Path is experienced and understood to be one with its ideal representation within consciousness. Abhinava is here referring to the highest form of dreaming, in which the Yogi ‘dreams the cosmic dream’. This he creates in a sense by rightly ‘conceiving’ it to be as it is, and so is not unreal, although linked to the creative imagination of consciousness, which conceives the Cosmic Order as its cosmic thought.
 
-[^315]: \[illegible\] Gnostics experience dream as a form of internal knowing which operates on the cognised entity in whatever way it wants, completely independent of its external existence. Therefore, they call the dream state ‘pervasion’.
+[^315]: Gnostics experience dream as a form of internal knowing which operates on the cognised entity in whatever way it wants, completely independent of its external existence. Therefore, they call the dream state ‘pervasion’.
 
 *[p. 460]* ^pg479
 
@@ -215,9 +215,9 @@ Insofar as (the perceiver) metaphorically (rūpakatvāt) (identifies with the ob
 
 ‘Form’ (rūpa) is the subject. As the universe is essentially the subject alone, (the subject) gives (shape and) form (rūpayati) to each ‘individual’ phenomenon. (In other words,) by making it one with itself, (it makes it seem as 
 
-[^321]: \[illegible\] One could also translate ‘(the wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject's form \[illegible\] are in a state of transcendent detachment (audasīnya) (from all phenomena with form).’ Either way, the point is that yogis in this state lose all interest in external objects.
+[^321]: One could also translate ‘(the wise) know that those who, by means of the corresponding contemplative attainment (samāpatti), are endowed with the subject's form \[illegible\] are in a state of transcendent detachment (audasīnya) (from all phenomena with form).’ Either way, the point is that yogis in this state lose all interest in external objects.
 
-[^322]: \[illegible\] Here, as the transcendent aloofness realized by formed phenomenal entities is not total, the deep sleep state can be easily distinguished from Tūriya, where all phenomena entirely disappear.
+[^322]: Here, as the transcendent aloofness realized by formed phenomenal entities is not total, the deep sleep state can be easily distinguished from Tūriya, where all phenomena entirely disappear.
 
 
 *[p. 463]* ^pg482
@@ -248,7 +248,7 @@ Although the subject is detached (in this way, the potential) object of knowledg
 
 #### Viveka on 10.263–264
 
-[^323]: \[illegible\] One can also understand ‘rāpa’ to be derived from the root ‘rup’, which means ‘to break up’. In this sense, Jayaratha explains that the perceiving subject ‘breaks up’ the compact oneness of objective reality, and having broken it up into pieces, identifies it with himself.
+[^323]: One can also understand ‘rāpa’ to be derived from the root ‘rup’, which means ‘to break up’. In this sense, Jayaratha explains that the perceiving subject ‘breaks up’ the compact oneness of objective reality, and having broken it up into pieces, identifies it with himself.
 
 [^324]: MV 2/37cd.
 
@@ -693,7 +693,7 @@ sarvātītaḥ śivo jñeyo yarn viditvā vimucyate ॥ 286 ॥
 
 [^356]: 10/284cd-286 is a literal quotation of MV 2/40d-42. See above See above, 10/271cd- 272ab, where Abhinava glosses MV 2/41. Somadeva (2004: 232) translates this passage as follows: ‘The other (condition, in which they appear as instruments of objectivization,) is termed Abiding in Place (padastha). Mantras, Lords of Mantras with their Lords (i.e. sovereigns of the Lords of Mantras ~ Mahāmantreśa) are known (to correspond to) Abiding in Form (rūpastha). Beyond Form (rūpātīta) is the transcendent power untainted though immersed in activity. Śiva should be known to be free of diversity (niṣprapañca), unmanifest (nirbhāsa), pure, established in His own nature, and beyond all (states and things). One is liberated when He is known.” Kaula Yogic state Epistemic Equivalent \_| Perceiver |\] Abiding in the Body Sustained (adhiṣtheya) Conditioned / Dissolution Deconditioned Abiding in Place Sustaining Process Consciousness (adhiṣthāna; Deconditioned Abiding in Form sustainer (adhiṣthātr) Mantra, Mantreśa, Mantramaheśvara Beyond Form Consciousness (saṁvid Supreme Power Śiva
 
-[^357]: \[illegible\] ~ ‘full’ and pure are synonyms. Pūrṇatvād eva ca śuddhā kṣobharahitā TĀv ad 10/206, where kṣobha is defined as śaktidaśā.
+[^357]: ‘Pūrṇa’ ~ ‘full’ and pure are synonyms. Pūrṇatvād eva ca śuddhā kṣobharahitā TĀv ad 10/206, where kṣobha is defined as śaktidaśā.
 
 *[p. 478]* ^pg497
 

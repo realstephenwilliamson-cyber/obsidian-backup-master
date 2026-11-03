@@ -145,7 +145,7 @@ One should view the body in this way as full of all the paths (of manifestation)
 
 #### Viveka on 12.6
 
-[^238]: \[illegible\] Concerning this concept, see above, 11/(84) (83cd-84ab).
+[^238]: Concerning this concept, see above, 11/(84) (83cd-84ab).
 
 [^239]: See above, TĀv ad 1/165 and note there. This line is also quoted above in TĀv ad 3/43cd-45ab (45-46) and ad 4/98, as well as below ad 28/375cd-376ab.
 
@@ -237,7 +237,7 @@ According to the Nandiśikhā, the unshaking (niṣkampatā) (freedom from doubt
 
 [^240]: Cf above, 4/109cd-122ab, 180cd-181ab and 194-211.
 
-[^241]: \[illegible\] This ‘shakiness’ (kampatā) or fear is the result of the uncertainty the Kaula practitioner feels, that the Kaula offerings of meat, wine, sexual fluids and the like are improper. According to these Tantras, as understood by Abhinava, the cause of these doubts is ultimately that he does not experience the oneness of Śiva’s presence everywhere, and so is overcome by the dualistic thought constructs born of his ignorance.
+[^241]: This ‘shakiness’ (kampatā) or fear is the result of the uncertainty the Kaula practitioner feels, that the Kaula offerings of meat, wine, sexual fluids and the like are improper. According to these Tantras, as understood by Abhinava, the cause of these doubts is ultimately that he does not experience the oneness of Śiva’s presence everywhere, and so is overcome by the dualistic thought constructs born of his ignorance.
 
 
 *[p. 105]* ^pg125
@@ -347,7 +347,7 @@ Whenever, however, wherever, and by whatever (means) one’s own consciousness b
 
 [^246]: Cf. below, 13/15 1cd-154.
 
-[^247]: \[illegible\] PT verse 20 (p. 254).
+[^247]: PT verse 20 (p. 254).
 
 
 *[p. 110]* ^pg130
@@ -533,7 +533,7 @@ venerable Gamaśāstra.[^261]
 
 [^260]: Although it is certainly true that Krama ritual universally requires the offering and use of such Kaula sacrificial substances, one wonders whether Jayaratha is right. All the other entries are names of scriptures; thus, it is possible that ‘krama’ here is an abbreviation of the name of a scripture. In the PTv p. 235-236, Abhinava quotes a passage from the Sarvācāra concerning the Kaula saci al substances, and how they should be offered to the deity without harbouring any doubts about it. He goes on to say that the matter is treated in a similar way in the Vīrāvalī. Then he goes on to quote from the Kramastotra. Accordingly, I understand ‘Krama’ here to mean the Kramastotra. Another possible interpretation, which supports Jayaratha’s, is based on the observation that the Sarvācāra, Vīrāvalī, and Niśācāra are all Trika Tantras. Together they represent the Trika view. Thus ‘Krama’ here could mean the system. The point being that Trika and Krama systems agree about this. In this perspective, Jayaratha’s reference to the Gamaśāstra as also saying the same implies that Tantras of other Kaula schools also agree.
 
-[^261]: \[illegible\] The only possible evidence that Jayaratha did have a copy of the Gamatantra is an unlabelled reference that may be drawn from it found above ad 1/44. Apart from that very dubious reference, Jayaratha does not quote the Gamatantra anywhere. It is likely that he did not have access to it. Even so, he knew that it did refer to this subject, because amongst the pledges the initiate makes, cited from the Gamatantra below in 15/563-564 (559-560), some require that he should not feel aversion to the sacrificial substances offered in Kaula ritual.
+[^261]: The only possible evidence that Jayaratha did have a copy of the Gamatantra is an unlabelled reference that may be drawn from it found above ad 1/44. Apart from that very dubious reference, Jayaratha does not quote the Gamatantra anywhere. It is likely that he did not have access to it. Even so, he knew that it did refer to this subject, because amongst the pledges the initiate makes, cited from the Gamatantra below in 15/563-564 (559-560), some require that he should not feel aversion to the sacrificial substances offered in Kaula ritual.
 
 
 *[p. 117]* ^pg137

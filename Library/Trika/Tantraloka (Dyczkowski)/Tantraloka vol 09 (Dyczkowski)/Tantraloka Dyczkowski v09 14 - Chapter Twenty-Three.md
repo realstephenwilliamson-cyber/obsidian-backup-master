@@ -220,7 +220,7 @@ This restriction (taught) in scriptures other (than our own) concerning the teac
 
 and the land of Kaccha should be avoided. So too one should avoid those of other countries.[^702] 
 
-[^698]: \[illegible\] Read tasmāt tatra for tasmād yatra.
+[^698]: Read tasmāt tatra for tasmād yatra.
 
 [^699]: Quoted above in TĀv ad 4/251cd and also ad 8/20cd-22ab. Lines 12cd-13ab could be a reworking of this verse. If so, Jayaratha is quoting from the Yogasaṁcāra. However, Jayaratha does not cite this important Trika Tantra anywhere, which he would have done had he had access to it. So this citation is very unlikely to be from the Yogasaṁcāra.
 
@@ -266,7 +266,7 @@ Nor have we stated just our own idea. Thus, he says:
 
 [^705]: Gnoli, unsure of the meaning, suggests ‘the good success of the ritual action depends on the integrity of the factors that bring it to completion.” This seems to me \[he writes\] to be the sense, even if the text is here perhaps corrupt.’
 
-[^706]: \[illegible\] Read devyāyāmalaśāstre for devyā yāmalaśāstre.
+[^706]: Read devyāyāmalaśāstre for devyā yāmalaśāstre.
 
 
 *[p. 302]* ^pg322
@@ -414,9 +414,9 @@ One should take care to observe (pālayet) the seven sacrifices. These are 1) in
 
 #### Viveka on 23.22–23
 
-[^715]: \[illegible\] Emend kā nāma saptasatrī tāṁ to ko nāma saptasatrī tam.
+[^715]: Emend kā nāma saptasatrī tāṁ to ko nāma saptasatrī tam.
 
-[^716]: \[illegible\] If 23/23ab is taken from the Kāmikāgama (see note 23,31 above), Abhinava is most probably drawing his enumeration of the seven sacrifices from there. The passage Jayaratha quotes here is probably not drawn from Abhinava’s source. The reason for this is simply that none of the items given to the newly consecrated ācārya listed by Abhinava are found listed in this passage. If Abhinava is drawing from the Kāmikāgama, Jayaratha could not have quoted it, as he did not have access to it.
+[^716]: If 23/23ab is taken from the Kāmikāgama (see note 23,31 above), Abhinava is most probably drawing his enumeration of the seven sacrifices from there. The passage Jayaratha quotes here is probably not drawn from Abhinava’s source. The reason for this is simply that none of the items given to the newly consecrated ācārya listed by Abhinava are found listed in this passage. If Abhinava is drawing from the Kāmikāgama, Jayaratha could not have quoted it, as he did not have access to it.
 
 
 *[p. 307]* ^pg327
@@ -447,7 +447,7 @@ jñānahīno guruḥ karmī svādhikāraṁ samarpya no |
 dīkṣādyadhikṛtim kuryād vinā tasyājñayā punaḥ || 25 ॥
 ity evaṁ Śrāvayet so ‘pi namaskṛtyābhinandayet | 
 
-[^717]: \[illegible\] The printed text reads \[illegible\] The correct form would be khatvāṁ, which means ‘bedstead’. As this entry is clearly anomalous, I have tentatively emended to khadgaṁ — ‘sword’.
+[^717]: The printed text reads \[illegible\] The correct form would be khatvāṁ, which means ‘bedstead’. As this entry is clearly anomalous, I have tentatively emended to khadgaṁ — ‘sword’.
 
 [^718]: Read caturthā- for caturā-. Perhaps ‘āshrama’ should not be understood to mean, as it normally does, ‘stage of life’, but ‘level of initiation’. It is possible that this text sponsored teachers who were renouncers, rather than householders. If so, that would be most unusual.
 
@@ -597,7 +597,7 @@ cakṣurlomādirandhraughavahajjvālaurvasainibham |
 
 [^734] (The power of the breath) that originates from the wheel of the (teacher’s) heart is subtle (and brilliant) like the moon or a crystal. It is in 
 
-[^734]: \[illegible\] The subject of this passage (i.e. verses 33-39) is the mantra observance (vidyāvrata) which is performed by a newly consecrated officiant (ācārya, guru) before he is to initiate others. See Sanderson 1990: 356.
+[^734]: The subject of this passage (i.e. verses 33-39) is the mantra observance (vidyāvrata) which is performed by a newly consecrated officiant (ācārya, guru) before he is to initiate others. See Sanderson 1990: 356.
 
 
 *[p. 314]* ^pg334
@@ -628,7 +628,7 @@ The End of the Twelve, within which all activity (vṛtti) ceases, is ‘tranqui
 
 When a oneness of a Mantra with the power of the vital breath has been achieved in this way, within the wheels and foundations etc. (of the subtle body), where does the Mantra he is repeating attain the glorious power, which is 
 
-[^735]: \[illegible\] Read piṁgalādi for piṁgalāpi.
+[^735]: Read piṁgalādi for piṁgalāpi.
 
 
 *[p. 315]* ^pg335
@@ -663,7 +663,7 @@ He now concludes the main point.
 विद्यात्रतमिदं प्रोक्तं मन्रवीर्यप्रसिद्धये ॥ ३९ ॥
 तच्च तादात्म्यमेवेति यदुक्तं स्पन्दशासने ।
 
-[^736]: \[illegible\] See above, 6/161 and note. The standard ascent of Sound with the breath through suṣumnā is in twelve stages beginning from the heart (see Appendix A to Chapter One). In this case, four extra steps have been added below, and the goal is counted separately, thus making seventeen stations of ascent. The reason for this number may well be that it coincides with the number of syllables of the Kālasaṁkarṣiṇī Vidyā. If that is so, the adept who recites the Vidyā should imagine first, and then experience directly, that this rise takes place progressively through these stages in the course of the utterance of the Vidyā. However, a problem arises here. The visualization starts and ends in the wheel of the heart. How does the breath travel down below that to the Root and then back up to the heart? The answer seems to be that this is a separate practice. Once the teacher has generated potency of his mantras, he can recite them in any of these subtle centres in his own, or his disciple’s body. Wherever he does so, the mantras are equally effective.
+[^736]: See above, 6/161 and note. The standard ascent of Sound with the breath through suṣumnā is in twelve stages beginning from the heart (see Appendix A to Chapter One). In this case, four extra steps have been added below, and the goal is counted separately, thus making seventeen stations of ascent. The reason for this number may well be that it coincides with the number of syllables of the Kālasaṁkarṣiṇī Vidyā. If that is so, the adept who recites the Vidyā should imagine first, and then experience directly, that this rise takes place progressively through these stages in the course of the utterance of the Vidyā. However, a problem arises here. The visualization starts and ends in the wheel of the heart. How does the breath travel down below that to the Root and then back up to the heart? The answer seems to be that this is a separate practice. Once the teacher has generated potency of his mantras, he can recite them in any of these subtle centres in his own, or his disciple’s body. Wherever he does so, the mantras are equally effective.
 
 [^737]: Devyāyāmala also quoted above ad 8/398-400ab (397cd-399).
 
@@ -754,7 +754,7 @@ The Removal of Knowledge from a Deceitful Disciple
 
 [^745]: This line corresponds to: cīrnavidyāvrato maṁtrī manasā vā smaret sadā | BY 34/80cd (MS G fl 313a), which reads maṁtrī for sarvaṁ.
 
-[^746]: \[illegible\] Read na vetyāśaṁkyāha for navetyāśaṁkyāha.
+[^746]: Read na vetyāśaṁkyāha for navetyāśaṁkyāha.
 
 
 *[p. 318]* ^pg338
@@ -1151,7 +1151,7 @@ Better to Follow an Inferior Doctrine and Give it Up Than Give up a Superior One
 अधोदृष्टौ प्रपन्नस्तु तदनाश्वस्तमानसः ।
 ऊध्वशासनभाक् पापं तच्चोज्छोच्च शिवीभवेत् ॥ ७१ ॥
 
-[^764]: \[illegible\] Here Abhinava is referring especially to the Mālinīvijayottara.
+[^764]: Here Abhinava is referring especially to the Mālinīvijayottara.
 
 [^765]: This verse is a paraphrase of MV 18/67cd-68: karunākṛṣṭacittas tu tasya kṛtvā viśodhanam II prānāyāmādibhistīthaiḥ prāyaścittairvidhiśrutaiḥ | tatastasya prakurvīta dīkṣāṁ pūrvoktavartmanā || “(The teacher’s mind,) drawn by compassion, having purified (his fallen disciple) by means of the procedures in the scriptures of atonement such as breath control, should then initiate him (again) in the manner taught previously.”
 
@@ -1486,7 +1486,7 @@ The wealth of passion that emerges spontaneously from one who enjoys the bliss o
 
 [^775]: Above, 23/73b which is MV 18/67b.
 
-[^776]: \[illegible\] See above, 23/73-76.
+[^776]: See above, 23/73-76.
 
 [^777]: Here it seems that Abhinava is talking about himself and how he views his teacher, Śambhunātha.
 

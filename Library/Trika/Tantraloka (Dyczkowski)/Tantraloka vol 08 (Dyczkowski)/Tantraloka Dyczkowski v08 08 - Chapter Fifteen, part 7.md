@@ -26,7 +26,7 @@ When depositing that (seed), the formula which is to be recited (prayoga) is ‘
 
 Having circled the vessel (containing the burning coals), held in the encapsulated (hands) in the form of a Yoni, around three times with the Darbha grass and the Dhruva Mantra (that is), having moved it around three times successively from right to left in order to arouse the Yoni (in the hearth), he should bring (the Fire) down (into the hearth), that is, he should make it fall into the Yoni (i.e. the womb of the hearth) with the Bhairava (Mantra), that is, the venerable Niṣkala (Mantra). The Dhruva Mantra is OM. He should fashion an enclosure of rice grains, (along) with (leaves of) darbha (grass), (around) the abode of the sacrificial fire. They are located in the outer enclosing girdle (uccamekhalā) to the east, in front, and to the north. With (the grains) facing upwards when the venerable Mantrarāja (is being uttered). (This is how this is done.) Thus, one should ignore (what others have) imagined (to be the way to do this). The \*wise man’ alone is immersed in Siva (śivasamāveśa). The (individual) soul possesses an agency which originates from a cause, whereas Siva possesses primary agency. Such explanations are wrong. (Only) one who has been identified with Siva has the authority (to perform) a Śiva sacrifice (yāga). What is this doubt here concerning (his) being in the state of a fettered soul (pāśsubhāva).? Or if (the teacher) were to be in the fettered state, how could that serve to liberate (others)? mantrāḥ karaṇabhūtās tu paśukāryasya sādhane | ācāryaḥ karaṇaṁ proktaḥ śivarūpo yataḥ smṛtaḥ Il (3/160) ityādinā ca vakṣyamāṇena kā saṁgatiḥ ? ityāstām etat | ayar tatra rahasyārtho \[illegible\] anunmudrito ‘smadguru-vaktrapāramparyāyātah prakāśyate ---- ‘Mantras are instruments to accomplish the fettered soul's tasks. The teacher is (likewise) said to be an instrument, for he is considered to be Siva.” (3/160) How does (what is being said here) square with such (teaching) that will be imparted later? Let this be enough. The secret meaning there (with regard to that) is revealed (in the passage that follows,) which even today has not been published; (rather,) it has come from the tradition of my teacher's mouth. parāvāṁmāheśī jagad ajanayat svāprathanato viśuddhāntardhāmā vikṛtikalanāgrastavibhavam | śritajyeṣthāsphārāt tanitatanur eṣā taducitaḥ \[illegible\] dṛsṭyā raudryā prathayati śivābhedasarasam |l \[illegible\] who is Supreme Speech and the completely pure inner abode, gave birth to the universe by ceasing to perceive herself. The glory (of the individual soul) consumed by the manifestation of deformities (from oneness) due to the expansion of Jyeṣthā’s state, into which She has entered (śritajyeṣthāsphārāt), her body spread forth as Raudrī, she brings about the experience of oneness with Siva and its aesthetic savour by Her (gracious) gaze upon the childlike (fettered soul) who is fit for that. ataḥ pūrṇāhantāmṛtarasasamāsvādasuhitaḥ sivāveśād vācaṁ śivarasaparautsukyasubhagām | svaviryenṇākramya pravaragurur agnyādinikhilaṁ Sivaikātmasvātmadyutimayam ayari sañjanayati Il Thus, the most excellent teacher, well-satiated with the pervasive taste (samāsvāda) of the juice of the nectar of full (and perfect) subjectivity (pārnāhantā) (experienced) by immersion into Śiva, pervading with his own vitality Speech, which is blessed with supreme eagerness for Śiva’s aesthetic savour (rasa), generates all this from the Fire onwards, made of the radiance of His own Self at one with Śiva.”
 
-[^654]: \[illegible\] OM HRĪM BHAGAVATI MĀLINI IDAM STHĀNAM ADHITIṢṬHA NAMAH.
+[^654]: OM HRĪM BHAGAVATI MĀLINI IDAM STHĀNAM ADHITIṢṬHA NAMAH.
 
 [^655]: OM BHAGAVAN ŚABDARĀŚE IDAM STHĀNAM ADHITIṢṬTHA NAMAH.
 
@@ -177,7 +177,7 @@ The venerable Śambhunātha taught me this, the true (nature and procedure) of p
 
 [^671]: The fire is inflamed by the ācārya’s true and sound intention to initiate his disciples. Siva also intends the same for his devotees and so, at one in this, the fire, and so too the ācārya, are one with Siva, for Śiva is Himself that very intention.
 
-[^672]: \[illegible\] Here then is the reason that the rite Abhinava teaches here to purify the fire does not conform fully to his main source, the MV, although it does resemble it. Both his Trika teacher and Abhinava himself have, it seems, elaborated it. The paucity of references from other sources leads one to this conclusion. Certainly. it is surprising that Abhinava needs to rely so heavily on the Svacchandatantra. It is quite alright to draw from other Tantras, but the general rule is that, as far as possible, one should do so from those that are most closely related. So why does Abhinava not draw from other Trika Tantras? Of the three that have survived, only the Mālinīvijayottara teaches this rite. It is the rite of initiation which is the basic patter of the daily rite (pūjā), and so is a very important one. Why does Abhinava not draw from other Trika Tantras?
+[^672]: Here then is the reason that the rite Abhinava teaches here to purify the fire does not conform fully to his main source, the MV, although it does resemble it. Both his Trika teacher and Abhinava himself have, it seems, elaborated it. The paucity of references from other sources leads one to this conclusion. Certainly. it is surprising that Abhinava needs to rely so heavily on the Svacchandatantra. It is quite alright to draw from other Tantras, but the general rule is that, as far as possible, one should do so from those that are most closely related. So why does Abhinava not draw from other Trika Tantras? Of the three that have survived, only the Mālinīvijayottara teaches this rite. It is the rite of initiation which is the basic patter of the daily rite (pūjā), and so is a very important one. Why does Abhinava not draw from other Trika Tantras?
 
 
 *[p. 254]* ^pg272
@@ -246,11 +246,11 @@ n the heart, purified, (the officiant) should expel it with (the exhaled breath)
 
 ‘Or else, the other procedure (concerning) Śiva’s fire (is as follows). Having drawn in a flame (citi)[^679] of the burning fire into the heart with (the 
 
-[^675]: \[illegible\] Kṣemarāja, commenting on SvT 2/226 says: kṣamyatām ity uktvā visarjayet “after having said: “forgive me (for any mistakes or omissions I may committed)”, send (them) away.”
+[^675]: Kṣemarāja, commenting on SvT 2/226 says: kṣamyatām ity uktvā visarjayet “after having said: “forgive me (for any mistakes or omissions I may committed)”, send (them) away.”
 
 [^676]: 15/413cd-5 (411-413ab) is derived from MV 8/115-116. The preparation of the caru from this fire is described below in 15/439-443 (436cd-44lab). Here Abhinava is explaining as he summarizes MV 8/115, which says: sathipūjya mātaraṁi vahneḥ pitaraṁ ca visarjayet | carvādisādhanāyāgniṁ samuddhṛtya tataḥ punaḥ \\\\ “Having worshipped the mother and the father of the fire, dismiss them. Then having again extracted the fire in order to prepare the sacrificial pap etc., (install it separately). 115 Concerning, caru — the sacrificial pap, see below, note 15,715.
 
-[^677]: \[illegible\] This method of inner purification is meant for disciples who are especially proficient.
+[^677]: This method of inner purification is meant for disciples who are especially proficient.
 
 [^678]: Paraphrase and explanation of MV 8/1 16-117ab, which is quoted in the commentary.
 
@@ -457,7 +457,7 @@ He answers this (question as follows):
 tatrāhur gamaśāstrajṁñā vāmāśaktimayās tadā |
 mantrā badhnanti ta samyag bhavakārāmahāgṁe ॥ 425 ॥ 
 
-[^690]: \[illegible\] SvT 1/21d SvT read muktibhāk for mokṣabhāk. māyānvitaḥ śaṭhaḥ \[illegible\] nihsatyaḥ kalahapriyaḥ ॥ 20 ॥ kāmī ca lobhasampannaḥ śivabhaktivivarjitaḥ | dūṣako gurusāstrāṇāṁi dīkṣito 'pi na muktibhāk ॥ 21 I| \[illegible\] asvacchahṛdayaḥ, krūro raudraprakṛtiḥ, kalahapriyo vitandāvān, lobhasampannaḥ sam-bhavasattāyām api pūjādiṣu vittaśāthyavān | śivabhaktītyādinā vilayaśaktyāghrātatvam asyoktam | na muktibhāg ity anena svātmany eva asya bhayapradatvam uktam sarveṣāṁ Śiṣyatvāt \\| 21 ॥ ‘He who is deluded (māyānvita), deceitful, cruel, a liar, delights in quarrelling, lustful, stingy, devoid of devotion for Siva, critical of the teacher and the scriptures, even though he is initiated, he is not liberated.’ SvT 1/20cd-21 (A person who is) deceitful is one whose heart is not pure. One who is cruel has a fierce (violent) nature. One who delights in quarrelling engages in useless illogical dispute. One who is stingy is one who though he has means, when it comes to rites of worship or the like, he is deceitful about his wealth. (One who is devoid of) devotion to Siva and the like is said to be affected by the (Sivas) destructive power (vilayaśakti).”
+[^690]: SvT 1/21d SvT read muktibhāk for mokṣabhāk. māyānvitaḥ śaṭhaḥ \[illegible\] nihsatyaḥ kalahapriyaḥ ॥ 20 ॥ kāmī ca lobhasampannaḥ śivabhaktivivarjitaḥ | dūṣako gurusāstrāṇāṁi dīkṣito 'pi na muktibhāk ॥ 21 I| \[illegible\] asvacchahṛdayaḥ, krūro raudraprakṛtiḥ, kalahapriyo vitandāvān, lobhasampannaḥ sam-bhavasattāyām api pūjādiṣu vittaśāthyavān | śivabhaktītyādinā vilayaśaktyāghrātatvam asyoktam | na muktibhāg ity anena svātmany eva asya bhayapradatvam uktam sarveṣāṁ Śiṣyatvāt \\| 21 ॥ ‘He who is deluded (māyānvita), deceitful, cruel, a liar, delights in quarrelling, lustful, stingy, devoid of devotion for Siva, critical of the teacher and the scriptures, even though he is initiated, he is not liberated.’ SvT 1/20cd-21 (A person who is) deceitful is one whose heart is not pure. One who is cruel has a fierce (violent) nature. One who delights in quarrelling engages in useless illogical dispute. One who is stingy is one who though he has means, when it comes to rites of worship or the like, he is deceitful about his wealth. (One who is devoid of) devotion to Siva and the like is said to be affected by the (Sivas) destructive power (vilayaśakti).”
 
 [^691]: l1 Cf. above, 15/36cd-37ab.
 
@@ -490,7 +490,7 @@ yā tv anugrāhikā śaktis teṣāmn sā gurudīpitā \\ śodhayeta svaśāstra
 
 [^692]: The same metaphor is found also above in 12/21ab.
 
-[^693]: \[illegible\] Thus, initiation has positive results, even if those who receive it are unworthy. Presumably this verse is also drawn from the Gamatantra, as it continues directly from the previous one.
+[^693]: Thus, initiation has positive results, even if those who receive it are unworthy. Presumably this verse is also drawn from the Gamatantra, as it continues directly from the previous one.
 
 [^694]: This verse is set in Arya metre.
 
@@ -531,11 +531,11 @@ tāvad vahnau mantramukhe vauṣadantāṁ huti kṣipet |
 
 (The teacher) then takes up the large and small ladles[^698] filled with the nectar of clarified butter, their nature Śiva and Śakti. By placing one below and the other above, they are beautiful with their mutual intent on one another. (Then his) mind, breath and body equal (in balance and well controlled) by being engaged in the procedure of oneness; the left hand is on the handle of the large ladle, the right (hand), which has a braided ring of darbha grass (upayāmaka) (on one finger),[^699] is placed below the neck (of 
 
-[^696]: \[illegible\] Above, 13/314cd-316ab.
+[^696]: Above, 13/314cd-316ab.
 
-[^697]: \[illegible\] Now Abhinava returns to talking about the fire offering.
+[^697]: Now Abhinava returns to talking about the fire offering.
 
-[^698]: \[illegible\] The sruk is a wooden ladle that is used to pour clarified butter into the fire. The sruva is a smaller wooden ladle which is used to take the clarified butter or milk from their container (sthālī) and pour it into the large ladle. Jayaratha notes that the clarified butter is only in the sruk.
+[^698]: The sruk is a wooden ladle that is used to pour clarified butter into the fire. The sruva is a smaller wooden ladle which is used to take the clarified butter or milk from their container (sthālī) and pour it into the large ladle. Jayaratha notes that the clarified butter is only in the sruk.
 
 [^699]: This is not the meaning of the word ‘upayāmaka’ found in the dictionary. MW says that it is ʻa particular vessel for ladling out; a ladle (used at a sacrifice)’. This is clearly not what is meant here. My translation is based on Jayaratha’s explanation. It is standard practice for those participating in a rite to wear a ring like this.
 

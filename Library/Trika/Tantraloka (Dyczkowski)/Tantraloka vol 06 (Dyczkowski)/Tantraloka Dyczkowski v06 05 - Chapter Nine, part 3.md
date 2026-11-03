@@ -80,7 +80,7 @@ ityādy anvarthasaṁijñābhis tatra tatraiṣa bhanyate ॥ 86 ॥
 
 [^197]: See above, 1/23 ff. and below, 13/41cd ff. Abhinava is also referring to MVV 2/157- 186, translated above in note 9,183.
 
-[^198]: \[illegible\] Lines 84cd to 88ab are Abhinava’s summary and brief didactic etymology of the terms for Impurity.
+[^198]: Lines 84cd to 88ab are Abhinava’s summary and brief didactic etymology of the terms for Impurity.
 
 [^199]: Concerning desire (abhilāṣa), see note 13,65, with reference to SvTu 4/105.
 
@@ -125,7 +125,7 @@ Concerning Karma[^203]
 
 [^202]: This expression is drawn from MV 1/23d. See above, note 9,167 for cross-references.
 
-[^203]: \[illegible\] Karman is discussed at length in MVV 2/187-206, translated here. MVV 2/157-186 is translated above in note 9,183. Abhinava starts out by talking about the nature of Karma and how it ‘matures’, and then how it is the Lord who ultimately brings it about in MVV 2/202ff. Cf. below TĀ 9/90cd-141, where Karman is discussed in relation to the Deconditioned by Dissolution (Pralayākalā) and Deconditioned by Knowledge (Vijñānakalā) subjects. In the previous part of this discussion concerning Impurity, Karma and Māyā Abhinava concluded that, in order to explain how the consciousness of individual souls can be obscured, we must admit Śiva Himself does it, for He alone is free to do anything, and so makes this possible also (see above, note 9,183). The discussion now turns to Karma as another possible alternative reason. Thus, Abhinava begins: yac ca karmāpi nāmeṣtar tat tāvat pravicāryatām | tathāhi karmasaṁbandhe sthite ‘pi katham īdṛśaḥ |I 187 ॥ mahāpralaya ucyeta mahāsṛṣtiś ca vā katham |
+[^203]: Karman is discussed at length in MVV 2/187-206, translated here. MVV 2/157-186 is translated above in note 9,183. Abhinava starts out by talking about the nature of Karma and how it ‘matures’, and then how it is the Lord who ultimately brings it about in MVV 2/202ff. Cf. below TĀ 9/90cd-141, where Karman is discussed in relation to the Deconditioned by Dissolution (Pralayākalā) and Deconditioned by Knowledge (Vijñānakalā) subjects. In the previous part of this discussion concerning Impurity, Karma and Māyā Abhinava concluded that, in order to explain how the consciousness of individual souls can be obscured, we must admit Śiva Himself does it, for He alone is free to do anything, and so makes this possible also (see above, note 9,183). The discussion now turns to Karma as another possible alternative reason. Thus, Abhinava begins: yac ca karmāpi nāmeṣtar tat tāvat pravicāryatām | tathāhi karmasaṁbandhe sthite ‘pi katham īdṛśaḥ |I 187 ॥ mahāpralaya ucyeta mahāsṛṣtiś ca vā katham |
 
 *[p. 86]* ^pg103
 
@@ -226,11 +226,11 @@ The second half (of this verse states) the reason why Karma is the cause of tran
 
 [^205]: ५ ऽक सव कोप,
 
-[^206]: \[illegible\] Sarisārasyā” kuras tasya kāraṇam.
+[^206]: Sarisārasyā” kuras tasya kāraṇam.
 
 [^207]: Abhinava is refering here to MV 1/⁄23cd: malam ajñānam icchanti sarsārāṁkurakāraṇam || ‘(The wise) prefer (the view that) impurity is ignorance (not a material substance as the dualists maintain). It is the cause of (Karma, which is) the sprout of transmigratory existence (saṁsāra).’ This line is quoted verbatim above as 1/23cd and below as 9/120cd, in TĀv ad 9/99cd-100ab, and paraphrased in 13/49cd. MV may be elaborating on \[illegible\] 1/17c: malan sahsārakāranam In the MV, this line comes just after a description of the Vijñāna- and Pralayakevala.
 
-[^208]: \[illegible\] See above, 8/119-120. The fourteen kinds of living beings are listed in MV 5/7-9, quoted above in note 8,1009.
+[^208]: See above, 8/119-120. The fourteen kinds of living beings are listed in MV 5/7-9, quoted above in note 8,1009.
 
 [^209]: SvT 4/105a ad 13/49. SvT reads: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | “It is said that the bodies, worlds and (phenomenal) forms are (the Impurities of) Māyā’. The reading here is: śarīrabhuvanākāra māyīyaṁ parikītītam | The same reading is found below ad 13/49, and so has been retained. The next line says, “Karma is the cause of worldly experience (bhoga), whereas Impurity here is craving.”
 
@@ -266,7 +266,7 @@ Therefore, according to the teaching of the Sāṁkhya, Yoga, Pāñcarātra and 
 
 [^212]: Note that as Abhinava goes on to talk about the condition of the Vijñānakevalin, it is clear that this is the level that the followers of the Sāmkhya and the like attain. Cf. above 4/230, where Vaiṣṇavas, Vedāntins and others like them who conjoin with supreme Prakṛti attain the level of Pralayākala, which is below that.
 
-[^213]: \[illegible\] Karman is discussed at length in MVV 2/187-206; see above, note 9,203 for a translation. Cf. TĀ 9/90cd-146.
+[^213]: Karman is discussed at length in MVV 2/187-206; see above, note 9,203 for a translation. Cf. TĀ 9/90cd-146.
 
 [^214]: This reference is drawn from BhGī 4/14, the following three are ibid. 4/20, 5/7-8ab and 5/10, respectively.
 
@@ -350,7 +350,7 @@ the Impurity of Individuality (Ā&navamala), and that is the cause of (the Impur
 
 [^219]: This verse is quoted below in TĀv ad 13/275cd-276ab. Preferring to ignore Jayaratha’s interpretation of this verse, 50 a (2004: 171) translates this last sentence (i.e. kramān mantreśatannetrrūpo yí tmatām) differently: ‘By the will of Śambhu he may experience non-difference from Śiva and in due order (in accord with the intensity of his experience) he attains identity with Siva in the form of a Mantra-regent \[mantreśvara\] or a Sovereign of the Mantra-regents \[Mantramaheśvara\].” But this translation may not be correct. cf. below 9/96cd: vijñānākalamantreśatadīśāditvakalpanā || Somadeva does translate this line as referring to Vijñānākala, Mantra, Mantreśa, Mahāmantreśa and Ādi (= Śiva).
 
-[^220]: \[illegible\] MV 1/18cd-19ab. This verse is paraphrased below in 10/139cd-140ab and quoted in full in the commentary there.
+[^220]: MV 1/18cd-19ab. This verse is paraphrased below in 10/139cd-140ab and quoted in full in the commentary there.
 
 *[p. 93]* ^pg110
 
@@ -384,7 +384,7 @@ everywhere (in the scriptures). Thus he says:
 
 [^221]: ĪP 3/2/4d. The full definition of the nature of the Impurity of Individuality (āṇavamala) is: ‘As it conceals one’s own nature, this is the soul’s (essential) Impurity (āṇavamala). It is two-fold (as) the loss of the freedom of (its innate) consciousness and so too (along with it) the lack of consciousness of (its innate) freedom.” Quoted in full above in TĀv ad 1/23, 5/106 (5/105cd-106ab) and 9/62.
 
-[^222]: \[illegible\] These perceivers are called both Vijñānākala ~ Consciousness Deconditioned and Vijñānakevalin - Isolated in Consciousness Alone.
+[^222]: These perceivers are called both Vijñānākala ~ Consciousness Deconditioned and Vijñānakevalin - Isolated in Consciousness Alone.
 
 *[p. 94]* ^pg111
 
@@ -1117,7 +1117,7 @@ The other (kind of) Karma (that has not started to take its effect), whether it 
 
 [^255]: dattaprāyaphalatvāt “because the fruit has virtually (all) been given’.
 
-[^256]: \[illegible\] Abhinava quotes these lines below in 16/182 and 19/8, telling us both times that they are from the Gahvaratantra. Jayaratha quotes this verse again in TĀv ad 13/236-238. Kṣemarāja quotes it SvTu ad 4/148cd-149.
+[^256]: Abhinava quotes these lines below in 16/182 and 19/8, telling us both times that they are from the Gahvaratantra. Jayaratha quotes this verse again in TĀv ad 13/236-238. Kṣemarāja quotes it SvTu ad 4/148cd-149.
 
 *[p. 115]* ^pg132
 
@@ -1244,7 +1244,7 @@ This is said to be Karmic impurity with which the Dissolution Deconditioned (pra
 
 [^263]: BhGT 9/27.
 
-[^264]: \[illegible\] Note the gender change here from the regular masculine of malaḥ to the neuter. There are several instances.
+[^264]: Note the gender change here from the regular masculine of malaḥ to the neuter. There are several instances.
 
 *[p. 119]* ^pg136
 
@@ -1315,7 +1315,7 @@ Now he concludes the main point.
 
 The Nature of Māyā[^273] 
 
-[^273]: \[illegible\] This subject is discussed from here up to verse 166ab, cf. MVV 2/207-216 which is as follows: māyā ca nāma viśvasya yā kāraṇam iti sthitā | sā dharaṇyantatattvāśagarbhā nityā yadi sphutam I| 207 ॥ pralayo na kadācit syān nanu sa vyaktibhāvataḥ \[vyaktyabhāveti pāthaḥ\] \\ vyaktiń nāma na imo vijñānar grāhyatā yataḥ ॥ 208 ॥ tadīśvaraparajñṁñānagrāhyatāsti sadātanī | tasyām avidyamānāyām īśvaraḥ kāraṇari kutaḥ ॥ 209 ॥ ‘Māyā abides as the cause of the universe. It contains (all its) aspects within itself, ending with the principle of Earth. If it were to be perpetually apparent (sphuṭa), cosmic destruction (pralaya) would never occur. Surely, (someone may object that that takes place) because it manifests (as such, and so that too is a kind of manifestation) (vyaktibhāva). (Our response to that objection is that) we know of no such thing called ‘manifestation’ (vyakti) (out of unmanifest Māyā), for objectivity is (ultimately) consciousness (vijñāna), and so the objectivity (grāhyatā) of the supreme knowledge of the Lord of that (universe) is eternal. How can the Lord be the cause of its absence? (207-209) sphuṭaṁ prakurute kumbhaṁ tadvad īśe bhaviṣyati | maivam antarbahīrūpakaraṇapravibhedataḥ ॥ 210 ॥ sphuṭāsphuṭādivijñānami yuktan kumbhākṛti sphuṭam | Tśvarasya sphuṭodārapūrvavijñānaśālinaḥ ॥ 211 ॥ ko na jñāto bhaved bhāgo yatrāpi vyaktyapekṣitā | (The opponent rejoins:) (the potter) makes the jar apparent (sphuṭa). It will be like that (also) within the Lord. (Our reply is that) no! that is not so, for that would entail that there is a difference between internal and external instrumental causes. (What is) sound (yukta), is that there is consciousness (that is variously) apparent (sphuṭa) or not (asphuṭa) etc. The form of the jar is clearly apparent. What part (bhāga) of the Lord, Who possesses the prior consciousness (vijñāna), which is clearly apparent and noble, is not known, even where that (part) depends on (its) manifestation? (210-212ab) satkāryavādinām deśe kāranṇe ‘pi sphuṭaṁ sthitam || 212 ॥ viśvam ity api māyāyāṁ sphuṭtaṁn syād asamañjasam | vyāpakāś ca śivātmānas tattvaiḥ \[illegible\] parasparam || 213 ॥ kathaṁ ca nāma vidyantām vyāpakatvatirohiteḥ | vikāsaḥ paramo vyāptiḥ saṁvido bheda ucyate ॥ 214 ॥ According to those who maintain that the effect is pre-existent in the cause (satkāryavādin), the universe clearly abides within the place which is its cause, and so it should also be apparent within Māyā. (According to us this is) incorrect (and illogical).
+[^273]: This subject is discussed from here up to verse 166ab, cf. MVV 2/207-216 which is as follows: māyā ca nāma viśvasya yā kāraṇam iti sthitā | sā dharaṇyantatattvāśagarbhā nityā yadi sphutam I| 207 ॥ pralayo na kadācit syān nanu sa vyaktibhāvataḥ \[vyaktyabhāveti pāthaḥ\] \\ vyaktiń nāma na imo vijñānar grāhyatā yataḥ ॥ 208 ॥ tadīśvaraparajñṁñānagrāhyatāsti sadātanī | tasyām avidyamānāyām īśvaraḥ kāraṇari kutaḥ ॥ 209 ॥ ‘Māyā abides as the cause of the universe. It contains (all its) aspects within itself, ending with the principle of Earth. If it were to be perpetually apparent (sphuṭa), cosmic destruction (pralaya) would never occur. Surely, (someone may object that that takes place) because it manifests (as such, and so that too is a kind of manifestation) (vyaktibhāva). (Our response to that objection is that) we know of no such thing called ‘manifestation’ (vyakti) (out of unmanifest Māyā), for objectivity is (ultimately) consciousness (vijñāna), and so the objectivity (grāhyatā) of the supreme knowledge of the Lord of that (universe) is eternal. How can the Lord be the cause of its absence? (207-209) sphuṭaṁ prakurute kumbhaṁ tadvad īśe bhaviṣyati | maivam antarbahīrūpakaraṇapravibhedataḥ ॥ 210 ॥ sphuṭāsphuṭādivijñānami yuktan kumbhākṛti sphuṭam | Tśvarasya sphuṭodārapūrvavijñānaśālinaḥ ॥ 211 ॥ ko na jñāto bhaved bhāgo yatrāpi vyaktyapekṣitā | (The opponent rejoins:) (the potter) makes the jar apparent (sphuṭa). It will be like that (also) within the Lord. (Our reply is that) no! that is not so, for that would entail that there is a difference between internal and external instrumental causes. (What is) sound (yukta), is that there is consciousness (that is variously) apparent (sphuṭa) or not (asphuṭa) etc. The form of the jar is clearly apparent. What part (bhāga) of the Lord, Who possesses the prior consciousness (vijñāna), which is clearly apparent and noble, is not known, even where that (part) depends on (its) manifestation? (210-212ab) satkāryavādinām deśe kāranṇe ‘pi sphuṭaṁ sthitam || 212 ॥ viśvam ity api māyāyāṁ sphuṭtaṁn syād asamañjasam | vyāpakāś ca śivātmānas tattvaiḥ \[illegible\] parasparam || 213 ॥ kathaṁ ca nāma vidyantām vyāpakatvatirohiteḥ | vikāsaḥ paramo vyāptiḥ saṁvido bheda ucyate ॥ 214 ॥ According to those who maintain that the effect is pre-existent in the cause (satkāryavādin), the universe clearly abides within the place which is its cause, and so it should also be apparent within Māyā. (According to us this is) incorrect (and illogical).
 
     (The individual) souls are pervasive and, (essentially) Śiva by nature, are (related) mutually (to one another), along with the reality principles (fattva). (Pray tell me, their) pervasive state is obscured, and so how would they be known? (In reply to this question, we say that) the supreme pervasion is the expansion of consciousness, and that is said to be unity (abheda). (212cd-214) \[illegible\] kañcukavrātari tathā karaṇasaricayaḥ | m itaḥ pūrvam eva kāryavargaś ca carcitaḥ ॥ 215 ॥ yāvac chivapadādhyāsavandhyaṁ viśvaṁ na visphuret | tatsvātantryakathāmātram etad ity avadhāryatām || 216 ॥ The aggregate of obscuring coverings (kañcuka) is made of Māyā, 9 the aggregate of instrumental means (of perception and action). This has been expounded (vicarita) previously, as has the category of the resultant (gross material) products (kāryavarga). (The conclusion is that,) as long as the universe is devoid of the superimposition (adhyāsa) of Śiva’s plane (pada), it would not be manifestly apparent. Understand that (all this discussion) is only talk concerning (Śiva\`s) freedom.” (215-216)
 
@@ -1339,7 +1339,7 @@ This Karmic Impurity flows along the path within Māyā. Its fundamental (materi
 
 Surely (one may ask), fine, let it be (as you say, but) then what is said to be the disturbed state introduced previously (in the following words): 
 
-[^274]: \[illegible\] BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
+[^274]: BhoKā 126cd-127ab. The printed edition reads: janmādijanikā for janmābhijanikā Aghoraśivācāryaą comments: ajṁñānahetunā malena rahitasya muktātmano janmādarśanāt karmānuṣṭhānādarśanācca malayuktasyaiva karmārjanaṁi tadbhogo vā upayujyate ॥ ‘It is reasonable (to maintain that it is the soul) that, conjoined to Impurity, accrues Karma or has the experience of its consequence (bhoga), because one does not see the birth of a liberated soul who is devoid of Impurity, which is the cause of ignorance, and also because he is seen to be dedicated to Karma.’
 
 *[p. 123]* ^pg140
 

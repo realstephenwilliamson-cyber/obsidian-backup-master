@@ -215,7 +215,7 @@ dharmād yadi kutaḥ so ‘pi karmataś cet tad ucyatām ॥ 10 ॥
 
 Now (Kṛṣṇa declares in the Bhagavadgītā): ʻO Arjuna, the fire of knowledge reduces all Karmas to ashes.”[^278] If, in accord with this teaching, one considers that Karma is destroyed by knowledge, (the question arises) what the attendant cause (nimitta) of that knowledge is. Accordingly, he asks ‘where does that (knowledge) come from?’ Others (i.e. the Vaiśeṣikas and 
 
-[^278]: \[illegible\] 81 4/37cd.
+[^278]: 81 4/37cd.
 
 
 *[p. 128]* ^pg148
@@ -352,7 +352,7 @@ That is not logically sound. (Indeed,) thought concerning whether or not Karma i
 
 [^287]: Gnoli translates: ‘However in this case (I reply) that fasting etc would not be capable of neutralizing bad Karman, whereas you maintain the contrary, that is, that they do neutralize it’ He assumes an unstated emendation to the text. Sanderson suggests (Wallis thesis p. 397 n 947) emending duṣtakarmaphalaṁi (‘the fruit of tainted Karma’) to duṣtakarmāpaham (‘removes tainted Karma’). The meaning then would be: ‘(this implies) that you accept (a view that cannot be correct, namely) that (good Karma such as) fasting and the like, removes (some) other tainted action.’ Jayaratha basically accepts the reading as it stands taking —duṣtaphalam to be -duṣtan phalam. I have had to translate accordingly, although I prefer the alternative translations, especially the second one.
 
-[^288]: \[illegible\] The case in question refers to a person who, engaging in the performance of a sacrifice, has taken care to observe all the rules of purity but has been rendered impure by being bitten by a dog. According to the regulations of the law books (smṛti), this tainted Karma is remedied and removed by observing a fast for three days. This is an example of the common practice of ritual atonement (prāyaścitta), which illustrates how one Karma may be removed by another one, irrespective of the officiant’s knowledge or ignorance.
+[^288]: The case in question refers to a person who, engaging in the performance of a sacrifice, has taken care to observe all the rules of purity but has been rendered impure by being bitten by a dog. According to the regulations of the law books (smṛti), this tainted Karma is remedied and removed by observing a fast for three days. This is an example of the common practice of ritual atonement (prāyaścitta), which illustrates how one Karma may be removed by another one, irrespective of the officiant’s knowledge or ignorance.
 
 
 *[p. 133]* ^pg153
@@ -522,11 +522,11 @@ Now (you may say that) ignorance (jñāna) is not (just) the absence (of knowled
 
 Surely, if false knowledge is the ancillary cause (of the production) of the effects of Karmas, does it function as an auxiliary cause spontaneously at (any) time when (their) consequences arise or does it continue along with (them) 
 
-[^296]: \[illegible\] Abhinava examines the view that ignorance (ajñāna) is just the absence of knowledge. This absence can be of two kinds. One is that knowledge previously existed but has ceased (prāgabhāva) and is attained later. The other is knowledge that has been destroyed (pradhvaṁsābhāva). The former view leads to a vicious circle, the latter involves the contradiction that bound and liberated souls would be equally ignorant.
+[^296]: Abhinava examines the view that ignorance (ajñāna) is just the absence of knowledge. This absence can be of two kinds. One is that knowledge previously existed but has ceased (prāgabhāva) and is attained later. The other is knowledge that has been destroyed (pradhvaṁsābhāva). The former view leads to a vicious circle, the latter involves the contradiction that bound and liberated souls would be equally ignorant.
 
 [^297]: Read bhogasya nātyantanivṛtteḥ for bhogasyātyanta nivṛtteḥ.
 
-[^298]: \[illegible\] It is only a manner of speaking, that is, a metaphor, to say there is no knowledge at all about anything that is unknown as it truly is. In actual fact, that ‘absence of knowledge’ is also knowledge, but it is false, erroneous knowledge.
+[^298]: It is only a manner of speaking, that is, a metaphor, to say there is no knowledge at all about anything that is unknown as it truly is. In actual fact, that ‘absence of knowledge’ is also knowledge, but it is false, erroneous knowledge.
 
 
 *[p. 138]* ^pg158
@@ -690,9 +690,9 @@ Surely, (rejoins the opponent, alright,) let Fundamental Nature (constantly) und
 
 [^304]: This looks like a passage from a Sāṁkhya text.
 
-[^305]: \[illegible\] SāmKā 21. See above note 13,4 for an outline of Sāṁkhya dualism. The association between the individual soul that knows but cannot act and Nature, that acts but is not conscious, is like that between a man who can walk, but is blind, and a paralytic who can see, that is sitting on his shoulders, directing his movements.
+[^305]: SāmKā 21. See above note 13,4 for an outline of Sāṁkhya dualism. The association between the individual soul that knows but cannot act and Nature, that acts but is not conscious, is like that between a man who can walk, but is blind, and a paralytic who can see, that is sitting on his shoulders, directing his movements.
 
-[^306]: \[illegible\] The group of sixteen comprises the mind (manas), the five senses of action and the five senses of perception, along with the five kinds of sensations corresponding to them.
+[^306]: The group of sixteen comprises the mind (manas), the five senses of action and the five senses of perception, along with the five kinds of sensations corresponding to them.
 
 [^307]: SāmKā 22.
 
@@ -943,7 +943,7 @@ bhede pramāṇābhāvāc ca tad ekar nikhilātmasu |
 
 [^324]: The covering of ignorance that obscures all liberated souls is the same and undivided. But even so, it affects each of the countless fettered souls separately and in various ways because it possesses many and various powers, some of which affect one soul and others another.
 
-[^325]: \[illegible\] Tattvatrayanirṇaya 11cd. Also quoted above ad 9/68ab. See note there.
+[^325]: Tattvatrayanirṇaya 11cd. Also quoted above ad 9/68ab. See note there.
 
 
 *[p. 151]* ^pg171
@@ -1014,7 +1014,7 @@ Surely, (one may ask, alright,) agreed that that is so, (but) what serves to lin
 न चैतेनात्मनां योगो हेतुमांस्तदसंभवात् ।॥ ४८ ॥
 na caitenātmanāṁ yogo hetumāṁs tad \[illegible\] || 48 || 
 
-[^328]: \[illegible\] pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
+[^328]: pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
 
 
 *[p. 153]* ^pg173

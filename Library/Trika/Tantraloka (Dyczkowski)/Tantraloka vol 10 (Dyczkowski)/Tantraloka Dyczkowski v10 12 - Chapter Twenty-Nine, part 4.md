@@ -62,7 +62,7 @@ He should practice the consciousness of Being (bhāvasarivitti) by turning away 
 
 Having (first) turned away from "all states of being’, such as the Wheels etc., and ‘restrained’ the exhaled and inhaled breath from the paths on the right and left, ‘he should practice’, that is, be intent on the reflective awareness of the consciousness in the Central Abode (madhyadhāman), which is the perceiver, consisting of their union, that threads through all the states of being. This is the meaning. (If one accepts) the reading vittī (for saṁvitti), one should explain that it is tranquil and emergent by nature. 
 
-[^357]: \[illegible\] Read sāntoditātmikā for Śāntoditātmike. Cf. the last line of the commentary of 29/146cd-147b, where the same expression occurs.
+[^357]: Read sāntoditātmikā for Śāntoditātmike. Cf. the last line of the commentary of 29/146cd-147b, where the same expression occurs.
 
 *[p. 330]* ^pg347
 
@@ -125,7 +125,7 @@ Here itself, (immersed in the Resonance of awareness,) he should practice the re
 
 (In the course of practice taught previously,) ‘the goddesses of the subordinate wheels progressively converge onto the centre, which is the wheel of consciousness.[^363] (However, in this case) what ‘comes about’ is repose within the consciousness which is the Main Wheel, in a state of oneness with the goddesses of the subordinate Wheels, ‘simultaneously (all at once)’. The instrumental cause of that is when ‘here itself’, Mantra, which is the reflective awareness of consciousness, is arising as consisting solely of the contemplation of Sound (nādāmarśa), he should ‘practice the repetition (of Mantra) discussed (previously as) classified into units of one hundred thousand (lakṣa)’, in accord with the teaching that ʻit is said that the repetition (japa) of three hundred thousand (with three objects of attention) takes place in the (locus of) emergence (of the vital breath), in the union (of the channels of the vital 
 
-[^361]: \[illegible\] The mantrodaya (‘Arising of the Mantra’) is the point at which the mantra culminates; as one recites it repeatedly with the movement of the breath, suddenly the breath dissolves, and the mantra rises through the central channel, fused with the vital breath (prāṇa).
+[^361]: The mantrodaya (‘Arising of the Mantra’) is the point at which the mantra culminates; as one recites it repeatedly with the movement of the breath, suddenly the breath dissolves, and the mantra rises through the central channel, fused with the vital breath (prāṇa).
 
 [^362]: The practice is basically that in the course of the repetition of a Mantra, one should concentrate on that resonance vibrating in the various focal points or ‘targets’ (lakṣa i.e lakṣya) in the subtle body. This is described above in 29/83-91ab as a way to induce the breath to enter the Central Abode. Here this is understood to be a process of merger of the subordinate cycles of sensory perception into the main universal cycle of cognitive consciousness.
 
@@ -363,7 +363,7 @@ Having heard the inarticulate (ayvakta) (sound) (that rises up) from the locatio
 
 ‘That phoneme (akṣara) that, unclearly articulated (avyakta),[^388] which has arisen from the beloved’s throat, supreme, (spontaneous, and) innate (sahaja), is said to be ‘Sound’ (nāda). It is the reality (tattva) which is the perpetual (nityodita) recitation of Mantra.” 
 
-[^387]: \[illegible\] Read kanthānte for kanṭhāntaḥ.
+[^387]: Read kanthānte for kanṭhāntaḥ.
 
 [^388]: Read with MSs Ch, Ñ, and D ʻavyakta, that is not possible, as it is clear here that Abhinava draws from these verses in 3/146cd-148 (146-147ab). ‘Unmanifest’ or ‘unclear’ for \*akṣobhyaṁ’ ~ ‘cannot be disturbed”. Cf. above, 3/147cd-148 (147-148ab).
 
@@ -393,11 +393,11 @@ candrādvyāptis tathonmanānteyam |
 
 [^389]: MSs Jh, Ñ, Ṭ read: vedana — ‘awareness’ or ‘feel’.
 
-[^390]: \[illegible\] These two verses are quoted by Jayaratha as a pair in the same order above ad 3/147cd-148 (147 148ab).
+[^390]: These two verses are quoted by Jayaratha as a pair in the same order above ad 3/147cd-148 (147 148ab).
 
-[^391]: \[illegible\] Read -viśrāntiṁ for -viśrāntaṁ. Omit the first ata eva.
+[^391]: Read -viśrāntiṁ for -viśrāntaṁ. Omit the first ata eva.
 
-[^392]: \[illegible\] See above, 29/154cd-156ab.
+[^392]: See above, 29/154cd-156ab.
 
 [^393]: Read ata eva paramo nādabhairavaḥ | jyotirdhvanisamīrakṛta iti jyotiḥ ardhacandraḥ, dhvaniḥ nādaḥ, samīraḥ sparśātmā saktiḥ | sā paramā māntrī vyāptiḥ sarvatra ucyate--iti vākyārthaḥ Il for: ata eva paramo nādabhairavaḥ; sā paramā māntrī vyāptiḥ sarvatra ucyate--iti vākyārthaḥ | Jyotih ardhacandraḥ, dhvaniḥ nādaḥ, samīraḥ sparsātmā śaktiḥ, adhas tu candrenaiva vyāptam iti arthasiddham I| <sup>1</sup>have omitted adhastu candreṇaiva vyāptam iti arthasiddham, which has no meaning and serves no purpose.
 
@@ -523,7 +523,7 @@ extracted (ādīyate) (thereby), and so is the main sacrifice. The all-pervasive
 
 [^406]: Read, as does Jayaratha in the commentary, khematā- for khamatā-.
 
-[^407]: \[illegible\] The word 'hārdeśa’ means ‘the lord of the heart’, hence Jayaratha identifies it quite reasonably with the Hṛdayabhattāraka, by which he probably means the Trikahṛdaya. Alternatively, perhaps we should read —haidara- for the -hārdeśa-. Abhinava refers to the Haidaratantra as teaching the etymology of the word parvan (a sacred day) as being a ‘time of fulfilment’, when a subsidiary form of this sacrifice is performed in an assembly of Siddhas and Yoginīs (see 28/17 ff.). Another possibility is to read Vīrāvalihārdeśa together, as a synonym of Vīrāvalihṛdaya, which is quoted above in 15/102cd-104ab.
+[^407]: The word 'hārdeśa’ means ‘the lord of the heart’, hence Jayaratha identifies it quite reasonably with the Hṛdayabhattāraka, by which he probably means the Trikahṛdaya. Alternatively, perhaps we should read —haidara- for the -hārdeśa-. Abhinava refers to the Haidaratantra as teaching the etymology of the word parvan (a sacred day) as being a ‘time of fulfilment’, when a subsidiary form of this sacrifice is performed in an assembly of Siddhas and Yoginīs (see 28/17 ff.). Another possibility is to read Vīrāvalihārdeśa together, as a synonym of Vīrāvalihṛdaya, which is quoted above in 15/102cd-104ab.
 
 [^408]: There is no evidence that Jayaratha had access to any of these Tantras except the Vīrāvali and the Siddhā. Clearly, the following passage is drawn from one of these two. The Siddhā (i.e. Siddhayogeśvarīmata) is never cited by Abhinava in relation to Ādiyāga, or indeed any Kaula rite. Nor do we find such references in the recovered recension of the SYM. Thus Törzsök, who has edited large portions of the SYM, finds its mention here surprisingly out of character. Conversely, many of the citations from the Vīrāvali are intimately concerned with Kaula practice, and Jayaratha quotes it freely. Again, after a beautiful verse composed by Abhinava himself, praising inner worship by the offering of nectar within the yogic body, he goes on to state that that is the supreme sacrifice (paramo yāgaḥ) praised in many scriptures. He mentions two, presumably as the foremost amongst them, namely, the Vṛrāvali and the Nirmaryāda. The passage that follows here teaches the inner Kaula sacrifice, which is ‘full of nectar’ and free of outer ritual, to be the supreme sacrifice. As Jayaratha did not have access to the Nirmaryāda, it is most likely that the following passage is from the Vīrāvali.
 
@@ -879,7 +879,7 @@ The Ordinary Initiation (samayadīkṣā)
 
 [^426]: later Tantras, after Abhinava, we do find the goddess teaching. This very rarely happens, if ever, in the early Tantras. Moreover, in the direct quotations Jayaratha has supplied, the god is speaking, addressing the goddess who listens. Thus, the feminine ~ bhairavī — is a suspect reading. It seems more probable that the original was the masculine bhairavaḥ.
 
-[^427]: \[illegible\] The liturgy of consciousness — the saṁvitkrama — is the procession of Twelve Kālis.
+[^427]: The liturgy of consciousness — the saṁvitkrama — is the procession of Twelve Kālis.
 
 [^428]: Read parīksyaucityallabdham for parīkṣaucityallabdham.
 
@@ -967,7 +967,7 @@ The ‘navel’ is (the letter) 5. The ‘staff’ is R. It is ‘encapsulated�
 
 (And ending with) ‘ʻO Great Goddess, (the teacher) should conjoin this syllable Mantra (kūṭa) to Śiva’s Hand until it is paralysed, O goddess, (and then) moves (spontaneously) by itself (svayam). 
 
-[^434]: \[illegible\] This is the Mālinī code. That the Kularatnamālā makes use of it confirms that it was a Trika Tantra. It is taught in MV 3/37-41ab. See above, 15/121-125ab.
+[^434]: This is the Mālinī code. That the Kularatnamālā makes use of it confirms that it was a Trika Tantra. It is taught in MV 3/37-41ab. See above, 15/121-125ab.
 
 [^435]: According to Jayaratha (ad 28/415cd-418 (415-418ab)), the procedure concerning the initiation brought about by the imposition of Śiva’s Hand is taught in chapter twelve of the Kularatnamālā.
 
@@ -1111,7 +1111,7 @@ Penetration (samāveśa), (that is, possession by the deity,) is taught in all t
 
 [^449]: CF. MV 11/28ab.
 
-[^450]: \[illegible\] These signs are listed below in 29/207-208. Cf. above, 15/448-456ab, where the milder Tāntrika Trika initiation and its more modest results are described as being like falling in love, even though that too entails a degree of ‘penetration’ or possession (āveśa, samāveśa) by the deities of the Trika mandala the neophant views for the first time.
+[^450]: These signs are listed below in 29/207-208. Cf. above, 15/448-456ab, where the milder Tāntrika Trika initiation and its more modest results are described as being like falling in love, even though that too entails a degree of ‘penetration’ or possession (āveśa, samāveśa) by the deities of the Trika mandala the neophant views for the first time.
 
 [^451]: MV 11/39cd quoted as TĀ 29/21 lab.
 
@@ -1146,7 +1146,7 @@ The Initiation of the Apprentice (putrakadīkṣā)
 योगिना योजिता मार्गे सजातीयस्य पोषणम् ।
 कुरुते निर्दहत्यन्यद्धित्रजातिकदम्बकम् ॥ २०६॥
 
-[^452]: \[illegible\] Read mahādevi for mahādevī.
+[^452]: Read mahādevi for mahādevī.
 
 [^453]: The Mālinīvijaya is, no doubt, the Mālinīvijayottara. Clearly, it was redacted before the Kularatnamālā.
 

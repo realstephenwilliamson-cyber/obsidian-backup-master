@@ -353,7 +353,7 @@ sītkārasukhasadbhāvasamāveśasamādhiṣu ॥ 167 ॥
 
 [^527]: The flavours are a standard set of six kinds, namely: sweet (madhura), sour (amla), salty (lavaṇa), pungent (kaṭuka), bitter (tikta) and astringent (kaṣāya). It would be incorrect to translate the word rasa here as ‘sentiment (i.e. love etc.), because they are more than six. Seven or eight sentiments (rasa) are most commonly enumerated by writers on aesthetics and devotion. The basic seven are: love (śṛṁgāra), heroism (vīra), disgust (bībhatsa), anger or fury (raudra), mirth (hāsya), fear (bhayanaka), compassion (karuna), and wonder (adbhuta). Abhinavagupta includes tranquillity (śānta) as the eighth. We also come across others such as paternal fondness (vātsalya).
 
-[^528]: \[illegible\] JY 4/54/45cd-46ab (MS K fl. 213a, Kh fl. 200a, G fl. 286a).
+[^528]: JY 4/54/45cd-46ab (MS K fl. 213a, Kh fl. 200a, G fl. 286a).
 
 [^529]: It is universal practice in all Tantric traditions to give names to letters and seed-syllable Mantras. The Trika Tantras may call the letter S Nectar (amta), just as we have seen these Tantras refer to the letter AU as the Trident (rrisūla). Often the names denote properties or the nature of the reality the letter symbolizes. A common example is the letter L, which is called Dharā, that is, Earth, and does, indeed, represent that principle. The same is true of the letters Y, R and V, which we have seen denote Water (āpa), Fire (vahni) and Air (vāyu), and are called by those names. Abhinava explains why the letter S is called Nectar (amṛta) on the basis of this principle.
 
@@ -393,7 +393,7 @@ consciousness
 
 In accord with the practice (yukti) taught here, the first (things that occur) are the sounds of love making and the rest that arise because the wheel of the senses is propense to arousal. After that, by resting there (in that state, the yogi) penetrates (samāveśa) into the bliss which is supreme oneness (sāmarasya). Then after that, by being firmly established there (in that state, the yogi experiences that) the Being (sat) of the Brahman is the (pure) Being (sattā) (within them), in accord with the saying ‘Being is the supreme Brahman’.[^535] The penetration (samāveśa) (that takes place) there by the submergence of the embodied and other such forms of (lower, conditioned) subjectivity, along with the emergence of the (supreme) subjectivity of consciousness, is itself contemplation (samādhi). (This) is the effulgence (parisphurana) (of the Brahman) as the supreme energy (or aspect — kalā) of consciousness, which manifests there in the loci of bliss (i.e. the genitals) and in other such places.[^536] 
 
-[^534]: \[illegible\] This verse describes the phases of the mystic experience of the Foremost Sacrifice, as signalled by the numbers.
+[^534]: This verse describes the phases of the mystic experience of the Foremost Sacrifice, as signalled by the numbers.
 
 [^535]: sad iti brahma paramam. This statement appears to be drawn from an Upaniṣad.
 
@@ -582,7 +582,7 @@ Poison is an all-pervasive power and so obscures the glory (of the individual so
 
 #### Viveka on 3.171
 
-[^562]: \[illegible\] The innate, unlimited capacity of the individual soul to know and act is obscured by Māyā, the Supreme Lord’s power of obscuration. Thus ‘Poison’, like Māyā, has two aspects. One obscures and contracts consciousness, and the other, when the first aspect is not active, expands and illumines. Whether one or other aspect operates depends on the mindfulness of the yogi and, as always, Lord Śiva’s grace. This is how Māyā functions generally. It obscures the worldly minded and illumines those who attend to Lord Śiva by dedicating their thoughts to Him, thereby purifying them. Cf. below, 4/1 1 1cd-113ab.
+[^562]: The innate, unlimited capacity of the individual soul to know and act is obscured by Māyā, the Supreme Lord’s power of obscuration. Thus ‘Poison’, like Māyā, has two aspects. One obscures and contracts consciousness, and the other, when the first aspect is not active, expands and illumines. Whether one or other aspect operates depends on the mindfulness of the yogi and, as always, Lord Śiva’s grace. This is how Māyā functions generally. It obscures the worldly minded and illumines those who attend to Lord Śiva by dedicating their thoughts to Him, thereby purifying them. Cf. below, 4/1 1 1cd-113ab.
 
 [^563]: The Nectar (amṛta) which bestows life, health and ultimately immortality is the expansion of consciousness one experiences when in the plenitude of the Principle of Passion, and the individual subjectivity is freed of the limitations of dualistic thought constructs in the course of exhalation. It thus develops into the realisation of the perpetually expanding state of consciousness (vikāsa), of the pervasion of the Principle of Poison, experienced in the course of inhalation.
 
@@ -767,7 +767,7 @@ Bhairava, the immaculate, has called this group of four letters (Ś, 5, S and H)
 
 [^580]: See above, 3/77cd-81ab (78-81).
 
-[^581]: \[illegible\] The ‘neuter’ letters do not give rise directly to other forms of reflective awareness. Further developments that do occur are due to the will, which is their underlying nature. Even so, the neuter letters are called ‘seeds’, as are the other vowels, because collectively they constitute a special group of vowels, and so, as such, retain the nature of vowels.
+[^581]: The ‘neuter’ letters do not give rise directly to other forms of reflective awareness. Further developments that do occur are due to the will, which is their underlying nature. Even so, the neuter letters are called ‘seeds’, as are the other vowels, because collectively they constitute a special group of vowels, and so, as such, retain the nature of vowels.
 
 [^582]: The three sibilants and the letter H are called ‘āṣman’ by Sanskrit phonologists. The term literally means ‘hot’, which Abhinava explains in this context in this way. See above, 3/163-165 (162cd-165ab).
 

@@ -453,7 +453,7 @@ At the foot of a wonderful tree in Candrapurī, \[which is\] situated by the wes
 
 [^49]: tatra candraprabho nāma rājā kadambavaṁśajaḥ {Į-vaṁsajaḥ} |
 
-    śāsitā sarvalokānāṁ tridaśādhipatiryathā |\\ (Ibid. 42/33)
+    śāsitā sarvalokānāṁ tridaśādhipatiryathā || (Ibid. 42/33)
 
 [^50]: It is significant in this regard that Vidyānanda, a fourteenth-century South Indian commentator on the Nityāṣoḍaśikārṇava “seems to have possessed", as the editors of the KMT inform us, "a fair knowledge of the texts of the Kubjikā school because he repeatedly refers to them" (Goudriaan and Schoterman 1988: 18). Maheśvarānanda, who was a disciple of Vidyānanda and lived in the part of South India ruled at that time by the Cholas, quotes from Kubjikā sources in three places in his autocommentary on the Mahārthmañjarī (two on p. 4 and one on p. 126). Although these references have not been traced in the KMT, he appears to have been acquainted with the Kubjikā Tantras which, although little known, must therefore have been in circulation in South India in the fourteenth century. For the few other references drawn from the KMT see Goudriaan and Schoterman 1988: 14ff..
 
@@ -536,7 +536,7 @@ By the term Trika I intend an entity in ritual rather than theology. I refer to 
 
 Significantly Sanderson quotes a verse from a Kubjikā Tantra, the Kularatnoddyota, which we have already had occasion to mention above, to support his view.[^65] The mantras of the three goddesses are given in the KMT,[^66] while Kubjikā herself is occasionally identified with Siddhayogeśvarī, the principal goddess of the Trika system of the Siddhayogeśvarīmata, one of the foremost authorities for the Kashmiri Śaiva Trika.[^67] In the passage quoted below, Kubjikā is equated with the three goddesses in the form of Aghorā, Ghorā, and Ghoratarā. The Mālinīvijayatantra, another important authority for Kashmiri Trika Śaivites, identifies them as hosts of energies that are emitted from the Trika goddesses.[^68] The passage is drawn from the from the Manthānabhairavatantra:
 
-[^65]: śabdarāśiśca mālinyā vidyānāṁ tritayasya ca \\
+[^65]: śabdarāśiśca mālinyā vidyānāṁ tritayasya ca |
 
     sāṅgopāṅgasamāyuktaṁ trikatantraṁ kariṣyati | See Sanderson 1990: 32. A translation of this important reference is found in Dyczkowski (1987a: 84). It reads:
 
@@ -562,7 +562,7 @@ Significantly Sanderson quotes a verse from a Kubjikā Tantra, the Kularatnoddyo
 
 [^67]: devataiḥ pūjitā nityaṁ brahmacaryāparāyaṇaiḥ |
 
-    siddhayogeśvarīkhyātāṁ śrīkujākhyāṁ namāmyaham \\|
+    siddhayogeśvarīkhyātāṁ śrīkujākhyāṁ namāmyaham ||
 
     I salute the venerable (goddess) called Kujā who is known as Siddhayogeśvarī and is perpetually worshipped by (all) the deities and by those intent on celibacy . (KKh 5/82)
 
@@ -596,7 +596,7 @@ The Śrītantrasadbhāva is an important Trika Tantra for the monistic Śaivites
 
 [^69]: ghorā ghoratarāghorā ghorajñānāvalambinī |
 
-    nityayuktā svacakrasthā śrīkujākhyāṁ namāmyaham \\(KKh 5/79)
+    nityayuktā svacakrasthā śrīkujākhyāṁ namāmyaham ||(KKh 5/79)
 
 [^70]: TĀ 29/211b-2a.
 
@@ -644,7 +644,7 @@ Moreover, just as Kubjikā's external form is unique to herself, despite its com
 
     ahaṁ śūnyasvarūpeṇa parā divyatanurhyaham ||
     ahaṁ sā mālinīdevī ahaṁ sā siddhayoginī |
-    ahaṁ sā kālikā kācit kulayāgeśvarī hyaham \\ ahaṁ sā carcikādevī kubjikāhaṁ ca ṣaḍvidhā |
+    ahaṁ sā kālikā kācit kulayāgeśvarī hyaham || ahaṁ sā carcikādevī kubjikāhaṁ ca ṣaḍvidhā |
 
     As my nature is the Void, I am the Supreme goddess (Parā) and my body is divine. I am that goddess Mālinī, I am Siddhayoginī. I am that certain (inscrutable - kācit - goddess) Kālikā. I am indeed the mistress of the Kula sacrifice (kulayāgeśvarī). I am that goddess Carcikā, I am Kubjikā who is six-fold. (KKh 3/76cd- 78ab)
 
@@ -702,7 +702,7 @@ Again:
 
 [^87]: saṁhārabhakṣaṇī saiva rasasaṁcarvaṇotthitā |
 
-    svarūpaprāntacitvattaḥ samārūḍhā nirāśrayā \\l (ibid. 29)
+    svarūpaprāntacitvattaḥ samārūḍhā nirāśrayā || (ibid. 29)
 
 *[p. 32]* ^pg37
 
@@ -747,7 +747,7 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 [^93]: The original readings in the two manuscripts I have collated are noted in square brackets. These are: MS K which is CSS MS no. C 348 - Bodlein Oxford and MS Kh which is NAK MS no. 1/1653 = NGMPP reel no. B 119/3.
 
     atītasyāprameyasya Ík: atītasya-\] parasya parameṣṭhinaḥ |
-    paramānandayuktasya icchā svābhāvakī babhau \\|
+    paramānandayuktasya icchā svābhāvakī babhau ||
 
     svecchayā kṣubhito \[kh: kuṁbhito\] devaḥ {k kh: deva\] sa
 
@@ -757,7 +757,7 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 
     samagrāvayavānvitaṁ \[k: samamrā-; kh: samamrāvayavānvitaṁh\] il
 
-    candrakoṭyarbudābhāsaṁ \[Íkh: candrakopya-}\] tejorāśirmahadbhutaṁ |k: tejorāsi-; kh: tejośaṁsi-\] \\
+    candrakoṭyarbudābhāsaṁ \[Íkh: candrakopya-}\] tejorāśirmahadbhutaṁ |k: tejorāsi-; kh: tejośaṁsi-\] |
 
     jñānacakrāsanāsīnaṁ \[kh: -sanāsīna\] tattvamālāvibhūṣitaṁ il
 
@@ -767,7 +767,7 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 
     acintyātmā sa fk: acintayatsa; kh: acintayatma\]} deveśaḥ f\[k: deveśā; kh: deveśau\]
 
-    cakramānandasaṁjñakam \\
+    cakramānandasaṁjñakam |
 
     kartuṁ f{k: kartaṁ: kh: karta} devo.aprameyātmā {k kh: devya prameyātmāj\]
 
@@ -776,12 +776,12 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
     evamacintayat svayaṁ {k kh: evaṁ cintaya tastasye}\] kalpakoṭyarbudāni \[kh: asya kalpakoṭya-\] ca |
     atītāni varārohe kaivalyārthasthitasya \[kh: kaivalyārthai-} ca ||
 
-    athākarojjagaddhātā praticārakahetave \[kh: -hetava\] \\
+    athākarojjagaddhātā praticārakahetave \[kh: -hetava\] |
 
     cintāṁ \[k kh: cintā\] paramanirvāṇaṁ \[k kh: -nirvāṇaḥ\] ko.asmākaṁ praticārakaḥ || iti sthitvā muhūrtaṁ \[k: -rthaṁ; kh: mudruttaṁ} vai \[k: se; kh: me\] svādhiṣṭhāne \[kh: -sthāne\] mano dadhau |
-    kṣobhayet \[k kh: -yat\] paramāṁ \[kh: paramā\] śaktiṁ kuṇḍalākāravigrahām \[k kh: -kālavigrahāṁ JI\\
+    kṣobhayet \[k kh: -yat\] paramāṁ \[kh: paramā\] śaktiṁ kuṇḍalākāravigrahām \[k kh: -kālavigrahāṁ\]||
 
-    niṣkrāmya vāmamārgeṇa bahirvyomni \[kh: vahi-} parāpare {kh: -para\] \\
+    niṣkrāmya vāmamārgeṇa bahirvyomni \[kh: vahi-} parāpare {kh: -para\] |
 
     sṛṣṭavān \[k: -vāt\] paramāṁ devīṁ \[kh: devī\] sa paraḥ {k kh: parāṁ\] parameśvaraḥ ||
 
@@ -791,7 +791,7 @@ Energized by the {mantras called) the Five Jewels, enveloped by the seven bodily
 
     tābhyāṁ taṁ tu mamārabdaṁ cakramānandasaṁjñakam |
 
-    nirmitā paramā divyā pañcaviṁśaguṇairyutā || pañcaviṁśatitattvasthā \[kh: -tatvaiśca\] śobhitā \[k kh: śobhitāṁ}\] parameśvarī \[k kh: -rīṁ\] \\ pañcaratnakṛtāṭopā saptadhātuparicchadā \[k kh: -dāṁ}) || sudhāsvarūpiṇī \[k kh: sudhāturūpiṇī\] divyā \[k kh: divyāṁ} tattvarāgānurañjitā \[k kh: -tāṁ}\] |
+    nirmitā paramā divyā pañcaviṁśaguṇairyutā || pañcaviṁśatitattvasthā \[kh: -tatvaiśca\] śobhitā \[k kh: śobhitāṁ}\] parameśvarī \[k kh: -rīṁ\] | pañcaratnakṛtāṭopā saptadhātuparicchadā \[k kh: -dāṁ}) || sudhāsvarūpiṇī \[k kh: sudhāturūpiṇī\] divyā \[k kh: divyāṁ} tattvarāgānurañjitā \[k kh: -tāṁ}\] |
 
     svakīyecchā ca {k kh: svakīyaśira\] sā \[k kh: soj\] devī \[k kh: devi\] devadevena \[kh: bhedavadevana\] bhairavī \[k kh: bhairavi\] M (KRU 1/53-65)
 
@@ -815,12 +815,12 @@ and shining, (it shone with the) light of tens of millions of suns.[^95]
 
     tābhyāṁ tatropaviṣṭābhyāṁ paramānandamelake \[kh: -melakaṁ} |
 
-    pāṇigrahaṇasaṁyogaṁ \[kh: pāṇigrahana-}\] kṛtavān śrīkuleśvaraḥ \\
+    pāṇigrahaṇasaṁyogaṁ \[kh: pāṇigrahana-}\] kṛtavān śrīkuleśvaraḥ ||
 
     athaivāśaṅkitā \[kh: āvāṁ-\] devī lajjayākuñcitā tanuḥ \[kh: natuḥ\] |
     saṁjātaṁ kubjikārūpaṁ kiñcitkhañjagatiryagam Ík: khañjāgatiyutaṁ; kh: khaṁjāgatiryyagaṁj 1|
     tathāpi tena devena harṣautphullayutena tu |
-    sā devī gṛhya hastaṁ \[k kh: haste\] tu svotsañge sanniveśitā \[k kh: ma-\] 1\\ śivaśaktisamāyogaḥ \[kh: -yogaṁ}) sa eva parikīrtitaḥ |
+    sā devī gṛhya hastaṁ \[k kh: haste\] tu svotsañge sanniveśitā \[k kh: ma-\] || śivaśaktisamāyogaḥ \[kh: -yogaṁ}) sa eva parikīrtitaḥ |
 
     tatrāpi mathanaṁ devi tayoḥ saṁparipadyataḥ 14
 

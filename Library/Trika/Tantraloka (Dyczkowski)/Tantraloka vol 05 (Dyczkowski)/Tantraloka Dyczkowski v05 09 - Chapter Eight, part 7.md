@@ -39,7 +39,7 @@ puṁstattva eva gandhāntar sthitan ṣodaśakaṁ punaḥ |
 ārabhya dehapāśākhyarni puran buddhigunṇās tataḥ ॥ 290 ॥
 tatraivāṣṭāv ahaṁkāras tridhā kāmādikās tathā | 
 
-[^836]: \[illegible\] T suppose that the gross form of the subtle body is the City of Eight (puryaṣtaka), which transmigrates and was mentioned previously. For the three kinds of bodies, see above note, 8,465 to 8/163cd-165ab (163-164).
+[^836]: T suppose that the gross form of the subtle body is the City of Eight (puryaṣtaka), which transmigrates and was mentioned previously. For the three kinds of bodies, see above note, 8,465 to 8/163cd-165ab (163-164).
 
 *[p. 296]* ^pg314
 
@@ -56,7 +56,7 @@ and rectitude.[^837]
 
 [^837]: See SvT 10/1090-1091.
 
-[^838]: \[illegible\] The ‘sixteen’ here are the five subtle elements, the ten organs of perception, and action and mind (manas).
+[^838]: The ‘sixteen’ here are the five subtle elements, the ten organs of perception, and action and mind (manas).
 
 [^839]: According to the SvT (10/1095cd-1096ab), the eight qualities of the intellect are piety, knowledge, detachment, power, and their opposites.
 
@@ -122,7 +122,7 @@ tatsvarūpāparijṁñānamr citrań hi puruṣās tataḥ |
 uktānuktās tu ye pāśāḥ paratantroktalakṣanāḥ ॥ 294 ॥
 te puṁsi sarve tāṁs tatra Śodhayan mucyate bhavāt | 
 
-[^845]: \[illegible\] An entity and its manifestation as such to a perceiver within consciousness are not separate realities. Nothing that is known to exist in any form or manner can be known in any way apart from the way in which it is manifest. Its manifest nature is itself the essential nature of the entity. That fact that an entity is manifest within consciousness is not an adventitious quality of the object. It is as if there could be the bare entity existing in itself, to which a quality of ‘manifested-ness’ is added when it appears to anybody. It is the very nature of the object, which by definition and invariably in experience is an object that is known or can be known to a perceiver. The moons around Saturn existed before they were discovered. They were not perceived, but could be, and so were so. Potentially, everything that exists can be perceived in some way or another. From this point of view, one can say that the capacity to be perceived is the very existence of an entity, and that is its manifest nature. This manifest nature and Being, which is at once the specific and universal nature of every single thing, is the light of consciousness, which Kashmiri Śaivism affirms is the one reality. Separate from that, nothing could manifest and so exist.
+[^845]: An entity and its manifestation as such to a perceiver within consciousness are not separate realities. Nothing that is known to exist in any form or manner can be known in any way apart from the way in which it is manifest. Its manifest nature is itself the essential nature of the entity. That fact that an entity is manifest within consciousness is not an adventitious quality of the object. It is as if there could be the bare entity existing in itself, to which a quality of ‘manifested-ness’ is added when it appears to anybody. It is the very nature of the object, which by definition and invariably in experience is an object that is known or can be known to a perceiver. The moons around Saturn existed before they were discovered. They were not perceived, but could be, and so were so. Potentially, everything that exists can be perceived in some way or another. From this point of view, one can say that the capacity to be perceived is the very existence of an entity, and that is its manifest nature. This manifest nature and Being, which is at once the specific and universal nature of every single thing, is the light of consciousness, which Kashmiri Śaivism affirms is the one reality. Separate from that, nothing could manifest and so exist.
 
 *[p. 300]* ^pg318
 
@@ -158,7 +158,7 @@ The Worlds of the Five Kañcukas
 
 [^847]: TĀ 8/294cd-295ab (294) is a paraphrase of SvT 10/1105.
 
-[^848]: \[illegible\] They are all ignorant and bound, although the degree and form of their bondage may differ.
+[^848]: They are all ignorant and bound, although the degree and form of their bondage may differ.
 
 *[p. 301]* ^pg319
 
@@ -199,7 +199,7 @@ crystal,’[^854]
 
 2\) 1) Śuddha (Pure), 2) Buddha (Awake), 3) Prabuddha (Fully Awake), 4) Praśānta (Completely Tranquil), 5) Paramākṣara (Supreme Imperishable), 6) Śiva and 7) Suśiva, 8) Dhruva (Immobile), 9) Akṣaraśambhu (Imperishable 
 
-[^850]: \[illegible\] Read with Jayaratha param for puram.
+[^850]: Read with Jayaratha param for puram.
 
 [^851]: See below for their names, 8/339 (338cd-339ab) and 15/305-306.
 
@@ -236,7 +236,7 @@ Here (this version has been quoted,) because the learned have rightly accepted t
 
 [^858]: SvT 10/1113-1114ab. The SvT reads mahādhīro for mahāvīro.
 
-[^859]: \[illegible\] SvT 10/1115c reads chandakaś for chedakaś.
+[^859]: SvT 10/1115c reads chandakaś for chedakaś.
 
 [^860]: SvT 10/1115-1116ab.
 
@@ -366,7 +366,7 @@ Surely, Ananta who emits, (sustains and withdraws the impure principles below M�
 
 [^876]: Read -padamārohanti for -padamārohanto.
 
-[^877]: \[illegible\] abhirāmaṁ rūpam ātmanaḥ kṛtvā lit. ‘having made their own form beautiful’.
+[^877]: abhirāmaṁ rūpam ātmanaḥ kṛtvā lit. ‘having made their own form beautiful’.
 
 [^878]: In the lines quoted from the Śivatanu in the commentary on the previous verse, Śarva comes after Bhava. This suggests the emendation of pūrvapadari to Śarvapadaṁ, which is supported by MSs Ch and Ñ, that read sarvapadaṁ.
 
@@ -415,7 +415,7 @@ He now describes (Ananta’s) power to bring about (kāritva)[^882] persistence 
 ध्मीनणिमादिगुणाज्ज्ञानानि तपःसुखानि योगांश्च ॥ ३०४ ॥
 मायाबिलातप्दत्ते पुंसाम् निष्कृष्य निष्कृष्य तच्छक्तीद्धस्वबला गुहाधिकारान्धकारगुणदीपाः ॥ ३०५ ॥
 
-[^879]: \[illegible\] This line looks like Abhinava’s gloss on the account in the Sivatanu. . It is not a direct citation. Sanderson also does not consider it to be from the Śivatanu.
+[^879]: This line looks like Abhinava’s gloss on the account in the Sivatanu. . It is not a direct citation. Sanderson also does not consider it to be from the Śivatanu.
 
 [^880]: s% Śiva Himself directly emits and withdraws the pure principles from Śakti to Pure Knowledge. Ananta emits and withdraws all the remaining impure principles, ranging down from Māyā to Earth, and so is their lord. See below, 9/60-61, 143 and 225.
 
@@ -621,7 +621,7 @@ ucyante srotasāṁ satikhyāḥ |
 
 #### Viveka on 8.314
 
-[^894]: \[illegible\] For these four grades of union (sāyujya) and the rest, see below, 28/237cd ff.
+[^894]: For these four grades of union (sāyujya) and the rest, see below, 28/237cd ff.
 
 [^895]: 8/314cd-317ab (314-316) is drawn from the Śivatanu, and so are the preceding lines, as Abhinava himself says. The verse lightly paraphrased in 8/314cd-315ab (314) has been quoted by Bhatta Nārāyakanṭha on Mṛgendra, Vidyāpāda 9/1 and 13/178. In the first instance he introduces it as being by Bṛhaspati. tathā coktaṁ tatrabhavadbṁaspatipādaiḥ api sarvasiddhivācaḥ kṣīyeran dīrghakālam udgīrṇāḥ | māyāyām ānantyān nocyeta srotasam srotasam ! saṁkhyā || “The words of even all the accomplished yogis (siddha) (put together), uttered for a long time, would come to an end before they could recount the number of the currents (of creation), innumerable as they are within Māyā.’
 
@@ -661,11 +661,11 @@ As Unmanifest Nature and finite power are a permutation (vikāra) of Māyā (as 
 
 Having explained in this way the difference between (this view)[^898] and other scriptures, he comes (back) to the main point: 
 
-[^896]: \[illegible\] Read guhāyā for guhayā.
+[^896]: Read guhāyā for guhayā.
 
 [^897]: ‘As they say’ is an honorific plural, most probably referring to Bṛhaspati, the author of the Śivatanuśāstra. If so, this statement is drawn from there.
 
-[^898]: \[illegible\] Now after having quoted in his way the Śivatanu, Abhinava returns to his basic narrative, namely that of the Svacchandatantra. Note that Jayaratha was aware that Abhinava had been paraphrasing the Śivatanu. Even so, he presents it as if it were Abhinava’s own words, who has explained this ‘in this way’, i.e. by paraphrasing Bṛhaspati. After having presented the Sivatanu, Abhinava returns to his basic text, the Svacchandatantra.
+[^898]: Now after having quoted in his way the Śivatanu, Abhinava returns to his basic narrative, namely that of the Svacchandatantra. Note that Jayaratha was aware that Abhinava had been paraphrasing the Śivatanu. Even so, he presents it as if it were Abhinava’s own words, who has explained this ‘in this way’, i.e. by paraphrasing Bṛhaspati. After having presented the Sivatanu, Abhinava returns to his basic text, the Svacchandatantra.
 
 *[p. 314]* ^pg332
 
@@ -769,7 +769,7 @@ Then:
 
 ‘Ananta, whose nature is endless (ananta) vitality, resides at the head of all of them. Then below comes the Rudra called Śiva, the Lord who made (that) world, and Viśveśa, who is very powerful.[^906] Then another is Vidyeśāna.[^907] Then another is (Brahmā), the Lord of the Brahmins,[^908] and after that Kṣemeśa. These are the six lords of (these) worlds. . . [^909] Below them is a knot that is hard to cut and very extensive, where that (Lord is) Vigraheśāna . . [^910] (Next is) where 
 
-[^903]: \[illegible\] Read these lines as in MS G:
+[^903]: Read these lines as in MS G:
 
     ūrdhvādharasthakapālakapuṭaṣaṭkayugena madhyato ‘ṣtābhiḥ | diksthairvyāpto māyāgranthiḥ śrīmataṁgaśāstroktaḥ ॥ See MPĀ, Vidyāpāda, 8/67, 79-88.
 
@@ -931,7 +931,7 @@ Having explained this by the way, he returns to the main point.
 
 [^915]: MV 2/50ab.
 
-[^916]: \[illegible\] This is the meaning when read in the context of the MV, which is the source of this line. However, Jayaratha understands this line to refer, quite rightly, to the two spheres of cause and effect. Māyā and its energy (or one could say, the energy Māyā) is one, as the causal sphere of the principles below ranging from Unmanifest Nature down to Earth. This contains innumerable entities that are all its effects.
+[^916]: This is the meaning when read in the context of the MV, which is the source of this line. However, Jayaratha understands this line to refer, quite rightly, to the two spheres of cause and effect. Māyā and its energy (or one could say, the energy Māyā) is one, as the causal sphere of the principles below ranging from Unmanifest Nature down to Earth. This contains innumerable entities that are all its effects.
 
 [^917]: MV 2/50ab. The previous verse has been added in order to clarify the context.
 
@@ -969,11 +969,11 @@ All that is on the lower Path, which is purified in the course of initiation, is
 
 The point is that this is so because it is proper that the product be present in a subtle form in the cause. 
 
-[^918]: \[illegible\] This verse is a paraphrase of SvT 10/1131d-1132, that reads: ĀŚāś caivātra saṁsthitāḥ \\\\ pūrvaṁ vai kathitā devi ato rṣikulami bhavet | yonir vāgīśvarī caiva yasyāṁ jāto na jāyate ॥ “And the fetters are located here. Then, (above the fetters), is the family of sages and the Goddess of Speech, who is the womb (of all things). Once born in it (by the power of Mantra etc.), there is no (further) birth.”
+[^918]: This verse is a paraphrase of SvT 10/1131d-1132, that reads: ĀŚāś caivātra saṁsthitāḥ \\\\ pūrvaṁ vai kathitā devi ato rṣikulami bhavet | yonir vāgīśvarī caiva yasyāṁ jāto na jāyate ॥ “And the fetters are located here. Then, (above the fetters), is the family of sages and the Goddess of Speech, who is the womb (of all things). Once born in it (by the power of Mantra etc.), there is no (further) birth.”
 
-[^919]: \[illegible\] See above, 8/291.
+[^919]: See above, 8/291.
 
-[^920]: \[illegible\] See above, 8/282.
+[^920]: See above, 8/282.
 
 [^921]: This is a Vedic text. Kṣemarāja quotes this statement in SvTu 10/1132cd and goes on to comment on that and the lines Abhinava is paraphrasing from the Svacchandatantra. He writes: ‘In accord with this view, the Goddess of Speech (Vāgīśvarī) is the source (yoni) and cause of the universe. She abides here (within Māyā) in a subtle form, and within Pure Knowledge in (Her) supreme form, as will be established later, and in (Her) lower (apara) form in the world of Sārasvatī, as has been explained previously. Everything is the Supreme Lord’s power, which is divided into three in a gross, subtle and supreme form, and abides in each particular place in this or that way (as the case may be), as will be explained in the eleventh (chapter of the Svacchandatantra).’ (SvTu ad 10/1132).
 
@@ -1012,7 +1012,7 @@ The Bindus are the Praṇnavas. Now he (goes on) to say (the following) in order
 aluptavibhavāḥ sarve māyātattvādhikārinaḥ |
 māyāmayaśarīrās te bhogan svan paribhuñjate ॥ 330 ॥ 
 
-[^922]: \[illegible\] TĀ 8/328cd-329 (328-329ab) is a paraphrase of SvT 10/1133-1135ab. Commenting on these verses, Kṣemarāja explains: “The eight Rudras, who are above the group of five coverings called Praṇava, should be called ‘means of knowledge’ (pramāṇa), because they are the means to attain the knowledge (pramā) of all that should be abandoned and taken up. These Rudras brought down to earth the Pāśupata scriptures (śāstra) with their names. There, one called Hṛdaya, which is said to be one of the (Pāśupata) scriptures (pramānṇa). It includes within itself six scriptures called Pura, Kalpa, Kanaka, Śālā, Niruttara and Viśvaprapañca, which predominantly (teach) ritual (kriyā). They are different from the aforementioned eight scriptures, that predominantly (teach) knowledge. Musulendra, who was Lakuleśa’s disciple, extracted them from the scripture named Hṛdaya, and was the first to show them to those who desired to ascend. These are not counted separately here. In this way, (it is said that) ‘the (Pāśupata) Tantra is of two kinds, Lākula and Mausula’ (SvT 11/71). The Pāśupata is present here as the supreme (level) within Māyā. It will be explained that their supreme plane is the Īśvara principle. Thus, (it is said) that: ‘the supreme plane of the Śaivas is free on all the Path.’ (SvT 11/74) In accord with this view, stated further ahead, it is said that that there is a great difference between the Saivas and Pāśupatas.”
+[^922]: TĀ 8/328cd-329 (328-329ab) is a paraphrase of SvT 10/1133-1135ab. Commenting on these verses, Kṣemarāja explains: “The eight Rudras, who are above the group of five coverings called Praṇava, should be called ‘means of knowledge’ (pramāṇa), because they are the means to attain the knowledge (pramā) of all that should be abandoned and taken up. These Rudras brought down to earth the Pāśupata scriptures (śāstra) with their names. There, one called Hṛdaya, which is said to be one of the (Pāśupata) scriptures (pramānṇa). It includes within itself six scriptures called Pura, Kalpa, Kanaka, Śālā, Niruttara and Viśvaprapañca, which predominantly (teach) ritual (kriyā). They are different from the aforementioned eight scriptures, that predominantly (teach) knowledge. Musulendra, who was Lakuleśa’s disciple, extracted them from the scripture named Hṛdaya, and was the first to show them to those who desired to ascend. These are not counted separately here. In this way, (it is said that) ‘the (Pāśupata) Tantra is of two kinds, Lākula and Mausula’ (SvT 11/71). The Pāśupata is present here as the supreme (level) within Māyā. It will be explained that their supreme plane is the Īśvara principle. Thus, (it is said) that: ‘the supreme plane of the Śaivas is free on all the Path.’ (SvT 11/74) In accord with this view, stated further ahead, it is said that that there is a great difference between the Saivas and Pāśupatas.”
 
 
 *[p. 322]* ^pg340
@@ -1119,9 +1119,9 @@ Once (Māyā) is severed by the sword of Śaiva initiation and the sword of the 
 
 ‘Initiation’ (means the required) ritual action (kriyā). ‘There is no other means’ (to remove Māyā) taught (in any) other scriptures (also). 
 
-[^930]: \[illegible\] SvT reads -śāstrasya for —śsāstreṣu.
+[^930]: SvT reads -śāstrasya for —śsāstreṣu.
 
-[^931]: \[illegible\] Kṣemarāja comments: ‘False reasoning’ is reasoning that is outside the Supreme Lord’s supreme nondual tradition (gama). ). ‘What is not liberation’ is all else that is not the pervasion of oneness with the Supreme Lord, who is the dense (uninterrupted) consciousness and bliss of supreme nonduality.’
+[^931]: Kṣemarāja comments: ‘False reasoning’ is reasoning that is outside the Supreme Lord’s supreme nondual tradition (gama). ). ‘What is not liberation’ is all else that is not the pervasion of oneness with the Supreme Lord, who is the dense (uninterrupted) consciousness and bliss of supreme nonduality.’
 
 [^932]: TĀ 8/333-336 (332cd-336ab) is a close paraphrase of SvT 10/1138cd-1141.
 
@@ -1188,7 +1188,7 @@ and have three eyes.[^936]
 
 *[p. 330]* ^pg348
 
-[^936]: \[illegible\] Concerning these nine goddesses, see above 8/338cd-339ab and note, in which a didactic etymology of their names is quoted from Kṣemarāja’s commentary on SvT 10/1145-1146ab. The Parākhyā (2/43-61) supplies another one. There the nine goddesses are presented as Śi' powers, that correspond to the variety of functions of His one power of creation (ibid. 2/41cd-42). They are described in the Parākhya as follows (Goodall’s translation): ‘The power by which he emits the entire universe downwards, that is here (asmin) taught to be Vāmā. She resides with (the form of Śiva called) Vāmadeva. Or (the name can be accounted for thus:) that contrary (vāmataḥ), (that is to say) by its nature perverted ~ impulse (samārambhaḥ), which causes souls to act, is this Vāmā, (in as much as it is involved) in perverse activity (vāmakaramagā). (44-45) The best (jyeṣṭhaḥ), (that is to say) most important impulse to act (kriyārambhaḥ), which is always aimed at the goal of men (viz. liberation), occurs in the souls through Jyeṣṭhā. Undertaking pious acts or impious ones (dharmādhṛmasamārambhaḥ) (depends on whether the person in question) is impelled by Jyeṣṭhā or not (impelled by) Jyeṣṭhā (juyeṣṭhājyeṣṭhāpracoditaḥ). Not otherwise is the highest state, which is where the highest rewards are (possible) for the soul. (46-47) That which has the power to drive away the disease of the souls that is nescience, and that expressed by the word ʻaffliction’ (ruk) is the power that resides with (the form of Siva called) Rudra. She who delights in deeds of blood and weaponry through men’s fierce deeds is Raudrī, who arises in fierce deeds and resides with (the form of Siva called) Rudra. (48-49) That by which He impels to action the material cause and auxiliary cause is Kālī, empowered to impel. She is the power of (the form of Siva called) Kāla. She who, in the realm of action, is discerned in the division of time, is the impeller (kalayitrī) of men, known by the marks of time. (50-51) (The next power, Kalakirā (?), is so called) because (. . . tena) she is the dispeller of the faculties (kalānāṁ vikirā) in the scattering of the limited powers of all souls (sarvaptāṇikalākṣepe), which were clustered together (?) by their own past actions (paripindite). (One) may discern (her) in the destruction of bodies. Alternatively, however (punaḥ), she is that internal scattering of the skill that is learnt in this (world) because of the undertaking of other (?) actions. She is in the control of (the form of Śiva called) Kalākṣepa (kalākṣepagā). (52-53) That by which the limited power of souls (in saṁsāra) (aṇūnām) is scattered about in the extensive (lower) path (of the universe and brought) in connection with bodies and (the retributive power of past) actions is the Scatterer of Forces (balānām vikirā). Alternatively bala (is) souls’ knowledge and discernment that is ever increasing (uttarottaragam ?). Because of scattering that, she is (called) Balakṣepā. She is in the control of (the form of Śiva called) Balakṣepa. (54-55) And the power by which Śiva churns up that other force, (viz.) that of the bonds, is called ‘the churner up of forces’ (balānār pramathā), and is in the control of (the form of Śiva) Balapramathana. The power that churns up forces (balamanthanā) . . . is (also) that by which (Siva) churns up the force(s) of souls by means of faints and delusions and by suddenly oppressing with sleep. (56-57) The taming power by which he tames all creatures in phases of creation by means of the suffering intermixed with happiness that is (the fruit of) their own (actions) is therefore the Taming Power (śaktir damanātmikā). And she is also the Taming Power (damanī) because she is that by which a soul tames (damayan) the elements of his body (svadehabhūtāni) through various torments, such as the krechra and cāndrāyanṇa fasts. (58-59) That power which leads the bound soul to the reality-level that is beyond mind (amanaskam) and devoid of support is taught to be the power Manonmanī, that belongs to the god Manonmana. That which suddenly (akasmāt) brings souls in this world to a state of mindlessness (unmanāvasthām) is taught in this (Tantra) to be (the power) Unmanī, who is in the control of (the form of Śiva called) Unmana. (60-61) All activity is shown (to be accounted for) by this variety of the all-powerful Lord’s powers. He must be omniscient, because he is omnipotent, for power to act (tat) necessarily depends on knowledge (jñānapūrvakam). (62)
+[^936]: Concerning these nine goddesses, see above 8/338cd-339ab and note, in which a didactic etymology of their names is quoted from Kṣemarāja’s commentary on SvT 10/1145-1146ab. The Parākhyā (2/43-61) supplies another one. There the nine goddesses are presented as Śi' powers, that correspond to the variety of functions of His one power of creation (ibid. 2/41cd-42). They are described in the Parākhya as follows (Goodall’s translation): ‘The power by which he emits the entire universe downwards, that is here (asmin) taught to be Vāmā. She resides with (the form of Śiva called) Vāmadeva. Or (the name can be accounted for thus:) that contrary (vāmataḥ), (that is to say) by its nature perverted ~ impulse (samārambhaḥ), which causes souls to act, is this Vāmā, (in as much as it is involved) in perverse activity (vāmakaramagā). (44-45) The best (jyeṣṭhaḥ), (that is to say) most important impulse to act (kriyārambhaḥ), which is always aimed at the goal of men (viz. liberation), occurs in the souls through Jyeṣṭhā. Undertaking pious acts or impious ones (dharmādhṛmasamārambhaḥ) (depends on whether the person in question) is impelled by Jyeṣṭhā or not (impelled by) Jyeṣṭhā (juyeṣṭhājyeṣṭhāpracoditaḥ). Not otherwise is the highest state, which is where the highest rewards are (possible) for the soul. (46-47) That which has the power to drive away the disease of the souls that is nescience, and that expressed by the word ʻaffliction’ (ruk) is the power that resides with (the form of Siva called) Rudra. She who delights in deeds of blood and weaponry through men’s fierce deeds is Raudrī, who arises in fierce deeds and resides with (the form of Siva called) Rudra. (48-49) That by which He impels to action the material cause and auxiliary cause is Kālī, empowered to impel. She is the power of (the form of Siva called) Kāla. She who, in the realm of action, is discerned in the division of time, is the impeller (kalayitrī) of men, known by the marks of time. (50-51) (The next power, Kalakirā (?), is so called) because (. . . tena) she is the dispeller of the faculties (kalānāṁ vikirā) in the scattering of the limited powers of all souls (sarvaptāṇikalākṣepe), which were clustered together (?) by their own past actions (paripindite). (One) may discern (her) in the destruction of bodies. Alternatively, however (punaḥ), she is that internal scattering of the skill that is learnt in this (world) because of the undertaking of other (?) actions. She is in the control of (the form of Śiva called) Kalākṣepa (kalākṣepagā). (52-53) That by which the limited power of souls (in saṁsāra) (aṇūnām) is scattered about in the extensive (lower) path (of the universe and brought) in connection with bodies and (the retributive power of past) actions is the Scatterer of Forces (balānām vikirā). Alternatively bala (is) souls’ knowledge and discernment that is ever increasing (uttarottaragam ?). Because of scattering that, she is (called) Balakṣepā. She is in the control of (the form of Śiva called) Balakṣepa. (54-55) And the power by which Śiva churns up that other force, (viz.) that of the bonds, is called ‘the churner up of forces’ (balānār pramathā), and is in the control of (the form of Śiva) Balapramathana. The power that churns up forces (balamanthanā) . . . is (also) that by which (Siva) churns up the force(s) of souls by means of faints and delusions and by suddenly oppressing with sleep. (56-57) The taming power by which he tames all creatures in phases of creation by means of the suffering intermixed with happiness that is (the fruit of) their own (actions) is therefore the Taming Power (śaktir damanātmikā). And she is also the Taming Power (damanī) because she is that by which a soul tames (damayan) the elements of his body (svadehabhūtāni) through various torments, such as the krechra and cāndrāyanṇa fasts. (58-59) That power which leads the bound soul to the reality-level that is beyond mind (amanaskam) and devoid of support is taught to be the power Manonmanī, that belongs to the god Manonmana. That which suddenly (akasmāt) brings souls in this world to a state of mindlessness (unmanāvasthām) is taught in this (Tantra) to be (the power) Unmanī, who is in the control of (the form of Śiva called) Unmana. (60-61) All activity is shown (to be accounted for) by this variety of the all-powerful Lord’s powers. He must be omniscient, because he is omnipotent, for power to act (tat) necessarily depends on knowledge (jñānapūrvakam). (62)
 
 
 *[p. 331]* ^pg349
@@ -1238,7 +1238,7 @@ Above the principle of (Pure) Knowledge is the principle of Īśvara, whose worl
 
 ‘Outside that (principle of Pure Knowledge) is the Īśvara Principle. Listen (as I tell you the names of the) worlds here.’ . . . (and ending with): ‘the god Īśvara, who bestows boons and faces everywhere, resides there.”[^942] 
 
-[^940]: \[illegible\] Read śrīkanṭho for śrīgalo.
+[^940]: Read śrīkanṭho for śrīgalo.
 
 [^941]: The names of the Vidyeśvaras are those listed in SvT 10/1161cd-1162. Note that there they are listed in the reverse order with respect to this one, i.e. beginning with Ananta and ending with Śikhanqin. The entry ‘mūrti’ corresponds to trinetra in the SvT.
 

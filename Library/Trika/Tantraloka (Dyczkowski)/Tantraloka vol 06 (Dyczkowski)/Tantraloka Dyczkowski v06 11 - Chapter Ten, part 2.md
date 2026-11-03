@@ -82,7 +82,7 @@ Again, the lamp gives sufficient light to the things (it illumines); otherwise, 
 
 [^78]: The Nyāya does not agree that cognitions ‘illumine’ themselves; that is, they are not known in themselves to themselves. They are known by subsequent cognitions. See above, note 10,69.
 
-[^79]: \[illegible\] As suggested by the editor of the printed text, read dadhāty for dadāty.
+[^79]: As suggested by the editor of the printed text, read dadhāty for dadāty.
 
 [^80]: One person can deceive another concerning the nature of an object that is not clearly visible, because it is not well illuminated. This can happen because the light that illumines it may be of varying intensity, according to the degree and spread of its rays. If objects were to be self-luminous, that would not be possible.
 
@@ -117,7 +117,7 @@ Thus he says:
 
 [^81]: Above, 1/52ab. Also quoted in TĀv ad 1/26 and 1/54. The next line is given in brackets for the sake of clarity.
 
-[^82]: \[illegible\] Above, 10/19ab; also quoted above in TĀv ad 10/19cd and ad 10/68cd-69.
+[^82]: Above, 10/19ab; also quoted above in TĀv ad 10/19cd and ad 10/68cd-69.
 
 *[p. 331]* ^pg350
 
@@ -181,7 +181,7 @@ The meaning is, just as ‘a thief’, although intent on the desire to lay hold
 
 [^84]: This verse connects to verse 10/56cd-57ab.
 
-[^85]: \[illegible\] The above are two examples of how ‘being known’ affects the subject of the knowledge ~ the thief suffers for it, while the lover feels pleasure.
+[^85]: The above are two examples of how ‘being known’ affects the subject of the knowledge ~ the thief suffers for it, while the lover feels pleasure.
 
 
 *[p. 333]* ^pg352
@@ -243,7 +243,7 @@ We who are the votaries of the doctrine that only Śiva exists and is self-lumin
 
 [^86]: Below, 10/132c.
 
-[^87]: \[illegible\] Read vedyatādharmo for vedyatādharmā.
+[^87]: Read vedyatādharmo for vedyatādharmā.
 
 [^88]: Read tvatpakṣam eva for matpakṣam eva.
 
@@ -328,7 +328,7 @@ You have said that the nature of cognition \[illegible\] is that it is universal
 
 [^93]: Read pītajñṁānam idam iti for pītajṁñānam iti.
 
-[^94]: \[illegible\] Read nibandhanāntarari nāśrīyate for nibandhanāntaramāśrīyate.
+[^94]: Read nibandhanāntarari nāśrīyate for nibandhanāntaramāśrīyate.
 
 [^95]: Gnoli translates the last line as “The ‘perceptibility’ on the part of a (particular) sentient subject is a property of the object.’ He writes in a note: ‘According to the opponent, a quality maintains its identity for all subjects, but appears in relation to a particular subject in the form of ‘this is yellow’ or ‘this is blue’. Thus, if we say that ‘perceptibility’, which is a quality of the thing, appears in relation to a particular subject and not to others, you would have no reason to object.”
 
@@ -390,7 +390,7 @@ Surely (the opponent may object that), according to the view that perceptibility
 
 [^97]: According to Abhinava, talk of ‘any other’ (subject) or ‘all other’ (subjects) makes no sense, because the subject is one only and identified with Śiva, who is free and independent in all respects. Moreover, all objects are one with him.
 
-[^98]: \[illegible\] Above, 10/19ab, also quoted above in TĀv ad 10/55cd-56ab.
+[^98]: Above, 10/19ab, also quoted above in TĀv ad 10/55cd-56ab.
 
 [^99]: The colour blue is known to the perceiver because it is perceptible. Its perceptibility inheres in the object of which blue is a quality. But in order to perceive that perceptibility, it must itself possess that same quality of perceptibility. If so, then that perceptibility would also have to possess that quality, and so on, leading to an infinite regress. This is because each of the ‘perceptibilities’ are qualities of different things. Cf, above, 10/23-24cd: ‘Again, if this (hypothetical) quality called ‘perceptibility’ is itself imperceptible, (then it is no more real then) a sky-flower. But if it is perceptible, then there should be perceptibility there (in that) also, and (so that would result in) an infinite regress. Thus, nothing would be perceptible, and the (entire) universe would be (as if) in a coma.’
 
@@ -913,7 +913,7 @@ api cāsty eva
 
 [^125]: Read upadiśyate for apadiśyate.
 
-[^126]: \[illegible\] Read krimiḥ sarvajñāder api na vedyo for krimisarvajñāder api vedyo.
+[^126]: Read krimiḥ sarvajñāder api na vedyo for krimisarvajñāder api vedyo.
 
 [^127]: Read maitrādy for mantrādy.
 
@@ -1266,7 +1266,7 @@ When the principle of Māyā is the object of knowledge, (the subject in whom) t
 
 [^152]: When, however, one is considering how the knowable, consisting of the principles ranging from Puruṣa to Kalā, are, then the (sakala subjects), which are characterized as being in a state in which the kañcukas are in an emergent condition, are then no longer subjects, but objects of awareness. This is the reason why the Sakalas are no longer subjects with respect to these Tattvas (from Purusṣa upwards), which due to the absence of the two aspects of the Sakala subjects, that is, Power and the Powerholder, have thirteen aspects only.
 
-[^153]: \[illegible\] Along with the Mantra and other subjects above it.
+[^153]: Along with the Mantra and other subjects above it.
 
 [^154]: kañcukadhvarisasusthite, which literally means ‘(who is) in a good state because (his) obscuring coverings have been destroyed.”
 

@@ -69,13 +69,13 @@ E) The Śiva principle is supreme and tranquil. The Force there is the Bestower 
 
 [^108]: The two, Śiva and Śakti, are one, but they are considered to be two principles, because the former is the one transcendent reality — 'beyond everything’ (viśvottirna), whereas the latter is the same reality, which is ‘made of everything’ (viśvamaya), and so is all-pervasive.
 
-[^109]: \[illegible\] MV 6/6ab.
+[^109]: MV 6/6ab.
 
 [^110]: Above, 8/452d (452b).
 
 [^111]: Read tadvaddhādyakṣarāni for tadvaṭtādyakṣarāni.
 
-[^112]: \[illegible\] Two Mantras and two Padas consist of four syllables (hasaṣaśa, valaraya), three Mantras and three Padas are made of three classes of phonemes, that is, labials, dentals and cerebrals. Concerning the worlds in relation to them, see below, Chapter Eleven.
+[^112]: Two Mantras and two Padas consist of four syllables (hasaṣaśa, valaraya), three Mantras and three Padas are made of three classes of phonemes, that is, labials, dentals and cerebrals. Concerning the worlds in relation to them, see below, Chapter Eleven.
 
 [^113]: The seven phonemes are Ñ, Jh, J, Ch, C, “N, Gh. The two Padas and two Mantras are of five and two syllables each, i.e ñajhajachaca, ṁagha.
 
@@ -146,13 +146,13 @@ The plane of the object of denotation (vācyadaśā) (that is, the objective asp
 
 #### Viveka on 11.55–57
 
-[^118]: \[illegible\] MVV so ‘yarn mātṛsvarūpastho mantrādhveti vibhāvyate || 1/1014cd.
+[^118]: MVV so ‘yarn mātṛsvarūpastho mantrādhveti vibhāvyate || 1/1014cd.
 
 [^119]: MVV 1/1018-1019 = TĀ 11/55cd-57ab. 57ab reads as MVV 1/1019cd: mantrādhvā rabhasena drākprāgudbhūtaḥ śivātmakaḥ Il
 
 [^120]: Abhinavagupta is here alluding to a didactic etymology of the word ‘mantra’ common to all schools, including Buddhist and Vaiṣṇava.
 
-[^121]: \[illegible\] Mantra is essentially the reflective awareness of Śiva’s pure consciousness. So, the shift from the Pada state to that of Mantra corresponds to that from the individual to the universal. The former is objective and the latter subjective.
+[^121]: Mantra is essentially the reflective awareness of Śiva’s pure consciousness. So, the shift from the Pada state to that of Mantra corresponds to that from the individual to the universal. The former is objective and the latter subjective.
 
 
 *[p. 54]* ^pg74
@@ -695,7 +695,7 @@ Thus, moreover (as was said before):
 
 [^163]: MV 19/50-56ab.
 
-[^164]: \[illegible\] MV 19/60cd-61. Read with the edition of the MV uditādityavarnābhāṁ for uditāditya-varṇnānām.
+[^164]: MV 19/60cd-61. Read with the edition of the MV uditādityavarnābhāṁ for uditāditya-varṇnānām.
 
 
 *[p. 73]* ^pg93
@@ -933,7 +933,7 @@ te sarve sarvadāḥ kintu kasyacit kvāpi mukhyatā |
 
 Surely (one may ask), if this is so, how is it that there (in these scriptures) also (Mantras) are said to have a fixed (predetermined) field of operation, as is taught (in the following verse in the Mālinīvijayottara)? 
 
-[^181]: \[illegible\] T have translated the expression anuttaratrikānām akramamantrās in accord with Jayaratha’s interpretation. One could also read anuttaratrikānāmakramamantrās, meaning ‘the Mantras (taught in our school), the Anuttara Trika, and those of the Liturgy of the Nameless (anāmakrama).’ ‘The Liturgy of the Nameless’ is that of the Krama system, especially that of the Twelve Kālīs who constitute the Cycle of the Nameless — anākhyacakra. One could also understand ‘anuttaratrikānām’ to mean ‘the most excellent triad (of scriptures).” Jayaratha clearly avoids this interpretation, by specifying that the classic triad of Trika Tantras he names are part of the teachings (artha) of the Anuttaratrika.
+[^181]: T have translated the expression anuttaratrikānām akramamantrās in accord with Jayaratha’s interpretation. One could also read anuttaratrikānāmakramamantrās, meaning ‘the Mantras (taught in our school), the Anuttara Trika, and those of the Liturgy of the Nameless (anāmakrama).’ ‘The Liturgy of the Nameless’ is that of the Krama system, especially that of the Twelve Kālīs who constitute the Cycle of the Nameless — anākhyacakra. One could also understand ‘anuttaratrikānām’ to mean ‘the most excellent triad (of scriptures).” Jayaratha clearly avoids this interpretation, by specifying that the classic triad of Trika Tantras he names are part of the teachings (artha) of the Anuttaratrika.
 
 [^182]: Concerning these three root Trika Tantras, see above, TĀv ad 1/18 note 1,316.
 
@@ -986,7 +986,7 @@ And ending with:
 देवत्रयस्य वक्त्राणामङ्गानामष्टकस्य च ।
 किं वातिबहुना द्रारवास्त्वाधारगुरक्रमे । ९१ ॥
 
-[^185]: \[illegible\] Trika Mantras are not like other mantras, that require purification before their application. They are always purifying, but never need to be purified. Concerning purifying Mantras, see below, Chapter Thirty.
+[^185]: Trika Mantras are not like other mantras, that require purification before their application. They are always purifying, but never need to be purified. Concerning purifying Mantras, see below, Chapter Thirty.
 
 [^186]: MV 4/19ab. This is the first line of the exposition of Parāparā Vidyā found in MV 4/19cd-23ab. The full passage to which Jayaratha refers (MV 4/19cd-25) is quoted below in TĀv ad 16/216-222 (216cd-223ab). For the reader's convenience, here it is: ‘Within niṣkala (transcendental, undifferentiated) (Śiva) there is one pada consisting of one phoneme (OM).' One should know that there are two in sakala (immanent, differentiated) (Śiva) — one (Part) with three syllables (AGHORE), and one with one (HRĪH). There are two (padas) in the two (principles of Īśvara and Pure Knowledge, one) of five (syllables) (PARAMAGHORE), and (one of) one (HUM). There are two (padas) of four syllables (GHORARŪPE) and one (HAH) in the three (principles) considered to be Māyā etc. (limited agency and knowledge). There is one (pada) of four syllables (GHORAMUKHI), considered to be in the two (principles of) Time (and Necessity). There is one (pada) with two syllables (BHĪMA) in (the principle of) Attachment. One (pada) of three syllables (BHĪṢAṆE) is considered to be in Nature. There is one pada of two syllables (VAMA) in the intellect, which is considered to be pervading the group of eight deities. Then there are four (padas) of the Vidyā, two (PIBA), one (HE), two (RURU), two (RARA), and a syllable and a half (PHAṬ) as the fifth (in the principles from Nature to Water), which pervade the five groups of eight worlds (respectively). There are three (padas) of one (HUM), one (HAH), and one and a half syllables (PHAT) in the earth (principle). Two Eggs (that extend up to Nature) are pervaded by a syllable and a half \[illegible\] and the two others by two syllables each (HÜM and HRĪH). Such, in reverse. is (the extent of) the pervasion of Aparā. The three Eggs (that extend up to the end of Māyā) are pervaded by the letter S, and the fourth one by the Trident (AU), and that which is beyond all, by emission (H). (This) is considered to be the pervasion of Parā.’ MV 4/19cd-25
 
@@ -1030,7 +1030,7 @@ The view that the Path is (both) that which purifies and that which is purified 
 
 Surely (one may ask), as Śiva’s oneness is universal, what is the reason (nimitta) for the diversity (which is such) that on the one hand, (the Path) is the object of purification, and on the other, (Mantras) purify (it)? Accordingly, he says, ‘(its purification is) the oneness of (all things) with Śiva by virtue of (His sovereign) freedom’. Nor is this a statement of just our own idea. (Thus, 
 
-[^188]: \[illegible\] These are the primary Trika Mantras. See below, Chapter Thirty.
+[^188]: These are the primary Trika Mantras. See below, Chapter Thirty.
 
 
 *[p. 83]* ^pg103
@@ -1072,7 +1072,7 @@ Surely (one may ask), in the case of mirrors and the like, the reflected images 
 
 [^190]: Read with Th sāmānyeṣva ‘py for sīmānye ‘py.
 
-[^191]: \[illegible\] TĀ 11/92cd-117ab (93-117) is a direct citation with a few variants of MVV 1/1037-
+[^191]: TĀ 11/92cd-117ab (93-117) is a direct citation with a few variants of MVV 1/1037-
 
 [^192]: TĀ 11/93cd-94ab (93) = MVV 1/1037 MVV reads: tatra sarvaṁ vibhāty etat for sarvam etad vibhāty eva.
 
@@ -1277,7 +1277,7 @@ cittacitrapurodyāne krīdan evar hi vetti yah | 102 ॥
 
 [^207]: TĀ 11/100cd-101ab (100) = MVV 1/1044. A less literal translation, which conveys the point more clearly, could be: ‘There is a lack of awareness of oneself as all things which are in fact one with Bhairava, who is one and full of consciousness alone. It is this that brings about the division of all things from one another.”
 
-[^208]: \[illegible\] TĀ 11/101cd-102ab (101) = MVV 1/1045. MVV reads svatantrāyās tathā sargo ‘pi for svasiddhāyās tathā sarvatra.
+[^208]: TĀ 11/101cd-102ab (101) = MVV 1/1045. MVV reads svatantrāyās tathā sargo ‘pi for svasiddhāyās tathā sarvatra.
 
 *[p. 90]* ^pg110
 
@@ -1317,7 +1317,7 @@ when the body is slain.’[^212]
 
 Surely (one may ask), if birth and death do not exist, how could this situation be; namely, that there is this world here (of the living) (ihaloka) and the next world (beyond)? With this doubt in mind, he says: 
 
-[^209]: \[illegible\] TĀ 11/102cd-103ab (102) = MVV 1/1046. MVV reads krīdann eva for krīded evan bhāvair bhūtaiś cinmātrakair iti for bhūtabhāvatattvapurair iti.
+[^209]: TĀ 11/102cd-103ab (102) = MVV 1/1046. MVV reads krīdann eva for krīded evan bhāvair bhūtaiś cinmātrakair iti for bhūtabhāvatattvapurair iti.
 
 [^210]: Read with the MVV krīdanevaṁ for krīdedevaṁ.
 
@@ -1439,7 +1439,7 @@ Even though (it has) no external support, the generic elephant in such imaginary
 
 [^220]: The word ‘pratiti according to Monier-Williams’s dictionary means ‘clear apprehension, insight into anything, complete understanding or ascertainment, conviction.” Jayaratha glosses it as ‘consciousness’ (saṁvid). This is a feminine word and so is identified with the Goddess, the sacred power that sustains all things. The variant reading sā pratibhā for dhartrī ca sā in MVV 1/1051b, which states that pratīti is pratibhā, supports the translation of pratiti as ‘intuitive awareness’.
 
-[^221]: \[illegible\] Read, as the editor suggests, tatreti for tad iti.
+[^221]: Read, as the editor suggests, tatreti for tad iti.
 
 [^222]: TĀ 11/108cd-109ab = MVV 1/1052. MVV reads viśrānter for viśrāntari.
 

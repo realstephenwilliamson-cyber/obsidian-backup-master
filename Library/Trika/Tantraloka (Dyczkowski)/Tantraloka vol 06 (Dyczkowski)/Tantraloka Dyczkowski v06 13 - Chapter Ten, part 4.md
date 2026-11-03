@@ -75,7 +75,7 @@ With this doubt in mind, he says:
 अस्ति चातिशयः कश्ित्तासामप्यत्रोत्तरम् ।
 यो विवेकधनैधीरेः स्फटीकृत्यापि दर्श्यते ॥ १९६ ॥
 
-[^239]: \[illegible\] This verse is quoted above in TĀv 10/3-5 as part of a longer passage; see there.
+[^239]: This verse is quoted above in TĀv 10/3-5 as part of a longer passage; see there.
 
 *[p. 416]* ^pg435
 
@@ -110,7 +110,7 @@ Surely (one may ask), if (there are various views) in this way, then which of th
 
 tad asyāṁi sūkṣmasaṁvittau kalanāya samudyatāḥ | 
 
-[^240]: \[illegible\] This view amounts to considering the final moment (rui), in which the object is prominent, to be one with its essential nature, that is, the subject, which is represented by the penultimate moment. Abhinava has attributed this teaching, in the form in which he presents it, to his Trika teacher Śambhunātha. This reference to others who hold different views on the subject makes one wonder who they may have been. Whoever they were, it clearly indicates that such teachings were being orally transmitted. One wonders what else was being transmitted and who were the people involved. As this teaching is part of Trika, it would appear that there were other Trika lineages in Kashmir in Abhinava’s day.
+[^240]: This view amounts to considering the final moment (rui), in which the object is prominent, to be one with its essential nature, that is, the subject, which is represented by the penultimate moment. Abhinava has attributed this teaching, in the form in which he presents it, to his Trika teacher Śambhunātha. This reference to others who hold different views on the subject makes one wonder who they may have been. Whoever they were, it clearly indicates that such teachings were being orally transmitted. One wonders what else was being transmitted and who were the people involved. As this teaching is part of Trika, it would appear that there were other Trika lineages in Kashmir in Abhinava’s day.
 
 
 *[p. 417]* ^pg436
@@ -468,7 +468,7 @@ saṁvittau tuṭibāhulyād akṣārthāsaminikarṣavat || 213
 
 [^258]: See above, 10/21 Icd.
 
-[^259]: \[illegible\] Read mantrādhināthādīnāṁ for mantrādināthādīnāṁ.
+[^259]: Read mantrādhināthādīnāṁ for mantrādināthādīnāṁ.
 
 *[p. 428]* ^pg447
 
@@ -740,7 +740,7 @@ things), compromised, even if that were to be so. Thus, like the powers of the w
 
 He says that (by stating if) they, that is, the Mantra (perceivers) and their Lords, ‘(are sometimes considered to be) causes, it is because of their close proximity (sarinidhi) (to consciousness)’. (This is so) just as the presence of spatial and temporal factors, the ether etc. (concur) in the production of a jar. (Again,) Śiva is thus said to be the cause (of all things). Mantra (perceivers) and (their) Lords are also referred to in that way because of their 
 
-[^270]: \[illegible\] Kiraṇatantra vidyāpāda 3/26cd. Quoted above in TĀv ad 1/1, 8/331-332 (330cd-332ab), 9/61, and below ad 13/1 13cd-114ab.
+[^270]: Kiraṇatantra vidyāpāda 3/26cd. Quoted above in TĀv ad 1/1, 8/331-332 (330cd-332ab), 9/61, and below ad 13/1 13cd-114ab.
 
 *[p. 436]* ^pg455
 
@@ -1030,7 +1030,7 @@ It is said (in the Mālinīvijayottara) that this (waking state, otherwise known
 
 [^283]: See above, 10/228cd-229a.
 
-[^284]: \[illegible\] ŚSū 3/20; quoted again below in TĀv ad 10/294cd-297.
+[^284]: ŚSū 3/20; quoted again below in TĀv ad 10/294cd-297.
 
 *[p. 448]* ^pg467
 
@@ -1151,7 +1151,7 @@ Propitious’ (Sarvatobhadra), because it is completely filled with the essentia
 
 ‘This (state)’ is the waking state. In response to the question as to what is the reason for denoting it in this way, he says that that is ‘because it is completely filled with the essential being of objectivity’. 
 
-[^295]: \[illegible\] Now that he has talked about how the waking state is experienced in the stage of Kaula Yoga called the Corporeal, Abhinava goes on to refer to the first stage of knowledge a man of knowledge (jñānin) experiences, namely, Everywhere Propitious (sarvatobhadra). After this come Pervasion (vyāpti), Great Pervasion (mahāvyāpti), Accumulation (pracaya), and Great Accumulation (mahāpracaya). These are forms and degrees of prasaṁkhyāna in the sense of ‘reflection’, ‘contemplation’, ‘realisation’ or, as translated here, ‘intuitive insight’. Abhinava considers it to be Knowledge, rather than Yoga, and of a higher order than ordinary meditation (bhāvanā), as he says in the PTv (p. 272): ‘In this way I have expounded in detail the nature of the Absolute, where meditation (bhāvanā) and the like have no scope, something where only bare intuitive insight (prasahkhyāna), culminating in the firmness of (self) realisation (pratipatti), which is taking to heart (the true nature of consciousness) characterized by the firm (and uninterrupted experience of) wonder (camatkāra).’ In Pātañjali’s Yoga tradition, prasaṁkhyāna ‘designates the penultimate transformation of the illuminative mind-substance (prakhyārūpan cittasattvaṁ) (Yogasūtrabhāṣya on sūtra 1/2) . . . \[it\] lasts from the first bare perception of the distinction (anyathākhyāti) of the Sattva and the Self (puruṣa) until the stage of the ‘Dharma Cloud’ (dharmamegha). In its initial stages, prasakhyāna serves to investigate the defects of sensory object. Thus . . . ‘the mind of one who perceives the defects of sensory objects possesses dispassion (vairāgya) by the power of prasaikhyāna.” (Yogasūtrabhāṣya at 1/15). The Nyāyavārttika (4/2/2) defines it as the ‘knowledge of distinction’ (vyatirekadarśana), such as ‘these souls are not the bodies and the rest (of the components of the psychophysical organism)’. In his commentary (fātparyafīkā) (loc cit), Vācaspati defines it as ‘the knowledge of reality that arises from contemplative absorption (samādhi). (Somadeva 2004: 224, 225).
+[^295]: Now that he has talked about how the waking state is experienced in the stage of Kaula Yoga called the Corporeal, Abhinava goes on to refer to the first stage of knowledge a man of knowledge (jñānin) experiences, namely, Everywhere Propitious (sarvatobhadra). After this come Pervasion (vyāpti), Great Pervasion (mahāvyāpti), Accumulation (pracaya), and Great Accumulation (mahāpracaya). These are forms and degrees of prasaṁkhyāna in the sense of ‘reflection’, ‘contemplation’, ‘realisation’ or, as translated here, ‘intuitive insight’. Abhinava considers it to be Knowledge, rather than Yoga, and of a higher order than ordinary meditation (bhāvanā), as he says in the PTv (p. 272): ‘In this way I have expounded in detail the nature of the Absolute, where meditation (bhāvanā) and the like have no scope, something where only bare intuitive insight (prasahkhyāna), culminating in the firmness of (self) realisation (pratipatti), which is taking to heart (the true nature of consciousness) characterized by the firm (and uninterrupted experience of) wonder (camatkāra).’ In Pātañjali’s Yoga tradition, prasaṁkhyāna ‘designates the penultimate transformation of the illuminative mind-substance (prakhyārūpan cittasattvaṁ) (Yogasūtrabhāṣya on sūtra 1/2) . . . \[it\] lasts from the first bare perception of the distinction (anyathākhyāti) of the Sattva and the Self (puruṣa) until the stage of the ‘Dharma Cloud’ (dharmamegha). In its initial stages, prasakhyāna serves to investigate the defects of sensory object. Thus . . . ‘the mind of one who perceives the defects of sensory objects possesses dispassion (vairāgya) by the power of prasaikhyāna.” (Yogasūtrabhāṣya at 1/15). The Nyāyavārttika (4/2/2) defines it as the ‘knowledge of distinction’ (vyatirekadarśana), such as ‘these souls are not the bodies and the rest (of the components of the psychophysical organism)’. In his commentary (fātparyafīkā) (loc cit), Vācaspati defines it as ‘the knowledge of reality that arises from contemplative absorption (samādhi). (Somadeva 2004: 224, 225).
 
 
 *[p. 452]* ^pg471
@@ -1296,9 +1296,9 @@ vikalpāntaragari vedyaṁ tat svapnapadam ucyate |
 
 [^304]: This is a quote from Pramānaviniścaya (1/28) by the Buddhist idealist and logician Dharmakīrti.
 
-[^305]: \[illegible\] Pramāṇaviniścaya 1/29.
+[^305]: Pramāṇaviniścaya 1/29.
 
-[^306]: \[illegible\] Read spaṣtatvasyāsādhāraṇajāgradsvapnalakṣaṇatvāt for spaṣṭatvasyāsādhāraṇa-jāgrallakṣaṇatvāt.
+[^306]: Read spaṣtatvasyāsādhāraṇajāgradsvapnalakṣaṇatvāt for spaṣṭatvasyāsādhāraṇa-jāgrallakṣaṇatvāt.
 
 
 *[p. 456]* ^pg475

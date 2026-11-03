@@ -310,7 +310,7 @@ And the same is said in the venerable Mukuṭa (where we read): ‘he who has be
 
 [^844]: Read apāśuvatvar for pāśuvatvaṁ.
 
-[^845]: \[illegible\] In other words, he experiences what the deity does.
+[^845]: In other words, he experiences what the deity does.
 
 
 *[p. 364]* ^pg384
@@ -351,7 +351,7 @@ Having taught the procedure concerning the channels (of the vital breath) in thi
 
 [^846]: Read -siddhāyām for -siddhaye.
 
-[^847]: \[illegible\] nādicāraṇa is not treated at all in the short recension of the SYM, and the two verses Abhinava quotes here are not found in it.
+[^847]: nādicāraṇa is not treated at all in the short recension of the SYM, and the two verses Abhinava quotes here are not found in it.
 
 [^848]: Read pātrādy- for mātrādy-.
 
@@ -637,7 +637,7 @@ seṣavṛttyā samādeśyas tadvighnādipraśāntaye ॥ 8 ॥
 
 [^865]: This statement is drawn from the Nisāṭanatāntra, and is quoted above in 4/79a and ad 4/78cd-79. The passage from which it is drawn is quoted in full in TĀv ad 13/197-198. The same statement with a slightly different wording is also found in other Tantras. See above, 4/41cd-42ab and note.
 
-[^866]: \[illegible\] Jayaratha does not tell us what this impediment may be and to what. However, we have seen above in TĀv ad 26/4 that he says that the observance of an appropriate way of life, which includes the regular performance of the required rites, is maintained so that the initiate ‘may attain oneness with consciousness without (any) impediment’.
+[^866]: Jayaratha does not tell us what this impediment may be and to what. However, we have seen above in TĀv ad 26/4 that he says that the observance of an appropriate way of life, which includes the regular performance of the required rites, is maintained so that the initiate ‘may attain oneness with consciousness without (any) impediment’.
 
 *[p. 373]* ^pg393
 
@@ -673,7 +673,7 @@ Surely (one may ask), if this is so, is their condition (vartana) (just one of d
 तत्रादौ शिशवे ब्रूयाद् गुर्नित्यविधिं स्फुटम् ॥
 तद्योग्यतां समालोक्य वितताविततात्मनाम् ॥ १५ ॥
 
-[^867]: \[illegible\] Sec above, 4/42cd-43ab.
+[^867]: Sec above, 4/42cd-43ab.
 
 [^868]: See above, 15/31. The reader may recall that initiates ‘without seed’, like the aged, sick, women, children and kings, are exempted from the regular observances. By ‘seed’ here is meant the observance of the rules and rites etc. to which the initiate is bound.
 
@@ -782,7 +782,7 @@ likhitvā prathayec chiṣye viśeṣād ürdhvaśāsane ॥ 20 ॥
 
 (The teacher) should give the Mantra (indicated by the place in a diagram drawn for that purpose) onto which a flower falls (cast there by the disciple). So that (they may) accomplish the (chosen) goal, (it is given to 
 
-[^875]: \[illegible\] Above, 15/31.
+[^875]: Above, 15/31.
 
 [^876]: Lit. ‘by serving others’ — anyasevātaḥ.
 
@@ -954,7 +954,7 @@ Worship at the Junctures of the Day (sandhyopāsana)
 
 [^886]: Read avadhāryāpravṛttes for. avadhāryā pravṛttes.
 
-[^887]: \[illegible\] The following passage up to 37ab is concerned with the performance of the regular rites at the junctures of the day (sandhya). Concerning such rites, see also SŚP 1/2-67 and SvT 2/1cd-20.
+[^887]: The following passage up to 37ab is concerned with the performance of the regular rites at the junctures of the day (sandhya). Concerning such rites, see also SŚP 1/2-67 and SvT 2/1cd-20.
 
 [^888]: SvT 2/146cd-147ab.
 
@@ -999,7 +999,7 @@ kuryāt svādhyāyavijñānagurukṛtyāditatparaḥ |
 
 [^891]: See below, 26/68ab.
 
-[^892]: \[illegible\] Read -dakṣadikṣu for -daśadikṣu.
+[^892]: Read -dakṣadikṣu for -daśadikṣu.
 
 [^893]: Abhinava is clearly stating here that this procedure is Kaula. Although the basic daily procedure is Tantric, its Kaula roots are and must be maintained.
 
@@ -1041,9 +1041,9 @@ Invocation (ā&vāhana)
 ततो यथेष्टकाठेऽसौ पूजां पुष्पासवादिभिः ॥ ३७ ॥
 स्थण्डिलादौ शिशुः कुयीद्रिभवाद्यनुरूपतः ।
 
-[^894]: \[illegible\] See above, 6/63 ff.
+[^894]: See above, 6/63 ff.
 
-[^895]: \[illegible\] Here, it seems, Abhinava is alluding to the process of purification of thought (vikalpasar that takes place not only by performing the daily rites at the junctions of the day, but especially by the purifying meditation mentioned in the previous verses, as well as that of the junctions projected into the cycle of the breath, as taught in Chapter Six. These are meditative practices —yukti. We have observed in many contexts that Abhinava considers ritual action to be liberating because the power of the reflective awareness with which they should be performed purifies dichotomizing thought processes. Here this is achieved by linking the outer observance with close attention to the phases in cycles of the breath that correspond to the outer junctions of the day. See above, Chapter Six. The practice there serves to annul the cycle of time by finding ‘gaps’ in the cycle of the breath that measures it. If the eternal ‘endless’ state of identification is achieved in one of these gaps, it not only annuls time, it covers all of it. Thus, attending to one juncture encompasses all of them.
+[^895]: Here, it seems, Abhinava is alluding to the process of purification of thought (vikalpasar that takes place not only by performing the daily rites at the junctions of the day, but especially by the purifying meditation mentioned in the previous verses, as well as that of the junctions projected into the cycle of the breath, as taught in Chapter Six. These are meditative practices —yukti. We have observed in many contexts that Abhinava considers ritual action to be liberating because the power of the reflective awareness with which they should be performed purifies dichotomizing thought processes. Here this is achieved by linking the outer observance with close attention to the phases in cycles of the breath that correspond to the outer junctions of the day. See above, Chapter Six. The practice there serves to annul the cycle of time by finding ‘gaps’ in the cycle of the breath that measures it. If the eternal ‘endless’ state of identification is achieved in one of these gaps, it not only annuls time, it covers all of it. Thus, attending to one juncture encompasses all of them.
 
 
 *[p. 383]* ^pg403
@@ -1197,7 +1197,7 @@ worlds (arranged in an ascending hierarchy), takes place (progressively) in due 
 
 ‘(Having placed the (disciple who is) devoted to worldly Dharma (lokadharmin)) into the (status of) the desired Lord of a world order, (he should fulfil that Dharma (dharmāpādana). Or else, the one who desires liberation (should be placed) within Śiva).”[^909] 
 
-[^908]: \[illegible\] Read \[illegible\] for hṛṣtvā.
+[^908]: Read \[illegible\] for hṛṣtvā.
 
 [^909]: MṛT Kriyāpāda, 8/149b. The first line is quoted above in TĀv ad 6/177 (176cd-177ab), and ad 8/194-195ab (193cd-194). The full verse is quoted ad 13/245cd-246ab and again ad 15/30.
 
@@ -1279,7 +1279,7 @@ mumukṣūṇār tattvavidāṁ sa eva tu nirargalaḥ |
 
 [^917]\[illegible\] the case of adepts (sādhaka) and those who desire worldly benefits, the (specific ritual) procedure (they should follow) (vidhi) is (rigorously) fixed by the constraint (niyati) (which determines that a 
 
-[^915]: \[illegible\] Quoted also above by Abhinava in 15/566 (562). There, the last quarter reads ity ñce bhagavān yataḥ instead of ity ukta kila śíambhunā. The same is quoted again below in TĀv ad 29/22cd. The last quarter is omitted there. In the first instance, it is clear that the source is the Gamatantra. Jayaratha introduces this verse saying that Abhinava is going to quote an authority. It may be that Abhinava is referring to his teacher Śambhunātha here as ‘Śambhv’, but this possibility is precluded by the variant ‘bhagavān’ in 15/566 (562) above. However, there is no reason to doubt that Śambhunātha is meant in the next verse. It does not seem likely that one would say of Śiva that a teaching is his ‘settled opinion’.
+[^915]: Quoted also above by Abhinava in 15/566 (562). There, the last quarter reads ity ñce bhagavān yataḥ instead of ity ukta kila śíambhunā. The same is quoted again below in TĀv ad 29/22cd. The last quarter is omitted there. In the first instance, it is clear that the source is the Gamatantra. Jayaratha introduces this verse saying that Abhinava is going to quote an authority. It may be that Abhinava is referring to his teacher Śambhunātha here as ‘Śambhv’, but this possibility is precluded by the variant ‘bhagavān’ in 15/566 (562) above. However, there is no reason to doubt that Śambhunātha is meant in the next verse. It does not seem likely that one would say of Śiva that a teaching is his ‘settled opinion’.
 
 [^916]: Quoted below in TĀv ad 29/174-175.
 
@@ -1320,7 +1320,7 @@ Ritual Action Aimed at Oneness Brought About by Factors that Instil Bliss
 
 [^918]: Thus, for them the rite varies according to the results to which they aspire.
 
-[^919]: \[illegible\] This verse is quoted above in TĀv ad 1/122cd-123ab and ad 4/199. In other words, Abhinava is telling us that what he has just stated as his teacher’s teaching applies only to those who are liberated or aspire to liberation. Those who aspire to both would be subject to the rules of common procedure. This de facto excludes the common Śaiva (i.e. the ‘tantrikas’), who would be led in the course of initiation step by step along the ladder of the worlds where, repeatedly reborn, he would experience and hence exhaust the consequence of his Karma (bhoga). This way differs from the ascending path the soul travels in Kaula initiation as taught, for example, below in Chapter Twenty-nine. It is marked by the stations of the ascent of a flow of expanding energy, variously experienced. While that purifies the soul and hence leads to its release, it does not traverse levels of ‘worldly enjoyment’ (bhoga) of the worlds, although it does give rise to many and varied accomplishments (siddhi) as it ascends towards liberation. In the attendant rites, Kaula substances are offered and consumed, for it is these that ‘bring about an expansion of consciousness’.
+[^919]: This verse is quoted above in TĀv ad 1/122cd-123ab and ad 4/199. In other words, Abhinava is telling us that what he has just stated as his teacher’s teaching applies only to those who are liberated or aspire to liberation. Those who aspire to both would be subject to the rules of common procedure. This de facto excludes the common Śaiva (i.e. the ‘tantrikas’), who would be led in the course of initiation step by step along the ladder of the worlds where, repeatedly reborn, he would experience and hence exhaust the consequence of his Karma (bhoga). This way differs from the ascending path the soul travels in Kaula initiation as taught, for example, below in Chapter Twenty-nine. It is marked by the stations of the ascent of a flow of expanding energy, variously experienced. While that purifies the soul and hence leads to its release, it does not traverse levels of ‘worldly enjoyment’ (bhoga) of the worlds, although it does give rise to many and varied accomplishments (siddhi) as it ascends towards liberation. In the attendant rites, Kaula substances are offered and consumed, for it is these that ‘bring about an expansion of consciousness’.
 
 
 *[p. 391]* ^pg411
@@ -1449,7 +1449,7 @@ I worship You, O God, along with the Goddess, in the temple of (my) body, day an
 
 I place this triple world (of subject, object and means of knowledge), which is the juice (of aesthetic delight of) many flavours, on the machine of the Wheel of the Heart. Pressing (down upon it) with the great weight of discrimination between what is above and what is below, the supreme nectar of consciousness that ends birth, old age and death 
 
-[^922]: \[illegible\] Sanderson (in Parāpūjā) translates as follows: “Those initiated into the hidden teaching worship you with the experience of the ultimate joy that flashes into view when they immerse themselves in the radiance that is the true surge of creation.”
+[^922]: Sanderson (in Parāpūjā) translates as follows: “Those initiated into the hidden teaching worship you with the experience of the ultimate joy that flashes into view when they immerse themselves in the radiance that is the true surge of creation.”
 
 [^923]: Verse 64 is repeated below as 29/176; it is also found in MVV 2/126 with no variants. MVV 2/127-130ab is translated above note 4,781 ad 4/194. Verses 63 and 64 are quoted in TSā p. 180-181.
 
@@ -1571,9 +1571,9 @@ That is said (in the scriptures):
 
 Surely (one may ask), here (in this case,) the distinction between those who have received initiation and those who have not is (just) conceptual 
 
-[^927]: \[illegible\] Jayaratha understands that these beings have received Kaula initiation, which is described below in Chapter Twenty-nine.
+[^927]: Jayaratha understands that these beings have received Kaula initiation, which is described below in Chapter Twenty-nine.
 
-[^928]: \[illegible\] is a kind of bird, commonly called Myna, it is either the Gracula Religiosa or the Turdus Salika.
+[^928]: Śārikā is a kind of bird, commonly called Myna, it is either the Gracula Religiosa or the Turdus Salika.
 
 
 *[p. 397]* ^pg417

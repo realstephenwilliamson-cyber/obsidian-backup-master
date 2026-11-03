@@ -44,7 +44,7 @@ Surely (one may ask), how is it that it is said that that is just the bare exper
 
 [^279]: Read noditāni punaḥ svāsthye for svāsthye nodamiṣan punaḥ. The emendation noditāni is confirmed by Jayaratha.
 
-[^280]: \[illegible\] Read ante ca for antaś ca.
+[^280]: Read ante ca for antaś ca.
 
 *[p. 123]* ^pg140
 
@@ -261,7 +261,7 @@ tenaivātaḥ prabuddhyeta paradehe ‘kṣacakrakam ॥ 297 ॥
 
 (The yogi) takes as his support (and governs) the exertion (of his) mind (manas) to the extent that is required, so that by the firm rooting of (his) ego (ahaṁ) in the other body, (his) intellect (buddhi) is transferred into it in such a way[^291] that the aggregate of (his) vital breaths that depends on it 
 
-[^290]: \[illegible\] Concerning the art of entering another body, see Eliade (1954: 380) and Bacot (1937: 70). According to the Tibetan Buddhist tradition, Marpa, the teacher of Milarepa, was the last to practice this. Even so, White (2009) maintains that accomplishment (siddhi) in this practice is a major characteristic of an advanced yogi. But while White understands it to be just a yogic accomplishment (siddhi), it is clear that Abhinava views it not from the perspective of a yogi who is seeking powers and accomplishments, but one who seeks liberation. He attains it by leaving the body at death in the same way he leaves the body while alive, to transfer himself into another one. Abhinava is implicitly saying that the yogi attains this ability by practicing the meditations (dhāranā) on the reality levels successively, by virtue of which they are gradually merged into consciousness as he rises through them.
+[^290]: Concerning the art of entering another body, see Eliade (1954: 380) and Bacot (1937: 70). According to the Tibetan Buddhist tradition, Marpa, the teacher of Milarepa, was the last to practice this. Even so, White (2009) maintains that accomplishment (siddhi) in this practice is a major characteristic of an advanced yogi. But while White understands it to be just a yogic accomplishment (siddhi), it is clear that Abhinava views it not from the perspective of a yogi who is seeking powers and accomplishments, but one who seeks liberation. He attains it by leaving the body at death in the same way he leaves the body while alive, to transfer himself into another one. Abhinava is implicitly saying that the yogi attains this ability by practicing the meditations (dhāranā) on the reality levels successively, by virtue of which they are gradually merged into consciousness as he rises through them.
 
 [^291]: Read yathā for pathā.
 
@@ -575,7 +575,7 @@ tathāpi prācyatadbhedasariskārāśaṁkanasthiteḥ |
 adhunoktam kevalatvaṁ yadvā mātrantarāśrayāt || 319 ॥
 tāny enar na vidur bhinnaṁ taiḥ sa mukto ‘bhidhīyate | 
 
-[^302]: \[illegible\] SārnKā 67.
+[^302]: SārnKā 67.
 
 *[p. 137]* ^pg154
 
@@ -726,7 +726,7 @@ tad eva rūpam abhyeti sukhiduhkhivimūdhakam I| 331 ॥
 
 That single final instant after which this body becomes (lifeless) like a piece of wood or wall is (that of the residual) life force (prāṇana). The fraction of the (tiny) part of time (when the soul) abandons the body separates it from the body. Thus, it is free of the (sensations of) pleasure 
 
-[^308]: \[illegible\] Read sarnmoho 'śvāsāyāsa- for samohaśvāsāyāsa-.
+[^308]: Read sarnmoho 'śvāsāyāsa- for samohaśvāsāyāsa-.
 
 *[p. 142]* ^pg159
 
@@ -957,7 +957,7 @@ It is that form (namely the body) which is conceived first of all and is recolle
 
 [^319]: See above, note 28,317.
 
-[^320]: \[illegible\] The answer is that although all objects exist because they are sustained in their being by consciousness, it is only in a physical organism that conscious assumes the form of the vital breath. It is the firm stable presence of the vital breath in that organism that determines its existence as a living being. Moreover, in this way a particular body is specifically selected to accommodate a particular soul, determined by the impulse of its memories at the moment of death of its previous body.
+[^320]: The answer is that although all objects exist because they are sustained in their being by consciousness, it is only in a physical organism that conscious assumes the form of the vital breath. It is the firm stable presence of the vital breath in that organism that determines its existence as a living being. Moreover, in this way a particular body is specifically selected to accommodate a particular soul, determined by the impulse of its memories at the moment of death of its previous body.
 
 [^321]: See above, 28/325-326ab.
 
@@ -1070,7 +1070,7 @@ tadbhāvabhāvitas tena tad evaiṣa smaraty alam |
 
 (The Lord) has said,[^329] it is sufficient that he be constantly steeped in that state (fadbhāvabhāvita) (to explain why) he recollects just that (and 
 
-[^326]: \[illegible\] Abhinava is referring here to a standard analogy (nyāya) for chance occurrences, namely, that of the crow and the coconut tree. The image is that of a bald man resting under a coconut tree when a passing crow happens by chance to detach a coconut from it that falls on his head.
+[^326]: Abhinava is referring here to a standard analogy (nyāya) for chance occurrences, namely, that of the crow and the coconut tree. The image is that of a bald man resting under a coconut tree when a passing crow happens by chance to detach a coconut from it that falls on his head.
 
 [^327]: See below, 28/349cd-352ab.
 
@@ -1193,7 +1193,7 @@ me
 
 [^333]: 4/9. 33 ऽ
 
-[^334]: \[illegible\] Read dārdhyenāprarohāt for dārdhyena prarohāt.
+[^334]: Read dārdhyenāprarohāt for dārdhyena prarohāt.
 
 [^335]: Read asphutasyāpi for sphutasyāpi.
 
@@ -1263,7 +1263,7 @@ Surely, even so, it is well known everywhere (according to all philosophies) tha
 य एवैते तु दृश्यन्ते जाग्रत्येते मयेश्षिताः ॥ ३५६ ॥
 स्वप इत्यस्तु मिथ्यैतत्तत्प्मातृवचोबलात् ।
 
-[^336]: \[illegible\] The text reads te tu vidantu mā vā vidann iti. 1 appears to be corrupt; even so, the intended meaning is as translated, presuming the original reading is something like te tu vidantu kintv adhunā avidann iti.
+[^336]: The text reads te tu vidantu mā vā vidann iti. 1 appears to be corrupt; even so, the intended meaning is as translated, presuming the original reading is something like te tu vidantu kintv adhunā avidann iti.
 
 [^337]: The same expression appears above in TĀv ad 3/21-22 (see note), ad 3/23, ad 4/12, ad 5/155cd-156ab (154cd-155ab), and ad 9/159.
 

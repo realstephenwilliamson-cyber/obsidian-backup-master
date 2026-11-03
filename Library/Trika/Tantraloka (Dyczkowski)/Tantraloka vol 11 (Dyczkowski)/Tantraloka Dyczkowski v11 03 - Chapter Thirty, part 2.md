@@ -563,7 +563,7 @@ dharmādharmau tyaktvā nārāyaṇa yāhi śāntāntam || 78 ॥
 
 #### Viveka on 30.78
 
-[^158]: \[illegible\] Read tālum āhvayāntar for tālus āhvayāntaṁ.
+[^158]: Read tālum āhvayāntar for tālus āhvayāntaṁ.
 
 [^159]: The Ficus glomerata.
 
@@ -849,7 +849,7 @@ In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, the Ś
 
 [^177]: that case, one has a union through force or through violence (haṭhataḥ). See above 28/371.
 
-[^178]: \[illegible\] 96-97ab is a condensed paraphrase of TS 16/329cd-334, which reads as follows: bhairavaṁ hṛdayaṁ devi jagatsaṁhārakārakam ॥ 329 1I \[g: ?\] tena yuktā sadā devyāḥ klidyante klinnayonayaḥ | dahyante \[g: ?\] patate sighraṁ \[g: sīghraṁ\] prāṇam murcyanti bhūriṣaḥ I| 330 I vaśam āyanty asaṁidehāt \[g: vasa-; k, g: -yāntasaidehā\] taptā bhairavavahninā | dṛṣtvā \[k, g: dṛṣtā\] balāsamūhaṁ \[kh: J\] tu hṛdayena tu bhāvayet Il 331 ॥ vahnimandalamadhyasthaṁ \[k, g: -mandalat-\] bhairavānalatāpitam \[g: bhaira \* \* \* \* \* + | 116b g\] samūhaṁ \[k: -hām\] bhāvayed evaṁ \[k: -devaṁ\] niruddhaṁ hṛdayena tu ॥ 332 ॥ \[g: ?\] yāvantyas tatra śākinya āgacchanti na saṁnśayaḥ | \[g: ?\] saṁbhāvayanti \[k, g: -yati\] taṁ vīram \[kh: vīryam\] akāryari tu tvayā kṛtam \\\\ 333 \\\\ \[g: ?\] visarjayet tato mantrī tatkṣaṇān naivat \[g. 1 dhārayet | anyathā cchidrayanty evar sādhakaṁ kupitātmanaḥ || 334 || ‘O goddess, Bhairava’s Heart destroys the universe. Yoked with that, the goddesses are always wet, and their genitals are wet (with arousal), they burn up (with passion). Quickly they fall (to the ground), and they release (their) breath repeatedly. Without a doubt, they come under (one’s) control, heated by Bhairava’s fire. Once seen the crowd of (these) powerful (witches.) contemplate them with the Heart (mantra). In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, contemplate the crowd (of Śākinīs,) blocked in thi: way by (the mantra of Bhairava’s) Heart. Without a doubt, however many they may be, the Śākinīs (all) gather there and suggest to the adept (vīra): “you have done what should not be done”. The one who recites the mantra should dismiss them at that very moment, and not maintain (their company) in this way. Otherwise, angered as they are, they make cracks in (the vital points in the body of) the adept. (TS 16/329cd-334)
+[^178]: 96-97ab is a condensed paraphrase of TS 16/329cd-334, which reads as follows: bhairavaṁ hṛdayaṁ devi jagatsaṁhārakārakam ॥ 329 1I \[g: ?\] tena yuktā sadā devyāḥ klidyante klinnayonayaḥ | dahyante \[g: ?\] patate sighraṁ \[g: sīghraṁ\] prāṇam murcyanti bhūriṣaḥ I| 330 I vaśam āyanty asaṁidehāt \[g: vasa-; k, g: -yāntasaidehā\] taptā bhairavavahninā | dṛṣtvā \[k, g: dṛṣtā\] balāsamūhaṁ \[kh: J\] tu hṛdayena tu bhāvayet Il 331 ॥ vahnimandalamadhyasthaṁ \[k, g: -mandalat-\] bhairavānalatāpitam \[g: bhaira \* \* \* \* \* + | 116b g\] samūhaṁ \[k: -hām\] bhāvayed evaṁ \[k: -devaṁ\] niruddhaṁ hṛdayena tu ॥ 332 ॥ \[g: ?\] yāvantyas tatra śākinya āgacchanti na saṁnśayaḥ | \[g: ?\] saṁbhāvayanti \[k, g: -yati\] taṁ vīram \[kh: vīryam\] akāryari tu tvayā kṛtam \\\\ 333 \\\\ \[g: ?\] visarjayet tato mantrī tatkṣaṇān naivat \[g. 1 dhārayet | anyathā cchidrayanty evar sādhakaṁ kupitātmanaḥ || 334 || ‘O goddess, Bhairava’s Heart destroys the universe. Yoked with that, the goddesses are always wet, and their genitals are wet (with arousal), they burn up (with passion). Quickly they fall (to the ground), and they release (their) breath repeatedly. Without a doubt, they come under (one’s) control, heated by Bhairava’s fire. Once seen the crowd of (these) powerful (witches.) contemplate them with the Heart (mantra). In the middle of a circle (mandala) of Fire, heated by Bhairava’s fire, contemplate the crowd (of Śākinīs,) blocked in thi: way by (the mantra of Bhairava’s) Heart. Without a doubt, however many they may be, the Śākinīs (all) gather there and suggest to the adept (vīra): “you have done what should not be done”. The one who recites the mantra should dismiss them at that very moment, and not maintain (their company) in this way. Otherwise, angered as they are, they make cracks in (the vital points in the body of) the adept. (TS 16/329cd-334)
 
 
 *[p. 56]* ^pg74
@@ -888,7 +888,7 @@ ya uktaḥ śambhunāthena sa mayā darśitaḥ kramāt ॥ 99 ॥
 
 I have (thus) revealed in due order (the mantras required for the) sacrifice[^180] of the balance (that eliminates weight) and (for) the union (with 
 
-[^179]: \[illegible\] The printed text of Jayaratha’s commentary here appears to be corrupt. I cannot understand it. See above, 28/371.
+[^179]: The printed text of Jayaratha’s commentary here appears to be corrupt. I cannot understand it. See above, 28/371.
 
 [^180]: Read —yāgaḥ for -yogaḥ. These mantras are taught in verses 9160 to 98.
 
@@ -938,7 +938,7 @@ The Three \[illegible\]
 varuṇo macchando bhagadatta iti trayam idaṁ hṛdaye ॥ 102 ॥
 dharmādivargasamijñāś catvāraḥ kanthadeśagāḥ pūjyāḥ | 
 
-[^181]: \[illegible\] This Initiation of the Scales is taught in chapter 9 of the Tantrasadbhāva. Concerning this initiation, see above, chapter 20. Abhinava himself tells us that the passage here from 30/93 to 98 is drawn from the Tantrasadbhāva.
+[^181]: This Initiation of the Scales is taught in chapter 9 of the Tantrasadbhāva. Concerning this initiation, see above, chapter 20. Abhinava himself tells us that the passage here from 30/93 to 98 is drawn from the Tantrasadbhāva.
 [^182]: Śrīsantatyāgama can mean ‘the scriptures of the Śrīsantati’ or “the tradition of the Śrīsantati’ or 'the venerable Āgama (called) Santati’. Abhinava refers to the Śrīsantati several times as a Śaiva school, and twice as founded by a certain Śrīnātha. But in this case, as the speaker is a deity, we can assume that a scripture is meant. However, it may be called ‘Santati’, but it is more like to be the name of the school to which it belongs.
 
 *[p. 58]* ^pg76
@@ -953,7 +953,7 @@ kusumair ānandair vā bhāvanayā vāpi kevalayā ॥ 104 ॥
 
 ‘The four named Dharma and the rest of the group’. The four, Dharma, wealth (artha), passion (kāma) and liberation, are the group (of the four aims of life. Thus (these teachers are called) Dharmanātha, Arthanātha, Kāmanātha and Mokṣanātha in the vocative case, which serves for invocation. The sequence (of Mantras) begins with HRĪM ŚRĪM, ŚRĪNĀTHAPĀDA (HRĪM ŚRĪM ĀRYAPĀDA) etc. (The three Vidyās) ‘taught before’ are Parā, Aparā etc. ‘Those which we will be’ explained (further ahead are three other ones). (The word) ‘now’ serves to indicate an option. (They should all be worshipped) ‘by applying the mind’, that is to say with stable (unwavering) 
 
-[^183]: \[illegible\] Sanderson (2005b 126-127) characterizes these 3 Vidyās as ‘for use in a radically simplified form of Kaula initiation and for recitation by initiates thereafter as a substitute for external worship. Though Śākta in character, in that they invoke the Goddess, nothing connects them especially with the Krama. More probably they belonged to the related tradition of the Śrīnāthasaṁsthāna associated by Abhinavagupta with Bhūtirāja’s son.’ (See below, 37/60) The reasons for this surmise are circumstantial. 1) The first Nātha installed in this initiation is Śrīnātha, which accords with the name of the order. 2) Abhinava introduces this topic saying: —śrīsaṁtatyāgamoditā . . . hāṭakeśānapātālādhipa-coditā. According to Sanderson, a possible meaning could be: ‘which has been proclaimed in the scripture Śrīsaṁtati, taught by Hāṭakeśvara, the Lord of the Subterranean Paradises.’ But as no such scripture is known or mentioned elsewhere, a preferable translation could be: ‘which has been proclaimed in the scriptural tradition of the Śrīnātha order, taught by Hāṭakeśvara, the Lord of the Subterranean Paradises.’ Either way, Abhinava is certainly drawing from a text. If this is correct and these Vidyās are from the Śrīsantāna, it would support the view that it was a Sākta Kaula tradition. But the references to it are so few that it is hard to understand in what way it was, as it is said to be, dualist-cum-nondualist, that is, that reality is one in the state of withdrawal and many in that of emanation. Sanderson suggests that one possible representation of this system is found in Bhaṭta Rāmakantha’s commentary (vṛtti) on the Mataṁgapārameśvara (Vidyāpāda p. 41) (Sanderson 2005b 128 n. 95 and Sanderson 1992, 307-8 n 91).
+[^183]: Sanderson (2005b 126-127) characterizes these 3 Vidyās as ‘for use in a radically simplified form of Kaula initiation and for recitation by initiates thereafter as a substitute for external worship. Though Śākta in character, in that they invoke the Goddess, nothing connects them especially with the Krama. More probably they belonged to the related tradition of the Śrīnāthasaṁsthāna associated by Abhinavagupta with Bhūtirāja’s son.’ (See below, 37/60) The reasons for this surmise are circumstantial. 1) The first Nātha installed in this initiation is Śrīnātha, which accords with the name of the order. 2) Abhinava introduces this topic saying: —śrīsaṁtatyāgamoditā . . . hāṭakeśānapātālādhipa-coditā. According to Sanderson, a possible meaning could be: ‘which has been proclaimed in the scripture Śrīsaṁtati, taught by Hāṭakeśvara, the Lord of the Subterranean Paradises.’ But as no such scripture is known or mentioned elsewhere, a preferable translation could be: ‘which has been proclaimed in the scriptural tradition of the Śrīnātha order, taught by Hāṭakeśvara, the Lord of the Subterranean Paradises.’ Either way, Abhinava is certainly drawing from a text. If this is correct and these Vidyās are from the Śrīsantāna, it would support the view that it was a Sākta Kaula tradition. But the references to it are so few that it is hard to understand in what way it was, as it is said to be, dualist-cum-nondualist, that is, that reality is one in the state of withdrawal and many in that of emanation. Sanderson suggests that one possible representation of this system is found in Bhaṭta Rāmakantha’s commentary (vṛtti) on the Mataṁgapārameśvara (Vidyāpāda p. 41) (Sanderson 2005b 128 n. 95 and Sanderson 1992, 307-8 n 91).
 
 [^184]: According to Jayaratha, these are the mantras of Parā, Parāparā and Aparā. If that is correct, which is far from certain in the absence of an authoritative citation, then the Śrīsantati is a Trika tradition, or closely related to it. Further ahead, Abhinava presents three Vidyās he leat from Bhūtirāja. If Jayaratha has understood correctly, Abhinava leaves the option open of choosing the Trika triad of Vidyās or this one.
 
@@ -1152,7 +1152,7 @@ vidyā sārdhārṇakhaśarasamikhyā sā pārameśvarī |
 
 [^189]: Apart from the initial syllables and the final SAT, the other words of the Vidyā may be loosely translated as: \*O great body of the Hāṭaka hell, be lenient, destroyer of sins, confounder of sin, strike strike disperse disperse sin, by the will of Rudra’s power!” Sanderson proposes to emend the final SAT, which has no clear meaning, to SAH. However, this cannot be done with a simple emendation of the text of the Tantrāloka. Are we to make this emendation to the source that Abhinavagupta used?
 
-[^190]: \[illegible\] etc.
+[^190]: Ātme, etc.
 
 
 *[p. 63]* ^pg81
@@ -1186,7 +1186,7 @@ The Vitality of Mantras (mantravīrya)
 अत्र वीरय पुरैवोक्तं सर्वत्रानुसरेटररुः ॥ १२१ ॥
 अर्थवीजप्रवेशान्तरुच्चाराद्यनुसारत : ।
 
-[^191]: \[illegible\] PHAT consists of one and a half letters.
+[^191]: PHAT consists of one and a half letters.
 
 [^192]: Read -ŚAKTE in place of -ŚAKTI. This simple emendation, based on the basic rules of Sanskrit grammar, is suggested by Sanderson 2005b 127 n . 94. The corresponding reading in the printed edition of the Tantrāloka — rudraśaktīti — can easily be emended to something like rudraśakte ca. If we don’t accept any emendation, as Jayaratha did not, it presumes that the original had already been corrupted in Abhinava’s source.
 

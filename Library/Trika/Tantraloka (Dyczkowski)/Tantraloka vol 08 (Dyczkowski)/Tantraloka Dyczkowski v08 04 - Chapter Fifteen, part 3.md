@@ -22,9 +22,9 @@ That is also taught in the venerable Śrīmata[^227] and elsewhere, having class
 
 [^225]: Read kanthe for kantha.
 
-[^226]: \[illegible\] Emend vibhoḥ to vibhveḥ.
+[^226]: Emend vibhoḥ to vibhveḥ.
 
-[^227]: \[illegible\] Śrīmata, which is a common way of referring to the Kubjikāmata. We have observed that Jayaratha quotes it above ad 15/93cd-97ab. So it is quite possible that he is referring to it here. If Jayaratha is directing his reader to the Kubjikāmata, we may assume it was easily available in the Valley in his day. There is evidence that this is so. One is the work of Rūpaśiva. Rūpaśiva is the author of a commentary \[illegible\] to sections of its expanded version, the Ṣaṭsahasrasaṁhitā and other Kubjikā Tantras. The oldest surviving manuscript of the \[illegible\] is a palm leaf written in old devanāgarī, probably copied before the 13th century. Otherwise called Rāmānanda, Rūpaśiva tells us in the final colophon of his work that he was a Brahmin who knew the Rgveda. His teacher was
+[^227]: Śrīmata, which is a common way of referring to the Kubjikāmata. We have observed that Jayaratha quotes it above ad 15/93cd-97ab. So it is quite possible that he is referring to it here. If Jayaratha is directing his reader to the Kubjikāmata, we may assume it was easily available in the Valley in his day. There is evidence that this is so. One is the work of Rūpaśiva. Rūpaśiva is the author of a commentary \[illegible\] to sections of its expanded version, the Ṣaṭsahasrasaṁhitā and other Kubjikā Tantras. The oldest surviving manuscript of the \[illegible\] is a palm leaf written in old devanāgarī, probably copied before the 13th century. Otherwise called Rāmānanda, Rūpaśiva tells us in the final colophon of his work that he was a Brahmin who knew the Rgveda. His teacher was
 
     Śrīlothaviṣṇu, who was the son of Bhatta Śrīkamalaviṣṇu, and was well versed in the Sāmaveda. Rūpaśiva took permission from his teacher to write the \[illegible\] in the city of Pravarapura on the banks of the river Vitasta, that is, modern Srinagar in Kashmir. Note that the title ‘bhaga’ for a learned court Brahmin is most commonly used in Kashmir. It appears, therefore, that there was a Kashmiri Kubjikā tradition. The colophon reads: oO śrīkāśmīradeśatilakabhūtaśrīpravarapurādhiṣtṭhānāntargatakalikalilakṣālitakṣmābahulasalilakall olinī-śrīvitastāsindhusaṁgame prārthanā prārthitā gṁītā u grahāravāstavya gautamagotra-likhitakulakramāgatat sāmavedasamastādhyāyino bhaṣtaśrīkamalaviṣnusünunā 0॥०१1८९7-loṭhaviṣnudīkṣābhidhānena rūpaśiva iti prasiddṁaḥ pūjānāmnā śrī-rāmānanda iti nikhilapaścima- ए smāja rgvedayā |
 
@@ -146,7 +146,7 @@ The power of the Lord Assembly of Sounds, who is the full (unconditioned) light 
 
 [^234]: See above, 3/197cd-198ab and notes. See chart of Śabdarāśinyāsa in Appendix C.
 
-[^235]: \[illegible\] Lit, \*as she has not swelled’. Somadeva (2004: 1) suggests that the ‘swelling’ also alludes to a sign of pregnancy. Accordingly, he translates that ‘she is said to be like a mother without swelling up, because (her motherhood is) yet to take place.’ Whether we translate the word literally or as a technical term, the point is that Mātṛkā mpenn the state of (creative) potency (śakti) of the phonemes of the alphabet deity, Bhairava Śabdarāśi. Mālinī, on the other hand, ‘has blossomed into her fruits”. In other words, she consists of the activated, operant energies the 50 Rudras, who preside over the phonemes, possess.
+[^235]: Lit, \*as she has not swelled’. Somadeva (2004: 1) suggests that the ‘swelling’ also alludes to a sign of pregnancy. Accordingly, he translates that ‘she is said to be like a mother without swelling up, because (her motherhood is) yet to take place.’ Whether we translate the word literally or as a technical term, the point is that Mātṛkā mpenn the state of (creative) potency (śakti) of the phonemes of the alphabet deity, Bhairava Śabdarāśi. Mālinī, on the other hand, ‘has blossomed into her fruits”. In other words, she consists of the activated, operant energies the 50 Rudras, who preside over the phonemes, possess.
 
 [^236]: The root mal (malate malayati), according to Monier Williams, means ‘to hold, possess’, but the meaning here is to be garlanded. Cf. 793 p. 135 rudraśaktimālābhir yuktā — \*she is adomed with garlands of Rudraśaktis’.
 
@@ -736,7 +736,7 @@ Thus here (according to this teaching), the teachers whose souls have been sanct
 
 [^275]: bhāvitātma literally means ‘one who possesses advanced understanding, one whose nature is purified by meditation, devout, holy, thoughtful, meditative’ or simply ʻa sage or a saint’. Jayaratha takes it to mean especially or extraordinarily qualified or authoritative.
 
-[^276]: \[illegible\] See below 29/14-16. A simpler translation of mithahsvapratimāmṛtam could be “the nectar of their united bodi
+[^276]: See below 29/14-16. A simpler translation of mithahsvapratimāmṛtam could be “the nectar of their united bodi
 
 [^277]: This line is difficult. Jayaratha makes it absolutely clear that the ‘nectar’ meant here is the mixture of the sexual fluids produced during the union of the officiant and his partner. The ‘mutual union’ is from the perspective of the officiant who experiences himself as ‘sva’ — literally oneself”, His partner is his ‘pratimā’, which literally means the statue of a deity understood to be an ‘image, reflection, or representation’. In other words, his partner is the iconic form of the deity. Jayaratha tells us that it is the mutual union of the two, the male in union with the female and the female in union with the male. Their union is marked by the conjunction of the channels of the vital breath. These are three for each partner. It is called a \*mudrā’ because it is an activity. In this case, the action is the flow of the breath through the conjoined channels. Concretely this means, it seems, simply breathing in consonance. One exhales, the other inhales, back and forth. The union is formed by the flow of the breath and is maintained by it. The two in union thus constitute a single body. Unlike the single body, this conjunctio is sacred. It is the sacred counterpart — ‘icon’ of the single disconnected members. ‘One's own icon’ is thus that of both the male and female partners — the androgynous whole. At the same time, he is her icon and she is his, because they are both the union of one another. Then the union produces the fluids offered by Kaula adepts (vīra) \[illegible\] those qualified for transgressive practice), that are ‘most proximate to consciousness’, because they pour forth in a state of heightened awareness.
 
@@ -848,7 +848,7 @@ surāhutir brahmasatre vapāntrahṛdayāhutiḥ |
 
 [^285]: Milk, butter milk, butter, urine and dung. Urine and dung are normally considered to be impure, but not when they are those of a cow.
 
-[^286]: \[illegible\] Emending the unattested canana to carvana, Sanderson suggests: ‘there is the rule of the two cups in consuming Soma.” The translation follows Jayaratha. Assuming the emendation is correct, this may be a reference to sharing of the cups between two priests. Normally more than one person drinking from the same cup is considered to be impure if the lips touch the vessel. See Baudhāyanaśrautasūtra 7/14.
+[^286]: Emending the unattested canana to carvana, Sanderson suggests: ‘there is the rule of the two cups in consuming Soma.” The translation follows Jayaratha. Assuming the emendation is correct, this may be a reference to sharing of the cups between two priests. Normally more than one person drinking from the same cup is considered to be impure if the lips touch the vessel. See Baudhāyanaśrautasūtra 7/14.
 
 [^287]: a Vedic Yajña is a ritual bath in which the sacrificer (yajamāna) and his wife bathe each other, and are (probably) exposed from the waist up. See ibid. 8/120.
 
@@ -1046,11 +1046,11 @@ tāro nāma caturthyantań namaś cety arcane manuḥ |[^302]
 
 [^301]: See above, 1/303d.
 
-[^302]: \[illegible\] Abhinava quotes TĀ 15/182cd-183ab in his TSā p. 136.
+[^302]: Abhinava quotes TĀ 15/182cd-183ab in his TSā p. 136.
 
 [^303]: OM TRIŚŪLĀYA NAMAH etc.
 
-[^304]: \[illegible\] OM BĀHYAPARIVĀRĀYA NAMAĦH. Abhinava himself supplies this Mantra in TSā p. 136-137.
+[^304]: OM BĀHYAPARIVĀRĀYA NAMAĦH. Abhinava himself supplies this Mantra in TSā p. 136-137.
 
 [^305]: Tt is unclear what ‘the circle of light’ (prabhāmandala) is. Jayaratha’s explanation appears to be somewhat dubious.
 
@@ -1163,7 +1163,7 @@ If one needs to perform the rite secretly, one should worship the outer entourag
 
 [^310]: Read adharodumbare for adharodambare.
 
-[^311]: \[illegible\] Read ürdhvodumbare for ürdhvodambare.
+[^311]: Read ürdhvodumbare for ürdhvodambare.
 
 [^312]: oṁ sarvadvārapālebhyo namaḥ. According to Abhinava in the TSā (p- 137), the Mantra for the brief worship of the deities at the door collectively is oṁ dvāradevatācakrāya namaḥ.
 
@@ -1240,7 +1240,7 @@ After (describing the rite of) entry, (the next topic, namely) the nature of the
 
 Now agreed (for argument’s sake) that there is some such limiting adjunct that is said to function in everyday life as (the directions) east and the rest. (However,) that would be some other (separate) entity called a limiting adjunct. It would not be (as you maintain, something) called a direction that could be experienced as the locus of the perception of east and the rest (of the directions). Accordingly, he says: 
 
-[^322]: \[illegible\] suggests three corrections — ru should replace na in the first quarter and pārvāparādikaḥ for pūrvāparādikā in the second. Also, pūrvatāviṣṭa for pūrvatādiṣṭa of 195a.
+[^322]: Gnoli suggests three corrections — ru should replace na in the first quarter and pārvāparādikaḥ for pūrvāparādikā in the second. Also, pūrvatāviṣṭa for pūrvatādiṣṭa of 195a.
 
 [^323]: Abhinava is referring to the followers of the Vaiseṣika, who maintain that ‘direction’ (dik) is like time, a single substance and that the division into east and the other directions is due to limiting adjuncts (upādhi). Concerning this matter in general see VP kanda 3, Diksamuddeśa, and lyer 1969: 274-282.
 
@@ -1328,7 +1328,7 @@ When the light, its rays intensified, has taken possession of what is in front o
 
 [^327]: e" and ‘below’ are the zenith and nadir. ‘In front’ and ‘behind’ are east and west. ‘Right and ‘left’ are the south and the north.
 
-[^328]: \[illegible\] Gnoli: That which is facing in front of this centre and receives, as befits its nature, the partial light that comes from it, is the front, whereas that which faces the other way (i.e., does not face the centre), is the back. In this way, there are two directions.
+[^328]: Gnoli: That which is facing in front of this centre and receives, as befits its nature, the partial light that comes from it, is the front, whereas that which faces the other way (i.e., does not face the centre), is the back. In this way, there are two directions.
 
 [^329]: The word daksina means ‘south’, right’ or ‘propitious’. Accordingly, Abhinava understands the propitious southern quarter to have an affinity with the Light. ABOVE Light of the Supreme Perceiver EAST Faces towards limited perceiver and receives Light NORTH CENTRE SOUTH Left, aversion Limited Perceiver In front, affinity Moon of Objectivity WEST Faces away from the limited perceiver BELOW Darkness: Not fit to make contact with the Light
 

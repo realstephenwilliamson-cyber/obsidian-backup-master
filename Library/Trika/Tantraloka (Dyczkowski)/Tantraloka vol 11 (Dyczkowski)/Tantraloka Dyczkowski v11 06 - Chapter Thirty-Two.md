@@ -330,7 +330,7 @@ triśūlam tad vijānīyād yena vyomotpated budhaḥ | 17 ॥
 
 Once Wind and Fire[^382] have been made (to fuse) into the single staff of the three presiding deities, the three powers conjoined (to it and each other), and the Void and (its opposite) the Non-void have dissolved away, 
 
-[^382]: \[illegible\] The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāṇa) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
+[^382]: The end of the two branches (Sakhāprānta) is the End of the Twelve, and the two wheels (or branches) of exhalation (prāṇa) and inhalation (apāna) that, ascending and descending, reabsorb and emit, respectively.
 
 
 *[p. 146]* ^pg164
@@ -429,7 +429,7 @@ tatrasthā devatāḥ sarvā dyotayantyo ‘khilańi jagat ॥ 25 ॥
 
 ‘The Sun’ is the means of knowledge, ‘Fire’ is the perceiver, thus ‘the priest’ is the sacrificer. This is the meaning. ((Śiva is) the priest (purohita)) ‘because he cooks (all things)’, that is, makes all things one with Himself, and so (the deities at one with Him) illuminate (the universe). This is (what) remains (to be said to complete this statement). In this way Śiva Himself is everything, so what occasion is there for doubt? This is the intended sense. 
 
-[^384]: \[illegible\] This line and the following verse seem to be free-floating, with no connection to what precedes or follows. It seems that there has been some error in the transmission of the text. If that is so, it had already occurred before Jayaratha’s time. His commentary appears to try to somehow make connections, but he cannot be said to have succeeded.
+[^384]: This line and the following verse seem to be free-floating, with no connection to what precedes or follows. It seems that there has been some error in the transmission of the text. If that is so, it had already occurred before Jayaratha’s time. His commentary appears to try to somehow make connections, but he cannot be said to have succeeded.
 
 [^385]: In the course of the Vedic sacrifice, food is offered to the gods as oblations to the fire. This may be raw food — grains and the like, or cooked. Cooked food is the meat of an animal that has been sacrificed for that purpose. This is not offered raw. It must first be cooked. Thus, the priest is the cook of the gods, and the sacrificial area his kitchen. The priest is called ‘purohita’ literally ‘placed in front’, because he sits in front of the Fire. The Fire is also called ‘purohita’ because Fire is in front of all, as the priest of the gods, who conveys the offering to them.
 
@@ -568,11 +568,11 @@ koṇamadhyaviniṣkrāntaṁ liṅgamūlaṁ vibhedayet | 36 ॥
 
 (The yogi) awakens (Kulakundalinī) there (at first), and knows (her) motion, (that is,) how she has approached gradually from the location of 
 
-[^393]: \[illegible\] Read kandapadam | for kandapadaṁ.
+[^393]: Read kandapadam | for kandapadaṁ.
 
 [^394]: Read sañjīvanyamṛtābhidham | for sañjīvanyamṛtābhidhaṁ.
 
-[^395]: \[illegible\] There is another ‘crossroad’ (catuṣpatha) above, at the base of the uvula at the back of the throat. Here, as there, the function of the ‘crossroad’ is to regulate the upward ascent of the Kunqalinī. When it is an in the form of an X, the path is blocked. When it is rotated to form a cross +, it is free to ascend.
+[^395]: There is another ‘crossroad’ (catuṣpatha) above, at the base of the uvula at the back of the throat. Here, as there, the function of the ‘crossroad’ is to regulate the upward ascent of the Kunqalinī. When it is an in the form of an X, the path is blocked. When it is rotated to form a cross +, it is free to ascend.
 
 
 *[p. 153]* ^pg171
@@ -1057,7 +1057,7 @@ The Various Occasions When the Seals are Applied (kālabheda)
 
 yāgādau tanmadhye 
 
-[^418]: \[illegible\] This verse is quoted in brief and explained in verse 32/64; verses 63 and 65 is part of this explanation.
+[^418]: This verse is quoted in brief and explained in verse 32/64; verses 63 and 65 is part of this explanation.
 
 
 *[p. 167]* ^pg185

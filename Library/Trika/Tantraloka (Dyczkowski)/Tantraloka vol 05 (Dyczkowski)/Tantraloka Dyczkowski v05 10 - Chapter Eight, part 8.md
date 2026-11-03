@@ -53,7 +53,7 @@ And (this) has taught by (our) venerable teacher in the Śivatanu and other work
 
 [^943]: SvT 10/1161ab.
 [^944]: Vidyeśvaras — the Lords of the Vidyās (i.e. goddess Mantras) - embody a particular type of Mantra.
-[^945]: \[illegible\] MV 1/40cd-41.
+[^945]: MV 1/40cd-41.
 [^946]: 8/346-352 (345cd-352ab) is quoted by Kṣemarāja in SvTu ad 10/1161cd-1162. He states that it is from the Sivatanuśastra, as quoted by his teacher Abhinava. There are no variants.
 
 *[p. 337]* ^pg355
@@ -416,7 +416,7 @@ Thus, this is our[^980] reading, (which says that the Enclosure of Power is also
 
 [^978]: This is SvT 10/1173cd. The printed edition reads bhāvasarijñāpy for bhāvasaijñā tv, and śaktidvaye smṛte for śaktidvayaṁi smṛtam.
 
-[^979]: \[illegible\] SvT 10/1174ab. The SvT and MSs Ch and Ñ read tejeśaś ca for tejasvīśo.
+[^979]: SvT 10/1174ab. The SvT and MSs Ch and Ñ read tejeśaś ca for tejasvīśo.
 
 [^980]: Read ity ādir āsmākar for ityādir āsmāka.
 
@@ -1321,7 +1321,7 @@ anāśritaṁ tu vyāpāre nimittańn hetur ucyate |
 
 [^1064]: Abbreviation of SvT 10/1258cd-1259ab.
 
-[^1065]: \[illegible\] Abbreviation of SvT 10/1260-1261ab. The expression hetukartr literally means the agent of (the attendant) causes’. The expression ‘hetukartṛtva’ occurs in Parākhya 3/13cd: na yāti ccchinnamūlo ‘sau sudūrāyātavastuvat tena taddhetukartṛtvaṁ śivasya paramatmanaḥ || ‘Just like anything that come from a great distance (and that must nevertheless have had an original starting point), this (awakening knowledge) cannot spread devoid of a root. Therefore, Śiva, the supreme soul, is its creating cause’. Goodall translates here hetukartṛtva as ‘creating cause’. Cf. also Kirana 7/4.
+[^1065]: Abbreviation of SvT 10/1260-1261ab. The expression hetukartr literally means the agent of (the attendant) causes’. The expression ‘hetukartṛtva’ occurs in Parākhya 3/13cd: na yāti ccchinnamūlo ‘sau sudūrāyātavastuvat tena taddhetukartṛtvaṁ śivasya paramatmanaḥ || ‘Just like anything that come from a great distance (and that must nevertheless have had an original starting point), this (awakening knowledge) cannot spread devoid of a root. Therefore, Śiva, the supreme soul, is its creating cause’. Goodall translates here hetukartṛtva as ‘creating cause’. Cf. also Kirana 7/4.
 
 
 *[p. 374]* ^pg392
@@ -1400,7 +1400,7 @@ Here (in this case), Sadāśiva is Anāśrita, and Nature (prakṛti) is the Equ
 
 Having defined in this way two things to be known (prameya), namely, the extent of the worlds and (their) association with the metaphysical principles, he begins to indicate the (next) subject, which is a summary of the worlds. 
 
-[^1070]: \[illegible\] See above, 8/397cd-399.
+[^1070]: See above, 8/397cd-399.
 
 [^1071]: Read with SvT-bindvātmakaṁ for —bindvādikari.
 
@@ -1408,7 +1408,7 @@ Having defined in this way two things to be known (prameya), namely, the extent 
 
 [^1073]: Read tat sarvaṁ for tatsarvaṁ.
 
-[^1074]: \[illegible\] This verse is a direct citation of SvT 10/1264cd-1265ab. SvT reads suvrate for sāsane.
+[^1074]: This verse is a direct citation of SvT 10/1264cd-1265ab. SvT reads suvrate for sāsane.
 
 
 *[p. 376]* ^pg394

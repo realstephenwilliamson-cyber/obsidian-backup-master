@@ -476,7 +476,7 @@ He analyses that.
 
 guruḥ kāraṇam atroktari tatpatnī sahakārinī || 209 ॥ 
 
-[^224]: \[illegible\] Read -jīvatāpādane for tāpādane. j ipi
+[^224]: Read -jīvatāpādane for tāpādane. j ipi
 
 [^225]: Read anyo ‘yarn for anyonyaṁ.
 
@@ -554,7 +554,7 @@ It is said that the birth, initiation and death of teachers ete. is the cause of
 
 (By saying) ‘one’s own birth’, (he is referring) to the disciples etc. The overall meaning is as follows. It is as for everybody’s own birthday here (in this world), that is, a main occasional recurrence (each year) (naimittika). For if this body were not to have existed, that (liberating) knowledge would not have existed. Such is the case with the teacher’s birthday also. If that were not to have happened, what would be (the importance) of the day of one’s own birth, even if it has taken place? And that would all be useless without the purification 
 
-[^228]: \[illegible\] T have translated in accord with Jayaratha’s explanation. However, perhaps a better translation would be ‘the birth into (the cognitive continuum which is) the lineage of knowledge’.
+[^228]: T have translated in accord with Jayaratha’s explanation. However, perhaps a better translation would be ‘the birth into (the cognitive continuum which is) the lineage of knowledge’.
 
 *[p. 97]* ^pg114
 
@@ -591,7 +591,7 @@ Although Śiva is all-pervading, by sealing (Himself into a) contracted (state,)
 
 #### Viveka on 28.217–218
 
-[^229]: \[illegible\] Abhinava has just referred to the anniversary of the day the initiate dies and attains oneness with Śiva. This occasions a long discussion that Abhinava takes up ‘by the way’ (prasaṅgāt) concerning ‘the nature of death’ (maranarūpa), that is, how death and rebirth takes place, liberation from it and related matters. It extends from verse 217 to 367. At the end of this passage (i.e. 366cd-367ab), Abhinava declares that what he has written on ‘the nature of the departure (from the body)’ (prāyana) is based on the teachings he received from Śambhunātha. After this aside, Abhinava continues with the main subject which are the occasional rites.
+[^229]: Abhinava has just referred to the anniversary of the day the initiate dies and attains oneness with Śiva. This occasions a long discussion that Abhinava takes up ‘by the way’ (prasaṅgāt) concerning ‘the nature of death’ (maranarūpa), that is, how death and rebirth takes place, liberation from it and related matters. It extends from verse 217 to 367. At the end of this passage (i.e. 366cd-367ab), Abhinava declares that what he has written on ‘the nature of the departure (from the body)’ (prāyana) is based on the teachings he received from Śambhunātha. After this aside, Abhinava continues with the main subject which are the occasional rites.
 
 *[p. 98]* ^pg115
 
@@ -627,7 +627,7 @@ The sovereign power (TŚvaratā) to fashion the body in the womb belongs solely 
 
 [^230]: Prāṇana is the breath or life (jīvana), in all its undifferentiated potentiality, not yet differentiated into the distinct “breaths”, such as the prāṇa, apāna, etc. See above 6/11-15, and Gnoli 1956: 279 ff.
 
-[^231]: This aphorism is drawn from Kallaṭa’s Tattvārthacintāmani. Abhinava himself quotes it in TĀ 6/12ab. It is also quoted in the TĀv ad 5/6, ad 5/44-48ab, ad 15/302-303ab, ad 17/83-85ab, and, along with two other sūtras, ad 28/338cd-340ab. See above, note in TĀv ad 3/138-141 (137cd- 14140), where it is quoted for the first time.
+[^231]: This aphorism is drawn from Kallaṭa’s Tattvārthacintāmani. Abhinava himself quotes it in TĀ 6/12ab. It is also quoted in the TĀv ad 5/6, ad 5/44-48ab, ad 15/302-303ab, ad 17/83-85ab, and, along with two other sūtras, ad 28/338cd-340ab. See above, note in TĀv ad 3/138-141 (137cd-141ab), where it is quoted for the first time.
 
 *[p. 99]* ^pg116
 
@@ -755,7 +755,7 @@ This ‘reversal’ expands the assembly of conduits (nādīcakra) that has been
 
 The (soul’s liberating) separation from transmigratory existence does not take place by just this much alone. Thus he says: 
 
-[^238]: \[illegible\] The passage 227cd to 237ab is most probably Abhinava’s own elaboration.
+[^238]: The passage 227cd to 237ab is most probably Abhinava’s own elaboration.
 
 [^239]: Concerning the nature and functions of the three dhātus — vāta, kapha and pitta in the body according to Ayurveda, see Dasgupta (1931: vol. 2, chapter 13) and Renou, L. — Filliozat, J (1953: 152 ff.).
 
@@ -838,7 +838,7 @@ As was said before:
 
 [^243]: The word here is pratīkṣate, which literally means ‘it waits for’.
 
-[^244]: \[illegible\] Above, 13/114cd-116cd.
+[^244]: Above, 13/114cd-116cd.
 
 *[p. 105]* ^pg122
 
@@ -931,7 +931,7 @@ The one that, as a partial incarnation (of a deity) (arma), ), is carrying out i
 
 Those who die in the abodes (dhāman) of those deities who have assumed partial incarnations (ara) ) (there to carry out) their own tasks, after they have lived out (their own) experiences there in that way, descend into (other) mortal (bodies). Those who have descended (thus into the world 
 
-[^247]: \[illegible\] While the passage from 227cd to 237ab is most probably Abhinava’s own elaboration, the passage from 237cd to 245ab is drawn from an unidentified source. What follows up to 250ab appears to be Abhin: servations.
+[^247]: While the passage from 227cd to 237ab is most probably Abhinava’s own elaboration, the passage from 237cd to 245ab is drawn from an unidentified source. What follows up to 250ab appears to be Abhin: servations.
 
 [^248]: The appellation ‘muni’ is here synonymous with ‘teacher’ (ācārya). Thus, below in 28/252, it says that 21.728 may be installed by a teacher (ācārya) as is said here of a muni.
 
@@ -1439,4 +1439,4 @@ vyāpāravyāhṛtair jñeyā ........
 
 Actions (vyāpāra) and words (vyāhṛta) here (in this world) are of two kinds; namely, (those) pertaining to transmigratory existence (saṁsārabhāgīya) 
 
-[^278]: \[illegible\] Literally ‘behaviour and what they have said’.
+[^278]: Literally ‘behaviour and what they have said’.

@@ -81,7 +81,7 @@ One should never be revolted by the hero’s sacrificial substances, such as win
 
 [^854]: “i This injunction may refer to the worship of the idol, but that is unlikely.
 
-[^855]: \[illegible\] Abhinava describes the state of consciousness of the siddhas and yoginīs who attend a Kaula gathering (cakramelaka) for an Ādiyāga belo: 28/18cd-20ab.
+[^855]: Abhinava describes the state of consciousness of the siddhas and yoginīs who attend a Kaula gathering (cakramelaka) for an Ādiyāga belo: 28/18cd-20ab.
 
 [^856]: Read with MS Th Jokavarjanam — ‘the world is (to be) abandoned’ for lobhavarjanam ~ ‘greed is (to be) abandoned..
 
@@ -125,7 +125,7 @@ jalpar kurvan svaśāstrārthaṁ vaden nāpi ca sūcayet ॥ 567 ॥
 
 [^860]: Read mantro for mantre.
 
-[^861]: \[illegible\] TĀ 15/566 (562) is quoted in a note to TSā (on p. 180) immediately following a citation of TĀ 26/51cd-53ab. There is only one variant, but it is very interesting one. Instead of ity ūce bhagavān yataḥ — ‘for the Lord has said . . . \` in the note we read iry uktaṁ kila śambhunā — Śambhu has said . , . .'. Should we understand Śambhu here to be Śambhunātha? If so by reading 26/51cd- 53ab along with 566 (562), it is clear that he advocated that the libation be made with Kaula substances.
+[^861]: TĀ 15/566 (562) is quoted in a note to TSā (on p. 180) immediately following a citation of TĀ 26/51cd-53ab. There is only one variant, but it is very interesting one. Instead of ity ūce bhagavān yataḥ — ‘for the Lord has said . . . \` in the note we read iry uktaṁ kila śambhunā — Śambhu has said . , . .'. Should we understand Śambhu here to be Śambhunātha? If so by reading 26/51cd- 53ab along with 566 (562), it is clear that he advocated that the libation be made with Kaula substances.
 
 [^862]: TĀ 15/566 (662) is quoted again below in 26/53cd-54ab and in TĀv ad 29/22cd. No reference is made in those places to the source. Here it appears to be the end of a citation from the Gamatantra.
 
@@ -178,7 +178,7 @@ Household utensils and weapons are used for the sacrifice to the deities and so 
 
 [^868]: Correct kampet etara- to kamped etara-.
 
-[^869]: \[illegible\] TĀ 15/570cd-57 lab (566cd-567ab) is quoted above in TĀv ad 4/261cd-263ab.
+[^869]: TĀ 15/570cd-57 lab (566cd-567ab) is quoted above in TĀv ad 4/261cd-263ab.
 
 [^870]: Cf. KM 25/113-114ab. vardhai -m-upālambhī dehalyā muṣalaṁ tathā | khatvā śūrpagharaṭṭaṁ ca vardhamānyāditaḥ kramāt Il pādenaitān na sahspṛśya yad icchec chriyam ātmanaḥ | ‘One should not touch the following things with one’s feet if one wishes good fortune for oneself: a platter, upālambhī (?), the threshold, a pestle, a bedpost, a winnowing fan, and a grindstone.” Cf. JY ṣaṭka 1 chapter 48, where such household objects are projected into the body, marking stations of ascent. KM 25/124 ff. supplies inner equivalents of weapons.
 
@@ -214,11 +214,11 @@ The Pledges according to the Mādhavakula
 
 #### Viveka on 15.571
 
-[^871]: \[illegible\] Above in 15/564a (560a), instead of the reading upadeśāya na doṣaḥ we find upadeśāya na doṣā(h) — “there are no defects in teaching (others).\*
+[^871]: Above in 15/564a (560a), instead of the reading upadeśāya na doṣaḥ we find upadeśāya na doṣā(h) — “there are no defects in teaching (others).\*
 
 [^872]: Read vaiṣṇavādikādhaḥ- for vaṣnavādikādhaḥ-.
 
-[^873]: \[illegible\] Evidence that Abhinava is quoting literally is the terse, bordering on, defective Sanskrit of these passages.
+[^873]: Evidence that Abhinava is quoting literally is the terse, bordering on, defective Sanskrit of these passages.
 
 [^874]: 15/575cd-577ab (57 1cd-573ab) is drawn from the Mādhavakula.
 
@@ -244,7 +244,7 @@ pramādāc ca kṛte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥
 
 [^876]: 15/575cd is derived from JY 4/20/98cd (MS K 14la Kh 1219. MS G 173a), which reads: vedoktań vaiṣnavoktaṁ vā udakaṁ varjayet sadā I|
 
-[^877]: \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanaṁ bhavet ॥ 140 ॥ ekapātre kulāmnāye kāryaṁ nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kiṁ punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
+[^877]: TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanaṁ bhavet ॥ 140 ॥ ekapātre kulāmnāye kāryaṁ nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kiṁ punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
 
 
 *[p. 335]* ^pg353
@@ -267,11 +267,11 @@ It is also said in the venerable \[illegible\][^882] that (an initiate) should n
 
 [^878]: The term ekapātra- literally means ‘the same plate’. In common usage the term denotes the condition of the members of a group who dine only amongst themselves in order to avoid being polluted by dining with others. Either way the general sense is ‘exclusive’. Kulas are exclusive. Only members of the same Kula can, for example, study scripture or perform rituals together. Indeed, they cannot even eat together. Cf. Kulārnavatantra: ekapātrar na kurvīta yadi sākṣāt kuleśvaraḥ | mantrāḥ parāṁmukhā yānti vighnaścaiva pade pade ॥ ‘One should not eat together (indiscriminately with others) (ekapātra), if one is Kuleśvara (Himself) directly visible. Mantras become averse and an obstacle (arises) at cach step.” Kulārnava 8/15. The same verse is found in KuKh 37/67. See Dyczkowski 2009: vol. 11 p. 348-351 note 157 concerning commensality.
 
-[^879]: \[illegible\] 15/576 (572) is a quotation from JY 4/20/140cd-141ab (MS K 142b Kh fl. 123a G 175b), which reads as follows: akulīnaiś ca saṁparkāt \[k kh: saṁparkā\] tatkulāt patana bhavet II 140 I| ekapātre kulāmnāye kāryaṁ nānyat kadācana | Read with the JY akulīnaiś ca for akulīneṣu and bhavet for bhayam.
+[^879]: 15/576 (572) is a quotation from JY 4/20/140cd-141ab (MS K 142b Kh fl. 123a G 175b), which reads as follows: akulīnaiś ca saṁparkāt \[k kh: saṁparkā\] tatkulāt patana bhavet II 140 I| ekapātre kulāmnāye kāryaṁ nānyat kadācana | Read with the JY akulīnaiś ca for akulīneṣu and bhavet for bhayam.
 
 [^880]: MS Threads sange — ‘contact’ for sakhye — ‘friendship’.
 
-[^881]: \[illegible\] See below, 28/23cd-25ab, 383cd-385ab. The word cakra here may mean the mandala worshipped by the assembly of initiates, or the gathering itself, in which the members, male and female, are embodiments of deities seated around the teacher and his consort.
+[^881]: See below, 28/23cd-25ab, 383cd-385ab. The word cakra here may mean the mandala worshipped by the assembly of initiates, or the gathering itself, in which the members, male and female, are embodiments of deities seated around the teacher and his consort.
 
 [^882]: This is the Ürmikaulārnavatantra (see above, note to 2/48). TĀ 15/577cd- 594ab (588cd-590ab) is drawn from that.
 
@@ -349,13 +349,13 @@ Observing the teacher’s command, he should abandon everything, and be one with
 
 #### Viveka on 15.579–580
 
-[^888]: \[illegible\] The literal meaning of āsira ‘one should sit (with)’, i.e., "keep the company of.
+[^888]: The literal meaning of āsira ‘one should sit (with)’, i.e., "keep the company of.
 
 [^889]: In place of cānayet MS Threads: cācaret.
 
 [^890]: See commentary and below, 29/14-16, 22-24ab.
 
-[^891]: \[illegible\] Read tatra for tanna.
+[^891]: Read tatra for tanna.
 
 [^892]: Cakramelaka is described below in 28/371 ff.
 
@@ -429,7 +429,7 @@ mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥
 
 (One should not take a Vaiṣṇava as a teacher;) ‘if one has done so’ by mistake, (abandon him). 
 
-[^894]: \[illegible\] MSs C, T and \[illegible\] read vibhodavān.
+[^894]: MSs C, T and \[illegible\] read vibhodavān.
 
 [^895]: Read with MS Th bahumānavān for bāhyamānavān.
 
@@ -508,7 +508,7 @@ It is said in the venerable Rātrikula: ‘(The chance of achieving) liberation 
 
 [^905]: Abhinava is probably referring here to cakramelana, in which assemblies of Siddhas and Yoginīs meet to engage in Kaula practice (see below, 28/371 ff).
 
-[^906]: \[illegible\] Instead of saṅkāpahānitaḥ MS C reads: śaṅkāprahāritaḥ; Ṭ: saṁkāprahānitaḥ.
+[^906]: Instead of saṅkāpahānitaḥ MS C reads: śaṅkāprahāritaḥ; Ṭ: saṁkāprahānitaḥ.
 
 
 *[p. 342]* ^pg360
@@ -535,7 +535,7 @@ One should not be attached to what is not true (atattva) (moved) by (some foolis
 
 [^908]: The body (aga) of Mantras is a diagram or grid called a prastāra, within which the letters of the alphabet (mārrkā) are deposited. When it been properly consecrated, it becomes an ‘assembly of letters” (mātṛkācakra). Thus empowered, the letters are extracted from it to form Mantras. It can also serve as a code. Instead of mentioning a letter directly, the text may identify it by referring to its position in relation to other letters in the grid. See Schoterman 1982: 181-209 for an extensive discussion and presentation, including drawings of several prastāras (also called gahvaras), and Dyczkowski 2009: vol. 7 pp. 9-11, 13-16 notes 1, 4 and 5.
 
-[^909]: \[illegible\] The word graha is a noun derived from the root gṛh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on to’ and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
+[^909]: The word graha is a noun derived from the root gṛh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on to’ and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
 
 
 *[p. 343]* ^pg361
@@ -618,7 +618,7 @@ dvijāntyajaiḥ samar kāryā carvante ‘pi marīcayaḥ ॥ 605 ॥
 avikārakṛtas tena vikalpān nirayo bhavet |
 sarvadevamayaḥ kāyaḥ sarvaprāṇiṣv iti sphuṭam ॥ 606 ॥ 
 
-[^912]: \[illegible\] Emend rüpaṁ sā to rūpasya.
+[^912]: Emend rüpaṁ sā to rūpasya.
 
 
 *[p. 345]* ^pg363
@@ -641,7 +641,7 @@ This has also been well described by the venerable Nakuleśa[^918] and others, (
 
 [^913]: Gnoli translates vāmaḥ ‘agisce come uno meno se l'aspetta’ — ‘(one who) acts in a way one least expects”. The sense of Siva being without bias is that he is free to grace anybody at any time irrespective of their caste status. The Law Books are considered to derive their authority from the Vedas. The transgression of the Law - Dharma — is viewed as an essentially spiritual offence rather than a criminal one. Thus, transgression requires reparation, not punishment. The reparation is meant to reinstate the original condition of the soul prior to the offence. This condition is understood in terms of degrees of purity. The higher the caste, the higher the level of basic purity, and the lower, the less. By virtue of their Brahminical status, Brahmins are the purest, and so are authorized to deal with the sacred. According to this view, sweepers and the like are, due to the Karma of previous lives, born inherently very impure. Thus, they are distanced from the sacred in accord with their caste status and level of impurity. The Ānandatantra declares here that Śiva’s interaction with individual souls is independent of such, and indeed, any other consideration. Whom Śiva favours by his grace, which is channelled primarily through initiation, is not determined by considerations of purity. Thus, he acts in a manner contrary to the customs and regulations of daily life. He may grace an outcaste or a Brahmin equally, their purity, in the aforestated sense, is never the cause as to why he may favour one and not the other. Indeed, the goddesses worshipped in accord with the dictates of the Ānanda and other such Tantras requires the offering of what are normally considered impure substances, such as meat and wine.
 
-[^914]: \[illegible\] Emend śuddhyā to śuddhis.
+[^914]: Emend śuddhyā to śuddhis.
 
 [^915]: Cf. another reference from the Ānandatantra below 16/65-68ab.
 
@@ -684,7 +684,7 @@ Having understood this injunction with ease (sukham),[^920] one should abandon t
 naivedyaṁ prāśayen nadyās taccheṣaṁ ca jale kṣipet |
 tair bhukte na bhaved doṣo jalajaiḥ pūrvadīkṣitaiḥ ॥ 611 ॥ 
 
-[^919]: \[illegible\] Now that Abhinava has quoted a string of mostly Trika sources, he concludes by summing up what is to be learnt from them most essentially.
+[^919]: Now that Abhinava has quoted a string of mostly Trika sources, he concludes by summing up what is to be learnt from them most essentially.
 
 [^920]: Another possible translation is: ‘having understand that this injunction is (to experience) joy’.
 
@@ -1137,7 +1137,7 @@ The yogi who is engaged in (his) practice based on this process externally in re
 
 Each (set of) scriptures (Śāstra) describe a grid (prastāra) formed on the basis of a particular deployment of the phonemes (vārṇnaniveśapurahsara) (within it). It consists of the aggregate (samūha) of phonemes, grouped together in a (fixed) determined series (niyataparipāṭīpinda), as determined by the particular primary phoneme which accords with the predominance of this or that divine phoneme in proportion to the knowledge (vijñāana) of their followers. (Once the manner in which the grid is to be drawn has been described, a Tantra) describes the manner in which Mantras are extracted (mantroddhāra) from it. (This is done) to reveal the nature of that phoneme which imparts radiant energy (sphurattā) to the Mantras that are augmented (upabrrihita) by imparting this kind of vitality (vīrya) (to them). This is just (as is the case) with the venerable Nityā Tantras, (where this method) is the reason for the predominance 
 
-[^931]: \[illegible\] Abhinava is referring here the deposition of letters and Mantras onto the body. See TĀ 15/121 ff.
+[^931]: Abhinava is referring here the deposition of letters and Mantras onto the body. See TĀ 15/121 ff.
 
 
 *[p. 361]* ^pg379
@@ -1160,7 +1160,7 @@ Note that the names of the Yoginīs are not listed there. I have drawn them from
 
 [^933]: Concerning Mātṛkā and Mālinī see TĀ 15/1 15cd-145.
 
-[^934]: \[illegible\] The passage in the Mālinīvijayottara says: “O goddess, I will tell you how all this is present in the body of Mālinī I have (just) described in which the vowels and consonants are mixed together. It is taught that the Earth principle is (located) within the phoneme PH. One should observe the twenty-three principles beginning with water and ending with Nature to be within the corresponding phonemes beginning with D and ending with JH, respectively. Within the group of seven phonemes beginning with ṬH (up to A) are, as before, the seven (principles) beginning with the individual soul. (114cd-116ab) The three (principles) from Pure Knowledge ending with immanent Śiva (sakala) are in the (phonemes) I, Ñ and GH. One should discern (how) the remaining sixteen phonemes from G to N are within the Śiva principle. The forces, the parts (of mantra) (pada), the mantras and the world-orders, O fair lady, should be known to be as before distributed in that (same) numerical order as they are (in relation to) the phonemes (of Mātṛkā).’ MV 4/1 16cd-118ab
+[^934]: The passage in the Mālinīvijayottara says: “O goddess, I will tell you how all this is present in the body of Mālinī I have (just) described in which the vowels and consonants are mixed together. It is taught that the Earth principle is (located) within the phoneme PH. One should observe the twenty-three principles beginning with water and ending with Nature to be within the corresponding phonemes beginning with D and ending with JH, respectively. Within the group of seven phonemes beginning with ṬH (up to A) are, as before, the seven (principles) beginning with the individual soul. (114cd-116ab) The three (principles) from Pure Knowledge ending with immanent Śiva (sakala) are in the (phonemes) I, Ñ and GH. One should discern (how) the remaining sixteen phonemes from G to N are within the Śiva principle. The forces, the parts (of mantra) (pada), the mantras and the world-orders, O fair lady, should be known to be as before distributed in that (same) numerical order as they are (in relation to) the phonemes (of Mātṛkā).’ MV 4/1 16cd-118ab
 
 
 *[p. 362]* ^pg380

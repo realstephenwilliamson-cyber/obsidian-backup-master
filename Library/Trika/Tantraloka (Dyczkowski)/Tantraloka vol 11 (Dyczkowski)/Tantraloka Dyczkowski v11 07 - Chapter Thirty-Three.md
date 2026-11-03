@@ -151,13 +151,13 @@ Vikṛtānanā (Deformed Face), Kroṣtukī (Jackel), Bhīmamudrā (Terrible Loo
 
 [^433]: See above, 30/20-26ab and note.
 
-[^434]: \[illegible\] The names of these Mothers are feminine forms of those of the guardians of the quarters (see above, 15/222cd-225ab; 30/42-43ab and note).
+[^434]: The names of these Mothers are feminine forms of those of the guardians of the quarters (see above, 15/222cd-225ab; 30/42-43ab and note).
 
 [^435]: 4cd-5abc = MV 20/44-45a. Abhinava is integrating here three groupings mentioned separately in the MV, namely, the eight (Mothers), four beginning with Aghorā, and twelve beginning with Nandā. Thus, although he quotes MV 20/44-45a directly, which lists the twelve yoginīs beginning with Nanda, he changes the last half of the line, which reads dvādaśaitāḥ prakīrtitāḥ ‘these are said to be twelve’, to caturviṁśatyare vidhiḥ ‘(this is) the prescription for the (wheel) with twenty-four spokes’.
 
-[^436]: \[illegible\] Read tathāparā for tathā parā.
+[^436]: Read tathāparā for tathā parā.
 
-[^437]: \[illegible\] These are the feminine of the names of the eight Bhairavas listed in MV 1/19cd-21ab, that are the partners in union with the eight Mothers (29/52-53). They are the eight goddesses associated with the Parāparā Vidyā, in which they are invoked. See above 30/24cd-25ab.
+[^437]: These are the feminine of the names of the eight Bhairavas listed in MV 1/19cd-21ab, that are the partners in union with the eight Mothers (29/52-53). They are the eight goddesses associated with the Parāparā Vidyā, in which they are invoked. See above 30/24cd-25ab.
 
 [^438]: MV 20/45cd.
 
@@ -251,7 +251,7 @@ The sixteen (powerholders) are Śrīkaṇṭtha, Ananta and Sūkṣma, Trimūrti
 
 [^446]: 33/9cd-10ab = MV 20/48cd-49ab. MV reads śarvarīśvaraḥ for śaṁvareśvaraḥ; argheśo for arghīśo and sthitiḥ for sthitaḥ, which has been accepted.
 
-[^447]: \[illegible\] 33/10cd is a compressed version of MV 20/49cd-50ab. These are the sixteen Bhairavas of Sabdarāśi, that govern the sixteen vowels. Śaṁvareśvara is a variant of Amarīśa, and Sthiti is a variant of Tithīśa. See Appendix C to Chapter Fifteen (Volume Eight) for the fifty Bhairavas comprised in Śabdarāśi Bhairava.
+[^447]: 33/10cd is a compressed version of MV 20/49cd-50ab. These are the sixteen Bhairavas of Sabdarāśi, that govern the sixteen vowels. Śaṁvareśvara is a variant of Amarīśa, and Sthiti is a variant of Tithīśa. See Appendix C to Chapter Fifteen (Volume Eight) for the fifty Bhairavas comprised in Śabdarāśi Bhairava.
 
 
 *[p. 174]* ^pg192
@@ -376,7 +376,7 @@ halas taddvigune ‘ṣtāre yādyaṁ hāntaṁ tu tattrike \\\\ 18 ॥
 
 [^454]: Read ceto ‘nuga for cetānuga.
 
-[^455]: \[illegible\] This alternative set of 34 deities who govern the consonants is listed in MV 3/20-24ab.
+[^455]: This alternative set of 34 deities who govern the consonants is listed in MV 3/20-24ab.
 
 [^456]: 33/14cd-17ab is a contraction of MV 3/20-24 which is quoted in the commentary.
 
@@ -665,4 +665,4 @@ This man called Jayaratha, who is inclined to contemplate (and conjoin) each whe
 
 Thus (ends) Chapter Thirty-three, called the Revelation of Unification of the (commentary called) Discernment, of the venerable Tantrāloka. 
 
-[^475]: \[illegible\] Although it is possible to translate in the plural — ‘teachers’ for ‘teacher’ — this is unlikely, as these are Trika teachings and Śambhunātha was Abhinava’s only Trika teacher. Chapter Thirty-three is essentially an exposition of MV 20/43-60, where the names of the members of the entourage surrounding the Trika triad of goddess and their configurations (cakra) is taught. So here is another clear instance of the great detail with which Śambhunātha instructed Abhinava as to the meaning of the MV.
+[^475]: Although it is possible to translate in the plural — ‘teachers’ for ‘teacher’ — this is unlikely, as these are Trika teachings and Śambhunātha was Abhinava’s only Trika teacher. Chapter Thirty-three is essentially an exposition of MV 20/43-60, where the names of the members of the entourage surrounding the Trika triad of goddess and their configurations (cakra) is taught. So here is another clear instance of the great detail with which Śambhunātha instructed Abhinava as to the meaning of the MV.

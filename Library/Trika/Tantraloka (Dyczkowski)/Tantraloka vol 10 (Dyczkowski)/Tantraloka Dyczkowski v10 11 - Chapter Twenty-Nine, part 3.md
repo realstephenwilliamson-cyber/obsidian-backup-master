@@ -377,7 +377,7 @@ This (teaching) is concluded (and summed up) in the venerable Sarvācārahṛday
 
 [^266]: n 118) suggests a comparison with Rgvidhāna 3/43-44: ‘With the verse beginning with Udirṣava \[RV 10/18/8\], a brother-in-law should prohibit the wife of (his) issueless brother, for the sake of progeny, from ascending (the funeral pyre) when (her) husband is dead. And smearing himself with ghee and controlling his speech, (the brother-in-law) should at the proper time after menses beget one son, but on no account a second one.” Bhat 1987: 356.
 
-[^267]: \[illegible\] I understand caryā ~ ‘observance’ — here to mean caryākrama — the observance of Kaula sexual union. See above, note 3,216 on TĀv ad 3/67cd-68ab.
+[^267]: I understand caryā ~ ‘observance’ — here to mean caryākrama — the observance of Kaula sexual union. See above, note 3,216 on TĀv ad 3/67cd-68ab.
 
 [^268]: The same verse, which is probably from the Vīrāvalītantra, is quoted above in TĀv ad 4/243cd. . There instead of the reading Kāmasurīūpinī — ‘beautiful by virtue of the passion (that it arouses)’, we find bhīmarūpinī — ‘awesomely formidable’.
 
@@ -417,7 +417,7 @@ How should that be done (kārya)? He says:
 
 [^272]: Above, 29/96ab.
 
-[^273]: \[illegible\] This line is talking about the expansion and contraction of orgasm. Both partners experience the upsurge and withdrawal of its pulsation, and the stillness in the centre of that oscillation, that is the ultimate fusion of the two flows of creation and withdrawal. It may well be that the passage from 104ab to 109ab, that describes what takes place inwardly in the course of union, is Abhinava’s own explanation. This may explain why Jayaratha has not managed to find parallel citations in the scriptures. If that is so, the distinctive terminology in this passage, in which consciousness ~ as the Main Wheel — is distinguished, even as it is associated with the senses ~ the secondary wheels, is Abhinava’s own.
+[^273]: This line is talking about the expansion and contraction of orgasm. Both partners experience the upsurge and withdrawal of its pulsation, and the stillness in the centre of that oscillation, that is the ultimate fusion of the two flows of creation and withdrawal. It may well be that the passage from 104ab to 109ab, that describes what takes place inwardly in the course of union, is Abhinava’s own explanation. This may explain why Jayaratha has not managed to find parallel citations in the scriptures. If that is so, the distinctive terminology in this passage, in which consciousness ~ as the Main Wheel — is distinguished, even as it is associated with the senses ~ the secondary wheels, is Abhinava’s own.
 
 [^274]: Read tad idaṁ for tata idaṁ.
 
@@ -458,9 +458,9 @@ What is the reason for using the term ‘wheel’? With this doubt in mind, he s
 
 [^275]: The Main Wheel is also called the Heart of the Yogini (yoginīhṛdaya, see above 5/121-4). It is the fundamental cycle of consciousness (saṁvitkrama). This Abhinava presents in Chapter Four as the cycle of Twelve Kālīs, that moves through the three polarities of subject, object and means of knowledge arising, persisting, withdrawing, and in an Inexplicable fourth state, in each of the three domains. Its timeless rotation impels that of the senses, just as the master cog of a watch makes the other cogs rotate.
 
-[^276]: \[illegible\] The ‘inner process’ is the progressive merger of the subordinate cycles of the energies of the senses and mind engaged in perception into the main cycle of consciousness itself. This is done essentially by attending to the direct experience (anubhava) of awareness itself, rather than its content and object. As practice progresses by Lord Śiva’s grace, thought constructs centred on the body, senses and their objects diminish, and the main cycle of the energies of awareness unfolds. As that happens, the two experience an intensification of the radiant pulse of the Light of consciousness, which now shines ever more clearly (sphuta) ) as all things that, illumined by it, appear within it like reflections in a mirror.
+[^276]: The ‘inner process’ is the progressive merger of the subordinate cycles of the energies of the senses and mind engaged in perception into the main cycle of consciousness itself. This is done essentially by attending to the direct experience (anubhava) of awareness itself, rather than its content and object. As practice progresses by Lord Śiva’s grace, thought constructs centred on the body, senses and their objects diminish, and the main cycle of the energies of awareness unfolds. As that happens, the two experience an intensification of the radiant pulse of the Light of consciousness, which now shines ever more clearly (sphuta) ) as all things that, illumined by it, appear within it like reflections in a mirror.
 
-[^277]: \[illegible\] Jayaratha is saying that we should understand that what is meant is that “the Main Wheel (mukhyacakra) must be worshipped by the inner process (of consciousness)’.
+[^277]: Jayaratha is saying that we should understand that what is meant is that “the Main Wheel (mukhyacakra) must be worshipped by the inner process (of consciousness)’.
 
 
 *[p. 302]* ^pg319
@@ -533,7 +533,7 @@ kurvīyātām ihānyonyaṁn mukhacakraikatākṛte |
 
 [^280]: Read -gād apānādyātmanaḥ for -gāt pānādyātmanaḥ.
 
-[^281]: \[illegible\] The fusion takes place by the pervasion of the subordinate wheels of the senses with the bliss of the main one.
+[^281]: The fusion takes place by the pervasion of the subordinate wheels of the senses with the bliss of the main one.
 
 
 *[p. 304]* ^pg321
@@ -595,7 +595,7 @@ When the aesthetic rapture (camatkāra) of one’s own Self is pouring forth (ex
 
 [^287]: The energies of the senses intensify the bliss of the Main Wheel (i.e. the primary, fundamental cycle of consciousness) by merging with it. The division and difference between the sensations pouring in through the senses dissolves away in the blissful unification of expanded consciousness.
 
-[^288]: \[illegible\] The central Wheel is the main one (mukhya) because it is the place of rest of all cognitions.
+[^288]: The central Wheel is the main one (mukhya) because it is the place of rest of all cognitions.
 
 
 *[p. 306]* ^pg323
@@ -704,7 +704,7 @@ no śāntar nāpy udita
 
 [^296]: Concerning the nature of this arousal, see above, 3/81cd-90 (82-90).
 
-[^297]: \[illegible\] Read kṣobhaḥ I| kasmād evam for kṣobhaḥ || evam.
+[^297]: Read kṣobhaḥ I| kasmād evam for kṣobhaḥ || evam.
 
 [^298]: Quoted in TSā p. 202-203.
 
@@ -794,7 +794,7 @@ The fortunate one should enter into the unconditioned Abode of Emission by caref
 
 (the emptiness of) the state (free of thought) in the centre (between) them (tanmadhyabhāvena).[^309] 
 
-[^309]: \[illegible\] VBh 62 (61). Generally, the word ‘bhāva’ is understood here to mean a phenomenal entity. In that case, the practice is to allow one’s attention (= consciousness) to desist from attending to some entity and prevent it from moving on to attend to another, as normally happens in the course of perception. In this way, a state of meditative absorption that transcends the usual perception of objects develops in the centre between the two. In this case, the word ‘bhāva’ may also be understood to mean ‘state’, that is, the state of tranquil repose within consciousness, and that of its emergence out of that into perception. But this is not the way either of the two commentators understand it. Ānandabhatṭa: ekasmin vastuni svīkṛte niruddhā cit naiva bhāvāntara vrajet anyadvastuni na vrajet tatra tanmadhye śŭnyarūpasthityā bhāvanā ativikasati adbhutaphullanyāyena manaś cātivikāsatvari yāyāt — brahmaiva saripadyata ity arthaḥ ॥ “When one thing has been selected, the consciousness that ‘has been (firmly) checked’ ‘should not move on to something else’. (The meaning is that) it should not move on to another entity. There, in the centre between them, by virtue of its condition as Void by nature (Sūnyarūpa), meditation unfolds intensely (arivikasati), on the analogy of the (eyes) dilated (by the sight of something) astonishing. So too the mind becomes extremely expanded. The meaning is that the Brahman itself is attained.’ Śivopādhyāya: nyakte antarhite — adṛṣte bhāve padārthe trinetracaturbhujādyākāre dhyeyavastuni, cit cetanā niruddhā abhyāsapātavena nitarāṁ ruddhvā sthāpitā satī, bhāvāntaram anyapadārtha dṛṣtadehaghajādikaḥ naiva vrajet | nyaktaṁ —vruditaḥ tirohitam ~ antarhitam iti vedabhāsyakāraḥ | nyaktam iti chāndasaḥ prayogaḥ | bhāve = vyakte iti pāthe tu akārapraśleṣenṇāpi avyakte iti pūrvokta eva arthaḥ | evar sāūlambanadhyānayoge api dhyātṛdhyāne parityajya kramād dhyeyaikagocaram | nivātadīpavac citta samādhir abhidhīyate ॥ iti yogaśāstranītyā dhyātṛdhyāne vihāya, dhyeyanirālambanaśūnyamadhyadhāma-viśrānteh upeyatvāt, tayoḥ vyaktāvyaktayoḥ bhāvayoḥ madhyabhāvena na kińcid rūpa (> rūpaṁ) madhyadhāmaviśrāntyā bhāvanā madhyadaśāviśrāntisaiskāraḥ, atiśayena vikasati udbodham कव tena vyaktāvyaktabhāvadvayādimadhyānta-daśāvyāpakataddvayaikānusaridhātrcinmātrarūpamadhyaviśrāntih bhavet ity arthaḥ || “When one thing is submerged’ (means) when an entity which is an object of meditation (i.e. a visualized deity), the form of which possesses three eyes and four arms or the like, is hidden away and unseen, and ‘consciousness’, that is, awareness (cetanā) ‘has been (firmly) checked’ by the proficiency of practice. Once it has been very well fixed and (thus well) established, ‘it should not move on to something else’, that is, (to some) other entity such as a body, a jar and the like, that has been perceived. The Vedic commentator (has defined the meaning of) nyaktam (submerged) to be ‘immersed’ (vrudita), ‘obscured’ (tirohita) and ‘hidden away’ (antarhita). ‘nyaktam’ (also means) ‘making use of a metre’ (i.e. setting lines to verse). In the case of the reading bhāve vyakte, by adding the letter A (to the vyakte) (which was dropped in accord with with the rules of sandhi), (we arrive at the form) avyakte (‘unmanifest’), with (effectively the same) aforementioned meaning (i.e. when one thing (becomes) unmanifest . . .). Similarly, in the case of Yoga based on meditation with support (it is said): ‘Having gradually abandoned the meditator and meditation (itself), the mind, the sole field of which is the object of meditation, (steady) like the flame (of a lamp where there is) no wind, is said to be (absorbed in) contemplative trance (samādhi). Thus, abandoning the meditator and meditation (itself), in accord with the teaching of the texts on Yoga, because repose in the Middle Abode which is the Void unsupported by an object of meditation is the goal, by virtue of the middle state (between) those two states, manifest and unmanifest, they have no form at all. By resting in the Middle Abode, meditation (bhāvanā), that is, the residual trace (saṁskāra) of (the state of) repose in the middle state, blossoms forth extensively (atiśayena) and is awakened. The meaning is that (a state of) repose arises in the centre, the nature of which is the (pure) consciousness alone of the one perceiver of the two (who connects them together) and pervades the inner state in the centre of the two, that is, the manifest and unmanifest condition.”
+[^309]: VBh 62 (61). Generally, the word ‘bhāva’ is understood here to mean a phenomenal entity. In that case, the practice is to allow one’s attention (= consciousness) to desist from attending to some entity and prevent it from moving on to attend to another, as normally happens in the course of perception. In this way, a state of meditative absorption that transcends the usual perception of objects develops in the centre between the two. In this case, the word ‘bhāva’ may also be understood to mean ‘state’, that is, the state of tranquil repose within consciousness, and that of its emergence out of that into perception. But this is not the way either of the two commentators understand it. Ānandabhatṭa: ekasmin vastuni svīkṛte niruddhā cit naiva bhāvāntara vrajet anyadvastuni na vrajet tatra tanmadhye śŭnyarūpasthityā bhāvanā ativikasati adbhutaphullanyāyena manaś cātivikāsatvari yāyāt — brahmaiva saripadyata ity arthaḥ ॥ “When one thing has been selected, the consciousness that ‘has been (firmly) checked’ ‘should not move on to something else’. (The meaning is that) it should not move on to another entity. There, in the centre between them, by virtue of its condition as Void by nature (Sūnyarūpa), meditation unfolds intensely (arivikasati), on the analogy of the (eyes) dilated (by the sight of something) astonishing. So too the mind becomes extremely expanded. The meaning is that the Brahman itself is attained.’ Śivopādhyāya: nyakte antarhite — adṛṣte bhāve padārthe trinetracaturbhujādyākāre dhyeyavastuni, cit cetanā niruddhā abhyāsapātavena nitarāṁ ruddhvā sthāpitā satī, bhāvāntaram anyapadārtha dṛṣtadehaghajādikaḥ naiva vrajet | nyaktaṁ —vruditaḥ tirohitam ~ antarhitam iti vedabhāsyakāraḥ | nyaktam iti chāndasaḥ prayogaḥ | bhāve = vyakte iti pāthe tu akārapraśleṣenṇāpi avyakte iti pūrvokta eva arthaḥ | evar sāūlambanadhyānayoge api dhyātṛdhyāne parityajya kramād dhyeyaikagocaram | nivātadīpavac citta samādhir abhidhīyate ॥ iti yogaśāstranītyā dhyātṛdhyāne vihāya, dhyeyanirālambanaśūnyamadhyadhāma-viśrānteh upeyatvāt, tayoḥ vyaktāvyaktayoḥ bhāvayoḥ madhyabhāvena na kińcid rūpa (> rūpaṁ) madhyadhāmaviśrāntyā bhāvanā madhyadaśāviśrāntisaiskāraḥ, atiśayena vikasati udbodham कव tena vyaktāvyaktabhāvadvayādimadhyānta-daśāvyāpakataddvayaikānusaridhātrcinmātrarūpamadhyaviśrāntih bhavet ity arthaḥ || “When one thing is submerged’ (means) when an entity which is an object of meditation (i.e. a visualized deity), the form of which possesses three eyes and four arms or the like, is hidden away and unseen, and ‘consciousness’, that is, awareness (cetanā) ‘has been (firmly) checked’ by the proficiency of practice. Once it has been very well fixed and (thus well) established, ‘it should not move on to something else’, that is, (to some) other entity such as a body, a jar and the like, that has been perceived. The Vedic commentator (has defined the meaning of) nyaktam (submerged) to be ‘immersed’ (vrudita), ‘obscured’ (tirohita) and ‘hidden away’ (antarhita). ‘nyaktam’ (also means) ‘making use of a metre’ (i.e. setting lines to verse). In the case of the reading bhāve vyakte, by adding the letter A (to the vyakte) (which was dropped in accord with with the rules of sandhi), (we arrive at the form) avyakte (‘unmanifest’), with (effectively the same) aforementioned meaning (i.e. when one thing (becomes) unmanifest . . .). Similarly, in the case of Yoga based on meditation with support (it is said): ‘Having gradually abandoned the meditator and meditation (itself), the mind, the sole field of which is the object of meditation, (steady) like the flame (of a lamp where there is) no wind, is said to be (absorbed in) contemplative trance (samādhi). Thus, abandoning the meditator and meditation (itself), in accord with the teaching of the texts on Yoga, because repose in the Middle Abode which is the Void unsupported by an object of meditation is the goal, by virtue of the middle state (between) those two states, manifest and unmanifest, they have no form at all. By resting in the Middle Abode, meditation (bhāvanā), that is, the residual trace (saṁskāra) of (the state of) repose in the middle state, blossoms forth extensively (atiśayena) and is awakened. The meaning is that (a state of) repose arises in the centre, the nature of which is the (pure) consciousness alone of the one perceiver of the two (who connects them together) and pervades the inner state in the centre of the two, that is, the manifest and unmanifest condition.”
 
 *[p. 312]* ^pg329
 
@@ -948,7 +948,7 @@ Having had occasion to talk about this by the way, he now (returns to) talk abou
 
 [^317]: The unrecovered Tartvārthacintāmani is the only work which we are repeatedly told was written by Kallaṭabhaṭṭa. Jayaratha quotes from it in several places (see above, note 28,316). Here, he does not, and so it is uncertain whether this line is drawn from there. Perhaps this is another work by Kallaṭa, but this seems unlikely, as we have no other references to it. Anyway, this reference proves that he and his tradition, with which the Sivasūtra and Spandakārikā, are associated, have, as one would expect, deep Kaula roots.
 
-[^318]: \[illegible\] The expansion of consciousness in the centre (madhyavikāsa) occurs in women spontaneously, and they are thereby purified in a way superior to any form of purification of the male disciple’s body.
+[^318]: The expansion of consciousness in the centre (madhyavikāsa) occurs in women spontaneously, and they are thereby purified in a way superior to any form of purification of the male disciple’s body.
 
 
 *[p. 316]* ^pg333
@@ -1195,7 +1195,7 @@ The ‘Wheel of Śakti’ is the one related to the Śakti, that is, the Main on
 
 [^338]: See above, 26/27-29ab.
 
-[^339]: \[illegible\] Arkāram also means ‘the spokes of which are suns’. This is reference to the Wheel of Twelve Kālis, each one of which is represented by one of the twelve suns that shine in corresponding months of the years.
+[^339]: Arkāram also means ‘the spokes of which are suns’. This is reference to the Wheel of Twelve Kālis, each one of which is represented by one of the twelve suns that shine in corresponding months of the years.
 
 [^340]: This is the same basic mandala described above (see 29/27-29ab). Notice the progressive development from the centre. It begins with couple, Kuleśa and Kuleśvarī, expanding out into the surrounding triangle of the three Trika goddesses. As each one is of four kinds (by virtue of their emanation, persistence, withdrawal and the Inexplicable), thus, they expand out into the Twelve
 
@@ -1427,7 +1427,7 @@ That is taught[^349] in the venerable Tattvarakṣaṇna, Nigama[^350] and Triś
 
 [^349]: The teaching to which Abhinava refers is that emission (visarga) is of three kinds. See above, 3/21 1-215ab.
 
-[^350]: \[illegible\] Here ‘nigama’ certainly does not mean the Veda. Jayaratha takes it to mean the Gamatantra, the reference from which he indicates as being the following verse.
+[^350]: Here ‘nigama’ certainly does not mean the Veda. Jayaratha takes it to mean the Gamatantra, the reference from which he indicates as being the following verse.
 
 [^351]: See above, 3/138-141 (137cd-141ab).
 

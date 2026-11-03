@@ -131,7 +131,7 @@ The person (to whom these lines refer) is a Vaiṣṇava or the rest (mentioned 
 
 [^108]: Ananteśa (also called Aghora or just Ananta) is the form of Śiva who operates on the Impure Path (see below, 8/306ab-307ab (305-306) and 8/331ab-332cd (330cd-332ab) and commentaries, and also 9/147-149ab). Thus, just as he generates the lower order, he can awaken the individual soul to the higher one also.
 
-[^109]: \[illegible\] The Mantra subject resides in the realm of Pure Knowledge (suddhavidyā), which is the first of the pure principles beyond Māyā. There he experiences that “I am all this (world) and all this (world) am T’. If, on the contrary, when he is awakened, he is pulled down by the activated latent traces of his Karma into the duality of the realm of Māyā, he experiences himself as different from the world around him, and all things as different from one another.
+[^109]: The Mantra subject resides in the realm of Pure Knowledge (suddhavidyā), which is the first of the pure principles beyond Māyā. There he experiences that “I am all this (world) and all this (world) am T’. If, on the contrary, when he is awakened, he is pulled down by the activated latent traces of his Karma into the duality of the realm of Māyā, he experiences himself as different from the world around him, and all things as different from one another.
 
 [^110]: Read pralayākalaprāyari for pralayākala prāyaṁ.
 
@@ -264,7 +264,7 @@ Surely (one may ask,) agreed that (the people of) this world follow a true or fa
 गुरुशाखरगते सतत्वेऽसत््वे चात्र विभेदकम् ।
 शक्तिपातस्य वैचित्यं पुरस्तात्मविविंच्यते ॥ ३७ ॥
 
-[^121]: \[illegible\] From this perspective, there are two types of descents of the power of grace. One is direct, that leads directly to a true Trika teacher. Another is gradual, that is, takes place in stages, as the seeker is led to more than one teacher. Initially, the first teacher may not even be a Śaivite. But then, by Śiva’s grace, he is led to a true Śaiva teacher. Abhinava, it seems, is also alluding here to the possibility that the seeker is led by Śiva’s grace to several teachers, from whom he receives initiation into Saiva schools of progressively higher levels, until he finally finds one who initiates him into Trika. See below, 13/302 where the Bhairavakulatantra is cited.
+[^121]: From this perspective, there are two types of descents of the power of grace. One is direct, that leads directly to a true Trika teacher. Another is gradual, that is, takes place in stages, as the seeker is led to more than one teacher. Initially, the first teacher may not even be a Śaivite. But then, by Śiva’s grace, he is led to a true Śaiva teacher. Abhinava, it seems, is also alluding here to the possibility that the seeker is led by Śiva’s grace to several teachers, from whom he receives initiation into Saiva schools of progressively higher levels, until he finally finds one who initiates him into Trika. See below, 13/302 where the Bhairavakulatantra is cited.
 
 *[p. 47]* ^pg60
 
@@ -330,7 +330,7 @@ sa śuddhavidyāmāhātmyāc chaktipātapavitritaḥ ॥ 39 ॥
 
 [^126]: The same expression is also found in SvT 12/119cd, that says: ‘Māyā is the Knot which is hard to traverse because none oppose its obstruction.’ Kṣemarāja comments: “‘None oppose it’ means that it has no cause (or purpose). It is Māyā which is the Supreme Lord’s power of freedom. It obstructs by concealing one’s own full (and complete) nature and generates the limited (individual) perceiver’s nature (in its place). As that is its nature, Māyā that binds the individual soul is called the Knot.’ Swami Lakshmanjoo explains this expression as follows. ‘Māyā is nirvairaparipanthinyā, i.e. it misleads only, it has no purpose in doing so, so this way of being misled is very difficult to overcome. It is easy to overcome it if one is misled with purpose, but if one is being misled instead without purpose it is very hard to overcome. No philosophy has even tried to begin to refute its doctrines.” (personal communication)
 
-[^127]: \[illegible\] Read with TĀ 8/335a gurudevāgniśāstreṣu for gurudevāgniśāstrasya, even though this is the reading in the SvT.
+[^127]: Read with TĀ 8/335a gurudevāgniśāstreṣu for gurudevāgniśāstrasya, even though this is the reading in the SvT.
 
 [^128]: SvT 10/1138cd-1141. Jayaratha has already quoted SvT 10/1139cd-1140 above in his commentary on 4/17cd-18ab. See note there.
 
@@ -739,7 +739,7 @@ truly is has the initiation that leads to Nirvāṇa!’[^173] (49-50)
 
 [^173]: The complete verse says: ‘He who knows this in truth has (received) the (true) initiation that, devoid of (outer offerings) such as sesame seeds, clarified butter and the like, is free of doubt and leads 10 पपाण्वा४. # The initiation that leads to Nirvāṇa (nirvāṇadīkṣā) is the Śaiva initiation in the most basic sense, here understood to bestow instantaneous liberation in this life (jīvanmukti). The reader is referred to a previous publication for an outline of the Śaiva rites of initiation (Dyczkowski 1992a: 235 ff.). Commenting in the PTv (p. 259) on these lines, Abhinava pertinently quotes the Stanzas on Vibration (verse 32), where its says: ‘This alone is the attainment of the nectar of immortality, this indeed is to catch hold of oneself, this is the initiation of Nirvāṇa, that bestows Śiva’s true nature.’ ‘Other initiations’, he goes on to say, ‘may bestow worldly benefits (bhoga), but the true initiation (that bestows liberation) is only this knowledge. Thus this (Trika) school is superior to all the others.’ anyā api dīkṣā bhogān vitareyurapi etatparijṁāūnameva tu tattvato dīkṣeti tata evātra sarvottaratvaṁ. Cf. below. 4/60cd-62ab and note.
 
-[^174]: \[illegible\] Literally ‘he possesses oneness with the Supreme Lord.’ The word ‘yogin’ (English ‘yogi’) literally means ‘one who is in union’. Initiation is basically a ritual procedure whereby the teacher first removes the binding impurities from the disciple’s soul. Then, once the limitations have been removed, the disciple’s soul is essentially the same pure consciousness as that of the deity. Thus, it can easily unite with the Deity. The same can happen directly by the grace of the energies, that is, goddesses, of consciousness. Liberated in this way, he is mostly literally a ‘yogin’.
+[^174]: Literally ‘he possesses oneness with the Supreme Lord.’ The word ‘yogin’ (English ‘yogi’) literally means ‘one who is in union’. Initiation is basically a ritual procedure whereby the teacher first removes the binding impurities from the disciple’s soul. Then, once the limitations have been removed, the disciple’s soul is essentially the same pure consciousness as that of the deity. Thus, it can easily unite with the Deity. The same can happen directly by the grace of the energies, that is, goddesses, of consciousness. Liberated in this way, he is mostly literally a ‘yogin’.
 
 
 *[p. 67]* ^pg80

@@ -165,7 +165,7 @@ Again, (what is) in the centre is not light nor its absence.[^343] Rather, the o
 
 [^343]: It is neither Light nor non-Light.
 
-[^344]: \[illegible\] See below, 24/17cd-20ab.
+[^344]: See below, 24/17cd-20ab.
 
 [^345]: In this case, the faces are not six, but four, associated, respectively, with Ñévara (E), Rudra (S), Viṣṇu (N), and Brahmā (W). The zenith and nadir are not included. In other words, the directions can be understood to be bom from the five faces of Sadāsiva, or from just the four causal forces below him. Note also that Brahmā's iconic form has four, not five faces. A form of Viṣṇu called Vaikuntha is also represented as having four faces. He was particularly popular in Kashmir and the western Himalaya, where the great majority of the icons are found.
 
@@ -463,7 +463,7 @@ Surely (one may ask): It is said that Indra and the other (guardians of the worl
 
 [^361]: Read prakāśyaṁ varuna ityuktam for uktaṁ prakāśyaṁ varuna iti.
 
-[^362]: \[illegible\] The snake god Ananta is below the Egg of Brahmā, sustaining it on his hood. See above, 8/20cd-22ab and citations in the commentary.
+[^362]: The snake god Ananta is below the Egg of Brahmā, sustaining it on his hood. See above, 8/20cd-22ab and citations in the commentary.
 
 
 *[p. 137]* ^pg155
@@ -578,7 +578,7 @@ Once he has sat down in his own place, (the officiant) should purify (his) body.
 
 \*" 
 
-[^366]: \[illegible\] MV 8/183. Also quoted above ad 15/191cd-193.
+[^366]: MV 8/183. Also quoted above ad 15/191cd-193.
 
 [^367]: Here it is finally clear that this long discussion concerning the direction of the quarters serves to justify why the officiant who enters the place of worship should face north (see above, 15/193).
 
@@ -629,7 +629,7 @@ This combustion is said to be the destruction (dhvaṁsa) (of impurity and ignor
 
 [^373]: This verse is a paraphrase of MV 8/18cd-19ab which reads: tatrādāv astramantreṇa kālānalasamatviṣā \[k: samanvitā\] ॥ aṅguṣthāgrāt tanu dagdhāṁ sabāhyābhyantarāri smaret | “There, first of all, one should recollect that the body is burnt inwardly and externally from the big toe (upwards) by the Weapon mantra that has the same radiant lustre of the Fire of Time.”
 
-[^374]: \[illegible\] The word ‘umbhita’, not found in either Monier-Williams or Apte, is attested above in 1/7, where it means ‘fashioned’ or ‘made from’. In other places it has the sense of ‘encapsulated’ (19/24cd), ‘gathered together’ (27/49), ‘thread through with’, ‘tied or strung together’ (28/143cd), ‘connected together’ (32/35), \*composed” (with reference to the Tantrāloka) (37/85a).
+[^374]: The word ‘umbhita’, not found in either Monier-Williams or Apte, is attested above in 1/7, where it means ‘fashioned’ or ‘made from’. In other places it has the sense of ‘encapsulated’ (19/24cd), ‘gathered together’ (27/49), ‘thread through with’, ‘tied or strung together’ (28/143cd), ‘connected together’ (32/35), \*composed” (with reference to the Tantrāloka) (37/85a).
 
 [^375]: According to Jayaratha, this is pure awareness, which is the foundation, essence and life of discursive thought. See below, 16/250 ff.
 
@@ -696,7 +696,7 @@ What happens by his resting there (within his own pure conscious nature)? With t
 
 [^378]: ‘Ahantā’ literally means \*I-ness’. It is the sense of ‘T’, the reflective awareness of oneself as being ‘I’. Whatever that is linked to, the perceiver experiences that ‘that is what I am’. If it is the body, he feels ‘I am the body’. In such cases the "11655" is sullied by ‘this-ness’, and the subject is confused with an object. Thus, the limitations and troubles of the body seem to be one’s own. When this ‘I-ness’ is linked to consciousness, which is devoid of objectivity, it is pure. The experience then is ‘I am all this’ or ‘I am Siva’, the former immanent oneness, the latter, transcendental.
 
-[^379]: \[illegible\] Sanderson (1986: 174) sums up the process up to here: ‘Now he purifies his body with the weapon-mantra, visualizing its power as a fire sweeping up through his body and reducing it to ashes. He then dispels these ashes with the ‘wind’ of the armour-mantra. The process of incineration is to be understood by the worshipper as the destruction of his public or physical individuality (dehāhanṛtā) and the blowing away of the ashes as the eradication of the latent traces (saṁskārāḥ) of this binding identification. He is to see that all that remains of his identity is pure, undifferentiated consciousness as the impersonal ground of his cognition and action. So doing he opens the way for his identification with the deity through the mantras that follow; his ritual has removed the personality which impedes this \*possession’.”
+[^379]: Sanderson (1986: 174) sums up the process up to here: ‘Now he purifies his body with the weapon-mantra, visualizing its power as a fire sweeping up through his body and reducing it to ashes. He then dispels these ashes with the ‘wind’ of the armour-mantra. The process of incineration is to be understood by the worshipper as the destruction of his public or physical individuality (dehāhanṛtā) and the blowing away of the ashes as the eradication of the latent traces (saṁskārāḥ) of this binding identification. He is to see that all that remains of his identity is pure, undifferentiated consciousness as the impersonal ground of his cognition and action. So doing he opens the way for his identification with the deity through the mantras that follow; his ritual has removed the personality which impedes this \*possession’.”
 
 *[p. 144]* ^pg162
 
@@ -938,7 +938,7 @@ Surely (one may ask), the ultimate reality (and goal) in this system (darśana) 
 
 [^403]: Lines 15/248cd-250 are a close paraphrase of MV 8/36cd-38: \*(One should then perform the sixfold deposition of energy (sākta) above it.) Having first of all deposited Parāparā with (her) faces (and limbs) onto the ‘icon’ and Mālinī, he should then deposit the triad Parā and the rest (onto the three principles)\* onto the topknot, heart and feet, respectively. Then having deposited (above the eight, Aghora and the rest, the eight goddesses) beginning with Aghorī onto the head, face, throat, heart, navel, genitals, thighs and feet, respectively, (he should deposit) the five limbs of the Vidyā (vidyānga) (above the corresponding limbs of the \[illegible\] as before. Then (finally, the officiant) should invoke \[illegible\] (Śiva’s) power, which is saluted by all yogis.’ MV 8/36-38 \* According to this view, the three principles are the three Bhairavas: Navātman, Ratiśckhara and Bhairavasadbhāva. MV 8/38cd reads tatas tv āvāhayec chaktiń sarvayoginamaskṛtām — “Then (finally, the officiant) should invoke (āvāhayet) (Śiva\`s) power, which is saluted by all yogis.’ TĀ 15/2504 reads instead, ‘Then (finally, the officiant) should invoke \[illegible\] (Śiva’s) power) in the form of Mātṛsadbhāva’. Abhinava then adds the last line, ‘who, (perfectly) complete (pārnā) and Gmmutably) stabile \[illegible\] is Parā, the Mistress of Yogis (yogīśvarī) and Kālasaṁkarṣiṇī (the Destructress of Time).” In this way, he places Kālasaṁkarṣiṇī above and identifies her as a higher form of Parā. The connection is made by the common name Mātṛsadbhāva for both the Parā of the MV and Kālasarṁkarṣiṇī. Concerning the form of the syllabic Mantra called Mātṛsadbhāva in the MV (extracted ibid. in 8/39-40) and its Krama homonym, see above 3/68cd-70) (69-71ab), note 3,227.
 
-[^404]: \[illegible\] This verse refers to the worship of Kālasaṁkarṣinī above Parā. This addition to the rite is not known to the MV. Thus, Abhinava sums up here what needs to be done in order to do this, basing himself on the Trikasāra and Devyāyāmala. Note that the ‘twelve powers’ to which Abhinava refers are the Twelve Kālīs.
+[^404]: This verse refers to the worship of Kālasaṁkarṣinī above Parā. This addition to the rite is not known to the MV. Thus, Abhinava sums up here what needs to be done in order to do this, basing himself on the Trikasāra and Devyāyāmala. Note that the ‘twelve powers’ to which Abhinava refers are the Twelve Kālīs.
 
 
 *[p. 152]* ^pg170
@@ -991,7 +991,7 @@ Again, he who (is not concerned with other benefits, but) aspires solely to (ach
 
 #### Viveka on 15.255
 
-[^409]: \[illegible\] Read prakṛstatvena for praṣtṛtvena.
+[^409]: Read prakṛstatvena for praṣtṛtvena.
 
 [^410]: Emending prabhuḥ to prabhoḥ the meaning would be ‘the supreme emission of the Lord”. This perhaps makes more sense, as visarga is the power of Lord Siva, which is the Goddess. Sanderson understands ‘prabhuḥ’ not as a noun ~ ‘the Lord’ — but as an adjective of supreme form of emission, which is thus ‘prabhuḥ’ in the sense of ‘omnipotent’.
 
@@ -1385,7 +1385,7 @@ Surely, (one may object,) that everybody says (as Somānanda does, that):
 
 “(When one has known (even) once, with firm understanding, Śiva’s omnipresent nature by means of (sound) means of knowledge (pramāna), the 
 
-[^439]: \[illegible\] One could also translate the word vikalpa as ‘differentiated mental representation’.
+[^439]: One could also translate the word vikalpa as ‘differentiated mental representation’.
 
 *[p. 164]* ^pg182
 

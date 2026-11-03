@@ -89,7 +89,7 @@ It is said that (Umā and Śrīkantha are) ʻon the plane of the eight Yoga (Rud
 
 [^733]: From here onwards, Abhinava sets aside the account in the MV for the more extensive one in the Svacchandatantra, having set up the transition to it in the previous verses so as to effectively present it as an extension of the account in the MV.
 
-[^734]: \[illegible\] Read in 238d saumam for some, and in 239a tata umāpuraṁ for tato māyāpuram; and in 240a tatromāyāḥ puraṁ for tatra māyāpuram. Verses 238cd-241 (238-241ab) are a summary of SvT 10/984-1018ab, that support these emendations.
+[^734]: Read in 238d saumam for some, and in 239a tata umāpuraṁ for tato māyāpuram; and in 240a tatromāyāḥ puraṁ for tatra māyāpuram. Verses 238cd-241 (238-241ab) are a summary of SvT 10/984-1018ab, that support these emendations.
 
 
 *[p. 257]* ^pg275
@@ -411,7 +411,7 @@ Surely, (someone may object,) how can Nature in this way, without being disturbe
 
 Surely, agreed that this fault (i.e. logical inconsistency) does exist, even so, it is (a fault of) the Sāṁkhya (view), not ours. An insentient cause is not capable of generating (its) effect without being stimulated (to do so), because 
 
-[^762]: \[illegible\] The reason why the qualities (guna) of Nature are a separate principle apart from Nature is that Nature cannot be the direct source of the emanation of the principles below it, of which the Intellect is the first. This is because Nature abides within its unmanifest state when the Qualities are in a balanced state within it. Nature can only generate its product when this balance is disrupted. Abhinava argues that one must accept this condition for it to be a separate principle.
+[^762]: The reason why the qualities (guna) of Nature are a separate principle apart from Nature is that Nature cannot be the direct source of the emanation of the principles below it, of which the Intellect is the first. This is because Nature abides within its unmanifest state when the Qualities are in a balanced state within it. Nature can only generate its product when this balance is disrupted. Abhinava argues that one must accept this condition for it to be a separate principle.
 
 
 *[p. 268]* ^pg286
@@ -520,7 +520,7 @@ A cause is said to be that which, even when it is aroused (and primed to give ri
 
 and ending with Śiva, that should be purified.’[^767] 
 
-[^767]: \[illegible\] SvT 5/2cd-3a.
+[^767]: SvT 5/2cd-3a.
 
 
 *[p. 271]* ^pg289
@@ -978,9 +978,9 @@ heye ‘py ādeyadhīḥ siddhiḥ \* \* \* \* \* + + + |
 
 [^799]: These are the goddesses of the nine worlds of the contentments (157), and eight of the accomplishments (siddhi).
 
-[^800]: \[illegible\] SVT 10/1069cd-1073. Kṣemarāja, commenting on this verse, defines the eight yogic powers as follows: ‘1) Aṇimā is the power to make the body subtle. 2) Laghimā is the capacity to make (one’s own body or anything else’s) as light as a feather. 3) Mahimā is the capacity to make (things) large at will, 4) Prāpti is (the capacity) to reach any place by just (one’s) intention to do so. 5) Prākāmya is the capacity to make a single body multiple at once. 6) śitva is mastery (aiśvarya) (over others and oneself). 7) Vaśitva is the control of ghosts (and other supernatural beings), 8) Kāmāvasāyitva is (the capacity) to determine with certainty the nature of something concealed by time and space just by the intention to do 890." He adds that because the individual soul experiences the three Qualities that are common to (all forms of the) object of experience, he is also associated with the shade of those three qualities, and so possesses (and is subject to) the Qualities.
+[^800]: SVT 10/1069cd-1073. Kṣemarāja, commenting on this verse, defines the eight yogic powers as follows: ‘1) Aṇimā is the power to make the body subtle. 2) Laghimā is the capacity to make (one’s own body or anything else’s) as light as a feather. 3) Mahimā is the capacity to make (things) large at will, 4) Prāpti is (the capacity) to reach any place by just (one’s) intention to do so. 5) Prākāmya is the capacity to make a single body multiple at once. 6) śitva is mastery (aiśvarya) (over others and oneself). 7) Vaśitva is the control of ghosts (and other supernatural beings), 8) Kāmāvasāyitva is (the capacity) to determine with certainty the nature of something concealed by time and space just by the intention to do 890." He adds that because the individual soul experiences the three Qualities that are common to (all forms of the) object of experience, he is also associated with the shade of those three qualities, and so possesses (and is subject to) the Qualities.
 
-[^801]: \[illegible\] In SvTu ad 10/1071-2ab, Kṣemarāja says: ‘According to the Sāṁkhya school (śāstra), the group of nine contentments and the eight accomplishments should be attended to as indications (of spiritual progress) (pratyayasevya), and are reckoned be qualities of the intellect. Here (according to our view, they are) the obscuring covering of the individual soul who is enjoying (worldly experience) and whose nature, being contracted consciousness, does not discriminatingly discern the Force (of limited agency) and the other obscuring coverings (kañcuka) (as confining his consciousness). (In actual fact,) worldly experience (bhoga) generated under the sway of the intellect and the rest (can never) possibly arise in any way in the individual soul who is just the pure perceiver alone and not an enjoyer (of worldly experience). The experience of cold does not arise even in a secondary form within Devadatta when snow, for example, is reflected within Devadatta (rather it manifests in his intellect). Thus, all this worldly experience in the aforementioned ultimately real individual soul (seems to) takes place within it when it is a worldly experiencing subject. Thus, the existence of the perception (pratyaya) of contentment etc. is proper there (in that case). This is what is being said (here) in this way. . . . Their presiding deities are Ambā and the rest (of the false contentments) and Tārā and the rest (of the false accomplishments). They are described here as residing in the worlds with those names, here in the principle of the individual soul. However, the mastery (aiśvarya), which is the group of eight (accomplishments) beginning with the power to make oneself small at will (anima), ), that can be attained by the practice (krama) of the Yoga (taught) in the Supreme Lord’s school (mata), is also presided over by the group of eight deities with these names, here in the Principle of the Individual Soul.
+[^801]: In SvTu ad 10/1071-2ab, Kṣemarāja says: ‘According to the Sāṁkhya school (śāstra), the group of nine contentments and the eight accomplishments should be attended to as indications (of spiritual progress) (pratyayasevya), and are reckoned be qualities of the intellect. Here (according to our view, they are) the obscuring covering of the individual soul who is enjoying (worldly experience) and whose nature, being contracted consciousness, does not discriminatingly discern the Force (of limited agency) and the other obscuring coverings (kañcuka) (as confining his consciousness). (In actual fact,) worldly experience (bhoga) generated under the sway of the intellect and the rest (can never) possibly arise in any way in the individual soul who is just the pure perceiver alone and not an enjoyer (of worldly experience). The experience of cold does not arise even in a secondary form within Devadatta when snow, for example, is reflected within Devadatta (rather it manifests in his intellect). Thus, all this worldly experience in the aforementioned ultimately real individual soul (seems to) takes place within it when it is a worldly experiencing subject. Thus, the existence of the perception (pratyaya) of contentment etc. is proper there (in that case). This is what is being said (here) in this way. . . . Their presiding deities are Ambā and the rest (of the false contentments) and Tārā and the rest (of the false accomplishments). They are described here as residing in the worlds with those names, here in the principle of the individual soul. However, the mastery (aiśvarya), which is the group of eight (accomplishments) beginning with the power to make oneself small at will (anima), ), that can be attained by the practice (krama) of the Yoga (taught) in the Supreme Lord’s school (mata), is also presided over by the group of eight deities with these names, here in the Principle of the Individual Soul.
 
 
 *[p. 283]* ^pg301
@@ -1025,7 +1025,7 @@ Five (are the forms of external false contentment) brought about by abstaining f
 
 [^802]: Kapila is universally acclaimed to be the founder of Sāṁkhya. However, the Sāṁkhyakārikā, from which Abhinava draws here, is by Īśvarakṛṣṇa, not Kapila himself. Thus, Abhinava refers to ‘the followers of Kapila’ here.
 
-[^803]: \[illegible\] SāṁKā 50ab.
+[^803]: SāṁKā 50ab.
 
 *[p. 284]* ^pg302
 
@@ -1047,7 +1047,7 @@ Thus, as the yogi perceives their defects, he assumes an attitude of indifferenc
 
 [^805]: Read sukhārtha for sukhārthaṁ.
 
-[^806]: \[illegible\] The last quarter (SanKā 50d), not quoted by Abhinava, says that these are the nine (false) contentments — nava tuṣṭayo ‘bhimatāḥ. The first four are listed. The remaining five arise from turning away from the five objects of sense. Emend navāmbādyās- to navāmbhādyās-. See following note.
+[^806]: The last quarter (SanKā 50d), not quoted by Abhinava, says that these are the nine (false) contentments — nava tuṣṭayo ‘bhimatāḥ. The first four are listed. The remaining five arise from turning away from the five objects of sense. Emend navāmbādyās- to navāmbhādyās-. See following note.
 
 [^807]: The first of these nine false contentments is called Ambhā. Accordingly read navāmbhādyās for navāmbādyās.
 
@@ -1140,7 +1140,7 @@ There, as the word ‘teacher’ is used with respect to (the members) of the tw
 
 [^817]: SyT 10/1074-1078ab. Kṣemarāja explains that: ‘as before, these (teachers) have been appointed to this plane by the Lord’s will so that they may serve as a means to the attainment of that plane for those who are an object of (His) grace. . . . They teach ‘what has been seen’, that is, the proper practice (upāsā) to attain that plane, and ‘what has not been seen’, that is, the attainment of that plane.” This line of teachers is associated with tamas, just as the following two are related to rajas and sattva, respectively.
 
-[^818]: \[illegible\] Read with the SvT, jāgara for jagara.
+[^818]: Read with the SvT, jāgara for jagara.
 
 [^819]: The printed edition of the SvT (10/1080b) reads jamadagnisuto ‘dhvagaḥ for jamadagnisutordhvagaḥ.
 
@@ -1150,7 +1150,7 @@ There, as the word ‘teacher’ is used with respect to (the members) of the tw
 
 [^822]: SvT 10/1082-108ad.
 
-[^823]: \[illegible\] According to Kṣemarāja, the third line, like the first, consists of teachers The second line consists of Rṣis, who are their disciples that have attained this plane by their intense worship (upāsā) of the principle of the individual soul.
+[^823]: According to Kṣemarāja, the third line, like the first, consists of teachers The second line consists of Rṣis, who are their disciples that have attained this plane by their intense worship (upāsā) of the principle of the individual soul.
 
 
 *[p. 290]* ^pg308
@@ -1174,13 +1174,13 @@ paṁsi nādamayī śaktiḥ prasarākhyā ca yat sthitā |
 
 Surely, (the opponent objects from the Sāṁkhya point of view,) this would be so if one could prove that the individual soul is an agent, (but) that is very hard to establish, for if that were so, it would be insentient as is, for example, milk (that changes to curd).[^827] With this doubt in mind, he says: 
 
-[^824]: \[illegible\] SvT 10/1087cd-1088ab. This is the reading in the SvT: idā ca candrinī gaurī śāntiḥ sāntikarī tathā ॥ The reading in the edition of the TĀ is idā ca candriṇī caiva śāntiḥ sāntikarī tathā ॥ One entry here is missing.
+[^824]: SvT 10/1087cd-1088ab. This is the reading in the SvT: idā ca candrinī gaurī śāntiḥ sāntikarī tathā ॥ The reading in the edition of the TĀ is idā ca candriṇī caiva śāntiḥ sāntikarī tathā ॥ One entry here is missing.
 
-[^825]: \[illegible\] According to Abhinavagupta, the presence of the Vidyā goddesses in the individual soul (puruṣa) implies that the individual soul is an active reality, a power that progressively assumes increasingly gross corporeal forms.
+[^825]: According to Abhinavagupta, the presence of the Vidyā goddesses in the individual soul (puruṣa) implies that the individual soul is an active reality, a power that progressively assumes increasingly gross corporeal forms.
 
-[^826]: \[illegible\] Above, 7/66cd-67ab. Concerning the nādīs, see also below, 11/66cd-67ab.
+[^826]: Above, 7/66cd-67ab. Concerning the nādīs, see also below, 11/66cd-67ab.
 
-[^827]: \[illegible\] Abhinavagupta and his opponent, the Sāṁkhya, agree that the transition from cause to effect is an activity. However, unlike the Buddhists, who maintain that there is no real agent of any action, even sentient action, Abhinava maintains that all action, even insentient action, implies the existence of an agent who acts. The Sārmkhya maintains that while all change is action, it takes place in the domain of objectivity, that is, Nature (prakṛti), in which there is no sentient agent, as sentience is the attribute of another reality, namely, the individual soul, which is pure, inactive consciousness. It simply observes the activity of Nature and does nothing, and so is devoid of any agency. If it were to act, i.e. be an agent, it would be insentient, as is Nature, that is constantly changing into all the many objective forms of phenomena, just as milk changes into curd.
+[^827]: Abhinavagupta and his opponent, the Sāṁkhya, agree that the transition from cause to effect is an activity. However, unlike the Buddhists, who maintain that there is no real agent of any action, even sentient action, Abhinava maintains that all action, even insentient action, implies the existence of an agent who acts. The Sārmkhya maintains that while all change is action, it takes place in the domain of objectivity, that is, Nature (prakṛti), in which there is no sentient agent, as sentience is the attribute of another reality, namely, the individual soul, which is pure, inactive consciousness. It simply observes the activity of Nature and does nothing, and so is devoid of any agency. If it were to act, i.e. be an agent, it would be insentient, as is Nature, that is constantly changing into all the many objective forms of phenomena, just as milk changes into curd.
 
 
 *[p. 291]* ^pg309
@@ -1202,7 +1202,7 @@ In this way, (if the Sāmkhya view that the individual soul is not an agent were
 
 Surely, if one does not accept that the soul is an agent, because (that would imply that) it is insentient, even if that is so, (the matter) does not rest (here). Thus, he says: 
 
-[^828]: \[illegible\] In other words, according to this view, consciousness is the ultimate cause (the ‘agent’ ) of the phenomenal world, which is the effect (i.e. the product, of its action). The dualist Sāmkhya maintains that it is a product of insentient Nature, a view that Abhinavagupta refutes.
+[^828]: In other words, according to this view, consciousness is the ultimate cause (the ‘agent’ ) of the phenomenal world, which is the effect (i.e. the product, of its action). The dualist Sāmkhya maintains that it is a product of insentient Nature, a view that Abhinavagupta refutes.
 
 [^829]: We have noted already that according to the Sāṁkhya, the individual soul simply observes the elemental, sensory and mental forms Nature assumes. The former is the ‘enjoyer’, who experiences the latter, which is the object it \*enjoys’ or experiences. Subject and object together constitute the two necessary aspects of common daily experience and so make it possible. However, according to Abhinava and others, ‘experience’ or ‘enjoyment’ is itself an activity. Every form of action cannot be relegated entirely to the objective domain. The soul who experiences the play of the forms Nature assumes is engaged in this activity, at least. And for that, he must be the agent of that action. The ‘knower’ must be the agent of the act of knowing, otherwise he would not be a ‘knower’ or ‘enjoyer’.
 
@@ -1230,7 +1230,7 @@ Here (according to the Sāṁkhya), Nature is the cause of the production of all
 
 The soul is also a cause of the production of the universe, because it takes place according to whether it is present, and does not when it is absent (anvayavyatirekānuvidhānāt). However, because it is not possible for the (insentient) universe to be in consonance with (the soul’s sentient) nature, it is not the material cause; rather, it is an auxiliary cause. As this is so, one must necessarily accept that it is an auxiliary cause that is independent of its material 
 
-[^832]: \[illegible\] Thus, the individual soul, who is pure consciousness, does not produce anything. Even so, its presence is essential if Unmanifest Nature is to precipitate down into the manifest forms of its innumerable products, because they are produced to be the objects of perception of the individual soul.
+[^832]: Thus, the individual soul, who is pure consciousness, does not produce anything. Even so, its presence is essential if Unmanifest Nature is to precipitate down into the manifest forms of its innumerable products, because they are produced to be the objects of perception of the individual soul.
 
 [^833]: SāṁnKā 21. The union of the individual soul with Nature is essential for perception to take place, and their separation so that the individual soul may attain liberation. The union of the two is like that of a lame man with a blind one. Nature acts, but as it is insentient, it does not ‘see’. The soul ‘sees’ but cannot act. When they unite, creation takes place. Vācaspati Miśra, commenting on this verse, explains what happens when they separate: ‘The soul, ignorant of its distinction from Nature, while in union with that, considers the three kinds of pain, which are really constituents of Nature, to be his own; and seeks liberation from this bondage. And this liberation is only possible when the knowledge that the soul is distinct from Nature arises. This knowledge of the distinction between the soul and Nature cannot take place without Nature (and its evolutes). Thus, for its own liberation, the soul needs Nature. This union is (otherwise) perpetual due to the continuous series of conjunctions between the soul and Nature. Although the soul unites with Nature for the purpose of worldly experience, it also unites with it in order to achieve liberation, although that can ultimately only come about by separation from it.”
 

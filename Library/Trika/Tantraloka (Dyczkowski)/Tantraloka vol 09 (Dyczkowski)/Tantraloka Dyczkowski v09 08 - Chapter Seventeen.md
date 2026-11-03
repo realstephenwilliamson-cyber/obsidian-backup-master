@@ -116,7 +116,7 @@ The thread for the knot should be fashioned with three triple (tristrigunam) str
 
 #### Viveka on 17.5–6
 
-[^344]: \[illegible\] Unfortunately, I could not locate the source of this verse.
+[^344]: Unfortunately, I could not locate the source of this verse.
 
 [^345]: It is common practice to make the thread of three triple strands, and to identify the three strands with the channels 142, Piṅgalā and Suṣumnā. Here they are related to the Trika triad of Man, Śakti and Śiva, giving it a Trika identity. Numerous other identifications are also possible. Commenting on SvT 3/163-164, Kṣemarāja explains: sasssa kanyākartitasūtrakam | trigunaṁ trigunīkṛtyi SvT 3/163bc kanyā ikāraparaśaktyānukṛtarūpeti | tato mūlabhūmeḥ pravṛttāūnām āṇavamāyīyakārmarūpānāḥ sattvādiganatrayātmakaprapañcavyāptibhājām pāśānāṁm bhāvi-bandhacchedādikaṁ samūlam unmūlanārtham, iti kanyākartitatve trigunatrigunatve cāíayah || . . Śrīpūrvādau tu śaktitrayam eva tritattvena sthitam, ity āayena trīnṇi sūtrāṇīti prakriyāmātrabhedaḥ “Having tripled the thread fashioned by a virgin girl with three threads, , . , SvT 3/163bc A virgin symbolizes the supreme power in which no deformations have arisen. A tripled triple thread is fashioned by a virgin, with the intention that it should serve to uproot, root (and all), the future bonds and cracks etc. which are the fetters that pervade the three qualities of sattva and the rest. They have been set into operation from the root ground in the form of (the three Impurities) Āṇava, Māyïya and Kārma. According to the Mālinīvijaya and others, the three energies (of will, knowledge and action) are present (here) as the three principles (tattva) (of Man, Śakti and Śiva). It is with intention that there are three threads (not one with three strands). The difference (in details) is just one of procedure (praktiyā).
 
@@ -341,7 +341,7 @@ namaskārāntatāyogāt pūrṇāṁ sattā prakalpayet |
 
 Then, in order to establish consciousness within the insentient principles (like Earth) (jadābhāsa), the teacher (should form and utter their Mantras). (In order to do this, he) should first apply the case ending of an invocation, (that is, the vocative, to the name of the principle,) and then the case ending of the dative, and then, by adding the salutation (namaskāra) at 
 
-[^359]: \[illegible\] The verse from which Jayaratha is quoting the first line is found complete in PTv p. 151. There it reads: na puṁsi na pare tattve Śaktau mantram niveśayet | jadatvān niṣkriyatvāc ca na te bhogāpavargadāḥ ॥ ‘One should place Mantra in (the sphere of conscious) energy (Sakti), not in the individual soul or the supreme reality, because (they would then) be insentient (in the first case), and inactive (in the second), and so would give neither worldly benefits nor liberation.” Note that instead of mantrān niyojayet, the version in the PTV p. 151 reads: mantraṁ niveśayet. A verse from the lost Tattvarakṣāvidhāna quoted in SpPra ad 26 (p. 35) is very similar: aśaktatvān niṣkriyatvān na puṁsi na pare pade | Saktau niyojayen mantrat japas tu saphalo bhavet || “Apply mantra in (the sphere of conscious) energy, not to the individual soul or to the supreme state, for the former is powerless and the later inactive. (In this way its) repeated recitation can bear fruit.”
+[^359]: The verse from which Jayaratha is quoting the first line is found complete in PTv p. 151. There it reads: na puṁsi na pare tattve Śaktau mantram niveśayet | jadatvān niṣkriyatvāc ca na te bhogāpavargadāḥ ॥ ‘One should place Mantra in (the sphere of conscious) energy (Sakti), not in the individual soul or the supreme reality, because (they would then) be insentient (in the first case), and inactive (in the second), and so would give neither worldly benefits nor liberation.” Note that instead of mantrān niyojayet, the version in the PTV p. 151 reads: mantraṁ niveśayet. A verse from the lost Tattvarakṣāvidhāna quoted in SpPra ad 26 (p. 35) is very similar: aśaktatvān niṣkriyatvān na puṁsi na pare pade | Saktau niyojayen mantrat japas tu saphalo bhavet || “Apply mantra in (the sphere of conscious) energy, not to the individual soul or to the supreme state, for the former is powerless and the later inactive. (In this way its) repeated recitation can bear fruit.”
 
 
 *[p. 149]* ^pg169
@@ -462,7 +462,7 @@ svātantryāt tan darśayituṁ tatro(trā)ham[^368] imam ācaret |
 devam āvāhayāmīti tato devāya dīpakam || 23 ॥
 prāgyuktyā pūrṇatādāyi namaḥ svāhādikaṁ bhavet | 
 
-[^365]: \[illegible\] The Sanskrit can be translated in two ways. One translation is in the body of the translation, the other is in brackets. One cannot but admire Abhinava’s skilful use of double meanings.
+[^365]: The Sanskrit can be translated in two ways. One translation is in the body of the translation, the other is in brackets. One cannot but admire Abhinava’s skilful use of double meanings.
 
 [^366]: Another way of translating this line is: ‘(if that were possible, it would also be possible) that light would not be luminous when engaged in the act of illumination.
 
@@ -572,7 +572,7 @@ Thus, one must mention (the nature of the rite in such cases by saying) for exam
 
 [^373]: mārjanaṁ prokṣanam eva — ‘cleaning is just sprinkling’ - commentary on SvT 2/231. These are two of many saṁskāras purificatory rites that may be applied to purify the sacrificial area, sacrificial hearth, implements or offerings etc. See above, 15/369cd-371.
 
-[^374]: \[illegible\] Jayaratha understands karman here in the expression karmābhyūhana to mean (ritual) ‘action’. However, in the light of what Abhinava has just said, it would be better to understand karman to mean the object of that action, that is, the deity. If Jayaratha were right, we would not find many mantras that incorporate a reference to the action they accompany, but this is not so. On the contrary, it is very common for mantras to do that. Rather, it is the deity that is evident, in the sense that it is clear to all that it is that deity which is the main object of worship. In these lines, Abhinava is simply strengthening and justifying the point he made in the previous verse, namely, that the deity is the fundamental constituent of a Mantra that cannot, and should not, be modified. To do so takes all power from the mantra. Indeed, it may become harmful.
+[^374]: Jayaratha understands karman here in the expression karmābhyūhana to mean (ritual) ‘action’. However, in the light of what Abhinava has just said, it would be better to understand karman to mean the object of that action, that is, the deity. If Jayaratha were right, we would not find many mantras that incorporate a reference to the action they accompany, but this is not so. On the contrary, it is very common for mantras to do that. Rather, it is the deity that is evident, in the sense that it is clear to all that it is that deity which is the main object of worship. In these lines, Abhinava is simply strengthening and justifying the point he made in the previous verse, namely, that the deity is the fundamental constituent of a Mantra that cannot, and should not, be modified. To do so takes all power from the mantra. Indeed, it may become harmful.
 
 
 *[p. 155]* ^pg175
@@ -713,7 +713,7 @@ mantrāṇāṁ pañcadaśakaṁ parāṁ vā yojayet kramāt |
 
 [^387]: Māyā, as we have seen, is presided over by Vāgīśvarī.
 
-[^388]: \[illegible\] Read kathaṁ ca for kathaṁca.
+[^388]: Read kathaṁ ca for kathaṁca.
 
 [^389]: See above 15/(502-509) (498-505) concerning the rites of passage (saṁskāra).
 
@@ -759,7 +759,7 @@ He presents the Mantras used for making the offerings to the fire (homa) here:
 उच्चार्य पिबनीमन्रममुकात्मन इत्यथ ॥ ४३ ॥
 भोगे लयं करोमीति पुनर्मन्रं तमेव च ।
 
-[^392]: \[illegible\] The partners of eight Bhairavas, Aghora etc., have the same names in the feminine. The last of the eight in the forward order is Pibana Bhairava (the Drinking Bhairava), whose partner is Pibanī. For the names of eight parts of Parāparā Vidya, see below, note to 30/24cd-25ab. The six auxiliaries (aṅga) are presumably the usual ones of Parā (SAUH). The Weapon is normally listed last, so it appears that these too are also listed in reverse. Parā comes last, so 8 + 6 + 1. The ‘fifteen mantras’ are the eight parts of Parāparā, the six ancillaries of Parā, and Parā Herself. These are effectively Parāparā and Parā. Next follows Parā. Through these permutations of the Trika Vidyā, the disciple is bomn into the condition of a putraka — a ‘spiritual son’. As such, he also symbolically undergoes the four rites of passage relating to birth.
+[^392]: The partners of eight Bhairavas, Aghora etc., have the same names in the feminine. The last of the eight in the forward order is Pibana Bhairava (the Drinking Bhairava), whose partner is Pibanī. For the names of eight parts of Parāparā Vidya, see below, note to 30/24cd-25ab. The six auxiliaries (aṅga) are presumably the usual ones of Parā (SAUH). The Weapon is normally listed last, so it appears that these too are also listed in reverse. Parā comes last, so 8 + 6 + 1. The ‘fifteen mantras’ are the eight parts of Parāparā, the six ancillaries of Parā, and Parā Herself. These are effectively Parāparā and Parā. Next follows Parā. Through these permutations of the Trika Vidyā, the disciple is bomn into the condition of a putraka — a ‘spiritual son’. As such, he also symbolically undergoes the four rites of passage relating to birth.
 
 *[p. 161]* ^pg181
 
@@ -829,7 +829,7 @@ Then having invoked,[^398] worshipped and offered libation to the Lord of the Ea
 
 [^394]: See below, 17/47.
 
-[^395]: \[illegible\] 17/42 is a reworking of MV 9/61: \*(Next, after impregnation,) O goddess with beautiful eyes, the wise man who recites the mantras (should perform) the sacrament of birth by means (of the Parāparā Vidyā,) who is on the right prong (of the Trident), and generates the capacity to be the one who experiences what is to be experienced (as the consequence of past Karma).”
+[^395]: 17/42 is a reworking of MV 9/61: \*(Next, after impregnation,) O goddess with beautiful eyes, the wise man who recites the mantras (should perform) the sacrament of birth by means (of the Parāparā Vidyā,) who is on the right prong (of the Trident), and generates the capacity to be the one who experiences what is to be experienced (as the consequence of past Karma).”
 
 [^396]: 43 to 45306 is an explanation of MV 9/62: “Then the skilled (teacher) should offer correctly fifteen oblations with the Weapon, preceded by (the Mantras of attendant goddesses) beginning it d (then) with Parā.”
 
@@ -837,7 +837,7 @@ Then having invoked,[^398] worshipped and offered libation to the Lord of the Ea
 
 [^398]: This is done with Aparā Vidyā. Sce below, verse 116ab.
 
-[^399]: \[illegible\] The purpose of this rite is, as Jayaratha tells us, impregnation (garbhādhāna).
+[^399]: The purpose of this rite is, as Jayaratha tells us, impregnation (garbhādhāna).
 
 [^400]: MV 9/64cd-65ab. Quoted above ad 8/20cd-22ab.
 
@@ -871,9 +871,9 @@ aparāmantrataḥ śiṣyam uddhṛtyātmahṛdaṁ nayet || 53 |
 
 In the same way, the expert (teacher) should offer three oblations each to the Forces (kalā), Mantras, parts of Mantra (pada) and phonemes, either (to each one) separately, or else (all of them) together as a whole. Then, after having offered a full oblation with Parā and VAUṢAT at the 
 
-[^401]: \[illegible\] Read aparātmakam for aparāsatkam.
+[^401]: Read aparātmakam for aparāsatkam.
 
-[^402]: \[illegible\] Aparā Vidyā is mentioned in MV 4/24; see below, 30/26cd.
+[^402]: Aparā Vidyā is mentioned in MV 4/24; see below, 30/26cd.
 
 [^403]: “s HRĪH HÜM PHAṬ AMUKĀTMANO DHARĀTATTVE GARBHĀDHĀNAM KAROMI
 
@@ -914,7 +914,7 @@ If when one (Path) has been purified and (the teacher) thinks that the others ar
 ततः शिष्यहदं नेयः स आत्मा तावतोऽध्वनः ।। ५८ ॥
 शुद्धस्तदार्ढयसिद्धयै च प्रणी स्यात्परया पुनः ।
 
-[^405]: \[illegible\] Verse 53 is a paraphrase of MV 9/67. tataḥ pūrnāhutiṁ dadyāt parayā vauṣadantayā | sium utkṣipya cātmasthaṁ taddehasthaṁ ca kārayet ॥ 67 ॥ “Then he should offer a full oblation with Parā and VAUṢAF at the end, and having cast the disciple upwards (TĀ reads uddhytya ‘extracted’ for utkṣipya ‘cast upwards’), he should place him within himself and within the body (of the disciple).
+[^405]: Verse 53 is a paraphrase of MV 9/67. tataḥ pūrnāhutiṁ dadyāt parayā vauṣadantayā | sium utkṣipya cātmasthaṁ taddehasthaṁ ca kārayet ॥ 67 ॥ “Then he should offer a full oblation with Parā and VAUṢAF at the end, and having cast the disciple upwards (TĀ reads uddhytya ‘extracted’ for utkṣipya ‘cast upwards’), he should place him within himself and within the body (of the disciple).
 
 
 *[p. 165]* ^pg185
@@ -951,7 +951,7 @@ The teacher should unite in this way (the disciple) with (his) location within (
 
 [^406]: A more literal translation of the expression ‘rātsthyātmasaṁsthyayogāya’” could be: “in order to unite (yogāya) (the Self of disciple,) whose condition is that of being located within that (principle) (tātsthya), (with that of the teacher, whose condition is one of being) established within himself (ātmasaṁsthya).”
 
-[^407]: \[illegible\] 17/59 is a reworking of MV 9/68, that reads: āhutīnām trayan dadyād dattvā pūrnāhutiṁn budhaḥ | mahāpāśupatāstrenṇa vilomādiviíśuddhaye \\\\ \[illegible\] having (first) offered a full oblation with the great Pāśupata Weapon, the wise man should offer three oblations in order to purify (the Path) in reverse etc. Concerning the Pāśupata Weapon, see below 30/41cd.
+[^407]: 17/59 is a reworking of MV 9/68, that reads: āhutīnām trayan dadyād dattvā pūrnāhutiṁn budhaḥ | mahāpāśupatāstrenṇa vilomādiviíśuddhaye \\\\ \[illegible\] having (first) offered a full oblation with the great Pāśupata Weapon, the wise man should offer three oblations in order to purify (the Path) in reverse etc. Concerning the Pāśupata Weapon, see below 30/41cd.
 
 
 *[p. 166]* ^pg186
@@ -978,7 +978,7 @@ He should (now) meditate on how the purified Earth principle is mixed with (and 
 
     Supreme Goddess, having after that dismissed the principle (tativa) Vāgīsī, he should imagine then (that the) impure (lower) principle (Earth etc.) melts away, purified into the pure (level above it).
 
-[^410]: \[illegible\] Above, 17/31cd.
+[^410]: Above, 17/31cd.
 
 
 *[p. 167]* ^pg187
@@ -1025,7 +1025,7 @@ All that was said before he (now) transposes to the other principles.
 
 [^411]: MV 9/67cd-68, 6720 added for context.
 
-[^412]: \[illegible\] Above, 8/293ab (292cd).
+[^412]: Above, 8/293ab (292cd).
 
 [^413]: There are eight Vidyeśvaras. Their leader is Ananta, who governs the impure principles from Māyā downwards (8/346-352 (345cd-352ab). Their residence is in the upper reaches of Māyā, and so they are subject to it even though they are free of Karma.
 
@@ -1151,7 +1151,7 @@ This (initiate) should cultivate devotion for the teacher, God and the scripture
 
 [^419]: Read pāśaṁ bheda- for pāśabheda-.
 
-[^420]: \[illegible\] See above, 15/23cd-26.
+[^420]: See above, 15/23cd-26.
 
 [^421]: If this devotion were to be just a rule, it would be burnt away like the other rules. But in actual fact, it is a grace freely given by Śiva, and is an essential prerequisite even for those who, incapable of the observing the Rule, are given an initiation without seed.
 
@@ -1188,7 +1188,7 @@ That is said (in the Mālinīvijayottara, where we read):
 
 Surely here the Impurity of the individual soul (ānavamala) should be burnt away; so how is it that he has said that the Impurity of Māyā, which is the 
 
-[^422]: \[illegible\] See above, note 16,27.
+[^422]: See above, note 16,27.
 
 [^423]: Read māyāśaktimayī for māyā śaktimayī. See above, 17/9cd-10ab. Also, cf. MV 9/57.
 
@@ -1758,7 +1758,7 @@ ekatattve śataṁ prāhurāhutīnāṁ tu sāṣtakam || 120 ॥
 
 The number of oblations required for the Path of the Worlds should be doubled for the Path of the Principles and the Phonemes. It should be four times the number for the Path of the Parts of Mantra (pada), double that (i.e. eight) and then double that again (i.e. sixteen) for the Paths 
 
-[^457]: \[illegible\] ad 11/88. MV 9/73ab is quoted in TĀv ad 16/97-98.
+[^457]: MV 9/71cd-74ab. MV 9/71cd-73 quoted above in TĀv ad 11/88. MV 9/73ab is quoted in TĀv ad 16/97-98.
 
 *[p. 191]* ^pg211
 

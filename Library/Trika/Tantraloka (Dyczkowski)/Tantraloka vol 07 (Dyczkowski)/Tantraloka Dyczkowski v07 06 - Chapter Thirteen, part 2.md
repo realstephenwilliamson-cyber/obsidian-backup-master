@@ -181,7 +181,7 @@ Surely (one may ask), (agreed) that Impurity may not do anything at all to the s
 
 [^346]: See below, 13/68.
 
-[^347]: \[illegible\] Read ātmanāṁ for ātmanā.
+[^347]: Read ātmanāṁ for ātmanā.
 
 [^348]: According to the Sāṁkhya, a view also accepted by dualist Siddhāntins, a conscious, permanent reality cannot be subject to change (vikāra).
 
@@ -327,7 +327,7 @@ God, who is omniscient, observing that moment in time, blocks (the effects of th
 
 ‘That (moment in time)’ in which conflicting Karmas are perceived to be blocked. The cause of that observation is (the Lord’s) omniscience, (which is 
 
-[^356]: \[illegible\] Read kvāpi niyate for kvāpy aniyate.
+[^356]: Read kvāpi niyate for kvāpy aniyate.
 
 [^357]: According to the common Siddhānta view, although preceding Karmas may attain a state of maturity and are about to give rise to their fruits, they may be prevented from doing so by subsequent contrary Karmas that give rise to opposite results. In this way, they balance each other out and the individual soul is freed of the effects of its previous actions, namely, the pleasure and pain that would have arisen from them individually. At that time, God, through his omniscience, perceives this state of balance between karmic consequences that occurs at that moment in the individual soul, and graces it by removing its obscuring Impurity, thus revealing its innate divine, conscious nature.
 
@@ -497,7 +497,7 @@ Individual souls are (all) obscured by beginningless Impurity, and (their) natur
 
 Here (according to this view), individual souls are obscured by beginningless Impurity, and so are in all respects the same. Thus, it should 
 
-[^362]: \[illegible\] As all the factors involved in the maturing of Impurity up to its final end brought about by 0075 grace are beginningless, it is not possible to account for the fact that one particular individual attains liberation at a certain time and not another. If the soul’s state of bondage were to begin at a particular moment in time, one could account for the diversity of times that individuals attain liberation by the difference in time their state of bondage began. A tree planted ten years ago bears fruits, whereas one that was planted just a short time ago does not.
+[^362]: As all the factors involved in the maturing of Impurity up to its final end brought about by 0075 grace are beginningless, it is not possible to account for the fact that one particular individual attains liberation at a certain time and not another. If the soul’s state of bondage were to begin at a particular moment in time, one could account for the diversity of times that individuals attain liberation by the difference in time their state of bondage began. A tree planted ten years ago bears fruits, whereas one that was planted just a short time ago does not.
 
 
 *[p. 174]* ^pg194
@@ -537,11 +537,11 @@ If (you were to say) that it is due to the variety of the latent traces (left by
 
 ‘Beginningless’ qualifies the action (of the individual soul). Thus, having accepted[^365] that action is beginningless, (it follows that) that variety (of craving souls have for worldly experience) is due to the variety of the latent 
 
-[^363]: \[illegible\] See above, 9/61 and note.
+[^363]: See above, 9/61 and note.
 
-[^364]: \[illegible\] Read anādikarma- for anādi karma-.
+[^364]: Read anādikarma- for anādi karma-.
 
-[^365]: \[illegible\] Read svīkṛtvā for kṛtvā.
+[^365]: Read svīkṛtvā for kṛtvā.
 
 
 *[p. 175]* ^pg195

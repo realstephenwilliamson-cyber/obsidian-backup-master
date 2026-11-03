@@ -65,7 +65,7 @@ The rithi calculation is not a static angle, but one in which both luminaries ar
 
 [^592]: The tithis are each correlated the eight mothers (Brāhmī, \[illegible\] Kaumarī, etc) in TĀ
 
-[^593]: \[illegible\] mean sidereal angular motion is about 13.1764° or 13° 10' 35" per day.
+[^593]: The mean sidereal angular motion is about 13.1764° or 13° 10' 35" per day.
 
 *[p. 499]* ^pg514
 
@@ -114,11 +114,11 @@ as a conjunction or union (saṁgamanī).[^598] The Taittirīyasarihitā (3/5/1)
 
 [^595]: Four phases of \[1\] New Moon, \[2\] half waxing Moon, \[3\] Full Moon, \[illegible\] half waning Moon or an 8-phase system using \[1\] New Moon, \[2\] waxing crescent, \[3\] first quarter, \[4\] waxing gibbous, \[5\] full moon, \[6\] waning gibbous, \[7\] last quarter, \[8\] waning crescent.
 
-[^596]: \[illegible\] In Astronomy, the new moon is defined as the moment the Moon and Sun have the same ecliptical longitude (syzygy), which is the time marked on calendars as the new moon. See Syzygy. (nd.). Online Etymology Dictionary. Retrieved August 19, 2014, from Dictionary.com website: http://dictionaryreference.com/browse/syzygy
+[^596]: In Astronomy, the new moon is defined as the moment the Moon and Sun have the same ecliptical longitude (syzygy), which is the time marked on calendars as the new moon. See Syzygy. (nd.). Online Etymology Dictionary. Retrieved August 19, 2014, from Dictionary.com website: http://dictionaryreference.com/browse/syzygy
 
 [^597]: yat te devā akṛnvan bhāgadheyamamāvāsye sańvasanto mahitvā. Atharvaveda 7.84.1 (Amāvāsyā Sūkta)
 
-[^598]: \[illegible\] rātrī saṁgamanī vasūnāmūrjaṁ puṣtan vasvāveshayanīī. Atharvaveda 7.84.3 (Amāvāsyā Sūkta)
+[^598]: āgan rātrī saṁgamanī vasūnāmūrjaṁ puṣtan vasvāveshayanīī. Atharvaveda 7.84.3 (Amāvāsyā Sūkta)
 
 [^599]: Syzygy refers to when the Sun, Moon and Earth are in a straight line, which happens at either conjunction or opposition. In this way, it can refer to the end of Amāvāsyā and the beginning of sukla pratipad or the end of Pūrṇima and the beginning of kṛsna pratipad.
 
@@ -342,7 +342,7 @@ The elliptical orbit of the moon
 
 [^613]: These calculations will vary over the centuries.
 
-[^614]: \[illegible\] Eccentricity of the Earth's orbit has a cycle of 413,000 years because of the gravitational interaction with Jupiter and Saturn according to the Milankovitch Cycles.
+[^614]: Eccentricity of the Earth's orbit has a cycle of 413,000 years because of the gravitational interaction with Jupiter and Saturn according to the Milankovitch Cycles.
 
 
 *[p. 510]* ^pg525

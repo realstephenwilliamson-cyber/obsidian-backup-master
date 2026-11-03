@@ -1,0 +1,15 @@
+READING SHORT SPOTS ON PRINTED PAGES (Dyczkowski's books, 3 Nov 2026). Reading only: write nothing but your output file.
+
+Each case iNN has one image, /home/claude/p234/img/<case>.png (a strip cut from a page, or a whole page), headed "CASE <id>".
+Your task file gives, for each case, a few words AS A COMPUTER READ THEM (they may contain small errors) and a question about what
+is printed right after those words. Find the words on the image, then copy EXACTLY what the print has at that spot.
+- Copy characters as printed: digits, letters with diacritics (ā ī ū ṛ ṣ ś ṇ ṭ ḍ ṁ ḥ ñ ṅ), hyphens and dashes, spaces,
+  parentheses and brackets, and the Sanskrit verse-end marks (a single bar | or a double bar ||; write them with the ordinary
+  vertical bar character).
+- Copy only what the question asks for, nothing more. Do not correct the print and do not guess: if the spot is unclear, write
+  "unclear"; if you cannot find the words, found = false.
+
+Output: JSON Lines at the path in your task, one line per case, in the order of your list:
+{"id": "r01", "found": true, "printed": "exact characters", "note": "at most 12 words"}
+Open each image once with the Read tool. Never write the divine name (the four-letter name of God) in any form. At the end check that
+every case has one line and each parses as JSON. Reply with one line of counts.

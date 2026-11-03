@@ -195,7 +195,7 @@ Supreme Śiva Makes Himself Known
 
 [^8]: Supreme Śiva is the thirty-seventh principle beyond the thirty-sixth, and so transcends the Forces (kalātīta).
 
-[^9]: \[illegible\] See below, 11/21cd-22ab.
+[^9]: See below, 11/21cd-22ab.
 
 
 *[p. 6]* ^pg26
@@ -276,7 +276,7 @@ uktā tathāpy apratighe nāsminn āvṛtisaṁṁbhavaḥ |
 
 [^12]: See places listed in previous note.
 
-[^13]: \[illegible\] Here again Jayaratha is addressing the mistake of identifying the principle — tattva —of Śakti, and the station of development of Sound that is also called Śakti.
+[^13]: Here again Jayaratha is addressing the mistake of identifying the principle — tattva —of Śakti, and the station of development of Sound that is also called Śakti.
 
 
 *[p. 8]* ^pg28
@@ -338,7 +338,7 @@ Our teachers say (with regard to this objection) that apart from the group of fi
 
 Apart from the group of five (gross elements), that is, Earth and the rest, which is proved to exist by direct perception, nothing else exists. Thus, all the universe arises by taking the support of that foundation. This is the meaning. As that is (at the level of) ‘objectivity’, thirty principles arise individually by the power of the aforementioned group of five causes. And in this way at least, there is no disagreement that Earth and the rest, in gross and subtle form, constitute two groups of five (i.e. the gross and subtle elements). Moreover, by 
 
-[^16]: \[illegible\] PS 17ab. PS 16cd-17 is quoted above ad 1/39-40. PS 17cd is quoted ad 9/204; see there for Yogarāja’s commentary on the whole verse. The point Abhinava is making here is that the means of knowledge and the individual perceiver and agent presuppose the existence of the object of knowledge and action. The basis of the cognitive process is the object of knowledge, which consists of five gross elements. A cause, to be a cause, must have an effect associated with it; similarly, an agent, to be an agent, must perform an action. This is not possible without instruments of action, whether they are those of the inner mental organ or the outer physical hands and the like. The inner mental organ is considered to be the impelling cause of the activity of the organs of action of the body and the senses, that are the organs of sensory perception. Even so, it is external to the Self, which is ultimately the sentient agent, and so they are external, that is, secondary causes, that thus are a part of external objective phenomena. The agent manifests through a series of ancillary causes, such as the intellect that assists it. The same applies to the five obscuring coverings (kañcuka), as these are factors that render the individual soul into an agent and a perceiver. In this way, the five groups of 1) the subtle sensations, 2 and 3) senses of knowledge and action, 4) inner mental organ, Nature and the individual self, along with 5) the obscuring coverings constitute, together with the five gross elements, constitute thirty principles that make up the sphere of objectivity based on the gross elements.
+[^16]: PS 17ab. PS 16cd-17 is quoted above ad 1/39-40. PS 17cd is quoted ad 9/204; see there for Yogarāja’s commentary on the whole verse. The point Abhinava is making here is that the means of knowledge and the individual perceiver and agent presuppose the existence of the object of knowledge and action. The basis of the cognitive process is the object of knowledge, which consists of five gross elements. A cause, to be a cause, must have an effect associated with it; similarly, an agent, to be an agent, must perform an action. This is not possible without instruments of action, whether they are those of the inner mental organ or the outer physical hands and the like. The inner mental organ is considered to be the impelling cause of the activity of the organs of action of the body and the senses, that are the organs of sensory perception. Even so, it is external to the Self, which is ultimately the sentient agent, and so they are external, that is, secondary causes, that thus are a part of external objective phenomena. The agent manifests through a series of ancillary causes, such as the intellect that assists it. The same applies to the five obscuring coverings (kañcuka), as these are factors that render the individual soul into an agent and a perceiver. In this way, the five groups of 1) the subtle sensations, 2 and 3) senses of knowledge and action, 4) inner mental organ, Nature and the individual self, along with 5) the obscuring coverings constitute, together with the five gross elements, constitute thirty principles that make up the sphere of objectivity based on the gross elements.
 
 [^17]: The fifteen Principles are the five instruments of action (the feet, hands, sex organ, anus and speech), the three constituents of the mental organ (mind, ego and intellect), Nature, the individual soul, and the five obscuring coverings (kañcuka). All of these Principles are involved in the formation and implementation of the activity of the individual soul who is the agent of that activity.
 
@@ -396,7 +396,7 @@ made of (their) five Mantras.[^22] (20)
 
 [^22]: See below, 15/203cd-204ab. We can tabulate all these correspondences as follows: Gross Subtle Organs of Organs of Mind to Kañcukas Elements Elements Action Knowledge Puruṣa Earth- K Smell - C Genitals - Ṭ Nose- T Mind - P Necessity Water-Kh Taste -Ch Anus-TṬh Tongue - Th Ego - Ph Time Fire -G Form-J Feet - D Eyes- D Intellect-B Attachment Air- Gh Touch -Jh Hands - Dh Skin - Dh Prakṛti -Bh Knowledge Space-ŃÑ Sound-Ñ Speech -N Ears- N Puruṣa - M Agency Gross Mantras Energies Icons States Forces Elements ete Earth Pure Action Sadyojāta Waking Nivṛti Knowledge Water Īśvara Knowledge Vāmadeva Dreaming Pratiṣthā Fire Sadāśiva Will Aghora Deep Sleep Vidyā Air Śakti Bliss Tatpuruṣa Fourth Śānta Space Śiva Consciousness Īśāna Beyond the Śāntātīta Fourth
 
-[^23]: \[illegible\] The printed edition of the Sārdhatriśati reads prakīrtitaḥ for prakīrtitāḥ (which is also the reading of MSs I, Ī and U of the Sārdhatriśati). The meaning would then be: ‘Vāmadeva is famed as Water (āpas).”
+[^23]: The printed edition of the Sārdhatriśati reads prakīrtitaḥ for prakīrtitāḥ (which is also the reading of MSs I, Ī and U of the Sārdhatriśati). The meaning would then be: ‘Vāmadeva is famed as Water (āpas).”
 
 [^24]: Sārdhatriśatikālottara 22/12-13ab. As Abhinava and Jayaratha mostly quote from this recension of the Kālottara, 1 take this be the source. These lines are also found in at least three other versions of the Kālottara. They are 1) the Dviśataka (18/13-14ab fl. 8b) —there are no variants with respect to Jayaratha’s citation. 2) The Saptaśataka (16/13- 14ab fl. 12a) 14b here reads svayaṁ devaḥ sadāśivaḥ for svayańn devo maheśvaraḥ. 3) The Trayodaśaśatika (folio 27a) — there the reading is aghoraḥ śikhim for aghoras teja and the third line is īśānan tu bhaved vyomar eva bhūtāḥ pratiṣṭhitāḥ instead of ākāśas tu bhaved īśaḥ svayaṁ devo maheśvaraḥ | The five elements are related to the five faces of Sadāśiva, and are emblematic of the constitutive groups of five governed by the five faces. For example, in Kālottara fl. 2a: pṛthivy āpara (> āpas) tathā tejo vāyur ākāśam eva ca | pañcatanmātrakaṁ cānyad buddhikarmendriyātmakam || mano ‘haṁkārabuddhis tu gunākhyaṁ layasaṁjñikam | puruṣaś ca kalā kālo viṣvārāgo (> viśvarāgo) niyāmikā || etat kancukam ity ukta martrastāravibhedakam (mantrasphāra-) | māyā kaṁcukavaj jñeyā tuṣava (> tuṣavac) ca kalādikam || śivecchāvidhisaṁsiddhā māyeva sahajo malaḥ | pṛthivyādipradhānāmitam ekamāyātmakaṁ nayaḥ İl ‘Earth, Water, Fire, Air and Space (is one pentad), and another is (the group of) five sensations (tanmātra), and that consisting of the organs of cognition and action. The mind, ego, intellect, (the reality principle), called the (three) qualities, and the one called ‘dissolving away’ (laya) (i.e. unmanifest Prakṛti) (these together make another pentad). (Another is made up of) Puruṣa (the individual soul), Kalā (the power of limited agency), Kāla (Time), universal Rāga (Attachment), and Niyāmikā (the constraining power of consequence). This (group of five) is said to be the obscuring covering (kaṁcuka) (of the individual soul) associated with the unfolding (expanse) of Mantras.
 
@@ -513,7 +513,7 @@ This does not entail in this way an infinite regress. Let the wise consider the 
 
 [^31]: The same quotation is found above in TĀv ad 2/32cd-33ab (see note there), and below in TĀv ad 29/95.
 
-[^32]: \[illegible\] Jayaratha’s characterization of the thirty-eighth principle as ‘(pure awakened) consciousness alone’ (bodhamātra) mirrors Abhinava’s statement above (in 6/179cd), where he refers to it as cinmātram eva, which means the same. But there he adds that it is ‘the Goddess. She is Parā, the Supreme Goddess (parameśvarī). She is the thirty-eighth principle, the Heart which is beyond the supreme.” (6/180-181 (179cd-181ab)) Bhagavadutpala says the same about Śiva who, he explains, is both without a name (nirnāma) and yet all names (sarvanāma), because he is everything. (Dyczkowski 1987: 103-104 also Dyczkowski 1992a: 141).
+[^32]: Jayaratha’s characterization of the thirty-eighth principle as ‘(pure awakened) consciousness alone’ (bodhamātra) mirrors Abhinava’s statement above (in 6/179cd), where he refers to it as cinmātram eva, which means the same. But there he adds that it is ‘the Goddess. She is Parā, the Supreme Goddess (parameśvarī). She is the thirty-eighth principle, the Heart which is beyond the supreme.” (6/180-181 (179cd-181ab)) Bhagavadutpala says the same about Śiva who, he explains, is both without a name (nirnāma) and yet all names (sarvanāma), because he is everything. (Dyczkowski 1987: 103-104 also Dyczkowski 1992a: 141).
 
 
 *[p. 17]* ^pg37
@@ -642,7 +642,7 @@ But the author (Abhinavagupta) in (Chapter Nine,) (which is called) the Explanat
 
 [^43]: MV 6/6ab.
 
-[^44]: Abhinava does refer to the thirty-eighth principle elsewhere (see 6/(180-181) (179cd- 18180), but presents it there as the Goddess Parā, who can be the Trika Mālinī or Kālīkrama Kālasaṁkarṣiṇī. In actual fact, he does not refer to principles beyond the thirty-sixth in Chapter Nine. This makes sense, as he is basically following the Siddhānta from the Pratyabhijñā nondualist perspective, that understands the higher pure principles as phases of the dynamics of creative oneness. Although the addition of two reality levels does serve to enhance this vision of oneness, its function is above all to install the Trika and Krama Goddess as the ultimately supreme deity of consciousness.
+[^44]: Abhinava does refer to the thirty-eighth principle elsewhere (see 6/(180-181) (179cd-181ab), but presents it there as the Goddess Parā, who can be the Trika Mālinī or Kālīkrama Kālasaṁkarṣiṇī. In actual fact, he does not refer to principles beyond the thirty-sixth in Chapter Nine. This makes sense, as he is basically following the Siddhānta from the Pratyabhijñā nondualist perspective, that understands the higher pure principles as phases of the dynamics of creative oneness. Although the addition of two reality levels does serve to enhance this vision of oneness, its function is above all to install the Trika and Krama Goddess as the ultimately supreme deity of consciousness.
 
 [^45]: The numbers here, as in Jayaratha’s explanation of this passage, refer to the number of the reality principles in their standard serial order.
 
@@ -713,7 +713,7 @@ Lambikā (uvula) ~ Māyā
 
 [^54]: The principle of attachment is the sense of craving in general, to which the individual soul is subject. Directed by past Karma, latent tendencies and other factors, this generic craving focuses down to specific worldly desires for particular objects, and so is their underlying basis. See above, 9/62. This ‘connection’ (vyāpti) is a ‘pervasive’ (vyāpti) characteristic of all individual living beings.
 
-[^55]: \[illegible\] Swami Lakshmanjoo (personal communication): The throat (Kuntha) is a recognized place where the Guru places his fingers to initiate the disciple.
+[^55]: Swami Lakshmanjoo (personal communication): The throat (Kuntha) is a recognized place where the Guru places his fingers to initiate the disciple.
 
 
 *[p. 25]* ^pg45
@@ -738,7 +738,7 @@ The Principle of Śakti — The Six Wheels beyond the Cavity of Brahmā
 
 [^56]: Here, as above (see TĀv ad 3/1 10cd-11 lab (1 10) and note, 3,357), the word ‘bindu’ is read as ‘vindu’, which is easily done, as there is no distinction between the letters ‘v’ and ‘b’ in written form. It is then derived from the root ‘vid’ in the sense of ‘to know’. The word ‘vedana’ ((noetic) awareness) is derived from the same root as ‘vidy’ (knowledge).
 
-[^57]: \[illegible\] ĪP 3/1/3a. Also quoted above in TĀv ad 11/28 and below ad 30/12cd-14ab. ĪP 3/1/3cd is quoted ad 4/140, see note there and Jayaratha in TĀv ad 6/39cd-40ab.
+[^57]: ĪP 3/1/3a. Also quoted above in TĀv ad 11/28 and below ad 30/12cd-14ab. ĪP 3/1/3cd is quoted ad 4/140, see note there and Jayaratha in TĀv ad 6/39cd-40ab.
 
 
 *[p. 26]* ^pg46
@@ -1070,7 +1070,7 @@ siṣyaṁ ca gatabhogāśam uditaḥ śarṁbhunā yataḥ |
 
 *[p. 39]* ^pg59
 
-Śambhu has explained this procedure for (just) one principle (ekatattvavidhi) to the well awakened (suprabuddha) teacher and the disciple whose desire for worldly enjoyment (bhoga) has ceased.[^90] (40cd- 4lab) 
+Śambhu has explained this procedure for (just) one principle (ekatattvavidhi) to the well awakened (suprabuddha) teacher and the disciple whose desire for worldly enjoyment (bhoga) has ceased.[^90] (40cd-41ab) 
 
 #### Viveka on 11.40–41
 
@@ -1187,7 +1187,7 @@ Although it is silent, it does not abandon its nature as reflective awareness, i
 
 ‘The (wise) know that the (essential) nature of the light (of manifestation) (avabhāsa) is reflective awareness; otherwise, (if that were not 
 
-[^93]: \[illegible\] Jayaratha is saying that the word ‘pada’ is derived from the root pad, in the sense of ‘knowing’ (padyate jñāyate ‘nenārtha ity avagamātmakami padam).
+[^93]: Jayaratha is saying that the word ‘pada’ is derived from the root pad, in the sense of ‘knowing’ (padyate jñāyate ‘nenārtha ity avagamātmakami padam).
 
 [^94]: Read nihspandākṣobhitaṁ for nihspandakṣobhite.
 
@@ -1271,7 +1271,7 @@ The intense pulsation of power (Śaktiparispanda) (takes place) first there in t
 
 It was said previously many times that this division into six Paths is heralded by that, namely, ‘the pulsation of power’. (If we accept the reading tasya meaning) ‘of that’ (sixfold Path), it refers solely to the relationship (between the Path and the pulsation of power). (If we accept the reading tatra meaning) ‘there’, (it functions) as a locative, indicating thereby that (the six-fold Path) is fixed into that (pulsation of power, which serves as) its foundation 
 
-[^100]: \[illegible\] The following verses from 51cd (51) to 54ab (53) are a summary of MV 2/50cd-57, that is quoted in full by Jayaratha below in TĀv ad 11/51-53. The rite of initiation involves the purification of one or other of the six Paths, as the teacher chooses. Normally, when one of them is purified, the others are purified also (see below, 11/82cd-85ab).
+[^100]: The following verses from 51cd (51) to 54ab (53) are a summary of MV 2/50cd-57, that is quoted in full by Jayaratha below in TĀv ad 11/51-53. The rite of initiation involves the purification of one or other of the six Paths, as the teacher chooses. Normally, when one of them is purified, the others are purified also (see below, 11/82cd-85ab).
 
 [^101]: See above, 1/106cd-1 13ab (107-113).
 

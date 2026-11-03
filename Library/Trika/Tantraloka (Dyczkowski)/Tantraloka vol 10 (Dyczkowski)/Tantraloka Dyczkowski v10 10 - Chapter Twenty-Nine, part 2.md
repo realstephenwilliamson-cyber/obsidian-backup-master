@@ -581,7 +581,7 @@ He (now) explains why she is the main one.
 सङ्कर्षण तदन्तान्त संहाराप्यायकारिणी ॥ ६९ ॥
 एकवीरा चकर युक्ता चक्रे यामलगापि वा । |
 
-[^163]: \[illegible\] This is JY 4/21/62cd-64 (MS K fl. 149a Kh fl. 130a G fl. 186a), that reads in the manuscripts: 149a) mātaṁgīveśma subhage prayāgaṁ parikīrtitam ॥ 62 ॥ kajjalī vārunākhyaṁ ca (g: : nāsti\] śaundī (TĀ saunī kaulagiri) kaulagṛhe priye | kamdukī (TĀ karmukī) cāṇahāsaḥ tu jayantīī carmaraṁginī (+ carmacaṭginī; kh g: carmacaṁginī\] (TĀ carmakārinī) ॥ 63 ॥ caritrar dhvajinī proktaṁ ekāmrāsthividārinī \[kh: ekāmrāstha-J | 11111111. navamaṁ cakrinīpīṭhar yat surairapi durlabham | 64 ॥ The variant names in the citation by Jayaratha are noted in brackets after the name and labelled TĀ. In the following passage from the same source, their inner locations are listed. These are recorded in the following chart. idā suṣumne samghaṭte \[kh g: suṣumne-\] prayāgaṁ varavarnini ॥ 70॥ varunākhyaṁi bhruvor \[g: bhūvār\] madhye kaulari lambikayā tathā | nāsāgram cāṭtahāsaṁ tu jayantī tālarandhrake || 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkotari tu kandasthari jñātvā paryaṭanaṁi bhavet Il 72 ॥ kandorddhvā kundalī śaktir yayā \[k, kh, g: yathā\] vai mohitar jagat | etat te kathitaṁ sarvan kim anyaṁ vada bhairavi I| 73 I| YY 4/20/70cd-73 Low-Caste Wives, their Sacred Sites and Inner Locations Low-Caste Woman | Sacred Site | ImnerSite \] Mātaṅgī (Sweeper) Prayāga Union of Idā and Piṅgalā Kajjalī (Collyrium Maker) Varunā Between the Eyebrow aundi (Butcher) | Kaulagii | Uvula Kandukī /Kārmukī Att.ahāsa Tip of the Nose Barber / Bowmaker) (फफ \` Jayanti Cavity of the Palate Leather dyer) Dhvajini (Liquor Seller Caritrā Above Bindu Asthividāriṇī Ekāmra (Āmraka) Navel Bone breaker) Mātsyakī (?) (Fisherwoman) Devikotta The Bulb Cakrinī (Miller) | Haimapura | Kundalini Above the Bulb
+[^163]: This is JY 4/21/62cd-64 (MS K fl. 149a Kh fl. 130a G fl. 186a), that reads in the manuscripts: 149a) mātaṁgīveśma subhage prayāgaṁ parikīrtitam ॥ 62 ॥ kajjalī vārunākhyaṁ ca (g: : nāsti\] śaundī (TĀ saunī kaulagiri) kaulagṛhe priye | kamdukī (TĀ karmukī) cāṇahāsaḥ tu jayantīī carmaraṁginī (+ carmacaṭginī; kh g: carmacaṁginī\] (TĀ carmakārinī) ॥ 63 ॥ caritrar dhvajinī proktaṁ ekāmrāsthividārinī \[kh: ekāmrāstha-J | 11111111. navamaṁ cakrinīpīṭhar yat surairapi durlabham | 64 ॥ The variant names in the citation by Jayaratha are noted in brackets after the name and labelled TĀ. In the following passage from the same source, their inner locations are listed. These are recorded in the following chart. idā suṣumne samghaṭte \[kh g: suṣumne-\] prayāgaṁ varavarnini ॥ 70॥ varunākhyaṁi bhruvor \[g: bhūvār\] madhye kaulari lambikayā tathā | nāsāgram cāṭtahāsaṁ tu jayantī tālarandhrake || 71 ॥ vindūpari caritrā ca ekāmrā nābhigocare | 130b kh) devīkotari tu kandasthari jñātvā paryaṭanaṁi bhavet Il 72 ॥ kandorddhvā kundalī śaktir yayā \[k, kh, g: yathā\] vai mohitar jagat | etat te kathitaṁ sarvan kim anyaṁ vada bhairavi I| 73 I| YY 4/20/70cd-73 Low-Caste Wives, their Sacred Sites and Inner Locations Low-Caste Woman | Sacred Site | ImnerSite \] Mātaṅgī (Sweeper) Prayāga Union of Idā and Piṅgalā Kajjalī (Collyrium Maker) Varunā Between the Eyebrow aundi (Butcher) | Kaulagii | Uvula Kandukī /Kārmukī Att.ahāsa Tip of the Nose Barber / Bowmaker) (फफ \` Jayanti Cavity of the Palate Leather dyer) Dhvajini (Liquor Seller Caritrā Above Bindu Asthividāriṇī Ekāmra (Āmraka) Navel Bone breaker) Mātsyakī (?) (Fisherwoman) Devikotta The Bulb Cakrinī (Miller) | Haimapura | Kundalini Above the Bulb
 
 *[p. 262]* ^pg279
 
@@ -651,7 +651,7 @@ And ending with:
 
 [^170]: Read, as Sanderson (2007b: 248 n 167) suggests, jihvayā for jihvayoḥ.
 
-[^171]: \[illegible\] The Vidyā of Kālasaṁkarṣiṇī, consisting of seventeen phonemes presented here, is: HRĪM MAHĀCANDAYOGEŚVARI TṬHR (M) DHR (M) THR (M) PHAṬ PHAT PHAT PHA’ AT. Sanderson (20070; 284) explains that ‘this is the basic Vidyā of the goddess Kālasaṁkarṣiṇī in the Jadrathayāmala. He notes that ‘the anusvāraḥ after each of these syllables is not taught in these verses, but this is such a surprising irregularity that I have assumed that the absence was not intended and that either their presence was to be understood or that a line has been lost in which it was prescribed.’ (ibid. n 167).
+[^171]: The Vidyā of Kālasaṁkarṣiṇī, consisting of seventeen phonemes presented here, is: HRĪM MAHĀCANDAYOGEŚVARI TṬHR (M) DHR (M) THR (M) PHAṬ PHAT PHAT PHA’ AT. Sanderson (20070; 284) explains that ‘this is the basic Vidyā of the goddess Kālasaṁkarṣiṇī in the Jadrathayāmala. He notes that ‘the anusvāraḥ after each of these syllables is not taught in these verses, but this is such a surprising irregularity that I have assumed that the absence was not intended and that either their presence was to be understood or that a line has been lost in which it was prescribed.’ (ibid. n 167).
 
 [^172]: JY 4/20/173ab (MS K fl. 143b, Kh fl. 124a, G fl. 177b). The complete passage in which the Vidyā is given is JY 4/20/173-177ab. Unfortunately, it is very corrupt. The Kālīkrama does not teach Mālinī as we find in the Trika and its close relative, the Kubjikā Tantras.
 
@@ -1141,7 +1141,7 @@ O fair lady, the repetition of eleven hundred thousand (takes place) 1) in the e
 
 ‘The (locus of) emergence (of the vital breath)’ is the Foundation of Birth, which is the location of the emergence of the power of the vital breath. ‘The union (of the channels of the vital breath)’ (takes place) in the heart, where many channels (of the vital breath) are conjoined. “The tranquillity (of the repose of the breath)’ is profound concentration simultaneously (of all the movement of the breath) in order to block the (flow) of the breath. ‘Going and coming’ is the flow of exhalation (prāṇa) and inhalation (apāna). “The thread’ is the foundation (bhū) of the threads of the wheels of the channels of the senses. ‘The one called Haṁsa’ is the Heart, that makes the Self manifest. ‘The couple’ is the union of Śiva and Śakti, which (takes place) in the Foundation of Birth or in the End of the Twelve. ‘The genitals’ is the Foundation of Birth. ‘What is associated with the genitals’ is the cavity which is in the cave (guhā) of the (female sexual organ) as its condition (guhya). Secondarily characterized by that is the space (ka), that is, the ‘cavity of space’ (karandhra), which is the Cavity of Brahma (brahmabila) (on the crown of the head). ‘The hundred spokes’ and ‘the thousand spokes’ are the many channels (of the vital breath), which are such and the like in countless (numbers). The place in ‘the centre’ is, (depending on the context,) the heart and the navel. This is the meaning. The word also (in the phrase,) ‘here also the oblations’, indicates implicitly that (the number of) oblations that should be 
 
-[^210]: \[illegible\] Read āsye guhye ca guhyake Sataresu ca madhyasthe for āsyaṁ guhyaṁ ca guhyakam śatāreṣu ca madhyasthaṁ. This emends all the entries to locatives, as translated. Maybe no emendation is required. We may take this to be a rare case where Abhinava quotes so literally from his source that he does not bother to correct the deviant (aiśa) Sanskrit of the original. In the following lines, there are a series of dual numbers that cannot be emended to the equivalent locative without disrupting the metre. These must read as they are, assuming that the deviant Sanskrit took accusatives to stand for locatives.
+[^210]: Read āsye guhye ca guhyake Sataresu ca madhyasthe for āsyaṁ guhyaṁ ca guhyakam śatāreṣu ca madhyasthaṁ. This emends all the entries to locatives, as translated. Maybe no emendation is required. We may take this to be a rare case where Abhinava quotes so literally from his source that he does not bother to correct the deviant (aiśa) Sanskrit of the original. In the following lines, there are a series of dual numbers that cannot be emended to the equivalent locative without disrupting the metre. These must read as they are, assuming that the deviant Sanskrit took accusatives to stand for locatives.
 
 
 *[p. 280]* ^pg297
@@ -1303,7 +1303,7 @@ sākam bāhyasthayā śaktyā yadā tv eṣa samarcayet |
 
 [^223]: See above 4/146 ff. In Chapter Five (19cd-34ab), the Twelve Kālis as Anuttaracakra are also said to be experienced as a great fire that consumes everything into the emptiness of contentless consciousness.
 
-[^224]: \[illegible\] Above, 4/123cd.
+[^224]: Above, 4/123cd.
 
 [^225]: Also quoted above TĀv ad 2/32cd-33ab (see note there) and 11/22.
 
@@ -1335,7 +1335,7 @@ It is said in the Yogasaṁcāra that one should abide (without wavering in the 
 
 #### Viveka on 29.97
 
-[^228]: \[illegible\] This rite is called Ādiyāga; sce below, 29/164-66ab.
+[^228]: This rite is called Ādiyāga; sce below, 29/164-66ab.
 
 [^229]: The texts oscillate between two spellings of the word, cither dūtiḥ or dūtī.
 

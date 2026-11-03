@@ -142,7 +142,7 @@ and then conjoin him to the Supreme Reality.’[^531]
 
 [^529]: See below 29/236 ff.
 
-[^530]: \[illegible\] See 30/55cd-57.
+[^530]: See 30/55cd-57.
 
 [^531]: Abhinava quotes these lines below in 16/182 and 19/8, telling us that they are from the Gahvaratantra. Jayaratha quotes this verse above in TĀv ad 9/130cd-131ab. Kṣemarāja quotes it in SvTu ad 4/148cd-149.
 
@@ -300,7 +300,7 @@ Now he describes the remaining (form of) the descent of the power (of grace), wh
 
 [^536]: TSā chapter 11 p. 123.
 
-[^537]: \[illegible\] Read dehabhūmyālpatā- for dehabhūmālpatā-.
+[^537]: Read dehabhūmyālpatā- for dehabhūmālpatā-.
 
 [^538]: Initiates are of four kinds: 1) A common observer of the Rule (samayin) 2) An adept (sādhaka) 3) and 4) Apprentice (putraka) who is destined to become a teacher (ācārya), which is the fourth kind. Again, initiates may be two kinds. He may be a Śivadharmin or Lokadharmin. Concerning the distinctions see below, 15/1 ff. and notes.
 
@@ -410,7 +410,7 @@ power, he is led to a true teacher.’[^546] (248cd-249)
 
 #### Viveka on 13.248–249
 
-[^545]: \[illegible\] Above, 13/201. Abhinavagupta says that this statement refers to someone who has received intensely intense descent of grace, not just a moderately intense one. Note that according to both views Śiva does this directly, unmediated by a teacher. This is the point.
+[^545]: Above, 13/201. Abhinavagupta says that this statement refers to someone who has received intensely intense descent of grace, not just a moderately intense one. Note that according to both views Śiva does this directly, unmediated by a teacher. This is the point.
 
 [^546]: This is an explanation of MV 1/44.
 
@@ -569,7 +569,7 @@ from Śiva’s \[illegible\][^558] (256cd-257ab)
 
 ‘In neither case (of these two types) is (their) operation (vyāpāra) that of Karma and the like (that operates) within Māyā.’ The meaning is that the descent of the power (of grace) is not brought about by that. The reason for this is (stated) by way of the description (of Karma’s nature, namely that it) ‘(operates) within Māyā’. The intended sense is that the Karma and the like of the soul is the instrumental cause of its presence within (the domain of) Māyā, so how can it become an instrument of its transcendence? As was said before: 
 
-[^558]: \[illegible\] See above 13/113cd-116.
+[^558]: See above 13/113cd-116.
 
 
 *[p. 285]* ^pg307
@@ -889,7 +889,7 @@ sa parar prakṛter budhne sṛsti nāyāti jātucit ॥ 274 ॥ māyādhare tu 
 
 #### Viveka on 13.274–275
 
-[^571]: \[illegible\] Read with MS Th puṁsaḥ for parsaḥ.
+[^571]: Read with MS Th puṁsaḥ for parsaḥ.
 
 [^572]: Above, 9/185; cf also 9/90cd-92ab.
 
@@ -1333,9 +1333,9 @@ Four Grades of Initiates According to the Intensity of Grace
 कश्चिदरुद्रांशतामात्रापाटनात्तत्प्रसादतः ।। २९६ ॥।
 शिवत्वं क्रमशो गच्छेत् समयी यो निरूप्यते ।
 
-[^594]: \[illegible\] The only surviving commentary on the Mataṅgapārameśvara is by Rāmakanṇṭha. Abhinava refers to the existence of other Siddhāntins who commented on the Mataṅgatantra above in 9/260cd-261ab, whom he calls ‘my teachers’. According to Jayaratha, one of these was Aniruddha. If this is an honorific plural, he may have been the only one, but this is probably not so. Somānanda (SDr 3/14cd) refers to a vyākhyāniguru who also wrote a commentary. See note to 9/260cd-261ab. It seems that Jayaratha did not have access to his work; otherwise, he would have probably quoted him, not just the verse on which he comments.
+[^594]: The only surviving commentary on the Mataṅgapārameśvara is by Rāmakanṇṭha. Abhinava refers to the existence of other Siddhāntins who commented on the Mataṅgatantra above in 9/260cd-261ab, whom he calls ‘my teachers’. According to Jayaratha, one of these was Aniruddha. If this is an honorific plural, he may have been the only one, but this is probably not so. Somānanda (SDr 3/14cd) refers to a vyākhyāniguru who also wrote a commentary. See note to 9/260cd-261ab. It seems that Jayaratha did not have access to his work; otherwise, he would have probably quoted him, not just the verse on which he comments.
 
-[^595]: \[illegible\] MPĂ vidyāpāda 4/44. The printed edition of the MPĀ reads yāvat unmīlanī ‘to the degree in which . . . for yadāsyonmīlinī ‘if His . . \`. It reads sā pataty atitejasvi for nipataty atitejaskā. The meaning is the same. The common expression rāgena rañjitaḥ literally means ‘coloured with colour’; by extension, it means ‘affected/ delighted /moved / charmed by passion / affection / attachment. In this context I have translated ‘moved by love for Śiva’.
+[^595]: MPĂ vidyāpāda 4/44. The printed edition of the MPĀ reads yāvat unmīlanī ‘to the degree in which . . . for yadāsyonmīlinī ‘if His . . \`. It reads sā pataty atitejasvi for nipataty atitejaskā. The meaning is the same. The common expression rāgena rañjitaḥ literally means ‘coloured with colour’; by extension, it means ‘affected/ delighted /moved / charmed by passion / affection / attachment. In this context I have translated ‘moved by love for Śiva’.
 
 *[p. 306]* ^pg328
 

@@ -200,7 +200,7 @@ Well then, can this division of Time also take place within the Pervasive Breath
 
 [^426]: See below, 7/68cd-70ab. TSRP p. 59: ‘the circulation of udāna is from the heart up to the Śaktidvādaśānta. It is responsible for digestion. The main difference between \[prana and udāna is that the former circulates between the heart and the external twelve finger space, whereas the latter circulates from the heart to the upper twelve finger space. Another difference is that the circulation of prāṇa is very clearly evidently perceived, whereas that of udāna is very subtle and so is not perceived. However, the yogi who has conquered prāṇa does experience the circulation of udāna because he has a very subtle intuitive sense (dhiṣanā).’ We remind the reader that the ‘external twelve finger space’ also called the ‘nasal End of the Twelve’ is beyond the end of the nostrils and so is also called the ‘external End of the Twelve’. The inner End of the Twelve is above the head at the extremity (and so still within) the subtle body.
 
-[^427]: \[illegible\] Read brahmarandhrādhovarti- for brahmarandhravarti-.
+[^427]: Read brahmarandhrādhovarti- for brahmarandhravarti-.
 
 
 *[p. 423]* ^pg438
@@ -1177,4 +1177,4 @@ Kālavādins saw Time as the Supreme Source, which was disputed among other scho
 
 [^510]: Atharvaveda, Kālasūkta, 19/53/8.
 
-[^511]: \[illegible\] Atharvaveda, Kālasūkta, 19/53/9.
+[^511]: Atharvaveda, Kālasūkta, 19/53/9.

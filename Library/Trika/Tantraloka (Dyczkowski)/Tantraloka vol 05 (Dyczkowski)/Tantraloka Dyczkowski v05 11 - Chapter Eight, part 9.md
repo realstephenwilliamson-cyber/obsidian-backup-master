@@ -462,9 +462,9 @@ darśitam etad vikalpitaṁ tena |
 
 Whenever and wherever (the disciple) desires to enjoy the supreme fruits, he should be conjoined there (to the corresponding world).[^1106] Again, purification serves to destroy (that is, abandon,) those (desires), and the remaining (secondary worlds) are included in this same (purifying) task.[^1107] 
 
-[^1103]: \[illegible\] Read pañcamam aṣṭakānār yat for pañcāṣtakānāṁi ṣathaṁ yat.
+[^1103]: Read pañcamam aṣṭakānār yat for pañcāṣtakānāṁi ṣathaṁ yat.
 
-[^1104]: \[illegible\] 8/428cd-434ab (428-433) is a summary of the cosmology of the MPĀ based on Bhatta) Rāmakaṇtha I’s commentary (vṛtti) ) on the Vidyāpāda of the Mataṅgapārameśvara ad 23/85 (p. 516 line 3 ff.), reproduced here by Jayaratha. See Sanderson 2006b 158. See also, Goodall (1995), intro. p.3.
+[^1104]: 8/428cd-434ab (428-433) is a summary of the cosmology of the MPĀ based on Bhatta) Rāmakaṇtha I’s commentary (vṛtti) ) on the Vidyāpāda of the Mataṅgapārameśvara ad 23/85 (p. 516 line 3 ff.), reproduced here by Jayaratha. See Sanderson 2006b 158. See also, Goodall (1995), intro. p.3.
 
 [^1105]: Clearly verses 435 to 436 (434cd-436ab) are Abhinava’s own remarks.
 
@@ -1173,7 +1173,7 @@ Eg |
 
 [^1177]: "cf, above 8/407 (406cd-407ab).
 
-[^1178]: \[illegible\] See TĀ 11/8-9ab.
+[^1178]: See TĀ 11/8-9ab.
 
 
 *[p. 410]* ^pg428

@@ -70,11 +70,11 @@ Names of this Krama tradition are derived from how the centre of this assembly o
 
 Again, she is called Kāleśvarī ~ the Mistress of Time — who consumes the Kumārīkula — that is the Twelve Kālīs. Kumārī is in the centre of the Wheel 
 
-[^1056]: \[illegible\] CMSS 7/222.
+[^1056]: CMSS 7/222.
 
 [^1057]: CMSS 7/226-229ab (40).
 
-[^1058]: \[illegible\] Srīkubjikāmate khandacakravicāre amum evārthaṁ pradhānatayādhikṛtyādiṣtam māyoparimahāmāyā trikoṇānanda-rūpinī | PTv p. 184
+[^1058]: Srīkubjikāmate khandacakravicāre amum evārthaṁ pradhānatayādhikṛtyādiṣtam māyoparimahāmāyā trikoṇānanda-rūpinī | PTv p. 184
 
 
 *[p. 417]* ^pg430
@@ -110,7 +110,7 @@ emptiness, generating emptiness, consuming emptiness, contemplated by astonished
 
 [^1061]: CMSS 7/172.
 
-[^1062]: \[illegible\] dhatte yan mukurāvalivyatikaravyaktaika-vaktropamań śāktan cakram apakramam paramayā devyā tad iddhań numaḥ 27cd Quoted by Sanderson (2006b: 23-24 n. 62)
+[^1062]: dhatte yan mukurāvalivyatikaravyaktaika-vaktropamań śāktan cakram apakramam paramayā devyā tad iddhań numaḥ 27cd Quoted by Sanderson (2006b: 23-24 n. 62)
 
 [^1063]: See TĀ 31/52-58ab and notes.
 
@@ -219,7 +219,7 @@ tatra pralīnāḥ \[all: pralīnās\] sarve te bhairavāṣṭāṣtayonayaḥ 
 
 [^1071]: This is presumably Kālasaṁkarṣiṇī’s Vidyā. See TĀv ad 29/69-70ab and the Appendix to Chapter Thirty.
 
-[^1072]: \[illegible\] Arka / Ravi is the Twelve Kālis, the reflection (pratibimba) of Bhānu / Sūrya, the thirteenth KĀālī, who is the original image (bimba).
+[^1072]: Arka / Ravi is the Twelve Kālis, the reflection (pratibimba) of Bhānu / Sūrya, the thirteenth KĀālī, who is the original image (bimba).
 
 [^1073]: CMSS 7/166-167 = JY 4/4/1 Icd-13ab.
 
@@ -696,7 +696,7 @@ pūjya\]
 
 pāramparyakramāgatā \[all: -gatam\] | 
 
-[^1087]: \[illegible\] Here, this term refers to a yogic, not ritual, procedure.
+[^1087]: Here, this term refers to a yogic, not ritual, procedure.
 
 
 *[p. 436]* ^pg449

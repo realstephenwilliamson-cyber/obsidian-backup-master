@@ -515,7 +515,7 @@ khaṭvāṅgākhyā smṛtā mudrā kapālam adhunā śṛnu |
 
 [^684]: \*Read with TĀ 32/1 1b \[illegible\] for bhāva
 
-[^685]: \[illegible\] The three voids in the head are bindu, nāda and the Cavity of Brahmā. The three above the head are Power (Sakti), the Pervasive One (vyāpinī) and With Mind (samanā). The mind is ‘restrained’ by breath retention (kumbhaka). If successful, the yogi attains the level of the Transmental, through which he unites with Siva.
+[^685]: The three voids in the head are bindu, nāda and the Cavity of Brahmā. The three above the head are Power (Sakti), the Pervasive One (vyāpinī) and With Mind (samanā). The mind is ‘restrained’ by breath retention (kumbhaka). If successful, the yogi attains the level of the Transmental, through which he unites with Siva.
 
 [^686]: MV 7/15cd-17ab is quoted in TĀv ad 15⁄(361cd-363ab) (361-362), which is a commentary on it, and TĀ 32/10cd-12a = MV 7/15cd-17a.
 
@@ -635,9 +635,9 @@ Rodhā (Fixing)
 
 dvāv eva garbhagāṁguṣthau vijñeyā saṁṁnirodhinī | 
 
-[^689]: \[illegible\] mūlaparvata
+[^689]: sva0 mūlaparvata
 
-[^690]: \[illegible\] madhye dva tu yuta paruṣāvapi ca
+[^690]: sva0 madhye dva tu yuta paruṣāvapi ca
 
 [^691]: The text here is corrupt, paruṣāvadhi makes no sense. It seems that the sense is that the two little fingers are conjoined at the side of the hand.
 
@@ -818,7 +818,7 @@ sūkṣmarūpās (k, g: sūkṣmā rūpā) tathā mudrā evaṁ sarṁkhyā na v
 vyāpitaṁ tu samastaṁ (kh: -sta) hi mudre sūkṣmāntaraiḥ (kh: sūkṣmaparaiḥ; g: sūkṣmātaraiḥ) priye |
 evan mudrāḥ samākhyātā vyāpitvam aprameyataḥ (k: -tāḥ; g: vyāpi \* \* \* \*\* \*?) |196 Il 76b kh) ekā eva parā mudrā yasyedaṁ (k, kh, g: -haṁ) tiṣthate jagat | (g: ?) yari yar spṛśaty asāv aṁgaṁn sā sā mudrā vidhīyate ॥ 97 || (g: ?) 
 
-[^702]: \[illegible\] We note, by the way, that Abhinava must have observed that the scriptures he considered to be the most elevated taught of the existence of hoards of Yoginīs. Although he does, of course, refer to yoginīs and their worship, he does not stress their immense numbers and forms as do his scriptures that refer to them repeatedly, extensively, with great imagination. They are a primary feature of the Tantras of the Vidyāpītha, so too of the Mudrāpītha, if we accept that the Kubjikā Tantras also belonged to that group of scriptures as well as to the Vidyāpītha. Apart from the two chapters at the end of the Svacchanda that appear to be later additions, they hardly appear in the Svacchanda, although the Mothers, are well known to it and integral to the entourage of Svacchanda Bhairava. Kṣemarāja stresses their association with the letters of the alphabet. He cites the Tantrasadbhāva about this in his commentary on the Śivasūtra.
+[^702]: We note, by the way, that Abhinava must have observed that the scriptures he considered to be the most elevated taught of the existence of hoards of Yoginīs. Although he does, of course, refer to yoginīs and their worship, he does not stress their immense numbers and forms as do his scriptures that refer to them repeatedly, extensively, with great imagination. They are a primary feature of the Tantras of the Vidyāpītha, so too of the Mudrāpītha, if we accept that the Kubjikā Tantras also belonged to that group of scriptures as well as to the Vidyāpītha. Apart from the two chapters at the end of the Svacchanda that appear to be later additions, they hardly appear in the Svacchanda, although the Mothers, are well known to it and integral to the entourage of Svacchanda Bhairava. Kṣemarāja stresses their association with the letters of the alphabet. He cites the Tantrasadbhāva about this in his commentary on the Śivasūtra.
 
 *[p. 288]* ^pg306
 
@@ -857,7 +857,7 @@ The middle (finger) (madhyamā) of those who know mantra is so-called here becau
 
 #### Viveka on Dyczkowski's verse 102cd-103
 
-[^703]: \[illegible\] Reading, as in the KM, aṅgulyā Another translation could be “Thus it (the woman ?) is indicated by the finger when a gesture is formed.”
+[^703]: Reading, as in the KM, aṅgulyā Another translation could be “Thus it (the woman ?) is indicated by the finger when a gesture is formed.”
 
 [^704]: KM reads koṭibhedair vyavasthitā ‘she is configured with billions of kinds’.
 

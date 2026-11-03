@@ -76,7 +76,7 @@ Thus, here we find a precursor in this form of the Pañcacakrakrama, the Sequenc
 
 [^1131]: śrīmaduttarapīthe tu śmaśāne karavīrake \\ yonigahvaram uddhṛtya mantrasadbhāvam uttamam || śrījñānanetranāthena bhutalasatiprakāśitam |
 
-[^1132]: \[illegible\] (DP: śrīmaduttarapīthasya \[k: śrīmaduttaraṁ-\] śmaśānari karavīrakam | pūjitan devadevena śivena paramātmanā \[k, kh: paramātmane; g: paramātmano\] || 3 ॥ The cremation ground of the venerable Uttarapīṭha (is called) Karavīra, It is worshipped by Śiva, who is the Supreme Soul and the God of the gods. 
+[^1132]: (DP: śrīmaduttarapīthasya \[k: śrīmaduttaraṁ-\] śmaśānari karavīrakam | pūjitan devadevena śivena paramātmanā \[k, kh: paramātmane; g: paramātmano\] || 3 ॥ The cremation ground of the venerable Uttarapīṭha (is called) Karavīra, It is worshipped by Śiva, who is the Supreme Soul and the God of the gods. 
 
 [^1133]: # + # + \* Stotram (jñānanetrapādakṛtam) K: NAK no. 5-5183 Śaivatantra 157 = NGMPP reel no. A 150/6; size: 32 1/2 x 12 1/2; folios are 35 and script is devanāgarī. itthaṁ svarūpastutir abhyadhāyi samyak samāveśadaśāvaśena | mayā (śivenāstu) śivāya samyag mamaiva viśvasya tu maṁgalākhye |l || folio 219. At the end: kṛtir iya Srījṁānanetrapādānār iti \\
 

@@ -102,7 +102,7 @@ by Abandoning Karma He is Free of Obscuration
 
 [^670]: See above, 4/171-173. The Great Emanation takes place at the level of Śakti. It is brought about by Siva in the form of Aghora.
 
-[^671]: \[illegible\] Above, 6/173-174ab (172cd-173). Also quoted ad 7/63cd-64ab. Concerning Karma and the Great Creation see MVV 2/188ab ff. quoted above in note 9,203 to 9/88ab.
+[^671]: Above, 6/173-174ab (172cd-173). Also quoted ad 7/63cd-64ab. Concerning Karma and the Great Creation see MVV 2/188ab ff. quoted above in note 9,203 to 9/88ab.
 
 
 *[p. 348]* ^pg370
@@ -144,7 +144,7 @@ yathā prakāśasvātantryāt pratibuddho ‘py abuddhavat || 7 ||
 
 Just as one who, although awakened by the power of the freedom of the light (of consciousness), is (outwardly) like one who is not awake (in order to hide his spiritual state), similarly one who has not gone beyond 
 
-[^672]: \[illegible\] Below, 14/14ab.
+[^672]: Below, 14/14ab.
 
 
 *[p. 349]* ^pg371
@@ -338,7 +338,7 @@ tathānyeṣāṁ tirobhāvas tāvad duhkho hy amutra ca ॥ 17 ॥
 
 ‘The citizens’ of the Three Cities (tripura). The ‘others (like them)’ are Citrasena and the rest. By the word ‘and’ is meant (there in the next world) and here (in this world) also. “Those who are blinded by (the fear of) death’ etc. (include those who,) because after (their inner) burning etc., grace is 
 
-[^678]: \[illegible\] Paulastya is a name of Rāvaṇa, Rāma’s enemy.
+[^678]: Paulastya is a name of Rāvaṇa, Rāma’s enemy.
 
 *[p. 354]* ^pg376
 
@@ -512,7 +512,7 @@ In this way, this is the supreme object of attainment (upeya) by virtue of which
 aindrajālikavṛttānte na rajyeta kadācana |
 sādāśivo ‘pi yo bhogo bandhaḥ so ‘py ucitātmanām |I| 26 ॥ 
 
-[^682]: \[illegible\] Concerning Śivaṛs five operations, see Dyczkowski 1992a: 178-183. Cf. below 14/42cd-43ab and 23/561.
+[^682]: Concerning Śivaṛs five operations, see Dyczkowski 1992a: 178-183. Cf. below 14/42cd-43ab and 23/561.
 
 
 *[p. 358]* ^pg380
@@ -802,7 +802,7 @@ svacchandamṛtyor api yad bhīṣmādeḥ śrūyate kila \\ bhogavairasyasaṁp
 
 Surely (one may ask), it is but natural that there is a reason for aversion to worldly pleasure in the case of one whose life is about to end. There is no way that a person who has abandoned the taste for the savour (of daily life) can (continue) to live. So what is the use of teaching that means (to such a one)? 
 
-[^695]: \[illegible\] Abhinava is referring to MV 17/25 partly quoted by Jayaratha in the introduction to this verse.
+[^695]: Abhinava is referring to MV 17/25 partly quoted by Jayaratha in the introduction to this verse.
 
 [^696]: Bhīṣma received the ability from his father to choose the hour of his death, and so he waited for the sun to traverse the winter equinox to leave his body. His death is narrated in MBh 6/70.
 

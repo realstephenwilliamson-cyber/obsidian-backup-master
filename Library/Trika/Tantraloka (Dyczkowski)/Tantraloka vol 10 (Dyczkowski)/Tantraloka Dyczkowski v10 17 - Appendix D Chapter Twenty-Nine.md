@@ -160,7 +160,7 @@ kṛṣnavarṇānimalinā (> -varṇātimalinā) kṛśā vikalacetanī |
 
 (But one) whose nature is supreme bliss and is devoid of (a false) sense of the body, is accompanied by (his) Śakti; she is then indeed Śāmbhavī herself. One should do as she commands, and then (all that is) good comes about. The reciter of Mantra who transgresses Śakti’s command, has performed austerity without purpose, and once done, he is (merely an object) of derision and the like. Satisfaction cannot be (had) in any other (way, than by sincere observance). Therefore, make every effort to do what she says. (37cd-40ab) 
 
-(One should not take a Śakti who) is crippled, whose limbs are deformed, is blind in one eye and deaf, one who is bald, a widow, one who is dumb, one who speaks excessively and lies, one who is not initiated, devoid of devotion and has not served (her) teacher, one who speaks badly of others, who has fallen from the Rule, a thief, and one who finds faults (kirtuvicārinī), one who is aged and (afflicted with) poverty, one whose face is distorted, wrathful, bad smelling and foul, one whose words are always cruel, devoid of (right) conduct and (her) speech (raucous like) a crow. (He should not take a Śakti) whose teeth are long and lips hang down, breasts and hips are shrivelled up, one who is black and very dirty, emaciated (or one whose) mind is distorted. (40cd- 44270) 
+(One should not take a Śakti who) is crippled, whose limbs are deformed, is blind in one eye and deaf, one who is bald, a widow, one who is dumb, one who speaks excessively and lies, one who is not initiated, devoid of devotion and has not served (her) teacher, one who speaks badly of others, who has fallen from the Rule, a thief, and one who finds faults (kirtuvicārinī), one who is aged and (afflicted with) poverty, one whose face is distorted, wrathful, bad smelling and foul, one whose words are always cruel, devoid of (right) conduct and (her) speech (raucous like) a crow. (He should not take a Śakti) whose teeth are long and lips hang down, breasts and hips are shrivelled up, one who is black and very dirty, emaciated (or one whose) mind is distorted. (40cd-44ab) 
 
 mahāschūlātirogārtā pralambitapayodharā ॥ 44 ॥
 Tṣannāsikanetrā ca śuṣkāmigī cordhvakeśanī |
@@ -641,7 +641,7 @@ Therefore, make every effort, once having seen the Kula substance, to repeat Man
 
 samayācāratantre 
 
-[^616]: \[illegible\] It seems that the text is here specifying that this term denotes the first menstrual blood produced at the beginning of menses.
+[^616]: It seems that the text is here specifying that this term denotes the first menstrual blood produced at the beginning of menses.
 
 [^617]: The adjective akṣata, which literally means ‘unbroken’, can also be applied, in the feminine, to a virgin girl.
 

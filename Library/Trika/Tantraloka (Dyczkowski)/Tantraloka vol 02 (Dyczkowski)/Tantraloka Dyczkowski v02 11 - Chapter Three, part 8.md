@@ -192,7 +192,7 @@ Emission is Śabdarāśi, Mātṛkā and Mālinī
 
 [^731]: Manusmṛti 3116.
 
-[^732]: \[illegible\] BhGT3/14.
+[^732]: BhGT3/14.
 
 
 *[p. 358]* ^pg374

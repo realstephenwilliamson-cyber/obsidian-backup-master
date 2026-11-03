@@ -127,7 +127,7 @@ antyeṣtṭir naiva vidyeta Śuddhacetasy amūrdhani |
 
 We will now describe the ritual procedure (vidhi) taught in the venerable Siddhātantra. (There we read): ‘(In this rite, the teacher utters) one by one, withdrawing (in the reverse order), the last (mantra), having made it first, and the first, last. (Thus,) the sacrifice (iṣṭi) which is such is the ‘the last sacrifice’ (antyeṣṭi), which is considered to be of the second (kind).[^796] O beloved, (this rite) is not[^797] (to be performed) for an adept (sādhaka) who has burnt away[^798] the (obligation to observe the) Rule by (regular) worship (pūjā), meditation (dhyāna) and the repetition (of Mantra) (japa). (For) by (his) death, this (one) (ayam) is liberated or becomes a Skyfarer.[^799] Nor should the last rites (be performed) for a teacher 
 
-[^794]: \[illegible\] above, Chapter Twenty-one.
+[^794]: See above, Chapter Twenty-one.
 
 [^795]: Kṣemarāja, quoting the following passage from the SYM in NTu ad 18/1 19ab, introduces it by saying that this is the funerary rite (meant to) rescue the dead, (which is performed) in the presence of the corpse (mṛtoddhāro ‘ntyeṣtiḥ \$Savaśarīre). Moreover, he tells us that this rite is not like the well-known Saiddhāntika one, but is a ‘secret procedure’ (rahasyavidhi) which is thus meant for initiates of corresponding ‘secret traditions’. See above, notes 21,37; 21,38; and 21,41 and, especially below, 25,7 as well as 27,11, where the section in chapter eighteen of the NT that deals with this kind of rite is quoted.
 

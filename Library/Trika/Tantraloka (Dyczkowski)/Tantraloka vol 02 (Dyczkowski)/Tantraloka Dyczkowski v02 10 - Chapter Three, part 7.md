@@ -36,13 +36,13 @@ It is said that the enjoyer himself is (in the highest sense) God, Whose nature 
 
 Although Bliss (Ā) is the object of enjoyment (bhogya) (of the Absolute), it is not separate from the Absolute (A), and so is also the enjoyer. In order to explain this clearly, (he also) mentions Bliss here (in this context). (In the expression) ‘just the object of enjoyment’, the word ‘just’ serves to (emphasise) that (the object is) separate (and distinct) (vyavaccheda) from the enjoyer. The subjectivity (of the powers of the will etc.) with respect to Sovereignty 0) and the 
 
-[^603]: \[illegible\] Read bhoktṛtā for bhogyatā.
+[^603]: Read bhoktṛtā for bhogyatā.
 
 [^604]: Read gunībhūtam for gunabhūtam.
 
 [^605]: Read -bhūtecchādikāni for —bhūtecchākāni.
 
-[^606]: \[illegible\] The Lord’s energies constitute His empowered state or states as Śakti (śaktitā). This is what is meant by objectivity at this level.
+[^606]: The Lord’s energies constitute His empowered state or states as Śakti (śaktitā). This is what is meant by objectivity at this level.
 
 
 *[p. 310]* ^pg326
@@ -71,7 +71,7 @@ Here (in this world), the object of enjoyment cannot acquire even existence (sat
 
 [^608]: See above, note to TĀv ad 1/11 1cd-112ab (112).
 
-[^609]: \[illegible\] Literally: ‘Here the object of enjoyment does not dare to acquire (even) just existence within itself without the enjoyer.”
+[^609]: Literally: ‘Here the object of enjoyment does not dare to acquire (even) just existence within itself without the enjoyer.”
 
 [^610]: Concerning the three primary vowels, short and long, see above, note 3,251 to TĀv ad 3/76-77ab (3/76cd-77).
 
@@ -152,7 +152,7 @@ The Lord United with Emission is All Things as the Fifty Energies of the Letters
 tasmād anuttaro devaḥ svācchandyānuttaratvataḥ ॥ 195 ॥
 visargaśaktiyuktatvāt sampanno viśvarūpakaḥ | 
 
-[^614]: \[illegible\] VBh 20d; also quoted in TĀv ad 1/1, 1/73 (74), 3/172 (171cd-172ab), 6/252ab (251cd) and 29/273cd-274ab.
+[^614]: VBh 20d; also quoted in TĀv ad 1/1, 1/73 (74), 3/172 (171cd-172ab), 6/252ab (251cd) and 29/273cd-274ab.
 
 *[p. 313]* ^pg329
 
@@ -221,7 +221,7 @@ Surely (one may ask,) as (all) other (forms of) reflective awareness are include
 
 [^619]: Below, 6/226-228ab (225cd-227cd).
 
-[^620]: \[illegible\] Read avacchedādhānāsāmarthyaṁ for avacchedādhānāsāmarthya.
+[^620]: Read avacchedādhānāsāmarthyaṁ for avacchedādhānāsāmarthya.
 
 *[p. 315]* ^pg331
 
@@ -250,7 +250,7 @@ the consonants), by coupling with the Assembly of Sounds.[^622] (Then again) she
 
 [^622]: The letters in the Mālinī alphabet are not in the same serial order of the normal Sanskrit alphabet embodied in Mātṛkā. The consonants and vowels are mixed together (cf. below, 3/233). Mālinī is the Goddess Parā, the supreme goddess of the Trika. Other Goddesses, Tripurā, for instance, are related to the Mātṛkā alphabet, rather than Mālinī. The Assembly of Sounds and Mātṛkā are very well known to a wide range of Śaiva and Śākta schools, whereas Mālinī is much less so. Indeed, when we come across it in other traditions, especially when it is substantially present there, it is a clear sign of their close relationship to Trika Śaivism. A cardinal example is the tradition centred on the goddess Kubjikā, who is also identified with Parā as Mālinī, and so it is not surprising that the Mālinī alphabet is an important part of the Kubjikā rites and Mantras. Concerning the Mālinī order of the alphabet, see below, 15/121-145. The sequential order of the letters of the Mālinī alphabet is listed below in 15/121-125ab.
 
-[^623]: \[illegible\] The nine classes of letters, as we have seen, are in due order: 1) vowels, 2) gutturals, 3) palatals, 4) cerebrals, 5) dentals, 6) labials, 7) semivowels, 8) sibilants, and 9) the conjunct letter 15. Classes 2 to 6 include also their corresponding nasals.
+[^623]: The nine classes of letters, as we have seen, are in due order: 1) vowels, 2) gutturals, 3) palatals, 4) cerebrals, 5) dentals, 6) labials, 7) semivowels, 8) sibilants, and 9) the conjunct letter 15. Classes 2 to 6 include also their corresponding nasals.
 
 [^624]: By ‘as before’ is meant, in the previous exposition of the development of the letters.
 
@@ -340,9 +340,9 @@ which is (pure) ‘T (consciousness).
 
 Surely (one may ask,) although it rests in the undivided and supreme Light (of consciousness), does not the reflective awareness of ‘I’ (consciousness essentially) consist of a state of duality (bhedamaya)? (In response to this question,) he says: 
 
-[^634]: \[illegible\] The forward movement begins with A, the Absolute, and ends with the gross, fully manifest form of emission, which is its ‘radiant manifestation’ H, passing through the Point (M). This AHAM forms the first half of the cycle. From there it reverses, moving up on the other side of the circle to form HA — M — A. H emits into the Point, which, as the supreme perceiver, gathers everything up into itself to then become A, the pure Light of the Absolute. See Dyczkowski 1987: 186 and 187 for a description and graphic representation of this process.
+[^634]: The forward movement begins with A, the Absolute, and ends with the gross, fully manifest form of emission, which is its ‘radiant manifestation’ H, passing through the Point (M). This AHAM forms the first half of the cycle. From there it reverses, moving up on the other side of the circle to form HA — M — A. H emits into the Point, which, as the supreme perceiver, gathers everything up into itself to then become A, the pure Light of the Absolute. See Dyczkowski 1987: 186 and 187 for a description and graphic representation of this process.
 
-[^635]: \[illegible\] Below, 3/207-208ab.
+[^635]: Below, 3/207-208ab.
 
 
 *[p. 320]* ^pg336
@@ -475,7 +475,7 @@ and षद).[^650] As is said there:
 
 [^645]: Cf. above, 2/31cd-32ab (32).
 
-[^646]: \[illegible\] The dot above the word AHAM ~ ‘T — is called bindu or anusvāra (lit. ‘that which follows the vowels’). The pure reflective awareness of AHAM is perpetually repeated and reinforced in the core of Anuttara. As such it is its universal pulsation (sāmānyaspanda). Just as it reaches, as it were, in the ‘processless process’ of this timeless activity, the end of H, passing as it does so through all the prior forms of reflective awareness, it begins again with A, rotating, as it were, on the pivot of the Point (bindu), the letter M. Thus A - Anuttara — flows out into the energy of emission up through to H, and then that is again reabsorbed into A. Thus, this process is appropriately termed ‘encapsulation’ here. Cf. above, note 3,536.
+[^646]: The dot above the word AHAM ~ ‘T — is called bindu or anusvāra (lit. ‘that which follows the vowels’). The pure reflective awareness of AHAM is perpetually repeated and reinforced in the core of Anuttara. As such it is its universal pulsation (sāmānyaspanda). Just as it reaches, as it were, in the ‘processless process’ of this timeless activity, the end of H, passing as it does so through all the prior forms of reflective awareness, it begins again with A, rotating, as it were, on the pivot of the Point (bindu), the letter M. Thus A - Anuttara — flows out into the energy of emission up through to H, and then that is again reabsorbed into A. Thus, this process is appropriately termed ‘encapsulation’ here. Cf. above, note 3,536.
 
 [^647]: See above, note to TĀv ad 1/1 11cd-112ab (112).
 
@@ -483,7 +483,7 @@ and षद).[^650] As is said there:
 
 [^649]: Concerning the names Parātrīśikā and Paratiśikā, see the entry under this name in Appendix volume concerning the sources.
 
-[^650]: \[illegible\] The three scriptures are the Siddhayogeśvarīmata (also called Siddhā), Anāmaka and Mālinī-vijaya. See above, note 1,202.
+[^650]: The three scriptures are the Siddhayogeśvarīmata (also called Siddhā), Anāmaka and Mālinī-vijaya. See above, note 1,202.
 
 
 *[p. 326]* ^pg342
@@ -613,7 +613,7 @@ cittapralayanāmāsau visargaḥ śāmbhavaḥ paraḥ ॥ 214 ॥
 
 [^658]: Read prasiddhaḥ for prasiddhiḥ.
 
-[^659]: \[illegible\] Verses 211-214 are Abhinava’s explanation of a passage in the Tattvarakṣavidhāna cited in verses 215cd-219.
+[^659]: Verses 211-214 are Abhinava’s explanation of a passage in the Tattvarakṣavidhāna cited in verses 215cd-219.
 
 
 *[p. 332]* ^pg348
@@ -661,7 +661,7 @@ According to the view that ‘mind (citta) is (the power of) consciousness (citi
 
 [^668]: Pratyabhijñāhṛdaya, sūtra 5. Kṣemarāja explains in his commentary that the individual perceiver, identified with the mind, is essentially always the Goddess of Consciousness, who has freely contracted down to assume this condition. As this contraction is progressively removed by the strengthening of reflective awareness of its true essential nature, consciousness expands out to assume, step by step, the subjectivity of higher perceivers. The first are those still in the realms of Māyā but free of outer objectivity, and then those in the higher pure principles beyond Māyā. Conversely, the perceivers who are predominantly subjected to contraction develop in a downward series, ranging from the ‘void’ perceiver in deep sleep down to the perceiver who is fully identified with the body. Thus, the lower subjectivities mirror the highest one of the Lord Himself, in which, as contracted forms, Śiva’s powers of knowledge, action and Māyā are reduced to the play of the three emotional qualities of sattva, rajas and tamas, to which they are subject. This is what is meant when it is said that the perceiver at the level of Māyā is mind (citta).
 
-[^669]: \[illegible\] This sentence can be understood in two ways. One is as translated. It can also mean ‘the ultimate extreme of intent on duality’. Both meanings, it seems, are intended. On the one hand, consciousness has reached its limit of contraction in terms of its perception of objectivity and so rests there, in the sense that it does not contract further. On the other hand, the repose of the mind is the highest state of consciousness. Translating the compound cittaviśrānti as ‘repose in the mind’, we get the first meaning. If it is translated as ‘repose of the mind’, we get the second one.
+[^669]: This sentence can be understood in two ways. One is as translated. It can also mean ‘the ultimate extreme of intent on duality’. Both meanings, it seems, are intended. On the one hand, consciousness has reached its limit of contraction in terms of its perception of objectivity and so rests there, in the sense that it does not contract further. On the other hand, the repose of the mind is the highest state of consciousness. Translating the compound cittaviśrānti as ‘repose in the mind’, we get the first meaning. If it is translated as ‘repose of the mind’, we get the second one.
 
 
 *[p. 334]* ^pg350
@@ -710,7 +710,7 @@ Thus, it is said in the Tattvarakṣāvidhāna[^675] that emission is of three k
 एकीभूतं विभात्यत्र जगदेतच्चराचरम् |
 गराहग्राहकभेदो वै किञ्चिदत्रेष्यते यदां ॥ २१७ ॥
 
-[^674]: \[illegible\] The supreme form of emission, which is that of Śiva Himself, is the ever-emergent bliss (āĀnanda) of nondual consciousness. It is the manifestation of the plenitude of one’s own pure consciousness that takes place by the removal of all the limitations that contract it, by the power that emerges by the dissolving away of the lower mind (citta). Unlike the emission that takes place at the individual (āṇava) level, confinement in any way of the spontaneous expansion of consciousness is no longer possible now that the conditioning imposed on it by the delimiting knowledge of finitude that arises by the tendency to externalization has been eliminated. This is ensured because the limited, conditioned forms of subjectivity, commencing with that at the level of the emptiness of deep sleep, have been subordinated to the unfolding agency of Śiva’s own subjectivity, as outer phenomena are deposited within the heart of consciousness as the universe, intent on its own conscious nature, is conjoined with it in such a way that they are mutually intent on one another. Thus, the power of emission (visargaśakti), which is the Supreme Goddess (pārameśvarī) Herself manifest in this way, is of three kinds, corresponding to the Trika principle, which embraces the individual level of duality (Nara), the domain of unity-indiversity of Śakti, and the oneness of Siva. Thus, the power of emission abides and operates everywhere at all levels.
+[^674]: The supreme form of emission, which is that of Śiva Himself, is the ever-emergent bliss (āĀnanda) of nondual consciousness. It is the manifestation of the plenitude of one’s own pure consciousness that takes place by the removal of all the limitations that contract it, by the power that emerges by the dissolving away of the lower mind (citta). Unlike the emission that takes place at the individual (āṇava) level, confinement in any way of the spontaneous expansion of consciousness is no longer possible now that the conditioning imposed on it by the delimiting knowledge of finitude that arises by the tendency to externalization has been eliminated. This is ensured because the limited, conditioned forms of subjectivity, commencing with that at the level of the emptiness of deep sleep, have been subordinated to the unfolding agency of Śiva’s own subjectivity, as outer phenomena are deposited within the heart of consciousness as the universe, intent on its own conscious nature, is conjoined with it in such a way that they are mutually intent on one another. Thus, the power of emission (visargaśakti), which is the Supreme Goddess (pārameśvarī) Herself manifest in this way, is of three kinds, corresponding to the Trika principle, which embraces the individual level of duality (Nara), the domain of unity-indiversity of Śakti, and the oneness of Siva. Thus, the power of emission abides and operates everywhere at all levels.
 
 [^675]: See also below, 29/141.
 
@@ -934,7 +934,7 @@ be (barren) like autumn clouds.[^696] (223cd)
 
 [^695]: The pure ‘T’ consciousness Mātykā represents not only vitalizes the energies of the letters it encompasses, it also vitalizes the Mantras made from them. Thus they ‘reflect’, as their vital energy is essentially the pure reflective awareness of ‘I’, and ‘save’ because, identifying this awareness as that of fundamental consciousness, it liberates from the mistaken, binding identification with the body and mind.
 
-[^696]: \[illegible\] Cf, MM p. 68: yathoktaṁ śrīkanṭhīyasaṁhitāyām - ādimāntavihīnās tu mantrāḥ syuḥ śaradabhravat | guror lakṣaṇam etāvad ādimāntaṁ nivedayet || Here, Maheśvarānanda identifies the source of this and the following line as the Śrīkanṭhīyasarihitā. They are practically as we find them in the TĀ, with minor variations; notably, he reads ādimānta- for ādimantya-, which is found uniformly in all the references supplied by Jayaratha. As Jayaratha presents the source of the first line, we know that Maheśvarānanda was in actual fact quoting directly from the Tantrāloka.
+[^696]: Cf, MM p. 68: yathoktaṁ śrīkanṭhīyasaṁhitāyām - ādimāntavihīnās tu mantrāḥ syuḥ śaradabhravat | guror lakṣaṇam etāvad ādimāntaṁ nivedayet || Here, Maheśvarānanda identifies the source of this and the following line as the Śrīkanṭhīyasarihitā. They are practically as we find them in the TĀ, with minor variations; notably, he reads ādimānta- for ādimantya-, which is found uniformly in all the references supplied by Jayaratha. As Jayaratha presents the source of the first line, we know that Maheśvarānanda was in actual fact quoting directly from the Tantrāloka.
 
 
 *[p. 345]* ^pg361

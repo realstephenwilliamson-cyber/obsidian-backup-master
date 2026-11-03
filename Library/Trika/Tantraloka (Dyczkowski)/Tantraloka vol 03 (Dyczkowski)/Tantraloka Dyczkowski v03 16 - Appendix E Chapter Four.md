@@ -208,4 +208,4 @@ I praise Mahābhairavaghoracaṇdakālī, She Who is beautiful with the Moon (th
 
 [^1154]: TĀv ad 4/169-170; CGC 247-248.
 
-[^1155]: \[illegible\] TĀv ad 4/171-172; CGC 249.
+[^1155]: TĀv ad 4/171-172; CGC 249.

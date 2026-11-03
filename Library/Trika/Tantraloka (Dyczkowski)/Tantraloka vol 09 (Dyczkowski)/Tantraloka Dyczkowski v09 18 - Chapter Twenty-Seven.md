@@ -270,7 +270,7 @@ Or else, (the deity) may reside (in a skull) that possesses the (required) chara
 
 #### Viveka on 27.20–21
 
-[^951]: \[illegible\] Read -prāsāda- for -prasāda-.
+[^951]: Read -prāsāda- for -prasāda-.
 
 [^952]: Concerning all this, see śānaśivagurudevapaddhati, vol. 4 p. 374. The projection of Mantras etc. concern only the lingas fashioned by human hands (mānuṣeṣv eva liṅgeṣu mantramṛtyādi-samkarah, ibid. p. 374).
 
@@ -451,7 +451,7 @@ Now, one should fashion (or acquire) a rosary, and worship there itself the (ent
 
 [^966]: Nelumbium Speciosum.
 
-[^967]: \[illegible\] Elaeocarpus Ganitus.
+[^967]: Elaeocarpus Ganitus.
 
 [^968]: The rosary is a common subject in Tantras of all sorts. Conceming the rosary, see SŚP, vol. 1, p.216 and note 2. See Dyczkowski 2009: vol 7 note 11, 44 concerning the types of rosaries according to the Kubjikā Tantras. The passage conceming the rosary is in the MV (19/75 ff). It begins as follows: “Then the wise man should fashion a rosary, according to that (same) procedure, made of gems, pearls, (or) mother-of-pearl etc., (or) of padmākṣa etc. Or else it may be made of metal, such as gold, and measure fifty beads. It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down\* (from one’s hand), made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Sakti there.’ MV 19/75-77 \* Read samālambhya for samālabhya.
 
@@ -623,7 +623,7 @@ Other Supports on which to Worship the Deity
 खद्धं कृपाणिकां यद्रा कर्तरीं मकरं चवा।
 विमल तत्तथा कुर्यच्छीमत्कालीमुखोदितम् ॥ ४४ ॥
 
-[^982]: \[illegible\] Sanderson (2007: 375 n. 463): ‘No text of this name has been mentioned elsewhere in the literature known to me, but it is no doubt either the Kālīkula or a text closely related to it. For we have a close parallel in the Kālīkulapañcaśataka (4/71cd-72ab) referring to the worship of the phase of withdrawal.” Sanderson has the following lines in my edition of that text in mind: athavā cchurikār sthāpyā kartarīin vā sudārunām || mahāmakuṭapṛsthe \[k, kh: mahāmukupṛṣthe\] tu pūjyā sarṁārabhairavī | “Or else, Saṁhārabhairavī should be installed on a blade or a very fearsome sword or on the surface of a large mirror and should be worshipped (there). Clearly Sanderson changed his mind from 2001, where he lists the Kālīmukha as a separate text (2001: p. 4n 1)..
+[^982]: Sanderson (2007: 375 n. 463): ‘No text of this name has been mentioned elsewhere in the literature known to me, but it is no doubt either the Kālīkula or a text closely related to it. For we have a close parallel in the Kālīkulapañcaśataka (4/71cd-72ab) referring to the worship of the phase of withdrawal.” Sanderson has the following lines in my edition of that text in mind: athavā cchurikār sthāpyā kartarīin vā sudārunām || mahāmakuṭapṛsthe \[k, kh: mahāmukupṛṣthe\] tu pūjyā sarṁārabhairavī | “Or else, Saṁhārabhairavī should be installed on a blade or a very fearsome sword or on the surface of a large mirror and should be worshipped (there). Clearly Sanderson changed his mind from 2001, where he lists the Kālīmukha as a separate text (2001: p. 4n 1)..
 
 
 *[p. 419]* ^pg439
@@ -725,7 +725,7 @@ According to this teaching, it is said that spiritual sons etc. resort to (the w
 
 [^986]: The word is vibhavaiḥ. The literal sense is ‘with (all) the monetary means (at one’s disposal)’.
 
-[^987]: \[illegible\] Above, 27/9. The first line is quoted above in TĀv ad 27/10-21ab.
+[^987]: Above, 27/9. The first line is quoted above in TĀv ad 27/10-21ab.
 
 
 *[p. 422]* ^pg442
@@ -1062,7 +1062,7 @@ sāktabalena svaprānṇena veṣtayed ākramet || tad ittham
 
 Abiding, in accord with this traditional doctrine, for a hundred measures (of time), in order to make the sense of self which is elsewhere (in the other body) firm (and stable). (First of all,) that (sacrificial animal) is aroused by arousing the vital breath with the energies of his own senses. (Then, having) entered into that (animal’s) senses and made the body of the other (that is, the sacrificial animal,) whose vital energy (ātmaśakti) has been made one’s own, into one’s own body, by the process of setting into operation and halting the pulse of one’s (vital breath) (svaparispanda), ‘he should envelop’ ‘the soul (of the animal)’, that is, the subtle body of the other (creature) ‘with (his own) soul’, that is, with his own subtle body, ‘by his own power’, that is, with his own vital breath, of which the strength of its power has unfolded. That is such (as described here): 
 
-[^1002]: \[illegible\] The Tattvārthacintāmani is by Kallaṭabhatṭa, who wrote or commented on the Spandakārikā. Abhinava refers to it as his authority conceming the manner of sacrificing an animal by manipulating its vital breath. See TĀ 16/32-51, the reference is in TĀ 16/50cd-51.
+[^1002]: The Tattvārthacintāmani is by Kallaṭabhatṭa, who wrote or commented on the Spandakārikā. Abhinava refers to it as his authority conceming the manner of sacrificing an animal by manipulating its vital breath. See TĀ 16/32-51, the reference is in TĀ 16/50cd-51.
 
 *[p. 431]* ^pg451
 

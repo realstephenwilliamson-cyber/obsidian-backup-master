@@ -116,6 +116,6 @@ Chapter Thirty-four of the (commentary called) Discernment, of the venerable Tan
 
 [^479]: MV 2/25ab. Also quoted above in TĀv ad 1/226cd-227ab (227), 5/155cd-156ab (154cd-155ab), and in the introductory remarks to 13/1.
 
-[^480]: \[illegible\] Sumati was the teacher of Śambhunātha, Abhinava’s Trika teacher. Abhinava, it seems, is telling us in this way that the system of categorizing practice in three or four āveśas — the prototype of the upāyas — is an oral Trika tradition originating with Sumati. See above, note 34,1.
+[^480]: Sumati was the teacher of Śambhunātha, Abhinava’s Trika teacher. Abhinava, it seems, is telling us in this way that the system of categorizing practice in three or four āveśas — the prototype of the upāyas — is an oral Trika tradition originating with Sumati. See above, note 34,1.
 
 [^481]: Read jayarathanāmā for jayadrathanāmā.

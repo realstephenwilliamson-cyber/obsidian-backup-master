@@ -111,7 +111,7 @@ dīkṣākarmoditar tatra tatra śāstre maheśinā ॥ 6 ॥
 
 [^466]: SAUH AMŪKANĀMĀ SAUH SVĀHĀ.
 
-[^467]: \[illegible\] With another cight, they become one hundred and eight or one thousand and \[illegible\] ht,
+[^467]: With another cight, they become one hundred and eight or one thousand and \[illegible\] ht,
 
 [^468]: Note that here by ‘Maheśvara’, Śiva is clearly meant, not Abhinava’s teacher, Śambhunātha.
 

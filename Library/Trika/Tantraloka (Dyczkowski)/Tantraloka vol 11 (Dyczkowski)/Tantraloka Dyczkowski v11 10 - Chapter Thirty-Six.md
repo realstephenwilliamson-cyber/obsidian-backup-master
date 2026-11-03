@@ -130,7 +130,7 @@ And each of these parts (khanda) is (subdivided into) eight parts, in accord wit
 
 He indicates (the name of the types of divisions of the scriptures into) pādas etc. 
 
-[^537]: \[illegible\] See above 33/8cd-9ab, where these twelve are listed as the members of a twelve-spoked wheel. They govern the twelve months of the year.
+[^537]: See above 33/8cd-9ab, where these twelve are listed as the members of a twelve-spoked wheel. They govern the twelve months of the year.
 
 [^538]: Jayaratha is saying that Abhinavagupta refers to portions of the scripture that were received by Garuda as ‘bhāgas’, which is one of a number of words that mean ‘part’, in order to stress that these portions were not of equal length, as indicated above.
 
@@ -237,7 +237,7 @@ The Tantrāloka is Their Essence
 
 [^542]: Verses 1160 to 14ab are quoted above in TĀv ad 1/7. Cf. above 4/260 and see below 37/60-61 concerning Abhinava’s teachers in these lineages. See above notes 1,139, 167 and 168, where this passage and its parallel in ŚDr 7/107-111 are discussed. The reader is reminded that in Somānanda’s account of these lineages, which is the original one upon which this one is modelled, there is no mention of Tryambaka’s daughter as the founder of the lineage of Ardhatryambaka (Half of Tryambaka), that Abhinava identifies as the one that teaches the Kaula modality of Trika, which is, essentially, Trika itself.
 
-[^543]: \[illegible\] It is normal practice, as in this case, that women receive a ‘half initiation with respect to men. It is not said to be ‘half’ because it is less than a man’s initiation or because a woman only has ‘half’ his authority. It simply denotes that it is brief and is the woman’s part through which she receives immediate enlightenment. The Trika tradition transmitted in Kashmir by Tryambaka’s daughter, that Abhinava felt he belonged to, was clearly not a lesser tradition. Indeed, quite the contrary. See previous note.
+[^543]: It is normal practice, as in this case, that women receive a ‘half initiation with respect to men. It is not said to be ‘half’ because it is less than a man’s initiation or because a woman only has ‘half’ his authority. It simply denotes that it is brief and is the woman’s part through which she receives immediate enlightenment. The Trika tradition transmitted in Kashmir by Tryambaka’s daughter, that Abhinava felt he belonged to, was clearly not a lesser tradition. Indeed, quite the contrary. See previous note.
 
 
 *[p. 226]* ^pg244

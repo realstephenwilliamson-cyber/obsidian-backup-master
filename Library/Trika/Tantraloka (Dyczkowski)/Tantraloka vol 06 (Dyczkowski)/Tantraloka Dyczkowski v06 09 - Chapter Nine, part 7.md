@@ -292,9 +292,9 @@ From Sāttvika and Rājasika Ego
 मनोवुद्धयक्षकमीक्षवर्गस्तन्मात्रवर्गकः ।। २७२ ॥
 इत्यत्र राजसाहंकृद्योगः संश्ठेषको द्रये ।
 
-[^522]: \[illegible\] vidyāpāda 12/6. Nārāyaṇakaṇṭha comments on the first line of this verse saying: prakāśakṛt sāttviko buddhīndriyamanolakṣaṇo yo vargaḥ, yaś ca karmakṛt rājasatvād vyāpārapravṛttaḥ karmendriyavargaḥ, tābhyāṁ vargābhyāṁ vailakṣanyari vaisādṛśyaṁ yasmād etāsāṁ tanmātrāṇām atas tamobhavā etāḥ || ‘The group consisting of the cognitive organs of sense and the mind (manas) is formed from light and is sāttvika. The senses of action are rājasa, and so are formed from action (karman) and are engaged in activity (vyāpāra). As they are different from these two groups, these subtle elements are tāmasika. prakāśyatvācca bhūtādir ahaṁkāreṣu tāmasaḥ ॥ 6 ॥ \^ . . because (they are) objects of illumination (prakāśya) (that require illumination), the ego here (in this case), (which is that of the reality levels) beginning with the gross elements, 15 đāmasa.’ (6cd) eṣu cāhaṁkāraskandheṣu madhyād yo ‘ya bhūtādir ahaṁkāraskandhaḥ, sa yasmāt prakāśyaḥ tatkāryasya tanmātrātmano manobuddhibhyāṁn buddhindriyaiś ca yogibhir upalabhyatvāt, tato ‘yarn tāmaso vijñeyaḥ | The aspect of the ego, amongst the aspects of the ego, which is that (of the lower reality levels) beginning with the gross elements, should be known to be tāmasa, because it is the object of illumination of its product, that is, the subtle elements, because they are perceived by the mind and the intellect and by the cognitive organs of sense linked to them (as their objects)”
+[^522]: MṛT vidyāpāda 12/6. Nārāyaṇakaṇṭha comments on the first line of this verse saying: prakāśakṛt sāttviko buddhīndriyamanolakṣaṇo yo vargaḥ, yaś ca karmakṛt rājasatvād vyāpārapravṛttaḥ karmendriyavargaḥ, tābhyāṁ vargābhyāṁ vailakṣanyari vaisādṛśyaṁ yasmād etāsāṁ tanmātrāṇām atas tamobhavā etāḥ || ‘The group consisting of the cognitive organs of sense and the mind (manas) is formed from light and is sāttvika. The senses of action are rājasa, and so are formed from action (karman) and are engaged in activity (vyāpāra). As they are different from these two groups, these subtle elements are tāmasika. prakāśyatvācca bhūtādir ahaṁkāreṣu tāmasaḥ ॥ 6 ॥ \^ . . because (they are) objects of illumination (prakāśya) (that require illumination), the ego here (in this case), (which is that of the reality levels) beginning with the gross elements, 15 đāmasa.’ (6cd) eṣu cāhaṁkāraskandheṣu madhyād yo ‘ya bhūtādir ahaṁkāraskandhaḥ, sa yasmāt prakāśyaḥ tatkāryasya tanmātrātmano manobuddhibhyāṁn buddhindriyaiś ca yogibhir upalabhyatvāt, tato ‘yarn tāmaso vijñeyaḥ | The aspect of the ego, amongst the aspects of the ego, which is that (of the lower reality levels) beginning with the gross elements, should be known to be tāmasa, because it is the object of illumination of its product, that is, the subtle elements, because they are perceived by the mind and the intellect and by the cognitive organs of sense linked to them (as their objects)”
 
-[^523]: \[illegible\] Read manobuddhikarmendriyavargaḥ for manobuddhīndriyavargaḥ.
+[^523]: Read manobuddhikarmendriyavargaḥ for manobuddhīndriyavargaḥ.
 
 [^524]: SāṁKā 25; partly also quoted above ad 9/235.
 
@@ -349,7 +349,7 @@ simultaneously.’[^527]
 
 [^526]: MV 1/31.
 
-[^527]: \[illegible\] Nyāyasūtra 1/1/16. Vidyābhūṣaṇa (1981: 8) explains that according to the Naiyāyikas: ‘It is impossible to perceive two things simultaneously. Perception does not arise merely from the contact of a sense-organ with its object, but it requires also a conjunction of the mind. Now the mind, which is an atomic substance, cannot be
+[^527]: Nyāyasūtra 1/1/16. Vidyābhūṣaṇa (1981: 8) explains that according to the Naiyāyikas: ‘It is impossible to perceive two things simultaneously. Perception does not arise merely from the contact of a sense-organ with its object, but it requires also a conjunction of the mind. Now the mind, which is an atomic substance, cannot be
 
     conjoined with more than one sense organ at a time, hence there cannot occur more acts of perception than one at a time.’
 
@@ -750,7 +750,7 @@ Here (with regard to this question), even if a quality and the (substance it) qu
 
 [^557]: Read, with the printed edition, kramavyaṅgya for kramasarikhyā.
 
-[^558]: \[illegible\] 13. The commentary explains: ‘The earth and other (elements) mentioned (here) are distinct from one another due to the (diversity of their) qualities, that is, smell and the rest. They are seen to be varied by nature due to the difference in their forms, such as dry land, stones, mountains, rivers and seas. Thus, they are made manifest gradually, as is a wrapped-up cloth on which is present a varied form (that becomes visible as it is unrolled). It is impossible to perceive the entire nature simultaneously of Earth and the rest (of the elements), which when viewed (are seen to be) diverse, with differing forms (primary and) secondary, nearby, and in accord with their nature,
+[^558]: BhoKā 13. The commentary explains: ‘The earth and other (elements) mentioned (here) are distinct from one another due to the (diversity of their) qualities, that is, smell and the rest. They are seen to be varied by nature due to the difference in their forms, such as dry land, stones, mountains, rivers and seas. Thus, they are made manifest gradually, as is a wrapped-up cloth on which is present a varied form (that becomes visible as it is unrolled). It is impossible to perceive the entire nature simultaneously of Earth and the rest (of the elements), which when viewed (are seen to be) diverse, with differing forms (primary and) secondary, nearby, and in accord with their nature,
 
     distant. Rather (their) nature is made manifest by the senses, or (by way of) inference, gradually (kramenṇa).
 
@@ -1192,7 +1192,7 @@ Thus, the Earth (principle), having gathered into itself the stable luminous nat
 
 [^573]: 9/310ab is a literal quote of MV 2/60ab, which is also quoted above in TĀv ad 5/157cd-158 (156cd-157). Abhinava himself quotes the same line in MVV 1/213ab with reference to Īśāna, Sadāśiva’s upper face. Before quoting this line, he writes: ‘the state of the upper face is that of Īśāna, because (his) qualities are superior in every respect. When one is devoid of the differentiation (kalanā) of direction and time, no concepts of spatial divisions exist.’ MVV 1/212
 
-[^574]: \[illegible\] The concept of the pervader and pervasion (vyāpti) is characteristic of Śaivite speculation, and refers essentially to the capacity of one thing to influence another, viz. to pervade it. Each mantra, Mudrā and state of consciousness has, from this point of view, its power, that is ‘its sphere of pervasion’.
+[^574]: The concept of the pervader and pervasion (vyāpti) is characteristic of Śaivite speculation, and refers essentially to the capacity of one thing to influence another, viz. to pervade it. Each mantra, Mudrā and state of consciousness has, from this point of view, its power, that is ‘its sphere of pervasion’.
 
 *[p. 283]* ^pg302
 
@@ -1241,7 +1241,7 @@ Himself.[^576]
 
 This is taught extensively elsewhere, and so one should understand it from there. Thus he says: 
 
-[^575]: \[illegible\] Read samastatattvaṁ vyāpyeti for samastatattvavyāpyeti.
+[^575]: Read samastatattvaṁ vyāpyeti for samastatattvavyāpyeti.
 
 [^576]: This line is also quoted above in TĀv ad 9/2ab and below ad 11/28.
 

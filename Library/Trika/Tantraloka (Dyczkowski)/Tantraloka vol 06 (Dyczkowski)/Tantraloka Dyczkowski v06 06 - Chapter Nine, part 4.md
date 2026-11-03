@@ -30,7 +30,7 @@ Surely (one may ask), when He assumes the state of a fettered soul, what happens
 भोगोपायेप्सुको नित्यो र्तिव्य : प्रभाष्यते ।
 अचिक्त्वादज्ञता भेदो भोग्याद्धोक्तन्तरादथ ॥ १४६ ||
 
-[^279]: \[illegible\] cidacidrūpatābhāsī could also be translated as ‘making manifest (a mixture of) the sentient and the insentient.”
+[^279]: cidacidrūpatābhāsī could also be translated as ‘making manifest (a mixture of) the sentient and the insentient.”
 
 [^280]: Literally ‘knower of the field’ of the psychophysical organism. See BhG 13/1 ff.
 
@@ -62,7 +62,7 @@ Again:
 
 ‘The fettered soul (pasu) is eternal, formless, ignorant, devoid of the qualities (of Nature), inactive, impotent, and all-pervasive. It resides in the belly of Māyā, deliberating on the means (to have the) worldly experience (bhoga) (which is the consequence of his actions).’[^286] 
 
-[^284]: \[illegible\] This is an explanatory paraphrase of Kiranatantra 1/15, which is quoted by Jayaratha in the commentary.
+[^284]: This is an explanatory paraphrase of Kiranatantra 1/15, which is quoted by Jayaratha in the commentary.
 
 [^285]: Cf, 9/145a Maheśvara is cidacidrūpatābhāsī — ‘manifesting (as a mixture of) the sentient and the insentient’. I could not trace this quarter verse in the Kiranatantra, from which the following verse Jayaratha quotes is drawn. It is apparently part of the verse(s) Abhinava paraphrases in 9/144cd-145ab.
 
@@ -132,7 +132,7 @@ And Māyā is Gods power, which is not separate (from Him). It is (His) freedom 
 
 [^288]: This is a paraphrase of MV 1/24cd-25. The MV (1/25cd) says: jagad utpādayāmāsa māyām āviśya śaktibhiḥ ~ ‘(the Lord) generated the universe having penetrated Māyā with (His) energies’. It seems that Abhinava read ‘vikṣobhya’ — ‘having disturbed’ for \[illegible\] ~ ‘having penetrated’. Kṣemarāja\`s citation of this line (NTu p. 273) accords with the former reading. But Jayaratha reads the latter (see TĀv at 9/40cd-41ab, 9/61b and 9/148cd-149ab). The variant most probably arose as a need to maintain the nondualist view ascribed to the MV. The act of penetration implies a separate penetrating reality, whereas ‘arousal’ can take place with respect to a power at one with its possessor. See Somadeva (2004: 181). These verses form the conclusion of the discussion on mala that extends from 9/142 to 149b.
 
-[^289]: \[illegible\] MV 1/24cd-25. 9/148-149ab is a paraphrase of MV 1/24cd-25, that is quoted by Jayaratha here and above ad 9/61. MV 1/25d is quoted in TĀv ad 9/40cd-41ab. MV 1/25 is quoted ad 4/131.
+[^289]: MV 1/24cd-25. 9/148-149ab is a paraphrase of MV 1/24cd-25, that is quoted by Jayaratha here and above ad 9/61. MV 1/25d is quoted in TĀv ad 9/40cd-41ab. MV 1/25 is quoted ad 4/131.
 
 [^290]: Lord Śiva’s Māyāśakti is a form of His freedom (svātantrya). Swami Lakshmanjoo, commenting on TĀ 9/149-152, quoted in his commentary on the Paramārthasāra 2010: Xv, says: “The energy of Māyā is that illusive energy of Lord Siva, where you don’t find any distinction between the illusive energy of Lord Śiva and svātantryaśakti; when you cannot differentiate God consciousness and individual consciousness (bhedāvabhāsa);, you feel that this whole universe is one with God consciousness, but you don’t feel it exactly . . . you are gone, you are always away from God consciousness, and you feel that still you are in God consciousness, that is Māyāśakti; you are in ignorance (but) you don’t feel that you are ignorant; misunderstanding begins from Māyāśakti.” In the Secret Supreme (p. 47), Swami Lakshmanjoo explains: ‘svātantryaśakti is that state of energy that can produce the power of going down and coming up again, both at will, whereas Māyā will give you the strength of going down and not the ability of rising up again; Māyāśakti is that universal energy which is owned by the individual
 
@@ -246,9 +246,9 @@ the cause of all things, (both) instrumental causes and effects, as the source (
 
 Thus (Māyā) ‘ʻapportions (and measures out)” \[illegible\][^299] (everything) everywhere. It is ‘subtle’, that is, it is unknown to everybody. Thus, the sense is that it is conceived to exist by those of lower vision, because otherwise, (if it were not to exist, its) products could not be explained (anupapatti).[^300] ‘(It is eternal,) because it is invariably associated with Śiva’s power’. Śiva is 
 
-[^298]: \[illegible\] \[illegible\] 120cd-12lab. Read puruṣānantyād for puruṣānantya-, as does the edition of the BhoKĀā. Aghoraśivācārya’s vṛtti supports this reading, saying: māyāyām ānantyān nocyate srotasāṁi saṁkhyā || iti | eṣā ca kṣīradadhinyāyena na sarvātmanā parināmameti, kintu ghṛtakīṭanyāyenaikadeśeneti mantavyam || \*As that which is within Māyā is endless, one does not say that the currents (of experience) have number. That (Māyā) is not transformed (completely) in all respects (sarvātmanā) (when this happens), in accord with the analogy of milk (that changes 0) curd. Rather, one should consider that it takes place in one place (in single instances), on the analogy of clarified butter (that gives rise) to worms (within some parts of it). If we accept the reading here (i.e. puruṣānantyabhogāya), the translation would be, \*in order to (supply) worldly experience (bhoga) to the endless number of individual souls.’ See also the previous verse: acidvatām anekatvād vināśitvaṁ suniścitam || 119 ॥ nānekā sā tv ato nityā māyā yady apy acetanā | ‘It is certain that insentient entities will be destroyed because they are many, whereas Māyā is not many, and so is eternal, even though insentient.’ BhoKā 119cd- 120ab
+[^298]: BhoKā 120cd-12lab. Read puruṣānantyād for puruṣānantya-, as does the edition of the BhoKĀā. Aghoraśivācārya’s vṛtti supports this reading, saying: māyāyām ānantyān nocyate srotasāṁi saṁkhyā || iti | eṣā ca kṣīradadhinyāyena na sarvātmanā parināmameti, kintu ghṛtakīṭanyāyenaikadeśeneti mantavyam || \*As that which is within Māyā is endless, one does not say that the currents (of experience) have number. That (Māyā) is not transformed (completely) in all respects (sarvātmanā) (when this happens), in accord with the analogy of milk (that changes 0) curd. Rather, one should consider that it takes place in one place (in single instances), on the analogy of clarified butter (that gives rise) to worms (within some parts of it). If we accept the reading here (i.e. puruṣānantyabhogāya), the translation would be, \*in order to (supply) worldly experience (bhoga) to the endless number of individual souls.’ See also the previous verse: acidvatām anekatvād vināśitvaṁ suniścitam || 119 ॥ nānekā sā tv ato nityā māyā yady apy acetanā | ‘It is certain that insentient entities will be destroyed because they are many, whereas Māyā is not many, and so is eternal, even though insentient.’ BhoKā 119cd- 120ab
 
-[^299]: \[illegible\] The root mā (2 P), from which the word Māyā is derived here, means ‘to measure (by any standard), mete out, mark off, measure across (= traverse), compare with, apportion, grant, prepare, arrange, fashion, form, build, make, show, and display.’ All these meanings are applicable to what Māyā does, which is essentially to delineate in specific measures and forms the manifestations of consciousness, defined and conditioned in relation to one another. Thus, the one Light of consciousness manifests dynamically as the countless streams of phenomena, each of which is ‘cut off’ from the others with which they are set into relationship by the power of the freedom of consciousness which, operating in this way, is Māyā.
+[^299]: The root mā (2 P), from which the word Māyā is derived here, means ‘to measure (by any standard), mete out, mark off, measure across (= traverse), compare with, apportion, grant, prepare, arrange, fashion, form, build, make, show, and display.’ All these meanings are applicable to what Māyā does, which is essentially to delineate in specific measures and forms the manifestations of consciousness, defined and conditioned in relation to one another. Thus, the one Light of consciousness manifests dynamically as the countless streams of phenomena, each of which is ‘cut off’ from the others with which they are set into relationship by the power of the freedom of consciousness which, operating in this way, is Māyā.
 
 [^300]: Those of ‘lower vision’, to whom Jayaratha is referring, are the dualist Siddhāntins, who maintain that Māyā is an independent insentient reality with respect to consciousness. They maintain that, as such, it is eternal. Here Abhinava argues that it is eternal because it is Éiva’s power, which is one with him, not because it is an independent reality apart from him.
 
@@ -319,7 +319,7 @@ The Force (of Limited Agency) (kalā) and the Other Coverings (kañcuka)[^308]
 
 [^305]: The form here, as in other places further ahead in Jayaratha’s presentation, is that of the standard five membered syllogism. These are 1) Pratijñā — statement of what is to be proved. 2) hetu — the reason 3) udāharaṇa — example, 4) upanayana — application, and 5) nigama ~ conclusion. See above, note to 1/265cd-269ab (264-266).
 
-[^306]: \[illegible\] See above, note 1,154 to TĀv ad 1/7; see note 4,126 ad 4/38 for a definition of Māyā as the ‘Knot’, and also note 8,23 ad 8/9-10, and note 8,27.
+[^306]: See above, note 1,154 to TĀv ad 1/7; see note 4,126 ad 4/38 for a definition of Māyā as the ‘Knot’, and also note 8,23 ad 8/9-10, and note 8,27.
 
 [^307]: See above, note to TĀv ad 1/11 1cd-112ab (112).
 
@@ -652,7 +652,7 @@ If the universe were to be a single aggregate of means to worldly experience (bh
 
 #### Viveka on 9.168–169
 
-[^324]: \[illegible\] Cf. BhoKā 105cd-106ab: ‘The wise should know the aggregate of the means of experience ranging from Kalā to the Earth to be dependent on the individual experiencer. Otherwise, the evident diversity between pleasurable experiences etc. (amongst individuals) would be unaccountable.” See also, Tattvasaṁgraha 24cd-25ab.
+[^324]: Cf. BhoKā 105cd-106ab: ‘The wise should know the aggregate of the means of experience ranging from Kalā to the Earth to be dependent on the individual experiencer. Otherwise, the evident diversity between pleasurable experiences etc. (amongst individuals) would be unaccountable.” See also, Tattvasaṁgraha 24cd-25ab.
 
 [^325]: bhogabhedaḥ kuto bhavet — more literally: ‘from where would the differences (between each individual’s) experiences (come)?
 
@@ -709,7 +709,7 @@ Again, if one considers the diversity to be based on the diversity of Karma rath
 
 [^330]: Aghoraśivācārya comments: ‘Surely, (one may object,) even if the subtle body were to be one (and the same for all), due to the difference in Karma, would there not be a difference (between each person’s) experience, which is its fruit? Then that would (also) be logically untenable.”
 
-[^331]: \[illegible\] The BhoKā reads bhedāt tad bhedo for bhedān na bhede. The meaning is then: ‘(Again,) if one considers the difference of that (experience) to be due to the diversity Karma.’ Aghoraśivācārya comments: ‘The difference between (peoples’) experience is logically established (siddhyati) by the difference (of their) Karma. When the difference between (peoples’) experience has been established, one can infer that there is a difference (in their past) Karma. The meaning is that this entails the logical defect of mutual dependence. Surely (then), the difference between Karmas is logically established as being due to differences of the agents, and due to the difference between Karmas, there is a difference in (their) experience. (Surely then, in that case there would) not be the logical defect of mutual dependence. (Is that not so)? Thus (to counter this reply), he says: ‘again if, etc.’.
+[^331]: The BhoKā reads bhedāt tad bhedo for bhedān na bhede. The meaning is then: ‘(Again,) if one considers the difference of that (experience) to be due to the diversity Karma.’ Aghoraśivācārya comments: ‘The difference between (peoples’) experience is logically established (siddhyati) by the difference (of their) Karma. When the difference between (peoples’) experience has been established, one can infer that there is a difference (in their past) Karma. The meaning is that this entails the logical defect of mutual dependence. Surely (then), the difference between Karmas is logically established as being due to differences of the agents, and due to the difference between Karmas, there is a difference in (their) experience. (Surely then, in that case there would) not be the logical defect of mutual dependence. (Is that not so)? Thus (to counter this reply), he says: ‘again if, etc.’.
 
 [^332]: Read as, in the BhoKā, sambandhād yugapat for sambaddhā yugapat ~ ‘(Then the aggregate of the means to worldly experience, thus) firmly associated.’ The commentary says: “It is not logically possible for (individual) souls that are enveloped in Impurity to be the agents of Karma without being associated with the subtle body etc. (consisting of) Kalā and the rest; (thus,) that aggregate of principles, which is one and in the form of the subtle body, by its association simultaneously with all the agents, goes on creating Karma. How (then) does it create (many) varied separate Karmas? (If this is the question, we reply that) that is not so. This is the meaning. Surely, (would that not be correct) if (we were to say that) the difference in the Karmas is due to the different things each person wishes to do? (To this suggestion, we reply that,) no, that (is not so,) because the desire to act (also) arises because of the
 
@@ -864,7 +864,7 @@ In the course of the initiation that bestows immediate Nirvāṇa, the individua
 
 [^340]: Read kalām for kalā. See TSā p. 80.
 
-[^341]: \[illegible\] A much less forced understanding of the meaning of the word añjanam, which literally means ‘stain’ or ‘impurity’, is Māyā. In which case the translation would be, instead of ‘it gives birth to it within (their) contact (añjana}’, ‘it gives birth to it within the stain (añjana) (of Māyā)’. Cf. the expression below (15/308d): māyāñjanāñjitam i.e. ‘stained by the impurity of Māyā’. See also below, 9/179.
+[^341]: A much less forced understanding of the meaning of the word añjanam, which literally means ‘stain’ or ‘impurity’, is Māyā. In which case the translation would be, instead of ‘it gives birth to it within (their) contact (añjana}’, ‘it gives birth to it within the stain (añjana) (of Māyā)’. Cf. the expression below (15/308d): māyāñjanāñjitam i.e. ‘stained by the impurity of Māyā’. See also below, 9/179.
 
 [^342]: This initiation is described below in Chapter Nineteen. The soul, by virtue of this initiation, transcends the plane of conditioned agency.
 
@@ -1016,13 +1016,13 @@ The activity of (the Force (of limited agency)) that impels to action (prayojaka
 
 ‘O (wise) Brahmin, having thus equally experienced both (the soul and its limited agency), that abide as if they were not different from one another, (the wise) have said that that which generates the agency (kartṛkāraka) of living beings (functions) within the prescribed activity of (its) worldly experience.’[^352] 
 
-[^349]: \[illegible\] Here vidyā is referred to as an ‘instrument — karana. The same usage is observed in Parākhya 4/30 and 35, as it is in other Śaiva texts. Goodall 1998: 206 fn 138 and 2004: 234 n 326 refers to other examples in Tattvasaṁgraha 12, and Mataṁgavṛtti ad vidyāpāda 10/4cd. Here it is said to be the supreme instrument.
+[^349]: Here vidyā is referred to as an ‘instrument — karana. The same usage is observed in Parākhya 4/30 and 35, as it is in other Śaiva texts. Goodall 1998: 206 fn 138 and 2004: 234 n 326 refers to other examples in Tattvasaṁgraha 12, and Mataṁgavṛtti ad vidyāpāda 10/4cd. Here it is said to be the supreme instrument.
 
 [^350]: Tattvasahgraha verse 12. Aghoraśiva comments: ‘The instrument by means of which’ ‘having impelled’ the group of (inner) senses, that is, the intellect, ego and the rest, ‘the individual soul’ generates ‘the object of experience’, and within that ‘object of experience’ experiences, is the instrument of the Self called ‘Knowledge’. As that is most excellent, it is said to be ‘supreme’. This is (what) is said (here): (a person) goes (somewhere) by means of a horse, by a road, by (the light of) a lamp. As in (these) examples, the fruit is attainable by many means also (not just one). But even so,) Vidyā is the supreme means (karana), for it is by that alone that one knows the object of experience (which is to be enjoyed).’
 
 [^351]: Read kartṛkārakaḥ for kartṛkārakam.
 
-[^352]: \[illegible\] Mṛgendratantra vidyāpāda 1/7. It is also quoted below, along with the previous four verses, in TĀv ad 9/190cd-191ab. Nārāyaṇakanṇtha, commenting on this verse, says: \^ ‘‘The living being’ is the fettered individual soul, who has not attained the worldly experience (that accords with his Karma). When the activity of the worldly experience prescribed (for him) arises in the aforestated manner, the teachers ‘have said’, i.e.
+[^352]: Mṛgendratantra vidyāpāda 1/7. It is also quoted below, along with the previous four verses, in TĀv ad 9/190cd-191ab. Nārāyaṇakanṇtha, commenting on this verse, says: \^ ‘‘The living being’ is the fettered individual soul, who has not attained the worldly experience (that accords with his Karma). When the activity of the worldly experience prescribed (for him) arises in the aforestated manner, the teachers ‘have said’, i.e.
 
     taught, that that is ‘that which generates agency’, called the Kalā of the (individual) soul. They have said that, as the enjoyer of the worldly experience (which is the consequence of Karma), it is (the individual soul's) agency. Kalā is the cause that ‘generates’ and makes the power of (the soul’s limited) agency, because it strengthens it?
 

@@ -117,7 +117,7 @@ svayari bhukti\$ ca muktiś ca svayańi devī svayaṁ prabhuḥ || 124 ॥
 
 [^397]: Read -nyāyenanābhinindānari for -nyāyenanābhidhānam.
 
-[^398]: \[illegible\] Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś \[illegible\] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
+[^398]: Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś \[illegible\] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
 
 [^399]: Above, 13/102d.
 
@@ -588,7 +588,7 @@ Also, the teacher (who is illumined) by intuitive insight (prātibhaguru) is cha
 
 [^421]: According to Jayaratha, gurutaḥ means ‘with the assistance of his teacher.” But the Abhinavagupta is making here is that this kind of adept becomes a realized teacher by Siva’s grace directly by means of his practice, not by means of a teacher. Thus, it is better to understand the last line to mean that by the intensity (gurutaḥ) of his austerities, he should perform his own initiation. Cf. above 1/168 Abhinava’s interpretation of the expression ‘gurunā’ in MV 2/23 defining Śāmbhavasamāveśa, see above 1/172 and note.
 
-[^422]: \[illegible\] An individual endowed with devotion is thus endowed with the first characteristic of a descent of grace. In this way he becomes an ‘unformed-cum-formed (akalpitakalpaka) teacher. See above 4/51-53.
+[^422]: An individual endowed with devotion is thus endowed with the first characteristic of a descent of grace. In this way he becomes an ‘unformed-cum-formed (akalpitakalpaka) teacher. See above 4/51-53.
 
 
 *[p. 212]* ^pg234
@@ -961,7 +961,7 @@ Everybody acts depending on others,[^446] because otherwise, without being depen
 
 [^444]: TĀ 1/286-287 (284cd-286ab) also quoted below in TĀv ad 37/32-33ab.
 
-[^445]: \[illegible\] The expression paropajīvitābuddhyā can mean both ‘because (their) understanding (buddhi) depends on others’ and ‘because they understand (buddhi) that they depend on others’ In other words, the intuitive insight of the great majority of disciples is weak and so, aware of that, they depend on others to understand the meaning of the scriptures.
+[^445]: The expression paropajīvitābuddhyā can mean both ‘because (their) understanding (buddhi) depends on others’ and ‘because they understand (buddhi) that they depend on others’ In other words, the intuitive insight of the great majority of disciples is weak and so, aware of that, they depend on others to understand the meaning of the scriptures.
 
 [^446]: Read upajīvito for upajīvituṁ.
 
@@ -1169,7 +1169,7 @@ by virtue of that that his (innate) Great Knowledge may arise, (born of the insi
 
 ‘Reality (fattva) is said to be of three kinds, as Man (Nara), Power (Śakti) and Śiva. Śivas nature is all-pervasive, stainless and transcendent (niṣprapañca). 0 Maheśvara, you have said that Śakti possesses that (same) nature (dharma). The Nara principle is described as being the state of bondage of the bound. You have described the principle of Śakti as present in the agency and instrument (of bondage). And that has been clearly taught as attainable by (all) individual souls, by means of the teacher and scriptures. So how is it that 
 
-[^454]: \[illegible\] Read yuktiḥ for muktiḥ.
+[^454]: Read yuktiḥ for muktiḥ.
 
 
 *[p. 230]* ^pg252
@@ -1245,4 +1245,4 @@ The clarity of (this) intuitive (knowledge) is due to the (excellence) of the te
 
 [^457]: One could also translate the expression ‘adharottaragair vākyaiḥ’ as ‘by means of lower and higher statements’, but that makes less sense.
 
-[^458]: \[illegible\] By comparing the original text cited by Jayaratha, it is clear that the reference to the manner of practice is Abhinava’s gloss.
+[^458]: By comparing the original text cited by Jayaratha, it is clear that the reference to the manner of practice is Abhinava’s gloss.

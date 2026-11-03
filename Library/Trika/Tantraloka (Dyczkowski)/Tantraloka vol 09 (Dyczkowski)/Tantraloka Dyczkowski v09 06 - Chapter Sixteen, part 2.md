@@ -1055,7 +1055,7 @@ He (now) presents the variety of purifying (Mantras) (śodhaka).
 
 [^196]: Cf. above, 15/27-30.
 
-[^197]: \[illegible\] Read so ‘piti bhogaḥ for so ‘pūti guruḥ.
+[^197]: Read so ‘piti bhogaḥ for so ‘pūti guruḥ.
 
 
 *[p. 78]* ^pg98
@@ -1232,7 +1232,7 @@ The purifying (mantras) are of seventy kinds. The object of purification is of t
 
 [^212]: See above 16/164-165.
 
-[^213]: \[illegible\] The four Eggs span the Six Paths, and are pervaded by the three Vidyās of the Trika goddesses. See MV 4/19-25, quoted in TĀv ad 16/216-222 (216cd-223ab).
+[^213]: The four Eggs span the Six Paths, and are pervaded by the three Vidyās of the Trika goddesses. See MV 4/19-25, quoted in TĀv ad 16/216-222 (216cd-223ab).
 
 [^214]: See above 16/166-167.
 
@@ -1331,7 +1331,7 @@ Tf the goal is to attain worldly benefits (bhoga), the wise man should undertake
 
 [^221]: See above 16/151-157.
 
-[^222]: \[illegible\] Read bhūyaḥ saṁkīrnā for bhīūyastv akārino.
+[^222]: Read bhūyaḥ saṁkīrnā for bhīūyastv akārino.
 
 [^223]: CF, below, 25/9.
 
@@ -1373,7 +1373,7 @@ cidvṛtter vaicitryāc
 
 cāñcalye ‘pi kramena sandhānāt ॥ 196 ॥ 
 
-[^224]: \[illegible\] This teacher could only be Śambhunātha, who thus clearly advocated the performance of ritual, although he also supported the paths that internalized ritual or even transcended it altogether if the descent of the power of grace is powerful enough to do so.
+[^224]: This teacher could only be Śambhunātha, who thus clearly advocated the performance of ritual, although he also supported the paths that internalized ritual or even transcended it altogether if the descent of the power of grace is powerful enough to do so.
 
 [^225]: Lit. ‘an extensive (or detailed) assembly / collection of actions and knowledge’ (vistīrnakarmavijñāna-saṁgrahah). Rather than reading ‘karmavijñāna’ as a collective compound ~ ‘action and knowledge’, it is probably better read together as ‘knowledge (vijñāna) of how to perform ritual’. The word vijñāna can mean ‘specific knowledge of how to do something in particular’. The knowledge a doctor, builder, scientist, musician and the like possesses is ‘vijñāna’. It is a ‘knowing how’ not just ‘knowing what’, although that is entailed. Knowing about ritual begins by knowing how to perform it. Knowing what ritual and its components, such as mantras, are, coincides with the knowledge of the deeper reality to which ritual action is responding. To know what ritual is, is to know what reality is. And that knowledge develops and manifests as ritual action proceeds. Repeated ritual action turns into insight, as does yogic action. Insight may come all at once - like a lightning flash it illumines the sacrificer, the sacrificial area, the offerings, instruments, utensils and deities, revealing their essential nature as manifestations shining within the mirror of consciousness.
 
@@ -1594,7 +1594,7 @@ Although it is said (in the scriptures) that the Path of the Phonemes is an obje
 
 #### Viveka on 16.209
 
-[^234]: \[illegible\] See above 16/141. Abhinavagupta presents an extensive and detailed exposition of the correspondences between the letters of these two syllabaries and the tattvas in his commentary on the Parātrīśika, verses 5 to 9ab.
+[^234]: See above 16/141. Abhinavagupta presents an extensive and detailed exposition of the correspondences between the letters of these two syllabaries and the tattvas in his commentary on the Parātrīśika, verses 5 to 9ab.
 
 [^235]: SvT 10/358d. Also quoted above ad 1/34.
 
@@ -1664,7 +1664,7 @@ And it is also said in the Mālinīvijayottara: ‘(To) these (adepts who are) e
 
 #### Viveka on 16.213–216
 
-[^238]: \[illegible\] Read \[illegible\] kṛtvā for ṣatkṛtvo. This is done six times because the powers, that is, Parā etc., are three, as are their Bhairavas.
+[^238]: Read \[illegible\] kṛtvā for ṣatkṛtvo. This is done six times because the powers, that is, Parā etc., are three, as are their Bhairavas.
 
 [^239]: This is done by depositing parts of the mantra (pada), which consist of one or more phonemes, that pervade a certain number of principles. The mantras of which these are parts are those of the goddesses Parāparā, Aparā and Parā. The way this is done is explained in MV 4/18cd-25. Here Abhinavagupta summarizes and modifies 4/19-23ab, which concerns Parāparā. As Abhinava says, in the MV the procedure is in the forward order, that is, starting with the highest reality levels, going down. Here Abhinava presents the Parāparā Vidyā (for which see the following note), in the reverse order.
 

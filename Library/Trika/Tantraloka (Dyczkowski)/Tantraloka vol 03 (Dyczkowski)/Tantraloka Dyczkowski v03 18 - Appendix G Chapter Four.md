@@ -96,7 +96,7 @@ The other Māhānayaprakāśa is by Arṇasiṁha, who is also called Vīrasiṁ
 
 [^1170]: RT 6/108-110.
 
-[^1171]: \[illegible\] Unfortunately, the final colophon in this Mahānayaprakāśa is lacunose where the name of the author was written. However, he tells us directly that he is Arṇasiṁha in one place (253) and elsewhere (135) he says that the teaching concerning Vṛndacakra was originally taught by Jñānanetra and was later revealed by Vīrasiṁha, which probably meant himself.
+[^1171]: Unfortunately, the final colophon in this Mahānayaprakāśa is lacunose where the name of the author was written. However, he tells us directly that he is Arṇasiṁha in one place (253) and elsewhere (135) he says that the teaching concerning Vṛndacakra was originally taught by Jñānanetra and was later revealed by Vīrasiṁha, which probably meant himself.
 
 
 *[p. 486]* ^pg499

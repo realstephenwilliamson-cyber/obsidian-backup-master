@@ -173,7 +173,7 @@ Niyati is subtle time, which literally means the fixed order of things, necessit
 
 [^524]: Dyczkowski, Mark. Manthānabhairavatantram. vol.1, p. 398.
 
-[^525]: \[illegible\] Here, the term ‘thought’ is being utilized in a broad sense to refer to any type of cogitation (verbal, image, felt, etc).
+[^525]: Here, the term ‘thought’ is being utilized in a broad sense to refer to any type of cogitation (verbal, image, felt, etc).
 
 [^526]: Varadachari, Īśvarasarihitā, volume I, p.101, referring to the Sattvatasarihitā.
 
@@ -322,7 +322,7 @@ The primary chronocators (time calculators) are the Sun and Moon. The perceptibl
 
 [^546]: Miller, Barbara Stoler, trans. The Hermit and the Love-Thief: Sanskrit Poems of Bhartrihari and Bilhaṇa. 5/171.
 
-[^547]: \[illegible\] Jaiminīyabrāhmana 1/207, day and night create whatever has happened and whatever is going to happen.
+[^547]: Jaiminīyabrāhmana 1/207, day and night create whatever has happened and whatever is going to happen.
 
 [^548]: This dissolution is not about the intellectual endeavour of ‘believing in time’ or not, which is conceptualization.
 
@@ -801,7 +801,7 @@ top knot is tied in this way that is the results attained.[^562]
 
 [^561]: Tantrāloka (6.68) mentions the importance of the midday and midnight Abhijit muhūrta, which is solar noon and exact midnight. It is not stated, but inferred, to utilize these time periods for worldly pursuits (bhoga) and spiritual practice (mokṣa). Standard practice in India is to use the afternoon Abhijit muhūrta for bhoga and the midnight Abhijit muhūrta for spirituality.
 
-[^562]: \[illegible\] baddhā śikhā yatra tattatphalaniyojikā \\TĀ 6/28ab
+[^562]: evaṁ baddhā śikhā yatra tattatphalaniyojikā \\TĀ 6/28ab
 
 
 *[p. 478]* ^pg493
@@ -826,7 +826,7 @@ Thirty-six Fingers
 
 Normal movement of breath compare to the yogi's breath 
 
-[^563]: \[illegible\] Quoted from the translation of the Vijñānabhairavatantra by Mark Dyczkowski.
+[^563]: Quoted from the translation of the Vijñānabhairavatantra by Mark Dyczkowski.
 
 
 *[p. 479]* ^pg494
@@ -1031,7 +1031,7 @@ Venus | Saum | | Rāīw | \[ Sm
 
 | Jupiter Venus 
 
-[^572]: \[illegible\] The Svacchandatantra and Ṣatsahasahasrasarihitā that follows it say: atha candrasya yadi velā \[illegible\] tadā prathamapraharai candrasya | dvitīyapraharan bhaumasya || tṛtīyaṁ budhasya | caturtha bṛhaspateḥ | Thus confirming that the order of the planets is that of the days of the week. See the translations in note 6,143 of TĀ text.
+[^572]: The Svacchandatantra and Ṣatsahasahasrasarihitā that follows it say: atha candrasya yadi velā \[illegible\] tadā prathamapraharai candrasya | dvitīyapraharan bhaumasya || tṛtīyaṁ budhasya | caturtha bṛhaspateḥ | Thus confirming that the order of the planets is that of the days of the week. See the translations in note 6,143 of TĀ text.
 
 
 *[p. 484]* ^pg499
@@ -1046,7 +1046,7 @@ TĀ 6/66 and Svacchandatantra 42-43ab use the prahara and its calculations,[^574
 
 [^573]: Some traditions see these terms as the same and others differentiate them. In the author’s tradition, ardhyāma is weekday order, while ardhaprahara is Kālacakra order, but what can be inferred from the text and commentary is either weekday order (vāracakra) or a more complex system of weekdays (vāravela).
 
-[^574]: \[illegible\] ketuḥ sūrye vidhau rāhur bhaumāder vārabhāginaḥ || praharadvayam anyeṣāṁm grahāṇām udayo 'ntaraḥ |
+[^574]: ketuḥ sūrye vidhau rāhur bhaumāder vārabhāginaḥ || praharadvayam anyeṣāṁm grahāṇām udayo 'ntaraḥ |
 
 [^575]: dvitīyapraharari candrasya tāluke 2
 
@@ -1201,7 +1201,7 @@ and we see this work above in the praharacakra. Svacchandatantra (VĪ.43cd) adds
 
 The methods of ardha-prahara division above do not create two praharas in a day ruled by one planet, while keeping a continuity of the other ardha-prahara rulerships. There is an electional system called yāmardha or vāravela or popularly known as choghadiya or chogadia in modern 
 
-[^580]: \[illegible\] Praśna Mārga (X6/25) state: ādityadidineṣvinādiphaniparyantāḥ krameṇodayaḥ svasvādyāḥ svadineṣu कवा rsul triyā hi sakalāḥ sidhyeyurindoḥ śanai-nonyeṣāmudaye vadediti sudhīḥ sāñcantya pṛchāvidhaull25|| The eight parts of the day beginning from sunrise are ruled respectively by the weekday lord and other planets in the order of the Sun to Rāhu. If the ruling period at the time of query is that of Jupiter, Mercury, or Venus, the objects of the question will be fully realized. If the ruler of the period is the Moon, the object will be fulfilled in due course. Tf the periods belong to Sun, Mars, Saturn or Rāhu, the result is failure. (Translation by
+[^580]: Praśna Mārga (X6/25) state: ādityadidineṣvinādiphaniparyantāḥ krameṇodayaḥ svasvādyāḥ svadineṣu कवा rsul triyā hi sakalāḥ sidhyeyurindoḥ śanai-nonyeṣāmudaye vadediti sudhīḥ sāñcantya pṛchāvidhaull25|| The eight parts of the day beginning from sunrise are ruled respectively by the weekday lord and other planets in the order of the Sun to Rāhu. If the ruling period at the time of query is that of Jupiter, Mercury, or Venus, the objects of the question will be fully realized. If the ruler of the period is the Moon, the object will be fulfilled in due course. Tf the periods belong to Sun, Mars, Saturn or Rāhu, the result is failure. (Translation by
 
     Raman, Praśna Mārga).
 

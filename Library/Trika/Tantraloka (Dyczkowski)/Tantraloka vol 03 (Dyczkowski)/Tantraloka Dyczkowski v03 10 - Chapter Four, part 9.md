@@ -199,7 +199,7 @@ nāsmin vidhīyate kiñcin na cāpi pratiṣidhyate |
 
 [^821]: 4/213cd-221ab is a literal quote of MV 18/74-81. The following section, that extends from 221cd to 278, is Abhinava’s commentary on these verses. Here Abhinava finds his way through conflicting statements about Śaiva practice by rejecting some provisional rules, and providing the arguments that can establish a hierarchy of these conflicting injunctions and prohibitions concerning ritual purity.
 
-[^822]: \[illegible\] Monier-Williams defines the word samācāra as follows: ‘equal manners or customs, equal or virtuous conduct ib. mfn. equal or similar in practice or in virtuous conduct ib. m. procedure, practice, conduct, custom, usage, usual way or method.’ We can understand the technical sense of the term from the context to be “behaving equally with respect to the opposites’. Concretely what this means is, for example, viewing what is commonly considered to be pure and impure as a false distinction, and acting accordingly. A Brahmin who behaves this way may freely embrace an untouchable, or eat food such as meat, that is normally considered to be impure. Clearly, if he did that for any other reason, he would be seriously transgressing.
+[^822]: Monier-Williams defines the word samācāra as follows: ‘equal manners or customs, equal or virtuous conduct ib. mfn. equal or similar in practice or in virtuous conduct ib. m. procedure, practice, conduct, custom, usage, usual way or method.’ We can understand the technical sense of the term from the context to be “behaving equally with respect to the opposites’. Concretely what this means is, for example, viewing what is commonly considered to be pure and impure as a false distinction, and acting accordingly. A Brahmin who behaves this way may freely embrace an untouchable, or eat food such as meat, that is normally considered to be impure. Clearly, if he did that for any other reason, he would be seriously transgressing.
 
 
 *[p. 315]* ^pg328
@@ -223,7 +223,7 @@ vihitan sarvam evātra pratiṣiddham athāpi ca \[illegible\] vā\] ॥ 217 ॥
 
 [^823]: In the relevant textual sources, the expressions ‘duality’ and ‘nonduality’ commonly, and certainly in this context, refer to the perception of a difference or otherwise between ‘pure’ and ‘impure’. From this perspective, Kaulism teaches ‘nonduality’ in the sense that it denies that the distinction between purity and impurity has an objective, ontological basis. Things are not ‘pure’ or otherwise in themselves. This ‘nonduality’ is not essentially a metaphysical concept. Certainly it may be seen, as Abhinava does, that the reason for this is that there is only one reality, and so that cannot be contaminated by anything supposed to exist apart from it. Or these two contradictory views are a mistake, brought about by the mistaken sense of relative distinctions (bheda), due to the deluding influence of Māyā (4/254). But it is in actual fact quite possible for there to be no sense of ‘pure’ and ‘impure’ (as opposed to ‘clean or ‘dirty’) in a dualist world view. One evident example is Christianity, which is not generally considered to be nondualist. Indeed, those who are totally devoid of religion may be ‘nondualists’ in this sense without any ontological implications, for which, anyway, they have no concern. In a Kaula perspective, the contrast between ‘pure’ and ‘impure’ is emblematic of all forms of duality. And they are the result of the ignorance of reality that binds by the mistaken identification with the body.
 
-[^824]: \[illegible\] Also quoted above in 4/106-108ab.
+[^824]: Also quoted above in 4/106-108ab.
 
 [^825]: See below note 4,930 ad 4/257cd-258ab, where the Kulapañcaśikā is quoted as disapproving the growing of matted hair and the wearing of sectarian insignias as do Śaiva ascetics.
 
@@ -249,7 +249,7 @@ In this way, after (teaching) the true nature of the repetition of Mantra and th
 
 [^826]: MV 18/78ab is quoted in 4/107ab.
 
-[^827]: \[illegible\] MV 18/78cd-79a is also quoted as TĀ 4/108cd-109a. TĀ 4/109b reads tac ca yasy yathāstv iti ‘and that of whoever in whatever way (possible)’, which is a condensed paraphrase of MV 18/79cd. Cf. TĀ 4/120cd-121ab and 4/213cd ff. MV 8/79b reads suprayatnena yoginā ~ ‘by the yogi who exerts himself well’ for TĀ 4/218d suprasannena yoginā — ‘by the well pleased yogi’. It seems likely that Abhinava made this change in the text. The point he sees the MV is making is that the yogi should focus his attention on ultimate reality with ease. He should not be strained and tense by exerting himself.
+[^827]: MV 18/78cd-79a is also quoted as TĀ 4/108cd-109a. TĀ 4/109b reads tac ca yasy yathāstv iti ‘and that of whoever in whatever way (possible)’, which is a condensed paraphrase of MV 18/79cd. Cf. TĀ 4/120cd-121ab and 4/213cd ff. MV 8/79b reads suprayatnena yoginā ~ ‘by the yogi who exerts himself well’ for TĀ 4/218d suprasannena yoginā — ‘by the well pleased yogi’. It seems likely that Abhinava made this change in the text. The point he sees the MV is making is that the yogi should focus his attention on ultimate reality with ease. He should not be strained and tense by exerting himself.
 
 [^828]: MV 18/79cd is also quoted in TĀv ad 4/108cd-109ab.
 
@@ -305,11 +305,11 @@ impure’ would be compromised.[^835]
 
 If impurity, which is thus an attribute of the perceiver, were to be purified by another entity, is that (entity) pure or impure? 
 
-[^835]: \[illegible\] An entity possesses two types of qualities. One is called ‘guna’ and is extrinsic to its nature. A jar, for example, may be red or black. It makes no difference to its essential nature as a jar. The other type of quality is called ‘dharma’, which is, on the contrary, intrinsic to its nature. If the ‘jar-ness’ of a jar, for example, changes to something else like ‘cloth-ness’, it is no longer a jar. If impurity were to be an intrinsic quality of an entity, purification would require a change in its essential nature. This means that it would cease to be one thing (‘an impure entity’) and become another (‘pure entity’). One could get over this objection by simply saying that ‘purity’ or ‘impurity’ are secondary qualities, like ‘blue’ or ‘yellow’. However, conceding that amounts to admitting that nothing is ‘impure’ or ‘pure’ in itself. The point here, it seems, is that if the nature of something could be changed, then there would be no need to purify or clean it in some particular way. Moreover, it is indeed possible to purify or clean something. Otherwise, the scriptures would not explain how to do it. Nor would they enjoin it if it were not possible. So the question naturally arises that if the distinction between ‘pure’ and ‘impure’ is just a way of perceiving, how can something which is impure be purified? Abhinava replies that if outer entities were indeed to be pure or impure in themselves, they could not be sullied or purified. A so-called pure entity in the course of cleaning an impure one would itself become impure, and so would need another to purify it. Thus, the distinction is a perceived difference, not an intrinsic one.
+[^835]: An entity possesses two types of qualities. One is called ‘guna’ and is extrinsic to its nature. A jar, for example, may be red or black. It makes no difference to its essential nature as a jar. The other type of quality is called ‘dharma’, which is, on the contrary, intrinsic to its nature. If the ‘jar-ness’ of a jar, for example, changes to something else like ‘cloth-ness’, it is no longer a jar. If impurity were to be an intrinsic quality of an entity, purification would require a change in its essential nature. This means that it would cease to be one thing (‘an impure entity’) and become another (‘pure entity’). One could get over this objection by simply saying that ‘purity’ or ‘impurity’ are secondary qualities, like ‘blue’ or ‘yellow’. However, conceding that amounts to admitting that nothing is ‘impure’ or ‘pure’ in itself. The point here, it seems, is that if the nature of something could be changed, then there would be no need to purify or clean it in some particular way. Moreover, it is indeed possible to purify or clean something. Otherwise, the scriptures would not explain how to do it. Nor would they enjoin it if it were not possible. So the question naturally arises that if the distinction between ‘pure’ and ‘impure’ is just a way of perceiving, how can something which is impure be purified? Abhinava replies that if outer entities were indeed to be pure or impure in themselves, they could not be sullied or purified. A so-called pure entity in the course of cleaning an impure one would itself become impure, and so would need another to purify it. Thus, the distinction is a perceived difference, not an intrinsic one.
 
-[^836]: \[illegible\] MSs Ch and Ñ read taijasādīnāṁ for taijasānām.
+[^836]: MSs Ch and Ñ read taijasādīnāṁ for taijasānām.
 
-[^837]: \[illegible\] Read bhasmādibhir for bhasmanādbhir.
+[^837]: Read bhasmādibhir for bhasmanādbhir.
 
 [^838]: Even the most precious stones are made of the element Earth. And only earthen things can clean other earthen things. Thus, a gem, however precious, may be cleaned with something that is of little value and is, moreover, not itself clean.
 
@@ -463,7 +463,7 @@ nanu codanayā śuddhyaśuddhyādikaviniścayaḥ ॥ 228 ॥
 
 [^843]: bhāvānāṁṁ svātmani śuddhyaśuddhivibhāgo — literally that ‘there is a division between purity and impurity within the nature of things’.
 
-[^844]: \[illegible\] From here up to verse 238, Abhinava launches into a discussion framed in terms of one of the basic problems discussed by the Mīmāṁsā, a school of philosophy that developed a worldview that served to explain the efficacity of the Vedic sacrifice. The covert influence of the Vedas is surprisingly substantial in a wide variety of ways in the Śaiva Tantras, especially those of the Siddhānta; they are co1 red by Trika scriptures to be, at best, to be a preliminary entry point to the Tantras. They do not, at this stage of the development of Āgamic Śaivism, play an overtly major role in either its ritual or doctrinal context. After the twelfth century, largely because of the changed conditions in India due to the Muslim domination of the north of India, which brought about a substantial loss of patronage of Hinduism in all its forms, the Vedic and Tantric traditions came closer together to sustain one another. This was arp arent in many ways. For example, Vedic recitation assumed a more prominent role in Saiva Siddhānta ritual in the temples of South India. It became common practice for ritual worship (pūjā) in general to be done with both Vedic and Tantric Mantras. The orders of renunciates (sannyāsin) founded by Śaṁkara adopted the worship of Śrīvidyā, attributing this development to Śaṅkara himself. One could cite numerous examples. Abhinava’s vast erudition covered all the main systems of philosophy, including the Mīmāṁsā, to which he refers several times in his Tantrāloka and elsewhere. The reason for this was not to integrate Veda into Tantra. Rather it was to establish an exegesis of Śaiva ritual procedure and attendant matters, such as in this case, the nature of prohibitions and injunctions, on the same level of sophistication as the Mīmāṁsā had done for the Vedas and their rites. Moreover, references to Mīmāṁsā are necessary in order to defend the evident differences between the Vedic view and the Tantric, especially concerning ritual purity.
+[^844]: From here up to verse 238, Abhinava launches into a discussion framed in terms of one of the basic problems discussed by the Mīmāṁsā, a school of philosophy that developed a worldview that served to explain the efficacity of the Vedic sacrifice. The covert influence of the Vedas is surprisingly substantial in a wide variety of ways in the Śaiva Tantras, especially those of the Siddhānta; they are co1 red by Trika scriptures to be, at best, to be a preliminary entry point to the Tantras. They do not, at this stage of the development of Āgamic Śaivism, play an overtly major role in either its ritual or doctrinal context. After the twelfth century, largely because of the changed conditions in India due to the Muslim domination of the north of India, which brought about a substantial loss of patronage of Hinduism in all its forms, the Vedic and Tantric traditions came closer together to sustain one another. This was arp arent in many ways. For example, Vedic recitation assumed a more prominent role in Saiva Siddhānta ritual in the temples of South India. It became common practice for ritual worship (pūjā) in general to be done with both Vedic and Tantric Mantras. The orders of renunciates (sannyāsin) founded by Śaṁkara adopted the worship of Śrīvidyā, attributing this development to Śaṅkara himself. One could cite numerous examples. Abhinava’s vast erudition covered all the main systems of philosophy, including the Mīmāṁsā, to which he refers several times in his Tantrāloka and elsewhere. The reason for this was not to integrate Veda into Tantra. Rather it was to establish an exegesis of Śaiva ritual procedure and attendant matters, such as in this case, the nature of prohibitions and injunctions, on the same level of sophistication as the Mīmāṁsā had done for the Vedas and their rites. Moreover, references to Mīmāṁsā are necessary in order to defend the evident differences between the Vedic view and the Tantric, especially concerning ritual purity.
 
 
 *[p. 325]* ^pg338
@@ -506,7 +506,7 @@ matter) has been discussed at length elsewhere.[^847] (229cd)
 
 [^845]: Manusmṛti 1/132.
 
-[^846]: \[illegible\] See above, 4/213cd.
+[^846]: See above, 4/213cd.
 
 [^847]: See below, 15/170cd-179ab, Chapter Thirty-five and 37/1-32. Possibly Abhinava is referring to another work, but if it is his, it has been lost.
 
@@ -523,11 +523,11 @@ Thus, other scriptures are (effectively) refuted by the Veda. Accordingly, on th
 
 Surely, (the fallacy with this argument is that), if that is the case, the same reasoning (is applicable to the Vedas as being) external to (the Tantras). 
 
-[^849]: \[illegible\] Read -nikhiladharmah for -nikhiladharmā.
+[^849]: Read -nikhiladharmah for -nikhiladharmā.
 
 [^850]: Read na ca for naca.
 
-[^851]: \[illegible\] The common meaning of words may be known by just knowing the convention that particular words have certain meanings. Although thi sufficient to understand the bare meaning of the words of the scriptures, this is not enough. In order to understand more that is not directly expressed or implicit, we must refer to the author’s intention. Moreover, we need to know whether what is stated is correct or not. All this can only be known from one who knows it, and so is an apt authority. In both cases, in this context, the author and the authority is Siva. The Vedic belief, systematically elaborated by the Mīmāṁsā, is that the Vedas are not created. They have no author. They are ‘apauruṣeya’, which literally means that they do not belong to or are made by any person (puruṣa). The word ‘person’ in this context does not just denote an individual human being, it also refers to the ‘person’ of Deity. This is not the Śaiva view, which maintains, on the contrary, that all the scriptures, whether Vedic or Tantric, are uttered by Deity. Jayaratha, seemingly summarizing the arguments to which Abhinava refers, advances the following reasons against the Vedic view. One is that the Vedas are literary compositions, and all compositions must have an author. In this case, the author can only be Śiva, so it is to His words that we should turn our attention.
+[^851]: The common meaning of words may be known by just knowing the convention that particular words have certain meanings. Although thi sufficient to understand the bare meaning of the words of the scriptures, this is not enough. In order to understand more that is not directly expressed or implicit, we must refer to the author’s intention. Moreover, we need to know whether what is stated is correct or not. All this can only be known from one who knows it, and so is an apt authority. In both cases, in this context, the author and the authority is Siva. The Vedic belief, systematically elaborated by the Mīmāṁsā, is that the Vedas are not created. They have no author. They are ‘apauruṣeya’, which literally means that they do not belong to or are made by any person (puruṣa). The word ‘person’ in this context does not just denote an individual human being, it also refers to the ‘person’ of Deity. This is not the Śaiva view, which maintains, on the contrary, that all the scriptures, whether Vedic or Tantric, are uttered by Deity. Jayaratha, seemingly summarizing the arguments to which Abhinava refers, advances the following reasons against the Vedic view. One is that the Vedas are literary compositions, and all compositions must have an author. In this case, the author can only be Śiva, so it is to His words that we should turn our attention.
 
 [^852]: Cf. below, note 4,909 to TĀv on 4/251cd.
 
@@ -854,7 +854,7 @@ Moreover, it is said in the venerable Vīrāvali,[^878] in the course of describ
 
 [^876]: The subject treated in the following passage, that is, the purity or otherwise of Kaula sacrificial substances (dravya), is taken up again in more detail below from 15/164cd ff.
 
-[^877]: \[illegible\] Read na ca for naca.
+[^877]: Read na ca for naca.
 
 [^878]: The citation from the Vīrāvali extends from 2416 to 244ab. Below in Chapter Twelve, Abhinava discusses the nature of impurity and doubts. Jayaratha ad 12/23cd- 24ab informs us that ‘much is said about this in the seventh chapter (uddeśa) of the venerable Vīrāvalitantra. This (view) has been corroborated to some extent (with reference to it) previously’. It appears that he is referring to 4/241cd-244ab. If so, this is the chapter of the Vīrāvali Abhinava is quoting from.
 
@@ -881,7 +881,7 @@ Therefore, that which is not very distant from consciousness imparts purity.[^88
 
 [^880]: According to Utpaladeva, the powers of knowledge and action constitute life. Thus, he declares that: “The being of the insentient depends entirely on the sentient; and the powers of knowledge and action are the very life of sentient beings.” ĪP 1/1/3 Abhinava comments: \*. . . That alone has independent existence which shines independently of other (things). And because what is said to be insentient cannot exist independently of the light of consciousness, the view that the power of insentient entities is revealed to (other) insentient entities is baseless. . . -"
 
-[^881]: \[illegible\] This line is quoted below in TĀv ad 29/127cd-128ab. There the reading is as in MS C tat śuddham āharet for tat śuddhim āvahet. Jayaratha quotes it in the context of the consumption of sexual fluids produced by orgasm in the course of Kaula ritual. In that context, the variant reading is more appropriate, for the line would then mean, ‘therefore that which is not very distant from consciousness is pure and should be eaten’. It appears that 243ab is Abhinava’s own general observation. 243cd-244ab is a more direct reflection on the passages Jayaratha supplies from the Vīrāvalī, which, as Jayaratha implicitly suggests, may well have been in Abhinava’s mind.
+[^881]: This line is quoted below in TĀv ad 29/127cd-128ab. There the reading is as in MS C tat śuddham āharet for tat śuddhim āvahet. Jayaratha quotes it in the context of the consumption of sexual fluids produced by orgasm in the course of Kaula ritual. In that context, the variant reading is more appropriate, for the line would then mean, ‘therefore that which is not very distant from consciousness is pure and should be eaten’. It appears that 243ab is Abhinava’s own general observation. 243cd-244ab is a more direct reflection on the passages Jayaratha supplies from the Vīrāvalī, which, as Jayaratha implicitly suggests, may well have been in Abhinava’s mind.
 
 *[p. 339]* ^pg352
 
@@ -922,7 +922,7 @@ Surely (one may ask,) if that is the case, how is it that the sages have taught 
 
 [^883]: Contrary to many peoples’ opinion, even nowadays, the Kaula substances are not sacred and powerful simply because they are considered impure and obnoxious by the common Vedic norms and, indeed, most people in general. Kaula practice, at least as Abhinava understands it, is not about gaining power through transgression. It is about realizing that everything is equally Śiva’s divine consciousness.
 
-[^884]: \[illegible\] The same verse, which is probably from the Vīrāvalītantra, is quoted below in TĀv ad 29/101cd-102. There instead of the reading bhīmarūpinī — ‘awesomely formidable’, we find kāmasurūpiṇī — ‘beautiful by virtue of the passion (that it arouses)’. The word \*bhīma’ means fearful, terrific, terrible, awful, formidable, tremendous and the like. For a Hindu, eating beef is as obnoxious and sinful as eating human flesh. Ritual sex practiced in a cremation ground is also bhīma. We find a lengthy and interesting description of an example of this kind of practice (caryā) in the Brahmayāmala. Concerning caryā — ‘right conduct’ in general and especially such forms of it, see Dyczkowski 2009: intro. 1,507 ff. See also below ad 29/98ab-100ab.
+[^884]: The same verse, which is probably from the Vīrāvalītantra, is quoted below in TĀv ad 29/101cd-102. There instead of the reading bhīmarūpinī — ‘awesomely formidable’, we find kāmasurūpiṇī — ‘beautiful by virtue of the passion (that it arouses)’. The word \*bhīma’ means fearful, terrific, terrible, awful, formidable, tremendous and the like. For a Hindu, eating beef is as obnoxious and sinful as eating human flesh. Ritual sex practiced in a cremation ground is also bhīma. We find a lengthy and interesting description of an example of this kind of practice (caryā) in the Brahmayāmala. Concerning caryā — ‘right conduct’ in general and especially such forms of it, see Dyczkowski 2009: intro. 1,507 ff. See also below ad 29/98ab-100ab.
 
 *[p. 341]* ^pg354
 
@@ -1001,7 +1001,7 @@ kvacit saṁdarśitaṁ brahmahatyāvidhiniṣedhavat |
 
 Thus (Vedic) injunctions are seen in certain circumstances to be contradicted even by their own statements (in the sense that generally 
 
-[^888]: \[illegible\] Read tadāpi for tad api.
+[^888]: Read tadāpi for tad api.
 
 [^889]: Manusmṛti 11/67.
 
@@ -1037,7 +1037,7 @@ One can understand injunctions from the force of the sense of such statements as
 
 [^890]: See above, 4/230cd-232ab. According to the Indian lawbooks (dharmaśāstra), penances for the same crime differ according to the caste of the person who commits them. A Brahmin who kills another Brahmin is not liable to capital punishment, as would be those who belong to castes below them. The reason given for this is that Brahmins are inherently more pure, and so do not need to atone for a crime to the same degree as more impure members of lower castes. So while capital punishment is enjoined for the latter, it is forbidden in the case of the former.
 
-[^891]: \[illegible\] MV 18/74b quoted above 4/213d.
+[^891]: MV 18/74b quoted above 4/213d.
 
 
 *[p. 345]* ^pg358
@@ -1109,7 +1109,7 @@ by the Vedic sages. The words of Brahmā are not (overridden) by those of the go
 
 [^895]: Read with the IFP transcript daivikaṁ for vaidikaṁ and cārṣibhis for carṣibhis.
 
-[^896]: \[illegible\] Read with the IFP transcript padmajanmanā for padmajanmajaiḥ.
+[^896]: Read with the IFP transcript padmajanmanā for padmajanmajaiḥ.
 
 
 *[p. 347]* ^pg360

@@ -335,11 +335,11 @@ One should know that the first three parts (of mantras) there[^274] (extend) for
 
 [^271]: MV 6/18d reads vidyāvibhedatā for vidyāvibhedataḥ,
 
-[^272]: \[illegible\] MV 6/18cd-19ab.
+[^272]: MV 6/18cd-19ab.
 
 [^273]: MV dvyamngulaṁ,
 
-[^274]: \[illegible\] MV 6/21b reads tataḥ — ‘thus’ for tatra — ‘there’.
+[^274]: MV 6/21b reads tataḥ — ‘thus’ for tatra — ‘there’.
 
 [^275]: MV 6/22a reads saptāṁgulāni ‘seven fingers’ for aṣtāṁgulāni ‘eight fingers’.
 
@@ -369,7 +369,7 @@ Thus, the deposition taught (here) as being of two kinds, because (it can either
 
 Reading ‘one, one and two finger (spaces)’ (instead of ‘two finger(- spaces) each’), then the first three Parts (of Mantra) (extend for) four finger- 
 
-[^276]: \[illegible\] TĀ 16/233ab-235ab (233cd-235) = MV 6/21cd-23. MV 6/23d reads dve ‘pūrve dve pṛthak tataḥ ~ ‘the last two are then two, (one each) separately’ for tathānye dve dvi parvanī — ‘the other two, for two fingers (one each). Basically, the configuration of the Parts (pada) related to the finger spaces of the body is the same as presented above in 16/227cd-229ab (228-229) (see note there). The only difference is that in the previous instance, the first three Parts of two fingers each are taken together as covering six finger spaces, and the following four Parts that occupy of eight fingers each are taken together as being thirty-two. Thus, the configuration of the previous one is 6 (2 x 3) + 32 (i.e. 4 x 8)+10+1+1+64+12+5+54+2+2+1 + 1 = 84 fingers in 13 divisions. This one is 2+42+2+484+48+8+8+10+1+1+6+12+5+5+2+2+1 + 1 = 84 fingers in 15 divisions.
+[^276]: TĀ 16/233ab-235ab (233cd-235) = MV 6/21cd-23. MV 6/23d reads dve ‘pūrve dve pṛthak tataḥ ~ ‘the last two are then two, (one each) separately’ for tathānye dve dvi parvanī — ‘the other two, for two fingers (one each). Basically, the configuration of the Parts (pada) related to the finger spaces of the body is the same as presented above in 16/227cd-229ab (228-229) (see note there). The only difference is that in the previous instance, the first three Parts of two fingers each are taken together as covering six finger spaces, and the following four Parts that occupy of eight fingers each are taken together as being thirty-two. Thus, the configuration of the previous one is 6 (2 x 3) + 32 (i.e. 4 x 8)+10+1+1+64+12+5+54+2+2+1 + 1 = 84 fingers in 13 divisions. This one is 2+42+2+484+48+8+8+10+1+1+6+12+5+5+2+2+1 + 1 = 84 fingers in 15 divisions.
 
 [^277]: See the previous note.
 
@@ -743,7 +743,7 @@ yah saṁkrānto ‘bhijalpaḥ syāt tasyāpy anyopadeṣtṛtaḥ ॥ 258 ॥
 
 Now, it is said that that (association of thought with inner discourse originates) from reflective awareness. (Well then,) where did that also (originate from)? Thus he says, ‘(If you say that) that (association originated) from reflective awareness (vimarśa), (then) where did that also (originate from)?’ (If one admits that) in this way, reflective awareness (originates) from (its) association with (this inner) discourse, and (conversely,) association with (this inner) discourse from that, the consequence would be a vicious circle. This is 
 
-[^297]: \[illegible\] After having presented the intricacies of these depositions, Abhinava continues from here to verse 294 (294cd-295ab) with his linguistic analysis of mantra.
+[^297]: After having presented the intricacies of these depositions, Abhinava continues from here to verse 294 (294cd-295ab) with his linguistic analysis of mantra.
 
 
 *[p. 113]* ^pg133
@@ -890,7 +890,7 @@ Accordingly, he says:
 
 [^302]: Above, 7/2cd-3ab.
 
-[^303]: \[illegible\] Gnoli translates the expression ‘mantratantra’ as the ‘science of mantras’. The word ‘tantra’ in this context can also be understood to mean ‘ritual procedure’, in which case the teacher should be an expert in the knowledge of mantras and their application to ritual.
+[^303]: Gnoli translates the expression ‘mantratantra’ as the ‘science of mantras’. The word ‘tantra’ in this context can also be understood to mean ‘ritual procedure’, in which case the teacher should be an expert in the knowledge of mantras and their application to ritual.
 
 
 *[p. 119]* ^pg139
@@ -967,9 +967,9 @@ If by (deep) contemplation (bhāvanā) of the meaning (purpose, goal and ultimat
 
 Surely (one may object) that it is not proved that they are the same in all respects. The (formative) process of (a type of discourse) that is other than Mantra is not the same (as that of Mantra). With this doubt in mind, he says: 
 
-[^305]: \[illegible\] Literally ‘made of’.
+[^305]: Literally ‘made of’.
 
-[^306]: \[illegible\] kathā japaḥ ŚSāū 3/27.
+[^306]: kathā japaḥ ŚSāū 3/27.
 
 
 *[p. 121]* ^pg141
@@ -1286,7 +1286,7 @@ The sense is that Mantra is (spontaneously,) by itself alone, (inherently) consc
 
 [^322]: MS Threads tadāyattāṁ (which agrees with siddhiṁ) for tadāyattāḥ (which agrees with mantrādayas). If we accept the reading in manuscript Th, the meaning would be “((Mantras) are capable of achieving (for those who utter them) the accomplishment of) adhering to that (consciousness).
 
-[^323]: \[illegible\] Tt is very likely that the following verse is drawn from the Gamatantra. The term ‘vimarśa’ (reflective awareness’) is almost entirely absent in the primary sources. Thus, its usage in the previous verse can be taken as evidence that it is composed by Abhinava as a gloss on the one that follows, which is drawn from the Gamatantra. Cf. above 1/150-151 where a verse drawn from the Gamatantra is introduced as being from there, at the end of the previous line.
+[^323]: Tt is very likely that the following verse is drawn from the Gamatantra. The term ‘vimarśa’ (reflective awareness’) is almost entirely absent in the primary sources. Thus, its usage in the previous verse can be taken as evidence that it is composed by Abhinava as a gloss on the one that follows, which is drawn from the Gamatantra. Cf. above 1/150-151 where a verse drawn from the Gamatantra is introduced as being from there, at the end of the previous line.
 
 
 *[p. 129]* ^pg149
@@ -1327,7 +1327,7 @@ The sense of (the sages asking) “what is the purpose?” is, why is the charac
 
 Desiring to answer the sages’ question, Kārtikeya (said) that it is taught (there) as an auxiliary (limb) of Yoga. Thus, in order to explain this, he says: 
 
-[^324]: \[illegible\] Abhinava is broadly referring to MV 4/2, which is quoted by Jayaratha in the commentary.
+[^324]: Abhinava is broadly referring to MV 4/2, which is quoted by Jayaratha in the commentary.
 
 [^325]: MV 4/2.
 
@@ -1368,11 +1368,11 @@ api mantrādhikāritvaṁ muktiśca śivadīkṣayā ॥ 292 ॥
 
 [^326]: Read with the edition of the MV, yadvastu for tadvastu.
 
-[^327]: \[illegible\] Abhinava omits MV 4/5ab, perhaps because it was not found in his manuscript or was added later as a gloss. It reads: dvirūpam api taj jṁñānaṁ vinā jñātuṁ na śakyate | “It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (jñāna).
+[^327]: Abhinava omits MV 4/5ab, perhaps because it was not found in his manuscript or was added later as a gloss. It reads: dvirūpam api taj jṁñānaṁ vinā jñātuṁ na śakyate | “It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (jñāna).
 
 [^328]: ‘concentration with seed’ — in Patañjali’s Yoga (YSū 1/46 ʻā eva sabījaḥ samādhiḥ). According to the Yogasūtrabhāṣya, the term denotes the four kinds of meditative attainments (5 ti) related to gross and subtle external objects (ibid. tāś catasraḥ samāpattayo bahirvastubījā iti samādhir api sabījaḥ).
 
-[^329]: \[illegible\] See above note 1,1172 to TĀv ad 1/231cd-232ab (232).
+[^329]: See above note 1,1172 to TĀv ad 1/231cd-232ab (232).
 
 
 *[p. 131]* ^pg151

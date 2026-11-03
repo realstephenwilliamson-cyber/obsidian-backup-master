@@ -137,7 +137,7 @@ is within the four, (the principles) beginning with Earth, respectively. HAM is 
 
 [^8]: Emend kṣkā to kṣvīṁ, as found in MV 23/13c.
 
-[^9]: \[illegible\] This section, from 4 to 10ab, presents the Mantras for the worship of the Trident Throne. The printed edition has grouped these verses into one. For the convenience of the reader, 1 am separating them in accord with parts of the Trident. The mantras are taught in the MV 23/13-15, of which these verses 4 to 10ab are an expanded explanatory paraphrase. The formation of the Throne is described in detail above, in 15/297cd-314. The worship of the deities continues up to 352ab. We observe here, as in many other cases, that Abhinava also supplies ing information, without which it would not be possible to understand the procedure taught in the Tantra. Thus, all the MV tells us is this: ‘Now will be taught the eternal seed Mantras (jāti), along with the preceding throne (āsana) of the group of five, namely, HRĪM (read \[illegible\] for hīṁ) KṢLĀM KṢVĪM VAM and KṢAM, in due order. (13) And (those) of the other group of five, namely, HAM YAM RAM LAM and VAM. (The phonemes) rM RM IM LM and OM AUM and HAH extend up to the beginning of the calix (of the lotus). (14) (The consonants) ending with BH are on the filaments, and HAM HĀM HIM HĪM HUM along with HM HEM HAIM and HOM are on the petals, and so too, in the same way, the powers with their own names. (15) ŚAM ṢAM (Read śaṁ ṣaṁ for \[illegible\] and the Subtle one (SAM) are in the three circles of the Ghost (i.e. Sadāśiva). It is said that one should imagine the letter JRAM be that of the prongs of the Trident.” (16) MV 23/13-16
+[^9]: This section, from 4 to 10ab, presents the Mantras for the worship of the Trident Throne. The printed edition has grouped these verses into one. For the convenience of the reader, 1 am separating them in accord with parts of the Trident. The mantras are taught in the MV 23/13-15, of which these verses 4 to 10ab are an expanded explanatory paraphrase. The formation of the Throne is described in detail above, in 15/297cd-314. The worship of the deities continues up to 352ab. We observe here, as in many other cases, that Abhinava also supplies ing information, without which it would not be possible to understand the procedure taught in the Tantra. Thus, all the MV tells us is this: ‘Now will be taught the eternal seed Mantras (jāti), along with the preceding throne (āsana) of the group of five, namely, HRĪM (read \[illegible\] for hīṁ) KṢLĀM KṢVĪM VAM and KṢAM, in due order. (13) And (those) of the other group of five, namely, HAM YAM RAM LAM and VAM. (The phonemes) rM RM IM LM and OM AUM and HAH extend up to the beginning of the calix (of the lotus). (14) (The consonants) ending with BH are on the filaments, and HAM HĀM HIM HĪM HUM along with HM HEM HAIM and HOM are on the petals, and so too, in the same way, the powers with their own names. (15) ŚAM ṢAM (Read śaṁ ṣaṁ for \[illegible\] and the Subtle one (SAM) are in the three circles of the Ghost (i.e. Sadāśiva). It is said that one should imagine the letter JRAM be that of the prongs of the Trident.” (16) MV 23/13-16
 
 [^10]: The mantras at the base of the Trident: OM HRĪM ĀDHĀRAŚAKTAYE NAMAH (the Foundation) OM KṢLĀM DHĀRĀYAI NAMAH (Earth) OM KṢVĪM SURODĀYA NAMAH (Water — the Ocean of Wine)
 
@@ -288,7 +288,7 @@ Ratiśekhara Bhairava Mantra
 agnimārutapṛthvyambusaṣaṣthasvarabindukam |l 10 I|
 ratiśekharamantro ‘sya \[illegible\] \[illegible\] hrasvadīrghakaiḥ | 
 
-[^21]: \[illegible\] MV 23/15.
+[^21]: MV 23/15.
 
 [^22]: According to Jayaratha, the mantra of the entire Trident Throne is: OM HRĪM JRAM ĀSANAPAKṢĀYA NAMAH.
 
@@ -296,7 +296,7 @@ ratiśekharamantro ‘sya \[illegible\] \[illegible\] hrasvadīrghakaiḥ |
 
 [^24]: Read jraṁ for jūṁ.
 
-[^25]: \[illegible\] Ratiśekhara is the Bhairava of Parāparā. His mantric form is: RYLVŪM. This Mantra, as is generally the case, is presented in the Mālinī code in the MV. There we read: raktatvaṁmāṁsamāūtrais tu vāmakarṇavibhūṣitam | binduyuktaṁ prameyotaṁ ratiSekharam ādiset ॥ ‘Fashion (the mantra of) Ratiśekhara with the blood (R) (of the goddess Mālinī), the skin (Y), flesh (L), and tendons (V); adorned with the left ear (Ü), it is threaded through with the objectivity (prameyota) conjoined with the point \[illegible\] MV 9/35 Abhinava helps his reader by encoding the Mantra in the commonly familiar Mātṛkā code, as he does in numerous other such instances. See, for example, the extraction of the Mantra of Bhairavasadbhāva below in 30/16cd-17ab.
+[^25]: Ratiśekhara is the Bhairava of Parāparā. His mantric form is: RYLVŪM. This Mantra, as is generally the case, is presented in the Mālinī code in the MV. There we read: raktatvaṁmāṁsamāūtrais tu vāmakarṇavibhūṣitam | binduyuktaṁ prameyotaṁ ratiSekharam ādiset ॥ ‘Fashion (the mantra of) Ratiśekhara with the blood (R) (of the goddess Mālinī), the skin (Y), flesh (L), and tendons (V); adorned with the left ear (Ü), it is threaded through with the objectivity (prameyota) conjoined with the point \[illegible\] MV 9/35 Abhinava helps his reader by encoding the Mantra in the commonly familiar Mātṛkā code, as he does in numerous other such instances. See, for example, the extraction of the Mantra of Bhairavasadbhāva below in 30/16cd-17ab.
 
 [^26]: The faces of polycephalic deities represent aspects of their personality and nature, often derived from other deities they have assimilated, or varieties of forms they have assumed. Their limbs are their powers. Mantras, their sonic bodies, analogously, are said to possess limbs and faces. The faces are usually five or six, as are the limbs. The faces are arranged in the directions and named accordingly, the eastern face etc. The limbs are the Heart (Ardaya), Head (siras), the Topknot (Sikhā), the Armour (kavaca), the Eye (netra), and the Weapon (astra). The Eye is the third eye or the pair of eyes. This limb is sometimes omitted. See above, 22/20-21 and note; also below, 30/40cd-41ab. The six limbs represent the qualities of the deity. For example, they are Śiva’s omniscience (sarvajñatā), contentment (tṛpti), beginningless knowledge (anādibodha), freedom (svatantratā), unobstructed power (aviluptaśakti), ani ite power (ananta śakti) (see SvTu ad 1/64-65ab). According to SŚP, the attribution of limbs to the deities, a procedure called sakalīkaraṇa — ‘completing by the addition of parts’ — generally follows after the four rites of invocation, installation, presence and detention of the deity (see above, 27/11, note). It is done so that the deity is worshipped in its complete form. The SŚP explains: ‘just as the sun is invincibly powerful by virtue of its fierce rays, so too the Supreme Lord (parameśvara) is visualized with his limbs. The Heart is his power of consciousness (cicchakti). The Head is his eightfold sovereignty (as the eight yogic powers, see above, 8/264-271 and note). The Topknot, above all others, is his independence and lordliness. The Armour mentioned previously is (his) brilliance, the weapons of his enemies cannot penetrate. His Weapon is his ardour, which is impossible to bear, that eliminates (every) obstacle.” (SŚP, 3/71b-74a). The faces and limbs, especially the limbs, can be considerably elaborated by representing them as fully formed deities with their own mantras and modalities. Kubjikā’s six limbs is a good example. Generally, however, the mantras of the faces and limbs of a mantra are formed in a simple, uniform way. The mantra is first stripped of its final vowel, along with its anusvāra or visarga. Then the six limbs are formed by adding the six long vowels - Ā, Ī, \[illegible\] AI, AU and AH, and the faces by adding the short vowels — A, 1, U, E, and O. Anusvāra (M) is added to all of them except the Weapon, which ends in visarga (H) (see Brunner 1986: 102). They are often prefixed with the pranava OM or other seed syllables that are prominent in a particular tradition. Krama mantras are prefixed with the syllable KHPHREM or just PHREM. Kubjikā mantras begin with the Five pranavas ~ AIM HRĪM ŚRĪM KHPHREM HSAUH. Concerning the formation of faces and limbs of Śaiva mantras, see Brunner-Lachaux (1986a: 89-132) and Rastelli (2001: 319-395) for the equivalent in Vaiṣṇava Pāñcarātra, which is practically the same.
 
@@ -337,7 +337,7 @@ agniprāṇāgnisahhārakālendrāmbusamīranāḥ ॥ 11 ॥ saṣaṣthasvarab
 
 [^28]: This same form of Navātman - RHRKṢMLVYŪM - is extracted using the Mālinī code in MV 8/22-23. The formation of the limbs and faces of Navātman is taught below in 30/15-16ab.
 
-[^29]: \[illegible\] Navātmān is an important Mantra. From as far back as the Brahmayāmala, which is the one of earliest Bhairava Tantras, it is serves as the sonic body of Bhairava. It is also an important seed syllable for the Saiddhāntika Niśvāsatattvasariihitā, which is the oldest known Śaivāgama. It is the seed syllable of Svacchandabhairava, according to the Svacchandatantra, and some centuries later, it is Kubjikā’s Bhairava. Here Navātman is the Bhairava of Aparā. His mantric form is given in the Mālinī code in MV 8/21cd-23ab, which Abhinava has replaced here with the easier Śabdarāśi. It is RHRKṢMLVYŪM. It has several variant forms. For example, in the Śrīvidyā repertoire of mantras, we find the female HSKṢMLVRYĪM, along with the male SHKṢMLVRYŬM. The six limbs of Navātmā are described below in 30/15-16ab.
+[^29]: Navātmān is an important Mantra. From as far back as the Brahmayāmala, which is the one of earliest Bhairava Tantras, it is serves as the sonic body of Bhairava. It is also an important seed syllable for the Saiddhāntika Niśvāsatattvasariihitā, which is the oldest known Śaivāgama. It is the seed syllable of Svacchandabhairava, according to the Svacchandatantra, and some centuries later, it is Kubjikā’s Bhairava. Here Navātman is the Bhairava of Aparā. His mantric form is given in the Mālinī code in MV 8/21cd-23ab, which Abhinava has replaced here with the easier Śabdarāśi. It is RHRKṢMLVYŪM. It has several variant forms. For example, in the Śrīvidyā repertoire of mantras, we find the female HSKṢMLVRYĪM, along with the male SHKṢMLVRYŬM. The six limbs of Navātmā are described below in 30/15-16ab.
 
 
 *[p. 10]* ^pg28
@@ -454,7 +454,7 @@ Omitting the last three (letters of Navātmā), one should fashion (his) six lim
 
 [^36]: reads jātibhedena for vaktrāny asya ca.
 
-[^37]: \[illegible\] The six limbs of Navātmabhairava are HĀM RĪṀ HŪM KṢAIM MAUM and LAH. The five faces are KṢAM YIM RUM VEM and LOM. The Limbs of Navātman OM RĀM HRDAYĀYA NAMAH OM HĪM ŚIRASE SVĀHĀ OM RŪM ŚIKHAYAI VAṢATṬ OM KṢAIM KAVACĀYA HUM OM MAUM NETRĀYA VAUṢATṬ OM LAH ASTRĀYA PHAṬ The Faces of Navātman: OM KṢAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM YIM PŪRVAVAKTRĀYA NAMAH (E) OM RUM DAKṢINAVAKTRĀYA NAMAH (S) OM VEM UTTARAVAKTRĀYA NAMAH (N) OM LOM PAŚCIMAVAKTRĀYA NAMAH (W)
+[^37]: The six limbs of Navātmabhairava are HĀM RĪṀ HŪM KṢAIM MAUM and LAH. The five faces are KṢAM YIM RUM VEM and LOM. The Limbs of Navātman OM RĀM HRDAYĀYA NAMAH OM HĪM ŚIRASE SVĀHĀ OM RŪM ŚIKHAYAI VAṢATṬ OM KṢAIM KAVACĀYA HUM OM MAUM NETRĀYA VAUṢATṬ OM LAH ASTRĀYA PHAṬ The Faces of Navātman: OM KṢAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM YIM PŪRVAVAKTRĀYA NAMAH (E) OM RUM DAKṢINAVAKTRĀYA NAMAH (S) OM VEM UTTARAVAKTRĀYA NAMAH (N) OM LOM PAŚCIMAVAKTRĀYA NAMAH (W)
 
 *[p. 13]* ^pg31
 
@@ -703,7 +703,7 @@ the Vital Breath (H) is within the Living Being (S).[^65] (28cd)
 
 [^62]: Read svarūpato ‘vibhinnāpi for svarūpato vibhinnāpi.
 
-[^63]: \[illegible\] Verses 28-36ab are a paraphrase of a passage from the Trisirobhairavatantra.
+[^63]: Verses 28-36ab are a paraphrase of a passage from the Trisirobhairavatantra.
 
 [^64]: Abhinava has several occasions to teach Parā bīja - SAUH in the Tantrāloka. For example, see above 3/167 (166cd) ff. 3/253cd-254ab, 4/181cd-182ab, 186cd-188ab, 191cd, and 5/60cd-61ab. These examples suffice to observe that Parā, in various aspects, has an important place in all the three means to realisation expounded in those chapters.
 
@@ -852,7 +852,7 @@ Point (M). That is said (in the Mālinīvijayottara):
 
 [^78]: Jayaratha notes here that the mantra of Parā was explained above in verse 27. However, Jayaratha points out that Abhinavagupta paraphrases the Trisirobhairavatantra there, as he himself indicates. Here the source is the MV, and so he is not repeating himself.
 
-[^79]: \[illegible\] Above, 30/28c.
+[^79]: Above, 30/28c.
 
 
 *[p. 27]* ^pg45
@@ -930,7 +930,7 @@ Here (with regard to this), according to the followers of the venerable Triśiro
 
 [^87]: The Trisirobhairava does indeed describe a different version of the Eye, namely, CSHAUM. Abhinava presents what he calls a Mantra common to all Śaiva schools, This is the mantra of Mṛtyuñjaya (Amṛteśvara), namely, OM JUM SAH. It is described in the Netratantra. Its alias —Amṛteśvaratantra — clearly indicates the identity of this mantra form of Śiva with that of the Third Eye. As this limb (aga) is not described in the MV, according to Jayaratha, Abhinava is following the Devyāyāmala here.
 
-[^88]: \[illegible\] These correspondences are drawn from the Mālinī alphabet taught in the Trisirobhairava, as reported by Jayaratha above ad 15/121-125ab. The sequence of letters in the MV version and that of the Trisirobhairava are not exactly the same. See Appendix B to Chapter Fifteen, Volume Eight, for tables of the Mālinī alphabet in the MV and TBh.
+[^88]: These correspondences are drawn from the Mālinī alphabet taught in the Trisirobhairava, as reported by Jayaratha above ad 15/121-125ab. The sequence of letters in the MV version and that of the Trisirobhairava are not exactly the same. See Appendix B to Chapter Fifteen, Volume Eight, for tables of the Mālinī alphabet in the MV and TBh.
 
 
 *[p. 29]* ^pg47
@@ -991,7 +991,7 @@ along with the Buttocks (M), possessing emission (H). That is the Eye of the god
 
 [^93]: Here the third letter of the Garland of the Head — \] — stands for the semi-vowel L, which is its counterpart amongst the consonants.
 
-[^94]: \[illegible\] Read sikhāṁ for \[illegible\]
+[^94]: Read sikhāṁ for \[illegible\]
 
 [^95]: missing, and so is YA at the end of vajradharāya.
 
@@ -1041,7 +1041,7 @@ Weapon (astra), consisting of six syllables.[^101] (41cd)
 
 [^100]: Read with MV 3/65b, \[illegible\] for huṁ.
 
-[^101]: \[illegible\] 30/41cd is an abridged version of MV 3/65, which says: ślīpadar \[g: ślaśabdam iti\] (> ślīhpadaṁi) paśuśabdaṁ ca hūṁ phadantaṁ bhavādikam | etat pāśupataṁ proktam ardhasaptākṣarari param | ‘The syllable ŚLĪM, the word PAŚU and HŪM PHAT at the end and BHAVA at the beginning — this is said to be the Pāśupata (Weapon). Supreme, it consists of seven and a half syllables. The form of the mantra of the Weapon taught in the MV is BHAVA ŚLĪM, PAŚU HŪM PHAT, which consists, as the MV says, of seven and a half syllables (PHAT is one and a half). See below 30/41cd, where it is given in full. Abhinava has, for some reason, substituted BHAVA with OM and reckoned PHAT to be just one syllable. This mantra recurs elsewhere, see, for example, the Rauravāgama Kriyāpāda, \\/10.
+[^101]: 30/41cd is an abridged version of MV 3/65, which says: ślīpadar \[g: ślaśabdam iti\] (> ślīhpadaṁi) paśuśabdaṁ ca hūṁ phadantaṁ bhavādikam | etat pāśupataṁ proktam ardhasaptākṣarari param | ‘The syllable ŚLĪM, the word PAŚU and HŪM PHAT at the end and BHAVA at the beginning — this is said to be the Pāśupata (Weapon). Supreme, it consists of seven and a half syllables. The form of the mantra of the Weapon taught in the MV is BHAVA ŚLĪM, PAŚU HŪM PHAT, which consists, as the MV says, of seven and a half syllables (PHAT is one and a half). See below 30/41cd, where it is given in full. Abhinava has, for some reason, substituted BHAVA with OM and reckoned PHAT to be just one syllable. This mantra recurs elsewhere, see, for example, the Rauravāgama Kriyāpāda, \\/10.
 
 
 *[p. 32]* ^pg50

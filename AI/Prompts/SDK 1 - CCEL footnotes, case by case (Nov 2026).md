@@ -10,6 +10,7 @@ For Claude running through the Agent SDK on the laptop (`vault_agent.py`), start
 
 - **3 Nov 2026:** written; not started. A session that works on this task updates these lines at its close. The top entries of [[AI log]] are the authority on what has been done since.
 - **3 Nov 2026, 14:25–15:45 (Claude Code on the laptop): done.** All 123 blocks read; 102 put right in 35 notes (pf635–pf649, pf655–pf657); blocks matching the PDF's list 1,761 → 1,857 of 1,884; the other 27 read right against the print except Augustine 07 p. 15. **Left:** three deletions for Stephen in `.work/edits/ccel-2026-11/for-stephen.jsonl`. Scripts in `AI/Prompts/Scripts/Footnotes and endnotes/ccel-c01b/sdk1-2026-11/`.
+- **3 Nov 2026, 16:37–17:30 (cloud chat): checked blind and closed.** 30 of the 98 changed page blocks, two readers each: no footnote text SDK 1 wrote differs from the print; the older converter leftovers the readers noticed are listed in `.work/edits/ccel-2026-11/blind-check-2026-11-03/README.txt`. The SDK plan is dropped (no API credit).
 - Done before this prompt: Chrysostom on Matthew 05, note 48 restored ("\[πολιτεα.\]") and page block `^pg32` (nn. 55–62) put in the "N text" form (pf613, 3 Nov; audit items C-03 and C-06).
 
 ## Before you start

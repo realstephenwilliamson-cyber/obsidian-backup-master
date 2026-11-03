@@ -124,7 +124,7 @@ sivo na bhidyate svaikaprakāśaghanacinmayaḥ ॥ 5 ॥
 
 [^7]: Read -upādhibhira for -upadhibhir-.
 
-[^8]: \[illegible\] Below, 10/9cd-10ab.
+[^8]: Below, 10/9cd-10ab.
 
 [^9]: Above, 8/3cd, also quoted in comm. on 1/6, 5/82cd-83ab (82), 6/21-22ab, 7/62cd- 63ab, and 13/1 12cd-113ab.
 
@@ -211,7 +211,7 @@ The powerholders are seven, namely, Śiva, the Great Lords of Mantra, the Lords,
 
 [^22]: MV 2/7b is quoted in TĀ 10/121cd and in TĀv ad 1/196 and 10/188cd-190ab.
 
-[^23]: \[illegible\] TĀ 10/3-5 is an abbreviated paraphrase of MV 2/1-9. Jayaratha quotes here MV 2/2 and 4-7ab. MV 2/3 has been inserted in brackets to complete the reference. The MV 2/Tcd-9 continues: ‘The division (of the principles) has been explained very briefly; (in actual fact) it is endlessly extensive. In the same way, the garland of the worlds is clearly divided up by these divisions. (7cd-8ab) Yogis worship it (by the practice of) yoga, and should know it in order to secure success in yoga. Whoever, O Śāṁkarī, knows even one of these principles or worlds, will attain the fruits of yoga.’ 8cd-9. (MV 2/Tcd-8ab is quoted in TĀv ad 10/150-151ab.) We observe that the emphasis here is on the world orders and principles. By this practice it is possible to get out of the bondage of these levels at any point by experiencing the corresponding perceiver as one’s own consciousness encompassing the perceivers and principles above and below it.
+[^23]: TĀ 10/3-5 is an abbreviated paraphrase of MV 2/1-9. Jayaratha quotes here MV 2/2 and 4-7ab. MV 2/3 has been inserted in brackets to complete the reference. The MV 2/Tcd-9 continues: ‘The division (of the principles) has been explained very briefly; (in actual fact) it is endlessly extensive. In the same way, the garland of the worlds is clearly divided up by these divisions. (7cd-8ab) Yogis worship it (by the practice of) yoga, and should know it in order to secure success in yoga. Whoever, O Śāṁkarī, knows even one of these principles or worlds, will attain the fruits of yoga.’ 8cd-9. (MV 2/Tcd-8ab is quoted in TĀv ad 10/150-151ab.) We observe that the emphasis here is on the world orders and principles. By this practice it is possible to get out of the bondage of these levels at any point by experiencing the corresponding perceiver as one’s own consciousness encompassing the perceivers and principles above and below it.
 
 [^24]: The divisions of the principles are as follows. 1) Earth (Pṛthvi) — Nature (Prakṛti) - 15, 2) Puruṣa — Kalā — 13; 3) Pralayakalā + Māyā ~ 11; 4) Vijñānakalā - 9; 5) Mantra —7; 6) Mantreśa — 5; 7) Mahāmantreśa — 3; 8) Śiva — 1 Reality Level (tattva) Own Nature Perceivers 1. Earth > Nature Tattva 15. Sakalaśakti > Siva 2. Puruṣa > Kalā Sakala- /Śakti (unfolded 13. Savedya-Pralayākala-coverings) śakti > Śiva 3a. Māyā Savedya-Pralayākala- 11. Vijñānākalaśakti > Śakti (dormant Śiva coverings) 3b. Māyā Apavedya-Pralayākala- 11. Vijñānākalaśakti > Śakti (dormant Śiva coverings) 4. (Mahāmāyā)\* Vijñānākalaśakti > Siva 9. Mantraśakti > Siva 5. Śuddhavidyā Mantra-/ Śakti (about to | 7. Mantreśvaraśakti > Śiva awake) 6. IŚvara Mantreśvara-/śakti Mantramaheśvaraśakti > awakening Śiva 7. Sadāśiva Mantramaheśvara- śakti/3: Siva The first member of this list has seven divisions for each subject below it, and seven for each of their powers, which together with its own nature makes fifteen divisions. Similarly, from Pralayākala to Mahāmantreśa, the number of types is arrived at by considering the number of subjects below them, to make, e.g., the divisions within them, with always an extra one for their innate nature. Again, Māyā is trans-empirical and so is Apavedya, and is considered to be a second type of Pralayākala. Accordingly, it also has eleven divisions. Finally, Śiva is one and undivided, for divisions are always made on the basis of what is other than the innate nature, while there is nothing apart from Śiva that can serve as a basis for any such relative distinctions. Divisions do not divide the innate nature. They divide the products of relative distinctions. They are posited in the counter-correlate (of their essential nature) and therefore cannot exist except in that sense. The gradual elimination of secondary divisions within the one Self is said to be possible due to the absence of division within Śiva Tattva, which is totally full; thus (in reality), there is nothing to be divided. See MVV 1/956 ff. \* Mahāmāyā is above the principle of Māyā and just below the pure principle of Pure Knowledge. It separates the pure principle above up to Śiva from those below, that extend from Māyā to Earth. Abhinava explains: ‘In this way, there must be another principle above Māyā, which is below the (perceivers reside). As is said: ‘the Consciousness Deconditioned (vijñānakevala) (perceivers) are above Māyā (but) below (the principle of Pure) Knowledge’. In the same way, the Dissolution Deconditioned (pralayākala) (perceivers) reside on the plane of (the principle of) Māyā, and the Vidyeśvaras on that of (Pure) Knowledge. What intermediate principle called) Mahāmāyā were not to exist? Thus, although it is true that the Consciousness Deconditioned (are perceivers) who have fallen from the plane of (Pure) Knowledge, nonetheless, for them the perception of diverse objectivity (separate from themselves), associated with the aggregate (of countless) phenomena consisting of relative distinctions (bheda) and various things different from one another, does not arise. Thus, the Impurity called Māyīya does not arise (for them). Accordingly, it is said in the Mālinīvijaya, that ‘there the Consciousness Deconditioned (perceivers) have only one Impurity’. (MV 1/22) (This means that they) are conditioned (solely by) the
 
@@ -301,7 +301,7 @@ as the subject and means of knowledge.[^31] (9cd-10ab)
 
 [^28]: Thus, there are three equivalent triads: Perceiver (mātr) Supreme aspect Possessor of Power 04120154, (81777101) Means of Middling (parāparāṁ-Power (sakti) Knowledge sa) ramāṇa) Object Lower (04700150) Own Nature (svarūpa) Jayaratha tacitly acknowledges that the identification of this triad of power, possessor of power and ‘own nature’ with basic Trika triads, such as Śiva, Śakti and Nara, is not found in the scriptural sources. But he affirms that this is not a problem, as the basic triad, whether stated or not, is a Trika one. Nor is it in conflict with the commonly known one, which is secondary.
 
-[^29]: \[illegible\] Read \[illegible\] for eṣā.
+[^29]: Read \[illegible\] for eṣā.
 
 [^30]: Read -upādhibhira for -upadhibhir-.
 
@@ -817,11 +817,11 @@ atha karmani ṣaṣthy eṣā nyarthas tatra hṛdi sthitaḥ ॥ 36 ॥
 
 Again, if the object (artha) is the cause (of its own) manifestation,[^58] so how is it that this excellence (atisaya) is (attributed to its) cognition \[illegible\] (What purpose is served by attributing it to cognition?) It has been said many times (already) that the excellence of one thing is of no consequence at all (to anything) else. It was said before that: ‘A jar is an object with a large round base 
 
-[^56]: \[illegible\] Abhinava uses the same intensive narīnṛtyāmahe in MVV 1/104a to express the same sense of triumphant joy.
+[^56]: Abhinava uses the same intensive narīnṛtyāmahe in MVV 1/104a to express the same sense of triumphant joy.
 
 [^57]: See above, 10/28cd-3lab. If this were to be so, the object would light up independently of consciousness, and these would be two distinct, differing realities.
 
-[^58]: \[illegible\] The Sanskrit reads ‘yadi nāmārthasya prakāśanakriyāyār \[illegible\] which literally means ‘if the agency of the act of illumination belongs to the object’. The form of the Sanskrit clearly induces the notion that inert entities possess ‘agency’ as if they were sentient, hence the following discussion.
+[^58]: The Sanskrit reads ‘yadi nāmārthasya prakāśanakriyāyār \[illegible\] which literally means ‘if the agency of the act of illumination belongs to the object’. The form of the Sanskrit clearly induces the notion that inert entities possess ‘agency’ as if they were sentient, hence the following discussion.
 
 
 *[p. 317]* ^pg336

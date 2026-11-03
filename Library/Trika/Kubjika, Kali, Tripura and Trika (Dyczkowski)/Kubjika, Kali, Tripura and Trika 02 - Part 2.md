@@ -22,7 +22,7 @@ In her creative aspect Kubjikā is especially identified with the energy of blis
 
 [^100]: khasthaṁ nivartitākāraṁ avyaktaṁ bhairavātmakam |
 
-    evamānandaśaktistu divyaliṅgā kramoditā \\1
+    evamānandaśaktistu divyaliṅgā kramoditā ||
 
     Located in the Sky (of consciousness), its form has been completed (to perfection - nivartita) and, unmanifest, it is Bhairava. In the same way, the power of bliss is the divine (female) Liṅgā (divyaliṅgā) that has emerged from the sequence (krama - of the lineage and the liturgy). (KKh 3/47)
 
@@ -72,7 +72,7 @@ The energy called the Vulva is endowed with the movement of the three paths (i.e
 
     nirānandamayaṁ śāntaṁ kāraṇāṣṭakavarjitam |
 
-    guṇatattvavinirmuktaṁ heyopādeyavarjitam \\ (KKh 13/5cd-6)
+    guṇatattvavinirmuktaṁ heyopādeyavarjitam || (KKh 13/5cd-6)
 
 *[p. 38]* ^pg43
 
@@ -112,7 +112,7 @@ You, who alone possess all the powers of the Wheel of the the Sacred Seats, abid
 
     yā śive sphuraṇaśaktirakṣayā kṣmādipañcakaniviṣṭabhātanuḥ |
 
-    sā mahad bhavati vīryamagrimaṁ yanmayī tvamasi pīṭhacakrasūḥi\\ pīṭhacakranikaraikadharmiṇī tvaṁ sthitā ca satataṁ samantataḥ |
+    sā mahad bhavati vīryamagrimaṁ yanmayī tvamasi pīṭhacakrasūḥ|| pīṭhacakranikaraikadharmiṇī tvaṁ sthitā ca satataṁ samantataḥ |
 
     sadbhirudyamanirantarātmabhirlakṣyase'mba niravagrahodayā 1| (CGC 76 - 8)
 
@@ -164,7 +164,7 @@ Again, the location of the multiple energies of the goddess is not only represen
 
 [^114]: nānyaṁ tatra bhavet kiñcinmanasānte manonmanī |
 
-    unmanā sā samākhyātā parā hyamṛtavāhinī \\| ( KKh 15/13)
+    unmanā sā samākhyātā parā hyamṛtavāhinī || ( KKh 15/13)
 
 [^115]: tasyordhve unmanāvasthā tadāvasthā hi śāmbhavam |
     śūnyamekaṁ samābhyasya yatra sarvaṁ nivartate ||
@@ -189,7 +189,7 @@ Thus, (reality), supreme (transcendent) and inferior (immanent), is divided by t
 
 [^117]: vidyā nāmākṣarā śaktirdvidhairbhedairvyavasthitā |
 
-    cicchaktiriti siddhiḥ syāt sā varṇāvarṇagā śubhā \\ vidyāmārge ca medhastu śāstradṛṣṭena karmaṇā | (KKh 14/21-2ab)
+    cicchaktiriti siddhiḥ syāt sā varṇāvarṇagā śubhā || vidyāmārge ca medhastu śāstradṛṣṭena karmaṇā | (KKh 14/21-2ab)
 
 [^118]: eṣā sā devatā devatayā khyātā mayā prabho |
     guhāśramād viniṣkrāntā asvarā svaravāhinī I (KKh 17/24)
@@ -220,7 +220,7 @@ In the middle is the divine Liñga which gives supreme bliss. It is the Drop and
 
 The Newars, following a pattern common to Kaula Tantrism in general from the thirteenth or fourteenth century, classify the lineage goddesses as belonging to six traditions (ṣaḍāmnāya).
 
-[^121]: tasmānmanthānabhedena bheditaṁ ca parāparam \\
+[^121]: tasmānmanthānabhedena bheditaṁ ca parāparam ||
 
     evaṁ sṛṣṭigatānaṅgaṁ anaṅgaṁ kāmanāśanam |
     sa ca haṁsaṁ mahātmānaṁ jvalanādamṛtodbhavam 1|
@@ -403,7 +403,7 @@ O Hara, within this void form, one with darkness, was the mind of the bliss of t
 
 manifest (vyāvṛta).[^142]
 
-[^141]: prajvalantī svakiraṇaiścarubhirraudramaṇḍale \\
+[^141]: prajvalantī svakiraṇaiścarubhirraudramaṇḍale |
 
     She burns intensely with her beautiful rays in Rudra's sphere (maṇḍala). (KKh 13/121ab)
 
@@ -425,7 +425,7 @@ manifest (vyāvṛta).[^142]
 
     śamanaṁ kulasaṁkāśaṁ kiñcijjānāmyahaṁ hara ||
 
-    na vācā śruticakṣubhyāṁ na ca buddhyāmyahaṁ hara \\ kaivalyānandamāhlādaṁ saṁvartāntaṁ śatārdhakam ||
+    na vācā śruticakṣubhyāṁ na ca buddhyāmyahaṁ hara | kaivalyānandamāhlādaṁ saṁvartāntaṁ śatārdhakam ||
 
     tasyecchā kiñciccinmātramavyaktaṁ vyaktirūpiṇam |
 
@@ -456,7 +456,7 @@ The goddess was then born to Himavān, the god of the Himalaya range, as Bhadrak
 
     jvalajvālormisaṁkāśamuddīpya paramānalam |
 
-    jvalantaṁ cintayitvā tu mudrāmaṇḍalamadhyataḥ \\|
+    jvalantaṁ cintayitvā tu mudrāmaṇḍalamadhyataḥ ||
     vajrāsanaṁ tato badhvā smṛtāghoreśvarīkalā |
 
     kālāgninā svayaṁ dagdhā nirdhūmāṅgāratāṁ gatā ||
@@ -491,10 +491,10 @@ The sun is always the same, always itself, never in any sense "becoming". The mo
 
 [^147]: dīpavartiśikhā ghorā jvālinī dhūmravarjitā |
 
-    rudrakoṭisahasrābhā rudraśaktiḥ parāparā \\|
+    rudrakoṭisahasrābhā rudraśaktiḥ parāparā ||
 
     rudrakoṭidharo binduḥ śaktirābhūmisaṁplavaḥ |
-    tasya tejaḥ parā śaktirrudraśaktirmaheśvarī \\ (KKh 13/118 -9)
+    tasya tejaḥ parā śaktirrudraśaktirmaheśvarī || (KKh 13/118 -9)
 
 *[p. 52]* ^pg57
 
@@ -583,13 +583,13 @@ Such yogic visualizations of the movement of the vital breath are an important p
 
     hṛccakre pūrṇasaṁsthāne pūrṇacandrasamaprabhā |
 
-    evaṁ saṁcintya cittena svacakre tu praveśayet \\|
+    evaṁ saṁcintya cittena svacakre tu praveśayet ||
     prahasantī parānandā dravate sābhinanditā |
     citsvarūpātmikā śaktiranāmānāmamaṇḍale || tenāmṛtabharā tṛptiḥ paurṇamāsī pravartate |
 
     āgamaṁ sṛṣṭibhedena etadājñābhiṣecanam ||
 
-    gamāgamena saṁśodhya paścāt kuryāt kramārcanam \\ (KKh 13/134-140ab)
+    gamāgamena saṁśodhya paścāt kuryāt kramārcanam | (KKh 13/134-140ab)
 
 *[p. 55]* ^pg60
 
@@ -617,7 +617,7 @@ The root Tantra of the Kubjikā school, the Kubjikāmata, does refer to the godd
 
 [^156]: divyaughaparamānandaṁ picuvaktraṁ tu kaulikam |
 
-    tanmadhyoditacidvṛkṣaṁ mūlaśākhāsuvistaram \\
+    tanmadhyoditacidvṛkṣaṁ mūlaśākhāsuvistaram ||
 
     The Kaula Picu Face is the supreme bliss of the Divine Current. The Tree of Consciousness has risen from the middle of that and it has many roots and branches. (CMSS 1/28) The form of this tree is decribed up to verse 36.
 
@@ -639,7 +639,7 @@ Another tree closely associated with Kubjikā is the kadamba tree. At times it i
 
 [^159]: Referring to the tree which grows from the triangle of the maṇḍala, the CMSS (7/8cd) declares: Supreme repose, devoid of pleasure and pain, is there (tatra viśrāntiparamaṁ sukhaduḥkhavivarjitam).
 
-[^160]: saṁketaṁ vṛkṣamūlaṁ tu yonimadhye kadambakam \\
+[^160]: saṁketaṁ vṛkṣamūlaṁ tu yonimadhye kadambakam |
 
     tena vyāptamidaṁ meruḥ ālayaṁ sarvayoginām I|
 

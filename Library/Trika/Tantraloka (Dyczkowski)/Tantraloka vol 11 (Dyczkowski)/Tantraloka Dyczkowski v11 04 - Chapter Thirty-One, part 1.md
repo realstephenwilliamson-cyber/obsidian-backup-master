@@ -184,7 +184,7 @@ vedāśrite caturhaste tribhāgaṁ sarvatas tyajet ॥ 10 ॥
 
 [^209]: No such mandala is described in the Tantrasadbhāva, so we may safely presume that by “Sadbhāva’ Abhinava means the Trikasadbhāva, that he goes on to draw from.
 
-[^210]: \[illegible\] The passage Jayaratha quotes here from the SYM is not found in the short edited recension. Törzsök 1999: 232-233.
+[^210]: The passage Jayaratha quotes here from the SYM is not found in the short edited recension. Törzsök 1999: 232-233.
 
 [^211]: This passage, which extends from 10cd to 52, is drawn from the Trikasadbhāva.
 
@@ -208,7 +208,7 @@ The mandala of the Three Tridents described in the Trikasadbhāva.[^214]
 
 [^212]: See Figure 3.
 
-[^213]: \[illegible\] The drawing of the mandala of the Triple Trident begins by making a square. This is the ‘field’ (kṣetra) or area within which the mandala is drawn. It is divided into sixteen rows of equally sized squares, thus making 256 squares (16 x 16). The expanded version that accommodates the surrounding doors contains four extra squares on each side, that is, eight more altogether. This the squares are now (24 x 24 =) 576 squares. This is 320 more squares (576 ~ 256 = 320). Each square measures four finger-breadths. Twenty-four fingers make a one handspan. The field is divided into sixteen squares that, along with those for the doors that are attended subsequently, become twenty-four. Each square is four fingers wide. Twenty-four fingers make a cubit. E
+[^213]: The drawing of the mandala of the Triple Trident begins by making a square. This is the ‘field’ (kṣetra) or area within which the mandala is drawn. It is divided into sixteen rows of equally sized squares, thus making 256 squares (16 x 16). The expanded version that accommodates the surrounding doors contains four extra squares on each side, that is, eight more altogether. This the squares are now (24 x 24 =) 576 squares. This is 320 more squares (576 ~ 256 = 320). Each square measures four finger-breadths. Twenty-four fingers make a one handspan. The field is divided into sixteen squares that, along with those for the doors that are attended subsequently, become twenty-four. Each square is four fingers wide. Twenty-four fingers make a cubit. E
 
 [^214]: See above in 16/5 ff. for a drawing and description of the configuration.of the mandala of the Three Tridents.
 
@@ -242,7 +242,7 @@ One should then make within half a square another pair (of semi-circles, connect
 
 [^215]: The Place of Brahmā is the centre of the mandala, and the two threads of Brahmā are those that pass through that centre.
 
-[^216]: \[illegible\] Read hastar for haste.
+[^216]: Read hastar for haste.
 
 
 *[p. 73]* ^pg91
@@ -301,7 +301,7 @@ Then, again, ‘omitting (another) two squares horizontally’ from the third ha
 
 Thus, in this way, (the circle) is incomplete, not full. One should rotate (the thread) twice so that a ‘prong, which is sharp and point curved’ (is created in this way). ‘Then’, or else, reading ‘from the first’, beginning from the first half-moon, that was fashioned initially from the initial square up to the corner. This is how one should explain ‘from (the last) half-moon in the west’, not, as in the previous statement, ‘the pair of moons’, that is, the pair of moons above from the west; and from the beginning of the half-moon, ‘one should fashion two semi-circles’ etc. As the drawing of the two moons is being executed and the word ‘from the first’ need not be taken into consideration, and 
 
-[^218]: \[illegible\] The sense of the word ‘two’ here is probably that the same should be done also with regard to the other trident.
+[^218]: The sense of the word ‘two’ here is probably that the same should be done also with regard to the other trident.
 
 
 *[p. 75]* ^pg93
@@ -513,7 +513,7 @@ The drawing of the (corresponding) door (at the base of the) staff will be (desc
 उततानोऽर्धोऽसमः पर्णः रिलष्टो ग्रनिथिगतस्तथा ।
 चद्रस्येत्थं द्वादशधा वर्तना भ्रमभेदिनी ॥ ३५ ॥
 
-[^229]: \[illegible\] The word ‘vṛtta’ may also mean ‘round’ or ‘circular’ as well as ‘fashioned’, as I have translated. It seems to me that the former meaning makes no sense in this context.
+[^229]: The word ‘vṛtta’ may also mean ‘round’ or ‘circular’ as well as ‘fashioned’, as I have translated. It seems to me that the former meaning makes no sense in this context.
 
 
 *[p. 82]* ^pg100
@@ -566,7 +566,7 @@ The extent of the variety of mandalas is innumerable because of these difference
 
 #### Viveka on 31.37–38
 
-[^232]: \[illegible\] Read radā for tat.
+[^232]: Read radā for tat.
 
 [^233]: According to NT 18/44, a kantha (‘throat’) is as wide as a vīṭhi (platform), that is, two squares, and is half a vīṭhi high, that is, one square. The upakanṭha (‘attendant throat’) is six squares long and one finger-breadth high. According to Kṣemarāja (SvT 5/34), a ‘cheek’ (kapola) is in some texts, the length of a vīṭhi, which in the mandala described in the Svacchandatantra is four squares, and half a vīṭhi thick, that is, two squares. In the case of the mandala of the Netratantra, it is nevertheless one square thick. The ‘sub-cheek’ (upakapola), mentioned in some texts (see, for example, ĪŚGDP 1/6, 37, 58 etc.), analogously to the ‘attendant throat’, is a minor ‘cheek’ below the ‘cheek’ proper. The ‘ears’ (karna, karnika) are two square protuberances in the corners of the mandala. The ‘adornment sobhā and ‘adjacent secondary adornment’ are, respectively, a door which is upside down on its sides with respect to the main one, and after another one, upside down with respect to that. In architecture, a ‘decoration’ is ‘an element of a certain thickness which originates on the side of the throat of the door and the sub-ornament (upasobhā)’ a ‘small portion below this’. In the commentary on NT, 18/44-45, Kṣemarāja specifies that the śobhā and the upaśobhā have the aspect of an upside-down (or upturned?) (parāvṛtta) door. In the specific case of the NT, the śobhā is five boxes long, and the upaśobhā one (see also AgP, 29/15-18). The “sub-cheek’ (upakapola) mentioned in some texts (see for example ĪŚGDP, 1, 6, 37, 58, etc.), in analogy to the 'sub-throat’, is a minor cheek below the main one, that which is true and proper. The ‘ears’ (karna, karnikā) are two square projections of the angles of the mandala. Concerning the svastikas, see below, 132 ff.
 
@@ -858,13 +858,13 @@ sthānāntare ‘pi kathitaṁ śrīsiddhātantraśāsane ॥ 58 ॥
 
 [^255]: Jayaratha says that the western door serves as the support of the rite of worship, and so should be kept open. This is because the worshipper mentally enters the mandala through it, thus moving up towards the east along the shaft of the Trident.
 
-[^256]: \[illegible\] Tt is still common practice to install and worship Śiva’s trident under a tree.
+[^256]: Tt is still common practice to install and worship Śiva’s trident under a tree.
 
 [^257]: Read amṛtāmbhodbhavārīnṇār for amṛtāmbhobhavārīnāṁ.
 
 [^258]: It is not clear where these lotuses should be drawn.
 
-[^259]: \[illegible\] The Trident projected into the body is, as we shall see in the following chapter, called Khecarīmudrā — the Seal of the Skyfaring Goddess. By following the current of the vital breath and the power of awareness that flows with it, the soul is transported up into the End of the Twelve to become a Skyfarer, empowered by the Skyfaring goddesses of the Krama in the Trika Trident and beyond. Thus, the outer and inner mandala mirror the heavenly Trident of the Sky of consciousness.
+[^259]: The Trident projected into the body is, as we shall see in the following chapter, called Khecarīmudrā — the Seal of the Skyfaring Goddess. By following the current of the vital breath and the power of awareness that flows with it, the soul is transported up into the End of the Twelve to become a Skyfarer, empowered by the Skyfaring goddesses of the Krama in the Trika Trident and beyond. Thus, the outer and inner mandala mirror the heavenly Trident of the Sky of consciousness.
 
 [^260]: (-sāra). See above, note 31,57.
 
@@ -891,7 +891,7 @@ sūlāṁkaṁ mandalaṁ kalpyaṁ kamalāṅkari ca pūrane || 59 ||
 
 Having explained the placement of the tridents and lotuses taught in the venerable Trikasadbhāva, he sets out to explain (the placement) described in other scriptures. 
 
-[^263]: \[illegible\] This prescription, concerning two types of mandalas, can be identified in SYM 6/12 ff and 8/11 ff. The first is the Trident mandala. The second is a mandala used for the rite of initiation, that has a lotus in the middle of it. Such detailed descriptions of the Trident mandala as the references in this chapter suggest (i.e. in 31/60-61, 155-163) were found in the SYM are not found in the recension of the SYM that has been recovered.
+[^263]: This prescription, concerning two types of mandalas, can be identified in SYM 6/12 ff and 8/11 ff. The first is the Trident mandala. The second is a mandala used for the rite of initiation, that has a lotus in the middle of it. Such detailed descriptions of the Trident mandala as the references in this chapter suggest (i.e. in 31/60-61, 155-163) were found in the SYM are not found in the recension of the SYM that has been recovered.
 
 
 *[p. 94]* ^pg112

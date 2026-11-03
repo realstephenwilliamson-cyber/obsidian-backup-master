@@ -218,9 +218,7 @@ The Spheres of the Subtle Elements and The Eight Bodies of
 
 Śiva, verses 215cd-221ab (215-220), pages 239-243 
 
-The Deities of the Organs of Action and Knowledge, verses (221cd- 
-
-223ab) (221-222), pages 243-245 
+The Deities of the Organs of Action and Knowledge, verses (221cd-223ab) (221-222), pages 243-245 
 
 The Worlds of Manas and the Intellect 
 

@@ -129,7 +129,7 @@ mandalasya purobhāge tadaiśānadiśaḥ kramāt |
 
 [^8]: See below 16/12cd-15ab.
 
-[^9]: \[illegible\] The word ‘vartanā’ means the drawing of a mandala or its parts. This word is not found in MW or Apte. The neuter vartanam has amongst its meanings the cognate sense of ‘rolling around’ or ‘turning a circle or a curve’. The feminine vartanā appears in the Tantrāloka for the first time here. It then recurs numerous times in Chapter Thirty-one and commentary, where the drawing of Trika mandalas is described. Just to mention two examples of usage - ‘—tritriśūlavartanopayogi’” ‘useful for the fashioning (vartanā) the triple Trident (trisūlavartanām eva kartum upakramate (ad 31/10cd-1 lab), and ‘He begins the fashioning (vartanā) of the Trident itself (intro. To 31/1 Icd ff.); also: vartanāṁ ca vijānāti sa gurus trikaśāsane | 31/5 1ab, “He who knows (how to) draw (the mandala) is a (true) teacher in the Trika teachings (trikaśāsana).’
+[^9]: The word ‘vartanā’ means the drawing of a mandala or its parts. This word is not found in MW or Apte. The neuter vartanam has amongst its meanings the cognate sense of ‘rolling around’ or ‘turning a circle or a curve’. The feminine vartanā appears in the Tantrāloka for the first time here. It then recurs numerous times in Chapter Thirty-one and commentary, where the drawing of Trika mandalas is described. Just to mention two examples of usage - ‘—tritriśūlavartanopayogi’” ‘useful for the fashioning (vartanā) the triple Trident (trisūlavartanām eva kartum upakramate (ad 31/10cd-1 lab), and ‘He begins the fashioning (vartanā) of the Trident itself (intro. To 31/1 Icd ff.); also: vartanāṁ ca vijānāti sa gurus trikaśāsane | 31/5 1ab, “He who knows (how to) draw (the mandala) is a (true) teacher in the Trika teachings (trikaśāsana).’
 
 [^10]: See below, Chapter Thirty-one, which is entirely dedicated to presenting variant forms of the Trika Trident mandala. Here Abhinava is referring specifically to the tritrisūlābjamandala described in the Trikasadbhāva (31/10-4130). See Sanderson 1986: 195 for a drawing of this mandala. It is reproduced by Gnoli 1999: 613.
 
@@ -190,7 +190,7 @@ Bhairavasadbhāva, together with Parā, is in middle of the middle trident. Nav�
 
 [^16]: Read ādyo ‘vicchinnasaṁtānaḥ for ādyo vicchinnasaṁtānaḥ.
 
-[^17]: \[illegible\] Read gurukrame for gurukramaḥ.
+[^17]: Read gurukrame for gurukramaḥ.
 
 [^18]: The mantric form of these deities, which we have encountered before above, 15/239cd and following, are given in Chapter 30/10 ff.
 
@@ -451,7 +451,7 @@ The cause (of his) eating (the sacrificial animal) with devotion is that he is �
 निवीपितः कृताभ्यासगुरुप्राणमनोऽर्पणात् ॥ ३५ ॥
 दकषिणेनागिना सौम्यकलाजालविलापनात् ।
 
-[^27]: \[illegible\] This line is also quoted in TĀv ad 13/285cd, 17/73, and 25/27-29ab. The full verse, which Abhinavagupta says is from a Purāṇa, is in 13/285. It is quoted in TĀv ad 21/9cd-1 lab. Abhinava himself quotes it in MVV 1/697. TĀ 13/285ab is an abbreviation of the first line. TĀ 13/285cd is a literal quotation of the second line. It is partially quoted again in 13/289cd.
+[^27]: This line is also quoted in TĀv ad 13/285cd, 17/73, and 25/27-29ab. The full verse, which Abhinavagupta says is from a Purāṇa, is in 13/285. It is quoted in TĀv ad 21/9cd-1 lab. Abhinava himself quotes it in MVV 1/697. TĀ 13/285ab is an abbreviation of the first line. TĀ 13/285cd is a literal quotation of the second line. It is partially quoted again in 13/289cd.
 
 
 *[p. 16]* ^pg36
@@ -844,7 +844,7 @@ Surely (one may ask), if this were to be so, liberation (would be attained) simp
 
 [^49]: This means that after death there is rebirth in better worlds.
 
-[^50]: \[illegible\] Amṛteśatantra MS reads tāḥ for (tan.
+[^50]: Amṛteśatantra MS reads tāḥ for (tan.
 
 [^51]: NT 20/8-9ab. NT edition reads \[illegible\] for eṣām and pāpaughāṁś- for pāíśaughāṁś-. Kṣemarāja comments: ‘the upward way is emanation into the planes of Pure Knowledge and the rest or liberation.” ārdhvagatiḥ Śuddhavidyādipadasṛṣṭir muktir vā. The preceding verses supply the context. They are part of the translation of all of chapter twenty of the Netratantra, found in the Appendix to this chapter.
 
@@ -874,13 +874,13 @@ He concludes this (point, saying):
 
 [^52]: TĀ 16/59cd-62 is a paraphrase of NT 20/18-21, which is quoted by Jayaratha in the commentary.
 
-[^53]: \[illegible\] NT reads \[illegible\] — ‘their’ for pasor — ‘of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amṛteśatantra (which is another name of the Netratantra. See bibliography).
+[^53]: NT reads \[illegible\] — ‘their’ for pasor — ‘of the sacrificial animal’. The latter is confirmed by the same reading in the manuscript of the Amṛteśatantra (which is another name of the Netratantra. See bibliography).
 
 [^54]: Here the reading is dīkṣāvad yojanaṁ, NT reads dipavad. The MS of the Amṛtesatantra reads dīkṣaiva yojana, which confirms the reading here.
 
 [^55]: am following Kṣemarāja, who comments on this line: vyāpakena sivātmanā | svaśaktivibhavena śāktena | yeneti troṭanena.
 
-[^56]: \[illegible\] AT reads moksanaṁ na jighāṁsanaṁ “liberation is not violent killing’.
+[^56]: AT reads moksanaṁ na jighāṁsanaṁ “liberation is not violent killing’.
 
 [^57]: NT 20/18-21.
 
@@ -964,7 +964,7 @@ dātrarpito ‘sau taddvārā yāti sāyujyataḥ śivam |
 
 [^59]: The entire passage from verse 65 to 72 deals with the same subject, that is, the animal offered in sacrifice, and so may well be drawn from the same source, that is, the Ānandaśāstra. In line 70cd, Abhinava states that Śiva (maheśin) is teaching, thus indicating that he is continuing to draw from a Tantra.
 
-[^60]: \[illegible\] Perhaps it would be better to read putrādi mohitaḥ for putrādimohitaḥ, in which the meaning would be ‘deluded, he abandons (his) sons and the rest (of his family)’. The pronoun yah (> yo) in the first line requires a counter correlate ‘saḥ’ or the like, which is missing, indicating that a part of the text has been lost. Further evidence for this is that after listing a number of possible transgressions, the text simply continues with no regard for syntax, saying: ‘then, having (returned to the) human condition, he does the same again.’ This sentence suggests that the person’s transgression is all the more because he continues to repeat it in subsequent lives. We would expect such a sinner to go to hell, as do those who transgress the Kaula injunctions and speak badly of the ‘the path of the left’.
+[^60]: Perhaps it would be better to read putrādi mohitaḥ for putrādimohitaḥ, in which the meaning would be ‘deluded, he abandons (his) sons and the rest (of his family)’. The pronoun yah (> yo) in the first line requires a counter correlate ‘saḥ’ or the like, which is missing, indicating that a part of the text has been lost. Further evidence for this is that after listing a number of possible transgressions, the text simply continues with no regard for syntax, saying: ‘then, having (returned to the) human condition, he does the same again.’ This sentence suggests that the person’s transgression is all the more because he continues to repeat it in subsequent lives. We would expect such a sinner to go to hell, as do those who transgress the Kaula injunctions and speak badly of the ‘the path of the left’.
 
 [^61]: A ‘biped’ is a human being. In other words, animal sacrifice is being divided into two kinds —one in which human beings are sacrificed, and another in which animals are offered.
 
@@ -977,7 +977,7 @@ having (returned to the) human condition, even if he does the same again, reborn
 
 [^62]: Cf. another reference from the Ānandatantra above: “The goddesses are satisfied in (this) sacrifice by bloody meat’ 15/606cd (602cd). Concerning caru, see above, note 2,7, and 15/605cd- 608ab (601cd-604ab).
 
-[^63]: \[illegible\] Abhinava has quoted a long passage from the same Ānandatantra (in 8/32cd-41ab), warning those who have been initiated into the higher traditions will go to hell if they transgress the Rules and speak badly of ‘the practice of the left’. There we are told that they are saved by devotion to Hāṭakeśvara, a form of Siva, who governs the hell worlds. Here, the same Tantra tackles the same theme from a different perspective. The fettered soul who transgresses for seven lives may be liberated by being sacrificed to the goddess. It is a common belief that animals offered in sacrifice are liberated after they have been offered seven times in successive rebirths. At the most basic level, the same holds good for human sacrifice. Any human offered in sacrifice is ex conceptio in one or other of his seven lives. Sublimated and interiorized, death itself becomes the sacrifice, and the path to liberation is traced through seven lives, lived realising higher levels of attainment, marked by seven deaths. Men draw closer to the goddess in this way, and so she likes, both literally and symbolically, to cat their flesh in their last series of rebirths, especially of those who are in their last life. This belief appears to have influenced or been influenced by an early Buddhist conception. According to this view, there is a stage of spiritual development when the aspirant becomes a srotāpanna, lit. ‘one who has entered the stream’. Having entered this ‘stream’, he needs only seven more lifetimes in order to achieve liberation. This notion was later adapted by the Buddhist Tantras which, developing within the same cultural milieu as their Śaiva counterparts, needed in a like manner to purify and interiorize more primitive beliefs. Thus, the Hevajratantra affirms that the best saci \[illegible\] offering is a man who has traversed this course and become one who has ‘returned seven times’ (saptāvarta). (HT 1/7/21) Whilst the commentator Vajragarbha accepts that this is literally the case, echoing the Tantra, he stresses that the human victim sacrifices himself willingly, implying that his action is guided by the altruistic spirit that inspires a Bodhisattva. However, he goes on to explain the ‘figurative sense’ in the Tantric perspective, according to which liberation is to be achieved in this very life, and that the offering is not an outer ritual but takes place spontaneously within the body. Vajragarbha begins by outlining the godlike features of men in their seventh birth: “They appear with seven shadows, their eyes are unflinching, there are three creases on their foreheads, their bodies emit a pleasing odour, and so on. If you see such a one, offer him flowers in salutation, circumambulate him, and address him thus: “O Great Lord of Yogis, the time has come to act for the good of such as us.” If you address him thus, he will surrender his life. . . . As for the figurative sense of saptāvarta it is said: ‘Of all embodied beings, this body represents seven births, for from the eating and drinking of food and drink with their six flavours, these are digested, and nourishment increases. This is called the first birth. Then the blood is formed, and this is the second birth. Then flesh, which is the third, skin, which is the fourth, the formation of veins, which is the fifth, then bones, which is the sixth, then flesh and marrow, and this is the seventh.” Hevajrapindārthaṭīkā by Vajragarbha, commentary on HT 1/7/21. Translation by Snellgrove.
+[^63]: Abhinava has quoted a long passage from the same Ānandatantra (in 8/32cd-41ab), warning those who have been initiated into the higher traditions will go to hell if they transgress the Rules and speak badly of ‘the practice of the left’. There we are told that they are saved by devotion to Hāṭakeśvara, a form of Siva, who governs the hell worlds. Here, the same Tantra tackles the same theme from a different perspective. The fettered soul who transgresses for seven lives may be liberated by being sacrificed to the goddess. It is a common belief that animals offered in sacrifice are liberated after they have been offered seven times in successive rebirths. At the most basic level, the same holds good for human sacrifice. Any human offered in sacrifice is ex conceptio in one or other of his seven lives. Sublimated and interiorized, death itself becomes the sacrifice, and the path to liberation is traced through seven lives, lived realising higher levels of attainment, marked by seven deaths. Men draw closer to the goddess in this way, and so she likes, both literally and symbolically, to cat their flesh in their last series of rebirths, especially of those who are in their last life. This belief appears to have influenced or been influenced by an early Buddhist conception. According to this view, there is a stage of spiritual development when the aspirant becomes a srotāpanna, lit. ‘one who has entered the stream’. Having entered this ‘stream’, he needs only seven more lifetimes in order to achieve liberation. This notion was later adapted by the Buddhist Tantras which, developing within the same cultural milieu as their Śaiva counterparts, needed in a like manner to purify and interiorize more primitive beliefs. Thus, the Hevajratantra affirms that the best saci \[illegible\] offering is a man who has traversed this course and become one who has ‘returned seven times’ (saptāvarta). (HT 1/7/21) Whilst the commentator Vajragarbha accepts that this is literally the case, echoing the Tantra, he stresses that the human victim sacrifices himself willingly, implying that his action is guided by the altruistic spirit that inspires a Bodhisattva. However, he goes on to explain the ‘figurative sense’ in the Tantric perspective, according to which liberation is to be achieved in this very life, and that the offering is not an outer ritual but takes place spontaneously within the body. Vajragarbha begins by outlining the godlike features of men in their seventh birth: “They appear with seven shadows, their eyes are unflinching, there are three creases on their foreheads, their bodies emit a pleasing odour, and so on. If you see such a one, offer him flowers in salutation, circumambulate him, and address him thus: “O Great Lord of Yogis, the time has come to act for the good of such as us.” If you address him thus, he will surrender his life. . . . As for the figurative sense of saptāvarta it is said: ‘Of all embodied beings, this body represents seven births, for from the eating and drinking of food and drink with their six flavours, these are digested, and nourishment increases. This is called the first birth. Then the blood is formed, and this is the second birth. Then flesh, which is the third, skin, which is the fourth, the formation of veins, which is the fifth, then bones, which is the sixth, then flesh and marrow, and this is the seventh.” Hevajrapindārthaṭīkā by Vajragarbha, commentary on HT 1/7/21. Translation by Snellgrove.
 
 *[p. 33]* ^pg53
 
@@ -1014,7 +1014,7 @@ Nor should that animal be rejected once known that it is not fit (to be sacrific
 
 ‘O Bhairavī, one should not offer an animal that is impotent, emaciated, very old or very young, and certainly not a female animal.” 
 
-[^64]: \[illegible\] Possibly 68cd-70ab and 71-72 are also drawn from the Ānandaśāstra.
+[^64]: Possibly 68cd-70ab and 71-72 are also drawn from the Ānandaśāstra.
 
 
 *[p. 34]* ^pg54
@@ -1190,13 +1190,13 @@ Then, having tied a white turban (sitoṣṇīṣa) (on his head), he should wor
 mandalastho ‘ham evāyaṁ sākṣī cākhilakarmanām |
 suddhā hi draṣtṭratā śambhor mandale kalpitā mayā ॥ 81 ॥ homādhikaraṇatvena vahnāv aham avasthitaḥ | 
 
-[^78]: \[illegible\] Jayaratha is following MV 9/43b.
+[^78]: Jayaratha is following MV 9/43b.
 
 [^79]: Read, as suggested by the editor, vāmena for vāme.
 
 [^80]: MV 9/44a.
 
-[^81]: \[illegible\] Kṣemarāja quotes this and the following verse in SvTu ad 4/59: anenālabdhamātras tu dehī nirmuktabandhanaḥ | prayāti śivasāyujyaṁ nirmalo nirupaplavaḥ Il “Having, due to this (i.e. Śiva’s Hand), not attained the (minimum) measure (required to activate karma), the embodied (soul) is freed from (its) fetters and, free of Impurity and affliction, attains conjunction with Siva.”
+[^81]: Kṣemarāja quotes this and the following verse in SvTu ad 4/59: anenālabdhamātras tu dehī nirmuktabandhanaḥ | prayāti śivasāyujyaṁ nirmalo nirupaplavaḥ Il “Having, due to this (i.e. Śiva’s Hand), not attained the (minimum) measure (required to activate karma), the embodied (soul) is freed from (its) fetters and, free of Impurity and affliction, attains conjunction with Siva.”
 
 
 *[p. 39]* ^pg59
@@ -1231,7 +1231,7 @@ Surely (one may ask), what is (the nature of) their capacity to burn up the fett
 
 [^84]: Literal quote with no variants of MV 9/48ab.
 
-[^85]: \[illegible\] Note here how the line of Abhinava’s commentary that alternates with a line from the MV serves to explain and stress that the ritual agent — in this case, the teacher engaged in initiating his disciple — is conscious of himself as the witness consciousness. He empowers the Mantras by the awareness of his state of consciousness in order to burn up the fetters of the Self. This happens by shifting the attention from the object to the subject. In this way, the ritual action operates in the field of subjectivity rather than that of objectivity. Abhinava does not refer to the lines that follow in the MV, i.e. ‘up to the end of the sacrifice I am present in the jar in order to quell obstacles and in the disciple’s body in order to accomplish his separation from (his) fetters.” (MV 9/48cd-49ab) But it is clear by referring to them that the subjectivity in question is that of the teacher present in the disciple. Here as in many other cases, it is clear that he expects his reader to know the text to which he is referring.
+[^85]: Note here how the line of Abhinava’s commentary that alternates with a line from the MV serves to explain and stress that the ritual agent — in this case, the teacher engaged in initiating his disciple — is conscious of himself as the witness consciousness. He empowers the Mantras by the awareness of his state of consciousness in order to burn up the fetters of the Self. This happens by shifting the attention from the object to the subject. In this way, the ritual action operates in the field of subjectivity rather than that of objectivity. Abhinava does not refer to the lines that follow in the MV, i.e. ‘up to the end of the sacrifice I am present in the jar in order to quell obstacles and in the disciple’s body in order to accomplish his separation from (his) fetters.” (MV 9/48cd-49ab) But it is clear by referring to them that the subjectivity in question is that of the teacher present in the disciple. Here as in many other cases, it is clear that he expects his reader to know the text to which he is referring.
 
 
 *[p. 40]* ^pg60
@@ -1301,7 +1301,7 @@ Thus viewing (himself) in this way, (the teacher) should worship (amongst the si
 
 [^90]: See above, 16/85.
 
-[^91]: \[illegible\] Verse 88 is a paraphrase and free interpretation of MV 9/50-5 lab: ity etat sarvam ālocya śodhyādhvānaṁ \[g: śodhyātmānam\] vicintayet | \[illegible\] yenādhvanā manirī śiṣyānāṁ kartum icchati ॥ 50 ॥ tatraivālocayet sarvaṁ \[illegible\] padam anāmayam | “Thus, having viewed all that (in this way), (the teacher) should think about the path which is to be purified, by means of which the officiant (mantrin) wishes to impart initiation to (bis) disciples. He should view everything there itself, so that it may go to the plane free (of all) disease (and death).’
+[^91]: Verse 88 is a paraphrase and free interpretation of MV 9/50-5 lab: ity etat sarvam ālocya śodhyādhvānaṁ \[g: śodhyātmānam\] vicintayet | \[illegible\] yenādhvanā manirī śiṣyānāṁ kartum icchati ॥ 50 ॥ tatraivālocayet sarvaṁ \[illegible\] padam anāmayam | “Thus, having viewed all that (in this way), (the teacher) should think about the path which is to be purified, by means of which the officiant (mantrin) wishes to impart initiation to (bis) disciples. He should view everything there itself, so that it may go to the plane free (of all) disease (and death).’
 
 [^92]: 1507.
 
@@ -1373,7 +1373,7 @@ Surely (one may ask), what is the result of repeating this kind of meditation ag
 tāpanirgharṣasekādipāramparyena vahnitām || 93 ॥
 yathāyogolako yāti gurur evan śivātmatām | 
 
-[^94]: \[illegible\] is an expansion of MV 9/52ab. aham eva paraṁ tattvaṁ mayi sarvam idaṁ jagat | “I myself am the supreme reality and all this universe is within me.”
+[^94]: 90cd-91ab is an expansion of MV 9/52ab. aham eva paraṁ tattvaṁ mayi sarvam idaṁ jagat | “I myself am the supreme reality and all this universe is within me.”
 
 [^95]: 92ab is a close paraphrase of MV 9/52cd: adhisthātā ca kartā ca sarvasyāham avasthitaḥ | “I preside over all things, and I am the author of all”.
 

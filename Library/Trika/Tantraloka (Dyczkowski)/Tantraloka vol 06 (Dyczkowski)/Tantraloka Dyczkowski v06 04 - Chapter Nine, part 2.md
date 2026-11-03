@@ -227,7 +227,7 @@ There is indeed some difference between scorpions born from (other) scorpions or
 
 Thus he says: 
 
-[^97]: \[illegible\] vastubhede prasiddhasya Śabdasāmyād abhedinaḥ | na yuktaṁ sādhanaṁ gotvād vāgādīnār viṣānivat || ‘Applying this dictum to the example of the scorpion, it is necessary to distinguish between a scorpion born of another scorpion and one from cow dung. Calling both of them scorpions is not sufficient to define them, words are necessary to distinguish one from the other.”
+[^97]: vastubhede prasiddhasya Śabdasāmyād abhedinaḥ | na yuktaṁ sādhanaṁ gotvād vāgādīnār viṣānivat || ‘Applying this dictum to the example of the scorpion, it is necessary to distinguish between a scorpion born of another scorpion and one from cow dung. Calling both of them scorpions is not sufficient to define them, words are necessary to distinguish one from the other.”
 
 *[p. 48]* ^pg65
 
@@ -286,7 +286,7 @@ Various Sequences of the Kañcukas
 कला मायेति कथितः क्रम: किरणशाखगः पुमान्नियत्या कालश्च रागविद्याकलाचित : ॥ ४७ ॥
 इत्येष क्रम उरिष्यो मातद्ध पारमेशवरे ।
 
-[^100]: \[illegible\] The rattvas are arranged in a series in which the preceding tattva is the cause of the one that follows. Thus, their sequential order relates directly to what they are. The sources, which are mostly Siddhāntas, do not always agree about this. Specifically, the sequential order of the kañcukas is liable to variation. Abhinava solves this problem in this way. While the relationship between the two rattvas is universally causal, the specific nature of a cause may vary, for the causal status of a cause precedes its specification. Moreover, Śiva is free to ordain whatever sequence he chooses, just as he is free to define the nature of a tattva in other ways. Abhinava is careful to maintain the validity of all the Śaiva revelation just as it is, even though there are inconsistencies within it as, for example, in this case. He prefers to say that the differences are an expression of the freedom of consciousness, that manifests variously in various circumstances, rather than maintain that this is due to varying degrees and forms of ignorance. See above, note 9,91.
+[^100]: The rattvas are arranged in a series in which the preceding tattva is the cause of the one that follows. Thus, their sequential order relates directly to what they are. The sources, which are mostly Siddhāntas, do not always agree about this. Specifically, the sequential order of the kañcukas is liable to variation. Abhinava solves this problem in this way. While the relationship between the two rattvas is universally causal, the specific nature of a cause may vary, for the causal status of a cause precedes its specification. Moreover, Śiva is free to ordain whatever sequence he chooses, just as he is free to define the nature of a tattva in other ways. Abhinava is careful to maintain the validity of all the Śaiva revelation just as it is, even though there are inconsistencies within it as, for example, in this case. He prefers to say that the differences are an expression of the freedom of consciousness, that manifests variously in various circumstances, rather than maintain that this is due to varying degrees and forms of ignorance. See above, note 9,91.
 
 [^101]: Tattvasaṁgraha by Sadyojyotiṣ v. 7a. The full verse reads: antahkaraṇari trividhaṁ cittāūhaṁkārabuddhinirvācyam | utpattir ahaṅkārāc cittabahiṣkaranabhūtayonīnām || 7 | “The inner mental organ is threefold, defined as the mind, ego and the intellect. From the ego arises the mind, outer (sensory) organs, and the (subtle elements, that are) the sources of the gross elements.” (7)
 
@@ -384,7 +384,7 @@ disturbed by the Lord Ananta...’[^122]
 
 imilarly, the insentient (acetanā) energy manifests by the union of Māyā and the individual soul.’[^123] 
 
-[^115]: \[illegible\] Read kalety evañ mayaiva jaratpustake dṛṣṭaḥ for kalety evam ātmaiva jaratpustakadṛṣtaḥ.
+[^115]: Read kalety evañ mayaiva jaratpustake dṛṣṭaḥ for kalety evam ātmaiva jaratpustakadṛṣtaḥ.
 
 [^116]: The sequence taught in these verses of the Kirana in the ascending order is —Pradhāna > Puruṣa > Attachment > Impure Knowledge > the couple of Time and Necessity > Force of (limited agency) > Māyā.
 
@@ -392,15 +392,15 @@ imilarly, the insentient (acetanā) energy manifests by the union of Māyā and 
 
 [^118]: KiT 1/8/128ab.
 
-[^119]: \[illegible\] KiT 1/8/130cd.
+[^119]: KiT 1/8/130cd.
 
 [^120]: KiT 133ab. Vivanti’s edition reads kofin vyāpya sthitā hy adhaḥ — ‘having extended for ten million (leagues), it is located below’ for koṭidhā vyāpya sāpy adhaḥ — ‘extends (beyond) what is below it ten million times (more).
 
-[^121]: \[illegible\] According to the Mātaṅgaparameśvara, the downward serial order is Māyā + Puruṣa > Kalā > Vidyā > Rāga > Kāla > Niyati. Abhinava presents them here in the reverse, that is, in the ascending order of withdrawal, which is their order of presentation in chapter eight of the vidyāpāda of the Kiraṇatantra.
+[^121]: According to the Mātaṅgaparameśvara, the downward serial order is Māyā + Puruṣa > Kalā > Vidyā > Rāga > Kāla > Niyati. Abhinava presents them here in the reverse, that is, in the ascending order of withdrawal, which is their order of presentation in chapter eight of the vidyāpāda of the Kiraṇatantra.
 
 [^122]: MPĀ vidyāpāda 9/2ab. The next line says: “Then by its own permutation (vikāra) it makes the extensive universe.”
 
-[^123]: \[illegible\] vidyāpāda 9/15a. Read with the printed edition of the MPĀ, vyajyate ‘cetanā kalā for vyajyate cetanā kalā. Rāmakanṇtha explains that: ‘Just as a sprout arises by the conjunction of the grain of rice and the integument etc., in the same way the insentient
+[^123]: Ibid. vidyāpāda 9/15a. Read with the printed edition of the MPĀ, vyajyate ‘cetanā kalā for vyajyate cetanā kalā. Rāmakanṇtha explains that: ‘Just as a sprout arises by the conjunction of the grain of rice and the integument etc., in the same way the insentient
 
     energy of Māyā and the individual soul arise because of the relationship between the enjoyer and the object of enjoyment, the instrumental cause of which is Karma.’
 
@@ -547,7 +547,7 @@ teaching), Śiva, who is pure consciousness, is indeed supreme (and transcendent
 
 [^135]: niṣiñcati literally means ‘sprinkles’, and by extension, ‘consecrates’. !% Cf,
 
-[^136]: \[illegible\] on 3/1/3 (Bhā 2 p. 223) idambhāvasya tu dhyāmalādhyāmalatākṛto viśeṣaḥ ‘Pure’ objectivity is experienced as one within consciousness. This is its state at the level of Sadāśiva, in which the experience is \[illegible\] am this’. The objective ‘this’ aspect is experienced as the subjective ‘T’. A step down, at the level of Īśvara, objectivity becomes primary, and so the experience is ‘this am T’. In other words, here the subject is identified with the object, whereas at the higher level the object is identified with the subject. Thus, at this level, objectivity, although still one with the subject, is more distinctly experienced as separate from it and differentiated within itself. Thus, as duality has developed within it, it is said to be ‘impure’. The subjective pole remains unchanged, ensuring the essential nonduality at both levels, which are thus distinguishable only on the basis of the state of the objective polarity. See above, note on TĀv ad 4/140 and Jayaratha TĀv ad 6/39cd-40ab and note.
+[^136]: Cf. ĪPv on 3/1/3 (Bhā 2 p. 223) idambhāvasya tu dhyāmalādhyāmalatākṛto viśeṣaḥ ‘Pure’ objectivity is experienced as one within consciousness. This is its state at the level of Sadāśiva, in which the experience is \[illegible\] am this’. The objective ‘this’ aspect is experienced as the subjective ‘T’. A step down, at the level of Īśvara, objectivity becomes primary, and so the experience is ‘this am T’. In other words, here the subject is identified with the object, whereas at the higher level the object is identified with the subject. Thus, at this level, objectivity, although still one with the subject, is more distinctly experienced as separate from it and differentiated within itself. Thus, as duality has developed within it, it is said to be ‘impure’. The subjective pole remains unchanged, ensuring the essential nonduality at both levels, which are thus distinguishable only on the basis of the state of the objective polarity. See above, note on TĀv ad 4/140 and Jayaratha TĀv ad 6/39cd-40ab and note.
 
 *[p. 59]* ^pg76
 
@@ -829,7 +829,7 @@ rāgaḥ pursi dhiyo dharmaḥ karmabhedavicitratā ॥ 64 ॥
 
 [^160]: SvT 3/177a. This half line is also quoted below in TĀv ad 9/88cd-89ab and as the first half of a full line ad 13/83-84 and ad 13/1 10cd-1 1 lab.
 
-[^161]: \[illegible\] Read avairāgyalakṣano for vairāgyalakṣano.
+[^161]: Read avairāgyalakṣano for vairāgyalakṣano.
 
 *[p. 67]* ^pg84
 
@@ -856,7 +856,7 @@ And this sense of oneself as incomplete (apūrnamanyatā) manifests in this form
 
 [^163]: Although this process binds the individual soul who is subject to duality, from the perspective of Śiva consciousness, it marks the stage through which Śiva makes things manifest. Śiva is perfectly free to do or become anything. He has simply to desire it. When he does so, His desire assumes the form of its object. In other words, the universal power to do anything focuses on a particular desired aim, assuming its form as it does so. This then develops into the object itself, projected externally.
 
-[^164]: \[illegible\] Al that manifests in all these forms in nothing but the mistaken supposition of our incompleteness (apūrnatā).
+[^164]: Al that manifests in all these forms in nothing but the mistaken supposition of our incompleteness (apūrnatā).
 
 [^165]: Read tadatiriktaḥ for tattadatiriktaḥ.
 
@@ -1013,7 +1013,7 @@ svayaṁ pravṛttau viśvaṁ syāt tathā ceśanikā pramā |
 
 [^177]: Distinctions are superimposed according to different functions of the same entity. Power, the essential, specific nature of an entity, has distinctions superimposed upon it, according to the various results it gives rise to. So it is that a single entity, though having (or being) one power, is endowed with many powers. Fire, for example, has the capacity to burn and cook etc., and so fire, though one, appears to have various powers, according to its various functions, for a power is not something different from it, and all the functions are aspects of a single one (cf. above, 1/69).
 
-[^178]: \[illegible\] Although it is true that to account for what is evident experience, it may be necessary to postulate some unseen factors in this case, where all the functions of fire can be accounted for by one power alone, it would be futile to postulate an unperceived multiplicity of powers.
+[^178]: Although it is true that to account for what is evident experience, it may be necessary to postulate some unseen factors in this case, where all the functions of fire can be accounted for by one power alone, it would be futile to postulate an unperceived multiplicity of powers.
 
 [^179]: The power of concealment Impurity has is one and universal, and so should obscure all individual souls. As it is insentient, how can it decide, “I will conceal this soul” or “I will not conceal the other one”? Thus, you would have to admit that even God Himself would be affected by Impurity, if you persist in considering it to be some autonomous entity thought of as the “power of concealment”.
 
@@ -1302,7 +1302,7 @@ Some are propense (to the view) that darkness is just the absence of light, othe
 
 [^191]: this way, we arrive at two meanings that Jayaratha says are equally correct. The first assumes that the two words malo mūrtaḥ are the result of euphonic conjunction of the word malaḥ and amārtaḥ, to make malo ‘mūrtaḥ, and so means ‘Impurity which is without form’. The second assumes that there is no privative ʻa’ at the beginning of mūrtaḥ, so malaḥ + mūrtaḥ results in malo mūrtaḥ, which means ‘Impurity which has form’.
 
-[^192]: \[illegible\] Read -mātram ato hi mūrtam for -mātraṁ hi mūrtiḥ.
+[^192]: Read -mātram ato hi mūrtam for -mātraṁ hi mūrtiḥ.
 
 *[p. 81]* ^pg98
 
@@ -1371,9 +1371,7 @@ Then what (happens)? With this doubt in mind, he says:
 
 ataḥ karmavipākajñaprabhuśaktibaleritam ॥ 80 ॥ madyar sūte madar duhkhasukhamohaphalātmakam | 
 
-Thus, impelled by the strength of the power of the Lord (prabhuśakti), who knows (the degree of) the maturity of (the soul’s) Karma, wine inebriates, resulting in pain, pleasure, and delusion. (80cd- 
-
-8lab) 
+Thus, impelled by the strength of the power of the Lord (prabhuśakti), who knows (the degree of) the maturity of (the soul’s) Karma, wine inebriates, resulting in pain, pleasure, and delusion. (80cd-81ab) 
 
 Thus, although insentient, wine and the like obscures one’s own consciousness by the impulse of the Supreme Lord’s power, and having done so, is inebriating. However, (it affects the Self) that has assumed a contracted state, and consists of the vital breath etc., not the (essential) pure consciousness nature, because, for the aforestated reason, it cannot obscure it. 
 

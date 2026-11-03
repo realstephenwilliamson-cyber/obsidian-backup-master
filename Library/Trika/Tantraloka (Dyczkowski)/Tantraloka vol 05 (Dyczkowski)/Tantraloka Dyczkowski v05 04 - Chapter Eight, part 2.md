@@ -260,7 +260,7 @@ In its middle, above and below, (there is a place that is) octagonal, and (one) 
 
 Surely, according to (the scriptural dictums which say that) ‘the unmanifest (Liṅga) is secondarily characterized (by the manifest one), which is square, octagonal and round’, and ‘and its umbrella[^276] (is shaped like) the 
 
-[^274]: \[illegible\] SvT 10/122a, 123-124ab. esa ca śrīparāyāṁ karnikākāramastaka ity uktaḥ. ‘It is said in the venerable (Para that ‘the top is the shape of a calyx of a lotus.” (Parākhyā 5/66b). The whole verse confirms these measurements: ‘In the middle is the golden mountain of Meru, whose top is the shape of a calyx of a lotus. It penetrates the circle of the earth to a depth of sixteen \[yojanas\]. Above (the surface of the earth) it is eighty-four thousand high.’ (ibid. 5/66-67ab). Goodall (2004: 295 note 550) notes ‘the numbers eighty-four thousand and sixteen thousand for these measurements (making up a total of one lakh) are widely shared, not only by other Siddhāntas \[see e.g. Rauravasūtrasahgraha 4/5cd, Kirana 8/48cd-49ab Mataṁgavidyāpāda 23/64 and Sarvajṁñānottara adhvaprakaraṇa 20 (IFP MS T. No. 334 p. 58)\], but also by Purānṇas.”
+[^274]: SvT 10/122a, 123-124ab. esa ca śrīparāyāṁ karnikākāramastaka ity uktaḥ. ‘It is said in the venerable (Para that ‘the top is the shape of a calyx of a lotus.” (Parākhyā 5/66b). The whole verse confirms these measurements: ‘In the middle is the golden mountain of Meru, whose top is the shape of a calyx of a lotus. It penetrates the circle of the earth to a depth of sixteen \[yojanas\]. Above (the surface of the earth) it is eighty-four thousand high.’ (ibid. 5/66-67ab). Goodall (2004: 295 note 550) notes ‘the numbers eighty-four thousand and sixteen thousand for these measurements (making up a total of one lakh) are widely shared, not only by other Siddhāntas \[see e.g. Rauravasūtrasahgraha 4/5cd, Kirana 8/48cd-49ab Mataṁgavidyāpāda 23/64 and Sarvajṁñānottara adhvaprakaraṇa 20 (IFP MS T. No. 334 p. 58)\], but also by Purānṇas.”
 
 [^275]: The Kirana (8/48ab), amongst other Siddhāntas, also describes the shape of the peak of Meru, although the Parākhya does not. See note 8,161.
 
@@ -332,11 +332,11 @@ And that (Mount Meru) is a Bhairava Liṅga,[^278] and its base pithika) ) is th
 
 [^278]: Kṣemarāja quotes this line in SvTu ad 10/24ab. Concerning the three types of Liṅga, see above, 5/113 ff. Concerning the Bhairava Liṅga, see Dyczkowski 2009 1,191. According to the KM, the goddess Kubjikā resides in a Bhairava Liṁga. There are several Bhairava Liṅgas in the Kathmandu Valley that Kaulas worship.
 
-[^279]: \[illegible\] Abhinava presents here the arrangement of the Meru we commonly find in the Siddhāntas. Goodall (2004: 296 note 551) explains that ‘the Mataṁga (vidyāpāda 23/56- 63) tells us that the Sabhā \[assembly\] of Brahmā (widely known as Manovatī) is at the top in the centre, that Hara (the speaker teaching the sage Mataṅga, in the Svacchanda it is Tryambaka) resides on the Jyotiṣka peak situated in the northeast corner, and that below the top is the ring (cakravāṭa) of the eight citadels of the Lokapālas. This arrangement is shared in the Sarvajñānottara (adhvaprakarana 32-42ab, IFP MS T. No 334, pp. 59-60), the Svacchanda (10/124 ff.) and the Mṛgendra (vidyāpāda 13/45-62).
+[^279]: Abhinava presents here the arrangement of the Meru we commonly find in the Siddhāntas. Goodall (2004: 296 note 551) explains that ‘the Mataṁga (vidyāpāda 23/56- 63) tells us that the Sabhā \[assembly\] of Brahmā (widely known as Manovatī) is at the top in the centre, that Hara (the speaker teaching the sage Mataṅga, in the Svacchanda it is Tryambaka) resides on the Jyotiṣka peak situated in the northeast corner, and that below the top is the ring (cakravāṭa) of the eight citadels of the Lokapālas. This arrangement is shared in the Sarvajñānottara (adhvaprakarana 32-42ab, IFP MS T. No 334, pp. 59-60), the Svacchanda (10/124 ff.) and the Mṛgendra (vidyāpāda 13/45-62).
 
 [^280]: According to Kṣemarāja (commenting on SvT 10/127ab), ‘jyotiṣka’ (lit. ‘heavenly body’) means ‘sphāṭika (‘crystal’).
 
-[^281]: \[illegible\] Read meror for merur.
+[^281]: Read meror for merur.
 
 [^282]: Verses, 46cd to 56ab are a summary of SvT 10/124-165.
 
@@ -484,7 +484,7 @@ Gandhavahā). a) O goddess, to the south of the Wind (i.e. the northwest) is loc
 
 [^297]: for sukarmasaṁnjñā. Kṣemarāja’s comments confirm this reading: svena karmanā iśanena nimittena saṁjñā yeṣām. ‘Their names are due to their action, which is to eat meat (etc.)’.
 
-[^298]: \[illegible\] Read with MS Ch and Ñ and SvT, smṛtā for subha.
+[^298]: Read with MS Ch and Ñ and SvT, smṛtā for subha.
 
 [^299]: SVT 10/131-147ab.
 
@@ -566,7 +566,7 @@ On each of these four mountains there is a garden, lake and wish-granting tree. 
 
 [^308]: lab.
 
-[^309]: \[illegible\] Tentative emendation of pradakṣināpyodagdikṣu \[c: prāgda-\] to prācyādyudagdikṣu.
+[^309]: Tentative emendation of pradakṣināpyodagdikṣu \[c: prāgda-\] to prācyādyudagdikṣu.
 
 [^310]: See SvT 10/182cd-184ab. The four supporting mountains of Meru are described in Mṛgendra (vidyāpāda) 13/71-73 and in Sarvajñānottara 13/22-32 (lacunae in the transcript), but they are not mentioned in the Parākhya, Svayambhusūtrasamgraha or Rauravasūtrasaigraha.
 
@@ -675,7 +675,7 @@ To the east and west (perpendicular to these chains are the chains) called (east
 
 [^317]: Commenting on SvT 10/200ab Kṣemarāja quotes the Parākhya again: sanis tatra sunīlābho jāto nīlas tvato giriḥ | ‘Śani (Saturn) there became dark blue (sunīlābha), and so the mountain is (called) Nīla.’ (Parākhya 5/81ab) nīlavac ca giriḥ śveto yatra śveto mahāmuniḥ || mṛtyunā grasyamāno.api rakṣitaś candramaulinā | Like Nīla, there is the mountain Śveta (White), where the great sage Śveta, though devoured by death, was protected by Śiva.’ (ibid. 5/83) svetavac ca trisrùgo ‘drir vajrapātopamardanaḥ | tryaśritas teṣu Śṛṅgeṣu kila devās trayaḥ sthitāḥ ॥ ‘And (next), like Śveta, there is the mountain Triśṛṁga (Triple Peak), that spurns the fall of thunderbolts. (It is so called) because it has three peaks. It is said that (kila) three gods reside upon those peaks.’ (ibid. 5/85)
 
-[^318]: \[illegible\] TĀ 8/63cd-64 is based on MṛT vidyāpāda 13/64-65.
+[^318]: TĀ 8/63cd-64 is based on MṛT vidyāpāda 13/64-65.
 
 [^319]: SvTu ad 10/205-206: drstvaé mālyāni divyāni brahmasevārthamāgataiḥ | sambhṛtāni yataḥ siddhair mālyavāṁis tena lapyate ॥ ‘Seeing the heavenly garlands (mālyāni), the Siddhas who had come (there) to worship Brahmā, gathered them (sarmbhṛta), ), and so is said to be Mālyavat.” (Parākhya 5/77) iti tathā ca ---- madamattā purā dṛṣṭā mālyā vidyādharī kila | rsinā nāradenāsminn āghrātā modabhāvitā | gandho me mādano viprety uktas tad gandhamādanaḥ | 5/78cd-79 ‘(Similarly, to the west of Ilāvṛta is the mountain (range) Gandhamādana (Inebriated with Fragrance), an intoxicated Vidyādharī (called) Mālyā was seen (on a mountain in) the past. Steeped in fragrance (modabhāvita), the sage Nārada smelt her there. (She) said (to him) “O Brahmin, my scent is intoxicating (gandho me mādanaḥ).” Therefore, it is called Gandhamādana.’ Goodall has restored this verse to the text of the Parākhya as verse 5/78cd-79.
 
@@ -699,7 +699,7 @@ in width.’[^322]
 
 [^321]: See above 8/62cd-63ab.
 
-[^322]: \[illegible\] SvT 10/202cd. The SvT continues: kailāsayukto himavāṁs triśṛṁgaś ca sajārudhiḥ | himavato madhye kailāsaḥ śṛṅgarūpaḥ | yad uktaṁ devīyāmale ---- tasya madhye mahāśṛṁga śatayojanavistṛtam | ity upakramya, tatrāsāv amaraiḥ sārdhaṁ śūlī vasati sarvadā | iti | sṛṅgavatas tu jārudhiḥ sańńlagnah || esam prātilomyato varnar nirūpayati ---- Srùgavāmṁś candrakanibhaḥ sitaḥ śveto virājate \\\\ nīlaratnamayo nīlo niṣadhaḥ padmarāgabhaḥ | sauvarṇno hemakūtaś ca himābho himavān iti || "1211258 is linked to Himavat and Triśṛṁga with Jārudhi.’ (SvT 10/203ab) Kailāsa is a (mountain) peak in the middle of Himavat. As is said in the Devïyāmala, beginning with ‘in the middle of that there is a great peak that is a hundred yojanas wide (vitṛta).” “There (Siva), the bearer of the trident, always lives along with the gods.’ Jārudhi is connected to Śṛṁgavat. (Next, the Tantra) states their colour in reverse order. ‘Śṛṁgavat is (white) like the moon. The white Śveta looks beautiful. Nīla is made of blue gems and Niṣadha is (red) like ruby. And Hemakūta is golden. Himavat is (white) like snow.’ (SvT 10/203cd-204) The three ranges on each side taper from 100,00, to 90,000, and then 80,000, which is the length of the Himavat and Śṛṅgavat ranges, and are two thousand yojanas wide (pārśvamāna).
+[^322]: SvT 10/202cd. The SvT continues: kailāsayukto himavāṁs triśṛṁgaś ca sajārudhiḥ | himavato madhye kailāsaḥ śṛṅgarūpaḥ | yad uktaṁ devīyāmale ---- tasya madhye mahāśṛṁga śatayojanavistṛtam | ity upakramya, tatrāsāv amaraiḥ sārdhaṁ śūlī vasati sarvadā | iti | sṛṅgavatas tu jārudhiḥ sańńlagnah || esam prātilomyato varnar nirūpayati ---- Srùgavāmṁś candrakanibhaḥ sitaḥ śveto virājate \\\\ nīlaratnamayo nīlo niṣadhaḥ padmarāgabhaḥ | sauvarṇno hemakūtaś ca himābho himavān iti || "1211258 is linked to Himavat and Triśṛṁga with Jārudhi.’ (SvT 10/203ab) Kailāsa is a (mountain) peak in the middle of Himavat. As is said in the Devïyāmala, beginning with ‘in the middle of that there is a great peak that is a hundred yojanas wide (vitṛta).” “There (Siva), the bearer of the trident, always lives along with the gods.’ Jārudhi is connected to Śṛṁgavat. (Next, the Tantra) states their colour in reverse order. ‘Śṛṁgavat is (white) like the moon. The white Śveta looks beautiful. Nīla is made of blue gems and Niṣadha is (red) like ruby. And Hemakūta is golden. Himavat is (white) like snow.’ (SvT 10/203cd-204) The three ranges on each side taper from 100,00, to 90,000, and then 80,000, which is the length of the Himavat and Śṛṅgavat ranges, and are two thousand yojanas wide (pārśvamāna).
 
 
 *[p. 116]* ^pg134

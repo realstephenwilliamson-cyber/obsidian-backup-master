@@ -65,7 +65,7 @@ Krama teachings are central to Abhinava’s Kaulism, and the Mādhavakula was a 
 
 [^1006]: See TĀv ad 4/173ab
 
-[^1007]: \[illegible\] See Appendix to TĀ 29 for a translation of passages from the JY concerning Ādiyāga and its auxiliary Anuyāga in the form of Navayāga.
+[^1007]: See Appendix to TĀ 29 for a translation of passages from the JY concerning Ādiyāga and its auxiliary Anuyāga in the form of Navayāga.
 
 [^1008]: See, for example, TĀ28/128b and TĀv ad 32/63.
 
@@ -159,7 +159,7 @@ Although not common, we do find references elsewhere in the Jayadrathayāmala co
 
 O greatly fortunate one! When that supreme energy (kalā) manifests, by virtue of which she knows what she knows, and the means by which she knows, 
 
-[^1018]: \[illegible\] bhāskarīrūīpasaiyuktā hy amā cāmṛtasaṁyutā || JY 2/25/37cd
+[^1018]: bhāskarīrūīpasaiyuktā hy amā cāmṛtasaṁyutā || JY 2/25/37cd
 
 [^1019]: See below, the description of the twelfth Kāli.
 
@@ -195,7 +195,7 @@ In all these accounts, we are presented with a range of expressions of polaritie
 
 [^1025]: Note that in the great majority of cases in the printed edition of the Tantrāloka, the name is spelled Kālasaṁkarṣiṇī. This is the spelling in the Mahānayaprakāśa by Śitikantha (commentary on verse 6). However, in the manuscripts of the JY, the spelling is Kālasaṁkarṣanī, as it is in the Mahānayaprakāśa of Arṇasiṁha (verse 210). We also find this spelling occasionally in some manuscripts of the Tantrāloka. Both spellings are grammatically correct. We find that spellings of some proper names may be inconsistent in this way. Another example is a text Abhinava cites that he himself spells in two ways ~ Yogasarhicara and Yogasarhicāra. In that case, the variant may due to metrical considerations. Although the spelling Kālasaṁkarṣanī is common in the original sources, the spelling in the Tantrāloka and commentary has been standardized to Kālasaṁkarṣinī, as we find in the printed edition.
 
-[^1026]: \[illegible\] MNP Śitikaṇtha commentary verse six: parā devī kālasaikarṣinī.
+[^1026]: MNP Śitikaṇtha commentary verse six: parā devī kālasaikarṣinī.
 
 [^1027]: JY 4/4/15cd.
 
@@ -214,7 +214,7 @@ The Kaula offerings listed here (in the Maādhavakula) even include human flesh 
 
 It is a notable fact that Abhinava has chosen to omit the rites associated with these Kālīs, although the Ādiyāga he presents as the core of the Kaula ritual of Chapter Twenty-nine is drawn from the Mādhavakula.[^1028] One wonders why 
 
-[^1028]: \[illegible\] We have noted that there is an allusion to sexual practice here. We shall see that the worship and experience of the Kālīs as phases of the cognitive cycle is explicitly related to sex and the pleasure of the ingestion of meat and the inebriation of wine, in one of the three Mahānayaprakāśas (see below, the last Appendix).
+[^1028]: We have noted that there is an allusion to sexual practice here. We shall see that the worship and experience of the Kālīs as phases of the cognitive cycle is explicitly related to sex and the pleasure of the ingestion of meat and the inebriation of wine, in one of the three Mahānayaprakāśas (see below, the last Appendix).
 
 
 *[p. 399]* ^pg412
@@ -252,7 +252,7 @@ cidarkar \[kh: vidakām\] śekharīkṛtya uvāca paramaṁ mahat |
 
 [^1030]: JY ṣaṭka 4 MSs K: 67b - 73a and G: 819 - 87a.
 
-[^1031]: \[illegible\] Manuscripts do not distinguish between the letter ‘b’ and ‘v’. I silently read b for v where required. Often the manuscripts, depending on the scribe, read ausvāra for ‘m’ or ‘m’. This too I silently standardise.
+[^1031]: Manuscripts do not distinguish between the letter ‘b’ and ‘v’. I silently read b for v where required. Often the manuscripts, depending on the scribe, read ausvāra for ‘m’ or ‘m’. This too I silently standardise.
 
 [^1032]: MS g: unclear up to here.
 
@@ -282,9 +282,9 @@ Listen. 1 will tell (you) this most excellent secret, which is prosperity, namel
 
 sa ravir bhāsurādhāras tadādhārā \[g: (?)\] hi \[g: (?)\] kālikā ॥ 9 ॥ 
 
-[^1033]: \[illegible\] link to the Ocean of Kula is stated by referring to her in this line of the Kālīkrama as Kaṁkālakālī (Skeleton Kālī). Here she is called Karaṁkinī, (Skeleton) and Rāviṇī (Roaring One). Other names are Kṛśā (Emaciated), Kṛśodarī (Emaciated Stomach) and Suśkā (Dried Out).
+[^1033]: This Kālī’s link to the Ocean of Kula is stated by referring to her in this line of the Kālīkrama as Kaṁkālakālī (Skeleton Kālī). Here she is called Karaṁkinī, (Skeleton) and Rāviṇī (Roaring One). Other names are Kṛśā (Emaciated), Kṛśodarī (Emaciated Stomach) and Suśkā (Dried Out).
 
-[^1034]: \[illegible\] The Five Jewels are feces, urine, spittle, menstrual blood and sperm. Kubjikā in her aged, Kālī-like form is also said to eat these five Kaula substances.
+[^1034]: The Five Jewels are feces, urine, spittle, menstrual blood and sperm. Kubjikā in her aged, Kālī-like form is also said to eat these five Kaula substances.
 
 
 *[p. 402]* ^pg415

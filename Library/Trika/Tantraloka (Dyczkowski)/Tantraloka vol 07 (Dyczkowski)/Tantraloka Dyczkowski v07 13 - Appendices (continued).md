@@ -68,7 +68,7 @@ nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegibl
 
 [^721]: The citation reads kārmukī carmakārinī for karṁdukī carmaraṁginī.
 
-[^722]: \[illegible\] KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāḥ kālikākule ||
+[^722]: KāKuKra: mātaṁgī kajjarī śaundī kandukī carminṇī dhvajā | | cchippi veśyā susarivaddhā grāhya tāḥ kālikākule ||
 
 [^723]: 9cd-10ab is quoted in TĀv ad 29/66.
 
@@ -119,7 +119,7 @@ na yatra launar cāsti na siddhir mokṣam eva ca || 25 ॥
 
 Green vegetables (?), of many varieties and auspicious, like the thunderbolt in Indra’s hand and Brahmā’s waterpot, (or) like the trident in my hand and Hari’s cakra, such are garlic and the like that purify Kaula adepts (devoted to) Yogīśvarī. Onion, garlic and the other substances enjoined (for the Kaula sacrifice) that are sacred (pavitraka) are auspicious because they intensify (the power of Kaula) sacrifices and so are considered to be (good) for the protection of the sacrifices. Free of obstacles, they quell obstacles and, auspicious, quickly bestow accomplishments. Where there is no garlic there is no accomplishment or liberation. (22-25) 
 
-[^726]: \[illegible\] From here to 26ab MS G is illegible.
+[^726]: From here to 26ab MS G is illegible.
 
 [^727]: KāKuKra: sugupte nirjane ramye vīrakṣetre “tha siddhiṣu | | digvāso hrīvinirmukto advaitakulapūjakaḥ (kh: adyaita-) | | parāt parar (kh: -rād) yajed deho khānapānādisevitau | paraspararitaratinau kundagolādisevitau | | mīnamanṇndalasaṁyuktau bhoktārau ca parasparau | | vaktrād vaktrena (kh: -vaktraṁi na) yojyantau bhājanaṁn pānacūmbanarmi | |
 
@@ -1024,7 +1024,7 @@ taiḥ
 
 svatantraśaktipātavādipakṣe coditam īśvarasya nirnimitte nigrahādikāritve ‘prekṣā-pūrvakāritvam yugapatsarvatattvasraṣtṛtā sarvar 
 
-[^736]: \[illegible\] SvT 4/105.
+[^736]: SvT 4/105.
 
 *[p. 423]* ^pg445
 

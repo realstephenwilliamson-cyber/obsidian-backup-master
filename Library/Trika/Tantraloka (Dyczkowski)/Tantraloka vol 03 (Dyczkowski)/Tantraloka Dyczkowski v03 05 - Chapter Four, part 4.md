@@ -47,7 +47,7 @@ Surely (one may ask,) the (first) five, that is, the prohibitions (yama) and the
 
 [^291]: The five external ancillaries of Yoga are prohibitions (yama), injunction (niyama), posture (āsana), breath control (prānāyāma) and withdrawal (pratyāhāra).
 
-[^292]: \[illegible\] 3/7. Vyāsa explains: ‘these three, namely, concentration, meditation and contemplation, are more internal than (the observance of) prohibitions (yama) and injunctions (niyama) with respect to (the practice of) Yoga with perception (saṁprajñāta).
+[^292]: YSū 3/7. Vyāsa explains: ‘these three, namely, concentration, meditation and contemplation, are more internal than (the observance of) prohibitions (yama) and injunctions (niyama) with respect to (the practice of) Yoga with perception (saṁprajñāta).
 
 
 *[p. 116]* ^pg129
@@ -106,7 +106,7 @@ body etc.) to consciousness.[^296] (97)
 
 #### Viveka on 4.97
 
-[^295]: \[illegible\] But see above, note to 4/15-16, concerning whether Abhinava does really refer to a six-limbed Yoga or not.
+[^295]: But see above, note to 4/15-16, concerning whether Abhinava does really refer to a six-limbed Yoga or not.
 
 [^296]: See below, 5/14cd-16ab and MVV 2/5. The body, senses, mind, and so too the vital breath function because consciousness is present within them. All the limbs of Yoga, and indeed any other presumed means of realisation based on them, reside in this way within consciousness, as it does within them, and so cannot serve as a means to attaining it. Swami Lakshmanjoo explains: ‘God Consciousness is the life of all these means. They exist in God, so how can they be the means to God? One enters God Consciousness only by Tarka \[sound reasoning\]. (personal communication)
 
@@ -144,7 +144,7 @@ Surely (one may ask,) if one practices that here, one should become more skilled
 
 [^299]: See above, TĀv ad 1/165 and note there. This line is also quoted above in TĀv ad 3/43cd-45ab (45-46) and below in TĀv ad 12/5 and 28/375cd-376ab.
 
-[^300]: \[illegible\] The practice of the ancillaries of Yoga are all related to the body, senses, mind, and vital breath, which are conditioned, finite entities. Thus, they would not lead to realisation, which is the manifestation of unconditioned consciousness, were it not that the body and the rest are themselves forms of consciousness. Moreover, the practice of the ancillaries of Yoga is beneficial and justified, because by practicing them, their opposites, which are harmful, are eliminated. The practice of nonviolence, which is one of the injunctions, eliminates violence done to oneself and others. The practice of nonviolence facilitates the manifestation of consciousness, which is the realisation that it is one’s own consciousness, and that of others is the same. Violence done to others is violence done to oneself. Conversely, good done to others is good done to oneself. The more deeply we experience that, the more firmly we realise the fundamental oneness of consciousness. To put it another way, to the degree in which we experience Śiva’s immortal, blissful consciousness, to that degree we take on the suffering of others and share in their joy.
+[^300]: The practice of the ancillaries of Yoga are all related to the body, senses, mind, and vital breath, which are conditioned, finite entities. Thus, they would not lead to realisation, which is the manifestation of unconditioned consciousness, were it not that the body and the rest are themselves forms of consciousness. Moreover, the practice of the ancillaries of Yoga is beneficial and justified, because by practicing them, their opposites, which are harmful, are eliminated. The practice of nonviolence, which is one of the injunctions, eliminates violence done to oneself and others. The practice of nonviolence facilitates the manifestation of consciousness, which is the realisation that it is one’s own consciousness, and that of others is the same. Violence done to others is violence done to oneself. Conversely, good done to others is good done to oneself. The more deeply we experience that, the more firmly we realise the fundamental oneness of consciousness. To put it another way, to the degree in which we experience Śiva’s immortal, blissful consciousness, to that degree we take on the suffering of others and share in their joy.
 
 
 *[p. 120]* ^pg133
@@ -204,7 +204,7 @@ The teacher cannot make his knowledge, that is, his ideas (cintā) etc., or (eve
 
 [^303]: Notice that, stated in this way, Abhinava does not preclude that the teacher be absent; indeed, no longer alive. In No Means, Abhinava stresses the presence of the Master. He need not teach anything. For the disciple who is ready, a gracious glance is sufficient to liberate him. Here, at the level of the Empowered Means, it is the teaching which counts.
 
-[^304]: \[illegible\] The disciple ponders repeatedly on the scripture he reads, keeping his thoughts in harmony with those of his teacher, and so when the self-reflective awareness of Śiva’s pure, unlimited consciousness, which is the essential purport of the scripture and the teacher’s instructions, arises within him, all the notions he has that are contrary to it and prevent its manifestation, are eliminated.
+[^304]: The disciple ponders repeatedly on the scripture he reads, keeping his thoughts in harmony with those of his teacher, and so when the self-reflective awareness of Śiva’s pure, unlimited consciousness, which is the essential purport of the scripture and the teacher’s instructions, arises within him, all the notions he has that are contrary to it and prevent its manifestation, are eliminated.
 
 [^305]: These are the two relevant meanings of the word ‘gadu’ in this context. A hump on one’s back or a goitre are both unnecessary accretions to the body. They only deform it, without serving any function. If the teacher’s instruction were to suffice by itself to enlighten the disciple, his reflective awareness would be similarly superfluous.
 
@@ -229,7 +229,7 @@ Thus it is said that even if applied to something heard in a dream, the Yoga of 
 
 ‘Thus it is said that’ just by being aware of oneself, even when one perceives something unreal, such as something heard in a dream, or (one sees) the form of a woman or the like (as happens with nocturnal emissions), by repeatedly practicing the Yoga of Creative Contemplation (bhāvanāyoga), it ‘certainly bears fruit’. The meaning is that one experiences it directly as functioning (as does something experienced) when awake.[^308] 
 
-[^306]: \[illegible\] Although the teacher may instruct, if the disciple is devoid of reflective awareness, he can never come to understand it. Thus, from this point of view, his progressively developing insight, which is essentially Pure Knowledge (śuddhavidyā), is superior even to the teacher’s instructions.
+[^306]: Although the teacher may instruct, if the disciple is devoid of reflective awareness, he can never come to understand it. Thus, from this point of view, his progressively developing insight, which is essentially Pure Knowledge (śuddhavidyā), is superior even to the teacher’s instructions.
 
 [^307]: Real and illusory objects are distinguished from one another because the former do not give rise to the effects of the latter. A rope lying on the floor of a dark room that is mistaken for a snake cannot bite. It does not ‘perform the function’ (arthakriyā) of a snake.
 
@@ -341,7 +341,7 @@ te tenākṛtakasyāsya \[illegible\] nārghanti ṣodaśīm |
 
 Moreover, Lord Śiva has said in the Śrīpūrvaśāstra (the Mālinīvijayottara), in the passage that begins: ‘there is neither duality nor nonduality and no worship of the Liṅga or the like . . . .’[^318] (He goes on to say that) ‘everything is prescribed here, or else (one could say that everything is) prohibited.’ (The point is that) ‘the Yogas (of other systems), 
 
-[^316]: \[illegible\] See above, 4/13 ff.
+[^316]: See above, 4/13 ff.
 
 [^317]: Svāyambhuvasūtrasaigraha 20/31, quoted by Vasudeva (p. 422). Read with Vasudeva nirodhakaṁ for nivartakam.
 
@@ -368,9 +368,9 @@ As is said there (in the Mālinīvijayatantra): ‘and (so too), not the worship
 
 [^320]: Thid. 18/74c. In the printed edition of the MV, this line reads: na dvaitaḥ nāpi cādvaitam. Abhinava’s reading of it is: na dvaitaḥ nāpi cādvayam. The meaning is the same. Jayaratha quotes the first version to explain that Abhinava makes this change to accommodate the metre.
 
-[^321]: \[illegible\] Ibid. 18/74d.
+[^321]: Ibid. 18/74d.
 
-[^322]: \[illegible\] Also quoted above in 4/106-108ab.
+[^322]: Also quoted above in 4/106-108ab.
 
 [^323]: See below note 4,930 ad 4/257cd-258ab where the Kulapañcaśikā is quoted as disapproving the growing of matted hair and the wearing of sectarian insignias as do Śaiva ascetics.
 
@@ -399,7 +399,7 @@ tattve cetaḥ sthirīkāryari tac ca yasya yathāstv iti |
 
 So what should be enjoined here (in this teaching) as a fixed rule? (In reply to this question, the Mālinīvijaya teaches): ‘the mind must be firmly fixed on (ultimate) reality’, and the mind does not become firm (and stable) here spontaneously (without cause). Thus, in this case, one must certainly 
 
-[^326]: \[illegible\] Read prānāyāmādyaṁgīkaraṇatayā for prānāyāmādyaṁgakaraṇakatayā.
+[^326]: Read prānāyāmādyaṁgīkaraṇatayā for prānāyāmādyaṁgakaraṇakatayā.
 
 [^327]: Only Sound Reasoning, which is essentially the reflective awareness of consciousness, is uncreated (akṛtrima) and authentic. All other forms of yogic practice are derived from this one. They are created from it and so are artificial constructs and secondary to it. The direct insight which is the spontaneous realisation of nondual consciousness arises in an instant. One and eternal, it is not attained bit by bit, gradually over a period of time. Thus, the ancillaries of Yoga, each of which are understood to operate partially and successively, belong to the sphere of composite, temporal reality, which is a creation of the fundamental, perennial uncreated consciousness. The Yoga taught here is that of the direct insight consciousness has of its own nature through its own naturally inherent power of reflective awareness. Reflective awareness, which discloses the true unconditioned nature of consciousness, is ‘uncreated’. It is innate in consciousness which, as the one eternal reality, is not created by anything. Thus, it is totally different from the other forms of Yoga and their ancillaries that are, on the contrary, artificial constructs.
 
@@ -678,11 +678,11 @@ yojyate brahmasaddhāmni pūjopakaraṇari hi tat |
 
 G) [^354]Whatever delights the mind, wherever the senses may (happen to be operate, through which it is perceived) and is conjoined, that unites 
 
-[^352]: \[illegible\] One could possibly emend the text from bodhaikapātrari — ‘the unique vessel (pātra) of (awakened) consciousness’ — to bodhaikamātraṁ — ‘just (awakened) consciousness alone’. If the body is the vessel of consciousness, that would entail a residue of duality between the possessor of consciousness and the consciousness it possesses. Even so, I have chosen to accept the reading as it is, because here at the level of Pure Knowledge, consciousness contemplates itself as all things, on the analogy of the identity the conditioned consciousness of the individual soul has with his body. Pure Knowledge is a state of immanent, universal consciousness of identity, not transcendence, although the Lord Who perceives the universe as His body in this way is always pure transcendental consciousness. Cf. ŚSū 1/14 \[illegible\] śarīram — ‘the perceptible is (His) body’.
+[^352]: One could possibly emend the text from bodhaikapātrari — ‘the unique vessel (pātra) of (awakened) consciousness’ — to bodhaikamātraṁ — ‘just (awakened) consciousness alone’. If the body is the vessel of consciousness, that would entail a residue of duality between the possessor of consciousness and the consciousness it possesses. Even so, I have chosen to accept the reading as it is, because here at the level of Pure Knowledge, consciousness contemplates itself as all things, on the analogy of the identity the conditioned consciousness of the individual soul has with his body. Pure Knowledge is a state of immanent, universal consciousness of identity, not transcendence, although the Lord Who perceives the universe as His body in this way is always pure transcendental consciousness. Cf. ŚSū 1/14 \[illegible\] śarīram — ‘the perceptible is (His) body’.
 
 [^353]: See below, note 4,361.
 
-[^354]: \[illegible\] This verse corresponds to MVV 2/124, which reads yujyate bodhasadbrahmadhāmni brahmabilātmani ‘unites (the devotee) to the Abode of the True Brahman of Consciousness, which is the Cavity of Brahma (at the top of the head)’ for yujyate brahmasaddhāmni pūjopakaranṇami hi tat ‘(whatever) unites (the devotee) to the abode of (the radiantly beautiful) Brahman’s Being is an aid to worship’. Sanderson (2006: 51) understands this verse as referring to the inner mental equivalent of the worship of the Self (ātmapūjā), which is done by placing a flower on the Cavity of Brahmā at the top head. Thus, he translates the verb ‘yojyate’ not as ‘unites’, as translated here in accord with Jayaratha's interpretation, but as ‘placed’, as follows (ibid.): ‘Whatever delights his mind in any of the fields of the senses is then ‘placed’ &lt;in the light of the real which is the Brahma>/&lt;upon that place of nectar which is \[the aperture of\] Brahmā. For it is thus that it becomes a true offering \[to the circle of powers of consciousness\].”
+[^354]: This verse corresponds to MVV 2/124, which reads yujyate bodhasadbrahmadhāmni brahmabilātmani ‘unites (the devotee) to the Abode of the True Brahman of Consciousness, which is the Cavity of Brahma (at the top of the head)’ for yujyate brahmasaddhāmni pūjopakaranṇami hi tat ‘(whatever) unites (the devotee) to the abode of (the radiantly beautiful) Brahman’s Being is an aid to worship’. Sanderson (2006: 51) understands this verse as referring to the inner mental equivalent of the worship of the Self (ātmapūjā), which is done by placing a flower on the Cavity of Brahmā at the top head. Thus, he translates the verb ‘yojyate’ not as ‘unites’, as translated here in accord with Jayaratha's interpretation, but as ‘placed’, as follows (ibid.): ‘Whatever delights his mind in any of the fields of the senses is then ‘placed’ &lt;in the light of the real which is the Brahma>/&lt;upon that place of nectar which is \[the aperture of\] Brahmā. For it is thus that it becomes a true offering \[to the circle of powers of consciousness\].”
 
 
 *[p. 141]* ^pg154
@@ -716,7 +716,7 @@ svatantravimalānantabhairavīyacidātmanā |
 
 #### Viveka on 4.121–122
 
-[^356]: \[illegible\] Read sūryacandrādi- for sūryācandrādi-.
+[^356]: Read sūryacandrādi- for sūryācandrādi-.
 
 [^357]: Objects that are pleasing to the senses need not be distractions. Indeed, they can serve as a means to worship the Deity if they are experienced within consciousness. In order to do this, the misconception that the body is separate from consciousness must be eliminated. The body, like all else that is objective, is always experienced within consciousness. By the exercise of attention to this, the false notion that they are external gradually disappears and gives way to a direct experience of the Deity Who is consciousness, which the soul’s true nature. In this way, the body and the outer world are inwardly united with the splendour of the Absolute Brahman, and are experienced as offerings to Him as the Self.
 

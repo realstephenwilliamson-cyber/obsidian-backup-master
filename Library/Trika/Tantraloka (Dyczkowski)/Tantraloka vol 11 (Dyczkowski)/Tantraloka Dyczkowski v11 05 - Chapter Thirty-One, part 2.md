@@ -69,7 +69,7 @@ wherever there is a conjunction. When the link to that has been made firm, havin
 चतुर्भिरपि ृद्ाणि त्िभिर्मण्डलमिष्यते ॥ ८१ ॥
 दण्डः स्यान्नीलरक्तेन पीतमामलसारकम् ।
 
-[^290]: \[illegible\] According to Jayaratha, the Lotus of Wisdom measures 24 digits in diameter.
+[^290]: According to Jayaratha, the Lotus of Wisdom measures 24 digits in diameter.
 
 [^291]: Read pūrvatreva instead of pūrvātrāpi.
 
@@ -138,7 +138,7 @@ C) The Construction of the Mandala According to the Devyāyāmala[^298]
 
 srīdevyāyāmale tūktari kṣetre vedāśrite sati ॥ 85 ॥ 
 
-[^296]: \[illegible\] This proves, observes Jayaratha, that the stick is not two cubits long (see above, verse. 71) — it is one and a half.
+[^296]: This proves, observes Jayaratha, that the stick is not two cubits long (see above, verse. 71) — it is one and a half.
 
 [^297]: Meaning uncertain.
 
@@ -1037,7 +1037,7 @@ In this way a svastika is successfully (formed).[^353]
 वीथी विदरुमसङ्काशा स्वदिक्ष्वखराणि बाह्यतः ॥ १४९ ॥
 इन्द्रनीलनिभं वज्रं शक्ति पदमणिप्रभाम् ।
 
-[^353]: \[illegible\] The angles of the pedestal, like those of the platform, are it seems, adorned with four svastikas.
+[^353]: The angles of the pedestal, like those of the platform, are it seems, adorned with four svastikas.
 
 *[p. 128]* ^pg146
 

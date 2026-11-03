@@ -790,7 +790,7 @@ Now, in order to place the Lotus of Knowledge on the throne, on top of the pillo
 
 [^947]: SvT 4/313d.
 
-[^948]: \[illegible\] yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvaṁ śivamayaṁ yataḥ || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva (śivamaya), having moved (from one place), where will it go (that is not Śiva)?” SvT 4/313
+[^948]: yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvaṁ śivamayaṁ yataḥ || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva (śivamaya), having moved (from one place), where will it go (that is not Śiva)?” SvT 4/313
 
 
 *[p. 385]* ^pg403
@@ -1282,7 +1282,7 @@ OM HĀM HRDAYĀYA NAMAH
 
 OM SĪM ŚIRASE SVĀHĀ 
 
-[^956]: \[illegible\] See TĀv ad 30/25cd-26ab where Jayaratha quotes the SYM for the corresponding deities of each letter of Parāparā
+[^956]: See TĀv ad 30/25cd-26ab where Jayaratha quotes the SYM for the corresponding deities of each letter of Parāparā
 
 [^957]: See MV 8/39-43
 
@@ -1388,7 +1388,7 @@ As is said there (in the Devyāyāmala):
 
 [^958]: See TĀ >>>>
 
-[^959]: \[illegible\] This is Abhinava’s favorite section of this, unfortunately, unrecovered Tantra. He has already quoted from it (see above, 3/67cd-70) and tells us further ahead that his teacher Śambhunātha has initiated him in the rite of the Mahāyāga it teaches (15/351cd-352ab). He provides the nine syllabled Vidyā of Kālasaṁkarṣinī taught there below in 30/54- 55ab.
+[^959]: This is Abhinava’s favorite section of this, unfortunately, unrecovered Tantra. He has already quoted from it (see above, 3/67cd-70) and tells us further ahead that his teacher Śambhunātha has initiated him in the rite of the Mahāyāga it teaches (15/351cd-352ab). He provides the nine syllabled Vidyā of Kālasaṁkarṣinī taught there below in 30/54- 55ab.
 
 [^960]: TĀ 15/335cd-338
 
@@ -1553,7 +1553,7 @@ abhiṣekaṁ tu kurvīta mūlenaiva[^973] ṣadaṁginā ॥ 6 ॥
 
 [^974]: The various forms of bathing are described in TĀ 15/38cd-79, which partly draws from here.
 
-[^975]: \[illegible\] MV 8/5cd-6 is quoted in TĀv ad 15/49-51ab. According Jayaratha, the root Mantra is Parā.
+[^975]: MV 8/5cd-6 is quoted in TĀv ad 15/49-51ab. According Jayaratha, the root Mantra is Parā.
 
 
 *[p. 406]* ^pg424
@@ -1658,7 +1658,7 @@ Then, after having mentally created a protective barrier (rakṣana) in the ten 
 
 [^981]: MV 8/16 is quoted in TĀv ad 4/251cd. The printed edition of the MV reads dvārapatīn pūjya for dvārapatīn iṣtvā.
 
-[^982]: \[illegible\] k: samanvitā.
+[^982]: k: samanvitā.
 
 [^983]: See TĀ 15/183cd-193.
 

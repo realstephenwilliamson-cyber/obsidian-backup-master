@@ -1,0 +1,26 @@
+READING THE START OF FOOTNOTES (Dyczkowski's Tantraloka translation, 3 Nov 2026). Reading only: write nothing but your own output file.
+
+You get images in /home/claude/fnleft/sheets/. Most are SHEETS: up to ten strips cut from printed pages, each under a grey bar
+"CASE iNNN". Each strip holds the line where one footnote begins, with a line or two above it. A few cases instead have the lower
+part of a whole page (files named vNN-pKKKK-low.png).
+
+Your task file lists, for each case: the case id, its image, a footnote number, and the first words of that footnote AS A COMPUTER
+READ THEM. The number is the vault's label: often NOT the printed number (the print may say 37 where the label says 1087). Find the
+footnote by its first words; use the number only as a hint. A strip may show two or three footnotes; pick the one whose text
+begins with (or soon reaches) the first words given.
+
+For each case, copy EXACTLY what is printed between the small raised footnote number and those first words.
+- Often that is nothing.
+- Sometimes it is a source abbreviation (a siglum such as YSū, ŚDṛ, BhGī, SpKā, TĀ, TĀv, SvT, MVT, JY, KauśīBr), a verse
+  number such as "142cd", a word or several words, a quotation mark, a bracket, a dash or another mark. Anything printed there
+  counts, even if it looks like the natural start of the note: the first words you are given begin AFTER that spot.
+- The first words may contain small reading errors or "…" where the computer lost a word further on; ignore that.
+- Copy diacritics exactly (ā ī ū ṛ ṣ ś ṇ ṭ ḍ ṃ ṁ ḥ ñ ṅ), and curly quotes as printed (‘ ’ “ ”).
+- Do not guess. If the print at that spot is unclear, write "unclear". If you cannot find the footnote, found = false.
+
+Output: JSON Lines at the path in your task, one line per case, in the order of your list:
+{"id": "i000", "found": true, "between": "", "printed_number": "37", "note": "at most 12 words"}
+("between": "" = nothing printed; otherwise the exact characters, or "unclear".)
+Open each image once with the Read tool (several cases share a sheet). Never write the divine name (the four-letter name of God)
+in any form. At the end check that every case has exactly one line and that each line parses as JSON. Reply with one line:
+counts of cases, found, nothing, something, unclear.

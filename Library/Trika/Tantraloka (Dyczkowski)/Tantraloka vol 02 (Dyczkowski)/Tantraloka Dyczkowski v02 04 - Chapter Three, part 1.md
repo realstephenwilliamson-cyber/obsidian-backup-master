@@ -145,7 +145,7 @@ Consciousness.[^12] (4)
 
 [^11]: Jayaratha explains, as the following verses warrant, that the ‘modalities’ (vṛtti) are the five kinds of sensory activity of the five senses, that correspond to the five gross elements and sensations. One could also understand the expression \*viśvavṛttayaḥ’ just to mean the cosmic modalities or activities of the Lord of Consciousness. These are signalled in the previous verse as ‘the great clutter (ādambara) of emission and withdrawal’, rather than modalities of consciousness that subjectively are the five kinds of sensations, and objectively, their source — the five gross elements.
 
-[^12]: \[illegible\] Abhinavagupta goes on to discuss up to verse 64 how everything that appears in any form does so within consciousness, like an image in a mirror, establishing that that is so by logical argument. Note that the second line of this verse is drawn from the Kāmikāgama (see below, commentary on 3/21-22 and note). It appears from these references that the basic features of the Doctrine of Reflection were already outlined in the version of the Kāmikāgama Abhinava consulted. From these references (see particularly the last one in the commentary on 3/21-22), it appears that it presented the world of Māyā as an illusion in some sense, just as the reflections in a mirror are unreal. Although Abhinava and Utpaladeva take care to refute this view, Abhinava quotes the Kāmikāgama nonetheless, no doubt because he wished to take the support of the authority of scripture. The striking absence of references to scriptural sources is clear evidence that it was not a well-known doctrine at the primary scriptural level. The Siddhāntas, that are for the most part dualist to varying degrees, would have no need of it. It seems that the Kaula and proto-kaula scriptures of the Krama, Trika and Mata did not refer to it to any great extent. If they had done so, Abhinava would certainly have referred to them. Absent also in the nondualist Śaivism of Somānanda’s Śivadṛṣṭi, we can only conclude that it was Utpaladeva who formulated it. He may well have been inspired by the Buddhist Yogācāra, from which he adopted several key doctrines that he converted to a nondualist Śaiva perspective, as he did this one. We need not be surprised, as we have clear precedents of borrowing and adapting from these sources, as well as exchange, by the Krama and its antecedents at the level of original Tantric revelation.
+[^12]: Abhinavagupta goes on to discuss up to verse 64 how everything that appears in any form does so within consciousness, like an image in a mirror, establishing that that is so by logical argument. Note that the second line of this verse is drawn from the Kāmikāgama (see below, commentary on 3/21-22 and note). It appears from these references that the basic features of the Doctrine of Reflection were already outlined in the version of the Kāmikāgama Abhinava consulted. From these references (see particularly the last one in the commentary on 3/21-22), it appears that it presented the world of Māyā as an illusion in some sense, just as the reflections in a mirror are unreal. Although Abhinava and Utpaladeva take care to refute this view, Abhinava quotes the Kāmikāgama nonetheless, no doubt because he wished to take the support of the authority of scripture. The striking absence of references to scriptural sources is clear evidence that it was not a well-known doctrine at the primary scriptural level. The Siddhāntas, that are for the most part dualist to varying degrees, would have no need of it. It seems that the Kaula and proto-kaula scriptures of the Krama, Trika and Mata did not refer to it to any great extent. If they had done so, Abhinava would certainly have referred to them. Absent also in the nondualist Śaivism of Somānanda’s Śivadṛṣṭi, we can only conclude that it was Utpaladeva who formulated it. He may well have been inspired by the Buddhist Yogācāra, from which he adopted several key doctrines that he converted to a nondualist Śaiva perspective, as he did this one. We need not be surprised, as we have clear precedents of borrowing and adapting from these sources, as well as exchange, by the Krama and its antecedents at the level of original Tantric revelation.
 
 
 *[p. 69]* ^pg85
@@ -239,7 +239,7 @@ nairmalyari cātinividasajātīyaikasaṁgatiḥ ॥ 7 ॥
 
 “It is the mirror. (Its) form is capable of reflecting (vimala), that is, it is translucent (svaccha) ‘in this way’. A mirror translucent in this way accepts only the reflection of a face.[^19] This is the sense. What is said to be that ‘purity (which is the capacity of an entity to reflect another) (nairmalya)’? (In response to this question,) he says that ‘the purity’ (in this sense that an entity possesses, consists of) the extremely ‘compact’ (coming together of its constituent parts) which, uncontaminated by entities of a different type, are ‘(all of) the same type’, as are the atoms of form in a mirror. They come together as one without (any) associates, because there is nothing (else) of a different type. (Thus, what is meant by) ‘purity (which is the capacity of an entity to reflect another) (nairmalyay is the compact cohesion (of the medium of reflection), because it is its compact (uniform) nature, which (amounts to) the close proximity (of all its parts), because they are arranged (in such a way that) there is no gap (between them), and (the surface, smooth and uniform,) is free of depressions and elevations. If one perceives that the form of a mirror or (a similar medium of reflection) is unsullied by entities of a different type (such as dust particles), that are not of the same type 
 
-[^19]: \[illegible\] Insert with MSs Jh and Ñ rāpam. Read tatheti rūpam vimalan svaccham | evan hi svaccho darpaṇo mukhasyaiva for tatheti vimalaṁ svaccham eva hi asvacchasya darpaṇa iva mukhasya.
+[^19]: Insert with MSs Jh and Ñ rāpam. Read tatheti rūpam vimalan svaccham | evan hi svaccho darpaṇo mukhasyaiva for tatheti vimalaṁ svaccham eva hi asvacchasya darpaṇa iva mukhasya.
 
 
 *[p. 73]* ^pg89
@@ -337,7 +337,7 @@ teṣām evāsti sadvidyāmayaṁ tv apratighātakam || 10 ॥
 
 [^31]: Read māyāsvarūpaṁ gopanakāritvāt for māyāsvarūpagopanakāritvāt.
 
-[^32]: \[illegible\] There are two aspects of consciousness. One is ‘solid’ as it were and consists of phenomena that appear within it, each different and separate from one another as well as from their perceivers, like the reflections in a mirror. The other is the opposite. It allows penetration of things into itself, as does a mirror its reflections. Although not stated explicitly, these two aspects effectively correspond to the object and the perceiver. The former is the domain of Māyā, that is, duality in which the power of action operates as Māyīā itself. The latter is the domain of ‘true knowledge’, that is, insight into the essential oneness of all things as the Light of consciousness. They work together, as do the translucent and opaque sides of a mirror.
+[^32]: There are two aspects of consciousness. One is ‘solid’ as it were and consists of phenomena that appear within it, each different and separate from one another as well as from their perceivers, like the reflections in a mirror. The other is the opposite. It allows penetration of things into itself, as does a mirror its reflections. Although not stated explicitly, these two aspects effectively correspond to the object and the perceiver. The former is the domain of Māyā, that is, duality in which the power of action operates as Māyīā itself. The latter is the domain of ‘true knowledge’, that is, insight into the essential oneness of all things as the Light of consciousness. They work together, as do the translucent and opaque sides of a mirror.
 
 
 *[p. 77]* ^pg93
@@ -373,11 +373,11 @@ In order to refute this view, he says:
 yas tv āha netratejāisi svacchāt pratiphalanty alam |
 viparyasya svakaṁ vaktrarhi gṁnantīti sa pṛcechyate ॥ 12 ॥ 
 
-[^33]: \[illegible\] The text reads: svātantryopahitasthitiḥ, which describes Śiva, Mahādeva as one whose ‘abiding state is conjoined with freedom’.
+[^33]: The text reads: svātantryopahitasthitiḥ, which describes Śiva, Mahādeva as one whose ‘abiding state is conjoined with freedom’.
 
 [^34]: Jayaratha introduces the following verses by explaining that there are philosophers of other schools who accept the doctrine of reflection, but do so according to their own understanding of it.
 
-[^35]: \[illegible\] Read darpane mukham for darpanamukham.
+[^35]: Read darpane mukham for darpanamukham.
 
 
 *[p. 78]* ^pg94
@@ -746,7 +746,7 @@ dhruvaṁ mohaḥ Śāmyed iti niradiśad darpanavidhiḥ ॥ 23 ॥
 
 #### Viveka on 3.23
 
-[^67]: \[illegible\] Quoted in ĪPVv 1, p. 168, no variants.
+[^67]: Quoted in ĪPVv 1, p. 168, no variants.
 
 
 *[p. 98]* ^pg114

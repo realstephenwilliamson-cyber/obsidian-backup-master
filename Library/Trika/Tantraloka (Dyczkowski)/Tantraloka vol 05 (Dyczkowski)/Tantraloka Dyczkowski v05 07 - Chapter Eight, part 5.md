@@ -135,13 +135,13 @@ The Egg of Water is Rudra’s Egg; above (the world of) Vīirabhadra, it extends
 
 [^643]: See above, 8/130-131.
 
-[^644]: \[illegible\] Vīrabhadra’s splendour is the fire that burns at the end of an aeon (yuga), consuming the universe. It is Rudra’s effulgence, born of His rage.
+[^644]: Vīrabhadra’s splendour is the fire that burns at the end of an aeon (yuga), consuming the universe. It is Rudra’s effulgence, born of His rage.
 
 [^645]: Jayaratha is saying that some part of the Water principle is triangular. According to Kṣemarāja’s commentary on SvT 10/758ab. The Egg of the Earth extends for 100 (kotis (1 koṭi = 10 million) leagues, and the Egg of Water for a thousand. See above 8/187abc (186cd-187a), where it says that each subsequent Egg in the series is ten times that of the previous one.
 
 [^646]: tatrety āvaraṇakarparikābhāge | viṣkambhād ghanatvād ūrdhvam ucyata ity āvaraṇakarparikety arthāt || Kṣemarāja: ‘There’ (means) in the part which is the covering shell. It is said (to extend) above the supporting pillar because it is dense, that is to say, that it is the shell of the cover.”
 
-[^647]: \[illegible\] Kṣemarāja: antara iti jayavijayādibhuvanānāṁ tejastattvasya ca “‘between’ the worlds of Jaya and Vijaya etc. and the principle of Fire.’
+[^647]: Kṣemarāja: antara iti jayavijayādibhuvanānāṁ tejastattvasya ca “‘between’ the worlds of Jaya and Vijaya etc. and the principle of Fire.’
 
 [^648]: rudro dhyāyināṁ dhyānāya sūkṣmarūpam Gésritya prabhāvātiśayaśālī tatra sthitaḥ ॥ “The Lord Rudra, in order to make those who s the most excellent meditate meditate, having assumed a subtle form, he who posse power, resides there.’
 
@@ -459,7 +459,7 @@ That is not just said here, but also elsewhere, and so he says:
 
 [^675]: See below, introductory verses of Chapter Fifteen, where the various kinds of initiates are described. There we are told that the ordinary ‘worldly’ (lokadharmin) initiate is one ‘who, desiring good fruits, is dedicated to accumulating good actions and refraining from bad ones.” 15/24ab. The ‘good fruits’ may be access to worlds where the initiate can enjoy the benefits he sought by the practice of ‘good actions’. In this case, they are concentration on the subtle elements.
 
-[^676]: \[illegible\] Also quoted above in TĀv ad 1/61cd-62 (62cd-63); see note there.
+[^676]: Also quoted above in TĀv ad 1/61cd-62 (62cd-63); see note there.
 
 [^677]: See above, 8/200cd-204 and references quoted in the commentary.
 
@@ -482,7 +482,7 @@ And the All-pervasive Lord has said in the venerable Kāmikā, in the course of 
 
 #### Viveka on 8.213–214
 
-[^678]: \[illegible\] kaśmīravarṇana is most probably the name of a chapter of the Kāmikā / Kāmika (see above note 4,83). If so, one wonders why it would dedicate a chapter to describing Kashmir. Could this be an indication of the place of its redaction, or at least of the redactor(s) predilection for Kashmir? Certainly, he had a good knowledge of it, for outside the Valley, Sureśvarī was not well known. See following note.
+[^678]: kaśmīravarṇana is most probably the name of a chapter of the Kāmikā / Kāmika (see above note 4,83). If so, one wonders why it would dedicate a chapter to describing Kashmir. Could this be an indication of the place of its redaction, or at least of the redactor(s) predilection for Kashmir? Certainly, he had a good knowledge of it, for outside the Valley, Sureśvarī was not well known. See following note.
 
 [^679]: The first notice we have of this place is by Kalhaṇa, who writes that Sūra, a minister of Avantivarman (855-883), ‘erected at Sureśvarikṣetra, in honour of Śiva and his consort conjoined, a temple which was to last forever.’ (RT 5/37) Stein writes in a note that here: ‘Durgā is worshipped to this day under the name of Sureśvarī (‘queen of the gods’) on a high crag rising above the village of Iśabar from the range which encloses the Dal lake on the east. A natural rock on the top of the crag is looked upon as a representation of Durgā’s husband. The Sureśvarīmāhātmya accounts for the residence of the goddess and her consort at this spot by a legend connected with the killing of the demon Ruru. It also describes in detail the route of the pilgrimage at certain springs situated in the immediate vicinity of the village of Iśabar. . . . The references to it as a place to be sought on the approach of death show the sanctity of it.’ Indeed, one of the cardinal features of this sacred place is that people repaired to it to die. For example, king Parvagupta (949-950), whom Kalhaṇa represents as a lustful and deceitful king who, though young, was seized by dropsy because of his sins. ‘Yet as Kalhaṇa says, ‘through some former merits which had not lost their efficacy, he found his end in the precincts of the Sureśvarī (Tīrtha).’ (RT 6/147). The wealthy Citraratha plotted against king Jayasiṁha (1128-49 CE) but was found out. Kalhana tell us that, very ill and extremely worried, in order to find refuge from the king, he went to Sureśvarī under the pretence of wishing to die there (RT 8/2344). In the same period was Sussalā, the wealthy wife of one of Jayasiṁha’s ministers, whom Kalhaṇa records founded and aided numerous religious foundations. Kalhaṇa records her rebuilding the Buddhist Caṅkuṇavihāra, indicating perhaps that she was Buddhist. But whether she was or not, Kalhaṇa tells us ‘as soon as she had consecrated (this Vihāra) she, being attacked by consumption, found her death at the illustrious Sureśvarī, whereby her full communion (with the gods) was indicated.’ (RT 8/2418)
 

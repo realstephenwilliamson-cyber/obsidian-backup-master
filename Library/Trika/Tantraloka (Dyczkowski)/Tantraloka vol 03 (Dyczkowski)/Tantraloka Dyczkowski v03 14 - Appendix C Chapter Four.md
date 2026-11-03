@@ -248,7 +248,7 @@ Yamakālī is said to be (the Kālī) within which the energy (kalā) that is pr
 
 [^1098]: Read lakṣanirlakṣā for lakṣyanirlakṣyā. The edited text of the DP reads: ahalā \[k, kh: \[illegible\] (?)\] bhīṣanṇā \[k, kh: bheṣanā\] raudrā kulakaulanirākulā | alakṣyā \[k, kh: alakṣā\] lakṣanirlakṣā \[g: nillakṣā\] sukālī nāma siddhidā || DP 5/32.
 
-[^1099]: \[illegible\] DP 5/32 is quoted in TĀv ad 4/173ab.
+[^1099]: DP 5/32 is quoted in TĀv ad 4/173ab.
 
 
 *[p. 446]* ^pg459
@@ -287,7 +287,7 @@ Present in (the reality) easily attained between the coming and going (of the br
 
 [^1103]: DP 5/35cd-36.
 
-[^1104]: \[illegible\] Read with the manuscripts of the DP, bhadrā bhadrasukhapradā for rudrā rudrasukhapradā.
+[^1104]: Read with the manuscripts of the DP, bhadrā bhadrasukhapradā for rudrā rudrasukhapradā.
 
 [^1105]: Read with the manuscripts of the DP, ‘bhadrakālī tu’ for ‘rudrakālīti Notice that bhadrā or bhadra replaces rudrā or rudra everywhere in these lines. As Jayaratha has just noted that the name for this Kālī is also Bhadrā, it seems unlikely that Jayaratha himself made these changes. One wonders whether this clearly intentional alteration is the work of the editors or scribes of the manuscripts of the Tantrāloka and commentary.
 

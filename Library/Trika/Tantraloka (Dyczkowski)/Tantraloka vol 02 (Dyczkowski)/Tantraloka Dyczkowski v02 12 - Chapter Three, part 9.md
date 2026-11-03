@@ -342,7 +342,7 @@ parts.
 
 [^819]: Read sṛstyāder for sṛstyādayo.
 
-[^820]: \[illegible\] \[illegible\] 1/2. See Dyczkowski 1992a: 78-80,147 and 186-190. Abhinava states here that the Spanda teachings operate on the level of Śāmbhavopāya, which is the insight grounded in pure nondiscursive consciousness (nirvikalpa) that all objectivity arises out of it, is sustained by it and returns to it. Jayaratha quotes this verse from the Sṛtanzas on Vibration to say that although consciousness manifests and is all things, this does not mean that it is obscured by them. Advaita Vedānta, on the contrary, maintains that the manifest universe does obscure the consciousness of the absolute Brahman, as does the illusory snake, the rope seen in the dark that is mistaken for a snake. The illusory snake covers over the real rope as long as the rope is not known to be the true nature of what appears to be a snake. Implicitly countering this way of understanding the nature of things, Abhinava quotes this verse as a conclusion to the following passage, which is thus effectively his commentary onit. ‘Now, how is it that everything is said to rest in this way in Śiva’s nature? In reply to this question, we have this to say. The existence or non-existence of things here (in this world) cannot be established in any other way except (by admitting) that they rest in consciousness. Those things that rest in consciousness are manifest, while their manifest state (prakāśamānatā) is one with consciousness, for consciousness is the light (of manifestation) itself. If one were to say that they are other than the Light (of consciousness) and (yet) manifest, it would amount to saying that (whatever manifests as, for example, the colour) blue, is separate from its essential nature (svarūpa) and yet (is still) blue. Thus, it necessarily follows that all these things (of the world) rest in consciousness in this way, and their properties \[illegible\] are none other than those of consciousness. Nor is it reasonable to maintain that consciousness is subject to duality. If (one were to affirm that) the duality of daily life (bhedavyavahāra), brought about by the relative distinction between things, were due to some other consciousness abiding within consciousness, whose sole nature is light, it would amount to saying that one part of it is unmanifest, and so devoid of consciousness. Again, if these, the objects of knowledge, at one with (consciousness), the essential nature (of all things), were capable of dividing themselves (off from one another), they would also divide consciousness by their own power. (Thus, as) they are incapable of assuming relative distinctions by themselves, the (perceived) distinction between them is brought about by the pure indeterminate awareness (saṁvedana) (which is consciousness). (ĪPVv 1, p. 4-5)
+[^820]: SpKā 1/2. See Dyczkowski 1992a: 78-80,147 and 186-190. Abhinava states here that the Spanda teachings operate on the level of Śāmbhavopāya, which is the insight grounded in pure nondiscursive consciousness (nirvikalpa) that all objectivity arises out of it, is sustained by it and returns to it. Jayaratha quotes this verse from the Sṛtanzas on Vibration to say that although consciousness manifests and is all things, this does not mean that it is obscured by them. Advaita Vedānta, on the contrary, maintains that the manifest universe does obscure the consciousness of the absolute Brahman, as does the illusory snake, the rope seen in the dark that is mistaken for a snake. The illusory snake covers over the real rope as long as the rope is not known to be the true nature of what appears to be a snake. Implicitly countering this way of understanding the nature of things, Abhinava quotes this verse as a conclusion to the following passage, which is thus effectively his commentary onit. ‘Now, how is it that everything is said to rest in this way in Śiva’s nature? In reply to this question, we have this to say. The existence or non-existence of things here (in this world) cannot be established in any other way except (by admitting) that they rest in consciousness. Those things that rest in consciousness are manifest, while their manifest state (prakāśamānatā) is one with consciousness, for consciousness is the light (of manifestation) itself. If one were to say that they are other than the Light (of consciousness) and (yet) manifest, it would amount to saying that (whatever manifests as, for example, the colour) blue, is separate from its essential nature (svarūpa) and yet (is still) blue. Thus, it necessarily follows that all these things (of the world) rest in consciousness in this way, and their properties \[illegible\] are none other than those of consciousness. Nor is it reasonable to maintain that consciousness is subject to duality. If (one were to affirm that) the duality of daily life (bhedavyavahāra), brought about by the relative distinction between things, were due to some other consciousness abiding within consciousness, whose sole nature is light, it would amount to saying that one part of it is unmanifest, and so devoid of consciousness. Again, if these, the objects of knowledge, at one with (consciousness), the essential nature (of all things), were capable of dividing themselves (off from one another), they would also divide consciousness by their own power. (Thus, as) they are incapable of assuming relative distinctions by themselves, the (perceived) distinction between them is brought about by the pure indeterminate awareness (saṁvedana) (which is consciousness). (ĪPVv 1, p. 4-5)
 
 *[p. 403]* ^pg419
 
@@ -392,7 +392,7 @@ vivar dravati mayy etad iti paśyan praśāmyati |
 
 “I, manifesting the universe in my own Self, the Sky of Consciousness, am the creator who is all things (viśvātmaka)!” — by this insight one becomes Bhairava. “The entire cosmic order (ṣadadhvajāta) is reflected within me alone, I am the agent of persistence!” — (with this insight) this (one’s own) cosmic nature becomes evidently apparent. “The universe melts away into 
 
-[^821]: \[illegible\] The principal characteristic of consciousness is that it generates, sustains and destroys every experience and hence all things. Thus, it is Deity.
+[^821]: The principal characteristic of consciousness is that it generates, sustains and destroys every experience and hence all things. Thus, it is Deity.
 
 *[p. 405]* ^pg421
 
@@ -530,7 +530,7 @@ Surely (one may ask,) if (a disciple) who is not like this is engaged in worship
 
 [^829]: Cf, above note to 2/2.
 
-[^830]: \[illegible\] Clearly Jayaratha understands that here Abhinava is talking about the highest level of the Divine Means (śāmbhavopāya), which is No Means. Cf. above TĀv ad 2/40, where this phrase is quoted, as it is below ad 4/203.
+[^830]: Clearly Jayaratha understands that here Abhinava is talking about the highest level of the Divine Means (śāmbhavopāya), which is No Means. Cf. above TĀv ad 2/40, where this phrase is quoted, as it is below ad 4/203.
 
 *[p. 409]* ^pg425
 
@@ -665,7 +665,7 @@ Although in what follows we shall concentrate on the lunar symbolism of the godd
 
 [^842]: ŚBr 9/2/2/2 — ṣodaśakalāḥ prajāpatiḥ.
 
-[^843]: \[illegible\] ŚBr 2/2/2/3.
+[^843]: ŚBr 2/2/2/3.
 
 [^844]: Bp Up 1/5/14-15 Hume’s translation.
 
@@ -711,7 +711,7 @@ This lunar symbolism provides the images that represent both the abstract metaph
 
 [^855]: ŚB 11/2/5/3.
 
-[^856]: \[illegible\] ŚB 1/6/4/15.
+[^856]: ŚB 1/6/4/15.
 
 [^857]: AV 7/80.
 
@@ -719,7 +719,7 @@ This lunar symbolism provides the images that represent both the abstract metaph
 
 [^859]: KauśiBr 47/23 which refers to AV 1/16.
 
-[^860]: \[illegible\] 59/19 which refers to AV 7/79.
+[^860]: KauśīBr 59/19 which refers to AV 7/79.
 
 [^861]: See below 6/95cd-97 and commentary.
 
@@ -837,7 +837,7 @@ Notice that there is some confusion here concerning the identity of this ‘vivi
 
 [^874]: mm
 
-[^875]: \[illegible\] The source is not identified in this place. However, in the commentary on TĀ 3/137cd- 14140, where this line is quoted, we are told there that it is from the Triśirobhairavatantra.
+[^875]: The source is not identified in this place. However, in the commentary on TĀ 3/137cd- 14140, where this line is quoted, we are told there that it is from the Triśirobhairavatantra.
 
 [^876]: BrUp 1/5/14-15.
 

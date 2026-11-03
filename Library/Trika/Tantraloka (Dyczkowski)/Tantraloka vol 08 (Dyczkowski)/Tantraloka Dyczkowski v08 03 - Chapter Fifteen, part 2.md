@@ -164,7 +164,7 @@ If you view the pervasive sky, (staring at it) with (intense) concentration whil
 
     VAJRINE VAJRADHARĀYA SVĀHĀ
 
-[^131]: \[illegible\] Read with edition of the MV godhutenaiva for godyutenaiva.
+[^131]: Read with edition of the MV godhutenaiva for godyutenaiva.
 
 [^132]: MV 8/1 Icd-12.
 
@@ -245,7 +245,7 @@ The sage (muni) who is intent (on performing) the eight ablutions attain success
 
 [^136]: Read paradṛgavalokanād for paradṛgavalokanā.
 
-[^137]: \[illegible\] MV 8/15ab.
+[^137]: MV 8/15ab.
 
 [^138]: Read -spji- for -mrji-.
 
@@ -601,7 +601,7 @@ For as the Supreme Lord has said in the venerable Naiśasamhcāra, (83cd)
 
 [^166]: Conceming the sacred seats, sce Eliade 1954: 342-344, Bharati 1969: 85-100, HT 1/7/10-18 and notes by Snellgrove vol. 1, pp. 68-70. See Tucci IT, vol. 3, part two, pp. 27.
 
-[^167]: \[illegible\] 80-83ab are Abhinava’s words. Jayaratha signals this, as he often does, by introducing the following citation from scripture as the authority for what Abhinava has just said.
+[^167]: 80-83ab are Abhinava’s words. Jayaratha signals this, as he often does, by introducing the following citation from scripture as the authority for what Abhinava has just said.
 
 
 *[p. 60]* ^pg78
@@ -935,7 +935,7 @@ According to the Vīrāvalihṛdaya,[^184] there are seven (sacred) places (sth�
 
 In accord with this teaching, (consciousness is called) the lotus of the heart, because it stands aloof (from all else), just as one says that ‘the bedsteads creak’.[^189] One should know that that is the same (also) in this way in the other 
 
-[^187]: \[illegible\] The diction of this and the following citation is not found in Abhinava’s version of the citation, and so is probably not drawn from the Vīrāvalihṛdaya. Such didactic etymologies (nirvacana) are common in Tantras of all schools. Thus, we find the following in the Ṣaṭsahasrasaṁhitā, an expanded version of the Kubjikāmata. I quote the former, as its manuscripts contain a better text than those of the Kubjikāmata, as the variants noted in the edition clearly illustrate. ekavṛkṣaṁ samākhyātam ekā saktir ihocyate \\\\ 107 II vṛkṣam īdṛśam \[KM: indriyam\] ākhyātaṁ vyāpikā śaktir iṣyate KM: vṛkṣaṁ śaktir iti smṛtā) | \[illegible\] gatā pare vyomni amanaske nirāmaye I| 108 ॥ tena devi mayā proktaṁ |k, kh: prokto) ekavṛkṣar \[k, kh: meru-; KM: -vrkṣas\] suparyayāt \[KM: tu caryayā\] | 595 49/107cd-109ab “That which is called ‘the solitary tree’ is here said to be the one power (Sakti). The tree is said to be such. The power is considered to be (all) pervasive (vyāpikā). It has waned away in the Supreme Sky, which is devoid of mind and untainted. Thus, O goddess, I have called it “the Solitary Tree’ by a pleasing alteration (of the word’s literal meaning). The word vṛkṣaḥ (here > \[illegible\] is fancifully derived from vyāpikā and kṣayaṁ. The change in meaning accompanies a change of the original form of the word, which is here imagined to be ‘vyaksam / vyākṣam’.
+[^187]: The diction of this and the following citation is not found in Abhinava’s version of the citation, and so is probably not drawn from the Vīrāvalihṛdaya. Such didactic etymologies (nirvacana) are common in Tantras of all schools. Thus, we find the following in the Ṣaṭsahasrasaṁhitā, an expanded version of the Kubjikāmata. I quote the former, as its manuscripts contain a better text than those of the Kubjikāmata, as the variants noted in the edition clearly illustrate. ekavṛkṣaṁ samākhyātam ekā saktir ihocyate \\\\ 107 II vṛkṣam īdṛśam \[KM: indriyam\] ākhyātaṁ vyāpikā śaktir iṣyate KM: vṛkṣaṁ śaktir iti smṛtā) | \[illegible\] gatā pare vyomni amanaske nirāmaye I| 108 ॥ tena devi mayā proktaṁ |k, kh: prokto) ekavṛkṣar \[k, kh: meru-; KM: -vrkṣas\] suparyayāt \[KM: tu caryayā\] | 595 49/107cd-109ab “That which is called ‘the solitary tree’ is here said to be the one power (Sakti). The tree is said to be such. The power is considered to be (all) pervasive (vyāpikā). It has waned away in the Supreme Sky, which is devoid of mind and untainted. Thus, O goddess, I have called it “the Solitary Tree’ by a pleasing alteration (of the word’s literal meaning). The word vṛkṣaḥ (here > \[illegible\] is fancifully derived from vyāpikā and kṣayaṁ. The change in meaning accompanies a change of the original form of the word, which is here imagined to be ‘vyaksam / vyākṣam’.
 
 [^188]: Read -samudgatam for -samudgakam.
 
@@ -1010,7 +1010,7 @@ The inner (spiritual) wealth of the sacrifice (yāgaśrī) becomes well-establis
 
 Surely (one may ask), there (in that case) also, why should that not be easy to accomplish (simply) by going to the sacred seats etc.? With this doubt in mind, he says: 
 
-[^191]: \[illegible\] From Jayaratha\*s presentation, it would appear that these are Abhinava’s words. Certainly, the verse that follows is drawn from the Vīrāvali, as Abhinava himself says. Is this one also?
+[^191]: From Jayaratha\*s presentation, it would appear that these are Abhinava’s words. Certainly, the verse that follows is drawn from the Vīrāvali, as Abhinava himself says. Is this one also?
 
 [^192]: mean the ‘inner (spiritual) wealth of the sacrifice’ (or ‘(spiritual) wealth of the inner sacrifice’). The following possible alternative translation reads antar yāgaśrīḥ disjunctively. Essentially this means that the word antar — ‘inner’ becomes a noun meaning ‘internal’. Then the verse would be translated as follows: “The (spiritual) wealth of the sacrifice (yāgaśrī) becomes well established just there in whatever place, external (or) internal, the lotus of the heart blossoms (vikāsa).” While the accepted translation appears to me to be more conceptually satisfactory, it entails a clumsy shift of the last syllable at the end of the third quarter (i.e. antar) to the beginning of the fourth. If this verse was written by Abhinava, one would expect him to have avoided that. Whether the verse is by him or not, what it teaches is confirmed by the Vīrāvalitantra, which he goes on to quote. Alternatively, it is also possible that it is part of the same quote from the Vīrāvali.
 
@@ -1150,9 +1150,9 @@ Therefore, in order to attain worldly accomplishment or liberation, the place wh
 
 #### Viveka on 15.114–115
 
-[^201]: \[illegible\] SpKā 26-27.
+[^201]: SpKā 26-27.
 
-[^202]: \[illegible\] Ibid. 31-32
+[^202]: Ibid. 31-32
 
 [^203]: Thought constructs prevent focusing awareness on the fundamental, underlying heart of consciousness. Free of them, Deity appears within it. The path to liberation is a process of maintaining that awareness, making it stable and unwavering by eliminating the thought that distracts from it. This is true for those who engage in ritual action as much as it is for those who practice yoga. Thus, the criterion for the selection of a place (sthānakalpana), and indeed anything else that relates to outer practice, be it ritual or the repetition of Mantra, is as it is for meditation, that it is conducive to the tranquillity and repose of the mind.
 
@@ -1316,7 +1316,7 @@ The ‘living being’ (jīva) is the (individual) Self and the Self of the gene
 
 [^221]: The goddess’s right and left earrings are the letters U and Ü, respectively. These letters do come after Ī in the normal alphabetical order.
 
-[^222]: \[illegible\] According to the Mālinī order of the alphabet, the letter R is on the upper part of the shaft of the trident the goddess Mālinī is holding, and J is at the bottom of it. Presumably this is why it is ‘turned upwards’. The two hands are each the letter ṬH. Thus, the trident is indeed in three parts Corresponding to three letters, that is, from the bottom up - J, TH and R.
+[^222]: According to the Mālinī order of the alphabet, the letter R is on the upper part of the shaft of the trident the goddess Mālinī is holding, and J is at the bottom of it. Presumably this is why it is ‘turned upwards’. The two hands are each the letter ṬH. Thus, the trident is indeed in three parts Corresponding to three letters, that is, from the bottom up - J, TH and R.
 
 [^223]: See note above.
 

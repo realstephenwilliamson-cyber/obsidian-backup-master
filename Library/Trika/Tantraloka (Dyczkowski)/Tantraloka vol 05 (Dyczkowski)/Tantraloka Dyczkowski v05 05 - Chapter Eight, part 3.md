@@ -36,9 +36,9 @@ Lake Bindusaras
 
 In this way one can arrive at the meaning that its thousand (leagues) is entirely land. Thus, in order to show its division up to the boundary of Himavat, it is taught in the venerable Tantrarāja etc., that it extends for one thousand leagues, beginning from a particular lake located at the foot of that (mountain), called Bindusaras. As is said there (in the Tantrarāja), beginning with: 
 
-[^372]: \[illegible\] Kṣemarāja: jalena saha mānam etad ity arthaḥ ॥ “The meaning is that this is the measure, along with the water (in between).’
+[^372]: Kṣemarāja: jalena saha mānam etad ity arthaḥ ॥ “The meaning is that this is the measure, along with the water (in between).’
 
-[^373]: \[illegible\] SvT 10/250cd-251. Kṣemarāja: etat pārśvamānam | dairghyaṁ tu himavad yathānupātam ardhaṁ pañcaśatikajalavyavahitatvāt ॥ 251 ॥ ‘This is the measure of the breadth. The width accords with that of Himavat, which is half (of a thousand), because the waters that separate (one land mass from another) is five hundred.’ Presumably, he is saying that this is the width of Himavat also, for such is the size of the land. In this way, as the SvT (10/252a) goes on to say, they are ‘inaccessible to one another’ (parasparam agamyds ) agamyds te).
+[^373]: SvT 10/250cd-251. Kṣemarāja: etat pārśvamānam | dairghyaṁ tu himavad yathānupātam ardhaṁ pañcaśatikajalavyavahitatvāt ॥ 251 ॥ ‘This is the measure of the breadth. The width accords with that of Himavat, which is half (of a thousand), because the waters that separate (one land mass from another) is five hundred.’ Presumably, he is saying that this is the width of Himavat also, for such is the size of the land. In this way, as the SvT (10/252a) goes on to say, they are ‘inaccessible to one another’ (parasparam agamyds ) agamyds te).
 
 [^374]: MṛT vidyāpāda (bhuvanādhvaprakarana) 13/93cd.
 
@@ -197,9 +197,9 @@ of hell up to Śiva, or (else) liberation.[^394] (88)
 
 [^392]: Read parāḥ for parar.
 
-[^393]: \[illegible\] Some part of the chapter concerning cosmology in the Rauravāgama, i.e. the Rauravasūtrasaigraha, has been lost (see above note to TĀv ad 6/142 (141cd-142ab)). This is probably why this verse cannot be traced in the printed edition.
+[^393]: Some part of the chapter concerning cosmology in the Rauravāgama, i.e. the Rauravasūtrasaigraha, has been lost (see above note to TĀv ad 6/142 (141cd-142ab)). This is probably why this verse cannot be traced in the printed edition.
 
-[^394]: \[illegible\] According to the Mṛgendra (vidyāpāda) also, Bhārata is the only place where karman can be accumulated: guna eko yadyukto neṣtari kiñcin na sādhayet || sarvāsāri phalabhūmīnām karmabhūḥ kāraṇarni yataḥ | 13/92cd-93ab ‘There is only one quality because of which it (i.e. Bhārata) is superior (to the others): there is nothing that, if one desires it, one cannot obtain, because this is the cause, the place (of the accumulation) of karman, for all the places where the fruits (of karman are reaped). In some places it is unclear whether the whole of Bhūloka is the land of karman. Here it is clear that Bhārata alone is, especially the land of Kanyā, where it accumulates most efficiently. This place is probably the Indian peninsula, crowned with the Himalaya and surrounded by water of the other sides, as described here.
+[^394]: According to the Mṛgendra (vidyāpāda) also, Bhārata is the only place where karman can be accumulated: guna eko yadyukto neṣtari kiñcin na sādhayet || sarvāsāri phalabhūmīnām karmabhūḥ kāraṇarni yataḥ | 13/92cd-93ab ‘There is only one quality because of which it (i.e. Bhārata) is superior (to the others): there is nothing that, if one desires it, one cannot obtain, because this is the cause, the place (of the accumulation) of karman, for all the places where the fruits (of karman are reaped). In some places it is unclear whether the whole of Bhūloka is the land of karman. Here it is clear that Bhārata alone is, especially the land of Kanyā, where it accumulates most efficiently. This place is probably the Indian peninsula, crowned with the Himalaya and surrounded by water of the other sides, as described here.
 
 
 *[p. 137]* ^pg155
@@ -499,7 +499,7 @@ Six Islands and Seas beyond Jambūdvīpa and the Ocean of Salt
 
 [^415]: TĀ 8/99-101 is a paraphrase of the passage Jayaratha quotes in his commentary. He introduces it saying that the teacher who wrote this is Bṛhaspati. Gnoli ignores Jayaratha here and states in a note (1999: 177 n 1) that these verses are a paraphrase of some verses taken from Sadyojyotis’s commentary on the Rauravāgama. However, Sanderson (2006: 49 n 15) takes Jayaratha on his word, declaring the passage to be from Bṛhaspati’s vārtika on the Rauravasūtrasagraha. Bṛhaspati, along with Sadyojyotis, is one of the earliest known Siddhāntins to write commentaries on the Āgamas and the Eivatanu ad 8/345ab that Abhinava quotes many times, and a commentary - vārtika independent works. Jayaratha refers to the Vārtika as the work of the teacher who wrote ~ on the Rauravasūtrasaṁigraha. Here Jayaratha clearly identifies the author as Bṛhaspati. As the verses he quotes are not from the Śivatanu, which are invariably in Aryā metre, they can only be from the vārtika. Note also that MS C of the TĀ reads rauravavārtike for rauravaśāsane. See Dvivedi 1983: 70 and 63 and entry under Rauravavārtika in Appendix volume concerning the sources.
 
-[^416]: \[illegible\] Emend -phalāśanāh \[ch, ñ: -nah\] to phalāśinaḥ.
+[^416]: Emend -phalāśanāh \[ch, ñ: -nah\] to phalāśinaḥ.
 
 *[p. 145]* ^pg163
 

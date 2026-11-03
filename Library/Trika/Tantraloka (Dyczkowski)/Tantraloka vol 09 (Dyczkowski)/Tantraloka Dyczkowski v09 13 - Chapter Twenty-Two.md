@@ -113,11 +113,11 @@ sivajñānena ca vinā bhūyo ‘pi paśutodbhavaḥ ॥ 9 ॥
 
 ‘Thus’ because of (these) three statements, (it is clear that the Śaiva teachings are the most elevated). The ‘reality levels (fattva) below that of Śiva’ (meant here) are those that are also on the plane of Māyā. This is the meaning. He is declaring in this way that even a person who is located in a lower philosophy (darsana) (but) has received a descent of the power (of grace) by means of the ritual procedure (prakriyā) of the Śaivāgama should be extracted 
 
-[^640]: \[illegible\] Read saṁprāptaṁ for saṁprāptaḥ.
+[^640]: Read saṁprāptaṁ for saṁprāptaḥ.
 
 [^641]: 22/6cd-7ab, literal quote of MV 1/47. See above, 19/14 and TĀv ad 19/55. Before expounding the rite of conversion, Abhinava wishes to establish that although this subject is not discussed explicitly in his primary source, the Mālinīvijayottara, it is suggested in the passages to which he refers here, and explains in this perspective up to verse 14ab.
 
-[^642]: \[illegible\] Abhinava is explaining the passages he has just quoted from the MV.
+[^642]: Abhinava is explaining the passages he has just quoted from the MV.
 
 
 *[p. 280]* ^pg300
@@ -265,7 +265,7 @@ Mantras.[^652] (The teacher) should offer one Mantra amongst them (to his discip
 
 Having purified him in this way, in order to explain (how he is) liberated from sin, he says: 
 
-[^652]: \[illegible\] NTS uttarasūtra p. 349-350 Goodall’s commentary on 2/1; “The use of mātṛkā as mantra is in later literature typically reserved for contexts where some general all-purpose mantra is required (hence its prominence in the relatively eclectic Iśānasivagurudevapaddhati), such as in liṅgoddhāra . . . or in cases where an existing image is to be newly adapted for worship and the mantra that was originally installed in it is no longer known. . . . The mātṛkā is therefore commonly counted amongst types of exoteric or ‘universal’ (sādhārana) mantras. Thus, in the Jñānaratnāvalī (I have taken the passage from the e-text I prepared for Muktabodha): atha sādhāraṇaliṁgapakṣe sādhāraṇnamantreṇaivārcanari kāryam | tathā ~ pranṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ | prāsādāghoramantraś ca sapta sādhāraṇā matāḥ \\\\ ebhiḥ sampūjayed vidvān sarvasādhāranaṁ śivam |I iti | “Now with regards to common (public) liṅgas — worship should be done with a common (universal) mantra. (It is said) accordingly: “The seven — 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be (universally) common. The leaned man should worship Śiva, (the deity) common to all by means of these (mantras).”” We find practically the same verse in the Somaśambhupaddhativyākhya (IFP transcript 'T 0170 (p. 240) c-text on Muktabodha’s site). Trilocanaśiva supplies a similar context: sarvasāmānyatvena nṛpādibhi(h) sthāpiteṣu niyatajanapūjyeṣu sādhāranānubhir iti praṇavo māyā mātṛkā vyomavyāpi ṣadakṣaram | prāsādo bahurūpaśca sapta sādhāraṇā matā || (iti) | ebhiḥ pūjā kāryā । “With regards to (liṅgas) that have been installed by kings and the like, and that are to be worshipped by a limited number of people, common souls should worship them as being common to all and by means of these (mantras as stated in this verse). 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be the seven (universal) common (mantras).
+[^652]: NTS uttarasūtra p. 349-350 Goodall’s commentary on 2/1; “The use of mātṛkā as mantra is in later literature typically reserved for contexts where some general all-purpose mantra is required (hence its prominence in the relatively eclectic Iśānasivagurudevapaddhati), such as in liṅgoddhāra . . . or in cases where an existing image is to be newly adapted for worship and the mantra that was originally installed in it is no longer known. . . . The mātṛkā is therefore commonly counted amongst types of exoteric or ‘universal’ (sādhārana) mantras. Thus, in the Jñānaratnāvalī (I have taken the passage from the e-text I prepared for Muktabodha): atha sādhāraṇaliṁgapakṣe sādhāraṇnamantreṇaivārcanari kāryam | tathā ~ pranṇavo mātṛkā māyā vyomavyāpī ṣadakṣaraḥ | prāsādāghoramantraś ca sapta sādhāraṇā matāḥ \\\\ ebhiḥ sampūjayed vidvān sarvasādhāranaṁ śivam |I iti | “Now with regards to common (public) liṅgas — worship should be done with a common (universal) mantra. (It is said) accordingly: “The seven — 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be (universally) common. The leaned man should worship Śiva, (the deity) common to all by means of these (mantras).”” We find practically the same verse in the Somaśambhupaddhativyākhya (IFP transcript 'T 0170 (p. 240) c-text on Muktabodha’s site). Trilocanaśiva supplies a similar context: sarvasāmānyatvena nṛpādibhi(h) sthāpiteṣu niyatajanapūjyeṣu sādhāranānubhir iti praṇavo māyā mātṛkā vyomavyāpi ṣadakṣaram | prāsādo bahurūpaśca sapta sādhāraṇā matā || (iti) | ebhiḥ pūjā kāryā । “With regards to (liṅgas) that have been installed by kings and the like, and that are to be worshipped by a limited number of people, common souls should worship them as being common to all and by means of these (mantras as stated in this verse). 1) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled mantra, 6) Prāsāda and 7) Aghora mantras — are considered to be the seven (universal) common (mantras).
 
 [^653]: TSā (p. 171) adds ‘by means of the (basic) common mantra’.
 
@@ -390,11 +390,11 @@ Lower Order and to those who are Obscured
 
 [^660]: As the Devyāyāmala was a Kashmiri work, Sanderson opines that this Īśānaśiva was from Kashmir. Sanderson 2007: 391. Referring to the paddhati of ISānaśiva, of which the sole traced citation is here in the TĀ, he writes: ‘that passage gives a ruling that excludes converts to Śaivism from holding thè office as Ācāryas or Sādhakas, with the exception in the former case of converts who achieve self-realization. In giving this ruling, Abhinavagupta tells us, "Īsānaśiva was explaining a statement on this subject in the Trika's Devyāyāmala. The fact that it cites this source makes it likely to have been a Kashmirian work, since it is probable that the Devyāyāmala too was a product of this region.” There is no reason to identify this ISānaśiva with Īśvaraśiva who, along with Śaṅkararāśi, first propagated the tradition of Śrīvidyā in Kashmir (ibid. 384).
 
-[^661]: \[illegible\] This line, as we know the following is, may well be drawn from the Devyāyāmala.
+[^661]: This line, as we know the following is, may well be drawn from the Devyāyāmala.
 
 [^662]: MS Threads matāḥ for sthitāḥ.
 
-[^663]: \[illegible\] This line is quoted by Abhinava from the Devyāyāmala below, 23/10cd.
+[^663]: This line is quoted by Abhinava from the Devyāyāmala below, 23/10cd.
 
 
 *[p. 288]* ^pg308
@@ -439,7 +439,7 @@ tato ‘sya śuddhiṁ prāk kṛtvā tato dīkṣām samācaret |
 
 [^664]: T: anyatantre ‘bhisikto ‘pi.
 
-[^665]: \[illegible\] Cf. below, 23/4, where Abhinava cites the Kāmika again concerning this subject.
+[^665]: Cf. below, 23/4, where Abhinava cites the Kāmika again concerning this subject.
 
 
 *[p. 289]* ^pg309
@@ -483,7 +483,7 @@ Ascertainment of a Disciple’s Competence
 सर्वथा तवन्रुवननेष ब्रुवाणो वा विपर्ययम् ॥ ३८ ॥
 अज्ञो वस्तुत एवेति तत्त्यक्त्वेत्थं विधिं चरेत् ।
 
-[^666]: \[illegible\] This line is drawn from Sarvajñānottara kriyāpāda 19/27cd. 11 is found below as TĀ 23/21cd. See note there.
+[^666]: This line is drawn from Sarvajñānottara kriyāpāda 19/27cd. 11 is found below as TĀ 23/21cd. See note there.
 
 
 *[p. 290]* ^pg310
@@ -546,13 +546,13 @@ This (matter) has been discussed in chapter thirteen. Accordingly, one should re
 
 [^668]: Abhinava refers to a Siddhāvīratantra in TĀ 33/2. But we know that the citation is from the Siddhayogeśvarīmata. A manuscript of a fragment (chapter five) of a text called Siddhavīreśvarī-tantra is deposited in the Asiatic Society of Calcutta (MS 3917D, no. 5947, see Śāstrī 1939-1940: 135-136). I have not seen it, so I cannot say whether it is the Siddhayogeśvarīmata. Perhaps the Siddhavīrāvali-sāra cited in TĀ 22/40cd42ab may be the Vīrāvalitantra. But this seems unlikely. Another possibility is that it is the Vīrāvalihṛdaya, quoted above in 15/102cd-104ab. Perhaps Abhinava is referring to three Trika Tantras in a single co-ordinate (dvandva) compound, namely, the Siddhayogeśvarīmata (Siddha-), Vīrāvali, and Trikasāra (-sāra). If so, Abhinava is saying in TĂ 22/40cd-42ab that Anuttaradīkṣā, which bestows immediate realization, is taught in all three of these Trika Tantras. The initiation is also taught in the Parātrīśikā, or at least possesses the same characteristic (see ibid. verse 25).
 
-[^669]: \[illegible\] One could also understand bhairavīye kule to mean ‘belonging to the Bhairavakula’, rather than the name of a text. But this is unlikely. Abhinava has quoted the Bhairavakula concerning the five levels of initiation leading to Trika. See above, 13/302. Indeed, he quotes the Bhairavakula Tantra in several other places. See TĀ 27/45-46, 28/50-52ab, 28/59cd and 28/388cd.
+[^669]: One could also understand bhairavīye kule to mean ‘belonging to the Bhairavakula’, rather than the name of a text. But this is unlikely. Abhinava has quoted the Bhairavakula concerning the five levels of initiation leading to Trika. See above, 13/302. Indeed, he quotes the Bhairavakula Tantra in several other places. See TĀ 27/45-46, 28/50-52ab, 28/59cd and 28/388cd.
 
 [^670]: Tt is also possible to take ‘anuttara’ here to be an adjective meaning ‘unexcelled’ or ‘most excellent’. However, it appears, at least in my opinion, that Abhinava is referring to initiation into Trika as Anuttaradīksā (see above 13/302). Taking ‘anuttara’ to be a proper name, the expression means initiation into Anuttara, which could be taken to be short for Anuttaratrika.
 
 [^671]: Read -kramopāntā for -kramopātta.
 
-[^672]: \[illegible\] See above, 13/302.
+[^672]: See above, 13/302.
 
 
 *[p. 292]* ^pg312

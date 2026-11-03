@@ -92,7 +92,7 @@ Although I have not studied formally with Prof. K. D. Tripathi, retired dean of 
 
 *[p. iii]* ^pg7
 
-the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in \[illegible\] whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
+the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in Kāśī whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
 exponent of Śrīvidyā. 
 

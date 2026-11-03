@@ -37,7 +37,7 @@ This separation impels (kṣepa)[^512] individual consciousness which is charact
 
 objectivity that it has severed from itself. This movement of consciousness is like a wave (rmi) or pulsation (spanda) that abides as the activity of the breath (prānṇavṛtti) (6/11). This prānṇa is not just the breath, but the life force which is ‘the will of inner exertion’ that is also known as the soul (jīva), the heart (hṛt), the intuitive knowing (pratibhā), the effulgence (sphurattā) and pulsation (spanda) of consciousness (6/13). This pulsation, which 15 prāṇa, is the nature of the jīva guiding an individual, impelling (kalana) the direction of experience. 
 
-Pure consciousness initially transforms into the life-force (prāṇa). This prānṇa then transforms to become the seat (āśraya) of the individual psyche (antahkarana) (6/12). These inner organs of the psyche (buddhi, \[illegible\] \[illegible\] and manas) are orchestrated by prāṇa. This is a classical understanding that we see in the Sāhkhyakārikā (29), where it states that the common cause of the modification of the (three) instruments (of the antahkarana) are the (five) airs beginning with prāṇa. The working of the sense organs and their ability to perceive is innervated by the prāṇa, which is mind (in a slightly different conception 
+Pure consciousness initially transforms into the life-force (prāṇa). This prānṇa then transforms to become the seat (āśraya) of the individual psyche (antahkarana) (6/12). These inner organs of the psyche (buddhi, ahaṅkāra, and manas) are orchestrated by prāṇa. This is a classical understanding that we see in the Sāhkhyakārikā (29), where it states that the common cause of the modification of the (three) instruments (of the antahkarana) are the (five) airs beginning with prāṇa. The working of the sense organs and their ability to perceive is innervated by the prāṇa, which is mind (in a slightly different conception 
 
 of mind than the modern bio-mechanical model).[^515] The transformation of prāṇa into five functions also orchestrates the activity of the body. In the initial verses of Chapter Six, we have moved from the level of supreme consciousness as Time to the level of bodily functioning. 
 
@@ -54,7 +54,7 @@ The vital breath - \[illegible\] — is not just some wind that moves through th
 
 *[p. 458]* ^pg473
 
-illumination (prakāśa) and rest (viśrama) of consciousness, which on a mental level can be experienced as thoughts arising and falling away like waves in the sea. Materialism sees thoughts in the brain and actions in the body. But prāṇa moves as thought moves and thought moves as \[illegible\] moves. When one thinks of an arousing image, the genitals engorge with blood. When one thinks of someone they care about deeply, the heart grows warm and expansive. Materialists explain this by the activation of hormones, but the ancient understanding is that when we have the thought of a loved one, the (prana resides in the region of the heart. If one meditates on the heart with warmth, images of loved ones will start to arise in the thoughts. By attention, yogis direct the movement of breath / prāṇa with the intention to generate particular states of consciousness. Just as the space of prāṇa within us holds a particular qualitative energy, the time within us also holds a particular qualitative energy. A young baby thinks and acts differently than an old man. Time outside of us also has a particular qualitative effect on prānṇa. 
+illumination (prakāśa) and rest (viśrama) of consciousness, which on a mental level can be experienced as thoughts arising and falling away like waves in the sea. Materialism sees thoughts in the brain and actions in the body. But prāṇa moves as thought moves and thought moves as prāṇa moves. When one thinks of an arousing image, the genitals engorge with blood. When one thinks of someone they care about deeply, the heart grows warm and expansive. Materialists explain this by the activation of hormones, but the ancient understanding is that when we have the thought of a loved one, the (prana resides in the region of the heart. If one meditates on the heart with warmth, images of loved ones will start to arise in the thoughts. By attention, yogis direct the movement of breath / prāṇa with the intention to generate particular states of consciousness. Just as the space of prāṇa within us holds a particular qualitative energy, the time within us also holds a particular qualitative energy. A young baby thinks and acts differently than an old man. Time outside of us also has a particular qualitative effect on prānṇa. 
 
 TĀ 6/21 states that prāṇa moves as the two aspects of temporal action (kriyā) and space (mūrti), each with a gross (sthūla), subtle (sūkṣma) and supreme (para) level. These two aspects, divided into three levels, make the six-fold path of manifestation. TĀ 6/4-5 states that this entire path (samastādhvan) with its six aspects (ṣadvidha) is established in the prāṇa. 
 
@@ -248,7 +248,7 @@ Vāmaśakti is the supreme (para) level, which gives rise to impulses, and this 
 
 [^539]: Abhinavagupta quoted by Dyczkowski. Manthānabhairavatantram, vol. 1, p.399.
 
-[^540]: Lakṣmītantra 2/13 says that the waking consciousness \[illegible\] mixes with the sattvaśakti, said to be the I-hood of Puruṣa, to create the individual T-ness (ahaṅkāra) of the rational waking being. The Ahirbudhnyasaṁhitā (59/34) says that the personification of the waking state (Aniruddha) bestows upon men the fruits of their karma (phalāni puruṣebhyaś cāpnoti kriyayārcitaḥ | tataḥ puruṣa ity evam aniruddho 'bhidhīyate).
+[^540]: Lakṣmītantra 2/13 says that the waking consciousness (jagrat) mixes with the sattvaśakti, said to be the I-hood of Puruṣa, to create the individual T-ness (ahaṅkāra) of the rational waking being. The Ahirbudhnyasaṁhitā (59/34) says that the personification of the waking state (Aniruddha) bestows upon men the fruits of their karma (phalāni puruṣebhyaś cāpnoti kriyayārcitaḥ | tataḥ puruṣa ity evam aniruddho 'bhidhīyate).
 
 [^541]: icchāmātrapratiṣtheya kriyāvaicitryacarcanā.
 
@@ -293,7 +293,7 @@ Now begins the introduction to the world of clearly evident units of time. Each 
 
 Day and night represent the basic, archetypal nature of time as a whole. According to common astrological numerology, a four second unit of time is called a ‘prāṇa’ and is considered to be the basic component of time. A day is called ahas in Sanskrit and the night, rātri. In this way, the twenty-four hours Day and Night is called ahorātra. Day and Night is a representation of the two opposites that create the universe — from the level of Puruṣa-Prakṛti to male and female, hot and cold, hard and soft, outer and inner etc. TĀ 6/78 relates the Day of exhalation to prakāśa (light-awakening-manifestation), and the Night of inhalation to viśrama (rest and repose). 
 
-The Day and Night polarity is often represented by the Sun and Moon,[^542] or the anthropomorphized forms of Śiva and \[illegible\] Śiva is white and Kālī is black — the white day and black night.[^543] There is no night without day, and no day without night.[^544] The day is male and the night female (JB 2/434). The Day and Night (ahorātra) are the procreators (sarvan prajana) of everything (JB 2/287). They are the mother and the father (JB 1.50) of the universe. Their dance together is imperishable Time, the days and nights are endless and these two, while rolling on, obtain everything.[^545] 
+The Day and Night polarity is often represented by the Sun and Moon,[^542] or the anthropomorphized forms of Śiva and Kālī. Śiva is white and Kālī is black — the white day and black night.[^543] There is no night without day, and no day without night.[^544] The day is male and the night female (JB 2/434). The Day and Night (ahorātra) are the procreators (sarvan prajana) of everything (JB 2/287). They are the mother and the father (JB 1.50) of the universe. Their dance together is imperishable Time, the days and nights are endless and these two, while rolling on, obtain everything.[^545] 
 
 They toss, day and night, like a pair of dice and move men like pawns - ‘Time’ plays a frenzied game with Kālī, 
 
@@ -672,7 +672,7 @@ Jup Ven | Sa
 
 21 
 
-Mar | Me | mp | Ven | \[illegible\] | Sun Mon 
+Mar | Me | mp | Ven | Sat | Sun Mon 
 
 3 AM 
 
@@ -1031,7 +1031,7 @@ Venus | Saum | | Rāīw | \[ Sm
 
 | Jupiter Venus 
 
-[^572]: The Svacchandatantra and Ṣatsahasahasrasarihitā that follows it say: atha candrasya yadi velā \[illegible\] tadā prathamapraharai candrasya | dvitīyapraharan bhaumasya || tṛtīyaṁ budhasya | caturtha bṛhaspateḥ | Thus confirming that the order of the planets is that of the days of the week. See the translations in note 6,143 of TĀ text.
+[^572]: The Svacchandatantra and Ṣatsahasahasrasarihitā that follows it say: atha candrasya yadi velā vāraḥ tadā prathamapraharai candrasya | dvitīyapraharan bhaumasya || tṛtīyaṁ budhasya | caturtha bṛhaspateḥ | Thus confirming that the order of the planets is that of the days of the week. See the translations in note 6,143 of TĀ text.
 
 
 *[p. 484]* ^pg499
@@ -1082,7 +1082,7 @@ The order of ardha-prahara rulership of the daytime is relatively clear. Technic
 
 Tantrāloka says that Ketu moves within the Sun and Rāhu moves within the Moon, meaning that Rāhu is not used in this sequence.[^579] It states this because there are sequences that use Rāhu with the vāracakra order, where Rāhu is given the portion after Saturn. This is described in Praśna Mārga, 
 
-[^578]: The night starts from the fifth planet in the order of the weekdays. Counting inclusively from the first ardha-prahara on Sunday, the fifth day is Jupiter. When the day rulers are put into a cakra with each planet having one of an eight petaled lotus, the fifth planet is the one directly opposite the first. On an astrolabe, the sunrise day ruler would be on one side of the alidade, and the fifth planet would be directly on the other side. This fifth lord starting the night can also be seen in Bṛhat Prāśara Horā astrā 3.67 and Mantreśvara’s Phaladīpka (25.2): \[illegible\] tu vāreścarātpañcamādyāḥ.
+[^578]: The night starts from the fifth planet in the order of the weekdays. Counting inclusively from the first ardha-prahara on Sunday, the fifth day is Jupiter. When the day rulers are put into a cakra with each planet having one of an eight petaled lotus, the fifth planet is the one directly opposite the first. On an astrolabe, the sunrise day ruler would be on one side of the alidade, and the fifth planet would be directly on the other side. This fifth lord starting the night can also be seen in Bṛhat Prāśara Horā astrā 3.67 and Mantreśvara’s Phaladīpka (25.2): niśāyāṁ tu vāreścarātpañcamādyāḥ.
 
 [^579]: Tantrāloka 6/66 ketuḥ sūrye vidhau rāhur. Svaccandatantra (7/43) states rāhuś carati somena ketuś carati bhāsvatā |
 
@@ -1538,7 +1538,7 @@ Sunset
 
 Waning half 
 
-6 hrs ahead | \[illegible\] | Sunrise Noon 
+6 hrs ahead | Midnight | Sunrise Noon 
 
 This observational information gives a basic understanding of the Moon phases and how they can be seen as an angle between the Sun and Moon, and how this can be calculated by the rising and setting of the luminaries. Modern society, living with artificial light, is unaware of these phases and their impact on the night life. But ancient cultures were very aware of these phases and connected to them in a way similar to the modern individual’s concept of needing to know the date (created by Pope Gregory) in order to plan life and make decisions. @.~ \_ (1 Ove tādi enda anad anther The measurement of the thitis angles
 

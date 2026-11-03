@@ -19,7 +19,7 @@ sameśvaras tathā śarmaḥ (k: śamo?; kh: śarmmā; g: sarma) ajeśaś catur�
 jambhanī mohanī vāmā andhanī kartrr eva ca || 27 || kalanī damanī caiva tathā pramathanīti (k, kh, g: prathama-) ca |
 aṣṭāre pūjayed etā (kh: pūjā-) yogeśvaryo (kh: -ryā) mahābalāḥ || 28 ॥ 
 
-Nandi, Mahākāla, Vṛṣabha, \[illegible\] Sameśvaras, Śarma, Ajeśa, and Caturānana (are the Rudras). In the (wheel) with eight spokes these are the very powerful Yogīśvarīs that should be worshipped: Jambhanī, Mohanī, Vāmā, Aandhanī, Kṛtrr, Kalanī, Damanī and Pramathanī. (26cd-28) 
+Nandi, Mahākāla, Vṛṣabha, Bhṛṅgi, Sameśvaras, Śarma, Ajeśa, and Caturānana (are the Rudras). In the (wheel) with eight spokes these are the very powerful Yogīśvarīs that should be worshipped: Jambhanī, Mohanī, Vāmā, Aandhanī, Kṛtrr, Kalanī, Damanī and Pramathanī. (26cd-28) 
 
 dakṣaś cando (k, kh, g: -Ścandā) haraḥ śaundī pramatho bhīmamanmathaḥ |
 sakuniḥ 
@@ -189,11 +189,11 @@ Tśvaram unmiṣad amṛtaughasundarar tat stuve dhāma ||
 
 *[p. 315]* ^pg333
 
-I praise the Lord \[illegible\] who is the Abode that is full (and perfect) by virtue of the will that is expanding with bliss[^731] out of (and because of) the awakened consciousness of Anuttara and is beautiful with the unfolding (unmiṣat) flood of nectar (amṛtaugha). (5) 
+I praise the Lord (īśvara) who is the Abode that is full (and perfect) by virtue of the will that is expanding with bliss[^731] out of (and because of) the awakened consciousness of Anuttara and is beautiful with the unfolding (unmiṣat) flood of nectar (amṛtaugha). (5) 
 
 Each of the forms of reflective awareness symbolized by the letters is an Abode of Anuttara but this is especially true of the vowels. Anuttara is Amṛṭa, that is nectar, which is ‘not dead’ (amṛta) and gives its imperishable life to all things pervaded by it. This abode of nectar is where the power of knowledge unfolds and so the vowel U is called ‘Unfolding’ (unmeṣa), to which Abhinava is clearly alluding here. This and the following form of reflective awareness, centered on the power of knowledge, function on the reality level (tattva) of Īśvara as the experience that ‘(all) this is me’. It seems that Abhinava is alluding to this also by referring to this Rudra as Īśvara — Lord. He is said to be ‘full’ because the awakened consciousness of Anuttara, which is the awakening of Anuttara, is its bliss from which arises the will to know itself as all things ‘full’ of the nectar of that realisation. That awakening of Anuttara within the nature of Anuttara is the power of knowledge which is the awakened awareness of Anuttara, that is, the full knowledge of Anuttara. The awakening takes place inside the nature of Anuttara because before that there is only the Light of consciousness pervaded by the power of the will (icchā) to know. This is not yet knowledge (jnāna) which arises when that initial state of unfolding is consolidated in the following state of reflective awareness. Here Īśvara - the Lord - is perfect, full (pūrṇa) and beautiful. In the following phase this plenitude pours out of itself as waves of the lifegiving nectar of insight. 
 
-6\) Amṛtormī \[illegible\] The Rudra Who is the Wave of Nectar. 
+6\) Amṛtormī (Ū) The Rudra Who is the Wave of Nectar. 
 
 aham ānandaghanecchāghaṭiteśŚvaratonmiṣatsamastormih |
 ity ullāsataraṁgitam amṛtormim ahaṁṁi cidarnavam vande ॥ 
@@ -410,7 +410,7 @@ May the enthusiasm for victory be victorious! (That) enthusiasm for victory that
 
 APPENDIX C TO CHAPTER THIRTY-THREE 
 
-Chapter 12: Jayada Rudra \[illegible\] ¢); The Application of the Path of the Forces and the Rest (kalādyadhvādhvopayogaḥ) 
+Chapter 12: Jayada Rudra (ṬA): ¢); The Application of the Path of the Forces and the Rest (kalādyadhvādhvopayogaḥ) 
 
 May the one who gives victory to the wise (sat), whose ornament is made from the Half Moon, which is nectar, bringing to rest the enṬtire circle of the Paths within his own consciousness, bestow victory. 
 
@@ -520,7 +520,7 @@ Chapter 35: Suśiva Rudra (HA) The Encounter of the Scriptures (Sāstramelana)
 
 ‘He who has brought down (into the world) the essence of Speech (mātṛkā), which is all the scripture with each of its varieties, the omniscient (sarvavit) Lord (vibhu) and saviour of the universe, is victorious. 
 
-Chapter 36: Kopa Rudra \[illegible\] An Account of the Transmission of the Scriptures (āyātikathana) 
+Chapter 36: Kopa Rudra (KṢA) An Account of the Transmission of the Scriptures (āyātikathana) 
 
 May the Aggregate of Sound (sabdarāśi), which is the reflective awareness of full (unconditioned) subjectivity (pūrnāhantā), from which all this scripture has clearly descended part by part successively (into the world), protect you. 
 
@@ -719,7 +719,7 @@ an undated Nepalese palmleaf manuscript in the Nāgarii script, except that it h
 
 Kulasāra NAK MS no. 4-137/6, NGMPP reel no. A 40/11 (or 4/137?) folios 63, Palm leaf, early Nāgarī. 
 
-Kulakaulinīmata \[illegible\] NAK no. 5/9 (87) (17) 982 -1009, NGMPP reel no. A179/6; Kh: NAK no. 217a, NGMPP reel no. C 24/2; G: NAK reel no. A 178/4, NGMPP reel no. B 14/22; Gh: NAK no. 3-788-139, NGMPP reel no. A 42/7; “N: NAK no. E 40401, NGMPP reel no. E 2188/12. Other MSs consulted are deposited in the Man Singh library, Jodhpur. These are MSs no. 1487 and 1488. 
+Kulakaulinīmata K: NAK no. 5/9 (87) (17) 982 -1009, NGMPP reel no. A179/6; Kh: NAK no. 217a, NGMPP reel no. C 24/2; G: NAK reel no. A 178/4, NGMPP reel no. B 14/22; Gh: NAK no. 3-788-139, NGMPP reel no. A 42/7; “N: NAK no. E 40401, NGMPP reel no. E 2188/12. Other MSs consulted are deposited in the Man Singh library, Jodhpur. These are MSs no. 1487 and 1488. 
 
 *[p. 339]* ^pg354
 
@@ -1051,7 +1051,7 @@ Paratrīśikātātparyadīpikā and Śāktavijñāna of Somānanda, J. D. Zaadoo
 
 Parātrīśikāvivṛti, by J. Zaadoo Śāstrī, KSTS (49), Śrīnagar, 1947. 
 
-Parātrīśikālaghuvṛtti by \[illegible\] ta, and Parātrīśikāvivṛti by Lakṣmīrāma, J. D. Zaadoo Śāstrī, KSTS (68, 69), Srīnagar, 1947. 
+Parātrīśikālaghuvṛtti by Abhinavagup ta, and Parātrīśikāvivṛti by Lakṣmīrāma, J. D. Zaadoo Śāstrī, KSTS (68, 69), Srīnagar, 1947. 
 
 Parātriṁmśikātattvavivaraṇa by Abhinavagupta, see Gnoli, 1985. 
 
@@ -1171,7 +1171,7 @@ Rgvedasarihitā and bhāṣya of Sāyaṇācārya. Translation of by Wilson, H. 
 
 Aiterīya Brāhmaṇa of the Rgveda. Haug M. Vārāṇasī, 1977 (reprint). 
 
-Lakṣmītantra, a Pāñcarātra Āgama, \[illegible\] Krishnamacharya, The Adyar Library and Research Centre, Madrās, 1975 (first edition, 1959). 
+Lakṣmītantra, a Pāñcarātra Āgama, P.V. Krishnamacharya, The Adyar Library and Research Centre, Madrās, 1975 (first edition, 1959). 
 
 Lalitāsahasranāma with Bhāskararāya’s commentary. Translated into English by R. Ananthakrishna Sastry. Adyar, Chennai: The Adyar Library and Research Centre. 1988 (reprint). 
 
@@ -1189,7 +1189,7 @@ Vātulanāthasūtras with the vṛtti by Anantaśaktipāda. Edited with English 
 
 Vāstusāraprakarana by TṬhakkura Pheru. Edited by Pandit Bhagavāndāsa Jaina. Jaipur, 1937. 
 
-Vijñaptimātratāsiddhi by Vasubandhu, Deux traites de Vasubandhu. \[illegible\] d'une explication en proseet Triṁśikā avec le commentaire de accompagnee Sthiramati, S. Levi, Biblitheque de l'École des Hautes Études (245), Paris, 1925. Vijñānabhairava with the partial commentary by Kṣemarāja and Śivopādhyāya, Śāstrī, KSTS (8), and with the commentary Kaumudī di Ānanda Bhatta, KSTS (9), Bombay, 1918. 
+Vijñaptimātratāsiddhi by Vasubandhu, Deux traites de Vasubandhu. Viṁśatikā d'une explication en proseet Triṁśikā avec le commentaire de accompagnee Sthiramati, S. Levi, Biblitheque de l'École des Hautes Études (245), Paris, 1925. Vijñānabhairava with the partial commentary by Kṣemarāja and Śivopādhyāya, Śāstrī, KSTS (8), and with the commentary Kaumudī di Ānanda Bhatta, KSTS (9), Bombay, 1918. 
 
 Vimalaprabhāṭīkā of Śrīpundarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśa, vol. I J. Upadhyāya, Bibliotheca Indo-Tibetica Series (11), Central Institute of Higher Tibetan Studies, Sarnath, 1986. Vol. Ī \[illegible\] V.V. 
 

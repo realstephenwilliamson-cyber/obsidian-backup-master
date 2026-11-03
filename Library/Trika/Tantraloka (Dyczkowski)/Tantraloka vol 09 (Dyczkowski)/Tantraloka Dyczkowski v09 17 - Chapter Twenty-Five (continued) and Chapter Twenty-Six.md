@@ -32,7 +32,7 @@ Times When it Should be Performed
 ततर प्राग्वद्यजेदेवं होमयेदनले तथा ।
 
 antyeṣtyā suviśguddhānām aśuddhānāṁ ca tadvidhiḥ ॥ 2 I|
-tryahe turye ‘hni \[illegible\] māsi māsy ādyavatsare |
+tryahe turye ‘hni daśame māsi māsy ādyavatsare |
 varṣe varṣe sarvakālari kāryas tatsvaiḥ sa pūrvavat || 3 ||
 tatra prāgvad yajed deva homayed anale tathā | 
 
@@ -212,7 +212,7 @@ The Procedure for the Channels of the Breath (nāḍīvidhiḥ)
 नाडी; प्रवाहयेदेवायार्पयेत निवेदितम् ।
 
 putrako ‘pi yadā kasmaicana syād upakārakaḥ |
-\[illegible\] mātuḥ pituḥ śakter vāmadakṣāntarālagāḥ ॥ 13 ॥
+tadā mātuḥ pituḥ śakter vāmadakṣāntarālagāḥ ॥ 13 ॥
 nādīḥ pravāhayed devāyārpayeta niveditam | 
 
 If a spiritual son is also to help someone (who has died), he should make the channels (of the vital breath) on the left, right and middle, of (his) mother, father and consort (śakti) (respectively), flow (by blowing into them), and offer (the food) presented (niveditam) (to them), to the deity (deva). (13-14ab) 
@@ -259,9 +259,9 @@ Or else, having ordained (vidhāya) (its) accomplishment by his own power alone 
 
 The procedure taught here in one’s own scripture, which concerns all (types of initiates), beginning with (the basic) regular one (samayin), is the correct one (to follow), not the (Vedic) one which is commonly practiced (laukika). Thus, he says: 
 
-[^838]: The reading in the printed edition is -bharunatantre, which Gnoli silently emends to - varuṇatantre. Bhāruṇda is listed as one of the eight Matatantras associated with the Brahmayāmala (alias Picumata) in the Śaiva canon, according to the JY (MS Kh ṣatka 1 fl. 179b). \[illegible\] is listed as one of the eight Tantras of the Mata division of the sixty-four Bhairava Tantras listed there (Dyczkowski 1988: 115, 121). MS \[illegible\] \` reads -bhīrundātantrī for - bharunatantre, which supports a possible emendation to bharundatantre. Bherundā is the name of a Yoginī. She appears as the fifth the of the sixteen Nityās worshipped in Śrīcakra. Her visualized form (dhyāna) and Yantra are described in chapter ten of the Tantrarājatantra. Admittedly, no text with this name has been traced, nor indeed have I come across references to it.
+[^838]: The reading in the printed edition is -bharunatantre, which Gnoli silently emends to - varuṇatantre. Bhāruṇda is listed as one of the eight Matatantras associated with the Brahmayāmala (alias Picumata) in the Śaiva canon, according to the JY (MS Kh ṣatka 1 fl. 179b). Bhāruṇḍī is listed as one of the eight Tantras of the Mata division of the sixty-four Bhairava Tantras listed there (Dyczkowski 1988: 115, 121). MS Ṭ \` reads -bhīrundātantrī for - bharunatantre, which supports a possible emendation to bharundatantre. Bherundā is the name of a Yoginī. She appears as the fifth the of the sixteen Nityās worshipped in Śrīcakra. Her visualized form (dhyāna) and Yantra are described in chapter ten of the Tantrarājatantra. Admittedly, no text with this name has been traced, nor indeed have I come across references to it.
 
-[^839]: The feminine kāryā — ‘should be performed’ indicates a feminine substantive, to which it refers. This is presumable \[illegible\] meaning ‘sacrifice’. Thus, in the following verse (25/16), the rite is called ‘cakreṣṭi’ — ‘sacrifice of the assembly’.
+[^839]: The feminine kāryā — ‘should be performed’ indicates a feminine substantive, to which it refers. This is presumable ‘iṣṭi’ meaning ‘sacrifice’. Thus, in the following verse (25/16), the rite is called ‘cakreṣṭi’ — ‘sacrifice of the assembly’.
 
 [^840]: Concerning the equinoctial day, see above, 6/167ff, especially 6/200cd-204ab.
 
@@ -280,7 +280,7 @@ The Worship of the Assembly When Performing śrāddha for the Ancestors
 yasya kasyāpi vā śrāddhe gurudevāgnitarpanṇam |
 sa cakreṣtiḥ bhavec chrauto na tu syāt pāśavo vidhiḥ ॥ 16 ॥ 
 
-The lustration of the teacher, deity and fire that is done in the course of making offerings to the ancestors (śrāddha), for whomsoever (it may be performed who is initiated), is a sacrifice of the assembly \[illegible\][^842] The procedure should not be Vedic (śrauta), which is (meant for) the uninitiated (paśu).[^843] (16) 
+The lustration of the teacher, deity and fire that is done in the course of making offerings to the ancestors (śrāddha), for whomsoever (it may be performed who is initiated), is a sacrifice of the assembly (cakreṣṭi).[^842] The procedure should not be Vedic (śrauta), which is (meant for) the uninitiated (paśu).[^843] (16) 
 
 #### Viveka on 25.16
 
@@ -339,7 +339,7 @@ He paraphrases the book called Siddhayogīśvarīmata:[^847]
 yā vāhayitum iṣyeta nādī tām eva bhāvayet ॥ 19 ॥
 bhāvanātanmayībhāve sā nāḍī vahati sphuṭam |
 yadvā vāhayituṁ yeṣṭā tadaṁgaṁ tena 0211114 || 20 ॥
-āpīdya \[illegible\] namayet sā vahen nādikā kṣanāt | 
+āpīdya kukṣiṁ namayet sā vahen nādikā kṣanāt | 
 
 (The officiant) should meditate (bhāvayet) on the channel he wishes to cause to flow (with the flux of the breath). When the channel is in a state of oneness (fanmayībhāva) with the meditation (bhāvanā), it clearly (begins to) breathe. Or else, in order to make (the breath) flow (within) that (channel) he chooses (to do so), having pressed that part (of the body) with the (corresponding) hand, he should incline the abdomen (of the corpse). (Then that) channel immediately (begins to) transport (the flow of the breath). (19cd-21ab) 
 
@@ -393,7 +393,7 @@ He justifies (this teaching) with logical argument.
 उपायं गुरुदीक्षादिद्रारमात्रेण संश्रयेत् ।
 
 uddhartā devadevo hi sa cācintyaprabhāvakaḥ ॥ 23 ॥
-\[illegible\] gurudīkṣādi dvāramātreṇa samnśrayet | 
+upāyaṁ gurudīkṣādi dvāramātreṇa samnśrayet | 
 
 Indeed, the one who rescues (all) is the God of gods (Himself), and his power is beyond conception. He resorts to a means, be it the teacher, initiation or the like, solely as (His) instrument. (23cd-24ab) 
 
@@ -569,7 +569,7 @@ There (in that regard), the initiation which serves to accomplish (a preliminary
 
 ‘There’, in this way, there are four kinds of initiation. 1) One (type of initiation) is said to be a means to purification (saṁskāranimitta), and (differs) according to the unifying intention (anusarmhdhāna) (of the teacher, as to whether it should serve) for those who desire worldly benefits or aspire to liberation. 2) (Another type of initiation) is imparted to the adept (sādhaka). It is not immediately related (to the attainment of liberation,) as it is primarily (meant) for (the attainment of) worldly benefits, and so does not liberate (the disciple) 
 
-[^862]: Initiation is of various kinds. The initiation of an ‘extraordinary’ adept is imparted in order that he may obtain worldly benefits, and that of a spiritual son ‘with seed’, to attain liberation. They qualify to practice Yoga and acquire knowledge of the scriptures. Thus, they are preparatory purifications rather than direct means. On the contrary, the initiation of an ‘ordinary’ adept, which serves to attain worldly benefits, and that of a spiritual son ‘without seed’, to attain liberation, are direct means (see above, 15/1). The two types of initiation that concen Abhinavagupta here are the indirect ones to which he refers. The first, which concerns the adepts, can liberate directly, independently of intermediated fruits. In the text of the TSā, I judge that the part \[illegible\] ca tadaśaktān prati mokṣadīkṣā is a gloss of some readers.
+[^862]: Initiation is of various kinds. The initiation of an ‘extraordinary’ adept is imparted in order that he may obtain worldly benefits, and that of a spiritual son ‘with seed’, to attain liberation. They qualify to practice Yoga and acquire knowledge of the scriptures. Thus, they are preparatory purifications rather than direct means. On the contrary, the initiation of an ‘ordinary’ adept, which serves to attain worldly benefits, and that of a spiritual son ‘without seed’, to attain liberation, are direct means (see above, 15/1). The two types of initiation that concen Abhinavagupta here are the indirect ones to which he refers. The first, which concerns the adepts, can liberate directly, independently of intermediated fruits. In the text of the TSā, I judge that the part yā ca tadaśaktān prati mokṣadīkṣā is a gloss of some readers.
 
 [^863]: See above, 16/169-175.
 
@@ -653,7 +653,7 @@ yah sarvathā parāpekṣām ujjhitvā tu sthito nijāt |
 pratyayād yo ‘pi cācāryapratyayād eva kevalāt ॥ 9 ॥
 tau sāmsiddhikanirbījau ko vadec cheṣavṛttaye | 
 
-(However,) he who, having abandoned dependence on anything else in all respects, and abides (well established) by virtue of his own (validating) experience (pratyaya) (of his Śiva nature), as well as one who (is such) solely by virtue of the experience (pratyaya) of the (oneness of) the teacher (with the deity) (is liberated in this life). Who could say (anything) about the way of life that remains (to be observed after having received initiation) (Seṣavṛtti) to those (two), who are ‘spontaneously realized”[^867] (sāṁsiddhika) and ‘without \[illegible\][^868] (respectively)? (9-10ab) 
+(However,) he who, having abandoned dependence on anything else in all respects, and abides (well established) by virtue of his own (validating) experience (pratyaya) (of his Śiva nature), as well as one who (is such) solely by virtue of the experience (pratyaya) of the (oneness of) the teacher (with the deity) (is liberated in this life). Who could say (anything) about the way of life that remains (to be observed after having received initiation) (Seṣavṛtti) to those (two), who are ‘spontaneously realized”[^867] (sāṁsiddhika) and ‘without seed’[^868] (respectively)? (9-10ab) 
 
 #### Viveka on 26.9–10
 
@@ -700,7 +700,7 @@ These two (the spontaneously enlightened and the initiate without seed) are inte
 
 #### Viveka on 26.10
 
-There (in that context), for the purpose of the remaining (post-initiatory) observance \[illegible\] I will teach[^869] the regular (nitya) and occasional (naimittika) (rites,) omitting the optional (magical) (kāmya) (ones), for desires are (very) varied, and so too (equally) 
+There (in that context), for the purpose of the remaining (post-initiatory) observance (śeṣavṛtti), I will teach[^869] the regular (nitya) and occasional (naimittika) (rites,) omitting the optional (magical) (kāmya) (ones), for desires are (very) varied, and so too (equally) 
 
 ### TĀ 26.11
 
@@ -930,7 +930,7 @@ Once (heard) attentively[^886] the Mantra from the teacher’s lips, whether cle
 
 (A breach of secrecy is) ‘a (culpable) defect’. As is said elsewhere with the same intended sense: ‘Accomplishment comes by (maintaining) secrecy.” (The deity is) ‘pure’, (in the sense of) alone (without a partner). ‘Clearly’ means ‘aloud’. As is said (in the Svacchandatantra): 
 
-‘(The Mantra) that is heard only by oneself is known as ‘whispered’ (upāmśu). One that others hear, O goddess, is said to be \[illegible\][^888] 
+‘(The Mantra) that is heard only by oneself is known as ‘whispered’ (upāmśu). One that others hear, O goddess, is said to be ‘aloud’.’[^888] 
 
 ‘Until it is applied’ means up to the time when (one’s) religious practice (anuṣthāna) begins. (This should be done as) ‘taught previously in detail’, that is, with the method (yukti) taught in Chapter Fifteen (above).[^889] 
 
@@ -1057,7 +1057,7 @@ Invocation (ā&vāhana)
 प्रतिबिम्बतया पश्येद्बम्बत्वेन च बोधतः |
 एतदावाहनं मुख्यं व्यजनान्मरुतामिव ॥ ४२ ॥
 
-tato yatheṣtakāle ‘sau \[illegible\] puṣpāsavādibhiḥ ॥ 37 ॥
+tato yatheṣtakāle ‘sau pūjāṁ puṣpāsavādibhiḥ ॥ 37 ॥
 sthandilādau śiśuḥ kuryād vibhavādyanurūpataḥ |
 suśuddhaḥ san vidhi sarvaṁ kṛtvāntarajapāntakam || 38 ॥
 arghapātraṁ purā yadvad vidhāya sveṣtamantrataḥ |
@@ -1277,7 +1277,7 @@ Not for Those Who Aspire to Liberation
 sādhakānām bubhukṣūnārm vidhir niyatiyantritaḥ | 55 ॥
 mumukṣūṇār tattvavidāṁ sa eva tu nirargalaḥ | 
 
-[^917]\[illegible\] the case of adepts (sādhaka) and those who desire worldly benefits, the (specific ritual) procedure (they should follow) (vidhi) is (rigorously) fixed by the constraint (niyati) (which determines that a 
+[^917]In the case of adepts (sādhaka) and those who desire worldly benefits, the (specific ritual) procedure (they should follow) (vidhi) is (rigorously) fixed by the constraint (niyati) (which determines that a 
 
 [^915]: Quoted also above by Abhinava in 15/566 (562). There, the last quarter reads ity ñce bhagavān yataḥ instead of ity ukta kila śíambhunā. The same is quoted again below in TĀv ad 29/22cd. The last quarter is omitted there. In the first instance, it is clear that the source is the Gamatantra. Jayaratha introduces this verse saying that Abhinava is going to quote an authority. It may be that Abhinava is referring to his teacher Śambhunātha here as ‘Śambhv’, but this possibility is precluded by the variant ‘bhagavān’ in 15/566 (562) above. However, there is no reason to doubt that Śambhunātha is meant in the next verse. It does not seem likely that one would say of Śiva that a teaching is his ‘settled opinion’.
 
@@ -1300,10 +1300,10 @@ Surely (one may ask), what is the means (required) for a particular (ritual) pro
 रक्तकपीसतूलेच्छुसतुल्यतद्बीजपुञ्चवत् ।
 सन्ति भोगे विरोषाश्च विचित्रा; कारणेरिताः ॥ ५७ ॥
 
-kārye viíeṣam ādhitsur \[illegible\] kāraṇari spṛśet ॥ 56 ॥ raktakarpāsatūlecchus tulyatadbījapuñjavat |
+kārye viíeṣam ādhitsur viśiṣṭaṁ kāraṇari spṛśet ॥ 56 ॥ raktakarpāsatūlecchus tulyatadbījapuñjavat |
 santi bhoge viśeṣāśca vicitrāḥ kāranṇeritāḥ ॥ 57 ॥ 
 
-One who wants a particular result should lay hold of \[illegible\] the particular (corresponding) cause, just as one who desires (to cultivate) saffron (rakta) and varieties of cotton (karpāsa and tūla) (requires their corresponding) seeds, which are as they are. (Thus,) the (many) particular worldly experiences (bhoga) are determined by (as many) varied causes. (56cd-57) 
+One who wants a particular result should lay hold of (spṛśet) the particular (corresponding) cause, just as one who desires (to cultivate) saffron (rakta) and varieties of cotton (karpāsa and tūla) (requires their corresponding) seeds, which are as they are. (Thus,) the (many) particular worldly experiences (bhoga) are determined by (as many) varied causes. (56cd-57) 
 
 #### Viveka on Dyczkowski's verse 56cd-57
 
@@ -1491,7 +1491,7 @@ The meaning has been explained in a previous (part of the) commentary, and so is
 ### TĀ 26.68
 
 तच्चोक्तं कर्तृतातत्वनिरूपणविधौ पुरा ॥ ६८ ॥
-tac \[illegible\] kartṛtātattvanirīpaṇavidhau purā || 68 || 
+tac coktaṁ kartṛtātattvanirīpaṇavidhau purā || 68 || 
 
 [^924]: See above, 15/259ab. We are told below (32/9cd-10ab) that mudrās are each of four kinds, according to whether they are of body, hands, speech, or the mind.
 
@@ -1522,7 +1522,7 @@ After this, (the deity) should be dismissed, (either) by (applying) the procedur
 dvārapīthaguruvrātasamarpitanivedanāt |
 rte ‘nyat svayam aśnīyād agādhe ‘mbhasy atha kṣipet ॥ 70 ॥ 
 
-Apart from the food offered to teachers, sacred seats \[illegible\] and doors, one may eat the rest oneself, or else throw it into deep water. (70) 
+Apart from the food offered to teachers, sacred seats (pīṭha) and doors, one may eat the rest oneself, or else throw it into deep water. (70) 
 
 #### Viveka on Dyczkowski's verse 70
 
@@ -1606,7 +1606,7 @@ Nor is that said without a basis (in scripture). Thus, he says:
 
 srīmanmatamahāśāstre tad uktaṁ vibhunā svayam |
 saṁkasaṁkocaniṣkāsanaparāyanaḥ ॥ 74 ॥
-bhavet tathā yathānyeṣāṁ \$ \[illegible\] no manasi sphuret | 
+bhavet tathā yathānyeṣāṁ \$ śaṅkā no manasi sphuret | 
 
 mārjayitvā tataḥ snāte puṣpenātha prapūjayet ॥ 75 ॥
 puṣpādi sarvaṁ yatsthańn tadagādhāmbhasi nikṣipet | 
@@ -1659,7 +1659,7 @@ CHAPTER TWENTY-SEVE.
 ### Dyczkowski's verse 1
 
 The Worship of the Liṅga (liṅgārcā)[^933] अथोच्यते लिद्धपूजा सूचिता मालिनीमते ॥ १ ॥
-athocyate \[illegible\] sūcitā mālinīmate ॥ 1 || 
+athocyate liṅgapūjā sūcitā mālinīmate ॥ 1 || 
 
 We will now talk about the worship of the (outer) Liṅga, (a subject that is) mentioned in the Mālinīmata (but not taught there).[^934] (1) 
 

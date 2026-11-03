@@ -46,7 +46,7 @@ According to the Mālinīvijayottara
 मत्स्यसन्धिद्यं त्वेवं दधषिणोत्तरयोर्भवित् ॥३॥
 तन्मध्ये पातयेत्सत्रं दक्षिणोत्तरसिद्धये ।
 
-sādhayitvā diśaṁ \[illegible\] sūtram āsphālayet 54001401 ॥ 1 ॥
+sādhayitvā diśaṁ pūrvāṁ sūtram āsphālayet 54001401 ॥ 1 ॥
 tadardhayitvā madhyaprākpratīcīṣv aṁkayet punaḥ |
 tato ‘py ardhatadardhārdhamānataḥ pūrvapaścimau || 2 I|
 aṅkayet tāvatā dadyāt sūtreṇna bhramayugmakam |
@@ -326,7 +326,7 @@ tac ca pūrṇendum ekar prāgvartitaṁ prāpnuyād yathā |
 anyonyagranthiyogena baddhāratvaṁ prajāyate ॥ 20 ॥
 evam dvitīyapārśve ‘sya khandendudvayavartanāt |
 madhyābhyām gandikā 51151 parābhyām agrato nayet ॥ 21 ॥
-sūtra pārśvadvaye yena \[illegible\] syān madhyaśṛṅgagam |
+sūtra pārśvadvaye yena tīkṣṇaṁ syān madhyaśṛṅgagam |
 pārśvadvayādhare paścād brahmasūtrari dvitīyakam I| 22 ॥
 avadhānena saṁigrāhyam ācāryenṇohavedinā |
 bhavet paścānmukho mantrī tasmiṁś ca brahmasūtrake ॥ 23 ॥
@@ -394,7 +394,7 @@ adho bhāgavivṛddhyāsya padmaṁ vṛttacatuṣtayam |
 tataś cakraṁ ṣodaśāraṁ dvādaśāraṁ dvidhātha tat ॥ 26 ॥
 madhye kuleśvarīsthānari vyoma vā tilakari ca vā |
 padma vātha ṣadarari vā viyaddvādaśakari ca vā I| 27 I|
-\[illegible\] ‘tra saptāre śliṣṭtamātreṇa madhyataḥ |
+tritriśūle ‘tra saptāre śliṣṭtamātreṇa madhyataḥ |
 padmānām atha cakrāṇāri vyomnāṁ vā saptakaṁ bhavet || 28 ॥
 miśritaḥ vātha saṁkīrṇaṁi samāsavyāsabhedataḥ | 
 
@@ -419,7 +419,7 @@ collectively.[^226] (26-29ab)
 
 ‘Underneath’ (the prongs of) the trident and above the staff. (The place) below ‘it’ is a befitting location. Thus, the inner covering of these (parts of the lotus) is (formed) by (the base of the prongs of) the trident, and with them (all) (the covering) of the staff. Thus, it is said that ‘five are its squares, that are concealed by the lotus seat (padmapītha).’[^227] 
 
-(The four circles (around it are formed)) ‘by (progressively) increasing (the number of squares)’ by one and two etc., successively. ‘Double (that number)’ is (a wheel with) twenty-four spokes. Thus, first comes one with twelve spokes, then sixteen and twenty-four. ʻA point \[illegible\] \` means just a dot. They are ‘just grouped together’, not (superimposed) as coverings. The word ‘or’ is in the sense of ‘alternatively’ (as one wishes). Here (in this case, their) commingling takes place on one spoke either ‘all together’, that is, of a lotus, wheel and void (circle), or ‘individually’, of a lotus and wheel, lotus and void (circle), or wheel and void (circle). When their condition is ‘mixed’, they are arranged on separate spokes. 
+(The four circles (around it are formed)) ‘by (progressively) increasing (the number of squares)’ by one and two etc., successively. ‘Double (that number)’ is (a wheel with) twenty-four spokes. Thus, first comes one with twelve spokes, then sixteen and twenty-four. ʻA point (tilaka)’ \` means just a dot. They are ‘just grouped together’, not (superimposed) as coverings. The word ‘or’ is in the sense of ‘alternatively’ (as one wishes). Here (in this case, their) commingling takes place on one spoke either ‘all together’, that is, of a lotus, wheel and void (circle), or ‘individually’, of a lotus and wheel, lotus and void (circle), or wheel and void (circle). When their condition is ‘mixed’, they are arranged on separate spokes. 
 
 Thus, beginning from one, up to six, when they are in groups of two and (are combined with others) elsewhere (on other spokes) one at a time, there are six kinds. In the same way, there are just six (kinds), with groups of three 
 
@@ -562,7 +562,7 @@ svastikadvitayādyaṣṭatayā paryantabhedataḥ |
 bhāvābhāvavikalpena maṇdalānām anantā ॥ 38 ॥
 tato rajārisi deyāni yathāśobhānusārataḥ | 
 
-The extent of the variety of mandalas is innumerable because of these differences. (Moreover) the mandalas are endless (because of the possible differences in their) pedestal \[illegible\] platform (vīthi), the outer ground (for the doors etc.), throat, ears, and cheek, and so (also) because of the differences (in their) main and secondary decorations (śobha) and the (various) options (to make) the parallel lines (of the borders) (gunarekhā); (so too) because of the various (number of) svastikas, that may be two (or more) up to eight, and because (any of these additions) may optionally be present or absent.[^233] Then, (after the doors have been drawn), one should add coloured powders as required to make it beautiful. (36¢d-39ab) 
+The extent of the variety of mandalas is innumerable because of these differences. (Moreover) the mandalas are endless (because of the possible differences in their) pedestal (pīṭha), platform (vīthi), the outer ground (for the doors etc.), throat, ears, and cheek, and so (also) because of the differences (in their) main and secondary decorations (śobha) and the (various) options (to make) the parallel lines (of the borders) (gunarekhā); (so too) because of the various (number of) svastikas, that may be two (or more) up to eight, and because (any of these additions) may optionally be present or absent.[^233] Then, (after the doors have been drawn), one should add coloured powders as required to make it beautiful. (36¢d-39ab) 
 
 #### Viveka on 31.37–38
 
@@ -582,7 +582,7 @@ In the group of six of the first kind, analysed previously in this way, when pai
 परा चनद्रसमप्रख्या रक्ता देवी परापरा ॥ ४० ॥
 अपरा सा परा काटी भीषणा चण्योगिनी ।
 
-\[illegible\] rājavartari ca khaṭikā ca sitottamā ॥ 39 ॥
+sindūraṁ rājavartari ca khaṭikā ca sitottamā ॥ 39 ॥
 uttamāni rajāṁsīha devatātrayayogataḥ |
 parā candrasamaprakhyā raktā devī parāparā ॥ 40 I|
 aparā sā parā kālī bhīṣaṇā candayoginī | 
@@ -599,7 +599,7 @@ Here itself, a lotus and a wheel together in one place, a lotus and a circle tog
 
 [^235]: The rājavartam, according to the editor of the Visnudharmottarapurāna (vol 1, p, 397), is the blue of lapis lazuli.
 
-[^236]: By a play on words, Abhinava implies that the black \[illegible\] Aparā is Kālī, who, as Kālasaṁkarṣiṇī, is identified in her Vidyā with Caṇdayogeśvarī (see above, note 29,170). 31/40cd-41ab is quoted in MM p. 47, no variants. Cf. above, 15/323ab-329ab.
+[^236]: By a play on words, Abhinava implies that the black (kālī) Aparā is Kālī, who, as Kālasaṁkarṣiṇī, is identified in her Vidyā with Caṇdayogeśvarī (see above, note 29,170). 31/40cd-41ab is quoted in MM p. 47, no variants. Cf. above, 15/323ab-329ab.
 
 
 *[p. 85]* ^pg103
@@ -653,7 +653,7 @@ Or what is the use of establishing that the mandala has an endless (number of va
 
 three tridents and seven spokes[^240] etc., he indicates that the (main) types are two hundred and fifty and, in the aforementioned manner, taking as a basis half the group of seven and multiplying by twenty-four due to the variety of moons, there are six thousand trident mandalas (śūlayāga). This is the meaning of the statement. (However, it is written in the Trikasadbhāva that): ‘the trident (mandalas) are six thousand less than two hundred and fifty.’ 
 
-(This is not correct. The text is corrupt. The reading) nūnam (which means ‘less’) or \[illegible\] (that means the same) is (also) wrong, because there is no (grammatical) connection (between the words,) as it is not right to replace an instrumental case with an ablative.[^241] Moreover, here (in this case), one needs to multiply the number two hundred and fifty, and that by which it is multiplied are the twenty-four varieties of moons one arrives at in relation to the seven spokes. The multiplied aggregate amounts to six thousand. When the reading of that word is (taken to be) ‘less’ (āna), there is no reference to multiplication and so it becomes groundless. Here (in this passage) nothing was said before also about multiplication. So enough of this (discussion). The main point (prāya) is this verse: 
+(This is not correct. The text is corrupt. The reading) nūnam (which means ‘less’) or ūnā (that means the same) is (also) wrong, because there is no (grammatical) connection (between the words,) as it is not right to replace an instrumental case with an ablative.[^241] Moreover, here (in this case), one needs to multiply the number two hundred and fifty, and that by which it is multiplied are the twenty-four varieties of moons one arrives at in relation to the seven spokes. The multiplied aggregate amounts to six thousand. When the reading of that word is (taken to be) ‘less’ (āna), there is no reference to multiplication and so it becomes groundless. Here (in this passage) nothing was said before also about multiplication. So enough of this (discussion). The main point (prāya) is this verse: 
 
 ‘Then (after the doors have been drawn), one should add coloured powders . . .’[^242] 
 
@@ -667,7 +667,7 @@ Surely (one may ask), how is it is that it possesses such greatness? With this d
 विश्वान्तः कुण्डलाकारा सा साक्षादत्र वर्तिता ।
 तत्त्वानि तत्त्वेव्यश्च विश्वमस्मिन्प्रतिष्ठितम् ॥ ४४ ॥
 
-yā sā \[illegible\] parā śaktiḥ prāṇavāhā vyavasthitā ॥ 43 ॥
+yā sā devī parā śaktiḥ prāṇavāhā vyavasthitā ॥ 43 ॥
 viśvāntaḥ kundalākārā sā sākṣād atra vartitā |
 tattvāni tattvadevyaś ca viśvam asmin pratiṣthitam || 44 ॥ 
 
@@ -815,7 +815,7 @@ amṛtāmbhodbhavārīṇām śūlāgre tu trikaṁ trikam |
 \[illegible\] itthaṁ prakartavyam aṣtadhā tat tridhāpi vā ॥ 57 ॥
 evar saṁsūcitaṁ divyaṁ khecarīnāṁ purar tv iti | 
 
-This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses \[illegible\][^253] and (just implicitly) mentioned in the Siddhayogīśvarīmata.[^254] 
+This is stated in the hidden, supreme Ṣadardhahṛdaya of six thousand verses (ṣaṭka),[^253] and (just implicitly) mentioned in the Siddhayogīśvarīmata.[^254] 
 
 [^251]: The four processes — kramacatuṣtaya — is a clear reference to Krama, which this form of the Trika mangala incorporates in this way. Abhinava tells us in the next line that this is drawn from the Trikahṛdaya. Thus, this Trika Tantra, like the Devyāyāmala, incorporated Krama elements into the Trika Trident mandala. Note that here and in the following verses, that are clearly drawn from the Trikahṛdaya, the Trident mangala is not quite the same as the one just described in the Trikasadbhāva / Trikasāra. Thus, there can be no doubt that the two are quite separate Tantras.
 
@@ -910,7 +910,7 @@ siddhātantre trikakule devyāyāmalamālayoḥ ॥ 60 ॥
 yathoktaḥ sāraśāstre ca tantrasadbhāvaguhyayoḥ |
 tathā pradarśyate spaṣtaṁ yady apy uktakramād kṛtaḥ[^265] | 61 ॥ 
 
-Now, although the placement of the tridents and \[illegible\][^266] has (already) been done according to the stated procedure (krama) as it is taught in 
+Now, although the placement of the tridents and lotuses[^266] has (already) been done according to the stated procedure (krama) as it is taught in 
 
 the Sāraśāstra 
 
@@ -995,9 +995,9 @@ How is that? (In response to this question,) he says:
 तयोरपरमर्मस्थं खण्डन्ुद्रयकोटिगम् \` बहिर्मुखं भ्रमं कुयात् खण्डचनरदय द्रयम् ॥ ६६ ॥
 तद्र् ब्रह्मणि कुर्वीत | भागभागार्धसंमितम् ।
 
-tayor antas \[illegible\] tu dakṣiṇottarapārśvayoḥ |
+tayor antas tṛtīye tu dakṣiṇottarapārśvayoḥ |
 jīve khaṇndenduyugalaṁ kuryād antarbhramād budhaḥ || 65 ॥
-tayor \[illegible\] \[illegible\] \[illegible\] khandendudvayakotigam |
+tayor aparamarmasthaṁ khandendudvayakotigam |
 bahirmukhaṁ bhramaṁ kuryāt khandacandradvayai dvayam ॥ 66 ॥ tadvad brahmani kurvīta bhāgabhāgārdhasarimitam | 
 
 On a third living thread between those two on the southern (right) and northern (left) side, the wise man should fashion a pair of half-moons by turning (the thread) towards the inside, after that he should fashion (another) two pairs of half-moons (two on the right and two on the left), facing outwards, located on another junction (between squares with respect to the preceding ones), touching at the extremities of the two half-moons. In the same way, he should fashion (two half-moons) measuring one square and a half square, on the (thread of) Brahmā.[^276] (65-67ab) 
@@ -1097,7 +1097,7 @@ ekaikabhāgamānāni kuryād vṛttāni vedavat ॥ 74 ॥
 
 [^282]: 31/71cd-73 = MV 9/16ab, 17cd-19ab.
 
-[^283]: Abhinava omits MV 9/16cd-17ab, which is quoted by Jayaratha, who explains that four of the five squares are covered by the lotus, and one by the pedestal \[illegible\] See below. Jayaratha observes that the two handspans of the length of staff include the squares for the door. Thus, it is in actual fact only one and a half handspans long.
+[^283]: Abhinava omits MV 9/16cd-17ab, which is quoted by Jayaratha, who explains that four of the five squares are covered by the lotus, and one by the pedestal (pīṭha). See below. Jayaratha observes that the two handspans of the length of staff include the squares for the door. Thus, it is in actual fact only one and a half handspans long.
 
 [^284]: Without the doorways, the mandala measures three handspans on each side.
 

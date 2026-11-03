@@ -40,7 +40,7 @@ Surely (one may ask,) if one does not practice the common observances prescribed
 ### TĀ 4.251
 
 नान्यशासख्रसमुदिष्टं सोतस्युक्तं निजे चरेत् ॥ २५९१ ॥
-nānyaśāstrasamuddiṣtaṁ srotasy \[illegible\] nije caret ॥ 251 ॥ 
+nānyaśāstrasamuddiṣtaṁ srotasy uktaṁ nije caret ॥ 251 ॥ 
 
 One should practice what is taught in one’s own current (of scriptures) (srotas), not what is taught in other scriptures.[^905] (251cd) 
 
@@ -54,7 +54,7 @@ One should practice what is taught in one’s own current (of scriptures) (srota
 
 scriptures,[^907] nor (some) other deity.” 
 
-[^904]: The same verse is quoted by Aparāditya in his commentary \[illegible\] on the Yājñavalkyasmṛti 1/7. Sanderson (2006: 23) observes: “The Śaivas claimed to have access through their Tantras to a ritual life which was higher and more potent than the Vedic. But they were Vedic to the extent that like all Hindus of caste, they had been purified by the Vedic rites of passage (saṁskāraḥ), from conception to investiture (upanayanam) and (optionally) marriage. Even when they had gone through the ceremony of initiation (dīkṣā), the Tantric rite of passage which gave them access to Śaiva ritual, they were still bound to conform to the rules of the Veda-based social system (varnāśramadharmaḥ) and its local variants (deśadharmaḥ). The Śaiva initiate therefore saw himself as subject to two levels of injunction: the general or common Vedic level and the special level reached by initiation.’ See also Sanderson 2007a: 231- 232.
+[^904]: The same verse is quoted by Aparāditya in his commentary (ṭīkā) on the Yājñavalkyasmṛti 1/7. Sanderson (2006: 23) observes: “The Śaivas claimed to have access through their Tantras to a ritual life which was higher and more potent than the Vedic. But they were Vedic to the extent that like all Hindus of caste, they had been purified by the Vedic rites of passage (saṁskāraḥ), from conception to investiture (upanayanam) and (optionally) marriage. Even when they had gone through the ceremony of initiation (dīkṣā), the Tantric rite of passage which gave them access to Śaiva ritual, they were still bound to conform to the rules of the Veda-based social system (varnāśramadharmaḥ) and its local variants (deśadharmaḥ). The Śaiva initiate therefore saw himself as subject to two levels of injunction: the general or common Vedic level and the special level reached by initiation.’ See also Sanderson 2007a: 231- 232.
 
 [^905]: This line is a brief paraphrase of a verse from the Sarvajñānottara quoted by Jayaratha.
 
@@ -147,7 +147,7 @@ He says that:
 
 *[p. 354]* ^pg367
 
-saṅkocatāratamyena \[illegible\] jñānam īritam |
+saṅkocatāratamyena pāśavaṁ jñānam īritam |
 vikāsatāratamyena patijñānaṁ tu bādhakam || 253 ॥ 
 
 It is said that the knowledge of the fettered (pēśava) (and its corresponding scriptures) accords with the degree of its contraction (saṁhkoca). The knowledge of the Lord (pati) (and His scripture) is that which cancels (it) (bādhaka), in accord with the degree of its expansion. (253) 
@@ -167,7 +167,7 @@ c) Commentary on the words ‘there is neither duality nor nonduality.’
 ददं ्ैतमिदं नेति परस्परनिषेधतः |
 मायीयभेदक्लृप्तं तत्स्यादकाल्पनिके कथम् ॥ २५४ ॥
 
-\[illegible\] dvaitam idar neti parasparaniṣedhataḥ |
+idaṁ dvaitam idar neti parasparaniṣedhataḥ |
 māyīyabhedaklṛptari tat syād akālpanike (4114771 ॥ 254 ॥ 
 
 (The notions that) ‘this is duality (dvaita)’ or ‘this is not (duality)’ contradict one another. Thus, they have been fashioned by the duality 
@@ -237,7 +237,7 @@ it be enjoined or prohibited?[^923] (256-257ab)
 
 #### Viveka on 4.256–257
 
-The worship of the 11728 is enjoined ‘in the Siddhānta’, which is a dualist philosophy, in order to know the nature of ‘the cosmic order’ consisting of the thirty-six principles. The point is that the Supreme Lordď’s Liṅga has encompassed the entire expanding development (prapañca) of the (cosmic) path, and so by worshiping it, this entire universe is made (to appear before the worshiper) in a directly evident manner \[illegible\] As (the Siddhāntins) say: 
+The worship of the 11728 is enjoined ‘in the Siddhānta’, which is a dualist philosophy, in order to know the nature of ‘the cosmic order’ consisting of the thirty-six principles. The point is that the Supreme Lordď’s Liṅga has encompassed the entire expanding development (prapañca) of the (cosmic) path, and so by worshiping it, this entire universe is made (to appear before the worshiper) in a directly evident manner (sākṣātkṛta). As (the Siddhāntins) say: 
 
 ‘These (worshippers) engaged in meditation (experience) pervasion within the Liṅga up to Supreme Siva, in (its) pedestal (pītha) up to Sadāśiva, and in Brahmā’s Stone (brahmaśilā) (in its foundation) up to Māyā.’[^924] 
 
@@ -251,7 +251,7 @@ Again, (on the contrary,) ‘in the Kula (systems) and the like’ that (adhere 
 
 [^923]: In other words, Trika is superior to both the injunctive, prescriptive Siddhānta and the transgressive Kula, because it accepts both views, according to circumstance. The applicability of injunctions is not absolute and invariable. It depends upon the state of consciousness of the practitioner. Abhinava agrees that the injunctive Siddhānta is the Śaivism of initiates at the basic level. Higher than that are the schools that he collectively characterizes as Kula, that rejects normative behaviour, even that of the Śaiva ascetic (including the Kāpālika!) However, they fall short of the highest level of nonduality. Just as oneness in metaphysical terms is not established by rejecting duality. It is the perfect and complete inclusion of all possible levels. The same applies to praxis. Abhinava’s insistence on the applicability of injunctions and prohibitions implies that any one may be applied, according to its utility for a given practitioner. At the same time, and without contradiction, they can be transcended in the higher states of consciousness to which Trika gives access, through empowering grace, penetration and absorption into consciousness. This is not negation of the Brahminical moral order, it is the affirmation of freedom to both comply and transcend.
 
-[^924]: The Liṅga, along with its pedestal, extends for the full length of the series of thirty-six principles. The Brahma Stone is underground, below the base of the Liṅga, which fits into it. It contains the principles from Earth to Māyā. The base of the Liṅga above ground is its pedestal \[illegible\] which covers the first three pure principles beyond Māyā up to Sadāśiva. The Liṁga itself contains the following principles up to Supreme Śiva.
+[^924]: The Liṅga, along with its pedestal, extends for the full length of the series of thirty-six principles. The Brahma Stone is underground, below the base of the Liṅga, which fits into it. It contains the principles from Earth to Māyā. The base of the Liṅga above ground is its pedestal (pīṭha), which covers the first three pure principles beyond Māyā up to Sadāśiva. The Liṁga itself contains the following principles up to Supreme Śiva.
 
 
 *[p. 358]* ^pg371
@@ -270,7 +270,7 @@ Now he talks about the collection (of ascetic practices), such as (having) matte
 
 e) Commentary on the words: ‘(such practices of having) matted hair, (smearing the body) with ashes and the like’ 
 
-[^925]: vajed ādhyātmikar \[illegible\] bāhyaṁ liṅgaṁ na pūjayet | Cf. MV 18/2cd-3: mṛcchailadhāturatnādibhavari liṁgaṁ na pūjayet ॥ 2 ॥ yajed ādhyātmikar liṅgaṁ yatra līnaṁ carācaram | bahirliṅgasya liṅgatvam anenādhiṣthitaṁ ॥ 3 Il ‘The Yogi should not worship a Liṅga made of earth, stone, metal, gems and the like, rather he should sacrifice to the inner (ādhyātmika) Liṁga where (the whole universe, with all) moving and immobile things, rests. For (indeed,) the essential nature of the outer Liṅga is empowered by this (inner Liṅga.’ MV 18/2cd-3ab is quoted in TĀv ad 4/23 1cd-232ab; MV 18/3a is quoted in TĀv ad 27/1 MV 18/2cd-3 is quoted in TĀv ad 5/121cd (120cd).
+[^925]: vajed ādhyātmikar liṅgaṁ bāhyaṁ liṅgaṁ na pūjayet | Cf. MV 18/2cd-3: mṛcchailadhāturatnādibhavari liṁgaṁ na pūjayet ॥ 2 ॥ yajed ādhyātmikar liṅgaṁ yatra līnaṁ carācaram | bahirliṅgasya liṅgatvam anenādhiṣthitaṁ ॥ 3 Il ‘The Yogi should not worship a Liṅga made of earth, stone, metal, gems and the like, rather he should sacrifice to the inner (ādhyātmika) Liṁga where (the whole universe, with all) moving and immobile things, rests. For (indeed,) the essential nature of the outer Liṅga is empowered by this (inner Liṅga.’ MV 18/2cd-3ab is quoted in TĀv ad 4/23 1cd-232ab; MV 18/3a is quoted in TĀv ad 27/1 MV 18/2cd-3 is quoted in TĀv ad 5/121cd (120cd).
 
 [^926]: Read iti yata for iti | yata.
 
@@ -299,7 +299,7 @@ jaṭādi kaule tyāgo ‘sya sukhopāyopadeśataḥ |
 
 [^929]: More commonly we come across six insignias (mudrā) worn by Śaiva (Kāpālika) and Buddhist Vajrayāna ascetics. They are the necklace (kunṭhikā), bracelets (rucaka), earrings (kundala), crest jewel (śikhāmani), ashes (bhasman) and sacred thread (of human hair) (yajñopavīta). See Dyczkowski 1988: 27.
 
-[^930]: This reference is drawn from a Kula work of the same kind as the (unpublished) Kulapañcaśikā, that proclaims itself to be by Matsyendranātha. Indeed, this verse reads like an abbreviated version of KuPa 3/20-21ab. Here they read: jaṭī mundī śikhī dandī pañcamudrāvibhūṣitaḥ | pramādān maithunaṁ kṛtvā mama drohī maheśvari Il KuPa 3/19 is quoted by Kṣemarāja in his commentary on Śivasūtra 3/26. The entire passage from which both references are drawn reads: yogavit \[k: -vi\] kulamārgajñaḥ medhāvī gurupūjakaḥ \[k: kuru-\] | devībhaktaḥ \[k: -bhakta\] suguptātmā gurur ity abhidhīyate || 17 || yady api te trikālajñās \[k, kh: -jñā\] trailokyākarṣaṇe kṣamāḥ | tathāpi samvṛtācārāḥ \[k: -rā\] pālayanti kulodbhūtam \[k, kh: kulodbhatī\] \\\\ 18 ॥ avyaktaliṅginaṁ \[k: -tarn\] dṛṣtvā saṁhbhāṣanti \[k, kh: sambhāsanti\] marīcayaḥ | liṅginaṁ nopasarpanti atiguptā yataḥ \[k: yata; kh: yatat\] priye \[k: priyet\] 19 | jaṭī mundi śīkhī dandī \[k: sikhī; kh: bhasmī\] mudrāpañcakabhūṣitaḥ \[k, kh: -tam\] | vratacaryāsamopetaḥ \[k, kh: -tarn\] yastu sevati \[k,kh: sevanti\] maithunam |I 20 ॥ vīrapānarato \[kh: -ratā\] devi mama \[illegible\] \[k, kh: dehe\] maheśvari | Kulapañcaśikā 3/17-21ab ʻA (true) teacher is said to be one who knows yoga and the Kula path and, wise, worships (his) teacher and, devoted to the Goddess, keeps his (true) nature well concealed (and protected). Although these (initiates) know the three times and can attract (any being) in the three worlds, even so, they keep (their) practice hidden and protect (the teachings) born from (their) Kula. (The yoginīs who are) the rays (of the energies of the deity), seeing (an ascetic) without (outer) manifest insignia, converse (with him). O beloved, they do not approach one who bears insignia, for they are very secret.\* ‘O Maheśvarī, one who, observing (Śaiva ascetic) vows, has matted hair (or) is clean shaven, has a topknot (sikhin), carries a (sacred) staff,\*\* (or) is adorned with the five insignias (of a Kāpālika), who is devoted to drinking alcohol (vīrapāna) and indulges (in illicit) sexual intercourse, offends me.” \*Quoted by Kṣemarāja in commentary on the Śivasūtra 3/26.
+[^930]: This reference is drawn from a Kula work of the same kind as the (unpublished) Kulapañcaśikā, that proclaims itself to be by Matsyendranātha. Indeed, this verse reads like an abbreviated version of KuPa 3/20-21ab. Here they read: jaṭī mundī śikhī dandī pañcamudrāvibhūṣitaḥ | pramādān maithunaṁ kṛtvā mama drohī maheśvari Il KuPa 3/19 is quoted by Kṣemarāja in his commentary on Śivasūtra 3/26. The entire passage from which both references are drawn reads: yogavit \[k: -vi\] kulamārgajñaḥ medhāvī gurupūjakaḥ \[k: kuru-\] | devībhaktaḥ \[k: -bhakta\] suguptātmā gurur ity abhidhīyate || 17 || yady api te trikālajñās \[k, kh: -jñā\] trailokyākarṣaṇe kṣamāḥ | tathāpi samvṛtācārāḥ \[k: -rā\] pālayanti kulodbhūtam \[k, kh: kulodbhatī\] \\\\ 18 ॥ avyaktaliṅginaṁ \[k: -tarn\] dṛṣtvā saṁhbhāṣanti \[k, kh: sambhāsanti\] marīcayaḥ | liṅginaṁ nopasarpanti atiguptā yataḥ \[k: yata; kh: yatat\] priye \[k: priyet\] 19 | jaṭī mundi śīkhī dandī \[k: sikhī; kh: bhasmī\] mudrāpañcakabhūṣitaḥ \[k, kh: -tam\] | vratacaryāsamopetaḥ \[k, kh: -tarn\] yastu sevati \[k,kh: sevanti\] maithunam |I 20 ॥ vīrapānarato \[kh: -ratā\] devi mama drohī \[k, kh: dehe\] maheśvari | Kulapañcaśikā 3/17-21ab ʻA (true) teacher is said to be one who knows yoga and the Kula path and, wise, worships (his) teacher and, devoted to the Goddess, keeps his (true) nature well concealed (and protected). Although these (initiates) know the three times and can attract (any being) in the three worlds, even so, they keep (their) practice hidden and protect (the teachings) born from (their) Kula. (The yoginīs who are) the rays (of the energies of the deity), seeing (an ascetic) without (outer) manifest insignia, converse (with him). O beloved, they do not approach one who bears insignia, for they are very secret.\* ‘O Maheśvarī, one who, observing (Śaiva ascetic) vows, has matted hair (or) is clean shaven, has a topknot (sikhin), carries a (sacred) staff,\*\* (or) is adorned with the five insignias (of a Kāpālika), who is devoted to drinking alcohol (vīrapāna) and indulges (in illicit) sexual intercourse, offends me.” \*Quoted by Kṣemarāja in commentary on the Śivasūtra 3/26.
 
     \*\* Read with the citation in the TĀv dandi- for K: sikhī and Kh: bhasmī. Kṣemarāja quotes another two verses from the Kulapañcaśikā in NTu ad 8/28 (vol. 1, p. 191). However, they cannot be traced in the two extant manuscripts. They are also concerned with the maintenance of secrecy: yan nāsti sarvalokasya tad astīti virudhyate | nigadyate yadā devi hṛdaye na prarohati \\\\ etasmāt kāraṇād devi devatābhiḥ pragopitam \\ tena siddhena deveśi kir na siddhyati bhūtale || \*It is a contradiction (to maintain that) what does not exist in all the world does exist. O goddess, if one voices that (view), it does not grow in the heart. O goddess, for that reason it has been concealed by the deities. O queen of the gods, when that has been accomplished, what has not been accomplished on the surface of the earth?’
 
@@ -344,7 +344,7 @@ As that is so here in this case (according to the Trika Kaula view):
 
 Such statements impart the teaching concerning ‘the means that is pleasing’, in order to realise the Supreme Lord’s nature easily without effort, even when (immersed) in a (pleasing) contact with the objects of the senses.[^937] As is taught (in the Svabodhodayamañjarī): 
 
-‘(The teachers who came) before taught (how to bring about) the cessation (of the activity of the senses and mind) (nirodha) by (repeated) practice and dispassion (vairāgya). (But) we teach that this cessation (comes about)[^938] effortlessly (by desisting from \[illegible\][^939] 
+‘(The teachers who came) before taught (how to bring about) the cessation (of the activity of the senses and mind) (nirodha) by (repeated) practice and dispassion (vairāgya). (But) we teach that this cessation (comes about)[^938] effortlessly (by desisting from effort).’[^939] 
 
 [^936]: This line is also quoted above in the commentary on 1/4. See there for details. The second line of this verse declares: ‘For those who possess that same Being and who do not (need to) take the support of rules and regulation (niyama), (all) talk of meditation and (outer) worship is a deceit.”
 
@@ -409,7 +409,7 @@ Now in order to explain (the words) ‘entry into the sacred meeting grounds (ks
 kṣetrapīthopapītheṣu praveśo vighnaśāntaye ॥ 259 ॥
 mantrādyārādhakasyātha tallābhāyopadiśyate | 
 
-Entry (praveśa) into the sacred meeting grounds (kṣetra) and the sacred seats, both primary \[illegible\] and secondary (upapīṭha), is taught (in Kula Tantras) in order to quell obstacles (to the success of one’s practice). Now, in the case of one who propitiates (a particular) Mantra (deity) and the like, (residence in such places) is taught (as a means), in order to attain that (mastery through it and the benefits it bestows).[^944] (259cd-260ab) 
+Entry (praveśa) into the sacred meeting grounds (kṣetra) and the sacred seats, both primary (pīṭha) and secondary (upapīṭha), is taught (in Kula Tantras) in order to quell obstacles (to the success of one’s practice). Now, in the case of one who propitiates (a particular) Mantra (deity) and the like, (residence in such places) is taught (as a means), in order to attain that (mastery through it and the benefits it bestows).[^944] (259cd-260ab) 
 
 #### Viveka on 4.259–260
 
@@ -463,7 +463,7 @@ h) Commentary on the words ‘the observance of the Rule (samaya) etc.’
 samayācārasadbhāvaḥ pālyatvenopadiśyate ॥ 261 ॥
 bhedaprānṇatayā tattattyāgāt tattvaviśuddhaye |
 samayādiniṣedhas tu mataśāstreṣu kathyate ॥ 262 ॥
-nirmaryādaṁ svasabodhami \[illegible\] buddhyatām iti | 
+nirmaryādaṁ svasabodhami saṁpūrṇaṁ buddhyatām iti | 
 
 [^947]: See above, note 4,831 concerning the distinction between Kula Tantras that are injunctive and Kaula/Mata ones that are not.
 
@@ -490,7 +490,7 @@ for example, by abandoning other scriptures, (one) progresses in (the teaching o
 
 ‘He on whom Mantra has not been deposited should not sit (to take part in the rites). Nor should he resort to other scriptures. Knowledge which is not fully developed may vacillate[^952] by reflecting (bhāvana) on (scriptures) other (than one’s own).’[^953] 
 
-However, ‘the observance of the Rule and the rest is prohibited in the Mata scriptures’, which (in some aspects are) the same (and at the same level as our own, and in others) differ. And he says that that (is the view) in that book (with the words) ‘unconfined’ etc. That is the supreme reality, namely, ‘one’s own consciousness’, which is self-luminous (svaprakāśa), and so, because it is not dependent on anything else, it is ‘(perfect and) all-embracing in all respects’, and so because it is unconditioned (aniyata) by nature, it is ‘unconfined’ and not restricted (by rules and regulations). The meaning is that (this is what) ‘one should realize’ and experience (for oneself). The point is, how can the observance of the Rule, which is associated with thousands of requirements to give up (this) and take up (that) etc., serve as a means to (attaining a state of) purity within the supreme principle which is like this?[^954] Now he wishes to explain (the words) ‘one’s own and others’ icons (rūpa), sectarian insignia \[illegible\] (initiatory) names and clans (gotra) or the like’.[^955] So, in due order, he (first) explains what is meant by ‘one’s own’ and ‘others” form. 
+However, ‘the observance of the Rule and the rest is prohibited in the Mata scriptures’, which (in some aspects are) the same (and at the same level as our own, and in others) differ. And he says that that (is the view) in that book (with the words) ‘unconfined’ etc. That is the supreme reality, namely, ‘one’s own consciousness’, which is self-luminous (svaprakāśa), and so, because it is not dependent on anything else, it is ‘(perfect and) all-embracing in all respects’, and so because it is unconditioned (aniyata) by nature, it is ‘unconfined’ and not restricted (by rules and regulations). The meaning is that (this is what) ‘one should realize’ and experience (for oneself). The point is, how can the observance of the Rule, which is associated with thousands of requirements to give up (this) and take up (that) etc., serve as a means to (attaining a state of) purity within the supreme principle which is like this?[^954] Now he wishes to explain (the words) ‘one’s own and others’ icons (rūpa), sectarian insignia (liṅga), (initiatory) names and clans (gotra) or the like’.[^955] So, in due order, he (first) explains what is meant by ‘one’s own’ and ‘others” form. 
 
 i) Commentary on the words ‘one’s own and others’ icons (rūpa), sectarian insignia (liṁga), (initiatory) names and clans (gotra) or the like’ 
 
@@ -531,7 +531,7 @@ The expression (in the Mālinīvijayottara) ‘and the rest’ (refers to other 
 
 ‘Austerity’ (includes penances such as) the Cāndrāyaṇa.[^959] (By) ‘observances’ (is meant the Śaiva observance of) right conduct (ācāra) taught 
 
-[^956]: Sanderson suggests the reading \[illegible\] liṁgaṁ for "10400060 The reason he gives is that ‘there is no evidence that a flame was ever a Saiva insignium and because it is in any case implausible that it would have been, since the insignia in question are attributes carried by ascetics that enable those who see them to identify the tradition to which they belong.’ Sanderson 2005b 120 n. 77.
+[^956]: Sanderson suggests the reading śūlādi liṁgaṁ for "10400060 The reason he gives is that ‘there is no evidence that a flame was ever a Saiva insignium and because it is in any case implausible that it would have been, since the insignia in question are attributes carried by ascetics that enable those who see them to identify the tradition to which they belong.’ Sanderson 2005b 120 n. 77.
 
 [^957]: Read śūlādi for jvālādi.
 
@@ -613,11 +613,11 @@ Now he explains the meaning of the words ‘and the like’ (in the expression) 
 ādiśabdena ca gharar pallī pīthopapīthakam ॥ 267 ॥
 mudrā chummeti teṣām ca vidhānaṁ svaparasthitam | 
 
-The expression ‘and the like’ alludes to the hermitage (ghara) (where the teachers resided), the village (which was their begging place) (pallī), the sacred seats, primary and secondary \[illegible\] upapītha) (of the 
+The expression ‘and the like’ alludes to the hermitage (ghara) (where the teachers resided), the village (which was their begging place) (pallī), the sacred seats, primary and secondary (pīṭha, upapītha) (of the 
 
 [^965]: Concerning these orders, see above note 1,161, TĀv ad 1/7. Abhinava refers again to these orders below in 36/1 1cd-14.
 
-[^966]: The Kaula teachings were revealed in each of the four cosmic Ages (yuga) by a Yuganātha — Lord of the Age. In the first — kṛta - Age he was Khagendranātha. In the second — dvāpara - Age, he was Kūrmanātha. In the third — \[illegible\] ~ Age, he was Meṣanātha. In this, the fourth — kali — Age, he was Matsyendranātha (also called Mīnanātha). See below, 29/29cd-32ab and Dyczkowski 1988: 80-81 and 2009: intro. 2, 307-11, The worship of these teachers is a standard part of the worship of the teachers in Kaula rites of all Kaula schools (apart from Śrīvidyā). Accordingly, Abhinava teaches their worship as an essential preliminary to the Kula rites taught in Chapter Twenty-nine (see 29/29cd-33ab). Indeed, this, like the following elements listed up to verse 268, are all specific characteristics of Kaula systems. Their absence in the MV indicates that it is not, essentially, a Kula Tantra. Abhinava understands this to mean that it is amongst the Mata scriptures, that are higher than Kula.
+[^966]: The Kaula teachings were revealed in each of the four cosmic Ages (yuga) by a Yuganātha — Lord of the Age. In the first — kṛta - Age he was Khagendranātha. In the second — dvāpara - Age, he was Kūrmanātha. In the third — – tretā – ~ Age, he was Meṣanātha. In this, the fourth — kali — Age, he was Matsyendranātha (also called Mīnanātha). See below, 29/29cd-32ab and Dyczkowski 1988: 80-81 and 2009: intro. 2, 307-11, The worship of these teachers is a standard part of the worship of the teachers in Kaula rites of all Kaula schools (apart from Śrīvidyā). Accordingly, Abhinava teaches their worship as an essential preliminary to the Kula rites taught in Chapter Twenty-nine (see 29/29cd-33ab). Indeed, this, like the following elements listed up to verse 268, are all specific characteristics of Kaula systems. Their absence in the MV indicates that it is not, essentially, a Kula Tantra. Abhinava understands this to mean that it is amongst the Mata scriptures, that are higher than Kula.
 
 [^967]: See above, note ad 1/7 and Dyczkowski 1988: 62, 69, 104 and 123.
 
@@ -648,7 +648,7 @@ goddess), the gestures (mudrā) and the secret signs (chummā).[^970] (These too
 
 [^975]: For kumbhārabhillikākṣarapallī 29/38d and MSs ch, jh, read kumbhārikākṣarākhyā ca.
 
-[^976]: Drawn from below, 29/35-39, with the few minor variants noted there. The source of these verses is the lost Kulakrīdāvatāra. In the following verse we are told: ‘If one who knows (these) conventional signs (saṁketa) and desires accomplishments (siddhi) roams in the sacred seats \[illegible\] he quickly attains from the mouth of the Yoginī all that that he desires.’ See Dyczkowski 2009: intro 2, 360 ff, especially 362, for a chart with all these correspondences, and more.
+[^976]: Drawn from below, 29/35-39, with the few minor variants noted there. The source of these verses is the lost Kulakrīdāvatāra. In the following verse we are told: ‘If one who knows (these) conventional signs (saṁketa) and desires accomplishments (siddhi) roams in the sacred seats (pīṭha), he quickly attains from the mouth of the Yoginī all that that he desires.’ See Dyczkowski 2009: intro 2, 360 ff, especially 362, for a chart with all these correspondences, and more.
 
 
 *[p. 375]* ^pg388
@@ -662,7 +662,7 @@ Surely (one may ask), what is the purpose of imparting the teaching concerning t
 तादातम्यप्रतिपतत्यै हि स्वं संतानं समाश्रयेत् ॥ २६८ ॥
 भु्धीत पूजयेच्चक्रं परसंतानिना नहि ।
 
-tādātmyapratipattyai hi \[illegible\] saṁitānaṁ samāśrayet ॥ 268 ॥
+tādātmyapratipattyai hi svaṁ saṁitānaṁ samāśrayet ॥ 268 ॥
 bhuñjīta pūjayec cakrań parasaritāninā nahi | 
 
 (A Kaula initiate should know these things, because) in order to attain a state of oneness (with his deity, he) should remain faithful (samāśrayet) to his own lineage (santāna). He must not enjoy[^977] and worship 
@@ -772,7 +772,7 @@ Surely (one may ask,) if that is the case, when one desires to talk about the su
 उपायं वेत्ति स ग्राह्यस्तदा त्याज्योऽथ वा क्वचित् ॥ २७३ ॥
 न यत्रणात्र कार्येति प्रोक्तं श्रीत्रिकशासने ।
 
-paratattvapraveśe tu yam eva \[illegible\] \[illegible\] yadā |
+paratattvapraveśe tu yam eva nikaṭaṁ yadā |
 upāyar vetti sa grāhyas tadā tyājyo ‘tha vā kvacit ॥ 273 ॥
 na yantranātra kāryeti proktari śrītrikaśāsane | 
 
@@ -886,7 +886,7 @@ himānīva mahāgrīṣme svayam eva vilīyate |
 
 The clutter of fettered existence (bhāvadambara) spontaneously dissolves away, like snow in the intense heat of summer, for those who find 
 
-rest in this sacrifice \[illegible\][^994] (277cd-278ab) (277) 
+rest in this sacrifice (yāga).[^994] (277cd-278ab) (277) 
 
 #### Viveka on 4.277
 

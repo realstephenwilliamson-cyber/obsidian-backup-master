@@ -63,7 +63,7 @@ For astrologers who advise people on auspicious times to begin activities, calle
 
 The rithi calculation is not a static angle, but one in which both luminaries are moving. The Sun (from a geocentric perspective) is moving at the same time as the Moon is, but slower. The Sun moves approximately one degree for every 13 degrees of lunar motion,[^593] resulting in 12 degrees of angle between the luminaries. 
 
-[^592]: The tithis are each correlated the eight mothers (Brāhmī, \[illegible\] Kaumarī, etc) in TĀ
+[^592]: The tithis are each correlated the eight mothers (Brāhmī, Caṇḍī, Kaumarī, etc) in TĀ
 
 [^593]: The mean sidereal angular motion is about 13.1764° or 13° 10' 35" per day.
 
@@ -426,7 +426,7 @@ A normal tithi begins on one day and another tithi begins on the following day. 
 
 A tithi ends and another begins at the same moment on all parts of the earth’s surface, but sunrise time varies for each place. In this way, the tithi at sunrise will not be the same in all places and a vṛddha or kṣaya tithi will not be on the same day everywhere on the planet. The term for kṣayatithi used by Abhinavagupta in TĀ 6/109 is a ‘vanished rith? 
 
-(tithicheda). He calls a vanished rithi a debt (rna), and a vṛddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing \[illegible\] and the slow-moving Moon of a vṛddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these kṣaya and vṛddha tithis create. 
+(tithicheda). He calls a vanished rithi a debt (rna), and a vṛddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing (kāsa) and the slow-moving Moon of a vṛddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these kṣaya and vṛddha tithis create. 
 
 Super Moons 
 
@@ -515,7 +515,7 @@ the stars a the zodiac so that soon N will be in Aquarius
 
 The relationship between the zodiac and the spring equinox in 2000 CE 
 
-[^631]: Suśruta \[illegible\] (Sūtrasthāna 6/6) mentions the name of the seasons and their corresponding seasonal months.
+[^631]: Suśruta Saṁhitā (Sūtrasthāna 6/6) mentions the name of the seasons and their corresponding seasonal months.
 
 *[p. 517]* ^pg532
 
@@ -787,7 +787,7 @@ JUL 25, 1265
 
 09GE42 | DEC 18, 1603 08SA19 FEB 15, 1941 09TA07 DEC 31. 1285 | 08AQ02 JUL 16, 1623 06LE36 FEB 19, 1961 25CP12 DEC 25, 1305 
 
-00SC49 FEB 24, 1643 25P107 DEC 31, 1980 091.130 APR 20, 1306 | \[illegible\] | OCT 16. 1663 12SA58 | MAR 04. 1981 | \[illegible\] JUL 19, 1306 
+00SC49 FEB 24, 1643 25P107 DEC 31, 1980 091.130 APR 20, 1306 | 28LI05R | OCT 16. 1663 12SA58 | MAR 04. 1981 | 08LI06R JUL 19, 1306 
 
 20.101 OCT 24. 1682 19.09 JUL 24. 1981 041.156 JUN 01, 1325 
 
@@ -904,7 +904,7 @@ Total
 
 12,000 4,320,000 4.32 million) 
 
-The Siddhāntas and the ancient Vedic astronomers have said that Kali Yuga began on midnight between the Julian 17\* and 18" of February (or Gregorian 23" January) 3102 B.C. (this is also called 0 \[illegible\][^647] This was Caitra pratipad tithi (a kṣaya tithi that year). There are many New Age opinions about the Yugas and various other calculations given that could put us in any yuga one would like.[^648] But the above method is the standard as taught by most Purāṇas, Siddhāntas and agreed upon by the ancient Vedic astronomers like Āryabhaṭa. 
+The Siddhāntas and the ancient Vedic astronomers have said that Kali Yuga began on midnight between the Julian 17\* and 18" of February (or Gregorian 23" January) 3102 B.C. (this is also called 0 K.Y.).[^647] This was Caitra pratipad tithi (a kṣaya tithi that year). There are many New Age opinions about the Yugas and various other calculations given that could put us in any yuga one would like.[^648] But the above method is the standard as taught by most Purāṇas, Siddhāntas and agreed upon by the ancient Vedic astronomers like Āryabhaṭa. 
 
 The Mahāyuga (four yugas together) are 12,000 divine years. 1,000 such Mahāyugas are called a day of Brahmā (kalpa), and another 1,000 are the night of Brahmā. During the day of Brahmā everything is manifested, and during the night of Brahmā everything is dissolved back to the unmanifest. During the day of Brahmā there are 14 Manvantaras (manu-antardaśā) which are each equal to 71 Mahāyuga. 
 
@@ -934,7 +934,7 @@ TĀ 6/141 says that at the end of the day, the flames of Kālāgni burn up the l
 
 Brahmā’s day 1000 caturyuga \[ kalpa Kalpa \] 4.32 billion human ears 
 
-\[illegible\] day and night 2000 caturyuga 2 kalpa 8.64 billion human ahorātra ears 
+Brahmā’s day and night 2000 caturyuga 2 kalpa 8.64 billion human ahorātra ears 
 
 Brahmā’s month 30 Brahmā days 60 kalpa 259.2 billion human ears 
 
@@ -955,7 +955,7 @@ Tantrāloka refers to the aeons of time of the highest principles (tattva). On t
 
 [^650]: Visṇu Purāṇa 1.5.59-60 and TĀ 6/142-146.
 
-[^651]: catvāri śrìgā trayo asya pādā dve \[illegible\] sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyām \[illegible\] viveśa ॥ Rgveda 4/58.3
+[^651]: catvāri śrìgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyām ā viveśa ॥ Rgveda 4/58.3
 
 [^652]: Many nineteenth century commentators, with Newtonian ideas in their head, called these numbers fanciful. But these large numbers indicate a concept of time being much bigger than ourselves, and are quite relevant to the actual age of the universe. If these terms are taken as units (the yuga, mahāyuga, kalpa, and param), then they are basically a sexagesimal number system similar to our giga, mega, tetra decimal system. Just as 311,040,000,000,000 can be written as 311.04 trillion years, it can also be written as 1.00 mahākalpa. The galactic year may be estimated 230 million years or 0.8 Manvantara.
 

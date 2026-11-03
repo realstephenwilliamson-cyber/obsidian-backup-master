@@ -191,9 +191,9 @@ Surely (one may object) that, if one should not adopt treatises such as Manusm�
 आशुसिद्ध्ै यतः सर्वमार्षं मायोदरस्थितम् ।
 
 yadārṣe pātahetūktaṁ tad asmin vāmaśāsane ॥ 11 ॥
-āśu siddhyai yataḥ sarvam \[illegible\] māyodarasthitam | 
+āśu siddhyai yataḥ sarvam ārṣaṁ māyodarasthitam | 
 
-That which is said in the Veda to be the cause of a fall (into sin), in this doctrine of the left (vāmaśāsana),[^552] serves to lead rapidly to accomplishment. This is so because all (the Vedic teaching) of the 775 \[illegible\] is in the very belly of Māyā. (11cd-12ab) 
+That which is said in the Veda to be the cause of a fall (into sin), in this doctrine of the left (vāmaśāsana),[^552] serves to lead rapidly to accomplishment. This is so because all (the Vedic teaching) of the 775 ṛṣis (ārṣa) is in the very belly of Māyā. (11cd-12ab) 
 
 #### Viveka on 37.11–12
 
@@ -305,7 +305,7 @@ samūhaḥ pīṭham etac ca dvidhā dakṣinavāmataḥ || 18 ॥
 
 mantro vidyeti tasmāc ca mudrāmandalagari dvayam | 
 
-The Blessed One (bhagavat) has said in the venerable Ānandaśāstra and elsewhere that (the term) ‘pītha’ (denotes) a ‘collection’ (samūha) (of scriptures).[^563] And that is of two kinds, that of the right and the left, (which are, respectively, the \[illegible\] of Mantra and Vidyā. From that (pair) (come) two (more) associated with Mudrā and Mandala. (18-19ab) 
+The Blessed One (bhagavat) has said in the venerable Ānandaśāstra and elsewhere that (the term) ‘pītha’ (denotes) a ‘collection’ (samūha) (of scriptures).[^563] And that is of two kinds, that of the right and the left, (which are, respectively, the pīṭhas) of Mantra and Vidyā. From that (pair) (come) two (more) associated with Mudrā and Mandala. (18-19ab) 
 
 #### Viveka on 37.18–19
 
@@ -334,7 +334,7 @@ upodbalanam āpyāyaḥ sā hi vedyārthabhāsinī |
 mantrapratikṛtir mudrā tadāpyāyanakārakam || 20 I|
 mandala sāram ukta hi mandaśrutyā śivāhvayam |
 evam anyonyasamibhedavṛtti pīthacatuṣtayam ॥ 21 ॥
-yatas tasmād bhavet sarvar \[illegible\] pīthe ‘pi vastutaḥ | 
+yatas tasmād bhavet sarvar pīṭhe pīthe ‘pi vastutaḥ | 
 
 The one that bestows (deep) reflection (manana) and salvation (trāṇa) is called ‘Mantra’.[^566] The reinforcement there (in that respect) by Vidyā is fulfilment (āpyāya) (of Mantra). It is that which illumines what should be known. Mudrā is the counterpart (pratikṛti) of Mantra, and Mandala fulfils it. It is said to be the essence and, in accord with (the sense of) the word ‘manda’, it is called Śiva.[^567] The four pīṭhas penetrate one another in this way and so, in actual fact, everything is present in each single \[illegible\] (19cd-22ab) 
 
@@ -439,7 +439,7 @@ The Supreme Lord has declared this in the venerable Ratnamālā, (where we read)
 
 ‘Fierce (black) rites (raudrakarman)’ include (rituals designed to) murder and eradicate (an enemy). ‘One’s own insight’ is personal experience. ‘Moral discipline’ is scripture which is predominantly Tantric (rather than दवण).[^575]
 
-Surely, (one may object,) here also an (excessive) abundance of ritual is prescribed as what remains to be done (until the initiate dies and attains liberation) \[illegible\] So how is it that this has been said (especially of the Siddhānta)? With this doubt in mind, he says: 
+Surely, (one may object,) here also an (excessive) abundance of ritual is prescribed as what remains to be done (until the initiate dies and attains liberation) (śeṣavṛtti). So how is it that this has been said (especially of the Siddhānta)? With this doubt in mind, he says: 
 
 ### TĀ 37.29
 
@@ -462,7 +462,7 @@ When the teacher reveals (the one reality) free of thought constructs, (the disc
 
 [^574]: The same expression appears above in 37/10c.
 
-[^575]: vinayari tantrapradhānari \[illegible\] |
+[^575]: vinayari tantrapradhānari śāstram |
 
 [^576]: This verse is from the Gamatantra. It is also quoted above as 13/230cd-23 lab (see note there) and the first line and a half in TĀv ad 13/313cd-314ab. The point is that the Siddhānta, which, as presented here at least, can only lead to liberation after death for those who have maintained their moral and ritual obligations. It does not offer an alternative. Although the rites and forms of Yoga Abhinava prescribes, even in just in his own liturgical manual, the Tantrāloka, are also numerous, the concern with rites and Yoga is not ‘excessive’, because an alternative is an ever-present possibility. That is immediate realisation, which requires neither rite nor Yoga, and moreover, it grants immediate and permanent liberation while alive. The Siddhānta, at least as portrayed by Abhinava, does not offer this possibility. One fundamental reason for this, according to Abhinava, is that the former is a gradual path of step-by-step upward progress of the soul in consonance with the flow of the life force. The other is one of devastating, radical transformation by powerful penetration of the power of consciousness radiating from the deity into the soul, and the soul projected with force into its Infinite Being and ultimate, essential dynamic identity.
 
@@ -481,7 +481,7 @@ Surely (one may ask), what is the nature of (this Trika) current (of scriptures)
 mayaitat srotasāṁ rūīpam anuttarapadād dhruvāt |
 ārabhya vistareṇoktaḥ mālinīślokavārtike ॥ 30 ॥
 jijñāsus tata evedam avadhārayitun kṣamaḥ |
-vayari tūktānuvacanam \[illegible\] nādriyāmahe || 31 ॥ 
+vayari tūktānuvacanam aphalaṁ nādriyāmahe || 31 ॥ 
 
 I have discussed the nature of these (five) currents (of scripture), as beginning from the immovable (dhruva) plane of Anuttara, in detail in the Mālinīślokavārtika.[^577] He who wants to know (about it), can understand it from there. We do not sanction fruitless repetition of what has (already) 
 
@@ -548,7 +548,7 @@ Although all this endless series of worlds has been generated by the might of th
 
 #### Viveka on 37.33
 
-[^579]: The ‘essence of Trika’ to which Abhinava is referring here is his Tantrāloka. It is a \[illegible\] both in the sense of a ‘treatise’ and a ‘scripture’.
+[^579]: The ‘essence of Trika’ to which Abhinava is referring here is his Tantrāloka. It is a śāstra both in the sense of a ‘treatise’ and a ‘scripture’.
 
 [^580]: The first line of this verse has two meanings. The immediate sense is the one that follows from the previous verse. The suggested sense is that of the translation of the same line in brackets.
 
@@ -863,7 +863,7 @@ antargādhāruṇarucilasatkesarālīvicitraiḥ |
 
 ### TĀ 37.45
 
-samyag devītritayayajanodyānam āviṣkaroti || 45 || sarvo lokaḥ kavir atha budho yatra \[illegible\] ‘pi vāgmī 
+samyag devītritayayajanodyānam āviṣkaroti || 45 || sarvo lokaḥ kavir atha budho yatra śūro ‘pi vāgmī 
 
 candroddyotā masṛṇagatayaḥ pauranāryaś ca yatra |
 yatrāṁṁgārojjvalavikasitāīnantasauṣumnamārga- 
@@ -1081,7 +1081,7 @@ Abhinavagupta’s Mother Died When He Was a Child; His Youthful Folly and the Da
 सेहोऽतिगाढीकुरुते हि पाशान् ।
 तन्मूलबन्धे गलिते किलास्य मन्ये स्थिता जीवत एव मुक्तिः ॥ ५७ ॥
 
-[^615]: A name of Śiva whìch literally means \[illegible\] god who wears as) a diadem the moon’. This verse may also be translated: ‘Purified by the sight, in front of them, of the (mountain) peak (mauli), radiant white, situated in the north’ alluding to some Himalayan mountain, for example, the Haramukh, visible from Śrīnagar and sacred to Śiva.
+[^615]: A name of Śiva whìch literally means ‘(the god who wears as) a diadem the moon’. This verse may also be translated: ‘Purified by the sight, in front of them, of the (mountain) peak (mauli), radiant white, situated in the north’ alluding to some Himalayan mountain, for example, the Haramukh, visible from Śrīnagar and sacred to Śiva.
 
 [^616]: 37/54ab is quoted above in TĀv ad 1/1 (see note there concerning the various forms of his name). Other references to Abhinava’s father are above 1/12 (see notes there); also in MVV 1/5, ĪPVv vol. 3 pp. 405-406 verses 2-5, and PTv p. 281, where Abhinava says of him: “After a long time, Varāhagupta was born in his (i.e. Atrigupta’s) family, and from him Cukhala, who was averse to the things of the world and was entirely concentrated on Śiva. From him, who had discerned all things, Abhinavagupta was purely conceived who, having conquered all fear of transmigration, makes this ancient essence of Trika known.’ (12-13)
 
@@ -1365,7 +1365,7 @@ The yogi, continuously practicing with great effort, purified of all sins, perfe
 
 [^633]: The spiritual merits of a person who is engaged in the practice of Yoga but unable to reach the goal in one life are not lost. Rather, they ensure that he is reborn to parents who are both advanced in Yoga and in an environment that encourages and sustains its practice so that he may attain liberation.
 
-[^634]: Arjuna in the Bhagavadgītā is anxious to know what happens to a person who dies without being able to achieve perfection in Yoga. \[illegible\] 6/43cd-47 Jayaratha quotes here is Kṛgna’s reply to his question.
+[^634]: Arjuna in the Bhagavadgītā is anxious to know what happens to a person who dies without being able to achieve perfection in Yoga. BhGī 6/43cd-47 Jayaratha quotes here is Kṛgna’s reply to his question.
 
 
 *[p. 259]* ^pg277
@@ -1541,7 +1541,7 @@ mandraḥ svake puravare sthitim asya vavre |
 dāsyaṁ janaś carati pīṭhanivāsakalpe ॥ 72 ॥
 tasyābhavat kila pitrvyavadhūr vidhātrā 
 
-\[illegible\] nirmame galitasaṁsṭticitracintā |
+yā nirmame galitasaṁsṭticitracintā |
 sSīitāṁśumaulicaraṇābjaparāgamātra- 
 
 bhūṣāvidhir vihitavatsalikocitākhyā ॥ 73 ॥

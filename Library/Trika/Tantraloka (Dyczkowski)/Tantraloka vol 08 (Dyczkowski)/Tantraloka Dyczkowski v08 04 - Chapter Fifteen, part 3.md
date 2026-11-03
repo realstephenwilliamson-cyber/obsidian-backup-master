@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 *[p. 83]* ^pg101
 
-\*1) Nādinī is located at the tip of the topknot and is denoted by the letter N. 2-5) p R \] Ḷ (corresponding) to Nivṛtti and the rest (i.e., Pratiṣthā, Vidyā and Śāntā) is the garland on the head. 6) Th on top of the head is the goddess Satī, and 7) Dh, the two eyes, is Priyadarśanā. 8) Ī is Guhyaśakti, who is on the nose. They are pervasively present (vyāpta) in the midst of the eyes. 9) The goddess who abides having pervaded (them) is C, the third eye. (She) is the supreme goddess Cāmunṇdā who, located on the forehead, looks beautiful. 10) (Mālinī’s) mouth is the letter B. She is Vajriṇī, the imperishable power. 11-15) The gutturals are the sharp teeth. Kaṅkaṭā (K), Kālikā (KH), Śivā (G), Ghoraghoṣā (GH) and the one called Śivirā (Ñ) are said to be in the gutturals. 16) Māyādevī is I, which is the tongue. 17) A is speech, who is considered to be Vāgīśvarī. 18) Nārāyaṇī is Ṇ, and the two ears. 19-20) Their ornaments are U and Ü, that are Mohinī and Prajñā. 21) V is on the throat[^225] and is Śikhivāhinī. 22-23) Lāmā and the goddess Vināyikī are D and DH, the two arms of the pervasive goddess.[^226] 24) Pūrṇimā is in the location of the hands. She is considered to be called the pervasive lord’s letter ṬH. 25-26) Jhaṅkārī and Kundanā are JH and Ñ on the goddess, the letter Ṭ. 28) Dīpanī is the staff of the lance, and is rightly said to be the letter R. 29) J is Jayantī who is the lance of the goddess of the gods, O Great Goddess. 30-31) Bhīṣaṇī and Vāyuvegā are on both the shoulders (as the letters) BH and Y. 32) Pāvanī is P, who is in the heart. 33) \[illegible\] is Lambikā and is the belly. 34) Saṁhārikā is this letter KṢ. O Bhairavī, she is the goddess in the naval. 35-36) Chagalī and Pūtanā are the two breasts said to be (the letters) CH and L. 37) Ā is Moṭarī, and what is present there is said to be Milk, which is Ā. 38) Paramātmā is this letter S. 39) H is the vital breath, the goddess (śakti) Ambikā. 40) The power of the will is called emission (H). Having pervaded (her domain), she resides in the Self of the vital breath. 41) M is the hip (nitamba) and is Mahākālī. 42) Ś is the genitals (guhya) and is Kusumāyudhā. 43) The goddess Śukrā is the sperm. She is Bhairavī, who is (the vowel) M. 44) The letter T is Tārā and is located on the thigh (ru). 45-46) E and AI are both (together the powers of) knowledge and action. O goddess, they are the two knees of Bhairavī, the great soul. 47-48) Gāyatrī and Sāvitrī are O and AU, who are said to be the shanks. 49-50) Dahanī is located on the right foot and Phetkāarikā on the left and are (the letters) D and PH.” 
+\*1) Nādinī is located at the tip of the topknot and is denoted by the letter N. 2-5) p R \] Ḷ (corresponding) to Nivṛtti and the rest (i.e., Pratiṣthā, Vidyā and Śāntā) is the garland on the head. 6) Th on top of the head is the goddess Satī, and 7) Dh, the two eyes, is Priyadarśanā. 8) Ī is Guhyaśakti, who is on the nose. They are pervasively present (vyāpta) in the midst of the eyes. 9) The goddess who abides having pervaded (them) is C, the third eye. (She) is the supreme goddess Cāmunṇdā who, located on the forehead, looks beautiful. 10) (Mālinī’s) mouth is the letter B. She is Vajriṇī, the imperishable power. 11-15) The gutturals are the sharp teeth. Kaṅkaṭā (K), Kālikā (KH), Śivā (G), Ghoraghoṣā (GH) and the one called Śivirā (Ñ) are said to be in the gutturals. 16) Māyādevī is I, which is the tongue. 17) A is speech, who is considered to be Vāgīśvarī. 18) Nārāyaṇī is Ṇ, and the two ears. 19-20) Their ornaments are U and Ü, that are Mohinī and Prajñā. 21) V is on the throat[^225] and is Śikhivāhinī. 22-23) Lāmā and the goddess Vināyikī are D and DH, the two arms of the pervasive goddess.[^226] 24) Pūrṇimā is in the location of the hands. She is considered to be called the pervasive lord’s letter ṬH. 25-26) Jhaṅkārī and Kundanā are JH and Ñ on the goddess, the letter Ṭ. 28) Dīpanī is the staff of the lance, and is rightly said to be the letter R. 29) J is Jayantī who is the lance of the goddess of the gods, O Great Goddess. 30-31) Bhīṣaṇī and Vāyuvegā are on both the shoulders (as the letters) BH and Y. 32) Pāvanī is P, who is in the heart. 33) Ṣ is Lambikā and is the belly. 34) Saṁhārikā is this letter KṢ. O Bhairavī, she is the goddess in the naval. 35-36) Chagalī and Pūtanā are the two breasts said to be (the letters) CH and L. 37) Ā is Moṭarī, and what is present there is said to be Milk, which is Ā. 38) Paramātmā is this letter S. 39) H is the vital breath, the goddess (śakti) Ambikā. 40) The power of the will is called emission (H). Having pervaded (her domain), she resides in the Self of the vital breath. 41) M is the hip (nitamba) and is Mahākālī. 42) Ś is the genitals (guhya) and is Kusumāyudhā. 43) The goddess Śukrā is the sperm. She is Bhairavī, who is (the vowel) M. 44) The letter T is Tārā and is located on the thigh (ru). 45-46) E and AI are both (together the powers of) knowledge and action. O goddess, they are the two knees of Bhairavī, the great soul. 47-48) Gāyatrī and Sāvitrī are O and AU, who are said to be the shanks. 49-50) Dahanī is located on the right foot and Phetkāarikā on the left and are (the letters) D and PH.” 
 
 That is also taught in the venerable Śrīmata[^227] and elsewhere, having classified (vibhajya) them in both ways, that is, according to (the sequence of) 
 
@@ -24,9 +24,9 @@ That is also taught in the venerable Śrīmata[^227] and elsewhere, having class
 
 [^226]: Emend vibhoḥ to vibhveḥ.
 
-[^227]: Śrīmata, which is a common way of referring to the Kubjikāmata. We have observed that Jayaratha quotes it above ad 15/93cd-97ab. So it is quite possible that he is referring to it here. If Jayaratha is directing his reader to the Kubjikāmata, we may assume it was easily available in the Valley in his day. There is evidence that this is so. One is the work of Rūpaśiva. Rūpaśiva is the author of a commentary \[illegible\] to sections of its expanded version, the Ṣaṭsahasrasaṁhitā and other Kubjikā Tantras. The oldest surviving manuscript of the \[illegible\] is a palm leaf written in old devanāgarī, probably copied before the 13th century. Otherwise called Rāmānanda, Rūpaśiva tells us in the final colophon of his work that he was a Brahmin who knew the Rgveda. His teacher was
+[^227]: Śrīmata, which is a common way of referring to the Kubjikāmata. We have observed that Jayaratha quotes it above ad 15/93cd-97ab. So it is quite possible that he is referring to it here. If Jayaratha is directing his reader to the Kubjikāmata, we may assume it was easily available in the Valley in his day. There is evidence that this is so. One is the work of Rūpaśiva. Rūpaśiva is the author of a commentary (ṭīkā) to sections of its expanded version, the Ṣaṭsahasrasaṁhitā and other Kubjikā Tantras. The oldest surviving manuscript of the ṭīkā is a palm leaf written in old devanāgarī, probably copied before the 13th century. Otherwise called Rāmānanda, Rūpaśiva tells us in the final colophon of his work that he was a Brahmin who knew the Rgveda. His teacher was
 
-    Śrīlothaviṣṇu, who was the son of Bhatta Śrīkamalaviṣṇu, and was well versed in the Sāmaveda. Rūpaśiva took permission from his teacher to write the \[illegible\] in the city of Pravarapura on the banks of the river Vitasta, that is, modern Srinagar in Kashmir. Note that the title ‘bhaga’ for a learned court Brahmin is most commonly used in Kashmir. It appears, therefore, that there was a Kashmiri Kubjikā tradition. The colophon reads: oO śrīkāśmīradeśatilakabhūtaśrīpravarapurādhiṣtṭhānāntargatakalikalilakṣālitakṣmābahulasalilakall olinī-śrīvitastāsindhusaṁgame prārthanā prārthitā gṁītā u grahāravāstavya gautamagotra-likhitakulakramāgatat sāmavedasamastādhyāyino bhaṣtaśrīkamalaviṣnusünunā 0॥०१1८९7-loṭhaviṣnudīkṣābhidhānena rūpaśiva iti prasiddṁaḥ pūjānāmnā śrī-rāmānanda iti nikhilapaścima- ए smāja rgvedayā |
+    Śrīlothaviṣṇu, who was the son of Bhatta Śrīkamalaviṣṇu, and was well versed in the Sāmaveda. Rūpaśiva took permission from his teacher to write the Ṭīkā in the city of Pravarapura on the banks of the river Vitasta, that is, modern Srinagar in Kashmir. Note that the title ‘bhaga’ for a learned court Brahmin is most commonly used in Kashmir. It appears, therefore, that there was a Kashmiri Kubjikā tradition. The colophon reads: oO śrīkāśmīradeśatilakabhūtaśrīpravarapurādhiṣtṭhānāntargatakalikalilakṣālitakṣmābahulasalilakall olinī-śrīvitastāsindhusaṁgame prārthanā prārthitā gṁītā u grahāravāstavya gautamagotra-likhitakulakramāgatat sāmavedasamastādhyāyino bhaṣtaśrīkamalaviṣnusünunā 0॥०१1८९7-loṭhaviṣnudīkṣābhidhānena rūpaśiva iti prasiddṁaḥ pūjānāmnā śrī-rāmānanda iti nikhilapaścima- ए smāja rgvedayā |
 
 
 *[p. 84]* ^pg102
@@ -38,7 +38,7 @@ emanation and withdrawal. Thus, one can ascertain that oneself from that also. F
 इत्येषा मालिनी देवी शक्तिमत्धषोभिता यतः ॥ १२५ ॥
 कृत्यावेशात्ततः शाक्ती तनुः सा परमार्थतः ।
 
-ity \[illegible\] mālinī devī śaktimatkṣobhitā yataḥ ॥ 125 ॥
+ity eṣā mālinī devī śaktimatkṣobhitā yataḥ ॥ 125 ॥
 kṛtyāveśāt tataḥ śāktī tanuḥ sā paramārthataḥ | 
 
 Such is this goddess Mālinī who, aroused by the powerholder and penetrated by creative activity (kṛti), is thus in reality (paramārthataḥ) the body of (Śiva’s) power (śākti) (made manifest). (125cd-126ab) 
@@ -164,9 +164,9 @@ she is ‘within him’.
 
 [^238]: Cf, above, 3/198-200ab.
 
-[^239]: Jayaratha is saying that mātṛkā means ‘like a mother \[illegible\]
+[^239]: Jayaratha is saying that mātṛkā means ‘like a mother (mātṛ)’.
 
-[^240]: The word puṣpinē (‘flowering one’) also denotes a woman in her menses, especially one who in her first menses. The allusion here seems to be that the goddess is like a woman who is in her first menses after having given birth. Accordingly, one could understand the statement ‘she has blossomed (puṣpitā) into (her) fruits (phaleṣu)’ to means ‘she is in menses when the fruits (manifest)’, by taking the phaleṣu to be a locative absolute. One is reminded of the goddess Kubjikā, who is also Mālinī. In the root sūtra at the beginning of the Kumārikākhanda of the Manthānabhairavatantra, she is portrayed as being in menses \[illegible\]
+[^240]: The word puṣpinē (‘flowering one’) also denotes a woman in her menses, especially one who in her first menses. The allusion here seems to be that the goddess is like a woman who is in her first menses after having given birth. Accordingly, one could understand the statement ‘she has blossomed (puṣpitā) into (her) fruits (phaleṣu)’ to means ‘she is in menses when the fruits (manifest)’, by taking the phaleṣu to be a locative absolute. One is reminded of the goddess Kubjikā, who is also Mālinī. In the root sūtra at the beginning of the Kumārikākhanda of the Manthānabhairavatantra, she is portrayed as being in menses (bindupuṣpā).
 
 [^241]: Jayaratha breaks up the word mālinī here into mā + alinī which literally means ‘the bee who is "70", The word ‘no’ (mā) denotes the negation of phenomenal existence that marks its retraction into numinous consciousness. This female ‘bee’ listens and reflects on the sound she makes.
 
@@ -318,7 +318,7 @@ aggregated syllables (pinda) AKṢA HRĪM and NAPHA HRĪM are (the Mantras) that
 
 #### Viveka on 15.139–142
 
-‘According to (whether one desires) worldly benefits or liberation’, that is, in (the forward order, which is) the sequence of emanation, and (in the reverse order, which is the sequence of) withdrawal (respectively). (The letters of both of them) ‘together’, that is, in the form of A, N, \[illegible\] PH etc.[^258] ‘(Briefly) in conjunction \[illegible\] that is, by means of the procedure of ‘encompassing compression’ (pratyāhāra) (grammarians use to denote a group of letters all together by noting just the first and the last of the series),[^259] because all the letters have been included (in them). ‘Once a deposition has been done’, with other Mantras. ‘Individually’, without the deposition of other Mantras. ‘This’, Mālinī etc. deposition. “The body’ and the limbs etc., as taught in the venerable Siddhātantra etc. ‘Or need not be’, because it is not conjoined with the limbs etc. (The depositions) are combined’ by mixing together Mātṛkā and Mālinī. (The two syllables (pinda) should be deposited) ‘separately (pṛthak)’, that is, without mixing them together as is done with the (single) letters. 
+‘According to (whether one desires) worldly benefits or liberation’, that is, in (the forward order, which is) the sequence of emanation, and (in the reverse order, which is the sequence of) withdrawal (respectively). (The letters of both of them) ‘together’, that is, in the form of A, N, KṢ, PH etc.[^258] ‘(Briefly) in conjunction \[illegible\] that is, by means of the procedure of ‘encompassing compression’ (pratyāhāra) (grammarians use to denote a group of letters all together by noting just the first and the last of the series),[^259] because all the letters have been included (in them). ‘Once a deposition has been done’, with other Mantras. ‘Individually’, without the deposition of other Mantras. ‘This’, Mālinī etc. deposition. “The body’ and the limbs etc., as taught in the venerable Siddhātantra etc. ‘Or need not be’, because it is not conjoined with the limbs etc. (The depositions) are combined’ by mixing together Mātṛkā and Mālinī. (The two syllables (pinda) should be deposited) ‘separately (pṛthak)’, that is, without mixing them together as is done with the (single) letters. 
 
 Surely (one may ask), what is the use of (undertaking all this) mass of ritual action in this way? With this doubt in mind, he says: 
 
@@ -333,7 +333,7 @@ Surely (one may ask), what is the use of (undertaking all this) mass of ritual a
 
 [^257]: Abhinava explains in the Tantrasāra p. 134 that the format of the two depositions together is:
 
-    hrīṁ na pha hrīṁ hrīṁ a kṣa hrīṁ. The two together are Śiva and Śakti. Mālinī is Śakti and Śabdarāśi, the other deposition, is Śiva (the possessor of Śakti). One wonders whether we should read hrīṁ naṁ phaṁ hrīṁ \[illegible\] an kṣaṁ \[illegible\] with the phonemes ‘crowned’ by anusvara, as one would expect would be the form when they are projected onto the body. Or else we may take these to be the Mantras of the two, in which case the form would be hrīṁ naphahrīṁ and hrīṁ akṣahrīṁ. The full series for deposition of both on the body is recorded in an Appendix to Chapter Thirty. The locations on the body of these combined forms is not stated. Most probably cach phoneme is in the same place as in the single depositions, in which case the adept would be moving back and forth up and down and to the sides of the body with each placement. This would require reasonable speed and careful attention.
+    hrīṁ na pha hrīṁ hrīṁ a kṣa hrīṁ. The two together are Śiva and Śakti. Mālinī is Śakti and Śabdarāśi, the other deposition, is Śiva (the possessor of Śakti). One wonders whether we should read hrīṁ naṁ phaṁ hrīṁ \[illegible\] an kṣaṁ hrīṁ with the phonemes ‘crowned’ by anusvara, as one would expect would be the form when they are projected onto the body. Or else we may take these to be the Mantras of the two, in which case the form would be hrīṁ naphahrīṁ and hrīṁ akṣahrīṁ. The full series for deposition of both on the body is recorded in an Appendix to Chapter Thirty. The locations on the body of these combined forms is not stated. Most probably cach phoneme is in the same place as in the single depositions, in which case the adept would be moving back and forth up and down and to the sides of the body with each placement. This would require reasonable speed and careful attention.
 
 [^258]: it seems that each unit in this sequence is in two halves. The first is formed by the juxtaposition of the corresponding letters of the two depositions in the forward order. For example, A N, then & r etc. The second half is formed by the juxtaposition of the two letters beginning from the last working back in reverse. For example, KṢ PH. For the full set, see Appendix to Chapter Thirty.
 
@@ -354,13 +354,13 @@ saṁskṛtyai svecchayā kuryāt prāṁnayenātha bhūyasīm ॥ 144 ॥
 mumukṣur atha tasmai vā yathābhīṣta samācaret |
 sivatāpattir evārtho hy eṣāṁnṁ nyāsādikarmaṇām ॥ 145 ॥ 
 
-[^260]\[illegible\] He who aspires to attain accomplishments (siddhi) by ritual action, as well as 1b) he who has no (such) desire, should perform the rite (of deposition) in its extensive form (bhūyasīṁn \[illegible\][^261] so that (the goddess) may (bestow on) him (her) own fruits in abundance. 2a) He who desires (to attain) accomplishments by the continuous practice of meditation and the repetition (of Mantras) may perform the rite (of deposition); however (in that case, it only serves as an empowering) purification. (The depositions) can be done, as one pleases, either in an abbreviated or extensive form, as explained above. 2b) Now, he who aspires to liberation (by practicing meditation) may (optionally) perform (the depositions) as he pleases for that (purpose). (At any rate, the ultimate) goal (for him) of (all) these rites (karman), including the depositions, is to attain Śiva’s state. (143-145) 
+[^260]\[illegible\] He who aspires to attain accomplishments (siddhi) by ritual action, as well as 1b) he who has no (such) desire, should perform the rite (of deposition) in its extensive form (bhūyasīṁn kriyām),[^261] so that (the goddess) may (bestow on) him (her) own fruits in abundance. 2a) He who desires (to attain) accomplishments by the continuous practice of meditation and the repetition (of Mantras) may perform the rite (of deposition); however (in that case, it only serves as an empowering) purification. (The depositions) can be done, as one pleases, either in an abbreviated or extensive form, as explained above. 2b) Now, he who aspires to liberation (by practicing meditation) may (optionally) perform (the depositions) as he pleases for that (purpose). (At any rate, the ultimate) goal (for him) of (all) these rites (karman), including the depositions, is to attain Śiva’s state. (143-145) 
 
 #### Viveka on 15.143–145
 
 Here is the second half (of this teaching, of which the preceding verses are the first,) which (presents) the reason (and purpose to practice it). ‘He who has no (such) desire’ is such because he does not crave just for the fruits. (The goddess bestows it) ‘on him’ so that it may be abundantly fruitful. Again, he who wishes to attain accomplishment (siddhi) by meditation and the like, may perform the abbreviated or extensive (versions of) the rite as he desires, because he is a man of knowledge; ‘however (it serves only as an empowering) purification’, that is, it is (done so that) it may serve to give him the competence (yogyatā) (to perform rituals and benefit from them). Or else, he may perform the extended version in the manner taught previously, so that (he may attain) the highest level of purifying empowerment. The word ‘now’ serves (to introduce) another additional option. Thus, he who aspires to liberation may 
 
-[^260]: Abhinava refers here to four types of aspirants. They are of two basic kinds: 1) ritualists and 2) meditators. Again, both of them are of two types, according to whether they a) desire worldly benefits ~ bhoga, and accomplishments — siddhi, or b) liberation — mokṣa. Here this classification is exemplified by the depositions of Mātṛkā and Mālinī, but it is universally applicable. Accordingly, Abhinava refers generically to \[illegible\] — ritual action, even as it is clear from the context that he is referring specifically to this rite.
+[^260]: Abhinava refers here to four types of aspirants. They are of two basic kinds: 1) ritualists and 2) meditators. Again, both of them are of two types, according to whether they a) desire worldly benefits ~ bhoga, and accomplishments — siddhi, or b) liberation — mokṣa. Here this classification is exemplified by the depositions of Mātṛkā and Mālinī, but it is universally applicable. Accordingly, Abhinava refers generically to kriyā – — ritual action, even as it is clear from the context that he is referring specifically to this rite.
 
 [^261]: In other words, he should deposit them both together as a couple, with all the elaborations outlined in the previous verses.
 
@@ -380,7 +380,7 @@ and its Purpose (prayojana)
 एवं न्यासं विधायार्घपात्रे विधिमुपाचरेत् ।
 क्तनीत्यैव तत्पश्चात् पूजयेत्रयस्तवाचकैः ॥ १४६ ॥
 
-evaṁ 11) \[illegible\] vidhāyārghapātre vidhim upācaret |
+evaṁ 11) nyāsaṁ vidhāyārghapātre vidhim upācaret |
 uktanītyaiva tatpaścāt pūjayen nyastavācakaiḥ ॥ 146 ॥ 
 
 After having performed the deposition in this way, one should perform the procedure prescribed for the sacrificial vessel (arghapātra) in just the manner explained (above). After that he should worship it with the Mantras (vācaka) deposited on it. (146) 
@@ -438,7 +438,7 @@ Taking as an example ritual worship, all ‘the set of factors that constitute a
 संपूर्णशिवताक्षोभनरीनर्तदिव स्फुरेत् ।॥ १५१ ॥
 
 yathā hi vāhakaṭakabhramasvātantryam āgataḥ |
-aśvaḥ sahgrāmarūdho ‘pi tām \$ \[illegible\] nātivartate ॥ 149 ॥ 
+aśvaḥ sahgrāmarūdho ‘pi tām \$ śikṣāṁ nātivartate ॥ 149 ॥ 
 
 tathārcanakriyābhyāsaśivībhāvitakārakaḥ |
 gacchaṁs tiṣthann api dvaitaḥ kārakānṇām vyapojjhati ॥ 150 ॥
@@ -447,7 +447,7 @@ sampūrṇaśivatākṣobhanarīnartad iva sphuret | 151 ॥
 
 Just as a (well-disciplined) horse, freed from (the restriction on his) movement (imposed by) bridle and bit, does not fail to observe (the discipline he learnt in the course of his) training even in the midst of battle, similarly he who by repeatedly practicing the act of worship (arcanakriyā) has identified the factors (that comprise it) with Śiva, dispels the duality of the factors of action (in his daily life as well), whether he moves or stands. 
 
-To one who is well-established in the practice of the unity (of the factors that constitute action) in this way, this universe shines forth (and bursts into life) (sphuret)[^263] suddenly (akramāt) and with (overwhelming) force \[illegible\] as if dancing ecstatically with the arousal (kṣobha) of (its) completely full (unrestricted) Śiva nature. (149-151) 
+To one who is well-established in the practice of the unity (of the factors that constitute action) in this way, this universe shines forth (and bursts into life) (sphuret)[^263] suddenly (akramāt) and with (overwhelming) force (haṭhāt), as if dancing ecstatically with the arousal (kṣobha) of (its) completely full (unrestricted) Śiva nature. (149-151) 
 
 #### Viveka on 15.149–151
 
@@ -522,7 +522,7 @@ In This Way, Mantra Quickly Grants Accomplishment
 साधकस्यापि तत्सिद्धिप्रदमन्रैकतां गतम् ।। १५५ ॥।
 विशं व्रजदविघ्नत्वं स्वां सिद्धिं शीप्रमावहेत् ।
 
-sādhakasyāpi tatsiddhipradamantraikatāri gatam || 155 || viśvaṁ vrajad avighnatvaṁ \[illegible\] siddhiṁ Sīghram āvahet | 
+sādhakasyāpi tatsiddhipradamantraikatāri gatam || 155 || viśvaṁ vrajad avighnatvaṁ svāṁ siddhiṁ Sīghram āvahet | 
 
 For the adept (sādhaka) (who desires worldly benefits) also, the Mantra that grants his accomplishment (siddhi) becomes one with the universe (he contemplates in this way), and (every) obstacle (to its realisation) ceasing (thereby), it quickly bestows its own accomplishment. (155ed-156ab) 
 
@@ -562,7 +562,7 @@ the Syntax of the Language of Ritual
 तदेवं तन्मयीभावदायिन्यवीक्रिया यतः ।। १५७ ॥
 समस्तकारकेकात्म्यं तेनास्याः परमं वपुः ।
 
-tad \[illegible\] tanmayībhāvadāyiny arcākriyā yataḥ ॥ 157 ॥
+tad evaṁ tanmayībhāvadāyiny arcākriyā yataḥ ॥ 157 ॥
 samastakārakaikātmyaṁ tenāsyāḥ paramaṁ vapuḥ \\ 
 
 Thus, as the act of worship (performed in this way) bestows that identity (fanmayībhāva) (with Śiva) in this way, its ultimate nature (vapus) is thus the oneness of all the factors (that constitute action). (157cd-158ab) 
@@ -616,7 +616,7 @@ Purification by the Water from the Sacrificial Vessel
 अर्धपातरम्बुविप्ुड्िभः स्पृष्टं सर्व हि शुध्यति ।
 शिवार्ककरसंस्पशीत्काऽन्या शुद्धिर्भविष्यति || १६९१ ॥
 
-arghapātrāmbuviprudbhiḥ \[illegible\] sarvaṁ hi śudhyati |
+arghapātrāmbuviprudbhiḥ spṛṣṭaṁ sarvaṁ hi śudhyati |
 sivārkakarasaṁisparśāt kānyā śuddhir bhaviṣyati | 161 ॥ 
 
 [^270]: This definition is also cited in the introduction to 1/125-126 (125cd-127ab). See note there.
@@ -639,7 +639,7 @@ Moreover, that is not proved (to be so) just by reasoning alone. Accordingly, he
 na cāsaṁśodhitaṁ vastu kiñcid apy upakalpayet ॥ 162 ॥
 tena Śuddhaṁ tu sarvan yad aśuddham api tac chuci | 
 
-As the pervasive Lord has said in the Śrīpūrvaśāstra with regards to the procedure (concerning the) sacrificial vessel: ‘One should not think (upakalpayet) that any substance, whatever it be (that is offered in this rite), has not been purified (by it). Purified by that, everything, even what is impure, (becomes) \[illegible\] \[illegible\][^272] (162-163ab) 
+As the pervasive Lord has said in the Śrīpūrvaśāstra with regards to the procedure (concerning the) sacrificial vessel: ‘One should not think (upakalpayet) that any substance, whatever it be (that is offered in this rite), has not been purified (by it). Purified by that, everything, even what is impure, (becomes) pure.’[^272] (162-163ab) 
 
 #### Viveka on 15.162–163
 
@@ -656,7 +656,7 @@ One should know that (whatever is said concerning) impurity (aśuddhatā) is fro
 
 [^271]: This verse is quoted in MM p. 116.
 
-[^272]: Lines 162cd-163ab are a direct quote of MV 8/52. The reading in the printed edition of the MV is atra kalpayet for upakalpayet. The function of the sacrificial vessel (arghapātra) is to serve as a container for water or other fluids that are purified by the projection of Mantras. Usually, these include the root Mantra of the deity along with its limbs. In this way, the sacrificial vessel and its contents are pervaded by the deity and identified with it. Thus, they are pure and serve to purify the other articles of worship, the worshipper himself and the congregation, by sprinkling them with drops of the sacrificial liquid it contains. The MV enjoins that in order to \[illegible\] it should be ‘burnt’ first with the fire of the Weapon and then ‘flooded’ with the water of Sakti. Other things that require purification are purified in the same way. Filled with water, wine or other liquid, it is transformed into nectar by projecting the six limbs of the root mantra into it. All the sacrificial substance should be purified with that. See MV 8/50-53.
+[^272]: Lines 162cd-163ab are a direct quote of MV 8/52. The reading in the printed edition of the MV is atra kalpayet for upakalpayet. The function of the sacrificial vessel (arghapātra) is to serve as a container for water or other fluids that are purified by the projection of Mantras. Usually, these include the root Mantra of the deity along with its limbs. In this way, the sacrificial vessel and its contents are pervaded by the deity and identified with it. Thus, they are pure and serve to purify the other articles of worship, the worshipper himself and the congregation, by sprinkling them with drops of the sacrificial liquid it contains. The MV enjoins that in order to purify it should be ‘burnt’ first with the fire of the Weapon and then ‘flooded’ with the water of Sakti. Other things that require purification are purified in the same way. Filled with water, wine or other liquid, it is transformed into nectar by projecting the six limbs of the root mantra into it. All the sacrificial substance should be purified with that. See MV 8/50-53.
 
 
 *[p. 103]* ^pg121
@@ -703,7 +703,7 @@ In this way what is distant from consciousness is impure. Accordingly, he says:
 
 anena nayayogena yadāsattividūrate ॥ 165 ॥ 
 
-[^273]: See below, 16/28-72. Instead of translating ‘jīvavar’ to "35 is (for example) a living being’, one could take it to be an ascriptive referring to the offering that ‘possesses life’. The final sentence would then read: \[illegible\] is completely fit (to be an offering) and possesses life here in this sacrifice’.
+[^273]: See below, 16/28-72. Instead of translating ‘jīvavar’ to "35 is (for example) a living being’, one could take it to be an ascriptive referring to the offering that ‘possesses life’. The final sentence would then read: ‘it is completely fit (to be an offering) and possesses life here in this sacrifice’.
 
 
 *[p. 104]* ^pg122
@@ -726,7 +726,7 @@ In this way, in accord with such statements (in the scriptures), the teachers co
 vīrāṇām ata eveha mithahsvapratimāmṛtam || 166 ॥
 tattadyāgavidhāviṣtaṁ gurubhir bhāvitātmabhiḥ | 
 
-Thus here (according to this teaching), the teachers whose souls have been sanctified by meditation[^275] have allocated the nectar of Kaula adepts (vīra), produced by the mutual union of oneself (the officiant) and (the consort), who is (his image and living) icon \[illegible\][^276] to each kind of (Kaula) sacrificial rite. (166cd-167ab) 
+Thus here (according to this teaching), the teachers whose souls have been sanctified by meditation[^275] have allocated the nectar of Kaula adepts (vīra), produced by the mutual union of oneself (the officiant) and (the consort), who is (his image and living) icon (pratimā),[^276] to each kind of (Kaula) sacrificial rite. (166cd-167ab) 
 
 #### Viveka on 15.166–167
 
@@ -869,7 +869,7 @@ the Brahmasattra[^292] the offerings to the sacrificial fire of the omentum (vap
 
 ‘Carṇana’ means ‘pressing out (abhiṣava).[^293] It is enjoined upon (the sacrificer) that he should make use of ‘the horns of a black antelope’ to scratch (himself) etc. “The equality of all the deities’ — the deities of the followers of the Veda are (all) made of (sacred) speech. It is not heard (in the Vedas) that there is a difference there (between them). As Śruti (declares): 
 
-‘He scratches (himself) with the horn of a black antelope. The wife (of the sacrificer) should be accepted (adhīyatām) as delighting \[illegible\] the sacrificer. He sacrifices (to the fire) having taken rice beer. He offers a Brahmin to the Brahman. They make the offering of the morning pressing (of the Soma) with omentum. He strikes (avadyati) at the tip of the heart. ”[^294] 
+‘He scratches (himself) with the horn of a black antelope. The wife (of the sacrificer) should be accepted (adhīyatām) as delighting (āvāt) the sacrificer. He sacrifices (to the fire) having taken rice beer. He offers a Brahmin to the Brahman. They make the offering of the morning pressing (of the Soma) with omentum. He strikes (avadyati) at the tip of the heart. ”[^294] 
 
 Surely (one may ask), how can this (practice), which is (only) appropriate for a nondual system (advayanaya), be such in the scriptures of the fettered, that are confined to the plane of Māyā? With this doubt in mind, he says: 
 
@@ -946,7 +946,7 @@ Even in the Veda (itself), what is taught (in one place) should not be eaten is 
 
 #### Viveka on 15.176
 
-The wild goose and the like, (the eating of which), in accord with the aforestated view, is prohibited in the smyti etc., is declared \[illegible\] in the Veda itself)’ to be edible. Thus, the lack of authority of the words of these (Vedic sages) is because they have not seen (the relevant passages) in the Veda, their ignorance of it and what follows on from that, namely, attachment (to biased views) and the rest. 
+The wild goose and the like, (the eating of which), in accord with the aforestated view, is prohibited in the smyti etc., is declared ‘even in the Veda itself)’ to be edible. Thus, the lack of authority of the words of these (Vedic sages) is because they have not seen (the relevant passages) in the Veda, their ignorance of it and what follows on from that, namely, attachment (to biased views) and the rest. 
 
 Surely (the opponent may rejoin that), even so, one may consider that the edibility or otherwise (of anything) are two aggregated (possible) options. With this doubt in mind, he says: 
 
@@ -1079,7 +1079,7 @@ The Worship of the Door (dvārārcana)
 अर्घपष्पसमालम्भधूपनैवेदयवन्दनै 1 पूजां । कयीदिहार्घश्ाप्यु्तमदरव्ययोजित : ॥ १८९ ॥
 एकोच्वारेण वा कु्यीद् द्राःस्थदैवतपूजनम् ।
 
-evar bahiḥ pūjayitvā \[illegible\] prokṣya prapūjayet ॥ 183 ॥ triśirahśāsanādau ca sa dṛṣṭo vidhir ucyate |
+evar bahiḥ pūjayitvā dvāraṁ prokṣya prapūjayet ॥ 183 ॥ triśirahśāsanādau ca sa dṛṣṭo vidhir ucyate |
 ganeśalakṣmyau dvārordhve dakṣe vāme tayoḥ punaḥ ॥ 184 ॥
 madhye vāgīśvarīri dindimahodarayugaṁ tathā |
 kramāt svadakṣavāmasthaṁ tathaitena kramena ca || 185 ॥
@@ -1120,7 +1120,7 @@ The Mantra used to worship (these deities) is formed, as before, with two illumi
 
 \*Ganeśa . . .' etc. That is said there (in the Triśsirobhairavatantra): 
 
-‘Having worshipped Ganeśa on the right on the upper (part of) the door and Śrī on the left, and having imagined (saṁcintya) Vāgīśī in the middle, he should worship \[illegible\] 
+‘Having worshipped Ganeśa on the right on the upper (part of) the door and Śrī on the left, and having imagined (saṁcintya) Vāgīśī in the middle, he should worship (her).’ 
 
 ‘(Located to) ‘one’s’ (right and left), that is, in relation to the adept (sādhaka). ‘In that order’ means right and (then) left, whereas in relation to the door it is the reverse here (in that case). That is said there (in the Triśirobhairavatantra): 
 
@@ -1196,7 +1196,7 @@ Once having thrown a flower consecrated with the Weapon (into it) and entered th
 
 [^314]: Note that a temple is not necessarily meant here. It may be just a small private shrine. Indeed, this is more likely. Trika rites at least, would not be performed in public. Certainly, they do not require temples. Indeed, we know of none. It is well known that Siddhānta rituals have been performed in South Indian temples built for that purpose for some centuries However, there is no reference to temples of a substantial size, at least in the carly Siddhāntas, although free-standing temples existed already in the 5\* century, and cave temples some centuries before that. The Saiva rites were performed in them by Pāśupatas or Brahmins, and were largely centred on a Liṅgam worshipped with Vedic mantras.
 
-[^315]: ‘Then, having thrown a flower, over which the Weapon has been repeated (three times) thus: ‘PHAT \[illegible\] PHAT’ and having meditated \[illegible\] that the obstacles have been removed, having entered inside, he should view the abode of the sacrifice all around, (his) gaze blazing with the rays of the Supreme Lord.’ TSā p. 137.
+[^315]: ‘Then, having thrown a flower, over which the Weapon has been repeated (three times) thus: ‘PHAT PHAṬ PHAT’ and having meditated (dhyātvā) that the obstacles have been removed, having entered inside, he should view the abode of the sacrifice all around, (his) gaze blazing with the rays of the Supreme Lord.’ TSā p. 137.
 
 [^316]: The malevolent powers are cast out with the gaze and prevented from entering again with the mantra of the Armour. The ‘securing of the directions’ (digbandha) is done by projecting the Weapon in all the directions, with or without offerings such as flowers and the like. See SŚP, vol. 1, p. 22, note 4. Concerning the Armour and the Weapon, see below, 30/39cd-40ab, 41cd. See above 15/56, note 130.
 
@@ -1228,7 +1228,7 @@ pratyayo hi na tasyāḥ syād ekasyā anupāhiteḥ ॥ 194 ॥
 
 [^320]: MV 8/18a, also quoted below ad 15/230cd-231ab. The context in the MV is indeed entry into the edifice where the sacrifice is to take place (yāgasadana). He who seeks salvation (mumukṣu) faces north, that is, towards the Aghora face of the deity. One who seeks worldly powers and benefits (bubhukṣu) face east, towards Sadyojāta’s face. See also below 15/231cd-232ab. Cf. SvTu ad 2/28cd-29.
 
-[^321]: A directional orientation of the officiant in any rite, and so too therefore of the rite itself, is essential. All substantial rituals refer to the directions that the officiant must secure (digbandha) by the worship of the guardians of the quarters and the appropriate Mantras. The directions are normally ten. The nadir and zenith are two. There are four cardinal directions, normally traced beginning with the East, moving round in a clockwise direction through the South, West and North. Between the cardinal directions there are four intermediate ones, namely, Southeast, Southwest, Northwest and Northeast, making eight altogether. It is important to remember that in the Indian way of thinking, the directions are determined in relation to the individual who is in the centre. The rising and setting of the sun are absolute points of reference. The former takes place in front and the latter behind the person in the centre. Accordingly, the East is called pūrva in Sanskrit meaning literally ‘in front’. Analogously, the West is called paśscima — ‘behind’, the South is daksina ~ ‘right’ and the North is vāma — ‘left’. Here, in Abhinava’s presentation, the cardinal directions and the zenith are marked by the five faces of Sadāśiva. 1 the following passage from verse 194 to 232ab, Abhinava teaches how the directions are established in relation to a centre within consciousness, where the individual, limited consciousness of the perceiver is located. He makes no mention of any scriptural source anywhere in his presentation. Thus, at first sight it appears that it is his own conception, but in the Tantrasāra he acknowledges his teacher — undoubtably Śambhunātha — as the source of this teaching, as he is of numerous others. Here is the passage: “There (with regards to the perception of the directions), it is said that the Supreme Lord’s freedom, by which the iconic forms (mūrti) (of the five faces of Sadāśiva) are made manifest, is directionality (itself) (diktva). There, the light of consciousness itself is the centre, because the other (directional) divisions proceed from that. The zenith \[illegible\] is the region the Light appropriates as its own. The nadir (below) is what is not such (i.e. the Light). The East faces the shining (of the Light), other (and opposite to that) is the West, because the Light is in front (of the eastern direction, whereas it is behind in relation to the western one). Next comes the South, which is the place of ascent into the flux of that Light, because it is in consonance (with it and agreeable to it). (The direction) that faces in front of it, because it is the object of illumination, is the north. These are the four directions. The Lord (bhagavat) is there in the centre. Above is His face as Īśāna. Below is the face of the netherworlds. In the four directions beginning with the east are (located) the ones called the venerable Tatpuruṣa, Aghora, Sadyojāta and Vāmadeva. In the middle between the four directions there are four (more). In this way, the glorious power of consciousness makes the division of the directions, made by (these) iconic forms (mārti), manifest. Thus, direction is not another (independent) reality principle (tattva). Just as when one wishes to cross over one’s own shadow (and every time one attempts to do so) it repeatedly remains in front, in the same way, (each direction) gravitates towards the centre, (where) the Supreme Lord (is located). It said that the state of being in the centre is the presiding condition (that governs) all (the directions, as they are invariably set in relation to it). Thus, just as the Lord divides up the directions in this way, so too does the sun, and that is the Supreme Goddess, who is said here and there (in the scriptures) to be (the Lord's illuminating) power of knowledge \[illegible\] The eastern (quarter) (pūrvā) is where the first (pūrva) manifestation (of the Light occurs). Wherever that takes place, (the East) is there accordingly. (This is) because, although (each direction) depends on (and is set in relation) to oneself, the direction that faces towards oneself is (always) in front (that is, east). This is the discussion (carcā) concerning the directions, according to Abhinavagupta’s venerable teacher (Śambhunātha).’ TSā p. 138-139
+[^321]: A directional orientation of the officiant in any rite, and so too therefore of the rite itself, is essential. All substantial rituals refer to the directions that the officiant must secure (digbandha) by the worship of the guardians of the quarters and the appropriate Mantras. The directions are normally ten. The nadir and zenith are two. There are four cardinal directions, normally traced beginning with the East, moving round in a clockwise direction through the South, West and North. Between the cardinal directions there are four intermediate ones, namely, Southeast, Southwest, Northwest and Northeast, making eight altogether. It is important to remember that in the Indian way of thinking, the directions are determined in relation to the individual who is in the centre. The rising and setting of the sun are absolute points of reference. The former takes place in front and the latter behind the person in the centre. Accordingly, the East is called pūrva in Sanskrit meaning literally ‘in front’. Analogously, the West is called paśscima — ‘behind’, the South is daksina ~ ‘right’ and the North is vāma — ‘left’. Here, in Abhinava’s presentation, the cardinal directions and the zenith are marked by the five faces of Sadāśiva. 1 the following passage from verse 194 to 232ab, Abhinava teaches how the directions are established in relation to a centre within consciousness, where the individual, limited consciousness of the perceiver is located. He makes no mention of any scriptural source anywhere in his presentation. Thus, at first sight it appears that it is his own conception, but in the Tantrasāra he acknowledges his teacher — undoubtably Śambhunātha — as the source of this teaching, as he is of numerous others. Here is the passage: “There (with regards to the perception of the directions), it is said that the Supreme Lord’s freedom, by which the iconic forms (mūrti) (of the five faces of Sadāśiva) are made manifest, is directionality (itself) (diktva). There, the light of consciousness itself is the centre, because the other (directional) divisions proceed from that. The zenith \[illegible\] is the region the Light appropriates as its own. The nadir (below) is what is not such (i.e. the Light). The East faces the shining (of the Light), other (and opposite to that) is the West, because the Light is in front (of the eastern direction, whereas it is behind in relation to the western one). Next comes the South, which is the place of ascent into the flux of that Light, because it is in consonance (with it and agreeable to it). (The direction) that faces in front of it, because it is the object of illumination, is the north. These are the four directions. The Lord (bhagavat) is there in the centre. Above is His face as Īśāna. Below is the face of the netherworlds. In the four directions beginning with the east are (located) the ones called the venerable Tatpuruṣa, Aghora, Sadyojāta and Vāmadeva. In the middle between the four directions there are four (more). In this way, the glorious power of consciousness makes the division of the directions, made by (these) iconic forms (mārti), manifest. Thus, direction is not another (independent) reality principle (tattva). Just as when one wishes to cross over one’s own shadow (and every time one attempts to do so) it repeatedly remains in front, in the same way, (each direction) gravitates towards the centre, (where) the Supreme Lord (is located). It said that the state of being in the centre is the presiding condition (that governs) all (the directions, as they are invariably set in relation to it). Thus, just as the Lord divides up the directions in this way, so too does the sun, and that is the Supreme Goddess, who is said here and there (in the scriptures) to be (the Lord's illuminating) power of knowledge making eight The eastern (quarter) (pūrvā) is where the first (pūrva) manifestation (of the Light occurs). Wherever that takes place, (the East) is there accordingly. (This is) because, although (each direction) depends on (and is set in relation) to oneself, the direction that faces towards oneself is (always) in front (that is, east). This is the discussion (carcā) concerning the directions, according to Abhinavagupta’s venerable teacher (Śambhunātha).’ TSā p. 138-139
 
 *[p. 120]* ^pg138
 
@@ -1265,7 +1265,7 @@ If (you maintain) that nonetheless that (must) exist in order that the (daily co
 उपाधिमात्रं तु तथा वैचित्रयाय कथं भवेत् । १९५ ॥
 (mirti), ववा7णता7वी 11
 
-\[illegible\] tu tathā vaicitryāya kathaṁ bhavet ॥ 195 ॥ 
+upādhimātraṁ tu tathā vaicitryāya kathaṁ bhavet ॥ 195 ॥ 
 
 (Moreover,) how can just a limiting adjunct serve to give rise to diversity (vaicitrya) in this way? (195cd) 
 

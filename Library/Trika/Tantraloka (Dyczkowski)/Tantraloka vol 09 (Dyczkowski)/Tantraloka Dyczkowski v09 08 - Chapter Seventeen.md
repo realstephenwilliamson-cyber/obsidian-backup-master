@@ -54,7 +54,7 @@ After having grasped in this way the (mutual) pervasion as a unity within the fi
 
 *[p. 140]* ^pg160
 
-should cast the three impurities (mala) of Karma, Māyā and the Individual one onto the (disciple’s) arms, throat and topknot (respectively), by linking (yogena) (them to) knots (tied) in a (sacred) thread.[^341] \[illegible\] 
+should cast the three impurities (mala) of Karma, Māyā and the Individual one onto the (disciple’s) arms, throat and topknot (respectively), by linking (yogena) (them to) knots (tied) in a (sacred) thread.[^341] (1cd-3ab) 
 
 #### Viveka on 17.1–3
 
@@ -93,7 +93,7 @@ Even if this is so, why is it said that it is (to be placed) on the arms etc.? W
 बाहू कमीस्पदं विष्णुमीयात्मा गलसंश्रितः ।। ४ ॥
 अधोवहा शिखाणुत्वं तेनेत्थं कल्पना कृता ।
 
-bāhū karmāspadaṁ viṣnur māyātmā \[illegible\] ॥ 4 ॥
+bāhū karmāspadaṁ viṣnur māyātmā galasaṁśritaḥ ॥ 4 ॥
 adhovahā śikhānutvaṁ tenetthaṁ kalpanā kṛtā | 
 
 The arms are the locus of action. Viṣṇu, whose nature is Māyā, is located in the throat. The topknot that flows downwards (represents the Impurity that engenders the state of limitation) of the individual soul. It is for this reason that (the knots are) imagined in this way.[^344] (4cd-5ab) 
@@ -110,7 +110,7 @@ Surely (one may ask), even if this is so, why are the three (strands) of the thr
 वक्तुं त्रिगुणं सूत्रं ्रन्थये परिकल्पयेत् ।
 
 naraśaktiśivākhyasya trayasya bahubhedatām ॥ 5 ॥
-vaktuṁ tris \[illegible\] sūtran granthaye parikalpayet | 
+vaktuṁ tris triguṇaṁ sūtran granthaye parikalpayet | 
 
 The thread for the knot should be fashioned with three triple (tristrigunam) strands, in order to signify that the triad called Man, Śakti, and Śiva is of many kinds.[^345] (5cd-6ab) 
 
@@ -198,7 +198,7 @@ Surely (one may ask), it was said before that the aggregate of phonemes, underst
 āvāhane mātṛkārṇaṁ mālinyarnaṁ ca pūjane ॥ 10 ॥
 kuryād iti guruḥ prāha svarūpāpyāyanadvayāt | 
 
-The teacher[^349] has said that, in the course of invocation (of each principle), one should (utter) a phoneme from the Mātṛkā (order of the alphabet), and in the course of (its) worship (pūjā), from the Mālinī (order), because the two, respectively, (differentiate) the nature (of each one) and nourish \[illegible\][^350] (10cd-11ab) 
+The teacher[^349] has said that, in the course of invocation (of each principle), one should (utter) a phoneme from the Mātṛkā (order of the alphabet), and in the course of (its) worship (pūjā), from the Mālinī (order), because the two, respectively, (differentiate) the nature (of each one) and nourish (them)’.[^350] (10cd-11ab) 
 
 #### Viveka on 17.10–11
 
@@ -252,7 +252,7 @@ Surely, the invocation (is the topic) commenced here. How is it that he refers t
 
 [^352]: Concerning the term ñha — the ‘modification of a Mantra in accord with its changing context’, see above, 16/268 (268cd-269ab) and note.
 
-[^353]: NAMAH KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. In the case of worship (pājā), the Mantra letter of the Earth principle would be according to the Mālinī order of the alphabet, which is PHA. The final ‘namaḥ’ used for worship (pūjā) is substituted with \[illegible\] if a fire sacrifice (homa) is being offered. The mantras of the remaining 35 principles have the same structure; all that needs to be done is substitute its name first in the vocative (like dhare) and then in the dative (like dharāyai). Note that the letters are in the reverse with respect to the normal alphabetical order. A question arises here. As the letters of the two alphabets are 50 and the principles are 36, what happens to the remaining 14 letters?
+[^353]: NAMAH KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. In the case of worship (pājā), the Mantra letter of the Earth principle would be according to the Mālinī order of the alphabet, which is PHA. The final ‘namaḥ’ used for worship (pūjā) is substituted with ‘svāhā’ if a fire sacrifice (homa) is being offered. The mantras of the remaining 35 principles have the same structure; all that needs to be done is substitute its name first in the vocative (like dhare) and then in the dative (like dharāyai). Note that the letters are in the reverse with respect to the normal alphabetical order. A question arises here. As the letters of the two alphabets are 50 and the principles are 36, what happens to the remaining 14 letters?
 
 
 *[p. 146]* ^pg166
@@ -299,7 +299,7 @@ with this view, (the state of pure alert attention is) the process of penetratin
 Thus, he says: 
 
 शाक्ती भूमिश्च सैवोक्ता यस्यां मुख्यास्ति पूज्यता ।
-sāktī bhūmiś ca saivoktā \[illegible\] mukhyāsti pūjyatā | 
+sāktī bhūmiś ca saivoktā yasyāṁ mukhyāsti pūjyatā | 
 
 This is said to be the plane of Power (śakti), within which is the primary (venerable and sacred) state of the object of worship (pūjyatā). (159) 
 
@@ -742,7 +742,7 @@ He (now) analyses the group of fifteen Mantras.
 pibanyādyaṣtakaṁ śastrādikaṁ ṣaṭkaṁ parā tathā ॥ 39 ॥
 iti pañcadaśaite syuḥ kramāllīnatvasaṁskṛtau | 
 
-The fifteen mantras (that are used) for the purification (that takes place) by merger are, in due order, the group of eight beginning with Pibanī, the group of six (limbs) beginning with the Weapon, and \[illegible\][^392] (39cd-40ab) 
+The fifteen mantras (that are used) for the purification (that takes place) by merger are, in due order, the group of eight beginning with Pibanī, the group of six (limbs) beginning with the Weapon, and Parā.[^392] (39cd-40ab) 
 
 #### Viveka on 17.39–40
 
@@ -1053,7 +1053,7 @@ The Burning of the Fetters (pāśadāhaḥ)
 छिन््यात्कला हिसा किञित्कर्तृत्वोन्मीलनात्मिका || ६५ ॥।
 क्मीख्यमलजृम्भात्मा तंच ग्रसं सुगग्रगम् ।
 पूणीहुत्या समं वहविमत्रतेजसि निहित || ६६ ॥
-evaṁ kramāt kalātattve \[illegible\] pāśaṁ bhujāśritam |
+evaṁ kramāt kalātattve śuddhe pāśaṁ bhujāśritam |
 chindyāt kalā hi sā kiñcit kartṛtvonmīlanātmikā ॥ 65 ॥
 karmākhyamalajṛmbhātmā tarn ca granthińn srugagragam |
 pūrnāhutyā samaṁ vahnimantratejasi nirdahet || 66 ॥ 
@@ -1115,7 +1115,7 @@ evar māyāntasaṁśuddhau kanthapāśaṁ ca homayet Il 70 |
 pūrṇayā tasya māyākhyaṁ pāśaṁ bhedaprathātmakam |
 dahāmi phaṭtrayaṁ vauṣad iti pūrṇāṁ kṣiped guruḥ ॥ 71 ॥
 nirbījā yadi kāryā tu tadātraivāparāṁ kṣipet |
-\[illegible\] samayapāśākhyabījadāhapadānvitām ॥ 72 || 
+pūrṇāṁ samayapāśākhyabījadāhapadānvitām ॥ 72 || 
 
 *[p. 170]* ^pg190
 
@@ -1249,7 +1249,7 @@ siṣyadehādim ātmīyadehaprāṇādiyojitam |
 kṛtvātmadehaprāṇāder viśvam antaranusmaret || 79 ॥
 uktaprakriyayā caivaṁ dṛdhabuddhir ananyadhīḥ |
 prāṇasthaṁ deśakālādhvayugamn prānaṁ ca śaktigam |I| 80 ॥
-\[illegible\] ca saṁvidgatāri śuddhāṁ saṁvidaṁ śivarūpiṇīm |
+tāṁ ca saṁvidgatāri śuddhāṁ saṁvidaṁ śivarūpiṇīm |
 siṣyasarnividabhinnāṁ ca mantravahnyādyabhedinīm || 81 ॥
 dhyāyan prāgvat prayogenṇa śivaṁ sakalaniṣkalam |
 dvyātmakaṁ vā kṣipet pūrnāṁ praśāntakaranena tu || 82 || 
@@ -1285,7 +1285,7 @@ The Second Full Oblation
 शिवार्करशिमभिस्तीत्र : क्षुब्धं ज्ञानामृतं तु यत् ॥ ८४ ॥
 तेन संतर्पयेत्सम्यक् प्रशान्तकरणेन तु ।
 
-\[illegible\] traisirase tantre sarvasahpūranātmakam |
+uktaṁ traisirase tantre sarvasahpūranātmakam |
 mūlād udayagatyā tu śivenduparisariplutam ॥ 83 ||
 janmāntamadhyakuharamūlasrotahsamutthitam |
 śivārkaraśmibhis fīvraiḥ kṣubdhari jñānāmṛtaṁ tu yat ॥ 84 ॥ tena saṁtarpayet samyak praśāntakaranena tu | 
@@ -1353,9 +1353,9 @@ That is also said in our scripture.[^436] Thus he says:
 तत्र कुम्भकमास्थाय ध्यायन्सकलनिष्कलम् ।
 तिष्ठत्तावदनद्रिग्नो यावदाज्यक्षयो भवेत् ॥ ९० ॥
 
-\[illegible\] Śrīpūrvaśāstre ca srucam āpūrya sarpiṣā |
+uktaṁ Śrīpūrvaśāstre ca srucam āpūrya sarpiṣā |
 kṛtvā śiṣyaṁ tathātmasthaḥ mūlamantram anusmaran |I 88 I|
-sivaṁ śaktiṁn tathātmānari \[illegible\] sarpis tathānalam |
+sivaṁ śaktiṁn tathātmānari śiṣyaṁ sarpis tathānalam |
 ekīkurvañ chanair gacched dvādaśāntam ananyadhīḥ \\\\ 89 ॥
 tatra kumbhakam āsthāya dhyāyan sakalaniṣkalam |
 tiṣthet tāvad anudvigno yāvad ājyakṣayo bhavet ॥ 90 ॥ 
@@ -1424,13 +1424,13 @@ bhogān samastavyastatvabhedair ante paran padam ॥ 92 ||
 tadā tattattvabhūmau tu tatsamkhyāyām ananyadhīḥ |
 punar yojanikār kuryāt pūrnāhutyantarena tu ॥ 93 ॥
 muktipradā bhogamokṣapradā vā yā prakīrtitā |
-\[illegible\] sā syāt sabījatvanirbījātmatayā dvidhā I| 94 ॥
+dīkṣā sā syāt sabījatvanirbījātmatayā dvidhā I| 94 ॥
 bāle nirjñātamarane tv aśakte vā jarādibhiḥ \\ kāryā nirbījikā dīkṣā śaktipātabalodaye ॥ 95 ॥
 nirbījāyār sāmayāṁs tu pāśān api viíodhayet |
 kṛtanirbījadīkṣas tu devāgnigurubhaktibhāk Il 96 I|
 iyataiva ivan yāyāt sadyo bhogān vibhujya vā | 
 
-[^439]If, on the contrary, (the disciple) were to desire to obtain worldly benefits after death somewhere within the reality levels (tattva), whether in general or in particular,[^440] and (then) finally the supreme place, (the teacher), deliberating \[illegible\] on the plane of that reality level, with his mind intent on nothing else, should perform the rite that conjoins (the disciple) with it by means of another full oblation. (92-93) 
+[^439]If, on the contrary, (the disciple) were to desire to obtain worldly benefits after death somewhere within the reality levels (tattva), whether in general or in particular,[^440] and (then) finally the supreme place, (the teacher), deliberating (saṁkhyā) on the plane of that reality level, with his mind intent on nothing else, should perform the rite that conjoins (the disciple) with it by means of another full oblation. (92-93) 
 
 ### TĀ 17.94–95
 
@@ -1442,7 +1442,7 @@ In the course of an initiation without seed, (the teacher) should also purify th
 
 [^439]: This passage (i.e. 17/92-97ab) appears to be Abhinava’s own words.
 
-[^440]: The first case refers, according to Jayaratha, to the state of conjunction (sāyujya) with Śiva, and the second to the being in the same world with Him (sālokya). See above, \[illegible\] 13/245cd-246ab below, 28/237cd ff.
+[^440]: The first case refers, according to Jayaratha, to the state of conjunction (sāyujya) with Śiva, and the second to the being in the same world with Him (sālokya). See above, TĀv 13/245cd-246ab below, 28/237cd ff.
 
 [^441]: Concerning these two types of initiation, see above 15/23cd-26 and notes. Just to remind the reader, the initiation with seed is one that healthy adult males can take who can meet the obligations of the observance of the Rule (samaya). Those without seed include children, women, simpletons, and the disabled, who cannot or need not observe them.
 
@@ -1464,7 +1464,7 @@ Surely, (one may ask that, by saying that) ‘he goes to Śiva’, is the proces
 Initiation into the Disembodied form of Śiva Beyond the Principles श्रीमीक्षोत्तरे चोक्तं चारे षरिविंशदगुले || ९७ ॥
 तत्तवान्यापादमूधीन्तं भुवनानि त्यजेत्रमात् तुदिमात्रं निष्कलं तददेहं तदहंपरम् ॥ ९८ ॥
 शक्त्या तत्र क्षिपाम्येनमिति ध्याय॑स्त दीक्षयेत् ।
-srīmaddīkṣottare \[illegible\] cāre ṣaṭtriṁśadaṁigule 97॥
+srīmaddīkṣottare coktaṁ cāre ṣaṭtriṁśadaṁigule 97॥
 =, tattvāny āūpādamūrdhāntarni bhuvanāni tyajet kramāt |
 tuṭimātrari niṣkalaṁ tad adehaṁ tad ahar param ॥ 98 ॥
 saktyā tatra kṣipāmy enam iti dhyāyaṁs tu dīkṣayet | 
@@ -1477,9 +1477,9 @@ And it is said in the venerable Dikṣottara that ‘travelling (through the bod
 
 [^444]: Emend tad adehaṁ to yad \[illegible\]
 
-[^445]: 17/97cd-99ab is a concise paraphrase of Dīkṣottara 1/10cd-15, which reads, according to IFP transcript T 17A (p. 797-798), as follows: saṭtṁśāngulaṁ parityajya kramavac ca sumadhyame || 10 Il tuṭimātram sa vijñeyo dehamuktas tu niṣkalaḥ | svāmibhāvaṁ tu yat tasmin dvādaśāntam (> -nte) avasthitaḥ (> vyavasthitam) \\ 11 ॥ samyukta (> -yuktaṁ) śaktinā buddham tutimātras tu niṣkalaḥ | saktyādehasthito hy ātmā niṣkalaḥ parameśvaraḥ || 12 ॥ tattvastho vyāpayed devi dehān muktas tu niṣkalaḥ | susamiddhe yathā vahnau śikhā lihati cārbare ॥ 13 ॥ dehasya tad varārohe līlāyati tatpade dīkṣākāle '‘bhimānan tu tadvat kuryāt tu deśikaḥ ॥ 14 ॥ aham eva parar tatvaṁ tatvalīnas tathaiva ca | Saktyā \*ranibhūtā yā (> tāranibhūtayā) punas tatra kṣipāmy aham ॥ 15 Il (note tatva- has everywhere been silently corrected to tattva-) ‘O lady with a beautiful waist, (travelling through the body of the disciple), having abandoned (spans of) thirty-six fingers one after another in due order (kramavat), in just a moment he should be known to be undifferentiated (niskala) (Śiva), free of the body. (10641190) Lordship is established within that End of the Twelve and, conjoined with (Śiva’s) power, is awakened (by it) for just a moment, (and he becomes) undifferentiated (Śiva). The Self, disembodied by the power (of the Lord), is the undifferentiated Supreme Lord. O goddess, established in (the highest) reality, he pervades (everywhere and), freed from the body, (he is) undifferentiated (Siva). (1 1cd-13ab) Just as when a fire is well-fuelled, (its) flame licks (up) into the sky, (in the same way) 0 fair lady, (that power) causes (the life force) of the body to play on that plane (of disembodied Śiva). In the same way, at the time of initiation, the teacher should cultivate a notion of himself (abhimāna) that “I myself am the supreme reality, and in the same way I am merged within it. I am placing (my disciple) there by means of (Śiva’s) saving power.” (1364-15). The remaining part of the chapter fills out the details. evar yo vetti tatvena vahnivad dehamadhyataḥ | atītaś śiva (> śivas) tadvahneḥ sa tu yojayate pare ॥ 16 ॥ saktyā tāvat sa yujyeta yāvat tatvan na vindati | udite tu pare tattve tatrastho 'pi na vāryate ॥ 17 ॥ bandhamuktaḥ pare śānte pare līyanti (> līyati) śāśvate | līnas sarvagato devi dharmādharmavivarjitaḥ ॥ 18 ॥ hṛtpadmād yāvat tatpadmari pṛthak saṁihāralakṣitam | pP. 799) yāvad vaktram anuprāptaṁ dvibhāgaṁ tyajate tu saḥ \\ 19 ॥ tṛtīyaṁ tyajate svalpo tryahśair muktas tu niṣkalaḥ | atītaṁ dvādaśānte tu śaktipadmari prakīrtitam ॥ 20 ॥ tatrasthaṁ tuṭimātran tu kālaṁ tasya prakīrtii niṣkalaś śaktipadme tu prabuddhas tatra tiṣthati ॥ 21 ॥ atītas suprabuddhas tu unmanatvaṁ yadā priye | He who knows that as it truly is in this way, is like fire in the middle of the body. He who has gone beyond that fire and is tranquil (śiva) is conjoined into the Supreme. (16) He should be conjoined thus \[illegible\] with (Śiva’s) power until he does not attain reality (tattva). When the supreme reality has arisen, even though he is present there (in the body), he is not obstructed. (17) He, free of bondage in the supreme and tranquil one, merges into the supreme and eternal (reality). O goddess, the one who has merged (thus) is omnipresent and is devoid of (both) Dharma and Adharma. (18) From the lotus of the heart up to \[illegible\] that lotus which, separate (from it), is characterized by withdrawal. When the face is attained after that, he abandons the twofold division (of body and soul?). One who is subtle (svalpa) abandons the third (level) and, free of the three aspects, is Undifferentiated (Siva) (niskala). (19-20ab) The transcendent in the End of the Twelve is said to be the Lotus of Power. The moment (tuṭimātra) present there is said to be the time of that (transcendent Śiva). Undifferentiated (Śiva) abides awakened (prabuddha) there in the Lotus of Power. The transcendent one is well awakened (suprabuddha) when, O beloved, the Transmental state (arises). (20cd-22ab)
+[^445]: 17/97cd-99ab is a concise paraphrase of Dīkṣottara 1/10cd-15, which reads, according to IFP transcript T 17A (p. 797-798), as follows: saṭtṁśāngulaṁ parityajya kramavac ca sumadhyame || 10 Il tuṭimātram sa vijñeyo dehamuktas tu niṣkalaḥ | svāmibhāvaṁ tu yat tasmin dvādaśāntam (> -nte) avasthitaḥ (> vyavasthitam) \\ 11 ॥ samyukta (> -yuktaṁ) śaktinā buddham tutimātras tu niṣkalaḥ | saktyādehasthito hy ātmā niṣkalaḥ parameśvaraḥ || 12 ॥ tattvastho vyāpayed devi dehān muktas tu niṣkalaḥ | susamiddhe yathā vahnau śikhā lihati cārbare ॥ 13 ॥ dehasya tad varārohe līlāyati tatpade dīkṣākāle '‘bhimānan tu tadvat kuryāt tu deśikaḥ ॥ 14 ॥ aham eva parar tatvaṁ tatvalīnas tathaiva ca | Saktyā \*ranibhūtā yā (> tāranibhūtayā) punas tatra kṣipāmy aham ॥ 15 Il (note tatva- has everywhere been silently corrected to tattva-) ‘O lady with a beautiful waist, (travelling through the body of the disciple), having abandoned (spans of) thirty-six fingers one after another in due order (kramavat), in just a moment he should be known to be undifferentiated (niskala) (Śiva), free of the body. (10641190) Lordship is established within that End of the Twelve and, conjoined with (Śiva’s) power, is awakened (by it) for just a moment, (and he becomes) undifferentiated (Śiva). The Self, disembodied by the power (of the Lord), is the undifferentiated Supreme Lord. O goddess, established in (the highest) reality, he pervades (everywhere and), freed from the body, (he is) undifferentiated (Siva). (1 1cd-13ab) Just as when a fire is well-fuelled, (its) flame licks (up) into the sky, (in the same way) 0 fair lady, (that power) causes (the life force) of the body to play on that plane (of disembodied Śiva). In the same way, at the time of initiation, the teacher should cultivate a notion of himself (abhimāna) that “I myself am the supreme reality, and in the same way I am merged within it. I am placing (my disciple) there by means of (Śiva’s) saving power.” (1364-15). The remaining part of the chapter fills out the details. evar yo vetti tatvena vahnivad dehamadhyataḥ | atītaś śiva (> śivas) tadvahneḥ sa tu yojayate pare ॥ 16 ॥ saktyā tāvat sa yujyeta yāvat tatvan na vindati | udite tu pare tattve tatrastho 'pi na vāryate ॥ 17 ॥ bandhamuktaḥ pare śānte pare līyanti (> līyati) śāśvate | līnas sarvagato devi dharmādharmavivarjitaḥ ॥ 18 ॥ hṛtpadmād yāvat tatpadmari pṛthak saṁihāralakṣitam | pP. 799) yāvad vaktram anuprāptaṁ dvibhāgaṁ tyajate tu saḥ \\ 19 ॥ tṛtīyaṁ tyajate svalpo tryahśair muktas tu niṣkalaḥ | atītaṁ dvādaśānte tu śaktipadmari prakīrtitam ॥ 20 ॥ tatrasthaṁ tuṭimātran tu kālaṁ tasya prakīrtii niṣkalaś śaktipadme tu prabuddhas tatra tiṣthati ॥ 21 ॥ atītas suprabuddhas tu unmanatvaṁ yadā priye | He who knows that as it truly is in this way, is like fire in the middle of the body. He who has gone beyond that fire and is tranquil (śiva) is conjoined into the Supreme. (16) He should be conjoined thus \[illegible\] with (Śiva’s) power until he does not attain reality (tattva). When the supreme reality has arisen, even though he is present there (in the body), he is not obstructed. (17) He, free of bondage in the supreme and tranquil one, merges into the supreme and eternal (reality). O goddess, the one who has merged (thus) is omnipresent and is devoid of (both) Dharma and Adharma. (18) From the lotus of the heart up to (yāvat) that lotus which, separate (from it), is characterized by withdrawal. When the face is attained after that, he abandons the twofold division (of body and soul?). One who is subtle (svalpa) abandons the third (level) and, free of the three aspects, is Undifferentiated (Siva) (niskala). (19-20ab) The transcendent in the End of the Twelve is said to be the Lotus of Power. The moment (tuṭimātra) present there is said to be the time of that (transcendent Śiva). Undifferentiated (Śiva) abides awakened (prabuddha) there in the Lotus of Power. The transcendent one is well awakened (suprabuddha) when, O beloved, the Transmental state (arises). (20cd-22ab)
 
-    na \[illegible\] na kalācāraṁ na tatvā (> \[illegible\] na ca devatā || 22 I| sunirvāṇami parar Śuddhaṁ guruvaktre pratiṣthitam | tarn prāpya na nivartante bhayasaṁsārabandhane || 23 ॥ na tasya cāmarā (> cāparar) khyātaṁ niṣkalāvasthitasya tu | p. 800) etat te niṣkalaṁ tattvam uktam eva samāsataḥ ॥ 24 ॥ caturvidhaḥ mayā devi kathitaṁ tatvam uttamam | trividhaṁ tu parityajya śaktyantaṁ (> -nte) yas tuṭi smṛtaḥ ॥ 25 ॥ tuṭau paṭau (> tuṭau) tu sthitvā vai ṣodaśāmnśe vyavasthitaḥ | sa bhoktā sarvatatvānām śaktyante yas tutṭi smṛtaḥ ॥ 26 ॥ sa bhoktā sarvatatvānāṁ íaktinā saha saṁyutaḥ | saktyatīto varārohe tatvena saha yujyate ॥ 27 Il catuhpadmar bhavet padmaṁ vyāpinī (> vyāpinī) karnikāsthitā | tatra śakticatuṣkan tu sūkṣmākhyaṁ \[illegible\] itam ॥ 28 ॥ \[illegible\] budhvā vimucyante nātra kāryā vicāranā | Beautiful Nirvāṇa, supreme and pure, (where) there is no time or the activity of the forces (kalācāra), no (separate) reality and no deity, is established in the teacher’s mouth. (22cd-23ab) Having attained that, they do not return into the bondage of the world of transmigratory existence and fear. Nor is there said to be anything else (to be attained) for one who is established in undifferentiated (Śiva). In this way I have told you concisely about the reality which is undifferentiated (Siva). (23cd-24ab) O goddess, I have told (you) the most excellent reality of four kinds. Having abandoned the one of three kinds, and having stood firm each moment, the moment (tuṭi) that is said to be present within Power is established in the sixteenth part. (25cd-26ab) That is the enjoyer of all the reality principles, and is conjoined with (Śiva’s) Power. O fair lady, the one who is beyond (Śiva’s) power is united with reality. (26cd-27) The fourth lotus is a lotus in the calyx of which is located the Pervasive One. There are four energies there, and it is said to be the one called the Subtle. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). (28-29ab) p. 801) sarvatantreṣu sāmānyaṁ tatrasthaṁ viṣuvaṁ smṛtam |l 29 ॥ prānṇasya tal layaṁ devi tatrastho 'pi (> na) nivartate | sakalaṁ niṣkalañ caiva mayanañ (> pranavaṁ) ca tṛtīyakam ॥ 30 ॥ praśāntam prāpya deveśi niṣkalaṁ viṣuvaṁ smṛtam | tribhāgabhājite cāre niṣkalaḥ pranavaḥ smṛtaḥ ॥ 31 I| praśāntas tu smṛto binduḥ niṣkalaḥ praṇavasya tu | sacetasya (> sacetasaḥ) smṛto jīvo yadā śaktyā tu yujyate ॥ 32 ॥ anyathā niṣkalo hy ātmā suṣuptāv iva lakṣyate | cinmātran tu smṛto (> smṛtan) hutvā cetā śaktiḥ prakīrtitā ॥ 33 ॥ srutvā budhvā vimucyante nātra kāryā vicāranṇā \\ p. 802) sarvatantreṣu sāīmānyaṁ tantrasthe (> tatrasthaṁ) viṣuvaṁ vadet (> bhavet) ॥ 34 ॥ prānṇasya tallayaṁ devi tatrasthe (> -stho) na nivartate | Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. Differentiated, undifferentiated and Pranava, the third, having attained the Completely Tranquil, O mistress of the gods, the Undifferentiated is said to be the Equinox. (29cd-31ab) When the movement (of the breath) is divided into three parts, the Undifferentiated is considered to be Pranava. The Completely Tranquil is considered to be the Point (bindu), and is the Undifferentiated (form) of Pranava. (31cd-32ab) The individual soul is said to be sentient if conjoined with (Śiva’s) power. Otherwise, the Self is undifferentiated, and appears to be as if in deep sleep. That is said to be pure consciousness alone, and having made an offering to the fire (hutvā), consciousness is said to be (Śiva’s) power. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. (33cd-35ab)
+    na kālaṁ na kalācāraṁ na tatvā (> \[illegible\] na ca devatā || 22 I| sunirvāṇami parar Śuddhaṁ guruvaktre pratiṣthitam | tarn prāpya na nivartante bhayasaṁsārabandhane || 23 ॥ na tasya cāmarā (> cāparar) khyātaṁ niṣkalāvasthitasya tu | p. 800) etat te niṣkalaṁ tattvam uktam eva samāsataḥ ॥ 24 ॥ caturvidhaḥ mayā devi kathitaṁ tatvam uttamam | trividhaṁ tu parityajya śaktyantaṁ (> -nte) yas tuṭi smṛtaḥ ॥ 25 ॥ tuṭau paṭau (> tuṭau) tu sthitvā vai ṣodaśāmnśe vyavasthitaḥ | sa bhoktā sarvatatvānām śaktyante yas tutṭi smṛtaḥ ॥ 26 ॥ sa bhoktā sarvatatvānāṁ íaktinā saha saṁyutaḥ | saktyatīto varārohe tatvena saha yujyate ॥ 27 Il catuhpadmar bhavet padmaṁ vyāpinī (> vyāpinī) karnikāsthitā | tatra śakticatuṣkan tu sūkṣmākhyaṁ \[illegible\] itam ॥ 28 ॥ \[illegible\] budhvā vimucyante nātra kāryā vicāranā | Beautiful Nirvāṇa, supreme and pure, (where) there is no time or the activity of the forces (kalācāra), no (separate) reality and no deity, is established in the teacher’s mouth. (22cd-23ab) Having attained that, they do not return into the bondage of the world of transmigratory existence and fear. Nor is there said to be anything else (to be attained) for one who is established in undifferentiated (Śiva). In this way I have told you concisely about the reality which is undifferentiated (Siva). (23cd-24ab) O goddess, I have told (you) the most excellent reality of four kinds. Having abandoned the one of three kinds, and having stood firm each moment, the moment (tuṭi) that is said to be present within Power is established in the sixteenth part. (25cd-26ab) That is the enjoyer of all the reality principles, and is conjoined with (Śiva’s) Power. O fair lady, the one who is beyond (Śiva’s) power is united with reality. (26cd-27) The fourth lotus is a lotus in the calyx of which is located the Pervasive One. There are four energies there, and it is said to be the one called the Subtle. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). (28-29ab) p. 801) sarvatantreṣu sāmānyaṁ tatrasthaṁ viṣuvaṁ smṛtam |l 29 ॥ prānṇasya tal layaṁ devi tatrastho 'pi (> na) nivartate | sakalaṁ niṣkalañ caiva mayanañ (> pranavaṁ) ca tṛtīyakam ॥ 30 ॥ praśāntam prāpya deveśi niṣkalaṁ viṣuvaṁ smṛtam | tribhāgabhājite cāre niṣkalaḥ pranavaḥ smṛtaḥ ॥ 31 I| praśāntas tu smṛto binduḥ niṣkalaḥ praṇavasya tu | sacetasya (> sacetasaḥ) smṛto jīvo yadā śaktyā tu yujyate ॥ 32 ॥ anyathā niṣkalo hy ātmā suṣuptāv iva lakṣyate | cinmātran tu smṛto (> smṛtan) hutvā cetā śaktiḥ prakīrtitā ॥ 33 ॥ srutvā budhvā vimucyante nātra kāryā vicāranṇā \\ p. 802) sarvatantreṣu sāīmānyaṁ tantrasthe (> tatrasthaṁ) viṣuvaṁ vadet (> bhavet) ॥ 34 ॥ prānṇasya tallayaṁ devi tatrasthe (> -stho) na nivartate | Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. Differentiated, undifferentiated and Pranava, the third, having attained the Completely Tranquil, O mistress of the gods, the Undifferentiated is said to be the Equinox. (29cd-31ab) When the movement (of the breath) is divided into three parts, the Undifferentiated is considered to be Pranava. The Completely Tranquil is considered to be the Point (bindu), and is the Undifferentiated (form) of Pranava. (31cd-32ab) The individual soul is said to be sentient if conjoined with (Śiva’s) power. Otherwise, the Self is undifferentiated, and appears to be as if in deep sleep. That is said to be pure consciousness alone, and having made an offering to the fire (hutvā), consciousness is said to be (Śiva’s) power. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. (33cd-35ab)
 
     tathā yuktam idaṁ sarvan nānāceṣtāni kārayet ॥ 35 ॥ tatsthāne līyate jñānī jñe + +? paran layam | kalpanārahita jṁāṁ (> jṁānaṁ) sarvatatvavivarjitam ॥ 36 ॥ vyāpakaṁ sarvatatvānāri pāraṁparyena saṁsthitam | etat te niṣkalañ cārar kathitan tu mayākhilam ॥ 37 I| na deyañ ca tvayā devi anyāyapathavartine | kapaṭenopapannāya śravasyapi na dāpayet ॥ 38 ॥ vyāpinī vyomarūpā ca anantānāyakā (> nāyikā) smṛtā | p. 803) mūrti (> mūrtir) devasya vikhyātā śaktyā devabhuvasya tu || 39 ॥ pañcavyoma smṛtā hy ete śūnyāvasthā tu devatā | In this way, all this is sound (and proper). He should bring about many (kinds of) behaviour. The man of knowledge dissolves away in that place + = \* the supreme dissolution. It is knowledge free of thought constructs, and is devoid of all the reality principles. It pervades all the reality principles and is established by the lineage (of teachers). I have told you all about this, namely, undifferentiated motion. (35cd-37) O goddess, you should not give it to someone who is on an evil path, nor even allow one who has approached (a teacher) deceitfully to hear (it). The form of the Pervasive is the Void. It is endless and (supreme, and) is said to have no master. She is said to be form of the god, as the Power of the fire of the god. She is said to be the Five Voids. They are the state of Voidness and deity. (38-40ab) The Five Brahmās (see above, note 15,337) brahmādīnām varārohe śūnyadehaḥ paraḥ smṛtaḥ ॥ 40 ॥ etat te devatāyogaṁ prathamaṁ parikīrtitam | śaktyavasthāntarībhūtās sūkṣmādyāḥ parikīrtitāḥ ॥ 41 Il tatsthacetātmakā devāś śabdarūpāḥ prakīrtitāḥ | tṛtīyā tu varārohe jñātavyā deśikena tu I| 42 ॥ ‘O fair lady, the Void Body (śûnyadeha) of (the five causal forces) beginning with Brahmā is considered to be supreme. That is your Deity Yoga, which is said to be the first. The Subtle One and the rest are said to be included in the state of (Sivas) power. Word is said to be the nature of the deities present there that are consciousness. O fair lady, one should know by means of the teacher that (Power) is the third one. (40cd-42) dvividhasthāntare devi jyotīrūpaṁ vicintayet | ta (> tad) evam anurūpan tu pañcamām (> -maṁ) kathitaṁ tava ॥ 43 ॥ Īśavaktre tathāghore vāmas sadyas tathaiva ca | p. 804) trividhaḥ mantradehan tu veditavyaṁ prayatnataḥ ॥ 44 ॥ O goddess, one should think (that that which is its) form as light is within that which abides as two kinds. I have told you the fifth one, which is its facsimile (anurūpa) in this way. Within \[8/5 face and that of Aghora, is Vāma and so too Sadya ~ one should exert oneself to know (Śiva’s) mantra-body which is of three kinds. (43-44) brahmā viṣnus tathā rudro īśvaras tu sadāśivaḥ | pṛthivyāpas tathā tejo vāyur ākāíam eva ca ॥ 45 ॥ sūnyasparśas tathā śabdo jyotīrūpar tathaiva ca | mantrarūpar tathaiveha kathitaṁ tatvato mayā ॥ 46 ॥ sthūlāt sthūlatarair bhāvaiḥ sūkṣmāt sūkṣmataraiḥ punaḥ | pañca brahmāni deveśi veditavyāni yatnataḥ ॥ 47 ॥ Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva (are) Earth, Water, Fire, Air and Space, (as well as) the Void, touch, sound, light and the form of mantra. I have told (you this) here as it truly is. O mistress of the gods, one should exert oneself to know the five Brahmas by means of states (bhāva) that are grosser than gross and more subtle than subtle. (45-47)
 
@@ -1681,7 +1681,7 @@ As is said there (in the Mālinīvijayottara):
 
 [^452]: Read with MV 15/47d, siddhayogīśvarīmate for siddhayogīśvare mate. The separated form is Aiśa, and is not likely to have been employed by Abhinava. Indeed, he does not use it anywhere else. Törzsök (1999: 226) has not found any reference to this presentation of the dual form of the senses in the SYM, and Jayaratha does not cite any passage, which may indicate that he could not find any reference either.
 
-[^453]: TĀ 17/113ab = MV 15/45ab; 17/113cd is a condensation of MV 15/45cd-46, 17/114 = MV 15/47 17/1 14a reads ity evaṁ for ity \[illegible\] of MV 15/47a.
+[^453]: TĀ 17/113ab = MV 15/45ab; 17/113cd is a condensation of MV 15/45cd-46, 17/114 = MV 15/47 17/1 14a reads ity evaṁ for ity ayaṁ of MV 15/47a.
 
 
 *[p. 189]* ^pg209
@@ -1714,7 +1714,7 @@ Purification of the Principles with Trika Mantras
 samastamantrair dīkṣāyāṁ niyamas tv eṣa kathyate ॥ 115 ॥
 māyāntaśuddhau sarvāḥ syuḥ kriyā hy aparayā sadā |
 dvyātmayā sakalānte tu niṣkale parayaiva tu | 116 ॥
-\[illegible\] ca pibanyādi sakalānte ‘ṁgapañcakam |
+īśānte ca pibanyādi sakalānte ‘ṁgapañcakam |
 ity evaṁvidhim ālocya karma kuryād gurūttamaḥ ॥ 117 ॥ 
 
 The rule (niyama) regarding all the Mantras in general (applied) in the course of (this) initiation will (now be) stated. AIl the rites (kriyā) (that serve) to purify (the principles) up to the end of Māyā should always be (done) with (the mantra of) Aparā. (Those from Pure Knowledge) up to the end of immanent Śiva (sakala) with Parāparā (dvyātmā), and those up to transcendental Śiva (niṣkala) with Parā (Mantra). (The Mantras of) Pibanī and the rest (of the group of eight goddesses are applied) up to the end of 159, and the Five Limbs (aṅgapañcaka) at the end of immanent Śiva (sakala). The best teacher, should perform the rite with an eye on the prescription (vidhi) (executed) in this way.[^456] (115cd-117) 
@@ -1749,7 +1749,7 @@ The Oblations Required for the Paths
 प्रतिकर्म भवेत्ष्टिराहुतीनां त्रित््वके ।
 एकतत्त्वे शतं प्राहराहतीनां तु साष्टकम् । १२० ॥
 
-purādhvani hutīnāṁ yā \[illegible\] tattvavarnayoḥ |
+purādhvani hutīnāṁ yā saṁkhyeyaṁ tattvavarnayoḥ |
 tāmeva dvigunīkuryātpadādhvani caturguṇām || 118 ॥
 kramānmantrakalāmārge dviguṇā dviguṇā kramāt |
 yāvattritattvasahśuddhau syādviṁśatigunā tataḥ ॥ 119 ॥
@@ -1775,7 +1775,7 @@ Nor is this transposition (applicable) everywhere (in all cases). Thus he says:
 विलोमकर्मणा साकं याः पूणीहुतयः स्मृताः ।
 तासां सवीध्वसंशुद्धौ संख्यान्यत्वं किन ।॥ १२१ ॥
 
-vilomakarmanṇā \[illegible\] yāḥ pūrnāhutayaḥ smṛtāḥ |
+vilomakarmanṇā sākaṁ yāḥ pūrnāhutayaḥ smṛtāḥ |
 tāsāṁ sarvādhvasaṁṁśuddhau sarikhyānyatvaṁi na kiñcana | 121 ॥ 
 
 The number of full oblations, along with the one for the rite that removes obstacles, remains exactly the same, for the purification of all the Paths (whichever one it may be). (121) 

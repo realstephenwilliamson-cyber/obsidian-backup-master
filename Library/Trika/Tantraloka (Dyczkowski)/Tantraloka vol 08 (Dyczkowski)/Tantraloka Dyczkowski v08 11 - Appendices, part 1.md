@@ -20,7 +20,7 @@ Sa
 
 Parajā 
 
-Self La | \[illegible\] | Breast Ambikā | Parāśakti \$SS and ṬṬ: 
+Self La | Saṁhār | Breast Ambikā | Parāśakti \$SS and ṬṬ: 
 
 T: 
 
@@ -78,7 +78,7 @@ KṢa
 
 Saṁhārī 
 
-Navel \[e\] Icchāśa | Navel Saṁhārī Saṁhārī kti | Ma | Mahākālī | Buttock \[Me | Mahākā | \[illegible\] | Mahākālī | Mahākālī s 17 s S\] Kusumā | Genitals | > | Kusum | Genitals | \[illegible\] | Kusumāy -yudhā ā-yudhā udhā M Guhyaśakti a |" 
+Navel \[e\] Icchāśa | Navel Saṁhārī Saṁhārī kti | Ma | Mahākālī | Buttock \[Me | Mahākā | Buttock | Mahākālī | Mahākālī s 17 s S\] Kusumā | Genitals | > | Kusum | Genitals | \[illegible\] | Kusumāy -yudhā ā-yudhā udhā M Guhyaśakti a |" 
 
 |
 Thighs Śukrā ukrāśakti ṢṢSS: Krūrā 
@@ -109,9 +109,9 @@ Knee AI Kriyā W Kriyāśakt | Kriyāśakti 955 i
 
 and T: 
 
-Left knee \[illegible\] | Gāyatrī 
+Left knee O | Gāyatrī 
 
-Right \[illegible\] | Gāyatrī \[Sṛk Gāyatrī Gāyatrī shank 
+Right O | Gāyatrī \[Sṛk Gāyatrī Gāyatrī shank 
 
 AU | Sāvitī 
 
@@ -300,7 +300,7 @@ OM HASAKṢAMALAVARAYŪM ŚRĪKANṬHĀYA NAMAH
 
 3\. oṁ ṁrkṣamlvyürh i 
 
-sūkṣmāya namaḥ 3. Right eye 4. oń ṁṛkṣamlvyūth \[illegible\] trimūrtyai namaḥ 4. Left eye 5. oṁ ṁrkṣamlvyūümn uṁ amarīśāya namaḥ 5. Right ear 6. où ṁṛkṣamlvyūmh ün arghīśāya namaḥ 6. Left ear 7. oṁ ṁrkṣamlvyüth rh bhārabhūtyai namaḥ 7. Right nostril (piṅgalā) 
+sūkṣmāya namaḥ 3. Right eye 4. oń ṁṛkṣamlvyūth īṁ trimūrtyai namaḥ 4. Left eye 5. oṁ ṁrkṣamlvyūümn uṁ amarīśāya namaḥ 5. Right ear 6. où ṁṛkṣamlvyūmh ün arghīśāya namaḥ 6. Left ear 7. oṁ ṁrkṣamlvyüth rh bhārabhūtyai namaḥ 7. Right nostril (piṅgalā) 
 
 8\. oṁ ṁrkṣamlvyūüm Rrh tithīśāya namaḥ 8. Left nostril (ida) 
 
@@ -316,7 +316,7 @@ sūkṣmāya namaḥ 3. Right eye 4. oń ṁṛkṣamlvyūth \[illegible\] trim�
 
 45\. oṁ rhṛkṣamlvyūth vaṁ khadgine namaḥ 45. Sinews (left Shoulder) 
 
-46\. oṁ ṁṛkṣamlvyūṁ \[illegible\] bakīśāya namaḥ 46. Bones (From the chest to the right hand) 
+46\. oṁ ṁṛkṣamlvyūṁ śaṁ bakīśāya namaḥ 46. Bones (From the chest to the right hand) 
 
 47\. oṁ ṁrkṣamlvyürth ṣaṁ śvetāya namaḥ 47. Fat (From the chest to the left hand) 
 
@@ -331,7 +331,7 @@ sūkṣmāya namaḥ 3. Right eye 4. oń ṁṛkṣamlvyūth \[illegible\] trim�
 A Comparative Chart of the Contents of the Assembly of Sounds 
 
 The series of letters, Bhairavas and corresponding parts of the body of the Assembly of Sounds are listed in several places in the Kubjikā sources. These include the KM (24/4-20 (in the reverse order), ṢSS (7/466), KRU (5/50
-ff.) and the \[illegible\] (MS K fl. 140a-140b). The ŚM is the only source I have been able to trace that presents a description of the visualized forms of the Bhairavas. Based on them drawings have been published in Dyczkowski 2007: >>>. The series is well known generally in the Tantras of other schools of the early period and the later ones. We also find it, for example, in the Svacchandatantra (2/29- 35), Aggnipurāṇa (145/28-30; 293/41-47), and the Śāradātilaka (2/29-35). 
+ff.) and the Ṭīkā (MS K fl. 140a-140b). The ŚM is the only source I have been able to trace that presents a description of the visualized forms of the Bhairavas. Based on them drawings have been published in Dyczkowski 2007: >>>. The series is well known generally in the Tantras of other schools of the early period and the later ones. We also find it, for example, in the Svacchandatantra (2/29- 35), Aggnipurāṇa (145/28-30; 293/41-47), and the Śāradātilaka (2/29-35). 
 
 The fifty letters and their location in the body are noted in chapter 19 of the KuKh, however the Bhairavas are not named there. Presuming that their names are those listed in chapter six (KuKh 6/14-20), they have been entered first in column two. The variants of these names in the KM (24/20) and SSS (38/4-20) are noted next to those of the KuKh. The first variant is from the KM and the second from the 555. Significantly variant names found in the ŚĀāradātilaka (2/29-35) are noted in the third column along with those of the Tīkā. The locations of the letters and Bhairavas in the body noted in the fourth column are taken from chapter nineteen of the KuKh. Variants in the KM and 555 are noted in brackets in italics. Those of the KnT have been noted in the last column on the right. A compartment is left empty if the entry agrees with the corresponding one to the left of it. 
 
@@ -582,7 +582,7 @@ Saṁvarta
 
 The Formation of the Trident Throne[^943] 
 
-The Deposition of the Throne (26471) \[illegible\] 
+The Deposition of the Throne (26471) (āsananyāsa) 
 
 According to the Svacchandatantra 2/55ab-84, with Kṣemarāja’s Commentary 
 
@@ -699,7 +699,7 @@ White, red, yellow and dark blue (respectively), they are (located) in the (inte
 
 pādakā iti etadvāsanānuviddhā hi sarłsaranti saṁisāre ity aśeṣasaṁsāriṇaḥ ajñātāḥ pādāḥ pādakāḥ, ete siṁmharūīpā iti parākramamahimnā, aśeṣa- 
 
-viśvākramanāt | īśvaraśaktyadhiṣthāne evaitad \[illegible\] ghaṭate na tu \[illegible\] yanaye jadabuddhidharmarūpatāyām ifīśvaraśaktyadhiṣthānād ete trinetrāḥ, ghora-sarisāraghātahetutvāc ca bhīmavikramāḥ ॥ 62 ॥ 
+viśvākramanāt | īśvaraśaktyadhiṣthāne evaitad eṣāṁ ghaṭate na tu \[illegible\] yanaye jadabuddhidharmarūpatāyām ifīśvaraśaktyadhiṣthānād ete trinetrāḥ, ghora-sarisāraghātahetutvāc ca bhīmavikramāḥ ॥ 62 ॥ 
 
 The ‘souls’, pierced through by these latent traces, wander around in the world of transmigration. (Thus,) they are all the transmigrating beings who are 
 
@@ -753,7 +753,7 @@ vedā yugāś ca te caiva jṁñātavyāḥ kramaśaḥ priye |
 
 pratikoṇnamṁ pādakena saha gātrakadvayasya bandhanārtha kīlakadvayam iti |
 rgādayo vedāḥ, krtādayaŚś ca yugās tattadbhogavāsanāḥ puṣṇantaḥ sarnisārabandhanahetavo vicitraśaṁkāśaṁku-rūpāh saṁdhānakīlakā ity uktāḥ | bandhakatvād eva ca kṛṣṇavarṇā jñātavyāḥ |
-pūrvoktapārameśvaraśaktirūpatayā yathā ajñātā bandhakā bhavanti | nanu ete buddhidharmāḥ katham \[illegible\] \[illegible\] prāptāḥ? ucyate ---- sarveṣām buddhyādidharmāṇām māyotpattibhūḥ, buddhyādayas tu vibhavasthānam, ucchedyās tu mūlabhūmita ucchinmnā na punaḥ prarohantīty utpattipadād ucchettum etānīdṛkkramo darśitaḥ || 64 ॥ 
+pūrvoktapārameśvaraśaktirūpatayā yathā ajñātā bandhakā bhavanti | nanu ete buddhidharmāḥ katham iyatīṁ bhūmiṁ prāptāḥ? ucyate ---- sarveṣām buddhyādidharmāṇām māyotpattibhūḥ, buddhyādayas tu vibhavasthānam, ucchedyās tu mūlabhūmita ucchinmnā na punaḥ prarohantīty utpattipadād ucchettum etānīdṛkkramo darśitaḥ || 64 ॥ 
 
 ‘(They are) the nails that hold (the throne together). They are (dark blue) like atasī flowers. O beloved, one should know them in due order to be the Vedas and (four cosmic) Ages.’ (64cd-65ab) 
 
@@ -801,7 +801,7 @@ The white lotus has these colours. It is white because it is (the principle of) 
 
 vāmār pūrvadale nyasya jyeṣthāṁi vahnidalāśritām |
 raudrīm dakṣinapatre tu kālīṁ nairrtagocare ॥ 68 ॥
-kalavikaranīri \[illegible\] vinyasyed \[illegible\] dale |
+kalavikaranīri devīṁ vinyasyed \[illegible\] dale |
 balavikaranīṁ devīṁ vāyavyadalamāśritām ॥ 69 ॥
 balapramathanī devīmuttare viniyojayet |
 sarvabhūtadamanīṁ ca eśānyār viniyojayet ॥ 70 ॥
@@ -916,7 +916,7 @@ His colour is red because the limiting adjuncts (that condition his consciousnes
 
 As awakened consciousness predominates (in him he is said to be) ‘beautifully powerful’. (As is said) in the chapter (concerning) the worlds: ‘His light is that of millions of suns.’ (SvT 10/1214) 
 
-icchājñānakriyāśaktyātmanā ca eṣanīyajṁeyakāryātma \[illegible\] nayatā 
+icchājñānakriyāśaktyātmanā ca eṣanīyajṁeyakāryātma viśvaṁ nayatā 
 
 netratritayena ürdhvadrśā viśeṣena bhūṣitar rājamānam | yathoktam ---- tisro devyo yadā caina nityam evābhyupāsate |
 tryambakas tu tadā jñṁeyaḥ.. 
@@ -1102,7 +1102,7 @@ OM RYLVĪM ŚIKHĀYAI VAUṢAṬ
 
 OM RYLVAIM KAVACĀYA HUM 
 
-OM RYLVAUM NETRĀYA \[illegible\] 
+OM RYLVAUM NETRĀYA VAṢAṬ 
 
 OM RYLVAH ASTRĀYA PHAT 
 
@@ -1132,7 +1132,7 @@ OM RŪM ŚIKHĀYAI VAUṢAT
 
 OM KṢAIM KAVACĀYA HUM 
 
-OM MAUM NETRĀYA \[illegible\] 
+OM MAUM NETRĀYA VAṢAṬ 
 
 OM LAH ASTRĀYA PHAT 
 
@@ -1720,7 +1720,7 @@ eṣa tryarnojjhito ‘dhastāddīrghaiḥ ṣadbhiḥ svarairyutaḥ ॥ 24 ॥
 kṣayaravalabījaiśca dīptairbinduvibhūṣitaiḥ ॥ 25 ॥
 vaktrāṇi kalpayetpūrvamūrdhvavaktrāditaḥ kramāt | 
 
-Omitting the last three (letters of Navātmā), one should fashion (its) six limbs, that is, the Heart and the rest, with the six (letters) that follow, conjoined with the six long vowels, along with the syllabic invocation \[illegible\] (corresponding to each limb).[^989] The faces should be fashioned (kalpayet) beginning with the upper face (i.e., \[illegible\] in due order with the energized seeds \[illegible\] Y, R, V, and L, decorated with the Point.[^990] (24cd-26ab)[^991] 
+Omitting the last three (letters of Navātmā), one should fashion (its) six limbs, that is, the Heart and the rest, with the six (letters) that follow, conjoined with the six long vowels, along with the syllabic invocation \[illegible\] (corresponding to each limb).[^989] The faces should be fashioned (kalpayet) beginning with the upper face (i.e., KṢ, in due order with the energized seeds \[illegible\] Y, R, V, and L, decorated with the Point.[^990] (24cd-26ab)[^991] 
 
 Mātṛkānyāsa 
 

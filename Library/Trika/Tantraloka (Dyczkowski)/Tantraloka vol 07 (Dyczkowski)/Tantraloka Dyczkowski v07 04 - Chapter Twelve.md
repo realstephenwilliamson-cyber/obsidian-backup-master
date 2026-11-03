@@ -70,7 +70,7 @@ The void (experienced in deep sleep) and the rest are emitted ‘through that’
 
 ‘The icon’, which is the disciple, ‘and so on’, that is, the sacrificial jar and the rest, (are emitted) ‘externally’, that is, (outside) the perceiver of the void (in deep sleep) etc. That is said (in the following verse): 
 
-‘The conjunction \[illegible\] of the Path is said to be that which is located in the (sacrificial) jar, mandala and fire, and in the Self, which is on the Path of the disciple, and so too in the thread (that conjoins them) all together.” 
+‘The conjunction (saṁdhi) of the Path is said to be that which is located in the (sacrificial) jar, mandala and fire, and in the Self, which is on the Path of the disciple, and so too in the thread (that conjoins them) all together.” 
 
 (The Path is also established externally, both) ‘as a whole’, although it is of six kinds, and ‘part by part’, that is, as one or other (of the Paths of) the Forces and the rest, (according to which of them) is considered to be the one to be purified. (This can take place) ‘both successively or all at once’. Succession is (is of three kinds), gross, subtle and supreme. ‘All at once’ is a single teaching (concerning all the Path together) (ekapraghattṭaka). 
 
@@ -138,7 +138,7 @@ Surely (one may ask), what is the purpose of its manifesting in this way? With t
 एवं विश्वाध्वसंपर्ण कारव्यापारचित्रितम् ।
 देशकालमयस्पन्दसदम देहं विलोकयेत् ॥ ६ ॥
 
-\[illegible\] viśvādhvasahpūrṇari kālavyāpāracitritam |
+evaṁ viśvādhvasahpūrṇari kālavyāpāracitritam |
 deśakālamayaspandasadma dehaṁ vilokayet || 6 || 
 
 One should view the body in this way as full of all the paths (of manifestation), wonderfully diversified by the activity of time, as the abode (sadman) of the pulse (spanda) which is time and space. (6) 
@@ -166,7 +166,7 @@ and All the Deities. Offering to Them is True Inner Worship, Meditation and Libe
 tathā vilokyamāno ‘sau viśvāntardevatāmayaḥ |
 dhyeyaḥ pūjyaś ca tarpyaś ca tadāviṣto vimucyate || 7 || 
 
-Perceived in this way as consisting of (all) the deities in the universe, one should offer libations to it \[illegible\] meditate on it and worship it. He who penetrates into it is liberated. (7) 
+Perceived in this way as consisting of (all) the deities in the universe, one should offer libations to it (tarpya), meditate on it and worship it. He who penetrates into it is liberated. (7) 
 
 #### Viveka on 12.7
 
@@ -177,7 +177,7 @@ Meditating in this way does not bring this about only in the psychophysical orga
 इत्थं घटं पटं लिद्ं स्थण्डिल पुस्तक जलम् ।
 यद्रा किञ्चित् कवचित्पश्येत्त्र तन्मयतां व्रजेत् | ८ ॥
 
-71041 ghaṭaṁ patar \[illegible\] sthandilan pustakaṁ jalam |
+71041 ghaṭaṁ patar liṅgaṁ sthandilan pustakaṁ jalam |
 yad vā kiñcit kvacit paśyet tatra tanmayatāṁ vrajet ॥ 8 ॥ 
 
 (He should regard every ritual object) in this way, be it the (sacrificial) jar, cloth, Liṅga, sacrificial ground, book, (consecrated) water, or anything at all. Or else, wherever he may see (things in this way), he there becomes of that same (conscious) nature. (8) 
@@ -200,7 +200,7 @@ cause
 ततरर्पितानां भावानां स्वकभेदविलापनम् ।
 कर्वस्तद्रश्मसद्धावं दद्याद्धोमक्रियापरः ॥ ११ ॥
 
-\[illegible\] hi vastūnām abhedenārcanaīṁi matam | 
+tatrārpaṇaṁ hi vastūnām abhedenārcanaīṁi matam | 
 
 *[p. 104]* ^pg124
 
@@ -258,7 +258,7 @@ paripūrṇāṁ 50117001 prāhuḥ samādhi guravaḥ purā ॥ 13 ॥
 
 The ancient teachers have said that this state of perfect fullness, (which is achieved) by offering this kind of worship, repetition of mantra, 
 
-[^242]: Maheśvarānanda quotes the following verses (in MM p. 168), saying that it is drawn from an Āgama (yad uktam āgame). Could this be the Nandisikhā? samatā sarvabhāvānāṁ vṛttīnāṁ caiva sarvaśaḥ | samatā sarvadṛṣṭīnāṁ dravyāṇār caiva sarvaśaḥ || bhūmikānār ca sarvāsām ovallīnāṁ ca sarvaśaḥ | samatā sarvadevānār varṇnānār caiva sarvaśaḥ | ‘There is equality of all emotive states (bhāva) and fluctuations (of the mind) (vṛtti) in all respects. There is equality of all views and sacrificial substances in all respects. There is equality of all the planes (of Yoga) (bhūmikā) and Kaula lineages (ovalli) in all respects. There is equality of all the gods and castes in all respects.” Cf. Nayasūtra of the NTS: ‘Thus, one should meditate upon Śiva and the individual soul as one. Thus, thinking of all things and similarly (one’s own) self as like Śiva, one becomes devoid of attachment and hatred. They (i.e. those who think this \[illegible\] ) as having one flavour (samarasa) (with Śiva), being (as he now is) joined with Siva. The whole universe, moving and unmoving, is thought of as being like Siva. Enemy and friend are equal; Brāhmaṇa and dog-cooker are equal — seeing everything as equal, he becomes a siddha, knowing everything as Śiva, decided with one mental focus, in a mental state of immersion in Siva.’ Nyāyasūtra 4/53-57ab
+[^242]: Maheśvarānanda quotes the following verses (in MM p. 168), saying that it is drawn from an Āgama (yad uktam āgame). Could this be the Nandisikhā? samatā sarvabhāvānāṁ vṛttīnāṁ caiva sarvaśaḥ | samatā sarvadṛṣṭīnāṁ dravyāṇār caiva sarvaśaḥ || bhūmikānār ca sarvāsām ovallīnāṁ ca sarvaśaḥ | samatā sarvadevānār varṇnānār caiva sarvaśaḥ | ‘There is equality of all emotive states (bhāva) and fluctuations (of the mind) (vṛtti) in all respects. There is equality of all views and sacrificial substances in all respects. There is equality of all the planes (of Yoga) (bhūmikā) and Kaula lineages (ovalli) in all respects. There is equality of all the gods and castes in all respects.” Cf. Nayasūtra of the NTS: ‘Thus, one should meditate upon Śiva and the individual soul as one. Thus, thinking of all things and similarly (one’s own) self as like Śiva, one becomes devoid of attachment and hatred. They (i.e. those who think this way ) as having one flavour (samarasa) (with Śiva), being (as he now is) joined with Siva. The whole universe, moving and unmoving, is thought of as being like Siva. Enemy and friend are equal; Brāhmaṇa and dog-cooker are equal — seeing everything as equal, he becomes a siddha, knowing everything as Śiva, decided with one mental focus, in a mental state of immersion in Siva.’ Nyāyasūtra 4/53-57ab
 
 
 *[p. 106]* ^pg126
@@ -298,7 +298,7 @@ Here (in this tradition), worship, the repetition of mantra and the rest, (and s
 
 #### Viveka on 12.14
 
-The external ‘sacrificial substances’ are wine and the rest (offered in Kaula rites). The inner ones are channels and clarified butter etc. \[illegible\][^245] Surely (one may ask), 
+The external ‘sacrificial substances’ are wine and the rest (offered in Kaula rites). The inner ones are channels and clarified butter etc. (nālājyādi).[^245] Surely (one may ask), 
 
 [^245]: I do not understand what is meant by nālājyādau. It appears that the text is corrupt here.
 
@@ -338,7 +338,7 @@ Wherever the Mind is Propitious
 यदा यथा येन यत्र स्वा संवित्तः प्रसीदति । १६ ॥
 तदा तथा तेन तत्र तत्तद्धोग्यं विधिश्च सः ।
 
-yadā yathā yena yatra svā \[illegible\] prasīdati \\\\ 16 ॥
+yadā yathā yena yatra svā saṁvittiḥ prasīdati \\\\ 16 ॥
 tadā tathā tena tatra tat tad bhogyar vidhiś ca saḥ | 
 
 Whenever, however, wherever, and by whatever (means) one’s own consciousness becomes propitious (prasīdati), then should, in that way, there and by that (means) be consumed (bhogya) (as the sacrificial substance), for this is the procedure (enjoined by Kaula scripture) (vidhi). (16cd-17ab) 
@@ -359,7 +359,7 @@ And that is enjoined here everywhere (in these teachings). Accordingly, he says:
 लोकिकालौकिकं सर्वं तेनात्र विनियोजयेत् ।॥। १७ ॥
 निष्कम्पत्वे सकम्पस्तु कम्पं निर्हसयेद् बलात् ।
 
-laukikālaukikaṁ \[illegible\] tenātra viniyojayet ॥ 17 ॥
+laukikālaukikaṁ sarvaṁ tenātra viniyojayet ॥ 17 ॥
 niṣkampatve sakampas tu kampaṁ niṁrāsayed balāt | 
 
 Thus, (a true Kaula) must apply all (kinds of sacrificial substances), both normally accepted (laukika) (by the Vedic norms) and those that are not (alaukika), if (he possesses) an unshaking (freedom from doubt) (niṣkampatva). (However,) if he trembles (with doubt) (sakampa), (his) fear 
@@ -426,7 +426,7 @@ That is said there (in the Bhargaśikhā):
 
 [^250]: Read yathā yogyaṁ for yathā yogar.
 
-[^251]: This line is also quoted in the PTv p. 235. Although Jayaratha quotes only this line, suggesting that this is all that Abhinava is quoting from the Bhargaśikhā, it appears that the citation extends from 16cd to here. As Abhinava says, taking up half this line, and Jayaratha clarifies by quoting the full line, 12/20ab is a literal quote from the Bhargaśikhā. This line is also quoted in the PTv (p. 235). So Jayaratha may have got it from there. It seems unlikely that this line is all that Abhinava is citing. It is much more likely that he is referring to the entire passage, beginning from l6cd up to 20ab, as describing the Hero’s Vow (vīravrata). Kṣemarāja (commentary on \[illegible\] verses 10) tells us that: prathamam ādāv atanu aśarīraḥ śrībhargaśikhādiṣtanītyā akāraparāmarśātma vīreśvarākhyaṁ ca brahma bṛhad bṛhakari ca paran śāktaḥ dhāma ‘Initially, in the beginning, (the supreme reality) is disembodied. According to the teaching imparted by the venerable Bhargaśikhā, it is the supreme abode of power, the Brahman called Vīreśvara, that is immense (bṛhad) and fills (all things).’ Clearly, the Kaula adept — the Hero — is the central figure in the Tantra of the Bhargaśikhā. 1 would not be surprising if it taught him, as this passage does, the primary tenets of Kaula practice, and above all, that as a Hero, he should not fear or draw back from Kaula practice, succumbing to inhibition. The Hero’s Vow involves worshipping the deity with offerings commonly considered to be impure. Thus, appropriately, just after this citation in his commentary on the Parātrīśikā (p. 235), Abhinava quotes a long passage from the Sarvācāra that declares that nothing is intrinsically pure or impure.
+[^251]: This line is also quoted in the PTv p. 235. Although Jayaratha quotes only this line, suggesting that this is all that Abhinava is quoting from the Bhargaśikhā, it appears that the citation extends from 16cd to here. As Abhinava says, taking up half this line, and Jayaratha clarifies by quoting the full line, 12/20ab is a literal quote from the Bhargaśikhā. This line is also quoted in the PTv (p. 235). So Jayaratha may have got it from there. It seems unlikely that this line is all that Abhinava is citing. It is much more likely that he is referring to the entire passage, beginning from l6cd up to 20ab, as describing the Hero’s Vow (vīravrata). Kṣemarāja (commentary on SāṁPa verses 10) tells us that: prathamam ādāv atanu aśarīraḥ śrībhargaśikhādiṣtanītyā akāraparāmarśātma vīreśvarākhyaṁ ca brahma bṛhad bṛhakari ca paran śāktaḥ dhāma ‘Initially, in the beginning, (the supreme reality) is disembodied. According to the teaching imparted by the venerable Bhargaśikhā, it is the supreme abode of power, the Brahman called Vīreśvara, that is immense (bṛhad) and fills (all things).’ Clearly, the Kaula adept — the Hero — is the central figure in the Tantra of the Bhargaśikhā. 1 would not be surprising if it taught him, as this passage does, the primary tenets of Kaula practice, and above all, that as a Hero, he should not fear or draw back from Kaula practice, succumbing to inhibition. The Hero’s Vow involves worshipping the deity with offerings commonly considered to be impure. Thus, appropriately, just after this citation in his commentary on the Parātrīśikā (p. 235), Abhinava quotes a long passage from the Sarvācāra that declares that nothing is intrinsically pure or impure.
 
 
 *[p. 113]* ^pg133
@@ -440,7 +440,7 @@ Surely (one may ask), what do doubts and the like do, that such (a great) effort
 tathāhi śaṁkā mālinyaṁ glāniḥ saṁkoca ity adaḥ ॥ 20 ॥
 saṁsārakārāgārāntaḥ sthūlasthūṇā ghaṭāyate | 
 
-This kind of doubt \[illegible\][^252] which is Impurity (mālinya), lassitude (glāni), the contraction (of embodied subjectivity),[^253] and the like, fashions the great (sthūla) pillar (to which the soul is bound) within the abode of the slaughterhouse of transmigratory existence.[^254] (20cd-21ab) 
+This kind of doubt (śaṅkā),[^252] which is Impurity (mālinya), lassitude (glāni), the contraction (of embodied subjectivity),[^253] and the like, fashions the great (sthūla) pillar (to which the soul is bound) within the abode of the slaughterhouse of transmigratory existence.[^254] (20cd-21ab) 
 
 #### Viveka on 12.20–21
 
@@ -489,13 +489,13 @@ have no (independent) nature of their own. (This is implied by) saying that they
 saṁkarābhāvataḥ keyaṁ śaṁkā tasyām api sphuṭam ॥ 22 ||
 na śaṅketa tathā śaṁkā vilīyetāvahelayā | 
 
-There is no (confusing) mix-up (between what should and should not be done); thus (one should reflect), “what is this doubt (I have about using these sacrificial substances)?[^257] (It is nothing at \[illegible\][^258] Even if there is (ďome), clearly one should not be in doubt.” In this way doubt would easily cease. (22cd-23ab) 
+There is no (confusing) mix-up (between what should and should not be done); thus (one should reflect), “what is this doubt (I have about using these sacrificial substances)?[^257] (It is nothing at all!)[^258] Even if there is (ďome), clearly one should not be in doubt.” In this way doubt would easily cease. (22cd-23ab) 
 
 #### Viveka on 12.22–23
 
 The word ‘mixed together’ implicitly characterizes (the mistaken) mixing up of what should be done with what should not be done. The sense is 
 
-[^257]: Cf. above, 4/245cd -247. Elaborate Vedic sacrifices include the offering of animals. The killing of animals, even for ritual purposes, is considered to be culpable violence (hiṁsa). In order to circumvent the problem, Brahminic lore narrows down Aiṁsa to the spilling of blood. Thus, to avoid it, the sacrificial animal is beaten to death. However, this does not solve the problem that meat is impure. This is solved by draining the body of blood, which is considered to be the source of that impurity. Moreover, the offering, which is cooked, is virtually entirely offered to the fire in sacrifice. Thus, the Brahmin priests have only just a trace left in the cooking pot, that they are obliged to eat. Clearly, the standard orthodox Brahminical ethic that supports vegetarianism has been in place a long time. Moreover, like meat, alcohol and a number of other substances commonly offered in Kaula rites are considered to be impure and defiling. This is the common norm, which is largely also accepted by the dualist Śaiva Siddhānta and Vaiṣṇavism. It is not surprising that some people would be unsure as to whether they should perform or participate in such rites. This uncertainty, that I call ‘doubt’ (which is a literal translation of the Sanskrit \[illegible\] Sanderson prefers to call inhibition. The former evokes the latter and vice versa. They stand and fall together. The translation ‘doubt’ has the advantage that it also implies the ground of vikalpa — discursive determinative thought — which is based on the sorting out of options — vikalpa. It arises due to uncertainty, in order to resolve it. ‘Thought — vikalpa — is also just a ‘notion’, ‘idea’ and even imagination. The Sivasūtra (1/9) declares that vikalpas are the dream state.
+[^257]: Cf. above, 4/245cd -247. Elaborate Vedic sacrifices include the offering of animals. The killing of animals, even for ritual purposes, is considered to be culpable violence (hiṁsa). In order to circumvent the problem, Brahminic lore narrows down Aiṁsa to the spilling of blood. Thus, to avoid it, the sacrificial animal is beaten to death. However, this does not solve the problem that meat is impure. This is solved by draining the body of blood, which is considered to be the source of that impurity. Moreover, the offering, which is cooked, is virtually entirely offered to the fire in sacrifice. Thus, the Brahmin priests have only just a trace left in the cooking pot, that they are obliged to eat. Clearly, the standard orthodox Brahminical ethic that supports vegetarianism has been in place a long time. Moreover, like meat, alcohol and a number of other substances commonly offered in Kaula rites are considered to be impure and defiling. This is the common norm, which is largely also accepted by the dualist Śaiva Siddhānta and Vaiṣṇavism. It is not surprising that some people would be unsure as to whether they should perform or participate in such rites. This uncertainty, that I call ‘doubt’ (which is a literal translation of the Sanskrit śaṅkā), Sanderson prefers to call inhibition. The former evokes the latter and vice versa. They stand and fall together. The translation ‘doubt’ has the advantage that it also implies the ground of vikalpa — discursive determinative thought — which is based on the sorting out of options — vikalpa. It arises due to uncertainty, in order to resolve it. ‘Thought — vikalpa — is also just a ‘notion’, ‘idea’ and even imagination. The Sivasūtra (1/9) declares that vikalpas are the dream state.
 
 [^258]: The scriptures Abhinava takes to be the highest authorities are clear and unambiguous about the nature of the offerings that should be made to the deities in such Kaula rites. There is no need to feel any doubt about their use. The pious man, who scrupulously observes the injunction of the scriptures, need feel no doubt about this. The votary of such traditions does not transgress them. They are transgressive of established Brahminical norms.
 
@@ -602,7 +602,7 @@ He concludes this (teaching) with the first half of a verse.
 
 अनुत्तरपदाप्तये तदिदमाणवं दर्शिता- भ्युपायमतिविस्तरात्नन विदांकरु्वं बुधाः ।
 
-anuttarapadāptaye tad idam \[illegible\] darśitā-bhyupāyam ativistarān nanu vidāṁkurudhvaṁi budhāḥ | 
+anuttarapadāptaye tad idam āṇavaṁ darśitā-bhyupāyam ativistarān nanu vidāṁkurudhvaṁi budhāḥ | 
 
 This, the Individual Means (ānavābhyupāya), has been explained at great length so that one may attain the plane of Anuttara (the Absolute). May the wise take care to understand it clearly.[^269] (26ab) 
 

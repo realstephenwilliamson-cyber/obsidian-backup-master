@@ -26,7 +26,7 @@ ekaśabdasya na tv arthaḥ saṁkhyā cidvyaktibhedabhāk |
 
 #### Viveka on 2.23
 
-‘(The existence of all that is supposed) not to be the Light’, that is, the object of illumination, namely, an external entity such as ‘blue’, is as such (that is, as an independent entity separate from consciousness) denied. Thus (it is said that) ‘only the Light exists”. This is the modality (vṛtti) of the word ‘one’ (that is, to indicate uniqueness) because here (in this context) there is no accompanying (reality). That is said (with the words) ‘the meaning of the word ‘one’ is that (the one reality) is said to be just the Light (of consciousness) alone’. Not indeed that it pertains to differences in the light which is the meaning of a number, such as one, two and three \[illegible\][^67] in such a way (yena) that other views may exist as the counter-correlates to be refuted (by this one).[^68] 
+‘(The existence of all that is supposed) not to be the Light’, that is, the object of illumination, namely, an external entity such as ‘blue’, is as such (that is, as an independent entity separate from consciousness) denied. Thus (it is said that) ‘only the Light exists”. This is the modality (vṛtti) of the word ‘one’ (that is, to indicate uniqueness) because here (in this context) there is no accompanying (reality). That is said (with the words) ‘the meaning of the word ‘one’ is that (the one reality) is said to be just the Light (of consciousness) alone’. Not indeed that it pertains to differences in the light which is the meaning of a number, such as one, two and three etc.[^67] in such a way (yena) that other views may exist as the counter-correlates to be refuted (by this one).[^68] 
 
 Thus, he says that not even a trace of the daily commerce of life which hints at duality (bhedāgūraka) is known here (in the Light of consciousness). 
 
@@ -145,7 +145,7 @@ Well, if that is the case, should it be said to be ‘non-existent’ in common 
 ### TĀ 2.30
 
 असत्त्वं चाप्रकाशत्वं न कुत्राप्युपयोगिता ।। २९॥
-asattvaṁ \[illegible\] na kutrāpy upayogitā ॥ 29 ॥ 
+asattvaṁ cāprakāśatvaṁ na kutrāpy upayogitā ॥ 29 ॥ 
 
 What does not exist and does not manifest is of no use anywhere. (29cd) (30ab) 
 
@@ -391,7 +391,7 @@ All that remains of their thoughts of (the various) kinds (aṁśa) of pleasure 
 
 *[p. 46]* ^pg62
 
-‘For them’, that is, those who have attained a state of penetration (into pure Śiva consciousness) which is free of mental cogitation (avikalpaka), not only worldly \[illegible\] 
+‘For them’, that is, those who have attained a state of penetration (into pure Śiva consciousness) which is free of mental cogitation (avikalpaka), not only worldly (laukikya) 
 
 [^105] imaginings (and thoughts of pleasure and pain and the like) are (as if) nothing; such too are the other-worldly ones (alaukikya).[^106] He says this with the words ‘for them (there is no Mantra)’ etc. ‘Imagination’ (here means imagining in the course of a rite that the deities have) locations (sthāna)[^107] and the like. 
 
@@ -407,7 +407,7 @@ maama eeg: ।
 samastayantraṇātantratrotanātaṁṁkadharminaḥ |
 nānugrahāt parami kiñcic cheṣavṛttau prayojanam ॥ 37 ॥ 
 
-One who is armed with the sword (of discernment) that cuts through the weave (tantra) of all restrictions has no other purpose at all than to grace (others) in the course of the remaining mode of conduct (of his life after liberation) \[illegible\][^108] (37cdef) (38) 
+One who is armed with the sword (of discernment) that cuts through the weave (tantra) of all restrictions has no other purpose at all than to grace (others) in the course of the remaining mode of conduct (of his life after liberation) (śeṣavṛtti).[^108] (37cdef) (38) 
 
 #### Viveka on 2.38
 
@@ -592,7 +592,7 @@ great Siddha is the Lord of Yogis.”[^135] (42-43)
 
 [^130]: By ‘higher’ (uttara) is meant more elevated. It may also mean that the skull is placed on the sacrificial ground, and a cloth with a depiction of the deity on the skull. Thus, this passage outlines a sequence that extends from the items of the external sacrificial rite (yāga) through stages of meditation to the fully initiated state (cf. 2/41), which marks the achievement of knowledge of ultimate reality, which is here understood to be the No Means state of Anuttara, the supreme Light of consciousness.
 
-[^131]: The sacrificial surface — sthandila — is a low platform of earth on which the deity is invisibly installed and worshipped. The deity may also be worshipped in an abstract representation, termed an ‘unmanifest Liṅga’ (avyaktaliṅga), or an anthropomorphic representation (a ‘manifest Liṅga’ —vyaktaliṅga), which may be an idol (pratimā) cast in metal, a painting on a cloth \[illegible\] or the outline of the deities or their seed-syllable mantras carved on a skull or a substitute for it (tāra) (below, 27/9, 19cd-28b).
+[^131]: The sacrificial surface — sthandila — is a low platform of earth on which the deity is invisibly installed and worshipped. The deity may also be worshipped in an abstract representation, termed an ‘unmanifest Liṅga’ (avyaktaliṅga), or an anthropomorphic representation (a ‘manifest Liṅga’ —vyaktaliṅga), which may be an idol (pratimā) cast in metal, a painting on a cloth (paṭa), or the outline of the deities or their seed-syllable mantras carved on a skull or a substitute for it (tāra) (below, 27/9, 19cd-28b).
 
 [^132]: Representations of the deity may be drawn on a cloth (cf. below, 6/2-4ab). The Piṅgalāmata (prakaraṇa 5) deals with this topic. \[illegible\]
 
@@ -606,7 +606,7 @@ great Siddha is the Lord of Yogis.”[^135] (42-43)
 
 *[p. 55]* ^pg71
 
-‘The sacrificial surface’ is an area of ground selected (for the performance of) a sacrifice.[^136] “The skull’ is a particular shape that is engraved on a (sacrificial) vessel and the like.[^137] He explains the reason why knowledge is the most excellent of all, (saying): ‘by virtue of knowledge (jñāna) etc. The meaning is that it is by virtue of (this) knowledge that (a great Siddha) is the Lord \[illegible\] of Yogis.[^138] 
+‘The sacrificial surface’ is an area of ground selected (for the performance of) a sacrifice.[^136] “The skull’ is a particular shape that is engraved on a (sacrificial) vessel and the like.[^137] He explains the reason why knowledge is the most excellent of all, (saying): ‘by virtue of knowledge (jñāna) etc. The meaning is that it is by virtue of (this) knowledge that (a great Siddha) is the Lord (īśvara) of Yogis.[^138] 
 
 Thus, in order to emphasize (the point, he) also uses the words ‘great’ and ‘lord’. 
 
@@ -678,7 +678,7 @@ tadabhyupāyaśāstrādiśravaṇādhyayanādaraḥ ॥ 46 ॥
 
 [^141]: The means to realisation, their types and interrelationship etc., is almost always examined from the point of view of the disciple. Here, in the context of this exposition of No Means, the perspective is from the teacher’s point of view. He is fully realised, so none of the means apply to him. Even so, he may appear to practice them in order to aid his disciples. He needs, anyway, in order to fulfil his freely accepted responsibility, to help others, know the various means, and apply them.
 
-[^142]: MS Ch, Jh, J, Ñ, and \[illegible\] read: -sāhityārthah ʻ“in order that (one means) is (harmoniously) associated (and aided) by another means.’
+[^142]: MS Ch, Jh, J, Ñ, and Ṭ read: -sāhityārthah ʻ“in order that (one means) is (harmoniously) associated (and aided) by another means.’
 
 *[p. 57]* ^pg73
 
@@ -738,7 +738,7 @@ This (teaching is not a product of our imagination); it is stated in the great s
 
 [^147]: BhGī 3/25. Abhinava comments: “The purpose behind performing acts even by such a person who has already attained perfection, and therefore has his mind fully satisfied, is to educate people. Here Lord Kṛṣṇa gives himself as an example. The actions which are one’s duty should be performed without expecting their fruit. Furthermore, if one who has already attained perfection would not perform any act, then chaos would prevail in society. This is because people would not follow the well-established path and a firm faith (in that well-established path) would be shaken. In such a situation people would not be able to experience the consequences of their past deeds or to follow right knowledge. Therefore, they would become indifferent. Because ordinary people are not purified by the right knowledge, inactivity of any enlightened person would do them great harm by making their minds unstable. Therefore, the enlightened man should never act in such a way that would harm ordinary people.’ Translation by Boris Marjanovic (2002: 94).
 
-[^148]: This is the Ọrmikaulārṇava, a Krama scripture attributed to Matsyendranātha quoted by Abhinava several times throughout the Tantrāloka. By referring to the ŪKau along with Somānanda, Abhinava is aligning the nondualist Śaiva tradition with Kaulism as both teaching Anupāya. How this is so in the former case is clear from Jayaratha’s citation of the Śivadṛṣṭi. But how this is the case in the latter instance is not so clear on the basis of the references Jayaratha has chosen. One wonders why he did not choose other references. For example, in chapter two of the fragment of the Ọrmikaulārnava that has survived, we find a description of degrees and visible signs of the ‘initiation by piercing’ (vedhadīkṣṣā), in which the disciple is overwhelmed by an intense descent of the power of grace (fīvraśaktipāta). This is identified, as ít is in the MV, with Rudra’s power (rudraśakti), that gives rise to three forms of penetration (āveśa), namely, (those) pertaining to Śiva \[illegible\] Power (śākta) and the individual soul (āṇava) (see above, 1/168-170). In that context the ŪKau teaches what we have seen is essentially Anupāya (see above note 2,4): tīvraśaktinipātena samyaggurvāvalokanāt || vedhayen nātra sahdehaḥ pātayet parvatāny api | ‘By the fall of intense power, due to the proper gaze of the teacher, (the disciple is) pierced. There is no doubt here (about this) and it makes even mountains fall to the ground (let alone the disciple who thus falls to the ground enlightened)’ ŪKau 2/244cd- 245ab
+[^148]: This is the Ọrmikaulārṇava, a Krama scripture attributed to Matsyendranātha quoted by Abhinava several times throughout the Tantrāloka. By referring to the ŪKau along with Somānanda, Abhinava is aligning the nondualist Śaiva tradition with Kaulism as both teaching Anupāya. How this is so in the former case is clear from Jayaratha’s citation of the Śivadṛṣṭi. But how this is the case in the latter instance is not so clear on the basis of the references Jayaratha has chosen. One wonders why he did not choose other references. For example, in chapter two of the fragment of the Ọrmikaulārnava that has survived, we find a description of degrees and visible signs of the ‘initiation by piercing’ (vedhadīkṣṣā), in which the disciple is overwhelmed by an intense descent of the power of grace (fīvraśaktipāta). This is identified, as ít is in the MV, with Rudra’s power (rudraśakti), that gives rise to three forms of penetration (āveśa), namely, (those) pertaining to Śiva (śāmbhava), Power (śākta) and the individual soul (āṇava) (see above, 1/168-170). In that context the ŪKau teaches what we have seen is essentially Anupāya (see above note 2,4): tīvraśaktinipātena samyaggurvāvalokanāt || vedhayen nātra sahdehaḥ pātayet parvatāny api | ‘By the fall of intense power, due to the proper gaze of the teacher, (the disciple is) pierced. There is no doubt here (about this) and it makes even mountains fall to the ground (let alone the disciple who thus falls to the ground enlightened)’ ŪKau 2/244cd- 245ab
 
 [^149]: ‘“Ovalli’ is a term for a Kaula lineage and its tradition. For an etymology and history of this term, see Dyczkowski 2009: intro. 2, 307 n. 2, 397. Matsyendranātha, to whom the Ürmikaulārṇava is attributed in its colophons, is said to have had six disciples who transmitted his teachings. They each founded a lineage — ovalli — named after themselves. The pādovalli is one of them. See below, 29/36 ff. and comm.; also Dyczkowski 1988: 70- 71.
 
@@ -755,7 +755,7 @@ the Siddhas (Matsyendranātha and the rest) as well as by (our) teachers, includ
 
 ‘The great scripture, the venerable Ūrmi’, is (the teaching of) the lineage of the Siddhas of the venerable Ūrmikaula. In this way he also indicates (the clarity and) undecaying nature (of the teachings) in the lineage (of teachers) belonging to the Pādovalli.[^149] There (we read): 
 
-‘A void (śūnya) is nothing at all. That Void (which is ultimate reality) is not empty \[illegible\] it is not vacuity.[^150] Why should one not think that what is not anything is not nothing at all?” 
+‘A void (śūnya) is nothing at all. That Void (which is ultimate reality) is not empty (aśūnya); it is not vacuity.[^150] Why should one not think that what is not anything is not nothing at all?” 
 
 Questioned (in this way) by the goddess, the Lord (replied) beginning with (the words: 
 
@@ -786,7 +786,7 @@ And ending with (the following), He said much:
 
 guror vākyād yuktipracayaracanonmārjanavaśāt 
 
-samāśvāsāc \[illegible\] prati samuditād vāpi kathitāt |
+samāśvāsāc chāstraṁ prati samuditād vāpi kathitāt |
 vilīne śaṁkābhre hṛdayagaganodbhāsimahasaḥ 
 
 prabhoḥ sūryasyeva spṛśata caranān dhvāntajayinaḥ ॥ 49 ॥ 

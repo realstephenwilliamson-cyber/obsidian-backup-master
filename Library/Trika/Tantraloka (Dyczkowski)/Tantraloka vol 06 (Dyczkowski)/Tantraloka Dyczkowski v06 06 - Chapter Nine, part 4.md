@@ -16,11 +16,11 @@ converted: 2026-10-07
 
 ### Dyczkowski's verse 144cd-145ab
 
-of) the sentient and the insentient,[^279] (He is variously called) the individual soul (pudgala), the witness of the field (of the body) \[illegible\][^280] and the fettered soul (pasu). (144cd-145ab) 
+of) the sentient and the insentient,[^279] (He is variously called) the individual soul (pudgala), the witness of the field (of the body) (kṣetravit)[^280] and the fettered soul (pasu). (144cd-145ab) 
 
 ### TĀ 9.144–145
 
-The individual souls (anu) are nothing at all other then Maheśvara, who is the Light (of consciousness), and who, out of His own free will, shining forth within Himself as sentient and insentient, is the ‘individual soul \[illegible\] (This name) is derived from the root puth in the sense of ‘violence’ (hiṁsā) and ‘creation of affliction’ (saṁkleśana). (From it,) by adding the nominal suffix (kvip),[^281] (is derived the) the noun pudgala, (that denotes the individual soul,) insofar as (its) intellect is intent on violence (puthā, hiṁsā), because it falls (galati), and because (of its) affliction (kleśa).[^282] He is called ‘pasu’ because of the bondage (pāśyatva) arising from considering himself to be the body, which is the field (kṣetra) wherein the seeds of Karma grow (and so is also called ‘kṣetraviď’ — the witness of the field of the body). This is the meaning. That is said (with the words): ‘Śiva Himself has assumed the state of the fettered soul’[^283]. 
+The individual souls (anu) are nothing at all other then Maheśvara, who is the Light (of consciousness), and who, out of His own free will, shining forth within Himself as sentient and insentient, is the ‘individual soul (pudgala)’. (This name) is derived from the root puth in the sense of ‘violence’ (hiṁsā) and ‘creation of affliction’ (saṁkleśana). (From it,) by adding the nominal suffix (kvip),[^281] (is derived the) the noun pudgala, (that denotes the individual soul,) insofar as (its) intellect is intent on violence (puthā, hiṁsā), because it falls (galati), and because (of its) affliction (kleśa).[^282] He is called ‘pasu’ because of the bondage (pāśyatva) arising from considering himself to be the body, which is the field (kṣetra) wherein the seeds of Karma grow (and so is also called ‘kṣetraviď’ — the witness of the field of the body). This is the meaning. That is said (with the words): ‘Śiva Himself has assumed the state of the fettered soul’[^283]. 
 
 #### Viveka on 9.144–145
 
@@ -100,7 +100,7 @@ Māyā
 « \^ + \^ tathā coktaṁ śāstre Śrīpūrvanāmani || 147 I|
 Tśvarecchāvaśād asya bhogecchā saṁiprajāyate |
 bhogecchor upakārārtham ādyo mantramaheśvaraḥ || 148 ॥
-\[illegible\] vikṣobhya saisārai nirmimīte vicitrakam | 
+māyāṁ vikṣobhya saisārai nirmimīte vicitrakam | 
 
 The same is said in the scripture (52504) called Śrīpūrva (i.e. the Mālinīvijayottara): ‘The desire for worldly pleasure (bhoga) arises in him by the power of the Lord’s will. Thus, (Aghoreśa, alias Ananta,) the first Great Lord of Mantra, disturbs Māyā,[^287] and goes on to fashion the diverse 
 
@@ -181,11 +181,11 @@ Māyā as a Principle or Reality Level (tattva)
 
 Having defined the nature (of Māyā) as Power (śakti), (Abhinava) says (the following), in order to define its nature as a metaphysical principle (tattva), by summarizing (garbhīkāreṇa) (and explaining) the meaning of the scripture (that declares): 
 
-[^293]Moreover, (Māyā) is one (ekā), all-pervasive (vyāpinī), subtle (sūkṣmā), undifferentiated (niṣkalā), the receptacle of the universe (jagato nidhi), without beginning or end (anādyantā), undecaying (vyayahīnā). (She is) what is other than Siva (aśivā) (inauspicious, unconscious and Śiva-less). (She is the goddess) \[illegible\] (the Governess of the dominion of Māyā, who is thus able to act, and is) said to be undecaying.’[^294] 
+[^293]Moreover, (Māyā) is one (ekā), all-pervasive (vyāpinī), subtle (sūkṣmā), undifferentiated (niṣkalā), the receptacle of the universe (jagato nidhi), without beginning or end (anādyantā), undecaying (vyayahīnā). (She is) what is other than Siva (aśivā) (inauspicious, unconscious and Śiva-less). (She is the goddess) Īśānī (the Governess of the dominion of Māyā, who is thus able to act, and is) said to be undecaying.’[^294] 
 
 [^293]: MV 1/26 is quoted in the introduction to TĀ 9/151cd-152, which is essentially an explanation of this verse. The reading of the first line here, which is accepted by Vasudeva in place of the reading in the edition of the MV of the KSTS, is: sā caikā vyāpinī sūkṣmā niṣkalā jagato nidhiḥ. The edition of the MV of the KSTS reads sā caikā vyāpinīrūpā niṣkalā ‘And (Māyā) is one, her nature is (all) pervasive and, undifferentiated, is the receptacle (nidhi) of the universe.’ MS K reads the last half of the first line: niṣkalasya svabhāvajā — (And (Māyā) is one, her nature is (all) pervasive and) is born from the essential nature of undifferentiated (Śiva)’. MS Kh reads the last half of the first line: niṣkalasya Śivātmanaḥ — ‘(And (Māyā) is one, her nature is (all) pervasive), (the power of) the one who is partless Śiva’. The reading from niṣkalā to kathyate (i.e. from the middle of the first line to the end of the second) is drawn from MS Gh. I have added the following verse i.e. MV 1/27.
 
-[^294]: One could translate anādyantāśiveśānī (without beginning and end (She is) not auspicious (aśivā) (or AŚśivā), (the goddess) \[illegible\] (the Governess).’ Again, one could read anādyantā śiveśānī (‘without beginning and end (She is) Śivā, (the goddess) Īśānī (the Governess’). Sanderson (1992: 301) suggests ‘able to act’ as a translation of \[illegible\] and reads Aśivā, as does Jayaratha, and was intended. The name ‘Śivā for the goddess is well attested and makes sense. Leaving the text as it is would mean that the goddess is called Aśivā, which is not at all a common name. Or else the word may be construed to be a privative — ‘she who is not \[illegible\] i.e ‘not auspicious’ or ‘what is other than Śiva’. At first sight, this would not seem be an appropriate way to describe the divine power that governs the universe. However, in the next verse (9/151-152ab), which is essentially an explanation on this verses, Abhinava’s characterization of Māyā as “insentient’ may be understood to be a gloss on ‘aśivā’ as ‘she who is not Śiva’, that is, ‘she who is not consciousness”. Jayaratha supports this interpretation by quoting from
+[^294]: One could translate anādyantāśiveśānī (without beginning and end (She is) not auspicious (aśivā) (or AŚśivā), (the goddess) Īśānī (the Governess).’ Again, one could read anādyantā śiveśānī (‘without beginning and end (She is) Śivā, (the goddess) Īśānī (the Governess’). Sanderson (1992: 301) suggests ‘able to act’ as a translation of Īśānī and reads Aśivā, as does Jayaratha, and was intended. The name ‘Śivā for the goddess is well attested and makes sense. Leaving the text as it is would mean that the goddess is called Aśivā, which is not at all a common name. Or else the word may be construed to be a privative — ‘she who is not ‘śiva’, i.e ‘not auspicious’ or ‘what is other than Śiva’. At first sight, this would not seem be an appropriate way to describe the divine power that governs the universe. However, in the next verse (9/151-152ab), which is essentially an explanation on this verses, Abhinava’s characterization of Māyā as “insentient’ may be understood to be a gloss on ‘aśivā’ as ‘she who is not Śiva’, that is, ‘she who is not consciousness”. Jayaratha supports this interpretation by quoting from
 
     scripture. Sanderson (1992: 301 n 72) cogently points out that ‘the pāda could be analysed as anādyantā \$ का. Abhinavagupta has chosen this analysis in MVV 1/174ab (māyātattvasvarūpe hi śiveśānīti vakṣyate), but evidently, to make the nondualist’s point that Māyā, after all, is Śiva’s śakti (śivā) and therefore identical with him.’ Sanderson goes on to examine references in dualist Śaiva sources to Māyā as Aśivā, which is variously understood by Siddhāntins as a separate reality, that is the opposite or contrary to Śiva or without Śiva or ‘baneful’ or ‘unconscious”. Abhinava’s explanation of this verse in the following lines at removing its most probably original dualist sense and replacing it with a nondu: one. In that perspective, Māyā is not, like the Prakṛti of the Sāṁkhya, the material cause (upādāna) of all the lower 31 impure principles and Śiva (as Ananta), just an instrumental cause (nimitta) that precipitates their creation from it. Māyā as Śivā is Śiva's Śakti, and so is one with him.
 
@@ -204,7 +204,7 @@ sivaśaktyavinābhāvān nityaikā mūlakāraṇam || 152 I|
 
 (Māyā) is insentient because its nature is duality (bheda) (and so is devoid of the oneness of consciousness), and because its product is insentient.[^295] (Even so,) it is the cause of all things, and so is all-pervasive 
 
-[^295]: Here in these lines, Abhinava is glossing the epithets of Māyā listed in MV 1/26. Thus, he tacitly glosses the expression as \[illegible\] — ‘not Śiva’ as ʻinsentient’. Śiva is consciousness, and so Māyā, which is the absence of Śiva, is devoid of consciousness. Again, the Māli iyottara says that Māyā is ‘undifferentiated’ (niṣkalā), which Abhinava explains means ‘one’. While Abhinava further explains that by saying that is ‘without beginning or end’ (anādyantā) and ‘undecaying’, the MV means simply that it is eternal. He gives reasons for why Māyā possesses these attributes even as he glosses the terms that denote them. Jayaratha systematically follows suit. Sanderson (1992; 301 n 72) has located a number of references to ‘asivā’ in Siddhānta sources (translations in square brackets are mine): ‘see e.g. Mṛg VP 9.2: tad ekam aśivar bījaṁ jagataś; and Pauṣkara quoted in ŚaivaParibh p. 88 nityaikā vyāpinī vasturūpā karmaśrayāśivā (Ed. -āśrayā śivā). Its meaning is not free from disagreement. Nārāyaṇakantha on the Mṛgendra’s definition says simply that it is called aśiva- because it causes ignorance (MṛgVṛ VP p. 187: aśivam mohakatvāt). The expression avivekākulam ‘full of non-discrimination’ that occurs in the Svāyambhuva’s definition of Māyā quoted in the SiddhSūVr p. 18 may well have been intended as an explanatory synonym. Trilocanaśivācārya’s definition of Māyā in the SiddhSārāv 8 includes the words aśsivakaraḥ mohakam and appears, as this shows, to be based on the Mreg, as explained by Nārāyaṇakantha. For him, then, asivam in Mṛg means aśivakaram ‘causing what is \[illegible\] which his commentator Anantaśambhu explains as follows: sivajñānavyatiriktatvād evājñānakaram ‘causing ignorance, because it is void of Śiva-knowledge’. These glosses can be taken as explanations in context of the word aśiva-, in its common sense of ‘inauspicious’ or ‘hostile’. But Bhojarāja seems to taking it to mean ‘Śiva-less\*, when he includes śivāsaktā, ‘not attached to Śiva’, in his definition of māyā in TattvPrak 38. Aghoraśiva ad loc. Takes ‘not attached’ to be ‘not internally
+[^295]: Here in these lines, Abhinava is glossing the epithets of Māyā listed in MV 1/26. Thus, he tacitly glosses the expression as \[illegible\] — ‘not Śiva’ as ʻinsentient’. Śiva is consciousness, and so Māyā, which is the absence of Śiva, is devoid of consciousness. Again, the Māli iyottara says that Māyā is ‘undifferentiated’ (niṣkalā), which Abhinava explains means ‘one’. While Abhinava further explains that by saying that is ‘without beginning or end’ (anādyantā) and ‘undecaying’, the MV means simply that it is eternal. He gives reasons for why Māyā possesses these attributes even as he glosses the terms that denote them. Jayaratha systematically follows suit. Sanderson (1992; 301 n 72) has located a number of references to ‘asivā’ in Siddhānta sources (translations in square brackets are mine): ‘see e.g. Mṛg VP 9.2: tad ekam aśivar bījaṁ jagataś; and Pauṣkara quoted in ŚaivaParibh p. 88 nityaikā vyāpinī vasturūpā karmaśrayāśivā (Ed. -āśrayā śivā). Its meaning is not free from disagreement. Nārāyaṇakantha on the Mṛgendra’s definition says simply that it is called aśiva- because it causes ignorance (MṛgVṛ VP p. 187: aśivam mohakatvāt). The expression avivekākulam ‘full of non-discrimination’ that occurs in the Svāyambhuva’s definition of Māyā quoted in the SiddhSūVr p. 18 may well have been intended as an explanatory synonym. Trilocanaśivācārya’s definition of Māyā in the SiddhSārāv 8 includes the words aśsivakaraḥ mohakam and appears, as this shows, to be based on the Mreg, as explained by Nārāyaṇakantha. For him, then, asivam in Mṛg means aśivakaram ‘causing what is aśiva’, which his commentator Anantaśambhu explains as follows: sivajñānavyatiriktatvād evājñānakaram ‘causing ignorance, because it is void of Śiva-knowledge’. These glosses can be taken as explanations in context of the word aśiva-, in its common sense of ‘inauspicious’ or ‘hostile’. But Bhojarāja seems to taking it to mean ‘Śiva-less\*, when he includes śivāsaktā, ‘not attached to Śiva’, in his definition of māyā in TattvPrak 38. Aghoraśiva ad loc. Takes ‘not attached’ to be ‘not internally
 
     related to\` or ‘hostile’ (asamavetā). Others took aśiva- to mean ‘unconscious’ (jada-, acetana-). This is the sense recognised by Abhinavagupta in TĀ 9/152ab.
 
@@ -244,7 +244,7 @@ the cause of all things, (both) instrumental causes and effects, as the source (
 
 \*All-pervading (vyāpinī) (Māyā) fashions all phenomena everywhere by the currents (of experience running through) all the abodes of the universe in order to (supply) worldly experience (bhoga), because the (number of) individual souls is endless.’[^298] 
 
-Thus (Māyā) ‘ʻapportions (and measures out)” \[illegible\][^299] (everything) everywhere. It is ‘subtle’, that is, it is unknown to everybody. Thus, the sense is that it is conceived to exist by those of lower vision, because otherwise, (if it were not to exist, its) products could not be explained (anupapatti).[^300] ‘(It is eternal,) because it is invariably associated with Śiva’s power’. Śiva is 
+Thus (Māyā) ‘ʻapportions (and measures out)” (māti)[^299] (everything) everywhere. It is ‘subtle’, that is, it is unknown to everybody. Thus, the sense is that it is conceived to exist by those of lower vision, because otherwise, (if it were not to exist, its) products could not be explained (anupapatti).[^300] ‘(It is eternal,) because it is invariably associated with Śiva’s power’. Śiva is 
 
 [^298]: BhoKā 120cd-12lab. Read puruṣānantyād for puruṣānantya-, as does the edition of the BhoKĀā. Aghoraśivācārya’s vṛtti supports this reading, saying: māyāyām ānantyān nocyate srotasāṁi saṁkhyā || iti | eṣā ca kṣīradadhinyāyena na sarvātmanā parināmameti, kintu ghṛtakīṭanyāyenaikadeśeneti mantavyam || \*As that which is within Māyā is endless, one does not say that the currents (of experience) have number. That (Māyā) is not transformed (completely) in all respects (sarvātmanā) (when this happens), in accord with the analogy of milk (that changes 0) curd. Rather, one should consider that it takes place in one place (in single instances), on the analogy of clarified butter (that gives rise) to worms (within some parts of it). If we accept the reading here (i.e. puruṣānantyabhogāya), the translation would be, \*in order to (supply) worldly experience (bhoga) to the endless number of individual souls.’ See also the previous verse: acidvatām anekatvād vināśitvaṁ suniścitam || 119 ॥ nānekā sā tv ato nityā māyā yady apy acetanā | ‘It is certain that insentient entities will be destroyed because they are many, whereas Māyā is not many, and so is eternal, even though insentient.’ BhoKā 119cd- 120ab
 
@@ -258,7 +258,7 @@ eternal and so is (his) power, because it is invariably associated with Him, and
 
 [^301]: MV 1/26. Jayaratha quite rightly understands that Abhinava is explaining and reworking in nondualist terms the definition of Māyā given in the Mālinīvijayottara verse 1/26 he quotes as an introduction to Abhinava’s explanation of them. See Sanderson 1992; p. 303-304.
 
-[^302]: Here the word ‘Māyī’ is derived from ‘mā’, which, literally meaning ‘no’, denotes ‘denial’ or ‘negation’ of the essentially unitary eternal nature of reality, which amounts to its destruction. In other words, plurality, and the transitoriness invariably associated with it, is constantly regenerated by the power which apparently destroys the unity of the one reality of which it is its power. She has \[illegible\] i.e. proceeded from that. Māyā is that which ‘proceeds from negation’. In other words, in universal terms, Māyā as Śiva’s power is the freedom he has to deny (and so, as it were, ‘destroy’) his oneness, to form himself into the infinite number of individual entities, each different from one another. The same takes place at the individual level of cognition, in the course of the transition from the pure consciousness of the perceiver free of determinate perceptions (vikalpa) to that of the determinate perception of individual objects. Abhinava explains, commenting on ĪP 1/6/3 tadatatpratibhābhājā mātraivātadvyapohanāt | tanniścayanam ukto hi vikalpo gahṭa ity ayam ॥ ‘For we call vikalpa the ascertainment of certain things (tanniścayanam) (e.g.) ‘jar’ arrived at through the exclusion of its opposite (atadvyapohanāt) by the knowing subject only (mātraiva) in whom that and the opposite of that are manifested (tadatatpratibhābhājā).’ (Translation by Torella) evar ca tatpratibhām ghaṭābhāsam, atatpratibhām ca aghaṭābhāsaṁ pramātā bhajate ~ sevate tāvat tadavikalpada: 771 citsvabhāvo.asau ghaṭaḥ cidvadeva viśvaśarīraḥ pūrṇaḥ, na ca tena kaścidvyavahāraḥ, \[na kecid vyavahārāīḥ - KSTS\] tat māyāvyāpāram ullāsayan pūrṇamapi khandayati bhāvam, tenāghaṭasyātmanaḥ patādeścāpohanaṁ kriyate niṣedhanarūpam, tadeva vyapohanamāśritya tasya \[illegible\] niścayanamucyate ghaṭa eva iti, evārthasya sambhāvyamānāparavastuniṣedharūpatvāt, eṣa eva paritaśchedāttakṣanṇakalpāt paricchedaḥ ad ĪP 1/6/3 p. 244-245 ‘Thus, both the images of ‘this’, i.e. ‘jar’, and of ‘not-this’, i.e. ‘not-jar’, are present within the subject. Therefore, in the state of indeterminacy, jar is one with consciousness, and like the latter, it is omniform and perfect. Hence it is of no use in practical life. Therefore, the subject, while manifesting the activity of Māyā, splits this perfect being, i.e. manifests it as delimited. Through that (manifestation of the activity of Māyā), he differentiates jar from non-jar, self and cloth etc. The differentiation consists of negation. And we speak of certainty about the jar — ‘this is a jar and nothing else’ — on the basis of that very differentiation only, the chief characteristic of which is negation. For the meaning of the word ‘eva’ is the negation of all other things that can possibly exist (at that place). This determinacy (vikalpa) is so called because it cuts a thing off on all sides (from everything else).”
+[^302]: Here the word ‘Māyī’ is derived from ‘mā’, which, literally meaning ‘no’, denotes ‘denial’ or ‘negation’ of the essentially unitary eternal nature of reality, which amounts to its destruction. In other words, plurality, and the transitoriness invariably associated with it, is constantly regenerated by the power which apparently destroys the unity of the one reality of which it is its power. She has ‘yātā’, i.e. proceeded from that. Māyā is that which ‘proceeds from negation’. In other words, in universal terms, Māyā as Śiva’s power is the freedom he has to deny (and so, as it were, ‘destroy’) his oneness, to form himself into the infinite number of individual entities, each different from one another. The same takes place at the individual level of cognition, in the course of the transition from the pure consciousness of the perceiver free of determinate perceptions (vikalpa) to that of the determinate perception of individual objects. Abhinava explains, commenting on ĪP 1/6/3 tadatatpratibhābhājā mātraivātadvyapohanāt | tanniścayanam ukto hi vikalpo gahṭa ity ayam ॥ ‘For we call vikalpa the ascertainment of certain things (tanniścayanam) (e.g.) ‘jar’ arrived at through the exclusion of its opposite (atadvyapohanāt) by the knowing subject only (mātraiva) in whom that and the opposite of that are manifested (tadatatpratibhābhājā).’ (Translation by Torella) evar ca tatpratibhām ghaṭābhāsam, atatpratibhām ca aghaṭābhāsaṁ pramātā bhajate ~ sevate tāvat tadavikalpada: 771 citsvabhāvo.asau ghaṭaḥ cidvadeva viśvaśarīraḥ pūrṇaḥ, na ca tena kaścidvyavahāraḥ, \[na kecid vyavahārāīḥ - KSTS\] tat māyāvyāpāram ullāsayan pūrṇamapi khandayati bhāvam, tenāghaṭasyātmanaḥ patādeścāpohanaṁ kriyate niṣedhanarūpam, tadeva vyapohanamāśritya tasya ghaṭasya niścayanamucyate ghaṭa eva iti, evārthasya sambhāvyamānāparavastuniṣedharūpatvāt, eṣa eva paritaśchedāttakṣanṇakalpāt paricchedaḥ ad ĪP 1/6/3 p. 244-245 ‘Thus, both the images of ‘this’, i.e. ‘jar’, and of ‘not-this’, i.e. ‘not-jar’, are present within the subject. Therefore, in the state of indeterminacy, jar is one with consciousness, and like the latter, it is omniform and perfect. Hence it is of no use in practical life. Therefore, the subject, while manifesting the activity of Māyā, splits this perfect being, i.e. manifests it as delimited. Through that (manifestation of the activity of Māyā), he differentiates jar from non-jar, self and cloth etc. The differentiation consists of negation. And we speak of certainty about the jar — ‘this is a jar and nothing else’ — on the basis of that very differentiation only, the chief characteristic of which is negation. For the meaning of the word ‘eva’ is the negation of all other things that can possibly exist (at that place). This determinacy (vikalpa) is so called because it cuts a thing off on all sides (from everything else).”
 
 *[p. 134]* ^pg151
 
@@ -284,7 +284,7 @@ Every insentient (entity) is both diverse (anekātmā) and the product (of a pre
 
 Here is set forth the inference made for the sake of others in the form of a five-membered (syllogism). Thus: 1) Fundamental Nature (pradhāna) is a product (kārya) because, being ntient, it is multiple. 2) Being insentient, all 
 
-[^303]: Sanderson (1992: 304) prefers to translate \[illegible\] as this, he points out, is what Abhinavagupta intends to say, namely, ‘able to act’. He explains that this means that \[illegible\] / Māyā is ‘able to give birth to the universe of its transformations, not because it possesses this power in itself, needing only the stimulus of Ananta in order to be activated, but because it is the power of action (kriyāśakti) inherent in Śiva himself. This interpretation of \[illegible\] is implicit in the Tantrāloka: Abhinavagupta gives the ‘root cause’ as a single gloss covering both ‘the receptacle of the universe’ and ‘able to act’; and he evidently intends the word cause (kāraṇam) here to be analysed both as ‘that out of which things are made’ and as ‘that which makes things’; that is, as both the ‘material cause’ and the ‘efficient cause’. For confirmation, we have an earlier analysis of this passage in the Mālinīvijayavārtika: ‘when (Śivas) power of action reaches its most intense extroversion, it becomes Māyā; and the evidence for this is that it will be called siveśānī in \[the verse of the text which defines\] the nature of māyātattvam.’ (kriyāśakteḥ sphuṭaḥ sphāro māyātvar pratipadyate ॥ māyātattvasvarūpe hi śiveśānīti vakṣyate | MVV 1/173cd-174ab.
+[^303]: Sanderson (1992: 304) prefers to translate īśānī, as this, he points out, is what Abhinavagupta intends to say, namely, ‘able to act’. He explains that this means that \[illegible\] / Māyā is ‘able to give birth to the universe of its transformations, not because it possesses this power in itself, needing only the stimulus of Ananta in order to be activated, but because it is the power of action (kriyāśakti) inherent in Śiva himself. This interpretation of īśānī is implicit in the Tantrāloka: Abhinavagupta gives the ‘root cause’ as a single gloss covering both ‘the receptacle of the universe’ and ‘able to act’; and he evidently intends the word cause (kāraṇam) here to be analysed both as ‘that out of which things are made’ and as ‘that which makes things’; that is, as both the ‘material cause’ and the ‘efficient cause’. For confirmation, we have an earlier analysis of this passage in the Mālinīvijayavārtika: ‘when (Śivas) power of action reaches its most intense extroversion, it becomes Māyā; and the evidence for this is that it will be called siveśānī in \[the verse of the text which defines\] the nature of māyātattvam.’ (kriyāśakteḥ sphuṭaḥ sphāro māyātvar pratipadyate ॥ māyātattvasvarūpe hi śiveśānīti vakṣyate | MVV 1/173cd-174ab.
 
 *[p. 135]* ^pg152
 
@@ -295,7 +295,7 @@ He says that:
 ### TĀ 9.154
 
 अत एवाध्वनि प्रोक्ता पूर्व माया द्विधा स्थिता ।
-ata evādhvani proktā \[illegible\] māyā dvidhā sthitā | 
+ata evādhvani proktā pūrvaṁ māyā dvidhā sthitā | 
 
 Therefore, 
 
@@ -305,7 +305,7 @@ is preceded on the Path (of cosmic manifestation) by Māyā, which abides (sthit
 
 #### Viveka on 9.154
 
-(Māyā’s) condition (avasthāna) is said to be two-fold, as the Principle (tattva) and the Knot \[illegible\][^306] It ‘abides (sthitā) two-fold’, according to whether the cause is considered to be to be in an activated (ucchūna) form (just about to give rise to its effect) or not (anucchūna). This the overall sense. 
+(Māyā’s) condition (avasthāna) is said to be two-fold, as the Principle (tattva) and the Knot (granthi).[^306] It ‘abides (sthitā) two-fold’, according to whether the cause is considered to be to be in an activated (ucchūna) form (just about to give rise to its effect) or not (anucchūna). This the overall sense. 
 
 Surely (one may ask), it was said before that Māyā is the Lord’s power, which is invariably concomitant (with Him), so how can it assume the condition of a metaphysical principle, which (requires that it be) described as separate (from Him)? Surely, (one can continue to object) that one is saying very little (in response) that, like Māyā, the powers of the supreme sovereignty (of the Lord), that is, the Force (of limited agency) and the rest, are also a group of principles. As is proclaimed with this same intention: ‘His powers are the entire 
 
@@ -351,7 +351,7 @@ He explains this:
 niruddhaśakter yā kicitkartṛtodvalanātmikā || 155 ||
 nāthasya śaktiḥ sādhastāt puńisah kṣeptrī kalocyate | 
 
-The Force (of limited agency) (kalā) is said to be the power of the Lord, which strengthens the limited capacity to act (kiṁcitkartṛtā) of the soul, whose powers have been blocked, and casts it down \[illegible\] (onto the lower levels of embodied existence).[^309] (155cd-156ab) 
+The Force (of limited agency) (kalā) is said to be the power of the Lord, which strengthens the limited capacity to act (kiṁcitkartṛtā) of the soul, whose powers have been blocked, and casts it down (kṣeptrī) (onto the lower levels of embodied existence).[^309] (155cd-156ab) 
 
 #### Viveka on 9.155–156
 
@@ -361,7 +361,7 @@ The powers of (the fettered soul residing in the principle of Māyā) have been 
 
 *[p. 137]* ^pg154
 
-\[illegible\] here (in this case) 18 (to indicate) that it is the reason for the casting down (of the individual soul to the lower levels). 
+‘kalā’ here (in this case) 18 (to indicate) that it is the reason for the casting down (of the individual soul to the lower levels). 
 
 He applies this same (line of reasoning) elsewhere (to the following principles) also. 
 
@@ -509,7 +509,7 @@ With this doubt in mind, he says:
 ### TĀ 9.160–161 (2)
 
 तथात्यन्ताभावोऽप्येवं विविच्यताम् ।
-- - + ~ tathātyantābhāvo ‘py \[illegible\] vivicyatām | 
+- - + ~ tathātyantābhāvo ‘py evaṁ vivicyatām | 
 
 Consider (the notion) of absolute non-existence (antyantābhāva) in the same way. (160-161ab) 
 
@@ -526,7 +526,7 @@ Now that he has established (with sound argument) the existence of the principle
 यस्य देहो यथा तस्य तज्जातीयं पुरं बहिः ॥ १६२ ॥
 अतः सुशिवपर्यन्ता सिद्धा भुवनपद्धतिः ।
 
-yat \[illegible\] \[illegible\] tathā tasya bahirdeho ‘sti cetanaḥ ॥ 161 ॥
+yat saṅkalpyaṁ tathā tasya bahirdeho ‘sti cetanaḥ ॥ 161 ॥
 caitravat sauśivāntaṁ tat sarvar tādṛśadehavat |
 yasya deho yathā tasya tajjātīyan puran bahiḥ ॥ 162 ॥
 ataḥ suśivaparyantā siddhā bhuvanapaddhatiḥ | 
@@ -788,7 +788,7 @@ Having explained this by the way, he (goes on) to talk about the main point.
 एवमेषा कलादीनामुत्पत्तिः प्रविविच्यते ।
 मायातत््वात् कला जाता किञ्चित्कर्तृत्वलक्षणा ।। १७४ ॥।
 
-evam \[illegible\] kalādīnām utpattiḥ pravivicyate |
+evam eṣā kalādīnām utpattiḥ pravivicyate |
 māyātattvāt kalā jātā kiñcitkartṛtvalakṣanṇā ॥ 174 ॥ 
 
 (Now is the time) to reflect on how the (principles), including the Force (of limited agency) and the rest, arise (one by one) in this way. The Force (of limited agency) arises from the principle of Māyā, and its characteristic is limited agency (kiñcitkartṛtva).[^337] (174) 
@@ -961,7 +961,7 @@ Thus, it is the Force (of limited agency) that performs the task of strengthenin
 
 ‘Consciousness’ is the agency of the activity of the power of consciousness (citi). This is the meaning. Surely (one may object that) it is a contradiction (contrary to the very nature of things that) the Force (of limited agency), which is insentient, strengthens consciousness. Thus, with this doubt in mind, he says that ʻit is impelled by Lord Ananta’s power’. 
 
-Surely (one may say that,) if this is so, the power of the Lord (Himself) \[illegible\] should strengthen it (directly). What is the use of the Force (of limited agency)? With this doubt in mind, he says: 
+Surely (one may say that,) if this is so, the power of the Lord (Himself) (īśaśakti) should strengthen it (directly). What is the use of the Force (of limited agency)? With this doubt in mind, he says: 
 
 ### TĀ 9.182
 
@@ -1078,7 +1078,7 @@ The discriminating insight ‘between the individual soul and Nature’ is of th
 
 Moreover, it is said: 
 
-[^355]: Read with MSs Ñ, Ṭh: caiṣā for \[illegible\] and doṣālāyāśubhā for doṣālāyā śubhā.
+[^355]: Read with MSs Ñ, Ṭh: caiṣā for caiṣāṁ and doṣālāyāśubhā for doṣālāyā śubhā.
 
 [^356]: Verses 186-187ab are quoted below in TĀv ad 13/274cd-275ab.
 

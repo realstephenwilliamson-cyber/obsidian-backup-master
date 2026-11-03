@@ -11,7 +11,7 @@ aliases:
 ---
 # Greek NT Lexicon (MorphGNT)
 
-One note per lemma of the SBL Greek New Testament (5461 lemmas, 137554 words), with every occurrence grouped by inflected form and linked to its verse in [[New Testament]]. Glosses at the top of a note come from Jeffrey Dodson's lexicon where its headword is the same as the MorphGNT lemma. 541 lemmas (1,777 occurrences) have no Dodson headword spelled the same way, so their notes have no gloss and no Strong's number. MorphGNT leaves out [[John 07#^7-53|John 7:53–8:11]], so those twelve verses have no entries here (see [[Cloud build reports]]).
+One note per lemma of the SBL Greek New Testament (5461 lemmas, 137554 words), with every occurrence grouped by inflected form and linked to its verse in [[New Testament]]. Glosses at the top of a note come from Jeffrey Dodson's lexicon where its headword is the same as the MorphGNT lemma. 541 lemmas (1,777 occurrences) have no Dodson headword spelled the same way, so their notes have no gloss and no Strong's number. MorphGNT leaves out [[John 07#^7-53|John 7:53–8:11]], so those twelve verses have no entries here.
 
 ## License and attribution
 

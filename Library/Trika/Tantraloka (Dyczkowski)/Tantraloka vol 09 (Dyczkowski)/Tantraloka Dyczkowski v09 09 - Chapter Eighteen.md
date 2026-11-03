@@ -170,7 +170,7 @@ vyāpti sarvādhvasāmānyāri kin tu yāge savistaraḥ ॥ 9 ॥
 
 [^474]: See above, 17/1 1cd-12. We have seen that the Mantra there used to invoke the principles is:
 
-    KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. Following that model, the basic form of the Mantra here requires that phonemes from both syllabaries and instead of AVĀHAYĀMI - \[illegible\] invoke’ have ŚODHAYĀMI’ ~ “I purify’ with the principle in the accusative rather than the vocative. Thus, we are at: NAMAH
+    KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. Following that model, the basic form of the Mantra here requires that phonemes from both syllabaries and instead of AVĀHAYĀMI - – ‘I invoke’ have ŚODHAYĀMI’ ~ “I purify’ with the principle in the accusative rather than the vocative. Thus, we are at: NAMAH
 
     PHAM DHARAM ŚODHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH. In the ‘comprehensive mantra’, the single names ‘Earth’ etc. are substituted by the generic expression sarvatattva — ‘all the principles”.
 

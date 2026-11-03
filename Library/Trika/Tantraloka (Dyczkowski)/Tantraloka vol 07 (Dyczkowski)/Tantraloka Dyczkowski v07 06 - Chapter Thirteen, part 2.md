@@ -65,7 +65,7 @@ Now, it is said that, although (something is) destroyed as a modality of a conti
 
 क्षणान्तरं सदृक् सुते इति चेस्स्थिरतैव सा ॥ ५७ ॥
 
-\[illegible\] sadṛk sūte iti cet sthirataiva sā || 57 ॥ 
+kṣaṇāntaraṁ sadṛk sūte iti cet sthirataiva sā || 57 ॥ 
 
 If (you say that the destruction of Impurity does not happen immediately, because) another similar (subsequent) moment is created, (that would amount to affirming its) permanence (sthiratā) (as there would be no reason to preclude the occurrence of any number of similar succeeding moments). (57cd) 
 
@@ -643,7 +643,7 @@ santatyāvartamāneṣu vyavasthā na prakalpate || 85 ॥
 
 If there were to be no Impurity, and Karma were to flow on in varied forms, it would not affect anybody, just as (it does not) one who is liberated in this life. Thus, one could not conceive its condition to be that of the cause of 
 
-[^370]: SvT 3/177a and 176b Quoted above ad 9/88cd-89ab and ad 13/49 and again below in \[illegible\] ad 13/1 10cd-1 1 lab. The first half of this line is SvT 3/177a which is quoted in TĀv ad 9/62. The second half is SvT 3/176b. See note to TĀv ad 1/22.
+[^370]: SvT 3/177a and 176b Quoted above ad 9/88cd-89ab and ad 13/49 and again below in TĀv ad 13/1 10cd-1 1 lab. The first half of this line is SvT 3/177a which is quoted in TĀv ad 9/62. The second half is SvT 3/176b. See note to TĀv ad 1/22.
 
 
 *[p. 178]* ^pg198
@@ -803,9 +803,9 @@ The job of the balance of (opposing) Karmas amounts to this much alone; that is,
 Surely, (the opponent may rejoin,) what is the use of these (supposed causes of the soul’s subsequent obscuration)? One should say that it is the Lord’s will itself that is the cause. Accordingly, he says: 
 
 हेतुत्वे चेश्वरच्छाया वाच्यं पूर्ववदेव तु ॥ ९६ ॥
-\[illegible\] ceśvarecchāyā vācyari pūrvavad eva tu || 96 || 
+hetutve ceśvarecchāyā vācyari pūrvavad eva tu || 96 || 
 
-If you say the cause (which brings this about) is the Lord’s will, (then the same objections are applicable) as before. \[illegible\] 
+If you say the cause (which brings this about) is the Lord’s will, (then the same objections are applicable) as before. (96cd) 
 
 *[p. 183]* ^pg203
 
@@ -818,7 +818,7 @@ Now, in this perspective, is the Lord’s will (impelled to) operate in this way
 एतेनान्येऽपि येऽपेक्ष्या ईशेच्छायां प्रकल्पिताः ।
 ध्वस्तास्तेऽपि हि नित्यान्यहेत्वहेत्वादिदटूषणात् ।। ९७ ॥
 
-ete nānye ‘pi ye ‘pekṣyā \[illegible\] \[illegible\] prakalpitāḥ | 
+ete nānye ‘pi ye ‘pekṣyā īśecchāyāṁ prakalpitāḥ | 
 
 dhvastās te ‘pi hi nityānyahetvahetvādidūṣaṇāt || 97 ॥ 
 
@@ -855,7 +855,7 @@ All the various causes on which the Lord is said to depend (in order to dispense
 
 (All) these (possible causes) are ‘(implicitly) faulted (dūṣya) as before (by the preceding arguments)’. If (the view is that) the (presence of) dispassion etc. (in the fettered soul) that (the Lord) requires (as an occasion for Him to dispense grace) is (itself) without cause, the (vitiating) defect is that it is either permanently existent or (permanently) non-existent. If it does have a cause, then is that cause permanently (operant) or occasional? In the first case, it exists permanently, (so) what (use could there be for some) other occasional cause? The Lord’s will is not such, for if it were to be, (the Lord’s will and its cause) would each be the basis of the other. (Nor could) the maturation of Karma or the balanced state (between two opposing Karmas be an impelling cause of grace). The same (argument also) applies to the descent of the power (of grace), which is its result. (They would also be) in a state of dependence, as was said of the Lord. So what purpose is served by these other conceived (causes of grace)? (None at all!) Nor is it possible to say that anything else also is a cause (of grace) because it would also not be logically feasible (ayogāt) for that to be a constraint (niyama) (on the Lord’s will).[^377] 
 
-[^376]: Kṣemarāja quotes 13/98-100ab in SvTu ad 5/88d, where he introduces these lines saying: etena tad api pratyuktaṁ yad āhuḥ kecit ‘He refutes that also which is some (others) say’. There are no variants apart from the last line, which reads: ityādihetuke cecchā malaṁ rundhe haṭhād iti | ‘For these reasons and the like, and (my) desire, I obstruct Impurity forcefully \[illegible\] It replaces the last line here, i.e. ity \[illegible\] yadīśasya dūṣyam etac ca pūrvavat | ‘(All the various causes on which the Lord is said) to depend (in order to dispense His grace according to one view or another) are (all implicitly) faulted \[illegible\] as before.’ Kṣemarāja is probably quoting Abhinava’s source rather than Abhinava himself. If he were quoting from Abhinava he would, as he invariably does, refer to him with special reverence.
+[^376]: Kṣemarāja quotes 13/98-100ab in SvTu ad 5/88d, where he introduces these lines saying: etena tad api pratyuktaṁ yad āhuḥ kecit ‘He refutes that also which is some (others) say’. There are no variants apart from the last line, which reads: ityādihetuke cecchā malaṁ rundhe haṭhād iti | ‘For these reasons and the like, and (my) desire, I obstruct Impurity forcefully (haṭhāt).’ It replaces the last line here, i.e. ity \[illegible\] yadīśasya dūṣyam etac ca pūrvavat | ‘(All the various causes on which the Lord is said) to depend (in order to dispense His grace according to one view or another) are (all implicitly) faulted (dūṣya) as before.’ Kṣemarāja is probably quoting Abhinava’s source rather than Abhinava himself. If he were quoting from Abhinava he would, as he invariably does, refer to him with special reverence.
 
 [^377]: TF these are regular, normal causes that induce the Lord’s will to favour the soul with a descent of power, why is this not invariably the case? Again, if they themselves have (some unknown) cause, then they would arise only sometimes and for inexplicable reasons (there and not at other times). The cause of their occurrence at any particular time in some individuals could not be the Lord’s will, for then (His will, detachment and the like) would be mutually dependent. Nor (for the same reason is it the result of) the maturing of Impurity (mala) or the equilibrium of Karma. In short, if the Lord’s will to favour the soul with a descent of grace is dependent on these causes, these must in their turn be determined by others. As they are not God’s will or the activity of the individual soul, they could occur in anybody without reason at any moment.
 
@@ -978,7 +978,7 @@ He not only binds himself by virtue of (His) freedom; He also frees (Himself). A
 स्वं रूपं परिशुद्धं सत्स्पशत्यप्यणुतामयः ।। १०५ ॥
 
 svātantryamahimaivāyari devasya yad asau punaḥ |
-sva \[illegible\] pariśuddhaṁ sat spṛśaty apy aṇutāmayaḥ ॥ 105 ॥ 
+sva ṁ rūpaṁ pariśuddhaṁ sat spṛśaty apy aṇutāmayaḥ ॥ 105 ॥ 
 
 This is the greatness of God’s freedom, that even though (His) state is that of an individual soul, He also makes contact with His own true essential nature, which is completely pure (and thereby reveals it). (105) 
 
@@ -993,7 +993,7 @@ Surely (one may ask), if this is so, then how is it that He manifests Himself in
 न वाच्यं तु कथं नाम कस्मि्चितपुंस्यसो तथा ।
 न हि नाम पुमान्कश्चिद्यस्मिन्पर्यनुयुज्यते ।। १०६ ॥।
 
-na vācyaṁ tu kathaḥ nāma \[illegible\] pusy asau tathā |
+na vācyaṁ tu kathaḥ nāma kasmiṁścit pusy asau tathā |
 na hi nāma pumān kaścid yasmin paryanuyujyate ॥ 106 ॥ 
 
 [^384]: TP 3/2/10cd. The full verse is quoted above in TĀv ad 9/61.
@@ -1070,7 +1070,7 @@ The fruit (of Karma), such as (the experience of) pleasure and the like, which (
 
 *[p. 191]* ^pg211
 
-Surely, (an opponent may object that,) in this way, the (Impurity) of Karma (is only possible) when \[illegible\] condition is that of the individual soul, who is His own concealed nature. Thus, transmigratory existence is the instigating cause (nimitta) (of Karma), and the beginningless nature (of the soul) that people of all views (unanimously) accept (it possesses), would be denied. With this doubt in mind, he says: 
+Surely, (an opponent may object that,) in this way, the (Impurity) of Karma (is only possible) when (Śiva’s) condition is that of the individual soul, who is His own concealed nature. Thus, transmigratory existence is the instigating cause (nimitta) (of Karma), and the beginningless nature (of the soul) that people of all views (unanimously) accept (it possesses), would be denied. With this doubt in mind, he says: 
 
 ### TĀ 13.110–111
 
@@ -1241,7 +1241,7 @@ anapekṣya initiation). bhaktiḥ śaktipāto ‘phalārthinām |
 \[illegible\] phalārthitayā bhaktiḥ sā karmādyam apekṣate ॥ 118 ॥
 tato ‘tra syāt phale bhedo nāpavarge tv asau tathā | 
 
-The descent of the power (of grace) and devotion to \[illegible\][^394] that those who (seek liberation, and so) do not aspire to (any worldly) fruits, (experience) occurs completely independently of their family (background), caste, body, action, age, spiritual discipline (anuṣṭhāna) or wealth. However, devotion, with the desire for (its) fruits, does depend on (the individual’s) action and other (such factors). This is why the fruits (of the 
+The descent of the power (of grace) and devotion to Śiva[^394] that those who (seek liberation, and so) do not aspire to (any worldly) fruits, (experience) occurs completely independently of their family (background), caste, body, action, age, spiritual discipline (anuṣṭhāna) or wealth. However, devotion, with the desire for (its) fruits, does depend on (the individual’s) action and other (such factors). This is why the fruits (of the 
 
 [^393]: See below, 15/1 ff. for types of initiation, their purpose and benefits.
 

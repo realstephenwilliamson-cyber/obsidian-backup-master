@@ -40,7 +40,7 @@ etadantaṁ prakurvīta tato jīvāgram ānayet || 76 ॥
 yatraiva kutracit saṁgas tatsahbandhe sthirīkṛte |
 tatra kṛtvā nayen mantrī patrāgrāṇām prasiddhaye ॥ 77 |
 ekaikasmin dale kuryāt kesarānṇār trayan trayam |
-dvigunāṣtāṁmgulari \[illegible\] tadvac chṛṅgakajatrayam || 78 ॥ 
+dvigunāṣtāṁmgulari kāryaṁ tadvac chṛṅgakajatrayam || 78 ॥ 
 
 There are sixteen threads — eight (threads) in the (eight) directions, and then again eight (more in the intermediate spaces). (Then,) in between each pair, one should lay out that number (of threads) again. Of these (threads, select one that is) in the third circle and rotate it (so as to make a curved line), equal (in measure) to (one of) the lateral threads, (and that extends to) the end of it. Then one should bring the end of the thread to 
 
@@ -83,7 +83,7 @@ wherever there is a conjunction. When the link to that has been made firm, havin
 विचित्राकारसंस्थानं वल्लीसूकषमगृहान्वितम्
 
 karṇikā pītavarṇena mūlamadhyāgrabhedataḥ |
-sitar raktaṁ tathā pītan \[illegible\] \[illegible\] kesarajālakam ॥ 79 ॥
+sitar raktaṁ tathā pītan kāryaṁ kesarajālakam ॥ 79 ॥
 dalāni śuklavarṇāni prativāraṇayā saha |
 pīthaṁ tadvac catuṣkoṇaṁh karnikārdhasamami bahiḥ ॥ 80 ॥
 sitaraktapītakṛṣṇais tatpādān vahnitaḥ kramāt |
@@ -91,14 +91,14 @@ caturbhir api
 
 śŚrùgāni tribhir mandalam iṣyate ॥ 81 ॥
 dandaḥ syān nīlaraktena pītamāmalasārakam |
-raktaṁ mūlaṁ prakurvīta yat tat \[illegible\] prakalpitam ॥ 82 ॥
+raktaṁ mūlaṁ prakurvīta yat tat pūrvaṁ prakalpitam ॥ 82 ॥
 paścād dvārasya pūrveṇa tyaktvāṁgulacatuṣtayam |
 dvāraṁ vedāśri vṛttaṁ vā saṁkīrṇaṁ vā vicitritam || 83 ॥
 ekadvitripuraṁ tulyaṁ sāmu(dra, )mathavobhayam |
 kapolakanṭthaśobhopaśobhādibahucitritam ॥ 84 ॥
 vicitrākārasaristhānaṁ vallīsūkṣmagṁānvitam | 
 
-[^292]The calix should be coloured yellow and the stamens white, red and yellow, according to whether they are at the root, middle or end (i.e. on the left, middle or right). The petals, along with the protective border (prativāranā), are white. Such also is the square pedestal \[illegible\] (on which the lotus is situated). (It extends) outwards (beyond the lotus) for a space equal to half (the width) of the calix.[^293] (It is supported) by its (four) legs, that are of four (different) colours, namely, (moving clockwise) beginning with the one in the southeast, white, red, yellow and black.[^294] The prongs are (coloured with the same) three (colours, omitting red). This is how the mandala should be. The shaft (of the trident) is purple (nīlarakta). The bulb (at the base of the shaft) (āmalasāraka) is yellow and the root[^295] should be 
+[^292]The calix should be coloured yellow and the stamens white, red and yellow, according to whether they are at the root, middle or end (i.e. on the left, middle or right). The petals, along with the protective border (prativāranā), are white. Such also is the square pedestal (pīṭha) (on which the lotus is situated). (It extends) outwards (beyond the lotus) for a space equal to half (the width) of the calix.[^293] (It is supported) by its (four) legs, that are of four (different) colours, namely, (moving clockwise) beginning with the one in the southeast, white, red, yellow and black.[^294] The prongs are (coloured with the same) three (colours, omitting red). This is how the mandala should be. The shaft (of the trident) is purple (nīlarakta). The bulb (at the base of the shaft) (āmalasāraka) is yellow and the root[^295] should be 
 
 [^292]: The published MV contains a verse not found in the TĀ: tataḥ prapūjayen mantrī rajobhiḥ sitapūrakaiḥ I raktaiḥ kṛṣṇai stathā pītaiṁaritaiśca viśeṣataḥ | ‘Then the officiant (mantrin) should worship (the mandala) with powders, first white (read sitapūrvakaiḥ for sitapūrakaiḥ), red, black, yellow and, especially, green. MV 9/24-25ab Then 31/79-85ab = MV 9/25cd-31; MV 9/25cd reads —deśataḥ for -bhedataḥ in 31/79b, which is the reading of MS K of the MV.
 
@@ -148,7 +148,7 @@ srīdevyāyāmale tūktari kṣetre vedāśrite sati ॥ 85 ॥
 *[p. 104]* ^pg122
 
 ardhaṁ dvādaśadhā kṛtvā tiryag ūrdhvaṁ ca tiryajam |
-bhāgam \[illegible\] svapārśvordhvaṁ guruḥ samavatārayet || 86 ॥
+bhāgam ekaṁ svapārśvordhvaṁ guruḥ samavatārayet || 86 ॥
 madhyasthaṁ tarn tribhāgari ca tadante bhramayed ubhau |
 bhāgam ekar parityajya tanmadhye bhramayet punaḥ || 87 ||
 tṛtīyārśordhvato bhramyam ūürdhvāṁśami yāvad antataḥ | 
@@ -194,7 +194,7 @@ He causes the āmalaksāraka to be drawn just here.
 षोडशांशे लिखेत्यद द्रादशांगुललोपनात् ।
 
 bhāgaṁ bhāgaṁ gṁītvā tu ubhayor atha gocarāt |
-bhramyaṁ pippalavat \[illegible\] vartanaiṣā tv adho bhavet ॥ 91 ॥
+bhramyaṁ pippalavat patraṁ vartanaiṣā tv adho bhavet ॥ 91 ॥
 sodaśāṁśe likhet padma dvādaśāṁigulalopanāt | 
 
 Having taken from the field (gocara) one part from both, (the thread) should be rotated (to form the shape of a) leaf like that of a banyan (ficus indica). This is the drawing of the bottom (part of the staff). 
@@ -229,7 +229,7 @@ the wall (kaṭi),[^302] to the right and the left. (92cd-93)
 
 #### Viveka on 31.92–93
 
-‘Above that’ (means) above the staff (of the trident). \[illegible\] the middle part’ in relation to the mandala. One should draw a lotus only here, but also above the prongs. Thus he says ‘at the end of the middle prong’ etc. He establishes the meaning of the word ‘third’ by (saying) ‘at the end of the middle prong’ etc. ‘In the same way’ means by removing (lopa) twelve finger-breadths. 
+‘Above that’ (means) above the staff (of the trident). ‘[I]n the middle part’ in relation to the mandala. One should draw a lotus only here, but also above the prongs. Thus he says ‘at the end of the middle prong’ etc. He establishes the meaning of the word ‘third’ by (saying) ‘at the end of the middle prong’ etc. ‘In the same way’ means by removing (lopa) twelve finger-breadths. 
 
 ### TĀ 31.93–96
 
@@ -253,8 +253,8 @@ the wall (kaṭi),[^302] to the right and the left. (92cd-93)
 karṇikā pītalā raktapītaśuklaṁ ca kesaram |
 dalāni padmabāhyasthā śuklā ca prativāranī ॥ 94 ॥ sülar kṛṣṇena rajasā brahmarekhā sitā punaḥ |
 sūlāgraṁ jvālayā yuktaṁ śūladandas tu pītalaḥ ॥ 95 ॥
-sūlamadhye ca yat padmaṁ \[illegible\] pūjayet sadā |
-asyordhve tu \[illegible\] dakṣe ‘nyārṁi vāme cāparār budhaḥ ॥ 96 ॥ 
+sūlamadhye ca yat padmaṁ tatreśaṁ pūjayet sadā |
+asyordhve tu parāṁ dakṣe ‘nyārṁi vāme cāparār budhaḥ ॥ 96 ॥ 
 
 The calix (of each lotus) is yellow, the stamens are red, yellow and white. The petals (are white) and the protective border (prativāranī) (around) outside the lotus is (also) white. The trident (is coloured) with black powder, whereas the line of Brahmā is white. The tip of the trident has a flame, and the staff (of the Trident) is yellow. A wise man should always worship 59 there (on) the lotus in the middle of the trident, Parā above him, the other (goddess i.e. Parāparā) on the right and Aparā on the left. (93cd-96) 
 
@@ -291,7 +291,7 @@ As is said there itself (in the Devyāyāmala):
 
 *[p. 108]* ^pg126
 
-‘The goddess Parā is in the middle of that (Trika Trident). Parāparā is on the right (prong) and Aparā is on the left prong. Listen to what is above the middle prong. She who is the goddess \[illegible\] Parātītā (Beyond the Supreme), is located (there).’[^308] 
+‘The goddess Parā is in the middle of that (Trika Trident). Parāparā is on the right (prong) and Aparā is on the left prong. Listen to what is above the middle prong. She who is the goddess Saṁkarṣiṇī, Parātītā (Beyond the Supreme), is located (there).’[^308] 
 
 (She) ‘devours’ (the Trident Mandala) means that she makes it one with herself. Thus, the intended sense is that all of this is one with Her (tanmaya). 
 
@@ -374,8 +374,8 @@ He says that:
 दैध्यातच्छरयतो वेदागुला दध्यादशांगुला ॥ १०४ ॥
 शुलमूगतं पीठद्रयं खाव्धिसमांगुलम् |
 
-vāmāmṛtādibhir mukhyaiḥ pavitraiḥ sumanoramaiḥ \\ bhūmiṁ rajāṁsi \[illegible\] khaṭikām mūlato ‘rcayet ॥ 101 ॥
-caturaśre caturhaste madhye \[illegible\] karatrayam |
+vāmāmṛtādibhir mukhyaiḥ pavitraiḥ sumanoramaiḥ \\ bhūmiṁ rajāṁsi karaṇīṁ khaṭikām mūlato ‘rcayet ॥ 101 ॥
+caturaśre caturhaste madhye śūlaṁ karatrayam |
 dando dvihasta ūrdhvādhaḥ pīthayug vipulas tv asau ॥ 102 ॥
 vasvarigulaḥ prakartavyaḥ sūtratrayasamanvitaḥ |
 dvādaśāṁgulamānena dandamūle tu pīthikā ॥ 103 ॥ 
@@ -399,7 +399,7 @@ sūlamūlagatami pīṭhadvayaṁi khābdhisamārigulam |
 
 ### TĀ 31.102–105
 
-The trident, which measures three handspans, is in the middle of a square (enclosure measuring) four handspans (on each side). The staff (measures) two handspans and it has two pedestals \[illegible\] one above and one below. It should be made (the number of) finger-breadths thick as are the (eight) Vasus, and have three threads (attached to it). The pedestal at the base of the staff measures twelve finger-breadths in width[^315] and four in height, that which is at the top is ten (finger-breadths) long and is, as before, four (finger-breadths) wide. (The space for) the two pedestals[^316] up to the base of the staff is (thus) equal to the ocean of the sky (i.e. forty finger-breadths).’[^317] (102-105ab) 
+The trident, which measures three handspans, is in the middle of a square (enclosure measuring) four handspans (on each side). The staff (measures) two handspans and it has two pedestals (pīṭha), one above and one below. It should be made (the number of) finger-breadths thick as are the (eight) Vasus, and have three threads (attached to it). The pedestal at the base of the staff measures twelve finger-breadths in width[^315] and four in height, that which is at the top is ten (finger-breadths) long and is, as before, four (finger-breadths) wide. (The space for) the two pedestals[^316] up to the base of the staff is (thus) equal to the ocean of the sky (i.e. forty finger-breadths).’[^317] (102-105ab) 
 
 #### Viveka on 31.102–105
 
@@ -452,7 +452,7 @@ dvādaśāṁguladīrghā tu ubhayoḥ pārśvayostathā ॥ 107 ॥
 caturagulam ucchrayān mūle vedīṁ prakalpayet |
 ubhayoḥ pārśvayoś caivam ardhacandrākṛtir tathā ॥ 108 ॥ 
 
-‘That (group of three squares) consists of the tip of the trident, the middle of the trident, and the base of the trident. In the middle of it, one should fashion an enclosure \[illegible\][^318] both sides of which (extend for) six finger-breadths, and is twelve finger-breadths long on both sides (that is, above and below, respectively). In the base (of the trident), onè should fashion (another) enclosure, the shape of a half-moon, four finger-breadths high, and the same on both sides. (106cd-108) 
+‘That (group of three squares) consists of the tip of the trident, the middle of the trident, and the base of the trident. In the middle of it, one should fashion an enclosure (vedī),[^318] both sides of which (extend for) six finger-breadths, and is twelve finger-breadths long on both sides (that is, above and below, respectively). In the base (of the trident), onè should fashion (another) enclosure, the shape of a half-moon, four finger-breadths high, and the same on both sides. (106cd-108) 
 
 #### Viveka on 31.106–108
 
@@ -485,7 +485,7 @@ ucchrayāt tu tataḥ kāryā gandikā tu svarūpataḥ \\\\ 111 Il pṛīthordh
 sūlāgramamṁigulari kāryaṁ sutīkṣṇaṁ tu ṣadaṁigulam ॥ 112 ||
 arāmadhyarni prakartavyam arādhas tu ṣadamhṁgulam | 
 
-One should (then) rotate the thread with chalk (khaṭikāsūtra) in a circle and, O Goddess, make a wall \[illegible\] two finger-breadths thick (vaipulyāt) and measuring four finger-breadths in length. As is (this one) on the right, fashion one that is the same on the left. In the middle, the thickness of the prong is that of its tip,[^319] and below it is one finger-breadth (thick). Above (in the upper part) (ūrdhvataḥ) (one should draw another enclosure) measuring four finger-breadths in thickness and six in height. Then, O Lady of Good Vows, one must fashion the ‘pillow’ (gandikā). (109-111) 
+One should (then) rotate the thread with chalk (khaṭikāsūtra) in a circle and, O Goddess, make a wall (kaṭi) two finger-breadths thick (vaipulyāt) and measuring four finger-breadths in length. As is (this one) on the right, fashion one that is the same on the left. In the middle, the thickness of the prong is that of its tip,[^319] and below it is one finger-breadth (thick). Above (in the upper part) (ūrdhvataḥ) (one should draw another enclosure) measuring four finger-breadths in thickness and six in height. Then, O Lady of Good Vows, one must fashion the ‘pillow’ (gandikā). (109-111) 
 
 ### TĀ 31.112–113
 
@@ -542,7 +542,7 @@ vidyābhikhyaṁ śūlamūle rajah paścāt prapātayet ॥ 116 ॥
 triśūlaṁr daṇdaparyantar rājavartena pūrayet |
 sūtratrayasya pṛṣthe tu śuklaṁ cārātrayaṁ bhavet ॥ 117 ॥
 suklena rajasā śūlamūle vidyāmbujarni bhavet |
-raktaṁ raktāsitar \[illegible\] kramād ūrdhvāmbujatrayam || 118 ||
+raktaṁ raktāsitar śuklaṁ kramād ūrdhvāmbujatrayam || 118 ||
 suklena vyomarekhā syāt sā sthaulyād arṁṁgularni bahiḥ |
 tām tyaktvā vedikā kāryā hastamātraṁ pramāṇataḥ || 119 ॥
 vaipulyatriguṇaṁ dairdhyāt prākāraṁ caturaśrakam |
@@ -646,7 +646,7 @@ He explains the method (yukti) (used) in the rise (of Kunqalinī) from the Found
 
 utkṣipyotkṣipya kalayā dehamadhyasvarūpataḥ | 126 ॥
 sūladaṇndāntamadhyasthaśūlamadhyāntagocaram |
-praviśen \[illegible\] \[illegible\] prāntānte śaktiveśmani || 127 ॥ 
+praviśen mūlamadhyāntaṁ prāntānte śaktiveśmani || 127 ॥ 
 
 [^331]: Read rasaṁniveśasya for rāsaṁiniveśasya.
 
@@ -674,7 +674,7 @@ So how is that? With this doubt in mind, he says:
 
 aspandakaraṇar kṛtvā ekadā spandavartanam |
 mūlamānandam āpīḍya śaktitrayapadaṁ viśet || 128 ॥
-tatra \[illegible\] \[illegible\] prayatnena jāyante sarvasiddhayaḥ |
+tatra pūjyaṁ prayatnena jāyante sarvasiddhayaḥ |
 samastādhvasamāyogāt ṣodhādhvavyāptibhāvataḥ || 129 I|
 samastamantracakrādyair evamādi prayatnataḥ |
 ṣattrihśattattvaracitaṁ triśūlaṁ paribhāvayet || 130 ॥
@@ -779,7 +779,7 @@ He divides that up:
 वसुसंख्यैद्रीरवीथावेवं भागपरिक्रमः ॥ ९३५॥
 
 vaṁśair viṣayasaṁkhyaiś ca padma yugmendumandalam || 134 ||
-rasasarikhyair bhavet \[illegible\] svastikan sarvakāmadam |
+rasasarikhyair bhavet pīṭhaṁ svastikan sarvakāmadam |
 vasusaṁkhyair dvāravīthāv eva bhāgaparikramaḥ || 135 ॥ 
 
 The lotus (is drawn with squares) numbering the (five) objects of sense (viṣaya), and consists of two mandalas of the moon. The pedestal (is fashioned) with (squares) numbering the sentiments (i.e. six). (There) the svastika (is located,) that bestows all (one’s) desires. The door, and (so too) 
@@ -856,7 +856,7 @@ Now, in order to direct the drawing of the platform (11), he says:
 
 nādayo brahmavaṁśasya lopyā netrād rasasthitāḥ ॥ 138 ॥
 vahner netrānalau lopyau vedān netrayugaṁ rasāt |
-netraṁ saumyagataṁ \[illegible\] pūrvād vedānalau rasāt || 139 || 
+netraṁ saumyagataṁ lopyaṁ pūrvād vedānalau rasāt || 139 || 
 
 ‘Six squares (nādī) should be deleted, (beginning) from the second (square on the right side of) the square of Brahmā, from the third, five, from the fourth, four, and beginning from the sixth, two. (The same should be done also) on the left, where (the equivalent squares should similarly) be deleted beginning from the second, the third, the fourth and the sixth (squares).’ (138cd-139) 
 
@@ -999,7 +999,7 @@ vahnīṣurṣimadhyāc ca lopyaṁ pīṭhendukāvadhi ॥ 144 ॥
 
 The meaning is that (the area starting) ‘from the middle’, that is, (beginning from) the location of the calix, qualified by three, five and seven parts, should be erased, up to circle of the moon that is in contact with the pedestal. The overall sense is as follows. One should draw a curve beginning from the thread that falls within the second square in the third circle, up to the square of the Brahmā (in the centre), and so produce sixteen half petals, and in the same way the tips of the petals, however, (taking care to do so) by (progressively) transposing (the same procedure), in the manner taught previously. 
 
-Having taught in this way (the manner of) drawing the lotus, he (now) says (how the) pedestal \[illegible\] also (is to be drawn). 
+Having taught in this way (the manner of) drawing the lotus, he (now) says (how the) pedestal (pīṭha) also (is to be drawn). 
 
 ### TĀ 31.145
 
@@ -1080,7 +1080,7 @@ The sanctuary of the God of the gods, that bestows the fruit every desire, is re
 
 #### Viveka on 31.147–154
 
-‘The svastikas’ are on the pedestal \[illegible\] and the platform (vīthī). Apart from the svastika, (the platform is) ‘(red) like coral’. (The sanctuary is red with flames) ‘on the outside’, that is, (outside its) door also. 
+‘The svastikas’ are on the pedestal (pīṭha) and the platform (vīthī). Apart from the svastika, (the platform is) ‘(red) like coral’. (The sanctuary is red with flames) ‘on the outside’, that is, (outside its) door also. 
 
 Having taught in this way (how to draw) the svastika of Vyomeśa (the Lord of the Void) by the way, according to the teachings of the venerable Triśirobhairava, he teaches (how to draw) the trident and lotus (mandala) taught in the venerable Siddhātantra also. 
 
@@ -1104,9 +1104,9 @@ He (now) states that procedure.
 हस्तमात्रं त्रिधा सूयी्रवखण्ं यथा भवेत् ॥ १५५ ॥
 मध्ये शलं च ततरत्थं
 
-\[illegible\] prāk \[illegible\] caturaśrite |
+\[illegible\] prāk kṣetre caturaśrite |
 hastamātraṁ tridhā sūryān navakhandaṁ yathā bhavet | 155 ॥
-madhye \[illegible\] ca tatretthan 
+madhye śūlaṁ ca tatretthan 
 
 First (one must draw) within a square field (another one which is smaller) by twelve (finger-breadths on each side). It is three times one handspan (on each side) and (fashioned) so that it is divided into nine parts (for each handspan), and the trident is (drawn) there in this way in the middle (of it). (155bcd-160a) 
 
@@ -1211,7 +1211,7 @@ Having taught (the manner of drawing its) length in this way, he talks about its
 अधोभागादिभिशोध्ं ततर र्वा प्रपद्यते ॥ १६२ ॥
 समीकृत्य ततः सूत्रे उध्वे द्र एवमेव तु ।
 madhye cordhvaṁ tataḥ kuryād adhastād ańiguladvayam | 161 ॥
-rekhādvayari pātayeta yathā \[illegible\] bhavaty api | 
+rekhādvayari pātayeta yathā śūlaṁ bhavaty api | 
 
 adhobhāgādibhiś cordhvaṁ tatra rekhā prapadyate ॥ 162 ॥
 samīkṛtya tataḥ sūtre ūrdhve dve evam eva tu | 

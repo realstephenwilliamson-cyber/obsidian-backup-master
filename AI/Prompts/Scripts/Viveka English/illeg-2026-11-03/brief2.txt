@@ -1,0 +1,35 @@
+READING BOXED WORDS ON PRINTED PAGES (Dyczkowski's translation of the Tantraloka, 3 Nov 2026). Reading only: write nothing but your
+own output files.
+
+The images are pages of Mark Dyczkowski's English translation of Abhinavagupta's Tantrāloka with Jayaratha's commentary. You are
+checking what the print actually shows. Report the print exactly, even where the print itself looks wrong. Never fill in what a word
+"should" be.
+
+FILES (all under /home/claude/ill/)
+- sheets3/<sheet>.png: each sheet stacks up to 10 strips. Each strip shows a few printed lines under a grey bar with its
+  ID. There is NO box: the words you want stand between the BEFORE and the AFTER text of your task file.
+- Your task file lists, sheet by sheet, each ID with the text just BEFORE and just AFTER the boxed text, from a transcription that
+  may contain errors. Find those words on the strip; the text between them is deliberately not given.
+
+FOR EACH ID
+1. Find the "before" words and the "after" words on the strip (the strip may show other lines too) and transcribe everything between the end of the "before"
+   text and the start of the "after" text.
+2. Transcribe it exactly as printed, letter by letter, with every diacritic: ā ī ū ṛ ṝ ḷ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ, capitals Ś Ā Ī Ū Ṛ Ṭ Ḍ, and
+   the anusvāra as ṁ (this book prints m with a dot above). Look closely at the first and the last letter of each word.
+3. Include punctuation, quotation marks, brackets and verse bars printed against the word, exactly as printed: ( ) [ ] ‘ ’ “ ” , . ; :
+   | || (write the bars with the ordinary vertical bar).
+4. A small raised footnote number printed against the word is not part of it: write it as ^N after the word (e.g. them),^22).
+5. If you cannot read a letter with confidence, write ? for it and set conf to "low". A dot or macron you cannot actually see is
+   not there: mark it ? and low.
+6. If you cannot find both the before and the after words on the strip, write printed "" with conf "low" and say so in note. If the text runs over a line end with a hyphen, say so.
+
+To look closer you may enlarge part of a sheet, e.g.
+python3 -c "from PIL import Image; im=Image.open('/home/claude/ill/sheets3/T001.png'); im.crop((0,0,im.width,200)).resize((im.width*2,400)).save('/home/claude/ill/zoom/<you>-s001.png')"
+(make the zoom folder first; put your role and group in the file name). Then Read the zoomed file. Use this where a letter is in
+doubt; it is cheap.
+
+OUTPUT
+After each sheet, and before the next, write the file named in your task list (read2/<role>/<sheet>.jsonl), one JSON object per ID:
+{"id": "H0003", "printed": "śaktiṁ", "conf": "high", "note": ""}
+Open every sheet image before writing its answers. Never write the divine name (the four-letter name of God) in any form.
+Read only this brief, your task file, the sheets and your own zoomed crops. Keep your final reply short: IDs done, how many low.

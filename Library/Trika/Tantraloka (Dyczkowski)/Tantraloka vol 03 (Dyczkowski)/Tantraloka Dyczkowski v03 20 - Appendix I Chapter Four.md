@@ -55,7 +55,7 @@ to them requires that they first give up these things, it does not develop even 
 
 prathaikarūpābhāvāc (> -rūpabhāvāc) ca niṁviyante (> nirvahyate) tataḥ katham |
 prathāyā bhāvaparyantaṁi rīūpaṁ tad bhidyate katham ॥ 9 ॥ bhedaś ced kalpyate tarhi kalpaneyaṁ na satyabhūḥ |
-sphuraṇād eva vai \[illegible\] gālanari nāpi tāttvikam || 10 || tac ca kalpair asaṁkhyeyair bahuduṣkaracaryayā |
+sphuraṇād eva vai teṣāṁ gālanari nāpi tāttvikam || 10 || tac ca kalpair asaṁkhyeyair bahuduṣkaracaryayā |
 na cāsti sphuraṇābhāvo (sphura \*-) hy anyasyānupalambhataḥ ॥ 11 ॥
 abhāvamātraṁ nāsty eva syāc cet tad bhāti sarvadā |
 tasmāt tattvam atattvaṁ vā na bhāvena vinā bhavet ॥ 12 ॥
@@ -130,7 +130,7 @@ The repose which is free of the planes of process (krama) and its absence (akram
 
 no ced bhāvāntare saṁvit prasaret katham anyathā |
 tadrūpamātrāvaṣṭambhāt paricchinnātmarīūpataḥ ॥ 25 ॥
-\[illegible\] tāvat \[illegible\] bhānaṁ bhānam ca kila (tila) carvane |
+nīle tāvat \[illegible\] bhānaṁ bhānam ca kila (tila) carvane |
 akramena sthitaṁ no cen nīlasaṁvin na sidhyati ॥ 26 ॥
 ādau nīlaṁ tato bhānam tataś ca yadi carvaṇam |
 anyonyaparihāreṇa nīlasarivin na tad bhavet || 27 ॥ 
@@ -150,7 +150,7 @@ yathānubhavam etasya bhede ‘nākhyaṁ sphutari sthitam || 30 ॥
 
 (That) is said to be a temporal process and succession, due to the mutual exclusion (of the phases through which it passes). (However,) in this way, there would not be any perception (pratīti) at all, for it would be divided into the manifestation of (many) varied parts. (28) 
 
-The daily life of those who know that (one consciousness), devoid of parts, is established \[illegible\] when all the ascertainment (anubhava) brought 
+The daily life of those who know that (one consciousness), devoid of parts, is established (pratiṣṭhitā) when all the ascertainment (anubhava) brought 
 
 *[p. 528]* ^pg541
 
@@ -294,7 +294,7 @@ tathā pūjanasaṁkrāmair upāyair upalakṣitā ॥ 59 ॥
 āsām dvādaśadevīnār svarūpavilayāvaniḥ |
 trayodaśīti yā devī kathyate hy upacārataḥ ॥ 60 ॥
 upādeyatayā saiva paropāsyatayā sthitā |
-trayodaśsīnāṁ \[illegible\] svaucityārthānusārataḥ |
+trayodaśsīnāṁ devīnāṁ svaucityārthānusārataḥ |
 abhidhānāni (-nni) vartante hṛdayaṁgamayuktitaḥ ॥ 61 ॥
 etāsām abhidhānena yā mantrākṣaramālikāḥ |
 kālikākramadṛṣṭatvād upacārenṇa tāḥ sthitāḥ ॥ 62 ॥ 
@@ -345,21 +345,21 @@ Nine syllable Vidyā khphreṁ mahācandayogeśvari Seventeen syllable Vidyā (1
 
 hrīṁ mahācandayogeśvari thr dhr thr phat phat phaṭ phat phat Seventeen syllable Vidyā (2) 
 
-khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli \[illegible\] phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe hrīṁ phaṭ | khphreṁ phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
+khphreṁ phāṁ phīṁ mahācandayogeśvari kālakāli hūṁ phaṭ 100 syllable Samayavidyā khphreṁ phat | mahācande caṇdamukhi candayogeśvari phat | candaduhkhavimocani sarvasamayalopavighātani tejovati (tejomayi) amṛtamūrte asiddha-sādhani siddhirddhiprade nāśaya sarvadoṣān abhimataṁ me prayaccha sarve sarvage arūpe sarvarūpe hrīṁ phaṭ | khphreṁ phat | \[illegible\] kron \[illegible\] sarva-vidyeśvari phat svāhā | 
 
 The Thirteen Kālīs 
 
-khphrehāriphām phīrnmahāsṛsṣṭikāli kālagrasanakāliambāpāda namaḥ\\\\ 1 || N khphreṁ \[illegible\] phām phīṁ mahāsthitikāli kālagrasanakāli ambāpāda namaḥ ॥ 2 ॥
+khphrehāriphām phīrnmahāsṛsṣṭikāli kālagrasanakāliambāpāda namaḥ\\\\ 1 || N khphreṁ āṁ phām phīṁ mahāsthitikāli kālagrasanakāli ambāpāda namaḥ ॥ 2 ॥
 NW khphreṁ āin phām phīṁn mahāsaṁhārakāli kālagrasanakāli ambāpāda namaḥ ॥ 3 ॥ NW khphrer āṁ phāṁ phīn mahāraktakāli kālagrasanakāli ambāpāda namaḥ |l | 
 
-WwW khphreṁ \[illegible\] phām phīṁn mahāsukāli kālagrasanakāli ambāpāda namaḥ ॥ 5 ॥
+WwW khphreṁ āṁ phām phīṁn mahāsukāli kālagrasanakāli ambāpāda namaḥ ॥ 5 ॥
 Sw 
 
 *[p. 534]* ^pg547
 
-khphren ām \[illegible\] 70771 mahāyamakāli kālagrasanakāli ambāpāda namaḥ ॥
-6॥ SW khphreń ām phāṁṁphīṁṁmahāmṛtyukāli kālagrasanakāli ambāpāda namaḥ ॥ 7 | S khphreṁ ām phāmṁ 01771 mahābhadrakāli kālagrasanakāli ambāpāda namaḥ ॥ 8 ॥ SE khphrem \[illegible\] \[illegible\] 7171 mahāparamārkakāli kālagrasanakāli ambāpāda namaḥ ॥ 9 || SE khpreṁ ām 11211 0011771 māhāmārtandakāli kālagrasanakāli ambāpāda namaḥ ॥ 10॥ E khphrer āṁ phām phīṭn mahākālāgnirudrakāli kālagrasanakāli ambāpāda namaḥ ॥ 11 ॥ NE khphrem ām phām 11771 mahākālakāli kālagrasanakāli ambāpāda namaḥ ॥
-12 || Front of NE khphrer \[illegible\] phāṁi 11701 mahāghoracandabhairavikāli kāligrasanakāli ambāpāda namaḥ||| 13 || Middle 
+khphren ām phāṁ phīṁ 70771 mahāyamakāli kālagrasanakāli ambāpāda namaḥ ॥
+6॥ SW khphreń ām phāṁṁphīṁṁmahāmṛtyukāli kālagrasanakāli ambāpāda namaḥ ॥ 7 | S khphreṁ ām phāmṁ 01771 mahābhadrakāli kālagrasanakāli ambāpāda namaḥ ॥ 8 ॥ SE khphrem āṁ phāṁ phīṁ 7171 mahāparamārkakāli kālagrasanakāli ambāpāda namaḥ ॥ 9 || SE khpreṁ ām 11211 0011771 māhāmārtandakāli kālagrasanakāli ambāpāda namaḥ ॥ 10॥ E khphrer āṁ phām phīṭn mahākālāgnirudrakāli kālagrasanakāli ambāpāda namaḥ ॥ 11 ॥ NE khphrem ām phām 11771 mahākālakāli kālagrasanakāli ambāpāda namaḥ ॥
+12 || Front of NE khphrer āṁ phāṁi 11701 mahāghoracandabhairavikāli kāligrasanakāli ambāpāda namaḥ||| 13 || Middle 
 
 etā raktavarṇā dvādaśārapadmasthā nīlotpaladalaśyāmāḥ |
 caturbhujā varatriśūlapadmakādyadharāḥ | raśmirūpā gale mundamālopaśobhitāḥ\\| śuṣkāḥ saptakapālaśii pimgordhvakeśanāgabandhamaulicandrārdhabhi nūpuravīraghanṭāḥ kiikiṇījālamani 

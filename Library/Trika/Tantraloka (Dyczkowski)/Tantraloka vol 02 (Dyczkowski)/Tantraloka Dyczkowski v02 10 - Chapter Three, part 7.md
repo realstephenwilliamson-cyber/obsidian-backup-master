@@ -61,7 +61,7 @@ Surely, in this way (one may ask,) does this not again entail that the enjoyer a
 bhogyaṁ bhoktari (7141 ced bhoktā tad vastutaḥ sphuṭaḥ |
 ataḥ ṣaṇnnāṁ trikaṁ sāraṁ cidiṣyunmeṣanātmakam ॥ 192 ॥ 
 
-If the object of enjoyment merges into the enjoyer (as it must in order to be experienced, and so is not independent of him), it is in reality (nothing but) the enjoyer which, clearly evident, (alone remains). Thus, the essence of the six (vowels A, 4, I, Ī, U and \[illegible\] is the triad (frika) consisting of consciousness (A), desire (iṣi) (I) and expansion (U). (192) (191cd-192ab) 
+If the object of enjoyment merges into the enjoyer (as it must in order to be experienced, and so is not independent of him), it is in reality (nothing but) the enjoyer which, clearly evident, (alone remains). Thus, the essence of the six (vowels A, 4, I, Ī, U and Ū) is the triad (frika) consisting of consciousness (A), desire (iṣi) (I) and expansion (U). (192) (191cd-192ab) 
 
 #### Viveka on 3.191–192
 
@@ -102,7 +102,7 @@ tat trika parameśasya pūrṇā śaktiḥ pragīyate ॥ 193 ॥
 
 ‘Moreover, (the fact that) He possesses many powers amounts to (His inseparable) union with that (one) power alone.’[^612] 
 
-In accord with this and other teachings imparted previously, that very ‘Triad’ (Trika) is Being (sat), which is full (all-inclusive) and (compactly inwardly) united \[illegible\] It is the ‘Supreme Lord’s power’, characterized as (His) freedom (svātantrya), considered everywhere (in this teaching to be the most excellent), as it is that from which this unfolding (flow) of the universe of words (vācaka) and (the things they) denote (vācya) (originates). The sense is that this Triad (Trika) encompasses all things.[^613] 
+In accord with this and other teachings imparted previously, that very ‘Triad’ (Trika) is Being (sat), which is full (all-inclusive) and (compactly inwardly) united (saṁghaṭṭita). It is the ‘Supreme Lord’s power’, characterized as (His) freedom (svātantrya), considered everywhere (in this teaching to be the most excellent), as it is that from which this unfolding (flow) of the universe of words (vācaka) and (the things they) denote (vācya) (originates). The sense is that this Triad (Trika) encompasses all things.[^613] 
 
 [^611]: This is exactly the way the freedom of the Light of consciousness, which manifests as the fifty forms of phonemic reflective awareness, is described. See above, 3/1. This line is quoted in TĀv ad 33/22-24 and 3/192 (191cd-192ab) is quoted below ad 3/248cd-249.
 
@@ -127,7 +127,7 @@ As everything (viśva) is encompassed by that (triad), when this is properly wor
 
 #### Viveka on 3.193–194
 
-As all this ‘is encompassed’ by (this) Triad (Trika), he who has penetrated into (this) Triad (Trika), which is the Supreme Reality that is solely the power. of the freedom (svātantryamātra) (of Bhairava’s divine consciousness), is free of limitations (anava-cchinnasvabhāva). Thus, in accord with the dictum that ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (which is the entrance to the realization of one’s own Śiva \[illegible\][^614] he effortlessly penetrates by means (of this Triad) into the powerholder also, who is full (and all-inclusive). This is the meaning (of this) statement. 
+As all this ‘is encompassed’ by (this) Triad (Trika), he who has penetrated into (this) Triad (Trika), which is the Supreme Reality that is solely the power. of the freedom (svātantryamātra) (of Bhairava’s divine consciousness), is free of limitations (anava-cchinnasvabhāva). Thus, in accord with the dictum that ‘Śiva’s power (śaivī) is said here (in the scriptures) to be (His) mouth (which is the entrance to the realization of one’s own Śiva nature),’[^614] he effortlessly penetrates by means (of this Triad) into the powerholder also, who is full (and all-inclusive). This is the meaning (of this) statement. 
 
 Moreover, all this which is encompassed (within Trika) is essentially its unfolding expansion (sphārasāra) and is not subject to limitation. Accordingly, he says: 
 
@@ -182,7 +182,7 @@ In this way, the Great Lord, Whose power is full because of (these) fifty (forms
 
 #### Viveka on 3.196–197
 
-The ‘fifty (forms of) reflective awareness’ are (the letters) beginning with A and ending with \[illegible\] (He is) ‘one’, because there is no difference (bheda) between power and the powerholder. Surely (one may ask,) it was said before that (His) powers are unlimited, so how does that square with (saying) that they are (just) fifty, which is a fixed limit (on their number)? With this doubt in mind, he has said that ‘(all) other powers are included here (within them)’. The ‘other’ (powers) arise by the union and separation of these (fifty letters that constitute all words, such as,) for example, ‘ghaṭaḥ’ (jar) and ‘patak’ (cloth). (They are all) ‘included here (within them)’ because no (other) separate (atirikta) (form of) reflective awareness is logically possible apart from (these) fifty. 
+The ‘fifty (forms of) reflective awareness’ are (the letters) beginning with A and ending with KṢ. (He is) ‘one’, because there is no difference (bheda) between power and the powerholder. Surely (one may ask,) it was said before that (His) powers are unlimited, so how does that square with (saying) that they are (just) fifty, which is a fixed limit (on their number)? With this doubt in mind, he has said that ‘(all) other powers are included here (within them)’. The ‘other’ (powers) arise by the union and separation of these (fifty letters that constitute all words, such as,) for example, ‘ghaṭaḥ’ (jar) and ‘patak’ (cloth). (They are all) ‘included here (within them)’ because no (other) separate (atirikta) (form of) reflective awareness is logically possible apart from (these) fifty. 
 
 [^615]: Thus, according to Jayaratha, we should translate: ‘therefore, because God Who is the Absolute is united with the power of emission, (He is endowed) with freedom, and (His) state is absolute and so has a cosmic form.’
 
@@ -265,11 +265,11 @@ temporal process of) ‘enumeration’ (saṁkalanā)[^627] ‘within (‘P cons
 
 ‘(His) power, that is, Mātṛkā, is (the state which arises) by the association’ (yogāt) with the object of awareness. (Within) that same Mātṛkā, ‘by coupling with the Assembly of Sounds’, that is, by the oneness of power and the powerholder, brought about by their mutual (progressive) mixing, like salt and sour gruel (āranāla), the matrices (yoni), that is, consonants, are (interspersed and) conjoined (bhinna) with seed (vowels). As Her nature is such, (She is called Mālinī for three reasons). 1) (The letter) ‘M’ (of the name Mālinī) represents (the objective universe of) denoted meaning, (vācya) which is the counter-correlate (pratiyogya) (of the perceiver, who is the denotator — vācaka). Ālanī is (the energy that) contemplates it (vimarśsikā).[^628] 2)(Mālinī in the sense of) malate (‘she holds’), sustains (dhatte) the universe within (Her) own nature.[^629] 3) (In the sense of) mālayati (‘she possesses’), (She) internalizes everything, and so is called Mālinī.[^630] 
 
-(Mālinī is the alphabet) that begins with (the letter) N and ends with PH. It is a state of (Mātṛkā) which is such because its seed (vowels) and matrix (consonants) are unstable (visaṁasthulatvāt), as the consonants are mixed (with the vowels).[^631] (Then by the application of the nine-fold state of reflective awareness, she assumes) ‘as’ said ‘before’, the form (of the nine classes of letters, divided into groups of) sixteen (vowels), five groups of five (consonants), two groups of four (consisting of the four semivowels and three sibilants and H), and one (the letter \[illegible\] That is said (in the Mālinīvijayottara): 
+(Mālinī is the alphabet) that begins with (the letter) N and ends with PH. It is a state of (Mātṛkā) which is such because its seed (vowels) and matrix (consonants) are unstable (visaṁasthulatvāt), as the consonants are mixed (with the vowels).[^631] (Then by the application of the nine-fold state of reflective awareness, she assumes) ‘as’ said ‘before’, the form (of the nine classes of letters, divided into groups of) sixteen (vowels), five groups of five (consonants), two groups of four (consisting of the four semivowels and three sibilants and H), and one (the letter KṢ). That is said (in the Mālinīvijayottara): 
 
 [^627]: The term samkalanā literally means ‘enumeration’. The fifty forms of reflective awareness that constitute Bhairava’s inner nature emerge progressively, as it were, within the one pure reflective awareness of His own ‘I’ consciousness, which is at once the act of reflective awareness, the agent of that act, and the reflective awareness itself. Together this timeless activity forms and is this same ‘I’ consciousness. This is how Abhinavagupta explains the nature of Bhairava as the Assembly of Sounds.
 
-[^628]: simply means ‘she who (wears) a garland’ (mālā). It happens to be the name of women who belong to the māli caste, the members of which earn a living growing flowers and making garlands. In Orissa and other parts of India, mālinīs are particularly sought after as midwives. The coincidence of their names is indeed interesting; however, the early Tantric texts do not, as far as I know, take note of it. We notice many such remarkable coincidences. Indeed, the texts do sometimes make the connections, but not in this case. In the common format of a didactic etymology, Jayaratha (probably drawing from some textual source,) presents three meanings of the name ‘Mālinī’. According to the first etymology Mālinī is the energy of reflective awareness \[illegible\] that contemplates (vimarśikā) the objective universe (ma), which is denoted (vācya) by the combination of energies of the letters that form the words that denote it (vācaka).
+[^628]: simply means ‘she who (wears) a garland’ (mālā). It happens to be the name of women who belong to the māli caste, the members of which earn a living growing flowers and making garlands. In Orissa and other parts of India, mālinīs are particularly sought after as midwives. The coincidence of their names is indeed interesting; however, the early Tantric texts do not, as far as I know, take note of it. We notice many such remarkable coincidences. Indeed, the texts do sometimes make the connections, but not in this case. In the common format of a didactic etymology, Jayaratha (probably drawing from some textual source,) presents three meanings of the name ‘Mālinī’. According to the first etymology Mālinī is the energy of reflective awareness (‘ālinī’) that contemplates (vimarśikā) the objective universe (ma), which is denoted (vācya) by the combination of energies of the letters that form the words that denote it (vācaka).
 
 [^629]: Cf, TĀv ad 3/232 below.
 
@@ -307,9 +307,9 @@ sivo mātā pitṛtvena kartā viśvatra sarhisthitaḥ |
 
 ‘The letter A (that represents Śiva, the transcendental absolute) and the letter H (that represents Śakti, His emanation) - these two abide (together) as one. 
 
-Like the sky and wind, there is no division between \[illegible\][^633] 
+Like the sky and wind, there is no division between them.’[^633] 
 
-In accord with this dictum, (Śiva) is the (pure) reflective awareness (of AHAM, \[illegible\] consisting of the letters A and H, whose nature is the supreme vitality (vīrya) of Mantra. This so because He alone, whose sole nature is the supreme perceiver, is the ‘agent present here everywhere’ within the fifty letters ‘as both the Mother and Father’. The meaning is that He shines radiantly (prasphurita) as the Absolute and (its power of) emission. 
+In accord with this dictum, (Śiva) is the (pure) reflective awareness (of AHAM, ‘I’), consisting of the letters A and H, whose nature is the supreme vitality (vīrya) of Mantra. This so because He alone, whose sole nature is the supreme perceiver, is the ‘agent present here everywhere’ within the fifty letters ‘as both the Mother and Father’. The meaning is that He shines radiantly (prasphurita) as the Absolute and (its power of) emission. 
 
 [^632]: MV 3/1 1bcd.
 
@@ -373,7 +373,7 @@ The characterizing feature of the reflective awareness of the Lord within His ow
 
 (between itself and objectivity).[^637] 
 
-Surely (one may ask,) agreed that the reflective awareness of ‘T’ within the body etc. is associated with relative distinctions, because it has a counter-correlate (that is, the body etc. itself, which is not \[illegible\] but surely there is no such counter-correlate[^638] in the case of the Light which is the supreme perceiver, because it would then be conditioned by the notion that there is (some reality) which is separate or otherwise from it. Accordingly, he says: 
+Surely (one may ask,) agreed that the reflective awareness of ‘T’ within the body etc. is associated with relative distinctions, because it has a counter-correlate (that is, the body etc. itself, which is not ‘I’), but surely there is no such counter-correlate[^638] in the case of the Light which is the supreme perceiver, because it would then be conditioned by the notion that there is (some reality) which is separate or otherwise from it. Accordingly, he says: 
 
 [^637]: This and the following verse form a pair. This one refers to Śiva’s reflective awareness of His own nature as the essence of all things at one with Him. The other, the reflective awareness He has of Himself directly as the Absolute, at one with that same reflective awareness, which is understood here to be His power inherent within Himself to emit all things. The power of emission is not emission itself. Whereas the first case is the pure reflective awareness of the absolute, the second takes note, as it were, of what could be other than that, namely, finitude, but only to immediately set it aside. Of course, both are the same. This distinction is made here simply as an aid to understanding what cannot really be grasped by our finite, necessarily dualistic intellect.
 
@@ -467,7 +467,7 @@ tena śrītrīśikāśāstre śakteḥ samputṭitākṛtiḥ ॥ 206 ॥
 
 #### Viveka on 3.206
 
-The venerable Parātrīśikā[^649] is so called because it is the governing power \[illegible\] of the three (tri) scriptures that expound (the three forms of) power as Parā 
+The venerable Parātrīśikā[^649] is so called because it is the governing power (īśā) of the three (tri) scriptures that expound (the three forms of) power as Parā 
 
 (Parāparā 
 
@@ -778,7 +778,7 @@ This
 
 matter (artha) 
 
-has been taught in the venerable Siddhayogīśvarīmata, (where we read that) here the seed (of all things) is \[illegible\] (She is) life and her nature is consciousness. The Triad (Trika) called the Stable One (A), Will (T) and Expansion (U) is born from that, and then (from this triad all the other) letters.[^680] (220-221ab) 
+has been taught in the venerable Siddhayogīśvarīmata, (where we read that) here the seed (of all things) is Kuṇḍalinī. (She is) life and her nature is consciousness. The Triad (Trika) called the Stable One (A), Will (T) and Expansion (U) is born from that, and then (from this triad all the other) letters.[^680] (220-221ab) 
 
 #### Viveka on 3.220–221
 
@@ -802,7 +802,7 @@ He (now goes on to) analyse this (process).[^685]
 
 [^681]: These are the first lines of a passage Jayaratha quotes from the SYM, which continues in the series of quotations in the commentary to this and the following verses up to 225, that are most probably drawn from the SYM (see previous note). Although they cannot be traced in the short Nepalese recension of the SYM, the idea that by recognising the Mantra nature of all utterances one can master speech is consistent with the teaching in the short version of the SYM, edited by Törzsök (1999: 218).
 
-[^682]: The word ‘mātra’ in common usage is a neuter noun meaning a ‘measure’. The feminine mātrā is an adjectival form agreeing with ‘Kundalint > In fact, we do find this term in the Tantras to denote Kundalinī as the measure of Mantric energy. If we accept this reading, the sentence would say: ‘She who is the measure/energy Kundalini is said to be the womb (yoni) of the universe.” The Vedic syllable OM, which serves as the model or Tantric seed-syllable Mantras such as HRĪM, ŚRĪM etc., is analysed in the Upaniṣads as consisting of three or three and a half measures. The first three (A U M) are audible, and correspond to waking, dreaming and deep sleep. This means that in the course of its audible utterance, the one who recites it traverses these three states. The ‘half measure’ is the silent upward-moving resonance of consciousness in the fourth state, in which the Brahman is experienced. It is the silent resonance of the Unstruck Sound of Kuṇḍalinī, who is the energy of the vital breath (prāṇaśakti) and speech (vācchakti). As such, she is the ‘measure’, as the spiritual energy — \[illegible\] — of this resonance that transports individual consciousness encapsulated in the current of the upward streaming vital breath into transcendental consciousness.
+[^682]: The word ‘mātra’ in common usage is a neuter noun meaning a ‘measure’. The feminine mātrā is an adjectival form agreeing with ‘Kundalint > In fact, we do find this term in the Tantras to denote Kundalinī as the measure of Mantric energy. If we accept this reading, the sentence would say: ‘She who is the measure/energy Kundalini is said to be the womb (yoni) of the universe.” The Vedic syllable OM, which serves as the model or Tantric seed-syllable Mantras such as HRĪM, ŚRĪM etc., is analysed in the Upaniṣads as consisting of three or three and a half measures. The first three (A U M) are audible, and correspond to waking, dreaming and deep sleep. This means that in the course of its audible utterance, the one who recites it traverses these three states. The ‘half measure’ is the silent upward-moving resonance of consciousness in the fourth state, in which the Brahman is experienced. It is the silent resonance of the Unstruck Sound of Kuṇḍalinī, who is the energy of the vital breath (prāṇaśakti) and speech (vācchakti). As such, she is the ‘measure’, as the spiritual energy — – mātrā – — of this resonance that transports individual consciousness encapsulated in the current of the upward streaming vital breath into transcendental consciousness.
 
 [^683]: Here Jayaratha objects that referring to Kundalini as the ‘measure’ is incorrect in this specific sense, and adds nothing to the meaning in its general sense as ‘sakti’. One wonders whether Jayaratha’s rejection of the reading ‘mātrā’ is justified, if the only reason for it is that he finds no applicable meaning in the word, when clearly this is not true.
 
@@ -833,11 +833,11 @@ bindur ātmani mūrdhānte hṛdayād vyāpako hi saḥ |
 
 #### Viveka on 3.221–223
 
-The first ‘iti’ (of \[illegible\] ity avarnād — ʻĀ arises from the letter A’) reflects on the essential nature (of A), whereas the other (iti of ity ādi ~ ‘and so on’) on its modality (up to the power of emission). Thus, just as Bliss (Ā) arises from the Absolute (A), in the same way Sovereignty (ṛśitrī — Ī) arises from the Will (icchā ~ I), and Decrease (ñnatā - Ü) from Expansion (unmeṣa — U). Thus ‘the power of emission’, the nature of which is the letter H, and is such, arises at the end (of the series of letters) beginning with K and ending with S. The meaning is that all the letters have arisen (in this way). That is said there (in the Siddhayogeśvarīmata): 
+The first ‘iti’ (of ā ity avarnād — ʻĀ arises from the letter A’) reflects on the essential nature (of A), whereas the other (iti of ity ādi ~ ‘and so on’) on its modality (up to the power of emission). Thus, just as Bliss (Ā) arises from the Absolute (A), in the same way Sovereignty (ṛśitrī — Ī) arises from the Will (icchā ~ I), and Decrease (ñnatā - Ü) from Expansion (unmeṣa — U). Thus ‘the power of emission’, the nature of which is the letter H, and is such, arises at the end (of the series of letters) beginning with K and ending with S. The meaning is that all the letters have arisen (in this way). That is said there (in the Siddhayogeśvarīmata): 
 
 ‘The letter & is born from the letter A, and it is said that Ī (is born) from the letter I. The letter Ü is (born) from the letter U, and the neuter (group of letters) from the letter p. The vowel AI is in the letter E, and the letter AU in the 
 
-[^686]: The reference in the ŚSūvi \[illegible\] 32) reads mūrdhānte (‘within the extremity of the head’) for mūrdhāntari (‘up to the extremity of the head’). My practically literal translation is supported by the passage Jayaratha himself quotes from the SYM. According to that, Bindu is within five forms of the Self, located in five places within the subtle body, ranging from the heart up to the End of the Twelve. Jayaratha lists the same locations, and so must also have understood Abhinava in this way. I have therefore translated in accord with the immediate sense supported by the SYM. Jayaratha reworks the meaning of this passage in order to accommodate the Trika triad of Nara, Śakti and Śiva into the five. To do this, he understands the passage to mean: the Point (bindu), is five-fold, namely, 1) (as the Point itself then) 2) externally within the Heart (as Nara — the individual soul) and 3) internally (within the Heart as the state of rest). (Then) 4) (externally within) Sound (as Śakti) and 5) (internally) within the Supreme Abode (that is, within the End of the Twelve as Śiva). (Residing) within the (fivefold) Self, (the Point) pervades (the body) from the heart up to the extremity of the head (mārdhānta).
+[^686]: The reference in the ŚSūvi (p. 32) reads mūrdhānte (‘within the extremity of the head’) for mūrdhāntari (‘up to the extremity of the head’). My practically literal translation is supported by the passage Jayaratha himself quotes from the SYM. According to that, Bindu is within five forms of the Self, located in five places within the subtle body, ranging from the heart up to the End of the Twelve. Jayaratha lists the same locations, and so must also have understood Abhinava in this way. I have therefore translated in accord with the immediate sense supported by the SYM. Jayaratha reworks the meaning of this passage in order to accommodate the Trika triad of Nara, Śakti and Śiva into the five. To do this, he understands the passage to mean: the Point (bindu), is five-fold, namely, 1) (as the Point itself then) 2) externally within the Heart (as Nara — the individual soul) and 3) internally (within the Heart as the state of rest). (Then) 4) (externally within) Sound (as Śakti) and 5) (internally) within the Supreme Abode (that is, within the End of the Twelve as Śiva). (Residing) within the (fivefold) Self, (the Point) pervades (the body) from the heart up to the extremity of the head (mārdhānta).
 
 
 *[p. 341]* ^pg357
@@ -862,7 +862,7 @@ Thus he says that ‘this, (as the Point (bindu),) is five-fold’. ‘And’ (i
 
 Thus, it is also located in the (centres in the) body, (arranged along its axis from) the heart to the head, namely, in the heart, throat, forehead, at the End of Śakti (Saktyanta) (in the Cavity of Brahmā at the top of the head),[^689] and in the 
 
-[^687]: This is probably a reference to a projection (nyāsa) onto the body of Mantras divided into thirty-eight parts. The well-known group of five Mantras known as the Five Brahmās, that invoke \[illegible\] five faces as Vāmadeva, Sadyojāta, Tatpuruṣa, Aghora and Īśāna, is divided in this way. (Sanderson 2009: 63 n 69). Concerning these five, see below, 15,338.
+[^687]: This is probably a reference to a projection (nyāsa) onto the body of Mantras divided into thirty-eight parts. The well-known group of five Mantras known as the Five Brahmās, that invoke Śiva’s five faces as Vāmadeva, Sadyojāta, Tatpuruṣa, Aghora and Īśāna, is divided in this way. (Sanderson 2009: 63 n 69). Concerning these five, see below, 15,338.
 
 [^688]: Jayaratha says the same above in TĀv ad 3/(110cd-11 lab) (110).
 
@@ -943,7 +943,7 @@ fruitless as (barren) autumn clouds or a sky flower or a hare’s horn or the so
 
 If, on the contrary, (letters) are understood to be essentially the supreme vitality of Mantra, which is the reflective awareness of ‘T’, then they give rise to each and every one of (their desired) results. This is the general meaning. As he will say: 
 
-‘They say that the reflective awareness, uncreated and unsullied, which is this reality, is (supreme) ‘I’ (aham) (consciousness). This, indeed, is the luminosity of the Light (of consciousness). This is the vitality (vīrya) and heart of all Mantras, without it, they would be insentient, like living beings without a heart. Whatever one who is established in this uncreated Heart does, or (however) he breathes or reflects, is all considered to be his repetition of Mantra \[illegible\][^698] 
+‘They say that the reflective awareness, uncreated and unsullied, which is this reality, is (supreme) ‘I’ (aham) (consciousness). This, indeed, is the luminosity of the Light (of consciousness). This is the vitality (vīrya) and heart of all Mantras, without it, they would be insentient, like living beings without a heart. Whatever one who is established in this uncreated Heart does, or (however) he breathes or reflects, is all considered to be his repetition of Mantra (japa).’[^698] 
 
 And so, a thorough knowledge of that is the primary characteristic of a teacher. Thus, he says: 
 
@@ -1042,7 +1042,7 @@ a iti brahma paramaṁ tatsaṅghattodayātmakam || 227 ॥
 
 The red (flow of menses) is Fire, while (its) vitality is in the form of the Sun and Moon. The Supreme Brahman is (the emission) ‘H’ that arises 
 
-from their \[illegible\][^706] (227) 
+from their union.[^706] (227) 
 
 #### Viveka on 3.227
 

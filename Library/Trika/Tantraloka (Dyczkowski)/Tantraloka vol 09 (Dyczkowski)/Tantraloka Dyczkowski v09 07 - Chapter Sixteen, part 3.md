@@ -131,7 +131,7 @@ The three Eggs (that extend up to the end of Māyā) are pervaded by the letter 
 
 [^257]"Eight very powerful Yoginīs are born from the body of Parāparā. They should be known to be seven, which consist, in due order, of five, six, five, four, two, three and two syllables, and one of eleven syllables,[^258] along with two consonants without vowels (ardhārna).’[^259] 
 
-‘The phonemes of a Piṇda (mantra), for example Navātman (HRKṢMLVYÜM),[^260] the first (consonants of which) number nine and more. The ‘vowel’ (in that example) is the letter \[illegible\][^261] “The remaining’ (set of principles) from the individual soul onwards (should be conjoined) ‘within the remaining (phonemes)’, that is, (in this case,) Y and the rest. ‘Seed-syllable mantras’ (bīja) begin with (only) one phoneme and (so) differ from Piṇdas and Parts (of Mantras that consist of more than one). (Others maintain that Pinda (mantras) should be deposited) ‘in the same way as seed-syllable (mantras) (bīja)’. The meaning is that (these people maintain) that pinda (mantras) should be deposited as pervading each principle (one by one, as do the seed-syllable mantras). 
+‘The phonemes of a Piṇda (mantra), for example Navātman (HRKṢMLVYÜM),[^260] the first (consonants of which) number nine and more. The ‘vowel’ (in that example) is the letter Ū.[^261] “The remaining’ (set of principles) from the individual soul onwards (should be conjoined) ‘within the remaining (phonemes)’, that is, (in this case,) Y and the rest. ‘Seed-syllable mantras’ (bīja) begin with (only) one phoneme and (so) differ from Piṇdas and Parts (of Mantras that consist of more than one). (Others maintain that Pinda (mantras) should be deposited) ‘in the same way as seed-syllable (mantras) (bīja)’. The meaning is that (these people maintain) that pinda (mantras) should be deposited as pervading each principle (one by one, as do the seed-syllable mantras). 
 
 ### TĀ 16.223–224
 
@@ -155,7 +155,7 @@ sodhakanyāsamātrenṇa sarvaṁ Śodhyaṁ viśudhyati ॥ 223 ॥
 
 *[p. 97]* ^pg117
 
-purified just by depositing the purifying (mantras) alone, by virtue of the power of what it is (vastubala) (that is, the power of \[illegible\][^262] (223) (223cd-224ab) 
+purified just by depositing the purifying (mantras) alone, by virtue of the power of what it is (vastubala) (that is, the power of Mantra).[^262] (223) (223cd-224ab) 
 
 #### Viveka on 16.223–224
 
@@ -357,7 +357,7 @@ He concludes this (teaching saying):
 ### TĀ 16.236
 
 एवं परापरादेव्याः स्वतन्त्रो न्यास उच्यते ।
-\[illegible\] parāparādevyāḥ svatantro nyāsa ucyate | 
+evaṁ parāparādevyāḥ svatantro nyāsa ucyate | 
 
 Such is said to be the independent deposition of the Goddess Parāparā.[^278] (236ab) (236cd) 
 
@@ -529,7 +529,7 @@ He applies this (theory of perception) to the main matter (being discussed).
 
 yathāmalari mano dūrasthitam apy āśu paśyati ॥ 243 ॥
 tathā pratyayadīkṣāyāṁ tattadbhuvanadarśanam |
-jananādiviyuktāṁ tu yadā \[illegible\] cikīrṣati ॥ 244 ॥
+jananādiviyuktāṁ tu yadā dīkṣāṁ cikīrṣati ॥ 244 ॥
 tadāsmād uddharāmīti yuktam ūhaprakalpanam |
 yadā śodhyaṁ vinā śoddhṛnyāsas tatrāpi mantrataḥ || 245 ॥
 jananādikramam kuryāt tattvasaṁśleṣavarjitam |
@@ -560,7 +560,7 @@ means the synthetic perception (anusandhāna) which has as its object the many b
 
 [^288]: This verse implicitly refers back to verse 238cd-239ab (239) above.
 
-[^289]: See below note to 16/267cd-268ab (268) concerning \[illegible\]
+[^289]: See below note to 16/267cd-268ab (268) concerning ‘ūha’.
 
 *[p. 108]* ^pg128
 
@@ -697,7 +697,7 @@ He analyses that in accord with the teachings of the scriptures
 ये मन्राः शुद्धमार्गस्थाः शिवभट्रारकादयः ।
 श्रीमन्मतङ्गादिदृशा तन्मयो हि गुरुः शिवः ॥ २५६ ॥
 
-\[illegible\] Śrīpauṣkare ‘nye ca brahmaviṣnvādayo ‘ndagāḥ |
+uktaṁ Śrīpauṣkare ‘nye ca brahmaviṣnvādayo ‘ndagāḥ |
 prādhānikāḥ sāñjanās te sāttvarājasatīāmasāḥ ॥ 254 ॥
 tair aśuddhaparāmarśāt tanmayībhāvito guruḥ |
 vaiṣṇavādiḥ paśuḥ prokto na yogyaḥ patiśāsane || 255 ॥
@@ -748,7 +748,7 @@ Now, it is said that that (association of thought with inner discourse originate
 
 *[p. 113]* ^pg133
 
-the sense (of what he is saying). Here (in response to this objection,) one should attend carefully to this. Accordingly, he says that (in order to answer this question, let us examine what happens) \[illegible\] the course of instruction (nirūpana)’ etc. In the course of instruction, there is some ‘initial’ reflective awareness which is the root (of the teaching) and comes (directly) from a teacher who is excellent and (most) senior (vṛddha). It gives rise to the state of discursive thought mentioned previously. It is transmitted to the one who is to be instructed and assumes the nature of discourse (saṁjalpa). Due to (its) association (with that), thought is reflectively aware (of its contents). Surely (one may ask), how is it that the teacher has (the teachings) in this way? With this doubt in mind, he says ‘his (teaching) also (comes) from another teacher’. 
+the sense (of what he is saying). Here (in response to this objection,) one should attend carefully to this. Accordingly, he says that (in order to answer this question, let us examine what happens) ‘in the course of instruction (nirūpana)’ etc. In the course of instruction, there is some ‘initial’ reflective awareness which is the root (of the teaching) and comes (directly) from a teacher who is excellent and (most) senior (vṛddha). It gives rise to the state of discursive thought mentioned previously. It is transmitted to the one who is to be instructed and assumes the nature of discourse (saṁjalpa). Due to (its) association (with that), thought is reflectively aware (of its contents). Surely (one may ask), how is it that the teacher has (the teachings) in this way? With this doubt in mind, he says ‘his (teaching) also (comes) from another teacher’. 
 
 (However, the problem is that) in this way, the consequence would be a vicious circle that destroys the (very) root (of this view). With this doubt in mind, he says: 
 
@@ -804,7 +804,7 @@ Or else, if (one explains that) “a jar (ghaṭa) is a pot (kumbha)”[^298] an
 
 *[p. 115]* ^pg135
 
-the meaning of these two synonyms, such that they can explain one another without reference to the innate reflective awareness of consciousness that grasps meaning, this supposed difference) also gives rise to other thought constructs (as to what the word means. Thus, the view that the meaning of words is understood in this way) should be vigorously rejected. (However, the case of synonyms with differing etymologies is not the same. Thus, for example) ‘kara’ and \[illegible\] (which both mean ‘hand’) are clearly appropriate dictions (abhijalpa) of the notion (vikalpa) of (two separate corresponding actions, namely that the hand) ‘does’ (karoti) (something) and ‘plays dice’ (panāyate) (respectively). So (if they are used with an eye on their etymological meaning,) how could they be mixed up (and used promiscuously)?[^299] (261-262) (261cd-263ab) 
+the meaning of these two synonyms, such that they can explain one another without reference to the innate reflective awareness of consciousness that grasps meaning, this supposed difference) also gives rise to other thought constructs (as to what the word means. Thus, the view that the meaning of words is understood in this way) should be vigorously rejected. (However, the case of synonyms with differing etymologies is not the same. Thus, for example) ‘kara’ and ‘pāṇi’ (which both mean ‘hand’) are clearly appropriate dictions (abhijalpa) of the notion (vikalpa) of (two separate corresponding actions, namely that the hand) ‘does’ (karoti) (something) and ‘plays dice’ (panāyate) (respectively). So (if they are used with an eye on their etymological meaning,) how could they be mixed up (and used promiscuously)?[^299] (261-262) (261cd-263ab) 
 
 #### Viveka on 16.261–263
 
@@ -977,7 +977,7 @@ Surely (one may object) that it is not proved that they are the same in all resp
 ### TĀ 16.271
 
 अंशेनाप्यथ वैषम्ये न ततोऽर्थक्रिया हि सा ।
-\[illegible\] atha vaiṣamye na tato ‘rthakriyā hi sā | 
+aṁśenāpy atha vaiṣamye na tato ‘rthakriyā hi sā | 
 
 (But) if there is even (just a small) partial difference, the purposeful action (arthakriyā) (derived) from it is not (as is that of Mantra). (271ab) (271cd) 
 
@@ -1098,7 +1098,7 @@ Surely (one may ask), even if there is no desire for the discourse of Mantra, ho
 ### TĀ 16.278
 
 विकल्पयन्नप्येकार्थं यतोऽन्यदपि पश्यति ।। २७७ । ||
-vikalpayann apy \[illegible\] yato ‘nyad api paśyati ॥ 277 ॥ 
+vikalpayann apy ekārthaṁ yato ‘nyad api paśyati ॥ 277 ॥ 
 
 This is because, even though (a person may be engaged) in thinking one thing, he also sees (something) else (at the same time).[^310] (277cd) (278ab) 
 
@@ -1125,7 +1125,7 @@ The meaning here is (as follows). He who knows the antidotes of poisons (jāṁg
 
 If he who is (dedicated to and) well established in the meaning (purpose, goal and ultimate nature of) Mantras (mantrārthaniṣtha), saying what has been said (before by others), remedies poison, that (accomplishment) is the unfolding of Mantra itself, not of (some) words other than that. He (now) states another view there with regards to that. 
 
-[^310]: Gnoli: “This verse is a quote from Dharmakīrti’s PV 3/207. It is also quoted in the the PTv p. 199, ĪPVv vol. 2, p. 415 and vol. 3, p. 140 and 389. According to Abhinavagupta, and so too the Buddhists, several forms of knowledge can exist at the same time. For the arguments related to this verse, see Tilmann Vetter 1964, pp. 64-71. “As the venerable Utpaladeva has established in his commentary \[illegible\] on (his own) Īśvarapratyabhijñā. The means (yukti) to enter here (into this pure non-discursive consciousness is as follows): ‘one sees one thing, hears another, one does something and says something else, one thinks one thing and enjoys something else.” As the venerable Śrīkanṭha has said (in the Svacchandatantra 7/57cd): “The mind cast in one place, the eye falling in another — this is how the vital breath functions, effortlessly at all times.” PTv p. 196 SvT 7/57cd is also quoted above in TĀv ad 6/24ab.
+[^310]: Gnoli: “This verse is a quote from Dharmakīrti’s PV 3/207. It is also quoted in the the PTv p. 199, ĪPVv vol. 2, p. 415 and vol. 3, p. 140 and 389. According to Abhinavagupta, and so too the Buddhists, several forms of knowledge can exist at the same time. For the arguments related to this verse, see Tilmann Vetter 1964, pp. 64-71. “As the venerable Utpaladeva has established in his commentary (ṭīkā) on (his own) Īśvarapratyabhijñā. The means (yukti) to enter here (into this pure non-discursive consciousness is as follows): ‘one sees one thing, hears another, one does something and says something else, one thinks one thing and enjoys something else.” As the venerable Śrīkanṭha has said (in the Svacchandatantra 7/57cd): “The mind cast in one place, the eye falling in another — this is how the vital breath functions, effortlessly at all times.” PTv p. 196 SvT 7/57cd is also quoted above in TĀv ad 6/24ab.
 
 [^311]: MV 18/81a.
 
@@ -1180,7 +1180,7 @@ Surely (one may ask), how can the reality which is the object of meditation be e
 वस्त्वेव भावयत्येष न सञ्जल्पमिमं पुनः ॥ २८० ॥
 गृहणाति भासनोपायं भाते तत्र तु तेन किम् ।
 
-vastv eva bhāvayaty eṣa na sañjalpam \[illegible\] punaḥ ॥ 280 ॥ gṁnāti bhāsanopāyaṁ bhāte tatra tu tena kim | 
+vastv eva bhāvayaty eṣa na sañjalpam imaṁ punaḥ ॥ 280 ॥ gṁnāti bhāsanopāyaṁ bhāte tatra tu tena kim | 
 
 One contemplates (bhāvayati) a real entity (vastu eva), not (just) discourse. This (discourse) is taken up (as) a means to make (that reality) manifest (bhāsanopāya). Once it has manifested, then what use is it there (in that case)? (280cd-281ab) (281) 
 

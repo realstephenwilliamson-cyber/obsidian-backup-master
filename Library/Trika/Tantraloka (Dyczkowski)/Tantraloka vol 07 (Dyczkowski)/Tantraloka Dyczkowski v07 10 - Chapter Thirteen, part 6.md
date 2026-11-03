@@ -49,7 +49,7 @@ ullaṁghanavaśād vāpi jhaṭity akramam eva vā || 301 ॥
 
 *[p. 309]* ^pg331
 
-A gradual descent of the power (of grace takes place when one passes successively) through (the dualist Śaiva) Siddhānta, the schools of the left (current of the Bhairava Tantras) \[illegible\] then those of the right (current) (dakṣina), Mata,[^600] Kula, Kaula, and then (finally) into the heart of Trika (ṣadardha).[^601] Or else (one may arrive at Trika) by jumping over (some intermediate stages), or immediately, all at once (akramam).[^602] (300cd-301) 
+A gradual descent of the power (of grace takes place when one passes successively) through (the dualist Śaiva) Siddhānta, the schools of the left (current of the Bhairava Tantras) (vāma), then those of the right (current) (dakṣina), Mata,[^600] Kula, Kaula, and then (finally) into the heart of Trika (ṣadardha).[^601] Or else (one may arrive at Trika) by jumping over (some intermediate stages), or immediately, all at once (akramam).[^602] (300cd-301) 
 
 #### Viveka on 13.300–301
 
@@ -71,7 +71,7 @@ The Trika system (trikārtha}[^603] alone is supreme because it is the most exce
 
 [^605]: Note that the immediate sense is that ‘kaula’ is an adjective of Trika. But one may also understand the two disjunctively as referring to two different school: Trika. Cf. reference above ad 1/18 and ad 4/47cd-48, where Kaula is missing, and Mata follows Kula. See notes there for identity of Mata and distinction between Kula and Kaula. Cf the expression kulamate trike MVV 2/287cd.
 
-[^606]: A variant of this verse reads: vedāc chaivaṁ tato vāmar tato dakṣaṁ tataḥ kulam | tato matar tataś cāpi trika sarvottamaṁ param || “After the Veda comes Śaiva (i.e. Śaivasiddhānta), then Vāma (the Tantras of the Left Current), then Dakṣa (the Tantras of the Right Current), then Kula, then Mata, and then after that also comes Trika which, the best of all, is supreme.’ This variant of this verse and the one quoted by Jayaratha in his commentary on the following verse are quoted together above in TĀv ad 1/18, where Jayaratha tells us, as does Abhinava, that the latter is drawn from the Niśācāratantra (also called Niśisaṁcāratantra). See there for the variant readings and further remarks. We are nowhere told the source. In the former instance, Jayaratha cites the verse as a gloss to Abhinava’s words that the essence of (the scriptures) is the Trika sāstra. In the second instance, he cites the same verse to establish the point that ‘Each subsequent corpus of scripture (śāstra) and parts thereof is more primary (than the one that precedes), and the others are secondary.’ This verse in this form is also quoted in the PTv p. 92, along with two others from the Nisisamcāra and the Sarvācāra that are commonly quoted together. Thus, the former is quoted just below in TĀv ad 13/302 (see note 13,338 below). The Niśsācāra (i.e. the \[illegible\] declares that the teacher ‘who knows the supreme reality’, even though he has been consecrated as a teacher into the Vāma Tantras of the Left, still requires further purifying initiations (saṁskāra) into the Bhairavatantras, Kula, Kaula and, finally Trika. Just after citing the Niśācāra and the Sarvācāra to support it, Abhinava himself (in PTv p. 92) tells us that the serial order is: 1) the Veda that is for all people, 2) Siddhānta, 3) Vāma, 4) Dakṣiṇa, 5) Kula, and 6) Mata. He presents them as planes (bhūmi) of the ultimately real perceiver. (kramaś ca eṣa eva yathoktam — evan yat sarvalokaveda-siddhānta-vāma-dakṣina-kula-matabhūmiṣu paramārthapramātr iti 1). He goes on: ‘as is said: ‘Salutation to the One who is the Self of all, who is all things and is eternal’. The venerable Somānanda has said in in his own extensive commentary (on the PT): ‘once that same Anuttara has encompassed in itself all this, then what is there (to say) much? Everything is Anuttara, because it is most excellent (anuttara). Thus, he places Anuttara Trika at the end of the series. In MVV 2/2874, translated in the following note, the sequence is Kula > Mata > Trika. Thus, Mata in this case is equivalent to Kaula.
+[^606]: A variant of this verse reads: vedāc chaivaṁ tato vāmar tato dakṣaṁ tataḥ kulam | tato matar tataś cāpi trika sarvottamaṁ param || “After the Veda comes Śaiva (i.e. Śaivasiddhānta), then Vāma (the Tantras of the Left Current), then Dakṣa (the Tantras of the Right Current), then Kula, then Mata, and then after that also comes Trika which, the best of all, is supreme.’ This variant of this verse and the one quoted by Jayaratha in his commentary on the following verse are quoted together above in TĀv ad 1/18, where Jayaratha tells us, as does Abhinava, that the latter is drawn from the Niśācāratantra (also called Niśisaṁcāratantra). See there for the variant readings and further remarks. We are nowhere told the source. In the former instance, Jayaratha cites the verse as a gloss to Abhinava’s words that the essence of (the scriptures) is the Trika sāstra. In the second instance, he cites the same verse to establish the point that ‘Each subsequent corpus of scripture (śāstra) and parts thereof is more primary (than the one that precedes), and the others are secondary.’ This verse in this form is also quoted in the PTv p. 92, along with two others from the Nisisamcāra and the Sarvācāra that are commonly quoted together. Thus, the former is quoted just below in TĀv ad 13/302 (see note 13,338 below). The Niśsācāra (i.e. the niśisaṁcāra) declares that the teacher ‘who knows the supreme reality’, even though he has been consecrated as a teacher into the Vāma Tantras of the Left, still requires further purifying initiations (saṁskāra) into the Bhairavatantras, Kula, Kaula and, finally Trika. Just after citing the Niśācāra and the Sarvācāra to support it, Abhinava himself (in PTv p. 92) tells us that the serial order is: 1) the Veda that is for all people, 2) Siddhānta, 3) Vāma, 4) Dakṣiṇa, 5) Kula, and 6) Mata. He presents them as planes (bhūmi) of the ultimately real perceiver. (kramaś ca eṣa eva yathoktam — evan yat sarvalokaveda-siddhānta-vāma-dakṣina-kula-matabhūmiṣu paramārthapramātr iti 1). He goes on: ‘as is said: ‘Salutation to the One who is the Self of all, who is all things and is eternal’. The venerable Somānanda has said in in his own extensive commentary (on the PT): ‘once that same Anuttara has encompassed in itself all this, then what is there (to say) much? Everything is Anuttara, because it is most excellent (anuttara). Thus, he places Anuttara Trika at the end of the series. In MVV 2/2874, translated in the following note, the sequence is Kula > Mata > Trika. Thus, Mata in this case is equivalent to Kaula.
 
 
 *[p. 311]* ^pg333
@@ -256,7 +256,7 @@ Surely (one may ask), here (according to you), what would be the consequence (of
 छदापश्रवणाद्चैस्तु तज्ज्ञानं गृहणतो भवेत् ।
 परायशचित्तमतस्तादृगधिकारयत्र किं भवेत् ॥ ३०९ ॥
 
-chadmāpaśravaṇādyais tu taj jñānaṁ \[illegible\] bhavet |
+chadmāpaśravaṇādyais tu taj jñānaṁ gṛhṇato bhavet |
 prāyaścittam atas tādṛgadhikāry atra ki bhavet | 309 ॥ 
 
 If that (higher) knowledge (jñāna) is taken out of deceit, with a distorted understanding or the like, (the result is that one should perform) penance (prāyaścitta), so how can one thereby possess that kind of qualification (that is necessary to be a teacher) here (in our tradition)? (309) 
@@ -350,7 +350,7 @@ He makes (this teaching) agreeable by presenting an example.
 यथा चौराद् गृहीत्वार्थं तं निगृहणाति भूपतिः ।। moment. ॥
 वैष्णवादेस्तथा शेवं ज्ञानमाहत्य सन्मतिः ।
 
-yathā caurād \[illegible\] taṁ nigṁnāti bhūpatiḥ ॥ 313 ॥
+yathā caurād gṛhītvārthaṁ taṁ nigṁnāti bhūpatiḥ ॥ 313 ॥
 vaiṣṇavādes tathā śaivaṁ jñānam āhṛtya sanmatiḥ | 
 
 Just as a king first confiscates the things a thief has stolen and then punishes him, similarly, the wise man should first take away from the Vaiṣṇava and others (who are not sincere Śaivites,) the knowledge of Śiva (he taught him). (313cd-314ab) 
@@ -446,7 +446,7 @@ Surely (one may ask), even though this 1 so, what is the cause of (his) falling 
 प्रत्यवायं यतोऽभ्येति चरे्त्नदृशं क्रमम् ।
 
 svadṛṣṭau paradṛṣtau ca samayollaṅghanād asau ॥ 318 ॥
-pratyavāyaṁ yato ‘bhyeti caret tan \[illegible\] kramam | 
+pratyavāyaṁ yato ‘bhyeti caret tan nedṛśaṁ kramam | 
 
 (By doing so,) he transgresses the rules in his own teaching (dṛṣṭi) and in that of the others (he has accepted); (thus adulterated,) the rite (krama) becomes an obstacle (pratyavāya) (for his further development), and so he should not practice like this (or adhere to such a tradition).[^628] (318cd-319ab) 
 
@@ -631,7 +631,7 @@ Hearing, Cogitation and Meditation
 śrautaṁ cintāmayaṁ dyvātma bhāvanāmayam eva ca |
 \[illegible\] tad uttaraṁ jyāyo yato mokṣaikakāranam || 327 ॥ 
 
-Knowledge (is of three kinds. The first is one received) through hearing (and study) (śrauta), (the second, of which there are) two varieties, consists of cogitation \[illegible\][^634] (The third) is imaginative contemplation (bhāvanā). The last of these is the sole cause of liberation, and, as such, is 
+Knowledge (is of three kinds. The first is one received) through hearing (and study) (śrauta), (the second, of which there are) two varieties, consists of cogitation (cintā).[^634] (The third) is imaginative contemplation (bhāvanā). The last of these is the sole cause of liberation, and, as such, is 
 
 the most elevated.[^635] (327) 
 
@@ -639,7 +639,7 @@ the most elevated.[^635] (327)
 
 The knowledge that ‘consists of cogitation (cintā)’ is divided into two types, according to whether it is (superficial and) slow (manda), or (deep and) well-practiced. Thus, he says that it is of ‘two varieties’. That is said (in the Mālinīvijayottara): 
 
-‘It is said that that knowledge is of three kinds. The first one is considered to be (the one received) through hearing (that is, study) (śrauta). Now, another consists of cogitation (cintā), and (one) consists of imaginative contemplation (bhāvanā). The one (called) ‘hearing’ (i.e. study) is considered to be the full knowledge of a subject (artha) (taught in) scripture, which is dispersed (in various places in it). Having seen all of a teaching (artha) in the scriptures, its systematic arrangement (brought about by reflecting that) “this is (said) here; (whereas) this is said here, and this is (rightly) applied here,” is the knowledge consisting of cogitation. It is taught that it is of two kinds, according to whether it is (superficial and) slow (manda) or (deep and) well practiced. There, (of these two), the well-practiced is the best. Then, when it is well developed, the one consisting of contemplation arises within it. It is due to that that once the yogi has attained yoga, he gets the fruit of yoga. In this way, the man of knowledge (jñānin) is said to be of four kinds (according to which of these kinds of knowledge he \[illegible\]’[^636] 
+‘It is said that that knowledge is of three kinds. The first one is considered to be (the one received) through hearing (that is, study) (śrauta). Now, another consists of cogitation (cintā), and (one) consists of imaginative contemplation (bhāvanā). The one (called) ‘hearing’ (i.e. study) is considered to be the full knowledge of a subject (artha) (taught in) scripture, which is dispersed (in various places in it). Having seen all of a teaching (artha) in the scriptures, its systematic arrangement (brought about by reflecting that) “this is (said) here; (whereas) this is said here, and this is (rightly) applied here,” is the knowledge consisting of cogitation. It is taught that it is of two kinds, according to whether it is (superficial and) slow (manda) or (deep and) well practiced. There, (of these two), the well-practiced is the best. Then, when it is well developed, the one consisting of contemplation arises within it. It is due to that that once the yogi has attained yoga, he gets the fruit of yoga. In this way, the man of knowledge (jñānin) is said to be of four kinds (according to which of these kinds of knowledge he possesses).’[^636] 
 
 [^634]: See above, 4/103 for the definition of \*cintā’.
 
@@ -662,7 +662,7 @@ Yoga Bestows Accomplishments, Knowledge Liberation. Both May Operate Together, b
 कथं कु्ीद्रिना ज्ञानं भावनामयमुत्तमम् ॥ ३२८ ॥
 
 tattvebhya uddhṛtiṁ kvāpi yojanari sakale ‘kale |
-katha kuryād vinā \[illegible\] bhāvanāmayam uttamam | 328 ॥ 
+katha kuryād vinā jñānaṁ bhāvanāmayam uttamam | 328 ॥ 
 
 So how can (a teacher, although he knows the higher principles,) extract (uddhṛtiṁ kuryāt) (his disciple) from the (lower, impure) principles and conjoin (him) anywhere, (to Śiva,) whether differentiated (and immanent) (sakala) or undifferentiated (akala) (and transcendent), without the most excellent knowledge, which is imaginative contemplation (bhāvanā)? (328) 
 
@@ -925,7 +925,7 @@ For the (other) aspect concerning worldly benefits (bhukti), (he should select a
 
 (The seeker) should choose (a teacher) according (to his) need. In other words, he is a (yogi whose capacity is) limited (and belongs to a category) which is in between that of one who is being formed (ghatamāna) and one who has accomplished yoga (siddhayoga). “That’ is worldly benefit (bhukti). 
 
-The yogi who has (just) acquired (the teachings) \[illegible\] and one who is being formed (ghaṭamāna) is incapable of giving even just worldly benefits. The other (kind) is skilful at teaching the means to that. But ignoring 
+The yogi who has (just) acquired (the teachings) (saṁprāpta) and one who is being formed (ghaṭamāna) is incapable of giving even just worldly benefits. The other (kind) is skilful at teaching the means to that. But ignoring 
 
 *[p. 335]* ^pg357
 
@@ -1006,7 +1006,7 @@ The same has been said by (our) teacher (Kallaṭabhaṭta). Thus, he says:
 तस्यमे सर्वशिष्यस्य नोपदेशदख्रिता ॥ ३४४ ॥
 श्रीमता कल्लटेनेत्थं गुरुणा तु न्यरूप्यत ।
 
-\[illegible\] tapanān moṭakāntaṁ yasya me ‘sti gurukramaḥ | 
+ā tapanān moṭakāntaṁ yasya me ‘sti gurukramaḥ | 
 
 *[p. 337]* ^pg359
 

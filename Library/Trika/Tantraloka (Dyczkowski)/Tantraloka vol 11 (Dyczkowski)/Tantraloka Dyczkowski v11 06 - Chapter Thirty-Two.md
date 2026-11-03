@@ -254,7 +254,7 @@ Mālinīvijayottara[^379]
 एतां बद्धवा खे गतिः स्यादिति ्रीपूर्वशासने |
 
 baddhvā padmāsanari yogī nābhāv akṣeśvaraṁ kṣipet ॥ 10 ॥ daṇndākārari tu tarn tāvan nayed yāvat kakhatrayam |
-nigṛhya tatra tat \[illegible\] prerayet khatrayenṇa tu ॥ 11 ॥
+nigṛhya tatra tat tūrṇaṁ prerayet khatrayenṇa tu ॥ 11 ॥
 etāmṁ baddhvā khe gatiḥ syād iti śŚrīpūrvaśāsane | 
 
 (It is said) in the Śrīpūrvaśāsana (that is, in the Mālinīvijayottara): ‘Assuming the lotus posture, the Yogi should direct (his mind), the Lord of the Senses, into the navel. In the form of a staff, he should lead it along until (it reaches) the three Voids (in the head). After restraining it there, he should rapidly impel (it) with the three Voids (above the head). Having formed this (Mudrā), (the yogi) flies into the (supreme) \[illegible\][^380] (10cd-12ab) 
@@ -276,8 +276,8 @@ Once the Yogi who is seated in a stable and comfortable posture has risen from t
 
 B) The Seal of the Skyfarer According to the Yogasamhcāra[^381] ध्वनिज्योतिर्मरुयुक्त चित्तं विश्रम्य चोपरि ॥ १२॥
 अनेनाभ्यासयोगेन शिवं भित्वा परं व्रजेत् । |
-dhvanijyotirmarudyuktaṁ \[illegible\] viśramya copari ॥ 12 ॥
-anenābhyāsayogena śivaṁ bhittvā \[illegible\] vrajet | 
+dhvanijyotirmarudyuktaṁ cittaṁ viśramya copari ॥ 12 ॥
+anenābhyāsayogena śivaṁ bhittvā paraṁ vrajet | 
 
 Once having brought to rest the mind, yoked to Resonance (dhvani), Light (jyotiṣ) and Wind (marut), and pierced (progressively) through (the levels) above, (the Yogi) reaches supreme Śiva by engaging in this practice. (12cd-13ab) 
 
@@ -368,7 +368,7 @@ Having abandoned the condition of (material) space and realized that the trident
 
 *[p. 147]* ^pg165
 
-limitation, and entered into the formation of Khecarīmudrā, that awakened one who, having arrived at the state of the essential nature of the Supreme Sky, ‘abides’ just there (in that oneness), having made the Trident one like the juice (rasa) (of aesthetic delight merged) into juice. (Then) having ‘contemplated his own Self, endowed \[illegible\] with the assembly (cakra) of the Skyfaring goddesses, as Bhairava, he immediately quits (the surface) of the earth.’ This is the prose order (sańbandha). 
+limitation, and entered into the formation of Khecarīmudrā, that awakened one who, having arrived at the state of the essential nature of the Supreme Sky, ‘abides’ just there (in that oneness), having made the Trident one like the juice (rasa) (of aesthetic delight merged) into juice. (Then) having ‘contemplated his own Self, endowed (saṁjuṣṭa) with the assembly (cakra) of the Skyfaring goddesses, as Bhairava, he immediately quits (the surface) of the earth.’ This is the prose order (sańbandha). 
 
 Surely (one may ask), what happens to him? With this doubt in mind, he says: 
 
@@ -529,7 +529,7 @@ svasthāne nirvrtiń labdhvā jñānāmṛtarasātmakam |
 vrajet kandapadaṁ madhye rāvar kṛtvā hy arāvakam || 33 ॥
 yāvaj jīvaṁ catuṣkone pindādhāre ca kāmikam | 
 
-Kulakuṇdalikā abides unaware (avedinī) within the individual (fettered) soul, and is intent, once awakened, to withdraw (into herself all) that is within this universe that runs contrary to that (soul’s essential freedom).[^391] Once she has attained, in her own place, rest (and contentment) (nivṛti), she should travel to the plane of the Bulb (kandapada), which is the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] (Then,) having made, in the middle (of the Root), the Sound without sound, (she continues) until (she reaches) the living being (i.e. the inhaled breath) (jīva) that, lustful (kāmika), is in the square base of the body.[^392] (32-34ab) 
+Kulakuṇdalikā abides unaware (avedinī) within the individual (fettered) soul, and is intent, once awakened, to withdraw (into herself all) that is within this universe that runs contrary to that (soul’s essential freedom).[^391] Once she has attained, in her own place, rest (and contentment) (nivṛti), she should travel to the plane of the Bulb (kandapada), which is the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge (jñāna). (Then,) having made, in the middle (of the Root), the Sound without sound, (she continues) until (she reaches) the living being (i.e. the inhaled breath) (jīva) that, lustful (kāmika), is in the square base of the body.[^392] (32-34ab) 
 
 #### Viveka on 32.32–34
 
@@ -548,9 +548,9 @@ Kulakundalikā, who ‘abides unaware (vedinī) here ‘within the individual (f
 
 ‘the empowered one who impels awakened consciousness and Sound is said to be in the root (mūla).’ 
 
-For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) (nāda) that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel \[illegible\] in the centre (i.e. \[illegible\] Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge \[illegible\] 
+For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the innate) Sound (of consciousness) (nāda) that is ‘without sound’, its nature completely tranquil, within the foundation of the subtle channel (biṣa) in the centre (i.e. suṣumṇā). Then, in accord with the view (taught in the Vīrāva/i) that ‘(the deities) in the Bulb (kanda) are greedy for the six flavours’, ‘the plane of the Bulb’ ʻis the juice (of the aesthetic delight) of the nectar of (spiritual) knowledge (jñāna)’. 
 
-[^393] (There,) the living being’ called ‘All Desire’ is ‘lustful (kāmika)’, and is called the Vivifying Nectar (saĝjīvanyamyta).[^394] \[illegible\] travels to ‘the base (ādhāra) of the body’ (the abode of the living being). Called ‘the Wish-granting Gem’, it is ‘square’, because it is located on a crossroad.[^395] 
+[^393] (There,) the living being’ called ‘All Desire’ is ‘lustful (kāmika)’, and is called the Vivifying Nectar (saĝjīvanyamyta).[^394] (Kuṇḍalinī) travels to ‘the base (ādhāra) of the body’ (the abode of the living being). Called ‘the Wish-granting Gem’, it is ‘square’, because it is located on a crossroad.[^395] 
 
 ### TĀ 32.34–36
 
@@ -560,7 +560,7 @@ For this reason, (Kuṇqalinī) makes ‘the sound’ (rāva) which is (the inna
 वज्ाख्यां ज्ञानजेनैव तथा शाखोभयान्ततः ।
 कोणमध्यविनिष्क्रान्तं लिद्धमूलं विभेदयेत् ॥ ३६ ॥
 
-tatra \[illegible\] bodhayitvā tu gatim buddhvā kramāgatām ॥ 34 ॥
+tatra tāṁ bodhayitvā tu gatim buddhvā kramāgatām ॥ 34 ॥
 cakrobhayanibaddhār tu śākhāprāntāvalambinīm |
 mūlasthānād yathā yogī tamogranthiń vidārayet || 35 ॥
 vajrākhyāmi jñānajenaiva tathā śākhobhayāntataḥ |
@@ -699,12 +699,12 @@ candracakravilomena praviśed bhūtapañjare ॥ 45 ॥
 
 [^400]: The Five Causes are the deities who preside over the five gross elements and corresponding pentads, arranged in the cakras along the axis of the subtle body, marking stations of the ascent of
 
-    \[illegible\] See above, note 8,25.
+    Kuṇḍalinī. See above, note 8,25.
 
 
 *[p. 157]* ^pg175
 
-bhūyas tu kurute \[illegible\] māyāpañjaravartinīm |
+bhūyas tu kurute līlāṁ māyāpañjaravartinīm |
 punaḥ sṛstiḥ saṁhṛtiś ca khecaryā kriyate budhaiḥ ॥ 46 ॥
 srīmadvīrāvalīyoga eṣa syāt khecarīvidhiḥ | 
 
@@ -795,7 +795,7 @@ In the very same way, supreme consciousness has poured forth as the body. Thus h
 मानसीयम्
 
 \[illegible\] \[illegible\] cāpi hṛt stanadvayam eva ca ॥ 50 ॥
-vṛṣaṇadvayaliṅgari ca prāpya \[illegible\] gatā tv iyam | 
+vṛṣaṇadvayaliṅgari ca prāpya kāyaṁ gatā tv iyam | 
 
 [^406]: The three kinds of mudrā are those of the body, speech and mind. Above in 32/9cd, it is said that mudrās are four kinds, that is, these three as well as hands.
 
@@ -825,9 +825,9 @@ of the Seal of the Skyfarer).[^408] (50cd-52a)
 एषा मद्रा महामुद्रा भैरवस्येति गहरे ॥ ५३ ॥
 
 „+ . + itas tv anyāḥ padmādyā aṣṭa mudrikāḥ \\ mātrvyūhakule tāḥ syur asyās tu parivāragāḥ || 52 ॥
-śarīraṁ tu samastaṁ yat kūṭākṣarasamākṛti \\ \[illegible\] mudrā mahāmudrā bhairavasyeti gahvare || 53 ॥ 
+śarīraṁ tu samastaṁ yat kūṭākṣarasamākṛti \\ eṣā mudrā mahāmudrā bhairavasyeti gahvare || 53 ॥ 
 
-Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal of the) Lotus and the rest, that are amongst its entourage, (each belonging) to a family of the group (of eight) Mothers. The form of the entire body (as a whole) is the phoneme \[illegible\] (kūfākṣara). (It is said) in the Gahvaratantra that this seal is Bhairava’s Great Seal (mahāmudrā). (52bcd-53) 
+Apart from (the Skyfarer,) there are eight (other) mudras, including (the Seal of the) Lotus and the rest, that are amongst its entourage, (each belonging) to a family of the group (of eight) Mothers. The form of the entire body (as a whole) is the phoneme KṢ (kūfākṣara). (It is said) in the Gahvaratantra that this seal is Bhairava’s Great Seal (mahāmudrā). (52bcd-53) 
 
 #### Viveka on 32.52–53
 
@@ -852,7 +852,7 @@ F) The Seal of the Skyfarer According to the Bhargāṣṭakaśikhākula[^413] �
 
 [^409]: By reading with Ṭh: parivārāya for parivāras tu, the meaning would be “there are said to be eight seals, that serve to make up Khecarī’s entourage.”
 
-[^410]: Read with MS \[illegible\] kulāṣtake for 51144.
+[^410]: Read with MS Ṭh: kulāṣtake for 51144.
 
 [^411]: Read daṁṣtraṁ for daṁṣtrā.
 
@@ -869,7 +869,7 @@ sūpaviṣtaḥ padmake tu hastāgrāmiguliraśmibhiḥ |
 parāùmukhair jhaṭity udyadraśmibhiḥ pṛṣthasaṁsthitaiḥ | 54 ॥
 antahsthitiḥ khecarīyaṁ saṁkocākhyā śaśāṁkinī | 
 
-1\) (The yogi,) well seated in the lotus posture, (experiences) the inner state (of rest when he engulfs and withdraws outer objectivity) with the (lunar) rays located on the back of the fingers on the forepart of (his) hands, that emerge all of a sudden, turned away (from \[illegible\][^414] This (first form of the Seal of the) Skyfarer is (the Goddess of the Moon) Śaśāṁkinī, who is (also appropriately) called ‘Retraction’ (sarrkocā).[^415] (54-55ab) 
+1\) (The yogi,) well seated in the lotus posture, (experiences) the inner state (of rest when he engulfs and withdraws outer objectivity) with the (lunar) rays located on the back of the fingers on the forepart of (his) hands, that emerge all of a sudden, turned away (from him).[^414] This (first form of the Seal of the) Skyfarer is (the Goddess of the Moon) Śaśāṁkinī, who is (also appropriately) called ‘Retraction’ (sarrkocā).[^415] (54-55ab) 
 
 #### Viveka on 32.54–55
 
@@ -960,7 +960,7 @@ Again, the sixth (kind of Khecarī Mudrā) is called (the Seal of) the Five Ku�
 उत्रामणी इगित्येव पशुनां पाशकर्तरी ।
 
 samhāramudrā caiṣaiva yady ūrdhvari kṣipyate kila ॥ 59 ||
-utkrāmanṇī jhagity (> jhaṭity) eva \[illegible\] pāśakartarī | 
+utkrāmanṇī jhagity (> jhaṭity) eva paśūnāṁ pāśakartarī | 
 
 7\) Again, this same (Seal) is the Seal of Reabsorption if (the fingers) are cast upwards. (Khecarī) exits upwards and immediately severs the fetters (that bind) fettered souls. (59cd-60ab) 
 

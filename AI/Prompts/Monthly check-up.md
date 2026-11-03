@@ -29,4 +29,4 @@ Confirm with me that no other AI tool is working on the vault.
 4. Record the session in AI/AI log.md as the house rules describe, and clean up your scratch in .work (never .work/plan or the backups).
 ````
 
-**Afterwards:** the next report shows the numbers moving. [[Vault Health & Phantom Link Manager|Vault Health]] shows unresolved links live between runs. The retired [[Vault health assessment]] keeps the long checklist, and `health-counts.js` and `health-settings.js` ([[Health check scripts]]) still measure everything it asked for.
+**Afterwards:** the next report shows the numbers moving. [[Vault Health & Phantom Link Manager|Vault Health]] shows unresolved links live between runs. `health-counts.js` and `health-settings.js` ([[Health check scripts]]) measure everything the retired *Vault health assessment* asked for.

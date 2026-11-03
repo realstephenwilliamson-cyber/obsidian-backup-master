@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-26
+updated: 2026-11-03
 ---
 # House rules for AI work
 
@@ -12,7 +12,7 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
 - Stephen uses Obsidian Sync Plus: 10 GB in all, including version history. Sync keeps older versions of notes for 12 months and older versions of attachments (PDFs, images, audio) for two weeks ([Version history](https://obsidian.md/help/Obsidian+Sync/Version+history)). Assume Sync is on (rule 14). PDFs are kept off Sync on every device (decided 14 Oct 2026; the Guide's *Sync and backups* has the settings), so the remote vault holds about 0.6 GB.
 - About 39,400 files and 36,800 notes (25 Oct 2026). PDFs take about 8.0 GB of the 9.0 GB.
 - Layout, catalog properties, naming, links and callouts are described in [[Vault Guide]], which is the authority. Where this note and the Guide disagree, follow the Guide and tell Stephen.
-- Previous AI work is recorded in the Claude project "Obsidian Assit", when that project is attached: docs `00`–`21` in `claude/vault-rescue-2026-10-04/` (doc `07` has the job runner's restart line), the audits of 14 and 19 Oct 2026 in `claude/audit-2026-10-14/` and `claude/audit-2026-10-19/`, the Fable chat's design notes in `claude/fable/`, and the records of the completion and corrections weeks in `claude/completion-2026-10/` (*State (22 Oct 2026) - read first* first).
+- What AI sessions changed is in the [[AI log]], with the open work and where its data is at the top. The Claude project "Obsidian Assit", when it is attached, keeps ten docs (3 Nov 2026): doc `07` in `claude/vault-rescue-2026-10-04/` (how to start; the runner's restart line), *State (22 Oct 2026) - read first* in `claude/completion-2026-10/` (what is open), doc `05` (how the calendar tables were computed), the Agent SDK setup, two proposals, and the Fable chat's design notes in `claude/fable/`. The build's other records were deleted on 3 Nov 2026 (Stephen: no records for history's sake); the vault's Git history keeps the earlier versions of every note.
 
 ## Rules that are never broken
 
@@ -51,6 +51,7 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
   - Jobs run one at a time, in the alphabetical order of their file names (so number them); `window.RUNNER_STOP()` in the console stops the runner.
   - A job is a dry run unless its first line is `// APPLY`, which sets `window.DRY = false` for that job. Write job files as UTF-8 without a byte-order mark: a BOM hides the `// APPLY` line, and the apply runs as a dry run (18 Oct 2026).
   - Before telling Stephen that the runner, or anything else, is running, check that it is: queue a trivial job and read its result.
+  - A job never opens a PDF view or renders PDF pages inside Obsidian: one that did hung the runner (2 Nov 2026). Render pages in your own workspace (PyMuPDF) from staged copies of the PDFs.
   - When Obsidian restarts, the runner stops. Stephen restarts it by pasting this line into the console:
     `window.W = async n => await eval(await app.vault.adapter.read('.work/' + n + '.js')); await W('plan/phase-3-tools/runner')`
 - **Working on the laptop** (Claude Code or the Agent SDK, since 18 Oct 2026): the same rules apply. A laptop agent may write a note directly with its file tools only after copying it into `.work/backup-<task>-<YYYY-MM-DD>/`, and its AI log entry lists the notes it wrote that way. Bulk edits (more than a handful of notes), renames, moves and deletes still go through the runner or Obsidian. Obsidian keeps the old size and date of a file written from outside until it restarts, so ask Stephen to restart it after direct writes.
@@ -61,7 +62,7 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
 - **When you finish:**
   - **Keep what a later session will use.** Before the clean-up, save into the vault every script, job template and data list this session built that a later session may need (a linker, a parser, a list of undecided items), with a line saying what it does: scripts in `AI/Prompts/Scripts/<topic>/`, job templates and data for open items in `.work/edits/`. A handoff never says "re-derive" for something that exists when it is written. Such a tool is removed only when it is clearly no longer needed, and the AI log says so. (Stephen, 26 Oct 2026.)
   - Clean up only your session's scratch in `.work/`: the bundles you made, the result files you wrote in `.work/out/`, and `.work/queue/done/`. Move them into the vault trash with the adapter, since `.work` is a hidden folder Obsidian doesn't index: `await app.vault.adapter.rename('.work/<folder>', '.trash/work-<task>-<YYYY-MM-DD>/<folder>')`.
-  - Never move `.work/plan/` (the job runner lives there) or the `.work/backup-*` folders. The backups stay until Stephen decides they can go.
+  - Never move `.work/plan/phase-3-tools/` (the job runner), the edit templates in `.work/edits/` or the data of the open work that the [[AI log]] lists. A session's backup folder stays in `.work` until its changes are in a Git commit; then it may go to `.trash` with the session's other scratch, since Git and Sync's version history keep the notes' earlier versions (Stephen, 3 Nov 2026: keep only what a later session will use).
   - Any other scratch file you created inside the vault goes to `.trash` with `app.vault.trash(file, false)`.
   - Close the developer tools, and release computer control.
 - **Emptying `.trash`** is Stephen's job: open the vault folder in Windows Explorer and delete what is inside `.trash`. This is the one deletion outside Obsidian that is fine, because nothing links into `.trash`.
@@ -76,5 +77,5 @@ Every prompt in this folder tells the AI to read this note and [[Vault Guide]] b
   - what changed, with numbers;
   - what you checked;
   - anything left for Stephen to decide, listed in the AI log entry as well.
-- After every session, add a dated entry at the top of the [[AI log]] (what changed, with counts; where the backups are; where the full record is). If you change the vault's structure or conventions, also update the part of the [[Vault Guide]] that describes it, and add a line at the top of [[Vault Guide history]] (the Guide keeps no history of its own since 23 Oct 2026).
+- After every session, add a short dated entry to the [[AI log]], below its *Open work* list (what changed, with counts; where the backup is; the next free job number), and bring *Open work* up to date. If you change the vault's structure or conventions, also update the part of the [[Vault Guide]] that describes it. Keep no other record of a session in the vault: the AI log and Git are its history (Stephen, 3 Nov 2026).
 - Keep replies plain and short. Stephen prefers precise, plain-spoken answers, and pushes back when an inference runs ahead of the evidence.

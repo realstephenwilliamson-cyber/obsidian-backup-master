@@ -50,7 +50,7 @@ Agrawal, Vasudeva S. 1964: Vāmana Purāṇa — A Study. Vārāṇasī: Pṛthi
 
 Agrawal, Vasudeva S. 1970: Ancient Indian Folk Cults. Vārāṇasī: Prithivi Prakashan. 
 
-Alper, H. P. 1991, Understanding Mantras, Motilal Banarsidass, Delhi. Allen, \[illegible\] 1953, Phonetics in Ancient India, Oxford. 
+Alper, H. P. 1991, Understanding Mantras, Motilal Banarsidass, Delhi. Allen, WṢ. 1953, Phonetics in Ancient India, Oxford. 
 
 Allen, Michael R. 1969: The Cult of Kumari. Virgin Worship in Nepal. Kathmandu: Madhab Lal Maharjan. 
 
@@ -868,7 +868,7 @@ Vyāsa, Kalu Rāma 1981: A Catalogue of Manuscripts in the Maharaja Mansingh Pus
 
 Vyāsa, Kalu Rāma and Kṣīrasagar D. B 1986: A Catalogue of Manuscripts in the Maharaja Mansingh Pustak Prakash Jodhpur (Sanskrit and Prakrit Manuscripts) part 2. Jodhpur: Maharaja Mansigh Pustak Prakash. 
 
-Vyāsa, Kedāranātha 1987: kāśīkhandokta paṁnicakrośātmaka jyotirlińga kāíīmāhātmya evaṁ \[illegible\] prācīn itihāsa. Vārāṇasī: Jyotiṣa Prakāśa Press. Walton, H. G. (editor) 1911: District Gazetteers of the United Provinces of Agra and Oudh XXXV. Allahabad. 
+Vyāsa, Kedāranātha 1987: kāśīkhandokta paṁnicakrośātmaka jyotirlińga kāíīmāhātmya evaṁ kāśī prācīn itihāsa. Vārāṇasī: Jyotiṣa Prakāśa Press. Walton, H. G. (editor) 1911: District Gazetteers of the United Provinces of Agra and Oudh XXXV. Allahabad. 
 
 Warner, A.K.: Indian Kāvya Literature. In six volumes: vol. 1 1989 (revised edition), vol. 2 1990 (revised edition), vol. 3 1990 (revised edition), vol. 4 1983 (first edition), vol. 5 1988 (first edition), and vol. 6 1992 (first edition). Delhi: Motilal Banarsidass. 
 
@@ -930,7 +930,7 @@ Chapter 5 1 >66ab
 
 66cd > 116ab 116cd > 157 New Numbering 
 
-1 > 57 (same) 59 > 1369 (half less) \[illegible\] > 223 (same) 22520 > 28700 (half less) 2888 > end (one and half more) 
+1 > 57 (same) 59 > 1369 (half less) 136cd > > 223 (same) 22520 > 28700 (half less) 2888 > end (one and half more) 
 
 17ab > 37ab (half less) 
 
@@ -1060,7 +1060,7 @@ Aindrī, deity, 29/52-53, 33/3-5 aiṣtka, Vedic observance, 15/498-505 Aitarey�
 
 *[p. 381]* ^pg396
 
-Ajadapramātṛsiddhi, 5/61cd-62ab Ajaramekhalā, \[illegible\] 29/29cd-33ab Ajeśa, one of twelve Suśivas, 8/249-251ab Ajita, Siddha, 29/29cd-33ab Ajitāgama, 5/1 12cd-113ab Akṛta, one of the eight Yogas, 8/235cd-237, 264-271, 446 Akṣara, one of the places of almsgiving, 29/37-39 akula, 3/67; 4/170
+Ajadapramātṛsiddhi, 5/61cd-62ab Ajaramekhalā, dūtī, 29/29cd-33ab Ajeśa, one of twelve Suśivas, 8/249-251ab Ajita, Siddha, 29/29cd-33ab Ajitāgama, 5/1 12cd-113ab Akṛta, one of the eight Yogas, 8/235cd-237, 264-271, 446 Akṣara, one of the places of almsgiving, 29/37-39 akula, 3/67; 4/170
 Alinātha, Siddha, 29/33cd-34 Alipura (alias Hālā), 15/92-93ab; 29/59-63 end Amā, 6/92cd-96 Amaranātha, Siddha, 29/33cd-34, 37-39 Amarāvati, 8/43cd-56ab Amareśa, deity of the water principle, 8/203-204, 440cd-441ab Amaryādaśāstra see Nirmaryādaśāstrab amāvāsyā, 6/92cd-96 Ambā, sister of Abhinavagupta, 37/65, 37/79
 Ambarāpada, deity of the ether principle, 8/443cd-444ab Ambikā, deity of principle of pure knowledge, 8/450cd-451 Ambikā, śakti, 33/2
 Ambilla, one of the hermitage places, 29/37-39 Amitā, a deity, 8/395cd-397ab Amogha, a wind, 8/122cd-139ab Amrātikeśa, deity of the fire principle, 8/441cd-442ab Amṛtā, deity, 8/395cd-397ab, 33/9cd-12 Amṛtābha, one of the fifty Rudras, 33/9cd-12 Amyṛtadrava, one of the fifty Rudras, 33/9cd-12 Amṛtamūrti, one of the fifty Rudras, 33/9cd-12 Amṛtāṁga, one of the fifty Rudras, 33/9cd-12 Arirtapūrṇa, one of the fifty Rudras, 33/9cd-12 Amṛtasecana, one of the fifty Rudras, 33/9cd-12 Amṛtāsya, one of the fifty Rudras, 33/9cd-12 Amṛtasyandana, one of the fifty Rudras, 33/9cd-12 Amṛtatanu, one of the fifty Rudras, 33/9cd-12 Amritaugha, one of the fifty Rudras, 33/9cd-12 Amṛtavapus, one of the fifty Rudras, 33/9cd-12 Amṛteśa, one of the fifty Rudras, 33/9cd-12 
@@ -1087,7 +1087,7 @@ Attahāsa, a sacred place, 8/442cd-443ab; 29/37-39, 70cd-71ab atyagniṣtoma, ve
 
 lab; 14/42cd-45; 15/270cd-272ab, 273cd-275ab, 344cd-346, 350- 35140; 16/249-251, 280-282; 284-287, 293cd-295ab Avimukteśa, deity of the ether principle, 8/443cd-444ab 
 
-ābhāsa (appearing, manifestation) 39/41-42 Ādhārakārikā, 28/307-309, 312 ādhāraśakti, 15/183cd-90ab, 279cd-303 16/11-12ab Āditya, 3/226-231, 8/139cd-142ab Āgama 8/368cd-373ab, 16/210-211 Ākarṣa, one of the eight Eight Pāśupta scriptures called Pramāṇas, 8/328-329ab Āmardaka (alias Aamarda), Siddha, 4/263cd-270ab; 36/1 1-12; 37/60-61 Āmrātakeśvara, a sacred place, 29/59-63 Ānandādhikatantra, -śāsana, 8/32cd-35ab, 32cd-40, see also Aanandatantrab Ānandagahvara, 14/18-19; see also Aanandatantrab Ānandamekhalā, \[illegible\] 29/29cd-33ab Ānandatantra, 
+ābhāsa (appearing, manifestation) 39/41-42 Ādhārakārikā, 28/307-309, 312 ādhāraśakti, 15/183cd-90ab, 279cd-303 16/11-12ab Āditya, 3/226-231, 8/139cd-142ab Āgama 8/368cd-373ab, 16/210-211 Ākarṣa, one of the eight Eight Pāśupta scriptures called Pramāṇas, 8/328-329ab Āmardaka (alias Aamarda), Siddha, 4/263cd-270ab; 36/1 1-12; 37/60-61 Āmrātakeśvara, a sacred place, 29/59-63 Ānandādhikatantra, -śāsana, 8/32cd-35ab, 32cd-40, see also Aanandatantrab Ānandagahvara, 14/18-19; see also Aanandatantrab Ānandamekhalā, dūtī, 29/29cd-33ab Ānandatantra, 
 
 -śāsana, - 17111 
 
@@ -1111,7 +1111,7 @@ Indradvīpa, region, 8/83-84, 93 Indrānī, 8/241cd-244ab
 
 Tsa, 8/216-220, 249-25 lab 
 
-168, one of the five faces of Siva, 1/18; 8/368cd-373ab; 11/20; 15/203cd- 204ab \[illegible\] the deity, 6/68cd-72ab; 8/161,244cd-247ab, 249-25190; 15/222cd-225ab; 30/42-43ab 
+168, one of the five faces of Siva, 1/18; 8/368cd-373ab; 11/20; 15/203cd- 204ab Īśāna, the deity, 6/68cd-72ab; 8/161,244cd-247ab, 249-25190; 15/222cd-225ab; 30/42-43ab 
 
 Īśānaśiva, Śaiva master, 12/28cd-31ab 
 
@@ -1174,15 +1174,15 @@ a sacred place, 15/86cd-88; 29/66-67
 Kulakālīvidhi, a Śaiva scripture, 13/303-306 
 
 Kulaputtalikā, an alphabet, 15/128cd-130ab Kularatnamāla, 31/60-61; see also Ratnamālātantra Kuleśvara, Lady of Kula, 29/45cd-46ab, 222-223, 228-229 Kuleśvarī, Lady of Kula, 29/45cd-46ab, 222-223, 228-229; 31/26-29ab Kulika, one of eight Nāga, 6/68cd-72ab Kullāīambā, dūtī, 29/29cd-33ab Kulūta (Kulūta, Kulāta), a sacred place, 15/8993ab Kumāra, 8/264-271; 16/288
-\[illegible\] dūtī, 29/33cd-34 Kumārikā, region, 8/83-85, 88-89, 91; 37/35
+Kumārī, dūtī, 29/33cd-34 Kumārikā, region, 8/83-85, 88-89, 91; 37/35
 Kumārila, 4/232cd-233; 10/20-22, 57cd-58ab; 16/261cd-263ab Kumbhārikā, place to give alms, 29/37-39 Kumbhīpāka, 8/24cd-27 Kumuda, island, 8/86
-kundagolaka, 13/227cd-229ab; 15/577-578, 170-173 \[illegible\] 3/137cd-140, 220-225; 5/54cd-58ab, 108cd-112ab, 145; 7/40, 68cd- 70ab; 8/395cd-397ab, 400-405ab, 424cd-427; 15/86cd-88, 313-314, 432-436ab; 17/36cd-45ab; 29/37-39, 68, 71cd-72ab; 31/30-33ab, 124-126ab; 32/32-40ab, 42-44ab Kurikunāmbā, \[illegible\] 29/29cd-33ab Kuru, continent, 8/72-73, 79 Kurukṣetra, deity of the wind principle, 8/442cd-443ab Kurukṣetra, a sacred place, 15/92-93ab Kuśa, island, 8/103cd-104 
+kundagolaka, 13/227cd-229ab; 15/577-578, 170-173 kuṇḍalinī, 3/137cd-140, 220-225; 5/54cd-58ab, 108cd-112ab, 145; 7/40, 68cd- 70ab; 8/395cd-397ab, 400-405ab, 424cd-427; 15/86cd-88, 313-314, 432-436ab; 17/36cd-45ab; 29/37-39, 68, 71cd-72ab; 31/30-33ab, 124-126ab; 32/32-40ab, 42-44ab Kurikunāmbā, dūtī, 29/29cd-33ab Kuru, continent, 8/72-73, 79 Kurukṣetra, deity of the wind principle, 8/442cd-443ab Kurukṣetra, a sacred place, 15/92-93ab Kuśa, island, 8/103cd-104 
 
 *[p. 389]* ^pg404
 
 Kūṣmānda, deity whose name is given to a hell, 6/142cd-145ab; 8/28ab, 262cd- 263ab, 407cd-408ab, 428-434ab, 437cd-438ab 
 
-garhoda, a water jar, 8/113-114, 118 Gabhasti, demons, 28/96cd-98 Gabhastimat, region, 8/83-84 Gahana, 8/318-319 Gahaneśa, Gahaneśvara, 6/155-156; 36/2-7ab Gamatantra (-śāsana, -śastra), 1/150-151; 13/229cd-234ab; 15/278cd-283ab, 422-424ab, \[illegible\] 16/286-287; 29/141cd-142ab Gambhīrā, 33/3-5 Ganṇādhyakṣa, one of the eight Tejas, 8/235cd-237 gānapatya, voete, 15/506-508 Ganṇqdakī, river, 28/237cd-248a Gandhamādana, mountain, 8/58cd-60ab, 63cd-67, 69, 71 Gandharva, 8/43cd-56ab, 83-88, 122cd-139ab; Gandhavatī, city, 8/43cd-56ab Ganeśa, 1/6, 287-327ab; 15/183cd-190ab, 376cd-377; 16/7cd-10; 28/168-173, 397-399; 29/27cd-29ab, 130cd-132, 287cd-289ab; 30/18-19 ganesa, vow, 15/506-508 0228. river, 3/89, 139cd-142ab, 203-204; 15/183cd-190ab; 37/49-51, 52 garbhāvaraṇa (embryo's covering ), 16/78-80 Gargikā, a sacred place, 15/92-93ab Garuda, 8/32cd-35ab, 115-117, 139cd-142ab, 15/137cd-139ab; 36/2-7ab; 37/12cd-13a Gaur, 28/237cd-248ab Gautama, 15/497
+garhoda, a water jar, 8/113-114, 118 Gabhasti, demons, 28/96cd-98 Gabhastimat, region, 8/83-84 Gahana, 8/318-319 Gahaneśa, Gahaneśvara, 6/155-156; 36/2-7ab Gamatantra (-śāsana, -śastra), 1/150-151; 13/229cd-234ab; 15/278cd-283ab, 422-424ab, 531cd-533; 16/286-287; 29/141cd-142ab Gambhīrā, 33/3-5 Ganṇādhyakṣa, one of the eight Tejas, 8/235cd-237 gānapatya, voete, 15/506-508 Ganṇqdakī, river, 28/237cd-248a Gandhamādana, mountain, 8/58cd-60ab, 63cd-67, 69, 71 Gandharva, 8/43cd-56ab, 83-88, 122cd-139ab; Gandhavatī, city, 8/43cd-56ab Ganeśa, 1/6, 287-327ab; 15/183cd-190ab, 376cd-377; 16/7cd-10; 28/168-173, 397-399; 29/27cd-29ab, 130cd-132, 287cd-289ab; 30/18-19 ganesa, vow, 15/506-508 0228. river, 3/89, 139cd-142ab, 203-204; 15/183cd-190ab; 37/49-51, 52 garbhāvaraṇa (embryo's covering ), 16/78-80 Gargikā, a sacred place, 15/92-93ab Garuda, 8/32cd-35ab, 115-117, 139cd-142ab, 15/137cd-139ab; 36/2-7ab; 37/12cd-13a Gaur, 28/237cd-248ab Gautama, 15/497
 Gaya, a deity, 8/206cd-208ab, 442cd-443ab Gemini, sign of the zodiac, 28/121cd-127ab Gokarṇa, a sacred place, 29/59-63 Gokarṇaka, divinities of the principle of earth, 8/443cd-444ab Gomedha, an island, 8/103cd-104 Gopāla, 33/7cd-9ab Gopati, 8/318-319 grāmadharma, 1/82-90 Guqdikānātha, Siddha, 29/33cd-34 Guhya, one of the eight Eight Pāśupta scriptures called Pramāṇas, 8/328-329ab 
 
 Guhya, a Śaiva scripture, 31/60-61 
@@ -1202,7 +1202,7 @@ caitra, month (March-April), 6/1 19-120, 123cd-125; 28/36-39ab Caitrarathra, for
 camatkāra (“wonder, amazement”), 5/74; 11/76cd-78ab; 26; 29/176
 Cāmunqā, 8/241cd-244ab; 28/10-14ab; 29/52-53; 33/3-5 Canda, 
 
-name of deity, 8/272-273ab, 447-448; 16/117-125ab; 33/7cd-9ab Canṇdāṁśu, mythical master, 28/391-393 \[illegible\] deity, 15/551cd-557ab Canqikā, 15/391cd-393 Candra, a deity, 8/368cd-373ab Candra, a mountain, 8/97-98 Candraśarman, master of Abhinavagupta, 37/62
+name of deity, 8/272-273ab, 447-448; 16/117-125ab; 33/7cd-9ab Canṇdāṁśu, mythical master, 28/391-393 Caṇḍī, deity, 15/551cd-557ab Canqikā, 15/391cd-393 Candra, a deity, 8/368cd-373ab Candra, a mountain, 8/97-98 Candraśarman, master of Abhinavagupta, 37/62
 cāndrāyaṇa, a penance, 15/540cd-545 Caritra, a sacred place, 29/59-63, 66-67 
 
 Caryākulatantra, Śaiva scripture, 29/164-166ab 
@@ -1221,7 +1221,7 @@ Chakra, mountains, 8/97-98 Chagalānṇda, deity, 16/114-116 Chāgalāsya, deity
 
 Jains, 4/25cd-27; 13/303-306; 35/26-27 jada (insentient, inert), 1/176cd-178ab; 10/133cd-135ab; 17/16-18ab Jaitra, Siddha, 29/29cd-33ab Jālandhara, 15/92-93ab Jalpeśa, deity of the fire principle, 8/441acd-442ab Jambūdvīpa, 8/62cd-63ab, 71, 93-898, 103cd-104, 110 Janaloka, 6/142cd-145ab, 8/151cd-153ab Jananāśaka, one of the Lords of Wrath, 8/235cd-237 Jārudhi, mountain, 8/63cd-67 Jaṭhara, mountain, 8/63cd-67 jāti, a possible constituent element of mantra, 15/463cd-466ab; 30/10cd-1 lab, 43cd-45ab Jaya, the world of Bhadrakāli, 8/193-196ab Jaya, a deity, 33/14cd-17ab; 37/39
 Jayā, 33/3-5 Jayada, 33/14cd-17ab Jayakīrti, one of the fifty Rudras,33/14cd-17ab Jayamūrti, 33/14cd-17ab Jayanta, one of the fifty Rudras, 33/14cd-17ab Jayantī, a sacred place, 15/89-91; 29/59-63 Jayarudra, one of the fifty Rudras, 33/14cd-17ab Jayāvaha, one of the fifty Rudras, 33/14cd-17ab Jayavardhana, one of the fifty Rudras, 33/14cd-17ab Jayotsāha, one of the fifty Rudras, 33/14cd-17ab Jjīmūta, clouds, 8/122cd-139ab jñānabodhā, a kalā, 8/383-389; 15/305-306 Jñānaratnāvalī, 27/11
-\[illegible\] an energy, 8/373a-376; 15/305-306 Jñānottaratantra, 
+Jñānī, an energy, 8/373a-376; 15/305-306 Jñānottaratantra, 
 
 9/45cd-48ab; 23/20cd-23ab; 27/6-8; see also Sarvajñānottaratantra jṁñānin (man of knowledge, kower of reality, tattvavid), 15/12-13; 20/8-10ab; 21/59-60; 26/55cd-56ab; compared to a yogi, 10/138-140ab, 242-281ab; 13/326cd-340; 28/60cd-75ab, 417cd-423ab; as opposed to a ritual agent, 23/13cd-28, 1000cd-101ab; 29/129cd-130ab; superior to the yogi and the ritual agent, 15/8-19; 28/72-75ab, death of the -, 28/303-309 Jvālinī, 8/373cd-376; 15/305-306; 32/4-6ab, 27-29 jyeṣtha, the month (May-June), 28/36-39ab Jyeṣthā, the goddess, 6/52, 56-57; 8/338cd-339ab, 355cd-357ab, 373cd-376, 450cd-451; 15/305-306; 21/56cd-57ab Jyotis, a god, 8/272-273ab, 447-448 Jyotiṣmat, king of Krauñca, 8/103cd-104; 16/117-125ab Jyotsnā, kalā, 8/383-389 Jyotsnāvati, kalā, 8/383-389 
 

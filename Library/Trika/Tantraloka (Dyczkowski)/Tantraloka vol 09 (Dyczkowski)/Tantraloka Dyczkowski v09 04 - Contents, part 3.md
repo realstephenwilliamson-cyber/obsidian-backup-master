@@ -118,7 +118,7 @@ Manuscript
 
 Maālinīvijayottaratantra Maālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mṛgendratantra Mṛgendratantravṛtti Kriyāpāda Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātrimśika) 
 
-Parātri Pānṇini’s \[illegible\] the Aṣtādhyāyī. 
+Parātri Pānṇini’s Sūtras, the Aṣtādhyāyī. 
 
 Pūrvakāmikā Paramārthasāra Pramānavārtika Pramānṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasanṁgraha Rgveda Śatapathabrāhmanṇa Sāvarabhāṣya Sarvajñānottara Sva/Subodhodayamañjarī Swami Laksmanjoo Science of Light Saṁvitprakāśa SāhnKā 
 

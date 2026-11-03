@@ -206,7 +206,7 @@ C) The Seal of the Skyfarer (khecarī) According to the Vīrāvalītantra, verse
 
 D) The Seal of the Skyfarer According to the Kāmikatantra, verses 
 
-\[illegible\] pages 157-158 
+47cd-48, pages 157-158 
 
 E) The Seal of the Skyfarer According to the Kulagahvaratantra, verses 49-53, pages 158-161 
 
@@ -284,7 +284,7 @@ Bestows the Full Fruit, verses 1-5, pages 227-228 The Scripture Whose Teachings 
 
 Lower Teachings are Imparted by Those with a Corresponding Limited 
 
-Knowledge, verses 7-9, pages 229-230 The Types and Superiority of the Śaivāgama, Especially that of the Left, verses 10-17, pages 230-233 The Four Collections of Scriptures \[illegible\] and the Excellence of the Vidyāpītha, verses 18-25ab, pages 233-237 The Excellence of Trika Kaulism, verses 25cd-28, pages 237-238 The Transmission of Immediate Realization, verses 29-33ab, pages 238-240 The Concluding Verses 
+Knowledge, verses 7-9, pages 229-230 The Types and Superiority of the Śaivāgama, Especially that of the Left, verses 10-17, pages 230-233 The Four Collections of Scriptures (pīṭha) and the Excellence of the Vidyāpītha, verses 18-25ab, pages 233-237 The Excellence of Trika Kaulism, verses 25cd-28, pages 237-238 The Transmission of Immediate Realization, verses 29-33ab, pages 238-240 The Concluding Verses 
 
 The Beauty and Spiritual Power of India, the Land of Kumārikā, verses 33-37, pages 240-242 
 

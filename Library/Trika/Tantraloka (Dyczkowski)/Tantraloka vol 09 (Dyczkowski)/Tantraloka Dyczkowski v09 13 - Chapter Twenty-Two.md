@@ -69,7 +69,7 @@ sa tatraiva niyoktavyo dīkṣākāle tatas tv asau || 3 ||
 phalaṁ sarvar samāsādya śive yukto ‘pavṛjyate |
 ayukto ‘py ūrdhvasahśuddhiṁn saṁprāpya bhuvaneśataḥ ॥ 4 ॥
 suddhaḥ śivatvam āyāti dagdhasaisārabandhanaḥ |
-uktvā \[illegible\] \[illegible\] coktam etad vaidāntikaṁ mayā ॥ 5 ॥
+uktvā puṁdhāraṇāṁ coktam etad vaidāntikaṁ mayā ॥ 5 ॥
 kapilāya purā proktaṁ prathame paṭale tathā |
 anena kramayogena samprāptaṁi paraman padam ॥ 6 ॥
 na bhūyaḥ paśutāmeti śuddhe svātmani tiṣthati \\ 
@@ -208,7 +208,7 @@ snātaṁ saṁiprokṣayed arghapātrāmbhobhir anantaram ॥ 18 ॥
 pañcagavyaṁ dantakāṣthaṁ tatas tasmai samarpayet |
 tatas tan baddhanetrar ca praveśya pranipātayet ॥ 19 ॥ 
 
-Having made his (disciple) fast, the following day (the teacher) worships (the Lord) on the sacrificial surface with the (basic) common Mantras, and having done so, tells (the Lord his disciple’s) life story (vartinī). (He then says:) “He was previously marked with sectarian signs, (but) is now impelled by You, well disposed (towards him), grace him as is befitting (samyak) (to him). May he not (need to) observe a penance as a result of doubts (that may) arise by his abandoning his own sectarian signs. Having become of Your nature, may he quickly attain (every) worldly benefit and liberation!”[^648] (Then,) having received the Lord’s consent \[illegible\] (with the words) “may it be so!”, (the teacher) removes (his obligation to observe his previous) vow and, having done so, places him in water, and should then make him bathe accordingly. After that, once he has bathed, (the teacher) should sprinkle him with water from the sacrificial vessel 
+Having made his (disciple) fast, the following day (the teacher) worships (the Lord) on the sacrificial surface with the (basic) common Mantras, and having done so, tells (the Lord his disciple’s) life story (vartinī). (He then says:) “He was previously marked with sectarian signs, (but) is now impelled by You, well disposed (towards him), grace him as is befitting (samyak) (to him). May he not (need to) observe a penance as a result of doubts (that may) arise by his abandoning his own sectarian signs. Having become of Your nature, may he quickly attain (every) worldly benefit and liberation!”[^648] (Then,) having received the Lord’s consent (ājñā), (with the words) “may it be so!”, (the teacher) removes (his obligation to observe his previous) vow and, having done so, places him in water, and should then make him bathe accordingly. After that, once he has bathed, (the teacher) should sprinkle him with water from the sacrificial vessel 
 
 [^647]: Read śrāvanṇaṁ for śravanaṁ.
 
@@ -300,7 +300,7 @@ tacchravaṇaṁ ca devāya kṣamasveti visarjanam |
 
 Having encapsulated the name (of his disciple) with the Mantra that is being worshipped (in this way, he inserts it in the following mantra), appropriately 
 
-modified according to the particular case. PRĀYAŚCITTAM ŚODHAYĀMI \[illegible\] SVĀHĀ.[^654] Having offered a hundred or one thousand oblations (whilst uttering this Mantra), he casts a plenary oblation (into the fire) with the same procedure, ending with (the mantra) VAUṢAT. Then, having invoked the Lord of the Vow, saying OM VRATEŚVARĀYA NAMAH,[^655] he should then worship him and declare: “By Śiva’s command you should not do anything to him.” Then libation should be offered to the Lord of the Vow (with an oblation) that ends with the mantra SVĀHĀ. Having asked his pardon, he should be discharged, and so too the fire after that. (The procedure is in two parts): first the declaration to the deity, and then (the deity’s) discharge (with the words) “please pardon (him).” (23-27ab) 
+modified according to the particular case. PRĀYAŚCITTAM ŚODHAYĀMI PHAṬ SVĀHĀ.[^654] Having offered a hundred or one thousand oblations (whilst uttering this Mantra), he casts a plenary oblation (into the fire) with the same procedure, ending with (the mantra) VAUṢAT. Then, having invoked the Lord of the Vow, saying OM VRATEŚVARĀYA NAMAH,[^655] he should then worship him and declare: “By Śiva’s command you should not do anything to him.” Then libation should be offered to the Lord of the Vow (with an oblation) that ends with the mantra SVĀHĀ. Having asked his pardon, he should be discharged, and so too the fire after that. (The procedure is in two parts): first the declaration to the deity, and then (the deity’s) discharge (with the words) “please pardon (him).” (23-27ab) 
 
 #### Viveka on 22.23–27
 
@@ -493,7 +493,7 @@ vijñānadāne tac chiṣyo yogyatāmi darśayen nijām |
 sarvathā tv abruvann eṣa bruvānṇo vā viparyayam || 38 ||
 ajño vastuta eveti tat tyaktvetthaṁ vidhi caret | 
 
-Even once a true teacher has been found, if he does not know the state (of the disciple’s) aptitude to receive the knowledge (of the scriptures) (and wants to ascertain it), the disciple is obliged to show him his own competence (to do \[illegible\][^667] Nevertheless, even if (the disciple) says nothing or says (something) that is contrary (to the teaching) (viparyaya), (the teacher, reflecting that) he is in fact ignorant (by nature) (vastutaḥ), abandoning that (inquiry), should apply the procedure in this way. (37cd-39ab) 
+Even once a true teacher has been found, if he does not know the state (of the disciple’s) aptitude to receive the knowledge (of the scriptures) (and wants to ascertain it), the disciple is obliged to show him his own competence (to do so).[^667] Nevertheless, even if (the disciple) says nothing or says (something) that is contrary (to the teaching) (viparyaya), (the teacher, reflecting that) he is in fact ignorant (by nature) (vastutaḥ), abandoning that (inquiry), should apply the procedure in this way. (37cd-39ab) 
 
 #### Viveka on 22.37–39
 
@@ -651,7 +651,7 @@ This should be contemplated by:
 सर्वज्ञाननिधानं तु गुरु संप्राप्य सुस्थितः ॥ ४७ ॥
 तमेवाराधयेद्धीमास्तत्तज्जज्ञासनोन्मुखः ।
 
-sarvajñānanidhānar tu \[illegible\] saṁprāpya susthitaḥ ॥ 47 ॥ 
+sarvajñānanidhānar tu guruṁ saṁprāpya susthitaḥ ॥ 47 ॥ 
 
 The wise and fortunate one (susthita) who, having attained a teacher who is a treasure of all knowledge, should worship him (and render him propitious), intent as he is with the desire of knowing each and everything. (47cd-48ab) 
 

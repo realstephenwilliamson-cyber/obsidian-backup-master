@@ -42,7 +42,7 @@ Qualities Required of a Teacher
 स्वभ्यस्तज्ञानिनं सन्तं बुभूषुमथ भाविनम् ।
 योग्यं ज्ञात्वा स्वाधिकारं गुरुस्तस्मै समर्पयेत् ॥ ३ ॥
 
-\[illegible\] putrakadīkṣoktā gurusādhakayor api | 
+yaiṣā putrakadīkṣoktā gurusādhakayor api | 
 
 ivādhikārinī bhogyatattvayuktimatī kramāt || 2 ॥ 
 
@@ -124,7 +124,7 @@ paśvātmanā svayarṁbhūṣnur nādhikārī sa kutracit |
 
 [^684]: This reference to the SYM is not found in the short recension.
 
-[^685]: One may understand ṣodhā to mean the sixfold deposition. It is basic common practice to project six depositions of mantras onto the body, both on the outside of it and internally onto the subtle body within it. However, an enclitic, such as ca (= \[illegible\] or the like is required to indicate that that is the meaning unambiguously. But that may be missing simply in order to maintain the metre. The Path is indeed ‘sixfold’, but it is hard to understand how the connection of the Path and the soul to it is such.
+[^685]: One may understand ṣodhā to mean the sixfold deposition. It is basic common practice to project six depositions of mantras onto the body, both on the outside of it and internally onto the subtle body within it. However, an enclitic, such as ca (= (= ‘and’) or the like is required to indicate that that is the meaning unambiguously. But that may be missing simply in order to maintain the metre. The Path is indeed ‘sixfold’, but it is hard to understand how the connection of the Path and the soul to it is such.
 
 [^686]: Read jñānar prādhānyam for jñānaprādhānyam.
 
@@ -275,7 +275,7 @@ Nor have we stated just our own idea. Thus, he says:
 
 कप्यभिप्रायतः सर्वं तदिति व्याचचक्षिरे ।
 
-guravas tu \[illegible\] 
+guravas tu svayaṁbhvādi 
 
 ### TĀ 23.15–16
 
@@ -379,13 +379,13 @@ seven sacrifices (saptasatrin)
 
 #### Viveka on 23.20–22
 
-[^711]: The word \[illegible\] means vaiśya — a man of the third caste.
+[^711]: The word viś means vaiśya — a man of the third caste.
 
 [^712]: Read jñānadāne for jñānakāle. Sce previous note. Also cf. TĀ 22/38a, where we find the expression vijñānadāne. See above 22/37cd-39ab.
 
 [^713]: One could also translate ‘whose root is knowledge’.
 
-[^714]: Cf. NT 22/71cd-72ab. deyam etat svaśiṣyānāṁ svaputrāṇāṁ na cānyathā || NT 22/71 ॥ svadīkṣitānām bhaktānāīi gurudevāgnipūjinām | svayaṁ śāsitum aṁāṇāḥ \[illegible\] ca, na cādhyāpitamantrānām, api tu svayaṁ dīkṣitīnām bhaktyādiyujāmh svaputrāṇnām api tādṛśām evaitad deyam ārādhanāya tattvataḥ prakāśanīyam || sāsanāṁāya, api cātyantamanunmiṣitavivekāya, asańbhavadvittíāya vā vinā samayadīkṣāṁ ca na dadyāt........ iti śrīkāmikoktasthityonmiṣacchivabhaktaye suparīkṣitāmālyacittāya api vā kṛtasamayadīkṣāya tad vidhānaṁ deyam eva, na tu dīkṣāṁ vinā jātucit | uktaṁ ca Śrīmālinīvijaye ña cādhikāritā \[illegible\] vinā yoge.asti śāṁkare | ity upakramyā api mantrādhikāritvaṁ muktiś ca śivadīkṣayā | (MV 4/6-8) iti ॥ a ṣvapriye pi ca | 22/72 ॥ sarvathā naiva dātavyamityājñā pārameśvarī | This (procedure vidhāna) should be given to one’s own disciples and sons, not otherwise, (it should be given) to one’s own initiates, devotees and those who worship the teacher, gods and the (sacred) fire.” (NT 22/71cd-72ab) (it should be given) to such as are his own worthy disciples he himself has taught, not to those who have leart Mantras (by themselves), rather to those who have been initiated and are devout, so too to his own sons. It should be revealed so that they may worship correctly. ‘Without the (regular, basic) Initiation into the Rule, it should not be given’ (even to) one who is worthy of the teachings, or to one whose discernment (viveka) is extremely undeveloped, or one for whom it is impossible (to have the) money (to cover the cost). Then Kṣemarāja quotes the equivalent of TĀ 23/20cd-22ab (see above note 23,31). He continues: ‘Thus, according to the stated view of the venerable Kāmika that this procedure should be given to one whose devotion for Siva has developed, so too to one whose mind is pure and well examined, but never in any circumstance without initiation. It is also said in the Māli jaya, beginning with: “There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation’ up to “(Moreover, (initiation) is said to be of two kinds, in accord with the distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said, because that (initiation) should be performed in the two (corresponding) ways. Śiva’s initiation not only confers entitlement (to fruits of) yoga (and its practice),) it also (confers the) authority (to practice) mantras as well as liberation (itself). (MV 5/6-8) “(It should not be given without initiation,) even to one’s own beloved. The Supreme Goddess commands that it should not be given in every way (to anybody).” (NT 22/72d-73ab)
+[^714]: Cf. NT 22/71cd-72ab. deyam etat svaśiṣyānāṁ svaputrāṇāṁ na cānyathā || NT 22/71 ॥ svadīkṣitānām bhaktānāīi gurudevāgnipūjinām | svayaṁ śāsitum aṁāṇāḥ śiṣyāṇāṁ ca, na cādhyāpitamantrānām, api tu svayaṁ dīkṣitīnām bhaktyādiyujāmh svaputrāṇnām api tādṛśām evaitad deyam ārādhanāya tattvataḥ prakāśanīyam || sāsanāṁāya, api cātyantamanunmiṣitavivekāya, asańbhavadvittíāya vā vinā samayadīkṣāṁ ca na dadyāt........ iti śrīkāmikoktasthityonmiṣacchivabhaktaye suparīkṣitāmālyacittāya api vā kṛtasamayadīkṣāya tad vidhānaṁ deyam eva, na tu dīkṣāṁ vinā jātucit | uktaṁ ca Śrīmālinīvijaye ña cādhikāritā dīkṣāṁ vinā yoge.asti śāṁkare | ity upakramyā api mantrādhikāritvaṁ muktiś ca śivadīkṣayā | (MV 4/6-8) iti ॥ a ṣvapriye pi ca | 22/72 ॥ sarvathā naiva dātavyamityājñā pārameśvarī | This (procedure vidhāna) should be given to one’s own disciples and sons, not otherwise, (it should be given) to one’s own initiates, devotees and those who worship the teacher, gods and the (sacred) fire.” (NT 22/71cd-72ab) (it should be given) to such as are his own worthy disciples he himself has taught, not to those who have leart Mantras (by themselves), rather to those who have been initiated and are devout, so too to his own sons. It should be revealed so that they may worship correctly. ‘Without the (regular, basic) Initiation into the Rule, it should not be given’ (even to) one who is worthy of the teachings, or to one whose discernment (viveka) is extremely undeveloped, or one for whom it is impossible (to have the) money (to cover the cost). Then Kṣemarāja quotes the equivalent of TĀ 23/20cd-22ab (see above note 23,31). He continues: ‘Thus, according to the stated view of the venerable Kāmika that this procedure should be given to one whose devotion for Siva has developed, so too to one whose mind is pure and well examined, but never in any circumstance without initiation. It is also said in the Māli jaya, beginning with: “There is no competence (adhikāritā) (to practice) Śaiva Yoga without initiation’ up to “(Moreover, (initiation) is said to be of two kinds, in accord with the distinction between (the practice based on the performance of ritual) action and (that conducive to the development of the) knowledge (of ultimate principles). Thus, this has been said, because that (initiation) should be performed in the two (corresponding) ways. Śiva’s initiation not only confers entitlement (to fruits of) yoga (and its practice),) it also (confers the) authority (to practice) mantras as well as liberation (itself). (MV 5/6-8) “(It should not be given without initiation,) even to one’s own beloved. The Supreme Goddess commands that it should not be given in every way (to anybody).” (NT 22/72d-73ab)
 
 
 *[p. 306]* ^pg326
@@ -501,7 +501,7 @@ of authority (when it is transmitted from teacher to disciple), and (conversely,
 
 *[p. 310]* ^pg330
 
-‘The former’ (type of teacher) is a man of knowledge \[illegible\] This is the meaning. (The teacher who has retired) is not afflicted, whether he acts (as a teacher) or does not. By (saying) this, he emphasizes that he is without restrictions. ‘Like one lamp (is lit) from (another) lamp’. The intended sense is that when another lamp is generated, there is no difference at all in the luminosity of (that) lamp (with respect to the one from which it has been lit). ‘Previously’, when he has not renounced (his) authority. 
+‘The former’ (type of teacher) is a man of knowledge (jñānin). This is the meaning. (The teacher who has retired) is not afflicted, whether he acts (as a teacher) or does not. By (saying) this, he emphasizes that he is without restrictions. ‘Like one lamp (is lit) from (another) lamp’. The intended sense is that when another lamp is generated, there is no difference at all in the luminosity of (that) lamp (with respect to the one from which it has been lit). ‘Previously’, when he has not renounced (his) authority. 
 
 He quotes that book (i.e. the Siddhayogeśvarīmata). 
 
@@ -513,7 +513,7 @@ Teacher’s Duty to Liberate His Disciple
 न चावज्ञा क्रियाकाले संसारोद्धरणं प्रति ॥ २९ ॥
 न दीक्षेत गुरुः शिष्यं तत्त्वयोग्यं तु गर्वतः योऽस्य स्यान्नरके वास इह च व्याधितो भवेत् ॥ ३० ॥
 
-yathārtham \[illegible\] tu kurvann ācārya \[illegible\] \[illegible\] |
+yathārtham upadeśaṁ tu kurvann ācārya ucyate |
 na cāvajñā kriyākāle sasāroddharaṇari prati ॥ 29 ॥
 na dīkṣeta guruḥ śiṣyaṁ tattvayogyaṁ tu garvataḥ |
 yo ‘sya syān narake vāsa iha ca vyādhito bhavet ॥ 30 ॥ 
@@ -566,7 +566,7 @@ The (new) teacher who has (just) been consecrated should recite for six months t
 
 [^729]: Three of these four Bhairavas are, presumably, the partners of the three Goddesses. If so, the identity of the fourth Bhairava is not clear. Is he Svacchandabhairava?
 
-[^730]: See below, 30/20-28ab and notes for the three \[illegible\] 30/10cd-17 for their Bhairavas and note; and 30/45cd-46 for Mātṛsadbhāva.
+[^730]: See below, 30/20-28ab and notes for the three Vidyās; 30/10cd-17 for their Bhairavas and note; and 30/45cd-46 for Mātṛsadbhāva.
 
 [^731]: The printed edition of the Mālinīvijayottara reads caret instead of japet. MS G reads japet.
 
@@ -694,7 +694,7 @@ Once he has completed his Vow of the Observance of the Vidyā, he is competent (
 
 kṛtavidyāvrataḥ paścād dīkṣāvyākhyādi sarvataḥ ॥ 41 ॥ kuryād yogyeṣu Siṣyeṣu nāyogyeṣu kadācana |
 rahasye yojayed vipra parīkṣya viparītataḥ ॥ 42 ॥
-\[illegible\] chaktim apy eva nānyathety ūrmiśāsane | 
+ācārāc chaktim apy eva nānyathety ūrmiśāsane | 
 
 (A teacher who) has completed the Vow of the Observance of Mantra should thereafter do (all that is required) in all respects, such as (impart) initiation and explain (the scriptures) to qualified disciples, (but) never to those who are not.[^740] (41cd-42ab) 
 
@@ -724,7 +724,7 @@ Similarly, as he is occupied with gracing others (and so has little time), he ma
 नित्याद्यल्पाल्पकं करयीद्यदुक्त ब्रह्मयामले ॥ ४३ ॥
 चीर्णविद्याव्रतः सर्व मनसा वा स्मरेत् प्रिये ।
 
-nityādy atyālpakari kuryād yad \[illegible\] brahmayāmale || 43 ॥
+nityādy atyālpakari kuryād yad uktaṁ brahmayāmale || 43 ॥
 cīrnavidyāvrataḥ sarvan manasā vā smaret priye | 
 
 (The teacher) may perform (his own) regular daily rites etc very briefly.[^744] As is said in the Brahmayāmala: ‘O beloved! he who has observed the Vow of the (Observance of the) Vidyā may, alternatively, recollect all (the rite) mentally.’[^745] (43cd-44ab) 
@@ -869,9 +869,9 @@ Again, one who is not known (to be fickle) in this way at the time when he is be
 
 ajñāte ‘pi punar jñāte vijñïānaharaṇar caret ॥ 51 ॥
 punaḥ punar yadā jñāto viśvāsaparivarjitaḥ |
-\[illegible\] samagrato dhyāyet sphurantari candrasūryavat || 52 ||
+tadā samagrato dhyāyet sphurantari candrasūryavat || 52 ||
 tato nijahṛdambhojabodhāmbarataloditām |
-svarbhānumalinām dhyāyed vāmār \[illegible\] vimohanīm ॥ 53 ॥
+svarbhānumalinām dhyāyed vāmār śaktiṁ vimohanīm ॥ 53 ॥
 vāmācārakrameṇainām nihsṛtār sādhyagāminīm |
 cintayitvā tayā grastaprakāśari tarn vicintayet ॥ 54 ॥
 anena kramayogena mūdhabuddher durātmanaḥ |
@@ -892,7 +892,7 @@ present before him, shining like the Sun or Moon. He should imagine that Vāmā,
 
 The sense (of saying) ‘repeatedly’ is that here (in this case) also, (the situation) may not be otherwise (than it seems to be). The (expression) ‘movement in reverse’ means the sequence of withdrawal. That is said (in the Mālinīvijayottara): 
 
-[^754]\[illegible\] the disciple has) taken[^755] knowledge (jñāna) in a proper (honest) way (nyāyena) but subsequently fails to understand it, the wise (teacher) should 
+[^754]‘(If the disciple has) taken[^755] knowledge (jñāna) in a proper (honest) way (nyāyena) but subsequently fails to understand it, the wise (teacher) should 
 
 [^751]: Concerning Rāhu and eclipses, see above, 6/100cd-102ab (100-101).
 
@@ -916,7 +916,7 @@ Surely, (one may object,) knowledge and action are the (very) nature of the Self
 ननु विज्ञानमात्मस्थं कथं हर्तु क्षमं भवेत् ।
 अतो विज्ञानहरणं कथं श्रपूर्व उच्यते ॥ ५६ ॥
 
-nanu vijñïānam ātmasthaḥ \[illegible\] hartuṁ kṣamaṁ bhavet |
+nanu vijñïānam ātmasthaḥ kathaṁ hartuṁ kṣamaṁ bhavet |
 ato vijñïānaharaṇam kathan śrīpūrva ucyate ॥ 56 ॥ 
 
 Surely (one may ask), how can one remove the knowledge that is present in the Self? So how is it that the removal of knowledge (from a deceitful disciple’s) soul is taught in the Śrīpūrva (Mālinīvijayottara)?[^756] (56) 
@@ -997,7 +997,7 @@ As (the teacher is a veritable embodiment) of the supreme good (śreyas) in this
 अत एव शिवे शाख ज्ञाने चाश्वासभाजनम् ।
 गुोर्मृढतया कोपधामापि न तिरोहितः ॥ ६२ ॥
 
-ata eva śive \[illegible\] jñāne cāívāsabhājanam |
+ata eva śive śāstre jñāne cāívāsabhājanam |
 guror mūdhatayā kopadhāmāpi na tirohitaḥ ॥ 62 ॥ 
 
 Thus, for this reason, (a disciple who once) had faith in Śiva, the scriptures and knowledge, (but his consciousness) is (now) obscured by (his) stupidity, (should take care) not to be also the object of (his) teacher’s wrath.[^760] (62) 
@@ -1079,7 +1079,7 @@ Here (in the case) of one who himself desires to obscure (himself), nothing else
 ईशेच्छाचोदितः पाशं यदि कण्ठे निपीडयेत् ।
 किमाचार्येण तत्रास्य काय स्यात्सहकारिता ॥ ६६ ॥
 
-Tśecchācoditaḥ \[illegible\] yadi kanthe nipīdayet |
+Tśecchācoditaḥ pāśaṁ yadi kanthe nipīdayet |
 kim ācāryenṇa tatrāsya kāryā syāt sahakāritā ॥ 66 ॥ 
 
 If he ties a noose around his neck impelled by the Lord’s will (to do so), should the teacher’s task be to help him (hang himself)? (66) 
@@ -1237,7 +1237,7 @@ If he is not rescued by (his original teacher,) who has (access) to the upper pl
 
 “A lotus that has closed[^770] because the rays of the sun are weak or absent, does not blossom even in the presence of the great energies of (many) other 
 
-[^767]: PMNKĀā translation p. 346 note 482. According to Harunaga Isaacson, the sense of \[illegible\] here is ‘clearly’. But that sense is not warranted by the context of Abhinava’s statement, unless we accept that Jayaratha has chosen to understand Abhinava in this way. Rather Abhinava uses the word tāvat in the common sense of ‘as such’ or ‘as much 257, which in this context can be translated as ‘just the same.’ Jayaratha simply comments that this is commonly accepted. The teacher is such or ‘this much’, that is, as capable of obscuring as gracing. We may perhaps construe that there are two teachers of equal capacity, but that possibility is precluded by what Abhinava says in what follows.
+[^767]: PMNKĀā translation p. 346 note 482. According to Harunaga Isaacson, the sense of tāvat here is ‘clearly’. But that sense is not warranted by the context of Abhinava’s statement, unless we accept that Jayaratha has chosen to understand Abhinava in this way. Rather Abhinava uses the word tāvat in the common sense of ‘as such’ or ‘as much 257, which in this context can be translated as ‘just the same.’ Jayaratha simply comments that this is commonly accepted. The teacher is such or ‘this much’, that is, as capable of obscuring as gracing. We may perhaps construe that there are two teachers of equal capacity, but that possibility is precluded by what Abhinava says in what follows.
 
 [^768]: Cf, above, 22/13.
 
@@ -1430,7 +1430,7 @@ Those Who are Graced May Remove their Own Obscuration to Some Degree
 श्रीमात्धे तदुक्तं च नाधीतं भूमभीतितः ॥ ८९ ॥
 17114147) 
 
-\[illegible\] tad \[illegible\] ca nādhītaṁ bhūmabhītitaḥ ॥ 89 ॥ 
+śrīmātaṅge tad uktaṁ ca nādhītaṁ bhūmabhītitaḥ ॥ 89 ॥ 
 
 The same is said in the venerable Mataṁga. It is not cited (here) for fear of being too verbose. (89cd) 
 
@@ -1555,7 +1555,7 @@ And that must necessarily be observed by the teacher. Accordingly, he says:
 इत्येष यो गुरः प्रोक्तो विधिस्तं पालयेद् गुरुः देवता ।
 अन्यथा न शिवं यायाच्छीमत्सारे च वर्णितम् ॥ ९६ ॥
 
-ity eṣa yo guroḥ prokto vidhis \[illegible\] pālayed guruḥ |
+ity eṣa yo guroḥ prokto vidhis taṁ pālayed guruḥ |
 anyathā na śivaṁ yāyāc chrīmatsāre ca varnitam || 96 ॥ 
 
 [^779]: The expression sann api may be applied to both tirobhūtaḥ and punar unmukhitaḥ. In other words, someone who was previously obscured may subsequently become propense to achieve liberation. Conversely, one who was previously propense to achieve liberation may be subsequently obscured.
@@ -1578,7 +1578,7 @@ The Categories of Those Deceitful Teachers (tadvibhāgaḥ)
 अन्यायं ये प्रकुर्वन्ति ग्रन्थार्थ नार्थयन्ति ये ।
 तेऽ्धनारीशपुरगा गुरवः समयच्युताः ॥ ९७ ॥
 
-\[illegible\] ye prakurvanti śāstrārthaṁ varjayanty alam |
+anyāyaṁ ye prakurvanti śāstrārthaṁ varjayanty alam |
 te ‘rdhanārīśapuragā guravaḥ samayacyutāḥ ॥ 97 ॥ 
 
 ‘Those teachers who have fallen from their pledges (samaya), behave unlawfully, and do not observe the teaching of the scriptures (Śāstrārtha) properly, go to the world of Ardhanārīśa.’ (97) 
@@ -1604,7 +1604,7 @@ That is not only said here; it is also (said) in other scriptures. Accordingly, 
 अन्यत्र समयत्यागात् क्रव्यादत्वं शतं समाः ॥ ९८ ॥
 
 anyatrāpy adhikāraṁ na kuryād vidyeśatāṁ vrajet |
-anyatra samayatyāgāt kravyādatvaṁ \[illegible\] samāḥ || 98 ॥ 
+anyatra samayatyāgāt kravyādatvaṁ śataṁ samāḥ || 98 ॥ 
 
 (It is) also (said) elsewhere (in a Bhairava Tantra) that ʻa teacher who does not (fulfil the responsibilities of his)[^783] office (adhikāra) will assume the condition of a Vidyeśvara (when he dies).’ Elsewhere (that is, in the Ānandagahvara, it is said) that by abandoning the pledges ‘one becomes a carnivorous demon for one hundred years’.[^784] (98) 
 
@@ -1651,7 +1651,7 @@ He (now) says that here too there is a (further) division of the subject (at han
 एषा कर्मप्रधानानां गुरूणां गतिरुच्यते ॥ १०० ॥
 ज्ञानिनां चैष नो बन्ध इति सर्वत्र वर्णितम् ।
 
-\[illegible\] karmapradhānānāṁ gurūünāṁ gatir ucyate ॥ 100 ॥
+eṣā karmapradhānānāṁ gurūünāṁ gatir ucyate ॥ 100 ॥
 jñāninām caiṣa no bandha iti sarvatra varṇitam | 
 
 This is said to be the condition (gati) of the teachers who are predominantly concerned with ritual. It is said everywhere (in all the scriptures that) there is no (such) restriction for those (teachers) who are men of knowledge (jñānin). (100cd-101ab) 

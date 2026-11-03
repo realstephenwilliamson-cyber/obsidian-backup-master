@@ -59,7 +59,7 @@ hy etat \[k, kh: ataḥ\] pūjākramaī vakṣye svadehe jñānapaddhatim |
 
 ‘The Six Wheels, the Sixteen Supports, the Three Signs and the Five Voids ~ this is the sequence of worship (pājākrama) — I will explain the liturgy of knowledge within one’s own body.’ SKh 15/2 
 
-The first line of this verse recurs repeatedly in the Kubjikā sources as well as Tantras of other schools. Although eclipsed by the focus in the later traditions on the Six Wheels, the Sixteen Supports, the Three Signs and the Five Voids weere considered to be, no less than the Six Wheels, basic features of the subtle body. Thus, after presenting the mantras of the Six Wheels and the Sixteen Supports, the same line comes again, to which the Siddhakhanda adds: ‘how can one who does not know (these four) in the body be a Kaulika?’ \[illegible\] yo na jānāti sa kathan kaulikocyate \[g: kaulikathyate\] \\\\). Indeed, these are the Kaula adept’s body. Thus, the \[illegible\] explains these categories extensively in the course of commenting on the Sūtra of the Body which introduces the subject (uddeśa) with a similar verse that begins with the same standard line to conclude that: 
+The first line of this verse recurs repeatedly in the Kubjikā sources as well as Tantras of other schools. Although eclipsed by the focus in the later traditions on the Six Wheels, the Sixteen Supports, the Three Signs and the Five Voids weere considered to be, no less than the Six Wheels, basic features of the subtle body. Thus, after presenting the mantras of the Six Wheels and the Sixteen Supports, the same line comes again, to which the Siddhakhanda adds: ‘how can one who does not know (these four) in the body be a Kaulika?’ (śarīre yo na jānāti sa kathan kaulikocyate \[g: kaulikathyate\] \\\\). Indeed, these are the Kaula adept’s body. Thus, the Ṭīkā explains these categories extensively in the course of commenting on the Sūtra of the Body which introduces the subject (uddeśa) with a similar verse that begins with the same standard line to conclude that: 
 
 sarīraṁ yo hi \[kh: bhi\] jānāti sa bhavet \[kh: -k\] kulanandanaḥ ॥ Tīkā fl. 147a ‘He who knows the body is the beloved of the family (of initiates) 
 
@@ -94,7 +94,7 @@ udgattayed \[all MSs: udgataye\] viṣādhāram \[k g gh: viṣadharā; kh: vi�
 
 APPENDIX A CHAPTER NINETEEN 
 
-kampayed akhilām \[k gh: akhitnā; kh: -lā?\] \[illegible\] \[k, kh, gh: corvī; g: codvī\] sarvādhārasthitaḥ \[g: -sthita; gh: sarvadhāla-\] priye |
+kampayed akhilām \[k gh: akhitnā; kh: -lā?\] corvīṁ \[k, kh, gh: corvī; g: codvī\] sarvādhārasthitaḥ \[g: -sthita; gh: sarvadhāla-\] priye |
 ākṛṣya sarvalokānār pātālavivaraṁ \[k g gh: -vicararni\] viset |
 stambhayet sarvasainyāni saikocastho \[k: sa-; all MSs: -sthe\] na saṁśayaḥ |
 dhvaṁsayed \[g: -saye; gh: dhvasayed\] duṣtacetārmsi \[k gh: -cetāsi\] unmūlaṁ \[ g: unmūla; k gh: utmūla\] pratipādayan \[k, kh, gh: pratipādapān; g: patipādapān\] |
@@ -115,7 +115,7 @@ kūrmādhārasamādhistho \[k gh: kurmodhāra-\] yogī parapuraṁ vrajet |
 sarujār \[g: sarujyāmi\] nirujār \[g: nirujyaṁ\] caiva nirujaṁ \[k, kh, gh: -jām; g: nirujyari\] sarujaṁ priye \\l sthito jīvaputādhāre sādhako \[gh: -kā\] yogacintakaḥ \[k, kh: -cittakah\] |
 nidhanaṁ yasyate \[all MSs: pasyate\] sarvar sarvasiddhīśvaro bhavet |
 lolākhyaṁ sthānam āsādya bhogāni vividhāni ca |
-prāpnoti sādhakaḥ kṣipraṁni nātra \[illegible\] \[k g gh: kārya; kh: kāryā\] vicāraṇam \[k g gh: vicāraṇāt; kh: -ranṇā\] ||
+prāpnoti sādhakaḥ kṣipraṁni nātra kāryaṁ \[k g gh: kārya; kh: kāryā\] vicāraṇam \[k g gh: vicāraṇāt; kh: -ranṇā\] ||
 lambikāntasthito \[g: lambi \* ntasthito\] yogī kṣutpipāsam alaṁ \[k: -sa \* lam\] haret \[k, kh, gh: daret\] \\ rasar rasāyanaṁ \[k: rayāyanami\] siddhaṁ labhate mṛtyujid bhavet ||
 guruvaktraguhāntasthaḥ \[all MSs: -tastha\] sādhako vigataspṛhaḥ |
 avināśatanur bhūtvā \[all MSs: avināsa-\] prāpnoti paraman padam ||
@@ -175,7 +175,7 @@ svānandarasasatipūrnaḥ \[k g gh: -sahpūrnami\] krīdate ‘nantavarcasaḥ 
 
 8\) The Herb of Immortality (saṁjīvanī): One who has entered (the Support of) the Herb of Immortality attracts (all to himself) by the control (he has on others) by disturbing (their) minds. (He has the power to) prevent premature death and brings about the awakening that takes place by the initiation by piercing (of the inner centres). 
 
-9\) The Support of the Tortoise (kārmādhāra): This Support is said to be ‘present in touch’ \[illegible\] (CMSS 4/34c). The yogi who is established in the contemplation of the Support of the Tortoise enters another’s body (at will). O beloved, (he transforms a woman) who has wrinkles to one without them, and a man without wrinkles to one who has them. 
+9\) The Support of the Tortoise (kārmādhāra): This Support is said to be ‘present in touch’ (sparśaga) (CMSS 4/34c). The yogi who is established in the contemplation of the Support of the Tortoise enters another’s body (at will). O beloved, (he transforms a woman) who has wrinkles to one without them, and a man without wrinkles to one who has them. 
 
 10\) The Capsule of the Soul (jīvaputa): This Support is the ninth in the summarial list of Supports that introduces their more detailed description. There it is said to be ‘the capsule that contains the soul of living beings’ (bhūtānām jīvasaṁputam) (CMSS 4/34b). The adept who contemplates Yoga and abides in the Support of the Capsule of the Soul is the lord of all accomplishments and brings all things to an end. 
 
@@ -219,11 +219,11 @@ After listing the Knots and Supports, the KMT and KRU declare in a common passag
 
 ‘The goddess has (these) sixteen limbs. She is Khecarī, the mistress of the Skyfarers. She resides in the lotus, in the middle of the lotus. Residing in Haṁsa, she moves with Haṁsa (KMT ‘transports Haṁsa’). The goddess is both with (manifest) energies (sakalā) and without (niṣkalā). Her body is made of thunder (vajradehā) and she is the Transmental (manonmanï)’? KMT 17/77-78ab (= KRU 5/14150ab) 
 
-The Sixteen Knots are then listed along with their locations, as follows: 1) Ananta — middle finger. 2) Kāla — ankles. 3) Raudrī — sole (of the feet?) 4) Jyeṣthā and Vāmā ~ (right and) left hips. 5) Kāma — foundation of the genitals. 6) Liṅga — just above (the location of the previous one). 7) Brahmā — above and below where the hairs of the body (roma) are located. 8) Soma — just above the previous one. 9) Sūrya — just above that again. 10) Prāṇa — just above. 11) Jīva —just above. Living beings live and die because of this. 12) Viṣṇu — throat. 13) Rudra — palate. 14) 159 — above that. 15) Sādākhya — above \[illegible\] 16) Māyā - above that flooded with the bliss of desire (icchānanda). 
+The Sixteen Knots are then listed along with their locations, as follows: 1) Ananta — middle finger. 2) Kāla — ankles. 3) Raudrī — sole (of the feet?) 4) Jyeṣthā and Vāmā ~ (right and) left hips. 5) Kāma — foundation of the genitals. 6) Liṅga — just above (the location of the previous one). 7) Brahmā — above and below where the hairs of the body (roma) are located. 8) Soma — just above the previous one. 9) Sūrya — just above that again. 10) Prāṇa — just above. 11) Jīva —just above. Living beings live and die because of this. 12) Viṣṇu — throat. 13) Rudra — palate. 14) 159 — above that. 15) Sādākhya — above trikūṭi. 16) Māyā - above that flooded with the bliss of desire (icchānanda). 
 
 The Tīkā, in accord with the source upon which it is commenting, presents an extensive projection of the Six Paths (ṣadadhvan), that is, the cosmic order and its mantric equivalents distributed systematically in the sixteen places in the body where the Supports are located. In this context, the Supports are understood to be extensive world orders (bhuvana) that contain lesser worlds and their corresponding Principles, energies, mantra, parts of mantra and letters, that constitute the Six Paths. The Supports are listed in the Sūtra of the Sixteen Supports, quoted in full by the Ṭīkā as part of the Sūtra of the Body (Dehasūtra). 
 
-Although their names and identity vary, the group of Sixteen Supports (ādhāra) is common to many Tantric and Kaula systems and is carried on to later Yoga traditions. In his commentary on the NT (7/1cd, see Dvivedi 1985: 111-113), Kṣemarāja presents their projection into the body in two modalities (prakriyā). For the first, which is presumably the Tantric, he simply lists the locations of the Supports, which in that modality serve to sustain the individual soul in the body. The locations in the body are practically the same as those listed in the 7\[illegible\] (Rai 1975: 33). They are: 1) Toe 2) Ankle 3) Knee 4) Anus (medhra) 5) Genitals (pāyu) 6) Root (kanda) 7) Channel of the vital breath (nāḍi) 8) Stomach 9) Heart 10) The Channel of the Tortoise (kūrmanādī) 11) Throat 12) Palate 13) Middle of the eyebrows 14) Forehead 15) Cavity of Brahmā 16) End of the Twelve. 
+Although their names and identity vary, the group of Sixteen Supports (ādhāra) is common to many Tantric and Kaula systems and is carried on to later Yoga traditions. In his commentary on the NT (7/1cd, see Dvivedi 1985: 111-113), Kṣemarāja presents their projection into the body in two modalities (prakriyā). For the first, which is presumably the Tantric, he simply lists the locations of the Supports, which in that modality serve to sustain the individual soul in the body. The locations in the body are practically the same as those listed in the 7Ṭīkā (Rai 1975: 33). They are: 1) Toe 2) Ankle 3) Knee 4) Anus (medhra) 5) Genitals (pāyu) 6) Root (kanda) 7) Channel of the vital breath (nāḍi) 8) Stomach 9) Heart 10) The Channel of the Tortoise (kūrmanādī) 11) Throat 12) Palate 13) Middle of the eyebrows 14) Forehead 15) Cavity of Brahmā 16) End of the Twelve. 
 
 Kṣemarāja goes on to quote from an unknown source a list of the Sixteen Supports according to the Kaula modality (prakriyā) in which they are said to sustain everything, not just the individual soul. There we read: 
 

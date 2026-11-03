@@ -27,7 +27,7 @@ The Pledges according to the Gamatantra"
 वृद्धायाः संस्थिताया वा न जुगुप्सेत मुद्रिकाम् ।
 वैकृत्यं तत्र सौरूप्यं मेककं न प्रकाशयेत् ॥ ५५९ ॥
 
-॥.. 41111 11111111 1 nirācārāḥ sarvabhakṣyā dharmādharmavivarjitāḥ | 556 Il svacchandagāḥ palāśinyo \[illegible\] devatā iva |
+॥.. 41111 11111111 1 nirācārāḥ sarvabhakṣyā dharmādharmavivarjitāḥ | 556 Il svacchandagāḥ palāśinyo laṁpaṭā devatā iva |
 veśyāḥ pūjyās tadgṛharhi ca prayāgo ‘tra yajet kramam || 557 ॥
 strīṣu tan nācaret kiñcid yena tābhyo jugupsate |
 ato na nagnās tāḥ paśyen na cāpi prakaṭastanīḥ ॥ 558 ॥
@@ -54,7 +54,7 @@ The same (is said) in the venerable Gamatantra: ‘(Women) should be venerated (
 sarvaparvasu sāmānyaviśeṣeṣu viíeṣatah ॥ 560 ॥
 pūjā guror anadhyāyo melake lokavarjanam | 
 
-One should worship the idol of a deity that is unadorned \[illegible\] (and abandoned, one happens to find) at a crossing of three roads, or some (similar place). The worship of the teacher is a break from study, (and should be performed) especially on all propitious times (parvan),[^853] both common and special.[^854] (When attending) (Kaula) gatherings (melaka),[^855] the world (of daily life) (loka) is (to be) abandoned.[^856] (560-561ab) (557cd-558) 
+One should worship the idol of a deity that is unadorned (śūnyatanu) (and abandoned, one happens to find) at a crossing of three roads, or some (similar place). The worship of the teacher is a break from study, (and should be performed) especially on all propitious times (parvan),[^853] both common and special.[^854] (When attending) (Kaula) gatherings (melaka),[^855] the world (of daily life) (loka) is (to be) abandoned.[^856] (560-561ab) (557cd-558) 
 
 ### TĀ 15.559–560
 
@@ -166,7 +166,7 @@ He on whom Mantra has not been deposited should not sit (to take part in the rit
 gṁopaskaraṇāstrāṇi devatāyāgayogataḥ |
 arcyānīti na padbhyāṁ vai spṛśen nāpi vilaṁghayet ॥ 570 ॥ 
 
-Household utensils and weapons are used for the sacrifice to the deities and so should be worshipped. They should not be touched with the feet, nor should one step over \[illegible\][^870] (570) (567cd-568ab) 
+Household utensils and weapons are used for the sacrifice to the deities and so should be worshipped. They should not be touched with the feet, nor should one step over them.[^870] (570) (567cd-568ab) 
 
 #### Viveka on 15.567–568
 
@@ -196,7 +196,7 @@ guruvarge gṁāyāte viśeṣan kañcid ācaret |
 dīkṣitānāṁ na nindādi kuryād vidveṣapūrvakam ॥ 571 ॥
 upadeśāya no doṣaḥ sa hy avidveṣapūrvakaḥ |
 na vaiṣṇavādikādhahsthadṛṣtibhiḥ saṁvased alam ॥ 572 ॥
-sahabhojanaśayyādyair \[illegible\] prakaṭayet sthitim | 
+sahabhojanaśayyādyair naiṣāṁ prakaṭayet sthitim | 
 
 He should perform some special (ceremony) when the members of the teacher’s family visit one’s home. One should not criticise or the like initiates with (feelings of) aversion. There is no defect in teaching (others). That is not attended by (feelings of) aversion.[^871] One should not live together with followers of inferior doctrines, such as Vaiṣṇavas,[^872] nor should one tell others that one eats or sleeps with them.[^873] (571-573ab) (568cd-570) 
 
@@ -208,7 +208,7 @@ The Pledges according to the Mādhavakula
 वेदोक्ति वैष्णवोक्तिं च तैरुक्तं वजयेत्सदा ।
 
 \[illegible\] śrīhmādhavakule śāsanāntarasaṁsthitān ॥ 573 ॥
-\[illegible\] vaiṣṇavoktiṁ ca tair uktaṁ varjayet sadā | 
+vedoktiṁ vaiṣṇavoktiṁ ca tair uktaṁ varjayet sadā | 
 
 [^874]It is said in the venerable Mādhavakula[^875] that those who are established in other doctrines, what is taught in the Veda and by Vaiṣṇavas and what they say, should always be avoided.[^876] (573cd-574ab) (571) 
 
@@ -261,7 +261,7 @@ srīmadūrmau ca kathitam āgamāntarasevake |
 gurvantararate mūdhe devadravyopajīvake ॥ 576 ॥
 saktihihsākare duṣṭte saparkarhi naiva kārayet | 
 
-It is also said in the venerable \[illegible\][^882] that (an initiate) should not associate with one who follows other scriptures, one who is devoted to a different teacher (of another tradition), a fool, one who earns a living with the substances (that are offered to the) deity, one who is violent to a Tantric consort (śaktihihsā), and one who is wicked.[^883] (576-577ab) (573cd-574) 
+It is also said in the venerable Ūrmi[^882] that (an initiate) should not associate with one who follows other scriptures, one who is devoted to a different teacher (of another tradition), a fool, one who earns a living with the substances (that are offered to the) deity, one who is violent to a Tantric consort (śaktihihsā), and one who is wicked.[^883] (576-577ab) (573cd-574) 
 
 #### Viveka on 15.573–574
 
@@ -275,7 +275,7 @@ It is also said in the venerable \[illegible\][^882] that (an initiate) should n
 
 [^882]: This is the Ürmikaulārnavatantra (see above, note to 2/48). TĀ 15/577cd- 594ab (588cd-590ab) is drawn from that.
 
-[^883]: Instead of dusre — ‘wicked’, MSs C and Thread: \[illegible\] — ‘disliked’.
+[^883]: Instead of dusre — ‘wicked’, MSs C and Thread: dviṣṭe — ‘disliked’.
 
 
 *[p. 336]* ^pg354
@@ -321,7 +321,7 @@ One should not (take) initiation and the like and go to sacred sites (āyatana) 
 *[p. 337]* ^pg355
 
 sadvidyaiḥ sākam āsīta jṁñānadīptyai yateta ca ॥ 579 ॥
-nāsaṁskṛtār vrajet \[illegible\] viphalatvaṁ na cānayet |
+nāsaṁskṛtār vrajet tajjaṁ viphalatvaṁ na cānayet |
 melakārdhaniśācaryā janavarjari ca tatra hi \\\\ 580 ॥
 māṁsādidāhagandharii ca jighred devīpriyo hy asau | 
 
@@ -429,17 +429,17 @@ mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥
 
 (One should not take a Vaiṣṇava as a teacher;) ‘if one has done so’ by mistake, (abandon him). 
 
-[^894]: MSs C, T and \[illegible\] read vibhodavān.
+[^894]: MSs C, T and Ṭh read vibhodavān.
 
 [^895]: Read with MS Th bahumānavān for bāhyamānavān.
 
 [^896]: Read nāsaktari for nāsatyaṁ.
 
-[^897]: Read with MSs C and \[illegible\] uktaṁ for bhaktar.
+[^897]: Read with MSs C and Ṭ, uktaṁ for bhaktar.
 
 [^898]: Read śāstrajñam for śāstritam, which makes no sense.
 
-[^899]: Instead of hṛdā vijñāna- C \[illegible\] read: hṛdādijñāna- ‘(criticizes) the knowledge of the Heart and other (Mantras)’.
+[^899]: Instead of hṛdā vijñāna- C Ṭh read: hṛdādijñāna- ‘(criticizes) the knowledge of the Heart and other (Mantras)’.
 
 
 *[p. 340]* ^pg358
@@ -470,7 +470,7 @@ The Pledges According to the Ānandaśāstra
 
 śrīmadānandaśāstre ca tathaivoktaṁ viśeṣaṇam |
 yasmād dīkṣā mantraśāstraṁ tattvajñānari sa vai guruḥ || 593 ॥
-tiṣthed avyaktaliṁgaś ca na \[illegible\] dhārayet kvacit |
+tiṣthed avyaktaliṁgaś ca na liṅgaṁ dhārayet kvacit |
 na liṅgibhiḥ samaṁ kaiścit kuryād ācāramelanam || 594 ||
 kevalari liṅginaḥ pālyā na bībhatsyā virūpakāḥ | 
 
@@ -478,14 +478,14 @@ The distinguishing characteristic (of a teacher) is also explained in the same w
 
 [^900]: This is the Ọrmikaulārṇavatantra. See above, note to 2/48.
 
-[^901]: For no vikalpyate MS C: no vilaṅghyate; \[illegible\] no viṅghyate — ‘is not to be transgressed’.
+[^901]: For no vikalpyate MS C: no vilaṅghyate; Ṭ: no viṅghyate — ‘is not to be transgressed’.
 
 [^902]: Abhinava has just quoted the Ürmikaulārnava as saying that the teacher of that Tantra gives Kaula initiation, Kaula scriptures and knowledge of reality. One wonders if the replacement of the first two with simply ‘initiation; and ‘scriptures’ is significant. We know from the fragments that have been recovered of the Ürmikaulārnava that it was a Krama Tantra brought into the world by Matsyendranātha. He is a well-known founder figure of Kaulism in general, and so there is no question of the Ūrmikaulārnava not being Kaula. Perhaps we may infer that although the Ānandatantra was a Tantra of the left (vāmatantra), it was not Kaula.
 
 
 *[p. 341]* ^pg359
 
-[^903]\[illegible\] should (always) be (tiṣṭhet) without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation).[^904] Nor should one congregate together to practice (ācāramelana)[^905] with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyā) people who are deformed (and ugly). (593-596) (590cd-592) 
+[^903]One should (always) be (tiṣṭhet) without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation).[^904] Nor should one congregate together to practice (ācāramelana)[^905] with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyā) people who are deformed (and ugly). (593-596) (590cd-592) 
 
 #### Viveka on 15.590–592
 
@@ -595,7 +595,7 @@ He (goes on to) amplifies this (statement).
 या काचित्कल्पना । संवित्तत्वस्याखण्डितात्मनः सङ्कोचकारिणी सर्वः स ग्रस्तां परित्यजेत् ॥ ६०३ ॥
 
 saṁvitsvabhāve no jātiprabhṛtiḥ kāpi kalpanā |
-rūpaṁ sā tv asvarūpeṇa tad \[illegible\] chādayaty alam ॥ 602 ॥ yā kācit kalpanā saṁvittattvasyākhanditātmanaḥ |
+rūpaṁ sā tv asvarūpeṇa tad rūpaṁ chādayaty alam ॥ 602 ॥ yā kācit kalpanā saṁvittattvasyākhanditātmanaḥ |
 saṁkocakāriṇī sarvaḥ sa grahas tām parityajet ॥ 603 ॥ 
 
 No notion (kalpanā) of caste and the like apply to the essential nature of consciousness. As it is not the true nature of (its) nature,[^912] it is capable of obscuring that nature. Any (discursive, dualistic) notion of the (true) nature of consciousness, which (is one and) undivided, contracts it. All that is erroneous (graha), (and so any such notion) should be abandoned. (602-603) (599cd-601ab) 
@@ -794,7 +794,7 @@ caṁ chaṁ jaṁ jhaṁ ñaṁ Tṛh tarjanībhyār svāhā
 
 Touch the middle finger with thumb, saying: 
 
-uṁ tarn than darn dhan naṁ \[illegible\] madhyamābhyāṁ vaṣaṭt 
+uṁ tarn than darn dhan naṁ ūṁ madhyamābhyāṁ vaṣaṭt 
 
 Touch the ring finger with the thumb, saying: 
 
@@ -802,11 +802,11 @@ emr taṁ than darn dhaṁ naṁ aih anāmikābhyām hūmn
 
 Touch the little finger with the thumb, saying: 
 
-or paṁ phaṁ barn bhan maṁ \[illegible\] kaniṣthābhyāṁ vauṣaṭt 
+or paṁ phaṁ barn bhan maṁ auṁ kaniṣthābhyāṁ vauṣaṭt 
 
 Rub the backs of the hands along the palms: 
 
-aṁ yari raṁ laṁ vaṁ Śan \[illegible\] saṁ laṁ \[illegible\] ah karatalapṛṣthābhyām astrāya phat 
+aṁ yari raṁ laṁ vaṁ Śan ṣaṁ saṁ laṁ kṣaṁ ah karatalapṛṣthābhyām astrāya phat 
 
 [^925]: See TĀ 15/117cd-120
 
@@ -972,7 +972,7 @@ Mātṛkānyāsa
 
 1\. oṁ aṁ Śrīkanṭthāyai namaḥ 1. Topknot 
 
-2\. oṁ \[illegible\] anantāyai namaḥ 2. Mouth 
+2\. oṁ āṁ anantāyai namaḥ 2. Mouth 
 
 3\. oṁ iù sūkṣmāyai namaḥ 3. Right eye 
 
@@ -980,7 +980,7 @@ Mātṛkānyāsa
 
 5\. oṁ uh amarīśāyai namaḥ 5. Right ear 
 
-6\. où \[illegible\] arghīśāyai namaḥ 6. Left ear 
+6\. où ūṁ arghīśāyai namaḥ 6. Left ear 
 
 7\. or r bhārabhūtyai namaḥ 7. Right nostril (piṅglā) 
 
@@ -994,7 +994,7 @@ Mātṛkānyāsa
 
 28\. or thain lāṅguliùyai namaḥ 29. ońn darn dārukāyai namaḥ 
 
-31\. \[illegible\] nah umākāntāyai namaḥ 32. oṁ tarn niṣādhinyi namaḥ 33. oṁ thain dindināyai namaḥ 34. où dan dhātriùyai namaḥ 35. on dhan mīnāyai namaḥ 36. 07 naṁ meṣāyai namaḥ 37. où paṁ lohitāyai namaḥ 38. oṁ phan Sikhivāhinyai namaḥ 39. où barn chagalandāyai namaḥ 40. oṁ bhath dvirandāyai namaḥ 41. où maṁ mahākālāyai namaḥ 42. oṁ yarn \[illegible\] namaḥ 43. orńù rah bhujaṅgamāyai namaḥ 44. oṁ laṁ pinākinyai namaḥ 45. oṁ vaṁ khadginyai namaḥ 46. oṁ Śaṁ bakīśāyai namaḥ 
+31\. \[illegible\] nah umākāntāyai namaḥ 32. oṁ tarn niṣādhinyi namaḥ 33. oṁ thain dindināyai namaḥ 34. où dan dhātriùyai namaḥ 35. on dhan mīnāyai namaḥ 36. 07 naṁ meṣāyai namaḥ 37. où paṁ lohitāyai namaḥ 38. oṁ phan Sikhivāhinyai namaḥ 39. où barn chagalandāyai namaḥ 40. oṁ bhath dvirandāyai namaḥ 41. où maṁ mahākālāyai namaḥ 42. oṁ yarn vālīśāyai namaḥ 43. orńù rah bhujaṅgamāyai namaḥ 44. oṁ laṁ pinākinyai namaḥ 45. oṁ vaṁ khadginyai namaḥ 46. oṁ Śaṁ bakīśāyai namaḥ 
 
 47\. où ṣaṁ Śvetāyai namaḥ 
 
@@ -1012,7 +1012,7 @@ Over half of Abhinava’s commentary on the Parātrīśikā is dedicated to the 
 
 ideation 
 
-(vikalpa) which is characterized by the mutual superimposition of the object of denotation (vācya) and its denotator (vācaka) \[illegible\] 2, p. 188, 192). It extends throughout the inner mental organ (antahkarana), that is, the mind, ego and intellect. K. Kunjunni Raja has defined Middle Speech his book, Indian Theories of Meaning (Madras 1963: 148) as follows: 
+(vikalpa) which is characterized by the mutual superimposition of the object of denotation (vācya) and its denotator (vācaka) (ĪPVv 2, p. 188, 192). It extends throughout the inner mental organ (antahkarana), that is, the mind, ego and intellect. K. Kunjunni Raja has defined Middle Speech his book, Indian Theories of Meaning (Madras 1963: 148) as follows: 
 
 ‘The next stage in the manifestation of the speech principle is called madhyamā or the intermediate, since it lies between paśyantī and vaikharī. This is the utterance in its phonological structure, the sound pattern of the norm. It is psychological in its nature and can be comprehended by the intellect. All the elements linguistically relevant to the sentence are presented in a latent form at this stage. The same meaning will be conveyed and the same sphoṭa \[unit of meaning\] by different forms of madhyamā, depending on the language adopted. This corresponds to prākṛtadhvani \[the vernacular\]. At this stage all the individual peculiarities of the speaker are present in the utterance, along with the linguistically relevant parts.” 
 
@@ -1066,7 +1066,7 @@ As this is so and all things are in every (single) thing, (we will now examine) 
 
 (10) is reflected in the energy of the organ of speech (N). 
 
-(11-16) Then again, as the seeds of Expansion (unmeṣa) (U) and ascent (ūrdhvāśraya) \[illegible\] of the energy of (that) organ of action (karana), taking as its support the matrix of power, which is the intellect (B), penetrates completely into the matrices of Earth (K), water (KH) and Fire (G). 
+(11-16) Then again, as the seeds of Expansion (unmeṣa) (U) and ascent (ūrdhvāśraya) (Ū) of the energy of (that) organ of action (karana), taking as its support the matrix of power, which is the intellect (B), penetrates completely into the matrices of Earth (K), water (KH) and Fire (G). 
 
 The Speech of Vision is (primarily) within the (essential) nature of the organ of speech (N) which, in accord with that (nature) extends there itself into 
 
@@ -1077,7 +1077,7 @@ The Speech of Vision is (primarily) within the (essential) nature of the organ o
 
 the seeds (r R \] Ḷ), and having done so, it abides on the plane of vision (TH > D), impure knowledge (C > V), which is the generic (principle of perception that underlies the organs of perception), and in the last of all of them, namely, the sense of smell (DH > T). 
 
-Then, having progressed by means of the seed of Īśvara (Ï) and taken the support of the power of hearing (N), by union with the two seeds of Expansion (U) and Ascent \[illegible\] it is present in the matrix of (the genitals, which is) the sense organ of pleasure (ānandendriya) (B > 9), and (becomes) Sadāśiva (K), Īśvara (KH) and Pure Knowledge (G). Thus, as it is present in the beginning, middle and end of all things, the Śiva principle, which is unlimited and possesses an infinite number of powers, is declared to be here. 
+Then, having progressed by means of the seed of Īśvara (Ï) and taken the support of the power of hearing (N), by union with the two seeds of Expansion (U) and Ascent (Ū), it is present in the matrix of (the genitals, which is) the sense organ of pleasure (ānandendriya) (B > 9), and (becomes) Sadāśiva (K), Īśvara (KH) and Pure Knowledge (G). Thus, as it is present in the beginning, middle and end of all things, the Śiva principle, which is unlimited and possesses an infinite number of powers, is declared to be here. 
 
 (17) GH, which in relation to supreme consciousness (taught) here (in this work) and the Speech of Vision, is Wind and Māyā, respectively (p. 153), is (here) within Mālinī, Sadāśiva. (The following letters correspond to three principles in the same way). 
 
@@ -1331,7 +1331,7 @@ Phetkārikā
 
 1\. oń sauḥ naṁ nādinyai namaḥ 2. oṁ sauḥ pṛh nivṛttyai namaḥ 3. ońù sauḥ Rih pratiṣthāyai namaḥ 4. oṁ sauḥ {7 vidyāyai namaḥ 5. oṁ sauḥ Lih Śāntāyai namaḥ 6. oṁ sauḥ thaṁ satyai namaḥ 
 
-9\. où sauḥ \[illegible\] cāmundāyai namaḥ 10. où sauḥ naṁ vajrinyai namaḥ 11. oń sauḥ uù ka”nkatāyai namaḥ 12. où sauḥ üm kālikāyai namaḥ 13. oṁ sauḥ baṁ \[illegible\] namaḥ O=) Bottom of the shaft of the Trident Mind (manas) 
+9\. où sauḥ īṁ cāmundāyai namaḥ 10. où sauḥ naṁ vajrinyai namaḥ 11. oń sauḥ uù ka”nkatāyai namaḥ 12. où sauḥ üm kālikāyai namaḥ 13. oṁ sauḥ baṁ \[illegible\] namaḥ O=) Bottom of the shaft of the Trident Mind (manas) 
 
 Upper part of the Trident | \_\_ č Eas á | | Skl |
 |
@@ -1368,7 +1368,7 @@ Mālinīnyāsa
 
 *[p. 364]* ^pg382
 
-15\. oṁ sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ iṁ mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jaṁ jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. oṁ sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. oṁ sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. oṁ sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ haṁ paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ \[illegible\] kusumāyudhāyai namaḥ 43. oṁ sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. oṁ sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
+15\. oṁ sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ iṁ mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jaṁ jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. oṁ sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. oṁ sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. oṁ sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ haṁ paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ śaṁ kusumāyudhāyai namaḥ 43. oṁ sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. oṁ sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
 
 *[p. 365]* ^pg383
 
@@ -1567,7 +1567,7 @@ A Comparative Chart of the Māli Alphabet
 
 Kubjikā is repeated represented in the Kubjikā Tantras as an embodiment of Mālinī. As Mālinī does not figure in any other Kaula school, her central importance in the Kubjikā Tantra’s clearly illustrates their close relationship to Trika. Indeed, this deposition is very common in the Kubjikā Tantras, in the §§5 and KM alone, it occurs eight times. 
 
-The following comparative chart of the Mālinī alphabet table has been prepared on the basis of the following sources. 1) KuKh 18/25 ff. 2) ṢSS chapter 7. The data from this source has been tabulated by Schoterman (1982: 216-217). 3) the \[illegible\] (fl. 142b) 4) MVT (3/37-4la). The latter is Abhinavagupta’s source for his presentation in the Tantrāloka (15/121-125a). The Mālinī letters and their corresponding Yoginīs and parts of the body are listed in KRU 5/898. The sequential order of this series differs substantially from the others, although the content is largely the same. The last two columns on the right of the following table record the names of the goddesses of the Mālinī letters according to the ŚM. The ŚM supplies a description of the visualized form of each one. This is the only place I have found them. The drawings made on the basis of these visualizations of these Yoginīs is found in Dyczkowski 2007. The names listed in the penultimate column are drawn from chapter seven of the ŚM where the goddesses are described as recorded in the previous appendix. The last column contains the names of the goddesses linked to the Bhairavas of the letters of the Assembly of Sounds described in chapter twenty-four recorded in appendix VI below. 
+The following comparative chart of the Mālinī alphabet table has been prepared on the basis of the following sources. 1) KuKh 18/25 ff. 2) ṢSS chapter 7. The data from this source has been tabulated by Schoterman (1982: 216-217). 3) the Ṭikā (fl. 142b) 4) MVT (3/37-4la). The latter is Abhinavagupta’s source for his presentation in the Tantrāloka (15/121-125a). The Mālinī letters and their corresponding Yoginīs and parts of the body are listed in KRU 5/898. The sequential order of this series differs substantially from the others, although the content is largely the same. The last two columns on the right of the following table record the names of the goddesses of the Mālinī letters according to the ŚM. The ŚM supplies a description of the visualized form of each one. This is the only place I have found them. The drawings made on the basis of these visualizations of these Yoginīs is found in Dyczkowski 2007. The names listed in the penultimate column are drawn from chapter seven of the ŚM where the goddesses are described as recorded in the previous appendix. The last column contains the names of the goddesses linked to the Bhairavas of the letters of the Assembly of Sounds described in chapter twenty-four recorded in appendix VI below. 
 
 *[p. 367]* ^pg385
 
@@ -1656,7 +1656,7 @@ T:
 
 Ṇa ü 
 
-Prajñā | Earring | U | Kaṁkaṭā \[illegible\] |
+Prajñā | Earring | U | Kaṁkaṭā Earring | Mohanī |
 Prajñāśa 595 
 
 595; 
@@ -1681,7 +1681,7 @@ and Ṭ:
 
 पृः | थुति
 
-Left earring | 8 | Vajrinyā | Mouth |a Śivā | \[illegible\] | Vajriṇi | \[illegible\] kti Ka 
+Left earring | 8 | Vajrinyā | Mouth |a Śivā | Mouth | Vajriṇi | \[illegible\] kti Ka 
 
 Kaṅkaṭā 
 
@@ -1753,7 +1753,7 @@ Māyā
 
 A 
 
-Vāgeśvarī | Speech | A Prajñā \[illegible\] Sarasvati | Ghoragh ०६ Va 
+Vāgeśvarī | Speech | A Prajñā Speech Sarasvati | Ghoragh ०६ Va 
 
 ikhivāhī | Throat | Va | Śikhivāhi | mea | ikhivāḥ | Vīraśakti ni i E Bhīṣaṇā 
 

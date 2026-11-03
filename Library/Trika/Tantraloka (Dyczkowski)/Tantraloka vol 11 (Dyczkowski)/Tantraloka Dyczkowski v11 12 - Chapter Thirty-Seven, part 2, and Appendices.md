@@ -250,7 +250,7 @@ From him, through (his wife) Kamalā arose (two sons) called Jayaratha and Jayad
 
 [^670]: Rastogi: ‘He devoted his energies for the welfare of the common man and encouraged pursuit of excellence by suitable financial gifts and grants. He created an atmosphere free from terror and subsequently developed acute devotion for Siva, something behoving his noble heritage.” (34)
 
-[^671]: This translation follows that of Sanderson (2006b p. 17, n. 46, 2007: 253 n 68). Rastogi (1987: introduction p. 93) understands the expression ‘Rājātantra’ to mean ‘statecraft’. According to him, Rājānaka \[illegible\] was an alias for Tribhuvanadatta and Śṛṁgāra, Subhaṭadatta. However, Sanderson proposes that the Rājatantra was the Jayadrathayāmala, also called the Tantrarāja that Śṛṁgāra taught to Jayaratha's father, the minister Śṛṁgāraratha. He writes (loc. cit.) ‘the alternative is to take this to mean that Śṛṁgāra taught him the science of governance while he was concerned therewith. But that would be very flat and out of context, especially since Jayaratha declares him his own paramaguruḥ. It would be more probable that Jayaratha has substituted Rājatantra ‘the King Tantra’ for the usual title Tantrarāja ‘the King of Tantras’ for the sake of a play on words.’
+[^671]: This translation follows that of Sanderson (2006b p. 17, n. 46, 2007: 253 n 68). Rastogi (1987: introduction p. 93) understands the expression ‘Rājātantra’ to mean ‘statecraft’. According to him, Rājānaka Dāśī was an alias for Tribhuvanadatta and Śṛṁgāra, Subhaṭadatta. However, Sanderson proposes that the Rājatantra was the Jayadrathayāmala, also called the Tantrarāja that Śṛṁgāra taught to Jayaratha's father, the minister Śṛṁgāraratha. He writes (loc. cit.) ‘the alternative is to take this to mean that Śṛṁgāra taught him the science of governance while he was concerned therewith. But that would be very flat and out of context, especially since Jayaratha declares him his own paramaguruḥ. It would be more probable that Jayaratha has substituted Rājatantra ‘the King Tantra’ for the usual title Tantrarāja ‘the King of Tantras’ for the sake of a play on words.’
 
 [^672]: Cf, above, 1/216d for this expression.
 
@@ -340,7 +340,7 @@ halar pāśāṁkuśam ghanṭā mudgarastriśikho ‘paraḥ ॥ 3 ॥
 āvāhasthāpanīrodhā dravyadā natireva ca |
 amṛtā yogamudreti vijñeyā vīravandite ॥ 4 ॥ 
 
-(The gestures \[illegible\] Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), Ghaṇṭā (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
+(The gestures are:) Triśūla (the Trident) and Padma (the Lotus), Śakti (Power), Cakra (the Wheel) along with Vajra (the Thunderbolt), Danda (the Stick), Daṁṣṭra (the Fang), Mahāpretā (the Great Ghost), Mahāmudrā (the Great Gesture), Khageśvarī (the Skyfaring Goddess), Mahodayā (the Great Arising), Karālā (the Gapping Mouth and Protruding Teeth) and Khatvāṁga (the Ascetic’s Staff) along with Kapālaka (the Skull), Hala (the Plough), Pāśa (the Fetter), Aṅkuśa (the Elephant Gaud), Ghaṇṭā (the Bell), Mudgara (the Mallet), and Triśikha (the Three Tufts of Hair) is another. (The gesture made to) Aavaha 
 
 [^678]: svaccha yābhistu rakṣita
 
@@ -456,7 +456,7 @@ Khageśvarī (the Skyfaring Goddess)
 vaddhvā padmāsanari yogī nābhāv akṣeśvarari nyaset[^682] || 15 ||
 dandākārari tu tarn tāvan nayed yāvat kakhatrayam[^683] | 
 
-[^681]: Read \[illegible\] for prītā.
+[^681]: Read pretā for prītā.
 
 [^682]: tarn: kṣiped
 
@@ -468,7 +468,7 @@ APPENDIX A TO CHAPTER THIRTY-TWO
 ### Dyczkowski's verse 15cd-17ab
 
 nigṛhya tatra tat tūrnaṁ prerayet khatrayena tu || 16 ||
-\[illegible\] baddhvā mahāvīraḥ \[illegible\] pratipadyate | 
+etāṁ baddhvā mahāvīraḥ khegatiṁ pratipadyate | 
 
 Assuming the lotus posture the yogi should direct (his mind) the lord of the senses into the navel (region). In the form of a staff, he should lead it along until[^684] (it reaches) the three voids (in the head). After restraining it there he should rapidly impel (it) with the three voids (above the head).[^685] Having formed that (Seal of the Skyfaring Goddess), the great hero, attains flight (in the sky of 
 
@@ -513,7 +513,7 @@ khaṭvāṅgākhyā smṛtā mudrā kapālam adhunā śṛnu |
 
 [^683]: Kh: tar ca taṁ tāvad
 
-[^684]: \*Read with TĀ 32/1 1b \[illegible\] for bhāva
+[^684]: \*Read with TĀ 32/1 1b tāvan for bhāva
 
 [^685]: The three voids in the head are bindu, nāda and the Cavity of Brahmā. The three above the head are Power (Sakti), the Pervasive One (vyāpinī) and With Mind (samanā). The mind is ‘restrained’ by breath retention (kumbhaka). If successful, the yogi attains the level of the Transmental, through which he unites with Siva.
 
@@ -652,7 +652,7 @@ The two thumbs placed within (the clenched fists) should be known to be (the ges
 
 ### Dyczkowski's verse 31cd
 
-dravyadā tu samākhyātā + \* \* + tra \[illegible\] | 31 I| 
+dravyadā tu samākhyātā + \* \* + tra saṁmukhī | 31 I| 
 
 ~ ~ . (placed) facing before one , . . is said to be (the gesture of) the offering of the sacrificial substances.[^694] (31cd) 
 
@@ -737,7 +737,7 @@ mocanād (k, kh, g: mocanā) drāvaṇād yasmān mudrākhyā (kh: -smāt-) sā 
 gatimatyarthabhāvena khamārge caiva nityaśaḥ (g: -saḥ) |
 carate sarvajantūnāṁi khecarī tena sā smṛtā (k, kh, g: smṛtāḥ) ॥ 82 ॥
 paratvenaikadhā (kh: nekadhā) jṁeyā punaś caiva dvidhā smṛtā |
-icchā (g: icchā) \[illegible\] (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \*?) varṇarūpā (g: \* \* \* \*?) upāgatā (g: \* \* \* \*?) || 83 || (k: ?) 
+icchā (g: icchā) jñāna (g: jñāna) tṛtīyā (g: \* \* \*?) tu (g: \*?) varṇarūpā (g: \* \* \* \*?) upāgatā (g: \* \* \* \*?) || 83 || (k: ?) 
 
 [^695]: KM 6/76-113ab is drawn di.rectly from the Tantrasadbhāva 8/76cd-113ab. The two versions have been compared. In places I adopt the reading in the KM although, the Tantrasadbhāva certainly precedes it.
 
@@ -828,7 +828,7 @@ The individual souls are without measure (that is, innumerable) in each one of t
 
 ### Dyczkowski's verse 98-101ab
 
-nṛtyaḥ calan (k, g: vala; kh: \[illegible\] tathā hāsyaṁ nagnatvaṁ (k, g: nanagna; kh: nagnatvā) lamghanarm (kh: laghana) ca yat |
+nṛtyaḥ calan (k, g: vala; kh: valbhaṁ) tathā hāsyaṁ nagnatvaṁ (k, g: nanagna; kh: nagnatvā) lamghanarm (kh: laghana) ca yat |
 romodgamar (kh: romodbhava) tathā cānyar rodanaṁ sphoṭam eva ca ॥ 98 ॥
 yari vikārari prakurvanti tat sarva mudrasaṁjñitam |
 aṅgulyā (k, kh, g: -\$) caṁganā proktā aṁge carati nityaśaḥ (g: -saḥ) ॥ 99 ॥
@@ -901,7 +901,7 @@ tena jñātaṁ (k, g: jñānamn) jagat sarvan (g: ?) avarnaṁ (k, kh: avarṇa
 
 The universe is pervaded by the left. Once known (that), then, O beloved, everything is known.[^707] O fair lady, by conjoining (the two), that (mudrā becomes) the Kundalinī of the Self. This is the essence, the supreme womb (yoni), the most excellent womb (yoni) of the wombs (yoni). O fair lady, he who knows the first (and foremost) Śakti, that is, Mind beyond Mind (manonmanī), has known the entire universe. (It is) the letter A devoid of 
 
-[^705]: The word for thumb — aṅguṣtha — is here derived apparently from aṅga means ‘limb’ and, by extension ‘body’. The word \[illegible\] means ‘lip’. So, the thumb is the “lip of the body’, that is, it stands for the mouth especially when speaking.
+[^705]: The word for thumb — aṅguṣtha — is here derived apparently from aṅga means ‘limb’ and, by extension ‘body’. The word ‘oṣṭha’ means ‘lip’. So, the thumb is the “lip of the body’, that is, it stands for the mouth especially when speaking.
 
 [^706]: Lines 107 to 108 illegible in MS g.
 
@@ -1080,7 +1080,7 @@ Krodhanī leads to the (true) nature of one’s own Self by means of the anger w
 
 You are Krodhanī as the intense desire to withdraw the assembly of reality levels ending with Nature and commencing with Earth, which is the plane of limited perception. Your iconic form is Mantra of which (You are) the one who unfolds it here. 
 
-[^714]: tattvavṛttyā tu karaṁkiṇī nāma svadehendriyākhyabhedavigalanapragalbhā mudrā | yathā śrīcidgaganacandrikāyām - antar amba! bahir apy amī karā ye tavākṣatanavo \[illegible\] eṣa yah | vigrahadvitayam apy ataḥ parar cinnabho nayasi nah karaṅkinī I iti | pṛthivyādiprakṛtyantaḥ tattvasandoham antahsamjihīrṣālakṣanena krodhena svātmarūpatām nayati krodhanī | yathā - yat prakṛtyavadhitattvamandalari kṣmāmukhari parimitagrahāspadam | krodhanī tvam asi tajjihīrṣayā mantramārtir iha te vijṛmbhate || iti | antarbahirbhāvayaugapadyena pūrnasaṁvitsvabhāvā bhairavī | yathā - granthayo ‘pi ṣad ume! yayā dhṛtā sā nirāvaranacinnabhahpadā | spandamūrtidhṛtabhedadambarā bhairavi tvam asi viśvabhedinī I iti | iyan ca nimīlanonmīlanasamādhidvayasāmarasyaucityād asmābhir atyantam upalālyate | yad āhuḥ - antarlakṣo \[illegible\] iyan sā bhairavī mudrā sarvatantreṣu gopitā | iti |
+[^714]: tattvavṛttyā tu karaṁkiṇī nāma svadehendriyākhyabhedavigalanapragalbhā mudrā | yathā śrīcidgaganacandrikāyām - antar amba! bahir apy amī karā ye tavākṣatanavo ‘ṅka eṣa yah | vigrahadvitayam apy ataḥ parar cinnabho nayasi nah karaṅkinī I iti | pṛthivyādiprakṛtyantaḥ tattvasandoham antahsamjihīrṣālakṣanena krodhena svātmarūpatām nayati krodhanī | yathā - yat prakṛtyavadhitattvamandalari kṣmāmukhari parimitagrahāspadam | krodhanī tvam asi tajjihīrṣayā mantramārtir iha te vijṛmbhate || iti | antarbahirbhāvayaugapadyena pūrnasaṁvitsvabhāvā bhairavī | yathā - granthayo ‘pi ṣad ume! yayā dhṛtā sā nirāvaranacinnabhahpadā | spandamūrtidhṛtabhedadambarā bhairavi tvam asi viśvabhedinī I iti | iyan ca nimīlanonmīlanasamādhidvayasāmarasyaucityād asmābhir atyantam upalālyate | yad āhuḥ - antarlakṣo bahirdṛṣṭir nimeṣonmeṣavarjitaḥ | iyan sā bhairavī mudrā sarvatantreṣu gopitā | iti |
 
 
 *[p. 295]* ^pg313
@@ -1105,7 +1105,7 @@ The gaze is fixed and is the support of the outer object. Although free of thoug
 
 I have also said in the venerable Parāstotra: 
 
-[^715]: yathā śrīmahānayaprakāśe - mahāmelāpadharminyah kraundalyunmeṣavigrahāḥ | nirāvaraṇacidvyomadhāmasthā bhānti nityaśaḥ ॥ Āāpūrya svabalodrekasamutthai bhedadambaram | yā sthitā pūrṇavibhavā nirāvaraṇavigrahā || bhairavī saiva vikhyātā mudrā sadasadujjhitā | nistaraṁgavikāsātmasāmarasyaikapālinī ॥ \[illegible\] melāpasiddhānār devīnāṁ mudritā sadā | mu(dri?dre)jneyaṁ dvidhā bhāsamudreyaṁ bhairavātmikā || iti | This passage is not drawn from the Mahānayaprakāśa by Arṇasiṁha (see appendix to chapter four for the complete text). it corresponds to verses 90cd-95 of the MNP (T). Each group of five Siddhas is in its own state corresponding to one of the five Mudraas.
+[^715]: yathā śrīmahānayaprakāśe - mahāmelāpadharminyah kraundalyunmeṣavigrahāḥ | nirāvaraṇacidvyomadhāmasthā bhānti nityaśaḥ ॥ Āāpūrya svabalodrekasamutthai bhedadambaram | yā sthitā pūrṇavibhavā nirāvaraṇavigrahā || bhairavī saiva vikhyātā mudrā sadasadujjhitā | nistaraṁgavikāsātmasāmarasyaikapālinī ॥ āsāṁ melāpasiddhānār devīnāṁ mudritā sadā | mu(dri?dre)jneyaṁ dvidhā bhāsamudreyaṁ bhairavātmikā || iti | This passage is not drawn from the Mahānayaprakāśa by Arṇasiṁha (see appendix to chapter four for the complete text). it corresponds to verses 90cd-95 of the MNP (T). Each group of five Siddhas is in its own state corresponding to one of the five Mudraas.
 
 *[p. 296]* ^pg314
 
@@ -1129,7 +1129,7 @@ Khecarī destroys the disturbance of the remaining thought constructs. Her form 
 
 “You are intent on destroying the expanse of manifestation that extends from Supreme (Speech) and ends with the Corporeal One. O goddess, You, are Khecarī who expands consciousness present in Śiva’s abode that is free of coverings. (You are) Kundali who, flying upwards swiftly like a bolt of lightning, burns up the abodes of Fire, Sun and Moon. O Mother! You are Khecarī who has entered[^718] Śiva’s (dimensionless) Point (śāmbhavabindu) by the Middle Way.’[^719] 
 
-[^716]: stabdhadṛṣṭi bahirarthasaṁśrayaṁ nirvikalpam api yat tavāsanam | muktapañjaraśukānukāri tad bhairavaṁ vapor udāram āhara ॥ iti | mayā ‘py uktaṁ Śrīparāstotre - ānandodayalakṣmanor akaluṣair utpakṣmanor ūṣmalair - akṣnor unmiṣitaiḥ pratāpya pṛthivīm antahsthalaikaspṛśaḥ | pūrnāhamprathanotsavāya sudhiyo \[illegible\] ürdhvam adhyāsate sā kācit tvam acintyasiddhir acalā mudrā mahaty ucyase | iti |
+[^716]: stabdhadṛṣṭi bahirarthasaṁśrayaṁ nirvikalpam api yat tavāsanam | muktapañjaraśukānukāri tad bhairavaṁ vapor udāram āhara ॥ iti | mayā ‘py uktaṁ Śrīparāstotre - ānandodayalakṣmanor akaluṣair utpakṣmanor ūṣmalair - akṣnor unmiṣitaiḥ pratāpya pṛthivīm antahsthalaikaspṛśaḥ | pūrnāhamprathanotsavāya sudhiyo yām ürdhvam adhyāsate sā kācit tvam acintyasiddhir acalā mudrā mahaty ucyase | iti |
 
 [^717]: puryaṣtakādivāsanāsarvasvagrāsalālasā lelihānā | yathoktam - aṣtapuryuditabījavāsanāsaṁhrtipravanaraśmipu~njayā | līdhamātramukhabhedayā tvayā bhūyate janani! lelihānayā \\ iti |
 
@@ -1203,7 +1203,7 @@ yan na kasyacid ākhyātarni \[illegible\] \* \*(?)khyātaṁ\] tad adya kathay�
 ॥
 40b g) yena samyag adhītena bhairaveva bhaven naraḥ |
 vedhayet sarvam akhilaṁ jagad etac carācaram \[g: -carācaram\] ॥ 573 ॥
-tatrādau \[kh: tavādau; g: tatrā \*(?)\] \[illegible\] śreṣthā tām śṛnuṣva nagātmaje |
+tatrādau \[kh: tavādau; g: tatrā \*(?)\] daṁṣṭriṇī śreṣthā tām śṛnuṣva nagātmaje |
 madirānandacaitanyaḥ sadhūpāmodamoditaḥ \[g: + dhūpā-\] ॥ 574 ॥
 supuṣpitasutāṁmvūlaś candanāgurucarcitaḥ |
 devīrūpari samālambya pūrvavīryasamanvitaḥ ॥ 575 ॥
@@ -1212,7 +1212,7 @@ vāmajānuṁ \[kh, g: -nu\] prasāryeta madhyam eva vikuñcayet | 576 ॥
 
 Next, I will tell (you something) that is very astonishing along with its secret. What I have not told anybody (before), today I will tell (you) that by which, well sudied, a man becomes Bhairava and he pierces all the universe moving and immobile. There, first of all, Daṁṣtriṇī (mudrā) is the most excellent. Listen to that, O daughter of the mountains. His consciousness blissful with wine, delighted by the fragrance of incense, adorned with flowers and (chewing on) good beetle, perfumed with sandalwood and fragrent aloe, assuming the form of the Goddess, (whilst still) endowed with his prior virility, rising with audacity, O mistress of the gods, breathing (heavily) and flapping to and fro, he should extend the left knee and contract the waist (madhya). 
 
-\[illegible\] locane kṛtvā bhruvor yugmam \[g: \*(?)voryugmami\] pracālayet \[kh: pracārayet; g: pracalayet\] |
+koṭare locane kṛtvā bhruvor yugmam \[g: \*(?)voryugmami\] pracālayet \[kh: pracārayet; g: pracalayet\] |
 33a) sarpavad valitāḥ sarvā hy aṁgulyaḥ \[kh, g: hyaṁgulyo\] karayobhayoḥ ॥
 57711
 pradeśinye sṛk kaṇnābhyār \[k, kh, g: - kinībhyāṁ\] dāritāsye \[k: dāritā \* \* (?) stho, kh, g: dāritāsyo\] vinikṣipet |
@@ -1235,7 +1235,7 @@ yathā śrīdariṣtrinī devī yathā devī \[kh: devā\] karaṁkinī \[g: +( 
 
 Making his eyes look severe, he should move the pair of eyebrows, all the fingers of both hands should be intertwined like snakes, he should place (the thumbs of his hands) in (his) gaping mouth with two drops of blood in places (on it). He should move his tongue with force and utter svāhā! He should make a loud frightening laugh, that is fierce (and threatening) by nature (bhairava), eight times. This is Daṁṣṭriṇīmudrā which is the dawning of the Wheel of the Rays (raśmicakra). 
 
-I have told it to you with (its) secret. It should not be told to (just) anybody. O Gaurī, when this (mudrā) is made all the universe from the Fire of Time to Śiva trembles at the sight of the adept. As is the goddess the venerable \[illegible\] so is the goddess Karaṅkiṇī seen by all including the gods, demons and men.[^722] 
+I have told it to you with (its) secret. It should not be told to (just) anybody. O Gaurī, when this (mudrā) is made all the universe from the Fire of Time to Śiva trembles at the sight of the adept. As is the goddess the venerable Daṁṣṭriṇī, so is the goddess Karaṅkiṇī seen by all including the gods, demons and men.[^722] 
 
 ### Dyczkowski's verse 587cd-590
 
@@ -1252,7 +1252,7 @@ Now I will tell (you about) the fearsome and frightening mudrā called Lelihān�
 
 ### Dyczkowski's verse 591-594
 
-410 g) utthitaśvāsanāt \[illegible\] \[k: tūraṁga\] haṭhād gātra viśoṣayet \[k: viśoṣayan\] |
+410 g) utthitaśvāsanāt tūrṇaṁ \[k: tūraṁga\] haṭhād gātra viśoṣayet \[k: viśoṣayan\] |
 kanīvike locane ca kruddhadṛgṣtir vidhūnayet \[kh, g: -drṣtividhūnayet\] ॥ 591 ॥
 cālayel lehayej jihvār \[kh: jihvā\] oṣthau \[k: \* ṣthau; g: oṣtho\] samcūṣayed bhṛśam \[g: \*(?)śar\] |
 muṣtibandhaiḥ karair devi karasthe kuñcite \[kh: kucite\] kṛte ॥ 592 ॥ 
@@ -1361,8 +1361,8 @@ khecarī nāma yā mudrā sarvatantreṣu gopitā |
 guruvaktrasthitā nitya yoginīhṛdaye sthitā |
 yayāpy eva na śocanti sādhakāḥ \[k: -kā\] siddhikārikṣiṇaḥ \[g: sirddhi-\] ॥ 628 ॥
 yasyā bandhanamātrenṇa khecaraiḥ saha modate |
-tasyā \[kh: asyās; g: yasyā\] \[illegible\] \[kh, g: tulyā\] na paśyāmi mudrāpīṭthe suvistare ॥ 629 ॥
-\[illegible\] śṛnus.va \[kh: -Śrnuṣvam; g: śr \*(?)dhvaḥ\] mahābhāge sarvajyeṣthā jagaddhitā | 
+tasyā \[kh: asyās; g: yasyā\] tulyāṁ \[kh, g: tulyā\] na paśyāmi mudrāpīṭthe suvistare ॥ 629 ॥
+tāṁ śṛnus.va \[kh: -Śrnuṣvam; g: śr \*(?)dhvaḥ\] mahābhāge sarvajyeṣthā jagaddhitā | 
 
 Now 1 will tell (you about) the mudrā called Khecarī that, auspicious, does everything and is hidden in all the Tantras by virtue of which, O (goddess) 
 
@@ -1378,7 +1378,7 @@ madirānandacaitanyar kṛtapūjāvidhikramaḥ ॥ 631 ॥
 svadeham arcayed devī yathā devī karaṅkinī |
 paścāt svarūparūpastho cittabhāsāvalokakaḥ ॥ 632 I|
 triśūlacakre samirūdho \[k: su-\] mamidalaṁ cānukalpayet |
-44a g) satya tad \[illegible\] \[illegible\] \[g: tadūrddhegaṁ\] kāryaṁ hastenāṁguṣtham ākramāt \[kh: hasta-\] ॥ 633 ॥ 
+44a g) satya tad ūrdhvagaṁ \[g: tadūrddhegaṁ\] kāryaṁ hastenāṁguṣtham ākramāt \[kh: hasta-\] ॥ 633 ॥ 
 
 Having made a beautiful place strewn with flowers and smeared with the five nectars, fumagated with the fragrence of fine incense, (one’s) consciousness (joyful) with the bliss of wine and performed the liturgy according to the procedure (by which the deity is) worshipped, he should, O goddess, 1 worship his own body as the goddess Karaṁkiṇī. After that, established in his own nature, viewing the light of (his own) mind, mounted on the Wheel of the Trident, he should fashion the mandala. In truth, it should made to face upwards by covering the thumb with the hand. 
 
@@ -1392,7 +1392,7 @@ In the same way, the left foot is placed in the yantra (visualized in) the rectu
 
 sarvā mudrā tu rājeśī sāmānyā sarvataḥ \[kh: sarva \*(?)\] sthirā \[kh, g: sthitāḥ\] |
 guruvaktrakramāyātā nākhyātā kasyacin mayā ॥ 637 ॥
-baddhainām \[illegible\] \[k: āviṣet; kh: āviṣet, g: aviṣe\] \[illegible\] ghūrṇamanā vilocanā 
+baddhainām āviśet \[k: āviṣet; kh: āviṣet, g: aviṣe\] tūrṇaṁ ghūrṇamanā vilocanā 
 
 mahāhāsyaṁṁ mahāgeya mahāmelāpam uttamam | 
 
@@ -1502,7 +1502,7 @@ Then (after the outline of the cakra has been drawn) deposit the Mantras in thei
 
 ### Dyczkowski's verse 14cd-17
 
-nyāsaṁ \[illegible\] pravakṣyāmi śrūyatāri (kh: -tā) vidhiniścayaḥ (> -yam) ॥ 14 ॥
+nyāsaṁ teṣāṁ pravakṣyāmi śrūyatāri (kh: -tā) vidhiniścayaḥ (> -yam) ॥ 14 ॥
 catuṣke tu nyased (kh: 
 
 nyase) devi napuṁsakaganaṁ śubham |
@@ -1540,7 +1540,7 @@ sarvāvayavasariyuktā (k: sarvo- -yuktāṁ; kh: sarvo \* \* \* ?saṁmyuktām;
 
 yuktām) krīdayantī mahādyutiḥ (k, g: -ti; kh: -11071/ |
 dale dale (kh: dales) tu yugmaṁ (kh: yugmā) tu krīdābhinayatatparāḥ (kh: - nayana) ॥ 21 ॥
-\[illegible\] (kh: teṣā) nāmāni vakṣyāmi \[illegible\] yogibhiḥ (k: yogibhi; kh, g: yogabhis) saha | 
+\[illegible\] (kh: teṣā) nāmāni vakṣyāmi vīrāṇāṁ yogibhiḥ (k: yogibhi; kh, g: yogabhis) saha | 
 
 Above him is the goddess whose form begins with N and ends with PH. Endowed with all the limbs, possessing a great lusture, she plays. On each petal a couple are intent on play and dance. I will tell (you) the names of those heroes, along with (those of) the yogis (i.e., yoginīs). (20cd-22ab) 
 

@@ -83,7 +83,7 @@ svayaṁ pratiṣthitaṁ yena so ‘syābhoge vinaśyati ॥ 5 ॥
 
 [^937]: Read samāveśāpūrne for samāveśapūrno.
 
-[^938]: The sense, it seems, is that the deity should not be installed in a \[illegible\] by means of the secret mantras (1.6. those of the three Trika Goddesses, the four Bhairavas, etc.), but rather by means of the common generic mantras, that is, for example, the above mentioned ‘Eye’, which is Mṛtyuñjaya’s mantra. This is the seventh of seven common mantras Abhinava enumerates above in 22/20. ‘The use of mantras from the ‘higher’ scriptures in the installation of outer idols is prohibited, because these mantras can only grant perfection (siddhi) if they are used secretly and internally; because they might even be dangerous. This is explained by Śiva’s lust for enjoyment, and by alluding to the negative consequences for the worshipper who fails to comply with it, the quotation from the Jñānotiara (in TĀ 27/6-8) is adduced as a scriptural support. Here the desire for enjoyment, which is more readily connected with ferocious deities is projected onto Śiva. In the Mālinīvijayavārttikā the quotation has been adduced for similar reasons; the concept of enjoyment as a source of liberation; which has been mentioned in MVV 1/45, is explained in an admittedly oblique way through the quotation: if the desire of the deities is gratified through enjoyment, they grant perfection or liberation.” Hanneder 1998: 155. Also ibid note 29: ‘we can distinguish many aspects of this structure, a ritual one ('outside’ deities are gratified by forbidden substances), a Gnostic one (their nature is recognised) and one of internal ritual.” Sanderson 2006 (with reference to 27/1-13): “The mantras of the Siddhānta \[may be\] , . ~ installed permanently in fixed idols where they will remain so long as the appropriate Saiddhāntika worship and purity are maintained. The left maintains that its own mantra-deities are simply too powerful, indeed too dangerous, to be placed in this way beyond the immediate control of the worshipper. Fixed images of certain of the esoteric deities are not unknown; but where such installations are prescribed it is the exoteric mantras of the Siddhānta which animate them. So the boundary between the exoteric right and the esoteric left was breached in appearance rather than fact; for it is the mantras rather than the iconic forms which may be associated with them that are the essential embodiments of the deities in Tantric worship. There are cults of aniconic mantras but not icons which are not mantras.”
+[^938]: The sense, it seems, is that the deity should not be installed in a Liṅga by means of the secret mantras (1.6. those of the three Trika Goddesses, the four Bhairavas, etc.), but rather by means of the common generic mantras, that is, for example, the above mentioned ‘Eye’, which is Mṛtyuñjaya’s mantra. This is the seventh of seven common mantras Abhinava enumerates above in 22/20. ‘The use of mantras from the ‘higher’ scriptures in the installation of outer idols is prohibited, because these mantras can only grant perfection (siddhi) if they are used secretly and internally; because they might even be dangerous. This is explained by Śiva’s lust for enjoyment, and by alluding to the negative consequences for the worshipper who fails to comply with it, the quotation from the Jñānotiara (in TĀ 27/6-8) is adduced as a scriptural support. Here the desire for enjoyment, which is more readily connected with ferocious deities is projected onto Śiva. In the Mālinīvijayavārttikā the quotation has been adduced for similar reasons; the concept of enjoyment as a source of liberation; which has been mentioned in MVV 1/45, is explained in an admittedly oblique way through the quotation: if the desire of the deities is gratified through enjoyment, they grant perfection or liberation.” Hanneder 1998: 155. Also ibid note 29: ‘we can distinguish many aspects of this structure, a ritual one ('outside’ deities are gratified by forbidden substances), a Gnostic one (their nature is recognised) and one of internal ritual.” Sanderson 2006 (with reference to 27/1-13): “The mantras of the Siddhānta \[may be\] , . ~ installed permanently in fixed idols where they will remain so long as the appropriate Saiddhāntika worship and purity are maintained. The left maintains that its own mantra-deities are simply too powerful, indeed too dangerous, to be placed in this way beyond the immediate control of the worshipper. Fixed images of certain of the esoteric deities are not unknown; but where such installations are prescribed it is the exoteric mantras of the Siddhānta which animate them. So the boundary between the exoteric right and the esoteric left was breached in appearance rather than fact; for it is the mantras rather than the iconic forms which may be associated with them that are the essential embodiments of the deities in Tantric worship. There are cults of aniconic mantras but not icons which are not mantras.”
 
 
 *[p. 402]* ^pg422
@@ -129,7 +129,7 @@ certainly (jātu) not install the Mantras of the secret scriptures externally, e
 
 ‘Or else one should also install (the deity) in the cremation ground when the body (of the deceased) has been burnt.’[^943] 
 
-[^942]: On the distinctions into manifest, unmanifest, etc., with regards to Lingas see above, 5/113. See also MV 18/1-56ab with regards to the adept who is ‘avyaktaliṅgin’ and 15/595cd-596. Cf. Kulapañcaśikā: avyaktaliṁginaṁ \[k: -tarn\] \[illegible\] saibhāsanti marīcayaḥ | liṅginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet) ॥ 3/19 I Quoted by Kṣemarāja in commentary on the Sivasütra 3/26.
+[^942]: On the distinctions into manifest, unmanifest, etc., with regards to Lingas see above, 5/113. See also MV 18/1-56ab with regards to the adept who is ‘avyaktaliṅgin’ and 15/595cd-596. Cf. Kulapañcaśikā: avyaktaliṁginaṁ \[k: -tarn\] dṛṣṭvā saibhāsanti marīcayaḥ | liṅginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet) ॥ 3/19 I Quoted by Kṣemarāja in commentary on the Sivasütra 3/26.
 
 [^943]: NT 18/119cd. The printed edition of the NT reads: pratiṣthāpyari tathā devi ʻO goddess, (the god) should be installed in this way’ for pratiṣthā vāpi kartavyā — ‘Or else one should also install (the deity) . . .’. Kṣemarāja explains that the meaning of ‘when the body (of the deceased) has been burnt’ (dagdhapinde) is ‘when the location of the body has been burnt’ (pluṣtadehasthāne). śrāddhe saṁpūjayed devam antyeṣtāv athavā yajet | pratiṣthāpyaṁ tathā devi dagdhapinde śmaśānake Il pūrvoktair dravyasaṁbhārair gurunā prāgvidhānataḥ | pūrvoktaṁ \[illegible\] rūpaṁ śaktidvayasamanvitam || dagdhapinde pluṣtadehasthāne | pūrvoktam iti bhairavīyaṁ śaktidvayaṁ kṛśasthūlam | “The god should be worshipped in the course of the rite of feeding the ancestors (SrĀāddha). Or else one should sacrifice (to him) during the funerary rite. O goddess, (the god) should be installed in this way when the body (of the deceased) has been burnt. (The god Bhairava,) who was mentioned before, (his) form frightening and possessing two energies (one subtle and the other gross), (should be worshipped) by the teacher with the requisite (sacrificial) substances in accord with the previous procedure.’ NT 18/119-120 This passage refers to a funerary rite taught above in Chapter Twenty-one. See TĀ 21/12-13 is a condensed paraphrase of NT 18/112-16a, which is quoted in full by Jayaratha, and TĀv ad 21/22cd-24, where NT 18/1 16bcd-117ab is quoted. The Jñānottara is referring to ‘secret scriptures’. So when it says ‘elsewhere’ that is, in other scriptures apart from itself and those like it, we would presume that it is referring to these ‘secret scriptures’. So it is surprising that Jayaratha cites the Netratantra (alias Amṛteśvara), which is not generally considered to be a ‘secret scripture’, as an example, especially because its main mantra, dedicated to Mṛtyuñjaya, is a common, public one (see above, note 27,6).
 
@@ -196,7 +196,7 @@ putrakair gurur abhyarthyaḥ sādhakas tu svayaṁ vidan |
 yadi tat sthāpayen no cet tenāpy arthyo gurur bhavet ॥ 10 ॥
 guruś cātra nirodhākhye kāla ittharni vibhau vadet |
 Jjīvaty asmin phalāntaṁ tvar tiṣther jīvāvadhīti vā || 11 ॥
-\[illegible\] ca bāṇaliṁgaṁ vā ratnajaṁ vātha mauktikam |
+liṅgaṁ ca bāṇaliṁgaṁ vā ratnajaṁ vātha mauktikam |
 pauṣpam ānnam atho vāstra gandhadravyakṛtaṁ ca vā ॥ 12 ॥
 na tu pāṣānajar liṅgaṁ silpyutthaṁ parikalpayet |
 dhātūtthaṁ ca suvarṇotthavarjam anyad vivarjayet I| 13 ॥
@@ -254,7 +254,7 @@ Of all the aniconic (avyakta)[^949] signs (of the presence of deity) (liṅga), 
 
 *[p. 407]* ^pg427
 
-artifact (kalpanā) with regard to a thread (that is used for a rosary), a (sacrificial) jar, a flag, a cloth, a spontaneously born precious stone (bāṇa) venerated (as a liṅga), and one that has arisen in the current of a river. Nor is there any restriction (in this case) as to the (location) of a sacred seat \[illegible\] or building (where they are enshrined),[^951] (the suitable) limbs of mantras (by which they are worshipped), time (when it should be done), or the like.[^952] (17-19ab) 
+artifact (kalpanā) with regard to a thread (that is used for a rosary), a (sacrificial) jar, a flag, a cloth, a spontaneously born precious stone (bāṇa) venerated (as a liṅga), and one that has arisen in the current of a river. Nor is there any restriction (in this case) as to the (location) of a sacred seat (pīṭha) or building (where they are enshrined),[^951] (the suitable) limbs of mantras (by which they are worshipped), time (when it should be done), or the like.[^952] (17-19ab) 
 
 ### TĀ 27.19–20
 
@@ -293,7 +293,7 @@ We will now state its defining characteristic (lakṣana), as described in the v
 
 “As long as (he has not) attained a state of identification (with the deity, or) so long as the desired fruit has not arisen.”[^957] 
 
-‘Made of cloth’ — the dwelling (of the deity) is made from cloth alone. He implies (by saying that the \[illegible\] ‘should not be made of stone’ that that is (only) fit for a permanent installation (of the deity). By saying that ‘any other should be avoided’, the meaning is that it should be made of gold. “The measurements etc. (listed in scriptures for) liṅgas are of no application here’. It is said with the same intended sense, that: 
+‘Made of cloth’ — the dwelling (of the deity) is made from cloth alone. He implies (by saying that the liṅga) ‘should not be made of stone’ that that is (only) fit for a permanent installation (of the deity). By saying that ‘any other should be avoided’, the meaning is that it should be made of gold. “The measurements etc. (listed in scriptures for) liṅgas are of no application here’. It is said with the same intended sense, that: 
 
 ‘one should not consider (what would be the correct) size etc. of (liṅgas) that have been installed by Siddhas.” 
 
@@ -485,7 +485,7 @@ saktitadvatprabhedena tatra dvairūpyam ucyate || 33 ॥
 tato dvigunamāne tu dvirūpaṁ nyāsam ācaret |
 tato ‘pi dvigune sṛṣtisaṁnhṛtidvitayena tam || 34 ॥
 mātṛkāṁ mālinīṁ vā ‘tha nyasyet khaśarasaṁmite |
-uttame tu \[illegible\] nyasyenyasya pūürvaṁ pracoditān || 35 ॥
+uttame tu dvayīṁ nyasyenyasya pūürvaṁ pracoditān || 35 ॥
 dīkṣāyāṁ mukhyato mantrāris tān pañcadaśa daiśikaḥ |
 yadi vā tattvabhuvanakalāmantrapadārnajaiḥ ॥ 36 ॥
 samkhyābhedaiḥ kṛte sūtre tarn ta nyāsaṁ guruś caret |
@@ -536,7 +536,7 @@ kinds. (There is the oneness) that ‘precedes’, because the limiting adjuncts
 
 ‘Or if’, according to another view, (the beads of the rosary correspond to the constituents of the six-fold Path). (This is the procedure) ‘taught’ in the nineteenth chapter (of the Mālinīvijayottara). As is said there: 
 
-‘Then, with this (same) procedure, the wise man should fashion a rosary made of gems, pearls, (or) mother-of-pearl etc. (or) lotus seeds (padmākṣa) etc. Or else it may be made of metal such as gold and measure fifty beads.[^972] It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down (from one’s hand),[^973] made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Śakti there. One should utter the seed-syllable with each (bead) encapsulated (puṭāntaga) by the seed syllable of Parā.[^974] One should connect the radiant \[illegible\] at the end to the one letter which is at the beginning.[^975] 
+‘Then, with this (same) procedure, the wise man should fashion a rosary made of gems, pearls, (or) mother-of-pearl etc. (or) lotus seeds (padmākṣa) etc. Or else it may be made of metal such as gold and measure fifty beads.[^972] It should be just the length of one’s own arm and formed into the shape of bracelet. Laying hold of that, hanging down (from one’s hand),[^973] made fragrant with perfume and incense etc., having worshipped the Lord of Kula, place Śakti there. One should utter the seed-syllable with each (bead) encapsulated (puṭāntaga) by the seed syllable of Parā.[^974] One should connect the radiant KṢ at the end to the one letter which is at the beginning.[^975] 
 
 One should recollect the first letter as the most powerful (bhūyaḥ), pervading and presiding over all (the others). The letters are also of two kinds, the procedure regarding (their) division is considered to be this one (as follows). The pervasive letter (which is the first one) is in the second one. The second one should be deposited as was the previous one (into the one that follows), and so on with the third and the rest of the letters, ending with PH.[^976] This is also an accepted way. 
 
@@ -571,7 +571,7 @@ The Sacrificial Jar
 athavārghamahāpātramn kuryāt tac cottarańn param |
 nārikelam atho bailvaṁ sauvarṇaṁ rājataṁ ca vā ॥ 40 ॥
 tasyāpy eṣa vidhiḥ sarvaḥ pratiṣthādau prakīrtitaḥ |
-tan niṣkamparasaiḥ \[illegible\] kṛtvāsmin pūjayet kramam ॥ 41 || 
+tan niṣkamparasaiḥ pūrṇaṁ kṛtvāsmin pūjayet kramam ॥ 41 || 
 
 Or else, the great sacrificial jar may be made of coconut, bilva,[^979] gold or silver, (bearing in mind that the type) which follows (in this series of options) is superior (to that which precedes). The procedure (to follow) for its consecration etc. also is all as has been explained (before, in the preceding cases). Having filled it with (the sacrificial) fluids meant for those without fear (niṣkamparasa), (the deities of) the liturgy (krama) should be worshipped within it. (40-41) 
 
@@ -603,7 +603,7 @@ fluids meant for those without fear (niṣkamparasa)’ are the (bodily) secreti
 पूजान्ते तद्रसापूर्णमात्मानं प्रविधाय तत् ।
 अधोमुखं च संपूज्य स्थापयेत विचक्षणः ॥ ४३ ॥
 
-adhomukhaṁ sadā \[illegible\] pūjita pūjane punaḥ |
+adhomukhaṁ sadā sthāpyaṁ pūjita pūjane punaḥ |
 tat pātramunmukhaṁ tac ca riktaṁ kuryān na tādṛśam ॥ 42 ॥
 pūjānte tadrasāūpūrnam ātmānari pravidhāya tat |
 adhomukhaṁ ca saṁpūjya sthāpayeta vicakṣanaḥ ॥ 43 ॥ 
@@ -639,7 +639,7 @@ sthandile ‘gnau pate liṅge pātre padme ‘tha mandale ॥ 45 ॥
 mūrtau ghate ‘strasaṅghāte paṭe sūtre ‘tha pūjayet |
 svena svenopacārenṇa saṁkarar varjayed iti ॥ 46 ॥ 
 
-It is said in the venerable Kālīmukha that a sword, a blade, a dagger, or a mirror without blemish may also (serve as the supports on which to worship the deity) in the same way. It is also said in the venerable Bhairavakula, that during the celebration that takes place on Kula feast days (kulaparvan),[^983] one should worship (the deity) with its own appropriate offerings (upacāra) on the sacrificial surface, in the fire, on a cloth, in a \[illegible\] a (sacrificial) vessel, a lotus, a mandala, an icon (mūrti), a jar, on an assemblage of weapons, a jar, or on a thread. One should avoid mixing them up. (44-46) 
+It is said in the venerable Kālīmukha that a sword, a blade, a dagger, or a mirror without blemish may also (serve as the supports on which to worship the deity) in the same way. It is also said in the venerable Bhairavakula, that during the celebration that takes place on Kula feast days (kulaparvan),[^983] one should worship (the deity) with its own appropriate offerings (upacāra) on the sacrificial surface, in the fire, on a cloth, in a liṅga, a (sacrificial) vessel, a lotus, a mandala, an icon (mūrti), a jar, on an assemblage of weapons, a jar, or on a thread. One should avoid mixing them up. (44-46) 
 
 #### Viveka on 27.44–46
 
@@ -812,7 +812,7 @@ He concludes this (topic, saying):
 बहुप्रकारभिन्नस्य लिद्धस्याची निरूपिता ॥ ५९ ॥
 bahuprakārabhinnasya liṅgasyārcā nirūpitā ॥ 59 ॥ 
 
-The worship of the \[illegible\] which is of many kinds, has (thus been) described. (59cd) 
+The worship of the liṅga, which is of many kinds, has (thus been) described. (59cd) 
 
 #### Viveka on 27.59
 
@@ -998,7 +998,7 @@ siddhānār siddhidari jñānaṁ khecaryaḥ paryupāsate ॥ 23 ||
 siddhāḥ śrīkhagendrādyāḥ, khecaryaḥ saṁividgaganacārinyo devyaḥ | paritaḥ samantād upāsate tanmayatvena sphuranti ॥ 23 ॥
 yady api śāktarni jñānaṁ sarveṣāṁ bhittiḥ, tathāpi 
 
-ajñānenāvṛtaṁ \[illegible\] paśūnām samalaṁ sthitam | 
+ajñānenāvṛtaṁ jñānaṁ paśūnām samalaṁ sthitam | 
 
 ajñānaṁ māyāśaktikṛtam ātmany anātmatāpratipattipurahsaram anātmani dehādāv ātmābhimānātma || yata evam ato yogābhyāsaprabuddhena nijena 
 
@@ -1067,8 +1067,8 @@ Abiding, in accord with this traditional doctrine, for a hundred measures (of ti
 *[p. 431]* ^pg451
 
 ākramya taṁ hṛdisthaṁ vai adha ūrdhvapraveśataḥ | 29 ॥
-\[illegible\] samāsādya samatvaṁ tatra cābhyaset |
-\[illegible\] kāraṇam āśritya svatantratvaṁ tadābhyasetl\\ 30 ॥
+ekībhāvaṁ samāsādya samatvaṁ tatra cābhyaset |
+paraṁ kāraṇam āśritya svatantratvaṁ tadābhyasetl\\ 30 ॥
 parar kāraṇam śākta balam āśritya tadgraheṇāvaṣtabhya | tatra ceti paran prerayati yadevāha karomi, tadevāyaṁ karotv 'rśam samabhyasyan tena 
 
 saha ekyam āsādya svatantratvam abhyased iti jigamiṣuṁn nirodhayet tiṣthan taṁ gamayed iti krameṇa ta svaceṣtāvaśaga kuryāt |
@@ -1152,7 +1152,7 @@ gṁītvā tat svacetasā ॥ 34 ॥
 praviśet tu tadā yogī puram ākramya sarvataḥ |
 druta gṁītaṁ tat sarvan kṣipram ātmastham ānayet || 35 || 
 
-tad iti pūrvokta sarvan gṁītvā, āgamoktadṛṣṭyā sādhyasya mūrdhadvāreṇa niṣkramya cetasā purar \[illegible\] praviśet | tatas tad ākramya śaktyā ‘sya yat \[illegible\] drutaṁ vilāpitan saṁgṁītam, tat sarvan kṣipram ātmaniṣthaṁ kuryāt 113511 
+tad iti pūrvokta sarvan gṁītvā, āgamoktadṛṣṭyā sādhyasya mūrdhadvāreṇa niṣkramya cetasā purar śarīraṁ praviśet | tatas tad ākramya śaktyā ‘sya yat pūrvaṁ drutaṁ vilāpitan saṁgṁītam, tat sarvan kṣipram ātmaniṣthaṁ kuryāt 113511 
 
 Now \^. . . having laid hold of that with his own mind, the yogi should then enter, once invaded (ākramya), the body (of the victim) in every way. Having quickly laid hold of all that, he should quickly place it within himself.’ (34d-35) 
 
@@ -1229,7 +1229,7 @@ He says that:
 
 mantramudrāvidhānena vidhinā pāṁisavena ca || 38 ॥
 dhyānayogabalenaiva chummakādyaṁgalakṣanṇaiḥ |
-pātayanti na sandehaḥ \[illegible\] pāśavari puram || 39 ॥ 
+pātayanti na sandehaḥ paśūnāṁ pāśavari puram || 39 ॥ 
 
 Without a doubt, (the yoginīs) cause the bestial body of the sacrificial animals to fall, by means of the procedure concerning the dust (scattered on them), and the procedure prescribed for the Mantras and Mudrās, by the strength of the (officiant’s) yoga and meditation, and by the marks on (their) limbs made with code words (chummaka) and the like (38cd-39) 
 
@@ -1246,7 +1246,7 @@ krodharājaniruddhar tu śmaśānapaṭamadhyagam |
 yasya nāma varārohe humphatkāravidarbhitam |
 mārayeti samāyogāt krūrajātividarbhitam |l mriyate saptarātreṇa yo rakṣābhiḥ surakṣitaḥ | iti | 
 
-‘Paralysed by the King of Anger (HUM) in the middle of a shroud taken from a cremation ground, one should draw, O fair-hipped one, his name with (ink made by mixing) the dust taken from a cremation ground along with the blood (of a dead man) and poison. (The letters of the name are) woven together with HUM and \[illegible\] and so, by conjoining it with MĀRAYA (die!), embroidered with the syllable of Cruelty (PHAT), he dies in seven nights, (even if he is) protected by protective amulets.” (SvT 9/64-66) 
+‘Paralysed by the King of Anger (HUM) in the middle of a shroud taken from a cremation ground, one should draw, O fair-hipped one, his name with (ink made by mixing) the dust taken from a cremation ground along with the blood (of a dead man) and poison. (The letters of the name are) woven together with HUM and PHAṬ, and so, by conjoining it with MĀRAYA (die!), embroidered with the syllable of Cruelty (PHAT), he dies in seven nights, (even if he is) protected by protective amulets.” (SvT 9/64-66) 
 
 mudrāvidhānari tu vyomakundalinītyādimāntrasaṁpradāyopakrameṇa baddhvā saptaśikhāṁ mudrām āśikhāntaṁ halākṛtim | ityādinā, tadā grasanti yoginyo rāvaṁ kṛtvā śikhāntare | ity antena sSrīguptatantre pradarśitam | pāṁsavavidhir api 
 
@@ -1256,7 +1256,7 @@ saptamyāṁ kṛṣnapakṣasya prabhāte lakṣayet sadā |
 kṛtanyāsabalā dhīrādhīrā vā yoginī priye ॥
 prathamaṁ nirgatā yā tu nārī vā puruṣo ‘pi vā |
 vāmadakṣiṇahastābhyāṁ vāmadakṣinapādayoḥ ||
-grāhayet \[illegible\] uddhṛtya dakṣine puruṣasya ca |
+grāhayet pāṁsum uddhṛtya dakṣine puruṣasya ca |
 apasavyena vāmāyā malloke mārayet sadā || 
 
 ‘One should always observe at dawn on the seventh (day) of the dark fortnight, O beloved, whether the yoginī is resolute, strong by having deposited (mantra on her body) or fickle. One should lay hold of the dust on the left and right foot with the left and right hand, whether to come forth is a woman or a man, having picked it up on the right side of a man and with the left of a woman, he should always kill it in my world.’ 
@@ -1267,7 +1267,7 @@ ityādinā tatraiva darśitaḥ | jñānayogabalam yogīśvaryātmanijamūrtyāv
 
 APPENDIX CHAPTER SIXTEEN 
 
-kāni āgamikapāribhāṣikanāmāni, tad yathā \[illegible\] vibhāgajananam māmsam balavivardhanam, kāleyakaṁ kusumam, vasā mandam, śiro vicāraḥ, śastrahato labdhaḥ 
+kāni āgamikapāribhāṣikanāmāni, tad yathā śastraṁ vibhāgajananam māmsam balavivardhanam, kāleyakaṁ kusumam, vasā mandam, śiro vicāraḥ, śastrahato labdhaḥ 
 
 This and more is explained there itself. The strength of the yoga of knowledge is the capacity to extract the Five Nectars[^1004] within the victim’s body, by the process of ascent (of the vital force) from the navel, brought about by penetration (āveśa) into its own iconic form, which is Yogīśvarī. The ‘chummakas’ are appellations that serve as code words in the Āgamas.[^1005] For example, (the word) ‘weapon’ means ‘creating division’; ‘meat’ (means) ‘the growth of strength’; ‘curcuma’ (means) ‘flower’; ‘marrow’ (means) ‘brandy’; ‘head’ (means) ‘cogitation’; and ‘struck by a weapon’ (means) ‘obtained’. They are cut up in accord with the method (enjoined for a) slaughtered animal, as are the signs (made on) of the limbs (of the sacrificial animal) that serve as offerings (to the deity) of other practices (ācāra) (such as this one) taught in each particular Dākinītantra. 
 

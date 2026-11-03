@@ -98,7 +98,7 @@ Twelve Kālīs surrounds the one in the centre; each reflect her like so many mi
 
 ‘She is Kṛṣodarī (the Thin One) of the Kula of the Sun. The Wheel has arisen from that essential nature, and it is established within the rhythm (gati) of the Sun of the Sun (bhānvarka) of Consciousness. It shines as if it were a reflection (pratibimba), its sole intent is to devour the original image (bimba). "[^1061] 
 
-Thus, Takṣāvarta says in his Tantrarājāvatārastotra: ‘I sing the praise of the sequence-transcending circle of powers animated by the supreme Goddess that resembles a single face appearing in contact with a series of mirrors.’[^1062] As we shall see in chapter five of the Devīpañcaśatika, translated here in Appendix C, their mandala is a red circle surrounded by twelve others (fl. \[illegible\] (Sanderson 2006b: 21 n. 55). We find the same in the Kālīkulakramārcana. According the Trikasadbhāva, as reported by Abhinava in Chapter Thirty-one, Krama worship is incorporated into Trika by placing the twelve circles around the centre into the Trika triple Trident Mandala.[^1063] 
+Thus, Takṣāvarta says in his Tantrarājāvatārastotra: ‘I sing the praise of the sequence-transcending circle of powers animated by the supreme Goddess that resembles a single face appearing in contact with a series of mirrors.’[^1062] As we shall see in chapter five of the Devīpañcaśatika, translated here in Appendix C, their mandala is a red circle surrounded by twelve others (fl. 59v3)’ (Sanderson 2006b: 21 n. 55). We find the same in the Kālīkulakramārcana. According the Trikasadbhāva, as reported by Abhinava in Chapter Thirty-one, Krama worship is incorporated into Trika by placing the twelve circles around the centre into the Trika triple Trident Mandala.[^1063] 
 
 This reduplicated oneness is also within the centre, where the opposites are. As we have seen, they can be male and female. In the CMSS, Kṛśodarī - the Old Hag - is paradoxically identified with the lovely youthful Kumārī in the centre (249). She is mentioned in this role right at the start, so it is not just a detail or a stray possibility. The pair identified with the Goddess of Time symbolize, no doubt, that her Time is pliable, just as her nature is inscrutable (anākhya). 
 
@@ -121,7 +121,7 @@ emptiness, generating emptiness, consuming emptiness, contemplated by astonished
 
 The scriptures tirelessly intensify the vision with ever deepening and expanding planes of wonder.[^1065] The yogi thus rushes along this via negative, which here, in this most secret and internal process — Krama - is the tradition - Krama teaching and apocalyptic power of transformation. The language is mysterious, as is the reality and the experience it teaches. As we read, we are repeatedly mystified and find ourselves grasping for meaning, when we should instead be letting go and face the horror of Kāla — Death and its power - Kālī to discover that this, the End of all endings, is the beginningless Eternity that engulfs time ~ kāla — and its power — KĀālī, even as it is its source. Unconfined Space (ākāśa), the Sky (gagana, kha, vyoman), the Place (sthāna) without location, plane (pada) beyond Being and Nonbeing, Void (śūnya) and Emptiness (śñnyatā); such is the Womb (garbha) of the One Who is pregnant with the Void (garbhinī). This the Supreme Sun (paramārka) that unfolds like a lotus, the expansion of Emptiness into Emptiness of the Year of the Twelve Suns, the Eternity of the perpetual recurrence of timeless Time. For those who do not know it, their existence severed from this, the Void of their true nature, it is recurrent death. For those who are true yogis, Skyfarers in the Void of their pure consciousness nature, it is eternal life. 
 
-The influence of the Kālī Krama is strongly felt in the later Kubjikā Tantras, although it is unknown to the Kubjikāmata, the earliest Kubjikā Tantra. By the time we reach the Ambāsaṁitā, the Kālīs appear a couple of times in the Kubjikā sources. In the Māyāstava (chapter 19 of the Ambāsaṁhitā), Kubjikā as Mahāmāyā is praised as the thirteenth Kālī in the centre of the circle of twelve. Moreover, it is stated there that Kubjikā revealed the Kālī Krama to the last of a lineage of the Nine Siddhas who transmitted the Kubjikā Tantras. In the Kumārikākhaṇda of the Manthānabhairavatantra, Kubjikā’s alter ego is portrayed in a few places as Kālasaṁkarṣiṇī \[illegible\] The Trika was a major component of the Kubjikā transmission right from the start. In the Kubjikāmata, the earliest Kubjikā Tantra, this is clearly evidenced by the fact that six of its eighteen chapters are drawn from the Tantrasadbhāva, a Trika Tantra, although it was not influenced by the Kālī Krama. 
+The influence of the Kālī Krama is strongly felt in the later Kubjikā Tantras, although it is unknown to the Kubjikāmata, the earliest Kubjikā Tantra. By the time we reach the Ambāsaṁitā, the Kālīs appear a couple of times in the Kubjikā sources. In the Māyāstava (chapter 19 of the Ambāsaṁhitā), Kubjikā as Mahāmāyā is praised as the thirteenth Kālī in the centre of the circle of twelve. Moreover, it is stated there that Kubjikā revealed the Kālī Krama to the last of a lineage of the Nine Siddhas who transmitted the Kubjikā Tantras. In the Kumārikākhaṇda of the Manthānabhairavatantra, Kubjikā’s alter ego is portrayed in a few places as Kālasaṁkarṣiṇī Kālī. The Trika was a major component of the Kubjikā transmission right from the start. In the Kubjikāmata, the earliest Kubjikā Tantra, this is clearly evidenced by the fact that six of its eighteen chapters are drawn from the Tantrasadbhāva, a Trika Tantra, although it was not influenced by the Kālī Krama. 
 
 It is clear that the Kubjikāmata belongs to a later stage of development of Kaulism, because of the primary importance it gives to Matsyendranātha and his disciples. It refers to their tradition as the ‘pūrvāmnāya’ — the ‘first’ or ‘preceding tradition’, in relation to which the Kubjikā Tantras are the ‘paścimāmnāya’, that is, the ‘subsequent’, ‘last or ‘final tradition’. The Kubjikāmata does link Kubjikā to Kālī, but not to the Kālī of the Kālī Krama, whereas the Kubjikā tradition that developed in the Manthānabhairava and continued to grow throughout it into the later Kubjikā Tantras absorbed the Kālī Krama. It is possible that this happened due to the influence of later forms of Trika that had integrated the Kālī Krama into themselves. Whether this was so or not, we know that it is a relatively developed form, as it characterized as the Uttarāmnāya in the Yogakhanda (1) of the Manthānabhairava. These are markers of development. There are others in the CMSS that foreshadow later developments. One is particularly evident. The eight times eight Bhairavas of the earlier sources here develops into ‘the knowledge of Vāmā’, consisting of 
 
@@ -207,7 +207,7 @@ ravipradīpako loke sūryamadhyād vinirgataḥ |
 ravir antargato bhānur \[k kh: bhānu g: g: bhānu\] bhāsayaty akhilam jagat ॥
 166 II bhānavī kaulinī yā sā tatpuñjabharitaṁ \[all: -paritaṁ\] jagat |
 tatrotpannā mahāmantrā \[kh: mahāmāntrā\] bhairavāṣtāṣtayonayaḥ \[g: - yodayah\] ॥ 167 ॥
-20b k) ravibhānumayī devī \[g: devi\] \[illegible\] \[kh: -śrī\] kulagahvarī |
+20b k) ravibhānumayī devī \[g: devi\] kauleśī \[kh: -śrī\] kulagahvarī |
 37b gh) kṣobhānandā virāmā \[gh: virāma\] tu paśyate \[kh: pamśyate\] kulasantatiḥ \[k g gh: -santati\] ॥ 168 ॥ 
 
 1 will tell (you) the great knowledge which is Without Action (niṣkriya). Listen, O lady of good vows. The one who illumines the (immanent) Sun (ravi) has emerged from the (transcendental) Sun (sūrya).[^1072] Ravi is the inner Sun that illumines all the universe. (166) The universe is filled with the network (of the rays of energy that emanate from) her, she who is Bhānavī Kaulinī. The great mantras that have arisen there are the wombs (yoni) of the eight times eight Bhairavas.[^1073] The goddess is Kauleśī, who is the Sun of the sun (ravibhānumayī); she is the Abyss of Kula (kulagahvarī), the bliss of arousal (and also) repose, she is seen to be the Kaula lineage (santati). (165cd-168) 
@@ -245,13 +245,13 @@ Kaulinī śakti (is the inscrutable Anākhyā, she) is not Kula (the Twelve Kāl
 
 Niṣkriyānanda and His Sexual Yoga 
 
-sṛstiḥ \[all: sṛṣtis\] sarvagatasyaiva samhārari kathayāmi te ॥ 174 ॥ rasenānandajami (> rasanā-) \[illegible\] yadā \[g: padā; gh: yādā\] grāhyena \[gh: grā \* na\] gṛhyate |
+sṛstiḥ \[all: sṛṣtis\] sarvagatasyaiva samhārari kathayāmi te ॥ 174 ॥ rasenānandajami (> rasanā-) rūpaṁ yadā \[g: padā; gh: yādā\] grāhyena \[gh: grā \* na\] gṛhyate |
 \[illegible\] \[all: yadā\] pratyastamas tatra sa ca taṁ vṛttigocaram \[k: vrrtti-; kh: vṛttiṁ-\] ॥ 175 ॥
 9 kh) 
 
 40ag 
 
-) \[illegible\] \[k g: -vrrttih\] pralīnatvāj jāyate \[g: pralīnanvājāyate\] paramādbhutam |
+) ) kṣīṇavṛttiḥ \[k g: -vrrttih\] pralīnatvāj jāyate \[g: pralīnanvājāyate\] paramādbhutam |
 trikoṇnar tattrikonasthaṁ \[k kh gh: ta-; gh: -stha\] suśiraṁn suśirāgragam \[k: - gratar; kh: suśirāgratam\] ॥ 176 ॥ 
 
 [^1074]: See above 156.
@@ -289,7 +289,7 @@ bhairava uvāca
 
 40b g) sṛnu devi \[g: devīḷ\] pravakṣyāmi samkrāmaṁmi yasya \[g: pasya\] satńikramam || 181 ॥
 sīlācitir munivaras \[k: silācitin munivaraṁ-; kh: silācitiy munivarami-; g: manivarar-\] tasya putras tapodhanaḥ \[k kh gh: pūtratapodhanam; g: putratayodhanaṁ\] |
-yogābhyāsarato \[k g: \[illegible\] kh: -jyāsarataṁ; gh: -tyāsaratarni\] devi siddhaḥ lall: siddha\] śāvararūpadhṛk \[all: sāvara-\] ॥ 182 ॥
+yogābhyāsarato \[k g: -rataṁ; kh: -jyāsarataṁ; gh: -tyāsaratarni\] devi siddhaḥ lall: siddha\] śāvararūpadhṛk \[all: sāvara-\] ॥ 182 ॥
 vidyānandeti vikhyāto \[all: -tam\] mahādhīravaraḥ \[all: -varaṁ\] priye |
 śmaśānavāsī \[k kh: -vāśī; gh: smaśānavāśi\] nityastho niśātanarataḥ \[all: nisā-\] paraḥ \[all: param\] ॥ 183 ॥
 siddhayogīndro \[k kh g: -yogendra; gh: -yoyendra\] vīraś \[all: vīrāś\] ca cakracārarataḥ \[k kh gh: -rati; g: -rata\] priye | 
@@ -317,9 +317,9 @@ karoti
 
 \[gh: 
 
-kaloti\] bhaktim \[illegible\] bhakti\] yogīndro \[gh: yogrīndro\] 
+kaloti\] bhaktim [all: bhakti\] yogīndro \[gh: yogrīndro\] 
 
-bhaktiḥ \[all: bhaktis\] tīvratarāṁ \[illegible\] -rāḷ\] \[illegible\] fall: divyāḷ\] kṛtvā śāvararūpadhṛk \[k kh gh: sāvara-; g: sāva Kalikakrama rūpadhṛk\] |
+bhaktiḥ \[all: bhaktis\] tīvratarāṁ \[illegible\] -rāḷ\] divyāṁ fall: divyāḷ\] kṛtvā śāvararūpadhṛk \[k kh gh: sāvara-; g: sāva Kalikakrama rūpadhṛk\] |
 tasya 
 
 \[gh: 
@@ -339,7 +339,7 @@ The Hymn of Fifty Verses to the Kālīs by Niṣkriyānanda (Kālikākramapañca
 teṣāṁi bhedaṁ vadiṣyāmi \[g: vadikhyāmi\] śṛnu sarvar tu pārvati |
 vibhaktodbhavacakrāntam \[k kh: vibhaktadbhava-; g: vibhaktyād-; gh: vibhaktādbhava\] gaganari gaganoditam ॥ 189 ॥ dvādaśārkaprabhākālī \[all: dvādaśāṁka-\] vyomarūpā khabhakṣinī \[k kh gh: ścabhakṣanī; g: svabhakṣanī\] | (1) 
 
-sphuratkṣīṇā \[g: sphurakṣīṇā\] svayami \[all: svarai\] kṣīṇāt \[k: kṣīnan; kh g gh: kṣīṇan\] tat \[gh: tan; g: ta\] \[illegible\] \[g: kṣvīṇai\] divyagocaram \[kh: -śocaraṁ\] I 190 I|
+sphuratkṣīṇā \[g: sphurakṣīṇā\] svayami \[all: svarai\] kṣīṇāt \[k: kṣīnan; kh g gh: kṣīṇan\] tat \[gh: tan; g: ta\] kṣīṇaṁ \[g: kṣvīṇai\] divyagocaram \[kh: -śocaraṁ\] I 190 I|
 21b k) kramasaṁhārasaihārari \[g: kramaṁ-\] pāramparyakramānugam | (2) 
 
 I will explain the difference between them. O Pārvatī, listen to everything. 
@@ -395,7 +395,7 @@ It is the Yoni (bhaga), beyond the plane of the Yoni (of Māyā). It is the teac
 rudraś ca rudraśaktiś (> rudrena rudraśaktyā) ca yaugapadyena mathitam \[k gh: yugapadmena bhaktitahn; kh: yugapadmena bhariktitari\] ॥ 199 ॥
 sarudraḥ drāvakami \[k: drāvakhaḥ; kh: drāvakhammi; gh: -ka\] khar \[k kh: ke\] khe \[gh: ke\] kaṅkālakulakaulikam \[k: kaṁkākekulakaulike; kh gh: karnikokela kukaulake\] | (11) 
 
-saktipindadravāntasthaḥ \[k kh: śaktimanda-; gh: mundavravāntasthai\] bhagayoge \[all: bhābhayoge\] \[illegible\] ॥ 200 ॥
+saktipindadravāntasthaḥ \[k kh: śaktimanda-; gh: mundavravāntasthai\] bhagayoge \[all: bhābhayoge\] śivāntake ॥ ॥ 200 ॥
 20a kh) sapindaḥ \[all: sapindas\] siddhyate rūpī rūpālayapadāntakṛt | (12) 
 
 (Kālī, the energy of the Mata,) is Passion (kāma), the (divine) Passion within (worldly) Passion, the act of union (maithuna), which is the radiant energy (tejas) within all the energies. The energy of the Mata is said to be enjoyment (bhoga), (spiritual) enjoyment within (worldly) enjoyment. (10) 
@@ -425,7 +425,7 @@ kaulakaṁkālakalayā \[kh: -kaṁkola-\] grāsaghasmararīūpinī || 204 || k�
 -sobhitabhānakī; kh: - bhitabhānakī; gh: dvādasodita-\] | (16) 
 
 kramākramari \[all: kramātkrama\] param kraman \[k kh: paraṁ krāma; gh: param krāmami\] saṁkrāmari kālikākramam | 205 ॥
-sphuraty antargatā \[all: -gato\] ghūrmir \[illegible\] \[all: ghrrmmira-\] spandam uttamam | (17) 
+sphuraty antargatā \[all: -gato\] ghūrmir anākhyaṁ \[all: ghrrmmira-\] spandam uttamam | (17) 
 
 Kaulinī is that certain (inscrutable one) who delights in the bliss of consciousness shining vibrantly within the inner Void, which is the expansion (vikāsa) of the supreme outpouring of that essential nature. (15) 
 
@@ -507,7 +507,7 @@ bhāvābhāvavinirmuktaṁ sarvatoditaniṣkalam \[gh: -la\] | (32)
 
 tatroditā \[illegible\] 
 
-\[illegible\] devī kālī kaṁkālabhakṣinī ॥ 221 ॥
+parā devī kālī kaṁkālabhakṣinī ॥ 221 ॥
 42a gh) kaṁkālakandalaṁ pātrari pītvā \[gh: pītyā\] vyomāmṛtodbhavam | (33) 
 
 (Bhairava) the Skyfarer is the upper, most excellent Void, pervaded by the plane of the plane of its own (inherent nature). The body (pinda) (of energies) pulsates more intensely (spandatara) by the manifestation of that vitality. (30) 
@@ -545,7 +545,7 @@ Absorbing (into himself ~ ākṛṣya) the juice (rasa) of the root of the Void,
 He who contemplates the Kālīkrama, having become one (samarasa) in this way, the aeon (kalpa) is conceived within the aeon. It is conceived (vikalpita) by the conception (kalpa) of Kula (the Twelve Kālīs). (223-225ab) 
 
 23a k) kālicakram abhedam ca uditāvyaktamandalam || 225 ॥
-sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: \[illegible\] tricaitanyar \[all: -tanya\] layar gatam \[all: -gataḥ\] | (37) 
+sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: śūnya] tricaitanyar \[all: -tanya\] layar gatam \[all: -gataḥ\] | (37) 
 
 2la kh) tatra dhāmoditā kācid viśvākhyā \[k gh: visvākhya; kh: -khya\] sumarīcinī || 226 ॥
 bindunādakṣaye kṣīne sthāne citpadamandale | (38) 
@@ -674,10 +674,10 @@ etad \[gh: eted-\] bhedakramar devi nāmasamijñā prakīrtitā \[all: -tāḥ\]
 
 Bhairava said: 
 
-Listen, O goddess, I will tell (you) the secret of the Kaula tradition (āgama). O great auspicious one, it should be kept secret, but even so I will tell you. (The twelve Kālīs are) 1) \[illegible\] 2) Sthitikālī, and 3) Saṁhārakālī, the third, 4) Raktakālī is the fourth, 5) Sukālī, the fifth, 6) Yamakālī, the sixth, 7) Mṛtyukālī, the seventh, 8) Bhadrakālī is the eighth, 9) Paramārkā \[illegible\] is said to be the ninth, 10) Mahāmārtaṇdakālī is said to be the tenth, 11) the eleventh is (Kālāgni) Rudrakālī and 12) Mahākālī, the twelfth. O goddess, this sequence of the various (Kālīs) is said to be (the one of Kālī’s) names. (243cd-247) 
+Listen, O goddess, I will tell (you) the secret of the Kaula tradition (āgama). O great auspicious one, it should be kept secret, but even so I will tell you. (The twelve Kālīs are) 1) Sṛṣṭikālī, 2) Sthitikālī, and 3) Saṁhārakālī, the third, 4) Raktakālī is the fourth, 5) Sukālī, the fifth, 6) Yamakālī, the sixth, 7) Mṛtyukālī, the seventh, 8) Bhadrakālī is the eighth, 9) Paramārkā (Kālī) is said to be the ninth, 10) Mahāmārtaṇdakālī is said to be the tenth, 11) the eleventh is (Kālāgni) Rudrakālī and 12) Mahākālī, the twelfth. O goddess, this sequence of the various (Kālīs) is said to be (the one of Kālī’s) names. (243cd-247) 
 
 svabhāvā \[k: svasvadhā; kh: svasvavā\] svasvarūpā ca vyomānte \[gh: vyomante\] vyomabhakṣinī |
-hrīṁ \[illegible\] mantreṇa sampūjyā \[all: sapūjya\] dvādaśāre sadoditā \[gh: -ta\] ॥
+hrīṁ śrīṁ mantreṇa sampūjyā \[all: sapūjya\] dvādaśāre sadoditā \[gh: -ta\] ॥
 248 II madhye tu paramā devi kumārī kulabhakṣinī |
 dvādaśānte \[all: -śāntan\] tu saṁpūjyā \[all: sampūjya\] pūrvoktavidhi vallabhe ॥
 249 II 

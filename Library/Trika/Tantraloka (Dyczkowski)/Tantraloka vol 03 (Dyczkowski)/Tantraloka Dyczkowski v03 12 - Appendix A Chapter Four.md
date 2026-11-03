@@ -51,7 +51,7 @@ Bhairava’s fierce avatāra of Viṣṇu — Narasiṁha. This is a common asso
 
 *[p. 389]* ^pg402
 
-The Jayadrathayāmala teaches the worship of numerous forms of Kālī,[^1004] who is sometimes identified as a fierce counterpart of Lakṣmī. These are sometimes solitary or arranged in groups (cakra), as are these Kālīs. If the Mādhavakula is the earliest of the four \[illegible\] the list of the names of the thirteen Kālīs we find in the chapter translated in Appendix A is the earliest known one.[^1005] Be that as it may, Jayaratha quotes it as an authority in his commentary,[^1006] and the names and sequential order is indeed what we most commonly find. Although they are listed there, and the list certainly served as a model, they are just one of numerous configurations of Kālīs. However, in the Kālīkula (also called Kālīkrama) scriptural sources that followed, they assumed a much more prominent role. Despite its subsequent prominence, only small parts of the Jayadrathayāmala are dedicated to the emergent Kālīkula, from which the Krama system subsequently developed. Sanderson (2006b: 23-24 n. 62) helpfully identifies these places, as follows: 
+The Jayadrathayāmala teaches the worship of numerous forms of Kālī,[^1004] who is sometimes identified as a fierce counterpart of Lakṣmī. These are sometimes solitary or arranged in groups (cakra), as are these Kālīs. If the Mādhavakula is the earliest of the four ṣaṭkas, the list of the names of the thirteen Kālīs we find in the chapter translated in Appendix A is the earliest known one.[^1005] Be that as it may, Jayaratha quotes it as an authority in his commentary,[^1006] and the names and sequential order is indeed what we most commonly find. Although they are listed there, and the list certainly served as a model, they are just one of numerous configurations of Kālīs. However, in the Kālīkula (also called Kālīkrama) scriptural sources that followed, they assumed a much more prominent role. Despite its subsequent prominence, only small parts of the Jayadrathayāmala are dedicated to the emergent Kālīkula, from which the Krama system subsequently developed. Sanderson (2006b: 23-24 n. 62) helpfully identifies these places, as follows: 
 
 ‘In the Jayadrathayāmala Krama teachings are found in \[1\] the 2nd satka in the kalpa of Vīiryakālī (96v8-100r9), in \[2\] the 3rd in the consecutive avyapadeśyakālīvidhi, devīsvarūpanirūpaṇavidhi, and devīkramapaṭala (ff. 21516-22673), in \[3\] the 4th in the kālīkramavidhi (ff. 57v61v5), and the consecutive 
 
@@ -87,7 +87,7 @@ Krama, as are outer objects. These are understood to be their fundamental nature
 
 Accordingly, the most fundamental and all-embracing process is that of the one reality and ultimate nature (svabhāva) of all things, which is consciousness. This is the Great Process — mahākrama — that is, the sequence of emanation (57) of phenomena from consciousness, their persistence (sthiti) within it, their withdrawal (sahāra) back into it, and the Inexplicable (anākhya) fourth condition that embraces all of them without being any of them. These four or analogous sets of four are multiplied by the first three to make twelve. The independent Krama Tantras teach how each one, consisting of an assembly of Kālīs, is worshipped in its own right. The worship of these assemblies (cakra) of Kālīs in this sequence came to be a standard model for the worship of Kālīs in various forms. This is what we find, for example, in the case of the worship of Guhyakālī, according to the Mahākālasarihitā, possibly redacted in the Kathmandu Valley in the in the 16\* century. Indeed, all the numerous Kālīs there are generally worshipped in this format. 
 
-Collectively, the three cycles of emanation and the rest are the Cycle of the Inexplicable ~ Anākhyacakra — and so is where they ultimately culminate and from which they arise. That this perspective is the original one is confirmed by the concluding statement relating to the last Kālī and so, by extension, to all of them ~ namely, that the last Kālī, who consumes and includes them all, is ‘the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays of the architect \[illegible\] of the three processes (of emanation, persistence and withdrawal).’[^1010] This dynamic fundamental consciousness is identified in the later sources and by Abhinava as Saṁviddevī — the Goddess of Consciousness, an appellation hardly found in the Jayadrathayāmala. This is surprising because, out of the many names for consciousness in the primary sources, saṁvid is the standard one in the Jayadrathayāmala. It is also in the philosophy of the Pratyabhijñā, and was Abhinava’s favourite. It literally means ‘knowing completely or together’. It is a common term in idealist Buddhist sources, but generally not in non-Buddhist ones. In the Buddhist idealist context, the term ‘knowing together’ is particularly appropriate. Idealist Buddhism — the Yogācāra — maintains that the emptiness of pure consciousness is the one reality. The world of perceivers and perception is the domain of thought constructs. It is like a dream, in which we appear unknowing that we are dreaming, and disappears when we wake up. Where it came from and where it disappears, nobody can say. It existed, insofar as it is experienced, but it has no ontological existence — no ‘Being’; it is ‘empty’. But for as long as it appears, perceivers perceive their objects. The split between these two aspects of the momentary stream of perception is both the result and necessary attendant factor of the dream of existence, of which consciousness, as the stream of perception, is the reality of both ‘known together’. But while the term for consciousness may be the same, these Śaiva sources and the nondual philosophy that also 
+Collectively, the three cycles of emanation and the rest are the Cycle of the Inexplicable ~ Anākhyacakra — and so is where they ultimately culminate and from which they arise. That this perspective is the original one is confirmed by the concluding statement relating to the last Kālī and so, by extension, to all of them ~ namely, that the last Kālī, who consumes and includes them all, is ‘the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays of the architect (tvāṣṭra) of the three processes (of emanation, persistence and withdrawal).’[^1010] This dynamic fundamental consciousness is identified in the later sources and by Abhinava as Saṁviddevī — the Goddess of Consciousness, an appellation hardly found in the Jayadrathayāmala. This is surprising because, out of the many names for consciousness in the primary sources, saṁvid is the standard one in the Jayadrathayāmala. It is also in the philosophy of the Pratyabhijñā, and was Abhinava’s favourite. It literally means ‘knowing completely or together’. It is a common term in idealist Buddhist sources, but generally not in non-Buddhist ones. In the Buddhist idealist context, the term ‘knowing together’ is particularly appropriate. Idealist Buddhism — the Yogācāra — maintains that the emptiness of pure consciousness is the one reality. The world of perceivers and perception is the domain of thought constructs. It is like a dream, in which we appear unknowing that we are dreaming, and disappears when we wake up. Where it came from and where it disappears, nobody can say. It existed, insofar as it is experienced, but it has no ontological existence — no ‘Being’; it is ‘empty’. But for as long as it appears, perceivers perceive their objects. The split between these two aspects of the momentary stream of perception is both the result and necessary attendant factor of the dream of existence, of which consciousness, as the stream of perception, is the reality of both ‘known together’. But while the term for consciousness may be the same, these Śaiva sources and the nondual philosophy that also 
 
 [^1010]: This is part of the description of Mahābhairavacandograghorakālī, according to the Kramastotra by Erakanātha.
 
@@ -126,7 +126,7 @@ The text goes on to list the names of the Kālīs, with Mahābhairavakālī as t
 
 *[p. 394]* ^pg407
 
-‘present in each of the divisions.’[^1014] Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla \[illegible\] - Skeleton \[illegible\] The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’.[^1015] In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
+‘present in each of the divisions.’[^1014] Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla \[illegible\] - Skeleton Kālī. The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’.[^1015] In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
 
 (kṛśodarī).[^1016] 
 
@@ -206,11 +206,11 @@ Bulb of the genital centre (15cd-18ab). In this subtle way, the teaching is that
 
 ‘Union (sarryoga) can churn (and destroy the very) root of (this) terrible transmigratory existence, having taken up the Sky in the centre of the Self and the Self in the middle of the Sky. By uniting the Sky and Self once, nothing (else) remains.’ (21-22) 
 
-In this way, the Yogi is then the Lord of Kula, a liberated Skyfarer (khecara), his nature the Sky. As such he is the ‘perceiver of perception’. Undivided, entering there into the mass (kula) of rays, he is then endowed with (the state of a) Skyfarer, and the perceiver of perception. Within the inside of perception, the object of perception perceived shines. The perceiver, who is neither perception nor its absence (dṛdgādṛdga vā?) is then the Lord of the mass of rays \[illegible\] (29cd-32) Thus, ‘Knowledge, the object of knowledge and the knower, and the abode which is like the womb of cognition (jñapti) — (it all) dissolves away in the Supreme Abode (which is the ultimate reality) Devoid of Ego (nirahaṁkāra).’ (18cd-19ab) Clearly, as we can see from these references, the idealism of the Krama is well established right from the start. Accordingly, we are justified in deciphering the many enigmatic statements, which are the staple of these teachings, in this sense. Indeed, this is what Abhinava has done in his presentation of the Twelve Kālīs, and so too Jayaratha. 
+In this way, the Yogi is then the Lord of Kula, a liberated Skyfarer (khecara), his nature the Sky. As such he is the ‘perceiver of perception’. Undivided, entering there into the mass (kula) of rays, he is then endowed with (the state of a) Skyfarer, and the perceiver of perception. Within the inside of perception, the object of perception perceived shines. The perceiver, who is neither perception nor its absence (dṛdgādṛdga vā?) is then the Lord of the mass of rays (raśmikula)’. (29cd-32) Thus, ‘Knowledge, the object of knowledge and the knower, and the abode which is like the womb of cognition (jñapti) — (it all) dissolves away in the Supreme Abode (which is the ultimate reality) Devoid of Ego (nirahaṁkāra).’ (18cd-19ab) Clearly, as we can see from these references, the idealism of the Krama is well established right from the start. Accordingly, we are justified in deciphering the many enigmatic statements, which are the staple of these teachings, in this sense. Indeed, this is what Abhinava has done in his presentation of the Twelve Kālīs, and so too Jayaratha. 
 
 The worship of Karaṅkinī, the thirteenth Kālī, along with the others is very interesting. We have recovered a rite of initiation here, and worship at the end of chapter five of the DP. 
 
-The Kaula offerings listed here (in the Maādhavakula) even include human flesh (69cd). An interesting feature of the animal sacrifice described here (69cd-73ab) is that the Guru who is making the offering on the behalf of his disciples should vomit. In this way, he replicates the manner the Goddess Vāmā is said to emit the universe. Another passage in the Mādhavakula discusses the offerings at length. This has been put in the Appendix to Chapter Twelve. There Abhinava focus on one of his favourite themes concerning Kaula practice, which also frequently recurs in the sources, namely, the overcoming of inhibition or doubts \[illegible\] with regards to their use. According to Abhinava, this entails the Śāktopāya practice of purification of thought (vikalpasaṁskāra). Free of conceptualization, the officiant enters into the Sambhava state in which, with these barriers removed, he identifies with the deity - Bhairava. Finally, we note that, as one would expect, initiation takes place by a process of possession (āveśa). This can be immediate for the more advanced disciple, or gradual for one who is less so. The first takes place solely by the power of the teacher’s intense gaze. The latter by the same gaze, but with the support of fire offerings and mantra. 
+The Kaula offerings listed here (in the Maādhavakula) even include human flesh (69cd). An interesting feature of the animal sacrifice described here (69cd-73ab) is that the Guru who is making the offering on the behalf of his disciples should vomit. In this way, he replicates the manner the Goddess Vāmā is said to emit the universe. Another passage in the Mādhavakula discusses the offerings at length. This has been put in the Appendix to Chapter Twelve. There Abhinava focus on one of his favourite themes concerning Kaula practice, which also frequently recurs in the sources, namely, the overcoming of inhibition or doubts (śaṅkā) with regards to their use. According to Abhinava, this entails the Śāktopāya practice of purification of thought (vikalpasaṁskāra). Free of conceptualization, the officiant enters into the Sambhava state in which, with these barriers removed, he identifies with the deity - Bhairava. Finally, we note that, as one would expect, initiation takes place by a process of possession (āveśa). This can be immediate for the more advanced disciple, or gradual for one who is less so. The first takes place solely by the power of the teacher’s intense gaze. The latter by the same gaze, but with the support of fire offerings and mantra. 
 
 It is a notable fact that Abhinava has chosen to omit the rites associated with these Kālīs, although the Ādiyāga he presents as the core of the Kaula ritual of Chapter Twenty-nine is drawn from the Mādhavakula.[^1028] One wonders why 
 
@@ -242,7 +242,7 @@ mayā tava prasādena sarveśvara maheśvara || 2 ||
 adhunā śrotum icchāmi kamkālākhyami kulārṇavam \[k: -va\] |
 yatra sā kālikā devī cidakkocchā (>cidarkkecchā) vijrńbhate ॥ 3 I[^1032] 8lb g) 
 
-śekharādhasthitā \[illegible\] -rā kh: 
+śekharādhasthitā [k: -rā kh: 
 
 se-\]} (śekharordhva-) yā sā raśmipuṁjavirājitā |
 etasmin yā kramar bāhyābhyantarabhedataḥ || 4 |
@@ -340,7 +340,7 @@ Knowledge, the object of knowledge and the knower, and the abode which is like t
 
 saṁyogo ghorasahsāramūlanirmathanakṣamaḥ |
 ātmamadhye kham ādāya ātmā caiva (> ātmānari ca) khamadhyataḥ ॥ 21 ॥
-khātmanor ekadhā yogā (> yogād) na \[illegible\] avaśiṣyate |
+khātmanor ekadhā yogā (> yogād) na kiṁcid avaśiṣyate |
 antastejo vahistejā \[kh: -tejah; g: -tejo\] sarvābhāso nirāmayaḥ ॥ 22 ॥
 58a kh) sīmayaṁ kāyagahana madhyamari karpara tyajet | 
 
@@ -355,7 +355,7 @@ Union (saṁyoga) can churn (and destroy the very) root of (this) terrible trans
 
 69a) 82b g) khacandracaṁhdrikā yena (> tena) \[g: (?)\] ciccakre carccitā ciram ॥
 23॥
-mokṣalakṣmyā spandanānte \[illegible\] g: spadarinaṁte; kh: spandanante\] krtań ātmānam ātmanā |
+mokṣalakṣmyā spandanānte [k, g: spadarinaṁte; kh: spandanante\] krtań ātmānam ātmanā |
 candreśaś candradhāmnisthas tathā \[k: tatpas kh: tastha; g: -sthasta\] tatkālikojjhitaḥ \[kh: statkālikojhitaḥ; g: sthastatkālikojhitaḥ\] || 24 || kālikāmtakulāśakto nihkalo + vijṛbhate \[kh, g: vijṛbhate\] |
 subhā \[k: śrutau; kh: śubhau; g: subhau\] suvigatā bhāti tadbhātmā pūrayej jagat ॥ 25 ॥
 sucir agniprabhāsātmā tadā kālikuleśvaraḥ | 
@@ -472,7 +472,7 @@ vidyudulkāsahasraughakṣepasaṁikāśalocanām \[g: vidyu + lkā-\] |
 asakṛtpīdabrahmāndamandapāṁ bhṛkutīmukhām |I| 57 ॥
 kākālikulakṛṣṇābhrā(> kālikā- -bhām) nirasatkekarekṣaṇām |
 cala \* \* girohasta \[kh, g: cala śiro-\] ghatṭitādhvapaṭīśvarām ॥ 58 ॥
-mahātaraṇi mudraughakeśarī \[kh: keśurī; g: keśu \*(?)\] kṛta \[illegible\] \[kh, g: -rā\] | 
+mahātaraṇi mudraughakeśarī \[kh: keśurī; g: keśu \*(?)\] kṛta kurpparāṁ \[kh, g: -rā\] | 
 
 (She is Karaṅkinī,) a voracious Bhairavī (engaged in) devouring Ananta and the rest of the Lords of the Nāgas (at the base of the universe, to go on to 
 
@@ -516,7 +516,7 @@ aśeṣabhairaveśānadehakarnāvatarisakām |
 kṣayakṣaṇasphutād vāman nṛttacitravinodinīm \[k: -cinna-\] ॥ 67 ॥
 dhyātvā svadhāmni vitato pūjanīyātha \[kh: (?)\] maṁhdale |
 tadvad evya (> devyaḥ) prapūjye va (> prapūjyāś ca) dhyeyāḥ sarvā yathārthavat \[kh, g: sarvā ya-\] || 68 ॥
-pratibhedagatā saikā devadevī \[illegible\] | 
+pratibhedagatā saikā devadevī karaṁkiṇī  | 
 
 (Her) body shines (like that of) Nārāyaṇa, she who is the enemy of the garland of great ghosts (?). Her one pastime is playing the good vīṇā made of Brahma’s skeleton. Voraciously greedy to invade the sequence of cycles of all the deities \* \* \*,[^1048] she illumines the Lord Bhairava. All the Lords and Bhairavas adorn (her) body and ears. Emitting (the universe) because the moment of destruction is clearly manifest, she delights in the wonderful variety of (her) dance. 
 
@@ -532,7 +532,7 @@ mahāśamikhārghapātrādau kṛtvārgham alinā mahat ॥ 70 ॥
 tena saṁprokṣayed ādau pasur ghorena cetasā |
 paścād ghorāṁm samālaṁvya 17117771 paramabhairavām ॥ 71 ||
 dvādaśārkodite mārge rūdho marṁtresvarātmakaḥ \[g: svarā \* \*(?)\] |
-vaktrodvamanakotpātapātāt pātayate \[illegible\] ॥ 72 ॥
+vaktrodvamanakotpātapātāt pātayate paśūn ॥ ॥ 72 ॥
 60a kh) anyathā paśughātī syād anena 74011141 yadā | 
 
 O queen of the gods, the goddess of the gods should be worshipped with offerings of human beings (and beef mahāpaśu), fish, animals and birds, having made the liquid offering (argha) of great alcohol (ali) in the sacrificial vessel (arghapātra) fashioned from a human skull and the like (mahāśamikhā). One should first sprinkle the sacrificial animal at the beginning with a fierce (determined) mind (to do so). After that, assuming the fierce state of mind of the supreme Bhairava, (the officiant), his nature the Lord of Mantra, mounted on the path on which the twelve suns rise, slays the sacrificial animals by the fall of the portent that is vomited up from his mouth. (If it happens) in another way, without this (taking place), the animal would be (sinfully) slaughtered (not sacrificed). (69cd-73ab) 
@@ -564,7 +564,7 @@ abhyarccayed cakram \[kh:
 
 O Bhairavī, mud should be made there with just blood alone. Having offered many kinds of food, he should think of the Mantra for the animal sacrifice. Blood should be drunk to the full, or else wine, Maheśvarī. Then with the flowers from the mouth, shining radiantly (sphurjad (?)), he should worship Kālikā. (75cd-77ab) 
 
-He should exhibit the fierce \[illegible\] mudrā or Bhairavī (mudrā). O goddess, he should form the very fierce Lelihānā (mudrā). In this way, he should worship the cakra as his means permit. (77cd-78) 
+He should exhibit the fierce Karaṁkiṇī mudrā or Bhairavī (mudrā). O goddess, he should form the very fierce Lelihānā (mudrā). In this way, he should worship the cakra as his means permit. (77cd-78) 
 
 Initiation of the Disciple by Possession (āveśa) 
 
@@ -617,7 +617,7 @@ The teacher who has mastered the Krama should gaze upon (his disciple) in this w
 whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union (sāyujya) (with the deity)[^1050] (This will surely be so;) my word is not false! (89-91ab) 
 
 anukrame yadā śaktaḥ \[g: śakto\] kuryād vā vyavahārakam || 91 ॥
-yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma \[illegible\] ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
+yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma [k: ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
 atrārūdhaḥ sparśayeta yari yari vā prītacetasā || 92 ||
 86b g) taḥ mukta nātra saṁdehaḥ \[g: -deho\] satya satyam ganāṁvike |
 evaṁ vidhiṁ tataḥ kṛtvā paścād eva kramaṁ punaḥ ॥ 93 ॥

@@ -8,7 +8,7 @@ tags:
 
 # Phase 2 changes (6 Oct 2026)
 
-Phase 2 of the [[AI/Archive/Claude outputs/0 Plan - read me first|October 2026 plan]], *Repair the Tantrāloka root text*, ran on 6 Oct 2026 from 19:10 to about 23:30 EDT. The root text (Mūla) of the verse notes, which was split from the Muktabodha e-text, was checked against the printed Kashmir Series edition: OCR of every page, a second transcription (GRETIL/DCS), and agents reading the page images. Every change was dry-run first and backed up in `.work/backup-phase2-2026-10-06/`.
+Phase 2 of the October 2026 plan, *Repair the Tantrāloka root text*, ran on 6 Oct 2026 from 19:10 to about 23:30 EDT. The root text (Mūla) of the verse notes, which was split from the Muktabodha e-text, was checked against the printed Kashmir Series edition: OCR of every page, a second transcription (GRETIL/DCS), and agents reading the page images. Every change was dry-run first and backed up in `.work/backup-phase2-2026-10-06/`.
 
 **Stephen's decisions:**
 - Approve all 174 structural repairs.

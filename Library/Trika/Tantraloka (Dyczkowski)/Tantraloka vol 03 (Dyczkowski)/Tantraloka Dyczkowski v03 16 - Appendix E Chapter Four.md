@@ -159,7 +159,7 @@ I bow to that endless Paramārkakālī, (otherwise called) Bhargaśikhā (the Su
 
 9\) (9) Mārtaṇdakālī (withdrawal of the withdrawal of emanation) 
 
-mārtandam āpītapataṁgacakraṁ \[illegible\] \[illegible\] kālakalendhanāya |
+mārtandam āpītapataṁgacakraṁ pataṅgavat kālakalendhanāya |
 karoti yā viśvarasāntakāṁ tām mārtandakālīi satata praṇaumi || 
 
 I bow constantly to Mārtaṇdakālī, Who (consumes) to the end the (aesthetic) essence (rasa) of all things, She Who generates the Sun (mārtanda) that has drunk up the Wheel of the Sun (pataṁga) to serve, like a moth (pataṁga), as fuel for the energy of (the Fire of) Time.[^1152] 

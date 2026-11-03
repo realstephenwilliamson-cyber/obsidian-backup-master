@@ -21,7 +21,7 @@ converted: 2026-10-07
 तथा च तेषां हेतूनां संयोजनवियोजने ॥ ३५ ॥
 नियते शिव एवैकः स्वतन्त्रः कर्तृतामियात् ।
 
-tathā ca \[illegible\] hetūnāṁ saṁyojanaviyojane || 35 ॥
+tathā ca teṣāṁ hetūnāṁ saṁyojanaviyojane || 35 ॥
 niyate śiva evaikaḥ svatantraḥ kartṛtām iyāt | 
 
 Śiva Himself, Who alone is free, assumes the condition of an agent of the fixed (niyata) conjunction and disjunction of those causes in this 
@@ -110,7 +110,7 @@ Varieties of Causal Sequences
 मायातोऽव्यक्तकलयोरिति रोरवसंग्रहे | ४० ॥
 ्रीपूर्वे तु कलातत््वादव्यक्तमिति कथ्यते ।
 
-māyāto ‘vyaktakalayor iti \[illegible\] "45८77167-८/1€ | 40 |
+māyāto ‘vyaktakalayor iti rauravasaṁgrahe "45८77167-८/1€ | 40 |
 
 Śrīpūrve tu kalātattvād avyaktam iti (4111) 
 
@@ -126,7 +126,7 @@ According to the Rauravasangraha, Unmanifest Nature (avyakta) and the Force (of 
 
 [^90]: Abhinava is not actually citing the Rauravasūtrasaṁgraha. Jayaratha obliges us by quoting the relevant passage from there and Bṛhaspati’s commentary (vārtika) on it, which is what Abhinava is actually citing.
 
-[^91]: MV 1/30ab: tata eva kalātattvād avyaktam asṛjat. “Then (Māyā) generated the Unmanifest (Nature) (avyakta) from the principle of the Force (of limited agency).’ Quoted in the commentary here and in TĀv ad 9/214. See below 9/217-220ab. Concerning Māyā and Nature (prakṛti), see above, 8/272-275, 298cd-337ab and below, 9/149cd ff. The order of the Kañcukas in PS 17 (see below note 9,392) is not the one Abhinava accepts as the standard one which is that found in the MV. He justifies differences in the sequencing of these rattvas by saying that emanation is not really sequential. Thus, we read in the Tantrasāra: atra \[illegible\] vāstavena pathā kramavandhyaiva uktam eva | kramaś ca vidy vicitro ‘pi dṛṣtaḥ kaścid rajyan vetti ko ‘pi vidan rajyate ityādi \\ tena bhinnakramanirūpaṇam api rauravādiṣu śāstreṣu aviruddhan mantavyath tad eva tu bhogyasāmānyaṁ prakṣobhagataṁi gunatattvam | ‘Here (according to us), it is said that in actual fact, the path (of emanation of the kañcukas) is devoid of a (specific) sequence. And (yet,) a sequence is also perceived, such that, for example, someone being attached (to some object) knows (it), and some (other person) knowing it, is attached (to it). Thus, it is described in a different sequence in scriptures such as the Raurava. One should understand that that is not a contradiction. (Rather,) what is experiencing is (essentially) the same, that once it has
+[^91]: MV 1/30ab: tata eva kalātattvād avyaktam asṛjat. “Then (Māyā) generated the Unmanifest (Nature) (avyakta) from the principle of the Force (of limited agency).’ Quoted in the commentary here and in TĀv ad 9/214. See below 9/217-220ab. Concerning Māyā and Nature (prakṛti), see above, 8/272-275, 298cd-337ab and below, 9/149cd ff. The order of the Kañcukas in PS 17 (see below note 9,392) is not the one Abhinava accepts as the standard one which is that found in the MV. He justifies differences in the sequencing of these rattvas by saying that emanation is not really sequential. Thus, we read in the Tantrasāra: atra caiṣāṁ vāstavena pathā kramavandhyaiva uktam eva | kramaś ca vidy vicitro ‘pi dṛṣtaḥ kaścid rajyan vetti ko ‘pi vidan rajyate ityādi \\ tena bhinnakramanirūpaṇam api rauravādiṣu śāstreṣu aviruddhan mantavyath tad eva tu bhogyasāmānyaṁ prakṣobhagataṁi gunatattvam | ‘Here (according to us), it is said that in actual fact, the path (of emanation of the kañcukas) is devoid of a (specific) sequence. And (yet,) a sequence is also perceived, such that, for example, someone being attached (to some object) knows (it), and some (other person) knowing it, is attached (to it). Thus, it is described in a different sequence in scriptures such as the Raurava. One should understand that that is not a contradiction. (Rather,) what is experiencing is (essentially) the same, that once it has
 
     been aroused (to manifestation assumes the form of) the principle of the Qualities (guna) (of Nature).’ TSā p.
 
@@ -138,7 +138,7 @@ According to the Rauravasangraha, Unmanifest Nature (avyakta) and the Force (of 
 
 Qualities.’[^92] 
 
-And here, according to (the commentator,) the venerable Bṛhaspati, by the pronoun \[illegible\] (‘from that’) — (where it says) ‘the Unmanifest (arose) from that (avyaktaṁ ca tatas) — refers to Māyā. As is said (in his commentary (vārtika) on the Rauravasaṁgraha): 
+And here, according to (the commentator,) the venerable Bṛhaspati, by the pronoun tataḥ (‘from that’) — (where it says) ‘the Unmanifest (arose) from that (avyaktaṁ ca tatas) — refers to Māyā. As is said (in his commentary (vārtika) on the Rauravasaṁgraha): 
 
 ‘Unmanifest Nature and the Force (of limited agency) (kalā) (originate) from Māyā,[^93] and from the Force (of limited agency), Attachment (raga) and (limited) Knowledge (vidyā).’[^94] 
 
@@ -172,7 +172,7 @@ Thus, how this has been explained by others, (impelled) by the doubt that (the s
 tata eva niśākhyānāt kalībhūtād aliṁgakam ॥ 41 ||
 iti vyākhyāsmad ukte ‘smin sati nyāye ‘tiniṣphalā | 
 
-So, the explanation (advanced to reconcile this apparent contradiction), namely, that the Signless \[illegible\] (i.e. Unmanifest Nature) arises from that which is called the Night (niśā), once it has become the Force (of limited agency), is, according to the principle we have just outlined, totally futile. (41cd-42ab) 
+So, the explanation (advanced to reconcile this apparent contradiction), namely, that the Signless (aliṅga) (i.e. Unmanifest Nature) arises from that which is called the Night (niśā), once it has become the Force (of limited agency), is, according to the principle we have just outlined, totally futile. (41cd-42ab) 
 
 #### Viveka on 9.41–42
 
@@ -217,7 +217,7 @@ anya eva sa cet \* \* \*\*\*\*
 ### TĀ 9.43
 
 \* \*\* ५ \*\* कामं कुतशचित्स्वविशोषतः ।। ४३ ॥
-# # # # + + \[illegible\] kutaścit svaviśeṣatah ॥ 43 ॥ 
+# # # # + + kāmaṁ kutaścit svaviśeṣatah ॥ 43 ॥ 
 
 (We) readily (agree, but only that they differ) to some degree with respect to their own specific peculiarities (viśeṣa). (43cd) 
 
@@ -258,7 +258,7 @@ Thus, there is nothing (logically) wrong at all in an effect having more than on
 शासेषु यज्यते चित्रात् तथाभावस्वभावतः ।
 
 tata eva svarūpe ‘pi krame ‘py anyā dṛsī sthitiḥ | 44 I|
-\[illegible\] yujyate citrāt tathābhāvasvabhāvataḥ | 
+śāstreṣu yujyate citrāt tathābhāvasvabhāvataḥ | 
 
 Therefore, it makes sense that there are various views in the scriptures concerning even the essential nature (of a metaphysical 
 
@@ -318,7 +318,7 @@ According to the Jñānottara, the principles of the Individual Self, Attachment
 
 [^106]: Concerning the various sequential orders of these principles in the Siddhānta, see Goodall (1995) intro. p. 19. The order in Svāyambhuva (here called Vairiñca) is: 1) Māyā; 2) Kāla; 3) Niyati; 4) Kalā; 5) Vidyā. The Kiraṇatantra teaches that Puruṣa, who guards of the house of Prakṛti, is the first, then comes Attachment (Rāga), from which arises impure (empirical) Knowledge which deludes beings on lower levels of consciousness (paśu), then come Time (Kāla) and Necessity (Niyati) as a pair (saṁpuṭa); the Force (of limited agency) (Kalā) emerges out of Time (Kāla), above which is Māyā. Obviously, the order is reversed, descending from the experience of the principles directly relating to forms of Deity at the Pure level to the dualistic empirically defined experience at the Impure level. The downward sequence is recorded in chapter 4 of the Kiraṇatantra (verse 18 ff). Ananta stimulates Māyā to generate its products, i.e. the principles that comprise the Impure Path. As the universal cause, Māyā cannot be disturbed. However, once it has pervaded phenomenal entities (bhāva) beginning with Kalā, it is liable to being disturbed (18-20). From Māyā are generated Kalā, Kāla,
 
-    Niyati, Vidyā, Rāga and Prakṛti (tasmāt kalā truṭiḥ sarṁisthā bodhinī hy abhilāṣakṛt \\\\ sūkṣmaṁ \[illegible\] guṇās tebhyo buddhir buddher ahariikṛtiḥ | 4/22cd-23ab).
+    Niyati, Vidyā, Rāga and Prakṛti (tasmāt kalā truṭiḥ sarṁisthā bodhinī hy abhilāṣakṛt \\\\ sūkṣmaṁ cāto guṇās tebhyo buddhir buddher ahariikṛtiḥ | 4/22cd-23ab).
 
 *[p. 52]* ^pg69
 
@@ -370,7 +370,7 @@ The commentators explain that (the principle of) Necessity (niyati) is called We
 
 ‘Then (above that) is the couple (saṁpuṭa) called Time and Necessity, that is a hundred thousand times (more extensive).’[^118] 
 
-‘(Beyond) the principle of Time is the Force (of limited agency), which is an enclosure (that extends) for a thousand million (leagues) \[illegible\] \[illegible\][^119] ‘Above that is Māyā, that extends (beyond) what is below it ten million 
+‘(Beyond) the principle of Time is the Force (of limited agency), which is an enclosure (that extends) for a thousand million (leagues) (lakṣāyuta).’[^119] ‘Above that is Māyā, that extends (beyond) what is below it ten million 
 
 times (more).’[^120] 
 
@@ -535,7 +535,7 @@ Although each one of these principles is full of all the powers, they are differ
 
 *[p. 58]* ^pg75
 
-teaching), Śiva, who is pure consciousness, is indeed supreme (and transcendent — para). Although he has no need (nirārisa), because (of His) (all-embracing) plenitude, desiring to manifest externally out of the greatness of His innate freedom, in accord with the hierarchy of the wonder of (His) supreme bliss, 2) He initially shines forth on the plane of Śakti, in the form of the reflective awareness (of pure) ‘T’ \[illegible\] 
+teaching), Śiva, who is pure consciousness, is indeed supreme (and transcendent — para). Although he has no need (nirārisa), because (of His) (all-embracing) plenitude, desiring to manifest externally out of the greatness of His innate freedom, in accord with the hierarchy of the wonder of (His) supreme bliss, 2) He initially shines forth on the plane of Śakti, in the form of the reflective awareness (of pure) ‘T’ (ahaṁ). 
 
 3\) After that, he manifests the two branches (4/2) of reflective awareness, namely ‘I am’ and ‘(all) this’ (aham idam). If, when the ‘T’ aspect predominates there as pure consciousness alone, the Supreme Lord generates the ‘this’ aspect, then because (its) purview (viṣaya) is the aggregate of phenomena (bhāvarāśi) which has just (barely) unfolded, like the faintly traced outline of a picture, it is not clearly (manifest in a differentiated form). Thus, it is the principle of Sadāśiva, (in which) the power of the will is predominant,[^134] and (corresponds to the inner experience of consciousness that) ‘I am (all) this’. 
 
@@ -547,7 +547,7 @@ teaching), Śiva, who is pure consciousness, is indeed supreme (and transcendent
 
 [^135]: niṣiñcati literally means ‘sprinkles’, and by extension, ‘consecrates’. !% Cf,
 
-[^136]: Cf. ĪPv on 3/1/3 (Bhā 2 p. 223) idambhāvasya tu dhyāmalādhyāmalatākṛto viśeṣaḥ ‘Pure’ objectivity is experienced as one within consciousness. This is its state at the level of Sadāśiva, in which the experience is \[illegible\] am this’. The objective ‘this’ aspect is experienced as the subjective ‘T’. A step down, at the level of Īśvara, objectivity becomes primary, and so the experience is ‘this am T’. In other words, here the subject is identified with the object, whereas at the higher level the object is identified with the subject. Thus, at this level, objectivity, although still one with the subject, is more distinctly experienced as separate from it and differentiated within itself. Thus, as duality has developed within it, it is said to be ‘impure’. The subjective pole remains unchanged, ensuring the essential nonduality at both levels, which are thus distinguishable only on the basis of the state of the objective polarity. See above, note on TĀv ad 4/140 and Jayaratha TĀv ad 6/39cd-40ab and note.
+[^136]: Cf. ĪPv on 3/1/3 (Bhā 2 p. 223) idambhāvasya tu dhyāmalādhyāmalatākṛto viśeṣaḥ ‘Pure’ objectivity is experienced as one within consciousness. This is its state at the level of Sadāśiva, in which the experience is ‘I am this’. The objective ‘this’ aspect is experienced as the subjective ‘T’. A step down, at the level of Īśvara, objectivity becomes primary, and so the experience is ‘this am T’. In other words, here the subject is identified with the object, whereas at the higher level the object is identified with the subject. Thus, at this level, objectivity, although still one with the subject, is more distinctly experienced as separate from it and differentiated within itself. Thus, as duality has developed within it, it is said to be ‘impure’. The subjective pole remains unchanged, ensuring the essential nonduality at both levels, which are thus distinguishable only on the basis of the state of the objective polarity. See above, note on TĀv ad 4/140 and Jayaratha TĀv ad 6/39cd-40ab and note.
 
 *[p. 59]* ^pg76
 
@@ -638,7 +638,7 @@ the external state predominates.’[^145]
 
 For the reason stated here and elsewhere, the form (of consciousness) that manifests in consonance with the coming to prominence of the inner state (and then the external state) etc. 
 
-said here, with reference to that, that they are the principles of Sadāśiva and Īśvara. It is not with reference to the presiding deity (at these reality levels). This is because Śiva’s state \[illegible\] always (sadā) shines as the inner form (of universal consciousness), and the Īśvara (principle) as the outer form. In this same way, Brahmā and the rest (of the causal deities) would also be counted as separate principles (tattva). Otherwise (if this were not so), because they are not different from the causal states (over which they preside as deities), they would possess two opposite natures (ardhajātīya) (by asserting that they are also tattvas).[^146] Again, if that were to be so, the undesirable consequence would be that a king, even if he be the lord of all the earth, would be a separate reality (tattva) (from the earth and its creatures) because he governs the earth, and that is not so. Thus, what has been said is logically sound (yukta).[^147] 
+said here, with reference to that, that they are the principles of Sadāśiva and Īśvara. It is not with reference to the presiding deity (at these reality levels). This is because Śiva’s state (śivatva) always (sadā) shines as the inner form (of universal consciousness), and the Īśvara (principle) as the outer form. In this same way, Brahmā and the rest (of the causal deities) would also be counted as separate principles (tattva). Otherwise (if this were not so), because they are not different from the causal states (over which they preside as deities), they would possess two opposite natures (ardhajātīya) (by asserting that they are also tattvas).[^146] Again, if that were to be so, the undesirable consequence would be that a king, even if he be the lord of all the earth, would be a separate reality (tattva) (from the earth and its creatures) because he governs the earth, and that is not so. Thus, what has been said is logically sound (yukta).[^147] 
 
 [^144]: Above, 9/2ab.
 
@@ -670,7 +670,7 @@ tena yat prāhur ākhyānasādṛśyena vidambitāḥ || 55 ॥
 gurūpāsār vinaivāttapustakābhīṣtadṛṣtayaḥ |
 \*\*brahmā nivṛttyadhipatiḥ pṛthak tattvaṁ na ganyate || 56 ॥
 sadāśivādyās tu pṛthag ganyanta iti ko nayaḥ |
-brahmaviṣṇuhareśānasuśivānāśritātmani ॥ 57 ॥ \[illegible\] kāraṇasaṁjñe ‘rdhajaratīyam iyaṁ kutaḥ |
+brahmaviṣṇuhareśānasuśivānāśritātmani ॥ 57 ॥ ṣaṭke kāraṇasaṁjñe ‘rdhajaratīyam iyaṁ kutaḥ |
 iti tanmūlato dhvastaṁ gaṇitaṁ na hi kāraṇam || 58 ॥
 yathā pṛthivyadhipatir nṛpas tattvāntarari na hi |
 tathā tattatkaleśānaḥ pṛthaktattvāntarari katham || 59 ॥ 
@@ -697,7 +697,7 @@ The Pure Path
 
 तदेवं पञ्चकमिदं शुद्धोऽध्वा परिभाष्यते तत्र साक्षाच्छिवेच्छैव क््याभासितभेदिका ॥ ६० ॥।
 
-tad \[illegible\] pañcakam idaṁ śuddho ‘dhvā paribhāṣyate |
+tad evaṁ pañcakam idaṁ śuddho ‘dhvā paribhāṣyate |
 tatra sākṣāc chivecchaiva kartryābhāsitabhedikā I| 60 ॥ 
 
 That group of five principles is in this way termed this ‘Pure Path’. There Śiva’s will acts directly to differentiate the manifested. (60) 
@@ -840,7 +840,7 @@ Again, (all that exists) within the (fundamental Impurity) of the individual sou
 ### TĀ 9.65
 
 अपूर्णमन्यता चेयं तथारूपावभासनम् ।
-apūrṇamanyatā \[illegible\] \[illegible\] tathārūpāvabhāsanam | 
+apūrṇamanyatā ceyaṁ tathārūpāvabhāsanam | 
 
 And this sense of oneself as incomplete (apūrnamanyatā) manifests in this form (as attachment). (65ab) 
 
@@ -960,7 +960,7 @@ qualities of each soul (individually).[^173]
 
 Thus, as the concealing power is (various) due to the variety of changes (an individual soul may be subject to), (Impurity) does not affect (the soul) whose changes have ceased. Thus, it would not obscure liberated souls also (as it does those that are not). Moreover, it does not obscure Śiva because His pure (unfettered) conscious nature has no beginning.[^174] 
 
-[^173]: The Tattvatrayanirnaya by Sadyojyotih verse \[illegible\] This line is quoted again below ad 13/44cd-45cd. The complete verse reads: māyāvikārayoge karmayutaḥ kāraṇaṁi malo bhavinām \\ malaśaktayo vibhinnāḥ pratyātmānarmi ca tadguṇāvarikāḥ ॥ 11 ॥ ‘Impurity, linked with Karma, when associated with the transformations of Māyā, is the cause of transmigrating (fettered) souls. The powers of Impurity are (many and) separate, and they conceal the (essential) quality (guna) of each (individual) soul (separately).” Aghoraśivācārya explains in his 11; karmabhogārtham eva śarīrāder iṣtatvān nirmalasya muktātmanas tadasaṁbhavāc ca sarīrādiyogo nāsti । tad ukta śrīmatsvāyambhuve- tadbhāvabhāvino bhāvāḥ māyātmakāḥ paśoḥ iti, tathā- karmataś ca śarīrāṇi vividhāni (viṣayāḥ kārakānṇi ceti tatratyaḥ pātṭhaḥ |) śarīrinām iti | nanv eva cen malasyaikatvād ekamokṣe sarvamokṣaprasaṁgaḥ ? ata āha - malaśaktaya iti \\ malasya pratyātmaniyatānekaśaktitvād ekasyāḥ pākena nivṛttau tadāvāryasyaiva mokṣo na sarvasyeti bhāvaḥ ॥ 11 Il ‘(The individual soul) is not (in actual fact) linked to the body etc., because the body etc. is considered to serve the purpose of experiencing (the consequences of) Karma, and because that does not arise (nor is possible) in the case of a pure, liberated soul. That is stated in the venerable Svāyambhuva (32/13): ‘the conditions of the fettered soul who is experiencing them are Māyā by nature.’ (Thus) the many varied bodies, objects of sense and inducing causes (arise) from the Karma, which is such, of embodied beings.’ Surely (one may object), if Impurity is in this way one (and the same for all fettered souls), would not the contingency (arise) that (when one soul is liberated,) all are liberated? Thus, he says that ‘the powers of Impurity are (many)’. The sense is that each of the souls is constrained by the many powers of Impurity, and so when one (power) ceases (to act) by maturing, (only) the soul who is covered by it is liberated, not all of them.’
+[^173]: The Tattvatrayanirnaya by Sadyojyotih verse 11cd. This line is quoted again below ad 13/44cd-45cd. The complete verse reads: māyāvikārayoge karmayutaḥ kāraṇaṁi malo bhavinām \\ malaśaktayo vibhinnāḥ pratyātmānarmi ca tadguṇāvarikāḥ ॥ 11 ॥ ‘Impurity, linked with Karma, when associated with the transformations of Māyā, is the cause of transmigrating (fettered) souls. The powers of Impurity are (many and) separate, and they conceal the (essential) quality (guna) of each (individual) soul (separately).” Aghoraśivācārya explains in his 11; karmabhogārtham eva śarīrāder iṣtatvān nirmalasya muktātmanas tadasaṁbhavāc ca sarīrādiyogo nāsti । tad ukta śrīmatsvāyambhuve- tadbhāvabhāvino bhāvāḥ māyātmakāḥ paśoḥ iti, tathā- karmataś ca śarīrāṇi vividhāni (viṣayāḥ kārakānṇi ceti tatratyaḥ pātṭhaḥ |) śarīrinām iti | nanv eva cen malasyaikatvād ekamokṣe sarvamokṣaprasaṁgaḥ ? ata āha - malaśaktaya iti \\ malasya pratyātmaniyatānekaśaktitvād ekasyāḥ pākena nivṛttau tadāvāryasyaiva mokṣo na sarvasyeti bhāvaḥ ॥ 11 Il ‘(The individual soul) is not (in actual fact) linked to the body etc., because the body etc. is considered to serve the purpose of experiencing (the consequences of) Karma, and because that does not arise (nor is possible) in the case of a pure, liberated soul. That is stated in the venerable Svāyambhuva (32/13): ‘the conditions of the fettered soul who is experiencing them are Māyā by nature.’ (Thus) the many varied bodies, objects of sense and inducing causes (arise) from the Karma, which is such, of embodied beings.’ Surely (one may object), if Impurity is in this way one (and the same for all fettered souls), would not the contingency (arise) that (when one soul is liberated,) all are liberated? Thus, he says that ‘the powers of Impurity are (many)’. The sense is that each of the souls is constrained by the many powers of Impurity, and so when one (power) ceases (to act) by maturing, (only) the soul who is covered by it is liberated, not all of them.’
 
 [^174]: Liberated souls differ from Śiva only in this respect, namely that the purity of their consciousness begins from the moment they are liberated, whereas the purity of Śiva’s consciousness has no beginning. Thus, Śiva’s liberated state has no beginning (He is anādimukta), whereas that of liberated souls does (they are ādimukta). Thus, Śiva cannot be obscured by Impurity, because that would mean that there would be a beginning to His pure state, when that Impurity is removed.
 
@@ -1032,7 +1032,7 @@ To this extent, there is no disagreement here, namely that what is devoid of con
 मलस्य रोद्धीं तां शक्तिमीशश्चत्संयुनक्ति तत् ।। ७०
 कीदृशं प्रत्यणुमिति प्रश्ने नास््युत्तं वचः ।
 
-malasya roddhrīm \[illegible\] śaktim \[illegible\] cet saṁyunakti tat ॥ 70 ||
+malasya roddhrīm tāṁ śaktim \[illegible\] cet saṁyunakti tat ॥ 70 ||
 kīdṛśaṁ praty aṇum iti praśne nāsty uttaran vacaḥ | 
 
 Again, if you say that the Lord (directs and) applies this paralyzing power of Impurity, there would be no reply to the question, “to what kind of individual soul (would He choose to do so)?”[^181] (70cd-71ab) 
@@ -1067,7 +1067,7 @@ siva eva na yat paśyet tasyaivāsau malo bhavet |
 
 [^183] (Some maintain) that impurity is an obscuring covering (āvaraṇa) that does not alter the nature of what it covers, (but merely) prevents one 
 
-[^183]: The arguments advanced in 9/7 Icd-74ab are practically reproduced below in 13/63- 65. The following discussion from 9/7 1cd to 84ab concerns whether Impurity can really be an obscuring covering that envelops the fettered soul, as the Siddhānta ai Abhinava himself says that he has discussed this matter elsewhere (9/84ab), which could only be in MVV 2/157-186, which is translated here for the reader’s convenience. Cf. also below TĀ 13/63-65. tathāhi dīkṣā nāmeyaṁ yā malānāri nikartanī | sā bhedavādināṁ pakṣe kathan nāmopapadyate ॥ 157 ॥ tathāhi yo malo nāma sa kathaṁ citsvabhāvakam | ātmānam āvṛnīte kva vibhor āvaraṇakriyā ॥ 158 ॥ na ca prakāśas tamasā jātu saṁvriyate yataḥ | prakāśodaya \[illegible\] dhvāntadhvaṁsakriyātmakaḥ || 159 ॥ kir cāvaraṇam uktaṁ hi raśmyāder gatidharmiṇaḥ | pratighātātmakari tat kiń vibhor agatidharminaḥ ॥ 160 ॥ “Such is thi: ation, that it severs Impurities. How can that be possible, according to the view dualists maintain? Similarly, how can Impurity envelop the Self, the nature of which is consciousness? Where does the pervasive Lord’s act of obscuration (operate)? For indeed, light (can never be) obscured by darkness. (This is why) this dawning of light is the act that destroys darkness. What is an obscuring covering said to be? (If you say that) it blocks the moving rays etc. (of light), how can (it affect) the pervasive Lord, who is immobile? (157-160) api vā jñṁñeyatāmātratirodhaiva({-dhānam) hi saṁvṛteḥ | paṭādinā ghaṭ{ādeḥ syān na svarūpānyathāsthitiḥ ॥ 161 ॥ na cātmānaś cidātmatvāj jñeyatvam adhiśerate | tad āvaraṇam \[illegible\] tu śabdeṣv api na śobhate | 162 ॥ nanv īTśvarasya te jṁeyā anṇavaḥ katham īdṛśam |
+[^183]: The arguments advanced in 9/7 Icd-74ab are practically reproduced below in 13/63- 65. The following discussion from 9/7 1cd to 84ab concerns whether Impurity can really be an obscuring covering that envelops the fettered soul, as the Siddhānta ai Abhinava himself says that he has discussed this matter elsewhere (9/84ab), which could only be in MVV 2/157-186, which is translated here for the reader’s convenience. Cf. also below TĀ 13/63-65. tathāhi dīkṣā nāmeyaṁ yā malānāri nikartanī | sā bhedavādināṁ pakṣe kathan nāmopapadyate ॥ 157 ॥ tathāhi yo malo nāma sa kathaṁ citsvabhāvakam | ātmānam āvṛnīte kva vibhor āvaraṇakriyā ॥ 158 ॥ na ca prakāśas tamasā jātu saṁvriyate yataḥ | prakāśodaya evāyaṁ dhvāntadhvaṁsakriyātmakaḥ || 159 ॥ kir cāvaraṇam uktaṁ hi raśmyāder gatidharmiṇaḥ | pratighātātmakari tat kiń vibhor agatidharminaḥ ॥ 160 ॥ “Such is thi: ation, that it severs Impurities. How can that be possible, according to the view dualists maintain? Similarly, how can Impurity envelop the Self, the nature of which is consciousness? Where does the pervasive Lord’s act of obscuration (operate)? For indeed, light (can never be) obscured by darkness. (This is why) this dawning of light is the act that destroys darkness. What is an obscuring covering said to be? (If you say that) it blocks the moving rays etc. (of light), how can (it affect) the pervasive Lord, who is immobile? (157-160) api vā jñṁñeyatāmātratirodhaiva({-dhānam) hi saṁvṛteḥ | paṭādinā ghaṭ{ādeḥ syān na svarūpānyathāsthitiḥ ॥ 161 ॥ na cātmānaś cidātmatvāj jñeyatvam adhiśerate | tad āvaraṇam eṣāṁ tu śabdeṣv api na śobhate | 162 ॥ nanv īTśvarasya te jṁeyā anṇavaḥ katham īdṛśam |
 
     cidātmakam hi na jñeyaṁ cidātmatvatirohiteḥ || 163 ॥
 
@@ -1159,7 +1159,7 @@ siva eva na yat paśyet tasyaivāsau malo bhavet |
 
     kvāpi pravartate ceti dhig idaṁ mūdhabhāṣitam ॥ 180 ॥
 
-    jadānāri ko ‘nusaṁdhiḥ syāt tarn vinaitat \[illegible\] bhavet |
+    jadānāri ko ‘nusaṁdhiḥ syāt tarn vinaitat kathaṁ bhavet |
 
     atha tatrāpi devasya hetutābhyupagamyate ॥ 181 ॥
 
@@ -1251,7 +1251,7 @@ Surely (an opponent may object that), even if (their) nature is not destroyed, w
 नामूर्तेन न मूर्तेन प्रावरीतुं च शक्यते ॥ ७५ ॥
 ज्ञानं चाक्ुषरश्मीनां तथाभावे सरत्यपि ।
 
-nāmūrtena na mūrtena prāvarītuṁ ca śakyate ॥ 75 ॥ \[illegible\] cākṣuṣaraśmīnāri tathābhāve saraty api | 
+nāmūrtena na mūrtena prāvarītuṁ ca śakyate ॥ 75 ॥ jñānaṁ cākṣuṣaraśmīnāri tathābhāve saraty api | 
 
 (Impurity), whether it has a form or not, cannot veil noetic consciousness (jñāna), which (is formless), even though (the fettered soul) continues to transmigrate (saraty api). That is so with the rays of vision[^188] (that can be covered by a veil). (75cd-76ab) 
 
@@ -1259,7 +1259,7 @@ nāmūrtena na mūrtena prāvarītuṁ ca śakyate ॥ 75 ॥ \[illegible\] cāk
 
 ‘(Innate spiritual) knowledge’ is the nature of the Self, which is formless, pure consciousness. Nor is it logically possible (yukta) for this kind of knowledge of the Self (ātmajñāna) to have an obscuring covering (āvaraṇa) due to anything, be it formless or with form, because that which is formless cannot cover (and obscure it). But when ‘that is so’ (i.e. something has a form), it can be covered over (by something else that has a form). The rays of the eyes[^189] or the sun, for example, are material and so possess a form. Thus, it is possible (for them to be obscured by) a cataract, clouds and the like, that have form. This is the intended sense. 
 
-Surely (one may argue), what is the need to obstinately determine whether (what obscures consciousness) is formless or not? That (Impurity) has come in order to obscure (the soul), and as that (which is obscured) is the perceiver \[illegible\] (that which obscures it) must be objective (jñeya). Moreover, (the soul which is) such (i.e. the perceiver), maintains a state of transcendental detachment (tāṭasthya) (from it); for such, according to your view, is the relationship between subject and object. In this way also, it could not veil (and obscure the soul’s) essential nature (as the perceiver), because (their) state is (quite) different (bhinnavṛtti). Moreover, because (the soul is) thus (essentially) pure (nirmala), its knowledge and action is full (and free of all limitations). Thus (if this is so), would not everyone be omniscient? He says that: 
+Surely (one may argue), what is the need to obstinately determine whether (what obscures consciousness) is formless or not? That (Impurity) has come in order to obscure (the soul), and as that (which is obscured) is the perceiver (jñātṛ), (that which obscures it) must be objective (jñeya). Moreover, (the soul which is) such (i.e. the perceiver), maintains a state of transcendental detachment (tāṭasthya) (from it); for such, according to your view, is the relationship between subject and object. In this way also, it could not veil (and obscure the soul’s) essential nature (as the perceiver), because (their) state is (quite) different (bhinnavṛtti). Moreover, because (the soul is) thus (essentially) pure (nirmala), its knowledge and action is full (and free of all limitations). Thus (if this is so), would not everyone be omniscient? He says that: 
 
 [^187]: MS Ch reads ~ kriyādikāḥ — ‘action etc.” for kriyādhikāḥ — ‘more than action’. If we accept that reading, the meaning would be: ‘action etc. are those powers, they are not more (and separate from) the nature of consciousness.”
 

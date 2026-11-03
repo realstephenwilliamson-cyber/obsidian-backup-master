@@ -159,7 +159,7 @@ Having defined the deposition of the principles as a whole, he now goes on to ta
 कलापञ्चकवेदाण्डन्यासोऽनेनैव लित: ।
 
 navapañcacatustryekatattvanyāse svayaṁ dhiyā |
-11 \[illegible\] prakalpayet tāvat tattvāntarbhāvacintanāt | 109 ॥
+11 nyāsaṁ prakalpayet tāvat tattvāntarbhāvacintanāt | 109 ॥
 kalāpañcakavedāndanyāso ‘nenaiva lakṣitaḥ | 
 
 The (manner and content of the) deposition in the case of a deposition of nine, five, or four principles or (just) one, can (easily) be figured out by the (teacher’s) own intellect, bearing in mind that the rest of the principles are included within it.[^116] The deposition of the five Forces (kalā) and the four Eggs (anda) is characterized by this (same procedure as that of the five and of the four principles, respectively). (109-110ab) 
@@ -168,7 +168,7 @@ The (manner and content of the) deposition in the case of a deposition of nine, 
 
 [^115]: tion is not clear. 101cd-105 is a paraphrase of MV 6/2-6ab, and 106-107 a condensed paraphrase of MV 6/24cd-27ab, and so this passage definitely not drawn from the Mayatantra (also called Mayasaṁgraha). This way of measuring the proportions of the body is a common, standard one. The Mayatantra, which is concerned with temple architecture, followed the same system. There the three measurements must have been homologized in an analogous manner, with reality levels that, projected onto the body, bestowed their respective form of accomplishments. In other words, what is meant here is that one can choose one or other of these three procedures, according to the particular results one desires.
 
-[^116]: These depositions are taught in MV 6/6cd-10. 1) In the deposition of nine principles, Nature takes up fifty fingers, the individual soul three, Necessity (niyati) nine, time (kāla) six, Māyā, Śuddhavidyā, Īśvara and Sadāśiva four fingers each (50 + 3 + 9 + 6 + 16 (4 x 4) = 84). Note that for the calculations to be correct, we must take the entry ‘Vidyeśa’ to mean, as Jayaratha implies, Śuddha Vidyā and Īśvara, each of which occupies a space of four fingers. 2) In the deposition of five principles, Earth takes up four fingers, Water forty-six, Fire twenty-two, Air twelve, and Space, like Śiva, is pervasive. Thus, 4 + 46 + 22 + 12 = 84. 3) The deposition of the four principles, namely, Earth, Nature, Māyā and Power (Sakti), corresponding to the four eggs (anda) (see above, 11/8 ff.), are in the same proportions (4 + 46 + 22 + 12 = 84). 4) In the deposition of the three principles, the Self \[illegible\] occupies seventy-two fingers, Knowledge (vidyā) twelve and Śiva, as before, is not counted (72 + 12 = 84).
+[^116]: These depositions are taught in MV 6/6cd-10. 1) In the deposition of nine principles, Nature takes up fifty fingers, the individual soul three, Necessity (niyati) nine, time (kāla) six, Māyā, Śuddhavidyā, Īśvara and Sadāśiva four fingers each (50 + 3 + 9 + 6 + 16 (4 x 4) = 84). Note that for the calculations to be correct, we must take the entry ‘Vidyeśa’ to mean, as Jayaratha implies, Śuddha Vidyā and Īśvara, each of which occupies a space of four fingers. 2) In the deposition of five principles, Earth takes up four fingers, Water forty-six, Fire twenty-two, Air twelve, and Space, like Śiva, is pervasive. Thus, 4 + 46 + 22 + 12 = 84. 3) The deposition of the four principles, namely, Earth, Nature, Māyā and Power (Sakti), corresponding to the four eggs (anda) (see above, 11/8 ff.), are in the same proportions (4 + 46 + 22 + 12 = 84). 4) In the deposition of the three principles, the Self (ātman) occupies seventy-two fingers, Knowledge (vidyā) twelve and Śiva, as before, is not counted (72 + 12 = 84).
 
 
 *[p. 52]* ^pg72
@@ -283,11 +283,11 @@ krodheśapuramekasmindvaye cāṇndamiyaṁ ca vit || 118 ॥
 saṁvartajyotiṣorevaṁ kalātattvagayoḥ kramāt |
 sūrapañcāntapurayorniyatau caikayugmatā || 119 || 
 
-Now (let us move on to) the deposition of the worlds (puranyāsa). 1) The (element) Earth (extends up to) the ankle. There are sixteen worlds here (within it, and it occupies four fingers). 2) After that, each of (the thirty-nine worlds) from Lakulin up to Dviranda occupy one finger (space), 3) whereas Chagalāṇda occupies three fingers. 4) Now the two groups of eight gods (deva) and the eight Yogas are (contained) within four (finger spaces), as each one occupies a quarter finger (space). In this way, there are forty-six fingers (from Water) up to Nature, and fifty-six worlds, and before (them) sixteen, within the Earth \[illegible\][^127] (114-116) 
+Now (let us move on to) the deposition of the worlds (puranyāsa). 1) The (element) Earth (extends up to) the ankle. There are sixteen worlds here (within it, and it occupies four fingers). 2) After that, each of (the thirty-nine worlds) from Lakulin up to Dviranda occupy one finger (space), 3) whereas Chagalāṇda occupies three fingers. 4) Now the two groups of eight gods (deva) and the eight Yogas are (contained) within four (finger spaces), as each one occupies a quarter finger (space). In this way, there are forty-six fingers (from Water) up to Nature, and fifty-six worlds, and before (them) sixteen, within the Earth (principle).[^127] (114-116) 
 
 ### TĀ 16.117–119
 
-After this, there are six worlds, pervading half a finger (each), they are contained in three finger (breadths). There are four (more worlds) in two (fingers space), and one world in one finger(-space). In this \[illegible\] way the eleven worlds of (the principle of) attachment and the individual soul are (contained in a space of) six fingers. Then comes the world of Krodheśa, that takes up one (finger space), and that of Canda that takes up two. These are the two worlds of the (principle of impure) Knowledge. In the same way, (there are two worlds,) Samvarta and Jyotiṣ, in the principle of the Force (of limited agency). (The worlds) Śūra and Pañcāntaka occupy one and two fingers, respectively, the principle of Necessity (niyati).[^128] (117-119) 
+After this, there are six worlds, pervading half a finger (each), they are contained in three finger (breadths). There are four (more worlds) in two (fingers space), and one world in one finger(-space). In this (same) way the eleven worlds of (the principle of) attachment and the individual soul are (contained in a space of) six fingers. Then comes the world of Krodheśa, that takes up one (finger space), and that of Canda that takes up two. These are the two worlds of the (principle of impure) Knowledge. In the same way, (there are two worlds,) Samvarta and Jyotiṣ, in the principle of the Force (of limited agency). (The worlds) Śūra and Pañcāntaka occupy one and two fingers, respectively, the principle of Necessity (niyati).[^128] (117-119) 
 
 #### Viveka on 16.117–119
 
@@ -375,7 +375,7 @@ ittham dvyakṣnṇi purāny aṣṭāviṁnśatiḥ puruṣān niśi |
 puratrayaṁ dvayos tryaṁśanyūnāṁgulam iti kramāt || 125 ॥
 dvayor dvayaṁ pañcapurī vaidyīye caturamhgule |
 tata eśapurāny aṣṭau catuṣke ‘rdhāhṁgulakramāt ॥ 126 ॥
-tatas \[illegible\] dvaye dve ca dvayor itthaṁ catuṣtaye |
+tatas trīṇi dvaye dve ca dvayor itthaṁ catuṣtaye |
 sādāśivaṁi pañcakaṁ syād itthaṁ vasvekakaīi ravau || 127 ॥ 
 
 In this way, (the worlds) contained in the six principles beginning with the individual soul are deposited into (a space of) eighteen fingers.[^133] Then the group of eight (worlds) ending with Aṅguṣthamātra, within the principle of Māyā, occupy four fingers’ (space altogether), as each one (extends for) half a finger(-space). In this way, the twenty-eight worlds, (contained in the principles ranging) from the individual soul up to Māyā, (occupy a space of) twenty-two fingers.[^134] (123cd-125ab) 
@@ -565,7 +565,7 @@ Now, in order to define the Path of the Phonemes, he says (the following).
 वर्जयित्वाद्यवर्ण तु ततत्ववतसया्रवीन्रवीन् तां त्रयोविंशतौ वर्णेष्वप्यन्यत्स्याद्रिधिद्रयम् ॥ १४२ ॥
 
 varnādhvano ‘tha vinyāsaḥ kathyate ‘tra vidhitraye ॥ 139 ॥
-ekar \[illegible\] pratyekaṁ dvayor agulayoḥ kramāt |
+ekar caturṣu pratyekaṁ dvayor agulayoḥ kramāt |
 trayovihśativarnī syāt 
 
 ṣadvaṁy ekaikaśastriṣu ॥ 140 ॥
@@ -632,7 +632,7 @@ He (now) quotes the passage there concerning (this) transposition.
 
 dvividho ‘pi hi varnānāṁ ṣadvidho bheda ucyate |
 tattvamārgavidhānena jñātavyaḥ paramārthataḥ ॥ 144 ॥
-upadeśātideśābhyāṁ yad \[illegible\] tatpadādiṣu |
+upadeśātideśābhyāṁ yad uktaṁ tatpadādiṣu |
 bhūyo nirdiṣṭaṁ tatraiva śāstre ‘smad dhṛdayeśvare ॥ 145 ॥ 
 
 ‘Although the phonemes are of two kinds, it is said that (there is also) a division into six kinds. That should be known as it truly is by (referring) to the procedure concerning the Path of the Principles.’[^149] (144) 
@@ -654,7 +654,7 @@ He says that:
 
 [^149]: MV 6/27cd-28ab.
 
-[^150]: The technical term atideśa, coined by Mīmāṁsakas, is discussed by Jaimini in seven sūtras of seven section of the Mīmāmhsasūtra. It denotes the transposition or transference of ritual procedures or other details from one sacrifice to another. Gaṅganath Jha (1964: 289-290) explains, “There are several Sacrifices, in connection with which the Veda does not not specifically prescribe all the necessary details, but declares that ‘such and such a sacrifice shall be performed in the manner of such and such other Sacrifice’; for instance, with regard to the \[illegible\] Sacrifice, after having declared its peculiar features, the Vedic text goes on to declare that ‘the rest is like the Shyena Sacrifice’. In such cases, the Shyena Sacrifice could be called the ‘prakṛti’, Archetype, and the Iṣu Sacrifice, the corresponding ‘vikti’, Ectype. The Transference, then, of the details of the Archetype to the Ectype is what is called ‘atideśa’, which has been seen as ‘that process whereby a detail becomes extended in its application from the Primary to the other acts cognate to it’, (Bhā tṛs p. 1239). The Prakaranapañcikā (p. 227) has defined it as “that through which the Ectype becomes connected with the details of the Archetypal Sacrifice,” or ‘the extension of the details of one Sacrifice to another, when there is no incongruity with such extension’. For more details see ibid. p. 289-293.
+[^150]: The technical term atideśa, coined by Mīmāṁsakas, is discussed by Jaimini in seven sūtras of seven section of the Mīmāmhsasūtra. It denotes the transposition or transference of ritual procedures or other details from one sacrifice to another. Gaṅganath Jha (1964: 289-290) explains, “There are several Sacrifices, in connection with which the Veda does not not specifically prescribe all the necessary details, but declares that ‘such and such a sacrifice shall be performed in the manner of such and such other Sacrifice’; for instance, with regard to the Iṣu Sacrifice, after having declared its peculiar features, the Vedic text goes on to declare that ‘the rest is like the Shyena Sacrifice’. In such cases, the Shyena Sacrifice could be called the ‘prakṛti’, Archetype, and the Iṣu Sacrifice, the corresponding ‘vikti’, Ectype. The Transference, then, of the details of the Archetype to the Ectype is what is called ‘atideśa’, which has been seen as ‘that process whereby a detail becomes extended in its application from the Primary to the other acts cognate to it’, (Bhā tṛs p. 1239). The Prakaranapañcikā (p. 227) has defined it as “that through which the Ectype becomes connected with the details of the Archetypal Sacrifice,” or ‘the extension of the details of one Sacrifice to another, when there is no incongruity with such extension’. For more details see ibid. p. 289-293.
 
 [^151]: Read bhūyo nirdiṣtaṁ for bhūyo ‘tidiṣtaṁ.
 
@@ -711,7 +711,7 @@ kramāt kṣiptvā vidhidvaita parāparaparātmakam |
 caturandavidhis tv ādiíśabdeneha pragṛhyate ॥ 149 ॥
 kalācatuṣkavat tena tasmin vācyari vidhitrayam | 
 
-The four (Forces (kalā)) beginning with Cessation (nivṛtti) each occupy four, forty-six, twenty-two, and twelve (fingers? space, respectively). The Force Beyond Quiescence \[illegible\] pervades (the others). The other two (procedures), intermediate and supreme, (are formed) by adding twelve (fingers’ space), and (then) twelve (more, respectively,) within the second Force.[^156] The procedure concerning the four Eggs[^157] is alluded to here (in the Mālinīvijayottara) with the word ʻete.’[^158] Thus, (this implies that) the three procedures within (that domain) should be said to be (formed) like (those of the) four Forces. (147cd-150ab) 
+The four (Forces (kalā)) beginning with Cessation (nivṛtti) each occupy four, forty-six, twenty-two, and twelve (fingers? space, respectively). The Force Beyond Quiescence (śāntyatīta) pervades (the others). The other two (procedures), intermediate and supreme, (are formed) by adding twelve (fingers’ space), and (then) twelve (more, respectively,) within the second Force.[^156] The procedure concerning the four Eggs[^157] is alluded to here (in the Mālinīvijayottara) with the word ʻete.’[^158] Thus, (this implies that) the three procedures within (that domain) should be said to be (formed) like (those of the) four Forces. (147cd-150ab) 
 
 #### Viveka on 16.147–150
 
@@ -765,7 +765,7 @@ pañcavaktrīśaktis[^161] tadvadbhedāt ṣodhā punar dvidhā |
 ekākiyāmalatvenety evaṁ sā dvādaśātmikā ॥ 153 ॥
 sadaṁgī sakalānyatvād dvividhā vaktravat punaḥ |
 dvādaśatvena gunitā caturviṁśatibhedikā ॥ 154 ॥
-aghorādyaṣṭake dve ca \[illegible\] yāmalodayāt |
+aghorādyaṣṭake dve ca tṛtīyaṁ yāmalodayāt |
 mātṛsadbhāvamantraś ca kevalaḥ śruticakragaḥ ॥ 155 ॥
 ekadvitricaturbhedān trayodaśabhidātmakaḥ ekavīratayā so ‘yarn caturdaśatayā sthitaḥ ॥ 156 ॥ 
 
@@ -890,7 +890,7 @@ And, amongst the Trika scriptures (ṣadardhaśāstra), this is taught in the ve
 
 should (bring about this) purification here by means of the eight, Aghora and the rest, or else with the Mantras (derived from) the monosyllabic (Vidyā of Parā) (ekākṣarā) (namely, those of Parāparā and Aparā),[^174] or by 
 
-Tt is clear that the following passage from 158cd to 161 is from the Trikasāra, to which Abhinava almost invariably refers in the Tantrāloka as the Sāraśāstra. The question is, from where does Abhinava draw the previous passage, i.e. 151cd to 156. One way to understand from how Abhinava introduces 158cd that the first of these two accounts is found in “‘ṣadardhasāsatras’ and the second is from the Sāraśāstra (śrīmatsāraśāstre ca kathyate). One could, perhaps emend ṣadardhaśāstreṣu śrīmatsāraśāstre — ‘amongst the Trika scriptures (ṣadardhaśāstra) (that) is taught in the venerable Sāraśāstra’ to ṣadardhaśāstre tu Śrīmatsāraśāstre — ‘(that) is taught in the venerable Sāraśāstra, which is a Trika scripture (ṣadardhaśāstra)’. Again, if we don’t read the two disjunctively, the line ṣadardhaśāstreṣu Srīmatsāraśāstre ca kathyate may also be translated ‘(that is) is also (ca) taught in the venerable Sāraśastra, which is amongst the Trika scriptures (ṣadardhaśāstra).' If this is what Abhinava meant, we may understand that he is saying that both the passages are drawn from the Sāraśsāstra. This may explain why Abhinava glosses the conclusion of both passages, saying that the Mantras that constitute the category of the ‘purifier’ are seventy (158ab and 163ab). But this may not be so. The first passage enumerates these seventy mantras as those that are to be projected onto the body. The second passage, that we know is from the Trikasāra, lists a number of mantras that the teacher can try out on his freshly initiated disciple to see which one is the most effective. It would be in keeping with Abhinava’s exegetical method to have first ‘extracted the essence’ of what the Trikasāra has to say about the current of seventy Mantras first, and then conclude by quoting directly from his source what concerns the one purifying mantra or set of mantras the disciple can use as his basic, root mantra, to serve as the foundation of the rest that he deposits on his body. The list of mantras taken from the Trikasāra includes the Heart of the Khecarīs, that is, the root seed syllable of the \[illegible\] Krama, that is, Piṇdanātha (i.e. KHPHREM), testifying to this Tantra’s association with Krama, and so allowing for the two passages to be from the same source. Even so, it does not seem to be, given the same prominence as in the first passage, that may, therefore, be from a different source. The problem here — whether the source is one or two — is strangely analogous to the problem of identifying the source or sources of the depiction of the triple Trident mandala presented below in 31/10cd ff. There, Abhinava refers to first to the Trikasadbhāva as his source for the drawing of the mandala, and then some forty verses later on, to the Trikahṛdaya, where he presents the projection into it of twelve energies, i.e. the Twelve Kālis of Wheel of the Inexplicable (anākhyācakra). There too, one wonders whether these are two different sources or the same one variously named. See below note 31,11
+Tt is clear that the following passage from 158cd to 161 is from the Trikasāra, to which Abhinava almost invariably refers in the Tantrāloka as the Sāraśāstra. The question is, from where does Abhinava draw the previous passage, i.e. 151cd to 156. One way to understand from how Abhinava introduces 158cd that the first of these two accounts is found in “‘ṣadardhasāsatras’ and the second is from the Sāraśāstra (śrīmatsāraśāstre ca kathyate). One could, perhaps emend ṣadardhaśāstreṣu śrīmatsāraśāstre — ‘amongst the Trika scriptures (ṣadardhaśāstra) (that) is taught in the venerable Sāraśāstra’ to ṣadardhaśāstre tu Śrīmatsāraśāstre — ‘(that) is taught in the venerable Sāraśāstra, which is a Trika scripture (ṣadardhaśāstra)’. Again, if we don’t read the two disjunctively, the line ṣadardhaśāstreṣu Srīmatsāraśāstre ca kathyate may also be translated ‘(that is) is also (ca) taught in the venerable Sāraśastra, which is amongst the Trika scriptures (ṣadardhaśāstra).' If this is what Abhinava meant, we may understand that he is saying that both the passages are drawn from the Sāraśsāstra. This may explain why Abhinava glosses the conclusion of both passages, saying that the Mantras that constitute the category of the ‘purifier’ are seventy (158ab and 163ab). But this may not be so. The first passage enumerates these seventy mantras as those that are to be projected onto the body. The second passage, that we know is from the Trikasāra, lists a number of mantras that the teacher can try out on his freshly initiated disciple to see which one is the most effective. It would be in keeping with Abhinava’s exegetical method to have first ‘extracted the essence’ of what the Trikasāra has to say about the current of seventy Mantras first, and then conclude by quoting directly from his source what concerns the one purifying mantra or set of mantras the disciple can use as his basic, root mantra, to serve as the foundation of the rest that he deposits on his body. The list of mantras taken from the Trikasāra includes the Heart of the Khecarīs, that is, the root seed syllable of the Kālī Krama, that is, Piṇdanātha (i.e. KHPHREM), testifying to this Tantra’s association with Krama, and so allowing for the two passages to be from the same source. Even so, it does not seem to be, given the same prominence as in the first passage, that may, therefore, be from a different source. The problem here — whether the source is one or two — is strangely analogous to the problem of identifying the source or sources of the depiction of the triple Trident mandala presented below in 31/10cd ff. There, Abhinava refers to first to the Trikasadbhāva as his source for the drawing of the mandala, and then some forty verses later on, to the Trikahṛdaya, where he presents the projection into it of twelve energies, i.e. the Twelve Kālis of Wheel of the Inexplicable (anākhyācakra). There too, one wonders whether these are two different sources or the same one variously named. See below note 31,11
 
 [^174]: athavaikāksarāmantrair ~ ʻor else with the Mantras of the monosyllabic (Vidyā)’. The monosyllabic Vidyā can only be Parā, i.e. SAUH. The mantras derived from Parā are the Vidyās of Parāparā and Aparā.
 
@@ -1032,7 +1032,7 @@ The wonderful variety (vaicitrya) of worldly experience (bhoga) is thus due to s
 
 [^189]: The mental dispositions of the disciple and the teacher must be in harmony for them to work together towards a single goal.
 
-[^190]: 16/174bc is an almost a literal quote of SvT 4/82cd: vāsanābhedato bhinnaḥ \[illegible\] ca guros tathā | This verse is also cited above, 15/22ab-23cd. Cf. 15/34cd-35ab.
+[^190]: 16/174bc is an almost a literal quote of SvT 4/82cd: vāsanābhedato bhinnaḥ śiṣyāṇāṁ ca guros tathā | This verse is also cited above, 15/22ab-23cd. Cf. 15/34cd-35ab.
 
 [^191]: 2100 + 2100 = 4200.
 
@@ -1431,7 +1431,7 @@ Even if (dualistic) thought (vikalpavṛtti) (persists after the disciple has be
 
 *[p. 86]* ^pg106
 
-(The pervasive Lord (Himself) has said this) ‘in the scriptures’, that is, in the venerable \[illegible\] and elsewhere. And that has been taught extensively (bahūktam) (there) in chapter one.[^227] 
+(The pervasive Lord (Himself) has said this) ‘in the scriptures’, that is, in the venerable Niśāṭana and elsewhere. And that has been taught extensively (bahūktam) (there) in chapter one.[^227] 
 
 He now states that the opinion of other (teachers) here (with regard to this) is not the same. 
 
@@ -1651,7 +1651,7 @@ parāparāyā vailomyād dharāyāri syāt padatrayam I| 212
 
 tato jalād ahaṁkāre pañcāṣtakasamāśrayāt |
 padāni pañca dhīmūlapuṁṁrāgākhye traye trayam || 213 ||
-ekar tvaśuddhavitkāladvaye \[illegible\] niyāmake |
+ekar tvaśuddhavitkāladvaye caikaṁ niyāmake |
 kalāmāyādvaye caikanń padamuktamiha kramāt || 214 I|
 vidyeśvarasadāśaktiíiveṣu padapañcakam |
 ekonavimśatiḥ seya padānāṁ syātparāparā ॥ 215 ॥ 
@@ -1664,7 +1664,7 @@ And it is also said in the Mālinīvijayottara: ‘(To) these (adepts who are) e
 
 #### Viveka on 16.213–216
 
-[^238]: Read \[illegible\] kṛtvā for ṣatkṛtvo. This is done six times because the powers, that is, Parā etc., are three, as are their Bhairavas.
+[^238]: Read ṣaṭ kṛtvā for ṣatkṛtvo. This is done six times because the powers, that is, Parā etc., are three, as are their Bhairavas.
 
 [^239]: This is done by depositing parts of the mantra (pada), which consist of one or more phonemes, that pervade a certain number of principles. The mantras of which these are parts are those of the goddesses Parāparā, Aparā and Parā. The way this is done is explained in MV 4/18cd-25. Here Abhinavagupta summarizes and modifies 4/19-23ab, which concerns Parāparā. As Abhinava says, in the MV the procedure is in the forward order, that is, starting with the highest reality levels, going down. Here Abhinava presents the Parāparā Vidyā (for which see the following note), in the reverse order.
 

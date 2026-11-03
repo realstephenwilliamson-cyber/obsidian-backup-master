@@ -50,7 +50,7 @@ Surely (one may ask), others have talked about the discernment (of differences i
 तत्र केचिदिह प्राहुः शक्तिपात इमं विधिम् ।
 तं प्र्टूय निराकृत्य स्वमतं दर्शयिष्यते ॥ २ ॥
 
-tatra kecid iha prāhuḥ śaktipāta \[illegible\] vidhim |
+tatra kecid iha prāhuḥ śaktipāta imaṁ vidhim |
 tam pradarśya nirākṛtya svamataṁ darśayiṣyate ॥ 2 || 
 
 There (in that connection), some (others)[^272] have (also) discussed this procedure (vidhi) (i.e. initiation) in relation to the descent of the power (of grace) (Śaktipāta). Once that has been presented and refuted, we will expound our own view. (2) 
@@ -127,7 +127,7 @@ teneśaḥ kṣobhayed enām kṣobho “s; tiyogyatā |
 
 (However,) that (Māyā) is (also) insentient, because its products are such; and its product, that is, (all the principles) from the Force (of limited agency) (kalā) down to Earth, (including the factors that individualize the soul, constitute) the (objective) reality (sat) contained within it.[^276] (However,) because of (its) insentience, (Māyā) cannot (in fact) give birth (to any of 
 
-[^274]: Read \[illegible\] caitanye for tadācaitanye.
+[^274]: Read tadā caitanye for tadācaitanye.
 
 [^275]: Above, 9/153.
 
@@ -203,7 +203,7 @@ iti cet karmasaṁskārābhāvas teṣāmṁ kutaḥ kila |
 ्ञानात्कर्मकषयश्चत्तत्कुत इशवरचोदितात् धमीद्यदि कुतः सोऽपि कर्मत्चत्तदुच्यताम् || १० ॥
 
 na bhogād anyakarmāmśaprasaṁgo hi duratyayaḥ ॥ 8 ॥
-yugapat karmāṇāṁ bhogo na ca yuktaḥ kramena hi \\ phaled yat karma tat kasmāt svar \[illegible\] santyajet kvacit ॥ 9 ॥
+yugapat karmāṇāṁ bhogo na ca yuktaḥ kramena hi \\ phaled yat karma tat kasmāt svar rūpaṁ santyajet kvacit ॥ 9 ॥
 jñānāt karmakṣayaś cet tat kuta īívaracoditāt |
 dharmād yadi kutaḥ so ‘pi karmataś cet tad ucyatām ॥ 10 ॥ 
 
@@ -264,7 +264,7 @@ Nor is it logically possible that the result of (some) action destroys another (
 ### TĀ 13.12
 
 अन्यकर्मफलं प्राच्यं कर्मराशिं च किं दहेत् ।
-anyakarmaphalamri prācyari \[illegible\] \[illegible\] ca ki dahet | 
+anyakarmaphalamri prācyari karmarāśiṁ ca ki dahet | 
 
 Moreover, why would the result of another (subsequent) action burn up (dahet)[^283] the preceding mass of Karma? (12ab) 
 
@@ -309,7 +309,7 @@ Moreover, it is not a consequence of the Lord’s will that knowledge, although 
 अज्ञानसहकारीदं सूते स्व्गीदिकं फलम् ।
 अज्ञानं ज्ञानतो नश्येदन्यकर्मफलादपि | १४ ॥
 
-nanv \[illegible\] pradahej jñānaṁ karmajālāni karma hi ॥ 13 ॥
+nanv itthaṁ pradahej jñānaṁ karmajālāni karma hi ॥ 13 ॥
 ajñānasahakārīdaṁ sūte svargādikan phalam |
 ajñānari jñānato naśyed anyakarmaphalād api ॥ 14 ॥ 
 
@@ -575,7 +575,7 @@ He (now) refutes that (view) step by step (kramena).
 
 अवश्यमिति कस्यापि न कर्मप्क्षयो भवेत् ।
 
-prākpakṣe pralaye \[illegible\] prācyasṛṣtipravartane |
+prākpakṣe pralaye vṛtte prācyasṛṣtipravartane |
 dehādyabhāvān no mithyājñānasya kvāpi saibhavaḥ ॥ 27 ॥
 uttarasmin punaḥ pakṣe yadā yad yena yatra vā |
 kriyate karma tat sarvam ajñānasacivar tadā || 28 ॥
@@ -657,7 +657,7 @@ pradhāne tad dhi saṅkīrṇavaiviktyobhayayogataḥ ॥ 32 ॥
 darśanāya pumarthaikayogyatāsacivaṁ dhiyaḥ |
 ārabhya sate dharaṇīparyantari tatra yac citaḥ ॥ 33 ॥
 buddhivṛttyaviśiṣtatvaṁ puṁnisprakāśaprasādataḥ |
-prakāśanād dhiyo \[illegible\] saha bhogaḥ sa bhanyate ॥ 34 ॥ 
+prakāśanād dhiyo ‘rthena saha bhogaḥ sa bhanyate ॥ 34 ॥ 
 
 (The Sārikhyā would object that ignorance) is said to be the absence of insight (adarśana). It is the instrumental cause (that stimulates) fundamental Nature (pradhāna) (which is the pure non-finite objectivity that), in a state of (constant) transformation, (evolves into finite objects). This takes place in conjunction with both the (mistaken) association (saṁkīrṇa) (of the subjectivity of the individual soul with Nature, which is binding,) and (the discernment of their) separation (vaiviktya) (from one another, which is liberating). In order to reveal (this), (prompted by its) disposition (yogyatā), with which it is associated (to act) solely for the benefit of the soul, (Nature) generates (all things,) beginning with the Intellect right up to the Earth. (32-33) 
 
@@ -672,7 +672,7 @@ There (in that case), that is said to be ‘worldly experience’ (bhoga), namel
 
 *[p. 142]* ^pg162
 
-‘It is the instrumental cause (that stimulates) fundamental Nature (pradhāna), (which is the pure non-finite objectivity that,) in a state of (constant) transformation, (evolves into finite objects)’. The meaning is that that is the purpose of the (constant) transformation of fundamental Nature as each (particular thing) beginning with the intellect. That takes place in order to reveal (the mistaken) association (of the individual soul with Nature), and (their) separation, which consist of worldly experience (bhoga) and liberation (apavarga), respectively. He states this (saying): ‘this takes place in conjunction with both the (mistaken) association \[illegible\] \[illegible\] (of the pure subjectivity of the individual soul with Nature, which is binding,) and (the discernment of their) separation (vaiviktya) (from one another, which is liberating), in order to reveal (this).’ As (the wise) say: 
+‘It is the instrumental cause (that stimulates) fundamental Nature (pradhāna), (which is the pure non-finite objectivity that,) in a state of (constant) transformation, (evolves into finite objects)’. The meaning is that that is the purpose of the (constant) transformation of fundamental Nature as each (particular thing) beginning with the intellect. That takes place in order to reveal (the mistaken) association (of the individual soul with Nature), and (their) separation, which consist of worldly experience (bhoga) and liberation (apavarga), respectively. He states this (saying): ‘this takes place in conjunction with both the (mistaken) association (saṁkīrṇa) (of the pure subjectivity of the individual soul with Nature, which is binding,) and (the discernment of their) separation (vaiviktya) (from one another, which is liberating), in order to reveal (this).’ As (the wise) say: 
 
 ‘Without creation (sarga) the individual soul could not be bound, and 
 
@@ -743,7 +743,7 @@ It is rightly (vastutaḥ) said that (the discerning discriminating) knowledge o
 
 As the insight (darśana) (into the nature) of the individual and the object has thus taken place for both of them by the separation of the attendant cause (sahakārin), which is the competence of the individual and (its) object (to be subject and object), (Nature no longer) generates (its products) for the soul who has attained the knowledge which is the (discerning) discrimination (between itself and Nature). The meaning is that (Nature) has ceased to produce (its product) completely. As is stated (in the Sā&mikhyakārikā): 
 
-[^311]: SāhKā 64. Vācaspati Miśra comments: “The nature of (this) insight (jñāna) is stated as follows. ‘I do not exist’, ‘it is not mine’ and ‘I am not’. This denies that any activity takes place in the Self as is declared (by the grammarians): ‘the root as (as in asmi) together with bhū and kr denote action in general.’ Therefore, all activity, both external and internal, such as intellectual assessment ((adhyavasāya), self-awareness, observation and apprehension etc. are all denied of the Self. The notion ‘I am not’ is due to the absence of all impulse to activity in the Self. ‘T here denotes agency. This is because in all cases in such (linguistic) usage as ‘I know’, ‘I offer oblations’, and ‘I give’, the active agent is represented as ‘T’. Wherever action is absent so is agency. So it is rightly said that \[illegible\] am not’. Consequently, the idea (11 is not mine’ follows, for it is only the agent who can be the possessor (of anything); hence in the absence of agency, the notion of ownership is naturally absent. Or else, it may be interpreted as follows also. The statement ‘I am not’ means that I am the Self, not Nature. Because of its unproductive nature, the absence of agency is indicated as ‘I am not’. As (the Self is) not an agent, the sense of ownership is also absent hence the statement ‘it is not mine’.
+[^311]: SāhKā 64. Vācaspati Miśra comments: “The nature of (this) insight (jñāna) is stated as follows. ‘I do not exist’, ‘it is not mine’ and ‘I am not’. This denies that any activity takes place in the Self as is declared (by the grammarians): ‘the root as (as in asmi) together with bhū and kr denote action in general.’ Therefore, all activity, both external and internal, such as intellectual assessment ((adhyavasāya), self-awareness, observation and apprehension etc. are all denied of the Self. The notion ‘I am not’ is due to the absence of all impulse to activity in the Self. ‘T here denotes agency. This is because in all cases in such (linguistic) usage as ‘I know’, ‘I offer oblations’, and ‘I give’, the active agent is represented as ‘T’. Wherever action is absent so is agency. So it is rightly said that ‘I am not’. Consequently, the idea (11 is not mine’ follows, for it is only the agent who can be the possessor (of anything); hence in the absence of agency, the notion of ownership is naturally absent. Or else, it may be interpreted as follows also. The statement ‘I am not’ means that I am the Self, not Nature. Because of its unproductive nature, the absence of agency is indicated as ‘I am not’. As (the Self is) not an agent, the sense of ownership is also absent hence the statement ‘it is not mine’.
 
 
 *[p. 145]* ^pg165
@@ -957,7 +957,7 @@ bhede pramāṇābhāvāc ca tad ekar nikhilātmasu |
 प्राच्यः पर्यनुयोगः स्यान्मतं चेत्न लभ्यते ॥ ४६ ॥
 उत्पत्यभावतस्तेन नित्यं न च विनश्यति ।
 
-tac ca kasmāt prasūtaṁ 5) \[illegible\] māyātaś cet kathaṁ nu sā ॥ 45 ॥
+tac ca kasmāt prasūtaṁ 5) syān māyātaś cet kathaṁ nu sā ॥ 45 ॥
 kvacid eva suvītaitan na tu muktātmanīty ayam |
 prācyaḥ paryanuyogaḥ syān nimittaṁ cen na labhyate ॥ 46 ॥
 utpattyabhāvatas tena nityaṁ na ca vinaśyati | 
@@ -1058,7 +1058,7 @@ That ‘Impurity’ of Individuality (ānavamala), which is such, is the cause o
 
 [^333]: The last line is a paraphrase of MV 1/23cd. It is quoted above in TĀv 1/23, 9/120cd, in TĀv ad 9/98cd-99ab. Also see above, 9/88cd-90ab.
 
-[^334]: worlds and forms are (the Impurity of) Māyā (māyīya).’ The SvT and commentary continue: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | bhogahetuś ca karma syād abhilāṣo malo ‘tra tu ॥ 105 ॥ bhuvanair bhāvabhūtādi lakṣyate, tena yat kińcidvedyati Āā bhāti sa māyīyo malaḥ, bhogena tadākṣiptaṁ janmāpi lakṣitam | \[illegible\] ca pratyabhiji bhinnavedyaprathātraiva māyākhyam, iti tathā janmabhogadam kartary abodhe kārmaṁ tu | iti | abhilāṣa iti apūrnaṁmanyatātmā lolikārūpaḥ, na tu \[illegible\] me syād itīdṛk, rāgatattvasyaivam ātmatvāt | atra tv iti, etasminn āṇave bhittibhūte sati anyan maladvayam ity arthaḥ ॥ 105 ॥ ‘Bodies, worlds and forms are said to be (the Impurity of) Māyā. The cause of worldly experience is Karma. The Impurity here (in this case) is craving (abhilāṣa).’ (SvT 4/105) The ‘worlds’ (also) indicate phenomena, the gross elements etc. Thus, whatever shines as objectivity, is the Impurity of Māyā. It is included by (the expression) ‘worldly experience’, and is characterized by birth and the rest. It is said in the Pratyabhijñā: ‘The perception of separate (different) objects) is here called Māyā.’ IP 3/2/5a) Moreover: ‘Karma gives rise to (repeated) births and worldly experience.” (ibid. 3/2/5c) ‘Craving’ is considering oneself to be incomplete and its nature is avidity. (It is a pervasive sense of longing and frustration,) it is not like “may I have something (or other).” (Such feelings are those) of the principle of Attachment because (they are those) of the individual self. As this individual (state of consciousness) exists that serves as the foundation (bhitti) (of Impurity), there are two other Impurities ‘here’. This is the meaning.
+[^334]: worlds and forms are (the Impurity of) Māyā (māyīya).’ The SvT and commentary continue: śarīrabhuvanākārā māyīyāḥ parikītītāḥ | bhogahetuś ca karma syād abhilāṣo malo ‘tra tu ॥ 105 ॥ bhuvanair bhāvabhūtādi lakṣyate, tena yat kińcidvedyati Āā bhāti sa māyīyo malaḥ, bhogena tadākṣiptaṁ janmāpi lakṣitam | uktaṁ ca pratyabhiji bhinnavedyaprathātraiva māyākhyam, iti tathā janmabhogadam kartary abodhe kārmaṁ tu | iti | abhilāṣa iti apūrnaṁmanyatātmā lolikārūpaḥ, na tu kiṁcin me syād itīdṛk, rāgatattvasyaivam ātmatvāt | atra tv iti, etasminn āṇave bhittibhūte sati anyan maladvayam ity arthaḥ ॥ 105 ॥ ‘Bodies, worlds and forms are said to be (the Impurity of) Māyā. The cause of worldly experience is Karma. The Impurity here (in this case) is craving (abhilāṣa).’ (SvT 4/105) The ‘worlds’ (also) indicate phenomena, the gross elements etc. Thus, whatever shines as objectivity, is the Impurity of Māyā. It is included by (the expression) ‘worldly experience’, and is characterized by birth and the rest. It is said in the Pratyabhijñā: ‘The perception of separate (different) objects) is here called Māyā.’ IP 3/2/5a) Moreover: ‘Karma gives rise to (repeated) births and worldly experience.” (ibid. 3/2/5c) ‘Craving’ is considering oneself to be incomplete and its nature is avidity. (It is a pervasive sense of longing and frustration,) it is not like “may I have something (or other).” (Such feelings are those) of the principle of Attachment because (they are those) of the individual self. As this individual (state of consciousness) exists that serves as the foundation (bhitti) (of Impurity), there are two other Impurities ‘here’. This is the meaning.
 
 
 *[p. 155]* ^pg175
@@ -1140,7 +1140,7 @@ That is this (process of illumination,) termed in the scriptures ‘the descent 
 
 *[p. 157]* ^pg177
 
-\[illegible\] is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Kheṭapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).[^339] This is the meaning. 
+‘That’ is the touch of Śiva’s rays we are discussing (prakrānta) that causes the maturing of Impurity. (It is) ‘this’ that was discussed previously, as directly apparent (to the senses). ‘It is termed’ (a descent of the power of grace) by the venerable teacher Kheṭapāla and other (Siddhāntins after him), who establish (this terminology) as their own conventional usage (samaya).[^339] This is the meaning. 
 
 Having presented others’ teaching (vidhi) concerning the descent of the power (of grace), he (now) refutes it. 
 

@@ -46,7 +46,7 @@ APPENDIX F CHAPTER FOUR
 anāmṛṣṭaḥ svātmā na hi bhavati bhāvapramitibhāj anāmṛṣtaḥ svātmety api hi na vinā 'marśanavidheḥ |
 \[illegible\] cāsau svātmā sphuradakhilabhāvaikasarasas tato 'ham tvatstotre pravanahṛdayo nityasukhitaḥ ॥ 3 ॥ 
 
-One’s own Self, ignored \[illegible\] does not rightly know existence. (Indeed,) without the practice of awareness (there would be no knowledge,) even that one’s own Self is being ignored. And Śiva is one’s own Self in the oneness of feeling (rasa) with all of radiantly manifesting existence, and so, my heart disposed to (uttering) Your hymn, I am constantly made joyful (sukhita). (3) 
+One’s own Self, ignored (anāmṛṣṭi), does not rightly know existence. (Indeed,) without the practice of awareness (there would be no knowledge,) even that one’s own Self is being ignored. And Śiva is one’s own Self in the oneness of feeling (rasa) with all of radiantly manifesting existence, and so, my heart disposed to (uttering) Your hymn, I am constantly made joyful (sukhita). (3) 
 
 vicitrair jātyādibhramaṇaparipāṭīparikarair avāptam sārvajñari hṛdayaṁ yad ayatnena bhavatā |
 tad antas tvadbodhaprasarasaraṇībhūtamahasi sphuṭam vāci prāpya prakaṭaya vibhoḥ stotram adhunā || 4 || 
@@ -58,7 +58,7 @@ vicitrasvasphārasphuritamahimārambharabhasāt piban bhāvān etān varada mada
 
 Shaking off this abiding state on the path of phenomenal existence, which is (rightly) considered to be bondage, and having turned it into the savour (rasa) (of aesthetic delight), burnt away duality with the fire of endless praise (stuti) by the impetuosity of the exertion of the glory that has flashed forth as his own wonderfully varied expansion whilst drinking these phenomena (bhāva), O bestower of boons, I, delighted (sukhitaḥ) (by You), am mad with inebriation (mada). (5) 
 
-bhava prājyaiśvaryaprathitabahuśakter bhagavato vicitrań \[illegible\] hṛdayam adhisete yadi tataḥ |
+bhava prājyaiśvaryaprathitabahuśakter bhagavato vicitrań cāritraṁ hṛdayam adhisete yadi tataḥ |
 katha stotraṁ kuryād atha ca kurute tena sahasā sivaikātmyaprāptau śivanatir upāyaḥ prathamakahi | 6 ॥ 
 
 If the wonderfully varied activity (caritra) of the Lord, who possesses many powers that have spread forth from (His) copious sovereignty over phenomenal existence, come to rest in the Heart, then how is it possible to compose a hymn? 
@@ -98,7 +98,7 @@ These are the glorious expressions (vibhava) that simultaneously arise and fall 
 APPENDIX F CHAPTER FOUR 
 
 ataś citrācitrakramataditarādisthitijuṣo vibhoḥ śaktiḥ saśvad vrajati na vibhedaṁ katham api |
-tad \[illegible\] bhūmāv akulam iti te yat kila pada tadekāgrībhūyān mama hṛdayabhūr bhairava vibho || 11 ॥ 
+tad etasyāṁ bhūmāv akulam iti te yat kila pada tadekāgrībhūyān mama hṛdayabhūr bhairava vibho || 11 ॥ 
 
 Thus, the state of the pervasive Lord is both various and not, dynamic (krama) and (yet, at the same time) its opposite. (Even so, His) power never becomes divided in any way at all. O Bhairava! Pervasive Lord! On that plane your condition (pada) (is known as) Akula ~ may my heart be concentrated on that! (11) 
 
@@ -141,7 +141,7 @@ Initially, the supreme (parā) emanation is merged (in consciousness). She is ma
 
 2\) Raktākālī (the persistence of objectivity) 
 
-visṛṣte \[illegible\] bahir atiśayāsvādavirase yadā tatraiva tvaṁ bhajasi rabhasād raktimayatām |
+visṛṣte bhāvāṁśe bahir atiśayāsvādavirase yadā tatraiva tvaṁ bhajasi rabhasād raktimayatām |
 tadā raktā devī tava sakalabhāveṣu nanu mām kriyād raktāpānakramaghaṭitagoṣthīgataghṛnam ॥ 16 ॥ 
 
 Once the aspect of (phenomenal) existence has been emitted externally and the most excellent (inner) savouring (āsvāda) (of consciousness has become) insipid, if You then assume with force the nature of attachment (rakti), You become the goddess Raktā in all Your emotive states (bhāva). May You indeed make me free from aversion (gataghṛna) in the assembly formed (to attend) the rite of drinking Raktā (the embodiment of the blood of the sacrificial victim) (raktāpānakrama). (16) (2) 
@@ -149,7 +149,7 @@ Once the aspect of (phenomenal) existence has been emitted externally and the mo
 3\) Sthitināśakālī (the withdrawal of objectivity) 
 
 bahirvrttińr hātur citibhuvam udārāṁ nivasitu yadā bhāvābhedaṁ prathayasi vinaṣtormicapalaḥ (> -lam) |
-sthiter \[illegible\] devī kalayati tadā sā tava vibho sthiteḥ sāmsārikyāḥ kalayatu vināśarṁ mama sadā || 17 || 
+sthiter nāśaṁ devī kalayati tadā sā tava vibho sthiteḥ sāmsārikyāḥ kalayatu vināśarṁ mama sadā || 17 || 
 
 When You reveal the oneness of phenomenal existence, the fickle play of (its) waves destroyed, in order to destroy the outer state (vṛtti) and reside on the noble plane of consciousness, (You) the Goddess brings about the destruction of persistence. May She then, O pervasive lord, always bring about the destruction of the persistence of my transmigratory existence. (17) (3) 
 
@@ -162,7 +162,7 @@ APPENDIX F CHAPTER FOUR
 4\) Yamakālī (the inexplicable state of objectivity) 
 
 jagatsamhāreṇa praśamayitukāmaḥ svarabhasāt svaśaṁkāṭaṁkākhyari vidhim atha niṣedhaṁ prathayasi |
-yamar sṛṣtvetthaṁ tvaṁ punar api ca \[illegible\] vidalayan mahādevī seyarnń mama bhavabhayari saṁdalayatām || 18 ॥ 
+yamar sṛṣtvetthaṁ tvaṁ punar api ca śaṁkāṁ vidalayan mahādevī seyarnń mama bhavabhayari saṁdalayatām || 18 ॥ 
 
 Desiring by Your own impetuousness to bring to rest (all things) by withdrawing the universe, You cause injunction and prohibition, which is called the affliction of one’s own doubt, to be perceived. Having emitted yama (the restriction of rules and regulations),[^1158] even as You are then again engaged in destroying doubt, may this great goddess destroy my fear of phenomenal existence (bhava). (18) (4) 
 
@@ -197,7 +197,7 @@ Thus, having contemplated the aspect of withdrawal within in one’s heart, may 
 7\) Bhadra/Rudrakālī (the withdrawal of perception) 
 
 tad itthaṁ te tisro nijavibhavavisphāranṇavaśād avāptāḥ ṣatcakrakramakṛtapadaṁ śaktaya imāḥ |
-kramād unmeṣeṇa pravidadhati \[illegible\] bhavadaśām imābhyo devībhyaḥ pravaṇahṛdayaḥ syām gatabhayaḥ ॥ 21 ॥ 
+kramād unmeṣeṇa pravidadhati citrāṁ bhavadaśām imābhyo devībhyaḥ pravaṇahṛdayaḥ syām gatabhayaḥ ॥ 21 ॥ 
 
 The plane created in this way by the Krama of the six wheels (of the first six Kālīs) are these, Your energies, that have been attained by the unfolding of Your own glorious power (vibhava) of (withdrawal), the third (state). By unfolding in due order (kramāt), (Bhadrakālī) bestows a strange (and wonderful) state (daśā) in the world. May I, whose heart is inclined to devotion, be freed from fear by these goddesses. (21) 
 
@@ -211,7 +211,7 @@ I am blocking this plane which causes mental distress due to the duality and fea
 kriyābuddhyakṣādeḥ parimitapade mānapadavīm avāptasya sphāraṁ nijanijarucā saṁharati yā |
 iyan mārtandasya sthitipadayujaḥ sāram akhilam haṭhād ākarṣantī kṛśatu mama bhedamńi bhavabhayāt || 23 ॥ 
 
-She withdraws (each time), in accord with her own desire, the expansion of the plane of the means of knowledge within the plane of limitation of the senses of knowledge and action of one who has attained (that), dragging by force \[illegible\] the entire essence of Mārtaṇnda, who is on the plane of persistence. May she drag my duality out of the fear of phenomenal existence. 
+She withdraws (each time), in accord with her own desire, the expansion of the plane of the means of knowledge within the plane of limitation of the senses of knowledge and action of one who has attained (that), dragging by force (haṭhāt) the entire essence of Mārtaṇnda, who is on the plane of persistence. May she drag my duality out of the fear of phenomenal existence. 
 
 *[p. 478]* ^pg491
 
@@ -230,7 +230,7 @@ Having penetrated within Herself instantly at each moment (muhur), the Kālī wh
 
 10\) Kālāgnirudrakālī (the persistence of subjectivity) 
 
-pramāne \[illegible\] Śivapadalasadvaibhavavaśāt śarīraprāṇādir mitakṛtakamātṛsthitimayaḥ |
+pramāne saṁlīne Śivapadalasadvaibhavavaśāt śarīraprāṇādir mitakṛtakamātṛsthitimayaḥ |
 yadā kālopādhiḥ pralayapadam āsādayati te tadā devī yāsau lasati mama sā syāc chivamayī ॥ 25 ॥ 
 
 When the means of knowledge has merged (into consciousness) by the glorious power that is playing on Śiva’s plane, if the body and the vital breath etc. and the adjunct of time, which is the abiding state (sthiti) of the limited, artificial perceiver, attains the play of destruction, may the goddess who flashes 
@@ -247,7 +247,7 @@ Consciousness, called Light, devoid of succession, merges externally and flows i
 12\) Mahācaṇdograkālī (the inexplicable state of subjectivity) 
 
 tato devyāṁ yasyāri paramaparipūrṇasthitijuṣi kraman vicchidyāśu sthitimatirasāt saṁvidadhati |
-pramāṇari mātārari mitim atha samagrari jagad idar \[illegible\] 
+pramāṇari mātārari mitim atha samagrari jagad idar sthitāṁ 
 
 [^1159]: Read samagrāsakālī for samagrāmakṣālīṁ.
 

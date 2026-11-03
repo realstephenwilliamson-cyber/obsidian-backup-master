@@ -25,7 +25,7 @@ Surely (one may ask), if the body is like a machine at that time, how can there 
 ्रारब्धृकर्मसंबन्धादेहस्य सुखिदुःखिते । (avidya) ॥
 न विशङ्केत तच्च श्रीगमशासरे निरूपितम् ।
 
-prārabdhṛkarmasabandhād \[illegible\] \[illegible\] sukhiduhkhite ॥ 231 ॥ 
+prārabdhṛkarmasabandhād dehasya sukhiduhkhite ॥ 231 ॥ 
 
 na viśaṁketa tac ca śrīgamaśāstre nirūpitam | 
 
@@ -284,7 +284,7 @@ says that he ‘becomes Śiva when the body dies’.
 तत्रापि तारतम्यस्य संभवाच्चिरणीघ्रता । २४४ ॥
 बह्लल्पभोगयोगश्च देहभूम्यल्पताक्रमः ।
 
-tatrāpi tāratamyasya \[illegible\] \[illegible\] ciraśīghratā ॥ 244 || 
+tatrāpi tāratamyasya saṁbhavāc ciraśīghratā ॥ 244 || 
 
 bahvalpabhogayogaś ca dehabhūmyalpatākramaḥ | 
 
@@ -471,7 +471,7 @@ Maheśa (the Great Lord) has said in the first section of six thousand verses (�
 
 Although ‘supreme’, that is, extremely bound ‘souls’, ‘by considering themselves to be Śiva’, which is knowledge (born of) intuition, ‘are conjoined (to Śiva) and (so) ʻare liberated just then itself’. Even so, in order to strengthen the confirmation (that their liberation is authentic) with respect to their previous condition, those fettered souls then ‘desire’ to go to a teacher who is (in fact) Śiva, in accord with the teaching that: ‘in the form of a teacher, Śiva graces the world’. (They desire this) because they have been ‘initiated by the teacher’. The meaning is that they have undergone (their) purifying (and empowering) rites (kṛtasahskāra). And so: 
 
-‘That teacher who, even though uncreated (akalpita), has by the confirmation (obtained) from other (teachers or scriptures) strengthened (his conviction of the genuineness of his enlightenment) and is thus further purified, is Bhairava in person \[illegible\][^553] 
+‘That teacher who, even though uncreated (akalpita), has by the confirmation (obtained) from other (teachers or scriptures) strengthened (his conviction of the genuineness of his enlightenment) and is thus further purified, is Bhairava in person (sākṣāt).’[^553] 
 
 In accord with this teaching, ‘they come to know’, that is, understand, that ‘they have accomplished what needs to be done’, that is, that the fetters of phenomenal existence have been severed ‘just by receiving (that initiation)’, when (their) purification has been made firm (and received confirmation) in another way from the teacher etc., (that this has taken place). As is said there (in the Nandisikhātantra), one and a half verses further ahead: 
 
@@ -506,7 +506,7 @@ Thus, the point is proved that the words before refer to the intensely intense (
 ### TĀ 13.254
 
 नवधा शक्तिपातोऽयं शम्भुनाथेन वर्णितः ।
-navadhā śaktipāto \[illegible\] śambhunāthena varnitaḥ | 
+navadhā śaktipāto ‘yaṁ śambhunāthena varnitaḥ | 
 
 This is the nine-fold descent of power described by Śambhunātha. (254ab) 
 
@@ -529,7 +529,7 @@ At all Levels, Grace Depends Solely on Śiva’s Will
 तथाविधोऽपि भोगांशावच्छेदेनोपलक्षित : ।। २८५५ ॥।
 अपरः शक्तिपातोऽसो पर्यन्ते शिवताप्रदः ।
 
-\[illegible\] sāram iha jṁñeyaṁn paripūrṇacidātmanaḥ ॥ 254 I|
+idaṁ sāram iha jṁñeyaṁn paripūrṇacidātmanaḥ ॥ 254 I|
 prakāśaḥ paramaḥ śaktipāto ‘vacchedavarjitaḥ |
 tathāvidho ‘pi bhogāmśāvacchedenopalakṣitaḥ ॥ 255 ॥ 
 
@@ -563,7 +563,7 @@ nāsti vyāpāra ity evaṁ nirapekṣaḥ sa sarvataḥ |
 
 In neither case (of these two types) is (their) operation (vyāpāra) that of Karma and the like, (that operate) within Māyā. Thus, (the descent of the power of grace) is independent in every way (of any factors apart 
 
-from Śiva’s \[illegible\][^558] (256cd-257ab) 
+from Śiva’s will).[^558] (256cd-257ab) 
 
 #### Viveka on 13.256–257
 
@@ -594,7 +594,7 @@ svādhikārakṣaye tais tair bhairavībhūyate haṭhāt |
 ye māyayā hy anākrāntās te karmādyanapekṣinaḥ ॥ 258 ॥
 saktipātavaśād eva tām tāṁ siddhim upāśritāḥ | 
 
-Thus, the Rudras who reside within Māyā and those who are above them identify vigorously \[illegible\] with Bhairava when the post assigned to them comes to an end. Indeed, those who are not overcome by Māyā (and so) are free of Karma and the rest, attain this or that accomplishment (siddhi) by the descent of (Śiva’s) power (of grace). (257cd-259ab) 
+Thus, the Rudras who reside within Māyā and those who are above them identify vigorously (haṭhāt) with Bhairava when the post assigned to them comes to an end. Indeed, those who are not overcome by Māyā (and so) are free of Karma and the rest, attain this or that accomplishment (siddhi) by the descent of (Śiva’s) power (of grace). (257cd-259ab) 
 
 #### Viveka on 13.257–259
 
@@ -667,9 +667,9 @@ Nor is it reasonable (to maintain that) in this way the repetition of Mantra (ja
 जपादिका क्रियाशक्तिरेवेत्ं नतु कर्म तत् ॥ २६२ ॥
 कर्म तल्लोकरूदं हि यद्धोगमवर ददत् । |
 तिरोधत्ते भोक्तरूपं संज्ञायां तु न नो भरः । २६३ ॥
-japādikā kriyāśaktir \[illegible\] na tu karma tat || 262 ॥
+japādikā kriyāśaktir evetthaṁ na tu karma tat || 262 ॥
 karma tal lokarūdham hi yad bhogam avaraṁ dadat |
-tirodhatte bhoktrrūpamn \[illegible\] \[illegible\] tu na no bharaḥ ॥ 263 ॥ 
+tirodhatte bhoktrrūpamn saṁjñāyā tu na no bharaḥ ॥ 263 ॥ 
 
 As this is so, (actions) such as the repetition of Mantra are (an expression of) the power of action. That is not Karma. The common meaning of the word Karma is that it gives lower (avara) worldly experience (bhoga) and hides the (true) nature of the experiencing subject (bhoktr). (Anyway,) we do not lend any weight to a (mere) name.[^561] (262cd-263) 
 
@@ -749,7 +749,7 @@ It is said that; ‘This, Śiva’s power of action, residing in the fettered so
 
 ‘This’, the Supreme Goddess’s power of action who, residing within the fettered soul, contains (in herself) the obstacle which is duality (bhedāvagraha), in the form of (the awareness) that, for example, “I do this”. Consisting of the disturbance (of the urge) to abandon (what he does not desire) and take up (what he does), it binds (the soul). Thus, because it brings about the loss of (the soul’s) own (true) nature, it is said to be Karma, which gives (the soul) pleasure and pain etc. It is said (of it that) ‘the common meaning of the word Karma is that it gives lower (avara) worldly fruit (bhoga) and hides the (true) nature of the experiencing subject (bhoktr).?[^568] Again, (when) it is ‘known’ and presides over her own path which, as all this is consciousness alone, is Śiva’s power, it bestows each and every accomplishment (siddhi) immediately. This is why it is said that action such as the repetition of Mantra is the Supreme Goddess’s power; it is certainly not Karma. That is said in the venerable Spandakārikā: 
 
-“This, Śiva’s power of action, residing in the fettered soul, binds it, (but) when (its true nature) is understood and it is set on its own path, (this power) bestows accomplishment \[illegible\][^569] 
+“This, Śiva’s power of action, residing in the fettered soul, binds it, (but) when (its true nature) is understood and it is set on its own path, (this power) bestows accomplishment (siddhi).’[^569] 
 
 Surely (one may ask), what is the accomplishment meant here? With this doubt in mind, he says: 
 
@@ -795,7 +795,7 @@ tāvantaṁ bhogam ādhatte paryante śivatāṁ na tu |
 
 Whatever form God (assumes) by Himself within (Himself), such as Viṣṇu, is subject to association with duality (bheda), and so is collocated on the plane of Māyā. Thus, even though (there is some) descent of the power (of grace), because (deity) is associated with those (limited) forms, they bestow (only) that much fruit (as befits their status), and certainly not 
 
-ultimately Śiva’s state \[illegible\] (268cd-270ab) 
+ultimately Śiva’s state (śivatā). (268cd-270ab) 
 
 #### Viveka on 13.268–270
 
@@ -842,7 +842,7 @@ ko ‘pi pradhānapuruṣavivekī prakṛter gataḥ |
 utkṛṣṭāt tata evāśu ko ‘pi buddhvā vivecitām || 272 ॥
 \[illegible\] puṁsaḥ kalāyāś ca puṁmāyāntaravedakaḥ | 
 
-Thus some (wise yogi), due to (a weak) descent of the power (of grace), which is fit to function (only) within the womb of Māyā, discriminates the soul from Nature and has gone (beyond) Nature. Someone (else), by virtue of a more elevated (descent of power) than that, having quickly understood the distinction \[illegible\][^570] between the soul and the Force (of limited agency) (kalā), knows in a moment the difference between the soul and Māyā. (271cd-273ab) 
+Thus some (wise yogi), due to (a weak) descent of the power (of grace), which is fit to function (only) within the womb of Māyā, discriminates the soul from Nature and has gone (beyond) Nature. Someone (else), by virtue of a more elevated (descent of power) than that, having quickly understood the distinction (vivecitā)[^570] between the soul and the Force (of limited agency) (kalā), knows in a moment the difference between the soul and Māyā. (271cd-273ab) 
 
 #### Viveka on 13.271–273
 
@@ -1116,7 +1116,7 @@ What is said (here)?
 अनयैव दिशा नेयं मतद्गकिरणादिकम् ।
 ग्रनथगौरवभीत्या तु तल्लिखित्वा न योजितम् | २८४ ॥
 
-anayaiva \[illegible\] neyaṁ mataṅgakiranādikam |
+anayaiva diśā neyaṁ mataṅgakiranādikam |
 granthagauravabhītyā tu tal likhitvā na yojitam ॥ 284 ॥ 
 
 The Mataṅga, Kirana[^587] and other (Saiddhāntika scriptures) should be understood in this way. A written (exposition) of their (view) has not been added for fear of (making this) book (even) more extensive.[^588] (284) 
@@ -1125,7 +1125,7 @@ The Mataṅga, Kirana[^587] and other (Saiddhāntika scriptures) should be under
 
 [^585]: Quote from Mataṅga cannot be traced in MPĀ. There is another reference said to be from the Mataṅgatantra that cannot be traced in the MPĀ, see above 9/190cd-191ab.
 
-[^586]: Kiraṇatantra vidyāpāda 1/20cd-21. This is clearly the meaning of these lines. The power of grace descends when Karmas balance out. There can be no doubt from the context that Jayaratha understood these lines this way. Indeed, the context in the original source supports it. However, Rāmakaṇtha understood this verse differently. The difference is marked by a variant reading. Here the second half of the first line reads, according to Jayaratha: tatkālaṁ yogyatāvaśāt — ‘that is the time (the disciple), by virtue of his competence . . . \` The edited texts read kālāntaravaśāt tataḥ. This literally means ‘thus by virtue of the interval of time’. The immediate sense is that the ‘interval’ (antara) of time is the period when Karmas balance out. However, Rāmakaṇṭha understands this as the time after which (antara) the Impurity that binds the soul has matured (malapāka). Moreover, according to him, the balance of Karma is not the occasion for the descent of power of grace; rather, it is caused by it. Goodall (1998: 215 n 171) explains: ‘Because Rāmakantha is attempting to make the \[illegible\] \[illegible\] presentation of what precedes a descent of power consistent with Sadyojyotih’s account (and perhaps that of other Tantras?), according to which maturation of mala is the prerequisite for a descent of salvific power, his commentary . . . requires us to take karmani sañjāte to refer to the equanimity of the soul towards actions that would produce good or bad results ~ an equanimity that is a psychological consequence of a descent of power and so a sign from which one can infer that a descent of power has taken place, thus making the soul fit for initiation. The descent of power in turn can only come about after mala has matured (kālāntaravaśāt). It is easy to see that this interpretation is quite unnatural, and what must really have been intended is that \[. . .\] when two actions become equal (i.e. of equal strength and simultaneously ripe) they block each other and the soul becomes unable to experience. This comes about either ‘because of the differences in the time (that it takes each to mature)’ or ‘through the power of an interval of time’ (kālāntaravaśāt). It is this blockage of karman that precedes the descent of power through which the soul is rendered ready to receive salvific initiation’.
+[^586]: Kiraṇatantra vidyāpāda 1/20cd-21. This is clearly the meaning of these lines. The power of grace descends when Karmas balance out. There can be no doubt from the context that Jayaratha understood these lines this way. Indeed, the context in the original source supports it. However, Rāmakaṇtha understood this verse differently. The difference is marked by a variant reading. Here the second half of the first line reads, according to Jayaratha: tatkālaṁ yogyatāvaśāt — ‘that is the time (the disciple), by virtue of his competence . . . \` The edited texts read kālāntaravaśāt tataḥ. This literally means ‘thus by virtue of the interval of time’. The immediate sense is that the ‘interval’ (antara) of time is the period when Karmas balance out. However, Rāmakaṇṭha understands this as the time after which (antara) the Impurity that binds the soul has matured (malapāka). Moreover, according to him, the balance of Karma is not the occasion for the descent of power of grace; rather, it is caused by it. Goodall (1998: 215 n 171) explains: ‘Because Rāmakantha is attempting to make the Kiraṇa’s presentation of what precedes a descent of power consistent with Sadyojyotih’s account (and perhaps that of other Tantras?), according to which maturation of mala is the prerequisite for a descent of salvific power, his commentary . . . requires us to take karmani sañjāte to refer to the equanimity of the soul towards actions that would produce good or bad results ~ an equanimity that is a psychological consequence of a descent of power and so a sign from which one can infer that a descent of power has taken place, thus making the soul fit for initiation. The descent of power in turn can only come about after mala has matured (kālāntaravaśāt). It is easy to see that this interpretation is quite unnatural, and what must really have been intended is that \[. . .\] when two actions become equal (i.e. of equal strength and simultaneously ripe) they block each other and the soul becomes unable to experience. This comes about either ‘because of the differences in the time (that it takes each to mature)’ or ‘through the power of an interval of time’ (kālāntaravaśāt). It is this blockage of karman that precedes the descent of power through which the soul is rendered ready to receive salvific initiation’.
 
 [^587]: Abhinava is saying that despite seemingly differing views about the occasion for saktipāta in the Siddhāntas, i.e. that it is brought about by karmasāmyatā and malaparipāka, ultimately they themselves admit that it’s occurrence depends on Śiva’s will. Chapter five of the vidyāpāda of the Kirana is devoted to the topic of śaktipāta. There we read, as Abhinava affirms, that ultimately it is Śiva Who brings this about: ‘That time (of malaparipāka) alone is ‘skilful’ (and is the time of the descent) of power; it is (the time in which there is) compassion for the soul. (14ab) Siva waits for that time called ‘the hole in time’, because of the soul’s beginningless bondage by action. And the Lord Śiva knows that (time). (l4cd-15ab) Just as someone awaits a certain particular time when (shooting at) a moving target, and he knows that time, so too Śiva awaits the time of the balance (of actions). (15cd-16ab) Because of the absence otherwise of the balance of action, liberation (from the bond of action) would be simultaneous (for all). (16cd) If this time (karmaḥ) is denied, then there would be no dependence on means and instruments (for accomplishing liberation). (17ab) The active agent (prabhuḥ) in this (bestowal of grace) you must understand to be Śiva. How could time be thought to be the active agent? Being the active agent depends on being essentially sentient. Since time is insentient, it is not the active agent. (17cd-18ab) Śiva is the agent of the awakening of souls, just as the sun is (syāf) the active agent of the awakening of lotuses, provided the (appropriate) time is at hand. Nor does opening occur in them without (the appropriate) time. Nevertheless, it is the sun that is ordinarily (asmin loke) called the awakener of lotuses. And (even) if the (correct) time is that of the state of readiness, it is still (only) figuratively (spoken of as) that which illumines. Thus, although that time is (that of) a balance of action, nevertheless the Lord remains (saṁsthitaḥ) the active agent, according to the Śaiva Siddhānta (atra) of the descent of power.’ (20cdef)
 
@@ -1158,7 +1158,7 @@ grace \[illegible\][^589]
 
 [^588]: The reason Abhinava does not delve into these matters more extensively is certainly not that he did not have a vast and thorough knowledge of the Siddhānta!
 
-[^589]: The complete verse reads: tasyaiva tu prasādena bhaktir utpadyate nṛnām | yathā yānti \[illegible\] siddhi tadbhāvagatamānasāḥ || ‘Peoples’ devotion arises by his grace alone. Due to that (devotion), those whose minds are immersed in His nature attain the supreme accomplishment.’ Abhinavagupta attributes this verse, which he quotes in 13/285, to an unnamed Purāṇa. He quotes an abbreviation of the first line in TĀ 13/285ab which Jayaratha quotes in full here and ad 16/31, 17/73, and 25/27-29ab. TĀ 13/285cd is a literal quotation of the second line. Abhinava quotes an abbreviation of it in 13/289cd. Jayaratha quotes the complete verse ad 21/9cd-1 lab as does Abhinava himself in MVV
+[^589]: The complete verse reads: tasyaiva tu prasādena bhaktir utpadyate nṛnām | yathā yānti parāṁ siddhi tadbhāvagatamānasāḥ || ‘Peoples’ devotion arises by his grace alone. Due to that (devotion), those whose minds are immersed in His nature attain the supreme accomplishment.’ Abhinavagupta attributes this verse, which he quotes in 13/285, to an unnamed Purāṇa. He quotes an abbreviation of the first line in TĀ 13/285ab which Jayaratha quotes in full here and ad 16/31, 17/73, and 25/27-29ab. TĀ 13/285cd is a literal quotation of the second line. Abhinava quotes an abbreviation of it in 13/289cd. Jayaratha quotes the complete verse ad 21/9cd-1 lab as does Abhinava himself in MVV
 
 
 *[p. 301]* ^pg323
@@ -1254,7 +1254,7 @@ No Specific Time or Cause of Grace
 कर्हिचित्पराप्तशब्दाभ्यामनपेक्षित्वमृचिवान् ।। २९१ ॥
 दर्लभत्वमरागित्वं शक्तिपातविधौ विभोः ।
 
-śrīmānutpaladevaś cāpy \[illegible\] paramo guruḥ |
+śrīmānutpaladevaś cāpy asmākaṁ paramo guruḥ |
 saktipātasamaye vicāraṇari prāptam īía na karoṣi karhicit \\\\ 290 ॥
 adya māṁ prati kim āgataṁ yataḥ svaprakāśanavidhau vilambase |
 karhicit prāptaśabdābhyām anapekṣitvam ūcivān || 291 ॥
@@ -1312,7 +1312,7 @@ vyācakṣāṇena mātaṁge varnitā nirapekṣatā |
 sthāvarānte ‘pi devasya svarūponmīlanātmikā ॥ 294 ॥
 saktiḥ patantī sāpekṣā na kvāpīti suvistarāt | 
 
-The venerable Aniruddha has also described (the Lord’s) independence at length in (his commentary on) the Mataṅgatantra,[^594] (in the course of) explaining (the nature of) the Lord’s unfolding power \[illegible\] (There he writes:) ‘the power of God, which discloses the essential nature (of all things), descends down even to immobile beings (such as plants). Nowhere (in any circumstance) (kvāpi) is it dependent (on anything).’ (293cd-295ab) 
+The venerable Aniruddha has also described (the Lord’s) independence at length in (his commentary on) the Mataṅgatantra,[^594] (in the course of) explaining (the nature of) the Lord’s unfolding power (unmīlinī). (There he writes:) ‘the power of God, which discloses the essential nature (of all things), descends down even to immobile beings (such as plants). Nowhere (in any circumstance) (kvāpi) is it dependent (on anything).’ (293cd-295ab) 
 
 #### Viveka on 13.293–295
 
@@ -1363,7 +1363,7 @@ As the descent of the power (of grace) is various in this way, according to the 
 
 attains Śiva’s state by His grace. 
 
-[^596]: Read -rudrāmśatā- for -rudrāśatā-. A devotee of Rudra is called a ‘rudrāmśa’. So, one could also translate that ‘he attains the status of a devotee of Rudra’ instead of ‘a limb of Rudra’s nature’. Cf. below, 15/509 (512) and 15/525cd (521cd). brahmārśo vedabhaktas tu rudrāmśaṁ ca nibodha me || 3 ॥ rudrabhaktaḥ suśīlaś ca śivaśāstrarataḥ sadā | viṣnvaṁśo viṣnubhaktaś ca candrāmśaḥ priyadarśanaḥ ॥ 4 ॥ sarvadevarataḥ śānto yakṣāiśo dhanasaṁgrahī | lubdho garvitamṛṣtāśī vātāṁmśaś capalaḥ smṛtaḥ ॥ 5 ॥ sarpavisrambhagāmī syān nāgāmṁśo dīrghaśāyyatha | dīrgharoṣaḥ pūtivaktro gurukṣīraruciḥ sadā || 6 ॥ gāndharvo gāyano nityaṁ śivabhakto varānane | vidyādharāmśakaḥ prānṇī daityāṁśo dveṣanaḥ smṛtaḥ ॥ 7 I| kāmārśo rūpavārś caiva subhago ganikāpriyaḥ | rakṣoṁśaḥ krūranistrimśo devadveṣī dvijeṣu ca ॥ 8 ॥ piśācārśaś chalānveṣī vāsare bhīrukātaraḥ | agnyaṁśaḥ paruṣas tīvra uṣṇādaḥ piṁgalas tathā ॥ 9 ॥ savitrahśaś ca tejasvī pūrtadharmarataḥ sadā | iṣṭāni kurute nityaṁ dayāluḥ śivabhāvitaḥ ॥ 10 ॥ “(One who is) Brahmā’s limb is devoted to the Vedas. (Now) know from me (who is) Rudra’s limb. He is devoted to all the gods and tranquil. (One who is) a Yakṣa’s limb accumulates wealth; he is greedy, proud, and eats (polluted food others) have touched \[illegible\] A limb of the Wind is said to be fickle. (3cd-5) The limb of a Nāga moves with a leisurely pace of a snake (read -viśrambha-for —visrambha-) and lies (sleeping) for a long time. He remains angry for a long time. His mouth has a foul smell and always craves (to drink) the teacher's milk. (6) O fair faced one, the living being, (he who is a limb) of a Vidyādhara, (like a) Gandharva sings all the time and is devoted to Śiva. The limb of a demon is said to be (full of) hate. (6-7) A limb of Kāma is beautiful, fortunate and likes prostitutes. The limb of a Rakṣas is cruel and devoid of compassion. He hates the gods and Brahmins. (8) The limb of a Piśāca is (always) seeking to be deceitful, and (even) during the day is frightened and cowardly. A limb of Fire is rough (in his speech). He is intense (in his work) and brown in colour, he eats hot (and spicy food). (9) A limb of Savity is full of radiant energy, and is always devoted to the rule of meritorious work. He always does desirable things. He is compassionate and inspired (bhāvita) by Śiva. (SvT 8/3cd-10) pūtivaktro durāmodalālāsyaḥ | vidyādharāmśasya śivabhaktatvan troktavi-dhānena guṭikāñjanādisiddhirasikatvam | krūro dāruṇahṛdayaḥ \\ nistriṁśo nirghṛna-vyāpārah | paruṣo vācā | \[illegible\] karmaṇā | pūrtan vāpīkūpādikaraṇam | iṣtaṁn yajṁaḥ | spaṣtam anyat || 10 ॥ ‘His mouth has a foul smell’. (His) mouth smells badly and (slobbers with) spittle. One who is a limb of a Vidyādhara is a devotee of Śiva, and delights in the accomplishments of the (magic alchemical) pill and the collyrium (by which he can see everywhere), in accord with the procedure prescribed by the Śaiva scriptures. The heart of (a demon) is ‘cruel’, that is, pitiless. The behaviour of one who is ‘devoid of compassion’ is devoid of warm feelings towards others. His speech is ‘rough’. The action (of such a one is) ‘intense’. ‘Meritorious work’ includes such things as wells and tanks dug (for the common good). ‘Desirable things’ comprise the sacrifice. All else is clear.’ Those who are limbs of deities bestow upon the adept various fruits, according to their own degree of sovereignty. They allow him to attain the limited plane upon which they reside, no higher. However: bhairavāṁgasamālabdhāḥ sarve devā varānane ॥ 11 ॥ bhairavās tu smṛtāḥ sarve sarvasiddhiphalapradāḥ \\ ‘Those who have attained (the condition of) a limb of Bhairava are all gods, O fair faced one. They are all said to be Bhairavas, who bestow the fruits of all accomplishments.’ (1 1cd-12ab)
+[^596]: Read -rudrāmśatā- for -rudrāśatā-. A devotee of Rudra is called a ‘rudrāmśa’. So, one could also translate that ‘he attains the status of a devotee of Rudra’ instead of ‘a limb of Rudra’s nature’. Cf. below, 15/509 (512) and 15/525cd (521cd). brahmārśo vedabhaktas tu rudrāmśaṁ ca nibodha me || 3 ॥ rudrabhaktaḥ suśīlaś ca śivaśāstrarataḥ sadā | viṣnvaṁśo viṣnubhaktaś ca candrāmśaḥ priyadarśanaḥ ॥ 4 ॥ sarvadevarataḥ śānto yakṣāiśo dhanasaṁgrahī | lubdho garvitamṛṣtāśī vātāṁmśaś capalaḥ smṛtaḥ ॥ 5 ॥ sarpavisrambhagāmī syān nāgāmṁśo dīrghaśāyyatha | dīrgharoṣaḥ pūtivaktro gurukṣīraruciḥ sadā || 6 ॥ gāndharvo gāyano nityaṁ śivabhakto varānane | vidyādharāmśakaḥ prānṇī daityāṁśo dveṣanaḥ smṛtaḥ ॥ 7 I| kāmārśo rūpavārś caiva subhago ganikāpriyaḥ | rakṣoṁśaḥ krūranistrimśo devadveṣī dvijeṣu ca ॥ 8 ॥ piśācārśaś chalānveṣī vāsare bhīrukātaraḥ | agnyaṁśaḥ paruṣas tīvra uṣṇādaḥ piṁgalas tathā ॥ 9 ॥ savitrahśaś ca tejasvī pūrtadharmarataḥ sadā | iṣṭāni kurute nityaṁ dayāluḥ śivabhāvitaḥ ॥ 10 ॥ “(One who is) Brahmā’s limb is devoted to the Vedas. (Now) know from me (who is) Rudra’s limb. He is devoted to all the gods and tranquil. (One who is) a Yakṣa’s limb accumulates wealth; he is greedy, proud, and eats (polluted food others) have touched (mṛṣṭāśin). A limb of the Wind is said to be fickle. (3cd-5) The limb of a Nāga moves with a leisurely pace of a snake (read -viśrambha-for —visrambha-) and lies (sleeping) for a long time. He remains angry for a long time. His mouth has a foul smell and always craves (to drink) the teacher's milk. (6) O fair faced one, the living being, (he who is a limb) of a Vidyādhara, (like a) Gandharva sings all the time and is devoted to Śiva. The limb of a demon is said to be (full of) hate. (6-7) A limb of Kāma is beautiful, fortunate and likes prostitutes. The limb of a Rakṣas is cruel and devoid of compassion. He hates the gods and Brahmins. (8) The limb of a Piśāca is (always) seeking to be deceitful, and (even) during the day is frightened and cowardly. A limb of Fire is rough (in his speech). He is intense (in his work) and brown in colour, he eats hot (and spicy food). (9) A limb of Savity is full of radiant energy, and is always devoted to the rule of meritorious work. He always does desirable things. He is compassionate and inspired (bhāvita) by Śiva. (SvT 8/3cd-10) pūtivaktro durāmodalālāsyaḥ | vidyādharāmśasya śivabhaktatvan troktavi-dhānena guṭikāñjanādisiddhirasikatvam | krūro dāruṇahṛdayaḥ \\ nistriṁśo nirghṛna-vyāpārah | paruṣo vācā | tīvraḥ karmaṇā | pūrtan vāpīkūpādikaraṇam | iṣtaṁn yajṁaḥ | spaṣtam anyat || 10 ॥ ‘His mouth has a foul smell’. (His) mouth smells badly and (slobbers with) spittle. One who is a limb of a Vidyādhara is a devotee of Śiva, and delights in the accomplishments of the (magic alchemical) pill and the collyrium (by which he can see everywhere), in accord with the procedure prescribed by the Śaiva scriptures. The heart of (a demon) is ‘cruel’, that is, pitiless. The behaviour of one who is ‘devoid of compassion’ is devoid of warm feelings towards others. His speech is ‘rough’. The action (of such a one is) ‘intense’. ‘Meritorious work’ includes such things as wells and tanks dug (for the common good). ‘Desirable things’ comprise the sacrifice. All else is clear.’ Those who are limbs of deities bestow upon the adept various fruits, according to their own degree of sovereignty. They allow him to attain the limited plane upon which they reside, no higher. However: bhairavāṁgasamālabdhāḥ sarve devā varānane ॥ 11 ॥ bhairavās tu smṛtāḥ sarve sarvasiddhiphalapradāḥ \\ ‘Those who have attained (the condition of) a limb of Bhairava are all gods, O fair faced one. They are all said to be Bhairavas, who bestow the fruits of all accomplishments.’ (1 1cd-12ab)
 
 *[p. 307]* ^pg329
 

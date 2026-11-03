@@ -196,7 +196,7 @@ uditā tvam eva bhagavati jayasi jayādyena rūpenṇa ॥ 10 ॥
 There is some (undefinable) innate consciousness (sahajasaṁvitti), which is intent on destroying what is generated from the duality between being and nonbeing. O Goddess, (when it) is manifest (uditā), it is You Yourself, Who are victorious in the form (of the four goddesses) beginning with Jayā (jayādya) (followed by Vijayā, Ajitā and Aparājitā). (10) 
 
 jayati samastacarācaravicitraviśvaprapañcaracanormiḥ \[k: -normi\] |
-amalīsvabhāvajaladhau śāntaṁ \[illegible\] ca te rūpam || 11 ॥ 
+amalīsvabhāvajaladhau śāntaṁ kāntaṁ ca te rūpam || 11 ॥ 
 
 Your tranquil and beautiful nature, the wave of the deployment of the ongoing universe, wonderfully various with all that moves and is immobile, triumphs in the ocean of (Your) stainless nature. (11) 
 

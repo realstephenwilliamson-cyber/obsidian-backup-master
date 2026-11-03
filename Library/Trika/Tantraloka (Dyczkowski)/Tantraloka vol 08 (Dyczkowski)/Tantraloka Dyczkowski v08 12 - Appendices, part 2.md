@@ -26,7 +26,7 @@ converted: 2026-10-07
 तवगरक्तमांसमूतरेष यवर्ग परिकल्पयेत् | ३९१ ||
 शामस्थिवसाशुक्रप्राणकुपेषु पञ्चकम् ।
 
-a lalāṭe dvitīyaṁ ca vaktre \[illegible\] \[illegible\] et | 
+a lalāṭe dvitīyaṁ ca vaktre saṁparikalpay et | 
 
 i-ī netradvaye dattvā u-ū karṇadvaye nyaset || 27 ॥
 r R nāsāpuṭte tadvat ( L gandadvaye tathā |
@@ -39,13 +39,13 @@ pādyaṁ pārśvadvaye pṛṣthe jathare hṛdyanukramāt |
 tvagraktamāṁisamūtreṣu yavargaṁ parikalpayet || 31 ॥
 sādyamasthivasāśukraprāṇakūpeṣu pañcakam | 
 
-A should be imagined to be on the forehead and the second one (4) on the mouth. Having placed I and Ī on the two eyes, one should deposit U and \[illegible\] on the two ears. r and R are on the nostrils. In the same way one should deposit ḷ and Ḷ on the two cheeks. E and AI are on the lower and upper teeth (respectively). The letters O and AU are in the same way on the two lips. M is on the topknot. The tongue should be fashioned with H. 
+A should be imagined to be on the forehead and the second one (4) on the mouth. Having placed I and Ī on the two eyes, one should deposit U and Ū on the two ears. r and R are on the nostrils. In the same way one should deposit ḷ and Ḷ on the two cheeks. E and AI are on the lower and upper teeth (respectively). The letters O and AU are in the same way on the two lips. M is on the topknot. The tongue should be fashioned with H. 
 
 One should deposit the gutturals on the right shoulder, arm, hand, fingers and nails. In the same way, the palatals (should be deposited) in (the same) order on the left (arm). The cerebrals and dentals should be deposited as before (respectively on the right and left) hips, thighs (feet, toes and nails). The labials are on the two sides (of the body), the back, stomach and heart, in due order (respectively). One should imagine the semivowels (Y R, L and V) to be on the skin, blood, meat and sinews (respectively). The (remaining) five 
 
 *[p. 412]* ^pg430
 
-(phonemes) beginning with \[illegible\] (i.e., \$, S, H and KṢ) are on the bones, fat, sperm, vital breath and the testicles (respectively).[^992] (27-32ab) 
+(phonemes) beginning with Ś (i.e., \$, S, H and KṢ) are on the bones, fat, sperm, vital breath and the testicles (respectively).[^992] (27-32ab) 
 
 मूर्यङ्गानि ततो दत्वा शिवमावाहयेटबृधः || ३२ ॥
 mūrtyaṁgāni tato dattvā śivamāvāhayedbudhaḥ ॥ 32 ॥ 
@@ -62,7 +62,7 @@ vāmakarṇaprameyotaḥ sarvasiddhipradaḥ śivaḥ ॥ 33 ॥
 sadbhāvaḥ paramo hyeṣa bhairavasya mahātmanaḥ |
 aṁgānyanena kāryānṇi pūrvavatsvarabhedataḥ || 34 ॥ 
 
-The navel (KṢ) should be deposited above (i.e., before) the vital breath (H), and above that the right finger (JH). (This is) Śiva, the bestower of all accomplishments, threaded through with the objectivity (prameyota) of the left ear \[illegible\] This is the supreme essence (sadbhāva) of Bhairava, the great soul. The limbs should be formed as before, in conjunction with the vowels.[^993] (33-34) Śāmbhavanyāsa मूर्तिः सुष्टिखितत्वं च अष्टौ मूर्यद्धसंयुताः ।
+The navel (KṢ) should be deposited above (i.e., before) the vital breath (H), and above that the right finger (JH). (This is) Śiva, the bestower of all accomplishments, threaded through with the objectivity (prameyota) of the left ear (Ū). This is the supreme essence (sadbhāva) of Bhairava, the great soul. The limbs should be formed as before, in conjunction with the vowels.[^993] (33-34) Śāmbhavanyāsa मूर्तिः सुष्टिखितत्वं च अष्टौ मूर्यद्धसंयुताः ।
 शिवः साद्श्च षोढेव न्यासः संपरिकीर्तितः ॥ ३५ ॥
 
 \[illegible\] sṛṣtṭistritattvaṁ ca aṣtau mūrtyaṁgasaṁyutāḥ |
@@ -102,7 +102,7 @@ Having first of all deposited Parāparā with (Her) faces (and limbs) onto the I
 
 [^995]: Concerning all this, see TĀ 15/247-250ab. According to Śambhunātha’s interpretation (see TĀ 15/245cd-246), the translation of MV 8/35 would be as follows: “The deposition according to the tradition is sixfold, consisting of mārti (= Navātman), emission (= Mātṛkā), the three principles, the eight conjoined to the ‘icon’, Śiva (= Bhairavasadbhāva) and (by a sixth being) with his limbs.’
 
-[^996]: MV 8/35-36ab is quoted in TĀ 15/247-248ab with variants but without change of meaning. In place of MV 8/35cd sivaḥ \[illegible\] ca ṣodhaiva nyāsaḥ saṁprakīrtitaḥ — ‘and Śiva with his limbs - this is said to be the sixfold deposition’, TĀ 15/247cd reads: sivaḥ sāṁgaś ca vijñeyo nyāsaḥ ṣodhā prakīrtitaḥ — \[illegible\] should (also) know Śiva with his limbs — “this is said to be the sixfold deposition’. In place of MV 8/36ab asyopari tataḥ \[illegible\] kuryān nyāsaṁ yathā śṛṇu — “then one should then perform the deposition of energy above it; listen to how (that is done)’, TĀ 15/248ab reads: asyopari tataḥ śāktaṁ nyāsaṁ kuryācca ṣadvidham — \*one should then perform the sixfold deposition of energy above it.’ TĀ 15/239cd-246 explains these and related verses in the MV.
+[^996]: MV 8/35-36ab is quoted in TĀ 15/247-248ab with variants but without change of meaning. In place of MV 8/35cd sivaḥ sāṅgaś ca ṣodhaiva nyāsaḥ saṁprakīrtitaḥ — ‘and Śiva with his limbs - this is said to be the sixfold deposition’, TĀ 15/247cd reads: sivaḥ sāṁgaś ca vijñeyo nyāsaḥ ṣodhā prakīrtitaḥ — – ‘one should (also) know Śiva with his limbs — “this is said to be the sixfold deposition’. In place of MV 8/36ab asyopari tataḥ śāktaṁ kuryān nyāsaṁ yathā śṛṇu — “then one should then perform the deposition of energy above it; listen to how (that is done)’, TĀ 15/248ab reads: asyopari tataḥ śāktaṁ nyāsaṁ kuryācca ṣadvidham — \*one should then perform the sixfold deposition of energy above it.’ TĀ 15/239cd-246 explains these and related verses in the MV.
 
 [^997]: According to this view, the three principles are the three Bhairavas: Navātman, Ratiśekhara and Bhairavasadbhāva.
 
@@ -153,7 +153,7 @@ yasmādeṣā parāśaktirbhedenānena[^1004] kīrtitā ॥ 42 ॥
 
 [^1008]: TĀ 30/48c reads ‘sarve’ for sarvā. The feminine in this reading refers to the Mothers.
 
-[^1009]: TĀ 30/49b reads bhairavasya ca — \[illegible\] of Bhairava’ for MV 8/41b paripaṭhyate — ‘it is taught’. MV 8/41ab is quoted in TĀv ad 3/68cd-70 (69-7 lab) and 4/177-178ab.
+[^1009]: TĀ 30/49b reads bhairavasya ca — – ‘and of Bhairava’ for MV 8/41b paripaṭhyate — ‘it is taught’. MV 8/41ab is quoted in TĀv ad 3/68cd-70 (69-7 lab) and 4/177-178ab.
 
 
 *[p. 415]* ^pg433
@@ -184,9 +184,9 @@ Now, the deposition is said to be sixfold. (It consists of) the Icon (of Mālin�
 
 [^1011]: TĀ and kh: pu0 tāḥ sarvāḥ kurute tviyam.
 
-[^1012]: For MV 8/43b sarvāḥ syur anayā kṛtāḥ ‘all of them are generated by this \[illegible\] TĀ 31/51b reads \[illegible\] sarvāḥ kurute tv iyam — “this (Vidyā) generates them all.”
+[^1012]: For MV 8/43b sarvāḥ syur anayā kṛtāḥ ‘all of them are generated by this (Vidyā)’, TĀ 31/51b reads \[illegible\] sarvāḥ kurute tv iyam — “this (Vidyā) generates them all.”
 
-[^1013]: See TĀ 30/47-51. TĀ 30/51cd reads aṁgavaktrāni cāpyasyāḥ prāgvatsvaraniyogataḥ — ‘her limbs and faces are formed by applying the vowels in the same way as (explained) previously’ for MV 8/43cd \[illegible\] kalpayed asyāḥ pūrvavat svarabhedataḥ — ‘her limbs should be formed as before in conjunction with the vowels.” For the limbs and faces of Mātṛsadbhāva (HSHRPHREM) see above, note 553.
+[^1013]: See TĀ 30/47-51. TĀ 30/51cd reads aṁgavaktrāni cāpyasyāḥ prāgvatsvaraniyogataḥ — ‘her limbs and faces are formed by applying the vowels in the same way as (explained) previously’ for MV 8/43cd aṅgāni kalpayed asyāḥ pūrvavat svarabhedataḥ — ‘her limbs should be formed as before in conjunction with the vowels.” For the limbs and faces of Mātṛsadbhāva (HSHRPHREM) see above, note 553.
 
 [^1014]: k: anyathāpyanneti.
 
@@ -412,7 +412,7 @@ One should then imagine (vikalpayet) another group of nine (goddesses) beginning
 दलकेसरमध्यस्था मण्डलानां त ईश्वराः |
 ध्वनि ? चाकंन्दुवह्वीनां संज्ञया परिभावयेत् || ६७ ||
 
-brahmaviṣṇuharāḥ \[illegible\] ye śāktāḥ pratipāditāḥ ॥ 66 ॥
+brahmaviṣṇuharāḥ pūrvaṁ ye śāktāḥ pratipāditāḥ ॥ 66 ॥
 dalakesaramadhyasthā mandalānāṁ ta īśvarāḥ | 
 
 [^1041]: k: tataḥ.
@@ -478,7 +478,7 @@ Visualized Forms of the Three Goddesses
 इच्छारूपधरां ध्यात्वा किचिदुग्रां न भीषणाम् |
 अपरां वामधरद्धे तु भीषणां कृष्णपिद्धलाम् ॥ ७३ ॥
 
-tato madhye parāṁ \[illegible\] dakṣinottarayordvayam |
+tato madhye parāṁ śaktiṁ dakṣinottarayordvayam |
 parāparāṁ svarūpeṇa raktavarnāḥ mahābalām || 72 ||
 icchārūpadharām dhyātvā kimcidugrār na bhīṣaṇām |
 aparār vāmaśrùge tu bhīṣaṇām kṛṣṇapiṁgalām ॥ 73 ॥ 
@@ -489,8 +489,8 @@ Then, (one should contemplate) the supreme power (Parā) in the middle and the (
 परां चाप्यायनीं देवीं चन्द्रकोस्ययुतप्रभाम् || ७४ ||
 षडिवधेऽपि कृते शाक्ते मू्यादावपि चिन्तयेत् |
 
-icchārūpadharāri \[illegible\] praṇatārtivināśinīm |
-parām cāpyāyanīmṁ \[illegible\] candrakoṭyayutaprabhām | 74 |
+icchārūpadharāri devīṁ praṇatārtivināśinīm |
+parām cāpyāyanīmṁ devīṁ candrakoṭyayutaprabhām | 74 |
 ṣadvidhe ‘pi kṛte Śākte mūrtyādāvapi cintayet | 
 
 Once performed the six-fold (deposition) of power, as is done with the Icon and the rest,[^1049] one should think of Parā, the goddess who bears the form of 
@@ -581,7 +581,7 @@ Individual (Trident) ends four (fingers’ space above it). This is considered t
 तेनापि खेचरं बद्धवा त्यजत्येवं महीतलम् |
 
 11111111[^1055] vicintayet I| 83 I|
-tenāpi \[illegible\] baddhvā tyajatyeva mahītalam | 
+tenāpi khecarīṁ baddhvā tyajatyeva mahītalam | 
 
 (One can also) meditate on the assembly of powers (śakticakra) by the procedure (in which the deities) are worshipped individually (pṛthagyāgavidhānena).[^1056] By that (means also), once having formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.[^1057] (83cd-84ab) 
 
@@ -615,7 +615,7 @@ Then, after having consecrated grains of wheat with the great Weapon twenty-one 
 *[p. 427]* ^pg445
 
 pañcagavyaṁ tataḥ kuryādvadanaiḥ pañcabhirbudhaḥ |
-gomūtraṁ gomayari caiva \[illegible\] dadhi ghṛtaṁ tathā ॥ 86 ॥
+gomūtraṁ gomayari caiva kṣīraṁ dadhi ghṛtaṁ tathā ॥ 86 ॥
 mantrayedürdhvaparyantaih ṣadaṅgena kuśodakam |
 mudre dravyāmṛte baddhvā tattvaṁ tasya vicintayet ॥ 87 ॥
 tena sathprokṣayedbhūmiṁ svalpenānyannidhāpayet[^1059] | 
@@ -782,7 +782,7 @@ leaves and a garland and thread fashioned as its necklace.[^1078] It is covered 
 
 indrādīnpūjayetpaścātsvadikṣu proktasvasvaraiḥ ॥ 104 ॥ 
 
-Once the skilful (officiant) has offered the seat mentioned previously (for the jar) along with the scattered grains (on which it is placed), he should worship Indra and the rest (of the guardians of the quarters each) in their own quarter with their own vowels, as stated \[illegible\][^1082] (104) 
+Once the skilful (officiant) has offered the seat mentioned previously (for the jar) along with the scattered grains (on which it is placed), he should worship Indra and the rest (of the guardians of the quarters each) in their own quarter with their own vowels, as stated (previously).[^1082] (104) 
 
 अविच्छिन्नं ततो धारां वार्धीन्या प्रतिपादयेत् |
 भ्रामयेत्कलशं पश्चाटूबरूयाल्लोकेश्वरानिदम् ॥ १०५ |
@@ -895,7 +895,7 @@ One should deposit the (Mālinī) Vidyā OM HRĪM. Having deposited the Siva (M�
 
 [^1096]: kh: vidyāmaindrīm.
 
-[^1097]: MV 8/111d-113ab is quoted in the TĀv ad 15/405cd-406ab (402cd-403ab). ‘Having moved three times around outside the pit with the syllable OM \[illegible\] This line (quoted by Jayaratha just after this verse) is not found in the edition of the MV.
+[^1097]: MV 8/111d-113ab is quoted in the TĀv ad 15/405cd-406ab (402cd-403ab). ‘Having moved three times around outside the pit with the syllable OM (dhruva).’ This line (quoted by Jayaratha just after this verse) is not found in the edition of the MV.
 
 
 *[p. 434]* ^pg452
@@ -1012,7 +1012,7 @@ om kṣaḥ kṣaḥ sarvabhūtebhyaḥ svāheti manunāmunā ॥ 124 ॥
 
 [^1108]: MV 8/121-122ab is quoted in TĀv ad 15/447cd-449 (444cd-446). See TĀ 15/444cd-445. There Śiva is replaced by the sthandila, that is, the sacrificial surface.
 
-[^1109]: MV 8/123 is quoted in 15/450 (447). 15/450d (4470) reads tatrāstrahomo ‘py \[illegible\] bhavet ~ ‘there (in that case) also one hundred and eight oblations should be (offered) with the Weapon’ for MV 8/123d: tatrāpi homo'ṣṭaśatiko bhavet — ‘there (in that case) also the oblations should be one hundred and eight’.
+[^1109]: MV 8/123 is quoted in 15/450 (447). 15/450d (4470) reads tatrāstrahomo ‘py aṣṭaśataṁ bhavet ~ ‘there (in that case) also one hundred and eight oblations should be (offered) with the Weapon’ for MV 8/123d: tatrāpi homo'ṣṭaśatiko bhavet — ‘there (in that case) also the oblations should be one hundred and eight’.
 
 [^1110]: bahihkarma emended to balikarma.
 

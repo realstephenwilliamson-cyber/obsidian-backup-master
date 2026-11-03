@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 yad vinā na bhavej jṁānam \[g: bhavedjñānai\] saṁpradāyaṁi ca śāśvatam \[g: sā-\] |2 ॥
 kīdṛk ka \[g: -kva\] kuladravyāni kulapānami ca kīdṛśam |
-kīdṛśam bhojanaṁ teṣāṁ vartanarni \[illegible\] bhavet || 3 ॥
+kīdṛśam bhojanaṁ teṣāṁ vartanarni kīdṛśaṁ bhavet || 3 ॥
 pūjanari kulamārgeṣu \[g: kule-\] advaitācāravartinām | 
 
 The venerable goddess said: 
@@ -39,14 +39,14 @@ nirvikalpas tu sarveṣāṁ bhojanaṁ kurute sadā || 8 ॥[^718]
 
 [^717]: Verses 7 and 10ab are missing in manuscript Kh.
 
-[^718]: KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: \[illegible\] peyāny aṣtau kulāgame | matsyaṁ māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa \[illegible\] kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
+[^718]: KāKuKra: palāndu (kh: palādū) laśunaṁ grjańn lamvuṣaṁ lava tarkasāri | | vāmāpuṣpaṁi puṣpabandhari aṣtau dravyāni kaulike | | Sivāṁvu (kh: -vuṁ) ca surār raktar (kh: surā-) mahātailam (kh: + ca) śīdhukaṁ | kundalodbhavari (kh: kundagolodbhavari) śukraṁ (kh: śukaṁ) peyāny aṣtau kulāgame | matsyaṁ māṁsaṁ (1.1. 0 11111 mahāmāmsaṁ (kh: -māmsa) mṛgañcaiva bhakṣa cāṣṭau kulakrame | | The KāKuKcra lists three groups of eight. However, the text is very corrupt, not all of them can be made out.
 
 
 *[p. 388]* ^pg410
 
 The venerable Bhairava said: 
 
-This should not be revealed. It is the secret uttered by Bhairava that should be kept hidden. It should be protected with effort, so that the world may not contaminate it. (The sacred foods are) onion and garlic ete . . . (9[^719] They have other ancillaries. (Every substance is) mixed with menstrual blood. O fair lady, these are the sacrificial substances taught on the Kula Path. (There is) urine \[illegible\] liquor (surā), blood, wine, melted human fat (mahātaila), rum (sīdhu) and, O goddess, that which comes from a mixture of male and female sexual fluids (kundagola). These are the drinks that come from (the sacrificial substances called) Kula.[^720] They come from an abundance of fish and meat of (creatures) that move on the ground and in the air. They are all always eaten by one who is free of thoughts (nirvikalpa). (4cd-8) 
+This should not be revealed. It is the secret uttered by Bhairava that should be kept hidden. It should be protected with effort, so that the world may not contaminate it. (The sacred foods are) onion and garlic ete . . . (9[^719] They have other ancillaries. (Every substance is) mixed with menstrual blood. O fair lady, these are the sacrificial substances taught on the Kula Path. (There is) urine (śivāmbu), liquor (surā), blood, wine, melted human fat (mahātaila), rum (sīdhu) and, O goddess, that which comes from a mixture of male and female sexual fluids (kundagola). These are the drinks that come from (the sacrificial substances called) Kula.[^720] They come from an abundance of fish and meat of (creatures) that move on the ground and in the air. They are all always eaten by one who is free of thoughts (nirvikalpa). (4cd-8) 
 
 mātā vā \[k, kh: mātambā\] bhaginī bhāryā duhitā bandhukāndharī \[g: -vī\] |
 mātargī kajjalī śaundī \[g: kajjalī-\] kaṁdukī carmaraṁginī \[k: \[illegible\][^721] ॥ 9
@@ -60,7 +60,7 @@ ete \[kh: nāsti\] caiva \[kh: nāsti\] mahāpīṭhasamudbhūtāḥ \[k g: mah�
 taiḥ sarvair \[kh: sarven\] dravyajātīnām \[g:?\] parānām \[k: trapareṣāṁ; g:?\] pariyojitāḥ \[kh: yairniyo-; g:?\] ॥ 11 ॥
 bhojane tatvayuktānām dūtīnām taiś ca sarṁṁyutam |
 evar saṁcārayogena \[kh: saṁsāra-\] pūjā vaiśeṣikī \[g:?\] smṛtā \[g:?\] ॥ 12 ॥
-nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegible\] \[g:?\] tu \[g:?\] bhavet \[g:?\] \[illegible\] \[g:?\] (> \[illegible\] | 
+nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegible\] \[g:?\] tu \[g:?\] bhavet \[g:?\] tadā \[g:?\] (> \[illegible\] | 
 
 [^719]: The reading of this quarter is larṁvuṁśalaratarkaśā. It is too corrupt for me to understand.
 
@@ -101,7 +101,7 @@ tasmāt sarvaprayatnena yāgaṁ kuryāt tayā \[g: tayāḥ\] saha |
 183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 || sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
 digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\][^726] ॥ 19
 ॥
-parasparaṁ yajed dehau \[illegible\] deho kh: dehaḥ\] khānapānādisevitau |
+parasparaṁ yajed dehau [k: deho kh: dehaḥ\] khānapānādisevitau |
 147b) parasparam tu ratinau kundagolādisaṁyutau \[kh: -tāḥ\] | 20 ॥
 mīnamaṇndūkasariyuktau bhoktārau ca parasparam |
 vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanaṁ pānacumbanam || 21 || [^727] 
@@ -110,7 +110,7 @@ Therefore, one should offer the sacrifice with all one’s efforts along with he
 
 haritāni vicitrāṇi vividhāni śubhāni ca |
 indrahaste yathā vajran brahmanaś ca kamandalum || 22 ॥
-mama haste yathā \[illegible\] cakra caiva harer yathā |
+mama haste yathā śūlaṁ cakra caiva harer yathā |
 tathā yogīśvarīvīrā \[k: vīrāḥ\] laśunādipavitrakāḥ ॥ 23 ॥
 128b kh) palāndulaśunādīni \[kh: palānduṁla-\] anye ye dravyacoditāḥ |
 pavitrā maṅgalā vṛddhyā \[k; vṁhmā\] yāgānāri rakṣane smṛtāḥ ॥ 24 ॥
@@ -164,7 +164,7 @@ He who is the creator and destroyer in (this) world, bestows the secret of his o
 129a kh) melāpakaṁ tu devīnām dahed \[k, kh: dehed-\] dhūparīi punaḥ punaḥ |
 yatra sthāne bhaved dravyaṁ nirbhayaṁ \[kh g: nirṇayari\] tatra ca bhavet ॥ 37
 ॥
-laśunasya (€ -ṇasya\] palāṇdor vā \[kh: palāmdo \[illegible\] surāmadyasya bhairavi |
+laśunasya (€ -ṇasya\] palāṇdor vā \[kh: palāmdo vāṁ] surāmadyasya bhairavi |
 matsyamāṁsaniyuktasya \[k, kh, g; -mārsāhi-\] tatra krīdanti devatāḥ ॥ 38 ॥
 mātaraḥ khecarī sarvā \[g: sarvāḥ\] bhūcarī siddhim icchātaḥ \[k, kh: -tā\] |
 kulakaulodayaṁ tatra yatrasthā tu kulāṅganā \[g: -nāḥ\] ॥ 39 ॥ 
@@ -184,7 +184,7 @@ srīdevyuvāca
 kiṁ māhātmyaṁ tu vīrasya dravyāi tu viśeṣataḥ ॥ 42 ॥ 
 
 185a g) kulopadeśasaṁyuktā advaitācārasaṁyutāḥ \[g: addaitā-\] |
-prabhāvamri \[k: gabhāvarni\] tvatprasādena na \[illegible\] me kadacana ॥ 43 ॥ 
+prabhāvamri \[k: gabhāvarni\] tvatprasādena na śrutaṁ me kadacana ॥ 43 ॥ 
 
 [^728]: Line 35ab is so corrupt I cannot make it out.
 
@@ -239,7 +239,7 @@ kulā"nganābhiyukteṣu \[k: -muktais tu\] kim etat kathayāmi te |
 janmakoṭisahasrāni tapojaparatāni ca || 56 ॥
 vratāni niyamānīha kṛcchṛcāndrāyanṇāni \[g: krechṛcāridrā-\] ca ।
 sarvayajñaś ca dānāni pratiṣthāṁ caiva sarvataḥ ॥ 57 ॥
-186a g) \[illegible\] \[k: kauṭī(?)ly kh g: kothīhy\] asamkhyasamikhyeṣu phalarin yat samudāhṛtam |
+186a g) koṭiṣv \[k: kauṭī(?)ly kh g: kothīhy\] asamkhyasamikhyeṣu phalarin yat samudāhṛtam |
 sakṛtprāśritamātreṇa \[kh g: prāsita-\] kulajño labhate phalam | 58 ॥ 
 
 Aho! The greatness of the (Kaula sacrificial) substance amongst (the many varieties of) food and drinks etc. offered (abhiyukta) by the women of the Kula. I will tell (you) what that is. By just eating it once, the knower of Kula, omniscient, obtains the fruit of countless billions (of observances) of one who is intent for thousands of billions of lifetimes on (the practice of) austerities and the repetition of mantras, (the observance of) vows, rules (and penances such as fasting) in consonance with the phases of the moon (krechṛcāndrāyana), offering alms and the installation (of deities). (55cd-58) 
@@ -279,7 +279,7 @@ tatra yātaṁ jalan Śuddhaṁ patitaṁ kaundalīhṛdi |
 
 *[p. 396]* ^pg418
 
-tasya dehād viniṣkrāntam \[illegible\] \[g: vih \* krānta-\] kauṇdalīrasam \[kh: kaudilī\] ॥ 79 ॥
+tasya dehād viniṣkrāntam amṛtaṁ \[g: vih \* krānta-\] kauṇdalīrasam \[kh: kaudilī\] ॥ 79 ॥
 tena prāśitamātreṇa bhavanti hy ajarāmarāḥ \[g: -rā\] |
 valipalitanirmuktāḥ sarvavyādhivivarjitāḥ ॥ 80 ॥ 
 
@@ -287,7 +287,7 @@ The lunar digit of the New Moon (amā) is located within the Door of Brahmā. Th
 
 karpūrāgurugandhāni mṛgajāni viśeṣataḥ |
 pītamātreṇa deveśi kiṁ punar martracetasā || 81 || divyadeho ‘pi tṛptātmā dagdhabījaḥ \[g: -jo\] punar bhavet |
-aṣṭādaśavidhaḥ kuṇdari \[kh g: \[illegible\] jvararogaharādikam \[k, kh, g: - garādikam\] ॥ 82 ॥
+aṣṭādaśavidhaḥ kuṇdari \[kh g: kuṣṭhaṁ] jvararogaharādikam \[k, kh, g: - garādikam\] ॥ 82 ॥
 viṣāṁś \[k kh: viṣāś\] ca vividhān ghorāṁś cakṣurogān anekaśaḥ |
 187b g) pītamātreṇa deveśi sarvasiddhyāruho bhavet || 83 ॥ 
 
@@ -301,7 +301,7 @@ The (sacrificial) hearth which is of eighteen kinds counters fever and disease (
 1314 kh) kulakaulasya sāmnidhyaṁi \[kh g: sānidhyai\] yogeśīvīravallabham ॥
 84॥
 vīranāthaṁ svayaṁ devi bhavabandhaniṣūdanam \[kh: bhavevarisūdanarmi\] |
-bhavaṁ bhavodbhavaṁ \[illegible\] bhāve grāhyaṁ bhavāntakam ॥ 85 ॥
+bhavaṁ bhavodbhavaṁ bhāvaṁ bhāve grāhyaṁ bhavāntakam ॥ 85 ॥
 bhasmasāt \[g: -sā\] kurute sarvaùń māyīyārṇavakarmajam \[kh: -yāṇa; g: - yānṇava-\] |
 sparśanād \[k, g: -nāḷ} darśanāt prāśya \[kh: prāśyāt; g: prāśyā\] pītvā sarvārthasiddhidam || 86 ॥ 
 
@@ -453,7 +453,7 @@ tatra
 
 akṣīṇamalasya śaktipāte sarvasyāsau syāt, malakṣayo ‘nyataḥ kutaścid yadi tata 
 
-eva taṁy ātmanaḥ samskāro bhaviṣyatīti \[illegible\] śaktipātahetukena dīkṣāvidhānena? 
+eva taṁy ātmanaḥ samskāro bhaviṣyatīti kiṁ śaktipātahetukena dīkṣāvidhānena? 
 
 ātmanaś ca nityaikasvabhāvasya karmatadbhoganivṛttyanivṛttyor aviśiṣtasya kaḥ samṁiskāraḥ? vaiśiṣtye nityatāhāniḥ | karmabhogayoḥ vyatiriktayor nāśe tasya kim vṛttam? tatsamavāyo ‘sya nivṛtta iti cet, so 
 
@@ -595,7 +595,7 @@ Thus subjectivity (bhoktṛtva) and agency etc. are determined (by) this because
 
 na ca kevalam anātmany ātmadarśana mith; narūpo bandhaḥ, yāvad 
 
-ātmany api pūrṇa-prakāśāhaṁivimarśaparamārthāśeṣaviśvamaye viśvatrāpi ca cidātmaikyaparamārthe yad-anātmatayā \[illegible\] tad api bandha eveti sarvathā vigalitasa"nkocacidekaghana-viśvaikātmnyamayaśivatvābhivyaktir eva muktiḥ | 
+ātmany api pūrṇa-prakāśāhaṁivimarśaparamārthāśeṣaviśvamaye viśvatrāpi ca cidātmaikyaparamārthe yad-anātmatayā jñānam, tad api bandha eveti sarvathā vigalitasa"nkocacidekaghana-viśvaikātmnyamayaśivatvābhivyaktir eva muktiḥ | 
 
 Bondage is not only the false knowledge of perceiving the Self in what is not the Self. It is also the (false) knowledge within that which is all things, that is the reflective awareness of the subjectivity (ahaṁvimarśa) of the full Light (of consciousness) that although present everywhere is the one ultimate reality, which is the oneness of the Self that is consciousness (cidātmā), is not the Self. That too is bondage. Thus, the manifestation of Śiva’s nature which is one with all things that is one compact (uninterrupted) consciousness from which (all) contraction has fallen away is itself liberation. 
 
@@ -715,7 +715,7 @@ na cāsya prakāśātirikto ‘dhyavasāya-samāropābhimānaniścayādipadavāc
 
 Now, by not determining difference (considering it to be a cognition along) with other cognitions, one does not determine that other (things) are one (and the same) (abhedena). Thus, for the same reason (yena) that the difference between those cognitions and the Self is not determined, when (the cognitions) are determined to not be different (from one another), the determinate perception of their oneness with the Self also obtains. Or else, (if) their (oneness) is not realised (in the same way) as is the Self, (please tell me) in what other way are they different from the Self? (This supposed difference) is not a determinate (conceptual) perception. A determinate perception of difference (bhedādhyavasāya) (is objective; it) would be “this is such”. Again, (some maintain that) it is possible to determine the varied of nature of the Self that arises from the latent traces of (past) experience by means of conceptual representation (vikalpena), which is also being experienced, (and so too) other experiences that have previously ceased (nivṛtta). There (in that case, the opponent who thinks that a conceptualized experience can perceive another one) is like (a dreamer who imagines that he is living on the non-existent) Island of Bananas. 
 
-Nor is there some other (cognitive) function (vyāpāra) apart from the Light (of consciousness) that establishes what can be called oneness (abheda), such as ‘determinate perception’ (adhyavasāya), ‘projection’ (samāropa), ‘arrogation’ (abhimāna), ‘ascertainment \[illegible\] \[illegible\] and (any) other term with that intended sense that is accepted in (some) other philosophy. Let this suffice. This (subject is) extremely deep. It is (dealt with) extensively in the (philosophy of) the Pratyabhijñā. It is discussed at (some) length here in order to bring comfort to those who have very tender hearts. 
+Nor is there some other (cognitive) function (vyāpāra) apart from the Light (of consciousness) that establishes what can be called oneness (abheda), such as ‘determinate perception’ (adhyavasāya), ‘projection’ (samāropa), ‘arrogation’ (abhimāna), ‘ascertainment (niścaya)’ and (any) other term with that intended sense that is accepted in (some) other philosophy. Let this suffice. This (subject is) extremely deep. It is (dealt with) extensively in the (philosophy of) the Pratyabhijñā. It is discussed at (some) length here in order to bring comfort to those who have very tender hearts. 
 
 tat 
 
@@ -734,7 +734,7 @@ The Self is the true nature of oneness which is established (siddha) by the refl
 
 ‘Now, it is said that the (fundamental) beginningless Impurity (mala) of the (countless) individual souls is their (basic) fettered state (paśutva). One should know that (the Impurity) born from Māyā is like the chaff and integument of the sprout (of the fettered state).”[^733] 
 
-iti Śrīsvāyarṁbhuvasūtre "mala" iti \[illegible\] iti coktiparyālocanayā eko ‘py asau bahuśaktikaḥ anyathā bahvāvārakatvam asya na ghaṭate, ekamuktau ca sarve mucyeran, karmabhiś ca saha pariṇamati, amiśrasya pariṇnāmāyogāt |
+iti Śrīsvāyarṁbhuvasūtre "mala" iti ”puṁsām” iti coktiparyālocanayā eko ‘py asau bahuśaktikaḥ anyathā bahvāvārakatvam asya na ghaṭate, ekamuktau ca sarve mucyeran, karmabhiś ca saha pariṇamati, amiśrasya pariṇnāmāyogāt |
 pariṇnamaṁś ca kālaviśeṣāt kamicit prati katharicit tīvramadhyādibhedād yadā paripacyate, tadā pumṁsāṁ karmaparipākam ivāpekṣya śaktipātam karoti maheśvaraḥ, 
 
 yāvac ca malasya paripāko na jāaḥ, tāvat tat puṁbandhakatvenaiva tañ parinamayati, yadā tu kṛtakāryatvād ātmani pakvańi paśyati svaśaktipātān malaśaktiṁn nirūṇaddhi asau | 
@@ -750,7 +750,7 @@ has performed its function (kṛtakārya), he blocks the power of Impurity by a 
 
 yathā ca svatantraśaktipātavādipakṣe pratipuruṣaṁ kiñcid eva karma kadācid eva devaḥ paripācya bhogabhogyari karoti, na tu sarvān prati sarvar yugapat, tattvāni ca niyatakāryakāraṇabhāvabhāñji darśayati, māyāprakṛtyādi ca 
 
-svāpaprabodhayor aucityena parinamayatīti nāsya sarvatrāviśeṣeṇa kartṛtvam, tathā malaparipākapakṣe = \[illegible\] karmaṇo malasya ca vicitraṁ paripākam apekṣya nigrahānugrahau puṁsāḥ karoti parameśvaraḥ, na tv evam eva, tasyāprekṣāpūrvakāritvaprasa"ngād iti tāvac chrīmatkheṭapālācāryamatam |
+svāpaprabodhayor aucityena parinamayatīti nāsya sarvatrāviśeṣeṇa kartṛtvam, tathā malaparipākapakṣe = ‘pīti karmaṇo malasya ca vicitraṁ paripākam apekṣya nigrahānugrahau puṁsāḥ karoti parameśvaraḥ, na tv evam eva, tasyāprekṣāpūrvakāritvaprasa"ngād iti tāvac chrīmatkheṭapālācāryamatam |
 yadāha bhogakārikāsu ---- 
 
 According to the view of those who maintain that the descent of the power (of grace) is independent (of causes and conditions), the god matures Karma to some degree for each soul at any time, and having done so, makes the experience (which is a consequence of Karma) (bhoga) into an object of experience. But (he does) not (do) everything with respect to all simultaneously, and severing the fixed relationship between cause and effect, he exhibits the realities and brings about change in Māyā and Prakṛti etc. in accord with the sleeping and waking state (of a particular soul). Thus, (the Lord’s) agency is not (the same) everywhere without difference. So too also, according to the view that (a descent of the power of grace takes place) when Impurity matures, the Supreme Lord graces and restrains individual souls according to the various (ways and degree their) Karma and Impurity has matured, not just like that (i.e. with the Supreme Lord’s intervention), because that would entail the undesirable consequence that his agency is not (based on) a preceding examination (of the condition of the soul’s Impurity and Karma). Such then is the view of the venerable Kheṭapāla. As is said in the Bhogakārikās: 
@@ -767,7 +767,7 @@ karmāśayasametasya hetutvaṁ ca bhavārṇave (printed edition: bhaved bhave)
 
 tad atra yadi svātantryān malo bandhakaḥ, śivamuktānṇūn pratyapi syāt | atha śivecchā (> -taḥ) 
 
-tacchivasya vītarāgadveṣatvād muktāṇūn praty api malaśaktiprerakatvaṁ syāt | \[illegible\] svasvarūpābhivyaktir na tathā iti cet, netareṣām api svasvarūpasya tathātvāt | anādimalanirodhān na tathātvam ity ayuktam, 
+tacchivasya vītarāgadveṣatvād muktāṇūn praty api malaśaktiprerakatvaṁ syāt | teṣāṁ svasvarūpābhivyaktir na tathā iti cet, netareṣām api svasvarūpasya tathātvāt | anādimalanirodhān na tathātvam ity ayuktam, 
 
 ‘A beginningless (obscuring covering), Impurity is bound (to the soul) from the beginningless (past). Common (to all individual souls), it is imperishable and is fixed (niyata) for each individual, exerting its power for its time (over each one individually). (BhoKā 132cd-133ab) 
 
@@ -801,13 +801,13 @@ iti kim artham uktam | ata eva śivasya malaśaktyadhiṣthātṛtvam apīṣyat
 
 Why has this been stated? If in this way, the desired view is that Siva presides over (and controls) the power of Impurity, then (we agree) that that is true. It is (indeed) the desired (view). However (by conceiving the problem in this way, Śiva’s control) is not established (siddha), because the two (i.e. Śiva and the power of Impurity) are not related in such a way that when one is present the other is absent. This is because (according to you), both are (eternal principles) without beginning and it is not logical (to maintain that) the state of being (of something) (bhāvavyavasthā) is determined solely on the basis of (its) purpose (not its nature).[^734] 
 
-astu, naivan tathāpi \[illegible\] prati nirodhāya śivo mala prayu"nkte, te sivatulyatvād bahutvāc ca pratyuta śivam eva prati tan prayuñjīran, bhūyasām ekāpekṣayā sāmarthyātiśayāt | 
+astu, naivan tathāpi yān prati nirodhāya śivo mala prayu"nkte, te sivatulyatvād bahutvāc ca pratyuta śivam eva prati tan prayuñjīran, bhūyasām ekāpekṣayā sāmarthyātiśayāt | 
 
 (Alright,) let it be (as you say). Even so, (before the Impurity envelops) those (souls) to whom Śiva conjoins Impurity in order to block (them), they are equal to Śiva. Moreover, they are many and so they would, on the contrary, conjoin that (Impurity) to Śiva, because those who are many with respect to one have greater power. 
 
 kiraca malaśaktir yadi sarṁnidhimātreṇa nirodhikā tacchivam uktāṇūn praty api syāt | 
 
-atha jñātṛtvakartṛtvātmakasvarūpāvārakatvena (nirodhikā?), tarhi ātmanāṁ vikāritā prāptā, svarūpanāśo vā, \[illegible\] tadatiriktasya dharmirūpasya vaiseṣika iva śaive 
+atha jñātṛtvakartṛtvātmakasvarūpāvārakatvena (nirodhikā?), tarhi ātmanāṁ vikāritā prāptā, svarūpanāśo vā, teṣām tadatiriktasya dharmirūpasya vaiseṣika iva śaive 
 
 ‘nabhyupagamāt |
 na ca mūrtena malenātmanām amūrtacitsvarūpāṇām āvaraṇaḥ ghaṭate |
@@ -877,9 +877,9 @@ As the Impurity (to which) Vijñānakevalins (are subject) is not associated wit
 
 Impurity. If (you say) that they are bound by some (subtle) part of Maheśī’s power of Mahāmāyā, not by another separate Impurity, (we reply that) individual souls (at the basic level) are (subject to) bondage, which is the manifestation of (their) contracted state (of consciousness), (brought about) by the power of Māyā. What is the use of accepting (the existence) of a separate, logically impossible, Impurity? (We may hypothetically) accept (the existence) of that kind of separate Impurity, which has no connection (with the other accepted forms of Impurity), as pertaining to the Mantra and other (perceivers in the pure principles). However, this Impurity has nowhere entered onto the Path, so how can that, once it is considered to be within (the domain) of the initiation along the six Paths, be purified? If (you say) that, like Karma, it is included within the principle of the individual Self, (we say) no! The Karmas of the individual soul, who is an agent, are contained within it as latent (residual) traces (saṁskāra). This is a sound (view). (Now,) as actions are established within the agent, how can (some) separate Impurity be included within that? 
 
-kiñca, nāvārakeṇa paṭādinā ghaṭādeḥ svarūpaṁ viśiṣyate, api tu tadviṣaye jñātur \[illegible\] vihanyate, tathā śivamuktāṇnūnām eva sa malaḥ syāt, teṣām malena puṁviṣayajñānāvaraṇād iti malasyāvārakatvaṁ tāvad ayuktam | 
+kiñca, nāvārakeṇa paṭādinā ghaṭādeḥ svarūpaṁ viśiṣyate, api tu tadviṣaye jñātur jñānaṁ vihanyate, tathā śivamuktāṇnūnām eva sa malaḥ syāt, teṣām malena puṁviṣayajñānāvaraṇād iti malasyāvārakatvaṁ tāvad ayuktam | 
 
-Moreover, a covering, like a cloth (over a) jar or the like, does not qualify (visiṣyate) (and change) its essential nature. Rather, (what happens) is that the perception \[illegible\] of the cognizing subject in that field (of perception) is destroyed. That would be so with the Impurity of the souls who have been liberated by Siva. Their Impurity serves to obscure knowledge of the (cognitive) domain of the individual soul. If the obscuration of Impurity (amount to) just this much, then it would be an unsound (to maintain the view that is an eternal substance). 
+Moreover, a covering, like a cloth (over a) jar or the like, does not qualify (visiṣyate) (and change) its essential nature. Rather, (what happens) is that the perception (jñāna) of the cognizing subject in that field (of perception) is destroyed. That would be so with the Impurity of the souls who have been liberated by Siva. Their Impurity serves to obscure knowledge of the (cognitive) domain of the individual soul. If the obscuration of Impurity (amount to) just this much, then it would be an unsound (to maintain the view that is an eternal substance). 
 
 yaś ca malasya paripāko ‘bhidhīyate, sa kim tasya tacchakter vā vināśaḥ, uta nirodhapratibandhaḥ | ādye pakṣe ekatra tatparipāke sarve śuddhāḥ syuḥ, tacchakter anekatvābhyupagame ‘pi sadṛśatvāc chaktimadavyatirekāc caiṣa eva prasa"ngaḥ | phalabhedād āropitabhedo hi padārthātmaiva śaktir iti sūrayaḥ | 
 
@@ -1028,7 +1028,7 @@ svatantraśaktipātavādipakṣe coditam īśvarasya nirnimitte nigrahādikārit
 
 *[p. 423]* ^pg445
 
-prati ca yugapatsarvakarma-phalapradatā \[illegible\] ca muktau svarūpanāśaḥ punarbhavāvirbhāvaś ca syād āgameṣu ca malasya vastutvābhidhānānupapattir iti, tad \[illegible\] aparyālocitatanmata-satattvam abhidhānam, yatas tanmate pārameśacitprakāśavyatirekeṇa na kiñcid apy upapannam iti sa eva svātantryāt sivādikṣityantānantaviśvātmanā svarīpam avabibhāsayiṣus tathā tathā bhātīti na kaścidanugrahanigrahādibhājanari jano ‘śuddhiparīto vāsti | 
+prati ca yugapatsarvakarma-phalapradatā jīvānāṁ ca muktau svarūpanāśaḥ punarbhavāvirbhāvaś ca syād āgameṣu ca malasya vastutvābhidhānānupapattir iti, tad eṣām aparyālocitatanmata-satattvam abhidhānam, yatas tanmate pārameśacitprakāśavyatirekeṇa na kiñcid apy upapannam iti sa eva svātantryāt sivādikṣityantānantaviśvātmanā svarīpam avabibhāsayiṣus tathā tathā bhātīti na kaścidanugrahanigrahādibhājanari jano ‘śuddhiparīto vāsti | 
 
 As is enjoined by those who maintain the view that the descent of the power (of grace) is free (and independent of causes and conditions), the Lord acts without previously observing (the balance of Karma of the soul and the maturity of its Impurity). (But this view entails unwanted consequences. One is that) he exercises restraint (nigraha) (and punishes) etc. (individual souls) without reason (nimitta). Emanating simultaneously, all the reality levels (tattva) with respect to all (souls) and bestowing simultaneously the fruit of all (their) Karma, then when individual souls are liberated, their essential nature (svabhāva) would be destroyed (i.e. they would have to no longer be souls, otherwise they would) again be subject to rebirth. It is (logically) unsound (to maintain) that Impurity is said to be a physical entity (vastu) in the scriptures. That is the designation (commentators) give (it), whereas in actual fact, (it result) of not having thoroughly examined the view (of the scriptures). For according to that view, nothing can exist that is separate from the Light of the Supreme Lord’s consciousness. Thus, it is that itself which, by virtue of its freedom, desires to make its own nature manifest as the endless universe that extends from Śiva up to Earth (and so) manifests in this way and that. Thus, there is no such soul who is the vessel of grace or restraint etc. or is enveloped in impurity (aśuddhi). 
 
@@ -1042,7 +1042,7 @@ conmīlitarūpatayeti tāvatyaśe baddhamuktarūpatayā vastutas tu sa eva tāva
 
 *[p. 424]* ^pg446
 
-ordered universe). Wherever he (unfolds, thereby engendering) perception (prathayati), (he manifests) as that which is to be regulated by the law of causality (kāryakāraṇabhāva), and as the wonderful variety of the fruits of Karma etc. (He also manifests) in (his) withdrawn form (nimīlitarūpa) as (He) withdraws that (outer manifestation), and so too in an expanded (unfolded form) (as He makes manifests all things). (He manifests) only in that aspect \[illegible\] in a bound and liberated form. (Thus,) in reality it is he alone who flashes forth thus (tāvat) as all things (and as his cosmic nature) (viśvātmanā). There is no other who is either bound or liberated. 
+ordered universe). Wherever he (unfolds, thereby engendering) perception (prathayati), (he manifests) as that which is to be regulated by the law of causality (kāryakāraṇabhāva), and as the wonderful variety of the fruits of Karma etc. (He also manifests) in (his) withdrawn form (nimīlitarūpa) as (He) withdraws that (outer manifestation), and so too in an expanded (unfolded form) (as He makes manifests all things). (He manifests) only in that aspect (aṁśa) in a bound and liberated form. (Thus,) in reality it is he alone who flashes forth thus (tāvat) as all things (and as his cosmic nature) (viśvātmanā). There is no other who is either bound or liberated. 
 
 na caivaṁ svarūpāpattyātmani mokṣe svarīūpanāśo ‘sti | sa"nkocanāśas tv 1514 eva | na ca prāptaśivābhedasya sarvasarvātmatayā sarvatra sarvadā sphurataḥ punarbhavo ‘sti | paramaśivasyaiva satattvasya śivādisakalāntenāpi mahatā svasvarūpeṇa 
 
@@ -1075,7 +1075,7 @@ itthaṁ sa"nkocātmāpy abhilāṣo lauliketi gadito yah |
 so ‘pi tathātvasphuraṇād vastv eva malo ‘stu śāstreṣu |1411
 dīkṣāyogajñānair dhvaṁse ‘pi malasya nātmanāśo ‘sti |
 svacchasvacchandātmakacidghanatāvyaktir eva yanmokṣaḥ | | 5 | |
-jalam iva jale \[illegible\] payasi payo yadvad \[illegible\] tadvat |
+jalam iva jale vinihitaṁ payasi payo yadvad apītaṁ tadvat |
 yānty ekatvaṁ dīkṣyā dīkṣākramenṇa dīkṣitā iti hi |1 6 |1
 rauravaśāstre ‘py uktańn prāyas tarn vṛthaiva vṛttikṛtā |
 yenārthavyākhyābhis tasmin devas tathā tathā prathitaḥ | | 7 | |

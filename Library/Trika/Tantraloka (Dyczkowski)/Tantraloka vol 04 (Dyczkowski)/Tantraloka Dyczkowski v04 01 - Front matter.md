@@ -98,7 +98,7 @@ Although I have not studied formally with Prof. K. D. Tripathi, retired dean of 
 
 *[PDF 7]* ^pg7
 
-the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in \[illegible\] whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great \[illegible\] century 
+the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in Kāśī whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great \[illegible\] century 
 
 exponent of Śrīvidyā. 
 
@@ -152,7 +152,7 @@ The Intellect is Meditation, the Fivefold Vital Breath Utterance, and the Body i
 
 The Meditation of the Intellect (buddhidhyāna), verses 19cd-42, pages 20-39 The Utterance Through the Principle of the Vital Breath The Six Blisses, verses 43-52ab, pages 39-53 The Utterance from the Heart, verses 52cd-62ab, pages 54-69 The Utterance Through the Conscious Nature (cidātmanoccāra), verses 62cd- 74ab (62cd-73), pages 69-92 Entering the Heart on the Plane of Emission (71) 
 
-Entry Into the Supreme Principle (paratattvāntahpraveśa), verses 74cd-86ab \[illegible\] pages 92-110 
+Entry Into the Supreme Principle (paratattvāntahpraveśa), verses 74cd-86ab (74cd-85), pages 92-110 
 
 Entry Into the Supreme Plane of Mantras, verses 86cd-97 (86-97ab), pages 110- 113 
 

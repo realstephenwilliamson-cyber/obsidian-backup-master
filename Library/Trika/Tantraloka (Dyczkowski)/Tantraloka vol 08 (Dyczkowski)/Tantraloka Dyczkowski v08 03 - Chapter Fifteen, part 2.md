@@ -30,7 +30,7 @@ he should offer libation (and propitiate,) with water and Mālinī,[^113] the su
 
 According to (our) teachers, the root (Mantra) here (in this case) is Parā (.९., ऽप).[^116]
 
-\^ (This is done) ‘beginning with the head to the feet’; the word ‘beginning with’ (implicitly) includes (and refers) to the face, heart and genitals. As he will say: (the impurity (mala)) ‘within the head, mouth, heart, genitals and feet (is burnt \[illegible\][^117] ‘He should offer libation (and propitiate) the sun with water’. The meaning is that he should attend (to it devoutly) by casting a handful (of water) towards it. The reason here (for doing this is that) it ‘contains all the holy (sat) deities of light’ and it ‘satiates (and delights) all beings’.[^118] 
+\^ (This is done) ‘beginning with the head to the feet’; the word ‘beginning with’ (implicitly) includes (and refers) to the face, heart and genitals. As he will say: (the impurity (mala)) ‘within the head, mouth, heart, genitals and feet (is burnt away).’[^117] ‘He should offer libation (and propitiate) the sun with water’. The meaning is that he should attend (to it devoutly) by casting a handful (of water) towards it. The reason here (for doing this is that) it ‘contains all the holy (sat) deities of light’ and it ‘satiates (and delights) all beings’.[^118] 
 
 (Now) he explains in more detail (how the sun) satiates (and delights) all things. 
 
@@ -91,7 +91,7 @@ After he has repeated the (Mantra of the) Weapon (Phat) (seven times) over the a
 
 [^119]: The references here to the use of Parā Vidyā, and Mālinī in 5lab may be taken to be an indication that the procedure is drawn from a Trika Tantra. We have seen (note 15,111) that the MV uses the three Vidyās of the Trika goddesses (MV 810cd-1 lab). But this may not be so. We have no clear evidence that the Ānandeśvara (or other Tantras with a similar name cited by Abhinava) was a Trika Tantra. The Yogasaṁcāra, on the other hand, appears to have been one. We may take this as evidence that Abhinava is drawing from that, but he is not doing so exclusively. Indeed, it may well be that Abhinava himself has added this important detail, because the original source was not a Trika Tantra.
 
-[^120]: Read ātanmayatva for \[illegible\] tanmayatva.
+[^120]: Read ātanmayatva for ā tanmayatva.
 
 [^121]: Read -nibarhanam for -nivarhanam.
 
@@ -138,7 +138,7 @@ One who utters (the appropriate) Mantras should perform the ablution with Air wh
 
 #### Viveka on 15.56
 
-The reading gorajovatī (i.e., ‘contains the dust of cow dung’) is clear.[^129] The ‘Mantra’ (in this case) is the Weapon \[illegible\] and (the Vidyā of) Parāparā.[^130] That is said (in the Mālinīvijayottara): 
+The reading gorajovatī (i.e., ‘contains the dust of cow dung’) is clear.[^129] The ‘Mantra’ (in this case) is the Weapon (PHAṬ) and (the Vidyā of) Parāparā.[^130] That is said (in the Mālinīvijayottara): 
 
 ‘He should perform the ablution with Air by means of the dust shaken off (from the body of a) cow.[^131] Immersed in meditation and uttering the Great Weapon, he should walk seven paces and then again return back for that same (amount), recollecting (The Vidyā of) Parāparā.’[^132] 
 
@@ -239,7 +239,7 @@ How does he benefit by (performing) the eight ablutions? With this doubt in mind
 dhṛtyāpyāyamalaploṣavīryavyāptisṛjisthitīḥ |
 abhedar ca kramād eti snānāṣtakaparo muniḥ || 62 || 
 
-The sage (muni) who is intent (on performing) the eight ablutions attain successively, (respectively,) stability (dhṛti) (Earth), nourishment (apyāya) (Water), the burning of impurity (malaploṣa) (Fire), vitality (vīrya) (Air), pervasion (vyāpti) (Space), the power to create \[illegible\][^138] (Moon) and maintain (sthiti) (Sun), and (then finally,) oneness (abheda) (i.e., the \[illegible\][^139] (62) 
+The sage (muni) who is intent (on performing) the eight ablutions attain successively, (respectively,) stability (dhṛti) (Earth), nourishment (apyāya) (Water), the burning of impurity (malaploṣa) (Fire), vitality (vīrya) (Air), pervasion (vyāpti) (Space), the power to create (sṛji)[^138] (Moon) and maintain (sthiti) (Sun), and (then finally,) oneness (abheda) (i.e., the Self).[^139] (62) 
 
 #### Viveka on 15.62
 
@@ -328,7 +328,7 @@ dharādeś ca viśeṣo ‘sti vīrasādhakasarimataḥ ॥ 66 ॥
 raṇarenur vīrajalaṁ vīrabhasma mahāmarut |
 śmaśānāraṇyagaganaṁ candrārkau tadupāhitau || 67 ॥
 ātmā nirdhūtanihśeṣavikalpātaṁkasusthitaḥ |
-snānārcādāv ity upāsyaṁ \[illegible\] vigrahāṣtakam ॥ 68 ॥ 
+snānārcādāv ity upāsyaṁ vīrāṇāṁ vigrahāṣtakam ॥ 68 ॥ 
 
 That is well described in this way in the venerable Nirmaryādaśāstra also, (where it says that there is) a particular (form of) Earth and the rest (of the eight bodies of Śiva) that is (highly) esteemed by (Kaula) adepts (vīra). (These are) 1) the dust of a battlefield (which is Earth). 2) the Hero’s water (vīrajala) (i.e., urine) (which is Water). 3) The Hero’s ash (taken from a funeral pyre, is Fire), 4) (Air is) the great wind (that bears the dust of cremation grounds). 5) (Space is) the sky (above) a cremation ground and (a wild) forest.[^143] The Sun (6) and Moon (7) are those associated (upāhita) with them. (The eighth is) the Self that, freed of all the disquietude of thought constructs, is well established. (Kaula) heroes should venerate (this) group of eight bodies (in this way) when bathing and worshipping etc. (66-68) 
 
@@ -356,10 +356,10 @@ Five Purifications with Wine
 
 ईव 
 
-\[illegible\] proktan madyaśīdhusurādinā |
+śrīmattriśirasi proktan madyaśīdhusurādinā |
 susvādunā prasannena tanunā susugandhinā ॥ 69 I|
 kandalādigatenāntarbahiḥ saiskārapañcakam |
-kṛtvā nirīkṣaṇami prokṣya tādanāpyāyagunthanam ॥ 70 ॥ mantracakrasya tanmadhye \[illegible\] vipruṭpratarpaṇam |
+kṛtvā nirīkṣaṇami prokṣya tādanāpyāyagunthanam ॥ 70 ॥ mantracakrasya tanmadhye pūjāṁ vipruṭpratarpaṇam |
 tenātmasekaḥ kalaśamudrayā cābhiṣecanam ॥ 71 ॥
 devatātarpaṇaṁ dehaprānobhayapathāśritam |
 sarvatīrthatapoyajṁñadānādiphalam aśnute | 72 ||
@@ -384,7 +384,7 @@ benefits) obtains in (this) bath of wine (madyasnāna) the fruits of (visiting) 
 
 #### Viveka on 15.69–73
 
-(This is done with an inebriating drink) ‘such as madya, sidhu, surā or the like.’ Madya is (wine made) from grapes and the like. It is of many kinds and variously called madya etc. \[illegible\] is made from sugar cane and sur from dates (vibhītaka)[^148] etc. The word ʻete.” (implicitly) includes its (various) types, such as vārunī.[^149] As the experts in Ayurveda say: 
+(This is done with an inebriating drink) ‘such as madya, sidhu, surā or the like.’ Madya is (wine made) from grapes and the like. It is of many kinds and variously called madya etc. Śīdhu is made from sugar cane and sur from dates (vibhītaka)[^148] etc. The word ʻete.” (implicitly) includes its (various) types, such as vārunī.[^149] As the experts in Ayurveda say: 
 
 ‘one should know that (wine made) from grapes is madya[^150] , . .. Śidhu is (made) from sugar cane juice , . .’. ‘Surā is made from dates. It is light, not very inebriating, and salutary. 
 
@@ -622,7 +622,7 @@ The sacred seat (of the will) is not such in name only, and so it is said that i
 
 “His will, which is said to be (Śiva’s) power, has assumed the condition of a sacred seat (pīṭha). The sacred seat is the foundation. It is located there, along with the mobile and immobile (universe). Thus, the term ‘sacred seat’ for (Śiva’s) power is one occasioned by a purpose (naimittika).’[^172] 
 
-‘The first’ (seat) is the main one. Thus, it is called (Kāmarūpa,) ‘the nature (rūpa) of passion \[illegible\] that is, the will. ‘Then, (from that) 
+‘The first’ (seat) is the main one. Thus, it is called (Kāmarūpa,) ‘the nature (rūpa) of passion (kāma)’, that is, the will. ‘Then, (from that) 
 
 [^168]: This long passage from verse 84 to 95 is drawn from the Nisisaṁcāra, that Jayaratha quotes in full.
 
@@ -706,7 +706,7 @@ The eight fields (kṣetra) of those who know the fields are 1) the eight petals
 
 #### Viveka on 15.89–91
 
-[^177]\[illegible\] is Rājapurī. ‘The one called Māyā’ is Māyāpurī. That is said there (in the Nisisaṁcāratantra): 
+[^177]‘Purī’ is Rājapurī. ‘The one called Māyā’ is Māyāpurī. That is said there (in the Nisisaṁcāratantra): 
 
 ‘O fair faced lady, the petals of the lotus of the heart are the eight (primary) fields (kṣetra). The secondary fields are the tips of the petals. The saṁdohas are joints of the petals. In this way (the sacred sites) are twenty-four.” Beginning thus with the naming (of these places, this passage) ends: ‘Kheṭaka and Kurukṣetra are saṁdohas, the leaders of the Heroes.’ 
 
@@ -806,13 +806,13 @@ Surely (one may ask), if one should consider that the sacred sites are within on
 
 The Power of Outer Sacred Places वाह्य तु तादृशान्तःस्थयोगमार्गविशारदाः ॥ ९७ ॥
 देव्यः स्वभावाज्जायन्ते पीठं तद्बाह्यमुच्यते ।
-bāhye tu tādṛśāntahsthayogamārgaviśāradāḥ ॥ 97 ॥ devyaḥ svabhāvāj jāyante \[illegible\] tad bāhyam ucyate | 
+bāhye tu tādṛśāntahsthayogamārgaviśāradāḥ ॥ 97 ॥ devyaḥ svabhāvāj jāyante pīṭhaṁ tad bāhyam ucyate | 
 
 The (same) godd who are well versed in such inner paths of Yoga arise (spontaneously) by their very nature (svabhāvat) externally. 
 
 *[p. 68]* ^pg86
 
-(Where that takes place) is said to be an outer sacred seat \[illegible\] (97cd-98ab) 
+(Where that takes place) is said to be an outer sacred seat (pīṭha). (97cd-98ab) 
 
 #### Viveka on 15.97–98
 
@@ -843,7 +843,7 @@ Surely (one may ask), if knowledge and Yoga etc. are present there in this way, 
 यथा चातन्मयोऽप्येति पापितां तै: समागमात् ।॥ ९९ ॥
 तथा पीठस्थितोऽप्येति ज्ञानयोगादिपात्रताम् ।
 
-yathā cātanmayo ‘py eti \[illegible\] taiḥ samāgamāt ॥ 99 ||
+yathā cātanmayo ‘py eti pāpitāṁ taiḥ samāgamāt ॥ 99 ||
 tathā pīṭhasthito ‘py eti jñānayogādipātratām | 
 
 Again, by keeping the company of these (impious people), even one who is not of (their) same nature becomes a sinner. Similarly, he who is in a sacred seat (114), (keeping the company of those who are there,) becomes the receptacle of knowledge, Yoga and the rest. (99cd-100ab) 
@@ -935,7 +935,7 @@ According to the Vīrāvalihṛdaya,[^184] there are seven (sacred) places (sth�
 
 In accord with this teaching, (consciousness is called) the lotus of the heart, because it stands aloof (from all else), just as one says that ‘the bedsteads creak’.[^189] One should know that that is the same (also) in this way in the other 
 
-[^187]: The diction of this and the following citation is not found in Abhinava’s version of the citation, and so is probably not drawn from the Vīrāvalihṛdaya. Such didactic etymologies (nirvacana) are common in Tantras of all schools. Thus, we find the following in the Ṣaṭsahasrasaṁhitā, an expanded version of the Kubjikāmata. I quote the former, as its manuscripts contain a better text than those of the Kubjikāmata, as the variants noted in the edition clearly illustrate. ekavṛkṣaṁ samākhyātam ekā saktir ihocyate \\\\ 107 II vṛkṣam īdṛśam \[KM: indriyam\] ākhyātaṁ vyāpikā śaktir iṣyate KM: vṛkṣaṁ śaktir iti smṛtā) | \[illegible\] gatā pare vyomni amanaske nirāmaye I| 108 ॥ tena devi mayā proktaṁ |k, kh: prokto) ekavṛkṣar \[k, kh: meru-; KM: -vrkṣas\] suparyayāt \[KM: tu caryayā\] | 595 49/107cd-109ab “That which is called ‘the solitary tree’ is here said to be the one power (Sakti). The tree is said to be such. The power is considered to be (all) pervasive (vyāpikā). It has waned away in the Supreme Sky, which is devoid of mind and untainted. Thus, O goddess, I have called it “the Solitary Tree’ by a pleasing alteration (of the word’s literal meaning). The word vṛkṣaḥ (here > \[illegible\] is fancifully derived from vyāpikā and kṣayaṁ. The change in meaning accompanies a change of the original form of the word, which is here imagined to be ‘vyaksam / vyākṣam’.
+[^187]: The diction of this and the following citation is not found in Abhinava’s version of the citation, and so is probably not drawn from the Vīrāvalihṛdaya. Such didactic etymologies (nirvacana) are common in Tantras of all schools. Thus, we find the following in the Ṣaṭsahasrasaṁhitā, an expanded version of the Kubjikāmata. I quote the former, as its manuscripts contain a better text than those of the Kubjikāmata, as the variants noted in the edition clearly illustrate. ekavṛkṣaṁ samākhyātam ekā saktir ihocyate \\\\ 107 II vṛkṣam īdṛśam \[KM: indriyam\] ākhyātaṁ vyāpikā śaktir iṣyate KM: vṛkṣaṁ śaktir iti smṛtā) | \[illegible\] gatā pare vyomni amanaske nirāmaye I| 108 ॥ tena devi mayā proktaṁ |k, kh: prokto) ekavṛkṣar \[k, kh: meru-; KM: -vrkṣas\] suparyayāt \[KM: tu caryayā\] | 595 49/107cd-109ab “That which is called ‘the solitary tree’ is here said to be the one power (Sakti). The tree is said to be such. The power is considered to be (all) pervasive (vyāpikā). It has waned away in the Supreme Sky, which is devoid of mind and untainted. Thus, O goddess, I have called it “the Solitary Tree’ by a pleasing alteration (of the word’s literal meaning). The word vṛkṣaḥ (here > > vṛkṣam) is fancifully derived from vyāpikā and kṣayaṁ. The change in meaning accompanies a change of the original form of the word, which is here imagined to be ‘vyaksam / vyākṣam’.
 
 [^188]: Read -samudgatam for -samudgakam.
 
@@ -1058,7 +1058,7 @@ The injunction (vidhi) (in this case is that) what is pleasing to the mind (mano
 
 *[p. 75]* ^pg93
 
-‘There (in that case, one must) at first (ensure) that the abode of the sacrifice be in an auspicious sacred site that is pleasing to the mind.’ Again, ‘(it should be in a beautiful solitary place where there are no people.’[^197] Again, it is said that, \[illegible\] else (the sacrifice can be performed) where the mind delights.’ 
+‘There (in that case, one must) at first (ensure) that the abode of the sacrifice be in an auspicious sacred site that is pleasing to the mind.’ Again, ‘(it should be in a beautiful solitary place where there are no people.’[^197] Again, it is said that, ‘or else (the sacrifice can be performed) where the mind delights.’ 
 
 Surely (one may ask), it is said everywhere that a particular accomplishment (siddhi) unfolds according to a combination (of conditions), such as the particular location and time. So how is it that the purity of (one’s spiritual) disposition (bhāva) alone may come to serve as a means (to that)? With this doubt in mind, he says: 
 
@@ -1075,7 +1075,7 @@ Even though (some) accomplishments (may be the result) of a combination (of fact
 
 Surely (one may ask), as location and the rest are also all attendant (causes), how is it that just that is the most excellent (of them)? With this doubt in mind, he says: 
 
-[^197]: This tum of phrase is indeed commonly found in Kaula Tantras of all sorts. Examples in the Śrīmatottara, which is a Kubjikā Tantra, are: ekānte vijane \[kh: vyajane\] ramye paśudṛṣṭivivarjite \[j: pasuhṛṣtivi-\] M vyākhyānari ca prakartavyar \[j: prakarta \*\] likhanan 7117111 “The (scriptures) should be explained, and especially so copied, in a solitary beautiful place where there are no people, and not in the sight of the uninitiated.” (ŚM 1/97) ekānte vijane ramye paśudṛṣṭivivarjite \\\\ mandalarhi kārayet \[kh: -yat\] tatra hastamātrapramānataḥ | He should cause the mandala to be drawn, the size of just a handspan, there in a solitary beautiful place where there are no people, and not in the sight of the uninitiated. (ŚM 10/36cd- 37ab) ekānte vijane ramye gomayodakalepite \\\\ puṣpaprakaraśobhādhye alinānandanandite \[k: -moditah; j: alinādaṁ naṁdamodate\] | vajragahvaram prastārya \[illegible\] prastārari\] susūtraṁ \[kh: Śusutraṁ; g: sutraḥ) ca suśobhanam \\\\ “The beautiful diagram (called) Vajragahvara (is drawn with) beautiful thread in a solitary beautiful place where there are no people. (lt should be) smeared with the water of cow dung, rich with the beauty of heaps of flowers, and praised with the bliss of liquor (ali).' (ŚM 14/5cd-6)
+[^197]: This tum of phrase is indeed commonly found in Kaula Tantras of all sorts. Examples in the Śrīmatottara, which is a Kubjikā Tantra, are: ekānte vijane \[kh: vyajane\] ramye paśudṛṣṭivivarjite \[j: pasuhṛṣtivi-\] M vyākhyānari ca prakartavyar \[j: prakarta \*\] likhanan 7117111 “The (scriptures) should be explained, and especially so copied, in a solitary beautiful place where there are no people, and not in the sight of the uninitiated.” (ŚM 1/97) ekānte vijane ramye paśudṛṣṭivivarjite \\\\ mandalarhi kārayet \[kh: -yat\] tatra hastamātrapramānataḥ | He should cause the mandala to be drawn, the size of just a handspan, there in a solitary beautiful place where there are no people, and not in the sight of the uninitiated. (ŚM 10/36cd- 37ab) ekānte vijane ramye gomayodakalepite \\\\ puṣpaprakaraśobhādhye alinānandanandite \[k: -moditah; j: alinādaṁ naṁdamodate\] | vajragahvaram prastārya [g: prastārari\] susūtraṁ \[kh: Śusutraṁ; g: sutraḥ) ca suśobhanam \\\\ “The beautiful diagram (called) Vajragahvara (is drawn with) beautiful thread in a solitary beautiful place where there are no people. (lt should be) smeared with the water of cow dung, rich with the beauty of heaps of flowers, and praised with the bliss of liquor (ali).' (ŚM 14/5cd-6)
 
 
 *[p. 76]* ^pg94
@@ -1121,7 +1121,7 @@ This (view) has been accepted by great souls also. Thus, he says:
 तदाक्रम्य बलं म्रा अयमेवोदयः स्फुटः ॥ ११३ ॥
 इत्यादिभिः स्पन्दवाक्यैरेतदेव निरूपितम् ।
 
-tadākramya \[illegible\] mantrā ayam evodayaḥ sphutaḥ ॥ 113 ॥
+tadākramya balaṁ mantrā ayam evodayaḥ sphutaḥ ॥ 113 ॥
 ityādibhiḥ spandavākyair etad eva nirūpitam | 
 
 All this has been clearly described in the Spandakārikā, in the verses that begin with the words: ‘seizing that strength (bala), mantras . , ,' and ‘This indeed is the arising of that (object of meditation) . . .’ (113cd-114ab) 
@@ -1221,11 +1221,11 @@ lalāṭavaktre dṛkkarnanāsāgandaradauṣthage ॥ 117 ॥
 dvaye dvaye śikhājihve visargāntās tu ṣodaśa |
 dakṣānyayoḥ skandhabāhukarāṁgulinakhe kacau ॥ 118 ॥
 vargau tatau kramāt kaṭyām ūrvādiṣu niyojayet |
-pavargar pārśvayoḥ pṛṣthe \[illegible\] hṛdy atho nava ॥ 119 ॥
+pavargar pārśvayoḥ pṛṣthe jaṭhare hṛdy atho nava ॥ 119 ॥
 tvagraktamāmsasūtrāsthivasāśukrapurogamān |
 ity eṣa mātṛkānyāso mālinyās tu nirūpyate ॥ 120 ॥ 
 
-[^208]The sixteen (vowels) up to emission (visarga) (should be deposited) on the forehead (A), on the mouth (Ā), and in pairs on the eyes (1, 1), on the ears (U, \[illegible\] on the nostrils (r, R), on the cheeks (l, 1), on the (lower and upper) teeth (E, AT), on the lips (O, AU), on the topknot (M), and on the tongue (H). The gutturals (K KH G GH Ñ) and palatals (C CH J JH N) (should be deposited) on the shoulders, arms, hands, fingers and the nails, on the right and left, respectively. The cerebrals (T TH D DH N) and dentals (T TH D DH N) should be conjoined to the hips and thighs etc., in due order (on the right and left leg, respectively). The labials (should be deposited) onto the (right and left) sides (of the body) (P PH), the back (B), the stomach (BH) and the heart (M). The remaining nine (consonants) should be opo ited onto the skin (Y), blood (R), meat (L), sinews (sūtra) (V), bones (9), fat (5), (vital) seed (S), (the vital breath (H) and testicles \[illegible\][^209] Such is the deposition of Mātṛkā. (Now) we will describe Mālinī. (117cd-120) 
+[^208]The sixteen (vowels) up to emission (visarga) (should be deposited) on the forehead (A), on the mouth (Ā), and in pairs on the eyes (1, 1), on the ears (U, Ū), on the nostrils (r, R), on the cheeks (l, 1), on the (lower and upper) teeth (E, AT), on the lips (O, AU), on the topknot (M), and on the tongue (H). The gutturals (K KH G GH Ñ) and palatals (C CH J JH N) (should be deposited) on the shoulders, arms, hands, fingers and the nails, on the right and left, respectively. The cerebrals (T TH D DH N) and dentals (T TH D DH N) should be conjoined to the hips and thighs etc., in due order (on the right and left leg, respectively). The labials (should be deposited) onto the (right and left) sides (of the body) (P PH), the back (B), the stomach (BH) and the heart (M). The remaining nine (consonants) should be opo ited onto the skin (Y), blood (R), meat (L), sinews (sūtra) (V), bones (9), fat (5), (vital) seed (S), (the vital breath (H) and testicles \[illegible\][^209] Such is the deposition of Mātṛkā. (Now) we will describe Mālinī. (117cd-120) 
 
 #### Viveka on 15.117–120
 
@@ -1281,11 +1281,11 @@ prāṇo havarnaḥ kathitaḥ ṣakṣāv udaranābhigau |
 maśāntā kaṭiguhyoruyugmagā jānunī tathā ॥ 124 ॥
 e-aikārau tatparau tu jaṁghe caranagau daphau | 
 
-N is the topknot; r, R, l, L, the garland of the head; TH the head; the eyes are C, which is above (as the third eye), and DH the other two; Ī is the nose, N the ears, and U and Ŭ (their two) ornaments.[^213] B, the gutturals (K, KH, G, GH, Ñ), I and A are, respectively, the face, teeth, tongue and speech.[^214] V, BH and Y are on the throat, right and left shoulder; D and DH are on the arms; \[illegible\] on the hands; JH and Ñ are the branches (śākhā); J, R and T[^215] are the staff and the skull; P the heart; CH and L, the breasts; A the milk; S along with emission H, the living being (jīva); the letter H is said to be the vital breath;[^216] § and KṢ are in the stomach and the navel (respectively); M, Ś, M and T[^217] are in the hips, the genitals and the two thighs; the letters E and AI are the knees; those that come after them (O and AU) are the shanks;[^218] D and PH the \[illegible\][^219] (121-125ab) 
+N is the topknot; r, R, l, L, the garland of the head; TH the head; the eyes are C, which is above (as the third eye), and DH the other two; Ī is the nose, N the ears, and U and Ŭ (their two) ornaments.[^213] B, the gutturals (K, KH, G, GH, Ñ), I and A are, respectively, the face, teeth, tongue and speech.[^214] V, BH and Y are on the throat, right and left shoulder; D and DH are on the arms; ṬH, on the hands; JH and Ñ are the branches (śākhā); J, R and T[^215] are the staff and the skull; P the heart; CH and L, the breasts; A the milk; S along with emission H, the living being (jīva); the letter H is said to be the vital breath;[^216] § and KṢ are in the stomach and the navel (respectively); M, Ś, M and T[^217] are in the hips, the genitals and the two thighs; the letters E and AI are the knees; those that come after them (O and AU) are the shanks;[^218] D and PH the feet.[^219] (121-125ab) 
 
 #### Viveka on 15.121–125
 
-[^213]: “The (three) eyes are C and Dh, the nose is Ī, the ears with (their) ornaments NU and \[illegible\] TĀ 15/121cd reads netrāni cordhve dho ‘nye ï gṁrānar mudre nu nû \[illegible\] ~ ‘the eyes are C, which is above (as the third eye), and Dh the other two, Ī is the nose, N the ears, and U and Ü (their two) ornaments.’
+[^213]: “The (three) eyes are C and Dh, the nose is Ī, the ears with (their) ornaments NU and ṆŪ.’ TĀ 15/121cd reads netrāni cordhve dho ‘nye ï gṁrānar mudre nu nû \[illegible\] ~ ‘the eyes are C, which is above (as the third eye), and Dh the other two, Ī is the nose, N the ears, and U and Ü (their two) ornaments.’
 
 [^214]: ca ~ 'are in the face, teeth, tongue and speech’ for vaktradantajihvāgiri kramāt — ‘are, respectively, the face, teeth, tongue and speech’.
 
@@ -1293,7 +1293,7 @@ N is the topknot; r, R, l, L, the garland of the head; TH the head; the eyes are
 
 [^216]: MV 3/40a reads tatparaḥ kathitaḥ prāṇaḥ ~ ‘after that is said to be the vital breath’ for pṛno havarṇaḥ kathitaḥ ~ ‘the letter H is said to be the vital breath’.
 
-[^217]: The edition of the MV reads masaṁtāḥ, in which case there are four letters here, namely, M, Ś, M and T, which is correct. However, Jayaratha endorses the reading \[illegible\] which omits M. See below.
+[^217]: The edition of the MV reads masaṁtāḥ, in which case there are four letters here, namely, M, Ś, M and T, which is correct. However, Jayaratha endorses the reading maśāntā, which omits M. See below.
 
 [^218]: For tatparau tu jaṅghe — ‘those that come after them (O and AU) are the shanks’, MV 3/41ab reads tathā jaṁghe tatparau — \*and the shanks (O and AU) come after them.
 

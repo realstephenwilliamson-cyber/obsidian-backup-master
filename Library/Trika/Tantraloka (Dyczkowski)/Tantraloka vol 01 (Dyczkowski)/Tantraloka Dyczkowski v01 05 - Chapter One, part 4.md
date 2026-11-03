@@ -542,7 +542,7 @@ The fettered soul is conjoined to the three impurities, that is, the fundamental
 
 [^445]: MVT 1/27-29. The sequence in which these five obscuring coverings (kañcuka) are generated from Māyā is not uniform in all the sources. For a detailed discussion, see below, 9/167cd-213.
 
-[^446]: MSs K, Ch, J, Jh, Ñ, ¶ृ \[illegible\] and D read punaḥ for pumān.
+[^446]: MSs K, Ch, J, Jh, Ñ, ¶ृ Ṭ and D read punaḥ for pumān.
 
 [^447]: MV 1/28ab is also quoted in TĀv ad 9/192cd-193. The translation of this line follows Abhinava’s implicit explanation of it in TĀ 9/192cd-193. Another possible translation could be: ‘(This limited) knowledge discerns the action (karman) of that (individual soul), so that (it may act) as the cause (that accomplishes) the effect (which is the aim of) that (individual soul) (कव).
 

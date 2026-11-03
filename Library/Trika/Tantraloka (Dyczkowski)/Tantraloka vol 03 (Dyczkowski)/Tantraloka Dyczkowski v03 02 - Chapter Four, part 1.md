@@ -92,7 +92,7 @@ Commentary on Chapter Eighteen of the Mālinīvijayottara: verses 213- 22lab, pa
 
 b) Commentary on the words: 
 
-‘there is no deliberation on what may (or may not) be eaten or the \[illegible\] : 
+‘there is no deliberation on what may (or may not) be eaten or the like.’ : 
 
 verses 247cd-253, pages 344-354 
 
@@ -210,7 +210,7 @@ Swami Lakshmanjoo teaches that ‘the purification of thought means essentially 
 
 *[p. 5]* ^pg18
 
-Surely (one may ask,) everybody agrees that cognitive consciousness \[illegible\] is momentary, and as the thought (that arises) from that is also a form of cognitive consciousness and so is momentary, how can the purification of one’s own nature, which is (essentially consciousness) hidden (by thought constructs), develop?[^7] That could (only take place) if (the prior pure consciousness) is stable (sthira) (and continuous), as is the case for example with the flowers (that are present in a potential form) in a sesame seed.[^8] So how is it that he has said that? With this doubt in mind, he says: 
+Surely (one may ask,) everybody agrees that cognitive consciousness (jñāna) is momentary, and as the thought (that arises) from that is also a form of cognitive consciousness and so is momentary, how can the purification of one’s own nature, which is (essentially consciousness) hidden (by thought constructs), develop?[^7] That could (only take place) if (the prior pure consciousness) is stable (sthira) (and continuous), as is the case for example with the flowers (that are present in a potential form) in a sesame seed.[^8] So how is it that he has said that? With this doubt in mind, he says: 
 
 ### TĀ 4.3
 
@@ -527,7 +527,7 @@ Thus, he says:
 तामेनां भावनामाहुः सर्वकामदुघां बुधाः ।
 स्फुटयेद्रस्तु यापेतं मनोरथपदादपि ॥ १४ ॥
 
-tām \[illegible\] bhāvanām āhuḥ sarvakāmadughām budhāḥ |
+tām enāṁ bhāvanām āhuḥ sarvakāmadughām budhāḥ |
 sphuṭayed vastu yāpetaḥ manorathapadād api \\\\ 14 ॥ 
 
 The wise call that (intuitive reason) creative contemplation (bhāvanā),[^41] the cow who grants all wishes.[^42] It renders (that) reality (vastu) which is beyond even (the most) wishful (imagination)[^43] vividly evident. (14) 
@@ -542,7 +542,7 @@ The wise call that (intuitive reason) creative contemplation (bhāvanā),[^41] t
 
 [^43]: Lit. ‘which has departed from the path of desire’.
 
-[^44]: Read abhidhīyamānaliṁgānuvedhaḥ for vidhīyamānaliṁgānuvedhaḥ. The emended reading literally means ‘penetration into the sign (liṅga) which is being denoted (by the teaching)’. The word \[illegible\] is a term commonly used in logic. In that context it denotes the ‘sign’ or ‘evidence’ on the basis of which inference is possible. For example, smoke on a hill is a ‘sign’ or ‘evidence’ that a fire is burning there. The scriptures or a teacher’s oral instruction voices ‘signs’ or ‘evidence’ of the existence of an ultimate reality. ‘Penetration’ into that which this ‘sign’ or ‘evidence’ indicates is the realisation of its truth by becoming one with it, that is, recognizing one’s own essential identity with it.
+[^44]: Read abhidhīyamānaliṁgānuvedhaḥ for vidhīyamānaliṁgānuvedhaḥ. The emended reading literally means ‘penetration into the sign (liṅga) which is being denoted (by the teaching)’. The word ‘liṅga’ is a term commonly used in logic. In that context it denotes the ‘sign’ or ‘evidence’ on the basis of which inference is possible. For example, smoke on a hill is a ‘sign’ or ‘evidence’ that a fire is burning there. The scriptures or a teacher’s oral instruction voices ‘signs’ or ‘evidence’ of the existence of an ultimate reality. ‘Penetration’ into that which this ‘sign’ or ‘evidence’ indicates is the realisation of its truth by becoming one with it, that is, recognizing one’s own essential identity with it.
 
 
 *[p. 18]* ^pg31
@@ -570,7 +570,7 @@ Thus, this itself is said in our teaching (darsana) to be the most excellent lim
 
 *[p. 19]* ^pg32
 
-Srīpūrvaśāstre tat \[illegible\] tarko yogāṁgam uttamam |
+Srīpūrvaśāstre tat proktaṁ tarko yogāṁgam uttamam |
 heyādyālocanāt tasmāt tatra yatnaḥ praśasyate || 15 ||
 mārge cetaḥ sthirībhūtaṁi heye ‘pi viṣayecchayā |
 prerya tenānayet tāvad yāvat padam anāmayam || 16 ॥ 
@@ -590,7 +590,7 @@ The mind is firmly fixed on (its chosen) path, even though it be one that should
 
 (It is said that): 
 
-[^49]: MV 17/18bcd-19. This is a direct quotation. The printed edition of the MV reads ālocanā for ālocanāt, bhūte for \[illegible\] and preryami for prerya. Vasudeva accepts all the readings found here.
+[^49]: MV 17/18bcd-19. This is a direct quotation. The printed edition of the MV reads ālocanā for ālocanāt, bhūte for bhūtaṁ, and preryami for prerya. Vasudeva accepts all the readings found here.
 
 [^50]: As does Vasudeva (p. 367 n 1), following Sanderson (1992b: Appendix 2), I translate ‘yogāṁga’ as ‘ancillary to Yoga’ rather than, as is common practice, ‘limb of Yoga’. Cf.: ‘Sanderson has shown that it is this technical use of the term aṁga, denoting a secondary factor necessary for the accomplishment of the principle derived from the terminology of the Mīmāṁsā.”
 
@@ -719,7 +719,7 @@ Just as a foolish person is (equally) attached to vile pleasures (bhoga), whethe
 
 #### Viveka on 4.18–19
 
-Just as some ignorant person, who does not know how to discriminate between what is to be adopted and what is to be abandoned, whether he has known ‘the pleasures of imperial sovereignty’ or not as one who is rightly fit to enjoy (them or not) is, because of (his) attachment, ‘(equally) attached to vile pleasures (bhoga)’, that is, the objects of enjoyment of unfortunate people. (This is) because he is attached (to them) due to the influence of previous latent impressions (of past actions impelled by worldly desires) that have developed for a long time and matured. In just the same way, having abandoned the directly evident \[illegible\] (path to) liberation, (he is attached) to a false (notion 
+Just as some ignorant person, who does not know how to discriminate between what is to be adopted and what is to be abandoned, whether he has known ‘the pleasures of imperial sovereignty’ or not as one who is rightly fit to enjoy (them or not) is, because of (his) attachment, ‘(equally) attached to vile pleasures (bhoga)’, that is, the objects of enjoyment of unfortunate people. (This is) because he is attached (to them) due to the influence of previous latent impressions (of past actions impelled by worldly desires) that have developed for a long time and matured. In just the same way, having abandoned the directly evident (sākṣāt) (path to) liberation, (he is attached) to a false (notion 
 
 [^66]: Read —dṛṣtvāthavādhame for —dṛṣtvāthabādhame.
 
@@ -754,12 +754,12 @@ This (form of attachment) is said (in the scriptures) to be (devotion to some lo
 
 [^69]: Read raktasya for riktasya, pralabdhā for vilabdhā and bata for vata.
 
-[^70]: The following citations are drawn from chapter eight of the Svacchandatantra, which is just thirty-six verses long. It deals with the so-called six ‘limbs’ (aṁśaka). These are briefly explained by Kṣemarāja in his commentary on this line (SvT 8/lab). He first supplies a series of definitions of the term \[illegible\] which, according to the context, means ‘limb’ or ‘part’. Gods and a range of supernatural beings are called ‘limbs’, because they are ‘parts’ of Bhairava. A devotee of these beings is also referred to as an ‘aṁśaka’, in the sense that he adheres so closely to the deity that he is, as it were, a part of him and vice versa. Again, the manner in which the deity is worshipped, the offerings made, and even the sentiment felt towards it are each an ‘amsa’ or related to it (‘aṁśaka\`). Finally, an accomplishment a deity bestows is an \[illegible\] that is, a ‘small part’ that contributes to the adept’s progress. The passage reads: ‘The limbs are said to be the limbs of the supreme Bhairava of Consciousness. They are Brahmā and other (gods) who are made manifest by (Bhairava’s) energies, that is, Brāhmī and the rest who preside over them. Then those who are the objects of their grace are also said to be (their) ‘limbs’. Thus, that which relates to the limbs as objects of worship, such as ‘this is the limb of Brahmā’, ‘this is the limb of Viṣṣṇu’ and so on in due order, that is, the (six), sentiments (bhāva), own nature (svabhāva) and so on that will be explained, are said to be ‘related to a limb’ \[illegible\] Moreover, in relation to the means of attainment (sādhaka) (it is called this) because it is conducive to attainment (siddhi). (Again,) it is called an ‘aṁnśaka’ because (taking the suffix ‘-ka’ as a diminutive) it is a small part (aṁśa).’ SvTu ad 8/19
+[^70]: The following citations are drawn from chapter eight of the Svacchandatantra, which is just thirty-six verses long. It deals with the so-called six ‘limbs’ (aṁśaka). These are briefly explained by Kṣemarāja in his commentary on this line (SvT 8/lab). He first supplies a series of definitions of the term ‘aṁśa’, which, according to the context, means ‘limb’ or ‘part’. Gods and a range of supernatural beings are called ‘limbs’, because they are ‘parts’ of Bhairava. A devotee of these beings is also referred to as an ‘aṁśaka’, in the sense that he adheres so closely to the deity that he is, as it were, a part of him and vice versa. Again, the manner in which the deity is worshipped, the offerings made, and even the sentiment felt towards it are each an ‘amsa’ or related to it (‘aṁśaka\`). Finally, an accomplishment a deity bestows is an \[illegible\] that is, a ‘small part’ that contributes to the adept’s progress. The passage reads: ‘The limbs are said to be the limbs of the supreme Bhairava of Consciousness. They are Brahmā and other (gods) who are made manifest by (Bhairava’s) energies, that is, Brāhmī and the rest who preside over them. Then those who are the objects of their grace are also said to be (their) ‘limbs’. Thus, that which relates to the limbs as objects of worship, such as ‘this is the limb of Brahmā’, ‘this is the limb of Viṣṣṇu’ and so on in due order, that is, the (six), sentiments (bhāva), own nature (svabhāva) and so on that will be explained, are said to be ‘related to a limb’ \[illegible\] Moreover, in relation to the means of attainment (sādhaka) (it is called this) because it is conducive to attainment (siddhi). (Again,) it is called an ‘aṁnśaka’ because (taking the suffix ‘-ka’ as a diminutive) it is a small part (aṁśa).’ SvTu ad 8/19
 
 
 *[p. 27]* ^pg40
 
-\*0 goddess, I will tell (you) about the limb \[illegible\] which is of six kinds. (They are,) the limb of the Emotive State (bhāvāṁśaka), the one called Own Nature (svabhāva), and there is also the limb of the ‘Falling of the [^71] 
+\*0 goddess, I will tell (you) about the limb (aṁśaka) which is of six kinds. (They are,) the limb of the Emotive State (bhāvāṁśaka), the one called Own Nature (svabhāva), and there is also the limb of the ‘Falling of the [^71] 
 
 Having announced (the subject in this way), this (limb) is characterized with (these verses) onwards: 
 
@@ -808,7 +808,7 @@ Surely (one may ask,) if he knows the excellent power of Śaiva doctrine as the 
 यतस्तावति सा तस्य वामाख्या शक्तिर्री ॥ २१ ॥
 पाञ्चरात्रिकवैरिञ्च सौगतादेर्विजृम्भते ।
 
-yatas tāvati \[illegible\] tasya vāmākhyā śaktir aiśvarī ॥ 21 ॥
+yatas tāvati sā tasya vāmākhyā śaktir aiśvarī ॥ 21 ॥
 pāñcarātrikavairiñca saugatāder vijṛmbhate | 
 
 [^75]: YSū 3/51. Vyāsa’s commentary (as translated by Hariharānanda Āraṇya) explains: ‘the celestial beings in a high place, noticing the purity of the intellect of those who by reaching \[the level of concentration called\] Madhumati have attained unalloyed truth, try to invite them \[to their worlds\] by tempting them with the enjoyments available in their regions . . . Thus accosted, one should however ponder over the danger of their companionship . . . Not having formed any attachment, let him not also feel a sense of gratification that he is coveted by the celestial beings. Through self-gratification a false sense of security arises, and a man forgets that death has got him by the hair.” Jayaratha quotes this sūtra here, because each metaphysical principle spans a number of world-orders governed by particular deities (i.e. ‘celestial beings’). The attainments (siddhi) acquired by reaching the principle a particular system considers to be ultimate, and hence liberation, are bestowed upon the adept by the being to which he is to devoted as his deity, that governs the worlds it contains.
@@ -995,7 +995,7 @@ paraprakṛtisāyujyai yadvāpy ānandarīūpatā || 29 ॥
 viśuddhacittamātrari vā dīpavat saṁtatikṣayaḥ |
 sa savedyāpavedyātmapralayākalatāmayaḥ || 30 ॥ 
 
-Again, the (form) that the Vaiṣṇavas and others (like them) have conceived by their own imagination \[illegible\] liberation to be, namely, union (sāyujya) with the Supreme Nature (paraprakṛti), or (by Vedāntins) as the blissful nature (of the Brahman), pure consciousness alone (by idealist ~ Vijñānavāda - Buddhists), or the extinction of the series (of individual existences) like (blowing out) a lamp (by Vaibhāṣika Buddhists). (They are all) in the state of (perceivers called) ‘Dissolution Deconditioned’ (Pralayākala) (which are of two kinds, namely,) those (in deep sleep) ‘associated with objectivity’ (savedya) (in which it is perceived,) and those (in deep sleep) ‘free of objectivity’ (apavedya) (in which it is not 
+Again, the (form) that the Vaiṣṇavas and others (like them) have conceived by their own imagination (saṁkalpa) liberation to be, namely, union (sāyujya) with the Supreme Nature (paraprakṛti), or (by Vedāntins) as the blissful nature (of the Brahman), pure consciousness alone (by idealist ~ Vijñānavāda - Buddhists), or the extinction of the series (of individual existences) like (blowing out) a lamp (by Vaibhāṣika Buddhists). (They are all) in the state of (perceivers called) ‘Dissolution Deconditioned’ (Pralayākala) (which are of two kinds, namely,) those (in deep sleep) ‘associated with objectivity’ (savedya) (in which it is perceived,) and those (in deep sleep) ‘free of objectivity’ (apavedya) (in which it is not 
 
 perceived).[^91] (29-30) 
 

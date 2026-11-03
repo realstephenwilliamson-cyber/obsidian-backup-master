@@ -145,12 +145,12 @@ Surely, (one may ask, he said) previously that ‘(no practice) associated with 
 
 तेनानुपाये तस्मिन्को मुच्यते वा कथं कुतः ।
 
-ita eva prabhṛty \[illegible\] jīvanmuktir vicāryate ॥ 272 ||
+ita eva prabhṛty eṣā jīvanmuktir vicāryate ॥ 272 ||
 yatra sūütraṇayāpīyam upāyopeyakalpanā |
 prāktane tv āhnike kācidbhedasya kalanāpi no ॥ 273 ॥
 tenānupāye tasmin ko mucyate vā kathai kutaḥ | 
 
-From this point onwards we will discuss (the nature of) this (state of) liberation in life \[illegible\] (which is such) even though this notion that there is a means and a goal (persists) there in a subtle form (sūtraṇayā). In the previous chapter there was (no question of) any formation of division (bheda), for (at the level) free of means, who is liberated, how and where? (272cd-274ab) (272-273) 
+From this point onwards we will discuss (the nature of) this (state of) liberation in life (jīvanmukti), (which is such) even though this notion that there is a means and a goal (persists) there in a subtle form (sūtraṇayā). In the previous chapter there was (no question of) any formation of division (bheda), for (at the level) free of means, who is liberated, how and where? (272cd-274ab) (272-273) 
 
 #### Viveka on 3.272–273
 
@@ -210,7 +210,7 @@ Surely (one may ask,) if the supreme principle is Bhairava whose sole nature is 
 tad apy akalpitodārasaṁviddarpanabimbitam | 277 |
 paśyan vikalpavikalo bhairavībhavati svayam | 
 
-[^805]: Concerning the thirty-six principles \[illegible\] see below, 9/49cd ff. and 10/97cd ff.
+[^805]: Concerning the thirty-six principles (tattva), see below, 9/49cd ff. and 10/97cd ff.
 
 [^806]: Above, 1/186cd-187ab.
 
@@ -240,7 +240,7 @@ Surely (a question arises). If it is said that by means of the supreme principle
 तततदरारनिरंशैकघटसंवि्िसुस्थित : ।
 तद्रद्धरदिकैकैकसङ्खातसमुदायतः ।। २७९ ॥
 
-[^809]: ĪP 1/5/16. A variant of this verse is quoted above in TĀv ad 1/72 (73), see note there. Also quoted below, in TĀv ad 9/159 (partially), 11/10cd-12ab, 28, 15/315-317 and ad 29/126cd-127ab \[illegible\] 1/5/16a). Torella in a note to this verse quotes Abhinava (ĪPVv 1, p- 108) as saying: ‘Although freedom and dependence are two diametrically opposed realities and mutually exclude one another, Parameśvara \[the Supreme Lord\] in his supreme freedom combines them (yojayati) when he creates different perceptions such as Iśvara \[the Lord\], the Self etc. This idantā \[objective\] component makes them able to become the object of meditation, worship, teaching and so on, and, on the other hand, their unveiled ahantā \[subjective\] component ensures the attainment of their true nature.’ (Torella’s translation; square brackets mine)
+[^809]: ĪP 1/5/16. A variant of this verse is quoted above in TĀv ad 1/72 (73), see note there. Also quoted below, in TĀv ad 9/159 (partially), 11/10cd-12ab, 28, 15/315-317 and ad 29/126cd-127ab (ĪP 1/5/16a). Torella in a note to this verse quotes Abhinava (ĪPVv 1, p- 108) as saying: ‘Although freedom and dependence are two diametrically opposed realities and mutually exclude one another, Parameśvara \[the Supreme Lord\] in his supreme freedom combines them (yojayati) when he creates different perceptions such as Iśvara \[the Lord\], the Self etc. This idantā \[objective\] component makes them able to become the object of meditation, worship, teaching and so on, and, on the other hand, their unveiled ahantā \[subjective\] component ensures the attainment of their true nature.’ (Torella’s translation; square brackets mine)
 
 *[p. 399]* ^pg415
 
@@ -254,7 +254,7 @@ One sees (something) initially, such as (for example) the red (colour of a jar),
 
 #### Viveka on 3.278–279
 
-Indeed, everything here (according to us) is the perceiver. ‘Initially’, first of all, by means of cognitive consciousness (jñāna) free of thought constructs, one perceives directly ‘the red (colour), which is a quality that secondarily characterizes (a jar), as well as the deployment (of its parts), such as (its) broad base and bulbous shape. Each of (its) parts, including (its) red colour and the rest, made manifest by (the perceiver’s) own will etc., serve as a means (to perceive a jar, in such a way that) one rightly (says), ‘I have perceived \[illegible\] literally ‘known’) this jar’. Thus the understanding or ‘consciousness’ by which it takes place is that of the one main (object) in relation to (its) parts that is correctly (perceived), without being less (than it is), as separate (from consciousness and distinct from other things), and as undivided and without parts, in accord with its own specific characteristic nature (svalakṣaṇa), which consists of the coming together of many manifestations of universals (sāmānyābhāsa).[^811] Satisfied in this 
+Indeed, everything here (according to us) is the perceiver. ‘Initially’, first of all, by means of cognitive consciousness (jñāna) free of thought constructs, one perceives directly ‘the red (colour), which is a quality that secondarily characterizes (a jar), as well as the deployment (of its parts), such as (its) broad base and bulbous shape. Each of (its) parts, including (its) red colour and the rest, made manifest by (the perceiver’s) own will etc., serve as a means (to perceive a jar, in such a way that) one rightly (says), ‘I have perceived (jñāta, literally ‘known’) this jar’. Thus the understanding or ‘consciousness’ by which it takes place is that of the one main (object) in relation to (its) parts that is correctly (perceived), without being less (than it is), as separate (from consciousness and distinct from other things), and as undivided and without parts, in accord with its own specific characteristic nature (svalakṣaṇa), which consists of the coming together of many manifestations of universals (sāmānyābhāsa).[^811] Satisfied in this 
 
 [^810]: The ‘means’ are the aspects (aṁśa) of the object, such as the round shape of the jar that, progressively perceived, combine to make up a clear image of the manifest form of the object.
 
@@ -355,7 +355,7 @@ Surely (one may ask,) how can one say that (cognitive) consciousness (samvit) is
 एतावतैव होश्वर्य संविदः ख्यापितं परम् । २८२ ॥
 विशवात्मकत्वं चेत्यन्यल्लक्षणं किं नु कथ्यताम् ।
 
-etāvataiva hy \[illegible\] saṁvidaḥ \[illegible\] param ॥ 282 ॥
+etāvataiva hy aiśvaryaṁ saṁvidaḥ khyāpitaṁ param ॥ 282 ॥
 viśvātmakatvaṁ cety anyallakṣaṇaṁ kin nu kathyatām | 
 
 *[p. 404]* ^pg420
@@ -614,7 +614,7 @@ He concludes with the first half of a verse:
 ### Dyczkowski's verse 294
 
 इति कथितमिदं सुविस्तरं परमं शाम्भवमात्मवेदनम् ।। २९४ ॥
-iti kathitam \[illegible\] suvistaran \[illegible\] śāmbhavam ātmavedanam || 294 ॥ 
+iti kathitam idaṁ suvistaran paramaṁ śāmbhavam ātmavedanam || 294 ॥ 
 
 So, we have explained at length this, the supreme insight into one’s own nature pertaining to the Divine (śāmbhava) Means. (294) 
 
@@ -690,7 +690,7 @@ Unknown as a deity in the Rgveda, an entire hymn is dedicated to the goddess Am�
 
 [^849]: Dange 2000: vol. 1,78.
 
-[^850]: ŚB 1/6/4/4 ff. \[illegible\] \[illegible\] iha āvasati tasmād amāvāsyā nāma | Ibid. 1/6/4/5.
+[^850]: ŚB 1/6/4/4 ff. etāṁ rātrīṁ iha āvasati tasmād amāvāsyā nāma | Ibid. 1/6/4/5.
 
 [^851]: Kāṭhakasamhitā 37/14.
 
@@ -738,18 +738,18 @@ Jayaratha explains that:
 
 Abhinava identifies the sixteenth energy of the Moon with visarga. Visarga literally means ‘emission’, and has clear sexual connotations, as the word also means ‘orgasm’. It is also the name of the sixteenth and last of the series of vowels. This is so because it denotes the aspirate vowel, which requires an ‘emission’ of breath to articulate it. In various places throughout his exegetical works, Abhinavagupta develops the key notion of the power of emission (visargaśakti). According to most schools, including the Kubjikā Tantras, which are typical in this respect, the sixteen vowels are female. This is because they represent the sixteen energies of the female Moon. In Abhinava’s set-up they represent stages in the expansion of energy within transcendental Śiva consciousness, which is also lunar, but the Moon in this case retains, as it were, the more ancient masculine gender. The consonants, ranging from K to KÌ, are the series of principles (fattva) below Śiva. The consonants are ‘empowered wombs’ (śāktayoni) formed by the ‘condensation’ of the vowels. The energy of emission extends down through them, spreading out in this way through the entire series of principles below Śiva. Śiva’s divine consciousness courses through the first fifteen vowels, that contain all that is to be emitted through the energy of emission, which is the sixteenth vowel. The energies within Śiva develop progressively, as it were, compounding one with the other until they reach the fullness of their development in the energy of emission, through which the inner contents of Śiva pour out into outer manifestation through and as the remaining principles. And so, this energy is said to vitalize the universe. As Abhinavagupta explains: 
 
-‘The Lord (ever united with his power of emission) emanates the universe. The power of emission (visargaśakti) extends from the Earth to Śakti and from (the consonant) K to \[illegible\] This is said to be (amā kalā) the sixteenth energy (ṣodaśakalā) in the following verse: ‘With the Person made of consciousness, that is, Siva who consists of the sixteen energies (kalā), the sixteenth energy is known as the ‘energy of nectar’ (amṛtakalā).’ This is not the view of either the Sāṁkhya or the Vedānta, but only of the Śaiva scriptures 
+‘The Lord (ever united with his power of emission) emanates the universe. The power of emission (visargaśakti) extends from the Earth to Śakti and from (the consonant) K to KṢ. This is said to be (amā kalā) the sixteenth energy (ṣodaśakalā) in the following verse: ‘With the Person made of consciousness, that is, Siva who consists of the sixteen energies (kalā), the sixteenth energy is known as the ‘energy of nectar’ (amṛtakalā).’ This is not the view of either the Sāṁkhya or the Vedānta, but only of the Śaiva scriptures 
 
 [^863]: TĀ 6/95cd-97.
 
 
 *[p. 417]* ^pg433
 
-\[illegible\] The supreme Lord’s power of emission (visargaśakti) is the seed of the highest beatitude.”[^864] 
+(śāstra). The supreme Lord’s power of emission (visargaśakti) is the seed of the highest beatitude.”[^864] 
 
 Abhinava devotes a great deal of space in his works to an exposition of the metaphysical status and activity of the power of emission (visarga). This insight into the dynamism of the one ultimate reality receives relatively scanty attention in the scriptural sources, and so should be largely, but not entirely, credited to Abhinava’s genius. It is not possible, nor necessary in this context, to present a full exposition of Abhinava’s complex and profound conception; we will limit ourselves to a brief analysis of the following passage in his Mālinīvijayavārtika, where he outlines a number of its essential features and relates them to the lunar symbolism of the energies of the vowels which concern us here. He is discussing, as he often has occasion to do, the phases of the cycle of perception. He has talked about the twelve phases of the cognitive consciousness engaged in the operation of the means of knowledge and the unfolding of subjectivity symbolized by the Sun and Fire, respectively. Next he proceeds to an exposition of the sixteen phases of the cycle of cognitive consciousness in relation to the sphere of the object (meya), symbolized by the Moon. This begins with a list of these phases. We have noted already that the ‘object’, which in Sanskrit is called meya, which literally means ‘that which is to be known’, is ultimately Śiva, the pure conscious nature. Abhinava teaches that it is ‘I’ consciousness, and is ‘that which is to be known’. Accordingly, the sixteen phases leading to the perception of any object, if correctly and fully experienced, culminate in the liberated condition of the sixteenth phase, which is equated with the sixteenth energy of the Moon, as it is in the Kubjikā Tantras and those of other schools, although from a quite different perspective. The passage is long; even so, the exposition is so masterly and insightful that it amply warrants full quotation: 
 
-‘First (come) 1) manifestation (prakāśa) and 2) viewing (ālocana), and then 3) intention (saṁkalpa) and 4) consent (abhimati), followed after by 5) certainty (niscaya) and 6) confirmation (anudṛśa). Then come the two, 7) discernment (viveka) and 8) detachment \[illegible\] (then) 9) the state of agency (kartṛtāsthā), 10) (the experience of) non-distinction (avyavaccheda) (between objects), 11) the manifestation of the common (ground of all objectivity), 12) (a state in which there is) no disturbance from the many acts of reflective awareness (nānāvimarśāprakṣobha), 13) complete experience of (the sphere of) the object (pūrnameyapravedana), 14) complete subjectivity (pūrnapramātṛtva), 15) (pure cognitive) consciousness (saṁvitti), (and finally) 16) (the liberated) condition of Bhairavī (the power of consciousness) (bhairavībhāva). To the degree in which objectivity (meyamaya) is made manifest in this way, sixteenfold, that is said to be the Moon of consciousness \[illegible\] considered to be the basic state (sthiti) of the 
+‘First (come) 1) manifestation (prakāśa) and 2) viewing (ālocana), and then 3) intention (saṁkalpa) and 4) consent (abhimati), followed after by 5) certainty (niscaya) and 6) confirmation (anudṛśa). Then come the two, 7) discernment (viveka) and 8) detachment (āsaṅgitā), (then) 9) the state of agency (kartṛtāsthā), 10) (the experience of) non-distinction (avyavaccheda) (between objects), 11) the manifestation of the common (ground of all objectivity), 12) (a state in which there is) no disturbance from the many acts of reflective awareness (nānāvimarśāprakṣobha), 13) complete experience of (the sphere of) the object (pūrnameyapravedana), 14) complete subjectivity (pūrnapramātṛtva), 15) (pure cognitive) consciousness (saṁvitti), (and finally) 16) (the liberated) condition of Bhairavī (the power of consciousness) (bhairavībhāva). To the degree in which objectivity (meyamaya) is made manifest in this way, sixteenfold, that is said to be the Moon of consciousness (vijñāna) considered to be the basic state (sthiti) of the 
 
 sixteen energies.”[^865] 
 
@@ -776,7 +776,7 @@ Now that Abhinava has outlined the cognitive, metaphysical and theological dimen
 
 ‘Once one has attained entry here into the plane of full (and perfect) emission, one (truly) practices the teaching which says that by ‘(kissing,) licking (lehanā) and sex (manthana) and the like (there is a flood of bliss)’.[^868] In this way, having laid hold of (Suṣumnṇā,) the (common) Channel in the Centre (between the partners identified with Śiva and Śakti), the supreme radiant energy (tejas) (of 
 
-[^866]: Similarly, Abhinava says in his PTv that certain scriptures admit an eighteenth energy which, transcendent, represents the condition beyond all differentiation: “At some places in the Mata \[illegible\] etc., there is assumed to be an eighteenth kalā or phase in the state resting on anuttara or the transcendental by means of the viśleṣa or separation of visarga, i.e. by means of the second dot, viz. the half of visarga (:). So the phenomena of the fifty phonemes, or in other words the entire universe, is ‘one’ without succession.” PTv p. 69, translation by Singh, 1988: 188.
+[^866]: Similarly, Abhinava says in his PTv that certain scriptures admit an eighteenth energy which, transcendent, represents the condition beyond all differentiation: “At some places in the Mata Śāstra, etc., there is assumed to be an eighteenth kalā or phase in the state resting on anuttara or the transcendental by means of the viśleṣa or separation of visarga, i.e. by means of the second dot, viz. the half of visarga (:). So the phenomena of the fifty phonemes, or in other words the entire universe, is ‘one’ without succession.” PTv p. 69, translation by Singh, 1988: 188.
 
 [^867]: MVV 1/887cd-891ab, 893cd-895.
 

@@ -135,7 +135,7 @@ sivo na bhidyate svaikaprakāśaghanacinmayaḥ ॥ 5 ॥
 
 they cannot give (any) experience (bhoga) that is separate from that (consciousness). Thus, the two divisions of its own (level) may decrease, (but not the ‘Innate Nature’,) in such a way that here (in this case) as the group of six starting with the Dissolution Deconditioned (subjects), along with their powers, is the perceiver of the Conditioned (perceiver) along with (his) power, it becomes (with respect to them) the ‘Innate Nature’ (which is being perceived), and so are thirteen-fold. As is said: 
 
-‘The consciousness that perceives within all this, which is everything, the great expansion of its own (innate) vitality (vīrya) by checking it (within itself) arises there initially (suddenly and with great) force \[illegible\] in order to execute its particular design (kārya). This is because it is (thereby) established in increasingly lower principles, as it was established in the previous (higher ones).[^11] Otherwise, they would not continue to exist, due to the destruction of the previous (higher and subtler categories). Moreover, the aggregate of lower categories dissolves into the previous innate nature (of the higher ones), as they are incapable (nālam) of offering experience (bhoga). Thus, in this way, the diminishing state (of consciousness) there is associated with (increasing) relative distinctions (bheda).” 
+‘The consciousness that perceives within all this, which is everything, the great expansion of its own (innate) vitality (vīrya) by checking it (within itself) arises there initially (suddenly and with great) force (haṭhāt) in order to execute its particular design (kārya). This is because it is (thereby) established in increasingly lower principles, as it was established in the previous (higher ones).[^11] Otherwise, they would not continue to exist, due to the destruction of the previous (higher and subtler categories). Moreover, the aggregate of lower categories dissolves into the previous innate nature (of the higher ones), as they are incapable (nālam) of offering experience (bhoga). Thus, in this way, the diminishing state (of consciousness) there is associated with (increasing) relative distinctions (bheda).” 
 
 The Conditioned (perceiver) (sakala) along with its power assumes the state of the ‘Innate Nature’ (of the succeeding level), and as that is so, (its) ‘Innate Nature’ cannot be divided up in this way. (Division is a) relative distinction (bheda) that takes place on the basis of (the existence) elsewhere of the counter-correlate (with respect to which the nature of an entity is specified to be what it is, as other than that).[^12] It gives rise to the deployment of relative distinctions (bhedasaṁkalanā) such as ‘this is an object’, ‘this is a perception (māna)’, and ‘this the perceiver (mātr)’. On the contrary (punar), the objectivity 
 
@@ -167,7 +167,7 @@ There are eleven (divisions) (rudravat) (pertaining to the) Dissolution Decondit
 
 elevenfold. This is the meaning. (The next one, that is, the Consciousness Deconditioned subject, is) ninefold, because it is the (object of the) subject (consisting) of the four (perceivers above it, namely) Mantra and the rest, along with their powers. (The divisions of the Mantra subject who comes next) are ‘seven’, because (he is the object of the) subject (consisting) of the three (perceivers above it, namely) the Lords of Mantra and the rest. The (divisions pertaining to the) Lords of Mantras are ‘five’, because (they are the object of the) subject (consisting) of the Great Lords of Mantra and Śiva, along with their powers. (These are) threefold, because (they are the object of the) subject (consisting) of Śiva along with his power. Śiva is devoid of divisions and so is ‘consciousness, which is nothing but dense, uninterrupted Light’. Difference (bheda) depends on the existence of a counter-correlate (of that which is seen to be different from it), and no other counter-correlate of any sort could exist in relation to the Light (of consciousness). This has been said before (many times), so let this suffice. And it is said (in the Mālinīvijyottara): 
 
-‘The Earth principle is differentiated by the division of (seven) energies (śakti) and (seven) powerholders \[illegible\] and (so), along with its Innate Nature (svarūpa), it should be known to be fifteen-fold.[^18] 
+‘The Earth principle is differentiated by the division of (seven) energies (śakti) and (seven) powerholders (śaktimat), and (so), along with its Innate Nature (svarūpa), it should be known to be fifteen-fold.[^18] 
 
 ((The subjects who are) the possessors of power (are seven); they are said (to range) from Śiva to the Conditioned One (Sakala). The wise should know that, in the same way, their (corresponding) powers (are seven).) 
 
@@ -301,7 +301,7 @@ as the subject and means of knowledge.[^31] (9cd-10ab)
 
 [^28]: Thus, there are three equivalent triads: Perceiver (mātr) Supreme aspect Possessor of Power 04120154, (81777101) Means of Middling (parāparāṁ-Power (sakti) Knowledge sa) ramāṇa) Object Lower (04700150) Own Nature (svarūpa) Jayaratha tacitly acknowledges that the identification of this triad of power, possessor of power and ‘own nature’ with basic Trika triads, such as Śiva, Śakti and Nara, is not found in the scriptural sources. But he affirms that this is not a problem, as the basic triad, whether stated or not, is a Trika one. Nor is it in conflict with the commonly known one, which is secondary.
 
-[^29]: Read \[illegible\] for eṣā.
+[^29]: Read eṣāṁ for eṣā.
 
 [^30]: Read -upādhibhira for -upadhibhir-.
 
@@ -369,13 +369,13 @@ māna mantramaheśānāmṁ karaṇaṁ śaktir ucyate || 16 ॥
 svātantryamātrasadbhāvā yā tv icchāśaktir aiśvarī |
 sivasya saiva karaṇaṁi tayā vetti karoti ca ॥ 17 ॥ 
 
-1\) The nature of the aspect of the Conditioned (sakala perceiver), which is (his) means of knowledge (pramānāmśa), is the generic (capacity for limited) knowledge (vidyā) and action \[illegible\][^33] rather than their individual instances (tadbhida). That is considered to be (his) power. 
+1\) The nature of the aspect of the Conditioned (sakala perceiver), which is (his) means of knowledge (pramānāmśa), is the generic (capacity for limited) knowledge (vidyā) and action (kalā),[^33] rather than their individual instances (tadbhida). That is considered to be (his) power. 
 
 2\) That same aspect of the means of knowledge also belongs to the Dissolution Deconditioned (layākala perceiver). However, it is unmanifest (asphuta). 
 
 covering of the Force (of conditioned agency) and (the limited capacity for) 
 
-Knowledge is in the process of fading away \[illegible\][^34] 
+Knowledge is in the process of fading away (galat).[^34] 
 
 [^33]: Concerning these two generic means of knowledge, see above 9/246-250.
 
@@ -390,7 +390,7 @@ Knowledge is in the process of fading away \[illegible\][^34]
 
 6\) (The knowledge) of the Great Lords of Mantra (mantramaheśa) is the same (awakened Pure Knowledge, but it is) devoid of these latent impressions. (This) Pure Knowledge is their instrument (of knowledge), which is said be (their) power. 
 
-7\) Śiva’s instrument is (the Goddess, His) sovereign (aiśvarī) power of \[illegible\][^35] whose essential nature is freedom alone, by which He knows 
+7\) Śiva’s instrument is (the Goddess, His) sovereign (aiśvarī) power of volition,[^35] whose essential nature is freedom alone, by which He knows 
 
 and acts.[^36] (12cd-17) 
 
@@ -609,7 +609,7 @@ Again, if this (hypothetical) quality called ‘perceptibility’ is itself impe
 
 *[p. 310]* ^pg329
 
-Surely (the opponent may rejoin that), the form of a perception \[illegible\] that illumines each specific entity in such a way that it is fixed (and regulated) with respect to each (cognitive) act, such as ‘this is the perception of blue’ and ‘this is the perception of yellow’, is due to each specific limiting adjunct to which it is subject. In the same way, one could say that the (perceived nature and) form of an entity is affected by the specific perceiver (engaged in its perception as its) conditioning adjunct. Thus, it would be possible to (logically account for) the (fixed) regulation (that connects it to the perceiver, who is in) relationship (with it such that one knows that,) ‘this is only Caitra’s object of perception and this (other) is Maitra’s.’ He says that: 
+Surely (the opponent may rejoin that), the form of a perception (jñāna) that illumines each specific entity in such a way that it is fixed (and regulated) with respect to each (cognitive) act, such as ‘this is the perception of blue’ and ‘this is the perception of yellow’, is due to each specific limiting adjunct to which it is subject. In the same way, one could say that the (perceived nature and) form of an entity is affected by the specific perceiver (engaged in its perception as its) conditioning adjunct. Thus, it would be possible to (logically account for) the (fixed) regulation (that connects it to the perceiver, who is in) relationship (with it such that one knows that,) ‘this is only Caitra’s object of perception and this (other) is Maitra’s.’ He says that: 
 
 ### TĀ 10.24–25
 
@@ -661,7 +661,7 @@ Surely then, (one may ask,) how could an entity become the object of an act of p
 ### TĀ 10.27
 
 भावस्य वेद्यता सैव संविदो यः समुद्भवः ।
-bhāvasya vedyatā saiva \[illegible\] yah samudbhavaḥ | 
+bhāvasya vedyatā saiva saṁvido yah samudbhavaḥ | 
 
 The perceptibility (vedyatā) of an entity is an outpouring of (the perceiver’s) perception (saṁvid) (of it). (27ab) 
 
@@ -707,7 +707,7 @@ Even if something is predominant (and excels), it would not (make any difference
 
 *[p. 313]* ^pg332
 
-illumined and known) because it is generated from (that) entity, (we say) that that is not so. That which is generated from something, like smoke from fire, is not its light. (Indeed,) it is other than that, and, present in it, it is a sign (liṅga) (of the fire's existence). If (you were to say that,) let (the nature of an entity) be determined (niścīyeta) by the invariable concomitance (avinābhāva) of the two (i.e. the object and its objective perceptibility), (in response, we would point out) here (in this case that) there is no (sure and certain determinate) knowledge (niścaya) of that (objective perceptibility), because even when there is no (external) entity,[^53] as happens, for example, in the case of an (optical) illusion (bhrānti), the cognitive consciousness, which is the manifestation (prakāśa lit. \[illegible\] of that arises. Thus, it is rightly said that (if your view were to be correct, all) ‘things would be imperceptible’. 
+illumined and known) because it is generated from (that) entity, (we say) that that is not so. That which is generated from something, like smoke from fire, is not its light. (Indeed,) it is other than that, and, present in it, it is a sign (liṅga) (of the fire's existence). If (you were to say that,) let (the nature of an entity) be determined (niścīyeta) by the invariable concomitance (avinābhāva) of the two (i.e. the object and its objective perceptibility), (in response, we would point out) here (in this case that) there is no (sure and certain determinate) knowledge (niścaya) of that (objective perceptibility), because even when there is no (external) entity,[^53] as happens, for example, in the case of an (optical) illusion (bhrānti), the cognitive consciousness, which is the manifestation (prakāśa lit. ‘light’) of that arises. Thus, it is rightly said that (if your view were to be correct, all) ‘things would be imperceptible’. 
 
 He strengthens (his position further) by presenting (the following) example. 
 
@@ -821,12 +821,12 @@ Again, if the object (artha) is the cause (of its own) manifestation,[^58] so ho
 
 [^57]: See above, 10/28cd-3lab. If this were to be so, the object would light up independently of consciousness, and these would be two distinct, differing realities.
 
-[^58]: The Sanskrit reads ‘yadi nāmārthasya prakāśanakriyāyār \[illegible\] which literally means ‘if the agency of the act of illumination belongs to the object’. The form of the Sanskrit clearly induces the notion that inert entities possess ‘agency’ as if they were sentient, hence the following discussion.
+[^58]: The Sanskrit reads ‘yadi nāmārthasya prakāśanakriyāyār kartṛtvaṁ’, which literally means ‘if the agency of the act of illumination belongs to the object’. The form of the Sanskrit clearly induces the notion that inert entities possess ‘agency’ as if they were sentient, hence the following discussion.
 
 
 *[p. 317]* ^pg336
 
-etc. (A cloth differs from it. It does not assume the form (of a jar with its) large round base and the rest even if (a jar) is present (near it)).[^59] (Your view) would entail (this same) fallacy which is hard to remedy, namely, that one thing assumes the nature of something else. Now (if) the entity (perceived) is the object of the act of illumination (prakāśanakriyā), then, inactive, it does not cause (that to take place), for an action arises when it is caused to do so. Thus, it is established (siddha) that ‘cognition causes the object[^60] to shine’. The operation of the relationship between the impeller and the impelled (prayojyaprayojaka-vyāpārabhāva) is characterized as the behaviour (ācarana) of that which is capable of (impelling) that, and differs from (the impelled, which is, for example,) the act of sending \[illegible\] solicitation of instruction (adhyeṣaṇa) and the like. Moreover, in this way, because the operation (vyāpāra) of the impeller is established in the activity of the impelled, the object (artha) that is manifesting (lit. ‘shining’) shines by virtue of the cognition (of it). 
+etc. (A cloth differs from it. It does not assume the form (of a jar with its) large round base and the rest even if (a jar) is present (near it)).[^59] (Your view) would entail (this same) fallacy which is hard to remedy, namely, that one thing assumes the nature of something else. Now (if) the entity (perceived) is the object of the act of illumination (prakāśanakriyā), then, inactive, it does not cause (that to take place), for an action arises when it is caused to do so. Thus, it is established (siddha) that ‘cognition causes the object[^60] to shine’. The operation of the relationship between the impeller and the impelled (prayojyaprayojaka-vyāpārabhāva) is characterized as the behaviour (ācarana) of that which is capable of (impelling) that, and differs from (the impelled, which is, for example,) the act of sending (preṣaṇa), solicitation of instruction (adhyeṣaṇa) and the like. Moreover, in this way, because the operation (vyāpāra) of the impeller is established in the activity of the impelled, the object (artha) that is manifesting (lit. ‘shining’) shines by virtue of the cognition (of it). 
 
 (Our response to this analysis of the act of perception is) that it makes no sense, because the application of cognition is useless in the case of an entity that manifests by itself, independently of the activity of (anything that) impels it (to do so).[^61] 
 
@@ -1080,7 +1080,7 @@ Surely (the opponent may object that), if a metaphor is entirely false, how is i
 प्रकाशत्वोपचारे तु किं बीजं यत्र सत्यता ।
 
 \[illegible\] vahnyupacāre yad bījaṁ taikṣṇyādi tac ca sat ॥ 49 ॥
-prakāśatvopacāre tu kiṁ \[illegible\] yatra satyatā | 
+prakāśatvopacāre tu kiṁ bījaṁ yatra satyatā | 
 
 The reason (bīja) why he is metaphorically called ‘fiery’ is (his) liveliness and the like, which is a real (reason). But (if something is unmanifest,) what could be a (similarly) real reason (bīja) for the metaphor (that ascribes to it) a luminous (manifest) state? (49cd-50ab) 
 
@@ -1107,7 +1107,7 @@ It is clear that a metaphor is logically possible (only) when (the subject of th
 
 #### Viveka on 10.50–52
 
-According to your view (as a Naiyāyika), there is no (conscious) unifier (of elements perceived separately). If it were to be sentient (cetana), that would be the Self or consciousness (caitanya) or cognition \[illegible\] (itself). Up to now (however, you have) failed to prove that the Self is sentient, insofar as you accept that it is in itself insentient, (and only) becomes so when associated with cognition (jñānayoge).[^74] (You account for the fact) that entities may be sentient 
+According to your view (as a Naiyāyika), there is no (conscious) unifier (of elements perceived separately). If it were to be sentient (cetana), that would be the Self or consciousness (caitanya) or cognition (jñāna) (itself). Up to now (however, you have) failed to prove that the Self is sentient, insofar as you accept that it is in itself insentient, (and only) becomes so when associated with cognition (jñānayoge).[^74] (You account for the fact) that entities may be sentient 
 
 [^73]: See above, 10/45.
 
@@ -1128,6 +1128,6 @@ Surely, (the Naiyāyika may rejoin,) we do not consider, as the Śāvara (Mīmā
 
 ‘(if you were to say that a cognition) is illumined by another (cognition), then the same argument would apply as before.’ 
 
-‘The same argument’ regards the manner in which the manifestation of an entity (should be explained). If an entity were to be made manifest by another cognition \[illegible\] then the relationship (between them) would be that between the instigated and the instigator, and that does exist (in this case) in some way, whether it be primary or secondary. (However,) the manifestation 
+‘The same argument’ regards the manner in which the manifestation of an entity (should be explained). If an entity were to be made manifest by another cognition (jñāna), then the relationship (between them) would be that between the instigated and the instigator, and that does exist (in this case) in some way, whether it be primary or secondary. (However,) the manifestation 
 
 [^75]: According to the Nyāya, consciousness is an inherent quality of perception, not the Self. The Self appears to be sentient in the course of perception; otherwise, not.

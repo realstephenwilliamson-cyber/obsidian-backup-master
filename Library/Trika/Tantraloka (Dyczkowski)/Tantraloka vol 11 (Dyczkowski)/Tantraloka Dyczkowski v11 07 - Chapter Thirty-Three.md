@@ -65,7 +65,7 @@ And much (more,) ending with:
 
 ‘The Great Lord, (all) powerful,[^424] who is (Himself) all the powers, unfolds in this way within (the one Wheel which is) all the Wheels (viśvacakra), until (He expands) into the Wheel of a Thousand Spokes[^425] or even within that of countless spokes.’[^426] 
 
-So now accordingly \[illegible\] he presents the varieties of wheels (cakrabheda).[^427] 
+So now accordingly (tāvat), he presents the varieties of wheels (cakrabheda).[^427] 
 
 ### TĀ 33.2
 
@@ -131,7 +131,7 @@ nandā bhadrā jayā kālī karālī vikṛtānanā ॥ 4 ॥
 kroṣtukī bhīmamudrā ca vāyuvegā hayānanā |
 gambhīrā ghoṣanī ceti caturvimśatyare vidhiḥ ॥ 5 ॥ 
 
-2\) The prescription for the (wheel) with twenty-four spokes (12 + 12) is that (the following goddess should be worshipped there. 2A) These are) the eight (Mothers) Māheśī, Brāhmaṇī, Skāndī, Vaiṣṇavī, Aindrī, Yamātmikā, Cāmuṇdā and Yogīśī;[^432] or else (one may worship) Aghorā[^433] and the rest along with the four Mothers of the southeast, southwest, northwest and northeast.[^434] 2B) (They are) accompanied by the twelve (goddesses) Nandā, Bhadrā (Auspicious), Jayā (Victory), \[illegible\] Karāīọ (Fierce 
+2\) The prescription for the (wheel) with twenty-four spokes (12 + 12) is that (the following goddess should be worshipped there. 2A) These are) the eight (Mothers) Māheśī, Brāhmaṇī, Skāndī, Vaiṣṇavī, Aindrī, Yamātmikā, Cāmuṇdā and Yogīśī;[^432] or else (one may worship) Aghorā[^433] and the rest along with the four Mothers of the southeast, southwest, northwest and northeast.[^434] 2B) (They are) accompanied by the twelve (goddesses) Nandā, Bhadrā (Auspicious), Jayā (Victory), Kālī, Karāīọ (Fierce 
 
 Teeth), 
 
@@ -328,7 +328,7 @@ sujayajayarudrakīrtanāvahakāḥ ॥ 14 ॥
 tanmūrtyutsāhadava- 
 
 rdhanāś ca balasubalabhadradāvahakāḥ |
-tadvān dātā \[illegible\] 
+tadvān dātā ceśo 
 
 nandanasamabhadratanmūrtiḥ | 15 ॥
 sivadasumanahspṁaṇnakā 
@@ -348,7 +348,7 @@ laviśvasuśivās tathāparaḥ kopaḥ ॥ 16 ॥
 
 strīpāthāc chaktyas tv etāḥ | 
 
-Jaya, Vijaya, Jayānta, Ajita, Sujaya, Jaya, Rudra, Kīrtana, Āvaha, and its Mūrti, Utsāhada, and Vardhana, Bala, Subala, Bhadrada, Āvahaka, Tadvān, Dātā, Īśa, Nandana, Samabhadra, \[illegible\] Śivada, Sumanah, Spṁaṇaka, Durga, Kāla, called Bhadra, Ceto’nuga, Kauśika, Kāla, Viśva, Suśiva, and after them, Kopa.[^455] These are (Bhairavas) on (the wheel) with thirty-four spokes. By reading (their names) in the feminine, these are 
+Jaya, Vijaya, Jayānta, Ajita, Sujaya, Jaya, Rudra, Kīrtana, Āvaha, and its Mūrti, Utsāhada, and Vardhana, Bala, Subala, Bhadrada, Āvahaka, Tadvān, Dātā, Īśa, Nandana, Samabhadra, Tanmūrti, Śivada, Sumanah, Spṁaṇaka, Durga, Kāla, called Bhadra, Ceto’nuga, Kauśika, Kāla, Viśva, Suśiva, and after them, Kopa.[^455] These are (Bhairavas) on (the wheel) with thirty-four spokes. By reading (their names) in the feminine, these are 
 
 (their) powers.[^456] (14cd-17ab) 
 
@@ -479,12 +479,12 @@ mind, he says that (her) ‘essential nature is the arousal (into manifestation 
 
 tathāntahsthaparāmarśabhedane vastutas trikam |
 anuttarecchonmeṣākhyari yato viśvaṁi vimarśanam || 22 ॥
-ānandeśormiyoge tu tat \[illegible\] samudāhṛtam |
+ānandeśormiyoge tu tat ṣaṭkaṁ samudāhṛtam |
 antahsthoṣmasamāyogāt tad aṣtakam udāhṛtam ॥ 23 ॥
 tadāmṛtacatuṣkonabhāve dvādaśakaṁ bhavet |
 tadyoge ṣodaśākhyaṁ syād evańi yāvad asaikhyatā ॥ 24 ॥ 
 
-When the inner reflective awareness (of consciousness) is split upin that way, in actual fact it is the triad (frika) called Anuttara (A), Wil \[illegible\] and Unfolding (U), from which all reflective awareness proceeds. When (this triad) is conjoined with Bliss \[illegible\] Dominion (Ï) and the Wave (of unfolding consciousness) \[illegible\] that is said to be the group of six. By conjunction with the semi-vowels and sibilants, that is called the group of eight. Then it is the group of twelve when (the vowels are) without the group of four (called) nectar, and when they are conjoined with them, it is (the wheel of) sixteen. (The units of phonemic awareness increase) in this way until (they become) numberless. (22-24) 
+When the inner reflective awareness (of consciousness) is split upin that way, in actual fact it is the triad (frika) called Anuttara (A), Wil \[illegible\] and Unfolding (U), from which all reflective awareness proceeds. When (this triad) is conjoined with Bliss (Ā), Dominion (Ï) and the Wave (of unfolding consciousness) (Ū), that is said to be the group of six. By conjunction with the semi-vowels and sibilants, that is called the group of eight. Then it is the group of twelve when (the vowels are) without the group of four (called) nectar, and when they are conjoined with them, it is (the wheel of) sixteen. (The units of phonemic awareness increase) in this way until (they become) numberless. (22-24) 
 
 #### Viveka on 33.22–24
 
@@ -492,7 +492,7 @@ When the reflective awareness of ‘T’, that abides at one with the perceiver 
 
 [^464]: 
 
-[^465]: See, for example, above 3/185ab (184cd): ‘Just the group of six vowels (A, Ā, I, Ī, U and \[illegible\] alone are the root (of all the others) in the series of letters.
+[^465]: See, for example, above 3/185ab (184cd): ‘Just the group of six vowels (A, Ā, I, Ī, U and Ū) alone are the root (of all the others) in the series of letters.
 
 
 *[p. 180]* ^pg198
@@ -515,7 +515,7 @@ ataḥ pañcāśadaikātmyaṁ svaravyaktivirūpatā |
 vargāṣṭakaṁi varnabheda ekāśītikalodayaḥ ॥ 26 ॥
 iti pradarśitaṁh pūrvam ....... 
 
-(Consciousness) clearly tolerates (and bears) the universe (within itself) by bearing (it all) initially in a single act of awareness, and (then progressively more,) until it finally bears (countless) partial \[illegible\] acts of awareness, and so (in various contexts it presents itself) as the oneness of the fifty (phonemes together), the (pluriform) variety of vowels and manifestations, the group of eight classes (of phonemes), the division of (all the fifty) phonemes (one by one), and the emergence of the eighty-one fragments (kala), as has been explained previously. (25-27a) 
+(Consciousness) clearly tolerates (and bears) the universe (within itself) by bearing (it all) initially in a single act of awareness, and (then progressively more,) until it finally bears (countless) partial (aṁśāṁśika) acts of awareness, and so (in various contexts it presents itself) as the oneness of the fifty (phonemes together), the (pluriform) variety of vowels and manifestations, the group of eight classes (of phonemes), the division of (all the fifty) phonemes (one by one), and the emergence of the eighty-one fragments (kala), as has been explained previously. (25-27a) 
 
 #### Viveka on 33.25–27
 
@@ -608,7 +608,7 @@ Parā, Parāparā[^472] and the other one (i.e. Aparā) (correspond to) emission
 
 *[p. 183]* ^pg201
 
-‘The other’ is Aparā. ‘Obscuration’ \[illegible\] (here means) withdrawal (sahhāra). 
+‘The other’ is Aparā. ‘Obscuration’ (tirodhi) (here means) withdrawal (sahhāra). 
 
 Surely (one may ask), if the fourth one alone is the place of rest (of the other phases of the cycle within consciousness), then how is it that it has not been taught, having analysed (it in detail and distinguished it clearly from the other phases)? With this doubt in mind, he says: 
 

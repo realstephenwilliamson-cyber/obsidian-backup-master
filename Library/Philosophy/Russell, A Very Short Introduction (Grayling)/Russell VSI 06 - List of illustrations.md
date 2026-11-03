@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 6
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-page_range: "9–10"
+page_range: "xii"
 pdf_pages: "13–15"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Russell VSI 05 - Abbreviations|← previous]] · [[Russell, A Very Short Introduction (Grayling)|contents]] · [[Russell VSI 07 - Life and work|next →]]
 
-*[p. 9]* ^pg13
+*[p. xii]* ^pg13
 
 ## List of illustrations
 
@@ -58,7 +58,7 @@ Poster in support of Russell in the Wimbledon by-election of 1907 87 William Rea
 
 Russell receiving a Nobel Prize in 1950 96 © Bettmann/Corbis
 
-*[p. 10]* ^pg14
+*[PDF 14]* ^pg14
 
 Bullying at Beacon Hill School 107 © FPG/Telegraph Colour Library
 

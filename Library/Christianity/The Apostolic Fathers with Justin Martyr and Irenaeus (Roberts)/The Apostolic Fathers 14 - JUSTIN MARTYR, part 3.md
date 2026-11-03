@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 14
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 1990–357
+page_range: 320–357
 pdf_pages: 360–397
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 13 - JUSTIN MARTYR, part 2|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 15 - JUSTIN MARTYR, part 4|next →]]
 
-*[p. 1990]* ^pg360
+*[p. 320]* ^pg360
 
 #### Chapter XVII.—The Jews sent persons through the whole earth to spread calumnies on Christians.
 
@@ -38,7 +38,7 @@ Isa. v. 18, 20.
 
 This and following quotation taken promiscuously from Matt. xxiii. and Luke xi.
 
-*[p. 1991]* ^pg361
+*[p. 321]* ^pg361
 
 #### Chapter XVIII.—Christians would observe the law, if they did not know why it was instituted.
 
@@ -52,7 +52,7 @@ This and following quotation taken promiscuously from Matt. xxiii. and Luke xi.
 
 204 Hos. i. and Hos. ii.
 
-*[PDF 362]* ^pg362
+*[p. 322]* ^pg362
 
 men already mentioned, though they kept no Sabbaths,<sup>1992</sup> were pleasing to God; and after them Abraham with all his descendants until Moses, under whom your nation appeared unrighteous and ungrateful to God, making a calf in the wilderness: wherefore God, accommodating Himself to that nation, enjoined them also to offer sacrifices, as if to His name, in order that you might not serve idols. Which precept, however, you have not observed; nay, you sacrificed your children to demons. And you were commanded to keep Sabbaths, that you might retain the memorial of God. For His word makes this announcement, saying, ‘That ye may know that I am God who redeemed you.’<sup>1993</sup>
 
@@ -82,7 +82,7 @@ mean “which ought to be cast out:” the above was suggested by H. Stephanus.
 
 ἄὸικος καὶ παράνομος.
 
-*[PDF 363]* ^pg363
+*[p. 323]* ^pg363
 
 though you were eating manna in the desert, and were seeing all those wondrous acts wrought for you by God, you made and worshipped the golden calf.<sup>1998</sup> Hence he cries continually, and justly, ‘They are foolish children, in whom is no faith.’<sup>1999</sup>
 
@@ -96,7 +96,7 @@ though you were eating manna in the desert, and were seeing all those wondrous a
 
 205 “The reasoning of St. Justin is not quite clear to interpreters. As we abstain from some herbs, not because they are forbidden 1998 by law, but because they are deadly; so the law of abstinence from improper and violent animals was imposed not on Noah, but on you as a yoke on account of your sins.”—Maranus. Deut. xxxii. 6, 20. 1999 Ezek. xx. 19–26.
 
-*[PDF 364]* ^pg364
+*[p. 324]* ^pg364
 
 desire the day of the Lord! to what end is this day of the Lord for you? It is darkness and not light, as when a man flees from the face of a lion, and a bear meets him; and he goes into his house, and leans his hands against the wall, and the serpent bites him. Shall not the day of the Lord be darkness and not light, even very dark, and no brightness in it? I have hated, I have despised your feast-days, and I will not smell in your solemn assemblies: wherefore, though ye offer Me your burnt-offerings and sacrifices, I will not accept them; neither will I regard the peace-offerings of your presence. Take thou away from Me the multitude of thy songs and psalms; I will not hear thine instruments. But let judgment be rolled down as water, and righteousness as an impassable torrent. Have ye offered unto Me victims and sacrifices in the wilderness, O house of Israel? saith the Lord. And have ye taken up the tabernacle of Moloch, and the star of your god Raphan, the figures which ye made for yourselves? And I will carry you away beyond Damascus, saith the Lord, whose name is the Almighty God. Woe to them that are at ease in Zion, and trust in the mountain of Samaria: those who are named among the chiefs have plucked away the first-fruits of the nations: the house of Israel have entered for themselves. Pass all of you unto Calneh, and see; and from thence go ye unto Hamath the great, and go down thence to Gath of the strangers, the noblest of all these kingdoms, if their boundaries are greater than your boundaries. Ye who come to the evil day, who are approaching, and who hold to false Sabbaths; who lie on beds of ivory, and are at ease upon their couches; who eat the lambs out of the flock, and the sucking calves out of the midst of the herd; who applaud at the sound of the musical instruments; they reckon them as stable, and not as fleeting, who drink wine in bowls, and anoint themselves with the chief ointments, but they are not grieved for the affliction of Joseph. Wherefore now they shall be captives, among the first of the nobles who are carried away; and the house of evil-doers shall be removed, and the neighing of horses shall be taken away from Ephraim.’<sup>2001</sup> And again by Jeremiah: ‘Collect your flesh, and sacrifices, and eat: for concerning neither sacrifices nor libations did I command your fathers in the day in which I took them by the hand to lead them out of Egypt.’<sup>2002</sup> And again by David, in the forty-ninth Psalm, He thus said: ‘The God of gods, the Lord hath spoken, and called the earth, from the rising of the sun unto the going down thereof. Out of Zion is the perfection of His beauty. God, even our God, shall come openly, and shall not keep silence. Fire shall burn before Him, and it shall be very tempestuous round about Him. He shall call to the heavens above, and to the earth, that He may judge His people. Assemble to Him His saints; those that have made a covenant with Him by sacrifices. And the heavens shall declare His righteousness, for God is judge. Hear, O My people, and I will speak to thee; O Israel, and I will testify to thee, I am God, even thy God. I will not reprove thee for thy sacrifices; thy burnt-offerings are continually before me. I will take no bullocks out of thy house, nor he-goats out of thy folds: for all the beasts of the field are Mine, the herds and the oxen on the mountains. I know all the fowls of the heavens, and the beauty of the field is Mine. If I were hungry, I would not tell thee; for the world is Mine, and the fulness thereof.
 
@@ -106,7 +106,7 @@ Amos v. 18 to end, Amos vi. 1–7.
 
 Jer. vii. 21 f.
 
-*[PDF 365]* ^pg365
+*[p. 325]* ^pg365
 
 Will I eat the flesh of bulls, or drink the blood of goats? Offer unto God the sacrifice of praise, and pay thy vows unto the Most High, and call upon Me in the day of trouble, and I will deliver thee, and thou shalt glorify Me. But unto the wicked God saith, What hast thou to do to declare My statutes, and to take My covenant into thy mouth? But thou hast hated instruction, and cast My words behind thee. When thou sawest a thief, thou consentedst with him; and hast been partaker with the adulterer. Thy mouth has framed evil, and thy tongue has enfolded deceit. Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son. These things hast thou done, and I kept silence; thou thoughtest that I would be like thyself in wickedness. I will reprove thee, and set thy sins in order before thine eyes. Now consider this, ye that forget God, lest He tear you in pieces, and there be none to deliver. The sacrifice of praise shall glorify Me; and there is the way in which I shall show him My salvation.’<sup>2003</sup> Accordingly He neither takes sacrifices from you nor commanded them at first to be offered because they are needful to Him, but because of your 206
 
@@ -126,7 +126,7 @@ Isa. lxvi. 1.
 
 The man he met by the sea-shore.
 
-*[PDF 366]* ^pg366
+*[p. 326]* ^pg366
 
 the Scripture tells. Moreover, the Scriptures and the facts themselves compel us to admit that He received circumcision for a sign, and not for righteousness. So that it was justly recorded concerning the people, that the soul which shall not be circumcised on the eighth day shall be cut off from his family. And, furthermore, the inability of the female sex to receive fleshly circumcision, proves that this circumcision has been given for a sign, and not for a work of righteousness. For God has given likewise to women the ability to observe all things which are righteous and virtuous; but we see that the bodily form of the male has been made different from the bodily form of the female; yet we know that neither of them is righteous or unrighteous merely for this cause, but \[is considered righteous\] by reason of piety and righteousness.
 
@@ -152,7 +152,7 @@ Isa. lxv. 1–3.
 
 Other edd. have, “with us.”
 
-*[PDF 367]* ^pg367
+*[p. 327]* ^pg367
 
 cries, speaking thus while he personates them: ‘Return from heaven, and behold from the habitation of Thy holiness and glory. Where is Thy zeal and strength? Where is the multitude of Thy mercy? for Thou hast sustained us, O Lord. For Thou art our Father, because Abraham is ignorant of us, and Israel has not recognised us. But Thou, O Lord, our Father, deliver us: from the beginning Thy name is upon us. O Lord, why hast Thou made us to err from Thy way? and hardened our hearts, so that we do not fear Thee? Return for Thy servants’ sake, the tribes of Thine inheritance, 207
 
@@ -174,7 +174,7 @@ Some suppose the correct reading to be, “our glorious *institutions* \[manners
 
 Isa. lxiii. 15 to end, and Isa. lxiv.
 
-*[PDF 368]* ^pg368
+*[p. 328]* ^pg368
 
 although they neither keep the Sabbath, nor are circumcised, nor observe the feasts. Assuredly they shall receive the holy inheritance of God. For God speaks by Isaiah thus: ‘I, the Lord God, have called Thee in righteousness, and will hold Thine hand, and will strengthen Thee; and I have given Thee for a covenant of the people, for a light of the Gentiles, to open the eyes of the blind, to bring out them that are bound from the chains, and those who sit in darkness from the prison-house.’<sup>2013</sup> And again: ‘Lift up a standard<sup>2014</sup> for the people; for, lo, the Lord has made it heard unto the end of the earth. Say ye to the daughters of Zion, Behold, thy Saviour has come; having His reward, and His work before His face: and He shall call it a holy nation, redeemed by the Lord. And thou shalt be called a city sought out, and not forsaken. Who is this that cometh from Edom? in red garments from Bosor? This that is beautiful in apparel, going up with great strength? I speak righteousness, and the judgment of salvation. Why are Thy garments red, and Thine apparel as from the trodden wine-press? Thou art full of the trodden grape. I have trodden the wine-press all alone, and of the people there is no man with Me; and I have trampled them in fury, and crushed them to the ground, and spilled their blood on the earth. For the day of retribution has come upon them, and the year of redemption is present. And I looked, and there was none to help; and I considered, and none assisted: and My arm delivered; and My fury came on them, and I trampled them in My fury, and spilled their blood on the earth.’ ”<sup>2015</sup>
 
@@ -186,7 +186,7 @@ And I replied, “I have passed them by, my friends, not because such prophecies
 
 208 Isa. xlii. 6, 7. 2013 συσσεισμόν, “a shaking,” is the original reading; but LXX has σύσσημον, a standard or signal, and this most edd. adopt. 2014 Isa. lxii. 10 to end, Isa. lxiii. 1–6. 2015
 
-*[PDF 369]* ^pg369
+*[p. 329]* ^pg369
 
 children to demons, nor be partakers with thieves, nor lovers of gifts, nor hunters after revenge, nor fail in doing judgment for orphans, nor be inattentive to the justice due to the widow nor have your hands full of blood. ‘For the daughters of Zion have walked with a high neck, both sporting by winking with their eyes, and sweeping along their dresses.<sup>2017</sup> For they are all gone aside,’ He exclaims, ‘they are all become useless. There is none that understands, there is not so much as one. With their tongues they have practised deceit, their throat is an open sepulchre, the poison of asps is under their lips, destruction and misery are in their paths, and the way of peace they have not known.’<sup>2018</sup> So that, as in the beginning, these things were enjoined you because of your wickedness, in like manner because of your stedfastness in it, or rather your increased proneness to it, by means of the same precepts He calls you to a remembrance or knowledge of it. But you are a people hard-hearted and without understanding, both blind and lame, children in whom is no faith, as He Himself says, honouring Him only with your lips, far from Him in your hearts, teaching doctrines that are your own and not His. For, tell me, did God wish the priests to sin when they offer the sacrifices on the Sabbaths? or those to sin, who are circumcised and do circumcise on the Sabbaths; since He commands that on the eighth day—even though it happen to be a Sabbath— those who are born shall be always circumcised? or could not the infants be operated upon one day previous or one day subsequent to the Sabbath, if He knew that it is a sinful act upon the Sabbaths? Or why did He not teach those—who are called righteous and pleasing to Him, who lived before Moses and Abraham, who were not circumcised in their foreskin, and observed no Sabbaths—to keep these institutions?”
 
@@ -206,7 +206,7 @@ Various passages strung together; comp. [[Romans 03#^3-10|Rom. iii. 10]], and fo
 
 Jer. iv. 3.
 
-*[PDF 370]* ^pg370
+*[p. 330]* ^pg370
 
 ground, good, good and fat, is in your hearts. ‘For, behold, the days come, saith the Lord, that I will visit all them that are circumcised in their foreskins; Egypt, and Judah,<sup>2020</sup> and Edom, and the sons of Moab. For all the nations are uncircumcised, and all the house of Israel are uncircumcised in their hearts.’<sup>2021</sup> Do you see how that God does not mean this circumcision which is given for a sign? For it is of no use to the Egyptians, or the sons of Moab, or the sons of Edom. But though a man be a Scythian or a Persian, if he has the knowledge of God and of His Christ, and keeps the everlasting righteous decrees, he is circumcised with the good and useful circumcision, and is a friend of God, and God rejoices in his gifts and offerings. But I will lay before you, my friends, the very words of God, when He said to the people by Malachi, one of the twelve prophets, ‘I have no pleasure in you, saith the Lord; and I shall not accept your sacrifices at your hands: for from the rising of the sun unto its setting My name shall be glorified among the Gentiles; and in every place a sacrifice is offered unto My name, even a pure sacrifice: for My name is honoured among the Gentiles, saith the Lord; but ye profane it.’<sup>2022</sup> And by David He said, ‘A people whom I have not known, served Me; at the hearing of the ear they obeyed Me.’<sup>2023</sup>
 
@@ -216,7 +216,7 @@ ground, good, good and fat, is in your hearts. ‘For, behold, the days come, sa
 
 209 So in A.V., but supposed to be Idumæa. 2020 Jer. ix. 25 f. 2021 Mal. i. 10, etc. 2022 Ps. xviii. 43. 2023 \[This striking claim of the Old Testament Scriptures is noteworthy.\]
 
-*[PDF 371]* ^pg371
+*[p. 331]* ^pg371
 
 #### Chapter XXX.—Christians possess the true righteousness.
 
@@ -230,7 +230,7 @@ Or, “repentance of the Father;” πατρός for πνεύματος. Maranus
 
 between the contractions for the words, πρς and πνς.
 
-*[PDF 372]* ^pg372
+*[p. 332]* ^pg372
 
 beasts until a season and time. I saw in the vision of the night, and, behold, one like the Son of man coming with the clouds of heaven; and He came to the Ancient of days, and stood before Him. And they who stood by brought Him near; and there were given Him power and kingly honour, and all nations of the earth by their families, and all glory, serve Him. And His dominion is an everlasting dominion, which shall not be taken away; and His kingdom shall not be destroyed. And my spirit was chilled within my frame, and the visions of my head troubled me. I came near unto one of them that stood by, and inquired the precise meaning of all these things. In answer he speaks to me, and showed me the judgment of the matters: These great beasts are four kingdoms, which shall perish from the earth, and shall not receive dominion for ever, even for ever and ever. Then I wished to know exactly about the fourth beast, which destroyed all \[the others\] and was very terrible, its teeth of iron, and its nails of brass; which devoured, made waste, and stamped the residue with its feet: also about the ten horns upon its head, and of the one which came up, by means of which three of the former fell. And that horn had eyes, and a mouth speaking great things; and its countenance excelled the rest. And I beheld that horn waging war against the saints, and prevailing against them, until the Ancient of days came; and He gave judgment for the saints of the Most High. And the time came, and the saints of the Most High possessed the kingdom. And it was told me concerning 210
 
@@ -246,7 +246,7 @@ Literally, “And the ten horns, ten kings shall arise after them.”
 
 Dan. vii. 9–28.
 
-*[PDF 373]* ^pg373
+*[p. 333]* ^pg373
 
 so-called Christ of yours was dishonourable and inglorious, so much so that the last curse contained in the law of God fell on him, for he was crucified.”
 
@@ -256,7 +256,7 @@ Isa. xxix. 14.
 
 2029
 
-*[PDF 374]* ^pg374
+*[p. 334]* ^pg374
 
 crushed kings in the day of His wrath: He shall judge among the heathen, He shall fill \[with\] the dead bodies.<sup>2031</sup> He shall drink of the brook in the way; therefore shall He lift up the head.’
 
@@ -278,13 +278,13 @@ transcriber’s fault.
 
 πεπήρωνται. Maranus thinks πεπώρωνται more probable, “hardened.”
 
-*[PDF 375]* ^pg375
+*[p. 335]* ^pg375
 
 King, i.e., to Christ. For Christ is King, and Priest, and God, and Lord, and angel, and man, and captain, and stone, and a Son born, and first made subject to suffering, then returning to heaven, and again coming with glory, and He is preached as having the everlasting kingdom: so I prove from all the Scriptures. But that you may perceive what I have said, I quote the words of the Psalm; they are these: ‘O God, give Thy judgment to the king, and Thy righteousness unto the king’s son, to judge Thy people with righteousness, and Thy poor with judgment. The mountains shall take up peace to the people, and the little hills righteousness. He shall judge the poor of the people, and shall save the children of the needy, and shall abase the slanderer. He shall co-endure with the sun, and before the moon unto all generations. He shall come down like rain upon the fleece, as drops falling on the earth. In His days shall righteousness flourish, and abundance of peace until the moon be taken away. And He shall have dominion from sea to sea, and from the rivers unto the ends of the earth. Ethiopians shall fall down before Him, and His enemies shall lick the dust. The kings of Tarshish and the isles shall offer gifts; the kings of Arabia and Seba shall offer gifts; and all the kings of the earth shall worship Him, and all the nations shall serve Him: for He has delivered the poor from the man of power, and the needy that hath no helper. He shall spare the poor and needy, and shall save the souls of the needy: He shall redeem their souls from usury and injustice, and His name shall be honourable before them. And He shall live, and to Him shall be given of the gold of Arabia, and they shall pray continually for Him: they shall bless Him all the day. And there shall be a foundation on the earth, it shall be exalted on the tops of the mountains: His fruit shall be on Lebanon, and they of the city shall flourish like grass of the earth. His name shall be blessed for ever. His name shall endure before the sun; and all tribes of the earth shall be blessed in Him, all nations shall call Him blessed. Blessed be the Lord, the God of Israel, who only doeth wondrous things; and blessed be His glorious name for ever, and for ever and ever; and the whole earth shall be filled with His glory. Amen, amen.’<sup>2033</sup> And at the close of this Psalm which I have quoted, it is written, ‘The hymns of David the son of Jesse are ended.’<sup>2034</sup> Moreover, that Solomon was a renowned and great king, by whom the temple called that at Jerusalem was built, I know; but that none of those things mentioned in the Psalm happened to him, is evident. For neither did all kings worship him; nor did he reign to the ends of the earth; nor did his enemies, falling before him, lick the dust. Nay, also, I venture to repeat what is written in the book of Kings as committed by him, how through a woman’s influence he worshipped the idols of Sidon, which those of the Gentiles who know God, the Maker of all things through Jesus the crucified, do not venture to do, but abide every torture and vengeance even to the extremity of death, rather than worship idols, or eat meat offered to idols.”
 
 212 Ps. lxxii. 2033 \[A striking passage in De Maistre (*Œuvres*, vol. vi. p. 275) is worthy of comparison.\]
 
-*[PDF 376]* ^pg376
+*[p. 336]* ^pg376
 
 #### Chapter XXXV.—Heretics confirm the Catholics in the faith.
 
@@ -292,7 +292,7 @@ And Trypho said, “I believe, however, that many of those who say that they con
 
 [[Matthew 07#^7-15|Matt. vii. 15]]. 2035 [[1 Corinthians 11#^11-19|1 Cor. xi. 19]]. 2036 [[Matthew 07#^7-15|Matt. vii. 15]]. 2037
 
-*[PDF 377]* ^pg377
+*[p. 337]* ^pg377
 
 Jesus; but, believing on Him, may be saved in His second glorious advent, and may not be condemned to fire by Him.”
 
@@ -304,7 +304,7 @@ And I said, “As you wish, Trypho, I shall come to these proofs which you seek 
 
 213 Maranus remarks from Thirlby: “As Justin wrote a little before, ‘and is called Jacob in parable,’ it seems to convince us 2039 that Justin wrote, ‘thy face, O Jacob.’ ” \[The meaning in this latter case becomes plain, if we observe that “O Israel” is equivalent to, and means, “O house of Jacob:” an apostrophe to the Church of the ancient people.\]
 
-*[PDF 378]* ^pg378
+*[p. 338]* ^pg378
 
 #### Chapter XXXVII.—The same is proved from other Psalms.
 
@@ -322,7 +322,7 @@ Ps. xlvii. 5–9. \[The *diapsalm* is here used for what follows the “Selah.�
 
 2042
 
-*[PDF 379]* ^pg379
+*[p. 339]* ^pg379
 
 more paradoxical; but be not confounded, nay, rather remain still more zealous hearers and investigators, despising the tradition of your teachers, since they are convicted by the Holy Spirit of inability to perceive the truths taught by God, and of preferring to teach their own doctrines. Accordingly, in the forty-fourth \[forty-fifth\] Psalm, these words are in like manner referred to Christ: ‘My heart has brought forth a good matter;<sup>2044</sup> I tell my works to the King. My tongue is the pen of a ready writer. Fairer in beauty than the sons of men: grace is poured forth into Thy lips: therefore hath God blessed Thee for ever. Gird Thy sword upon Thy thigh, O mighty One. Press on in Thy fairness and in Thy beauty, and prosper and reign, because of truth, and of meekness, and of righteousness: and Thy right hand shall instruct Thee marvellously. Thine arrows are sharpened, O mighty One; the people shall fall under Thee; in the heart of the enemies of the King \[the arrows are fixed\]. Thy throne, O God, is for ever and ever: a sceptre of equity is the sceptre of Thy kingdom. Thou hast loved righteousness, and hast hated iniquity; therefore thy God<sup>2045</sup> hath anointed Thee with the oil of gladness above Thy fellows. \[He hath anointed Thee\] with myrrh,<sup>2046</sup> 214
 

@@ -203,7 +203,7 @@ trtiyam aṣtakoṣtastham 63c 382a 186c
 
 tair eva pañcabhis tattvam 46a tyaktena tu kusumbhena tyaktena naramāmṇmsena trikubjikutilākārā triśūlena vinirbhinnam trisamsthe tu samāsena trisandhyam dhārayed rātrau 
 
-*[p. 50]* ^pg161
+*[p. 150]* ^pg161
 
 The Vināśikhatantraæ 
 
@@ -433,7 +433,7 @@ llc
 
 ZIta śikhāsambhinnamūrdhāntam vidigdiksamsthakoṣtheṣu 55a 54c vidviṣtah sarvalokānām 173c śiraśchedaąam ca deveśa 4c vidviṣto drśyate loke 199a śirasāã bindubhinnena 342a vidveṣam tu prayacchanti 299c śivatattvam tu deveśi 60c vidveṣe °\`pi vilomais tu 228c śivatattvam nyasen mūrdhni 82c vidveṣe śleṣa śimgrumṇm ca 232a śivam dadyāt trtīyeṣu gle vidveṣoccãtanādini 27e śiviīikurvīta bindustham 372e vidhānam śakranāśam ca 193a śivībhūtas tu mantro vai 367c vidhir atra krame cāyam 376a śivenādhiṣthitam jñātvā 250a vinyasya karaṇān sākṣān 30lc śiṣyāṇām dantakāṣtham ca 20c vinyasya pūjām kurvīta 32c śiṣyāṇām āditah kuryāt l4a viṣṇor upari dīptena 340a śukreṇa sarvatobhadre 317a vīiṇāśikhāyāh sarvasvam 358c śuddhasphatikasamkāśam 143a vyādhighātasamidbhis tu śuṣkāṇi nimbapattrāṇi 
 
-*[p. 55]* ^pg166
+*[p. 155]* ^pg166
 
 Index of Half- Slokas 
 

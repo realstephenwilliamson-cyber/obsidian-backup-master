@@ -122,7 +122,7 @@ R. Ishmael said:
 
 § 651<sup>b</sup>
 
-I asked R.<sup>c</sup> Nehuniah ben HaQanah<sup>d</sup> one question about the name of the great seal and about the name of the fearsome crown. As for the name of the great seal,<sup>e</sup> thus I learned it from him:<sup>f</sup>ṠWRṪQ DR#GYNT #RK NZYR<sup>g</sup> ŠWRṪYN RDYDYH. This is the seal<sup>h</sup>by which heaven and earth were sealed.<sup>i</sup> The fearsome crown is<sup>j</sup> "ZBWGH "BGDHW ZHWZYH ZWHṠYH. This is the crown<sup>k</sup> by which they adjure all the princes of wisdom.
+I asked R.<sup>c</sup> Nehuniah ben HaQanah<sup>d</sup> one question about the name of the great seal and about the name of the fearsome crown. As for the name of the great seal,<sup>e</sup> thus I learned it from him:<sup>f</sup>ṠWRṪQ DR#GYNT \#RK NZYR<sup>g</sup> ŠWRṪYN RDYDYH. This is the seal<sup>h</sup>by which heaven and earth were sealed.<sup>i</sup> The fearsome crown is<sup>j</sup> "ZBWGH "BGDHW ZHWZYH ZWHṠYH. This is the crown<sup>k</sup> by which they adjure all the princes of wisdom.
 
 § 319/
 
@@ -482,7 +482,7 @@ j “and you shall not make the speech of my lips err.” O \] “and you shall 
 
 strengthened and made valiant,<sup>k</sup> and let the adjuration be made mighty, and let the name be in order<sup>l</sup> in my throat. Let no convulsion<sup>m</sup> seize me,<sup>n</sup> and do not let the foot of <sup>o</sup> your attendants<sup>p</sup> make me wander<sup>q</sup> so as to confound me and to make me fear and so as to make my hands slack.<sup>r</sup> And let me not be drowned in the fire and in the flame, in the tempest and the storm<sup>s</sup>,<sup>t</sup> that goes<sup>u</sup> with you, wondrous and elevated one.
 
-For thus is its explication: YW HY GG<sup>v</sup> HW HYH<sup>w</sup> #TRG HWZ YH MMS YGG HY HY ŠṠMS HY HW HYH.<sup>x</sup> From His anger the earth quakes and everything cannot endure<sup>y</sup> His ire,<sup>z</sup> blessed One and blest.
+For thus is its explication: YW HY GG<sup>v</sup> HW HYH<sup>w</sup> \#TRG HWZ YH MMS YGG HY HY ŠṠMS HY HW HYH.<sup>x</sup> From His anger the earth quakes and everything cannot endure<sup>y</sup> His ire,<sup>z</sup> blessed One and blest.
 
 His fourteen names
 
@@ -548,7 +548,7 @@ And four of them are engraved on the heads of the living creatures, and these ar
 
 The next four names
 
-And four[^a-p360] of them are engraved on the four winds[^b-p360] of the throne,[^c-p360] and these are: NHY PRD GHW ZYZ H{W}YH Holy One of the holy ones of [^d-p360] the holy ones.[^e-p360] PPG NN #QMH YH; Magnificent One of [^f-p360] the magnificent ones of [^g-p360] the magnificent ones;[^h-p360] SSBR ṪYL "WZYH God of the gods of the gods; "T KN #TQR PNGYH King of the Kings of Kings.
+And four[^a-p360] of them are engraved on the four winds[^b-p360] of the throne,[^c-p360] and these are: NHY PRD GHW ZYZ H{W}YH Holy One of the holy ones of [^d-p360] the holy ones.[^e-p360] PPG NN \#QMH YH; Magnificent One of [^f-p360] the magnificent ones of [^g-p360] the magnificent ones;[^h-p360] SSBR ṪYL "WZYH God of the gods of the gods; "T KN \#TQR PNGYH King of the Kings of Kings.
 
 § 631
 
@@ -595,7 +595,7 @@ Invocation by the five chosen names
 
 § 635
 
-I<sup>a</sup> call you by the five chosen names that are among your names,<sup>b</sup> above which you have none except one, and this is their explication:<sup>c</sup> SNNQ ṠNYH RTYH "L<sup>d</sup> YH #T<sup>e</sup>ṠNYSS ḢW HW HYH<sup>f</sup> "L<sup>g</sup> YH BHWRDGHW #ŠMŠ ŠHYH "LWH<sup>h</sup> PṪNWQ ṠHW SS#N YH W"HH "L<sup>i</sup> YH "ZHNK PṪPṪDY HWH YHWH YH "L<sup>j</sup> YH.
+I<sup>a</sup> call you by the five chosen names that are among your names,<sup>b</sup> above which you have none except one, and this is their explication:<sup>c</sup> SNNQ ṠNYH RTYH "L<sup>d</sup> YH \#T<sup>e</sup>ṠNYSS ḢW HW HYH<sup>f</sup> "L<sup>g</sup> YH BHWRDGHW \#ŠMŠ ŠHYH "LWH<sup>h</sup> PṪNWQ ṠHW SS#N YH W"HH "L<sup>i</sup> YH "ZHNK PṪPṪDY HWH YHWH YH "L<sup>j</sup> YH.
 
 § 636
 
@@ -803,13 +803,13 @@ A description of the Youth
 
 He is the prince, the Prince of the Presence, and all the attending angels stand <sup>31</sup>before him. This is the great prince, he is prince over all the princes and prince over *the myriads* <sup>32</sup>and *the thousands of ŠN"N*, (Ps 68:18), and he stands before Him who is exalted above everything.<sup>f</sup>
 
-His stature is three <sup>33</sup>thousand myriad parasangs and they call him “Youth.” The crown that is on his head is five <sup>34</sup>hundred thousand parasangs by five hundred thousand parasangs. “Israel” is its name. The precious stone that is between <sup>35</sup>its horns is three hundred thousand parasangs by three hundred thousand parasangs.<sup>g</sup> #M"Y L"Y ŠM"H.<sup>h</sup> <sup>36</sup>His body resembles the rainbow and the rainbow resembles every *appearance of fire enclosed all around* (Ezek 1:27).
+His stature is three <sup>33</sup>thousand myriad parasangs and they call him “Youth.” The crown that is on his head is five <sup>34</sup>hundred thousand parasangs by five hundred thousand parasangs. “Israel” is its name. The precious stone that is between <sup>35</sup>its horns is three hundred thousand parasangs by three hundred thousand parasangs.<sup>g</sup> \#M"Y L"Y ŠM"H.<sup>h</sup> <sup>36</sup>His body resembles the rainbow and the rainbow resembles every *appearance of fire enclosed all around* (Ezek 1:27).
 
 The angelic liturgy of the Youth, continued
 
 And the angels <sup>37</sup>who are with him come and surround the throne of glory. They are on one side, and the living creatures are on the other <sup>38</sup>side, and the Shekhinah is in the middle. One living creature ascends above the
 
-f Note the interesting variant “and he stands before Him who is exalted over all the gods above on high” (*w#wmd lpny my šnt#lh #l kl "lhym m#lh lmrwm*) in § 397 and parallels. Angels are not normally called “gods” in the Hekhalot literature, although this is a common usage g For a similar crown on God’s
+f Note the interesting variant “and he stands before Him who is exalted over all the gods above on high” (*w#wmd lpny my šnt#lh \#l kl "lhym m#lh lmrwm*) in § 397 and parallels. Angels are not normally called “gods” in the Hekhalot literature, although this is a common usage g For a similar crown on God’s
 
 in the Qumran literature (see Davila, *Liturgical Works*, 101).
 

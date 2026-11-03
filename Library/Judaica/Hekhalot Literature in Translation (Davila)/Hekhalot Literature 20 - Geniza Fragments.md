@@ -107,7 +107,7 @@ You are exalted, You are lifted up, You are selected, You are lauded, You are ps
 
 [^b]: The reading “for Your little ones” is very
 [^a]: Reading *tthll* for *tthln* in the manuscript. uncertain.
-[^c]: This section is parallel to the Aramaic and Hebrew passage in § 501 N O (//§ 542 M22) which reads in O: “I inquire, I adjure you, Prince of the Presence, in the name of YH YHWH of Hosts, in the name of " ṪBḢ "H YHWH of Hosts, and in the name of Prince YH YHWH of Hosts, and in the name of God ("L) {TYQRWN} TYQRTYN YHWH God of Hosts, and in the name of "KT{D}RY"L YWY God of Israel, who seals upon the crown and explicates on the throne: "KWRSṪYH " ṪṪYH NṪṪYH NṪṪYH YṪṪYH " Ṫ" Ṫ " ṪYYH, that you send me #ZRY"L the angel on this night. Fast for three days and their nights and say (it) seventy times in purity and in holiness. And he speaks with you mouth to mouth. To release him: I adjure you, #ZRY"L the angel, *⟨⟨*in the name of*⟩⟩* (with N M22) Michael and in the name of HDRY"L that you depart in peace and you do not harm me.” The other manuscripts contain minor variants in the text and many variants in the names. § 276
+[^c]: This section is parallel to the Aramaic and Hebrew passage in § 501 N O (//§ 542 M22) which reads in O: “I inquire, I adjure you, Prince of the Presence, in the name of YH YHWH of Hosts, in the name of " ṪBḢ "H YHWH of Hosts, and in the name of Prince YH YHWH of Hosts, and in the name of God ("L) {TYQRWN} TYQRTYN YHWH God of Hosts, and in the name of "KT{D}RY"L YWY God of Israel, who seals upon the crown and explicates on the throne: "KWRSṪYH " ṪṪYH NṪṪYH NṪṪYH YṪṪYH " Ṫ" Ṫ " ṪYYH, that you send me \#ZRY"L the angel on this night. Fast for three days and their nights and say (it) seventy times in purity and in holiness. And he speaks with you mouth to mouth. To release him: I adjure you, \#ZRY"L the angel, *⟨⟨*in the name of*⟩⟩* (with N M22) Michael and in the name of HDRY"L that you depart in peace and you do not harm me.” The other manuscripts contain minor variants in the text and many variants in the names. § 276
 
 *[p. 385]* ^pg394
 
@@ -264,7 +264,7 @@ ZYHRYRY"L "ŠRWYLY"Y. S P'
 
 § 196
 
-And the sign of this <sup>18</sup>*halakha* is for committing to memory. These are the ṪWṪRWSYT. Let this tradition be committed to names: RB" MṪYṪRWS"W <sup>19</sup> memory: YH" ḢL "YLYN GRPṠ <sup>20</sup>ŠBN S' #QT.
+And the sign of this <sup>18</sup>*halakha* is for committing to memory. These are the ṪWṪRWSYT. Let this tradition be committed to names: RB" MṪYṪRWS"W <sup>19</sup> memory: YH" ḢL "YLYN GRPṠ <sup>20</sup>ŠBN S' \#QT.
 
 § 198
 
@@ -407,7 +407,7 @@ Caesar! And there, after they killed him, <sup>3</sup>they brought him back to l
 
 Chapter Seven.[^s-p393] Su\]ria Prince of the Presence \[said[^t-p393] to me:\] <sup>10</sup>\[Cherished one,u therefore the praise of the King and His throne is said: The throne of Your glory over the che\]rubim of the ascent <sup>11</sup>\[You have exalted[^v-p393] and the ophannim of greatness[^w-p393] carry it. Beings of frost,\] beings of <sup>12</sup>\[smoke, and beings of kindled flame are garlanded with majesty …x and gra\]ndeur.
 
-(About nine lines have been lost from the lower part of this column. Along the lower left-hand margin of this fragment two damaged words are written (*”°°pr #˙twry*). The second seems to read “ones garlanded with. There is no clear correspondence with the text in this column, although cf. the beginning of § 156.)
+(About nine lines have been lost from the lower part of this column. Along the lower left-hand margin of this fragment two damaged words are written (*”°°pr \#˙twry*). The second seems to read “ones garlanded with. There is no clear correspondence with the text in this column, although cf. the beginning of § 156.)
 
 *(top margin)*
 
@@ -444,7 +444,7 @@ G4 (T.-S. K 21.95.I): 1a–b: *Hekhalot Rabbati* §§ 246–250
 
 (G4 2a 1–17) <sup>1</sup>of the four holy living creatures which belong to them. <sup>2</sup>In every form of the faces and the faces of six<sup>3</sup>teen by sixteen faces which belong <sup>4</sup>to the holy living creatures, corresponding to the entrance of the seventh palace.
 
-<sup>5</sup>When a man would seek<sup>6</sup>to descend to the chariot, #Anaph"el the prince <sup>7</sup>would open the doors of the seventh palace for him. 8This man would enter and stand <sup>9</sup>at the th\[resho\]ld of the entrance of the seventh palace,[^a-p394] <sup>10</sup>and the holy living creatures would lift up on him five <sup>11</sup>hundred and twelve eyes, of which every <sup>12</sup>single eye of one of the holy living creatures <sup>13</sup>is split open like the measure of a great sieve <sup>14</sup>of residences.[^b-p394] And the appearance of their eyes is like *they dart* <sup>15</sup>*like lightningbolts* (Nah 2:5). Besides, there are the eyes of the cherubim of might <sup>16</sup>and the eyes of the ophannim of the Shek\[hinah\], which resemble <sup>17</sup>torches of light and flames of glowing
+<sup>5</sup>When a man would seek<sup>6</sup>to descend to the chariot, \#Anaph"el the prince <sup>7</sup>would open the doors of the seventh palace for him. 8This man would enter and stand <sup>9</sup>at the th\[resho\]ld of the entrance of the seventh palace,[^a-p394] <sup>10</sup>and the holy living creatures would lift up on him five <sup>11</sup>hundred and twelve eyes, of which every <sup>12</sup>single eye of one of the holy living creatures <sup>13</sup>is split open like the measure of a great sieve <sup>14</sup>of residences.[^b-p394] And the appearance of their eyes is like *they dart* <sup>15</sup>*like lightningbolts* (Nah 2:5). Besides, there are the eyes of the cherubim of might <sup>16</sup>and the eyes of the ophannim of the Shek\[hinah\], which resemble <sup>17</sup>torches of light and flames of glowing
 
 [^a-p394]: G4 places the letter “P” before the word “palace” for reasons that are unclear.
 [^b-p394]: An alternative reading is written in the margin above “residences” which would make the phrase mean something like “a great pitched basket.” For the emendation “a great winnowers’ sieve,” see n. m to *Hekhalot Rabbati* § 247. § 250
@@ -461,7 +461,7 @@ coals of *(bottom margin)*
 
 § 248
 
-And this man would be in a cold sweat and shrinking back(!)[^c-p395] <sup>2</sup>and shaking and shaking. And he would be confounded and overcome, <sup>3</sup>and falling backward. But #Anaph"el <sup>4</sup>the prince would support him, he and the sixty-three guardians of <sup>5</sup>the entrances of the seven palaces. All of them would <sup>6</sup>help him and say:
+And this man would be in a cold sweat and shrinking back(!)[^c-p395] <sup>2</sup>and shaking and shaking. And he would be confounded and overcome, <sup>3</sup>and falling backward. But \#Anaph"el <sup>4</sup>the prince would support him, he and the sixty-three guardians of <sup>5</sup>the entrances of the seven palaces. All of them would <sup>6</sup>help him and say:
 
 No, do not \[f\]ear, O son of the <sup>7</sup>beloved seed! Enter[^d-p395] and see <sup>8</sup>*the King in his beauty. Your eyes shall see a vision*. (Isa 33:17). You are not <sup>9</sup>destroyed, you are not burned.
 
@@ -588,7 +588,7 @@ We were four entering <sup>7</sup>paradise. These are they: Ben Azzay and Ben Zo
 
 *[p. 399]* ^pg408
 
-the plants. I ascended <sup>9</sup>safely and I descended safely. And because why did I ascend safely and descend safely? Not because <sup>10</sup>I was was greater than my associates, but my works accomplished for me to establish what they taught among the sages in the Mishnah, <sup>11</sup>*Your works shall bring you near and Your works shall make you far away* (*m. #Ed*. 5.7).
+the plants. I ascended <sup>9</sup>safely and I descended safely. And because why did I ascend safely and descend safely? Not because <sup>10</sup>I was was greater than my associates, but my works accomplished for me to establish what they taught among the sages in the Mishnah, <sup>11</sup>*Your works shall bring you near and Your works shall make you far away* (*m. \#Ed*. 5.7).
 
 § 346/
 
@@ -657,7 +657,7 @@ G16: T.-S. NS 322.21 2b 11–15: cf. *Hekhalot Zutarti* § 362
 
 G75: T.-S. NS 91.53 1a–b:
 
-An incantation amulet. Cf. 1a 6–22 to *Hekhalot Zutarti* § 421 1a <sup>1</sup> … \[exp\]licating from <sup>2</sup> … His name. Blessed be <sup>3</sup> … blessed and blest be His name <sup>4</sup> … blessed and blest be His name <sup>5</sup> … \[King of\] Kings of Kings, blessed be He, <sup>6</sup>for He is from of old<sup>a</sup> from all beings and kept secret <sup>7</sup>from the attending angels. *This is my name forever*. <sup>8</sup>*This is my name forever. This is my name forever*. (Exod 3:15) <sup>9</sup>And what is His name? HMGPG HBR ZGL HQKR <sup>10</sup>#GGLP #Z #N "T SY BYH ṪY "GLG <sup>11</sup>"LPY WW" WWY BYWHWN, which is the explicit name.
+An incantation amulet. Cf. 1a 6–22 to *Hekhalot Zutarti* § 421 1a <sup>1</sup> … \[exp\]licating from <sup>2</sup> … His name. Blessed be <sup>3</sup> … blessed and blest be His name <sup>4</sup> … blessed and blest be His name <sup>5</sup> … \[King of\] Kings of Kings, blessed be He, <sup>6</sup>for He is from of old<sup>a</sup> from all beings and kept secret <sup>7</sup>from the attending angels. *This is my name forever*. <sup>8</sup>*This is my name forever. This is my name forever*. (Exod 3:15) <sup>9</sup>And what is His name? HMGPG HBR ZGL HQKR <sup>10</sup>\#GGLP \#Z \#N "T SY BYH ṪY "GLG <sup>11</sup>"LPY WW" WWY BYWHWN, which is the explicit name.
 
 ṠLPN TḢŠ MMYŠY
 
@@ -898,11 +898,11 @@ is found also in *Sar Torah* § 306.
 
 of the princes that is written in the Book of the Princes, <sup>36</sup>at once I sat and had a vision and feasted my eyes on the midrash and on the laws and on the message and on the interpretation of the laws, and I expounded and extolled the Torah, the Prophets, <sup>37</sup>and the Writings for a year and a half by the command of the owner of interpretations and the lord of wonders, Ozhayah MYHŠGH, the prince who has authority.
 
-And You <sup>38</sup>call him MGHŠH and there is no being from Your attendants who calls him by this name, because he is second to the adornment, purity, splendor, adornment of <sup>39</sup>"WRYH and he attends him and he is appointed over the first entrance, the entrance of the great palace where You sit and Your wonders throng. <sup>40</sup>And when "WGYHYW found me with it, he burned my hands and my feet from me and I was sitting without hands and feet until there appeared to me PLHWWNY the prince <sup>41</sup>who rules over me and I was left from under him and he stood … GR#YYL the prince of the soul of the King of Kings of Kings. RG"TY and I <sup>42</sup>I #Y# ṪPzz the King of Kings. I loved him LGLGLWNaaa the faithful attendant who knows the glory of ṪRPZYHYN my attendant, of whom my name <sup>43</sup>and his name are one. And he takes the robebbb and he tends \[the\] living creatures and he makes the cherubim majestic and he beautifies the ophannim <sup>44</sup>and he adorns the Hashmal and he quiets ṪRPZWHYW the King and all the beings of His throne like a bride to her bridal chamber.ccc,ddd
+And You <sup>38</sup>call him MGHŠH and there is no being from Your attendants who calls him by this name, because he is second to the adornment, purity, splendor, adornment of <sup>39</sup>"WRYH and he attends him and he is appointed over the first entrance, the entrance of the great palace where You sit and Your wonders throng. <sup>40</sup>And when "WGYHYW found me with it, he burned my hands and my feet from me and I was sitting without hands and feet until there appeared to me PLHWWNY the prince <sup>41</sup>who rules over me and I was left from under him and he stood … GR#YYL the prince of the soul of the King of Kings of Kings. RG"TY and I <sup>42</sup>I \#Y# ṪPzz the King of Kings. I loved him LGLGLWNaaa the faithful attendant who knows the glory of ṪRPZYHYN my attendant, of whom my name <sup>43</sup>and his name are one. And he takes the robebbb and he tends \[the\] living creatures and he makes the cherubim majestic and he beautifies the ophannim <sup>44</sup>and he adorns the Hashmal and he quiets ṪRPZWHYW the King and all the beings of His throne like a bride to her bridal chamber.ccc,ddd
 
 \#Anaph"eleee said:
 
-<sup>45</sup>I am #Anaph"el. Anyone who invokes for me the name of one of His four attendants and adjures me by it—at once I do not turn either <sup>46</sup>forward or backward, either right or left, until I strike him at once and his widthfff and drag him on his face,ggg whether man or woman or <sup>47</sup>youth or young man or virgin girl or sage or dullard or poor or rich or warrior or weakling or chief or magistrate. At once <sup>48</sup>I strike him and destroy him and I grant him no
+<sup>45</sup>I am \#Anaph"el. Anyone who invokes for me the name of one of His four attendants and adjures me by it—at once I do not turn either <sup>46</sup>forward or backward, either right or left, until I strike him at once and his widthfff and drag him on his face,ggg whether man or woman or <sup>47</sup>youth or young man or virgin girl or sage or dullard or poor or rich or warrior or weakling or chief or magistrate. At once <sup>48</sup>I strike him and destroy him and I grant him no
 
 zz This phrase is incomprehensible and probably corrupt.
 
@@ -914,7 +914,7 @@ ccc This paragraph appears in a substantially different form in *Hekhalot* ddd A
 
 that what follows is a new unit of text.
 
-eee The parallel passage in § 421 (see below) gives the name throughout as #Anaphi"el, on whom see *Hekhalot Rabbati* § 244 n. b and *Hekhalot* fff The phrase “and his width” makes no sense in context. Gruenwald *Zutarti* § 421 n. a.
+eee The parallel passage in § 421 (see below) gives the name throughout as \#Anaphi"el, on whom see *Hekhalot Rabbati* § 244 n. b and *Hekhalot* fff The phrase “and his width” makes no sense in context. Gruenwald *Zutarti* § 421 n. a.
 
 suggests that a word or two may be missing. Swartz (*Scholastic Magic*, 129 n. 90) suggests that this word is an error and the next word is its correction.
 
@@ -924,7 +924,7 @@ ggg Cf. 2b 30b–34a and *Hekhalot Rabbati* § 96.
 
 delay—except for the king, for we do not set a hand against the kingdom, because of the distribution of the glory <sup>49</sup>which He distributes to kings of flesh and blood.hhh
 
-Thus far the might of #Anaph"el.iii R. Ishmael said to me: I adjure you, QBRQLY"L the prince.
+Thus far the might of \#Anaph"el.iii R. Ishmael said to me: I adjure you, QBRQLY"L the prince.
 
 G19 (Antonin 186 1a 1–28, 1b 1–28):
 
@@ -974,7 +974,7 @@ f Cf. n. i below. <sup>e</sup>Another adjuration of Metatron appears in *Merkava
 
 *[p. 414]* ^pg423
 
-<sup>10</sup>MYPPD "Z"L #GGDY GLDY<sup>m</sup> MYPYPR "WRY<sup>n</sup> "WRYH HDRS HDRMW"L <sup>11</sup>HZR ZR<sup>o</sup> MṪYMH "NWSK QWMTY<sup>p</sup> ŠMŠ<sup>q</sup> SYMY BRQ<sup>r</sup> PN"L PNW"L. These are from <sup>12</sup>the armies of holy ones, the holy ones who attend to YHWH God of Israel, for Your g\[re\]at name. <sup>13</sup>You are made Lord of the armies of the holy ones for the sake of the armies of the holy ones who attend before You. <sup>14</sup>And listen to the voice of my prayer in this hour, O magnificent and strong King, gracious and merciful whose eyes are on <sup>15</sup>His beings. Turn to the prayer of your servant and answer me in the time of favor,<sup>s</sup> O Lord of all the worlds, Creator of all, <sup>16</sup>Unique One of the world. Let the gates of heaven be opened at my cry, for I \[in\]voke and seek grace <sup>17</sup>before Your great and holy and pure and blessed name: "KTRY"L YH<sup>t</sup> \[ \]GRBY the God <sup>18</sup>God YH YHGY"L is His name WHW HY HW HY HWH is His name. BYṠYR" YHW YH DNS °°°Ṡ QDYŠ" <sup>19</sup>HWDYH<sup>u</sup> YHW YH "DWḢ YH explicit (name) that is on an explicit crown<sup>v</sup> PLṪYH HLṪYH HYH<sup>w</sup> YH <sup>20</sup>HW HY YH WYHYHx HY HW YHYy YHW HH YHW YH HYH in which my name is in its midst YH YHW HH <sup>21</sup>YH YHW HH YHWH YH. And in the name of HWH Y" YHW YH YH HW YH YWH YH HWY YHY YHY HY HY <sup>22</sup>HYH °°° HYH BTDYNYSS HWSYH YH who transmits the name of z YHWH HWHH YHWH HYH <sup>23</sup>HYH YHW YH YHW HY YHY B"WṪNṪQ WYHS°YH explicit.aa Blessed be the name of the glory of His kingdom <sup>24</sup>forever and ever.
+<sup>10</sup>MYPPD "Z"L \#GGDY GLDY<sup>m</sup> MYPYPR "WRY<sup>n</sup> "WRYH HDRS HDRMW"L <sup>11</sup>HZR ZR<sup>o</sup> MṪYMH "NWSK QWMTY<sup>p</sup> ŠMŠ<sup>q</sup> SYMY BRQ<sup>r</sup> PN"L PNW"L. These are from <sup>12</sup>the armies of holy ones, the holy ones who attend to YHWH God of Israel, for Your g\[re\]at name. <sup>13</sup>You are made Lord of the armies of the holy ones for the sake of the armies of the holy ones who attend before You. <sup>14</sup>And listen to the voice of my prayer in this hour, O magnificent and strong King, gracious and merciful whose eyes are on <sup>15</sup>His beings. Turn to the prayer of your servant and answer me in the time of favor,<sup>s</sup> O Lord of all the worlds, Creator of all, <sup>16</sup>Unique One of the world. Let the gates of heaven be opened at my cry, for I \[in\]voke and seek grace <sup>17</sup>before Your great and holy and pure and blessed name: "KTRY"L YH<sup>t</sup> \[ \]GRBY the God <sup>18</sup>God YH YHGY"L is His name WHW HY HW HY HWH is His name. BYṠYR" YHW YH DNS °°°Ṡ QDYŠ" <sup>19</sup>HWDYH<sup>u</sup> YHW YH "DWḢ YH explicit (name) that is on an explicit crown<sup>v</sup> PLṪYH HLṪYH HYH<sup>w</sup> YH <sup>20</sup>HW HY YH WYHYHx HY HW YHYy YHW HH YHW YH HYH in which my name is in its midst YH YHW HH <sup>21</sup>YH YHW HH YHWH YH. And in the name of HWH Y" YHW YH YH HW YH YWH YH HWY YHY YHY HY HY <sup>22</sup>HYH °°° HYH BTDYNYSS HWSYH YH who transmits the name of z YHWH HWHH YHWH HYH <sup>23</sup>HYH YHW YH YHW HY YHY B"WṪNṪQ WYHS°YH explicit.aa Blessed be the name of the glory of His kingdom <sup>24</sup>forever and ever.
 
 He who does not study is bound for execution and he who uses the crown passes away.bb YHW HY YHW HWH <sup>25</sup>W" "H B"Hcc H"H YWH HY HWH "Wdd YH HW YH WHH WH WHH YHW YHW YHW HWYH H' <sup>26</sup>HWYH HY HH YHWH YHWH YH SML SM"D "GYNṪWN "YQWNṪY "NṪYDYGWN <sup>27</sup>ṪDYGWN ṪRG°GWN MHW WHY WHY °°°°° HW *Let it not depart* (Josh 1:8). *Have I not commanded you* (Josh 1:9) the Torah of YHWH? <sup>28</sup>Visitations of YHWH, tradition of YHWH … the Lord. Blessed be YHWH. Blessed be the name of the glory of His kingdom forever M#LPṠ.
 

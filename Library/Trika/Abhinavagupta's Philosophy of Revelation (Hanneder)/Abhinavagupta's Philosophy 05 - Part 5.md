@@ -716,7 +716,7 @@ verse 129 This verse is too elliptic to be sure about the interpretation: nanu m
 75\. Asa grammatical term bhāvah describes also a ‘process’ activity (Pāṇini 3.3.11). See Eivind KAHRS\` article in: Essays in Honour of Nils Simonsson. Ed. by Eivind Kahrs, Oxford: The Institute for Comparative Research in Human Culture 1986, p. Ee. Compare also AL-BRECHT WEZLER, Bestimmung und Angabe der Funktion von Sekundär-Suffixen durch Pāṇini, Wiesbaden: Franz Steiner Verlag 1975, p. 99f, where bhāva is translated as “dynamisches Sein” (p. 103).
 
 
-*[p. 5]* ^pg192
+*[p. 183]* ^pg192
 
 of “possession” (mamakāra) and suggests that the emphasis is on the notion of “mine”. The syntax (nanu me) would work very well with this assumption. Understood in this way the verse would mean that the mere process of perception or appearance of a thing that is seen as the manifestation of consciousness does not entail any duality. It is only the notion that something belongs to oneself and not to others which creates a division that misrepresents reality. 
 
@@ -732,7 +732,7 @@ The phrase kālakalanā in 131a is an echo of Vijñānabhairava 14. For the root
 
 (1987), WEZLER (1982), WEZLER (1992) and WEZLER (1981). 
 
-*[p. 6]* ^pg193
+*[p. 184]* ^pg193
 
 The Five Streams of the Sāstra 
 
@@ -748,7 +748,7 @@ verses 134cd—138ab As a general rule, different doctrines are alluded to in th
 
 Our author has started with the Trika through defining its characteristic as the equilibrium of the three powers that defines the highest undifferentiated state, and proceeds now to the Kula. But in fact the relationship between the different layers of the text is more intricate, as we are moving from the “highest Trika”, which is a metaphysical concept that is probably without a socio-religious correlate, to the Kula, which, as we have seen, represents a plane within the Trika 
 
-*[PDF 194]* ^pg194
+*[p. 185]* ^pg194
 
 with a specific initiation. ' The fact that a subsidiary topic, namely how to conceive of time in an undifferentiated reality, is more on the mind of the opponent adds to the confusion, for the doctrinal background on which time is dealt with is the Krama, another cult which belongs in some sense to the core of the Trika. One ought to bear in mind that the first part of the Vārttika is not a systematic description of the five streams of the Śāstra, but a complicated argumentation to legitimate the Trika’s claim to the highest position. Through the disparateness of topics that is covered by it and the vagueness of its references to religious reality the argumentation seems sometimes unconnected. 
 

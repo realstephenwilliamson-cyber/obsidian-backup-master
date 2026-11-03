@@ -187,7 +187,7 @@ See 21, 27.
 
 Il. Philosophy
 
-12 The first of them who are reported to have treated commonplaces are Protagoras ἢ Gorgias; to have treated emotions, Prodicus, Hippias, Protagoras again and ymachus, #0ras
+12 The first of them who are reported to have treated commonplaces are Protagoras ἢ Gorgias; to have treated emotions, Prodicus, Hippias, Protagoras again and ymachus, \#0ras
 
 : Referring to the lon ἤν : g boots worn by actors in tragedies, Since these boots could be worn on ith €f foot, they we re a symbol of changing sides easily.
 

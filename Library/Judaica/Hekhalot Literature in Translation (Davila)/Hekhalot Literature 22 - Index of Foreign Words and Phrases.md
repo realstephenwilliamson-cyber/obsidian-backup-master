@@ -181,7 +181,7 @@ index of foreign words and phrases
 
 *nśy’*, 57n.p *lpnyk yhdrw*, 145n.u *nšmh*, 213n.dddd *lp‘mw*, 325n.l(§ 686)
 
-*#am ha"arets*, 17, 163 *lr’wt*, 123n.p *lšmš wšmš*, 113n.d(§ 226)
+*\#am ha"arets*, 17, 163 *lr’wt*, 123n.p *lšmš wšmš*, 113n.d(§ 226)
 
 *sod torah*, 160, 161 *s wm*, 259n.c(5/§ 550)
 

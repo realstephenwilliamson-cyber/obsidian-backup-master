@@ -373,7 +373,7 @@ drove their own minds toward something too lofty, they thereby lost them in illu
 [^23]: They were: Duke Huan of Ch'i (r. 685-643 B.C.), Duke Wen of Chin (r. 636-628 B.C.), Duke Mu of Ch'in (r. 659-619 B.C.), King Chuang of Ch'u (r. 613-589 B.C.), and Duke Hsiang of Sung (r. 650-635 B.C.). See *Mencius,* 6B:7.
 [^24]: The text of the *Great Learning.*
 
-*[p. 28]* ^pg690
+*[p. 663]* ^pg690
 
 innate knowledge will thoroughly sift and carefully examine whether or not the thought or event is in accord with the highest good, and thus the mind can deliberate. With deliberation, every decision will be excellent and every act will be proper, and in this way the highest good will be attained.
 
@@ -387,7 +387,7 @@ innate knowledge will thoroughly sift and carefully examine whether or not the t
 
 <sup>27</sup> The text of the *Great Learning.* 
 
-*[p. 29]* ^pg691
+*[p. 664]* ^pg691
 
 cultivate their personal lives would first rectify their minds ... make their will sincere . . . extend their knowledge" to the clause, "the extension of knowledge consists in the investigation of things"?<sup>29</sup>
 

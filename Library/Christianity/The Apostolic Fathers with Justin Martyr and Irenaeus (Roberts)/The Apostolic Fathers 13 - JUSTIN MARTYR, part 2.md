@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 13
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 282–315
+page_range: 282–319
 pdf_pages: 322–359
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -308,7 +308,7 @@ Words resembling “philosopher” in sound, viz. φιλοψόφου καὶ φ�
 
 cap. viii., in the text preferred by Grabe.\]
 
-*[p. 1932]* ^pg337
+*[p. 297]* ^pg337
 
 understand, saying that the Christians are atheists and impious, and doing so to win favour with the deluded mob, and to please them. For if he assails us without having read the teachings of Christ, he is thoroughly depraved, and far worse than the illiterate, who often refrain from discussing or bearing false witness about matters they do not understand. Or, if he has read them and does not understand the majesty that is in them, or, understanding it, acts thus that he may not be suspected of being such \[a Christian\], he is far more base and thoroughly depraved, being conquered by illiberal and unreasonable opinion and fear. For I would have you to know that I proposed to him certain questions on this subject, and interrogated him, and found most convincingly that he, in truth, knows nothing. And to prove that I speak the truth, I am ready, if these disputations have not been reported to you, to conduct them again in your presence. And this would be an act worthy of a prince. But if my questions and his answers have been made known to you, you are already aware that he is acquainted with none of our matters; or, if he is acquainted with them, but, through fear of those who might hear him, does not dare to speak out, like Socrates, he proves himself, as I said before, no philosopher, but an opinionative man;<sup>1931</sup> at least he does not regard that Socratic and most admirable saying: “But a man must in no wise be honoured before the truth.”<sup>1932</sup> But it is impossible for a Cynic, who makes indifference his end, to know any good but indifference.
 
@@ -328,7 +328,7 @@ But if this idea take possession of some one, that if we acknowledge God as our 
 
 But to the Father of all, who is unbegotten there is no name given. For by whatever name He be called, He has as His elder the person who gives Him the name. But these words Father, and God, and Creator, and Lord, and Master, are not names, but appellations derived from His good deeds and functions. And His Son, who alone is properly called Son, the Word who also was with Him and was begotten before the works, when at first He created and arranged all things by Him, is called Christ, in reference to His being anointed and God’s ordering all things through Him; this name itself also containing an unknown significance; as also the appellation “God” is not a name, but an opinion implanted in the nature of men of a thing that can hardly be explained. But “Jesus,” His name as man and Saviour, has also significance. For He was made man also, as we before said, having been conceived according to the will of God the Father, for the sake of believing men, and for the destruction of the demons. And now you can learn this from what is under your own observation. For numberless demoniacs throughout the whole world, and in your city, many of our Christian men exorcising them in the name of Jesus Christ, who was crucified under Pontius Pilate, have healed and do heal, rendering helpless and driving the possessing devils out of the men, though they could not be cured by all the other exorcists, and those who used incantations and drugs.
 
-*[p. 1934]* ^pg339
+*[p. 299]* ^pg339
 
 #### Chapter VII.—The world preserved for the sake of Christians. Man’s responsibility.
 
@@ -650,7 +650,7 @@ would at length, wearied out, take your stand on one Unbegotten, and say that th
 
 “ ‘There existed, long before this time, certain men more ancient than all those who are esteemed philosophers, both righteous and beloved by God, who spoke by the Divine Spirit, and foretold events which would take place, and which are now taking place. They are called prophets. These alone both saw and announced the truth to men, neither reverencing nor fearing any man, not influenced by a desire for glory, but speaking those things alone which they saw and which they heard, being filled with the Holy Spirit. Their writings are still extant, and he who has read them is very much helped in his knowledge of the beginning and end of things, and of those matters which the philosopher ought to know, provided he has believed them. For they did not use demonstration in their treatises, seeing that they were witnesses to the truth above all demonstration, and worthy of belief; and those events which have happened, and those which are happening, compel you to assent to the utterances made by them, although, indeed, they were entitled to credit on account of the miracles which they performed, since they both glorified the Creator, the God and Father of all things, and proclaimed His Son, the Christ \[sent\] by Him: which, indeed, the false prophets, who are filled with the lying unclean spirit, neither have done nor do, but venture to work certain wonderful deeds for the purpose of astonishing men, and glorify the spirits and demons of
 
-*[p. 1966]* ^pg352
+*[p. 312]* ^pg352
 
 error. But pray that, above all things, the gates of light may be opened to you; for these things cannot be perceived or understood by all, but only by the man to whom God and His Christ have imparted wisdom.’
 
@@ -662,7 +662,7 @@ When I had said this, my beloved friends<sup>1966</sup> those who were with Tryp
 
 199 According to one interpretation, this clause is applied to God: “If you believe in God, seeing He is not indifferent to the 1964 matter,” etc. Maranus says that it means: A Jew who reads so much of Christ in the Old Testament, cannot be indifferent to the things which pertain to Him. Literally: having become perfect. Some refer the words to perfection of character; some initiation by baptism. 1965 Latin version, “beloved Pompeius.”
 
-*[p. 1967]* ^pg353
+*[p. 313]* ^pg353
 
 #### Chapter IX.—The Christians have not believed groundless stories.
 
@@ -678,7 +678,7 @@ And when they ceased, I again addressed them thus:—“Is there any other matte
 
 According to another reading, “I did not *leave*.”
 
-*[PDF 354]* ^pg354
+*[p. 314]* ^pg354
 
 or sabbaths, and do not have the rite of circumcision; and further, resting your hopes on a man that was crucified, you yet expect to obtain some good thing from God, while you do not obey His commandments. Have you not read, that that soul shall be cut off from his people who shall not have been circumcised on the eighth day? And this has been ordained for strangers and for slaves equally. But you, despising this covenant rashly, reject the consequent duties, and attempt to persuade yourselves that you know God, when, however, you perform none of those things which they do who fear God. If, therefore, you can defend yourself on these points, and make it manifest in what way you hope for anything whatsoever, even though you do not observe the law, this we would very gladly hear from you, and we shall make other similar investigations.”
 
@@ -708,7 +708,7 @@ Not in Jeremiah; some would insert, in place of Jeremiah, Isaiah or John. \[St. 
 
 references in the English margin. But comp. Jer. vii. 24, 26, Jer. xi. 8, and Jer. xvii. 23.\]
 
-*[PDF 356]* ^pg356
+*[p. 316]* ^pg356
 
 that saving bath of the olden time which followed<sup>1973</sup> those who repented, and who no longer were purified by the blood of goats and of sheep, or by the ashes of an heifer, or by the offerings of fine flour, but by faith through the blood of Christ, and through His death, who died for this very reason, as Isaiah himself said, when he spake thus: ‘The Lord shall make bare His holy arm in the eyes of all the nations, and all the nations and the ends of the earth shall see the salvation of God. Depart ye, depart ye, depart ye,<sup>1974</sup> go ye out from thence, and touch no unclean thing; go ye out of the midst of her, be ye clean that bear the vessels of the Lord, for<sup>1975</sup> ye go not with haste. For the Lord shall go before you; and the Lord, the God of Israel, shall gather you together. Behold, my servant shall deal prudently; and He shall be exalted, and be greatly glorified. As many were astonished at Thee, so Thy form and Thy glory shall be marred more than men. So shall many nations be astonished at Him, and the kings shall shut their mouths; for that which had not been told them concerning Him shall they see, and that which they had not heard shall they consider. Lord, who hath believed our report? and to whom is the arm of the Lord revealed? We have announced Him as a child before Him, as a root in a dry ground. He hath no form or comeliness, and when we saw 201
 
@@ -724,7 +724,7 @@ Three times in Justin, not in LXX.
 
 Deviating slightly from LXX., omitting a clause.
 
-*[PDF 357]* ^pg357
+*[p. 317]* ^pg357
 
 seed shall inherit the Gentiles, and thou shalt make the desolate cities to be inherited. Fear not because thou art ashamed, neither be thou confounded because thou hast been reproached; for thou shalt forget everlasting shame, and shalt not remember the reproach of thy widowhood, because the Lord has made a name for Himself, and He who has redeemed thee shall be called through the whole earth the God of Israel. The Lord has called thee as<sup>1976</sup> a woman forsaken and grieved in spirit, as<sup>1977</sup> a woman hated from her youth.’<sup>1978</sup>
 
@@ -742,7 +742,7 @@ LXX. “*not* as,” etc.
 
 Isa. lii. 10 ff. following LXX. on to liv. 6.
 
-*[PDF 358]* ^pg358
+*[p. 318]* ^pg358
 
 bread for food, so shall My word be that goeth forth out of My mouth: it shall not return until it shall have accomplished all that I desired, and I shall make My commandments prosperous. For ye shall go out with joy, and be taught with gladness. For the mountains and the hills shall leap while they expect you, and all the trees of the fields shall applaud with their branches: and instead 202
 
@@ -758,7 +758,7 @@ Isa. lv. 3 to end.
 
 ἱμάτια; some read ἰάματα, as in LXX., “thy health,” the better reading probably.
 
-*[PDF 359]* ^pg359
+*[p. 319]* ^pg359
 
 according as thy soul desireth, and thy bones shall become fat, and shall be as a watered garden, and as a fountain of water, or as a land where water fails not.’<sup>1981</sup> ‘Circumcise, therefore, the foreskin of your heart,’ as the words of God in all these passages demand.”
 

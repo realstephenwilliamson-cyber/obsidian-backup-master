@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 27
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 828–860
+page_range: 828–867
 pdf_pages: 868–907
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -521,7 +521,7 @@ The Latin here is, “quæ est ex virgine per fidem regenerationem.” According
 
 Mary, but to the Church. Grabe suspects that some words have been lost.
 
-*[PDF 891]* ^pg891
+*[p. 851]* ^pg891
 
 by man in this world? And how could He (Christ) have been greater than Solomon,<sup>4273</sup> or greater than Jonah, or have been the Lord of David,<sup>4274</sup> who was of the same substance as they were? How, too, could He have subdued<sup>4275</sup> him who was stronger than men,<sup>4276</sup> who had not only overcome man, but also retained him under his power, and conquered him who had conquered, while he set free mankind who had been conquered, unless He had been greater than man who had thus been vanquished? But who else is superior to, and more eminent than, that man who was formed after the likeness of God, except the Son of God, after whose image man was created? And for this reason He did in these last days<sup>4277</sup> exhibit the similitude; \[for\] the Son of God was made man, assuming the ancient production \[of His hands\] into His own nature,<sup>4278</sup> as I have shown in the immediately preceding book.
 
@@ -561,7 +561,7 @@ We here follow the reading “proferant:” the passage is difficult and obscure
 
 4279
 
-*[PDF 892]* ^pg892
+*[p. 852]* ^pg892
 
 their schism. He shall also judge all those who are beyond the pale of the truth, that is, who are outside the Church; but he himself shall be judged by no one. For to him all things are consistent: he has a full faith in one God Almighty, of whom are all things; and in the Son of God, Jesus Christ our Lord, by whom are all things, and in the dispensations connected with Him, by means of which the Son of God became man; and a firm belief in the Spirit of God, who furnishes us with a knowledge of the truth, and has set forth the dispensations of the Father and the Son, in virtue of which He dwells with every generation of men,<sup>4281</sup> according to the will of the Father.
 
@@ -597,7 +597,7 @@ Comp. [[2 Corinthians 08#^8-1|2 Cor. viii. 1]]; 1 Cor. xiii.
 
 i.e., the heretics.
 
-*[PDF 893]* ^pg893
+*[p. 853]* ^pg893
 
 reproach of the name (as if he too \[the heretic\] had obtained mercy), and have been led forth with them \[to death\], being, as it were, a sort of retinue granted unto them. For the Church alone sustains with purity the reproach of those who suffer persecution for righteousness’ sake, and endure all sorts of punishments, and are put to death because of the love which they bear to God, and their confession of His Son; often weakened indeed, yet immediately increasing her members, and becoming whole again, after the same manner as her type,<sup>4289</sup> Lot’s wife, who became a pillar of salt. Thus, too, \[she passes through an experience\] similar to that of the ancient prophets, as the Lord declares, “For so persecuted they the prophets who were before you;”<sup>4290</sup> inasmuch as she does indeed, in a new fashion, suffer persecution from those who do not receive the word of God, while the self-same spirit rests upon her<sup>4291</sup> \[as upon these ancient prophets\].
 
@@ -637,13 +637,13 @@ Zech. xii. 10.
 
 [[2 Thessalonians 01#^1-6|2 Thess. i. 6–8]].
 
-*[PDF 894]* ^pg894
+*[p. 854]* ^pg894
 
 burning furnace, \[to\] the day of the Lord, who “gathers the wheat into His barn, but will burn up the chaff with unquenchable fire,”<sup>4297</sup> were accustomed to threaten those who were unbelieving, concerning whom also the Lord Himself declares, “Depart from me, ye cursed, into everlasting fire, which my Father has prepared for the devil and his angels.”<sup>4298</sup> And the apostle in like manner says \[of them\], “Who shall be punished with everlasting death from the face of the Lord, and from the glory of His power, when He shall come to be glorified in His saints, and to be admired in those who believe in Him.”<sup>4299</sup> There are also some \[of them\] who declare, “Thou art fairer than the children of men;”<sup>4300</sup> and, “God, Thy God, hath anointed Thee with the oil of gladness above Thy fellows;”<sup>4301</sup> and, “Gird Thy sword upon Thy thigh, O Most Mighty, with Thy beauty and Thy fairness, and go forward and proceed prosperously; and rule Thou because of truth, and meekness, and righteousness.”<sup>4302</sup> And whatever other things of a like nature are spoken regarding Him, these indicated that beauty and splendour which exist in His kingdom, along with the transcendent and pre-eminent exaltation \[belonging\] to all who are under His sway, that those who hear might desire to be found there, doing such things as are pleasing to God. Again, there are those who say, “He is a man, and who shall know him?”<sup>4303</sup> and, “I came unto the prophetess, and she bare a son, and His name is called Wonderful, Counsellor, the Mighty God;”<sup>4304</sup> and those \[of them\] who proclaimed Him as Immanuel, \[born\] of the Virgin, exhibited the union of the Word of God with His own workmanship, \[declaring\] that the Word should become flesh, and the Son of God the Son of man (the pure One opening purely that pure womb which regenerates men unto God, and which He Himself made pure); and having become this which we also are, He \[nevertheless\] is the Mighty God, and possesses a generation which cannot be declared. And there are also some of them who say, “The Lord hath spoken in Zion, and uttered His voice from Jerusalem;”<sup>4305</sup> and, “In Judah is God known;”<sup>4306</sup>— these indicated His advent which took place in Judea. Those, again, who declare that “God comes from the south, and from a mountain thick with foliage,”<sup>4307</sup> announced His advent
 
 [[Matthew 03#^3-12|Matt. iii. 12]]. 4297 [[Matthew 25#^25-41|Matt. xxv. 41]]. 4298 [[2 Thessalonians 01#^1-9|2 Thess. i. 9]], [[2 Thessalonians 01#^1-10|10]]. 4299 Ps. xlv. 2. 4300 Ps. xlv. 7. 4301 Ps. xlv. 3, 4. 4302 Jer. xvii. 9 (LXX.). Harvey here remarks: “The LXX. read ׁ אֱנֹוש instead of ׁ .אָנֹוש Thus, from a text that teaches us that 4303 *the heart is deceitful above all things*, the Fathers extract a proof of the manhood of Christ.” Isa. viii. 3, Isa. ix. 6, Isa. vii. 14. \[A confusion of texts.\] 4304 Joel iii. 16. 4305 Ps. lxxvi. 1. 4306 Hab. iii. 3.
 
-*[PDF 895]* ^pg895
+*[p. 855]* ^pg895
 
 at Bethlehem, as I have pointed out in the preceding book.<sup>4308</sup> From that place, also, He who rules, and who feeds the people of His Father, has come. Those, again, who declare that at His coming “the lame man shall leap as an hart, and the tongue of the dumb shall \[speak\] plainly, and the eyes of the blind shall be opened, and the ears of the deaf shall hear,”<sup>4309</sup> and that “the hands which hang down, and the feeble knees, shall be strengthened,”<sup>4310</sup> and that “the dead which are in the grave 510
 
@@ -713,7 +713,7 @@ Ps. xxii. 15.
 
 Comp. book iii. cap. xx. 4 and book iv. cap xxii. 1.
 
-*[PDF 896]* ^pg896
+*[p. 856]* ^pg896
 
 darkness over the earth in the clear day; and I will turn your feast days into mourning, and all your songs into lamentation,”<sup>4324</sup> plainly announced that obscuration of the sun which at the time of His crucifixion took place from the sixth hour onwards, and that after this event, those days which were their festivals according to the law, and their songs, should be changed into grief and lamentation when they were handed over to the Gentiles. Jeremiah, too, makes this point still clearer, when he thus speaks concerning Jerusalem: “She that hath born \[seven\] languisheth; her soul hath become weary; her sun hath gone down while it was yet noon; she hath been confounded, and suffered reproach: the remainder of them will I give to the sword in the sight of their enemies.”<sup>4325</sup>
 
@@ -755,7 +755,7 @@ Isa. l. 8, 9 (loosely quoted).
 
 4332
 
-*[PDF 897]* ^pg897
+*[p. 857]* ^pg897
 
 14\. And those of them who declare that God would make a new covenant<sup>4334</sup> with men, not such as that which He made with the fathers at Mount Horeb, and would give to men a new heart and a new spirit;<sup>4335</sup> and again, “And remember ye not the things of old: behold, I make new things which shall now arise, and ye shall know it; and I will make a way in the desert, and rivers in a dry land, to give drink to my chosen people, my people whom I have acquired, that they may show forth my 511
 
@@ -789,7 +789,7 @@ Isa. xliii. 19–21.
 
 “Ex alia et alia substantia fuisse prophetias.”
 
-*[p. 4345]* ^pg898
+*[p. 858]* ^pg898
 
 #### Chapter XXXIV.—Proof against the Marcionites, that the prophets referred in all their predictions to our Christ.
 
@@ -800,7 +800,7 @@ Isa. xliii. 19–21.
 1\. Pet. i. 12. 4341 [[Romans 03#^3-21|Rom. iii. 21]]. 4342 [[Matthew 05#^5-17|Matt. v. 17]], [[Matthew 05#^5-18|18]]. 4343 [[Romans 01#^1-17|Rom. i. 17]]. 4344 Hab. ii. 4.
 
 
-*[p. 4346]* ^pg899
+*[p. 859]* ^pg899
 
 3\. But whence could the prophets have had power to predict the advent of the King, and to preach beforehand that liberty which was bestowed by Him, and previously to announce all things which were done by Christ, His words, His works, and His sufferings, and to predict the new covenant, if they had received prophetical inspiration from another God \[than He who is revealed 512
 
@@ -822,7 +822,7 @@ changed them into pruning-hooks for reaping the corn, \[that is\], into instrume
 
 513 [[Matthew 05#^5-39|Matt. v. 39]]. 4347 Book i. p. 327, this volume. 4348 This is following Harvey’s conjectural emendation of the text, viz., “taleis” for “talis.” He considers the *pins* here as 4349 symbolical of the *nails* by which our Lord was fastened to the cross. The whole passage is almost hopelessly obscure, though the general meaning may be guessed. Isa. lvii. 1. 4350 \[If it be remembered that we know Irenæus here, only through a most obscure Latin rendering, we shall be slow to censure 4351 this conclusion.\]
 
-*[PDF 901]* ^pg901
+*[p. 861]* ^pg901
 
 world, from whom also the prophets had their mission, we say that it is altogether irrational to bring down the Father of the universe to such straits, as that He should not be possessed of His own proper instruments, by which the things in the Pleroma might be perfectly proclaimed. For of whom was He afraid, so that He should not reveal His will after His own way and independently, freely, and without being involved with that spirit which came into being in a state of degeneracy and ignorance? Was it that He feared that very many would be saved, when more should have listened to the unadulterated truth? Or, on the other hand, was He incapable of preparing for Himself those who should announce the Saviour’s advent?
 
@@ -830,7 +830,7 @@ world, from whom also the prophets had their mission, we say that it is altogeth
 
 3\. But from what source could the offspring of their mother derive his knowledge of the mysteries within the Pleroma, and power to discourse regarding them? Suppose that the mother, while beyond
 
-*[PDF 902]* ^pg902
+*[p. 862]* ^pg902
 
 the Pleroma, did bring forth this very offspring; but what is beyond the Pleroma they represent as being beyond the pale of knowledge, that is, ignorance. How, then, could that seed, which was conceived in ignorance, possess the power of declaring knowledge? Or how did the mother herself, a shapeless and undefined being, one cast out of doors as an abortion, obtain knowledge of the mysteries within the Pleroma, she who was organized outside it and given a form there, and prohibited by Horos from entering within, and who remains outside the Pleroma till the consummation \[of all things\], that is, beyond the pale of knowledge? Then, again, when they say that the Lord’s passion is a type of the extension of the Christ above, which he effected through Horos, and so imparted a form to their mother, they are refuted in the other particulars \[of the Lord’s passion\], for they have no semblance of a type to show with regard to them. For when did the Christ above have vinegar and gall given him to drink? Or when was his raiment parted? Or when was he pierced, and blood and water came forth? Or when did he sweat great drops of blood? And 514
 
@@ -844,7 +844,7 @@ Book i. p. 334, this volume.
 
 Illorum; following the Greek form of the comparative degree.
 
-*[PDF 903]* ^pg903
+*[p. 863]* ^pg903
 
 by us. For, though holding wrong opinions, they do in the meanwhile, however, convict themselves, since they are not of one mind with regard to the same words. But as we follow for our teacher the one and only true God, and possess His words as the rule of truth, we do all speak alike with regard to the same things, knowing but one God, the Creator of this universe, who sent the prophets, who led forth the people from the land of Egypt, who in these last times manifested His own Son, that He might put the unbelievers to confusion, and search out the fruit of righteousness.
 
@@ -854,7 +854,7 @@ by us. For, though holding wrong opinions, they do in the meanwhile, however, co
 
 515 [[Matthew 21#^21-33|Matt. xxi. 33–41]]. 4355
 
-*[PDF 904]* ^pg904
+*[p. 864]* ^pg904
 
 to express Himself thus: “But I say unto you.”<sup>4357</sup> The servants, again, \[who came\] as from their Lord, spake after the manner of servants, \[delivering a message\]; and they therefore used to say, “Thus saith the Lord.”
 
@@ -878,7 +878,7 @@ Jer. vii. 29, 30.
 
 Jer. vi. 17, 18.
 
-*[PDF 905]* ^pg905
+*[p. 865]* ^pg905
 
 who planted the vineyard, who led forth the people, who sent the prophets, who sent His own Son, and who gave the vineyard to those other husbandmen that render the fruits in their season.
 
@@ -886,7 +886,7 @@ who planted the vineyard, who led forth the people, who sent the prophets, who s
 
 516 [[Luke 21#^21-34|Luke xxi. 34]], [[Luke 21#^21-35|35]]. 4362 [[Luke 12#^12-35|Luke xii. 35]], [[Luke 12#^12-36|36]]. 4363 [[Luke 17#^17-26|Luke xvii. 26]], etc. 4364 [[Matthew 24#^24-42|Matt. xxiv. 42]]. 4365 No other of the Greek Fathers quotes this text as above; from which fact Grabe infers that old Latin translator, or his 4366 transcribers, altered the words of Irenæus \[N.B.—From one example infer the rest\] to suit the Latin versions. [[Matthew 11#^11-23|Matt. xi. 23]], [[Matthew 11#^11-24|24]]. 4367
 
-*[PDF 906]* ^pg906
+*[p. 866]* ^pg906
 
 check upon the sins of these men, but \[that at the same time\] He might preserve the archetype,<sup>4369</sup> the formation of Adam. And it was He who rained fire and brimstone from heaven, in the days of Lot, upon Sodom and Gomorrah, “an example of the righteous judgment of God,”<sup>4370</sup> that all may know, “that every tree that bringeth not forth good fruit shall be cut down, and cast into the fire.”<sup>4371</sup> And it is He who uses \[the words\], that it will be more tolerable for Sodom in the general judgment than for those who beheld His wonders, and did not believe on Him, nor receive His doctrine.<sup>4372</sup> For as He gave by His advent a greater privilege to those who believed on Him, and who do His will, so also did He point out that those who did not believe on Him should have a more severe punishment in the judgment; thus extending equal justice to all, and being to exact more from those to whom He gives the more; the more, however, not because He reveals the knowledge of another Father, as I have shown so fully and so repeatedly, but because He has, by means of His advent, poured upon the human race the greater gift of paternal grace.
 
@@ -908,7 +908,7 @@ Jude 7. \[And note “strange flesh” (Gr. σαρκὸς ἑτέρας) as to t
 
 [[Matthew 22#^22-1|Matt. xxii. 1]], etc.
 
-*[PDF 907]* ^pg907
+*[p. 867]* ^pg907
 
 clearly show all \[these points, viz.,\] that there is one King and Lord, the Father of all, of whom He had previously said, “Neither shalt thou swear by Jerusalem, for it is the city of the great King;”<sup>4374</sup> and that He had from the beginning prepared the marriage for His Son, and used, with the utmost kindness, to call, by the instrumentality of His servants, the men of the former dispensation to the wedding feast; and when they would not obey, He still invited them by sending out other servants, yet that even then they did not obey Him, but even stoned and slew those who brought them the message of invitation. He accordingly sent forth His armies and destroyed them, and burned down their city; but He called together from all the highways, that is, from all nations, \[guests\] to the marriage feast of His Son, as also He says by Jeremiah: “I have sent also unto you my servants the prophets to say, Return ye now, every man, from his very evil way, and amend your doings.”<sup>4375</sup> And again He says by the same prophet: “I have also sent unto you my servants the prophets throughout the day and before the light; yet they did not obey me, nor incline their ears unto me. 517
 

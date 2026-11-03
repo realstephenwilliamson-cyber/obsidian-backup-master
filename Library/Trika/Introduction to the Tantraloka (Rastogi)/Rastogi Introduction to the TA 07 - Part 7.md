@@ -41,7 +41,7 @@ T.A.V., VIL, p. 97
 
 तच्चोक्तं कतु तात्त्त्वनिरूपणविधौ धुरा ॥ [[Tantraloka 26.068|T.A. 26.68]] Jayaratha suggests परेति नवमत्रयोदा्गिकादौ T.A.V., X, p 352
 
-*[p. 83]* ^pg242
+*[p. 218]* ^pg242
 
 (2) non-reversal of the deed that has commenced giving fruits (19th Ahnika), and 
 
@@ -261,7 +261,7 @@ T.A.V., X, p. 339 4. ततः maaa परिचिन्तयन् N
 शिष्यसंविदभिन्तां च मन्तरदह् न्याद्यभेदिनीम् ॥
 ध्यायन् maa प्रयोगेण शिवं सकलनिष्कलम् ।
 
-*[p. 91]* ^pg250
+*[p. 227]* ^pg250
 
 According to the original index of the ancillary items of Abhinavagupta this ought to be the proper topic of the 17th Ahnika. However, the relative procedure is detailed in the 15th and 16th Ahnikas. Jayaratha's statement below further implies that the 17th Ahnika is, in a sense, continuation of the 15th and 16th. 
 

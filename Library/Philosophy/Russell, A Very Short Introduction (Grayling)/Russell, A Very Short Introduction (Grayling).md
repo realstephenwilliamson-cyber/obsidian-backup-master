@@ -17,11 +17,11 @@ Converted from the PDF on 15 Oct 2026 (PDF text layer, PyMuPDF). Each PDF page s
 ## Contents
 
 - [[Russell VSI 01 - Front matter|Front matter]] (PDF 1–5)
-- [[Russell VSI 02 - RUSSELL|RUSSELL]] (pp. 3)
-- [[Russell VSI 03 - Contents|Contents]] (pp. 4)
-- [[Russell VSI 04 - Preface|Preface]] (pp. 5–6)
-- [[Russell VSI 05 - Abbreviations|Abbreviations]] (pp. 7–8)
-- [[Russell VSI 06 - List of illustrations|List of illustrations]] (pp. 9–10)
+- [[Russell VSI 02 - RUSSELL|RUSSELL]] (PDF 6–7)
+- [[Russell VSI 03 - Contents|Contents]] (PDF 8)
+- [[Russell VSI 04 - Preface|Preface]] (pp. viii–ix)
+- [[Russell VSI 05 - Abbreviations|Abbreviations]] (pp. x–xi)
+- [[Russell VSI 06 - List of illustrations|List of illustrations]] (pp. xii)
 - [[Russell VSI 07 - Life and work|Life and work]] (pp. 1–28)
 - [[Russell VSI 08 - Logic and philosophy|Logic and philosophy]] (pp. 29–60)
 - [[Russell VSI 09 - Philosophy, mind, and science|Philosophy, mind, and science]] (pp. 61–84)

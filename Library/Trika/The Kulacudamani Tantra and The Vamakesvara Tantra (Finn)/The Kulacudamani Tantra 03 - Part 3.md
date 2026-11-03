@@ -131,7 +131,7 @@ he should have her initiated according to the kula initiation
 
 The wise guru whose mouth is filled with a morsel of pan is unshakeable, and worshipping the nobly born and virtuous woman - whose eyes are rolling in the ecstasy of highest blissë! - as if she were his own daughter, he should draw on her forehead
 
-33\. a Śakti cakra of three (triangles) one inside the other. In the middle of it is a Kūmakalā (yantra)[^82]: drawn with Kuśa grass bearing the name and the mantra to be imparted
+33\. a Śakti cakra of three (triangles) one inside the other. In the middle of it is a Kūmakalā (yantra)[^82] drawn with Kuśa grass bearing the name and the mantra to be imparted
 
 (to her).83
 

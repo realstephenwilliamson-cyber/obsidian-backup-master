@@ -234,7 +234,7 @@ There is no doubt in the fact that the author, Nāgārjuna, belonged to the line
 
 Verse No. 12, depicting the emotion of an absolute
 
-*[p. 16]* ^pg98
+*[p. 76]* ^pg98
 
 wonder, experienced in Parā-pujā, can be compared witt, Śivasūtra-I-12 and also with Spandakārikā-1ł1. A parallel tc the verse No. 15, depicting the experience of the state ot liberation, even while one indulges in wordly sensual activities, can be found in Mālini-vi jaya-V àrtika-ii- 108-109. Verse No. 24, suggesting the pantheistic outlook of the author, agrees with the Parādvalta principle expressed in Bodha-pañcadasikā-14 of Abhinavagupta. The twenty-eighth stanza, describing the attitude of a Śivayogin at the highest stage of Śāmbhava-yoga, agrees with the first two stanzas of Anutta-rāṣtikā of the same author. The twenty-sixth stanza hints towards the Saktipāta principle of Kashmir Śaivism as expressed in Mālini-vijaya-vārtika 1-697, 98. The eighth verse, depicting the power of a Śivayogin to swallow even the God of death, has parallels in Bhałlravastotra-4, 5 of Abhinava-gupta and in Śfvājiva-daśaka-5 of Sāhib Kaula.
 
@@ -244,7 +244,7 @@ No trace of any principle or doctrine of any school of Buddhism can be found any
 
 (i) Śivasangamotsavah (P. Tr. 3); (ii) Śivārcanam (Ibid-30);
 
-*[p. 17]* ^pg99
+*[p. 77]* ^pg99
 
 (iii) Śivabhaktibhājām, (lbid 30); (iv) Para-niruttara-Śaiva sampat (C.S. Tr.-14);
 
@@ -254,7 +254,7 @@ The doctrines of practical Śaivism, as hinted at in the two poems of this Śaiv
 
 Such fact strengthens further the view that the philosopher poet belonged to the Kashmirian school of aiva monism because the teachers of that very school patronized only the Trika and Kaula systems of Sādhanā.
 
-*[p. 18]* ^pg100
+*[p. 78]* ^pg100
 
 CHAPTER IX
 
@@ -273,7 +273,7 @@ arati विदवचित्रं स्वाभित्तौ
 नाना वर्णो चित्रितं येन भक्त्या ।
 अन्ते स्वस्मिन् नृत्यते येन हूत्वा सोऽह पाहिन्कोलकारामशाम्मूः ॥
 
-*[p. 19]* ^pg101
+*[p. 79]* ^pg101
 
 Ante svasmin nștyate yena hrtvā
 

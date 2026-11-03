@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 6
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 72–480
+page_range: 55–75
 pdf_pages: 95–115
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 05 - MATHETES|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 07 - IGNATIUS, part 1|next →]]
 
-*[PDF 95]* ^pg95
+*[p. 55]* ^pg95
 
 ## POLYCARP
 
@@ -28,7 +28,7 @@ The Epistle to the Philippians is the more interesting as denoting the state of 
 
 The following is the original Introductory Notice:—The authenticity of the following Epistle can on no fair grounds be questioned. It is abundantly established by external testimony, and is also supported by the internal evidence. Irenæus says (*Adv. Hær.*, iii. 3): “There is extant an Epistle of Polycarp written to the Philippians, most
 
-*[PDF 96]* ^pg96
+*[p. 56]* ^pg96
 
 ### Epistle to the Philippians
 
@@ -52,7 +52,7 @@ I have greatly rejoiced with you in our Lord Jesus Christ, because ye have follo
 
 33 337 The title of this Epistle in most of the mss. is, “The Epistle of St. Polycarp, Bishop of Smyrna, and holy martyr, to the Philippians.” Or, “Polycarp, and those who with him are presbyters.” 338 Literally, “ye have received the patterns of true love.” 339 [[Philippians 01#^1-5|Phil. i. 5]].
 
-*[PDF 97]* ^pg97
+*[p. 57]* ^pg97
 
 even until now, and bringeth forth fruit to our Lord Jesus Christ, who for our sins suffered even unto death, \[but\] “whom God raised from the dead, having loosed the bands of the grave.”<sup>341</sup> “In whom, though now ye see Him not, ye believe, and believing, rejoice with joy unspeakable and full of glory;”<sup>342</sup> into which joy many desire to enter, knowing that “by grace ye are saved, not of works,”<sup>343</sup> but by the will of God through Jesus Christ.
 
@@ -62,7 +62,7 @@ even until now, and bringeth forth fruit to our Lord Jesus Christ, who for our s
 
 [[Acts 02#^2-24|Acts ii. 24]]. Literally, “having loosed the pains of Hades.” 341 [[1 Peter 01#^1-8|1 Pet. i. 8]]. 342 [[Ephesians 02#^2-8|Eph. ii. 8]], [[Ephesians 02#^2-9|9]]. 343 Comp. [[1 Peter 01#^1-13|1 Pet. i. 13]]; [[Ephesians 06#^6-14|Eph. vi. 14]]. 344 Ps. ii. 11. 345 [[1 Peter 01#^1-21|1 Pet. i. 21]]. 346 Comp. [[1 Peter 03#^3-22|1 Pet. iii. 22]]; [[Philippians 02#^2-10|Phil. ii. 10]]. 347 Comp. [[Acts 17#^17-31|Acts xvii. 31]]. 348 Or, “who do not obey him.” 349 Comp [[1 Corinthians 06#^6-14|1 Cor. vi. 14]]; [[2 Corinthians 04#^4-14|2 Cor. iv. 14]]; [[Romans 08#^8-11|Rom. viii. 11]]. 350 [[1 Peter 03#^3-9|1 Pet. iii. 9]]. 351 [[Matthew 07#^7-1|Matt. vii. 1]]. 352 [[Matthew 06#^6-12|Matt. vi. 12]], [[Matthew 06#^6-14|14]]; [[Luke 06#^6-37|Luke vi. 37]]. 353 [[Luke 06#^6-36|Luke vi. 36]]. 354 [[Matthew 07#^7-2|Matt. vii. 2]]; [[Luke 06#^6-38|Luke vi. 38]].
 
-*[PDF 98]* ^pg98
+*[p. 58]* ^pg98
 
 more, “Blessed are the poor, and those that are persecuted for righteousness’ sake, for theirs is the kingdom of God.”<sup>356</sup>
 
@@ -106,7 +106,7 @@ Comp. [[Ephesians 06#^6-11|Eph. vi. 11]].
 
 Comp. [[1 Thessalonians 05#^5-17|1 Thess. v. 17]].
 
-*[PDF 99]* ^pg99
+*[p. 59]* ^pg99
 
 false-witnessing, love of money, and every kind of evil; knowing that they are the altar<sup>364</sup> of God, that He clearly perceives all things, and that nothing is hid from Him, neither reasonings, nor reflections, nor any one of the secret things of the heart.
 
@@ -118,7 +118,7 @@ Knowing, then, that “God is not mocked,”<sup>365</sup> we ought to walk wort
 
 Some here read, “altars.” 364 [[Galatians 06#^6-7|Gal. vi. 7]]. 365 Some read, “God in Christ.” 366 Comp. [[1 Timothy 03#^3-8|1 Tim. iii. 8]]. 367 Comp. [[Matthew 20#^20-28|Matt. xx. 28]]. 368 Πολιτευσώμεθα, referring to the whole conduct; comp. [[Philippians 01#^1-27|Phil. i. 27]]. 369 [[2 Timothy 02#^2-12|2 Tim. ii. 12]]. 370 Some read, ἀνακύπτεσθαι, “to emerge from.” \[So Chevallier, but not Wake nor Jacobson. See the note of latter, *ad loc*.\] 371 [[1 Peter 02#^2-11|1 Pet. ii. 11]]. 372 [[1 Corinthians 06#^6-9|1 Cor. vi. 9]], [[1 Corinthians 06#^6-10|10]].
 
-*[PDF 100]* ^pg100
+*[p. 60]* ^pg100
 
 And let the presbyters be compassionate and merciful to all, bringing back those that wander, visiting all the sick, and not neglecting the widow, the orphan, or the poor, but always “providing for that which is becoming in the sight of God and man;”<sup>374</sup> abstaining from all wrath, respect of persons, and unjust judgment; keeping far off from all covetousness, not quickly crediting \[an evil report\] against any one, not severe in judgment, as knowing that we are all under a debt of sin. If then we entreat the Lord to forgive us, we ought also ourselves to forgive;<sup>375</sup> for we are before the eyes of our Lord and God, and “we must all appear at the judgment-seat of Christ, and must every one give an account of himself.”<sup>376</sup> Let us then serve Him in fear, and with all reverence, even as He Himself has commanded us, and as the apostles who preached the Gospel unto us, and the prophets who proclaimed beforehand the coming of the Lord \[have alike taught us\]. Let us be zealous in the pursuit of that which is good, keeping ourselves from causes of offence, from false brethren, and from those who in hypocrisy bear the name of the Lord, and draw away vain men into error.
 
@@ -128,7 +128,7 @@ And let the presbyters be compassionate and merciful to all, bringing back those
 
 35 [[Romans 12#^12-17|Rom. xii. 17]]; 2 Cor. viii. 31. 374 [[Matthew 06#^6-12|Matt. vi. 12–14]]. 375 [[Romans 14#^14-10|Rom. xiv. 10–12]]; [[2 Corinthians 05#^5-10|2 Cor. v. 10]]. 376 [[1 John 04#^4-3|1 John iv. 3]]. 377 Literally, “the martyrdom of the cross,” which some render, “His suffering on the cross.” 378 \[The original, perhaps, of Eusebius (*Hist.* iv. cap. 14). It became a common-place expression in the Church.\] 379 Comp. Jude 3. 380 [[1 Peter 04#^4-7|1 Pet. iv. 7]]. 381 [[Matthew 06#^6-13|Matt. vi. 13]]; [[Matthew 26#^26-41|Matt. xxvi. 41]]. 382 [[Matthew 26#^26-41|Matt. xxvi. 41]]; [[Mark 14#^14-38|Mark xiv. 38]].
 
-*[PDF 101]* ^pg101
+*[p. 61]* ^pg101
 
 #### Chapter X.—Exhortation to the practice of virtue.
 
@@ -147,7 +147,7 @@ Stand fast, therefore, in these things, and follow the example of the Lord, bein
 1\. Pet. ii. 24. 384 [[1 Peter 02#^2-22|1 Pet. ii. 22]]. 385 Comp. [[1 John 04#^4-9|1 John iv. 9]]. 386 Comp. [[Acts 05#^5-41|Acts v. 41]]; [[1 Peter 04#^4-16|1 Pet. iv. 16]]. 387 Some read, “we glorify Him.” 388 Comp. [[1 Peter 02#^2-21|1 Pet. ii. 21]]. 389 Comp. [[Philippians 02#^2-16|Phil. ii. 16]]; [[Galatians 02#^2-2|Gal. ii. 2]]. 390 391 This and the two following chapters are preserved only in a Latin version. \[See Jacobson, *ad loc*.\] Comp. [[1 Peter 02#^2-17|1 Pet. ii. 17]]. 392 Tobit iv. 10, Tobit xii. 9. Comp. [[1 Peter 05#^5-5|1 Pet. v. 5]]. 394 [[1 Peter 02#^2-12|1 Pet. ii. 12]]. 395 Isa. lii. 5. 396 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 397 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] [[1 Thessalonians 05#^5-22|1 Thess. v. 22]]. 398 Some think that *incontinence* on the part of the Valens and his wife is referred to. \[For many reasons I am glad the 399 translators have preferred the reading πλεονεξίας. The next word, *chaste*, sufficiently rebukes the example of Valens. For once I venture not to coincide with Jacobson’s comment.\] [[1 Corinthians 06#^6-2|1 Cor. vi. 2]]. 400 Some read, “named;” comp. [[Philippians 01#^1-5|Phil. i. 5]]. 401
 
 
-*[PDF 102]* ^pg102
+*[p. 62]* ^pg102
 
 all of you subject one to another<sup>394</sup> “having your conduct blameless among the Gentiles,”<sup>395</sup> that ye may both receive praise for your good works, and the Lord may not be blasphemed through you. But woe to him by whom the name of the Lord is blasphemed!<sup>396</sup> Teach, therefore, sobriety to all, and manifest it also in your own conduct.
 
@@ -158,7 +158,7 @@ I am greatly grieved for Valens, who was once a presbyter among you, because he 
 2\. Thess. iii. 15. 402 Comp. [[1 Corinthians 12#^12-26|1 Cor. xii. 26]].
 
 
-*[PDF 103]* ^pg103
+*[p. 63]* ^pg103
 
 #### Chapter XII.—Exhortation to various graces.
 
@@ -212,7 +212,7 @@ Reference is here made to the two letters of Ignatius, one to Polycarp himself, 
 
 Henceforth, to the end, we have only the Latin version.
 
-*[PDF 104]* ^pg104
+*[p. 64]* ^pg104
 
 ### Introductory Note to the Martyrdom of Polycarp
 
@@ -240,7 +240,7 @@ it. \[Who can fail to be touched by these affectionate yet entirely calm express
 
 Others read, “and in favour with all yours.”
 
-*[PDF 105]* ^pg105
+*[p. 65]* ^pg105
 
 ### The Martyrdom of Polycarp
 
@@ -262,7 +262,7 @@ The Church of God which sojourns at Smyrna, to the Church of God sojourning in P
 
 39 See an ingenious conjecture in Bishop Wordsworth’s *Hippolytus and the Church of Rome*, p. 318, C. 419 Some read, “Philadelphia,” but on inferior authority. Philomelium was a city of Phrygia. 420 The word in the original is ποροικίαις, from which the English “parishes” is derived.
 
-*[PDF 106]* ^pg106
+*[p. 66]* ^pg106
 
 We have written to you, brethren, as to what relates to the martyrs, and especially to the blessed Polycarp, who put an end to the persecution, having, as it were, set a seal upon it by his martyrdom. For almost all the events that happened previously \[to this one\], took place that the Lord might show us from above a martyrdom becoming the Gospel. For he waited to be delivered up, even as the Lord had done, that we also might become his followers, while we look not merely at what concerns ourselves but have regard also to our neighbours. For it is the part of a true and well-founded love, not only to wish one’s self to be saved, but also all the brethren.
 
@@ -274,7 +274,7 @@ All the martyrdoms, then, were blessed and noble which took place according to t
 
 Literally, “who are more pious.” 422 The account now returns to the illustration of the statement made in the first sentence. 423 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]].
 
-*[PDF 107]* ^pg107
+*[p. 67]* ^pg107
 
 For the devil did indeed invent many things against them; but thanks be to God, he could not prevail over all. For the most noble Germanicus strengthened the timidity of others by his own patience, and fought heroically<sup>425</sup> with the wild beasts. For, when the proconsul sought to persuade him, and urged him<sup>426</sup> to take pity upon his age, he attracted the wild beast towards himself, and provoked it, being desirous to escape all the more quickly from an unrighteous and impious world. But upon this the whole multitude, marvelling at the nobility of mind displayed by the devout and 40
 
@@ -304,7 +304,7 @@ Literally, “the nobleness of the God-loving and God-fearing race of Christians
 
 Comp. [[Matthew 10#^10-23|Matt. x. 23]].
 
-*[PDF 108]* ^pg108
+*[p. 68]* ^pg108
 
 And when those who sought for him were at hand, he departed to another dwelling, whither his pursuers immediately came after him. And when they found him not, they seized upon two youths \[that were there\], one of whom, being subjected to torture, confessed. It was thus impossible that he should continue hid, since those that betrayed him were of his own household. The Irenarch<sup>429</sup> then (whose office is the same as that of the Cleronomus<sup>430</sup>), by name Herod, hastened to bring him into the stadium. \[This all happened\] that he might fulfil his special lot, being made a partaker of Christ, and that they who betrayed him might undergo the punishment of Judas himself.
 
@@ -352,7 +352,7 @@ Jacobson reads, “and \[marvelling\] that they had used so great diligence to c
 
 Or, “be silent.”
 
-*[PDF 109]* ^pg109
+*[p. 69]* ^pg109
 
 Now, as soon as he had ceased praying, having made mention of all that had at any time come in contact with him, both small and great, illustrious and obscure, as well as the whole Catholic Church throughout the world, the time of his departure having arrived, they set him upon an ass, and conducted him into the city, the day being that of the great Sabbath. And the Irenarch Herod, accompanied by his father Nicetes (both riding in a chariot<sup>439</sup>), met him, and taking him up into the chariot, they seated themselves beside him, and endeavoured to persuade him, saying, “What harm is there in saying, Lord Cæsar,<sup>440</sup> and in sacrificing, with the other ceremonies observed on such occasions, and so make sure of safety?” But he at first gave them no answer; and when they continued to urge him, he said, “I shall not do as you advise me.” So they, having no hope of persuading him, began to speak bitter<sup>441</sup> words unto him, and cast him with violence out of the chariot,<sup>442</sup> insomuch that, in getting down from the carriage, he dislocated his leg<sup>443</sup> \[by the fall\]. But without being 41
 
@@ -388,7 +388,7 @@ Or, “not turning back.”
 
 Referring the words to the heathen, and not to the Christians, as was desired.
 
-*[PDF 110]* ^pg110
+*[p. 70]* ^pg110
 
 #### Chapter X.—Polycarp confesses himself a Christian.
 
@@ -420,7 +420,7 @@ Literally, “repentance from things better to things worse is a change impossib
 
 That is, to leave this world for a better.
 
-*[PDF 111]* ^pg111
+*[p. 71]* ^pg111
 
 Smyrna, cried out with uncontrollable fury, and in a loud voice, “This is the teacher of Asia,<sup>451</sup> the father of the Christians, and the overthrower of our gods, he who has been teaching many not to sacrifice, or to worship the gods.” Speaking thus, they cried out, and besought Philip the Asiarch<sup>452</sup> to let loose a lion upon Polycarp. But Philip answered that it was not lawful for him to do so, seeing the shows<sup>453</sup> of wild beasts were already finished. Then it seemed good to them to cry out with one consent, that Polycarp should be burnt alive. For thus it behooved the vision which was revealed to him in regard to his pillow to be fulfilled, when, seeing it on fire as he was praying, he turned about and said prophetically to the faithful that were with him, “I must be burnt alive.”
 
@@ -492,7 +492,7 @@ Eusebius omits all mention of the *dove*, and many have thought the text to be h
 
 ἐπ’ ἀριστερᾷ, “on the left hand side,” instead of περιστερά, “a dove.”
 
-*[PDF 113]* ^pg113
+*[p. 73]* ^pg113
 
 and prophetic teacher, and bishop of the Catholic Church which is in Smyrna. For every word that went out of his mouth either has been or shall yet be accomplished.
 
@@ -536,7 +536,7 @@ Or, “more tried.”
 
 Literally, “the birth-day.”
 
-*[PDF 114]* ^pg114
+*[p. 74]* ^pg114
 
 already finished their course,<sup>471</sup> and for the exercising and preparation of those yet to walk in their steps.
 
@@ -568,7 +568,7 @@ Literally, “having learned these things.”
 
 Literally, “gift.”
 
-*[p. 480]* ^pg115
+*[p. 75]* ^pg115
 
 Now, the blessed Polycarp suffered martyrdom on the second day of the month Xanthicus just begun,<sup>476</sup> the seventh day before the Kalends of May, on the great Sabbath, at the eighth hour.<sup>477</sup> He was taken by Herod, Philip the Trallian being high priest,<sup>478</sup> Statius Quadratus being proconsul, but Jesus Christ being King for ever, to whom be glory, honour, majesty, and an everlasting throne, from generation to generation. Amen.
 

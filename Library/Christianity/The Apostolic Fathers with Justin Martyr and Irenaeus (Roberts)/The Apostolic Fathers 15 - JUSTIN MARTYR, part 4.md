@@ -322,7 +322,7 @@ Literally, “fixed.”
 
 Or, “ye islands which sail on it;” or without “continually.”
 
-*[p. 2201]* ^pg411
+*[p. 371]* ^pg411
 
 utterly, He shall stir up zeal, and He shall cry aloud to the enemies with strength.’ ”<sup>2198</sup> And when I repeated this, I said to them, “Have you perceived, my friends, that God says He will give Him whom He has established as a light of the Gentiles, glory, and to no other; and not, as Trypho said, 231
 
@@ -368,7 +368,7 @@ And Trypho said, “The Scriptures compel me to admit it.”
 
 232 We have not seen that Justin admitted this; but it is not to be supposed that the passage where he did admit it has been 2202 lost, as Perionius suspected; for sometimes Justin refers to passages at other places, which he did not relate in their own place. —Maranus.
 
-*[p. 2203]* ^pg413
+*[p. 373]* ^pg413
 
 “Likewise,” said I, “did not the Scriptures predict that God promised to dispense a new covenant besides that which \[was dispensed\] in the mountain Horeb?”
 

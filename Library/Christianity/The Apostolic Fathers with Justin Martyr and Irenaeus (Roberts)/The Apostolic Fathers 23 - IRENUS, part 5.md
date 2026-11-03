@@ -22,7 +22,7 @@ climate, have they brought upon the earth? And again, in opposition to these, wh
 
 The punctuation is here doubtful. With Massuet and Stieren we expunge “vel” from the text.
 
-*[PDF 709]* ^pg709
+*[p. 669]* ^pg709
 
 operation, the workman never appearing to make anything by it, and making no use of it in any of his labours; and then one should maintain that this useless, and idle, and unemployed tool was superior in nature and value to that which the artisan employed in his work, and by means of which he acquired his reputation. Such a man, if any such were found, would justly be regarded as imbecile, and not in his right mind. And so should those be judged of who speak of themselves as being spiritual and superior, and of the Creator as possessed of an animal nature, and maintain that for this reason they will ascend on high, and penetrate within the Pleroma to their own husbands (for, according to their own statements, they are themselves feminine), but that God \[the Creator\] is of an inferior nature, and therefore remains in the intermediate place, while all the time they bring forward no proofs of these assertions: for the better man is shown by his works, and all works have been accomplished by the Creator; but they, having nothing worthy of reason to point to as having been produced by themselves, are labouring under the greatest and most incurable madness.
 

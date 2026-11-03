@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 4
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 5–22
+page_range: 5–42
 pdf_pages: 45–82
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -482,7 +482,7 @@ This fable respecting the phœnix is mentioned by Herodotus (ii. 73) and by Plin
 
 by Tertullian (*De Resurr.*, §13) and by others of the Fathers.
 
-*[PDF 63]* ^pg63
+*[p. 23]* ^pg63
 
 us the mightiness of His power to fulfil His promise?<sup>105</sup> For \[the Scripture\] saith in a certain place, “Thou shalt raise me up, and I shall confess unto Thee;”<sup>106</sup> and again, “I laid me down, and slept; I awaked, because Thou art with me;”<sup>107</sup> and again, Job says, “Thou shalt raise up this flesh of mine, which has suffered all these things.”<sup>108</sup>
 
@@ -534,7 +534,7 @@ Ps. xix. 1–3.
 
 Literally, “abominable lusts of evil deeds.”
 
-*[PDF 64]* ^pg64
+*[p. 24]* ^pg64
 
 receive any of those who run away from Him? For the Scripture saith in a certain place, “Whither shall I go, and where shall I be hid from Thy presence? If I ascend into heaven, Thou art there; if I go away even to the uttermost parts of the earth, there is Thy right hand; if I make my bed in the abyss, there is Thy Spirit.”<sup>116</sup> Whither, then, shall any one go, or where shall he escape from Him who comprehends all things?
 
@@ -574,7 +574,7 @@ Some translate, “youthful lusts.”
 
 Prov. iii. 34; [[James 04#^4-6|Jas. iv. 6]]; [[1 Peter 05#^5-5|1 Pet. v. 5]].
 
-*[PDF 65]* ^pg65
+*[p. 25]* ^pg65
 
 is he that is born of woman, who liveth but a short time: be not given to much speaking.”<sup>123</sup> Let our praise be in God, and not of ourselves; for God hateth those that commend themselves. Let testimony to our good deeds be borne by others, as it was in the case of our righteous forefathers. Boldness, and arrogance, and audacity belong to those that are accursed of God; but moderation, humility, and meekness to such as are blessed by Him.
 
@@ -624,7 +624,7 @@ Comp. [[Romans 09#^9-5|Rom. ix. 5]].
 
 Gen. xxii. 17, Gen. xxviii. 4.
 
-*[PDF 66]* ^pg66
+*[p. 26]* ^pg66
 
 therefore, were highly honoured, and made great, not for their own sake, or for their own works, or for the righteousness which they wrought, but through the operation of His will. And we, too, being called by His will in Christ Jesus, are not justified by ourselves, nor by our own wisdom, or understanding, or godliness, or works which we have wrought in holiness of heart; but by that faith through which, from the beginning, Almighty God has justified all men; to whom be glory for ever and ever. Amen.
 
@@ -636,7 +636,7 @@ What shall we do, then, brethren? Shall we become slothful in well-doing, and ce
 
 14 Or, “commandment.” 134 Or, “in addition to all.” 135 Gen. i. 26, 27. 136 Gen. i. 28. 137 Or, “let us consider.”
 
-*[PDF 67]* ^pg67
+*[p. 27]* ^pg67
 
 The good servant<sup>139</sup> receives the bread of his labour with confidence; the lazy and slothful cannot look his employer in the face. It is requisite, therefore, that we be prompt in the practice of well-doing; for of Him are all things. And thus He forewarns us: “Behold, the Lord \[cometh\], and His reward is before His face, to render to every man according to his work.”<sup>140</sup> He exhorts us, therefore, with our whole heart to attend to this,<sup>141</sup> that we be not lazy or slothful in any good work. Let our boasting and our confidence be in Him. Let us submit ourselves to His will. Let us consider the whole multitude of His angels, how they stand ever ready to minister to His will. For the Scripture saith, “Ten thousand times ten thousand stood around Him, and thousands of thousands ministered unto Him,<sup>142</sup> and cried, Holy, holy, holy, \[is\] the Lord of Sabaoth; the whole creation is full of His glory.”<sup>143</sup> And let us therefore, conscientiously gathering together in harmony, cry to Him earnestly, as with one mouth, that we may be made partakers of His great and glorious promises. For \[the Scripture\] saith, “Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which He hath prepared for them that wait for Him.”<sup>144</sup>
 
@@ -646,7 +646,7 @@ How blessed and wonderful, beloved, are the gifts of God! Life in immortality, s
 
 Or, “labourer.” 139 Isa. xl. 10, Isa. lxii. 11; [[Revelation 22#^22-12|Rev. xxii. 12]]. 140 The text here seems to be corrupt. Some translate, “He warns us with all His heart to this end, that,” etc. 141 Dan. vii. 10. 142 Isa. vi. 3. 143 [[1 Corinthians 02#^2-9|1 Cor. ii. 9]]. 144 Some translate, “in liberty.” 145 Or, “of the ages.” 146 The reading is doubtful: some have ἀφιλοξενίαν, “want of a hospitable spirit.” \[So Jacobson.\]
 
-*[PDF 68]* ^pg68
+*[p. 28]* ^pg68
 
 are hateful to God; and not only they that do them, but also those that take pleasure in them that do them.<sup>148</sup> For the Scripture saith, “But to the sinner God said, Wherefore dost thou declare my statutes, and take my covenant into thy mouth, seeing thou hatest instruction, and castest my words behind thee? When thou sawest a thief, thou consentedst with<sup>149</sup> him, and didst make thy portion with adulterers. Thy mouth has abounded with wickedness, and thy tongue contrived<sup>150</sup> deceit. Thou sittest, and speakest against thy brother; thou slanderest<sup>151</sup> thine own mother’s son. These things thou hast done, and I kept silence; thou thoughtest, wicked one, that I should be like to thyself. But I will reprove thee, and set thyself before thee. Consider now these things, ye that forget God, lest He tear you in pieces, like a lion, and there be none to deliver. The sacrifice of praise will glorify Me, and a way is there by which I will show him the salvation of God.”<sup>152</sup>
 
@@ -656,7 +656,7 @@ This is the way, beloved, in which we find our Saviour,<sup>153</sup> even Jesus
 
 15 [[Romans 01#^1-32|Rom. i. 32]]. 148 Literally, “didst run with.” 149 Literally, “didst weave.” 150 Or, “layest a snare for.” 151 Ps. l. 16–23. The reader will observe how the Septuagint followed by Clement differs from the Hebrew. 152 Literally, “that which saves us.” 153 Or, “rejoices to behold.” 154 Or, “knowledge of immortality.” 155 [[Hebrews 01#^1-3|Heb. i. 3]], [[Hebrews 01#^1-4|4]]. 156 Ps. civ. 4; [[Hebrews 01#^1-7|Heb. i. 7]]. 157 Some render, “to the Son.” 158 Ps. ii. 7, 8; [[Hebrews 01#^1-5|Heb. i. 5]].
 
-*[PDF 69]* ^pg69
+*[p. 29]* ^pg69
 
 He saith to Him, “Sit Thou at My right hand, until I make Thine enemies Thy footstool.”<sup>160</sup> But who are His enemies? All the wicked, and those who set themselves to oppose the will of God.<sup>161</sup>
 
@@ -670,7 +670,7 @@ Let our whole body, then, be preserved in, Christ Jesus; and let every one be su
 
 Ps. cx. 1; [[Hebrews 01#^1-13|Heb. i. 13]]. 160 Some read, “who oppose their own will to that of God.” 161 Literally, “in these there is use.” 162 [[1 Corinthians 12#^12-12|1 Cor. xii. 12]], etc. 163 Literally, “all breathe together.” 164 Literally, “use one subjection.” 165 Literally, “according as he has been placed in his charism.” 166 Comp. Prov. xxvii. 2. 167 The ms. is here slightly torn, and we are left to conjecture.
 
-*[PDF 70]* ^pg70
+*[p. 30]* ^pg70
 
 him the gift of continence. Let us consider, then, brethren, of what matter we were made,—who and what manner of beings we came into the world, as it were out of a sepulchre, and from utter darkness.<sup>169</sup> He who made us and fashioned us, having prepared His bountiful gifts for us before we were born, introduced us into His world. Since, therefore, we receive all these things from Him, we ought for everything to give Him thanks; to whom be glory for ever and ever. Amen.
 
@@ -684,7 +684,7 @@ These things therefore being manifest to us, and since we look into the depths o
 
 16 Comp. Ps. cxxxix. 15. 169 Literally, “and silly and uninstructed.” 170 Literally, “a breath.” 171 Or, “has perceived.” 172 Some render, “they perished at the gates.” 173 Job iv. 16–18, Job xv. 15, Job iv. 19–21, Job v. 1–5. 174 Some join κατά καιροὺς τεταγμένους, “at stated times.” to the next sentence. \[[[1 Corinthians 16#^16-1|1 Cor. xvi. 1]], [[1 Corinthians 16#^16-2|2]].\]
 
-*[PDF 71]* ^pg71
+*[p. 31]* ^pg71
 
 performed \[to Him\], and that not thoughtlessly or irregularly, but at the appointed times and hours. Where and by whom He desires these things to be done, He Himself has fixed by His own supreme will, in order that all things being piously done according to His good pleasure, may be acceptable unto Him.<sup>176</sup> Those, therefore, who present their offerings at the appointed times, are accepted and blessed; for inasmuch as they follow the laws of the Lord, they sin not. For his own peculiar services are assigned to the high priest, and their own proper place is prescribed to the priests, and their own special ministrations devolve on the Levites. The layman is bound by the laws that pertain to laymen.
 
@@ -716,7 +716,7 @@ Literally, “both things were done.”
 
 Or, “confirmed by.”
 
-*[PDF 72]* ^pg72
+*[p. 32]* ^pg72
 
 the first-fruits \[of their labours\], having first proved them by the Spirit,<sup>182</sup> to be bishops and deacons of those who should afterwards believe. Nor was this any new thing, since indeed many ages before it was written concerning bishops and deacons. For thus saith the Scripture in a certain place, “I will appoint their bishops<sup>183</sup> in righteousness, and their deacons<sup>184</sup> in faith.”<sup>185</sup>
 
@@ -726,7 +726,7 @@ And what wonder is it if those in Christ who were entrusted with such a duty by 
 
 17 Or, “having tested them in spirit.” 182 Or, “overseers.” 183 Or, “servants.” 184 Isa. lx. 17, Sept.; but the text is here altered by Clement. The LXX. have “I will give thy rulers in peace, and thy overseers 185 in righteousness.” Num. xii. 7; [[Hebrews 03#^3-5|Heb. iii. 5]]. 186 Literally, “every tribe being written according to its name.” 187 See Num. xvii.
 
-*[PDF 73]* ^pg73
+*[p. 33]* ^pg73
 
 #### Chapter XLIV.—The ordinances of the apostles, that there might be no contention respecting the priestly office.
 
@@ -762,7 +762,7 @@ Or, “Ye perceive.”
 
 Or, “For.”
 
-*[PDF 74]* ^pg74
+*[p. 34]* ^pg74
 
 conceived an unrighteous envy against them. Exposed to such sufferings, they endured them gloriously. For what shall we say, brethren? Was Daniel<sup>196</sup> cast into the den of lions by such as feared God? Were Ananias, and Azarias, and Mishaël shut up in a furnace<sup>197</sup> of fire by those who observed<sup>198</sup> the great and glorious worship of the Most High? Far from us be such a thought! Who, then, were they that did such things? The hateful, and those full of all wickedness, were roused to such a pitch of fury, that they inflicted torture on those who served God with a holy and blameless purpose \[of heart\], not knowing that the Most High is the Defender and Protector of all such as with a pure conscience venerate<sup>199</sup> His all-excellent name; to whom be glory for ever and ever. Amen. But they who with confidence endured \[these things\] are now heirs of glory and honour, and have been exalted and made illustrious<sup>200</sup> by God in their memorial for ever and ever. Amen.
 
@@ -816,7 +816,7 @@ Or, “war.” Comp. [[James 04#^4-1|Jas. iv. 1]].
 
 Comp. [[Ephesians 04#^4-4|Eph. iv. 4–6]].
 
-*[PDF 75]* ^pg75
+*[p. 35]* ^pg75
 
 of another?”<sup>208</sup> Remember the words of our Lord Jesus Christ, how<sup>209</sup> He said, “Woe to that man \[by whom<sup>210</sup> offences come\]! It were better for him that he had never been born, than that he should cast a stumbling-block before one of my elect. Yea, it were better for him that a millstone should be hung about \[his neck\], and he should be sunk in the depths of the sea, than that he should cast a stumbling-block before one of my little ones.”<sup>211</sup> Your schism has subverted \[the faith of\] many, has discouraged many, has given rise to doubt in many, and has caused grief to us all. And still 18
 
@@ -864,7 +864,7 @@ Literally, “of conduct in Christ.”
 
 Or, “aliens from us,” i.e., the Gentiles.
 
-*[PDF 76]* ^pg76
+*[p. 36]* ^pg76
 
 #### Chapter XLVIII.—Let us return to the practice of brotherly love.
 
@@ -898,7 +898,7 @@ Comp. [[1 Corinthians 13#^13-4|1 Cor. xiii. 4]], etc.
 
 \[Comp. Irenæus, v. 1; also Mathetes, Ep. to Diognetus, cap. ix.\]
 
-*[PDF 77]* ^pg77
+*[p. 37]* ^pg77
 
 Ye see, beloved, how great and wonderful a thing is love, and that there is no declaring its perfection. Who is fit to be found in it, except such as God has vouchsafed to render so? Let us pray, therefore, and implore of His mercy, that we may live blameless in love, free from all human partialities for one above another. All the generations from Adam even unto this day have passed away; but those who, through the grace of God, have been made perfect in love, now possess a place among the godly, and shall be made manifest at the revelation<sup>224</sup> of the kingdom of Christ. For it is written, “Enter into thy secret chambers for a little time, until my wrath and fury pass away; and I will remember a propitious<sup>225</sup> day, and will raise you up out of your graves.”<sup>226</sup> Blessed are we, beloved, if we keep the commandments of God in the harmony of love; that so through love our sins may be forgiven us. For it is written, “Blessed are they whose transgressions are forgiven, and whose sins are covered. Blessed is the man whose sin the Lord will not impute to him, and in whose mouth there is no guile.”<sup>227</sup> This blessedness cometh upon those who have been chosen by God through Jesus Christ our Lord; to whom be glory for ever and ever. Amen.
 
@@ -938,7 +938,7 @@ Num. xvi.
 
 Ex. xiv.
 
-*[PDF 78]* ^pg78
+*[p. 38]* ^pg78
 
 #### Chapter LII.—Such a confession is pleasing to God.
 
@@ -982,7 +982,7 @@ Or, “mighty.”
 
 Literally, “be wiped out.”
 
-*[PDF 79]* ^pg79
+*[p. 39]* ^pg79
 
 #### Chapter LIV.—He who is full of love will incur every loss, that peace may be restored to the Church.
 
@@ -994,7 +994,7 @@ To bring forward some examples from among the heathen: Many kings and princes, i
 
 20 Literally, “the multitude.” \[Clement here puts words into the mouth of the Corinthian presbyters. It has been strangely 241 quoted to strengthen a conjecture that he had humbly preferred Linus and Cletus when first called to preside.\] Or, “receive.” 242 Ps. xxiv. 1; [[1 Corinthians 10#^10-26|1 Cor. x. 26]], [[1 Corinthians 10#^10-28|28]]. 243 Literally, “and having received their prices, fed others.” \[Comp. [[Romans 16#^16-3|Rom. xvi. 3]], [[Romans 16#^16-4|4]], and [[Philippians 02#^2-30|Phil. ii. 30]].\] 244 Judith viii. 30. 245 Esth. vii., viii.
 
-*[PDF 80]* ^pg80
+*[p. 40]* ^pg80
 
 #### Chapter LVI.—Let us admonish and correct one another.
 
@@ -1030,7 +1030,7 @@ Literally, “err” or “sin.”
 
 Job v. 17–26.
 
-*[PDF 81]* ^pg81
+*[p. 41]* ^pg81
 
 Ye therefore, who laid the foundation of this sedition, submit yourselves to the presbyters, and receive correction so as to repent, bending the knees of your hearts. Learn to be subject, laying aside the proud and arrogant self-confidence of your tongue. For it is better for you that ye should occupy<sup>255</sup> a humble but honourable place in the flock of Christ, than that, being highly exalted, ye should be cast out from the hope of His people.<sup>256</sup> For thus speaketh all-virtuous Wisdom:<sup>257</sup> “Behold, I will bring forth to you the words of My Spirit, and I will teach you My speech. Since I called, and ye did not hear; I held forth My words, and ye regarded not, but set at naught My counsels, and yielded not at My reproofs; therefore I too will laugh at your destruction; yea, I will rejoice when ruin cometh upon you, and when sudden confusion overtakes you, when overturning presents itself like a tempest, or when tribulation and oppression fall upon you. For it shall come to pass, that when ye call upon Me, I will not hear you; the wicked shall seek Me, and they shall not find Me. For they hated wisdom, and did not choose the fear of the Lord; nor would they listen to My counsels, but despised My reproofs. Wherefore they shall eat the fruits of their own way, and they shall be filled with their own ungodliness.” …<sup>258</sup>
 
@@ -1042,7 +1042,7 @@ May God, who seeth all things, and who is the Ruler of all spirits and the Lord 
 
 21 Literally, “to be found small and esteemed.” 255 Literally, “His hope.” \[It has been conjectured that ἔλπιδος should be ἔπαύλιδος, and the reading, “out of the fold of his 256 people.” See Chevallier.\] Prov. i. 23–31. \[Often cited by this name in primitive writers.\] 257 Junius (Pat. Young), who examined the ms. before it was bound into its present form, stated that a whole leaf was here 258 lost. The next letters that occur are ιπον, which have been supposed to indicate εἶπον or ἔλιπον. Doubtless some passages quoted by the ancients from the Epistle of Clement, and not now found in it, occurred in the portion which has thus been lost. Comp. [[Titus 02#^2-14|Tit. ii. 14]].
 
-*[PDF 82]* ^pg82
+*[p. 42]* ^pg82
 
 Send back speedily to us in peace and with joy these our messengers to you: Claudius Ephebus and Valerius Bito, with Fortunatus: that they may the sooner announce to us the peace and harmony we so earnestly desire and long for \[among you\], and that we may the more quickly rejoice over the good order re-established among you. The grace of our Lord Jesus Christ be with you, and with all everywhere that are the called of God through Him, by whom be to Him glory, honour, power, majesty, and eternal dominion,<sup>260</sup> from everlasting to everlasting.<sup>261</sup> Amen.<sup>262</sup>
 

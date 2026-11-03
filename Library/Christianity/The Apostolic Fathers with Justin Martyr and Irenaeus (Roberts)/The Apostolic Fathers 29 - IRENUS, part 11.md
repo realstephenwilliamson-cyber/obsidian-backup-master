@@ -196,7 +196,7 @@ and showed that He is Himself the voice of God, by which man received commandmen
 
 Ps. xxxii. 1, 2. 4598 [[Colossians 02#^2-14|Col. ii. 14]]. 4599 2 Kings vi. 6. 4600 [[Matthew 03#^3-10|Matt. iii. 10]]. 4601 Jer. xxiii. 29. 4602 The Greek is preserved here, and reads, διὰ τῆς θείας ἐκτάσεως τῶν χειρῶν— literally, “through the divine extension of 4603 hands.” The old Latin merely reads, “per extensionem manuum.”
 
-*[PDF 957]* ^pg957
+*[p. 917]* ^pg957
 
 one God.” For these were two hands, because there were two peoples scattered to the ends of the earth; but there was one head in the middle, as there is but one God, who is above all, and through all, and in us all.
 
@@ -218,7 +218,7 @@ doctrine denied by the Oriental Church in after times. \[Here is nothing about t
 
 Grabe and Harvey insert the words, “quod est conditionis,” but on slender authority.
 
-*[PDF 958]* ^pg958
+*[p. 918]* ^pg958
 
 God, namely generation. And thus one God the Father is declared, who is above all, and through all, and in all. The Father is indeed above all, and He is the Head of Christ; but the Word is through all things, and is Himself the Head of the Church; while the Spirit is in us all, and He is the living water,<sup>4607</sup> which the Lord grants to those who rightly believe in Him, and love Him, and who know that “there is one Father, who is above all, and through all, and in us all.”<sup>4608</sup> And to these things does John also, the disciple of the Lord, bear witness, when he speaks thus in the Gospel: “In the beginning was the Word, and the Word was with God, and the Word was God. This was in the beginning with God. All things were made by Him, and without Him was nothing made.”<sup>4609</sup> And then he said of the Word Himself: “He was in the world, and the world was made by Him, and the world knew Him not. To His own things He came, and His own people received Him not. However, as many as did receive Him, to these gave He power to become the sons of God, to those that believe in His name.”<sup>4610</sup> And again, showing the dispensation with regard to His human nature, John said: “And the Word was made flesh, and dwelt among us.”<sup>4611</sup> And in continuation he says, “And we beheld His glory, the glory as of the Only-begotten by the Father, full of grace and truth.” He thus plainly points out to those willing to hear, that is, to those having ears, that there is one God, the Father over all, and one Word of God, who is through all, by whom all things have been made; and that this world belongs to Him, and was made by Him, according to the Father’s will, and not by angels; nor by apostasy, defect, and ignorance; nor by any power of Prunicus, whom certain of them also call “the Mother;” nor by any other maker of the world ignorant of the Father.
 
@@ -226,7 +226,7 @@ God, namely generation. And thus one God the Father is declared, who is above al
 
 547 [[John 07#^7-39|John vii. 39]]. 4607 [[Ephesians 04#^4-6|Eph. iv. 6]]. 4608 [[John 01#^1-1|John i. 1]], etc. 4609 [[John 01#^1-10|John i. 10]], etc. 4610 [[John 01#^1-14|John i. 14]]. 4611 The text reads “invisiblilter,” which seems clearly an error. 4612 Deut. xxviii. 66. 4613
 
-*[PDF 959]* ^pg959
+*[p. 919]* ^pg959
 
 appointing a law observable to the outward senses, that all things should continue each in its own order; and He reigns manifestly over things visible and pertaining to men; and brings in just judgment and worthy upon all; as David also, clearly pointing to this, says, “Our God shall openly come, and will not keep silence.”<sup>4615</sup> Then he shows also the judgment which is brought in by Him, saying, “A fire shall burn in His sight, and a strong tempest shall rage round about Him. He shall call upon the heaven from above, and the earth, to judge His people.”
 
@@ -250,7 +250,7 @@ of the other end of a burden. The argument implies that Mary was thus the counte
 
 The text reads “porro,” which makes no sense; so that Harvey looks upon it as a corruption of the reading “per Horum.”
 
-*[PDF 960]* ^pg960
+*[p. 920]* ^pg960
 
 Father—that it sprang forth (*floruisse*) of itself, and from itself was born. Then, again, others \[of them assert\] that it obtained substance in those things which are contained by the Father, from defect and ignorance; others still, despise the advent of the Lord manifest \[to the senses\], for they do not admit His incarnation; while others, ignoring the arrangement \[that He should be born\] of a virgin, maintain that He was begotten by Joseph. And still further, some affirm that neither their soul nor their body can receive eternal life, but merely the inner man. Moreover, they will have it that this \[inner man\] is that which is the understanding (*sensum*) in them, and which they decree as being the only thing to ascend to “the perfect.” Others \[maintain\], as I have said in the first book, that while the soul is saved, their body does not participate in the salvation which comes from God; in which \[book\] I have also set forward the hypotheses of all these men, and in the second have pointed out their weakness and inconsistency.
 
@@ -260,7 +260,7 @@ Father—that it sprang forth (*floruisse*) of itself, and from itself was born.
 
 548 “Et eandem figuram ejus quæ est erga ecclesiam ordinationis custodientibus.” Grabe supposes this refers to the ordained 4619 ministry of the Church, but Harvey thinks it refers more probably to its general constitution. \[He thus outlines the creed, and epitomizes “the faith once delivered to the saints,” as all that is requisite to salvation.\] 4620 Prov. i. 20, 21.
 
-*[PDF 961]* ^pg961
+*[p. 921]* ^pg961
 
 2\. Those, therefore, who desert the preaching of the Church, call in question the knowledge of the holy presbyters, not taking into consideration of how much greater consequence is a religious man, even in a private station, than a blasphemous and impudent sophist.<sup>4622</sup> Now, such are all the heretics, and those who imagine that they have hit upon something more beyond the truth, so that by following those things already mentioned, proceeding on their way variously, inharmoniously, and foolishly, not keeping always to the same opinions with regard to the same things, as blind men are led by the blind, they shall deservedly fall into the ditch of ignorance lying in their path, ever seeking and never finding out the truth.<sup>4623</sup> It behoves us, therefore, to avoid their doctrines, and to take careful heed lest we suffer any injury from them; but to flee to the Church, and be brought up in her bosom, and be nourished with the Lord’s Scriptures. For the Church has been planted as a garden (*paradisus*) in this world; therefore says the Spirit of God, “Thou mayest freely eat from every tree of the garden,”<sup>4624</sup> that is, Eat ye from every Scripture of the Lord; but ye shall not eat with an uplifted mind, nor touch any heretical discord. For these men do profess that they have themselves the knowledge of good and evil; and they set their own impious minds above the God who made them. They therefore form opinions on what is beyond the limits of the understanding. For this cause also the apostle says, “Be not wise beyond what it is fitting to be wise, but be wise prudently,”<sup>4625</sup> that we be not cast forth by eating of the “knowledge” of these men (that knowledge which knows more than it should do) from the paradise of life. Into this paradise the Lord has introduced those who obey His call, “summing up in Himself all things which are in heaven, and which are on earth;”<sup>4626</sup> but the things in heaven are spiritual, while those on earth constitute the dispensation in human nature (*secundum hominem est dispositio*). These things, therefore, He recapitulated in Himself: by uniting man to the Spirit, and causing the Spirit to dwell in man, He is Himself made the head of the Spirit, and gives the Spirit to be the head of man: for through Him (the Spirit) we see, and hear, and speak.
 
@@ -270,7 +270,7 @@ Father—that it sprang forth (*floruisse*) of itself, and from itself was born.
 
 That is, the private Christian as contrasted with the sophist of the schools. 4622 [[2 Timothy 03#^3-7|2 Tim. iii. 7]]. 4623 Gen. ii. 16. 4624 [[Romans 12#^12-3|Rom. xii. 3]]. 4625 [[Ephesians 01#^1-10|Eph. i. 10]].
 
-*[PDF 962]* ^pg962
+*[p. 922]* ^pg962
 
 trampled upon his head, as thou canst perceive in Genesis that God said to the serpent, “And I will put enmity between thee and the woman, and between thy seed and her seed; He shall be on the watch for (*observabit*<sup>4627</sup>) thy head, and thou on the watch for His heel.”<sup>4628</sup> For from that time, He who should be born of a woman, \[namely\] from the Virgin, after the likeness of Adam, was preached as keeping watch for the head of the serpent. This is the seed of which the apostle says in the Epistle to the Galatians, “that the law of works was established until the seed should come to whom the promise was made.”<sup>4629</sup> This fact is exhibited in a still clearer light in the same Epistle, where he thus speaks: “But when the fulness of time was come, God sent forth His Son, made of a woman.”<sup>4630</sup> For indeed the enemy would not have been fairly vanquished, unless it had been a man \[born\] of a woman who conquered him. For it was by means of a woman that he got the advantage over man 549
 
@@ -300,7 +300,7 @@ Gen. iii. 15.
 
 Deut. viii. 3.
 
-*[p. 4638]* ^pg963
+*[p. 923]* ^pg963
 
 made no remark; but by thus acknowledging His human nature He baffled His adversary, and exhausted the force of his first attack by means of His Father’s word. The corruption of man, therefore, which occurred in paradise by both \[of our first parents\] eating, was done away with by \[the Lord’s\] want of food in this world.<sup>4633</sup> But he, being thus vanquished by the law, endeavoured again to make an assault by himself quoting a commandment of the law. For, bringing Him to the highest pinnacle of the temple, he said to Him, “If thou art the Son of God, cast thyself down. For it is written, That God shall give His angels charge concerning thee, and in their hands they shall bear thee up, lest perchance thou dash thy foot against a stone;”<sup>4634</sup> thus concealing a falsehood under the guise of Scripture, as is done by all the heretics. For that was indeed written, \[namely\], “That He hath given His angels charge concerning Him;” but “cast thyself down from hence” no Scripture said in reference to Him: this kind of persuasion the devil produced from himself. The Lord therefore confuted him out of the law, when He said, “It is written again, Thou shalt not tempt the Lord thy God;”<sup>4635</sup> pointing out by the word contained in the law that which is the duty of man, that he should not tempt God; and in regard to Himself, since He appeared in human form, \[declaring\] that He would not tempt the Lord his God.<sup>4636</sup> The pride of reason, therefore, which was in the serpent, was put to nought by the humility found in the man \[Christ\], and now twice was the devil conquered from Scripture, when he was detected as advising things contrary to God’s commandment, and was shown to be the enemy of God by \[the expression of\] his thoughts. He then, having been thus signally defeated, and then, as it were, concentrating his forces, drawing up in order all his available power for falsehood, in the third place “showed Him all the kingdoms of the world, and the glory of them,”<sup>4637</sup> saying, as Luke relates, “All these will I give thee,—for they are delivered to me; and to whom I will, I give them,—if thou wilt fall down and worship me.” The Lord then, exposing him in his true character, says, “Depart, Satan; for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve.”<sup>4638</sup> He both revealed him by this name, and showed \[at the same time\] who He Himself was. For the Hebrew word “Satan” signifies an apostate. And thus, vanquishing him for the third time, He spurned him from Him finally as being conquered out of the law; and there was done away with that infringement of God’s commandment which had
 
@@ -324,7 +324,7 @@ This sentence is one of great obscurity.
 
 4637
 
-*[p. 4639]* ^pg964
+*[p. 924]* ^pg964
 
 occurred in Adam, by means of the precept of the law, which the Son of man observed, who did not transgress the commandment of God.
 
@@ -338,7 +338,7 @@ all should worship, and serve Him alone? It is, beyond all manner of doubt, that
 
 [[Matthew 12#^12-29|Matt. xii. 29]] and [[Mark 03#^3-27|Mark iii. 27]].
 
-*[PDF 965]* ^pg965
+*[p. 925]* ^pg965
 
 uncircumcision through faith.<sup>4640</sup> For if there were any other perfect Father above Him, He (Christ) would by no means have overthrown Satan by means of His words and commandments. For one ignorance cannot be done away with by means of another ignorance, any more than one defect by another defect. If, therefore, the law is due to ignorance and defect, how could the statements contained therein bring to nought the ignorance of the devil, and conquer the strong man? For a strong man can be conquered neither by an inferior nor by an equal, but by one possessed of greater power. But the Word of God is the superior above all, He who is loudly proclaimed in the law: “Hear, O Israel, the Lord thy God is one God;” and, “Thou shalt love the Lord thy God with all thy heart;” and, “Him shall thou adore, and Him alone shall thou serve.”<sup>4641</sup> Then in the Gospel, casting down the apostasy by means of these expressions, He did both overcome the strong man by His Father’s voice, and He acknowledges the commandment of the law to express His own sentiments, when He says, “Thou shall not tempt the Lord thy God.”<sup>4642</sup> For He did not confound the adversary by the saying of any other, but by that belonging to His own Father, and thus overcame the strong man.
 
@@ -346,7 +346,7 @@ uncircumcision through faith.<sup>4640</sup> For if there were any other perfect
 
 551 [[Romans 03#^3-30|Rom. iii. 30]]. 4640 Deut. vi. 4, 5, 13. 4641 [[Matthew 04#^4-7|Matt. iv. 7]]. 4642 Deut. vi. 16. 4643 [[Romans 12#^12-16|Rom. xii. 16]]. 4644
 
-*[PDF 966]* ^pg966
+*[p. 926]* ^pg966
 
 he give away the rule over men to men; but both all other things, and all human affairs, are arranged according to God the Father’s disposal. Besides, the Lord declares that “the devil is a liar from the beginning, and the truth is not in him.”<sup>4646</sup> If then he be a liar and the truth be not in him, he certainly did not speak truth, but a lie, when he said, “For all these things are delivered to me, and to whomsoever I will I give them.”<sup>4647</sup>
 
@@ -374,7 +374,7 @@ Gen. iii. 2, 3.
 
 4650
 
-*[PDF 967]* ^pg967
+*[p. 927]* ^pg967
 
 2\. Thus, then, in the day that they did eat, in the same did they die, and became death’s debtors, since it was one day of the creation. For it is said, “There was made in the evening, and there was made in the morning, one day.” Now in this same day that they did eat, in that also did they die. But according to the cycle and progress of the days, after which one is termed first, another second, and another third, if anybody seeks diligently to learn upon what day out of the seven it was that Adam died, he will find it by examining the dispensation of the Lord. For by summing up in Himself the whole human race from the beginning to the end, He has also summed up its death. From this it is clear that the Lord suffered death, in obedience to His Father, upon that day on which Adam died while he disobeyed God. Now he died on the same day in which he did eat. For God said, “In that day on which ye shall eat of it, ye shall die by death.” The Lord, therefore, recapitulating in Himself this day, underwent His sufferings upon the day preceding the Sabbath, that is, the sixth day of the creation, on which day man was created; thus granting him a second creation by means of His passion, which is that \[creation\] out of death. And there are some, again, who relegate the death of Adam to the thousandth year; for since “a day of the Lord is as a thousand years,”<sup>4652</sup> he did not overstep the thousand years, but died within them, thus bearing out the sentence of his sin. Whether, therefore, with respect to disobedience, which is death; whether \[we consider\] that, on account of that, they were delivered over to death, and made debtors to it; whether with respect to \[the fact that on\] one and the same day on which they ate they also died (for it is one day of the creation); whether \[we regard this point\], that, with respect to this cycle of days, they died on the day in which they did also eat, that is, the day of the preparation, which is termed “the pure supper,” that is, the sixth day of the feast, which the Lord also exhibited when He suffered on that day; or whether \[we reflect\] that he (Adam) did not overstep the thousand years, but died within their limit,—it follows that, in regard to all these significations, God is indeed true. For they died who tasted of the tree; and the serpent is proved a liar and a murderer, as the Lord said of him: “For he is a murderer from the beginning, and the truth is not in him.”<sup>4653</sup>
 

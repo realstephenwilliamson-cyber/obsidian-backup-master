@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 2
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-page_range: "3"
+page_range: ""
 pdf_pages: "6–7"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -20,7 +20,7 @@ A. C. Grayling
 
 A Very Short Introduction
 
-*[p. 3]* ^pg7
+*[PDF 7]* ^pg7
 
 Great Clarendon Street, Oxford ox 2 6 dp
 

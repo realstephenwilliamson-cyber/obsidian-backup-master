@@ -1125,7 +1125,7 @@ kareṇa yena prapinaṣṭi kuñjarān |
 na tena simho maśakānprabādhate || 128 ||
 sulabhāh puruṣșā rājansatataṇ priyavādinaḷh |
 
-*[p. 1]* ^pg255
+*[p. 240]* ^pg255
 
 apriyasya tu pathyasya vaktā śrotā ca durlabhah || 129 ||
 suvyāhrtāni sūktāni sukytāni tatastatah |
@@ -1149,7 +1149,7 @@ sravanti na nivartante srotāmsi saritāmiva |
 
 āyurādāya martyānām rātryahāni punah punah || 136 ||
 
-*[p. 2]* ^pg256
+*[p. 241]* ^pg256
 
 There is no one ‘right’ way of translating a text. Independently from the fact that the stylistic features of a literary text can often be rendered into another language in more than one equally good manner, the basic nature of a translation is determined by its purpose. Are you trying to create something that will make a text accessible to those who cannot read the original, a translation that will be published on its own? Then do remain close to that original wherever possible, but take all the idiomatic liberties that you need to make the translation enjoyable as a work of literature, of art, in its own right. (This is what I would call a literary translation.) Are you trying to create something that will allow the reader to better understand the original text, a translation that will be published e.g. facing the original? Then you do need to offer a grammatically correct translation, of course — but your focus should be on rendering what the source text is literally saying. (This is what I call a literal translation.) The process is fundamentally the same, yet your priorities will be quite different.
 
@@ -1159,7 +1159,7 @@ Chapter i: Hitopadesśa, or ‘Supportive Advice’
 
 a 2.2 The Dog, the Donkey and the Thief (1) There is (= was) in Vārāṇasī a fisherman named Camphor-Cloth. (2) \[And\] once he, having excessively made love with his very young wife, was fast asleep having embraced (her) (= in her embrace). (3) Very soon after, a thief entered in order to steal things from his house. (4) In his courtyard stands (= stood) a tied-down donkey, and a dog is (was) seated. (5) Then the donkey said to the dog: ‘Friend! This (is) your duty indeed. (6) So why, having made a noise loudly, don’t you wake (our) master (= why don't you make a loud noise and ...)? (7) The dog says (said): ‘My good friend, involvement in my duty should not be made by you (= don’t meddle with my duty)! (8) Do you \[indeed\] not know that I make house-guarding of/for him (= that I guard his house) day and night? (9) Because he has been satisfied for a long time, he does not know/recognize my usefulness. (10) Thus even now (he is) careless about giving food to (feeding) me. (11) Because without perceiving need, masters are careless about/towards their servants; (12) The donkey says (said): ‘Listen, you idiot! (13) Who makes demands in time of need, \[he\] is a bad servant (and) \[he\] ís a bad friend.” (14) The dog says (said): ‘Listen now! ‘But who respects (his) servants (only) in time of need, \[he\] is a bad master, (15) For: ‘In the support of relatives, in the service of a master, in the devotion to dharma and also in the begetting of a son, there are no proxies.” (16) Then the donkey said angrily: (17) ‘Ugh! Evil-minded one, you are truly bad, that in misfortune you neglect (your) duty towards (you) master, (18) So be it. ih.
 
-*[PDF 257]* ^pg257
+*[p. 242]* ^pg257
 
 (19) So that the master will wake up, \[thus\] I must act. (20) Because: ‘One should enjoy the sun with/in (one’s) back, the fire with (one’s) stomach (= facing it), cherish (one’s) master with (one’s) whole being and the next world without deceit. (21) Having spoken thus, he loudly made a braying noise (brayed loudly). (22) Then the washerman, awoken by that braying, having got up from anger over the interruption of (his) sleep, beat the donkey with a stick. (23) Hence I say: ‘Who might make meddling (= might meddle) in the responsibility of another through desire for the well-being of his master, \[he\] despairs like the donkey beaten because of \[his\] braying.
 

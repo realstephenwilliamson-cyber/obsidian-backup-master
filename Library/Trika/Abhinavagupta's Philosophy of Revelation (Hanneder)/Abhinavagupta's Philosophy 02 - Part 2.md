@@ -81,7 +81,7 @@ One view to be found in the secondary literature is that of the Vārttika being 
 
 9 The TĀ is also called Vārttika by Abhinavagupta himself in a cross-reference. 
 
-*[p. 11]* ^pg44
+*[p. 35]* ^pg44
 
 2 The Mālinīślokavārttika 
 

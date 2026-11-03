@@ -398,7 +398,7 @@ Therefore, Oh Goddess:, have regard now for me who am intent on kissing (those) 
 
 25\. If following your kula path brings me blame, I would rather have my reputation suffer, and prefer not to have the followers of Viṣṇu and Indra about me.
 
-Oh Mother: Let our thoughts always be in meditation on your lotus feet which are the abode of your worshippers Brahmā, Viṣṇu, Siva, Agni and the enemy of the demons.[^268]:
+Oh Mother: Let our thoughts always be in meditation on your lotus feet which are the abode of your worshippers Brahmā, Viṣṇu, Siva, Agni and the enemy of the demons.[^268]
 
 [^267]: I.e., the lion.
 [^268]: I.e., Indra.

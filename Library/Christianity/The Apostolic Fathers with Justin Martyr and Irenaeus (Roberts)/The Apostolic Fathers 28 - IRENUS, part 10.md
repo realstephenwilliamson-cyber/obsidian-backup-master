@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 28
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 4447–907
+page_range: 868–907
 pdf_pages: 908–947
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 27 - IRENUS, part 9|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 29 - IRENUS, part 11|next →]]
 
-*[PDF 908]* ^pg908
+*[p. 868]* ^pg908
 
 be sent into outer darkness. But it is one and the same God, the Father of our Lord, from whom also the prophets had their mission, who does indeed, through His infinite kindness, call the unworthy; but He examines those who are called, \[to ascertain\] if they have on the garment fit and proper for the marriage of His Son, because nothing unbecoming or evil pleases Him. This is in accordance with what the Lord said to the man who had been healed: “Behold, thou art made whole; sin no more, lest a worse thing come unto thee.”<sup>4381</sup> For he who is good, and righteous, and pure, and spotless, will endure nothing evil, nor unjust, nor detestable in His wedding chamber. This is the Father of our Lord, by whose providence all things consist, and all are administered by His command; and He confers His free gifts upon those who should \[receive them\]; but the most righteous Retributor metes out \[punishment\] according to their deserts, most deservedly, to the ungrateful and to those that are insensible of His kindness; and therefore does He say, “He sent His armies, and destroyed those murderers, and burned up their city.”<sup>4382</sup> He says here, “His armies,” because all men are the property of God. For “the earth is the Lord’s, and the fulness thereof; the world, and all that dwell therein.”<sup>4383</sup> Wherefore also the Apostle Paul says in the Epistle to the Romans, “For there is no power but of God; the powers that be are ordained of God. Whosoever resisteth the power, resisteth the ordinance of God; and they that resist shall receive unto themselves condemnation. For rulers are not for a terror to a good work, but to an evil. Wilt thou then not be afraid of the power? Do that which is good, and thou shalt have praise of the same; for he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, the avenger for wrath upon him that doeth evil. Wherefore ye must needs be subject, not only for wrath, but also for conscience sake. For this cause pay ye tribute also; for they are God’s ministers, attending continually upon this very thing.”<sup>4384</sup> Both the Lord, then, and the apostles announce as the one only God the Father, Him who gave the law, who sent the prophets, who made all things; and therefore does He say, “He sent His armies,” because every man, inasmuch as he is a man, is His workmanship, although he may be ignorant of his God. For He gives existence to all; He, “who maketh His sun to rise upon the evil and the good, and sendeth rain upon the just and unjust.”<sup>4385</sup>
 
@@ -34,7 +34,7 @@ Ps. xxiv. 1.
 
 4384
 
-*[PDF 909]* ^pg909
+*[p. 869]* ^pg909
 
 \[namely\] his younger son, he ordered the fatted calf to be killed, and he gave him the best robe.<sup>4386</sup> Also by the parable of the workmen who were sent into the vineyard at different periods of the day, one and the same God is declared<sup>4387</sup> as having called some in the beginning, when the world was 518
 
@@ -68,7 +68,7 @@ Ps. cxvi. 2.
 
 [[Luke 13#^13-34|Luke xiii. 34]]; [[Matthew 23#^23-37|Matt. xxiii. 37]].
 
-*[PDF 910]* ^pg910
+*[p. 870]* ^pg910
 
 them but once, and then for the first time. But since He who chose the patriarchs and those \[who lived under the first covenant\], is the same Word of God who did both visit them through the prophetic Spirit, and us also who have been called together from all quarters by His advent; in addition to what has been already said, He truly declared, “Many shall come from the east and from the west, and shall recline with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall go into outer darkness; there shall be weeping and gnashing of teeth.”<sup>4393</sup> If, then, those who do believe in Him through the preaching of His apostles throughout the east and west shall recline with Abraham, Isaac, and Jacob, in the kingdom of heaven, partaking with them of the \[heavenly\] banquet, one and the same God is set forth as He who did indeed choose the patriarchs, visited also the people, and called the Gentiles.
 
@@ -78,7 +78,7 @@ them but once, and then for the first time. But since He who chose the patriarch
 
 519 [[Matthew 08#^8-11|Matt. viii. 11]], [[Matthew 08#^8-12|12]]. 4393 [[Matthew 23#^23-37|Matt. xxiii. 37]]. 4394
 
-*[PDF 911]* ^pg911
+*[p. 871]* ^pg911
 
 it in their power not to do it; but those who do it not shall receive the just judgment of God, because they did not work good when they had it in their power so to do.
 
@@ -114,7 +114,7 @@ it in their power not to do it; but those who do it not shall receive the just j
 
 τὸ αὐτεξούσιον.
 
-*[PDF 912]* ^pg912
+*[p. 872]* ^pg912
 
 things are lawful to me, but all things are not expedient;”<sup>4403</sup> referring both to the liberty of man, in which respect “all things are lawful,” God exercising no compulsion in regard to him; and \[by the expression\] “not expedient” pointing out that we “should not use our liberty as a cloak of maliciousness,”<sup>4404</sup> for this is not expedient. And again he says, “Speak ye every man truth with his neighbour.”<sup>4405</sup> And, “Let no corrupt communication proceed out of your mouth, neither filthiness, nor foolish talking, nor scurrility, which are not convenient, but rather giving of thanks.”<sup>4406</sup> And, “For ye were sometimes darkness, but now are ye light in the Lord; walk honestly as children of the light, not in rioting and drunkenness, not in chambering and wantonness, not in anger and jealousy. And such were some of you; but ye have been washed, but ye have been sanctified in the name of our Lord.”<sup>4407</sup> If then it were not in our power to do or not to do these things, what reason had the apostle, and much more the Lord Himself, to give us counsel to do some things, and to abstain from others? But because man is possessed of free will from the beginning, and God is possessed of free will, in whose likeness man was created, advice is always given to him to keep fast the good, which thing is done by means of obedience to God.
 
@@ -124,7 +124,7 @@ things are lawful to me, but all things are not expedient;”<sup>4403</sup> ref
 
 520 [[1 Corinthians 06#^6-12|1 Cor. vi. 12]]. 4403 [[1 Peter 02#^2-16|1 Pet. ii. 16]]. 4404 [[Ephesians 04#^4-25|Eph. iv. 25]]. 4405 [[Ephesians 04#^4-29|Eph. iv. 29]]. 4406 [[1 Corinthians 06#^6-11|1 Cor. vi. 11]]. 4407 [[Matthew 09#^9-29|Matt. ix. 29]]. 4408 [[Mark 09#^9-23|Mark ix. 23]]. 4409 [[Matthew 08#^8-13|Matt. viii. 13]]. 4410 [[John 03#^3-36|John iii. 36]]. 4411
 
-*[PDF 913]* ^pg913
+*[p. 873]* ^pg913
 
 the other hand, as being ignorant that they were by nature “material,” as these men express it, and such as cannot receive His immortality. “But He should not,” say they, “have created angels of such a nature that they were capable of transgression, nor men who immediately proved ungrateful towards Him; for they were made rational beings, endowed with the power of examining and judging, and were not \[formed\] as things irrational or of a \[merely\] animal nature, which can do nothing of their own will, but are drawn by necessity and compulsion to what is good, in which things there is one mind and one usage, working mechanically in one groove (*inflexibiles et sine judicio*), who are incapable of being anything else except just what they had been created.” But upon this supposition, neither would what is good be grateful to them, nor communion with God be precious, nor would the good be very much to be sought after, which would present itself without their own proper endeavour, care, or study, but would be implanted of its own accord and without their concern. Thus it would come to pass, that their being good would be of no consequence, because they were so by nature rather than by will, and are possessors of good spontaneously, not by choice; and for this reason they would not understand this fact, that good is a comely thing, nor would they take pleasure in it. For how can those who are ignorant of good enjoy it? Or what credit is it to those who have not aimed at it? And what crown is it to those who have not followed in pursuit of it, like those victorious in the contest?
 
@@ -132,7 +132,7 @@ the other hand, as being ignorant that they were by nature “material,” as th
 
 [[Matthew 11#^11-12|Matt. xi. 12]]. 4413 [[1 Corinthians 09#^9-24|1 Cor. ix. 24–27]].
 
-*[PDF 914]* ^pg914
+*[p. 874]* ^pg914
 
 with darkness; and life with death. Just in the same way is the heavenly kingdom honourable to those who have known the earthly one. But in proportion as it is more honourable, so much the more do we prize it; and if we have prized it more, we shall be the more glorious in the presence of God. The Lord has therefore endured all these things on our behalf, in order that we, having been instructed by means of them all, may be in all respects circumspect for the time to come, and that, having been rationally taught to love God, we may continue in His perfect love: for God has displayed long-suffering in the case of man’s apostasy; while man has been instructed by means of it, as also the prophet says, “Thine own apostasy shall heal thee;”<sup>4415</sup> God thus determining all things beforehand for the bringing of man to perfection, for his edification, and for the revelation of His dispensations, that goodness may both be made apparent, and righteousness perfected, and that the Church may be fashioned after the image of His Son, and that man may finally be brought 521
 
@@ -148,7 +148,7 @@ Jer. ii. 19.
 
 \[If we but had the original, this would doubtless be found in all respects a noble specimen of primitive theology.\]
 
-*[PDF 915]* ^pg915
+*[p. 875]* ^pg915
 
 2\. And on this account does Paul declare to the Corinthians, “I have fed you with milk, not with meat, for hitherto ye were not able to bear it.”<sup>4417</sup> That is, ye have indeed learned the advent of our Lord as a man; nevertheless, because of your infirmity, the Spirit of the Father has not as yet rested upon you. “For when envying and strife,” he says, “and dissensions are among you, are ye not carnal, and walk as men?”<sup>4418</sup> That is, that the Spirit of the Father was not yet with them, on account of their imperfection and shortcomings of their walk in life. As, therefore, the apostle had the power to give them strong meat—for those upon whom the apostles laid hands received the Holy Spirit, who is the food of life \[eternal\] —but they were not capable of receiving it, because they had the sentient faculties of the soul still feeble and undisciplined in the practice of things pertaining to God; so, in like manner, God had power at the beginning to grant perfection to man; but as the latter was only recently created, he could not possibly have received it, or even if he had received it, could he have contained it, or containing it, could he have retained it. It was for this reason that the Son of God, although He was perfect, passed through the state of infancy in common with the rest of mankind, partaking of it thus not for His own benefit, but for that of the infantile stage of man’s existence, in order that man might be able to receive Him. There was nothing, therefore, impossible to and deficient in God, \[implied in the fact\] that man was not an uncreated being; but this merely applied to him who was lately created, \[namely\] man.
 
@@ -156,7 +156,7 @@ Jer. ii. 19.
 
 522 [[1 Corinthians 03#^3-2|1 Cor. iii. 2]]. 4417 [[1 Corinthians 03#^3-3|1 Cor. iii. 3]].
 
-*[PDF 916]* ^pg916
+*[p. 876]* ^pg916
 
 been strengthened, should abound; and having abounded, should recover \[from the disease of sin\]; and having recovered, should be glorified; and being glorified, should see his Lord. For God is He who is yet to be seen, and the beholding of God is productive of immortality, but immortality renders one nigh unto God.
 
@@ -172,7 +172,7 @@ Ps. lxxxii. 6, 7.
 
 That is, that man’s human nature should not prevent him from becoming a partaker of the divine.
 
-*[PDF 917]* ^pg917
+*[p. 877]* ^pg917
 
 become indolent or neglectful of God’s command; and learning by experience that it is an evil thing which deprives him of life, that is, disobedience to God, may never attempt it at all, but that, knowing that what preserves his life, namely, obedience to God, is good, he may diligently keep it with all earnestness. Wherefore he has also had a twofold experience, possessing knowledge of both kinds, that with discipline he may make choice of the better things. But how, if he had no knowledge of the contrary, could he have had instruction in that which is good? For there is thus a surer and an undoubted comprehension of matters submitted to us than the mere surmise arising from an opinion regarding them. For just as the tongue receives experience of sweet and bitter by means of tasting, and the eye discriminates between black and white by means of vision, and the ear recognises the distinctions of sounds by hearing; so also does the mind, receiving through the experience of both the knowledge of what is good, become more tenacious of its preservation, by acting in obedience to God: in the first place, casting away, by means of repentance, disobedience, as being something disagreeable and nauseous; and afterwards coming to understand what it really is, that it is contrary to goodness and sweetness, so that the mind may never even attempt to taste disobedience to God. But if any one do shun the knowledge of both these kinds of things, and the twofold perception of knowledge, he unawares divests himself of the character of a human being.
 
@@ -182,7 +182,7 @@ become indolent or neglectful of God’s command; and learning by experience tha
 
 523 Efficeris. 4421
 
-*[PDF 918]* ^pg918
+*[p. 878]* ^pg918
 
 commissioned \[messengers\] to call people to the marriage, but they who did not obey Him deprived themselves of the royal supper.<sup>4423</sup> The skill of God, therefore, is not defective, for He has power of the stones to raise up children to Abraham;<sup>4424</sup> but the man who does not obtain it is the cause to himself of his own imperfection. Nor, \[in like manner\], does the light fail because of those who have blinded themselves; but while it remains the same as ever, those who are \[thus\] blinded are involved in darkness through their own fault. The light does never enslave any one by necessity; nor, again, does God exercise compulsion upon any one unwilling to accept the exercise of His skill. Those persons, therefore, who have apostatized from the light given by the Father, and transgressed the law of liberty, have done so through their own fault, since they have been created free agents, and possessed of power over themselves.
 
@@ -196,7 +196,7 @@ commissioned \[messengers\] to call people to the marriage, but they who did not
 
 4423
 
-*[PDF 919]* ^pg919
+*[p. 879]* ^pg919
 
 the Lord<sup>4425</sup> has declared those men shall be sent who have been set apart by themselves on His left hand. And this is what has been spoken by the prophet, “I am a jealous God, making peace, and creating evil things;”<sup>4426</sup> thus making peace and friendship with those who repent and turn to Him, and bringing \[them to\] unity, but preparing for the impenitent, those who shun the light, eternal fire and outer darkness, which are evils indeed to those persons who fall into them.
 
@@ -236,7 +236,7 @@ Isa. xlv. 7.
 
 4431
 
-*[PDF 920]* ^pg920
+*[p. 880]* ^pg920
 
 the tares, that is, him who brought about the transgression;<sup>4433</sup> but He took compassion upon man, who, through want of care no doubt, but still wickedly \[on the part of another\], became involved in disobedience; and He turned the enmity by which \[the devil\] had designed to make \[man\] the enemy of God, against the author of it, by removing His own anger from man, turning it in another direction, and sending it instead upon the serpent. As also the Scripture tells us that God said to the serpent, “And I will place enmity between thee and the woman, and between thy seed and her seed. He<sup>4434</sup> shall bruise thy head, and thou shall bruise his heel.”<sup>4435</sup> And the Lord summed up in Himself this enmity, when He was made man from a woman, and trod upon his \[the serpent’s\] head, as I have pointed out in the preceding book.
 
@@ -260,7 +260,7 @@ Gen. iii. 15.
 
 4436
 
-*[p. 4447]* ^pg921
+*[p. 881]* ^pg921
 
 creation, so to speak— we are all sons of God, because we have all been created by God. But with respect to obedience and doctrine we are not all the sons of God: those only are so who believe in Him and do His will. And those who do not believe, and do not obey His will, are sons and angels of the devil, because they do the works of the devil. And that such is the case He has declared in 525
 
@@ -304,7 +304,7 @@ Isa. i. 10.
 
 4446
 
-*[p. 4448]* ^pg922
+*[p. 882]* ^pg922
 
 and cease from evil, they should have power to become the sons of God, and to receive the inheritance of immortality which is given by Him. For this reason, therefore, He has termed those “angels of the devil,” and “children of the wicked one,”<sup>4448</sup> who give heed to the devil, and do his works. But these are, at the same time, all created by the one and the same God. When, however, they believe and are subject to God, and go on and keep His doctrine, they are the sons of God; but when they have apostatized and fallen into transgression, they are ascribed to their chief, the devil—to him who first became the cause of apostasy to himself, and afterwards to others.
 
@@ -318,7 +318,7 @@ In the four preceding books, my very dear friend, which I put forth to thee, all
 
 526 [[Matthew 25#^25-41|Matt. xxv. 41]], [[Matthew 13#^13-38|Matt. xiii. 38]].
 
-*[PDF 923]* ^pg923
+*[p. 883]* ^pg923
 
 nature, and applicable to them all.<sup>4449</sup> Then I have pointed out the truth, and shown the preaching of the Church, which the prophets proclaimed (as I have already demonstrated), but which Christ brought to perfection, and the apostles have handed down, from whom the Church, receiving \[these truths\], and throughout all the world alone preserving them in their integrity (*bene*), has transmitted them to her sons. Then also—having disposed of all questions which the heretics propose to us, and having explained the doctrine of the apostles, and clearly set forth many of those things which were said and done by the Lord in parables—I shall endeavour, in this the fifth book of the entire work which treats of the exposure and refutation of knowledge falsely so called, to exhibit proofs from the rest of the Lord’s doctrine and the apostolical epistles: \[thus\] complying with thy demand, as thou didst request of me (since indeed I have been assigned a place in the ministry of the word); and, labouring by every means in my power to furnish thee with large assistance against the contradictions of the heretics, as also to reclaim the wanderers and convert them to the Church of God, to confirm at the same time the minds of the neophytes, that they may preserve stedfast the faith which they have received, guarded by the Church in its integrity, in order that they be in no way perverted by those who endeavour to teach them false doctrines, and lead them away from the truth. It will be incumbent upon thee, however, and all who may happen to read this writing, to peruse with great attention what I have already said, that thou mayest obtain a knowledge of the subjects against which I am contending. For it is thus that thou wilt both controvert them in a legitimate manner, and wilt be prepared to receive the proofs brought forward against them, casting away their doctrines as filth by means of the celestial faith; but following the only true and stedfast Teacher, the Word of God, our Lord Jesus Christ, who did, through His transcendent love, become what we are, that He might bring us to be even what He is Himself.
 
@@ -330,7 +330,7 @@ Ex ratione universis ostensionibus procedente. The words are very obscure.
 
 4449
 
-*[PDF 924]* ^pg924
+*[p. 884]* ^pg924
 
 only best and good Being, by Him also who has the gift of immortality, having been formed after His likeness (predestinated, according to the prescience of the Father, that we, who had as yet no existence, might come into being), and made the first-fruits of creation<sup>4451</sup>—have received, in the 527
 
@@ -346,7 +346,7 @@ times known beforehand, \[the blessings of salvation\] according to the ministra
 
 \[Compare Clement, cap. 49, p. 18, this volume.\]
 
-*[PDF 925]* ^pg925
+*[p. 885]* ^pg925
 
 that the Holy Ghost came upon Mary, and the power of the Most High did overshadow her:<sup>4453</sup> wherefore also what was generated is a holy thing, and the Son of the Most High God the Father of all, who effected the incarnation of this being, and showed forth a new \[kind of\] generation; that as by the former generation we inherited death, so by this new generation we might inherit life. Therefore do these men reject the commixture of the heavenly wine,<sup>4454</sup> and wish it to be water of the world only, not receiving God so as to have union with Him, but they remain in that Adam who had been conquered and was expelled from Paradise: not considering that as, at the beginning of our formation in Adam, that breath of life which proceeded from God, having been united to what had been fashioned, animated the man, and manifested him as a being endowed with reason; so also, in \[the times of\] the end, the Word of the Father and the Spirit of God, having become united with the ancient substance of Adam’s formation, rendered man living and perfect, receptive of the perfect Father, in order that as in the natural \[Adam\] we all were dead, so in the spiritual we may all be made alive.<sup>4455</sup> For never at any time did Adam escape the *hands*<sup>4456</sup> of God, to whom the Father speaking, said, “Let Us make man in Our image, after Our likeness.” And for this reason in the last times (*fine*), not by the will of the flesh, nor by the will of man, but by the good pleasure of the Father,<sup>4457</sup> His hands formed a living man, in order that Adam might be created \[again\] after the image and likeness of God.
 
@@ -356,7 +356,7 @@ that the Holy Ghost came upon Mary, and the power of the Most High did overshado
 
 528 [[Luke 01#^1-35|Luke i. 35]]. 4453 In allusion to the mixture of water in the eucharistic cup, as practised in these primitive times. The Ebionites and others 4454 used to consecrate the element of water alone. [[1 Corinthians 15#^15-22|1 Cor. xv. 22]]. 4455 Viz., the Son and the Spirit. 4456
 
-*[PDF 926]* ^pg926
+*[p. 886]* ^pg926
 
 by His own blood; but as regards us who have been redeemed, \[He does this\] graciously. For we have given nothing to Him previously, nor does He desire anything from us, as if He stood in need of it; but we do stand in need of fellowship with Him. And for this reason it was that He graciously poured Himself out, that He might gather us into the bosom of the Father.
 
@@ -367,7 +367,7 @@ by His own blood; but as regards us who have been redeemed, \[He does this\] gra
 1\. Cor. x. 16. 4458 [[Colossians 01#^1-14|Col. i. 14]]. 4459 [[Matthew 05#^5-45|Matt. v. 45]]. 4460 \[Again, the carefully asserts that the *bread* is the *body*, and the *wine* (cup) is the *blood*. The elements are sanctified, not 4461 changed materially.\] The Greek text, of which a considerable portion remains here, would give, “and the Eucharist becomes the body of Christ.” 4462 [[Ephesians 05#^5-30|Eph. v. 30]]. 4463
 
 
-*[p. 4468]* ^pg927
+*[p. 887]* ^pg927
 
 and blood of Christ; so also our bodies, being nourished by it, and deposited in the earth, and suffering decomposition there, shall rise at their appointed time, the Word of God granting them resurrection to the glory of God, even the Father, who freely gives to this mortal immortality, and to this corruptible incorruption,<sup>4465</sup> because the strength of God is made perfect in weakness,<sup>4466</sup> in order that we may never become puffed up, as if we had life from ourselves, and exalted against God, our minds becoming ungrateful; but learning by experience that we possess eternal duration from the excelling power of this Being, not from our own nature, we may neither undervalue that glory which surrounds God as He is, nor be ignorant of our own nature, but that we may know what God can effect, and what benefits man receives, and thus never wander from the true comprehension of things as they are, that is, both with regard to God and with regard to man. And might it not be the case, perhaps, as I have already observed, that for this purpose God permitted our resolution into the common dust of mortality,<sup>4467</sup> that we, being instructed by every mode, may be accurate in all things for the future, being ignorant neither of God nor of ourselves?
 
@@ -423,7 +423,7 @@ could not possibly partake of the water, or the torch of the fire. In this very 
 
 1\. Those persons who feign the existence of another Father beyond the Creator, and who term him the good God, do deceive themselves; for they introduce him as a feeble, worthless, and negligent being, not to say malign and full of envy, inasmuch as they affirm that our bodies are not quickened by him. For when they say of things which it is manifest to all do remain immortal, such as the spirit and the soul, and such other things, that they are quickened by the Father, but that another thing \[viz. the body\] which is quickened in no different manner than by God granting \[life\] to it, is abandoned by life,—\[they must either confess\] that this proves their Father to be weak and powerless, or else envious and malignant. For since the Creator does even here quicken our mortal bodies, and promises them resurrection by the prophets, as I have pointed out; who \[in that case\] is shown to be more powerful, stronger, or truly good? Whether is it the Creator who vivifies the whole man, or is it their Father, falsely so called? He feigns to be the quickener of those things which are immortal by nature, to which things life is always present by their very nature; but he does not benevolently quicken those things which required his assistance, that they might live, but leaves them carelessly to fall under the power of death. Whether is it the case, then, that their Father does not bestow life upon them when he has the power of so doing, or is it that he does not possess the power? If, on the one hand, it is because he cannot, he is, upon that supposition, not a powerful
 
-*[p. 4471]* ^pg930
+*[p. 890]* ^pg930
 
 being, nor is he more perfect than the Creator; for the Creator grants, as we must perceive, what *He* is unable to afford. But if, on the other hand, \[it be that he does not grant this\] when he has the power of so doing, then he is proved to be not a good, but an envious and malignant Father.
 

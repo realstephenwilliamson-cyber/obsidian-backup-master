@@ -232,7 +232,7 @@ kāla time purusa, anu, individual
 
 27\. T BH JH 24 prakrti matter 28. TH B Ñ 23 buddhi intelligence 29 D PH J 22 ahamkāra ego 30. DH P R 21 manas mind 31. N N T 20 śrotra hearing 32. T DH P 19 tvac touching 33. TH D CH 18 cakṣus seeing 34. D TH L 17 rasana tasting 35. DH T Ā 16 ghrāṇa smelling 36. N N S 15 vāc speaking 37. P DH H 14 pāni grasping 38. PH D H 13 pāyu excreting 39. B TH S 12 upastha rocreating 40. BH T KS ll pāda walking 4. M Ñ M 10 śabda sound 42. Y JH Ś 9 sparsa touch 43. R J M 8 rūpa form 44. L CH T 7 rasa taste 45. V C E 6 gandha smell 46. Ś NÑ AI 5 ākāśa space 47. S GH (0) 4 vāyu air 48. S G AU 3 tejas fire 49. H KH D 2 jala water 50. KS K PH 1 prthivīi earth
 
-*[p. 3]* ^pg369
+*[p. 353]* ^pg369
 
 The Uccãra of OM According to the Svacchandatantra,
 
@@ -275,7 +275,7 @@ earth)
 
 l. akti is also called sparśa. Silburn, Le Vijāāna Bhairava, p.50.
 
-*[p. 4]* ^pg370
+*[p. 354]* ^pg370
 
 The Mantras Referred to in TĀ 29 and in Jayaratha's Investigation.
 
@@ -295,7 +295,7 @@ hrim mahācandayogeśvarī thṛ dhṛ thṛ phat phat phat phat phat
 
 Further references to some of these mantras are given in Appendix 5.
 
-*[p. 5]* ^pg371
+*[p. 355]* ^pg371
 
 The Deities Named in TA 29 and in Jayaratha's Investigation.
 
@@ -565,7 +565,7 @@ Adabilla
 
 Aksara
 
-*[PDF 376]* ^pg376
+*[p. 360]* ^pg376
 
 Qt.39d.5 Adabī Aksara Adabilla sacred site (pītha)
 
@@ -575,7 +575,7 @@ Qt.39d.5 Adabī Aksara Adabilla sacred site (pītha)
 
 Bhatta Indra Valkala Ahīndra Gajendra Mahīdhara
 
-*[p. 7]* ^pg377
+*[p. 361]* ^pg377
 
 The Installation of Sacred Sites on the Body 1. According to [[Tantraloka 29.059|TA 29.59-63]].
 
@@ -601,7 +601,7 @@ Jayaratha's investigation:
 
 for Hālā Qt.63d. 1 reads Alipura for Gośruti Jr.63d.2 reads Gokama for Māyāpura Qt.63d.2 reads Vāmapurī for Āmrāta Qt.63d.2 reads Āmrātakeśvara for Nrpasadmanī Qt.63d.2 reads Rājagṁa for Vairiñci ... soles Qt.63d.3 + 4 read Brahmi: her sacred site is Srīśaila
 
-*[p. 8]* ^pg378
+*[p. 362]* ^pg378
 
 The Schools and Systems Named in TA 29 and in Jayaratha's Investi-
 
@@ -609,7 +609,7 @@ gation.
 
 Advaita śl.174a; perhaps Qt.75b.3, perhaps Qt. 100b.6; Atimārga Qt. 100b.4; Bauddha Qt.75b.3; Dvaita Śl.74a; Qt.75b.2, Qt.166b.1 bis; Krama śl.57b; Jr.56d.1, passim; Kula passim; Śākta Qt.201b.1; Siddhānta Śl.74c; Qt.3d. Qt.75b.3; Smārta Jr.102d.5; Qt.75b.3; Trika śl.95d; Tantra Jr.7d.2; Qt.75b.1, Qt. 100b.6; Vaiṣṇava Qt.75b.3; Vāma perhaps Qt. 100b.4; Vedānta Qt.75b.3;
 
-*[p. 9]* ^pg379
+*[p. 363]* ^pg379
 
 The Texts Named in TA 29 and in Jayaratha's Investigation’
 
@@ -1657,7 +1657,7 @@ Viraja : '... modern Jājpur on the Vaitaraṇī in the Cuttack District, Orissa
 
 Hiranyapura : '... modern Herdoun or Hindaun in the Jaipur State, about 70 miles from Agra.' ibid. p.85.
 
-*[p. 12]* ^pg394
+*[p. 378]* ^pg394
 
 The Mandalaofthe Kula Tradition and its Construction According to
 
@@ -1667,7 +1667,7 @@ QtS4d.3
 
 Afterthat, on one portion in the \[remaining sacred region\] whichis divided on every side into three, \[he should draw\] an eight-petalled lotus. Then there is a a space for one portion and four squares. Then the \[remaining\] portionsextend in a square, as far as the diagonals on both sides. Thus the mandala, in the Kula tradition, is square.'
 
-*[p. 13]* ^pg395
+*[p. 379]* ^pg395
 
 The Sanskrit Text of Tantrāloka 29 and of Jayaratha's Investigation. Note: The following text has been Romanised exactly from the 1987 edition of the Tantrāloka and includes the commas etc. which have been added by the editors. The footnotes draw attention to typographical errors.
 

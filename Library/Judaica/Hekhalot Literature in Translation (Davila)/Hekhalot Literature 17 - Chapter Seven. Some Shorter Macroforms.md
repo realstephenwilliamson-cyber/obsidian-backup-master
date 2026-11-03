@@ -110,7 +110,7 @@ Swartz. Pages 135–147 in *Scholastic Magic*.
 
 *Related* Montgomery, James A. *Aramaic Incantation Texts from Nippur*. Philadelphia: University of Pennsylvania Museum, 1913.
 
-Newsom, Carol. “Shirot #Olat HaShabbat.” Pages 173–401 in *Qumran Cave 4 VI: Poetical and Liturgical Texts, Part I*. Edited by Esther Eshel et al. DJD 11. Oxford: Clarendon, 1998.
+Newsom, Carol. “Shirot \#Olat HaShabbat.” Pages 173–401 in *Qumran Cave 4 VI: Poetical and Liturgical Texts, Part I*. Edited by Esther Eshel et al. DJD 11. Oxford: Clarendon, 1998.
 
 *The Youth* The final text translated in this chapter comes to us in a multiplicity of forms and is not yet well enough understood for its *Vorlage* to be reconstructed, assuming that this is possible with the surviving evidence or, for that matter, possible in principle. This brief work describes an angelic figure whose title is the Youth (*ha-na#ar*). The Youth acts as a heavenly high priest before the throne of God, leading an angelic liturgy in the celestial throne room and officiating in his own tabernacle.
 

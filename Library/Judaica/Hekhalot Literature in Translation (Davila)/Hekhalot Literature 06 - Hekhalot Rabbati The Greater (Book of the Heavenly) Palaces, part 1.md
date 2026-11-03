@@ -312,7 +312,7 @@ It is these<sup>h</sup> who carry out actions<sup>i</sup> for you; there is no r
 
 g “He says: I am before You” M40 M22 D B \] “He says before You:” N O; “He says before Him:” *⟨*O*⟩⟨*M40*⟩* V; F reads with either N O or with *⟨*O*⟩⟨*M40*⟩* V, but the word is abbreviated and could be either; “before” L.
 
-h “God of Israel” N O M22 V B F L \] “my God and God of my fathers” M40; + “If I am not confounded, who is it {who will be confounded?}?” D i “that j “If I do not shake” N O M40 will be confounded”—“*⟨*that*⟩* will {not} be confounded” N M22 D V F L \] + “if I do not shake” (dittography) B k “I am called” N O M40 M22 D V B F \] “I am he who is called” L <sup>l</sup>For “to the Might” M40 reads *lgbwr⟨h⟩*, which corrects the reading from “to the Mighty One” to “to the Might” with the other manuscripts. m “they n “me” O M40 M22 drag” M40 M22 D B F L \] *twḣkyn* (corrupt) N; *swḣkyn* (corrupt) O V D V B \] “him” N F; + “each day” L o Cf. the dragging of Ben Zoma through the heavenly palaces in G8 2a 30b–34a and the dragging of a practitioner by the angel #Anaph"el in G8 2b 46.
+h “God of Israel” N O M22 V B F L \] “my God and God of my fathers” M40; + “If I am not confounded, who is it {who will be confounded?}?” D i “that j “If I do not shake” N O M40 will be confounded”—“*⟨*that*⟩* will {not} be confounded” N M22 D V F L \] + “if I do not shake” (dittography) B k “I am called” N O M40 M22 D V B F \] “I am he who is called” L <sup>l</sup>For “to the Might” M40 reads *lgbwr⟨h⟩*, which corrects the reading from “to the Mighty One” to “to the Might” with the other manuscripts. m “they n “me” O M40 M22 drag” M40 M22 D B F L \] *twḣkyn* (corrupt) N; *swḣkyn* (corrupt) O V D V B \] “him” N F; + “each day” L o Cf. the dragging of Ben Zoma through the heavenly palaces in G8 2a 30b–34a and the dragging of a practitioner by the angel \#Anaph"el in G8 2b 46.
 
 <sup>p</sup>“my knees” (“my knee” or “my knees” O) *⟨*O*⟩* M22 D V B F L \] “my myriads” M40 q “until I reach” N O M40 M22 D V F L \] “reaching” B r “Your glory” M22 D V \] “His glory”
 
@@ -844,7 +844,7 @@ d “declared” N O D B \] “said” M40 M22 V F L G3 e “Cherished one,” N
 
 l G3 omits this name.
 
-m “His mouth” N O M22 V B F L G3 \] “my mouth” M40 D n “with peals of laughter” N O M40 D V B F L G3 \] “He laughs” M22 o “over this wicked man” N M40 D (L(!): *#l "wgw hrš#*) \] om O; “over him, over this wicked man” M22 V B F G3 p “the adornment, majesty,” O M40 M22 V B F L G3 \] “the adornment of the chamber of the majesty,” N; “the majestic adornment” D q “fearsome” N O M40 M22 D V B F G3 \] om L r “palace” or “temple”
+m “His mouth” N O M22 V B F L G3 \] “my mouth” M40 D n “with peals of laughter” N O M40 D V B F L G3 \] “He laughs” M22 o “over this wicked man” N M40 D (L(!): *\#l "wgw hrš#*) \] om O; “over him, over this wicked man” M22 V B F G3 p “the adornment, majesty,” O M40 M22 V B F L G3 \] “the adornment of the chamber of the majesty,” N; “the majestic adornment” D q “fearsome” N O M40 M22 D V B F G3 \] om L r “palace” or “temple”
 
 s “in which” N M22 V B F L G3 \] “in the midst of which” O M40 D t “I dwell” N O M22 D V B F L G3 \] “am I, My name” M40 u “and the throne of My glory”
 

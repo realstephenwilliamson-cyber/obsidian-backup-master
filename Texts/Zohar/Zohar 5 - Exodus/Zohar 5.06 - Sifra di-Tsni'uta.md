@@ -11,6 +11,8 @@ aliases:
 
 ← [[Zohar 5.05 - Parashat Terumah]] · [[Zohar]] · [[Zohar 5.07 - Transliteration of Hebrew and Aramaic]] →
 
+> [!note] Matt prints this text twice: straight through (pp. 535–544) and with his notes (pp. 545–586, blocks ending `-c`, the copy the vault's links use). The bold folio markers stand at different places in the two copies because each sits at the head of the printed page on which the folio turns, and the annotated pages carry footnotes.
+
 [p. 535] **[2:176b]** ^z2-176b
 
  

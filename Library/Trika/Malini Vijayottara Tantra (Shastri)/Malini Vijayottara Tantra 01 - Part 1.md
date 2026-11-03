@@ -4,7 +4,7 @@ work: "[[Shastri - Malini Vijayottara Tantra]]"
 book: "[[Library/Trika/Malini Vijayottara Tantra (Shastri)/Malini Vijayottara Tantra (Shastri)|Malini Vijayottara Tantra (Shastri)]]"
 order: 1
 source_pdf: Library/Trika/Malini Vijayottara Tantra Eng Translation 1956 - Vishnu Datt Shastri.pdf
-page_range: "1–28"
+page_range: "1–5; 1–2; i–iii; 1–28"
 pdf_pages: 1–40
 text_source: fresh OCR with Tesseract 5, English model, of the page images, each page straightened and enlarged first (15 Oct 2026; replaces the reading of 8 Oct, whose Sanskrit model put Devanagari and digits into the English)
 converted: 2026-10-08
@@ -227,7 +227,7 @@ sublimation, 13.
 
 Index. sigs gece aes ens
 
-*[p. 6]* ^pg7
+*[p. 1]* ^pg7
 
 WORKS
 
@@ -261,7 +261,7 @@ Philosophy of Hindu Sadhana
 
 (Dr .Nalini Kanta Brahma),
 
-*[PDF 8]* ^pg8
+*[p. 2]* ^pg8
 
 (N.,Krishn Shastri)
 
@@ -297,7 +297,7 @@ minor religions (R.G.Bhandarakara).
 ) Malini Vijayottara tantra.  
 ' say
 
-*[PDF 9]* ^pg9
+*[p. i]* ^pg9
 
 PREFACE.
 
@@ -305,7 +305,7 @@ PREFACE.
 
 From the beginning of my literary career, I was influenced by the oe and gakta cult of Kashmir not because it belongs to my native place but because it presents the Sativa metaphysics in its true perspective. I made up my mind to study this Philosophy and, therefore, consulted Shri Jd.C.Chatterji, the late duper iitenaeaes the Government Research Library, Srinagar. He suggested to me the present work, Malini Vejeyottars Tantra as
 
-*[PDF 10]* ^pg10
+*[p. ii]* ^pg10
 
 thesis for the degree of Ph.D.
 
@@ -325,7 +325,7 @@ How far I have Buoemedod in my present attempt of the elucidation of the Malini 
 
 I am very grateful to Pt. Laksmana Ju, a great scholar and saint of Kashmir, and Mahamahopadhyaya Pt. Gopi Nath Ji Kaviraj, M.A. of Banaras, a learned scholar of the Indian philosophies in general and an authority on the Kashmir Saiviem in particular who helped me to comprehend the seorets of the Saiva cult. I am very thankful to Dr. Surya Kanta Ji.M.A.,D.Litt., Head of the Sanskrit Department, Hindu University, Banaras, who
 
-*[PDF 11]* ^pg11
+*[p. iii]* ^pg11
 
 euided me in my thesis. Lustly I offer my hearty thanks to my colleague Professor P.N.Qazi, of the Government College for Women, Srinagar, who helped me in my doctrinal and linguistic difficulties.
 

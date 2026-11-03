@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 5
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-page_range: "7–8"
+page_range: "x–xi"
 pdf_pages: "11–12"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Russell VSI 04 - Preface|← previous]] · [[Russell, A Very Short Introduction (Grayling)|contents]] · [[Russell VSI 06 - List of illustrations|next →]]
 
-*[p. 7]* ^pg11
+*[p. x]* ^pg11
 
 ## Abbreviations
 
@@ -56,7 +56,7 @@ Russell wrote much, and his work has been reprinted often and in a variety of ed
 
 *The Problems of Philosophy* (Oxford University Press, 1912)
 
-*[p. 8]* ^pg12
+*[p. xi]* ^pg12
 
 *An Inquiry into Meaning and Truth* (Allen & Unwin, 1940) *The Conquest of Happiness* (Allen & Unwin, 1930)
 

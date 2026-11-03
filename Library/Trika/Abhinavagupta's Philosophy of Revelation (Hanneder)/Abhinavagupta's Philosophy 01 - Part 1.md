@@ -781,7 +781,7 @@ SANDERSON (1995). p. 86, who refers to Śrīkanthī. vs. 264.
 89\. See
 
 
-*[p. 1]* ^pg34
+*[p. 25]* ^pg34
 
 the whole Śaiva revelation by following the more general definition of vāma as samsāraviparītah.” 
 

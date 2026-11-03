@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Zohar linker
 
@@ -61,6 +61,7 @@ Nothing is applied by these scripts; the batch is reviewed and applied by the jo
 2. **Composition.** The parenthesis right after the item (`(*ST*)`, `(*MhN, Rut*)`, `(*ST*, standard edition)`), or a group parenthesis covering earlier items (`(both *ST*)`, `(last two *Heikh*)`, `(last three all *MhN, Rut*)`, `(all *Tos*)`; "all" reaches back to the introducer but stops at an item that has its own composition), or, for a glossary line, the entry's bold headword (`***Qav ha-Middah*** … *Zohar Ḥadash* 56d–58d`), or a full name written right before the introducer (`the Idra Rabba (Zohar 3:127b–145a`, `*Idra Zuta, Zohar 3:292b*`). The abbreviations are those of the Pritzker abbreviation lists (ST, Tos, Mat, MhN with Rut/Eikhah/ShS, ShS, Heikh, Piq, RR, SO, QhM, IR, IZ, SdTs, and the full names); a parenthesis naming two compositions is undecided unless it says which is meant ("labeled as *Tos*, but in fact *MhN*"). Non-deciding: *Hash* (Hashmatot, a location), SA (*Sefarim aherim*, variant readings; not Sava de-Mishpatim), "standard edition", "Vol. 5, n. 22", "Nitsotsei Zohar, n. 2". Absent from the vault: *RM*, *TZ*, *Tiq* (Tiqqunim in Zohar Hadash), *Tosafot*.
 3. **Target.** Composition named → the note(s) of that composition (table `COMPOSITIONS`) that hold the block; none → noblock; several → the one holding the range's last folio too, else undecided. No composition → the sole holder of the block; if several hold it, the main-text note (volumes 1–9); if two main-text notes hold it (a folio side on which one parashah ends and the next begins), the one that also holds the range's last folio, else undecided. Tos goes to 11.08 or to 12.12 (Passages (Mis)Labeled as Tosefta) according to which holds the folio.
 4. **Form.** `[[Zohar 2.06 - Parashat Va-Yetse#^z1-156a|1:156a]]`: the label is the printed text of the item (`1:161a–b`, `2:176b–179a`, `III:28a`, `3.233a`); a range links the first folio's block; the italic `*Zohar*`/`*ZḤ*` stays outside. In a note (or book) whose existing links carry the word in the label (`[[…|Zohar 2:176b]]`, `[[…|Zohar III, 137b]]`) a non-italic introducer is taken into the label of the first item. In a table row the pipe is written `\|`. Nothing else on the line changes.
+5. **Anchors without a bold marker** (audit of 3 Nov 2026, B-01). 15 of the 2,084 folio anchors in the Pritzker notes sit in a paragraph that has no bold folio marker: 8 in 9.11 Pinehas, 2 in 8.11 Be-Ha'alotekha, and one each in 2.03, 2.04, 7.04, 9.13 and 12.06 Piqqudin (`^z2-92a`, where Matt's plain bracket "[2:92a]" stands). Matt's bracket closes the previous paragraph or sits mid-paragraph, and the anchor is at the folio's first full paragraph, so links land in the right folio. 9.13's `^z3-283a` stands for a folio the Pritzker edition does not print.
 
 ## Changing the rules
 

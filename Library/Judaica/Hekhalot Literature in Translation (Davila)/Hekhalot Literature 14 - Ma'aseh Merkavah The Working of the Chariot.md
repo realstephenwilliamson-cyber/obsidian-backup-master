@@ -219,7 +219,7 @@ R. Akiva<sup>a</sup> said:
 
 When I prayed<sup>b</sup>this prayer, I saw six hundred and forty thousand myriad<sup>c</sup> angels of glory<sup>d</sup> who stood facing<sup>e</sup> the throne of glory. And I saw the knot of the phylacteries of the bands of <sup>f</sup> YHWH, God of Israel, and I gave praise<sup>g</sup> upon all my limbs.<sup>h</sup>
 
-*#Alay le-shabbeaḣ* (§ 551)
+*\#Alay le-shabbeaḣ* (§ 551)
 
 § 551<sup>a</sup>
 
@@ -239,7 +239,7 @@ N; + “God” O; “fences of” (corrupt) M22. It is possible that this word s
 
 all my limbs” N O D \] “upon all his limbs” M40; “concerning everything” M22. Schäfer (*Übersetzung*, 3:251 n. 8) suggests that this line refers to the ceremonial bedecking of the limbs with amulets (cf. the end of § 575).
 
-§ 551 <sup>a</sup>Paragraph 551 is a version of *#Alay le-shabbeaḣ*, a prayer used in the Jewish liturgy. For discussion and detailed comparison with the version in the liturgy see Swartz, *Mystical Prayer*, 118–125; idem, “*#Alay le-shabbeaḣ*”; b “upon me” N O \] “upon us” M40 D; om M22 c “to and Schäfer, *Übersetzung*, 3:251–255.
+§ 551 <sup>a</sup>Paragraph 551 is a version of *\#Alay le-shabbeaḣ*, a prayer used in the Jewish liturgy. For discussion and detailed comparison with the version in the liturgy see Swartz, *Mystical Prayer*, 118–125; idem, “*\#Alay le-shabbeaḣ*”; b “upon me” N O \] “upon us” M40 D; om M22 c “to and Schäfer, *Übersetzung*, 3:251–255.
 
 praise” N O M22 \] + “etc. up to” M40 D <sup>d</sup>“the Lord of all … *and founds the earth*,” om M40 D
 
@@ -617,11 +617,11 @@ vigor. He must set<sup>s</sup> his heart on his prayer and he must seal himself 
 
 § 561
 
-You are the living God in heaven who engraves<sup>a</sup> KSPYSṪWS NWMṪWS #QNYPWS #NBY BG#H<sup>b</sup> W#PPP# HWKMT<sup>c</sup> PDWP SRT PRṪT" "GNYTYNṪWN HRDT ZWP W"H SRKY WN"YN ŠB#Ṡ DYNYN ŠBYM. He must invoke<sup>d</sup> DYMSP" BH B" WH BDYR" SWT PNY "WT PYW<sup>e</sup> " ṪWN YZZ KWKY HDRYH the name<sup>f</sup> of wisdom: “May seventy angels descend beside me<sup>g</sup> and ŠQDHWZYY, the Angel<sup>h</sup> of the Presence, with them.” And he must invoke<sup>i</sup> signs,<sup>j</sup> that he not injure himself: ZYYP PḢP ZRṠ ŠMP *⟨*ŠMP*⟩* TYRGB BB PYMP YH to keep.
+You are the living God in heaven who engraves<sup>a</sup> KSPYSṪWS NWMṪWS \#QNYPWS \#NBY BG#H<sup>b</sup> W#PPP# HWKMT<sup>c</sup> PDWP SRT PRṪT" "GNYTYNṪWN HRDT ZWP W"H SRKY WN"YN ŠB#Ṡ DYNYN ŠBYM. He must invoke<sup>d</sup> DYMSP" BH B" WH BDYR" SWT PNY "WT PYW<sup>e</sup> " ṪWN YZZ KWKY HDRYH the name<sup>f</sup> of wisdom: “May seventy angels descend beside me<sup>g</sup> and ŠQDHWZYY, the Angel<sup>h</sup> of the Presence, with them.” And he must invoke<sup>i</sup> signs,<sup>j</sup> that he not injure himself: ZYYP PḢP ZRṠ ŠMP *⟨*ŠMP*⟩* TYRGB BB PYMP YH to keep.
 
 § 562
 
-You are<sup>a</sup> the living God in heaven<sup>b</sup> who gave permission to Your glorious bands to be bound to mortals.<sup>c</sup> I invoke Your name, which is one over all the beings:<sup>d</sup> SBR DR"Y majestic majestic DRY"S YTPS DRSYY holy seal<sup>e</sup> DYŠ QDŠ YHW BDP BR"YYH blessed forever<sup>f</sup> #PM#WPPP" YHW. Holy<sup>g</sup> and blessed is His name, a seal above my head.<sup>h</sup> Mysteries, mystery above mysteries:<sup>i</sup> HGG BWB YH YH may Your name be blessed.<sup>j</sup> The evils harmers are drowned and magnificent things,<sup>k</sup> majestic things<sup>l</sup> shall be<sup>m</sup> a seal upon my<sup>n</sup> limbs. In Your name<sup>o</sup>ṠRWGG ṠRPP ZHTY"G YH' YH YHW Who is like You, great and fearsome, who formed the world, God?<sup>p</sup> You have formed<sup>q</sup> magnificent ones of wisdom so that they have permission that they may bring down
+You are<sup>a</sup> the living God in heaven<sup>b</sup> who gave permission to Your glorious bands to be bound to mortals.<sup>c</sup> I invoke Your name, which is one over all the beings:<sup>d</sup> SBR DR"Y majestic majestic DRY"S YTPS DRSYY holy seal<sup>e</sup> DYŠ QDŠ YHW BDP BR"YYH blessed forever<sup>f</sup> \#PM\#WPPP" YHW. Holy<sup>g</sup> and blessed is His name, a seal above my head.<sup>h</sup> Mysteries, mystery above mysteries:<sup>i</sup> HGG BWB YH YH may Your name be blessed.<sup>j</sup> The evils harmers are drowned and magnificent things,<sup>k</sup> majestic things<sup>l</sup> shall be<sup>m</sup> a seal upon my<sup>n</sup> limbs. In Your name<sup>o</sup>ṠRWGG ṠRPP ZHTY"G YH' YH YHW Who is like You, great and fearsome, who formed the world, God?<sup>p</sup> You have formed<sup>q</sup> magnificent ones of wisdom so that they have permission that they may bring down
 
 s “set” N M40 M22 D \] “direct” O t “himself” N O M22 D \] “his name” M40 u “his seals”
 
@@ -875,11 +875,11 @@ Seal above my head:<sup>r</sup>,<sup>s</sup> RYR GWG<sup>t</sup> GDWL<sup>u</sup
 
 § 567
 
-You are the King of Kings of Kings,<sup>a</sup> You alone are declared blessed,<sup>b</sup> for You are One<sup>c</sup> alone.<sup>d</sup> HWKYḢ<sup>e</sup> is Your name;<sup>f</sup> "WZW" ZWHWW"H is Your name; RM<sup>g</sup> KY<sup>h</sup> YD<sup>i</sup> "ZY is Your name; "BYṠ YHW is Your name; ZYH" YH TYD"Y is Your name; GḢWP is Your name;<sup>j</sup> #WTTY"H is Your name; HKB WYH" is Your name. A flame of might of exaltation,<sup>k</sup> this is the splendor of <sup>l</sup> the Lord of <sup>m</sup> the whole chariot forever. You are declared holy, O King of holiness. Your holiness is<sup>n</sup> in heaven and on earth. Blessed are You YHWH, the holy God.
+You are the King of Kings of Kings,<sup>a</sup> You alone are declared blessed,<sup>b</sup> for You are One<sup>c</sup> alone.<sup>d</sup> HWKYḢ<sup>e</sup> is Your name;<sup>f</sup> "WZW" ZWHWW"H is Your name; RM<sup>g</sup> KY<sup>h</sup> YD<sup>i</sup> "ZY is Your name; "BYṠ YHW is Your name; ZYH" YH TYD"Y is Your name; GḢWP is Your name;<sup>j</sup> \#WTTY"H is Your name; HKB WYH" is Your name. A flame of might of exaltation,<sup>k</sup> this is the splendor of <sup>l</sup> the Lord of <sup>m</sup> the whole chariot forever. You are declared holy, O King of holiness. Your holiness is<sup>n</sup> in heaven and on earth. Blessed are You YHWH, the holy God.
 
 16/§ 568
 
-You are<sup>a</sup> the King of glory; Your way is<sup>b</sup> glory and Your word is<sup>c</sup> holy;<sup>d</sup> Your name is glory, great and holy<sup>e</sup> forever and ever and ever. RM<sup>f</sup> YHW #YZWZ<sup>g</sup> GYBWR<sup>h</sup> DRKYY<sup>i</sup> "HDYṠ RYW" LK BRW"H ZHRY YHW BYHW "L<sup>j</sup> PB DRY"M YR"H<sup>k</sup>ḢBBH HHWW Y" HS TS YTT HP P" GH YHW YHW. You are lauded, King of the world,<sup>l</sup> for You gave permission for the invocation<sup>m</sup> of Your name<sup>n</sup> in standing and in sitting and in the remainder of all the greatness of <sup>o</sup> wisdom. YP ŠTT "D YH SBY "P<sup>p</sup> "R"H<sup>q</sup> YWP YH HPWP YWP"D
+You are<sup>a</sup> the King of glory; Your way is<sup>b</sup> glory and Your word is<sup>c</sup> holy;<sup>d</sup> Your name is glory, great and holy<sup>e</sup> forever and ever and ever. RM<sup>f</sup> YHW \#YZWZ<sup>g</sup> GYBWR<sup>h</sup> DRKYY<sup>i</sup> "HDYṠ RYW" LK BRW"H ZHRY YHW BYHW "L<sup>j</sup> PB DRY"M YR"H<sup>k</sup>ḢBBH HHWW Y" HS TS YTT HP P" GH YHW YHW. You are lauded, King of the world,<sup>l</sup> for You gave permission for the invocation<sup>m</sup> of Your name<sup>n</sup> in standing and in sitting and in the remainder of all the greatness of <sup>o</sup> wisdom. YP ŠTT "D YH SBY "P<sup>p</sup> "R"H<sup>q</sup> YWP YH HPWP YWP"D
 
 r “and above them all … my head” om N s “Seal above my head:” M22 \] om N M40 D; “TYTS. Above my head:” O t “Gog” (cf. Ezek 38–39)
 
@@ -1047,7 +1047,7 @@ R. Ishmael said: This is the work of wisdom and understanding. Everyone who work
 
 R. Ishmael said:
 
-A disciple who seeks to make use of this great mystery must sit in fasting from the beginning of the month of Sivan until *#Ȧseret*.[^a-p279] And he must eat nothing except from the first of what has been separated from all.[^b-p279] And he must whisper (to) the moon or bring wine. And he must bake a pot of bread[^c-p279] with his (own) hands. He must go to the river and immerse. And also these nine days, morning and evening, he must immerse. And on the last day, when he seeks to bake he immerses, and after dark he immerses,
+A disciple who seeks to make use of this great mystery must sit in fasting from the beginning of the month of Sivan until *\#Ȧseret*.[^a-p279] And he must eat nothing except from the first of what has been separated from all.[^b-p279] And he must whisper (to) the moon or bring wine. And he must bake a pot of bread[^c-p279] with his (own) hands. He must go to the river and immerse. And also these nine days, morning and evening, he must immerse. And on the last day, when he seeks to bake he immerses, and after dark he immerses,
 
 19/§ 572
 
@@ -1056,7 +1056,7 @@ A disciple who seeks to make use of this great mystery must sit in fasting from 
 [^i-p279]: “his vigor” O M40 \] “your vigor” N; “my vigor” M22
 [^j-p279]: “to him,” N O M40 D \] “to me” M22
 [^k-p279]: “and He would give … he was not harmed” N \] “etc.” O M40; om M22 18/§ 571
-[^a-p279]: Here *#Ȧseret* is another name for the festival of
+[^a-p279]: Here *\#Ȧseret* is another name for the festival of
 [^b-p279]: The meaning *Shavuot* or Weeks, which begins on the sixth day of the month of Sivan. of this sentence is unclear. Swartz translates it, “He must not eat anything except from the beginning of this period” (*Scholastic Magic*, 110), whereas Schäfer translates, “und esse
 [^d-p279]: For the last two words cf. Exod 34:6.
 [^c-p279]: See nichts außer vom Ersten, was man von allem absondert” (*Übersetzung*, 3:294). Swartz, *Scholastic Magic*, 110 n. 5 on this phrase.
@@ -1107,7 +1107,7 @@ d Perhaps an § 575 <sup>a</sup>“"YN SMN” or “there is no mark”
 
 e plural f For “DDRYN”
 
-error for #Anaphi"el, on whom see *Hekhalot Rabbati* §§ 241–244.
+error for \#Anaphi"el, on whom see *Hekhalot Rabbati* §§ 241–244.
 
 Swartz (*Scholastic Magic*, 111 n. 11) suggests (angelic) “Dwellers,” based on terminology used g The manuscript reads “my.”
 
@@ -1213,15 +1213,15 @@ d “to explicate” N M40 D \] “explicating” O
 
 *[p. 283]* ^pg292
 
-palace: In the first palace:[^e-p283] WHWPY"L and #ZPY"L, GHWRY"L and RṠYṠY"L
+palace: In the first palace:[^e-p283] WHWPY"L and \#ZPY"L, GHWRY"L and RṠYṠY"L
 
 and SṪP*⟨*P*⟩*"L BTZ"L "WZPY""L W#WZBZBY"L.
 
 At the entrance of the second palace stand: Gabriel Qaṡpi"el RHB"L
 
-ŠBZRY"L ŠTQY"L and HRBY"L QŠR"L #WBMY"L #RP"L.
+ŠBZRY"L ŠTQY"L and HRBY"L QŠR"L \#WBMY"L \#RP"L.
 
-At the entrance of the third palace stand: HDRY"L ZBDY"L ZRWRY"L SRN"L #MTY"L #MM#L and #MTLY"L NWRDY"L and RWDY"L.
+At the entrance of the third palace stand: HDRY"L ZBDY"L ZRWRY"L SRN"L \#MTY"L \#MM\#L and \#MTLY"L NWRDY"L and RWDY"L.
 
 At the entrance of the fourth palace stand: SGSṪ"L "SR"L H*⟨*Y*⟩*LWPY *⟨*HYLWPY*⟩* and HWLWPTY "LMWN GLMWN QDWŠ[^f-p283]HQM GDR "GBS BSWS "BRMWS PSWY MDWR Gabriel Z#YM Z#H[^g-p283] "WR# YWRD#.
 
@@ -1231,13 +1231,13 @@ At the entrance of the fifth palace stand: DHRHY"L "YDR"L DRGYT"L GHṠYṠ" Y�
 
 At the entrance of the sixth palace stand: "BGBG "ṠHṠH "ṠPṠP HDM DGDWY RZWZY"L # ṪWPY"L GRGWT SBS"L HDWRY"L Ṡ#N DYR"L "YZ#Y"L Z#Z"L ṠZY\#"L {??} QDQD"L R#D"L ŠWR"L PSSY"L GHW"L BPY"L.
 
-At the entrance of the seventh palace stand: "SMKYS QMNMN "MYLPṪWN ŠMYNY"L LPṪWN "LT QRTYWN "BRY"L GDWDY"L SRPSYWN HLLBY"L #YPPY LHBH[^i-p283] Z#Z#[^j-p283] ŠLHBYTH ŠBWBY"L PḢDY"L ḢWQY"L RWṪ PSYSY"L "SPSYSY"L G#G#[^k-p283] KY #WR[^l-p283] YQRTH H*⟨*H*⟩*YPYLY MWPLY"L YSWDY"L Prince of [^m-p283] the Presence who sees the likeness of [^n-p283] ZHRRY"L YHWH God of Israel.
+At the entrance of the seventh palace stand: "SMKYS QMNMN "MYLPṪWN ŠMYNY"L LPṪWN "LT QRTYWN "BRY"L GDWDY"L SRPSYWN HLLBY"L \#YPPY LHBH[^i-p283] Z#Z#[^j-p283] ŠLHBYTH ŠBWBY"L PḢDY"L ḢWQY"L RWṪ PSYSY"L "SPSYSY"L G#G#[^k-p283] KY \#WR[^l-p283] YQRTH H*⟨*H*⟩*YPYLY MWPLY"L YSWDY"L Prince of [^m-p283] the Presence who sees the likeness of [^n-p283] ZHRRY"L YHWH God of Israel.
 
 And above them all is[^a-p283] the King of the world seated on *an exalted and lifted-up throne* (Isa 6:1). And the angels of glory refresh[^b-p283] with songs and shout a shout and speak His mighty acts,[^c-p283] standing on His right and His left.[^d-p283] And these are their names:[^e-p283]
 
-\#GYWN #DY"L #PP"L ṠBWṠY"L *⟨*ṠBWṠY"L*⟩* and "YBWRY"L "ŠKNYZKY"L ṠṠ and PPY[^g-p283] NGD[^h-p283]
+\#GYWN \#DY"L \#PP"L ṠBWṠY"L *⟨*ṠBWṠY"L*⟩* and "YBWRY"L "ŠKNYZKY"L ṠṠ and PPY[^g-p283] NGD[^h-p283]
 
-GRWSQSWP"L PKWKY"L "GKGDY"L #DRY"L #WZRYM[^f-p283]
+GRWSQSWP"L PKWKY"L "GKGDY"L \#DRY"L \#WZRYM[^f-p283]
 
 GHYR"L GHWDRY ZRZDY"L HDWRTY"L WMQYP[^i-p283] "DRGḢY WD"Y YWPY[^j-p283] and PSYBGD GHWR"L GHWRYY ZRZ(Y)"L the Angel of the Presence. And Sandalphon[^k-p283] ties the phylacteries onto the head of *the Rock of Ages*
 
@@ -1382,7 +1382,7 @@ M40 \] “all the uppermost ones” N O D
 
 *[p. 287]* ^pg296
 
-lowermost ones.<sup>n</sup> Your name is the merit of the earth and Your name is the merit of heaven.<sup>o</sup> And the angels stand in heaven<sup>p</sup> and the righteous ones trust in Your invocation. And Your name<sup>q</sup> flies over all and Your invocation is declared great<sup>r</sup> over all sons of <sup>s</sup> flesh. Blessed is Your name alone, blessed is Your name alone.<sup>t</sup> Fire that is worthy,<sup>u</sup> kindled fire, Z#N "PSP", consuming fire, enraged fire of ire,<sup>v</sup> fear of <sup>w</sup> seraphim, a rock of silver was in a cold sweat, ṠPṠPS, rulership of ophannim, kindled strength of kindled enraged DPWSH, a word engraved in the bosom of YH.<sup>x</sup> "BṠ "BṠ BṠ BBṠ Blessed are You<sup>y</sup> alone. He alone Z#MM WRSWS<sup>z</sup> YPS #P{ Ṫ}Ṡ *⟨*#PṠ*⟩* ZHYRaa LṠDŠ ZYWbb HYWNcc DS ZBWD BB" ZBDYYH YHW YH YH of Hosts.dd You are declared holy who formed heaven and earth. All the bandsee of the height and the work of Your handsff ornament Your invocation fromgg Your inhabited earth.hh Our God,ii Former of every magnificent onejj in greatnesskk and beloved in might. The mighty ones of vigor give thanksll that they stand before You in truthmm and in righteousness. Blessed are You YHWH, adornmentnn of the agesoo and the Lord of rulership.pp
+lowermost ones.<sup>n</sup> Your name is the merit of the earth and Your name is the merit of heaven.<sup>o</sup> And the angels stand in heaven<sup>p</sup> and the righteous ones trust in Your invocation. And Your name<sup>q</sup> flies over all and Your invocation is declared great<sup>r</sup> over all sons of <sup>s</sup> flesh. Blessed is Your name alone, blessed is Your name alone.<sup>t</sup> Fire that is worthy,<sup>u</sup> kindled fire, Z#N "PSP", consuming fire, enraged fire of ire,<sup>v</sup> fear of <sup>w</sup> seraphim, a rock of silver was in a cold sweat, ṠPṠPS, rulership of ophannim, kindled strength of kindled enraged DPWSH, a word engraved in the bosom of YH.<sup>x</sup> "BṠ "BṠ BṠ BBṠ Blessed are You<sup>y</sup> alone. He alone Z#MM WRSWS<sup>z</sup> YPS \#P{ Ṫ}Ṡ *⟨*\#PṠ*⟩* ZHYRaa LṠDŠ ZYWbb HYWNcc DS ZBWD BB" ZBDYYH YHW YH YH of Hosts.dd You are declared holy who formed heaven and earth. All the bandsee of the height and the work of Your handsff ornament Your invocation fromgg Your inhabited earth.hh Our God,ii Former of every magnificent onejj in greatnesskk and beloved in might. The mighty ones of vigor give thanksll that they stand before You in truthmm and in righteousness. Blessed are You YHWH, adornmentnn of the agesoo and the Lord of rulership.pp
 
 n “lowermost ones” M40 D \] “all the lowermost ones” N O o “of heaven” N O \] om M40
 
@@ -1430,7 +1430,7 @@ Lord of <sup>d</sup> lords, Magnificent One of magnificent ones;<sup>e</sup> God
 
 God of <sup>h</sup> the attendants, And His name<sup>i</sup> is declared holy over His attendants.<sup>j</sup> He<sup>k</sup> is His name<sup>l</sup> and His name is He.
 
-He is in He and His name is in His name.<sup>m</sup> A song is His name and His name is a song.<sup>n</sup>,<sup>o</sup> Z#WPH<sup>p</sup> Z#P<sup>q</sup> ZW#Y ZY#<sup>r</sup> "HSY HWHSYN RMYY YHH HW"<sup>s</sup> RGŠ<sup>t</sup> BRQ<sup>u</sup> " ṪG"H HW"<sup>v</sup>ḢYL"H "HY "H; HW"<sup>w</sup> HW"B DRY #YL<sup>x</sup> RHY RS #L<sup>y</sup> DRW ZRYZ<sup>z</sup> YŠ' WYŠ'aa ZRYZ.bb *Eye in eye*cc (Num 14:14), vigor in vigor, might in might, greatness in greatness,dd support in support, poor in poor,ee shadow, *in the shadow of the Almighty he will take refuge* (Ps 91:1). You are declared holy, King of the world, since everything is suspendedff on Your arm, and all declare praise to Your name, for You are the Lord of the ages,gg and there is
+He is in He and His name is in His name.<sup>m</sup> A song is His name and His name is a song.<sup>n</sup>,<sup>o</sup> Z#WPH<sup>p</sup> Z#P<sup>q</sup> ZW#Y ZY#<sup>r</sup> "HSY HWHSYN RMYY YHH HW"<sup>s</sup> RGŠ<sup>t</sup> BRQ<sup>u</sup> " ṪG"H HW"<sup>v</sup>ḢYL"H "HY "H; HW"<sup>w</sup> HW"B DRY \#YL<sup>x</sup> RHY RS \#L<sup>y</sup> DRW ZRYZ<sup>z</sup> YŠ' WYŠ'aa ZRYZ.bb *Eye in eye*cc (Num 14:14), vigor in vigor, might in might, greatness in greatness,dd support in support, poor in poor,ee shadow, *in the shadow of the Almighty he will take refuge* (Ps 91:1). You are declared holy, King of the world, since everything is suspendedff on Your arm, and all declare praise to Your name, for You are the Lord of the ages,gg and there is
 
 28/§ 588 <sup>a</sup>“You are declared holy” O M40 D \] “The second prayer: Your are declared holy, YHWH,” N
 
@@ -1534,7 +1534,7 @@ The fourth prayer (§ 590)
 
 ṪYPY YṪY # ṪRSYYH ṪRPSS TYRSYW
 
-ṪYṪRPWS RḢPYN RDṠ "GY#Ṡ GḢṠ "RSS YH PYHP YH HHH YPYPP YQDQD" YHṠṠ RWṠṠ<sup>o</sup> RHP RHP RHWP RHṠ DḢṠB ḢṠB "Š<sup>p</sup>ḢQ BḢQ<sup>q</sup> "BG BZG BQQ YBQK RK<sup>r</sup> YHGZ ṪṪRSWP HPṠṠ YHGṠ YPWP HPP "RKY ḢPṠY<sup>s</sup> MNWSY<sup>t</sup> #TY<sup>u</sup> #WPYNP ZBYR SBB SBH YRGH NWR<sup>v</sup> GRYR DLSPSYM YH {NMṠ} ṠMṠ HṠQWQ ZYW RB<sup>w</sup> #ŠBB YHṠ YHP YHQ QYR<sup>x</sup> HWPKLPS ""G GBG BWG "GYD<sup>y</sup> DYGR" "SQNYS PSPY" ṪṪRYSG YY' ṪṪRYSG HGG" HGYG" HY HWY HW"<sup>z</sup> HW"aa HY WHW"bb WWY HGY" TGY" NDQ #NRZWG "YBD TRPSYS" ḢDcc ḢWD W"DBH HGG" MHGY" HṪLTYH KWNSdd "N{?}GYS ZHee NBWS MQṪLff HPQTPQY NDWS BTL BRKgg YPP RGŠThh DBB BPTL" "BZQii PDQ ḢQQjj ṪBY MRQQ "KSWP " ḢSRkk "HGHll "HYG" "HYPBN" #BTYYH ṪBṪYB ṪWBmm
+ṪYṪRPWS RḢPYN RDṠ "GY#Ṡ GḢṠ "RSS YH PYHP YH HHH YPYPP YQDQD" YHṠṠ RWṠṠ<sup>o</sup> RHP RHP RHWP RHṠ DḢṠB ḢṠB "Š<sup>p</sup>ḢQ BḢQ<sup>q</sup> "BG BZG BQQ YBQK RK<sup>r</sup> YHGZ ṪṪRSWP HPṠṠ YHGṠ YPWP HPP "RKY ḢPṠY<sup>s</sup> MNWSY<sup>t</sup> \#TY<sup>u</sup> \#WPYNP ZBYR SBB SBH YRGH NWR<sup>v</sup> GRYR DLSPSYM YH {NMṠ} ṠMṠ HṠQWQ ZYW RB<sup>w</sup> \#ŠBB YHṠ YHP YHQ QYR<sup>x</sup> HWPKLPS ""G GBG BWG "GYD<sup>y</sup> DYGR" "SQNYS PSPY" ṪṪRYSG YY' ṪṪRYSG HGG" HGYG" HY HWY HW"<sup>z</sup> HW"aa HY WHW"bb WWY HGY" TGY" NDQ \#NRZWG "YBD TRPSYS" ḢDcc ḢWD W"DBH HGG" MHGY" HṪLTYH KWNSdd "N{?}GYS ZHee NBWS MQṪLff HPQTPQY NDWS BTL BRKgg YPP RGŠThh DBB BPTL" "BZQii PDQ ḢQQjj ṪBY MRQQ "KSWP " ḢSRkk "HGHll "HYG" "HYPBN" \#BTYYH ṪBṪYB ṪWBmm
 
 b “in heaven”
 
@@ -1596,7 +1596,7 @@ mm “good”
 
 *[p. 291]* ^pg300
 
-YHWQ HL YH HP YHGG MRSY# YY' #YYW#Y HYGY WMHGY HWH GLY YHnn GRoo SBRH ŠLṪpp GYD ŠBYqq BRWP #YP#YP "#YP#YP "BYrr HG" YH QRQK
+YHWQ HL YH HP YHGG MRSY# YY' \#YYW\#Y HYGY WMHGY HWH GLY YHnn GRoo SBRH ŠLṪpp GYD ŠBYqq BRWP \#YP\#YP "#YP#YP "BYrr HG" YH QRQK
 
 HWHW ṪṪRSYH YY'.
 

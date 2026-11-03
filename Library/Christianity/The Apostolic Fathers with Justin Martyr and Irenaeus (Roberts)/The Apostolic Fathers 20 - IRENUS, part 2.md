@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 20
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 548–2968
+page_range: 548–587
 pdf_pages: 588–627
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -624,7 +624,7 @@ This word would perhaps be better cancelled.
 
 348 [[Acts 08#^8-9|Acts viii. 9–11]]. 2934 [[Acts 08#^8-20|Acts viii. 20]], [[Acts 08#^8-21|21]], [[Acts 08#^8-23|23]]. 2935 Comp. Just. Mart., *Apol.*, i. 26. It is generally supposed that Simon Magus was thus confounded with the Sabine god, 2936 Semo Sancus; but see our note, *loc. cit.* \[And mine at end of the First Apology. Consult *Orelli’s Inscriptions* there noted.\]
 
-*[PDF 613]* ^pg613
+*[p. 573]* ^pg613
 
 She suffered all kinds of contumely from them, so that she could not return upwards to her father, but was even shut up in a human body, and for ages passed in succession from one female body to another, as from vessel to vessel. She was, for example, in that Helen on whose account the Trojan war was undertaken; for whose sake also Stesichorus<sup>2937</sup> was struck blind, because he had cursed her in his verses, but afterwards, repenting and writing what are called *palinodes*, in which he sang her praise, he was restored to sight. Thus she, passing from body to body, and suffering insults in every one of them, at last became a common prostitute; and she it was that was meant by the lost sheep.<sup>2938</sup>
 
@@ -636,7 +636,7 @@ She suffered all kinds of contumely from them, so that she could not return upwa
 
 A lyric poet of Sicily, said to have been dealt with, as stated above, by Castor and Pollux. 2937 [[Matthew 18#^18-12|Matt. xviii. 12]]. 2938 [[1 Timothy 06#^6-20|1 Tim. vi. 20]].
 
-*[p. 2941]* ^pg614
+*[p. 574]* ^pg614
 
 which he teaches, knowledge to this effect, that one may overcome those very angels that made the world; for his disciples obtain the *resurrection* by being baptized into him, and can die no more, but remain in the possession of immortal youth.
 
@@ -656,7 +656,7 @@ Gen. i. 26.
 
 \[[[1 Timothy 04#^4-3|1 Tim. iv. 3]].\]
 
-*[p. 2942]* ^pg615
+*[p. 575]* ^pg615
 
 Dynamis, and from Dynamis and Sophia the powers, and principalities, and angels, whom he also calls the *first*; and that by them the first heaven was made. Then other powers, being formed by emanation from these, created another heaven similar to the first; and in like manner, when others, again, had been formed by emanation from them, corresponding exactly to those above them, these, too, framed another third heaven; and then from this third, in downward order, there was a fourth succession of descendants; and so on, after the same fashion, they declare that more and more principalities and angels were formed, and three hundred and sixty-five heavens.<sup>2942</sup> Wherefore the year contains the same number of days in conformity with the number of the heavens.
 
@@ -666,7 +666,7 @@ Dynamis, and from Dynamis and Sophia the powers, and principalities, and angels,
 
 350 The ordinary text reads, “three hundred and seventy-five,” but it should manifestly be corrected as above.
 
-*[PDF 616]* ^pg616
+*[p. 576]* ^pg616
 
 first, and others to the second heaven; and then they strive to set forth the names, principles, angels, and powers of the three hundred and sixty-five imagined heavens. They also affirm that the barbarous name in which the Saviour ascended and descended, is Caulacau.<sup>2943</sup>
 
@@ -692,7 +692,7 @@ So written in Latin, but in Greek ᾽Αβρασάξ, the numerical value of the 
 
 Such seems to be the meaning of the Latin, but the original text is conjectural.
 
-*[PDF 617]* ^pg617
+*[p. 577]* ^pg617
 
 with contempt, and that for this reason he was endowed with faculties, by means of which he destroyed those passions which dwelt in men as a punishment \[for their sins\].
 
@@ -704,7 +704,7 @@ with contempt, and that for this reason he was endowed with faculties, by means 
 
 351 \[See cap. xxvii. 3.\] 2947 The text is here defective, but the above meaning seems to be indicated by Epiphanius. 2948 [[Romans 03#^3-8|Rom. iii. 8]]. 2949 \[Isa. v. 20. Horne Tooke derives our word *Truth* from what any one *troweth*.\] 2950 The text here has greatly puzzled the editors. We follow the simple emendation proposed by Harvey.
 
-*[PDF 618]* ^pg618
+*[p. 578]* ^pg618
 
 They affirm that for this reason Jesus spoke the following parable:—“Whilst thou art with thine adversary in the way, give all diligence, that thou mayest be delivered from him, lest he give thee up to the judge, and the judge surrender thee to the officer, and he cast thee into prison. Verily, I say unto thee, thou shalt not go out thence until thou pay the very last farthing.”<sup>2952</sup> They also declare the “adversary” is one of those angels who are in the world, whom they call the Devil, maintaining that he was formed for this purpose, that he might lead those souls which have perished from the world to the Supreme Ruler. They describe him also as being chief among the makers of the world, and maintain that he delivers such souls \[as have been mentioned\] to another angel, who ministers to him, that he may shut them up in other bodies; for they declare that the body is “the prison.” Again, they interpret these expressions, “Thou shalt not go out thence until thou pay the very last farthing,” as meaning that no one can escape from the power of those angels who made the world, but that he must pass from body to body, until he has experience of every kind of action which can be practised in this world, and when nothing is longer wanting to him, then his liberated soul should soar upwards to that God who is above the angels, the makers of the world. In this way also all souls are saved, whether their own which, guarding against all delay, participate in all sorts of actions during one incarnation, or those, again, who, by passing from body to body, are set free, on fulfilling and accomplishing what is requisite in every form of life into which they are sent, so that at length they shall no longer be \[shut up\] in the body.
 
@@ -722,7 +722,7 @@ no longer be regarded as evil.
 
 \[This censure of images as a Gnostic peculiarity, and as a heathenish corruption, should be noted.\]
 
-*[PDF 619]* ^pg619
+*[p. 579]* ^pg619
 
 #### Chapter XXVI.—Doctrines of Cerinthus, the Ebionites, and Nicolaitanes.
 
@@ -750,7 +750,7 @@ We here follow the text as preserved by Hippolytus. The Latin has, “a certain 
 
 [[Revelation 02#^2-6|Rev. ii. 6]].
 
-*[PDF 620]* ^pg620
+*[p. 580]* ^pg620
 
 Him to be the author of evils, to take delight in war, to be infirm of purpose, and even to be contrary to Himself. But Jesus being derived from that father who is above the God that made the world, and coming into Judæa in the times of Pontius Pilate the governor, who was the procurator of Tiberius Cæsar, was manifested in the form of a man to those who were in Judæa, abolishing the prophets and the law, and all the works of that God who made the world, whom also he calls Cosmocrator. Besides this, he mutilates the Gospel which is according to Luke, removing all that is written respecting the generation of the Lord, and setting aside a great deal of the teaching of the Lord, in which the Lord is recorded as most dearly confessing that the Maker of this universe is His Father. He likewise persuaded his disciples that he himself was more worthy of credit than are those apostles who have handed down the Gospel to us, furnishing them not with the Gospel, but merely a fragment of it. In like manner, too, he dismembered the Epistles of Paul, removing all that is said by the apostle respecting that God who made the world, to the effect that He is the Father of our Lord Jesus Christ, and also those passages from the prophetical writings which the apostle quotes, in order to teach us that they announced beforehand the coming of the Lord.
 
@@ -760,7 +760,7 @@ Him to be the author of evils, to take delight in war, to be infirm of purpose, 
 
 353 \[Comp. cap. xxv. 3.\] 2958 We here follow the amended version proposed by the Benedictine editor. 2959 A promise never fulfilled: comp. book iii. 12, and Euseb., *Hist. Eccl.*, v. 8.
 
-*[PDF 621]* ^pg621
+*[p. 581]* ^pg621
 
 of Simon; and thus they destroy multitudes, wickedly disseminating their own doctrines by the use of a good name, and, through means of its sweetness and beauty, extending to their hearers the bitter and malignant poison of the serpent, the great author of apostasy.<sup>2961</sup>
 
@@ -774,7 +774,7 @@ of Simon; and thus they destroy multitudes, wickedly disseminating their own doc
 
 \[The whole casuistical system of the Trent divines, *De Matrimonio*, proceeds on this principle: marriage is licensed evil.\]
 
-*[PDF 622]* ^pg622
+*[p. 582]* ^pg622
 
 #### Chapter XXIX.—Doctrines of various other Gnostic sects, and especially of the Barbeliotes or Borborians.
 
@@ -786,7 +786,7 @@ of Simon; and thus they destroy multitudes, wickedly disseminating their own doc
 
 354 Harvey supposes this name to be derived from two Syriac words, meaning “God in a Tetrad.” Matter again derives it 2963 from two Hebrew words, denoting “Daughter of the Lord.” Both the text and meaning are here altogether doubtful. 2964 Harvey refers to the cabbalistic books in explanation of this and the following names, but their meanings are very uncertain.
 
-*[p. 2967]* ^pg623
+*[p. 583]* ^pg623
 
 hence he attained to the knowledge of him that is above all. Invincible power was also conferred on him by the virgin spirit; and all things then rested in him, to sing praises to the great Æon. Hence also they declare were manifested the mother, the father, the son; while from Anthropos and Gnosis that Tree was produced which they also style Gnosis itself.
 
@@ -800,7 +800,7 @@ Various explanations of this word have been proposed, but its signification rema
 
 Ex. xx. 5; Isa. xlv. 5, 6.
 
-*[p. 2968]* ^pg624
+*[p. 584]* ^pg624
 
 2\. The father and son thus both had intercourse with the woman (whom they also call the mother of the living). When, however,<sup>2968</sup> she could not bear nor receive into herself the greatness of the lights, they declare that she was filled to repletion, and became ebullient on the left side; and that thus their only son Christ, as belonging to the right side, and ever tending to what was higher, was immediately caught up with his mother to form an incorruptible Æon. This constitutes the true and holy Church, which has become the appellation, the meeting together, and the union of the father of all, of the first man, of the son, of the second man, of Christ their son, and of the woman who has been mentioned.
 
@@ -812,7 +812,7 @@ a state of immobility, and imparted motion to them also, wantonly acting upon th
 
 The punctuation is here difficult and doubtful.
 
-*[PDF 625]* ^pg625
+*[p. 585]* ^pg625
 
 5\. They have also given names to \[the several persons\] in their system of falsehood, such as the following: he who was the first descendant of the mother is called Ialdabaoth;<sup>2969</sup> he, again, descended from him, is named Iao; he, from this one, is called Sabaoth; the fourth is named Adoneus; the fifth, Eloeus; the sixth, Oreus; and the seventh and last of all, Astanphæus. Moreover, they represent these heavens, potentates, powers, angels, and creators, as sitting in their proper order in heaven, according to their generation, and as invisibly ruling over things celestial and terrestrial. The first of them, namely Ialdabaoth, holds his mother in contempt, inasmuch as he produced sons and grandsons without the permission of any one, yea, even angels, archangels, powers, potentates, and dominions. After these things had been done, his sons turned to strive and quarrel with him about the supreme power,—conduct which deeply grieved Ialdabaoth, and drove him to despair. In these circumstances, he cast his eyes upon the subjacent dregs of matter, and fixed his desire upon it, to which they declare his son owes his origin. This son is Nous himself, twisted into the form of a serpent;<sup>2970</sup> and hence were derived the spirit, the soul, and all mundane things: from this too were generated all oblivion, wickedness, emulation, envy, and death. They declare that the father imparted<sup>2971</sup> still greater crookedness to this serpent-like and contorted Nous of theirs, when he was with their father in heaven and Paradise.
 
@@ -820,7 +820,7 @@ The punctuation is here difficult and doubtful.
 
 356 The probable meaning of this and the following names is thus given by Harvey: Ialdabaoth, *Lord God of the Fathers*; 2969 Iao, *Jehovah*; Oreus, *Light*; Astanphæus, *Crown*; Sabaoth, of course, means *Hosts*; Adoneus, *Lord*; and Eloeus, *God*. All the names are derived from the cabbalistic theology of the Jews. Hence their name of Ophites, from ὄφις, *a serpent*. 2970 The Latin has *evertisse*, implying that thus Nous was more degraded. 2971
 
-*[PDF 626]* ^pg626
+*[p. 586]* ^pg626
 
 He \[they further assert\] at once gave thanks to the first Anthropos (man), forsaking those who had created him.
 
@@ -834,7 +834,7 @@ That is, from Ialdabaoth, etc. \[*Philastr.* (*ut supra*), Oehler, i. p. 38.\] 2
 
 There is constant reference in this section to rabbinical conceits and follies.
 
-*[PDF 627]* ^pg627
+*[p. 587]* ^pg627
 
 carnal knowledge of each other, and begat Cain, whom the serpent, that had been cast down along with his sons, immediately laid hold of and destroyed by filling him with mundane oblivion, and urging into folly and audacity, so that, by slaying his brother Abel, he was the first to bring to light envy and death. After these, they affirm that, by the forethought of Prunicus, Seth was begotten, and then Norea,<sup>2975</sup> from whom they represent all the rest of mankind as being descended. They were urged on to all kinds of wickedness by the inferior Hebdomad, and to apostasy, idolatry, and a general contempt for everything by the superior holy Hebdomad,<sup>2976</sup> since the mother was always secretly opposed to them, and carefully preserved what was peculiarly her own, that is, the besprinkling of light. They maintain, moreover, that the holy Hebdomad is the seven stars which they call planets; and they affirm that the serpent cast down has two names, Michael and Samael.
 

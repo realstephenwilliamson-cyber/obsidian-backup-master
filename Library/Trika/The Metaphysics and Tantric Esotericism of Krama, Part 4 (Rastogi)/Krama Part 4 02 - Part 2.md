@@ -333,7 +333,7 @@ knowledge is judgment., The merit of Saiva theory is that speech is simpler anà
 
 concept than juâgment (thougnt) s
 
-*[p. 152]* ^pg56
+*[p. 752]* ^pg56
 
 h ii only (cognitive) situation where we are aware of the subjective proper., In speech, again, we are aware equally of that which is spoken of, that which is meant; and this meaning is apprehended as a function of speech itself, as its intention, not as something which wasg already known, for every knowledge is speech, Speech, now, has various stages of purity - through various stages it dissociates itself from its accompaniments, ViZ., sounds, images, etc ~ and at each higher stage it reveals itself as the essence of the lower, Yet, at every stage, including. the highest one, its self-transcendence, the memning, the intention, continues, The subtlest speech, undoubtedly the subjective par excellence, has, therefore, the inevitable self-transcenãence which is objectivity at aN
 
@@ -500,7 +500,7 @@ geag l L. चिति;्रत्यवमशत्मा पावा स्�
 
 बाहः शव्दाभाठेऽपि पिहतकर्णणः व्राणाजनितमा न्त" ततम् ध्वर् तमन 1 हतार
 
-*[p. 158]* ^pg62
+*[p. 758]* ^pg62
 
 sei
 

@@ -452,7 +452,7 @@ ADHYAYA 1
 
 Another version of the story of Śvetaketu, with Jaivali Pravāhaṇa as the king, is found at BU 6.2, CU 5.3—10, and JB 1.17—18. For a comparative study of these three versions, see Söhnen 1981. She thinks that the KsU has preserved the oldest version at least of the introductory section of the story.
 
-*[p. 1]* ^pg605
+*[p. 582]* ^pg605
 
 L LV, vr in Frenz (cf. BU 4.6.2) gārgyāyanṇir. — 2. vr in Frenz prajigāya. — 3. LV, Cowell (1861), Radhakrishnan (1953) hābhyāgatam. — 4. vr in Frenz gotamasya. —5. Cowell (1861) putro ’si; vr in Frenz putro ’sti, putrāste; see Böhtlingk (1895, 348; 1897a, 97). — 6. Müller (1879-84) suggests anyataro; vr in Frenz anyam utāho, anyam aho; — 7. LV, Cowell (1861), Radhakrishnan (1953) mā loke, Böhtlingk (1895) tasmai lokāya or tasmiml loke; vr in Frenz tasya \[yasmin?\] loke, mā māāloke. — 8. vr in LV prechāmiti. —- 9. vr in Frenz adds ha. — 10. vr in Frenz havāmahe. — 11. vr in Frenz sadasi. — 12. LV, vr in Frenz gārgyāyanim. — 13. Cowell (1861) brahmagrāhyasi; LV, vr in Frenz brahmāṁo si; Deussen (1897, 24) brahmāgrānīr asi. — 14. vr in Frenz gotama. — 15. vr in Böhtlingk (1898, 84) yo mām upāãgāh, preferred by Söhnen (1981, 182). —- 16. vr in Frenz jñāpayiṣyãmiti.
 
@@ -476,7 +476,7 @@ formulation of the truth: see BU 2.1.1 n.
 
 not succumbed to pride: Āruni invites his son to come, but, although the text is silent on this point, it is clear that, just as in the parallel narratives in BU and CU, Svetaketu declined that invitation out of pride, which explains Citra’s satisfaction that Aruṇi has not succumbed to pride.
 
-*[p. 2]* ^pg606
+*[p. 583]* ^pg606
 
 Notes KsU 1.3
 

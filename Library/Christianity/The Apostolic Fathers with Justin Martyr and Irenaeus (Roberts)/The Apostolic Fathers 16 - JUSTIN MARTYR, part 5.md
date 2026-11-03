@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 16
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 396–2461
+page_range: 396–433
 pdf_pages: 436–473
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -188,7 +188,7 @@ It is not easy, says Maranus, to say in what Scripture Christ is so called. \[Cl
 
 78\) as the LXX. render many texts of the O.T. See Zech. iii. 8.\] Perhaps Justin had in his mind the passage, “This the *day* which the Lord hath made” (Ps. cxviii. 24). Clem. Alex. teaches that Christ is here referred to.
 
-*[PDF 445]* ^pg445
+*[p. 405]* ^pg445
 
 the Son of God;<sup>2333</sup> and she replied, ‘Be it unto me according to thy word.’ ”<sup>2334</sup> And by her has He been born, to whom we have proved so many Scriptures refer, and by whom God destroys both the serpent and those angels and men who are like him; but works deliverance from death to those who repent of their wickedness and believe upon Him.
 
@@ -214,7 +214,7 @@ the Son of God;<sup>2333</sup> and she replied, ‘Be it unto me according to th
 
 The text is corrupt, and the meaning doubtful. Otto translates: *naribus inter se certantes*.
 
-*[PDF 446]* ^pg446
+*[p. 406]* ^pg446
 
 and a roaring lion. All my bones are poured out and dispersed like water. My heart has become likes wax melting in the midst of my belly. My strength is become dry like a potsherd; and my tongue has cleaved to my throat’ —foretold what would come to pass; for the statement, ‘My hope from the breasts of my mother,’ \[is thus explained\]. As soon as He was born in Bethlehem, as I previously remarked, king Herod, having learned from the Arabian Magi about Him, made a plot to put Him to death and by God’s command Joseph took Him with Mary and departed into Egypt. 250
 
@@ -234,7 +234,7 @@ Isa. l. 4.
 
 Not found in mss.
 
-*[PDF 447]* ^pg447
+*[p. 407]* ^pg447
 
 or guile with His mouth), how do you or others who expect to be saved without this hope, suppose that you are not deceiving yourselves?
 
@@ -244,7 +244,7 @@ or guile with His mouth), how do you or others who expect to be saved without th
 
 251 καὶ τῶν διδασκάλων, adopted instead of κατὰ τὴν διδασκαλίαν, “according to their instructions.” 2341 ἀπὸ τοῦ ὄρους. Justin seems to have supposed that the Jews came on Christ from some point of the hill while He was in 2342 the valley below. ᾽Επὶ τοῦ ὄρους and ἐπὶ τὸ ὄρος have been suggested. Hos. x. 6.
 
-*[PDF 448]* ^pg448
+*[p. 408]* ^pg448
 
 ‘Nas’ is the word from which he is called by interpretation the *serpent*, i.e., according to the interpretation of the Hebrew term, from both of which there arises the single word *Satanas*. For this devil, when \[Jesus\] went up from the river Jordan, at the time when the voice spake to Him, ‘Thou art my Son: this day have I begotten Thee,’<sup>2344</sup> is recorded in the memoirs of the apostles to have come to Him and tempted Him, even so far as to say to Him, ‘Worship me;’ and Christ answered him, ‘Get thee behind me, Satan: thou shalt worship the Lord thy God, and Him only shalt thou serve.’<sup>2345</sup> For as he had deceived Adam, so he hoped<sup>2346</sup> that he might contrive some mischief against Christ also. Moreover, the statement, ‘All my bones are poured out<sup>2347</sup> and dispersed like water; my heart has become like wax, melting in the midst of my belly,’ was a prediction of that which happened to Him on that night when men came out against Him to the Mount of Olives to seize Him. For in the memoirs which I say were drawn up by His apostles and those who followed them, \[it is recorded\] that His sweat fell down like drops of blood while He was praying, and saying, ‘If it be possible, let this cup pass:’<sup>2348</sup> His heart and also His bones trembling; His heart being like wax melting in His belly:<sup>2349</sup> in order that we may perceive that the Father wished His Son really<sup>2350</sup> to undergo such sufferings for our sakes, and may not say that He, being the Son of God, did not feel what was happening to Him and inflicted on Him. Further, the expression, ‘My strength is dried up like a potsherd, and my tongue has cleaved to my throat,’ was a prediction, as I previously remarked, of that silence, when He who convicted all your teachers of being unwise returned no answer at all.
 
@@ -276,7 +276,7 @@ Maranus says it is hardly to be doubted that Justin read, “I am poured out lik
 
 Justin refers to the opinion of the Docetes, that Christ suffered in appearance merely, and not in reality.
 
-*[PDF 449]* ^pg449
+*[p. 409]* ^pg449
 
 And this is recorded to have happened in the memoirs of His apostles. And I have shown that, after His crucifixion, they who crucified Him parted His garments among them.
 
@@ -286,7 +286,7 @@ And this is recorded to have happened in the memoirs of His apostles. And I have
 
 252 See note on chap. xcviii. 2351 *Ibid*. 2352 This demonstration is not given. \[It *could not be*. The woman was herself frightened by the direct interposition of God. 2353 1 Sam. xxviii. 12, 13.\] Sylburg proposed δικαίους γίνεσθαι for δἰ οὔς γίν, “to strive earnestly to become righteous, and at death to pray.” 2354
 
-*[PDF 450]* ^pg450
+*[p. 410]* ^pg450
 
 righteousness exceed that of the Scribes and Pharisees, ye shall not enter into the kingdom of heaven.’<sup>2356</sup>
 
@@ -312,7 +312,7 @@ Num. xxiv. 17.
 
 [[Matthew 12#^12-38|Matt. xii. 38 f.]]
 
-*[PDF 451]* ^pg451
+*[p. 411]* ^pg451
 
 sign of Jonah.’ And since He spoke this obscurely, it was to be understood by the audience that after His crucifixion He should rise again on the third day. And He showed that your generation was more wicked and more adulterous than the city of Nineveh; for the latter, when Jonah preached to them, after he had been cast up on the third day from the belly of the great fish, that after three (in other versions, forty)<sup>2360</sup> days they should all perish, proclaimed a fast of all creatures, men and beasts, with sackcloth, and with earnest lamentation, with true repentance from the heart, and turning away from unrighteousness, in the belief that God is merciful and kind to all who turn from wickedness; so that the king of that city himself, with his nobles also, put on sackcloth and remained fasting and praying, and obtained their request that the city should not be overthrown. But when Jonah was grieved that on the (fortieth) third day, as he proclaimed, the city was not overthrown, by the dispensation of a gourd<sup>2361</sup> springing up from the earth for him, under which he sat and was shaded from the heat (now the gourd had sprung up suddenly, and Jonah had neither planted nor watered it, but it had come up all at once to afford him shade), and by the other dispensation of its 253
 
@@ -336,7 +336,7 @@ Jon. iv. 10 f.
 
 Chap. xvii.
 
-*[PDF 452]* ^pg452
+*[p. 412]* ^pg452
 
 which you mention to the condemnation of those who confess Him to be Christ, and a Teacher from and Son of God. Besides this, even when your city is captured, and your land ravaged, you do not repent, but dare to utter imprecations on Him and all who believe in Him. Yet we do not hate you or those who, by your means, have conceived such prejudices against us; but we pray that even now all of you may repent and obtain mercy from God, the compassionate and long-suffering Father of all.
 
@@ -358,7 +358,7 @@ Literally, “people shall place a river in it.”
 
 Mic. iv. 1 ff.
 
-*[p. 2369]* ^pg453
+*[p. 413]* ^pg453
 
 maintain He has not yet come; or if they say that He has come, they assert that it is not known who He is; but when He shall become manifest and glorious, then it shall be known who He is. And then, they say, the events mentioned in this passage shall happen, just as if there was no fruit as yet from the words of the prophecy. O unreasoning men! understanding not what has been proved by all these passages, that two advents of Christ have been announced: the one, in which He is set forth as suffering, inglorious, dishonoured, and crucified; but the other, in which He shall come from heaven with glory, when the man of apostasy,<sup>2367</sup> who speaks strange things against the Most High, shall venture to do unlawful deeds on the earth against us the Christians, who, having learned the true worship of God from the law, and the word which went forth from Jerusalem by means of 254
 
@@ -372,7 +372,7 @@ Ps. cxxviii. 3.
 
 2368
 
-*[p. 2370]* ^pg454
+*[p. 414]* ^pg454
 
 #### Chapter CXI.—The two advents were signified by the two goats. Other figures of the first advent, in which the Gentiles are freed by the blood of Christ.
 
@@ -384,7 +384,7 @@ Ps. cxxviii. 3.
 
 255
 
-*[PDF 455]* ^pg455
+*[p. 415]* ^pg455
 
 looked at it. Will the serpent, then, which (I have already said) God had in the beginning cursed and cut off by the great sword, as Isaiah says,<sup>2371</sup> be understood as having preserved at that time the people? and shall we receive these things in the foolish acceptation of your teachers, and \[regard\] them not as signs? And shall we not rather refer the standard to the resemblance of the crucified Jesus, since also Moses by his outstretched hands, together with him who was named Jesus (Joshua), achieved a victory for your people? For in this way we shall cease to be at a loss about the things which the lawgiver did, when he, without forsaking God, persuaded the people to hope in a beast through which transgression and disobedience had their origin. And this was done and said by the blessed prophet with much intelligence and mystery; and there is nothing said or done by any one of the prophets, without exception, which one can justly reprehend, if he possess the knowledge which is in them. But if your teachers only expound to you why female camels are spoken of in this passage, and are not in that; or why so many measures of fine flour and so many measures of oil \[are used\] in the offerings; and do so in a low and sordid manner, while they never venture either to speak of or to expound the points which are great and worthy of investigation, or command you to give no audience to us while we expound them, and to come not into conversation with us; will they not deserve to hear what our Lord Jesus Christ said to them: ‘Whited sepulchres, which appear beautiful outward, and within are full of dead men’s bones; which pay tithe of mint, and swallow a camel: ye blind guides!’<sup>2372</sup> If, then, you will not despise the doctrines of those who exalt themselves and wish to be called Rabbi, Rabbi, and come with such earnestness and intelligence to the words of prophecy as to suffer the same inflictions from your own people which the prophets themselves did, you cannot receive any advantage whatsoever from the prophetic writings.
 
@@ -402,7 +402,7 @@ nobler analogies.\]
 
 According to the LXX., Σάρα was altered to Σάῤῥα, and Ἄβραμ to Ἀβραάμ.
 
-*[PDF 456]* ^pg456
+*[p. 416]* ^pg456
 
 which his father gave him, was changed to Jesus (Joshua)? But since not only was his name altered, but he was also appointed successor to Moses, being the only one of his contemporaries who came out from Egypt, he led the surviving people into the Holy Land; and as he, not Moses, led the people into the Holy Land, and as he distributed it by lot to those who entered along with him, so also Jesus the Christ will turn again the dispersion of the people, and will distribute the good land to each one, though not in the same manner. For the former gave them a temporary inheritance, seeing he was neither Christ who is God, nor the Son of God; but the latter, after the holy resurrection,<sup>2374</sup> shall give us the eternal possession. The former, after he had been named Jesus (Joshua), and after he had received strength from His Spirit, caused the sun to stand still. For I have proved that it was Jesus who appeared to and conversed with Moses, and Abraham, and all the other patriarchs without exception, ministering to the will of the Father; who also, I say, came to be born man by the Virgin Mary, and I lives for ever. For the latter is He after<sup>2375</sup> whom and by whom the Father will renew both the heaven and the earth; this is He who shall shine an eternal light in Jerusalem; this is he who is the king of Salem after the order of Melchizedek, and the eternal Priest of the Most High. The former is said to have circumcised the people a second time with knives of stone (which was a sign of this circumcision with which Jesus Christ Himself has circumcised us from the idols made of stone and of other materials), and to have collected together those who were circumcised from the uncircumcision, i.e., from the error of the world, in every place by the knives of stone, to wit, the words of our Lord Jesus. For I have shown that Christ was proclaimed by the prophets in parables a Stone and a Rock. Accordingly the knives of stone we shall take to mean His words, by means of which so many who were in error have been circumcised from uncircumcision with the circumcision of the heart, with which God by Jesus commanded those from that time to be circumcised who derived their circumcision from Abraham, saying that Jesus (Joshua) would circumcise a second time with knives of stone those who entered into that holy land.
 
@@ -412,7 +412,7 @@ which his father gave him, was changed to Jesus (Joshua)? But since not only was
 
 256 Or, “resurrection of the saints.” 2374 Justin seems to mean that the renewal of heaven and earth dates from the incarnation of Christ. \[St. [[Matthew 19#^19-28|Matt. xix. 28]].\] 2375
 
-*[PDF 457]* ^pg457
+*[p. 417]* ^pg457
 
 taken place. And when He says again, ‘I have stretched out my hands to a disobedient and gainsaying people;’<sup>2377</sup> and when He says, ‘Lord, who hath believed our report?’<sup>2378</sup>—the words are spoken as if announcing events which had already come to pass. For I have shown that Christ is oftentimes called a Stone in parable, and in figurative speech Jacob and Israel. And again, when He says, ‘I shall behold the heavens, the works of Thy fingers,’<sup>2379</sup> unless I understand His method of using words,<sup>2380</sup> I shall not understand intelligently, but just as your teachers suppose, fancying that the Father of all, the unbegotten God, has hands and feet, and fingers, and a soul, like a composite being; and they for this reason teach that it was the Father Himself who appeared to Abraham and to Jacob. Blessed therefore are we who have been circumcised the second time with knives of stone. For your first circumcision was and is performed by iron instruments, for you remain hard-hearted; but our circumcision, which is the second, having been instituted after yours, circumcises us from idolatry and from absolutely every kind of wickedness by sharp stones, i.e., by the words \[preached\] by the apostles of the corner-stone cut out without hands. And our hearts are thus circumcised from evil, so that we are happy to die for the name of the good Rock, which causes living water to burst forth for the hearts of those who by Him have loved the Father of all, and which gives those who are willing to drink of the water of life. But you do not comprehend me when I speak these things; for you have not understood what it has been prophesied that Christ would do, and you do not believe us who draw your attention to what has been written. For Jeremiah thus cries: ‘Woe unto you! because you have forsaken the living fountain, and have digged for yourselves broken cisterns that can hold no water. Shall there be a wilderness where Mount Zion is, because I gave Jerusalem a bill of divorce in your sight?’<sup>2381</sup>
 
@@ -438,7 +438,7 @@ need of change.
 
 Jer. ii. 13.
 
-*[PDF 458]* ^pg458
+*[p. 418]* ^pg458
 
 for He is raised up out of His holy clouds. And He showed me Jesus (Joshua) the high priest standing before the angel \[of the Lord<sup>2382</sup>\]; and the devil stood at his right hand to resist him. And the Lord said to the devil, The Lord who hath chosen Jerusalem rebuke thee. Behold, is not this a brand plucked out of the fire?’ ”<sup>2383</sup>
 
@@ -466,7 +466,7 @@ The reading suggested by Maranus, εἰ μὲν ἦν.
 
 \[Noteworthy as to prophetic vision.\]
 
-*[PDF 459]* ^pg459
+*[p. 419]* ^pg459
 
 conversation, we have by the grace of our Jesus, according to His Father’s will, stripped ourselves of all those filthy wickednesses with which we were imbued. And though the devil is ever at hand to resist us, and anxious to seduce all to himself, yet the Angel of God, i.e., the Power of God sent to us through Jesus Christ, rebukes him, and he departs from us. And we are just as if drawn out from the fire, when purified from our former sins, and \[rescued\] from the affliction and the fiery trial by which the devil and all his coadjutors try us; out of which Jesus the Son of God has promised again to deliver us,<sup>2386</sup> and invest us with prepared garments, if we do His commandments; and has undertaken to provide an eternal kingdom \[for us\]. For just as that Jesus (Joshua), called by the prophet a priest, evidently had on filthy garments because he is said to have taken a harlot for a wife,<sup>2387</sup> and is called a brand plucked out of the fire, because he had received remission of sins when the devil that resisted him was rebuked; even so we, who through the name of Jesus have believed as one man in God the Maker of all, have been stripped, through the name of His first-begotten Son, of the filthy garments, i.e., of our sins; and being vehemently inflamed by the word of His calling, we are the true high priestly race of God, as even God Himself bears witness, saying that in every place among the Gentiles sacrifices are presented to Him well-pleasing and pure. Now God receives sacrifices from no one, except through His priests.<sup>2388</sup>
 
@@ -486,7 +486,7 @@ garments” signified either an illicit marriage, or sins of the people, or the 
 
 Mal. i. 10–12.
 
-*[PDF 460]* ^pg460
+*[p. 420]* ^pg460
 
 and liquid food, whereby the suffering of the Son of God<sup>2390</sup> which He endured is brought to mind, whose name the high priests of your nation and your teachers have caused to be profaned and blasphemed over all the earth. But these filthy garments, which have been put by you on all who have become Christians by the name of Jesus, God shows shall be taken away from us, when He shall raise all men from the dead, and appoint some to be incorruptible, immortal, and free from sorrow in the everlasting and imperishable kingdom; but shall send others away to the everlasting punishment of fire. But as to you and your teachers deceiving yourselves when you interpret what the Scripture says as referring to those of your nation then in dispersion, and maintain that their prayers and sacrifices offered in every place are pure and well-pleasing, learn that you are speaking falsely, and trying by all means to cheat yourselves: for, first of all, not even now does your nation 258
 
@@ -520,7 +520,7 @@ Isa. liii. 8.
 
 2 Sam. vii. 14f.
 
-*[PDF 461]* ^pg461
+*[p. 421]* ^pg461
 
 And Ezekiel says, ‘There shall be no other prince in the house but He.’<sup>2396</sup> For He is the chosen Priest and eternal King, the Christ, inasmuch as He is the Son of God; and do not suppose that Isaiah or the other prophets speak of sacrifices of blood or libations being presented at the altar on His second advent, but of true and spiritual praises and giving of thanks. And we have not in vain believed in Him, and have not been led astray by those who taught us such doctrines; but this has come to pass through the wonderful foreknowledge of God, in order that we, through the calling of the new and eternal covenant, that is, of Christ, might be found more intelligent and God-fearing than yourselves, who are considered to be lovers of God and men of understanding, but are not. Isaiah, filled with admiration of this, said: ‘And kings shall shut their mouths: for those to whom no announcement has been made in regard to Him<sup>2397</sup> shall see; and those who heard not shall understand. Lord, who hath believed our report? and to whom is the arm of the Lord revealed?’<sup>2398</sup> “And in repeating this,<sup>2399</sup> Trypho,” I continued, “as far as is allowable, I endeavour to do so
 
@@ -548,7 +548,7 @@ Isa. lii. 15, Isa. liii. 1.
 
 Literally, “in the time of Moses.”
 
-*[PDF 462]* ^pg462
+*[p. 422]* ^pg462
 
 foundations of the mountains; I will heap mischief on them.’<sup>2401</sup> And after that Righteous One was put to death, we flourished as another people, and shot forth as new and prosperous corn; as the prophets said, ‘And many nations shall betake themselves to the Lord in that day for a people: and they shall dwell in the midst of all the earth.’<sup>2402</sup> But we are not only a people, but also a holy people, as we have shown already.<sup>2403</sup> ‘And they shall call them the holy people, redeemed by the Lord.’<sup>2404</sup> Therefore we are not a people to be despised, nor a barbarous race, nor such as the Carian 259
 
@@ -582,13 +582,13 @@ Gen. xxvi. 4.
 
 2406
 
-*[PDF 463]* ^pg463
+*[p. 423]* ^pg463
 
 Reuben, nor to any other; only to those of whom the Christ should arise, according to the dispensation, through the Virgin Mary. But if you would consider the blessing of Judah, you would perceive what I say. For the seed is divided from Jacob, and comes down through Judah, and Phares, and Jesse, and David. And this was a symbol of the fact that some of your nation would be found children of Abraham, and found, too, in the lot of Christ; but that others, who are indeed children of Abraham, would be like the sand on the sea-shore, barren and fruitless, much in quantity, and without number indeed, but bearing no fruit whatever, and only drinking the water of the sea. And a vast multitude in your nation are convicted of being of this kind, imbibing doctrines of bitterness and godlessness, but spurning the word of God. He speaks therefore in the passage relating to Judah: ‘A prince shall not fail from Judah, nor a ruler from his thighs, till that which is laid up for him come; and He shall be the expectation of the nations.’<sup>2408</sup> And it is plain that this was spoken not of Judah, but of Christ. For all we out of all nations do expect not Judah, but Jesus, who led your fathers out of Egypt. For the prophecy referred even to the advent of Christ: ‘Till He come for whom this is laid up, and He shall be the expectation of nations.’ Jesus came, therefore, as we have shown at length, and is expected again to appear above the clouds; whose name you profane, and labour hard to get it profaned over all the earth. It were possible for me, sirs,” I continued, “to contend against you about the reading which you so interpret, saying it is written, ‘Till the things laid up for Him come;’ though the Seventy have not so explained it, but thus, ‘Till He comes for whom this is laid up.’ But since what follows indicates that the reference is to Christ (for it is, ‘and He shall be the expectation of nations’), I do not proceed to have a mere verbal controversy with you, as I have not attempted to establish proof about Christ from the passages of Scripture which are not admitted by you<sup>2409</sup> which I quoted from the words of Jeremiah the prophet, and Esdras, and David; but from those which are even now admitted by you, which had your teachers comprehended, be well assured they would have deleted them, as they did those about the death of Isaiah, whom you sawed asunder with a wooden saw. And this was a mysterious type of Christ being about to cut your nation in two, and to raise those worthy of the honour to the everlasting kingdom along with the holy patriarchs and prophets; but He has said that He will send others to the condemnation of the unquenchable fire along with similar disobedient and impenitent men from all the nations. ‘For they shall come,’ He said, ‘from the west and from the east, and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven; but the children of the kingdom shall be cast out into outer darkness.’<sup>2410</sup> And I have mentioned these things, taking nothing whatever into consideration, except the speaking of the truth, and refusing to be coerced by any one, even though I should be forthwith torn in pieces by you. For I gave no thought to any of my people, that is, the Samaritans, when I had a communication in writing with Cæsar,<sup>2411</sup> but stated that they were
 
 260 Gen. xlix. 10. 2408 \[Note this important point. He forbears to cite the New Testament.\] 2409 [[Matthew 08#^8-11|Matt. viii. 11 f.]] 2410 The *Apology*, i. chap. xxvi.; ii. chap. xv.
 
-*[PDF 464]* ^pg464
+*[p. 424]* ^pg464
 
 wrong in trusting to the magician Simon of their own nation, who, they say, is God above all power, and authority, and might.”
 
@@ -612,7 +612,7 @@ Zech. xii. 12.
 
 2415
 
-*[PDF 465]* ^pg465
+*[p. 425]* ^pg465
 
 #### Chapter CXXII.—The Jews understand this of the proselytes without reason.
 
@@ -624,7 +624,7 @@ Then some of those who had come on the second day cried out as if they had been 
 
 261 Γηόρα or Γειόρα. Found in LXX., Ex. xii. 19 and Isa. xiv. 1. 2417 [[Matthew 23#^23-15|Matt. xxiii. 15]]. 2418 Isa. xlii. 16, Isa. xliii. 10. 2419 Isa. xlii. 6. 2420 Isa. xlix. 8. 2421 Ps. ii. 7 f.
 
-*[PDF 466]* ^pg466
+*[p. 426]* ^pg466
 
 #### Chapter CXXIII.—Ridiculous interpretations of the Jews. Christians are the true Israel.
 
@@ -652,7 +652,7 @@ Jer. xxxi. 27.
 
 Isa. xix. 24 f.
 
-*[PDF 467]* ^pg467
+*[p. 427]* ^pg467
 
 ‘And I will beget men upon you, even my people Israel; and they shall inherit you, and you shall be a possession for them; and you shall be no longer bereaved of them.’ ”<sup>2429</sup>
 
@@ -664,7 +664,7 @@ And when I saw that they were perturbed because I said that we are the sons of G
 
 262 Ezek. xxxvi. 12. 2429 \[I cannot forbear to note this “Americanism” in the text.\] 2430 LXX. ἀναλάμψει, as above. The reading of the text is ἀναληψει. 2431 Isa. xlii. 1–4. 2432
 
-*[PDF 468]* ^pg468
+*[p. 428]* ^pg468
 
 princes,’<sup>2434</sup> in order to manifest the disobedience of men,—I mean of Adam and Eve,—and the fall of one of the princes, i.e., of him who was called the serpent, who fell with a great overthrow, because he deceived Eve. But as my discourse is not intended to touch on this point, but to prove to you that the Holy Ghost reproaches men because they were made like God, free from suffering and death, provided that they kept His commandments, and were deemed deserving of the name of His sons, and yet they, becoming like Adam and Eve, work out death for themselves; let the interpretation of the Psalm be held just as you wish, yet thereby it is demonstrated that all men are deemed worthy of becoming “gods,” and of having power to become sons of the Highest; and shall be each by himself judged and condemned like Adam and Eve. Now I have proved at length that Christ is called God.
 
@@ -688,7 +688,7 @@ The reading here is ἐπίσταμαι αὐτός, which is generally abandone
 
 \[On Justin’s Hebrew, see Kaye, p. 19.\]
 
-*[PDF 469]* ^pg469
+*[p. 429]* ^pg469
 
 Him only shall thou serve.’<sup>2438</sup> Then, overcome and convicted, the devil departed at that time. But since our Christ was to be numbed, i.e., by pain and experience of suffering, He made a previous intimation of this by touching Jacob’s thigh, and causing it to shrink. But Israel was His name from the beginning, to which He altered the name of the blessed Jacob when He blessed him with His own name, proclaiming thereby that all who through Him have fled for refuge to the Father, constitute the blessed Israel. But you, having understood none of this, and not being prepared to understand, since you are the children of Jacob after the fleshly seed, expect that you shall be assuredly saved. But that you deceive yourselves in such matters, I have proved by many words.
 
@@ -698,7 +698,7 @@ Him only shall thou serve.’<sup>2438</sup> Then, overcome and convicted, the d
 
 263 [[Matthew 04#^4-10|Matt. iv. 10]]. 2438 \[By Isaiah. “Counsellor” in English version.\] 2439 Ex. vi. 2 ff. 2440 Gen. xxxii. 24, 30. 2441
 
-*[PDF 470]* ^pg470
+*[p. 430]* ^pg470
 
 away from Abraham.’<sup>2443</sup> Again he speaks of them thus: ‘And the men rose up from thence, and looked toward Sodom.’<sup>2444</sup> Then to Abraham He who was and is again speaks: ‘I will not hide from Abraham, my servant, what I intend to do.’ ”<sup>2445</sup> And what follows in the writings of Moses I quoted and explained; “from which I have demonstrated,” I said, “that He who is described as God appeared to Abraham, to Isaac, and to Jacob, and the other patriarchs, was appointed under the authority of the Father and Lord, and ministers to His will.” Then I went on to say what I had not said before: “And so, when the people desired to eat flesh, and Moses had lost faith in Him, who also there is called the Angel, and who promised that God would give them to satiety, He who is both God and the Angel, sent by the Father, is described as saying and doing these things. For thus the Scripture says: ‘And the Lord said to Moses, Will the Lord’s hand not be sufficient? thou shall know now whether my word shall conceal thee or not.’<sup>2446</sup> And again, in other words, it thus says: ‘But the Lord spoke unto me, Thou shalt not go over this Jordan: the Lord thy God, who goeth before thy face, He shall cut off the nations.’<sup>2447</sup>
 
@@ -742,7 +742,7 @@ Gen. xi. 5.
 
 2451
 
-*[PDF 471]* ^pg471
+*[p. 431]* ^pg471
 
 portion of the earth, when the people at Sinai were not able to look even on the glory of Him who was sent from Him; and Moses himself could not enter into the tabernacle which he had erected, when it was filled with the glory of God; and the priest could not endure to stand before the temple when Solomon conveyed the ark into the house in Jerusalem which he had built for it? Therefore neither Abraham, nor Isaac, nor Jacob, nor any other man, saw the Father and ineffable Lord of all, and also of Christ, but \[saw\] Him who was according to His will His Son, being God, and the Angel because He ministered to His will; whom also it pleased Him to be born man by the Virgin; who also was fire when He conversed with Moses from the bush. Since, unless we thus comprehend the Scriptures, it must follow that the Father and Lord of all had not been in heaven when what Moses wrote took place: ‘And the Lord rained upon Sodom fire and brimstone from the Lord out of heaven;’<sup>2453</sup> and again, when it is thus said by David: ‘Lift up your gates, ye rulers; and be ye lift up, ye everlasting gates; and the King of glory shall enter;’<sup>2454</sup> and again, when He says: ‘The Lord says to my Lord, Sit at My right hand, till I make Thine enemies Thy footstool.’<sup>2455</sup>
 
@@ -762,7 +762,7 @@ Ps. xxiv. 7.
 
 2454
 
-*[PDF 472]* ^pg472
+*[p. 432]* ^pg472
 
 also amply demonstrated, and Angel, is not numbered \[as different\] in name only like the light of the sun but is indeed something numerically distinct, I have discussed briefly in what has gone before; when I asserted that this power was begotten from the Father, by His power and will, but not by abscission, as if the essence of the Father were divided; as all other things partitioned and divided are not the same after as before they were divided: and, for the sake of example, I took the case of fires kindled from a fire, which we see to be distinct from it, and yet that from which many can be kindled is by no means made less, but remains the same.
 
@@ -784,7 +784,7 @@ Prov. viii. 22 ff.
 
 Deut. xxxii. 43.
 
-*[p. 2461]* ^pg473
+*[p. 433]* ^pg473
 
 what follows of the passage: “ ‘Rejoice, O ye nations, with His people, and let all the angels of God be strengthened in Him: for the blood of His sons He avenges, and will avenge, and will recompense His enemies with vengeance, and will recompense those that hate Him; and the Lord will purify the land of His people.’ And by these words He declares that we, the nations, rejoice with His people, —to wit, Abraham, and Isaac, and Jacob, and the prophets, and, in short, all of that people who are well-pleasing to God, according to what has been already agreed on between us. But we will not receive it of all your nation; since we know from Isaiah<sup>2459</sup> that the members of those who have transgressed shall be consumed by the worm and unquenchable fire, remaining immortal; so that they become a spectacle to all flesh. But in addition to these, I wish, sirs,” said I, “to add some other passages from the very words of Moses, from which you may understand that 265
 

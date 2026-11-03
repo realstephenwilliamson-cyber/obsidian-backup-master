@@ -103,7 +103,7 @@ The angels of the descent journey (§ 241)
 
 § 241
 
-These are the names of the guardians of the entrance of the seventh palace: ZHPNWRY"Y YHWH,<sup>a</sup> the honored and lovely prince;<sup>b</sup> "BYR ZHY"Y YHWH, the honored, lovely, and fearsome prince;<sup>c</sup> " ṪRYGY"L YHWH, the honored, lovely, fearsome,<sup>d</sup> and confounding<sup>e</sup> prince; NGRN"L YHWH, the honored, lovely, fearsome,<sup>f</sup> confounding, and worthy<sup>g</sup> prince;<sup>h</sup> #NWRPNY"L<sup>i</sup>,<sup>j</sup> YHWH, the honored, lovely, fearsome,<sup>k</sup> confounding, worthy,<sup>l</sup> and ornamented<sup>m</sup> prince; N#DWRY"L<sup>n</sup>,<sup>o</sup>,<sup>p</sup> YHWH, the honored, lovely, fearsome,<sup>q</sup> confounding,<sup>r</sup> worthy,<sup>s</sup>ornamented,<sup>t</sup>and powerful prince;<sup>u</sup>SSṪYṪY"L YHWH, the honored, lovely, fearsome,<sup>v</sup> confounding, worthy,<sup>w</sup> ornamented,<sup>x</sup> powerful,<sup>y</sup> and magnificent prince; #Anaphi"el YHWH, the honored, lovely, fearsome, confounding, worthy, ornamented, powerful, strong, upright, and valiant
+These are the names of the guardians of the entrance of the seventh palace: ZHPNWRY"Y YHWH,<sup>a</sup> the honored and lovely prince;<sup>b</sup> "BYR ZHY"Y YHWH, the honored, lovely, and fearsome prince;<sup>c</sup> " ṪRYGY"L YHWH, the honored, lovely, fearsome,<sup>d</sup> and confounding<sup>e</sup> prince; NGRN"L YHWH, the honored, lovely, fearsome,<sup>f</sup> confounding, and worthy<sup>g</sup> prince;<sup>h</sup> \#NWRPNY"L<sup>i</sup>,<sup>j</sup> YHWH, the honored, lovely, fearsome,<sup>k</sup> confounding, worthy,<sup>l</sup> and ornamented<sup>m</sup> prince; N#DWRY"L<sup>n</sup>,<sup>o</sup>,<sup>p</sup> YHWH, the honored, lovely, fearsome,<sup>q</sup> confounding,<sup>r</sup> worthy,<sup>s</sup>ornamented,<sup>t</sup>and powerful prince;<sup>u</sup>SSṪYṪY"L YHWH, the honored, lovely, fearsome,<sup>v</sup> confounding, worthy,<sup>w</sup> ornamented,<sup>x</sup> powerful,<sup>y</sup> and magnificent prince; \#Anaphi"el YHWH, the honored, lovely, fearsome, confounding, worthy, ornamented, powerful, strong, upright, and valiant
 
 b “the § 241 <sup>a</sup>“YHWH” (various spellings) N O M40 M22 D V B F L \] + “God of Israel” {V} honored and lovely prince” N O V B F \] “the honored and lovely prince of hosts” M40; “the honored and fearsome prince” M22; “the prince and honored and lovely one” D; “the honored, lovely, fearsome prince” L c “the honored, lovely, and fearsome prince” N O V B F L \] “the prince and honored, lovely, and fearsome one” M40 D; “the lovely and fearsome prince” M22
 
@@ -135,11 +135,11 @@ v “lovely, fearsome” N D V B F L \] … and powerful prince” om O but inse
 
 prince,<sup>z</sup> the prince whose nameaa is mentioned before the throne of His glorybb three times every singlecc day on highdd sinceee the worldff was created and until nowgg for praise.hh Why? Because the seal-ring of the seal of ii heaven and earth is delivered into his hand.
 
-Adoration of the angel #Anaphi"el in heaven (§ 242)
+Adoration of the angel \#Anaphi"el in heaven (§ 242)
 
 § 242
 
-And when all who are on high see him,<sup>a</sup> they bow down<sup>b</sup> and fall and abase themselves before him, which is unheard-of on high. If you say they do not<sup>c</sup> fall<sup>d</sup> before the Prince of the Presence, (it is) rather apart from those who stand before the throne of His glory,<sup>e</sup> for they do not prostrate themselves<sup>f</sup> to<sup>g</sup> the Prince of the Presence. But before<sup>h</sup> #Anaphi"el the prince<sup>i</sup> (even) they prostrate themselves with permission and willingly<sup>j</sup>,<sup>k</sup> " ṪNWRWS RBY HGDWL RBW<sup>l</sup> *⟨*H'G'*⟩* Y" PYMYL ŠNTMRṠ#<sup>m</sup> YHWH God of Israel.<sup>n</sup>
+And when all who are on high see him,<sup>a</sup> they bow down<sup>b</sup> and fall and abase themselves before him, which is unheard-of on high. If you say they do not<sup>c</sup> fall<sup>d</sup> before the Prince of the Presence, (it is) rather apart from those who stand before the throne of His glory,<sup>e</sup> for they do not prostrate themselves<sup>f</sup> to<sup>g</sup> the Prince of the Presence. But before<sup>h</sup> \#Anaphi"el the prince<sup>i</sup> (even) they prostrate themselves with permission and willingly<sup>j</sup>,<sup>k</sup> " ṪNWRWS RBY HGDWL RBW<sup>l</sup> *⟨*H'G'*⟩* Y" PYMYL ŠNTMRṠ#<sup>m</sup> YHWH God of Israel.<sup>n</sup>
 
 z “the honored<sup>8</sup> … and valiant prince” B \] om N O M40 D V. M22 F includes “the honored prince” and L includes “the prince” but both omit the rest of the line.
 
@@ -161,7 +161,7 @@ d “fall” N O M40 M22 D V F L \] “stand” B e “the throne of His glory�
 
 L
 
-<sup>i</sup>“#Anaphi"el the prince” O M40 D B F L \] + “to the Prince of the Presence and before j “with #NP"L the prince they prostrate themselves” N; “the prince” M22; “#Anaphi"el” V permission and willingly” *⟨*N*⟩* M22 V B F \] “willingly and with permission” N (“*⟨*willingly*⟩* and with permission” O) M40 D; “with permission” L k The sense of these two convoluted sentences seems to be that it is not true, strictly-speaking, to say that no angel bows down before the Prince of the Presence. Rather, only the highest angels who stand before God’s throne refrain from doing so. Nevertheless, even these high angels are obliged to bow down before #Anaphi"el. For more on #Anaphi"el see Dan, “#Anaphi"el, Metatron, and the *Yȯser* <sup>l</sup>“RBY HGDWL RBW *⟨*H'G'*⟩*”—“my great master *Bereshit*,” and *Hekhalot Zutarti* § 421 n. a.
+<sup>i</sup>“#Anaphi"el the prince” O M40 D B F L \] + “to the Prince of the Presence and before j “with \#NP"L the prince they prostrate themselves” N; “the prince” M22; “#Anaphi"el” V permission and willingly” *⟨*N*⟩* M22 V B F \] “willingly and with permission” N (“*⟨*willingly*⟩* and with permission” O) M40 D; “with permission” L k The sense of these two convoluted sentences seems to be that it is not true, strictly-speaking, to say that no angel bows down before the Prince of the Presence. Rather, only the highest angels who stand before God’s throne refrain from doing so. Nevertheless, even these high angels are obliged to bow down before \#Anaphi"el. For more on \#Anaphi"el see Dan, “#Anaphi"el, Metatron, and the *Yȯser* <sup>l</sup>“RBY HGDWL RBW *⟨*H'G'*⟩*”—“my great master *Bereshit*,” and *Hekhalot Zutarti* § 421 n. a.
 
 m Levy (“Remnants,” 166 n. 24) proposes that this divine name also his *⟨*great(?)*⟩* master”
 
@@ -177,7 +177,7 @@ The angels of the ascent journey (§ 243)
 
 These are the names of the guardians of the entrance of <sup>a</sup> the seventh palace of the descent.<sup>b</sup>,<sup>c</sup>
 
-Explication of <sup>d</sup> the names of <sup>e</sup> the ascent: NWRPNY"L YHWH,<sup>f</sup> the honored, lovely, and fearsome<sup>g</sup> prince, who is<sup>h</sup> called "BYRZHY"Y YHWH. DLQWQY"L YHWH, the honored, lovely, and fearsome prince who is called<sup>i</sup>,<sup>j</sup> LBKPY"L YHWH.<sup>k</sup> YQRY"L YHWH,<sup>l</sup>the honored, lovely, and fearsome prince who is called<sup>m</sup> " ṪRYGY"L YHWH. YŠYŠY"L YHWH,<sup>n</sup> the honored, lovely, and fearsome prince<sup>o</sup> who is called BN"N"L<sup>p</sup> YHWH. NWRPYN"L<sup>q</sup> YHWH, the honored,<sup>r</sup> lovely, and fearsome<sup>s</sup> prince who is called ŠQDYHY"L<sup>t</sup> YHWH.<sup>u</sup> N#RWRY"L YHWH, the honored, lovely, and fearsome prince who is called<sup>v</sup> ZWHLY"L<sup>w</sup> YHWH. #Anaphi"el YHWH,<sup>x</sup> the honored, lovely, fearsome,<sup>y</sup>
+Explication of <sup>d</sup> the names of <sup>e</sup> the ascent: NWRPNY"L YHWH,<sup>f</sup> the honored, lovely, and fearsome<sup>g</sup> prince, who is<sup>h</sup> called "BYRZHY"Y YHWH. DLQWQY"L YHWH, the honored, lovely, and fearsome prince who is called<sup>i</sup>,<sup>j</sup> LBKPY"L YHWH.<sup>k</sup> YQRY"L YHWH,<sup>l</sup>the honored, lovely, and fearsome prince who is called<sup>m</sup> " ṪRYGY"L YHWH. YŠYŠY"L YHWH,<sup>n</sup> the honored, lovely, and fearsome prince<sup>o</sup> who is called BN"N"L<sup>p</sup> YHWH. NWRPYN"L<sup>q</sup> YHWH, the honored,<sup>r</sup> lovely, and fearsome<sup>s</sup> prince who is called ŠQDYHY"L<sup>t</sup> YHWH.<sup>u</sup> N#RWRY"L YHWH, the honored, lovely, and fearsome prince who is called<sup>v</sup> ZWHLY"L<sup>w</sup> YHWH. \#Anaphi"el YHWH,<sup>x</sup> the honored, lovely, fearsome,<sup>y</sup>
 
 b “the descent” O M40 M22 D V § 243 <sup>a</sup>“the entrance of” N O M22 D V B F L \] om M40 F \] “fear” N; “YDYDYH” (cf. 2 Sam 12:25) L.
 
@@ -211,21 +211,21 @@ V B F L \] “YY' YY'” D
 
 confounding, worthy,<sup>z</sup> ornamented, powerful, magnificent, strong, upright, and valiantaa prince who is called ṪWPRY"L YHWH.bb
 
-The name and status of #Anaphi"el (§§ 244–245)
+The name and status of \#Anaphi"el (§§ 244–245)
 
 § 244<sup>a</sup>
 
-And why is his name called #Anaphi"el?<sup>b</sup> Because of the branch of the crowns of <sup>c</sup> crowns<sup>d</sup> which is placed on his head, which overshadows and covers all<sup>e</sup> the chambers of <sup>f</sup> the palace of the Aravot firmament like the One who formed<sup>g</sup> primordial creation. What (about) the One who formed the primordial creation? A vision is written about Him:<sup>h</sup> *His effulgence covered*<sup>i</sup> *the heavens* (Hab 3:3). Likewise #Anaphi"el the prince, the servant<sup>j</sup> who is called thus by the name of his Lord. Why is he cherished and honored<sup>k</sup> more than all the guardians of the entrances of the palaces?<sup>l</sup> Because he opens the doors of <sup>m</sup> the entrance of <sup>n</sup> the seventh<sup>o</sup> palace<sup>p</sup> § 245
+And why is his name called \#Anaphi"el?<sup>b</sup> Because of the branch of the crowns of <sup>c</sup> crowns<sup>d</sup> which is placed on his head, which overshadows and covers all<sup>e</sup> the chambers of <sup>f</sup> the palace of the Aravot firmament like the One who formed<sup>g</sup> primordial creation. What (about) the One who formed the primordial creation? A vision is written about Him:<sup>h</sup> *His effulgence covered*<sup>i</sup> *the heavens* (Hab 3:3). Likewise \#Anaphi"el the prince, the servant<sup>j</sup> who is called thus by the name of his Lord. Why is he cherished and honored<sup>k</sup> more than all the guardians of the entrances of the palaces?<sup>l</sup> Because he opens the doors of <sup>m</sup> the entrance of <sup>n</sup> the seventh<sup>o</sup> palace<sup>p</sup> § 245
 
 and he closes them<sup>a</sup>,<sup>b</sup> before the throne of His glory,<sup>c</sup> which is set up<sup>d</sup> from its midst<sup>e</sup> and stands opposite the entrance of the seventh palace.
 
 z “worthy” N O M40 M22 D V F \] om B aa “strong, upright, and valiant” N O M40 M22 D V B \] “valiant, strong, and upright” F bb “YHWH” (various spellings) N O M40 M22 D V B F \] + “"ŠQDYHY"L YYY'. N#RYRY"L YYY', the honored, lovely prince who is called ŠLBY"L YYY'. SSṪY"L YYY, the honored, lovely prince who is called YḢLY"L etc.” L § 244 <sup>a</sup>Compare this paragraph to § 253 and *3 En*. 18:18 (§ 26).
 
-<sup>b</sup>The name #Anaphi"el means “God is my branch.”
+<sup>b</sup>The name \#Anaphi"el means “God is my branch.”
 
 c “the crowns of ” M22 V B L \] “His crowns,” N O F; “crowns,” M40 D d “crowns” e “all” N O M40 M22 D V B L \] om F f “the N O M40 M22 D V B F \] “His crowns” (*ktryw*) L chambers of ” O M40 D V B F \] “the ranks of ” N; “the holes of ” M22; om L g “like the One who formed” O M22 D V B F L \] “of the One who formed” N; “by the One who formed” M40
 
-h “A vision is written about Him:” N O M40 M22 D B \] “That which is written, a vision about Him:” V L; “What One who formed primordial creation? What is written is a <sup>i</sup>“*covered*” (Hab 3:3) N O M22 V vision about Him:” (*mh yẇsr br"šyt mh kt' mr"h #lyw*) F B F L \] “is the throne of” (corrupt) M40 D j “the servant” N O M22 D V B F \] “he” M40 L k “and honored” M40 M22 D V B F L \] “and lovely” N O l “the entrances of the palaces”
+h “A vision is written about Him:” N O M40 M22 D B \] “That which is written, a vision about Him:” V L; “What One who formed primordial creation? What is written is a <sup>i</sup>“*covered*” (Hab 3:3) N O M22 V vision about Him:” (*mh yẇsr br"šyt mh kt' mr"h \#lyw*) F B F L \] “is the throne of” (corrupt) M40 D j “the servant” N O M22 D V B F \] “he” M40 L k “and honored” M40 M22 D V B F L \] “and lovely” N O l “the entrances of the palaces”
 
 N O M40 D V B F \] “the entrance of the palace of the kingdom” M22; “the entrances of the seven palaces” (*ptḣy šb#h hyklwt*) L <sup>m</sup>“because he opens the doors of (*dlty*)” B (L *dltwt*) \] “because he opens” N O M40 D V F; “because the entrances of the doors of” M22 n “the entrance of ” N O M40 M22 D V B F \] om L o “seventh” N O M40 M22 D V B L \] om F
 
@@ -249,7 +249,7 @@ Greatest of all, there are five hundred and twelve eyes in<sup>b</sup> the four<
 
 creatures opposite the entrance of the seventh palace.<sup>d</sup> Of them<sup>e</sup> all the forms of <sup>f</sup> the faces are<sup>g</sup> faces of <sup>h</sup> sixteen<sup>i</sup> by sixteen<sup>j</sup> faces which belong to<sup>k</sup> every single living creature,<sup>l</sup> opposite<sup>m</sup> the entrance of the seventh palace. § 247/G4
 
-When a man would seek to descend in(to) the chariot,<sup>a</sup> #Anaphi"el<sup>b</sup> 2a/G4 2b
+When a man would seek to descend in(to) the chariot,<sup>a</sup> \#Anaphi"el<sup>b</sup> 2a/G4 2b
 
 would open the doors of the entrance of <sup>c</sup> the seventh palace for him.
 
@@ -291,7 +291,7 @@ l “every single living creature” N O M40 M22 D V B F \] “the living creatu
 
 § 247/G4 2a/G4 2b 1–18 <sup>a</sup>“into the chariot” N O M40 D V F \] “to the chariot” M22 B L G4
 
-<sup>b</sup>#Anaphi"el N O M40 D \] + “the prince” M22 V B F L; “#Anaph"el the prince” G4 d “This man<sup>2</sup> … five <sup>c</sup>“the entrance of ” N O M40 D V B F \] om M22 G4; “opening” (*pwtḣ*) L hundred and twelve eyes.”—O reads “And these eyes,”
+<sup>b</sup>\#Anaphi"el N O M40 D \] + “the prince” M22 V B F L; “#Anaph"el the prince” G4 d “This man<sup>2</sup> … five <sup>c</sup>“the entrance of ” N O M40 D V B F \] om M22 G4; “opening” (*pwtḣ*) L hundred and twelve eyes.”—O reads “And these eyes,”
 
 e “This man” N M40 M22 D V B F L G4 \] “The man” M40 <sup>f</sup>“on him” N M22 D V B F L \] om M40; *k'n'* (“about 40” (?)) (corrupt)
 
@@ -305,7 +305,7 @@ creatures<sup>i</sup> is split open<sup>j</sup> like<sup>k</sup> the measure of 
 
 And this<sup>a</sup> man would be in a cold sweat and shrinking back and shaking.<sup>b</sup> 2b
 
-He would be confounded, confused,<sup>c</sup> and overcome,<sup>d</sup> and falling backward.<sup>e</sup> But #Anaphi"el<sup>f</sup> the prince would support him, he and the sixty-three guardians<sup>g</sup> of the entrances of <sup>h</sup> the seven palaces. All of them<sup>i</sup> would help him and say to him:<sup>j</sup>
+He would be confounded, confused,<sup>c</sup> and overcome,<sup>d</sup> and falling backward.<sup>e</sup> But \#Anaphi"el<sup>f</sup> the prince would support him, he and the sixty-three guardians<sup>g</sup> of the entrances of <sup>h</sup> the seven palaces. All of them<sup>i</sup> would help him and say to him:<sup>j</sup>
 
 i “living creatures” N M40 M22 D V B F L G4 \] om O j “is split open” N O M40 M22 D V B F k “like” O M40 M22 D V F L G4 \] “in” N B l “great” N O M40 G4 \] “is rent open” (*bqw#h*) L M22 D V F L G4 \] om B m This word is incomprehensible in the manuscripts. I translate according to Halperin’s emendation in “A Sexual Image,” 118, 126–127 n. 7.
 
@@ -321,7 +321,7 @@ N O M22 D V B F G4 \] “fire” M40 L u “and flames of” G4 \] “and three 
 
 (*wmzl#p*) L
 
-<sup>e</sup>“backward” N O M40 M22 D V B F G4 \] “rising(?) on his face” (*#wpl #l pnyw*) L (perhaps corrupt for “falling (*nwpl*\*) on his face”. But note also the corrupt form of the angel name in N (next note)).
+<sup>e</sup>“backward” N O M40 M22 D V B F G4 \] “rising(?) on his face” (*\#wpl \#l pnyw*) L (perhaps corrupt for “falling (*nwpl*\*) on his face”. But note also the corrupt form of the angel name in N (next note)).
 
 <sup>f</sup>“#Anaphi"el” O M40 M22 D V B F L \] “#WPY"L” N; “#Anaph"el” G4 g That is a head angel and eight subordinate angels for each of the seven entrances. h “the entrances of ” N O M40 D V B F G4 \] “the entrance of ” M22 L i “All of them” O M40 M22 D V B F L G4 \] “They” N j “to him:” N O M40 D V B F L \] om M22; “No,” G4
 
@@ -489,7 +489,7 @@ o “His glory is delectable to Him” O M40 M22 D V B F \] “glory is delectab
 
 p “His effulgence is fine to Him” M40 M22 D V B F L \] “He/It is fine to Him” O; om N(§ 261)
 
-q “His power is pleasing to Him” V B F \] om O M40 D N(§ 261); “and His power is fine to him, pleasing to Him” M22; “and His power is beautiful to Him, His powerfulness is pleasing to Him” r “chant euphoniously to Him” O M40 D V F L \] + (*w#wzw yph lw #yzwzw n#ym lw*) L “Amen. Amen. Amen.” M22; “chant euphoniously” B; “are of His euphony to Him” (corrupt) N(§ 261)
+q “His power is pleasing to Him” V B F \] om O M40 D N(§ 261); “and His power is fine to him, pleasing to Him” M22; “and His power is beautiful to Him, His powerfulness is pleasing to Him” r “chant euphoniously to Him” O M40 D V F L \] + (*w#wzw yph lw \#yzwzw n#ym lw*) L “Amen. Amen. Amen.” M22; “chant euphoniously” B; “are of His euphony to Him” (corrupt) N(§ 261)
 
 <sup>s</sup>“Israel” O M40 M22 D B N(§ 261) \] “Song and uprightness” (*šyr wyšr*) V L; om F. Schäfer (*Übersetzung*, 2:229 n. 14) takes the reading “and uprightness” (*wyšr*) of V L to be an abbreviation for “and Israel,” but this is not indicated by an abbreviation mark in the manuscripts.
 
@@ -563,7 +563,7 @@ c “Who is declared mighty over the kings” O M40 D F \] “Who is declared lo
 
 d “who is declared majestic” O M40 D V B F L \] “of them who are declared majestic” M22; “and He is declared majestic” N(§ 263)
 
-e “Adorned One … enduring ones,” O M40 M22 D V B F \] “Adornment who is lifted up above the enduring f “And exalted over the ones who lift up” (*hdr hmtnś" #l hnwś"ym h"ytnym*) L; om N(§ 263)
+e “Adorned One … enduring ones,” O M40 M22 D V B F \] “Adornment who is lifted up above the enduring f “And exalted over the ones who lift up” (*hdr hmtnś" \#l hnwś"ym h"ytnym*) L; om N(§ 263)
 
 fearsome ones” O M40 M22 D V B F L \] “And declared mighty over all creatures” N(§ 263) g “The Ornament” O M40 M22 D V B F L \] “For an Ornament” (?) N(§ 263) h “of kings”
 
@@ -661,7 +661,7 @@ f “pious … and confounding throne,” om N(§ 265)
 
 g “and confounding … fearsome<sup>2</sup>” om O M40 B h “and confounding” M22 D V F \] om L i “an” D V F L \] “His” M22 j “magnificent” M22 (“and magnficient” D) F L \] “enduring, magnificent” V k “and confounding throne” O M40 M22 D V B F \] “Glistening King l “Extolled”
 
-who is” N(§ 265); + “enthroned upon a fearsome throne” (*ywšb #l ks" nwr"*) L O M40 M22 D V B F N(§ 265) \] om L m “completions of majesty” M22 B \] “His majestic completion” O F; “His completion, majesty” V; “His completion. He led forth” (?) (corrupt) M40; “He led forth” (?) (corrupt) D; “fastened ones of majesty” (*qšwry g"wh*) L N(§ 265). Schäfer (*Übersetzung*, 2:235 n. 7) reads the first word in L as *qšwky* and then emends it, but the shape of the fourth letter looks to me to be within the possible range for a *reš*. n “perfected” V L N(§ 265) \] “established” O M22 B F; “from its/His midst” M40 D. o “the garlands of ” O M40 M22 D V B F L \] “the pillars of ” N(§ 265)
+who is” N(§ 265); + “enthroned upon a fearsome throne” (*ywšb \#l ks" nwr"*) L O M40 M22 D V B F N(§ 265) \] om L m “completions of majesty” M22 B \] “His majestic completion” O F; “His completion, majesty” V; “His completion. He led forth” (?) (corrupt) M40; “He led forth” (?) (corrupt) D; “fastened ones of majesty” (*qšwry g"wh*) L N(§ 265). Schäfer (*Übersetzung*, 2:235 n. 7) reads the first word in L as *qšwky* and then emends it, but the shape of the fourth letter looks to me to be within the possible range for a *reš*. n “perfected” V L N(§ 265) \] “established” O M22 B F; “from its/His midst” M40 D. o “the garlands of ” O M40 M22 D V B F L \] “the pillars of ” N(§ 265)
 
 p “in the chambers of ” O M40 D V B F L N(§ 265) \] “in the adornments of” M22 q “majestic … and confounding” om r “fearsome” B (“and fearsome” M22) \] “fearsome, enduring” O M40 V F; “and enduring Creator” D; om L s “and confounding” O M40 M22 D V B F \] om L
 
@@ -757,7 +757,7 @@ ff “Selah.” O M40 M22 D V B L \] + “forever and ever to uproot worlds, O M
 
 (Aramaic) (corrupt) M40 D; “And he saw” M22 (B “another reading:”)
 
-<sup>c</sup>“*something like*” d “was binding itself ” N O M22 D V or “*something like the eye of*.” L reads “the eye of ” (*#yn*).
+<sup>c</sup>“*something like*” d “was binding itself ” N O M22 D V or “*something like the eye of*.” L reads “the eye of ” (*\#yn*).
 
 e “and standing” N O M22 V B B F \] om M40; “that it was binding itself” (*šhyh nzqq*) L F L \] “and his standing” (?) (corrupt) M40 D f “and distinguishing” O M40 M22 D V B F L \] “and singling out” N g “between … chariot<sup>2</sup>” om M40 h “—between him who is fit to descend” N O M22 V B F \] om M40; “and between him who is fit and him who is fit and he i “to the chariot<sup>2</sup> has descended” D; “—between the one fit to descend” (*byn r"wy lyrd*) L … to the chariot<sup>4</sup>” om L j “to the chariot” O M22 B F \] “in(to) the chariot” N D V k “and him who is unfit” N O D V B \] “and him who is fit” M22; “and they who are unfit” (*wbyn š"ynn* l “to the chariot” O B F \] “in(to) the chariot” N D V; “chariot” (corrupt)
 
@@ -779,7 +779,7 @@ n “when they would say” N O M22 D V B F \] “whereas” or “these” (cor
 
 “Enter.”
 
-p “not” N O M40 M22 D V B F \] om L q N may read “scatter” for “enter.” r “They s “At once would say again” N O M40 M22 D V B F \] “until (*#d š*-) they would say again” L he would” M22 B (“And at once he would” *⟨*N*⟩* O M40 D V F) \] “He would not” {N}; “And he t “Certainly” N O M22 V B F L \] om M40 D u “this is” N O M40 M22 D V would” (*whw"*) L <sup>v</sup>“to descend” N O M40 D V (B?—damaged) *⟨*B*⟩* B F \] “this one is fit (to be)” (*zhw r"wy*) L F L \] “for the descenders to” M22 w “to the chariot” N O V B F \] “in(to) the chariot” M40 D; “the chariot {between him who is fit to descend to the chariot and between him who is fit to descend chariot}” M22; om L x “when they would say” N M22 V B L \] “when He/he would say” M40; (abbreviated—either reading possible) O D F. The first reading makes more sense in context.
+p “not” N O M40 M22 D V B F \] om L q N may read “scatter” for “enter.” r “They s “At once would say again” N O M40 M22 D V B F \] “until (*\#d š*-) they would say again” L he would” M22 B (“And at once he would” *⟨*N*⟩* O M40 D V F) \] “He would not” {N}; “And he t “Certainly” N O M22 V B F L \] om M40 D u “this is” N O M40 M22 D V would” (*whw"*) L <sup>v</sup>“to descend” N O M40 D V (B?—damaged) *⟨*B*⟩* B F \] “this one is fit (to be)” (*zhw r"wy*) L F L \] “for the descenders to” M22 w “to the chariot” N O V B F \] “in(to) the chariot” M40 D; “the chariot {between him who is fit to descend to the chariot and between him who is fit to descend chariot}” M22; om L x “when they would say” N M22 V B L \] “when He/he would say” M40; (abbreviated—either reading possible) O D F. The first reading makes more sense in context.
 
 <sup>y</sup>“Enter!” B L (cf. *Hekhalot Zutarti* § 407) \] “You shall not enter!”
 
@@ -881,7 +881,7 @@ song, thanksgiving,<sup>b</sup> and confessions,<sup>c</sup>,<sup>d</sup> praise
 
 k “hatred” N O M40 M22 D V <sup>j</sup>“fire” N O M40 M22 D V B F G1 \] “holiness” (*qwdš*) L B L \] “jealousy” F; “destruction” G1 l “and jealousy” (“jealousy” N) O M40 M22 D V B L \] “and hatred” F G1 <sup>m</sup>“rejecting” N O M40 D V B F L \] *ṅt"s* (corrupt) M22; “*mḣ*\[..\]” G1 n “removing” N O M22 V B F L G1 \] “scattering” M40 D o “increasing” N O M40 M22 D V B L G1 \] “pushing” F p “grace and goodness” N M40 M22 D V B F \] “\[grace\] and goodness ” G1; “goodness and grace” O (the letters in these words can also be read as “grace q “Your glory are” N O M40 D V B F L \] om and goodness”); “wealth (*hwn*) and goodness” L M22; “Your cherubim are” G1 r “O One who is declared majestic” N M22 D V B F L G1 \] s “Prince over the princes,” N “O One who is declared mighty” O; *hmtl"h* (corrupt) M40 t “Your throne”
 
-O M40 M22 D V B F \] “prince over all the princes” (*šr #l kl hšrym*) L; om G1 N O M40 M22 D B F L \] “His throne” V u “they stand,” N O M22 V B F L G1 \] om M40 D v “each makes the other hear” M40 D V G1 \] “This one and this one make hear” N O M22 B F; “and this one says to the other” (*wzh "wmr lzh*) L <sup>w</sup>“*Extol*”—M40 D read “Extol, extol.” L omits the rest of the quotation and instead reads “Therefore it is said, *the whole earth is full of* x The quotation ends here in O V. y The *His glory* (Isa 6:3)” (*lkk n"mr mlw" kl h"ṙs kbwdw*).
+O M40 M22 D V B F \] “prince over all the princes” (*šr \#l kl hšrym*) L; om G1 N O M40 M22 D B F L \] “His throne” V u “they stand,” N O M22 V B F L G1 \] om M40 D v “each makes the other hear” M40 D V G1 \] “This one and this one make hear” N O M22 B F; “and this one says to the other” (*wzh "wmr lzh*) L <sup>w</sup>“*Extol*”—M40 D read “Extol, extol.” L omits the rest of the quotation and instead reads “Therefore it is said, *the whole earth is full of* x The quotation ends here in O V. y The *His glory* (Isa 6:3)” (*lkk n"mr mlw" kl h"ṙs kbwdw*).
 
 quotation ends here in N M40 D F.
 
@@ -1019,7 +1019,7 @@ You are adorned,<sup>b</sup> You are exalted,<sup>c</sup> You are lifted up, You
 
 mm “they are swift as an eagle” N O D V B F L \] “they are swift” M40; om M22 G1 nn “and they fly like an eagle” N O M40 M22 D V B F G1 \] “they flit about like an eagle” L oo “they flit about” O M40 D B (“and they flit about” M22 V G1? F) \] “they paste” (corrupt) N; “and they fly” L
 
-pp “like an eagle” N O M40 M22 D V B F L \] + “and they run like an eagle and they are swift as an eagle to do Your will” G1 qq “And awe of You, O Pure One, over them.” N O M40 D V B L \] om M22 G1; “And he is saying (*w"wmr*): Pure over them.” (corrupt) F; + “And You are the King of Kings of Kings, majestic over all of them.” (*w"th mlk mlky hmlkym g"h #l* rr “And all of them” O M40 M22 D V B F L \] “And they have paved a way for You”
+pp “like an eagle” N O M40 M22 D V B F L \] + “and they run like an eagle and they are swift as an eagle to do Your will” G1 qq “And awe of You, O Pure One, over them.” N O M40 D V B L \] om M22 G1; “And he is saying (*w"wmr*): Pure over them.” (corrupt) F; + “And You are the King of Kings of Kings, majestic over all of them.” (*w"th mlk mlky hmlkym g"h \#l* rr “And all of them” O M40 M22 D V B F L \] “And they have paved a way for You”
 
 *kwlm*) L (corrupt) N; om G1 ss “proclaim three times” N O M22 V B F L \] “sanctify” M40 D; “and to proclaim three times” G1 tt “Your holiness” N O M40 M22 D V B F L \] “to You” G1 uu “with vv “according a threefold *qedushah*” N O M40 M22 D V B F L \] “a threefold *qedushah*” G1 to the word that is said” N O D V B L G1 \] “which is said” M40; “according to the word” M22; “in the word (*bdbr*) that is said” F ww “*Holy, holy, holy*” N O M40 D V F \] “*Holy* etc.” M22; + “*YHWH of Hosts; the whole earth is full of His glory*” B; + “*YHWH of Hosts*” L; + “*And one called*” G1
 
@@ -1039,7 +1039,7 @@ l “to declare You magnificent” N O M40 D V B F L2 \] “for Your effulgence�
 
 p “to bless You” O M40 (“and to bless You” M22) D V B F \] om N L1 L2
 
-q “to praise You” N M40 (“and to praise You” M22 B) D F L1 L2 \] + “to declare You ascendant” O; “to ornament You, to praise You” V r “to declare You great” N O M22 V B F L2 \] “to ornament You, to declare You great” M40 D; om L1 s “to declare You holy, to declare You ascendant” N (“and to declare You holy, to declare You ascendant” M22 B) V L1 L2 \] “to declare You holy” O; “to declare You ascendant, to laud You” M40; “to declare You ascendant, to declare You holy” D F t “to be gleeful over You” (“and to be gleeful over You” M22) D B F L1 \] “to bless You, to ornament You, to exalt You, to lift You up, to ornament You, for Your power” N; “to exalt You, to ornament You, to lift You up” O; om M40; “for Your power” V; “to bless You, to adorn You, to to exalt You, to lift You up, to ornament You, to be u “to laud You” N O (“and to laud gleeful over You” (*lbrkk lhdrk l lrwmmk lnš"k lp"rk l#lzk*) L2 You” M22 V B) D F L1 L2 \] + “to declare You holy, to jubilate over You” M40 v “holy” M22 B L1 \] “great and holy” N O M40 D V F L2 w “over the first and over the last” N O M40 M22 D V B F L2 \] “over the heavens and over the earth, over the sea and over the dry land, over the animals of the earth and over the fowl of the heavens and over the fish of the sea” (*#l hšmym w#l h"ṙs #l hym w#l hybšh #l ḣyt h"ṙs w#l #wp hšmym w#l dgy hym*) L1
+q “to praise You” N M40 (“and to praise You” M22 B) D F L1 L2 \] + “to declare You ascendant” O; “to ornament You, to praise You” V r “to declare You great” N O M22 V B F L2 \] “to ornament You, to declare You great” M40 D; om L1 s “to declare You holy, to declare You ascendant” N (“and to declare You holy, to declare You ascendant” M22 B) V L1 L2 \] “to declare You holy” O; “to declare You ascendant, to laud You” M40; “to declare You ascendant, to declare You holy” D F t “to be gleeful over You” (“and to be gleeful over You” M22) D B F L1 \] “to bless You, to ornament You, to exalt You, to lift You up, to ornament You, for Your power” N; “to exalt You, to ornament You, to lift You up” O; om M40; “for Your power” V; “to bless You, to adorn You, to to exalt You, to lift You up, to ornament You, to be u “to laud You” N O (“and to laud gleeful over You” (*lbrkk lhdrk l lrwmmk lnš"k lp"rk l#lzk*) L2 You” M22 V B) D F L1 L2 \] + “to declare You holy, to jubilate over You” M40 v “holy” M22 B L1 \] “great and holy” N O M40 D V F L2 w “over the first and over the last” N O M40 M22 D V B F L2 \] “over the heavens and over the earth, over the sea and over the dry land, over the animals of the earth and over the fowl of the heavens and over the fish of the sea” (*\#l hšmym w#l h"ṙs \#l hym w#l hybšh \#l ḣyt h"ṙs w#l \#wp hšmym w#l dgy hym*) L1
 
 *[p. 153]* ^pg162
 

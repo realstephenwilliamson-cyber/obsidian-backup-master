@@ -67,7 +67,7 @@ they declare that they do it in the name of the angel, saying, “O thou angel, 
 
 reading the translation of a translation; the Latin very rude, and the subject itself full of difficulties. It may yet be discovered that some of the faults of the work are not chargeable to Irenæus.\]
 
-*[p. 2989]* ^pg631
+*[p. 591]* ^pg631
 
 ### Against Heresies: Book II
 
@@ -117,7 +117,7 @@ of the most high God, but was made by the Father through the Word.<sup>2990</sup
 
 361 \[This noble chapter is a sort of homily on Heb. i.\]
 
-*[p. 2992]* ^pg634
+*[p. 594]* ^pg634
 
 1\. Those, moreover, who say that the world was formed by angels, or by any other maker of it, contrary to the will of Him who is the Supreme Father, err first of all in this very point, that they maintain that angels formed such and so mighty a creation, contrary to the will of the Most High God. This would imply that angels were more powerful than God; or if not so, that He was either careless, or inferior, or paid no regard to those things which took place among His own possessions, whether they turned out ill or well, so that He might drive away and prevent the one, while He praised and rejoiced over the other. But if one would not ascribe such conduct even to a man of any ability, how much less to God
 
@@ -181,7 +181,7 @@ The text has “reliquis omnibus,” which would refer to the Æons; but we foll
 
 “reliquorum omnium,” as the reference manifestly is to other heretics.
 
-*[PDF 638]* ^pg638
+*[p. 598]* ^pg638
 
 and ignorance, and not with respect to local distance; but that, in the Pleroma, or in those things which are contained by the Father, the whole creation which we know to have been formed, having been made by the Demiurge, or by the angels, is contained by the unspeakable greatness, as the centre is in a circle, or as a spot is in a garment, —then, in the first place, what sort of a being must that Bythus be, who allows a stain to have place in His own bosom, and permits another one to create or produce within His territory, contrary to His own will? Such a mode of acting would truly entail \[the charge of\] degeneracy upon the entire Pleroma, since it might from the first have cut off that defect, and those emanations which derived their origin from it,<sup>3003</sup> and not have agreed to permit the formation of creation either in ignorance, or passion, or in defect. For he who can afterwards rectify a defect, and does, as it were, wash away a stain,<sup>3004</sup> could at a much earlier date have taken care that no such stain should, even at first, be found among his possessions. Or if at the first he allowed that the things which were made \[should be as they are\], since they could not, in fact, be formed otherwise, then it follows that they must always continue in the same condition. For how is it possible, that those things which cannot at the first obtain rectification, should subsequently receive it? Or how can men say that they are called to perfection, when those very beings who are the causes from which men derive their origin—either the Demiurge himself, or the angels—are declared to exist in defect? And if, as is maintained, \[the Supreme Being,\] inasmuch as He is benignant, did at last take pity upon men, and bestow on them perfection, He ought at first to have pitied those who were the creators of man, and to have conferred on them perfection. In this way, men too would verily have shared in His compassion, being formed perfect by those that were perfect. For if He pitied the *work* of these beings, He ought long before to have pitied *themselves*, and not to have allowed them to fall into such awful blindness.
 
@@ -189,7 +189,7 @@ and ignorance, and not with respect to local distance; but that, in the Pleroma,
 
 364 “*Ab eo:*” some refer “eo” to the Demiurge, but it is not unusual for the Latin translator to follow the Greek gender, although 3003 different from that of the Latin word which he has himself employed. We may therefore here “eo” to “labem,” which is the translation of the neuter noun ὑστέρημα. *Labem* is here repeated, probably by mistake.
 
-*[p. 3010]* ^pg639
+*[p. 599]* ^pg639
 
 speak, they should conceive<sup>3005</sup> of some place, void, formless, and full of darkness, in which those things were formed which have been formed. By such a supposition, however, the light of their Father would incur a reproach, as if He could not illuminate and fill those things which are within Himself. Thus, then, when they maintain that these things were the fruit of defect and the work of error, they do moreover introduce defect and error within the Pleroma, and into the bosom of the Father.
 
@@ -219,7 +219,7 @@ This is an extremely difficult passage. We follow the reading *æternochoica* ad
 
 The common reading is “aut;” we adopt Harvey’s conjectural emendation of “at.”
 
-*[p. 3011]* ^pg640
+*[p. 600]* ^pg640
 
 thus the Christ of whom they speak is discovered to be the author of ignorance. For, according to their statements, when He had given a form so far as substance was concerned to the Mother they conceive of, He cast her outside of the Pleroma; that is, He cut her off from knowledge. He, therefore, who separated her from knowledge, did in reality produce ignorance in her. How then could the very same person bestow the gift of knowledge on the rest of the Æons, those who were anterior to Him \[in production\], and yet be the author of ignorance to His Mother? For He placed her beyond the pale of knowledge, when He cast her outside of the Pleroma.
 
@@ -229,7 +229,7 @@ thus the Christ of whom they speak is discovered to be the author of ignorance. 
 
 365 The above clause is very obscure; Massuet reads it interrogatively.
 
-*[p. 3013]* ^pg641
+*[p. 601]* ^pg641
 
 things without approving of them, then He gave the permission on account of some necessity, being either able to prevent \[such procedure\], or not able. But if indeed He could not \[hinder it\], then He is weak and powerless; while, if He could, He is a seducer, a hypocrite, and a slave of necessity, inasmuch as He does not consent \[to such a course\], and yet allows it as if He did consent. And allowing error to arise at the first, and to go on increasing, He endeavours in later times to destroy it, when already many have miserably perished on account of the \[original\] defect.
 
@@ -243,7 +243,7 @@ The text has “antiquius,” literally “more ancient,” but it may here be r
 
 3012
 
-*[p. 3014]* ^pg642
+*[p. 602]* ^pg642
 
 reason, implanted in their minds, moves them, and reveals to them \[the truth\] that there is one God, the Lord of all.
 
@@ -319,7 +319,7 @@ allow that they have of themselves invented what is useful for the purposes of l
 
 369 See above, chap. ii. and v. 3024 The text has *fabricâsse*, for which, says Massuet, should be read *fabricatam esse*; or *fabricâsse* itself must be taken in a 3025 passive signification. It is possible, however, to translate, as Harvey indicates, “that He (Bythus) formed so great a creation by angels,” etc., though this seems harsh and unsuitable. Literally, *empty*: there is a play on the words *vacuum* and *vacui* (which immediately follows), as there had been in the 3026 original Greek.
 
-*[p. 3032]* ^pg648
+*[p. 608]* ^pg648
 
 #### Chapter IX.—There is but one Creator of the world, God the Father: this the constant belief of the Church.
 
@@ -347,7 +347,7 @@ Viz., the Valentinians.
 
 3031
 
-*[p. 3033]* ^pg649
+*[p. 609]* ^pg649
 
 and as being possessed of the knowledge of all things, are found to be worse than the heathen, and to entertain more blasphemous opinions even against their own Creator.
 
@@ -361,7 +361,7 @@ true\] God), they have constructed another god, weaving, as I said before, ropes
 
 This clause is unintelligible in the Latin text: by a conjectural restoration of the Greek we have given the above translation.
 
-*[p. 3035]* ^pg650
+*[p. 610]* ^pg650
 
 3\. For, when they tell us that all moist substance proceeded from the tears of Achamoth, all lucid substance from her smile, all solid substance from her sadness, all mobile substance from her terror, and that thus they have sublime knowledge on account of which they are superior to others,—how can these things fail to be regarded as worthy of contempt, and truly ridiculous? They do not believe that God (being powerful, and rich in all resources) created matter itself, inasmuch as they know not how much a spiritual and divine essence can accomplish. But they do believe that their Mother, whom they style a female from a female, produced from her passions aforesaid the so vast material substance of creation. They inquire, too, whence the substance of creation was supplied to the Creator; but they do not inquire whence \[were supplied\] to their Mother (whom they call the Enthymesis and impulse of the Æon that went astray) so great an amount of tears, or perspiration, or sadness, or that which produced the remainder of matter.
 
@@ -377,7 +377,7 @@ This clause is unintelligible in the Latin text: by a conjectural restoration of
 
 Playing upon the doctrines of the heretics with respect to *vacuity* and *shade*.
 
-*[p. 3036]* ^pg651
+*[p. 611]* ^pg651
 
 adoption of sons pertaining to the Father, which is eternal life, takes place through Himself, conferring it \[as He does\] on all the righteous.
 
@@ -393,7 +393,7 @@ of parables and \[captious\] questions, I have thought it well, on the other sid
 
 The text vacillates between “dicemus” and “dicamus.”
 
-*[PDF 652]* ^pg652
+*[p. 612]* ^pg652
 
 it is impossible that the thought (Ennœa) of any one, or his silence (Sige), should be understood apart from himself; and that, being sent forth beyond him, it should possess a special figure of its own. But if they assert that the (Ennœa) was not sent forth beyond Him, but continued one with the Propator, why then do they reckon her with the other Æons —with those who were not one \[with the Father\], and are on this account ignorant of His greatness? If, however, she was so united (let us take this also into consideration), there is then an absolute necessity, that from this united and inseparable conjunction, which constitutes but one being, there<sup>3037</sup> should proceed an unseparated and united production, so that it should not be dissimilar to Him who sent it forth. But if this be so, then just as Bythus and Sige, so also Nous and Aletheia will form one and the same being, ever cleaving mutually together. And inasmuch as the one cannot be conceived of without the other, just as water cannot \[be conceived of\] without \[the thought of\] moisture, or fire without \[the thought of\] heat, or a stone without \[the thought\] of hardness (for these things are mutually bound together, and the one cannot be separated from the other, but always co-exists with it), so it behoves Bythus to be united in the same way with Ennœa, and Nous with Aletheia. Logos and Zoe again, as being sent forth by those that are thus united, ought themselves to be united, and to constitute only one being. But, according to such a process of reasoning, Homo and Ecclesia too, and indeed all the remaining conjunctions of the Æons produced, ought to be united, and always to co-exist, the one with the other. For there is a necessity in their opinion, that a female Æon should exist side by side with a male one, inasmuch as she is, so to speak, \[the forthputting of\] his affection.
 
@@ -403,7 +403,7 @@ it is impossible that the thought (Ennœa) of any one, or his silence (Sige), sh
 
 372 This sentence is confused in the Latin text, but the meaning is evidently that given above. 3037 It is difficult to see the meaning of “iterum” here. Harvey begins a new paragraph with this sentence.
 
-*[PDF 653]* ^pg653
+*[p. 613]* ^pg653
 
 Zoe, and so on with the rest? And how can they themselves maintain that they tend again to unity, and are, in fact, all at one, if indeed these very conjunctions, which are within the Pleroma, do not preserve unity, but are separate from one another; and that to such a degree, that they both endure passion and perform the work of generation without union one with another, just as hens do apart from intercourse with cocks.
 

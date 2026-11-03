@@ -123,7 +123,7 @@ R. Akiva said:
 
 We were four who entered<sup>c</sup> paradise.<sup>d</sup> One<sup>e</sup> peered in and died.<sup>f</sup> One<sup>g</sup> G7 2a<sup>b</sup>
 
-peered in and was struck down.<sup>h</sup>One<sup>i</sup>peered in and cut the plants. I entered<sup>j</sup> safely and I went forth<sup>k</sup> safely. Why did I enter safely and go forth safely?<sup>l</sup> Not because I was<sup>m</sup>greater than my associates, but my works<sup>n</sup>accomplished for me to establish what<sup>o</sup> the sages taught<sup>p</sup> in their Mishnah,<sup>q</sup> *Your works shall bring you near and your works shall make you far away* (*m. #Ed*. 5.7).
+peered in and was struck down.<sup>h</sup>One<sup>i</sup>peered in and cut the plants. I entered<sup>j</sup> safely and I went forth<sup>k</sup> safely. Why did I enter safely and go forth safely?<sup>l</sup> Not because I was<sup>m</sup>greater than my associates, but my works<sup>n</sup>accomplished for me to establish what<sup>o</sup> the sages taught<sup>p</sup> in their Mishnah,<sup>q</sup> *Your works shall bring you near and your works shall make you far away* (*m. \#Ed*. 5.7).
 
 § 339/
 
@@ -790,7 +790,7 @@ t or “the <sup>s</sup>For “ ṪṪR” read “guardian” (*nẇtr*) with t
 
 sun”
 
-u Some of the preceding names are taken from or allude to Exod 34:6–7. v The next paragraph is found only in N: “(§ 363)Uriel is His name; BRQY"L is His name; ḢNY"L is His name; MŠY"L is His name; "YTY"L is His name; ZHDRY"L is His name; "HNY"L is His name; BRKY"L is His name; "NW"L is His name; QDRY"L is His name; RPYSW"L is His name; Michael is His name; "YNKMWL is His name; NWNTY"L is His name; "TNY"L is His name; "YKNY"L is His name; TRṪ"L is His name; GRTṪ"L is His name; "LY"L is His name; " ḢY"L is His name; "LTY"L is His name; #LWMY"L is His name; YWKY"L is His name; QNY"L is His name; ŠLW"L is His name; SWRY"L is His name; ḢZY"L is His name; Gabriel is His name; Raphael is His name; Metatron is His name; the Almighty is His name; Holy One is His name; *I Am* is His name; *Who I Am* (cf. Exod 3:14) is His name.”
+u Some of the preceding names are taken from or allude to Exod 34:6–7. v The next paragraph is found only in N: “(§ 363)Uriel is His name; BRQY"L is His name; ḢNY"L is His name; MŠY"L is His name; "YTY"L is His name; ZHDRY"L is His name; "HNY"L is His name; BRKY"L is His name; "NW"L is His name; QDRY"L is His name; RPYSW"L is His name; Michael is His name; "YNKMWL is His name; NWNTY"L is His name; "TNY"L is His name; "YKNY"L is His name; TRṪ"L is His name; GRTṪ"L is His name; "LY"L is His name; " ḢY"L is His name; "LTY"L is His name; \#LWMY"L is His name; YWKY"L is His name; QNY"L is His name; ŠLW"L is His name; SWRY"L is His name; ḢZY"L is His name; Gabriel is His name; Raphael is His name; Metatron is His name; the Almighty is His name; Holy One is His name; *I Am* is His name; *Who I Am* (cf. Exod 3:14) is His name.”
 
 § 364 <sup>a</sup>“the twenty-two”
 
@@ -930,7 +930,7 @@ The Throne Midrash<sup>a</sup> (§§ 368–375)
 
 § 368a<sup>b</sup>
 
-The first foot of the throne,<sup>c</sup> its name<sup>d</sup> is "GL";<sup>e</sup> the second,<sup>f</sup> its name<sup>g</sup> is BZBN; the third,<sup>h</sup> BBBB is its name;<sup>i</sup> the fourth,<sup>j</sup> "ṠBṠ#YY" is its name.<sup>k</sup> The first living creature, #GLY is its name; the second, BZBYH is its name; the third, BLBW BQM is its name; the fourth, BBT DṠB{#} ṪYY" is its name.<sup>l</sup> § 368b<sup>m</sup> And the likeness of their faces<sup>n</sup> is the stamp of a lion and the seal of an eagle and the likeness of an ox<sup>o</sup> and the face of a sealed<sup>p</sup> man. To each are four faces, and four faces to a corner,<sup>q</sup> and four faces to every single corner: sixty-four faces to every single living creature. And there are four wings<sup>r</sup> to a wing<sup>s</sup> and four wings to every single wing: sixty-four wings to every single living creature.
+The first foot of the throne,<sup>c</sup> its name<sup>d</sup> is "GL";<sup>e</sup> the second,<sup>f</sup> its name<sup>g</sup> is BZBN; the third,<sup>h</sup> BBBB is its name;<sup>i</sup> the fourth,<sup>j</sup> "ṠBṠ#YY" is its name.<sup>k</sup> The first living creature, \#GLY is its name; the second, BZBYH is its name; the third, BLBW BQM is its name; the fourth, BBT DṠB{#} ṪYY" is its name.<sup>l</sup> § 368b<sup>m</sup> And the likeness of their faces<sup>n</sup> is the stamp of a lion and the seal of an eagle and the likeness of an ox<sup>o</sup> and the face of a sealed<sup>p</sup> man. To each are four faces, and four faces to a corner,<sup>q</sup> and four faces to every single corner: sixty-four faces to every single living creature. And there are four wings<sup>r</sup> to a wing<sup>s</sup> and four wings to every single wing: sixty-four wings to every single living creature.
 
 § 369<sup>a</sup>
 
@@ -942,7 +942,7 @@ b Paragraph 368a also has a parallel in M40(§ 954) and G9. The important varian
 
 c “The first foot of the throne” O D \] “The feet of His throne of glory, behold, they are the living creatures standing beneath Him. The first foot, which is a living creature” N; “The first living creature” M40; “the first banner of the throne” (corrupt) M22
 
-<sup>d</sup>“its name” N O M40 M22 \] “the name” D. In N the *nomina barbara* (BBBLYY P#W <sup>e</sup>I give the *nomina* #GL" (“calf ”) #GLYY "ṠBYY") come before this phrase rather than after.
+<sup>d</sup>“its name” N O M40 M22 \] “the name” D. In N the *nomina barbara* (BBBLYY P#W <sup>e</sup>I give the *nomina* \#GL" (“calf ”) \#GLYY "ṠBYY") come before this phrase rather than after.
 
 *barbara* in the text according to O and those of N in the notes. Those of M40 M22 D are closer to O and those of M40(§ 954) G9 are closer to N.
 
@@ -972,7 +972,7 @@ in the notes. *Nomina barbara* are given according to N.
 
 *[p. 224]* ^pg233
 
-"WRYH[^d] HWD[^e] HWWH BPGMKN is his name. The prince of the face of the ox: "MṠYH ŠWB "LYH[^f]ṠMMṠMṠM "MṠ MSBYH is his name. The prince of the face of the eagle:[^g] #P#PY LHWZY"L "LYH[^h] MMṠY{Ṡ}H LHWDYDYY"L is his name. And when Israel sinned[^i] the face of the ox was concealed and He brought in a cherub[^j] in its place. The prince of the face of the cherub: PSYH #MNW[^k] HW"LYH {MBY} #MNW[^l] MBY"LYH KRWBYH KRWBYH[^m] PṠWP{?}Ṡ*⟨*Y*⟩*H PṠPṠYH HNQ NQYH is his name.
+"WRYH[^d] HWD[^e] HWWH BPGMKN is his name. The prince of the face of the ox: "MṠYH ŠWB "LYH[^f]ṠMMṠMṠM "MṠ MSBYH is his name. The prince of the face of the eagle:[^g] \#P\#PY LHWZY"L "LYH[^h] MMṠY{Ṡ}H LHWDYDYY"L is his name. And when Israel sinned[^i] the face of the ox was concealed and He brought in a cherub[^j] in its place. The prince of the face of the cherub: PSYH \#MNW[^k] HW"LYH {MBY} \#MNW[^l] MBY"LYH KRWBYH KRWBYH[^m] PṠWP{?}Ṡ*⟨*Y*⟩*H PṠPṠYH HNQ NQYH is his name.
 
 § 370[^a]
 
@@ -1028,7 +1028,7 @@ of” with Schäfer (*Übersetzung*, 3:68 n. 3) and Morray-Jones (*A Transparent
 
 *[p. 226]* ^pg235
 
-right; #ZRY"L, ZKRY"L, ŠM\#"L from the left; Gabriel, RP"L,<sup>e</sup> " ḢZY"L behind Him; RG#Y"L, DNN"L, Uriel in front of Him. And He is enthroned in the center. His glory<sup>f</sup> is like<sup>g</sup> the Hashmal,<sup>h</sup> and on His forehead is the crown of the explicit name, wholly of fire, and glorious<sup>i</sup> on His head is the garland of effulgence, as it is said, *out of the brightness corresponding to Him*<sup>j</sup> (2 Sam 22:13//Ps 18:13). From His right hand is life, from His left hand is death, and in His hand are scepters of fire.<sup>k</sup> On His right side are two princes {of fire}, mighty ones of <sup>l</sup> vigor, and these are their names: ŠBBY"L and PRY"L.<sup>m</sup> And on His left side are two mighty ones of vigor who establish decrees, and these are their names: HBWR"<sup>n</sup> and GLYṠWR.
+right; \#ZRY"L, ZKRY"L, ŠM\#"L from the left; Gabriel, RP"L,<sup>e</sup> " ḢZY"L behind Him; RG#Y"L, DNN"L, Uriel in front of Him. And He is enthroned in the center. His glory<sup>f</sup> is like<sup>g</sup> the Hashmal,<sup>h</sup> and on His forehead is the crown of the explicit name, wholly of fire, and glorious<sup>i</sup> on His head is the garland of effulgence, as it is said, *out of the brightness corresponding to Him*<sup>j</sup> (2 Sam 22:13//Ps 18:13). From His right hand is life, from His left hand is death, and in His hand are scepters of fire.<sup>k</sup> On His right side are two princes {of fire}, mighty ones of <sup>l</sup> vigor, and these are their names: ŠBBY"L and PRY"L.<sup>m</sup> And on His left side are two mighty ones of vigor who establish decrees, and these are their names: HBWR"<sup>n</sup> and GLYṠWR.
 
 § 373
 
@@ -1472,7 +1472,7 @@ M22
 
 uu “in his goodness” N O M40 D \] “in their goodness” M22 vv Cf. this sentence to *Merkavah Rabba* § 686.
 
-§ 421 <sup>a</sup>A substantially different version of § 421 appears in G8 2b 44b–49a and a version of part of #Anaphi"el’s incantation appears in the Geniza text T.-S. NS 91.53 (G75) lines 12–22. See chapter eight. #Anaphi"el also appears in *Hekhalot Rabbati* §§ 210, 241–245, 247–248.
+§ 421 <sup>a</sup>A substantially different version of § 421 appears in G8 2b 44b–49a and a version of part of \#Anaphi"el’s incantation appears in the Geniza text T.-S. NS 91.53 (G75) lines 12–22. See chapter eight. \#Anaphi"el also appears in *Hekhalot Rabbati* §§ 210, 241–245, 247–248.
 
 <sup>b</sup>“#Anaphi"el” O M40 M22 D \] + “the prince” N. The spelling of c “must invoke” N M22 \] the name in N M22 may imply the pronunciation “#Anaph"el.”
 

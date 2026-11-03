@@ -228,7 +228,7 @@ p. 62,
 
 constituent elements of the physical body (see 
 
-*[p. 14]* ^pg245
+*[p. 243]* ^pg245
 
 ion 
 
@@ -254,7 +254,7 @@ KMT as well as in the corresponding lines of the parallel versions) instead of p
 
 The expression tritattva (tritattvapadavīm labhet, 94d) refers to the three categories ãtman, vidyā, and śiva; for these see e.g., KMT 16.24 (see p. 166 f.) and 18.109 ff. 
 
-*[p. 15]* ^pg246
+*[p. 244]* ^pg246
 
 Śrībhairava said: 
 
@@ -729,7 +729,7 @@ The metre of pāda 73a (prākrtajanasankīrnā) is irregular because the second 
 
 raudra is a synonym for the kalā-adhvan, which according to pāda b is associated with the Yoginī in question. See KMT 10.70a: raudram kalādhvaram proktam; see also n. 60 below. Cf. n.49 above. 
 
-*[p. 15]* ^pg257
+*[p. 255]* ^pg257
 
 teristics, residing within the site of the rattva-path, embellished by the Ājña-temple, 76 
 
@@ -763,7 +763,7 @@ In 76c (pumjanākrtasampūṁā) | have followed the reading -ãkrti- of mss. FG
 
 58 (see \$SSc fol. 99”), but it may also refer to the rartva-adhvan which is associated with Yakṣinī according to 15.76a. See KMT 10.70b (sãmbhavam tattvalakṣanam) and n. 60 below. Note the ən of the case ending of sakti (nom. sg.) in order to avoid a long fifth syllable. omiss 59 The translation of 79a (kam-ba-mā-lam-) āntābhir) is based on the reading kam-ba-mā-la-vi-ko 'ntābhir, as was suggested earlier (see p. 128-130). bhāta, etc., are alternative terms for the six adhvans: bhūta = bhuvana, bhāva = pada, śākta = 60 varṇa, āṇava = mantra/māntra, raudra = kalā and śāãmbhava = tattva. See KMT 10.68—70ab (bhūtam bhuvanāvaranam, padam bhāvam prayujyate, etc.; cf. also notes 55 and 58 above). For āṇava or anu standing for mantra/māntra, see KMT 13.55ed. 61 For the interpretation of this line see p. 145 n. 76. -āmbodadhi- in 82b either stands for -āmbhodadhi (as in SSS 24.58b) or for ambūdadhi-. 63 Bhairava promises to tell about Her (i.e. the Supreme Goddess’s) form and magnanimity later on, which he does in 16.42-52 and 70-88 (see below). Kubjikā reminds him of this promise in 16.16a (katham rūpam maheśānyāh).
 
-*[p. 16]* ^pg258
+*[p. 256]* ^pg258
 
 Śrībhairava said: 
 

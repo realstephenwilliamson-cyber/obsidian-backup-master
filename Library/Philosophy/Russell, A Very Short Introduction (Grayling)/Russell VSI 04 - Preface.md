@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Grayling - Russell, A Very Short Introduction]]"
 book: "[[Library/Philosophy/Russell, A Very Short Introduction (Grayling)/Russell, A Very Short Introduction (Grayling)|Russell, A Very Short Introduction (Grayling)]]"
 order: 4
 source_pdf: "Library/Philosophy/Grayling - Russell, A Very Short Introduction (2002).pdf"
-page_range: "5–6"
+page_range: "viii–ix"
 pdf_pages: "9–10"
 text_source: "PDF text layer, PyMuPDF"
 converted: 2026-10-15
@@ -12,7 +12,7 @@ converted: 2026-10-15
 
 [[Russell VSI 03 - Contents|← previous]] · [[Russell, A Very Short Introduction (Grayling)|contents]] · [[Russell VSI 05 - Abbreviations|next →]]
 
-*[p. 5]* ^pg9
+*[p. viii]* ^pg9
 
 ## Preface
 
@@ -20,7 +20,7 @@ Russell lived long and did much. He is one of the relatively small number of phi
 
 I am grateful to Keith Thomas and the Press’s keen-eyed reader for comments, to Ken Blackwell for prompt help and documents from the
 
-*[p. 6]* ^pg10
+*[p. ix]* ^pg10
 
 Russell Archive, and to Alex Orenstein and Ray Monk for related and relevant discussion. My thanks go also to Leena Mukhey for her work on the index.
 

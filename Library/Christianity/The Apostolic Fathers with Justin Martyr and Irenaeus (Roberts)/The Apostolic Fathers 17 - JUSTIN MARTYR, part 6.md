@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 17
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 2462–2559
+page_range: 434–471
 pdf_pages: 474–511
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 16 - JUSTIN MARTYR, part 5|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 18 - JUSTIN MARTYR, part 7|next →]]
 
-*[p. 2462]* ^pg474
+*[p. 434]* ^pg474
 
 demons, and by the host of the devil, through the aid ministered to them by you), and endure all torments rather than deny Christ even by word, through whom we are called to the salvation prepared beforehand by the Father, are more faithful to God than you, who were redeemed from Egypt with a high hand and a visitation of great glory, when the sea was parted for you, and a passage left dry, in which \[God\] slew those who pursued you with a very great equipment, and splendid chariots, bringing back upon them the sea which had been made a way for your sakes; on whom also a pillar of light shone, in order that you, more than any other nation in the world, might possess a peculiar light, never-failing and never-setting; for whom He rained manna as nourishment, fit for the heavenly angels, in order that you might have no need to prepare your food; and the water at Marah was made sweet; and a sign of Him that was to be crucified was made, both in the matter of the serpents which bit you, as I already mentioned (God anticipating before the proper times these mysteries, in order to confer grace upon you, to whom you are always convicted of being thankless), as well as in the type of the extending of the hands of Moses, and of Oshea being named Jesus (Joshua); when you fought against Amalek: concerning which God enjoined that the incident be recorded, and the name of Jesus laid up in your understandings; saying that this is He who would blot out the memorial of Amalek from under heaven. Now it is clear that the memorial of Amalek remained after the son of Nave (Nun): but He makes it manifest through Jesus, who was crucified, of whom also those symbols were fore-announcements of all that would happen to Him, the demons would be destroyed, and would dread His name, and that all principalities and kingdoms would fear Him; and that they who believe in Him out of all nations would be shown as God-fearing and peaceful men; and the facts already quoted by me, Trypho, indicate this. Again, when you desired flesh, so vast a quantity of quails was given you, that they could not be told; for whom also water gushed from the rock; and a cloud followed you for a shade from heat, and covering from cold, declaring the manner and signification of another and new heaven; the latchets of your shoes did not break, and your shoes waxed not old, and your garments wore not away, but even those of the children grew along with them.
 
@@ -22,7 +22,7 @@ demons, and by the host of the devil, through the aid ministered to them by you)
 
 266 \[Another Americanism. *Greek*, θεάσασθαι.\]
 
-*[PDF 475]* ^pg475
+*[p. 435]* ^pg475
 
 other miracles which were wrought for you as time served;<sup>2463</sup> and of these it seems good to me now to speak of another, for it conduces to your hereby knowing Jesus, whom we also know to have been Christ the Son of God, who was crucified, and rose again, and ascended to heaven, and will come again to judge all men, even up to Adam himself. You are aware, then,” I continued, “that when the ark of the testimony was seized by the enemies of Ashdod,<sup>2464</sup> and a terrible and incurable malady had broken out among them, they resolved to place it on a cart to which they yoked cows that had recently calved, for the purpose of ascertaining by trial whether or not they had been plagued by God’s power on account of the ark, and if God wished it to be taken back to the place from which it had been carried away. And when they had done this, the cows, led by no man, went not to the place whence the ark had been taken, but to the fields of a certain man whose name was Oshea, the same as his whose name was altered to Jesus (Joshua), as has been previously mentioned, who also led the people into the land and meted it out to them: and when the cows had come into these fields they remained there, showing to you thereby that they were guided by the name of power;<sup>2465</sup> just as formerly the people who survived of those that came out of Egypt, were guided into the land by him who had received the name Jesus (Joshua), who before was called Oshea.
 
@@ -40,7 +40,7 @@ See 1 Sam. v.
 
 Or, “by the power of the name.” \[1 Sam. vi. 14. Joshua in English version.\]
 
-*[PDF 476]* ^pg476
+*[p. 436]* ^pg476
 
 you wrong my people, and put to shame the countenance of the humble?’<sup>2466</sup> Again, in other words, the same prophet spake to the same effect: ‘Woe unto them that draw their iniquity as with a long cord, and their transgressions as with the harness of an heifer’s yoke: who say, Let His speed come near, and let the counsel of the Holy One of Israel come, that we may know it. Woe unto them that call evil good, and good evil! that put light for darkness, and darkness for light! that put bitter for sweet, and sweet for bitter! Woe unto them that are wise in their own eyes, and prudent in their own sight! Woe unto those that are mighty among you, who drink wine, who are men of strength, who mingle strong drink! who justify the wicked for a reward, and take away justice from the righteous! Therefore, as the stubble shall be burnt by the coal of fire, and utterly consumed by the burning flame, their root shall be as wool, and their flower shall go up like dust. For they would not have the law of the Lord of Sabaoth, but despised<sup>2467</sup> the word of the Lord, the Holy One of Israel. And the Lord of Sabaoth was very angry, and laid His hands upon them, and smote them; and He was provoked against the mountains, and their carcases were in the midst like dung on the road. And for all this they have not repented,<sup>2468</sup> but their hand is still high.’<sup>2469</sup> For verily your hand is high to commit evil, because ye slew the Christ, and do not repent of it; but so far from that, ye hate and murder us who have believed through Him in the God and Father of all, as often as ye can; and ye curse Him without ceasing, as well as those who side with Him; while all of us pray for you, and for all men, as our Christ and Lord taught us to do, when He enjoined us to pray even for our enemies, and to love them that hate us, and to bless them that curse us.
 
@@ -50,7 +50,7 @@ you wrong my people, and put to shame the countenance of the humble?’<sup>2466
 
 267 Isa. iii. 9–15. 2466 Literally, “provoked.” 2467 Literally, “turned away.” 2468
 
-*[PDF 477]* ^pg477
+*[p. 437]* ^pg477
 
 of\] the younger, he again served seven years. Now Leah is your people and synagogue; but Rachel is our Church. And for these, and for the servants in both, Christ even now serves. For while Noah gave to the two sons the seed of the third as servants, now on the other hand Christ has come to restore both the free sons and the servants amongst them, conferring the same honour on all of them who keep His commandments; even as the children of the free women and the children of the bond women born to Jacob were all sons, and equal in dignity. And it was foretold what each should be according to rank and according to fore-knowledge. Jacob served Laban for speckled and many-spotted sheep; and Christ served, even to the slavery of the cross, for the various and many-formed races of mankind, acquiring them by the blood and mystery of the cross. Leah was weak-eyed; for the eyes of your souls are excessively weak. Rachel stole the gods of Laban, and has hid them to this day; and we have lost our paternal and material gods. Jacob was hated for all time by his brother; and we now, and our Lord Himself, are hated by you and by all men, though we are brothers by nature. Jacob was called Israel; and Israel has been demonstrated to be the Christ, who is, and is called, Jesus.
 
@@ -62,7 +62,7 @@ Isa. xliii. 15.
 
 2470
 
-*[PDF 478]* ^pg478
+*[p. 438]* ^pg478
 
 and did evil before me, and did choose that wherein I delighted not.’<sup>2472</sup> Such are the words of Scripture; understand, therefore, that the seed of Jacob now referred to is something else, and not, as may be supposed, spoken of your people. For it is not possible for the seed of Jacob to leave an entrance for the descendants of Jacob, or for \[God\] to have accepted the very same persons whom He had reproached with unfitness for the inheritance, and promise it to them again; but as there the prophet says, ‘And now, O house of Jacob, come and let us walk in the light of the Lord; for He has sent away His people, the house of Jacob, because their land was full, as at the first, of soothsayers and divinations;’<sup>2473</sup> even so it is necessary for us here to observe that there are two seeds of Judah, and two races, as there are two houses of Jacob: the one begotten by blood and flesh, the other by faith and the Spirit.
 
@@ -432,7 +432,7 @@ Literally, “clean,” free from other influences.
 
 are everywhere received by Christians, to be an inestimable advantage.\]
 
-*[p. 2538]* ^pg495
+*[p. 455]* ^pg495
 
 #### Chapter IX.—The antiquity of Moses proved by Greek writers.
 
@@ -458,7 +458,7 @@ on Diodorus, and the quotation following in another note.\]
 
 This sentence must be so completed from the context in Diodorus. See the note of Maranus.
 
-*[p. 2539]* ^pg496
+*[p. 456]* ^pg496
 
 #### Chapter X—Training and inspiration of Moses.
 
@@ -474,7 +474,7 @@ But as you do not see the necessity of giving up the ancient error of your foref
 
 278 \[Consult the ponderous learning of Warburton’s *Divine Legation, passim*.\]
 
-*[p. 2540]* ^pg497
+*[p. 457]* ^pg497
 
 credit in the matter of religion? For, as I have frequently said, it is impossible that those who have not themselves learned these so great and divine things from such persons as are acquainted with them, should either themselves know them, or be able rightly to teach others. Since, therefore, it has been sufficiently proved that the opinions of your philosophers are obviously full of all ignorance and deceit, having now perhaps wholly abandoned the philosophers as formerly you abandoned the poets, you will turn to the deceit of the oracles; for in this style I have heard some speaking. Therefore I think it fit to tell you at this step in our discourse what I formerly heard among you concerning their utterances. For when one inquired at your oracle—it is your own story—what religious men had at any time happened to live, you say that the oracle answered thus: “Only the Chaldæans have obtained wisdom, and the Hebrews, who worship God Himself, the self-begotten King.”
 
@@ -554,7 +554,7 @@ These are the Sibyl’s words.
 
 And the poet Homer, using the license of poetry, and rivalling the original opinion of Orpheus regarding the plurality of the gods, mentions, indeed, several gods in a mythical style, lest he should seem to sing in a different strain from the poem of Orpheus, which he so distinctly proposed to rival, that even in the first line of his poem he indicated the relation he held to him. For as Orpheus in the beginning of his poem had said, “O goddess, sing the wrath of Demeter, who brings the goodly fruit,” Homer began thus, “O goddess, sing the wrath of Achilles, son of Peleus,” preferring,
 
-*[PDF 502]* ^pg502
+*[p. 462]* ^pg502
 
 as it seems to me, even to violate the poetical metre in his first line, than that he should seem not to have remembered before all else the names of the gods. But shortly after he also clearly and explicitly presents his own opinion regarding one God only, somewhere<sup>2543</sup> saying to Achilles by the mouth of Phœnix, “Not though God Himself were to promise that He would peel off my old age, and give me the rigour of my youth,” where he indicates by the pronoun the real and true God. And somewhere<sup>2544</sup> he makes Ulysses address the host of the Greeks thus: “The rule of many is not a good thing; let there be one ruler.” And that the rule of many is not a good thing, but on the contrary an evil, he proposed to evince by fact, recounting the wars which took place on account of the multitude of rulers, and the fights and factions, and their mutual counterplots. For monarchy *is* free from contention. So far the poet Homer.
 
@@ -574,7 +574,7 @@ And Pythagoras, son of Mnesarchus, who expounded the doctrines of his own philos
 
 *Iliad*, ii. 204.
 
-*[PDF 503]* ^pg503
+*[p. 463]* ^pg503
 
 teaches by an allegory that God is one, and alone.<sup>2545</sup> And that this is so, is evident from his saying that unity and one differ widely from one another. For he says that unity belongs to the class of things perceived by the mind, but that one belongs to numbers. And if you desire to see a clearer proof of the opinion of Pythagoras concerning one God, hear his own opinion, for he spoke as 281
 
@@ -594,7 +594,7 @@ Or, “uncreated.”
 
 ὁ ὢν, “He who is; the Being.”
 
-*[PDF 504]* ^pg504
+*[p. 464]* ^pg504
 
 #### Chapter XXI.—The namelessness of God.
 
@@ -602,7 +602,7 @@ For God cannot be called by any proper name, for names are given to mark out and
 
 282 Isa. xliv. 6. 2548 Literally, “with the not-beings.” 2549 Literally, “between the God being and not-beings.”
 
-*[PDF 505]* ^pg505
+*[p. 465]* ^pg505
 
 #### Chapter XXII.—Studied ambiguity of Plato.
 
@@ -624,7 +624,7 @@ Or, “are born and die.”
 
 Or, “demiurge or maker.”
 
-*[p. 2558]* ^pg506
+*[p. 466]* ^pg506
 
 But, perhaps, some who are unwilling to abandon the doctrines of polytheism, will say that to these fashioned gods the maker said, “Since ye have been produced, ye are not immortal, nor at all, imperishable; yet shall ye not perish nor succumb to the fatality of death, because you have obtained my will,<sup>2555</sup> which is a still greater and mightier bond.” Here Plato, through fear of the adherents of polytheism, introduces his “maker” uttering words which contradict himself. For having formerly stated that he said that everything which is produced is perishable, he now introduces him saying the very opposite; and he does not see that it is thus absolutely impossible for him to escape the charge of falsehood. For he either at first uttered what is false when he said that everything which is produced is perishable, or now, when he propounds the very opposite to what he had formerly said. For if, according to his former definition, it is absolutely necessary that every created thing be perishable, how can he consistently make that possible which is absolutely impossible? So that Plato seems to grant an empty and impossible prerogative to his “maker,” when he propounds that those who were once perishable because made from matter should again, by his intervention, become imperishable and enduring. For it is quite natural that the power of matter, which, according to Plato’s opinion, is uncreated, and contemporary and coæval with the maker, should resist his will. For he who has not created has no power, in respect of that which is uncreated, so that it is not possible that it (matter), being free, can be controlled by any external necessity. Wherefore Plato himself, in consideration of this, has written thus: “It is necessary to affirm that God cannot suffer violence.”
 
@@ -634,7 +634,7 @@ How, then, does Plato banish Homer from his republic, since, in the embassy to A
 
 283 That is, “my will to the contrary.” See Plato, *Tim.*, p. 41 \[cap 13\]. 2555 *Iliad*, ix. 497. 2556 That is, by the challenge of the chain introduced—*Iliad*, viii. 18. 2557 *Iliad*, ix. 238.
 
-*[p. 2559]* ^pg507
+*[p. 467]* ^pg507
 
 in another passage, and employing another but equivalent word, to wit, a pronoun, made use of the same participle employed by Plato to designate the really existent God, concerning whom Plato said, “What that is which always exists, and has no birth.” For not without a double sense does this expression of Phœnix seem to have been used: “Not even if God Himself were to promise me, that, having burnished off my old age, He should set me forth in the flower of youth.” For the pronoun “Himself” signifies the really existing God. For thus, too, the oracle which was given to you concerning the Chaldæans and Hebrews signifies. For when some one inquired what men had ever lived godly, you say the answer was:—“Only the Chaldæans and the Hebrews found wisdom, Worshipping God Himself, the unbegotten King.”
 
@@ -646,7 +646,7 @@ But Plato, as it seems, unwillingly entered not these strange dissertations conc
 
 *Iliad*, i. 526.
 
-*[PDF 508]* ^pg508
+*[p. 468]* ^pg508
 
 “existing” expresses not one time only, but the three—the past, the present, and the future. For when Plato says, “and which never really is,” he uses the verb “is” of time indefinite. For the word “never” is not spoken, as some suppose, of the past, but of the future time. And this has been accurately understood even by profane writers. And therefore, when Plato wished, as it were, to interpret to the uninitiated what had been mystically expressed by the participle concerning the eternity of God, he employed the following language: “God indeed, as the old tradition runs, includes the beginning, and end, and middle of all things.” In this sentence he plainly and obviously names the law of Moses “the old tradition,” fearing, through dread of the hemlock-cup, to mention the name of Moses; for he understood that the teaching of the man was hateful to the Greeks; and he clearly enough indicates Moses by the antiquity of the tradition. And we have sufficiently proved from Diodorus and the rest of the historians, in the foregoing chapters, that the law of Moses is not only old, but even the first. For Diodorus says that he was the first of all lawgivers; the letters which belong to the Greeks, and which they employed in the writing of their histories, having not yet been discovered.
 
@@ -656,7 +656,7 @@ And let no one wonder that Plato should believe Moses regarding the eternity of 
 
 284 Plato, *Tim.*, p. 53 D, \[cap. 20\]. 2560 Pind., *Fr.*, 233, a fragment preserved in this place.
 
-*[PDF 509]* ^pg509
+*[p. 469]* ^pg509
 
 and justice, him sweet hope, the nurse of age, accompanies, cheering his heart, for she powerfully sways the changeful mind of mortals.’ ”<sup>2562</sup> This Plato wrote in the first book of the *Republic*.
 
@@ -672,7 +672,7 @@ Plato, *Rep.*, p. 615, \[lib. x. p. 325. Ed. Bipont, 1785.\] 2563
 
 The bellowing of the mouth of the pit.
 
-*[PDF 510]* ^pg510
+*[p. 470]* ^pg510
 
 they teach concerning the resurrection of the body, teaches that the soul is judged in company with the body.
 
@@ -698,7 +698,7 @@ Gen. i. 1.
 
 *Iliad*, xviii. 483.
 
-*[PDF 511]* ^pg511
+*[p. 471]* ^pg511
 
 As with a radiant frontlet, bind the skies.”
 

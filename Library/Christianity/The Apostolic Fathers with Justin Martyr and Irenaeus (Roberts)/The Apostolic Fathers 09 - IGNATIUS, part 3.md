@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 9
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: "164–193"
+page_range: "164–207"
 pdf_pages: 204–247
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -496,7 +496,7 @@ Every one that teaches anything beyond what is commanded, though he be \[deemed\
 
 Eccl. ii. 25 (after LXX.); Zech. ix. 17. 1272 Comp. [[1 Timothy 04#^4-13|1 Tim. iv. 13]]. 1273 Literally, “athlete.” 1274 [[2 Timothy 02#^2-4|2 Tim. ii. 4]]. 1275 Comp. [[Matthew 07#^7-15|Matt. vii. 15]]. 1276 [[1 Corinthians 13#^13-2|1 Cor. xiii. 2]]. 1277 [[1 Timothy 05#^5-3|1 Tim. v. 3]]. 1278 Ps. lxviii. 5. 1279 The term ἱερουργέω, which we have translated as above, is one whose signification is disputed. It occurs once in the New 1280 Testament ([[Romans 15#^15-16|Rom. xv. 16]]) where it is translated in our English version simply “ministering.” Etymologically, it means “to act as a priest,” and we have in our translation followed Hesychius (Cent. iv.), who explains it as meaning “to offer sacrifice.” \[The
 
-*[PDF 223]* ^pg223
+*[p. 183]* ^pg223
 
 but thou ministerest to them, as the holy Stephen did at Jerusalem to James and the presbyters. Do not neglect the sacred meetings<sup>1281</sup> \[of the saints\]; inquire after every one by name. “Let no man despise thy youth, but be thou an example to the believers, both in word and conduct.”<sup>1282</sup> 114
 
@@ -526,7 +526,7 @@ Specifically, assemblies for the celebration of the Lord’s Supper.
 
 1284
 
-*[PDF 224]* ^pg224
+*[p. 184]* ^pg224
 
 of Christ. Be long-suffering,<sup>1286</sup> that thou mayest be great in wisdom. Do not neglect the poor, in so far as thou art prosperous. For “by alms and fidelity sins are purged away.”<sup>1287</sup>
 
@@ -542,7 +542,7 @@ Keep God in remembrance, and thou shalt never sin. Be not double-minded<sup>1290
 
 Prov. xiv. 29. 1286 Prov. xv. 27 (after LXX.: Prov. xvi. 6 in English version) 1287 [[1 Corinthians 01#^1-31|1 Cor. i. 31]]; [[2 Corinthians 10#^10-17|2 Cor. x. 17]]. 1288 Sirach xix. 4. 1289 Comp. [[James 01#^1-6|Jas. i. 6]], [[James 01#^1-8|8]]. 1290 Comp. Epistle to the Antiochians, chap. xii.
 
-*[PDF 225]* ^pg225
+*[p. 185]* ^pg225
 
 ### Epistle to the Philippians
 
@@ -560,7 +560,7 @@ The Epistle of Ignatius to the Philippians
 
 116 Comp. Deut. xxxi. 7, 23. 1292 Num. xxvii. 17. 1293 [[2 Timothy 01#^1-18|2 Tim. i. 18]]. 1294 [[Colossians 04#^4-15|Col. iv. 15]]. 1295 [[1 Timothy 04#^4-10|1 Tim. iv. 10]].
 
-*[PDF 226]* ^pg226
+*[p. 186]* ^pg226
 
 #### Chapter I.—Reason for writing the epistle.
 
@@ -572,7 +572,7 @@ There is then one God and Father, and not two or three; One who is; and there is
 
 Literally, “to your brother-loving spiritual love according to God.” 1297 Literally, “course in Christ.” 1298 [[1 Corinthians 01#^1-10|1 Cor. i. 10]]; [[Philippians 02#^2-2|Phil. ii. 2]], [[Philippians 03#^3-16|Phil. iii. 16]]. 1299 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1300 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1301 [[1 Corinthians 12#^12-11|1 Cor. xii. 11]]. 1302 Literally, “which is given unto the death of the Lord.” 1303 [[Ephesians 04#^4-5|Eph. iv. 5]]. 1304 Deut. vi. 4; [[Mark 12#^12-29|Mark xii. 29]]. 1305 Mal. ii. 10. 1306 [[John 01#^1-18|John i. 18]]. 1307 [[1 Corinthians 08#^8-6|1 Cor. viii. 6]]. 1308 Prov. xxx. 4. 1309 i.e., “Advocate” or “Comforter;” comp. [[John 14#^14-16|John xiv. 16]].
 
-*[PDF 227]* ^pg227
+*[p. 187]* ^pg227
 
 saith \[the Scripture\], “one Spirit,”<sup>1311</sup> since “we have been called in one hope of our calling.”<sup>1312</sup> And again, “We have drunk of one Spirit,”<sup>1313</sup> with what follows. And it is manifest that all these gifts \[possessed by believers\] “worketh one and the self-same Spirit.”<sup>1314</sup> There are not then either three Fathers,<sup>1315</sup> or three Sons, or three Paracletes, but one Father, and one Son, and one Paraclete. Wherefore also the Lord, when He sent forth the apostles to make disciples of all nations, commanded them to “baptize in the name of the Father, and of the Son, and of the Holy Ghost,”<sup>1316</sup> not unto one \[person\] having three names, nor into three \[persons\] who became incarnate, but into three possessed of equal honour.
 
@@ -584,7 +584,7 @@ For there is but One that became incarnate, and that neither the Father nor the 
 
 117 [[Ephesians 04#^4-4|Eph. iv. 4]]. 1311 [[1 Corinthians 12#^12-13|1 Cor. xii. 13]]. 1312 [[Ephesians 04#^4-4|Eph. iv. 4]]. 1313 [[1 Corinthians 12#^12-11|1 Cor. xii. 11]]. 1314 Comp. Athanasian Creed. 1315 [[Matthew 28#^28-19|Matt. xxviii. 19]]. 1316 [[John 01#^1-14|John i. 14]]. 1317 Prov. ix. 1. 1318
 
-*[PDF 228]* ^pg228
+*[p. 188]* ^pg228
 
 And indeed, before the cross was erected, he (Satan) was eager that it should be so; and he “wrought” \[for this end\] “in the children of disobedience.”<sup>1320</sup> He wrought in Judas, in the Pharisees, in the Sadducees, in the old, in the young, and in the priests. But when it was just about to be erected, he was troubled, and infused repentance into the traitor, and pointed him to a rope to hang himself with, and taught him \[to die by\] strangulation. He terrified also the silly woman, disturbing her by dreams; and he, who had tried every means to have the cross prepared, now endeavoured to put a stop to its erection;<sup>1321</sup> not that he was influenced by repentance on account of the greatness of his crime (for in that case he would not be utterly depraved), but because he perceived his own destruction \[to be at hand\]. For the cross of Christ was the beginning of his condemnation, the beginning of his death, the beginning of his destruction. Wherefore, also, he works in some that they should deny the cross, be ashamed of the passion, call the death an appearance, mutilate and explain away the birth of the Virgin, and calumniate the \[human\] nature<sup>1322</sup> itself as being abominable. He fights along with the Jews to a denial of the cross, and with the Gentiles to the calumniating of Mary,<sup>1323</sup> who are heretical in holding that Christ possessed a mere phantasmal body.<sup>1324</sup> For the leader of all wickedness assumes manifold<sup>1325</sup> forms, beguiler of men as he is, inconsistent, and even contradicting himself, projecting one course and then following another. For he is wise to do evil, but as to what good may be he is totally ignorant. And indeed he is full of ignorance, on account of his voluntary want of reason: for how can he be deemed anything else who does not perceive reason when it lies at his very feet?
 
@@ -594,7 +594,7 @@ For if the Lord were a mere man, possessed of a soul and body only, why dost tho
 
 [[Ephesians 02#^2-2|Eph. ii. 2]]. 1320 \[This is the idea worked out by St. Bernard. See my note *(supra)* suffixed to the Syriac Epistle to Ephesians.\] 1321 The various Gnostic sects are here referred to, who held that matter was essentially evil, and therefore denied the reality 1322 of our Lord’s incarnation. The ms. has μαγείας, “of magic;” we have followed the emendation proposed by Faber. 1323 Literally, “heretical in respect to phantasy.” 1324 Literally, is “various,” or “manifold.” 1325 [[1 Corinthians 02#^2-8|1 Cor. ii. 8]].
 
-*[PDF 229]* ^pg229
+*[p. 189]* ^pg229
 
 who possesses a human soul, “The Word was made flesh,”<sup>1327</sup> and was a perfect man, and not merely one dwelling in a man? But how came this magician into existence, who of old formed all nature that can be apprehended either by the senses or intellect, according to the will of the Father; and, when He became incarnate, healed every kind of disease and infirmity?<sup>1328</sup>
 
@@ -608,7 +608,7 @@ And how, again, does Christ not at all appear to thee to be of the Virgin, but t
 
 118 [[John 01#^1-14|John i. 14]]. 1327 [[Matthew 04#^4-23|Matt. iv. 23]], [[Matthew 09#^9-35|Matt. ix. 35]]. 1328 Reference seems to be made to obscene heathen practices. 1329 i.e., so as to have no separate personality from the Father. Comp. Epistle to the Tarsians, chap. ii. 1330 Literally, “and taking away Christ from being born.” 1331 Literally, “double.”
 
-*[PDF 230]* ^pg230
+*[p. 190]* ^pg230
 
 #### Chapter VIII.—Continuation: ignorance of Satan.
 
@@ -632,7 +632,7 @@ Literally, “on account of the paltry things.”
 
 Literally, “small.”
 
-*[PDF 231]* ^pg231
+*[p. 191]* ^pg231
 
 didst tempt Him when hungry, as if He had been an ordinary man, not knowing who He was. For thou saidst, “If thou be the Son of God, command that these stones be made bread.”<sup>1337</sup> Now, this expression, “If thou be the Son,” is an indication of ignorance. For if thou hadst possessed real knowledge, thou wouldst have understood that the Creator can with equal ease both create what does not exist, and change that which already has a being. And thou temptedst by means of hunger<sup>1338</sup> Him who nourisheth all that require food. And thou temptedst the very “Lord of glory,”<sup>1339</sup> forgetting in thy malevolence that “man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.” For if thou hadst known that He was the Son of God, thou wouldst also have understood that He who had kept his<sup>1340</sup> body from feeling any want for forty days and as many nights, could have also done the same for ever. Why, then, does He suffer hunger? In order to prove that He had assumed a body subject to the same feelings as those of ordinary men. By the first fact He showed that He was God, and by the second that He was also man.
 
@@ -696,7 +696,7 @@ Philo and Agathopus the deacons salute you. I salute the company of virgins, and
 
 Comp. [[Colossians 04#^4-18|Col. iv. 18]].
 
-*[PDF 234]* ^pg234
+*[p. 194]* ^pg234
 
 ### Epistle from Maria of Cassobelæ
 
@@ -742,7 +742,7 @@ The same as Azarbus (comp. Epist. to Hero, chap. ix.).
 
 Num. xxvii. 16, 17.
 
-*[PDF 235]* ^pg235
+*[p. 195]* ^pg235
 
 #### Chapter II.—Youth may be allied with piety and discretion.
 
@@ -754,7 +754,7 @@ Moreover, the wise Daniel, while he was a young man, passed judgment on certain 
 
 121 Literally, “in themselves.” 1361 Literally, “in recent newness of priesthood.” 1362 Literally, “call up.” 1363 Literally, “know.” 1364 The ancient Latin version translates ὠμογέροντας “cruel old men,” which perhaps suits the reference better. 1365 Jer. i. 7. 1366 Comp. for similar statements to those here made, Epistle to the Magnesians (longer), chap. iii. 1367 Literally, “understood the great question of the ignorance of the women respecting their children.” 1368 Literally, “out of herself.”
 
-*[PDF 236]* ^pg236
+*[p. 196]* ^pg236
 
 ### Epistle to Mary at Neapolis
 
@@ -770,7 +770,7 @@ The Epistle of Ignatius to Mary at Neapolis, Near Zarbus.
 
 122 2 Kings xxii., xxiii. 1370 1 Sam. xvi. 1371 Ps. cl. 1 (in the Septuagint; not found at all in Hebrew). 1372 Literally, “to trace up.” 1373 Literally, “measure” or “limits.”
 
-*[PDF 237]* ^pg237
+*[p. 197]* ^pg237
 
 *Ignatius, who is also called Theaphorus, to her who has obtained mercy through the grace of the most high God the Father, and Jesus Christ the Lord, who died for us, to Mary, my daughter,* *most faithful, worthy of God, and bearing Christ \[in her heart\], wishes abundance of happiness in God.*
 
@@ -804,7 +804,7 @@ Literally, “by the many wills of the adversaries.”
 
 Literally, “I have gladly fulfilled the things commanded by thee in the letter.”
 
-*[PDF 238]* ^pg238
+*[p. 198]* ^pg238
 
 of a godly judgment,<sup>1380</sup> and not through the influence of carnal favour. And thy numerous quotations of Scripture passages exceedingly delighted me, which, when I had read, I had no longer a single doubtful thought respecting the matter. For I did not hold that those things were simply to be glanced over by my eyes, of which I had received from thee such an incontrovertible demonstration. May I be in place of thy soul, because thou lovest Jesus, the Son of the living God. Wherefore also He Himself says to thee, “I love them that love Me; and those that seek Me shall find peace.”<sup>1381</sup>
 
@@ -818,7 +818,7 @@ Avoid those that deny the passion of Christ, and His birth according to the fles
 
 123 Literally, “by a judgment of God.” 1380 Prov. viii. 17 (loosely quoted from LXX.). 1381 The original is πάπᾳ, \[common to primitive bishops.\] 1382 Jer. x. 23.
 
-*[PDF 239]* ^pg239
+*[p. 199]* ^pg239
 
 ### First Epistle to St John
 
@@ -836,7 +836,7 @@ A Second Epistle of Ignatius to St. John.
 
 125 Literally, “of vices.” 1384 Some mss. and editions seem with propriety to omit this word. 1385 Literally, “a nature of angelic purity is allied to human nature.”
 
-*[PDF 240]* ^pg240
+*[p. 200]* ^pg240
 
 #### His friend Ignatius to John the holy presbyter.
 
@@ -882,7 +882,7 @@ Or, “good.”
 
 Literally, “his own.” \[Mary is here called χριστοτόκος, and not θεοτόκος, which suggests a Nestorian forgery.\]
 
-*[PDF 241]* ^pg241
+*[p. 201]* ^pg241
 
 #### The lowly handmaid of Christ Jesus to Ignatius, her beloved fellow-disciple.
 
@@ -906,7 +906,7 @@ The following is the Introductory Notice of the translators:—The following acc
 
 He published an edition of Ignatius, Oxford, 1709.
 
-*[PDF 242]* ^pg242
+*[p. 202]* ^pg242
 
 centuries of our era.<sup>1396</sup> This is certainly a very suspicious circumstance, and may well give rise to some hesitation in ascribing the authorship to the immediate companions and friends of Ignatius. On the other hand, however, this account of the death of Ignatius is in perfect harmony with the particulars recounted by Eusebius and Chrysostom regarding him. Its comparative simplicity, too, is greatly in its favour. It makes no reference to the legends which by and by connected themselves with the name of Ignatius. As is well known, he came in course of time to be identified with the child whom Christ ([[Matthew 18#^18-2|Matt. xviii. 2]]) set before His disciples as a pattern of humility. It was said that the Saviour took him up in His arms, and that hence Ignatius derived his name of *Theophorus*;<sup>1397</sup> that is, according to the explanation which this legend gives of the word, *one carried by God*. But in chap. ii. of the following narrative we find the term explained to mean, “one who has Christ in 128
 
@@ -920,7 +920,7 @@ When Trajan, not long since,<sup>1399</sup> succeeded to the empire of the Roman
 
 129 \[A most remarkable statement. “References” may surely be *traced*, at least in Eusebius (iii. 36) and Irenæus (*Adv. Hæres.* 1396 v. 28), if not in Jerome, etc. But the sermon of St. Chrysostom (Opp. ii. 593) seems almost, in parts, a paraphrase.\] \[See on this matter Jacobson’s note (vol ii. p. 262), and reference to Pearson (*Vind. Ignat.*, part ii. cap. 12). The false 1397 accentuation (Θεόφορος) occurs in some copies to support the myth of the child Ignatius as the *God-borne* instead of the *God-bearing*; i.e., carried by Christ, instead of carrying the Spirit of Christ within.\] \[But see the note in Jacobson, vol. ii. p.557.\] 1398 The data of Trajan’s accession was a.d. 98. 1399 The text here is somewhat doubtful.
 
-*[PDF 243]* ^pg243
+*[p. 203]* ^pg243
 
 or apt to suffer from their simplicity.<sup>1401</sup> Wherefore he rejoiced over the tranquil state of the Church, when the persecution ceased for a little time, but was grieved as to himself, that he had not yet attained to a true love to Christ, nor reached the perfect rank of a disciple. For he inwardly reflected, that the confession which is made by martyrdom, would bring him into a yet more intimate relation to the Lord. Wherefore, continuing a few years longer with the Church, and, like a divine lamp, enlightening every one’s understanding by his expositions of the \[Holy<sup>1402</sup>\] Scriptures, he \[at length\] attained the object of his desire.
 
@@ -962,7 +962,7 @@ Or, “one who carries God.”
 
 Literally, “the dæmons.”
 
-*[PDF 244]* ^pg244
+*[p. 204]* ^pg244
 
 in fighting against our enemies?” Ignatius answered, “Thou art in error when thou callest the dæmons of the nations gods. For there is but one God, who made heaven, and earth, and the sea, and all that are in them; and one Jesus Christ, the only-begotten Son of God, whose kingdom may I enjoy.” Trajan said, “Do you mean Him who was crucified under Pontius Pilate?” Ignatius replied, “I mean Him who crucified my sin, with him who was the inventor of it,<sup>1410</sup> and who has condemned \[and cast down\] all the deceit and malice of the devil under the feet of those who carry Him in their heart.” Trajan said, “Dost thou then carry within thee Him that was crucified?” Ignatius replied, “Truly so; for it is written, ‘I will dwell in them, and walk in them.’ ”<sup>1411</sup> Then Trajan pronounced sentence as follows: “We command that Ignatius, who affirms that he carries about within him Him that was crucified, be bound by soldiers, and carried to the great \[city\] Rome, there to be devoured 130
 
@@ -998,7 +998,7 @@ It is doubtful if this clause should be referred to Polycarp.
 
 Or, “received.”
 
-*[PDF 245]* ^pg245
+*[p. 205]* ^pg245
 
 him, if by any means they might receive from him some<sup>1417</sup> spiritual gift), but above all, the holy Polycarp, that, by means of the wild beasts, he soon disappearing from this world, might be manifested before the face of Christ.
 
@@ -1034,7 +1034,7 @@ Or, “corrected.”
 
 Comp. [[Acts 28#^28-13|Acts xxviii. 13]], [[Acts 28#^28-14|14]].
 
-*[PDF 246]* ^pg246
+*[p. 206]* ^pg246
 
 arising did not suffer him to do so, the ship being driven rapidly forwards;<sup>1423</sup> and, simply expressing his delight<sup>1424</sup> over the love of the brethren in that place, he sailed by. Wherefore, continuing to enjoy fair winds, we were reluctantly hurried on in one day and a night, mourning \[as we did\] over the coming departure from us of this righteous man. But to him this happened just as he wished, since he was in haste as soon as possible to leave this world, that he might attain to the Lord whom he loved. Sailing then into the Roman harbour, and the unhallowed sports being just about to close, the soldiers began to be annoyed at our slowness, but the bishop rejoicingly yielded to their urgency.
 
@@ -1074,7 +1074,7 @@ i.e., in his Epistle to the Romans.
 
 The Saturnalia were then celebrated.
 
-*[PDF 247]* ^pg247
+*[p. 207]* ^pg247
 
 in more than ordinary numbers<sup>1431</sup>), he was thus cast to the wild beasts close beside the temple,<sup>1432</sup> that so by them the desire of the holy martyr Ignatius should be fulfilled, according to that which is written, “The desire of the righteous is acceptable<sup>1433</sup> \[to God\],” to the effect that he might not be troublesome to any of the brethren by the gathering of his remains, even as he had in his Epistle expressed a wish beforehand that so his end might be. For only the harder portions of his holy remains were left, which were conveyed to Antioch and wrapped<sup>1434</sup> in linen, as an inestimable treasure left to the holy Church by the grace which was in the martyr.
 

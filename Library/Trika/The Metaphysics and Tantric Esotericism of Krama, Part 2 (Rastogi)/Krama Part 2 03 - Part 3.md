@@ -255,7 +255,7 @@ Kaula Sutras. (MS),folio 2a.
 
 gga: पधाया ह्व बलिभिः पतिषत्ततः स्वात्मघमर्पणैन ।
 
-*[p. 592]* ^pg91
+*[p. 552]* ^pg91
 
 Paŝyanti as Nāda, Madhyamā as Bindu, and Vaikharī as Lipi function respectively in the respective wheels, r A Srsti, Sthiti and Sahara., This state, coming up after the with-
 
@@ -307,7 +307,7 @@ TAWPT: l
 
 करमगर्मामि स््थित्काख्यप IT, GETI जमगमर्ेऽपि दारान
 
-*[p. 595]* ^pg94
+*[p. 555]* ^pg94
 
 j J Anakhya and assume unity with it. The Kramas like Srsti etc., N E are actually reĝiscovered in order that they may attain l K identity with their prius,1 Otherwise, the very iea of
 

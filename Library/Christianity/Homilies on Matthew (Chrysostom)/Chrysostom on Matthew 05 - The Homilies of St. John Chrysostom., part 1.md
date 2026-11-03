@@ -308,7 +308,7 @@ And these things even to a laborer, and to a servant, and to a widow woman, and 
 
 Yea, for there wilt thou see true wisdom<sup>52</sup>abounding, and choirs of angels shining forth in a human body, and the commonwealth<sup>53</sup>of Heaven manifested here on earth. For a commonwealth<sup>54</sup>did these fishermen too write for us, not with commands that it should be embraced from childhood, like those others, nor making it a law that the virtuous man must be so many years old, but addressing their discourse generally to every age. For those lessons are children’s toys, but these are the truth of things.
 
-48 49 \[ἐδδαξεν.\] 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. 52 \[φιλοσοφαν=true wisdom.—R.\] 53 \[πολιτεα, in its proper case.\] 54 \[πολιτεα, in its proper case.\]
+48 \[πολιτεα.\] 49 \[ἐδδαξεν.\] 50 [[Matthew 22#^22-40|Matt. xxii. 40]]. 51 [[Matthew 07#^7-12|Matt. vii. 12]]. 52 \[φιλοσοφαν=true wisdom.—R.\] 53 \[πολιτεα, in its proper case.\] 54 \[πολιτεα, in its proper case.\]
 
 *[p. 24]* ^pg32
 
@@ -322,19 +322,21 @@ This republic<sup>58</sup>is at war not with men, but with devils, and those inc
 
 But in order that the word may be the more easy to learn, we pray and entreat you, as we have done also with respect to the other Scriptures, to take up beforehand that portion of the Scripture which we may be going to explain, that your reading may prepare the way for your understanding (as also was the case with the eunuch<sup>62</sup>), and so may greatly facilitate our task.
 
-\[πολιτεα, in its proper case.\] 55
+55 \[πολιτεα, in its proper case.\]
 
-\[πολιτεα, in its proper case.\] 56
+56 \[πολιτεα, in its proper case.\]
 
-\[πολιτεα, in its proper case.\] 57
+57 \[πολιτεα, in its proper case.\]
 
-\[πολιτεα, in its proper case.\] 58
+58 \[πολιτεα, in its proper case.\]
 
 59 \[φιλοσοφα.\]
 
-\[πολιτεα, in its proper case.\] 60
+60 \[πολιτεα, in its proper case.\]
 
-\[πολιτεα, in its proper case.\] 62 [[Acts 08#^8-28|Acts viii. 28]]. 61
+61 \[πολιτεα, in its proper case.\]
+
+62 [[Acts 08#^8-28|Acts viii. 28]].
 
 *[p. 25]* ^pg33
 

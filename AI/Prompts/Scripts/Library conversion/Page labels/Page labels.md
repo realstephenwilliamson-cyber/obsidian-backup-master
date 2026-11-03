@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Page labels
 
@@ -23,6 +23,10 @@ Read-only runner jobs that measure the page markers and the index labels of the 
 | `render-strips-pack.js` | (pf449) `render-strips.js` with all strips packed as base64 JPEGs into one file (`.work/xfer/pl28b/strips.json`), so the bridge moves one file for hundreds of pages. |
 | `decide.py` | keeps a held edit when no page it rests on reads a different number and its evidence pages read as marked; lists the contradicted pages. |
 | `oddsafe.py` | for notes whose markers are not all plain numbers: the safe case where the range only drops a label that is not a page (Cover, C1, FC, a, b, Présentation, Back Cover) at one end; writes an `edits-job2` spec. |
+| `descent-survey.js` | (pf620, 3 Nov 2026; read-only) placeholder suspects (`*[p. K]* ^pgK` that the neighbours do not continue) and printed-number descents in all Library notes, with each one's neighbours and, where both sides fix it, the expected number; writes `placeholder-suspects.json` and `descents.json` to `.work/edits/audcorr-2026-11-03/`. |
+| `run-break-survey.js` | (pf624, 3 Nov 2026; read-only) markers whose offset (printed minus PDF) differs from one shared by at least two markers on each side within four; catches runs of two or more misreads that the descent test misses. |
+| `read_compare.py` | (3 Nov 2026) renders each listed page and its PDF neighbours with `pdftoppm` (110 dpi, shuffled with a seed) for two blind readers with `page-number-fullpage-brief.txt`, then compares their readings and writes an `edits-job2` spec of the markers both read differently from the note, and a held list. |
+| `textlayer_fix.py` | (3 Nov 2026) for a born-digital PDF whose printed page is PDF minus a constant: settles every marker off that constant from the PDF's text layer (the last standalone number line of the page), recomputes each chapter's `page_range` and index label; stops at any page that does not fit. Not for scans. |
 
 The results of 26 Oct are in `.work/edits/pagelabels-2026-10-26/` (`pf270-rangescan.json`, `pf275-pagefill.json`), with the spec `.work/edits/pagefill27.json`. The rule for unnumbered pages is in the Vault Guide (page markers: a page that prints no number takes its number from the pages around it inside a numbered run, or at either end of one where the contents or the page count fixes it).
 
@@ -37,3 +41,5 @@ The results of 26 Oct are in `.work/edits/pagelabels-2026-10-26/` (`pf270-ranges
 **28 Oct 2026, fourth session (pf494–pf498):** those unnumbered pages filled by the Guide's rule, after looking at the spreads (the blank left halves of Husserl PDF 12 and Idel PDF 6 take no number): Husserl xii–xiii, 1, 2–3, 4–5; the Devi Mahatmyam's 32 `[PDF K]` pages (its contents page fixes both ends); Śivādvaita Part 2 1, 3–4, 7–8; Idel 02 p. 1. *Speak Truth to Power* 08's vi and vii (chapter numerals) → 55 and 67, PDF 83–84 unnumbered, after two blind readers; its PDF 62–63 repeat pp. 51–52 and carry a one-line note. Cyclonopedia PDF 17 → xviii (Stephen). Shastri vol. 6 PDF 202 and Śivādvaita PDF 42 print 90 and 34, as marked. 52 edits in 9 notes; check pf498 clean. Data: `.work/edits/pagelabels-2026-10-28g/`. Left: the 124 held edits; Hirschi's front matter, which skips a number between vi (PDF 4) and xiv (PDF 11).
 
 **28 Oct 2026, sixth session (pf533–pf538):** Hirschi's PDF 7, a repeat of PDF 6, carries a one-line note in place of the text. The held edits (`pagelabels-2026-10-28b/held-after-A.json`, 151 entries) sorted by `run_pinned.py` under Stephen's rule (a page that prints no number takes the run's number only where printed pages on both sides fix it exactly): 39 already done, 32 fills fit the run, no range or label had both ends fixed. Two blind readers on the full pages (`page-number-fullpage-brief.txt`; the strips had missed running heads on 19 of the 32 pages) agreed on all 65 images: 32 edits in 5 notes (Vasudeva 01–02, Rastogi's *Krama* Part 4, the *Paramārthasāra*, Rastogi's *Introduction*); check pf538 clean. Data: `.work/edits/pagelabels-2026-10-28j/`. Left: 80 entries (`held-after-28j.json`), nearly all ranges and index labels whose end pages need a full-page reading.
+
+**3 Nov 2026, audit corrections (pf620–pf630):** `descent-survey.js` and `run-break-survey.js` listed the misread printed numbers (audit D-06); two blind Fable readers read 194 pages in two rounds (`read_compare.py`), and 92 markers in 28 notes were corrected, 13 blank opening pages among them filled by the run where printed pages on both sides fix them; *The Apostolic Fathers* (born-digital, printed = PDF − 40) had all 235 markers off its run settled from the text layer (`textlayer_fix.py`), with 14 ranges and 14 index labels. Lists, readings and what is left in `.work/edits/audcorr-2026-11-03/`; the rest is in *SDK 2 - Page labels, held and misread (Nov 2026)*.

@@ -851,7 +851,7 @@ that wagon yoked to unruly horses: for this simile see KaU 3.3-6; the expression
 
 11
 
-*[p. 12]* ^pg643
+*[p. 620]* ^pg643
 
 13
 
@@ -891,7 +891,7 @@ ADHYAYA3
 
 17
 
-*[p. 13]* ^pg644
+*[p. 621]* ^pg644
 
 u A a — 4. Hauschild (1927) īśinībhih. — 5. This pāda is corrupt and cannot be reconstructed without a major emendation. I follow Rau (1964, 44) in simply dropping samcukoca. Hauschild (1927) pratyaù jann samcukocāntakāle, LV suggests dropping antakāle, SU (AnSS ed.) samcukopa for samcukoca (but Śamkarānanda and Nārāyaṇa has the latter). — 6. Hauschild (1927), Samkarānanda, vr in LV and SU (AnSS) goptā.
 
@@ -996,7 +996,7 @@ You are a woman .. . directiom = AV 10.8.27.
 
 1\. LV, Hauschild (1927) anādimāms tvam (see Rau 1964, 45).
 
-*[p. 16]* ^pg646
+*[p. 623]* ^pg646
 
 10 11 12
 
@@ -1028,7 +1028,7 @@ Benign One: see SU 3.11 n.
 
 1\. Hauschild (1927 bhuvanasyāsya mc, but unnecessary (see Rau 1964, 45). — 2. Hauschild (1927) -dhipo. — 3. LV and Rau (1964, 45) suggest yuktā rgṣayo mce, which I follow in the translation. The qualifier brahma is probably a gloss. 1. Sandhi dropped mc; cf. SU 3.1 n. 3.
 
-*[p. 17]* ^pg647
+*[p. 624]* ^pg647
 
 18
 

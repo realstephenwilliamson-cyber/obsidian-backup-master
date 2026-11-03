@@ -100,7 +100,7 @@ The only real story in the work is the account of R. Nehuniah ben HaQanah teachi
 
 *Ritual Practices*[^10] Swartz characterizes the *Ma#aseh Merkavah* as “\[a\] collection of potent prayers,” but one that did not have “an integrated praxis” for their use.[^11] This is an accurate assessment: the document consists largely of a jumble of prayers presented, sometimes with other ritual practices, to be used for visionary or theurgic purposes. That said, the two Sar Torah rites focus more on ritual actions than on prayers.
 
-In the first section the opening prayer is to be recited simply to praise God (§ 544), although it also refers to mysteries to be used for “accomplishing Torah.” Other prayers are to be used to bring about a vision of the celestial bridges (§§ 547–548), and a vision of angels (§§ 550–551). There is also reference to a song that induces a vision of the chariot and grants theurgic powers, although the song itself seems not to be given (§ 557). As noted above, Swartz has argued convincingly that the prayers in section I were composed for other purposes and incorporated secondarily into this work. Indeed, the song in § 551 is a variant version of *#Alay le-shabbeaḣ*, known from the Jewish liturgy.
+In the first section the opening prayer is to be recited simply to praise God (§ 544), although it also refers to mysteries to be used for “accomplishing Torah.” Other prayers are to be used to bring about a vision of the celestial bridges (§§ 547–548), and a vision of angels (§§ 550–551). There is also reference to a song that induces a vision of the chariot and grants theurgic powers, although the song itself seems not to be given (§ 557). As noted above, Swartz has argued convincingly that the prayers in section I were composed for other purposes and incorporated secondarily into this work. Indeed, the song in § 551 is a variant version of *\#Alay le-shabbeaḣ*, known from the Jewish liturgy.
 
 In M22 alone we find a prayer attributed to R. Ishmael which is apparently meant to be used as a theurgic invocation (§§ 552–553).
 
@@ -147,7 +147,7 @@ Janowitz. *The Poetics of Ascent*.
 
 Schäfer, Peter. Pages 77–95 in *The Hidden and Manifest God*.
 
-Swartz, Michael D. “*#Alay le-shabbeaḣ*: A Liturgical Prayer in *Ma#aśeh Merkabah*.” *JQR* 77 (1986–1987): 179–190.
+Swartz, Michael D. “*\#Alay le-shabbeaḣ*: A Liturgical Prayer in *Ma#aśeh Merkabah*.” *JQR* 77 (1986–1987): 179–190.
 
 ———. “Liturgical Elements in Early Jewish Mysticism: A Literary Analysis of *Ma#aseh Merkavah*.”
 

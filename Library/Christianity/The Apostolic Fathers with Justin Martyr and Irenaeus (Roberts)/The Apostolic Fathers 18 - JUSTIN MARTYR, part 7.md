@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 18
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 2583–507
+page_range: 472–507
 pdf_pages: 512–547
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 17 - JUSTIN MARTYR, part 6|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 19 - IRENUS, part 1|next →]]
 
-*[PDF 512]* ^pg512
+*[p. 472]* ^pg512
 
 certainly never mentions the name of “the devil,” yet gives him a name from his wickedest action. For the poet, calling him Ate,<sup>2572</sup> says that he was hurled from heaven by their god, just as if he had a distinct remembrance of the expressions which Isaiah the prophet had uttered regarding him. He wrote thus in his own poem:<sup>2573</sup>—“And, seizing by her glossy locks The goddess Ate, in his wrath he swore That never to the starry skies again, And the Olympian heights, he would permit The universal mischief to return.
 
@@ -24,7 +24,7 @@ And Plato, too, when he says that form is the third original principle next to G
 
 286 ᾽Ατη, the goddess of mischief, from whom spring all rash, blind deeds and their results. 2572 *Iliad*, xix. 126. 2573 Ex. xxv. 2574 Ex. xxv. 9. 2575 Ex. xxv. 40.
 
-*[PDF 513]* ^pg513
+*[p. 473]* ^pg513
 
 #### Chapter XXX.—Homer’s knowledge of man’s origin.
 
@@ -52,7 +52,7 @@ Gen. iii. 19.
 
 *Iliad*, vii. 99.
 
-*[p. 2583]* ^pg514
+*[p. 474]* ^pg514
 
 #### Chapter XXXI.—Further proof of Plato’s acquaintance with Scripture.
 
@@ -64,7 +64,7 @@ And if any one will attentively consider the gift that descends from God on the 
 
 287 Ezek. xi. 22. 2582 1 Kings xix. 11, 12.
 
-*[p. 2584]* ^pg515
+*[p. 475]* ^pg515
 
 the prophets said of the Holy Spirit. For to this effect he spoke in the dialogue with Meno towards the close: “From this reasoning, Meno, it appears that virtue comes to those to whom it does come by a divine destiny. But we shall know clearly about this, in what kind of way virtue comes to men, when, as a first step, we shall have set ourselves to investigate, as an independent inquiry, what virtue itself is.” You see how he calls only by the name of virtue, the gift that descends from above; and yet he counts it worthy of inquiry, whether it is right that this \[gift\] be called virtue or some other thing, fearing to name it openly the Holy Spirit, lest he should seem to be following the teaching of the prophets.
 
@@ -78,7 +78,7 @@ And if any person investigates the subject of images, and inquires on what groun
 
 Literally, “those without.”
 
-*[PDF 516]* ^pg516
+*[p. 476]* ^pg516
 
 but merely propounded by some allegorical device in their own writings what they had learned from Moses and the other prophets.
 
@@ -92,7 +92,7 @@ And if “the discovery of the truth” be given among them as one definition of
 
 288 Literally, “sacred men.” 2585 \[A noteworthy apology for early Christian writers.\]
 
-*[PDF 517]* ^pg517
+*[p. 477]* ^pg517
 
 if Socrates, the wisest of your wise men, to whom even your oracle, as you yourselves say, bears witness, saying, “Of all men Socrates is the wisest”—if he confesses that he knows nothing, how did those who came after him profess to know even things heavenly? For Socrates said that he was on this account called wise, because, while other men pretended to know what they were ignorant of, he himself did not shrink from confessing that he knew nothing. For he said, “I seem to myself to be wisest by this little particular, that what I do not know, I do not suppose I know.” Let no one fancy that Socrates ironically feigned ignorance, because he often used to do so in his dialogues. For the last expression of his apology which he uttered as he was being led away to the prison, proves that in seriousness and truth he was confessing his ignorance: “But now it is time to go away, I indeed to die, but you to live. And which of us goes to the better state, is hidden to all but God.” Socrates, indeed, having uttered this last sentence in the Areopagus, departed to the prison, ascribing to God alone the knowledge of those things which are hidden from us; but those who came after him, though they are unable to comprehend even earthly things, profess to understand things heavenly as if they had seen them. Aristotle at least—as if he had seen things heavenly with greater accuracy than Plato—declared that God did not exist, as Plato said, in the fiery substance (for this was Plato’s doctrine) but in the fifth element, air. And while he demanded that concerning these matters he should be believed on account of the excellence of his language, he yet departed this life because he was overwhelmed with the infamy and disgrace of being unable to discover even the nature of the Euripus in Chalcis.<sup>2587</sup> Let not any one, therefore, of sound judgment prefer the elegant diction of these men to his own salvation, but let him, according to that old story, stop his ears with wax, and flee the sweet hurt which these sirens would inflict upon him. For the above-mentioned men, presenting their elegant language as a kind of bait, have sought to seduce many from the right religion, in imitation of him who dared to teach the first men polytheism. Be not persuaded by these persons, I entreat you, but read the prophecies of the sacred writers.<sup>2588</sup> And if any slothfulness or old hereditary superstition prevents you from reading the prophecies of the holy men through which you can be instructed regarding the one only God, which is the first article of the true religion, yet believe him who, though at first he taught you polytheism, yet afterwards preferred to sing a useful and necessary recantation—I mean Orpheus, who said what I quoted a little before; and believe the others who wrote the same things concerning one God. For it was the work of Divine Providence on your behalf, that they, though unwillingly, bore testimony that what the prophets said regarding one God was true, in order that, the doctrine of a plurality of gods being rejected by all, occasion might be afforded you of knowing the truth.
 
@@ -102,7 +102,7 @@ This is now supposed to be fable.
 
 Literally, “sacred men.”
 
-*[PDF 518]* ^pg518
+*[p. 478]* ^pg518
 
 #### Chapter XXXVII.—Of the Sibyl.
 
@@ -116,7 +116,7 @@ which is still a part of the one stone; and sitting in the middle of the chamber
 
 \[In Grabe’s edition consult notes of Lang and Kortholt, ii. p. 45.\] \[Travellers must recognise the agreement of Justin’s story with the traditional cave still shown in this region.\]
 
-*[PDF 519]* ^pg519
+*[p. 479]* ^pg519
 
 when he said this about prophets, for he said, “When they correctly speak of many and important matters, and yet know nothing of what they are saying.
 
@@ -130,7 +130,7 @@ But since, ye men of Greece, the matters of the true religion lie not in the met
 
 \[N.B.— This work is not supposed to be Justin’s by modern critics.\]
 
-*[PDF 520]* ^pg520
+*[p. 480]* ^pg520
 
 ### On the Sole Government of God
 
@@ -302,7 +302,7 @@ The same also in *Hippolytus*:—“But on these points the gods do not judge ri
 
 And in *Ion*:—“But in the daughter of Erechtheus What interest have I? for that pertains Not unto such as me. But when I come With golden vessels for libations, I The dew shall sprinkle, and yet needs must warn Apollo of his deeds; for when he weds Maidens by force, the children secretly Begotten he betrays, and then neglects When dying. Thus not you; but while you may Always pursue the virtues, for the gods Will surely punish men of wickedness. How is it right that you, who have prescribed Laws for men’s guidance, live unrighteously? But ye being absent, I shall freely speak, And ye to men shall satisfaction give For marriage forced, thou Neptune, Jupiter, Who over heaven presides. The temples ye Have emptied, while injustice ye repay.
 
-*[PDF 527]* ^pg527
+*[p. 487]* ^pg527
 
 And though ye laud the prudent to the skies, Yet have ye filled your hands with wickedness. No longer is it right to call men ill If they do imitate the sins<sup>2607</sup> of gods;<sup>2608</sup> Nay, evil let their teachers rather be.”
 
@@ -319,7 +319,7 @@ The same also in the *Piscatores*:—“For I deem that which nourishes my life
 260\. 7 κακά in Euripedes, καλά in text. 2608 \[See Warburton’s *Divine Legation* (book ii. § 4), vol. ii. p. 20. Ed. London, 1811.\] These lines are assigned to Diphilus.
 
 
-*[PDF 528]* ^pg528
+*[p. 488]* ^pg528
 
 Is God; but he whose custom ’tis to meet The wants of men,—He needs not at our hands Renewed supplies, Himself being all in all.”<sup>2610</sup>
 
@@ -359,7 +359,7 @@ The words from “but” to “all” are assigned by Otto to Justin, not to Men
 
 See chap. i., the opening sentence.
 
-*[p. 2613]* ^pg529
+*[p. 489]* ^pg529
 
 ### On the Resurrection, Fragments
 
@@ -380,7 +380,7 @@ The word of truth is free, and carries its own authority, disdaining to fall und
 261\. 2 \[N. B.—This tractate is probably the genuine work of Justin.\] 295 [[Mark 12#^12-25|Mark xii. 25]].
 
 
-*[p. 2614]* ^pg530
+*[p. 490]* ^pg530
 
 things which reason hunts after, to sense, and by it judge what kind of things they are, whether the things spoken be true or false, and then sit in judgment no longer, giving full credit to its decision; so also we refer all that is said regarding men and the world to the truth, and by it judge whether it be worthless or no. But the utterances of truth we judge by no separate test, giving full credit to itself. And God, the Father of the universe, who is the perfect intelligence, is the truth. And the Word, being His Son, came to us, having put on flesh, revealing both Himself and the Father, giving to us in Himself resurrection from the dead, and eternal life afterwards. And this is Jesus Christ, our Saviour and Lord. He, therefore, is Himself both the faith and the proof of Himself and of all things. Wherefore those who follow Him, and know Him, having faith in Him as their proof, shall rest in Him. But since the adversary does not cease to resist many, and uses many and divers arts to ensnare them, that he may seduce the faithful from their faith, and that he may prevent the faithless from believing, it seems to me necessary that we also, being armed with the invulnerable doctrines of the faith, do battle against him in behalf of the weak.
 
@@ -388,7 +388,7 @@ things which reason hunts after, to sense, and by it judge what kind of things t
 
 They who maintain the wrong opinion say that there is no resurrection of the flesh; giving as their reason that it is impossible that what is corrupted and dissolved should be restored to the same as it had been. And besides the impossibility, they say that the salvation of the flesh is disadvantageous; and they abuse the flesh, adducing its infirmities, and declare that it only is the cause of our sins, so that if the flesh, say they, rise again, our infirmities also rise with it. And such sophistical reasons as the following they elaborate: If the flesh rise again, it must rise either entire and possessed of all its parts, or imperfect. But its rising imperfect argues a want of power on God’s part, if some parts could be saved, and others not; but if all the parts are saved, then the body will manifestly have all its members. But is it not absurd to say that these members will exist after the resurrection from the dead, since the Saviour said, “They neither marry, nor are given in marriage, but shall be as the angels in heaven?”<sup>2614</sup> And the angels, say they, have neither flesh, nor do they eat, nor have sexual intercourse; therefore there shall be no resurrection of the flesh. By these and such like arguments, they attempt to distract men from the faith. And there are some who maintain that even Jesus Himself appeared only as spiritual, and not in flesh, but presented merely the appearance of flesh: these persons seek to rob the flesh of the promise. First, then, let us solve those things which seem to them to be insoluble; then we will introduce in an orderly manner the demonstration concerning the flesh, proving that it partakes of salvation.
 
-*[PDF 531]* ^pg531
+*[p. 491]* ^pg531
 
 #### Chapter III.—If the members rise, must they discharge the same functions as now?
 
@@ -398,7 +398,7 @@ That is to say, their lives are a protest against entering into marriage for any
 
 i.e., to the devil. \[St. [[John 12#^12-31|John xii. 31]], [[John 14#^14-30|John xiv. 30]], [[John 16#^16-11|John xvi. 11]].\] 2616
 
-*[PDF 532]* ^pg532
+*[p. 492]* ^pg532
 
 #### Chapter IV.—Must the deformed rise deformed?
 
@@ -413,7 +413,7 @@ But again, of those who maintain that the flesh has no resurrection, some assert
 262\. 0 i.e., by actually happening under our observation. 2622 ἔξωθεν, “without” or “outside,” to which reference is made in the next clause, which may be translated, “because nothing 2623 is outside God,” or, “because to God nothing is ‘without’ ” κοσμικῶν, arguments drawn from the laws by which the world is governed. 2624 τὸ κενόν, the void of space in which the infinity of atoms moved.
 
 
-*[p. 2625]* ^pg533
+*[p. 493]* ^pg533
 
 accomplished, this too would be much more incredible than the other; but it is rendered more credible by accomplishment.<sup>2622</sup> But even in the case of the resurrection the Saviour has shown us accomplishments, of which we will in a little speak. But now we are demonstrating that the resurrection of the flesh is possible, asking pardon of the children of the Church if we adduce arguments which seem to be secular<sup>2623</sup> and physical:<sup>2624</sup> first, because to God nothing is secular, not even the world itself, for it is His workmanship; and secondly, because we are conducting our argument so as to meet unbelievers. For if we argued with believers, it were enough to say that we believe; but now we must proceed by demonstrations. The foregoing proofs are indeed quite sufficient to evince the possibility of the resurrection of the flesh; but since these men are exceedingly unbelieving, we will further adduce a more convincing argument still, —an argument drawn not from faith, for they are not within its scope, but from their own mother unbelief,—I mean, of course, from physical reasons. For if by such arguments we prove to them that the resurrection of the flesh is possible, they are certainly worthy of great contempt if they can be persuaded neither by the deliverances of faith nor by the arguments of the world.
 
@@ -421,7 +421,7 @@ accomplished, this too would be much more incredible than the other; but it is r
 
 Those, then, who are called natural philosophers, say, some of them, as Plato, that the universe is matter and God; others, as Epicurus, that it is atoms and the void;<sup>2625</sup> others, like the Stoics, that it is these four—fire, water, air, earth. For it is sufficient to mention the most prevalent opinions. And Plato says that all things are made from matter by God, and according to His design; but Epicures and his followers say that all things are made from the atom and the void by some kind of self-regulating action of the natural movement of the bodies; and the Stoics, that all are made of the four elements, God pervading them. But while there is such discrepancy among them, there are some doctrines acknowledged by them all in common, one of which is that neither can anything be produced from what is not in being, nor anything be destroyed or dissolved into what has not any being, and that the elements exist indestructible out of which all things are generated. And this being so, the regeneration of the flesh will, according to all these philosophers, appear to be possible. For if, according to Plato, it is matter and God, both these are indestructible and God; and God indeed occupies the position of an artificer, to wit, a potter; and matter occupies the place of clay or wax, or some such thing. That, then, which is formed of matter, be it an image or a statue, is
 
-*[p. 2626]* ^pg534
+*[p. 494]* ^pg534
 
 destructible; but the matter itself is indestructible, such as clay or wax, or any other such kind of matter. Thus the artist designs in the clay or wax, and makes the form of a living animal; and again, if his handiwork be destroyed, it is not impossible for him to make the same form, by working up the same material, and fashioning it anew. So that, according to Plato, neither will it be impossible for God, who is Himself indestructible, and has also indestructible material, even after that which has been first formed of it has been destroyed, to make it anew again, and to make the same form just as it was before. But according to the Stoics even, the body being produced by the mixture of the four elementary substances, when this body has been dissolved into the four elements, these remaining indestructible, it is possible that they receive a second time the same fusion and composition, from God pervading them, and so re-make the body which they formerly made. Like as if a man shall make a composition of gold and silver, and brass and tin, and then shall wish to dissolve it again, so that each element exist separately, having again mixed them, he may, if he pleases, make the very same composition as he had formerly made. Again, according to Epicurus, the atoms and the void being indestructible, it is by a definite arrangement and adjustment of the atoms as they come together, that both all other formations are produced, and the body itself; and 297
 
@@ -433,7 +433,7 @@ But the proof of the possibility of the resurrection of the flesh I have suffici
 
 Or, “citizenship.”
 
-*[PDF 535]* ^pg535
+*[p. 495]* ^pg535
 
 genesis and formation of man at the first, and why the things in the world were made.<sup>2627</sup> For does not the word say, “Let Us make man in our image, and after our likeness?”<sup>2628</sup> What kind of man? Manifestly He means fleshly man, For the word says, “And God took dust of the earth, and made man.”<sup>2629</sup> It is evident, therefore, that man made in the image of God was of flesh. Is it not, then, absurd to say, that the flesh made by God in His own image is contemptible, and worth nothing? But that the flesh is with God a precious possession is manifest, first from its being formed by Him, if at least the image is valuable to the former and artist; and besides, its value can be gathered from the creation of the rest of the world. For that on account of which the rest is made, is the most precious of all to the maker.
 
@@ -457,7 +457,7 @@ Gen. ii. 7.
 
 [[Mark 02#^2-17|Mark ii. 17]].
 
-*[PDF 536]* ^pg536
+*[p. 496]* ^pg536
 
 we not so blame God? But not such an one is the Incorruptible,—not senseless is the Intelligence of the universe. Let the unbelieving be silent, even though they themselves do not believe.
 
@@ -475,7 +475,7 @@ reading is, however, defensible. Justin means that the flesh was not merely part
 
 It is supposed that a part of the treatise has been here dropped out.
 
-*[p. 2634]* ^pg537
+*[p. 497]* ^pg537
 
 If He had no need of the flesh, why did He heal it? And what is most forcible of all, He raised the dead. Why? Was it not to show what the resurrection should be? How then did He raise the dead? Their souls or their bodies? Manifestly both. If the resurrection were only spiritual, it was requisite that He, in raising the dead, should show the body lying apart by itself, and the soul living apart by itself. But now He did not do so, but raised the body, confirming in it the promise of life. Why did He rise in the flesh in which He suffered, unless to show the resurrection of the flesh? And wishing to confirm this, when His disciples did not know whether to believe He had truly risen in the body, and were looking upon Him and doubting, He said to them, “Ye have not yet faith, see that it is I;”<sup>2633</sup> and He let them handle Him, and showed them the prints of the nails in His hands. And when they were by every kind of proof persuaded that it was Himself, and in the body, they asked Him to eat with them, that they might thus still more accurately ascertain that He had in verity risen bodily; and He did eat honey-comb and fish. And when He had thus shown them that there is truly a resurrection of the flesh, wishing to show them this also, that it is not impossible for flesh to ascend into heaven (as He had said that our dwelling-place is in heaven), “He was taken up into heaven while they beheld,”<sup>2634</sup> as He was in the flesh. If, therefore, after all that has been said, any one demand demonstration of the resurrection, he is in no respect different from the Sadducees, since the resurrection of the flesh is the power of God, and, being above all reasoning, is established by faith, and seen in works.
 
@@ -546,7 +546,7 @@ And Justin of Neapolis, a man who was not far separated from the apostles either
 
 VI.
 
-*[p. 2637]* ^pg540
+*[p. 500]* ^pg540
 
 #### VII.
 
@@ -574,7 +574,7 @@ By the two birds<sup>2637</sup> Christ is denoted, both dead as man, and living 
 
 301 See Lev. xiv. 49–53.
 
-*[p. 2639]* ^pg541
+*[p. 501]* ^pg541
 
 #### XI.
 
@@ -598,7 +598,7 @@ Literally, “living.”
 
 The Gentiles are here referred to, who saw no necessity for the incarnation.
 
-*[p. 2640]* ^pg542
+*[p. 502]* ^pg542
 
 #### XIV.
 
@@ -620,7 +620,7 @@ And the fact that it was not said of the seventh day equally with the other days
 
 302 Jer. ii. 19, etc. (LXX.)
 
-*[p. 2641]* ^pg543
+*[p. 503]* ^pg543
 
 #### XVI.
 
@@ -654,7 +654,7 @@ It escapes them apparently, that he who has by a true faith come forth from erro
 
 It is doubtful if these words are really Justin’s, or, if so, from which, or what part, of his *Apologies* they are derived.
 
-*[PDF 544]* ^pg544
+*[p. 504]* ^pg544
 
 ### The Martyrdom of Justin Martyr
 
@@ -683,7 +683,7 @@ In the time of the lawless partisans of idolatry, wicked decrees were passed aga
 264\. 2 identify this history; but, then, he also connects it with the reign of Hadrian. Ed. Oehler, tom ii. 709. Berlin, 1859.\] i.e., the emperors. Μετὰ δόγματος ὀρθοῦ, orthodoxy. 2644 That is, that a prophetic inspiration is required to speak worthily of Christ.
 
 
-*[PDF 545]* ^pg545
+*[p. 505]* ^pg545
 
 is worthy neither of blame nor of condemnation.” Rusticus the prefect said, “What kind of doctrines do you profess?” Justin said, “I have endeavoured to learn all doctrines; but I have acquiesced at last in the true doctrines, those namely of the Christians, even though they do not please those who hold false opinions.” Rusticus the prefect said, “Are those the doctrines that please you, you utterly wretched man?” Justin said, “Yes, since I adhere to them with right dogma.”<sup>2644</sup> Rusticus the prefect said, “What is the dogma?” Justin said, “That according to which we worship the God of the Christians, whom we reckon to be one from the beginning, the maker and fashioner of the whole creation, visible and invisible; and the Lord Jesus Christ, the Son of God, who had also been preached beforehand by the prophets as about to be present with the race of men, the herald of salvation and teacher of good disciples. And I, being a man, think that what I can say is insignificant in comparison with His boundless divinity, acknowledging a certain prophetic power,<sup>2645</sup> since it was prophesied concerning Him of whom now I say that He is the Son of God. For I know that of old the prophets foretold His appearance among men.”
 

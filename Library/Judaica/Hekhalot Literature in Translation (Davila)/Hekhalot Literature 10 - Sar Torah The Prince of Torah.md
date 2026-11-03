@@ -364,7 +364,7 @@ bb “Thus was Israel” N O M40 D *⟨*V*⟩* \] “For Israel was in My eyes�
 
 dd “against it” O M22 V B \] “against them” N; om M40 D. The masc. sg. pronoun “it” anticipates the “it” in the quotation of Isa 5:25.
 
-ee “*and I struck it*” (Isa 5:25) O M40 M22 D V B \] “and I struck them and on account of them” N. V adds “*⟨*and on account of them*⟩*.” The masc. sg. pronoun “it” is spelled differently from in the MT and it refers back to the masc. sg. noun “My people” (*#mw*) earlier in the verse, outside the quotation. ff “*their corpses*” (Isa 5:25) O M40 M22 D V B \] “the corpses of My people” N gg “*like dirt*” (Isa 5:25) O M40 M22 D V B \] “in its (?) secret counsel” (corrupt) N
+ee “*and I struck it*” (Isa 5:25) O M40 M22 D V B \] “and I struck them and on account of them” N. V adds “*⟨*and on account of them*⟩*.” The masc. sg. pronoun “it” is spelled differently from in the MT and it refers back to the masc. sg. noun “My people” (*\#mw*) earlier in the verse, outside the quotation. ff “*their corpses*” (Isa 5:25) O M40 M22 D V B \] “the corpses of My people” N gg “*like dirt*” (Isa 5:25) O M40 M22 D V B \] “in its (?) secret counsel” (corrupt) N
 
 *[p. 178]* ^pg187
 

@@ -360,7 +360,7 @@ Come, O Mother, come!””
 
 herself. And she looks like the embodiment of 
 
-*[p. 14]* ^pg74
+*[p. 64]* ^pg74
 
 Prabuddba Bharata 
 
@@ -396,7 +396,7 @@ So, alright, if Swamiji loves suffering, fine.
 
 We'll go to Sri Ramakrishna about this. But what does Sri Ramakrishna have to say about it? Well, surprisingly, almost nothing. If we go through The Gospel of Sri Ramakrishna, we never find the Master telling us to pray to the the ego, all our desires, likes and dis- A\*@aMudra expect the Lord to be compassionate, to remove 
 
-*[p. 15]* ^pg75
+*[p. 65]* ^pg75
 
 Lord to be free from suffering. For him, talking about suffering was almost beside the point. Rather, he encouraged the devotees to pray only for pure, motiveless love for God, and for knowledge and discrimination. 
 
@@ -420,7 +420,7 @@ But why? For me, the key to the rest of the answer is what Sri Ramakrishna told 
 
 As Sri Ramakrishna says, we have originated from Shakti, so we ave her children. Will a child not acknowledge its own mother? Moreover, as Sri Ramakrishna says, we move and walk by means of her power—like the snake in motion. So we must acknowledge that power of our mother. That power is dwelling right within 
 
-*[PDF 76]* ^pg76
+*[p. 66]* ^pg76
 
 us. Through this power we function. Again, we can remain in ignorance or we can acknowledge her, realise her, and become free. She is one with Brahman, so it is through her—through her grace—that we realise Brahman. Thus we must worship that mother and take refuge, like a child, in that mother. And that Mother Goddess whom Sri Ramakrishna himself acknowledged was Kali. 
 

@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 22
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 628–3248
+page_range: 628–667
 pdf_pages: 668–707
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -48,7 +48,7 @@ It seems needless to insert an “et” before this word, as Harvey suggests, or
 
 Propatoris.”
 
-*[PDF 670]* ^pg670
+*[p. 630]* ^pg670
 
 not be ignorant of him who emitted them, any more than rays \[may be supposed to be\] of the sun. It is impossible, therefore, that the Sophia (wisdom) of God, she who is within the Pleroma, inasmuch as she has been produced in such a manner, should have fallen under the influence of passion, and conceived such ignorance. But it is possible that that Sophia (wisdom) who pertains to \[the scheme\] of Valentinus, inasmuch as she is a production of the devil, should fall into every kind of passion, and exhibit the profoundest ignorance. For when they themselves bear testimony concerning their mother, to the effect that she was the offspring of an erring Æon, we need no longer search for a reason why the sons of such a mother should be ever swimming in the depths of ignorance.
 
@@ -58,7 +58,7 @@ not be ignorant of him who emitted them, any more than rays \[may be supposed to
 
 383 Some read “cæcutientes” instead of “circumeuntes,” as above. 3078 [[John 09#^9-1|John ix. 1]], etc. 3079 [[1 Peter 01#^1-12|1 Pet. i. 12]].
 
-*[PDF 671]* ^pg671
+*[p. 631]* ^pg671
 
 As ye affirm that Christ was generated<sup>3081</sup> after the rest, and yet declare that he was produced perfect, much more then should Logos, who is anterior to him in age, be produced by the same Nous, unquestionably perfect, and not blind; nor could he, again, have produced Æons still blinder than himself, until at last your Sophia, always utterly blinded, gave birth to so vast a body of evils. And your Father is the cause of all this mischief; for ye declare the magnitude and power of your Father to be the causes of ignorance, assimilating Him to Bythus, and assigning this as a name to Him who is the unnameable Father. But if ignorance is an evil, and ye declare all evils to have derived their strength from it, while ye maintain that the greatness and power of the Father is the cause of this ignorance, ye do thus set Him forth as the author of \[all\] evils. For ye state as the cause of evil this fact, that \[no one\] could contemplate His greatness. But if it was really impossible for the Father to make Himself known from the beginning to those \[beings\] that were formed by Him, He must in that case be held free from blame, inasmuch as He *could not* remove the ignorance of those who came after Him. But if, at a subsequent period, when He so willed it, He *could* take away that ignorance which had increased with the successive productions as they followed each other, and thus become deeply seated in the Æons, much more, had He so willed it might He formerly have prevented that ignorance, which as yet was not, from coming into existence.
 
@@ -74,7 +74,7 @@ remarks that τῶν λοιπῶν would have been better, and proposes to read 
 
 Literally, “to these knowing,” “his scientibus.”
 
-*[PDF 672]* ^pg672
+*[p. 632]* ^pg672
 
 also on account of His infinite love to have preserved those impassible who were produced by Him, since nothing hindered, and expediency rather required, that they should have known from the beginning that the Father was altogether incomprehensible.
 
@@ -88,7 +88,7 @@ also on account of His infinite love to have preserved those impassible who were
 
 384 [[Matthew 07#^7-7|Matt. vii. 7]]. 3084 It seems necessary to read “se quidem” instead of “si quidem,” as in the mss.
 
-*[p. 3087]* ^pg673
+*[p. 633]* ^pg673
 
 the Æons \[have been made perfect\] through means of this, that He is unsearchable who was inquired after by them.
 
@@ -116,7 +116,7 @@ who have invented such opinions have rather had an idea and mental conception of
 
 1\. But what sort of talk also is this concerning their seed—that it was conceived by the mother according to the configuration of those angels who wait upon the Saviour,—shapeless, without
 
-*[p. 3089]* ^pg675
+*[p. 635]* ^pg675
 
 form, and imperfect; and that it was deposited in the Demiurge without his knowledge, in order that through his instrumentality it might attain to perfection and form in that soul which he had, \[so to speak,\] filled with seed? This is to affirm, in the first place, that those angels who wait upon their Saviour are imperfect, and without figure or form; if indeed that which was conceived according to their appearance was generated any such kind of being \[as has been described\].
 
@@ -126,7 +126,7 @@ form, and imperfect; and that it was deposited in the Demiurge without his knowl
 
 386 [[Matthew 12#^12-36|Matt. xii. 36]]. \[The serious spirit of this remark lends force to it as exposition.\] 3088 Comp. i. 6, 1.
 
-*[PDF 676]* ^pg676
+*[p. 636]* ^pg676
 
 4\. Further, it is also a most absurd and groundless thing for them to say that the seed was, by being thus deposited, reduced to form and increased, and so was prepared for all the reception of perfect rationality. For there will be in it an admixture of matter —that substance which they hold to have been derived from ignorance and defect; \[and this will prove itself\] more apt and useful than was the light of their Father, if indeed, when born, according to the contemplation of that \[light\], it was without form or figure, but derived from this \[matter\], form, and appearance, and increase, and perfection. For if that light which proceeds from the Pleroma was the cause to a spiritual being that it possessed neither form, nor appearance, nor its own special magnitude, while its descent to this world added all these things to it, and brought it to perfection, then a sojourn here (which they also term darkness) would seem much more efficacious and useful than was the light of their Father. But how can it be regarded as other than ridiculous, to affirm that their mother ran the risk of being almost extinguished in matter, and was almost on the point of being destroyed by it, had she not then with difficulty stretched herself outwards, and leaped, \[as it were,\] out of herself, receiving assistance from the Father; but that her seed increased in this same matter, and received a form, and was made fit for the reception of perfect rationality; and this, too, while “bubbling up” among substances dissimilar and unfamiliar to itself, according to their own declaration that the earthly is opposed to the spiritual, and the spiritual to the earthly? How, then, could “a little particle,”<sup>3090</sup> as they say, increase, and receive shape, and reach perfection, in the midst of substances contrary to and unfamiliar to itself?
 
@@ -144,7 +144,7 @@ the reception of perfect reason.
 
 Or, “on beholding Him.”
 
-*[p. 3096]* ^pg677
+*[p. 637]* ^pg677
 
 fit for the reception of perfect reason? If, then, he obtains form in mere earthly and animal men, he can no longer be said to be after the likeness of angels whom they call lights, but \[after the likeness\] of those men who are here below. For he will not possess in that case the likeness and appearance of angels, but of those souls in whom also he receives shape; just as water when poured into a vessel takes the form of that vessel, and if on any occasion it happens to congeal in it, it will acquire the form of the vessel in which it has thus been frozen, since souls themselves possess the figure<sup>3093</sup> of the body \[in which they dwell\]; for they themselves have been adapted to the vessel \[in which they exist\], as I have said before. If, then, that seed \[referred to\] is here solidified and formed into a definite shape, it will possess the figure of a man. and not the form of the angels. How is it possible, therefore, that that seed should be after images of the angels, seeing it has obtained a form after the likeness of men? Why, again, since it was of a spiritual nature, had it any need of descending into flesh? For what is carnal stands in need of that which is spiritual, if indeed it is to be saved, that in it it may be sanctified and cleared from all impurity, and that what is mortal may be swallowed up by immortality;<sup>3094</sup> but that which is spiritual has no need whatever of those things which are 387
 
@@ -168,7 +168,7 @@ the principles of the heretics, to belong to the favoured “seed,” and should
 
 [[1 Corinthians 01#^1-26|1 Cor. i. 26]], [[1 Corinthians 01#^1-28|28]], somewhat loosely quoted.
 
-*[p. 3097]* ^pg678
+*[p. 638]* ^pg678
 
 8\. As to the point, then, that their system is weak and untenable as well as utterly chimerical, enough has been said. For it is not needful, to use a common proverb, that one should drink up the ocean who wishes to learn that its water is salt. But, just as in the case of a statue which is made of clay, but coloured on the outside that it may be thought to be of gold, while it really is of clay, any one who takes out of it a small particle, and thus laying it open reveals the clay, will set free those who seek the truth from a false opinion; in the same way have I (by exposing not a small part only, but the several heads of their system which are of the greatest importance) shown to as many as do not wish wittingly to be led astray, what is wicked, deceitful, seductive, and pernicious, connected with the school of the Valentinians, and all those other heretics who promulgate<sup>3097</sup> wicked opinions respecting the Demiurge, that is, the Fashioner and Former of this universe, and who is in fact the only true God—exhibiting, \[as I have done,\] how easily their views are overthrown.
 
@@ -180,7 +180,7 @@ the principles of the heretics, to belong to the favoured “seed,” and should
 
 “Male tractant;” literally, *handle badly*.
 
-*[PDF 679]* ^pg679
+*[p. 639]* ^pg679
 
 they hold that He preached \[only\] for one year after His baptism. They maintain also that the same thing was clearly set forth in the case of her who suffered from the issue of blood. For the woman suffered during twelve years, and through touching the hem of the Saviour’s garment she was made whole by that power which went forth from the Saviour, and which, they affirm, had a previous existence. For that Power who suffered was stretching herself outwards and flowing into immensity, 388
 
@@ -204,7 +204,7 @@ The text is here uncertain. Most editions read “et quæ non cederet,” but Ha
 
 “Corruptum hominem.”
 
-*[PDF 680]* ^pg680
+*[p. 640]* ^pg680
 
 gave gifts to men,”<sup>3102</sup> and conferred on those that believe in Him the power “to tread upon serpents and scorpions, and on all the power of the enemy,”<sup>3103</sup> that is, of the leader of apostasy. Our Lord also by His passion destroyed death, and dispersed error, and put an end to corruption, and destroyed ignorance, while He manifested life and revealed truth, and bestowed the gift of incorruption. But their Æon, when she had suffered, established<sup>3104</sup> ignorance, and brought forth a substance without shape, out of which all material works have been produced—death, corruption, error, and such like.
 
@@ -823,7 +823,7 @@ Grabe and Massuet read, “Si autem animæ perire inciperent, nisi justæ fuisse
 
 inciperent nisi justæ fuissent,”—words which defy all translation.
 
-*[PDF 706]* ^pg706
+*[p. 666]* ^pg706
 
 with the souls, will enter<sup>3242</sup> into immortality? For righteousness will appear, in matters of this kind, either impotent or unjust, if indeed it saves some substances through participating in it, but not others.
 
@@ -843,7 +843,7 @@ intellectual substance, then all are saved alike; but if by reason of any moral 
 
 The syntax of this sentence is in utter confusion, but the meaning is doubtless that given above.
 
-*[p. 3248]* ^pg707
+*[p. 667]* ^pg707
 
 #### Chapter XXX.—Absurdity of their styling themselves spiritual, while the Demiurge is declared to be animal.
 

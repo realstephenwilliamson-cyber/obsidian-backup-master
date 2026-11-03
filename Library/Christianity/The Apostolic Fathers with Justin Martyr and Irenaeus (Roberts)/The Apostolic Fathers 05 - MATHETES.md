@@ -4,7 +4,7 @@ work: "[[Roberts (ed.) - The Apostolic Fathers with Justin Martyr and Irenaeus]]
 book: "[[Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)/The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)]]"
 order: 5
 source_pdf: Library/Christianity/The Apostolic Fathers with Justin Martyr and Irenaeus.pdf
-page_range: 263–264
+page_range: 43–54
 pdf_pages: 83–94
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Apostolic Fathers 04 - CLEMENT OF ROME|← previous]] · [[The Apostolic Fathers with Justin Martyr and Irenaeus (Roberts)|contents]] · [[The Apostolic Fathers 06 - POLYCARP|next →]]
 
-*[p. 263]* ^pg83
+*[p. 43]* ^pg83
 
 ## MATHETES
 
@@ -30,7 +30,7 @@ The following is the original Introductory Notice of the learned editors and tra
 
 ἀποστόλων γενόμενος μαθητης. Cap. xi.
 
-*[p. 264]* ^pg84
+*[p. 44]* ^pg84
 
 ### Epistle to Diognetus
 
@@ -52,7 +52,7 @@ Since I see thee, most excellent Diognetus, exceedingly desirous to learn the mo
 
 25 Literally, “trusting in what God, etc., they look down.”
 
-*[PDF 85]* ^pg85
+*[p. 45]* ^pg85
 
 only now entered into the world,<sup>265</sup> and not long ago; I cordially welcome this thy desire, and I implore God, who enables us both to speak and to hear, to grant to me so to speak, that, above all, I may hear you have been edified,<sup>266</sup> and to you so to hear, that I who speak may have no cause of regret for having done so.
 
@@ -86,7 +86,7 @@ Some make this and the following clauses affirmative instead of interrogative.
 
 The text is here corrupt. Several attempts at emendation have been made, but without any marked success.
 
-*[PDF 86]* ^pg86
+*[p. 46]* ^pg86
 
 appointing any persons to guard them; but those made of silver and gold ye shut up by night, and appoint watchers to look after them by day, lest they be stolen? And by those gifts which ye mean to present to them, do ye not, if they are possessed of sense, rather punish \[than honour\] them? But if, on the other hand, they are destitute of sense, ye convict them of this fact, while ye worship them with blood and the smoke of sacrifices. Let any one of you suffer such indignities!<sup>272</sup> Let any one of you endure to have such things done to himself! But not a single human being will, unless compelled to it, endure such treatment, since he is endowed with sense and reason. A stone, however, readily bears it, seeing it is insensible. Certainly you do not show \[by your<sup>273</sup> conduct\] that he \[your God\] is possessed of sense. And as to the fact that Christians are not accustomed to 26
 
@@ -108,7 +108,7 @@ they tended to prove that these were not possessed of sense.
 
 The text here is very doubtful. We have followed that adopted by most critics.
 
-*[PDF 87]* ^pg87
+*[p. 47]* ^pg87
 
 But as to their scrupulosity concerning meats, and their superstition as respects the Sabbaths, and their boasting about circumcision, and their fancies about fasting and the new moons, which are utterly ridiculous and unworthy of notice,—I do not<sup>275</sup> think that you require to learn anything from me. For, to accept some of those things which have been formed by God for the use of men as properly formed, and to reject others as useless and redundant,—how can this be lawful? And to speak falsely of God, as if He forbade us to do what is good on the Sabbath-days,—how is not this impious? And to glory in the circumcision<sup>276</sup> of the flesh as a proof of election, and as if, on account of it, they were specially beloved by God,—how is it not a subject of ridicule? And as to their observing months and days,<sup>277</sup> as if waiting upon<sup>278</sup> the stars and the moon, and their distributing,<sup>279</sup> according to their own tendencies, the appointments of God, and the vicissitudes of the seasons, some for festivities,<sup>280</sup> and others for mourning,—who would deem this a part of divine worship, and not much rather a manifestation of folly? I suppose, then, you are sufficiently convinced that the Christians properly abstain from the vanity and error common \[to both Jews and Gentiles\], and from the busy-body spirit and vain boasting of the Jews; but you must not hope to learn the mystery of their peculiar mode of worshipping God from any mortal.
 
@@ -138,7 +138,7 @@ Otto supplies the *lacuna* which here occurs in the mss. so as to read κατα�
 
 The great festivals of the Jews are here referred to on the one hand, and the day of atonement on the other.
 
-*[PDF 88]* ^pg88
+*[p. 48]* ^pg88
 
 display to us their wonderful and confessedly striking<sup>281</sup> method of life. They dwell in their own countries, but simply as sojourners. As citizens, they share in all things with others, and yet endure all things as if foreigners. Every foreign land is to them as their native country, and every land of their birth as a land of strangers. They marry, as do all \[others\]; they beget children; but they do not destroy their offspring.<sup>282</sup> They have a common table, but not a common bed.<sup>283</sup> They are in the flesh, but they do not live after the flesh.<sup>284</sup> They pass their days on earth, but they are citizens of heaven.<sup>285</sup> They obey the prescribed laws, and at the same time surpass the laws by their lives. 27
 
@@ -186,7 +186,7 @@ Comp. [[2 Corinthians 04#^4-12|2 Cor. iv. 12]].
 
 Comp. [[1 Peter 02#^2-11|1 Pet. ii. 11]].
 
-*[PDF 89]* ^pg89
+*[p. 49]* ^pg89
 
 love those that hate them. The soul is imprisoned in the body, yet preserves<sup>291</sup> that very body; and Christians are confined in the world as in a prison, and yet they are the preservers<sup>292</sup> of the world. The immortal soul dwells in a mortal tabernacle; and Christians dwell as sojourners in corruptible \[bodies\], looking for an incorruptible dwelling<sup>293</sup> in the heavens. The soul, when but ill-provided with food and drink, becomes better; in like manner, the Christians, though subjected day by day to punishment, increase the more in number.<sup>294</sup> God has assigned them this illustrious position, which it were unlawful for them to forsake.
 
@@ -228,7 +228,7 @@ Literally, “has received to observe.”
 
 Literally, “one of men.”
 
-*[PDF 90]* ^pg90
+*[p. 50]* ^pg90
 
 influence of clemency and meekness. As a king sends his son, who is also a king, so sent He Him; as God<sup>300</sup> He sent Him; as to men He sent Him; as a Saviour He sent Him, and as seeking to persuade, not to compel us; for violence has no place in the character of God. As calling us He sent Him, not as vengefully pursuing us; as loving us He sent Him, not as judging us. For He will yet send Him to judge us, and who shall endure His appearing?<sup>301</sup> … Do you not see them exposed to wild beasts, that they may be persuaded to deny the Lord, and yet not overcome? Do you not see that the more of them are punished, the greater becomes the number of the rest? This does not seem to be the 28
 
@@ -264,7 +264,7 @@ Literally, “in a mystery.”
 
 Literally, “all things.”
 
-*[PDF 91]* ^pg91
+*[p. 51]* ^pg91
 
 in His benefits, and see and be active<sup>307</sup> \[in His service\]. Who of us would ever have expected these things? He was aware, then, of all things in His own mind, along with His Son, according to the relation<sup>308</sup> subsisting between them.
 
@@ -296,7 +296,7 @@ affect the meaning.
 
 In the ms. “saying” is here inserted, as if the words had been regarded as a quotation from Isa. liii. 11.
 
-*[PDF 92]* ^pg92
+*[p. 52]* ^pg92
 
 transgressors!<sup>314</sup> Having therefore convinced us in the former time<sup>315</sup> that our nature was unable to attain to life, and having now revealed the Saviour who is able to save even those things which it was \[formerly\] impossible to save, by both these facts He desired to lead us to trust in His kindness, to esteem Him our Nourisher, Father, Teacher, Counsellor, Healer, our Wisdom, Light, Honour, Glory, Power, and Life, so that we should not be anxious<sup>316</sup> concerning clothing and food.
 
@@ -322,7 +322,7 @@ Thus Otto supplies the *lacuna*; others conjecture somewhat different supplement
 
 So Böhl. Sylburgius and Otto read, “in the earth.”
 
-*[PDF 93]* ^pg93
+*[p. 53]* ^pg93
 
 #### Chapter XI.—These things are worthy to be known and believed.
 
@@ -356,7 +356,7 @@ Or, “given.”
 
 Literally, “bringing forth.”
 
-*[PDF 94]* ^pg94
+*[p. 54]* ^pg94
 
 this place<sup>326</sup> the tree of knowledge and the tree of life have been planted; but it is not the tree of knowledge that destroys— it is disobedience that proves destructive. Nor truly are those words without significance which are written, how God from the beginning planted the tree of life in the midst of paradise, revealing through knowledge the way to life,<sup>327</sup> and when those who were first 30
 

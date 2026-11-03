@@ -311,7 +311,7 @@ j “to you” (pl.) N O M40 M22 V B F L G2 \] “to them” D k “extollers of
 
 *[p. 96]* ^pg105
 
-And the whole host<sup>l</sup> on high have made<sup>m</sup> glory and greatness for them "DRW " ṪH S#N #WDY PṠT YHWH, God of Israel, they are called.<sup>n</sup> § 193/G2 2a
+And the whole host<sup>l</sup> on high have made<sup>m</sup> glory and greatness for them "DRW " ṪH S#N \#WDY PṠT YHWH, God of Israel, they are called.<sup>n</sup> § 193/G2 2a
 
 Behold, it says:
 
@@ -351,7 +351,7 @@ WSYŠ ṪWṪRWSYB ṪWṪRWSYN ṪWṪRWSYS ṪWṪRWSY# ṪWṪRWSYQ
 
 § 196/G2 2a<sup>a</sup>
 
-And the sign<sup>b</sup> of this *halakha*<sup>c</sup> is for committing to memory. These are the names:<sup>d</sup> RBD *⟨*DBRKT"*⟩* MṪWṪRWS"Y and up to ṪWṪRWSYT. Let this tradition be committed to memory:<sup>e</sup>,<sup>f</sup> YH" ḢL GK PṠ ŠBNS #QT.<sup>g</sup>,<sup>h</sup>
+And the sign<sup>b</sup> of this *halakha*<sup>c</sup> is for committing to memory. These are the names:<sup>d</sup> RBD *⟨*DBRKT"*⟩* MṪWṪRWS"Y and up to ṪWṪRWSYT. Let this tradition be committed to memory:<sup>e</sup>,<sup>f</sup> YH" ḢL GK PṠ ŠBNS \#QT.<sup>g</sup>,<sup>h</sup>
 
 Instructions for the Descent to the Chariot (§§ 198–259)
 
@@ -607,7 +607,7 @@ These are the names of <sup>a</sup> the guardians of the entrance<sup>b</sup> of
 
 DHB"L, QŠR"L, GHWRY"L, BZTY"L, ṪWPHY"L, DHRY"L, MTQ"L, and ŠWW"L, and there are some who say ŠB"L.<sup>c</sup> § 208
 
-These are the names of <sup>a</sup> the guardians of the entrance of the second palace: ṪGRY"L, MPTY"L, SRHY"L, #RPY"L, ŠHRRY"L, SṪR"L, DG#Y"L<sup>b</sup> and SHBY"L.
+These are the names of <sup>a</sup> the guardians of the entrance of the second palace: ṪGRY"L, MPTY"L, SRHY"L, \#RPY"L, ŠHRRY"L, SṪR"L, DG#Y"L<sup>b</sup> and SHBY"L.
 
 § 209
 
@@ -641,11 +641,11 @@ N O M40 M22 DB F \] “*⟨*N'" Š*⟨*W*⟩*BY"L*⟩*” om L
 
 § 210
 
-These are the names of <sup>a</sup> the guardians of the entrance of the fourth palace:<sup>b</sup> PḢD"L, GBWRTY"L, KZWY"L, ŠKYN"L, ŠTQ"L, #RB"L, KPY"L, and #Anaphi"el.
+These are the names of <sup>a</sup> the guardians of the entrance of the fourth palace:<sup>b</sup> PḢD"L, GBWRTY"L, KZWY"L, ŠKYN"L, ŠTQ"L, \#RB"L, KPY"L, and \#Anaphi"el.
 
 § 211
 
-These are the names of <sup>a</sup> the guardians of the entrance of the fifth palace:<sup>b</sup> TḢYL"L, #YZY"L, GYWY"L, GṪHW"L, S#PRW"L, NPRY"L, GRY"L, DRY"L, and
+These are the names of <sup>a</sup> the guardians of the entrance of the fifth palace:<sup>b</sup> TḢYL"L, \#YZY"L, GYWY"L, GṪHW"L, S#PRW"L, NPRY"L, GRY"L, DRY"L, and
 
 PLṪRY"L.
 
@@ -653,7 +653,7 @@ PLṪRY"L.
 
 These are the names of <sup>a</sup>the guardians of the entrance of the sixth palace:
 
-Dumi"el,<sup>b</sup>Qaṡpi"el, GHGHY"L, "DSBSRSBY"L, #GRWMY"L, PRṠ"L,MḢQ"L, and
+Dumi"el,<sup>b</sup>Qaṡpi"el, GHGHY"L, "DSBSRSBY"L, \#GRWMY"L, PRṠ"L,MḢQ"L, and
 
 TWRPR"L.
 
@@ -705,7 +705,7 @@ d “horses of hail” N O M22 D V B F G6 \] om M40 L e “horses of iron” N O
 
 g “The horses”
 
-D V B F \] “horses of {gloom} ({*"pylh*}) iron” L; om G6 N O M40 M22 D B F L \] “Their horses” V h “upon which they ride” N O M40 M22 D V i “stand” N \] “which F \] “upon which they stand” B; “which they ride” (*šhm rwkbym*) L j “mangers of ” O M22 stand” O M40 M22 D V B F; “stand upon them” (*#wmdym #lyhm*) L k “glowing D V B F L \] “betrothal of ” (*"rwsy*) (corrupt) N; “compulsions of ” (corrupt) M40 juniper coals” + “{of fire}” N l “and they eat” N O M40 D V F \] “who eat” M22; “and who eat” B; “they eat” L m “their mangers” N O M40 D B \] “the mangers” M22 V F L n “about”
+D V B F \] “horses of {gloom} ({*"pylh*}) iron” L; om G6 N O M40 M22 D B F L \] “Their horses” V h “upon which they ride” N O M40 M22 D V i “stand” N \] “which F \] “upon which they stand” B; “which they ride” (*šhm rwkbym*) L j “mangers of ” O M22 stand” O M40 M22 D V B F; “stand upon them” (*\#wmdym \#lyhm*) L k “glowing D V B F L \] “betrothal of ” (*"rwsy*) (corrupt) N; “compulsions of ” (corrupt) M40 juniper coals” + “{of fire}” N l “and they eat” N O M40 D V F \] “who eat” M22; “and who eat” B; “they eat” L m “their mangers” N O M40 D B \] “the mangers” M22 V F L n “about”
 
 O M40 M22 D V B F L \] “in” N o “forty” N O M40 D V B F L \] + “forty” M22 p “in one mouthful” O M40 D \] “of glowing coals in each one of their mouths” N; “of glowing coals in one mouthful” (“glowing coals his one beauty” \[corrupt\] V) M22 F; “of glowing coals in one q “And the mouthful, the mouth of the measure of all their horses” (*py š#wr kl swsyhm*) L measure of every single horse” om M22 r “And the measure of ” N M40 D V B F L \] “As for the measure of ” O s “the mouth of ” V L \] “the mouth” N O B F; “every mouth” M40 D {B} t “single” N O V B F L \] om M40 D u “as much as the measure of ” N O M40 M22 D V B L \] om F
 
@@ -733,7 +733,7 @@ h “A cloud” O M40 M22 V B F \] “A matter” N; “An eye” or “A spring
 
 i “their heads dripping blood above” om M40 j “dripping blood”
 
-(*#nq*) (corrupt) L O M22 B\] “peeling blood” N; “from/of blood” D; “that is dripping blood” V F L k “above their heads” N O M22 D V B F L \] “from their head” M40 l “and (those) of” N O M40 M22 n “and character” N O M40 D V B F \] “and above” (*w#l*) L <sup>m</sup>Cf. *Hekhalot Zutarti* § 411.
+(*\#nq*) (corrupt) L O M22 B\] “peeling blood” N; “from/of blood” D; “that is dripping blood” V F L k “above their heads” N O M22 D V B F L \] “from their head” M40 l “and (those) of” N O M40 M22 n “and character” N O M40 D V B F \] “and above” (*w#l*) L <sup>m</sup>Cf. *Hekhalot Zutarti* § 411.
 
 D V B F \] “and this is the character” M22 L o “and such is” M22 B L \] “and the horse of every” N O M40 D F; “and among every” V p “the entrance of” N O M40 M22 D V B L \] “single entrance” F
 
@@ -773,7 +773,7 @@ d “the delectable King,” O M40 D V B F L \] om N M22 e “the supporting Kin
 
 O M40 D V B F \] “the supporting King, the supporting King, the King of loveliness,” N; om M22 L
 
-f “the humbled King,” N O M40 M22 D B F \] om V; “the King of the world,” or “the g “the afflicted King,” N O M40 M22 D V B F \] + “the gracious eternal King,” (*mlk #wlm*) L King,” L
+f “the humbled King,” N O M40 M22 D B F \] om V; “the King of the world,” or “the g “the afflicted King,” N O M40 M22 D V B F \] + “the gracious eternal King,” (*mlk \#wlm*) L King,” L
 
 h “the righteous King,” O V B F L \] om N M40 M22 D i “the pious King” N O M22 V B F L \] + “the righteous King,” M40 D j “the pure King,” N \] + “the blessed King, the King of majesty,” O M40 M22 D V B F; + “the blessed King,” L k “the mighty King,” N O M40 M22 D V B F \] + “the King of majesty,” L l “the gracious King,” O M40 M22 D V B F L \] om N
 
@@ -893,7 +893,7 @@ q “and introduce you” N O M40 D B L GO56 \] om M22; “and introduce” V F
 
 *[p. 111]* ^pg120
 
-the head<sup>s</sup> of the entrance of the fifth palace and stands to the right of the lintel,<sup>t</sup> and #RZY"L the prince who stands to the left of the lintel with him.<sup>u</sup> § 223/
+the head<sup>s</sup> of the entrance of the fifth palace and stands to the right of the lintel,<sup>t</sup> and \#RZY"L the prince who stands to the left of the lintel with him.<sup>u</sup> § 223/
 
 Show to them two seals,<sup>a</sup> one of <sup>b</sup> ṪWṪRBY"L YHWH<sup>c</sup> and one<sup>d</sup> of<sup>e</sup> GO56
 
@@ -981,7 +981,7 @@ c “majestic ones” N O M40 D V B F L \] “majesty” M22 d “since you” M
 
 e “over the light of ” N O M40 D \] “over the great light, over that of ” M22; “over the great light, over the light of ” V F; “over a great light, over the light of ” B F L f “just like”
 
-N O M22 D V B \] “by means of ” M40 F L g “show him” M22 V \] “see him” (impv.) N O M40 <sup>h</sup>“with us” O M40 M22 *⟨*D*⟩* V D B; “has seen this light” F; “has vouched for it” (*#rbhw*) L B F L \] “with him” N i “from the vision where he is peering at the vision of the chariot,”
+N O M22 D V B \] “by means of ” M40 F L g “show him” M22 V \] “see him” (impv.) N O M40 <sup>h</sup>“with us” O M40 M22 *⟨*D*⟩* V D B; “has seen this light” F; “has vouched for it” (*\#rbhw*) L B F L \] “with him” N i “from the vision where he is peering at the vision of the chariot,”
 
 L
 
@@ -1015,9 +1015,9 @@ He inserted into it a branch<sup>c</sup> of myrtle<sup>d</sup> full of <sup>e</s
 
 p “Touch” N O M22 D V B L \] “Inquire of ” M40; “press on” F q “the middle finger of (your)
 
-hand” O (“middle” = “its hunting” \[?\] \[corrupt\] M40; “finger” = “color” \[corrupt\] M22) D \] “your middle finger” N; + “upon it and say to her” M22; “your middle finger upon it and say to her” V; “the middle finger that {belongs to} is on you and say to her” B; “the middle finger throw (impv. masc. s.) upon it” (*"˙sb# ˙srdh hšlk #lyh*) F; “your middle finger, and say (impv. r “do not press” (“and do not press” N) B L \] “and do masc. pl.)” (*"˙sb#˙srdh šlyk w"mrw*) L not tread” O D (om “and” V); “and do not *tdrny*” (corrupt) M40; “do not seek” M22; om F s “the fingertip” N O (“a fingertip” M40 D B) \] “the middle fingertip of your hand” M22; “your t “upon it,” N middle fingertip” V; om F; “with your middle fingertip” (*br"š "˙sb#˙srdh šlyk*) L u “a fiber” N M22 D V B F L \] “with it”
+hand” O (“middle” = “its hunting” \[?\] \[corrupt\] M40; “finger” = “color” \[corrupt\] M22) D \] “your middle finger” N; + “upon it and say to her” M22; “your middle finger upon it and say to her” V; “the middle finger that {belongs to} is on you and say to her” B; “the middle finger throw (impv. masc. s.) upon it” (*"˙sb# ˙srdh hšlk \#lyh*) F; “your middle finger, and say (impv. r “do not press” (“and do not press” N) B L \] “and do masc. pl.)” (*"˙sb#˙srdh šlyk w"mrw*) L not tread” O D (om “and” V); “and do not *tdrny*” (corrupt) M40; “do not seek” M22; om F s “the fingertip” N O (“a fingertip” M40 D B) \] “the middle fingertip of your hand” M22; “your t “upon it,” N middle fingertip” V; om F; “with your middle fingertip” (*br"š "˙sb#˙srdh šlyk*) L u “a fiber” N M22 D V B F L \] “with it”
 
-O M40 M22 D V B \] om F; “upon {you} it” (*#ly{k}h*) L O M40
+O M40 M22 D V B \] om F; “upon {you} it” (*\#ly{k}h*) L O M40
 
 v “from his eyeball” N M22 L \] “from his eyeballs” O D V F; “from the ball” M40; w “which fell (in)” N O M40 M22 D \] “which fell into it”
 
@@ -1253,7 +1253,7 @@ m “of” M22 V B L \] “belonging to” N O F; om D <sup>n</sup>“man” (*"
 
 “man” (*h"yš*) L M22
 
-p “such” N O M22 D V B F \] om L q “and he seeks” N O M22 D V B F \] om L r “His glory” N O M22 D B F \] “glory” V L § 236/G5 1a 1–16 <sup>a</sup>“When” N O M22 D V B F \] + “all” L <sup>b</sup>“Gabriel, and Qaṡpi"el” (N M22 Qaphṡi"el) V L \] “Qaṡpi"el, and Gabriel” O B F; “Qaṡpi"el, and #BRY"L” D <sup>c</sup>“that they would come” (“that they *⟨*would come*⟩*” N) O D V B L \] “that they were not coming” M22 F d “the wagon” N M22(!) V B L \] “the beams” O M40 D F <sup>e</sup>“man (*"dm*) who has merit” N O D V B (L *h"yš*) \] *"t šzwkw* (corrupt) M40; “one who does not have merit” M22; “one who has merit” F f “to the chariot” M22 V B F L \] “in(to) the chariot” N O M40 g “raging” N O M22 D V B F L \] “reprimanding” M40
+p “such” N O M22 D V B F \] om L q “and he seeks” N O M22 D V B F \] om L r “His glory” N O M22 D B F \] “glory” V L § 236/G5 1a 1–16 <sup>a</sup>“When” N O M22 D V B F \] + “all” L <sup>b</sup>“Gabriel, and Qaṡpi"el” (N M22 Qaphṡi"el) V L \] “Qaṡpi"el, and Gabriel” O B F; “Qaṡpi"el, and \#BRY"L” D <sup>c</sup>“that they would come” (“that they *⟨*would come*⟩*” N) O D V B L \] “that they were not coming” M22 F d “the wagon” N M22(!) V B L \] “the beams” O M40 D F <sup>e</sup>“man (*"dm*) who has merit” N O D V B (L *h"yš*) \] *"t šzwkw* (corrupt) M40; “one who does not have merit” M22; “one who has merit” F f “to the chariot” M22 V B F L \] “in(to) the chariot” N O M40 g “raging” N O M22 D V B F L \] “reprimanding” M40
 
 *[p. 121]* ^pg130
 

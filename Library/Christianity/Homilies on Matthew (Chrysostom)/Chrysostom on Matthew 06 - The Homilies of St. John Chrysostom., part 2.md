@@ -124,11 +124,9 @@ And also with regard to the very names, if any one were to attempt to translate 
 
 And observe a most admirable order in the things he hath mentioned. For he did not proceed directly to the birth, but puts us in mind first, how many generations he was from
 
-θεωραν: the allegorical or mystical sense. See Suicer on the word; and St. Just. Mart. Cohort. ad Græc. p. 162 29. A. Ed. Morell. See also in the Catena Aurea, from St. Jerome, the interpretation of the names in our Lord’s genealogy.
+162 θεωραν: the allegorical or mystical sense. See Suicer on the word; and St. Just. Mart. Cohort. ad Græc. p. 29. A. Ed. Morell. See also in the Catena Aurea, from St. Jerome, the interpretation of the names in our Lord’s genealogy.
 
-163
-
-[[Matthew 01#^1-18|Matt. i. 18]].
+163 [[Matthew 01#^1-18|Matt. i. 18]].
 
 164 \[καιντερον.\]
 
@@ -344,7 +342,7 @@ For if after the bath you would not choose to hurry into the market place, lest 
 
 That this then may not be the case, when you retire from the Communion, you must account nothing more necessary than that you should put together the things that have been said to you. Yes, for it were the utmost folly for us, while we give up five and even six days to the business of this life, not to bestow on things spiritual so much as one day, or rather not so much as a small part of one day. See ye not our own children, that whatever lessons are given them, those they study throughout the whole day? This then let us do likewise, since otherwise we shall derive no profit from coming here, drawing water daily into a vessel with holes, and not bestowing on the retaining of what we have heard even so much earnestness as we plainly show with respect to gold and silver. For any one who has received a few pence both puts them into a bag and sets a seal thereon; but we, having given us oracles more precious than either gold or costly stones, and receiving the treasures of the Spirit, do not put them away in the storehouses of our soul, but thoughtlessly and at random suffer
 
-\[τ συνξεω, the technical term for a religious service among Christians. It does not of itself imply a 225 Eucharistic service, as the above rendering seems to suggest. Indeed, the exordium of this Homily points directly to a service in which the sermon was prominent, making no allusion to the Lord’s Supper. For a wider use, see the close of Homily LXXXVIII.—R.\]
+225 \[τ συνξεω, the technical term for a religious service among Christians. It does not of itself imply a Eucharistic service, as the above rendering seems to suggest. Indeed, the exordium of this Homily points directly to a service in which the sermon was prominent, making no allusion to the Lord’s Supper. For a wider use, see the close of Homily LXXXVIII.—R.\]
 
 226 Comp. Herbert’s Country Parson, c. 10. “He himself, or his wife, takes account of sermons, and how every one profits, comparing this year with the last.”
 

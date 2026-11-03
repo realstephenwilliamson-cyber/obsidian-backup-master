@@ -476,7 +476,7 @@ who worketh in the children of disobedience”<sup>2408</sup> by no other power 
 
 2408 [[Ephesians 02#^2-2|Eph. ii. 2]]. 2409 [[Romans 02#^2-4|Rom. ii. 4–6]].
 
-2410 [[Matthew 03#^3-2|Matt. iii. 2]] and iv. 17. 2411 [[Luke 24#^24-46|Luke xxiv. 46]], [[Luke 24#^24-47|47]]. 2412 *Judicari*. Ezek. xviii.
+2410 [[Matthew 03#^3-2|Matt. iii. 2]] and iv. 17. 2411 [[Luke 24#^24-46|Luke xxiv. 46]], [[Luke 24#^24-47|47]]. 2412 *Judicari*. 2413 Ezek. xviii. 23.
 
 
 *[p. 687]* ^pg713

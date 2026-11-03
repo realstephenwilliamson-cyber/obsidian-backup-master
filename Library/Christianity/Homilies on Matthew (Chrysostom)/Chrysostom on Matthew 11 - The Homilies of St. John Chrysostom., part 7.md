@@ -382,7 +382,7 @@ That is, lest they should say, “What then? if we cast all away, how shall we b
 
 “Therefore I say unto you, take no thought.” Thus, after He hath shown the hurt to be unspeakable, then and not before He makes the commandment stricter; in that He not only bids us cast away what we have, but forbids to take thought even for our necessary food, saying, “Take no thought for your soul, what ye shall eat.” Not because the soul needs food, for it is incorporeal; but He spake according to the common custom. For though it needs not food, yet can it not endure to remain in the body, except that be fed. And in saying this,
 
-145 911 [[Philippians 03#^3-19|Phil. iii. 19]]. 912 \[R.V., more correctly, “Be not anxious,” and so throughout the chapter.—R.\] τ ψυχ, “your soul.” \[So Chrysostom interprets (see below); but the New Testament passage must refer to 913 physical life. In the latter part of the verse the higher “life” is suggested. But to understand the argument of Chrysostom, ψυχ must be rendered “soul” throughout this passage.—R.\]
+145 911 [[Philippians 03#^3-19|Phil. iii. 19]]. 912 \[R.V., more correctly, “Be not anxious,” and so throughout the chapter.—R.\] 913 τ ψυχ, “your soul.” \[So Chrysostom interprets (see below); but the New Testament passage must refer to physical life. In the latter part of the verse the higher “life” is suggested. But to understand the argument of Chrysostom, ψυχ must be rendered “soul” throughout this passage.—R.\]
 
 *[p. 267]* ^pg275
 
@@ -582,7 +582,7 @@ Which also itself again is an instance of providential care: that even when He s
 
 Let us not therefore despair, but having so many motives and good hopes, though we sin every day, let us approach Him, entreating, beseeching, asking the forgiveness of our sins. For thus we shall be more backward to sin for the time to come; thus shall we drive away the devil, and shall call forth the lovingkindness of God, and attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might forever and ever. Amen.
 
-[[Romans 10#^10-12|Rom. x. 12]]. κα π πντα is omitted in our present copies. Mr. Field refers to [[Romans 03#^3-22|Rom. iii. 22]]; “unto all *and upon* 970 *all* them that believe.” \[There is no authority for κα π παντα in [[Romans 10#^10-12|Rom. x. 12]], and in iii. 22the weight of authority is against the phrase (see R.V. *in loco*); but Chrysostom undoubtedly accepted the longer reading in the latter passage, and seems to have combined the two in the present instance.—R.\] 971 [[2 Corinthians 08#^8-9|2 Cor. viii. 9]]. \[The citation is not accurate, probably the variation is intentional.—R.\]
+970 [[Romans 10#^10-12|Rom. x. 12]]. κα π πντα is omitted in our present copies. Mr. Field refers to [[Romans 03#^3-22|Rom. iii. 22]]; “unto all *and upon* *all* them that believe.” \[There is no authority for κα π παντα in [[Romans 10#^10-12|Rom. x. 12]], and in iii. 22the weight of authority is against the phrase (see R.V. *in loco*); but Chrysostom undoubtedly accepted the longer reading in the latter passage, and seems to have combined the two in the present instance.—R.\] 971 [[2 Corinthians 08#^8-9|2 Cor. viii. 9]]. \[The citation is not accurate, probably the variation is intentional.—R.\]
 
 *[p. 282]* ^pg290
 

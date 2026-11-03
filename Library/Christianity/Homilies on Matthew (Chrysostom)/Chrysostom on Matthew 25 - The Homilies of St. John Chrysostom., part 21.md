@@ -236,7 +236,7 @@ But wherefore doth He set forth this parable in the person of the virgins, and d
 
 “And about midnight there was a cry made.” Either He was continuing the parable, or again He shows that the resurrection will be at night. But the cry Paul also indicates, saying, “With a shout, with a voice of an archangel, with the last trump, He shall come down from Heaven.”<sup>2870</sup> And what mean the trumpets, and what saith the cry? “The bridegroom
 
-2866 [[Matthew 19#^19-12|Matt. xix. 12]]. 2867 [[1 Corinthians 07#^7-25|1 Cor. vii. 25]]. α δ. 2868 2869 α νικηθεσαι. 2870 [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]] (comp. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]]).
+2866 [[Matthew 19#^19-12|Matt. xix. 12]]. 2867 [[1 Corinthians 07#^7-25|1 Cor. vii. 25]]. 2868 α δ. 2869 α νικηθεσαι. 2870 [[1 Thessalonians 04#^4-16|1 Thess. iv. 16]] (comp. [[1 Corinthians 15#^15-52|1 Cor. xv. 52]]).
 
 
 *[p. 820]* ^pg828
@@ -518,7 +518,7 @@ And wherefore did He promise the woman nothing spiritual; but the perpetual memo
 
 “Then went one of the twelve, he that was called Judas Iscariot, unto the chief priests, and said unto them, What will ye give me, and I will deliver Him unto you?”<sup>2919</sup> Then. When? When these things were spoken, when He had said, it is for my burial, and not even thereby was he moved to compunction, neither when he heard that the Gospel should be preached everywhere did he fear (and yet it was the language of unspeakable power), but when women showed so much honor, and women that had been harlots, then he wrought the devil’s works.
 
-2919 [[Matthew 26#^26-14|Matt. xxvi. 14]], [[Matthew 26#^26-15|15]]. \[R.V., “Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, and said, What are ye willing to give me,” etc.\] 464 [[Luke 22#^22-4|Luke xxii. 4]]. \[The explanation is untenable. The “captains” (στρατηγο) were not “chiliarchs,” but the
+2919 [[Matthew 26#^26-14|Matt. xxvi. 14]], [[Matthew 26#^26-15|15]]. \[R.V., “Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, and said, What are ye willing to give me,” etc.\] 464
 
 
 *[p. 838]* ^pg846
@@ -539,7 +539,7 @@ Oh madness! how did covetousness altogether blind him! For he that had often see
 
 Knowing this, then, let us also not intermit to do all things unto them that sin and are remiss, warning, teaching, exhorting, admonishing, advising, though we profit nothing. For Christ indeed foreknew that the traitor was incorrigible, yet nevertheless He ceased not to supply what could be done by Himself, as well admonishing as threatening and bewailing over him, and nowhere plainly, nor openly, but in a concealed way. And at the very time of
 
-2920 officers of the temple guard; comp. [[Luke 22#^22-52|Luke xxii. 52]], where the same word occurs. 2921 [[Matthew 26#^26-15|Matt. xxvi. 15]], [[Matthew 26#^26-16|16]]. \[R.V., “And they weighed unto him thirty,” etc. to deliver Him *unto them.* The same word as in verse 15.—R.\]
+2920 [[Luke 22#^22-4|Luke xxii. 4]]. \[The explanation is untenable. The “captains” (στρατηγο) were not “chiliarchs,” but the officers of the temple guard; comp. [[Luke 22#^22-52|Luke xxii. 52]], where the same word occurs. 2921 [[Matthew 26#^26-15|Matt. xxvi. 15]], [[Matthew 26#^26-16|16]]. \[R.V., “And they weighed unto him thirty,” etc. to deliver Him *unto them.* The same word as in verse 15.—R.\]
 
 
 *[p. 839]* ^pg847

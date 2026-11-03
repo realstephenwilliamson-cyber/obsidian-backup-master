@@ -134,7 +134,7 @@ Now here indeed He signifies His goodness by means of our fathers, but in what p
 
 “For all things,” saith He, “whatsoever ye would that men should do to you, do ye also to them.”<sup>1019</sup>
 
-1015 [[Matthew 07#^7-11|Matt. vii. 11]]. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] 1016 πονηραν. 1017 Or “life:” see [[Matthew 06#^6-25|Matt. vi. 25]]. 1018 [[Romans 08#^8-32|Rom. viii. 32]]. 1019 [[Matthew 07#^7-12|Matt. vii. 12]]. \[οτω is omitted; so the Vulgate.—R.\] \[πολιτεα.\]
+1015 [[Matthew 07#^7-11|Matt. vii. 11]]. \[“Heavenly” is substituted for “which is in Heaven.”—R.\] 1016 πονηραν. 1017 Or “life:” see [[Matthew 06#^6-25|Matt. vi. 25]]. 1018 [[Romans 08#^8-32|Rom. viii. 32]]. 1019 [[Matthew 07#^7-12|Matt. vii. 12]]. \[οτω is omitted; so the Vulgate.—R.\]
 
 
 *[p. 291]* ^pg299
@@ -153,7 +153,7 @@ And yet after this He said, “My yoke is easy, and my burden is light.”<sup>1
 
 And not only herein is the part of virtue easy, but also by the end again it becomes yet easier. For not the passing away of our labors and toils, but also their issuing in a good end (for they end in life) is enough to console those in conflict. So that both the temporary nature of our labors, and the perpetuity of our crowns, and the fact that the labors come first, and the crowns after, must prove a very great relief in our toils. Wherefore Paul also called their
 
-1020 1021 Confined, τεθλιμμνη . 1022 [[Matthew 06#^6-13|Matt. vi. 13]], [[Matthew 06#^6-14|14]]. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\] 1023 [[Matthew 11#^11-30|Matt. xi. 30]].
+1020 \[πολιτεα.\] 1021 Confined, τεθλιμμνη . 1022 [[Matthew 06#^6-13|Matt. vi. 13]], [[Matthew 06#^6-14|14]]. \[R.V., “by the narrow gate;” “enter in thereby;” “For narrow is the gate, and straitened the way,” &c. Chrysostom introduces verse 14 with κα; and in some mss. of the Homilies τ is added. Comp. R.V. margin: “How narrow,” etc.—R.\] 1023 [[Matthew 11#^11-30|Matt. xi. 30]].
 
 
 *[p. 292]* ^pg300
@@ -362,7 +362,7 @@ For as with regard to virtue, not only from the things to come did He urge them 
 
 “And every one,” saith He, “that heareth these sayings of mine, and doeth them not, shall be likened to a foolish man, which built his house upon the sand.”<sup>1054</sup>
 
-τν κοινν δικν πραγματεεσθα σε παρασκευζωνπραγματεεσθαι. \[The verb means “to engage in business,” 1052 and it is an easy transition to the successful result of trading. The Latin rendering of Montfaucon is: *ac tibi providens, ut a communi illa reddenda ratione te expedias* —R.\]
+1052 τν κοινν δικν πραγματεεσθα σε παρασκευζωνπραγματεεσθαι. \[The verb means “to engage in business,” and it is an easy transition to the successful result of trading. The Latin rendering of Montfaucon is: *ac tibi providens, ut a communi illa reddenda ratione te expedias* —R.\]
 
 1053 γυμνζων.
 

@@ -427,7 +427,7 @@ Sermon LXIX.
 
 3606 *Ructuavit*. 3607 [[John 13#^13-23|John xiii. 23]]. 3608 [[John 13#^13-25|John xiii. 25]]. 3609 *Non putemus sed potemus*.
 
-3610 [[John 01#^1-1|John i. 1]]. 3611 *Saginam Dominici pertoris eructuare*. Gen. i.
+3610 [[John 01#^1-1|John i. 1]]. 3611 *Saginam Dominici pertoris eructuare*. 3612 Gen. i. 1.
 
 
 *[p. 969]* ^pg995

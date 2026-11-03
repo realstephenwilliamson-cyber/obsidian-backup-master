@@ -392,7 +392,7 @@ Thou hast thy Debtor; why leave Him, and require it of me, a poor and wretched m
 
 For although man received it, it was God that commanded thee to bestow; and His will is to be Himself, and in the original sense,<sup>651</sup>debtor, and surety, affording thee ten thousand
 
-\[γν ποτεμνμενο. There is no reference to the Old Testament phrase in the original, which simply means 649 “cutting off land for one’s self,” *i.e*., to appropriate it wrongfully.—R.\]
+649 \[γν ποτεμνμενο. There is no reference to the Old Testament phrase in the original, which simply means “cutting off land for one’s self,” *i.e*., to appropriate it wrongfully.—R.\]
 
 650 \[Comp. [[Luke 06#^6-34|Luke vi. 34]].\] 651 πρωττυπο, *archetypal*: the word seems to imply the symbolical use to be made of all visible things and their relations: as here, the relation of debtor and creditor is a sort of token of God’s mercy, in binding Himself to do us good.
 
@@ -566,7 +566,7 @@ But of what kind was the required excess? Not to be angry, not even to look upon
 
 For what cause then doth He call these commandments “least,” though they were so great and high? Because He Himself was about to introduce the enactment of them; for as
 
-685 [[Matthew 05#^5-18|Matt. v. 18]]. \[R.V., “Till Heaven and earth pass away, one jot or one tittle shall in no wise pass away from the law, till all things be accomplished.”—R.\] 686 ἀπαρτσα. 687 βιο παρασκευν ψηλοτραν. 688 [[Matthew 05#^5-19|Matt. v. 19]]. \[[[Matthew 05#^5-20|Matt. v. 20]]. The citation is accurate; the phrase “the righteousness” is supplied in English; see R.V.—R.\]
+685 [[Matthew 05#^5-18|Matt. v. 18]]. \[R.V., “Till Heaven and earth pass away, one jot or one tittle shall in no wise pass away from the law, till all things be accomplished.”—R.\] 686 ἀπαρτσα. 687 βιο παρασκευν ψηλοτραν. 688 [[Matthew 05#^5-19|Matt. v. 19]]. 689 \[[[Matthew 05#^5-20|Matt. v. 20]]. The citation is accurate; the phrase “the righteousness” is supplied in English; see R.V.—R.\]
 
 *[p. 196]* ^pg204
 
@@ -628,7 +628,7 @@ Seest thou authority in perfection? Seest thou a bearing suited to a legislator?
 
 Let us now ask those who reject the law, “is, ‘Be not angry’ contrary to ‘Do no murder’? or is not the one commandment the completion and the development of the other?” Clearly the one is the fulfilling of the other, and that is greater on this very account. Since he who is not stirred up to anger, will much more refrain from murder; and he who bridles wrath will much more keep his hands to himself. For wrath is the root of murder. And you see that He who cuts up the root will much more remove the branches; or rather, will not permit them so much as to shoot out at all. Not therefore to abolish the law did He make these enactments, but for the more complete observation of it. For with what design did the law enjoin these things? Was it not, that no one might slay his neighbor? It follows, that he who was opposing the law would have to enjoin murder. For to murder, were the contrary to doing no murder. But if He doth not suffer one even to be angry, the mind of the law is established by Him more completely. For he that studies to avoid murder will not refrain from it equally with him that hath put away even anger; this latter being further removed from the crime.
 
-[[Matthew 05#^5-22|Matt. v. 22]]. \[Chrysostom reads εκ in this verse, and interprets accordingly; see also Homily XVII. 2. The 703 term is wanting in the two oldest mss. of the Greek Testament, and in the Vulgate. Comp. R.V. *in loco*.—R.\] 704 [[John 17#^17-10|John xvii. 10]].
+703 [[Matthew 05#^5-22|Matt. v. 22]]. \[Chrysostom reads εκ in this verse, and interprets accordingly; see also Homily XVII. 2. The term is wanting in the two oldest mss. of the Greek Testament, and in the Vulgate. Comp. R.V. *in loco*.—R.\] 704 [[John 17#^17-10|John xvii. 10]].
 
 *[p. 200]* ^pg208
 

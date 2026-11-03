@@ -197,7 +197,9 @@ subject to them.” <sup>1744</sup> It did not say, “He was subject to His mot
 
 1744 [[Luke 02#^2-49|Luke ii. 49]], [[Luke 02#^2-50|50]], [[Luke 02#^2-51|51]]. 1745 Wisd. viii. 1. 1746 [[Romans 01#^1-3|Rom. i. 3]]. 1747 *Commendaret*. 1748 [[Romans 09#^9-5|Rom. ix. 5]]. 1749 [[Matthew 22#^22-42|Matt. xxii. 42]].
 
-1750 Ps. cx.
+1750 Ps. cx. 1.
+
+1751 Matt. xxii. 43, 44, 45.
 
 
 *[p. 542]* ^pg568

@@ -204,7 +204,7 @@ But will ye, that we leave these, and go to others of a gentler kind? Come then,
 
 3\. But will ye that we leave these too, and go to others who seem to be more just? Who then are they? They that are possessed of lands, and reap the wealth that springs from the earth. And what can be more unjust than these? For if any one were to examine how they treat their wretched and toil-worn laborers, he will see them to be more cruel than savages. For upon them that are pining with hunger, and toiling throughout all their life, they both
 
-2367 [[Matthew 05#^5-22|Matt. v. 22]]. 2368 [[Matthew 05#^5-28|Matt. v. 28]]. 2369 [[Matthew 18#^18-3|Matt. xviii. 3]]. \[Slightly altered.\] \[ἐπιτρπων, “stewards,” answering here to “overseers,” in the worst sense.—R.\]
+2367 [[Matthew 05#^5-22|Matt. v. 22]]. 2368 [[Matthew 05#^5-28|Matt. v. 28]]. 2369 [[Matthew 18#^18-3|Matt. xviii. 3]]. \[Slightly altered.\]
 
 
 *[p. 654]* ^pg662
@@ -225,7 +225,7 @@ Bearing in mind all these things, and considering the ten thousand talents, let 
 
 In order then that we may learn this well, let us hear the whole parable, going on regularly through it. “For there was brought unto Him,” it saith, “one which owed ten thousand talents,
 
-2370 2371 Jer. ii. 12. 2372 ἐξεβακχεθη. 2373 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was implied in “husbandry” (γεωργαν).—R.\]
+2370 \[ἐπιτρπων, “stewards,” answering here to “overseers,” in the worst sense.—R.\] 2371 Jer. ii. 12. 2372 ἐξεβακχεθη. 2373 \[οδ γρο occurs here in the Greek, but is ignored by the translator; probably because the thought was implied in “husbandry” (γεωργαν).—R.\]
 
 
 *[p. 655]* ^pg663
@@ -364,7 +364,7 @@ But now both by the manner of the creation, and by the manner of lawgiving, He s
 
 And see how He saith, “He which made them at the beginning, made them male and female,” that is, from one root they sprung, and into one body came they together, “for the twain shall be one flesh.”
 
-2388 \[R.V., “from.”\] 2389 \[R.V., “become.”\] 365 έναγ.
+2388 \[R.V., “from.”\] 2389 \[R.V., “become.”\] 2390 Matt. xix. 4–6. 365
 
 
 *[p. 662]* ^pg670
@@ -381,7 +381,7 @@ And indeed if He had been an alien from the old covenant, He would not have stri
 
 And indeed Moses had given many other commandments besides, both those about meats, and those about the Sabbath; wherefore then do they nowhere bring him forward, as here? From a wish to enlist the multitude of the husbands against him. For this was considered a thing indifferent with the Jews, and all used to do so much as this. Accordingly it
 
-2391 [[Matthew 19#^19-7|Matt. xix. 7]]. \[“How” is substituted for “why.”\]
+2391 έναγ. 2392 [[Matthew 19#^19-7|Matt. xix. 7]]. \[“How” is substituted for “why.”\]
 
 
 *[p. 663]* ^pg671
@@ -707,7 +707,7 @@ But the question is this, whether the first having gloriously approved themselve
 
 What then is it which is to be established by these things? For in other parables also this self-same thing may be seen. For the son who was approved is brought in, as having felt this self-same thing, when he saw his prodigal brother enjoying much honor, even more than himself. For like as these enjoyed more by receiving first, so he in a greater degree was
 
-2449 [[Matthew 20#^20-1|Matt. xx. 1]]. \[This long passage agrees closely with the rec. text. In verses 5, 6, the New Testament narrative is abridged, but there are scarcely any other peculiarities.—R.\] κατ λξιν.
+2449 [[Matthew 20#^20-1|Matt. xx. 1]]. \[This long passage agrees closely with the rec. text. In verses 5, 6, the New Testament narrative is abridged, but there are scarcely any other peculiarities.—R.\]
 
 
 *[p. 683]* ^pg691
@@ -724,4 +724,4 @@ This Paul also declared when he said, “When it pleased Him, who separated me f
 
 And if they say, “No man hath hired us,” in the first place as I said we must not be curious about all the points in the parables; but here neither is the good man of the house represented to say this, but they; but he doth not convict them, that he might drive them to perplexity, but might win them over. For that He called all, as far as lay in Him, from the first even the parable shows, saying, that “He went out early in the morning to hire.”
 
-2450 [[Galatians 01#^1-15|Gal. i. 15]].
+2450 κατ λξιν. 2451 [[Galatians 01#^1-15|Gal. i. 15]].

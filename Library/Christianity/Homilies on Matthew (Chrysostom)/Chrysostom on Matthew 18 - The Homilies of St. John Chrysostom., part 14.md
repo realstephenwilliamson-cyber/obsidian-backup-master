@@ -626,7 +626,7 @@ But He, omitting the first, the reward appointed for them that honor their paren
 
 “And what wonder is it, if ye offer such insults to me, who am as yet unknown, when even to the Father ye are found doing the like?” For everywhere He both asserts and implies, that from Him they began with this their arrogance.
 
-\[Chrysostom read κα, with the rec. text, thus making the sentence break off. The A.V. supplies “he shall 1992 be free.” R.V., omitting “and,” with the best authorities, makes this clause the conclusion: “he shall not honor,” etc.—R.\]
+1992 \[Chrysostom read κα, with the rec. text, thus making the sentence break off. The A.V. supplies “he shall be free.” R.V., omitting “and,” with the best authorities, makes this clause the conclusion: “he shall not honor,” etc.—R.\]
 
 1993 \[R.V. text omits “and his mother.”\]
 

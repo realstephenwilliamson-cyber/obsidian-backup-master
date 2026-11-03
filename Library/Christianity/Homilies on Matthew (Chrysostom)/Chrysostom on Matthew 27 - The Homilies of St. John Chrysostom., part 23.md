@@ -99,7 +99,7 @@ Nevertheless, the lover of man, though they acted with so much madness, both aga
 
 “Then released he Barabbas unto them, but Jesus, when he had scourged Him, he delivered to be crucified.”<sup>3086</sup>
 
-*i.e*., the Jewish rulers; Mr. Field has observed in his note on this passage, that ο Ιουδαοι is thus used, es- 3083 pecially in St. John’s Gospel. 3084 [[Matthew 27#^27-25|Matt. xxvii. 25]]. 3085 [[Acts 21#^21-20|Acts xxi. 20]]. \[The R.V. accepts a different reading; but “which have believed” is the more accurate rendering of the received text.—R.\] 3086 [[Matthew 27#^27-26|Matt. xxvii. 26]]. \[R.V., “he scourged and delivered to be crucified.”—R.\]
+3083 *i.e*., the Jewish rulers; Mr. Field has observed in his note on this passage, that ο Ιουδαοι is thus used, es- pecially in St. John’s Gospel. 3084 [[Matthew 27#^27-25|Matt. xxvii. 25]]. 3085 [[Acts 21#^21-20|Acts xxi. 20]]. \[The R.V. accepts a different reading; but “which have believed” is the more accurate rendering of the received text.—R.\] 3086 [[Matthew 27#^27-26|Matt. xxvii. 26]]. \[R.V., “he scourged and delivered to be crucified.”—R.\]
 
 *[p. 889]* ^pg897
 
@@ -288,13 +288,11 @@ For after the crucifixion, the city was destroyed, and the Jewish state came to 
 
 And observe when it took place. At midday, that all that dwell on the earth may know it, when it was day all over the world; which was enough to convert them, not by the greatness of the miracle only, but also by its taking place in due season. For after all their insulting, and their lawless derision, this is done, when they had let go their anger, when they had ceased mocking, when they were satiated with their jeerings, and had spoken all that they were minded; then He shows the darkness, in order that at least so (having vented their anger) they may profit by the miracle. For this was more marvellous than to come down from the cross, that being on the cross He should work these things. For whether they
 
-\[In verse 46, ἔκραξευ is substituted for ἀνεβησεν, and κα επεν for λγων; as indicated above, λιμ is the 3114 form given. In other respects the agreement with the received text is exact.—R.\]
+3114 \[In verse 46, ἔκραξευ is substituted for ἀνεβησεν, and κα επεν for λγων; as indicated above, λιμ is the form given. In other respects the agreement with the received text is exact.—R.\]
 
 3115 [[Matthew 12#^12-39|Matt. xii. 39]].
 
-3116
-
-[[John 08#^8-28|John viii. 28]].
+3116 [[John 08#^8-28|John viii. 28]].
 
 3117 Or, “His.”
 
@@ -416,7 +414,7 @@ But it were worth while to inquire concerning that point also, where He said, �
 
 What then saith Pilate? “Ye have a watch; make it as sure as ye can. And they made it sure, sealing the sepulchre, and setting the watch.”<sup>3147</sup> He suffers not the soldiers alone to
 
-\[ὅτι is inserted at this point (but not in the subsequent citation). There are no other variations. R.V., 3143 “Now on the morrow which is *the day* after the Preparation, the chief priests and the Pharisees were gathered together,” etc.—R.\]
+3143 \[ὅτι is inserted at this point (but not in the subsequent citation). There are no other variations. R.V., “Now on the morrow which is *the day* after the Preparation, the chief priests and the Pharisees were gathered together,” etc.—R.\]
 
 3144 \[R.V. omits “will.”\]
 
@@ -424,9 +422,7 @@ What then saith Pilate? “Ye have a watch; make it as sure as ye can. And they 
 
 3146 Not to the Jews, for it was often plainly declared to the disciples, as St. Chrysostom himself observes a little further on.
 
-3147
-
-[[Matthew 27#^27-65|Matt. xxvii. 65]], [[Matthew 27#^27-66|66]]. \[The only peculiarity is indicated in the above rendering; for “made the sepulchre sure, sealing the stone.” R.V., “guard” for “watch,” and “the guard being with them.”—R.\]
+3147 [[Matthew 27#^27-65|Matt. xxvii. 65]], [[Matthew 27#^27-66|66]]. \[The only peculiarity is indicated in the above rendering; for “made the sepulchre sure, sealing the stone.” R.V., “guard” for “watch,” and “the guard being with them.”—R.\]
 
 *[p. 909]* ^pg917
 
@@ -565,7 +561,7 @@ What then saith He unto them, when He seeth them? “All power is given unto me 
 
 After that, because he had enjoined on them great things, to raise their courage, He says, “Lo! I am with you alway, even unto the end of the world.”<sup>3175</sup> Seest thou His own proper power again? Seest thou how those other things also were spoken for condescension? And not with those men only did He promise to be, but also with all that believe after them. For plainly the apostles were not to remain here unto “the end of the world;” but he speaks to the believers as to one body. For tell me not, saith He, of the difficulty of the things: for “I am with you,” who make all things easy. This He said to the prophets also in the Old Testament continually, as well to Jeremiah objecting his youth,<sup>3176</sup>as to Moses<sup>3177</sup>and Ezekiel<sup>3178</sup>shrinking from the office, “I am with you,” this here also to these men. And mark,
 
-[[Matthew 28#^28-15|Matt. xxviii. 15]]. \[R.V., “was spread abroad.” The phrase “among the Jews” is omitted, and ἡμρα is added, 3171 as in the Vatican ms., and Vulgate.—R.\]
+3171 [[Matthew 28#^28-15|Matt. xxviii. 15]]. \[R.V., “was spread abroad.” The phrase “among the Jews” is omitted, and ἡμρα is added, as in the Vatican ms., and Vulgate.—R.\]
 
 3172 [[Matthew 28#^28-16|Matt. xxviii. 16]], [[Matthew 28#^28-17|17]]. \[The citation is abridged and altered.—R.\]
 
@@ -573,13 +569,9 @@ After that, because he had enjoined on them great things, to raise their courage
 
 3175 [[Matthew 28#^28-20|Matt. xxviii. 20]].
 
-3176
+3176 Jer. i. 6, 8.
 
-Jer. i. 6, 8.
-
-3177
-
-Exod. iv. 10, 12.
+3177 Exod. iv. 10, 12.
 
 3178 Ezek. ii. and iii.
 

@@ -144,7 +144,7 @@ But by keeping back at the proper season His teaching on these subjects, He was 
 
 For the present, however, by the manifestation of His miracles, and by the very manner of His teaching, He unfolds it on occasion, gradually and quietly. For His enacting such laws, and such corrections of laws, with authority, would lead on the attentive and understanding hearer, by little and little, unto the word of His doctrine. For it is said, “they were astonished at Him, because He taught not as their Scribes.”<sup>746</sup>
 
-\[The phrase “to them of old time” (το ρχαοι) is not found in the oldest mss. of the New Testament, in 742 [[Matthew 05#^5-27|Matt. v. 27]]. It would be readily inserted from similar passages.—R.\]
+742 \[The phrase “to them of old time” (το ρχαοι) is not found in the oldest mss. of the New Testament, in [[Matthew 05#^5-27|Matt. v. 27]]. It would be readily inserted from similar passages.—R.\]
 
 743 Deut. vi. 4. \[Comp. [[Mark 12#^12-29|Mark xii. 29]], and the renderings of the R.V. text and margin in both passages.—R.\] 744 \[ἑαυτν συνειαγαγεν .\]
 
@@ -178,11 +178,9 @@ For one may indeed behold in another way, such as are the looks of the chaste; w
 
 For not at all to this end did God make thee eyes, that thou shouldest thereby introduce adultery, but that, beholding His creatures, thou shouldest admire the Artificer.
 
-τ συνοκου παρθνου, they were often called συνεισακτο. The practice of unmarried men, especially of the 748 clergy, having single young women in their houses, is a frequent object of warning and censure both in the Homilies of the Fathers and in Church Canons. The earliest mention of such a thing, and of the sad abuse consequent on it, appears to be in St. Irenæus, i. 6, 3: who lays it to the charge of the Valentinian heretics. Tertullian (*de Jejun. ad fin*.) imputes it to the Catholics. St. Cyprian’s fourth Epistle (ed. Fell.) was written to repress and punish an instance of it in the Church of Carthage. It was one of the charges against Paul of Samosata, and was forbidden by the third canon of Nicæa. See Dr. Routh’s *Reliquiæ Sacræ,* 2,506, to which the editor is indebted for this note. The custom seems to have prevailed particularly at Antioch, *ib*. 482. See also an oration of Chrysostom on this subject, vi. 214.
+748 τ συνοκου παρθνου, they were often called συνεισακτο. The practice of unmarried men, especially of the clergy, having single young women in their houses, is a frequent object of warning and censure both in the Homilies of the Fathers and in Church Canons. The earliest mention of such a thing, and of the sad abuse consequent on it, appears to be in St. Irenæus, i. 6, 3: who lays it to the charge of the Valentinian heretics. Tertullian (*de Jejun. ad fin*.) imputes it to the Catholics. St. Cyprian’s fourth Epistle (ed. Fell.) was written to repress and punish an instance of it in the Church of Carthage. It was one of the charges against Paul of Samosata, and was forbidden by the third canon of Nicæa. See Dr. Routh’s *Reliquiæ Sacræ,* 2,506, to which the editor is indebted for this note. The custom seems to have prevailed particularly at Antioch, *ib*. 482. See also an oration of Chrysostom on this subject, vi. 214.
 
-749
-
-Job xxxi. 1.
+749 Job xxxi. 1.
 
 750 \[οκτι σχοντε, “no longer having strength.”—R.\]
 
@@ -212,9 +210,11 @@ But why did Paul then, it may be said, choose to become accursed?<sup>758</sup> 
 
 But that thou mayest see yet more clearly the profit of this law; let us, if you please, try what hath been said, in the case of the body itself, by way of supposition. I mean, if choice were given, and thou must either, keeping thine eye, be cast into a pit and perish, or plucking it out, preserve the rest of thy body; wouldest thou not of course accept the latter? It is plain to everyone. For this were not to act as one hating the eye, but as one loving the rest of the body. This same reckoning do thou make with regard to men also and women: that if he
 
-[[Matthew 05#^5-29|Matt. v. 29]]. \[R.V., “If thy right eye causeth thee to stumble,” and so, everywhere in rendering σκανδαλζειν 756 .—R.\] 757
+756 [[Matthew 05#^5-29|Matt. v. 29]]. \[R.V., “If thy right eye causeth thee to stumble,” and so, everywhere in rendering σκανδαλζειν .—R.\]
 
-\[[[Matthew 05#^5-29|Matt. v. 29]], [[Matthew 05#^5-30|30]].\]
+757 \[[[Matthew 05#^5-29|Matt. v. 29]], [[Matthew 05#^5-30|30]].\]
+
+758 Rom. ix. 3.
 
 *[p. 217]* ^pg225
 
@@ -234,7 +234,7 @@ For if He had not enjoined this, but it were lawful first to cast her out, and t
 
 But these things were done by reason of another, a far greater wickedness; I mean, had He made it necessary to keep in the house her even that was hated, the husband, hating,
 
-116 759 κινσα. ββλιον ποστασου, St. Chrys. Comp. [[Mark 10#^10-4|Mark x. 4]]: ἀποστσιον, rec. Text. \[There is no variation in the text of 760 Matthew here, but in verse 32 the best authorities read π πολωνὃς ν πολσ, as in text. rec.—R.\] 761 [[Matthew 06#^6-31|Matt. vi. 31]], [[Matthew 06#^6-32|32]]. 762 Deut. xxiv. 1–4.
+116 759 κινσα. 760 ββλιον ποστασου, St. Chrys. Comp. [[Mark 10#^10-4|Mark x. 4]]: ἀποστσιον, rec. Text. \[There is no variation in the text of Matthew here, but in verse 32 the best authorities read π πολωνὃς ν πολσ, as in text. rec.—R.\] 761 [[Matthew 06#^6-31|Matt. vi. 31]], [[Matthew 06#^6-32|32]]. 762 Deut. xxiv. 1–4.
 
 *[p. 218]* ^pg226
 
@@ -346,7 +346,7 @@ See, for example, Paul himself, hardly bearing it, because his scholars were del
 
 Wherefore we too mourn and lament. And if I see you persisting, I will forbid you for the future to set foot on this sacred threshold, and partake of the immortal mysteries; as we do fornicators and adulterers, and persons charged with murder. Yea, for it is better to offer
 
-120 783 See St. Chrys. on 1 Cor. Hom. IV. and the note there. [[Hebrews 05#^5-12|Heb. v. 12]]. \[The text of [[Hebrews 05#^5-12|Heb. v. 12]] is modified, διδσκεσθαι being substituted for διδσκειν. The Vulgate 784 also has the passive. The R.V. takes τινα as the indefinite pronoun: “that someone teach you;” but compare the margin. Notice, too, the acceptance of the Pauline authorship of the Epistle.—R.\]
+120 783 See St. Chrys. on 1 Cor. Hom. IV. and the note there. 784 [[Hebrews 05#^5-12|Heb. v. 12]]. \[The text of [[Hebrews 05#^5-12|Heb. v. 12]] is modified, διδσκεσθαι being substituted for διδσκειν. The Vulgate also has the passive. The R.V. takes τινα as the indefinite pronoun: “that someone teach you;” but compare the margin. Notice, too, the acceptance of the Pauline authorship of the Epistle.—R.\]
 
 *[p. 225]* ^pg233
 
@@ -378,7 +378,7 @@ And thus in fact He is silently dropping seed of much self-restraint, at least i
 
 Having therefore mentioned the ancient law, and recognized it all, He signifies again, that it is not our brother who hath done these deeds, but the evil one. For this cause he hath also subjoined, “But I say unto you, that ye resist not the evil one.” He did not say, “resist not your brother,” but “the evil one,” signifying that on his motion men dare so to act; and
 
-\[R.V. text, “him that is evil.” Chrysostom interprets τ πονηρ, “the evil one.” In verse 40 the R.V. renders 787 “would go to law with thee.”—R.\]
+787 \[R.V. text, “him that is evil.” Chrysostom interprets τ πονηρ, “the evil one.” In verse 40 the R.V. renders “would go to law with thee.”—R.\]
 
 788 ὁ το δικαου λγο.
 
@@ -514,7 +514,7 @@ Wherefore also He here brings forward the heathens and the publicans, by the qua
 
 Wherefore now dost thou not address him first? “Because he is waiting for this,” is the reply. Nay, for this very reason most of all thou shouldest have sprung forward to him, that thou mightest win the crown. “No,” saith he, “since this was his object.” And what can be worse than this folly? That is, “Because this,” saith he, “was his object;—to become procurer of a reward for me;—I will not put my hand to what he has thus suggested.” Now if he first address thee, thou gainest nothing, even though thou accost him. But if thou be first to spring forward and speak to him, thou hast made thyself profit of his pride, and hast gathered in a manner abundant fruit from his obstinacy.<sup>813</sup> What is it then but the utmost folly, when we are to reap so large fruit from bare words, to give up the gain; and condemning him, to stumble at the very same thing? For if thou blamest him for this, that he first waits to be addressed by another, wherefore dost thou emulate that same thing which thou accusest? That which thou saidst was evil, why art thou to imitate the same as good? Seest thou how that nothing is more senseless than a man who associates with wickedness? Wherefore, I
 
-808 [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]]. 809 [[1 Thessalonians 04#^4-5|1 Thess. iv. 5]]. τελωνα, rec. text. \[But ο θνικο, the reading accepted by Chrysostom, is supported by the best authorities 810 of every class. Comp. R.V.—R.\] 811 [[Matthew 05#^5-47|Matt. v. 47]]. 812 [[Matthew 05#^5-48|Matt. v. 48]]. \[The text of the Homily has γνεσθε, which is probably imperative, but in [[Matthew 05#^5-48|Matt. v. 48]], ἔσεσθε is the undisputed reading: comp. R.V., “Ye therefore shall be perfect,” etc.—R.\] 813 ἀπονοα.
+808 [[1 Thessalonians 04#^4-13|1 Thess. iv. 13]]. 809 [[1 Thessalonians 04#^4-5|1 Thess. iv. 5]]. 810 τελωνα, rec. text. \[But ο θνικο, the reading accepted by Chrysostom, is supported by the best authorities of every class. Comp. R.V.—R.\] 811 [[Matthew 05#^5-47|Matt. v. 47]]. 812 [[Matthew 05#^5-48|Matt. v. 48]]. \[The text of the Homily has γνεσθε, which is probably imperative, but in [[Matthew 05#^5-48|Matt. v. 48]], ἔσεσθε is the undisputed reading: comp. R.V., “Ye therefore shall be perfect,” etc.—R.\] 813 ἀπονοα.
 
 *[p. 235]* ^pg243
 
@@ -594,7 +594,7 @@ And then the reward too; consider how great it is. For after He had spoken of th
 
 “Thy Father which seeth in secret shall reward thee openly.”<sup>829</sup> Setting for him a great and august assemblage of spectators, and what He desires, that very thing bestowing on him in great abundance. “For what,” saith He, “dost thou wish? is it not to have some to be spectators of what is going on? Behold then, thou hast some; not angels, nor archangels, but the God of all.” And if thou desire to have men also as spectators, neither of this desire doth He deprive thee at the fitting season, but rather in greater abundance affords it unto thee. For, if thou shouldest now make a display, thou wilt be able to make it to ten only, or twenty, or (we will say) a hundred persons: but if thou take pains to lie hid now, God Himself will then proclaim thee in the presence of the whole universe. Wherefore above all, if thou wilt have men see thy good deeds, hide them now, that then all may look on them with the more honor, God making them manifest, and extolling them, and proclaiming them before all. Again, whereas now they that behold will rather condemn thee as vainglorious; when they see thee crowned, so far from condemning, they will even
 
-129 826 \[As in the previous clause, “ought we to act.”—R.\] 827 [[Matthew 06#^6-3|Matt. vi. 3]]. 828 σκαιο, literally, “on the left hand.” [[Matthew 06#^6-4|Matt. vi. 4]]. \[The phrase ἐν τ φανερ is poorly supported in verses 4, 6, 18. It seems, however, to be accepted 829 by Chrysostom. The R.V. properly renders “recompense thee” to distinguish from the word “reward” (μισθν), which occurs in verse 2and similar passages.—R.\]
+129 826 \[As in the previous clause, “ought we to act.”—R.\] 827 [[Matthew 06#^6-3|Matt. vi. 3]]. 828 σκαιο, literally, “on the left hand.” 829 [[Matthew 06#^6-4|Matt. vi. 4]]. \[The phrase ἐν τ φανερ is poorly supported in verses 4, 6, 18. It seems, however, to be accepted by Chrysostom. The R.V. properly renders “recompense thee” to distinguish from the word “reward” (μισθν), which occurs in verse 2and similar passages.—R.\]
 
 *[p. 239]* ^pg247
 

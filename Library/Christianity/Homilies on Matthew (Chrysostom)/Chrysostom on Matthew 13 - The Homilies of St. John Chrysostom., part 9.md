@@ -185,7 +185,7 @@ Now if thou admire the young man, that for a matter so necessary he besought Jes
 
 Was it not then, one may say, extreme ingratitude, not to be present at the burial of his father? If indeed he did so out of negligence, it was ingratitude, but if in order not to interrupt a more needful work, his departing would most surely have been of extreme inconsideration. For Jesus forbad him, not as commanding to think lightly of the honor due to our parents, but signifying that nothing ought to be to us more urgent than the things of Heaven, and that we ought with all diligence to cleave to these, and not to put them off for ever so little,
 
-1167 [[Matthew 11#^11-7|Matt. xi. 7]]. 1168 *i. e*., of those heretics who “commanded to abstain from meats,” as though possessed with some evil principle: the Manichæan and Marcionite schools. Comp. St. Chrys. on [[1 Timothy 01#^1-5|1 Tim. i. 5]]. 1169 [[Matthew 08#^8-21|Matt. viii. 21]]. 1170 ὅσιον. φιλοσοφαν .
+1167 [[Matthew 11#^11-7|Matt. xi. 7]]. 1168 *i. e*., of those heretics who “commanded to abstain from meats,” as though possessed with some evil principle: the Manichæan and Marcionite schools. Comp. St. Chrys. on [[1 Timothy 01#^1-5|1 Tim. i. 5]]. 1169 [[Matthew 08#^8-21|Matt. viii. 21]]. 1170 ὅσιον.
 
 
 *[p. 334]* ^pg342
@@ -202,7 +202,7 @@ But if to mourn and be afflicted in mind for them that are of our kindred is evi
 
 7\. Nothing else then do we learn hereby, but that we must not wantonly lose any, no not the smallest time, though there be ten thousand things to press on us; but to set what is spiritual before all, even the most indispensable matters, and to know both what is life, and what is death. Since many even of them that seem to live are nothing better than dead men, living as they do in wickedness; or rather these are worse than the dead; “For he that is dead,” it is said, “is freed from sin,”<sup>1173</sup>but this man is a slave to sin. For tell me not of this, that he
 
-1171 1172 [[Luke 09#^9-62|Luke ix. 62]], ἐν τ βασιλε. \[The citation is peculiar: (1) ἐν is not found in any of our mss. of the New Testament, the received text is ε τν βασιλεαν, while the dative alone is better supported. (2) τν ορανν is substituted for το θεο; the former occurring in Matthew only in connection with βασιλεα.—R.\] 1173 [[Romans 06#^6-7|Rom. vi. 7]].
+1171 φιλοσοφαν . 1172 [[Luke 09#^9-62|Luke ix. 62]], ἐν τ βασιλε. \[The citation is peculiar: (1) ἐν is not found in any of our mss. of the New Testament, the received text is ε τν βασιλεαν, while the dative alone is better supported. (2) τν ορανν is substituted for το θεο; the former occurring in Matthew only in connection with βασιλεα.—R.\] 1173 [[Romans 06#^6-7|Rom. vi. 7]].
 
 
 *[p. 335]* ^pg343
@@ -236,7 +236,7 @@ Forasmuch then as they are in a sort of senseless state, being turned to dead me
 
 For if we thus order our own affairs, and those of our neighbors, we shall also attain speedily unto the life to come; unto which may we all attain, by the grace and love to man of our Lord Jesus Christ, to whom be glory forever and ever. Amen.
 
-εδωλον. The classical use of this word is well known: see *e.g.* Odyss. xi. 602. “A shadow or phantom: not 1176 a true substantial soul.” Alluding to [[John 12#^12-2|John xii. 2]].
+1176 εδωλον. The classical use of this word is well known: see *e.g.* Odyss. xi. 602. “A shadow or phantom: not a true substantial soul.” 1177 Alluding to [[John 12#^12-2|John xii. 2]].
 
 *[p. 337]* ^pg345
 
@@ -351,7 +351,7 @@ And mark also His meekness together with His power. For when the inhabitants of 
 
 For so when any man is dissolute, eager after all embraces,<sup>1207</sup>he differs not at all from the demoniac, but goes about naked like him, clad indeed in garments, but deprived of the true covering, and stripped of his proper glory; cutting himself not with stones, but with sins more hurtful than many stones. Who then shall be able to bind such a one? Who, to stay his unseemliness and frenzy, his way of never coming to himself, but forever haunting
 
-κατ ναγωγν. \[Comp. the “analogical” sense of Scripture in the later Hermeneuties. But Origen and others 1205 had already made the term ἀναγωγ familiar and technical in the usage of ecclesiastical Greek.—R.\] 1206 \[“demons.”\] 1207 σωματ.
+1205 κατ ναγωγν. \[Comp. the “analogical” sense of Scripture in the later Hermeneuties. But Origen and others had already made the term ἀναγωγ familiar and technical in the usage of ecclesiastical Greek.—R.\] 1206 \[“demons.”\] 1207 σωματ.
 
 *[p. 344]* ^pg352
 
@@ -593,7 +593,7 @@ Having then reproved them, both by common illustrations and by the Scriptures, H
 
 1269 [[1 Corinthians 09#^9-14|1 Cor. ix. 14]]; comp. [[Matthew 10#^10-10|Matt. x. 10]].
 
-1270 [[Matthew 16#^16-9|Matt. xvi. 9]]. 1271 See Hosea vi. 6; Ps. l. 8–15; Prov. xxi. 3; Isa. i. 11–15; Micah vi. 6, 7, 8. 1272 [[John 05#^5-17|John v. 17]]. 1273 [[Matthew 09#^9-13|Matt. ix. 13]]. \[The best Greek mss., with the Vulgate (so Augustin) do not sustain the reading: “unto repentance.” Comp. [[Luke 05#^5-32|Luke v. 32]].—R.\] 1274 Gen. iii. 22, LXX. 1275 Ps. l.
+1270 [[Matthew 16#^16-9|Matt. xvi. 9]]. 1271 See Hosea vi. 6; Ps. l. 8–15; Prov. xxi. 3; Isa. i. 11–15; Micah vi. 6, 7, 8. 1272 [[John 05#^5-17|John v. 17]]. 1273 [[Matthew 09#^9-13|Matt. ix. 13]]. \[The best Greek mss., with the Vulgate (so Augustin) do not sustain the reading: “unto repentance.” Comp. [[Luke 05#^5-32|Luke v. 32]].—R.\] 1274 Gen. iii. 22, LXX. 1275 Ps. l. 12. 1276 Rom. iii. 23.
 
 
 *[p. 359]* ^pg367
@@ -646,7 +646,7 @@ But Luke<sup>1292</sup>the same words, a second and a third time and often; not 
 
 Seest thou not the painters, how much they rub out, how much they insert, when they are making a beautiful portrait? Well then, do not thou prove inferior to these. For if these, in drawing the likeness of a body, used such great diligence, how much more were it meet for us, in fashioning a soul, to use every contrivance. For if thou shouldest fashion well the form of this soul, thou wilt not see the countenance of the body looking unseemly, nor lips stained, nor a mouth like a bear’s mouth dyed with blood, nor eyebrows blackened as with the smut of some kitchen vessel, nor cheeks whitened with dust like the walls of the tombs. For all these things are smut, and cinders, and dust, and signals of extreme deformity.
 
-199 κεχρσθαι το πομνοι, “to treat their followers.” The last editor thinks there is a designed play upon the 1288 words, by way of rhetorical turn, here. 1289 [[Matthew 09#^9-15|Matt. ix. 15]]. \[The three accounts of the sayings in verses 15–17 vary greatly in form, and the authorities for the Greek text present a great number of various readings. It will be sufficient to refer to the R.V., and to note a few verbal changes.—R.\]
+199 1288 κεχρσθαι το πομνοι, “to treat their followers.” The last editor thinks there is a designed play upon the words, by way of rhetorical turn, here. 1289 [[Matthew 09#^9-15|Matt. ix. 15]]. \[The three accounts of the sayings in verses 15–17 vary greatly in form, and the authorities for the Greek text present a great number of various readings. It will be sufficient to refer to the R.V., and to note a few verbal changes.—R.\]
 
 1290 [[Matthew 09#^9-17|Matt. ix. 17]]: \[R.V., “wine-skins.” Comp. the next paragraph.\] 1291 Jer. xiii. 10–12. 1292 See [[Luke 05#^5-36|Luke v. 36]], [[Luke 05#^5-37|37]]. τ καινν σχζειἐπαντλν, “using fomentation.” See Mr. Field’s note on the place.
 

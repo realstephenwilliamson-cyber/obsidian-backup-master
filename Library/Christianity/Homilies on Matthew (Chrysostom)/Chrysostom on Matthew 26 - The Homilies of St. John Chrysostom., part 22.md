@@ -159,9 +159,9 @@ But the evening is a sure sign of the fullness of times, and that the things wer
 
 And He gives thanks, to teach us how we ought to celebrate this sacrament, and to show that not unwillingly doth He come to the passion, and to teach us whatever we may suffer
 
-\[εχαριστσα (from verse 27) is substituted for ελογσα; and ἔδωκεν (from the same verse) for ἐδδου (rec. 2955 text) or δος, of the more ancient authorities.—R.\]
+2955 \[εχαριστσα (from verse 27) is substituted for ελογσα; and ἔδωκεν (from the same verse) for ἐδδου (rec. text) or δος, of the more ancient authorities.—R.\]
 
-\[The text agrees exactly with the received; except in the substitution of ὑπρ for περ. The R.V. following 2956 the older authorities, omits “new,” also rendering διαθκη “covenant” in the text.—R.\]
+2956 \[The text agrees exactly with the received; except in the substitution of ὑπρ for περ. The R.V. following the older authorities, omits “new,” also rendering διαθκη “covenant” in the text.—R.\]
 
 2957 \[φρικωδεσττη, “most awful;” literally, “most terrifying,” but applied to religious awe.—R.\]
 
@@ -341,7 +341,7 @@ Not without reason doth He inveigh against Peter most, although the others also 
 
 And He prays with earnestness, in order that the thing might not seem to be acting. And sweats flow over him for the same cause again, even that the heretics might not say this, that He acts the agony. Therefore there is a sweat like drops of blood, and an angel appeared strengthening Him, and a thousand sure signs of fear, lest any one should affirm the words to be feigned. For this cause also was this prayer. By saying then, “If it be possible, let it pass from me,” He showed His humanity; but by saying, “Nevertheless not as I will, but as Thou wilt,” He showed His virtue and self-command, teaching us even when nature pulls us back, to follow God. For since it was not enough for the foolish to show His face
 
-\[The only variation of text is the substitution of κα for ττε, at the beginning of verse 38. The R.V. renders, 2989 “sorrowful and sore troubled,” and “abide” instead of “tarry.”—R.\] 2990 [[Matthew 26#^26-39|Matt. xxvi. 39–41]]. \[The first part of verse 39 is abridged, and in 40“them” is substituted for “the disciples.” The remainder of the passage is in verbal agreement with the received text.—R.\] 2991 [[Matthew 26#^26-36|Matt. xxvi. 36]].
+2989 \[The only variation of text is the substitution of κα for ττε, at the beginning of verse 38. The R.V. renders, “sorrowful and sore troubled,” and “abide” instead of “tarry.”—R.\] 2990 [[Matthew 26#^26-39|Matt. xxvi. 39–41]]. \[The first part of verse 39 is abridged, and in 40“them” is substituted for “the disciples.” The remainder of the passage is in verbal agreement with the received text.—R.\] 2991 [[Matthew 26#^26-36|Matt. xxvi. 36]].
 
 *[p. 863]* ^pg871
 
@@ -387,7 +387,7 @@ Knowing then these things, let us flee from covetousness. For that, that it was,
 
 Wherefore I say, let us flee from it; for I will not cease for ever saying this. For why, O man, dost thou gather gold? Why dost thou make thy bondage more bitter? Why thy watching more grievous? Why thy anxiety more painful? Account for thine own the metals buried in the mines, those in the kings’ courts. For indeed if thou hadst all that heap, thou wouldest keep it only, and wouldest not use it. For if now thou hast not used the things thou possessest, but abstainest from them as though they belonged to others, much more would this be the case with thee, if thou hadst more. For it is the way of the covetous, the more they heap up around them, the more to be sparing of it. “But I know,” sayest thou, “that these things are mine.” The possession then is in supposition only, not in enjoyment. But I should be an object of fear to men, sayest thou. Nay, but thou wouldest by this become a more easy prey both to rich and poor, to robbers, and false accusers, and servants, and in general to all that are minded to plot against thee. For if thou art desirous to be an object of fear, cut off the occasions by which they are able to lay hold of thee and pain thee, whoever
 
-[[Matthew 26#^26-50|Matt. xxvi. 50]]. \[The Greek text in the Homily is ἐφ πρει; but there is some authority for ἐφ πρει; which 3002 is abundantly attested in the New Testament passage. The latter reading is accepted in the R.V., “Friend, *do* that for which thou art come.”—R.\] 3003 [[Luke 22#^22-48|Luke xxii. 48]].
+3002 [[Matthew 26#^26-50|Matt. xxvi. 50]]. \[The Greek text in the Homily is ἐφ πρει; but there is some authority for ἐφ πρει; which is abundantly attested in the New Testament passage. The latter reading is accepted in the R.V., “Friend, *do* that for which thou art come.”—R.\] 3003 [[Luke 22#^22-48|Luke xxii. 48]].
 
 *[p. 866]* ^pg874
 

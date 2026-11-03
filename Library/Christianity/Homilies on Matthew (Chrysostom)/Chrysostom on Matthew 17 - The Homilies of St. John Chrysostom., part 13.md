@@ -96,17 +96,13 @@ Whence it is clear, that they who are diseased in Marcion’s way are children o
 
 What then can the saying mean? As the possessed, saith He, when delivered from that infirmity, should they be at all remiss, draw upon themselves their delusion more grievous than ever: even so is it with you. For before also ye were possessed by a devil, when ye were worshipping idols, and were slaying your sons to the devils, exhibiting great madness; nevertheless I forsook you not, but cast out that devil by the prophets; and again in my own person I am come, willing to cleanse you more entirely. Since then you will not attend, but have wrecked yourselves in greater wickedness (for to kill prophets was a crime not nearly
 
-δκησιν: so Δοκητα was the name of those heretics who denied the reality of our Lord’s incarnation and 1756 death.
+1756 δκησιν: so Δοκητα was the name of those heretics who denied the reality of our Lord’s incarnation and death.
 
-1757
-
-[[Galatians 06#^6-14|Gal. vi. 14]]. \[R.V., “Far be it from me to glory,” etc.\]
+1757 [[Galatians 06#^6-14|Gal. vi. 14]]. \[R.V., “Far be it from me to glory,” etc.\]
 
 1758 [[John 02#^2-19|John ii. 19]].
 
-1759
-
-[[Matthew 09#^9-15|Matt. ix. 15]].
+1759 [[Matthew 09#^9-15|Matt. ix. 15]].
 
 1760 \[πεσεταιστηθοδεσμδο.
 
@@ -195,7 +191,7 @@ And this is hence especially manifest. “For while He yet talked to the people,
 
 And this He said, not as being ashamed of His mother, nor denying her that bare Him; for if He had been ashamed of her, He would not have passed through that womb; but as declaring that she hath no advantage from this, unless she do all that is required to be done. For in fact that which she had essayed to do, was of superfluous vanity; in that she wanted to show the people that she hath power and authority over her Son, imagining not as yet anything great concerning Him; whence also her unseasonable approach. See at all events both her self-confidence<sup>1774</sup>and theirs.<sup>1775</sup> Since when they ought to have gone in, and
 
-272 \[In the text here τνε εσν is omitted, but is inserted in the comment. There is no mss. authority for the 1773 omission in Matthew. The other variations are slight.—R.\] 1774 ἀπνοιαν. 1775 “It seems to me that the person bringing the message was not simply doing so on occasion given, but was laying a snare for our Saviour, to see whether he would prefer flesh and blood to His spiritual task. Our Lord therefore did not think scorn to come out, as disavowing mother and brethren, but He speaks as answering one who was laying a snare for Him.…Not, as Marcion and Manichæus say, did He deny His mother, that we should esteem Him born of a phantom, but He preferred the apostles to His kindred.” St. Jer. *in loc*. “Some pestilent heretics would maintain from this passage, that our Lord had no mother, and do not perceive that it follows, on comparison of an other text” (St. [[Matthew 23#^23-9|Matt. xxiii. 9]]), “that neither have His disciples fathers. Because, as He said Himself, “Who is my mother?” so He taught them, saying, “Call no man your father on earth.” St. Aug. in Ps. ix. sec. 31. \[He speaks\] “not as defrauding His mother of her due honor, but indicates for what kind of maternity the Virgin is pronounced to be blessed. For if he who hears the Word of God and keeps it is His brother, and sister, and mother, and Christ’s mother had both these, evidently this was the maternity in respect of which His mother was to be blessed. For to hear the Word of God and keep it belongs to a pure soul, looking altogether towards God. And since it was no ordinary woman whom God selected to become the mother of
+272 1773 \[In the text here τνε εσν is omitted, but is inserted in the comment. There is no mss. authority for the omission in Matthew. The other variations are slight.—R.\] 1774 ἀπνοιαν. 1775 “It seems to me that the person bringing the message was not simply doing so on occasion given, but was laying a snare for our Saviour, to see whether he would prefer flesh and blood to His spiritual task. Our Lord therefore did not think scorn to come out, as disavowing mother and brethren, but He speaks as answering one who was laying a snare for Him.…Not, as Marcion and Manichæus say, did He deny His mother, that we should esteem Him born of a phantom, but He preferred the apostles to His kindred.” St. Jer. *in loc*. “Some pestilent heretics would maintain from this passage, that our Lord had no mother, and do not perceive that it follows, on comparison of an other text” (St. [[Matthew 23#^23-9|Matt. xxiii. 9]]), “that neither have His disciples fathers. Because, as He said Himself, “Who is my mother?” so He taught them, saying, “Call no man your father on earth.” St. Aug. in Ps. ix. sec. 31. \[He speaks\] “not as defrauding His mother of her due honor, but indicates for what kind of maternity the Virgin is pronounced to be blessed. For if he who hears the Word of God and keeps it is His brother, and sister, and mother, and Christ’s mother had both these, evidently this was the maternity in respect of which His mother was to be blessed. For to hear the Word of God and keep it belongs to a pure soul, looking altogether towards God. And since it was no ordinary woman whom God selected to become the mother of
 
 *[p. 495]* ^pg503
 
@@ -471,7 +467,7 @@ And what difference is there, one may say, between them that sleep, and them tha
 
 And these things Christ saith, instructing us to be always wakeful. For, saith He, though thou quite escape those harms, there is yet another harm. For as in those instances “the wayside,” and “the rock,” and “the thorns,” so here again sleep occasions our ruin; so that
 
-\[The citation agrees exactly with the Received text; ον is however inserted in verse 30, against nearly all 1818 our New Testament authorities. In several minor variations the text differs from that of Tischendorf and other recent editors.—R.\]
+1818 \[The citation agrees exactly with the Received text; ον is however inserted in verse 30, against nearly all our New Testament authorities. In several minor variations the text differs from that of Tischendorf and other recent editors.—R.\]
 
 *[p. 511]* ^pg519
 
@@ -630,7 +626,7 @@ For whereas He Himself is the sower, and that of His own field, and out of His o
 
 But mark His unspeakable love to man, and His leaning to bounty, and His disinclination to punishment; in that, when He sows, He sows in His own person, but when He punishes, it is by others, that is, by the angels.
 
-286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to 1857 heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 [[Matthew 13#^13-37|Matt. xiii. 37–43]]. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
+286 1856 This passage is translated according to a conjectural emendation of Mr. Field. \[The Greek text seems to be corrupt here. The mss. readings yield no intelligible sense that can be considered correct.—R.\] 1857 Or, “produce lawlessness,” το ποιοντα τν νομαν, in which sense it seems more directly applicable to heretics, who may not be vicious in their own lives, but produce a contempt of God’s law by their false doctrines. *Transl*. 1858 [[Matthew 13#^13-37|Matt. xiii. 37–43]]. \[The long citation presents few textual variations of any kind, none that affect the sense.—R.\]
 
 *[p. 520]* ^pg528
 
@@ -673,7 +669,7 @@ And wherein doth this differ from the parable of the tares? For there too the on
 
 Yet surely He saith elsewhere, that the shepherd Himself separates them, but here He saith the angels do this;<sup>1867</sup>and so with respect to the tares. How then is it? At one time He
 
-287 [[Matthew 13#^13-44|Matt. xiii. 44–46]]. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, 1865 as in a few mss. of the New Testament.—R.\] 1866 [[Matthew 13#^13-47|Matt. xiii. 47]], [[Matthew 13#^13-48|48]]. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\] 1867 [[Matthew 25#^25-32|Matt. xxv. 32]].
+287 1865 [[Matthew 13#^13-44|Matt. xiii. 44–46]]. \[Here also the Greek text presents few peculiarities; τ is omitted before ἀγρ in verse 44, as in a few mss. of the New Testament.—R.\] 1866 [[Matthew 13#^13-47|Matt. xiii. 47]], [[Matthew 13#^13-48|48]]. \[R.V., “which, when it was filled, they drew upon the beach,” etc.\] 1867 [[Matthew 25#^25-32|Matt. xxv. 32]].
 
 *[p. 522]* ^pg530
 

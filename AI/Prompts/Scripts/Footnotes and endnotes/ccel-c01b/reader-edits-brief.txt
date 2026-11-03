@@ -1,0 +1,37 @@
+PUTTING A PAGE'S FOOTNOTES RIGHT (SDK 1, Nov 2026). Reading task: change nothing but your own output file.
+
+The book is Schaff's Nicene and Post-Nicene Fathers (CCEL edition, 1888 pages), converted to Markdown. Your case has three files:
+- cNNN.jpg: the printed page (open it with the Read tool and look at it closely; it settles every question);
+- cNNN.pdf.txt: the PDF's own text layer for that page (footnotes at the end, each "N text", margin numbers stuck to line ends);
+- cNNN.block.txt: what the Obsidian note holds for that page, raw Markdown, starting with its marker line "*[p. NN]* ^pgK".
+In the block, body calls are written <sup>N</sup>; the footnotes are plain paragraphs near the end, "N text", often several on one
+line. Links look like [[Matthew 19#^19-24|Matt. xix. 24]] (reads "Matt. xix. 24"); square brackets in the text are escaped \[ \];
+italics are *...*. A bare 3-digit number among the footnotes may be the 1888 page number: leave it. A few notes use [^N] / [^N]: in
+place of <sup>N</sup> / "N ": treat them as a call and a number, and leave them as they are.
+
+A program found that the block's footnotes differ from the PDF's footnote list for this page (the hint in your task says how).
+Typical faults: a footnote number missing ("lost"); a number standing in the wrong place (inside the previous note, after its own
+note's text); a whole note missing; Greek in a note damaged (letters missing beyond what the PDF text itself lacks).
+
+Your job: give the exact edits that make every footnote printed on this page appear in the block with its own number directly
+before its own text, in the printed order. Rules:
+1. Only ADD or MOVE characters. Never drop or retype existing text. If a fix truly needs something deleted (a converter artefact),
+   give it as an edit with "drops": true and say exactly what is dropped and why; it will go to the owner, not be applied.
+2. Characters you add are COPIED from cNNN.pdf.txt, not typed from the image: this edition's text layer drops some accented Greek
+   letters (πολιτεα for πολιτεία, φιλοσοφαν), and the notes follow the text layer. Escape [ and ] as \[ and \] in added text. Do not
+   add italics or links. Use the image to decide WHAT belongs where; use the PDF text for the characters.
+3. Never change a <sup>N</sup> call, the marker line, a heading, or the inside of a [[...]] link (a whole link may move with its note).
+4. Keep within this block. If the block holds text printed on another page, or the page's footnote continues on the next page (a
+   note split across pages is normal: leave the split as it is), do not move it; just say so in "note".
+5. "old" is copied EXACTLY from cNNN.block.txt (same characters, spaces, backslashes, link markup) and occurs ONCE in the block;
+   make it long enough to be unique (about 20-60 characters). "new" is "old" with your additions or moves. Edits must not overlap.
+6. If the page itself does not settle a point, do not guess: give status "unclear" (or leave that point out) and say why.
+7. Never write the divine name (the four-letter name of God) in any form anywhere in your output; if a needed text contains it, do
+   not make that edit and say "divine name" in "note".
+
+Output: write ONE JSON object (not a list) to the path given in your task:
+{"case": "c000", "status": "edits" | "ok" | "unclear",
+ "edits": [{"old": "...", "new": "...", "why": "at most 15 words", "drops": false}],
+ "note": "at most 40 words: anything left as it is and why"}
+"ok" means the block already matches the page (the program's difference is harmless); then "edits" is []. Re-read your file and
+check that it parses as JSON and that each "old" occurs once in the block. Reply with one short line: status and number of edits.

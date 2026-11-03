@@ -656,7 +656,7 @@ And wherefore sent He not His Son immediately? In order that they might condemn 
 
 What then do these? When they ought to have run unto Him, when they ought to have asked pardon for their offenses, they even persist more strongly in their former sins, they proceed to add unto their pollutions, forever throwing into the shade their former offenses by their later; as also He Himself declared when He said, “Fill ye up the measure of your fathers.”<sup>2566</sup> For from the first the prophets used to charge them with these things, saying, “Your hands are full of blood;”<sup>2567</sup>and, “They mingle blood with blood;”<sup>2568</sup>and, “They build up Sion with blood.”<sup>2569</sup>
 
-\[The verb ἀπεδμησε means “went into another country.” But Chrysostom here speaks of the ἀποδημαν 2564 as τν πολλν, thus agreeing with the interpretation of the A.V.—R.\] 2565 Ezek. ii. 5. 2566 [[Matthew 23#^23-32|Matt. xxiii. 32]]. 2567 Is. i. 15. 2568 Hosea iv. 2. 2569 Micah iii. 10.
+2564 \[The verb ἀπεδμησε means “went into another country.” But Chrysostom here speaks of the ἀποδημαν as τν πολλν, thus agreeing with the interpretation of the A.V.—R.\] 2565 Ezek. ii. 5. 2566 [[Matthew 23#^23-32|Matt. xxiii. 32]]. 2567 Is. i. 15. 2568 Hosea iv. 2. 2569 Micah iii. 10.
 
 *[p. 722]* ^pg730
 

@@ -288,6 +288,8 @@ Let us also then, while in sickness, send for physicians, and lay out money, and
 
 And as much care as we exert about our servants, when their bodies are sick, so much let us show forth upon ourselves, when our soul is diseased. And indeed we are nearer to ourselves than our servants, and our souls are more necessary than those bodies, but nevertheless
 
+2729 Matt. xxiii. 39.
+
 *[p. 780]* ^pg788
 
 it were well if we exert at least an equal diligence. For if we do not this now, when gone, thenceforth we may obtain nothing more in the way of plea.
@@ -396,7 +398,7 @@ Afterwards, when He hath roused them to listen about these things (for, “take 
 
 2\. But by “wars and rumors of wars,” He meaneth, what I before said, the troubles coming upon them. After this, because, as I have already said, they supposed after that war the end would come, see how He warns them, saying, “But the end is not yet. For nation,” He saith, “shall rise against nation, and kingdom against kingdom.”<sup>2756</sup> Of the preludes to the ills of the Jews doth He speak. “All these are the beginning of sorrows,”<sup>2757</sup>that is, of those that befall them. “Then shall they deliver you up to be afflicted, and shall kill you.”<sup>2758</sup> In good season did He introduce their ills, having a consolation from the common miseries; and not in this way only, but also by His adding, that it is “for my name’s sake. For ye shall be hated,” He saith, “of all men for my name’s sake. Then shall many be offended, and shall betray one another, and many false Christs and false prophets shall arise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold; but he that shall endure unto the end, the same shall be saved.”<sup>2759</sup>
 
-434 2754 \[R.V., “lead you astray.”\] 2755 \[R.V., “lead you astray.”\] 2756 [[Matthew 24#^24-7|Matt. xxiv. 7]]. 2757 [[Matthew 24#^24-8|Matt. xxiv. 8]]. \[R.V., “travail,” birth pangs.—R.\] 2758 [[Matthew 24#^24-9|Matt. xxiv. 9]]. \[R.V., “unto tribulation.”\] [[Matthew 24#^24-9|Matt. xxiv. 9–13]]. \[In verse 9, “all *men*” is substituted for “all the nations” (τν θνν omitted); in verse 2759 11“many false Christs and” occurs (taken from verse 24). The R.V. represents, in other details, the Greek text of the Homily. In verse 12, “the many” is the necessary rendering.—R.\]
+434 2754 \[R.V., “lead you astray.”\] 2755 \[R.V., “lead you astray.”\] 2756 [[Matthew 24#^24-7|Matt. xxiv. 7]]. 2757 [[Matthew 24#^24-8|Matt. xxiv. 8]]. \[R.V., “travail,” birth pangs.—R.\] 2758 [[Matthew 24#^24-9|Matt. xxiv. 9]]. \[R.V., “unto tribulation.”\] 2759 [[Matthew 24#^24-9|Matt. xxiv. 9–13]]. \[In verse 9, “all *men*” is substituted for “all the nations” (τν θνν omitted); in verse 11“many false Christs and” occurs (taken from verse 24). The R.V. represents, in other details, the Greek text of the Homily. In verse 12, “the many” is the necessary rendering.—R.\]
 
 *[p. 787]* ^pg795
 
@@ -453,7 +455,7 @@ And altogether, what is a nativity? nothing else than injustice, and confusion, 
 
 “And if there is not any nativity, whence is such a one rich? whence is such a one poor?”
 
-\[Only one ms. inserts τν πολλν here. Field rejects it. If accepted, it should be rendered “of the many,” as 2771 in the R.V. But internal reasons are against it. It would naturally be supplied from the New Testament passage. Moreover, the briefer reading yields a better sense: “Love shall wax cold, the cause of all these ills.”—R.\]
+2771 \[Only one ms. inserts τν πολλν here. Field rejects it. If accepted, it should be rendered “of the many,” as in the R.V. But internal reasons are against it. It would naturally be supplied from the New Testament passage. Moreover, the briefer reading yields a better sense: “Love shall wax cold, the cause of all these ills.”—R.\]
 
 *[p. 791]* ^pg799
 
@@ -545,7 +547,7 @@ But mark, I pray thee, the exceeding greatness of the ills, when not only compar
 
 “And except those days should be shortened, there should no flesh be saved; but for the elect’s sake those days shall be shortened.”<sup>2791</sup> By these things He shows them to be deserving of a more grievous punishment than had been mentioned, speaking now of the days of the war and of that siege. But what He saith is like this. If, saith He, the war of the Romans
 
-\[There is a curious variation in the Greek text here. Our best New Testament mss. reads σαββτ; above 2790 the Homily has ἐν σαββτ, but here σαββτου, without any preposition.—R.\]
+2790 \[There is a curious variation in the Greek text here. Our best New Testament mss. reads σαββτ; above the Homily has ἐν σαββτ, but here σαββτου, without any preposition.—R.\]
 
 2791 [[Matthew 24#^24-22|Matt. xxiv. 22]]. \[R.V., “And except those days had been shortened, no flesh would have been saved: but,” etc.\]
 

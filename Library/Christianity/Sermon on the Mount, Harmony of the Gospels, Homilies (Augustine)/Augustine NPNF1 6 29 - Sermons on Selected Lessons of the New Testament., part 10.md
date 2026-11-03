@@ -205,7 +205,11 @@ clean to them;” what need then was there for them to believe on Him? But if th
 
 to them the alms which they were used to do, and which they thought were unknown to Christ; and He saith to them, “I know that ye do this, ‘ye tithe mint and anise, cummin and rue;’ but I am speaking of other alms; ye despise ‘judgment and charity.’ In judgment and charity give alms to thine own soul.” What is “in judgment”? Look back, and discover thyself; mislike thyself, pronounce a judgment against thyself. And what is charity? “Love the Lord God with all thy heart, and with all thy soul, and with all thy mind; love thy neighbour as thyself:”<sup>3389</sup> and thou hast done alms first to thine own soul, within thy conscience. Whereas if thou neglect this alms, give what thou wilt, give how much thou wilt; reserve of thy goods not a tenth, but a half; give nine parts, and leave but one for thine own self: thou doest nothing, when thou doest not alms to thine own soul, and art poor in thyself. Let thy soul have its food, that it perish not by famine. Give her bread. What bread, thou wilt say? He speaketh with thee Himself. If thou wouldest hear, and understand, and believe the Lord, He would say to thee Himself, “I am the Living Bread which came down from heaven.<sup>3390</sup> Wouldest thou not first give this Bread to thine own soul, and do alms unto it? If then thou believest, thou oughtest so to do, that thou mayest first feed thine own soul. Believe in Christ, and the things which are within shall be cleansed; and what is without shall be clean also. “Let us turn to the Lord,” etc.
 
-3389 [[Matthew 22#^22-37|Matt. xxii. 37]], etc. 437 πάσης, for τῆς, πλεονεξίας—A. B. D. K. L. M. Q. X., etc., Verss. ap. Scholz. Griesbach regards it as the
+3389 [[Matthew 22#^22-37|Matt. xxii. 37]], etc.
+
+3390 John vi. 41.
+
+437
 
 
 *[p. 910]* ^pg936
@@ -222,7 +226,7 @@ Sermon LVII.
 
 3\. “Speak to my brother, that he divide the inheritance with me.” Just case, short case. But let us hear Him who at once gives judgment and instruction. “Man,” He saith. “O man;”
 
-3391 more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 [[Luke 12#^12-15|Luke xii. 15]]. 3393 [[Luke 12#^12-13|Luke xii. 13]].
+3391 πάσης, for τῆς, πλεονεξίας—A. B. D. K. L. M. Q. X., etc., Verss. ap. Scholz. Griesbach regards it as the more probable reading. \[Tischendorf, Westcott and Hort read πᾶσηςwith [illegible] and B.\] 3392 [[Luke 12#^12-15|Luke xii. 15]]. 3393 [[Luke 12#^12-13|Luke xii. 13]].
 
 
 *[p. 911]* ^pg937

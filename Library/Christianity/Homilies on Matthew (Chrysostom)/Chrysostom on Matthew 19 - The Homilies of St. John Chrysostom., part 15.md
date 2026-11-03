@@ -373,7 +373,7 @@ I would fain inquire then of those who desire to lessen the dignity of the Son, 
 
 And these things I say, not dividing the works of Father and Son (“for all things are made by Him, and without Him was nothing made which was made”):<sup>2110</sup>but bridling the shameless tongue of them that dare so to speak.
 
-2103 \[R.V., “Hades.”\] 2104 \[Chrysostom reads κα γ δ, probably from verse 18, as none of our authorities have this fuller form.—R.\] 2105 [[Matthew 16#^16-19|Matt. xvi. 19]]. \[The text is peculiar in omitting τ βασιλεα. The translator has here rendered τν ορανν, “the heavens;” but not in all similar instances. The English versions generally disregard the plural form.—R.\] 2106 \[το ορανο \] 2107 [[Matthew 20#^20-23|Matt. xx. 23]]. 2108 Jer. i. 18. 2109 [[Matthew 24#^24-35|Matt. xxiv. 35]]. 2110 [[John 01#^1-3|John i. 3]]. \[The Greek text omits ὃ γγονεν “which was made.”\] \[The singular is retained here by the translator, though the Greek form is the same, τν ορανν.—R.\]
+2103 \[R.V., “Hades.”\] 2104 \[Chrysostom reads κα γ δ, probably from verse 18, as none of our authorities have this fuller form.—R.\] 2105 [[Matthew 16#^16-19|Matt. xvi. 19]]. \[The text is peculiar in omitting τ βασιλεα. The translator has here rendered τν ορανν, “the heavens;” but not in all similar instances. The English versions generally disregard the plural form.—R.\] 2106 \[το ορανο \] 2107 [[Matthew 20#^20-23|Matt. xx. 23]]. 2108 Jer. i. 18. 2109 [[Matthew 24#^24-35|Matt. xxiv. 35]]. 2110 [[John 01#^1-3|John i. 3]]. \[The Greek text omits ὃ γγονεν “which was made.”\]
 
 
 *[p. 583]* ^pg591
@@ -390,7 +390,7 @@ And if they who had enjoyed the benefit of many miracles, and had had part in so
 
 And to instruct thee how great a thing it was, their afterwards learning His doctrine complete, when the things that offend had passed by; learn it from this same leader of theirs. For this very Peter, he who after so many miracles proved so weak as even to deny Him, and to be in fear of a mean damsel; after the cross had come forth, and he had received the certain proofs of the resurrection, and there was nothing more to offend and trouble him,
 
-2111 2112 Matt. xvi. 20. 2113 ὁ κορυφαο. 2114 [[John 16#^16-12|John xvi. 12]].
+2111 \[The singular is retained here by the translator, though the Greek form is the same, τν ορανν.—R.\] 2112 Matt. xvi. 20. 2113 ὁ κορυφαο. 2114 [[John 16#^16-12|John xvi. 12]].
 
 
 *[p. 584]* ^pg592
@@ -563,9 +563,7 @@ How then is it not extreme dullness, not to show forth even the same fortitude w
 
 Now He had indeed already spoken this very injunction, when He sent them, saying, “Go not into the way of the Gentiles” (for, saith He, “I send you as sheep in the midst of wolves,” and, “ye shall be brought before kings and governors”)<sup>2146</sup>but now with more intensity and severity. For then He spake of death only, but here He hath mentioned a cross
 
-ἀρνησσθω.
-
-2144
+2144 ἀρνησσθω.
 
 2145 ἀπαρνησσθω. \[Comp. note, p. 338.\] 2146 [[Matthew 10#^10-5|Matt. x. 5]], [[Matthew 10#^10-16|16]], [[Matthew 10#^10-18|18]].
 
@@ -619,7 +617,7 @@ He suffered not however His discourse to appear only dismal, but tempered it als
 
 6\. And He indeed spake it, in part to refresh the good, but I ever shudder at hearing it, for I am not of them that are crowned, and I suppose that others also share with us in our fear and anxiety. For whom is this saying not enough to startle, when he hath entered into
 
-328 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So 2154 R.V.—R.\] 2155 [[1 Corinthians 15#^15-41|1 Cor. xv. 41]]. 2156 \[τν πρξιν, the reading accepted in R.V.—R.\]
+328 2154 Matt. xvi. 37. \[Some mss. of the Homily omit ἁγων, and read τν πρξιν for τ ργα (see note 1, p. 342). So R.V.—R.\] 2155 [[1 Corinthians 15#^15-41|1 Cor. xv. 41]]. 2156 \[τν πρξιν, the reading accepted in R.V.—R.\]
 
 *[p. 597]* ^pg605
 
@@ -684,7 +682,7 @@ Since not for the greater things only, but also for the lesser, we ought to give
 
 And see how after thanksgiving for His past gifts, they are importunate also for the greater things, and dwell not upon the mat ters of this life, but mount above the heavens, and say, “Fill us with the Holy Ghost.” For it is not even possible to approve one’s self as one ought, not being filled with that grace; as there is no doing anything noble or great, without the benefit of Christ’s influences.
 
-ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the 2166 Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] 2169 \[See above, note 1.—R.\]
+2166 ἀπαγχονιζντων, a strong figurative expression, as it seems, for the unhallowed self-tormenting of the Manichæans. In Hom. XLII., the word is applied to Saul, “choking with envy” towards David. 2167 \[In some mss. the two paragraphs which follow are omitted, “and not be ashamed” being joined with this clause.—R.\] 2168 [[Matthew 06#^6-33|Matt. vi. 33]]. \[Here, also, the peculiar reading “Kingdom of Heaven” occurs. Comp. Homily XXII. 4.—R.\] 2169 \[See above, note 1.—R.\]
 
 330 As therefore when they had said, “That we may abound unto every good work,” they added, “In Christ Jesus;” so here also they say, “Fill us with the Holy Ghost, that we may be found to have been well-pleasing before Thee.”<sup>2167</sup>
 
@@ -727,7 +725,7 @@ Matt. XVI. 28.
 
 “Verily, verily, I say unto you, There are some of them that stand here, which shall not taste of death, until they see the Son of Man coming in His kingdom.”
 
-2171 \[γεννη.\] 2172 [[Matthew 16#^16-25|Matt. xvi. 25]]. 2173 [[Matthew 16#^16-27|Matt. xvi. 27]]. \[τν πρξιν ατο.\] 2174 [[Matthew 17#^17-1|Matt. xvii. 1]].
+2171 \[γεννη.\] 2172 [[Matthew 16#^16-25|Matt. xvi. 25]]. 2173 [[Matthew 16#^16-27|Matt. xvi. 27]]. \[τν πρξιν ατο.\] 2174 [[Matthew 17#^17-1|Matt. xvii. 1]]. 2175 Luke ix. 28.
 
 331 Thus, inasmuch as He had discoursed much of dangers and death, and of His own passion, and of the slaughter of the disciples, and had laid on them those severe injunctions; and these were in the present life and at hand, but the good things in hope and expectation:—for example, “They save their life who lose it;” “He is coming in the glory of His Father;” “He renders His rewards:”—He willing to assure their very sight, and to show what kind of glory that is wherewith He is to come, so far as it was possible for them to learn it; even in their present life He shows and reveals this; that they should not grieve any more, either over their own death, or over that of their Lord, and especially Peter in His sorrow.
 

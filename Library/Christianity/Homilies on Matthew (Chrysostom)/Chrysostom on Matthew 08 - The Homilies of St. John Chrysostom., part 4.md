@@ -52,7 +52,7 @@ But we, while hearing these things and seeing them, slumber, and see dreams, sun
 
 7\. But by repentance I mean, not only to forsake our former evil deeds, but also to show forth good deeds greater than those. For, “bring forth,” saith he, “fruits meet for repentance.”<sup>451</sup> But how shall we bring them forth? If we do the opposite things: as for instance, hast thou seized by violence the goods of others? henceforth give away even thine own. Hast thou been guilty of fornication for a long time? abstain even from thy wife for certain appointed days; exercise continence. Hast thou insulted and stricken such as were passing by? Henceforth bless them that insult thee, and do good to them that smite thee. For it sufficeth not for our health to have plucked out the dart only, but we must also apply remedies to the wound. Hast thou lived in self-indulgence, and been drunken in time past? Fast, and take care to drink water, in order to destroy the mischief that hath so grown up within thee. Hast thou beheld with unchaste eyes beauty that belonged to another? Henceforth do not so much as look upon a woman at all, that thou mayest stand in more safety. For it is said, “Depart from evil, and do good;”<sup>452</sup>and again, “Make thy tongue to cease from evil, and thy lips that they speak no guile.”<sup>453</sup>“But tell me the good too.” “Seek peace, and pursue it:” I mean not peace with man only, but also peace with God. And he hath well said, “pursue” her: for she is driven away, and cast out; she hath left the earth, and is gone to sojourn in
 
-\[παρ πντων νθρπων…παρ πασ, is the explanation of Chrysostom, paraphrasing the New Testament pas- 449 sage.—R.\]
+449 \[παρ πντων νθρπων…παρ πασ, is the explanation of Chrysostom, paraphrasing the New Testament pas- sage.—R.\]
 
 450 \[ἐν βαθυττ νυκτ.\]
 
@@ -392,7 +392,7 @@ On this account then even He too fasts forty days, pointing out to us the medici
 
 Having then fasted forty days and as many nights, “He was afterwards an hungered;<sup>538</sup>” affording him a point to lay hold of and approach, that by actual conflict He might show how to prevail and be victorious. Just so do wrestlers also: when teaching their pupils how to prevail and overcome, they voluntarily in the lists
 
-78 532 [[Mark 01#^1-13|Mark i. 13]]. \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 533 \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 534 535 Ezek. xvi. 49. 536 Isa. v. 11, 12. οκονομα, that is, the assumption of humanity. \[Justin Martyr and Ignatius so use the term; see reffs. in 537 Sophocles, *Greek Lexicon*, etc., *sub voce*.—R.\] 538 [[Matthew 04#^4-2|Matt. iv. 2]].
+78 532 [[Mark 01#^1-13|Mark i. 13]]. 533 \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 534 \[λουντρ, “laver;” here by metonymy for the rite of baptism.—R.\] 535 Ezek. xvi. 49. 536 Isa. v. 11, 12. 537 οκονομα, that is, the assumption of humanity. \[Justin Martyr and Ignatius so use the term; see reffs. in Sophocles, *Greek Lexicon*, etc., *sub voce*.—R.\] 538 [[Matthew 04#^4-2|Matt. iv. 2]].
 
 *[p. 152]* ^pg160
 
@@ -502,7 +502,7 @@ Yet surely, if thou art willing to believe what is evident, the things invisible
 
 Let us not then vainly deceive ourselves, neither in addition to the carelessness of our life, which is the offspring of such doctrines as these, heap up to ourselves, for the very
 
-557 Jerem. v. 8. 558 St. Cyril (about A.D. 350) Catech. x. 19, says, “The demons who even to this day are being driven out by the faithful bear witness to Christ.” St. Augustin (A.D. 426), in many places speaks of the like miracle as no unusual thing in his time, particularly at the tombs of the martyrs. *De Civ. Dei*. x. 22.; xxii. 8; contra. *Lit. Petil*. ii.
+557 Jerem. v. 8. 558 St. Cyril (about A.D. 350) Catech. x. 19, says, “The demons who even to this day are being driven out by the faithful bear witness to Christ.” St. Augustin (A.D. 426), in many places speaks of the like miracle as no unusual thing in his time, particularly at the tombs of the martyrs. *De Civ. Dei*. x. 22.; xxii. 8; contra. *Lit. Petil*. ii. 55.
 
 *[p. 159]* ^pg167
 

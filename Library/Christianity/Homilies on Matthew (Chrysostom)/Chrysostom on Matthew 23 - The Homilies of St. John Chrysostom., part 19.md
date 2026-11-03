@@ -634,7 +634,7 @@ But here He is discoursing about their life and morals, since this was chiefly t
 
 I mean, that lest any one should say, that because my teacher is bad, therefore am I become more remiss, He takes away even this pretext. So much at any rate did He establish their authority, although they were wicked men, as even after so heavy an accusation to say, “All whatsoever they command you to do, do.” For they speak not their own words, but God’s, what He appointed for laws by Moses. And mark how much honor He showed towards Moses, again showing His agreement with the Old Testament; since indeed even by this doth He make them objects of reverence. “For they sit,” He saith, “on Moses’ seat.” For because He was not able to make them out worthy of credit by their life, He doth it from the grounds that were open to Him, from their seat, and their succession from him. But when thou hearest all, do not understand all the law, as, for instance, the ordinances about meats,
 
-418 2665 \[The Greek text in this clause differs somewhat both from the received and from that followed in the R.V.—R.\] \[κυρου κα κυρου, referring to the two uses of the word in the Old Testament passage cited in Matt. xxii. 2666 44, but not in precise terms.—R.\] 2667 Deut. vi. 4.
+418 2665 \[The Greek text in this clause differs somewhat both from the received and from that followed in the R.V.—R.\] 2666 \[κυρου κα κυρου, referring to the two uses of the word in the Old Testament passage cited in Matt. xxii. 44, but not in precise terms.—R.\] 2667 Deut. vi. 4.
 
 *[p. 759]* ^pg767
 

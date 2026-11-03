@@ -31,7 +31,7 @@ showed the difficulty to be such that it was absolutely impossible. For every im
 
 *On the words of the Gospel, [[Matthew 19#^19-17|Matt. xix. 17]], ‘If thou wouldest enter into…*
 
-3. 2806 [[John 06#^6-51|John vi. 51]]. 2807 Vulgate. 2808 [[Luke 18#^18-12|Luke xviii. 12]]. 2809 [[Matthew 05#^5-20|Matt. v. 20]]. 2810 [[1 Timothy 06#^6-6|1 Tim. vi. 6]].
+2805 Ps. li. 3. 2806 [[John 06#^6-51|John vi. 51]]. 2807 Vulgate. 2808 [[Luke 18#^18-12|Luke xviii. 12]]. 2809 [[Matthew 05#^5-20|Matt. v. 20]]. 2810 [[1 Timothy 06#^6-6|1 Tim. vi. 6]].
 
 2805 Tell us what this is, “let them be rich in good works. Let them easily distribute.” And what is “let them easily distribute”? What! is this too not understood? “Let them easily distribute, let them communicate.” Thou hast, another hath not: communicate, that God may communicate to thee. Communicate here, and thou shalt communicate there. Communicate thy bread here, and thou shalt receive Bread there. What bread here? That which thou dost gather with sweat and toil, according to the curse upon the first man. What Bread there? Even Him who said, “I am the Living Bread which came down from heaven.”<sup>2806</sup> Here thou art rich, but thou art poor there. Gold thou hast, but thou hast not yet the Presence of Christ. Lay out what thou hast, that thou mayest receive what thou hast not. “Let them be rich in good works, let them easily distribute, let them communicate.”<sup>2807</sup>
 

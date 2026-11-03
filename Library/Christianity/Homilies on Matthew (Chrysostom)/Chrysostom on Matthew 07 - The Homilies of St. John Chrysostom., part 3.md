@@ -130,7 +130,7 @@ Nevertheless, many as were the reasons to withhold him, he made the attempt; and
 
 44 313 \[R.V. “learned of them carefully” (ἠκρβωσεν παρ ατν). “Diligently” is from the Vulgate.—R.\] 314 [[Matthew 02#^2-7|Matt. ii. 7]]. 315 ἀνοα. \[Rendered “folly,” “extreme folly,” etc., below.—R.\]
 
-[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great 317 superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\]
+[^316]: \[ἐπυνθνετο παρ ατν, a paraphrase of the New Testament passage, a trace of which appears in the A.V.—R.\] 317 ἐκ πολλ τ περιουσα τιθε τ θραμα. Comp. Viger. de Idiotism. Græc. ix. 3, 3. \[“Marking his prey out of great superfluity,” is the more literal rendering. The sense seems to be, “including more than was necessary that he might certainly include his prey.”—R.\]
 
 *[p. 93]* ^pg101
 
@@ -198,7 +198,7 @@ However, not merely to find fault, come let us devise a mode of correction too. 
 
 But if thou art ashamed to have a woman for thy teacher, fly from sin, and thou wilt quickly be able to mount up on the throne which God hath given thee. Since so long as thou
 
-47 This expression, Τ για το γοι, “Holy Things for Holy Persons,” is used in the liturgies of St. Clement, St. 332 James, St. Mark, St. Chrysostom, the Ethiopian liturgy, and that of Severus. 333 ἡδον εριπον. 334 [[1 Corinthians 14#^14-34|1 Cor. xiv. 34]], [[1 Corinthians 14#^14-35|35]].
+47 332 This expression, Τ για το γοι, “Holy Things for Holy Persons,” is used in the liturgies of St. Clement, St. James, St. Mark, St. Chrysostom, the Ethiopian liturgy, and that of Severus. 333 ἡδον εριπον. 334 [[1 Corinthians 14#^14-34|1 Cor. xiv. 34]], [[1 Corinthians 14#^14-35|35]].
 
 *[p. 98]* ^pg106
 
@@ -302,9 +302,9 @@ At least it is observable how, in the midst of His humiliations, the tokens of H
 
 6\. And now, shouldest thou come unto the desert of Egypt, thou wilt see this desert become better than any paradise, and ten thousand choirs of angels in human forms, and nations of martyrs, and companies of virgins, and all the devil’s tyranny put down, while Christ’s kingdom shines forth in its brightness. And the mother of poets, and wise men, and magicians,<sup>358</sup>were but inventions of sottish old women, but the real philosophy, and worthy of heaven, is this, which was declared unto them by the fishermen. And for this very cause, together with their so great exactness in doctrine, they exhibit also by their life that extreme seriousness. For when they have stripped themselves of all that they have, and are crucified to the whole world, they urge their course on again yet farther, using the labor of their body for the nourishment of them that be in need. For neither, because they fast and watch, do they think it meet to be idle by day; but their nights they spend in the holy hymns and in vigils, and their days in prayers, and at the same time in laboring with their own hands imitating the zeal of the apostle.<sup>359</sup> For if he when the whole world was looking unto
 
-Amos ix. 7. “The Philistines from Caphtor, and the Syrians from Kir,” Heb. \[The LXX. has το λλοφλυ 357 (here rendered “the strangers”) the usual term for designating “the Philistines.” Comp. 1 and 2 Samuel, *passim* (in LXX.).—R.\]
+357 Amos ix. 7. “The Philistines from Caphtor, and the Syrians from Kir,” Heb. \[The LXX. has το λλοφλυ (here rendered “the strangers”) the usual term for designating “the Philistines.” Comp. 1 and 2 Samuel, *passim* (in LXX.).—R.\]
 
-\[σοφν κα μγων. The translator has rendered μγοι sometimes by “wise men,” and sometimes by τ μν 358 κενων, *i.e*., those things taught by the heathen philosophers of Egypt.—R.\]
+358 \[σοφν κα μγων. The translator has rendered μγοι sometimes by “wise men,” and sometimes by τ μν κενων, *i.e*., those things taught by the heathen philosophers of Egypt.—R.\]
 
 359 [[Acts 20#^20-34|Acts xx. 34]]; [[1 Thessalonians 02#^2-9|1 Thess. ii. 9]].
 
@@ -422,7 +422,7 @@ former, he who composed the fourth book of Kings, saying, that after<sup>387</su
 
 “But yet Paul,” one may say, “allows them, saying on this wise, ‘As touching the election, they are beloved for the fathers’ sake.’”[^392] But tell me, when, and of what things was he discoursing, and to whom? Why, to those of Gentile origin, who were puffing themselves up on their faith, and exalting themselves against the Jews, and so breaking them off the more: to quell the swelling pride of the one, and to win over the others, and thoroughly excite them to the same emulation. For when he is speaking of those noble and great men, hear
 
-387 2 Kings xxii. 8, etc. 388 See [[Acts 03#^3-22|Acts iii. 22]], [[Acts 03#^3-6|iii. 6]], [[Acts 04#^4-10|iv. 10]], [[Acts 06#^6-14|vi. 14]], etc. 389 [[John 01#^1-46|John i. 46]]. 390 [[John 07#^7-52|John vii. 52]]. \[R.V. text: “Search, and see that out of Galilee ariseth no prophet.”—R.\] 391
+387 2 Kings xxii. 8, etc. 388 See [[Acts 03#^3-22|Acts iii. 22]], [[Acts 03#^3-6|iii. 6]], [[Acts 04#^4-10|iv. 10]], [[Acts 06#^6-14|vi. 14]], etc. 389 [[John 01#^1-46|John i. 46]]. 390 [[John 07#^7-52|John vii. 52]]. \[R.V. text: “Search, and see that out of Galilee ariseth no prophet.”—R.\] 391 Matt. viii. 20.
 
 [^392]: [[Romans 11#^11-28|Rom. xi. 28]]. \[The Oxford edition reads: “for the Fathers sake;” a misprint, conveying an incorrect sense.—R.\]
 

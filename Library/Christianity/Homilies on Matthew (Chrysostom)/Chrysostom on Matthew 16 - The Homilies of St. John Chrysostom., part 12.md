@@ -200,7 +200,7 @@ What then do the Pharisees? “When they saw it,” it is said, “they said unt
 
 Now here indeed with no great vehemence (yet surely that would have been consistent in them),—nevertheless they are not vehemently provoked, but simply find fault. But when He stretched out the withered hand and healed it,<sup>1650</sup>then they were so infuriated, as even to consult together about slaying and destroying Him. For where nothing great and noble
 
-1645 \[With our best mss. authorities, the article is omitted in the Homily. Comp. R.V., *in loco*.—R.\] 1646 δευτεροπρτ, [[Luke 06#^6-1|Luke vi. 1]]. \[On the textual difficulty, see Tischendorf (viii.) and Westcott and Hort. The former retains it, giving the patristic comments upon it. The latter put it in the margin, regarding it as spurious.—R.\] 1647 [[John 09#^9-6|John ix. 6]], [[John 09#^9-14|14]]. 1648 [[John 05#^5-17|John v. 17]]. \[R.V., “even until now,” etc.\] 1649 [[Matthew 12#^12-2|Matt. xii. 2]]. 251 \[ἐν τ ερ, is inserted here (not in Homily XL.) by Chrysostom, but does not occur in any of our mss. of
+1645 \[With our best mss. authorities, the article is omitted in the Homily. Comp. R.V., *in loco*.—R.\] 1646 δευτεροπρτ, [[Luke 06#^6-1|Luke vi. 1]]. \[On the textual difficulty, see Tischendorf (viii.) and Westcott and Hort. The former retains it, giving the patristic comments upon it. The latter put it in the margin, regarding it as spurious.—R.\] 1647 [[John 09#^9-6|John ix. 6]], [[John 09#^9-14|14]]. 1648 [[John 05#^5-17|John v. 17]]. \[R.V., “even until now,” etc.\] 1649 [[Matthew 12#^12-2|Matt. xii. 2]]. 1650 Matt. xii. 10, 14. 251
 
 
 *[p. 456]* ^pg464
@@ -221,7 +221,7 @@ But Mark saith, “In the days of Abiathar the High Priest:”<sup>1655</sup>not
 
 “What then,” it might be said, “were they all one with David?” Why talk to me of dignity, where there seems to be a transgression of the law, even though it be the constraint of nature? Yea, and in this way too He hath the more entirely acquitted them of the charges, in that he who is greater is found to have done the same.
 
-1651 the New Testament. 1652 [[Matthew 12#^12-3|Matt. xii. 3]], [[Matthew 12#^12-4|4]]. 1653 [[John 05#^5-17|John v. 17]]. 1654 [[Acts 02#^2-29|Acts ii. 29]]. 1655 [[Mark 02#^2-26|Mark ii. 26]]. \[The Homily reads το ρχιερωτο, rendering “when Abiathar was high priest;” but gives the other reading in the margin.—R.\] 1656 Abimelech, 1 Sam. xxi. 6.
+1651 \[ἐν τ ερ, is inserted here (not in Homily XL.) by Chrysostom, but does not occur in any of our mss. of the New Testament. 1652 [[Matthew 12#^12-3|Matt. xii. 3]], [[Matthew 12#^12-4|4]]. 1653 [[John 05#^5-17|John v. 17]]. 1654 [[Acts 02#^2-29|Acts ii. 29]]. 1655 [[Mark 02#^2-26|Mark ii. 26]]. \[The Homily reads το ρχιερωτο, rendering “when Abiathar was high priest;” but gives the other reading in the margin.—R.\] 1656 Abimelech, 1 Sam. xxi. 6.
 
 
 *[p. 457]* ^pg465

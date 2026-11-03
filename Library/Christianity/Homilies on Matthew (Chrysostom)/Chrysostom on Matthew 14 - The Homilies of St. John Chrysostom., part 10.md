@@ -142,7 +142,7 @@ Bear in mind, that even the Son of God died: and He indeed for thee, but thou fo
 
 And think not of this, that he will no more return home: but that thyself also art a little while after to go to him. Regard not this, that he returns here no more, but that neither do these things that are seen remain such as they are, but these too are being transformed. Yea,
 
-1328 Not that St. Chrysostom imagined that anything could be done to change the relative condition of those who have died in the favor or displeasure of God: see *e.g*., Hom. XXXVI. p. 506, ed. Field. Indeed, the same is implied in the words which immediately follow. “Dost thou long to see him? Then live the same life with him,” &c. 1329 [[Matthew 26#^26-39|Matt. xxvi. 39]]. 1330 μετ πολλ τ τραγδα. 205 μεθαρμζεται .
+1328 Not that St. Chrysostom imagined that anything could be done to change the relative condition of those who have died in the favor or displeasure of God: see *e.g*., Hom. XXXVI. p. 506, ed. Field. Indeed, the same is implied in the words which immediately follow. “Dost thou long to see him? Then live the same life with him,” &c. 1329 [[Matthew 26#^26-39|Matt. xxvi. 39]]. 1330 μετ πολλ τ τραγδα. 205
 
 
 *[p. 372]* ^pg380
@@ -161,7 +161,9 @@ But hast thou no husband? yet hast thou a consolation, even the Father of the or
 
 Since thou hast also restored His deposit, if thou hast exhibited the very thing entrusted to thee. Be not in care any more, having laid up the possession in an inviolable treasure-house.
 
-1331 [[1 Timothy 05#^5-5|1 Tim. v. 5]]. \[R.V., “hath her hope set on God.” Chrysostom reads κριον, and Augustin followed the same reading.—R.\]
+1331 μεθαρμζεται .
+
+1332 [[1 Timothy 05#^5-5|1 Tim. v. 5]]. \[R.V., “hath her hope set on God.” Chrysostom reads κριον, and Augustin followed the same reading.—R.\]
 
 
 *[p. 373]* ^pg381
@@ -250,7 +252,7 @@ And these things he said, at once repressing their pride, and preparing them to 
 
 And contemplate Him here too beginning from love to man, not with any requital. “For He had compassion, because they were troubled and scattered abroad as sheep having no shepherd.” This is His charge against the rulers of the Jews, that being shepherds they acted the part of wolves. For so far from amending the multitude, they even marred their progress. For instance, when they were marvelling and saying, “It was never so seen in Israel:” these were affirming the contrary, “He casteth out devils through the prince of the devils.”<sup>1349</sup>
 
-ἐσκυλμνοι, *vexati*, the reading of the Vulgate, and of most mss. and Fathers: adopted by Griesbach into 1346 the text. \[The R.V. renders this “distressed.”\] 1347 [[Matthew 09#^9-36|Matt. ix. 36–38]]. \[“will” is unnecessary.—R.\] 1348 [[John 04#^4-38|John iv. 38]]. 1349 [[Matthew 12#^12-23|Matt. xii. 23]], [[Matthew 12#^12-24|24]]. \[See on verse 34, in sec. 2.\]
+1346 ἐσκυλμνοι, *vexati*, the reading of the Vulgate, and of most mss. and Fathers: adopted by Griesbach into the text. \[The R.V. renders this “distressed.”\] 1347 [[Matthew 09#^9-36|Matt. ix. 36–38]]. \[“will” is unnecessary.—R.\] 1348 [[John 04#^4-38|John iv. 38]]. 1349 [[Matthew 12#^12-23|Matt. xii. 23]], [[Matthew 12#^12-24|24]]. \[See on verse 34, in sec. 2.\]
 
 *[p. 378]* ^pg386
 
@@ -291,7 +293,7 @@ After this, when he had said, “Philip, and Bartholomew,” he added, “Thomas
 
 But Luke not so, but in the opposite order, and he puts him before Thomas. Next, “James the son of Alphæus.” For there was, as I have already said, the son of Zebedee also. Then after having mentioned “Lebbæus, whose surname was Thaddæus,”<sup>1357</sup>and “Simon” Zelotes, whom he calls also “the Canaanite,” he comes to the traitor. And not as a sort of enemy or foe, but as one writing a history, so hath he described him. He saith not, “the unholy, the all unholy one,” but hath named him from his city, “Judas Iscariot.” Because there was also another Judas, “Lebbæus, whose surname was Thaddæus,” who, Luke saith, was the brother of James, saying, “Judas the brother of James.”<sup>1358</sup> Therefore to distinguish him from this man, it saith, “Judas Iscariot, who also betrayed Him.”<sup>1359</sup> And
 
-1355 [[Matthew 10#^10-2|Matt. x. 2]]. 1356 [[Matthew 10#^10-3|Matt. x. 3]]. 1357 \[R.V., “Thaddæus.” The longer reading arose quite early. Tischendorf accepts “Lebbæus,” though it is not strongly supported, mainly because Mark has “Thaddæus.”—R.\] 1358 [[Luke 06#^6-16|Luke vi. 16]]. κορυφαο.
+1355 [[Matthew 10#^10-2|Matt. x. 2]]. 1356 [[Matthew 10#^10-3|Matt. x. 3]]. 1357 \[R.V., “Thaddæus.” The longer reading arose quite early. Tischendorf accepts “Lebbæus,” though it is not strongly supported, mainly because Mark has “Thaddæus.”—R.\] 1358 [[Luke 06#^6-16|Luke vi. 16]]. 1359 Matt. x. 4.
 
 
 *[p. 380]* ^pg388
@@ -308,7 +310,7 @@ And first of all, and leader of the choir,<sup>1360</sup>is the “unlearned, th
 
 6\. “And as ye go,” saith He, “preach, saying, The kingdom of Heaven is at hand.”<sup>1366</sup> Seest thou the greatness of their ministry? Seest thou the dignity of apostles? Of nothing that is the object of sense are they commanded to speak, nor such as Moses spake of, and the prophets before them, but of some new and strange things. For while the former preached no such things, but earth, and the good things in the earth, these preached the kingdom of Heaven, and whatever is there.
 
-1360 1361 [[Acts 04#^4-13|Acts iv. 13]]. 1362 [[Matthew 10#^10-5|Matt. x. 5]]. 1363 \[R.V., “*any* way.”\] 1364 [[Matthew 10#^10-5|Matt. x. 5]], [[Matthew 10#^10-6|6]]. 1365 [[Acts 11#^11-3|Acts xi. 3]]. 1366 [[Matthew 10#^10-7|Matt. x. 7]].
+1360 κορυφαο. 1361 [[Acts 04#^4-13|Acts iv. 13]]. 1362 [[Matthew 10#^10-5|Matt. x. 5]]. 1363 \[R.V., “*any* way.”\] 1364 [[Matthew 10#^10-5|Matt. x. 5]], [[Matthew 10#^10-6|6]]. 1365 [[Acts 11#^11-3|Acts xi. 3]]. 1366 [[Matthew 10#^10-7|Matt. x. 7]].
 
 
 *[p. 381]* ^pg389
@@ -656,7 +658,7 @@ Why, though no one had spoken any of the other taunts, yet his wife’s words al
 
 Now if when men were in wealth, and suffering no distress, in many things and oft have women prevailed on them: imagine how courageous was that soul, which repulsed her, assaulting him with such powerful weapons, and which trod under foot the two most tyrannical passions, desire and pity. And yet many having conquered desire, have yielded to pity. That noble Joseph, for instance, held in subjection the most tyrannical of pleasures, and
 
-1430 Job vii. 16, LXX. Job xi.
+1430 Job vii. 16, LXX. 1431 Job xi. 6.
 
 
 *[p. 401]* ^pg409

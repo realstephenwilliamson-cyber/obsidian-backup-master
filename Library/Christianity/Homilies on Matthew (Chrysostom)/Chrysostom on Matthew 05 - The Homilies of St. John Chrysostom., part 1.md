@@ -146,7 +146,7 @@ The minor variations do not fully appear in the Oxford translation, owing to the
 
 4\. As already intimated, Chrysostom’s ignorance of Hebrew detracts from his trustworthiness as an Old Testament expositor. In the New Testament he is much superior. Yet even here he is open to criticism. Besides an occasional allegorizing comment, he shows much inaccuracy, sometimes inconsistency, in dealing with the historical questions that arise in connection with the Gospel History. He seems to have no taste for the dis cussion of such questions. Augustin shows far more judgment in his treatment of these problems. But the ethical purpose probably debarred Chrysostom from such investigations. As regards the length of our Lord’s ministry, the vexed question of our Lord’s brethren, the identity of xxii Mary Magdalene and the woman who was a sinner, etc., we derive little satisfaction from these Homilies. Occasionally topographical and archæological topics are referred to in terms
 
-The codex is of the sixth century (Wolfenbüttel), designated in Tischendorf’s notes as Chrgue. See 13 Scrivener, *Introduction*, etc., p. 419.
+13 The codex is of the sixth century (Wolfenbüttel), designated in Tischendorf’s notes as Chrgue. See Scrivener, *Introduction*, etc., p. 419.
 
 *[p. 15]* ^pg23
 
@@ -162,7 +162,7 @@ The doctrinal positions of Chrysostom naturally influence his explanations of ce
 
 The minute attention necessary in editing this volume has compelled the writer to note the excellence of the great Greek Father as an exegete. Beginning the task with some prejudice, mainly due to a knowledge of the inaccuracy of Chrysostom’s citations, he now gladly pays his humble tribute to the genius of the author, hoping that students of the volume will be enabled to echo the praises that for so many centuries have been bestowed upon John of the Golden Mouth.
 
-Stephens, *St. Chrysostom*, p. 425.
+14 Stephens, *St. Chrysostom*, p. 425.
 
 *[p. 16]* ^pg24
 
@@ -230,13 +230,11 @@ But as to John, he hath himself kept silence touching the cause; yet,<sup>33</su
 
 29 προσεφαι πλ.
 
-30
-
-\[“accurate.”—R.\]
+30 \[“accurate.”—R.\]
 
 31 [[Luke 01#^1-4|Luke i. 4]].
 
-’Ασφλεια, “certainty,” seems to be used here first *objectively*, as when we say, “a thing is certain,” then 32 *subjectively*, as “I am certain of it.”
+32 ’Ασφλεια, “certainty,” seems to be used here first *objectively*, as when we say, “a thing is certain,” then *subjectively*, as “I am certain of it.”
 
 33 \[The translator, with the Latin, follows the reading δ; most mss. have γρ, which is the more difficult read- ing.—R.\]
 
@@ -292,9 +290,9 @@ But they that are of our part not only exterminate lust, they chastise not only 
 
 Yet these high doctrines were both accepted and believed, and they flourish every day and increase; but the others have passed away, and perished, having disappeared more easily than spiders’ webs.
 
-\[πολιτεαν, as in the latter part of the sentence. This term also is variously rendered by the translator, to 46 suit the context. But in this Homily there is always a reference to Plato’s Republic, when the word πολιτεα is used. Hence attention is called to the instances where it occurs.—R.\]
+46 \[πολιτεαν, as in the latter part of the sentence. This term also is variously rendered by the translator, to suit the context. But in this Homily there is always a reference to Plato’s Republic, when the word πολιτεα is used. Hence attention is called to the instances where it occurs.—R.\]
 
-[^47]: \[φιλοσοφεν. Literally “to philosophize what no one of them was at any time able even to,” etc. The negatives are repeated in the original for greater emphasis.—R.\] 6 \[πολιτεα.\]
+[^47]: \[φιλοσοφεν. Literally “to philosophize what no one of them was at any time able even to,” etc. The negatives are repeated in the original for greater emphasis.—R.\] 6
 
 *[p. 23]* ^pg31
 
@@ -528,7 +526,7 @@ For nothing doth so hurt and dim the eye of the soul as the crowd of worldly anx
 
 Now if there be need both of an unencum bered mind, and of spiritual grace, that we may mount up to that height; what if there be none of these things, but we draw to ourselves whatever is opposite to them, even a satanical weight? how shall we be able to soar upwards, when dragged down by so great a load? For indeed, should any one attempt to weigh our words as it were in just balances; in ten thousand talents of worldly talk he will scarcely find an hundred pence of spiritual words, or rather, I should say, not even ten farthings. Is it not then a disgrace, and an extreme mockery, that if we have a servant, we make use of him for the most part in things necessary, but being possessed of a tongue, we do not deal with our member so well even as with a slave, but on the contrary make use of it for things unprofitable, and mere makeweights?<sup>102</sup> And would it were only for makeweights:<sup>103</sup>but now it is
 
-13 99 \[φιλοσοφωτρα is rendered, “more endued with practical wisdom.”—R.\] 100 Ps. cii. 3, LXX. \[R.V., “My days consume away like smoke.” The LXX. has the aorist, hence, “have failed” is the rendering here adopted. Some editions of Chrysostom read the imperfect here. The Oxford edition has a second note, the meaning of which is not clear: “Rather *have failed*, LXX.”—R.\] 101 \[εζνου, “well-girded,” then figuratively, “unencumbered.”—R.\] \[παρλκοντα .\] 102 \[παρλκοντα.\]
+13 99 \[φιλοσοφωτρα is rendered, “more endued with practical wisdom.”—R.\] 100 Ps. cii. 3, LXX. \[R.V., “My days consume away like smoke.” The LXX. has the aorist, hence, “have failed” is the rendering here adopted. Some editions of Chrysostom read the imperfect here. The Oxford edition has a second note, the meaning of which is not clear: “Rather *have failed*, LXX.”—R.\] 101 \[εζνου, “well-girded,” then figuratively, “unencumbered.”—R.\] 102 \[παρλκοντα .\] 103 \[παρλκοντα.\]
 
 *[p. 37]* ^pg45
 

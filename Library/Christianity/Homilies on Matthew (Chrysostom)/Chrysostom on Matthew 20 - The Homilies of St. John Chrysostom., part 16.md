@@ -22,7 +22,7 @@ But the fifth motive, (for it is a fifth, besides those that have been mentioned
 
 And not thus only did He cheer them, but also by the excellency itself of the men, being such as He was especially requiring from themselves. I mean, that having said, “If any man will come after me, let him take up his cross, and follow me;” them that had died ten thousand times for God’s decrees, and the people entrusted to them, these persons He sets before them. Because each of these, having lost his life, found it. For each of them both spake boldly unto tyrants, the one to the Egyptian, the other to Ahab; and in behalf of heartless and disobedient men; and by the very persons who were saved by them, they were brought into extreme danger; and each of them wishing to withdraw men from idolatry; and each being unlearned; for the one was of a “slow tongue,”<sup>2183</sup>and dull of speech, and the other for his part also somewhat of the rudest in his bearing: and of voluntary poverty both were very strict observers; for neither had Moses made any gain, nor had Elias aught more than his sheepskin; and this under the old law, and when they had not received so great a gift of miracles. For what if Moses clave a sea? yet Peter walked on the water, and was able to remove
 
-δξαν: in our copies of St. Luke ἔξοδον, but St. Chrysostom’s reading is that of a good many mss. \[None 2181 of the recent critical editions of the New Testament refer to any Greek mss., uncial or cursive, with this reading. Chrysostom alludes to it again in Homily LVIII. 1.—R.\]
+2181 δξαν: in our copies of St. Luke ἔξοδον, but St. Chrysostom’s reading is that of a good many mss. \[None of the recent critical editions of the New Testament refer to any Greek mss., uncial or cursive, with this reading. Chrysostom alludes to it again in Homily LVIII. 1.—R.\]
 
 2182 [[Luke 09#^9-31|Luke ix. 31]].
 
@@ -120,7 +120,7 @@ And again passing an opposite sentence, to some He will answer, “Depart into t
 
 “Then shall the righteous shine forth as the sun;”<sup>2212</sup>or rather more than the sun. But so much is said, not because their light is to be so much and no more, but since we know
 
-[[Matthew 17#^17-9|Matt. xvii. 9]]. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο 2206 . 2207 [[Matthew 25#^25-34|Matt. xxv. 34]], [[Matthew 25#^25-35|35]]. 2208 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2209 [[Matthew 25#^25-41|Matt. xxv. 41]].
+2206 [[Matthew 17#^17-9|Matt. xvii. 9]]. \[In the last clause “the Son of Man” is omitted, and ἀναστ is substituted for ἐγερθμεσολαβοντο . 2207 [[Matthew 25#^25-34|Matt. xxv. 34]], [[Matthew 25#^25-35|35]]. 2208 [[Matthew 25#^25-23|Matt. xxv. 23]]. 2209 [[Matthew 25#^25-41|Matt. xxv. 41]].
 
 2210 [[Matthew 25#^25-26|Matt. xxv. 26]]. 2211 [[Matthew 22#^22-13|Matt. xxii. 13]]. 2212 [[Matthew 13#^13-43|Matt. xiii. 43]].
 
@@ -578,7 +578,7 @@ And if He saith “by whom,”<sup>2308</sup>marvel not. For not as though anoth
 
 Seest thou how He hath put away the mischief that would result from the offenses? By foretelling that there surely will be offenses, so that they might find no one in a state of carelessness, but that looking for them men might be watchful. By showing the evils to be great (for He would not have said without purpose, “Woe to the world because of the offenses,” but to show that great is the mischief therefrom), by lamenting again in stronger terms over him that brings them in. For the saying, “But woe to that man,” was that of one
 
-2306 παραμυθαν, Field. 2307 [[Matthew 18#^18-7|Matt. xviii. 7]]. δ ο. 2308 2309 \[δι ο and ὑφ ο, *i.e.,*“through whom” for “by whom,” the latter phrase referring to the personal agent.—R.\] 2310 Gen. iv. 1, LXX. \[δι το θεο.\]
+2306 παραμυθαν, Field. 2307 [[Matthew 18#^18-7|Matt. xviii. 7]]. 2308 δ ο. 2309 \[δι ο and ὑφ ο, *i.e.,*“through whom” for “by whom,” the latter phrase referring to the personal agent.—R.\] 2310 Gen. iv. 1, LXX. \[δι το θεο.\]
 
 2311 Gen. xl. 8. 2312 [[1 Corinthians 01#^1-9|1 Cor. i. 9]]. 2313 [[Matthew 18#^18-8|Matt. xviii. 8]], [[Matthew 18#^18-9|9]]. \[The variations from the received text appear in the English rendering as given above.—R.\]
 

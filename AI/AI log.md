@@ -7,7 +7,7 @@ What each AI session changed in the vault, newest first, in a few lines: the dat
 
 On 3 Nov 2026, at Stephen's word, the records of the build (6 Oct – 3 Nov 2026) were cut to what a later session will use: this log's earlier entries and the build's reports, decisions and finished prompts went to `.trash`. Their last versions stay in the vault's Git history (for this note: `git log -p -- "AI/AI log.md"`).
 
-**Next free job number: pf748.**
+**Next free job number: pf757.**
 
 ## Open work
 
@@ -17,9 +17,17 @@ Left unfinished on purpose, with where its data is. Each item is a session of it
     - 547 `\[illegible\]` placeholders in 517 places: 206 that the PDF's text layer could not place on a page, about 300 where a reader marked the reading low or flagged the spot, 10 where three readers did not agree. The list: `.work/edits/fnleft-2026-11/gaps-left.json`; the method and scripts: [[Illegible gaps README (3 Nov 2026)]] in `AI/Prompts/Scripts/Viveka English/illeg-2026-11-03/`.
     - 6 footnotes left as plain paragraphs: 167 in v02 06 and 165 in v04 10, which run over several pages mixed with the body text; 3 in v10 03 (footnotes 1–3 of Chapter Twenty-Eight have no calls); 3 whose call is on a line the OCR dropped. `.work/edits/fnleft-2026-11/README.txt`, part 2.
     - 56 numbered paragraphs left plain in 13 notes (footnotes with no call in the print or with the call in another note, and numbered lists); footnotes the print numbers but the note lacks (Chapter Nine 76, 235, 374; Twenty-Eight 124, 236, 347; Twenty-Nine 195, 196, 312, 470; Chapter Five 84–86, in a heading); vol. 10 prints two footnotes numbered 165 (the first, with no call, stays plain). Data: `.work/edits/dyfn/`; scripts: `AI/Prompts/Scripts/Footnotes and endnotes/dyczkowski/`.
-- **Page labels:** the held and misread page labels (ranges and index labels whose end pages are not fixed; the misread page numbers the audit's D-06 left; Śivādvaita Nirṇaya, whose Devanagari page numbers need a plan for the whole book): the *Status* of [[SDK 2 - Page labels, held and misread (Nov 2026)]]; data `.work/edits/pagelabels-2026-10-28j/held-after-28j.json` and `.work/edits/audcorr-2026-11-03/`.
+- **Page labels:** the held and misread page labels: the 66 ranges and index labels that rest on pages printing no number (Stephen's rule leaves them held), the misread page numbers the audit's D-06 left, Śivādvaita Nirṇaya (Devanagari page numbers; needs a plan for the whole book), and what the 3 Nov night session left (Hirschi 11, Cyril on John I 01, *Cyclonopedia* 01 and 06): the *Status* of [[SDK 2 - Page labels, held and misread (Nov 2026)]]; data `.work/edits/pagelabels-2026-10-28j/held-after-28j.json`, `.work/edits/audcorr-2026-11-03/` and `.work/edits/pagelabels-2026-11/README-pl-2026-11-03n.txt`.
 - The two SDK prompts were written for the Agent SDK on the laptop; a chat session can follow their scope and method and skip the launch steps.
 - **Stephen's own:** [[Open items]]; the Bible references left plain: [[Bible references to decide later]].
+
+## 3 Nov 2026 (night, 21:40–22:20): page labels, the 14 readable held entries (Opus lead in the cloud; four Sonnet readers)
+
+- **Stephen:** do number 1 of the list offered after the Finn session: the 14 held entries whose end pages had not been read or had read unclear. Meter 75 %.
+- **Read (pf748 a read-only survey):** 139 full pages (the end pages, their neighbours, and the runs between where the markers were placeholders) blind by two Sonnet readers; then 14 zoomed strips (the pages read unclear or differently, with controls) by two more. The strips settled two pages: *Technics and Time* PDF 23 prints 11 in old-style figures (one reader had read ii), and Cyril I PDF 56 prints lii (both full-page readers had read liii; the OCR layer has lii).
+- **Done (pf750, 79 edits in 12 notes; check pf751 clean; unresolved 16 / 30):** *Technics and Time* 05 PDF 13 i → 1 and PDF 23 ii → 11, range and index 1–36; 07 PDF 123 iii → 111. *The Ritual of Battle* 01 range and index 5–47 (PDF 1 is the cover). Hirschi 11: 12 `[PDF K]` markers numbered (169–173, 182–188; 171 and 187 by the run, PDF 185's folio being garbled in the PDF), range and index 166–188. Cyril on John I 02: the preface's 44 placeholder markers (p. 21–64) → xvii–lx, PDF 65 (Book I's title page) → `[PDF 65]`, range and index "xvii–lx; 2–5"; 18: PDF 749–756 (blank leaves, a library slip, covers) → `[PDF K]`. *Cyclonopedia* 05: PDF 170 `p. i` → `[PDF 170]` (a stroke at the page edge, which no reader read as a number), range "" and index "(PDF 161–200)", as parts 2–4. Malini 03 ("69–99; 2–8") and Cyril I 18 ("649–684") were already right; their held values were wrong and are dropped.
+- **Left:** Hirschi 11 PDF 188–189 (no number, three numbers for two pages) and PDF 202; Cyril I 01 (placeholders p. 1–20; PDF 19–20 print xv–xvi, so its range "1–20" is wrong; PDF 1–18 to read); *Cyclonopedia* 01's and 06's ranges; the other 66 held entries. All in `.work/edits/pagelabels-2026-11/README-pl-2026-11-03n.txt`.
+- **Backup:** `.work/backup-pagelabels-2026-11-03n/` (to `.trash/work-pagelabels-2026-11-03n/` with the Git job, pf756). **Saved:** readings, keys and decisions in `.work/edits/pagelabels-2026-11/`; `pl03n_render.py`, `pl03n_compare.py`, `pl03n_mkspec.py` in `AI/Prompts/Scripts/Library conversion/Page labels/` ([[Page labels]]).
 
 ## 3 Nov 2026 (night, 20:53–21:35): Finn's footnotes book-wide (Opus lead in the cloud; two Sonnet readers)
 

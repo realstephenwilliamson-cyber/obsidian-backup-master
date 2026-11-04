@@ -27,6 +27,6 @@ Converted from the PDF on 7 Oct 2026 (the scan's OCR text layer (ABBYY FineReade
 - [[Mudras - Yoga in Your Hands 08 - Mudras for the Body, Mind, and Soul (continued), Ksepana Mudra - Vajra Mudra|Mudras for the Body, Mind, and Soul (continued), Ksepana Mudra – Vajra Mudra]] (pp. 98–117)
 - [[Mudras - Yoga in Your Hands 09 - Mudras for the Body, Mind, and Soul (end), Bhramara Mudra - Jnana Mudra and Chin Mudra|Mudras for the Body, Mind, and Soul (end), Bhramara Mudra – Jnana Mudra and Chin Mudra]] (pp. 118–141)
 - [[Mudras - Yoga in Your Hands 10 - Spiritual Mudras|Spiritual Mudras]] (pp. 157–165)
-- [[Mudras - Yoga in Your Hands 11 - The Mudras of Hatha Yoga and Mudra Exercises|The Mudras of Hatha Yoga and Mudra Exercises]] (pp. 166–202)
+- [[Mudras - Yoga in Your Hands 11 - The Mudras of Hatha Yoga and Mudra Exercises|The Mudras of Hatha Yoga and Mudra Exercises]] (pp. 166–188)
 - [[Mudras - Yoga in Your Hands 12 - How to Create Your Own Mudra, What a Mudra Cannot Do, Appendices A-D and A Closing Word|How to Create Your Own Mudra, What a Mudra Cannot Do, Appendices A–D and A Closing Word]] (pp. 203–209)
 - [[Mudras - Yoga in Your Hands 13 - Bibliography and Index|Bibliography and Index]] (pp. 222–223)

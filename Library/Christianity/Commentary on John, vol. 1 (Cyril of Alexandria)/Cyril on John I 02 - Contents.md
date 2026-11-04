@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Cyril of Alexandria - Commentary on John]]"
 book: "[[Library/Christianity/Commentary on John, vol. 1 (Cyril of Alexandria)/Commentary on John, vol. 1 (Cyril of Alexandria)|Commentary on John, vol. 1 (Cyril of Alexandria)]]"
 order: 2
 source_pdf: "Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 1 (1874).pdf"
-page_range: "2–5"
+page_range: "xvii–lx; 2–5"
 pdf_pages: "21–69"
 text_source: "a fresh OCR of the page images (Tesseract 5, eng+grc, 300 dpi); the archive.org text layer was not used"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from a fresh OCR
 > This text was read from the page images by OCR (English and Greek models). The English is reliable but not perfect; the Greek words of the prefaces and notes are readable but may carry slips; the marginal Scripture references and the running heads are sometimes misread or out of place. For an exact reading, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 21]* ^pg21
+*[p. xvii]* ^pg21
 
 ## Contents
 
@@ -27,13 +27,13 @@ of his fourth Book against Nestorius.
 
 4\. ἐδοξάζετο μὲν γὰρ ὁμολογουμένως, ἐνεργοῦντος τοῦ Πνεύματος τὰς θεοσημίας' ἀλλ᾽ οὐχ ὡς ἄνθρωπος θεοφόρος, ἐξ ὀθνείας τε καὶ ὑπερκειμένης φύσεως τὸ χρῆμα κερδαίνων καθὰ καὶ ἡμεῖς, ὡς ἰδίῳ δὲ μᾶλλον κεχρημένος τῷ Πνεύ-ματι. Θεὸς γὰρ ἦν φύσει καὶ οὐκ ἀλλότριον αὐτοῦ τὸ Πνεῦμα αὐτοῦ" .... οἴκοθεν οὖν ἄρα καὶ παρ᾽ αὐτοῦ τὸ Τνεῦ-μα αὐτοῦ, καὶ τούτου σαφὴς ἀπόδειξις εἴη ἂν τὸ καὶ ἑτέροις δύνασθαι χορηγεῖν αὐτὸ καὶ οὐκ ἐκ μέτρου, καθά φησιν ὁ μακάριος εὐωγγελιστής" “ἐπεμέτρησε μὲν γὰρ τοῖς ἁγίοις τὴν διὰ τοῦ Πνεύματος χάριν ὁ τῶν ὅλων Θεός"... ὁ δέ γε Κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐξ ἰδίου πληρώματος mpotels τὸ Πνεῦμα καθὰ καὶ αὐτὸς ὁ “Πατὴρ, οὐχ ὡς ἐκ μέτρου δίδωσιν αὐτὸ τοῖς ἀξίοις ἑλεῖν... . ὅταν δὲ ἔλθῃ ὁ ὁ παράκλητος ὃν ἐγὼ πέμψω a ὑμῖν παρὰ τοῦ Ὁ Πατρὸς, τὸ Πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ Ἰ\]ατρὸς ἐκπορεύεται, ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ. ἄθρει
 
-*[p. 22]* ^pg22
+*[p. xviii]* ^pg22
 
 which proceedeth from God the Father, this He says is the own Spirit of the Truth also, and He is I suppose full surely the Truth: how then, if He be of a truth not God Incarnate but man rather having the Divine Indwelling as His Huergy, does He promise to send down on them that believe on Him the Spirit of God the Father as though it were His own? ..... If then thou knowest that to sever the Spirit from His Divine Nature will be the worst of crimes and rightly so, His it is plain is the Sprrrr, as proceeding through His Ineffable Nature Itself and Con-Substantial with Him, and He will not need, as something external and foreign, the power from Him, but will use Him rather as His own Spirit. .. and He is not putting Himsclf outside of being by Nature God and having the Holy Ghost as His own . For as the Holy Ghost proceedeth from the Father, being His Spirit by Nature, in the same manner Jt proceedeth through the Son also, being His of Nature and Consubstantial with Him. Hence even if He be glorified through the Spirit, He is conceived of as Himself glorifying Himself through His own Spirit, and this is not anything external even if He
 
 δὴ οὖν ὅπως τὸ Tapa τοῦ Θεοῦ καὶ ἸΤατρὸς ἐκπορευόμενον Πνεῦμα τοῦτο καὶ τῆς ἀληθείας ἴδιον εἶναι φής: αὐτὸς δέ που πάντως ἐστὶν ἡ ἀλήθεια. εἶτα πῶς, εἴπερ ἐστὶν ἀληθῶς οὐκ ἐνανθρωπήσας Θεὸς, ἀνθρωπος δὲ μᾶλλον τὴν θείαν ἐ ἐνοίκησιν ὡς ἐνέργειαν ἔχων, ὡς ἴδιον Ἱϊνεῦμα τὸ τοῦ Θεοῦ καὶ Ilatpos τοῖς πιστεύουσιν εἰς αὐτόν “καταπέμψειν ἐπαγγέλλεται ; 00000@) μὲν οὖν οἶσθα ὅτι τὸ. ἀποτέμνειν τὸ Πνεῦμα τῆς θείας αὐτοῦ φύσεως, ἐγκλημάτων αἴσχιστον εἴη ἂν καὶ μάλα εἰκότως, αὐτοῦ δηλονότι τὸ Πνεῦμά ἐ ἐστιν ὡς δι αὐτῆς προϊὸν τῆς ἀπορρήτου φύσεως αὐτοῦ καὶ ὁμοούσιον αὐτῷ, καὶ οὐκ ἄν ἐδεήθη καθάπερ τινὸς τῆς ἔξωθέν τε καὶ ἐπακτῆς δυνάμεως τῆς παρ᾽ αὐτοῦ" χρήσεται δὲ μᾶλλον ὡς ἰδίῳ Πνεύ-part... - καὶ οὐκ ἔξω τιθεὶς ἑ ἑαυτὸν τοῦ κατὰ φύσιν εἶναι “Θεὸν καὶ ἴδιον ἃ ἔχειν τὸ Πνεῦμα τὸ “Αγιον. ... ὥσπερ γὰρ πρόεισιν ἐκ τοῦ Πατρὸς τὸ Πνεῦμα τὸ" “Αγίον, αὐτοῦ κατὰ φύσιν ὑ ὑπάρχον, καὶ κατὰ τὸν ἴσον τούτῳ τρόπον καὶ δι αὐτοῦ τοῦ Ὑἱοῦ, φυσικῶς ὃν αὐτοῦ καὶ ὁμοούσιον αὐτῷ. οὐκοῦν κἂν δοξάξηται ὁ διὰ τοῦ Π\]νεύματος, αὐτὸς ἑαυτὸν ὡς δι ἰδίου Πνεύματος, νοεῖται δοξάζων, καὶ οὐχ ὡς θύραθεν τὸ χρῆμα αὐτῷ, κἂν εἰ ὁρῷτο γεγονὼς ἄνbe
 
-*[p. 23]* ^pg23
+*[p. xix]* ^pg23
 
 seen made Man aswe.... For the Flesh was the Word’s own, and this yourself have just confessed to us (for you said that the Manhood is His and the Holy Body taken of the holy Virgin is called His Temple) His again is His Spirit and the Word of God the Father will never be conceived of without His own Spirit.
 
@@ -51,7 +51,7 @@ These passages are remarkable because S. Cyril is here not speaking of the relat
 
 8 Apol. adv. Kise. Orient. Cap. xi. Opp. vi. 193 fin.
 
-*[p. 24]* ^pg24
+*[p. xx]* ^pg24
 
 tion of God the Holy Ghost to Tim remains unaltered
 
@@ -59,7 +59,7 @@ by this.
 
 These extracts give 8. Cyril’s teaching on this © subject as extant in different works of his. But it may occur to some to think how we are to know that in all the bitter controversy about the expression of this doctrine in which 8. Cyril was cited on both sides: how we are to know that the Greek manuscripts which preserve to us his writings were not tampered with through Latin influence. We have proof in regard to many of his writings. I quoted above his Thesaurus as extant in the Syriac Manuscript add. 14556 in the British Muscum assigned by Dr. Wright to the sixth or seventh century and therefore anterior to the controversy. This manuscript contains even the formal heading, That the Holy Ghost is of the Essence of the Father and the Son. The citation from his apology to the Eastern Bishops is likewise extant in Syriac in the manuscript add. 12156 of the sixth century, that from the explanation of the twelve chapters in the manuscript add. 14557 of the seventh century which same manuscript also contains the treatise “De recta fide” addressed to the Emperor Theodosius ; and this latter is in a much older version, one attributed to Rabbula, Bishop of Edessa, who was a contemporary of S. Cyril. For the extracts of the other works of his cited in this Preface I am not able to adduce the support of the Syriac. But neither is it needed: for S. Cyril’s teaching is uniform throughout and it is the clear and explicit teaching of one who had been instructed in the truth handed down by those before him and who held, taught and enunciated it as no matter of dry speculation but as living belicf and reality.
 
-*[p. 25]* ^pg25
+*[p. xxi]* ^pg25
 
 PREFACE. ΧΧῚ
 
@@ -71,7 +71,7 @@ The relation of the Three Divine Persons, Father,
 
 ° The authorities quoted below are furnished by the very learned and candid dissertation of Petavius “de Processione Sancti Spiritus,” which forms Book vii of his De Trinitate, (Dogm. Theol. ii. 362 sqq.) and as to the history, from Le Quien Dissertationes Damascenice (Diss. 1) prefixed to his edition of S. John Damascene. EF. B. P.
 
-*[p. 26]* ^pg26
+*[p. xxii]* ^pg26
 
 Son, and Holy Ghost is laid down for us by our Lord in the Baptismal formula, nor may we depart from it, “10 For we must be baptized, as we have received; and believe, as we are baptized; and glorify, as we have believed, Father Son and Holy Ghost.” The order of the co-eternal Three must be, as Themselves, co-eternal. §. Basil says},
 
@@ -87,7 +87,7 @@ The controversy raised by the unhappy Photius not having arisen, the faith could
 
 214\. de Sp. S. c. 17. n. 43. Opp. iii. 36. Ib.
 
-*[p. 27]* ^pg27
+*[p. xxiii]* ^pg27
 
 Son, in that way called Generation, and that that Being flows on eternally to the Holy Spirit, being derived originally from the Father, but issuing to the Holy Ghost from Both, the Father and the Son, as One. 8S. Gregory of Nyssa, having met the objection, that, ‘if we believe God the Son to be Eternal, we should also believe Him to be Ingenerate or Unoriginate,” by saying that ‘‘ Te ever co-exists with the ever-existing Father, united by Generation with the Ingenerateness of the Father ;” says,
 
@@ -99,7 +99,7 @@ In another place, he meets the ‘ cavil, that not to admit a difference \[of th
 
 5 8. Greg. Nyss. c. Eunom. i. fin. Opp. ii. 428. Ib. vii, 3. 3.
 
-*[p. 28]* ^pg28
+*[p. xxiv]* ^pg28
 
 the Spirit is from (é«) the Father, the intermediate-ness of the Son both preserving to Him the being Only-Begotten, and not excluding the Spirit from the natural relation to the Father. But in speaking of ‘Cause’ and ‘from Cause,’ we do not by these forms designate nature; (for one would not speak of ‘Cause’ and ‘Nature’ as the same) but we point out the difference in the mode of existence.”
 
@@ -115,7 +115,7 @@ tinctly laid down.
 
 S. Gregory of Nyssa is commonly supposed to have framed the additions to the Creed at the Council of Constantinople. His contemporaries ὃ. Epiphanius and Didymus, and his brother 8. Basil, express this relation of the Holy Spirit to the Son by the word “from.” Didymus, the teacher of 5. Jerome and Rufinus, in his work on the Holy Spirit, translated
 
-*[p. 29]* ^pg29
+*[p. xxv]* ^pg29
 
 by S. Jerome, ὁ“ ὁ explaining the words of our Lord, He shall not speak from Himself,” writes,
 
@@ -134,7 +134,7 @@ He shall take of Mine,”
 5\. De Spiritu Sancto ἢ. 34. translated by S. Jerome Opp. ii. 142. Vall. Pet. de Trin. vii. 3, 5. ° Ib. n. 36, 37. p. 147.
 
 
-*[p. 30]* ^pg30
+*[p. xxvi]* ^pg30
 
 but always “from” when speaking of the Eternal Being of the Holy Spirit. And these are no chance passages of 8. Epiphanius, but passages in which he is carefully stating and guarding the truth as to the existence of the Holy Trinity. The first is against
 
@@ -150,7 +150,7 @@ phemers of the Holy Ghost? ;”
 
 1S. Epiph. Heer, sii. n. 4. <sup>2</sup>Ancorat. Opp. T. ii. 3 Heer, Ixxiy. + Ane. ἢ. 7. 5Ib.n. 8. <sup>6</sup>Ib. n. 70.
 
-*[p. 31]* ^pg31
+*[p. xxvii]* ^pg31
 
 But the Holy Spirit from Both (παρ᾽ ἀμφοτέρων) is
 
@@ -163,7 +163,7 @@ EKunomius argued, that “he had received from the
 7\. Her. lxxiv.n.8. Ane. n. 72. filled up from Heer. Ixxiv.h.9. °Ib. 73. Tb, 75.
 
 
-*[p. 32]* ^pg32
+*[p. xxviii]* ^pg32
 
 saints, that the Paraclete was the third in order and dignity,” and therefore he inferred that Ie was “third also in nature.” §. Basil answers},
 
@@ -178,7 +178,7 @@ S. Athanasius sets forth the faith as to the Holy Spirit as that “?tradition w
 1\. The passage was adduced by the Latins in the Council of Florence, from a MS. brought from Constantinople by Card. Nicolas Cusanus. The disputed reading was “in a parchment MS. 600 years before the Council of Florence and before the commencement of the controversy as to the Procession of the Holy Spirit” and “other very old books, whose antiquity is such that any one would own that they are prior to the schism.” John de Turrecremata at the Council and Manuel Calecas 6. 10. in Petav. vii. 3. 16. \*Ep. i, ad Serap. n. 28. Opp. i. 676. Ben. Petay. Preef. in Theol. Dogm. T. ii. p. 6.
 
 
-*[p. 33]* ^pg33
+*[p. xxix]* ^pg33
 
 PREFACE. ΧΧΙΧ
 
@@ -200,7 +200,7 @@ Son, not dispersed into the air, but subsisting.”
 
 \_ Ib. n. 32. p. 681. ‘Id. Ep. 3 ad Serap. p. 691. Ben. ap. Petav. ib. p. 384, 5S. Cyril Jer. Cat. 17. n. 5. p. 223. Oxf. Tr.
 
-*[p. 34]* ^pg34
+*[p. xxx]* ^pg34
 
 At this same period, and by the same writers, the Eternal Procession of the Holy Ghost ‘‘ through the Son” (διὰ τοῦ υἱοῦ) is spoken of; the one expression “from”? marking the more vividly, that the Holy Spirit, in the Eternal Being, issued from Father and Son in one, the Third in order of the All-Holy Trinity; the other, that, the Father being the One Source of Godhead, the Holy Spirit proceedeth, not directly or immediately from Him, but ¢hrough the Son. Such language of 8. Cyril has been given above. So also Ὁ. Athanasius; yet guarding against any poor conception which might be derived from the word “through” by itself, as though the Godhead could pass as through a channel, “through the Son,” and not rather that, through the Oneness of the Father and the Son, the Holy Ghost proceedeth from the Father and the Sonas One. Thus, as 8. Cyril speaks of the Holy Ghost, as ‘‘of the Son and 7m Him, and His very own,” so also 5. Athanasius,
 
@@ -210,7 +210,7 @@ This language of §. Athanasius is the stronger, because (as Petavius argues) he
 
 6S. Ath, Ep. i, ad Serap. n. 25. p. 673. Ben. 7 vil. 4, 8. 7 Ib. n. 31, p. ‘Gro. Ben.
 
-*[p. 35]* ^pg35
+*[p. xxxi]* ^pg35
 
 “8 Since the Word is the very own of the substance of God by nature (ἴδιος φύσει τῆς οὐσίας τοῦ θεοῦ) and is of (ée) Him and ix Him.” “ The true Son is by nature the real Son of the Father, the own of His Essence, Ouly-begotten Wisdom.” ‘The Word, then, is not a creature, but, alone, very own of the Father.” “ Not alien but the very own of the essence of the Father.”
 
@@ -233,7 +233,7 @@ Father.
 8\. Orat. c, Ar. ii, πὶ 31. Petav. <sup>9</sup>Ep. iii, ad Serap. n. 5. p. 694. Ben. Pet. vii. 6. 5. WTb. n. 6. p. 695. <sup>1</sup>De Sp. S. 6. 18. \* Id. in Petay. vii. 6. 5. 3S. Basil quoted by Georg. Pachymere a writer on the Greek side, Hist. L. vii. ap. Petav, vii. 6. 3.
 
 
-*[p. 36]* ^pg36
+*[p. xxxii]* ^pg36
 
 And, in answer to the question, “why the Spirit was
 
@@ -267,7 +267,7 @@ Col. ὅς, Eunom. L. i. ed. Grets. ap. Pet. vii. 6.5.
 
 ὅς, Eunom. L. i. ap. Bess. p. 428. <sup>7</sup>Bess. 1. 6.
 
-*[p. 37]* ^pg37
+*[p. xxxiii]* ^pg37
 
 ing to substance, God the Father’s, so is He the Son’s according to substance, proceeding substantially from the Father through the Son, inefiably Begotten.”
 
@@ -285,7 +285,7 @@ Thus far the term preferred and most used by the great Greek Fathers is the same
 
 ‘de Trin. xv. 17. Ib.
 
-*[p. 38]* ^pg38
+*[p. xxxiv]* ^pg38
 
 few later Greek writers of eminence. Theodoret, in his heat against 8. Cyril, rejected alike both the from
 
@@ -316,7 +316,7 @@ Philo Carpathius was a younger contemporary of 8. Epiphanius, and, it is said, m
 7\. τὸ ἐξ αὐτοῦ πνεῦμα. Photius of course leaves out the ἐξ, “Beccus and Calecas, Savile” and Montf. (App. 224.) “have it.” Petav. de Trin, vii. 3. 19,
 
 
-*[p. 39]* ^pg39
+*[p. xxxv]* ^pg39
 
 PREFACE. XXXKV
 
@@ -342,7 +342,7 @@ use of the form in the East.
 
 9 Anast. Sinait. de rect. dogm. L. i. Pet. vii. 5, 10, and 3. 19.
 
-*[p. 40]* ^pg40
+*[p. xxxvi]* ^pg40
 
 “1 And my Christ is raised to the heavens and returns to His Father’s throne, and sendeth on the disciples the Spirit Who proceedeth from Hinself, to lead aright the unbelieving nations.”
 
@@ -362,7 +362,7 @@ In it, it is declared ;
 
 Quoted from Rev. G. Williams, The Orthodox Eastern Church.
 
-*[p. 41]* ^pg41
+*[p. xxxvii]* ^pg41
 
 PREFACE. ΧΧΧΥΙ
 
@@ -384,7 +384,7 @@ Romans
 
 “4 yroduced consonant testimonies of the Latin fathers and of Cyril of Alexandria out of his sacred work on the holy Evangelist John, from which they ‘Ep. ad Marin. Opp. ii. 70.
 
-*[p. 42]* ^pg42
+*[p. xxxviii]* ^pg42
 
 shewed that they did not make the Son the Cause of the Holy Spirit. For they knew that the Father is the one Cause of Son and Spirit, of the One according to Generation; of the Other, according to Procession; but (they used it) to convey that the One came through the Other, and to shew thereby the community of Substance and invariableness.”
 
@@ -397,7 +397,7 @@ Bessarion alleges the Synodical letter of Tarasius as shewing that the word, thr
 5\. Epist. ad Joann. Diac. This quotation by Anastasius (as Le Quien observes p. v.) authenticates beyond question the genuineness of the passage of S. Maximus, which some doubted.
 
 
-*[p. 43]* ^pg43
+*[p. xxxix]* ^pg43
 
 mind of the 7th General Council, in whose name he
 
@@ -419,7 +419,7 @@ Yet, although those among whom he lived had dropped the expression ‘from,’ i
 
 8 τὸ πνεῦμα τὸ ἽΛγιον, πνεῦμα τοῦ πατρὸς, ὡς ἐκ πατρὸς ἐκπορευόμένον... ..ὅ καὶ υἱοῦ δὲ πνεῦμα, οὐχ ὡς ἐξ αὐτοῦ, ἀλλ᾽ ὡς δι’ αὐτοῦ ἐκ πατρὸς ἐκπορευόμενον" μόνος γὰρ αἴτιος 6 πατήρ. 1. 12. fin. Opp. i. 148,
 
-*[p. 44]* ^pg44
+*[p. xl]* ^pg44
 
 Son, too, not as from Him but as proceeding through Him from the Father; for the Father is the sole cause.”
 
@@ -439,7 +439,7 @@ He uses also the very language of 8. Cyril, ‘’The Spirit is the Son’s, bec
 
 ? Expos. fid. (ex Arab.) Opp. i. 664. <sup>3</sup>de fid. orth. i. 13.
 
-*[p. 45]* ^pg45
+*[p. xli]* ^pg45
 
 Gregory the Great; ‘‘\*It is manifest that the Paraclete Spirit proceedeth from the Father and abideth zx the Son.” “ἢ Unlike (the way in which He dwelleth in the Saints) the Spirit abideth 7 the Son, from Whom by nature He never departeth.” And Vigilius Tapsensis, ‘“°We have proved by many testimonies of the Scriptures, that He is the Spirit of the Son and that He abideth whole zz the Son; and as He proceedeth from God the Father, so He proceedeth from the Son, that the whole Trinity may
 
@@ -456,7 +456,7 @@ When Charlemagne objected that Tarasius, Patriarch of Constantinople, professed 
 5\. Mor. iii. n. 92. Ib. δ De Trin. L. xi. Ib. p. xii. \* Ep. ad Patriarch. Syn. Nic. ii. Act. iti. Cone. viii. 812. Col. 8 Epist. Adriani P. ad Car. Mag., Actt. Syn. Nic. ii. subjecta. Conc. viii. 1554. sqq. Col. <sup>9</sup>Ep. Leon. ad Car. Magn. Le Quien. p. vii. \*\* For I too will not, I say not, prefer myself; far be it from me that I should presume to equal myself to them.” 5. Leo iii. Ep. in Le Ὁ, p. Vili.
 
 
-*[p. 46]* ^pg46
+*[p. xlii]* ^pg46
 
 sent to the Eastern Bishops a confession of faith? on the Holy Trinity with the words,
 
@@ -477,7 +477,7 @@ in the Creed.
 \*\. See Le Qu. p. viii. 8 G. Scholarius de process. Sp. S. cont. Lat. c. 4. Le Qu. p 4 Peter of Antioch, about A. 1054, says that he had heard tthe a of the Roman Pontiff recited from the diptyelis at the Mass at Constantinople, 45 years before. Le Quien. p. xii. 5 Peter Antioch. Ep. ad Domin. Grad. n. 7. Coteler Eccl. Gr. Monum. T. ii. p. 117. Sin itate Vecc. Orat. i, de union. Eccl, Le Q. p. xvii.
 
 
-*[p. 47]* ^pg47
+*[p. xliii]* ^pg47
 
 PREFACE. xh
 
@@ -498,7 +498,7 @@ Even at the beginning of the Council of Florence,
 7\. Le Q. p. xx. from Ans. Havelb. ο. Gr. ii, 2. Spicil. T. i. 5. βραχέα twa προςκόμματα, Greek in Jur. Gr. Rom. v. 307, Lat. in Baron. A. 1155. Le Qu. Ib. ® Pachymeres v. 12. ‘Le Ὁ, p. xxi. from Wading i. 147, Regest. Lib, ii. Ep. 325.
 
 
-*[p. 48]* ^pg48
+*[p. xliv]* ^pg48
 
 PREV ACE.
 
@@ -523,7 +523,7 @@ Saint himself, nothing.”
 4\. Bp. of Methone probably, A.D. 1440, who wrote Responsioad libellum Marci Ephesii, inserted in App. to Council of Florence Cone. xviii. p. 690.
 
 
-*[p. 49]* ^pg49
+*[p. xlv]* ^pg49
 
 The Deeree of the Council, in declaring the identity of the meaning of the two formule, seems to be framed on one of George Scholarius, afterwards a great enemy of the Council, in which he draws out the Latin side very elearly, but leaves ambiguities in
 
@@ -535,7 +535,7 @@ Scholarius shewed that he clearly understood the Latin doctrine, and that it was
 
 δ Syrop.n. 8. Le Qu. p. xxvii. xxviii.
 
-*[p. 50]* ^pg50
+*[p. xlvi]* ^pg50
 
 repeated only unexplained sayings of some Greek fathers, capable by themselves of being understood without any- reference to the Eternal Being of God, and perhaps the more so, as standing in contrast with the definite statements whicn he had put into the mouth of the Latins. On being asked to explain, Scholarius made no answer, and soon after left the Council. The Greeks answered that the Westerns rejected the sayings of the Fathers. They were only asked, in what sense they used them; e. g. whether they understood the “pouring forth” to be from eternity, and to relate to Substance and Person; what they meant by “pouring forth,” whether it meant the same as to ‘ proceed”? &e.
 
@@ -547,7 +547,7 @@ only leaving out what was ambiguous:
 
 ® Cone. t. xviii. 1146. ed. Col.
 
-*[p. 51]* ^pg51
+*[p. xlvii]* ^pg51
 
 what we say, that the Holy Ghost proceeds from the Father and the Son, we do not say in the sense of excluding the Father from being the Source of all Godhead, of the Son, that is, and the Holy Ghost: or that this, that the Holy Ghost proceeds from the Son, the Son hath not from the Father, or in the sense of aflirming that there are two Sources or two Spirations, but we affirm that there is One sole Source and Only Breathing of the Holy Ghost, as heretofore we have asserted.”
 
@@ -565,7 +565,7 @@ e 7 Le Qu. p. xxvii.
 
 9\* All who from the time of Cerularius to John Beccus” (who was won to the Latin side by Nicephorus Blemmidas, and was Patriarch A.D. 1272, accordingly above 200 years) ‘“‘ wrote in behalf of the schism, with one consent maintained no procession of the Holy Spirit from the Father through the Son, except that temporal manifestation or granting of spiritual gifts.’ Le Quien p. xxiii. xxiv. He instances Michael Psellus who explained “the Procession through the Son” that He was imparted by Him and partaken by all creation; ” Nicetas of Nicomedia, “given through the Son to sanctify the creature, or, according to others, because He passed through the Son to sanctify men;” cr the Bishop d2
 
-*[p. 52]* ^pg52
+*[p. xlviii]* ^pg52
 
 xlyili PREFACE.
 
@@ -581,7 +581,7 @@ mission, gift or supply.” Ib.
 
 Son and in Him and from Him,” to be “ not of His procession, but of His 1 περιχώρησις. See Petav. de Trin. iv. 16. per totum, Dr. Newman notes on 8. Athanasius against the Arians, Oxf. Tr. passim.
 
-*[p. 53]* ^pg53
+*[p. xlix]* ^pg53
 
 on the one side, and Sabellianism on the other; ‘‘neither confounding the Persons, nor dividing the Substance.” The Fathers had most occasion to dwell upon this against the Arians. In our human mode of existence, the father is external to the son, and the breath from the breather. In God, all is within Himself, in the absolute unity and simplicity of Tis
 
@@ -597,7 +597,7 @@ Inseparate®.
 
 \+ Damascene in Petav. iv. 16. 7. > ἀμέριστος ἐν μεμερισμένοις. δ Damase. de fid. orth. iii. 5.
 
-*[p. 54]* ^pg54
+*[p. l]* ^pg54
 
 separate mode of Being, yet they are united in Hs-sence and natural properties, and by their not being separated or going apart from the Person of the Father, such are and are ealled One God.”
 
@@ -617,7 +617,7 @@ In the order of the Divine existence, contained in the baptismal formula which o
 
 7 de fide ad Petr. c. 1. <sup>8</sup>de Trin. i. 14.
 
-*[p. 55]* ^pg55
+*[p. li]* ^pg55
 
 PREFACE. hi
 
@@ -639,7 +639,7 @@ him the rule of the Church ;”
 
 9\. Le Quien n. 39. p. xix.
 
-*[p. 56]* ^pg56
+*[p. lii]* ^pg56
 
 cedonius had its rise and adherents in the East, and was remedied by an Eastern Council, which became (Ecumenical, only through its reception by the West. Else it had remained a Greek Council, being convened by the Emperor without any concurrence of the Western Church. 6) Additions were made to the Creed from the first, without any authority of the whole. The Apostles’ Creed was varied both in East and West?. Our Lord’s ‘descent into Hell,” though universally believed, ‘does not appear in any ancient Creed except that of Aquilcia, and is directly stated by Ruffinus to have been wanting in the Roman and Oriental Creeds\*. The ‘Communion of Saints’ lying implicitly in ‘the Holy Church’ is not found in any very ancient Greek Creed, and hence was not incorporated into the Nicene nor into the Athanasian Creed. The carliest place in which it occurs is the Gallican Sacramentary of the end of the 7th Century.” 6) The addition was made for the satisfaction of minds in the West, without any attempt to impose it upon the East. The Greeks refused to be in communion with the West, unless the West gave up the expression of the faith, in its hereditary langnage ; the Latins did not attempt to impose the
 
@@ -650,7 +650,7 @@ The objection against altering the common Creed would have been valid, had there
 1\. See note P. On the early traces and variations of the Apostles’ Creed in Tertullian p. 496—507, Oxf. Tr. <sup>2</sup>Ib. p. 503 sq.
 
 
-*[p. 57]* ^pg57
+*[p. liii]* ^pg57
 
 herein of heresy; he explicitly said that the Creed was unchanged’. The Greeks were expressly exempted from altering the Creed in case of reunion, in the negotiations under Innocent IV‘: in the Council of Lyons A.D. 1261, Michael Paleologus asked “sthat our Church should say the holy Creed as it said it before the schism.” In the Council of Florence, the Greeks declared 5, ‘this addition we will never receive, but” they added as a concession, ‘we permit you to have τέ in your Churches, yet not in those of the Last: and we say, that under the pressure of necessity ye expanded the Creed ; and we do not say, that that word ‘from the Son’ is either another faith or an addition, but that it is pious and an explanation of our Creed; and both Creeds are pious and of the same meaning, as ye say it in the Church of the Romans, and as we again say it in the Eastern Church, and so let the union be formed.” The Emperor had previously laid it down as a condition of union. ‘7It being laid down that the Latins should neither compel us to add any thing in our holy Creed, nor to change any thing of the customs of our Church” ; following herein the Patriarch, who ‘\* accepted the western Saints saying that the IToly Spirit is from the Father and the Son; yet admonishing, ‘only, let us not insert it in our Creed, but retaining all our customs, be united with them.’’”’? Clement VIII deerced® that the Greeks \[in union with the West\] should be bound to believe that the Holy
 
@@ -659,7 +659,7 @@ herein of heresy; he explicitly said that the Creed was unchanged’. The Greeks
 4\. See above p. xliii. <sup>5</sup>in Cone. Lugd. ii. Sess. iv. Cone. xiv. 512. Col... Le Q. n. 46. p. xxii. 10. δ Cone: Flor: Sess. xxvi sub. fin. Conc. xviii. 568. Col. . 7 Ib. 493. <sup>8</sup>Ib. 492. ® Bulla xxxiv. n. 6. Le Ὁ, ἢ. 39. p. xix.
 
 
-*[p. 58]* ^pg58
+*[p. liv]* ^pg58
 
 Spirit proceeds from the Son but should not be bound to utter it, unless there were scandal; ‘‘wherefore,” adds Le Quien, “the Greeks who are in union with the Roman Church repeat \[A. D. 1710\] the Creed
 
@@ -673,7 +673,7 @@ It is strange that the Canon of the Council of Ephesus should ever have been con
 
 1 Cone. vi. 697. Col.
 
-*[p. 59]* ^pg59
+*[p. lv]* ^pg59
 
 Church. The Canon was framed on occasion of the Nestorian exposition of faith, which Charisius presented to returning Quartodecimans ‘and No-
 
@@ -690,7 +690,7 @@ and against the imputation that he “had received an
 
 3\. Ep. 35 ad Acac. Melit. Opp. v. P. 2. 2. p. 110.
 
-*[p. 60]* ^pg60
+*[p. lvi]* ^pg60
 
 exposition of faith or new Creed, as dishonouring that old and venerable Creed,” he says ἢ,
 
@@ -698,7 +698,7 @@ exposition of faith or new Creed, as dishonouring that old and venerable Creed,�
 
 4 Tb. p. 112.
 
-*[p. 61]* ^pg61
+*[p. lvii]* ^pg61
 
 PREFACE. ἵν
 
@@ -712,7 +712,7 @@ S. Maximus had to answer the same imputation from the Monophysites, as to “the
 
 6 ἧς ἐναντία τὰ δόγματα. <sup>7</sup>Opp. ii. 114, 142.
 
-*[p. 62]* ^pg62
+*[p. lviii]* ^pg62
 
 eee .
 
@@ -729,13 +729,13 @@ The Western statement of the Procession of the Holy Ghost “from the Father and
 8\. S. Maximus contrasts the “additional interpretations ” of the Chureh (ἐπεξηγούμενοι) and the “misinterpretations” (παρεξηγούμενοι) of heretics, which may illustrate what was forbidden by the παρὰ of the Council of Ephesus.
 
 
-*[p. 63]* ^pg63
+*[p. lix]* ^pg63
 
 this, in the language of the Greck fathers, expressed the same doctrine, yet 10 admitted also of a meaning, eompatible with a denial of the Faith, as contained in the Baptismal formula, given us by our Lord. The thirst for visible unity has directed itself the more towards the Greek Church, sinee the Roman Church has shut against us what seemed to be a half-open. door. But therewith there has, among some, seemed to be a rising impatience of the “ Fi-lioque,”’ as though it were ¢he hindrance to an union with the Eastern Church. It seemed then expedient on occasion of the publication of one of the great and most esteemed works of 8. Cyril, to bring together, from the Greek fathers, some of the evidence of the use of the formula, now excepted against by the later Greeks since Photius, and especially since the renewal of the schism by Cerularius. Middle-age Greek writers have surmised that the ground of the prolonged schism was not the doctrine, but “the thrones,” Constantinople wishing to have an eminence over the other Eastern Patriarchates, which did not belong to it, Rome elaiming an authority over Constantinople and the East, which it did not claim in primitive times. There seemed then, the more hope, that sinee ¢his question did not lie between Greece and ourselves, they could not, if they would look into the question, exeept against our retaining the expression of the faith, which was common to their own fathers.
 
 9 e. g. “Although the schism is said to have been renewed under Sergius, I know not for what reason; but I think, on account of the sees.” Nicetas Niczenus in Le Quien p. xii. The ground of the failure of attempts at re-union seems to have been the subjection to Rome involved. See also “ one of their able and moderate writers, Elias Meniates, Bishop of Zerniza, towards the end of the 17 cent., Lapis offensionis, L. ii. c. 1. quoted by M. Trevern. Discussion Amicale, T. i. p. 231,” in
 
-*[p. 64]* ^pg64
+*[p. lx]* ^pg64
 
 bx PREFACE.
 
@@ -747,7 +747,7 @@ self, and become misbelicvers in our God. |
 
 Jury, 1874,
 
-*[p. 65]* ^pg65
+*[PDF 65]* ^pg65
 
 S. CYRIL,
 

@@ -511,25 +511,25 @@ Thanks be to CHREST
 1\. Cor. i. 30. PRINTED BY THE SOCIETY OF THE HOLY TRINITY, HOLY ROOD, OXFORD.
 
 
-*[p. 749]* ^pg749
+*[PDF 749]* ^pg749
 
-*[p. 750]* ^pg750
+*[PDF 750]* ^pg750
 
-*[p. 751]* ^pg751
+*[PDF 751]* ^pg751
 
-*[p. 752]* ^pg752
+*[PDF 752]* ^pg752
 
-*[p. 753]* ^pg753
+*[PDF 753]* ^pg753
 
-*[p. 754]* ^pg754
+*[PDF 754]* ^pg754
 
 GAYLORD PRINTEDINY.S.A.
 
-*[p. 755]* ^pg755
+*[PDF 755]* ^pg755
 
 DATE DUE | sep 2 4 2009 |
 
-*[p. 756]* ^pg756
+*[PDF 756]* ^pg756
 
 Aiea ean "γὴν Ἤν
 

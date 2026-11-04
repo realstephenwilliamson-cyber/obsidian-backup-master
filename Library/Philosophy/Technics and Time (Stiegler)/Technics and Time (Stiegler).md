@@ -21,7 +21,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF; 8 
 - [[Technics and Time 02 - TECHNICS AND TIME, 2|TECHNICS AND TIME, 2]] (PDF 5–6)
 - [[Technics and Time 03 - Contents|Contents]] (PDF 7–8)
 - [[Technics and Time 04 - Translator's Note|Translator’s Note]] (PDF 9–10)
-- [[Technics and Time 05 - Technics and Time, 2, part 1|Technics and Time, 2, part 1]] (pp. 11–36)
+- [[Technics and Time 05 - Technics and Time, 2, part 1|Technics and Time, 2, part 1]] (pp. 1–36)
 - [[Technics and Time 06 - Technics and Time, 2, part 2|Technics and Time, 2, part 2]] (pp. 37–74)
 - [[Technics and Time 07 - Technics and Time, 2, part 3|Technics and Time, 2, part 3]] (pp. 75–112)
 - [[Technics and Time 08 - Technics and Time, 2, part 4|Technics and Time, 2, part 4]] (pp. 113–150)

@@ -4,7 +4,7 @@ work: "[[Negarestani - Cyclonopedia]]"
 book: "[[Library/Philosophy/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)|Cyclonopedia - Complicity with Anonymous Materials (Negarestani)]]"
 order: 5
 source_pdf: Library/Philosophy/Negarestani - Cyclonopedia, Complicity with Anonymous Materials (2008).pdf
-page_range: 161–200
+page_range: ""
 pdf_pages: 161–200
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -103,7 +103,7 @@ THE CORE
 
 The molten outer core of the Earth, or CthelH, has already been popularized as a subject of Tellurian Insurgency in the lacklustre Hollywood movie. *The Core,* although ultimately the opportunity was squandered. The movie begins with scenes of a tellurian cataclysm: an electroconvulsive sky. disoriented animals, scrambled communication signals and agitated birds. The Earth's core has stopped spinning, and consequently the dynamism of all flows and convection currents at the core have been brought to an abrupt halt. The churning of the Earth's molten iron core combined with the rotation of the planet enmesh the Earth's magnetosphere. The halting of the core’s dynamism effectively forces the planet’s electromagnetic bubble to collapse. The disruption of the electromagnetic shield exposes the Earth to planet-devouring solar radiations, which threaten to tear apart the atmosphere and immolate all life on the planet. This collapse of the electromagnetic protection instigates the Tellurian Omega in which monotheism has already invested a huge amount of Apocalyptic politics and a thoroughgoing diseased ontotheology. The collapse of the terrestrial shield, the movie insinuates, heralds the depletion of terrestrial possibilities for the surface biosphere and therefore plays a significant role in apocalyptic scenarios of monotheism. In this scenario, the paralysis of the Earth’s core or the Insider, gives monotheism an opportunity to unite with Solar Capitalism and the incinerating hegemony of the Sun. In *The Rise and Fall of the Solar Empire,* Parsani writes that only the power of the Earth's Insider is able to undermine this totalitarian unity by derailing it toward a terrestrial insurrection. The chthonic revolution, Parsani adds, takes place on behalf of an earth which
 
-*[p. i]* ^pg170
+*[PDF 170]* ^pg170
 
 has been cracked, butchered and laid open by the Outside for which the Sun is another state with its repressive politics and economy The movie depicts the last human attempts to reactivate the core and prevent the Earth from becoming one with the Sun (unity through possession). Geologists plan to travel into the core (an operation similar to the Russian Hot Drop Project) to reactivate the convectional flow currents. When the project fails, the government decides to proceed to the next plan. Project DESTINY or DESTINI (Deep Earth Seismic Triggering INItiation) — a super-weapon generating massive earthquakes under enemy territories which is to be repurposed to give the earth's flatline one last electroshock and bring back the earth's magnetic shield by reactivating the core. In geological reality, however, the collapse of the magnetosphere would merely cause a shift in the Earth's dipole, because even the upper layers of atmosphere act as effective shields against radiation. It is only the core and its schizoid characteristics which cannot be compromised.
 

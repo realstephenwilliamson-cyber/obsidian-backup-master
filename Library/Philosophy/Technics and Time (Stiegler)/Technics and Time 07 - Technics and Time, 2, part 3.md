@@ -486,7 +486,7 @@ With telematics, the storage of information changes in size and in nature.
 
 Storage in computers requires an organizational effort, based on both technical constraints and financial imperatives. The establishment of data banks is 
 
-*[p. iii]* ^pg123
+*[p. 111]* ^pg123
 
 going to be the beginning of a rapid restructuring of knowledge, following patterns that now are difficult to define. The change will take place on the initiative of the sponsors of such banks, most probably in the United States. Therefore, criteria originating from the American cultural model will prevail. (131)
 

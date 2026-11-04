@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 11
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 166–202
+page_range: "166–188"
 pdf_pages: 180–202
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -101,7 +101,7 @@ or Chin Mudra with your hands (see page 139).
 
 Gerhard H. Eggetsberger, *Power fur den ganzen Tag* (Wien, 1995), p. 40. 
 
-*[PDF 183]* ^pg183
+*[p. 169]* ^pg183
 
 C O N C E P T 
 
@@ -135,7 +135,7 @@ BHUJANGAN1 M U D R A
 
 • Now swallow the air as if slurping water, and direct it to your abdomen. 
 
-*[PDF 184]* ^pg184
+*[p. 170]* ^pg184
 
 170 
 
@@ -169,7 +169,7 @@ KAK1 MUDRA
 
 *Effect:* The Kaki Mudra has a cleansing effect on the mouth, gums, and the entire upper digestive tract, from the stomach far into the intestines. Accordingly, it also causes the skin to become more pure. In addition, it has a calming effect on the autonomous nervous system. It also improves the sense of taste for sweet, salty, sour, and bitter. And finally, it stimulates the secretion of saliva and has a cooling effect. 
 
-*[PDF 185]* ^pg185
+*[p. 171]* ^pg185
 
 C O N C E P T 
 
@@ -217,7 +217,7 @@ Appendix D) and do the Maha Bandha (see page 171).
 
 • While inhaling, release the Maha Bandha. When the lungs 
 
-*[PDF 186]* ^pg186
+*[p. 172]* ^pg186
 
 M U D R A S 
 
@@ -239,7 +239,7 @@ MAHA BANDHA
 
 • Then pull in the abdominal wall (Uddiyana Bandha). • And press the chin onto the larynx (Jalandhara Bandha). 
 
-*[PDF 187]* ^pg187
+*[p. 173]* ^pg187
 
 C O N C E P T 1 7 3 
 
@@ -407,7 +407,7 @@ Affirmation
 
 *Effect:* This massages the ganglia and organs; it strengthens the nervous system, liver, spleen, pancreas, and gallbladder; it stimulates the metabolism in the vertebra; and it stretches and squeezes the ligaments and muscles along the spinal column. 
 
-*[PDF 195]* ^pg195
+*[p. 182]* ^pg195
 
 \- 182 
 
@@ -427,7 +427,7 @@ Affirmation
 
 *Effect:* Supports effect of the previous exercise. 
 
-*[PDF 196]* ^pg196
+*[p. 183]* ^pg196
 
 l83 
 
@@ -461,7 +461,7 @@ Affirmation
 
 *Effect:* An excellent exercise for all the organs, especially for the stomach, lungs, and intestines. 
 
-*[PDF 197]* ^pg197
+*[p. 184]* ^pg197
 
 184 
 
@@ -483,7 +483,7 @@ Affirmation
 
 *Effect:* This mudra causes the most important energy channels to flow better, and it stimulates the organs of the abdomen and pelvis. 
 
-*[PDF 198]* ^pg198
+*[p. 185]* ^pg198
 
 PASCIMOTTANASANA 
 
@@ -497,7 +497,7 @@ Affirmation
 
 *Effect:* The blood circulation in the pelvis is intensified; repose, relaxation, and a sense of being centered arise. This is the position of self-communion. 
 
-*[PDF 199]* ^pg199
+*[p. 186]* ^pg199
 
 186 
 
@@ -521,7 +521,7 @@ Affirmation
 
 *Effect:* Strengthens and firms the outer and inner muscles in area of anus and entire pelvic floor. Prevents atony (slackness) of outer anal sphincter, from which many older people suffer. 
 
-*[PDF 200]* ^pg200
+*[p. 187]* ^pg200
 
 PASHINI MUDRA *(Noose seal: simplified form)* 
 
@@ -535,7 +535,7 @@ Affirmation
 
 *Effect:* Calms the nerves and regulates the thyroid gland. 
 
-*[PDF 201]* ^pg201
+*[p. 188]* ^pg201
 
 188 
 

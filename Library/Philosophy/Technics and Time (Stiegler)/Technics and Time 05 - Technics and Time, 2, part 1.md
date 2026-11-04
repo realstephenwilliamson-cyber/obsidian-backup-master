@@ -4,7 +4,7 @@ work: "[[Stiegler - Technics and Time (vols 1-3)]]"
 book: "[[Library/Philosophy/Technics and Time (Stiegler)/Technics and Time (Stiegler)|Technics and Time (Stiegler)]]"
 order: 5
 source_pdf: Library/Philosophy/Stiegler - Technics and Time (1998).pdf
-page_range: 11–36
+page_range: "1–36"
 pdf_pages: 11–48
 text_source: PDF text layer (born-digital), PyMuPDF; 8 pages read by OCR (Tesseract) where the text layer has no Unicode
 converted: 2026-10-07
@@ -18,7 +18,7 @@ converted: 2026-10-07
 
 *[PDF 12]* ^pg12
 
-*[p. i]* ^pg13
+*[p. 1]* ^pg13
 
 *In honor of the journey of Hassiba Boulmerka,* *an Algerian woman*
 
@@ -126,7 +126,7 @@ IO
 
 Does this mean, as I have been told *The Fault of Epimetheus* might be seen to suggest, that *speed* should become the substitute for God’s infinity—and that, consequently, technics should become infinite 
 
-*[p. ii]* ^pg23
+*[p. 11]* ^pg23
 
 retentionality (that is, in fact, God’s memory) faced with the finitude of failings?
 

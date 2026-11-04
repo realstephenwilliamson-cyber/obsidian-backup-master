@@ -4,7 +4,7 @@ work: "[[Hiltebeitel - The Ritual of Battle]]"
 book: "[[Library/Hinduism/The Ritual of Battle (Hiltebeitel)/The Ritual of Battle (Hiltebeitel)|The Ritual of Battle (Hiltebeitel)]]"
 order: 1
 source_pdf: Library/Hinduism/Hiltebeitel - The Ritual of Battle (1990).pdf
-page_range: 1–47
+page_range: "5–47"
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

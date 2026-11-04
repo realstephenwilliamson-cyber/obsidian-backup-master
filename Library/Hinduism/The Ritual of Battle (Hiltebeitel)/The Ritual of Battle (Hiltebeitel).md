@@ -17,7 +17,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 
 ## Contents
 
-- [[The Ritual of Battle 01 - Part 1|Part 1]] (pp. 1–47)
+- [[The Ritual of Battle 01 - Part 1|Part 1]] (pp. 5–47)
 - [[The Ritual of Battle 02 - Part 2|Part 2]] (pp. 48–88)
 - [[The Ritual of Battle 03 - Part 3|Part 3]] (pp. 89–128)
 - [[The Ritual of Battle 04 - Part 4|Part 4]] (pp. 129–169)

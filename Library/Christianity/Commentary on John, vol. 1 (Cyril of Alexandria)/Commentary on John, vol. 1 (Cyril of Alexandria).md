@@ -20,7 +20,7 @@ Converted from the PDF on 22 Oct 2026 (a fresh OCR of the page images (Tesseract
 ## Contents
 
 - [[Cyril on John I 01 - Title pages and preface (Dr Pusey)|Title pages and preface (Dr Pusey)]] (pp. 1–20)
-- [[Cyril on John I 02 - Contents|Contents]] (pp. 2–5)
+- [[Cyril on John I 02 - Contents|Contents]] (pp. xvii–lx; 2–5)
 - [[Cyril on John I 03 - Book I, part 1|Book I, part 1]] (pp. 6–47)
 - [[Cyril on John I 04 - Book I, part 2|Book I, part 2]] (pp. 48–89)
 - [[Cyril on John I 05 - Book I, part 3|Book I, part 3]] (pp. 90–129)

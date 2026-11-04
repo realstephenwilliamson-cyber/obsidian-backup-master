@@ -956,9 +956,7 @@ sleeping apartment.
 
 *[p. 116]* ^pg112
 
-183,
-
-21\. And making a rāja yantra <sup>183</sup>whose dimensions are a hand's breadth at the top and a hand's breadth at the lower end, the sādhaka should do pūjā to it at night.
+21\. And making a rāja yantra[^183] whose dimensions are a hand's breadth at the top and a hand's breadth at the lower end, the sādhaka should do pūjā to it at night.
 
 22\. Night is the time for wandering about and the time for the kula pūjā, 0h Deva:
 
@@ -974,8 +972,7 @@ Then, in order to get some information (on what is available) for attendance on 
 
 the situation (in general).[^184]
 
-S.K. Ramachandra Rao, Tantra Mantra Yantra, p.27.
-
+[^183]: S.K. Ramachandra Rao, Tantra Mantra Yantra, p.27.
 [^184]: "Dravya" here seems to refer to the substances listed in II: 21- 22 N the expression also reeurs in Verse 30 of this chapter. The sādhaka is concerned to know that the household is sympathetie to the kula ritual and that all the necessaries are available. Presumably the neighbouring women would know whether or not the particular lady ts having her period or not.
 
 *[p. 117]* ^pg113
@@ -1000,11 +997,11 @@ Also, as a sly means of discovering the extent of the (sakti's) compassion. for 
 
 The (sakti) and (her) household should be thoroughly known to sādhakas (and then) by some stratagem, the "crest jewel of the
 
-kulas"185 is willingly (produced).[^183]
+kulas"[^185] is willingly (produced).
 
-Gathering it into a golden or copper dish called the kula vessel (and) mixing (it) together with the (other things),[^184-p117]' when he has drawn either his own yantra, the Kula yantra, the Śrī yantra or the Gandharva yantra, the name of the one to be initiated and his own name are inscribed in the middle of it.
+Gathering it into a golden or copper dish called the kula vessel (and) mixing (it) together with the (other things),[^186] when he has drawn either his own yantra, the Kula yantra, the Śrī yantra or the Gandharva yantra, the name of the one to be initiated and his own name are inscribed in the middle of it.
 
-On the side of the (yantra), the bija of Kāmakalā!87 is enclosed in his own mantra and the most excellent sādhaka should do pūjā (to the yantra) by carefully following the kula method.
+On the side of the (yantra), the bija of Kāmakalā[^187] is enclosed in his own mantra and the most excellent sādhaka should do pūjā (to the yantra) by carefully following the kula method.
 
 (Outwardly) devoted to Viṣṇu and lacking in the tell-tale signs of kula pūjā, (the sādhaka) goes about eating, bowing and stumbling around like someone besotted with Viṣṇu.
 
@@ -1012,13 +1009,12 @@ With names and fine words such as: "Victory to Viṣṇu, to Hara and to Brahmã
 
 "I am to be considered familiar with kula matters (only) in the forest or by a body of water."
 
-In the way that has already been described, he should perform the kula pūjā.[^186] At night in an empty house, or in a garden or temple,
+In the way that has already been described, he should perform the kula pūjā.[^188] At night in an empty house, or in a garden or temple,
 
-185\. I.e., HRIM.
-
-[^183]: "Kulacūdāmani" has the esoterie meaning of menstrual blood freely given for the purposes of sāãdhana. See footnote 71.
-[^184-p117]: See Chapter II Verses 21-22.
-[^186]: The Sanskrit text reads "kgobha" (as does Verse 35) here translated as "pūjā" meaning the ritual involving sezual intercourse for which kgobha appears to be a synonym.
+[^185]: "Kulacūdāmani" has the esoterie meaning of menstrual blood freely given for the purposes of sāãdhana. See footnote 71.
+[^186]: See Chapter II Verses 21-22.
+[^187]: I.e., HRIM.
+[^188]: The Sanskrit text reads "kgobha" (as does Verse 35) here translated as "pūjā" meaning the ritual involving sezual intercourse for which kgobha appears to be a synonym.
 
 *[p. 118]* ^pg114
 

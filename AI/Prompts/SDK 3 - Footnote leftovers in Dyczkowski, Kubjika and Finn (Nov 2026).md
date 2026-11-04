@@ -10,6 +10,7 @@ For Claude running through the Agent SDK on the laptop (`vault_agent.py`), start
 
 - **3 Nov 2026:** written; not started. A session that works on this task updates these lines at its close. The top entries of [[AI log]] are the authority on what has been done since.
 - **3 Nov 2026, 15:46–15:53 (Agent SDK):** cut off in part 1 when the API credit ran out; nothing written to the vault. **16:37–17:30 (cloud chat): parts 1, 3 and 4 done** (pf664–pf670): 847 placeholders, 809 stripped and 38 filled as printed; seven ranges; 30 Kubjikā marks. **Parked:** part 2 (8 footnotes) and part 5 (Finn). Details: `.work/edits/fnleft-2026-11/README.txt` and the AI log, 3 Nov (16:37).
+- **3 Nov 2026, evening (cloud chat):** part 2, footnotes 308 and 598 done (pf695–pf697); the other six are left (167 and 165 run over several pages mixed with the body text; v10 03's 3 has no call; three calls on dropped lines). Part 5, the 13 `<sup>` remnants and the footnotes of their pages done (pf701–pf703); a full survey of Finn's other pages not made. See the [[AI log]].
 - Done before this prompt (3 Nov, pf613): v04 10 n. 173's gap filled with the print's "sādhya-"; Finn 03 and 04's stray colons after calls removed (pf605).
 
 ## Before you start

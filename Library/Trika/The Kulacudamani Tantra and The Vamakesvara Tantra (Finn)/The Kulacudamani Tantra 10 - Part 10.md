@@ -176,7 +176,7 @@ And it is said that:
 
 *[p. 372]* ^pg368
 
-One should extract one goad joined to the part before Indra.[^222] The second is the one at the beginning of 'k'; the one at the end of the yoni; the one at the end of 'ṇm’' (and) the one between '1' and 'y'.
+One should extract one goad joined to the part before Indra.[^221] The second is the one at the beginning of 'k'; the one at the end of the yoni; the one at the end of 'ṇm’' (and) the one between '1' and 'y'.
 
 The one at the end of 'ṇp' and the one at the beginning of 'p' together with the one at the beginning of 'k' are the extracted pair of bows.
 
@@ -184,16 +184,11 @@ The one below 'ṣ'; the one below 'r'; the one between 'l' and 'y'; the one bel
 
 "The pair of letters that precede the letter 'ū'" are "I" and "ā"; "the one at the beginning of 'k'" is "p". Thus, ĪM and ĀM. "The one at the beginning of 'k' is 'm'; "the one at, the end of the yoni" (i.e. of the letter "e") is "o"; "the one at the end of 'm'” is "k"; "the one between '1' and 'y'" is "r". Thus, KROM. "The one at the end of 'n'" (with respect to its position in the adjacent downward triangle) is "th"; "the one at the beginning of 'p'" is "dh"; "the one at the beginning of 'k'" is "p". Thus, THAM and DHAM. "The one below 'ṣ'" is "h"; "the one below 'r'" is "y"; “the one between '1' and 'y'" is "r"; "the one beneath 'v'" is "1"; "the one at the end of 'I'" is "v"; the "bīja between 'au' and 'h'" is "p". Thus, HAM YAM RAM LAM and
 
-BAM. <sup>222</sup>
+BAM.[^222]
 
 End of commentary on Verse 64.
 
-221\. "Jambha" is an epithet for Indra whieh stands for the letter
-
-"1"? However, the commentary that follows does not make elear
-
-what this first goad is.... Probably KROM.
-
+[^221]: "Jambha" is an epithet for Indra whieh stands for the letter "1"? However, the commentary that follows does not make elear what this first goad is.... Probably KROM.
 [^222]: The letter chart in footnote 320 of Chapter I is useful for extracting these mantras bearing in mind that expressions such as "below", at the end of" ete. are somewhat loosely interpreted. With respect to the five "arrows" and the additional unidentifted "female" goad (see footnote 221), the "mādanas" which are hereby produced appear to be a parttally different set of weapons" from the version just previously given. It seems that one set is applied when dominance is desired over females, and the other set applies when dominance ts desired over males. They are to be worshipped in conjunction with the eighth cakra as suggested in Jayaratha’'s introduction to Verse 60. The following diagrams may represent the dispositions of the mantras.
 
 *[p. 373]* ^pg369
@@ -905,7 +900,7 @@ The meaning is revealed in the form of a conversation between Śiva as guru and 
 
 *[p. 394]* ^pg390
 
-It bestows perfection of the body[^72] and is found contained in the vidyās and pTthas. <sup>13</sup>
+It bestows perfection of the body[^72] and is found contained in the vidyās and pTthas.[^73]
 
 And yet, as a general rule, there is everywhere an absence of that kind
 
@@ -917,8 +912,7 @@ The traditional one is found in the Dvika śāstras.[^75] It is present in the m
 
 Oh Goddess! The explicit interpretation and the traditional interpretation, along with the esoteric interpretation are the threefold exposition found in the Trika sāstras.[^76] The explicit, the traditional, the esoteric, the kaulika and the all-secret interpretations belong to the five Tantra modes.[^77] The explicit, the traditional, the esoteric, the kaulika interpretations and the great principle interpretation - the six of them,
 
-73\. Although the vidyās and the pīthas are concrete manifestations, thetr underlying power stems from this highest form of realisation.
-
+[^73]: Although the vidyās and the pīthas are concrete manifestations, thetr underlying power stems from this highest form of realisation.
 [^72]: "Pindasiddhidah"; it grants a form of physical immortality.
 [^74]: "Bāhya”" here is likely to mean the external or "face value” of the texts without attempting an esoterie interpretation.
 [^75]: "Dvoika" in the sense that they give only two interpretations - 'bhāvārtha" and " 'sampradāyārtha".
@@ -1005,7 +999,7 @@ ZL LL OL 6 8 L 9 S t £ Z L
 
 £ £ L ट v {१९/९०९५॥
 
-प्रफछ़रसं प्वाव्ड "छ (्रप्प्प्सत् र पक्रएत् əy} "5 (षा <sup>९3</sup>(पवर क्र उप ५१4९२ {१५1 प्पठ्रतूतञज्प वप्त əy} ५०५4 0242९.443 ‹त \[पज्ठ 557०8 0} 5०४०4३५२ \[२२१५०९80 <sup>40</sup>२।१९। ५०।३१११.१५१0
+प्रफछ़रसं प्वाव्ड "छ (्रप्प्प्सत् र पक्रएत् əy} "5 (षा ९3(पवर क्र उप ५१4९२ {१५1 प्पठ्रतूतञज्प वप्त əy} ५०५4 0242९.443 ‹त \[पज्ठ 557०8 0} 5०४०4३५२ \[२२१५०९80 40२।१९। ५०।३१११.१५१0
 
 *[p. 400]* ^pg395
 
@@ -1369,7 +1363,11 @@ Narendra Nath Bhattacharyya, History of the Sākta Religion (N. Delhi:
 
 M. Manoharlal, 1974}.
 
-Narendra Nath Bhattacharyya, The Indian Mother Goddess (N. Delhi: Manohar, 1977). <sup>7</sup> M. Biardeau, Autour de la Deesse Hindou, Puruṣāãrtha 5 (Paris?: Editions de l'Ecole des Hautes Etudes en Sciences Sociales, 1982). D.N. Bose and Hiralal Haldar, Tantras: Their Philosophy and Occult Secrets (Calcutta: Oriental Publ. Co., 1956).
+Narendra Nath Bhattacharyya, The Indian Mother Goddess (N. Delhi: Manohar, 1977).
+
+M. Biardeau, Autour de la Deesse Hindou, Puruṣāãrtha 5 (Paris?: Editions de l'Ecole des Hautes Etudes en Sciences Sociales, 1982).
+
+D.N. Bose and Hiralal Haldar, Tantras: Their Philosophy and Occult Secrets (Calcutta: Oriental Publ. Co., 1956).
 
 Chintaharan Chakravarti, Tantras - Studies on their Religion and Literature (Calcutta: Punthi Pustak, 1972).
 

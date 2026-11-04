@@ -650,16 +650,11 @@ Here, indeed, by "through desire” is meant through the desire to realize the e
 
 *[p. 345]* ^pg341
 
-And by the word "sprout" desire is being indicated as established in the stipulated crow's beak cavity that contains the Sparsa linga. <sup>12</sup>
+And by the word "sprout" desire is being indicated as established in the stipulated crow's beak cavity that contains the Sparsa linga.[^120]
 
 "is the desire tṁat is bereft of a head...."[^121]
 
-120\.
-
-121\.
-
-120\. A reference to the Svayambhū tiñga; the liñga most sensitive to "touch" (sparsa)?
-
+[^120]: A reference to the Svayambhū tiñga; the liñga most sensitive to "touch" (sparsa)?
 [^121]: Inside the Mūladhāra lotus ts a triangle, or yoni of hollow form ("erow's beak cavity") in which ts placed the Svayambhū linga. "She, ..dwells in the triangular hollow in the pericarp of the Mūlādhāra lotus resting upon the Svayambhū tinga." (Kālicaraṇa's conmentary on the Ṣaṣeakranirūpana Vss. 10 & 11.) The Svayambhù is referred to as the "sprout" because of "his head downwards” and "shape and colour of a new leaf". (Qaṭṣeakranirüpana Vs. 9.) "By this is conveyed the idea that the Svayambhü Linga is tapering like a new un-opened leaf bud." (Commentary to Vs.9.) The "Kama that is bereft of a head" could well be the Sāradā letter "k" æ which without its màtrà or head-line, looks tike the male genitals. The crow's beak cavity may be of downward pointing triangular shape, with the result that "the Liùgam is in the yoni". The letter "k" is the most important part of the Kāma bija KLĪM and it is unobtrusively present in the pericarp of the Mūlādhāra. (Note that "1") is present as the bitja of the earth tattva.) Apart from being symbolice of the he linga in the yoni, "k" is permeated by the Kāma vāyu. The "desire" that ts "abiding in the middle of desire" is therefore Kuṇdalini. She is coiled three and a half times around the Svayambhū liñùga and in the Mūülādhāra cakra she represents the supreme Kamakalā triangle which itself symbolises the trinity of creative forces. Iechā - desire or the will to create - is the first stirring of the Absolute and is represented as a supreme sakti. It is almost certain that this section contains more hidden meanings still to be explained.
 
 *[p. 346]* ^pg342
@@ -729,7 +724,7 @@ Note that much of the meaning ts derived from the meanings and varied assoctatio
 
 *[p. 350]* ^pg346
 
-Moreover, this matter (whose inner meaning) is resolved, has often been interpreted by others who "explain words with words"13% ina circuitous way comprising forced supposition(s). In this matter and elsewhere, the inward knowledge belongs to persons of right mind and they are (our) authority. By former teachers also it has been said that:
+Moreover, this matter (whose inner meaning) is resolved, has often been interpreted by others who "explain words with words"[^134] in a circuitous way comprising forced supposition(s). In this matter and elsewhere, the inward knowledge belongs to persons of right mind and they are (our) authority. By former teachers also it has been said that:
 
 "Commentarie(s) have been done by countless (people) from SrīDĪpikanātha's (time) even to the present.
 
@@ -737,27 +732,19 @@ And what the other excellent gurus will make of it (depends) on each one's habit
 
 Oh Goddess! Anyone taking refuge in the dust of your lotus feet who knows the meaning of the one and a half verses that begin with "abiding in desire" is fortunate."
 
-There is no harm in the (alternative) explanation according to the yantra method. <sup>135</sup>
+There is no harm in the (alternative) explanation according to the yantra method.[^135]
 
-Since any sādhya whatever is in the Kāma(mantra):136
+Since any sādhya whatever is in the Kāma(mantra):[^136]
 
-"This that arises from the joining together of the ones before "kṣ", "1", "u" and "h" is called desire. "137
+"This that arises from the joining together of the ones before "kṣ", "1", "u" and "h" is called desire."[^137]
 
 On the (above) mentioned HRĪM syllable taking the form of the seat:[^138]
 
-The quotation literally reads: "He has explained words with words".
-
-The following commentary describes the drawing of a yantra with its five composite blja mantras based on the Kāmamantra of Verses 45 and 46.
-
-This Line seems to mean that according to the yantra method,
-
-the sādhya can be any female...
-
-The letter before "kẹ" is "h"; the letter before "1" is "r";
-
-134\. , 185.
-
-[^138]: 6. 1837. the letter before "u" is "Z", hence HRĪṆ. I.e., the syllable HRĪM is to be placed in the centre, or seat of the yantra, and it serves as a seat for the sãdhya's name.
+[^134]: The quotation literally reads: "He has explained words with words".
+[^135]: The following commentary describes the drawing of a yantra with its five composite blja mantras based on the Kāmamantra of Verses 45 and 46.
+[^136]: This Line seems to mean that according to the yantra method, the sādhya can be any female...
+[^137]: The letter before "kẹ" is "h"; the letter before "1" is "r"; the letter before "u" is "Z", hence HRĪṆ.
+[^138]: I.e., the syllable HRĪM is to be placed in the centre, or seat of the yantra, and it serves as a seat for the sãdhya's name.
 
 *[p. 351]* ^pg347
 
@@ -771,28 +758,28 @@ According to the verse, by the mere placing of her name upon it,
 
 (The sādhya's name) is written between the "k" and "1" letters, i.e., positioned in the middle of the KLĪM syllable which is the second desire designated by the epithet of Manmatha.
 
-"For Kandarpa also arises from the joining together with 'a' of that which preceds 'm' by the number of bhūtas and that which follows 'ç'."1#3
+"For Kandarpa also arises from the joining together with 'a' of that which preceds 'm' by the number of bhūtas and that which follows 'ç'."[^143]
 
-And when {(they)1\#\* are enfolded, i.e. covered in a cavity or womb by the third desire designated by the epithet of Kandarpa of the essence of the two "e"s that abides in the six angle form, (then) in the six
-
-143\. There are five bhūtas. Joining together the one that precedes anusvāra in the fifth place (i.e. "e") with "a" making "ai"; and the one that follows "p" in the fifth place (i.e., "e") with "a" making another "ai". 144\. I.e., the mantras HRIY and KLIM are enfolded.
+And when (they)[^144] are enfolded, i.e. covered in a cavity or womb by the third desire designated by the epithet of Kandarpa of the essence of the two "e"s that abides in the six angle form, (then) in the six
 
 [^139]: The Sanskrit "anu" can come to mean "name" in the sense that it ts a very shortened form of the person. It may also mean that the sādhya's name serves as the bindu for the mantra HRIM.
 [^140]: The first desire in the verse ts "abiding on desire". It "heads" the verse hence the use of the word siras. This desire is HRĪY and one should place the sādhya's name upon tit.
 [^141]: "Kūmas tham".
 [^142]: Third position (down) from anusvāra is "k"; from "y" ts "1" and from "ā" is "Ù".
+[^143]: There are five bhūtas. Joining together the one that precedes anusvāra in the fifth place (i.e. "e") with "a" making "ai"; and the one that follows "p" in the fifth place (i.e., "e") with "a" making another "ai".
+[^144]: I.e., the mantras HRIY and KLIM are enfolded.
 
 *[p. 352]* ^pg348
 
-desire angles made out of the aforementioned desire called Kandarpa: 145
+desire angles made out of the aforementioned desire called Kandarpa:[^145]
 
-"There is Makaradhvaja who is the pair of letters arising from the qualities of taste before 'kṣ' and 'h[^145]’
+"There is Makaradhvaja who is the pair of letters arising from the qualities of taste before 'kṣ' and 'h’[^146]
 
 One should write the syllable VLAM which is the fourth desire presented as Makaradhvaja. There are these four desires.
 
-“Manobhava arises from those that precede 'h',[^146] tth', '1' and tu’, <sup>147</sup>
+“Manobhava arises from those that precede 'h', tth', '1' and tu’,[^147]
 
-One should conclude with STRĪM which is the fifth desire called Manobhava It means that one should perfect what has been cast into the womb.1+\#s
+One should conclude with STRĪM which is the fifth desire called Manobhava It means that one should perfect what has been cast into the womb.[^148]
 
 Thus, this yantra which has been produced is in association with the
 
@@ -800,10 +787,8 @@ HRĪM syllable since:
 
 "As far as the supporting ground of the cakra is concerned, one should dispose desire."[^149]
 
-147\. The letter preceding "h" in the alphabet is "s"; the letter before "th" is "t"; the letter before "1" is "r" and before "u" is "I". Hence STRĪṆ.
-
-148\. I.e., one completes or rounds off the mantras HRIM, KLIM md VLAM that have been cast into the "womb" or cavities, wtth fifth mantra STRĪM placed in the interstices of the angles. The fourth mantra AIM is the two interlocking triangles.
-
+[^147]: The letter preceding "h" in the alphabet is "s"; the letter before "th" is "t"; the letter before "1" is "r" and before "u" is "I". Hence STRĪṆ.
+[^148]: I.e., one completes or rounds off the mantras HRIM, KLIM md VLAM that have been cast into the "womb" or cavities, wtth fifth mantra STRĪM placed in the interstices of the angles. The fourth mantra AIM is the two interlocking triangles.
 [^145]: The third desire is AIM called Kandarpa and deemed to have the essence of two letter "e" or two tnterloeking triangles. Although not obvious, the meaning ts plausible for the following reason. In Devanāgarl and in Sāradāī the letter "e" has the semblance of a triangle -X\` or T. This short form of the vowel therefore gives one downward pointing triangle. AIM, however, ts written as Ù or{Ẹy and above the mātrā or head line there ts another more subtle/spiritual triangle pointing upwards L. that terminates in bindu and which gives the second triangle or second essence of the letter "e". Thus the mantra AIM cryptically stands for two interlocking triangles producing a six-pointed figure in which the previous mantras are enclosed.
 [^146]: There are stx qualities of taste (sweet, SOur, salt, pungent bitter and astringent), therefore in the sixth positions before "kg” and "h" are "v" and "1" (ignoring "Į and "ḷh"). Hence VLAM.
 [^149]: The first desire HRIM tis again to be attractively disposed o" the ground of the yantra.

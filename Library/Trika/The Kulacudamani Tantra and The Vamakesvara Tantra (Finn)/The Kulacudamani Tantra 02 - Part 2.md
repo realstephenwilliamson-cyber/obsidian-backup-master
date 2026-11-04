@@ -365,33 +365,29 @@ In the translation of the NSA where they mostly occur, these terms have usually 
 
 Attention is also drawn to the fact that in
 
-samāvesa Kashmir Saivism liberation is achieved not through samādhi but through samāvesa.38 Kashmir yogins believe that samādhi relates to
+samāvesa Kashmir Saivism liberation is achieved not through samādhi but through samāvesa.[^38-p65] Kashmir yogins believe that samādhi relates to
 
-a superior type of dreamless state called suṣupti while samāãvesa is either the fourth state of spontaneous revelation called Turyā or the still higher transcendental state named Turyãttita. <sup>39</sup>
+a superior type of dreamless state called suṣupti while samāãvesa is either the fourth state of spontaneous revelation called Turyā or the still higher transcendental state named Turyãttita.[^39-p65]
 
-Samāvesa means "merging" or "entering into" the Divine and the commentary to the NSA occasionally uses the expression "I merge myself" with this specific connotation. (See commentary to Chapter I Verse 1.) There are various means or upãyas to the final attainment.+\*+°
+Samāvesa means "merging" or "entering into" the Divine and the commentary to the NSA occasionally uses the expression "I merge myself" with this specific connotation. (See commentary to Chapter I Verse 1.) There are various means or upãyas to the final attainment.[^40-p65]
 
 The first and least advanced means of achieving sanãvesa is ãṇavopãya which corresponds to kriyā yoga and depends upon external aids and rituals.
 
 Sāktopāya is the second more elevated means and corresponds to jaāna yoga. It
 
-is concerned with those psychological practices that transform the inner forces and bring about in the individual samãvesa or inner immersion of the individual consciousness in the divine. In this mostly mantra sakti comes into play....\*1
+is concerned with those psychological practices that transform the inner forces and bring about in the individual samãvesa or inner immersion of the individual consciousness in the divine. In this mostly mantra sakti comes into play....[^41-p65]
 
 Still more advanced than sāktopãya is sāmbhavopāya involving teehā yoga or the exercise of the will through mental concentration in order to realize one's true identity with the Supreme Being.
 
-"To realize the meaning of 'aham'...is the main thing to be done by the pursuer of the Śāmbhavopāya."\*?
+"To realize the meaning of 'aham'...is the main thing to be done by the pursuer of the Śāmbhavopāya."[^42-p65]
 
 Yet of all the mergings into the Supreme Being, that which is no means at all is best. Since no method is involved it is called
 
-38\. Commentary to VT V:27-33.
-
-39\. Pandit, Kashmir Satvtsm, pp. 211-12.
-
-40\. Commentary to VT V:27-33.
-
-t Kgemarãja, Pratyabhijnāhṛdayam, p. 29.
-
-Pandey, Abhinavagupta, p. 91.
+[^38-p65]: Commentary to VT V:27-33.
+[^39-p65]: Pandit, Kashmir Satvtsm, pp. 211-12.
+[^40-p65]: Commentary to VT V:27-33.
+[^41-p65]: Kgemarãja, Pratyabhijnāhṛdayam, p. 29.
+[^42-p65]: Pandey, Abhinavagupta, p. 91.
 
 *[p. 66]* ^pg62
 

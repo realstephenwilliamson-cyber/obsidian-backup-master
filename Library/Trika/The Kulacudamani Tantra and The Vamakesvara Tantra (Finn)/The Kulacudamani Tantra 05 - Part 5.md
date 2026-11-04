@@ -556,7 +556,7 @@ meaning.
 
 \` End of commentary on Verse 10.
 
-(The Lord) now alludes to the method of pūjā <sup>156</sup>by saying:
+(The Lord) now alludes to the method of pūjā[^156] by saying:
 
 -11. I WORSHIP HER IN WHOM THERE IS THE PRESENCE OF THE
 
@@ -574,8 +574,7 @@ said):
 
 In accord with a view that is to be discussed later, the meaning is that: there is the presence of the eight mothers VaSinī et al as a result of (Her) being the origin of the various siddhis (Animā etc.) and by referring to the class arrangement of letters. Although not actually distinct from Her, it is as if they were distinct, and have
 
-156\. The basis for pūjā is the rīcakra with its nine component individual cakras.
-
+[^156]: The basis for pūjā is the rīcakra with its nine component individual cakras.
 [^157]: From the Tantrie viewpoint, the alphabet shares in the divine nature therefore the eight classes of letters are personifted as the deities Vasin? eteetera.
 
 *[p. 188]* ^pg184
@@ -866,7 +865,7 @@ T7 NZ
 
 (The commentator who) himself has said that: "Intersecting with a akti the triangle which faces in the same direction (and) enclosing these two śaktts with a fire which is in essence an upward facing triangle" has explained words with words. How laughable they are! But since, thanks to their presumption, there is no end to such prnouncements, let us drop the subject.
 
-So the meaning (of the first half of Verse 30) is that one should begin the first of the ten-spoked cakras and make the third Sakti by duly expanding sideways the śakti which is the support of the eastern and uppermost point of the whole cakra, (and these lines) should extend, downwards touching (in the process) the two lower angles of the eight-spoked cakra. <sup>188</sup>
+So the meaning (of the first half of Verse 30) is that one should begin the first of the ten-spoked cakras and make the third Sakti by duly expanding sideways the śakti which is the support of the eastern and uppermost point of the whole cakra, (and these lines) should extend, downwards touching (in the process) the two lower angles of the eight-spoked cakra.[^188]
 
 30\. AND WITH THE FIRE[^189] ONE SHOULD INTERSECT IT UPWARDLY.
 
@@ -874,8 +873,7 @@ By duly expanding the two sides of the fire - which is upward facing by nature -
 
 End of commentary on Verse 30.
 
-188\. The third sakti: X >77 1 \` 7
-
+[^188]: The third sakti: *(a drawing in the print)*
 [^189]: "Vahnicakra" and "vahnipura" are specifie synonyms for  "fire" — the upward pointing triangle.
 [^190]: The second fire:
 
@@ -883,7 +881,7 @@ End of commentary on Verse 30.
 
 31\. THEN ONE SHOULD DULY EXTEND THE UPPERMOST ŚAKTI UPWARDS.
 
-Thereafter, he should extend upwards the initial śaktź that was drawn via the intersections where the third śakti and the second fire meet at the top, and by evenly resting it on the apex of the previous first fire in the regular manner. In this way, one gets both the fifth and seventh angles of this ten-spoked cakra. <sup>191</sup>
+Thereafter, he should extend upwards the initial śaktź that was drawn via the intersections where the third śakti and the second fire meet at the top, and by evenly resting it on the apex of the previous first fire in the regular manner. In this way, one gets both the fifth and seventh angles of this ten-spoked cakra.[^191]
 
 31 & 32. OH BEAUTIFUL ONE: AGAIN ONE SHOULD INTERSECT THE FIRST
 
@@ -891,13 +889,11 @@ Thereafter, he should extend upwards the initial śaktź that was drawn via the 
 
 THE INTERSECTING POINTS.
 
-From the intersections of the second fire and the third śakti where they join below, one should carefully and evenly intersect (i.e., connect through) the first śakti along the apex of the second śaktí, by duly extending downwards the fire called "Vahnipura" which is the foundation of the eight-spoked cakra (and whose sides have also been expanded in order to make the second fire). In reality it is the third śakti (which one intersects} although it is the primary śakti (involved) in this cakra. The result is the ten-spoked cakra. 193
+From the intersections of the second fire and the third śakti where they join below, one should carefully and evenly intersect (i.e., connect through) the first śakti along the apex of the second śaktí, by duly extending downwards the fire called "Vahnipura" which is the foundation of the eight-spoked cakra (and whose sides have also been expanded in order to make the second fire). In reality it is the third śakti (which one intersects} although it is the primary śakti (involved) in this cakra. The result is the ten-spoked cakra.[^193]
 
-191\. Se "7
-
+[^191]: *(a drawing in the print)*
 [^192]: The very first sakti was the first one drawn, but the sakti  primarily involved in the production of the ten-spoked eakra (hence "ādyām") is actually the third śakti.
-
-193.
+[^193]: *(a drawing in the print)*
 
 *[p. 199]* ^pg195
 

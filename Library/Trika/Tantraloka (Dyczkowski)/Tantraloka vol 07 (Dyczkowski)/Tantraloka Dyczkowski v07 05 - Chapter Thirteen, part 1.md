@@ -1012,7 +1012,7 @@ Surely, (one may ask, alright,) agreed that that is so, (but) what serves to lin
 ### TĀ 13.48 (2)
 
 न चैतेनात्मनां योगो हेतुमांस्तदसंभवात् ।॥ ४८ ॥
-na caitenātmanāṁ yogo hetumāṁs tad \[illegible\] || 48 || 
+na caitenātmanāṁ yogo hetumāṁs tad asaṁbhavāt || 48 || 
 
 [^328]: pumāvaraṇalakṣaṇāyām arthakriyāyām asya kartṛtvād literaly means ‘because it possesses agency in the causal efficacy, the characteristic of which is the shrouding of the soul.”
 

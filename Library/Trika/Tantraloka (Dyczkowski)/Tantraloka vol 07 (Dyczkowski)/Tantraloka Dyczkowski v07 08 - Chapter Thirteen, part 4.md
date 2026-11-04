@@ -453,7 +453,7 @@ Sources of Knowledge that Remove Doubt are Direct Experience, the Teacher and Sc
 शङ्का विकल्पमूला हि शाम्येत्स्वप्रत्ययादिति ॥ १९८ ॥
 
 śrīmanniśāṭane cātmaguruśāstravaśāt tridhā |
-\[illegible\] mukhyari svopalabdhi vikalpārnavatāraṇnam || 197 ॥
+jñānaṁ mukhyari svopalabdhi vikalpārnavatāraṇnam || 197 ॥
 mantrātmabhūtadravyāṁiśadivyatattvādigocarā |
 saṅkā vikalpamūlā hi śāmyet svapratyayād iti \\\\ 198 ॥ 
 

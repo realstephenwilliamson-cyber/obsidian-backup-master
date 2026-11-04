@@ -1047,7 +1047,7 @@ Just as externally, every five transits (of the sun through a sign of the zodiac
 
 [^415]: TĀ 6/201-206 Quoted in SvTu ad 7/168cd-169.
 
-[^416]: Cf, SvT 7/160 and commentary: udaksaṁkrāntayaḥ pañca pañca vai dakṣināyane | dakṣinottarayormadhye saṁkrāntyā viṣuvaddvayam ॥ 7/160 ॥ ahani dvādaśa proktā (1/168a) iti vakṣyamāṇasthityā bāhye ‘hni dvādaśa vāmadakṣamadhya-saikrāntayo navaśataprāṇāpānavāhātmāno bhavanti ॥ 160 ॥ \^ \[illegible\] are five transits in the Northern (Path) and five in the Southern. By the transit in the middle of the Southern and Northern Path, there are two equinoxes’ SvT 7/160 ‘It is said that there are twelve during the day.’ (7/168a) Thus according to the view taught (further ahead), during the external day there are twelve transits (altogether) in the Northern, Southern (Paths) and in the middle (between them), that are (each) a flow of nine hundred exhalations and inhalations.”
+[^416]: Cf, SvT 7/160 and commentary: udaksaṁkrāntayaḥ pañca pañca vai dakṣināyane | dakṣinottarayormadhye saṁkrāntyā viṣuvaddvayam ॥ 7/160 ॥ ahani dvādaśa proktā (1/168a) iti vakṣyamāṇasthityā bāhye ‘hni dvādaśa vāmadakṣamadhya-saikrāntayo navaśataprāṇāpānavāhātmāno bhavanti ॥ 160 ॥ \^ ‘‘There are five transits in the Northern (Path) and five in the Southern. By the transit in the middle of the Southern and Northern Path, there are two equinoxes’ SvT 7/160 ‘It is said that there are twelve during the day.’ (7/168a) Thus according to the view taught (further ahead), during the external day there are twelve transits (altogether) in the Northern, Southern (Paths) and in the middle (between them), that are (each) a flow of nine hundred exhalations and inhalations.”
 
 
 *[p. 413]* ^pg428

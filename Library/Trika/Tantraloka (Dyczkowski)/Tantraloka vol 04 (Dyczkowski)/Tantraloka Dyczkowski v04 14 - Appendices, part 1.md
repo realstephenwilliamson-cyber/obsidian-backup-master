@@ -47,7 +47,7 @@ Jyotiṣa is a science of time calculation (kālavidyā). It uses the movements 
 
 Manifestation through Prāṇa, the Vital Breath 
 
-The vital breath - \[illegible\] — is not just some wind that moves through the body. It is the primal vibration (spanda) within a living being. It is the 
+The vital breath - prāṇa — is not just some wind that moves through the body. It is the primal vibration (spanda) within a living being. It is the 
 
 [^515]: Compare this to the previously referenced cosmology of Śatapathabrāhmana (10/5/3- 4) of the creation through speech/consciousness (vāc) to breath (prāṇa) and then to the sensory realm (indriya) and onwards.
 

@@ -885,7 +885,7 @@ Perceptibility, Manifest and Unmanifest
 घट एव स्वरूपेण भात इत्युपदिश्यते ।
 
 jānāmi ghaṭam ity atra vedyatānuparāgavān ॥ 93 ||
-ghata eva svarūpeṇa bhāta ity \[illegible\][^125] | 
+ghata eva svarūpeṇa bhāta ity upadiśyate[^125] | 
 
 (When one says) “I know the jar”, what one is saying is that the jar manifests 
 

@@ -117,7 +117,7 @@ svayari bhukti\$ ca muktiś ca svayańi devī svayaṁ prabhuḥ || 124 ॥
 
 [^397]: Read -nyāyenanābhinindānari for -nyāyenanābhidhānam.
 
-[^398]: Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś caryāṁ] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
+[^398]: Tantravatādhanika 3/35cd-37ab Variants in the printed text of the Tantravatadhānika kaścit tv Tśecchayā \[kaścid īśecchayā\] samyaga nāśvastena \[-nāśvasto ‘pi\] cetasā || nindann eva bhajec caryāṁ \[bhajaṁnś caryāṁ\] sa tirohita ucyate | nindyamānamahāmantravidyācaryādikopajam \[nindyamāne-\] || pāpma taṁ \[pāpmaiṣāṁ\] pātayed ghore yātanādhāmni sarvathā |
 
 [^399]: Above, 13/102d.
 

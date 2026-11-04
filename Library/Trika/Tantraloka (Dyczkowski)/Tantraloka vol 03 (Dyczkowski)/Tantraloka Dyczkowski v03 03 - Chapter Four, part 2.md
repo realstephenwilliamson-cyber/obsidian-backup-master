@@ -846,7 +846,7 @@ virtue of the glorious power of the endless number of means, including contempla
 
 ‘consecration’.[^182] The meaning is that he has the authority (to transmit) the knowledge of the scriptures etc. (even without having been initiated by a teacher). 
 
-[^182]: The word translated here as ‘consecration’ is abhiṣeka, which literally means ‘sprinkling’. It denotes the rite by which a teacher initiates his disciple into the status of a teacher by sprinkling him with consecrated water or other liquid. The texts thus distinguish ‘initiation’ — \[illegible\] — into the status of a disciple, from ‘consecration’ —abhiṣeka — into that of a teacher.
+[^182]: The word translated here as ‘consecration’ is abhiṣeka, which literally means ‘sprinkling’. It denotes the rite by which a teacher initiates his disciple into the status of a teacher by sprinkling him with consecrated water or other liquid. The texts thus distinguish ‘initiation’ — dīkṣā — into the status of a disciple, from ‘consecration’ —abhiṣeka — into that of a teacher.
 
 
 *[p. 71]* ^pg84

@@ -366,7 +366,7 @@ Siva.’[^384] (136cd-137ab) (135cd-136ab)
 
 In accord with the etymology (of His name), ‘Bhairava’ sustains, that is, supports, nourishes and deploys everything, whether internal or external, and (so) is the agent of emanation, persistence and withdrawal. He ‘pervades all things’ and is full, because, embracing the entire universe (within Himself), He is filled. In the same way, by encompassing the pervasion of the Self and by 
 
-[^383]: The names of objects cannot be known just by perceiving them. They are known by knowing the name attributed to them by a commonly agreed linguistic convention. When we see a round flat-bottomed hollow vessel, we know what it is by attributing its name to it. Clearly, this varies according to the language we speak. In English we would call it a jar, in Sanskrit ghaṭaḥ. But although the names of objects cannot be known by seeing them, by knowing their names we can conjure them up in our imagination. Mantras are not like common words. They exist in themselves within inner consciousness as do words, but they do not refer to outer objects. Rather they are divine sonic forms of awareness, various as are the beings, ranging from the lowest to the supreme Deity Itself, metaphysical entities, world orders etc., of which they are the sonic body. As such, they are their denotators, at one with them. \[illegible\]
+[^383]: The names of objects cannot be known just by perceiving them. They are known by knowing the name attributed to them by a commonly agreed linguistic convention. When we see a round flat-bottomed hollow vessel, we know what it is by attributing its name to it. Clearly, this varies according to the language we speak. In English we would call it a jar, in Sanskrit ghaṭaḥ. But although the names of objects cannot be known by seeing them, by knowing their names we can conjure them up in our imagination. Mantras are not like common words. They exist in themselves within inner consciousness as do words, but they do not refer to outer objects. Rather they are divine sonic forms of awareness, various as are the beings, ranging from the lowest to the supreme Deity Itself, metaphysical entities, world orders etc., of which they are the sonic body. As such, they are their denotators, at one with them.
 
 [^384]: Condensed paraphrase of VBH v 130, quoted in full by Jayaratha.
 
@@ -381,7 +381,7 @@ Well then, (one may ask,) agreed that that is so by uttering (Bhairava’s) name
 ### TĀ 5.136
 
 श्रीमत््रशिरसेऽप्यक्तं मन््ोद्धारस्य पूर्वतः ॥ १२३७ ॥
-\[illegible\] ‘py ukta mantroddhārasya pūrvataḥ ॥ 137 |I 
+śrīmattraiśirase ‘py ukta mantroddhārasya pūrvataḥ ॥ 137 |I 
 
 (The same) is also declared in the venerable Traiśirasa, (just) before (the section dealing with the) selection of the Mantras. (137cd) (136cd) 
 

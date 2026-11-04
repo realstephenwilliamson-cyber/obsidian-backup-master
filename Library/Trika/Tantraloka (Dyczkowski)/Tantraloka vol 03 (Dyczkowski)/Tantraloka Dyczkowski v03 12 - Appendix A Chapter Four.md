@@ -126,7 +126,7 @@ The text goes on to list the names of the Kālīs, with Mahābhairavakālī as t
 
 *[p. 394]* ^pg407
 
-‘present in each of the divisions.’[^1014] Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla \[illegible\] - Skeleton Kālī. The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’.[^1015] In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
+‘present in each of the divisions.’[^1014] Her visualized form is formidable. Extremely fierce, She is a voracious Bhairavī (see verses 55-69ab), also called Tripurabhairavī (62). Herself skeletal, she is adorned with hundreds of skeletons and ‘casts her eyes (in a frightening) squint’. In her fury, they shine as if ‘casting torrents of thousands of lightning flashes and burning coals.” (57ab) She is also called Kaṅkāla Kālī - Skeleton Kālī. The Kālikā Kula - ‘family’ she belongs to is accordingly also called the Kaṅkāla Kula (3ab) here. Similarly, in the CMSS, it is said that this is the oral transmission of the Kālīkaṁkāla. In the texts that follow, at this first level of development of the Kāli Krama, Kālī often appears as Kṛśā — the Emaciated One or Kṛśodarī ~ Emaciated Belly. She is also known at the earliest stage, where it is said, stressing her paradoxical nature, that as such, thin and emaciated, she has assumed the ‘fullest mode of being’.[^1015] In the DP, she is called Śuṣkā ~ the Dried Out One, whose ‘belly is very thin’ 
 
 (kṛśodarī).[^1016] 
 
@@ -242,7 +242,7 @@ mayā tava prasādena sarveśvara maheśvara || 2 ||
 adhunā śrotum icchāmi kamkālākhyami kulārṇavam \[k: -va\] |
 yatra sā kālikā devī cidakkocchā (>cidarkkecchā) vijrńbhate ॥ 3 I[^1032] 8lb g) 
 
-śekharādhasthitā [k: -rā kh: 
+śekharādhasthitā \[k: -rā kh: 
 
 se-\]} (śekharordhva-) yā sā raśmipuṁjavirājitā |
 etasmin yā kramar bāhyābhyantarabhedataḥ || 4 |
@@ -355,7 +355,7 @@ Union (saṁyoga) can churn (and destroy the very) root of (this) terrible trans
 
 69a) 82b g) khacandracaṁhdrikā yena (> tena) \[g: (?)\] ciccakre carccitā ciram ॥
 23॥
-mokṣalakṣmyā spandanānte [k, g: spadarinaṁte; kh: spandanante\] krtań ātmānam ātmanā |
+mokṣalakṣmyā spandanānte \[k, g: spadarinaṁte; kh: spandanante\] krtań ātmānam ātmanā |
 candreśaś candradhāmnisthas tathā \[k: tatpas kh: tastha; g: -sthasta\] tatkālikojjhitaḥ \[kh: statkālikojhitaḥ; g: sthastatkālikojhitaḥ\] || 24 || kālikāmtakulāśakto nihkalo + vijṛbhate \[kh, g: vijṛbhate\] |
 subhā \[k: śrutau; kh: śubhau; g: subhau\] suvigatā bhāti tadbhātmā pūrayej jagat ॥ 25 ॥
 sucir agniprabhāsātmā tadā kālikuleśvaraḥ | 
@@ -617,7 +617,7 @@ The teacher who has mastered the Krama should gaze upon (his disciple) in this w
 whoever he gazes upon, along with (making offerings to) the fire with sesame seed and clarified butter, he leads to a state of union (sāyujya) (with the deity)[^1050] (This will surely be so;) my word is not false! (89-91ab) 
 
 anukrame yadā śaktaḥ \[g: śakto\] kuryād vā vyavahārakam || 91 ॥
-yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma [k: ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
+yasya yasya sadaivańi \[k, g: sahaivarni\] hi taṁ nayed brahma \[k: ta nayed vasra(?), g: ta nayad vrahma\] śāśvataṁ \[g: \* śvatan(?)\] |
 atrārūdhaḥ sparśayeta yari yari vā prītacetasā || 92 ||
 86b g) taḥ mukta nātra saṁdehaḥ \[g: -deho\] satya satyam ganāṁvike |
 evaṁ vidhiṁ tataḥ kṛtvā paścād eva kramaṁ punaḥ ॥ 93 ॥

@@ -58,7 +58,7 @@ etais tato guruḥ koṭimātrāt pādaṁ vifīrṇavān |
 dakṣādibhya ubhau pādau saṁvartādibhya eva ca || 3 ॥
 pādari ca vāmanādibhyaḥ pādārdhari bhārgavāya ca |
 pādapādaṁ tu balaye pādapādas tu yo ‘paraḥ ॥ 4 ॥ simhhāyārdhari tataḥ śiṣtād dvau bhāgau vinatābhuve |
-\[illegible\] vāsukināgāya khandāḥ saptadaśa tv amī ॥ 5 ॥
+pādaṁ vāsukināgāya khandāḥ saptadaśa tv amī ॥ 5 ॥
 svargād ardhaṁ rāvaṇo ‘tha jahre rāmo ‘rdham apy ataḥ |
 vibhīṣaṇamukhād āpa guruśiṣyavidhikramāt || 6 ||
 khandair ekānnaviṁśatyā vibhaktaṁ tad abhūt tataḥ | 
@@ -209,7 +209,7 @@ The Transmission of the Śaiva Traditions (santatikrama)
 शिष्यप्रशिष्यर्विस्तीणीः शतशाखं व्यवस्थितैः ॥ १४ ॥
 
 teṣām kramena yat prāptaṁ bhraṣtaṁ kālāntarādyadā |
-\[illegible\] śrīkanṭthanāthājṁāvaśāt siddhā avātaran | 11 ॥ 
+tadā śrīkanṭthanāthājṁāvaśāt siddhā avātaran | 11 ॥ 
 
 *[p. 225]* ^pg243
 

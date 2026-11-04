@@ -1333,6 +1333,8 @@ pramātrantarasādhārabhāvahānyasthirāt mate |
 
 #### Viveka on 10.252
 
-The point is that when an entity is external, it is common to all perceivers and is stable (that is, enduringly the same). 
+The point is that when an entity is external, it is common to all perceivers and is stable (that is, enduringly the same).[^308] 
 
 [^307]: These lines describe the Dream-dream state. It is the state of lucid dreaming, that is, the state in which one is conscious when dreaming that what one is experiencing is a dream. The same state arises when ‘daydreaming’ and one is conscious of being immersed in thought and that the thoughts are like dreams. The ‘sustaining consciousness’ is one’s own, within which dreams and thoughts arise, and by which they are created.
+
+[^308]: Pramātrantarasādhārabhāva literally means that ‘the state of (the object perceived in a dream) is not common to other perceivers.’ The lucid dreamer who is conscious that he is dreaming understands spontaneously that he is dreaming, because the things he experiences are personal — others do not experience them. Moreover, he sees that they are very short-lived. One who wakes up from a dream recollecting what he experienced when dreaming is similarly aware that what he saw in a dream is like that, and so he knows that what took place when he was dreaming was not an external event.

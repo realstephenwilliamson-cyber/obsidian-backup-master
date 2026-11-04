@@ -305,7 +305,7 @@ After this, there are six worlds, pervading half a finger (each), they are conta
 श्रपूर्वशाखे तच्चोक्तं परमेशेन शंभुना ।
 उत्तरादिक्रमादूव्येकभेदो विद्यादिके त्रये ।॥ १२० ॥
 
-Śrīpūrvaśāstre tac coktarnń parameśena \[illegible\] |
+Śrīpūrvaśāstre tac coktarnń parameśena śaṁbhunā |
 uttarādikramād dvy ekabhedo vidyādike traye ॥ 120 ॥ 
 
 That has been taught by Śambhu,[^129] the Supreme Lord, in the Mālinīvijayottara, (where he says that) ʻin the three, beginning with (limited) knowledge, the worlds, starting from the upper one, take up respectively, two and one fingers (space each, thus making nine altogether).’[^130] (120) 
@@ -734,7 +734,7 @@ Having first deposited in this way the Path of six kinds that is to be purified 
 
 [^158]: MV 6/28cd-29ab quoted above in 16/146. It says: “The three (procedures) with regards to the parts, mantras and forces etc. should be fashioned in the manner expounded with regards to the principles and phonemes, in accord with the (teachings of the) previous verses.’ Here we can observe very clearly how Abhinava favours his reader by filling in details omitted in the MV just on the authority of an ‘etc.’
 
-[^159]: Read with MSs C and \[illegible\] śodhyaṁ for śodhya-. See above, 16/94cd ff.
+[^159]: Read with MSs C and Ṭ, śodhyaṁ for śodhya-. See above, 16/94cd ff.
 
 *[p. 68]* ^pg88
 

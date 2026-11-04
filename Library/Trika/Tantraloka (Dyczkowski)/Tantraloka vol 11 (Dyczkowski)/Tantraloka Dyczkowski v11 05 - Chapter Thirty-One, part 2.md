@@ -35,7 +35,7 @@ Now he explains the drawing of the lotus, which occupies four squares in the fie
 
 dikṣv aṣtau punar apy aṣtau jīvasūtrānṇi ṣodaśa |
 dvayor dvayoḥ punar madhye tatsaṁṁkhyātāni pātayet ॥ 75 ॥
-\[illegible\] tṛtīyavṛttasthaṁ pārśvajīvasamaṁ bhramam |
+eṣāṁ tṛtīyavṛttasthaṁ pārśvajīvasamaṁ bhramam |
 etadantaṁ prakurvīta tato jīvāgram ānayet || 76 ॥
 yatraiva kutracit saṁgas tatsahbandhe sthirīkṛte |
 tatra kṛtvā nayen mantrī patrāgrāṇām prasiddhaye ॥ 77 |
@@ -229,7 +229,7 @@ the wall (kaṭi),[^302] to the right and the left. (92cd-93)
 
 #### Viveka on 31.92–93
 
-‘Above that’ (means) above the staff (of the trident). ‘[I]n the middle part’ in relation to the mandala. One should draw a lotus only here, but also above the prongs. Thus he says ‘at the end of the middle prong’ etc. He establishes the meaning of the word ‘third’ by (saying) ‘at the end of the middle prong’ etc. ‘In the same way’ means by removing (lopa) twelve finger-breadths. 
+‘Above that’ (means) above the staff (of the trident). ‘\[I\]n the middle part’ in relation to the mandala. One should draw a lotus only here, but also above the prongs. Thus he says ‘at the end of the middle prong’ etc. He establishes the meaning of the word ‘third’ by (saying) ‘at the end of the middle prong’ etc. ‘In the same way’ means by removing (lopa) twelve finger-breadths. 
 
 ### TĀ 31.93–96
 
@@ -1144,7 +1144,7 @@ That middle part, that measures one handspan, has nine squares, and is divided i
 उभयतो भ्रमयेततत्र यथाग्रे हाकृतिभवित् ।
 कोस्यां तत्र कृतं सूत्र नयद्रेखां तु पर्विकाम् ॥ १५८ ॥
 ubhayato bhramayet tatra yathāgre hākṛtir bhavet |
-\[illegible\] tatra krtań sūtraṁ nayedrekhāṁ tu pūrvikām | 158 ॥ 
+koṭyāṁ tatra krtań sūtraṁ nayedrekhāṁ tu pūrvikām | 158 ॥ 
 
 One should rotate (a thread) there on both sides in such a way as (as to produce) the shape of (the letter) H in front (of the middle thread). 
 

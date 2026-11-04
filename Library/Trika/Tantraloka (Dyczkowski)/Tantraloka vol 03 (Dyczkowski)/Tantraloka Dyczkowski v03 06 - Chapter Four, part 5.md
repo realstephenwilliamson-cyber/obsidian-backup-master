@@ -130,7 +130,7 @@ Surely (one may ask,) even when it is (immanent) as all things, it is possible f
 
 [^383]: We see a cow and think, ‘this is a cow’. In this way, the cow we perceive is identified as a cow because it is the same as all other cows, or to put it another way, it is at one with the one universal cow. A particular cow is not different from (the universal) cow that pervades it\` From this point of view, the ‘universal cow’ is what the word ‘cow’ denotes. When we experience that ‘this is this cow’, the name-cum-universal is linked to the particular cow and we identify it as such.
 
-[^384]: Read \[illegible\] yāni for tāni tāni.
+[^384]: Read yāni yāni for tāni tāni.
 
 [^385]: Consciousness accompanies the perception of everything and anything equally. It makes no difference whatever it may be. Anything that is perceived and manifests can be an occasion to experience the presence of consciousness within which it manifests. Moreover, this is equally so for every perceiver.
 
@@ -218,7 +218,7 @@ Surely (one may then ask), as (consciousness) manifests (in this way) because su
 
 11/11 1111711 1 śabdanarūpinī | 
 
-\[illegible\] grahaṇnākārā yataḥ śrīyogasañcare ॥ 126 || 
+karaṇe grahaṇnākārā yataḥ śrīyogasañcare ॥ 126 || 
 
 Consciousness is pure in the initial (phase of perception), which (is nonconceptual) perception (jñāna). (Then in the second phase, which operates) in (the sphere of) the senses, it is the (inner) discourse (śabdana) (of conceptual consciousness centred on multiplicity), whose form is (sensory and mental) perception (grahana).[^400] As is (said in the) venerable 
 

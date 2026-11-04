@@ -525,7 +525,7 @@ prāpya prayāhi haho hamiho vā vāmadevapadam |
 
 *[p. 48]* ^pg66
 
-6\) “Go to the palate (to be heard)[^158] and, attaining the great door made of udumbara wood,[^159] calling out “ho! \[illegible\][^160] (hariho haṁho), go to Vāmadeva’s abode!” (74cd-75ab) 
+6\) “Go to the palate (to be heard)[^158] and, attaining the great door made of udumbara wood,[^159] calling out “ho! hollo!”[^160] (hariho haṁho), go to Vāmadeva’s abode!” (74cd-75ab) 
 
 ### TĀ 30.75
 
@@ -822,7 +822,7 @@ hṛdayaṁ bhairavākhyaṁ tu sarvasarṁārakārakam || 95 ॥
 
 [^174]: Cf, above 30/32-33ab for a different form of this mantra. Also, see note to 16/158-163ab.
 
-[^175]: The mantra is HKṢJHỌAUM plus Sound (nāda) etc. The Bhairava Hṛdaya is taught in the Tantrasadbhāva. There we read: 16b\] cavargasya caturthaṁ (jha) tu ārūdhaṁ [kh: -dha\] kaṣasaṁjñake (ka ṣa) ॥ 169 ॥ tasyādhastād \[k, kh, g: -dhastā\] nyaset prāṇaṁ (ha) vāmabhūṣanasaṁyutam \[illegible\] | vāmajaighāsamopetar (au) ardhacandraśikhānvitam ॥ 170 ॥ 4la kh\] nādaśaktisamopetaṁ bhairavaṁ hṛdayatn param | ‘The fourth (letter) (JH) of the class of cerebrals is mounted onto the one called KAṬṢA (5). Below it, one should place the vital breath (H) conjoined with the ornament of the left (ear) (Ū). The supreme (Mantra) which is Bhairava’s Heart possesses the left shank (AU), and the crest which is the Half-moon and the power of Sound.” TS 3/169cd-171ab. The form of the Bhairava Hṛdaya taught here is JHKṢHÜAUM. The text states clearly that the H is ‘below’ KṢ. This is how a H following 5 would be written in the conjunct \[illegible\] There can be no doubt about the sequence. It seems, therefore, that Jayaratha is mistaken, or a scribal error has occurred. The Mantra is clearly the same. Moreover, the following three lines are drawn from the Tantrasadbhāva. See note 30,175.
+[^175]: The mantra is HKṢJHỌAUM plus Sound (nāda) etc. The Bhairava Hṛdaya is taught in the Tantrasadbhāva. There we read: 16b\] cavargasya caturthaṁ (jha) tu ārūdhaṁ \[kh: -dha\] kaṣasaṁjñake (ka ṣa) ॥ 169 ॥ tasyādhastād \[k, kh, g: -dhastā\] nyaset prāṇaṁ (ha) vāmabhūṣanasaṁyutam (ū) | vāmajaighāsamopetar (au) ardhacandraśikhānvitam ॥ 170 ॥ 4la kh\] nādaśaktisamopetaṁ bhairavaṁ hṛdayatn param | ‘The fourth (letter) (JH) of the class of cerebrals is mounted onto the one called KAṬṢA (5). Below it, one should place the vital breath (H) conjoined with the ornament of the left (ear) (Ū). The supreme (Mantra) which is Bhairava’s Heart possesses the left shank (AU), and the crest which is the Half-moon and the power of Sound.” TS 3/169cd-171ab. The form of the Bhairava Hṛdaya taught here is JHKṢHÜAUM. The text states clearly that the H is ‘below’ KṢ. This is how a H following 5 would be written in the conjunct \[illegible\] There can be no doubt about the sequence. It seems, therefore, that Jayaratha is mistaken, or a scribal error has occurred. The Mantra is clearly the same. Moreover, the following three lines are drawn from the Tantrasadbhāva. See note 30,175.
 
 
 *[p. 55]* ^pg73

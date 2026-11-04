@@ -730,7 +730,7 @@ Again:
 प्राज्ञा वस्तुनि युज्यन्ते न तु सामयिके ध्वनौ ॥ ५७ ॥
 
 lakṣaṇasya vyavasthaiṣākasmācced bimbamucyatām |
-\[illegible\] vastuni yujyante na tu sīmayike dhvanau ॥ 57 ॥ 
+prājñā vastuni yujyante na tu sīmayike dhvanau ॥ 57 ॥ 
 
 If this is the condition of the defining characteristic (of a reflection), how can (anything that appears within consciousness) be said (without reason) to be an original object? The wise apply (themselves) to what is real, not to what is commonly said to be the case! (57) (58) 
 
@@ -874,7 +874,7 @@ He said previously that: ‘(the fact that) He possesses many powers amounts to 
 
 [^145]: Above, 1/67cd (68cd).
 
-[^146]: This reference is in prose as is one below in TĀv ad 3/70ab (3/70) which is identified simply as a reference from the Pratyabhijñā. There is no indication that they are drawn from one of Utpaladeva’s lost commentaries \[illegible\] or vivṛti) on his own Pratyabhijñākārikā. It is more likely that the Anupratyabhijñā is a work by an independent author.
+[^146]: This reference is in prose as is one below in TĀv ad 3/70ab (3/70) which is identified simply as a reference from the Pratyabhijñā. There is no indication that they are drawn from one of Utpaladeva’s lost commentaries (ṭīkā or vivṛti) on his own Pratyabhijñākārikā. It is more likely that the Anupratyabhijñā is a work by an independent author.
 
 
 *[p. 136]* ^pg152

@@ -73,7 +73,7 @@ Figure 1: The square of the mandala drawn according to 31/1-4ab.[^200]
 मत्स्येषु वेदाः सूत्राणीत्येवं स्याच्चतुरखकम् ।
 
 yadi vā prākparāktulyasūtreṇottaradakṣine ॥ 4 ॥
-\[illegible\] aparād aṁkāt pūrvād api tathaiva te |
+aṅkyed aparād aṁkāt pūrvād api tathaiva te |
 matsyamadhye kṣipet sūtram āyataṁi dakṣinottare || 5 I|
 matakṣetrārdhamānena madhyād dikṣv aṁkayet tataḥ |
 sūtrābhyār digdvayotthābhyāṁ matsyaḥ syāt pratikonagaḥ ॥ 6 ॥ 

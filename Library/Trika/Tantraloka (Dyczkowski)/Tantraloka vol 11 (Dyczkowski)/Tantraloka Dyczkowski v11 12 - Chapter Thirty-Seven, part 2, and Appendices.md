@@ -1199,7 +1199,7 @@ This is the procedure concerning the Trident Mudrā in the Jayadratha
 Daṁṣtriṇi Mudrā 
 
 ataḥ parar pravakṣyāmi sarahasyań mahadbhutam |
-yan na kasyacid ākhyātarni \[illegible\] \* \*(?)khyātaṁ\] tad adya kathayāmy aham ॥ 572
+yan na kasyacid ākhyātarni \[g: \* \*(?)khyātaṁ\] tad adya kathayāmy aham ॥ 572
 ॥
 40b g) yena samyag adhītena bhairaveva bhaven naraḥ |
 vedhayet sarvam akhilaṁ jagad etac carācaram \[g: -carācaram\] ॥ 573 ॥
@@ -1438,7 +1438,7 @@ spaṣtavakṣakoṭarākṣo \[g: -vakṣo-\] bhrūvilāsakutāśramaḥ || 647
 ardhamākuñcuyed bāhu gajacarmavaro \[kh, g: -dharo\] yathā |
 punaḥ punar vimuñceti \[kh: punarvi \* = \*\] śamayec \[g: śmaye\] ca punaḥ punaḥ ॥ 648 ॥
 nāśāvaṁśe \[g: -varṁśe(?)\] svacipiṭe \[kh: su-\] vitate krodhamūrchite |
-\[illegible\] idāritasyo \[k: haryad-; k, g: vidyaritāsyo\] sau\] jihvām antaśca lālayet ||
+īṣadv idāritasyo \[k: haryad-; k, g: vidyaritāsyo\] sau\] jihvām antaśca lālayet ||
 649 II hāhākārami naded raudraṁ kramād aṣtakramodgatam |
 45a g) sṛṣtadeho bhāsurātmā pūrvavīryāvalambakaḥ | 650 ॥
 punaḥ punaḥ plaved valgain \[kh, g: valgen\] mudreyar bhairavābhidhā |
@@ -1540,7 +1540,7 @@ sarvāvayavasariyuktā (k: sarvo- -yuktāṁ; kh: sarvo \* \* \* ?saṁmyuktām;
 
 yuktām) krīdayantī mahādyutiḥ (k, g: -ti; kh: -11071/ |
 dale dale (kh: dales) tu yugmaṁ (kh: yugmā) tu krīdābhinayatatparāḥ (kh: - nayana) ॥ 21 ॥
-\[illegible\] (kh: teṣā) nāmāni vakṣyāmi vīrāṇāṁ yogibhiḥ (k: yogibhi; kh, g: yogabhis) saha | 
+teṣāṁ (kh: teṣā) nāmāni vakṣyāmi vīrāṇāṁ yogibhiḥ (k: yogibhi; kh, g: yogabhis) saha | 
 
 Above him is the goddess whose form begins with N and ends with PH. Endowed with all the limbs, possessing a great lusture, she plays. On each petal a couple are intent on play and dance. I will tell (you) the names of those heroes, along with (those of) the yogis (i.e., yoginīs). (20cd-22ab) 
 

@@ -218,7 +218,7 @@ renouncer’s rule) of not caring to own anything (niṣparigrahatā) nor (the h
 विषापहारिमन्रादिसंनद्धो भक्षयत्नपि ॥ २२० ॥
 विषं न मुह्यते तेन तद्रद्योगी महामतिः ।
 
-vihitan sarvam evātra pratiṣiddham athāpi ca [c: vā\] ॥ 217 ॥
+vihitan sarvam evātra pratiṣiddham athāpi ca \[c: vā\] ॥ 217 ॥
 (001 tv etad atra deveśi \[c: deveśa\] niyamena vidhīyate | 
 
 [^823]: In the relevant textual sources, the expressions ‘duality’ and ‘nonduality’ commonly, and certainly in this context, refer to the perception of a difference or otherwise between ‘pure’ and ‘impure’. From this perspective, Kaulism teaches ‘nonduality’ in the sense that it denies that the distinction between purity and impurity has an objective, ontological basis. Things are not ‘pure’ or otherwise in themselves. This ‘nonduality’ is not essentially a metaphysical concept. Certainly it may be seen, as Abhinava does, that the reason for this is that there is only one reality, and so that cannot be contaminated by anything supposed to exist apart from it. Or these two contradictory views are a mistake, brought about by the mistaken sense of relative distinctions (bheda), due to the deluding influence of Māyā (4/254). But it is in actual fact quite possible for there to be no sense of ‘pure’ and ‘impure’ (as opposed to ‘clean or ‘dirty’) in a dualist world view. One evident example is Christianity, which is not generally considered to be nondualist. Indeed, those who are totally devoid of religion may be ‘nondualists’ in this sense without any ontological implications, for which, anyway, they have no concern. In a Kaula perspective, the contrast between ‘pure’ and ‘impure’ is emblematic of all forms of duality. And they are the result of the ignorance of reality that binds by the mistaken identification with the body.
@@ -436,7 +436,7 @@ Those who are (bound) like fettered beasts don’t know that Śiva nature is pre
 
 this universe is Śiva. As is said: 
 
-[^841]: This is a well-known didactic etymology of the word ‘mantra’, which is derived from man’ and ‘tra’. The first is said to mean ‘manana’ — ‘reflection’ (in the sense of deep thought or concentration) and the second \[illegible\] — ‘saving’. These are the two fundamental and distinctive attributes (dharma) of mantras (at least those that serve as a means to liberation), namely, that they induce deep reflection and are thereby liberating.
+[^841]: This is a well-known didactic etymology of the word ‘mantra’, which is derived from man’ and ‘tra’. The first is said to mean ‘manana’ — ‘reflection’ (in the sense of deep thought or concentration) and the second ‘trāṇa’ — ‘saving’. These are the two fundamental and distinctive attributes (dharma) of mantras (at least those that serve as a means to liberation), namely, that they induce deep reflection and are thereby liberating.
 
 *[p. 324]* ^pg337
 
@@ -802,7 +802,7 @@ One’s own consciousness is not the sole (authority and) means (pramāṇa) tha
 या समग्रा्थमाणिक्यतत्तवनिश्रयकारिणी ॥ previously. ॥
 
 svasarhivic cāpy abādhitā |
-\[illegible\] samagrārthamāṇikyatattvaniścayakārinī ॥ 239 ॥ 
+yā samagrārthamāṇikyatattvaniścayakārinī ॥ 239 ॥ 
 
 The words of scripture (vākya) conform to reason (yukti). Also, they do not invalidate the direct experience of one’s own consciousness (svasaṁvid), which (is immediate and extends) to every particular (samagrārtha) (in an instant). (It is like the knowledge of an expert jeweller, through) which (he) determines the exact nature of every particular gem (instantaneously and correctly). (239) 
 

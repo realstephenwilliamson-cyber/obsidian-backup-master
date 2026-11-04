@@ -1564,7 +1564,7 @@ and cowherds behaved as servants to Maheśvara.[^641] (72)
 
 #### Viveka on 37.72
 
-[^641]: The same expression ~ maheśvarasya dāsyaṁi — is found in the first verse of Utpaladeva’s Īśvarapratyabhiji ikā, in which he proclaims that this is his condition (i.e. that of a servant of Maheśvara, Śiva the Great Lord). Note also that in these verses, Abhinava uses the same word for ‘wealth’, ‘good fortune’ ‘success’ — saṁpat. Here it is: katharhicid āsādya maheśvarasya dāsyai janasyāpy upakāram iccan | samstasapatsamavāptihetur tatpratyabhij~ām upapādayāmi | ‘Having in some way attained the status of a servant of Maheśvara (maheśvarasya dāsyaṁ) and wishing to offer assistance also to the whole of mankind, I shall - by giving its logic justification - make possible the awakening of the recognition of the Lord, which brings about the achievement of all success.” \[illegible\] 1/1/1
+[^641]: The same expression ~ maheśvarasya dāsyaṁi — is found in the first verse of Utpaladeva’s Īśvarapratyabhiji ikā, in which he proclaims that this is his condition (i.e. that of a servant of Maheśvara, Śiva the Great Lord). Note also that in these verses, Abhinava uses the same word for ‘wealth’, ‘good fortune’ ‘success’ — saṁpat. Here it is: katharhicid āsādya maheśvarasya dāsyai janasyāpy upakāram iccan | samstasapatsamavāptihetur tatpratyabhij~ām upapādayāmi | ‘Having in some way attained the status of a servant of Maheśvara (maheśvarasya dāsyaṁ) and wishing to offer assistance also to the whole of mankind, I shall - by giving its logic justification - make possible the awakening of the recognition of the Lord, which brings about the achievement of all success.” ĪP 1/1/1
 
 
 *[p. 263]* ^pg281

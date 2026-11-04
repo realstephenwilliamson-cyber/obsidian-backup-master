@@ -149,7 +149,7 @@ Mitra, 8/221-222 Mocikā, 8/383-389 Mokśanātha, a Siddha, 30/102-104 note Mok�
 mūlamantra, basic, root Mantra, 15/49-53ab and note, 276cd-278ab, 292cd- 295ab note, 418cd-421; 17/88-91; 26/15-16; 28/174-181; 29/222-223 and note; 31/101
 Muni, group of deities, 8/264-271 mūrti, iconic form Siva, 6/68cd-72ab and note; 8/216-220 and note, 244cd-274a e, 249-251lab; 15/47 and note, 66-68, 76cd-78ab; mūrtimantra (OM HAM), 15/139cd- 142, 238-239ab and note 
 
-Yakśa, 8/264-271 \[illegible\] 41cd-43ab Yama, one of the Lokapālas, 6/68cd-72ab note; 8/43cd-56ab, 105, 179cd-181ab, 438cd-40ab; 15/222cd-225ab; 
+Yakśa, 8/264-271 Yakśī, 41cd-43ab Yama, one of the Lokapālas, 6/68cd-72ab note; 8/43cd-56ab, 105, 179cd-181ab, 438cd-40ab; 15/222cd-225ab; 
 
 Yama, mythical Śaiva master, 28/391-393 
 

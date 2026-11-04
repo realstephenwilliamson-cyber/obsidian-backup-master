@@ -37,7 +37,7 @@ The senses of knowledge and action up to the intellect are twelve. As this group
 
 (The group of twelve senses) ‘up to the intellect’, along with the mind (manas), ‘has a solar nature’ because ‘it illumines’, that is, is the perception of the object (arthālocana). Thus, in accord with the dictum that ‘the (wise) say 
 
-[^560]: The senses are of two types, inner and outer. The inner senses (antahkarana) are 1) the intellect (buddhi), that determines the nature of the objects perceived by the outer senses. 2) The mind (manas), that coordinates and directs the input of the senses. 3) The ego, that appropriates the sensations etc. perceived and discerned by the senses as one’s own. The outer senses are also of two kinds — those of knowledge and those of action. The senses of knowledge (buddhīndriya) are the sense of smell \[illegible\] — nose), taste (rasanā ~ tongue), sight (cakṣus — eye), touch (rvak — skin) and hearing \[illegible\] — ear). Those of action (karmendriya) are the hands, feet, speech, genitals and anus. The word for senses is ‘karana’, which literally means ‘instrument’, because they are indeed instruments, by means of which the perceiver perceives inner mental objects and outer physical ones, and the agent acts. The senses are thirteen. In this case the ego is not counted amongst them, as it is where the other twelve merge. In other words, they are realised to be aspects of it that emanate from it, like the twelve rays of the sun, to serve as its instruments. In this context, ‘merger’ into the ego denotes the recognition that it is the individual perceiver who acts through and as the ego. Ultimately, this ego is recognised, as Abhinava tells us further ahead, as the power of the Goddess of Consciousness, who manifests as the Sun of the means of knowledge, that is, the senses. Freed from thought constructs and objectivity related to the senses of the previous phases, the means of knowledge is recognised to be that Inexplicable consciousness.”
+[^560]: The senses are of two types, inner and outer. The inner senses (antahkarana) are 1) the intellect (buddhi), that determines the nature of the objects perceived by the outer senses. 2) The mind (manas), that coordinates and directs the input of the senses. 3) The ego, that appropriates the sensations etc. perceived and discerned by the senses as one’s own. The outer senses are also of two kinds — those of knowledge and those of action. The senses of knowledge (buddhīndriya) are the sense of smell (grāṇa — nose), taste (rasanā ~ tongue), sight (cakṣus — eye), touch (rvak — skin) and hearing (śrotra — ear). Those of action (karmendriya) are the hands, feet, speech, genitals and anus. The word for senses is ‘karana’, which literally means ‘instrument’, because they are indeed instruments, by means of which the perceiver perceives inner mental objects and outer physical ones, and the agent acts. The senses are thirteen. In this case the ego is not counted amongst them, as it is where the other twelve merge. In other words, they are realised to be aspects of it that emanate from it, like the twelve rays of the sun, to serve as its instruments. In this context, ‘merger’ into the ego denotes the recognition that it is the individual perceiver who acts through and as the ego. Ultimately, this ego is recognised, as Abhinava tells us further ahead, as the power of the Goddess of Consciousness, who manifests as the Sun of the means of knowledge, that is, the senses. Freed from thought constructs and objectivity related to the senses of the previous phases, the means of knowledge is recognised to be that Inexplicable consciousness.”
 
 
 *[p. 232]* ^pg245
@@ -112,7 +112,7 @@ Thus, the Goddess of Consciousness (saṁviddevt) Who, because She is free (in a
 
 intervention of the limited perceiver etc.,[^565] the Circle of the Sun of the twelve senses, beginning with the intellect, ‘within the ego conceived’ by (Her) intense application (and attention to) the body and the rest. (In other words, She) makes them one with that, so that She is said to be Mārtaṇndakālī - The Kālī of the Sun ~ in the venerable Kramastotra etc.[^566] That is said there: 
 
-[^567]\[illegible\] bow constantly to Mārtaṇdakālī Who (consumes) to the end the (aesthetic) essence (rasa) of all things, She Who generates the Sun (mārtanda) that has drunk up Wheel of the Sun (pataṁgacakra) to serve, like a moth (pataṁga), as fuel for the energy of (the Fire of) Time.’[^568] 
+[^567]‘I bow constantly to Mārtaṇdakālī Who (consumes) to the end the (aesthetic) essence (rasa) of all things, She Who generates the Sun (mārtanda) that has drunk up Wheel of the Sun (pataṁgacakra) to serve, like a moth (pataṁga), as fuel for the energy of (the Fire of) Time.’[^568] 
 
 [^565]: Tt is the Goddess of Consciousness Herself that does this, not the limited subject.
 
@@ -330,7 +330,7 @@ consciousness) in this way, the ‘inner’ ‘enjoyment’ of phenomena that ab
 
 (Dissolving away there,) it comes to rest on the plane of the reflective awareness of (universal) ‘T’ (consciousness), which is the wonder (camatkāra) of repose within its own nature. Thus, as (this consciousness) operates (kalana) the Great Time, it is called Mahākālakālī in the venerable Xramastotra etc. That is said there: 
 
-[^600]\[illegible\] Praise Kālī Who, by Night in the cremation ground, where the great elements (Earth and the rest) dissolve away, devours the Great Time, along with 
+[^600]‘I Praise Kālī Who, by Night in the cremation ground, where the great elements (Earth and the rest) dissolve away, devours the Great Time, along with 
 
 [^598]: See above, 3/262ab-263ab (261-262). There this process is described in the context of the Divine Means (śāmbhavopaya), which operates in pure subjective consciousness devoid of objectivity, and hence thought constructs. Thus, the Empowered Means described here, which is concerned with the purification, that is, elimination, of thought constructs, culminates in the Divine Means, of which the highest form is No Means (anupāya).
 
@@ -407,7 +407,7 @@ Bhairavas and the universe. She within Whom She inwardly comes to rest is Bhaira
 
 So too in the venerable Kramastotra: 
 
-[^609]\[illegible\] praise Mahābhairavacaṇndograghorakālī, She Who is beautiful with the Moon (that shines) in the Void of Energy (kalākāśa), the essential being of the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays[^610] of the architect (tvāṣṭra) of the three processes (of emanation, persistence and withdrawal).”[^611] 
+[^609]‘I praise Mahābhairavacaṇndograghorakālī, She Who is beautiful with the Moon (that shines) in the Void of Energy (kalākāśa), the essential being of the Fourth state, which is the skilful power (cāturya) to set in motion the wheel of the rays[^610] of the architect (tvāṣṭra) of the three processes (of emanation, persistence and withdrawal).”[^611] 
 
 [^608]: DP 5/46cd-48ab. The last half of the last line reads in the MSs of the DP -ghorā kālī parāparā. ‘(She Mahābhairavāṇdograghorā Kālī, Who is (both) supreme (transcendent) and inferior (immanent).”
 

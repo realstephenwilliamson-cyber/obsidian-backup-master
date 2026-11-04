@@ -645,7 +645,7 @@ This has also been well described by the venerable Nakuleśa[^918] and others, (
 
 [^915]: Cf. another reference from the Ānandatantra below 16/65-68ab.
 
-[^916]: This translation assumes that dvijāntyajaiḥ should be emended to dvijāntyajāḥ and kāryā to kāryāḥ. Another possible translation, which sticks closer to the printed text, is ‘(worship) should be performed equally by Brahmins and members of the lowest caste’, which presumes that the unstated substantive of kāryā is \[illegible\]
+[^916]: This translation assumes that dvijāntyajaiḥ should be emended to dvijāntyajāḥ and kāryā to kāryāḥ. Another possible translation, which sticks closer to the printed text, is ‘(worship) should be performed equally by Brahmins and members of the lowest caste’, which presumes that the unstated substantive of kāryā is pūjā.
 
 [^917]: MS Threads: carvantyepi for carcānte ‘pi, which suggests the emendation carvante ‘pi.
 
@@ -869,7 +869,7 @@ Trimūrtyai Left eye
 
 UM Amarīśāyai |
 Righter |
-ÜM Arghīśāyai Left ear | \[illegible\] |
+ÜM Arghīśāyai Left ear | RṀ |
 Bhārabhūtyai Right nostril (piṅgalā) | RM |
 Tithīśāyai Left nostril (idā 
 
@@ -1368,7 +1368,7 @@ Mālinīnyāsa
 
 *[p. 364]* ^pg382
 
-15\. oṁ sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ iṁ mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jaṁ jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. oṁ sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. oṁ sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. oṁ sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ haṁ paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ śaṁ kusumāyudhāyai namaḥ 43. oṁ sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. oṁ sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
+15\. oṁ sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ iṁ mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jaṁ jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. oṁ sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. oṁ sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. oṁ sauḥ ām chagalyai namaḥ 36. oṁ sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ haṁ paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ śaṁ kusumāyudhāyai namaḥ 43. oṁ sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. oṁ sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
 
 *[p. 365]* ^pg383
 

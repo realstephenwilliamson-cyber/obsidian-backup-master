@@ -44,7 +44,7 @@ Having reflected on himself, the one who lauds (You) reflects again on (Your) la
 APPENDIX F CHAPTER FOUR 
 
 anāmṛṣṭaḥ svātmā na hi bhavati bhāvapramitibhāj anāmṛṣtaḥ svātmety api hi na vinā 'marśanavidheḥ |
-\[illegible\] cāsau svātmā sphuradakhilabhāvaikasarasas tato 'ham tvatstotre pravanahṛdayo nityasukhitaḥ ॥ 3 ॥ 
+śivaś cāsau svātmā sphuradakhilabhāvaikasarasas tato 'ham tvatstotre pravanahṛdayo nityasukhitaḥ ॥ 3 ॥ 
 
 One’s own Self, ignored (anāmṛṣṭi), does not rightly know existence. (Indeed,) without the practice of awareness (there would be no knowledge,) even that one’s own Self is being ignored. And Śiva is one’s own Self in the oneness of feeling (rasa) with all of radiantly manifesting existence, and so, my heart disposed to (uttering) Your hymn, I am constantly made joyful (sukhita). (3) 
 

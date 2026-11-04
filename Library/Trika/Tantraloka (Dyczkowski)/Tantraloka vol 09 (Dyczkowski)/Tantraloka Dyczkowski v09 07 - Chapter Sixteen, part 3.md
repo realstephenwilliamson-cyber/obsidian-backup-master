@@ -112,7 +112,7 @@ Seed-syllable mantras should be conceived to be pervading all (their correspondi
 
 ‘Two Eggs (that extend up to Nature) are pervaded by a syllable and a half (PHAT), and the two others by two syllables (HŪM and HRĪH). Such, in reverse, is (the extent of) the pervasion of Aparā. 
 
-The three Eggs (that extend up to the end of Māyā) are pervaded by the letter S, and the fourth one by the Trident (AU), and that which is beyond all, by emission (H). (This) is considered to be the pervasion of \[illegible\][^256] 
+The three Eggs (that extend up to the end of Māyā) are pervaded by the letter S, and the fourth one by the Trident (AU), and that which is beyond all, by emission (H). (This) is considered to be the pervasion of Parā.[^256] 
 
 [^252]: MV 4/19ab is quoted in TĀv ad 11/89.
 

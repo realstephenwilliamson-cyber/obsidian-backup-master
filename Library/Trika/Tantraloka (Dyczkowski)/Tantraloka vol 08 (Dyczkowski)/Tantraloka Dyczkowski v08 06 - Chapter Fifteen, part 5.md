@@ -88,7 +88,7 @@ As is said there (in the Bhargaśikhātantra):[^447]
 
 [^444]: MPĀ vidyāpāda 1/4/25ab. The verse continues ‘because by the (energies) that come forth from (the radiant energy of) the left, (He) the agent clearly fashions the deployment (of all things).
 
-[^445]: 1 have inserted the verses Jayaratha has omitted in brackets: vāmodgārair yataḥ kartā karoti racanāīi sphuṭam ॥ 25 ॥ \[illegible\] bhuvanamālākhyāṁ tattvākhyāṁ ca viśvarāṭ | vāmoktyā viparītattva prapañce ‘smin sadāśivaḥ ॥ 26 ॥ lakṣyate viparītena viruddhenāpi karmaṇā | pradadaty anusaṅghebhyo yat phalaṁ manepsitam ॥ 27 ॥ tasmāc ca bhagavān devo vāmaguhyaḥ prabhāṣyate | MPĀ vidyāpāda 1/4/25cd-28ab; see the commentary there.
+[^445]: 1 have inserted the verses Jayaratha has omitted in brackets: vāmodgārair yataḥ kartā karoti racanāīi sphuṭam ॥ 25 ॥ citrāṁ bhuvanamālākhyāṁ tattvākhyāṁ ca viśvarāṭ | vāmoktyā viparītattva prapañce ‘smin sadāśivaḥ ॥ 26 ॥ lakṣyate viparītena viruddhenāpi karmaṇā | pradadaty anusaṅghebhyo yat phalaṁ manepsitam ॥ 27 ॥ tasmāc ca bhagavān devo vāmaguhyaḥ prabhāṣyate | MPĀ vidyāpāda 1/4/25cd-28ab; see the commentary there.
 
 [^446]: MPĀ vidyāpāda 1/4/28ab. The printed edition reads: tasmāc ca bhagavān devo for yatas tasmāt bhagavān.
 
@@ -236,7 +236,7 @@ Surely (one may ask), if the adept’s oneness with Śiva were to arise by just 
 विशवात्मदेहविश्रान्तितृप्तस्तल्ल्गनिष्ठितः || २८६ ॥
 वाह्यं छिद्धत्रतकषेत्रचयीदि नहि वाञ्छति ।
 
-viśvātmadehaviśrāntitṛptas talliṅganiṣthitaḥ ॥ 286 ॥ bāhyari liṁgavratakṣetracaryādi nahi + \[illegible\] | 
+viśvātmadehaviśrāntitṛptas talliṅganiṣthitaḥ ॥ 286 ॥ bāhyari liṁgavratakṣetracaryādi nahi + vāñchati | 
 
 Satisfied by (his) repose in (his) cosmic body, he is grounded in (and devoted to) that (as the) Liṅga, and (so no longer) desires (any) external Liṅga, vow, sacred place, discipline (caryā) or the like. (286cd-287ab) 
 
@@ -335,7 +335,7 @@ For fear of mixing (these) flowers with the ones already taken for the worship o
 
 #### Viveka on 15.293–295
 
-(Only) ‘that’ (liquid) is (to be worshipped,) because in order to worship the deities etc., one should not place the flowers in the sacrificial vessel. Having \[illegible\] everything with the water of the sacrificial vessel, one should worship va. ‘Liquid’ here (in this case) stands for (upa/akṣ yate) wine and other (such sacrificial fluids).[^460] As is said: 
+(Only) ‘that’ (liquid) is (to be worshipped,) because in order to worship the deities etc., one should not place the flowers in the sacrificial vessel. Having sprinkled everything with the water of the sacrificial vessel, one should worship va. ‘Liquid’ here (in this case) stands for (upa/akṣ yate) wine and other (such sacrificial fluids).[^460] As is said: 
 
 “The sacrificial substance is called ‘liquid’ (ambu), and it is of various kinds, such as Kula or Ucchuṣma.’ 
 
@@ -374,7 +374,7 @@ So how should these forms (vigraha), namely, the vital breath and the rest, be w
 tatra prāṇāśraye nyāse buddhyā viracite sati ॥ 296 ॥
 Sūnyādhiṣthānataḥ sarvam ekayatnena pūjyate | 
 
-There all (three) are worshipped with a single effort (ekayatna) when the deposition, grounded in the vital breath, is performed (in conjunction) with the intellect, (reflecting on how it is energized by it,) and (how that is in its turn) sustained by the \[illegible\][^464] (296cd-297ab) 
+There all (three) are worshipped with a single effort (ekayatna) when the deposition, grounded in the vital breath, is performed (in conjunction) with the intellect, (reflecting on how it is energized by it,) and (how that is in its turn) sustained by the Void.[^464] (296cd-297ab) 
 
 #### Viveka on 15.296–297
 

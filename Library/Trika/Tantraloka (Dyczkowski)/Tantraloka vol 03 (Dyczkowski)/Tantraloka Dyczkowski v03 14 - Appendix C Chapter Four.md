@@ -57,7 +57,7 @@ And (that energy) With Mind generates the Five-fold Reality (pañcārtha) within
 
 [^1089]: arajaḥ 44140 bhānuḥ \[k, kh: bhrāntaḥ\] kalpanātītagocaraḥ | saktyātītaḥ parānando gunṇāśrayavivarjitaḥ || 18 ॥ nirvikāraḥ paraḥ śuddho hetudṛṣtṭāntavarjitaḥ | sarvabhāvāntarasthaś ca vyomātīto nirāmayaḥ \[g: nī-\] \\\\ 19 ॥ sarvagaḥ sarvakartā \[kh, g: -rttā\] ca svacchando ‘mṛtanirbharaḥ \[k, kh: svacchandā\] | 39g-b) nirupādhir mahādevaḥ sarvabhūteṣvavasthitaḥ || 20 ॥ 43kh-a) tasyāvabodhāt paramā svecchayā parameśvara | jātā tatkālikā śaktir ekā taddharmadharminī \[g: tarddharmmadharmmīnī\] || 21 || sūkṣmarūpā \[kh, g: Śūkṣma-\] parā śāntā paramānandananditā | svabhāvataḥ śivā jātā vedyarūpā nirañjanā || 22 ॥ unmanā samanā sā tu svecchayā parameśvarī |
 
-[^1090]: yathā raśmiprabhā \[g: rāśmi-\] sūrye \[g: sūrya\] bahnau ca dahanātmikā ॥ 23 ॥ acintitā samutpannā śivasya saha dharminī | samanonmanarūpenṇa śivecchā \[g: śivacchā\] dvayam advayam || 24 || tat tad icchāmy anicchātas tadiccheyami \[k, kh, g: -da\] kriye \[g: kriyo\] śive | saṁbhūtā [g: sambhūtārni\] tu \[g: ta\] parā śaktiḥ \[g: śakti\] samanonmanarūpinī | 25 ॥ 43kh-b, 40g-a) samanā caiva viśve ‘smin pañcārthānām prasūyinī | unmanā śivasāmarthyā \[g: -sāmathyā\] dāpayej jṁānam uttamam \[k: darpayejjñāna-; kh: darpayet jṁāna; g: darppayejñāna-\] ॥ 26 ॥ punaḥ sā grasate viśvaṁ svecchayā parameśvarī | tadvivartaḥ \[k, kh, g: -vivarta\] smṛto jyotiḥ puñjacakreśipūrvagaḥ \[g: puñjacakrośi-\] ॥ kalābījāni sūte ca somārkānalasaṁyutā | ekākārā nirālokā paradhāmasvarūpinī ॥ 28 ॥
+[^1090]: yathā raśmiprabhā \[g: rāśmi-\] sūrye \[g: sūrya\] bahnau ca dahanātmikā ॥ 23 ॥ acintitā samutpannā śivasya saha dharminī | samanonmanarūpenṇa śivecchā \[g: śivacchā\] dvayam advayam || 24 || tat tad icchāmy anicchātas tadiccheyami \[k, kh, g: -da\] kriye \[g: kriyo\] śive | saṁbhūtā \[g: sambhūtārni\] tu \[g: ta\] parā śaktiḥ \[g: śakti\] samanonmanarūpinī | 25 ॥ 43kh-b, 40g-a) samanā caiva viśve ‘smin pañcārthānām prasūyinī | unmanā śivasāmarthyā \[g: -sāmathyā\] dāpayej jṁānam uttamam \[k: darpayejjñāna-; kh: darpayet jṁāna; g: darppayejñāna-\] ॥ 26 ॥ punaḥ sā grasate viśvaṁ svecchayā parameśvarī | tadvivartaḥ \[k, kh, g: -vivarta\] smṛto jyotiḥ puñjacakreśipūrvagaḥ \[g: puñjacakrośi-\] ॥ kalābījāni sūte ca somārkānalasaṁyutā | ekākārā nirālokā paradhāmasvarūpinī ॥ 28 ॥
 
 
 *[p. 440]* ^pg453
@@ -110,7 +110,7 @@ Free of the planes of abandonment and assumption, omnipresent, the Supreme Lord,
 energy (kalārūpā), like a great burning coal, She is (full of great and) beautifully radiant energy (sutejasī) (6cd-10ab) 
 
 upamānasvarūpena \[k: -ṇe; g: -rūpena\] bhūribhānurivoditā ॥ 10 ॥
-\[illegible\] khamayiī \[k, g: khabhayī\] khasthā khecarīṣv api durgamā \[k: durbhagā\] l mahākālīkalākhyātā \[k, g: -lāyātā\] kalāmṛtamayī śubhā ॥ 11 ॥ 
+khakalā khamayiī \[k, g: khabhayī\] khasthā khecarīṣv api durgamā \[k: durbhagā\] l mahākālīkalākhyātā \[k, g: -lāyātā\] kalāmṛtamayī śubhā ॥ 11 ॥ 
 
 In a metaphorical form, She arises like a great (radiant) Sun. The energy (kalā) of the Void, She is the Void, residing in the Void. Even amongst the Skyfarers She is hard to attain. She is called the energy of the Great Kālī. Made of the nectar of energy (kalā), She is auspicious. (10cd-11) 
 
@@ -120,7 +120,7 @@ samhārakāranṇe \[k: -kālane; g: -kālaṇe\] yās tu saṁsthitā \[g: sa-\
 
 Born from Her (act of) swallowing (all things), they are consonant with the plane within KālT’s body; O Hara, the leaders (of the hosts of energies), they abide in the cause of the destruction (of all things). (12) 
 
-tāsām samharaṇārthārtham ekaikā \[k kh g: ekeyaṁ] 4711 bahudhā gatā |
+tāsām samharaṇārthārtham ekaikā \[k kh g: ekeyaṁ\] 4711 bahudhā gatā |
 kālarūpāntakārinī \[k, g: -karaṇī\] yatra sā \[g: so\] śāntimṛcchati \[g: -marcchati\] ॥ 13॥
 ekaikā sā svasāmarthyāt samhārakaranodyatā \[all: samhāraharanṇo-\] |
 ekaikā ca parā devī jṁñeyā brahmasvarūpinī || 14 ॥ 
@@ -131,7 +131,7 @@ eva sā \[k: syād;
 
 g: śāḷ dvādaśair bhedaiḥ \[k: -dair; g: dvādaśai-\] paramārkasvarūpinī \[k: -paramākta(rtha)-; g: paramākka-\] |
 dvādaśāpi tadutpannāḥ śuddhāḥ \[g: Śraddhāḥ\] prakāśyanirmalāḥ \[kh: prakāśa- 1॥ 15॥
-8 46a) sūryakoṭisahasrābhāś candrāyutanibhopamāḥ [k: -sahastrā- -pamā; g: ~ sahastrā-\] |
+8 46a) sūryakoṭisahasrābhāś candrāyutanibhopamāḥ \[k: -sahastrā- -pamā; g: ~ sahastrā-\] |
 vigrahānte sarvadikkāḥ \[k: savadikkā; g: -dikkā\] śāntās taddharmam āgatāḥ \[k: -gatā\] ॥ 16 ॥ 
 
 In this way, she is the Supreme Sun with twelve divisions. And twelve have arisen from that, which is pure and free of the stain of the object of manifestation. Their light is like that of thousands of billions of suns and they are like billions of moons. Present in all the directions within (phenomenal) form, tranquil, they have attained that nature (dharma). (15-16) 
@@ -265,7 +265,7 @@ Established in her own nature, her form is the fettered soul, present in (the re
 
 tena hy eṣā kuleśānī mṛtyukālāntapātinī || 35 ॥
 mṛtyukālakalā yasyāḥ praviśed vigrahaṁ śiva |
-\[illegible\] sā mṛtyukālīti jñeyā girisutādhava ॥ 36 ॥ 
+tadā sā mṛtyukālīti jñeyā girisutādhava ॥ 36 ॥ 
 
 Thus, She is[^1101] the Mistress of Kula, Who descends (pātinī) at the end of the time of death. O Śiva, Arouser of the Daughter of the Mountains, (when) Her energy, which is that of the Time of Death, penetrates the form (vigraha) (of someone’s body),[^1102] she should then be known to be Mptyukālī (the Kālī of Death).[^1103] (35cd-36) 
 
@@ -385,7 +385,7 @@ svasaṁvittikrameṇaiva bāhye \[k: vākye; g: vāhya\] vātha \[k: nātha\] t
 bimbadvādaśakaṁ bāhye tad rūpam avatārayet ॥ 50 ॥
 kh 57b, g 49a) lohita vyomarekhāntaṁ \[kh: -rekhānta; g: -reṣāntu\] dadyāt sindurakena ca \[g: sidūrakena ca\] |
 viparyayeṇa vā kāryā śuklā \[k: śuktā\] vā vyomarekhikā ॥ 51 ॥
-\[illegible\] śūlacakre vā pūjayet tat svadehaje | 
+niśite śūlacakre vā pūjayet tat svadehaje | 
 
 O Supreme Lord, that (group of Kālīs) should be worshipped on the plane of the Brahman, which is unutterable and free of imperfection, at the End of the Sixteen or at the End of the Nine within consciousness, or else, O Lord, Three-eyed One! Externally in accord with the dynamism of one’s own cognitive consciousness (svasaṁvittikrama). (48cd-49) 
 
@@ -438,7 +438,7 @@ yojyari \[g: yojyāri\] tadādimasyānte paścāt saṁjñāṁ 771 prakalpayet 
 phatkārar ca tataḥ paścāt tamahpādāntavarjitā ॥ 70 ॥
 bījarājena \[k, kh: bījena\] vā pūjyā \[kh: pūjya\] nāmnā \[kh: nāmnā\] cāmaṁtritena \[k: -citena; kh: cāsamcitena\] tu |
 sṛstisaṁṛdanāmākhyās triyo \[Missing 34b to 35a upto here\] vividhayo matāḥ ॥ 71॥
-35kh-b) navākṣarā tu yā devī tasyā etad [k, kh, g: etād\] vijṛbhitam \[k: vijṛmmitam\] | 
+35kh-b) navākṣarā tu yā devī tasyā etad \[k, kh, g: etād\] vijṛbhitam \[k: vijṛmmitam\] | 
 
 [^1117]: The DP goes on to extract the mantras required for the rite in code. First, the bījarāja (56-57) (KHPHREM), then the Seventeen Syllable Vidyā (5/58-61) and navākṣarā (in 5/65cd-70). After extracting the seventeen syllable Vidyā, the text continues:
 
@@ -462,7 +462,7 @@ na jñātā triṣu lokeṣu tvadṛte bhaktivatsala |
 33g-a) cakraṁ \[g: cakra\] samastapūrvoktaṁ \[g: -pūrvokta\] saha cakratrayeṇa vā ॥ 74 ॥
 pūjyā \[k, kh, g: pūjyāḥ\] samayavidyā \[k, kh, g: -vidyā\] ca dikṣu \[k, kh: dikṣur\] caiva vidikṣu ca |
 vyomacakraṁ \[k, kh, g: cakra\] triśūlaṁ \[k: triśūlāṁ; kh, g: triśūlā\] ca krameṇa paripūjayet ॥ 75 ॥
-ekadvitricaturbhedaiḥ \[g: -ticaturbhedaih\] samādiṣta [k, kh, g: samadikka\] yathā param | 
+ekadvitricaturbhedaiḥ \[g: -ticaturbhedaih\] samādiṣta \[k, kh, g: samadikka\] yathā param | 
 
 She 
 

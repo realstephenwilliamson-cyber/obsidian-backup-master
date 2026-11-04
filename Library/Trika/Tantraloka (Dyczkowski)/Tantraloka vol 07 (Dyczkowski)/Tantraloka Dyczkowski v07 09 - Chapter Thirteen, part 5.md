@@ -1369,6 +1369,8 @@ attains Śiva’s state by His grace.
 
 2\) Another, namely, the spiritual son (putraka), who is bound (only) by the pure world, (identifies with Śiva) quickly (after the death of the body) or immediately (whilst still alive).[^597] 
 
-3\) The ‘adept’ (sādhaka) (may also achieve union) slowly or quickly, according to (the extent) of the intervening worldly benefits (he enjoys by virtue of his practice of Mantra). 
+3\) The ‘adept’ (sādhaka)[^598] (may also achieve union) slowly or quickly, according to (the extent) of the intervening worldly benefits (he enjoys by virtue of his practice of Mantra). 
 
 [^597]: The initiation imparted into the Rule that makes the postulant into a regular initiate and leads him up to the upper extremity of the thirty-first reality level, that is, Māyā. The following initiation purifies the soul further and, as a ‘spiritual son’ (putraka), it is led beyond Māyā into the pure reality levels.
+
+[^598]: Concerning the figure of the sādhaka in the Siddhāntas, see Brunner-Lachaux, 1975.

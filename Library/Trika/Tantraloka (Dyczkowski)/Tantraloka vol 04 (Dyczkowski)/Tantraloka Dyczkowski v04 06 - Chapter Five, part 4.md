@@ -76,7 +76,7 @@ And it is said in the venerable Brahmayāmala[^274] that the illustrious (śrīm
 
 #### Viveka on 5.97–98
 
-[^275]\[illegible\] is ‘illustrious’ because it is the (very) life of the Light (of consciousness) also,[^276] as its nature is reflective awareness. Here (according to us), the unfolding (prathana)[^277] of the Sound (rāva), which is the reflective awareness of ‘I’ (consciousness) and Supreme Speech (Paravāc), is of three kinds, as (the Speech of) Vision (Paśyantī), the Middle One (Madhyama), and Corporeal (Vaikharī), because it is present in the Heart, (neck and palate, respectively). Again, each one of these is of three kinds, according to whether it is gross, subtle, or supreme, and so has nine varieties. The tenth is Supreme Speech (Paravāc), which is the substratum (bhitti) of the nine, because it is this that manifests in this way by virtue of its own innate freedom. Thus, it is said to be ‘the All-pervading (Sound)’. Moreover, it is the place of rest (within pure divine consciousness), so it is said that it ‘bestows the state of pervasion’. And that was (explained) previously, (in the passage) beginning with: 
+[^275]It is ‘illustrious’ because it is the (very) life of the Light (of consciousness) also,[^276] as its nature is reflective awareness. Here (according to us), the unfolding (prathana)[^277] of the Sound (rāva), which is the reflective awareness of ‘I’ (consciousness) and Supreme Speech (Paravāc), is of three kinds, as (the Speech of) Vision (Paśyantī), the Middle One (Madhyama), and Corporeal (Vaikharī), because it is present in the Heart, (neck and palate, respectively). Again, each one of these is of three kinds, according to whether it is gross, subtle, or supreme, and so has nine varieties. The tenth is Supreme Speech (Paravāc), which is the substratum (bhitti) of the nine, because it is this that manifests in this way by virtue of its own innate freedom. Thus, it is said to be ‘the All-pervading (Sound)’. Moreover, it is the place of rest (within pure divine consciousness), so it is said that it ‘bestows the state of pervasion’. And that was (explained) previously, (in the passage) beginning with: 
 
 ‘The reflective awareness of this (couple) is perfectly full ‘P (consciousness) which, by virtue of its freedom, manifests division (vibhāga) within its own nature. When division manifests, its form is said to be of three kinds, namely (the three forms of Speech), Vision (Paśyantī), the Middle One (Madhyamā), and gross, Corporeal Speech (Vaikharī). Again, each of these has 
 
@@ -88,7 +88,7 @@ And ending with:
 
 [^274]: Abhinava switches briefly to the Brahmayāmala.
 
-[^275]: Jayaratha did not have access to the Brahmayāmala. The explanation he offers of these lines presumes a higher exegetical level than the BY could have reached. The terminology of the Pratyabhijñā which he makes use of here is not found at the scriptural level. Clearly, he has resorted to a stopgap to explain these lines, that without reference to the original source or a parallel one, would otherwise remain obscure. \[illegible\]
+[^275]: Jayaratha did not have access to the Brahmayāmala. The explanation he offers of these lines presumes a higher exegetical level than the BY could have reached. The terminology of the Pratyabhijñā which he makes use of here is not found at the scriptural level. Clearly, he has resorted to a stopgap to explain these lines, that without reference to the original source or a parallel one, would otherwise remain obscure.
 
 [^276]: The literal meaning of śrīmat is ‘possessing glory’, which is translated here as ‘glorious’. The ‘glory’ is reflective awareness (or ‘representation’) and its ‘possessor’ is the Light of consciousness (‘manifestation’).
 
@@ -196,7 +196,7 @@ conscious nature.[^289] (101-104) (100cd-104ab)
 
 [^287]: Abhinava is commenting here on MV 11/35cd, which he quotes below in TĀ 5/108ab (107cd) and in TĀ 20/13cd: ‘(The signs) are joy, an upward leap, trembling, sleep and rolling of the eyes (ghūrni), which is the fifth.’ MV 11/34cd-35 is quoted in TĀ ad 5/108 (107cd-108ab). See note there.
 
-[^288]: The Supreme Path is the way to attain the penetration into the Supreme Reality taught in the previous verses. \[illegible\]
+[^288]: The Supreme Path is the way to attain the penetration into the Supreme Reality taught in the previous verses.
 
 [^289]: TĀ 5/101cd-104 corresponds to MVV 2/57-60: tad atra bhāvanā dehagatopāyaiḥ pare sati | yadaiṣa pravivikṣuḥ syād yogī tāvat prakampate ॥ 57 ॥ pūrvajanmaśatābhyastadehatādātmyaniścayaḥ | jalapāṁsuvad ekatvaṁń manvānaś ciccharīrayoḥ ॥ 58 ॥ bhedākhyamāyārahite paripūrṇacidātmani | praviśet prathamami t svabalākramanakramāt || 59 I| bhaved adyā(nnidrā)sya sā dehāveśaśaithilyadāyinī | kamprarūpaiva yāvan no rūdhir jātā parātmani | 60 ॥ ‘The yogi who desires to enter the Supreme Path (and practice) the meditation (bhāvanā) (taught) here by bodily means trembles to that degree. (57)
 
@@ -314,7 +314,7 @@ The Great Pervasion[^301] comes about when first the (notion) of Self in what is
 
 [^298]: ĪP 3/2/4. Also quoted above ad 1/23 and below ad 9/62. See note there. ĪP 3/2/4d is quoted ad 9/93cd-95ab.
 
-[^299]: The texts often refer, as in this case, to the Impurity of the individual soul (āṇavamala) as simply ‘Impurity’ (mala). \[illegible\]
+[^299]: The texts often refer, as in this case, to the Impurity of the individual soul (āṇavamala) as simply ‘Impurity’ (mala).
 
 [^300]: SvT 3/176ab. It is also quoted above ad 1/23 (see note there) and below in TĀv ad 9/88cd-89ab and ad 13/49.
 
@@ -514,7 +514,7 @@ Well then, why is it called in this way? With this question in mind, he says:
 अत्र विश्वमिदं लीनमुत्रान्त -स्थं च गम्यते ।
 इदं तल्लक्षणं पूर्णशक्तिभैरवसंविदः ॥ ११४ ॥
 
-atra vivam idaṁ līnam atrāntahsthaṁ ca \[illegible\] \[illegible\] |
+atra vivam idaṁ līnam atrāntahsthaṁ ca gamyate |
 idar tallakṣaṇar pūrnaśaktibhairavasaṁvidaḥ ॥ 114 ॥ 
 
 Herein this universe merges (lna), and here within it, it is perceived (gamyate).[^317] Such is the sign of Bhairava-consciousness in the fullness of its 
@@ -572,7 +572,7 @@ is the point, that (only) a Mantra that rests on this plane is capable of giving
 
 [^321]: I have followed Jayaratha’s explanation. Another possible (and perhaps better?) translation could be: ‘Its objectivity (idahbhāva) is in a state of expansion, shrouded in the subjectivity (ahantācchādita) (of pure consciousness).’
 
-[^322]: Śiva, who is pure ‘I’ consciousness is the unmanifest Liṅga. The plane of the manifest-cum-unmanifest Liṅga is both that of Power, which predominates there, and Man. \[illegible\]
+[^322]: Śiva, who is pure ‘I’ consciousness is the unmanifest Liṅga. The plane of the manifest-cum-unmanifest Liṅga is both that of Power, which predominates there, and Man.
 
 [^323]: The manifest aspect is objectivity, and the unmanifest, subjectivity. At the level of the principle of Pure Knowledge, the two shine at the same level, like the pans of an evenly balanced balance, as the experience ‘I am (all) this (objective world) and (all) this (objective world) is me.’ As Jayaratha points out, in this state of consciousness, subjectivity is embodied. Even so, the ignorance which mistakenly identifies subjectivity with the body has been overcome, and its essentially disembodied spiritual identity has come to the fore. This is the empowered level of consciousness, from which Mantras draw their vitality and power.
 

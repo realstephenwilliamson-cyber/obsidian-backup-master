@@ -186,7 +186,7 @@ Thus, the reason why this group of four (letters) is called semivowels (antahsth
 
 #### Viveka on 3.158
 
-‘Thus’, for the aforementioned reason, the word \[illegible\][^512] (in the expression) ‘the will etc.’ refers to Expansion (U) (which is the power of knowledge), because (the semivowels are contained) within (antar) (the powers of) the will and Expansion, as they are in a state of oneness (within them), and (so) in the same way, (the semivowels are at one) within themselves (that is, with each other), because their one (common) nature is the perceiver. (This is the final) and proper ‘conclusion’, that is, (their) manifestation as one (ekātmyena). (That is their) ‘abiding state’ there, because they abide at one with the perceiver. Thus, the four (semivowels) beginning with Y and ending with V (i.e. Y, R, L and V) are called ‘antahstha’ (‘abiding within’) in this way all the texts.[^513] This is the meaning. As is said: 
+‘Thus’, for the aforementioned reason, the word ‘etc.’[^512] (in the expression) ‘the will etc.’ refers to Expansion (U) (which is the power of knowledge), because (the semivowels are contained) within (antar) (the powers of) the will and Expansion, as they are in a state of oneness (within them), and (so) in the same way, (the semivowels are at one) within themselves (that is, with each other), because their one (common) nature is the perceiver. (This is the final) and proper ‘conclusion’, that is, (their) manifestation as one (ekātmyena). (That is their) ‘abiding state’ there, because they abide at one with the perceiver. Thus, the four (semivowels) beginning with Y and ending with V (i.e. Y, R, L and V) are called ‘antahstha’ (‘abiding within’) in this way all the texts.[^513] This is the meaning. As is said: 
 
 [^510]: He is explaining the emergence of V = Water. Note that these are not the gross elements. They are the elements reflected in Puruga, the individual soul.
 
@@ -451,7 +451,7 @@ saktiśaktimadaikātmyalabdhānvarthābhidhānake |
 kākacañcupuṭākāraṁ dhyānadhāraṇavarjitam ॥ 169 ॥
 viṣatattvam anackākhyaṁ tava snehāt prakāśitam | 
 
-The Lord Himself has said that in the venerable Kulagahvara,[^542] which is so called in agreement with its meaning, derived from the oneness of power (kula) and its possessor (gahvara).[^543] “Out of love for You (O goddess), the Principle of Poison (viṣatattva), (which is Unstruck Sound, otherwise) called Devoid of Vowels (anacka), has been revealed. Its form is that of the Cavity of the Beak of a Crow,[^544] and it is devoid of visualization (dhyāna) and meditative support \[illegible\][^545] (168cd-170ab) (168-169) 
+The Lord Himself has said that in the venerable Kulagahvara,[^542] which is so called in agreement with its meaning, derived from the oneness of power (kula) and its possessor (gahvara).[^543] “Out of love for You (O goddess), the Principle of Poison (viṣatattva), (which is Unstruck Sound, otherwise) called Devoid of Vowels (anacka), has been revealed. Its form is that of the Cavity of the Beak of a Crow,[^544] and it is devoid of visualization (dhyāna) and meditative support (dhāraṇa).”[^545] (168cd-170ab) (168-169) 
 
 #### Viveka on 3.168–169
 
@@ -680,7 +680,7 @@ that that which is not the Self (i.e. the body etc.) is the Self.[^572] This is 
 
 ‘If one perceives (the reality which is) void, devoid of support, free of meditation (dhyāna) and concentration (dhāraṇa), sustaining all the (energies of the) letters (in the manifest state) and peaceful, devoid of all the letters (in the unmanifest state), just consciousness alone, pure, the antidote to poison, (and perceives) neither ‘this’ nor ‘T (but everything) only as (pure) Being alone (bhāvamātrena), (then) no poison, no (malevolent) planet, no sin, no Yakṣa, Rakṣasa, Piśāca or other (demons can do any harm). 
 
-Surely (one may ask,) it was said previously that (once) the will (icchā) is stained by the object of desire no subsequent disturbance is possible, and so by such statements as ‘this is not the seed of anything’,[^573] (this state of the will) was termed ‘neuter’ (as the forms of reflective awareness represented by the vowels r R 1 Ḷ). (However,) further ahead here (we read that): ‘that (same power of the will) said to be sullied by the object of knowledge etc.’[^574] and ‘(one type of the will) obtains (its) object fleetingly \[illegible\] . , .'[^575] and ‘(the form of the will) is coloured by an object of desire (iṣtavya).’[^576] Such statements also declare that a subsequent disturbance (that arises) from the neuter letters does exist, so how can one establish (and consistently maintain) that they are neuter (and hence cannot give rise to subsequent developments), as stated previously?[^577] He resolves this doubt by saying: 
+Surely (one may ask,) it was said previously that (once) the will (icchā) is stained by the object of desire no subsequent disturbance is possible, and so by such statements as ‘this is not the seed of anything’,[^573] (this state of the will) was termed ‘neuter’ (as the forms of reflective awareness represented by the vowels r R 1 Ḷ). (However,) further ahead here (we read that): ‘that (same power of the will) said to be sullied by the object of knowledge etc.’[^574] and ‘(one type of the will) obtains (its) object fleetingly (śīghra) . , .'[^575] and ‘(the form of the will) is coloured by an object of desire (iṣtavya).’[^576] Such statements also declare that a subsequent disturbance (that arises) from the neuter letters does exist, so how can one establish (and consistently maintain) that they are neuter (and hence cannot give rise to subsequent developments), as stated previously?[^577] He resolves this doubt by saying: 
 
 ### TĀ 3.175–177
 
@@ -759,7 +759,7 @@ Having discussed this (matter) by the way, he goes on to talk about the main sub
 ऊष्पेति कथितं नाम भैरवेणामलात्मना ।
 
 etadvarṇacatuṣkasya svoṣmanābhāsanāvaśāt || 179 ॥
-\[illegible\] kathitam nāma bhairaveṇnāmalātmanā | 
+ūṣmeti kathitam nāma bhairaveṇnāmalātmanā | 
 
 Bhairava, the immaculate, has called this group of four letters (Ś, 5, S and H) ‘hot’ (ñṣman),[^582] because it is made manifest by its own (inner) heat. (179cd-180ab) (179) 
 

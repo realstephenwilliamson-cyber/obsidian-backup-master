@@ -656,7 +656,7 @@ iti
 tattattattvādhiṣthātRṇām |
 mahādīptam iti śuddhādhva-vartyaśeṣamantratejomayatvāt |
 puṣkarāṇi bījāni |
-vidyeśvarāḥ ananta-bhaṭṭārakādyāh śikhandyantāḥ | \[illegible\] kandanālagranthidalakarṇikābījarūpath saduttham āsanar prasiddham ॥ 59 ॥ 
+vidyeśvarāḥ ananta-bhaṭṭārakādyāh śikhandyantāḥ | evaṁ kandanālagranthidalakarṇikābījarūpath saduttham āsanar prasiddham ॥ 59 ॥ 
 
 (The diction) ‘one should imagine’ follows (each item listed). ‘Energy’ is the will of the Supreme Goddess who is the foundation (ādhāra) within which this universe is sustained and, as will be explained, her ‘form is the Sky’ and so encompasses within herself the four principles (that is. the Great Elements), Earth and the rest. As is said in the Mālinīvijayottara: 
 
@@ -1413,7 +1413,7 @@ HRĪM / KHPHREM[^966] MAHĀCAṆDAYOGEŚVARI ṬTHR DHR TṬHR PHAṬ
 
 PHAT PHAT PHAT PHAṬ 
 
-[^961]: ayar pathadvaye kālaḥ sthūlaś carati yoginām | savyāpasavye madhye ca śaktitrayavibhūṣitaḥ \\\\ sā graset trividhaṁ kālaṁ kālasaṁkarṣiṇī tathā” \\ iti kālasaṁkarṣiṇīnāmnā kālarṁṁ mukhabile sthitam \\ śvāsanihśvāsakalanī tasya saṁkarṣaṇnari hṛdi || pūrakeṇa samantāt tu kumbhakena ca dhārayet | recakenotthitā devī kāla sańgrasate \[illegible\] \\\\ iti icchāśaktiḥ parānāmnā śaktitritayabodhinī | yājyā karṣayate sarvan kālādhāraprabhañjanam ||
+[^961]: ayar pathadvaye kālaḥ sthūlaś carati yoginām | savyāpasavye madhye ca śaktitrayavibhūṣitaḥ \\\\ sā graset trividhaṁ kālaṁ kālasaṁkarṣiṇī tathā” \\ iti kālasaṁkarṣiṇīnāmnā kālarṁṁ mukhabile sthitam \\ śvāsanihśvāsakalanī tasya saṁkarṣaṇnari hṛdi || pūrakeṇa samantāt tu kumbhakena ca dhārayet | recakenotthitā devī kāla sańgrasate kṣaṇāt \\\\ iti icchāśaktiḥ parānāmnā śaktitritayabodhinī | yājyā karṣayate sarvan kālādhāraprabhañjanam ||
 
 [^962]: See TĀv 29/69-70ab.
 
@@ -1442,7 +1442,7 @@ CANṆNDADUHKHAVIMOCANI
 
 SARVASAMAYALOPA- 
 
-VIGHĀTANI TEJOVATI (TEJOMAYI) AMRTAMŪRTE ASIDDHA-SĀDHANI SIDDHIRDDHIPRADE NĀŚAYA SARVADOṢĀN ABHI-MATAM ME PRAYACCHA SARVE SARVAGE ARŪPE SARVARŪPE \[illegible\] \[illegible\] | KHPHREM PHATṬ | HŪM KROM KṢĀM SARVA- 
+VIGHĀTANI TEJOVATI (TEJOMAYI) AMRTAMŪRTE ASIDDHA-SĀDHANI SIDDHIRDDHIPRADE NĀŚAYA SARVADOṢĀN ABHI-MATAM ME PRAYACCHA SARVE SARVAGE ARŪPE SARVARŪPE HRĪṀ PHAṬ | KHPHREM PHATṬ | HŪM KROM KṢĀM SARVA- 
 
 VIDYEŚVARI PHAṬṬ SVĀHĀ | 
 
@@ -1526,7 +1526,7 @@ The Six Purifying Baths
 tataḥ snātvā jitadvandvo bhāvasnānena mantravit |
 tacca ṣadvidhamuddiṣtaṁ bhasmasnānādyanukramāt || 4 || 
 
-[^971]\[illegible\] the knower of mantra who has conquered the opposites, should bathe with the bath of mental states (bhāvasnāna), and that is taught as being of six kinds, beginning with the bath in ashes, in due order. (4) 
+[^971]Then, the knower of mantra who has conquered the opposites, should bathe with the bath of mental states (bhāvasnāna), and that is taught as being of six kinds, beginning with the bath in ashes, in due order. (4) 
 
 भस्मस्नाने महासखरेण भस्म सप्ताभिमन्रितम् |
 bhasmasnāne mahāstreṇa bhasma saptābhimantritam | 
@@ -1692,9 +1692,9 @@ Navātman, Limbs and Faces
 vidyāmūrtiṁ tato dadhyānmantrenānena śāṁkari |
 dandākrāntaḥ mahāprāṇnari dandārūdharni sanābhikam I| 21 ॥
 nitambaṁ tadadhastācca vāmastanamadhaḥ punaḥ |
-\[illegible\] ca vāmaśikharaṁn vāmamudrāvibhūṣitam ॥ 22 I|
+kaṇṭhaṁ ca vāmaśikharaṁn vāmamudrāvibhūṣitam ॥ 22 I|
 bindvardhacandrakhaṁ nādaśaktibinduvibhūṣitam |
-\[illegible\] pindavaro devi navātmaka iti śrutaḥ ॥ 23 ॥
+eṣa pindavaro devi navātmaka iti śrutaḥ ॥ 23 ॥
 sarvasiddhikaraścāyamṁi sarahasyamudāhṛtaḥ | 
 
 He should then add the Vidyāmūrti[^988] by means of the (following) Mantra. The great vital breath (H) preceded and followed (ākrānta) by the staff (R), the navel (KṢ), the hip (M), the left breast (L), the neck (V), the left part of the back (Y) adorned with ornament of the left (ear) (Ū) and (then) the Void of the Point and the Half Moon adorned with Sound (nāda) and Śakti’s Point 

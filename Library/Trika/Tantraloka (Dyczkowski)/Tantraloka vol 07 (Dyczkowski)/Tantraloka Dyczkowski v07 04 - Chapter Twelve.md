@@ -312,7 +312,7 @@ The external ‘sacrificial substances’ are wine and the rest (offered in Kaul
 अविधिज्ञो विधिजञरेत्येवमादि सुविस्तरम् ।
 
 kalpanāśuddhisandhyāder nopayogo ‘tra kaścana |
-\[illegible\] śrītrikasūtre ca jāyate yajanami prati || 15 ॥
+uktaṁ śrītrikasūtre ca jāyate yajanami prati || 15 ॥
 avidhijño vidhijñaś cety evamādi suvistaram | 
 
 Visualization (kalpanā), purifying rites (śuddhi), daily ritual ablution (sarṛidhyā), and the like are of no use here whatsoever. This has been extensively explained in the venerable Trikasūtra (i.e. the Parātrīśikā) (where it is written): ‘One who does not know procedure regarding the sacrificial rite becomes one who does’ etc.[^246] (15-16ab) 

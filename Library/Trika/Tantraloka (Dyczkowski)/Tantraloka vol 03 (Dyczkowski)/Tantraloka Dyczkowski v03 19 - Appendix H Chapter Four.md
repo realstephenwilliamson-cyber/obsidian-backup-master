@@ -339,7 +339,7 @@ Perpetually sustained by Khecarī, pure and free of limitations, they are said t
 The Wheel of Bliss (Ānandacakra) 
 
 indoḥ ṣodaśasarikhyākāḥ kalā amṛtavigrahāḥ || 58 ॥
-\[illegible\] tā eva samāśritya koṁkanāmbādināmataḥ |
+yās tā eva samāśritya koṁkanāmbādināmataḥ |
 prodito (-tā) raśmivibhavaḥ svasvarūpaikagocaraḥ (-rūpika-) | 59 ॥
 icchāvikṣobhaparyante rājate nirniketanaḥ (nirṇīketanaḥ) | 
 
@@ -1269,7 +1269,7 @@ The Lord of the Sacred Seat, who is the supreme and perpetual arising of the nin
 
 sa eva deśikavaro (-varai) rekhākarmādivarjitaḥ |
 paramandalapīthaikasvabhāvas tu nirūpitaḥ (-pite) | 243 ॥
-\[illegible\] nānārthasaṁsthānadhāmāditritayātmanā | 
+itthaṁ nānārthasaṁsthānadhāmāditritayātmanā | 
 
 He indeed is the best of teachers, described thus as the triad of the abodes (letters and consciousness), which is the configuration (saṁsthāna) of the many existing things. (But though) one with the supreme seat of mandala, he is not drawn (or fashioned in any other way). (243-244ab) 
 

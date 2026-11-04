@@ -27,7 +27,7 @@ srībhairava uvāca
 
 aprakāśyam idan gopyaṁ rahasyaṁ bhairavoditam ॥ 4 ॥
 rakṣayeta prayatnād vai yathā lokar na garhati | \[illegible\][^716] palāṇndur \[kh g: -ndar\] laśunādīni laṁvumṁśalaratarkaśā (?) | 5 ॥
-anyāni \[illegible\] a"'ngāni \[g: magāni\] vāmākusumasathyutam |
+anyāni teṣām a"'ngāni \[g: magāni\] vāmākusumasathyutam |
 dravyāṇy etāni subhage śaśyante kulamārgake \[kh: kulamā \* \*; g: -ko\] \\\\ 6 ॥
 147a) śivāmbu \[g: -buṁṁ\] ca surā raktaṁ mahātailaḥ ca sīdhukam \[k: mahyatailasodhakam\] |[^717] 
 
@@ -60,7 +60,7 @@ ete \[kh: nāsti\] caiva \[kh: nāsti\] mahāpīṭhasamudbhūtāḥ \[k g: mah�
 taiḥ sarvair \[kh: sarven\] dravyajātīnām \[g:?\] parānām \[k: trapareṣāṁ; g:?\] pariyojitāḥ \[kh: yairniyo-; g:?\] ॥ 11 ॥
 bhojane tatvayuktānām dūtīnām taiś ca sarṁṁyutam |
 evar saṁcārayogena \[kh: saṁsāra-\] pūjā vaiśeṣikī \[g:?\] smṛtā \[g:?\] ॥ 12 ॥
-nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] \[illegible\] \[g:?\] tu \[g:?\] bhavet \[g:?\] tadā \[g:?\] (> \[illegible\] | 
+nihśahkācāramārgenṇa \[kh: -gena; g: nihsamkācāra \* \* \*?\] pūjanaṁ \[g:?\] tu \[g:?\] bhavet \[g:?\] tadā \[g:?\] (> \[illegible\] | 
 
 [^719]: The reading of this quarter is larṁvuṁśalaratarkaśā. It is too corrupt for me to understand.
 
@@ -101,7 +101,7 @@ tasmāt sarvaprayatnena yāgaṁ kuryāt tayā \[g: tayāḥ\] saha |
 183b g) anyathā kurute yāgaṁ sarvaṁ tasya vinaśyati || 18 || sugupte nirjane ramye vīrakṣetre ‘tha siddhiṣu (> siddhīcchuḥ) |
 digvāso hrīvinirmuktāś cādvaitakulapūjakāḥ \[kh: -jaka; g: -ścā \* \* \* \*?\][^726] ॥ 19
 ॥
-parasparaṁ yajed dehau [k: deho kh: dehaḥ\] khānapānādisevitau |
+parasparaṁ yajed dehau \[k: deho kh: dehaḥ\] khānapānādisevitau |
 147b) parasparam tu ratinau kundagolādisaṁyutau \[kh: -tāḥ\] | 20 ॥
 mīnamaṇndūkasariyuktau bhoktārau ca parasparam |
 vaktrād vaktreṣu (> vaktre tu) yojyantau bhojanaṁ pānacumbanam || 21 || [^727] 
@@ -164,7 +164,7 @@ He who is the creator and destroyer in (this) world, bestows the secret of his o
 129a kh) melāpakaṁ tu devīnām dahed \[k, kh: dehed-\] dhūparīi punaḥ punaḥ |
 yatra sthāne bhaved dravyaṁ nirbhayaṁ \[kh g: nirṇayari\] tatra ca bhavet ॥ 37
 ॥
-laśunasya (€ -ṇasya\] palāṇdor vā \[kh: palāmdo vāṁ] surāmadyasya bhairavi |
+laśunasya (€ -ṇasya\] palāṇdor vā \[kh: palāmdo vāṁ\] surāmadyasya bhairavi |
 matsyamāṁsaniyuktasya \[k, kh, g; -mārsāhi-\] tatra krīdanti devatāḥ ॥ 38 ॥
 mātaraḥ khecarī sarvā \[g: sarvāḥ\] bhūcarī siddhim icchātaḥ \[k, kh: -tā\] |
 kulakaulodayaṁ tatra yatrasthā tu kulāṅganā \[g: -nāḥ\] ॥ 39 ॥ 
@@ -217,7 +217,7 @@ A sacrificial substance (should) not be made without the (proper) procedure and 
 brāhmane vidhiyuktyā tu yajñe sautrāmanau smṛtam |
 vaiṣnave siṁhacakre ca grāhyaṁ nihśeṣakami \[g: nih \* ṣakar\] rasam ॥ 49 ॥ teṣu bhāvavihīnā \[K: bhāve-\] ye te mūdhāḥ paśavaḥ smṛtāḥ \[g: -tā\] |
 185b g) nindanti \[k: nińdasi\] parama dravyaṁ cakṣurnāsābahiṣkṛtam || 50 ||
-\[illegible\] tenaiva doṣeṇa ajñatvam upajāyate |
+tadā tenaiva doṣeṇa ajñatvam upajāyate |
 yāvaj janmasahasrāni\[k: yāvaddhāś ca (?), kh g: yāvajanma\] āyātāni punaḥ punaḥ ॥ 51 ॥ 
 
 *[p. 394]* ^pg416
@@ -287,7 +287,7 @@ The lunar digit of the New Moon (amā) is located within the Door of Brahmā. Th
 
 karpūrāgurugandhāni mṛgajāni viśeṣataḥ |
 pītamātreṇa deveśi kiṁ punar martracetasā || 81 || divyadeho ‘pi tṛptātmā dagdhabījaḥ \[g: -jo\] punar bhavet |
-aṣṭādaśavidhaḥ kuṇdari \[kh g: kuṣṭhaṁ] jvararogaharādikam \[k, kh, g: - garādikam\] ॥ 82 ॥
+aṣṭādaśavidhaḥ kuṇdari \[kh g: kuṣṭhaṁ\] jvararogaharādikam \[k, kh, g: - garādikam\] ॥ 82 ॥
 viṣāṁś \[k kh: viṣāś\] ca vividhān ghorāṁś cakṣurogān anekaśaḥ |
 187b g) pītamātreṇa deveśi sarvasiddhyāruho bhavet || 83 ॥ 
 
@@ -375,7 +375,7 @@ You have imparted (the teaching concerning) the Solitary Hero. (But) mantra has 
 150b) śrībhairava uvāca 
 
 śṛnusvaikamanā bhadre \[kh g: śṛnuṣveka-\] akathyaṁ kathayāmi te |
-\[illegible\] sā kundalinī nāma guptasthā sā \[kh: yā\] ca nityaśaḥ ॥ 103 ॥
+yā sā kundalinī nāma guptasthā sā \[kh: yā\] ca nityaśaḥ ॥ 103 ॥
 svetaraktanibhākārā śravantī yonimadhyagā \[k kh g: -ge\] |
 medhravāhā kharandhrenṇa sādhakasya sthitā tu yā ॥ 104 ॥ tasyā devātideveśyā martro ‘yarn kathayāmi te |
 anākhyeyari paraḥ kaulaṁ kulasārasya nirṇayam || 105 ॥
@@ -982,7 +982,7 @@ tathārūpatvādṛṣṭteḥ, nāpy ekaikasyeśecchāhetutvam, vairāgyādeḥ
 
 If the cause of their arising also is the Lord’s will, (then) they depend on one another. (In other words, the good qualities said to be the cause of grace are due to the Lord’s will; at the same time, those qualities themselves depend on grace for their existence). It is not possible to state another cause because that too is not regulated (by a causal or other such fixed determined relationship). Nor are these all (together) causes of the Lord’s will (to grace), because one does not see that that is the nature of those for whom a descent of the power (of grace) has taken place (i.e. they do not possess all these qualities). Nor is it (the case) that each single one is a cause, for one sees that (even sincere devotees commit) hundreds of transgressions of dispassion and the rest. (Moreover,) worship of the Supreme Lord and knowledge (of his sovereignty) etc. are preceded by the maturing of Impurity. It is not sound (to maintain that) they impel the Lord’s will. 
 
-yat punar anyad uktam - \[illegible\] mukteḥ kramikatvaṁ dṛṣtvā īśecchāyā api malaparipāka-hetutvaṁ kramikam anumīyate, yathā bhogasya kramāt 
+yat punar anyad uktam - puṁsāṁ mukteḥ kramikatvaṁ dṛṣtvā īśecchāyā api malaparipāka-hetutvaṁ kramikam anumīyate, yathā bhogasya kramāt 
 
 taddhetukarmaparipākahetutvam kramikam iti, tad asat, mukteḥ kramo 
 

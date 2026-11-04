@@ -51,7 +51,7 @@ E) (The Force called Beyond Quiescence (śāntātītā) (contains) the sixteen (
 
 *[p. 51]* ^pg71
 
-(they are both) pervasive, and as such, they are considered to be two principles (although pervading each other, they are essentially one).[^108] It is said with the same intended (sense) in the Mālinīvijayottara that ‘this deposition (nyāsa) is said to be (done) in accord with the division (bheda) into thirty-six principles.’[^109] Again, within the One Beyond the Tranquil \[illegible\] no worlds are possible, and so there is no teaching here (concerning them). As was said (previously): ‘(the force) Beyond the Tranquil One has no worlds.’[^110] Taking this (Tantra) to be one's authority, one should consider the divisions of pada and phoneme in the same way (to be void of content at this level). 
+(they are both) pervasive, and as such, they are considered to be two principles (although pervading each other, they are essentially one).[^108] It is said with the same intended (sense) in the Mālinīvijayottara that ‘this deposition (nyāsa) is said to be (done) in accord with the division (bheda) into thirty-six principles.’[^109] Again, within the One Beyond the Tranquil (śāntātītā) no worlds are possible, and so there is no teaching here (concerning them). As was said (previously): ‘(the force) Beyond the Tranquil One has no worlds.’[^110] Taking this (Tantra) to be one's authority, one should consider the divisions of pada and phoneme in the same way (to be void of content at this level). 
 
 In brief, the six-fold Path consists in this way of one hundred and eighteen worlds, thirty-six principles, five Forces, ten padas, and the same number of Mantras, along with the fifty phonemes. That is said (in the Mālinīvijayottara): 
 
@@ -863,7 +863,7 @@ the like.’[^174]
 
 6\) ‘(Then) it is (finally definitively) removed (nirāsa).’ (The soul) is removed from (all further worldly) experience. (This is the soul’s) disjunction (viśleṣa) (from it). It is the absence of (the soul’s fettered) state as the worldly experiencing subject (bhoktṛtva); that is, the absence of (any) relationship with worldly experiences. As is said (in the Svacchandatantra): 
 
-‘Separation (viśleṣa) from (all) worldly experience is the cessation (of Karma) (niṣkṛti),[^175] \[illegible\] is said to take place because there is no (more) worldly experience (for the experiencing subject (bhoktr)).’[^176] 
+‘Separation (viśleṣa) from (all) worldly experience is the cessation (of Karma) (niṣkṛti),[^175] which is said to take place because there is no (more) worldly experience (for the experiencing subject (bhoktr)).’[^176] 
 
 There is no intention here (in this case) to talk about the sequence (of the ritual procedure through which these processes take place), because all that is intended is to define the pure nature (of the soul). Thus, they are defined in this 
 
@@ -1331,7 +1331,7 @@ Surely (one may ask), if birth and death do not exist, how could this situation 
 ### TĀ 11.104
 
 परेहसंविदामात्रं परलोकेटलोकते ।। १०४ ॥।
-parehasaṁvidāmātrari paralokeha \[illegible\][^213] | 104 | 
+parehasaṁvidāmātrari paralokeha lokate[^213] | 104 | 
 
 It is only the notions (we have) of ‘here’ and ‘elsewhere’ that become this world and the next. (104cd) (104ab) 
 
@@ -1409,7 +1409,7 @@ He says that:
 
 *[p. 93]* ^pg113
 
-tasmāt pratītir evetthaṁ kartrī dhartrī ca sā[^218] \[illegible\] | 107 ॥
+tasmāt pratītir evetthaṁ kartrī dhartrī ca sā[^218] śivaḥ | 107 ॥
 tato bhāvās tatra bhāvāḥ śaktir ādhārikā tataḥ[^219] | 
 
 Thus, intuitive awareness (pratīti)[^220] alone is in this way the sustaining and creative (energy). And that is (one with) Śiva. Existing things (bhāva) (come forth) from that and (subsist) there. Thus Śakti is the sustaining (ground) (ādhārikā) (of all things). (107cd-108ab) (107) 
@@ -1595,7 +1595,7 @@ He (now) concludes the main point.
 
 tad ittha parameśāno viśvarūpaḥ pragīyate | 116 ॥
 na tu bhinnasya kasyāpi dharāder upapannatā |
-\[illegible\] caitat puraiveti na bhūyaḥ pravivicyate ॥ 117 ॥
+uktaṁ caitat puraiveti na bhūyaḥ pravivicyate ॥ 117 ॥
 bhūyobhiś cāpi bāhyārthadūṣaṇaiḥ pravyaramyata[^232] | 
 
 [^231]: TĀ 11/115cd-116ab = MVV 1/1059. MVV reads sa parameśvaraḥ for so ‘smatprabhuḥ śivaḥ.

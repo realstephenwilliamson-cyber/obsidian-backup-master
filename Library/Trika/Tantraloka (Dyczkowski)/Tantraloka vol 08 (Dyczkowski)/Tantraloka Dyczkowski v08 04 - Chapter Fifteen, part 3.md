@@ -354,7 +354,7 @@ saṁskṛtyai svecchayā kuryāt prāṁnayenātha bhūyasīm ॥ 144 ॥
 mumukṣur atha tasmai vā yathābhīṣta samācaret |
 sivatāpattir evārtho hy eṣāṁnṁ nyāsādikarmaṇām ॥ 145 ॥ 
 
-[^260]\[illegible\] He who aspires to attain accomplishments (siddhi) by ritual action, as well as 1b) he who has no (such) desire, should perform the rite (of deposition) in its extensive form (bhūyasīṁn kriyām),[^261] so that (the goddess) may (bestow on) him (her) own fruits in abundance. 2a) He who desires (to attain) accomplishments by the continuous practice of meditation and the repetition (of Mantras) may perform the rite (of deposition); however (in that case, it only serves as an empowering) purification. (The depositions) can be done, as one pleases, either in an abbreviated or extensive form, as explained above. 2b) Now, he who aspires to liberation (by practicing meditation) may (optionally) perform (the depositions) as he pleases for that (purpose). (At any rate, the ultimate) goal (for him) of (all) these rites (karman), including the depositions, is to attain Śiva’s state. (143-145) 
+[^260]1a) He who aspires to attain accomplishments (siddhi) by ritual action, as well as 1b) he who has no (such) desire, should perform the rite (of deposition) in its extensive form (bhūyasīṁn kriyām),[^261] so that (the goddess) may (bestow on) him (her) own fruits in abundance. 2a) He who desires (to attain) accomplishments by the continuous practice of meditation and the repetition (of Mantras) may perform the rite (of deposition); however (in that case, it only serves as an empowering) purification. (The depositions) can be done, as one pleases, either in an abbreviated or extensive form, as explained above. 2b) Now, he who aspires to liberation (by practicing meditation) may (optionally) perform (the depositions) as he pleases for that (purpose). (At any rate, the ultimate) goal (for him) of (all) these rites (karman), including the depositions, is to attain Śiva’s state. (143-145) 
 
 #### Viveka on 15.143–145
 
@@ -396,7 +396,7 @@ The Articulation of Ritual Action
 यतः समस्तभावानां शिवात्सिद्धिमयादथो ।
 पूणीदव्यतिरेकित्वं कारकाणामिहार्चया ।। १४७ ॥
 
-yataḥ samastabhāvānār śivāt siddhimayād \[illegible\] |
+yataḥ samastabhāvānār śivāt siddhimayād anatho |
 pūrṇād avyatirekitvaṁ kārakāṇām ihārcayā || 147 ॥ 
 
 Since here (in our view), by ritual worship (arcā) all things (are realised to be) inseparable from Śiva, (who manifests, as the case may be,) as consisting of (all possible divine) attainments (for those who aspire to worldly benefits), or as (perfectly) full (and unlimited for those who seek liberation), (the same applies) to the factors that constitute action (kāraka), (each expressed by its own grammatical function, that work together to execute the action expressed by a verb).[^262] 

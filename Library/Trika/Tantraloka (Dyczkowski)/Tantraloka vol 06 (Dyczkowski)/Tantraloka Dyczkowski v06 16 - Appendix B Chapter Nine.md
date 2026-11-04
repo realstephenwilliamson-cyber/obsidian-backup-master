@@ -66,7 +66,7 @@ The Correspondences Between the Semivowels and the Kañcukas
 
 Another context in which the sequential order of the kañcukas varies is in their association with the semivowels. The letters of the alphabet correspond to metaphysical principles (zattva). Abhinava describes this in detail in his commentaries on the Parātrīśikā and in Chapter Three of the Tantrāloka. 
 
-[^402]: sarłkocamtn gṁnānā yathākramari kalāvidyārāgakālaniyatirūpatayā bhānti | tathāvidhaś ca ayańi saktidaridraḥ saṁsārī ucyate svaśaktivikāse tu śiva eva || 9 || \[illegible\] p. 22.
+[^402]: sarłkocamtn gṁnānā yathākramari kalāvidyārāgakālaniyatirūpatayā bhānti | tathāvidhaś ca ayańi saktidaridraḥ saṁsārī ucyate svaśaktivikāse tu śiva eva || 9 || PrHṛ p. 22.
 
 [^403]: This matter is discussed in Dīkṣottara IFP T 17 pp. 994-995.
 

@@ -246,7 +246,7 @@ Kaulinī śakti (is the inscrutable Anākhyā, she) is not Kula (the Twelve Kāl
 Niṣkriyānanda and His Sexual Yoga 
 
 sṛstiḥ \[all: sṛṣtis\] sarvagatasyaiva samhārari kathayāmi te ॥ 174 ॥ rasenānandajami (> rasanā-) rūpaṁ yadā \[g: padā; gh: yādā\] grāhyena \[gh: grā \* na\] gṛhyate |
-\[illegible\] \[all: yadā\] pratyastamas tatra sa ca taṁ vṛttigocaram \[k: vrrtti-; kh: vṛttiṁ-\] ॥ 175 ॥
+tadā \[all: yadā\] pratyastamas tatra sa ca taṁ vṛttigocaram \[k: vrrtti-; kh: vṛttiṁ-\] ॥ 175 ॥
 9 kh) 
 
 40ag 
@@ -317,7 +317,7 @@ karoti
 
 \[gh: 
 
-kaloti\] bhaktim [all: bhakti\] yogīndro \[gh: yogrīndro\] 
+kaloti\] bhaktim \[all: bhakti\] yogīndro \[gh: yogrīndro\] 
 
 bhaktiḥ \[all: bhaktis\] tīvratarāṁ \[illegible\] -rāḷ\] divyāṁ fall: divyāḷ\] kṛtvā śāvararūpadhṛk \[k kh gh: sāvara-; g: sāva Kalikakrama rūpadhṛk\] |
 tasya 
@@ -545,7 +545,7 @@ Absorbing (into himself ~ ākṛṣya) the juice (rasa) of the root of the Void,
 He who contemplates the Kālīkrama, having become one (samarasa) in this way, the aeon (kalpa) is conceived within the aeon. It is conceived (vikalpita) by the conception (kalpa) of Kula (the Twelve Kālīs). (223-225ab) 
 
 23a k) kālicakram abhedam ca uditāvyaktamandalam || 225 ॥
-sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: śūnya] tricaitanyar \[all: -tanya\] layar gatam \[all: -gataḥ\] | (37) 
+sthūlar \[all: sthūla\] sūkṣmaṁ tathā śūnyaṁ \[gh: śūnya\] tricaitanyar \[all: -tanya\] layar gatam \[all: -gataḥ\] | (37) 
 
 2la kh) tatra dhāmoditā kācid viśvākhyā \[k gh: visvākhya; kh: -khya\] sumarīcinī || 226 ॥
 bindunādakṣaye kṣīne sthāne citpadamandale | (38) 
@@ -620,7 +620,7 @@ vimārgena) haṭthakramam anuttamam fall: hathākramya-\] | (47)
 That radiant energy (tejas) is universal destruction. It is the voracious one who consumes (grāsa) that energy. The Process of Forceful (enlightenment) (hatṭhakrama) with its many divisions is the most excellent (anuttama). (47) (234cd-236ab) 
 
 karoti kramiko yogī sa \[all: sad\] yogī \[k: yaugī\] yoginīpriyaḥ \[k kh: -priye; gh: priyeḥ\] ॥ 236 ॥
-23b k) khapakṣabhakṣiṇī \[illegible\] - kṣanī\] bhakṣyalakṣakṣīṇā \[all: bhakṣa-\] sulakṣanā fall: kṣalakṣagaḥ\] | (48) 
+23b k) khapakṣabhakṣiṇī \[all: - kṣanī\] bhakṣyalakṣakṣīṇā \[all: bhakṣa-\] sulakṣanā fall: kṣalakṣagaḥ\] | (48) 
 
 sphuratghūrmigatānandanityoditavijṛmbhitam 
 

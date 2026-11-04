@@ -75,7 +75,7 @@ The Drawing and Worship of the Triple Trident mandala
 तस्माद्यथा तथा यागं यावच्चक्रेण संमतम् ।
 पूजयेद्येन तेनात्र त्रिशुठत्रयमालिखेत् ॥ ५ ॥।
 
-tasmād yathā tathā yāgaṁ yāvac cakreṇa \[illegible\] |
+tasmād yathā tathā yāgaṁ yāvac cakreṇa saṁmatam |
 pūjayed yena tenātra triíūlatrayam ālikhet ॥ 5 ॥ 
 
 Thus, whatever[^6] (kind of) sacrifice (it may be), and the mandala (cakra) that is considered to be (the most appropriate for it)[^7] (samata), by means of which one worships, here (in this case, the teacher) should draw (the mandala) with three tridents along with it (tena). (5) 
@@ -179,7 +179,7 @@ In order to explain the location (and condition) of the three goddesses with (th
 
 madhyaśüle madhyagaḥ syāt sadbhāvaḥ parayā saha ॥ 12 ॥
 vāme cāparayā sākaṁ navātmā dakṣagaṁ param |
-\[illegible\] dakṣine madhyaśṛṁgastho ratiśekharaḥ ॥ 13 ॥
+triśūle dakṣine madhyaśṛṁgastho ratiśekharaḥ ॥ 13 ॥
 syāt parāparayā sāka dakṣe bhairavasatpare |
 vāme triśūle madhyastho navātmāparayā saha || 14 ॥
 syāt pare parayā sākam vāmāre saṁś ca bhairavaḥ | 
@@ -463,7 +463,7 @@ prālabdha uktatritayasariskṛtaḥ so ‘pi dhūnayet I| 33 ॥
 kampeta prasravet stabdhaḥ pralīno vā yathottaram |
 upātto yāgasānnidhye śamitaḥ śastramārutaiḥ ॥ 34 ॥
 yojitaḥ kāraṇatyāgakramena śivayojanāt |
-nirvāpitaḥ kṛtābhyāsaguruprānamano \[illegible\] || 35 ॥
+nirvāpitaḥ kṛtābhyāsaguruprānamano ‘rpaṇāt || 35 ॥
 dakṣinenāgninā saumyakalājālavilāpanāt | 
 
 1\) The (sacrificial) animal that is ‘seen’ (dṛṣṭa) is one that has been viewed (by the officiating priest), casting (upon him) a gaze inflamed (iddha) with the rays (of consciousness). 2) The ‘sprinkled’ (prokṣita) one has only been sprinkled with drops (of the liquid) contained in the sacrificial vessel (arghapātra). 3) (The sacrificial animal that is called) a ‘witness’ (saṁdraṣtr) is one that has been shown the entire mandala after it has been properly worshipped. 4) The ‘deceived’ (prālabdha) (sacrificial animal) is one that has been purified by the three aforementioned (methods). (Depending on the type, the animal) also quakes, trembles, and gushes forth (prasravet) (urine), or else is paralysed and (falls) unconscious (pralīna), respectively. 
@@ -856,7 +856,7 @@ malatrayaviyogena śarīraṁ na prarohati |
 dharmādharmaughavicchedāc charīram cyavate kila ॥ 60 ॥
 tenaitan māraṇari noktaṁ dīkṣeyaṁ citrarūpinī |
 rūdhapāśasya yah prāṇair viyogo māranari hi tat ॥ 61 ॥
-\[illegible\] tu yojanaiva syāt paśor devāya tarpane | 
+iyaṁ tu yojanaiva syāt paśor devāya tarpane | 
 
 It is said in the venerable Mṛtyuṁjaya[^52] that once that the fetters of the sacrificial animal have been severed it is disconnected from the three impurities (mala), and so a body no longer develops (prarohati) (into which it is reborn again). (The meaning is that,) by the interruption of the current of righteous and unrighteous (action) (dharmādharma), (its soul) falls away from the body (and, dying, it is released from the cycle of transmigration). Therefore, that is not said to be killing (the animal); rather, it is a marvellous form (citrarūpinī) of initiation. ‘Killing’ refers to (a soul whose) fetters are firm, and amounts to the disconnection of (its) vital breaths (from the body). This (on the contrary) is only the conjunction of the sacrificial animal (yojana) (with the supreme reality), in order to offer libation to the deity. (59cd-62) 
 
@@ -1238,7 +1238,7 @@ Surely (one may ask), what is (the nature of) their capacity to burn up the fett
 
 sāmānyatejorūpāntarāhūtā bhuvaneśvarāḥ |
 tarpitāḥ śrāvitāś cānor nādhikāraīi pratanvate || 83 ॥
-\[illegible\] yāgāntam ahaṁ kumbhe samisthito vighnaśāntaye |
+ā yāgāntam ahaṁ kumbhe samisthito vighnaśāntaye |
 sāmānyarūpatā yena viíśeṣāpyāyakārinī || 84 ॥
 siṣyadehe ca tatpāśaśithilatvaprasiddhaye |
 sa hi svecchāvaśāt pāśān vidhunvann iva vartate || 85 ॥
@@ -1301,7 +1301,7 @@ Thus viewing (himself) in this way, (the teacher) should worship (amongst the si
 
 [^90]: See above, 16/85.
 
-[^91]: Verse 88 is a paraphrase and free interpretation of MV 9/50-5 lab: ity etat sarvam ālocya śodhyādhvānaṁ \[g: śodhyātmānam\] vicintayet | \[illegible\] yenādhvanā manirī śiṣyānāṁ kartum icchati ॥ 50 ॥ tatraivālocayet sarvaṁ yāyāt padam anāmayam | “Thus, having viewed all that (in this way), (the teacher) should think about the path which is to be purified, by means of which the officiant (mantrin) wishes to impart initiation to (bis) disciples. He should view everything there itself, so that it may go to the plane free (of all) disease (and death).’
+[^91]: Verse 88 is a paraphrase and free interpretation of MV 9/50-5 lab: ity etat sarvam ālocya śodhyādhvānaṁ \[g: śodhyātmānam\] vicintayet | dīkṣāṁ yenādhvanā manirī śiṣyānāṁ kartum icchati ॥ 50 ॥ tatraivālocayet sarvaṁ yāyāt padam anāmayam | “Thus, having viewed all that (in this way), (the teacher) should think about the path which is to be purified, by means of which the officiant (mantrin) wishes to impart initiation to (bis) disciples. He should view everything there itself, so that it may go to the plane free (of all) disease (and death).’
 
 [^92]: 1507.
 

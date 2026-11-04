@@ -241,7 +241,7 @@ KṢMAM is in the Ghost (i.e., Sadāśiva).[^19] One should imagine that JRAM is
 
 [^16]: Each of the eight petals of the lotus has three filaments. Thus, there are three for each of the eight directions, primary and secondary. The letters on the filaments starting from the eastern petal are: KAM, KHAM, GAM (E) GHAM, ÑAM, CAM (SE) CHAM, JAM, JHAM (S) ÑAM, TAM, THAM (SW) DAM, DHAM, NAM (W) TAM, THAM, DAM (NW) DHAM, NAM, PAM (N) PHAM, BAM, BHAM (NE)
 
-[^17]: The names of the yoginīs are listed above in 8/338 (338cd-339ab) and in 15/305-397. HOM is the mantra of the power in the centre of the lotus (MV 23/15, where in the third pāda there should read hür heṁ haim horn for huṁ heṁ \[illegible\] Thus, the mantras of the yoginīs on the petals of the lotus, clockwise beginning with the eastern petal, are: OM HAM VĀMĀYAI NAMAH (E) OM HĀM JYEṢṬHĀYAI NAMAH (SE) OM HIM RAUDRYAI NAMAH (S) OM HĪM KĀLYAI NAMAH (SW) OM HUM KALAVIKARANṆYAI NAMAH (W) OM HŪM BALAVIKARAṆYAI NAMAH (NW) OM HEM BALAPRAMATHANYAI NAMAH (N) OM HAIM DAMANYAI NAMAH (NE) OM HOM MANONMANYAI NAMAH (centre)
+[^17]: The names of the yoginīs are listed above in 8/338 (338cd-339ab) and in 15/305-397. HOM is the mantra of the power in the centre of the lotus (MV 23/15, where in the third pāda there should read hür heṁ haim horn for huṁ heṁ haiṁ). Thus, the mantras of the yoginīs on the petals of the lotus, clockwise beginning with the eastern petal, are: OM HAM VĀMĀYAI NAMAH (E) OM HĀM JYEṢṬHĀYAI NAMAH (SE) OM HIM RAUDRYAI NAMAH (S) OM HĪM KĀLYAI NAMAH (SW) OM HUM KALAVIKARANṆYAI NAMAH (W) OM HŪM BALAVIKARAṆYAI NAMAH (NW) OM HEM BALAPRAMATHANYAI NAMAH (N) OM HAIM DAMANYAI NAMAH (NE) OM HOM MANONMANYAI NAMAH (centre)
 
 [^18]: See above, 15/307. Cf. MV 23/16ab: mandalatritaye śeṣaṁ (>Śaṣam) sūkṣmaii (i.e. sa) pretasya kalpayet \\ The mantras of the parts of the lotus: Petals- Sun: OM ŚAM SŪRYAMANDALĀYA NAMAH OM ŚAM SŪRYAMANDALĀDHIPATAYE BRAHMAṆE NAMAH Stamens - Moon: OM ṢAM SOMAMANDALĀYA NAMAH OM ṢAM SOMAMANDALĀDHIPATAYE VIṢṆNAVE NAMAH Calyx- Fire: OM SAM AGNIMANDALĀYA NAMAH OM SAM AGNIMANDALĀDHIPATAYE RUDRĀYA NAMAH
 
@@ -895,7 +895,7 @@ The Topknot (śikhā) is VEDAVEDINI HŪM PHAT, preceded by the syllable OM.[^83]
 
 [^82]: Read -mālini, as found in MV, for -mālinī. This verse is drawn from MV 3/62 that reads: om amṛte tejomālini svāhāpadāni (davi) bhūṣii ekādaśākṣarari proktam etad brahmaśiraḥ priye lig
 
-[^83]: 30/37cd-40ab (except 38ab) is a lightly modified quote of MV 3/61cd-64; TĀ 30/37cd = MV 3/61cd, TĀ 30/38 is a paraphrase of MV 3/62cd-63ab; TĀ 30/39ab = MV 3/63ab vedavedini hūṁ phat ca pranavādisamanvita [g: yutā śikheti\] | 3/63ab (read with MS G: yutā śikhā); TĀ 30/39cd- 40ab (reads svāhety oṁkārapūrvakam for svāhāntaṁ pranavādikam) = MV 3/64. The whole passage says: The mantra Vidyāṅgahṛdaya (the Heart of the Limbs of the Vidyā, is made) with five OMs. O beloved, the Brahmaśiras (the Head of Brahmā). consisting of the eleven syllables (mantra), is said to be OM AMRTE TEJOMĀLINI, adorned with the syllables SVĀHĀ. The Śikhā (the Topknot, amongst) the group of (the limbs of the) Vidyā should be known to be Rudrāṇī, consisting of eight syllables. It is VEDAVEDINI HŪM PHAT, and has the syllable OM at the beginning. VAJRINE VAJRADHARĀYA SVĀHĀ, preceded by the syllable OM, is the Armour (varman) called Puruṣṭuta (Praised by Many), consisting of eleven syllables.’ MV 3/61cd-64
+[^83]: 30/37cd-40ab (except 38ab) is a lightly modified quote of MV 3/61cd-64; TĀ 30/37cd = MV 3/61cd, TĀ 30/38 is a paraphrase of MV 3/62cd-63ab; TĀ 30/39ab = MV 3/63ab vedavedini hūṁ phat ca pranavādisamanvita \[g: yutā śikheti\] | 3/63ab (read with MS G: yutā śikhā); TĀ 30/39cd- 40ab (reads svāhety oṁkārapūrvakam for svāhāntaṁ pranavādikam) = MV 3/64. The whole passage says: The mantra Vidyāṅgahṛdaya (the Heart of the Limbs of the Vidyā, is made) with five OMs. O beloved, the Brahmaśiras (the Head of Brahmā). consisting of the eleven syllables (mantra), is said to be OM AMRTE TEJOMĀLINI, adorned with the syllables SVĀHĀ. The Śikhā (the Topknot, amongst) the group of (the limbs of the) Vidyā should be known to be Rudrāṇī, consisting of eight syllables. It is VEDAVEDINI HŪM PHAT, and has the syllable OM at the beginning. VAJRINE VAJRADHARĀYA SVĀHĀ, preceded by the syllable OM, is the Armour (varman) called Puruṣṭuta (Praised by Many), consisting of eleven syllables.’ MV 3/61cd-64
 
 
 *[p. 28]* ^pg46
@@ -951,7 +951,7 @@ VAJRADHARĀYA SVĀHĀ - Armour.)
 
 you the Three Eyes of the god. (CSHAUM - Three Eyes.) 
 
-6\) (There is) Kusumā (= Kusumāyudhā) (the Flower) (Ś) and Pūtanā (the Demoness) (L) along with Guhyaśakti (the Secret Power) \[illegible\] (united) with Śukrā (Female Sperm) (M), they (all) possess a head. One should add the Heart 
+6\) (There is) Kusumā (= Kusumāyudhā) (the Flower) (Ś) and Pūtanā (the Demoness) (L) along with Guhyaśakti (the Secret Power) (Ī); (united) with Śukrā (Female Sperm) (M), they (all) possess a head. One should add the Heart 
 
 [^89]: The Six Limbs of the Vidyā OM OM OM OM OM HRDAYĀYA NAMAH - the Heart AMṛTE TEJOMĀLINI SVĀHĀ - Head VEDAVEDANI HŪM PHAT - Topknot VAJRIṆE VAJRADHARĀYA SVĀHĀ - Armour. CSHAUM - the Third Eye. ŚLĪM PAŚU HŪM PHAT - the Weapon.
 

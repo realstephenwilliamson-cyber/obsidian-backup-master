@@ -42,8 +42,6 @@ kramikaḥ śaktipātaś ca siddhānte vāmake tataḥ ॥ 300 ॥
 dakṣe mate kule kaule ṣadardhe hṛdaye tataḥ |
 ullaṁghanavaśād vāpi jhaṭity akramam eva vā || 301 ॥ 
 
-598?\. Concerning the figure of the sādhaka in the Siddhāntas, see Brunner-Lachaux, 1975.
-
 [^599]: This topic is discussed in 13/300cd-310.
 
 
@@ -629,7 +627,7 @@ Hearing, Cogitation and Meditation
 ज्ञानं तदुत्तरं ज्यायो यतो मोक्ैककारणम् ॥ ३२७ ॥
 
 śrautaṁ cintāmayaṁ dyvātma bhāvanāmayam eva ca |
-\[illegible\] tad uttaraṁ jyāyo yato mokṣaikakāranam || 327 ॥ 
+jñānaṁ tad uttaraṁ jyāyo yato mokṣaikakāranam || 327 ॥ 
 
 Knowledge (is of three kinds. The first is one received) through hearing (and study) (śrauta), (the second, of which there are) two varieties, consists of cogitation (cintā).[^634] (The third) is imaginative contemplation (bhāvanā). The last of these is the sole cause of liberation, and, as such, is 
 
@@ -1011,7 +1009,7 @@ The same has been said by (our) teacher (Kallaṭabhaṭta). Thus, he says:
 *[p. 337]* ^pg359
 
 tasya me sarvaśiṣyasya nopadeśadaridratā ॥ 344 ॥
-\[illegible\] kallaṭenetthaṁ gurunṇā tu nyarūpyata | 
+śrīmatā kallaṭenetthaṁ gurunṇā tu nyarūpyata | 
 
 The venerable teacher Kallaṭa has said: ‘I, who have had (many) teachers from Tapana to Moṭaka, and have been the disciple of all, am not 
 

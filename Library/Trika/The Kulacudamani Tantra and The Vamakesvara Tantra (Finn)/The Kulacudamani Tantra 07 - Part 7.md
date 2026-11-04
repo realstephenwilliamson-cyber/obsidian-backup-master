@@ -36,19 +36,19 @@ Water is the letter "v; Sakra is "1" and Sakti is the fourth
 
 vowel "Ī". Thus one gets VLĪM.
 
-The meaning is that the Sādhyāsanasthitā vidyā is to be extracted with a separation between the syllables, i.e. between each group (of letters) as in Sõtyabhāmā bhāmā.335 (And) in the last place or position occupied by the Śakti bīja of the third víidyā called Atmāsanā (and previously discussed in its turn), water etc. are duly joined together in the place of the omitted (Śakti bīja). Thus
+The meaning is that the Sādhyāsanasthitā vidyā is to be extracted with a separation between the syllables, i.e. between each group (of letters) as in Sõtyabhāmā bhāmā.[^335] (And) in the last place or position occupied by the Śakti bīja of the third víidyā called Atmāsanā (and previously discussed in its turn), water etc. are duly joined together in the place of the omitted (Śakti bīja). Thus
 
 one gets HRĪM KLĪM VLĪṆM.
 
 About this it is said that:
 
-"The sixth vidyā - Sādhyāsiddhāãsanagatā is revealed when the two letters at the end of 'r' are in reversed positions and furnished with the one that is above 'jh' and by the one that is before 'ū',336 and placed in position at the end of the Kāmabtja."
+"The sixth vidyā - Sādhyāsiddhāãsanagatā is revealed when the two letters at the end of 'r' are in reversed positions and furnished with the one that is above 'jh' and by the one that is before 'ū',[^336] and placed in position at the end of the Kāmabtja."
 
 "L" and "v" are at the end of "r". By "reversed positions" is meant that the letter "v" is before and the letter "1" follows. Anusvāra is above "jh" and "Į" is before "Ūū". By "placed in position at the end of the Kāmabīja" is meant first the māyā (bīja), then the Kāmarāja and then this one.
 
-835\. The reference to "Sãtyabhāmă bhāmā" is not elear.
+[^335]: The reference to "Sãtyabhāmă bhāmā" is not elear.
 
-536\. See the chart in footnote 320.
+[^336]: See the chart in footnote 320.
 
 *[p. 246]* ^pg242
 
@@ -183,7 +183,7 @@ HSKLHRĪM.
 
 He now concludes:
 
-101\. SUCH IS THIS GREAT VIDYA MAHĀTRIPURASUNDARĪ.3%9
+101\. SUCH IS THIS GREAT VIDYA MAHĀTRIPURASUNDARĪ.[^349]
 
 102\. OH GREAT GODDESS:, IT IS CALLED THE SUBJUGATOR OF THE
 
@@ -201,11 +201,9 @@ Oh Great Lady! The secret Kāmabīja (stands} revealed! Through the mere utteran
 
 I will (now) speak of the third and most marvelous Sakti blja. The Śakti bīja is drawn out (with) that which is below 'ṣ' joined to that which is below "1', (with) the one before 'g', the one after 'ph', the one below 'ṣ', the one below 'p' (and) the one on the upper side of visarga joined to what is above "jh'. By just knowing this (bṛḷja} one can destroy all (kinds) of venom. This whole vidyā is said to be the supreme wonder-worker and there is nothing that one cannot accomplish by a thorough understanding of it."
 
-The root vidyā, so-called because it is the mantra of the Supreme Goddess of the cakra Mahātripurasundart, has fifteen "syllables" and reads: KEILHRIM HKHLHRIM HSKLHRIM.
+[^349]: The root vidyā, so-called because it is the mantra of the Supreme Goddess of the cakra Mahātripurasundart, has fifteen "syllables" and reads: KEILHRIM HKHLHRIM HSKLHRIM. 1234 5 6789 10 11.14 15
 
-1234 5 6789 10 11.14 15
-
-[^350]: I.e., in the centre of the Vāgbhava blja which consists of five 849. elements.
+[^350]: I.e., in the centre of the Vāgbhava blja which consists of five elements.
 
 *[p. 251]* ^pg247
 
@@ -242,9 +240,9 @@ Although acknowledging the opinion of Srīsaṁñkararāsī that in the that in 
 
 There is a threefold division of this vidyā also with the three vowels of kevala, vāgbhava and pūrva (as in the first vidyā that was discussed[^356]). Together they are the three cluster syllables of the triangle cakra.
 
-Thus the eighth vidyā has Siva, the moon, Smara, Hara, Śiva and the burning one joined to speech, the fourth one and the spear, and each one with bindu. "357
+Thus the eighth vidyā has Siva, the moon, Smara, Hara, Śiva and the burning one joined to speech, the fourth one and the spear, and each one with bindu. "[^357]
 
-357\. Śiva = "h"; the moon = "s"; Smara = "k"; Hara = "1"; Śiva = "h", HSKLHRAIM HSKLHRĪM HSKLHRAUM. "spear" may derive from the fact that the letter "au" - especetally in its abbreviated form - looks rather like a two-pronged spear.
+[^357]: Śiva = "h"; the moon = "s"; Smara = "k"; Hara = "1"; Śiva = "h", HSKLHRAIM HSKLHRĪM HSKLHRAUM. "spear" may derive from the fact that the letter "au" - especetally in its abbreviated form - looks rather like a two-pronged spear.
 
 [^355]: In the most elliptical way possible Jayaratha is saying that: in the second, third and fifth vidyās Srimadallaṭa gets different results, although he does accept Sañkararāśi's opinion about the position of SAUH in the second vidyā. (See EY to Verse 85a.) In the third, fifth and seventh vidyās, Srimadallaṭa doesn't use Karasuddhikarī at all for the bastis of his extractions. So, in the second vidya he uses Karaŝuddhikart but gets a differing result over all. In the seventh he gets the same result without Karaŝuddhikart and in the third and fifth, he neither uses Karaŝuddhikart nor does he arrive at the same vidyās .
 [^356]: As the quotation ts out of context (and Jayaratha isn’t going to approve of the extraction anyway), it ts difficult to know what the terms are referring to here. "Kevala" may mean "I"; "vāgbhava" "ai" and "pūrva" "au"...
@@ -370,30 +368,28 @@ And our great guru also says:[^368]
 
 "One shoutd place the three root syllables on the anus, the heart and between the eyebrows."
 
-According (to the rule) that "more forceful than the text is the order of (customary) usage", our guru says that this nyāsa (actually) follows on a nyāsa which will shortly be discussed. And because of the propriety of the weapon mantra at this point,[^369] it should not be urged that for the sake of removing obstacles one should meditate on the triple bījas in the place of sacrifice,37 - in the triple citadels that have the nature of upper, middle and lower.
+According (to the rule) that "more forceful than the text is the order of (customary) usage", our guru says that this nyāsa (actually) follows on a nyāsa which will shortly be discussed. And because of the propriety of the weapon mantra at this point,[^369] it should not be urged that for the sake of removing obstacles one should meditate on the triple bījas in the place of sacrifice,[^370] - in the triple citadels that have the nature of upper, middle and lower.
 
 End of commentary on Verse 109.
 
 The general rule is that once KaraSuddhi has been produced, it is instrumental in the nyāsa of the other mantras; with this object He says:
 
-110\. OH MY LADY! HE SHOULD THEN PRESENT?! ĀTMĀSANA, -
+110\. OH MY LADY! HE SHOULD THEN PRESENT[^371] ĀTMĀSANA, -
 
 CAKRĀSANA, SARVAMANTRĀSANA AND SĀDHYASIDDHĀSANA,
 
 OH GODDESS:
 
-Having placed Ātmāsana with the seat in the self as the force of the name (suggests), the rule for the nyāsa of Cakrāsana et al - because of the lack of authority in determining (specific) locations in the form of anus, the bulbžł72 and the heart - is due to the appropriateness (of the nysa) to the nature of the various āsanas[^373] by a
+Having placed Ātmāsana with the seat in the self as the force of the name (suggests), the rule for the nyāsa of Cakrāsana et al - because of the lack of authority in determining (specific) locations in the form of anus, the bulb[^372] and the heart - is due to the appropriateness (of the nysa) to the nature of the various āsanas[^373] by a
 
 [^368]: The "parama guru" is the guru's guru.
 [^369]: At the start of most rituals mantras such as the weapon mantra PHUṬ are said for the removal of obstacles. Jayaratha ts about to say that the bṛjas of the root vidyā are not intended for that purpose.
 
-870\. The "place of sacrifice" is the sādhaka's own body here.
+[^370]: The "place of sacrifice" is the sādhaka's own body here.
 
-871\. He should "present" by saying something like "Atmāsanam
+[^371]: He should "present" by saying something like "Atmāsanam samarpayāmi plus the vidyā" ete..
 
-samarpayāmi plus the vidyā" ete..
-
-872\. The "bulb" is a synonym for the testicles.
+[^372]: The "bulb" is a synonym for the testicles.
 
 [^373]: I.e., the vidyās most of whose names end in combinations of "īsana".
 
@@ -734,7 +730,7 @@ IN NIRRTI'S.[^401]
 
 The ones which are joined to the first (case) ending are to be worshipped (and) one should also worship the ones that have the second
 
-(case) ending.[^402] \* ?
+(case) ending.[^402]
 
 "Oh Great Goddess! There in the Trailokyamohana cakra[^403]" are situated the manifested yoginīs and the eight siddhis
 
@@ -742,14 +738,14 @@ Anima etc..." (Yo. Hr. 3:118)
 
 There is no inconsistency because (the goddesses) Brāhmī et al are indicated by the (siddhis) Aṇnimā etc. by virtue of being the agents (of those siddhis). There among them by virtue of being queen of the cakra:
 
-"There and in the other (cakras) is Tripurā.... "4+
+"There and in the other (cakras) is Tripurā.... "[^404]
 
 (Yo. Hr. 2:9)
 
 [^400]: HRĪM is the māyā bīja and ŚRĪM is the Lakṣmī bīja.
 [^401]: The direction of Vāyu is the north-west; "the Lord's" is the north-east; Agni's is the south-east and Nirppti's is the south-west.
 
-404\. The verse actually reads: "There the first one ts the Goddess Tripurā...."
+[^404]: The verse actually reads: "There the first one ts the Goddess Tripurā...."
 
 [^402]: Of the eight goddesses mentioned in these verses, five are in the nominative case and three are in the accusative cease in the Sanskrit tert.
 [^403]: The outermost cakra with four portals.
@@ -762,7 +758,7 @@ It is the worship of the Goddess called Tripurã that is discussed; every cakra 
 
 According to the doctrine that will be discussed later one should do pūjā to the goddesses (mudrās) one by one in association with individual siddhis. For example: here, the goddess is Sañkṣobhinī and the siddhi is Animā.[^406] The guru says that this triad[^407] is to be worshipped at the beginning of every cakra.
 
-Having thus explained the first cakra He speaks about the second which is "the fulfiller of all hopes".[^408] +908
+Having thus explained the first cakra He speaks about the second which is "the fulfiller of all hopes".[^408]
 
 138\. THERE IS SHE WHO IS THE EMBODIMENT OF THE PULL OF DESIRE (AND) SHE WHOSE NATURE IT IS TO DRAW OUT THE INTELLECT;
 
@@ -800,7 +796,7 @@ ESSENCE IS TO DRAW FORTH THE TRUE SELF;
 
 SHE WHO DRAWS DIVINE NECTAR, (AND) ANOTHER ONE IS
 
-SHE WHO DRAWS OUT MATERIAL BODIES.+99
+SHE WHO DRAWS OUT MATERIAL BODIES.[^409]
 
 Thus,
 
@@ -826,9 +822,7 @@ As the scripture says:
 
 "Of the secret yogints in the Sarvāśāparipūraṇa cakra the deities are declared to be She who is the Embodiment of the Pull of Desire etc.."
 
-409\. - These sixteen Saktis or yoginīs are personalised functions of the Goddess. Their Sanskrit names are: Kõmākarganarūpā, Buddhyākarṣasvarūpint, Ahañkārākarṣini, Sabdākarṣasvarūpinī, Sparsākarṣaṇarīpā, Rūpākargaṇakārinṇnī, Rasākarṣakari, Gandhā-kargakarl, Cittākargaṇarūpã, Dhairyākargasvarüpinī, Smytyā-kargaṇarūpā, Nāmākarṣaṇakāriṇt, Bljākargaṇarīpā, Ātmākarga-
-
-svarūpiṇt, Amptasyākarṣaṇī and arTrākarṣaṇī.
+[^409]: These sixteen Saktis or yoginīs are personalised functions of the Goddess. Their Sanskrit names are: Kõmākarganarūpā, Buddhyākarṣasvarūpint, Ahañkārākarṣini, Sabdākarṣasvarūpinī, Sparsākarṣaṇarīpā, Rūpākargaṇakārinṇnī, Rasākarṣakari, Gandhā-kargakarl, Cittākargaṇarūpã, Dhairyākargasvarüpinī, Smytyā-kargaṇarūpā, Nāmākarṣaṇakāriṇt, Bljākargaṇarīpā, Ātmākarga- svarūpiṇt, Amptasyākarṣaṇī and arTrākarṣaṇī.
 
 [^410]: ALL movements are to be made anti-clockwise so that they may look eloekwise to the Goddess with whom the sādhaka tis identified and who ts positioned in front of the sādhaka.
 
@@ -926,10 +920,6 @@ TRIPLE WORLDS.
 
 "From west" means that one should begin with the goddess in front.[^417]” By "taking is meant (including them all) upto the last. Here the queen of the cakra is Tripuravāsinĵ.
 
-415\.
-
-416\.
-
 [^415]: The cakra called "Sarvasaubhāgyakāraka" in Sanskrit.
 [^416]: Sarvasañkgobhiṇi, Sarvavidrāvaṇt, Sarvākarṣakart, Sarvāhlāda-kart, Saryasaymohant, Sarvas tambhanarīpint, Sarvajapbhanarūpõ, Vaśakārinṇnī are the goddesses of the fourth cakra.
 [^417]: The goddess in the "western" postition ts the goddess immediately in front and elosest to the sādhaka.
@@ -946,7 +936,7 @@ And also,
 
 And he discusses the fifth (cakra) which "accomplishes all one's
 
-purposes":#18
+purposes":[^418]
 
 149\. THERE ARE THE AKTIS WHO BESTOW ALL SIDDHIS AND WHO GRANT = EVERY SUCCESS;
 
@@ -962,7 +952,7 @@ RELEASES FROM ALL SORROWS;
 
 THE GODDESS WHO IS BEAUTIFUL IN EVERY LIMB AND SHE WHO
 
-PRODUCES ALL GOOD FORTUNE.”19
+PRODUCES ALL GOOD FORTUNE.[^419]
 
 As for these,
 
@@ -974,11 +964,9 @@ ENCLOSURE AGAIN WITH THE FIRST VIDYA.
 
 By "with the first vidyā" is meant the one which is made of the two
 
-418\. The cakra called "Sarvārthasādhaka" in Sanskrit.
+[^418]: The cakra called "Sarvārthasādhaka" in Sanskrit.
 
-419, Sarvasiddhipradā, Sarvasampatpradā, Sarvapriyañkarī,
-
-Sarvamaṁgalakārini, Sarvakāmapradā, Sarvaduhkhavimocint, Sarvamptyupraśamanī, Sarvavighnavināśint, Sarvāṁgasundarī and Sarvasaubhāgyakāriṇī are the Sanskrit names of the goddesses in the fifth cakra.
+[^419]: Sarvasiddhipradā, Sarvasampatpradā, Sarvapriyañkarī, Sarvamaṁgalakārini, Sarvakāmapradā, Sarvaduhkhavimocint, Sarvamptyupraśamanī, Sarvavighnavināśint, Sarvāṁgasundarī and Sarvasaubhāgyakāriṇī are the Sanskrit names of the goddesses in the fifth cakra.
 
 *[p. 272]* ^pg268
 
@@ -1006,38 +994,34 @@ Srī."
 
 [^421]: The reference here is to the bījas HRĪM and ŚRĪM which may substitute for the "hap" and "sa" of the great breath mantra. "HR" and "SR" refer to the outward and inward breaths while the "staff" means the vowel "T" plus the bindu. The idea is to breathe in and out on these syllables straightening them into a linear flow. This quotation suggests that one should worship with the bijas in conjunction with breath control.
 
-[^420]: See Verse 135. These blijas are to be used in the worship of every cakra, 421.
+[^420]: See Verse 135. These blijas are to be used in the worship of every cakra.
 [^422]: I.e., the first vidyā” should not be taken to mean that it ts the Karaŝuddhikarī vidyā (AIM KLĪM SAUḤ) which serves as a basis for the others
 
 *[p. 273]* ^pg269
 
 And not as here (below):
 
-"They sày that the first vidyā is Vāgeśī with the letters of the alphabet."[^425]
+"They sày that the first vidyā is Vāgeśī with the letters of the alphabet."[^423]
 
 Also, the matter of the letters of the alphabet is (supposed) to
 
 be explained (as follows):
 
-And, "In an anti-clockwise manner, three cakras are to be worshipped with the (vidyā) and with letters that number those of Manu, the quarters and the kaltās ending with ' k! from 'kṣ'".”24
+And, "In an anti-clockwise manner, three cakras are to be worshipped with the (vidyā) and with letters that number those of Manu, the quarters and the kaltās ending with ' k! from 'kṣ'".[^424]
 
 "In the third cakra are the eight initial letters also which stand for the eight classes of letters."
 
 (This is wrong) from the beginning because of the lack of any authoritative basis for the distribution (of letters).
 
-As for the "second enclosure”, it is the cakra at the end with respect to the fourteen-spoked one.\*25 The queen of the cakra here is Tripurāsrī.
+As for the "second enclosure”, it is the cakra at the end with respect to the fourteen-spoked one.[^425] The queen of the cakra here is Tripurāsrī.
 
 As has been said:
 
 "In the cakra which "accomplishes all one's purposes" that bestows all siddhis are the kulakaulika yogints beginning with the Śakti who Bestows A1\] Siddhis."
 
-zyn
+[^423]: "yāgeśī" is AIM.
 
-"yāgeśī" is AIM.
-
-There are fourteen Manus, ten directions and 10 kalās totaling thirty-four. Thirty-four ts the number of the consonants of the alphabet and as it tis supposed to be anti-clockwise, one proceeds from the last consonant "kg" to the first consonant "k".
-
-423. 424.
+[^424]: There are fourteen Manus, ten directions and 10 kalās totaling thirty-four. Thirty-four ts the number of the consonants of the alphabet and as it tis supposed to be anti-clockwise, one proceeds from the last consonant "kg" to the first consonant "k".
 
 [^425]: I.e., tt ts the cakra which comes after the fourteenspoked one, -the outer ten-spoked cakra.
 
@@ -1089,7 +1073,7 @@ WAY PRESCRIBED EARLIER.
 
 As has been said:
 
-"Oh Great Goddess and the Praise of Heroes! The nigarbhas?’ deities established in the eminent cakra that 'gives all protection' are She who Knows All etc..."
+"Oh Great Goddess and the Praise of Heroes! The nigarbhas[^429] deities established in the eminent cakra that 'gives all protection' are She who Knows All etc..."
 
 "...in the sixth is Tripuramãlinī."
 
@@ -1113,7 +1097,7 @@ As they say:
 
 "Oh my beloved! In the cakra which takes away all illnesses are established the secret deities and great
 
-429\. The "nigarbha deities" (embryonic deities) are one of the sets of yoginis or Avõāraṇa saktis associated with each of the eakras of the Sricakra. In due order they are: Prakāṭa, Gupta, Gupta-tara, Sampradãya, Kulakauta, Nigarbha, Rahasya, Atirahasya and Paraæpararahasya. \[Puṇyānanda-naātha, Kama-kalā-vilāsa with the commentary of Natanānanda-nãtha, trst. with commentary by Sir John Woodroffe, 4th ed. (Madras: Ganesh & Co., 1971), p. 185.\]
+[^429]: The "nigarbha deities" (embryonic deities) are one of the sets of yoginis or Avõāraṇa saktis associated with each of the eakras of the Sricakra. In due order they are: Prakāṭa, Gupta, Gupta-tara, Sampradãya, Kulakauta, Nigarbha, Rahasya, Atirahasya and Paraæpararahasya. \[Puṇyānanda-naātha, Kama-kalā-vilāsa with the commentary of Natanānanda-nãtha, trst. with commentary by Sir John Woodroffe, 4th ed. (Madras: Ganesh & Co., 1971), p. 185.\]
 
 [^431]: "Pirst cakra" in the sense of being the first "spoked wheel" to follow the bindu and triangle. However, út ts the seventh tin order of worship.
 
@@ -1158,7 +1142,7 @@ AND IMMOBILISING.
 
 *[p. 277]* ^pg273
 
-By "goad" is understood that it (is to be worshipped) in conjunction with the expression for desire that pertains to it. Because of their intrinsic affinity one should worship the weapons of the Goddess together with them, i.e. not (the weapons) by themselves.\*+36
+By "goad" is understood that it (is to be worshipped) in conjunction with the expression for desire that pertains to it. Because of their intrinsic affinity one should worship the weapons of the Goddess together with them, i.e. not (the weapons) by themselves.[^436]
 
 End of commentary on Verse 160.
 
@@ -1176,9 +1160,7 @@ SUNDARĪ IN THE MIDDLE (USING) EACH SYLLABLE SEPARATELY
 
 By "each syllable separately" is meant having broken up the syllables into separate units. In splitting up the root výídyā in this way, one should worship also in the triangle (in an anti-clockwise manner) the three beginning with Kāmesvarī (using) each syllable cluster separately and not omitting any, and also with the three syllables in unison and worshipping in the middle the queen of the eighth cakra (called) Tripurāmbikā. That is the full meaning.[^437]
 
-436\. There exist "words” or mantras capable of producing the
-
-effects of erushing, deluding ete. and which are known by the same names as the weapons. (For example, KROM is the mantra known as the "goad".) They should be combined with the weapons in this worship.
+[^436]: There exist "words” or mantras capable of producing the effects of erushing, deluding ete. and which are known by the same names as the weapons. (For example, KROM is the mantra known as the "goad".) They should be combined with the weapons in this worship.
 
 [^437]: It seems that the worshtp of the goddesses of the eighth cakra ts to be conducted in the following manner: KELHRĪM KĀMEŚVARĪ; HKHLHERĪM KĀMEŚVARĪ; HSKLHRIM KĀMEŚVARĪ in the apex of the triangle. KEILHRĪM VAJREŚĪ ete. in the r.h. (southern) angle and so on with Bhagamālā in the l.h. (northern) angle and Tripurāmbikā in the centre. There follows another counterclockwise round in which the goddesses are worshipped with the full „three-part mantra thus: KEILHRĪM HKHLERĪM HSKLHERIM KĀMEŚVARĪ and so on ending with Tripurāmbikā again. In contradiction to the wording of the verse which gives Tripurasundart, Jayaratha comments that the queen of the cakra is Tripurāmbikā. Indeed, she is the specific goddess of the eighth cakra, but as there is a conflation of the eighth and ninth cakras (as will be seen below), the supreme goddess Tripurasundart becomes the object of worship.
 
@@ -1194,7 +1176,7 @@ and,
 
 To say that "the syllable which is a cluster at the end is what is meant by 'separately' and that the eighth vídyā is like the first with its separation into three voiced (parts) - Vāgbhava etc.," is not legitimate because it is contrary to scripture and the gurus. That is the import.[^438] And so in the Srîdevīpañcasatika[^439] there is no objection (to using) separate vidyās for the eighth and ninth cakras which are like the cakras of creation and destruction.
 
-The mention of the queen of the cakra is arrived at with the eighth vidyā because the name signifies queen of the eighth and ninth cakras as also of the remaining seven vṛdyās in the seven cakras that begin in
+The mention of the queen of the cakra[^440] is arrived at with the eighth vidyā because the name signifies queen of the eighth and ninth cakras as also of the remaining seven vṛdyās in the seven cakras that begin in
 
 due order from the first - since the object (of worship) is the same.[^441] The point is that one should worship "Tripurasundarī in the middle" (of the eighth cakra) and once again (worship) in the middle of the eighth cakra - Mahātripurasundarī who is the queen of the ninth cakra which "contains all joy".
 
@@ -1204,7 +1186,7 @@ It is with this in mind that the Srīrasamahodadhi says:
 
 [^439]: This text ts not mentioned in Kavirāj's list of Tantrie texts and thus appears to be no longer extant.
 
-440\. Tripurāmbikā/Tripurasundart.
+[^440]: Tripurāmbikā/Tripurasundart.
 
 [^438]: If one uses the mūlavidyā of the eighth cakra, the unvoiced consonants must all be included and not just the voteed "clusters" HRĪM, HRIM, HRĪM. The three parts of the first vidyā are all voiced as opposed to the fifteen-syllable mūla mantra.
 [^441]: Jayaratha says that Tripurasundar? is mentioned in the verse because She is the goddess of the ninth cakra, and as the eighth and ninth cakras are worshipped jointly, one may refer to Tri-purasundart directly as She is the pre-eminent goddess of all,
@@ -1223,23 +1205,19 @@ Sakti who produces eternal youth and immortality."
 
 Further, those who recommend that the ninth cakra should be worshipped in the sphere of the head[^443] (are introducing) a contradictory element into the matter under discussion when they say that "the nine cakras need not be worshipped in the cakra", and, "who is there to stop the worship of the other cakras in the sphere of the head?" So enough of conversing with people who are ill-educated in a corrupt
 
-tradition![^444] \#%
+tradition![^444]
 
 End of commentary on Verse 162.
 
-442\.
-
-443\.
-
 [^442]: Jayaratha must be referring to some other text here that believes the eight Mothers are to be worshipped in the eighth cakra. He rejects the idea because the additional cakra required for the subsequent worship of Tripurasundart and Mahātripurasundart would make ten altogether - an obviously incorrect number.
 [^443]: Literally: "in the sky/space of the head", t.e. in the brahmarandhra.
-[^444]: Jayaratha says that talking about intertor worship tis out of place when the topie under discussion has been worship in the exterior cakra. 444\. ,
+[^444]: Jayaratha says that talking about intertor worship tis out of place when the topie under discussion has been worship in the exterior cakra.
 
 *[p. 280]* ^pg276
 
 Now here,
 
-"When the host of mantras[^446] has been invoked, refreshment should be offered accompanied by flowers and incenses for all of them depending on the strength of one's love and devotion."
+"When the host of mantras[^445] has been invoked, refreshment should be offered accompanied by flowers and incenses for all of them depending on the strength of one's love and devotion."
 
 So saying he goes on to discuss the offering of refreshment which must necessarily be done:
 
@@ -1255,15 +1233,15 @@ And then,
 
 FRAME OF MIND AFTER HE HAS DISPOSED IN THEIR PROPER ORDER
 
-OF THE MUDRĀS\*\*6 OF PERTURBATION, OF PUTTING TO FLIGHT, OF ATTRACTION, OF TAKING POSSESSION, OF MAD EXCITATION,
+OF THE MUDRĀS[^446] OF PERTURBATION, OF PUTTING TO FLIGHT, OF ATTRACTION, OF TAKING POSSESSION, OF MAD EXCITATION,
 
 OF THE GREAT GOAD, OF LIBERATION,[^447] OF THE FORM OF BĪJA
 
-(AND) OF THE YONI.[^448] \*\*8
+(AND) OF THE YONI.[^448]
 
 "Disposed in their proper order" in each cakra means that the Sañkṣobha-nī (mudrā) is in the first cakra (and so on) as far as the eighth Blja mudrā which, by the expression "that begins", is assimilated to the ninth one - the three part yoni mudrā. According to the guru, there are two mudrās that must be worshipped here (in the ninth cakra). And there are also ten siddhis involved here.
 
-445\. I.e., goddesses.
+[^445]: I.e., goddesses.
 
 [^448]: The Sanskrit names for these mudrās are: Sañkṣobha, Drāãvaṇa, Ākarga, Āveśa, Unmāda, Mahāñkuśa, Khecarī, Btja and the Yoni mudrās. kach one relates to one PoF the nine cakras and should be worshipped therein. Thetr formation ts deseribed in Chapter III of this text.
 
@@ -1274,7 +1252,7 @@ OF THE GREAT GOAD, OF LIBERATION,[^447] OF THE FORM OF BĪJA
 
 "The eight are declared to be: smallness, lightness, largeness, power to obtain anything, irresistable will, sovereignty, power to subjugate and the eighth is the supreme power of complete
 
-satisfaction. "%49
+satisfaction. "[^449]
 
 The eight siddhís - Aṇímā etc. which have been mentioned are sequentially (placed) in the eight cakras. In the ninth one are the Rasa and the Liberation stddhís.[^450] Here, because of the important nature (of the ninth cakra}, both enjoyment and liberation are the fruits. By means of the eight cakras, the siddhis Aṇnimī etc. are individually attained,[^451] but because of (She) with whom the ninth cakra is connected (and) because of the worshipful nature of the Rasa siddhi, they are designated in a collective way in the prinċipal cakra. In the Srīrasasvacchandādi and here, there and everywhere, it is said that She is the treasure house of all the siddhis.
 
@@ -1284,7 +1262,7 @@ As:
 
 The teaching in the Srīrasamahodadhi too is that the union of this goddess with SrīmahākāmeSvara is the cause which gives rise to the Rasa siddhi.
 
-449\. Animā, Laghimā, Mahimā, Prāpti, Prākāmnya, Īsítva, Vaśítva and kõmāvasãyíitva. This last siddhi literally means the power of complete satisfaction whieh leaves nothing more to be desired. See Yoga Sūtra 3:45 for a resumë of the siddhis.
+[^449]: Animā, Laghimā, Mahimā, Prāpti, Prākāmnya, Īsítva, Vaśítva and kõmāvasãyíitva. This last siddhi literally means the power of complete satisfaction whieh leaves nothing more to be desired. See Yoga Sūtra 3:45 for a resumë of the siddhis.
 
 [^450]: The siddhis of the "joy of unton" and liberation.
 
@@ -1307,7 +1285,7 @@ darī.
 
 Some of her mantras and meditations have been specified by you. In so far as She is separately worshipped by men who seek good fortune, so, my Lord and God!, tell me (about it) out of (Your) mercy for (a11) living
 
-beings!"[^453] %53
+beings!"[^453]
 
 As in our doctrinal school enjoyment and liberation are not separable, here (in this cakra) being the last of them all (and) because of its importance, there is the siddht of liberation too.
 
@@ -1331,20 +1309,20 @@ And the Lord says:
 
 BELOW THAT ONE SHOULD THINK ON THE HALF OF THAT WHICH
 
-FOLLOWS "S" AS A DOWNWARD POINTING ONE.[^456]
+FOLLOWS "S" AS A DOWNWARD POINTING ONE.[^455]
 
-Because it is the parāmarśa[^457] essence of all things composed of the thirty-six substances[^458] and because of its importance as the realm of rest, the bindu which is the form of pure consciousness having Śiva and Śakti in joyful union as its essence; which is supreme non-duality (and) has a nature without parts; which cannot be described (and) which is the ultimate reality, is construed as the face, i.e. is meditated upon in that form. And in the desire of ṁer independent will to manifest outwardly, "below" there are:
+Because it is the parāmarśa[^456] essence of all things composed of the thirty-six substances[^457] and because of its importance as the realm of rest, the bindu which is the form of pure consciousness having Śiva and Śakti in joyful union as its essence; which is supreme non-duality (and) has a nature without parts; which cannot be described (and) which is the ultimate reality, is construed as the face, i.e. is meditated upon in that form. And in the desire of ṁer independent will to manifest outwardly, "below" there are:
 
-"I constantly worship the two shafts of light of the Supreme Lord that are renowned as 'Siva and Śakti'".»#58
+"I constantly worship the two shafts of light of the Supreme Lord that are renowned as 'Siva and Śakti'".[^458]
 
 According to (this view), through the abiding in the Śiva-Śakti state (of union), there attains a divided state as of two breasts almost, on account of the "cooing" that results from the apprehension[^459] of their own true nature.[^460]
 
-455\. The Kāmakaąlā configuration is presented in this verse. The bindu represents the face with the two breasts as points below it making the outline of an upward pointing triangle. Beneath (and sometimes intersecting) ts another triangle which points downwards and represents the yoni of the goddess. It is alluded to as "the half of that which follows 's'".
+[^455]: The Kāmakaąlā configuration is presented in this verse. The bindu represents the face with the two breasts as points below it making the outline of an upward pointing triangle. Beneath (and sometimes intersecting) ts another triangle which points downwards and represents the yoni of the goddess. It is alluded to as "the half of that which follows 's'".
 
 [^456]: "Parāmarśa" can be used as a synonym for Vimarśa. (Singh, Pratyabhijnāhypdayam, p. 59.) For a diseusston of Vimarsa see the "philosophteal Introduction to the Texts".
 [^457]: The twenty-five principles of Sāñkhya philosophy plus the additional eleven of Kashmir Saivism.
 [^458]: Śiva and Śakti as two shafts of light represent a step in the evolutton away from the absolute state of unity. They are represented by two dots (as in visarga) symbolising the breasts of the Goddess and hence are "beneath" the face.
-[^459]: Literally: "Seizing, grasping ete." A play on "parāmarśa" here which also means the supreme reality in Kashmir Satvism 460.
+[^459]: Literally: "Seizing, grasping ete." A play on "parāmarśa" here which also means the supreme reality in Kashmir Satvism.
 [^460]: A loving exchange (cooing) characterizes the absolute and its owun awareness or reflection on itself. The alternation between self and self-awareness (Siva and Śakti) produces a vibration or inchoate sound that corresponds to nāãda. The duality is represented by the two breasts of the one Goddess.
 
 *[p. 284]* ^pg280
@@ -1353,11 +1331,11 @@ According to (this view), through the abiding in the Śiva-Śakti state (of unio
 
 According to (one) explanation, in the outward (expansion) of form, the letter which follows "s" is "h" and half of it is that which is unvoiced.[^462] It essence.is the light[^463] that precedes taking the form of the universal life breath supporting "the degrees of knowers and vital airs"; then again also the one that points downwards:
 
-"The entire universe is clearly manifested in this letter Igi 464
+"The entire universe is clearly manifested in this letter Igi[^464]
 
 It means that by the method of consciousness,[^465] one should think, i.e. reflect, on the half of the one that follows the letter "s" (which is all things of an objective nature[^466]) as having obtained gross form raised on the earth with the final doomsday conflagration at the end.[^467] According to the letter procedure, one should think of, i.e. put together, the Māyā bṛja (which is the essence of the undivided mantra) thus: by construing, i.e. considering the bindu as face with that which has that form,[^468] and "what is below that" are the two bindus of the nature of sun and moon in the forms of two breasts,[^469] "below that" is "the half of
 
-464\. The letter "s" can convert tinto vtisarga whieh in turn ts symbolic of the Sakti that constitutes the universe.
+[^464]: The letter "s" can convert tinto vtisarga whieh in turn ts symbolic of the Sakti that constitutes the universe.
 
 [^461]: Consetousness in a dual form is symbolised by "ham" "sah" whieh also represents the inward and outward movement of the breath.
 [^462]: I.e., visarga which is only the aspiration of "h".

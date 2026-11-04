@@ -26,7 +26,7 @@ Even youŝ[^58] have admitted that: "The lordship over the band of intellect and
 
 *[p. 166]* ^pg162
 
-"In the Tantra the siddhis are said to be: Aṇnimā, Laghimā, Mahimā, Isitva, Vaśitva, Prakāmatvam, BhuKkti, Icchā, Mokṣa and Rasa. "63
+"In the Tantra the siddhis are said to be: Aṇnimā, Laghimā, Mahimā, Isitva, Vaśitva, Prakāmatvam, BhuKkti, Icchā, Mokṣa and Rasa. "[^63]
 
 According to this statement, the siddhýis and mudrās may be described as ten (in number each) and the vídyās as eight.[^64]
 
@@ -36,9 +36,7 @@ because: (in due order) of its mastery, of the colours, of Nandī etc., of the l
 
 because it is in the form of the Gaṇapati tithí, because of the lordship of the vidyās, because of the letters of the lords of the two ganas and because of the lordship of the world,[^65] (ganeśa stands for) the cakra of nine.[^66]
 
-64. 85. 66.
-
-63\. Siddhis are supernatural powers of which eight are traditionally enumerated. They are Animā (smallness), Laghimā (Lightness), Prāpti (power to obtain everything), Prakāmyam (Trreststable will), Mahimā (largeness), Isitvam (supremacy), Vasitvam (power to subjugate) and Kāmāvasāyitā (complete satisfaction). Siz of the above correspond to this traditional list. The other four (Bhukti, Icchā, Mokga and Rasa - the highest attainment in some Tantric schools) vary the tradition and increase the stddhis to ten.
+[^63]: Siddhis are supernatural powers of which eight are traditionally enumerated. They are Animā (smallness), Laghimā (Lightness), Prāpti (power to obtain everything), Prakāmyam (Trreststable will), Mahimā (largeness), Isitvam (supremacy), Vasitvam (power to subjugate) and Kāmāvasāyitā (complete satisfaction). Siz of the above correspond to this traditional list. The other four (Bhukti, Icchā, Mokga and Rasa - the highest attainment in some Tantric schools) vary the tradition and increase the stddhis to ten.
 
 [^64]: "Vidyās" are mantras that embody feminine detties. There are eight vidyās associated with the Śrícakra. The reason why Jayaratha refers to the number of siddhis, mudrās and vidyās tis to make the point that the other commentator does not demonstrate how all these can be made to correspond with the nine parts of the Sricakra. The offending verse is quoted below.
 [^65]: "Lordship of the world" tis mentioned because the ninth outer cakra ís called "Bhūpura" and it stands for the existent world.
@@ -164,27 +162,23 @@ And,
 
 And, "Then, Oh Goddess and Mistress of the Gods, amongst libertines and those who esteem themselves in the art of erotic love, the sãdhakąa becomes more of a frustration than the (god) Kāma." (4:38)
 
-"One is looked upon as Trinetra by the hordes of spirits, ghosts, demons (and the groups of entities) that assume the forms of countless gākinīs,89 malignant spirits, diseases and misfortunes." (4:50)
+"One is looked upon as Trinetra by the hordes of spirits, ghosts, demons (and the groups of entities) that assume the forms of countless gākinīs,[^89] malignant spirits, diseases and misfortunes." (4:50)
 
-"...the excellent sāãdhaka is seen to resemble a flaming fire amidst the entire host of yoginīs."% (3:19)
+"...the excellent sāãdhaka is seen to resemble a flaming fire amidst the entire host of yoginīs."[^90] (3:19)
 
 And also,
-
-89\.
 
 "The Lord Hari assumed the form of Trailokyamohana after
 
 having first worshipped this vidyā (called) Trailókya-
 
-mohint. "91 (4:67)
+mohint. "[^91] (4:67)
 
-"Dākints are semi-divine female spirits whose powers are often of a malign nature. They are said to have evolved from the seven (sometimes eight) Mātrkāãs Brahmt ete.. These "demonesses" are of considerable tmportance in Tantrie Buddhism.
+[^89]: "Dākints are semi-divine female spirits whose powers are often of a malign nature. They are said to have evolved from the seven (sometimes eight) Mātrkāãs Brahmt ete.. These "demonesses" are of considerable tmportance in Tantrie Buddhism.
 
-See footnote 10 for a deftnitton of "yogints". The reference to this verse is given as "3:50", but it actually oceurs at 3:19.
+[^90]: See footnote 10 for a deftnitton of "yogints". The reference to this verse is given as "3:50", but it actually oceurs at 3:19.
 
-A "vidyā" is a feminine mantra. The fifteen syllable mantra (of whteh a one-third part is known as "Vāgbhava") is here referred to as Trailokyamohint and it is only after having worshipped this mantra that Viṣnu assumed the epithet of Trailokyamohana - the "charm of the three worlds". At Least such is the Tantric explanation.
-
-90. 91.
+[^91]: A "vidyā" is a feminine mantra. The fifteen syllable mantra (of whteh a one-third part is known as "Vāgbhava") is here referred to as Trailokyamohint and it is only after having worshipped this mantra that Viṣnu assumed the epithet of Trailokyamohana - the "charm of the three worlds". At Least such is the Tantric explanation.
 
 *[p. 172]* ^pg168
 
@@ -442,39 +436,27 @@ HER FORMED AND FORMLESS NATURE - WHO SHE IS, FROM WHOM
 
 SHE COMES, FROM WHERE AND HOW.
 
-10\. I GIVE HOMAGE TO HER WHOSE NATURE IS "AHAM"139 AND THE
+10\. I GIVE HOMAGE TO HER WHOSE NATURE IS "AHAM"[^139] AND THE
 
-IMPERISHABLE "KṢA" CONJUNCT OF LETTERS;1%° WHO IS SWAYING
+IMPERISHABLE "KṢA" CONJUNCT OF LETTERS;[^140] WHO IS SWAYING
 
-IN THE VAST WAVE OF KULA KALAS"! AND WHO IS BEYOND THE
+IN THE VAST WAVE OF KULA KALAS"[^141] AND WHO IS BEYOND THE
 
-TURMOIL. 1%#2
+TURMOIL.[^142]
 
-"Gods" refers to Brahmã, Indra, Upendra etc.. By "slightest" (is meant) not even a little. How can it be (possible for) one to speculate on the four variants1#3 relating to essence, cause, field of action and purpose (Who is She? From whom? Where? Because of whom?) with respect to Her, (when) her nature is formless non-existant being? It means that even now (gods and men) are unable to comprehend her way of functioning which is wno ependant on herse . s for her nature as :
+"Gods" refers to Brahmã, Indra, Upendra etc.. By "slightest" (is meant) not even a little. How can it be (possible for) one to speculate on the four variants[^143] relating to essence, cause, field of action and purpose (Who is She? From whom? Where? Because of whom?) with respect to Her, (when) her nature is formless non-existant being? It means that even now (gods and men) are unable to comprehend her way of functioning which is wno ependant on herse . s for her nature as :
 
 (wholly) dependant on Herself. As for h t "gn
 
-1839\.
+[^139]: The word "ahan" means "I", but it also represents the entire alphabet as the word begins and ends with the first and last letters of the alphabet. Therefore it is doubly symbolte of creation for it sums up the span of creation as symbolized by the alphabet, and it signifies the "I-ness" or self-awareness whieh ts the precondition for creation.
 
-140\.
+[^140]: The Goddess ís of the nature of "ahaṇ" and the whole alphabet symbolizing the totality of being. Within that scope She tis more specifically the dynamice gakti immanent in the universe. "Ka" therefore symbolizes the first manifestation of the universe and "sa" (or "ha") is the last. The two letters form the conjunet "kga".
 
-141\.
+[^141]: See Part II and the "Introd. to the Philo. of the Texts".
 
-142\.
+[^142]: "Olija" is the churning stiek. Although She is responsible for the ocean of phenomena which She ts churning up, She ts essen- tially undisturbed by it.
 
-The word "ahan" means "I", but it also represents the entire alphabet as the word begins and ends with the first and last letters of the alphabet. Therefore it is doubly symbolte of creation for it sums up the span of creation as symbolized by the alphabet, and it signifies the "I-ness" or self-awareness whieh ts the precondition for creation.
-
-The Goddess ís of the nature of "ahaṇ" and the whole alphabet symbolizing the totality of being. Within that scope She tis more specifically the dynamice gakti immanent in the universe. "Ka" therefore symbolizes the first manifestation of the universe and "sa" (or "ha") is the last. The two letters form the
-
-conjunet "kga".
-
-See Part II and the "Introd. to the Philo. of the Texts".
-
-"Olija" is the churning stiek. Although She is responsible for the ocean of phenomena which She ts churning up, She ts essen-
-
-tially undisturbed by it.
-
-"Vikalpa" usually means "alteration, permutation, modification" ete., but in this contest it refers to a classification in the philosophy of Kashmir Satvtism.
+[^143]: "Vikalpa" usually means "alteration, permutation, modification" ete., but in this contest it refers to a classification in the philosophy of Kashmir Satvtism.
 
 *[p. 183]* ^pg179
 
@@ -607,7 +589,7 @@ According to precept, the essence of the Supreme Self being in the body etc. as 
 
 *[p. 189]* ^pg185
 
-the east), She is a "treasure house" meaning that She is like a treasury - a world of abundance because of the (four ājñās) fading away under the influence of time (and being) renewed over and over again principally by means of the various siddha yoginīs.153 It is said:
+the east), She is a "treasure house" meaning that She is like a treasury - a world of abundance because of the (four ājñās) fading away under the influence of time (and being) renewed over and over again principally by means of the various siddha yoginīs.[^163] It is said:
 
 "Oh Karãlā: Oh Lovely One. When there occurs a pause in the descent of knowledge due to a defective understanding, the outpouring will continue by means of your ājñā."
 
@@ -619,7 +601,7 @@ We pause (here) over the remark that "in this verse there is also an indirect in
 
 End of commentary on Verse 12.
 
-163\. The Goddess is a treasure house because through the agency of the siddha yoginīs, She dispenses creation over the course of the four yugas. Gradually the yugas lose their divine impetus and when the final phase is reached in dissolution, the Goddess once again re-initiates the cycle. Each phase is correlated with a particular location or pîgha demonstrating the twin aspects of space and time in relation to the ereative process.
+[^163]: The Goddess is a treasure house because through the agency of the siddha yoginīs, She dispenses creation over the course of the four yugas. Gradually the yugas lose their divine impetus and when the final phase is reached in dissolution, the Goddess once again re-initiates the cycle. Each phase is correlated with a particular location or pîgha demonstrating the twin aspects of space and time in relation to the ereative process.
 
 [^164]: Literally: "out of place"; Skt.: "astkane".
 [^165]: The idea to which Jayaratha objeets ts that the verse hints at the pūjā arrangement for the eighth and ninth cakras. He takes this as an example of the addled thinking that persists in reading more into the verse than ts actually intended.
@@ -663,7 +645,7 @@ KULASĀRA, THE KULODDĪSA AND THE KULACŪṬĀMAṆI ,
 
 [^166]: The eight Bhatrava Tantras are: Asitāñgga, Ruruchanda, Krodha, Unmatta, Kapātt, Bhīgana and Saṁghāra.
 [^169]: Take the reading from the "ga" edition given in footnote 1 of the Sanskrit text otherwise "Nayottara" is enumerated twice.
-[^170]: Read "Trotulottara" for "Bhrotulottara" as in footnote 1 of the 166. 167. 168. 169. Sanskrit text.
+[^170]: Read "Trotulottara" for "Bhrotulottara" as in footnote 1 of the Sanskrit text.
 
 *[p. 191]* ^pg187
 
@@ -691,7 +673,7 @@ i CONTAIN ALL KNOWLEDGE.
 
 The Tantra named "Vīnādya" refers to the Tantra called VīṇāSikhottara But included within all the scriptures are:
 
-THE SIXTEEN VIDYĀS?71 WHICH ARE HINTED AT, BUT NOT
+THE SIXTEEN VIDYĀS[^171] WHICH ARE HINTED AT, BUT NOT
 
 FULLY REVEALED (IN THOSE TANTRAS), OH LORD OF THE GODS:
 
@@ -709,11 +691,9 @@ LISTEN, OH GODDESS!, TO THE GREAT KNOWLEDGE (COMPRISING)
 
 THE SEA OF THE SIXTEEN VIDYĀS THAT
 
-171\. The word vidyā has a double meaning that can refer either to a goddess, or to her sound equivalent the mantra.
+[^171]: The word vidyā has a double meaning that can refer either to a goddess, or to her sound equivalent the mantra.
 
-kārṇava" part of the Vāmakeśvarimatam or Vāmakeśvara Tantra.
-
-[^172]: This verse marks the actual „beginning of the "Nityāṣodaği-
+[^172]: This verse marks the actual „beginning of the "Nityāṣodağikārṇava" part of the Vāmakeśvarimatam or Vāmakeśvara Tantra.
 
 *[p. 192]* ^pg188
 
@@ -826,13 +806,14 @@ The guru also says:
 
 five; four fires and five sakttis."
 
-"By extending with six lines from near each of the (three) angles of all triangles, one gets seven times seven yonis,"183
+"By extending with six lines from near each of the (three) angles of all triangles, one gets seven times seven yonis,"[^183]
 
-In the prior (quote) the down pointing triangle is described with the word "tryaśra", and in the following one, the matter of the upward pointing is also (referred to} with the words "bhaga" and "yoni". This has no sense at allḷ:18%
+In the prior (quote) the down pointing triangle is described with the word "tryaśra", and in the following one, the matter of the upward pointing is also (referred to} with the words "bhaga" and "yoni". This has no sense at allḷ:[^184]
 
 [^181]: One of the meanings of "bhaga" ts "female genital area"  having the shape therefore of a downward potnting triangle.
 
-183\. See footnote 182. 184\. Jayaratha has been pointing out in how many different and misleading ways the words "tryasra, bhaga" and "yoni" can be used. For example, it would have been more sensible to have used the word bhaga or yoni in the first of the immediate above quotes (because the tintertor triangle points down), and to have used the word "tryasra" in the second, as there are many upward pointing triangles among the forty-nine. To these the words "bhaga" and "yoni" do not properly apply.
+[^183]: See footnote 182.
+[^184]: Jayaratha has been pointing out in how many different and misleading ways the words "tryasra, bhaga" and "yoni" can be used. For example, it would have been more sensible to have used the word bhaga or yoni in the first of the immediate above quotes (because the tintertor triangle points down), and to have used the word "tryasra" in the second, as there are many upward pointing triangles among the forty-nine. To these the words "bhaga" and "yoni" do not properly apply.
 
 [^182]: The reference here is probably to the figure illustrated on page 458 of the Sanskrit text and reproduced on p.268 of the translation.
 
@@ -842,21 +823,13 @@ Enough of talking:
 
 Having drawn the first downward pointing three-angled Saktý in a suitable space, lower down one should intersect it by entering crosswise through the middle, thereby producing the "root" triangle. And again enclosing these two śaktts (which are interlaced and have the apexes of their triangles in the same direction) with an upward facing fire triangle which is (placed) at a slight distance from the apex of the
 
-"root" triangle.185
+"root" triangle.[^185]
 
 “In the middle of the cakra, he should duly worship the four in the order of west, north, east and south."[^186] (1:159)
 
 (Thus) having enclosed according to a method that will be (entirely) explained, (it is said that) "from the inside crosswise intersection of the lower akti come three angles; from the upward moving-one inside (it) extending on and through the intersecting points[^187] are produced the two angles on the sides of the upper śakti, and one gets the upper angle by extending and joining together. (In this way), the inner triangle and the eight-spoked (cakra) made up of two saktis and one fire come about." Such is the explanation for making an eight-spoked (cakra) in the form as outlined by the great guru: Are we to be made laughing stocks by certain frauds who, (únable) to directly perceive the more irregular grammatical constructions made by others, are joining words with words neglecting to get rid of the improper wọrd constructions?
 
-? 2 3
-
-185\.
-
-e-ren
-
-T7 NZ
-
-\` N , y
+[^185]: *(a drawing in the print)*
 
 [^186]: With the drawing of the third triangle, the four points of the compass are clearly indicated. The four to be worshipped in the root triangle are Kāmeśvarī, Bhagamālā, Vajregī and Mahā- tripurasundart.
 [^187]: Of the upper and lower aktis. Although what the other commentator ts saying ts clear enough, nevertheless Jayaratha ojbeets to his method on how to draw the cakra.
@@ -903,7 +876,7 @@ And then,
 
 WITH THE FIRE INSIDE IT.
 
-One should extend downwards the first ŝaktý which is above all the others[^196] and which is adjacent to the second fire which is in the uppermost part of the ten-spoked cakra and above everything else. Meaning that: one should produce the fourth śaktó (which is the foundation of the second of the ten-spoked cakras) by expanding the two sides in the proper manner and by touching on both sides the four lower angles that are connected with the ten-spoked cakra.[^195]
+One should extend downwards the first ŝaktý which is above all the others[^194] and which is adjacent to the second fire which is in the uppermost part of the ten-spoked cakra and above everything else. Meaning that: one should produce the fourth śaktó (which is the foundation of the second of the ten-spoked cakras) by expanding the two sides in the proper manner and by touching on both sides the four lower angles that are connected with the ten-spoked cakra.[^195]
 
 And,
 
@@ -913,11 +886,11 @@ IS (ASSOCIATED) WITH THE LOWER ŚAKTI OF THE FIRST
 
 CAKRA.
 
-By "it" is meant that one should intersect this last drawn fourth śakti wîth the initial fire that has been comprised within the third śaktýí196 that is (involved) in the first cakra and in the ten-spoked cakra made directly afterwards. The third fire is produced by the prescribed expansion of both sides; going upward and taking care to touch on the way the four upper angles of the ten-spoked (cakra) and
+By "it" is meant that one should intersect this last drawn fourth śakti wîth the initial fire that has been comprised within the third śaktýí[^196] that is (involved) in the first cakra and in the ten-spoked cakra made directly afterwards. The third fire is produced by the prescribed expansion of both sides; going upward and taking care to touch on the way the four upper angles of the ten-spoked (cakra) and
 
-194\. I.e., above all other śaktis.
+[^194]: I.e., above all other śaktis.
 
-[^195]: I.e., cormected with the first of the ten-spoked cakras.  The fourth sakti:
+[^195]: I.e., cormected with the first of the ten-spoked cakras. The fourth sakti: *(a drawing in the print)*
 
 [^196]: The Sanskrit reads "tadupalakgitena", meaning that the base line of the very first fire is bounded by the third śakti, and even when extended later, it appears to be dominated by the larger third śakti.
 
@@ -927,28 +900,29 @@ with the (apex) lined up with the other two fire apexes.[^197]
 
 And then,
 
-33 & 34. AGAIN AND AS BEFORE, BY EXTENDING THE FIRST AKTI,[^199] ONE
+33 & 34. AGAIN AND AS BEFORE, BY EXTENDING THE FIRST AKTI, ONE
 
 SHOULD INTERSECT THE UPPERMOST FIRE.
 
-By "first" is meant the initial śakti that was drawn. And in the same way as it was extended before through the śakti and fire intersection points for the purpose of making the fifth and seventh angles of the tenspoked cakra, so, having extended it again, one should intersect the third fire in the middle horizontally. It means that in placing the straight line one makes the three upper angles.198
+By "first" is meant the initial śakti that was drawn. And in the same way as it was extended before through the śakti and fire intersection points for the purpose of making the fifth and seventh angles of the tenspoked cakra, so, having extended it again, one should intersect the third fire in the middle horizontally. It means that in placing the straight line one makes the three upper angles.[^198]
 
 34\. EXCLUDING THE FIRE AND EXTENDING BETWEEN THE TWO LOWER
 
 FIRES, ONE SHOULD INTERSECT THE UNDERNEATH ŜAKTI WITH
 
-THE FIRST?:99 FIRE.
+THE FIRST[^199] FIRE.
 
 One should intersect the fourth śakti which is placed underneath with the first fire (facing up) which was drawn as the foundation of the eight-spoked cakra., {0ne should intersect) having extended through the intersecting places with the third lower fire drawn subsequently as the foundation for this second ten-spoked cakra. (Leaving the second fire which is the foundation of the first ten-spoked cakra out of it; i.e. not concerned to use it here.) That is to say: having made two
 
-[^197]: The third fire: AI 190.. KRZ /X ANIA
+[^197]: The third fire: *(a drawing in the print)*
+[^198]: *(a drawing in the print)*
 [^199]: The "ga" edition of this text whieh gives "aādya" seems more exact in the context than the reading "ūrdhva" that is actually given tn this edition.
 
 *[p. 201]* ^pg197
 
 straight line extensions of the sides of the first[^200] fire, the three lower angles are produced in the same manner as was just described (for the three uppèr angles), which completes the second of the
 
-ten-spoked cakras.??1
+ten-spoked cakras.[^201]
 
 35\. THEN ONE SHOULD EXTEND DOWNWARDS THAT ŚAKTI WHICH
 
@@ -958,8 +932,9 @@ The "middle" akt indicates the first one; the second is the one that was placed 
 
 way.[^202]
 
-[^200]: See footnote 199. (A s, 7 RANN 201\. ZYY JANANA: nÉ = V -naa 2 (£9) t
-[^202]: The fifth śakti: sT ATANAN T7 yavan ay, SANNA A N ZY
+[^200]: See footnote 199.
+[^201]: *(a drawing in the print)*
+[^202]: The fifth śakti: *(a drawing in the print)*
 
 *[p. 202]* ^pg198
 
@@ -981,8 +956,8 @@ BELOW AND AS FAR AS THE MIDDLE AND UPPER AKTIS.
 
 By "her" is meant the fifth śakti, the last to be drawn and "outermost" of the whole cakra (i.e. not inside). By "with the fire" is meant the third fire (i.e. not the first), positioned at the top of the whole cakra. And it means that having expanded in the regular manner at the intersection with the lowest śakti[^203] where there are two meeting points, one should intersect as far as the middle and upper saktis of the cakra (i.e. the first and fourth), duly touching their upper four angles (on the way) and should join (the lines) together. In this way “one makes the fourth fire.[^204]
 
-[^203]: I.e., the fifth one which deseends lowest. 1N 2 VV/NV \` VOAS VEER NSA ANVIAN
-[^204]: The fourth fire:
+[^203]: I.e., the fifth one which deseends lowest.
+[^204]: The fourth fire: *(a drawing in the print)*
 
 *[p. 203]* ^pg199
 
@@ -992,7 +967,7 @@ Also,
 
 WITHIN THE OUTER ŚAKTI AS FAR UP AS THE FIRST AKTI.
 
-Thereafter, one should expand upward to the edge of the initial śakti (i.e. as far as the first sakti), the fourth sakti which lies inside the outer fifth Sakti. One should connect with this (śakti) by expanding on both sides. In this way, one gets both the sixth and tenth angles of the cakra.??\*
+Thereafter, one should expand upward to the edge of the initial śakti (i.e. as far as the first sakti), the fourth sakti which lies inside the outer fifth Sakti. One should connect with this (śakti) by expanding on both sides. In this way, one gets both the sixth and tenth angles of the cakra.[^205]
 
 a End of commentary on verse 37.
 
@@ -1004,21 +979,12 @@ ALSO EXTEND THE FIRST ŚAKTI UPWARDS AS FAR AS THAT FIRE
 
 WHICH LIES BENEATH THE UPPERMOST FIRE.
 
-One should extend the initial, i.e. the first śakti (which has been extended twice before in the making of the two ten-spoked cakras) as far as the third fire which lies below that fourth fire which is uppermost in the whole cakra. (It.is done) by first expanding the two sides and by making a straight line (which comes) in contact with the apex (of the third fire). And by duly intersecting the fourth fire, one gets the three upper angles of the fourteen-spoked cakra. °°’
+One should extend the initial, i.e. the first śakti (which has been extended twice before in the making of the two ten-spoked cakras) as far as the third fire which lies below that fourth fire which is uppermost in the whole cakra. (It.is done) by first expanding the two sides and by making a straight line (which comes) in contact with the apex (of the third fire). And by duly intersecting the fourth fire, one gets the three upper angles of the fourteen-spoked cakra.[^206]
 
 End of commentary on Verse 38.
 
-K -
-
-SE NEESI X
-
-NAZ
-
-NSZZ
-
-ADO
-
-205\. 206.
+[^205]: *(a drawing in the print)*
+[^206]: *(a drawing in the print)*
 
 
 *[p. 204]* ^pg200

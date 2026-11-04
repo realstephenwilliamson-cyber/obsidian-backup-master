@@ -14,11 +14,12 @@ converted: 2026-10-07
 
 *[p. 205]* ^pg201
 
-cakra.[^210] So, following the procedure just outlined, one should intersect the fifth Sakti which is below and outside of the rest, by extending from the end (i.e., from the two sides) of that fire which was drawn first and which is uppermost amongst all the fires because it is the cause of the formation of the eight-spoked (cakra). That is to say, (by extending) from the two meeting points where the fire in its lower part joins with the fifth śakti and the third fire. By which means the three lower angles of the fourteen-spoked cakra are completed, and (one gets) the formation of this whole cakra made up of five aktis and four fires.211
+cakra.[^210] So, following the procedure just outlined, one should intersect the fifth Sakti which is below and outside of the rest, by extending from the end (i.e., from the two sides) of that fire which was drawn first and which is uppermost amongst all the fires because it is the cause of the formation of the eight-spoked (cakra). That is to say, (by extending) from the two meeting points where the fire in its lower part joins with the fifth śakti and the third fire. By which means the three lower angles of the fourteen-spoked cakra are completed, and (one gets) the formation of this whole cakra made up of five aktis and four fires.[^211]
 
 1
 
-[^210]: This verse is made confusing by the different use of the word "ūrdhva" = "uppermost". In the first usage it means uppermost itn terms of rank because the first fire has the honour of precedence and because it ts the bastis of the eight-spoked cakra. In the second usage, the reference tis to the fourth fire which is the largest of the four and which extends to the top of the whole cakra. 211\. 8 SANV KAS DORO VANVZAYA
+[^210]: This verse is made confusing by the different use of the word "ūrdhva" = "uppermost". In the first usage it means uppermost itn terms of rank because the first fire has the honour of precedence and because it ts the bastis of the eight-spoked cakra. In the second usage, the reference tis to the fourth fire which is the largest of the four and which extends to the top of the whole cakra. *(a drawing in the print)*
+[^211]: *(a drawing in the print)*
 
 *[p. 206]* ^pg202
 
@@ -380,7 +381,7 @@ Like this:
 
 For the purpose one should make an excellent maṇngala?ë[^262]
 
-with the breadth of three hands.[^263] With one third of it, he should make the pericarp that is inscribed with the cakra. ?26\* Half the space (of the pericarp) is taken up by the two lotuses and (equally with them} by the field with portals.
+with the breadth of three hands.[^263] With one third of it, he should make the pericarp that is inscribed with the cakra.[^264] Half the space (of the pericarp) is taken up by the two lotuses and (equally with them} by the field with portals.
 
 Placing first the brahma thread through the centre of the pericarp, one should set down seven threads from north to south.
 
@@ -408,7 +409,7 @@ triangles.
 
 [^262]: Usually round, a mandala may deseribe a square. Here square is intended as can be judged from the later context.
 
-264\. I.e., the "pericarp" with the five Saktis and the four fires will 262. 263. cover approximately one-third of the central one-third area.
+[^264]: I.e., the "pericarp" with the five Saktis and the four fires will cover approximately one-third of the central one-third area.
 
 [^263]: A "hand" is the distance from the elbow to the tips of the fingers and measures approximately etghteen inches.
 
@@ -424,7 +425,7 @@ The cakra arises from the interlacing of the five Saktis and the four fires.
 
 Therein are the one and the eight; in the middle are the two tens and finally the fourteen.
 
-Oh Great Lady:, there is the fourteen, the pair of tens, the eight and the one.?255 One becomes immortal from the realisation that the positions of the ŝaktis established in the Tripurācakra are duly connected with creation and dissolution. ?56 On the outside one should make two lotuses - one of eight petals and one of sixteen.
+Oh Great Lady:, there is the fourteen, the pair of tens, the eight and the one.[^265] One becomes immortal from the realisation that the positions of the ŝaktis established in the Tripurācakra are duly connected with creation and dissolution.[^266] On the outside one should make two lotuses - one of eight petals and one of sixteen.
 
 Then placing a square (all around) one should make four portals. So, invested with the square (one has) the superb mangala with the cakra (part) having raised lines of white filled with
 
@@ -432,11 +433,9 @@ red powder."
 
 Here is the meaning. "By half the space of the pericarp" is meant one-half of a third part which is one-sixth (of the whole). Consequently, the two lotuses are to be made in a space that measures
 
-265\. These lines have been quoted in the commentary to Verse 1 of this tert.
+[^265]: These lines have been quoted in the commentary to Verse 1 of this tert.
 
-266\. Although the Saktis basically represent creation, neverthe-
-
-less depending on their position in the cakra, the ereation element ts more or less intensified. For example, the fifth śakti represents creation-creation, as the first and innermost one represents creation-destruetion.
+[^266]: Although the Saktis basically represent creation, neverthe- less depending on their position in the cakra, the ereation element ts more or less intensified. For example, the fifth śakti represents creation-creation, as the first and innermost one represents creation-destruetion.
 
 *[p. 220]* ^pg216
 
@@ -449,8 +448,8 @@ As they say:
 By "equally with them" is meant that it is intended for the two (mentioned) in the text. As for "through the centre" of this field. divided into three hands, (even) before making the square, a division into twenty-four should be made because (otherwise) the mention of words such as "portion", "placing the seven threads from north to south", the "brahma thread" etc. is inappropriate and misleading as the ({understandiñg) of one is an extension of (the understanding) of another. As a result of doing this, everything fits together in the field of the pericarp which is divided into eight parts. And then within the surrounding two (large apportioned) parts are the two lotuses and the four portals. And so having placed a dot in the central spot, there follows the matter of the pericarp and the two lotuses with the arrangement of three circles, ending after that with the square. Afterwards
 
 [^267]: One "finger" is one-twenty-fourth of a hasta.
-[^268]: Literally: "the others", t.e. circles and doors ete.. The result ts: Maṇdala p— ji = Portals a 7 w a | Lotuses i n Pericarp y w . 3 a- w z L B L | 1 hand 2 hand 3 hand
-[^269]: 53 a 269. There are eight Vasus.
+[^268]: Literally: "the others", t.e. circles and doors ete.. The result ts: *(a drawing in the print)*
+[^269]: There are eight Vasus.
 
 *[p. 221]* ^pg217
 
@@ -458,9 +457,9 @@ By "equally with them" is meant that it is intended for the two (mentioned) in t
 
 taught by him:
 
-The mention of specific threads is a subsequent exposition only for use in producing the cakra. And because the threads extend in relation to each other from the middle (as a reference), the use of the brahma thread is merely to produce the same alignment in the apexes of the fires and śaktis. The purpose of using the fourth thread which is included is in the distribution of spaces in relation to a centrally positioned thread in order to produce the distinctive features of the cakra limbs. It is said that it "visits" (the pericarp) to be useful and is again removed. (The others, however, are obviously used in the production of the cakra.)?7° Suspecting that the
+The mention of specific threads is a subsequent exposition only for use in producing the cakra. And because the threads extend in relation to each other from the middle (as a reference), the use of the brahma thread is merely to produce the same alignment in the apexes of the fires and śaktis. The purpose of using the fourth thread which is included is in the distribution of spaces in relation to a centrally positioned thread in order to produce the distinctive features of the cakra limbs. It is said that it "visits" (the pericarp) to be useful and is again removed. (The others, however, are obviously used in the production of the cakra.)[^270] Suspecting that the
 
-270\. The fourth thread is only of temporary use in order to space out the other six threads which do remain involved in producing the cakra.
+[^270]: The fourth thread is only of temporary use in order to space out the other six threads which do remain involved in producing the cakra.
 
 East
 
@@ -498,25 +497,11 @@ The threads must extend from the absolute ends of the third and fifth lines, not
 
 *[p. 224]* ^pg220
 
-"By that portion" is meant that one should increase the "middle part" (which has to do with the fourteen and ten-spoked cakras) by way of the three-part feature,?76 and "one should increase" "on the two sides" means that here and there in three places on the second, central and sixth (lines), there is an increase of one finger's breadth (from the perimeter of the square.)?77 By avoiding with one finger with respect to the circle;278 by increasing one finger in the middle and (at the ends) of
+"By that portion" is meant that one should increase the "middle part" (which has to do with the fourteen and ten-spoked cakras) by way of the three-part feature,[^276] and "one should increase" "on the two sides" means that here and there in three places on the second, central and sixth (lines), there is an increase of one finger's breadth (from the perimeter of the square.)[^277] By avoiding with one finger with respect to the circle;[^278] by increasing one finger in the middle and (at the ends) of
 
-277\.
-
-1 1g. fingér
-
-1 Ig. finger
-
-The "middle part" having to do with the fourteen and ten-spoked cakras are the triangles formed from the second and sixth lines. They lie between the others. The largest outer triangles are only concerned with the fourteen-spoked cakra. The inner ones (one and seven) are involved in all the cakras. "Parimīāṇam" here indicates the measure of a finger and also the fact that tit ts the distance from the outer perimeter.
-
-The reference points for the second and sixth lings all happen to be one full (three-part) finger away from the perimeter.
-
-E lg. finger
-
-1 łg. finger
-
-1 1g. finger
-
-The text reads "abhramata4ġ" corrected to read "bhramatah". This phrase ts the only reference to the placement potnts for the first and seventh threads. Unlike the second and sixth threads, note thàt they begin one small finger distance away from the cireumferance of the etrele, t.e. one-twenty-fourth of the area of the pericarp from the edge of the cirele.
+[^276]: The "middle part" having to do with the fourteen and ten-spoked cakras are the triangles formed from the second and sixth lines. They lie between the others. The largest outer triangles are only concerned with the fourteen-spoked cakra. The inner ones (one and seven) are involved in all the cakras. "Parimīāṇam" here indicates the measure of a finger and also the fact that tit ts the distance from the outer perimeter.
+[^277]: The reference points for the second and sixth lings all happen to be one full (three-part) finger away from the perimeter. *(a drawing in the print)*
+[^278]: The text reads "abhramata4ġ" corrected to read "bhramatah". This phrase ts the only reference to the placement potnts for the first and seventh threads. Unlike the second and sixth threads, note thàt they begin one small finger distance away from the cireumferance of the etrele, t.e. one-twenty-fourth of the area of the pericarp from the edge of the cirele.
 
 *[p. 225]* ^pg221
 
@@ -571,11 +556,11 @@ By "from the second and the sixth (threads})}" is meant those which have been in
 
 *[p. 229]* ^pg225
 
-By "up" (and) “the upper and lower facing ones in the middle" is meant that the object is to go "up to", i.e. as far as the intersecting points (that arise from their mutual intersection) on the two triangles that are involved in the prior , subsequent and third (cakras).[^295] This is the cakra.?96 The reason for the resumē of the five cakras
+By "up" (and) “the upper and lower facing ones in the middle" is meant that the object is to go "up to", i.e. as far as the intersecting points (that arise from their mutual intersection) on the two triangles that are involved in the prior , subsequent and third (cakras).[^295] This is the cakra.[^296] The reason for the resumē of the five cakras
 
 [^295]: The triangles referred to are those formed from the first and seventh lines. They are the only ones involved in all the previous three cakras. One should put the apex of the new triangle on the fifth line and take the base line through the points where the first and seventh Line triangles intersect with one another.
 
-296\.
+[^296]: *(a drawing in the print)*
 
 *[p. 230]* ^pg226
 
@@ -585,7 +570,7 @@ By "outside" is meant of the pericarp inscribed with the cakras. Because it give
 
 Consequently:
 
-“Combining the middle of the cakra's pericarp with the yellow gorocana??8 pigment, and its interstices with black, or else (mixed) in milk with musk, and casting a sprinkling of wheat... etcetera."
+“Combining the middle of the cakra's pericarp with the yellow gorocana[^298] pigment, and its interstices with black, or else (mixed) in milk with musk, and casting a sprinkling of wheat... etcetera."
 
 It is not even to be discussed! Enough of it! It is with this sort of mental attitude that other gurus (who have not witnessed the matter according to the scriptures) have their arbitrary thread method which (corroborates) the dictum about drawing pictures in the air.
 
@@ -603,7 +588,7 @@ LISTEN, OH GODDESS!, TO HOW SHE IS WORSHIPPED BY THE BEST
 
 OF SĀDHAKAS.
 
-298\. Gorocanā is a yellow pigment extracted from cow's urtne (or bile?) and previously much used in mintature painting.
+[^298]: Gorocanā is a yellow pigment extracted from cow's urtne (or bile?) and previously much used in mintature painting.
 
 [^297]: An almost certain reference to the red and white bindus in the Sahasrāra.
 
@@ -643,7 +628,7 @@ And as there is no worship without mantra, (the Lord) now draws out
 
 their eight bṛjas.
 
-64 & 65. ONE SHOULD FIRST EXTRACT THE LETTER "R". BELOW IṬ299
+64 & 65. ONE SHOULD FIRST EXTRACT THE LETTER "R". BELOW IṬ[^299]
 
 IS THE LETTER WHICH IS AT THE END OF THE CROOKED ONE.
 
@@ -657,11 +642,11 @@ THIS IS THE BIJA OF VAŚINĪ WHO IS THE FOREMOST AMONGST
 
 THE YOGINĪS.
 
-299, Here and elsewhere in Verses 64-79 "adhah" is translated as "after" to conform with the context, although it is possible that these mantras were written one letter "below" the other in a vertical line.
+[^299]: Here and elsewhere in Verses 64-79 "adhah" is translated as "after" to conform with the context, although it is possible that these mantras were written one letter "below" the other in a vertical line.
 
 *[p. 232]* ^pg228
 
-"Crooked one" refers to the letter "ph" and at its endž°° is the letter "b". The bīja which is in earth301 is "1"; the sixth vowel is "ū", and by means of the half-moon and bindu everything comprising knower and known is implied. Hence one gets RBLŪM.
+"Crooked one" refers to the letter "ph" and at its end[^300] is the letter "b". The bīja which is in earth[^301] is "1"; the sixth vowel is "ū", and by means of the half-moon and bindu everything comprising knower and known is implied. Hence one gets RBLŪM.
 
 End of commentary on Verse 65.
 
@@ -697,11 +682,9 @@ ONE BEYOND "I".
 
 PRINCIPLES OF CREATION.
 
-300\. I.e., coming after it in the alphabet.
+[^300]: I.e., coming after it in the alphabet.
 
-301\. The letter "L" stands for the earth tattva in the cakras of
-
-Kuṇydalini yoga.
+[^301]: The letter "L" stands for the earth tattva in the cakras of Kuṇydalini yoga.
 
 *[p. 233]* ^pg229
 
@@ -740,7 +723,7 @@ knowledge.[^306]
 [^302]: It has already been mentioned that Aruṇā tis the deity in the fourth elass of letters that begins with "t". Therefore, to say "Aruṇã" is the same as mentioning the "t" elass of letters.
 [^303]: "Vāyu" is "wind, air" or the god of wind or atr.
 [^304]: Extending to the notion of destroying the ego and the obstruetive concepts of the mind.
-[^305]: 305, "Raised above" seems to be a reference to the faet that when written, the letter 'm" ts elevated above the letter "j" thus: T. "Underneath" will come the fire letter: A,
+[^305]: "Raised above" seems to be a reference to the faet that when written, the letter 'm" ts elevated above the letter "j" thus: T. "Underneath" will come the fire letter: A,
 [^306]: The reference is to the blja releasing the dawn of knowledge.
 
 *[p. 234]* ^pg230
@@ -799,7 +782,7 @@ THESE ARE THE EIGHT BĪJAS....
 
 ... -HEAR ABOUT THOSE IN THE GROUP OF vIDyās.
 
-The sandhi in this verse is like the dictum "satiṣa daŝarathī Ramah" 3°7
+The sandhi in this verse is like the dictum "satiṣa daŝarathī Ramah"[^307]
 
 He designates them as:
 
@@ -821,13 +804,11 @@ He explains them in order like this:
 
 82\. THE VĀGBHAVA IS FIRST, OH GODDESS!, AND KĀMARĀJA IS
 
-SECOND; 3098 THE ONE WHICH IS AFTER THE ONE WHICH IS
+SECOND;[^308] THE ONE WHICH IS AFTER THE ONE WHICH IS
 
-507\. The significance of the dietum in relation to the sandhi
+[^307]: The significance of the dietum in relation to the sandhi of this verse is not clear.
 
-of this verse is not clear.
-
-3508, The Yāgbhava = AIM and the Kāmarāja = KLĪM.
+[^308]: The Yāgbhava = AIM and the Kāmarāja = KLĪM.
 
 *[p. 236]* ^pg232
 
@@ -843,7 +824,7 @@ SAUṆ.[^309]
 
 Indeed, in connection with this (there is the verse):
 
-"First the Vāgbhava, Oh Goddess, and again the Kõmarāja, the one that is after the one that is after 'S[^310]' joined to the one that is before 'k' and joined to the one that is after the one that is after 'ai'."
+"First the Vāgbhava, Oh Goddess, and again the Kõmarāja, the one that is after the one that is after 'S' joined to the one that is before 'k' and joined to the one that is after the one that is after 'ai'."
 
 As cited in the eighth chapter and it is generally (the way) it is being
 
@@ -851,7 +832,7 @@ taught.
 
 "First the Vāõgbhkava and here (it means) the letter 'a' as is well known. The second is the kaṇsadeva and the third is the
 
-vahnivesma,. "319
+vahnivesma,. "[^310]
 
 In view (of the fact) that there is no unanimity (on the interpretation) of Vāgbhava (and thinking) that "people of feeble intelligence may be confused and deserve help", the merciful Supreme Lord wishing to be (more) specific, has Himself expounded on this pair of bîjas in turn.
 
@@ -884,13 +865,13 @@ As is mentioned in the Srīnityākula:
 
 over (the power) of speech.
 
-The first bija of the yoni class[^315] is joined to the bija relating to Purapdaraž16 and to the Mohinī[^317] which is graced at its head with bindu and the crescent moon.
+The first bija of the yoni class[^315] is joined to the bija relating to Purapdara[^316] and to the Mohinī[^317] which is graced at its head with bindu and the crescent moon.
 
 Oh Great Goddess: The Kæmarãja grants perfection in matters of desire.
 
 Oh Queen of the Gods! When the lord of the night[^318] is extracted,
 
-316\. "Puraṇdara" is an epithet of Indra, hence the letter "I". 8317.
+[^316]: "Puraṇdara" is an epithet of Indra, hence the letter "I".
 
 [^317]: I.e., the letter "i".
 
@@ -956,7 +937,7 @@ the arrangement of the (textual) exposition.[^324]
 
 [^321]: A measure of length equal to four hastas.
 [^322]: "Vināãyaka" must refer to the letter "h".
-[^324]: The above quote deseribes the making of the triangle of letters as follows, See footnote 320 for complete diagram. 821. 322. 828. 324. NE East SE South
+[^324]: The above quote deseribes the making of the triangle of letters as follows, See footnote 320 for complete diagram.
 
 *[p. 240]* ^pg236
 
@@ -992,7 +973,7 @@ Thus,
 
 GOOD FORTUNE.
 
-OH GREAT LADY!, IT IS THE KULA VIDYĀ328 WHICH
+OH GREAT LADY!, IT IS THE KULA VIDYĀ[^328] WHICH
 
 ACCOMPLISHES THE PURPOSES OF ALL ACTIONS.
 
@@ -1024,9 +1005,7 @@ THE FIRST POSITION OF THIS VIDYA.
 
 Śiva is "h"; māyā is "Ī" and fire is "r". Hence HRĪM. By "of this (vidyā) is meant that the Ātmāsanagatā vidyā is to be made by
 
-828\. "Kulavidyā" suggests that it is the "lady of the fanily"
-
-to be kept hidden away and protected.
+[^328]: "Kulavidyā" suggests that it is the "lady of the fanily" to be kept hidden away and protected.
 
 [^329]: By doing aganyāsa with this mantra, t.e. by ritually placing the mantra on the various parts of the body, one is protected.
 
@@ -1040,7 +1019,7 @@ It is said:
 
 "The three syllable form of Ātmāsana (has) the nucleus of the ones above and below 'ṣ' graced with what follows 'ā' and 'au' in the place of the Vāgbhava of the first."
 
-Below "ṣ" is "h"; above it is "r". "Nucleus" is (said) because of its beginning with these two letters. The one at the end of "ā" is "Ï" and the one at the end of "au" is "ap". Thus HRĪM. >30
+Below "ṣ" is "h"; above it is "r". "Nucleus" is (said) because of its beginning with these two letters. The one at the end of "ā" is "Ï" and the one at the end of "au" is "ap". Thus HRĪM.[^330]
 
 He also speaks of the fourth (vidyā) known as Cakrāsanagatā:
 
@@ -1062,7 +1041,7 @@ On this subject it has been said:
 
 Here "first and third" refer to the (first and third) vidyās, and due to their respective order, the Vāgbhava is the "first" syllable. The Kāmarāja and Śakti bījas signify "that which follows". And taking each
 
-380\. One must consult the triangle of letters itn footnote 320 to understand that "r" and "L" are both above and below with respect to "s". "Am" comes after "au". "I" comes after "an
+[^330]: One must consult the triangle of letters itn footnote 320 to understand that "r" and "L" are both above and below with respect to "s". "Am" comes after "au". "I" comes after "an
 
 
 *[p. 243]* ^pg239
@@ -1071,11 +1050,11 @@ of these syllables one should join in fron the letter which comes below "\$", i.
 
 Here is the real meaning. Taking each of the first syllables of the first and third vidyās (i.e. the Vāgbhava and the māyā bīja), one should put in them (i.e. in the middle) their mutual last one (and) joined with the akti bīja is the one that comes after "ṣ" (i.e. with the letter "h" in front). That is the end of the matter.
 
-Since others have a tolerance of earlier points of view on that subject, the drawing out of Cakrāsanavidyā cannot be (conclusively) resolved in favour of SrimadīśvaraSiva any more than Rājānakalyāṇa. 331 We do not know according to which particular rules, principles and references, (or even with what intention), (the extraction) was done. And that being the case, what harm is there in taking sides? In reality both these &cãryas are promulgators of this doctrine among the Kashmiri people. So,33? whatever was expounded by the mouth of Srīviśvāvarta has been handed down for all from disciple to disciple in succession with me at the last. And as their credibility is the same, their opinions are accepted as authoritative by all. Due to their equal authority, either of their alternative opinions is legitimate, and there's no need to reject one of the two points of view. On the other hand, SrīmadīSvaraSivācārya's opinion carries a
+Since others have a tolerance of earlier points of view on that subject, the drawing out of Cakrāsanavidyā cannot be (conclusively) resolved in favour of SrimadīśvaraSiva any more than Rājānakalyāṇa.[^331] We do not know according to which particular rules, principles and references, (or even with what intention), (the extraction) was done. And that being the case, what harm is there in taking sides? In reality both these &cãryas are promulgators of this doctrine among the Kashmiri people. So,[^332] whatever was expounded by the mouth of Srīviśvāvarta has been handed down for all from disciple to disciple in succession with me at the last. And as their credibility is the same, their opinions are accepted as authoritative by all. Due to their equal authority, either of their alternative opinions is legitimate, and there's no need to reject one of the two points of view. On the other hand, SrīmadīSvaraSivācārya's opinion carries a
 
-531\. I.e., as both these gurus are venerable, a tolerant attitude extends towards either of their points of view. Sañkararāsí and Tśvaraśíva are the two initial promulgators of this sehool in Kashmir. Viśvāvarta and Jayaratha are in the line of Isvaraśiva and Rājānakalyāna ts in that of Śaṁkararāśi.
+[^331]: I.e., as both these gurus are venerable, a tolerant attitude extends towards either of their points of view. Sañkararāsí and Tśvaraśíva are the two initial promulgators of this sehool in Kashmir. Viśvāvarta and Jayaratha are in the line of Isvaraśiva and Rājānakalyāna ts in that of Śaṁkararāśi.
 
-332\. The text reads "tanah" in error for "tatah".
+[^332]: The text reads "tanah" in error for "tatah".
 
 
 *[p. 244]* ^pg240

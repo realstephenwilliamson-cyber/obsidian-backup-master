@@ -236,11 +236,11 @@ period.[^13]
 
 [^11]: The term and concept of "Sanskritization" was tntroduced by the Indian scholar Srinivas. (J.F. Staal, "Sanskrit and Sanskritization", Journal of Asian Studies 22 \[1963\], p. 261.)
 [^12]: Examples from the Catalogues of Inscriptions of goddesses who were worshipped early in this middle phase are Bhagavati Araṇyavāsini, the Mothers, Caṇqika and Cõãmuṇdā. Goddesses such as Durgā and KĀāli became prominent rather later.
-[^13]: Hindu Tantrism (Leiden: E.J. Brill, 1979), p. 18.
+[^13]: Sanjukta Gupta, Dirk Jan Hoens, and Teun Goudriaan, Hindu Tantrism (Leiden: E.J. Brill, 1979), p. 18.
 
 *[p. 14]* ^pg10
 
-In śaktism the ruling idea is not of a Mother Goddess who is a mere fertility symbol or another intercessor deity on par with other deities, but of an Absolute Being as Mother - in the sense that all creation and all forms of existence issue from her causal womb. In the view of her devotees, She is the brahman and even the Epic gods Siva and Viṣṇu1" are no more than inferior manifestations of her all pervading energy. She is the supreme dynamic aspect of the divinity, and it is to this third exalted conception of the Goddess that tantras such as the Kulacūdāmaṇi and the VāmakeSvarīmatam conform.
+In śaktism the ruling idea is not of a Mother Goddess who is a mere fertility symbol or another intercessor deity on par with other deities, but of an Absolute Being as Mother - in the sense that all creation and all forms of existence issue from her causal womb. In the view of her devotees, She is the brahman and even the Epic gods Siva and Viṣṇu[^14] are no more than inferior manifestations of her all pervading energy. She is the supreme dynamic aspect of the divinity, and it is to this third exalted conception of the Goddess that tantras such as the Kulacūdāmaṇi and the VāmakeSvarīmatam conform.
 
 Although it so happens that the majority of. tantras are associated with Goddess worship, it is not the case with all Tantric texts. It is well known that many serve the worship of Śiva, Viṣṇu, Gaṇpeśa, Sūrya and the Buddhist deities. But regardless of which deity is the object of worship, what generally characterizes Tantric texts is:
 
@@ -264,7 +264,7 @@ the body
 
 7\. Rules of conduct (especially kulācāra) and related topics 8. Praise of deities and relation of their exploits
 
-similar metaphysical status.
+[^14]: In the eyes of their devotees Śiva and Viṣṇu each assume a similar metaphysical status.
 
 *[p. 15]* ^pg11
 
@@ -274,12 +274,13 @@ preoccupied with the legendary history of their school or of Tantric literature 
 
 This broad description of Tantric subject matters does not mean that each tantra will be equally concerned with all of the above topics. Indeed, there is a great deal of selectivity and emphasis at work from one tantra to another and the term may apply to texts of wide and varying character as can be judged by the works here presented in translation.
 
-The Kulacūdāmani and the Vāmakeśvarīmatam classify as Śākta tantras, i.e., they are tantras connected with one or more manifestations of the Goddess as the divine feminine principle or Supreme Sakti. It is very likely that the word "tantra[^16]" is a later addition to the original titles of these two texts. In our edition, the VamakeSvara Tantra is actually called the VāmakeSvarīmatam or the "doctrine" of Vāmakeśvarī although it is most commonly referred to as the Vamakeś5-vara Tantra.[^17] Similarly, Kulacūdāãmaṇi was most probably the short and original title since "cūgāmaųti" was a category of textual material[^18] to which later generations tacked on the name of tantra. Despite the likelihood that the earliest versions of these texts did not include the word "tantra" as part of their titles, the appellation is entirely appropriate as both these texts deal with the sort of material outlined above.
+The Kulacūdāmani and the Vāmakeśvarīmatam classify as Śākta tantras, i.e., they are tantras connected with one or more manifestations of the Goddess as the divine feminine principle or Supreme Sakti. It is very likely that the word "tantra" is a later addition to the original titles of these two texts. In our edition, the VamakeSvara Tantra is actually called the VāmakeSvarīmatam or the "doctrine" of Vāmakeśvarī although it is most commonly referred to as the Vamakeś5-vara Tantra.[^16] Similarly, Kulacūdāãmaṇi was most probably the short and original title since "cūgāmaųti" was a category of textual material[^17] to which later generations tacked on the name of tantra. Despite the likelihood that the earliest versions of these texts did not include the word "tantra" as part of their titles, the appellation is entirely appropriate as both these texts deal with the sort of material outlined above.
 
 [^15]: Teun Goudriaan and Sanjukta Gupta, Hindu Tantrie and Sakta Literature (Wiesbaden: Otto Harrassowitz, 1981), p. 10. A similar deseription to the above is found on page one of the same work., "Tantras" and "Tantric literature" are expressions that refer to content more than they do to form.
 [^16]: The edition of the text with commentary by Bhāskararãya refers to itself as the Vāmakesvara Tantra.
 [^17]: Ibid., p. 11.
-[^18]: Texts which go by the names of "āgamas" and "saṇhitãs" may also fall within the field of Tantrie literature.
+
+18\. Texts which go by the names of "āgamas" and "saṇhitãs" may also fall within the field of Tantrie literature.
 
 *[p. 16]* ^pg12
 
@@ -311,15 +312,13 @@ After a few introductory passages, the text begins with the description of the m
 
 noticeably clear-cut distinctions between the chapters. In most cases the worship involves the ritual sexual intercourse which has made this cult so notorious, the sexual content is occasionally quite explicit, but if at other times it is only alluded to, it nevertheless forms an important part of most of the rites described.
 
-The text is written in sixteen syllable sokas and the language is simple and direct with only intermittent use of sandhyãābhāgṣa?5 when referring to mantras and other esoteric matters. In contrast to the generally unpretentious style - not without its poetic moments - the hymn in Chapter VII Verses 22-35 is conspicuous for its change of style to a baroque language full of similes and far-fetched metaphors. It would be obvious to any reader that the hymn has been interpolated. In his English language introduction to the KCT, Maitra points out that the Goddess' weapons referred to in this hymn are consistent with a later iconography that dates the hymn from sometimes after AD 1500.26 This laudatory hymn may have been subsequently introduced in order to raise the unvarnished tone of the KCT which, as a text, is actually much more like a manual than the great spiritual revelation that it professes to be. For the twentieth century however, its virtue lies in its very candour and directness graced by the simple but rather charming dialogues between Śiva and
+The text is written in sixteen syllable sokas and the language is simple and direct with only intermittent use of sandhyãābhāgṣa[^25] when referring to mantras and other esoteric matters. In contrast to the generally unpretentious style - not without its poetic moments - the hymn in Chapter VII Verses 22-35 is conspicuous for its change of style to a baroque language full of similes and far-fetched metaphors. It would be obvious to any reader that the hymn has been interpolated. In his English language introduction to the KCT, Maitra points out that the Goddess' weapons referred to in this hymn are consistent with a later iconography that dates the hymn from sometimes after AD 1500.[^26] This laudatory hymn may have been subsequently introduced in order to raise the unvarnished tone of the KCT which, as a text, is actually much more like a manual than the great spiritual revelation that it professes to be. For the twentieth century however, its virtue lies in its very candour and directness graced by the simple but rather charming dialogues between Śiva and
 
 Śakti.
 
-26\. Sandhyã bhāga is a kind of "twilight" language in which words are used with hidden meanings; Bharati says that "sandhābhāga entails a sort of systematice ambiguity" (Agehananda Bharati, The Tantric Tradition London: Rider and Co., 1965, p. 180), and Hoens says that "it is an intentional language” in whieh "a state of conseiousness is expressed by an erotice term" (Hindu Tantrism, p. 104).
+[^25]: Sandhyã bhāga is a kind of "twilight" language in which words are used with hidden meanings; Bharati says that "sandhābhāga entails a sort of systematice ambiguity" (Agehananda Bharati, The Tantric Tradition London: Rider and Co., 1965, p. 180), and Hoens says that "it is an intentional language” in whieh "a state of conseiousness is expressed by an erotice term" (Hindu Tantrism, p. 104).
 
-26\. Sir John Woodroffe - Arthur Avalon, ed., The Kulacüdāmaṇi
-
-Tantra with an Introduction by A.K. Maitra (London: Luzae and Co., I915), pp. 14-15.
+[^26]: Sir John Woodroffe - Arthur Avalon, ed., The Kulacüdāmaṇi Tantra with an Introduction by A.K. Maitra (London: Luzae and Co., I915), pp. 14-15.
 
 *[p. 19]* ^pg15
 
@@ -327,11 +326,11 @@ B. Dating of the Text
 
 The Kulacūgdāmaṇi "may be fairly old" according to Goudriaan[^27] who does not attempt to give an approximate century for the composition of the text. In Farquhar's bibliography,[^28] the KCT is classified as a text of the eighth century, but unfortunately, Farquhar does not give reasons for dating the text so early. This attribution may be founded on oral tradition, but it appears to be without corroboration in any other reliable source. Without such corroboration an eighth century date as proposed by Farquhar seems too early for the reasons set out below.
 
-Chapter I Verse 3 refers to the "Sāṁkara tradition" and it is unlikely that a philosophical movement {if that is the correct reference) of the eighth century would so rapidly gain authority as to be quoted in a virtually contemporary text. In an age of relatively slow and restricted communications (but bearing in mind the probable increased circulation on pilgrimage routes), one might expect general recognition to develop gradually over a period of at least a generation or two. Nor - if the existence of Hindu tantras is unprovable before AD 80029 - can one easily suppose that the sixty-four tantras listed in the KCT were extant at a time when such a considerable literature is barely recorded elsewhere. For these reasons, one is inclined to discount a date as early as the eighth century.
+Chapter I Verse 3 refers to the "Sāṁkara tradition" and it is unlikely that a philosophical movement {if that is the correct reference) of the eighth century would so rapidly gain authority as to be quoted in a virtually contemporary text. In an age of relatively slow and restricted communications (but bearing in mind the probable increased circulation on pilgrimage routes), one might expect general recognition to develop gradually over a period of at least a generation or two. Nor - if the existence of Hindu tantras is unprovable before AD 800[^29] - can one easily suppose that the sixty-four tantras listed in the KCT were extant at a time when such a considerable literature is barely recorded elsewhere. For these reasons, one is inclined to discount a date as early as the eighth century.
 
 Were it possible to date the tantras mentioned in the first chapter of the KCT, they would be excellent points of reference for the dating of the text itself. Unfortunately, the majority of tantras on this list appear to be titles that no longer correspond to extant
 
-29\. Goudriaan, Tantrie and Sākta Literature, p. 22. According to Sudhakar Chattopadhyaya, no Tantric text can be "confidently assigned to before the 9th C." (Reflections on the Tantras \[Delhi: M. Banarsidass, 1978\], p. 23.)
+[^29]: Goudriaan, Tantrie and Sākta Literature, p. 22. According to Sudhakar Chattopadhyaya, no Tantric text can be "confidently assigned to before the 9th C." (Reflections on the Tantras \[Delhi: M. Banarsidass, 1978\], p. 23.)
 
 [^27]: Goudriaan, Tantrie and Sãkta Literature, p. 92.
 [^28]: J.N. Farquhar, An Outline of the Religious Literature of India, (Oxford University Press, 1920), p. 888.
@@ -386,19 +385,17 @@ the Kulacūgdāmaṇi .
 
 A search through all the epigraphical data reveals that one of the earliest surviving references to a cult of the Mothers dates from the 5th C AD. This often quoted inscription states that "Yisvavarman built a temple of Viṣṇu - also a temple of the Divine Mothers" who are later described as accompanied by:
 
-female ghouls...who uttered loud and tremendous shouts in joy (and) who stir up the (very) oceans with the mighty wind rising from the magic rites of their religion.\*?
+female ghouls...who uttered loud and tremendous shouts in joy (and) who stir up the (very) oceans with the mighty wind rising from the magic rites of their religion.[^47]
 
-When one analyses all the data one finds that of the twenty-five other references to the Mothers culled from the recorded inscriptions, eighty-eight percent fall between the 5th and 8th centuries. From the 9th to the 12th centuries, known epigraphical references to the Mothers fall away sharply with apparently only three inscriptions surviving from the l0th and one from the 12th centuries. A considerable number of these inscriptions mention the Mothers as the patrons of the Chalukyan dynasty. From these early Chalukyan inscriptions, one may deduce the power and influences of the Chalukyan rulers who in their turn probably encouraged the popularity of the cult to which they were devoted. It is equally possible that the cult of the Mothers declined with the decline of those very Chalukyan rulers. Certainly from the 9th century onwards the falling off in references to the Mothers is matched by a corresponding increase in honourable mentions and temple dedications to Goddesses such as Pārvatī, GaurĪ, Umā, Lakṣmī, Śrī, Sarasvatī and Durgā etcetera. The comprehensive list of inscriptions itemised in Table One!t8 demonstrates this correspondence and points to the early popularity of the Mothers in that second historical phase when goddess worship was becoming organised and goddess myths were forming a part of the Epics and the
+When one analyses all the data one finds that of the twenty-five other references to the Mothers culled from the recorded inscriptions, eighty-eight percent fall between the 5th and 8th centuries. From the 9th to the 12th centuries, known epigraphical references to the Mothers fall away sharply with apparently only three inscriptions surviving from the l0th and one from the 12th centuries. A considerable number of these inscriptions mention the Mothers as the patrons of the Chalukyan dynasty. From these early Chalukyan inscriptions, one may deduce the power and influences of the Chalukyan rulers who in their turn probably encouraged the popularity of the cult to which they were devoted. It is equally possible that the cult of the Mothers declined with the decline of those very Chalukyan rulers. Certainly from the 9th century onwards the falling off in references to the Mothers is matched by a corresponding increase in honourable mentions and temple dedications to Goddesses such as Pārvatī, GaurĪ, Umā, Lakṣmī, Śrī, Sarasvatī and Durgā etcetera. The comprehensive list of inscriptions itemised in Table One[^48] demonstrates this correspondence and points to the early popularity of the Mothers in that second historical phase when goddess worship was becoming organised and goddess myths were forming a part of the Epics and the
 
 Purāṇas.
 
 The epigraphical data on the Mothers is supported by archaeological evidence of a consistently early date. For example, there are sculptures of the Mothers at: \`
 
-47\. Corpus Inscriptionum Indicarum, Vol. 3, "Gangdhar Stone
+[^47]: Corpus Inscriptionum Indicarum, Vol. 3, "Gangdhar Stone Inscription of Vigvavarman" (Oxford: Government of India, n.d.), pp. 72-8.
 
-Inscription of Vigvavarman" (Oxford: Government of India, n.d.), pp. 72-8.
-
-48\. See the Appendix.
+[^48]: See the Appendix.
 
 *[p. 24]* ^pg20
 
@@ -495,13 +492,13 @@ Kullā, Kurukullā, Virodhī, Vipracittā, Ugramukhī, Ugraprabhā, Pradīpta, N
 
 Dictionary of the Indian Religions.
 
-For example, Vimalā is one of the ten Buddhist bhūmis;[^62] Kurukullā has various sādhanas in the SM;[^63] VāgīsvarĪ is one of the Buddhist attendants of the mother goddess Brahmāṇĵi;[^64] Pradīptā is probably Pradīpa Tārā who is the same as Aparājitās[^65] - an inferior Mahāyāna goddess; Kapālinī is a Buddhist deity in the SM and the NSP, and NĪ1ā66 is supposedly the same as Anilā and is a blue/black goddess in the NSP.[^67] Judging from their names, one suspects that Sukulā, Kulā, Ugramukhī and Ugraprabhā would also be part of the Buddhist pantheon if some identification could be found for them.
+For example, Vimalā is one of the ten Buddhist bhūmis;[^62] Kurukullā has various sādhanas in the SM;[^63] VāgīsvarĪ is one of the Buddhist attendants of the mother goddess Brahmāṇĵi;[^64] Pradīptā is probably Pradīpa Tārā who is the same as Aparājitās[^65] - an inferior Mahāyāna goddess; Kapālinī is a Buddhist deity in the SM and the NSP, and NĪ1ā[^66] is supposedly the same as Anilā and is a blue/black goddess in the NSP.[^67] Judging from their names, one suspects that Sukulā, Kulā, Ugramukhī and Ugraprabhā would also be part of the Buddhist pantheon if some identification could be found for them.
 
 [^64]: Ibid., p. 129.
 
 
 
-66\. Ibid., p. 212.
+[^66]: Ibid., p. 212.
 
 [^60]: Marie Therese de Mallman, Introduction a l'Iconographie du Tântrisme Bouddhique, Vol. T (Paris: Bibliotheque du Centre de Recherches sur L'Asie Centrale et la Haute Asie, 1975), p. 209.
 [^61]: Gosta Liebert, Iconographie Dietionary of the Indian Religions (Leiden: E.J. Brill, 1976).
@@ -573,7 +570,7 @@ The Vāmakesvarīmatam (or the VāmakeSvara Tantra) contains eight chapters; fiv
 
 *[p. 34]* ^pg30
 
-are written in verse of the same sixteen syllable metre, but the style of the YH is much drier and more technical suggesting that the texts are of separate authorship. Although often deliberately written in a cryptic language, the Sanskrit “is flawless”"81 and Goudriaan remarks of the NSA and the YH that "here we have two of the most accomplished products of Hindu Tantric literature".[^82] As both texts deal with the mystical nature of the rīeakra and the Śrīvidyā, they complement one another well and perhaps this is the reason why they were subsumed under the more general titles of VāmakeSvarīmata (the doctrine of VāmakeSvarī) or Vāmakesvara Tantra (the tantra of VāmakeSvara). The association of the two texts under their common "ghost" titles[^83] is a very old one.[^84]
+are written in verse of the same sixteen syllable metre, but the style of the YH is much drier and more technical suggesting that the texts are of separate authorship. Although often deliberately written in a cryptic language, the Sanskrit “is flawless”"[^81] and Goudriaan remarks of the NSA and the YH that "here we have two of the most accomplished products of Hindu Tantric literature".[^82] As both texts deal with the mystical nature of the rīeakra and the Śrīvidyā, they complement one another well and perhaps this is the reason why they were subsumed under the more general titles of VāmakeSvarīmata (the doctrine of VāmakeSvarī) or Vāmakesvara Tantra (the tantra of VāmakeSvara). The association of the two texts under their common "ghost" titles[^83] is a very old one.[^84]
 
 But to whom or what does the title of SrīVāmake5Svarī refer? Neither the NSA nor the YH (or their commentaries) make any reference to a deity called Vāmakeśvarī or VāmakeSvara.[^85] Translation of this name as the "leftish lord or lady" suggests lord or lady of the "left-hand path" or of the "left current".
 
@@ -583,7 +580,7 @@ The division which is perhaps best known outside of Tantric circles is that into
 
 Unfortunately the terms "left-hand" and "right hand" are not always similarly defined by the varying authors who employ them. In common usage, the left-hand path has "emphasized the use of the five
 
-81\. A familiarity with the Saradã script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
+[^81]: A familiarity with the Saradã script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
 
 [^82]: Goudriaan, Tantrie and Sākta Literature, p. 64.
 
@@ -598,31 +595,27 @@ Unfortunately the terms "left-hand" and "right hand" are not always similarly de
 
 *[p. 35]* ^pg31
 
-makāras,ë7 whereas in the right-hand path "emphasis is laid on meditation".[^88] But the fact that this latter interpretation is not always the uniform one can be judged from footnote eighty-nine.
+makāras,[^87] whereas in the right-hand path "emphasis is laid on meditation".[^88] But the fact that this latter interpretation is not always the uniform one can be judged from footnote eighty-nine.
 
-It is in connection with the more notorious connotations of the left-hand path and the five makāras that the meaning put forward by Bhāskararāya for vāmaka is related. He says that "vāmaka" means "contemptible because they do not perform the five sacrifices"?0 - implying that the worshippers are concerned only with the five notorious acts of ākta ritual. On this basis, the title of the VT would mean "The Queen or Lady of the Contemptible Ones".
+It is in connection with the more notorious connotations of the left-hand path and the five makāras that the meaning put forward by Bhāskararāya for vāmaka is related. He says that "vāmaka" means "contemptible because they do not perform the five sacrifices"[^90] - implying that the worshippers are concerned only with the five notorious acts of ākta ritual. On this basis, the title of the VT would mean "The Queen or Lady of the Contemptible Ones".
 
-The second classification into "rotas" or "currents" is a more ancient one, but it too is not very instructive for the good reason that texts of the left current are rare91 and their content and meaning are so far effectively unknown.
+The second classification into "rotas" or "currents" is a more ancient one, but it too is not very instructive for the good reason that texts of the left current are rare[^91] and their content and meaning are so far effectively unknown.
 
-87\. I.e., wine, fish, meat, parched grain and sexual intereourse.
+[^87]: I.e., wine, fish, meat, parched grain and sexual intereourse.
 
 [^88]: Vijhānabhairava or Divine Consetousness, trsl. and notes by  Jaideva Singh (Delhi: M. Banarstdass, 1979), p. 4.
 
 
 
-89\. Bharati says that "dakgiṇnācāra and vāmācāra refer to the
+89\. Bharati says that "dakgiṇnācāra and vāmācāra refer to the position of the female partner in the ritual in relation to the yogī; in praetices where she sits on his left, the ingrediente (sāmagrT) tend to be physically used, and where she sits on the right the use etther of substitutes or of meditation on the ingredients prevails". (Tantrie Tradition, p. 229.) "Vāmācāra prescribed an excessive use of intoxicants without any element of modesty in its praetice. While Kaulas use wine ete. in closed door compartments called Kulacakras, Vāmācārins take it publicly and profusely. Dakṣināecāra prohibits the use of such objects and preseribes instead smearing of ashes from funeral pyres, inhabiting in cremation grounds, using skull bones as utensils and so on. Vāmācāra is sweeter and quicker in results than Dakgiṇnācāra which ts more or less barbarie tn nature.” (B.N. Pandit, Aspects \_of Kashmir Saivism \[Srinagar: Utpal Publications, 1977\] p. 207.) The problems of definition may lie in the number of "paths", "eurrents" and "mouths" (see Goudriaan, Hindu Tantric and Sākta Literature, pp. 16-17), in which case Pandit's definition of Dakgiṇnamārga may be reconcilable with the "southern current” that is assoetated with Bhatrava and which tis constdered in the Brahma Yāmala to be impure. (Ibid., p. 16.)
 
-position of the female partner in the ritual in relation to the yogī; in praetices where she sits on his left, the ingrediente (sāmagrT) tend to be physically used, and where she sits on the right the use etther of substitutes or of meditation on the ingredients prevails". (Tantrie Tradition, p. 229.) "Vāmācāra prescribed an excessive use of intoxicants without any element of modesty in its praetice. While Kaulas use wine ete. in closed door compartments called Kulacakras, Vāmācārins take it publicly and profusely. Dakṣināecāra prohibits the use of such objects and preseribes instead smearing of ashes from funeral pyres, inhabiting in cremation grounds, using skull bones as utensils and so on. Vāmācāra is sweeter and quicker in results than Dakgiṇnācāra which ts more or less barbarie tn nature.” (B.N. Pandit, Aspects \_of Kashmir Saivism \[Srinagar: Utpal Publications, 1977\] p. 207.) The problems of definition may lie in the number of "paths", "eurrents" and "mouths" (see Goudriaan, Hindu Tantric and Sākta Literature, pp. 16-17), in which case Pandit's definition of Dakgiṇnamārga may be reconcilable with the "southern current” that is assoetated with Bhatrava and which tis constdered in the Brahma Yāmala to be impure. (Ibid., p. 16.)
+[^90]: Lalitã-Sahasranãman with Bhāskararāya's commentary, trsl. R. Anantakrishna Sastry (Madras: The Theosophical Publ. House, 1951; reprint ed. 1976), p. 360.
 
-90\. Lalitã-Sahasranãman with Bhāskararāya's commentary, trsl.
-
-R. Anantakrishna Sastry (Madras: The Theosophical Publ. House, 1951; reprint ed. 1976), p. 360.
-
-91\. "The left current seems to have become extingutshed at an early date; of its texts, only the VIṇāsíikha has been preserved..." (Goudriaan, Hindu Tantric and Sākta Literature, p. 16.)
+[^91]: "The left current seems to have become extingutshed at an early date; of its texts, only the VIṇāsíikha has been preserved..." (Goudriaan, Hindu Tantric and Sākta Literature, p. 16.)
 
 *[p. 36]* ^pg32
 
-Furthermore, since the cardinal point of orientation in Indian tradition is to the east, there is a sense in which the title of the text means the "doctrine or tantra of the northerly lady/lord", alluding thereby to the "vēmamārga" (or uttarāmnāya) whose teachings are "proceeding from the Northern mouth".[^92] As "Kashmir 5aivism is identified with the uttarāmāya"9ž and the VT is a text associated with Kashmir Saivism, there may be good reason for interpreting the title of the VT in this light.
+Furthermore, since the cardinal point of orientation in Indian tradition is to the east, there is a sense in which the title of the text means the "doctrine or tantra of the northerly lady/lord", alluding thereby to the "vēmamārga" (or uttarāmnāya) whose teachings are "proceeding from the Northern mouth".[^92] As "Kashmir 5aivism is identified with the uttarāmāya"[^93] and the VT is a text associated with Kashmir Saivism, there may be good reason for interpreting the title of the VT in this light.
 
 The title "Vāmakesvarīmatam" could have additional significance in a way that is revealed in the Siddhāntasikhāmaṇi where the word "left" is synonymous with Sakti.[^94] In this case the meaning of Vāma-keśvarīmatam would be the "doctrine of the Śakti or Śakti-like lady".[^95]
 
@@ -632,7 +625,7 @@ The first five chapters of the Vāmakesvara Tantra presented here in translation
 
 Chapter I is concerned with the making and worship of the Srīceakra; Chapter II speaks of the various benefits obtainable from its worship; Chapter III describes the mudrās required for worship;
 
-93\. Rastogi, Krama Tantrieism, p. 20.
+[^93]: Rastogi, Krama Tantrieism, p. 20.
 
 [^95]: The additional reason for calling the path pointed out by the Śaivāgamas, which originate from the northern face, Vāmamārga seems to be the influence...of Śiva and Śakti. ..the wife, according to the Indian tradition always stands to the left of the husband... the word Vāmā in Sanskrit, for this reason, stands for wife." (Pandey, Abhinavagupta, p. 611.) An exception to this general rule ts the goddess Minākṣt who ts regularly seated on the right.
 
@@ -649,29 +642,21 @@ Although the text is directed to the instruction of the initiate, the language m
 
 The sixteen nityās of the title form part of a lunar symbolism and they are enumerated and briefly dealt with at the beginning of the text. But despite the title, it is the "foremost nityā" Mahātripurasundarī who constitutes the chief subject matter of the NSA in the context outlined above. Alongside its proper titles, the text is equally often referred to as the "Catuḥġsati" since it is supposed to contain four-hundred verses.
 
-Four hundred verses, however, is not the actual count for all the editions. In our edition of the work as published in the Kashmir Sanskrit Texts Series with its commentary by Jayaratha, the NSA contains three hundred seventy-eight and a half ślokas, if one makes the necessary correction in the numbering of the verses from fifty-nine onwards in Chapter IV.98 In the edition of the NSA with its 17th-18th century "Setubandha" commentary by Bhāskararāya in the Ānandāśama Series,97 the 5lokas of the NSA amount to four hundred and twenty-one. It is only in the Varanasi edition
+Four hundred verses, however, is not the actual count for all the editions. In our edition of the work as published in the Kashmir Sanskrit Texts Series with its commentary by Jayaratha, the NSA contains three hundred seventy-eight and a half ślokas, if one makes the necessary correction in the numbering of the verses from fifty-nine onwards in Chapter IV.[^96] In the edition of the NSA with its 17th-18th century "Setubandha" commentary by Bhāskararāya in the Ānandāśama Series,[^97] the 5lokas of the NSA amount to four hundred and twenty-one. It is only in the Varanasi edition
 
-36\. Verse 58 has been numbered twice over.
+[^96]: Verse 58 has been numbered twice over.
 
-97\. The \_"Nityāgodasikārṇava" \_ of the Vāõmakesvara Tantra, ed.
-
-Kāsinātha Sāstri Agāse, Anandāsrama Sanskrit sertes 56
-
-(Poona, 1908).
+[^97]: The \_"Nityāgodasikārṇava" \_ of the Vāõmakesvara Tantra, ed. Kāsinātha Sāstri Agāse, Anandāsrama Sanskrit sertes 56 (Poona, 1908).
 
 *[p. 38]* ^pg34
 
-with commentaries by Sivānanda and Vidyānanda?8 that the text actually contains the four hundred verses attributed to it. Between these three editions, of course, the text does have an average of four hundred verses because the Kashmir edition is minus twenty-one and a half verses and the ĀnandāSrama edition has a surplus of twenty-one verses. A comparison of these three selected editions reveals that the discrepancies between the texts do not involve material of any significance. Indeed, the chief discrepancy arises over seventeen verses which are found in the commentary of the Kashmir edition, but which in the Ānandāsrama and Varānasi editions are included in the main NSA text. This interpolation takes place at Verse 58 of our edition. The additional four and a half verses in the Varānasi edition as well as the twenty-five and a half extra verses in the ĀnandāSrama text, are verses which take the subject under discussion a little further without adding notably new material to the content of the text.
+with commentaries by Sivānanda and Vidyānanda[^98] that the text actually contains the four hundred verses attributed to it. Between these three editions, of course, the text does have an average of four hundred verses because the Kashmir edition is minus twenty-one and a half verses and the ĀnandāSrama edition has a surplus of twenty-one verses. A comparison of these three selected editions reveals that the discrepancies between the texts do not involve material of any significance. Indeed, the chief discrepancy arises over seventeen verses which are found in the commentary of the Kashmir edition, but which in the Ānandāsrama and Varānasi editions are included in the main NSA text. This interpolation takes place at Verse 58 of our edition. The additional four and a half verses in the Varānasi edition as well as the twenty-five and a half extra verses in the ĀnandāSrama text, are verses which take the subject under discussion a little further without adding notably new material to the content of the text.
 
 One may therefore presume that this Kashmir edition contains not only tne oldest extant commentary on the NSA, but also the basic core of the text to which comparatively trivial modifications were later made. The verse in which the discrepancies between the three texts arise are detailed below.[^99]
 
 The principal subject matter of the VT is the esoteriç Śrīceakra and the Śrīvidyā. But in order to arrive at a basic understanding of the text, a commentary is necessary and it is by virtue of the commentary written by Jayaratha that the NSA was assimilated into the profound philosophic traditions of Kashmir Śaivism whose relevant aspects are dealt within Part II. The need for a commentary is a long standing one and can be judged by the several Sanskrit commentaries that are extant.[^100] Goudriaan says that the earliest commentary is reported by Jayaratha as
 
-98\. The Nityāgodasikārnava with Commentaries "Rjuvimarsint" by
-
-Sivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yoga-Tantra-Granthamãlā Vol. 1 (Varanasi: Varanaseya
-
-Sanskrit Vishvavidyalaya, 1968).
+[^98]: The Nityāgodasikārnava with Commentaries "Rjuvimarsint" by Sivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yoga-Tantra-Granthamãlā Vol. 1 (Varanasi: Varanaseya Sanskrit Vishvavidyalaya, 1968).
 
 [^99]: See the Appendix.
 [^100]: Jayaratha's "Vivarana" (12th C); Sivānanda's "Rjuvimarśin"  (13th C); Vidyānanda's "A4rtharatnāval?" (? C) and Bhāskararāya's "Setubandha” (18th C). (Goudriaan, Bindu Tantric and Sākta Literature, p. 60.
@@ -715,9 +700,7 @@ The final guru whom Jayaratha mentions in a way which indicates that the guru wa
 
 [^108]: See commentary to I:1.
 
-ikā listed by Pandey as a work of Kgemarāja. (Ibíid., p. 2586.)
-
-[^109]: One presumes that it is the same text as the Utpala Stotrāvali
+[^109]: One presumes that it is the same text as the Utpala Stotrāvali ikā listed by Pandey as a work of Kgemarāja. (Ibíid., p. 2586.)
 
 *[p. 41]* ^pg37
 
@@ -760,15 +743,15 @@ Jayaratha frames the verses of the "NityāṣogdaSikārṇava" in a philosophy a
 
 C. Dating and Provenance of the Text
 
-If ĪsvaraSiva (9th C) was indeed a commentator of the VāmakeSvara Tantra, it implies a very early date for the composition of this text. The assertion!15 is made on the basis of a passage from Jayaratha's commentaryt17 which reads: "the drawing out of Cakrāsana-vidyā cannot be resolved in favour of Srīmadīśvara5Siva anymore than Rājānakalyāṇa". Unfortunately, one cannot agree that this is the obvious and only interpretation of that passage since ĪSvaraśiva may have extracted that mantra in relation to a quite different text and therefore one cannot depend upon it as an argument in favour of so early a date of composition. Moreover, had it been commented upon by the eminent ĪSvaraSiva, one would expect Abhinavagupta to have at least quoted from the text...,118 something which he did not do.
+If ĪsvaraSiva (9th C) was indeed a commentator of the VāmakeSvara Tantra, it implies a very early date for the composition of this text. The assertion[^116] is made on the basis of a passage from Jayaratha's commentary[^117] which reads: "the drawing out of Cakrāsana-vidyā cannot be resolved in favour of Srīmadīśvara5Siva anymore than Rājānakalyāṇa". Unfortunately, one cannot agree that this is the obvious and only interpretation of that passage since ĪSvaraśiva may have extracted that mantra in relation to a quite different text and therefore one cannot depend upon it as an argument in favour of so early a date of composition. Moreover, had it been commented upon by the eminent ĪSvaraSiva, one would expect Abhinavagupta to have at least quoted from the text...,[^118] something which he did not do.
 
 The facts at hand for speculation on the date of the text are few and are the following:
 
-116\. Goudriaan, Hindu Tantric and Sākta Literature, p. 60.
+[^116]: Goudriaan, Hindu Tantric and Sākta Literature, p. 60.
 
-117\. Cormentary to VT I:88. See note 92 of the translation.
+[^117]: Cormentary to VT I:88. See note 92 of the translation.
 
-118\. It is Goudriaan who points out that the VT is not referred to by Abhinavagupta. (Ibid., p. 60.)
+[^118]: It is Goudriaan who points out that the VT is not referred to by Abhinavagupta. (Ibid., p. 60.)
 
 *[p. 44]* ^pg40
 

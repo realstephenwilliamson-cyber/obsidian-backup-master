@@ -42,9 +42,9 @@ It is the Saiva philosophy of Kashmir that provides the most appropriate backgro
 
 Saiva author Jayaratha.
 
-The traditional kinship between Kashmir Saivism and Śaktism is apparent from the time of the earliest writers of the Kashmir Saiva school. It was the commentator on Somãnanda's Sivadrṣṭi {9th C) who remarked that the Śāktas are "śvayūthyas", i.e. persons who belonged to the rank of Saivas like himself.1! It seems as though Kashmir Saivism readily embraced the Sākta viewpoint, although it does not follow that all aspects of Śaktism are derived from Kashmir Saivism. Indeed the Vaiṣṇavas had their own interpretations on the subject and the same ideas - under differing names - extend into Buddhism. Unfortunately, in the absence of an authoritative survey of the many Sākta and Kashmir Saiva texts and schools, it is impossible to specify their relationship to one another. All that one can assuredly affirm is that there exists a relationship between Śaktism and Kashmir Śaivism; that this relationship is clearly evidenced in the commentary to the NSA and that the ideas of Kashmir Śaivism are equally compatible with the Kulacūdāmaṇi Tantra.
+The traditional kinship between Kashmir Saivism and Śaktism is apparent from the time of the earliest writers of the Kashmir Saiva school. It was the commentator on Somãnanda's Sivadrṣṭi {9th C) who remarked that the Śāktas are "śvayūthyas", i.e. persons who belonged to the rank of Saivas like himself.[^1-p47] It seems as though Kashmir Saivism readily embraced the Sākta viewpoint, although it does not follow that all aspects of Śaktism are derived from Kashmir Saivism. Indeed the Vaiṣṇavas had their own interpretations on the subject and the same ideas - under differing names - extend into Buddhism. Unfortunately, in the absence of an authoritative survey of the many Sākta and Kashmir Saiva texts and schools, it is impossible to specify their relationship to one another. All that one can assuredly affirm is that there exists a relationship between Śaktism and Kashmir Śaivism; that this relationship is clearly evidenced in the commentary to the NSA and that the ideas of Kashmir Śaivism are equally compatible with the Kulacūdāmaṇi Tantra.
 
-Pandit, Kashmir Satvism, p. 94. The expression "gvayūāthyas” ts mistaken; the author must have intended "svayūthyas” meaning "a relation" or "one's belongings".
+[^1-p47]: Pandit, Kashmir Satvism, p. 94. The expression "gvayūāthyas” ts mistaken; the author must have intended "svayūthyas” meaning "a relation" or "one's belongings".
 
 *[p. 48]* ^pg44
 
@@ -64,9 +64,9 @@ Saktism hold that the noumenon and phenomenon are the two equally valid aspects 
 
 The difficulty for human nature is that divine dynamism or "Sakti" so involves the individual in the course of world experience (pravrtti) that the ensnared soul is no longer able to perceive the divine unity which underlies all things. By turning back along the self same course (nivrtti), however, the adept can attain that state in which the dualisms of experience such as "inner-outer", "subject-object" and so on are re-integrated into a quiescent unity. Thus the Sākta begins with a natural attitude of world acceptance that allows him to use the universe and all that it comprises as the very means by which he returns to its source.
 
-As a consequence, there is nothing intrinsically inappropriate in using the five notorious "Ms" - wine, meat, fish, grain and sexual intercourse? as part of religious practice. On the sākta premise almost anything can serve as a means to God and all\] depends on one's State of mind or the degree of consciousness that one directs to the rites. Engaged in without the proper awareness and attention to their underlying divine nature, the rituals are at best fruitless and at worst destructive, whereas the very same actions performed with a proper recognition of their true nature serve as the channels through
+As a consequence, there is nothing intrinsically inappropriate in using the five notorious "Ms" - wine, meat, fish, grain and sexual intercourse[^3-p49] as part of religious practice. On the sākta premise almost anything can serve as a means to God and all\] depends on one's State of mind or the degree of consciousness that one directs to the rites. Engaged in without the proper awareness and attention to their underlying divine nature, the rituals are at best fruitless and at worst destructive, whereas the very same actions performed with a proper recognition of their true nature serve as the channels through
 
-5\. Madya, Mapsa, matsya, mudra and maithuna. In Kashmir Satvism wine, meat and sexual intercourse are the only three in ritual use;
+[^3-p49]: Madya, Mapsa, matsya, mudra and maithuna. In Kashmir Satvism wine, meat and sexual intercourse are the only three in ritual use;
 
 *[p. 50]* ^pg46
 
@@ -88,15 +88,13 @@ wife.[^6]
 
 As always, the sine qua non of success in these sometimes hazardous rituals is a properly directed consciousness, for without it, the adept falls ever deeper into the meshes of mãyà.
 
-Consequently many rather more conventional adepts will shy away from these audacious paths. Yet all Sākta - and probably al\] Kashmir Saiva followers - will admit that the world and the human inclinations of those who live in it are valid instruments by which one sublimates an inferior awareness into a higher realization of the divine ground of the universe. By repeatedly redirecting his consciousness from the lower to the higher, the aspirant becomes more and more permanently imbued with. the awareness of the triple identity between himself, the universe and the Supreme Being? into which he ultimately hopes to be transformed.
+Consequently many rather more conventional adepts will shy away from these audacious paths. Yet all Sākta - and probably al\] Kashmir Saiva followers - will admit that the world and the human inclinations of those who live in it are valid instruments by which one sublimates an inferior awareness into a higher realization of the divine ground of the universe. By repeatedly redirecting his consciousness from the lower to the higher, the aspirant becomes more and more permanently imbued with. the awareness of the triple identity between himself, the universe and the Supreme Being[^7] into which he ultimately hopes to be transformed.
 
 If consciousness plays such an important part, it is because Kashmir Śaivas and Śāktas believe that Śiva is nothing but pure consciousness or eit. His Śakti is also nothing but consciousness as eiti, but it is a consciousness that takes the form of the consciousness of being conscious, i.e. self-consciousness. The consciousness of Śiva is pure and static, whereas the self-consciousness of Śakti is dynamic because self-consciousness or "I-ness" contains the seed of volition from which all activity and the world process originates. However, Śiva and Śakti - Consciousness and Self-consciousness - forever remain the inseparable concomitants of the One Divine Being.
 
 The endeavour of the adept to realize his identity with the universe as well as with the deity is not just a fanciful identification, but is said to be a real\] one in which the.microcosm of the individual man (nara) corresponds to the macrocosm of the universe. What exists in the one exists homologously in the other and vice-versa. The consequences of this belief are profound since it means
 
-7\. Expressed in Kashmir Saiva terms as "Siva, Sakti, nara";
-
-a concept which also confers the name of the "Trika system" on this school of thought. (Gonda, Medieval Religious Literature, p. 161 no. 54.)
+[^7]: Expressed in Kashmir Saiva terms as "Siva, Sakti, nara"; a concept which also confers the name of the "Trika system" on this school of thought. (Gonda, Medieval Religious Literature, p. 161 no. 54.)
 
 *[p. 52]* ^pg48
 
@@ -174,11 +172,11 @@ the supreme non-duality Commentary to II:74-75
 
 *[p. 55]* ^pg51
 
-Part of the ambiguity may stem from the possibility that the term kula was adopted from Buddhism. B. Bhattacarya says that "the large number of interpretations of the word shows unmistakably that the Hindus were not certain about the meaning of it". Bhattacarya implies that the Hindus borrowed the term kula from Buddhism. In Buddhism, the root meaning of kula as "family" or "grouping" is applicable for it precisely refers to the families of the five Dhyāni Buddhas. In the above contexts, however, the translation "family" is not at all helpful and is rarely appropriate in Hindu texts. If Bhattacarya's premise that - imprecise connotations point to a borrowed concept - is correct, then the ambiguity of the term kula is adequately accounted for since there is no doubt that kula has any number of meanings of which Pandey lists at least a dozen.?
+Part of the ambiguity may stem from the possibility that the term kula was adopted from Buddhism. B. Bhattacarya says that "the large number of interpretations of the word shows unmistakably that the Hindus were not certain about the meaning of it".[^8] Bhattacarya implies that the Hindus borrowed the term kula from Buddhism. In Buddhism, the root meaning of kula as "family" or "grouping" is applicable for it precisely refers to the families of the five Dhyāni Buddhas. In the above contexts, however, the translation "family" is not at all helpful and is rarely appropriate in Hindu texts. If Bhattacarya's premise that - imprecise connotations point to a borrowed concept - is correct, then the ambiguity of the term kula is adequately accounted for since there is no doubt that kula has any number of meanings of which Pandey lists at least a dozen.[^9-p55]
 
 Of the various interpretations of kua one judges the following to be particularly important in relation to our texts:
 
-1\. In the Kulacūdāmaṇi Tantra, kula is often used as a proper name of the cult to which these texts subscribe,!° or as a substitute for the adjective "Sākta", i.e. that which relates to the cult of Śakti. In these contexts the term usually refers to objects and people sacred to the cult and is often employed in an alliterative fashion to lend poetic rhythm to the text - as in the following
+1\. In the Kulacūdāmaṇi Tantra, kula is often used as a proper name of the cult to which these texts subscribe,[^10-p55] or as a substitute for the adjective "Sākta", i.e. that which relates to the cult of Śakti. In these contexts the term usually refers to objects and people sacred to the cult and is often employed in an alliterative fashion to lend poetic rhythm to the text - as in the following
 
 example:
 
@@ -186,20 +184,23 @@ The sādhaka should not reveal the kula flower, the kula object, the kula pūjā
 
 One of the above quotations which corresponds to this usage is: "Having got up early and bowed to the kula tree".
 
-2\. Of the many meanings of kula given, but not expounded upon by Pandey, two of the more metaphysical ones state that kula means the "ultimate reality"11 and "the objective world and the power, the
+2\. Of the many meanings of kula given, but not expounded upon by Pandey, two of the more metaphysical ones state that kula means the "ultimate reality"[^11-p55] and "the objective world and the power, the
 
-8\. B. Bhattacarya, Buddhist Esoterism, p. 81. 3. . Pandey, Abhinavagupta, pp. 594-97. 10. Often the Kula doctrine ts referred to as Kaulism.
+[^8]: B. Bhattacarya, Buddhist Esoterism, p. 81.
+[^9-p55]: Pandey, Abhinavagupta, pp. 594-97.
+[^10-p55]: Often the Kula doctrine ts referred to as Kaulism.
+[^11-p55]: Ibid., p. 595.
 
 
 *[p. 56]* ^pg52
 
-Sakti".12 These definitions refer respectively to transcendent reality and immanent reality pointing thereby to a meaning which is perhaps a common denominator for all the definitions of kula. If kula iṣs both the "ultimate reality" and "of the world", the term indirectly refers to that union of Siva and Sakti which lies beyond all manifestations - which elsewhere Pandey says is the "most essential feature of the kula system".[^13-p56] Pandey further remarks that kula is called "pinda because all that is manifested has its being in it in an undifferentiated state".[^14] It is the ultimate principle which is "beyond the categories of Siva and Śakti and is asserted to be that in and from which \[the\] entire universe arises and in which it merges back".[^15]
+Sakti".[^12-p56] These definitions refer respectively to transcendent reality and immanent reality pointing thereby to a meaning which is perhaps a common denominator for all the definitions of kula. If kula iṣs both the "ultimate reality" and "of the world", the term indirectly refers to that union of Siva and Sakti which lies beyond all manifestations - which elsewhere Pandey says is the "most essential feature of the kula system".[^13-p56] Pandey further remarks that kula is called "pinda because all that is manifested has its being in it in an undifferentiated state".[^14] It is the ultimate principle which is "beyond the categories of Siva and Śakti and is asserted to be that in and from which \[the\] entire universe arises and in which it merges back".[^15]
 
 The commentary to the NSA mentions "being in the kuta which is the essence of the Self"[^16] and for Sāktas and Kashmir Saivas the Self means that Oneness of Siva and Śakti which man is. In his commentary to Chapter IV Verses 74 and 75, Jayaratha explicitly states that non-dualisn is at the root of kula when he says that "'by according to the kula ritual' is meant by meditation on the supreme non-duality".
 
 However, the term also strongly conveys the notion of the experience of non-duality which in Kashmir Saiva terms is the realization of the Oneness of God, the universe and man. The KCT says that kulas are those "who have given up their egoism",[^17] i.e. those who have merged their individuality into the unity of Śiva and Sakti. It seems likely therefore that one of the fundamental connotations of kuta is realization - not just intellectual appreciation - of supreme non-duality. Since non-duality is the ground of the universe, all things become kula as soon as their divine nature is truly realized. This broad interpretation partly accounts for the multiple uses of the word in the texts. Examples of such usage from the above quotations would be: “Having driven out the kula demon, the adept should worship the kula venue" and "Because of being in the kula which is the essence of the Self" etcetera.
 
-12\. Ibid., p. 595.
+[^12-p56]: Ibid., p. 595.
 
 [^13-p56]: Ibid., p. 584.
 
@@ -218,7 +219,7 @@ However, the term also strongly conveys the notion of the experience of non-dual
 
 3\. When kula does not carry the all-encompassing connotation of non-duality, then kula can more specifically represent the immanent reality of Sakti as opposed to the transcendent reality of Śiva who is consequently referred to as "akula". It is just this immanent reality that Śāktas particularly worship and the fact that their form of worship is known as the kula doctrine, or Kaulism, favours the more precise interpretation of kula as that creative aspect of the Absolute omnipresent in the universe. Examples are: "On leaving behind the kula body absolute fullness is established at the akula level" and "She is also participating in the satisfactions that arise in experiencing the kula plane".
 
-4\. The term kula is used even more precisely both as a synonym for Sakti the Supreme Goddess and as a synonym for Kuṇgdalinī in the sense that "kula means the road of sugumnā".18 N. Bhattacaryya seems to restrict entirely the meaning of the word kula to Sakti,19 but unfortunately this single interpretation does not properly account for all the extended usages of the word. "First meditating on the kula from the Mālādhāra upto the Brahmarandhra" is an example of this fourth usage.
+4\. The term kula is used even more precisely both as a synonym for Sakti the Supreme Goddess and as a synonym for Kuṇgdalinī in the sense that "kula means the road of sugumnā".[^18-p57] N. Bhattacaryya seems to restrict entirely the meaning of the word kula to Sakti,[^19-p57] but unfortunately this single interpretation does not properly account for all the extended usages of the word. "First meditating on the kula from the Mālādhāra upto the Brahmarandhra" is an example of this fourth usage.
 
 The above four interpretations of kula seem to be the most relevant to an understanding of the KCT and NSA texts. It should be borne in mind, however, that the meanings are not mutually exclusive for several connotations may be present at any one time. The difficulty with kula is that it is a multi-faceted and evocative term which ultimately yields its meaning on an intuitive level that is beyond the scope of any - or even all - definitions to fully express.
 
@@ -226,9 +227,9 @@ There are similar difficulties with another wide ranging kalā term that occurs 
 
 The word is kalā and Monier-Williams gives its basic meaning as a "small part of anything". This definition relates kalā to another standard meaning which is "digit" or a one-sixteenth part of the moon's diameter. In the commentary to Chapter V Verses 45 and 46
 
-18\. Lalitã-Sahasranãman, p. 3.
+[^18-p57]: Lalitã-Sahasranãman, p. 3.
 
-19, N. Bhattacharyya, Sākta Religion, p. 124.
+[^19-p57]: N. Bhattacharyya, Sākta Religion, p. 124.
 
 *[p. 58]* ^pg54
 
@@ -247,21 +248,17 @@ Singh defines kalā as "limited activity"[^23] and elsewhere he expands on the d
 
 *[p. 59]* ^pg55
 
-uswaying in the vast wave of kula kalās"?6 suggests that the Goddess is the sum and essence of the vast universe of energic entities.
+uswaying in the vast wave of kula kalās"[^26-p59] suggests that the Goddess is the sum and essence of the vast universe of energic entities.
 
 Kalā features equally with varṇa as the first
 
 gaqadhvan stages in the twin paths of actualisation known in Kashmir Śaivism as the ṣagadhvan. The two parallel paths simultaneously represent the process of creation in the direction of Substance and in the direction of Form.
 
-Substance is simply understood as matter, i.e. that which in its various states (solid, gaseous, liquid etc.) impinges on the senses. Form, on the other hand, may be associated with matter, but is not matter. In Kashmir Saivism, form is essentially the result of the Speech activity of the mind which projects form onto the data of perception. Hindu philosophers generally believe that mind actually falls within the realm of Substance, and that Speech?” is abstract and eternal.?8 Speech, therefore, is not a product of the mind, but is an independant creative factor that operates through mind. Without the natural concomitant of Speech, conscious thought processes are virtually inconceivable. Through language, Speech identifies and relates the data of experience with the result that entities are identified by nouns; their activities are predicated by verbs; their qualities are attributed by adjectives and adverbs, and their relationships are established by prepositions. Speech establishes the "what" and "how" of existence and is as essential a creative factor in the universe as is the material substance of which the universe is said to be made. The importance of the "word" in St. John's Gospel shows that the recognition of language as creative force is not altogether absent from Western culture. In certain other societies, it is well known that a person's name is directly Tinked to his vital essence and must be kept secret. Along with most Hindu philosophers on the subject, Kashmir Saivas do not relegate Speech to an inferior existential category, but recognize it as the creative channel by which form is conferred on amorphous substance.
+Substance is simply understood as matter, i.e. that which in its various states (solid, gaseous, liquid etc.) impinges on the senses. Form, on the other hand, may be associated with matter, but is not matter. In Kashmir Saivism, form is essentially the result of the Speech activity of the mind which projects form onto the data of perception. Hindu philosophers generally believe that mind actually falls within the realm of Substance, and that Speech[^27-p59] is abstract and eternal.[^28-p59] Speech, therefore, is not a product of the mind, but is an independant creative factor that operates through mind. Without the natural concomitant of Speech, conscious thought processes are virtually inconceivable. Through language, Speech identifies and relates the data of experience with the result that entities are identified by nouns; their activities are predicated by verbs; their qualities are attributed by adjectives and adverbs, and their relationships are established by prepositions. Speech establishes the "what" and "how" of existence and is as essential a creative factor in the universe as is the material substance of which the universe is said to be made. The importance of the "word" in St. John's Gospel shows that the recognition of language as creative force is not altogether absent from Western culture. In certain other societies, it is well known that a person's name is directly Tinked to his vital essence and must be kept secret. Along with most Hindu philosophers on the subject, Kashmir Saivas do not relegate Speech to an inferior existential category, but recognize it as the creative channel by which form is conferred on amorphous substance.
 
-26\. NSA 1:10.
-
-27\. Capitalised to indicate that it ts speech not in the vocal
-
-articulated sense, but Speech in the most abstract form. 28. .
-
-8 One of the Sanskrit words for "letter" - akṣara - means both letter and eternal.
+[^26-p59]: NSA 1:10.
+[^27-p59]: Capitalised to indicate that it ts speech not in the vocal articulated sense, but Speech in the most abstract form.
+[^28-p59]: One of the Sanskrit words for "letter" - akṣara - means both letter and eternal.
 
 *[p. 60]* ^pg56
 
@@ -283,23 +280,20 @@ of ṣaḍadhvan concisely sums up the constituents of the world experience - Sp
 
 There exist other pairs of metaphysical concepts that prakāśa feature in the commentary to the NSA. Chief of these vimarsa are the terms prakāśa and vímarśa which apply both at the transcendental level of Absolute Reality and at the immanent levels of cosmic and personal experience.
 
-At the highest level prakāśa is the equivalent of the transcendent. Śiva, just as vímarśa is equivalent to transcendent Śakti who represents the potency of Siva to manifest as the universe. Vimarśa "used with reference to the Universal Self, stands for that power which gives rise to self-consciousness, will, knowledge and action in succession".30
+At the highest level prakāśa is the equivalent of the transcendent. Śiva, just as vímarśa is equivalent to transcendent Śakti who represents the potency of Siva to manifest as the universe. Vimarśa "used with reference to the Universal Self, stands for that power which gives rise to self-consciousness, will, knowledge and action in succession".[^30-p61]
 
 On the level of the already manifested Universe in which Śakti is immanent, prakāga refers to the objective ground of the universe just as vimarśa is the power inherent in all cosmic forms of manifestation. In the words of Pandey,
 
-prakāśa is used for that aspect of the immanent Ultimate which serves as a substratum for all that manifests... \[and\] the word vímarga stands for that aspect which is simply a power. 31
+prakāśa is used for that aspect of the immanent Ultimate which serves as a substratum for all that manifests... \[and\] the word vímarga stands for that aspect which is simply a power.[^31-p61]
 
-Put yet another way, the noumenal aspect is called prakāãśa and the phenomenal aspect of the Supreme Being is called vimarśa. ž?
+Put yet another way, the noumenal aspect is called prakāãśa and the phenomenal aspect of the Supreme Being is called vimarśa.[^32-p61]
 
-According to Pandey prakāśa and vímarśa recur again on the level of the individual in the sense that prakāśa is the Self that contains residual traces acted upon by the intelligent, self-consciously ordaining vimarśa aspect of the personality.ž3
+According to Pandey prakāśa and vímarśa recur again on the level of the individual in the sense that prakāśa is the Self that contains residual traces acted upon by the intelligent, self-consciously ordaining vimarśa aspect of the personality.[^33-p61]
 
-30\. Pandey, Abhinavagupta, p. 327.
-
-31\. Ibid., p. 329.
-
-82\. Pandit, Kashmir Saivism, p. 205.
-
-53\. Pandey, Abhinavagupta, p. 325.
+[^30-p61]: Pandey, Abhinavagupta, p. 327.
+[^31-p61]: Ibid., p. 329.
+[^32-p61]: Pandit, Kashmir Saivism, p. 205.
+[^33-p61]: Pandey, Abhinavagupta, p. 325.
 
 *[p. 62]* ^pg58
 
@@ -337,13 +331,11 @@ At the material level the lowest category of "experiencers"
 
 \- or "knowers" (such as man, dog, cat) are constituted beings
 
-' (sakala), i.e. they are made up of kaltās. Less bound by the finite world and less grossly material are the Pralayākalas who are rid of karma mālā but are still subject to aṇava and māyīya māłlās. 0n the scale above the Pralayĝkala subjects, there is such an attenuation of the kałā element that one is effectively in the spiritual sphere. Herein the experiencing subjects ascent in godlike purity from Vijnānākala, Mantra, Mantregvara and Mantramaheśvaražł[^37] to end in the
-
-36\.
+' (sakala), i.e. they are made up of kaltās. Less bound by the finite world and less grossly material are the Pralayākalas who are rid of karma mālā but are still subject to aṇava and māyīya māłlās. 0n the scale above the Pralayĝkala subjects, there is such an attenuation of the kałā element that one is effectively in the spiritual sphere. Herein the experiencing subjects ascent in godlike purity from Vijnānākala, Mantra, Mantregvara and Mantramaheśvara[^37] to end in the
 
 [^35]: "Yogaśikhopanigṣad", The Yoga Upanigṣads, ed. G.S. Murti, trsl. T.R. Srinivasa Ayyangar (The Adyar Library, 1952), p. 362.
 [^36-p63]: Kṣemarāja, Pratyabhijñāhydayam, p. 88.
-[^37]: The actual classification of pramātrs may differ in a few respects from one authority to another, but the following ts a common one: Sakala and Pralayākala as defined above; Vijnānākala = Expertencer possesses knowledge, but ts devoid of agency; Mantra = Experiencer of the universe in close relation to the "I"; Mantreśvara = Expertencer of the universe as only an aspect of the Self; Mantramaheśvara = T-ness” predominates with only faint knowledge of the universe and Ŝiva Pramātā = Supreme Experiencer.
+[^37]: The actual classification of pramātrs may differ in a few respects from one authority to another, but the following ts a common one: Sakala and Pralayākala as defined above; Vijnānākala = Expertencer possesses knowledge, but ts devoid of agency; Mantra = Experiencer of the universe in close relation to the "I"; Mantreśvara = Expertencer of the universe as only an aspect of the Self; Mantramaheśvara = T-ness” predominates with only faint knowledge of the universe and Ŝiva Pramātā = Supreme Experiencer. (Ibid., p. 130.)
 
 *[p. 64]* ^pg60
 
@@ -703,11 +695,11 @@ The incalculable Tripurādevī and the incalculable Kālikā, Vāgīsvarī too a
 
 as well as Mātaṁginī, Pūrṇa, Vimalā, Caṇgdanāyikā, Tripurā, Ekajaṭāã and Durgā who is the other Kulasundarī,[^1]
 
-and such (doctrines) concerning the origin of things as the Vaiṣṇava,[^2-p74] the Gāṇapatya, the Śaiva, the Mahāsaura doctrine and (the doctrine) in the Sāṁkara tradition, they (are all familiar
+and such (doctrines) concerning the origin of things as the Vaiṣṇava, the Gāṇapatya, the Śaiva, the Mahāsaura doctrine and (the doctrine) in the Sāṁkara tradition, they (are all familiar
 
 to me).
 
-Plus the sixty-four most excellent Tantras[^3] of the Mothers: the Mahāsārasvata Tantra,[^4-p74]’ the Yoginījālasambara Tantra, \*
+Plus the sixty-four most excellent Tantras[^2-p74] of the Mothers: the Mahāsārasvata Tantra,[^3] the Yoginījālasambara Tantra,[^4-p74]
 
 [^1]: Verses 1 and 2 give a list of twelve "Kulasundarts", or feminine kula deities. Tripurā, Ekajaṭã and Durgā are well known in Saktism and Mātangini may correspond to Matañgi, but the list as a whole does not represent a familiar classification.,
 
@@ -719,25 +711,25 @@ Plus the sixty-four most excellent Tantras[^3] of the Mothers: the Mahāsārasva
 
 the tantra by the name of Tattvasambaraka, and the tantras
 
-called Bhairavāṣṭaka,>’
+called Bhairavāṣṭaka,[^5-p75]
 
 those by the name of Bahurūpāṣṭaka and the Yāmalaṣṭaka
 
-Tantras, 6
+Tantras,[^6-p75]
 
 Tantrajnâna Tantra, Vāsuki Tantra and the Mahâsammohana Tantra, also, Oh Great Goddess., the Mahāsukṣma, the Vāhana and the vVāhanottara Tantras,
 
-the Hpdbheda Tantra and the Mātrbheda Tantra, the Guhyatattva and Kāmika Tantras, the Kalāpaka Tantra, also the Kalāsāra Tantra,” and another tantra is the Kubjikāmata,
+the Hpdbheda Tantra and the Mātrbheda Tantra, the Guhyatattva and Kāmika Tantras, the Kalāpaka Tantra, also the Kalāsāra Tantra,[^7-p75] and another tantra is the Kubjikāmata,
 
-the Māyottara, Vīnākhya, Trodala, Trogdalottara Tantras ,¿' Pancāmṛta, Rūpabheda and the Bhūtadāmara Tantras,
+the Māyottara, Vīnākhya, Trodala, Trogdalottara Tantras ,[^8-p75] Pancāmṛta, Rūpabheda and the Bhūtadāmara Tantras,
 
-"Bhairavāgṭaka" refers to eight tantras dedicated to the eight Bhairavas and they are listed in footnote 18 of this Sanskrit text as: Asitāùga, Ruru, Caṇda, Krodha, Unmatta, Kapālī, Bhigaṇa and Saṇhāra; According to the same footnote these etght tantras are to be taken comprehensively as one tantra.
+[^5-p75]: "Bhairavāgṭaka" refers to eight tantras dedicated to the eight Bhairavas and they are listed in footnote 18 of this Sanskrit text as: Asitāùga, Ruru, Caṇda, Krodha, Unmatta, Kapālī, Bhigaṇa and Saṇhāra; According to the same footnote these etght tantras are to be taken comprehensively as one tantra.
 
-Following footnote 18 of this Sanskrit text the Bahurüpāṣṭaka Tantras are the eight tantras of the seven Mātgkas and Siva-dūtis. The eight Yāmala Tantras are given in footnote 18 as: Brahmayãmala, Viṣṇyuyāamala, Rudrayãmala, Lakgmiyāæmala, Skandayamala, Gaṇyesayamala, Grahayāamala and Umayamata. Although the Bhairava Tantras are to be counted as one tantra, the Bahurūpāṣṭaka and the Yāmalĝṣtaka count for eight tantras each.
+[^6-p75]: Following footnote 18 of this Sanskrit text the Bahurüpāṣṭaka Tantras are the eight tantras of the seven Mātgkas and Siva-dūtis. The eight Yāmala Tantras are given in footnote 18 as: Brahmayãmala, Viṣṇyuyāamala, Rudrayãmala, Lakgmiyāæmala, Skandayamala, Gaṇyesayamala, Grahayāamala and Umayamata. Although the Bhairava Tantras are to be counted as one tantra, the Bahurūpāṣṭaka and the Yāmalĝṣtaka count for eight tantras each.
 
-In the VT, the Kalāpaka Tantra ts substituted by Kālapāda Tantra and Kalãsara Tantra by Kālasãra. Presumably one ts a mistake for the other, but in the absence of other preserved tantra lists, we do not know which verston ts likely to be the correct one.
+[^7-p75]: In the VT, the Kalāpaka Tantra ts substituted by Kālapāda Tantra and Kalãsara Tantra by Kālasãra. Presumably one ts a mistake for the other, but in the absence of other preserved tantra lists, we do not know which verston ts likely to be the correct one.
 
-The VT gives this sequence of tantras as: Tantrottara, Vinādya (the same as Vināsikha according to Goudriaan, Hindu Tantric and Sakta Literature, p. 36 n. 16), Trotula and Trotulottara.
+[^8-p75]: The VT gives this sequence of tantras as: Tantrottara, Vinādya (the same as Vināsikha according to Goudriaan, Hindu Tantric and Sakta Literature, p. 36 n. 16), Trotula and Trotulottara.
 
 *[p. 76]* ^pg72
 
@@ -786,11 +778,14 @@ Is there passion anywhere (or ) happiness and pain? Does liberation exist? And w
 
 guruhood and discipleship?
 
-I am madly fond of (creation) when I have covered myself with māyā and become threefold,1+
+I am madly fond of (creation) when I have covered myself with māyā and become threefold,[^14-p77]
 
-19\. and I delight in the rapture that comes from union!’ with the Supreme Akula and become ever-changing.
+19\. and I delight in the rapture that comes from union[^15-p77] with the Supreme Akula[^16-p77] and become ever-changing.
 
 [^13]: The Sanskrit reads "parāpara" and is capable of various s interpretations. Apart from transcendent. (para) and, immanent (apara), the term may refer to the Kashmir Saiva triad of "para, parāpara and apara". In that case "para" refers to Stva, Sakti and thetr unton, and "apara" refers to Siva, Sakti and man. Or else, lparāpara" may refer to the third in the triad of feminine powers called: Parā, Aparā and Parāparā. (Pandey, Abhinavagupta, pp. 295-6.) She evolves into the threefold aktis Iechā, Jñāna and Kriyã. "Rasa" which usually means "flavour, juice, sentiment or absorbing interest in" etc., here has the Tantric sense of the joyful union of Ŝiva and Śakti. I.e., iva. See. the "Introd. to the Philo. of the Tegts"h
+[^14-p77]: She evolves into the threefold śaktis Icchā, Jñāna and Kriyā.
+[^15-p77]: "Rasa" which usually means "flavour, juice, sentiment or absorbing interest in" etc., here has the Tantric sense of the joyful union of Śiva and Śakti.
+[^16-p77]: I.e., Śiva. See the "Introd. to the Philo. of the Texts".
 
 *[p. 78]* ^pg74
 
@@ -873,11 +868,9 @@ For without this tantra, my Son:, even the gods[^30] lack the
 
 requisite qualifications (for this way of liberation).
 
-33\. Oh my Son![^31] I will speak of the purification of knowledge according to the kula practice.[^32] Having got: up early and bowed to the kula tree,[^33] the sādhaka,ž"
+33\. Oh my Son![^31] I will speak of the purification of knowledge according to the kula practice.[^32] Having got: up early and bowed to the kula tree,[^33] the sādhaka,[^34-p80]
 
-80. 81. 82. 35.
-
-34\. The "sãdhaka" is an aspiring practitioner not necessarily fulty adept.
+[^34-p80]: The "sãdhaka" is an aspiring practitioner not necessarily fulty adept.
 
 [^28]: In the text this compound laeks anusvāra, but it ts assumed that it is meant to be in the same case ending as all the other compounds in Verses 28-31.
 [^29-p80]: I.e., in spite of the differences in interpretation, this way of liberation ts part of the stock premises of all those who debate the subject. Its truth underlies all others.
@@ -888,32 +881,30 @@ requisite qualifications (for this way of liberation).
 
 *[p. 81]* ^pg77
 
-85\.
-
 34\. first meditating on the kula[^35-p81] from the Mūlādhāra[^36] up to the Brahmārandhra, should think on the gurus named Prahlādānanda Nātha, Sanakānanda,
 
 35\. Kumārānandanātha and VaSiṣṭānandanāthaka, Krodhānanda and Sukhānanda, and thereafter on Jnānānanda.
 
-36\. Then having worshipped the supreme Bodhānanda, he should meditate on the kula?ł7 up above.[^38] The hearts (of the gurus) are full of the joy that arises from the ecstasy of the sublime union[^39] and their eyes are brimming with bliss.
+36\. Then having worshipped the supreme Bodhānanda, he should meditate on the kula[^37-p81] up above.[^38] The hearts (of the gurus) are full of the joy that arises from the ecstasy of the sublime union[^39] and their eyes are brimming with bliss.
 
 37\. Al\] their obscurations are broken and crushed due to the embrace of kula[^40] and with hearts full of compassion they are
 
-ready (to favour) the kula disciple. %1
+ready (to favour) the kula disciple.[^41]
 
 38\. They know the (inner) meanings of all the kula tantras that provide blessings and freedom from fear.
 
-Thus having honoured the kula guru and dismissed the; kula mother+?
+Thus having honoured the kula guru and dismissed the; kula mother[^42]
 
-86. 87. 88. 39. 40. 41.
-
-37\. I.e., Kundalini.
+[^37-p81]: I.e., Kundalini.
 
 [^39]: The "sublime union" refers to the union of Śiva and Śakti in the Sahasrāra.
 
 [^35-p81]: I.e., the Kundalini.
 [^36]: The first of the six principal mystice cakras of the body. The other five are: Svādhiṣthāna. Maṇipūra, Anāhata, Visuddhi and Ajnā. At the “top of the head ts sttuated the one-thousand petalled lotus whieh contains the Brahmārandhra, or the "opening to Brahmā” through which the ātmā ts released.
 [^38]: Ie., in the Sahasrāra. Verse 34 refers to the awakening and raising of Kundalini to the Sahasrāra where Śiva abides. The prāṇamantra is instrumental in this process. The sādhaka should meditate on the gurus mentioned in the text in a space visualised in the Sahasrāra as the "A-ka-tha" triangle containing the fifty letters of the Sanskrit alphabet.
-[^40]: I.e., the Kundalint. The second half of Verse 36 and Verse 37 deseribe the "dhyāna" or the way in which one should visualize the gurus in : meditation. I.e., the Kundalini.
+[^40]: I.e., the Kundalint.
+[^41]: The second half of Verse 36 and Verse 37 deseribe the "dhyāna" or the way in which one should visualize the gurus in : meditation.
+[^42]: I.e., the Kundalini.
 
 *[p. 82]* ^pg78
 
@@ -921,7 +912,7 @@ Thus having honoured the kula guru and dismissed the; kula mother+?
 
 It is said, Oh my Son!, that the kula guru is a Śākta[^44] and the bringer of happiness.
 
-40\. (His knowledge) is secret and wonderful, Oh my Son:, and in the presence of a paśu\*#5 it is to be concealed.
+40\. (His knowledge) is secret and wonderful, Oh my Son:, and in the presence of a paśu[^45] it is to be concealed.
 
 When Śāktas who are devoted to the kula forsake the kula lord,[^46]
 
@@ -933,7 +924,7 @@ For that reason one should take refuge in the kula guru with all
 
 one's strength.
 
-42\. It is said that the kulíina\*#8 is an authority in all branches of
+42\. It is said that the kulíina[^48] is an authority in all branches of
 
 learning.
 
@@ -941,15 +932,15 @@ Here, he alone and no other is the master of initiation (and) of all mantra.[^49
 
 End of Chapter I
 
-48\. "Initiation" does not fully render the meaning of the word "dikgā". Dīkgṣā is said to mark a point of no return in the spirttual life of a sādhaka after which he ts susceptible not only to the positive spiritual influences, but also to the negative ones should he fail in hts spiritual undertakings.
+[^47]: "Initiation" does not fully render the meaning of the word "dikgā". Dīkgṣā is said to mark a point of no return in the spirttual life of a sādhaka after which he ts susceptible not only to the positive spiritual influences, but also to the negative ones should he fail in hts spiritual undertakings.
 
-50\. The guru is the aspirant's most powerful guide on the spiritual path. 43\. , 44. 45. 46. 47. 48.
+[^49]: The guru is the aspirant's most powerful guide on the spiritual path.
 
 [^43]: I.e., having "brought down" the Kuṇngalint to Mūlādhāra. There is a prescribed and controlled manner for the return of Kungdalint.
 [^44]: The use of the word "Sākta" also implies that the guru is "empowered" to accelerate and guide his disceiple's spiritual progress.
-[^46]: "Pagu" literally means animal, but here refers to a person of common and ordinary disposition. The Sākta Tantras deseribe the other two types of humans as "vīra" (of herote disposition) and "divya" (of divine disposition).
-[^47]: I.e., the guru.
-[^49]: I.e., the guru.
+[^45]: "Pagu" literally means animal, but here refers to a person of common and ordinary disposition. The Sākta Tantras deseribe the other two types of humans as "vīra" (of herote disposition) and "divya" (of divine disposition).
+[^46]: I.e., the guru.
+[^48]: I.e., the guru.
 
 *[p. 83]* ^pg79
 
@@ -1004,4 +995,4 @@ To begin with, the mantra called Bhairava is to be offered pronouncing it in acc
 [^57]: I.e., water.
 [^58]: A mudrā ts a ritualtstte knotting of the fingers of the hands which the sãdhaka should perform while taking up the water. See Chapter III of the VT for a deseription of the "goad" mudrā.
 [^59]: A "kula tirtha" is a sacred watering and bathing place - usually by the side of a river.
-[^60]: As all things are of the one divine kula nature it ts actually Bhairava who is making the offering of Bhairava to Bhairava. 57. 58. 59. 60. The same idea ts exzpressed in B.G. IV:24.
+[^60]: As all things are of the one divine kula nature it ts actually Bhairava who is making the offering of Bhairava to Bhairava. The same idea ts exzpressed in B.G. IV:24.

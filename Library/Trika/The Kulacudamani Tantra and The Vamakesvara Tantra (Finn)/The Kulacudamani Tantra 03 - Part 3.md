@@ -84,13 +84,14 @@ and he should put the things for the deity before the deity
 
 24\. he should offer the remainder of the wine to the women and to himself.
 
-He should anoint the secret place and the Brahmārandhra with the yantra mixture. 7\*
+He should anoint the secret place and the Brahmārandhra with the yantra mixture.[^74]
 
 25\. The ointment should be presented to a kula worshipper or else dropped into water, but not given to heretics, fools, ordinary people, nor to any twice-born person.
 
-[^71]: According to the Íyāmārahasya "kunga" refers to male and female sexual Futis mixed together and "gola" is the menstrual fluid of a widow. But according to a contemporary Sākta pundit - from the traditionally Sākta region of Mithila - "kunda" is the first menstruation of a girl born to a woman from a man other than her husband, and "gola" refers to a girl's first menstruation after her father's death. rT Batohi Jha informs that there are many such different kinds of "pugpa". E.g., "vajrapugpa" is the first menstruation after a vomān has lost her virginitys "svayambhū" is any woman's first menstruation; "sarvakālod-bhava pugpa" is the regular monthly pertod; "gop? chandan" is a mixture of semen and menstrual blood and kulacüdāmani ts menstrual blood freely granted for the purpose of sādhana. The name of Svayambhīi is used for vartous plants.
-[^72]: I.e., wine.
-[^73]: I.e., the mixture referred to in Verses 21 & 22. Although the "secret place" is almost certainly a euphemistic reference to the genitals, "guptasthāne" may possibly be taken to qualify Brahmārandhre in which case the translation would read "in the secret place of the Brahmārandhra".
+[^71]: According to the Íyāmārahasya "kunga" refers to male and female sexual Futis mixed together and "gola" is the menstrual fluid of a widow. But according to a contemporary Sākta pundit - from the traditionally Sākta region of Mithila - "kunda" is the first menstruation of a girl born to a woman from a man other than her husband, and "gola" refers to a girl's first menstruation after her father's death. rT Batohi Jha informs that there are many such different kinds of "pugpa". E.g., "vajrapugpa" is the first menstruation after a vomān has lost her virginitys "svayambhū" is any woman's first menstruation; "sarvakālod-bhava pugpa" is the regular monthly pertod; "gop? chandan" is a mixture of semen and menstrual blood and kulacüdāmani ts menstrual blood freely granted for the purpose of sādhana.
+[^72]: The name of Svayambhīi is used for vartous plants.
+[^73]: I.e., wine.
+[^74]: I.e., the mixture referred to in Verses 21 & 22. Although the "secret place" is almost certainly a euphemistic reference to the genitals, "guptasthāne" may possibly be taken to qualify Brahmārandhre in which case the translation would read "in the secret place of the Brahmārandhra".
 
 *[p. 88]* ^pg84
 
@@ -117,7 +118,7 @@ Bringing his own beloved[^80] of good conduct and good repute,
 [^77]: The Kaula practice involving the five "makāras" "was performed in closed-door compartments called Kulacakras". (Pandit, Kashmir Saivism, p. 37.)
 [^78]: Literally: the "śakti of another". By definition the parasaktí may not be his wife or a woman with whom he would normally be entitled to have sexual relations.
 [^79]: The meaning of the verses ts not very clear but appears to be as follows: The sādhaka brings to the site of the cakra pūjā a arasakti who has not previously attended a kuta ENII atong with his own Sakti (svaśakti) who in this eireumstance may become the parasakti of someone else. He makes a yantra inseribing it with the parasakti's name ete..
-[^80]: The parasakti is intended here. Although the sādhaka should have chosen someone willing and of a compatible nature, Verses 30ff 75. 76. 77. 78. 79. 80. describe how a previously uninitiated woman is made willing to participate. One assumes that a "new" paraśakti is not introdur ced on every cakra pūjā occasion.
+[^80]: The parasakti is intended here. Although the sādhaka should have chosen someone willing and of a compatible nature, Verses 30ff describe how a previously uninitiated woman is made willing to participate. One assumes that a "new" paraśakti is not introdur ced on every cakra pūjā occasion.
 
 *[p. 89]* ^pg85
 
@@ -129,11 +130,11 @@ he should have her initiated according to the kula initiation
 
 32\. (rite) having obtained for the purpose a guru who is devoted to the kula.
 
-The wise guru whose mouth is filled with a morsel of pan is unshakeable, and worshipping the nobly born and virtuous woman - whose eyes are rolling in the ecstasy of highest blissë! - as if she were his own daughter, he should draw on her forehead
+The wise guru whose mouth is filled with a morsel of pan is unshakeable, and worshipping the nobly born and virtuous woman - whose eyes are rolling in the ecstasy of highest bliss[^81] - as if she were his own daughter, he should draw on her forehead
 
 33\. a Śakti cakra of three (triangles) one inside the other. In the middle of it is a Kūmakalā (yantra)[^82] drawn with Kuśa grass bearing the name and the mantra to be imparted
 
-(to her).83
+(to her).[^83]
 
 34 & 35\. Summoning the Goddess into that place on her forehead, and having meditated and done pūjā to the deity, he should repeat the root mantra with (the name of) the composer-sage and the verse metre =- three times into the left ear of
 
@@ -143,15 +144,16 @@ the daughter.
 
 36\. Taking up the proper kula behest and bereft of shame and sloth bring about the union according to the prescribed procedure."
 
-Her state of bliss ts produced by the initiation rite.
+[^81]: Her state of bliss ts produced by the initiation rite.
 
-[^82]: The Kāmakatlā diagram that would seem to be intended here ts two interlaced triangles making a figure of six points. For a discussion on Kāmakalā see Part III on Symbolism. Illustration to S 81. Verse 833 I.e., the name of the uninitiated woman and the mantra.
+[^82]: The Kāmakatlā diagram that would seem to be intended here ts two interlaced triangles making a figure of six points. For a discussion on Kāmakalā see Part III on Symbolism. Illustration to Verse 33: *(a drawing in the print)*
+[^83]: I.e., the name of the uninitiated woman and the mantra.
 
 *[p. 90]* ^pg86
 
 37\. Thus having obtained the permission of the guru, (the sādhaka) should do obeisance (to him) by stretching himself out like a rod on the ground.
 
-"Protect, Oh Lord! You who are the kula chief of the Padminīs8\* of the kula ritual.
+"Protect, Oh Lord! You who are the kula chief of the Padminīs[^84] of the kula ritual.
 
 38\. You who are rich in fame! Let the lustre of your lotus feet fall on my forehead!"
 
@@ -163,13 +165,13 @@ When she whose eyes are red as the betel has given a fee to the guru,
 
 End of Chapter II
 
-84\. The best of the four classes of women into whteh the sex tis divide
+[^84]: The best of the four classes of women into whteh the sex tis divide
 
 [^85]: The text reads "strakula" which gives no meaning. Aecording to the Bengali rescension of the Syāmãrahasya by Purṇānanda, the reading should be "svakula" indicating the Kundalini.
 [^86]: At the same time as the sādhaka has sexual unton with the. sakti he should take the Kundalini up to the Sahasrāra lotus and unite her there with Stiva.
 [^87]: Kundalint is the supreme goddess of the cakra which pervades the whole body. But within this body cākra are individual cakras or "Limbs" (Viśuddhi, Anāhata ete.) which are governed by subordinate aktis of the supreme Kundalinī. If the sādhaka ís very experienced in this type of yoga, he will be able to worship the Kuṇngdalint and bring her down to the Mūlādhāra gradually by also worshipping the subordinate deittes each in their turn. The practice requires levels of concentration difficult to sustain (yadi na kgamate) in the circumstances and for this reason, the sāãdhaka may simply conclude with repetition of the mantra.
 [^88]: I.e., in the Sahasrāra.
-[^89]: The unton of Śiva and Śakti produces an elixir of everlasting life 84. 85. 86. 87. 88. which is represented as a mystical sort of wine.
+[^89]: The unton of Śiva and Śakti produces an elixir of everlasting life which is represented as a mystical sort of wine.
 
 *[p. 91]* ^pg87
 
@@ -274,7 +276,7 @@ differing flavours
 [^101]: I.e., the śakti.
 [^102]: I.e., wine.
 [^103]: "They" refers to the gaktis mentioned in Verses 16 & 17. Any one of them duly worshipped may be the giver of siddhi.
-[^105]: The Puraścaraṇa ceremony precedes the main pūjā. Of its rituals 101. 102. 108. 104. which may vary, the repetition of mantra is an essential part.
+[^105]: The Puraścaraṇa ceremony precedes the main pūjā. Of its rituals which may vary, the repetition of mantra is an essential part.
 
 *[p. 95]* ^pg91
 
@@ -305,9 +307,9 @@ BrahmāṇÎ etcetera.[^108]
 (to the aktis).
 
 [^106]: Certain prectous or semi-precious gems are found in the different mountain regions.
-[^107]: 10?, The purified water is turned into nectar by a particular mudrā.
+[^107]: The purified water is turned into nectar by a particular mudrā.
 [^108]: A traditional list of the Mothers is: Brahmānl, Maheśvart, Kaumãrl, Vaiṣṇavī, Vārāhī, Indrānī, Cāmunṇdā and Raudrī. Each verse of the hym that follows in Verses 35 to 43 is addressed to one of these Mother goddesses, with the exception of Raudrt who is replaced by Mahālakgmt.
-[^109]: 109, "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and elarifted butter.
+[^109]: "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and elarifted butter.
 [^110]: The Sanskrit reads "keśasamskāra”, or in literal terms, "the adornment of the hair".
 
 *[p. 96]* ^pg92
@@ -326,7 +328,7 @@ And having invoked the sakti of each of them, he should place (the designated sa
 
 35\. "Om Mother Goddess! Homage to you! You who bear the form of the brahman! Sinless one:
 
-In your mercy remove the obstacle to my progress and grant me the fuil attainment. 112
+In your mercy remove the obstacle to my progress and grant me the fuil attainment.[^112]
 
 36\. Oh Great Lady! Giver of Boons! Oh Goddess! You who are the
 
@@ -346,7 +348,7 @@ In your mercy remove the obstacle (to my progress) and grant me the full attainm
 
 [^111]: I.e., the mantra HRIṆM,
 
-112. Here, the use of the word siddhi probably indicates success in the sādhaka's endeavours rather than any particular supernatural power.
+[^112]: Here, the use of the word siddhi probably indicates success in the sādhaka's endeavours rather than any particular supernatural power.
 
 [^113]: The use of the word "sctences" may be an indirect reference to the "Mahāvidyãs" - the well knoun classification of ten Sãkta goddesses:
 
@@ -378,9 +380,9 @@ Homage to you:
 
 44\. On seeing an accomplished lady[^115] no obstacle will arise for him who recites this hymn with concentration at the beginning of the rites.
 
-45\. Oh my Son! The door guardians of the kula (place) have already been mentioned to you.[^116] If one does not worship them at the time of initiation or at the time of doing the daily pūja,!17
+45\. Oh my Son! The door guardians of the kula (place) have already been mentioned to you.[^116] If one does not worship them at the time of initiation or at the time of doing the daily pūja,[^117]
 
-117\. There are three types of pūjā. (1) Nitya = pūjā which must be performed daily (2) Naimittika = püjā whtch is performed only on certain ocecastons and (3) Kāmya = püjā performed as and when the sādhaka pleases usually with some desired end tn view.
+[^117]: There are three types of pūjā. (1) Nitya = pūjā which must be performed daily (2) Naimittika = püjā whtch is performed only on certain ocecastons and (3) Kāmya = püjā performed as and when the sādhaka pleases usually with some desired end tn view.
 
 [^114]: Oh Great Illusion?
 [^115]: At one time educated ladies such as Ubhayabharati who challenged Saùkara were often considered to be especially formidable in debate. This hym will protect the sãdhaka should he ever have to confront such a lady.
@@ -404,7 +406,7 @@ then the fruits of his worship, Oh my Son!, are snatched away by the ghosts and 
 
 ear.)[^118]
 
-If (the women) are inclined to feel embarrassed, he may persuade them to eat by having them stand outside of their dwelling and reciting this hymn to them until they are sufficiently encouraged.119 And when they have rinsed their mouths, he should offer them betel leaf and something aromatic to sweeten their breath.
+If (the women) are inclined to feel embarrassed, he may persuade them to eat by having them stand outside of their dwelling and reciting this hymn to them until they are sufficiently encouraged.[^119] And when they have rinsed their mouths, he should offer them betel leaf and something aromatic to sweeten their breath.
 
 Then again he should present (to each of them) a garland daubed with sandal and perfume.
 
@@ -420,19 +422,17 @@ given up their egoism.
 
 In the absence of all (of the above women), any one (of these Saktts) is to be worshipped with all one's strength Be she purified or unpurified, a mother, or one without a husband.
 
-In the absence of the former,12° the latter may be worshipped as all women are a part of me.
+In the absence of the former,[^120] the latter may be worshipped as all women are a part of me.
 
 Oh Bhairava! If there is a man there who knows the kuta
 
 teachings, he (too) is deserving of worship:
 
-According to Maitra the hymm is called "Karnejapa-stotra" as one verse is whispered into the ear of each of the saktis.
+[^118]: According to Maitra the hymm is called "Karnejapa-stotra" as one verse is whispered into the ear of each of the saktis.
 
-Reluctant to eat in the presence of a male, the women will eat if the hym has been reeited. Also, it ts customary for the temple priest to recite verses while the idol in the temple privately "eats" the food placed as an offering.
+[^119]: Reluctant to eat in the presence of a male, the women will eat if the hym has been reeited. Also, it ts customary for the temple priest to recite verses while the idol in the temple privately "eats" the food placed as an offering.
 
-Presumably "former" refers to the purified women of Verse 51.
-
-[^118]: , 119.
+[^120]: Presumably "former" refers to the purified women of Verse 51.
 
 *[p. 99]* ^pg95
 
@@ -448,8 +448,6 @@ Presumably "former" refers to the purified women of Verse 51.
 
 59\.
 
-121\.
-
 If only one woman there is beheld and worshipped, then all the gods - Brahmā, Viṣṇu and Śiva etcetera have been adored.
 
 Oh Kulabhairava: Al\] the goddesses are worshipped at the beginning, middle and especially on completion of a hundred thousand (repetitions of the mantra).
@@ -460,23 +458,13 @@ Without the good karma resulting from a previous birth, how can there be any que
 
 Therefore, if he truly wills his own good (also the destruction of my anger and afflictions, and the removal of obstacles),
 
-he should make a point of automatically worshipping all kula and non-kula women.121 In the early morning worship, or again at the time of taking a bath,
+he should make a point of automatically worshipping all kula and non-kula women.[^121] In the early morning worship, or again at the time of taking a bath,
 
 the women of all castes are to be honoured whether purified or unpurified, or even of low caste, Oh my Son:, and kula women are honoured at the time of kula worship.
 
 If there is a glimpse of the seat of the Goddess during a puraścaraṇa ceremony,
 
-As given in Chapter VII Verses 42-44 of the Kulārṇnava Tantra in the Tantric Text sertes edited by Str John Woodroffe the kula women are: a Candātī (member of the low caste originating from a Śudra father and a Brāhmin mother); a Carmakārt (of a leather working caste); a Mātañṇgí (a Candāla or Kirãta
-
-woman); a Khattakī (possibly a misprint for khaptikt (a
-
-woman who sells meat); Kaivart? (of a fisherman caste); Viśva-yoṣitā (a female member of the third varya); a PukkasīT (offspring of a Nishāda by a Ŝudra woman); and a Śvapacī (of a degraded caste - to do with dogs somehow?) .
-
-The eight non-kula women are: Kanđdukî (?); Śaungdikt (?);
-
-Sastrajīvī (a member ofa weapon making caste?) ; Rañjakt
-
-(of a caste of dyers?); Gūāyakī (member of a musician caste); Rajakī (a washerwoman) ; ilot (member of an artisan caste?) and Kaulikī (a member of the kula worshippers?).
+[^121]: As given in Chapter VII Verses 42-44 of the Kulārṇnava Tantra in the Tantric Text sertes edited by Str John Woodroffe the kula women are: a Candātī (member of the low caste originating from a Śudra father and a Brāhmin mother); a Carmakārt (of a leather working caste); a Mātañṇgí (a Candāla or Kirãta woman); a Khattakī (possibly a misprint for khaptikt (a woman who sells meat); Kaivart? (of a fisherman caste); Viśva-yoṣitā (a female member of the third varya); a PukkasīT (offspring of a Nishāda by a Ŝudra woman); and a Śvapacī (of a degraded caste - to do with dogs somehow?) . The eight non-kula women are: Kanđdukî (?); Śaungdikt (?); Sastrajīvī (a member ofa weapon making caste?) ; Rañjakt (of a caste of dyers?); Gūāyakī (member of a musician caste); Rajakī (a washerwoman) ; ilot (member of an artisan caste?) and Kaulikī (a member of the kula worshippers?).
 
 *[p. 100]* ^pg96
 
@@ -508,7 +496,6 @@ earnestly
 
 As Viṣṇu is the Supreme and the Protector, as the Lord Sambhu,
 
-122. 128. 124.
 [^124]: I.e., Assam.
 [^125]: I.e., he should complete the sexual unton.
 
@@ -647,7 +634,7 @@ BELOVED OF HARA:)
 
 Listen Oh Bhairava! The Dākinīs[^135] also are all parts of myself.
 
-20\. If any person possessing an acquired supernatural power should do injury to dākinīs, or dānavasi[^136] who are my special devotees, or to vatukasi37 or bhatravas,!38 then his siddhi will not take effect.
+20\. If any person possessing an acquired supernatural power should do injury to dākinīs, or dānavasi[^136] who are my special devotees, or to vatukas[^137] or bhatravas,[^138] then his siddhi will not take effect.
 
 21\. A young woman is freed of all previous sin on seeing (a well advanced sādkaka) in a village, a town, a marketplace, or a square.
 
@@ -658,9 +645,9 @@ As a swarm of bees overwhelmed with the intoxication of honey
 [^135]: A dākinī is a malignant female spirit especially popular in Tantric Buddhism.
 [^136]: A class of demons.
 
-137\. Forms of Śiva worshipped among the Śāktas.
+[^137]: Forms of Śiva worshipped among the Śāktas.
 
-138\. They are the eight traditional terrific manifestations of Śiva.
+[^138]: They are the eight traditional terrific manifestations of Śiva.
 
 *[p. 105]* ^pg101
 
@@ -693,7 +680,7 @@ The sexual urge is (present) in the secret junction of these
 
 *[p. 106]* ^pg102
 
-30\. (Addressing a friend she says:) "Oh Curvaceous One! Look at my beloved:1\*1 (I long for ) his moon on my breasts!"[^142] So full of passion is she and lacking in disgust and shame:
+30\. (Addressing a friend she says:) "Oh Curvaceous One! Look at my beloved:[^141] (I long for ) his moon on my breasts!"[^142] So full of passion is she and lacking in disgust and shame:
 
 31\. She goes hither and thither[^143] with her heart unable to bear the sexual desire.
 
@@ -715,19 +702,19 @@ graveyard and making a yantra of it with a kula stick, in the middle of it
 
 36\. he should write "SPHEM SPHEM KIṬI KIṬI" and then the FIERCE
 
-MANTRA.[^144] 1\#%
+MANTRA.[^144]
 
 Then (he should write) on a leaf the nine letters of Mahișṣa-
 
-mardin, 1%5
+mardin,[^145]
 
-141\. Literally: "friend" or "companion".
+[^141]: Literally: "friend" or "companion".
 
 [^142]: According to Dr. G.K. Bhat, the mention of "moon" ts a reference to poetry and the kāmasāstra where the marks of a loverts fingernails on the beloved's breasts are compared to the crescent moon.
 [^143]: Literally: "positioned near and/or far".
 [^144]: I.e., the bija mantra "PHAṬ". "SPHEM SPHEM KIṬḶI KIṬI PHAṬ"
 
-145\. Presumably the nine letters of that name taking the semi-vowel tp n" with nq",
+[^145]: Presumably the nine letters of that name taking the semi-vowel tp n" with nq",
 
 
 *[p. 107]* ^pg103
@@ -738,7 +725,7 @@ mardin, 1%5
 
 38\. Facing in the direction of Kāmākhyā[^146]' and thinking of his
 
-body as Kkāmakalā;[^147] 1\*7
+body as Kkāmakalā;[^147]
 
 naked and with the hair of his head flowing loose the kula kaulika
 
@@ -869,7 +856,7 @@ Again, (the sãdhaka) should bring (her) a kula flower, perfume and cooked food.
 [^168]: Literally: "performing the son's command on the forehead".
 [^169]: The \$akti's relationship to the sãdhaka is the same as that of the Goddess to the devotee.
 [^170]: With this mudrā one stirs and thereby conseerates the offerings. The middle finger of the r.h. is extended. Index finger and thumb are joined and the little and ring fingers are curled downwards. The consecration can also be done in the air should the offerings be at a distance.
-[^171]: The śakti may go home if she wishes, but she is not obliged 168. 169. 170. to do so. She may stay to the end of the ritual.
+[^171]: The śakti may go home if she wishes, but she is not obliged to do so. She may stay to the end of the ritual.
 
 *[p. 112]* ^pg108
 
@@ -931,8 +918,6 @@ Spirits, ghosts, piśācas, rākṣasas and creeping animals,
 
 *[p. 115]* ^pg111
 
-181\.
-
 15\. (And) he should take every measure for their protection. He should bury iron nails, a vajra, a Sakti, a stick, a sword, a noose and a goad as well.[^178]
 
 16\. Oh Deva:i, the pūjā of the Lords of the Quarters is to be performed zealously with pastry, plantain, sweetmeat, milky rice - as well as with
@@ -945,13 +930,14 @@ To Viṣṇu and GaṇeSa (is offered) rice boiled in milk and sugar, bread,
 
 19\. (the sãdhaka) should take up some clods of earth and throw them to the ten quarters.[^180] In the same way as the gods such as Indra etc. create obstacles in the ceremony of the Royal Consecration and in the Horse Sacrifices,
 
-20\. so do they181 produce them for the kula ritual, Oh Mahesvara! (Therefore the guru or the sādhaka) should place a kula shelḷ[^182] in the north-east corner of the
+20\. so do they[^181] produce them for the kula ritual, Oh Mahesvara! (Therefore the guru or the sādhaka) should place a kula shelḷ[^182] in the north-east corner of the
 
 sleeping apartment.
 
 [^178]: These objects are the weapons of the Lords of the Quarters who will protect the premises if they are duly worshipped.
 [^179]: "Damsana" normally means "biting", but here obviously refers to food, It has been suggested that dansana is a sort of erunchy bread.
-[^180]: The ten quarters are: north, north-east, east, south-east, south, south-west, west, north-west, the zenith and the nadir. I.e., the various malignant spirits and demons.
+[^180]: The ten quarters are: north, north-east, east, south-east, south, south-west, west, north-west, the zenith and the nadir.
+[^181]: I.e., the various malignant spirits and demons.
 [^182]: I.e., a conch shell which is mostly used by Sāktas, but also by members of other sects. Conches with a left side opening are commonplace. Those with an opening on the right side are rare.
 
 *[p. 116]* ^pg112
@@ -988,10 +974,6 @@ the situation (in general).[^184]
 33\.
 
 34\.
-
-187\.
-
-188\.
 
 Also, as a sly means of discovering the extent of the (sakti's) compassion. for him, (the sādhaka) shows kindness towards servant girls and watchmen
 
@@ -1038,7 +1020,7 @@ Abandoning all the other pīṭthas, there I reside my Son:
 
 42\. Oh Lord of the Kulas: It is everywhere a secret acquired by noble kula sādhakas.
 
-[^190]: The double meaning should be understood here. Not only tis the actual Kāmākhyā temple in Assam referred to, but the Kāmākhyā temple of the body is also implied - including the even more 189. 190. esoterie pîtha of Verse 39.
+[^190]: The double meaning should be understood here. Not only tis the actual Kāmākhyā temple in Assam referred to, but the Kāmākhyā temple of the body is also implied - including the even more esoterie pîtha of Verse 39.
 
 
 
@@ -1067,7 +1049,7 @@ the Kālī mantra.[^194]
 
 It (has forms} that are deeply asleep, drowsy, intoxicated, delusive and inclined away (from the worshipper).
 
-[^192]: Literally: "If I am your son", 193.
+[^192]: Literally: "If I am your son".
 [^193]: "Ākarsanam" is the practice of attracting an absent person into one's presence by means of magie formulae.
 [^194]: Brahmā = K; Sarasvatī = R; the Chief of Devatās = Ī; VIra Śakti = anusvāra. Hence the bija mantra KRĪṂ.
 
@@ -1131,9 +1113,9 @@ u
 
 60\. He should then do nyāãsa (of the entire body) fifty times with the root mantra and should perform the fivefold meditation
 
-previously mentioned.[^207] 7
+previously mentioned.[^207]
 
-61\. He should worship the pī¢ha® 8 on lotuses of fifteen petals and invoking Dakṣiṇā Devi, he should sacrifice to her who is the jewel of the kulas.
+61\. He should worship the pī¢ha[^208] on lotuses of fifteen petals and invoking Dakṣiṇā Devi, he should sacrifice to her who is the jewel of the kulas.
 
 62\. Afterwards he should sacrifice to Mahākāla and then to the śakti of the pîtha.
 
@@ -1141,7 +1123,7 @@ In the first (inner) triangle he (should do pājā) to KālīĪ, Kapālinī and 
 
 63\. (in the second) to Kurukullā, Virodhī and Vipracittā, (in the third) to Ugramukhī, Ugraprabhā and Pradīptā,
 
-208\. I.e., the KĀIĪ yantra illustrated below.
+[^208]: I.e., the KĀIĪ yantra illustrated below.
 
 [^205]: I.e., Ā KRĪM I KRĪM U KRĪM O KRĪM AI KRĪM AU KRĪM
 [^206]: Nyāsa or assigning of mantras or detittes to the various parts of Tio body. Exeluding visarga and anusvāra, the fourteen letters are the short and long vowels. Each one is to be placed with KRĪM on each of the parts of the body referred to in the verse.

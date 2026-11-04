@@ -43,21 +43,19 @@ There in a state of concentration he should perform one hundred thousand repetit
 
 At night, after one hundred thousand repetitions of the mantra, he should first sacrifice to Kāmākhyā.
 
-Proceeding to Jãālandhara?2° he should sacrifice to PūrṇeSi to
+Proceeding to Jãālandhara[^220] he should sacrifice to PūrṇeSi to
 
 begin with.
 
 [^218]: I.e., the thighs? the legs?
 [^219]: I.e., the genital region.
 
-222\. I.e., the breasts.
+[^220]: I.e., the breasts.
 
 [^216]: He infuses the Goddess into the sakti's body by making a general pass of the hands.
 [^217]: I.e., the śakti.
 
 *[p. 127]* ^pg123
-
-228\.
 
 7\. There also he intently repeats the mantra one hundred thousand times.
 
@@ -192,7 +190,7 @@ KĀ}M ĪM ŪM OH KALYĀNĪ! PERFORM THE WHOLESALE SLAUGHTER OF THE ENEMY!"
 [^237]: Presumably the sword was buried during the repetitions of the mantra.
 [^238]: The tree Terminalia tomentosa.
 [^240]: I.e., the cemetery.
-[^241]: 288. 289. The three sweet things are sugar, honey and butter.
+[^241]: The three sweet things are sugar, honey and butter.
 
 *[p. 131]* ^pg127
 
@@ -259,7 +257,7 @@ Listen and I will tell you about Her.
 
 3\. After the THREE WORLD BIJA then the AWAKENING WORD the syllables of CREATION AND DESTRUCTION; that is the mantra
 
-of Mahiṣamardinī. 25°
+of Mahiṣamardinī.[^250]
 
 4\. She is highly mysterious (and) everlastingly engaged in
 
@@ -269,7 +267,7 @@ creation and preservation; She is the eternal root cause of all the gods and all
 
 [^248]: The Sanskrit reads "samketa". As the ensuing verses give the mantra for Mahigamardini, "sign" or "mark" seem to be the more appropriate translations in the context.
 
-250\. "Three world blja = HRĪM; "the awakening word = the vocative of Mahiçṣamardint; "ereation and destruction" = the syllables SVĀHA. Hence HRIM MAHIṢAMARDINI SVĀHA.
+[^250]: "Three world blja = HRĪM; "the awakening word = the vocative of Mahiçṣamardint; "ereation and destruction" = the syllables SVĀHA. Hence HRIM MAHIṢAMARDINI SVĀHA.
 
 [^249]: Note that the "Great Lady" is the mantra personified thereby indicating the equivalent nature of detty and mantra.
 [^251]: Although the eight syllables "Mahigamardint svāhā" may be mentioned, the bija "hriṇ" and the ritual practice or sãdhana connected with the mantra should not be revealed.
@@ -311,8 +309,6 @@ Nārada is said to be the rgt of the mantra and gāyatrī is specified as its me
 
 13 & 14.
 
-206\.
-
 12\. The deity is the killer of Mahiga. She is the first bīja[^256] and all things high and low.
 
 (The sādhaka) should meditate on KālĪf who is passionately fond of fighting the great demon.[^257]
@@ -327,7 +323,7 @@ the bringer of the cemetery's delights.
 
 On the heart - "OM OH PERSECUTER OF MAHIṢA! HŪM PHAṬ HOMAGE
 
-TO THE HEARTṬ!"260
+TO THE HEARTṬ!"[^260]
 
 (On the head) - "OM OH ENEMY OF- MAHIṢȘA: HŪM PHAṬ (HOMAGE
 
@@ -337,7 +333,7 @@ TO THE HEAD!) jis the head mantra.
 
 17\. The amulet (mantra) is "OM KILL KILL MAHIṢA: HÜM PHAṬ
 
-(HOMAGE TO THE ELBOWS:)[^260]
+(HOMAGE TO THE ELBOWS:)[^261]
 
 Listen Bhairava: "HÜM" and “PHAṬ" are the weapons of
 
@@ -345,7 +341,7 @@ Mahiṣamardinĵ.
 
 [^256]: I.e., HRĪM.
 
-261\. An amulet is conventionally worn just above the elbows.
+[^261]: An amulet is conventionally worn just above the elbows.
 
 [^257]: I.e., Mahiga.
 [^258]: She is making the "Tarjañl mudrā".
@@ -417,7 +413,7 @@ sandal (takes place).[^272]
 
 28\. Oh Mother: Let that stream of yours which arises in the heavy rains of pleasurable devotion to you and which is capable of assuaging the extreme anguish of the mind of the many gods, ever flow in this womb of the world which - alas: - lacks the experience of the delightful shower of the joy of the brahman
 
-273\. The image behind this verse is of the cosmice Ardhanartsvara. Because half of his body is Śakti he is deseribed as being in perpetual embrace with that other half of himself who is Śakti. For this reason the Goddess ís deseribed as having only one foot that is permeated with the elixir of sexual fluids that descends from the Śiva-Śakti union that Ardhanarlsvara represents. Although Śiva's nature is as absolute as that of the Supreme Goddess, here:the verse stresses the Śiva of godly rank who is overwhelmed by the awesome nature of the Goddess.
+272\. The image behind this verse is of the cosmice Ardhanartsvara. Because half of his body is Śakti he is deseribed as being in perpetual embrace with that other half of himself who is Śakti. For this reason the Goddess ís deseribed as having only one foot that is permeated with the elixir of sexual fluids that descends from the Śiva-Śakti union that Ardhanarlsvara represents. Although Śiva's nature is as absolute as that of the Supreme Goddess, here:the verse stresses the Śiva of godly rank who is overwhelmed by the awesome nature of the Goddess.
 
 [^269]: The Sanskrit words "nirdisto" and "nirdistasya" in this sentence that Literally means "indicated, eronat determined for" have been translated by extension into "elected" and "of sucha . vocation".
 [^270]: Literally: "rare, infrequent ete.".
@@ -588,9 +584,9 @@ So saying, the offering is to be presented (to the jackal) by the beloved of the
 
 58\.
 
-59, It is auspicious when all of the food has been eaten. When he has ascertained (the consequences) in this way, he should perform the rite for (obtaining) peace and welfare,?276 Oh Great God:
+59, It is auspicious when all of the food has been eaten. When he has ascertained (the consequences) in this way, he should perform the rite for (obtaining) peace and welfare,[^276] Oh Great God:
 
-Oh You who keep your vows: I have told you about the kula practice which is called dakgina.?77 And if the sādhaka seeks eternal happiness, he should not speak of it to anyone.
+Oh You who keep your vows: I have told you about the kula practice which is called dakgina.[^277] And if the sādhaka seeks eternal happiness, he should not speak of it to anyone.
 
 And if spoken of, then it should be in a lonely place without people and not in the presence of one's father and mother.
 
@@ -604,11 +600,9 @@ From (such) revelation (even) death may occur, so it must not be revealed in any
 
 Oh Lord of the Gods: If at the time of worship anyone turns up by chance,
 
-The "Sāntisvastayana” eeremony.
+[^276]: The "Sāntisvastayana” eeremony.
 
-According to Goudriaan (Hindu Tantric and Sākta Literature, p. 94 n.), "Dakgiṇnācāra" Te one of the four Sākta ācāras along with Vāma, Siddhānta and Kaula. Unfortunately he gives no definition and the definitions which exist elsewhere are often not consistent with one another. Pandey (Abhinavagupta, p. 612) briefly says that dakgiṇa was followed for the attainment of material ends through limited spiritual powers. This definition has the merit of conforming to the tenor of these verses.
-
-276. 277.
+[^277]: According to Goudriaan (Hindu Tantric and Sākta Literature, p. 94 n.), "Dakgiṇnācāra" Te one of the four Sākta ācāras along with Vāma, Siddhānta and Kaula. Unfortunately he gives no definition and the definitions which exist elsewhere are often not consistent with one another. Pandey (Abhinavagupta, p. 612) briefly says that dakgiṇa was followed for the attainment of material ends through limited spiritual powers. This definition has the merit of conforming to the tenor of these verses.
 
 *[p. 144]* ^pg140
 
@@ -1095,7 +1089,7 @@ THE LORDS OF THE GANAS,[^9] THE PLANETS, THE LUNAR
 
 MANSIONS, THE YoOGINTS[^10] AND THE CONSTELLATIONS, (AND)
 
-WHO IS THE EMBODIMENT OF THE PITHAS. 11
+WHO IS THE EMBODIMENT OF THE PITHAS.[^11]
 
 In this connection,
 
@@ -1108,7 +1102,7 @@ the alphabet." (Sva. 11:199)
 
 
 
-11\. "PIthas" are geographical sites (sometimes parts of the body) sacred to the Goddess. There ts a tradition which maintains that they represent the places where the pieces of Satl's body fell after it had been dismembered by the discus of Viṣnu. Fifty-one sites are cormmonly enumerated, but four of them are particularly famous.
+[^11]: "PIthas" are geographical sites (sometimes parts of the body) sacred to the Goddess. There ts a tradition which maintains that they represent the places where the pieces of Satl's body fell after it had been dismembered by the discus of Viṣnu. Fifty-one sites are cormmonly enumerated, but four of them are particularly famous.
 
 [^6]: The Sanskrit reads "bhaktitāratamyāt", i.e. "out of a eondition of more or less devotion", or, "out of a relative degree of devotton".
 [^7]: T.e., Śiva. This first seetion of commentary is intended to introduce the subsequent first verse of the main text. It does not refer baek to the Invocatory Verses.
@@ -1175,23 +1169,19 @@ essence is a free will.
 
 There is a saying of mine:
 
-In line state?\* "Were Mahesvara to have assumed the nature of a single form, lordship and consciousness would have abandoned Him like a
+"Were Mahesvara to have assumed the nature of a single form, lordship and consciousness would have abandoned Him like a
 
 pot."[^23] (Tan. 3:100)
 
-with the cogent argument already state, She is in an expanded due to her desire to disport Herself outwardly. In the scriptural words of Srimad Naravāhanadatta:
-
-This is classes
-
-28\.
+In line with the cogent argument already state, She is in an expanded state[^24] due to her desire to disport Herself outwardly. In the scriptural words of Srimad Naravāhanadatta:
 
 "She is the origin of entities such as the yoginṛs who are the mistresses of the signs of the zodiac and the lunar mansions, (and of) the lords of the planets who are the lords of the ganas[^25] a, ka, ca, ṭa, ta, pa, ya and 5a."
 
-an indirect way of saying that the "ganas" are the eight of letters.
+This is an indirect way of saying that the "ganas" are the eight classes of letters.
 
 "The classes of letters in their proper order are said to be associated with the six planets beginning with the Sun, then Mars, Jupiter, Mercury, Venus and Saturn. However, the "ya and "ṣa" serjes are said to be the givers of pleasure and pain because of their connections with the dark and bright aspects of the face of the moon."
 
-24\. The Sanskrit word used here is "unmisantim" which relates to the Tantric usage of the terms "urmega" and "nimega". Unmega Literally means "to open the eye" and refers to the start of the world process; as "nimega" refers to "the closing of the eye", or the dissolution of the world. (Ibid., pp. 165 & 170
+[^24]: The Sanskrit word used here is "unmisantim" which relates to the Tantric usage of the terms "urmega" and "nimega". Unmega Literally means "to open the eye" and refers to the start of the world process; as "nimega" refers to "the closing of the eye", or the dissolution of the world. (Ibid., pp. 165 & 170
 
 [^23]: Sovereignty and consetousness are aspects of the Supreme Śiva which as Sakti delight in manifesting in the multiplicity of creation. If the Lord were to choose one definite form of existence only, he would be as bereft as a pot of these very qualities. In other words, the Supreme Being carmnot be limite to one finite form.
 [^25]: The "ganas" usually refers to the attendants of Lord Śiva. Here the term is uged in a specifically Tantric way and refers to the eight classes of letters in the Sanskrit alphabet.
@@ -1252,9 +1242,9 @@ absolute,[^40]“ of subtlety and of grossness. Likewise, She manifests
 
 the time dimension by revealing the diversity of actions which are of
 
-the nature of varṇa;\*1 mantra[^42] and pada.[^43] She vibrates through the form of the universal AlI made up of (this) sixfold course.[^44]
+the nature of varṇa;[^41] mantra[^42] and pada.[^43] She vibrates through the form of the universal AlI made up of (this) sixfold course.[^44]
 
-41\. In this context, the word "varna" indicates the first determining impulse to put sound in motion. It does not mean a letter in script, or letter as mental or enunctated sound. It refers to the starting point preceding any physical utterance or mental expression of a sound.
+[^41]: In this context, the word "varna" indicates the first determining impulse to put sound in motion. It does not mean a letter in script, or letter as mental or enunctated sound. It refers to the starting point preceding any physical utterance or mental expression of a sound.
 
 [^43]: "Pada" refers to articulated physical sound usually expressed in a word. Mantras have their "pada" form when they are actually spoken or written.
 
@@ -1280,9 +1270,9 @@ This being the case, the whole is called the sixfold path."
 
 They say that: "She it is who manifests by virtue also of this-super-intendancy"; that "In (the verse), the word mantra in 'She consists of mantra’ signifies the seven pramātaras beginning with Siva and ending with.Sakala" and that "She is shining through the entire host of knowers of the field who are the Rudras";[^45] that "In this state of flux due to the pramātps and prameyas etc.,[^46] her essence remains unaltered from what it was before" and for this reason She is called "the Goddess", and thus "I bow to the shīning one because her essence is supreme consciousness and self-effulgence and one with the parapramāty, meaning that 'I merge into' (her) through the authoritative nature of consciousness with the body's (and so on) limited certainties subordinate
 
-(to it)."#7
+(to it)."[^47]
 
-47\. The meaning seems to be that conseiousness ts the principal means to divine unity. Compared with it, the testimony of the physical body, rational mind ete. is only of secondary tmportance. However, having quoted the above remarks of an unknown commentator, Jayaratha goes on to discredit their relevance în the context of Verse 1.
+[^47]: The meaning seems to be that conseiousness ts the principal means to divine unity. Compared with it, the testimony of the physical body, rational mind ete. is only of secondary tmportance. However, having quoted the above remarks of an unknown commentator, Jayaratha goes on to discredit their relevance în the context of Verse 1.
 
 [^45]: According to the Śaiva system there are seven pramātaras enumerated in descending order as Siva, Mantramahesvara, Mantresvara, Mantra, Vijnānākala, Pralayākala and Sakala. "Knower of the field" ts an Upanigadie term referring to the consetous principle which knows; its corollary is the "field" or that which is known.
 [^46]: Pramāty and prameya are another pair of concepts familiar to Kashmir Saiva p ttlosophy which - like vācya and vācaka, prakāśa and vimarśa, Śiva and Śakti ete - expressos dual aspects of any one vṛrew of reality. In pramāty and prameya the outlook is concerned with ordinance, t.e. with dat whieh ordains and that which is ordained. As the mind "oversees" and orders the date of experience, by extension, the meaning of this pair approximates to "subject" and "object".

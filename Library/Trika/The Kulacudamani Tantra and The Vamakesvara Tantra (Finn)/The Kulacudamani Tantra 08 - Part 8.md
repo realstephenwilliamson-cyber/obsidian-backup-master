@@ -66,7 +66,7 @@ OWN BODY.
 
 In accord with the way that has been described, it means that the syllable in the Kāmakalā form shines forth because its nature is unceasing display and also because of the pre-eminence of its three-part form. As it is eternal, it is undivided and due to (this) undivided oneness of its nature, it is "supreme", hence it is the place of release from "the poisons of desire etc.". It means that what is said to have arisen by means of instantaneity[^478] and direct experience, one should think on as one's own body by identifying with it; (considering it) the ultimate reality because of its being in essence the unique form of it.[^479] Indeed, it is actually present in the body of all and is verified by one's own experience, (but) enough of this digression: The word "etcetera" here (refers) to the sorts of things that are listed together as minor siddhis and so on which will be explained in the second chapter etc.. But inquiring into their meaning - that is beyond the capacity of verbal expression - is a vain effort. Everything being tolerable, what is of principal importance and what is of lesser
 
-importance is always a relative (matter).[^480] \* 80
+importance is always a relative (matter).[^480]
 
 Again, the real truth here about this matter which has not been learnt by others directly from a guru, elsewhere, or by the elucidation of the meaning as corroborated in the SrīTantrāloka[^481] is all made clear in a way that has been handed down from generation to generation.
 
@@ -78,13 +78,13 @@ Again, the real truth here about this matter which has not been learnt by others
 
 *[p. 287]* ^pg283
 
-the one that follows the letter 's[^471]'" - the one that takes the form of "pepha" of the nature of fire[^472] with the fourth vowel and bindu."#71 Again, (one can take) the "below that" (part of the verse) as: the one that follows "s" is the letter "h" and a half of that is the aspirated "h". "Below that" also is the one which follows "s" of the nature of half an "r" in the form of a triangle!7? that is "downward pointing" and designated by the name "the face of the yogin?" etc.. The comprehensiveness (of the mantra HRĪM is demonstrated): by the letter "Ī" which is "e" because its form is the same as Sakti's;[^473] by the letter "h" which by virtue of being the same intoxicating sort is the letter "k";[^474] by the letter "r" which is the letter "I" because it recalls the (essential) oneness of "r" and "1";%75 and because of its being the half of that which follows "s", the letter "s" is implied.[^476] So this nucleus (of letters) is in essence the contraction (into) subtle form of all the parts of the root mantra.[^477] Because of its inward nature, the order of inherence is implied. Enough said.
+the one that follows the letter 's'" - the one that takes the form of "pepha" of the nature of fire[^470] with the fourth vowel and bindu.[^471] Again, (one can take) the "below that" (part of the verse) as: the one that follows "s" is the letter "h" and a half of that is the aspirated "h". "Below that" also is the one which follows "s" of the nature of half an "r" in the form of a triangle[^472] that is "downward pointing" and designated by the name "the face of the yogin?" etc.. The comprehensiveness (of the mantra HRĪM is demonstrated): by the letter "Ī" which is "e" because its form is the same as Sakti's;[^473] by the letter "h" which by virtue of being the same intoxicating sort is the letter "k";[^474] by the letter "r" which is the letter "I" because it recalls the (essential) oneness of "r" and "1";[^475] and because of its being the half of that which follows "s", the letter "s" is implied.[^476] So this nucleus (of letters) is in essence the contraction (into) subtle form of all the parts of the root mantra.[^477] Because of its inward nature, the order of inherence is implied. Enough said.
 
-470\. "Repha" is synonymous with the letter "r". The one that follows the letter "s" is the letter "h" whose visarga form has been given as "the two bindus". "S" followed by "r" cean be said to be the two constituents of visarga because in sandhi visarga may substitute for either letter. In the Sāradā script the letter "r" or "repha" is written as ẹ\$ and the lower half of it ts a triangle.
+[^470]: "Repha" is synonymous with the letter "r". The one that follows the letter "s" is the letter "h" whose visarga form has been given as "the two bindus". "S" followed by "r" cean be said to be the two constituents of visarga because in sandhi visarga may substitute for either letter. In the Sāradā script the letter "r" or "repha" is written as ẹ\$ and the lower half of it ts a triangle.
 
 [^474]: Mādana is an epithet for Kāma who is represented by the letter "k". The Māyā bṛja which begins with the letter "h" indicates by its name that it can produce an intoxicated sort of world illusion.
 
-475\. "R" and "1" are the two closely related semi-vowels of the Sanskrit language.
+[^475]: "R" and "1" are the two closely related semi-vowels of the Sanskrit language.
 
 [^471]: The result is the Māyā bija HRĪM.
 [^472]: See footnote 470.
@@ -104,7 +104,7 @@ SĪDHAKA IN COUNTRY, TOWN OR VILLAGE IN THIS PRESCRIBED
 
 MANNER.
 
-"In town or village" means that by the mention (of these) as possible places, one is informed that this pūjā produces al\] síddhṛťs regardless of the circumstance (of place).! Therefore it should be remarked that there is no relation to the teachings of the Dvīpa scriptures,? because place is said to be important in them as far as earth shaking (powers) etc. are concerned. Enough said.
+"In town or village" means that by the mention (of these) as possible places, one is informed that this pūjā produces al\] síddhṛťs regardless of the circumstance (of place).[^1-p288] Therefore it should be remarked that there is no relation to the teachings of the Dvīpa scriptures,[^2-p288] because place is said to be important in them as far as earth shaking (powers) etc. are concerned. Enough said.
 
 End of commentary on Verse 1.
 
@@ -120,19 +120,15 @@ OF LOVE.
 
 THE WOMEN BECOME CONFUSED BY MANTRAS AND THEIR ROUND
 
-BUTTOCKS ARE QUIVERING. 3
+BUTTOCKS ARE QUIVERING.[^3-p288]
 
 But is this, or is this not, the result of pūjā only ?
 
-1\. Literally: "witkout regard to another", i.e. the locale ts not
+[^1-p288]: Literally: "witkout regard to another", i.e. the locale ts not important; Skt.: "anyanirapekgameva".
 
-important; Skt.: "anyanirapekgameva".
+[^2-p288]: The Dvīpa scriptures may refer to the seriptures prevalent in Jambudvipa - the central region of the country - as opposed to the Kashmir origins of Jayarathats tradition.
 
-The Dvīpa scriptures may refer to the seriptures prevalent in Jambudvipa - the central region of the country - as opposed to the Kashmir origins of Jayarathats tradition.
-
-to
-
-8\. Literally: "possessed of quivering buttock eireles/orbs".
+[^3-p288]: Literally: "possessed of quivering buttock eireles/orbs".
 
 *[p. 289]* ^pg285
 
@@ -144,7 +140,7 @@ MANTRA, THE WOMEN ON THE FACE OF THE EARTH ARE CAST INTO
 
 TURMOIL.
 
-But if that is the case, does he not become distracted and what becomes of the sādhaka then? The (Lord) says:
+But if that is the case, does he not become distracted[^4-p289] and what becomes of the sādhaka then? The (Lord) says:
 
 THEN, IF THE CONCENTRATION OF THE SĀDHAKA DOES NOT WAVER
 
@@ -164,7 +160,7 @@ AND WHEN HE IS NOT UPSET IN THE SLIGHTEST EVEN BY THEM,
 
 6 & 7. OH QUEEN OF THE GODS: WHEN THE EXCELLENT SADHAKA
 
-ENGAGED IN (THIS) MERITORIOUS OBSERVANCES HAS THUS THREE
+ENGAGED IN (THIS) MERITORIOUS OBSERVANCE[^5-p289] HAS THUS THREE
 
 TIMES REPEATED THE MANTRA ONE HUNDRED THOUSAND TIMES,
 
@@ -174,9 +170,9 @@ MOVEABLE AND IMMOVEABLE BEINGS.
 
 Having thus discussed the application of the mantra, He also speaks about that for the yantra:
 
-Literally: "outward faeing"; Skt.: "bahirmukhi".
+[^4-p289]: Literally: "outward faeing"; Skt.: "bahirmukhi".
 
-This meritorious observance has its emphasis on the maintenance of unperturbed chastity in the face of sexual entieements.
+[^5-p289]: This meritorious observance has its emphasis on the maintenance of unperturbed chastity in the face of sexual entieements.
 
 *[p. 290]* ^pg286
 
@@ -269,7 +265,7 @@ ON THE GREAT KĀMAKALĀ.[^19-p291]
 
 16\. AFTER HE HAS DONE ONE HUNDRED AND EIGHT REPETITIONS OF
 
-THE MANTRA, THE WISE MAN SHOULD MAKE THE TILAKA™® WITH
+THE MANTRA, THE WISE MAN SHOULD MAKE THE TILAKA[^20-p292] WITH
 
 EQUAL PARTS OF YELLOW PIGMENT,[^21] SAFFRON AND SANDAL.
 
@@ -307,16 +303,16 @@ YELLOW PIGMENT A WELL-SHAPED IMAGE EMBELLISHED WITH
 
 PLEASINGLY EROTIC DRESS AND ORNAMENTS.
 
-20\. A coloured mark made on the forehead as an ornament or mark of sectarian distinction.
+[^20-p292]: A coloured mark made on the forehead as an ornament or mark of sectarian distinction.
 
 [^21]: Rocana ts a yellow pigment to be distinguished from gorocana. See footnote 298 in Chapter I.
 [^22]: The implication is this: none of the above gifts are lost forever because they eome back with the woman who ts trreststably attracted to him.
 
 *[p. 293]* ^pg289
 
-21, 22 ON THE FOREHEAD,?3 HEART, NAVEL AND PRIVATE PARTS (OF
+21, 22 ON THE FOREHEAD,[^23] HEART, NAVEL AND PRIVATE PARTS (OF
 
-& 23. THE IMAGE) ARE PRESENT THE GREAT VIDYA[^23]" AND THE PROPER
+& 23. THE IMAGE) ARE PRESENT THE GREAT VIDYA[^24-p293] AND THE PROPER
 
 NAME[^25] INSCRIBED WITH THE GOAD. WHEN HE HAS WRITTEN THE
 
@@ -340,7 +336,7 @@ THE KALAS OF THE SUN AND THE MOON.
 
 Thus, the actual meaning is that on the ground after inscribing an upward pointing triangle surrounded by two rows of vowels (one with and
 
-24\. I.e., the Mūlavidyā KEILHRĪM HSKLHRIM HKHLHERĪYM.
+[^24-p293]: I.e., the Mūlavidyā KEILHRĪM HSKLHRIM HKHLHERĪYM.
 
 [^23]: On the spot between the eyebrows.
 [^25]: The name received on the twelfth day after birth.
@@ -350,7 +346,7 @@ Thus, the actual meaning is that on the ground after inscribing an upward pointi
 
 *[p. 294]* ^pg290
 
-one without visarga??[^29]), one should draw the image inside it.3°
+one without visarga??[^29]), one should draw the image inside it.[^30-p294]
 
 End of commentary on Verse 23.
 
@@ -401,6 +397,7 @@ HER LOTUS HEART TREMBLING FROM THE TOUCH OF THIS FRESH
 PASSION.
 
 [^29]: The Sanskrit reads "saṣaṇthāgṣaytha" which gives no obvious meaning. Perhaps the reading ts mistaken for "saṣgãṇtāṣayṭta", in which case it might mean "with and without the one at the end of 'g!", t.e. with and without visarga. The letter "s" tituted comes after "g" and "s" ean be subs by visarga,...
+[^30-p294]: *(a drawing in the print)*
 
 *[p. 295]* ^pg291
 
@@ -412,7 +409,7 @@ MANTRA THAT SURPASSES (THE VELOCITY) OF THE MIND.
 
 INFATUATED, AGITATED, SCORCHED, SOAKED, SCRATCHED, SENSELESS, STRICKEN, SPLIT OPEN, CONFUSED, TERRORISED,
 
-DISSOLVED AND BROKEN TO PIECES.3:
+DISSOLVED AND BROKEN TO PIECES.[^31-p295]
 
 He also discusses protective amulets:
 
@@ -440,13 +437,11 @@ TOGETHER WITH WHAT IS JOINED TO THE CAKRA
 
 NAME INSCRIBED WITHIN,
 
-BRINGS32? THE WHOLE WORLD TO THE FEET (OF THE SĀDHAKA).
+BRINGS[^32-p295] THE WHOLE WORLD TO THE FEET (OF THE SĀDHAKA).
 
-ôl. Each of these adjectives is qualified by an "iva”(as though)
+[^31-p295]: Each of these adjectives is qualified by an "iva”(as though) which are mostly omitted. iñ translatton.
 
-which are mostly omitted. iñ translatton.
-
-32\. Literally: "makes"; Skt.: "karoti".
+[^32-p295]: Literally: "makes"; Skt.: "karoti".
 
 *[p. 296]* ^pg292
 
@@ -460,7 +455,7 @@ Similarly,
 
 FICIARY'S NAME IS TO BE ENCLOSED WITH THE BIJA WHICH IS
 
-THE ESSENCE OF THE GREAT KAMAKALĀ.[^36] >36
+THE ESSENCE OF THE GREAT KAMAKALĀ.[^36]
 
 36\. AND ALSO OUTSIDE ONE SHOULD ENCIRCLE WITH ALL-THE
 
@@ -501,7 +496,7 @@ GARMENT,
 
 BEARING THE FORM OF THE CAKRA AS IT DOES, IT DELUDES
 
-KINGS, HORSES, ROGUE ELEPHANTS, THIEVES, LIONS, SERPENTS, THE POWERFUL SEIZING (EFFECT) OF ANOTHER'S MANTRA, ENEMIES, INDRA'S THUNDERBOLT, WEAPONS, QĀKINĪS, SĀKINĪS,’®
+KINGS, HORSES, ROGUE ELEPHANTS, THIEVES, LIONS, SERPENTS, THE POWERFUL SEIZING (EFFECT) OF ANOTHER'S MANTRA, ENEMIES, INDRA'S THUNDERBOLT, WEAPONS, QĀKINĪS, SĀKINĪS,[^38-p297]
 
 SPIRITS, GHOSTS AND DEMONS INTO UTTER CONFUSION.[^39]
 
@@ -515,7 +510,7 @@ By "with this" is meant with that which was spoken abọut earlier as having an 
 
 End of commentary on Verse 40.
 
-38\. "Săkinis" are a particular kind of female demon.
+[^38-p297]: "Săkinis" are a particular kind of female demon.
 
 [^39]: This enumeration of fearful beings is listed in singular number in the Sanskrit text.
 
@@ -540,8 +535,6 @@ It means that (as before) "the earth" has its name written in beforehand.
 End of commentary on Verse 42.
 
 Then,
-
-43\.
 
 AS THE RESULT OF SIX MONTHS ASSIDUOUS MEDITATION (ON IT),
 
@@ -638,7 +631,7 @@ PLANETS, DISEASE, ENEMIES, LIONS, SNAKES, HORSES, OF THOSE MALEVOLENT YAXṢAS, 
 
 OF SPIDERS ETC., OF THE BURNING SKIN DISEASE, (OR) OF
 
-THAT PIMPLY SKIN ERUPTION THAT ARISES FROM COOLING. +3
+THAT PIMPLY SKIN ERUPTION THAT ARISES FROM COOLING.[^43]
 
 Similarly,
 
@@ -658,7 +651,7 @@ By "the double triangles" is meant that She is in the six-angled one, there in t
 
 End of commentary on Verse 56.
 
-43\. I.e., smallpox.
+[^43]: I.e., smallpox.
 
 *[p. 301]* ^pg297
 
@@ -666,7 +659,7 @@ Similarly,
 
 57\. OR, DRAWN IN YELLOW SUBSTANCES WITH THE NAME,
 
-HE SHOULD PLACE IT IN INDRA'S QUARTER,[^44] ”\*
+HE SHOULD PLACE IT IN INDRA'S QUARTER,[^44]
 
 (WHEREUPON) EVEN THE KNOWER OF ALL THINGS AT ONCE
 
@@ -811,7 +804,7 @@ SIMILARLY WORSHIPPED IN THE INTERMEDIATE QUARTERS, OH GREAT LADY:,
 
 THE DEVASTATION OF ENEMIES.
 
-By "similarly" is meant that depending on what one wants to do, it begins in a counter-clockwise motion with the yellow colour etc.. Consequently, the yellow coloured on in the Lord's corner has the effect of paralysing, as the black one in the (corner) of Agni results in the ruination of one's enemies.\*8
+By "similarly" is meant that depending on what one wants to do, it begins in a counter-clockwise motion with the yellow colour etc.. Consequently, the yellow coloured on in the Lord's corner has the effect of paralysing, as the black one in the (corner) of Agni results in the ruination of one's enemies.[^48]
 
 He discusses the difference in its effects resulting from the differ-
 
@@ -829,15 +822,7 @@ THE CAKRA IN OIL PRODUCES UTTER HATRED,
 
 He also discusses the particular pūjās determined by time and place:
 
-devastation
-
-yellow N Z black
-
-G
-
-vermilion 7 ~ red
-
-hatred disease
+[^48]: *(a drawing in the print)*
 
 *[p. 305]* ^pg301
 
@@ -849,7 +834,7 @@ VERMILION,
 
 HE SHOULD PLACE THEREON THE ALPHABET FROM "A" TO "KȘA"
 
-BEGINNING ALL AROUND THE OUTSIDE AND ENDING\*9 IN THE
+BEGINNING ALL AROUND THE OUTSIDE AND ENDING[^49] IN THE
 
 MIDDLE, OH GREAT LADY:
 
@@ -857,25 +842,20 @@ Such is that cakra that:
 
 74 & 75. THE SĀDHAKA WHO DOES PŪJĀ TO IT AT NIGHT ACCORDING TO
 
-THE KULA RITUAL, AT ONCE BECOMES A LIBERATED ONE,5°
+THE KULA RITUAL, AT ONCE BECOMES A LIBERATED ONE,[^50]
 
 OH GREAT LADY!
 
 By "according to the kula ritual" is meant by meditation on the supreme non-duality. Since "other than by recourse to oneness with the mantra deity (cónsisting of non-dual supreme consciousness) in the sãdhaka's own self, nothing is achieved", so it is all this in its entirety that is referred to here.
 
-Moreover, what has been said by others on this subject, that: "Whatever outward action there is, it is not interiorised without knowledge"; "A deed performed which is based on an inner disposition51 bears outward fruit" (and), "The statement here that- the worship of the goddesses should be done with those things declared to be kula (wine, meat etc.) together with continuous (repetition) of the mantra is out of place after devoting so much attention to the inner state", is (all) irrelevant despite the (apparent) inconsistency with the declared objective? since it is covered by the
+Moreover, what has been said by others on this subject, that: "Whatever outward action there is, it is not interiorised without knowledge"; "A deed performed which is based on an inner disposition[^51] bears outward fruit" (and), "The statement here that- the worship of the goddesses should be done with those things declared to be kula (wine, meat etc.) together with continuous (repetition) of the mantra is out of place after devoting so much attention to the inner state", is (all) irrelevant despite the (apparent) inconsistency with the declared objective[^52] since it is covered by the
 
-49\. Literally: "as far as”; Skt.: "yāvat".
+[^49]: Literally: "as far as”; Skt.: "yāvat".
 
-50\. "Khecara" or "khecaratvam" can connote both the idea of
+[^50]: "Khecara" or "khecaratvam" can connote both the idea of ttberatton and the magical ability to fly through the air. Gonda combines both ideas when he says. "Emancipation (mokga) is regarded not as immunity from death, but as the evelopment of powers brought about by self-realization. " (Medieval Religious Literature, p. 160.)
 
-ttberatton and the magical ability to fly through the air. Gonda combines both ideas when he says. "Emancipation (mokga) is regarded not as immunity from death, but as the evelopment of powers brought about by self-realization. " (Medieval Religious Literature, p. 160.)
-
-51\. The Sanskrit word used here (as below) is "lakga" meaning
-
-"token, sign ete. ", 52. The "declared purpose” (pratijnātārtha) may refer to the
-
-goal of liberation which ts essentially an inner psychte state.
+[^51]: The Sanskrit word used here (as below) is "lakga" meaning "token, sign ete. ".
+[^52]: The "declared purpose” (pratijnātārtha) may refer to the goal of liberation which ts essentially an inner psychte state.
 
 *[p. 306]* ^pg302
 
@@ -903,17 +883,17 @@ THE THREE WORLDS,
 
 THE EXCELLENT SĀDHAKA IMMEDIATELY ATTAINS THEM ALL -~
 
-THE PĒDUKĀ,[^55] THE SWORD,[^56] THE VETĒLA,[^57] THE SIDDHA, 58
+THE PĒDUKĀ,[^55] THE SWORD,[^56] THE VETĒLA,[^57] THE SIDDHA,[^58]
 
-THE SIDDHI OF RAW FLESH,[^58] THE MANAHŜILĀ, 6°
+THE SIDDHI OF RAW FLESH,[^59] THE MANAHŜILĀ,[^60]
 
 [^54]: I.e., the fourteenth day of the dark fortnight.
 [^55]: A stiek ts empowered with a vetāla and tis then sent off through the atir to destroy tts vietim. See KCT VI:22-27.
 [^57]: The Vetãla siddhi gives one the power to command the spirit of a corpse. See KCT VI:19-20.
 
-59\. The "Raw flesh siddhi” is also of unknown deseriptton.
+[^59]: The "Raw flesh siddhi” is also of unknown deseriptton.
 
-60\. The Red arsenic siddhi? Possibly a siddhi involving the transmutatton of base metals into gold.
+[^60]: The Red arsenic siddhi? Possibly a siddhi involving the transmutatton of base metals into gold.
 
 [^53]: Jayaratha seems to be suggesting that although the mental attitude ts of paramount importance in obtaining results, never-the less the use of physical instruments of worship ts not inconsistent with the aims of this doctrinal sehool, because one ought to perform pūjā and the pūjā invariably includes the usual materials prescribed in kula rituals, "mental concentration" not withstanding.
 [^56]: The sword of the sādhaka possessing this stddhi is able to fly through the air and destroy an enemy.
@@ -921,7 +901,7 @@ THE SIDDHI OF RAW FLESH,[^58] THE MANAHŜILĀ, 6°
 
 *[p. 307]* ^pg303
 
-THE AÑJANA,8!1 THE APERTURE,[^62] SLAVE,[^63] AND YAKṢIṆĪ,[^64]
+THE AÑJANA,[^61] THE APERTURE,[^62] SLAVE,[^63] AND YAKṢIṆĪ,[^64]
 
 (SIDDHIS) .
 
@@ -933,7 +913,7 @@ Here ends the second chapter in the commentary composed by Srīmad
 
 Rājānaka Jayaratha on the SrīvāmakeSvarīmatam.
 
-61\. The "Anjana" or ointment siddhi results from the application of a certain mixture around the eyes described in the Kulacūdāmaṇi Tantra (VI: 39-40) as made from the ground bones of a cat mixed with musk, aloe and sandal. The effect of the siddhi is to make the sādhaka invisible?
+[^61]: The "Anjana" or ointment siddhi results from the application of a certain mixture around the eyes described in the Kulacūdāmaṇi Tantra (VI: 39-40) as made from the ground bones of a cat mixed with musk, aloe and sandal. The effect of the siddhi is to make the sādhaka invisible?
 
 [^64]: The sãdhaka has the power of attracting yakgints who are presumably at his command.
 
@@ -1020,7 +1000,7 @@ It means that the little and ring fingers should be in swastika form. The "thumb
 
 [^3]: I.e., turned "upwards".
 [^4]: This posttion has the hands placed side by side.
-[^5]: 5, The swastika postition has the fingers interlocked.
+[^5]: The swastika postition has the fingers interlocked.
 [^6]: I.e., the Sarvasañṁkgobkakārinṇī mudrā.
 [^7-p309]: Right Little finger interlocks with left ring finger and left Little finger with right ring finger. The middle fingers go on top of the ring fingers. (In the process the ring fingers are obliged to bed, See following Verses 6 and 7.) The index fingers project like staves. The thumbs are straight, but press upon the little fingers.
 
@@ -1159,7 +1139,7 @@ Moreover,
 
 THE HOSTS AND MULTITUDES OF ŚAKINĪS, DAKINĪS, RĀKINĪS,
 
-LĀKINĪS, KĀKINĪS AND HĀKINĪS.?2\*
+LĀKINĪS, KĀKINĪS AND HĀKINĪS.[^24-p313]
 
 And then,
 
@@ -1175,17 +1155,13 @@ Then He says:
 
 21\. HENCE EVERYONE CALLS IT THE MUDRA OF CONVENTIONAL
 
-USAGE. 25
+USAGE.[^25-p313]
 
 It is difficult to prove that this is the same mudrā of Conventional Usage that is described in the Tantra Rāja. For (the mudrā in the Tantra Rāja) consumes the fifty siddhis. And besides, we reject the
 
-24\. -o ; - P
+[^24-p313]: These are the deities of the six Kuṇdalini cakras. Mūlādhāra = Sākiní; Svādhiṣṭhāna = Qākini; Maṇipūra = Raktni; Anāhata = Lākini; Visuddha = Kakini and Ajna = Hākinti.
 
-These are the deities of the six Kuṇdalini cakras.
-
-Mūlādhāra = Sākiní; Svādhiṣṭhāna = Qākini; Maṇipūra = Raktni; Anāhata = Lākini; Visuddha = Kakini and Ajna = Hākinti.
-
-25\. I.e., the Samaya mudrā.
+[^25-p313]: I.e., the Samaya mudrā.
 
 *[p. 314]* ^pg310
 
@@ -1228,7 +1204,7 @@ By "turning round in the regular manner" is meant that (the middle fingers) are 
 
 *[p. 315]* ^pg311
 
-The meaning is that by vīra "earthly" is intended.[^30] There are people that not even knowing the mere names of the inward and outward breaths, explain "earthly posture" by "smell of intoxication",[^31] ž! (thereby) perceiving subtleties as well as the grossly (obvious) when the reference is merely concerned with instructions on a bodily position. As the question of vra applies equally to all the (mudrās), what is the use of thus mentioning it at this point? It is a bee in the bonnet of some highminded people![^32] Of what use can such deception and verbiage be? And, it is not correct to say that the particular positions (of the mudrās correspond) to the forms of the Saktis Raudrī etc.. That is the gist of a remark made earlier.[^33-p315]
+The meaning is that by vīra "earthly" is intended.[^30] There are people that not even knowing the mere names of the inward and outward breaths, explain "earthly posture" by "smell of intoxication",[^31]! (thereby) perceiving subtleties as well as the grossly (obvious) when the reference is merely concerned with instructions on a bodily position. As the question of vra applies equally to all the (mudrās), what is the use of thus mentioning it at this point? It is a bee in the bonnet of some highminded people![^32] Of what use can such deception and verbiage be? And, it is not correct to say that the particular positions (of the mudrās correspond) to the forms of the Saktis Raudrī etc.. That is the gist of a remark made earlier.[^33-p315]
 
 Again in the Srīrasamahodadhi :
 
@@ -1238,12 +1214,12 @@ There in the middle where the existent-non-existent state of
 
 supreme reality arises, one should place one's thought.
 
-This supreme mudrā of Liberation and others with (their) hand positions are found in all the sāstras. "3%
+This supreme mudrā of Liberation and others with (their) hand positions are found in all the sāstras. "[^34-p315]
 
 [^31]: "Smell of intoxication" is a reference to the Mūlādhāra cakra whose element is earth assoctated with the sense of smell.
 [^32]: Literally: "That is in the mind of some great-souled people!"
 
-34\. In Kashmir Saivism (and indeed in most yogie schools), man's perception of reality is thought to be regulated by the breath. To attain supreme reality, the mind must concentrate itself into the fleeting interval between two breaths in which pure, undifferentiated conseitousness is momentarily revealed. This particular exercise its also called Khecari mudrā. In fact, the expression "Khecari mudrā" may refer to various practices, the most well-known of which is the retraction of the tongue towards the palate as described in the Hatha Yoga Pradipikā.
+[^34-p315]: In Kashmir Saivism (and indeed in most yogie schools), man's perception of reality is thought to be regulated by the breath. To attain supreme reality, the mind must concentrate itself into the fleeting interval between two breaths in which pure, undifferentiated conseitousness is momentarily revealed. This particular exercise its also called Khecari mudrā. In fact, the expression "Khecari mudrā" may refer to various practices, the most well-known of which is the retraction of the tongue towards the palate as described in the Hatha Yoga Pradipikā.
 
 [^30]: Literally: "said"; Skt.: "ucyate".
 [^33-p315]: It ís not clear where the remark has been made. The commentary on the expression "pārthiva sthānaka" involves the refutation of interpretattons by other commentators. Jaya-ratha seems. to approve the explanation of "pārthiva sthānaka" as the vtrāsana posture, but he does not agree that it refers to the "mattagandhaka" (or the Mūlādhāra cakra). He says that as the Virāsana posture appltes equally to all the mudrās, there is no need at this point to enquire into the esoterie interpretations of "yirya". The phrase ts merely intended to refer to a position of the body.
@@ -1342,7 +1318,7 @@ End of commentary on Verse 2.
 
 Wishing to give a (satisfactory) reply, this is what the “Lord Bhairava says". Because of its importance, He begins at first by describing the nature of knowledge \[setting aside the sequence of (other)
 
-mentions[^3-p318] ž\]
+mentions[^3-p318]
 
 3\. OH GODDESS! HEAR OF THAT GREAT KNOWLEDGE WHICH IS
 
@@ -1359,7 +1335,7 @@ SUBMERGED IN THE OCEAN OF EXISTENCE.
 
 *[p. 319]* ^pg315
 
-"Supreme" means complete, hence great and unsurpassed. It is that knowledge of the joyful union of both Sakti and the possessor of Śakti which is the best because it reveals everything: manifestations and the Siva, Śakti and human (kinds) of knowledge.\* Such are its qualities, (and) because of the Goddess' abundant skill in questioning, (the Lord says) “Hear Oh Shining One!:", i.e. reflect carefully because from reflection alone the entire unpublicized delusion that all things have a separate identity is put to rest.
+"Supreme" means complete, hence great and unsurpassed. It is that knowledge of the joyful union of both Sakti and the possessor of Śakti which is the best because it reveals everything: manifestations and the Siva, Śakti and human (kinds) of knowledge.[^4-p319] Such are its qualities, (and) because of the Goddess' abundant skill in questioning, (the Lord says) “Hear Oh Shining One!:", i.e. reflect carefully because from reflection alone the entire unpublicized delusion that all things have a separate identity is put to rest.
 
 End of commentary on Verse 3.
 
@@ -1377,26 +1353,20 @@ WITH THEIR GROSS AND SUBTLE COMPONENTS.
 
 ESSENCE.
 
-“From the first" because (in the way that has been mentioned) of Her inhering union with Him - the Supreme Siva, the disiddha5 who is a condensed mass of consciousness and bliss. She is "supreme" having
+“From the first" because (in the way that has been mentioned) of Her inhering union with Him - the Supreme Siva, the disiddha[^5-p319] who is a condensed mass of consciousness and bliss. She is "supreme" having
 
-4\. ALL manifestations and the knowledge relevant to them can be swmarized under three categories: Śiva, Śakti and nara. The nara category includes the tattvas from 1-31; Sakti includes the tattvas 32-34 (i.e. Suddha vidyā, Iśvara and Sadāśiva) and the Śiva category includes the tattvas 35 & 36 \[Sakti and Śiva).
+[^4-p319]: ALL manifestations and the knowledge relevant to them can be swmarized under three categories: Śiva, Śakti and nara. The nara category includes the tattvas from 1-31; Sakti includes the tattvas 32-34 (i.e. Suddha vidyā, Iśvara and Sadāśiva) and the Śiva category includes the tattvas 35 & 36 \[Sakti and Śiva). The Sanskrit term used here for "manifestations" is ābhāsa whitch is also a technical term in Kashmir Satvism whteh means "all that can be said to exist in any way and with regard to which the use of language is possible, be it the subject, the object, the means of knowledge or the knowledge itself.” (Pandey, Abhinavagupta, p. 320.) The term embraces all phenomena, concepts and imaginings.
 
-The Sanskrit term used here for "manifestations" is ābhāsa whitch is also a technical term in Kashmir Satvism whteh means "all that can be said to exist in any way and with regard to which the use of language is possible, be it the subject, the object, the means of knowledge or the knowledge itself.” (Pandey, Abhinavagupta, p. 320.) The term embraces all
-
-phenomena, concepts and imaginings.
-
-5\. Ādisiddha means "perfected from the beginning", t.e. the
-
-self-evident or self-existent one.
+[^5-p319]: Ādisiddha means "perfected from the beginning", t.e. the self-evident or self-existent one.
 
 *[p. 320]* ^pg316
 
-a nature that is undivided by all the multitudes of śaktís.[^6-p320] She is without a name because She does not tolerate any definite designation.[^7] She is "first" because She is self-existent. Therefore because She does not evince the other determinants,[^8-p320] She is the shining forth of all the swallowed-up tattvas and kalanās.[^9-p320] She consists of the splendour of supreme I-ness and is the essence of Vimarśa. Strictly one, She is the absolute reality capable of (producing) the various manifestations and myriad phenomena. Due to her very own greatness and the desire to display Herself outwardly, the "Sakti" has the nature of Icchã, Jnāna and Kriyā in the supreme state. In the subtle state She is characterised by Vāmā, Jyeṣṭhā and Raudrī, and in the gross state She is differentiated into Brahmāã, Viṣṇu and Siva.[^10-p320] In keeping with the meaning (of the name), She is Tripurā of the three strongholds (in the way that has been mentioned!t) and of those states that are filled with creation, maintenance and destruction. By "the three worlds" is meant (the states) that have the nature of transcendence,
+a nature that is undivided by all the multitudes of śaktís.[^6-p320] She is without a name because She does not tolerate any definite designation.[^7] She is "first" because She is self-existent. Therefore because She does not evince the other determinants,[^8-p320] She is the shining forth of all the swallowed-up tattvas and kalanās.[^9-p320] She consists of the splendour of supreme I-ness and is the essence of Vimarśa. Strictly one, She is the absolute reality capable of (producing) the various manifestations and myriad phenomena. Due to her very own greatness and the desire to display Herself outwardly, the "Sakti" has the nature of Icchã, Jnāna and Kriyā in the supreme state. In the subtle state She is characterised by Vāmā, Jyeṣṭhā and Raudrī, and in the gross state She is differentiated into Brahmāã, Viṣṇu and Siva.[^10-p320] In keeping with the meaning (of the name), She is Tripurā of the three strongholds (in the way that has been mentioned[^11-p320]) and of those states that are filled with creation, maintenance and destruction. By "the three worlds" is meant (the states) that have the nature of transcendence,
 
 [^6-p320]: "aktis" are female potencies that are expressions of her supreme power, but they are not her constituent parts in the sense that She ts their sum. She is One in and beyond the many.
 [^9-p320]: The Goddess is able to vomit forth the universe which tis swallowed up within Herself for the very reason that She ts indefinable and without attributes. The finite can only manifest from what ts not-fintite. The Absolute consists of both Prakãsa and Vimarśa (prakāśa-vimarśamaya) - the self-luminous and the self-conscious. As they are tnseparable there ts no question of the superiority of one over the other. However, in the act of manifesting, the Vimarśa aspect is to the fore as it represents the power ‚which gives rise to self-conscetousness, will, knowledge and ačtton. The "tattvas" are the thirt -six principles of creation in a - Y P P f The "kalanās" are attributes or qualittes.
 
-11\. I.e., tn Verse 4 which relates to this seetion of commentary.
+[^11-p320]: I.e., tn Verse 4 which relates to this seetion of commentary.
 
 [^7]: I.e., the Goddess has innumerable names, but no one of them is the exhaustive expression of her infinite nature.
 [^8-p320]: "Upādhi" in Sanskrit.
@@ -1406,13 +1376,13 @@ a nature that is undivided by all the multitudes of śaktís.[^6-p320] She is wi
 
 of non-existence and existence.[^12-p321] In their origination, i.e. manifestation, She is the mother, i.e. the begetter and She is therefore referred to by the expression "Ambikã". "Born" means spontaneously arisen because that is her actual nature.
 
-Suspecting that one might say: "What is the use of postulating this particular kind (of Sakti) when creation is produced by ignorance and there exists the one, supreme, quiescent brahman?",13 the Lord says:
+Suspecting that one might say: "What is the use of postulating this particular kind (of Sakti) when creation is produced by ignorance and there exists the one, supreme, quiescent brahman?",[^13-p321] the Lord says:
 
 5\. INDEED, IN THE EVOLVED STATE OF HERSELF, THERE IS NO
 
 OTHER TO BE SOUGHT.
 
-"Tu[^13-p321]" has the sense of "indeed". It means that in "Her", i.e. in Śakti as existing, there is certainly no "other one to be wished for", i.e. desired for the essential preserving and fulfilling.[^14-p321]" Not even the supreme brahman can accomplish such (things). This is the
+"Tu" has the sense of "indeed". It means that in "Her", i.e. in Śakti as existing, there is certainly no "other one to be wished for", i.e. desired for the essential preserving and fulfilling.[^14-p321]" Not even the supreme brahman can accomplish such (things). This is the
 
 meaning. l
 
@@ -1420,7 +1390,7 @@ In this matter, there is no difference of opinion about the fact that "pure Prak
 
 "One knows that the essence of a manifestation is Vimarśa,
 
-[^12-p321]: 12, According to Āgamie tradition there are three states of being: Bhāva - the mundane existence up to Māyā; Abhāva - nonexistence or the "pure world" above Māyā; and Atibhāva - the state of Siva-Sakti which transcends all.
+[^12-p321]: According to Āgamie tradition there are three states of being: Bhāva - the mundane existence up to Māyā; Abhāva - nonexistence or the "pure world" above Māyā; and Atibhāva - the state of Siva-Sakti which transcends all.
 [^13-p321]: The reference here is to some of those other philosophical schools which use the concepts "bāhyārtha", "vāsanās and "avidyā" as causes in explaining the creative process. In Kashmir Śaivism, the creative process is the inherent activity of the Supreme Being.
 [^14-p321]: I.e., She performs all the functions necessary for maintaining and producing creation.
 [^15-p321]: The meaning is that Prakāśa without Vimarśa forms no more than the passive substance of creation. It ts Vimarśa which vivifies and activates beings differentiating them from mere inert things like crystals ete..
@@ -1468,14 +1438,14 @@ Moreover,
 
 BE FOUND IN THAT WHICH IS SUBTLE.
 
-By "in that which is subtle" is meant in that which is unknowable because of its luminescence. For that which is self-luminous is the Supreme which is the inherently resplendent Prakāãsa. Because of the self-luminescence, He is also never able to effect the revelation of something other.[^21-p323] No knowledge of (Prakāśa) is to be found relating to conceptual "name" and conceptless "form",[^22-p323] and it means that because of its unique pramātp?’ nature, (Prakāsa) cannot proceed to a state of objectivity. As Prakāga is unknowable it cannot be connected with meditation and instruction etc., so enough of the pompous scriptures[^24] which say that "the Atman is to be known, meditated upon and pondered over". (Either) one should remain silent, or the śākta nature should be resorted to. Since in reality even though He is the one essence of supreme pramātp, out of his very own autonomous will, He causes his own nature \[without forsaking that (prakāśa) form\] to attain to the state of objectivity for the sake of instruction (about the supreme truth), as a result of which all
+By "in that which is subtle" is meant in that which is unknowable because of its luminescence. For that which is self-luminous is the Supreme which is the inherently resplendent Prakāãsa. Because of the self-luminescence, He is also never able to effect the revelation of something other.[^21-p323] No knowledge of (Prakāśa) is to be found relating to conceptual "name" and conceptless "form",[^22-p323] and it means that because of its unique pramātp[^23-p323] nature, (Prakāsa) cannot proceed to a state of objectivity. As Prakāga is unknowable it cannot be connected with meditation and instruction etc., so enough of the pompous scriptures[^24] which say that "the Atman is to be known, meditated upon and pondered over". (Either) one should remain silent, or the śākta nature should be resorted to. Since in reality even though He is the one essence of supreme pramātp, out of his very own autonomous will, He causes his own nature \[without forsaking that (prakāśa) form\] to attain to the state of objectivity for the sake of instruction (about the supreme truth), as a result of which all
 
-23\. , See Chapter I footnote 46 and the "Introd. to the Philo. of the Tegts".
+[^23-p323]: See Chapter I footnote 46 and the "Introd. to the Philo. of the Tegts".
 
 [^20]: The primary meaning of dhāman is dwelling-place, house ete., but the context suggests that "manner, mode or form" ts intended.
-[^21-p323]: 2l, Prakāśa without Vimarśa ts inactive. He ts the state of pure light or radiance that does not act but is.
-[^22-p323]: 22, "Name" or language makes contact with the mind and evokes concepts. "Form" makes contact with the senses and its pri~ mary function is to evoke perceptions. Perceptions do not necessarily call forth concepts.
-[^24]: , The Sanskrit reads "Ādiśāstra" meaning the Upaniṣads ete..
+[^21-p323]: Prakāśa without Vimarśa ts inactive. He ts the state of pure light or radiance that does not act but is.
+[^22-p323]: "Name" or language makes contact with the mind and evokes concepts. "Form" makes contact with the senses and its pri~ mary function is to evoke perceptions. Perceptions do not necessarily call forth concepts.
+[^24]: The Sanskrit reads "Ādiśāstra" meaning the Upaniṣads ete..
 
 *[p. 324]* ^pg320
 

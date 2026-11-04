@@ -16,7 +16,7 @@ converted: 2026-10-07
 
 The Srīrasamahodadhi also says:
 
-"These are the arrows of the deity: extracting the one between 'ñ' and 'dh' twice over marked by the one between 'p' and '\$', supplied with the one which backs up with 'au' and (the one which backs up with) 'h' are joined together at the top with the one before 'k'; the one at the beginning of 'g' and the one at the end of '1' with two of the ones above 's' and provided with those at the ends of 'a' and 'i' joined with the one before 'k'; and the one at the end of 'ẹṣ' marked with the one at the begin ning of 'kh'."195
+"These are the arrows of the deity: extracting the one between 'ñ' and 'dh' twice over marked by the one between 'p' and '\$', supplied with the one which backs up with 'au' and (the one which backs up with) 'h' are joined together at the top with the one before 'k'; the one at the beginning of 'g' and the one at the end of '1' with two of the ones above 's' and provided with those at the ends of 'a' and 'i' joined with the one before 'k'; and the one at the end of 'ẹṣ' marked with the one at the begin ning of 'kh'."[^195]
 
 The one "between 'ñ' and 'dh'" is "d"; the one "between 'p' and 'ș'" is "r"; the one "which backs up with 'au'” is "a"; "with 'h'" is "Į"; the one "before 'k'" is "p", hence DRAM DRĪM. The one "at the beginning of 'g'" is "k"; the one "at the end of '1'" is "v"; the one "above 's'" is "1"; that "at the end of the tetter 'a'" is "i"; at the end of the letter "i" is "u"; "the one before 'k'" is "p", hence KLIM VLUM. The one "at the end of 'ṣ'" is "ṣ"; the one "at the beginning of 'kh'" is "h", hence SAṆ.[^196]
 
@@ -26,9 +26,7 @@ that):
 
 "The vidyā according to the Vajraprastāra variant has twelve syllables. It is minus the three bījas at the beginning, middle and end."[^197]
 
-195\. For this extraction the letter grid in Chapter 1 footnote
-
-320 may be used.
+[^195]: For this extraction the letter grid in Chapter 1 footnote 320 may be used.
 
 [^196]: Note that the expressions "at the beginning, at the end" ete.  are rather arbitrary and sometimes have to be loosely interpreted. The Sākta arrows referred to in the main verse are thus DRAM DRIM KLIM VLUM and SAH.
 
@@ -129,7 +127,7 @@ Having presented the sāktas in this way, He also speaks about the mādanas:
 
 FIRST (AND) THE FOLLOWING ONES BENEATH ALL.
 
-“The ones beneath all" are indicative of the four - air etc. which are lying in the lower part of "all", i.e. of the path; meaning that they are inside it. The meaning of the verse is that the arrows again become mādanas when they are "attached" to these (four) following, i.e. coming after the "first" one which is space whose denoter is the letter "h". The resulting sequence is: "h", "y", "r", "1" and "v",.216
+“The ones beneath all" are indicative of the four - air etc. which are lying in the lower part of "all", i.e. of the path; meaning that they are inside it. The meaning of the verse is that the arrows again become mādanas when they are "attached" to these (four) following, i.e. coming after the "first" one which is space whose denoter is the letter "h". The resulting sequence is: "h", "y", "r", "1" and "v",.[^216]
 
 End of commentary on Verse 62.
 
@@ -151,7 +149,7 @@ THE GOAD IS DESIRE, FIRE (AND) THE PERVADER.
 
 “The one at the end of the first" is "ā". The "Rudrasakti" which has the nature of the fourth vowel renowned for its proximity to "ā" (and) the pair of earrings which are the two letters "i" from whose
 
-216\. The path is presumably the path of evolution of the material elements with space considered to be "above" the four grosser ones of wind, fire, water and earth. These elements are considered to have corresponding positions within the body. The commentary is suggesting that the "arrows" DRAM DRIM KLIY VLUM and SAH are to be joined to the letters of the elements that begin with space and end with earth, thus forming the mādanas HDRĀM YDRĪM RKLIM LVLUM and VSAH. The anomaly here is that "1" is traditionally the letter for earth and "v" stands for water...
+[^216]: The path is presumably the path of evolution of the material elements with space considered to be "above" the four grosser ones of wind, fire, water and earth. These elements are considered to have corresponding positions within the body. The commentary is suggesting that the "arrows" DRAM DRIM KLIY VLUM and SAH are to be joined to the letters of the elements that begin with space and end with earth, thus forming the mādanas HDRĀM YDRĪM RKLIM LVLUM and VSAH. The anomaly here is that "1" is traditionally the letter for earth and "v" stands for water...
 
 *[p. 371]* ^pg367
 
@@ -301,7 +299,7 @@ WITH THE WHOLE ALWAYS IN CONJUNCTION WITH ALL THE
 
 GODDESSES, OH PARVATĪ!,
 
-ONE MAY ATTAIN THE KHECART SIDDHI?28 ACCOMPANIED BY THE
+ONE MAY ATTAIN THE KHECART SIDDHI[^228] ACCOMPANIED BY THE
 
 ATTRIBUTES OF AṆIMĀ ETC..
 
@@ -309,13 +307,7 @@ ATTRIBUTES OF AṆIMĀ ETC..
 
 From the worship (of it and) of the eight-spoked one which (with respect to the root triangle) is outside, and from (the worship) of the ninth cakra too (which is the one that abides in the middle of the middle one), Lordship of Speech and the state of Desire[^230] are attainable. It is a twofold worship of the cakra'’s cakra.
 
-227\.
-
-228\.
-
-229\.
-
-228\. I.e., liberation.
+[^228]: I.e., liberation.
 
 [^227]: Literally: "to achteve or accomplish this positton", t.e. even Ŝiva's exalted rank depends upon his devotion to the vidyã.
 [^229]: Kāmeśvarī, Bhagamālinī, Vajreśī and Tripurasundarṛ.
@@ -408,9 +400,9 @@ OTHERWISE, ONE MAY UNDERTAKE THE REPETITION OF MANTRA
 
 REFLECTED ON THE SUPREME LADY PRESENT THERE BY MEANS
 
-OF THE PREVIOUSLY DESCRIBED MEDITATION.”
+OF THE PREVIOUSLY DESCRIBED MEDITATION.[^7]
 
-Cakra means the triple type one also.
+Cakra means the triple type one also.[^8]
 
 End of commentary on Verse 6.
 
@@ -422,7 +414,7 @@ ALOUD OR SILENTLY, - EVEN MENTALLY, OH VIRTUOUS ONE!
 
 By "aloud" is meant with voice since they say:
 
-"What the self does not hear is said to be mental. What is heard (only) by the self consider as silently.? What others hear, Oh Goddess!, is called voiced."
+"What the self does not hear is said to be mental. What is heard (only) by the self consider as silently.[^9] What others hear, Oh Goddess!, is called voiced."
 
 He discusses the "how", "the how much" and "what are the fruits?"
 
@@ -440,13 +432,14 @@ EMBELLISHED WITH SAFFRON, ALOE, CAMPHOR AND MUSK THAT
 
 (EITHER) CONTAINS A STRING OF PEARLS, IS PRODUCED FROM ABUNDANT CAT'S EYE GEMS, CRYSTAL, RUDRĀKSA,
 
-7\. Japa may be performed with the cakra internalised. The meditation (dhyāna) for Tripurã is contained in I:113-131. I.e., the cakra abridged to the seventh, eighth and ninth cakras.
+[^7]: Japa may be performed with the cakra internalised. The meditation (dhyāna) for Tripurã is contained in I:113-131.
+[^8]: I.e., the cakra abridged to the seventh, eighth and ninth cakras.
 
-"Silently" here means with a slight but pereeptible movement of the Lips as some do when reading a book.
+[^9]: "Silently" here means with a slight but pereeptible movement of the Lips as some do when reading a book.
 
 *[p. 380]* ^pg376
 
-PUTRAJĪVIKAĄ AND LOTUS SEEDS; (OR} IS FASHIONED FROM
+PUTRAJĪVIKA[^10] AND LOTUS SEEDS; (OR} IS FASHIONED FROM
 
 CORAL, RUBIES ETC. (OR) RED SANDALWOOD, HE IS RELEASED
 
@@ -466,11 +459,11 @@ one stated variation. Here is another:
 
 "A string of beads shouid be fashioned that has the supporting tinged with red sandalwood.[^13] In the first (cakra) a three part one of pearls etc. is for the
 
-10\. The Rudrāksa seeds are from the tree Elaeocarpus ganitrus are sacred to Śiva. Putrajīvika seeds originate from Putranjiva roxburghii and are said to be propitious to the health and welfare of sons/cehildren.
+[^10]: The Rudrāksa seeds are from the tree Elaeocarpus ganitrus are sacred to Śiva. Putrajīvika seeds originate from Putranjiva roxburghii and are said to be propitious to the health and welfare of sons/cehildren.
 
 [^11]: Although the Sanskrit verse ts not explicit on the matter, the rosary ís usually made of one substance entirely. There ts a tradition that the results of the japa will vary according to what the rosary is made of. The lotus seed rosary leads to the destruction of the enemy; with the coral rosary one gains wealth; a rosary of jewels and silver grants success and Kusa seeds deliver from sin. The type of rosary may also vary from sect to sect. (Chattopadyaya, Reflections, p. 67.) The commentary to this verse gives tts own verston of the effects of different rosartes.
 [^12]: In Hinduism there are nine traditionally ausptetous gems: pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire and gomeda (?). These nine jewels may be disposed on the pots or jars used in the sacred rituals.
-[^13]: 11. 12 Though the Sanskrit reads "Soṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made 'of it.
+[^13]: Though the Sanskrit reads "Soṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made 'of it.
 
 *[p. 381]* ^pg377
 
@@ -525,7 +518,7 @@ THE GREAT LORD OF THE VIDYADHARAS, AND WITH SEVEN HUNDRED
 
 THOUSAND,
 
-HE ATTAINS THE COMPANY OF THE KHECARTS. 17
+HE ATTAINS THE COMPANY OF THE KHECARTS.[^17]
 
 15\. OH GREAT LADY: WHEN HE HAS PERFORMED EIGHT HUNDRED
 
@@ -557,7 +550,7 @@ The "becomes" is implied.
 
 End of commentary on Verse 17.
 
-17\. The "Khecarts" are particular saktis or yogints that mediate the descent of the universal consetousness tnto the individual. The khecaris operate the sphere of conseiousness. The other Saktis in this classification are Gocarts, Dikearls and Bhūcaris who respectively operate the spheres of the psyche, the outer senses and the external world. (Singh, Pratyabhijnāhpdayam, pp.39-40.) The great lord of the vidyādharas ts ATTA The vidyā-dharas are mythical beings of human form belonging to the air- space regions and possessing magical knowledge.
+[^17]: The "Khecarts" are particular saktis or yogints that mediate the descent of the universal consetousness tnto the individual. The khecaris operate the sphere of conseiousness. The other Saktis in this classification are Gocarts, Dikearls and Bhūcaris who respectively operate the spheres of the psyche, the outer senses and the external world. (Singh, Pratyabhijnāhpdayam, pp.39-40.) The great lord of the vidyādharas ts ATTA The vidyā-dharas are mythical beings of human form belonging to the air- space regions and possessing magical knowledge.
 
 [^18]: The use of the word hero is an allusion to one of the three baste types of Tantric sādhakas: the animal (paśu), the hero (vra) and the divine (divya).
 [^19]: Literally: "unimpeded, unobstructed"; Skt. :"apratihata".
@@ -578,7 +571,7 @@ A HUNDRED THOUSAND WHEN PERFORMED IN SILENCE
 
 OF TEN MILLION REPETITIONS OF THE MANTRA.
 
-(This verse) means that the small number - once, twice, three times... that the sāãdhaka has vocally repeated the mantra, gains him the benefit of only the number performed. Likewise, a hundred thousand repetitions performed in silence gain him one hundred thousand times the benefit compared with that of vocal repetitions. Thus, repeated mentally there are ten million times (the fruits). The gist is that there is a successive increase.[^20] ??
+(This verse) means that the small number - once, twice, three times... that the sāãdhaka has vocally repeated the mantra, gains him the benefit of only the number performed. Likewise, a hundred thousand repetitions performed in silence gain him one hundred thousand times the benefit compared with that of vocal repetitions. Thus, repeated mentally there are ten million times (the fruits). The gist is that there is a successive increase.[^20]
 
 End of commentary on Verse 18.
 
@@ -606,7 +599,7 @@ others. (For example:)
 
 bindu are called Svayaṇbhū and Bāṇa. Itara is in between
 
-„them. ... "21
+„them. ... "[^21]
 
 The "many ways" are found in the scriptures. They are to be deduced by diligent yogis according to their predilections and as far as their own experience allows. And by others, the various locations of the . Liñgas are often described any which way. It is not our intention to {enter} again into a difficult-to-grasp, thoroughly chewed over exposition on this. So let us drop the subject. (The Lord) mentions the consequences:
 
@@ -616,7 +609,7 @@ OF THE THREE WORLDS.
 
 So, after concluding (all) this, He discusses the ritual mẹthod for homa:
 
-21\. THUS HAVING AT FIRST DONE REPETITION OF THE MANTRA TO THE BEST OF HIS ABILITY, , THE EXCELLENT SDHAKA SHOULD PERFORM HOMA IN TEN PARTS...22
+21\. THUS HAVING AT FIRST DONE REPETITION OF THE MANTRA TO THE BEST OF HIS ABILITY, , THE EXCELLENT SDHAKA SHOULD PERFORM HOMA IN TEN PARTS...[^22]
 
 He discusses "with what" and "how":
 
@@ -626,19 +619,17 @@ FLOWERS?[^23] AND THE THREE SWEET SUBSTANCES ACCORDING TO RULE.
 
 The "Brahma tree" is the sacrificial (Butea frondosa) with its Palāsa (blossoms) etc.. The "three sweet substances" are sugar, ghee, milk and so on that have many preparations. If Svayaṇbhū flowers are
 
-21\. The ascending order of liñgas is traditionally: Svayambhū,
+[^21]: The ascending order of liñgas is traditionally: Svayambhū, Bāṇa, Itara and Para. This verse in giving a different order demonstrates, as Jayaratha says, the various alternative arrangements found. in the scriptures.
 
-Bāṇa, Itara and Para. This verse in giving a different order demonstrates, as Jayaratha says, the various alternative arrangements found. in the scriptures.
-
-22\. The procedure for homa as given below in the commentary may be sumed up in ten principal steps: meditation on the triangle; tnvocatton of Ambikā; bringing of Fire; casting tt tinto yont; blazing-up of Fire; consecration of ladles and offerings; pre-natal ceremontes etce.; dismissal of Mother Goddess; worshtp of mantra-cakra and visualizing of Fire as face.
+[^22]: The procedure for homa as given below in the commentary may be sumed up in ten principal steps: meditation on the triangle; tnvocatton of Ambikā; bringing of Fire; casting tt tinto yont; blazing-up of Fire; consecration of ladles and offerings; pre-natal ceremontes etce.; dismissal of Mother Goddess; worshtp of mantra-cakra and visualizing of Fire as face.
 
 [^23]: The Kusumbha flower ts the Safflower or Hermit's water-pot. But here tt apparently means any red flower.
 
 *[p. 385]* ^pg381
 
-mentioned in the text, it means wild flowers. By "according to rule" is meant that one should make fit for worship a sacrificial receptacle having glanced upon it with a supreme gaze from among the eight pits being mentioned there;[^24] having sprinkled it with the weapon (mantra);[^25] dug it out; blessed it with water; beaten it (and) smeared it (with cow dung);[^26] having divided it into four with an entrance; made it adamantine;[^27] covered the inside and out with shining heaps of KuSa grass, (and) having disposed the three Saktis vVāmã etc. on the encircling rims[^28] for the sake of removing obstacles (to the worship).[^29] Then "one should perform koma" by meditating on the triangle in the intersection;[^30] by invoking Ambikā with the māyā bṛja;žł" placing her upon the seat (and) worshipping her; by bringing Fire; sprinkling it; turning it into nectar;[^32] worshipping it (and) meditating upon it as semen; by casting it into her yoni after three circumambulations from left to right; by sprinkling her yont with the weapon (mantra), covering it with Darbha grass (and) displaying the "burning" mudrā on the blazing-up of the Fire; by performing the rites of: conception for a male child; parting of the hair; birth
+mentioned in the text, it means wild flowers. By "according to rule" is meant that one should make fit for worship a sacrificial receptacle having glanced upon it with a supreme gaze from among the eight pits being mentioned there;[^24] having sprinkled it with the weapon (mantra);[^25] dug it out; blessed it with water; beaten it (and) smeared it (with cow dung);[^26] having divided it into four with an entrance; made it adamantine;[^27] covered the inside and out with shining heaps of KuSa grass, (and) having disposed the three Saktis vVāmã etc. on the encircling rims[^28] for the sake of removing obstacles (to the worship).[^29] Then "one should perform koma" by meditating on the triangle in the intersection;[^30] by invoking Ambikā with the māyā bṛja;[^31] placing her upon the seat (and) worshipping her; by bringing Fire; sprinkling it; turning it into nectar;[^32] worshipping it (and) meditating upon it as semen; by casting it into her yoni after three circumambulations from left to right; by sprinkling her yont with the weapon (mantra), covering it with Darbha grass (and) displaying the "burning" mudrā on the blazing-up of the Fire; by performing the rites of: conception for a male child; parting of the hair; birth
 
-33\. With which mantra?
+[^32]: With which mantra?
 
 [^24]: The āgamas as a rule prescribe eight types of kunda: square, round, triangular, crescent-shaped, vulva-shaped, pentagonal ete.. (Gonda, Medieval Religious Literature, p. 191.) It seems that the particular shape of the fire-pit should be chosen by allowing one's gaze to fall upon it by chance.
 [^25]: The weapon mantra ts PHAṬ.
@@ -647,7 +638,7 @@ mentioned in the text, it means wild flowers. By "according to rule" is meant th
 [^28]: Monter-Williams defines the mekhalās as the four lines or cords surrounding the receptacle for the sacrifietal fire. In the Tantric ritual, however, they are meant to be raised perimeters of earth at the bottom; half way up the sides and around the outer edge of the kunda or sacrifictal pit.
 [^29]: The Kusa grass serves the purpose of covering the inside and the outside of the kunda. The Saktis are worshipped for the removal of obstacles.
 [^30]: The "intersection" refers to the crossing into four with entrance? Is it an imaginary criss-crossing?
-[^32]: I.e., the mantra HRIM.
+[^31]: I.e., the mantra HRIM.
 
 *[p. 386]* ^pg382
 
@@ -691,8 +682,6 @@ The "genital symbol" means the three-angled one.[^42] "In the nine triangles[^43
 IN THE SACRIFICIAL PIT OF THE YONI, ONE BECOMES
 
 A FLUENT ORATOR; THERE IS EXCELLENT PLOUGHING IN THE FEMALE GENITAL SYMBOL;
-
-40. 4l. 42. 48.
 
 [^40]: Literally: "mark or sign"; Skt.: "anke".
 [^41]: The verse ts speetfying eight places suttable for the performance of homa. Either in an acetual sacerificetal pit, or in various locations within the yantra of the Érīcakra. "Vartula" meaning "ring or eirele” refers to the round stxteeen-petal lotus in assoctation with the three rings. "Ardhacandra" is a reference to the fourteen-spoked cakra as the period between one full moon and another ts approximately 28-30 days. Half of that is fourteen, or to put it another way, the time lapse between one half-moon and another is approximately fourteen days.
@@ -809,13 +798,13 @@ And so on. Doing the said exposition on every point six times results in merely 
 
 *[p. 391]* ^pg387
 
-According to the verse, He manifests objectivity[^57] in Himself without abandoning his one nature as subject.[^58] As a result: "He is capable of bringing to a state of awareness";59 “the one that is entering the state of becoming is Siva"; (and) "he attains the realm of sense experience that belongs to the pure Self split into the separate parts of guru etc."69 Because of its inner nature this third kind is
+According to the verse, He manifests objectivity[^57] in Himself without abandoning his one nature as subject.[^58] As a result: "He is capable of bringing to a state of awareness";[^59] “the one that is entering the state of becoming is Siva"; (and) "he attains the realm of sense experience that belongs to the pure Self split into the separate parts of guru etc."[^60] Because of its inner nature this third kind is
 
-designated by the word nigarbha.[^61] £1
+designated by the word nigarbha.[^61]
 
 Thus,
 
-"The very Self that springs up in all beings in the form of blissful consciousness is Siva - the expansion of unobstructed will (and) widening perception? and action."
+"The very Self that springs up in all beings in the form of blissful consciousness is Siva - the expansion of unobstructed will (and) widening perception[^62] and action."
 
 (Ī. Pra. 4:1:1)
 
@@ -828,15 +817,13 @@ According to the view stated by the former venerable guru, such is the nature of
 [^57]: "Prameyatām" in Sanskrit.
 [^58]: "Pramātṛ" in Sanskrit. See the section on the "Introduetion to the Philosophy of the Texts".
 
-59\. "Parāmrsyatām" in Sanskrit.
+[^59]: "Parāmrsyatām" in Sanskrit.
 
-60\. I.e., the pure undivided Self differentiates into separate
-
-centres of conseiousness. The experience of duality ts preserved in the illusion of an individual separate Self and other individual separate Selves.
+[^60]: I.e., the pure undivided Self differentiates into separate centres of conseiousness. The experience of duality ts preserved in the illusion of an individual separate Self and other individual separate Selves.
 
 [^61]: "Nigarbha" has the connotation of "in the womb" or "embryonic".
 
-862\. "Dp" - literally "seeing".
+[^62]: "Dp" - literally "seeing".
 
 [^63]: "Dasāsu” - literally: "in all states or conditions of life".
 [^64]: "Paraprakāsa" in Sanskrit.
@@ -856,11 +843,11 @@ identification, consciousness attains its pure unreasoning
 
 essence. " (Tan. 4:6)
 
-According to this view, (consciousness reaches to a state of certainty that is thought-less (and) characterised by-an intuitive perception of the Self. Because of its being incommunicable to ignorant people, it is called by the word "secret". It is the fifth one and has the nature of the "Ś@mbhava means".[^67] So, given that even with this amount of power of meditation the highest goal is also reached, (the fifth and sixth ones) produce in the body the perfection that consists in pure consciousness free from the kalanā stains of existence and non-existence,68 as well as the Conceptual circle in a flashing form before
+According to this view, (consciousness reaches to a state of certainty that is thought-less (and) characterised by-an intuitive perception of the Self. Because of its being incommunicable to ignorant people, it is called by the word "secret". It is the fifth one and has the nature of the "Ś@mbhava means".[^67] So, given that even with this amount of power of meditation the highest goal is also reached, (the fifth and sixth ones) produce in the body the perfection that consists in pure consciousness free from the kalanā stains of existence and non-existence,[^68] as well as the Conceptual circle in a flashing form before
 
 (him).
 
-68\. "Kalanā" is a difficult term to define, but it carries the meaning of "quality" or "impelling" amongst others. The notions of- existence-non-extstence do not apply to thts state of consetousness. Even "non-existence" impltes a something not existing. The state is beyond actual and conceptual limitations.
+[^68]: "Kalanā" is a difficult term to define, but it carries the meaning of "quality" or "impelling" amongst others. The notions of- existence-non-extstence do not apply to thts state of consetousness. Even "non-existence" impltes a something not existing. The state is beyond actual and conceptual limitations.
 
 [^65]: "Sahajamaisvaryam". The "supremacy" can be a reference to the etght supernatural powers or siddhis. Presumably it means that Śiva evokes a spontaneous development of latent spiritual powers...
 [^66]: See footnote 54 and the "Introd. to the. Philo. of the Texts".

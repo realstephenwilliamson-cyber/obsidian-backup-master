@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Lutgendorf - Hanuman's Tale - The Messages of a Divine
 book: "[[Library/Hinduism/Hanuman's Tale (Lutgendorf)/Hanuman's Tale (Lutgendorf)|Hanuman's Tale (Lutgendorf)]]"
 order: 1
 source_pdf: "Library/Hinduism/Lutgendorf - Hanuman's Tale (2007).pdf"
-page_range: "1–13"
+page_range: "viii–xii"
 pdf_pages: "1–13"
 text_source: "PDF text layer (born-digital), PyMuPDF; the dots below letters, drawn as separate marks, put back where they sit by their letter"
 converted: 2026-10-22
@@ -15,17 +15,17 @@ converted: 2026-10-22
 > [!note] Dots below letters
 > The PDF draws the dot under ṭ, ḍ, ṇ, ṣ and ṃ as a separate mark. Where it sits by its letter it has been put back; where it had drifted, it was dropped, so some transliterated words lack a dot (*samhitā* for *saṃhitā*). About fifty words or dashes that the PDF's fonts do not encode are marked \[illegible\]. For exact spellings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Hanuman’s Tale
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 A Kannada-language poster shows Hanuman’s body inscribed with devotional poems; late twentieth century
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 Hanuman’s Tale The Messages of a Divine Monkey
 
@@ -33,7 +33,7 @@ philip lutgendorf
 
 1
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 Oxford University Press, Inc., publishes works that further Oxford University’s objective of excellence in research, scholarship, and education.
 
@@ -93,13 +93,13 @@ I. Title. BL1225.H3L87 2006 294.5'2113—dc22
 
 Printed in the United States of America on acid-free paper
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 In remembrance of
 
 Eruch, disciple of Meher Baba; and for Susan, Mira, and Claire
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 My heart, Lord, holds this conviction:
 
@@ -107,7 +107,7 @@ Greater than Rama is Rama’s servant.
 
 ——Tulsidas (Rāmcaritmānas 7.120.16)
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 Preface and Prashasti\*
 
@@ -145,7 +145,7 @@ My wife, Susan, and our daughters, Mira and Claire, have supported me throughout
 
 I have dedicated this volume to Eruch Jessawala (1916–2001), intimate disciple and companion of Avatar Meher Baba, and someone whose impact on my life cannot easily be put into words. A man without pretense, a peerless storyteller, and a witness to love and truth, he profoundly touched my heart. But I also want to pay tribute to another dear friend, the late Kaikobad (‘‘Keki’’) Desai of Kashmir Gate, Delhi. Together with his wife, Dhun, and daughter, Meher, Keki welcomed, fed, and inspired my family and me whenever we passed through Delhi. A Parsi and a stalwart disciple of Meher Baba, he was also a devoted reciter of the Hanumān cālīsā. After Keki’s death, a Hindu neighbor of his remarked to me, concerning the love of the Desai family and the special atmosphere of their apartment in Old Delhi, ‘‘Outside, it was kali yuga \[the dark age\], but in there, always satya yuga \[the golden age of truth and righteousness\].’’ Similarly for me now, recalling all that I have received from dear friends and mentors renews the world.
 
-*[p. 12]* ^pg12
+*[p. xi]* ^pg12
 
 Contents
 
@@ -161,6 +161,6 @@ Hanuman and His Kin in Transcultural Discourse, 333 Appendix: Two Poems in Prais
 
 Principal Hanumāyana Sources by Author 407 Other Sources, 408 Index, 425
 
-*[p. 13]* ^pg13
+*[p. xii]* ^pg13
 
 *This page intentionally left blank*

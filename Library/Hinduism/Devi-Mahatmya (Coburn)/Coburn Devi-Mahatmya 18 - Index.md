@@ -347,13 +347,13 @@ Page lines
 
 202 19 : occurrence 202 37 : Ftudes 204 8 : by coming 206 24 : focuses 216 16 : lotus-naveled 216 28-29 : a mighty spear 218 8 : harrassment 219 6 : Rg Vedic 223 4-5 : partic-ularly 234 38 : Krṣṇa 243 15 : (20. 35-44) 253 28-29 : San-skrit 263 16 : and Viśrita 265 20 : tranquillity 266 32 : abhtstaye 273 9 : (tāriṇi), 279 22 : the eleventh 285 20 : (eternally) 288 25 : the pulverizer 294 26 : your sword 300 37 : great illusion 319 8 : is \[here\] 319 9 : demoness 319 39 : list of 332 3 : such instances 333 30: PÈtre 337 25 : Albrecht 341 20 : Divine 342 2 : Reader 343 43 : Donna M. 344 4-5 : Uni-versity 345 45 : Civilization” in 351 l : delivered
 
-*[p. 363]* ^pg383
+*[PDF 383]* ^pg383
 
-*[p. 364]* ^pg384
+*[PDF 384]* ^pg384
 
 Oooo
 
-*[p. 365]* ^pg385
+*[PDF 385]* ^pg385
 
 -M376C63 1984 BL1140.4 Coburn,
 
@@ -363,7 +363,7 @@ Devi-māhāthmya
 
 672481
 
-*[p. 386]* ^pg386
+*[PDF 386]* ^pg386
 
 Fra E "O
 

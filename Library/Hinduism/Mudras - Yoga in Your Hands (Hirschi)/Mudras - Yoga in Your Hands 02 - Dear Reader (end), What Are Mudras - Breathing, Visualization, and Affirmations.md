@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 2
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: ""
+page_range: "12–13"
 pdf_pages: 13–26
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -173,7 +173,7 @@ The great masters do not agree on the length of time to practice a mudra positio
 
 I have taken this and all of the following information from Keshav Dev on the effect of the mudras from the article "Yoga mit dem kleinen Finger" by Ram Panjaabi in the German magazine *esotera* 9/88. 
 
-*[PDF 25]* ^pg25
+*[p. 12]* ^pg25
 
 M U D R A S 
 
@@ -183,7 +183,7 @@ Mudras that are used for *acute* complaints—such as respiratory and circulatio
 
 *The effect of a mudra may be perceived immediately or only after a certain amount of time. You start to feel warm, the sense of unwellness and pain fade away, your mood improves, and your mind is refreshed. But exactly the opposite may occur at the start. You become tired, or start to feel cold and shiver.* *This is also a positive sign of the effect.* 
 
-*[PDF 26]* ^pg26
+*[p. 13]* ^pg26
 
 BREATHING, VISUALIZATION, AND AFFIRMATIONS TO ENHANCE THE MUDRAS 
 

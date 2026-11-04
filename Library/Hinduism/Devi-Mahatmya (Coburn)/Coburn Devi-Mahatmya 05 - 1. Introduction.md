@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > This text was read from the page images by OCR (Tesseract, Latin model). The English is reliable, and transliterated Sanskrit keeps most diacritics, though some are misread. Footnote numbers in the text are often garbled or dropped, and verse lines run together. For exact forms and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 21]* ^pg21
+*[PDF 21]* ^pg21
 
 ## 1. Introduction
 

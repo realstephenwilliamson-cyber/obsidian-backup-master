@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 10
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 157–165
+page_range: "144–165"
 pdf_pages: 157–179
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -29,7 +29,7 @@ I believe that spirituality should be integrated into everyday life, plans for t
 
 There is usually no indication of how long the mudras should be done here since this is different for each individual. One person may need to do the following mudra meditations just once, and for only a few minutes to feel their effects—depending on the level of inner maturity; other people may have to meditate for several days or even weeks, from 7 to 30 minutes a day, before they even perceive that something has changed or that their connection with higher consciousness has deepened. 
 
-*[PDF 158]* ^pg158
+*[p. 144]* ^pg158
 
 M U D R A S 
 
@@ -43,7 +43,7 @@ Place both hands together in front of your heart chakra. Leave a little hollow s
 
 The ancient Celts and Teutons contacted their gods with raised arms. This gesture is very powerful and was prohibited during Christianization. Later, it was introduced once again. However, only the priests and members of religious orders—but no longer the common people—were permitted to use it. Who was meant to have the power here? In India and Nepal, people make this gesture toward holy people and to those they respect. 
 
-*[PDF 159]* ^pg159
+*[p. 145]* ^pg159
 
 E X P L O R I N G 
 
@@ -61,7 +61,7 @@ Affirmation
 
 *Full of thankfulness, I receive the good that waits for me.* 
 
-*[PDF 160]* ^pg160
+*[p. 146]* ^pg160
 
 146 
 
@@ -81,7 +81,7 @@ The two hands formed into a bowl show that we are inwardly free, pure, and empty
 
 It is also like a silent cooperation with your best friend. You no longer need to tell each other anything—you are content because you know that everything important has already been said. You feel the connection, and that is enough. 
 
-*[PDF 161]* ^pg161
+*[p. 147]* ^pg161
 
 E X P L O R I N G 
 

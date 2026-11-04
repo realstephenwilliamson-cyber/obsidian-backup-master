@@ -4,7 +4,7 @@ work: "[[Pande - Abhinavabharati]]"
 book: "[[Library/Trika/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)/Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)|Abhinavabharati - Abhinavagupta's Commentary on Bharata's (Pande)]]"
 order: 5
 source_pdf: Library/Trika/Pande - Abhinavabharati (1997).pdf
-page_range: 123–178
+page_range: "123–173"
 pdf_pages: 121–178
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -182,7 +182,7 @@ The meaning is, that sounds produced from two immediate positions will not lead 
 
 In gāndharva music, svaras or notes are of three types - those which consist of four śrutis, those which have three śrutis and those which have two śrutis. No svara can have more than four śrutis or less than two. 
 
-*[PDF 128]* ^pg128
+*[p. 130]* ^pg128
 
 The concept of grāma is rather difficult for the modern mind to comprehend, for the notion is long since extinct. The gandharva seven-note octave had a basic two - fold division on the basis of by certain notes. 
 
@@ -224,7 +224,7 @@ In madhyama - grāma, paīcama was lowered by one śruti, becoming triśrutika. 
 
 Abhinavagupta makes an interesting statement here-that only three śruti notes are to be used for tremolo. The explanation seems to be, that, while in oscillation during the tremolo or kampana, even if, perchance, the note was to touch a śruti above or below it, it will still not create vaisvarya as notes of two, three or four śrutis are legitimate. But, in the tremolo of a catuśśrutika 
 
-*[PDF 129]* ^pg129
+*[p. 132]* ^pg129
 
 named 
 
@@ -1334,7 +1334,7 @@ Abhinava gives Dhaivañ and Madhyamā as the source jātis which seems to be a m
 
 201.
 
-*[PDF 172]* ^pg172
+*[p. 131]* ^pg172
 
 ह 131
 
@@ -1366,7 +1366,7 @@ There were eighteen jatis which were sub-divided into two-
 
 Suddha and Vikrta. Suddha jatis were those which were named after the seven svaras, and that very note after which the jazi was
 
-*[PDF 173]* ^pg173
+*[p. 173]* ^pg173
 
 pañcama attains vivāditva. Sometimes, pacama abstains from its samvāditva (i.e. with rsabha) and the note is said in a different manner, hence Bhinnapancama. Now, the Bhinnā style was characterised by complex, subtle notes. Here is an example. Since sometimes pacama sounded in a different manner in Bhinnapancama, it meant that the srutis in the trisrutika pañcama must have sometimes varied and hence the differing nature of the note. It is, then, understandable why pañcama attained vivāditva from place to place. For the same reason, sometimes it does not have samvāditva with sabha. It may be noted, that, for this reason, zsabha was a weak note in this grāma-rāga. 
 

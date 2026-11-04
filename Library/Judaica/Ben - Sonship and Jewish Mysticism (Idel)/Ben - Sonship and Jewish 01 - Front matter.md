@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (Adobe Acrobat Paper Capture), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Title
 
@@ -43,7 +43,7 @@ Moshe Idel
 
 continuum 
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 Published by Continuum To Yehuda 
 
@@ -83,7 +83,7 @@ ISBN-l0: 0-8264-9665-2 (hardback)
 
 978-0-8264-9666-9 (paperback) 
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 'Whoever possesses My *Mysterion* \[which is the Mishnah\] is My son.' 
 

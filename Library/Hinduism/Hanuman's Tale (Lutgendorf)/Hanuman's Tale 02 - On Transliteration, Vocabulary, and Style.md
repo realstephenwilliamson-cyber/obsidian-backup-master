@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Lutgendorf - Hanuman's Tale - The Messages of a Divine
 book: "[[Library/Hinduism/Hanuman's Tale (Lutgendorf)/Hanuman's Tale (Lutgendorf)|Hanuman's Tale (Lutgendorf)]]"
 order: 2
 source_pdf: "Library/Hinduism/Lutgendorf - Hanuman's Tale (2007).pdf"
-page_range: "14–17"
+page_range: "xiii–xiv"
 pdf_pages: "14–17"
 text_source: "PDF text layer (born-digital), PyMuPDF; the dots below letters, drawn as separate marks, put back where they sit by their letter"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Dots below letters
 > The PDF draws the dot under ṭ, ḍ, ṇ, ṣ and ṃ as a separate mark. Where it sits by its letter it has been put back; where it had drifted, it was dropped, so some transliterated words lack a dot (*samhitā* for *saṃhitā*). About fifty words or dashes that the PDF's fonts do not encode are marked \[illegible\]. For exact spellings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 14]* ^pg14
+*[p. xiii]* ^pg14
 
 ## On Transliteration, Vocabulary, and Style
 
@@ -87,10 +87,10 @@ Other consonants with subdots (ṭ, ṭh, ḍ, ḍh, ṇ, ṛ, ṛh) represent �
 
 pronounced ‘‘ri’’ by most North Indians and ‘‘ru’’ by most southerners.
 
-*[p. 16]* ^pg16
+*[PDF 16]* ^pg16
 
 Hanuman’s Tale
 
-*[p. 17]* ^pg17
+*[PDF 17]* ^pg17
 
 *This page intentionally left blank*

@@ -126,7 +126,7 @@ uparakte.
 
 30 Practical reality is possible as such in-that it is rooted in the Supreme Consciousness and this may be known through direct experience itself (i.e. not through inference). This experience is accessible also to obtuse souls incapable of arriving at it immediately, through meditation and the repeated practice of this teaching. (cf. ibid. p. 405).
 
-*[p. i]* ^pg207
+*[p. 147]* ^pg207
 
 CHAPTER VIII
 
@@ -296,7 +296,7 @@ eva ābhāsānābhāsaprathanasamarthatā.
 
 H 1.1
 
-*[p. ii]* ^pg214
+*[p. 154]* ^pg214
 
 — Time consists of various actions that are common knowledge in everyday experience?, or of cold and so on. Or rather, time is the succession itself — characterized by these — which is an accessory qualification (°upādhi°) of all the various realities in their being manifested as differentiated; time is nothing but this succession, because it is through
 
@@ -344,7 +344,7 @@ full of his own self, like his own self.
 
 ? Lit. ‘a compact mass of light (prakāśaghanasya).
 
-*[p. ii]* ^pg216
+*[p. 156]* ^pg216
 
 8\. Nevertheless, the manifestation of such a differentiation between subject and object of knowledge is the very creative power
 
@@ -354,7 +354,7 @@ full of his own self, like his own self.
 
 this determination. — 8 —
 
-*[p. i]* ^pg217
+*[p. 157]* ^pg217
 
 CHAPTER II
 
@@ -372,7 +372,7 @@ practical results, and as such they are undeniable. — 1 —
 
 4 The truth of a cognition is established here precisely by its not being contradicted by a subsequent cognition (sthairya) and by its leading to expected practical results (upayoga); see Abh.’s lucid formulation (IPVV III p. 29), satya eva yatah sthiro bādhakenānunmūlyamānavimarśah samyvādavāmś ca abhisamhitāyām grāma-prāptilakṣanāyām kriyāyām upayogī. The key-term samvāda may be applied both to sthairya and to upayoga (cf. ibid. p. 69, asyām vyākhyāyām bhāvasya arthakriyām kurvata ekānekarūpatā ... iti kartavyatā, — ity evambhūta upayoga uktah, sthairyam tu samvādah; uttaravyākhyāne tu sthairyam bādhakābhāvah, upayogas tu samvādah iti bheda iti). This may be compared with one of the classical explanations of the term, that given by Dharmottara (NBT p. 17, avisamvādakam jñānam samyagjñṁñānam / loke ca pūrvam upadarśitam artham prāpayan samvādaka ucyate, tadvat jṁānam api svayam pradarśitam artham prāpayat samvādakam ucyate (behind which lies Dharmakirti, PV II. 1 ... arthakriyāsthitih | avisamyādanam...). On samvāda and related terms, such as avisamvādin etc. (and their different acceptions in the Buddhist exegetical tradition) see Katsura 1984: 222-24, Dreyfus 1992, Franco 1992: 49-50, van Bijlert 1989: 122-28.
 
-*[p. ii]* ^pg218
+*[p. 158]* ^pg218
 
 2\. In action etc. (tatra)î there is one internal reality (āntaram tattvam); this, once it has become the object of sensory knowledge, becomes manifold depending on place, time and the specific shapes it assumes.
 
@@ -647,7 +647,7 @@ however, kept to the current meaning.
 
 28 The extremely laconic style of the vriti, which I have tried as far as possible to preserve in translation, makes a few additional comments necessary. Firstly, the relationship this return to the subject of error, already dealt with above, has with the preceding stanzas. Abh. says it is a reply to those who contest the role of the vimarśa in the establishment of reality, objecting that thus the notion of erroneous knowledge ends up by being denied. If a thing is such in that it is recognized as such by an act of determinate reflective awareness (vimarśa) — remember the maxim so frequently cited by Abh. bhāvarāśir yathā vimrśyate tathā asti — which follows its appearing to consciousness (avabhāsa, prakāśa), then the mother-of-pearl that is mistaken for silver is no less silver than real silver. The stanza in question, containing Utp.’s reply, is inserted at this point. It is true that a vimarśa is in itself valid, but it is not meant to be something momentary, it tends to last, unless that tendency to last is blocked by a further vimarśa. And this is precisely what happens in the cognition examined here ‘this is silver, there is silver here’. A later vimarśa ascertains that the place that qualified the object of the earlier vimarśa (the ‘ʻhere’) is different from the one that had been understood: the place that ought to contain the silver is occupied by the mother-of-pearl, the place — in the case of seeing two moons — of the second moon is occupied by the ether. This reasoning rests on the assumption that every concrete object of knowledge (svalaksaṇa) is mixed with space and time and that therefore the vimarśa must embrace them, too.
 
-*[p. ii]* ^pg232
+*[p. 172]* ^pg232
 
 14\. Thus, both the differentiation of things — due to qualities such as sound and so on — and their non-differentiation — due to universals etc. (jātyādibhih)?? — are possible on the basis of the unity of the knowing
 
@@ -693,7 +693,7 @@ the I of the pure power of freedom etc. — 17 —
 
 sādhanarūpah, thus leaving the basic self-illuminating quality of his object intact. This is what the sacred texts on the knowledge of the Self — the Vedānta, the Sid-dhānta and the secret tantras — aim at (IPVV II p. 179 yāvanti hi ātmajñānaśāstrānṇi śrutyantasiddhāntarahasyatantrarūpāni, tāni ātmani naiva siddhim apūrvarūīpām racayanti | tasmāt vyavahāramātrasādhanaphalāni eva tānṇīti bhāvah).
 
-*[p. ii]* ^pg235
+*[p. 175]* ^pg235
 
 CHAPTER IV
 

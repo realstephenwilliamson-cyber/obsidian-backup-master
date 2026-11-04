@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Coburn - Devi-Mahatmya - The Crystallization of the Go
 book: "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)|Devi-Mahatmya (Coburn)]]"
 order: 2
 source_pdf: "Library/Hinduism/Coburn - Devi-Mahatmya (1984).pdf"
-page_range: "11–12"
+page_range: "viii"
 pdf_pages: "11–12"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the earlier OCR layer had lost the diacritics)"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > This text was read from the page images by OCR (Tesseract, Latin model). The English is reliable, and transliterated Sanskrit keeps most diacritics, though some are misread. Footnote numbers in the text are often garbled or dropped, and verse lines run together. For exact forms and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 ## Foreword (Daniel H. H. Ingalls)
 
@@ -25,7 +25,7 @@ This discrepancy has often been remarked on by scholars, both Indian and Western
 
 The explanation is sound enough, I dare say, so far as I have stated it. But it has sometimes served as a basis for inferences and judgments that are false. One must not identify the religion of Devī as it is found in modern India, or even as it is found in the vulgate text of the Mahābhārata, with non-Aryan India. The cultural intermingling that took place in India
 
-*[p. 12]* ^pg12
+*[p. viii]* ^pg12
 
 Foreword
 

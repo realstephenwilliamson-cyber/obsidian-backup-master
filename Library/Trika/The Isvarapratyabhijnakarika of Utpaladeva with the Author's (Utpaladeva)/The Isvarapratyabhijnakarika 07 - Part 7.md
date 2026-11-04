@@ -606,7 +606,7 @@ Lord”. — 20 —
 
 37 Literally ‘similar to the supreme Lord’. But my translation is in conformity with Abh.’s gloss (see text note 108), which in turn appears to follow Utp.’s indications.
 
-*[p. iv]* ^pg270
+*[p. 210]* ^pg270
 
 SECTION IV. SUMMARY OF THE ESSENTIAL PRINCIPLES
 
@@ -658,7 +658,7 @@ depending on svasrsta°).
 
 7 The power of māyā is that which on the Sadāśiva-Īśvara plane determines the appearance of idantā within the consciousness (IPVV II p. 361). It is a further expansion of kriyāśakti; indeed, in Abh.’s words (ibid. p. 366), it is the kriyāśakti itself in which, however, instead of samharaṇna predominating (srsti predominates in jīānaśakti) śūnyatā or niṣedha predominates, i.e. the mutual delimitation of subject
 
-*[p. iv]* ^pg272
+*[p. 212]* ^pg272
 
 — The knowledge and activity of the Lord, together with māyā, become sattva, rajas and tamas in the limited subject. — 4 —
 

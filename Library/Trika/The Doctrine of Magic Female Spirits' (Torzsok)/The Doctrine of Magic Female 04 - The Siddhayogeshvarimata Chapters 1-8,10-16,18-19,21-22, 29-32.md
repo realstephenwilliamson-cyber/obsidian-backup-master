@@ -4,7 +4,7 @@ work: "[[Torzsok - 'The Doctrine of Magic Female Spirits']]"
 book: "[[Library/Trika/The Doctrine of Magic Female Spirits' (Torzsok)/The Doctrine of Magic Female Spirits' (Torzsok)|The Doctrine of Magic Female Spirits' (Torzsok)]]"
 order: 4
 source_pdf: Library/Trika/Torzsok - The Doctrine of Magic Female Spirits (1999).pdf
-page_range: 15–6
+page_range: "36–51; 51–61"
 pdf_pages: 128–164
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08
@@ -1152,13 +1152,13 @@ vyavasthitāh corr.: nyavasthitam DN
 
 9८ 1८ gb \*śvare D 9 ’sau corr.: so DN 9८ २५८ gd corr.: \`dhāram DN bhagavato D : bhagavatā N 10¢ dātavyam D : dātavyamm N \`gatam corr.: “gatas DN e ayodhyāyā corr.: ayodhyāyām gurus corr.: guros DN 12a 11d 13a 22८ vaktrād D : vaktrā N e vaktram corr.: vaktra DN 212b DN “taram D : “tarai N 334 siddhir D : siddhi N 213e svacchandam corr.: svacchanda DN 61
 
-*[p. 62]* ^pg155
+*[PDF 155]* ^pg155
 
 Notes on the constitution of the text a 
 
 Aia forms 
 
-*[p. 63]* ^pg156
+*[PDF 156]* ^pg156
 
 Although D's dative singular in 18 suggests that this still belongs to the mañ probably forms part of the tantra proper, since it is in verse form. However, one n that it is quite disconnected from the following lines describing Devi bowing to B have nevertheless included it also because — although corrupt — it seems to be more than the simple obeisances to Gaṇeśa and Bhairava at the very beginning interpretation of its importance, cf. notes to the translation. Pādas cd cannot be rec fully on the basis of the single manuscript we have for this part. However, the se verse is more or less clear; it evokes three forms of Bhairava — the auspiciou (aghora), the frightful (ghora) and the more frightful than the frightful (ghoraghora identifies him with the tantra(s) (or if this is also corrupt: with the mantras). Sūtra corrupt for mūrti or similar. 
 

@@ -34,4 +34,4 @@ Converted from the PDF on 22 Oct 2026 (PDF text layer (born-digital), PyMuPDF). 
 - [[The Emergence of Modern Hinduism 16 - Glossary|Glossary]] (pp. 155–158)
 - [[The Emergence of Modern Hinduism 17 - Notes|Notes]] (pp. 159–184)
 - [[The Emergence of Modern Hinduism 18 - Bibliography|Bibliography]] (pp. 185–198)
-- [[The Emergence of Modern Hinduism 19 - Index|Index]] (pp. 199–204)
+- [[The Emergence of Modern Hinduism 19 - Index|Index]] (pp. 199–203)

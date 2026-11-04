@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Cyril of Alexandria - Commentary on John]]"
 book: "[[Library/Christianity/Commentary on John, vol. 1 (Cyril of Alexandria)/Commentary on John, vol. 1 (Cyril of Alexandria)|Commentary on John, vol. 1 (Cyril of Alexandria)]]"
 order: 1
 source_pdf: "Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 1 (1874).pdf"
-page_range: "1–20"
+page_range: "viii–xvi"
 pdf_pages: "1–20"
 text_source: "a fresh OCR of the page images (Tesseract 5, eng+grc, 300 dpi); the archive.org text layer was not used"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from a fresh OCR
 > This text was read from the page images by OCR (English and Greek models). The English is reliable but not perfect; the Greek words of the prefaces and notes are readable but may carry slips; the marginal Scripture references and the running heads are sometimes misread or out of place. For an exact reading, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Title pages and preface (Dr Pusey)
 
@@ -27,13 +27,13 @@ ei
 
 arse wey
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 A
 
@@ -57,9 +57,9 @@ RIVINGTONS, WATERLOO PLACE, LONDON,
 
 HIGH STREET, OXFORD, AND TRINITY STREET, CAMBRIDGE,
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 TO THE MEMORY
 
@@ -87,9 +87,9 @@ GRATEFULLY AND REVERENTLY
 
 INSCRIBED.
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 COMMENTARY
 
@@ -117,17 +117,17 @@ RIVINGTONS, WATERLOO PLACE, LONDON, HIGH STREET, OXFORD, AND TRINITY STREET, CAM
 
 MDCCCLXXIV.
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 PRINTED BY THE SOCIETY OF THE HOLY TRINITY,
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 PREFACE.
 
 S. Cyrm Archbishop of Alexandria was well-nigh the last of that bright array of Greek Fathers which shone throughout all the fourth century and into the fifth. His powerful and comprehensive mind, well read and strengthened by study of Greek Heathen lore (as his frequent citations not only of Homer but even of the less known poets and his very language indicate), fostered by the works of his great predecessor 8. Athanasius and aided by the living influence of S. Isidore Abbat of Pelusium, whom even when he had become Archbishop he still called father, his single-hearted loyal piety which every writing of his breathes forth, his will formed for rule, combined with the perception of the points that he could yield without betraying Truth :—all gave him during his life an influence such as no other man of his time had, and his writings were appealed to for centuries after on matters of dogma. In the Council of Chal-cedon, holden a few years after 8. Cyril’s death, some exception was at first taken by some of the Bishops to two or three expressions of Pope S. Leo, and these were afterwards unanimously accepted on being found to agree with what 8. Cyril had written. In the 6th General Council, passages from this very Commen-
 
-*[p. 12]* ^pg12
+*[p. viii]* ^pg12
 
 Vlit PREFACE.
 
@@ -144,7 +144,7 @@ the results of the Incarnation.
 2\. O wisest love! that flesh and blood Which did in Adam fail Should strive anew against the foe, Should strive and should prevail ; And that an higher gift than grace Should flesh and blood refine, God’s Presence and His very Self And Essence all Divine.
 
 
-*[p. 13]* ^pg13
+*[p. ix]* ^pg13
 
 On the Procession of Gop the Hoty Guosr 8. Cyril’s teaching is identical with the words we now repeat, Who proceedeth from the Father and the Son. The Creed as then laid down said only, Who proceedeth from the Fatumr, and §. Cyril himself habitually used, not the Creed as we now have it and as it was enlarged in the Council of Constantinople, but the original Nicene Creed which ends at the words, And in the Holy Ghost. Yet his teaching is identical with what we now say. Throughout this Commentary (pp. 80, 106, 108, 111, 145, 251, 436, 488 &e.) 5. Cyril says that the Holy Ghost is the Spirit, the own Sririr of the Son. In page 436, 8. Cyril uses the remarkable words, As He ealls Himself Son of man, since He was made Mun, so again He calls Himself Spirit from Tis Own Spirit: for not Other than He ts His own Spirit. S. Cyzil’s teaching is uniform throughout his writings. Other passages of the same kind are collected in the Appendix to my father’s Sermon, The Responsibility of Intellect in matters of Faith, Oxford, 1873. To him too is due the Theological portion of this Preface and in especial the bracketted portion
 
@@ -160,7 +160,7 @@ b. For in that the Son is God and of God by Na-
 
 1 De Ador. lib. i. Opp. i. 9.
 
-*[p. 14]* ^pg14
+*[p. x]* ^pg14
 
 ture (for He is truly begotten of God the Father) the Spirit is His Very Own and in Him and from Him just as is conceived as to God the Father.
 
@@ -185,7 +185,7 @@ d. "Ανθρωπος γεγονὼς 6 Μονογενὴς τοῦ Θεοῦ Λ�
 3\. In Joelem ii. 28, 29. Opp. iii. 228. 3 De Recta fide ad Theodosium Imperatorem Opp. v. ii. 33. 5. Cyril put forth this same treatise again in a more popular form, De Incarna-tione Unigeniti, where the words again occur. Opp. v. i. 706. ‘Expl. cap. ix. Opp. vi. 154, 155.
 
 
-*[p. 15]* ^pg15
+*[p. xi]* ^pg15
 
 PREFACE. ΧΙ
 
@@ -217,7 +217,7 @@ f. ὅτι Θεὸς τὸ Πνεῦμα καὶ τὴν αὐτὴν ἐνέρ�
 
 gq. “Ῥομοθετοῦντος τοιγαροῦν. τοῦ Χριστοῦ, ὡς ἐν αὐτῷ καὶ ἐξ αὐτοῦ φυσικῶς ὑπάρχον τὸ ἹΠνεῦμα αὐτὸ νομοθετεῖ, ° Thes. Opp. v. i. 345. ® Tb. 338. 7 10. 354,
 
-*[p. 16]* ^pg16
+*[p. xii]* ^pg16
 
 ΧΗ PREFACE.
 
@@ -236,7 +236,7 @@ i. ἔπεμψε δὲ ἡμῖν ἐξ οὐρανοῦ τὸν Ἰ\]αράκλ
 3\. Thes. Opp. v. i. 358. The trifling variations from Aubert’s text in these passages Sof the Thesaurus are from a Manuscript in the Library of the Patriarch of Alexandria at Cairo. These passages are likewise extant in a Syriac translation, in the ms. in the British Museum Additional 14556, assigned by Dr. Wright to the sixth or seventh century. 9 De Trinitate vii. Opp. v. i. 642.
 
 
-*[p. 17]* ^pg17
+*[p. xiii]* ^pg17
 
 PREFACE. ΧΙ
 
@@ -268,7 +268,7 @@ Ll. εἰ γὰρ καὶ ἔστιν ἐν ὑποστάσει τὸ Πνεῦ�
 
 ἘΞ
 
-*[p. 18]* ^pg18
+*[p. xiv]* ^pg18
 
 a. How shall we separate the Spirit from the Son, thus inexisting and essentially united, Who cometh forth through Him and is by nature in Him, that Tt cannot be thought to be Other than He by reason both of identity of working and the very exact likeness of Nature? ... The blessed Paul having called Spirit of Christ That which dwelleth in us forthwith subjoined, Lf Christ be in you, introducing an entire likeness of the Son with the Spirit Who is His very own and is by nature poured forth from Him.
 
@@ -280,7 +280,7 @@ n. ἐπειδὴ γάρ ἐστι Τ\]νεῦμα Χριστοῦ καὶ νο�
 
 3 In S. Johannem lib. ii. t. iv. 126.
 
-*[p. 19]* ^pg19
+*[p. xv]* ^pg19
 
 but as His Spirit and knowing untaught all that belongeth to Him of whom and in whom He is, He revealeth to the Saints the Divine mysteries ; just as man’s mind too knowing all things that are therein ministereth externally by uttered word the desires of the soul whose mind it is, seen and named in idea something different from it \[the soul\], not other by nature, but as a part complemental of the whole, existing in it and believed to be born from it.
 
@@ -296,7 +296,7 @@ The last one is a short extract from a homily in 8. Luke only extant in a Syriac
 
 b 2
 
-*[p. 20]* ^pg20
+*[p. xvi]* ^pg20
 
 p. Nor had He \[the Word Incarnate\] need of the Holy Ghost; for the Spirit that proceedeth from God the Father is of Him and Equal in Essence with Him δ.
 

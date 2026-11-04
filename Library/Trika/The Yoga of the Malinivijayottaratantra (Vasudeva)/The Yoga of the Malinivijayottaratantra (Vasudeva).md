@@ -18,8 +18,8 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 - [[The Yoga 01 - Part 1|Part 1]] (pp. vi–xl)
 - [[The Yoga 02 - Part 2|Part 2]] (pp. 41–23)
-- [[The Yoga 03 - Part 3|Part 3]] (pp. 27–64)
-- [[The Yoga 04 - Part 4|Part 4]] (pp. 65–103)
+- [[The Yoga 03 - Part 3|Part 3]] (pp. 27–66)
+- [[The Yoga 04 - Part 4|Part 4]] (pp. 67–106)
 - [[The Yoga 05 - Part 5|Part 5]] (pp. 107–146)
 - [[The Yoga 06 - Part 6|Part 6]] (pp. 147–186)
 - [[The Yoga 07 - Part 7|Part 7]] (pp. 187–226)

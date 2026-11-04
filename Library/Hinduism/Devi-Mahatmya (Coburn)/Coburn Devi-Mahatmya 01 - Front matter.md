@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Coburn - Devi-Mahatmya - The Crystallization of the Go
 book: "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)|Devi-Mahatmya (Coburn)]]"
 order: 1
 source_pdf: "Library/Hinduism/Coburn - Devi-Mahatmya (1984).pdf"
-page_range: "1–10"
+page_range: ""
 pdf_pages: "1–10"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the earlier OCR layer had lost the diacritics)"
 converted: 2026-10-22
@@ -15,11 +15,11 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > This text was read from the page images by OCR (Tesseract, Latin model). The English is reliable, and transliterated Sanskrit keeps most diacritics, though some are misread. Footnote numbers in the text are often garbled or dropped, and verse lines run together. For exact forms and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 Digitized by the Internet Archive
 
@@ -29,15 +29,15 @@ Kahle/Austin Foundation
 
 https://archive.org/details/devimahatmyacrys0000cobu
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 Devi Māhātmya The Crystallization of the Goddess Tradition
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 Devi-Mahatmya
 
@@ -53,7 +53,7 @@ With a Foreword by Daniel H. H. Ingalls
 
 MOTILAL BANARSIDASS Delhi Varanasi Patna Madras
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 ©OMOTILAL BANARSIDASS
 
@@ -67,8 +67,8 @@ ISBN: 0-—8364—0867-5
 
 Printed in India by Shantilal Jain at Shri Jainendra Press, A-45, Phase I, Naraina, New Delhi 110 028 and published by Narendra Prakash Jain for Motilal Banarsidass, Delhi 110 007.
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 For Cynthia
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10

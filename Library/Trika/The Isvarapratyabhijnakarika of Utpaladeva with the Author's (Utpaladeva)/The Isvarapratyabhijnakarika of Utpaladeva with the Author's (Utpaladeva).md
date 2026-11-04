@@ -17,9 +17,9 @@ Converted from the PDF on 7 Oct 2026 (fresh OCR with Tesseract 5 (Latin)). Each 
 
 ## Contents
 
-- [[The Isvarapratyabhijnakarika 01 - Part 1|Part 1]] (pp. lxxi–xxxvii)
-- [[The Isvarapratyabhijnakarika 02 - Part 2|Part 2]] (pp. xxxix–i)
-- [[The Isvarapratyabhijnakarika 03 - Part 3|Part 3]] (pp. i–60)
+- [[The Isvarapratyabhijnakarika 01 - Part 1|Part 1]] (pp. vii–xxxviii)
+- [[The Isvarapratyabhijnakarika 02 - Part 2|Part 2]] (pp. xxxix–liv; 1–20)
+- [[The Isvarapratyabhijnakarika 03 - Part 3|Part 3]] (pp. 21–60)
 - [[The Isvarapratyabhijnakarika 04 - Part 4|Part 4]] (pp. 61–100)
 - [[The Isvarapratyabhijnakarika 05 - Part 5|Part 5]] (pp. 101–140)
 - [[The Isvarapratyabhijnakarika 06 - Part 6|Part 6]] (pp. 141–180)

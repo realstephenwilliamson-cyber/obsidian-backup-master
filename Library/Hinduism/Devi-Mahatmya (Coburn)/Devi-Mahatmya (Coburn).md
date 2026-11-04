@@ -19,10 +19,10 @@ Converted from the PDF on 22 Oct 2026 (fresh OCR with Tesseract 5 (Latin) of the
 
 ## Contents
 
-- [[Coburn Devi-Mahatmya 01 - Front matter|Front matter]] (pp. 1–10)
-- [[Coburn Devi-Mahatmya 02 - Foreword (Daniel H. H. Ingalls)|Foreword (Daniel H. H. Ingalls)]] (pp. 11–12)
-- [[Coburn Devi-Mahatmya 03 - Acknowledgements|Acknowledgements]] (pp. 13–18)
-- [[Coburn Devi-Mahatmya 04 - Abbreviations|Abbreviations]] (pp. 19–20)
+- [[Coburn Devi-Mahatmya 01 - Front matter|Front matter]] (PDF 1–10)
+- [[Coburn Devi-Mahatmya 02 - Foreword (Daniel H. H. Ingalls)|Foreword (Daniel H. H. Ingalls)]] (p. viii)
+- [[Coburn Devi-Mahatmya 03 - Acknowledgements|Acknowledgements]] (pp. ix–xiv)
+- [[Coburn Devi-Mahatmya 04 - Abbreviations|Abbreviations]] (pp. xv–xvi)
 - [[Coburn Devi-Mahatmya 05 - 1. Introduction|1. Introduction]] (pp. 2–8)
 - [[Coburn Devi-Mahatmya 06 - 2. Sanskritization|2. Sanskritization]] (pp. 9–18)
 - [[Coburn Devi-Mahatmya 07 - 3. The Puranas - Their Nature and Study|3. The Puranas - Their Nature and Study]] (pp. 19–50)

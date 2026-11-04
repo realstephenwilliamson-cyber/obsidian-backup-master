@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Coburn - Devi-Mahatmya - The Crystallization of the Go
 book: "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)|Devi-Mahatmya (Coburn)]]"
 order: 3
 source_pdf: "Library/Hinduism/Coburn - Devi-Mahatmya (1984).pdf"
-page_range: "13–18"
+page_range: "ix–xiv"
 pdf_pages: "13–18"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the earlier OCR layer had lost the diacritics)"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > This text was read from the page images by OCR (Tesseract, Latin model). The English is reliable, and transliterated Sanskrit keeps most diacritics, though some are misread. Footnote numbers in the text are often garbled or dropped, and verse lines run together. For exact forms and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 13]* ^pg13
+*[p. ix]* ^pg13
 
 ## Acknowledgements
 
@@ -25,7 +25,7 @@ It was Professor Wilfred Cantwell Smith who first enabled me to see the converge
 
 The former and present Deans at St. Lawrence University, Drs. D. Kenneth Baker, Donald C. Peckham, and George H. Gibson, have been very generous with their encouragement and support, as has the chairman ofthe Department of Religious Studies and Classical Languages, Professor Daniel W. O’Connor, Jr. The Interlibrary Loan staff at St. Lawrence has shown a
 
-*[p. 14]* ^pg14
+*[p. x]* ^pg14
 
 Acknowledgements
 
@@ -39,7 +39,7 @@ approximate.
 
 Boston, Mass, July, 1982 Thomas B, Coburn
 
-*[p. 15]* ^pg15
+*[p. xi]* ^pg15
 
 Contents
 
@@ -87,7 +87,7 @@ cāmuṇdā 134
 
 śvadūtīi 137 īśvarīi 138 śivā 139 sthitā 143 kaumārīi 143 māheśvarī 144
 
-*[p. 16]* ^pg16
+*[p. xii]* ^pg16
 
 brahmāṇī 145
 
@@ -155,7 +155,7 @@ Mahisa 221
 
 A Preliminary Integration : The Vāmana Purāṇa Account 241
 
-*[p. 17]* ^pg17
+*[p. xiii]* ^pg17
 
 PART III : THE HYMNS 251-302
 
@@ -193,4 +193,4 @@ BIBLIOGRAPHY 332
 
 INDEX 353
 
-*[p. 18]* ^pg18
+*[p. xiv]* ^pg18

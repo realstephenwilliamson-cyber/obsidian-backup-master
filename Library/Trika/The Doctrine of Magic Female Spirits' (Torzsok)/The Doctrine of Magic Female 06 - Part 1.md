@@ -4,7 +4,7 @@ work: "[[Torzsok - 'The Doctrine of Magic Female Spirits']]"
 book: "[[Library/Trika/The Doctrine of Magic Female Spirits' (Torzsok)/The Doctrine of Magic Female Spirits' (Torzsok)|The Doctrine of Magic Female Spirits' (Torzsok)]]"
 order: 6
 source_pdf: Library/Trika/Torzsok - The Doctrine of Magic Female Spirits (1999).pdf
-page_range: "104–142"
+page_range: "105–142"
 pdf_pages: 201–239
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026; footnotes restored from the PDF text layer and page images 18 Oct 2026; more footnotes from readings of the page images 18 Oct 2026
 converted: 2026-10-08
@@ -15,7 +15,7 @@ converted: 2026-10-08
 > [!note] Text from the PDF's OCR layer
 > This text is the PDF's earlier OCR layer, with its junk words replaced from a fresh OCR of the page images. The English is reliable. Transliterated Sanskrit keeps its diacritics, but some may be misread, and Devanagari may be misread or marked [illegible]. For exact Sanskrit, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 104]* ^pg201
+*[PDF 201]* ^pg201
 
 Translation 
 

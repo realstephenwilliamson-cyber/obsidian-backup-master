@@ -375,7 +375,7 @@ Tt may be objected that, thus, notes may have intervals of more than What is mor
 
 fractional resonances (nādāmśa) these are utilized.’ Hence, there is the if there is a continuous rule of the number of śrutis in the notes. Hence hearing of ‘parts’ of the sound, then the note is heard as deformed or discordant.” Hence, rsabha consists of three śrutis. It is not the third śruti. Acāryas like Visākhila have shown, “‘when the performer gives close attention to the ultimate station of the śrutis which can be experienced just as in the cae of japa, then he attains to special invisible only inwardly results.” So, Bhattatauta has said, the self-experienceable śruti is svara (svasamvedya). In singing, the audience every where, has a glimpse of 
 
-*[p. x]* ^pg49
+*[p. 51]* ^pg49
 
 si one’s own nature (svarīpa). So it has been said “while they are being heard, they are apprehended as if profound.” The svara is not (perceived or constituted) by parts. Noris ita collection, since there is nosimultaneity (in the parts). Even though there is succession, on account of continuity, caused by quick happening, there is a sense of simultaneity\* and the continuing mental impression produced by the successive śrutis upto the Jast sruti-sthāna is the svara énsemble \[anye appears a mistake for antye\]. Let us retum to the text.”! 
 

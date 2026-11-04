@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Coburn - Devi-Mahatmya - The Crystallization of the Go
 book: "[[Library/Hinduism/Devi-Mahatmya (Coburn)/Devi-Mahatmya (Coburn)|Devi-Mahatmya (Coburn)]]"
 order: 4
 source_pdf: "Library/Hinduism/Coburn - Devi-Mahatmya (1984).pdf"
-page_range: "19–20"
+page_range: "xv–xvi"
 pdf_pages: "19–20"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the earlier OCR layer had lost the diacritics)"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > This text was read from the page images by OCR (Tesseract, Latin model). The English is reliable, and transliterated Sanskrit keeps most diacritics, though some are misread. Footnote numbers in the text are often garbled or dropped, and verse lines run together. For exact forms and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 19]* ^pg19
+*[p. xv]* ^pg19
 
 ## Abbreviations
 
@@ -71,7 +71,7 @@ MU — Māndukya Upaniṣad
 
 MuU — Mundaka Upaniṣad
 
-*[p. 20]* ^pg20
+*[p. xvi]* ^pg20
 
 PW
 

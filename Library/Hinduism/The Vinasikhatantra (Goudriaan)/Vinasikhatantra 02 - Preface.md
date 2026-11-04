@@ -4,7 +4,7 @@ work: "[[Catalog/Trika/Goudriaan (ed.) - The Vinasikhatantra - A Saiva Tantra of
 book: "[[Library/Hinduism/The Vinasikhatantra (Goudriaan)/The Vinasikhatantra (Goudriaan)|The Vinasikhatantra (Goudriaan)]]"
 order: 2
 source_pdf: "Library/Hinduism/Vinasikhatantra_text.pdf"
-page_range: "10–11"
+page_range: "viii"
 pdf_pages: "10–11"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's earlier OCR layer (a fresh OCR read no better). The English is reliable. The transliterated Sanskrit, including the edition of the text, has many lost or misread diacritics: ṃ, ṭ, ḍ, ṇ and ṛ often come out as plain letters. For the Sanskrit, read the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 ## Preface
 
@@ -31,7 +31,7 @@ I am very much indebted to the two colleagues who kindly procured for me the mic
 
 by the Netherlands Organization for the Advancement of Pure Research (ZWO). 
 
-*[p. 11]* ^pg11
+*[p. viii]* ^pg11
 
 Preface 
 

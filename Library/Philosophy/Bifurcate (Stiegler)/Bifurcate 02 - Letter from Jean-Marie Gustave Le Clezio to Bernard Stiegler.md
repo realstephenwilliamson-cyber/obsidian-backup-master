@@ -12,7 +12,7 @@ converted: 2026-10-22
 
 [[Bifurcate 01 - Front matter|← previous]] · [[Bifurcate (Stiegler)|contents]] · [[Bifurcate 03 - Letter from Hans Ulrich Obrist and Bernard Stiegler to Antonio Guterres|next →]]
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 ## Letter from Jean-Marie Gustave Le Clézio to Bernard Stiegler
 

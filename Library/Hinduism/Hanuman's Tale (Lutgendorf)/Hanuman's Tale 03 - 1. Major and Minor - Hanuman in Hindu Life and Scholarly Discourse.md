@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Dots below letters
 > The PDF draws the dot under ṭ, ḍ, ṇ, ṣ and ṃ as a separate mark. Where it sits by its letter it has been put back; where it had drifted, it was dropped, so some transliterated words lack a dot (*samhitā* for *saṃhitā*). About fifty words or dashes that the PDF's fonts do not encode are marked \[illegible\]. For exact spellings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 18]* ^pg18
+*[PDF 18]* ^pg18
 
 1
 

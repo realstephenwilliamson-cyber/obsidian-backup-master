@@ -4,7 +4,7 @@ work: "[[Negarestani - Cyclonopedia]]"
 book: "[[Library/Philosophy/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)/Cyclonopedia - Complicity with Anonymous Materials (Negarestani)|Cyclonopedia - Complicity with Anonymous Materials (Negarestani)]]"
 order: 6
 source_pdf: Library/Philosophy/Negarestani - Cyclonopedia, Complicity with Anonymous Materials (2008).pdf
-page_range: 201–245
+page_range: ""
 pdf_pages: 201–245
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -493,7 +493,7 @@ Draco-spiralrsm (AQ“283)
 
 The Sumero-Babylonian diagram of a particular dynamism, the slithenness of the Mother of Abominations Draco-sptraftsm does not priontize curves over straight lines or segments.
 
-*[p. i]* ^pg239
+*[PDF 239]* ^pg239
 
 Draco-spiralism delineates anomalous participations between two dynamic lines and their autonomous transformation into a weapon, a vector capable of invoking the outside. The Draco-spiral is a line whose orientation in space is no longer a direction The difference between the double-helix or the participative line of escape' and the ancient irreverent model of draco-spiralism is that despite its collective dynamism, the double helix always presupposes a vertical bne of flight or an Axis Mundi whose mission is to escape the force of gravity associated with a regime For this reason, the double-helix must rectify its dynamism according to the force of gravity, that is to say, the limitation Yet draco-spiraJism knows nothing of such dynamic disciplines associated with escaping from a regime by overcoming its gravity Engineering the corpse of solidus (AQ=597)
 

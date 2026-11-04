@@ -4,7 +4,7 @@ work: "[[Catalog/Trika/Watson - The Self's Awareness of Itself]]"
 book: "[[Library/Trika/The Self's Awareness of Itself (Watson)/The Self's Awareness of Itself (Watson)|The Self's Awareness of Itself (Watson)]]"
 order: 1
 source_pdf: "Library/Trika/Watson - The Self's Awareness of Itself, Bhatta Ramakantha against the Buddhist No-Self.pdf"
-page_range: "1–11"
+page_range: ""
 pdf_pages: "1–11"
 text_source: "fresh OCR with Tesseract 5 (Latin) of the page images (the text layer garbles the transliterated Sanskrit)"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > The PDF's own text layer is an earlier OCR that garbles the transliterated Sanskrit, so this text was read again from the page images (Tesseract, Latin model). The English is reliable. In the Sanskrit, long vowels and ś come through, but the dots below letters (ṭ, ḍ, ṇ, ṣ, ṃ, ḥ) are mostly lost or misread. Footnote numbers are often garbled, and the two-column bibliography comes out column by column. For exact Sanskrit and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ALEX WATSON
 
@@ -23,7 +23,7 @@ THE SELF'’S AWARENESS OF ITSELF BHATTA RĀMAKANTHA'S ARGUMENTS AGAINST THE BUD
 
 Wien 2006
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 ALEX WATSON
 
@@ -31,7 +31,7 @@ THE SELF’ S AWARENESS OF ITSELF
 
 BHATTA RAMAKANTHA’S ARGUMENTS AGAINST THE BUDDHIST DOCTRINE OF NO-SELF
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 PUBLICATIONS
 
@@ -47,7 +47,7 @@ COMMISSION AGENT FOR INDIA:
 
 Motilal Banarsidass, Delhi
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 ALEX WATSON
 
@@ -55,7 +55,7 @@ THE SELF’S AWARENESS OF ITSELF BHATTA RAMAKANTHA’S ARGUMENTS AGAINST THE BUD
 
 Wien 2006
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 ISBN 3-900271-38-0
 
@@ -71,15 +71,15 @@ der Universität Wien
 
 Druck: Interpress Co. Ltd., Bécsi str. 67, 1037 Budapest, Hungary
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 For
 
 Harunaga Isaacson
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
 TABLE OF CONTENTS
 
@@ -93,7 +93,7 @@ INTRODUCTION
 
 Preliminary Remarks ........se.sensenseussurrerrrurenrrurrrrerrerrerrrerrerrerrern 49 1. The Buddhist-Brāhmaṇical Ātman Controversy ............ussie reserse rreren 51 1.1. Early Buddhism .........nsensensenssunrenrrerenrrurrurrrrrrrrrrrrerrerrreren: 52 1.2. Vaibhāṣikas, Sautrāntikas and the Pramāṇa School .........euseunsensenrenren 55 1.3. Mādhyamikas ........nsensensenseunsurrerrrrrerrrurrurrrrrrrrrrrrerrerrrereu: 59 1.4. Vātsīputrīyas .......sseunnssennssrunrrsrnrrrrrnrrrrerrrrurrrrerrrrrerrrrrernr 59 1.5. The Soul Doctrines of Vedānta, Sāṁkhya, Vaiśeṣika and Mīmāmsā ............ 60 2. Śaiva Siddhānta ...... s.s.s. esisisieisieieierertiererererererererererererrrrs: 70 3. The Place of NPP within aiva Siddhānta ............sciisesciiseerirrrrrirrrrn 74 3.1. Extent and Manner of Engagement with Other Traditions ...........ss.se.s4 74 3.2. The Soul in Śaiva Siddhānta and NPP ..........sssiisseeiiserrin serrie rrni 80 3.3. Reliance on aiva Scripture ..........s..ssssiissrriissrrirrrrrirrrrrrrrrrrin 87 3.4. Comparison with Pratyabhijñā .........s..senseussunserrenrerrrrrrrrerrerren 88 4. Rāmakantha’s Soul Doctrine in Relation to Those of the Brāhmaṇical Schools ..... 90 4.1. Vedānta and Sāṁkhya in Brief ..........sunsenseunsunrenrrurrrrrrrrrrerrrrrus 90 4.2. Nyāya and Vaiśeṣika .........nnnnnunsunsnrenrrurrurrerrrrrrrrrrrrrrrerrreres 92 4.3. Sāṁkhya ......nennsnnsensenrenrrursurrerrerrrrrsrrrurrerrerrerrrrrrrrrerreere: 92 Excursus on Rāmakanṇtha’s Ideas about Liberation ..........s.sueussussurrurrerreeru 96 4.4. Knowledge of the Self .........n.nsunsunsenseurrurrurrerrerrrrrrrrrrrrrrrerre 98 5. Constitution of the Text of NPP ..........sessensenssussrrerrerrrrrsrrrrrrerree 104 5.1. Editions .......enuesnuesnuesruusrnusrrurerurerurrrurrrurrrurrrurrrrerrrerens 104
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 5.2. Manuscripts ........se.sessenssursrrerrerrsrrerrrrrrrrerrrurrurrerreerert 05 5.3. Parallel Passages ..........nnnnnnnunnnnnnnnrrunrrrrnrrrrenrrrrerrrrerrrrren 0 5.4. Editorial Policy .......se.senssussunserrenrenrsrrrrrrrrerrrurrurrerrerrern 1 6. The Date of Sadyojyotis ........s.s.ssussussersenreurrrrrrrrerrerrrrrsrrrrrrerree 1 7. The Date of Rāmakantha .......ssssssesureseruerrurrrrrrrrrrrrrrrrrrrrrrrrrrren 4 8. Rāmakaṇtha’s Style ........suensenssussunsurrerrrererrrrrrerrrrrrrrrrrerrerrern 5 SYNOPSIS OF THE CONTENTS OF THE FIRST CHAPTER OF NPP a...an. 117
 
@@ -105,7 +105,7 @@ Background .......ssnssussunsenrerrenrrurrrrerrrererrrurrerrrrrrrrrrererrerrerre
 
 CHAPTER 3: Can We Perceive the Self Through I-Cognition (Ahampratyaya)? Background .......ssnssussunsenrerrenrrurrrrerrrererrrurrerrrrrrrrrrererrerrerre: 257 1. The Co-Perception of Self and I-Cognition ........s..sessessssrsrrrerrerrerren 271
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 2\. The Constancy of I-Cognition .........s..ssssesssurerrrerrerrerrrrrrrrrrrrerree: 313 3. Do Verbal Cognitions Have Real Referents? ...........sunsenrenrrurrrrrrrrerreu 319 CHAPTER 4: The Equating of Self and Cognition Preliminary Remarks ........se.senseussurrurrerrrrrerrrrrrrrrrrrrrrrrrrerrerreere: 333 1. Simultaneous and Sequential Illumination .........s.e.ssssesseussrrrerrerreerenn 335 Philosophical Summary ........senseussrsensenrrurrurrerrerrrrrrurrrrrerrerrne 346 2. The Self’s Cognition and the Buddhi’s Cognition .........ss.ssssssssrrserrerreu 349 Excursus on the Paurusa-Bauddha Distinction in Śaivism ...........0000eeea0a. 373 CONCLUSION .oeensennsunsunsensenrsurrrrrrrrerrrerrrrrrrrerrrrrrurrerrerrerree: 383
 
@@ -113,4 +113,4 @@ TEXT PASSAGES
 
 CHAPTER 1 ..oensensuunussunsunrenrsrrrrrrrrrrrrrrrrrrrrrrerrerrrrrrrrrerrerreet 389 CHAPTER 2 .oaensuensuussussurserrsnrsrrrurrrrrerreerrrrrrrrerrerrrrrsrrerrerree: 395 CHAPTER 3 .oensuensenssussursnrenrsrrsurrrrrerrrerrrrrrrrerrerrerrrrrrerrerree: 404 CHAPTER 4 .aoensensunssussurserrenrerrrurrrrrrrrrerrrrrrrrerrerrrrsrrrerrerree: 409 GENERAL INDEX ..oaoosssssssuunnrrrrrrrrrrrrrrrrrsrrrrrrrrrrrrererrrrssrrrrrrrt: 417
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11

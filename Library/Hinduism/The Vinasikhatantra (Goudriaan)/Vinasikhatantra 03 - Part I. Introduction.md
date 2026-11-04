@@ -15,15 +15,15 @@ converted: 2026-10-22
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's earlier OCR layer (a fresh OCR read no better). The English is reliable. The transliterated Sanskrit, including the edition of the text, has many lost or misread diacritics: ṃ, ṭ, ḍ, ṇ and ṛ often come out as plain letters. For the Sanskrit, read the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 12]* ^pg12
+*[PDF 12]* ^pg12
 
 PART I 
 
 ## Part I. Introduction
 
-*[p. 13]* ^pg13
+*[PDF 13]* ^pg13
 
-*[p. 14]* ^pg14
+*[PDF 14]* ^pg14
 
 1\. No scholar who has tried to penetrate into the Āgamic and Tantric literature of Śąivism and Śāktism will deny that this literature (or, if one prefers, these literatures) has (have) been insufficiently studied. Good editions exist as yet only for a small minority of the texts; good translations are almost nonexistent. Although for Śākta Tantrism the situation is far from satisfying, one can say that many texts are at least accessible in edited form, however poor the editions may be from the philological standpoint. For Śaivism, the situation is partly better, partly worse. Of the aiva Āgama literature of South India, a few texts have been critically edited from the Institut Français d’Indologie at Pondicherri; of a few others, the contents have been summarized.\* Also the texts revered as Āgamaśāstra by the Śaivas of Kashmir : the Svacchanda, Mālinivijaya and Netra Tantras are available in editions from Kashmir.2 This does ofcourse not mean that the doctrines and rituals imparted in these sources have been interpreted and analyzed to satisfaction. The other ŚŠaiva Tantras of the North, however, if not lost forever, have only been preserved in rare or unique Napalese manuscripts; they have as yet been scarcely studied at all. They do not constitute a coherent body of texts but they differ in outlook and contents from the Śaiva Agama 
 

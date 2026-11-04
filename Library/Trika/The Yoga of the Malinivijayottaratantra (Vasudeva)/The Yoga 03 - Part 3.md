@@ -4,7 +4,7 @@ work: "[[Vasudeva - The Yoga of the Malinivijayottaratantra]]"
 book: "[[Library/Trika/The Yoga of the Malinivijayottaratantra (Vasudeva)/The Yoga of the Malinivijayottaratantra (Vasudeva)|The Yoga of the Malinivijayottaratantra (Vasudeva)]]"
 order: 3
 source_pdf: Library/Trika/The Yoga of the Malini Vijayottara Tantra - Somadeva Vausdeva.pdf
-page_range: 27–64
+page_range: "27–66"
 pdf_pages: 81–120
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07

@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Cyril of Alexandria - Commentary on John]]"
 book: "[[Library/Christianity/Commentary on John, vol. 2 (Cyril of Alexandria)/Commentary on John, vol. 2 (Cyril of Alexandria)|Commentary on John, vol. 2 (Cyril of Alexandria)]]"
 order: 2
 source_pdf: "Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 2 (1885).pdf"
-page_range: "21–26"
+page_range: "xi–xiv"
 pdf_pages: "21–26"
 text_source: "a fresh OCR of the page images (Tesseract 5, eng+grc, 300 dpi); the archive.org text layer was not used"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from a fresh OCR
 > This text was read from the page images by OCR (English and Greek models). The English is reliable but not perfect; the Greek words of the prefaces and notes are readable but may carry slips; the marginal Scripture references and the running heads are sometimes misread or out of place. For an exact reading, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 21]* ^pg21
+*[p. xi]* ^pg21
 
 ## Contents of both volumes
 
@@ -55,7 +55,7 @@ Introduction to Book II., comprising S. John i. 29—i. 31 .........
 
 qo ” m ν. 2000000000000 8. "» » To 28--ν, BYs0000000000600800000000000000000 9. 7 » ν. BO—V. BA. cece e ee eee που σοδδοσης πσσασοοσοοοσοῦο
 
-*[p. 22]* ^pg22
+*[p. xii]* ^pg22
 
 xii CONTENTS.
 
@@ -99,7 +99,7 @@ BOOK VI.
 
 Introduction, comprising S. John viii. 44—ix. 1 <sup>6</sup>ννννννννννν μεν νεννον 650
 
-*[p. 23]* ^pg23
+*[p. xiii]* ^pg23
 
 TABLE OF CONTENTS.
 
@@ -139,7 +139,7 @@ Introduction, comprising S. John xiv. 21—xiv. 28........:0..006
 
 noe
 
-*[p. 24]* ^pg24
+*[p. xiv]* ^pg24
 
 X1V CONTENTS
 
@@ -153,7 +153,7 @@ ComPRISING 8. JOHN XVIII. 24—xxI. 25,
 
 Introduction, comprising 8. John xviii. 24—xx. 17 590 . 661 1. Comprising S. John xx. 17—xxi. 25
 
-*[p. 25]* ^pg25
+*[PDF 25]* ^pg25
 
 SUBJECTS
 
@@ -267,7 +267,7 @@ RESURRECTION, 199, 270, 410.
 
 Sout, Immortality of, 109. Not pre-existent, 90 et seq.
 
-*[p. 26]* ^pg26
+*[PDF 26]* ^pg26
 
 SUBJECTS DISCUSSED OR ILLUSTRATED
 

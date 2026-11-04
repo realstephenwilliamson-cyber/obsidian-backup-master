@@ -308,11 +308,11 @@ archive/marx/works/1848/communist-manifesto/.
 
 31 Richard Sennett, *The Corrosion of Character: The Personal Consequences of Work in the New Capitalism* (New York: W. W. Norton, 1998).
 
-*[p. 328]* ^pg328
+*[PDF 328]* ^pg328
 
-*[p. 329]* ^pg329
+*[PDF 329]* ^pg329
 
-*[p. 330]* ^pg330
+*[PDF 330]* ^pg330
 
 Philosophy/Social Theory
 

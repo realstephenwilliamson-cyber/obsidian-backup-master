@@ -19,7 +19,7 @@ Converted from the PDF on 22 Oct 2026 (fresh OCR with Tesseract 5 (Latin) of the
 
 ## Contents
 
-- [[The Self's Awareness of Itself 01 - Front matter|Front matter]] (pp. 1–11)
+- [[The Self's Awareness of Itself 01 - Front matter|Front matter]] (PDF 1–11)
 - [[The Self's Awareness of Itself 02 - Preface|Preface]] (pp. 10–16)
 - [[The Self's Awareness of Itself 03 - References, Abbreviations and Conventions|References, Abbreviations and Conventions]] (pp. 17–48)
 - [[The Self's Awareness of Itself 04 - Introduction|Introduction]] (pp. 49–116)

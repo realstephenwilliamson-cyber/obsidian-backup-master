@@ -165,7 +165,7 @@ While holding this mudra, you can additionally practice the Maha Bandha (see pag
 
 The secret afflictions of many people are bladder weakness, hemorrhoids, and atony or tension in the area of the bladder and anus. Thes 
 
-*[p. i]* ^pg142
+*[p. 127]* ^pg142
 
 problems can be relieved by training the PC muscle.<sup>15</sup> As an additional measure against weakness of the bladder and anal sphincter, Viparita Karani (see page 188) can be used. 
 

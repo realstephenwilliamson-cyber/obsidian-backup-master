@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Yoga 01 - Part 1|← previous]] · [[The Yoga of the Malinivijayottaratantra (Vasudeva)|contents]] · [[The Yoga 03 - Part 3|next →]]
 
-*[PDF 41]* ^pg41
+*[p. xli]* ^pg41
 
 ANTECEDENTS XLI
 
@@ -224,7 +224,7 @@ Another analysis of Mātrkā taught by the exegetes of the Trika is the “unkno
 
 polysemy of Mātrkā should be borne in mind. 91 See DyryczKowsKI (1988:66) but note also ibid. p. 790n the identification of Trika with Pūrvāmnāya in the Ciñcinīmatasārasamuccaya.
 
-*[PDF 53]* ^pg53
+*[p. liii]* ^pg53
 
 TITLE LIII
 
@@ -238,17 +238,17 @@ Prof. SAnDeRson has pointed out to me that the commonly encountered form ofthis 
 
 JaRaYām 4.66-69b
 
-*[p. 0]* ^pg54
+*[PDF 54]* ^pg54
 
-*[p. 1]* ^pg55
+*[PDF 55]* ^pg55
 
 THE TEXT OF MALINĪVIJAYOTTARA I—4, 7, 12—17
 
 5
 
-*[p. 2]* ^pg56
+*[PDF 56]* ^pg56
 
-*[p. 3]* ^pg57
+*[PDF 57]* ^pg57
 
 Adhikāra 1.1 = MāViVārą 1.14, cf. also 1.15-20ab; cf. SvāSūSamv: 1.2- 3ab; cf. KāViBhā r1 1a IAR.: cf. TaĀlksrs 5:50cd-53ab, cf. MāViVārę 2.39cd-42ab īc ARauSūSamṣų 3-5ab: qaa gT-
 

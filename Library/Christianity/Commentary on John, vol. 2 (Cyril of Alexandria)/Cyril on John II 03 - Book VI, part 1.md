@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from a fresh OCR
 > This text was read from the page images by OCR (English and Greek models). The English is reliable but not perfect; the Greek words of the prefaces and notes are readable but may carry slips; the marginal Scripture references and the running heads are sometimes misread or out of place. For an exact reading, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 27]* ^pg27
+*[PDF 27]* ^pg27
 
 \[S. CYRIL,
 

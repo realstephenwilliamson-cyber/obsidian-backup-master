@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 4
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 43–39
+page_range: "28–39"
 pdf_pages: 43–54
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -15,7 +15,7 @@ converted: 2026-10-07
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's OCR layer (ABBYY FineReader), not a born-digital text: words can be misread, and some passages may be marked illegible. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[PDF 43]* ^pg43
+*[p. 28]* ^pg43
 
 ## 03
 
@@ -39,7 +39,7 @@ ward, and stretch your arms. This will refresh you, improve your breathing, and 
 
 tic way, and stimulate every bodily function is hand tapping (it is hard to stay serious when you do this, and children can't 
 
-*[PDF 44]* ^pg44
+*[p. 29]* ^pg44
 
 E X P L O R I N G 
 

@@ -22,10 +22,10 @@ Converted from the PDF on 8 Oct 2026 (the PDF's OCR text layer, its junk words (
 
 - [[The Doctrine of Magic Female 01 - Part 1|Part 1]] (pp. i–xxxviii)
 - [[The Doctrine of Magic Female 02 - Part 2|Part 2]] (pp. xxxix–lxxxiii)
-- [[The Doctrine of Magic Female 03 - The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32|The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32 - Judit Törzsök, part 1]] (pp. 91–14)
-- [[The Doctrine of Magic Female 04 - The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32|The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32 - Judit Törzsök, part 2]] (pp. 15–6)
+- [[The Doctrine of Magic Female 03 - The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32|The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32 - Judit Törzsök, part 1]] (pp. 1–31; 31–35)
+- [[The Doctrine of Magic Female 04 - The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32|The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32 - Judit Törzsök, part 2]] (pp. 36–51; 51–61)
 - [[The Doctrine of Magic Female 05 - The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32|The Siddhayogeshvarimata Chapters 1-8,10-16,18-19,21-22, 29-32 - Judit Törzsök, part 3]] (PDF 165–200)
-- [[The Doctrine of Magic Female 06 - Part 1|Part 1]] (pp. 104–142)
+- [[The Doctrine of Magic Female 06 - Part 1|Part 1]] (pp. 105–142)
 - [[The Doctrine of Magic Female 07 - Part 2|Part 2]] (pp. 143–180)
 - [[The Doctrine of Magic Female 08 - Part 3|Part 3]] (pp. 181–217)
 - [[The Doctrine of Magic Female 09 - Part 4|Part 4]] (pp. 218–252)

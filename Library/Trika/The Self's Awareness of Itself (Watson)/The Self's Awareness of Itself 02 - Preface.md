@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Fresh OCR of the page images
 > The PDF's own text layer is an earlier OCR that garbles the transliterated Sanskrit, so this text was read again from the page images (Tesseract, Latin model). The English is reliable. In the Sanskrit, long vowels and ś come through, but the dots below letters (ṭ, ḍ, ṇ, ṣ, ṃ, ḥ) are mostly lost or misread. Footnote numbers are often garbled, and the two-column bibliography comes out column by column. For exact Sanskrit and notes, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 12]* ^pg12
+*[PDF 12]* ^pg12
 
 ## Preface
 

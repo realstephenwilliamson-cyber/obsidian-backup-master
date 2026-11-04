@@ -738,7 +738,7 @@ These seven belong to the Śuddhā gīti.!®5 Bhinna-sadja is obtained from Sadj
 
 hyamā (jati). (Rāga) Bhinnapañcama has dha asamśa, pa as nyāsa, weak ri and arises from the Pañcami and Madhyamā jātis.” Bhinnakaiśika is born from ātis) Karmāravī and Ṣadjamadhyamā;”” Sa is amsa, pa is 
 
-*[p. iii]* ^pg109
+*[p. 111]* ^pg109
 
 TRANSLATION OF THE TEXT : NATYAŚASTRA AND ITS COMMENTARY 
 

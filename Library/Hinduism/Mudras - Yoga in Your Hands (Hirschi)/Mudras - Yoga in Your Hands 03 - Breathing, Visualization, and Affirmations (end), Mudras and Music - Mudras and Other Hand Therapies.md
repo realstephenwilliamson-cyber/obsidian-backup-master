@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 3
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 14–42
+page_range: "14–29"
 pdf_pages: 27–42
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -229,7 +229,7 @@ Use Middendorf, a leading expert in the field of respiratory therapy, has proved
 
 Furthermore, the ends of the nerve paths of the hands, as well as the feet, occupy a particularly large area in the brain. This area is much larger than that of the arms and legs. Cerebral activity is activated and trained by touching and feeling, especially with the fingertips. For example, finger games are employed to remedy children's learning difficulties. These games stimulate the corresponding connections in the brain and activate the brain waves. When mudras are practiced consciously, which means that we focus on our fingers and whatever they are resting on, they activate large areas of the brain. 
 
-*[PDF 41]* ^pg41
+*[p. 28]* ^pg41
 
 28 
 
@@ -251,7 +251,7 @@ ward, and stretch your arms. This will refresh you, improve your breathing, and 
 
 tic way, and stimulate every bodily function is hand tapping (it is hard to stay serious when you do this, and children can't 
 
-*[PDF 42]* ^pg42
+*[p. 29]* ^pg42
 
 29 
 

@@ -263,9 +263,9 @@ siddhi 13, 14, 62, 81, 106 and
 
 suṣumnā 145, 146, 147, 208,216, 
 
-*[p. 174]* ^pg174
+*[PDF 174]* ^pg174
 
-*[p. 175]* ^pg175
+*[PDF 175]* ^pg175
 
 SĀRADĀ TILAKA TANTRA 
 

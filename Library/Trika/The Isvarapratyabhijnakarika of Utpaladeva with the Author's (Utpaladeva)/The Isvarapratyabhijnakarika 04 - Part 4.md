@@ -134,7 +134,7 @@ M 1.10-11
 
 शून्ये पुर्यष्टका५\^त्मके ऽत्यन्तसुक्ष्मदेह एव वा प्रमातृमात्र
 
-*[p. ii]* ^pg126
+*[p. 66]* ^pg126
 
 47 oābhāse : °ādhāre T; cf. ibid. p. 308 sūtre ya evamarthah prasaraśabdah, sa Āābhāsapadena vrttau vivrtah. ° niyatyā karmādhīnah : niyatiniyamitah E Gh N C Ch J Jh Ñ T (also possible). \*° ātmatattvābhijīayā : ātmatvābhijñatayā T, ātmatattvābhijñatayā Ñ ; cf. ibid. p. 311 nanu ātmatattvam pratyuta heyam ... iti śaṁkitvā āha “ātmana” iti sasthīsamāso 'yam vrttāv ity arthah. \$° pumstvāvasthāyām cit. ibid. p. 312. 5' Cf. ibid. p. 312 kleśakarmavipākāśayair yukto stu pumān. \* svatantro : svatantra? E Gh Ñ C Ch J Jh Ñ T; cf. ibid. p. 313 “svatantro bodha” ity etat tattvam. % paramārthah : para-mārthatah T. \* °mātra° cit. and commented on ibid. p. 314.
 
@@ -363,7 +363,7 @@ rūpa” iti.
 
 १५ते विभिन्नावभासाः "<सामान्यात्मनोऽर्थास् १५तदनुभवसंस्कृतैः pse gA सुखी बाहमिति विचिित्रन्यपदेशविषयीकिय- माणात्मभिः AA "विकल्पनशक्त्या तत्तद्धटरजतशुक्लपटश- कटादिनाम्नान्तःपत्यवमर्शनीयत्वेन °०प्रदरश्यन्ते स्मृतौ पूर्वानुभवा- प्रमोषे, विचित्रोत्पेक्षादिषु तु स्वातन्त्रयेण । अयमेव गराह्यगराहक - भेदावभासः °शब्दमयः पशुभावे °°संसारबन्धः ॥ <sup>८</sup>॥
 
-*[p. iv]* ^pg137
+*[p. 77]* ^pg137
 
 23 o 24
 
@@ -392,7 +392,7 @@ upajīvinī : °upajīvanī T. °% ajñātayā : ajñatayā Ñ (also found in E,
 
 क्षेत्रज्ञस्यापीश्बरशक्त्यैव विकल्पारम्भ इति तदश्ायामपि
 
-*[p. iv]* ^pg139
+*[p. 79]* ^pg139
 
 first pāda of the kārikā, in this form, would refer to the two aspects of ‘recognition’ (pratyabhijñādvaidham), connected by him with the vv. 109-10 of the Vijñānabhairava. According to Śivopādhyāya, this would be the reading commented on by Abh.
 
@@ -419,7 +419,7 @@ qhany ममायं संसारमयो विभव इत्यभे�
 
 इत्थमाविष्कृ तज्ञक्त्यभिज्ञानम् आत्मानमनन्तज्ञानकियाशक्िति\*“नि- भृतमीश्वरं प्रत्यभिज्ञाय यथेच्छं सर्व पश्यति निर्मिमीते ॥ १५॥
 
-*[p. iv]* ^pg140
+*[p. 80]* ^pg140
 
 45 Cf. ĪPVV I p. 38 pīkākāro 'pi “sākṣsātkrtaparameśvarākāraih” iti vakṣyati. % eva cit. in IPVV II p. 403 “jīvanmukto na samśayah” ity ādiṣu āgamasthāneṣu niyamārtha-vyākhyānāya vrttau ya evakārah ... | adbhūtatvam api ca evakāreṇa sūcita asya upa-
 
@@ -550,7 +550,7 @@ bhavati, na tu sādyam).
 
 15 Le. in the way that will be described in the following chapter. In understanding fasya both as objective and subjective genitive (it is Abh. himself who underlines this, see text note 43), the Self becomes both the object and the subject of the error: the Self in its freedom is mistaken about itself. Indeed, every reality, even error, has the Lord, the Self, as its ultimate source.
 
-*[p. i]* ^pg149
+*[p. 89]* ^pg149
 
 CHAPTER lI
 

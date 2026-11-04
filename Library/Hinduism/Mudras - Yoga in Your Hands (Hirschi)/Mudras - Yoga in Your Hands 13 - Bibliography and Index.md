@@ -4,7 +4,7 @@ work: "[[Hirschi - Mudras - Yoga in Your Hands]]"
 book: "[[Library/Hinduism/Mudras - Yoga in Your Hands (Hirschi)/Mudras - Yoga in Your Hands (Hirschi)|Mudras - Yoga in Your Hands (Hirschi)]]"
 order: 13
 source_pdf: Library/Hinduism/Gertrud Hirschi - Mudras_ Yoga in Your Hands-Red Wheel_Weiser (2000).pdf
-page_range: 222–223
+page_range: "212–223"
 pdf_pages: 222–233
 text_source: the scan's OCR text layer (ABBYY FineReader), PyMuPDF
 converted: 2026-10-07
@@ -49,7 +49,7 @@ Friebe, Margarete. *Das Alpha-Training.* Munchen, 1983.
 
 Gach, Michael Reed. *Heilende Punkte.* Munchen, 1992. 
 
-*[PDF 223]* ^pg223
+*[p. 212]* ^pg223
 
 212 
 
@@ -147,7 +147,7 @@ fourth, 60 heart, 51, 150 root, 54, 70,172 second, 55, 62 solar plexus, 180 thro
 
 D daSilva,Kim, 11,70, 108, 194 
 
-*[PDF 227]* ^pg227
+*[p. 217]* ^pg227
 
 IN D E X 
 
@@ -167,7 +167,7 @@ F fear, 106, 164 fennel, 65 feverfew, 111 fingers, 204 index, 3,4, 31, 39, 51 li
 
 exhaustion, 101, 102 eye diseases, 70 
 
-*[PDF 228]* ^pg228
+*[p. 218]* ^pg228
 
 2l8 
 

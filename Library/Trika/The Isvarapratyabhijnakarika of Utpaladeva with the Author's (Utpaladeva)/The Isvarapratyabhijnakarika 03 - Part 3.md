@@ -4,7 +4,7 @@ work: "[[Utpaladeva - The Isvarapratyabhijnakarika of Utpaladeva with the Author
 book: "[[Library/Trika/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)|The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)]]"
 order: 3
 source_pdf: Library/Trika/Torella - The Isvarapratyabhijnakarika of Utpaladeva with the Author's Vrtti (SOR 71).pdf
-page_range: i–60
+page_range: "21–60"
 pdf_pages: 81–120
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
@@ -12,7 +12,7 @@ converted: 2026-10-07
 
 [[The Isvarapratyabhijnakarika 02 - Part 2|← previous]] · [[The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)|contents]] · [[The Isvarapratyabhijnakarika 04 - Part 4|next →]]
 
-*[p. i]* ^pg81
+*[p. 21]* ^pg81
 
 232 Cf, ibid. p. 130 bāhyaś cārthah sāvayavaniravayavobhayavilakṣaṇo viruddha-dharmādhyāsādikam dūṣaṇam avalambya pramānabādhitah ... “niravayavaś ca paramānṇurūpo 'rthah pramāṇabādhito bahubhir bahubhih prakāraih ṣaḷṭkayogādikam vikalpya” iti vrttigranthasya yojanā. T reads yugapadarthadikṣatkayogād eva (yugapad - whether it was in the original text or not - is anyhow understood; cf. Vimśatikā 12ab sṣaṭkena yugapad yogāt paramānoli ṣadamśatā). °?” Ch adds iti syāt. ?\*” īśvaratvāt: īśva-rāt T; cf. ĪPVV II p. 146 “hi” iti yata evam devatvāt cidātmā ... ?” svātmarūpatayā cit. ibid. p. 146. ?Ć upapannābhāsanam: upapannāvabhāsanam T, upapannābhāsarūpam E Gh C Ch J Jh Ñ Ṭ, upapannābhāsam rīpam Ñ. I have accepted the reading quoted and glossed ibid. p. 146 tasya yad ābhāsanam, tat tāvad upapannam na prayatnasādhyam; ta-dabhedinaś ca bhāvarāśeh prakāśātmatvād upapannābhāsanam iti. ?”" icchā°: icchādi?° E Gh Ñ C Ch Jh Ñ T. ?® mrdādi?: apara? T. 239 ghaṭapatādikam: ghaḷṭādim T. 40 artharāśim cit. ibid. p. 155. ?\*' °avabhāta?: °avabhāsa? E Gh Ñ Ch Jh Ñ T T, but cf. ibid. p. 156 prathamam sūtrabhāgam gamyamānārthanirūpaṇena sphuṭayati vrttikrt “pūrvāvabhāta” ity ādinā “anumānam” ity antena / “pūrvāvabhātāntahsthitah” iti. ?%? arthe: artho E Gh Ñ C Ch Ñ T, artha T. The reading arthe, required by meaning, is only found in Jh, as a correction of a previous artho; J has arthe, then corrected to artho. 243 nāntarīyaka” cit. ibid. p. 156, where the rest of the sentence is paraphrased: pūrvaśab-dopādāne \`pi hi antahsthitatvyasya avarakālatĀāvrttir vyaṁgyā / na ca vimarśanamātram anumānam, api tu prāptipravrttiyogyavastuniścayarūűpam, ity āha “nāntarīyaka” ity ādi. On the meaning and the necessity of tattaddeśakālādiyojanayā see also ibid. p. 162. समाप्तेः । °\*बाह्यञ््चार्थः परमाणबाधितः सावयवो विरुद्ध-
 
@@ -100,7 +100,7 @@ seems unnecessary. avaiti: vetti T. S ata eva cit. ibid. p. 209. ?” tadānīnt
 
 वर्तमानप्रमातृ २७ °भावे नाहंप्रत्यवमृक्ष्यस्य परमेयत्वेनेदन्ता । विम - भिदे चाभासभेदे च प्रमातैवेश्वरशब्देन सृष्टोऽहं२८°परामर्श-
 
-*[p. i]* ^pg85
+*[p. 25]* ^pg85
 
 28! pacatyādivācyo 'rthah I yathāhuh kriyāguṇajātisambandhādiśabdair na kriyādaya ucyante pacatyādimukhenābhidhānāt : pacatyādivācyo ’rtha / yathāhuh kriyāgu-najātisambandhādiśabdena kriyādaya ucyante pacatyādivat | pacatyādimukhenābhidhānāt J, kriyādaya ucyante pacatyādivat pacatyādimukhenety abhidhānāt E Gh Ñ C Ch Jh Ñ T. 282 eva only found in T. ?™ pratitis tv asty eva: pratīti&lt;h>svasyaiva T. ?%\* Cf. ibid. p. 218 yatah pratyagātmā vrttau parameśvara iti kathitah. ?%5 viśvam bhedenābhāsyate cit. ibid. p. 218; avabhāsyate T. ?8\$ tatah: tadā T, also possible. ?5 citir: citikriyā T. 288 J adds apy. °5° adhyakṣam cit. ibid. p. 217. °?” tasyaiva bhinnasya cit. ibid. p. 218. 291 The rest of the vrtiti is paraphrased ibid. p. 218 nanu pratyagātmano manovrttih samkalpah, buddhivrttir vā jñānam, manobuddhyakṣāṇām ca jadatvam iti jñānādayah katham ci-tisvabhāvāh, - iti codyam garbhīkrtya vrtāv apiśabdo yah prayuktah ...; °rūpatvenāpi E Gh N C Ch Jh Ñ T (J has °tve corrected to °rvena). °°? The quotation ibid. p. 218 is a little different: iti vritau darśayati “citiśaktik“ iti. 293 sāksātkāralakṣane jñāne: sāksātkārakṣanṇajñāne E Gh NÑ C Ch J Jh Ñ T.
 
@@ -230,7 +230,7 @@ waq स्वतो युगपदहमिदमिति सर्वार�
 
 \*+५स्वतन्त्रस्तु विकल्पश््यक्षुराद्यगोचरमपि बुद्धिविषयता-““पाद- नेन यथारुचि पूर्वानुभूतत्वाविमर्शनेन नवमेव तं तमर्थमाभासयति संनिवेश श्विशेषं च । २\^°तत्रासावर्थः सहज एवास्ति ॥ १०॥
 
-*[p. i]* ^pg91
+*[p. 31]* ^pg91
 
 361 C adds °kriyā?. ?6? ca cit. ibid. p. 336. ?® ca sphupam: sphutam J, cāsphutam Ñ. 3%&#37; ca omitted in T. %65 ābhāsah: avabhāsah TJ, but cf. ibid. p. 341 ābhāsa eva ātmā iti vrttigrantham ... . °% sarvasamvitkālavyāpī cit. ibid. p. 341. 39% Cf. ibid. p. 342, where the exposition of the kār. merges with that of the vrrti: ... api tu tās tā nīlasukhādi-viṣsayeṣsu vibhinnā yā samvido niścayāniāh, tāny eva mukhāni upāyās tair nadiīsrotahsthānīyair neniyamānā haḷṭavāhenaiva aham ity ekamahāsamvitsamudre yadā ābhimukhyena viśrāntim yānti, tadā eṣām jūāteyam parasparam svasvāmitākārya-kāraṇabhāvādih samanvayo vyāvahārātmā upapattyā ghaṭate. ?% °vyavahāra®: °vya-
 
@@ -734,7 +734,7 @@ n7 oādika? : °ādhika° E. ''8 kāya° : kārya° E Gh Ñ C Ñ, kāya° correc
 
 १\*०अपूर्वाभासस्यासिद्धवस्तुसाधनान् ?\*\*नित्यावभासिनः परमातुर्न
 
-*[p. ii]* ^pg114
+*[p. 54]* ^pg114
 
 142 oavabhāsānām : °ābhāsānām T, °ābhāsānām cormected to °avabhāsānām Ñ J. 143 tattatpramānatvāt : tatpramāṇatvāt E Gh Ň Ch Jh Ṭ, tanmayatvāt T, tanmayatvāt corrected to tattatpramāṇatvāt J. '™\*\* vibhuh : prabhuh Ñ. '®% vicitrā viśvābhāsās tasmin : vicitrābhāsā viśvā (then two illegible akṣaras) smin T. '\* tadicchāto cit. ibid. p. 163. 147 oavabhāsamāna® : °ābhāsamāna° T. “8 °svarūpābhramśe : °svarūpabhramśe ca E Gh Ñ C Ch J Jh Ñ Ṭ. '®° māyāśaktivaśāt cit. ibid. p. 163. '% tasyaiva : tasyā vā E Gh Ñ, tasyā yā Ch Ñ T, tasyā vā comected to tasyā yā J Jh. '5' E Gh Ch Ñ J Jh Ñ T add purātanī, which is probably a gloss; sadā purātanī C. °? upadiśyate : upadiśyeta E, uddi-śyate G Kh. '% bhajata omitted in T. '5° upadidikṣor : upadidrksor J. '55 upadeśānu-papatteh, conjectural emendation for upadeśānupapattih E Gh N C Ch J Jh N Ṭ and deśānupapatteh T. '5\$ The phrase bhāvanādyupadeśāya, found in all MSS, is apparently corrupt (unless on takes it as a, rather unlikely, samāhāradvandva formed by bhāvanādi
 
@@ -831,7 +831,7 @@ I 3-8 I
 
 त्वाभावनिज्चयाभावे हेत्वाभासः । ?५‹तन्निश््चये पुनरीश्वर - नियत्य!\^°पेक्षया हेतुता स्यात् ॥११॥
 
-*[p. ii]* ^pg118
+*[p. 58]* ^pg118
 
 Il 92-93 1
 

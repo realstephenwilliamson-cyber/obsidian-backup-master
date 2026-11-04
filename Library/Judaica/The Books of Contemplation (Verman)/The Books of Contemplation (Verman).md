@@ -19,10 +19,10 @@ Converted from the PDF on 22 Oct 2026 (the PDF's earlier OCR text layer (a scan)
 
 ## Contents
 
-- [[The Books of Contemplation 01 - Front matter|Front matter]] (pp. 1–6)
-- [[The Books of Contemplation 02 - Contents|Contents]] (pp. 7–9)
-- [[The Books of Contemplation 03 - Preface|Preface]] (pp. 10–11)
-- [[The Books of Contemplation 04 - Acknowledgments|Acknowledgments]] (pp. 12–13)
+- [[The Books of Contemplation 01 - Front matter|Front matter]] (PDF 1–6)
+- [[The Books of Contemplation 02 - Contents|Contents]] (p. viii)
+- [[The Books of Contemplation 03 - Preface|Preface]] (PDF 10–11)
+- [[The Books of Contemplation 04 - Acknowledgments|Acknowledgments]] (PDF 12–13)
 - [[The Books of Contemplation 05 - 1. Introduction to The Book of Contemplation, The Fountain of|1. Introduction to The Book of Contemplation, The Fountain of Wisdom, and Related Texts]] (pp. 1–30)
 - [[The Books of Contemplation 06 - 2. The Books of Contemplation and The Fountain of Wisdom, part 1|2. The Books of Contemplation and The Fountain of Wisdom, part 1]] (pp. 31–75)
 - [[The Books of Contemplation 07 - 2. The Books of Contemplation and The Fountain of Wisdom, part 2|2. The Books of Contemplation and The Fountain of Wisdom, part 2]] (pp. 76–120)

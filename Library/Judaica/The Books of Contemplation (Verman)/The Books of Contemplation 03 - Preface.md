@@ -4,7 +4,7 @@ work: "[[Catalog/Judaica/Verman - The Books of Contemplation]]"
 book: "[[Library/Judaica/The Books of Contemplation (Verman)/The Books of Contemplation (Verman)|The Books of Contemplation (Verman)]]"
 order: 3
 source_pdf: "Library/Judaica/Verman - The Books of Contemplation (1992).pdf"
-page_range: "10–11"
+page_range: ""
 pdf_pages: "10–11"
 text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF; the 34 pages with Hebrew read by a fresh OCR (Tesseract 5: heb on the Hebrew pages, heb+eng on the mixed ones); 34 pages read by OCR (Tesseract) where the text layer has no Unicode"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from the PDF's OCR layer
 > This text is the scan's earlier OCR layer; the 34 pages with Hebrew were read again by OCR with the Hebrew model. The English is reliable but may have misread words. The Hebrew is mostly right but has misread letters (ם as ס, ח as ת), and its line and note numbers lose digits. For exact Hebrew, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
 ## Preface
 
@@ -27,4 +27,4 @@ Chapter One offers a historical overview of the Jewish mystical tradition, as we
 
 Frequently, biblical passages are cited in these works. The translation is essentially my own and is based upon the Masoretic edition of the Hebrew Scriptures, in consultation with standard translations. 
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11

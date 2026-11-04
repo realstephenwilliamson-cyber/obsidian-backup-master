@@ -16,7 +16,7 @@ Converted from the PDF on 22 Oct 2026 (the PDF's own text layer (PyMuPDF)). Each
 
 ## Contents
 
-- [[Bifurcate 01 - Front matter|Front matter]] (pp. 1–9)
+- [[Bifurcate 01 - Front matter|Front matter]] (PDF 1–9)
 - [[Bifurcate 02 - Letter from Jean-Marie Gustave Le Clezio to Bernard Stiegler|Letter from Jean-Marie Gustave Le Clézio to Bernard Stiegler]] (pp. 10)
 - [[Bifurcate 03 - Letter from Hans Ulrich Obrist and Bernard Stiegler to Antonio Guterres|Letter from Hans Ulrich Obrist and Bernard Stiegler to António Guterres]] (pp. 11–13)
 - [[Bifurcate 04 - Foreword|Foreword]] (pp. 14–17)

@@ -19,8 +19,8 @@ Converted from the PDF on 22 Oct 2026 (a fresh OCR of the page images (Tesseract
 
 ## Contents
 
-- [[Cyril on John II 01 - Title pages and preface (H. P. Liddon)|Title pages and preface (H. P. Liddon)]] (pp. 1–20)
-- [[Cyril on John II 02 - Contents of both volumes|Contents of both volumes]] (pp. 21–26)
+- [[Cyril on John II 01 - Title pages and preface (H. P. Liddon)|Title pages and preface (H. P. Liddon)]] (pp. iv–x)
+- [[Cyril on John II 02 - Contents of both volumes|Contents of both volumes]] (pp. xi–xiv)
 - [[Cyril on John II 03 - Book VI, part 1|Book VI, part 1]] (pp. 2–46)
 - [[Cyril on John II 04 - Book VI, part 2|Book VI, part 2]] (pp. 47–91)
 - [[Cyril on John II 05 - Book VII (fragments)|Book VII (fragments)]] (pp. 92–137)

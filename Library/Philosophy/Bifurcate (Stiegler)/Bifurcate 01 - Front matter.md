@@ -4,7 +4,7 @@ work: "[[Catalog/Philosophy/Stiegler (ed.) - Bifurcate]]"
 book: "[[Library/Philosophy/Bifurcate (Stiegler)/Bifurcate (Stiegler)|Bifurcate (Stiegler)]]"
 order: 1
 source_pdf: "Library/Philosophy/Stiegler (ed.) - Bifurcate (2021).pdf"
-page_range: "1–9"
+page_range: ""
 pdf_pages: "1–9"
 text_source: "the PDF's own text layer (PyMuPDF)"
 converted: 2026-10-22
@@ -12,7 +12,7 @@ converted: 2026-10-22
 
 [[Bifurcate (Stiegler)|contents]] · [[Bifurcate 02 - Letter from Jean-Marie Gustave Le Clezio to Bernard Stiegler|next →]]
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 EDITED BY Bernard
 
@@ -24,7 +24,7 @@ BIFURCATE ‘THERE IS NO ALTERNATIVE’
 
 TRANSLATED BY DANIEL ROSS
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
 EDITED BY  Bernard
 
@@ -36,13 +36,13 @@ BIFURCATE ‘THERE IS NO ALTERNATIVE’
 
 TRANSLATED BY DANIEL ROSS
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
 CCC2 Irreversibility
 
 Series Editors: Tom Cohen and Claire Colebrook The second phase of ‘the Anthropocene,’ takes hold as tipping points speculated over in ‘Anthropocene 1.0’ click into place to retire the speculative bubble of “Anthropocene Talk”. Temporalities are dispersed, the memes of ‘globalization’ revoked. A broad drift into a de facto era of managed extinction events dawns. With this acceleration from the speculative into the material orders, a factor without a means of expression emerges: climate panic.
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
 EDITED BY  Bernard
 
@@ -60,7 +60,7 @@ OPEN HUMANITIES PRESS
 
 *London 2021*
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
 First published in French: *Bifurquer: il n’y a pas d’alternative*, Collectif Internation, Coordonné par Bernard Stiegler, ©Les Liens Qui Libèrent, 2020 English translation first published by Open Humanities Press 2021 English Translation Copyright © 2021 Daniel Ross
 
@@ -77,7 +77,7 @@ OPEN HUMANITIES PRESS
 
 Open Humanities Press is an international, scholar-led open access publishing collective whose mission is to make leading works of contemporary critical thought freely available worldwide. More at http://openhumanitiespress.org
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
 Contents
 
@@ -101,7 +101,7 @@ Sculpture of the Self 119 *Noel Fitzpatrick, Anne Alombert, Colette Tron,* *Glen
 
 *Michał Krzykawski, Edoardo Toffoletto, Bernard Stiegler*
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 Technologies: Towards Social Generativity in Automatic Societies 178 *Anne Alombert, Vincent Puig, Bernard Stiegler* 8 Ēthos and Technology 195 *Michał Krzykawski, Susanna Lindberg* *(revised by David Bates)*
 
@@ -111,6 +111,6 @@ of Ecological Collapse 220 *Gerald Moore, Nikolaos A. Mylonas, Marco Pavanini,* 
 
 Critique of Political Economy 249 *Daniel Ross* Afterword: The Territorial Inscription of Law 278 *Alain Supiot* Appendix: Mission of the Association of Friends of the Thunberg Generation 303 Lexicon of the Internation: Introduction to the Concepts of Bernard Stiegler and the Internation Collective 305 *Anne Alombert, Michał Krzykawski*
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9

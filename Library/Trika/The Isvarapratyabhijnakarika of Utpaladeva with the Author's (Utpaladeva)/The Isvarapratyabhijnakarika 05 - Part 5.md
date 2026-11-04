@@ -392,7 +392,7 @@ screen or intermediation of the world of objects, and even goes beyond that rela
 
 25 Being ‘conscious’ is the attribute (dharma) of the substance (dravya, dharmin) ‘self’, that is in fact the dravya par excellence, because everything without distinction rests on him (cf. ĪPV I p. 248). Saying ‘the self is sentience’ (S. I. 1), instead of ‘the self is sentient’ or ‘in the self there is sentience’, means underlining the absolute pre-eminence of this quality over all others (cf. IPVV II p. 33 bhāva-pratyaye&lt;na> taddharmaprādhānyam darśitam, see also PV 1.61-2). In fact, permanence, incorporeity etc. may also pertain to other entities, whereas consciousness only pertains to the self and it alone suffices to characterize it (cf. IPV 1 p. 248,
 
-*[p. i]* ^pg180
+*[p. 120]* ^pg180
 
 13\. Consciousness has as its essential nature reflective awareness (pratyavamarśa®); it is the supreme Word (parāvāk) that arises freely. It is freedom in the absolute sense, the sovereignty (aiśvaryam) of the
 

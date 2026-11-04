@@ -19,8 +19,8 @@ Converted from the PDF on 22 Oct 2026 (the PDF's earlier OCR text layer (a scan)
 
 ## Contents
 
-- [[Vinasikhatantra 01 - Front matter|Front matter]] (pp. 1–9)
-- [[Vinasikhatantra 02 - Preface|Preface]] (pp. 10–11)
+- [[Vinasikhatantra 01 - Front matter|Front matter]] (PDF 1–9)
+- [[Vinasikhatantra 02 - Preface|Preface]] (p. viii)
 - [[Vinasikhatantra 03 - Part I. Introduction|Part I. Introduction]] (pp. 4–62)
 - [[Vinasikhatantra 04 - Text of the Vinasikhatantra|Text of the Vinasikhatantra]] (pp. 63–96)
 - [[Vinasikhatantra 05 - Translation|Translation]] (pp. 97–144)

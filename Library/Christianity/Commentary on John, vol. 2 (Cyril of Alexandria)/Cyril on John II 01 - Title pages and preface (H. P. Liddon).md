@@ -4,7 +4,7 @@ work: "[[Catalog/Christianity/Cyril of Alexandria - Commentary on John]]"
 book: "[[Library/Christianity/Commentary on John, vol. 2 (Cyril of Alexandria)/Commentary on John, vol. 2 (Cyril of Alexandria)|Commentary on John, vol. 2 (Cyril of Alexandria)]]"
 order: 1
 source_pdf: "Library/Christianity/Cyril of Alexandria - Commentary on John, vol. 2 (1885).pdf"
-page_range: "1–20"
+page_range: "iv–x"
 pdf_pages: "1–20"
 text_source: "a fresh OCR of the page images (Tesseract 5, eng+grc, 300 dpi); the archive.org text layer was not used"
 converted: 2026-10-22
@@ -15,7 +15,7 @@ converted: 2026-10-22
 > [!note] Text from a fresh OCR
 > This text was read from the page images by OCR (English and Greek models). The English is reliable but not perfect; the Greek words of the prefaces and notes are readable but may carry slips; the marginal Scripture references and the running heads are sometimes misread or out of place. For an exact reading, check the PDF (the *Open the PDF* button on the catalog note).
 
-*[p. 1]* ^pg1
+*[PDF 1]* ^pg1
 
 ## Title pages and preface (H. P. Liddon)
 
@@ -25,17 +25,17 @@ pra ge
 
 Hiri) a
 
-*[p. 2]* ^pg2
+*[PDF 2]* ^pg2
 
-*[p. 3]* ^pg3
+*[PDF 3]* ^pg3
 
-*[p. 4]* ^pg4
+*[PDF 4]* ^pg4
 
-*[p. 5]* ^pg5
+*[PDF 5]* ^pg5
 
-*[p. 6]* ^pg6
+*[PDF 6]* ^pg6
 
-*[p. 7]* ^pg7
+*[PDF 7]* ^pg7
 
 A
 
@@ -57,9 +57,9 @@ WALTER SMITH (LATE MOZLEY),
 
 34 Eine Street, Covent GARDEN.
 
-*[p. 8]* ^pg8
+*[PDF 8]* ^pg8
 
-*[p. 9]* ^pg9
+*[PDF 9]* ^pg9
 
 TO THE MEMORY
 
@@ -89,9 +89,9 @@ GRATEFULLY AND REVERENTLY
 
 INSCRIBED.
 
-*[p. 10]* ^pg10
+*[PDF 10]* ^pg10
 
-*[p. 11]* ^pg11
+*[PDF 11]* ^pg11
 
 COMMENTARY
 
@@ -115,17 +115,17 @@ WALTER SMITH (ars MOZLEY),
 
 84, Kine STREET, CovENT GARDEN.
 
-*[p. 12]* ^pg12
+*[PDF 12]* ^pg12
 
 @xfory PRINTED BY HORACE HART, PRINTER TO THE UNIVERSITY
 
-*[p. 13]* ^pg13
+*[PDF 13]* ^pg13
 
 PREFACE.
 
 More than eleven years have passed since the first volume of a translation of 8. Cyril’s Commentary on δ. John was given to the world by the late Mr. P. E. Pusey. The volume was introduced by a Preface, the greater part of which was written by the translator's father, Dr. Pusey, and mainly with a view to showing that 8. Cyril’s language on the subject of the Procession of God the Holy Ghost from the Father and the Son is substantially identical with that of the Greek Fathers of an earlier age. This Preface was in part intended as a contribution to the then expected discussion of the subject at the Reunion Conferences which, in the event, were held at Bonn, under the presidency of Dr. Dillinger, in the autumns of 1874 and the following year. The translation itself was reviewed by an English critic in terms which rendered its humble and too self-distrusting author unwilling to resume it. At his death, on Jan. 15th, 1880, nothing more had been done. But Dr. Pusey, who all along had been anxious for the completion of the work, entrusted it to a scholar who was at the time A 2
 
-*[p. 14]* ^pg14
+*[p. iv]* ^pg14
 
 1v PREFACE.
 
@@ -151,7 +151,7 @@ The work of editing the original text was to have been completed in ten volumes.
 
 1 Preface to Translation of Κ΄. Cyril against Nest., p.cv.; dated Christmas Eve, 1881.
 
-*[p. 15]* ^pg15
+*[p. v]* ^pg15
 
 PREFACE. Vv
 
@@ -169,7 +169,7 @@ Mr. Randell, it need not be said, acted on the advice contained in this letter. 
 
 2 Vol. I., Preface, p. viii.
 
-*[p. 16]* ^pg16
+*[p. vi]* ^pg16
 
 Vi PREFACE.
 
@@ -195,7 +195,7 @@ Dr. Pusey’s death, as was inevitable, seriously interrupted the progress of th
 
 ° This correction was adopted, cf. p. 10.
 
-*[p. 17]* ^pg17
+*[p. vii]* ^pg17
 
 PREFACE. Vu
 
@@ -207,7 +207,7 @@ made from the Syriac version.
 
 It may not be undesirable to remind the reader that 5. Cyril used a text of the New Testament which is not quite identical either with that of any known ancient manuscript, or with any conjectural text that has been constructed by modern scholars, or with the Textus Receptus. Accordingly, in translating passages of the New Testament that occur in the present volume—whether passages of the Holy Evangelist upon whom 8. Cyril is conimenting, or
 
-*[p. 18]* ^pg18
+*[p. viii]* ^pg18
 
 Vili PREFACE.
 
@@ -219,7 +219,7 @@ Mr. Randell is anxious to express his gratitude for generous assistance which he
 
 freely placed at his disposal.
 
-*[p. 19]* ^pg19
+*[p. ix]* ^pg19
 
 PREFACE. ΙΧ
 
@@ -241,4 +241,4 @@ Curist Cxurcn,
 
 Feast of All Saints, 1885.
 
-*[p. 20]* ^pg20
+*[p. x]* ^pg20

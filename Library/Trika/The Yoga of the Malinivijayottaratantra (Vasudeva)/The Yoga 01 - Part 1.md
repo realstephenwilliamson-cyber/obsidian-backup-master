@@ -148,13 +148,13 @@ RÉSUMÉ
 
 447 455 473 509 555
 
-*[p. i]* ^pg9
+*[p. ix]* ^pg9
 
 INTRODUCTION 5
 
-*[PDF 10]* ^pg10
+*[p. x]* ^pg10
 
-*[PDF 11]* ^pg11
+*[p. xi]* ^pg11
 
 UESTIONS about the Mālinīvijayottara’s yoga Qi hitherto been posed in misleading terms." This is because the Mālinīvijayottara presents not a single yoga but attempts to integrate a whole plethora of competing yogic systems. At the core of this integration lie homologies of phenomenological gradations involving primarily three series: the \[1.\] seven experients (pramātr), the \[2.\] four immersions of Kaula yoga (pindādi), themselves already correlated with four stages of gnostic development (sarvatobhadrādi) and the \[3.\] five states of lucidity (jāgradādyava-sthā). The basis of the whole system is the “fifteen-fold division \[in apperception\]” (pañcadaśabhedana), an important innovation of the Mālinīvijayottara extensively applied in the detailed ‘conquest of the levels of reality” (tattvajaya) and elsewhere. Since this fifteen-fold division forms the backbone of the primary yogic teachings collected in the Mālinīvijayottara the seven perceivers it derives from are discussed in some detail?
 

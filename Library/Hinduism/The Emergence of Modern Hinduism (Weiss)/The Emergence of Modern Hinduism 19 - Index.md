@@ -4,7 +4,7 @@ work: "[[Catalog/Hinduism/Weiss - The Emergence of Modern Hinduism]]"
 book: "[[Library/Hinduism/The Emergence of Modern Hinduism (Weiss)/The Emergence of Modern Hinduism (Weiss)|The Emergence of Modern Hinduism (Weiss)]]"
 order: 19
 source_pdf: "Library/Hinduism/Weiss - The Emergence of Modern Hinduism (2019).pdf"
-page_range: "199–204"
+page_range: "199–203"
 pdf_pages: "216–222"
 text_source: "PDF text layer (born-digital), PyMuPDF"
 converted: 2026-10-22
@@ -103,7 +103,7 @@ subordinate deities, Hindu, 37 Subrahmanyam, Sanjay, 19, 20 Subramanian, N., 15 
 
 Ramalinga’s status as, 13, 111; Tamil Shaivism and, 17, 47, 85, 88 Velu Mudaliyar, Puduvai, 59, 68 Venkatachalapathy, A. R., 101, 105, 111 Venkatesan, R., 17, 127 Virashaiva, 128 Vishwanathan, Gauri, 104 Vivekananda, Swami, 1, 9, 10, 29 voluntary society, 131–135, 140 Walsham, Alexandra, 53 Washbrook, David, 98–99 Watt, Carey, 28 World Religions discourse, 5, 55, 136 Yelle, Robert, 99, 109–110, 125, 126 *Yoga Sutras*, 130 yoga, classical, 129, 130, 131, 134 yogic power. See *siddhis* yogis, 32, 40, 43, 87, 123–125, 146 Zelliot, Elleanor, 140 Zubkova, Luba, 15 Zvelebil, Kamil, 15, 42, 73, 75, 84, 135
 
-*[p. 204]* ^pg221
+*[PDF 221]* ^pg221
 
 Founded in 1893, University of California Press publishes bold, progressive books and journals on topics in the arts, humanities, social sciences, and natural sciences—with a focus on social justice issues—that inspire thought and action among readers worldwide.
 
@@ -111,7 +111,7 @@ The UC Press Foundation
 
 raises funds to uphold the press’s vital role as an independent, nonprofit publisher, and receives philanthropic support from a wide range of individuals and institutions—and from committed readers like you. To learn more, visit ucpress.edu/supportus.
 
-*[p. 222]* ^pg222
+*[PDF 222]* ^pg222
 
 RELIGION  |  HISTORY  |  ASIAN STUDIES
 

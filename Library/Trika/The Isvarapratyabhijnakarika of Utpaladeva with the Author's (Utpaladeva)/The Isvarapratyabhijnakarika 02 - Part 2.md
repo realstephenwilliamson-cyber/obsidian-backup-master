@@ -4,7 +4,7 @@ work: "[[Utpaladeva - The Isvarapratyabhijnakarika of Utpaladeva with the Author
 book: "[[Library/Trika/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)/The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)|The Isvarapratyabhijnakarika of Utpaladeva with the Author's (Utpaladeva)]]"
 order: 2
 source_pdf: Library/Trika/Torella - The Isvarapratyabhijnakarika of Utpaladeva with the Author's Vrtti (SOR 71).pdf
-page_range: xxxix–i
+page_range: "xxxix–liv; 1–20"
 pdf_pages: 41–80
 text_source: fresh OCR with Tesseract 5 (Latin)
 converted: 2026-10-07
@@ -463,7 +463,7 @@ TEXT
 
 *[PDF 60]* ^pg60
 
-*[PDF 61]* ^pg61
+*[p. 1]* ^pg61
 
 ! sampat omitted in C. ? parameśvaraprasādād eva cit. and commented on in ĪPVV I p. 24; cf. also ibid. p. 38 vrttau ca gurubhaṭṭārako ‘pi parameśvaraśabdena nirdiṣṭah. 3 The compound is partly cit. and commented on ibid. p. 21 vrttau ca sūcito \*yam artho “dāsyalakṣmīhk” ity anena |! dāsyaprabhavā lakṣsmyah samastāh sampadah parameśvara-prasādāt labdhā yeneti, on the same page cit. (from the {īkā) atyantadurlabham dāsyam. 4 aham ekākisampadā lajjamāno cit. ibid. p. 27. \$ janam apīmam: janasamīpam E Gh Ñ C Ch J Jh Ñ T, which probably derives from ĪPV I p. 33 upaśabdah samīpārthah, tena janasya parameśvaradharmasamīpatākaraṇam atra phalam (sa and ma are almost identical in śāradā script). É sva°: svam T Ñ J. ” vakṣyamāṇopāyena cit. ibid. p. 32. ईर्नरप्रत्यभिज्ञाकारिकाः
 
@@ -483,7 +483,7 @@ TEXT
 
 रपरमेश्वरप्रसादादेव "लन्धात्यन्तदुर्लभतदास्यलक्ष्मीर् "अहमेका - किसंपदा लज्जमानो +जनमपीममखिलं \^स्वस्वामिनं °वक्ष्यमा-
 
-*[PDF 62]* ^pg62
+*[p. 2]* ^pg62
 
 8 pratyabhijñāpayāmi cit. and commented on ibid. pp. 23, 31-2. ° tasyāpi paramārtha° cit. ibid. p. 30; cf. the paraphrase ibid. yena asyāpi lābhena tuṣyeyam; parituṣyeyam cit. and commented on ibid. pp. 33-4. The whole passage is quoted in Krṣnadāsa's Anuttara-trimśikālaghuvrttivimarśinī (ORI and MSS Library, Trivandrum, MS No. C2108 D, f. 152b). '° sarveṣām svātmanah cit. in ĪPVV I p. 50; svātmanah is indicated as a subjective genitive depending on jñānam kriyā ca (kartari eṣā ṣaṣṭhī / tatkartrkam hi jñānam karaṇnam ca, na tu sambandhaṣaṣthī). '! sarvārthasiddhi? cit. ibid. p. 49; °samāśrayasya results from the paraphrase ibid. p. 52 sarve tasmāt pramātur anye ye 'rthāh teṣām yā siddhih prakāśamānatā, tasyā yatah sa pramāiā nibandhanam viśrāntisthānam vimarśarūpatayā samāśrayah. '? °sarvārtha° omitted in E. '? krodīkrtasiddheh cit. and commented on ibid. p. 67 krodīkrtasiddhikatvam yad uktam vrttau ādisiddhatvasphutīka-ranābhiprāyenṇa ... tena pramātrā svātmano nijasya rūpasya siddhih prakāśah prameyasiddhyaiva krodīkriā krodopalakṣitahrdayarūpatām gatā krtā hrdayaṁgamīkrtety arthah. 14 būrvasiddhasya cit. ibid. p. 67. '\* purāṇasya commented on (and differentiated from the close pūrvasiddhasya) ibid. p. 51 idantādeśakālasvarūpaniyamārūdham prathanam yasya nīlasukhādikasya, tasya bhāvas tanniṣedhopalakṣitah san pramātā prakāśate ca prākāśiṣtha ca prakāśiṣyate ceti yāvat / ata eva purāṇah pūrvasiddhaś ceti na paryāyau, purānṇo \`pi hi na pūrvasiddhahi piśāca iva, pūrvasiddho pi na purāṇo dhūma iveti ubhayoktih. ' T omits eva. ” tena cit. ibid. p. 50. '8 jadānām evodyamah cit. ibid. p. 49 and commented on p. 78.
 
@@ -622,7 +622,7 @@ vrtih, J iti pūrvapakṣanirūpaṇam.
 
 ११५ इति ज्ञानाधिकारे दितीयमादविकम् ॥
 
-*[p. i]* ^pg71
+*[p. 11]* ^pg71
 
 15 T adds atha paradarśanānupapattinirūpaṇam. !' pūrvānubhavasamskārapra-bodhajanmāpi cit. ibid. p. 210; °prabodha? omitted in T (in Gh it is added under the line); °jāpi E. '' ātmamātraniṣṭhatvāt cit. ibid. p. 210. '' Cf. ibid. p. 211 rat katham uktam “ātmaniṣtṭhasvarūpasamvedikaiva” iti (from the fīkā). On the same page the compound is cit. in a slightly different form: vrttau ca “svaviṣayasamvedikaiva” iti; samvedakaiva Ch. ''? na tu vyavasthāpikā ghaṭate cit. ibid. p. 213; °vyavasthāpikāpi T; °vya-vasthāpitā Ñ. '?? °āveśābhāvāt: °āveśāt J. "?' sarvā hi jñṁaptih cit. ibid. pp. 216 and 222; sarvāpi T. '? Cf. the quotation from the pīkā ibid. p. 215 svasamvedanaikarūpatvāt, glossed with svasamvedanam ekam rūpam yasya iti; °svarūpā. Cf. ibid. p. 229 svasamveda-naikarūpā ... yā kācit hi jñaptih, sā anyasamvidvedyā na bhavatīti and the quotation from the /īkā ibid. p. 222 “jīānam jñānāntaravedyam na bhavati” iti. '? °rūpānanya?: °rūpā nānya? E Gh Ñ C Ch J Jh Ñ T. "?\* °vedyā: °samvedyā E. '” anyonyavedane anyonyaviṣayavedanam api syāt cit. ibid. p. 229; anyonyavedane omitted in Ñ Ch Jh; anyonyasamvedane E Gh (added in the margin) C J Ñ T. 126 tataś ca cit. ibid. p. 230. <sup>127</sup>Cf, the paraphrase ibid. p. 230 iti indriyaniyamo hīyeta. " Cit. ibid. p. 214 upacāra iha vrttau sphutīkrtah “samskārajatvena” iti, °samskāratvena C. <sup>129</sup>Cf. ihid. p. 253 āha “sādrśyamātram” iti, perhaps cit. through the /īkā; Ch omits tat°.
 
@@ -764,7 +764,7 @@ amma °०५अपि ° “प्रकाशेते ॥ ८॥
 
 पत्यक्षे२१०ऽपि यावदर्थानां भेदेनावभासः परमात्र !\^न्तर्कीनानामेव सतां युक्तः ॥१॥
 
-*[p. i]* ^pg79
+*[p. 19]* ^pg79
 
 212 osamjña?: °samjñaka° T, samjñā E. ?!? yathā: yadā Ñ C Ñ T. ?'" jñānakāle: jñānajñāne J. ?'\* Cf. ibid. pp. 68-9 tathā ca vrttih - svarūpabhūto yah prakāśah so 'rthasya prakāśamānatā, na tu tasmād arthād bhinnah san prakāśah, so 'rthasya prakāśamāna-tā yukteti, p. 69, where a slightly different interpretation is given, atra pakṣe vrttir evam netavyā - arthasya yā prakāśamānatā, sa prakāśo ’nubhavah, na tu asau prakāśamāna-tātmā prakāśo 'rthasya svarūpabhūto 'rthaśarīramagnah. The passage ibid. p. 75 nanu prakāśamānatā svarūpabhūtā ghaṭasya iti vrttau kim etat, although presenting itself as a literal quotation is only a further variation on the same theme. ?'Ś Cf. ibid. p. 77 vrttau mātraśabdena abhinnatvamātram vyākhyātam, sarvārthasādhāraṇatvena samkaraśa-nkāyāh pīthābandhah krtah. ?" Cf. ibid. pp. 77-8 “tasya” iti prakāśamātrasya “viṣayaniyamo nirnibandhanak”’ na kenacit hetunā upapadyate iti sambandhah I viṣayaniyamasya ākāram darśayati “ghaḷasya” ity ādinā. In J tasya is followed by prakāśamātrasya, which is precisely the gloss of ĪPVV; ghataprakāśo J, T does not repeat ayam. ?'® Cf. ibid. p. 78 trtiyapādasya artham prakāśātmatāśabdena vrīttau vyāeaṣḷe “arthasya siddhih” iti / “tat” iti vyākhyātam “tasmāt” ity anena; artha? E Gh Ñ C Ch J Jh Ñ T; prakāśāyat-tā T.
 
@@ -782,7 +782,7 @@ amma °०५अपि ° “प्रकाशेते ॥ ८॥
 
 पकाञ्ञ २१\^मात्रं चचार्थाद्धिन्नं सर्वार्थसाधारणं «तस्य घटस्य प्रकाशोऽयमयं पटस्यैवेति विषयनियमो निर्निबन्धनः । तस्माद् २१८अर्थस्य सिद्धिः प्रकाशात्मतायत्ता ॥ ३ ॥
 
-*[p. i]* ^pg80
+*[p. 20]* ^pg80
 
 219 ābhāsamānataiva: avabhāsamānataiva T, Jh has ābhāsamātrahetutaiva then corrected to ābhāsamānataiva. ?% sattā? omitted in C Ñ. ??' ābhāsātmataiva: ābhāsamāna-taiva E C, ābhāsataiva Kh G Gh Ñ T, bhāsataiva Ch, ābhāsatātmaiva J, ābhāsataiva corrected to ābhāsātmataiva Jh, bhāsamānataiva Ñ. ?? ekam omitted in E Ch. ?? ta-syāviśeṣe ’pi cit. ibid. p. 82; tasya viśeṣaṇa? T. 7? kramenṇa viśiṣyamāno 'rtho cit. and commented on ibid. p. 89 “kramena” iti vrttau kramo ’'pi na niyatah, api tu bahubhir bhedair ābhāsān viśiṣṭān karoti iti viśiṣyamāṇaśahdam vrttigatam tātparyeṇa vyācaṣḷe ... yo ‘rthaśabdo vrttau .... ??5 vicitra®: citra? C Ñ. \$ na omitted in T. ?? Cf. ibid. p. 89 “bodhavilaksaṇa” iti aprakāśamānatvād eveti āśayah. ?® arthair cit. ibid. p. 130. 229 ksatih: ksitih J. 2? tāvatā: tāvaty eva T. ?’”' Cf. ibid. p. 130 teṣu \[ābhāseṣu\] samāpte vyavahāre ... .
 

@@ -33,7 +33,7 @@ Converted from the PDF on 7 Oct 2026 (PDF text layer (born-digital), PyMuPDF). E
 - [[Tantric Visions of the Divine 14 - The Significance of the Term Mahavidya|The Significance of the Term Mahavidya]] (pp. 57–60)
 - [[Tantric Visions of the Divine 15 - Concluding Observations|Concluding Observations]] (pp. 61–62)
 - [[Tantric Visions of the Divine 16 - PART II The Individual Mahavidyas|PART II The Individual Mahavidyas]] (PDF 73–74)
-- [[Tantric Visions of the Divine 17 - Kali The Black Goddess|Kali : The Black Goddess]] (pp. 75–91)
+- [[Tantric Visions of the Divine 17 - Kali The Black Goddess|Kali : The Black Goddess]] (pp. 68–91)
 - [[Tantric Visions of the Divine 18 - Tara The Goddess Who Guides through Troubles|Tara: The Goddess Who Guides through Troubles]] (pp. 92–111)
 - [[Tantric Visions of the Divine 19 - Tripura-sundari She Who Is Lovely in the Three Worlds|Tripura-sundari: She Who Is Lovely in the Three Worlds]] (pp. 112–128)
 - [[Tantric Visions of the Divine 20 - Bhuvanesvari She Whose Body Is the World|Bhuvanesvari: She Whose Body Is the World]] (pp. 129–143)

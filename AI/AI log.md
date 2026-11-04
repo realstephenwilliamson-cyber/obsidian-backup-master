@@ -7,7 +7,7 @@ What each AI session changed in the vault, newest first, in a few lines: the dat
 
 On 3 Nov 2026, at Stephen's word, the records of the build (6 Oct – 3 Nov 2026) were cut to what a later session will use: this log's earlier entries and the build's reports, decisions and finished prompts went to `.trash`. Their last versions stay in the vault's Git history (for this note: `git log -p -- "AI/AI log.md"`).
 
-**Next free job number: pf742.**
+**Next free job number: pf748.**
 
 ## Open work
 
@@ -28,7 +28,9 @@ Left unfinished on purpose, with where its data is. Each item is a session of it
 - **Done (pf708–pf740; 454 edits in the 10 notes):** definitions 1,157 → 1,344. Footnotes left as plain `N\.` paragraphs (often run together, unnumbered, or under a misread number) made footnotes, their calls taken from the junk after a word (`?5`, `!t8`, `.\*25`) or placed where the print has them; calls that carried a neighbour's label put right (pp. 15, 74, 82, 87, 199, 236, 273, 280, 287, 293, 321, 339, 385); 72's text found at the end of 71's (p. 87) and other merged definitions split; label remnants (`75. 76. 77.`, stray `121\.` lines) taken out, two of which had made the next definition part of a paragraph (pp. 100, 326); footnotes that are drawings marked `*(a drawing in the print)*` (pp. 89, 196–205, 220, 224, 229, 294, 304); on p. 158 words the OCR had moved into the quotation above put back around call 24. Seven footnote texts the OCR had dropped (pp. 13, 14, 55, 63, 77: 13's authors, 14, 11, the end of 37, and 14–16) restored where two blind Sonnet readers wrote the same (they agreed on all seven). A number already taken in a note is `N-pP`, as before.
 - **Left plain on purpose:** footnotes with no call in the print: 18 (p. 15), 89 (p. 35), the second of two notes the print numbers 272 (p. 138). Kept: the print's duplicate 157/158 (p. 354). Not restored: "Ṭīkā" in 109 (p. 40), read as "ikā".
 - **Check (pf741):** all ten notes: calls and definitions paired, all 1,344 definitions in Obsidian's footnote cache, `^pg` blocks, headings and divine-name counts equal to the backups; unresolved links 16 / 30.
-- **Backups:** `.work/backup-finn-2026-11-03n/` and `.work/backup-finn-2026-11-03n-r/` (to `.trash` after the Git commit). **Saved:** the edit lists in `.work/edits/finn-2026-11-03n/`; the scripts in `AI/Prompts/Scripts/Footnotes and endnotes/finn-2026-11-03n/` ([[Finn footnotes README (3 Nov 2026)]]).
+- **Git (pf744):** committed and pushed (65cf9e51); the backups and this session's job files then went to `.trash/work-finn-2026-11-03n/`.
+- **Page labels (the prompt's Task B):** not started. Of the 80 held entries, only 14 (seven range and index-label pairs: Malini Vijayottara 03, *Technics and Time* 05, *The Ritual of Battle* 01, Hirschi 11, Cyril on John I 02 and 18, *Cyclonopedia* 05) rest on end pages never read or read "unclear"; the other 66 rest on pages that print no number, which Stephen's rule leaves held. The SDK 2 prompt's *Status* has the list.
+- **Backups:** `.work/backup-finn-2026-11-03n/` and `.work/backup-finn-2026-11-03n-r/`, now in `.trash/work-finn-2026-11-03n/`. **Saved:** the edit lists in `.work/edits/finn-2026-11-03n/`; the scripts in `AI/Prompts/Scripts/Footnotes and endnotes/finn-2026-11-03n/` ([[Finn footnotes README (3 Nov 2026)]]).
 
 ## 3 Nov 2026 (evening, 19:22–19:40): Finn's 13 `<sup>` remnants and the footnotes of their pages (Opus lead in the cloud)
 

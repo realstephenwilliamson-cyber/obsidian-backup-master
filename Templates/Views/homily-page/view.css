@@ -1,0 +1,19 @@
+/* Homily page (Templates/Views/homily-page), 5 Nov 2026. Loaded by Dataview with view.js. */
+.hp-page { margin-bottom: 1.5em; }
+.hp-page .hp-h2 { margin-top: 1.4em; }
+.hp-page .hp-h3 { margin: 1em 0 .35em; }
+.hp-page p { margin: 0; }
+.hp-page .hp-collect p + p { margin-top: .5em; }
+.hp-page .hp-verse { margin: .2em 0; line-height: 1.55; }
+.hp-page .hp-vn { font-size: .72em; font-weight: 600; margin-right: .3em; vertical-align: .15em; }
+.hp-page .hp-vn a { color: var(--text-muted); text-decoration: none; }
+.hp-page .hp-fn { font-size: .7em; color: var(--text-accent); margin-left: .05em; }
+.hp-page .hp-notes { margin-top: .5em; padding-top: .3em; border-top: 1px solid var(--background-modifier-border); font-size: .85em; color: var(--text-muted); }
+.hp-page .hp-note { margin: .1em 0; }
+.hp-page .hp-aside, .hp-page .hp-notice { font-size: .85em; color: var(--text-muted); margin: .4em 0; }
+.hp-page .hp-about { margin: .4em 0 .6em; }
+.hp-page .hp-error { color: var(--text-error); border-left: 3px solid var(--text-error); padding: .2em .6em; margin: .3em 0; }
+@media print {
+  .hp-page .hp-vn a { color: inherit; }
+  .hp-page .hp-notes { color: inherit; }
+}

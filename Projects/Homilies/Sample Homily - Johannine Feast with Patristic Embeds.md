@@ -40,6 +40,12 @@ tags:
 
 ---
 
+```dataviewjs
+await dv.view("Templates/Views/homily-page")
+```
+
+---
+
 ## Homiletical Proclamation (*Praedicatio*)
 
 > [!reflection] The Door of Humility

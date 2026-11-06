@@ -1,7 +1,7 @@
 ---
 type: list
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 # Open items
 
@@ -20,4 +20,6 @@ Stephen's open to-dos for the vault: settings and decisions only he can make (an
 - [ ] Save a *Study session* workspace layout on the laptop — [[AI/Plugin steps for Stephen (26 Oct 2026)#2. A Study session workspace layout (D7)|the layout and seven steps]] (26 Oct 2026, D7).
 - [ ] CIS answer keys, Chapter 4 onward: get the ready-made answer keys and convert them into notes like *CIS - Answers to Chapter 3 Exercises (Ruppel)* (put the files in *Add to Obsidian*; the prompt *Add new files from Downloads* converts them). This replaces the tweak T21 proposed on 21 Oct (Stephen, 27 Oct 2026).
 - [x] Home: check the new *CIS minutes* line under the Sanskrit links — two dropdowns (M/W/F and T/Th, 5–45) that set `cis_mwf` and `cis_tth` in [[CIS study plan]]; they should show 15 and 5 now (26 Oct 2026, D2; an AI's render check could not see them). ✅ 2026-10-26
-- [ ] Homily pages as an assembled view (idea, 28 Oct 2026). Embedded verses show their footnote calls as bare numbers (Rev 7:16 on the 1 Nov homily: “heat.’14”): inside an embed the call is plain text with no element around it (job pf543), so a CSS snippet cannot hide it. The idea: the homily note keeps only its properties (date, occasion, feast or Sunday, stage) and your writing; a view builds the collect, the readings with their footnotes as letters and notes (as *New Testament View* does), the Prayer Book psalm and the earlier homilies each time the note is opened, taking the verse list from the RCL note's *Readings* section so the checked Hebrew/English verse remaps are kept. To decide first: the layout (a view cannot hold an editable column: the draft below the view, or a two-pane workspace), old homilies then showing corrected texts, Dataview on the phone and tablet, printing; start from a mock-up. The RCL notes themselves would still show the numbers.
+- [x] Homily pages as an assembled view (idea, 28 Oct 2026): first version built 5 Nov 2026. The homily note keeps its properties and your writing; the view `Templates/Views/homily-page` draws the collect, the readings with lettered footnotes, the Prayer Book psalm and the earlier homilies (page above, writing below; both templates). The glossed version you chose (JANT notes, the Fathers and parallels, as in *New Testament View*) is on the [[AI log]]'s *Open work*, to start from a mock-up. ✅ 2026-11-05
+- [x] Two homily notes kept on 5 Nov 2026 when the placeholders were trashed, `2026-10-04 Proper 22A` and *Sample Homily - Johannine Feast with Patristic Embeds*: changed to the new page the same evening (Stephen: keep all prose). ✅ 2026-11-05
+- [ ] Look at the new homily page on the phone and the tablet, and try *Export to PDF* on the laptop if you print your manuscripts (neither could be tested from the runner, 5 Nov 2026).

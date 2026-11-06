@@ -43,6 +43,8 @@ Write: cha::छ
 
 ## Practice
 
+ ![InkWriting](<Study/Sanskrit/Flashcards/Attachments/Ink/Writing/2026.11.5 - 17.29pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=3.810)
+
 Write the glyph by hand here: *Ink: New handwriting section* on a pen device; one device per section, and let it sync before another device opens it.
 
 ---

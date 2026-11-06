@@ -3,8 +3,9 @@
 // HOMILY (POLYPHONIC) TEMPLATE — read me (for Stephen; 21 Oct 2026)
 // What it makes: a homily note that sets the Sunday's or feast's readings beside the week's parashah with Rashi, Mei
 //   HaShiloach and the Zohar (drawn by the view Templates/Views/homily-parashah from the note's parashah property): the
-//   occasion box, the collect, the readings, the Prayer Book's psalm, a box of fixed links (patristic and canonical echoes),
-//   headings for your notes on each reading, and a Homiletical Draft section. It names and files itself:
+//   occasion box, a box of fixed links (patristic and canonical echoes), the view that draws the collect, the readings, the
+//   Prayer Book's psalm and the earlier homilies (Templates/Views/homily-page, 5 Nov 2026), headings for your notes on each
+//   reading, and a Homiletical Draft section. It names and files itself:
 //   "<date> <occasion> (polyphonic)" in the homilies folder.
 // When it runs: the command "Templater: Create new note from template" → Homily (Polyphonic), from anywhere (a new note
 //   made directly in Projects/Homilies gets the ordinary Homily template instead). It asks for the Sunday or feast and the
@@ -82,12 +83,6 @@ const occFile = occ ? app.metadataCache.getFirstLinkpathDest(occ, "") : null;
 // complementary ones, by the note's own headings; the second reading and gospel are the same in both tracks. A feast's readings are not
 // affected. No `psalm_bcp_complementary` exists yet, so a part of a psalm shows as a link to the Prayer Book psalm until one is added.
 const t2 = f => f && f.first_reading_complementary ? Object.assign({}, f, { first_reading: f.first_reading_complementary, psalm: f.psalm_complementary, psalm_bcp: f.psalm_bcp_complementary, track2: true }) : f;
-const track2Embeds = n => { // the four sections, each by the lectionary note's own heading
-  const f = n ? app.metadataCache.getFirstLinkpathDest(n, "") : null; if (!f) return null;
-  const hs = (app.metadataCache.getFileCache(f)?.headings ?? []).map(h => h.heading), find = p => hs.find(h => h.startsWith(p));
-  const h = [find("First reading (complementary)"), find("Psalm (complementary)"), find("Second reading"), find("Gospel")];
-  return h.every(Boolean) ? h.map(x => emb(`${n}#${x}`)).join("\n") : null;
-};
 const fm = t2(fmOf(occ));
 const year = /^Year [ABC]$/.test(occFile?.parent?.name ?? "") ? occFile.parent.name.slice(-1) : "";
 const base = year && occ.endsWith(year) ? occ.slice(0, -1) : occ;
@@ -97,56 +92,12 @@ const feastLessons = use !== "sunday" && feastC && !rclFeast && feastC.meta ? hd
 const readings = [...["first_reading", "psalm", "second_reading", "gospel"].map(k => fm[k]), ...(use === "both" && feastFm ? ["first_reading", "psalm", "second_reading", "gospel"].map(k => feastFm[k]) : []), ...feastLessons.map(l => l.label)].filter(Boolean);
 const q = s => `"${String(s).replace(/"/g, '\\"')}"`;
 const wl = (t, a) => "[" + "[" + t + (a ? "|" + a : "") + "]" + "]"; // a wikilink, written so that Obsidian does not list this template's placeholders as unresolved
-// The collect of the day and the psalm as the Prayer Book prints it (phase 3 of the October plan), from the lectionary
-// note's `collect` (links to the collects in the BCP 1979's "03 The Collects") and `psalm_bcp` (the psalm in the Prayer
-// Book's own verse numbers). Without `psalm_bcp` a whole psalm is still shown (it needs no renumbering); part of a psalm gets a link.
-const emb = t => "!" + "[" + "[" + t + "]" + "]"; // an embed, written so that this template shows no unresolved link
 const lnk = (t, a) => "[" + "[" + t + (a ? "|" + a : "") + "]" + "]";
-const collectsOf = f => [].concat(f.collect ?? []).filter(Boolean).map(s => String(s).replace(/^!?\[\[|\]\]$/g, "").split("|")[0]);
-const bcpPsalm = n => `BCP Psalm ${String(n).padStart(3, "0")}`;
-const psalmParts = s => String(s ?? "").split(/ or | and /).map(p => p.trim().replace(/^(?=\d+(?::|$))/, "Psalm ")).filter(p => /^Psalm \d/.test(p));
-const bcpVerses = c => { // "Psalm 90:1-6, 13-17" or "Psalm 23" -> one embed per verse; a half verse (35b) or an optional part ("(19-22)") shows whole verses
-  const m = c.match(/^Psalm (\d+)(?::(.+))?$/);
-  const f = m ? app.metadataCache.getFirstLinkpathDest(bcpPsalm(+m[1]), "") : null;
-  if (!f) return "";
-  const range = (a, b) => Array.from({ length: b - a + 1 }, (_, i) => a + i);
-  const vs = m[2] ? m[2].split(",").flatMap(p => { const r = p.replace(/[\s()]/g, "").match(/^(\d+)[a-c]?(?:-(\d+)[a-c]?)?$/); return r ? range(+r[1], +(r[2] || r[1])) : []; })
-    : range(1, +(app.metadataCache.getFileCache(f)?.frontmatter?.verses || 0));
-  return vs.map(v => emb(`${f.basename}#^${+m[1]}-${v}`)).join("\n");
-};
-const psalmOf = f => {
-  const psalmBcp = f.psalm_bcp ? psalmParts(f.psalm_bcp) : psalmParts(f.psalm).every(p => /^Psalm \d+$/.test(p)) ? psalmParts(f.psalm) : [];
-  let out = psalmBcp.map(p => [p, bcpVerses(p)]).filter(x => x[1]).map(([p, e]) => `#### ${p}\n\n${e}\n\n`).join("");
-  if (!out && psalmParts(f.psalm).length) out = `The lectionary gives ${f.psalm} in the verse numbers of English Bibles; the Prayer Book numbers some psalms differently. ` +
-    psalmParts(f.psalm).map(p => lnk(bcpPsalm(+p.match(/\d+/)[0]), p.replace(/:.*/, "") + " in the Prayer Book")).join(" · ") + "\n\n";
-  return out;
-};
-// The Prayer Book's own collect, lessons and psalm for a Holy Day with no RCL note (from the Holy Days table)
-const bcpCollect = c => emb(`${hd.CONT}#^${c.meta.anchor}`) + (c.meta.preface ? `\n\n*${c.meta.preface}*` : "") + `\n\n*In traditional language:* ` + lnk(`${hd.TRAD}#^${c.meta.anchor}`, "the collect, traditional") + "\n\n";
-const bcpReadings = c => {
-  let s = ""; const miss = [];
-  for (const l of hd.lessonsOf(c.meta.lessons, 0)) {
-    s += `### ${l.label}\n\n`;
-    for (const a of l.alts) {
-      if (l.alts.length > 1) s += `*${a.label}*\n\n`;
-      const r = hd.verseEmbeds(a);
-      s += r.embeds.length ? r.embeds.map(emb).join("\n") + "\n\n" : (a.target ? lnk(a.target, a.label) + "\n\n" : "");
-      if (r.missing.length) miss.push(`${a.label}: ${r.missing.join(", ")}`);
-    }
-  }
-  if (hd.setsOf(c.meta.lessons).length > 1) s += `*The Prayer Book gives a second set: ${hd.lessonsOf(c.meta.lessons, 1).map(x => x.label).join("; ")}.*\n\n`;
-  return s + (miss.length ? `*Not shown as text (no verse note): ${miss.join("; ")}.*\n\n` : "");
-};
-const feastPsalmFm = c => { const first = hd.plain(c.meta.psalm).split(" or ")[0].trim(); return { psalm: first, psalm_bcp: first }; };
 // the parts: the Sunday's (or the day's) and the feast's; "both" gives the Sunday's first
 const parts = [];
 if (use !== "feast" || !feastC) parts.push({ sunday: true, occ, fm, title: "" });
 if (use !== "sunday" && feastC) parts.push({ sunday: false, occ: rclFeast, fm: feastFm || {}, title: feastC.title, bcp: !rclFeast });
 const two = parts.length > 1;
-const sundayPart = parts.find(p => p.sunday), feastPart = parts.find(p => !p.sunday);
-const keepSunday = !!sundayPart || (feastPart && sundayOcc && ["optional", "after"].includes(hdKind));
-const psalmFm = sundayPart ? sundayPart.fm : keepSunday ? t2(fmOf(sundayOcc)) : feastPart && feastPart.bcp ? feastPsalmFm(feastC) : feastPart ? feastPart.fm : {};
-const psalmOut = psalmOf(psalmFm);
 let out = ["---", "cssclasses:", "  - manuscript", "type: homily", "stage: drafting", `occasion: ${bcpFeast ? q(lnk(hd.TABLE)) : occ ? q(wl(occ)) : '""'}`,
   ...(feastC && use !== "sunday" ? [`feast: ${q(feastC.title)}`, `propers: ${use}`] : []),
   `date: ${date || ""}`, `rcl_year: ${q(bcpFeast ? hd.rclYear(hd.DO.parseISO(date)) : fm.cycle ?? year)}`,
@@ -163,19 +114,11 @@ out += "> [!hermeneutics]+ Patristic & Canonical Echoes\n";
 out += "> - **Johannine Patristics:** [[Augustine - Tractates on John|Augustine's Tractates]] · [[Catena Aurea on John - page map|Aquinas (Catena Aurea)]]\n";
 out += "> - **Psalter Crosswalk:** [[Texts/Crosswalks/Psalms numbering|Psalms Numbering Crosswalk]] · [[BCP - Concerning the Psalter|BCP 1979 Psalter]]\n";
 out += "> - **Relevant Conceptual Hubs:** [[Hub - Gospel of John|Gospel of John]] · [[Hub - Technics, memory and the Leviathan|Technics & Leviathan]]\n\n---\n\n";
-for (const p of parts) {
-  const tag = two ? `: ${p.sunday ? "the Sunday" : p.title}` : "";
-  if (p.bcp) out += `## Collect of the Day${tag}\n\n${bcpCollect(feastC)}---\n\n`;
-  else { const cs = collectsOf(p.fm); if (cs.length) out += `## Collect of the Day${tag}\n\n` + cs.map(emb).join("\n\n*or this*\n\n") + "\n\n---\n\n"; }
-}
+// The collect, the readings, the psalm in the Prayer Book and the earlier homilies are not written into the note: the view
+// Templates/Views/homily-page draws them each time the note is shown, from the properties above (5 Nov 2026, Stephen: the
+// note keeps only its properties and your writing). The headings below are for your notes on each reading.
+out += "```dataviewjs\nawait dv.view(\"Templates/Views/homily-page\")\n```\n\n---\n\n";
 out += "## Readings & Exegetical Notes\n\n";
-for (const p of parts) {
-  const tag = two ? `### Readings: ${p.sunday ? "the Sunday" : p.title}\n\n` : "";
-  const t2e = !p.bcp && p.occ && p.sunday && p.fm.track2 ? track2Embeds(p.occ) : null;
-  out += p.bcp ? tag + bcpReadings(feastC) : p.occ ? tag + (t2e ? "*The complementary track (Track 2), as read after Pentecost.*\n\n" + t2e : "!" + wl(p.occ + "#Readings")) + "\n\n" : "";
-}
-if (psalmOut) out += `### Psalm in the Prayer Book${feastPart && keepSunday ? " (the Sunday's)" : ""}\n\n` + psalmOut;
-if (feastPart && keepSunday && feastC.meta) out += `The feast's psalm in the Prayer Book: ${feastC.meta.psalm}\n\n`;
 out += "### First Reading (Hebrew Bible / Old Testament)\n\n\n\n### Psalm\n\n\n\n### Second Reading (Epistle)\n\n\n\n### The Holy Gospel\n\n\n\n---\n\n";
 out += "## Homiletical Draft\n\n> [!reflection] The Proclamation (*Praedicatio*)\n> \n\n- claim:: \n- cites:: \n";
 const name = `${date || moment().format("YYYY-MM-DD")} ${label} (polyphonic)`;

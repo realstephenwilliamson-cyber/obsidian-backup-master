@@ -7,7 +7,7 @@ What each AI session changed in the vault, newest first, in a few lines: the dat
 
 On 3 Nov 2026, at Stephen's word, the records of the build (6 Oct – 3 Nov 2026) were cut to what a later session will use: this log's earlier entries and the build's reports, decisions and finished prompts went to `.trash`. Their last versions stay in the vault's Git history (for this note: `git log -p -- "AI/AI log.md"`).
 
-**Next free job number: pf778.**
+**Next free job number: pf789.**
 
 ## Open work
 
@@ -20,7 +20,18 @@ Left unfinished on purpose, with where its data is. Each item is a session of it
 - **Page labels:** what the two 3 Nov night sessions left (`.work/edits/pagelabels-2026-11/README-pl-2026-11-03n2.txt`, *Left*): Ganapati (Grimes), whose PDF is a web-page capture with `page_N` labels and no printed folios, so it needs a rule from Stephen for which label a PDF page takes; Kinsley's folios in a heavy face (PDF 57–62, 148, 164, 244, and the ranges of notes 12, 20, 21, 28); Idel's two-page spreads; the ranges of Coburn 18 and Vasudeva 02; a few single pages in Hirschi and *Cyclonopedia*. Also the misread page numbers the audit's D-06 left and Śivādvaita Nirṇaya (Devanagari page numbers; a plan for the whole book): the *Status* of [[SDK 2 - Page labels, held and misread (Nov 2026)]]; data `.work/edits/audcorr-2026-11-03/`.
 - **Homily page, glossed version** (Stephen's choice, 5 Nov 2026): the JANT notes, the Fathers and the parallels beside the readings, as in *New Testament View* (`nt-page`); start from a mock-up he approves. The page is `Templates/Views/homily-page/` (first version 5 Nov 2026); homily notes made since then pick up a new version without being changed. Render test template: `.work/edits/homily-page-render.tpl.js`.
 - The two SDK prompts were written for the Agent SDK on the laptop; a chat session can follow their scope and method and skip the launch steps.
+- **Works the JANT cites that are not in the vault** (7 Nov 2026): 1 Enoch, which Stephen wants in the vault (text not yet chosen: Charles 1917, public domain, for which Project Gutenberg #77935 appears to be the edition, or a copy he owns; Gutenberg is refused from the cloud, so he downloads it); also Genesis Rabbah and the other midrash, the Mishnah beyond Avot, Tosefta, Yerushalmi, Josephus, Philo, the Qumran texts, Jubilees and the other Pseudepigrapha. Counts and the linker: [[JANT links README (7 Nov 2026)]]; once a text is in, add a category for it to `jantlinks.py` and rerun it (also over the library, which cites 1 Enoch too).
 - **Stephen's own:** [[Open items]]; the Bible references left plain: [[Bible references to decide later]].
+
+## 7 Nov 2026 (night, 23:27–23:55): JANT links to texts in the vault; class notes into the 8 Nov homily (Opus lead in the cloud)
+
+- **Stephen (23:27):** expand the plain references in the JANT notes (a screenshot of 1 Thess 4.15–16 in *New Testament View*); put the notes in *Add to Obsidian* into tomorrow's homily. Runner on, no other AI; meter 12 % of the week on his new, lower paid tier (no Fable).
+- **Homily (pf779; diff approved in chat, 23:38):** `homily-notes-2026-11-08.md` put under *Notes* in `2026-11-08 Proper 27A`, all but its title line (428 → 14,696 characters). The file stays in Downloads; the handouts stay out of the vault (Stephen).
+- **Survey (pf778, read-only):** of the works the excerpt cites, only 4 Ezra is in the vault, as the NRSVue's 2 Esdras; 1 Enoch, Genesis Rabbah, Philo, the Apocalypse of Moses and L.A.E., Jubilees and the Qumran texts are not (file names, titles and aliases searched).
+- **Links (pf780 dry; pf781 and pf784 apply): 1,832 in 260 JANT notes** (annotations and introductions): 4 Ezra, 5–6 Ezra and 2 Esd → NRSVue 2 Esdras (71); Jude, Philemon and 2–3 John cited by verse alone (50); *m. Avot* → Pirkei Avot (85; 3.12 and 3.22 left plain, where the JANT numbers otherwise than the vault); the JANT's own `1.10n.` and `v 8n.` → the annotation they name (890); *see* or *cf.* with a reference in the same book → the verse (736; left plain where the sentence names another work). Every new link was checked against the target's block ids; misprints stay plain (Rev 3.30, Matt 11.31, 19.36, 19.38, Heb "71.29, 32", Luke 10.61). pf781 left 32 good links plain because their target note had just been rewritten (no block cache for a moment); pf784 made them, checking all links before writing any note.
+- **Checks (pf782, pf785):** in every changed note the text with links reduced to their labels equals the backup's, and block ids and frontmatter are unchanged; every block link resolves; unresolved 11 / 17 before and after.
+- **Backups:** `.work/backup-jant-links-2026-11-07/` and `-07b/`, `.work/backup-homily-notes-2026-11-07/` (to `.trash/work-jant-links-2026-11-07/` with the Git job). **Saved:** `AI/Prompts/Scripts/Reference linker/JANT/` (`jantlinks.py`, [[JANT links README (7 Nov 2026)]]); the edit lists in `.work/edits/jant-links-2026-11-07/`.
+- **Left:** 1 Enoch (Stephen: it should be in the vault; "not tonight"), on *Open work*. *Prompts - read me* now says he is on a lower paid tier (his word tonight). **Next free job number pf789.**
 
 ## 5 Nov 2026 (evening, 21:59–22:35): the homily page as a view (Opus lead in the cloud)
 

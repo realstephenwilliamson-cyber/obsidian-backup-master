@@ -20,9 +20,9 @@ Text: [[NRSVue 2 Corinthians 05|NRSVue]] · [[2 Corinthians 05|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 05#^5-4|4]]:** *Unclothed*, we wish not to escape our bodies but to acquire superior, immortal ones. ^5-4
 
-**[[NRSVue 2 Corinthians 05#^5-5|5]]:** *Guarantee*, see 1.22n. ^5-5
+**[[NRSVue 2 Corinthians 05#^5-5|5]]:** *Guarantee*, see [[JANT 2 Corinthians 01#^1-22|1.22n.]] ^5-5
 
-**[[NRSVue 2 Corinthians 05#^5-6|6–8]]:** *While . . . in the body*, see [[Philippians 01#^1-21|Phil 1.21]],[[Philippians 01#^1-23|23]]; the body is a barrier to being fully with Christ. Rabbinic Judaism is more positive about bodily life (see 4.4n.). ^5-6
+**[[NRSVue 2 Corinthians 05#^5-6|6–8]]:** *While . . . in the body*, see [[Philippians 01#^1-21|Phil 1.21]],[[Philippians 01#^1-23|23]]; the body is a barrier to being fully with Christ. Rabbinic Judaism is more positive about bodily life (see [[JANT 2 Corinthians 04#^4-4|4.4n.]]). ^5-6
 
 **[[NRSVue 2 Corinthians 05#^5-10|10]]:** *Judgment* seat, see [[Romans 14#^14-10|Rom 14.10]]. Rabbinic sources commonly speak of God’s seat, or throne, of judgment (see, e.g., *b. Arak*. [[Arakhin 10#10b|10b]], *Lev. Rab*. 29.3,4,6,9). *Receive recompense*, the implication of the body/soul dichotomy for post-mortem judgment is treated by the rabbis; *Mekhilta de R. Ishmael Shirata* 27.2.7 states that, properly to judge an individual’s record, God will reunite the body and soul. ^5-10
 
@@ -30,9 +30,9 @@ Text: [[NRSVue 2 Corinthians 05|NRSVue]] · [[2 Corinthians 05|BSB and SBLGNT]] 
 
 *[[NRSVue 2 Corinthians 05#^5-11|Text]], p. 360* ^5-11
 
-**[[NRSVue 2 Corinthians 05#^5-11|11]]:** *Fear of the Lord*, see 7.1n. *Consciences*, see 1.12; 4.2. ^5-11-2
+**[[NRSVue 2 Corinthians 05#^5-11|11]]:** *Fear of the Lord*, see 7.1n. *Consciences*, see [[2 Corinthians 01#^1-12|1.12]]; 4.2. ^5-11-2
 
-**[[NRSVue 2 Corinthians 05#^5-12|12]]:** *Commending*, see 3.1n. *Boast*, see 1.12n. *Boast in outward appearance* may refer to opponents who advocated circumcision for Gentile church members. Early Jewish writings also distinguish between internal disposition and outer appearances: “one whose inside is not as his outside may not enter the school house” (*b. Ber*. [[Berakhot 28#28a|28a]]). ^5-12
+**[[NRSVue 2 Corinthians 05#^5-12|12]]:** *Commending*, see [[JANT 2 Corinthians 03#^3-1-2|3.1n.]] *Boast*, see [[JANT 2 Corinthians 01#^1-12-3|1.12n.]] *Boast in outward appearance* may refer to opponents who advocated circumcision for Gentile church members. Early Jewish writings also distinguish between internal disposition and outer appearances: “one whose inside is not as his outside may not enter the school house” (*b. Ber*. [[Berakhot 28#28a|28a]]). ^5-12
 
 **[[NRSVue 2 Corinthians 05#^5-13|13]]:** Paul’s opponents may have derided him for an apparent lack of ecstatic experiences (12.1,12); Paul responds by pointing out that he experiences occasions of being *beside ourselves* (lit., “we are ecstatic”) as well as being at times *in our right mind*, that is, not in a state of spiritual ecstasy. Ecstatic experiences reflect the glory of God; but Paul says that he eschews an ecstatic life-style so as to conduct his ministry to the Corinthians and others; cf. [[1 Corinthians 14#^14-2|1 Cor 14.2–5]],[[1 Corinthians 14#^14-18|18–19]],[[1 Corinthians 14#^14-27|27–28]]. Paul’s thinking parallels rabbinic Judaism’s generally negative attitude toward ecstatic experiences (*m. Hag*. 2.1; *b. Hag*. [[Chagigah 14#14b|14b]]) and recalls the rabbis’ focus upon leadership that promotes communal welfare (e.g., *b. B. Kamma* 80b; *b. Sanh*. [[Sanhedrin 24#24b|24b]]; *b. Arak.* [[Arakhin 2#2b|2b]]). But other perspectives also existed, represented, e.g., in the Merkavah and Hekhalot mysticisms of this same period. ^5-13
 

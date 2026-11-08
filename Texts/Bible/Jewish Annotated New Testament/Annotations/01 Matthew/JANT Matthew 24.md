@@ -18,19 +18,19 @@ Text: [[NRSVue Matthew 24|NRSVue]] · [[Matthew 24|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 24#^24-1|1–2]]:** *All will be thrown down*, evoking prophetic threats against the Temple (e.g., [[Jeremiah 26#^26-4|Jer 26.4–6]]; [[Micah 3#^3-12|Mic 3.12]]; see also [[Matthew 26#^26-67|Matt 26.67]]; [[Matthew 27#^27-40|27.40]]; [[Acts 06#^6-14|Acts 6.14]]; [[LXX 2 Maccabees 02#^2-22|2 Macc 2.22]]; Josephus, *J.W*. 6.267; 1QpHab 9.6–7; *b. Sukk.* [[Sukkah 51#51b|51b]]). Temple renovations begun by Herod the Great ca. 19 BCE were not completed in Jesus’ time. ^24-1-2
 
-**[[NRSVue Matthew 24#^24-3|3]]:** *Mount of Olives*, see 21.1n.; the Temple could be seen from there. *Sign*, like the Pharisees, the disciples seek a sign; Jesus offers a prediction. *Your coming*, Gk “parousia,” a term associated with military and imperial parades. Among Jesus’ followers, it came to mean Jesus’ return to inaugurate the final judgment and the full messianic age (e.g., [[1 Thessalonians 02#^2-19|1 Thess 2.19]]). ^24-3
+**[[NRSVue Matthew 24#^24-3|3]]:** *Mount of Olives*, see [[JANT Matthew 21#^21-1-2|21.1n.]]; the Temple could be seen from there. *Sign*, like the Pharisees, the disciples seek a sign; Jesus offers a prediction. *Your coming*, Gk “parousia,” a term associated with military and imperial parades. Among Jesus’ followers, it came to mean Jesus’ return to inaugurate the final judgment and the full messianic age (e.g., [[1 Thessalonians 02#^2-19|1 Thess 2.19]]). ^24-3
 
-**[[NRSVue Matthew 24#^24-5|5]]:** *I am the Messiah*, see 7.15n. on false prophets. Josephus lists several first-century messianic claimants (*J.W.* 6.259–63; 288). See “Messianic Movements,” p. 622. ^24-5
+**[[NRSVue Matthew 24#^24-5|5]]:** *I am the Messiah*, see [[JANT Matthew 07#^7-15|7.15n.]] on false prophets. Josephus lists several first-century messianic claimants (*J.W.* 6.259–63; 288). See “Messianic Movements,” p. 622. ^24-5
 
-**[[NRSVue Matthew 24#^24-6|6]]:** *Rumors of wars*, see [[Isaiah 19#^19-1|Isa 19.1–4]]; [[Jeremiah 51#^51-46|Jer 51.46]]; [[Zechariah 14#^14-1|Zech 14.1–37]]; [[Daniel 07#^7-21|Dan 7.21]]; [[Daniel 09#^9-26|9.26]]; 11; see also [[Revelation 06#^6-4|Rev 6.4]],[[Revelation 06#^6-12|12–17]]; *Pss. Sol*. 15.7–15; *2 Bar*. 27.3–5; *4 Ezra* \[2 Esd\] 13.31–32; *Sib. Or*. 3.635–51. ^24-6
+**[[NRSVue Matthew 24#^24-6|6]]:** *Rumors of wars*, see [[Isaiah 19#^19-1|Isa 19.1–4]]; [[Jeremiah 51#^51-46|Jer 51.46]]; [[Zechariah 14#^14-1|Zech 14.1–37]]; [[Daniel 07#^7-21|Dan 7.21]]; [[Daniel 09#^9-26|9.26]]; 11; see also [[Revelation 06#^6-4|Rev 6.4]],[[Revelation 06#^6-12|12–17]]; *Pss. Sol*. 15.7–15; *2 Bar*. 27.3–5; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 13#^13-31|13.31–32]]; *Sib. Or*. 3.635–51. ^24-6
 
-**[[NRSVue Matthew 24#^24-8|8]]:** *Birth pangs*, [[Isaiah 26#^26-17|Isa 26.17]]; [[Daniel 02#^2-28|Dan 2.28]]; *4 Ezra* \[2 Esd\] 13.31–32; see also [[Joel 2#^2-10|Joel 2.10–11]]; Am 4.6–13; [[Zechariah 14#^14-5|Zech 14.5]]; [[Revelation 06#^6-8|Rev 6.8]]; [[Revelation 18#^18-8|18.8]]; *2 Bar*. 27.6; 70.8; *m. Ber*. 9.2; *b. Ber*. [[Berakhot 55#55a|55a]]. ^24-8
+**[[NRSVue Matthew 24#^24-8|8]]:** *Birth pangs*, [[Isaiah 26#^26-17|Isa 26.17]]; [[Daniel 02#^2-28|Dan 2.28]]; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 13#^13-31|13.31–32]]; see also [[Joel 2#^2-10|Joel 2.10–11]]; Am 4.6–13; [[Zechariah 14#^14-5|Zech 14.5]]; [[Revelation 06#^6-8|Rev 6.8]]; [[Revelation 18#^18-8|18.8]]; *2 Bar*. 27.6; 70.8; *m. Ber*. 9.2; *b. Ber*. [[Berakhot 55#55a|55a]]. ^24-8
 
-**[[NRSVue Matthew 24#^24-9|9]]:** *Hand you over*, 10.16–25n.; 16.24n.; [[John 15#^15-18|Jn 15.18–21]]. ^24-9
+**[[NRSVue Matthew 24#^24-9|9]]:** *Hand you over*, [[JANT Matthew 10#^10-16-2|10.16–25n.]]; [[JANT Matthew 16#^16-24-2|16.24n.]]; [[John 15#^15-18|Jn 15.18–21]]. ^24-9
 
-**[[NRSVue Matthew 24#^24-10|10–12]]:** *Will betray one another*, see 18.6n. ^24-10
+**[[NRSVue Matthew 24#^24-10|10–12]]:** *Will betray one another*, see [[JANT Matthew 18#^18-6-2|18.6n.]] ^24-10
 
-**[[NRSVue Matthew 24#^24-14|14]]:** *All the nations*, Both Jews and Gentiles (see 8.10n.; 9.17; 15.28; 18.6; 21.21; 28.19). Matthew defers the eschaton until the world is evangelized (see 28.19–20n.). Jewish sources link the eschaton to the obedience and repentance of Israel; see [[Ezekiel 36#^36-24|Ezek 36.24–29]]; [[Daniel 12#^12-12|Dan 12.12–13]]; [[LXX Tobit 13#^13-6|Tob 13.6]]; *b. Bat*. 10a; *b. Ned*. [[Nedarim 13#13b|13b]]. ^24-14
+**[[NRSVue Matthew 24#^24-14|14]]:** *All the nations*, Both Jews and Gentiles (see [[JANT Matthew 08#^8-10|8.10n.]]; [[Matthew 09#^9-17|9.17]]; [[Matthew 15#^15-28|15.28]]; [[Matthew 18#^18-6|18.6]]; [[Matthew 21#^21-21|21.21]]; [[Matthew 28#^28-19|28.19]]). Matthew defers the eschaton until the world is evangelized (see [[JANT Matthew 28#^28-19|28.19–20n.]]). Jewish sources link the eschaton to the obedience and repentance of Israel; see [[Ezekiel 36#^36-24|Ezek 36.24–29]]; [[Daniel 12#^12-12|Dan 12.12–13]]; [[LXX Tobit 13#^13-6|Tob 13.6]]; *b. Bat*. 10a; *b. Ned*. [[Nedarim 13#13b|13b]]. ^24-14
 
 ### 24.15–35: The coming of the Son of Man
 
@@ -40,21 +40,21 @@ Text: [[NRSVue Matthew 24|NRSVue]] · [[Matthew 24|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 24#^24-16|16]]:** *Flee*, Matthew may be referencing the revolt of 66–70 CE when Jews fled Jerusalem (Eusebius, *Hist. eccl*. 3.5.3); see also [[Zechariah 14#^14-5|Zech 14.5]]. ^24-16
 
-**[[NRSVue Matthew 24#^24-20|20]]:** *On a sabbath*, in Jewish law, breaking Sabbath laws is permissible to preserve life (see 12.1n.; [[LXX 1 Maccabees 02#^2-41|1 Macc 2.41]] *b. Shabb.* [[Shabbat 128#128b|128b]]; *b. Yoma* [[Yoma 85#85a|85a]]-b). ^24-20
+**[[NRSVue Matthew 24#^24-20|20]]:** *On a sabbath*, in Jewish law, breaking Sabbath laws is permissible to preserve life (see [[JANT Matthew 12#^12-1-2|12.1n.]]; [[LXX 1 Maccabees 02#^2-41|1 Macc 2.41]] *b. Shabb.* [[Shabbat 128#128b|128b]]; *b. Yoma* [[Yoma 85#85a|85a]]-b). ^24-20
 
 **[[NRSVue Matthew 24#^24-21|21–22]]:** See [[Joel 2#^2-2|Joel 2.2]]; [[Daniel 12#^12-1|Dan 12.1]]. *Elect*, for Matthew, faithful church members ([[Torah 17 - Yitro#^19-16|Ex 19.16]]; [[Torah 51 - Nitzavim#^30-3|Deut 30.3–4]]; [[Isaiah 11#^11-11|Isa 11.11]],[[Isaiah 11#^11-16|16]]; [[Isaiah 18#^18-3|18.3]]; [[Isaiah 27#^27-13|27.13]]; [[Ezekiel 39#^39-27|Ezek 39.27]]). *Days will be cut short*, [[LXX Sirach 36#^36-8|Sir 36.8]]; *2 Bar*. 20.1-2; 54.1; 83.1; *4 Ezra* \[2 Esd\] 4.26. ^24-21
 
-**[[NRSVue Matthew 24#^24-23|23–24]]:** See 24.5n. ^24-23
+**[[NRSVue Matthew 24#^24-23|23–24]]:** See [[JANT Matthew 24#^24-5|24.5n.]] ^24-23
 
 **[[NRSVue Matthew 24#^24-28|28]]:** *Vultures*, Gk “aetoi,” lit., “eagles”; perhaps referring to Roman troops. ^24-28
 
 **[[NRSVue Matthew 24#^24-29|29]]:** [[Isaiah 19#^19-10|Isa 19.10]]; [[Ezekiel 32#^32-7|Ezek 32.7]]; [[Joel 2#^2-10|Joel 2.10–11]]; Am 8.9; [[Zephaniah 1#^1-15|Zeph 1.15]]. ^24-29
 
-**[[NRSVue Matthew 24#^24-30|30]]:** *Sign*, i.e., the coming of the Son of Man, who is his own sign. *Son of Man coming on the clouds*, see 8.20n.; 10.23n.; 26.64; [[Daniel 07#^7-13|Dan 7.13–14]]; [[1 Thessalonians 04#^4-16|1 Thess 4.16]]. ^24-30
+**[[NRSVue Matthew 24#^24-30|30]]:** *Sign*, i.e., the coming of the Son of Man, who is his own sign. *Son of Man coming on the clouds*, see [[JANT Matthew 08#^8-20|8.20n.]]; [[JANT Matthew 10#^10-23|10.23n.]]; [[Matthew 26#^26-64|26.64]]; [[Daniel 07#^7-13|Dan 7.13–14]]; [[1 Thessalonians 04#^4-16|1 Thess 4.16]]. ^24-30
 
 **[[NRSVue Matthew 24#^24-31|31]]:** *Trumpet*, see [[Isaiah 27#^27-13|Isa 27.13]]; [[Zechariah 09#^9-14|Zech 9.14]]. ^24-31
 
-**[[NRSVue Matthew 24#^24-34|34]]:** See 10.23; 16.28n.; 23.36n. *His elect*, see 24.22n. ^24-34
+**[[NRSVue Matthew 24#^24-34|34]]:** See 10.23; [[JANT Matthew 16#^16-28|16.28n.]]; [[JANT Matthew 23#^23-36|23.36n.]] *His elect*, see [[JANT Matthew 24#^24-21|24.22n.]] ^24-34
 
 ### 24.36–44: Watchfulness
 
@@ -78,6 +78,6 @@ Text: [[NRSVue Matthew 24|NRSVue]] · [[Matthew 24|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 24#^24-45|45]]:** *Faithful and wise slave,* community leaders responsible for keeping followers faithful until Jesus’ (the “master’s”) return. *Food*, spiritual nourishment ([[Torah 36 - Beha'alotcha#^11-12|Num 11.12–13]]; [[1 Corinthians 03#^3-1|1 Cor 3.1–3]]; [[2 Timothy 02#^2-15|2 Tim 2.15]]; [[Hebrews 05#^5-12|Heb 5.12]],[[Hebrews 05#^5-14|14]]). ^24-45-2
 
-**[[NRSVue Matthew 24#^24-51|51]]:** See 8.12n.; 13.42,50; 21.41; 22.13; 25.30,41,46. ^24-51
+**[[NRSVue Matthew 24#^24-51|51]]:** See [[JANT Matthew 08#^8-12|8.12n.]]; 13.42,50; 21.41; 22.13; 25.30,41,46. ^24-51
 
 [[JANT Matthew 23|← Matthew 23]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 25|Matthew 25 →]]

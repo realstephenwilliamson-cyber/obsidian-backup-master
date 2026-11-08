@@ -43,7 +43,7 @@ Text: [[NRSVue Romans 04|NRSVue]] · [[Romans 04|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 04#^4-15|15]]:** The God-given convention (of circumcision) brings contempt for those who flaunt it; but where no convention exists, neither does (the judgment) of sidestepping it (on the part of these non-Jews). ^4-15
 
-**[[NRSVue Romans 04#^4-16|16–17]]:** Those who follow Abraham’s example of trusting God’s word, i.e., who are faithful, are his promised descendants. Cf. [[LXX 2 Maccabees 07#^7-28|2 Macc 7.28]]. Here Paul works with the concept of the “covenants of the fathers” (see 11.28–29; [[Torah 33 - Bechukotai#^26-40|Lev 26.40–45]]), that is, with Abraham and his descendants inheriting what was promised, which for Paul includes those from the other nations who are now turning to God in Christ as well as those who have been faithful to God as Israelites all along. ^4-16
+**[[NRSVue Romans 04#^4-16|16–17]]:** Those who follow Abraham’s example of trusting God’s word, i.e., who are faithful, are his promised descendants. Cf. [[LXX 2 Maccabees 07#^7-28|2 Macc 7.28]]. Here Paul works with the concept of the “covenants of the fathers” (see [[Romans 11#^11-28|11.28–29]]; [[Torah 33 - Bechukotai#^26-40|Lev 26.40–45]]), that is, with Abraham and his descendants inheriting what was promised, which for Paul includes those from the other nations who are now turning to God in Christ as well as those who have been faithful to God as Israelites all along. ^4-16
 
 **[[NRSVue Romans 04#^4-16|16]]:** *It*, i.e., the promised inheritance; *faith*, or faithfulness; *descendants*, lit., “seed”; *not only to the adherents of the law,* or not only for the ones (deriving identity) from the convention (of circumcision); *adherents*, not in Gk. ^4-16-2
 

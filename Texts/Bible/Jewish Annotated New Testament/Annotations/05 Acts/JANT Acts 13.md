@@ -18,7 +18,7 @@ Text: [[NRSVue Acts 13|NRSVue]] · [[Acts 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 13#^13-1|1–3]]:** The church in Antioch.  ^13-1-2
 
-**[[NRSVue Acts 13#^13-1|1]]:** *Prophets*, see 11.27. *Barnabas*, see 4.36n. *Herod the ruler*, Gk “tetrarch,” signifying Herod Antipas, son of Herod the Great and tetrarch of Galilee and Perea 6–37 CE On Luke’s presentation of Antipas, see [[Luke 23#^23-8|Lk 23.8–11]]. ^13-1-3
+**[[NRSVue Acts 13#^13-1|1]]:** *Prophets*, see 11.27. *Barnabas*, see [[JANT Acts 04#^4-36|4.36n.]] *Herod the ruler*, Gk “tetrarch,” signifying Herod Antipas, son of Herod the Great and tetrarch of Galilee and Perea 6–37 CE On Luke’s presentation of Antipas, see [[Luke 23#^23-8|Lk 23.8–11]]. ^13-1-3
 
 **[[NRSVue Acts 13#^13-2|2]]:** *Holy Spirit*, see 8.29; 10.19; 13.4; 16.6,7. ^13-2
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Acts 13|NRSVue]] · [[Acts 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 13#^13-8|8]]:** *Elymas*, meaning uncertain. ^13-8
 
-**[[NRSVue Acts 13#^13-9|9]]:** *Saul, also known as Paul*, here, and for most of the rest of Acts, the name Paul is used. Luke may have preferred the Hebrew name Saul to this point to emphasize Paul’s Jewish background. *Intently*, see 3.4n. ^13-9
+**[[NRSVue Acts 13#^13-9|9]]:** *Saul, also known as Paul*, here, and for most of the rest of Acts, the name Paul is used. Luke may have preferred the Hebrew name Saul to this point to emphasize Paul’s Jewish background. *Intently*, see [[JANT Acts 03#^3-4|3.4n.]] ^13-9
 
 **[[NRSVue Acts 13#^13-10|10]]:** *Son of the devil*, Elymas is the son not of Jesus but of Satan (see [[John 08#^8-44|Jn 8.44]]). ^13-10
 
@@ -76,9 +76,9 @@ Text: [[NRSVue Acts 13|NRSVue]] · [[Acts 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 13#^13-25|25]]:** See [[Luke 03#^3-16|Lk 3.16]]. ^13-25
 
-**[[NRSVue Acts 13#^13-27|27]]:** *Did not recognize him*, see 3.17. *Condemning him,* Jews are responsible for killing Jesus (see 2.23). ^13-27
+**[[NRSVue Acts 13#^13-27|27]]:** *Did not recognize him*, see 3.17. *Condemning him,* Jews are responsible for killing Jesus (see [[Acts 02#^2-23|2.23]]). ^13-27
 
-**[[NRSVue Acts 13#^13-28|28]]:** *No cause*, see [[Luke 23#^23-4|Lk 23.4]],[[Luke 23#^23-14|14–15]],[[Luke 23#^23-22|22]],[[Luke 23#^23-47|47]]. *Pilate*, see 3.13n. ^13-28
+**[[NRSVue Acts 13#^13-28|28]]:** *No cause*, see [[Luke 23#^23-4|Lk 23.4]],[[Luke 23#^23-14|14–15]],[[Luke 23#^23-22|22]],[[Luke 23#^23-47|47]]. *Pilate*, see [[JANT Acts 03#^3-13|3.13n.]] ^13-28
 
 **[[NRSVue Acts 13#^13-29|29]]:** *Tree*, see 5.30; 10.39. 40° 35° ^13-29
 
@@ -123,7 +123,7 @@ Text: [[NRSVue Acts 13|NRSVue]] · [[Acts 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 13#^13-30|30]]:** *God raised him*, see 3.15; 4.10; 10.40. ^13-30
 
-**[[NRSVue Acts 13#^13-31|31]]:** *Witnesses*, the primary apostolic responsibility (1.8n.; 2.32; 3.15; 5.32); Paul does so as well (23.11). ^13-31
+**[[NRSVue Acts 13#^13-31|31]]:** *Witnesses*, the primary apostolic responsibility ([[JANT Acts 01#^1-8|1.8n.]]; 2.32; 3.15; 5.32); Paul does so as well (23.11). ^13-31
 
 **[[NRSVue Acts 13#^13-33|33]]:** See [[Psalms 002#^2-7|Ps 2.7]]. ^13-33
 

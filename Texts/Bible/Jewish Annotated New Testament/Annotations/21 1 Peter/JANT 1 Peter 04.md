@@ -28,7 +28,7 @@ Text: [[NRSVue 1 Peter 04|NRSVue]] · [[1 Peter 04|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue 1 Peter 04#^4-7|Text]], p. 508* ^4-7
 
-**[[NRSVue 1 Peter 04#^4-7|7]]:** *Be serious and discipline yourselves*, lit., “think wisely and be sober,” see the similar calls to be sober in 1.13; 5.18. *For the sake of your prayers*, wisdom and sobriety are precon-ditions for prayer (see 3.7,12; *Lev. Rab.* 12.1), or wisdom and sobriety will bring one to pray. ^4-7-2
+**[[NRSVue 1 Peter 04#^4-7|7]]:** *Be serious and discipline yourselves*, lit., “think wisely and be sober,” see the similar calls to be sober in 1.13; 5.18. *For the sake of your prayers*, wisdom and sobriety are precon-ditions for prayer (see [[1 Peter 03#^3-7|3.7]],[[1 Peter 03#^3-12|12]]; *Lev. Rab.* 12.1), or wisdom and sobriety will bring one to pray. ^4-7-2
 
 **[[NRSVue 1 Peter 04#^4-8|8]]:** *Love for one another*, see 1.22. *Love covers a multitude of sins*, see [[Psalms 032#^32-1|Ps 32.1]]; [[Proverbs 10#^10-12|Prov 10.12]]; [[James 05#^5-20|Jas 5.20]]. ^4-8
 

@@ -18,13 +18,13 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-1|1]]:** *Yeast*, not, contrary to some Christian exegesis, a symbol of impurity; in the context of Passover, it has negative implications ([[1 Corinthians 05#^5-6|1 Cor 5.6–8]], but see [[Luke 13#^13-21|Lk 13.21]]). *Derekh Eretz Zuta* on [[Torah 33 - Bechukotai#^26-6|Lev 26.6]] (citing R. Yehoshua ben Levi) views yeast positively: “Great is peace, for it is as the leaven to dough. If the Holy One had not given peace to the world, sword and beast would devour up the whole world.” ^12-1-2
 
-**[[NRSVue Luke 12#^12-2|2–3]]:** *Nothing is covered*, see 8.16–17n. ^12-2
+**[[NRSVue Luke 12#^12-2|2–3]]:** *Nothing is covered*, see [[JANT Luke 08#^8-16-2|8.16–17n.]] ^12-2
 
-**[[NRSVue Luke 12#^12-5|5]]:** *Fear him*, only God’s judgment matters, but those who fear God should also have hope (see 1.50). *To cast into hell* (Gk/Heb “Gehenna”), see 10.15n; [[II Kings 23#^23-10|2 Kings 23.10]]; cf. [[LXX 4 Maccabees 13#^13-14|4 Macc. 13.14-15]], “Let us not fear him who thinks he is killing us, for great is the struggle of the soul and the danger of eternal torment lying before those who transgress the commandment of God.” Rabbi Akiva stated that “the judgment of the wicked in Gehenna is twelve months” (*m. Ed.* 2.10). ^12-5
+**[[NRSVue Luke 12#^12-5|5]]:** *Fear him*, only God’s judgment matters, but those who fear God should also have hope (see [[Luke 01#^1-50|1.50]]). *To cast into hell* (Gk/Heb “Gehenna”), see 10.15n; [[II Kings 23#^23-10|2 Kings 23.10]]; cf. [[LXX 4 Maccabees 13#^13-14|4 Macc. 13.14-15]], “Let us not fear him who thinks he is killing us, for great is the struggle of the soul and the danger of eternal torment lying before those who transgress the commandment of God.” Rabbi Akiva stated that “the judgment of the wicked in Gehenna is twelve months” (*m. Ed.* 2.10). ^12-5
 
-**[[NRSVue Luke 12#^12-6|6]]:** *Pennies* (“assarion”), one-sixteenth of a denarius (12.59n.). *Not one of them is forgotten,* God is mindful of the smallest things; how much more so (a “qal vahomer” argument) does God care for human beings. ^12-6
+**[[NRSVue Luke 12#^12-6|6]]:** *Pennies* (“assarion”), one-sixteenth of a denarius ([[JANT Luke 12#^12-59|12.59n.]]). *Not one of them is forgotten,* God is mindful of the smallest things; how much more so (a “qal vahomer” argument) does God care for human beings. ^12-6
 
-**[[NRSVue Luke 12#^12-8|8]]:** *Son of Man*, see 5.24n.; 9.26; [[Mark 08#^8-38|Mk 8.38]]. *Angels*, heavenly court. ^12-8
+**[[NRSVue Luke 12#^12-8|8]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]]; [[Luke 09#^9-26|9.26]]; [[Mark 08#^8-38|Mk 8.38]]. *Angels*, heavenly court. ^12-8
 
 **[[NRSVue Luke 12#^12-10|10]]:** *Blasphemes against the Holy Spirit* ([[Matthew 12#^12-31|Mt 12.31–32]]; [[Mark 03#^3-28|Mk 3.28–30]]), attributing the Spirit’s works to Satan; see 1.15n; [[Isaiah 63#^63-10|Isa 63.10–11]]. “Blasphemy” appears in [[LXX Isaiah 52#^52-5|Isa 52.5]]\[LXX\]; [[Daniel 03#^3-29|Dan 3.29]]\[LXX\]; [[LXX Tobit 01#^1-18|Tob 1.18]], but without formal definition of what constitutes blasphemy; the term can connote evil speech rather than misuse of the divine name. As *m. Sanh*. 7.5 states, “He who blasphemes \[[[Torah 31 - Emor#^24-10|Lev 24.10]]\] is liable only when he will have fully pronounced the divine Name \[the Tetragrammaton\].” ^12-10
 
@@ -46,7 +46,7 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-20|20]]:** See 12.33–34; [[Jeremiah 17#^17-11|Jer 17.11]]. *Is being demanded*, lit., “they demand”; the antecedent may be God, angels, or the man’s possessions. *Whose will they be*, the thought resembles the more pessimistic parts of Ecclesiastes (e.g., 3.19). ^12-20
 
-**[[NRSVue Luke 12#^12-21|21]]:** *Store up treasures*, see 12.33; Tob 4.9–11; [[Matthew 06#^6-19|Mt 6.19–20]]; *t. Peʾah* 4.18. ^12-21
+**[[NRSVue Luke 12#^12-21|21]]:** *Store up treasures*, see [[Luke 12#^12-33|12.33]]; Tob 4.9–11; [[Matthew 06#^6-19|Mt 6.19–20]]; *t. Peʾah* 4.18. ^12-21
 
 ### 12.22–32: Lessons from nature
 
@@ -60,13 +60,13 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-31|31]]:** *And these things . . . given to you as well*, like Solomon, who asked for wisdom but received much more ([[I Kings 03#^3-9|1 Kings 3.9]]**–**14). ^12-31
 
-**[[NRSVue Luke 12#^12-32|32]]:** *Flock*, those shepherded by the Messiah ([[Ezekiel 34#^34-23|Ezek 34.23]]). *Father’s*, see 10.21n. For illustrations from nature, see [[Proverbs 30#^30-24|Prov 30.24–28]] and elsewhere. ^12-32
+**[[NRSVue Luke 12#^12-32|32]]:** *Flock*, those shepherded by the Messiah ([[Ezekiel 34#^34-23|Ezek 34.23]]). *Father’s*, see [[JANT Luke 10#^10-21-2|10.21n.]] For illustrations from nature, see [[Proverbs 30#^30-24|Prov 30.24–28]] and elsewhere. ^12-32
 
 ### 12.33–34: Treasure in heaven
 
 *[[NRSVue Luke 12#^12-33|Text]], p. 142* · ([[Matthew 06#^6-19|Mt 6.19–21]]). See [[Mark 10#^10-21|Mk 10.21]]; [[Luke 18#^18-22|Lk 18.22]]; [[Acts 02#^2-45|Acts 2.45]]; [[Acts 04#^4-32|4.32–35]]. ^12-33
 
-**[[NRSVue Luke 12#^12-33|33]]:** *Sell your possessions*, see 6.30n. *Unfailing treasure in heaven*, see 12.21n. ^12-33-2
+**[[NRSVue Luke 12#^12-33|33]]:** *Sell your possessions*, see [[JANT Luke 06#^6-30|6.30n.]] *Unfailing treasure in heaven*, see [[JANT Luke 12#^12-21|12.21n.]] ^12-33-2
 
 ### 12.35–48: Watchfulness and prudence
 
@@ -74,13 +74,13 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-35|35]]:** *Dressed for action*, lit., “your loins girded.” ^12-35-2
 
-**[[NRSVue Luke 12#^12-36|36]]:** *Master*, Gk “kyrios,” see 1.17n. *Wedding banquet*, messianic image (5.34–35). ^12-36
+**[[NRSVue Luke 12#^12-36|36]]:** *Master*, Gk “kyrios,” see [[JANT Luke 01#^1-17|1.17n.]] *Wedding banquet*, messianic image (5.34–35). ^12-36
 
-**[[NRSVue Luke 12#^12-37|37]]:** *Serve them*, see 17.7–8; 22.27; [[John 13#^13-3|Jn 13.3–16]]. ^12-37
+**[[NRSVue Luke 12#^12-37|37]]:** *Serve them*, see [[Luke 17#^17-7|17.7–8]]; [[Luke 22#^22-27|22.27]]; [[John 13#^13-3|Jn 13.3–16]]. ^12-37
 
 **[[NRSVue Luke 12#^12-39|39]]:** *Thief*, an arresting image; see [[1 Thessalonians 05#^5-2|1 Thess 5.2]]; [[2 Peter 03#^3-10|2 Pet 3.10]]; [[Revelation 16#^16-15|Rev 16.15]]. ^12-39
 
-**[[NRSVue Luke 12#^12-40|40]]:** *Son of Man*, see 5.24n. *Unexpected hour*, see [[Mark 13#^13-35|Mk 13.35]]. ^12-40
+**[[NRSVue Luke 12#^12-40|40]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] *Unexpected hour*, see [[Mark 13#^13-35|Mk 13.35]]. ^12-40
 
 **[[NRSVue Luke 12#^12-46|46]]:** *Cut him in pieces*, eschatological threat. ^12-46
 
@@ -94,7 +94,7 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-50|50]]:** *Baptism*, here, Jesus’ death. ^12-50
 
-**[[NRSVue Luke 12#^12-51|51]]:** *Division*, see 8.21; 9.61; 18.29. ^12-51
+**[[NRSVue Luke 12#^12-51|51]]:** *Division*, see [[Luke 08#^8-21|8.21]]; [[Luke 09#^9-61|9.61]]; 18.29. ^12-51
 
 **[[NRSVue Luke 12#^12-53|53]]:** See [[Micah 7#^7-6|Mic 7.6]] and contrast [[Malachi 3#^3-24|Mal 4.6]] (HB 3.24). ^12-53
 
@@ -110,6 +110,6 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-58|58]]:** *Settle the case*, practical advice, consistent with warnings against greed (12.15). ^12-58
 
-**[[NRSVue Luke 12#^12-59|59]]:** *Penny*, Gk “lepton,” the smallest Greek coin. Two “lepta” make a “quadrans” ([[Matthew 05#^5-26|Mt 5.26]]; [[Mark 12#^12-42|Mk 12.42]]), eight an assarion (see 12.6n.). ^12-59
+**[[NRSVue Luke 12#^12-59|59]]:** *Penny*, Gk “lepton,” the smallest Greek coin. Two “lepta” make a “quadrans” ([[Matthew 05#^5-26|Mt 5.26]]; [[Mark 12#^12-42|Mk 12.42]]), eight an assarion (see [[JANT Luke 12#^12-6|12.6n.]]). ^12-59
 
 [[JANT Luke 11|← Luke 11]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Luke 13|Luke 13 →]]

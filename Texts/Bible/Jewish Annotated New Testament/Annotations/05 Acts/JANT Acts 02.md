@@ -106,7 +106,7 @@ Text: [[NRSVue Acts 02|NRSVue]] · [[Acts 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 02#^2-25|25]]:** The superscription to this Psalm attributes it to David. *Lord*, here a reference to Jesus, later confirmed through the interpretation of Ps 110 (v 34). ^2-25-2
 
-**[[NRSVue Acts 02#^2-27|27]]:** *Hades*, Heb “Sheol,” ultimate destination after death according to earlier biblical texts ([[Isaiah 38#^38-10|Isa 38.10]],[[Isaiah 38#^38-18|18]]; [[Psalms 006#^6-6|Ps 6.5]]; [[Psalms 089#^89-49|89.48]]; 116.3; [[Job 07#^7-9|Job 7.9]]). Hellenistic Jewish writings employed the Greek term ([[LXX Wisdom of Solomon 02#^2-1|Wis 2.1]]; [[LXX Wisdom of Solomon 16#^16-13|16.13]]; [[LXX 2 Maccabees 06#^6-23|2 Macc 6.23]]; *Pss. Sol*. 16.2), and came to imagine Sheol/Hades as a place of judgment and punishment (*1 En.* 63.10; *t. Yoma* 4.11), in contrast to a blessed afterlife represented in various forms, such as eternal life ([[Daniel 12#^12-2|Dan 12.2]]), bodily resurrection ([[LXX 2 Maccabees 06#^6-9|2 Macc 6.9]]; *2 Bar.* 50.1–4; *L. A. B.* 3.10; *b. Sanh.* [[Sanhedrin 90#90b|90b]]), paradise (*4 Ezra*\[2 Esd\] 7.44), and the world to come (*m. Sanh.* 10.1–6). ^2-27
+**[[NRSVue Acts 02#^2-27|27]]:** *Hades*, Heb “Sheol,” ultimate destination after death according to earlier biblical texts ([[Isaiah 38#^38-10|Isa 38.10]],[[Isaiah 38#^38-18|18]]; [[Psalms 006#^6-6|Ps 6.5]]; [[Psalms 089#^89-49|89.48]]; 116.3; [[Job 07#^7-9|Job 7.9]]). Hellenistic Jewish writings employed the Greek term ([[LXX Wisdom of Solomon 02#^2-1|Wis 2.1]]; [[LXX Wisdom of Solomon 16#^16-13|16.13]]; [[LXX 2 Maccabees 06#^6-23|2 Macc 6.23]]; *Pss. Sol*. 16.2), and came to imagine Sheol/Hades as a place of judgment and punishment (*1 En.* 63.10; *t. Yoma* 4.11), in contrast to a blessed afterlife represented in various forms, such as eternal life ([[Daniel 12#^12-2|Dan 12.2]]), bodily resurrection ([[LXX 2 Maccabees 06#^6-9|2 Macc 6.9]]; *2 Bar.* 50.1–4; *L. A. B.* 3.10; *b. Sanh.* [[Sanhedrin 90#90b|90b]]), paradise (*4 Ezra*\[2 Esd\] [[NRSVue 2 Esdras 07#^7-44|7.44]]), and the world to come (*m. Sanh.* 10.1–6). ^2-27
 
 **[[NRSVue Acts 02#^2-29|29]]:** *Tomb*, a site identified as the tomb of David was known in antiquity (Josephus, *J.W.* 1.61; *Ant.* 7.393; 13.249), but it is not the present-day tomb of David on Mt. Zion, a tradition that begins in the Middle Ages. For Peter, David’s earthly burial excludes the possibility of him being the enthroned Lord referred to in the Psalm. Rather, David was speaking of Jesus, who was raised from the dead and seated at God’s right hand, thus confirming him as Lord (vv 31–32). ^2-29
 
@@ -114,7 +114,7 @@ Text: [[NRSVue Acts 02|NRSVue]] · [[Acts 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 02#^2-31|31]]:** *Abandoned to Hades*, see [[Psalms 016#^16-10|Ps 16.10]]. ^2-31
 
-**[[NRSVue Acts 02#^2-32|32]]:** *Witnesses*, see 1.8n. ^2-32
+**[[NRSVue Acts 02#^2-32|32]]:** *Witnesses*, see [[JANT Acts 01#^1-8|1.8n.]] ^2-32
 
 **[[NRSVue Acts 02#^2-33|33–35]]:** See [[Psalms 110#^110-1|Ps 110.1]]; the Tanakh passage most quoted or alluded to in Luke-Acts ([[Luke 20#^20-42|Lk 20.42–43]]; [[Luke 22#^22-69|22.69]]; [[Acts 02#^2-33|Acts 2.33–35]]; [[Acts 05#^5-31|5.31]]; [[Acts 07#^7-55|7.55–56]]) and the NT. Christian traditions understand the Psalm as speaking about Jesus ([[Mark 12#^12-36|Mk 12.36]]; [[Hebrews 01#^1-13|Heb 1.13]]; *1 Clem.* 36.5; *Ep. Barn.* 12.10; *Apoc. Pet.* 6). Jewish traditions used the image of heavenly enthronement as a way to designate figures favored by God (*T. Job* 33.2–9) or imbued with divine authority (*1 En.* 51.3; 55.4; 61.8; 69.29), and interpreted the verse itself in relation to Abraham (*b. Ned.* [[Nedarim 32#32b|32b]]; *b. Sanh.* [[Sanhedrin 108#108b|108b]]; *Lev. Rab.* 25.6), David (*b. Sanh.* [[Sanhedrin 38#38b|38b]]), or the Messiah (*Gen. Rab.* 85.9; *Seder Eliyahu Rab.* 18, sec. 90; *Midr. Pss. Sol.* 18, sec. 29). ^2-33
 
@@ -134,7 +134,7 @@ Text: [[NRSVue Acts 02|NRSVue]] · [[Acts 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 02#^2-42|42]]:** *Teaching and fellowship*, *to the breaking of bread and the prayers,* the community is constituted through shared instructions and rituals. ^2-42-2
 
-**[[NRSVue Acts 02#^2-43|43]]:** *Wonders and signs,* activities usually associated with God (see 2.22n.), but here and elsewhere in Acts with humans empowered by God (4.30; 6.8; 14.3). ^2-43
+**[[NRSVue Acts 02#^2-43|43]]:** *Wonders and signs,* activities usually associated with God (see [[JANT Acts 02#^2-22-2|2.22n.]]), but here and elsewhere in Acts with humans empowered by God (4.30; 6.8; 14.3). ^2-43
 
 **[[NRSVue Acts 02#^2-44|44]]:** *Had all things in common*, another characteristic of the community (4.36–5.11; 6.1–6); communal ownership existed among the Jews at Qumran (1QS 1.11) and was highly valued in philosophical teachings (Aristotle, *Eth. nic.* 9.8; Cicero, *Off.* 1.16.51). ^2-44
 

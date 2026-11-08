@@ -24,7 +24,7 @@ Text: [[NRSVue John 04|NRSVue]] · [[John 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 04#^4-6|6]]:** *Well*, in biblical stories, encounters between men and women at wells often result in marriage ([[Torah 07 - Vayetzei#^29-10|Gen 29.10–20]]; [[Torah 13 - Shemot#^2-16|Ex 2.16–21]]). *Noon*, the timing contrasts the woman favorably with Nicodemus, who came at night (3.2). ^4-6
 
-**[[NRSVue John 04#^4-7|7]]:** *Give me a drink*, see 19.28, at the crucifixion, also at noon. ^4-7
+**[[NRSVue John 04#^4-7|7]]:** *Give me a drink*, see [[John 19#^19-28|19.28]], at the crucifixion, also at noon. ^4-7
 
 **[[NRSVue John 04#^4-9|9]]:** *Do not share*, in the Gospel writer’s view, Jews and Samaritans would not eat together. ^4-9
 
@@ -42,7 +42,7 @@ Text: [[NRSVue John 04|NRSVue]] · [[John 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 04#^4-20|20]]:** *This mountain*, Mount Gerizim, the Samaritans’ holy place (see [[LXX 2 Maccabees 06#^6-2|2 Macc 6.2]]). ^4-20
 
-**[[NRSVue John 04#^4-21|21]]:** *Nor in Jerusalem*, a prophecy of a future time when (as the Gospel writer hopes) all worship will be concentrated on Jesus as the Son of God. In the context of the Gospel, this is an example of replacement theology (Jesus replaces the Temple); this reference is another indication of the Gospel’s post-70 date (see 2.20n.; see also 2.21). ^4-21
+**[[NRSVue John 04#^4-21|21]]:** *Nor in Jerusalem*, a prophecy of a future time when (as the Gospel writer hopes) all worship will be concentrated on Jesus as the Son of God. In the context of the Gospel, this is an example of replacement theology (Jesus replaces the Temple); this reference is another indication of the Gospel’s post-70 date (see [[JANT John 02#^2-20|2.20n.]]; see also [[John 02#^2-21|2.21]]). ^4-21
 
 **[[NRSVue John 04#^4-22|22]]:** *Salvation is from the Jews*, the Gospel’s only unequivocally positive statement about Jews; though he is later accused of being a Samaritan (8.48), Jesus here may be indirectly affirming his own Jewish origins, and stating that salvation — that is, he as Messiah and Son of God — is from or of the Jews. *From*, may imply “arising among” or “originating in.” ^4-22
 
@@ -50,9 +50,9 @@ Text: [[NRSVue John 04|NRSVue]] · [[John 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 04#^4-26|26]]:** *I am*, John’s Jesus uses the emphatic “I am” (Gk “ego eimi”) frequently in his discourses (4.26; 6.20,35,41,48,51; 8.12,18,23\[twice\],24,28,58; 10.7,9,11,14; 11.25; 13.19; 14.6; 15.1,5; 18.5,6,8). In several cases (4.26; 6.20; 8.24,28,58; 13.19; 18.5,6,8) the phrase is used without a predicate, recalling God’s emphatic self-revelation to Moses at the burning bush ([[Torah 13 - Shemot#^3-14|Ex 3.14]]: “I AM WHO I AM.” He said further, “Thus you shall say to the Israelites, ‘I AM has sent me to you’ ”). ^4-26
 
-**[[NRSVue John 04#^4-27|27]]:** *Speaking with a woman*, implying that they were not accustomed to seeing Jesus speak with women. While some Second Temple and rabbinic texts warn against speaking with a woman ([[LXX Sirach 09#^9-1|Sir 9.1–9]]; *m. Avot* 1.5), other sources indicate that men, including teachers, did so (e.g., *b. Eruv*. [[Eruvin 53#53b|53b]] in which Rabbi Yosi the Galilean initiates a conversation with a learned woman named Beruriah). In speaking with a woman, John’s Jesus is simply behaving according to the Jewish norms of his time. In Jn 11, no eyebrows are raised when Jesus speaks to both Mary and Martha. ^4-27
+**[[NRSVue John 04#^4-27|27]]:** *Speaking with a woman*, implying that they were not accustomed to seeing Jesus speak with women. While some Second Temple and rabbinic texts warn against speaking with a woman ([[LXX Sirach 09#^9-1|Sir 9.1–9]]; *m. Avot* [[Pirkei Avot 01#^1-5|1.5]]), other sources indicate that men, including teachers, did so (e.g., *b. Eruv*. [[Eruvin 53#53b|53b]] in which Rabbi Yosi the Galilean initiates a conversation with a learned woman named Beruriah). In speaking with a woman, John’s Jesus is simply behaving according to the Jewish norms of his time. In Jn 11, no eyebrows are raised when Jesus speaks to both Mary and Martha. ^4-27
 
-**[[NRSVue John 04#^4-29|29]]:** *Come and see*, the woman is depicted as an apostle who brings others to Jesus (see 1.41,45). ^4-29
+**[[NRSVue John 04#^4-29|29]]:** *Come and see*, the woman is depicted as an apostle who brings others to Jesus (see [[John 01#^1-41|1.41]],[[John 01#^1-45|45]]). ^4-29
 
 **[[NRSVue John 04#^4-32|32]]:** *Food to eat*, the disciples have brought Jesus food; he responds to them as he did to the Samaritan woman, by changing the terms of the conversation from simple nourishment (food, water) 22 is plural b Gk *I am* c Or *the Christ* which they might provide to him, to the spiritual nourishment which he can provide to them. ^4-32
 

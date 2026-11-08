@@ -35,7 +35,7 @@ Text: [[NRSVue James 01|NRSVue]] · [[James 01|BSB and SBLGNT]] · Introduction:
 
 ### 1.9–11: Poor and rich
 
-*[[NRSVue James 01#^1-9|Text]], p. 491* · Jewish texts vary in their attitudes toward wealth. Qumran texts such as the *Damascus Document* 4.17–18, and the *Hodayot* (1QH 18.22–35) and [[Proverbs 01#^1-13|Prov 1.13]] disparage those who gather (ill-gotten) gain (Heb “hon”*)* while [[Proverbs 03#^3-9|Prov 3.9–10]] praises abundance as a reward for giving up one’s first-fruits to God and serving God with acquired wealth (“hon”). See also [[Torah 45 - Vaetchanan#^5-10|Deut 5.10]]; [[Isaiah 01#^1-17|Isa 1.17–19]]; [[Proverbs 19#^19-17|Prov 19.17]]. While rabbinic literature sees wealth as anxiety producing (*m. Avot* 2.8) and notes that Torah scholars must devote their efforts to Torah study even suffering deprivation (*m. Avot* 6.4 and *b. Ber*. [[Berakhot 5#5a|5a]]), it also sees wealth as fitting for righteous scholars (see *Avot* 6.8; *b. Eruv.* [[Eruvin 86#86a|86a]]). In sum, Judaism has no general philosophy of wealth and poverty. ^1-9
+*[[NRSVue James 01#^1-9|Text]], p. 491* · Jewish texts vary in their attitudes toward wealth. Qumran texts such as the *Damascus Document* 4.17–18, and the *Hodayot* (1QH 18.22–35) and [[Proverbs 01#^1-13|Prov 1.13]] disparage those who gather (ill-gotten) gain (Heb “hon”*)* while [[Proverbs 03#^3-9|Prov 3.9–10]] praises abundance as a reward for giving up one’s first-fruits to God and serving God with acquired wealth (“hon”). See also [[Torah 45 - Vaetchanan#^5-10|Deut 5.10]]; [[Isaiah 01#^1-17|Isa 1.17–19]]; [[Proverbs 19#^19-17|Prov 19.17]]. While rabbinic literature sees wealth as anxiety producing (*m. Avot* [[Pirkei Avot 02#^2-8|2.8]]) and notes that Torah scholars must devote their efforts to Torah study even suffering deprivation (*m. Avot* 6.4 and *b. Ber*. [[Berakhot 5#5a|5a]]), it also sees wealth as fitting for righteous scholars (see *Avot* 6.8; *b. Eruv.* [[Eruvin 86#86a|86a]]). In sum, Judaism has no general philosophy of wealth and poverty. ^1-9
 
 **[[NRSVue James 01#^1-9|9]]:** *Lowly . . . up* (exaltation), *Num. Rab*. 22 states that God judges fairly, lowering one and raising another ([[Psalms 075#^75-8|Ps 75.7]] \[HB v 8\]). In this world, the true social order of those deserving praise is often reversed (*b. Pesah*. [[Pesachim 50#50a|50a]]). ^1-9-2
 
@@ -59,7 +59,7 @@ Text: [[NRSVue James 01|NRSVue]] · [[James 01|BSB and SBLGNT]] · Introduction:
 
 *[[NRSVue James 01#^1-19|Text]], p. 492* ^1-19
 
-**[[NRSVue James 01#^1-19|19]]:** *Let everyone . . . speak*, see [[LXX Sirach 05#^5-11|Sir. 5.11]]; see *m. Avot* 1.15, “say little and do much.” *Slow to anger*, *m. Avot* 5.11 stresses, “be slow to anger; quick to pacify.” ^1-19-2
+**[[NRSVue James 01#^1-19|19]]:** *Let everyone . . . speak*, see [[LXX Sirach 05#^5-11|Sir. 5.11]]; see *m. Avot* [[Pirkei Avot 01#^1-15|1.15]], “say little and do much.” *Slow to anger*, *m. Avot* [[Pirkei Avot 05#^5-11|5.11]] stresses, “be slow to anger; quick to pacify.” ^1-19-2
 
 **[[NRSVue James 01#^1-21|21]]:** *Implanted word*, see “Implanted Word” in side-bar above. ^1-21
 

@@ -22,9 +22,9 @@ Text: [[NRSVue 1 Thessalonians 03|NRSVue]] · [[1 Thessalonians 03|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 03#^3-3|3]]:** *Destined for*, the idea of predestination typifies the DSS, e.g., 1QS 3.15–16. ^3-3
 
-**[[NRSVue 1 Thessalonians 03#^3-4|4]]:** *Suffer persecution* (Gk “thlibesthai”) or “undergo tribulation.” See 1.10n. ^3-4
+**[[NRSVue 1 Thessalonians 03#^3-4|4]]:** *Suffer persecution* (Gk “thlibesthai”) or “undergo tribulation.” See [[JANT 1 Thessalonians 01#^1-10|1.10n.]] ^3-4
 
-**[[NRSVue 1 Thessalonians 03#^3-5|5]]:** *Tempter . . . tempted*, the Gk word means “test, put to the proof” (see 2.18 as well as [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[1 Corinthians 10#^10-10|10.10]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 04#^4-4|4.4]]; [[2 Corinthians 06#^6-15|6.15]]; [[2 Corinthians 12#^12-7|12.7]]). Satan tempts or goads humans to sin, see [[Job 01#^1-6|Job 1.6–12]]; some rabbis identified Satan with the serpent in Gen 3 (*b. Sot.* [[Sotah 9#9b|9b]]). ^3-5
+**[[NRSVue 1 Thessalonians 03#^3-5|5]]:** *Tempter . . . tempted*, the Gk word means “test, put to the proof” (see [[1 Thessalonians 02#^2-18|2.18]] as well as [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[1 Corinthians 10#^10-10|10.10]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 04#^4-4|4.4]]; [[2 Corinthians 06#^6-15|6.15]]; [[2 Corinthians 12#^12-7|12.7]]). Satan tempts or goads humans to sin, see [[Job 01#^1-6|Job 1.6–12]]; some rabbis identified Satan with the serpent in Gen 3 (*b. Sot.* [[Sotah 9#9b|9b]]). ^3-5
 
 ### 3.6–10: Paul expresses relief and elation
 
@@ -42,8 +42,8 @@ Text: [[NRSVue 1 Thessalonians 03|NRSVue]] · [[1 Thessalonians 03|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 03#^3-11|11]]:** *Father,* see 1.1n. ^3-11-2
 
-**[[NRSVue 1 Thessalonians 03#^3-12|12]]:** *Lord*, see 1.1 ^3-12
+**[[NRSVue 1 Thessalonians 03#^3-12|12]]:** *Lord*, see [[1 Thessalonians 01#^1-1|1.1]] ^3-12
 
-**[[NRSVue 1 Thessalonians 03#^3-13|13]]:** *Strengthen your hearts*, see [[LXX Psalms 111#^111-8|Ps 111.8]]\[LXX\]; [[LXX Sirach 06#^6-37|Sir 6.37]]; [[LXX Sirach 22#^22-16|22.16]]. *Holiness*, through faith and proper behavior. *Coming . . . saints*, believers (Gk “hagioi,” lit., “holy ones”) who have died (see 4.14); see [[Daniel 07#^7-18|Dan 7.18]],[[LXX Daniel (Greek) 07#^7-22|22]]\[LXX\] and 1QM 3.5. ^3-13
+**[[NRSVue 1 Thessalonians 03#^3-13|13]]:** *Strengthen your hearts*, see [[LXX Psalms 111#^111-8|Ps 111.8]]\[LXX\]; [[LXX Sirach 06#^6-37|Sir 6.37]]; [[LXX Sirach 22#^22-16|22.16]]. *Holiness*, through faith and proper behavior. *Coming . . . saints*, believers (Gk “hagioi,” lit., “holy ones”) who have died (see [[1 Thessalonians 04#^4-14|4.14]]); see [[Daniel 07#^7-18|Dan 7.18]],[[LXX Daniel (Greek) 07#^7-22|22]]\[LXX\] and 1QM 3.5. ^3-13
 
 [[JANT 1 Thessalonians 02|← 1 Thessalonians 2]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Thessalonians 04|1 Thessalonians 4 →]]

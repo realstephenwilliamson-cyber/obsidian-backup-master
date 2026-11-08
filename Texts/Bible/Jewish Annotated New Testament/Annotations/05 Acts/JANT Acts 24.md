@@ -38,7 +38,7 @@ Text: [[NRSVue Acts 24|NRSVue]] · [[Acts 24|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 24#^24-14|14–16]]:** Paul is presented as a faithful and observant Jew; see 16.3; 18.18; 20.16; 22.3; 25.4–5. ^24-14
 
-**[[NRSVue Acts 24#^24-14|14]]:** *Way*, see 9.2. This term, rather than “sect,” seems to reflect Paul’s understanding of Christianity as the one, true way of God, rather than a particular or exclusive school or community (see v 5n.). *Law . . . prophets*, the phrase had come to connote the fullness of Jewish teachings, and possibly a written collection of authoritative texts ([[Matthew 05#^5-17|Mt 5.17]]; [[Matthew 22#^22-40|22.40]]; [[Luke 16#^16-16|Lk 16.16]]; Sir Prologue; [[LXX 2 Maccabees 15#^15-9|2 Macc 15.9]]; [[LXX 4 Maccabees 18#^18-10|4 Macc 18.10]]). ^24-14-2
+**[[NRSVue Acts 24#^24-14|14]]:** *Way*, see 9.2. This term, rather than “sect,” seems to reflect Paul’s understanding of Christianity as the one, true way of God, rather than a particular or exclusive school or community (see [[JANT Acts 24#^24-5|v 5n.]]). *Law . . . prophets*, the phrase had come to connote the fullness of Jewish teachings, and possibly a written collection of authoritative texts ([[Matthew 05#^5-17|Mt 5.17]]; [[Matthew 22#^22-40|22.40]]; [[Luke 16#^16-16|Lk 16.16]]; Sir Prologue; [[LXX 2 Maccabees 15#^15-9|2 Macc 15.9]]; [[LXX 4 Maccabees 18#^18-10|4 Macc 18.10]]). ^24-14-2
 
 **[[NRSVue Acts 24#^24-15|15]]:** *Resurrection of both the righteous and the unrighteous*, see [[Daniel 12#^12-2|Dan 12.2]]. ^24-15
 
@@ -54,7 +54,7 @@ Text: [[NRSVue Acts 24|NRSVue]] · [[Acts 24|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 24#^24-22|22]]:** *Lysias*, see 23.26. ^24-22-2
 
-**[[NRSVue Acts 24#^24-24|24]]:** *Drusilla*, Julia Drusilla, daughter of Agrippa I (see 12.1n.); known for her beauty, she had been previously married to Azizus, king of Syrian Emesa, who had himself circumcised (Josephus, *Ant* 20.139). ^24-24
+**[[NRSVue Acts 24#^24-24|24]]:** *Drusilla*, Julia Drusilla, daughter of Agrippa I (see [[JANT Acts 12#^12-1-2|12.1n.]]); known for her beauty, she had been previously married to Azizus, king of Syrian Emesa, who had himself circumcised (Josephus, *Ant* 20.139). ^24-24
 
 **[[NRSVue Acts 24#^24-26|26]]:** *Money would be given him*, Felix had a reputation for corruption and cruelty (Joesphus, *Ant* 20.160–65; Tacitus, *Ann.* 12.54; *Hist.* 5.9). ^24-26
 

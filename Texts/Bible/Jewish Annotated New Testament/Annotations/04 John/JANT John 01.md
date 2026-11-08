@@ -28,7 +28,7 @@ Text: [[NRSVue John 01|NRSVue]] · [[John 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 01#^1-11|11]]:** *His own people*, the Jews (4.22; see also [[Torah 17 - Yitro#^19-5|Ex 19.5]]). ^1-11
 
-**[[NRSVue John 01#^1-12|12–13]]:** Contrast between an ancestral covenant, such as that of the Jews, and a faith-based covenant (see 8.33–40). *Believed in his name*, gave him due honor. This expression appears also in *1 En.* 67.8–10 with reference to God. *He gave power to become*, perhaps referring to the “right” or “au- *came into being that has come into being. 4In him was life* b Or *He was the true light that enlightens everyone coming into the world* c Or *to his own home* thority,” but more likely another way of saying “became” as a consequence of divine action. *Children of God*, in contrast to “children according to the flesh,” that is, the children of Abraham (see 8.33–40). ^1-12
+**[[NRSVue John 01#^1-12|12–13]]:** Contrast between an ancestral covenant, such as that of the Jews, and a faith-based covenant (see [[John 08#^8-33|8.33–40]]). *Believed in his name*, gave him due honor. This expression appears also in *1 En.* 67.8–10 with reference to God. *He gave power to become*, perhaps referring to the “right” or “au- *came into being that has come into being. 4In him was life* b Or *He was the true light that enlightens everyone coming into the world* c Or *to his own home* thority,” but more likely another way of saying “became” as a consequence of divine action. *Children of God*, in contrast to “children according to the flesh,” that is, the children of Abraham (see [[John 08#^8-33|8.33–40]]). ^1-12
 
 **[[NRSVue John 01#^1-13|13]]:** *Blood*, biological birth. ^1-13
 
@@ -80,7 +80,7 @@ Text: [[NRSVue John 01|NRSVue]] · [[John 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 01#^1-35|35]]:** *Two of his disciples*, one is Andrew (v 40); the other is sometimes identified as the Beloved Disciple. ^1-35-2
 
-**[[NRSVue John 01#^1-36|36]]:** *Lamb of God*, see 1.29n. ^1-36
+**[[NRSVue John 01#^1-36|36]]:** *Lamb of God*, see [[JANT John 01#^1-29|1.29n.]] ^1-36
 
 **[[NRSVue John 01#^1-38|38]]:** *What are you looking for?*, a Johannine double entendre, on the surface a natural question to ask when one discovers that one is being followed, but on another level, a reference to a spiritual search, the fulfillment of which is present but not yet recognized. See the similar wording in 20.15. *Rabbi*, Heb “my master.” ^1-38
 
@@ -90,7 +90,7 @@ Text: [[NRSVue John 01|NRSVue]] · [[John 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 01#^1-44|44]]:** *Bethsaida,* close to the Sea of Galilee. Although the Gospel implies that Bethsaida is in Galilee, it was in Gaulanitis, territory controlled by the tetrarch Philip. John’s reference may reflect popular usage, also reflected in Ptolemy’s *Geography* (v 16.4). ^1-44
 
-**[[NRSVue John 01#^1-45|45]]:** *Moses . . .the prophets*, Philip implies that he, and others, were searching for a Messiah who would fulfill the Torah and scriptural prophecies. The reference may be to the “prophet-like-Moses” described in [[Torah 48 - Shoftim#^18-15|Deut 18.15–18]], the son of Man ([[Daniel 07#^7-13|Dan 7.13]]; [[Daniel 08#^8-18|8.18]]), and/or Elijah (see 1.21n.). *Son of Joseph*, see 6.42; [[Matthew 01#^1-23|Mt 1.23]]. There is no allusion to a virginal conception. ^1-45
+**[[NRSVue John 01#^1-45|45]]:** *Moses . . .the prophets*, Philip implies that he, and others, were searching for a Messiah who would fulfill the Torah and scriptural prophecies. The reference may be to the “prophet-like-Moses” described in [[Torah 48 - Shoftim#^18-15|Deut 18.15–18]], the son of Man ([[Daniel 07#^7-13|Dan 7.13]]; [[Daniel 08#^8-18|8.18]]), and/or Elijah (see [[JANT John 01#^1-21|1.21n.]]). *Son of Joseph*, see [[John 06#^6-42|6.42]]; [[Matthew 01#^1-23|Mt 1.23]]. There is no allusion to a virginal conception. ^1-45
 
 **[[NRSVue John 01#^1-46|46]]:** *Nazareth*, a small village, approximately 26 km (15 mi) west of the Sea of Galilee. ^1-46
 

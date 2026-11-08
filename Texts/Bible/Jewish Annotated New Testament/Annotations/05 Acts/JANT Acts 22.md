@@ -28,7 +28,7 @@ Text: [[NRSVue Acts 22|NRSVue]] · [[Acts 22|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 22#^22-13|13]]:** *Regained my sight*, see 9.18. ^22-13
 
-**[[NRSVue Acts 22#^22-14|14]]:** *God of our ancestors*, God is responsible for Paul’s transformation and subsequent mission (see 18.18). *Righteous One*, see 3.14; 7.52. ^22-14
+**[[NRSVue Acts 22#^22-14|14]]:** *God of our ancestors*, God is responsible for Paul’s transformation and subsequent mission (see 18.18). *Righteous One*, see [[Acts 03#^3-14|3.14]]; 7.52. ^22-14
 
 **[[NRSVue Acts 22#^22-15|15]]:** *Witness to all the world*, see 1.8; 9.15. ^22-15
 

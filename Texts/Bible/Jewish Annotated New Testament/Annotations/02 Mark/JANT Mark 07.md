@@ -20,7 +20,7 @@ Text: [[NRSVue Mark 07|NRSVue]] · [[Mark 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 07#^7-11|11]]:** The controversy involves both determining which commandment, honoring parents or keeping vows, holds precedence, and whether vows can be repudiated. The Mishnah (*m. Ned.* 9.1) discusses “opening the way” to repentance (i.e., allowing a vow to be released if it leads to a conflict with something more important). *Corban* (Heb “korban”), a sacrifice or gift to God. When something had been declared devoted to God, it was generally not permitted for the giver to retract the gift. Rabbinic tradition also allowed release from “korban” when it deprived parents of their due. ^7-11
 
-**[[NRSVue Mark 07#^7-14|14–16]]:** Jesus’ comment is exaggerated, humorous and even scatological (as vv 18–23 will make clear). The witty rejoinder is now treated as a special revelation: *Listen . . . understand* (v 14), and *parable* (v 17); see 4.10–12n. ^7-14
+**[[NRSVue Mark 07#^7-14|14–16]]:** Jesus’ comment is exaggerated, humorous and even scatological (as vv 18–23 will make clear). The witty rejoinder is now treated as a special revelation: *Listen . . . understand* (v 14), and *parable* (v 17); see [[JANT Mark 04#^4-10|4.10–12n.]] ^7-14
 
 **[[NRSVue Mark 07#^7-17|17–23]]:** Like other parables, this one requires interpretation. ^7-17
 
@@ -40,7 +40,7 @@ Text: [[NRSVue Mark 07|NRSVue]] · [[Mark 07|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Mark 07#^7-31|Text]], p. 85* · ([[Matthew 15#^15-29|Mt 15.29–31]]). Some rabbinic sources consider a deaf person, “ḥeresh,” similar to being a minor (Heb “qatan”) or mentally ill (“shoteh”); such people are not considered responsible for observing the law (*b. Yebam.* [[Yevamot 99#99b|99b]]). ^7-31
 
-**[[NRSVue Mark 07#^7-33|33–34]]:** *Spat . . . touched . . . sighed*, Jesus’ healings were usually by word alone, but here and at 8.23 physical manipulations are also involved. *Ephphatha*, see 5.41n. ^7-33
+**[[NRSVue Mark 07#^7-33|33–34]]:** *Spat . . . touched . . . sighed*, Jesus’ healings were usually by word alone, but here and at 8.23 physical manipulations are also involved. *Ephphatha*, see [[JANT Mark 05#^5-41|5.41n.]] ^7-33
 
 **[[NRSVue Mark 07#^7-36|36]]:** Mark emphasizes the ironic contrast between the messianic secret and the thronging followers. ^7-36
 

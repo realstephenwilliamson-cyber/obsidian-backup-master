@@ -46,7 +46,7 @@ Text: [[NRSVue Mark 11|NRSVue]] · [[Mark 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 11#^11-20|20–25]]:** In Mark’s treatment, the fig tree is now associated with a prayer that the Temple mount, the place of orderly worship and acknowledgment of God’s rule, be *taken up and thrown into the sea*, the place of primal chaos that God subdues in creation ([[Isaiah 27#^27-1|Isa 27.1]]; [[Psalms 089#^89-10|Ps 89.9]]; [[Job 26#^26-12|Job 26.12]]). Continuing the fig symbolism from the prophets ([[Hosea 09#^9-10|Hos 9.10]]; [[Micah 7#^7-1|Mic 7.1]]; cf. [[Luke 13#^13-6|Lk 13.6–9]]), Mark speaks of the coming destruction of the Temple and its leaders. ^11-20
 
-**[[NRSVue Mark 11#^11-25|25]]:** *Forgive . . . your Father in heaven may also forgive*, Mark does not include the “Our Father” prayer ([[Matthew 06#^6-9|Mt 6.9–13]]; [[Luke 11#^11-2|Lk 11.2–4]]), but this language may indicate knowledge of it. *Father*, see 14.36n. ^11-25
+**[[NRSVue Mark 11#^11-25|25]]:** *Forgive . . . your Father in heaven may also forgive*, Mark does not include the “Our Father” prayer ([[Matthew 06#^6-9|Mt 6.9–13]]; [[Luke 11#^11-2|Lk 11.2–4]]), but this language may indicate knowledge of it. *Father*, see [[JANT Mark 14#^14-36|14.36n.]] ^11-25
 
 ### 11.27–33: Question on authority
 

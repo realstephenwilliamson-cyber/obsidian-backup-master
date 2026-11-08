@@ -16,7 +16,7 @@ Text: [[NRSVue Revelation 15|NRSVue]] · [[Revelation 15|BSB and SBLGNT]] · Int
 
 *[[NRSVue Revelation 15#^15-1|Text]], p. 563* · . ^15-1
 
-**[[NRSVue Revelation 15#^15-2|2]]:** *Sea of glass*, stands before the throne (4.6). *Number of its name*, see 13.18n. ^15-2
+**[[NRSVue Revelation 15#^15-2|2]]:** *Sea of glass*, stands before the throne (4.6). *Number of its name*, see [[JANT Revelation 13#^13-18|13.18n.]] ^15-2
 
 **[[NRSVue Revelation 15#^15-3|3]]:** *Song of Moses*, the scene evokes the Israelites before the Red Sea ([[Torah 16 - Beshalach#^14-30|Ex 14.30–15.19]]), where the first “Song of Moses” was sung. This song and its dramatic setting occupies a large portion of one of the earliest rabbinic midrashim, the *Mek. de Rabbi Ishmael*. ^15-3
 
@@ -26,7 +26,7 @@ Text: [[NRSVue Revelation 15|NRSVue]] · [[Revelation 15|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 15#^15-5|5]]:** *Tent of witness*, [[Torah 36 - Beha'alotcha#^9-15|Num 9.15]]. This moveable tabernacle accompanied the Israelites in the wilderness. ^15-5-2
 
-**[[NRSVue Revelation 15#^15-6|6–7]]:** *Plagues* proceed from *bowls* (Gk “phialai”); see 16.1–2n. *Linen . . .  sashes*, recalling the vestments Aaron wore when offering the sacrifice of atonement ([[Torah 29 - Achrei Mot#^16-4|Lev 16.4]]). ^15-6
+**[[NRSVue Revelation 15#^15-6|6–7]]:** *Plagues* proceed from *bowls* (Gk “phialai”); see [[JANT Revelation 16#^16-1-2|16.1–2n.]] *Linen . . .  sashes*, recalling the vestments Aaron wore when offering the sacrifice of atonement ([[Torah 29 - Achrei Mot#^16-4|Lev 16.4]]). ^15-6
 
 **[[NRSVue Revelation 15#^15-8|8]]:** *Smoke*, [[Torah 17 - Yitro#^19-18|Ex 19.18]]; [[Isaiah 06#^6-1|Isa 6.1–4]]. Storm-like manifestations of God’s *glory* and *power* refer to [[Ezekiel 01#^1-28|Ezek 1.28]], in which these parts of God’s presence have already divided into separate agencies (see [[Torah 18 - Mishpatim#^24-6|Ex 24.6]]; [[Torah 23 - Pekudei#^40-34|40.34–35]]). ^15-8
 

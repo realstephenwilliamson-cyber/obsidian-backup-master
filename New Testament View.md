@@ -1,9 +1,10 @@
 ---
 type: parallel
-ref: Matthew 5:12
-translation: nrsvue
+ref: 1 Thessalonians 4:13
+translation: bsb
 cssclasses:
   - wide
+greek: true
 ---
 # New Testament View
 

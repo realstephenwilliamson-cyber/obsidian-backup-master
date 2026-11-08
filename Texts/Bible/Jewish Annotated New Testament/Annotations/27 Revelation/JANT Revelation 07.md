@@ -26,13 +26,13 @@ Text: [[NRSVue Revelation 07|NRSVue]] · [[Revelation 07|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 07#^7-9|9]]:** *Great multitude*, Gentiles who have devoted themselves to purity (white robes) and to the God and Messiah of Judaism. Some biblical and early Jewish texts imagined the nations of the world congregating before the God of Israel at the end of time, honoring him alone, embracing some Jewish practices, and thus implicitly gaining salvation ([[Isaiah 66#^66-18|Isa 66.18–23]]; [[LXX Tobit 13#^13-11|Tob 13.11]]; see also [[Revelation 15#^15-4|Rev 15.4]]); early rabbinic sources likewise regarded righteous Gentiles as having a place in the world to come (*t. Sanh*. 13.2). *Palm branches*, expressions of victory celebration (as in [[LXX 1 Maccabees 13#^13-51|1 Macc 13.51]]; [[Matthew 21#^21-18|Mt 21.18]]; [[Mark 11#^11-8|Mk 11.8]]). ^7-9-2
 
-**[[NRSVue Revelation 07#^7-11|11]]:** *Elders and . . . living creatures*, similar images of the performance of praise (see 4.4n.; 4.6n.) punctuate the liturgical structure of Revelation. ^7-11
+**[[NRSVue Revelation 07#^7-11|11]]:** *Elders and . . . living creatures*, similar images of the performance of praise (see [[JANT Revelation 04#^4-4|4.4n.]]; [[JANT Revelation 04#^4-6|4.6n.]]) punctuate the liturgical structure of Revelation. ^7-11
 
 ### 7.13–17: Reward for fidelity
 
 *[[NRSVue Revelation 07#^7-13|Text]], p. 552* · The idea of purification by means of martyrdom may be inspired by [[Daniel 11#^11-35|Dan 11.35]]; the idea of a great tribulation (Gk “thlipsis”) was common among early Jesus-believers ([[Mark 13#^13-19|Mk 13.19]],[[Mark 13#^13-24|24]]; 2 Thess 1; etc.). Gentiles thus sanctified become like priests, servants before the heav- enly throne and within the heavenly Temple. ^7-13
 
-**[[NRSVue Revelation 07#^7-14|14]]:** *You are the one that knows*, see [[Zechariah 04#^4-5|Zech 4.5]]. *Blood of the Lamb*, see 5.6–7n., and “Names Inscribed on the Body,” p. 561. ^7-14
+**[[NRSVue Revelation 07#^7-14|14]]:** *You are the one that knows*, see [[Zechariah 04#^4-5|Zech 4.5]]. *Blood of the Lamb*, see [[JANT Revelation 05#^5-6|5.6–7n.]], and “Names Inscribed on the Body,” p. 561. ^7-14
 
 **[[NRSVue Revelation 07#^7-16|16]]:** John refers to [[Isaiah 49#^49-10|Isa 49.10]], which originally concerned the return from Babylonian exile, in depicting the blessed status of the sanctified Gentiles. ^7-16
 

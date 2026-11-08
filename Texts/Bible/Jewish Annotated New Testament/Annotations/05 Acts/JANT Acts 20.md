@@ -20,7 +20,7 @@ Text: [[NRSVue Acts 20|NRSVue]] · [[Acts 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 20#^20-3|3]]:** *Plot . . . by the Jews*, Acts often portrays Jews as Paul’s leading opponents (see 18.12). ^20-3
 
-**[[NRSVue Acts 20#^20-4|4]]:** *Sopater*, possibly Sosipater, described by Paul as his “relative” ([[Romans 16#^16-21|Rom 16.21]]). *Beroea*, see 17.10–15. *Aristarchus*, see 19.29. *Secundus from Thessalonica*, otherwise unknown. On Thessalonica, see 17.1–9. *Gaius*, another companion by that name came from Macedonia (19.29). *Derbe*, see 14.6,20–21;16.1. *Timothy*, see 16.1,3; 17.14–15; 18.5; 19.22. *Tychicus*, see [[Ephesians 06#^6-21|Eph 6.21]]; [[Colossians 04#^4-7|Col. 4.7]]; [[2 Timothy 04#^4-12|2 Tim 4.12]]; [[Titus 03#^3-12|Titus 3.12]]. *Trophimus*, accompanies Paul to Jerusalem (21.29). ^20-4
+**[[NRSVue Acts 20#^20-4|4]]:** *Sopater*, possibly Sosipater, described by Paul as his “relative” ([[Romans 16#^16-21|Rom 16.21]]). *Beroea*, see 17.10–15. *Aristarchus*, see 19.29. *Secundus from Thessalonica*, otherwise unknown. On Thessalonica, see 17.1–9. *Gaius*, another companion by that name came from Macedonia (19.29). *Derbe*, see [[Acts 14#^14-6|14.6]],[[Acts 14#^14-20|20–21]];16.1. *Timothy*, see [[Acts 16#^16-1|16.1]],[[Acts 16#^16-3|3]]; [[Acts 17#^17-14|17.14–15]]; [[Acts 18#^18-5|18.5]]; 19.22. *Tychicus*, see [[Ephesians 06#^6-21|Eph 6.21]]; [[Colossians 04#^4-7|Col. 4.7]]; [[2 Timothy 04#^4-12|2 Tim 4.12]]; [[Titus 03#^3-12|Titus 3.12]]. *Trophimus*, accompanies Paul to Jerusalem (21.29). ^20-4
 
 **[[NRSVue Acts 20#^20-5|5]]:** *Us*, the first-person plural resumes (16.10–17). *Troas*, see 16.8–10. ^20-5
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Acts 20|NRSVue]] · [[Acts 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 20#^20-17|17–38]]:** Paul’s speech to the Ephesian elders. Paul’s speech provides a suitable conclusion to his missionary journeys. It reflects on his previous work and anticipates the dangers awaiting him in Jerusalem, exhorts listeners to remain faithful, and defends his actions. ^20-17
 
-**[[NRSVue Acts 20#^20-17|17]]:** *Ephesus*, about 30 mi north of *Trogyllium* Miletus. *Elders*, see 11.30; 14.23; 15.2; 16.4. ^20-17-2
+**[[NRSVue Acts 20#^20-17|17]]:** *Ephesus*, about 30 mi north of *Trogyllium* Miletus. *Elders*, see [[Acts 11#^11-30|11.30]]; [[Acts 14#^14-23|14.23]]; [[Acts 15#^15-2|15.2]]; 16.4. ^20-17-2
 
 **[[NRSVue Acts 20#^20-19|19]]:** *Plots of the Jews*, Jews are again singled out as Paul’s opponents (13.45; 17.5,13; 18.12; 20.3). ^20-19
 
@@ -66,7 +66,7 @@ Text: [[NRSVue Acts 20|NRSVue]] · [[Acts 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 20#^20-29|29–30]]:** *Savage wolves*, admonitions against false teachings commonly appear in early Christian writing; see [[Matthew 07#^7-15|Mt 7.15]]; [[1 Timothy 01#^1-3|1 Tim 1.3–7]]; [[1 Timothy 04#^4-1|4.1–3]]; [[2 Timothy 02#^2-14|2 Tim 2.14–18]]; Ignatius, *Phil.* 2.1–2. ^20-29
 
-**[[NRSVue Acts 20#^20-33|33]]:** See 16.19n. (8.18; 19.25). ^20-33
+**[[NRSVue Acts 20#^20-33|33]]:** See [[JANT Acts 16#^16-19|16.19n.]] (8.18; 19.25). ^20-33
 
 **[[NRSVue Acts 20#^20-34|34]]:** *Worked with my own hands*, see 18.3; [[1 Corinthians 04#^4-12|1 Cor 4.12]]; [[1 Thessalonians 02#^2-9|1 Thess 2.9]]. ^20-34
 

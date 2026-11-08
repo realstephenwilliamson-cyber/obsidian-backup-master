@@ -18,7 +18,7 @@ Text: [[NRSVue Ephesians 03|NRSVue]] · [[Ephesians 03|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 03#^3-1|1]]:** *Prisoner for Christ Jesus*, on account of opposition to his mission to the Gentiles; see [[Acts 21#^21-27|Acts 21.27]]**–**33. ^3-1-2
 
-**[[NRSVue Ephesians 03#^3-3|3]]:** *Mystery*, the secret, undisclosed until Paul’s revelation ([[2 Corinthians 12#^12-1|2 Cor 12.1]]**–**10), that Gentiles were meant to become fellow heirs to the covenant, through Jesus. *As I wrote above*, see 1.9ff. ^3-3
+**[[NRSVue Ephesians 03#^3-3|3]]:** *Mystery*, the secret, undisclosed until Paul’s revelation ([[2 Corinthians 12#^12-1|2 Cor 12.1]]**–**10), that Gentiles were meant to become fellow heirs to the covenant, through Jesus. *As I wrote above*, see [[Ephesians 01#^1-9|1.9]]ff. ^3-3
 
 **[[NRSVue Ephesians 03#^3-5|5]]:** *Was not made known . . . has now been revealed*, it was a common strategy in late Second Temple literature to imply that a truth, long kept secret, has only now been revealed; see, e.g., *Jub* 1.27-28; *2 Bar*. 10.1**–**4. *Prophets by the Spirit*, those who speak the newly revealed truth of Jesus. Though the rabbis claimed that prophecy ended with Malachi (*t. Sot.* 13.3), ample evidence suggests that some first-century Jews believed that prophecy continued; see, e.g., Josephus, *J.W.* 3.351**–**54. ^3-5
 
@@ -34,7 +34,7 @@ Text: [[NRSVue Ephesians 03|NRSVue]] · [[Ephesians 03|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 03#^3-16|16]]:** *In your inner being*, lit., “toward the inner man” (Gk “anthrōpon”). The prayer may be that the saints be strengthened in their path toward their realization of the model of the ideal man, or even toward Jesus. ^3-16
 
-**[[NRSVue Ephesians 03#^3-17|17]]:** *Through faith*, see 2.4**–**5n. ^3-17
+**[[NRSVue Ephesians 03#^3-17|17]]:** *Through faith*, see [[Ephesians 02#^2-4|2.4]]**–**5n. ^3-17
 
 **[[NRSVue Ephesians 03#^3-18|18]]:** *The breadth and length and height and depth*, perhaps the author’s way of saying “everything”; cf. [[Psalms 113#^113-3|Ps 113.3]] and *m. Hag*. 2.1. ^3-18
 

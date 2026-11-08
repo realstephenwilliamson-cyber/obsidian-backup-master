@@ -14,7 +14,7 @@ Text: [[NRSVue Acts 15|NRSVue]] · [[Acts 15|BSB and SBLGNT]] · Introduction: [
 
 ### 15.1–35: Jerusalem council
 
-*[[NRSVue Acts 15#^15-1|Text]], p. 253* · Gentiles have been accepted among the people of God (10.1–11.18; 13.1–14.28); now the church addresses whether these believers should observe particular practices that the Torah commands for Jews. Luke presents this issue as having been resolved amicably (see 6.1–6). Paul provides a substantially different account of the meeting ([[Galatians 02#^2-1|Gal 2.1–10]]). He indicates that an uncircumcised Gentile, Titus, accompanied him to Jerusalem, the debate was contentious, he was designated as the apostle to the Gentiles, and the only requirement imposed on Gentiles was that they remember the poor; nor does Paul mention the writing of a letter to Gentiles. ^15-1
+*[[NRSVue Acts 15#^15-1|Text]], p. 253* · Gentiles have been accepted among the people of God (10.1–11.18; 13.1–14.28); now the church addresses whether these believers should observe particular practices that the Torah commands for Jews. Luke presents this issue as having been resolved amicably (see [[Acts 06#^6-1|6.1–6]]). Paul provides a substantially different account of the meeting ([[Galatians 02#^2-1|Gal 2.1–10]]). He indicates that an uncircumcised Gentile, Titus, accompanied him to Jerusalem, the debate was contentious, he was designated as the apostle to the Gentiles, and the only requirement imposed on Gentiles was that they remember the poor; nor does Paul mention the writing of a letter to Gentiles. ^15-1
 
 **[[NRSVue Acts 15#^15-1|1–5]]:** The position that Gentile believers need to observe the law. ^15-1-2
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Acts 15|NRSVue]] · [[Acts 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 15#^15-9|9]]:** *Cleansing their hearts*, see [[Psalms 051#^51-12|Ps 51.10]]\[HB v 12\]. *No distinction*, 10.34. ^15-9
 
-**[[NRSVue Acts 15#^15-10|10]]:** *Putting God to the test*, 5.9; [[Torah 16 - Beshalach#^17-2|Ex 17.2]]; [[Torah 45 - Vaetchanan#^6-16|Deut 6.16]]; [[Psalms 078#^78-41|Ps 78.41]]. *Yoke*, neckpiece used with draft animal. Many Jewish texts use the image metaphorically to express hardship, especially foreign oppression ([[Torah 50 - Ki Tavo#^28-48|Deut 28.48]]; [[Isaiah 14#^14-25|Isa 14.25]]; [[Jeremiah 27#^27-12|Jer 27.12]]; [[LXX Sirach 40#^40-1|Sir 40.1]]; [[LXX 1 Maccabees 13#^13-41|1 Macc 13.41]]). Rabbinic writings use it to represent proper ac- ceptance of God’s sovereignty (*m. Ber.* 2.2; *b. Seb.* 13a; *b. Ker.* [[Keritot 7#7a|7a]]; *Ex. Rab.* 30.5), which extends blessings to those who wear it (*m. Avot* 3.5). ^15-10
+**[[NRSVue Acts 15#^15-10|10]]:** *Putting God to the test*, 5.9; [[Torah 16 - Beshalach#^17-2|Ex 17.2]]; [[Torah 45 - Vaetchanan#^6-16|Deut 6.16]]; [[Psalms 078#^78-41|Ps 78.41]]. *Yoke*, neckpiece used with draft animal. Many Jewish texts use the image metaphorically to express hardship, especially foreign oppression ([[Torah 50 - Ki Tavo#^28-48|Deut 28.48]]; [[Isaiah 14#^14-25|Isa 14.25]]; [[Jeremiah 27#^27-12|Jer 27.12]]; [[LXX Sirach 40#^40-1|Sir 40.1]]; [[LXX 1 Maccabees 13#^13-41|1 Macc 13.41]]). Rabbinic writings use it to represent proper ac- ceptance of God’s sovereignty (*m. Ber.* 2.2; *b. Seb.* 13a; *b. Ker.* [[Keritot 7#7a|7a]]; *Ex. Rab.* 30.5), which extends blessings to those who wear it (*m. Avot* [[Pirkei Avot 03#^3-5|3.5]]). ^15-10
 
 > [!note] Box *(p. 254)*
 > MACEDONIA
@@ -147,7 +147,7 @@ Text: [[NRSVue Acts 15|NRSVue]] · [[Acts 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 15#^15-37|15.37–39]]:** Paul and Barnabas disagreed over Jews and Gentiles sharing table fellowship ([[Galatians 02#^2-11|Gal 2.11–14]]). ^15-37
 
-**[[NRSVue Acts 15#^15-37|37]]:** *John* . . . *Mark*, see 12.12,25. ^15-37-2
+**[[NRSVue Acts 15#^15-37|37]]:** *John* . . . *Mark*, see [[Acts 12#^12-12|12.12]],[[Acts 12#^12-25|25]]. ^15-37-2
 
 **[[NRSVue Acts 15#^15-38|38]]:** See 13.13. ^15-38
 

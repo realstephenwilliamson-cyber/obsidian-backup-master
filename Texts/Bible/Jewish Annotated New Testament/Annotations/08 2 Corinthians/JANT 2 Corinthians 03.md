@@ -22,9 +22,9 @@ Text: [[NRSVue 2 Corinthians 03|NRSVue]] · [[2 Corinthians 03|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 03#^3-3|3]]:** *Spirit of the living God*, the manifest presence of God on earth, combining two biblical and later Jewish conceptions: God’s “Spirit” (Heb “ruaḥ”), which fills those to whom God imparts wisdom (e.g., Bezalel, [[Torah 21 - Ki Tisa#^31-2|Ex 31.2-5]]; see *b. Ber.* [[Berakhot 55#55a|55a]]), and “living,” i.e., manifestly active in human affairs (e.g., [[Torah 45 - Vaetchanan#^5-23|Deut 5.26]]; [[Joshua 03#^3-10|Josh 3.10]]; [[Psalms 042#^42-3|Ps 42.2]]; *b. Shabb.* [[Shabbat 137#137b|137b]]; *b. Eruv.* [[Eruvin 13#13b|13b]]; *b. [[Pesachim 87#87b|Pesah. 87b]]*). ^3-3
 
-**[[NRSVue 2 Corinthians 03#^3-4|4]]:** *Confidence*, see v 12 and 1.12–14n. ^3-4
+**[[NRSVue 2 Corinthians 03#^3-4|4]]:** *Confidence*, see v 12 and [[JANT 2 Corinthians 01#^1-12-3|1.12–14n.]] ^3-4
 
-**[[NRSVue 2 Corinthians 03#^3-5|5–6]]:** *Competence*, see 2.15–16n. In these verses the adjective, noun, and verb forms of Gk “hikanos” (“fitting,” “qualified”) indicate that God equips *us* for serving the *new covenant*; see 3.2–3n. The \[Holy\] *Spirit* recalls v 3 and anticipates vv 17–18. In Paul’s binary thinking, since *the Spirit gives life*, i.e., resurrects ([[Romans 04#^4-17|Rom 4.17]]; [[Romans 08#^8-11|8.11]]; [[1 Corinthians 15#^15-22|1 Cor 15.22]],[[1 Corinthians 15#^15-36|36]],[[1 Corinthians 15#^15-45|45]]; [[Galatians 03#^3-21|Gal 3.21]]; cf. [[John 05#^5-21|Jn 5.21]]; [[John 06#^6-63|6.63]]; [[1 Peter 03#^3-18|1 Pet 3.18]]), its opposite, the *letter*, i.e., the written code, must mean death. ^3-5
+**[[NRSVue 2 Corinthians 03#^3-5|5–6]]:** *Competence*, see [[JANT 2 Corinthians 02#^2-15|2.15–16n.]] In these verses the adjective, noun, and verb forms of Gk “hikanos” (“fitting,” “qualified”) indicate that God equips *us* for serving the *new covenant*; see [[JANT 2 Corinthians 03#^3-2|3.2–3n.]] The \[Holy\] *Spirit* recalls v 3 and anticipates vv 17–18. In Paul’s binary thinking, since *the Spirit gives life*, i.e., resurrects ([[Romans 04#^4-17|Rom 4.17]]; [[Romans 08#^8-11|8.11]]; [[1 Corinthians 15#^15-22|1 Cor 15.22]],[[1 Corinthians 15#^15-36|36]],[[1 Corinthians 15#^15-45|45]]; [[Galatians 03#^3-21|Gal 3.21]]; cf. [[John 05#^5-21|Jn 5.21]]; [[John 06#^6-63|6.63]]; [[1 Peter 03#^3-18|1 Pet 3.18]]), its opposite, the *letter*, i.e., the written code, must mean death. ^3-5
 
 **[[NRSVue 2 Corinthians 03#^3-7|7–11]]:** Evoking the image of Moses’ radiant countenance ([[Torah 21 - Ki Tisa#^34-29|Ex 34.29–35]]), Paul uses a rabbinic argument, from the lesser to the greater (“qal vahomer”): *if the ministry of* (that which brought) *death* \[i.e., the lesser covenant written in stone\] . . . *came in glory* \[reflected in Moses’ radiant face\] . . . *how much more will the* \[greater\] *ministry of the Spirit come in glory*. The Talmud (*y. Sanh*. 7.11) lists this interpretative technique as the first of Hillel’s seven exegetical principles. ^3-7
 
@@ -39,7 +39,7 @@ Text: [[NRSVue 2 Corinthians 03|NRSVue]] · [[2 Corinthians 03|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 03#^3-11|11]]:** *What was set aside*, the law. ^3-11
 
-**[[NRSVue 2 Corinthians 03#^3-12|12]]:** *Boldness*, fearlessness of appearing before God in the end-time (v 4; 1.12–14n.). ^3-12
+**[[NRSVue 2 Corinthians 03#^3-12|12]]:** *Boldness*, fearlessness of appearing before God in the end-time (v 4; [[JANT 2 Corinthians 01#^1-12-3|1.12–14n.]]). ^3-12
 
 ### 3.13–18: Moses’ veil
 

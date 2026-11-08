@@ -12,9 +12,9 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue 2 Corinthians 02|NRSVue]] · [[2 Corinthians 02|BSB and SBLGNT]] · Introduction: [[JANT 2 Corinthians - Introduction]]
 
-**[[NRSVue 2 Corinthians 02#^2-1|2.1]]:** *Painful visit* may be mentioned in 13.2, during which some church members offended Paul (see 2.5–11; 7.12). A third visit is anticipated in 12.14,21; 13.1. ^2-1
+**[[NRSVue 2 Corinthians 02#^2-1|2.1]]:** *Painful visit* may be mentioned in 13.2, during which some church members offended Paul (see [[2 Corinthians 02#^2-5|2.5–11]]; [[2 Corinthians 07#^7-12|7.12]]). A third visit is anticipated in 12.14,21; 13.1. ^2-1
 
-**[[NRSVue 2 Corinthians 02#^2-3|3–4]]:** *I wrote . . . with many tears* (also v 9), the “letter of tears,” written shortly after the “painful visit”; see 7.8,12 and Introduction. Portions of it may be preserved in chs 10–13. ^2-3
+**[[NRSVue 2 Corinthians 02#^2-3|3–4]]:** *I wrote . . . with many tears* (also v 9), the “letter of tears,” written shortly after the “painful visit”; see [[2 Corinthians 07#^7-8|7.8]],[[2 Corinthians 07#^7-12|12]] and Introduction. Portions of it may be preserved in chs 10–13. ^2-3
 
 **[[NRSVue 2 Corinthians 02#^2-4|4]]:** *Abundant love*, a concept familiar from the Tanakh, where the special love of one person for another is common, e.g., Abraham’s love of Isaac, Isaac’s for Esau, Jacob’s for Rachel, and Jacob’s love of Joseph. Rabbinic literature speaks of a father’s love of his children (*b. Sot.* [[Sotah 49#49a|49a]]) and the love between masters and disciples (*b. Qidd.* [[Kiddushin 22#22a|22a]]). ^2-4
 
@@ -28,7 +28,7 @@ Text: [[NRSVue 2 Corinthians 02|NRSVue]] · [[2 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 02#^2-10|10]]:** *I also forgive*, see [[Matthew 06#^6-12|Mt 6.12]]; [[Matthew 18#^18-21|18.21–35]]. Jewish sources call people to be like God in forgiving (e.g., [[LXX Sirach 28#^28-2|Sir 28.2]]). ^2-10
 
-**[[NRSVue 2 Corinthians 02#^2-11|11]]:** *Satan*, see 11.14; 12.7. Paul also calls this figure “the god of this world” (4.4), “Beliar” (6.15—a variant of Belial), and “serpent” (11.3). The term originally meant accuser or adversary, and only in the latest texts from the Tanakh refers to a heavenly being who prompts God to test humans (as Job) and who tempts individuals to sin; see *b. Yoma* [[Yoma 20#20a|20a]] (Satan accuses humans before God every day except Yom Kippur). ^2-11
+**[[NRSVue 2 Corinthians 02#^2-11|11]]:** *Satan*, see [[2 Corinthians 11#^11-14|11.14]]; 12.7. Paul also calls this figure “the god of this world” (4.4), “Beliar” (6.15—a variant of Belial), and “serpent” (11.3). The term originally meant accuser or adversary, and only in the latest texts from the Tanakh refers to a heavenly being who prompts God to test humans (as Job) and who tempts individuals to sin; see *b. Yoma* [[Yoma 20#20a|20a]] (Satan accuses humans before God every day except Yom Kippur). ^2-11
 
 **[[NRSVue 2 Corinthians 02#^2-12|12]]:** *Troas*, Roman colony in northwest Turkey, a short sea voyage to Philippi; see [[Acts 16#^16-8|Acts 16.8–11]]. *Good news*, Gk “euangelion,” usually translated “gospel.” *Door . . . in the Lord*, the same metaphor, signifying opportunity, appears at *Gen. Rab.* 48.8*.* ^2-12
 
@@ -42,6 +42,6 @@ Text: [[NRSVue 2 Corinthians 02|NRSVue]] · [[2 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 02#^2-15|15–16]]:** *Saved . . . perishing*, different effects Paul’s preaching has. Early Judaism imagines God’s judgment to result in one’s being sealed for eternal life or for Gehenna (e.g., *t. Sanh*. 13.1–12; *b. Rosh Ha-Shanah* [[Rosh Hashanah 16#16b|16b]]–17a). *Sufficient*, or competent, suggests that only God equips competent ministers; see 3.5–6. ^2-15
 
-**[[NRSVue 2 Corinthians 02#^2-17|17]]:** Paul disdainfully calls his opponents *peddlers of God’s word*, probably alluding to their acceptance of financial support; see 11.8–9nn. Judaism insists that one should not profit from knowledge of Torah (e.g., *y. B. Metz*. 2.5 \[8b\], where Samuel bar Surse-tai risks beheading rather than act in a way that suggests he fears anyone but God and so benefits from doing what Torah demands). *Sincerity* anticipates charges of falsehood and cunning (see 4.2). ^2-17
+**[[NRSVue 2 Corinthians 02#^2-17|17]]:** Paul disdainfully calls his opponents *peddlers of God’s word*, probably alluding to their acceptance of financial support; see [[2 Corinthians 11#^11-8|11.8–9]]nn. Judaism insists that one should not profit from knowledge of Torah (e.g., *y. B. Metz*. 2.5 \[8b\], where Samuel bar Surse-tai risks beheading rather than act in a way that suggests he fears anyone but God and so benefits from doing what Torah demands). *Sincerity* anticipates charges of falsehood and cunning (see [[2 Corinthians 04#^4-2|4.2]]). ^2-17
 
 [[JANT 2 Corinthians 01|← 2 Corinthians 1]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 2 Corinthians 03|2 Corinthians 3 →]]

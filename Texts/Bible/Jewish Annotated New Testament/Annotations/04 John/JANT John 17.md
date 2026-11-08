@@ -20,7 +20,7 @@ Text: [[NRSVue John 17|NRSVue]] · [[John 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 17#^17-4|4]]:** *Glorified*, refers to the revelation of God’s power and expresses Jesus’ desire to return to the Father. ^17-4
 
-**[[NRSVue John 17#^17-5|5]]:** *Before the world existed*, see 1.1–3; 8.58. ^17-5
+**[[NRSVue John 17#^17-5|5]]:** *Before the world existed*, see [[John 01#^1-1|1.1–3]]; 8.58. ^17-5
 
 **[[NRSVue John 17#^17-9|9]]:** *On behalf of the world*, although 3.16 refers to God’s love for “the world,” implying a universal idea, here the term “world” is negative, referring to those who rejected Jesus. ^17-9
 

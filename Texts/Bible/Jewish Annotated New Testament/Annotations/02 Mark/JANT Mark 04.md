@@ -18,7 +18,7 @@ Text: [[NRSVue Mark 04|NRSVue]] · [[Mark 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 04#^4-1|1]]:** For the later rabbinic idea of prophecy happening near water, see Mekilta de Rabbi Ishmael, *Pisha* 1.42–76. ^4-1-2
 
-**[[NRSVue Mark 04#^4-10|10–12]]:** *Secret of the kingdom of God*, communicated through parables that are explained to the insiders. Thus Mark suggests that these parables, without an explanation, are incomprehensible—to be understood they require a key. Jesus speaks in parables *in order that* those outside may not understand and seek forgiveness, in fulfillment of the difficult [[Isaiah 06#^6-9|Isa 6.9–10]], and then provides a key for those present. (This hard line is softened in [[Matthew 13#^13-13|Mt 13.13]]; see Mk 3.5n.) Ambiguous is whether the kingdom is present or lies in the future—or both. ^4-10
+**[[NRSVue Mark 04#^4-10|10–12]]:** *Secret of the kingdom of God*, communicated through parables that are explained to the insiders. Thus Mark suggests that these parables, without an explanation, are incomprehensible—to be understood they require a key. Jesus speaks in parables *in order that* those outside may not understand and seek forgiveness, in fulfillment of the difficult [[Isaiah 06#^6-9|Isa 6.9–10]], and then provides a key for those present. (This hard line is softened in [[Matthew 13#^13-13|Mt 13.13]]; see Mk [[JANT Mark 03#^3-5|3.5n.]]) Ambiguous is whether the kingdom is present or lies in the future—or both. ^4-10
 
 **[[NRSVue Mark 04#^4-26|26–29]]:** This parable is similar to the previous parable of the sower, but simpler in that there is only one result of *seed* being scattered, and the point seems to be the surprise at the growth. ^4-26
 

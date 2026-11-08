@@ -26,7 +26,7 @@ Text: [[NRSVue Philippians 01|NRSVue]] · [[Philippians 01|BSB and SBLGNT]] · I
 
 **[[NRSVue Philippians 01#^1-5|5]]:** *The first day*, of Paul’s preaching at Philippi. ^1-5
 
-**[[NRSVue Philippians 01#^1-6|6]]:** *Day of Jesus Christ*, of his return and the close of this age (see 1.10; 2.16). ^1-6
+**[[NRSVue Philippians 01#^1-6|6]]:** *Day of Jesus Christ*, of his return and the close of this age (see [[Philippians 01#^1-10|1.10]]; [[Philippians 02#^2-16|2.16]]). ^1-6
 
 **[[NRSVue Philippians 01#^1-9|9]]:** *Prayer* (for others), see [[Job 42#^42-8|Job 42.8]]. ^1-9
 

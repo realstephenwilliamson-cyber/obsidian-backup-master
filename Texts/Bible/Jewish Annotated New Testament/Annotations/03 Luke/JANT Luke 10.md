@@ -18,11 +18,11 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 10#^10-1|1]]:** *Seventy*, see [[Torah 02 - Noach#^10-2|Gen 10.2–31]] (LXX lists seventy-two names; see translators’ note *b*); *Jub*. 44.34 (seventy nations of the world); in the wilderness, Moses was aided by *seventy* elders ([[Torah 18 - Mishpatim#^24-1|Ex 24.1]],[[Torah 18 - Mishpatim#^24-9|9]]; [[Torah 36 - Beha'alotcha#^11-16|Num 11.16]],[[Torah 36 - Beha'alotcha#^11-24|24–25]]). *Sent them on ahead*, perhaps echoing [[Torah 44 - Devarim#^1-22|Deut 1.22–25]]. ^10-1-2
 
-**[[NRSVue Luke 10#^10-2|2]]:** *Harvest is plentiful*, see 3.17n. ^10-2
+**[[NRSVue Luke 10#^10-2|2]]:** *Harvest is plentiful*, see [[JANT Luke 03#^3-17|3.17n.]] ^10-2
 
-**[[NRSVue Luke 10#^10-4|4]]:** *Carry no purse*, see 9.3n. *Greet no one*, see [[II Kings 04#^4-29|2 Kings 4.29]]. ^10-4
+**[[NRSVue Luke 10#^10-4|4]]:** *Carry no purse*, see [[JANT Luke 09#^9-3|9.3n.]] *Greet no one*, see [[II Kings 04#^4-29|2 Kings 4.29]]. ^10-4
 
-**[[NRSVue Luke 10#^10-5|5]]:** *Peace*, standard greeting; see 24.36; [[I Samuel 25#^25-6|1 Sam 25.6]]; [[LXX Tobit 12#^12-17|Tob 12.17]]. ^10-5
+**[[NRSVue Luke 10#^10-5|5]]:** *Peace*, standard greeting; see [[Luke 24#^24-36|24.36]]; [[I Samuel 25#^25-6|1 Sam 25.6]]; [[LXX Tobit 12#^12-17|Tob 12.17]]. ^10-5
 
 **[[NRSVue Luke 10#^10-7|7]]:** *Laborer deserves to be paid*, see [[Torah 49 - Ki Teitzei#^24-15|Deut 24.15]]; classical rabbis were not paid for teaching. ^10-7
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 10#^10-9|9]]:** *Cure the sick*, in imitation of Jesus and as a sign of the kingdom; Jesus’ followers display this ability in the Book of Acts (e.g., [[Acts 03#^3-6|Acts 3.6]]**–**10). ^10-9
 
-**[[NRSVue Luke 10#^10-11|11]]:** *Dust*, see 9.5n. ^10-11
+**[[NRSVue Luke 10#^10-11|11]]:** *Dust*, see [[JANT Luke 09#^9-5|9.5n.]] ^10-11
 
 **[[NRSVue Luke 10#^10-12|12]]:** *Sodom*, see [[Torah 04 - Vayera#^19-24|Gen 19.24–28]]; for the comparative fate, see [[Ezekiel 16#^16-45|Ezek 16.45–58]]; [[Lamentations 4#^4-6|Lam 4.6]]. ^10-12
 
@@ -38,9 +38,9 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 10#^10-13|Text]], p. 135* · ([[Matthew 11#^11-20|Mt 11.20–24]]). ^10-13
 
-**[[NRSVue Luke 10#^10-13|13]]:** *Chorazin*, 2 miles (3 km) north of Capernaum. *Bethsaida*, see 9.10n. *Tyre and Sidon*, predominantly Gentile cities north of Galilee known for wealth and pride (Isa 23; Ezek 26–28). In contrast to Mk 7 and Mt 15, Luke depicts no mission in this area. *Sackcloth and ashes*, see [[Isaiah 58#^58-5|Isa 58.5]]; [[Esther 04#^4-1|Esth 4.1]],[[Esther 04#^4-3|3]]; [[Daniel 09#^9-3|Dan 9.3]]. ^10-13-2
+**[[NRSVue Luke 10#^10-13|13]]:** *Chorazin*, 2 miles (3 km) north of Capernaum. *Bethsaida*, see [[JANT Luke 09#^9-10-2|9.10n.]] *Tyre and Sidon*, predominantly Gentile cities north of Galilee known for wealth and pride (Isa 23; Ezek 26–28). In contrast to Mk 7 and Mt 15, Luke depicts no mission in this area. *Sackcloth and ashes*, see [[Isaiah 58#^58-5|Isa 58.5]]; [[Esther 04#^4-1|Esth 4.1]],[[Esther 04#^4-3|3]]; [[Daniel 09#^9-3|Dan 9.3]]. ^10-13-2
 
-**[[NRSVue Luke 10#^10-15|15]]:** *Capernaum*, see 4.23n. *Hades*, hell, comparable to Heb “Sheol” (Isa 14; [[LXX Tobit 03#^3-10|Tob 3.10]]; [[LXX Tobit 04#^4-19|4.19]]; [[LXX Wisdom of Solomon 01#^1-14|Wis 1.14]]; and elsewhere). By the first century ce, the concept of “hell” as a permanent place of damnation had developed. ^10-15
+**[[NRSVue Luke 10#^10-15|15]]:** *Capernaum*, see [[JANT Luke 04#^4-23|4.23n.]] *Hades*, hell, comparable to Heb “Sheol” (Isa 14; [[LXX Tobit 03#^3-10|Tob 3.10]]; [[LXX Tobit 04#^4-19|4.19]]; [[LXX Wisdom of Solomon 01#^1-14|Wis 1.14]]; and elsewhere). By the first century ce, the concept of “hell” as a permanent place of damnation had developed. ^10-15
 
 **[[NRSVue Luke 10#^10-16|16]]:** See [[Matthew 10#^10-40|Mt 10.40]]. ^10-16
 
@@ -48,7 +48,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 10#^10-17|Text]], p. 136* · ([[Matthew 11#^11-25|Mt 11.25–27]]). ^10-17
 
-**[[NRSVue Luke 10#^10-17|17]]:** *Seventy*, see 10.1n. ^10-17-2
+**[[NRSVue Luke 10#^10-17|17]]:** *Seventy*, see [[JANT Luke 10#^10-1-2|10.1n.]] ^10-17-2
 
 **[[NRSVue Luke 10#^10-18|18]]:** *Watched Satan fall*, visionary experience ([[John 12#^12-31|Jn 12.31]]; [[Revelation 12#^12-7|Rev 12.7–12]]; cf. [[Isaiah 14#^14-12|Isa 14.12]]). ^10-18
 
@@ -60,7 +60,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 10#^10-21|Text]], p. 136* · ([[Matthew 11#^11-25|Mt 11.25–27]]). ^10-21
 
-**[[NRSVue Luke 10#^10-21|21]]:** *In the Holy Spirit*, in communion with God, see 1.15n. *Father*, *Lord . . . ,* ([[LXX Tobit 07#^7-17|Tob 7.17]]; [[LXX Judith 09#^9-12|Jdt 9.12]]). ^10-21-2
+**[[NRSVue Luke 10#^10-21|21]]:** *In the Holy Spirit*, in communion with God, see [[JANT Luke 01#^1-15|1.15n.]] *Father*, *Lord . . . ,* ([[LXX Tobit 07#^7-17|Tob 7.17]]; [[LXX Judith 09#^9-12|Jdt 9.12]]). ^10-21-2
 
 **[[NRSVue Luke 10#^10-22|22]]:** *Son . . . Father*, see [[John 03#^3-35|Jn 3.35]]; [[John 10#^10-15|10.15]]; [[John 17#^17-21|17.21]]. Knowledge of God is only fully known by and through Jesus. ^10-22
 
@@ -83,7 +83,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 10#^10-25|Text]], p. 137* · ([[Matthew 22#^22-34|Mt 22.34–40]]; [[Mark 12#^12-28|Mk 12.28–34]]; cf. [[Luke 18#^18-9|Lk 18.9–14]]). ^10-25
 
-**[[NRSVue Luke 10#^10-25|25]]:** *Lawyer*, Torah expert and a negative foil for Luke (see 7.30; 11.45–46,52; 14.3). *Test*, in the role of Satan, see 4.2; cf. 11.16. *Inherit eternal life*, see *m. Avot* 2.7, “\[The one who\] has gotten teachings of Torah, he has gotten himself life eternal.” ^10-25-2
+**[[NRSVue Luke 10#^10-25|25]]:** *Lawyer*, Torah expert and a negative foil for Luke (see [[Luke 07#^7-30|7.30]]; [[Luke 11#^11-45|11.45–46]],[[Luke 11#^11-52|52]]; [[Luke 14#^14-3|14.3]]). *Test*, in the role of Satan, see [[Luke 04#^4-2|4.2]]; cf. 11.16. *Inherit eternal life*, see *m. Avot* [[Pirkei Avot 02#^2-7|2.7]], “\[The one who\] has gotten teachings of Torah, he has gotten himself life eternal.” ^10-25-2
 
 **[[NRSVue Luke 10#^10-26|26]]:** *Law*, Torah (2.22–24,27,39; 5.17; 16.16–17; 24.44). ^10-26
 
@@ -95,13 +95,13 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 10#^10-29|29]]:** *Justify himself*, present himself in the right. ^10-29-2
 
-**[[NRSVue Luke 10#^10-30|30]]:** *Jerusalem to Jericho*, 17–18 miles, with a steep drop-off. *Robbers*, thieves, not freedom fighters (see 19.46; 22.52; [[John 10#^10-8|Jn 10.8]]; [[John 18#^18-40|18.40]]; [[2 Corinthians 11#^11-26|2 Cor 11.26]]). ^10-30
+**[[NRSVue Luke 10#^10-30|30]]:** *Jerusalem to Jericho*, 17–18 miles, with a steep drop-off. *Robbers*, thieves, not freedom fighters (see [[Luke 19#^19-46|19.46]]; [[Luke 22#^22-52|22.52]]; [[John 10#^10-8|Jn 10.8]]; [[John 18#^18-40|18.40]]; [[2 Corinthians 11#^11-26|2 Cor 11.26]]). ^10-30
 
-**[[NRSVue Luke 10#^10-31|31]]:** *Priest* (Heb “kohen”), such as Zechariah (see 1.5). *Going down*, not up to Jerusalem, where purity would have been a particular issue had he responsibilities in the Temple (see 1.9n.). ^10-31
+**[[NRSVue Luke 10#^10-31|31]]:** *Priest* (Heb “kohen”), such as Zechariah (see 1.5). *Going down*, not up to Jerusalem, where purity would have been a particular issue had he responsibilities in the Temple (see [[JANT Luke 01#^1-9|1.9n.]]). ^10-31
 
 **[[NRSVue Luke 10#^10-32|32]]:** *Levite*, Temple functionary (see e.g., [[Torah 34 - Bamidbar#^1-50|Num 1.50]]). ^10-32
 
-**[[NRSVue Luke 10#^10-33|33]]:** *Samaritan*, see 9.52n. *Pity*, translated “compassion” in 7.13; 15.20. ^10-33
+**[[NRSVue Luke 10#^10-33|33]]:** *Samaritan*, see [[JANT Luke 09#^9-52-2|9.52n.]] *Pity*, translated “compassion” in 7.13; 15.20. ^10-33
 
 **[[NRSVue Luke 10#^10-34|34]]:** *Oil*, see [[Isaiah 01#^1-6|Isa 1.6]]. *Wine*, as an an-tiseptic. ^10-34
 
@@ -115,9 +115,9 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 10#^10-38|Text]], p. 137* · (see Jn 11–12). ^10-38
 
-**[[NRSVue Luke 10#^10-38|38]]:** *Her home*, Martha is a householder; Jesus criticizes her as he does other householders (see 5.29n.). ^10-38-2
+**[[NRSVue Luke 10#^10-38|38]]:** *Her home*, Martha is a householder; Jesus criticizes her as he does other householders (see [[JANT Luke 05#^5-29-2|5.29n.]]). ^10-38-2
 
-**[[NRSVue Luke 10#^10-39|39]]:** *Sat at the Lord’s feet*, see 1.17n.; women received, and gave, instruction in synagogues (13.11), homes, patronage capacities (see 8.3n.), and personal conversations. ^10-39
+**[[NRSVue Luke 10#^10-39|39]]:** *Sat at the Lord’s feet*, see [[JANT Luke 01#^1-17|1.17n.]]; women received, and gave, instruction in synagogues (13.11), homes, patronage capacities (see [[JANT Luke 08#^8-3|8.3n.]]), and personal conversations. ^10-39
 
 **[[NRSVue Luke 10#^10-40|40]]:** *Many tasks*, Gk “pollēn diakonian,” lit., “much serving” or “much ministry” (4.39). ^10-40
 

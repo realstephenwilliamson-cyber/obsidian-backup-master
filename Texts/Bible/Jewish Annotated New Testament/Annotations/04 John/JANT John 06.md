@@ -53,13 +53,13 @@ Text: [[NRSVue John 06|NRSVue]] · [[John 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 06#^6-25|25]]:** *Rabbi*, see ”Rabbi,” p. 188. ^6-25
 
-**[[NRSVue John 06#^6-26|26]]:** *Very truly*, see 1.51n. ^6-26
+**[[NRSVue John 06#^6-26|26]]:** *Very truly*, see [[JANT John 01#^1-51|1.51n.]] ^6-26
 
 **[[NRSVue John 06#^6-27|27]]:** *Perishes . . . endures*, manna perished after one night; *eternal life* can only result from “the bread of life” (v 35), Jesus. *Seal*, symbol of authority ([[Revelation 05#^5-2|Rev 5.2]]). ^6-27
 
 **[[NRSVue John 06#^6-28|28–29]]:** *Works of God . . . believe in him whom \[God\] has sent*, the contrast is between “working” for food (v 27) and participating in God’s life (v 33). ^6-28
 
-**[[NRSVue John 06#^6-31|31]]:** *Manna*, see [[Psalms 078#^78-24|Ps 78.24]] (quoted); see also [[Torah 16 - Beshalach#^16-4|Ex 16.4]],[[Torah 16 - Beshalach#^16-15|15]]; [[Torah 36 - Beha'alotcha#^11-8|Num 11.8]]. Like Nicodemus and the Samaritan woman, the crowds misunderstand (see 3.5; 4.15). *Bread from Heaven*, see [[Torah 16 - Beshalach#^16-4|Ex 16.4]], which refers to the manna as bread from heaven. ^6-31
+**[[NRSVue John 06#^6-31|31]]:** *Manna*, see [[Psalms 078#^78-24|Ps 78.24]] (quoted); see also [[Torah 16 - Beshalach#^16-4|Ex 16.4]],[[Torah 16 - Beshalach#^16-15|15]]; [[Torah 36 - Beha'alotcha#^11-8|Num 11.8]]. Like Nicodemus and the Samaritan woman, the crowds misunderstand (see [[John 03#^3-5|3.5]]; [[John 04#^4-15|4.15]]). *Bread from Heaven*, see [[Torah 16 - Beshalach#^16-4|Ex 16.4]], which refers to the manna as bread from heaven. ^6-31
 
 **[[NRSVue John 06#^6-33|33]]:** *Bread of God*, bread sent by God, parallel to the manna. ^6-33
 
@@ -77,7 +77,7 @@ Text: [[NRSVue John 06|NRSVue]] · [[John 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 06#^6-42|42]]:** *Son of Joseph*, the Gospel describes Jesus primarily as God’s son, but does not include a narrative that explicitly denies Joseph’s paternity. ^6-42
 
-**[[NRSVue John 06#^6-44|44]]:** *Unless drawn by the Father,* see 3.27n. ^6-44
+**[[NRSVue John 06#^6-44|44]]:** *Unless drawn by the Father,* see [[JANT John 03#^3-27|3.27n.]] ^6-44
 
 **[[NRSVue John 06#^6-45|45]]:** *Prophets*, see [[Isaiah 54#^54-13|Isa 54.13]]. ^6-45
 
@@ -87,7 +87,7 @@ Text: [[NRSVue John 06|NRSVue]] · [[John 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 06#^6-53|53]]:** *Flesh . . . blood*, the literal meaning is offensive because Jews are not to ingest blood ([[Torah 02 - Noach#^9-4|Gen 9.4]]; [[Torah 25 - Tzav#^7-26|Lev 7.26–27]]; [[Torah 29 - Achrei Mot#^17-15|17.15]]). The passage suggests the practice of theophagy (lit., “eating the god”) associated with Greco-Roman mystery cults such as those of Demeter and Dionysus. The allusion implies the Gospel writer’s familiarity with such cults and supports the hypothesis that the audience included Gentiles. ^6-53
 
-**[[NRSVue John 06#^6-60|60]]:** Many followers were offended, perhaps because of the teaching’s cannibalistic overtones (see 6.53n.). ^6-60
+**[[NRSVue John 06#^6-60|60]]:** Many followers were offended, perhaps because of the teaching’s cannibalistic overtones (see [[JANT John 06#^6-53|6.53n.]]). ^6-60
 
 **[[NRSVue John 06#^6-63|63]]:** *Flesh . . . useless*, the meaning of terms in this Gospel is fluid (see also “world” at 3.16 and 16.33; 17.14–16). ^6-63
 

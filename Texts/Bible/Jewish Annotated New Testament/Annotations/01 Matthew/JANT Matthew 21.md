@@ -26,7 +26,7 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 21#^21-8|8]]:** *Cut branches*, see [[Torah 31 - Emor#^23-39|Lev 23.39–40]]; [[II Kings 09#^9-13|2 Kings 9.13]]; [[LXX 2 Maccabees 10#^10-5|2 Macc 10.5–8]]; only [[John 12#^12-13|Jn 12.13]] mentions palms. ^21-8
 
-**[[NRSVue Matthew 21#^21-9|9]]:** *Hosanna*, Heb “save now” ([[Psalms 118#^118-26|Ps 118.26]]). A form of this term (“Help!”) is earlier used in connection with King David ([[II Samuel 14#^14-4|2 Sam 14.4]]). *Son of David*, see 9.27n. *Blessed is the one who comes,* from the “hallel” (“praise”) psalms (Ps 115–18) recited during Passover according to rabbinic tradition (*t. Sukk*. 3.2; *b. Arak*. [[Arakhin 10#10a|10a]]). ^21-9
+**[[NRSVue Matthew 21#^21-9|9]]:** *Hosanna*, Heb “save now” ([[Psalms 118#^118-26|Ps 118.26]]). A form of this term (“Help!”) is earlier used in connection with King David ([[II Samuel 14#^14-4|2 Sam 14.4]]). *Son of David*, see [[JANT Matthew 09#^9-27-2|9.27n.]] *Blessed is the one who comes,* from the “hallel” (“praise”) psalms (Ps 115–18) recited during Passover according to rabbinic tradition (*t. Sukk*. 3.2; *b. Arak*. [[Arakhin 10#10a|10a]]). ^21-9
 
 **[[NRSVue Matthew 21#^21-10|10]]:** *Whole city was in turmoil*, see 2.3. ^21-10
 
@@ -42,9 +42,9 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 21#^21-14|14]]:** *Blind and the lame*, present in the Temple, contrast [[II Samuel 05#^5-8|2 Sam 5.8]], “The blind and the lame shall not come into the house.” ^21-14
 
-**[[NRSVue Matthew 21#^21-15|15]]:** *Hosanna*, see 21.9n. ^21-15
+**[[NRSVue Matthew 21#^21-15|15]]:** *Hosanna*, see [[JANT Matthew 21#^21-9|21.9n.]] ^21-15
 
-**[[NRSVue Matthew 21#^21-16|16]]:** [[Psalms 008#^8-2|Ps 8.1–2]] \[HB vv 2–3\]; 11.25n.; 17.23n. ^21-16
+**[[NRSVue Matthew 21#^21-16|16]]:** [[Psalms 008#^8-2|Ps 8.1–2]] \[HB vv 2–3\]; [[JANT Matthew 11#^11-25-2|11.25n.]]; 17.23n. ^21-16
 
 **[[NRSVue Matthew 21#^21-17|17]]:** *Bethany*, town east of Jerusalem (26.6). ^21-17
 
@@ -58,11 +58,11 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 21#^21-23|Text]], p. 49* · ([[Mark 11#^11-27|Mk 11.27–33]]; [[Luke 20#^20-1|Lk 20.1–8]]). ^21-23
 
-**[[NRSVue Matthew 21#^21-23|23]]:** Temple authorities challenge Jesus (see 9.34; 12.22–24; 19.3–9; 22.15–22,34–46). *Chief priests*, Gk “archiereus,” in sing. “high priest,” in pl. “chief priests,” including previous high priests. [[Luke 03#^3-2|Lk 3.2]] mentions “the high priesthood of Annas and Caiaphas”; Annas, deposed by the Romans in 15 CE, was succeeded by his sons and his son-in-law, Caiaphas, who served as high priest 18–36 CE. ^21-23-2
+**[[NRSVue Matthew 21#^21-23|23]]:** Temple authorities challenge Jesus (see [[Matthew 09#^9-34|9.34]]; [[Matthew 12#^12-22|12.22–24]]; [[Matthew 19#^19-3|19.3–9]]; [[Matthew 22#^22-15|22.15–22]],[[Matthew 22#^22-34|34–46]]). *Chief priests*, Gk “archiereus,” in sing. “high priest,” in pl. “chief priests,” including previous high priests. [[Luke 03#^3-2|Lk 3.2]] mentions “the high priesthood of Annas and Caiaphas”; Annas, deposed by the Romans in 15 CE, was succeeded by his sons and his son-in-law, Caiaphas, who served as high priest 18–36 CE. ^21-23-2
 
 **[[NRSVue Matthew 21#^21-25|25]]:** *Baptism of John*, see 3.1–12. ^21-25
 
-**[[NRSVue Matthew 21#^21-26|26]]:** *Regard John as a prophet*, see 17.12–13n. ^21-26
+**[[NRSVue Matthew 21#^21-26|26]]:** *Regard John as a prophet*, see [[JANT Matthew 17#^17-12|17.12–13n.]] ^21-26
 
 **[[NRSVue Matthew 21#^21-28|21.28–32]]:** **Parable of the two sons.** See 20.1–16. ^21-28
 
@@ -74,17 +74,17 @@ Text: [[NRSVue Matthew 21|NRSVue]] · [[Matthew 21|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 21#^21-33|Text]], p. 50* · ([[Mark 12#^12-1|Mk 12.1–12]]; [[Luke 20#^20-9|Lk 20.9–19]]). See *Gos. Thom*. 65. ^21-33
 
-**[[NRSVue Matthew 21#^21-33|33]]:** *Vineyard*, a reworking of [[Isaiah 05#^5-1|Isa 5.1–2]],[[Isaiah 05#^5-7|7]]; see 20.1–16n. *Tenants*, chief priests and Pharisees (21.45). ^21-33-2
+**[[NRSVue Matthew 21#^21-33|33]]:** *Vineyard*, a reworking of [[Isaiah 05#^5-1|Isa 5.1–2]],[[Isaiah 05#^5-7|7]]; see [[JANT Matthew 20#^20-1-2|20.1–16n.]] *Tenants*, chief priests and Pharisees (21.45). ^21-33-2
 
 **[[NRSVue Matthew 21#^21-34|34]]:** *Slaves*, prophets of Israel (22.3). ^21-34
 
-**[[NRSVue Matthew 21#^21-37|37]]:** *His son*, Jesus (21.41,43; see 7.16–20n.). ^21-37
+**[[NRSVue Matthew 21#^21-37|37]]:** *His son*, Jesus (21.41,43; see [[JANT Matthew 07#^7-16|7.16–20n.]]). ^21-37
 
 **[[NRSVue Matthew 21#^21-39|39]]:** *Out of the vineyard*, Jesus was crucified outside Jerusalem’s walls (27.32–34; [[Mark 15#^15-20|Mk 15.20]]; [[Luke 23#^23-26|Lk 23.26–33]]; [[John 19#^19-17|Jn 19.17]]; see also [[Hebrews 13#^13-12|Heb 13.12–13]]). ^21-39
 
 **[[NRSVue Matthew 21#^21-41|41]]:** See 8.11; [[Acts 13#^13-46|Acts 13.46]]. The leaders condemn themselves. ^21-41
 
-**[[NRSVue Matthew 21#^21-42|42]]:** [[Psalms 118#^118-22|Ps 118.22–23]], also from the Hallel psalms (see 21.9n.); see also [[Acts 04#^4-11|Acts 4.11]]; [[1 Peter 02#^2-7|1 Pet 2.7]]. ^21-42
+**[[NRSVue Matthew 21#^21-42|42]]:** [[Psalms 118#^118-22|Ps 118.22–23]], also from the Hallel psalms (see [[JANT Matthew 21#^21-9|21.9n.]]); see also [[Acts 04#^4-11|Acts 4.11]]; [[1 Peter 02#^2-7|1 Pet 2.7]]. ^21-42
 
 **[[NRSVue Matthew 21#^21-43|43]]:** *People that produces the fruits*, followers of Jesus. ^21-43
 

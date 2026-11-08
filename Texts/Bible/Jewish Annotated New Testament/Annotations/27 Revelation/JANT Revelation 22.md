@@ -26,42 +26,42 @@ Text: [[NRSVue Revelation 22|NRSVue]] · [[Revelation 22|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 22#^22-4|4]]:** *See his face*, represents the greatest privilege in Jewish visionary literature (see *2 En*. 22,39), one not granted to Isaiah (6.1), Ezekiel (ch 1), or Enoch (*1 En*. 14.21; cf. 46.1)—perhaps following God’s proscription in [[Torah 21 - Ki Tisa#^33-20|Ex 33.20–23]] (see [[Torah 08 - Vayishlach#^32-31|Gen 32.31]])—but promised as an eschatological reward in *Jub.* 1.28 and *4 Ezra* 7.98. *Name . . . foreheads*, recalls the mark on the Lamb’s followers (14.1), representing the opposite of the mark of the beast (13.16; see “Names Inscribed on the Body,” p. 561). ^22-4
 
-**[[NRSVue Revelation 22#^22-5|5]]:** *No more night*, see 21.25n. ^22-5
+**[[NRSVue Revelation 22#^22-5|5]]:** *No more night*, see [[JANT Revelation 21#^21-25|21.25n.]] ^22-5
 
 ### 22:6–17: Oracles of eschatological imminence
 
 *[[NRSVue Revelation 22#^22-6|Text]], p. 575* ^22-6
 
-**[[NRSVue Revelation 22#^22-6|6]]:** *God of the spirits of the prophets*, God is the one who infuses prophets with their inspiration, reflecting the religious world of John of Patmos. *His angel*, see 21.9,15, referring back to 1.1. ^22-6-2
+**[[NRSVue Revelation 22#^22-6|6]]:** *God of the spirits of the prophets*, God is the one who infuses prophets with their inspiration, reflecting the religious world of John of Patmos. *His angel*, see [[Revelation 21#^21-9|21.9]],[[Revelation 21#^21-15|15]], referring back to 1.1. ^22-6-2
 
-**[[NRSVue Revelation 22#^22-7|7]]:** *I am coming soon*, this announcement occurs twice more (vv 12,20), affirming the text’s prophetic nature. *Blessed*, see 1.3n. *Words of the prophecy* (also in 16.15), referring back to 1.3. ^22-7
+**[[NRSVue Revelation 22#^22-7|7]]:** *I am coming soon*, this announcement occurs twice more (vv 12,20), affirming the text’s prophetic nature. *Blessed*, see [[JANT Revelation 01#^1-3|1.3n.]] *Words of the prophecy* (also in 16.15), referring back to 1.3. ^22-7
 
-**[[NRSVue Revelation 22#^22-8|8–9]]:** See 19.10n. ^22-8
+**[[NRSVue Revelation 22#^22-8|8–9]]:** See [[JANT Revelation 19#^19-10|19.10n.]] ^22-8
 
-**[[NRSVue Revelation 22#^22-10|10]]:** While many Jewish apocalypses charged their scribes to keep revelations secret ([[Daniel 08#^8-26|Dan 8.26]]; [[Daniel 12#^12-4|12.4]]; *4 Ezra* 14.45–48), Revelation charges that its revelations be kept open, since the end is *near*. ^22-10
+**[[NRSVue Revelation 22#^22-10|10]]:** While many Jewish apocalypses charged their scribes to keep revelations secret ([[Daniel 08#^8-26|Dan 8.26]]; [[Daniel 12#^12-4|12.4]]; *4 Ezra* [[NRSVue 2 Esdras 14#^14-45|14.45–48]]), Revelation charges that its revelations be kept open, since the end is *near*. ^22-10
 
 **[[NRSVue Revelation 22#^22-11|11]]:** The idea that all people should remain as they are in anticipation of the eschaton is a common theme in the early Jesus Movement ([[1 Corinthians 07#^7-17|1 Cor 7.17–24]]). ^22-11
 
 **[[NRSVue Revelation 22#^22-12|12]]:** Another oracle of the risen Christ, affirming (through the pen of John or an editor) his imminent return. ^22-12
 
-**[[NRSVue Revelation 22#^22-13|13]]:** *Alpha and the Omega*, one of the mysterious epithets of the risen Christ: see 1.8n. ^22-13
+**[[NRSVue Revelation 22#^22-13|13]]:** *Alpha and the Omega*, one of the mysterious epithets of the risen Christ: see [[JANT Revelation 01#^1-8|1.8n.]] ^22-13
 
-**[[NRSVue Revelation 22#^22-14|14]]:** Two versions are attested in the earliest manuscripts: one blessing *those who wash . . . robes* \[Gk “plunontes tas stolas”\], and another blessing “those who do . . . commandments” \[“poi-ountes tas entolas”\]. Both employ vocabulary used elsewhere in Revelation (see 7.14; 12.17; 14.12), and it is unclear which reading might be original. *Tree of life*, 22.2n. ^22-14
+**[[NRSVue Revelation 22#^22-14|14]]:** Two versions are attested in the earliest manuscripts: one blessing *those who wash . . . robes* \[Gk “plunontes tas stolas”\], and another blessing “those who do . . . commandments” \[“poi-ountes tas entolas”\]. Both employ vocabulary used elsewhere in Revelation (see [[Revelation 07#^7-14|7.14]]; [[Revelation 12#^12-17|12.17]]; [[Revelation 14#^14-12|14.12]]), and it is unclear which reading might be original. *Tree of life*, [[JANT Revelation 22#^22-2|22.2n.]] ^22-14
 
 **[[NRSVue Revelation 22#^22-15|15]]:** See 21.8. 4QMMT proscribes *dogs*, as animals that bring corpse-pollution, from entering the holy camp (61–65). ^22-15
 
-**[[NRSVue Revelation 22#^22-16|16]]:** Oracle of the risen Christ using traditional Jewish messianic titles ([[Isaiah 11#^11-2|Isa 11.2]],[[Isaiah 11#^11-10|10]]). *Bright morning star*, 2.28n. ^22-16
+**[[NRSVue Revelation 22#^22-16|16]]:** Oracle of the risen Christ using traditional Jewish messianic titles ([[Isaiah 11#^11-2|Isa 11.2]],[[Isaiah 11#^11-10|10]]). *Bright morning star*, [[JANT Revelation 02#^2-28|2.28n.]] ^22-16
 
-**[[NRSVue Revelation 22#^22-17|17]]:** Invitations to be part of the holy city. The invocation *come* also anticipates the invocation to Christ in v 20b. *Water of life*, see 22.1–2n. ^22-17
+**[[NRSVue Revelation 22#^22-17|17]]:** Invitations to be part of the holy city. The invocation *come* also anticipates the invocation to Christ in v 20b. *Water of life*, see [[JANT Revelation 22#^22-1-2|22.1–2n.]] ^22-17
 
 ### 22.18–19: Final warnings
 
-*[[NRSVue Revelation 22#^22-18|Text]], p. 575* · John or a later editor specifies that keeping *the words of the prophecy* (1.3; 22.7,9), should mean not changing a word (see [[Torah 45 - Vaetchanan#^4-2|Deut 4.2]]; [[Torah 47 - Re'eh#^13-1|13.1]]) under threat of eschatological curse. The text is meant to appear as unchanged from the time of its revelation. *Tree of life*, see 22.2n. ^22-18
+*[[NRSVue Revelation 22#^22-18|Text]], p. 575* · John or a later editor specifies that keeping *the words of the prophecy* (1.3; 22.7,9), should mean not changing a word (see [[Torah 45 - Vaetchanan#^4-2|Deut 4.2]]; [[Torah 47 - Re'eh#^13-1|13.1]]) under threat of eschatological curse. The text is meant to appear as unchanged from the time of its revelation. *Tree of life*, see [[JANT Revelation 22#^22-2|22.2n.]] ^22-18
 
 ### 22.20–21: Closing
 
 *[[NRSVue Revelation 22#^22-20|Text]], p. 575* · *Come, Lord Jesus*, translating Aram “maranatha” (see [[1 Corinthians 16#^16-22|1 Cor 16.22]]; *Did*. 10.6), may serve as an audience response to the preceding prophetic oracle, but its ritual function was to usher Christ’s eschatological return. ^22-20
 
-**[[NRSVue Revelation 22#^22-21|21]]:** The pronouncement of *grace* is a term used in letter writing (1.4), particularly characteristic of Paul ([[1 Thessalonians 01#^1-1|1 Thess 1.1]]; [[1 Thessalonians 05#^5-28|5.28]]; Philem 3,25; [[1 Corinthians 01#^1-3|1 Cor 1.3]]; [[1 Corinthians 16#^16-23|16.23]]; etc.), suggesting John’s or an editor’s deliberate effort to appropriate Pauline epistolary style into a prophetic framework. *commandments* b Other ancient authorities lack *all*; others lack *the saints*; others lack *Amen* ^22-21
+**[[NRSVue Revelation 22#^22-21|21]]:** The pronouncement of *grace* is a term used in letter writing (1.4), particularly characteristic of Paul ([[1 Thessalonians 01#^1-1|1 Thess 1.1]]; [[1 Thessalonians 05#^5-28|5.28]]; [[Philemon 01#^1-3|Philem 3]],[[Philemon 01#^1-25|25]]; [[1 Corinthians 01#^1-3|1 Cor 1.3]]; [[1 Corinthians 16#^16-23|16.23]]; etc.), suggesting John’s or an editor’s deliberate effort to appropriate Pauline epistolary style into a prophetic framework. *commandments* b Other ancient authorities lack *all*; others lack *the saints*; others lack *Amen* ^22-21
 
 [[JANT Revelation 21|← Revelation 21]] · [[Jewish Annotated New Testament|JANT index]] · —

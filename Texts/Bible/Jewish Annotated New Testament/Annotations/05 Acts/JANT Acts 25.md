@@ -16,7 +16,7 @@ Text: [[NRSVue Acts 25|NRSVue]] · [[Acts 25|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 25#^25-1|Text]], p. 273* ^25-1
 
-**[[NRSVue Acts 25#^25-1|1]]:** *Caesarea*, see 8.40n. ^25-1-2
+**[[NRSVue Acts 25#^25-1|1]]:** *Caesarea*, see [[JANT Acts 08#^8-40|8.40n.]] ^25-1-2
 
 **[[NRSVue Acts 25#^25-3|3]]:** *Ambush*, Jewish leaders renew a previous plot against Paul; see 23.12–35. Unlike Roman authorities in Acts, Jewish leaders are not interested in justice, but in killing Paul. ^25-3
 

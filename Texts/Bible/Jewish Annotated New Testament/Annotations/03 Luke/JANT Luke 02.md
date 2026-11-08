@@ -32,11 +32,11 @@ Text: [[NRSVue Luke 02|NRSVue]] · [[Luke 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 02#^2-9|9]]:** *Glory of the Lord*, compare Heb “kavod” \[of YHWH\] ([[Torah 16 - Beshalach#^16-7|Ex 16.7]],[[Torah 16 - Beshalach#^16-10|10]]; [[Torah 18 - Mishpatim#^24-16|24.16–17]]; [[Isaiah 40#^40-5|Isa 40.5]]; etc.). ^2-9
 
-**[[NRSVue Luke 02#^2-10|10]]:** *Good news*, see 1.19n. *All the people* (Heb “kol haʿam”), would be heard by a Jewish audience as concerning the “people Israel.” ^2-10
+**[[NRSVue Luke 02#^2-10|10]]:** *Good news*, see [[JANT Luke 01#^1-19|1.19n.]] *All the people* (Heb “kol haʿam”), would be heard by a Jewish audience as concerning the “people Israel.” ^2-10
 
-**[[NRSVue Luke 02#^2-11|11]]:** *City of David*, see 2.3–4n. *Messiah* (Gk “Christos”) *the Lord*, see 1.17n. *Pss. Sol*. 17.32 mentions “a Lord, the anointed” in reference to a Davidic king; see also the “Lord’s anointed” in [[I Samuel 24#^24-7|1 Sam 24.6]] (in reference to King Saul); [[Lamentations 4#^4-20|Lam 4.20]]. ^2-11
+**[[NRSVue Luke 02#^2-11|11]]:** *City of David*, see [[JANT Luke 02#^2-3|2.3–4n.]] *Messiah* (Gk “Christos”) *the Lord*, see [[JANT Luke 01#^1-17|1.17n.]] *Pss. Sol*. 17.32 mentions “a Lord, the anointed” in reference to a Davidic king; see also the “Lord’s anointed” in [[I Samuel 24#^24-7|1 Sam 24.6]] (in reference to King Saul); [[Lamentations 4#^4-20|Lam 4.20]]. ^2-11
 
-**[[NRSVue Luke 02#^2-12|12]]:** *Wrapped in bands*, KJV: “swaddling cloths”; see [[LXX Wisdom of Solomon 07#^7-4|Wis 7.4–5]]. *Manger*, see 2.7n. ^2-12
+**[[NRSVue Luke 02#^2-12|12]]:** *Wrapped in bands*, KJV: “swaddling cloths”; see [[LXX Wisdom of Solomon 07#^7-4|Wis 7.4–5]]. *Manger*, see [[JANT Luke 02#^2-7|2.7n.]] ^2-12
 
 **[[NRSVue Luke 02#^2-13|13]]:** *Heavenly host* ([[Torah 45 - Vaetchanan#^4-19|Deut 4.19]]; [[Torah 54 - V'Zot HaBerachah#^33-2|33.2]]; [[I Kings 22#^22-19|1 Kings 22.19]]; [[Jeremiah 08#^8-2|Jer 8.2]]; [[Psalms 033#^33-6|Ps 33.6]]; etc.), the angels who serve God, and sing God’s praises ([[Isaiah 06#^6-3|Isa 6.3]]; Ps 29). ^2-13
 
@@ -46,7 +46,7 @@ Text: [[NRSVue Luke 02|NRSVue]] · [[Luke 02|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 02#^2-21|Text]], p. 114* ^2-21
 
-**[[NRSVue Luke 02#^2-21|21]]:** *Eight days had passed*, lit., “had been fulfilled”; ritual circumcision takes place eight days after birth; see 1.59n. *Called Jesus*, see 1.31n. ^2-21-2
+**[[NRSVue Luke 02#^2-21|21]]:** *Eight days had passed*, lit., “had been fulfilled”; ritual circumcision takes place eight days after birth; see [[JANT Luke 01#^1-59|1.59n.]] *Called Jesus*, see [[JANT Luke 01#^1-31|1.31n.]] ^2-21-2
 
 **[[NRSVue Luke 02#^2-22|22]]:** *Their purification*, no purification rites were required for fathers or newborns. Some scholars, attempting to prove the historicity of this irregular practice, suggest that Joseph had helped with the delivery of Jesus, and thus he too was ritually unclean, but the text usually cited (e.g., *m. Nidd.* 5.1) do not support the claim. For the mother’s purification (forty days after the birth of a son), see Lev 12. *Law of Moses*, the Gospel’s first of nine references to the Torah. *Jerusalem*, a Lukan focus. *Present him*, possible allusion to the “pidyon ha-ben,” “redemption of the firstborn” ([[Torah 15 - Bo#^13-2|Ex 13.2]],[[Torah 15 - Bo#^13-12|12]],[[Torah 15 - Bo#^13-15|15]]; [[Torah 38 - Korach#^18-15|Num 18.15–16]]; [[Nehemiah 10#^10-36|Neh 10.35–36]]); no law prescribes this presentation. Luke may be alluding to the presentation of Samuel ([[I Samuel 02#^2-24|1 Sam 2.24]]). ^2-22
 
@@ -56,9 +56,9 @@ Text: [[NRSVue Luke 02|NRSVue]] · [[Luke 02|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 02#^2-25|Text]], p. 114* ^2-25
 
-**[[NRSVue Luke 02#^2-25|25]]:** *Jerusalem*, see 2.22. *Simeon*, not otherwise attested. *Consolation* (Gk “paraklēsis”), here synonymous with redemption, see 1.68n.; 24.21n.; see also Isa 40\[LXX\]; *2 Bar*. 44.7. *Holy Spirit*, see 1.15n. ^2-25-2
+**[[NRSVue Luke 02#^2-25|25]]:** *Jerusalem*, see 2.22. *Simeon*, not otherwise attested. *Consolation* (Gk “paraklēsis”), here synonymous with redemption, see [[JANT Luke 01#^1-68|1.68n.]]; [[JANT Luke 24#^24-21|24.21n.]]; see also Isa 40\[LXX\]; *2 Bar*. 44.7. *Holy Spirit*, see [[JANT Luke 01#^1-15|1.15n.]] ^2-25-2
 
-**[[NRSVue Luke 02#^2-27|27]]:** *What was customary*, see 2.22n. ^2-27
+**[[NRSVue Luke 02#^2-27|27]]:** *What was customary*, see [[JANT Luke 02#^2-22|2.22n.]] ^2-27
 
 **[[NRSVue Luke 02#^2-29|29]]:** *Now you are dismissing*, Lat “Nunc dimittis” the traditional name of the canticle. ^2-29
 
@@ -76,7 +76,7 @@ Text: [[NRSVue Luke 02|NRSVue]] · [[Luke 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 02#^2-37|37]]:** *As a widow*, Luke favors celibacy. However, people did not reside in the Temple continually, despite [[Psalms 023#^23-6|Ps 23.6]]. ^2-37
 
-**[[NRSVue Luke 02#^2-38|38]]:** *Redemption of Jerusalem*, see 1.68n.; 24.21n. ^2-38
+**[[NRSVue Luke 02#^2-38|38]]:** *Redemption of Jerusalem*, see [[JANT Luke 01#^1-68|1.68n.]]; [[JANT Luke 24#^24-21|24.21n.]] ^2-38
 
 ### 2.39–40: Jesus’ childhood
 
@@ -96,7 +96,7 @@ Text: [[NRSVue Luke 02|NRSVue]] · [[Luke 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 02#^2-47|47]]:** Stories of heroes’ prodigious wisdom are conventional, e.g., Cyrus (Herodotus I, 114ff.), Alexander the Great (Plutarch, *Life of Alexander* 5), Moses (Philo, *Life of Moses* 1.21; Josephus, *Ant*. 2.230); Samuel (Josephus, *Ant.* 2.230); Josephus, *Life* 9, records: “When I was a child, about fourteen years of age, I was commended by all for the love I had of learning; on which account the high priests and principal men of the city frequently came to me together, to know my opinion about the accurate understanding of points of the law.” ^2-47
 
-**[[NRSVue Luke 02#^2-48|48]]:** *Father*, see 2.33n., anticipating the irony of Jesus’ response in 2.49. ^2-48
+**[[NRSVue Luke 02#^2-48|48]]:** *Father*, see [[JANT Luke 02#^2-33|2.33n.]], anticipating the irony of Jesus’ response in 2.49. ^2-48
 
 **[[NRSVue Luke 02#^2-49|49]]:** *Father’s house*, the phrase is common in the Tanakh but never refers to the Temple. ^2-49
 

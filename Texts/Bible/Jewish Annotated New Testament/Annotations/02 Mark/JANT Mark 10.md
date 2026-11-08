@@ -23,7 +23,7 @@ Text: [[NRSVue Mark 10|NRSVue]] · [[Mark 10|BSB and SBLGNT]] · Introduction: [
 > [!note] Jesus Dying as a Ransom *(p. 90)*
 > Verse 45 is the climax of the middle section of Mark’s Gospel, and it expresses a great irony. James and John expect the Son of Man to come in glory, but Jesus insists that “the Son of Man came not to be served but to serve, and to give his life a ransom for many.” The suffering servant of Isa 52–53 likely underlies this pronouncement, but “ransom” (Gk *lytron*) is unclear. Though there has been lengthy discussion among Christian theologians about how this ransom works—what it accomplishes and how—there is no agreement about the meaning of “give his life a ransom for many” in its Gospel setting. Theories include the idea that Jesus’ death pays off the
 >
-> “debt” of human’s sins, either to Satan or to God, to avert divine retribution (see above on “cup,” v 38n.), or as a sacrifice (like the Temple sacrifices) to cleanse the followers of Jesus from their sins. In the first century, among Jews and Jesus’ followers, a notion of sins as debts and remission of sins as paying off those debts was common (cf. [[Matthew 06#^6-12|Mt 6.12]]). In the previous passage, giving alms was acquiring “treasure in heaven” (10.21), and the ransom Jesus pays may be analogous: by dying he pays off the debt of sins, but to Satan or God? The phrase “for many” can indicate a sacrifice in payment for humans’ sins (see 14.24n.; [[Isaiah 53#^53-12|Isa 53.12]]), but only in the eleventh century did this notion come to dominate western Christian theology.
+> “debt” of human’s sins, either to Satan or to God, to avert divine retribution (see above on “cup,” [[JANT Mark 10#^10-38|v 38n.]]), or as a sacrifice (like the Temple sacrifices) to cleanse the followers of Jesus from their sins. In the first century, among Jews and Jesus’ followers, a notion of sins as debts and remission of sins as paying off those debts was common (cf. [[Matthew 06#^6-12|Mt 6.12]]). In the previous passage, giving alms was acquiring “treasure in heaven” (10.21), and the ransom Jesus pays may be analogous: by dying he pays off the debt of sins, but to Satan or God? The phrase “for many” can indicate a sacrifice in payment for humans’ sins (see [[JANT Mark 14#^14-24|14.24n.]]; [[Isaiah 53#^53-12|Isa 53.12]]), but only in the eleventh century did this notion come to dominate western Christian theology.
 
 **[[NRSVue Mark 10#^10-11|11–12]]:** Biblical law allowed only men to initiate divorce ([[Torah 49 - Ki Teitzei#^24-1|Deut 24.1–4]]), but in this period Jewish women, in accordance with Roman law, also initiated divorces, as Mark and Paul indicate. ^10-11
 
@@ -43,7 +43,7 @@ Text: [[NRSVue Mark 10|NRSVue]] · [[Mark 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 10#^10-28|28–31]]:** This dialogue between Jesus and Peter lies right before the last of the three Passion predictions (see Introduction and 8.22–10.52n.) and is thus near the end of a long transitional arc between the Galilean ministry (1–8.26) and the Passion (11.1–16.8). ^10-28
 
-**[[NRSVue Mark 10#^10-29|29–30]]:** *House or brothers or sisters*, in new religious movements, followers often leave their homes and deny their familial relationships, but they are recompensed with fictive kin and new households. Here followers of Jesus comprise the new family. The new father will be God (see 3.31–35n.; 11.25n.; 14.36n.). ^10-29
+**[[NRSVue Mark 10#^10-29|29–30]]:** *House or brothers or sisters*, in new religious movements, followers often leave their homes and deny their familial relationships, but they are recompensed with fictive kin and new households. Here followers of Jesus comprise the new family. The new father will be God (see [[JANT Mark 03#^3-31|3.31–35n.]]; [[JANT Mark 11#^11-25|11.25n.]]; [[JANT Mark 14#^14-36|14.36n.]]). ^10-29
 
 ### 10.32–45: Third Passion prediction
 
@@ -51,7 +51,7 @@ Text: [[NRSVue Mark 10|NRSVue]] · [[Mark 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 10#^10-37|37]]:** *Sit* at *right hand* and *left, in your glory,* James and John foresee Jesus enthroned with God, perhaps as judge of the coming age, and want to be seated on each side. [[Psalms 110#^110-1|Ps 110.1]] provides the background for this, but *1 En.* 45.3 and Rev 4–5 also show an application of this to an apocalyptic time frame. ^10-37
 
-**[[NRSVue Mark 10#^10-38|38]]:** *Cup*, a metaphor for consequences, usually suffering for sin, that must be accepted ([[Psalms 075#^75-9|Ps 75.8]]; cf. [[Isaiah 51#^51-17|Isa 51.17]],[[Isaiah 51#^51-22|22]]); Jesus’ metaphor indicates that he is accepting the cup in place of others; see 14.36n. *Baptism*, here Jesus’ special destiny. ^10-38
+**[[NRSVue Mark 10#^10-38|38]]:** *Cup*, a metaphor for consequences, usually suffering for sin, that must be accepted ([[Psalms 075#^75-9|Ps 75.8]]; cf. [[Isaiah 51#^51-17|Isa 51.17]],[[Isaiah 51#^51-22|22]]); Jesus’ metaphor indicates that he is accepting the cup in place of others; see [[JANT Mark 14#^14-36|14.36n.]] *Baptism*, here Jesus’ special destiny. ^10-38
 
 **[[NRSVue Mark 10#^10-40|40]]:** *For whom it has been prepared*, perhaps the patriarchs Abraham, Isaac, and Jacob, on the basis of [[Matthew 08#^8-11|Mt 8.11]]; [[Luke 13#^13-28|Lk 13.28]] (see [[Mark 12#^12-24|Mk 12.24–27]]). ^10-40
 

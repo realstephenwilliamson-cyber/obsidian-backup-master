@@ -24,7 +24,7 @@ Text: [[NRSVue Acts 23|NRSVue]] · [[Acts 23|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 23#^23-5|5]]:** Paul, citing [[Torah 18 - Mishpatim#^22-27|Ex 22.28]], affirms his obedience to Torah. ^23-5
 
-**[[NRSVue Acts 23#^23-6|6]]:** On Paul’s claim to be a Pharisee, see [[Philippians 03#^3-5|Phil 3.5]]. On Pharisees, see 5.34n. See “Pharisees,” p. 619. *Hope of the resurrection*, resurrection of Jesus is a central tenet for believers in Acts (2.32; 4.33; 5.30). Paul identifies this tenet as the essential difference between him and his opponents and the only legitimate claim they have against him (see 24.21). ^23-6
+**[[NRSVue Acts 23#^23-6|6]]:** On Paul’s claim to be a Pharisee, see [[Philippians 03#^3-5|Phil 3.5]]. On Pharisees, see [[JANT Acts 05#^5-34|5.34n.]] See “Pharisees,” p. 619. *Hope of the resurrection*, resurrection of Jesus is a central tenet for believers in Acts (2.32; 4.33; 5.30). Paul identifies this tenet as the essential difference between him and his opponents and the only legitimate claim they have against him (see [[Acts 24#^24-21|24.21]]). ^23-6
 
 **[[NRSVue Acts 23#^23-8|8]]:** Josephus notes that Sadducees rejected belief in bodily resurrection while Pharisees accepted it (*J.W.* 2.163–66; *Ant* 18.12–17). ^23-8
 

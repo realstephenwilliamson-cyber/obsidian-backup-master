@@ -20,7 +20,7 @@ Text: [[NRSVue 1 Corinthians 02|NRSVue]] · [[1 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 02#^2-3|3]]:** *Fear and . . .  trembling*, see \[LXX\][[Torah 16 - Beshalach#^15-16|Ex 15.16]]; [[Torah 44 - Devarim#^2-25|Deut 2.25]]; [[Torah 46 - Eikev#^11-25|11.25]]; [[LXX Judith 02#^2-28|Jdt 2.28]], and elsewhere, possibly in response to hostile reception of the gospel. ^2-3
 
-**[[NRSVue 1 Corinthians 02#^2-4|4]]:** *Words of wisdom*, philosophy, mere sophistry (see 1.17). *Spirit and . . .  power*, i.e., of God, demonstrated through both Jesus’ resurrection and the congregation’s charismatic gifts. ^2-4
+**[[NRSVue 1 Corinthians 02#^2-4|4]]:** *Words of wisdom*, philosophy, mere sophistry (see [[1 Corinthians 01#^1-17|1.17]]). *Spirit and . . .  power*, i.e., of God, demonstrated through both Jesus’ resurrection and the congregation’s charismatic gifts. ^2-4
 
 ### 2.6–16: Divine wisdom
 
@@ -32,7 +32,7 @@ Text: [[NRSVue 1 Corinthians 02|NRSVue]] · [[1 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 02#^2-8|8]]:** Those who *crucified the Lord of glory* were ignorant of the divine plan (see [[1 Thessalonians 02#^2-14|1 Thess 2.14–15]]). While the “glory of the Lord” is a common expression, *Lord of glory*, perhaps reflecting Heb “ʾel ha-kavod” in [[Psalms 029#^29-3|Ps 29.3]], is unique to this letter (cf. [[Acts 07#^7-2|Acts 7.2]]). ^2-8
 
-**[[NRSVue 1 Corinthians 02#^2-9|9]]:** Similar to [[Isaiah 52#^52-15|Isa 52.15]]; [[Isaiah 64#^64-3|64.3]] (see also *b. Sanh.* [[Sanhedrin 99#99a|99a]]; *L. A. B.* 26.13), this saying is attributed to Jesus in the *Gos. Thom.* (17) and appears in Muslim tradition (*Sahih Bukhari* 9.93.589; *Sahih Muslim* 4.6783). Elsewhere, Paul only uses *as it is written* to introduce Scriptural passages ([[Romans 01#^1-17|Rom 1.17]]; [[2 Corinthians 08#^8-15|2 Cor 8.15]]). On the Heb version of “as it was written,” “kakatuv,” see 1.19n. *Love,* (Gk “agape”) unites the community (see 13.1-13). ^2-9
+**[[NRSVue 1 Corinthians 02#^2-9|9]]:** Similar to [[Isaiah 52#^52-15|Isa 52.15]]; [[Isaiah 64#^64-3|64.3]] (see also *b. Sanh.* [[Sanhedrin 99#99a|99a]]; *L. A. B.* 26.13), this saying is attributed to Jesus in the *Gos. Thom.* (17) and appears in Muslim tradition (*Sahih Bukhari* 9.93.589; *Sahih Muslim* 4.6783). Elsewhere, Paul only uses *as it is written* to introduce Scriptural passages ([[Romans 01#^1-17|Rom 1.17]]; [[2 Corinthians 08#^8-15|2 Cor 8.15]]). On the Heb version of “as it was written,” “kakatuv,” see [[JANT 1 Corinthians 01#^1-19|1.19n.]] *Love,* (Gk “agape”) unites the community (see [[1 Corinthians 13#^13-1|13.1-13]]). ^2-9
 
 **[[NRSVue 1 Corinthians 02#^2-10|10]]:** *Spirit*, the im-manent presence of God (Heb “ruaḥ”; LXX [[LXX Psalms 50#^50-11|Ps 50.11]], Gk “pneuma”) endows believers with gifts through their union with Christ (for a list of gifts, see [[1 Corinthians 12#^12-8|1 Cor 12.8–10]]); Spirit is identified with Wisdom (e.g., [[Torah 21 - Ki Tisa#^31-3|Ex 31.3]]), which encompasses *the depths of God* ([[Job 11#^11-7|Job 11.7–8]]). The *Spirit* therefore relates to God as (ideally) one’s spiritual life relates to one’s self-knowledge. ^2-10
 
@@ -40,7 +40,7 @@ Text: [[NRSVue 1 Corinthians 02|NRSVue]] · [[1 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 02#^2-13|13]]:** *Not taught by human wisdom*, on human vs. divine speech, see Philo, *Worse* 39,44,133. ^2-13
 
-**[[NRSVue 1 Corinthians 02#^2-14|14]]:** *Unspiritual,* (Gk “psychikos,” breath-formed, or merely a living being) ranked below *spiritual* (2.15) (Gk “pneumatikos,” or spirit-formed; see 15.45 on the “first man, Adam . . . the last Adam”). The hierarchical contrast evokes both the process of creation and philosophical distinctions between air/breath/soul and heaven/spirit/mind ([[Torah 01 - Bereshit#^2-7|Gen 2.7]]; Philo, *Dreams* 1.16,20,30). ^2-14
+**[[NRSVue 1 Corinthians 02#^2-14|14]]:** *Unspiritual,* (Gk “psychikos,” breath-formed, or merely a living being) ranked below *spiritual* (2.15) (Gk “pneumatikos,” or spirit-formed; see [[1 Corinthians 15#^15-45|15.45]] on the “first man, Adam . . . the last Adam”). The hierarchical contrast evokes both the process of creation and philosophical distinctions between air/breath/soul and heaven/spirit/mind ([[Torah 01 - Bereshit#^2-7|Gen 2.7]]; Philo, *Dreams* 1.16,20,30). ^2-14
 
 **[[NRSVue 1 Corinthians 02#^2-15|15]]:** *Discern,* (Gk “anakrinō,” judge)*,* a pun also meaning “interrogate” or “examine.” Holy ones, or saints, act as judges in the context of *interpreting spiritual things,* such as spiritual gifts and end-time revelation (2.13). ^2-15
 

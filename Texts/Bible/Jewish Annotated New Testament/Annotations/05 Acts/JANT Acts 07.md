@@ -160,7 +160,7 @@ Text: [[NRSVue Acts 07|NRSVue]] · [[Acts 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 07#^7-51|51]]:** *Stiff-necked*, see [[Torah 21 - Ki Tisa#^32-9|Ex 32.9]]; [[Torah 21 - Ki Tisa#^33-3|33.3]],[[Torah 21 - Ki Tisa#^33-5|5]]. *Uncircumcised in heart and ears*, [[Torah 33 - Bechukotai#^26-41|Lev 26.41]]; [[Jeremiah 06#^6-10|Jer 6.10]]. *Your ancestors*, until this point, Stephen spoke of *our ancestors* (vv 2,11,12,15,19,38,39,44,45); he now separates himself from his Jewish audience (“your ancestors”) and associates them with their rebellious and murderous ancestors (also v 52). ^7-51-2
 
-**[[NRSVue Acts 07#^7-52|52]]:** *Persecuting the prophets*, possible reference to the killing of Zechariah son of Jehoiada ([[II Chronicles 24#^24-20|2 Chr 24.20–21]]), and a common motif in the ancient Jewish work *Lives of the Prophets*. See also [[Matthew 23#^23-31|Matt 23.31]]. *Murderers*, just as previous generations rejected and killed the prophets, so now Jews have rejected and killed Jesus (see 2.23). ^7-52
+**[[NRSVue Acts 07#^7-52|52]]:** *Persecuting the prophets*, possible reference to the killing of Zechariah son of Jehoiada ([[II Chronicles 24#^24-20|2 Chr 24.20–21]]), and a common motif in the ancient Jewish work *Lives of the Prophets*. See also [[Matthew 23#^23-31|Matt 23.31]]. *Murderers*, just as previous generations rejected and killed the prophets, so now Jews have rejected and killed Jesus (see [[Acts 02#^2-23|2.23]]). ^7-52
 
 **[[NRSVue Acts 07#^7-53|53]]:** Stephen answers the original question (6.13–7.1) by accusing his accusers. He is not guilty of saying things against the Torah (6.13); they are the ones who continually violate it. *Ordained by angels*, see v 38. ^7-53
 

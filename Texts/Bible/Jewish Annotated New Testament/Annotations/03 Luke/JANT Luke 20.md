@@ -16,7 +16,7 @@ Text: [[NRSVue Luke 20|NRSVue]] · [[Luke 20|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 20#^20-1|Text]], p. 156* · ([[Matthew 21#^21-23|Mt 21.23–27]]; [[Mark 11#^11-27|Mk 11.27–33]]; [[John 02#^2-18|Jn 2.18–22]]). ^20-1
 
-**[[NRSVue Luke 20#^20-1|1]]:** *Good news*, see 1.19n. ^20-1-2
+**[[NRSVue Luke 20#^20-1|1]]:** *Good news*, see [[JANT Luke 01#^1-19|1.19n.]] ^20-1-2
 
 **[[NRSVue Luke 20#^20-3|3]]:** *I will also ask you a question*, soon to be the target of rhetorical challenges to which simple “yes” or “no” answers cannot be given (20.21–26 on taxes; 20.27–28 on the logic of resurrection), Jesus begins the rhetorical challenge. ^20-3
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Luke 20|NRSVue]] · [[Luke 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 20#^20-13|13]]:** *Beloved* (3.22), identifies the son with Jesus. ^20-13
 
-**[[NRSVue Luke 20#^20-16|16]]:** *Destroy those tenants*, see 19.27n. *Others*, here, Jesus’ followers. ^20-16
+**[[NRSVue Luke 20#^20-16|16]]:** *Destroy those tenants*, see [[JANT Luke 19#^19-27|19.27n.]] *Others*, here, Jesus’ followers. ^20-16
 
 **[[NRSVue Luke 20#^20-17|17]]:** *The stone* . . . , the verse from [[Psalms 118#^118-22|Ps 118.22]]; served Jesus’ followers as an early proof text; see [[Acts 04#^4-11|Acts 4.11]]; [[Ephesians 02#^2-20|Eph 2.20]]; [[1 Peter 02#^2-6|1 Pet 2.6]]. Ps. 118 is part of the Hallel (Heb for “praise”) Psalms (113–118), associated with festivals in rabbinic literature (e.g., *b. Pesah*. [[Pesachim 117#117a|117a]]). ^20-17
 
@@ -44,7 +44,7 @@ Text: [[NRSVue Luke 20|NRSVue]] · [[Luke 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 20#^20-22|22]]:** *Lawful*, according to Jewish law. ^20-22
 
-**[[NRSVue Luke 20#^20-24|24]]:** *Denarius*, coin depicting a portrait of the emperor (see 12.59n.). Judas the Galilean (see 2.1n.) saw such taxation as “no better than an introduction to slavery, and exhorted the nation to assert their liberty” (Josephus, *Ant*. 18.4; see also 20.102; *J.W.* 2.117–118; 7. 253–258). *Head*, Gk “eikon” (whence “icon”), lit., “image,” cf. [[Torah 45 - Vaetchanan#^4-16|Deut 4.16]] (prohibiting idols in human form). ^20-24
+**[[NRSVue Luke 20#^20-24|24]]:** *Denarius*, coin depicting a portrait of the emperor (see [[JANT Luke 12#^12-59|12.59n.]]). Judas the Galilean (see [[JANT Luke 02#^2-1-2|2.1n.]]) saw such taxation as “no better than an introduction to slavery, and exhorted the nation to assert their liberty” (Josephus, *Ant*. 18.4; see also 20.102; *J.W.* 2.117–118; 7. 253–258). *Head*, Gk “eikon” (whence “icon”), lit., “image,” cf. [[Torah 45 - Vaetchanan#^4-16|Deut 4.16]] (prohibiting idols in human form). ^20-24
 
 **[[NRSVue Luke 20#^20-25|25]]:** *Things that are God’s*, Jesus’ interlocutors would need to determine whether anything belongs to the emperor, or whether everything belongs to God. Christian tradition reads the saying as advocating payment ([[Romans 13#^13-6|Rom 13.6–7]]). Jesus’ opponents charge him with forbidding paying taxes, a plausible interpretation of 23.2. ^20-25
 

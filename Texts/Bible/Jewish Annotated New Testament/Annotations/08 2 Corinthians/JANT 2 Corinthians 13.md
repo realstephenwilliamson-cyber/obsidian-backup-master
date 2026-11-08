@@ -16,15 +16,15 @@ Text: [[NRSVue 2 Corinthians 13|NRSVue]] · [[2 Corinthians 13|BSB and SBLGNT]] 
 
 *[[NRSVue 2 Corinthians 13#^13-1|Text]], p. 372* ^13-1
 
-**[[NRSVue 2 Corinthians 13#^13-1|1]]:** *Third time*, see 12.14n. *“Any . . . witnesses,”* see [[Torah 48 - Shoftim#^19-15|Deut 19.15]]. Paul asserts that his repeated warnings on multiple visits constitute the “two or three witnesses” Deuteronomy requires to sustain an accusation. In its original context, by contrast, the verse requires the testimony of more than one person to convict the accused. *B. Rosh Ha-Shanah* 21b argues that even Solomon was disallowed by God from passing judgments absent additional witnesses. ^13-1-2
+**[[NRSVue 2 Corinthians 13#^13-1|1]]:** *Third time*, see [[JANT 2 Corinthians 12#^12-14-2|12.14n.]] *“Any . . . witnesses,”* see [[Torah 48 - Shoftim#^19-15|Deut 19.15]]. Paul asserts that his repeated warnings on multiple visits constitute the “two or three witnesses” Deuteronomy requires to sustain an accusation. In its original context, by contrast, the verse requires the testimony of more than one person to convict the accused. *B. Rosh Ha-Shanah* 21b argues that even Solomon was disallowed by God from passing judgments absent additional witnesses. ^13-1-2
 
-**[[NRSVue 2 Corinthians 13#^13-3|3–4]]:** *Christ . . . is not weak . . . but is powerful*, the weakness–powerful paradox summarized; see 10.1n. ^13-3
+**[[NRSVue 2 Corinthians 13#^13-3|3–4]]:** *Christ . . . is not weak . . . but is powerful*, the weakness–powerful paradox summarized; see [[JANT 2 Corinthians 10#^10-1-3|10.1n.]] ^13-3
 
 **[[NRSVue 2 Corinthians 13#^13-5|5]]:** *Examine yourselves . . . test yourselves*, a central rabbinic theme, e.g., *b. Ber*. [[Berakhot 5#5a|5a]]: “If a person sees that sufferings afflict him, let him examine his deeds.” *Jesus Christ is in you*, cf. [[Ezekiel 37#^37-14|Ezek 37.14]]: “I will put within my spirit you, and you shall live.” Some rabbinic texts see in this verse a depiction of the messianic resurrection of the dead (*Gen. Rab.* 96.5; *Ex. Rab.* 48.4; *Song Rab.* 1.9)*.* ^13-5
 
 **[[NRSVue 2 Corinthians 13#^13-7|7]]:** *Have met the test*, see 2.9n. The Corinthians are to determine if Christ indeed is in them; if not, Paul’s work with them failed. ^13-7
 
-**[[NRSVue 2 Corinthians 13#^13-10|10]]:** Strong warning so that Paul will not have to resort to *severe* discipline, precisely what the opponents accused Paul of doing (10.10–11). Paul reminds the Corinthians that this is so for the purpose of *building up*, not *tearing down*; see 10.8; 12.19. ^13-10
+**[[NRSVue 2 Corinthians 13#^13-10|10]]:** Strong warning so that Paul will not have to resort to *severe* discipline, precisely what the opponents accused Paul of doing (10.10–11). Paul reminds the Corinthians that this is so for the purpose of *building up*, not *tearing down*; see [[2 Corinthians 10#^10-8|10.8]]; 12.19. ^13-10
 
 ### 13.11–13: Benediction
 

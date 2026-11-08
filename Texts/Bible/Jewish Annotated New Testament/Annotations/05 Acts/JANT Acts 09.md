@@ -48,7 +48,7 @@ Text: [[NRSVue Acts 09|NRSVue]] · [[Acts 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 09#^9-26|26]]:** *Come to Jerusalem*, Paul reports that after the Damascus Road incident, he traveled to Arabia and did not return to Jerusalem for three years ([[Galatians 01#^1-17|Gal 1.17–18]]). ^9-26
 
-**[[NRSVue Acts 09#^9-27|27]]:** *Barnabas*, see 4.36n. He joins Paul as a missionary (12.25; 13.2–50; 14.12–20; 15.2–39; see also [[1 Corinthians 09#^9-6|1 Cor 9.6]]; [[Galatians 02#^2-1|Gal 2.1–13]]). *Apostles*, Paul reports that on his initial visit to Jerusalem he met only with Cephas (Peter) and James ([[Galatians 01#^1-18|Gal 1.18–19]]). *Spoken boldly*, see 4.13n. ^9-27
+**[[NRSVue Acts 09#^9-27|27]]:** *Barnabas*, see [[JANT Acts 04#^4-36|4.36n.]] He joins Paul as a missionary (12.25; 13.2–50; 14.12–20; 15.2–39; see also [[1 Corinthians 09#^9-6|1 Cor 9.6]]; [[Galatians 02#^2-1|Gal 2.1–13]]). *Apostles*, Paul reports that on his initial visit to Jerusalem he met only with Cephas (Peter) and James ([[Galatians 01#^1-18|Gal 1.18–19]]). *Spoken boldly*, see [[JANT Acts 04#^4-13-2|4.13n.]] ^9-27
 
 **[[NRSVue Acts 09#^9-29|29]]:** *Hellenists*, Greek-speaking Jews, as in 6.1. ^9-29
 
@@ -62,7 +62,7 @@ Text: [[NRSVue Acts 09|NRSVue]] · [[Acts 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 09#^9-32|32–35]]:** Peter heals Aeneas, a paralytic, similar to what Jesus does ([[Mark 02#^2-3|Mk 2.3–12]]). ^9-32-2
 
-**[[NRSVue Acts 09#^9-32|32]]:** *Saints*, see 9.13n. ^9-32-3
+**[[NRSVue Acts 09#^9-32|32]]:** *Saints*, see [[JANT Acts 09#^9-13|9.13n.]] ^9-32-3
 
 **[[NRSVue Acts 09#^9-34|34]]:** *Get up*, miraculous deeds are often accompanied by special verbal formulas ([[Mark 01#^1-25|Mk 1.25]]; [[Mark 05#^5-8|5.8]]; [[Mark 09#^9-25|9.25]]; [[Luke 07#^7-14|Lk 7.14]]; [[Luke 08#^8-54|8.54]]; *Greek Magical Papyri* 4.1243). ^9-34
 

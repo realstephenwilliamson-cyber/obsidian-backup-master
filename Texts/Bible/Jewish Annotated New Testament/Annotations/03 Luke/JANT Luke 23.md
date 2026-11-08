@@ -16,17 +16,17 @@ Text: [[NRSVue Luke 23|NRSVue]] · [[Luke 23|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 23#^23-1|Text]], p. 162* · ([[Matthew 27#^27-1|Mt 27.1–14]]; [[Mark 15#^15-1|Mk 15.1–5]]; [[John 18#^18-28|Jn 18.28–38]]). ^23-1
 
-**[[NRSVue Luke 23#^23-1|1]]:** *Pilate*, see 3.1n. ^23-1-2
+**[[NRSVue Luke 23#^23-1|1]]:** *Pilate*, see [[JANT Luke 03#^3-1-2|3.1n.]] ^23-1-2
 
 **[[NRSVue Luke 23#^23-2|2]]:** *Perverting our nation*, perhaps alluding to [[Torah 47 - Re'eh#^13-2|Deut 13.1–11]] on false prophets. *Forbidding us to pay taxes*, see 20.25. *A king*, see 19.38. ^23-2
 
 **[[NRSVue Luke 23#^23-3|3]]:** *You say so*, does not answer the question. ^23-3
 
-**[[NRSVue Luke 23#^23-4|4]]:** *I find no basis*, see 23.14,22,41; [[John 19#^19-4|Jn 19.4]],[[John 19#^19-6|6]]; [[Acts 13#^13-28|Acts 13.28]]. The Gospels portray Pilate as seeking to free Jesus but succumbing to pressure by the Jewish rulers and population. ^23-4
+**[[NRSVue Luke 23#^23-4|4]]:** *I find no basis*, see [[Luke 23#^23-14|23.14]],[[Luke 23#^23-22|22]],[[Luke 23#^23-41|41]]; [[John 19#^19-4|Jn 19.4]],[[John 19#^19-6|6]]; [[Acts 13#^13-28|Acts 13.28]]. The Gospels portray Pilate as seeking to free Jesus but succumbing to pressure by the Jewish rulers and population. ^23-4
 
 ### 23.6–12: Jesus before Herod
 
-*[[NRSVue Luke 23#^23-6|Text]], p. 163* · An episode unique to Luke’s Gospel. Son of Herod the Great (see 3.1n.), *Herod* \[Antipas\] arrested (3.19–20) and beheaded (9.9) John the Baptist. ^23-6
+*[[NRSVue Luke 23#^23-6|Text]], p. 163* · An episode unique to Luke’s Gospel. Son of Herod the Great (see [[JANT Luke 03#^3-1-2|3.1n.]]), *Herod* \[Antipas\] arrested (3.19–20) and beheaded (9.9) John the Baptist. ^23-6
 
 **[[NRSVue Luke 23#^23-7|7]]:** *Sent him off to Herod*, perhaps alluding to [[Psalms 002#^2-2|Ps 2.2]] (kings taking council against the “anointed”). ^23-7
 
@@ -34,11 +34,11 @@ Text: [[NRSVue Luke 23|NRSVue]] · [[Luke 23|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 23#^23-9|9]]:** *Gave him no answer*, see [[Matthew 27#^27-12|Mt 27.12]]; [[Mark 15#^15-5|Mk 15.5]]. ^23-9
 
-**[[NRSVue Luke 23#^23-10|10]]:** *Chief priests and the scribes*, see 19.47n. ^23-10
+**[[NRSVue Luke 23#^23-10|10]]:** *Chief priests and the scribes*, see [[JANT Luke 19#^19-47-2|19.47n.]] ^23-10
 
 **[[NRSVue Luke 23#^23-11|11]]:** *Mocked him*, see [[John 19#^19-2|Jn 19.2–3]]. **23.13–16 \[17\]: Pilate declares Jesus innocent.** ^23-11
 
-**[[NRSVue Luke 23#^23-13|13]]:** *Chief priests* (see 19.47n.), together with the *people* condemn Jesus. ^23-13
+**[[NRSVue Luke 23#^23-13|13]]:** *Chief priests* (see [[JANT Luke 19#^19-47-2|19.47n.]]), together with the *people* condemn Jesus. ^23-13
 
 **[[NRSVue Luke 23#^23-14|14]]:** *Not found this man guilty*, see vv 4,22,41. ^23-14
 
@@ -102,15 +102,15 @@ Text: [[NRSVue Luke 23|NRSVue]] · [[Luke 23|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 23#^23-47|47]]:** *Innocent*, Gk “dikaios,” lit., “righteous.” ^23-47
 
-**[[NRSVue Luke 23#^23-48|48]]:** *Beating their breasts*, see v 27n. ^23-48
+**[[NRSVue Luke 23#^23-48|48]]:** *Beating their breasts*, see [[JANT Luke 23#^23-27|v 27n.]] ^23-48
 
-**[[NRSVue Luke 23#^23-49|49]]:** See [[Matthew 27#^27-55|Mt 27.55–56]]; [[Mark 15#^15-40|Mk 15.40–41]]; [[John 19#^19-25|Jn 19.25–27]]. *Including the women*, see 23.55; see also 8.1–3; 24.10. ^23-49
+**[[NRSVue Luke 23#^23-49|49]]:** See [[Matthew 27#^27-55|Mt 27.55–56]]; [[Mark 15#^15-40|Mk 15.40–41]]; [[John 19#^19-25|Jn 19.25–27]]. *Including the women*, see [[Luke 23#^23-55|23.55]]; see also [[Luke 08#^8-1|8.1–3]]; 24.10. ^23-49
 
 ### 23.50–56: Jesus’ entombment
 
 *[[NRSVue Luke 23#^23-50|Text]], p. 165* · ([[Matthew 27#^27-57|Mt 27.57–60]]; [[Mark 15#^15-42|Mk 15.42–46]]; [[John 19#^19-38|Jn 19.38–42]]). ^23-50
 
-**[[NRSVue Luke 23#^23-50|50]]:** *Council*, see 22.66n. ^23-50-2
+**[[NRSVue Luke 23#^23-50|50]]:** *Council*, see [[JANT Luke 22#^22-66-2|22.66n.]] ^23-50-2
 
 **[[NRSVue Luke 23#^23-51|51]]:** *Arimathea* (likely from Heb “Ramataim,” cf. Ramoth, Ramah), near Jerusalem. ^23-51
 

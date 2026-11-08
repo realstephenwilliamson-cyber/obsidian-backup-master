@@ -12,7 +12,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Philippians 03|NRSVue]] · [[Philippians 03|BSB and SBLGNT]] · Introduction: [[JANT Philippians - Introduction]]
 
-**[[NRSVue Philippians 03#^3-1|3.1a]]:** *Finally*, seen by some to indicate that one letter ended here (see 4.8; [[2 Corinthians 13#^13-11|2 Cor 13.11]]); better gauged as transitional toward subject matter not yet taken up (see [[1 Thessalonians 04#^4-1|1 Thess 4.1]]; [[2 Thessalonians 03#^3-1|2 Thess 3.1]]). ^3-1
+**[[NRSVue Philippians 03#^3-1|3.1a]]:** *Finally*, seen by some to indicate that one letter ended here (see [[Philippians 04#^4-8|4.8]]; [[2 Corinthians 13#^13-11|2 Cor 13.11]]); better gauged as transitional toward subject matter not yet taken up (see [[1 Thessalonians 04#^4-1|1 Thess 4.1]]; [[2 Thessalonians 03#^3-1|2 Thess 3.1]]). ^3-1
 
 ### 3.1b–11: Warnings against false teachers
 
@@ -47,7 +47,7 @@ Text: [[NRSVue Philippians 03|NRSVue]] · [[Philippians 03|BSB and SBLGNT]] · I
 >
 > Paul was wary due to experiences in other early churches where rival teachers promoted circumcision of Gentile men (see [[Galatians 02#^2-1|Gal 2.1–16]]; [[Galatians 05#^5-2|5.2–6]],[[Galatians 05#^5-12|12]]); likely also because of Philippi’s vulnerable short distance to the Egnatian Way—rendering this church susceptible to such subversives showing up. His bitter tirade reflects conviction that Gentile believers in Christ should not convert to Judaism lest they nullify their new freedom, thereby hindering God’s plans for Gentile salvation and clouding their perception that justification comes solely by the grace of God through the efficacy of the cross. If one could become righteous by one’s own works, Christ would not have needed to die ([[Galatians 02#^2-21|Gal 2.21b]]).
 >
-> Instead, the Philippians should heed Paul as expert in preempting his enemies—given his own consummate possession of the very privileges of which his adversaries boast (see 3.3–6nn.). Apprais-ing his impeccable privileges at their true value (namely, as less than nothing for paling before the gift of Christ), Paul gladly relinquished them in favor of the extreme gain of knowing Christ Jesus as Lord.
+> Instead, the Philippians should heed Paul as expert in preempting his enemies—given his own consummate possession of the very privileges of which his adversaries boast (see [[Philippians 03#^3-3|3.3–6]]nn.). Apprais-ing his impeccable privileges at their true value (namely, as less than nothing for paling before the gift of Christ), Paul gladly relinquished them in favor of the extreme gain of knowing Christ Jesus as Lord.
 >
 > Elsewhere ([[Romans 09#^9-4|Rom 9.4–5]]) Paul declares that “to them \[the Israelites\] belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises; . . . the patriarchs, and from them, according to the flesh, comes the Messiah.” In Philippians, his contrasting depreciation of his Jewish background should be interpreted as in the service of his polemic against the “dogs” who seek to discredit him.
 

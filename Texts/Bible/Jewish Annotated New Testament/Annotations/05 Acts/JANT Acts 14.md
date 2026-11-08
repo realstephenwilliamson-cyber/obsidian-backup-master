@@ -18,11 +18,11 @@ Text: [[NRSVue Acts 14|NRSVue]] · [[Acts 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 14#^14-1|1–7]]:** Events in Iconium.  ^14-1-2
 
-**[[NRSVue Acts 14#^14-1|1]]:** *Iconium*, see 13.51n. *Synagogue*, despite announcing that he is turning to the Gentiles (13.46), Paul continues to preach to Jews (16.13; 17.1,10,17; 18.4,19,26; 19.8), and some become believers. *Jews*, see 13.43. *Greeks*, see 13.16. **3**: *Speaking boldly*, see 4.13. ^14-1-3
+**[[NRSVue Acts 14#^14-1|1]]:** *Iconium*, see [[JANT Acts 13#^13-51|13.51n.]] *Synagogue*, despite announcing that he is turning to the Gentiles (13.46), Paul continues to preach to Jews (16.13; 17.1,10,17; 18.4,19,26; 19.8), and some become believers. *Jews*, see 13.43. *Greeks*, see 13.16. **3**: *Speaking boldly*, see 4.13. ^14-1-3
 
 **[[NRSVue Acts 14#^14-4|4]]:** *Jews*, those not persuaded to join Paul. *Apostles*, title applied to Paul only here and v 14. Paul claimed the title for himself ([[Romans 01#^1-1|Rom 1.1]]; [[1 Corinthians 01#^1-1|1 Cor 1.1]]; [[1 Corinthians 09#^9-1|9.1]]; [[2 Corinthians 01#^1-1|2 Cor 1.1]]; [[Galatians 01#^1-1|Gal 1.1]]), although some objected ([[1 Corinthians 09#^9-2|1 Cor 9.2]]). ^14-4
 
-**[[NRSVue Acts 14#^14-5|5]]:** *Rulers*, synagogue leaders for Jews, civic officials for Greeks. *Stone them*, either legal punishment or mob action; see 7.58n. ^14-5
+**[[NRSVue Acts 14#^14-5|5]]:** *Rulers*, synagogue leaders for Jews, civic officials for Greeks. *Stone them*, either legal punishment or mob action; see [[JANT Acts 07#^7-58|7.58n.]] ^14-5
 
 **[[NRSVue Acts 14#^14-6|6]]:** *Lystra* . . . *Derbe*, smaller towns in Lycaonia. ^14-6
 
@@ -48,11 +48,11 @@ Text: [[NRSVue Acts 14|NRSVue]] · [[Acts 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 14#^14-21|21–28]]:** **Return to Syrian Antioch.** Paul revisits communities in Lycaonia, Pisidia, and Pamphylia. ^14-21
 
-**[[NRSVue Acts 14#^14-22|22]]:** *Strengthened the souls*, see 15.41; 16.5; 18.23; 20.2. In [[Luke 21#^21-12|Lk 21.12–19]], Jesus instructs his disciples that suffering is a precursor to the kingdom of God; Jewish texts often associate violence and suffering with the beginning of the end-time ([[Daniel 11#^11-32|Dan 11.32–35]]; *Sib*. *Or*. 3.635–51; *4 Ezra*\[2 Esd\] 6.18–25; *2 Bar*. 70; *m. Sot.* 9.15). ^14-22
+**[[NRSVue Acts 14#^14-22|22]]:** *Strengthened the souls*, see 15.41; 16.5; 18.23; 20.2. In [[Luke 21#^21-12|Lk 21.12–19]], Jesus instructs his disciples that suffering is a precursor to the kingdom of God; Jewish texts often associate violence and suffering with the beginning of the end-time ([[Daniel 11#^11-32|Dan 11.32–35]]; *Sib*. *Or*. 3.635–51; *4 Ezra*\[2 Esd\] [[NRSVue 2 Esdras 06#^6-18|6.18–25]]; *2 Bar*. 70; *m. Sot.* 9.15). ^14-22
 
-**[[NRSVue Acts 14#^14-23|23]]:** *Elders*, see 11.30. *Lord*, Jesus, see 1.21; 9.5. ^14-23
+**[[NRSVue Acts 14#^14-23|23]]:** *Elders*, see 11.30. *Lord*, Jesus, see [[Acts 01#^1-21|1.21]]; 9.5. ^14-23
 
-**[[NRSVue Acts 14#^14-25|25]]:** *Attalia*, seaport of Perga; see 13.13n. ^14-25
+**[[NRSVue Acts 14#^14-25|25]]:** *Attalia*, seaport of Perga; see [[JANT Acts 13#^13-13-2|13.13n.]] ^14-25
 
 **[[NRSVue Acts 14#^14-27|27]]:** *Church*, assembly of believers. *Faith for the Gentiles*, although Acts mentions Paul’s success among Jews, it is primarily interested in Gentile believers. ^14-27
 

@@ -14,11 +14,11 @@ Text: [[NRSVue 2 Peter 03|NRSVue]] · [[2 Peter 03|BSB and SBLGNT]] · Introduct
 
 ### 3.1–13: The certainty of the Christ’s return
 
-*[[NRSVue 2 Peter 03#^3-1|Text]], p. 516* · [[2 Peter 03#^3-1|2 Pet 3.1–7]] follows Jude 17–18. ^3-1
+*[[NRSVue 2 Peter 03#^3-1|Text]], p. 516* · [[2 Peter 03#^3-1|2 Pet 3.1–7]] follows [[Jude 01#^1-17|Jude 17–18]]. ^3-1
 
 **[[NRSVue 2 Peter 03#^3-1|1]]:** *Beloved* (Gk “agapetoi”), common Christian epistolary address (see vv 8,14,17; [[1 Corinthians 04#^4-14|1 Cor 4.14]]; [[2 Corinthians 07#^7-1|2 Cor 7.1]]). *Second letter*, in addition to 1 Peter. ^3-1-2
 
-**[[NRSVue 2 Peter 03#^3-2|2]]:** *Apostles*, the Twelve, although perhaps including Paul (and others), see [[Romans 01#^1-1|Rom 1.1]]; [[Romans 11#^11-13|11.13]]; [[Romans 16#^16-7|16.7]], etc. The author compares the apostles to the biblical prophets (see 1.16–21). *Lord and Savior*, cf. 1.11; 2.20; 3.18. ^3-2
+**[[NRSVue 2 Peter 03#^3-2|2]]:** *Apostles*, the Twelve, although perhaps including Paul (and others), see [[Romans 01#^1-1|Rom 1.1]]; [[Romans 11#^11-13|11.13]]; [[Romans 16#^16-7|16.7]], etc. The author compares the apostles to the biblical prophets (see [[2 Peter 01#^1-16|1.16–21]]). *Lord and Savior*, cf. [[2 Peter 01#^1-11|1.11]]; [[2 Peter 02#^2-20|2.20]]; 3.18. ^3-2
 
 **[[NRSVue 2 Peter 03#^3-3|3]]:** *Last days*, a Hebraism (“aḥarit ha-yamim,” e.g., [[Torah 12 - Vayechi#^49-1|Gen 49.1]]; [[Torah 40 - Balak#^24-14|Num 24.14]]), for the time of distress that precedes the end. *Scoffers will come*, referring to those who deny Jesus’ return. ^3-3
 
@@ -47,8 +47,8 @@ Text: [[NRSVue 2 Peter 03|NRSVue]] · [[2 Peter 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 2 Peter 03#^3-15|15–16]]:** *Patience*, a reiteration of the idea in 3.9. See [[Romans 02#^2-4|Rom 2.4]]; [[Romans 09#^9-22|9.22]]. *Our beloved brother Paul wrote to you \[ . . . \] the other scriptures*, referring to Paul’s letters as authoritative *scripture*, this verse is one of the earliest indications of general Christian acceptance of the Pauline literature. *Hard to understand*, Peter and Paul were often at odds (see Gal 2), yet both Acts 15 and 2 Peter show them as working in harmony. *Twist to their own destruction*, perhaps by understanding Paul as promoting antinomianism. ^3-15
 
-**[[NRSVue 2 Peter 03#^3-17|17]]:** *Beloved*, see v 1n. ^3-17
+**[[NRSVue 2 Peter 03#^3-17|17]]:** *Beloved*, see [[JANT 2 Peter 03#^3-1-2|v 1n.]] ^3-17
 
-**[[NRSVue 2 Peter 03#^3-18|18]]:** *Grace and knowledge*, see 1.2; the author creates a circular closure. *Day of eternity*, the term is found only here in NT, but see [[LXX Sirach 18#^18-10|Sir 18.10]], “As a drop of water \[ . . . \] so are a few years among the days of eternity.” ^3-18
+**[[NRSVue 2 Peter 03#^3-18|18]]:** *Grace and knowledge*, see [[2 Peter 01#^1-2|1.2]]; the author creates a circular closure. *Day of eternity*, the term is found only here in NT, but see [[LXX Sirach 18#^18-10|Sir 18.10]], “As a drop of water \[ . . . \] so are a few years among the days of eternity.” ^3-18
 
 [[JANT 2 Peter 02|← 2 Peter 2]] · [[Jewish Annotated New Testament|JANT index]] · —

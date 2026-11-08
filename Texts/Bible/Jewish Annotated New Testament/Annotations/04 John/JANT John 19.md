@@ -24,7 +24,7 @@ Text: [[NRSVue John 19|NRSVue]] · [[John 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 19#^19-6|6]]:** *Chief priests and police*, in John it is the Temple party, and not the people as a whole, who call for crucifixion (contrast [[Matthew 27#^27-25|Mt 27.25]]). ^19-6
 
-**[[NRSVue John 19#^19-7|7]]:** *Jews*, here, the Temple functionaries. *Law*, probably a reference to the prohibition of blasphemy; see 10.30n. ^19-7
+**[[NRSVue John 19#^19-7|7]]:** *Jews*, here, the Temple functionaries. *Law*, probably a reference to the prohibition of blasphemy; see [[JANT John 10#^10-30|10.30n.]] ^19-7
 
 **[[NRSVue John 19#^19-8|8]]:** *Afraid*, perhaps of making the wrong judgment. ^19-8
 
@@ -50,7 +50,7 @@ Text: [[NRSVue John 19|NRSVue]] · [[John 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 19#^19-24|24]]:** *Scripture*, [[Psalms 022#^22-19|Ps 22.18]]. In [[Mark 15#^15-34|Mk 15.34]], Jesus quotes the first verse of this psalm, “My God, my God, why have you forsaken me?” ^19-24
 
-**[[NRSVue John 19#^19-25|25]]:** *His mother*, see 2.1n. *Mary the wife of Clopas*, perhaps mother of James and Joses ([[Mark 15#^15-40|Mk 15.40]]). The number of women is unclear, but many commentators understand that four women were present: Jesus’ mother, his aunt, a woman named Mary who was the mother of Clopas, and Mary Magdalene. In the Synoptics, the women stand at a distance ([[Mark 15#^15-40|Mk 15.40]]). This is the first reference in this Gospel to Mary Magdalene, who comes to the fore in 20.1–18. ^19-25
+**[[NRSVue John 19#^19-25|25]]:** *His mother*, see [[JANT John 02#^2-1-2|2.1n.]] *Mary the wife of Clopas*, perhaps mother of James and Joses ([[Mark 15#^15-40|Mk 15.40]]). The number of women is unclear, but many commentators understand that four women were present: Jesus’ mother, his aunt, a woman named Mary who was the mother of Clopas, and Mary Magdalene. In the Synoptics, the women stand at a distance ([[Mark 15#^15-40|Mk 15.40]]). This is the first reference in this Gospel to Mary Magdalene, who comes to the fore in 20.1–18. ^19-25
 
 **[[NRSVue John 19#^19-26|26]]:** *Here is your son*, Jesus’ brothers disappear from the Gospel after 7.10. The reference to “brothers” in 20.17 is to the disciples. On a narrative level, the Gospel is showing that Jesus is concerned to care for the well-being of his mother, perhaps to counter-balance his rather gruff words to her in 2.4, the only other place that she appears. Jesus is also accentuating the role that the Beloved Disciple will have after his death, by giving him and his mother into their mutual care. The passage has been interpreted symbolically by viewing the mother and the disciple as representing, for example, Jewish Christianity and Gentile Christianity, with the former being entrusted to the care of the latter. The narrative interpretations, however, are more convincing. ^19-26
 
@@ -58,7 +58,7 @@ Text: [[NRSVue John 19|NRSVue]] · [[John 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 19#^19-29|29]]:** The only time in the Gospel that Jesus explicitly consumes food or drink, perhaps an allusion to his not-quite-human status. Biblical and post-biblical angels generally do not eat or drink, e.g., [[Judges 13#^13-16|Judg 13.16]]. *Hyssop*, used to mark the doorposts with the blood of lambs so the angel of death would “pass over” the Israelite firstborn sons ([[Torah 15 - Bo#^12-22|Ex 12.22]]). ^19-29
 
-**[[NRSVue John 19#^19-31|31]]:** *Day of Preparation*, see 19.14n. *Legs . . . broken*, to hasten death. That Jesus’ legs were not broken symbolizes his suitability as a Passover sacrifice given his unblemished nature, both physical and spiritual ([[Torah 15 - Bo#^12-46|Ex 12.46]]; [[Hebrews 09#^9-14|Heb 9.14]]). ^19-31
+**[[NRSVue John 19#^19-31|31]]:** *Day of Preparation*, see [[JANT John 19#^19-14|19.14n.]] *Legs . . . broken*, to hasten death. That Jesus’ legs were not broken symbolizes his suitability as a Passover sacrifice given his unblemished nature, both physical and spiritual ([[Torah 15 - Bo#^12-46|Ex 12.46]]; [[Hebrews 09#^9-14|Heb 9.14]]). ^19-31
 
 **[[NRSVue John 19#^19-34|34]]:** *Blood and water*, signifying both birth and the rituals of baptism and the Eucharist. ^19-34
 

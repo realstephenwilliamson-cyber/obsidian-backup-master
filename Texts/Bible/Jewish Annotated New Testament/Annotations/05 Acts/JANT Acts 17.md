@@ -16,7 +16,7 @@ Text: [[NRSVue Acts 17|NRSVue]] · [[Acts 17|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 17#^17-1|Text]], p. 258* · Paul was instrumental in establishing the Christian community in Thessalonica, and wrote at least one letter to the church there. ^17-1
 
-**[[NRSVue Acts 17#^17-1|1]]:** *Amphipolis and Apollonia*, cities along the Via Egnatia, the main east-west road across Macedonia (present-day Greece). *Thessalonica*, major Macedonian city. *Synagogue*, see 13.5,14; 14.1; 16.13; 17.1,10,17; 18.4,19; 19.8. ^17-1-2
+**[[NRSVue Acts 17#^17-1|1]]:** *Amphipolis and Apollonia*, cities along the Via Egnatia, the main east-west road across Macedonia (present-day Greece). *Thessalonica*, major Macedonian city. *Synagogue*, see [[Acts 13#^13-5|13.5]],[[Acts 13#^13-14|14]]; [[Acts 14#^14-1|14.1]]; [[Acts 16#^16-13|16.13]]; [[Acts 17#^17-1|17.1]],[[Acts 17#^17-10|10]],[[Acts 17#^17-17|17]]; [[Acts 18#^18-4|18.4]],[[Acts 18#^18-19|19]]; 19.8. ^17-1-2
 
 **[[NRSVue Acts 17#^17-2|2]]:** *Sabbath*, see 13.14; 18.4. ^17-2
 
@@ -24,7 +24,7 @@ Text: [[NRSVue Acts 17|NRSVue]] · [[Acts 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 17#^17-4|4]]:** Both Jews and Gentiles become believers (13.43,50; 14.1–2). *Devout Greeks*, Gentiles who demonstrate interest in Judaism and involvement in the Jewish community (10.2; 13.16,26; 16.14; 17.12; 18.7; [[Luke 07#^7-1|Lk 7.1–10]]). ^17-4
 
-**[[NRSVue Acts 17#^17-5|5]]:** *Jealous*, 5.17; 13.45; 17.5; on negative responses to Christian preaching, see 9.22; 18.5–6,28. Although Paul is charged with disturbing the city (16.20; see also 19.26–39; 24.5), Jews are actually the guilty ones. ^17-5
+**[[NRSVue Acts 17#^17-5|5]]:** *Jealous*, 5.17; 13.45; 17.5; on negative responses to Christian preaching, see 9.22; 18.5–6,28. Although Paul is charged with disturbing the city (16.20; see also [[Acts 19#^19-26|19.26–39]]; [[Acts 24#^24-5|24.5]]), Jews are actually the guilty ones. ^17-5
 
 **[[NRSVue Acts 17#^17-7|7]]:** *Contrary to the decrees of the emperor*, see 16.21; cf. 24.5. *Another king*, Jews lodge a similar accusation against Jesus in [[Luke 23#^23-2|Lk 23.2]]. ^17-7
 

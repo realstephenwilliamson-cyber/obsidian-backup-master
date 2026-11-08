@@ -21,7 +21,7 @@ The earliest attestation of 1 John is in the letter of the Christian author Poly
 
 ## Historical Context and Literary History
 
-In contrast to 2 and 3 John, 1 John lacks the elements typically found in a letter (e.g., salutation, identification of recipients and senders, greetings to local persons); hence it is more accurately described as a persuasive essay or exhortation. Its author wished to encourage and instruct fellow believers following a recent acri-monious schism, which cannot be outlined with certainty (see 2.19).
+In contrast to 2 and 3 John, 1 John lacks the elements typically found in a letter (e.g., salutation, identification of recipients and senders, greetings to local persons); hence it is more accurately described as a persuasive essay or exhortation. Its author wished to encourage and instruct fellow believers following a recent acri-monious schism, which cannot be outlined with certainty (see [[1 John 02#^2-19|2.19]]).
 
 Most likely, tension between two distinct views regarding the nature of Jesus prompted this schism. The author asserts that Jesus “has come in the flesh” (4.2). Others—perhaps those who left the community—deny this claim. They may represent a theology known as “Docetism,” from the Gk *dokeō*, which means “to seem”; according to docetic belief, Jesus only *seemed* to be human but was fully, and only, divine. The author associates a non-corporeal view of Jesus with the “spirit of the antichrist” (4.3), a term referring not to a supernatural agent, but to false teachers. The author appears concerned that other community members may find a strictly divine portrayal of Jesus appealing—hence the repeated encouragement that they are the children of God (3.2; 4.4,6; 5.19), with the implication that the others are not.
 

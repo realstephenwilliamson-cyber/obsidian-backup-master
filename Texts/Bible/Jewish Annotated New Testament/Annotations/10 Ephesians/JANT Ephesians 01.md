@@ -32,7 +32,7 @@ Text: [[NRSVue Ephesians 01|NRSVue]] · [[Ephesians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 01#^1-7|7]]:** *Redemption through his blood, the forgiveness of our trespasses*, referring to the crucifixion, understood as Jesus’ self-sacrifice; the blood of the sacrifice similarly was understood to effect atonement for sin ([[Torah 24 - Vayikra#^4-13|Lev 4.13]]**–**20; 16.14**–**20). ^1-7
 
-**[[NRSVue Ephesians 01#^1-9|9]]:** *Mystery of his will*, or perhaps better, “secret,” referring to the disclosure of the truth that “Gentiles *saints who are also faithful* b Gk *in him* have become fellow heirs” of the covenantal promise, “members of the same body” as biological Israel; see 3.3**–**11. Jews were of different minds with respect to the prospect of the salvation of Gentiles. The rabbis asserted that Jews had a special claim on salvation (*m. Sanh*. 10.1), but some admitted that worthy Gentiles also merited salvation (*t. Sanh.* 13.2). ^1-9
+**[[NRSVue Ephesians 01#^1-9|9]]:** *Mystery of his will*, or perhaps better, “secret,” referring to the disclosure of the truth that “Gentiles *saints who are also faithful* b Gk *in him* have become fellow heirs” of the covenantal promise, “members of the same body” as biological Israel; see [[Ephesians 03#^3-3|3.3]]**–**11. Jews were of different minds with respect to the prospect of the salvation of Gentiles. The rabbis asserted that Jews had a special claim on salvation (*m. Sanh*. 10.1), but some admitted that worthy Gentiles also merited salvation (*t. Sanh.* 13.2). ^1-9
 
 **[[NRSVue Ephesians 01#^1-10|10]]:** *Fullness of time*, or “fulfillment of times,” that is, the completion of one era (see [[Daniel 12#^12-4|Dan 12.4]],[[Daniel 12#^12-9|9]]) and the birth of another, here that of Christ. ^1-10
 
@@ -60,7 +60,7 @@ Text: [[NRSVue Ephesians 01|NRSVue]] · [[Ephesians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 01#^1-21|21]]:** *This age . . . age to come*, see [[Matthew 12#^12-32|Mt 12.32]] and especially [[Mark 10#^10-30|Mk 10.30]] (“the age to come eternal life”); the rabbinic Heb equivalent is “ʿolam ha-zeh” and “ʿolam ha-baʾ,” “this world” and “the world to come,” that is, the redeemed world following resurrection; see, e.g., *b. B. Bat*. [[Bava Batra 75#75b|75b]]. ^1-21
 
-**[[NRSVue Ephesians 01#^1-22|22–23]]:** *Over all things for the church, which is his body*, see 4.15**–**16 and [[1 Corinthians 12#^12-12|1 Cor 12.12]]**–**27. ^1-22
+**[[NRSVue Ephesians 01#^1-22|22–23]]:** *Over all things for the church, which is his body*, see [[Ephesians 04#^4-15|4.15]]**–**16 and [[1 Corinthians 12#^12-12|1 Cor 12.12]]**–**27. ^1-22
 
 **[[NRSVue Ephesians 01#^1-22|22]]:** *Under his feet*, [[Psalms 008#^8-7|Ps 8.7]]. ^1-22-2
 

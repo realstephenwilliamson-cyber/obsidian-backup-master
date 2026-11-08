@@ -48,7 +48,7 @@ Text: [[NRSVue Acts 27|NRSVue]] · [[Acts 27|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 27#^27-32|32]]:** *Cut away the ropes*, a common method to become unmoored. ^27-32
 
-**[[NRSVue Acts 27#^27-35|35]]:** *Took bread . . . giving thanks*, Paul’s actions mirror those of Jesus, who approaching his death gave thanks over bread ([[Luke 22#^22-19|Lk 22.19]]). The model may be Jewish rituals of reciting blessings before eating bread or meals (see *Ep. Arist.* 185; *m. Ber.* 6.1) and would thus contribute to the portrayal of Paul as an observant Jew; see 22.3; 24.14–16. ^27-35
+**[[NRSVue Acts 27#^27-35|35]]:** *Took bread . . . giving thanks*, Paul’s actions mirror those of Jesus, who approaching his death gave thanks over bread ([[Luke 22#^22-19|Lk 22.19]]). The model may be Jewish rituals of reciting blessings before eating bread or meals (see *Ep. Arist.* 185; *m. Ber.* 6.1) and would thus contribute to the portrayal of Paul as an observant Jew; see [[Acts 22#^22-3|22.3]]; 24.14–16. ^27-35
 
 **[[NRSVue Acts 27#^27-37|37]]:** *Two hundred seventy-six persons,* Alexandrian ships were quite large (Lucian, *Navigium* 5–6; Seneca, *Letters* 77.1). ^27-37
 

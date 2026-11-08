@@ -16,7 +16,7 @@ Text: [[NRSVue Ephesians 04|NRSVue]] · [[Ephesians 04|BSB and SBLGNT]] · Intro
 
 *[[NRSVue Ephesians 04#^4-1|Text]], p. 393* ^4-1
 
-**[[NRSVue Ephesians 04#^4-1|1]]:** *Prisoner*, see 3.1n. *Lead a life worthy of the calling*, followed by a detailed elaboration of what constitutes this life. ^4-1-2
+**[[NRSVue Ephesians 04#^4-1|1]]:** *Prisoner*, see [[JANT Ephesians 03#^3-1-2|3.1n.]] *Lead a life worthy of the calling*, followed by a detailed elaboration of what constitutes this life. ^4-1-2
 
 **[[NRSVue Ephesians 04#^4-2|2]]:** *Humility and gentleness*, particularly praiseworthy qualities in the Tanakh; see, e.g., [[Proverbs 16#^16-19|Prov 16.19]]. Behavior undermining these qualities is forbidden in the pietistic rules of the DSS; see 1QS v, 25-vi, 1 and 26. ^4-2
 
@@ -52,10 +52,10 @@ Text: [[NRSVue Ephesians 04|NRSVue]] · [[Ephesians 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 04#^4-27|27]]:** *Devil*, “satan,” as per the Septuagint’s translation; see [[Job 01#^1-6|Job 1.6]]**–**7 and elsewhere. Postbiblical Jewish writings are replete with references to Satan (known by various names) and other rebellious or evil divine beings; see, e.g., *1 En*. 6.7 and 8.1**–**3; *Jub*. 17.16; *t. Avod. Zar.* 1.18. ^4-27
 
-**[[NRSVue Ephesians 04#^4-28|28]]:** S*omething to share with the needy*, and not merely to support themselves or acquire riches. See [[James 02#^2-14|Jas 2.14]]**–**17, where James argues that works are crucial for salvation and the needy must be supported. The rabbis, too, insisted that a person should have honest labor and support the poor; see, e.g*. , m. Avot* 1.2 and 3.17. ^4-28
+**[[NRSVue Ephesians 04#^4-28|28]]:** S*omething to share with the needy*, and not merely to support themselves or acquire riches. See [[James 02#^2-14|Jas 2.14]]**–**17, where James argues that works are crucial for salvation and the needy must be supported. The rabbis, too, insisted that a person should have honest labor and support the poor; see, e.g*. , m. Avot* [[Pirkei Avot 01#^1-2|1.2]] and 3.17. ^4-28
 
 **[[NRSVue Ephesians 04#^4-29|29–31]]:** *Evil talk . . . wrangling and slander*, 1QS 7.2**–**9 condemns a similar list; the rabbis condemn what they call “leshon ha-raʿ,” “the tongue of evil”; see, e.g., *Lev. Rab*. 16 and *b. Arak*. [[Arakhin 15#15b|15b]]. ^4-29
 
-**[[NRSVue Ephesians 04#^4-30|30]]:** *Seal*, see 1.13n. ^4-30
+**[[NRSVue Ephesians 04#^4-30|30]]:** *Seal*, see [[JANT Ephesians 01#^1-13|1.13n.]] ^4-30
 
 [[JANT Ephesians 03|← Ephesians 3]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Ephesians 05|Ephesians 5 →]]

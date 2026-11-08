@@ -28,7 +28,7 @@ Text: [[NRSVue 1 Timothy 05|NRSVue]] · [[1 Timothy 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 05#^5-8|8]]:** *Provide for relatives*, an extension of the commandment “Honor your father and your mother” ([[Torah 17 - Yitro#^20-12|Ex 20.12]]; [[Torah 30 - Kedoshim#^19-3|Lev 19.3]]; [[Torah 45 - Vaetchanan#^5-16|Deut 5.16]]); the instruction is consistent with Jesus’ complaint regarding Corban donations, namely gifts to God or sacrifices \[Heb “qorban”\] taking support from parents (see notes to [[Mark 07#^7-11|Mk 7.11–13]]) but potentially at odds with his anti-familial teachings (e.g., [[Mark 01#^1-20|Mk 1.20]] || [[Matthew 04#^4-22|Mt 4.22]]; [[Mark 10#^10-29|Mk 10.29]] || [[Matthew 19#^19-29|Mt 19.29]]; [[Luke 14#^14-26|Lk 14.26]]) and focus on voluntary poverty (see [[Luke 18#^18-22|Lk 18.22]]). ^5-8
 
-**[[NRSVue 1 Timothy 05#^5-9|9]]:** *Put on the list*, for communal support. *Sixty years old*, an advanced age (see “Jewish Family Life,” p. 604). *Married only once*, see 3.2n. ^5-9
+**[[NRSVue 1 Timothy 05#^5-9|9]]:** *Put on the list*, for communal support. *Sixty years old*, an advanced age (see “Jewish Family Life,” p. 604). *Married only once*, see [[JANT 1 Timothy 03#^3-2|3.2n.]] ^5-9
 
 **[[NRSVue 1 Timothy 05#^5-10|10]]:** *Well attested*, concern for the church’s external reputation continues see 3.7. *Washed the saints’ feet*, willingly performed humble service (see [[Luke 07#^7-36|Lk 7.36–50]]; [[John 13#^13-1|Jn 13.1–16]]). *Saints* (Gk “hagioi,” lit., “holy ones”), designation for church members (see [[Romans 12#^12-13|Rom 12.13]]; [[1 Corinthians 01#^1-2|1 Cor 1.2]]; [[2 Corinthians 01#^1-1|2 Cor 1.1]]). This is the only use of the term in the Pastorals, and it may reflect a move away from seeing all members as saints to a restricted use of term (e.g., it is not clear if these widows are themselves counted among the “saints”). ^5-10
 
@@ -36,9 +36,9 @@ Text: [[NRSVue 1 Timothy 05|NRSVue]] · [[1 Timothy 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 05#^5-12|12]]:** *Violated their first pledge*, that they would not remarry. **13**: *Gadding about*, *b. Sot*. [[Sotah 22#22a|22a]] offers differing views of the “gadabout widow” from the claim that she “brings destruction on the world” to R. Joḥanan’s insistence that she teaches confidence of the bestowal of reward: “A certain widow had a synagogue in her neighborhood; yet she used to come daily to the School of R. Joḥanan and pray there. He said to her, ‘My daughter, is there not a Synagogue in your neighborhood?’ She answered him, ‘Rabbi, but have I not the reward for the steps!’” *Gossips*, Heb “lashon hara,” lit., “evil tongue.” *B. Arak*. 15b states: “The school of R. Ishmael taught, ‘Anyone who gossips is considered as having committed the grave sins of idolatry, sexual immorality, and murder,’” and, “Evil gossip kills three: the one who says it, the one who listens, and the subject of the gossip.” ^5-12
 
-**[[NRSVue 1 Timothy 05#^5-14|14]]:** *Adversary*, Satan (v 15; 1.20n.). ^5-14
+**[[NRSVue 1 Timothy 05#^5-14|14]]:** *Adversary*, Satan (v 15; [[JANT 1 Timothy 01#^1-20|1.20n.]]). ^5-14
 
-**[[NRSVue 1 Timothy 05#^5-15|15]]:** *Satan*, see 1.20n. *woman*; others, *believing man* ^5-15
+**[[NRSVue 1 Timothy 05#^5-15|15]]:** *Satan*, see [[JANT 1 Timothy 01#^1-20|1.20n.]] *woman*; others, *believing man* ^5-15
 
 ### 5.17–25: Leadership advice
 
@@ -52,7 +52,7 @@ Text: [[NRSVue 1 Timothy 05|NRSVue]] · [[1 Timothy 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 05#^5-21|21]]:** *In the presence . . . elect angels*: the proceedings are conducted as if the heavenly court is present. *Partiality*, [[Torah 48 - Shoftim#^16-19|Deut 16.19]]; [[II Chronicles 19#^19-7|2 Chr 19.7]]; [[LXX Sirach 04#^4-22|Sir 4.22]]; etc. ^5-21
 
-**[[NRSVue 1 Timothy 05#^5-22|22]]:** *Ordain*, lit., “place the hands,” see 4.14n. ^5-22
+**[[NRSVue 1 Timothy 05#^5-22|22]]:** *Ordain*, lit., “place the hands,” see [[JANT 1 Timothy 04#^4-14|4.14n.]] ^5-22
 
 **[[NRSVue 1 Timothy 05#^5-23|23]]:** *Drink only water*, asceticism is not promoted. *Stomach*, *b. Ber.* [[Berakhot 51#51a|51a]] records, “Our Rabbis taught: Asparagus brew is good for the heart and good for the eyes, and, needless to say, for the bowels. If one uses it regularly it is good for the whole body, but if one gets drunk on it it is bad for the whole body. Since it is stated that it is good for the heart, we infer that we are dealing with a brew of wine.” ^5-23
 

@@ -20,7 +20,7 @@ Text: [[NRSVue Matthew 20|NRSVue]] · [[Matthew 20|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 20#^20-2|2]]:** *Daily wage*, Gk “denarius,” 18.28; 20.10; 22.19. ^20-2
 
-**[[NRSVue Matthew 20#^20-8|8]]:** *When evening came*, laborers were to be paid on the day they performed the work ([[Torah 30 - Kedoshim#^19-13|Lev 19.13]]; [[Torah 49 - Ki Teitzei#^24-14|Deut 24.14–15]]). *Owner*, Gk “kyrios,” “Lord” (cf. *m. Avot* 2.14, allegorically, God as the “employer” pays one’s wages). *Beginning with the last*, the owner sets up the first-hired to believe they will receive more than those hired last. ^20-8
+**[[NRSVue Matthew 20#^20-8|8]]:** *When evening came*, laborers were to be paid on the day they performed the work ([[Torah 30 - Kedoshim#^19-13|Lev 19.13]]; [[Torah 49 - Ki Teitzei#^24-14|Deut 24.14–15]]). *Owner*, Gk “kyrios,” “Lord” (cf. *m. Avot* [[Pirkei Avot 02#^2-14|2.14]], allegorically, God as the “employer” pays one’s wages). *Beginning with the last*, the owner sets up the first-hired to believe they will receive more than those hired last. ^20-8
 
 **[[NRSVue Matthew 20#^20-12|12]]:** *You have made them equal to us*, the issue for the first-hired is what they consider fair; for the owner, the issue is what he considers right. ^20-12
 
@@ -28,13 +28,13 @@ Text: [[NRSVue Matthew 20|NRSVue]] · [[Matthew 20|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 20#^20-15|15]]:** *Are you envious*, literally, “Is your eye evil?” ^20-15
 
-**[[NRSVue Matthew 20#^20-16|16]]:** See [[Mark 10#^10-31|Mk 10.31]]; [[Luke 13#^13-30|Lk 13.30]]. *Last will be first*, 19.30n. ^20-16
+**[[NRSVue Matthew 20#^20-16|16]]:** See [[Mark 10#^10-31|Mk 10.31]]; [[Luke 13#^13-30|Lk 13.30]]. *Last will be first*, [[JANT Matthew 19#^19-30|19.30n.]] ^20-16
 
 ### 20.17–19: Third Passion prediction
 
 *[[NRSVue Matthew 20#^20-17|Text]], p. 47* · ([[Mark 10#^10-32|Mk 10.32–34]]; [[Luke 18#^18-31|Lk 18.31–34]]). See 16.21–23; 17.22–23; 26.2. ^20-17
 
-**[[NRSVue Matthew 20#^20-19|19]]:** *Gentiles*, Pilate and his soldiers. *Crucified*, in the first century a Roman form of execution. Rabbinic sources speak *but few are chosen* of burning, stoning, strangling, and beheading — but not crucifixion (see Josephus, *J.W.* 2.308; 5.451; *m. Sanh*. 7.1–4). *Third day*, see 16.21n. ^20-19
+**[[NRSVue Matthew 20#^20-19|19]]:** *Gentiles*, Pilate and his soldiers. *Crucified*, in the first century a Roman form of execution. Rabbinic sources speak *but few are chosen* of burning, stoning, strangling, and beheading — but not crucifixion (see Josephus, *J.W.* 2.308; 5.451; *m. Sanh*. 7.1–4). *Third day*, see [[JANT Matthew 16#^16-21-2|16.21n.]] ^20-19
 
 ### 20.20–28: The mother of James and John
 
@@ -44,7 +44,7 @@ Text: [[NRSVue Matthew 20|NRSVue]] · [[Matthew 20|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 20#^20-21|21]]:** *Right hand . . . at your left*, positions of honor. Ironically, the two on Jesus’ right and left hands will be crucified thieves (27.38). ^20-21
 
-**[[NRSVue Matthew 20#^20-23|23]]:** *Cup*, suffering and death (26.27–28; [[John 18#^18-11|Jn 18.11]]; see also [[Isaiah 05#^5-13|Isa 5.13]]; [[Isaiah 51#^51-17|51.17]]; [[Jeremiah 25#^25-15|Jer 25.15]]; [[Ezekiel 23#^23-31|Ezek 23.31]]; [[Habakkuk 2#^2-16|Hab 2.16]]; [[Psalms 075#^75-9|Ps 75.8]]). Disciples must share Jesus’ suffering, see 5.10–12n. ^20-23
+**[[NRSVue Matthew 20#^20-23|23]]:** *Cup*, suffering and death (26.27–28; [[John 18#^18-11|Jn 18.11]]; see also [[Isaiah 05#^5-13|Isa 5.13]]; [[Isaiah 51#^51-17|51.17]]; [[Jeremiah 25#^25-15|Jer 25.15]]; [[Ezekiel 23#^23-31|Ezek 23.31]]; [[Habakkuk 2#^2-16|Hab 2.16]]; [[Psalms 075#^75-9|Ps 75.8]]). Disciples must share Jesus’ suffering, see [[JANT Matthew 05#^5-10|5.10–12n.]] ^20-23
 
 **[[NRSVue Matthew 20#^20-25|25]]:** *Rulers of the Gentiles*, pagan Rome and its client kings. ^20-25
 
@@ -58,7 +58,7 @@ Text: [[NRSVue Matthew 20|NRSVue]] · [[Matthew 20|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 20#^20-29|29]]:** *Jericho*, city 15 miles (24 km) east of Jerusalem. ^20-29-2
 
-**[[NRSVue Matthew 20#^20-30|30]]:** *Son of David*, see 1.1n.; 9.27n. ^20-30
+**[[NRSVue Matthew 20#^20-30|30]]:** *Son of David*, see [[JANT Matthew 01#^1-1-2|1.1n.]]; [[JANT Matthew 09#^9-27-2|9.27n.]] ^20-30
 
 **[[NRSVue Matthew 20#^20-31|31]]:** *Ordered them to be quiet*, perhaps in order to hear any teaching that Jesus might give. ^20-31
 

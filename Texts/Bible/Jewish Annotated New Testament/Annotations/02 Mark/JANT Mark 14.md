@@ -45,17 +45,17 @@ Text: [[NRSVue Mark 14|NRSVue]] · [[Mark 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 14#^14-24|24]]:** The *covenant* is ratified by Jesus’ blood just as Moses ratified the Sinai covenant with blood ([[Torah 18 - Mishpatim#^24-1|Ex 24.1–8]]; [[Zechariah 09#^9-11|Zech 9.11]]). Despite the use of “new covenant” at [[1 Corinthians 11#^11-25|1 Cor 11.25]] and [[Hebrews 08#^8-13|Heb 8.13]] (both alluding to [[Jeremiah 31#^31-31|Jer 31.31]]), Mark’s language (and likely Paul’s as well) suggests a concern with the present covenant, not a new or different covenant. Translator’s note *c* reflects the addition of “new” by later scribes. *For many*, see [[Isaiah 53#^53-11|Isa 53.11]] and “Jesus Dying as a Ransom.” p. 90. [[Matthew 26#^26-28|Matthew 26.28]] explicitly adds “for the forgiveness of sins” (cf. [[1 Corinthians 15#^15-3|1 Cor 15.3]]; [[Hebrews 09#^9-11|Heb 9.11–22]]; [[1 Peter 01#^1-18|1 Pet 1.18–19]]). ^14-24
 
-**[[NRSVue Mark 14#^14-25|25]]:** On the messiah’s future banquet, cf. [[Isaiah 25#^25-6|Isa 25.6]] and the DSS 1QM 2.11–22; cf. *1 En.* 10.18–19; *m. Avot* 3.16–17; *Num. Rab.* 13.2. ^14-25
+**[[NRSVue Mark 14#^14-25|25]]:** On the messiah’s future banquet, cf. [[Isaiah 25#^25-6|Isa 25.6]] and the DSS 1QM 2.11–22; cf. *1 En.* 10.18–19; *m. Avot* [[Pirkei Avot 03#^3-16|3.16–17]]; *Num. Rab.* 13.2. ^14-25
 
 ### 14.26–31: Peter’s denial prophesied
 
 *[[NRSVue Mark 14#^14-26|Text]], p. 101* · ([[Matthew 26#^26-30|Mt 26.30–35]]; [[Luke 22#^22-39|Lk 22.39]]). ^14-26
 
-**[[NRSVue Mark 14#^14-26|26]]:** The rabbis grouped Ps 113–118 as the Hallel psalms, (*m. Pesah.* 5.7), and associated them with Passover. Although this is a later tradition, the early first-century Jewish writer Philo states that the Passover meal was accompanied by prayers and hymns (*Spec. Laws* 2.27.148). *Mount of Olives*, see 11.1n. ^14-26-2
+**[[NRSVue Mark 14#^14-26|26]]:** The rabbis grouped Ps 113–118 as the Hallel psalms, (*m. Pesah.* 5.7), and associated them with Passover. Although this is a later tradition, the early first-century Jewish writer Philo states that the Passover meal was accompanied by prayers and hymns (*Spec. Laws* 2.27.148). *Mount of Olives*, see [[JANT Mark 11#^11-1-3|11.1n.]] ^14-26-2
 
-**[[NRSVue Mark 14#^14-27|27]]:** [[Zechariah 13#^13-7|Zech 13.7]]. God is the agent of Jesus’ suffering; see 14.36n. ^14-27
+**[[NRSVue Mark 14#^14-27|27]]:** [[Zechariah 13#^13-7|Zech 13.7]]. God is the agent of Jesus’ suffering; see [[JANT Mark 14#^14-36|14.36n.]] ^14-27
 
-**[[NRSVue Mark 14#^14-28|28]]:** *Go before*, see 16.7n. ^14-28
+**[[NRSVue Mark 14#^14-28|28]]:** *Go before*, see [[JANT Mark 16#^16-7|16.7n.]] ^14-28
 
 ### 14.32–42: Prayer in Gethsemane
 
@@ -65,7 +65,7 @@ Text: [[NRSVue Mark 14|NRSVue]] · [[Mark 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 14#^14-33|33]]:** *Peter and James and John*, see 9.2–13. ^14-33
 
-**[[NRSVue Mark 14#^14-36|36]]:** *Abba*, Aramaic for father (not Heb for “daddy,” as some scholars formerly argued). Jesus’ followers, perhaps by his lead, emphasized their relationship to God as father (3.31–35n.; 10.29–30n.; 11.25; [[Matthew 06#^6-9|Mt 6.9]]; [[Luke 11#^11-2|Lk 11.2]]; [[Romans 08#^8-15|Rom 8.15–17]]; [[Galatians 04#^4-6|Gal 4.6–7]]). The image was infrequent, but not unknown, in the Hebrew Bible ([[Isaiah 63#^63-16|Isa 63.16]]; [[Isaiah 64#^64-7|64.8]]; [[Jeremiah 03#^3-4|Jer 3.4]],[[Jeremiah 03#^3-19|19]]; [[Psalms 068#^68-6|Ps 68.5]]; [[Psalms 089#^89-27|89.26]]; 103.13). “Father” by itself in Jewish tradition is more likely to be associated with Abraham or another patriarch than with God (*m. Avot* 3.12; cf. [[John 04#^4-12|Jn 4.12]]), while “king” is often a title for God. “Father” is sometimes used in combination, however, e.g., the later Jewish prayer “Avinu Malkeinu,” “our father, our king.” *Remove this cup,* see [[Isaiah 51#^51-12|Isa 51.12]],[[Isaiah 51#^51-17|17]], where God removes the cup of wrath from the people; see also 10.38n. *Not what I want*, implies that Jesus resists God’s plan, much as Peter had resisted in 8.32; Matthew and Luke lack this line. ^14-36
+**[[NRSVue Mark 14#^14-36|36]]:** *Abba*, Aramaic for father (not Heb for “daddy,” as some scholars formerly argued). Jesus’ followers, perhaps by his lead, emphasized their relationship to God as father ([[JANT Mark 03#^3-31|3.31–35n.]]; [[JANT Mark 10#^10-29|10.29–30n.]]; 11.25; [[Matthew 06#^6-9|Mt 6.9]]; [[Luke 11#^11-2|Lk 11.2]]; [[Romans 08#^8-15|Rom 8.15–17]]; [[Galatians 04#^4-6|Gal 4.6–7]]). The image was infrequent, but not unknown, in the Hebrew Bible ([[Isaiah 63#^63-16|Isa 63.16]]; [[Isaiah 64#^64-7|64.8]]; [[Jeremiah 03#^3-4|Jer 3.4]],[[Jeremiah 03#^3-19|19]]; [[Psalms 068#^68-6|Ps 68.5]]; [[Psalms 089#^89-27|89.26]]; 103.13). “Father” by itself in Jewish tradition is more likely to be associated with Abraham or another patriarch than with God (*m. Avot* 3.12; cf. [[John 04#^4-12|Jn 4.12]]), while “king” is often a title for God. “Father” is sometimes used in combination, however, e.g., the later Jewish prayer “Avinu Malkeinu,” “our father, our king.” *Remove this cup,* see [[Isaiah 51#^51-12|Isa 51.12]],[[Isaiah 51#^51-17|17]], where God removes the cup of wrath from the people; see also [[JANT Mark 10#^10-38|10.38n.]] *Not what I want*, implies that Jesus resists God’s plan, much as Peter had resisted in 8.32; Matthew and Luke lack this line. ^14-36
 
 **[[NRSVue Mark 14#^14-37|37–41]]:** In 13.37 Jesus told the disciples to *keep awake*, yet ironically three times he finds them sleeping. The three naps also anticipate Peter’s three denials. ^14-37
 
@@ -81,7 +81,7 @@ Text: [[NRSVue Mark 14|NRSVue]] · [[Mark 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 14#^14-55|55–59]]:** Biblical law forbade suborning perjury ([[Torah 17 - Yitro#^20-13|Ex 20.16]]) and convicting based on conflicting evidence ([[Torah 48 - Shoftim#^19-15|Deut 19.15]]), so the proceedings are presented as violations of Jewish criminal procedure. Although the *testimony* is depicted as *false*, according to Mark Jesus had predicted the destruction of the Temple (11.15; 13.2). ^14-55
 
-**[[NRSVue Mark 14#^14-61|61–64]]:** The titles *Messiah* and *Son of the Blessed One* are not *blasphemy*, since a Jewish king could be both, but they are politically dangerous. According to Mark, the high priest takes Jesus’ quotations (v. 62) of [[Psalms 110#^110-1|Ps 110.1]] and [[Daniel 07#^7-13|Dan 7.13]], and his identification of himself with the judging Son of Man, as blasphemy from the Sanhedrin’s point of view; see 2.6–7n. His verdict is no more legitimate than the trial. ^14-61
+**[[NRSVue Mark 14#^14-61|61–64]]:** The titles *Messiah* and *Son of the Blessed One* are not *blasphemy*, since a Jewish king could be both, but they are politically dangerous. According to Mark, the high priest takes Jesus’ quotations (v. 62) of [[Psalms 110#^110-1|Ps 110.1]] and [[Daniel 07#^7-13|Dan 7.13]], and his identification of himself with the judging Son of Man, as blasphemy from the Sanhedrin’s point of view; see [[JANT Mark 02#^2-6|2.6–7n.]] His verdict is no more legitimate than the trial. ^14-61
 
 **[[NRSVue Mark 14#^14-61|61]]:** Jesus is *silent* like the suffering servant at [[Isaiah 53#^53-7|Isa 53.7]]. *Blessed One*, the chief priest uses a circumlocution for God, which indicates a reticence on his part to pronounce the divine name. It is similar to the rabbinic “Holy One, Blessed be He” (Heb “Ha-Qadosh baruch hu”; cf. Philo, *Dreams* 2.18.130). ^14-61-2
 

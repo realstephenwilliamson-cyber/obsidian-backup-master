@@ -16,7 +16,7 @@ Text: [[NRSVue Luke 15|NRSVue]] · [[Luke 15|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 15#^15-1|Text]], p. 147* ^15-1
 
-**[[NRSVue Luke 15#^15-1|1]]:** *Tax collectors*, see 3.12n. *Sinners*, those who fracture community welfare. ^15-1-2
+**[[NRSVue Luke 15#^15-1|1]]:** *Tax collectors*, see [[JANT Luke 03#^3-12|3.12n.]] *Sinners*, those who fracture community welfare. ^15-1-2
 
 **[[NRSVue Luke 15#^15-2|2]]:** *Eats with them*, suggesting fellowship and approval (contrast [[Psalms 001#^1-1|Ps 1.1]], “Happy \[Heb “ashrei,” cf. LXX “makarios”\] are those who do not . . . sit in the seat of scoffers”). ^15-2
 
@@ -26,7 +26,7 @@ Text: [[NRSVue Luke 15|NRSVue]] · [[Luke 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 15#^15-4|4]]:** *Having a hundred sheep*, indicating a person of some wealth. *Losing one*, hinting that the sheep owner is not God, for God does not lose people. To notice one sheep missing of 100, the owner had to count. *Go after the one*, for God as shepherd see Ps 23; 78.52; 80.1; 100.3; for the people as lost sheep see [[Jeremiah 50#^50-6|Jer 50.6]]; [[Ezekiel 34#^34-15|Ezek 34.15–16]]; [[Psalms 119#^119-176|Ps 119.176]]. *Ex. Rab*. 2.2 depicts Moses as the good shepherd who seeks after a lost sheep, and so receives a divine commission to shepherd God’s people, Israel. However, the parable does not use the term “shepherd.” ^15-4
 
-**[[NRSVue Luke 15#^15-7|7]]:** *One sinner who repents*, Luke allegorizes the parable (see 8.9n.; 18.1). ^15-7
+**[[NRSVue Luke 15#^15-7|7]]:** *One sinner who repents*, Luke allegorizes the parable (see [[JANT Luke 08#^8-9|8.9n.]]; [[Luke 18#^18-1|18.1]]). ^15-7
 
 ### 15.8–10: Parable of the lost coin
 
@@ -36,21 +36,21 @@ Text: [[NRSVue Luke 15|NRSVue]] · [[Luke 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 15#^15-9|9]]:** *Friends and neighbors*, feminine nouns, indicating female associates. ^15-9
 
-**[[NRSVue Luke 15#^15-10|10]]:** *One sinner who repents*, see 15.7n. laborer ^15-10
+**[[NRSVue Luke 15#^15-10|10]]:** *One sinner who repents*, see [[JANT Luke 15#^15-7|15.7n.]] laborer ^15-10
 
 ### 15.11–32: Parable of the lost son
 
 *[[NRSVue Luke 15#^15-11|Text]], p. 148* · See “Parable of the Prodigal Son,” p. 146. ^15-11
 
-**[[NRSVue Luke 15#^15-12|12]]:** *Divided his property*, see 12.13n.; Sir 33.19–23. ^15-12
+**[[NRSVue Luke 15#^15-12|12]]:** *Divided his property*, see [[JANT Luke 12#^12-13-2|12.13n.]]; Sir 33.19–23. ^15-12
 
-**[[NRSVue Luke 15#^15-15|15]]:** *Pigs*, see 8.32n. ^15-15
+**[[NRSVue Luke 15#^15-15|15]]:** *Pigs*, see [[JANT Luke 08#^8-32|8.32n.]] ^15-15
 
 **[[NRSVue Luke 15#^15-17|17]]:** *Came to himself*, the prodigal is not described as having repented (15.7,10). ^15-17
 
 **[[NRSVue Luke 15#^15-18|18]]:** *I have sinned*, see [[Torah 15 - Bo#^10-16|Ex 10.16]]: the analogy to Pharaoh’s confession makes the claim of the son appear less sincere. ^15-18
 
-**[[NRSVue Luke 15#^15-20|20]]:** *Compassion*, see 10.33n. ^15-20
+**[[NRSVue Luke 15#^15-20|20]]:** *Compassion*, see [[JANT Luke 10#^10-33|10.33n.]] ^15-20
 
 **[[NRSVue Luke 15#^15-23|23]]:** *Fatted calf*, see [[I Samuel 28#^28-24|1 Sam 28.24]]; Am 6.4. ^15-23
 

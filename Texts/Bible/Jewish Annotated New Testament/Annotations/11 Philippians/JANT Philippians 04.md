@@ -38,7 +38,7 @@ Text: [[NRSVue Philippians 04|NRSVue]] · [[Philippians 04|BSB and SBLGNT]] · I
 
 *[[NRSVue Philippians 04#^4-21|Text]], p. 406* ^4-21
 
-**[[NRSVue Philippians 04#^4-22|22]]:** *Emperor’s household*, soldiers and staff whom Paul evangelized (see 1.13n.). ^4-22
+**[[NRSVue Philippians 04#^4-22|22]]:** *Emperor’s household*, soldiers and staff whom Paul evangelized (see [[JANT Philippians 01#^1-13|1.13n.]]). ^4-22
 
 **[[NRSVue Philippians 04#^4-23|23]]:** *The grace . . . spirit*, similar to the ending of Galatians (6.18). ^4-23
 

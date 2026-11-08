@@ -30,7 +30,7 @@ Text: [[NRSVue Matthew 03|NRSVue]] · [[Matthew 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 03#^3-8|8]]:** *Fruit*, good deeds; baptism itself is not sufficient. ^3-8
 
-**[[NRSVue Matthew 03#^3-9|9]]:** *Abraham*, the father of the Jewish people, see 1.2n.; [[Torah 03 - Lech Lecha#^17-7|Gen 17.7]]; [[Proverbs 17#^17-2|Prov 17.2]]; *b. Yebam*. [[Yevamot 64#64b|64b]], “Look to Abraham your father.” *As our ancestor*, perhaps referring to the “merits of the fathers” (Heb “zekhut avot”), meaning that the great deeds and characters of the Hebrew patriarchs influence God’s judgment (favorably) upon the Jewish people; Moses pleads that God remember the covenant with Abraham, Isaac, and Jacob (e.g., [[Torah 21 - Ki Tisa#^32-11|Ex 32.11–14]]). *Stones . . . children*, a pun in Hebrew (“avanim . . . banim,” “sons . . . stones”). ^3-9
+**[[NRSVue Matthew 03#^3-9|9]]:** *Abraham*, the father of the Jewish people, see [[JANT Matthew 01#^1-2|1.2n.]]; [[Torah 03 - Lech Lecha#^17-7|Gen 17.7]]; [[Proverbs 17#^17-2|Prov 17.2]]; *b. Yebam*. [[Yevamot 64#64b|64b]], “Look to Abraham your father.” *As our ancestor*, perhaps referring to the “merits of the fathers” (Heb “zekhut avot”), meaning that the great deeds and characters of the Hebrew patriarchs influence God’s judgment (favorably) upon the Jewish people; Moses pleads that God remember the covenant with Abraham, Isaac, and Jacob (e.g., [[Torah 21 - Ki Tisa#^32-11|Ex 32.11–14]]). *Stones . . . children*, a pun in Hebrew (“avanim . . . banim,” “sons . . . stones”). ^3-9
 
 **[[NRSVue Matthew 03#^3-11|11]]:** *Fire*, used for purification ([[Torah 42 - Matot#^31-23|Num 31.23]]; *b. Sanh*. [[Sanhedrin 39#39a|39a]]). E G Y P T The geography of the Gospel of Matthew. ^3-11
 
@@ -87,7 +87,7 @@ Text: [[NRSVue Matthew 03|NRSVue]] · [[Matthew 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 03#^3-14|14]]:** John recognizes Jesus’ superiority. ^3-14
 
-**[[NRSVue Matthew 03#^3-15|15]]:** *Fulfill all righteousness*, a messianic accomplishment ([[Jeremiah 23#^23-5|Jer 23.5–6]]; [[Jeremiah 33#^33-15|33.15–16]]; *T. Jud.* 24.1), see 1.19n. ^3-15
+**[[NRSVue Matthew 03#^3-15|15]]:** *Fulfill all righteousness*, a messianic accomplishment ([[Jeremiah 23#^23-5|Jer 23.5–6]]; [[Jeremiah 33#^33-15|33.15–16]]; *T. Jud.* 24.1), see [[JANT Matthew 01#^1-19|1.19n.]] ^3-15
 
 **[[NRSVue Matthew 03#^3-16|16]]:** *Heavens were opened,* indicating impending divine revelation ([[Isaiah 64#^64-1|Isa 64.1]]; [[Ezekiel 01#^1-1|Ezek 1.1]]). *Spirit of God,* [[Isaiah 11#^11-2|Isa 11.2]]; [[Isaiah 42#^42-1|42.1]]; [[Isaiah 61#^61-1|61.1]]; *b. Hag.* [[Chagigah 15#15a|15a]]. ^3-16
 

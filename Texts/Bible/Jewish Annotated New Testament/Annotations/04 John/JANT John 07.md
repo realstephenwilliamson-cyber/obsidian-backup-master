@@ -18,7 +18,7 @@ Text: [[NRSVue John 07|NRSVue]] · [[John 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 07#^7-2|2]]:** Tabernacles, or *Booths* (Heb “Sukkot”), a week-long fall pilgrimage festival celebrating the harvest and commemorating Israel’s sojourn in the desert after the Exodus. All males were required to attend this festival ([[Torah 31 - Emor#^23-42|Lev 23.42]]; [[Torah 47 - Re'eh#^16-16|Deut 16.16]], which specifies Passover, Weeks, and Booths as required). Jesus’ refusal (v 8), followed by his covert attendance (v 10), shows that he obeys the requirement but not in the company of his brothers. ^7-2
 
-**[[NRSVue John 07#^7-3|3]]:** *His brothers*, likely biological relations rather than disciples (for “brothers” as disciples, see 20.17). ^7-3
+**[[NRSVue John 07#^7-3|3]]:** *His brothers*, likely biological relations rather than disciples (for “brothers” as disciples, see [[John 20#^20-17|20.17]]). ^7-3
 
 **[[NRSVue John 07#^7-6|6–7]]:** Jesus’ brothers (vv 3,5,10), like “the Jews,” represent the hostile world. ^7-6
 
@@ -28,7 +28,7 @@ Text: [[NRSVue John 07|NRSVue]] · [[John 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 07#^7-13|13]]:** *The Jews*, here the authorities. ^7-13
 
-**[[NRSVue John 07#^7-14|14–18]]:** Jesus teaches openly in the Temple (see 8.20n.), which he mentions when interrogated by Annas (18.20). ^7-14
+**[[NRSVue John 07#^7-14|14–18]]:** Jesus teaches openly in the Temple (see [[JANT John 08#^8-20|8.20n.]]), which he mentions when interrogated by Annas (18.20). ^7-14
 
 **[[NRSVue John 07#^7-15|15]]:** *The Jews*, here apparently the crowd listening to Jesus. ^7-15
 
@@ -38,7 +38,7 @@ Text: [[NRSVue John 07|NRSVue]] · [[John 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 07#^7-25|25]]:** The *people of Jerusalem* know the sentiment against Jesus (contrast the crowd of v 20). John distinguishes here between the people and the authorities; “hoi Ioudaioi” (“the Jews”) is not used of either group in vv 25–26. ^7-25
 
-**[[NRSVue John 07#^7-27|27–28]]:** *No one will know* . . . , possible allusion to the “hidden Messiah,” one of several first-century strands of messianic expectation that is directly related to the idea of a preexistent Messiah whose existence will be revealed at a specific time (see *1 En*. 52.2–5). Rabbinic sources sometimes list the name of the Messiah as one of the items created on the sixth day of creation, which implies the pre-existence and therefore eventual revelation of a hidden Messiah (e.g., *b. Pesah*. [[Pesachim 54#54a|54a]]). Although the crowd claims to know where Jesus came from — perhaps an allusion to Nazareth (see 1.45; 6.42) — Jesus asserts that they do not know where he really comes from — God. He therefore fulfills the “hidden Messiah” tradition. ^7-27
+**[[NRSVue John 07#^7-27|27–28]]:** *No one will know* . . . , possible allusion to the “hidden Messiah,” one of several first-century strands of messianic expectation that is directly related to the idea of a preexistent Messiah whose existence will be revealed at a specific time (see *1 En*. 52.2–5). Rabbinic sources sometimes list the name of the Messiah as one of the items created on the sixth day of creation, which implies the pre-existence and therefore eventual revelation of a hidden Messiah (e.g., *b. Pesah*. [[Pesachim 54#54a|54a]]). Although the crowd claims to know where Jesus came from — perhaps an allusion to Nazareth (see [[John 01#^1-45|1.45]]; [[John 06#^6-42|6.42]]) — Jesus asserts that they do not know where he really comes from — God. He therefore fulfills the “hidden Messiah” tradition. ^7-27
 
 **[[NRSVue John 07#^7-30|30]]:** *They*, perhaps the people of Jerusalem (v 25), but their attempt to arrest him suggests a reference to the authorities. ^7-30
 

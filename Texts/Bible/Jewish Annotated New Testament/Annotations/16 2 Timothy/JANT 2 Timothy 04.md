@@ -30,7 +30,7 @@ Text: [[NRSVue 2 Timothy 04|NRSVue]] · [[2 Timothy 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 2 Timothy 04#^4-6|6]]:** *Libation*, Gk “spondas,” Heb “nesek,” a technical term for offering libations accompanying sacrifices ([[Torah 41 - Pinchas#^28-15|Num 28.15]]; [[Judges 06#^6-20|Judg 6.20]]; [[I Samuel 07#^7-6|1 Sam 7.6]]; [[Isaiah 57#^57-6|Isa 57.6]]; [[Jeremiah 07#^7-18|Jer 7.18]]; [[Jeremiah 19#^19-13|19.13]]; see also Philo, *Drunkenness* 152; Josephus, *Ant*. 6.22); the author derives the term here to signal Paul’s comment in [[Philippians 02#^2-17|Phil 2.17]], “I am being poured out as a libation over the sacrifice and the offering of your faith.” ^4-6-2
 
-**[[NRSVue 2 Timothy 04#^4-7|7]]:** *Fought the good fight*, [[1 Timothy 01#^1-18|1 Tim 1.18]]; [[1 Timothy 06#^6-12|6.12]]. *Finished the race*, see [[Acts 20#^20-24|Acts 20.24]]; [[Hebrews 12#^12-1|Heb 12.1–2]]. *The faith*, for the Pastorals, *faith* is substantially a set of doctrines (see 1.5n.). ^4-7
+**[[NRSVue 2 Timothy 04#^4-7|7]]:** *Fought the good fight*, [[1 Timothy 01#^1-18|1 Tim 1.18]]; [[1 Timothy 06#^6-12|6.12]]. *Finished the race*, see [[Acts 20#^20-24|Acts 20.24]]; [[Hebrews 12#^12-1|Heb 12.1–2]]. *The faith*, for the Pastorals, *faith* is substantially a set of doctrines (see [[JANT 2 Timothy 01#^1-5|1.5n.]]). ^4-7
 
 **[[NRSVue 2 Timothy 04#^4-8|8]]:** *Crown*, an emblem of victory ([[1 Corinthians 09#^9-26|1 Cor 9.26]]) for his faithful life. *Lord, the righteous judge*, see [[Jeremiah 11#^11-20|Jer 11.20]]; [[Psalms 009#^9-5|Ps 9.4]]; [[LXX 2 Maccabees 12#^12-6|2 Macc 12.6]],[[LXX 2 Maccabees 12#^12-41|41]]; also part of Jewish burial prayers (“O true and righteous judge! Blessed be the true judge, all whose judgments are righteous and true”). *That day . . . his appearing*, the fulfillment of the hope for salvation; see LXX [[LXX Zephaniah 01#^1-14|Zeph 1.14]], “the great day of the Lord,” and 2.11, “The Lord will appear against them.” ^4-8
 
@@ -38,9 +38,9 @@ Text: [[NRSVue 2 Timothy 04|NRSVue]] · [[2 Timothy 04|BSB and SBLGNT]] · Intro
 
 *[[NRSVue 2 Timothy 04#^4-9|Text]], p. 447* ^4-9
 
-**[[NRSVue 2 Timothy 04#^4-10|10]]:** *Demas*, see [[Colossians 04#^4-14|Col 4.14]]; Philem 24. *Crescens*, not mentioned elsewhere. *Titus*, see [[2 Corinthians 02#^2-13|2 Cor 2.13]]; [[2 Corinthians 07#^7-6|7.6]],[[2 Corinthians 07#^7-13|13–14]]; [[2 Corinthians 08#^8-6|8.6]],[[2 Corinthians 08#^8-16|16]],[[2 Corinthians 08#^8-23|23]]; [[2 Corinthians 12#^12-18|12.18]]; [[Galatians 02#^2-1|Gal 2.1]],[[Galatians 02#^2-3|3]]; [[Titus 01#^1-4|Titus 1.4]]. ^4-10
+**[[NRSVue 2 Timothy 04#^4-10|10]]:** *Demas*, see [[Colossians 04#^4-14|Col 4.14]]; [[Philemon 01#^1-24|Philem 24]]. *Crescens*, not mentioned elsewhere. *Titus*, see [[2 Corinthians 02#^2-13|2 Cor 2.13]]; [[2 Corinthians 07#^7-6|7.6]],[[2 Corinthians 07#^7-13|13–14]]; [[2 Corinthians 08#^8-6|8.6]],[[2 Corinthians 08#^8-16|16]],[[2 Corinthians 08#^8-23|23]]; [[2 Corinthians 12#^12-18|12.18]]; [[Galatians 02#^2-1|Gal 2.1]],[[Galatians 02#^2-3|3]]; [[Titus 01#^1-4|Titus 1.4]]. ^4-10
 
-**[[NRSVue 2 Timothy 04#^4-11|11]]:** *Luke*, see [[Colossians 04#^4-14|Col 4.14]]; Philem 24. *Mark*, see [[Acts 12#^12-12|Acts 12.12]]; [[Acts 15#^15-27|15.27]]; [[Colossians 04#^4-11|Col 4.11]]; Philem 24. ^4-11
+**[[NRSVue 2 Timothy 04#^4-11|11]]:** *Luke*, see [[Colossians 04#^4-14|Col 4.14]]; [[Philemon 01#^1-24|Philem 24]]. *Mark*, see [[Acts 12#^12-12|Acts 12.12]]; [[Acts 15#^15-27|15.27]]; [[Colossians 04#^4-11|Col 4.11]]; [[Philemon 01#^1-24|Philem 24]]. ^4-11
 
 **[[NRSVue 2 Timothy 04#^4-12|12]]:** *Tychichus*, see [[Colossians 04#^4-7|Col. 4.7]]; [[Titus 03#^3-12|Titus 3.12]]. ^4-12
 

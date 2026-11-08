@@ -22,7 +22,7 @@ Text: [[NRSVue John 18|NRSVue]] · [[John 18|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 18#^18-3|3]]:** *Soldiers . . . police*, Jesus’ arrest was carried out by Roman and Jewish functionaries. *Pharisees*, did not have their own police. ^18-3
 
-**[[NRSVue John 18#^18-5|5]]:** *I am he*, a double entendre: Jesus identifies himself with the “I am” formula ([[Torah 13 - Shemot#^3-14|Ex 3.14]]; see also Jn 4.26n.; 6.35; 8.58). ^18-5
+**[[NRSVue John 18#^18-5|5]]:** *I am he*, a double entendre: Jesus identifies himself with the “I am” formula ([[Torah 13 - Shemot#^3-14|Ex 3.14]]; see also Jn [[JANT John 04#^4-26|4.26n.]]; 6.35; 8.58). ^18-5
 
 **[[NRSVue John 18#^18-6|6]]:** *Fell to the ground*, suggesting a theophany, as in [[Daniel 02#^2-46|Dan 2.46]]; [[Daniel 08#^8-18|8.18]]; [[Revelation 01#^1-17|Rev 1.17]]. ^18-6
 
@@ -42,7 +42,7 @@ Text: [[NRSVue John 18|NRSVue]] · [[John 18|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 18#^18-17|17]]:** *I am not*, perhaps an ironic inversion of Jesus’ use of “I am” as divine self-designation ^18-17
 
-**[[NRSVue John 18#^18-20|20]]:** *Spoken openly*, see 7.14,37; 8.20n.; 8.59. ^18-20
+**[[NRSVue John 18#^18-20|20]]:** *Spoken openly*, see [[John 07#^7-14|7.14]],[[John 07#^7-37|37]]; [[JANT John 08#^8-20|8.20n.]]; 8.59. ^18-20
 
 **[[NRSVue John 18#^18-24|24]]:** In contrast to Matthew, John depicts no trial before Caiaphas or the Sanhedrin; which, if any, of the Gospel trial accounts is historical is impossible to determine. See [[Matthew 26#^26-57|Mt 26.57–68]]. ^18-24
 

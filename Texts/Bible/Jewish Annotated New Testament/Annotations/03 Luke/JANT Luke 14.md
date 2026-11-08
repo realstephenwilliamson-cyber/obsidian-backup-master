@@ -16,13 +16,13 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 14#^14-1|Text]], p. 145* ^14-1
 
-**[[NRSVue Luke 14#^14-1|1]]:** *Leader of the Pharisees*, Josephus, *Life* 21, mentions “chief (Gk “protos,” lit., “first”) men of the Pharisees.” *Eat a meal*, see 7.36n. ^14-1-2
+**[[NRSVue Luke 14#^14-1|1]]:** *Leader of the Pharisees*, Josephus, *Life* 21, mentions “chief (Gk “protos,” lit., “first”) men of the Pharisees.” *Eat a meal*, see [[JANT Luke 07#^7-36-2|7.36n.]] ^14-1-2
 
 **[[NRSVue Luke 14#^14-2|2]]:** *Dropsy*, edema. ^14-2
 
-**[[NRSVue Luke 14#^14-3|3]]:** *Lawful to cure people on the sabbath*, see 13.14n. ^14-3
+**[[NRSVue Luke 14#^14-3|3]]:** *Lawful to cure people on the sabbath*, see [[JANT Luke 13#^13-14|13.14n.]] ^14-3
 
-**[[NRSVue Luke 14#^14-5|5]]:** *Child*, the variant “donkey” (translators’ note *d*) connects the example to 13.15. *Will you not . . . pull it out*, “qal vahomer” argument (see 13.15n.; contrast CD Ms A 11.13–17; 4Q265, which prohibit lifting an animal from a well or pit on the Sabbath). ^14-5
+**[[NRSVue Luke 14#^14-5|5]]:** *Child*, the variant “donkey” (translators’ note *d*) connects the example to 13.15. *Will you not . . . pull it out*, “qal vahomer” argument (see [[JANT Luke 13#^13-15|13.15n.]]; contrast CD Ms A 11.13–17; 4Q265, which prohibit lifting an animal from a well or pit on the Sabbath). ^14-5
 
 ### 14.7–14: Instructions on humility
 
@@ -32,7 +32,7 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 14#^14-11|11]]:** See 13.30; 18.14; [[Ezekiel 21#^21-31|Ezek 21.26]] (“Exalt that which is low, abase that which is high”); [[Matthew 23#^23-12|Mt 23.12]]. ^14-11
 
-**[[NRSVue Luke 14#^14-12|12]]:** *Rich neighbors*, Luke presumes elite readers (see 1.3). ^14-12
+**[[NRSVue Luke 14#^14-12|12]]:** *Rich neighbors*, Luke presumes elite readers (see [[Luke 01#^1-3|1.3]]). ^14-12
 
 **[[NRSVue Luke 14#^14-13|13]]:** *The poor*, those unable to reciprocate monetarily. Christian commentators sometimes suggest that *the crippled, the lame, and the blind* are excluded from the priesthood and regard Jesus here as eliminating Jewish exclusionary practices. The setting has nothing to do with Temple service; the issue here is the impossibility of reciprocity, not purity or priesthood. ^14-13
 
@@ -42,7 +42,7 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 14#^14-15|Text]], p. 146* · ([[Matthew 22#^22-1|Mt 22.1–14]]). ^14-15
 
-**[[NRSVue Luke 14#^14-15|15]]:** *Bread in the kingdom of God*, messianic banquet (see 11.3n.). ^14-15-2
+**[[NRSVue Luke 14#^14-15|15]]:** *Bread in the kingdom of God*, messianic banquet (see [[JANT Luke 11#^11-3|11.3n.]]). ^14-15-2
 
 **[[NRSVue Luke 14#^14-18|18]]:** *Make excuses*: the excuses are poor, and so insult the host. ^14-18
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 14#^14-21|21]]:** *Poor . . . lame*, see 14.13. ^14-21
 
-**[[NRSVue Luke 14#^14-24|24]]:** *My dinner*, see 11.3n. ^14-24
+**[[NRSVue Luke 14#^14-24|24]]:** *My dinner*, see [[JANT Luke 11#^11-3|11.3n.]] ^14-24
 
 > [!note] Parable of the Prodigal Son ([[Luke 15#^15-11|Lk 15.11–32]]) *(p. 146)*
 > The juxtaposed parables of the lost sheep and lost coin that immediately precede this parable suggest that it is about something more or other than repenting (despite the assertion in 15.10), for neither sheep nor coins repent. Hearing the parable in a Jewish context both adds depth to the story and challenges a number of popular interpretations.
@@ -61,7 +61,7 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 >
 > Third, although many interpreters see the younger son as repenting, the text does not say so. The prodigal’s motive for returning to his father is economic desperation rather than theo- logical recognition, and his rehearsed line, “I have sinned against heaven and before you” (15.18), echoes the similarly desperate plea of Pharaoh ([[Torah 15 - Bo#^10-16|Ex 10.16]]), who simply wants the plagues to stop.
 >
-> Fourth, incorrect is the common view that the father’s generous response to the prodigal—whether the father is seen as a loving parent or representative of God—would be surprising to Jesus’ Jewish audience. Jewish tradition sees fathers as loving their children (see 8.42n.), and God as always reaching out to bring the sinner home.
+> Fourth, incorrect is the common view that the father’s generous response to the prodigal—whether the father is seen as a loving parent or representative of God—would be surprising to Jesus’ Jewish audience. Jewish tradition sees fathers as loving their children (see [[JANT Luke 08#^8-42|8.42n.]]), and God as always reaching out to bring the sinner home.
 >
 > Fifth, the common reading of the older brother as the recalcitrant Pharisee who “works like a slave” and thus is burdened by works-righteousness rather than saved by grace, fits neither the parable nor Jewish tradition. To the contrary, the elder is the one who is always with the father and is his heir.
 >
@@ -71,13 +71,13 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 14#^14-25|Text]], p. 147* · ([[Matthew 10#^10-37|Mt 10.37–38]]). ^14-25
 
-**[[NRSVue Luke 14#^14-26|26]]:** See [[Matthew 10#^10-37|Mt 10.37]]; [[John 12#^12-25|Jn 12.25]]. *Hate*, hyperbolic ([[Proverbs 13#^13-24|Prov 13.24]]), but consistent with Luke’s interest in severing familial and economic ties (see 12.51n.). ^14-26
+**[[NRSVue Luke 14#^14-26|26]]:** See [[Matthew 10#^10-37|Mt 10.37]]; [[John 12#^12-25|Jn 12.25]]. *Hate*, hyperbolic ([[Proverbs 13#^13-24|Prov 13.24]]), but consistent with Luke’s interest in severing familial and economic ties (see [[JANT Luke 12#^12-51|12.51n.]]). ^14-26
 
-**[[NRSVue Luke 14#^14-27|27]]:** *Carry the cross*, risk death ([[Mark 08#^8-34|Mk 8.34]]), see 9.23n. ^14-27
+**[[NRSVue Luke 14#^14-27|27]]:** *Carry the cross*, risk death ([[Mark 08#^8-34|Mk 8.34]]), see [[JANT Luke 09#^9-23-2|9.23n.]] ^14-27
 
 **[[NRSVue Luke 14#^14-28|28]]:** *Intending to build a tower*, suggesting an elite audience. ^14-28
 
-**[[NRSVue Luke 14#^14-33|33]]:** *Give up all your possessions*, see 6.30n. ^14-33
+**[[NRSVue Luke 14#^14-33|33]]:** *Give up all your possessions*, see [[JANT Luke 06#^6-30|6.30n.]] ^14-33
 
 **[[NRSVue Luke 14#^14-34|34–35]]:** *Salt has lost its taste*, see [[Matthew 05#^5-13|Mt 5.13]]; [[Mark 09#^9-49|Mk 9.49–50]]. Salt can become diluted with additives, just as possessions can dilute one’s focus on what is of true import. ^14-34
 

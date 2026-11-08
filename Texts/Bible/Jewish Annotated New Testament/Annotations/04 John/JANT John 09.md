@@ -16,7 +16,7 @@ Text: [[NRSVue John 09|NRSVue]] · [[John 09|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue John 09#^9-1|Text]], p. 196* ^9-1
 
-**[[NRSVue John 09#^9-2|2–3]]:** Illness and disability were sometimes attributed to sin; see 5.14n. ^9-2
+**[[NRSVue John 09#^9-2|2–3]]:** Illness and disability were sometimes attributed to sin; see [[JANT John 05#^5-14|5.14n.]] ^9-2
 
 **[[NRSVue John 09#^9-4|4]]:** Reference to Jesus’ death. ^9-4
 
@@ -43,11 +43,11 @@ Text: [[NRSVue John 09|NRSVue]] · [[John 09|BSB and SBLGNT]] · Introduction: [
 **[[NRSVue John 09#^9-28|28]]:** This passage sets up a contrast between the disciples of Jesus and the *disciples of Moses*. There is no evidence that Jews referred to themselves as *disciples of Moses*. ^9-28
 
 > [!note] Aposynagōgos (JN 9.22) *(p. 197)*
-> This term, which does not appear elsewhere in the New Testament or in ancient Greek literature, denotes a person who has been cast out or excluded from the synagogue. Although the term might refer simply to a one-time exclusion from a service or gathering, scholars generally understand it as a reference to exclusion from the Jewish community. Some argue that in using this term (see also 12.42 and 16.2), the Gospel is indirectly describing an experience of the intended audience of this Gospel, namely, a traumatic expulsion from the synagogue on account of their faith in Jesus as the Messiah and Son of God. Though this reading is possible, it is not supported by any external evidence. An alternative explanation is that the references to expulsion are used rhetorically to create fear of the Jews on the part of the audience. This reading considers the term as a rhetorical device intended to support the Gospel’s main argument — that only those who believe in Jesus can be in covenantal relationship with God — by driving a wedge between Jews who confess Jesus as Messiah and the majority who did not do so.
+> This term, which does not appear elsewhere in the New Testament or in ancient Greek literature, denotes a person who has been cast out or excluded from the synagogue. Although the term might refer simply to a one-time exclusion from a service or gathering, scholars generally understand it as a reference to exclusion from the Jewish community. Some argue that in using this term (see also [[John 12#^12-42|12.42]] and 16.2), the Gospel is indirectly describing an experience of the intended audience of this Gospel, namely, a traumatic expulsion from the synagogue on account of their faith in Jesus as the Messiah and Son of God. Though this reading is possible, it is not supported by any external evidence. An alternative explanation is that the references to expulsion are used rhetorically to create fear of the Jews on the part of the audience. This reading considers the term as a rhetorical device intended to support the Gospel’s main argument — that only those who believe in Jesus can be in covenantal relationship with God — by driving a wedge between Jews who confess Jesus as Messiah and the majority who did not do so.
 
 **[[NRSVue John 09#^9-32|32]]:** Tobit is healed of blindness by his son Tobias ([[LXX Tobit 11#^11-11|Tob 11.11]]). ^9-32
 
-**[[NRSVue John 09#^9-34|34]]:** *Born entirely in sins*, likely refers to v 2 and the common belief that congenital blindness is somehow related to the sin of the man or his parents, a view that Jesus rejects (v 3–4; see 5.14n.). ^9-34
+**[[NRSVue John 09#^9-34|34]]:** *Born entirely in sins*, likely refers to v 2 and the common belief that congenital blindness is somehow related to the sin of the man or his parents, a view that Jesus rejects (v 3–4; see [[JANT John 05#^5-14|5.14n.]]). ^9-34
 
 **[[NRSVue John 09#^9-38|38]]:** *Worshiped*, the Gk “proskyneo” refers to bowing, as a response to a theophany. In this context, it does not necessarily imply the worship of Jesus as divine or as the Messiah and son of God; see [[Torah 03 - Lech Lecha#^17-3|Gen 17.3]]. ^9-38
 

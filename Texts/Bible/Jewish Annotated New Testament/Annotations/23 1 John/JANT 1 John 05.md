@@ -24,7 +24,7 @@ Text: [[NRSVue 1 John 05|NRSVue]] · [[1 John 05|BSB and SBLGNT]] · Introductio
 
 *[[NRSVue 1 John 05#^5-13|Text]], p. 526* ^5-13
 
-**[[NRSVue 1 John 05#^5-16|16–17]]:** *Sin that is mortal*, the precise meaning is not clear, but possibly *mortal* refers to sin that prevents one from attaining eternal life (see 2.25n.). Not loving brothers and sisters seems to be the sin referred to here (see 3.14–15). ^5-16
+**[[NRSVue 1 John 05#^5-16|16–17]]:** *Sin that is mortal*, the precise meaning is not clear, but possibly *mortal* refers to sin that prevents one from attaining eternal life (see [[JANT 1 John 02#^2-25|2.25n.]]). Not loving brothers and sisters seems to be the sin referred to here (see [[1 John 03#^3-14|3.14–15]]). ^5-16
 
 **[[NRSVue 1 John 05#^5-18|18]]:** *Those who are born of God do not sin*, perhaps a reference to [[John 03#^3-2|Jn 3.2–10]] and 3.31–26; see 1.8. ^5-18
 

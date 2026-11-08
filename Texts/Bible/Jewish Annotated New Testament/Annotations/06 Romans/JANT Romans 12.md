@@ -16,7 +16,7 @@ Text: [[NRSVue Romans 12|NRSVue]] · [[Romans 12|BSB and SBLGNT]] · Introductio
 
 *[[NRSVue Romans 12#^12-1|Text]], p. 312* · Paul explains how Gentiles are to live faithfully as Christ-followers in the midst of the Jewish communities of Rome. In disclosing how God is working through those Israelites who are bringing the message to the nations as well as those who are not, Paul *therefore* exhorts the Gentile Christ-followers to change their mind-set and behavior to fulfill their responsibilities in this design. Rather than respond on the basis of present appearances, they are to live according to that which has been revealed, for they play an important role in the completion of God’s gracious designs *of God* for everyone. Most of this ch gives general instructions for how to live with respect and consideration toward everyone, including those who may oppose them and their claims. This they can do if they work together and look to God’s empowerment, since God is the just judge who knows everyone’s intentions and actions. Their responsibility is instead to serve the other, and they are to realize that they only play a small part, however important, in the midst of all of humanity, so they must learn to live on behalf of everyone, even on behalf of those who may seem to be obstacles to their own success or happiness. As he argued in ch 2, things (and people) may not be as they seem to be; leave the judging to God. Most of the instructions are attested in Tanakh and contemporaneous wisdom literature. ^12-1
 
-**[[NRSVue Romans 12#^12-1|1]]:** *Therefore*, in view of what Paul has just argued about the role of these Gentiles in God’s plan, he offers in chs 12–15 exhortations for how these Gentiles ought to behave. *Mercies*, or “compassions”; *living sacrifice*, dedicating one’s body and mind to God (cf. 15.16; 1QS 8.5–10; 9.3–5; 4QFlor 1.2–7; *Odes Sol*. 20.1–5). *Which is your spiritual worship*, or “which is a logical expression of your worship (or service)”; cf. *b. Sanh*. [[Sanhedrin 43#43b|43b]], concerning a humble spirit as a suitable substitute for sacrifices. ^12-1-2
+**[[NRSVue Romans 12#^12-1|1]]:** *Therefore*, in view of what Paul has just argued about the role of these Gentiles in God’s plan, he offers in chs 12–15 exhortations for how these Gentiles ought to behave. *Mercies*, or “compassions”; *living sacrifice*, dedicating one’s body and mind to God (cf. [[Romans 15#^15-16|15.16]]; 1QS 8.5–10; 9.3–5; 4QFlor 1.2–7; *Odes Sol*. 20.1–5). *Which is your spiritual worship*, or “which is a logical expression of your worship (or service)”; cf. *b. Sanh*. [[Sanhedrin 43#43b|43b]], concerning a humble spirit as a suitable substitute for sacrifices. ^12-1-2
 
 **[[NRSVue Romans 12#^12-2|2]]:** See 6.4. *To this world*, to this age; *renewing . . . minds,* cf. [[Isaiah 01#^1-18|Isa 1.18]]. ^12-2
 
@@ -30,13 +30,13 @@ Text: [[NRSVue Romans 12|NRSVue]] · [[Romans 12|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 12#^12-9|9]]:** *Be genuine*, lit., “without hypocrisy”; see [[Torah 30 - Kedoshim#^19-33|Lev 19.33–34]]; Am 5.15; [[Psalms 097#^97-10|Ps 97.10]]; 1QS 1.4–5; *T. Benj*. 8.1. ^12-9
 
-**[[NRSVue Romans 12#^12-10|10]]:** *Love*, or “be devoted to”; cf. [[Torah 30 - Kedoshim#^19-18|Lev 19.18]]; 1QS 2.24–25; [[John 13#^13-34|Jn 13.34]]; *m. Avot* 4.15 (“Greet everyone first”). ^12-10
+**[[NRSVue Romans 12#^12-10|10]]:** *Love*, or “be devoted to”; cf. [[Torah 30 - Kedoshim#^19-18|Lev 19.18]]; 1QS 2.24–25; [[John 13#^13-34|Jn 13.34]]; *m. Avot* [[Pirkei Avot 04#^4-15|4.15]] (“Greet everyone first”). ^12-10
 
 **[[NRSVue Romans 12#^12-11|11]]:** *Do not lag in zeal*, see [[Proverbs 06#^6-6|Prov 6.6]],[[Proverbs 06#^6-9|9]]; [[Proverbs 20#^20-4|20.4]]. ^12-11
 
 **[[NRSVue Romans 12#^12-12|12]]:** *Persevere*, or “persist, devote yourself to prayer.” ^12-12
 
-**[[NRSVue Romans 12#^12-13|13]]:** *Saints*, see 1.7n. *Hospitality*, see Gen 18; [[Job 31#^31-32|Job 31.32]]; Philo, *Abr.* 107–14; Josephus*, Ant.* 1.196; see also [[Mark 01#^1-29|Mk 1.29–31]]; [[Mark 06#^6-8|6.8–11]]; [[Mark 14#^14-3|14.3]]; [[Luke 10#^10-38|Lk 10.38–42]]*.* ^12-13
+**[[NRSVue Romans 12#^12-13|13]]:** *Saints*, see [[JANT Romans 01#^1-7|1.7n.]] *Hospitality*, see Gen 18; [[Job 31#^31-32|Job 31.32]]; Philo, *Abr.* 107–14; Josephus*, Ant.* 1.196; see also [[Mark 01#^1-29|Mk 1.29–31]]; [[Mark 06#^6-8|6.8–11]]; [[Mark 14#^14-3|14.3]]; [[Luke 10#^10-38|Lk 10.38–42]]*.* ^12-13
 
 **[[NRSVue Romans 12#^12-14|14]]:** See [[Matthew 05#^5-44|Mt 5.44]]; [[Luke 06#^6-28|Lk 6.28]]; contrast [[Galatians 01#^1-8|Gal 1.8–9]]; [[Galatians 05#^5-11|5.11–12]]; [[1 Thessalonians 02#^2-14|1 Thess 2.14–16]]. ^12-14
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Romans 12|NRSVue]] · [[Romans 12|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 12#^12-19|19]]:** *Wrath of God*, “of God” not in Gk. *Vengeance is mine*, [[Torah 53 - Ha'Azinu#^32-35|Deut 32.35]]. The echoes of Proverbs in this section reflect similar concern to exhort to righteous living. ^12-19
 
-**[[NRSVue Romans 12#^12-20|20]]:** *Enemies are hungry* . . . drawn from [[Proverbs 25#^25-22|Prov 25.22]]. *Heap burning coals*, perhaps indicates the blood rising for one who is shamed by the receipt of kindness from one to whom the recipient has been unkind; cf. [[II Kings 06#^6-22|2 Kings 6.22]]; 1QS 10.17–20 similarly develops Prov 25.22; 9.21–22; *4 Ezra* \[2 Esd\] 16.54; *Tg. Prov.* 25.21–23. ^12-20
+**[[NRSVue Romans 12#^12-20|20]]:** *Enemies are hungry* . . . drawn from [[Proverbs 25#^25-22|Prov 25.22]]. *Heap burning coals*, perhaps indicates the blood rising for one who is shamed by the receipt of kindness from one to whom the recipient has been unkind; cf. [[II Kings 06#^6-22|2 Kings 6.22]]; 1QS 10.17–20 similarly develops Prov 25.22; 9.21–22; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 16#^16-54|16.54]]; *Tg. Prov.* 25.21–23. ^12-20
 
 **[[NRSVue Romans 12#^12-21|21]]:** *Overcome evil with good*, see [[Luke 06#^6-27|Lk 6.27–36]]; 1QS 10.17–18; *T. Benj*. 4.2–3. *time* b Or *give yourselves to humble tasks* c Gk *the wrath* ^12-21
 

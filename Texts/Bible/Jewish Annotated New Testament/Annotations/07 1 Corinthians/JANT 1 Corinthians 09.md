@@ -16,7 +16,7 @@ Text: [[NRSVue 1 Corinthians 09|NRSVue]] · [[1 Corinthians 09|BSB and SBLGNT]] 
 
 *[[NRSVue 1 Corinthians 09#^9-1|Text]], p. 336* · In this chapter, Paul explains his role as an apostle. ^9-1
 
-**[[NRSVue 1 Corinthians 09#^9-1|1]]:** *Apostle*, “one sent out” (see 1.1n.), commissioned by *the Lord* to spread the gospel. *Seen Jesus*, see 15.8–10. ^9-1-2
+**[[NRSVue 1 Corinthians 09#^9-1|1]]:** *Apostle*, “one sent out” (see [[JANT 1 Corinthians 01#^1-1-2|1.1n.]]), commissioned by *the Lord* to spread the gospel. *Seen Jesus*, see 15.8–10. ^9-1-2
 
 **[[NRSVue 1 Corinthians 09#^9-2|2]]:** *Seal*, a means of ensuring a document’s authenticity by fastening it with softened wax, lead, or clay impressed with a stamp; used metaphorically: since Paul founded the community, the community authenticated his apostolic role**.** ^9-2
 
@@ -24,9 +24,9 @@ Text: [[NRSVue 1 Corinthians 09|NRSVue]] · [[1 Corinthians 09|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 09#^9-4|4]]:** *Right*, apostles expected church support. ^9-4
 
-**[[NRSVue 1 Corinthians 09#^9-5|5]]:** *Wife*, lit., “sister” (Gk “adelphē”), a member of the church. A “sister-wife” would provide marital companionship, although Paul chose to remain celibate (9.12). *Brothers of the Lord*, see [[Matthew 12#^12-46|Mt 12.46–49]]; [[Matthew 13#^13-55|13.55]]; [[Matthew 28#^28-10|28.10]]; [[Mark 03#^3-31|Mk 3.31–34]]; [[Luke 08#^8-19|Lk 8.19–21]]; [[John 02#^2-12|Jn 2.12]]; [[John 07#^7-3|7.3–10]]; [[John 20#^20-17|20.17]]; [[Galatians 01#^1-19|Gal 1.19]]). *Cephas*, Peter. See 1.12; 3.22; 15.5; according to [[Matthew 08#^8-14|Mt 8.14–15]]; [[Mark 01#^1-29|Mk 1.29–31]]; [[Luke 04#^4-38|Lk 4.38–39]], Jesus healed Cephas’s mother-in-law. ^9-5
+**[[NRSVue 1 Corinthians 09#^9-5|5]]:** *Wife*, lit., “sister” (Gk “adelphē”), a member of the church. A “sister-wife” would provide marital companionship, although Paul chose to remain celibate (9.12). *Brothers of the Lord*, see [[Matthew 12#^12-46|Mt 12.46–49]]; [[Matthew 13#^13-55|13.55]]; [[Matthew 28#^28-10|28.10]]; [[Mark 03#^3-31|Mk 3.31–34]]; [[Luke 08#^8-19|Lk 8.19–21]]; [[John 02#^2-12|Jn 2.12]]; [[John 07#^7-3|7.3–10]]; [[John 20#^20-17|20.17]]; [[Galatians 01#^1-19|Gal 1.19]]). *Cephas*, Peter. See [[1 Corinthians 01#^1-12|1.12]]; [[1 Corinthians 03#^3-22|3.22]]; [[1 Corinthians 15#^15-5|15.5]]; according to [[Matthew 08#^8-14|Mt 8.14–15]]; [[Mark 01#^1-29|Mk 1.29–31]]; [[Luke 04#^4-38|Lk 4.38–39]], Jesus healed Cephas’s mother-in-law. ^9-5
 
-**[[NRSVue 1 Corinthians 09#^9-6|6]]:** *Barnabas*, Aram for “son of encouragement” ([[Acts 04#^4-36|Acts 4.36]]; [[Acts 09#^9-27|9.27]]; [[Acts 11#^11-27|11.27–30]]; [[Acts 13#^13-8|13.8–13]]; [[Acts 15#^15-38|15.38–40]]; [[Galatians 02#^2-1|Gal 2.1–14]]). *Working for a living*, see 4.12n. ^9-6
+**[[NRSVue 1 Corinthians 09#^9-6|6]]:** *Barnabas*, Aram for “son of encouragement” ([[Acts 04#^4-36|Acts 4.36]]; [[Acts 09#^9-27|9.27]]; [[Acts 11#^11-27|11.27–30]]; [[Acts 13#^13-8|13.8–13]]; [[Acts 15#^15-38|15.38–40]]; [[Galatians 02#^2-1|Gal 2.1–14]]). *Working for a living*, see [[JANT 1 Corinthians 04#^4-12|4.12n.]] ^9-6
 
 **[[NRSVue 1 Corinthians 09#^9-8|8]]:** *Law,* of Moses (v 9). ^9-8
 
@@ -42,7 +42,7 @@ Text: [[NRSVue 1 Corinthians 09|NRSVue]] · [[1 Corinthians 09|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 09#^9-17|17]]:** Free will and compulsion are two motivations for proclaiming the gospel (see [[Jeremiah 01#^1-5|Jer 1.5]]; [[Galatians 01#^1-15|Gal 1.15]]). ^9-17
 
-**[[NRSVue 1 Corinthians 09#^9-18|18]]:** *Reward*, Paul declines apostolic rights to monetary compensation in order to teach *free of charge*, paralleling the rabbinic notion of “sekhar mitzvah mitzvah,” the performance of a divine imperative is its own reward (*m. Avot* 4.2). Rabbis were not formally compensated for their teaching until the fourteenth century, and even then the payment was construed as compensation for lost wages rather than remuneration (*Magen Avot* on *m. Avot* 4.5). ^9-18
+**[[NRSVue 1 Corinthians 09#^9-18|18]]:** *Reward*, Paul declines apostolic rights to monetary compensation in order to teach *free of charge*, paralleling the rabbinic notion of “sekhar mitzvah mitzvah,” the performance of a divine imperative is its own reward (*m. Avot* [[Pirkei Avot 04#^4-2|4.2]]). Rabbis were not formally compensated for their teaching until the fourteenth century, and even then the payment was construed as compensation for lost wages rather than remuneration (*Magen Avot* on *m. Avot* [[Pirkei Avot 04#^4-5|4.5]]). ^9-18
 
 ### 9.19–23: Slave to all
 
@@ -54,7 +54,7 @@ Text: [[NRSVue 1 Corinthians 09|NRSVue]] · [[1 Corinthians 09|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 09#^9-21|21]]:** *Outside the law*, the perspective of Gentiles neither bound nor protected by Torah. *Under Christ’s law*, the Gk preposition “en” is better translated “in” rather than *under* (see [[Galatians 06#^6-2|Gal 6.2]]). Paul never prohibits Jews in the church from following Torah. See “Freedom from the Law,” p. 331. ^9-21
 
-**[[NRSVue 1 Corinthians 09#^9-22|22]]:** *Weak*, see 1.27; 2.3; 4.10; 8.7–12; 12.22. ^9-22
+**[[NRSVue 1 Corinthians 09#^9-22|22]]:** *Weak*, see [[1 Corinthians 01#^1-27|1.27]]; [[1 Corinthians 02#^2-3|2.3]]; [[1 Corinthians 04#^4-10|4.10]]; [[1 Corinthians 08#^8-7|8.7–12]]; 12.22. ^9-22
 
 **[[NRSVue 1 Corinthians 09#^9-23|23]]:** *Blessings*, fulfilled promises of the kingdom. ^9-23
 

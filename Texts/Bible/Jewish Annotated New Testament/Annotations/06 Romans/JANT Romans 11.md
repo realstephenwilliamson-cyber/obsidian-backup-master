@@ -26,9 +26,9 @@ Text: [[NRSVue Romans 11|NRSVue]] · [[Romans 11|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 11#^11-5|5]]:** Cf. 9.29; 1 QS 8.6. *Grace*, see 1.5. ^11-5
 
-**[[NRSVue Romans 11#^11-6|6]]:** Israelites who are faithfully proclaiming the gospel, like Paul, were not chosen to do so because of their actions (possibly, completion of rites); this is the result of God’s choice for how things should unfold, God’s gifting; cf. 9.16. *Grace*, a gift of benefaction, see 1.5n. ^11-6
+**[[NRSVue Romans 11#^11-6|6]]:** Israelites who are faithfully proclaiming the gospel, like Paul, were not chosen to do so because of their actions (possibly, completion of rites); this is the result of God’s choice for how things should unfold, God’s gifting; cf. 9.16. *Grace*, a gift of benefaction, see [[JANT Romans 01#^1-5|1.5n.]] ^11-6
 
-**[[NRSVue Romans 11#^11-7|7]]:** See 9.6. *Failed*, not in Gk; *were hardened*, lit., “were being callused.” See 11.25n. ^11-7
+**[[NRSVue Romans 11#^11-7|7]]:** See 9.6. *Failed*, not in Gk; *were hardened*, lit., “were being callused.” See [[JANT Romans 11#^11-25-2|11.25n.]] ^11-7
 
 **[[NRSVue Romans 11#^11-8|8]]:** Loose citation of [[Torah 50 - Ki Tavo#^29-3|Deut 29.4]] conflated with [[Isaiah 29#^29-10|Isa 29.10]], *it is no longer on the basis of grace, otherwise work would no longer be work* Paul often cites parts of verses and sometimes juxtaposes two different verses, and, as here, from two different books. [[Torah 50 - Ki Tavo#^29-1|Deut 29.2–3]] tells of Israel not yet recognizing the mysterious way that God used Pharaoh. *This day*, signals the end of the lack of perception. Isa 29 expresses a similar theme about Judah’s prophets failing to perceive Judah’s initial deliverance from the nations (vv 9–14), while deaf and blind Israelites understand (vv 17–21), with a message of preservation of those who have erred or grumbled (vv 22–24). ^11-8
 
@@ -65,7 +65,7 @@ Text: [[NRSVue Romans 11|NRSVue]] · [[Romans 11|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 11#^11-22|22]]:** The natural branches described as “cut off” (Gk “ekklaō”), rather than merely “broken” (Gk “ekkoptō”). This change highlights the severity of the fate of the wild shoot if it should be presumptuous. ^11-22
 
-**[[NRSVue Romans 11#^11-23|23]]:** Isaiah, in the midst of plant and tree metaphors (see 11.19n.), portrays God miraculously preserving Israel. *Of Israel*, not in Gk; *and even those*, lit., “but also they.” *If they do not persist in unbelief*, lit., “if they would not continue to \[represent\] the unfaithfulness \[of not proclaiming the message to Gentiles\]. *Has the power*, lit., “is able.” ^11-23
+**[[NRSVue Romans 11#^11-23|23]]:** Isaiah, in the midst of plant and tree metaphors (see [[JANT Romans 11#^11-19|11.19n.]]), portrays God miraculously preserving Israel. *Of Israel*, not in Gk; *and even those*, lit., “but also they.” *If they do not persist in unbelief*, lit., “if they would not continue to \[represent\] the unfaithfulness \[of not proclaiming the message to Gentiles\]. *Has the power*, lit., “is able.” ^11-23
 
 **[[NRSVue Romans 11#^11-24|24]]:** *Their own olive tree*, the tree from which the natural branches grew, unlike the wild shoot grafted among them. ^11-24
 

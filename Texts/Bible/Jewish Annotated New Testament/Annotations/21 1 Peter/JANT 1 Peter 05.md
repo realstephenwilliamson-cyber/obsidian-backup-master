@@ -22,9 +22,9 @@ Text: [[NRSVue 1 Peter 05|NRSVue]] · [[1 Peter 05|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 05#^5-4|4]]:** *Crown of glory*, see 1.4. ^5-4
 
-**[[NRSVue 1 Peter 05#^5-5|5–6]]:** On being subject to the authority see 2.13,18; 3.1,5,22. *God opposes the proud, but gives grace to the humble*, [[LXX Proverbs 03#^3-34|Prov 3.34]]\[LXX\]. The previous verse ([[Proverbs 03#^3-33|Prov 3.33]]) shares the contrast between God’s house and those outside it as in, 1Pet 4.17. ^5-5
+**[[NRSVue 1 Peter 05#^5-5|5–6]]:** On being subject to the authority see [[1 Peter 02#^2-13|2.13]],[[1 Peter 02#^2-18|18]]; [[1 Peter 03#^3-1|3.1]],[[1 Peter 03#^3-5|5]],[[1 Peter 03#^3-22|22]]. *God opposes the proud, but gives grace to the humble*, [[LXX Proverbs 03#^3-34|Prov 3.34]]\[LXX\]. The previous verse ([[Proverbs 03#^3-33|Prov 3.33]]) shares the contrast between God’s house and those outside it as in, 1Pet 4.17. ^5-5
 
-**[[NRSVue 1 Peter 05#^5-6|6]]:** *Humble yourselves*, [[Micah 6#^6-8|Mic 6.8]]; [[Psalms 022#^22-7|Ps 22.7]]; *m. Avot* 4.4 (“Rabbi Levitas *blasphemed, but on your part he is glorified* c Other ancient authorities lack *exercising the oversight* d Other ancient authorities lack *as God would have you do it* e Or *of those who are older* of Yavneh said, ‘Be very very humble, for the anticipated end of a mortal is worms’”). *Hand of God*, recognition of God’s power should lead to humility. ^5-6
+**[[NRSVue 1 Peter 05#^5-6|6]]:** *Humble yourselves*, [[Micah 6#^6-8|Mic 6.8]]; [[Psalms 022#^22-7|Ps 22.7]]; *m. Avot* [[Pirkei Avot 04#^4-4|4.4]] (“Rabbi Levitas *blasphemed, but on your part he is glorified* c Other ancient authorities lack *exercising the oversight* d Other ancient authorities lack *as God would have you do it* e Or *of those who are older* of Yavneh said, ‘Be very very humble, for the anticipated end of a mortal is worms’”). *Hand of God*, recognition of God’s power should lead to humility. ^5-6
 
 **[[NRSVue 1 Peter 05#^5-8|8]]:** *Discipline yourselves*, lit., “be sober” (1.13; 4.7). *Keep alert*, [[Mark 13#^13-34|Mk 13.34]]; [[1 Thessalonians 05#^5-6|1 Thess 5.6]]. *Roaring lion*, [[Psalms 022#^22-14|Ps 22.13]]. *The devil*, signifying either the non-believing oppressors, or the inner desire to express anger, to sin, or to lose faith (see “Supernatural Beings,” p. 682). ^5-8
 

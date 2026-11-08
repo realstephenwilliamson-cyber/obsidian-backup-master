@@ -26,11 +26,11 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 12#^12-6|6]]:** *Greater than the temple*, Jesus’ presence grants his disciples authority to define Sabbath practices. ^12-6
 
-**[[NRSVue Matthew 12#^12-7|7]]:** *Mercy and not sacrifice*, see 9.13n. ^12-7
+**[[NRSVue Matthew 12#^12-7|7]]:** *Mercy and not sacrifice*, see [[JANT Matthew 09#^9-13|9.13n.]] ^12-7
 
-**[[NRSVue Matthew 12#^12-8|8]]:** *Son of Man*, see 8.20n. According to the Torah, the Sabbath was God’s gift to the people ([[Torah 16 - Beshalach#^16-29|Ex 16.29]]). In Matthew, Jesus is the authoritative interpreter of Sabbath laws. ^12-8
+**[[NRSVue Matthew 12#^12-8|8]]:** *Son of Man*, see [[JANT Matthew 08#^8-20|8.20n.]] According to the Torah, the Sabbath was God’s gift to the people ([[Torah 16 - Beshalach#^16-29|Ex 16.29]]). In Matthew, Jesus is the authoritative interpreter of Sabbath laws. ^12-8
 
-**[[NRSVue Matthew 12#^12-10|10–12]]:** See 9.26n. Rabbinic law permitted alleviating an animal’s distress on the Sabbath (*t. Shabb*. 15.1; *b. Shabb*. [[Shabbat 128#128b|128b]]), although some Jews disagreed (CD 11.13). ^12-10
+**[[NRSVue Matthew 12#^12-10|10–12]]:** See [[JANT Matthew 09#^9-35|9.26n.]] Rabbinic law permitted alleviating an animal’s distress on the Sabbath (*t. Shabb*. 15.1; *b. Shabb*. [[Shabbat 128#128b|128b]]), although some Jews disagreed (CD 11.13). ^12-10
 
 **[[NRSVue Matthew 12#^12-13|13]]:** *It was restored*, the passive construction both suggests divine healing and indicates that Jesus did no “work.” ^12-13
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 12#^12-15|Text]], p. 33* · ([[Mark 03#^3-7|Mk 3.7–12]]; [[Luke 06#^6-17|Lk 6.17–19]]). ^12-15
 
-**[[NRSVue Matthew 12#^12-16|16]]:** *Not to make him known*, messianic secret (see 8.4n.). ^12-16
+**[[NRSVue Matthew 12#^12-16|16]]:** *Not to make him known*, messianic secret (see [[JANT Matthew 08#^8-4|8.4n.]]). ^12-16
 
 **[[NRSVue Matthew 12#^12-18|18–21]]:** [[Isaiah 42#^42-1|Isa 42.1–4]], but not an exact quotation of any extant Hebrew or Greek texts. *My servant*, here the Messiah (see *2 Bar*. 70.9). The “servant” usually referred to Israel ([[Isaiah 42#^42-18|Isa 42.18–29]]; [[Isaiah 44#^44-1|44.1]],[[Isaiah 44#^44-21|21]]; [[Isaiah 49#^49-3|49.3]],[[Isaiah 49#^49-5|5–7]]; *Pss. Sol*. 12.6; 17.21). ^12-18
 
@@ -48,23 +48,23 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 12#^12-22|Text]], p. 34* · ([[Mark 03#^3-20|Mk 3.20–30]]; [[Luke 11#^11-14|Lk 11.14–23]]; [[Luke 12#^12-10|12.10]]; [[Luke 06#^6-43|6.43–45]]). ^12-22
 
-**[[NRSVue Matthew 12#^12-22|22–24]]:** See 9.34n. *Son of David*, see 1.1n. *Beelzebul*, see 10.25n. ^12-22-2
+**[[NRSVue Matthew 12#^12-22|22–24]]:** See [[JANT Matthew 09#^9-34|9.34n.]] *Son of David*, see [[JANT Matthew 01#^1-1-2|1.1n.]] *Beelzebul*, see [[JANT Matthew 10#^10-25|10.25n.]] ^12-22-2
 
 **[[NRSVue Matthew 12#^12-26|26]]:** *Satan casts out Satan*, a demon would not expel fellow demons (see *T. Sol*. 5.5; 15.8). ^12-26
 
 **[[NRSVue Matthew 12#^12-27|27]]:** See 7.22–23; [[Mark 09#^9-38|Mk 9.38]]; [[Acts 19#^19-13|Acts 19.13–19]]. *Your own exorcists*, see Josephus, *Ant.* 8.46–49. ^12-27
 
-**[[NRSVue Matthew 12#^12-28|28]]:** *Kingdom of God*, see 3.2n. ^12-28
+**[[NRSVue Matthew 12#^12-28|28]]:** *Kingdom of God*, see [[JANT Matthew 03#^3-2|3.2n.]] ^12-28
 
 **[[NRSVue Matthew 12#^12-30|30]]:** *Is against me*, a dualistic view of humanity, found, e.g., in the Dead Sea Scrolls. ^12-30
 
-**[[NRSVue Matthew 12#^12-31|31]]:** 9.3n. *Blasphemy against the Spirit*, certain sins against God are not forgiven (see [[Torah 17 - Yitro#^20-7|Ex 20.7]]; [[Torah 37 - Sh'lach#^15-30|Num 15.30–31]]; *Jub*. 15.34; 1QS 7.15–17,22–23; CD 10.3); *Sifre Deut*. 328 states that God ex-acts “immediate punishment” for those who desecrate the divine name and thus blaspheme. ^12-31
+**[[NRSVue Matthew 12#^12-31|31]]:** [[JANT Matthew 09#^9-3|9.3n.]] *Blasphemy against the Spirit*, certain sins against God are not forgiven (see [[Torah 17 - Yitro#^20-7|Ex 20.7]]; [[Torah 37 - Sh'lach#^15-30|Num 15.30–31]]; *Jub*. 15.34; 1QS 7.15–17,22–23; CD 10.3); *Sifre Deut*. 328 states that God ex-acts “immediate punishment” for those who desecrate the divine name and thus blaspheme. ^12-31
 
-**[[NRSVue Matthew 12#^12-32|32]]:** See 8.20n.; 10.23n. *Age to come*, Heb “Olam ha-ba’,” the messianic age (see *m. Sanh*. 10.1; *b. Sanh*. [[Sanhedrin 90#90a|90a]]; *b. Shabb*. [[Shabbat 127#127a|127a]]; *b. Men*. [[Menachot 44#44a|44a]]; *b. Pesah*. [[Pesachim 50#50a|50a]]; *b. Qidd*. [[Kiddushin 39#39b|39b]], etc.). ^12-32
+**[[NRSVue Matthew 12#^12-32|32]]:** See [[JANT Matthew 08#^8-20|8.20n.]]; [[JANT Matthew 10#^10-23|10.23n.]] *Age to come*, Heb “Olam ha-ba’,” the messianic age (see *m. Sanh*. 10.1; *b. Sanh*. [[Sanhedrin 90#90a|90a]]; *b. Shabb*. [[Shabbat 127#127a|127a]]; *b. Men*. [[Menachot 44#44a|44a]]; *b. Pesah*. [[Pesachim 50#50a|50a]]; *b. Qidd*. [[Kiddushin 39#39b|39b]], etc.). ^12-32
 
-**[[NRSVue Matthew 12#^12-34|34]]:** *Brood of vipers,* see 3.7n., 23.33. ^12-34
+**[[NRSVue Matthew 12#^12-34|34]]:** *Brood of vipers,* see [[JANT Matthew 03#^3-7|3.7n.]], [[Matthew 03#^3-2|2]]3.33. ^12-34
 
-**[[NRSVue Matthew 12#^12-36|36]]:** *Day of judgment*, see 7.22n. ^12-36
+**[[NRSVue Matthew 12#^12-36|36]]:** *Day of judgment*, see [[JANT Matthew 07#^7-22|7.22n.]] ^12-36
 
 **[[NRSVue Matthew 12#^12-37|37]]:** *Justified*, put in a right relationship with God. ^12-37
 
@@ -86,14 +86,14 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 12#^12-43|Text]], p. 35* · ([[Luke 11#^11-24|Lk 11.24–26]]). The description accounts for failed exorcisms or relapses. ^12-43
 
-**[[NRSVue Matthew 12#^12-45|45]]:** *Evil generation*, see 12.39n. ^12-45
+**[[NRSVue Matthew 12#^12-45|45]]:** *Evil generation*, see [[JANT Matthew 12#^12-39|12.39n.]] ^12-45
 
 ### 12.46–50: Jesus’ true family
 
 *[[NRSVue Matthew 12#^12-46|Text]], p. 35* · ([[Mark 03#^3-31|Mk 3.31–35]]; [[Luke 08#^8-19|Lk 8.19–21]]). See 13.55; Jude 1.1. The true family includes only those who have faith. ^12-46
 
-**[[NRSVue Matthew 12#^12-46|46]]:** *Mother and his brothers,* see 1.25n. ^12-46-2
+**[[NRSVue Matthew 12#^12-46|46]]:** *Mother and his brothers,* see [[JANT Matthew 01#^1-25|1.25n.]] ^12-46-2
 
-**[[NRSVue Matthew 12#^12-50|50]]:** *Will of my Father*, 6.10n. Jewish sources cite a similar belief as it relates to faith in God ([[Torah 54 - V'Zot HaBerachah#^33-9|Deut 33.9]]; 1QS 1–9; *y. Qidd*. 1.7 states that when Israel obeys God, they are his children; if not, then they are no longer his children). ^12-50
+**[[NRSVue Matthew 12#^12-50|50]]:** *Will of my Father*, [[JANT Matthew 06#^6-10|6.10n.]] Jewish sources cite a similar belief as it relates to faith in God ([[Torah 54 - V'Zot HaBerachah#^33-9|Deut 33.9]]; 1QS 1–9; *y. Qidd*. 1.7 states that when Israel obeys God, they are his children; if not, then they are no longer his children). ^12-50
 
 [[JANT Matthew 11|← Matthew 11]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 13|Matthew 13 →]]

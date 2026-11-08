@@ -26,7 +26,7 @@ Text: [[NRSVue John 21|NRSVue]] · [[John 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 21#^21-11|11]]:** *A hundred fifty-three*, Jerome states that Greek zoologists recorded 153 types of fish, so the number symbolizes the universality of the Gospel’s message and mission; Augustine notes that 153 is the sum of all numbers from 1–17. ^21-11
 
-**[[NRSVue John 21#^21-15|15–17]]:** Jesus commissions Peter (see 10.1–5). The triple question undoes the triple denial (18.17,25–27). These verses include two verbs for “to love,” “to know,” and “to feed or tend.” It is not clear that this variation has significance in terms of meaning. ^21-15
+**[[NRSVue John 21#^21-15|15–17]]:** Jesus commissions Peter (see [[John 10#^10-1|10.1–5]]). The triple question undoes the triple denial (18.17,25–27). These verses include two verbs for “to love,” “to know,” and “to feed or tend.” It is not clear that this variation has significance in terms of meaning. ^21-15
 
 **[[NRSVue John 21#^21-15|15]]:** *These*, referent is uncertain. ^21-15-2
 

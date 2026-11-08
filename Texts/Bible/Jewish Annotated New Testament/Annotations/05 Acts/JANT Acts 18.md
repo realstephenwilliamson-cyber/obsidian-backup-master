@@ -26,7 +26,7 @@ Text: [[NRSVue Acts 18|NRSVue]] · [[Acts 18|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 18#^18-5|5]]:** *Silas and Timothy*, see 17.10–15. *The Messiah was Jesus*, the claim provokes a harsh response from Jews (9.22; 17.3–5; 18.28). ^18-5
 
-**[[NRSVue Acts 18#^18-6|6]]:** *Shook the dust*, symbolizing separation; see 13.51; [[Luke 09#^9-5|Lk 9.5]]. *Your blood*, see [[II Samuel 01#^1-16|2 Sam 1.16]]; [[Matthew 27#^27-25|Mt 27.25]]. Jews are seen as responsible for failing to acknowledge Jesus as the Messiah. *Innocent*, Paul is not responsible for their failure to believe. *Go to the Gentiles*, see 13.46; 28.28. ^18-6
+**[[NRSVue Acts 18#^18-6|6]]:** *Shook the dust*, symbolizing separation; see 13.51; [[Luke 09#^9-5|Lk 9.5]]. *Your blood*, see [[II Samuel 01#^1-16|2 Sam 1.16]]; [[Matthew 27#^27-25|Mt 27.25]]. Jews are seen as responsible for failing to acknowledge Jesus as the Messiah. *Innocent*, Paul is not responsible for their failure to believe. *Go to the Gentiles*, see [[Acts 13#^13-46|13.46]]; 28.28. ^18-6
 
 **[[NRSVue Acts 18#^18-7|7]]:** *Titius Justus*, Acts highlights Gentile adherents to Judaism, e.g., the Ethiopian official (8.26–28), Cornelius (10.1), Lydia (16.14); see also the Gospel’s Roman centurion ([[Luke 07#^7-1|Lk 7.1–5]]). ^18-7
 
@@ -115,7 +115,7 @@ Text: [[NRSVue Acts 18|NRSVue]] · [[Acts 18|BSB and SBLGNT]] · Introduction: [
 >
 > Jerusalem
 
-**[[NRSVue Acts 18#^18-12|12]]:** *Gallio*, L. Junius Gallio Annaeanus was proconsul (chief Roman magistrate) in Achaia around 51–52. See 13.7n. *Jews*, singled out as Paul’s opponents (13.45; 17.5,13; 20.3,19). ^18-12
+**[[NRSVue Acts 18#^18-12|12]]:** *Gallio*, L. Junius Gallio Annaeanus was proconsul (chief Roman magistrate) in Achaia around 51–52. See [[JANT Acts 13#^13-7|13.7n.]] *Jews*, singled out as Paul’s opponents (13.45; 17.5,13; 20.3,19). ^18-12
 
 **[[NRSVue Acts 18#^18-13|13]]:** *The law*, either Jewish (as Gallio understands the accusation, v 15; cf. 21.21) or Roman (16.21; 17.7). ^18-13
 
@@ -143,9 +143,9 @@ Text: [[NRSVue Acts 18|NRSVue]] · [[Acts 18|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 18#^18-24|24]]:** *Apollos*, important figure in the Corinthian church (19.1; [[1 Corinthians 01#^1-12|1 Cor 1.12]]; [[1 Corinthians 03#^3-4|3.4–6]],[[1 Corinthians 03#^3-22|22]]; [[1 Corinthians 04#^4-6|4.6]]; [[1 Corinthians 16#^16-12|16.12]]). Alexandria was a noted center of learning with a large Jewish community. ^18-24
 
-**[[NRSVue Acts 18#^18-25|25]]:** *Way*, see 9.2n. *Baptism of John*, see 13.24. Possibly a ritual performed by followers of John the Baptist, here presented as a rival messianic sect. ^18-25
+**[[NRSVue Acts 18#^18-25|25]]:** *Way*, see [[JANT Acts 09#^9-2|9.2n.]] *Baptism of John*, see 13.24. Possibly a ritual performed by followers of John the Baptist, here presented as a rival messianic sect. ^18-25
 
-**[[NRSVue Acts 18#^18-26|26]]:** *Speak boldly*, see 4.13n. *Baptism of John*, see 13.24–25. *Priscilla and Aquila*, see v 2n. ^18-26
+**[[NRSVue Acts 18#^18-26|26]]:** *Speak boldly*, see [[JANT Acts 04#^4-13-2|4.13n.]] *Baptism of John*, see 13.24–25. *Priscilla and Aquila*, see [[JANT Acts 18#^18-2|v 2n.]] ^18-26
 
 **[[NRSVue Acts 18#^18-28|28]]:** *Refuted the Jews*, Jews appear as the primary opponents of Jesus and those who preaching him. *The Messiah is Jesus*, see 9.22. ^18-28
 

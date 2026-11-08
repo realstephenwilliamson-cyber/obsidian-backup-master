@@ -22,13 +22,13 @@ Text: [[NRSVue John 11|NRSVue]] · [[John 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 11#^11-3|3]]:** *Lord*, as elsewhere depending on context could be translated “Sir.” ^11-3
 
-**[[NRSVue John 11#^11-4|4]]:** *For God’s glory*, see 9.3; Lazarus’s illness allows Jesus to demonstrate his filial relationship to God. ^11-4
+**[[NRSVue John 11#^11-4|4]]:** *For God’s glory*, see [[John 09#^9-3|9.3]]; Lazarus’s illness allows Jesus to demonstrate his filial relationship to God. ^11-4
 
 **[[NRSVue John 11#^11-5|5]]:** *Loved Martha . . . Lazarus*, Jesus’ love for the Bethany siblings is mentioned to make his delay in going to them all the more remarkable. ^11-5
 
 **[[NRSVue John 11#^11-6|6]]:** *Two days longer*, deliberately ignoring the sisters’ hope that he will heal their brother, Jesus insures that Lazarus is dead and buried. ^11-6
 
-**[[NRSVue John 11#^11-9|9]]:** *Walk during the day*, that is, while the light (Jesus) is with them; see 8.12; 12.35. ^11-9
+**[[NRSVue John 11#^11-9|9]]:** *Walk during the day*, that is, while the light (Jesus) is with them; see [[John 08#^8-12|8.12]]; 12.35. ^11-9
 
 **[[NRSVue John 11#^11-11|11]]:** *Asleep . . . awaken*, metaphors for death and resurrection (see [[Daniel 12#^12-2|Dan 12.2]]). ^11-11
 
@@ -40,7 +40,7 @@ Text: [[NRSVue John 11|NRSVue]] · [[John 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 11#^11-24|24]]:** *Resurrection on the last day*, Pharisaic and later general Jewish belief (Josephus, *Ant*. 18.1.4; see [[Daniel 12#^12-1|Dan 12.1–3]]; [[LXX 2 Maccabees 07#^7-9|2 Macc 7.9]]). See “Afterlife and Resurrection,” p. 691. ^11-24
 
-**[[NRSVue John 11#^11-25|25]]:** *Resurrection and the life*, God’s gift of new existence (see 20.30–31). *Believe . . . will live* . . . *never die*, the meaning here may pertain to the distinction between physical and spiritual life or death: those who die physically will live spiritually. ^11-25
+**[[NRSVue John 11#^11-25|25]]:** *Resurrection and the life*, God’s gift of new existence (see [[John 20#^20-30|20.30–31]]). *Believe . . . will live* . . . *never die*, the meaning here may pertain to the distinction between physical and spiritual life or death: those who die physically will live spiritually. ^11-25
 
 **[[NRSVue John 11#^11-27|27]]:** *You are the Messiah*, similar to Peter’s confession in [[Mark 08#^8-29|Mk 8.29]] and [[Matthew 16#^16-16|Mt 16.16]]. Peter’s confession in [[John 06#^6-69|Jn 6.69]], however, does not use the term Messiah: “We have come to believe and know that you are the Holy One of God.” ^11-27
 
@@ -52,11 +52,11 @@ Text: [[NRSVue John 11|NRSVue]] · [[John 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 11#^11-39|39]]:** *Stench*, emphasize that Lazarus is truly dead, and therefore stresses the marvel of his return to life. ^11-39
 
-**[[NRSVue John 11#^11-40|40]]:** *Glory*, see 11.4n. ^11-40
+**[[NRSVue John 11#^11-40|40]]:** *Glory*, see [[JANT John 11#^11-4|11.4n.]] ^11-40
 
 **[[NRSVue John 11#^11-41|41]]:** *Looked upward*, Jesus appears to pray to show that Lazarus’s resurrection manifests God’s power, not his own. ^11-41
 
-**[[NRSVue John 11#^11-43|43]]:** *Lazarus*, Jesus calls him by name (see 5.25; 10.4). ^11-43
+**[[NRSVue John 11#^11-43|43]]:** *Lazarus*, Jesus calls him by name (see [[John 05#^5-25|5.25]]; [[John 10#^10-4|10.4]]). ^11-43
 
 **[[NRSVue John 11#^11-44|44]]:** *Cloth*, in the first century, Jews were buried in linen shrouds; corpses were laid in a sealed tomb so that the flesh would decompose. After 11 months, the tomb would be unsealed, and the bones would be placed in an ossuary (bone box) and stored on a shelf in the tomb. ^11-44
 
@@ -64,7 +64,7 @@ Text: [[NRSVue John 11|NRSVue]] · [[John 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 11#^11-48|48]]:** *Romans will come*, the leaders fear that Rome will see Jesus’ activities as tantamount to claiming kingship. *Holy place*, Jerusalem Temple. ^11-48
 
-**[[NRSVue John 11#^11-49|49]]:** *High priest that year*, see 11.51; 18.13. Another possible example of John’s lack of precise knowledge of pre-70 Jewish society; although some high priests had relatively short tenure, Caiaphas was high priest for approximately 18 years, between 18–36 CE. (Josephus, *Ant*. 18.90–95). ^11-49
+**[[NRSVue John 11#^11-49|49]]:** *High priest that year*, see [[John 11#^11-51|11.51]]; 18.13. Another possible example of John’s lack of precise knowledge of pre-70 Jewish society; although some high priests had relatively short tenure, Caiaphas was high priest for approximately 18 years, between 18–36 CE. (Josephus, *Ant*. 18.90–95). ^11-49
 
 **[[NRSVue John 11#^11-50|50]]:** *Nation*, the Jewish people, especially those resident in Judea. [[LXX 2 Maccabees 05#^5-19|2 Macc 5.19]] also mentions place and nation together, suggesting that the combination was not invented by the author of John. ^11-50
 

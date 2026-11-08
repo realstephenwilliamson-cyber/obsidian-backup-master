@@ -34,7 +34,7 @@ Text: [[NRSVue Acts 03|NRSVue]] · [[Acts 03|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 03#^3-14|14]]:** *Righteous One*, attribute of Isaiah’s servant ([[Isaiah 53#^53-11|Isa 53.11]]), and possibly a messianic title (*1 En.* 38.2; 53.6). *Murderer*, Barabbas ([[Luke 23#^23-18|Lk 23.18–19]]). ^3-14
 
-**[[NRSVue Acts 03#^3-15|15]]:** *Author*, Gk “archēgos,” often designating leaders of the people ([[Torah 14 - Vaera#^6-14|Ex 6.14]]; [[Torah 36 - Beha'alotcha#^10-4|Num 10.4]]; [[Torah 54 - V'Zot HaBerachah#^33-21|Deut 33.21]]), can also mean “founder” or “source” as here and elsewhere (5.31; see also [[Hebrews 02#^2-10|Heb 2.10]]; [[Hebrews 12#^12-2|12.2]]). *Witnesses*, see 1.8n. ^3-15
+**[[NRSVue Acts 03#^3-15|15]]:** *Author*, Gk “archēgos,” often designating leaders of the people ([[Torah 14 - Vaera#^6-14|Ex 6.14]]; [[Torah 36 - Beha'alotcha#^10-4|Num 10.4]]; [[Torah 54 - V'Zot HaBerachah#^33-21|Deut 33.21]]), can also mean “founder” or “source” as here and elsewhere (5.31; see also [[Hebrews 02#^2-10|Heb 2.10]]; [[Hebrews 12#^12-2|12.2]]). *Witnesses*, see [[JANT Acts 01#^1-8|1.8n.]] ^3-15
 
 **[[NRSVue Acts 03#^3-16|16]]:** *Faith in his name*, trust in his true being (“name” as communicating a person’s true nature). ^3-16
 
@@ -55,7 +55,7 @@ Text: [[NRSVue Acts 03|NRSVue]] · [[Acts 03|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 03#^3-22|22–23]]:** *Prophet like me*, see [[Torah 48 - Shoftim#^18-15|Deut 18.15]],[[Torah 48 - Shoftim#^18-18|18–19]]. By Luke’s time some Jews had come to interpret the “prophet-like-Moses” as a messianic figure (4Q175, and possibly 1QS 9.11). ^3-22
 
-**[[NRSVue Acts 03#^3-23|23]]:** *Rooted out of the people*, [[Torah 48 - Shoftim#^18-19|Deut 18.19]] states that any who reject the prophet-like-Moses will receive an unspecified judgment from God. The punishment indicated here has its closest parallel in [[Torah 31 - Emor#^23-29|Lev 23.29]], but it is mentioned frequently as a response to transgressions (e.g., [[Torah 25 - Tzav#^7-20|Lev 7.20]]; [[Torah 29 - Achrei Mot#^18-29|18.29]]; [[Torah 30 - Kedoshim#^20-3|20.3]],[[Torah 30 - Kedoshim#^20-18|18]]; [[Torah 31 - Emor#^23-29|23.29]]). Luke thus suggests that rejecting Jesus as Messiah results in exclusion from the people of God (see 4.12). ^3-23
+**[[NRSVue Acts 03#^3-23|23]]:** *Rooted out of the people*, [[Torah 48 - Shoftim#^18-19|Deut 18.19]] states that any who reject the prophet-like-Moses will receive an unspecified judgment from God. The punishment indicated here has its closest parallel in [[Torah 31 - Emor#^23-29|Lev 23.29]], but it is mentioned frequently as a response to transgressions (e.g., [[Torah 25 - Tzav#^7-20|Lev 7.20]]; [[Torah 29 - Achrei Mot#^18-29|18.29]]; [[Torah 30 - Kedoshim#^20-3|20.3]],[[Torah 30 - Kedoshim#^20-18|18]]; [[Torah 31 - Emor#^23-29|23.29]]). Luke thus suggests that rejecting Jesus as Messiah results in exclusion from the people of God (see [[Acts 04#^4-12|4.12]]). ^3-23
 
 **[[NRSVue Acts 03#^3-24|24]]:** *Samuel*, recognized by some rabbis as the greatest of prophets (*y. Hag.* 2.27,77a). Samuel anointed David and thus inaugurated the Davidic line that stretches to Jesus (1 Sam 16.31). ^3-24
 

@@ -16,7 +16,7 @@ Text: [[NRSVue John 12|NRSVue]] · [[John 12|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue John 12#^12-1|Text]], p. 202* · ([[Matthew 26#^26-6|Mt 26.6–13]]; [[Mark 14#^14-3|Mk 14.3–11]]; see also [[Luke 07#^7-36|Lk 7.36–38]]). ^12-1
 
-**[[NRSVue John 12#^12-1|1]]:** *Bethany*, see 11.1n. ^12-1-2
+**[[NRSVue John 12#^12-1|1]]:** *Bethany*, see [[JANT John 11#^11-1-2|11.1n.]] ^12-1-2
 
 **[[NRSVue John 12#^12-2|2]]:** In [[Luke 10#^10-38|Lk 10.38–42]], Martha serves and Mary sits at Jesus’ feet. ^12-2
 
@@ -32,7 +32,7 @@ Text: [[NRSVue John 12|NRSVue]] · [[John 12|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue John 12#^12-12|Text]], p. 203* · ([[Matthew 21#^21-1|Mt 21.1–9]]; [[Mark 11#^11-1|Mk 11.1–10]]; [[Luke 19#^19-28|Lk 19.28–38]]). ^12-12
 
-**[[NRSVue John 12#^12-13|13]]:** *Branches of palm trees*, palm fronds are most often associated with the Feast of Tabernacles, when palms were used to build temporary dwellings and in processions ([[Torah 31 - Emor#^23-40|Lev 23.40]]; [[Nehemiah 08#^8-15|Neh 8.15]]), but there is no way to know whether this detail was transposed from Tabernacles to Passover. [[Matthew 21#^21-8|Mt 21.8]] and [[Mark 11#^11-8|Mk 11.8]] refer to branches but do not specify which kind. *Hosanna . . . Lord*, [[Psalms 118#^118-25|Ps 118.25–26]]; *Hosanna*, Heb “please save” or “save now,” most directly associated with the Feast of Tabernacles (7.37–39n.). *King of Israel*, absent from the psalm. ^12-13
+**[[NRSVue John 12#^12-13|13]]:** *Branches of palm trees*, palm fronds are most often associated with the Feast of Tabernacles, when palms were used to build temporary dwellings and in processions ([[Torah 31 - Emor#^23-40|Lev 23.40]]; [[Nehemiah 08#^8-15|Neh 8.15]]), but there is no way to know whether this detail was transposed from Tabernacles to Passover. [[Matthew 21#^21-8|Mt 21.8]] and [[Mark 11#^11-8|Mk 11.8]] refer to branches but do not specify which kind. *Hosanna . . . Lord*, [[Psalms 118#^118-25|Ps 118.25–26]]; *Hosanna*, Heb “please save” or “save now,” most directly associated with the Feast of Tabernacles ([[JANT John 07#^7-37|7.37–39n.]]). *King of Israel*, absent from the psalm. ^12-13
 
 **[[NRSVue John 12#^12-14|14]]:** *It is written*, combining and paraphrasing [[Zephaniah 3#^3-16|Zeph 3.16]] and [[Zechariah 09#^9-9|Zech 9.9]]. ^12-14
 
@@ -44,13 +44,13 @@ Text: [[NRSVue John 12|NRSVue]] · [[John 12|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue John 12#^12-20|Text]], p. 203* ^12-20
 
-**[[NRSVue John 12#^12-20|20]]:** *Greeks*, likely Gentiles rather than Greek-speaking Jews (see 7.34-35 and note there). Anticipation of the broadening out of the group of believers that may point to a Gentile component of the Gospel’s intended audience. See Introduction. ^12-20-2
+**[[NRSVue John 12#^12-20|20]]:** *Greeks*, likely Gentiles rather than Greek-speaking Jews (see [[John 07#^7-34|7.34-35]] and note there). Anticipation of the broadening out of the group of believers that may point to a Gentile component of the Gospel’s intended audience. See Introduction. ^12-20-2
 
 **[[NRSVue John 12#^12-23|23]]:** *Hour has come*, perhaps foreshadowing the Gentile (to the “Greeks”) mission. ^12-23
 
 **[[NRSVue John 12#^12-24|24]]:** Jesus apparently refuses to meet with the Greeks. *Grain*, see [[1 Corinthians 15#^15-36|1 Cor 15.36]]. ^12-24
 
-**[[NRSVue John 12#^12-28|28]]:** *Voice . . . from heaven*, a rare form of direct revelation, called a “bat qol,” wages for a laborer c Gk lacks *She bought it* d Other ancient authorities read *with him began to testify that he had called . . . from the dead* “daughter of the voice,” or “echo” in rabbinic Judaism (cf. 11.41–43). See, e.g., *b. Eruv.* [[Eruvin 13#13b|13b]]. ^12-28
+**[[NRSVue John 12#^12-28|28]]:** *Voice . . . from heaven*, a rare form of direct revelation, called a “bat qol,” wages for a laborer c Gk lacks *She bought it* d Other ancient authorities read *with him began to testify that he had called . . . from the dead* “daughter of the voice,” or “echo” in rabbinic Judaism (cf. [[John 11#^11-41|11.41–43]]). See, e.g., *b. Eruv.* [[Eruvin 13#13b|13b]]. ^12-28
 
 **[[NRSVue John 12#^12-29|29]]:** *Thunder*, see the Israelites’ response at Mt. Sinai ([[Torah 17 - Yitro#^19-18|Ex 19.18–19]]). Heb “qol,” at Sinai (esp. [[Torah 17 - Yitro#^19-19|Ex 19.19]]), may be voice or thunder. ^12-29
 

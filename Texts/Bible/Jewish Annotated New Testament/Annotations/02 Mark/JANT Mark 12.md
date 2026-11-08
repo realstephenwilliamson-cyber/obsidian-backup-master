@@ -26,13 +26,13 @@ Text: [[NRSVue Mark 12|NRSVue]] · [[Mark 12|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Mark 12#^12-18|Text]], p. 95* · ([[Matthew 22#^22-23|Mt 22.23–33]]; [[Luke 20#^20-27|Lk 20.27–40]]). In early Israel, life was believed to continue after death in the form of children and lineage (e.g., [[Psalms 025#^25-13|Ps 25.13]]). “Sheol,” a place of shadowy existence ([[Psalms 006#^6-6|Ps 6.5]]), is a realm of death similar to the Greek Hades; in 1 Sam 28, Saul uses a medium, a “woman of spirits,” to raise Samuel from the realm of the dead (“the ground”) to prophesy for him (Sheol is not mentioned in this passage, but the shadowy existence is clear). Some notion of the resurrection of the dead appears first in the “Isaiah Apocalypse” ([[Isaiah 26#^26-19|Isa 26.19]]) and in [[Daniel 12#^12-2|Dan 12.2–3]] (cf. Wis 2–5; 2 Macc 7; 4 Macc; 1 Cor 15). ^12-18
 
-**[[NRSVue Mark 12#^12-18|18]]:** The *Sadducees*, an aristocratic party who observed the written laws of the Torah but not the Pharisees’ traditions of the elders (see 7.3–4n.). They also differed in denying resurrection; the Pharisees, like Jesus’ followers, believed in resurrection ([[Acts 23#^23-6|Acts 23.6–10]]), and rabbinic tradition followed Pharisaic belief (*b. Sanh.* [[Sanhedrin 90#90b|90b]]–92b). ^12-18-2
+**[[NRSVue Mark 12#^12-18|18]]:** The *Sadducees*, an aristocratic party who observed the written laws of the Torah but not the Pharisees’ traditions of the elders (see [[JANT Mark 07#^7-3|7.3–4n.]]). They also differed in denying resurrection; the Pharisees, like Jesus’ followers, believed in resurrection ([[Acts 23#^23-6|Acts 23.6–10]]), and rabbinic tradition followed Pharisaic belief (*b. Sanh.* [[Sanhedrin 90#90b|90b]]–92b). ^12-18-2
 
 **[[NRSVue Mark 12#^12-19|19–23]]:** The absurdity of the test case is meant to disprove the idea of resurrection. ^12-19
 
 **[[NRSVue Mark 12#^12-25|25]]:** *Like angels*, describes beliefs similar to those found in contemporary Jewish apocalyptic texts (*2 Bar.* 51.5). ^12-25
 
-**[[NRSVue Mark 12#^12-26|26–27]]:** *Story about the bush*, see [[Torah 13 - Shemot#^3-1|Ex 3.1–6]]. The argument surprisingly does not hinge on predictions of Jesus’ resurrection, but rather on evidence from Scripture about the living presence of Abraham, Isaac, and Jacob (see 10.40n.; cf. [[Matthew 08#^8-11|Mt 8.11]]; [[Luke 13#^13-28|Lk 13.28]]). ^12-26
+**[[NRSVue Mark 12#^12-26|26–27]]:** *Story about the bush*, see [[Torah 13 - Shemot#^3-1|Ex 3.1–6]]. The argument surprisingly does not hinge on predictions of Jesus’ resurrection, but rather on evidence from Scripture about the living presence of Abraham, Isaac, and Jacob (see [[JANT Mark 10#^10-40|10.40n.]]; cf. [[Matthew 08#^8-11|Mt 8.11]]; [[Luke 13#^13-28|Lk 13.28]]). ^12-26
 
 ### 12.28–34: The greatest commandment
 
@@ -48,7 +48,7 @@ Text: [[NRSVue Mark 12|NRSVue]] · [[Mark 12|BSB and SBLGNT]] · Introduction: [
 
 ### 12.35–37: The messiah and David’s son?
 
-*[[NRSVue Mark 12#^12-35|Text]], p. 96* · ([[Matthew 22#^22-41|Mt 22.41–46]]; [[Luke 20#^20-41|Lk 20.41–44]]). Interjected here is a short scriptural argument to the effect that the messiah is not just the Son of David (i.e., a king of the Davidic line) but something greater (see 10.47n.). Elsewhere Mark affirms Jesus’ connection with David (2.25–26; 10.47). ^12-35
+*[[NRSVue Mark 12#^12-35|Text]], p. 96* · ([[Matthew 22#^22-41|Mt 22.41–46]]; [[Luke 20#^20-41|Lk 20.41–44]]). Interjected here is a short scriptural argument to the effect that the messiah is not just the Son of David (i.e., a king of the Davidic line) but something greater (see [[JANT Mark 10#^10-47|10.47n.]]). Elsewhere Mark affirms Jesus’ connection with David (2.25–26; 10.47). ^12-35
 
 **[[NRSVue Mark 12#^12-36|36]]:** Ps 110 opens “Of David. A Psalm: The LORD says to my lord \[the messiah, not David\] . . . .” The argument assumes that David, the purported speaker of [[Psalms 110#^110-1|Ps 110.1]], called the messiah “my Lord,” indicating that the messiah was David’s superior. ^12-36
 

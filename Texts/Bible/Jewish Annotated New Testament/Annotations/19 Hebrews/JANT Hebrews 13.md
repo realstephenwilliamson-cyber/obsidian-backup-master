@@ -34,13 +34,13 @@ Text: [[NRSVue Hebrews 13|NRSVue]] · [[Hebrews 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 13#^13-11|11]]:** The Yom Kippur and red heifer sacrifices were *burned outside the camp*; see [[Torah 29 - Achrei Mot#^16-27|Lev 16.27]]; [[Torah 39 - Chukat#^19-2|Num 19.2–3]]. ^13-11
 
-**[[NRSVue Hebrews 13#^13-12|12]]:** *Outside the city gate*, see [[John 19#^19-17|Jn 19.17–20]]. The analogy between animal sacrifice and Jesus as human sacrifice is explicit. Hebrews does not mention either Pilate or the Sanhedrin as responsible for Jesus’ crucifixion. *Sanctify the people*, see 9.13–14; 10.10,14,29. ^13-12
+**[[NRSVue Hebrews 13#^13-12|12]]:** *Outside the city gate*, see [[John 19#^19-17|Jn 19.17–20]]. The analogy between animal sacrifice and Jesus as human sacrifice is explicit. Hebrews does not mention either Pilate or the Sanhedrin as responsible for Jesus’ crucifixion. *Sanctify the people*, see [[Hebrews 09#^9-13|9.13–14]]; [[Hebrews 10#^10-10|10.10]],[[Hebrews 10#^10-14|14]],[[Hebrews 10#^10-29|29]]. ^13-12
 
 **[[NRSVue Hebrews 13#^13-13|13]]:** *Bear the abuse he endured*, share in his sufferings by our own witness (including the possibility of death). ^13-13
 
-**[[NRSVue Hebrews 13#^13-14|14]]:** *No lasting city*, see 11.13–16; 12.22–29. *City that is to come*, the heavenly Jerusalem; see 11.10,16; 12.22. ^13-14
+**[[NRSVue Hebrews 13#^13-14|14]]:** *No lasting city*, see [[Hebrews 11#^11-13|11.13–16]]; 12.22–29. *City that is to come*, the heavenly Jerusalem; see [[Hebrews 11#^11-10|11.10]],[[Hebrews 11#^11-16|16]]; 12.22. ^13-14
 
-**[[NRSVue Hebrews 13#^13-15|15–16]]:** Prayer, hymns, and good works are described as forms of sacrifice in [[Psalms 027#^27-6|Ps 27.6]]; [[Psalms 050#^50-14|50.14]],[[Psalms 050#^50-23|23]]; [[Psalms 107#^107-22|107.22]]; Tob 4.11; [[LXX Sirach 03#^3-3|Sir 3.3]],[[LXX Sirach 03#^3-20|20]]; Philo, *Spec. Laws* 1.253,271–72; *Avot de R. Natan* 4. In some rabbinic writings, the daily prayers replace the daily sacrifices; see 5.3n.; 9.22n. ^13-15
+**[[NRSVue Hebrews 13#^13-15|15–16]]:** Prayer, hymns, and good works are described as forms of sacrifice in [[Psalms 027#^27-6|Ps 27.6]]; [[Psalms 050#^50-14|50.14]],[[Psalms 050#^50-23|23]]; [[Psalms 107#^107-22|107.22]]; Tob 4.11; [[LXX Sirach 03#^3-3|Sir 3.3]],[[LXX Sirach 03#^3-20|20]]; Philo, *Spec. Laws* 1.253,271–72; *Avot de R. Natan* 4. In some rabbinic writings, the daily prayers replace the daily sacrifices; see [[JANT Hebrews 05#^5-3|5.3n.]]; [[JANT Hebrews 09#^9-22|9.22n.]] ^13-15
 
 **[[NRSVue Hebrews 13#^13-17|17]]:** *Obey your leaders*, see 13.7. ^13-17
 
@@ -56,6 +56,6 @@ Text: [[NRSVue Hebrews 13|NRSVue]] · [[Hebrews 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 13#^13-23|23]]:** *Timothy*, Paul’s companion, see [[1 Corinthians 04#^4-17|1 Cor 4.17]]; [[2 Corinthians 01#^1-1|2 Cor 1.1]]; [[Philippians 01#^1-1|Phil 1.1]]; [[1 Thessalonians 01#^1-1|1 Thess 1.1]]; also the recipient of two disputed Pauline letters, 1 and 2 Timothy. [[Acts 16#^16-1|Acts 16.1–3]] reports that his mother was Jewish*.* He is the only person mentioned by name in Hebrews (besides Jesus or figures from the Tanakh). *Set free*, presumably from prison (see e.g., [[Philippians 02#^2-19|Phil 2.19–24]], although no NT text details Timothy’s imprisonment). ^13-23
 
-**[[NRSVue Hebrews 13#^13-24|24]]:** *Saints*, see 3.1; 6.10. *Those from Italy*, most likely Italians living abroad. Paul’s Letter to the Romans points to a sizable community of Jesus-followers in Rome by the mid-first century. This verse can suggest that the Romans were the original addressees; see Introduction. ^13-24
+**[[NRSVue Hebrews 13#^13-24|24]]:** *Saints*, see [[Hebrews 03#^3-1|3.1]]; 6.10. *Those from Italy*, most likely Italians living abroad. Paul’s Letter to the Romans points to a sizable community of Jesus-followers in Rome by the mid-first century. This verse can suggest that the Romans were the original addressees; see Introduction. ^13-24
 
 [[JANT Hebrews 12|← Hebrews 12]] · [[Jewish Annotated New Testament|JANT index]] · —

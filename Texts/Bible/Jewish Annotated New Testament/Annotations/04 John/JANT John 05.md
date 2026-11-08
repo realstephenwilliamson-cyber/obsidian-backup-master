@@ -26,7 +26,7 @@ Text: [[NRSVue John 05|NRSVue]] · [[John 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 05#^5-9|9–10]]:** *Sabbath* . . . *not lawful*, the healing story becomes a Sabbath conflict: carrying any object outside one’s household was prohibited ([[Jeremiah 17#^17-21|Jer 17.21–22]]). Sabbath carrying laws were elaborated upon in great detail in the Mishnah (*Eruv.*) and the Babylonian Talmud (*Eruv. Shabb.* ) but it is not known to what degree the laws in these tractates reflect first-century Jewish law or practice. Rabbinic law, which postdates the Gospel of John, permits, even mandates, healing of a life-threatening condition on the Sabbath, but the healing of a chronic illness was not, since that treatment could easily take place before or after the Sabbath (see *b. Yoma* [[Yoma 84#84b|84b]]). ^5-9
 
-**[[NRSVue John 05#^5-14|14]]:** *Do not sin*, Jesus implies that illness is punishment for sin; see 9.2–3 (see also [[Torah 36 - Beha'alotcha#^12-9|Num 12.9–10]]). ^5-14
+**[[NRSVue John 05#^5-14|14]]:** *Do not sin*, Jesus implies that illness is punishment for sin; see [[John 09#^9-2|9.2–3]] (see also [[Torah 36 - Beha'alotcha#^12-9|Num 12.9–10]]). ^5-14
 
 **[[NRSVue John 05#^5-16|16]]:** *Persecuting*, no specific persecution is mentioned ([[Matthew 05#^5-10|Mt 5.10]]; [[Acts 09#^9-4|Acts 9.4]]). ^5-16
 
@@ -36,13 +36,13 @@ Text: [[NRSVue John 05|NRSVue]] · [[John 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 05#^5-19|19]]:** *The Son does likewise*, Jesus’ actions are like what *the Father* does, not in the sense of slavish imitation, but rather within a specific context according to divine will. ^5-19
 
-**[[NRSVue John 05#^5-21|21]]:** *Gives life*, the use of the present tense to express what otherwise reads like an anticipatory statement regarding the resurrection of Christians brings to the fore the tension in the Gospel of John with regard to a present salvation (realized eschatology; see 5.24n.) or future salvation (future eschatology). The Gospel does not explicitly resolve this tension but creates the impression that the believer experiences both. ^5-21
+**[[NRSVue John 05#^5-21|21]]:** *Gives life*, the use of the present tense to express what otherwise reads like an anticipatory statement regarding the resurrection of Christians brings to the fore the tension in the Gospel of John with regard to a present salvation (realized eschatology; see [[JANT John 05#^5-24|5.24n.]]) or future salvation (future eschatology). The Gospel does not explicitly resolve this tension but creates the impression that the believer experiences both. ^5-21
 
 **[[NRSVue John 05#^5-22|22]]:** *Judges no one*, apocalyptic texts such as *1 En.* and *2 Bar.* express the belief in a final judgment after the messianic age, that is, after the coming of a personal Messiah; see *1 En.* 22; *2 Bar.* 7; this view is present in rabbinic literature as well, e.g., *m. Ed*. 2.10, which lists the length of time that specific groups are punished after judgment (see “Afterlife and Resurrection,” p. 691). ^5-22
 
 **[[NRSVue John 05#^5-24|24]]:** *Has eternal life*, God’s goals, expressed in Jesus’ ministry, are already accomplished (a position known as “realized eschatology,” meaning that the conditions of the “last days” \[Gk “eschata”\] are already present \[“realized”\]). ^5-24
 
-**[[NRSVue John 05#^5-25|25]]:** *Dead will hear*, Jesus’ voice reaches the dead, who will be called to final judgment (see 11.1–44; see also [[Daniel 12#^12-1|Dan 12.1–3]]; [[1 Thessalonians 04#^4-13|1 Thess 4.13–18]]). ^5-25
+**[[NRSVue John 05#^5-25|25]]:** *Dead will hear*, Jesus’ voice reaches the dead, who will be called to final judgment (see [[John 11#^11-1|11.1–44]]; see also [[Daniel 12#^12-1|Dan 12.1–3]]; [[1 Thessalonians 04#^4-13|1 Thess 4.13–18]]). ^5-25
 
 **[[NRSVue John 05#^5-29|29]]:** *Resurrection of life . . . of condemnation*, references to eternal life or eternal death. The language is similar to [[Daniel 12#^12-2|Dan 12.2]]. ^5-29
 
@@ -50,7 +50,7 @@ Text: [[NRSVue John 05|NRSVue]] · [[John 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 05#^5-39|39]]:** *In them you have eternal life*, the Gospel asserts that Jews seek salvation in the scriptures. [[Proverbs 03#^3-18|Prov 3.18]] refers to the Torah as “a tree of life to those who lay hold of her” and states that “those who hold her fast are called happy.” The meaning does not however appear to be eschatological; the idea that Jews search the scriptures for eternal life does not have support in sources contemporaneous with the Gospel of John. ^5-39
 
-**[[NRSVue John 05#^5-41|41]]:** *Glory from human beings*, Jesus is not seeking validation from other people, as he receives his glory from God. See 8.54; 11.4; 12.16,23; 13.31; 16.14; 17.1,4,10. ^5-41
+**[[NRSVue John 05#^5-41|41]]:** *Glory from human beings*, Jesus is not seeking validation from other people, as he receives his glory from God. See [[John 08#^8-54|8.54]]; [[John 11#^11-4|11.4]]; [[John 12#^12-16|12.16]],[[John 12#^12-23|23]]; [[John 13#^13-31|13.31]]; [[John 16#^16-14|16.14]]; [[John 17#^17-1|17.1]],[[John 17#^17-4|4]],[[John 17#^17-10|10]]. ^5-41
 
 **[[NRSVue John 05#^5-45|45]]:** *Accuser is Moses,* a references to the scriptures, which, the Gospel asserts here, testify to Jesus’ identity as Messiah and God’s son; those who do not interpret the scriptures in this way, insists the Gospel, stand accused of misunderstanding their own scriptures. ^5-45
 

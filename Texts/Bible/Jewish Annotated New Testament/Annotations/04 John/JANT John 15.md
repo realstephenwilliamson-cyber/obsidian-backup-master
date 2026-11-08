@@ -14,7 +14,7 @@ Text: [[NRSVue John 15|NRSVue]] · [[John 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 15#^15-1|15.1–6]]:** Often seen as a parable, similar to a Jewish “mashal,” though John, unlike the Synoptics, does not explicitly use the term “parable.” ^15-1
 
-**[[NRSVue John 15#^15-1|1]]:** *Vine*, common image for God’s people; see [[Isaiah 05#^5-1|Isa 5.1–10]]. This is an example of replacement theology, where John has Jesus take onto himself central Jewish institutions such as the Temple (see 2.13–22) and symbols (as here). ^15-1-2
+**[[NRSVue John 15#^15-1|1]]:** *Vine*, common image for God’s people; see [[Isaiah 05#^5-1|Isa 5.1–10]]. This is an example of replacement theology, where John has Jesus take onto himself central Jewish institutions such as the Temple (see [[John 02#^2-13|2.13–22]]) and symbols (as here). ^15-1-2
 
 **[[NRSVue John 15#^15-3|3]]:** *Cleansed*, or “pruned” (see translators’ note *b*), perhaps referring to the foot washing in ch 13. ^15-3
 

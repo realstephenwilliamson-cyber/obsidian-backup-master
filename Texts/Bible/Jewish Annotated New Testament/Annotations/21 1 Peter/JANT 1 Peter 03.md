@@ -35,7 +35,7 @@ Text: [[NRSVue 1 Peter 03|NRSVue]] · [[1 Peter 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 03#^3-10|10–12]]:** The author quotes [[Psalms 034#^34-13|Ps 34.12–16]] (see 2.22 where the same verses are interpreted in reference to Christ) to teach that proper behavior leads to eschatological promises. ^3-10
 
-**[[NRSVue 1 Peter 03#^3-13|13]]:** *Eager to do what is good*, *m. Avot* 1.3; 5.16, “Any love that is dependent on something, when that thing perishes, the love perishes. But \[a love\] that is not dependent on something, does not ever perish.” ^3-13
+**[[NRSVue 1 Peter 03#^3-13|13]]:** *Eager to do what is good*, *m. Avot* [[Pirkei Avot 01#^1-3|1.3]]; [[Pirkei Avot 05#^5-16|5.16]], “Any love that is dependent on something, when that thing perishes, the love perishes. But \[a love\] that is not dependent on something, does not ever perish.” ^3-13
 
 **[[NRSVue 1 Peter 03#^3-14|14]]:** *Suffer . . . blessed*, *b. Ber.* [[Berakhot 5#5a|5a]], “If he did attribute \[suffering\] to \[sin\] and still did not find \[anything amiss\], let him be sure that these are the chastenings of love.” ^3-14
 
@@ -51,7 +51,7 @@ Text: [[NRSVue 1 Peter 03|NRSVue]] · [[1 Peter 03|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 03#^3-20|20]]:** *Waited patiently*, according to postbiblical tradition, God waited for humanity to repent before bringing on the flood, see Philo, *QG* 11.13; Josephus, *Ant.* 1.3.74; *Gen. Rab.* 30.7. *Eight persons*, God saved only Noah’s family (Gen 6–8), similarly, non-believers will not survive. *Saved through water*, Noah’s family was physically saved from the water through God’s instruction to build an ark, and Christians are spiritually saved through the water of baptism. ^3-20
 
-**[[NRSVue 1 Peter 03#^3-21|21]]:** *Baptism*, [[Matthew 28#^28-19|Mt 28.19]]; [[Acts 02#^2-28|Acts 2.28]]; [[Romans 06#^6-3|Rom 6.3–6]] (see “Baptism and Eucharist,” p. 674). *Prefigured*, Gk “antitypos,” the flood is the “type” or model for that which comes later, in this case, baptism. *Appeal to God . . . conscience*, baptism is not a mere ritual, but it is meant to be grounded in a connection to God. See 2.19 and 3.16—in 2.19, conscience is the source of hope in God; in 3.16 it leads to opponents being shamed in God’s judgment. See also [[Hebrews 10#^10-22|Heb 10.22–23]]. ^3-21
+**[[NRSVue 1 Peter 03#^3-21|21]]:** *Baptism*, [[Matthew 28#^28-19|Mt 28.19]]; [[Acts 02#^2-28|Acts 2.28]]; [[Romans 06#^6-3|Rom 6.3–6]] (see “Baptism and Eucharist,” p. 674). *Prefigured*, Gk “antitypos,” the flood is the “type” or model for that which comes later, in this case, baptism. *Appeal to God . . . conscience*, baptism is not a mere ritual, but it is meant to be grounded in a connection to God. See [[1 Peter 02#^2-19|2.19]] and 3.16—in 2.19, conscience is the source of hope in God; in 3.16 it leads to opponents being shamed in God’s judgment. See also [[Hebrews 10#^10-22|Heb 10.22–23]]. ^3-21
 
 **[[NRSVue 1 Peter 03#^3-22|22]]:** *Gone into heaven*, [[Mark 16#^16-19|Mk 16.19]]; [[Acts 02#^2-32|Acts 2.32–33]]; [[Romans 08#^8-34|Rom 8.34]]. *Right hand of God*, see Ps 110; [[Hebrews 01#^1-3|Heb 1.3]],[[Hebrews 01#^1-13|13]]. In some early Jewish mystical literature (the *Hekhalot* texts), the right hand of God is implicitly identified with the angel Metatron. *Angels, authorities, and powers*, all of creation is now subject to Christ. In contrast to the powerless Christians, Christ has already achieved victory through and so over his sufferings. ^3-22
 

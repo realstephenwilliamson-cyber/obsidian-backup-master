@@ -24,13 +24,13 @@ Text: [[NRSVue John 08|NRSVue]] · [[John 08|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue John 08#^8-12|Text]], p. 194* ^8-12
 
-**[[NRSVue John 08#^8-12|12]]:** *Again*, apparently following 7.52. *Light of the world,* see 1.5,8,9. ^8-12-2
+**[[NRSVue John 08#^8-12|12]]:** *Again*, apparently following 7.52. *Light of the world,* see [[John 01#^1-5|1.5]],[[John 01#^1-8|8]],[[John 01#^1-9|9]]. ^8-12-2
 
-**[[NRSVue John 08#^8-13|13]]:** *Testimony is not valid*, see 5.31–47n. ^8-13
+**[[NRSVue John 08#^8-13|13]]:** *Testimony is not valid*, see [[JANT John 05#^5-31|5.31–47n.]] ^8-13
 
 **[[NRSVue John 08#^8-15|15]]:** *Human standards*, i.e., by appearances, not as God (and Jesus, associated with God) would judge. ^8-15
 
-**[[NRSVue John 08#^8-17|17]]:** *Your law*, Jesus dissociates himself from Torah (see 10.34). This, along with the near absence of the association of the term “Jew” (Gk “Ioudaios”) with Jesus, is part of the Gospel’s rhetorical strategy to encourage readers to dissociate from “the Jews.” [[Torah 48 - Shoftim#^19-15|Deut 19.15]] requires the testimony of two witnesses for capital cases. ^8-17
+**[[NRSVue John 08#^8-17|17]]:** *Your law*, Jesus dissociates himself from Torah (see [[John 10#^10-34|10.34]]). This, along with the near absence of the association of the term “Jew” (Gk “Ioudaios”) with Jesus, is part of the Gospel’s rhetorical strategy to encourage readers to dissociate from “the Jews.” [[Torah 48 - Shoftim#^19-15|Deut 19.15]] requires the testimony of two witnesses for capital cases. ^8-17
 
 **[[NRSVue John 08#^8-18|18]]:** The two witnesses are Jesus and God (v 16). *The Father* (God), and Jesus (the human being) are separate; the doctrine of the Trinity had not yet developed at the time the Gospel was written. ^8-18
 
@@ -40,7 +40,7 @@ Text: [[NRSVue John 08|NRSVue]] · [[John 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 08#^8-21|21]]:** *Going away*, i.e., to death and then to eternal life with the Father. ^8-21
 
-**[[NRSVue John 08#^8-22|22]]:** *Kill himself* . . . , as in ch 7, the Jews misunderstand: Jesus is not committing suicide but willingly moving towards his own death (see 3.16). ^8-22
+**[[NRSVue John 08#^8-22|22]]:** *Kill himself* . . . , as in ch 7, the Jews misunderstand: Jesus is not committing suicide but willingly moving towards his own death (see [[John 03#^3-16|3.16]]). ^8-22
 
 **[[NRSVue John 08#^8-24|24,28]]:** *I am he*, a divine claim, alluding to the theophany of [[Torah 13 - Shemot#^3-14|Ex 3.14]]. ^8-24
 

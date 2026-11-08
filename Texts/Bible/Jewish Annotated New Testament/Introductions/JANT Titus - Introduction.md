@@ -19,7 +19,7 @@ The Pastoral Epistles circulated as a collection and are mentioned by many of th
 
 ## Structure and Interpretation
 
-After greeting “Titus” (1.1–4), the author sketches how the community should be organized and outlines the qualifications for elders and bishops (1.5–9). Then follows a denunciation of certain community members (1.10–16; see 3.8b–11). The nascent communities sought to establish institutions that would preserve their view of orthodoxy. The author warns his followers to avoid alternative teachings and advises shunning those who remain divisive.
+After greeting “Titus” (1.1–4), the author sketches how the community should be organized and outlines the qualifications for elders and bishops (1.5–9). Then follows a denunciation of certain community members (1.10–16; see [[Titus 03#^3-8|3.8b–11]]). The nascent communities sought to establish institutions that would preserve their view of orthodoxy. The author warns his followers to avoid alternative teachings and advises shunning those who remain divisive.
 
 The epistle combines instruction on community organization with teaching on household order and obedience, including the paramount Hellenistic values of self-control and perfect submission of women and slaves (2.1–10). The epistle then connects good behavior with salvific actions of God (2.11–3.8a). Since churches developed out of gatherings in private homes, and since in the Roman world the family was seen as a microcosm of the state, the family and the community reflected one another. Social organization is thus linked to ethical behavior and given theological significance.
 

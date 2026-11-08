@@ -26,13 +26,13 @@ views:
       - author
       - type
       - year
-      - note.print
+      - print
     sort:
       - property: file.name
         direction: ASC
     columnSize:
       formula.Read: 73
-      note.title: 392
+      note.title: 666
       note.author: 173
       note.type: 90
       note.year: 62

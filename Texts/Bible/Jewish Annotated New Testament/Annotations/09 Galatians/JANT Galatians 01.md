@@ -28,11 +28,11 @@ Text: [[NRSVue Galatians 01|NRSVue]] · [[Galatians 01|BSB and SBLGNT]] · Intro
 
 *[[NRSVue Galatians 01#^1-6|Text]], p. 374* · Unlike other Pauline epistles, Galatians lacks a thanksgiving section (e.g., [[Romans 01#^1-8|Rom 1.8]]; [[1 Corinthians 01#^1-4|1 Cor 1.4]]; [[1 Thessalonians 01#^1-2|1 Thess 1.2]]). ^1-6
 
-**[[NRSVue Galatians 01#^1-6|6]]:** *The one who called you*, in Paul’s letters, the subject of “to call” (Gk “kalein”) is always God. See 1.15; 5.8. Some manuscripts omit *of Christ*, confirming that the one who has called is God. *Different gospel*, see [[2 Corinthians 11#^11-4|2 Cor 11.4]]. *Different* or “other,” meaning “wrong, illegitimate,” appears in rabbinic literature: a wrong view is “another way” (Heb “derekh aḥeret,” *t. Ber.* 6.6); idolaters are sometimes called “other ones, different ones” (Heb “aḥerim,” *Mek. Neziqin* 12); the arch-heretic Elisha ben Abuyah was known as “the other one” (“aḥer,” *b. Hag.* [[Chagigah 14#14b|14b]]). *Gospel* (Gk “euangelion”), lit., “good tidings,” translation of Heb “besorah” (e.g., [[II Samuel 18#^18-25|2 Sam 18.25]]). The Heb root “b-s-r” is used in Deutero-Isaiah’s prophecies of redemption (40.9; 52.7; 60.6; 61.1). ^1-6-2
+**[[NRSVue Galatians 01#^1-6|6]]:** *The one who called you*, in Paul’s letters, the subject of “to call” (Gk “kalein”) is always God. See [[Galatians 01#^1-15|1.15]]; 5.8. Some manuscripts omit *of Christ*, confirming that the one who has called is God. *Different gospel*, see [[2 Corinthians 11#^11-4|2 Cor 11.4]]. *Different* or “other,” meaning “wrong, illegitimate,” appears in rabbinic literature: a wrong view is “another way” (Heb “derekh aḥeret,” *t. Ber.* 6.6); idolaters are sometimes called “other ones, different ones” (Heb “aḥerim,” *Mek. Neziqin* 12); the arch-heretic Elisha ben Abuyah was known as “the other one” (“aḥer,” *b. Hag.* [[Chagigah 14#14b|14b]]). *Gospel* (Gk “euangelion”), lit., “good tidings,” translation of Heb “besorah” (e.g., [[II Samuel 18#^18-25|2 Sam 18.25]]). The Heb root “b-s-r” is used in Deutero-Isaiah’s prophecies of redemption (40.9; 52.7; 60.6; 61.1). ^1-6-2
 
 **[[NRSVue Galatians 01#^1-8|8]]:** *Angel* (Gk “angelos”), lit., “messenger” (see “Supernatural Beings,” p. 682). Since this verse says the messenger is *from heaven*, the translation “angel” is indicated. Perhaps Paul’s opponents claimed that their gospel was revealed to them through an angel; see 3.19. *Let that one be accursed*, lit., “let him be ‘anathema,’” the Gk translation of biblical Heb “ḥerem” (7.26; Josh 17). ^1-8
 
-**[[NRSVue Galatians 01#^1-9|9]]:** *What you received*, via teaching and tradition; see [[1 Corinthians 15#^15-1|1 Cor 15.1–3]]. The rabbinic equivalent is “qibbel,” “to receive” (*m. Avot* 1.1). 30° 35° 40° Places mentioned in Galatians 1–2. ^1-9
+**[[NRSVue Galatians 01#^1-9|9]]:** *What you received*, via teaching and tradition; see [[1 Corinthians 15#^15-1|1 Cor 15.1–3]]. The rabbinic equivalent is “qibbel,” “to receive” (*m. Avot* [[Pirkei Avot 01#^1-1|1.1]]). 30° 35° 40° Places mentioned in Galatians 1–2. ^1-9
 
 ### 1.10–12: Paul’s independence
 
@@ -46,7 +46,7 @@ Text: [[NRSVue Galatians 01|NRSVue]] · [[Galatians 01|BSB and SBLGNT]] · Intro
 
 *[[NRSVue Galatians 01#^1-13|Text]], p. 375* ^1-13
 
-**[[NRSVue Galatians 01#^1-13|13–14]]:** *Judaism,* appears in the New Testament only here, “Judaize” “(live . . . like a Jew”) and “Judaicly” (“compel . . .  to live like Jews”) only in 2.14. (The adjective “Judaic” (“Jewish”) appears in [[Titus 01#^1-14|Titus 1.14]].) The Greek term connotes the distinctive ways and manners, customs and 40° 35° 0 100 200 Kilometers beliefs of the Judean people, see [[Philippians 03#^3-5|Phil 3.5]] (see “Paul and Judaism,” p. 633, and “Judaism and Jewishness,” p. 592). Paul’s *earlier life* was *in Judaism*, among Jews, but his current life, after he received his revelation from God (1.15–16), is among Gentiles. *Violently persecuting*, see Acts 8–9; 22.4–5. *Church of God*, see 1.2n. ^1-13-2
+**[[NRSVue Galatians 01#^1-13|13–14]]:** *Judaism,* appears in the New Testament only here, “Judaize” “(live . . . like a Jew”) and “Judaicly” (“compel . . .  to live like Jews”) only in 2.14. (The adjective “Judaic” (“Jewish”) appears in [[Titus 01#^1-14|Titus 1.14]].) The Greek term connotes the distinctive ways and manners, customs and 40° 35° 0 100 200 Kilometers beliefs of the Judean people, see [[Philippians 03#^3-5|Phil 3.5]] (see “Paul and Judaism,” p. 633, and “Judaism and Jewishness,” p. 592). Paul’s *earlier life* was *in Judaism*, among Jews, but his current life, after he received his revelation from God (1.15–16), is among Gentiles. *Violently persecuting*, see Acts 8–9; 22.4–5. *Church of God*, see [[JANT Galatians 01#^1-2|1.2n.]] ^1-13-2
 
 > [!note] Box *(p. 375)*
 > G A L A T I A
@@ -89,7 +89,7 @@ Text: [[NRSVue Galatians 01|NRSVue]] · [[Galatians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Galatians 01#^1-15|15]]:** *Before I was born*, lit., “from the womb of my mother,” see [[Isaiah 49#^49-1|Isa 49.1]]; [[Jeremiah 01#^1-5|Jer 1.5]]. Paul understands himself to be a prophet ([[1 Corinthians 14#^14-37|1 Cor 14.37]]). ^1-15-2
 
-**[[NRSVue Galatians 01#^1-16|16]]:** *Son*, Paul regularly refers to Jesus as “Son of God” (e.g., 4.4; [[Romans 08#^8-3|Rom 8.3]]; [[2 Corinthians 01#^1-19|2 Cor 1.19]]; [[1 Thessalonians 01#^1-10|1 Thess 1.10]]), even if he was also “descended from David according to the flesh” ([[Romans 01#^1-3|Rom 1.3]]). *To me*, lit., “in me” parallel to “in the Gentiles.” *Gentiles* (Gk “ethnē”), lit., “nations” (Heb “goyyim”). Following Tanakh usage (e.g., [[Torah 34 - Bamidbar#^2-9|Num 2.9]]; [[Isaiah 52#^52-10|Isa 52.10]]; Ps 79), Paul divides humanity between Jews (or “Israel”) and Gentiles/the “nations” (e.g., 2.2) or “Greeks” (e.g., 2.3). *Any human being*, lit., “flesh and blood,” a frequent rabbinic expression for humans (e.g., *b. Ber.* [[Berakhot 33#33a|33a]]). Paul denies that his teaching has a human source; apparently his opponents accused him of lacking independent knowledge of God or Christ. See 1.20n. ^1-16
+**[[NRSVue Galatians 01#^1-16|16]]:** *Son*, Paul regularly refers to Jesus as “Son of God” (e.g., 4.4; [[Romans 08#^8-3|Rom 8.3]]; [[2 Corinthians 01#^1-19|2 Cor 1.19]]; [[1 Thessalonians 01#^1-10|1 Thess 1.10]]), even if he was also “descended from David according to the flesh” ([[Romans 01#^1-3|Rom 1.3]]). *To me*, lit., “in me” parallel to “in the Gentiles.” *Gentiles* (Gk “ethnē”), lit., “nations” (Heb “goyyim”). Following Tanakh usage (e.g., [[Torah 34 - Bamidbar#^2-9|Num 2.9]]; [[Isaiah 52#^52-10|Isa 52.10]]; Ps 79), Paul divides humanity between Jews (or “Israel”) and Gentiles/the “nations” (e.g., 2.2) or “Greeks” (e.g., 2.3). *Any human being*, lit., “flesh and blood,” a frequent rabbinic expression for humans (e.g., *b. Ber.* [[Berakhot 33#33a|33a]]). Paul denies that his teaching has a human source; apparently his opponents accused him of lacking independent knowledge of God or Christ. See [[JANT Galatians 01#^1-20|1.20n.]] ^1-16
 
 **[[NRSVue Galatians 01#^1-17|17]]:** *Go up to Jerusalem*, one ascends to Jerusalem (1.18; 2.1), then the church’s headquarters, see 2.1. *Apostles before me*, who knew Jesus. Paul argues that his God-given authority is equal to theirs. *Arabia*, the Transjordan and the Negev. *Returned to Damascus*, [[Acts 09#^9-8|Acts 9.8–25]]; [[2 Corinthians 11#^11-32|2 Cor 11.32–33]]. ^1-17
 
@@ -105,6 +105,6 @@ Text: [[NRSVue Galatians 01|NRSVue]] · [[Galatians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Galatians 01#^1-21|21]]:** *Syria and Cilicia*, far from Jerusalem. Tarsus, Paul’s hometown ([[Acts 09#^9-11|Acts 9.11]]), is in Cilicia. ^1-21
 
-**[[NRSVue Galatians 01#^1-22|22]]:** *Churches*, see 1.2n. ^1-22
+**[[NRSVue Galatians 01#^1-22|22]]:** *Churches*, see [[JANT Galatians 01#^1-2|1.2n.]] ^1-22
 
 — · [[Jewish Annotated New Testament|JANT index]] · [[JANT Galatians 02|Galatians 2 →]]

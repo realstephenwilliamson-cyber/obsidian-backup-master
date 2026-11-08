@@ -45,7 +45,7 @@ Text: [[NRSVue 1 Thessalonians 02|NRSVue]] · [[1 Thessalonians 02|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 02#^2-13|2.13-16]]:** **Persecuted churches.** See “Diatribe against the Jews,” p. 421 ^2-13
 
-**[[NRSVue 1 Thessalonians 02#^2-14|14]]:** *Imitators,* see 1.6*. Churches*, see 1.1. *Judea*, the Roman province encompassing Jerusalem. *Compatriots*, see 1.6. ^2-14
+**[[NRSVue 1 Thessalonians 02#^2-14|14]]:** *Imitators,* see [[1 Thessalonians 01#^1-6|1.6]]*. Churches*, see 1.1. *Judea*, the Roman province encompassing Jerusalem. *Compatriots*, see 1.6. ^2-14
 
 **[[NRSVue 1 Thessalonians 02#^2-15|15]]:** *Killed . . . prophets*, see e.g., [[Jeremiah 26#^26-20|Jer 26.20–23]]; [[Luke 11#^11-47|Lk 11.47]]; [[Luke 13#^13-34|13.34]]; [[Acts 07#^7-52|Acts 7.52]]; *Lives of the Prophets*; *Ascension of Isaiah.* ^2-15
 
@@ -59,7 +59,7 @@ Text: [[NRSVue 1 Thessalonians 02|NRSVue]] · [[1 Thessalonians 02|BSB and SBLGN
 
 *[[NRSVue 1 Thessalonians 02#^2-17|Text]], p. 422* ^2-17-2
 
-**[[NRSVue 1 Thessalonians 02#^2-18|18]]:** *Satan*, mentioned in the Gospels as tempting/testing Jesus ([[Matthew 04#^4-10|Mt 4.10]] || [[Mark 01#^1-13|Mk 1.13]]), by Paul also in [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 11#^11-14|11.14]]; etc.). “The Satan” is a member of the heavenly court ([[Job 02#^2-6|Job 2.6]]); for the rabbis, Satan is less the evil agent than one who tests the righteous (*b. Git.* [[Gittin 52#52a|52a]]; *Pesiq. Rab.* 185b–186a). See also 3.5n. ^2-18
+**[[NRSVue 1 Thessalonians 02#^2-18|18]]:** *Satan*, mentioned in the Gospels as tempting/testing Jesus ([[Matthew 04#^4-10|Mt 4.10]] || [[Mark 01#^1-13|Mk 1.13]]), by Paul also in [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 11#^11-14|11.14]]; etc.). “The Satan” is a member of the heavenly court ([[Job 02#^2-6|Job 2.6]]); for the rabbis, Satan is less the evil agent than one who tests the righteous (*b. Git.* [[Gittin 52#52a|52a]]; *Pesiq. Rab.* 185b–186a). See also [[JANT 1 Thessalonians 03#^3-5|3.5n.]] ^2-18
 
 **[[NRSVue 1 Thessalonians 02#^2-19|19]]:** *Crown of boasting*, see [[Ezekiel 16#^16-12|Ezek 16.12]]; [[Ezekiel 23#^23-42|23.42]]; [[Proverbs 16#^16-31|Prov 16.31]]; Paul’s language suggests the crown of laurels given to the victor in an athletic contest (see also [[Philippians 03#^3-12|Phil 3.12–14]]). ^2-19
 

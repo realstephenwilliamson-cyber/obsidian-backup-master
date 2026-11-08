@@ -37,9 +37,9 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-5|5]]:** *Nowhere among the Gentiles*, Jesus restricts the mission to Jews; 28.19 expands it to Gentiles. *Samaritans*, Jews and Samaritans had mutual animosity (see [[Luke 09#^9-51|Lk 9.51–56]]; [[Luke 10#^10-29|10.29–37]]; [[John 04#^4-9|Jn 4.9]]; Josephus, *J.W*. 1.63; *Ant.* 11; 13.255; *T. Levi* 5–7). ^10-5-2
 
-**[[NRSVue Matthew 10#^10-6|6]]:** *Lost sheep of the house of Israel*, see 15.24; either all Israel depicted as lost or the people as opposed to the leadership. ^10-6
+**[[NRSVue Matthew 10#^10-6|6]]:** *Lost sheep of the house of Israel*, see [[Matthew 15#^15-24|15.24]]; either all Israel depicted as lost or the people as opposed to the leadership. ^10-6
 
-**[[NRSVue Matthew 10#^10-7|7]]:** *Kingdom of heaven has come near*, see 3.2n. ^10-7
+**[[NRSVue Matthew 10#^10-7|7]]:** *Kingdom of heaven has come near*, see [[JANT Matthew 03#^3-2|3.2n.]] ^10-7
 
 **[[NRSVue Matthew 10#^10-8|8]]:** *Raise the dead*, see *Lev. Rab.* 10.4, where Yehuda ha-Nasi (Rabbi Judah the Prince) is also said to be able to raise the dead. ^10-8
 
@@ -61,9 +61,9 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-20|20]]:** *Spirit . . . through you*, the Spirit of God was seen as making it possible for those without prophetic gifts to speak out, as in [[Torah 36 - Beha'alotcha#^11-25|Num 11.25]]. ^10-20
 
-**[[NRSVue Matthew 10#^10-21|21]]:** *Brother will betray brother*, see *m. Sot.* 9.15 on familial depravity and violence as a precursor to the messianic age; see 10.35; [[Micah 7#^7-6|Mic 7.6]]. ^10-21
+**[[NRSVue Matthew 10#^10-21|21]]:** *Brother will betray brother*, see *m. Sot.* 9.15 on familial depravity and violence as a precursor to the messianic age; see [[Matthew 10#^10-35|10.35]]; [[Micah 7#^7-6|Mic 7.6]]. ^10-21
 
-**[[NRSVue Matthew 10#^10-23|23]]:** *Son of Man comes*, final judgment (see 8.20n.; 10.23; 19.28; 25.30–31; see also [[Daniel 07#^7-13|Dan 7.13]]). ^10-23
+**[[NRSVue Matthew 10#^10-23|23]]:** *Son of Man comes*, final judgment (see [[JANT Matthew 08#^8-20|8.20n.]]; [[Matthew 10#^10-23|10.23]]; [[Matthew 19#^19-28|19.28]]; [[Matthew 25#^25-30|25.30–31]]; see also [[Daniel 07#^7-13|Dan 7.13]]). ^10-23
 
 **[[NRSVue Matthew 10#^10-25|25]]:** *Beelzebul*, from Heb, “lord of lofty abode,” a Canaanite god, called pejoratively Beelzebub, “Lord of the flies,” in [[II Kings 01#^1-2|2 Kings 1.2–3]],[[II Kings 01#^1-6|6]],[[II Kings 01#^1-16|16]], and associated with the demonic in early Jewish and Christian tradition (*T. Sol.* 3.6; 6.1–2; Origen, *Cels*. 8.25). *Lebbaeus called Thaddaeus* b Or *is at hand* c The terms *leper* and *leprosy* can refer to several diseases ^10-25
 
@@ -73,9 +73,9 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-26|26]]:** *Have no fear of them*, likely reflecting the dedication of Jeremiah (1.8). ^10-26-2
 
-**[[NRSVue Matthew 10#^10-28|28]]:** *Fear him*, see [[Hebrews 10#^10-31|Heb 10.31]]. *Hell,* lit, “Gehenna”; see 5.22n. ^10-28
+**[[NRSVue Matthew 10#^10-28|28]]:** *Fear him*, see [[Hebrews 10#^10-31|Heb 10.31]]. *Hell,* lit, “Gehenna”; see [[JANT Matthew 05#^5-22|5.22n.]] ^10-28
 
-**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see 6.26n.; 10.30–32); *b. B. Metz.* [[Bava Metzia 85#85a|85a]] states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. 33.18; see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
+**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see [[JANT Matthew 06#^6-26|6.26n.]]; [[Matthew 10#^10-30|10.30–32]]); *b. B. Metz.* [[Bava Metzia 85#85a|85a]] states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. 33.18; see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
 
 **[[NRSVue Matthew 10#^10-33|33]]:** *Whoever denies me*, a warning to be faithful despite persecution. ^10-33
 
@@ -85,7 +85,7 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-38|38]]:** *Take up the cross*, risk suffering and death. ^10-38
 
-**[[NRSVue Matthew 10#^10-41|41]]:** *Righteous*, see 1.19n. ^10-41
+**[[NRSVue Matthew 10#^10-41|41]]:** *Righteous*, see [[JANT Matthew 01#^1-19|1.19n.]] ^10-41
 
 **[[NRSVue Matthew 10#^10-42|42]]:** *Little ones*, possibly missionaries (25.45). ^10-42
 

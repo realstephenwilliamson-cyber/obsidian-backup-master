@@ -28,7 +28,7 @@ Text: [[NRSVue Acts 05|NRSVue]] · [[Acts 05|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 05#^5-12|Text]], p. 231* · Miraculous healing attracts believers (9.35; 19.11–20). ^5-12
 
-**[[NRSVue Acts 05#^5-12|12]]:** *Solomon’s Portico*, see 3.11n. ^5-12-2
+**[[NRSVue Acts 05#^5-12|12]]:** *Solomon’s Portico*, see [[JANT Acts 03#^3-11-2|3.11n.]] ^5-12-2
 
 **[[NRSVue Acts 05#^5-15|15–16]]:** The author ascribes similar miracles to Jesus ([[Luke 04#^4-40|Lk 4.40]]; [[Luke 05#^5-15|5.15]]; [[Luke 09#^9-11|9.11]]) and Paul (19.12). ^5-15
 
@@ -36,7 +36,7 @@ Text: [[NRSVue Acts 05|NRSVue]] · [[Acts 05|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 05#^5-17|Text]], p. 231* · The miraculous deeds and the enthusiastic response prompt opposition by Jewish authorities (3.1–4.22). ^5-17
 
-**[[NRSVue Acts 05#^5-17|17]]:** *High priest . . . Sadducees*, see 4.1n. *Jealousy*, see 13.45; 17.5. ^5-17-2
+**[[NRSVue Acts 05#^5-17|17]]:** *High priest . . . Sadducees*, see [[JANT Acts 04#^4-1-2|4.1n.]] *Jealousy*, see [[Acts 13#^13-45|13.45]]; 17.5. ^5-17-2
 
 **[[NRSVue Acts 05#^5-18|18]]:** *Arrested,* see 4.3. *Public prison*, many cities in the Roman Empire had prisons, which were primarily used for confinement or coercion rather than punishment. ^5-18
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Acts 05|NRSVue]] · [[Acts 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 05#^5-29|29]]:** *Obey God rather than any human authority,* a sentiment also voiced by Socrates (Plato, *Apol.* 29d) and Jewish messianic and nationalist groups, such as the Fourth Philosophy (Josephus, *Ant.* 18.23) and Eleazar ben Yair at Masada (Josephus, *J.W.* 7.323). ^5-29
 
-**[[NRSVue Acts 05#^5-30|30]]:** *God of our ancestors*, followers of Jesus fulfill and continue the promises God made to the patriarchs. *God . . . raised up Jesus, whom you had killed*, see 2.23–24; 3.15. *Hanging him on a tree*, corpses of persons punished by death were hung on a tree ([[Torah 49 - Ki Teitzei#^21-22|Deut 21.22–23]]). Later this description becomes associated with crucifixion (see [[Galatians 03#^3-13|Gal 3.13]]; 1QpNahum frag. 3–4, 1, 7–8, a possible allusion to the 800 Jews crucified by the Hasmonean King Alexander Jannaeus \[Josephus, *J.W.* 1.97; *Ant.* 13.372–83\]). ^5-30
+**[[NRSVue Acts 05#^5-30|30]]:** *God of our ancestors*, followers of Jesus fulfill and continue the promises God made to the patriarchs. *God . . . raised up Jesus, whom you had killed*, see [[Acts 02#^2-23|2.23–24]]; 3.15. *Hanging him on a tree*, corpses of persons punished by death were hung on a tree ([[Torah 49 - Ki Teitzei#^21-22|Deut 21.22–23]]). Later this description becomes associated with crucifixion (see [[Galatians 03#^3-13|Gal 3.13]]; 1QpNahum frag. 3–4, 1, 7–8, a possible allusion to the 800 Jews crucified by the Hasmonean King Alexander Jannaeus \[Josephus, *J.W.* 1.97; *Ant.* 13.372–83\]). ^5-30
 
 **[[NRSVue Acts 05#^5-31|31–32]]:** Obedience to God now entails acknowledging Jesus’ authority beside God, through whom comes forgiveness of sins. ^5-31
 
@@ -62,7 +62,7 @@ Text: [[NRSVue Acts 05|NRSVue]] · [[Acts 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 05#^5-36|36–37]]:** *Theudas*, eschatological prophet who in the mid-40s CE gathered his followers near the Jordan and who was executed under orders of the Roman procurator (Josephus, *Ant.* 20.97–98). *Judas the Galilean*, led a revolt against Rome’s transformation of Judea into a Roman province in 6 CE (Josephus, *J.W.* 2.117–19,433; *Ant.* 18.2–10,23–25). See “Messianic Movements,” p. 622. ^5-36
 
-**[[NRSVue Acts 05#^5-38|38–39]]:** Gamaliel’s teaching echoes Peter’s statement (v 29); Jews often understood that broad historical events were directed by God, and therefore opposing the human *strict orders not to teach in this name?* b Gk *than men* c Gk *Men, Israelites* authority responsible for those events was tantamount to fighting against God (Jeremiah and Babylonia, [[Jeremiah 27#^27-6|Jer 27.6–11]]; Josephus and Rome, Josephus, *J.W.* 5.378; Agrippa II and Rome, Josephus, *J.W.* 2.390). R. Yohanan the Sandal-maker (*m. Avot* 4.11) stated, “Every assembly which is for the Name of Heaven will in the end be established, but that which is not for the Name of Heaven will not in the end be established.” By having a respected Jewish leader issue the admonition, Acts portrays subsequent Jewish opposition to Christianity as both against God and contrary to Judaism. ^5-38
+**[[NRSVue Acts 05#^5-38|38–39]]:** Gamaliel’s teaching echoes Peter’s statement (v 29); Jews often understood that broad historical events were directed by God, and therefore opposing the human *strict orders not to teach in this name?* b Gk *than men* c Gk *Men, Israelites* authority responsible for those events was tantamount to fighting against God (Jeremiah and Babylonia, [[Jeremiah 27#^27-6|Jer 27.6–11]]; Josephus and Rome, Josephus, *J.W.* 5.378; Agrippa II and Rome, Josephus, *J.W.* 2.390). R. Yohanan the Sandal-maker (*m. Avot* [[Pirkei Avot 04#^4-11|4.11]]) stated, “Every assembly which is for the Name of Heaven will in the end be established, but that which is not for the Name of Heaven will not in the end be established.” By having a respected Jewish leader issue the admonition, Acts portrays subsequent Jewish opposition to Christianity as both against God and contrary to Judaism. ^5-38
 
 > [!note] Gamaliel *(p. 232)*
 > Gamaliel (Heb *Gamliel*) was a well-respected first-century sage. According to one rabbinic tradition, “When Rabban Gamliel the Elder died, the glory of the Law ceased and purity and abstinence died” (*m. Sot.* 9.15). In Acts, Gamaliel is noted for two things: he prevents his Jewish colleagues from killing the apostles, and he is identified as Paul’s teacher (22.3, an assertion not confirmed in Paul’s own writings). Gamaliel’s agnostic position about the proclamation of Jesus (vv 38–39) contrasts sharply with the Jews later in the book who develop strong, even hostile, opposition to Jesus and those who preach in his name. The depiction of a highly tol-erant Gamaliel gave rise to later Christian traditions that he was baptized and converted to Christianity (*Clementine Recognitions* 1.65). The Eastern Orthodox Church recognizes Gamaliel as a saint.

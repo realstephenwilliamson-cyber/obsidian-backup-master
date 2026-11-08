@@ -14,9 +14,9 @@ Text: [[NRSVue 1 Peter 02|NRSVue]] · [[1 Peter 02|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 02#^2-1|2.1–12]]:** **People of God.** ^2-1
 
-**[[NRSVue 1 Peter 02#^2-1|1]]:** *Malice . . . guile*, conventional vice list (see also 2.1; 4.3,15; [[1 Corinthians 06#^6-9|1 Cor 6.9–11]]; [[Galatians 05#^5-19|Gal 5.19–21]]). ^2-1-2
+**[[NRSVue 1 Peter 02#^2-1|1]]:** *Malice . . . guile*, conventional vice list (see also [[1 Peter 02#^2-1|2.1]]; [[1 Peter 04#^4-3|4.3]],[[1 Peter 04#^4-15|15]]; [[1 Corinthians 06#^6-9|1 Cor 6.9–11]]; [[Galatians 05#^5-19|Gal 5.19–21]]). ^2-1-2
 
-**[[NRSVue 1 Peter 02#^2-2|2]]:** *Newborn infants*, see 1.23n. *Spiritual milk*, that is, “milk of God’s word” (Gk “logos”), an important theme (1.23; 2.8; 3.1). For Torah as milk, see e.g., *Song Rab.* 1.3. ^2-2
+**[[NRSVue 1 Peter 02#^2-2|2]]:** *Newborn infants*, see [[JANT 1 Peter 01#^1-23|1.23n.]] *Spiritual milk*, that is, “milk of God’s word” (Gk “logos”), an important theme (1.23; 2.8; 3.1). For Torah as milk, see e.g., *Song Rab.* 1.3. ^2-2
 
 **[[NRSVue 1 Peter 02#^2-3|3]]:** *Tasted . . . good*, see [[Psalms 034#^34-9|Ps 34.8]], “O taste and see that the Lord is good . . . ” The Psalm concerns relying on God to protect and save one who suffers, the central theme of 1 Peter. ^2-3
 
@@ -35,9 +35,9 @@ Text: [[NRSVue 1 Peter 02|NRSVue]] · [[1 Peter 02|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 02#^2-10|10]]:** *Once you were not a people* . . . *God’s people*, [[Hosea 02#^2-25|Hos. 2.23]]. The recipients are Gentiles who see themselves as Israel. In vv 4–10, verses from the Tanakh are strung together to create a series of images: living stones, spiritual house, holy priesthood, cornerstone. Jewish interpretation takes these verses to point to God’s unbroken covenant with Israel. ^2-10
 
-**[[NRSVue 1 Peter 02#^2-11|11]]:** *Beloved*, though seen as outsiders by society, the listeners are at home as Christians, see 1.22; 4.12 (cf. [[Romans 01#^1-7|Rom 1.7]]; [[Romans 12#^12-19|12.19]]; [[1 Corinthians 10#^10-14|1 Cor 10.14]]; [[1 Corinthians 15#^15-58|15.58]]). In the Tanakh, God chooses and loves Israel, [[Torah 45 - Vaetchanan#^7-6|Deut 7.6–8]]; [[Hosea 11#^11-1|Hos 11.1]]; on human beings generally, and Israel specifically as beloved by God, see *m. Avot* 3.14; *Avot de R. Nathan* B 43. *Aliens and exiles*, see 1.1,17. *Desires of the flesh*, referring to sensual rather than spiritual matters, see [[Galatians 05#^5-16|Gal 5.16–18]]; [[Romans 08#^8-5|Rom 8.5]]. ^2-11
+**[[NRSVue 1 Peter 02#^2-11|11]]:** *Beloved*, though seen as outsiders by society, the listeners are at home as Christians, see [[1 Peter 01#^1-22|1.22]]; [[1 Peter 04#^4-12|4.12]] (cf. [[Romans 01#^1-7|Rom 1.7]]; [[Romans 12#^12-19|12.19]]; [[1 Corinthians 10#^10-14|1 Cor 10.14]]; [[1 Corinthians 15#^15-58|15.58]]). In the Tanakh, God chooses and loves Israel, [[Torah 45 - Vaetchanan#^7-6|Deut 7.6–8]]; [[Hosea 11#^11-1|Hos 11.1]]; on human beings generally, and Israel specifically as beloved by God, see *m. Avot* [[Pirkei Avot 03#^3-14|3.14]]; *Avot de R. Nathan* B 43. *Aliens and exiles*, see [[1 Peter 01#^1-1|1.1]],[[1 Peter 01#^1-17|17]]. *Desires of the flesh*, referring to sensual rather than spiritual matters, see [[Galatians 05#^5-16|Gal 5.16–18]]; [[Romans 08#^8-5|Rom 8.5]]. ^2-11
 
-**[[NRSVue 1 Peter 02#^2-12|12]]:** *Gentiles*, the recipients are contrasted with Gentiles (lit., “nations” \[Gk “ethnos”\]) because they now see themselves as Israel. *Malign you as evildoers*, since there is no evidence of empire-wide persecution of Christians before the 250s, this is most likely a reference to local slander (see 3.9,16). Conduct that Christians believe is honorable is seen by others as offensive and superstitious. 1 Peter teaches that Christian behavior must be beyond reproach. ^2-12
+**[[NRSVue 1 Peter 02#^2-12|12]]:** *Gentiles*, the recipients are contrasted with Gentiles (lit., “nations” \[Gk “ethnos”\]) because they now see themselves as Israel. *Malign you as evildoers*, since there is no evidence of empire-wide persecution of Christians before the 250s, this is most likely a reference to local slander (see [[1 Peter 03#^3-9|3.9]],[[1 Peter 03#^3-16|16]]). Conduct that Christians believe is honorable is seen by others as offensive and superstitious. 1 Peter teaches that Christian behavior must be beyond reproach. ^2-12
 
 ### 2.13–4.11: Household codes
 
@@ -47,7 +47,7 @@ Text: [[NRSVue 1 Peter 02|NRSVue]] · [[1 Peter 02|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue 1 Peter 02#^2-13|Text]], p. 505* ^2-13-2
 
-**[[NRSVue 1 Peter 02#^2-13|13]]:** *Accept the authority of every human institution*, *m. Avot* 3.2 “Pray for the welfare of the government, for were it not for the fear of it, a person would swallow his friend alive,” demands a similar respect for political authority (see *b. B. Kamma* 113a). ^2-13-3
+**[[NRSVue 1 Peter 02#^2-13|13]]:** *Accept the authority of every human institution*, *m. Avot* [[Pirkei Avot 03#^3-2|3.2]] “Pray for the welfare of the government, for were it not for the fear of it, a person would swallow his friend alive,” demands a similar respect for political authority (see *b. B. Kamma* 113a). ^2-13-3
 
 **[[NRSVue 1 Peter 02#^2-16|16]]:** *Servants of God, live as free people, yet do not use your freedom as a pretext for evil*, *m. Avot* 6.2 teaches that true freedom is in serving God. For 1 Peter, freedom is not antinomianism; while the government has no actual authority over Christians (they are servants of God—not of human rulers), it is right and moral to be submissive to governing authorities. ^2-16
 

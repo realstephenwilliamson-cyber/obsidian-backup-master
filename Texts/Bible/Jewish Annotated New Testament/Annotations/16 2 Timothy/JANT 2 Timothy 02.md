@@ -16,7 +16,7 @@ Text: [[NRSVue 2 Timothy 02|NRSVue]] · [[2 Timothy 02|BSB and SBLGNT]] · Intro
 
 *[[NRSVue 2 Timothy 02#^2-1|Text]], p. 443* ^2-1
 
-**[[NRSVue 2 Timothy 02#^2-1|1]]:** *Child*, see 1.2n. ^2-1-2
+**[[NRSVue 2 Timothy 02#^2-1|1]]:** *Child*, see [[JANT 2 Timothy 01#^1-2|1.2n.]] ^2-1-2
 
 **[[NRSVue 2 Timothy 02#^2-2|2]]:** *Through many witnesses*, the Gk preposition “dia” is ambiguous; rendering the phrase as “in the presence of many witnesses” better reinforces the connection between Paul and Timothy. ^2-2
 
@@ -36,11 +36,11 @@ Text: [[NRSVue 2 Timothy 02|NRSVue]] · [[2 Timothy 02|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 2 Timothy 02#^2-8|8]]:** *Raised from the dead*, see [[Romans 01#^1-3|Rom 1.3–4]]; [[Romans 02#^2-17|2.17–18]]. *David,* the Messiah was expected to be a descendant of King David ([[Isaiah 11#^11-1|Isa 11.1]]; [[Jeremiah 23#^23-5|Jer 23.5–6]]; [[John 07#^7-42|Jn 7.42]]). The fifteenth blessing of the *Amidah* expresses the Jewish wish in redemption through a Davidic messiah: “Make the Branch of David to sprout quickly, and let his horn be exalted by your salvation, for we await your salvation all the day. Blessed art you, O Lord, who makes the horn of salvation to sprout.” ^2-8-2
 
-**[[NRSVue 2 Timothy 02#^2-9|9]]:** *Suffer hardship*, see 1.8n. *Chained*, see 1.16. *Criminal*, Gk “kakourgos,” see [[Luke 23#^23-32|Lk 23.32]],[[Luke 23#^23-33|33]],[[Luke 23#^23-39|39]], where the term describes the men crucified with Jesus. ^2-9
+**[[NRSVue 2 Timothy 02#^2-9|9]]:** *Suffer hardship*, see [[JANT 2 Timothy 01#^1-8|1.8n.]] *Chained*, see 1.16. *Criminal*, Gk “kakourgos,” see [[Luke 23#^23-32|Lk 23.32]],[[Luke 23#^23-33|33]],[[Luke 23#^23-39|39]], where the term describes the men crucified with Jesus. ^2-9
 
 **[[NRSVue 2 Timothy 02#^2-10|10]]:** *Elect*, Gk “chosen,” see [[Isaiah 65#^65-9|Isa 65.9]],[[Isaiah 65#^65-15|15]]; [[LXX Psalms 88#^88-4|Ps 88.3]] [as printed; the verse is LXX 88:4]; 104.6; [[I Chronicles 16#^16-13|1 Chr 16.13]]; [[Romans 09#^9-11|Rom 9.11]]; [[Romans 11#^11-5|11.5]],[[Romans 11#^11-7|7]],[[Romans 11#^11-28|28]] (referring to Israel, here in Romans meaning the Jewish people); [[1 Thessalonians 01#^1-4|1 Thess 1.4]]; [[1 Peter 02#^2-9|1 Pet 2.9]]; [[2 Peter 01#^1-10|2 Pet 1.10]] (referring to the church). ^2-10
 
-**[[NRSVue 2 Timothy 02#^2-11|11]]:** *Saying is sure*, Gk “pistos ho logos,” “a trustworthy saying,” a distinctive phrase characteristic of the Pastoral Epistles ([[1 Timothy 01#^1-15|1 Tim 1.15]]; [[1 Timothy 03#^3-1|3.1]]; [[1 Timothy 04#^4-9|4.9]]; [[Titus 03#^3-8|Titus 3.8]]); see 1.13n. *Have died . . . will also live*, see [[Romans 06#^6-5|Rom 6.5]]. ^2-11
+**[[NRSVue 2 Timothy 02#^2-11|11]]:** *Saying is sure*, Gk “pistos ho logos,” “a trustworthy saying,” a distinctive phrase characteristic of the Pastoral Epistles ([[1 Timothy 01#^1-15|1 Tim 1.15]]; [[1 Timothy 03#^3-1|3.1]]; [[1 Timothy 04#^4-9|4.9]]; [[Titus 03#^3-8|Titus 3.8]]); see [[JANT 2 Timothy 01#^1-13|1.13n.]] *Have died . . . will also live*, see [[Romans 06#^6-5|Rom 6.5]]. ^2-11
 
 **[[NRSVue 2 Timothy 02#^2-12|12]]:** *Endure*, Gk “hypomenomen” the LXX’s most common translation of Heb “qāwāh,” “to hope,” used for those who remain faithful and will receive their reward ([[Psalms 025#^25-3|Ps 25.3]],[[Psalms 025#^25-5|5]]; [[Psalms 027#^27-14|27.14]]; [[Psalms 033#^33-20|33.20]]; [[Psalms 037#^37-9|37.9]]). *Reign*, see [[Revelation 03#^3-21|Rev 3.21]]. *Deny us*, see [[Matthew 10#^10-33|Mt 10.33]]; [[Luke 12#^12-8|Lk 12.8–9]]. ^2-12
 

@@ -38,7 +38,7 @@ Text: [[NRSVue Revelation 18|NRSVue]] · [[Revelation 18|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 18#^18-11|11–19]]:** The precious trade-goods and the attention to maritime merchants echoes Ezekiel’s dirge over Tyre (ch 27). ^18-11
 
-**[[NRSVue Revelation 18#^18-16|16]]:** *Purple and scarlet*, see 17.3–4n. ^18-16
+**[[NRSVue Revelation 18#^18-16|16]]:** *Purple and scarlet*, see [[JANT Revelation 17#^17-3|17.3–4n.]] ^18-16
 
 **[[NRSVue Revelation 18#^18-17|17]]:** *Shipmasters and seafarers*, see 17.15. ^18-17
 
@@ -54,6 +54,6 @@ Text: [[NRSVue Revelation 18|NRSVue]] · [[Revelation 18|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 18#^18-23|23]]:** *Sorcery* (Gk “pharmakeia”), is not meant metaphorically; protective rituals were part of state ceremony in many ancient cultures (see [[Isaiah 47#^47-9|Isa 47.9]], where God overrides Babylon’s sorceries), while unauthorized sorcery was a crime in the Roman Empire (e.g., Julius Paulus, *Responsa* 5.23.14–19, third century ce); for John, sorcery constituted the sorts of impure practices that demonic forces introduced to the world through fornication (with which sorcery is often paired): *1 En*. 8–9; see [[II Kings 09#^9-22|2 Kings 9.22]]; [[Revelation 21#^21-8|Rev 21.8]]; [[Revelation 22#^22-15|22.15]]. Early rabbis forbade sorcery as antithetical to Torah but had difficulty defining it (e.g., *m. Sanh.* 7.11). ^18-23
 
-**[[NRSVue Revelation 18#^18-24|24]]:** *Blood of prophets and of saints*, allusion to [[Jeremiah 51#^51-49|Jer 51.49]] but a contrast to [[Matthew 23#^23-34|Mt 23.34–36]] and [[Luke 11#^11-49|Lk 11.49–51]], which blame the murder of prophets on Israel (see 16.6n.). ^18-24
+**[[NRSVue Revelation 18#^18-24|24]]:** *Blood of prophets and of saints*, allusion to [[Jeremiah 51#^51-49|Jer 51.49]] but a contrast to [[Matthew 23#^23-34|Mt 23.34–36]] and [[Luke 11#^11-49|Lk 11.49–51]], which blame the murder of prophets on Israel (see [[JANT Revelation 16#^16-6|16.6n.]]). ^18-24
 
 [[JANT Revelation 17|← Revelation 17]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Revelation 19|Revelation 19 →]]

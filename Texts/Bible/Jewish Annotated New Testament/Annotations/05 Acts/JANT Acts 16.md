@@ -36,7 +36,7 @@ Text: [[NRSVue Acts 16|NRSVue]] · [[Acts 16|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 16#^16-15|15]]:** See 11.14. *My home*, indicating that she is established and prosperous. ^16-15
 
-**[[NRSVue Acts 16#^16-17|17]]:** *Most High God*, see [[Psalms 057#^57-3|Ps 57.2]]; 78.56; [[Daniel 03#^3-26|Dan 3.26]]; [[LXX Judith 13#^13-18|Jdt 13.18]]; [[LXX Sirach 07#^7-9|Sir 7.9]]; [[LXX Sirach 24#^24-23|24.23]]; [[LXX 3 Maccabees 07#^7-9|3 Macc 7.9]]; also applied to pagan deities, thus familiar to non-Jews. *Way of salvation*, see 2.40n.; 2.47; 4.12; 11.14; 13.26; 15.11; 16.30,31; 28.28. ^16-17
+**[[NRSVue Acts 16#^16-17|17]]:** *Most High God*, see [[Psalms 057#^57-3|Ps 57.2]]; 78.56; [[Daniel 03#^3-26|Dan 3.26]]; [[LXX Judith 13#^13-18|Jdt 13.18]]; [[LXX Sirach 07#^7-9|Sir 7.9]]; [[LXX Sirach 24#^24-23|24.23]]; [[LXX 3 Maccabees 07#^7-9|3 Macc 7.9]]; also applied to pagan deities, thus familiar to non-Jews. *Way of salvation*, see 2.40n.; [[Acts 02#^2-47|2.47]]; [[Acts 04#^4-12|4.12]]; [[Acts 11#^11-14|11.14]]; [[Acts 13#^13-26|13.26]]; [[Acts 15#^15-11|15.11]]; [[Acts 16#^16-30|16.30]],[[Acts 16#^16-31|31]]; 28.28. ^16-17
 
 **[[NRSVue Acts 16#^16-18|18]]:** *In the name of Jesus Christ*, healings are performed using this language (3.6; 4.10). ^16-18
 

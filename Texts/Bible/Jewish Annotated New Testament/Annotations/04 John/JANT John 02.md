@@ -26,11 +26,11 @@ Text: [[NRSVue John 02|NRSVue]] · [[John 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 02#^2-7|7]]:** *Fill the jars*, since they needed to be refilled, the washing likely had already taken place. The size of the jars indicates many guests. ^2-7
 
-**[[NRSVue John 02#^2-9|9]]:** *Bridegroom*, a double entendre referring to the bridegroom of the wedding and alluding to Jesus as the eschatological bridegroom (cf. 4.29). ^2-9
+**[[NRSVue John 02#^2-9|9]]:** *Bridegroom*, a double entendre referring to the bridegroom of the wedding and alluding to Jesus as the eschatological bridegroom (cf. [[John 04#^4-29|4.29]]). ^2-9
 
 **[[NRSVue John 02#^2-11|11]]:** *First of his signs*, possible evidence for a “signs source” (v 23; 3.2; 4.48,54; 6.14; 10.41; 12.18; 20.30). *Glory*, see 1.14. ^2-11
 
-**[[NRSVue John 02#^2-12|12]]:** *Capernaum*, town on the northwestern shore of the Sea of Galilee. *Brothers*, see 7.3, 20.17; 21.23; [[Mark 06#^6-3|Mk 6.3]]. ^2-12
+**[[NRSVue John 02#^2-12|12]]:** *Capernaum*, town on the northwestern shore of the Sea of Galilee. *Brothers*, see [[John 07#^7-3|7.3]], [[John 07#^7-2|2]]0.17; 21.23; [[Mark 06#^6-3|Mk 6.3]]. ^2-12
 
 ### 2.13–25: Jesus’ authority over the Temple
 
@@ -63,7 +63,7 @@ Text: [[NRSVue John 02|NRSVue]] · [[John 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 02#^2-24|24]]:** *Entrust himself*, rely upon others to vouch for his authority. ^2-24
 
-**[[NRSVue John 02#^2-25|25]]:** *Needed no one to testify*, forensic language referring to the testimony of witnesses evokes the theme of God as judge. *He himself knew*, Jesus’ foreknowledge (see 1.48; 4.17–18; 6.70). *M o u n t o f O l i v e s* S A M A R I A *Mt. Gerizim* 0 Miles 5 10 Jerusalem 0 5 10 Kilometers 35° Bethlehem The geography of the Gospel of John. 33° G A L I L E E Cana Tiberias Nazareth Salim? Aenon? *R i v e r J o r d a n* Sychar 32° Ephraim (Aphairema) Bethany ^2-25
+**[[NRSVue John 02#^2-25|25]]:** *Needed no one to testify*, forensic language referring to the testimony of witnesses evokes the theme of God as judge. *He himself knew*, Jesus’ foreknowledge (see [[John 01#^1-48|1.48]]; [[John 04#^4-17|4.17–18]]; [[John 06#^6-70|6.70]]). *M o u n t o f O l i v e s* S A M A R I A *Mt. Gerizim* 0 Miles 5 10 Jerusalem 0 5 10 Kilometers 35° Bethlehem The geography of the Gospel of John. 33° G A L I L E E Cana Tiberias Nazareth Salim? Aenon? *R i v e r J o r d a n* Sychar 32° Ephraim (Aphairema) Bethany ^2-25
 
 > [!note] Jesus and the Jewish Festivals (JN 2.13) *(p. 179)*
 > Jesus “goes up” to Jerusalem (“to go up” is the usual expression for travel to Jerusalem from any direction or elevation; see [[Zechariah 14#^14-16|Zech 14.16]], and the later rabbinic phrase “ascent for the pilgrimage festival”) for the pilgrimage festivals of Passover (2.13; 12.1) and Tabernacles/Sukkot/Booths (7.10), as well as for an unnamed festival that may have been Shavuot or the Feast of Weeks (5.1). On one Passover (6.4), Jesus remains in Galilee, and he feeds thousands of people from only a few pieces of bread and fish. This departure from

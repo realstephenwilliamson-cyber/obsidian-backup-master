@@ -18,7 +18,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-1|1–2]]:** [[Mark 15#^15-1|Mk 15.1]]; [[Luke 23#^23-1|Lk 23.1]]. *Pilate*, Roman governor in Judea from 18–36 CE, known for cruelty (Tacitus, *Ann*. 15.44; Josephus, *J. W.* 2.166–77; *Ant*. 18.35,55–64,85–89,177; see “Jewish History, 331 BCE–135 CE”). ^27-1-2
 
-**[[NRSVue Matthew 27#^27-3|3]]:** *He repented*, a point unique to Matthew. *Thirty pieces of silver*, see 26.15n. ^27-3
+**[[NRSVue Matthew 27#^27-3|3]]:** *He repented*, a point unique to Matthew. *Thirty pieces of silver*, see [[JANT Matthew 26#^26-15|26.15n.]] ^27-3
 
 **[[NRSVue Matthew 27#^27-4|4]]:** *Innocent blood*, see [[Torah 50 - Ki Tavo#^27-25|Deut 27.25]]; [[Jeremiah 19#^19-4|Jer 19.4]]. Judas (27.4), Jewish leaders (26.59), Pilate (27.23–25), Pilate’s wife (27.19), crowds (27.18), and the centurion (27.54) proclaim Jesus’ righteousness and innocence. ^27-4
 
@@ -37,7 +37,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-11|11]]:** *King of the Jews*, Pilate would view a Jewish “king” as a threat to the Empire. ^27-11-2
 
-**[[NRSVue Matthew 27#^27-14|14]]:** *Gave him no answer*, see 26.63n.; [[1 Timothy 06#^6-13|1 Tim 6.13]]. ^27-14
+**[[NRSVue Matthew 27#^27-14|14]]:** *Gave him no answer*, see [[JANT Matthew 26#^26-63|26.63n.]]; [[1 Timothy 06#^6-13|1 Tim 6.13]]. ^27-14
 
 **[[NRSVue Matthew 27#^27-15|15]]:** *Release a prisoner*, Rome sometimes released prisoners but not those “plainly worthy of death” (Josephus, *Ant*. 20.215; cf. *m. Pesah.* 8.6). ^27-15
 
@@ -49,7 +49,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-24|24]]:** *Washed his hands*, mentioned only by Matthew. The ritual is linked to purification or redemption ([[Torah 48 - Shoftim#^21-1|Deut 21.1]]**–**9; [[Psalms 026#^26-6|Ps 26.6]]; [[Psalms 073#^73-13|73.13]]). Pilate, failing to uphold justice, is complicit in Jesus’ execution. ^27-24
 
-**[[NRSVue Matthew 27#^27-25|25]]:** *His blood be on us and our children*, this unique Matthean verse resulted in Christians, throughout the generations, blaming Jews for Jesus’ or *this righteous man’s blood* death (see 21.37-39nn.). Matthew’s first readers likely related the verse to the Jerusalem population, killed or enslaved by the Romans as result of the First Revolt against Rome in 66**–**70 CE. Early followers of Jesus may have viewed the devastation as punishment for condemning Jesus. ^27-25
+**[[NRSVue Matthew 27#^27-25|25]]:** *His blood be on us and our children*, this unique Matthean verse resulted in Christians, throughout the generations, blaming Jews for Jesus’ or *this righteous man’s blood* death (see [[Matthew 21#^21-37|21.37-39]]nn.). Matthew’s first readers likely related the verse to the Jerusalem population, killed or enslaved by the Romans as result of the First Revolt against Rome in 66**–**70 CE. Early followers of Jesus may have viewed the devastation as punishment for condemning Jesus. ^27-25
 
 ### 27.27–54: The Crucifixion
 
@@ -69,31 +69,31 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-35|35]]:** *Divided his clothes*, [[Psalms 022#^22-19|Ps 22.18]]. ^27-35
 
-**[[NRSVue Matthew 27#^27-38|38]]:** *Two bandits*, see 20.21n. ^27-38
+**[[NRSVue Matthew 27#^27-38|38]]:** *Two bandits*, see [[JANT Matthew 20#^20-21|20.21n.]] ^27-38
 
-**[[NRSVue Matthew 27#^27-39|39]]:** *Derided him* (lit., “blasphemed him”), 9.3n.; [[Psalms 022#^22-8|Ps 22.7–8]]; 109.25. ^27-39
+**[[NRSVue Matthew 27#^27-39|39]]:** *Derided him* (lit., “blasphemed him”), [[JANT Matthew 09#^9-3|9.3n.]]; [[Psalms 022#^22-8|Ps 22.7–8]]; 109.25. ^27-39
 
-**[[NRSVue Matthew 27#^27-40|40]]:** *Destroy the temple*, see 1.11n., 23.38n., 24.1–2n. *If you are the Son of God*, recalls the devil’s challenge (4.3,5; see also 26.61). ^27-40
+**[[NRSVue Matthew 27#^27-40|40]]:** *Destroy the temple*, see [[JANT Matthew 01#^1-11|1.11n.]], [[JANT Matthew 23#^23-38|23.38n.]], [[JANT Matthew 24#^24-1-2|24.1–2n.]] *If you are the Son of God*, recalls the devil’s challenge (4.3,5; see also [[Matthew 26#^26-61|26.61]]). ^27-40
 
 **[[NRSVue Matthew 27#^27-46|46]]:** *Eli, Eli, lema sabachthani*, see [[Psalms 022#^22-2|Ps 22.1]]. The first two words are in Hebrew, possibly to recall the familiar Hebrew psalm, followed by Aramaic, the vernacular of the period; the psalm, which informs much of the description of the crucifixion, ends on a triumphal note. ^27-46
 
-**[[NRSVue Matthew 27#^27-47|47]]:** *Elijah* (Heb “Eli-ya-hu”), the prophet expected to announce the messianic age (11.14–15n.). According to rabbinic tradition, Elijah aids the righteous in their time of need *(b. Avod. Zar.* 17b; *b. Taʾan.* 21a). ^27-47
+**[[NRSVue Matthew 27#^27-47|47]]:** *Elijah* (Heb “Eli-ya-hu”), the prophet expected to announce the messianic age ([[JANT Matthew 11#^11-14|11.14–15n.]]). According to rabbinic tradition, Elijah aids the righteous in their time of need *(b. Avod. Zar.* 17b; *b. Taʾan.* 21a). ^27-47
 
 **[[NRSVue Matthew 27#^27-51|51–53]]:** See [[Torah 19 - Terumah#^26-31|Ex 26.31–35]]; [[Hebrews 09#^9-8|Heb 9.8]]; *had been spoken through the prophet might be fulfilled, “They divided my clothes among themselves, and for my clothing they cast lots.”* c Or *blasphemed* d Or *is he unable to save himself?* e Or *earth* f Other ancient authorities add *And another took a spear and pierced his side, and out came water and blood* 10.19. ^27-51
 
 **[[NRSVue Matthew 27#^27-48|48]]:** *Sour wine*, see [[Psalms 069#^69-22|Ps 69.21]]. ^27-48
 
-**[[NRSVue Matthew 27#^27-51|51]]:** *Curtain of the temple was torn in two,* could symbolize the Temple’s destruction, Jesus’ role as the “forgiver of sins” and the “Divine Presence,” thereby replacing the Temple (12.6; 21.12–13n.; 23.38n.; see also 1.23; 18.20; 28.20; cf. *Acts Pil*. 11.1), or divine mourning. *Earth shook*, Gk “seismos,” lit., “earthquake” (see 8.24n.; 24.7; 28.2; see also [[Judges 05#^5-4|Judg 5.4]]; [[Isaiah 24#^24-19|Isa 24.19–22]]; [[Isaiah 29#^29-6|29.6]]; [[Psalms 018#^18-7|Ps 18.6–8]]; [[Revelation 06#^6-12|Rev 6.12]]; [[Revelation 08#^8-5|8.5]]; [[Revelation 11#^11-13|11.13]],[[Revelation 11#^11-19|19]]). No non-Christian sources record these events; the emphasis here is on theology (rather than on a geological event). ^27-51-2
+**[[NRSVue Matthew 27#^27-51|51]]:** *Curtain of the temple was torn in two,* could symbolize the Temple’s destruction, Jesus’ role as the “forgiver of sins” and the “Divine Presence,” thereby replacing the Temple (12.6; [[JANT Matthew 21#^21-12-2|21.12–13n.]]; [[JANT Matthew 23#^23-38|23.38n.]]; see also [[Matthew 01#^1-23|1.23]]; [[Matthew 18#^18-20|18.20]]; [[Matthew 28#^28-20|28.20]]; cf. *Acts Pil*. 11.1), or divine mourning. *Earth shook*, Gk “seismos,” lit., “earthquake” (see [[JANT Matthew 08#^8-24|8.24n.]]; [[Matthew 24#^24-7|24.7]]; [[Matthew 28#^28-2|28.2]]; see also [[Judges 05#^5-4|Judg 5.4]]; [[Isaiah 24#^24-19|Isa 24.19–22]]; [[Isaiah 29#^29-6|29.6]]; [[Psalms 018#^18-7|Ps 18.6–8]]; [[Revelation 06#^6-12|Rev 6.12]]; [[Revelation 08#^8-5|8.5]]; [[Revelation 11#^11-13|11.13]],[[Revelation 11#^11-19|19]]). No non-Christian sources record these events; the emphasis here is on theology (rather than on a geological event). ^27-51-2
 
 **[[NRSVue Matthew 27#^27-52|52]]:** *Saints,* Gk “hagioi,” lit., “holy ones.” *Were raised*, many Jews expected a general resurrection as part of the messianic age ([[John 11#^11-24|Jn 11.24]]). ^27-52
 
-**[[NRSVue Matthew 27#^27-54|54]]:** *Centurion*, see 8.8,10nn. ^27-54
+**[[NRSVue Matthew 27#^27-54|54]]:** *Centurion*, see [[Matthew 08#^8-8|8.8]],[[Matthew 08#^8-10|10]]nn. ^27-54
 
 ### 27.55–56: Women witnesses
 
 *[[NRSVue Matthew 27#^27-55|Text]], p. 65* ^27-55
 
-**[[NRSVue Matthew 27#^27-55|55]]:** *Provided for him*, women served as patrons ([[Luke 08#^8-1|Lk 8.1–3]]). Matthew mentions women followers by name for the first time (27.61). *Mary Magdalene*, Magdala, also known as Tarichaea, village in Galilee known for processing fish. *Mary the mother of James and Joseph*, otherwise unknown. *Mother of the sons of Zebedee*, see 20.20n. **27**. ^27-55-2
+**[[NRSVue Matthew 27#^27-55|55]]:** *Provided for him*, women served as patrons ([[Luke 08#^8-1|Lk 8.1–3]]). Matthew mentions women followers by name for the first time (27.61). *Mary Magdalene*, Magdala, also known as Tarichaea, village in Galilee known for processing fish. *Mary the mother of James and Joseph*, otherwise unknown. *Mother of the sons of Zebedee*, see [[JANT Matthew 20#^20-20-2|20.20n.]] **27**. ^27-55-2
 
 **[[NRSVue Matthew 27#^27-57|57–61]]:** Jesus’ entombment ([[Mark 15#^15-42|Mk 15.42–47]]; [[Luke 23#^23-50|Lk 23.50–56]]; [[John 19#^19-38|Jn 19.38–42]]). ^27-57
 

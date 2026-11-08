@@ -30,7 +30,7 @@ Text: [[NRSVue Acts 26|NRSVue]] · [[Acts 26|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 26#^26-9|9–11]]:** Unlike previous reports (9.1–2; 22.4–5), Paul describes his actions against believers in Jesus as widespread and aggressive. ^26-9-2
 
-**[[NRSVue Acts 26#^26-10|10]]:** *Saints*, see 9.13n. ^26-10
+**[[NRSVue Acts 26#^26-10|10]]:** *Saints*, see [[JANT Acts 09#^9-13|9.13n.]] ^26-10
 
 **[[NRSVue Acts 26#^26-14|14]]:** *In the Hebrew language*, a detail not mentioned previously. *It hurts you to kick against the goads*, not previously quoted, depicting Paul as resisting the pressure of God’s plan by comparing him to a draft animal kicking the stick used to move it in the desired direction. The saying is frequently attested in Greek literature (e.g., Euripides, *Bacc.* 795). ^26-14
 
@@ -40,7 +40,7 @@ Text: [[NRSVue Acts 26|NRSVue]] · [[Acts 26|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 26#^26-21|21]]:** See 21.27–36. ^26-21
 
-**[[NRSVue Acts 26#^26-22|22]]:** Paul’s claim that his instruction comes from the prophets and Moses authenticates his status as a Jew (24.14–16) and establishes the Christian message as consistent with biblical teaching. On *prophets and Moses*, see 24.14n. ^26-22
+**[[NRSVue Acts 26#^26-22|22]]:** Paul’s claim that his instruction comes from the prophets and Moses authenticates his status as a Jew (24.14–16) and establishes the Christian message as consistent with biblical teaching. On *prophets and Moses*, see [[JANT Acts 24#^24-14|24.14n.]] ^26-22
 
 **[[NRSVue Acts 26#^26-23|23]]:** *Messiah must suffer*, Christian understanding of messianic identity; see 3.18,21–25; 8.32–35; 9.16; 17.3; [[Luke 02#^2-49|Lk 2.49]]; [[Luke 24#^24-7|24.7]],[[Luke 24#^24-26|26]],[[Luke 24#^24-46|46]]). *Light*, see v 18. ^26-23
 

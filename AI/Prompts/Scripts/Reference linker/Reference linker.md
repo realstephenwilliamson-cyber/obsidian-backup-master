@@ -5,7 +5,7 @@ phase: 7
 ---
 # Reference linker
 
-The script that linked 21,149 scripture, Zohar, Tantrāloka and Avot references inside the converted books on 13 Oct 2026 (phase 6, "B3"), and 21,365 in the texts added on 12–13 Oct (phase 7: Hobbes, the *Summa*, Chrysostom and Origen on John, the JANT). Kept here so the routine prompt [[Map new connections]] and later phases can reuse it instead of writing a new one. Zohar folio references have their own script since 26 Oct 2026: [[Zohar linker]], in `Zohar/`.
+The script that linked 21,149 scripture, Zohar, Tantrāloka and Avot references inside the converted books on 13 Oct 2026 (phase 6, "B3"), and 21,365 in the texts added on 12–13 Oct (phase 7: Hobbes, the *Summa*, Chrysostom and Origen on John, the JANT). Kept here so the routine prompt [[Map new connections]] and later phases can reuse it instead of writing a new one. Zohar folio references have their own script since 26 Oct 2026: [[Zohar linker]], in `Zohar/`. The JANT references whose targets this script did not handle (4 Ezra, *m. Avot*, verse-only references to one-chapter books, the JANT's own `1.10n.` notes) were linked on 7 Nov 2026 by `JANT/jantlinks.py` ([[JANT links README (7 Nov 2026)]]).
 
 ## Files
 

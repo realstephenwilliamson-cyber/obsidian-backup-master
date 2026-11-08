@@ -22,15 +22,15 @@ Text: [[NRSVue Matthew 18|NRSVue]] · [[Matthew 18|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 18#^18-6|18.6–9]]:** **Stumbling blocks.** ^18-6
 
-**[[NRSVue Matthew 18#^18-6|6]]:** See 16.23n. ^18-6-2
+**[[NRSVue Matthew 18#^18-6|6]]:** See [[JANT Matthew 16#^16-23|16.23n.]] ^18-6-2
 
-**[[NRSVue Matthew 18#^18-8|8]]:** *Cut it off*, see 5.29–30n. ^18-8
+**[[NRSVue Matthew 18#^18-8|8]]:** *Cut it off*, see [[JANT Matthew 05#^5-29|5.29–30n.]] ^18-8
 
 ### 18.10–14: The lost sheep
 
 *[[NRSVue Matthew 18#^18-10|Text]], p. 44* · ([[Luke 15#^15-3|Lk 15.3–7]]). See *Gos. Thom*. 107. ^18-10
 
-**[[NRSVue Matthew 18#^18-10|10]]:** *Angels*, see 4.11n. ^18-10-2
+**[[NRSVue Matthew 18#^18-10|10]]:** *Angels*, see [[JANT Matthew 04#^4-11|4.11n.]] ^18-10-2
 
 **[[NRSVue Matthew 18#^18-12|12–13]]:** *One of them has gone astray*, every community member is important ([[Ezekiel 34#^34-11|Ezek 34.11–22]]; [[1 Timothy 02#^2-4|1 Tim 2.4–5]]; [[2 Peter 03#^3-9|2 Pet 3.9]]). ^18-12
 
@@ -38,25 +38,25 @@ Text: [[NRSVue Matthew 18|NRSVue]] · [[Matthew 18|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 18#^18-15|Text]], p. 44* ^18-15
 
-**[[NRSVue Matthew 18#^18-15|15]]:** [[Luke 17#^17-1|Lk 17.1–4]]. Rabbinic sources state that people who shame others could be excluded from the world to come (*m. Avot* 3.11; *b. Sanh.* [[Sanhedrin 107#107a|107a]]). ^18-15-2
+**[[NRSVue Matthew 18#^18-15|15]]:** [[Luke 17#^17-1|Lk 17.1–4]]. Rabbinic sources state that people who shame others could be excluded from the world to come (*m. Avot* [[Pirkei Avot 03#^3-11|3.11]]; *b. Sanh.* [[Sanhedrin 107#107a|107a]]). ^18-15-2
 
 **[[NRSVue Matthew 18#^18-16|16]]:** *Two or three witnesses*, See [[Torah 48 - Shoftim#^17-6|Deut 17.6–7]]; [[Torah 48 - Shoftim#^19-15|19.15]]; cf. *t. Sanh*. 8.3. ^18-16
 
 **[[NRSVue Matthew 18#^18-17|17]]:** *Gentile and a tax collector*, people requiring evangelization. ^18-17
 
-**[[NRSVue Matthew 18#^18-18|18]]:** *Bind . . . loose*, see 16.19n. ^18-18
+**[[NRSVue Matthew 18#^18-18|18]]:** *Bind . . . loose*, see [[JANT Matthew 16#^16-19|16.19n.]] ^18-18
 
-**[[NRSVue Matthew 18#^18-20|20]]:** *Two or three are gathered*, the Divine (Heb “shekhinah”) is present when people study Torah together (*m. Avot* 3.2,6). *of Man came to save the lost* c Other ancient authorities read *my* d Gk *If your brother* e Other ancient authorities lack *against you* f Gk *the brother* ^18-20
+**[[NRSVue Matthew 18#^18-20|20]]:** *Two or three are gathered*, the Divine (Heb “shekhinah”) is present when people study Torah together (*m. Avot* [[Pirkei Avot 03#^3-2|3.2]],[[Pirkei Avot 03#^3-6|6]]). *of Man came to save the lost* c Other ancient authorities read *my* d Gk *If your brother* e Other ancient authorities lack *against you* f Gk *the brother* ^18-20
 
 ### 18.21–22: Forgiveness
 
 *[[NRSVue Matthew 18#^18-21|Text]], p. 45* ^18-21
 
-**[[NRSVue Matthew 18#^18-21|21]]:** *Church,* see 16.18n. *Seven times*, rabbinic sources indicate that one is only required to seek forgiveness three times (e.g., *b. Yoma* [[Yoma 86#86b|86b]]–87a), but that the one approached should also forgive, e.g., *b. Taʾan*. 20a: “One should be pliant as a reed, not hard like the cedar in granting forgiveness”; “All who act mercifully toward their fellows will be treated mercifully by Heaven, and all who do not act mercifully toward their fellow creatures will not be treated mercifully by Heaven” (*b. Shabb*. [[Shabbat 151#151b|151b]]; see also *b. Rosh Ha-Shanah* [[Rosh Hashanah 17#17a|17a]]; *b. Meg.* [[Megillah 28#28a|28a]]). ^18-21-2
+**[[NRSVue Matthew 18#^18-21|21]]:** *Church,* see [[JANT Matthew 16#^16-18|16.18n.]] *Seven times*, rabbinic sources indicate that one is only required to seek forgiveness three times (e.g., *b. Yoma* [[Yoma 86#86b|86b]]–87a), but that the one approached should also forgive, e.g., *b. Taʾan*. 20a: “One should be pliant as a reed, not hard like the cedar in granting forgiveness”; “All who act mercifully toward their fellows will be treated mercifully by Heaven, and all who do not act mercifully toward their fellow creatures will not be treated mercifully by Heaven” (*b. Shabb*. [[Shabbat 151#151b|151b]]; see also *b. Rosh Ha-Shanah* [[Rosh Hashanah 17#17a|17a]]; *b. Meg.* [[Megillah 28#28a|28a]]). ^18-21-2
 
 **[[NRSVue Matthew 18#^18-22|22]]:** *Seventy-seven times*, the same phrasing as [[LXX Genesis 04#^4-24|Gen 4.24]] \[LXX\], which mentions fratricide. Matthew’s phrasing may contrast an ancient blood feud with the intimacy of Jesus’ community. ^18-22
 
-**[[NRSVue Matthew 18#^18-23|18.23–35]]:** **Parable of the unforgiving servant.** See [[Luke 07#^7-41|Lk 7.41–43]]; see also [[LXX Sirach 28#^28-1|Sir 28.1–5]] that speaks of forgiving one’s neighbor in order to be forgiven. This parable appears only in Matthew’s Gospel. Although Matthew references wealth frequently, “talents” here refer to spiritual goods. Speaking of sin as debt is already present in Aramaic-speaking Judaism, where Aram “ḥob” connotes both terms. See also 6.12; [[Luke 11#^11-4|Lk 11.4]]. Debt is also linked to sin in [[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. 85.2; 92.9; etc. ^18-23
+**[[NRSVue Matthew 18#^18-23|18.23–35]]:** **Parable of the unforgiving servant.** See [[Luke 07#^7-41|Lk 7.41–43]]; see also [[LXX Sirach 28#^28-1|Sir 28.1–5]] that speaks of forgiving one’s neighbor in order to be forgiven. This parable appears only in Matthew’s Gospel. Although Matthew references wealth frequently, “talents” here refer to spiritual goods. Speaking of sin as debt is already present in Aramaic-speaking Judaism, where Aram “ḥob” connotes both terms. See also [[Matthew 06#^6-12|6.12]]; [[Luke 11#^11-4|Lk 11.4]]. Debt is also linked to sin in [[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. 85.2; 92.9; etc. ^18-23
 
 **[[NRSVue Matthew 18#^18-23|23]]:** *King*, traditionally interpreted as God; the allegorical connection between God and “king” also appears in rabbinic sources (e.g., *t. Ber*. 6.18; *t. B. Kamma* 7.2; *b. Ber*. [[Berakhot 33#33b|33b]], *b. Hag*. [[Chagigah 16#16a|16a]]). ^18-23-2
 

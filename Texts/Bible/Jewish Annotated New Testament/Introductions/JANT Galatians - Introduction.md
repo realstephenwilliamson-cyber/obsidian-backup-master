@@ -17,7 +17,7 @@ The Roman Province of Galatia in central Asia Minor (modern Turkey) extended fro
 
 ## Structure
 
-Following an autobiographical defense of his views, Paul forthrightly states his thesis: “a person is justified not by works of law but through faith in Jesus Christ” (2.16, see also 2.21; 3.2; 5.2). To clarify this opposition between works and faith, Paul then appeals to other oppositions: flesh vs. spirit (3.3; 4.29; 5.16–25; 6.8), flesh vs. promise (4.23), slave vs. free (4.23,30), present Jerusalem vs. heavenly Jerusalem (4.26). Paul’s point is that faith, at least for Gentiles, replaces Torah piety (5.2) as the means for becoming righteous before God.
+Following an autobiographical defense of his views, Paul forthrightly states his thesis: “a person is justified not by works of law but through faith in Jesus Christ” (2.16, see also [[Galatians 02#^2-21|2.21]]; [[Galatians 03#^3-2|3.2]]; [[Galatians 05#^5-2|5.2]]). To clarify this opposition between works and faith, Paul then appeals to other oppositions: flesh vs. spirit (3.3; 4.29; 5.16–25; 6.8), flesh vs. promise (4.23), slave vs. free (4.23,30), present Jerusalem vs. heavenly Jerusalem (4.26). Paul’s point is that faith, at least for Gentiles, replaces Torah piety (5.2) as the means for becoming righteous before God.
 
 ## Interpretation
 

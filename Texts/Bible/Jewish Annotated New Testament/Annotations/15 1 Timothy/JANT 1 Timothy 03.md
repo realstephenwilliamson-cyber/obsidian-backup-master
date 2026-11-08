@@ -22,7 +22,7 @@ Text: [[NRSVue 1 Timothy 03|NRSVue]] · [[1 Timothy 03|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 03#^3-4|4]]:** *Manage his own household*, the church is the household of God. *Submissive* (Gk “hypotagē,” “under subjection”), subordinate to the parent. ^3-4
 
-**[[NRSVue 1 Timothy 03#^3-6|6]]:** *Recent convert*, Gk “neophyton” (whence “neophyte”), a new planting. *Puffed up*, Pauline language ([[1 Corinthians 04#^4-6|1 Cor 4.6]]; [[1 Corinthians 08#^8-1|8.1]]); see also [[LXX 2 Maccabees 07#^7-34|2 Macc 7.34]]; [[LXX 3 Maccabees 02#^2-2|3 Macc 2.2]]. *Devil*, see [[LXX Wisdom of Solomon 02#^2-24|Wis 2.24]]; often interchanged with “Satan”; see 1.20n. (1.20; 5.15). ^3-6
+**[[NRSVue 1 Timothy 03#^3-6|6]]:** *Recent convert*, Gk “neophyton” (whence “neophyte”), a new planting. *Puffed up*, Pauline language ([[1 Corinthians 04#^4-6|1 Cor 4.6]]; [[1 Corinthians 08#^8-1|8.1]]); see also [[LXX 2 Maccabees 07#^7-34|2 Macc 7.34]]; [[LXX 3 Maccabees 02#^2-2|3 Macc 2.2]]. *Devil*, see [[LXX Wisdom of Solomon 02#^2-24|Wis 2.24]]; often interchanged with “Satan”; see [[JANT 1 Timothy 01#^1-20|1.20n.]] (1.20; 5.15). ^3-6
 
 **[[NRSVue 1 Timothy 03#^3-7|7]]:** *Well thought of*, lit., “a good witness” (Gk “kalēn martyrian”). *By outsiders*, those not members of the community; the letter has more of a concern for reputation than for evangelizing. ^3-7
 
@@ -34,8 +34,8 @@ Text: [[NRSVue 1 Timothy 03|NRSVue]] · [[1 Timothy 03|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 03#^3-11|11]]:** *Women*, it is possible the writer means “women deacons”; see translators’ note *a*. See also [[Romans 16#^16-1|Rom 16.1]]. ^3-11
 
-**[[NRSVue 1 Timothy 03#^3-12|12]]:** *Married only once*, see 3.2n. ^3-12
+**[[NRSVue 1 Timothy 03#^3-12|12]]:** *Married only once*, see [[JANT 1 Timothy 03#^3-2|3.2n.]] ^3-12
 
-**[[NRSVue 1 Timothy 03#^3-15|15]]:** *Household . . . church*, behavior should be consistent no matter where the believer happens to be. **16**: *Mystery*, see 3.9n. *Religion*, lit., “good (or proper) reverence” (Gk “eusebeia”). *Revealed*. . . *glory*, perhaps another fragment of an early creedal formula; see 1.5–6. It expresses the teaching conveyed to members of the community when they are initiated. *Vindicated in spirit*, or “justified by the Spirit” (see translators’ notes *d* and *e*): either proved worthy by resurrection or shown to be right by the manifestation of the Spirit among believers. *Taken up*, perhaps a reference to the ascension ([[Luke 24#^24-51|Lk 24.51]]; [[Acts 01#^1-10|Acts 1.10]]). ^3-15
+**[[NRSVue 1 Timothy 03#^3-15|15]]:** *Household . . . church*, behavior should be consistent no matter where the believer happens to be. **16**: *Mystery*, see [[JANT 1 Timothy 03#^3-9|3.9n.]] *Religion*, lit., “good (or proper) reverence” (Gk “eusebeia”). *Revealed*. . . *glory*, perhaps another fragment of an early creedal formula; see 1.5–6. It expresses the teaching conveyed to members of the community when they are initiated. *Vindicated in spirit*, or “justified by the Spirit” (see translators’ notes *d* and *e*): either proved worthy by resurrection or shown to be right by the manifestation of the Spirit among believers. *Taken up*, perhaps a reference to the ascension ([[Luke 24#^24-51|Lk 24.51]]; [[Acts 01#^1-10|Acts 1.10]]). ^3-15
 
 [[JANT 1 Timothy 02|← 1 Timothy 2]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Timothy 04|1 Timothy 4 →]]

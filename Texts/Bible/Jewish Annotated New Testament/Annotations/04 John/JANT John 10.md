@@ -30,7 +30,7 @@ Text: [[NRSVue John 10|NRSVue]] · [[John 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 10#^10-7|7]]:** *I am the gate*, the figure changes from shepherd to the one who is the means by which sheep are brought in. ^10-7
 
-**[[NRSVue John 10#^10-8|8]]:** *Thieves . . . bandits*, see 10.1n. ^10-8
+**[[NRSVue John 10#^10-8|8]]:** *Thieves . . . bandits*, see [[JANT John 10#^10-1-2|10.1n.]] ^10-8
 
 **[[NRSVue John 10#^10-10|10]]:** *Life . . . abundantly*, eternal life. ^10-10
 
@@ -50,10 +50,10 @@ Text: [[NRSVue John 10|NRSVue]] · [[John 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 10#^10-33|33]]:** *Making yourself God*, see v 30. The Johannine Jesus would insist that it is God and not Jesus himself who has made him anything at all. ^10-33
 
-**[[NRSVue John 10#^10-34|34]]:** *Your law*, see 8.17n. “Law” can refer not only to the Torah but also to other writings, such as Psalms, that became part of the Jewish canon. *I said, you are gods*, [[Psalms 082#^82-6|Ps 82.6]]. [[Psalms 082#^82-6|Ps 82.6–7]] reads: “I say, ‘You are gods, children of the Most High, all of you; nevertheless, you shall die like mortals, and fall like any prince.’ ” While the Psalm is referring to judges as “gods,” Jesus uses this verse to counter the charge that he has blasphemed: if mortals such as judges can be called gods, why is it blasphemy for Jesus, or others, to call him God? ^10-34
+**[[NRSVue John 10#^10-34|34]]:** *Your law*, see [[JANT John 08#^8-17|8.17n.]] “Law” can refer not only to the Torah but also to other writings, such as Psalms, that became part of the Jewish canon. *I said, you are gods*, [[Psalms 082#^82-6|Ps 82.6]]. [[Psalms 082#^82-6|Ps 82.6–7]] reads: “I say, ‘You are gods, children of the Most High, all of you; nevertheless, you shall die like mortals, and fall like any prince.’ ” While the Psalm is referring to judges as “gods,” Jesus uses this verse to counter the charge that he has blasphemed: if mortals such as judges can be called gods, why is it blasphemy for Jesus, or others, to call him God? ^10-34
 
 **[[NRSVue John 10#^10-39|39]]:** *Arrest him again*, previous attempts were in 7.30,32,44. ^10-39
 
-**[[NRSVue John 10#^10-41|41–42]]:** *John*, the Baptist’s testimony cited as corroborating Jesus’ claims (see 1.19–28; 3.27–30). ^10-41
+**[[NRSVue John 10#^10-41|41–42]]:** *John*, the Baptist’s testimony cited as corroborating Jesus’ claims (see [[John 01#^1-19|1.19–28]]; [[John 03#^3-27|3.27–30]]). ^10-41
 
 [[JANT John 09|← John 9]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT John 11|John 11 →]]

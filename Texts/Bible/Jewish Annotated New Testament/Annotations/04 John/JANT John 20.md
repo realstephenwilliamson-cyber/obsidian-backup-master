@@ -30,11 +30,11 @@ Text: [[NRSVue John 20|NRSVue]] · [[John 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 20#^20-11|11]]:** The language echoes [[Song of Songs 2#^2-9|Song 2.9]]. The reference to searching for a loved one but failing to find him is parallel to [[Song of Songs 3#^3-1|Song 3.1–4]] and 5.2–8; Mary’s turning twice to face Jesus in 20.14,16 links the story to [[Song of Songs 2#^2-17|Song 2.17]]; [[Song of Songs 6#^6-5|6.5]] and especially, 6.14\[LXX 7.1\]. ^20-11
 
-**[[NRSVue John 20#^20-14|14–16]]:** Mary, possibly through tears, recognizes Jesus neither by sight nor by his voice, but she does know him when he speaks her name; see 10.3. This may be a hint at his transformed appearance, or simply reflect the commonplace experience that it can be difficult to recognize a person whom we are not expecting to see. See also 6.20,21, and 21.5. ^20-14
+**[[NRSVue John 20#^20-14|14–16]]:** Mary, possibly through tears, recognizes Jesus neither by sight nor by his voice, but she does know him when he speaks her name; see 10.3. This may be a hint at his transformed appearance, or simply reflect the commonplace experience that it can be difficult to recognize a person whom we are not expecting to see. See also [[John 06#^6-20|6.20]],[[John 06#^6-21|21]], and 21.5. ^20-14
 
 **[[NRSVue John 20#^20-15|15]]:** *Woman*, signaling that Jesus is about to impart a revelation. *Whom are you looking for*, echoes 1.38. ^20-15
 
-**[[NRSVue John 20#^20-17|17]]:** *Do not hold*, it is not clear whether Jesus is asking Mary to let go of him, or warning her not to touch him; see [[Song of Songs 3#^3-4|Song 3.4]]. *Ascended*, see 14.3; 16.10. Jesus leaves both to return to the Father and to prepare to receive his followers. ^20-17
+**[[NRSVue John 20#^20-17|17]]:** *Do not hold*, it is not clear whether Jesus is asking Mary to let go of him, or warning her not to touch him; see [[Song of Songs 3#^3-4|Song 3.4]]. *Ascended*, see [[John 14#^14-3|14.3]]; 16.10. Jesus leaves both to return to the Father and to prepare to receive his followers. ^20-17
 
 ### 20.18–29: Appearances to the disciples
 
@@ -42,7 +42,7 @@ Text: [[NRSVue John 20|NRSVue]] · [[John 20|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 20#^20-19|19]]:** *Fear of the Jews*, a recurrent theme (7.13; 19.38) relating to Jesus’ prediction that his followers will be persecuted just as he was (16.2–3). *Peace be with you*, traditional Jewish greeting (see Tob 12.47). ^20-19
 
-**[[NRSVue John 20#^20-22|22]]:** *He breathed on them,* giving them new life (see 3.5; [[Torah 01 - Bereshit#^2-7|Gen 2.7]]). *Spirit*, alluding to the Paraclete (14.16,26; 15.26; 16.7; cf. Acts 2). ^20-22
+**[[NRSVue John 20#^20-22|22]]:** *He breathed on them,* giving them new life (see [[John 03#^3-5|3.5]]; [[Torah 01 - Bereshit#^2-7|Gen 2.7]]). *Spirit*, alluding to the Paraclete (14.16,26; 15.26; 16.7; cf. Acts 2). ^20-22
 
 **[[NRSVue John 20#^20-23|23]]:** *Forgive . . . retain*, Jesus delegates authority to the disciples; see also [[Matthew 16#^16-19|Mt 16.19]]; [[Matthew 18#^18-18|18.18]]. ^20-23
 

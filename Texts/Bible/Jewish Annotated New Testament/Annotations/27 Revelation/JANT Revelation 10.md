@@ -16,7 +16,7 @@ Text: [[NRSVue Revelation 10|NRSVue]] · [[Revelation 10|BSB and SBLGNT]] · Int
 
 *[[NRSVue Revelation 10#^10-1|Text]], p. 555* · The *mighty angel*\[’s\] descent to declare the imminence of the seventh trumpet serves to draw out the completion of the eschatological catastrophes. ^10-1
 
-**[[NRSVue Revelation 10#^10-1|1–3]]:** *Cloud* and *seven thunders*, traditional images of storm theophanies (see [[Psalms 018#^18-7|Ps 18.6–15]]; 29), suggestive also of the pillars of cloud and fire of [[Torah 16 - Beshalach#^13-21|Ex 13.21–23]]. The angel straddles *land* and *sea* to signify God’s dominion and judgment over both zones (see 10.6; 20.13). ^10-1-2
+**[[NRSVue Revelation 10#^10-1|1–3]]:** *Cloud* and *seven thunders*, traditional images of storm theophanies (see [[Psalms 018#^18-7|Ps 18.6–15]]; 29), suggestive also of the pillars of cloud and fire of [[Torah 16 - Beshalach#^13-21|Ex 13.21–23]]. The angel straddles *land* and *sea* to signify God’s dominion and judgment over both zones (see [[Revelation 10#^10-6|10.6]]; [[Revelation 20#^20-13|20.13]]). ^10-1-2
 
 **[[NRSVue Revelation 10#^10-4|4]]:** What John was to transcribe is unclear; it may be related to the revelation of *the mystery of God* (v 7). ^10-4
 

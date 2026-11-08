@@ -38,7 +38,7 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 01#^1-11|Text]], p. 109* ^1-11
 
-**[[NRSVue Luke 01#^1-11|11]]:** *Angel*, heavenly messengers (see 1.7n.) gained distinct personalities in postbiblical Jewish texts. ^1-11-2
+**[[NRSVue Luke 01#^1-11|11]]:** *Angel*, heavenly messengers (see [[JANT Luke 01#^1-7|1.7n.]]) gained distinct personalities in postbiblical Jewish texts. ^1-11-2
 
 **[[NRSVue Luke 01#^1-13|13]]:** *Afraid*, common response to an appearance of an angel or divinity. *Prayer has been heard*, suggesting that Zechariah had prayed for a child. *You will name him*, see [[Torah 03 - Lech Lecha#^16-11|Gen 16.11]]; [[Torah 03 - Lech Lecha#^17-19|17.19]]; see also [[Luke 01#^1-31|Lk 1.31]]. *John* (Heb “Yoḥanan”), “YHWH is gracious,” a name attested in [[Jeremiah 40#^40-8|Jer 40.8]] and increasingly in later Jewish texts. ^1-13
 
@@ -66,7 +66,7 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 01#^1-26|Text]], p. 110* ^1-26
 
-**[[NRSVue Luke 01#^1-26|26]]:** *Sixth month*, after John’s conception. In contrast to dating according to political leaders (1.5; 3.1), Luke now prioritizes the dates of pregnancy. *Gabriel*, see 1.19n. *Galilee*, northern Israel. *Nazareth*, a small village ([[John 01#^1-46|Jn 1.46]]) in southern Galilee, unattested in first-century literature outside the NT. Although Matthew and Luke locate Jesus’ birth in Bethlehem ([[Matthew 02#^2-6|Mt 2.6]] specifies Judea), Jesus was known as being from Nazareth (see, e.g., [[John 01#^1-46|Jn 1.46]]). ^1-26-2
+**[[NRSVue Luke 01#^1-26|26]]:** *Sixth month*, after John’s conception. In contrast to dating according to political leaders (1.5; 3.1), Luke now prioritizes the dates of pregnancy. *Gabriel*, see [[JANT Luke 01#^1-19|1.19n.]] *Galilee*, northern Israel. *Nazareth*, a small village ([[John 01#^1-46|Jn 1.46]]) in southern Galilee, unattested in first-century literature outside the NT. Although Matthew and Luke locate Jesus’ birth in Bethlehem ([[Matthew 02#^2-6|Mt 2.6]] specifies Judea), Jesus was known as being from Nazareth (see, e.g., [[John 01#^1-46|Jn 1.46]]). ^1-26-2
 
 **[[NRSVue Luke 01#^1-27|27]]:** *Virgin* (Gk “parthenos”), Luke emphasizes the term (also v 34), but does not cite [[LXX Isaiah 07#^7-14|Isa 7.14]] \[LXX\] (as does [[Matthew 01#^1-23|Mt 1.23]]). *Engaged*, the wedding contract (“ketubah”) had been signed. *M. Avot* 5.21 sets the ideal marital age for a man at eighteen; Josephus, following Roman norms, married at about thirty. Women usually married in their late teens. *House of David*, one dominant Jewish view was that the Messiah would be David’s descendant ([[II Samuel 07#^7-12|2 Sam 7.12]]). See 20.41–44n. *Mary* (Gk “Mariam”), from Heb “Miryam”; the name, recollecting Moses’ sister Miriam and Herod’s Hasmonean wife Mariamme, was common among first-century Jewish women. ^1-27
 
@@ -74,13 +74,13 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 01#^1-29|29]]:** *Perplexed* (Gk “diatarassō”); NRSV translates the related term (“tarassō”) in 1.12, referring to Zechariah, as “terrified.” ^1-29
 
-**[[NRSVue Luke 01#^1-31|31]]:** *You will name him*, see 1.13n. Jesus, Gk “Iesous,” from Heb “Yehoshua,” “the Lord saves” ([[Matthew 01#^1-21|Mt 1.21]]), common name in the Tanakh (variants include “Joshua” and “Hosea”) and subsequently. ^1-31
+**[[NRSVue Luke 01#^1-31|31]]:** *You will name him*, see [[JANT Luke 01#^1-13|1.13n.]] Jesus, Gk “Iesous,” from Heb “Yehoshua,” “the Lord saves” ([[Matthew 01#^1-21|Mt 1.21]]), common name in the Tanakh (variants include “Joshua” and “Hosea”) and subsequently. ^1-31
 
-**[[NRSVue Luke 01#^1-32|32]]:** *Son of the Most High*, indicating royal authority ([[II Samuel 07#^7-13|2 Sam 7.13–16]]) and rectitude ([[LXX Sirach 04#^4-10|Sir 4.10]]; see also [[Daniel 07#^7-25|Dan 7.25]]); “Most High” translates the Heb “Elyon” (e.g., [[Torah 03 - Lech Lecha#^14-18|Gen 14.18–22]]; [[Psalms 018#^18-14|Ps 18.14]] \[HB\]; 78.35). *Throne of his ancestor David*, see v 27n.; 20.41–44nn.; on the promises to David, see also [[Jeremiah 23#^23-5|Jer 23.5–8]]; Ps 89; *Pss. Sol*. 17.4,6,21; etc. ^1-32
+**[[NRSVue Luke 01#^1-32|32]]:** *Son of the Most High*, indicating royal authority ([[II Samuel 07#^7-13|2 Sam 7.13–16]]) and rectitude ([[LXX Sirach 04#^4-10|Sir 4.10]]; see also [[Daniel 07#^7-25|Dan 7.25]]); “Most High” translates the Heb “Elyon” (e.g., [[Torah 03 - Lech Lecha#^14-18|Gen 14.18–22]]; [[Psalms 018#^18-14|Ps 18.14]] \[HB\]; 78.35). *Throne of his ancestor David*, see [[JANT Luke 01#^1-27|v 27n.]]; 20.41–44nn.; on the promises to David, see also [[Jeremiah 23#^23-5|Jer 23.5–8]]; Ps 89; *Pss. Sol*. 17.4,6,21; etc. ^1-32
 
 **[[NRSVue Luke 01#^1-33|33]]:** *House of Jacob*, synonym for Israel ([[Torah 17 - Yitro#^19-3|Ex 19.3]]; [[Isaiah 46#^46-3|Isa 46.3]]; [[Isaiah 48#^48-1|48.1]]; [[Jeremiah 02#^2-4|Jer 2.4]]; [[Psalms 114#^114-1|Ps 114.1]], and elsewhere). *Kingdom there will be no end*, see [[II Samuel 07#^7-13|2 Sam 7.13]],[[II Samuel 07#^7-16|16]] (Heb “ ʿad ʿolam,” “forever,”) concerning David’s dynasty. ^1-33
 
-**[[NRSVue Luke 01#^1-35|35]]:** *Holy Spirit . . . overshadow*, see 1.15n.; [[Torah 23 - Pekudei#^40-35|Ex 40.35]]. *Son of God*, in 3.38, Adam is a “son of God”; see [[II Samuel 07#^7-14|2 Sam 7.14]]. The term can also refer to divinities, e.g., [[Psalms 029#^29-1|Ps 29.1]]. The virginal conception is explicit only in [[Matthew 01#^1-23|Mt 1.23]]. No Jewish texts regard [[Isaiah 07#^7-14|Isa 7.14]] as predicting the Messiah’s birth or take *Son of God* as indicating anything other than divine adoption ([[II Samuel 07#^7-14|2 Sam 7.14]]; [[Psalms 002#^2-7|Ps 2.7]]; 4QFlor 10–13). ^1-35
+**[[NRSVue Luke 01#^1-35|35]]:** *Holy Spirit . . . overshadow*, see [[JANT Luke 01#^1-15|1.15n.]]; [[Torah 23 - Pekudei#^40-35|Ex 40.35]]. *Son of God*, in 3.38, Adam is a “son of God”; see [[II Samuel 07#^7-14|2 Sam 7.14]]. The term can also refer to divinities, e.g., [[Psalms 029#^29-1|Ps 29.1]]. The virginal conception is explicit only in [[Matthew 01#^1-23|Mt 1.23]]. No Jewish texts regard [[Isaiah 07#^7-14|Isa 7.14]] as predicting the Messiah’s birth or take *Son of God* as indicating anything other than divine adoption ([[II Samuel 07#^7-14|2 Sam 7.14]]; [[Psalms 002#^2-7|Ps 2.7]]; 4QFlor 10–13). ^1-35
 
 **[[NRSVue Luke 01#^1-36|36]]:** *Your relative Elizabeth*, indicating Mary’s priestly ancestry. ^1-36
 
@@ -94,7 +94,7 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 01#^1-39|39]]:** *Judean*, in southern Israel, where Jerusalem is located. ^1-39-2
 
-**[[NRSVue Luke 01#^1-41|41]]:** *Filled with the Holy Spirit*, see 1.15n. ^1-41
+**[[NRSVue Luke 01#^1-41|41]]:** *Filled with the Holy Spirit*, see [[JANT Luke 01#^1-15|1.15n.]] ^1-41
 
 **[[NRSVue Luke 01#^1-43|43]]:** *Lord* (Gk “Kyrios”), here a divine title. ^1-43
 
@@ -106,9 +106,9 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 01#^1-48|48]]:** See [[LXX 1 Kingdoms 01#^1-11|1 Sam 1.11]]\[LXX\]; Mary’s *lowliness* is the same Gk word (“tapeinōsis,” “low estate”) as Hannah’s “misery” (Heb “oni”). ^1-48
 
-**[[NRSVue Luke 01#^1-49|49]]:** *Done great things*, see [[Torah 46 - Eikev#^10-21|Deut 10.21]]. *Holy is his name*, see 11.1n. ^1-49
+**[[NRSVue Luke 01#^1-49|49]]:** *Done great things*, see [[Torah 46 - Eikev#^10-21|Deut 10.21]]. *Holy is his name*, see [[JANT Luke 11#^11-1-2|11.1n.]] ^1-49
 
-**[[NRSVue Luke 01#^1-50|50]]:** *Fear him*, see 12.5n.; [[Proverbs 01#^1-7|Prov 1.7]]. *Generation to generation* (Heb “dor \[le\]ʾdor”), see [[Torah 16 - Beshalach#^17-16|Ex 17.16]]; [[Isaiah 34#^34-10|Isa 34.10]]; [[Psalms 079#^79-13|Ps 79.13]]; *T. Levi* 18.8, and elsewhere. ^1-50
+**[[NRSVue Luke 01#^1-50|50]]:** *Fear him*, see [[JANT Luke 12#^12-5|12.5n.]]; [[Proverbs 01#^1-7|Prov 1.7]]. *Generation to generation* (Heb “dor \[le\]ʾdor”), see [[Torah 16 - Beshalach#^17-16|Ex 17.16]]; [[Isaiah 34#^34-10|Isa 34.10]]; [[Psalms 079#^79-13|Ps 79.13]]; *T. Levi* 18.8, and elsewhere. ^1-50
 
 **[[NRSVue Luke 01#^1-54|54]]:** *Servant Israel*, see [[Isaiah 44#^44-1|Isa 44.1]]; [[Psalms 136#^136-22|Ps 136.22]]; [[I Chronicles 16#^16-13|1 Chr 16.13]]. ^1-54
 
@@ -118,7 +118,7 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 01#^1-59|59]]:** *Circumcise*, sign of the covenant (Heb “brit”) between God and Israel, in accord with [[Torah 03 - Lech Lecha#^17-11|Gen 17.11–12]]; [[Torah 04 - Vayera#^21-4|21.4]]; [[Torah 27 - Tazria#^12-3|Lev 12.3]]; see also [[Luke 02#^2-21|Lk 2.21]]; *m. Shabb*. 18.3. *Zechariah after his father* ([[LXX Tobit 01#^1-1|Tob 1.1]]; Josephus, *J.W*. 5.13.2; *Ant*. 14.1.3), a tradition maintained in Sephardic (Mediterranean) but not Ashkenazic (Eastern European) Jewish culture; in the latter, children are named after deceased relatives. Naming sons at circumcision is not attested in Jewish sources until the eighth century. ^1-59
 
-**[[NRSVue Luke 01#^1-60|60]]:** *John*, see 1.13n. ^1-60
+**[[NRSVue Luke 01#^1-60|60]]:** *John*, see [[JANT Luke 01#^1-13|1.13n.]] ^1-60
 
 **[[NRSVue Luke 01#^1-66|66]]:** *Hand of the Lord*, see [[Torah 14 - Vaera#^9-3|Ex 9.3]]; [[Torah 16 - Beshalach#^16-3|16.3]]; [[Joshua 04#^4-24|Josh 4.24]]; [[Joshua 22#^22-31|22.31]]; [[Isaiah 41#^41-20|Isa 41.20]]; [[Isaiah 66#^66-14|66.14]]; [[Ezekiel 33#^33-22|Ezek 33.22]] (also with reference to muteness) and elsewhere, often in contexts of judgment. ^1-66
 
@@ -126,9 +126,9 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 01#^1-67|Text]], p. 112* · (Lat “blessed”; see v 68). ^1-67
 
-**[[NRSVue Luke 01#^1-67|67]]:** *Holy Spirit*, see 1.15n.; [[Joel 3#^3-1|Joel 2.28–31]] ([[Acts 02#^2-17|Acts 2.17–18]]) on the connection between the *Spirit* and prophecy. ^1-67-2
+**[[NRSVue Luke 01#^1-67|67]]:** *Holy Spirit*, see [[JANT Luke 01#^1-15|1.15n.]]; [[Joel 3#^3-1|Joel 2.28–31]] ([[Acts 02#^2-17|Acts 2.17–18]]) on the connection between the *Spirit* and prophecy. ^1-67-2
 
-**[[NRSVue Luke 01#^1-68|68]]:** *Blessed be the Lord*, familiar blessing ([[I Samuel 25#^25-32|1 Sam 25.32]]; [[I Kings 01#^1-48|1 Kings 1.48]]; [[I Kings 08#^8-15|8.15]]; etc.). *Redeemed*, Zechariah speaks as if redemption has already occurred (2.38; 24.21n.). ^1-68
+**[[NRSVue Luke 01#^1-68|68]]:** *Blessed be the Lord*, familiar blessing ([[I Samuel 25#^25-32|1 Sam 25.32]]; [[I Kings 01#^1-48|1 Kings 1.48]]; [[I Kings 08#^8-15|8.15]]; etc.). *Redeemed*, Zechariah speaks as if redemption has already occurred (2.38; [[JANT Luke 24#^24-21|24.21n.]]). ^1-68
 
 **[[NRSVue Luke 01#^1-69|69]]:** *Mighty savior*, lit., “horn (Heb “qeren”) of salvation,” see [[I Samuel 02#^2-10|1 Sam 2.10]]; [[II Samuel 22#^22-3|2 Sam 22.3]]; [[Psalms 018#^18-3|Ps 18.2]]; see also [[Psalms 089#^89-18|Ps 89.17–24]]; 132.17; 148.14; [[LXX Sirach 51#^51-12|Sir 51.12]]. ^1-69
 
@@ -136,12 +136,12 @@ Text: [[NRSVue Luke 01|NRSVue]] · [[Luke 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 01#^1-72|72–73]]:** *Remembered his holy covenant*, see [[Torah 13 - Shemot#^2-24|Ex 2.24]]; [[Torah 33 - Bechukotai#^26-42|Lev 26.42]]; [[Psalms 105#^105-8|Ps 105.8]], as well as the “ḥesed avot” (“steadfast love of the fathers”) of [[Micah 7#^7-20|Mic 7.20]]; [[Psalms 106#^106-45|Ps 106.45]]; etc. *Holy covenant*, see [[Daniel 11#^11-30|Dan 11.30]]; [[LXX 1 Maccabees 01#^1-15|1 Macc 1.15]],[[LXX 1 Maccabees 01#^1-63|63]]. *Oath*, see [[Torah 06 - Toldot#^26-3|Gen 26.3]]. ^1-72
 
-**[[NRSVue Luke 01#^1-76|76]]:** *Most High*, see 1.32n. *Prepare his ways*, see 3.4–6n. ^1-76
+**[[NRSVue Luke 01#^1-76|76]]:** *Most High*, see [[JANT Luke 01#^1-32|1.32n.]] *Prepare his ways*, see [[JANT Luke 03#^3-4|3.4–6n.]] ^1-76
 
-**[[NRSVue Luke 01#^1-77|77]]:** *Forgiveness of their sins*, see 3.3n. ^1-77
+**[[NRSVue Luke 01#^1-77|77]]:** *Forgiveness of their sins*, see [[JANT Luke 03#^3-3|3.3n.]] ^1-77
 
 **[[NRSVue Luke 01#^1-79|79]]:** *Sit in darkness*, see [[Isaiah 42#^42-7|Isa 42.7]] (and most of Second Isaiah \[chs 40–55\] in its prophecy of hope); [[Micah 7#^7-8|Mic 7.8]]; [[Psalms 107#^107-10|Ps 107.10]]; [[Psalms 143#^143-3|143.3]]; [[Lamentations 3#^3-6|Lam 3.6]]. *Shadow of death* ([[Matthew 04#^4-16|Mt 4.16]]), see [[Psalms 023#^23-4|Ps 23.4]]. *Peace*, major concern for the Tanakh and rabbinic tradition (e.g., *Pesiq. Rav Kah*. 18.6 states that in the messianic age, people will always seek peace). ^1-79
 
-**[[NRSVue Luke 01#^1-80|80]]:** *Grew and became strong*, cf. 2.52. *Wilderness*, see 3.4; site of Israel’s encounter with God at Sinai; here, by the Jordan River. ^1-80
+**[[NRSVue Luke 01#^1-80|80]]:** *Grew and became strong*, cf. 2.52. *Wilderness*, see [[Luke 03#^3-4|3.4]]; site of Israel’s encounter with God at Sinai; here, by the Jordan River. ^1-80
 
 — · [[Jewish Annotated New Testament|JANT index]] · [[JANT Luke 02|Luke 2 →]]

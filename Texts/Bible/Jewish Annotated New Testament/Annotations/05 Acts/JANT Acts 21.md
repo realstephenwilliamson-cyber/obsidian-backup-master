@@ -42,7 +42,7 @@ Text: [[NRSVue Acts 21|NRSVue]] · [[Acts 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 21#^21-14|14]]:** *The Lord’s will be done*, [[Luke 22#^22-42|Lk 22.42]] attributes a similar statement to Jesus shortly before his arrest. Paul’s arrest and condemnation in Jerusalem parallel what happened to Jesus (Lk 22–23). ^21-14
 
-**[[NRSVue Acts 21#^21-16|16]]:** *Mnason*, otherwise unknown. On Christianity on Cyprus, see 4.36; 11.19–20; 13.4–12. ^21-16
+**[[NRSVue Acts 21#^21-16|16]]:** *Mnason*, otherwise unknown. On Christianity on Cyprus, see [[Acts 04#^4-36|4.36]]; [[Acts 11#^11-19|11.19–20]]; 13.4–12. ^21-16
 
 ### 21.17–26: Paul meets with James
 
@@ -62,7 +62,7 @@ Text: [[NRSVue Acts 21|NRSVue]] · [[Acts 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 21#^21-24|24]]:** *Pay for the shaving of their heads*, one of the rituals that fulfills the Nazirite vow ([[Torah 35 - Nasso#^6-18|Num 6.18]]). Paul here demonstrates Torah-observance. It was possible for a person to assume payment for others who fulfilled the Nazirite vow, as Agrippa I did (Josephus, *Ant.* 19.294). ^21-24
 
-**[[NRSVue Acts 21#^21-25|25]]:** *Sent a letter*, see 15.23. *Gentiles . . . should abstain*, see 15.20,29. ^21-25
+**[[NRSVue Acts 21#^21-25|25]]:** *Sent a letter*, see 15.23. *Gentiles . . . should abstain*, see [[Acts 15#^15-20|15.20]],[[Acts 15#^15-29|29]]. ^21-25
 
 **[[NRSVue Acts 21#^21-26|26]]:** *Having purified himself*, in order to enter the Temple’s precincts. Acts shows that Paul is scrupulous in his observance of Jewish Law and Temple practices. Portraying Paul as beyond reproach, Acts can focus on what is wrong with the Jews, namely their refusal to believe in Jesus and to accept that Gentiles need not observe the Law. ^21-26
 

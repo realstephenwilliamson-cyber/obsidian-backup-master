@@ -16,7 +16,7 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 *[[NRSVue 1 Corinthians 07#^7-1|Text]], p. 332* · This chapter, further clarifying how the “ekklēsia” should maintain its purity, addresses concerns raised in a letter Paul received from Corinth. ^7-1
 
-**[[NRSVue 1 Corinthians 07#^7-1|1]]:** *“It is well . . .*,*”* another Corinthian slogan (see 6.12n.); teachings associated with Jesus ([[Matthew 19#^19-12|Mt 19.12]]), Paul himself (7.7), or end-time preparation, perhaps influenced by apocalyptic and mystical celibates, like the Essenes (Josephus, *J.W.* 2.119; *1 En*. 83.2). ^7-1-2
+**[[NRSVue 1 Corinthians 07#^7-1|1]]:** *“It is well . . .*,*”* another Corinthian slogan (see [[JANT 1 Corinthians 06#^6-12-2|6.12n.]]); teachings associated with Jesus ([[Matthew 19#^19-12|Mt 19.12]]), Paul himself (7.7), or end-time preparation, perhaps influenced by apocalyptic and mystical celibates, like the Essenes (Josephus, *J.W.* 2.119; *1 En*. 83.2). ^7-1-2
 
 **[[NRSVue 1 Corinthians 07#^7-2|2]]:** *His own wife . . .  her own husband*, marriage helps prevent immorality (see Tob 4.12; *T. Levi* 9.9–10). Monogamous marriage, in this view, is the only permissible relationship (see “Sexual Mores,” p. 222). ^7-2
 
@@ -26,7 +26,7 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 07#^7-6|6]]:** *Concession*, celibacy is preferable to marriage. ^7-6
 
-**[[NRSVue 1 Corinthians 07#^7-7|7]]:** *As I myself am*, celibate; there is no evidence that Paul married. *Gift*, see 3.5–9; 7.17–24; 10–13; 12–14. ^7-7
+**[[NRSVue 1 Corinthians 07#^7-7|7]]:** *As I myself am*, celibate; there is no evidence that Paul married. *Gift*, see [[1 Corinthians 03#^3-5|3.5–9]]; [[1 Corinthians 07#^7-17|7.17–24]]; 10–13; 12–14. ^7-7
 
 > [!note] Sexual Mores *(p. 333)*
 > Sexual behavior was highly regulated in the Re-publican Roman period. The Emperor Augustus’s adultery law mandated that an unfaithful wife be divorced, but it allowed husbands to engage in sexual relations with unmarried women and slaves (*Lex Julia* 123). Roman law presumed the husband’s *authority* over the wife’s body, but not the wife’s *authority* over the husband’s body, the position advanced by Paul and others (Plutarch, *Mor.* 144b; Musonius Rufus, frag. 9.5,7). Rabbinic law accorded women some authority over her husband’s body, namely, the right to sexual relations (*m*. *Ketub.* 5.6). Furthermore, Roman law did not permit polygyny, and it only recognized marriage between citizens, not slaves (Gaius, *Inst.* 1.63–4; Ulpian, frag. 5.3). Jewish law of the time defined adultery in terms of the wife’s infidelity but not the husband’s (as long as his sexual partner was unmarried \[[[Torah 17 - Yitro#^20-13|Ex 20.14]]; [[Torah 30 - Kedoshim#^20-10|Lev 20.10]]; [[Proverbs 06#^6-32|Prov 6.32]]; Josephus, *Ant.* 3.274\]), since polygyny (marrying multiple wives) was permissible. Polygyny among Second Temple period Jews is attested (Josephus, *Ant.* 12.186–89; 17.14; *J.W.* 1.477; *m. Yebam.* 4.11), although the practice is condemned by the Essenes (CD 4.20–21; 11Q19 57.17-18); the tenth-century German Rabbi Gershom ben Judah Me*ʾ*or ha-Golah banned polygyny.
@@ -47,9 +47,9 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 07#^7-12|12]]:** Fearing idolatrous influences, moral corruption, and/or defilement of Israel’s holy seed, some Jews banned exoga-my ([[Ezra 09#^9-1|Ezra 9.1–2]]; Tob 4.12 \[see also [[I Kings 11#^11-2|1 Kings 11.2]]\]; *Jub.* 30.7; 4QMMTd frags. 5+6, 6; *T. Levi* 9.10; *T. Job* 45.3; Philo, *Spec. Laws* 3.29; *L. A. B.* 9.5; 21.1) although there is ample evidence for intermarriage ([[Acts 16#^16-1|Acts 16.1–4]]; Josephus, *Ant.* 8.191–93; 16.225; 18.109,139–40; 20.139–47). *B. Qidd.* 68b and *b. Yebam.* [[Yevamot 45#45a|45a]] regard intermarriages as invalid. ^7-12
 
-**[[NRSVue 1 Corinthians 07#^7-14|14]]:** *Holy*, elevated to a status of sanctity. Paul’s view that unbelievers do not defile believers aligns with rabbinic opinion that regards sexual contact with Gentiles as neutral (*Sifra Pereq Zavim* 1.1). In Paul’s time, Jews followed biblical norms regarding children of intermarriages, who were considered Jewish if their fathers were Jewish (see 7.12n.; biblical examples include the children of Joseph and Moses, and Absalom \[[[II Samuel 03#^3-3|2 Sam 3.3]]\]). Although rabbinic opinions diverged, by late antiquity, matrilineal descent became normative in Jewish law (*t. Qidd.* 4.16). ^7-14
+**[[NRSVue 1 Corinthians 07#^7-14|14]]:** *Holy*, elevated to a status of sanctity. Paul’s view that unbelievers do not defile believers aligns with rabbinic opinion that regards sexual contact with Gentiles as neutral (*Sifra Pereq Zavim* 1.1). In Paul’s time, Jews followed biblical norms regarding children of intermarriages, who were considered Jewish if their fathers were Jewish (see [[JANT 1 Corinthians 07#^7-12|7.12n.]]; biblical examples include the children of Joseph and Moses, and Absalom \[[[II Samuel 03#^3-3|2 Sam 3.3]]\]). Although rabbinic opinions diverged, by late antiquity, matrilineal descent became normative in Jewish law (*t. Qidd.* 4.16). ^7-14
 
-**[[NRSVue 1 Corinthians 07#^7-16|16]]:** *Save*, at the final judgment (see 7.14). ^7-16
+**[[NRSVue 1 Corinthians 07#^7-16|16]]:** *Save*, at the final judgment (see [[1 Corinthians 07#^7-14|7.14]]). ^7-16
 
 ### 7.17–24: Eschatological urgency and social stability
 
@@ -63,7 +63,7 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 07#^7-22|22]]:** *Slave . . .  freed person*, Paul plays on the terms’ Roman legal usage and their met-aphoric sense in relation to Christ. ^7-22
 
-**[[NRSVue 1 Corinthians 07#^7-23|23]]:** *Bought*, see 6.20n. ^7-23
+**[[NRSVue 1 Corinthians 07#^7-23|23]]:** *Bought*, see [[JANT 1 Corinthians 06#^6-20|6.20n.]] ^7-23
 
 ### 7.25–40: Unmarried believers
 
@@ -79,7 +79,7 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 07#^7-29|29]]:** *Be . . . had none*, practice abstinence. ^7-29
 
-**[[NRSVue 1 Corinthians 07#^7-30|30–31]]:** Mourners, celebrants, and patrons behaving contrary to their expected roles in preparation for the end-time (cf. 2 Esd \[*4 Ezra*\] 3.24; 4.26; 16.42–45). ^7-30
+**[[NRSVue 1 Corinthians 07#^7-30|30–31]]:** Mourners, celebrants, and patrons behaving contrary to their expected roles in preparation for the end-time (cf. 2 Esd \[*4 Ezra*\] [[NRSVue 2 Esdras 03#^3-24|3.24]]; [[NRSVue 2 Esdras 04#^4-26|4.26]]; [[NRSVue 2 Esdras 16#^16-42|16.42–45]]). ^7-30
 
 **[[NRSVue 1 Corinthians 07#^7-32|32]]:** *Anxieties*, see 7.28. ^7-32
 
@@ -87,7 +87,7 @@ Text: [[NRSVue 1 Corinthians 07|NRSVue]] · [[1 Corinthians 07|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 07#^7-37|37]]:** *Keep her*, without consummation. ^7-37
 
-**[[NRSVue 1 Corinthians 07#^7-39|39]]:** *In the Lord*, within the church, extending the Jewish desideratum of endogamy to include Gentile believers (see 7.12n.). ^7-39
+**[[NRSVue 1 Corinthians 07#^7-39|39]]:** *In the Lord*, within the church, extending the Jewish desideratum of endogamy to include Gentile believers (see [[JANT 1 Corinthians 07#^7-12|7.12n.]]). ^7-39
 
 **[[NRSVue 1 Corinthians 07#^7-40|40]]:** *I too have the Spirit of God*, to exercise his *judgment* and issue directives to the community. ^7-40
 

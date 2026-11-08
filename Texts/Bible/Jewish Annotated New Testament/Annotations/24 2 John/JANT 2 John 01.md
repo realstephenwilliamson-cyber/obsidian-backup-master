@@ -36,8 +36,8 @@ Text: [[NRSVue 2 John 01|NRSVue]] · [[2 John 01|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue 2 John 01#^1-12|12–13]]:** Closing and greetings.  ^1-12
 
-**[[NRSVue 2 John 01#^1-12|12]]:** *Paper* (Gk “chartes”), a papyrus sheet. *Face to face* (see also 3 Jn 14), a concern for intimacy; the expression appears in the Tanakh in reference to the conversations between God and select figures, especially Moses ([[Torah 21 - Ki Tisa#^33-11|Ex 33.11]]; [[Torah 54 - V'Zot HaBerachah#^34-1|Deut 34.1]]; see also [[1 Corinthians 13#^13-12|1 Cor 13.12]]; [[2 Corinthians 10#^10-1|2 Cor 10.1]]). In the Thessalonian correspondence, Paul speaks of his desire to see the congregation *face to face* ([[1 Thessalonians 02#^2-17|1 Thess 2.17]]; [[1 Thessalonians 03#^3-10|3.10]]). *Joy*, Gk “chara,” an echo of the opening “chairo,” grace, in v 3. ^1-12-2
+**[[NRSVue 2 John 01#^1-12|12]]:** *Paper* (Gk “chartes”), a papyrus sheet. *Face to face* (see also [[3 John 01#^1-14|3 Jn 14]]), a concern for intimacy; the expression appears in the Tanakh in reference to the conversations between God and select figures, especially Moses ([[Torah 21 - Ki Tisa#^33-11|Ex 33.11]]; [[Torah 54 - V'Zot HaBerachah#^34-1|Deut 34.1]]; see also [[1 Corinthians 13#^13-12|1 Cor 13.12]]; [[2 Corinthians 10#^10-1|2 Cor 10.1]]). In the Thessalonian correspondence, Paul speaks of his desire to see the congregation *face to face* ([[1 Thessalonians 02#^2-17|1 Thess 2.17]]; [[1 Thessalonians 03#^3-10|3.10]]). *Joy*, Gk “chara,” an echo of the opening “chairo,” grace, in v 3. ^1-12-2
 
-**[[NRSVue 2 John 01#^1-13|13]]:** *Children* . . . *elect sister*, see v 1n. ^1-13
+**[[NRSVue 2 John 01#^1-13|13]]:** *Children* . . . *elect sister*, see [[JANT 2 John 01#^1-1|v 1n.]] ^1-13
 
 — · [[Jewish Annotated New Testament|JANT index]] · —

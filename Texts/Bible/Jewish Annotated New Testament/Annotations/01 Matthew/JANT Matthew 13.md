@@ -24,7 +24,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 13#^13-3|Text]], p. 35* · ([[Mark 04#^4-2|Mk 4.2–9]]; [[Luke 08#^8-4|Lk 8.4–8]]). Cf. *Gos. Thom*. 9. ^13-3-2
 
-**[[NRSVue Matthew 13#^13-3|3]]:** *Sower*, here, likely Jesus (13.37). “Sowing” related to doing the work of God ([[Jeremiah 31#^31-27|Jer 31.27–28]]; [[Ezekiel 36#^36-9|Ezek 36.9]]; [[Hosea 02#^2-23|Hos 2.21–23]]; *4 Ezra* \[2 Esd\] 9.31; *2 Bar*. 32.1). *Seeds*, later identified as “the word of the kingdom” (13.19). *Path . . . rocky ground. . . thorns*, do not change their nature. ^13-3-3
+**[[NRSVue Matthew 13#^13-3|3]]:** *Sower*, here, likely Jesus (13.37). “Sowing” related to doing the work of God ([[Jeremiah 31#^31-27|Jer 31.27–28]]; [[Ezekiel 36#^36-9|Ezek 36.9]]; [[Hosea 02#^2-23|Hos 2.21–23]]; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 09#^9-31|9.31]]; *2 Bar*. 32.1). *Seeds*, later identified as “the word of the kingdom” (13.19). *Path . . . rocky ground. . . thorns*, do not change their nature. ^13-3-3
 
 ### 13.10–23: Jesus explains his teaching
 
@@ -32,15 +32,15 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-11|11]]:** *Secrets*, indicating a divine plan previously unrevealed, which typified Jewish apocalyptic literature of the Second Temple Period ([[Daniel 02#^2-18|Dan 2.18]],[[Daniel 02#^2-19|19]],[[Daniel 02#^2-27|27]]; 1QpHab 7.8; 1QS 3.23; 1QM 3.9). ^13-11
 
-**[[NRSVue Matthew 13#^13-13|13]]:** *Nor do they understand*, the message is open to a select few (e.g., the disciples; see 13.16–17) having faith in Jesus. ^13-13
+**[[NRSVue Matthew 13#^13-13|13]]:** *Nor do they understand*, the message is open to a select few (e.g., the disciples; see [[Matthew 13#^13-16|13.16–17]]) having faith in Jesus. ^13-13
 
 **[[NRSVue Matthew 13#^13-14|14–15]]:** [[Isaiah 06#^6-9|Isa 6.9–10]]; [[Luke 08#^8-10|Lk 8.10]]; [[John 12#^12-37|Jn 12.37–41]]; [[Acts 28#^28-26|Acts 28.26–27]]; an admonition aimed at anyone who fails to grasp Jesus’ teachings. Even though Isa 6 refers to the prophet’s immediate audience, it is understood here as being fulfilled over seven hundred years later. ^13-14
 
 **[[NRSVue Matthew 13#^13-16|16–17]]:** See [[Luke 10#^10-23|Lk 10.23–24]]. ^13-16
 
-**[[NRSVue Matthew 13#^13-18|18–23]]:** [[Mark 04#^4-13|Mk 4.13–20]]; [[Luke 08#^8-11|Lk 8.11–15]]. Jewish parables often included explanations (e.g., Isa 5; *4 Ezra* \[2 Esd\] 4.13-18,20–21). ^13-18
+**[[NRSVue Matthew 13#^13-18|18–23]]:** [[Mark 04#^4-13|Mk 4.13–20]]; [[Luke 08#^8-11|Lk 8.11–15]]. Jewish parables often included explanations (e.g., Isa 5; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 04#^4-13|4.13-18]],[[NRSVue 2 Esdras 04#^4-20|20–21]]). ^13-18
 
-**[[NRSVue Matthew 13#^13-19|19]]:** *Evil one*, see 8.16n.; 6.13; 13.19,38; [[John 17#^17-15|Jn 17.15]]; *Jub.* 11.11–12; *Apoc. Abr.* 13. ^13-19
+**[[NRSVue Matthew 13#^13-19|19]]:** *Evil one*, see [[JANT Matthew 08#^8-16|8.16n.]]; [[Matthew 06#^6-13|6.13]]; [[Matthew 13#^13-19|13.19]],[[Matthew 13#^13-38|38]]; [[John 17#^17-15|Jn 17.15]]; *Jub.* 11.11–12; *Apoc. Abr.* 13. ^13-19
 
 **[[NRSVue Matthew 13#^13-24|13.24–30]]:** **Parable of the wheat and the weeds** ([[Mark 04#^4-13|Mk 4.13–20]]; [[Luke 08#^8-11|Lk 8.11–15]]), see. *Gos. Thom*. 57. ^13-24
 
@@ -58,9 +58,9 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-35|35]]:** [[Psalms 078#^78-2|Ps 78.2]] (also utilizing LXX, [[LXX Psalms 77#^77-2|Ps 77.2]]). ^13-35
 
-**[[NRSVue Matthew 13#^13-37|37]]:** *Son of Man*, see 8.20n. ^13-37
+**[[NRSVue Matthew 13#^13-37|37]]:** *Son of Man*, see [[JANT Matthew 08#^8-20|8.20n.]] ^13-37
 
-**[[NRSVue Matthew 13#^13-42|42]]:** See 8.12n.; 22.13. *Furnace*, represents judgment ([[Daniel 03#^3-6|Dan 3.6]]; *1 En*. 54.6; *4 Ezra* \[2 Esd\] 7.36). ^13-42
+**[[NRSVue Matthew 13#^13-42|42]]:** See [[JANT Matthew 08#^8-12|8.12n.]]; 22.13. *Furnace*, represents judgment ([[Daniel 03#^3-6|Dan 3.6]]; *1 En*. 54.6; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 07#^7-36|7.36]]). ^13-42
 
 **[[NRSVue Matthew 13#^13-43|43]]:** [[Daniel 12#^12-3|Dan 12.3]]. ^13-43
 
@@ -70,13 +70,13 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-48|48]]:** Fishermen in the Sea of Galilee would have had to separate kosher and non-kosher fish from their nets. ^13-48
 
-**[[NRSVue Matthew 13#^13-52|52]]:** *Scribe . . . trained for the kingdom of heaven*, elsewhere, scribes are condemned (ch 23), suggesting this positive reference relates to Matthew’s own scribes (see 5.17–20; 8.18; 9.3; 13.52; 15.1; 20.18; 21.15; 23). *What is new and what is old* (see 9.17n.), implies that older Torah teachings are still valid, but Jesus’ new interpretations must be heeded as well. The rabbis also utilized “old” and “new” to refer to the teachings of the Torah and the scribal interpretations of those teachings, respectively (see *b. Eruv*. [[Eruvin 21#21b|21b]]). ^13-52
+**[[NRSVue Matthew 13#^13-52|52]]:** *Scribe . . . trained for the kingdom of heaven*, elsewhere, scribes are condemned (ch 23), suggesting this positive reference relates to Matthew’s own scribes (see [[Matthew 05#^5-17|5.17–20]]; [[Matthew 08#^8-18|8.18]]; [[Matthew 09#^9-3|9.3]]; [[Matthew 13#^13-52|13.52]]; [[Matthew 15#^15-1|15.1]]; [[Matthew 20#^20-18|20.18]]; [[Matthew 21#^21-15|21.15]]; 23). *What is new and what is old* (see [[JANT Matthew 09#^9-17|9.17n.]]), implies that older Torah teachings are still valid, but Jesus’ new interpretations must be heeded as well. The rabbis also utilized “old” and “new” to refer to the teachings of the Torah and the scribal interpretations of those teachings, respectively (see *b. Eruv*. [[Eruvin 21#21b|21b]]). ^13-52
 
 ### 13.53–58: Rejection in Nazareth
 
-*[[NRSVue Matthew 13#^13-53|Text]], p. 37* · ([[Mark 06#^6-1|Mk 6.1–6]]; [[Luke 04#^4-16|Lk 4.16–30]]; [[John 04#^4-44|Jn 4.44]]). See 12.46–50n. ^13-53
+*[[NRSVue Matthew 13#^13-53|Text]], p. 37* · ([[Mark 06#^6-1|Mk 6.1–6]]; [[Luke 04#^4-16|Lk 4.16–30]]; [[John 04#^4-44|Jn 4.44]]). See [[JANT Matthew 12#^12-46-2|12.46–50n.]] ^13-53
 
-**[[NRSVue Matthew 13#^13-54|54]]:** *Hometown,* Nazareth, see 2.23n*.* ^13-54
+**[[NRSVue Matthew 13#^13-54|54]]:** *Hometown,* Nazareth, see [[Matthew 02#^2-23|2.23]]n*.* ^13-54
 
 **[[NRSVue Matthew 13#^13-55|55]]:** *Carpenter* (Gk “tektōn”), a builder, not just a woodworker. ^13-55
 

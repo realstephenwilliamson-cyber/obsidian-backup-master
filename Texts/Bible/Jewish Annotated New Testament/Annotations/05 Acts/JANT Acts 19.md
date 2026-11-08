@@ -22,11 +22,11 @@ Text: [[NRSVue Acts 19|NRSVue]] · [[Acts 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 19#^19-5|5]]:** *Baptized in the name*, see *keep the approaching festival in Jerusalem, but I* d Gk *went up* e Gk *the Galatian region* 2.38; 8.16; 10.48. ^19-5
 
-**[[NRSVue Acts 19#^19-6|6]]:** *Laid his hands*, see 8.17; 9.12. *Spoke in tongues*, see 2.4,11; 10.46. ^19-6
+**[[NRSVue Acts 19#^19-6|6]]:** *Laid his hands*, see 8.17; 9.12. *Spoke in tongues*, see [[Acts 02#^2-4|2.4]],[[Acts 02#^2-11|11]]; 10.46. ^19-6
 
-**[[NRSVue Acts 19#^19-8|8]]:** *Synagogue*, see 13.5. *Spoke out boldly*, see 4.13n. *Kingdom of God*, see 8.12. ^19-8
+**[[NRSVue Acts 19#^19-8|8]]:** *Synagogue*, see 13.5. *Spoke out boldly*, see [[JANT Acts 04#^4-13-2|4.13n.]] *Kingdom of God*, see 8.12. ^19-8
 
-**[[NRSVue Acts 19#^19-9|9]]:** *Refused to believe*, the motif of Jewish disbelief continues. *Way*, see 9.2n.; 18.25. *Lecture hall of Tyrannus*, the nature or location of the hall is unknown. ^19-9
+**[[NRSVue Acts 19#^19-9|9]]:** *Refused to believe*, the motif of Jewish disbelief continues. *Way*, see [[JANT Acts 09#^9-2|9.2n.]]; 18.25. *Lecture hall of Tyrannus*, the nature or location of the hall is unknown. ^19-9
 
 **[[NRSVue Acts 19#^19-11|19.11–20]]:** **Seven sons of Sceva.** Paul’s miraculous powers stand in contrast to the ineptitude of the Jewish exorcists. ^19-11
 
@@ -42,7 +42,7 @@ Text: [[NRSVue Acts 19|NRSVue]] · [[Acts 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 19#^19-18|18]]:** *Confessed*, verbal acknowledgment, often in connection with sin, e.g., [[Mark 01#^1-5|Mark 1.5]]. ^19-18
 
-**[[NRSVue Acts 19#^19-19|19]]:** See 16.19n. (8.18; 20.33). *Fifty thousand silver coins*, the text does not specify a denomination of coin so the exact value of the books cannot be determined. A standard unit such as denarius or drachma was the daily wage of a skilled laborer, making 50,000 pieces an extremely large sum. ^19-19
+**[[NRSVue Acts 19#^19-19|19]]:** See [[JANT Acts 16#^16-19|16.19n.]] (8.18; 20.33). *Fifty thousand silver coins*, the text does not specify a denomination of coin so the exact value of the books cannot be determined. A standard unit such as denarius or drachma was the daily wage of a skilled laborer, making 50,000 pieces an extremely large sum. ^19-19
 
 **[[NRSVue Acts 19#^19-20|20]]:** *Word of the Lord grew mightily*, typical summary statement (2.41,47; 4.32–35; 5.12–16; 6.11; 9.31; 16.5). ^19-20
 
@@ -64,14 +64,14 @@ Text: [[NRSVue Acts 19|NRSVue]] · [[Acts 19|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 19#^19-28|28]]:** *Great is Artemis of the Ephesians*, also v 34. Well-known acclamation (Xenophon, *Ephesian Tales* 1.11.5). ^19-28
 
-**[[NRSVue Acts 19#^19-29|29]]:** *Theater*, often used for large civic gatherings (Philo, *Flaccus* 41; Josephus, *J.W.* 7.107; Dio Chrys., *Or.* 7.24; Tacitus, *Hist.* 2.80). *Gaius* (20.4; [[Romans 16#^16-23|Rom 16.23]]; [[1 Corinthians 01#^1-14|1 Cor 1.14]]), and *Aristarchus* (20.4; 27.2; Philem 24), close companions of Paul. ^19-29
+**[[NRSVue Acts 19#^19-29|29]]:** *Theater*, often used for large civic gatherings (Philo, *Flaccus* 41; Josephus, *J.W.* 7.107; Dio Chrys., *Or.* 7.24; Tacitus, *Hist.* 2.80). *Gaius* (20.4; [[Romans 16#^16-23|Rom 16.23]]; [[1 Corinthians 01#^1-14|1 Cor 1.14]]), and *Aristarchus* (20.4; 27.2; [[Philemon 01#^1-24|Philem 24]]), close companions of Paul. ^19-29
 
 **[[NRSVue Acts 19#^19-31|31]]:** *Officials of the province of Asia*, civic officials in Asia Minor, some of whom were connected with the worship of the emperor. Acts often presents local officials and other elites as assisting Paul or as becoming believers (13.12,50; 16.35; 17.12,34; 18.15–16). ^19-31
 
-**[[NRSVue Acts 19#^19-34|34]]:** *Great . . . Ephesians!”* see v 28n. ^19-34
+**[[NRSVue Acts 19#^19-34|34]]:** *Great . . . Ephesians!”* see [[JANT Acts 19#^19-28|v 28n.]] ^19-34
 
 **[[NRSVue Acts 19#^19-35|35]]:** *Town clerk*, a civic official in Ephesus and other Greek cities. *Temple keeper*, title used by cities that built temples to the Roman emperor or, as in this case, a patron deity. *Statue that fell from heaven*, no other sources mention this statue, although similar objects were known in antiquity, such as in the Temple of Cybele (Magna Mater) in Rome (cf. Eurpidies, *Iphigenia at Tauris* 87–88; 1384–85). Mention of the stone refutes the claim that Ephesians worship a deity made with hands (v 26). ^19-35
 
-**[[NRSVue Acts 19#^19-37|37–38]]:** The accusation that Christians cause disturbance (16.20; 17.6; 24.5) proves false. *Proconsuls*, see 13.7n. ^19-37
+**[[NRSVue Acts 19#^19-37|37–38]]:** The accusation that Christians cause disturbance (16.20; 17.6; 24.5) proves false. *Proconsuls*, see [[JANT Acts 13#^13-7|13.7n.]] ^19-37
 
 [[JANT Acts 18|← Acts 18]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Acts 20|Acts 20 →]]

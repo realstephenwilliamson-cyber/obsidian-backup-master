@@ -30,9 +30,9 @@ Text: [[NRSVue Luke 13|NRSVue]] · [[Luke 13|BSB and SBLGNT]] · Introduction: [
 
 ### 13.10–17: Sabbath healing
 
-*[[NRSVue Luke 13#^13-10|Text]], p. 144* · (see 4.31–37n.). ^13-10
+*[[NRSVue Luke 13#^13-10|Text]], p. 144* · (see [[JANT Luke 04#^4-31-2|4.31–37n.]]). ^13-10
 
-**[[NRSVue Luke 13#^13-14|14]]:** *Leader of the synagogue*, see 8.41n. *Sabbath*, see 6.1–11 and notes. ^13-14
+**[[NRSVue Luke 13#^13-14|14]]:** *Leader of the synagogue*, see [[JANT Luke 08#^8-41|8.41n.]] *Sabbath*, see [[Luke 06#^6-1|6.1–11]] and notes. ^13-14
 
 **[[NRSVue Luke 13#^13-15|15]]:** *Untie his ox*, a “qal vahomer” (from lesser to greater) argument. ^13-15
 
@@ -48,7 +48,7 @@ Text: [[NRSVue Luke 13|NRSVue]] · [[Luke 13|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 13#^13-20|Text]], p. 144* · ([[Matthew 13#^13-33|Mt 13.33]]). ^13-20
 
-**[[NRSVue Luke 13#^13-21|21]]:** *Yeast*, see 12.1n. *Mixed* (Gk “enegkrypsen”), lit., “hid.” *Three measures*, 50–60 pounds. Another parable of hyperbole, contrast, growth, and transformation of domestic images (mustard seed, yeast). ^13-21
+**[[NRSVue Luke 13#^13-21|21]]:** *Yeast*, see [[JANT Luke 12#^12-1-2|12.1n.]] *Mixed* (Gk “enegkrypsen”), lit., “hid.” *Three measures*, 50–60 pounds. Another parable of hyperbole, contrast, growth, and transformation of domestic images (mustard seed, yeast). ^13-21
 
 ### 13.22–30: Who will be saved
 
@@ -60,13 +60,13 @@ Text: [[NRSVue Luke 13|NRSVue]] · [[Luke 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 13#^13-28|28]]:** *Weeping and gnashing of teeth*, see [[Matthew 08#^8-12|Mt 8.12]]; [[Matthew 13#^13-42|13.42]],[[Matthew 13#^13-50|50]]; [[Matthew 22#^22-13|22.13]]; [[Matthew 24#^24-51|24.51]]; [[Matthew 25#^25-30|25.30]]. *Abraham and Isaac and Jacob*, unity with the ancestors in the world-to-come. ^13-28
 
-**[[NRSVue Luke 13#^13-29|29]]:** *People will come*, perhaps originally referring to the ingathering of the exiles, a sign of the messianic age ([[Isaiah 60#^60-4|Isa 60.4]]; [[Zechariah 10#^10-6|Zech 10.6–10]]; [[Psalms 107#^107-3|Ps 107.3]]); for Luke, the Gentile mission. *Eat in the kingdom*, the messianic banquet (see 11.3n.). ^13-29
+**[[NRSVue Luke 13#^13-29|29]]:** *People will come*, perhaps originally referring to the ingathering of the exiles, a sign of the messianic age ([[Isaiah 60#^60-4|Isa 60.4]]; [[Zechariah 10#^10-6|Zech 10.6–10]]; [[Psalms 107#^107-3|Ps 107.3]]); for Luke, the Gentile mission. *Eat in the kingdom*, the messianic banquet (see [[JANT Luke 11#^11-3|11.3n.]]). ^13-29
 
 ### 13.31–33: Herod’s threat
 
 *[[NRSVue Luke 13#^13-31|Text]], p. 145* ^13-31
 
-**[[NRSVue Luke 13#^13-31|31]]:** See “Pharisees in Luke,” p. 122. *Here*, Galilee and Perea (see 3.1n.). ^13-31-2
+**[[NRSVue Luke 13#^13-31|31]]:** See “Pharisees in Luke,” p. 122. *Here*, Galilee and Perea (see [[JANT Luke 03#^3-1-2|3.1n.]]). ^13-31-2
 
 **[[NRSVue Luke 13#^13-32|32]]:** *Go and tell*, Jesus presumes Pharisees have access to Herod. *Fox*, an insult. ^13-32
 
@@ -76,7 +76,7 @@ Text: [[NRSVue Luke 13|NRSVue]] · [[Luke 13|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 13#^13-34|Text]], p. 145* · ([[Matthew 23#^23-37|Mt 23.37–39]]; see also [[Luke 18#^18-41|Lk 18.41–42]]). ^13-34
 
-**[[NRSVue Luke 13#^13-34|34]]:** *City that kills the prophets*, see 6.23; 11.47–50. The lament anticipates Stephen’s death (Acts 7). *Gather*, perhaps referring to the ingathering of the exiles (see v 29n.). ^13-34-2
+**[[NRSVue Luke 13#^13-34|34]]:** *City that kills the prophets*, see [[Luke 06#^6-23|6.23]]; 11.47–50. The lament anticipates Stephen’s death (Acts 7). *Gather*, perhaps referring to the ingathering of the exiles (see [[JANT Luke 13#^13-29|v 29n.]]). ^13-34-2
 
 **[[NRSVue Luke 13#^13-35|35]]:** *House*, Temple, see [[Jeremiah 22#^22-5|Jer 22.5]]. *Blessed is the one who comes*, [[Psalms 118#^118-26|Ps 118.26]], from the Hallel Psalms (113–118), recited on festivals, including Passover; see [[Luke 19#^19-37|Lk 19.37–38]]. The psalm does not, however, specify the identity of *the one*. ^13-35
 

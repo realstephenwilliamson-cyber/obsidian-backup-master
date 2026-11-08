@@ -72,7 +72,7 @@ Text: [[NRSVue Acts 01|NRSVue]] · [[Acts 01|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 01#^1-21|Text]], p. 222* ^1-21
 
-**[[NRSVue Acts 01#^1-22|22]]:** *Witness*, see 1.8n. *Resurrection*, according to Acts, the central message of Christianity (2.31; 4.2,33; 17.18,32; 23.6; 24.21; 26.23). ^1-22
+**[[NRSVue Acts 01#^1-22|22]]:** *Witness*, see [[JANT Acts 01#^1-8|1.8n.]] *Resurrection*, according to Acts, the central message of Christianity (2.31; 4.2,33; 17.18,32; 23.6; 24.21; 26.23). ^1-22
 
 **[[NRSVue Acts 01#^1-23|23]]:** *Matthias*, nothing more is report- EGYPT 25° 100 0 Miles 200 20° 0 100 200 Kilometers ^1-23
 

@@ -38,7 +38,7 @@ Text: [[NRSVue Acts 08|NRSVue]] · [[Acts 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 08#^8-12|12]]:** *Kingdom of God*, in Acts, the term refers to the content of Christian preaching; see 19.8; 20.25; 28.23,31. ^8-12
 
-**[[NRSVue Acts 08#^8-14|14]]:** Jesus’ instructions concerning Samaria (1.8) are fulfilled. The apostles continue to oversee the church’s expansion (15.1–21). **15–16**: The apostles enjoy a unique command of and relation with the Holy Spirit (cf. 10.44; 13.2; 16.6; 19.6). ^8-14
+**[[NRSVue Acts 08#^8-14|14]]:** Jesus’ instructions concerning Samaria (1.8) are fulfilled. The apostles continue to oversee the church’s expansion (15.1–21). **15–16**: The apostles enjoy a unique command of and relation with the Holy Spirit (cf. [[Acts 10#^10-44|10.44]]; [[Acts 13#^13-2|13.2]]; [[Acts 16#^16-6|16.6]]; [[Acts 19#^19-6|19.6]]). ^8-14
 
 **[[NRSVue Acts 08#^8-18|18–19]]:** Simon’s offer is the origin of the term “simony,” meaning an attempt to buy a church office. ^8-18
 

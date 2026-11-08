@@ -16,17 +16,17 @@ Text: [[NRSVue James 04|NRSVue]] · [[James 04|BSB and SBLGNT]] · Introduction:
 
 *[[NRSVue James 04#^4-1|Text]], p. 496* ^4-1
 
-**[[NRSVue James 04#^4-1|1–2]]:** *Those conflicts*, rabbis (e.g., *m. Avot* 5.17) often speak disparagingly of “arguments over doctrines (Heb “maḥloket”) not for the sake of heaven.” ^4-1-2
+**[[NRSVue James 04#^4-1|1–2]]:** *Those conflicts*, rabbis (e.g., *m. Avot* [[Pirkei Avot 05#^5-17|5.17]]) often speak disparagingly of “arguments over doctrines (Heb “maḥloket”) not for the sake of heaven.” ^4-1-2
 
 **[[NRSVue James 04#^4-3|3]]:** *Ask and do not receive*, prayer is the proper way to gain money for needs, not for worldly pleasures. See Ps 37, esp. v 4. ^4-3
 
-**[[NRSVue James 04#^4-4|4]]:** *Adulterers*, standard denunciation of idolatry, or putting some other being or object in the place of God (e.g., Hos 1–3; [[Jeremiah 03#^3-2|Jer 3.2]]). *Friendship with the world*, orientation toward accepting material goods as the highest value, and consequently denigrating care for the neighbor (see 2.15–16). [[John 12#^12-31|Jn 12.31]] and 14.30 speak of Satan (the enemy of God) as the *ruler of this world.* See “devil,” v 7 below. *Enmity with God*, see [[Psalms 006#^6-9|Ps 6.8–10]] \[HB vv 9–11\]. ^4-4
+**[[NRSVue James 04#^4-4|4]]:** *Adulterers*, standard denunciation of idolatry, or putting some other being or object in the place of God (e.g., Hos 1–3; [[Jeremiah 03#^3-2|Jer 3.2]]). *Friendship with the world*, orientation toward accepting material goods as the highest value, and consequently denigrating care for the neighbor (see [[James 02#^2-15|2.15–16]]). [[John 12#^12-31|Jn 12.31]] and 14.30 speak of Satan (the enemy of God) as the *ruler of this world.* See “devil,” v 7 below. *Enmity with God*, see [[Psalms 006#^6-9|Ps 6.8–10]] \[HB vv 9–11\]. ^4-4
 
 **[[NRSVue James 04#^4-5|5]]:** *Scripture says*, an unknown text. *God yearns jealously*, *Zohar* 2 (Ex, *Terumah* 162b) claims God’s gift of the soul enables one to accomplish such love. ^4-5
 
 **[[NRSVue James 04#^4-6|6]]:** *Grace to the humble*, [[LXX Proverbs 03#^3-34|Prov 3.34]]\[LXX\] “To the scorners he is scornful but to the humble he shows grace.” Also note traditional Hebrew prayer requesting grace, and lovingkindness and mercy: “Sim shalom *. . .* ḥen, vaḥesed veraḥamim*”* (see reference to this prayer in *b. Ber.* [[Berakhot 18#18a|18a]]). ^4-6
 
-**[[NRSVue James 04#^4-7|7]]:** *Submit . . . he will draw near*, *m. Avot* 2.4 says “Make your will God’s will that he may make his will your will. *Resist the devil*, *B. Ber*. 5a counsels Torah study to stifle temptation and guard against the evil urge. ^4-7
+**[[NRSVue James 04#^4-7|7]]:** *Submit . . . he will draw near*, *m. Avot* [[Pirkei Avot 02#^2-4|2.4]] says “Make your will God’s will that he may make his will your will. *Resist the devil*, *B. Ber*. 5a counsels Torah study to stifle temptation and guard against the evil urge. ^4-7
 
 **[[NRSVue James 04#^4-8|8]]:** *Cleanse your hands . . . hearts*, imagery from [[Psalms 024#^24-4|Ps 24.4–5]] (HB vv 3–4). *Draw near*, *y. Ber*. 9.5 cites a lost work, the *Scroll of the Pious*, which apparently contrasted drawing close and departing: “Depart from me one day and I will depart from you two \[days\].” See also [[Torah 51 - Nitzavim#^30-2|Deut 30.2–3]]. ^4-8
 
@@ -38,7 +38,7 @@ Text: [[NRSVue James 04|NRSVue]] · [[James 04|BSB and SBLGNT]] · Introduction:
 
 **[[NRSVue James 04#^4-11|11]]:** *Do not speak evil . . . judges the law*, *y. Peʾah* 1.1 relates that the speaker of evil denies divine justice. ^4-11-2
 
-**[[NRSVue James 04#^4-12|12]]:** *There is one . . . judge*, see *m. Avot* 4.8, “Do not judge on your own, for there is none qualified to judge alone, only the One.” God alone has the right to judge, since God gave the law and will judge in accordance with it. *Judge your neighbor*, [[Matthew 07#^7-1|Mt 7.1]] discourages judging neighbors, not court judgments. The rabbis advised always to judge in the most favorable light (Heb “kaf zekhut”) and assume others are acting properly (*m. Avot* 1.6); [[Torah 30 - Kedoshim#^19-15|Lev. 19.15]] advises “with justice you shall judge your neighbor.” ^4-12
+**[[NRSVue James 04#^4-12|12]]:** *There is one . . . judge*, see *m. Avot* [[Pirkei Avot 04#^4-8|4.8]], “Do not judge on your own, for there is none qualified to judge alone, only the One.” God alone has the right to judge, since God gave the law and will judge in accordance with it. *Judge your neighbor*, [[Matthew 07#^7-1|Mt 7.1]] discourages judging neighbors, not court judgments. The rabbis advised always to judge in the most favorable light (Heb “kaf zekhut”) and assume others are acting properly (*m. Avot* [[Pirkei Avot 01#^1-6|1.6]]); [[Torah 30 - Kedoshim#^19-15|Lev. 19.15]] advises “with justice you shall judge your neighbor.” ^4-12
 
 **[[NRSVue James 04#^4-13|13–15]]:** An extended paraphrase of [[Proverbs 27#^27-1|Prov 27.1]]. ^4-13
 

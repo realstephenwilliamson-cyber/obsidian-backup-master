@@ -16,11 +16,11 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 08#^8-1|Text]], p. 129* ^8-1
 
-**[[NRSVue Luke 08#^8-1|1]]:** *Good news*, see 1.19n. *Kingdom of God*, see 4.43n. ^8-1-2
+**[[NRSVue Luke 08#^8-1|1]]:** *Good news*, see [[JANT Luke 01#^1-19|1.19n.]] *Kingdom of God*, see [[JANT Luke 04#^4-43|4.43n.]] ^8-1-2
 
 **[[NRSVue Luke 08#^8-2|2]]:** *Some women*, see 23.49. *Cured*, only Luke describes Jesus’ women followers as beneficiaries of healing. *Magdalene*, see 7.38n. Magdala (Tarichaea) was a fishing village on the western shore of the Sea of Galilee. See “Gender,” p. 611. ^8-2
 
-**[[NRSVue Luke 08#^8-3|3]]:** *Wife of Herod’s steward*, suggesting elite connections. *Provided for them*, women served as patrons to various individuals and groups, including synagogues and Pharisees (see 7.5n.). Luke does not here explicitly call them “disciples” (contrast [[Acts 09#^9-36|Acts 9.36]]). ^8-3
+**[[NRSVue Luke 08#^8-3|3]]:** *Wife of Herod’s steward*, suggesting elite connections. *Provided for them*, women served as patrons to various individuals and groups, including synagogues and Pharisees (see [[JANT Luke 07#^7-5|7.5n.]]). Luke does not here explicitly call them “disciples” (contrast [[Acts 09#^9-36|Acts 9.36]]). ^8-3
 
 ### 8.4–15: Parable of the sower
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 08#^8-10|10]]:** Paraphrasing [[Isaiah 06#^6-9|Isa 6.9]] (see also [[Jeremiah 05#^5-21|Jer 5.21]]; [[Ezekiel 12#^12-2|Ezek 12.2]]). Luke lacks Mark’s point (4.12) that parables prevent conversion and forgiveness. *Secrets*, veiled notices of God’s plan ([[Daniel 02#^2-18|Dan 2.18–19]],[[LXX Daniel (Greek) 02#^2-44|44–47]]\[LXX\]; [[1 Corinthians 02#^2-1|1 Cor 2.1–7]]). ^8-10
 
-**[[NRSVue Luke 08#^8-15|15]]:** *Heart*, see 6.45n. ^8-15
+**[[NRSVue Luke 08#^8-15|15]]:** *Heart*, see [[JANT Luke 06#^6-45|6.45n.]] ^8-15
 
 ### 8.16–18: Missionary instructions
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 08#^8-16|16–17]]:** see 12.1–2; all secrets will be revealed (Luke intimates that the coming of the Christ prompts the revelation). ^8-16-2
 
-**[[NRSVue Luke 08#^8-18|18]]:** *Will be taken away*, see 19.26; those who do not follow Jesus will suffer eschatological loss. ^8-18
+**[[NRSVue Luke 08#^8-18|18]]:** *Will be taken away*, see [[Luke 19#^19-26|19.26]]; those who do not follow Jesus will suffer eschatological loss. ^8-18
 
 ### 8.19–21: Jesus’ family
 
@@ -46,7 +46,7 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 08#^8-19|19]]:** *Brothers*, [[Mark 06#^6-3|Mk 6.3]] lists four brothers and mentions sisters. ^8-19-2
 
-**[[NRSVue Luke 08#^8-21|21]]:** [[Mark 03#^3-20|Mk 3.20–21]],[[Mark 03#^3-33|33]] increases the distance between Jesus and his natal family. *My mother and my brothers*, Jesus subordinates biological and marital relations to loyalty to God (see 5.11n.; 10.61), although the Greek can indicate the mother and brothers as model disciples. ^8-21
+**[[NRSVue Luke 08#^8-21|21]]:** [[Mark 03#^3-20|Mk 3.20–21]],[[Mark 03#^3-33|33]] increases the distance between Jesus and his natal family. *My mother and my brothers*, Jesus subordinates biological and marital relations to loyalty to God (see [[JANT Luke 05#^5-11|5.11n.]]; 10.61), although the Greek can indicate the mother and brothers as model disciples. ^8-21
 
 ### 8.22–25: Stilling the storm
 
@@ -62,7 +62,7 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 08#^8-26|26]]:** *Gerasenes*, Gerasa, *opposite Galilee*, in the Transjordan, had a largely non-Jewish population. [[Matthew 08#^8-28|Mt 8.28]] situates this event in Gadara, southeast of the Sea of Galilee. ^8-26-2
 
-**[[NRSVue Luke 08#^8-28|28]]:** *Son of the Most High*, see 1.32n.; the demoniac’s knowledge *Gergesenes* d Other ancient authorities read *a man of the city who had had demons for a long time met him. He wore* contrasts with the apostles’ confusion (8.25). ^8-28
+**[[NRSVue Luke 08#^8-28|28]]:** *Son of the Most High*, see [[JANT Luke 01#^1-32|1.32n.]]; the demoniac’s knowledge *Gergesenes* d Other ancient authorities read *a man of the city who had had demons for a long time met him. He wore* contrasts with the apostles’ confusion (8.25). ^8-28
 
 **[[NRSVue Luke 08#^8-30|30]]:** *What is your name*, knowledge of name provides advantage ([[Torah 08 - Vayishlach#^32-30|Gen 32.29]]). *Legion*, Roman army unit of approximately five thousand troops, here suggesting great demonic power. ^8-30
 
@@ -70,7 +70,7 @@ Text: [[NRSVue Luke 08|NRSVue]] · [[Luke 08|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 08#^8-32|32]]:** *Swine*, indicating a non-Jewish area; archaeological investigation of lower Galilee shows no pig bones ([[Torah 26 - Shmini#^11-7|Lev 11.7]]; [[Torah 47 - Re'eh#^14-8|Deut 14.8]]). ^8-32
 
-**[[NRSVue Luke 08#^8-39|39]]:** *Jesus had done*, in contrast to Jesus’ command to proclaim what “God” had done (but see 4.8; 5.25). ^8-39
+**[[NRSVue Luke 08#^8-39|39]]:** *Jesus had done*, in contrast to Jesus’ command to proclaim what “God” had done (but see [[Luke 04#^4-8|4.8]]; [[Luke 05#^5-25|5.25]]). ^8-39
 
 ### 8.40–56: Jairus’s daughter and hemorrhaging woman
 

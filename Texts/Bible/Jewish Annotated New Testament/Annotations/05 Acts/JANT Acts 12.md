@@ -48,6 +48,6 @@ Text: [[NRSVue Acts 12|NRSVue]] · [[Acts 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 12#^12-24|24]]:** Threats against the believers regularly fail (4.4; 5.42; 14.6–7,19–20; 16.23–34). ^12-24
 
-**[[NRSVue Acts 12#^12-25|25]]:** See 11.29–30. *John . . . Mark*, see v 12; 9.36n. ^12-25
+**[[NRSVue Acts 12#^12-25|25]]:** See 11.29–30. *John . . . Mark*, see v 12; [[JANT Acts 09#^9-36|9.36n.]] ^12-25
 
 [[JANT Acts 11|← Acts 11]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Acts 13|Acts 13 →]]

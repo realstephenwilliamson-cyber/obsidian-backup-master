@@ -16,9 +16,9 @@ Text: [[NRSVue Matthew 25|NRSVue]] · [[Matthew 25|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 25#^25-1|Text]], p. 56* · ([[Luke 12#^12-35|Lk 12.35–36]]). See 22.1–14; [[Revelation 19#^19-7|Rev 19.7–10]]; *b. Shabb*. [[Shabbat 153#153a|153a]]. Those who are prepared for the king’s banquet will enjoy its pleasures; those who are not will suffer. ^25-1
 
-**[[NRSVue Matthew 25#^25-1|1]]:** *Bridesmaids*, Gk “parthenoi,” “virgins.” *Bridegroom*, see 9.15n. ^25-1-2
+**[[NRSVue Matthew 25#^25-1|1]]:** *Bridesmaids*, Gk “parthenoi,” “virgins.” *Bridegroom*, see [[JANT Matthew 09#^9-15|9.15n.]] ^25-1-2
 
-**[[NRSVue Matthew 25#^25-3|3–4]]:** *Oil,* sometimes used in conjunction with “lamps,” a metaphor for righteousness or good deeds ([[Psalms 119#^119-105|Ps 119.105]], “Your word is a lamp to my feet and a light to my path”; [[Proverbs 06#^6-23|Prov 6.23]]; [[Proverbs 13#^13-9|13.9]]; [[Job 18#^18-5|Job 18.5]]; *2 Bar*. 59.2; *4 Ezra* \[2 Esd\] 14.20–21). ^25-3
+**[[NRSVue Matthew 25#^25-3|3–4]]:** *Oil,* sometimes used in conjunction with “lamps,” a metaphor for righteousness or good deeds ([[Psalms 119#^119-105|Ps 119.105]], “Your word is a lamp to my feet and a light to my path”; [[Proverbs 06#^6-23|Prov 6.23]]; [[Proverbs 13#^13-9|13.9]]; [[Job 18#^18-5|Job 18.5]]; *2 Bar*. 59.2; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 14#^14-20|14.20–21]]). ^25-3
 
 **[[NRSVue Matthew 25#^25-13|13]]:** *Keep awake*, 24.42. ^25-13
 
@@ -30,15 +30,15 @@ Text: [[NRSVue Matthew 25|NRSVue]] · [[Matthew 25|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 25#^25-25|25]]:** *Hid your talent*, people buried money to keep it safe from thieves (see Horace, *Sat*. 1.141–42). Here the phrase refers to those who fail to act righteously. ^25-25
 
-**[[NRSVue Matthew 25#^25-29|29–30]]:** [[Luke 08#^8-18|Lk 8.18]]; [[Luke 13#^13-28|13.28]]. *For to all those who have, more will be given*, see *Gos. Thom*. 41; see also *b. Ber*. [[Berakhot 40#40a|40a]]; 55a. *Outer darkness*, see 8.12; 22.13. ^25-29
+**[[NRSVue Matthew 25#^25-29|29–30]]:** [[Luke 08#^8-18|Lk 8.18]]; [[Luke 13#^13-28|13.28]]. *For to all those who have, more will be given*, see *Gos. Thom*. 41; see also *b. Ber*. [[Berakhot 40#40a|40a]]; 55a. *Outer darkness*, see [[Matthew 08#^8-12|8.12]]; 22.13. ^25-29
 
 ### 25.31–46: The final judgment
 
 *[[NRSVue Matthew 25#^25-31|Text]], p. 57* ^25-31
 
-**[[NRSVue Matthew 25#^25-31|31]]:** *Son of Man*, see [[Daniel 07#^7-13|Dan 7.13–14]]; see 8.20n. ^25-31-2
+**[[NRSVue Matthew 25#^25-31|31]]:** *Son of Man*, see [[Daniel 07#^7-13|Dan 7.13–14]]; see [[JANT Matthew 08#^8-20|8.20n.]] ^25-31-2
 
-**[[NRSVue Matthew 25#^25-32|32]]:** *All the nations,* see 24.14n. The judgment of both Jews and Gentiles (see 5.21–22; 7.2; 12.36,41–42; 16.27; see also [[Isaiah 66#^66-18|Isa 66.18]]; [[Ezekiel 34#^34-17|Ezek 34.17]]; [[Micah 4#^4-3|Mic 4.3]]; [[Romans 02#^2-13|Rom 2.13–16]]). *Separate people*, Some Jewish writings attest to an exalted human being who will judge the nations (*2 Bar.* 72.2–6; 11QMelch 2.13), although in rabbinic sources God is the judge (*b. Rosh Ha-Shanah* [[Rosh Hashanah 8#8a|8a]]; 16a-b). *Sheep from the goats*, representing righteous and wicked, respectively ([[Ezekiel 34#^34-12|Ezek 34.12]]). ^25-32
+**[[NRSVue Matthew 25#^25-32|32]]:** *All the nations,* see [[JANT Matthew 24#^24-14|24.14n.]] The judgment of both Jews and Gentiles (see [[Matthew 05#^5-21|5.21–22]]; [[Matthew 07#^7-2|7.2]]; [[Matthew 12#^12-36|12.36]],[[Matthew 12#^12-41|41–42]]; [[Matthew 16#^16-27|16.27]]; see also [[Isaiah 66#^66-18|Isa 66.18]]; [[Ezekiel 34#^34-17|Ezek 34.17]]; [[Micah 4#^4-3|Mic 4.3]]; [[Romans 02#^2-13|Rom 2.13–16]]). *Separate people*, Some Jewish writings attest to an exalted human being who will judge the nations (*2 Bar.* 72.2–6; 11QMelch 2.13), although in rabbinic sources God is the judge (*b. Rosh Ha-Shanah* [[Rosh Hashanah 8#8a|8a]]; 16a-b). *Sheep from the goats*, representing righteous and wicked, respectively ([[Ezekiel 34#^34-12|Ezek 34.12]]). ^25-32
 
 **[[NRSVue Matthew 25#^25-33|33]]:** *Right hand*, the side of righteousness and justice (20.21,23; [[I Kings 22#^22-19|1 Kings 22.19]]; [[Psalms 110#^110-1|Ps 110.1]]; see also [[I Kings 02#^2-19|1 Kings 2.19]]; *Man is coming* b A talent was worth more than fifteen years’ wages of a laborer [[Psalms 045#^45-10|Ps 45.9]]; [[Romans 08#^8-34|Rom 8.34]]). ^25-33
 
@@ -48,8 +48,8 @@ Text: [[NRSVue Matthew 25|NRSVue]] · [[Matthew 25|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 25#^25-40|40]]:** See 10.42. ^25-40
 
-**[[NRSVue Matthew 25#^25-41|41]]:** *Eternal fire*, see 7.19n. ^25-41
+**[[NRSVue Matthew 25#^25-41|41]]:** *Eternal fire*, see [[JANT Matthew 07#^7-19|7.19n.]] ^25-41
 
-**[[NRSVue Matthew 25#^25-46|46]]:** See [[Daniel 12#^12-2|Dan 12.2]]; [[John 05#^5-29|Jn 5.29]]; *2 Bar*. 51.6. *Righteous*, salvation is based on works of compassion (1.19n.; 3.14n.; 5.6; 6.1; 10.11; 21.32; 22.14; see also [[John 05#^5-29|Jn 5.29]]). ^25-46
+**[[NRSVue Matthew 25#^25-46|46]]:** See [[Daniel 12#^12-2|Dan 12.2]]; [[John 05#^5-29|Jn 5.29]]; *2 Bar*. 51.6. *Righteous*, salvation is based on works of compassion ([[JANT Matthew 01#^1-19|1.19n.]]; [[JANT Matthew 03#^3-14|3.14n.]]; 5.6; 6.1; 10.11; 21.32; 22.14; see also [[John 05#^5-29|Jn 5.29]]). ^25-46
 
 [[JANT Matthew 24|← Matthew 24]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 26|Matthew 26 →]]

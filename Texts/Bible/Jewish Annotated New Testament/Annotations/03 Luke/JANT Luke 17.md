@@ -20,7 +20,7 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 17#^17-2|2]]:** *Millstone*, ca. 12–18 in (30–40 cm) in diameter and 2–4 in. (5–10 cm) thick, for grinding grain. *Little ones*, disciples. ^17-2
 
-**[[NRSVue Luke 17#^17-3|3]]:** *Rebuke the offender*, see 3.19–20, 1QS 5.24–6.1 (“They shall rebuke one another in truth, humility, and charity . . .”); cf. CD 7.2–3; and cf. rabbinic injunctions to “tokheiḥah,” “rebuke” (e.g., [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; *Gen. Rab*. 54.3 \[R. Yose bar Hanina said: “Any love unaccompanied by criticism is no love at all”\]; *Sifra* 89a–89b). ^17-3
+**[[NRSVue Luke 17#^17-3|3]]:** *Rebuke the offender*, see [[Luke 03#^3-19|3.19–20]], [[Luke 03#^3-1|1]]QS 5.24–6.1 (“They shall rebuke one another in truth, humility, and charity . . .”); cf. CD 7.2–3; and cf. rabbinic injunctions to “tokheiḥah,” “rebuke” (e.g., [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; *Gen. Rab*. 54.3 \[R. Yose bar Hanina said: “Any love unaccompanied by criticism is no love at all”\]; *Sifra* 89a–89b). ^17-3
 
 **[[NRSVue Luke 17#^17-3|3–4]]:** *Must forgive*, see [[Matthew 18#^18-15|Mt 18.15]],[[Matthew 18#^18-21|21–22]]. ^17-3-2
 
@@ -36,9 +36,9 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 17#^17-7|Text]], p. 150* ^17-7
 
-**[[NRSVue Luke 17#^17-7|7]]:** *Would say to your slave*, see 14.11n. ^17-7-2
+**[[NRSVue Luke 17#^17-7|7]]:** *Would say to your slave*, see [[JANT Luke 14#^14-11|14.11n.]] ^17-7-2
 
-**[[NRSVue Luke 17#^17-10|10]]:** *What we ought to have done*, obedience as a duty, but see 12.35–38. Compare *m. Avot* 1.3: “Be not like slaves that serve the master for the sake of a reward . . . .” ^17-10
+**[[NRSVue Luke 17#^17-10|10]]:** *What we ought to have done*, obedience as a duty, but see 12.35–38. Compare *m. Avot* [[Pirkei Avot 01#^1-3|1.3]]: “Be not like slaves that serve the master for the sake of a reward . . . .” ^17-10
 
 ### 17.11–19: Ten men with leprosy
 
@@ -48,9 +48,9 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 17#^17-14|14]]:** *Priests*, see [[Torah 27 - Tazria#^13-2|Lev 13.2–3]]; [[Torah 28 - Metzora#^14-2|14.2–32]]. ^17-14
 
-**[[NRSVue Luke 17#^17-16|16]]:** *Samaritan*, see 9.52–53n. The Samaritan would have gone to the priest on Mount Gerizim in Samaria; the *other nine* (v 17), presumably Jews, would go to Jerusalem. ^17-16
+**[[NRSVue Luke 17#^17-16|16]]:** *Samaritan*, see [[JANT Luke 09#^9-52-2|9.52–53n.]] The Samaritan would have gone to the priest on Mount Gerizim in Samaria; the *other nine* (v 17), presumably Jews, would go to Jerusalem. ^17-16
 
-**[[NRSVue Luke 17#^17-18|18]]:** *Foreigner* (Gk “allogenēs”), see 7.9n. ^17-18
+**[[NRSVue Luke 17#^17-18|18]]:** *Foreigner* (Gk “allogenēs”), see [[JANT Luke 07#^7-9|7.9n.]] ^17-18
 
 **[[NRSVue Luke 17#^17-19|19]]:** *Made you well*, lit., “saved you” (7.50; 8.48; 18.42). ^17-19
 
@@ -66,7 +66,7 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 17#^17-22|Text]], p. 151* · ([[Matthew 24#^24-17|Mt 24.17–18]],[[Matthew 24#^24-23|23]],[[Matthew 24#^24-26|26–28]],[[Matthew 24#^24-37|37–41]]; [[Mark 13#^13-14|Mk 13.14–16]],[[Mark 13#^13-19|19–23]]). ^17-22
 
-**[[NRSVue Luke 17#^17-22|22]]:** *Days are coming*, referring to some unspecified time in the future; see e.g., [[II Kings 20#^20-17|2 Kings 20.17]]; [[Isaiah 36#^36-9|Isa 36.9]]; [[Jeremiah 51#^51-47|Jer 51.47]]*. Son of Man*, see 5.24n. ^17-22-2
+**[[NRSVue Luke 17#^17-22|22]]:** *Days are coming*, referring to some unspecified time in the future; see e.g., [[II Kings 20#^20-17|2 Kings 20.17]]; [[Isaiah 36#^36-9|Isa 36.9]]; [[Jeremiah 51#^51-47|Jer 51.47]]*. Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] ^17-22-2
 
 **[[NRSVue Luke 17#^17-25|25]]:** *Endure much suffering*, see 9.22. ^17-25
 

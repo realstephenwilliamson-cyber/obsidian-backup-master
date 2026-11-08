@@ -20,13 +20,13 @@ Text: [[NRSVue Acts 10|NRSVue]] · [[Acts 10|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 10#^10-1|Text]], p. 243* · Visions, angels, and heavenly voices underscore God’s direction of the conversion of Gentiles. ^10-1-2
 
-**[[NRSVue Acts 10#^10-1|1]]:** *Caesarea*, see 8.40n. *Centurion of the Italian Cohort*, an officer in the Roman army who led several hundred soldiers. The Gospel also includes a story of a Roman centurion who is friendly toward Jews and interested in Jewish practices ([[Luke 07#^7-1|Lk 7.1–10]]). ^10-1-3
+**[[NRSVue Acts 10#^10-1|1]]:** *Caesarea*, see [[JANT Acts 08#^8-40|8.40n.]] *Centurion of the Italian Cohort*, an officer in the Roman army who led several hundred soldiers. The Gospel also includes a story of a Roman centurion who is friendly toward Jews and interested in Jewish practices ([[Luke 07#^7-1|Lk 7.1–10]]). ^10-1-3
 
 **[[NRSVue Acts 10#^10-2|2]]:** *Devout*, adheres to Jewish ideas and practices. Other Gentiles show similar interest in Jewish practices (see [[Luke 07#^7-1|Lk 7.1–10]]; [[Acts 13#^13-16|Acts 13.16]],[[Acts 13#^13-26|26]]; [[Acts 16#^16-14|16.14]]; [[Acts 17#^17-4|17.4]],[[Acts 17#^17-12|12]]; [[Acts 18#^18-7|18.7]]). ^10-2
 
-**[[NRSVue Acts 10#^10-3|3]]:** *Three o’clock*, see 3.1. *Vision*, see 9.10. *Angel*, see 5.19; 8.26; 12.7; 27.23. ^10-3
+**[[NRSVue Acts 10#^10-3|3]]:** *Three o’clock*, see 3.1. *Vision*, see 9.10. *Angel*, see [[Acts 05#^5-19|5.19]]; [[Acts 08#^8-26|8.26]]; [[Acts 12#^12-7|12.7]]; 27.23. ^10-3
 
-**[[NRSVue Acts 10#^10-4|4]]:** *Lord*, see 9.5n. *Ascended as a memorial*, language frequently used of sacrifice ([[Torah 24 - Vayikra#^2-2|Lev 2.2]]; 5.12; [[Torah 25 - Tzav#^6-8|6.15]]; [[LXX Sirach 38#^38-11|Sir 38.11]]). ^10-4
+**[[NRSVue Acts 10#^10-4|4]]:** *Lord*, see [[JANT Acts 09#^9-5|9.5n.]] *Ascended as a memorial*, language frequently used of sacrifice ([[Torah 24 - Vayikra#^2-2|Lev 2.2]]; 5.12; [[Torah 25 - Tzav#^6-8|6.15]]; [[LXX Sirach 38#^38-11|Sir 38.11]]). ^10-4
 
 **[[NRSVue Acts 10#^10-9|9]]:** *Noon*, expected time to serve meals (*b. Shabb.* [[Shabbat 10#10a|10a]]). ^10-9
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Acts 10|NRSVue]] · [[Acts 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 10#^10-36|36]]:** *Preaching peace*, the message of reconciliation ([[2 Corinthians 05#^5-18|2 Cor 5.18–19]]). *Lord of all*, title of pagan gods (Plutarch, *Is. Os.* 355E), Roman emperors (Epictetus, *Diatr.* 4.1.12), and God ([[Joshua 03#^3-11|Josh 3.11]]; [[Psalms 097#^97-5|Ps 97.5]]; [[Zechariah 06#^6-5|Zech 6.5]]; [[LXX Wisdom of Solomon 06#^6-7|Wis 6.7]]; [[LXX Wisdom of Solomon 08#^8-3|8.3]]). ^10-36
 
-**[[NRSVue Acts 10#^10-39|39]]:** *They*, most likely meant as Jews/Jewish word b Gk *he* c Gk *brothers* leaders held responsible for the crucifixion (2.23; 3.15; 5.30). *Tree*, the cross (see 5.30; 13.29). ^10-39
+**[[NRSVue Acts 10#^10-39|39]]:** *They*, most likely meant as Jews/Jewish word b Gk *he* c Gk *brothers* leaders held responsible for the crucifixion (2.23; 3.15; 5.30). *Tree*, the cross (see [[Acts 05#^5-30|5.30]]; [[Acts 13#^13-29|13.29]]). ^10-39
 
 **[[NRSVue Acts 10#^10-41|41]]:** *Ate and drank with him*, see [[Luke 24#^24-30|Lk 24.30]],[[Luke 24#^24-42|42–43]],[[Luke 24#^24-48|48]]. ^10-41
 

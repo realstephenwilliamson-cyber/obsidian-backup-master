@@ -17,11 +17,11 @@ The Acts of the Apostles (Acts) appears fifth in the canonical order of the book
 
 ## Authorship
 
-The attribution of Acts to Luke, often considered a physician and companion of Paul ([[Colossians 04#^4-14|Col 4.14]]; [[2 Timothy 04#^4-11|2 Tim 4.11]]; Philem 24), first appears in the second century (Irenaeus, *Adv. Haer.* 3.1.1; 3.14.1; Tertullian, *Marc.* 4.2.2; Clement, *Paed.* 2.1.15; *Strom.* 5.12.82). The author had considerable familiarity with the Hebrew Bible through its Greek translation (the Septuagint), Jewish customs and institutions such as Sabbath restrictions on travel (1.12), Greek literary traditions (Paul quotes from Greek poets in 17.28), and Roman political structures (e.g., legal proceedings in ch 24).
+The attribution of Acts to Luke, often considered a physician and companion of Paul ([[Colossians 04#^4-14|Col 4.14]]; [[2 Timothy 04#^4-11|2 Tim 4.11]]; [[Philemon 01#^1-24|Philem 24]]), first appears in the second century (Irenaeus, *Adv. Haer.* 3.1.1; 3.14.1; Tertullian, *Marc.* 4.2.2; Clement, *Paed.* 2.1.15; *Strom.* 5.12.82). The author had considerable familiarity with the Hebrew Bible through its Greek translation (the Septuagint), Jewish customs and institutions such as Sabbath restrictions on travel (1.12), Greek literary traditions (Paul quotes from Greek poets in 17.28), and Roman political structures (e.g., legal proceedings in ch 24).
 
 ## Date
 
-The Gospel of Luke probably alludes to the destruction of the Jerusalem Temple (see 19.41–44; 21.20–24), which places its composition after 70 CE. It is also possible that the author of Acts had access to the writings of Josephus, which were also composed after 70. While a precise date is impossible to establish, Acts was most likely composed early in the second century CE.
+The Gospel of Luke probably alludes to the destruction of the Jerusalem Temple (see [[Acts 19#^19-41|19.41–44]]; [[Acts 21#^21-20|21.20–24]]), which places its composition after 70 CE. It is also possible that the author of Acts had access to the writings of Josephus, which were also composed after 70. While a precise date is impossible to establish, Acts was most likely composed early in the second century CE.
 
 ## Literary History
 

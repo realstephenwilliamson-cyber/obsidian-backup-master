@@ -52,6 +52,6 @@ Text: [[NRSVue 2 Timothy 01|NRSVue]] · [[2 Timothy 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 2 Timothy 01#^1-15|15]]:** *Asia*, a Roman province (modern-day Turkey). *Phygelus and Hermogenes*, not mentioned elsewhere. ^1-15-2
 
-**[[NRSVue 2 Timothy 01#^1-16|16]]:** *Onesiphorus*, see 4.19, lived in Ephesus; although he is not mentioned elsewhere in the NT, he appears in the apocryphal *Acts of Paul and Thecla* (3.2–7; 15.23–26,42), which places him in Iconium. *Chain*, referring to Paul’s imprisonment; see [[Acts 28#^28-20|Acts 28.20]]. ^1-16
+**[[NRSVue 2 Timothy 01#^1-16|16]]:** *Onesiphorus*, see [[2 Timothy 04#^4-19|4.19]], lived in Ephesus; although he is not mentioned elsewhere in the NT, he appears in the apocryphal *Acts of Paul and Thecla* (3.2–7; 15.23–26,42), which places him in Iconium. *Chain*, referring to Paul’s imprisonment; see [[Acts 28#^28-20|Acts 28.20]]. ^1-16
 
 — · [[Jewish Annotated New Testament|JANT index]] · [[JANT 2 Timothy 02|2 Timothy 2 →]]

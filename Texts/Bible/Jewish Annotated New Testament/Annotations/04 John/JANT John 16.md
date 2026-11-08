@@ -14,15 +14,15 @@ Text: [[NRSVue John 16|NRSVue]] · [[John 16|BSB and SBLGNT]] · Introduction: [
 
 ### 16.1–4a: Synagogue expulsion
 
-*[[NRSVue John 16#^16-1|Text]], p. 209* · (see also 9.22; 12.42). ^16-1
+*[[NRSVue John 16#^16-1|Text]], p. 209* · (see also [[John 09#^9-22|9.22]]; [[John 12#^12-42|12.42]]). ^16-1
 
 **[[NRSVue John 16#^16-2|2]]:** *Those who kill you*, a general reference, but in context a suggestion that Jews will kill Jesus’ followers. There is no evidence for such persecution. The statement serves the rhetorical purpose of sowing fear of the Jews on the part of the audiences to encourage separation. ^16-2
 
 **[[NRSVue John 16#^16-4|4]]:** *Their hour*, could mean either the hour of the opponents’ ascendancy ([[Luke 22#^22-53|Lk 22.53]]) or the hour of seeming defeat that is actually triumph ([[John 17#^17-1|Jn 17.1]]). ^16-4
 
-**[[NRSVue John 16#^16-4|4b–14]]:** Paraclete (see 14.16–17). ^16-4-2
+**[[NRSVue John 16#^16-4|4b–14]]:** Paraclete (see [[John 14#^14-16|14.16–17]]). ^16-4-2
 
-**[[NRSVue John 16#^16-8|8–11]]:** *Sin*, here the failure to believe or trust in Jesus and therefore to separate oneself from God; see 15.22–24n. *Righteousness*, Jesus’ reunion with the Father, which the opponents do not acknowledge; *judgment*, recognition that the opposition and evil that govern *this world* have already been deposed. ^16-8
+**[[NRSVue John 16#^16-8|8–11]]:** *Sin*, here the failure to believe or trust in Jesus and therefore to separate oneself from God; see [[JANT John 15#^15-22|15.22–24n.]] *Righteousness*, Jesus’ reunion with the Father, which the opponents do not acknowledge; *judgment*, recognition that the opposition and evil that govern *this world* have already been deposed. ^16-8
 
 **[[NRSVue John 16#^16-12|12–15]]:** These statements about the *Spirit* and the *Father* were important in the later Trinitarian development. ^16-12
 

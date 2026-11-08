@@ -16,7 +16,7 @@ Text: [[NRSVue Acts 11|NRSVue]] · [[Acts 11|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 11#^11-1|Text]], p. 245* · Peter reviews the events that led to Cornelius’s baptism, and the apostles acknowledge that divine gifts are extended to Gentiles. Luke uses the repetition of stories, such as Jesus’ ascent into heaven ([[Luke 24#^24-51|Lk 24.51]]; [[Acts 01#^1-9|Acts 1.9]]) or Paul’s reports of his vision of Jesus (9.1–9; 32.1–21; 26.2–33), to indicate an important narrative transition, in this case a shift in focus from Jews to Gentiles as constituting the community of believers. ^11-1
 
-**[[NRSVue Acts 11#^11-3|3]]:** The objection to Peter eating with Gentiles, rather than converting Jews, reinforces an image that Jews are xenophobic (see 10.28n.). ^11-3
+**[[NRSVue Acts 11#^11-3|3]]:** The objection to Peter eating with Gentiles, rather than converting Jews, reinforces an image that Jews are xenophobic (see [[JANT Acts 10#^10-28|10.28n.]]). ^11-3
 
 **[[NRSVue Acts 11#^11-5|5–9]]:** Peter repeats the account of his vision with minor variations (see 10.9–15). ^11-5
 
@@ -25,11 +25,11 @@ Text: [[NRSVue Acts 11|NRSVue]] · [[Acts 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 11#^11-14|14]]:** *Household*, the conversion of the head of the household brings about the conversion of the entire household (16.15,34; 18.8). *Will be saved*, see 4.12. ^11-14
 
-**[[NRSVue Acts 11#^11-15|15]]:** *Holy Spirit*, see 10.44n. ^11-15
+**[[NRSVue Acts 11#^11-15|15]]:** *Holy Spirit*, see [[JANT Acts 10#^10-44|10.44n.]] ^11-15
 
-**[[NRSVue Acts 11#^11-16|16]]:** See 1.5n. ^11-16
+**[[NRSVue Acts 11#^11-16|16]]:** See [[JANT Acts 01#^1-5|1.5n.]] ^11-16
 
-**[[NRSVue Acts 11#^11-18|18]]:** *Repentance*, including belief in Jesus (see 2.38n.). ^11-18
+**[[NRSVue Acts 11#^11-18|18]]:** *Repentance*, including belief in Jesus (see [[JANT Acts 02#^2-38|2.38n.]]). ^11-18
 
 ### 11.19–30: The church in Antioch
 
@@ -41,9 +41,9 @@ Text: [[NRSVue Acts 11|NRSVue]] · [[Acts 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 11#^11-22|22]]:** Sending representatives from the Jerusalem church (see 8.14) sanctions the expansion. ^11-22
 
-**[[NRSVue Acts 11#^11-25|25]]:** *Tarsus*, see 9.30n. ^11-25
+**[[NRSVue Acts 11#^11-25|25]]:** *Tarsus*, see [[JANT Acts 09#^9-30|9.30n.]] ^11-25
 
-**[[NRSVue Acts 11#^11-26|26]]:** *Christians*, the community of believers has previously been referred to as the Way (see 9.2n.). The origin of the name is uncertain. A new name, especially when connected to Gentile converts, indicates that the church is no longer fully identifiable with Jews. ^11-26
+**[[NRSVue Acts 11#^11-26|26]]:** *Christians*, the community of believers has previously been referred to as the Way (see [[JANT Acts 09#^9-2|9.2n.]]). The origin of the name is uncertain. A new name, especially when connected to Gentile converts, indicates that the church is no longer fully identifiable with Jews. ^11-26
 
 **[[NRSVue Acts 11#^11-27|27]]:** *Prophets*, recognized role among Jews (Josephus, *J.W.* 1.78–80; 2.112–13; 2.258–63; 6.283–87; 6.300–309; 7.437–50; *Ant*. 14.22–24; 14.172–76; 15.373–79; 17.345–48; 20.97–99; 20.167–72; 20.188) and early Christians ([[1 Corinthians 12#^12-28|1 Cor 12.28–29]]; [[1 Corinthians 14#^14-29|14.29–37]]; [[Ephesians 04#^4-11|Eph 4.11]]). ^11-27
 

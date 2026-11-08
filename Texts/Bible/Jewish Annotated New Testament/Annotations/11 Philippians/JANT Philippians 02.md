@@ -40,7 +40,7 @@ Text: [[NRSVue Philippians 02|NRSVue]] · [[Philippians 02|BSB and SBLGNT]] · I
 
 **[[NRSVue Philippians 02#^2-23|23]]:** *How things go*, regarding Paul’s verdict. ^2-23
 
-**[[NRSVue Philippians 02#^2-25|25]]:** *Still, I think it necessary to send . . . Epaphroditus*, Paul softens news that he is sending Epaphroditus first and alone, and only later Timothy—whom Paul knows they have been awaiting (see 2.19n.). ^2-25
+**[[NRSVue Philippians 02#^2-25|25]]:** *Still, I think it necessary to send . . . Epaphroditus*, Paul softens news that he is sending Epaphroditus first and alone, and only later Timothy—whom Paul knows they have been awaiting (see [[JANT Philippians 02#^2-19-2|2.19n.]]). ^2-25
 
 **[[NRSVue Philippians 02#^2-26|26]]:** *Because you heard that he was ill*, how is unspecified. ^2-26
 

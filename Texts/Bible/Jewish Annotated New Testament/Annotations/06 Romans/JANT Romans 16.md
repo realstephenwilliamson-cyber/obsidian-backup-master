@@ -18,7 +18,7 @@ Text: [[NRSVue Romans 16|NRSVue]] · [[Romans 16|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 16#^16-1|1]]:** *Phoebe* likely carried and presented this letter. *Church*, or assembly. *Deacon*, Gk “diakonos,” servant, here an authoritative role ([[Philippians 01#^1-1|Phil 1.1]]). *Cenchreae*, Corinth’s port. ^16-1-2
 
-**[[NRSVue Romans 16#^16-2|2]]:** *Saints*, see 1.7n. *Benefactor*, one who uses wealth to help the less fortunate. ^16-2
+**[[NRSVue Romans 16#^16-2|2]]:** *Saints*, see [[JANT Romans 01#^1-7|1.7n.]] *Benefactor*, one who uses wealth to help the less fortunate. ^16-2
 
 **[[NRSVue Romans 16#^16-3|3]]:** *Prisca and Aquila*, [[Acts 18#^18-2|Acts 18.2]]; [[1 Corinthians 16#^16-19|1 Cor 16.19]]; [[2 Timothy 04#^4-19|2 Tim 4.19]]. ^16-3
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Romans 16|NRSVue]] · [[Romans 16|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 16#^16-20|20]]:** Cf. [[Torah 01 - Bereshit#^3-14|Gen 3.14–15]]. *Satan*, or the adversary. ^16-20
 
-**[[NRSVue Romans 16#^16-21|21]]:** *Timothy*, see [[1 Corinthians 04#^4-17|1 Cor 4.17]]; [[1 Corinthians 16#^16-10|16.10]]; [[2 Corinthians 01#^1-1|2 Cor 1.1]],[[2 Corinthians 01#^1-19|19]]; [[Philippians 01#^1-1|Phil 1.1]]; [[1 Thessalonians 01#^1-1|1 Thess 1.1]]; Philem 1; cf. [[Acts 16#^16-1|Acts 16.1–3]]; [[2 Thessalonians 01#^1-1|2 Thess 1.1]]; [[Colossians 01#^1-1|Col 1.1]]; [[2 Timothy 01#^1-5|2 Tim 1.5]]. *Lucius*, cf. [[Acts 13#^13-1|Acts 13.1]]; [[Colossians 04#^4-14|Col 4.14]]; [[2 Timothy 04#^4-11|2 Tim 4.11]]; Philem 24. *Jason*, see [[Acts 17#^17-5|Acts 17.5–9]]; *Sosipater*, see [[Acts 20#^20-4|Acts 20.4]]. ^16-21
+**[[NRSVue Romans 16#^16-21|21]]:** *Timothy*, see [[1 Corinthians 04#^4-17|1 Cor 4.17]]; [[1 Corinthians 16#^16-10|16.10]]; [[2 Corinthians 01#^1-1|2 Cor 1.1]],[[2 Corinthians 01#^1-19|19]]; [[Philippians 01#^1-1|Phil 1.1]]; [[1 Thessalonians 01#^1-1|1 Thess 1.1]]; [[Philemon 01#^1-1|Philem 1]]; cf. [[Acts 16#^16-1|Acts 16.1–3]]; [[2 Thessalonians 01#^1-1|2 Thess 1.1]]; [[Colossians 01#^1-1|Col 1.1]]; [[2 Timothy 01#^1-5|2 Tim 1.5]]. *Lucius*, cf. [[Acts 13#^13-1|Acts 13.1]]; [[Colossians 04#^4-14|Col 4.14]]; [[2 Timothy 04#^4-11|2 Tim 4.11]]; [[Philemon 01#^1-24|Philem 24]]. *Jason*, see [[Acts 17#^17-5|Acts 17.5–9]]; *Sosipater*, see [[Acts 20#^20-4|Acts 20.4]]. ^16-21
 
 **[[NRSVue Romans 16#^16-22|22]]:** *Tertius*, the amanuensis who wrote Romans for Paul. ^16-22
 

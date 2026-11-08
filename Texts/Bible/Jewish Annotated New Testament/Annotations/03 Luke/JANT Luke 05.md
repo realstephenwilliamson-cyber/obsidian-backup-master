@@ -20,7 +20,7 @@ Text: [[NRSVue Luke 05|NRSVue]] · [[Luke 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 05#^5-5|5]]:** *Master* (Gk “epistatēs”), Luke’s equivalent for “Rabbi” (see [[Luke 09#^9-33|Lk 9.33]] || [[Mark 09#^9-5|Mk 9.5]]). ^5-5
 
-**[[NRSVue Luke 05#^5-8|8]]:** *Lord*, see 1.17n. *Sinful*, Luke does not detail Peter’s transgressions. Confession of sin is not a typical response to a miracle, cf. 5.32. ^5-8
+**[[NRSVue Luke 05#^5-8|8]]:** *Lord*, see [[JANT Luke 01#^1-17|1.17n.]] *Sinful*, Luke does not detail Peter’s transgressions. Confession of sin is not a typical response to a miracle, cf. 5.32. ^5-8
 
 **[[NRSVue Luke 05#^5-11|11]]:** *Left everything*, including families (5.28; 8.21; 9.61; 18.29 and cf. [[I Kings 19#^19-20|1 Kings 19.20]]). ^5-11
 
@@ -35,9 +35,9 @@ Text: [[NRSVue Luke 05|NRSVue]] · [[Luke 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 05#^5-12|12]]:** *Leprosy*, generic skin ailment, not Hansen’s disease. *Make me clean*, cured, thus ritually pure. ^5-12-2
 
-**[[NRSVue Luke 05#^5-13|13]]:** *Touched*, Josephus, *Ag. Ap*. 1.281, suggests that one who touches a person suffering from leprosy would be “esteemed unclean”; this is implied, but not stated in biblical texts, and explicit in rabbinic literature (*m. Zabim* 5.6). But no law forbids such contact; ritual impurity is a normal part of life. By curing the man, Jesus is reinforcing purity laws rather than abrogating them: there will be no impurity in his kingdom. **14**: *Tell no one*, this “messianic secret” is more prevalent in Mark’s Gospel. Suggestions for its rationale include emphasizing teaching over miracles; avoiding Antipas’s attention (8.56; see also 7.22; 22.70; 23.3); an explanation for why most Jews did not follow Jesus. *Show yourself to the priest*, the priest needs to pronounce him cleansed (Lev 13). *Moses commanded*, see [[Torah 28 - Metzora#^14-1|Lev 14.1–57]]. ^5-13
+**[[NRSVue Luke 05#^5-13|13]]:** *Touched*, Josephus, *Ag. Ap*. 1.281, suggests that one who touches a person suffering from leprosy would be “esteemed unclean”; this is implied, but not stated in biblical texts, and explicit in rabbinic literature (*m. Zabim* 5.6). But no law forbids such contact; ritual impurity is a normal part of life. By curing the man, Jesus is reinforcing purity laws rather than abrogating them: there will be no impurity in his kingdom. **14**: *Tell no one*, this “messianic secret” is more prevalent in Mark’s Gospel. Suggestions for its rationale include emphasizing teaching over miracles; avoiding Antipas’s attention (8.56; see also [[Luke 07#^7-22|7.22]]; [[Luke 22#^22-70|22.70]]; [[Luke 23#^23-3|23.3]]); an explanation for why most Jews did not follow Jesus. *Show yourself to the priest*, the priest needs to pronounce him cleansed (Lev 13). *Moses commanded*, see [[Torah 28 - Metzora#^14-1|Lev 14.1–57]]. ^5-13
 
-**[[NRSVue Luke 05#^5-16|16]]:** *Pray*, see 3.21n. ^5-16
+**[[NRSVue Luke 05#^5-16|16]]:** *Pray*, see [[JANT Luke 03#^3-21-2|3.21n.]] ^5-16
 
 ### 5.17–26: Healing the paralyzed man
 
@@ -47,21 +47,21 @@ Text: [[NRSVue Luke 05|NRSVue]] · [[Luke 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 05#^5-19|19]]:** *Tiles*, Mark describes a mud-plaster roof; Luke gives the home an upgrade. ^5-19
 
-**[[NRSVue Luke 05#^5-20|20]]:** *Sins are forgiven*, the comment implies a connection between infirmity and sin ([[Torah 21 - Ki Tisa#^34-7|Ex 34.7]]; [[John 09#^9-2|Jn 9.2]]). Jews also recognized illness as caused by demons (see 4.39n.), as tests of the righteous (especially Job), and as part of life. ^5-20
+**[[NRSVue Luke 05#^5-20|20]]:** *Sins are forgiven*, the comment implies a connection between infirmity and sin ([[Torah 21 - Ki Tisa#^34-7|Ex 34.7]]; [[John 09#^9-2|Jn 9.2]]). Jews also recognized illness as caused by demons (see [[JANT Luke 04#^4-39|4.39n.]]), as tests of the righteous (especially Job), and as part of life. ^5-20
 
 **[[NRSVue Luke 05#^5-21|21]]:** *Scribes*, Heb “soferim.” *Blasphemies*, capital offense ([[Torah 31 - Emor#^24-14|Lev 24.14–16]]), although Jesus does not here blaspheme by using the divine name. Had he blasphemed, his opponents would do more than question *in \[their\] hearts* (v 22). In 4QPrNab, a Jewish exorcist forgives the sins of an ailing man. ^5-21
 
 **[[NRSVue Luke 05#^5-24|24]]:** *Son of Man*, Jesus’ self-designation, variously indicating a mortal ([[Ezekiel 02#^2-1|Ezek 2.1]]; [[Psalms 008#^8-5|Ps 8.4]]) or an apocalyptic redeemer ([[Daniel 07#^7-13|Dan 7.13–14]]; *1 En*. 71). ^5-24
 
-**[[NRSVue Luke 05#^5-25|25]]:** *Glorifying God*, or giving glory (praise) to God; see18.43. Luke does not directly equate Jesus with “God,” but readers could make the connection (see 4.8n.). diseases b Gk *he* c Gk *him* d Other ancient authorities read *was present to heal them* e Gk *into the midst* f Gk *Man* ^5-25
+**[[NRSVue Luke 05#^5-25|25]]:** *Glorifying God*, or giving glory (praise) to God; see18.43. Luke does not directly equate Jesus with “God,” but readers could make the connection (see [[JANT Luke 04#^4-8|4.8n.]]). diseases b Gk *he* c Gk *him* d Other ancient authorities read *was present to heal them* e Gk *into the midst* f Gk *Man* ^5-25
 
 ### 5.27–28: Levi’s call
 
 *[[NRSVue Luke 05#^5-27|Text]], p. 124* · ([[Matthew 09#^9-9|Mt 9.9–13]]; [[Mark 02#^2-13|Mk 2.13–17]]). ^5-27
 
-**[[NRSVue Luke 05#^5-27|27]]:** *Tax collector*, 3.12n. ^5-27-2
+**[[NRSVue Luke 05#^5-27|27]]:** *Tax collector*, [[JANT Luke 03#^3-12|3.12n.]] ^5-27-2
 
-**[[NRSVue Luke 05#^5-28|28]]:** *Left everything*, 5.11n. ^5-28
+**[[NRSVue Luke 05#^5-28|28]]:** *Left everything*, [[JANT Luke 05#^5-11|5.11n.]] ^5-28
 
 ### 5.29–39: Table fellowship
 

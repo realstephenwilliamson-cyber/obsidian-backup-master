@@ -20,19 +20,19 @@ Text: [[NRSVue Revelation 16|NRSVue]] · [[Revelation 16|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 16#^16-2|2]]:** *Sore*, see [[Torah 14 - Vaera#^9-8|Ex 9.8–12]]. *Mark*, see 13.16–17. ^16-2
 
-**[[NRSVue Revelation 16#^16-3|3–4]]:** *Blood*, see 8.8–9; [[Torah 14 - Vaera#^7-14|Ex 7.14–25]]. ^16-3
+**[[NRSVue Revelation 16#^16-3|3–4]]:** *Blood*, see [[Revelation 08#^8-8|8.8–9]]; [[Torah 14 - Vaera#^7-14|Ex 7.14–25]]. ^16-3
 
-**[[NRSVue Revelation 16#^16-5|5]]:** *Angel of the waters*, see 7.1–2; 14.18 for an angel in control of fire. In *1 En*. 60.10–20, various angels have charge of natural phenomena. ^16-5
+**[[NRSVue Revelation 16#^16-5|5]]:** *Angel of the waters*, see [[Revelation 07#^7-1|7.1–2]]; [[Revelation 14#^14-18|14.18]] for an angel in control of fire. In *1 En*. 60.10–20, various angels have charge of natural phenomena. ^16-5
 
 **[[NRSVue Revelation 16#^16-6|6]]:** *Blood to drink*, [[Ezekiel 39#^39-19|Ezek 39.19]]; cf. [[Revelation 17#^17-6|Rev 17.6]]. The legend that Israel had slaughtered each prophet sent by God, and thus also Jesus, had much currency among Jewish Jesus-believers who viewed Jesus as an exalted prophet (see [[II Chronicles 24#^24-18|2 Chr 24.18–21]]; [[Matthew 23#^23-29|Mt 23.29–37]]; [[Luke 11#^11-47|Lk 11.47–51]]; *Jub.* 1.12; *T*. *Levi* 16.2; cf. [[Matthew 27#^27-25|Mt 27.25]]). ^16-6
 
 **[[NRSVue Revelation 16#^16-7|7]]:** As in 9.13, the *altar* (lit., “one from the altar”) blesses God. In the Qumran Sabbath Hymns, every part of the furniture of the heavenly Temple breaks into songs of praise to God (4QShirShabbf). ^16-7
 
-**[[NRSVue Revelation 16#^16-9|9]]:** As with all the plagues, the suffering multitudes do not praise but curse the God of judgment, a contrast to the repeated praise scenes in Revelation (see 9.20–21; 16.11,21). ^16-9
+**[[NRSVue Revelation 16#^16-9|9]]:** As with all the plagues, the suffering multitudes do not praise but curse the God of judgment, a contrast to the repeated praise scenes in Revelation (see [[Revelation 09#^9-20|9.20–21]]; [[Revelation 16#^16-11|16.11]],[[Revelation 16#^16-21|21]]). ^16-9
 
-**[[NRSVue Revelation 16#^16-10|10]]:** *Throne of the beast*, 13.2. *Darkness*, see 8.12; [[Torah 15 - Bo#^10-21|Ex 10.21]]. ^16-10
+**[[NRSVue Revelation 16#^16-10|10]]:** *Throne of the beast*, 13.2. *Darkness*, see [[Revelation 08#^8-12|8.12]]; [[Torah 15 - Bo#^10-21|Ex 10.21]]. ^16-10
 
-**[[NRSVue Revelation 16#^16-12|12]]:** Drying of the *Euphrates* reverses the Red Sea crossing in [[Torah 16 - Beshalach#^14-21|Ex 14.21–15.19]] by allowing the invasion of *kings from the east*, as many end-time scenarios imagined (*1 En*. 56; *Sib. Or*. 4.137–39; *6 Ezra* 15.28–45). ^16-12
+**[[NRSVue Revelation 16#^16-12|12]]:** Drying of the *Euphrates* reverses the Red Sea crossing in [[Torah 16 - Beshalach#^14-21|Ex 14.21–15.19]] by allowing the invasion of *kings from the east*, as many end-time scenarios imagined (*1 En*. 56; *Sib. Or*. 4.137–39; *6 Ezra* [[NRSVue 2 Esdras 15#^15-28|15.28–45]]). ^16-12
 
 **[[NRSVue Revelation 16#^16-13|13]]:** If inspired by [[Torah 14 - Vaera#^8-1|Ex 8.1–15]], John reconceptualizes *frogs* as the form taken by the demonic spirits of false prophecy (hence false miracle-working, v 14). *Dragon*, 12.3. The *false prophet* was a common concern in the early Jesus movement: see [[Torah 48 - Shoftim#^18-20|Deut 18.20–22]]; [[Mark 13#^13-22|Mk 13.22]]; [[2 Corinthians 11#^11-13|2 Cor 11.13–15]]; [[1 John 04#^4-1|1 Jn 4.1–3]]. Early rabbis, following [[Torah 48 - Shoftim#^18-21|Deut 18.21–22]], held that the false prophet is one who prophesies what he has not heard (*m. Sanh*. 11.5). ^16-13
 
@@ -42,7 +42,7 @@ Text: [[NRSVue Revelation 16|NRSVue]] · [[Revelation 16|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 16#^16-16|16]]:** *Harmagedon*, probably biblical Megiddo, an ancient city mentioned in the Hebrew Bible (e.g., [[Judges 01#^1-27|Judg 1.27]]; [[Judges 05#^5-19|5.19]]), but never as an eschatological battlefield. The mountain (Heb “har”) as site of eschatological war is found in [[Ezekiel 38#^38-8|Ezek 38.8]]; [[Ezekiel 39#^39-2|39.2]],[[Ezekiel 39#^39-4|4]] and *4 Ezra* 13.34–35. ^16-16
 
-**[[NRSVue Revelation 16#^16-19|19]]:** *Great city*, Rome, here called *Babylon*, anticipating its appearance in the form of a great whore in ch 17 (cf. 14.8). Jews identified Rome as a new Babylon because of its threat to and ultimately demolition of the Jerusalem Temple (e.g., *4 Ezra* 3.2; *2 Bar.* 6.1; 8.3–5; 11). This symbolic use of past historical names of cities and people preoccupied biblical interpretation and historiography at Qumran: e.g., *Pesher Habakkuk* (1QpHab: “Kittim”); *Cairo Damascus Document* (CD: “Damascus”); *the Qumran War Scroll* (1QM: “Kittim,” “Assyria”). *Split into three parts*, cf. [[Zechariah 04#^4-4|Zech 4.4]] (split in half). *Wine-cup*, see 14.10. In 17.4b the wine cup is filled with impurities rather than God’s wrath. ^16-19
+**[[NRSVue Revelation 16#^16-19|19]]:** *Great city*, Rome, here called *Babylon*, anticipating its appearance in the form of a great whore in ch 17 (cf. [[Revelation 14#^14-8|14.8]]). Jews identified Rome as a new Babylon because of its threat to and ultimately demolition of the Jerusalem Temple (e.g., *4 Ezra* [[NRSVue 2 Esdras 03#^3-2|3.2]]; *2 Bar.* 6.1; 8.3–5; 11). This symbolic use of past historical names of cities and people preoccupied biblical interpretation and historiography at Qumran: e.g., *Pesher Habakkuk* (1QpHab: “Kittim”); *Cairo Damascus Document* (CD: “Damascus”); *the Qumran War Scroll* (1QM: “Kittim,” “Assyria”). *Split into three parts*, cf. [[Zechariah 04#^4-4|Zech 4.4]] (split in half). *Wine-cup*, see 14.10. In 17.4b the wine cup is filled with impurities rather than God’s wrath. ^16-19
 
 **[[NRSVue Revelation 16#^16-21|21]]:** *Hailstones*, [[Torah 14 - Vaera#^9-13|Ex 9.13–35]]; [[Psalms 018#^18-13|Ps 18.12]]; [[LXX Wisdom of Solomon 05#^5-22|Wis 5.22]]. ^16-21
 

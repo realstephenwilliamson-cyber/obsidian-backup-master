@@ -18,7 +18,7 @@ Text: [[NRSVue Mark 05|NRSVue]] · [[Mark 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 05#^5-1|1]]:** *Gerasenes*, Gerasa is forty miles from the Sea of Galilee, which makes the setting inconsistent with v 13. Gerasa may evoke Heb “gerash,” which means “expel”; the term appears in some biblical accounts of God expelling the nations from the land (e.g., *Gadarenes* [[Torah 18 - Mishpatim#^23-28|Ex 23.28]]), as here unclean animals are expelled (see also 6.6b–13n.). ^5-1-2
 
-**[[NRSVue Mark 05#^5-2|2]]:** *Unclean spirit*, see 1.22–24n. ^5-2
+**[[NRSVue Mark 05#^5-2|2]]:** *Unclean spirit*, see [[JANT Mark 01#^1-22|1.22–24n.]] ^5-2
 
 **[[NRSVue Mark 05#^5-7|7]]:** The spirit recognizes Jesus as *Son of the Most High God* (Gk “hypsistos,” in LXX for “ ʿelyon,” “Most High,” an ancient name for God \[e.g., [[Psalms 009#^9-3|Ps 9.2]]\]). ^5-7
 

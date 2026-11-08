@@ -18,11 +18,11 @@ Text: [[NRSVue Matthew 02|NRSVue]] · [[Matthew 02|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 02#^2-1|1]]:** *King,* Matthew emphasizes the title to contrast Herod’s rule with that of Jesus, depicted as the son of David and so the true king of Israel. *Herod* ruled 37–4 BCE. *Bethlehem*, five miles south of Jerusalem. *Wise men*, Gk “Magi,” were Zoroastrian priests; early Jewish readers may have regarded them as Persian astrologers, and not as wise but as foolish. Philo calls Balaam a “magos” (*Life of Moses* 1.264); see also [[LXX Daniel (Greek) 02#^2-2|Dan 2.2]] \[LXX\]. Like the genealogy’s Tamar, Rahab, and Ruth, they foreshadow the Gentile mission (28.19). ^2-1-2
 
-**[[NRSVue Matthew 02#^2-2|2]]:** *King of the Jews*, see 27.11,29,37. *Star*, perhaps here suggesting an angel ([[Torah 40 - Balak#^24-17|Num 24.17]], related to Balaam’s prophecy; CD 7.18–26; *T. Levi* 18.3); no ancient sources confirm this astronomical phenomenon, and no star in the sense we know it today could stop over a house without incinerating the earth. *Rising*, in both Gk (“anatole”) and Heb (“qedem”) can also mean “east.” ^2-2
+**[[NRSVue Matthew 02#^2-2|2]]:** *King of the Jews*, see [[Matthew 27#^27-11|27.11]],[[Matthew 27#^27-29|29]],[[Matthew 27#^27-37|37]]. *Star*, perhaps here suggesting an angel ([[Torah 40 - Balak#^24-17|Num 24.17]], related to Balaam’s prophecy; CD 7.18–26; *T. Levi* 18.3); no ancient sources confirm this astronomical phenomenon, and no star in the sense we know it today could stop over a house without incinerating the earth. *Rising*, in both Gk (“anatole”) and Heb (“qedem”) can also mean “east.” ^2-2
 
 **[[NRSVue Matthew 02#^2-3|3]]:** *All Jerusalem*, Matthew has a negative view of Jerusalem of the time (21.10; 23.37). ^2-3
 
-**[[NRSVue Matthew 02#^2-4|4]]:** *He inquired*, Herod, although viewed as a Jew, does not know the tradition. *Messiah*, see 1.1n. ^2-4
+**[[NRSVue Matthew 02#^2-4|4]]:** *He inquired*, Herod, although viewed as a Jew, does not know the tradition. *Messiah*, see [[JANT Matthew 01#^1-1-2|1.1n.]] ^2-4
 
 **[[NRSVue Matthew 02#^2-5|5–6]]:** Matthew paraphrases [[Micah 5#^5-1|Mic 5.2]] (MT 5.1). ^2-5
 
@@ -34,7 +34,7 @@ Text: [[NRSVue Matthew 02|NRSVue]] · [[Matthew 02|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 02#^2-13|Text]], p. 14* · As a new Moses, Jesus is rescued in infancy and travels to safety. ^2-13
 
-**[[NRSVue Matthew 02#^2-13|13]]:** *Dream*, see 1.20n. Egypt, a traditional place of refuge ([[I Kings 11#^11-40|1 Kings 11.40]]; [[II Kings 25#^25-26|2 Kings 25.26]]; [[Jeremiah 26#^26-21|Jer 26.21]]; [[Jeremiah 43#^43-1|43.1–7]]). ^2-13-2
+**[[NRSVue Matthew 02#^2-13|13]]:** *Dream*, see [[JANT Matthew 01#^1-20|1.20n.]] Egypt, a traditional place of refuge ([[I Kings 11#^11-40|1 Kings 11.40]]; [[II Kings 25#^25-26|2 Kings 25.26]]; [[Jeremiah 26#^26-21|Jer 26.21]]; [[Jeremiah 43#^43-1|43.1–7]]). ^2-13-2
 
 **[[NRSVue Matthew 02#^2-15|15]]:** *Out of Egypt*, [[Hosea 11#^11-1|Hos 11.1]], originally referring to the people of Israel. The literary context of Hosea’s quote does not support Matthew’s use of the verse, but such biblical decontextualizing is typical in postbiblical and rabbinic literature. ^2-15
 

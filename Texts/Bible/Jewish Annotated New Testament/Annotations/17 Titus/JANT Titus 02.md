@@ -26,7 +26,7 @@ Text: [[NRSVue Titus 02|NRSVue]] · [[Titus 02|BSB and SBLGNT]] · Introduction:
 
 **[[NRSVue Titus 02#^2-5|5–6]]:** *Self-controlled*, one of four cardinal virtues advocated by both Jewish and Gentile writers (Aristotle, *Pol*. 7.1.2; Plato, *Leg*. 1.630–31; 12.963–65; Philo, *Leg. all*. 1.63–65, lists wisdom \[Gk “phronesis”\], self-control \[Gk “sophrosyne”\], courage \[Gk “andreia,” lit., “manliness”\], and justice/righteousness \[Gk “dikaiosyne”\], which he associates with the four rivers in the Garden of Eden \[[[Torah 01 - Bereshit#^2-10|Gen 2.10–14]]\]). ^2-5
 
-**[[NRSVue Titus 02#^2-7|7]]:** *Good works*, those consistent with the author’s values (see 3.1; [[1 Timothy 02#^2-10|1 Tim 2.10]]). ^2-7
+**[[NRSVue Titus 02#^2-7|7]]:** *Good works*, those consistent with the author’s values (see [[Titus 03#^3-1|3.1]]; [[1 Timothy 02#^2-10|1 Tim 2.10]]). ^2-7
 
 **[[NRSVue Titus 02#^2-9|9]]:** See [[1 Timothy 06#^6-1|1 Tim 6.1–2]]. *Slaves*, integral to Hellenistic households, perhaps constituting a majority in some urban areas. Jewish or Gentile writers rarely question the institution, although Phi- lo mentions a few Jewish communities that rejected slavery, including the Essenes (*Good Person* 79). Christian masters forcibly baptized some slaves as part of the household; others joined voluntarily. ^2-9
 
@@ -34,9 +34,9 @@ Text: [[NRSVue Titus 02|NRSVue]] · [[Titus 02|BSB and SBLGNT]] · Introduction:
 
 *[[NRSVue Titus 02#^2-11|Text]], p. 453* ^2-11
 
-**[[NRSVue Titus 02#^2-11|11]]:** *Grace* (Gk “charis”), lit., “favor, beneficence.” *Grace of God* never appears in LXX, though people frequently “find grace” before God (see [[Torah 01 - Bereshit#^6-8|Gen 6.8]]), meaning that God regards them with favor. *Salvation*, see 1.14n. and 3.5n. ^2-11-2
+**[[NRSVue Titus 02#^2-11|11]]:** *Grace* (Gk “charis”), lit., “favor, beneficence.” *Grace of God* never appears in LXX, though people frequently “find grace” before God (see [[Torah 01 - Bereshit#^6-8|Gen 6.8]]), meaning that God regards them with favor. *Salvation*, see [[JANT Titus 01#^1-14|1.14n.]] and [[JANT Titus 03#^3-5|3.5n.]] ^2-11-2
 
-**[[NRSVue Titus 02#^2-12|12]]:** Exhortations reflecting Hellenistic moral philosophy, specifically Stoic concerns with self-control; see 2.5–6n. ^2-12
+**[[NRSVue Titus 02#^2-12|12]]:** Exhortations reflecting Hellenistic moral philosophy, specifically Stoic concerns with self-control; see [[JANT Titus 02#^2-5|2.5–6n.]] ^2-12
 
 **[[NRSVue Titus 02#^2-13|13]]:** *Great God and Savior*, language related to Roman emperor cult here describes Jesus as God (see [[John 01#^1-14|Jn 1.14]]; [[John 20#^20-28|20.28]]; [[Hebrews 01#^1-8|Heb 1.8]]). ^2-13
 

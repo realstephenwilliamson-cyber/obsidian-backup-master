@@ -20,13 +20,13 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 09#^9-5|5]]:** *Shake the dust off*, indicating they are not responsible for the fate of the inhospitable. ^9-5
 
-**[[NRSVue Luke 09#^9-6|6]]:** *Good news*, see 1.19n. ^9-6
+**[[NRSVue Luke 09#^9-6|6]]:** *Good news*, see [[JANT Luke 01#^1-19|1.19n.]] ^9-6
 
 ### 9.7–9: Herod’s speculations
 
-*[[NRSVue Luke 09#^9-7|Text]], p. 132* · ([[Matthew 14#^14-1|Mt 14.1–2]]; [[Mark 06#^6-14|Mk 6.14–16]]). *Herod* Antipas, see 3.1n. ^9-7
+*[[NRSVue Luke 09#^9-7|Text]], p. 132* · ([[Matthew 14#^14-1|Mt 14.1–2]]; [[Mark 06#^6-14|Mk 6.14–16]]). *Herod* Antipas, see [[JANT Luke 03#^3-1-2|3.1n.]] ^9-7
 
-**[[NRSVue Luke 09#^9-8|8]]:** *Elijah*, see 1.17n.; see also 9.18–19. *Prophets*, perhaps a reference to [[Torah 48 - Shoftim#^18-15|Deut 18.15]], understanding “raise” as raise from the dead. ^9-8
+**[[NRSVue Luke 09#^9-8|8]]:** *Elijah*, see [[JANT Luke 01#^1-17|1.17n.]]; see also 9.18–19. *Prophets*, perhaps a reference to [[Torah 48 - Shoftim#^18-15|Deut 18.15]], understanding “raise” as raise from the dead. ^9-8
 
 **[[NRSVue Luke 09#^9-9|9]]:** *John I beheaded*, see [[Mark 06#^6-17|Mk 6.17–29]] (Luke does not recount John’s execution). *Tried to see him*, see 23.7–12. ^9-9
 
@@ -60,15 +60,15 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 09#^9-21|21]]:** *Not to tell anyone*, messianic secret (see 5.14n.). ^9-21-2
 
-**[[NRSVue Luke 09#^9-22|22]]:** *Son of Man*, see 5.24n. *Elders, chief priests, and scribes*, Jewish leadership. *Be killed*, the passive subtly exonerates Pilate. Contemporaneous Jewish thought displays limited evidence of a suffering messiah. ^9-22
+**[[NRSVue Luke 09#^9-22|22]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] *Elders, chief priests, and scribes*, Jewish leadership. *Be killed*, the passive subtly exonerates Pilate. Contemporaneous Jewish thought displays limited evidence of a suffering messiah. ^9-22
 
 ### 9.23–27: Discipleship
 
 *[[NRSVue Luke 09#^9-23|Text]], p. 133* · ([[Matthew 16#^16-24|Mt 16.24–28]]; [[Mark 08#^8-34|Mk 8.34–9.1]]). ^9-23
 
-**[[NRSVue Luke 09#^9-23|23]]:** *Deny themselves*, see 7.33n. *Take up their cross*, act righteously, even if such action risks severe reprisal. *Daily*, discipleship is a permanent state; Luke shifts Mark’s focus on risking death to emphasize self-denial ( 5.11; 8.21; 10.61). ^9-23-2
+**[[NRSVue Luke 09#^9-23|23]]:** *Deny themselves*, see [[JANT Luke 07#^7-33|7.33n.]] *Take up their cross*, act righteously, even if such action risks severe reprisal. *Daily*, discipleship is a permanent state; Luke shifts Mark’s focus on risking death to emphasize self-denial ( 5.11; 8.21; 10.61). ^9-23-2
 
-**[[NRSVue Luke 09#^9-26|26]]:** *Son of Man*, see 5.24n. *Comes in his glory*, following Jesus’ death, resurrection, and ascension (24.51), his “second coming” and the final judgment. Jewish tradition connects the Messiah with the messianic age and thus has no “second coming.” ^9-26
+**[[NRSVue Luke 09#^9-26|26]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] *Comes in his glory*, following Jesus’ death, resurrection, and ascension (24.51), his “second coming” and the final judgment. Jewish tradition connects the Messiah with the messianic age and thus has no “second coming.” ^9-26
 
 **[[NRSVue Luke 09#^9-27|27]]:** *Not taste death*, perhaps referring to those who witness Jesus’ resurrection or the successful mission; see 21.31. ^9-27
 
@@ -76,13 +76,13 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 09#^9-28|Text]], p. 133* · ([[Matthew 17#^17-1|Mt 17.1–9]]; [[Mark 09#^9-2|Mk 9.2–10]]). ^9-28
 
-**[[NRSVue Luke 09#^9-28|28]]:** *Eight days*, Jewish thought associates eight days with circumcision ([[Torah 03 - Lech Lecha#^17-12|Gen 17.12]]; [[Torah 04 - Vayera#^21-4|21.4]]; [[Torah 27 - Tazria#^12-3|Lev 12.3]]), perhaps here anticipating Jesus’ resurrection on the “first day” after the old week. *Peter and John and James*, see 8.51n. *To pray*, see 3.21n. ^9-28-2
+**[[NRSVue Luke 09#^9-28|28]]:** *Eight days*, Jewish thought associates eight days with circumcision ([[Torah 03 - Lech Lecha#^17-12|Gen 17.12]]; [[Torah 04 - Vayera#^21-4|21.4]]; [[Torah 27 - Tazria#^12-3|Lev 12.3]]), perhaps here anticipating Jesus’ resurrection on the “first day” after the old week. *Peter and John and James*, see [[JANT Luke 08#^8-51|8.51n.]] *To pray*, see [[JANT Luke 03#^3-21-2|3.21n.]] ^9-28-2
 
 **[[NRSVue Luke 09#^9-29|29]]:** *Face*, see [[Torah 21 - Ki Tisa#^34-29|Ex 34.29–34]]. *Dazzling*, suggests mystical experience ([[Torah 21 - Ki Tisa#^34-29|Ex 34.29–35]]; see also [[Daniel 12#^12-3|Dan 12.3]]). ^9-29
 
 **[[NRSVue Luke 09#^9-30|30]]:** *Moses and Elijah*, unlikely representing “Torah” (Pentateuch) and “Neviʾim” (Prophets); more likely representing Israel’s preeminent prophets, both of whom faced rejection. ^9-30
 
-**[[NRSVue Luke 09#^9-31|31]]:** *Glory*, see 2.9n. *Departure* (Gk “exodus,” “road out”), referring to Jesus’ death, resurrection, and ascension. ^9-31
+**[[NRSVue Luke 09#^9-31|31]]:** *Glory*, see [[JANT Luke 02#^2-9|2.9n.]] *Departure* (Gk “exodus,” “road out”), referring to Jesus’ death, resurrection, and ascension. ^9-31
 
 **[[NRSVue Luke 09#^9-32|32]]:** *Sleep*, anticipating 22.45. ^9-32
 
@@ -90,25 +90,25 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 09#^9-34|34]]:** *Cloud*, indicating the divine presence (e.g., [[Torah 16 - Beshalach#^13-21|Ex 13.21–22]]). ^9-34
 
-**[[NRSVue Luke 09#^9-35|35]]:** *Voice*, see 3.22n. *Chosen*, cf. [[Isaiah 42#^42-1|Isa 42.1]]; Jewish tradition affirms the people Israel as God’s chosen ([[Torah 04 - Vayera#^18-19|Gen 18.19]]; [[Torah 45 - Vaetchanan#^7-6|Deut 7.6]]; [[Isaiah 43#^43-20|Isa 43.20]]; [[Psalms 033#^33-12|Ps 33.12]]; [[Psalms 089#^89-20|89.19]]; 105.6; [[I Chronicles 16#^16-13|1 Chr 16.13]], and elsewhere). For God’s choosing particular people, see e.g., [[Nehemiah 09#^9-7|Neh 9.7]] (Abraham). *Listen to him*, see [[Torah 48 - Shoftim#^18-15|Deut 18.15]] on the prophet like Moses. ^9-35
+**[[NRSVue Luke 09#^9-35|35]]:** *Voice*, see [[JANT Luke 03#^3-22|3.22n.]] *Chosen*, cf. [[Isaiah 42#^42-1|Isa 42.1]]; Jewish tradition affirms the people Israel as God’s chosen ([[Torah 04 - Vayera#^18-19|Gen 18.19]]; [[Torah 45 - Vaetchanan#^7-6|Deut 7.6]]; [[Isaiah 43#^43-20|Isa 43.20]]; [[Psalms 033#^33-12|Ps 33.12]]; [[Psalms 089#^89-20|89.19]]; 105.6; [[I Chronicles 16#^16-13|1 Chr 16.13]], and elsewhere). For God’s choosing particular people, see e.g., [[Nehemiah 09#^9-7|Neh 9.7]] (Abraham). *Listen to him*, see [[Torah 48 - Shoftim#^18-15|Deut 18.15]] on the prophet like Moses. ^9-35
 
 ### 9.37–43a: Healing the afflicted boy
 
 *[[NRSVue Luke 09#^9-37|Text]], p. 134* · ([[Matthew 17#^17-14|Mt 17.14–21]]; [[Mark 09#^9-14|Mk 9.14–29]]). ^9-37
 
-**[[NRSVue Luke 09#^9-38|38]]:** *Only child*, see 8.42n. ^9-38
+**[[NRSVue Luke 09#^9-38|38]]:** *Only child*, see [[JANT Luke 08#^8-42|8.42n.]] ^9-38
 
 **[[NRSVue Luke 09#^9-40|40]]:** *Begged your disciples*, see [[II Kings 04#^4-31|2 Kings 4.31]], where Elisha’s servant Gehazi is unable to raise a child but Elisha is able to do so. ^9-40
 
 **[[NRSVue Luke 09#^9-41|41]]:** *Faithless and perverse generation*, evoking Moses’ speech in [[Torah 53 - Ha'Azinu#^32-5|Deut 32.5]]; see also [[Luke 07#^7-31|Lk 7.31]] ^9-41
 
-**[[NRSVue Luke 09#^9-42|42]]:** *Rebuked*, see 4.35,39,41; 8.24. ^9-42
+**[[NRSVue Luke 09#^9-42|42]]:** *Rebuked*, see [[Luke 04#^4-35|4.35]],[[Luke 04#^4-39|39]],[[Luke 04#^4-41|41]]; 8.24. ^9-42
 
 ### 9.43b–45: Second Passion prediction
 
 *[[NRSVue Luke 09#^9-43|Text]], p. 134* · ([[Matthew 17#^17-22|Mt 17.22–23]]; [[Mark 09#^9-30|Mk 9.30–32]]). ^9-43
 
-**[[NRSVue Luke 09#^9-44|44]]:** See 9.22; 17.25; 18.31–34. *Son of Man*, see 5.24n. ^9-44
+**[[NRSVue Luke 09#^9-44|44]]:** See 9.22; 17.25; 18.31–34. *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] ^9-44
 
 **[[NRSVue Luke 09#^9-45|45]]:** *Was concealed*, see 24.16. Faith in Jesus requires divine support. ^9-45
 
@@ -116,7 +116,7 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 09#^9-46|Text]], p. 134* · ([[Matthew 18#^18-1|Mt 18.1–5]]; [[Mark 09#^9-33|Mk 9.33–37]]). ^9-46
 
-**[[NRSVue Luke 09#^9-47|47]]:** *Little child*, see 8.42n. A *child* is dependent on others. ^9-47
+**[[NRSVue Luke 09#^9-47|47]]:** *Little child*, see [[JANT Luke 08#^8-42|8.42n.]] A *child* is dependent on others. ^9-47
 
 **[[NRSVue Luke 09#^9-49|9.49–50]]:** **Unknown exorcist** ([[Mark 09#^9-38|Mk 9.38–41]]). ^9-49
 
@@ -142,7 +142,7 @@ Text: [[NRSVue Luke 09|NRSVue]] · [[Luke 09|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 09#^9-57|Text]], p. 135* · ([[Matthew 08#^8-18|Mt 8.18–22]]). ^9-57
 
-**[[NRSVue Luke 09#^9-58|58]]:** *Son of Man*, see 5.24n. ^9-58
+**[[NRSVue Luke 09#^9-58|58]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] ^9-58
 
 **[[NRSVue Luke 09#^9-59|59]]:** *Bury my father*, necessary filial piety ([[LXX Tobit 04#^4-3|Tob 4.3]]; [[LXX Tobit 06#^6-15|6.15]]; *b. Ber*. [[Berakhot 18#18a|18a]]); v 60 suggests the father was not yet dead. ^9-59
 

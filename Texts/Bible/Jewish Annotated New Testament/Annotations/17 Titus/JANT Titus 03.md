@@ -26,9 +26,9 @@ Text: [[NRSVue Titus 03|NRSVue]] · [[Titus 03|BSB and SBLGNT]] · Introduction:
 
 *[[NRSVue Titus 03#^3-8|Text]], p. 453* ^3-8
 
-**[[NRSVue Titus 03#^3-8|8]]:** *Good works*, see 2.7n.; 3.5n. ^3-8-2
+**[[NRSVue Titus 03#^3-8|8]]:** *Good works*, see [[JANT Titus 02#^2-7|2.7n.]]; [[JANT Titus 03#^3-5|3.5n.]] ^3-8-2
 
-**[[NRSVue Titus 03#^3-9|9]]:** See [[1 Timothy 01#^1-4|1 Tim 1.4]],[[1 Timothy 01#^1-6|6–7]]. *Genealogies*, either generational lists in the Jewish Scriptures or genealogies of Jesus (Gen 10; 1 Chr 1–9; [[Matthew 01#^1-1|Mt 1.1–17]]; [[Luke 03#^3-23|Lk 3.23–38]]). *Quarrels about the law*, debates about proper interpretation and application of biblical law (see 1.14n.). ^3-9
+**[[NRSVue Titus 03#^3-9|9]]:** See [[1 Timothy 01#^1-4|1 Tim 1.4]],[[1 Timothy 01#^1-6|6–7]]. *Genealogies*, either generational lists in the Jewish Scriptures or genealogies of Jesus (Gen 10; 1 Chr 1–9; [[Matthew 01#^1-1|Mt 1.1–17]]; [[Luke 03#^3-23|Lk 3.23–38]]). *Quarrels about the law*, debates about proper interpretation and application of biblical law (see [[JANT Titus 01#^1-14|1.14n.]]). ^3-9
 
 **[[NRSVue Titus 03#^3-10|10]]:** *Admonition*, [[Matthew 18#^18-15|Mt 18.15–17]] and the DSS (1QS and CD) enjoin similar methods for addressing disputes. ^3-10
 
@@ -40,7 +40,7 @@ Text: [[NRSVue Titus 03|NRSVue]] · [[Titus 03|BSB and SBLGNT]] · Introduction:
 
 **[[NRSVue Titus 03#^3-13|13]]:** *Zenas*, otherwise unknown; *the lawyer* (“nomikos”) refers to an esxpert in Jewish law in [[Matthew 22#^22-35|Mt 22.35]] and Lk (see 7.30; 10.25). *Apollos*, see [[Acts 18#^18-24|Acts 18.24–28]]; [[1 Corinthians 03#^3-4|1 Cor 3.4–6]]; [[1 Corinthians 16#^16-12|16.12]]. ^3-13
 
-**[[NRSVue Titus 03#^3-14|14]]:** *Good works*, see 3.5n. ^3-14
+**[[NRSVue Titus 03#^3-14|14]]:** *Good works*, see [[JANT Titus 03#^3-5|3.5n.]] ^3-14
 
 **[[NRSVue Titus 03#^3-15|15]]:** One of the shortest farewell formulas in the Pauline letters. ^3-15
 

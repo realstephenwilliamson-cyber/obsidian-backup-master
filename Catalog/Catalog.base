@@ -64,7 +64,7 @@ views:
     order:
       - file.name
       - status
-      - note.print
+      - print
     sort:
       - property: title
         direction: ASC

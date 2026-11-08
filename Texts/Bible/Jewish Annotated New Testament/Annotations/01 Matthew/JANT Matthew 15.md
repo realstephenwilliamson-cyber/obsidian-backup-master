@@ -30,9 +30,9 @@ Text: [[NRSVue Matthew 15|NRSVue]] · [[Matthew 15|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 15#^15-14|14]]:** *Blind guides* ([[Luke 06#^6-39|Lk 6.39]]; see also *Gos. Thom*. 34), Matthew warns against following Pharisaic rather than church teachers, but see 23.2–3. *Fall into a pit*, suffer misfortune ([[Isaiah 24#^24-18|Isa 24.18]]; [[Jeremiah 48#^48-44|Jer 48.44]]; [[Psalms 007#^7-16|Ps 7.15]]; [[Proverbs 26#^26-27|Prov 26.27]]). ^15-14
 
-**[[NRSVue Matthew 15#^15-15|15–16]]:** See 13.13n. *Still without understanding*, the disciples by now should not require explanations (13.16). ^15-15
+**[[NRSVue Matthew 15#^15-15|15–16]]:** See [[JANT Matthew 13#^13-13|13.13n.]] *Still without understanding*, the disciples by now should not require explanations (13.16). ^15-15
 
-**[[NRSVue Matthew 15#^15-18|18]]:** See 15.11n. ^15-18
+**[[NRSVue Matthew 15#^15-18|18]]:** See [[JANT Matthew 15#^15-11|15.11n.]] ^15-18
 
 **[[NRSVue Matthew 15#^15-20|20]]:** *To eat with unwashed hands does not defile*, Matthew omits Mark’s claim (7.19) that Jesus declared all foods clean; for Matthew, dietary laws remain in place, but some “traditions of the elders” are not followed. *commandment* e Other ancient authorities lack *of the blind* ^15-20
 
@@ -40,23 +40,23 @@ Text: [[NRSVue Matthew 15|NRSVue]] · [[Matthew 15|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 15#^15-21|Text]], p. 40* · ([[Mark 07#^7-24|Mk 7.24–30]]). See [[I Kings 17#^17-8|1 Kings 17.8–24]]. ^15-21
 
-**[[NRSVue Matthew 15#^15-21|21]]:** *Tyre and Sidon*, see 11.21n. ^15-21-2
+**[[NRSVue Matthew 15#^15-21|21]]:** *Tyre and Sidon*, see [[JANT Matthew 11#^11-21|11.21n.]] ^15-21-2
 
-**[[NRSVue Matthew 15#^15-22|22]]:** *Canaanite*, Israel’s traditional enemies; the region was associated with Baal worship ([[Torah 02 - Noach#^9-25|Gen 9.25]]; [[Judges 02#^2-11|Judg 2.11–12]]; [[Judges 03#^3-7|3.7]]; [[Judges 08#^8-33|8.33]]; [[Hosea 02#^2-15|Hos 2.13]]). *Came out*, Jesus and the woman meet at the border; it is not clear that Jesus enters the Gentile district. *Son of David*, Jesus’ Jewish messianic title (see 1.1n.). The woman foreshadows the conversion of the Gentiles (see also 8.10n.; 18.6; 21.21; 24.13–14; 28.19). ^15-22
+**[[NRSVue Matthew 15#^15-22|22]]:** *Canaanite*, Israel’s traditional enemies; the region was associated with Baal worship ([[Torah 02 - Noach#^9-25|Gen 9.25]]; [[Judges 02#^2-11|Judg 2.11–12]]; [[Judges 03#^3-7|3.7]]; [[Judges 08#^8-33|8.33]]; [[Hosea 02#^2-15|Hos 2.13]]). *Came out*, Jesus and the woman meet at the border; it is not clear that Jesus enters the Gentile district. *Son of David*, Jesus’ Jewish messianic title (see [[JANT Matthew 01#^1-1-2|1.1n.]]). The woman foreshadows the conversion of the Gentiles (see also [[JANT Matthew 08#^8-10|8.10n.]]; [[Matthew 18#^18-6|18.6]]; [[Matthew 21#^21-21|21.21]]; [[Matthew 24#^24-13|24.13–14]]; [[Matthew 28#^28-19|28.19]]). ^15-22
 
 **[[NRSVue Matthew 15#^15-23|23]]:** *He did not answer*, his silence is explained in v 24. *Send her away*, Gk “apoluson” can alternatively mean “loose her,” i.e., perform the exorcism. ^15-23
 
-**[[NRSVue Matthew 15#^15-24|24]]:** *Lost sheep*, see 10.6n. ^15-24
+**[[NRSVue Matthew 15#^15-24|24]]:** *Lost sheep*, see [[JANT Matthew 10#^10-6|10.6n.]] ^15-24
 
 **[[NRSVue Matthew 15#^15-27|27]]:** *The dogs eat the crumbs*, the woman acknowledges her secondary position but still insists on her rights. ^15-27
 
-**[[NRSVue Matthew 15#^15-28|28]]:** *Faith*, see 8.10n. Mark’s version lacks the reference to faith as the reason for the daughter’s healing. ^15-28
+**[[NRSVue Matthew 15#^15-28|28]]:** *Faith*, see [[JANT Matthew 08#^8-10|8.10n.]] Mark’s version lacks the reference to faith as the reason for the daughter’s healing. ^15-28
 
 ### 15.29–31: Jesus heals
 
 *[[NRSVue Matthew 15#^15-29|Text]], p. 40* · ([[Mark 07#^7-31|Mk 7.31–37]]). ^15-29
 
-**[[NRSVue Matthew 15#^15-31|31]]:** *God of Israel*, see [[I Kings 01#^1-48|1 Kings 1.48]]; [[Psalms 041#^41-14|Ps 41.13]]; [[Psalms 068#^68-36|68.35]]; [[Psalms 069#^69-7|69.6]]; [[I Chronicles 16#^16-36|1 Chr 16.36]]; 1QM 13.2; 14.4; *t. Hag.* 2.1. Here the phrase might indicate a Gentile crowd (see 15.39n.). ^15-31
+**[[NRSVue Matthew 15#^15-31|31]]:** *God of Israel*, see [[I Kings 01#^1-48|1 Kings 1.48]]; [[Psalms 041#^41-14|Ps 41.13]]; [[Psalms 068#^68-36|68.35]]; [[Psalms 069#^69-7|69.6]]; [[I Chronicles 16#^16-36|1 Chr 16.36]]; 1QM 13.2; 14.4; *t. Hag.* 2.1. Here the phrase might indicate a Gentile crowd (see [[JANT Matthew 15#^15-39|15.39n.]]). ^15-31
 
 ### 15.32–39: Feeding (more than) four thousand
 

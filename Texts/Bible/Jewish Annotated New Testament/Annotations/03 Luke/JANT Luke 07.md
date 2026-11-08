@@ -16,7 +16,7 @@ Text: [[NRSVue Luke 07|NRSVue]] · [[Luke 07|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 07#^7-1|Text]], p. 127* · ([[Matthew 08#^8-5|Mt 8.5–13]]; see also [[John 04#^4-46|Jn 4.46–54]]). ^7-1
 
-**[[NRSVue Luke 07#^7-1|1]]:** *Capernaum*, see 4.23n. ^7-1-2
+**[[NRSVue Luke 07#^7-1|1]]:** *Capernaum*, see [[JANT Luke 04#^4-23|4.23n.]] ^7-1-2
 
 **[[NRSVue Luke 07#^7-2|2]]:** *Centurion*, commander of a company of soldiers; either attached to the customs service under Antipas’s jurisdiction, or pensioned. No Roman troops occupied Galilee under Antipas. For centurions in Luke–Acts see 23.47; Acts 10.1; 22.25–26; 24.43; 27.43. *Valued highly* (Gk “entimos,” from “timē,” “honor”), suggesting honorable service ([[Philippians 02#^2-29|Phil 2.29]]; [[1 Peter 02#^2-4|1 Pet 2.4]],[[1 Peter 02#^2-6|6]]), and used in contemporary papyri for soldiers who performed honorably. ^7-2
 
@@ -48,19 +48,19 @@ Text: [[NRSVue Luke 07|NRSVue]] · [[Luke 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 07#^7-21|21]]:** *Jesus had just then cured . . .* , Jewish sources do not traditionally speak of the Messiah as a miracle worker. ^7-21
 
-**[[NRSVue Luke 07#^7-22|22]]:** Echoing [[Luke 04#^4-18|Lk 4.18–19]] and evoking [[Isaiah 26#^26-19|Isa 26.19]]; [[Isaiah 29#^29-18|29.18]]; [[Isaiah 42#^42-18|42.18]]; see also [[Isaiah 35#^35-5|Isa 35.5–6]]; [[Isaiah 61#^61-1|61.1]]; no reference to freeing captives is made ([[Luke 04#^4-18|Lk 4.18]]). Jesus does not answer the Baptist’s disciples directly (see 5.14n.; 22.70; 23.3). ^7-22
+**[[NRSVue Luke 07#^7-22|22]]:** Echoing [[Luke 04#^4-18|Lk 4.18–19]] and evoking [[Isaiah 26#^26-19|Isa 26.19]]; [[Isaiah 29#^29-18|29.18]]; [[Isaiah 42#^42-18|42.18]]; see also [[Isaiah 35#^35-5|Isa 35.5–6]]; [[Isaiah 61#^61-1|61.1]]; no reference to freeing captives is made ([[Luke 04#^4-18|Lk 4.18]]). Jesus does not answer the Baptist’s disciples directly (see 5.14n.; [[Luke 22#^22-70|22.70]]; [[Luke 23#^23-3|23.3]]). ^7-22
 
 **[[NRSVue Luke 07#^7-27|27]]:** [[Malachi 3#^3-1|Mal 3.1]], connecting John to Elijah’s role ([[Malachi 3#^3-23|Mal 3.23]]). ^7-27
 
-**[[NRSVue Luke 07#^7-29|29]]:** *Tax collectors*, see 3.12n. ^7-29
+**[[NRSVue Luke 07#^7-29|29]]:** *Tax collectors*, see [[JANT Luke 03#^3-12|3.12n.]] ^7-29
 
-**[[NRSVue Luke 07#^7-30|30]]:** *Pharisees and the lawyers*, conventional opponents of Jesus (11.39,42–43,53; 12.1; etc.; on their rejection of John, see 20.5). ^7-30
+**[[NRSVue Luke 07#^7-30|30]]:** *Pharisees and the lawyers*, conventional opponents of Jesus (11.39,42–43,53; 12.1; etc.; on their rejection of John, see [[Luke 20#^20-5|20.5]]). ^7-30
 
 **[[NRSVue Luke 07#^7-31|31]]:** *Generation*, Luke increasingly depicts the people of Jesus’ time as moving from dissatisfied to “faithless and perverse” (9.41). ^7-31
 
 **[[NRSVue Luke 07#^7-33|33]]:** *Eating no bread*, Jews recognized fasting as a spiritual discipline but did not promote asceticism. *Has a demon*, explaining unconventional behavior. ^7-33
 
-**[[NRSVue Luke 07#^7-34|34]]:** *Son of Man*, see 5.24n. *Glutton and a drunkard*, evoking the rebellious son, punished with death ([[Torah 49 - Ki Teitzei#^21-18|Deut 21.18–21]]). ^7-34
+**[[NRSVue Luke 07#^7-34|34]]:** *Son of Man*, see [[JANT Luke 05#^5-24|5.24n.]] *Glutton and a drunkard*, evoking the rebellious son, punished with death ([[Torah 49 - Ki Teitzei#^21-18|Deut 21.18–21]]). ^7-34
 
 **[[NRSVue Luke 07#^7-35|35]]:** *Wisdom* (Gk “Sophia”; Heb “Ḥokhmah”), here personified; cf. Prov 1–9; [[LXX Wisdom of Solomon 07#^7-22|Wis 7.22–8.11]]. *Vindicated* (Gk “dikaiō”), lit., “justified,” demonstrated to be in the right. ^7-35
 
@@ -68,14 +68,14 @@ Text: [[NRSVue Luke 07|NRSVue]] · [[Luke 07|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 07#^7-36|Text]], p. 128* ^7-36
 
-**[[NRSVue Luke 07#^7-36|36]]:** *To eat with him*, first of three dinners with Pharisees (see 11.37; 14.1). ^7-36-2
+**[[NRSVue Luke 07#^7-36|36]]:** *To eat with him*, first of three dinners with Pharisees (see [[Luke 11#^11-37|11.37]]; [[Luke 14#^14-1|14.1]]). ^7-36-2
 
 **[[NRSVue Luke 07#^7-37|37]]:** *Sinner*, no specific sin is mentioned or need be inferred. *Alabaster* diseases d Gk *him* e Or *Why then did you go out? To see someone* f Or *praised God jar of ointment*, suggesting a luxury item; Luke does not comment on the cost (contrast the anointing scenes in [[Matthew 26#^26-9|Mt 26.9]]; [[Mark 14#^14-5|Mk 14.5]]; [[John 12#^12-5|Jn 12.5]]). **38**: *Behind him at his feet*, Jesus reclined on a dining couch. *Dry them with her hair*, an intimate and hardly common practice. Loosened hair indicated grief, grateful-ness, propitiation of a god, or pleading, and need not be taken as erotic. *Anointing*, see [[Matthew 26#^26-6|Mt 26.6–13]]; [[Mark 14#^14-3|Mk 14.3–9]]; [[John 12#^12-1|Jn 12.1–8]]. Later tradition associated this unnamed woman with Mary Magdalene ([[Luke 08#^8-2|Lk 8.2]]). ^7-37
 
 **[[NRSVue Luke 07#^7-44|44]]:** *Gave me no water*, a breach of etiquette. ^7-44
 
-**[[NRSVue Luke 07#^7-49|49]]:** *Forgives sins*, see 5.20n. ^7-49
+**[[NRSVue Luke 07#^7-49|49]]:** *Forgives sins*, see [[JANT Luke 05#^5-20|5.20n.]] ^7-49
 
-**[[NRSVue Luke 07#^7-50|50]]:** *Faith has saved you*, see 8.48; 17.19; 18.42. This faith, although not defined, suggests faith in Jesus as Lord and so the forgiveness he grants. *Go in peace*, traditional farewell ([[Torah 10 - Miketz#^44-17|Gen 44.17]]; [[Torah 13 - Shemot#^4-18|Ex 4.18]], [[Judges 18#^18-6|Judg 18.6]]; [[I Samuel 01#^1-17|1 Sam 1.17]]; etc.). ^7-50
+**[[NRSVue Luke 07#^7-50|50]]:** *Faith has saved you*, see [[Luke 08#^8-48|8.48]]; [[Luke 17#^17-19|17.19]]; 18.42. This faith, although not defined, suggests faith in Jesus as Lord and so the forgiveness he grants. *Go in peace*, traditional farewell ([[Torah 10 - Miketz#^44-17|Gen 44.17]]; [[Torah 13 - Shemot#^4-18|Ex 4.18]], [[Judges 18#^18-6|Judg 18.6]]; [[I Samuel 01#^1-17|1 Sam 1.17]]; etc.). ^7-50
 
 [[JANT Luke 06|← Luke 6]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Luke 08|Luke 8 →]]

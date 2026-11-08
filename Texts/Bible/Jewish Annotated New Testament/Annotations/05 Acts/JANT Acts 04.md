@@ -18,7 +18,7 @@ Text: [[NRSVue Acts 04|NRSVue]] · [[Acts 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 04#^4-1|1–3]]:** Arrest of Peter and John.  ^4-1-2
 
-**[[NRSVue Acts 04#^4-1|1]]:** *Priests, the captain of the temple, and the Sadducees*, the *priests* appear as the leading authorities in Jerusalem and central figures opposed to the apostles (5.21; 9.1,14,21; 22.5,30; 23.2–5; 24.1; 25.2). *Captain of the temple*, a position with authority over Temple personnel (5.24,26; Josephus, *J.W.* 6.295; *Ant.* 20.131) and possibly equivalent of the rabbinic term “sagen hacohanim” (*m. Avot* 3.2; *y. Shek.* 5.3,49a), who assisted the high priest with certain rituals (*m. Yoma 3. 9*; *m. Sot.* 7.7). *The Sadducees*, often contrasted to Pharisees and said to reject ideas not explicitly found in the Tanakh, especially resurrection (23.6–8; Josephus, *J.W.* 2.164–166; *Ant.* 13.173; 18.16–17). ^4-1-3
+**[[NRSVue Acts 04#^4-1|1]]:** *Priests, the captain of the temple, and the Sadducees*, the *priests* appear as the leading authorities in Jerusalem and central figures opposed to the apostles (5.21; 9.1,14,21; 22.5,30; 23.2–5; 24.1; 25.2). *Captain of the temple*, a position with authority over Temple personnel (5.24,26; Josephus, *J.W.* 6.295; *Ant.* 20.131) and possibly equivalent of the rabbinic term “sagen hacohanim” (*m. Avot* [[Pirkei Avot 03#^3-2|3.2]]; *y. Shek.* 5.3,49a), who assisted the high priest with certain rituals (*m. Yoma 3. 9*; *m. Sot.* 7.7). *The Sadducees*, often contrasted to Pharisees and said to reject ideas not explicitly found in the Tanakh, especially resurrection (23.6–8; Josephus, *J.W.* 2.164–166; *Ant.* 13.173; 18.16–17). ^4-1-3
 
 **[[NRSVue Acts 04#^4-3|3]]:** *Arrested,* “captured” them for the purposes of confinement and subsequent prosecution (5.18; 12.1–3; 21.27). ^4-3
 
@@ -38,7 +38,7 @@ Text: [[NRSVue Acts 04|NRSVue]] · [[Acts 04|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Acts 04#^4-8|Text]], p. 229* · Peter’s speech summarizes several Lukan themes. ^4-8
 
-**[[NRSVue Acts 04#^4-8|8]]:** *Holy Spirit*, see 1.2–3n. Speeches inspired by the divine spirit are common in later books of the Tanakh (e.g., [[II Chronicles 20#^20-14|2 Chr 20.14]]). ^4-8-2
+**[[NRSVue Acts 04#^4-8|8]]:** *Holy Spirit*, see [[JANT Acts 01#^1-2|1.2–3n.]] Speeches inspired by the divine spirit are common in later books of the Tanakh (e.g., [[II Chronicles 20#^20-14|2 Chr 20.14]]). ^4-8-2
 
 **[[NRSVue Acts 04#^4-10|10]]:** *Name of Jesus Christ*, see 3.6. *Whom you crucified*, Jewish leaders are responsible for the killing of Jesus (2.23). The contrast between the Jews who crucified Jesus and God who raised him, see 2.24. ^4-10
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Acts 04|NRSVue]] · [[Acts 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 04#^4-13|13]]:** *Boldness*, the apostles speak fearlessly to authorities (2.29; 4.29,31; 9.27,28; 13.46; 14.3; 18.26; 19.8; 26.26; 28.31), a useful quality for ancient rhetoricians. ^4-13-2
 
-**[[NRSVue Acts 04#^4-15|15]]:** *Council*, see 4.5n. ^4-15
+**[[NRSVue Acts 04#^4-15|15]]:** *Council*, see [[JANT Acts 04#^4-5-2|4.5n.]] ^4-15
 
 **[[NRSVue Acts 04#^4-19|19]]:** *Listen to you rather than to God*, a similar idea is attributed to the Pharisee Gamaliel (5.29). *Listen*, with the connotation of obey, as in the “Shema” (“Hear, O Israel . . .”) prayer. Jewish and Greek philosophical traditions often rank obedience to God as more important than obedience to human authority ([[LXX 2 Maccabees 07#^7-2|2 Macc 7.2]]; [[LXX 4 Maccabees 05#^5-16|4 Macc 5.16-21]]; Josephus, *Ant* 17.158–59; 18.268; Plato, *Apol.* 29d). ^4-19
 
@@ -74,7 +74,7 @@ Text: [[NRSVue Acts 04|NRSVue]] · [[Acts 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 04#^4-30|30]]:** *Signs and wonders . . . through the name*, see 2.43. ^4-30
 
-**[[NRSVue Acts 04#^4-31|31]]:** *Filled with the Holy Spirit*, see 2.2; 4.8; 9.17; 13.9,52. *Shaken*, another physical indication (like fire and wind, see 2.2–3) marking the Spirit’s presence. ^4-31
+**[[NRSVue Acts 04#^4-31|31]]:** *Filled with the Holy Spirit*, see 2.2; 4.8; 9.17; 13.9,52. *Shaken*, another physical indication (like fire and wind, see [[Acts 02#^2-2|2.2–3]]) marking the Spirit’s presence. ^4-31
 
 ### 4.32–5.11: Communal possessions
 
@@ -84,7 +84,7 @@ Text: [[NRSVue Acts 04|NRSVue]] · [[Acts 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 04#^4-32|32]]:** *Heart and soul,* often paired in Deuteronomy and related books to represent complete obedience to God ([[Torah 45 - Vaetchanan#^6-5|Deut 6.5]]; [[Torah 46 - Eikev#^10-12|10.12]]; [[Torah 46 - Eikev#^11-13|11.13]]; [[Torah 50 - Ki Tavo#^26-16|26.16]]). *Held in common*, see 2.44. ^4-32-3
 
-**[[NRSVue Acts 04#^4-33|33]]:** *Testimony to the resurrection*, what the apostles were appointed to provide (see 1.8n.). ^4-33
+**[[NRSVue Acts 04#^4-33|33]]:** *Testimony to the resurrection*, what the apostles were appointed to provide (see [[JANT Acts 01#^1-8|1.8n.]]). ^4-33
 
 **[[NRSVue Acts 04#^4-36|36]]:** *Levite*, identification according to one of the tribes of Israel; Paul identifies himself as of the tribe of Benjamin ([[Romans 11#^11-1|Rom 11.1]]; [[Philippians 03#^3-5|Phil 3.5]]). *Barnabas*, Paul’s coworker (9.27; 11.22–30; 12.25; 13.1–15.8; [[1 Corinthians 09#^9-6|1 Cor 9.6]]; [[Galatians 02#^2-1|Gal 2.1]],[[Galatians 02#^2-9|9]]), although the two later separated (15.36–41; [[Galatians 02#^2-13|Gal 2.13]]). Barnabas stands as the model of fidelity in contrast to Ananias and Sapphira who follow. ^4-36
 

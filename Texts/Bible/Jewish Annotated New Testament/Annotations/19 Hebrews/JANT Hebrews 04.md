@@ -14,7 +14,7 @@ Text: [[NRSVue Hebrews 04|NRSVue]] · [[Hebrews 04|BSB and SBLGNT]] · Introduct
 
 ### 4.1–11: Promise of rest
 
-*[[NRSVue Hebrews 04#^4-1|Text]], p. 468* · The author’s reading of Ps 95 forms the substance of his argument from 3.7 to 4.11. Although the word “promise” is not used in the Psalm, God does promise rest to the people. The author interprets “today” to make the Psalm speak to his audience, not as a simple cautionary tale, but as proof that God’s promise of rest was not realized by settlement in the land, since God proclaims even “today” “they shall not enter my rest.” Therefore God’s promise of rest must refer to something in the future, whether as a place, a condition, or both. See 4.4n. ^4-1
+*[[NRSVue Hebrews 04#^4-1|Text]], p. 468* · The author’s reading of Ps 95 forms the substance of his argument from 3.7 to 4.11. Although the word “promise” is not used in the Psalm, God does promise rest to the people. The author interprets “today” to make the Psalm speak to his audience, not as a simple cautionary tale, but as proof that God’s promise of rest was not realized by settlement in the land, since God proclaims even “today” “they shall not enter my rest.” Therefore God’s promise of rest must refer to something in the future, whether as a place, a condition, or both. See [[JANT Hebrews 04#^4-4|4.4n.]] ^4-1
 
 **[[NRSVue Hebrews 04#^4-1|1]]:** *Still open*, since the promise went unfulfilled, those faithful to Christ can obtain it. ^4-1-2
 

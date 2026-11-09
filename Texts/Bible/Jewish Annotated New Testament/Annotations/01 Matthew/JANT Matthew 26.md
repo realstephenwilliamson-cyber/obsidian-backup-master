@@ -61,7 +61,7 @@ Text: [[NRSVue Matthew 26|NRSVue]] · [[Matthew 26|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 26#^26-17|Text]], p. 59* · ([[Mark 14#^14-12|Mk 14.12–31]]; [[Luke 22#^22-7|Lk 22.7–34]]; [[John 13#^13-21|Jn 13.21–30]]). ^26-17
 
-**[[NRSVue Matthew 26#^26-17|17]]:** *Unleavened bread*, Heb “matzah,” see [[JANT Matthew 26#^26-19|26.19n.]] *Eat the Passover*, the ritually sacrificed lamb ([[Torah 15 - Bo#^12-3|Ex 12.3]],[[Torah 15 - Bo#^12-6|6]]; *m. Pesah*. 7.9; 10.3, 9; Josephus, *Ant*. 3.249; CD 11.18–21). ^26-17-2
+**[[NRSVue Matthew 26#^26-17|17]]:** *Unleavened bread*, Heb “matzah,” see [[JANT Matthew 26#^26-19|26.19n.]] *Eat the Passover*, the ritually sacrificed lamb ([[Torah 15 - Bo#^12-3|Ex 12.3]],[[Torah 15 - Bo#^12-6|6]]; *m. Pesah*. 7.9; 10.3, 9; Josephus, *Ant*. 3.249; CD [[DSS CD-A#^11-18|11.18–21]]). ^26-17-2
 
 **[[NRSVue Matthew 26#^26-19|19]]:** *Passover meal*, at the time a paschal lamb meal, but later would become the Heb “seder,” lit., “order,” where Jewish families recount the Israelites’ exodus from Egypt and eat special foods (matzah, paschal lamb, bitter herbs; see [[Torah 15 - Bo#^12-18|Ex 12.18–27]]; [[Torah 31 - Emor#^23-4|Lev 23.4–8]]; [[Torah 36 - Beha'alotcha#^9-1|Num 9.1–14]]; [[Torah 41 - Pinchas#^28-17|28.17]]; [[Torah 47 - Re'eh#^16-1|Deut 16.1–8]]; cf. *m. Pesah.* ). The seder ritual practiced today, however, is largely a later, rabbinic development (e.g., *b. Pesah*. [[Pesachim 95#95a|95a]],103a,114a; one tradition links the famous Rabbi Gamaliel the Younger to some of the earliest Passover celebrations in the rabbinic era \[see *t. Pesah*. 10.12\]). ^26-19
 

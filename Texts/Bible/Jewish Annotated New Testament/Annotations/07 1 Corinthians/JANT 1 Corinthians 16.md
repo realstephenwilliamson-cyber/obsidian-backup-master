@@ -38,6 +38,6 @@ Text: [[NRSVue 1 Corinthians 16|NRSVue]] · [[1 Corinthians 16|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 16#^16-20|20]]:** *Holy kiss*, greeting exchanged between believers, as at the Lord’s Supper. ^16-20
 
-**[[NRSVue 1 Corinthians 16#^16-22|22]]:** *The Lord*, Christ Jesus. *Accursed*, [[Jeremiah 17#^17-5|Jer 17.5]]; [[Matthew 23#^23-13|Mt 23.13–27]]; *Ep. Arist.* 311; *Jub.* 23.30; *1 En.* 5.5–7; *Pss. Sol.* 4.14–22; *Sib. Or.* 3.295–349; 492–519; 1QS 2.4–9. *Love* (Gk “phileō”), used by Paul only here (contrast 2.9,13). *Our Lord, come!*, transliterated Gk from Aram “marana tha,” a formulaic appeal for Jesus to return and judge unbelievers (*Did.* 10.6). read *Maran atha*, meaning *Our Lord has come* d Other ancient authorities add *Amen* ^16-22
+**[[NRSVue 1 Corinthians 16#^16-22|22]]:** *The Lord*, Christ Jesus. *Accursed*, [[Jeremiah 17#^17-5|Jer 17.5]]; [[Matthew 23#^23-13|Mt 23.13–27]]; *Ep. Arist.* 311; *Jub.* 23.30; *1 En.* [[1 Enoch 005#^5-5|5.5–7]]; *Pss. Sol.* 4.14–22; *Sib. Or.* 3.295–349; 492–519; 1QS [[DSS 1QS#^2-4|2.4–9]]. *Love* (Gk “phileō”), used by Paul only here (contrast 2.9,13). *Our Lord, come!*, transliterated Gk from Aram “marana tha,” a formulaic appeal for Jesus to return and judge unbelievers (*Did.* 10.6). read *Maran atha*, meaning *Our Lord has come* d Other ancient authorities add *Amen* ^16-22
 
 [[JANT 1 Corinthians 15|← 1 Corinthians 15]] · [[Jewish Annotated New Testament|JANT index]] · —

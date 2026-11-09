@@ -20,7 +20,7 @@ Text: [[NRSVue Jude 01|NRSVue]] · [[Jude 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Jude 01#^1-3|3]]:** *Salvation we share*, communal salvation was a hope shared in this period by Jews (whose covenant bound them through history) and followers of Jesus (who understood God’s saving acts as binding them together as a new people). ^1-3-2
 
-**[[NRSVue Jude 01#^1-4|4]]:** *Long ago were designated for this condemnation*, as in many apocalyptic communities, like that at Qumran (which divided humanity into “children of light” and “children of darkness,” 1QS 1.9–11), humanity has already been divided into camps of saved and condemned. *Licentiousness*, accusations against the *intruders* are vague, but suggest sexual immorality. ^1-4
+**[[NRSVue Jude 01#^1-4|4]]:** *Long ago were designated for this condemnation*, as in many apocalyptic communities, like that at Qumran (which divided humanity into “children of light” and “children of darkness,” 1QS [[DSS 1QS#^1-9|1.9–11]]), humanity has already been divided into camps of saved and condemned. *Licentiousness*, accusations against the *intruders* are vague, but suggest sexual immorality. ^1-4
 
 > [!note] Enoch Literature in Second Temple Judaism *(p. 533)*
 > The extensive collection of stories known as *1 Enoch*, cited directly in [[Jude 01#^1-14|Jude 14]], records an elaborate angelology as well as apocalyptic expectations. These stories, framed as revelations to the primordial figure Enoch ([[Torah 01 - Bereshit#^5-21|Gen 5.21–24]]), who “walked with God” and was “taken” by God (that is, perhaps did not die a normal human death), circulated widely among Jewish communities in the late Second Temple period, and they remained influential among Jews and Christians in the early centuries ce. Instead of placing the origin of evil with Adam and Eve in Eden, *1 Enoch* interpreted the “sons of God” in [[Torah 01 - Bereshit#^6-2|Gen 6.2]] as fallen angels whose interactions with humanity initiated a division between godly and godless humans that would last until the end of the world. *1 Enoch* survives in ancient Ethiopic texts, although Aramaic fragments were discovered at Qumran. Although a popular strand of thought among various Jews in the Second Temple period, and among several early Christian groups, the interpretation of the angelic “sons of God” fell out of favor in rabbinic interpretation and in later Christian explanations of the origins of evil.
@@ -45,7 +45,7 @@ Text: [[NRSVue Jude 01|NRSVue]] · [[Jude 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Jude 01#^1-14|14–19]]:** Intruders foretold.  ^1-14
 
-**[[NRSVue Jude 01#^1-14|14]]:** *Enoch*, descendant of Adam ([[Torah 01 - Bereshit#^5-18|Gen 5.18–24]]); his prophecy comes from *1 Enoch* 1.9. Jude takes “the Lord” to be Jesus. 1 ^1-14-2
+**[[NRSVue Jude 01#^1-14|14]]:** *Enoch*, descendant of Adam ([[Torah 01 - Bereshit#^5-18|Gen 5.18–24]]); his prophecy comes from *1 Enoch* [[1 Enoch 001#^1-9|1.9]]. Jude takes “the Lord” to be Jesus. 1 ^1-14-2
 
 **[[NRSVue Jude 01#^1-7|7–18]]:** *Predictions of the apostles*, otherwise unattested *for themselves* f Gk *came* (though perhaps meaning those such as [[2 Thessalonians 02#^2-3|2 Thess 2.3]]); *the last time* reinforces the author’s apocalyptic world-view (cf. [[2 Peter 03#^3-3|2 Pet 3.3]]). ^1-7-2
 

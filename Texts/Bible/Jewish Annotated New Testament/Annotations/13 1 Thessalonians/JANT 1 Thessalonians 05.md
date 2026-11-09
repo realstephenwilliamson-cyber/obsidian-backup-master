@@ -22,7 +22,7 @@ Text: [[NRSVue 1 Thessalonians 05|NRSVue]] · [[1 Thessalonians 05|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 05#^5-3|3]]:** *Peace and security*, the (false) promise of the Roman Empire; see Josephus, *Ant*. 14.160; 15.348; Tacitus, *Hist*. 2.12; 4.74. *Sudden destruction . . . labor pains*, see [[1 Thessalonians 01#^1-6|1.6]], also [[Isaiah 26#^26-17|Isa 26.17]]; [[Isaiah 42#^42-14|42.14]]; [[Isaiah 66#^66-8|66.8]]; [[Jeremiah 30#^30-6|Jer 30.6–7]]; [[Romans 08#^8-22|Rom 8.22]]. **4**: *Thief*, see [[JANT 1 Thessalonians 05#^5-2|5.2n.]] ^5-3
 
-**[[NRSVue 1 Thessalonians 05#^5-5|5]]:** *Children of light*, see [[Luke 16#^16-8|Lk 16.8]]; [[John 12#^12-36|Jn 12.36]]; [[Ephesians 05#^5-8|Eph 5.8]]; cf. [[1 John 02#^2-8|1 Jn 2.8–11]]. See also [[John 01#^1-4|Jn 1.4–5]],[[John 01#^1-7|7–9]]; [[John 03#^3-19|3.19–21]]; [[John 08#^8-12|8.12]]; [[John 12#^12-46|12.46]]. Light is associated with “Torah” ([[Proverbs 06#^6-23|Prov 6.23]]), darkness with evil ([[Proverbs 02#^2-13|Prov 2.13]]); God is pictured as light ([[Psalms 104#^104-2|Ps 104.2]]). The DSS, 1QM 15.9 (cf. 1QS 3.25–27), divides humankind into the “sons of light” and the “sons of darkness.” ^5-5
+**[[NRSVue 1 Thessalonians 05#^5-5|5]]:** *Children of light*, see [[Luke 16#^16-8|Lk 16.8]]; [[John 12#^12-36|Jn 12.36]]; [[Ephesians 05#^5-8|Eph 5.8]]; cf. [[1 John 02#^2-8|1 Jn 2.8–11]]. See also [[John 01#^1-4|Jn 1.4–5]],[[John 01#^1-7|7–9]]; [[John 03#^3-19|3.19–21]]; [[John 08#^8-12|8.12]]; [[John 12#^12-46|12.46]]. Light is associated with “Torah” ([[Proverbs 06#^6-23|Prov 6.23]]), darkness with evil ([[Proverbs 02#^2-13|Prov 2.13]]); God is pictured as light ([[Psalms 104#^104-2|Ps 104.2]]). The DSS, 1QM [[DSS 1QM#^15-9|15.9]] (cf. 1QS [[DSS 1QS#^3-25|3.25–27]]), divides humankind into the “sons of light” and the “sons of darkness.” ^5-5
 
 **[[NRSVue 1 Thessalonians 05#^5-6|6]]:** *Fall asleep*, i.e., die; see [[JANT 1 Thessalonians 04#^4-13-2|4.13n.]], but here with the connotation of failing to be *awake and be sober* and in preparation for the end-time (see [[Matthew 25#^25-13|Mt 25.13–15]]; [[Matthew 24#^24-42|24.42]]; [[Mark 13#^13-33|Mk 13.33–37]]). ^5-6
 
@@ -46,7 +46,7 @@ Text: [[NRSVue 1 Thessalonians 05|NRSVue]] · [[1 Thessalonians 05|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 05#^5-21|21]]:** *Test*, examine closely to check genuineness; [[Torah 47 - Re'eh#^13-2|Deut 13.1–5]]. ^5-21
 
-**[[NRSVue 1 Thessalonians 05#^5-22|22]]:** *Abstain from . . . evil*, see [[Job 01#^1-1|Job 1.1]],[[Job 01#^1-8|8]]; 1QS 1.4. ^5-22
+**[[NRSVue 1 Thessalonians 05#^5-22|22]]:** *Abstain from . . . evil*, see [[Job 01#^1-1|Job 1.1]],[[Job 01#^1-8|8]]; 1QS [[DSS 1QS#^1-4|1.4]]. ^5-22
 
 ### 5.23–28: Benediction
 

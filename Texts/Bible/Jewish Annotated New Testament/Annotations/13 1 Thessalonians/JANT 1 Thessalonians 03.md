@@ -18,9 +18,9 @@ Text: [[NRSVue 1 Thessalonians 03|NRSVue]] · [[1 Thessalonians 03|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 03#^3-1|1]]:** *Athens*, suggesting that Paul was writing from Athens. ^3-1-2
 
-**[[NRSVue 1 Thessalonians 03#^3-2|2]]:** *Timothy*, 1.1n. *Brother*, a common form of address expressing biological or spiritual kinship, e.g., [[Torah 33 - Bechukotai#^26-36|Lev. 26.36]]; [[Acts 13#^13-15|Acts 13.15]]; 1QS 6.10. *Co*-*worker*, Paul’s term for his closest collaborators ([[Romans 16#^16-9|Rom 16.9]],[[Romans 16#^16-21|21]]; [[2 Corinthians 08#^8-23|2 Cor 8.23]]). *Strengthen and encourage*, see Philo, *Dreams* 1.158; 2.11. ^3-2
+**[[NRSVue 1 Thessalonians 03#^3-2|2]]:** *Timothy*, 1.1n. *Brother*, a common form of address expressing biological or spiritual kinship, e.g., [[Torah 33 - Bechukotai#^26-36|Lev. 26.36]]; [[Acts 13#^13-15|Acts 13.15]]; 1QS [[DSS 1QS#^6-10|6.10]]. *Co*-*worker*, Paul’s term for his closest collaborators ([[Romans 16#^16-9|Rom 16.9]],[[Romans 16#^16-21|21]]; [[2 Corinthians 08#^8-23|2 Cor 8.23]]). *Strengthen and encourage*, see Philo, *Dreams* 1.158; 2.11. ^3-2
 
-**[[NRSVue 1 Thessalonians 03#^3-3|3]]:** *Destined for*, the idea of predestination typifies the DSS, e.g., 1QS 3.15–16. ^3-3
+**[[NRSVue 1 Thessalonians 03#^3-3|3]]:** *Destined for*, the idea of predestination typifies the DSS, e.g., 1QS [[DSS 1QS#^3-15|3.15–16]]. ^3-3
 
 **[[NRSVue 1 Thessalonians 03#^3-4|4]]:** *Suffer persecution* (Gk “thlibesthai”) or “undergo tribulation.” See [[JANT 1 Thessalonians 01#^1-10|1.10n.]] ^3-4
 
@@ -44,6 +44,6 @@ Text: [[NRSVue 1 Thessalonians 03|NRSVue]] · [[1 Thessalonians 03|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 03#^3-12|12]]:** *Lord*, see [[1 Thessalonians 01#^1-1|1.1]] ^3-12
 
-**[[NRSVue 1 Thessalonians 03#^3-13|13]]:** *Strengthen your hearts*, see [[LXX Psalms 111#^111-8|Ps 111.8]]\[LXX\]; [[LXX Sirach 06#^6-37|Sir 6.37]]; [[LXX Sirach 22#^22-16|22.16]]. *Holiness*, through faith and proper behavior. *Coming . . . saints*, believers (Gk “hagioi,” lit., “holy ones”) who have died (see [[1 Thessalonians 04#^4-14|4.14]]); see [[Daniel 07#^7-18|Dan 7.18]],[[LXX Daniel (Greek) 07#^7-22|22]]\[LXX\] and 1QM 3.5. ^3-13
+**[[NRSVue 1 Thessalonians 03#^3-13|13]]:** *Strengthen your hearts*, see [[LXX Psalms 111#^111-8|Ps 111.8]]\[LXX\]; [[LXX Sirach 06#^6-37|Sir 6.37]]; [[LXX Sirach 22#^22-16|22.16]]. *Holiness*, through faith and proper behavior. *Coming . . . saints*, believers (Gk “hagioi,” lit., “holy ones”) who have died (see [[1 Thessalonians 04#^4-14|4.14]]); see [[Daniel 07#^7-18|Dan 7.18]],[[LXX Daniel (Greek) 07#^7-22|22]]\[LXX\] and 1QM [[DSS 1QM#^3-5|3.5]]. ^3-13
 
 [[JANT 1 Thessalonians 02|← 1 Thessalonians 2]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Thessalonians 04|1 Thessalonians 4 →]]

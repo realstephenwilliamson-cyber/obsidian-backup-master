@@ -56,7 +56,7 @@ Text: [[NRSVue Galatians 04|NRSVue]] · [[Galatians 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Galatians 04#^4-22|22]]:** *It is written*, Gen 16; 21. ^4-22
 
-**[[NRSVue Galatians 04#^4-24|24]]:** *Is an allegory*, literal meaning is not the real meaning. Allegories typically represent moral qualities or philosophical concepts as concrete entities such as persons or places. Allegories are present in the Tanakh (e.g., Isa 5). Philo, the Alexandrian Jewish philosopher, Paul’s older contemporary, understands many biblical stories as allegories. For example, Abram’s journey from Chaldea to Canaan (Gen 12) represents the soul’s ascent from the world of matter to that of the spirit. For Philo, allegorical meanings complement or supplement literal meanings (see “Philo of Alexandria,” p. 714); in contrast, Paul thinks that the allegorical meaning completely replaces the literal meaning. Numerous rabbinic texts (e.g., *Gen. Rab.* 65.21) understand the conflict between Esau and Jacob (Gen 25–33) as representing the conflict between Israel (Jacob) and Rome (Edom, Esau). In Paul’s allegory, Hagar, a slave who bears children into slavery, represents the Sinaitic covenant**.** ^4-24
+**[[NRSVue Galatians 04#^4-24|24]]:** *Is an allegory*, literal meaning is not the real meaning. Allegories typically represent moral qualities or philosophical concepts as concrete entities such as persons or places. Allegories are present in the Tanakh (e.g., Isa 5). Philo, the Alexandrian Jewish philosopher, Paul’s older contemporary, understands many biblical stories as allegories. For example, Abram’s journey from Chaldea to Canaan (Gen 12) represents the soul’s ascent from the world of matter to that of the spirit. For Philo, allegorical meanings complement or supplement literal meanings (see “Philo of Alexandria,” p. 714); in contrast, Paul thinks that the allegorical meaning completely replaces the literal meaning. Numerous rabbinic texts (e.g., *Gen. Rab.* [65.21](https://www.sefaria.org/Bereshit_Rabbah.65.21)) understand the conflict between Esau and Jacob (Gen 25–33) as representing the conflict between Israel (Jacob) and Rome (Edom, Esau). In Paul’s allegory, Hagar, a slave who bears children into slavery, represents the Sinaitic covenant**.** ^4-24
 
 **[[NRSVue Galatians 04#^4-25|25]]:** *Jerusalem . . . with her children*, on Zion as mother, see [[Isaiah 49#^49-14|Isa 49.14–23]]; [[Isaiah 66#^66-8|66.8]]. Textual variants (which read “For Sinai is a mountain in Arabia” instead of “Hagar is Mount Sinai in Arabia”) show that ancient readers were not sure how to understand Paul’s identification of Hagar with Sinai. ^4-25
 
@@ -64,7 +64,7 @@ Text: [[NRSVue Galatians 04|NRSVue]] · [[Galatians 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Galatians 04#^4-27|27]]:** See [[Isaiah 54#^54-1|Isa 54.1]]. ^4-27
 
-**[[NRSVue Galatians 04#^4-29|29]]:** That Ishmael *persecuted* Isaac is based on a midrashic reading of [[Torah 04 - Vayera#^21-9|Gen 21.9]] (e.g., *Gen. Rab.* 53.15). ^4-29
+**[[NRSVue Galatians 04#^4-29|29]]:** That Ishmael *persecuted* Isaac is based on a midrashic reading of [[Torah 04 - Vayera#^21-9|Gen 21.9]] (e.g., *Gen. Rab.* [53.15](https://www.sefaria.org/Bereshit_Rabbah.53.15)). ^4-29
 
 **[[NRSVue Galatians 04#^4-30|30]]:** See [[Torah 04 - Vayera#^21-10|Gen 21.10]]. ^4-30
 

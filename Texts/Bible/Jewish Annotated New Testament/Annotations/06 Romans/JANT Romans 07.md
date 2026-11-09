@@ -47,7 +47,7 @@ Text: [[NRSVue Romans 07|NRSVue]] · [[Romans 07|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 07#^7-13|13]]:** This leads to the next logical question: Would Adam have been better off had he not been told to refrain from eating from the tree of knowledge? The answer is an unequivocal no. It revealed that sin brings about death, which would have gone otherwise unrealized, and thus it would not be clear that sin is to be avoided at all costs. *Through the commandment might become sinful beyond measure,* lit., “in order that through the commandment the sinfulness of the sin would cause itself to become preeminent,” i.e., easily identifiable as sin. ^7-13-2
 
-**[[NRSVue Romans 07#^7-14|14–23]]:** The rabbis (*Sifre Deut.* 32) identify these conflicting impulses as “yetzer ha-tov” (the good inclination) and “yetzer ha-ra” (the evil inclination). Similar struggles are discussed in 1QS 3.15–4.26; Epictetus, *Diatr*. 2.26.4. ^7-14
+**[[NRSVue Romans 07#^7-14|14–23]]:** The rabbis (*Sifre Deut.* 32) identify these conflicting impulses as “yetzer ha-tov” (the good inclination) and “yetzer ha-ra” (the evil inclination). Similar struggles are discussed in 1QS [[DSS 1QS#^3-15|3.15–4.26]]; Epictetus, *Diatr*. 2.26.4. ^7-14
 
 **[[NRSVue Romans 07#^7-14|14]]:** *Spiritual*, having to do with spiritual matters, e.g., honesty, righteousness, etc. *Sold into slavery under sin*, lit., “sold to being enslaved under sin (error)”; Paul seems to indicate a kind of dual citizenship, being created to want what is right but following a transaction likened to selling a slave, finding oneself compelled to live in a different way than what one wishes for. Cf. [[Isaiah 50#^50-1|Isa 50.1]]; 11QPsa 19.9–10. ^7-14-2
 
@@ -61,6 +61,6 @@ Text: [[NRSVue Romans 07|NRSVue]] · [[Romans 07|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 07#^7-24|24]]:** The *I* seeks rescue not from Torah but from the *body of death*. ^7-24
 
-**[[NRSVue Romans 07#^7-25|25]]:** *A slave to the law of God*, i.e., a member of God’s family and principles for living; *a slave to the law of sin*, i.e., a member of the human family descended from Adam and the constraining forces of sin and death. See 1QS 11.9–15; 1QH 4.30–38. ^7-25
+**[[NRSVue Romans 07#^7-25|25]]:** *A slave to the law of God*, i.e., a member of God’s family and principles for living; *a slave to the law of sin*, i.e., a member of the human family descended from Adam and the constraining forces of sin and death. See 1QS [[DSS 1QS#^11-9|11.9–15]]; 1QH 4.30–38. ^7-25
 
 [[JANT Romans 06|← Romans 6]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Romans 08|Romans 8 →]]

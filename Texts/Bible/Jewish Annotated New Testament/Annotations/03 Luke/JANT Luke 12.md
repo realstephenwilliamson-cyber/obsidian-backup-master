@@ -42,7 +42,7 @@ Text: [[NRSVue Luke 12|NRSVue]] · [[Luke 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 12#^12-16|16]]:** *Rich man*, parables with this phrase tend to be critical of rich people who do not support the poor (16.1–19). ^12-16
 
-**[[NRSVue Luke 12#^12-19|19]]:** *Eat, drink, be merry*, a proper response to God’s good gifts ([[Ecclesiastes 08#^8-15|Eccl 8.15]]; [[LXX Tobit 07#^7-10|Tob 7.10]]; *1 En*. 97.8–9). ^12-19
+**[[NRSVue Luke 12#^12-19|19]]:** *Eat, drink, be merry*, a proper response to God’s good gifts ([[Ecclesiastes 08#^8-15|Eccl 8.15]]; [[LXX Tobit 07#^7-10|Tob 7.10]]; *1 En*. [[1 Enoch 097#^97-8|97.8–9]]). ^12-19
 
 **[[NRSVue Luke 12#^12-20|20]]:** See 12.33–34; [[Jeremiah 17#^17-11|Jer 17.11]]. *Is being demanded*, lit., “they demand”; the antecedent may be God, angels, or the man’s possessions. *Whose will they be*, the thought resembles the more pessimistic parts of Ecclesiastes (e.g., 3.19). ^12-20
 

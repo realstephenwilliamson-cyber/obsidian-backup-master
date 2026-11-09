@@ -20,7 +20,7 @@ Text: [[NRSVue Matthew 17|NRSVue]] · [[Matthew 17|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 17#^17-2|2]]:** *Transfigured*, Gk “metamorphoō,” “change in form or appearance” (see [[Romans 12#^12-2|Rom 12.2]]; [[2 Corinthians 03#^3-18|2 Cor 3.18]]). *His face shone*, allusion to Moses ([[Torah 21 - Ki Tisa#^34-35|Ex 34.35]]); *like the sun*, cf. [[Daniel 10#^10-6|Dan 10.6]], “. . . his face like lightning, his eyes like flaming torches. . .”; [[2 Corinthians 03#^3-18|2 Cor 3.18]]; [[Revelation 10#^10-1|Rev 10.1]]. ^17-2
 
-**[[NRSVue Matthew 17#^17-3|3]]:** *Moses and Elijah*, perhaps suggesting that Jesus is the fulfillment of the Law and the Prophets (5.17; 7.12; 17.12; [[Torah 48 - Shoftim#^18-15|Deut 18.15]],[[Torah 48 - Shoftim#^18-18|18]]). Rabbinic texts also link Moses and Elijah (see *Deut. Rab*. 3.17, which notes that God will bring both Moses and Elijah back in the future). ^17-3
+**[[NRSVue Matthew 17#^17-3|3]]:** *Moses and Elijah*, perhaps suggesting that Jesus is the fulfillment of the Law and the Prophets (5.17; 7.12; 17.12; [[Torah 48 - Shoftim#^18-15|Deut 18.15]],[[Torah 48 - Shoftim#^18-18|18]]). Rabbinic texts also link Moses and Elijah (see *Deut. Rab*. [3.17](https://www.sefaria.org/Devarim_Rabbah.3.17), which notes that God will bring both Moses and Elijah back in the future). ^17-3
 
 **[[NRSVue Matthew 17#^17-5|5]]:** See [[Psalms 002#^2-7|Ps 2.7]]. *Bright cloud*, indicating God’s presence ([[Torah 23 - Pekudei#^40-35|Ex 40.35–38]]; see also [[Revelation 14#^14-14|Rev 14.14]]; Josephus, *Ant*. 4.326). *Listen to him*, see [[Matthew 03#^3-17|3.17]]; cf. [[Torah 48 - Shoftim#^18-15|Deut 18.15]] of the prophet like Moses. ^17-5
 
@@ -58,6 +58,6 @@ Text: [[NRSVue Matthew 17|NRSVue]] · [[Matthew 17|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 17#^17-26|26]]:** *Children are free*, Jesus and his followers are technically exempt. ^17-26
 
-**[[NRSVue Matthew 17#^17-27|27]]:** *We do not give offense*, a lesson for Matthew’s day when Rome replaced the Temple tax with the *Fiscus Iudaicus*, which required Jews to support the temple of Jupiter Capitolina in Rome (see “Jewish History, 331 BCE–135 CE,” p. 583). *Fish*, rabbinic sources speak of fish containing riches (*b. Sanh. 119a; Pesiq. Rab.* 23.6; *Eccl. Rab.* 11.1). *Coin*, a Tyrian “stater,” worth four drachmas, enough to pay for two people. ^17-27
+**[[NRSVue Matthew 17#^17-27|27]]:** *We do not give offense*, a lesson for Matthew’s day when Rome replaced the Temple tax with the *Fiscus Iudaicus*, which required Jews to support the temple of Jupiter Capitolina in Rome (see “Jewish History, 331 BCE–135 CE,” p. 583). *Fish*, rabbinic sources speak of fish containing riches (*b. Sanh. 119a; Pesiq. Rab.* 23.6; *Eccl. Rab.* [11.1](https://www.sefaria.org/Kohelet_Rabbah.11)). *Coin*, a Tyrian “stater,” worth four drachmas, enough to pay for two people. ^17-27
 
 [[JANT Matthew 16|← Matthew 16]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Matthew 18|Matthew 18 →]]

@@ -30,7 +30,7 @@ Text: [[NRSVue 2 Corinthians 02|NRSVue]] · [[2 Corinthians 02|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 02#^2-11|11]]:** *Satan*, see [[2 Corinthians 11#^11-14|11.14]]; 12.7. Paul also calls this figure “the god of this world” (4.4), “Beliar” (6.15—a variant of Belial), and “serpent” (11.3). The term originally meant accuser or adversary, and only in the latest texts from the Tanakh refers to a heavenly being who prompts God to test humans (as Job) and who tempts individuals to sin; see *b. Yoma* [[Yoma 20#20a|20a]] (Satan accuses humans before God every day except Yom Kippur). ^2-11
 
-**[[NRSVue 2 Corinthians 02#^2-12|12]]:** *Troas*, Roman colony in northwest Turkey, a short sea voyage to Philippi; see [[Acts 16#^16-8|Acts 16.8–11]]. *Good news*, Gk “euangelion,” usually translated “gospel.” *Door . . . in the Lord*, the same metaphor, signifying opportunity, appears at *Gen. Rab.* 48.8*.* ^2-12
+**[[NRSVue 2 Corinthians 02#^2-12|12]]:** *Troas*, Roman colony in northwest Turkey, a short sea voyage to Philippi; see [[Acts 16#^16-8|Acts 16.8–11]]. *Good news*, Gk “euangelion,” usually translated “gospel.” *Door . . . in the Lord*, the same metaphor, signifying opportunity, appears at *Gen. Rab.* [48.8](https://www.sefaria.org/Bereshit_Rabbah.48.8)*.* ^2-12
 
 **[[NRSVue 2 Corinthians 02#^2-13|13]]:** *Titus*, a co-worker like Timothy and Silvanus, likely the carrier of the “letter of tears” (2.3–4; 7.8). ^2-13
 

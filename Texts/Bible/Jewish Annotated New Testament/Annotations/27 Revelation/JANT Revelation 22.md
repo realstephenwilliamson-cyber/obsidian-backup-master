@@ -24,7 +24,7 @@ Text: [[NRSVue Revelation 22|NRSVue]] · [[Revelation 22|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 22#^22-3|3]]:** *Nothing accursed*, the city is protected from all future misfortune through its holy inhabitants, following [[Zechariah 14#^14-11|Zech 14.11]]. ^22-3-2
 
-**[[NRSVue Revelation 22#^22-4|4]]:** *See his face*, represents the greatest privilege in Jewish visionary literature (see *2 En*. 22,39), one not granted to Isaiah (6.1), Ezekiel (ch 1), or Enoch (*1 En*. 14.21; cf. 46.1)—perhaps following God’s proscription in [[Torah 21 - Ki Tisa#^33-20|Ex 33.20–23]] (see [[Torah 08 - Vayishlach#^32-31|Gen 32.31]])—but promised as an eschatological reward in *Jub.* 1.28 and *4 Ezra* 7.98. *Name . . . foreheads*, recalls the mark on the Lamb’s followers (14.1), representing the opposite of the mark of the beast (13.16; see “Names Inscribed on the Body,” p. 561). ^22-4
+**[[NRSVue Revelation 22#^22-4|4]]:** *See his face*, represents the greatest privilege in Jewish visionary literature (see *2 En*. 22,39), one not granted to Isaiah (6.1), Ezekiel (ch 1), or Enoch (*1 En*. [[1 Enoch 014#^14-21|14.21]]; cf. 46.1)—perhaps following God’s proscription in [[Torah 21 - Ki Tisa#^33-20|Ex 33.20–23]] (see [[Torah 08 - Vayishlach#^32-31|Gen 32.31]])—but promised as an eschatological reward in *Jub.* 1.28 and *4 Ezra* 7.98. *Name . . . foreheads*, recalls the mark on the Lamb’s followers (14.1), representing the opposite of the mark of the beast (13.16; see “Names Inscribed on the Body,” p. 561). ^22-4
 
 **[[NRSVue Revelation 22#^22-5|5]]:** *No more night*, see [[JANT Revelation 21#^21-25|21.25n.]] ^22-5
 

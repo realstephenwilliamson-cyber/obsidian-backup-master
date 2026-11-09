@@ -25,6 +25,16 @@ All in `Texts/Bible` ([[Bible]]):
 - [[New Testament]] · [[Greek NT Lexicon (MorphGNT)|Greek NT lexicon]]
 - [[Jewish Annotated New Testament]]: introductions, annotations by chapter, essays (2nd ed., 2017)
 
+## Pseudepigrapha
+
+In `Texts/Pseudepigrapha` ([[Pseudepigrapha]]):
+
+- [[1 Enoch]]: R. H. Charles's translation (1917), one note per chapter
+
+## Dead Sea Scrolls
+
+- [[Qumran]]: the English of García Martínez and Tigchelaar's *Study Edition* (1999), one note per manuscript, a block per line, in `Texts/Qumran`
+
 ## Mishnah, Zohar and Chasidut
 
 - [[Pirkei Avot]]

@@ -28,7 +28,7 @@ Text: [[NRSVue Matthew 07|NRSVue]] · [[Matthew 07|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 07#^7-7|7]]:** *Knock, and the door will be opened*, see [[Matthew 21#^21-22|21.22]]; [[John 15#^15-7|Jn 15.7]]; [[John 16#^16-23|16.23–24]]. Vigilant prayer is the pathway to God’s rewards ([[II Kings 01#^1-10|2 Kings 1.10]],[[II Kings 01#^1-12|12–15]]; [[Isaiah 55#^55-6|Isa 55.6]]; [[Psalms 037#^37-4|Ps 37.4]]; [[Proverbs 08#^8-17|Prov 8.17]]; *b. Bek*. [[Bekhorot 44#44b|44b]]; cf. *b. Meg*. [[Megillah 6#6b|6b]]). ^7-7-2
 
-**[[NRSVue Matthew 07#^7-9|9]]:** [[Luke 11#^11-11|Lk 11.11]] (cf. *Lev. Rab*. 34.14). ^7-9
+**[[NRSVue Matthew 07#^7-9|9]]:** [[Luke 11#^11-11|Lk 11.11]] (cf. *Lev. Rab*. [34.14](https://www.sefaria.org/Vayikra_Rabbah.34.14)). ^7-9
 
 **[[NRSVue Matthew 07#^7-11|11]]:** *How much more*, [[JANT Matthew 06#^6-26|6.26n.]] *Father in heaven*, [[JANT Matthew 05#^5-45|5.45n.]] ^7-11
 

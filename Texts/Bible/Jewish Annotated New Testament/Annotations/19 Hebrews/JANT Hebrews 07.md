@@ -18,7 +18,7 @@ Text: [[NRSVue Hebrews 07|NRSVue]] · [[Hebrews 07|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 07#^7-1|1–2]]:** A paraphrase of the encounter between Abraham and the priest-king Melchizedek ([[Torah 03 - Lech Lecha#^14-17|Gen 14.17–20]]); see [[JANT Hebrews 05#^5-6|5.6n.]] *Salem*, understood as from Heb “peace” (“shalom”), identified with Jerusalem; it may have originally been a name of a Canaanite god, Shalim. Philo also offers an etymology connected to peace (*Leg. all.* 3.15.79). *King of*, Heb “malki-,” from “melek,” “king.” *Righteousness*, from Heb “tzedek.” *Most High God*, often simply “Most High” (Gk “hypsistos,” Heb “el elyon”), an epithet for Israel’s God ([[Torah 53 - Ha'Azinu#^32-8|Deut 32.8]]; Ps 52.7). ^7-1-2
 
-**[[NRSVue Hebrews 07#^7-3|3]]:** *Without father*, except for Gen 14 and [[Psalms 110#^110-4|Ps 110.4]], Scripture says nothing of Melchizedek. In the apocryphal *2 En.* 23.15–41, Melchizedek is miraculously born from his dead mother, is a priest from birth, is Noah’s nephew, and is kept safe from the flood in order to be the priest to Noah’s descendants. *Son of God*, Jesus. *Priest forever*, [[Psalms 110#^110-4|Ps 110.4]] (see [[Hebrews 05#^5-6|Heb 5.6]]). On Melchizedek’s making Abraham the “priest forever” see *b. Ned*. [[Nedarim 32#32b|32b]]; *Lev. Rab*. 25.6. ^7-3
+**[[NRSVue Hebrews 07#^7-3|3]]:** *Without father*, except for Gen 14 and [[Psalms 110#^110-4|Ps 110.4]], Scripture says nothing of Melchizedek. In the apocryphal *2 En.* 23.15–41, Melchizedek is miraculously born from his dead mother, is a priest from birth, is Noah’s nephew, and is kept safe from the flood in order to be the priest to Noah’s descendants. *Son of God*, Jesus. *Priest forever*, [[Psalms 110#^110-4|Ps 110.4]] (see [[Hebrews 05#^5-6|Heb 5.6]]). On Melchizedek’s making Abraham the “priest forever” see *b. Ned*. [[Nedarim 32#32b|32b]]; *Lev. Rab*. [25.6](https://www.sefaria.org/Vayikra_Rabbah.25.6). ^7-3
 
 **[[NRSVue Hebrews 07#^7-4|4]]:** *A tenth of the spoils*, [[Torah 03 - Lech Lecha#^14-20|Gen 14.20]]; [[Torah 07 - Vayetzei#^28-22|28.22]]. ^7-4
 
@@ -48,7 +48,7 @@ Text: [[NRSVue Hebrews 07|NRSVue]] · [[Hebrews 07|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 07#^7-18|18]]:** *Abrogation*, because Jesus is not descended from Aaron or Levi and not appointed according to [[Torah 20 - Tetzaveh#^29-1|Ex 29.1–35]]; Lev 8–9. ^7-18-2
 
-**[[NRSVue Hebrews 07#^7-19|19]]:** *The Law made nothing perfect*, although Hebrews sees the Torah as given by God, it cannot be *perfect*, because it is a human institution that exists in the material realm. Although the Tanakh rarely uses language of perfection for Torah, Ps 119 idealizes Torah as God-like. Jewish mystical traditions describe the Torah as the preexistent blueprint for creation; *Gen. Rab.* 1.1; *Zohar “*Terumah” 61. ^7-19
+**[[NRSVue Hebrews 07#^7-19|19]]:** *The Law made nothing perfect*, although Hebrews sees the Torah as given by God, it cannot be *perfect*, because it is a human institution that exists in the material realm. Although the Tanakh rarely uses language of perfection for Torah, Ps 119 idealizes Torah as God-like. Jewish mystical traditions describe the Torah as the preexistent blueprint for creation; *Gen. Rab.* [1.1](https://www.sefaria.org/Bereshit_Rabbah.1.1); *Zohar “*Terumah” 61. ^7-19
 
 **[[NRSVue Hebrews 07#^7-20|20–21]]:** [[Psalms 110#^110-4|Ps 110.4]]. For the divine promise as *oath* see [[Hebrews 06#^6-17|Heb 6.17–18]]. ^7-20
 

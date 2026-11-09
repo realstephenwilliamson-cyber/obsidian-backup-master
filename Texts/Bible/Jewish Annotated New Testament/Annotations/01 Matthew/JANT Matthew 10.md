@@ -41,7 +41,7 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-7|7]]:** *Kingdom of heaven has come near*, see [[JANT Matthew 03#^3-2|3.2n.]] ^10-7
 
-**[[NRSVue Matthew 10#^10-8|8]]:** *Raise the dead*, see *Lev. Rab.* 10.4, where Yehuda ha-Nasi (Rabbi Judah the Prince) is also said to be able to raise the dead. ^10-8
+**[[NRSVue Matthew 10#^10-8|8]]:** *Raise the dead*, see *Lev. Rab.* [10.4](https://www.sefaria.org/Vayikra_Rabbah.10.4), where Yehuda ha-Nasi (Rabbi Judah the Prince) is also said to be able to raise the dead. ^10-8
 
 **[[NRSVue Matthew 10#^10-9|9]]:** *Take no gold, or silver, or copper*, God provides for those who study and/or teach the Torah (in *b. Bek*. [[Bekhorot 29#29a|29a]] the rabbis note that one should teach the Torah without expectation of payment; see also *Tanh. Ex.* 29). ^10-9
 
@@ -53,7 +53,7 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 10#^10-16|Text]], p. 30* · ([[Mark 13#^13-9|Mk 13.9–13]],[[Mark 13#^13-22|22]]; [[Luke 12#^12-11|Lk 12.11–12]]; [[Luke 21#^21-12|21.12–19]]; [[John 16#^16-2|Jn 16.2]]; [[John 15#^15-18|15.18–20]]). ^10-16
 
-**[[NRSVue Matthew 10#^10-16|16]]:** *Wise as serpents*, see *Song Rab.* 2.30 (God instructs Israel to be “cunning as serpents” when dealing with other nations). ^10-16-2
+**[[NRSVue Matthew 10#^10-16|16]]:** *Wise as serpents*, see *Song Rab.* [2.30](https://www.sefaria.org/Shir_HaShirim_Rabbah.2) (God instructs Israel to be “cunning as serpents” when dealing with other nations). ^10-16-2
 
 **[[NRSVue Matthew 10#^10-17|17]]:** *Flog*, see *m. Makk.* 3.12 (floggings were allowed, according to the rabbis, and carried out by a government official). ^10-17
 
@@ -75,7 +75,7 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-28|28]]:** *Fear him*, see [[Hebrews 10#^10-31|Heb 10.31]]. *Hell,* lit, “Gehenna”; see [[JANT Matthew 05#^5-22|5.22n.]] ^10-28
 
-**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see [[JANT Matthew 06#^6-26|6.26n.]]; [[Matthew 10#^10-30|10.30–32]]); *b. B. Metz.* [[Bava Metzia 85#85a|85a]] states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. 33.18; see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
+**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see [[JANT Matthew 06#^6-26|6.26n.]]; [[Matthew 10#^10-30|10.30–32]]); *b. B. Metz.* [[Bava Metzia 85#85a|85a]] states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. [33.18](https://www.sefaria.org/Bereshit_Rabbah.33.18); see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
 
 **[[NRSVue Matthew 10#^10-33|33]]:** *Whoever denies me*, a warning to be faithful despite persecution. ^10-33
 

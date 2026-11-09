@@ -22,7 +22,7 @@ Text: [[NRSVue Luke 16|NRSVue]] · [[Luke 16|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 16#^16-8|8]]:** *His master* (Gk “kyrios,” “lord,” with no possessive), scholars disagree as to whether this “master” is the rich man, or the “lord” (i.e., here, Jesus; see [[JANT Luke 01#^1-17|1.17n.]]). *Commended*, the rich man can do little else: the steward has created for him the reputation of *with* c Other ancient authorities add *Treat me like one of your hired servants* generosity, which he would not want to counter. However, the parable defies any fully satisfactory explanation. *Children of light*, see [[John 12#^12-36|Jn 12.36]]; [[Ephesians 05#^5-8|Eph 5.8]]; [[1 Thessalonians 05#^5-5|1 Thess 5.5]]; 1QM. ^16-8
 
-**[[NRSVue Luke 16#^16-9|9]]:** *Wealth*, lit., “mammon,” Gk transliteration of a Semitic word for money (1QS 6.2; CD 14.20; *m. Avot* [[Pirkei Avot 02#^2-12|2.12]] \[“R. Yose says, ‘Let your fellow’s money {Heb “mammon”} be as precious to you as your own’ ”\]; *Tg. Onq.* on [[Torah 09 - Vayeshev#^37-26|Gen 37.26]]; [[Torah 17 - Yitro#^18-2|Ex 18.2]]). ^16-9
+**[[NRSVue Luke 16#^16-9|9]]:** *Wealth*, lit., “mammon,” Gk transliteration of a Semitic word for money (1QS [[DSS 1QS#^6-2|6.2]]; CD [[DSS CD-A#^14-20|14.20]]; *m. Avot* [[Pirkei Avot 02#^2-12|2.12]] \[“R. Yose says, ‘Let your fellow’s money {Heb “mammon”} be as precious to you as your own’ ”\]; *Tg. Onq.* on [[Torah 09 - Vayeshev#^37-26|Gen 37.26]]; [[Torah 17 - Yitro#^18-2|Ex 18.2]]). ^16-9
 
 ### 16.10–13: Fiduciary fidelity
 
@@ -44,7 +44,7 @@ Text: [[NRSVue Luke 16|NRSVue]] · [[Luke 16|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 16#^16-16|16]]:** *Law and the prophets*, the first two parts of the Tanakh (“Torah” and “Neviʾim”). See [[Luke 16#^16-29|16.29]]; [[Luke 24#^24-27|24.27]],[[Luke 24#^24-44|44]]; Sir (Prologue, 0.1); [[LXX 2 Maccabees 15#^15-9|2 Macc 15.9]]. *Good news*, see [[JANT Luke 01#^1-19|1.19n.]] ^16-16-2
 
-**[[NRSVue Luke 16#^16-17|17]]:** *One stroke* . . . *to be dropped*, Torah remains, although for the church it is interpreted through Jesus. Similar comments on the eternal letters appear in rabbinic Judaism, e.g., *y. Sanh*. 2.6 (see *Ex. Rab*. 6.1; *Lev. Rab*. 19.2) recount that when Solomon annulled the smallest letter, *yod*, in attempting to thwart the commandment “the king must not acquire many wives” \[[[Torah 48 - Shoftim#^17-17|Deut 17.17]]\]), and the letter complained, God replied, “Solomon and a thousand like him will disappear but the smallest speck of a tail of you will never be annulled.” ^16-17
+**[[NRSVue Luke 16#^16-17|17]]:** *One stroke* . . . *to be dropped*, Torah remains, although for the church it is interpreted through Jesus. Similar comments on the eternal letters appear in rabbinic Judaism, e.g., *y. Sanh*. 2.6 (see *Ex. Rab*. 6.1; *Lev. Rab*. [19.2](https://www.sefaria.org/Vayikra_Rabbah.19.2)) recount that when Solomon annulled the smallest letter, *yod*, in attempting to thwart the commandment “the king must not acquire many wives” \[[[Torah 48 - Shoftim#^17-17|Deut 17.17]]\]), and the letter complained, God replied, “Solomon and a thousand like him will disappear but the smallest speck of a tail of you will never be annulled.” ^16-17
 
 ### 16.18: Forbidding remarriage after divorce
 

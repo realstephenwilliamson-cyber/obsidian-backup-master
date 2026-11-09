@@ -58,7 +58,7 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 12#^12-30|30]]:** *Is against me*, a dualistic view of humanity, found, e.g., in the Dead Sea Scrolls. ^12-30
 
-**[[NRSVue Matthew 12#^12-31|31]]:** [[JANT Matthew 09#^9-3|9.3n.]] *Blasphemy against the Spirit*, certain sins against God are not forgiven (see [[Torah 17 - Yitro#^20-7|Ex 20.7]]; [[Torah 37 - Sh'lach#^15-30|Num 15.30–31]]; *Jub*. 15.34; 1QS 7.15–17,22–23; CD 10.3); *Sifre Deut*. 328 states that God ex-acts “immediate punishment” for those who desecrate the divine name and thus blaspheme. ^12-31
+**[[NRSVue Matthew 12#^12-31|31]]:** [[JANT Matthew 09#^9-3|9.3n.]] *Blasphemy against the Spirit*, certain sins against God are not forgiven (see [[Torah 17 - Yitro#^20-7|Ex 20.7]]; [[Torah 37 - Sh'lach#^15-30|Num 15.30–31]]; *Jub*. 15.34; 1QS [[DSS 1QS#^7-15|7.15–17]],[[DSS 1QS#^7-22|22–23]]; CD [[DSS CD-A#^10-3|10.3]]); *Sifre Deut*. 328 states that God ex-acts “immediate punishment” for those who desecrate the divine name and thus blaspheme. ^12-31
 
 **[[NRSVue Matthew 12#^12-32|32]]:** See [[JANT Matthew 08#^8-20|8.20n.]]; [[JANT Matthew 10#^10-23|10.23n.]] *Age to come*, Heb “Olam ha-ba’,” the messianic age (see *m. Sanh*. 10.1; *b. Sanh*. [[Sanhedrin 90#90a|90a]]; *b. Shabb*. [[Shabbat 127#127a|127a]]; *b. Men*. [[Menachot 44#44a|44a]]; *b. Pesah*. [[Pesachim 50#50a|50a]]; *b. Qidd*. [[Kiddushin 39#39b|39b]], etc.). ^12-32
 

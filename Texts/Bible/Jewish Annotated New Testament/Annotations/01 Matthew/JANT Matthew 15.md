@@ -56,7 +56,7 @@ Text: [[NRSVue Matthew 15|NRSVue]] · [[Matthew 15|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 15#^15-29|Text]], p. 40* · ([[Mark 07#^7-31|Mk 7.31–37]]). ^15-29
 
-**[[NRSVue Matthew 15#^15-31|31]]:** *God of Israel*, see [[I Kings 01#^1-48|1 Kings 1.48]]; [[Psalms 041#^41-14|Ps 41.13]]; [[Psalms 068#^68-36|68.35]]; [[Psalms 069#^69-7|69.6]]; [[I Chronicles 16#^16-36|1 Chr 16.36]]; 1QM 13.2; 14.4; *t. Hag.* 2.1. Here the phrase might indicate a Gentile crowd (see [[JANT Matthew 15#^15-39|15.39n.]]). ^15-31
+**[[NRSVue Matthew 15#^15-31|31]]:** *God of Israel*, see [[I Kings 01#^1-48|1 Kings 1.48]]; [[Psalms 041#^41-14|Ps 41.13]]; [[Psalms 068#^68-36|68.35]]; [[Psalms 069#^69-7|69.6]]; [[I Chronicles 16#^16-36|1 Chr 16.36]]; 1QM [[DSS 1QM#^13-2|13.2]]; [[DSS 1QM#^14-4|14.4]]; *t. Hag.* 2.1. Here the phrase might indicate a Gentile crowd (see [[JANT Matthew 15#^15-39|15.39n.]]). ^15-31
 
 ### 15.32–39: Feeding (more than) four thousand
 

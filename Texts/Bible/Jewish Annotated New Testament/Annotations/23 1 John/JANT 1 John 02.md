@@ -27,7 +27,7 @@ Text: [[NRSVue 1 John 02|NRSVue]] · [[1 John 02|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue 1 John 02#^2-7|7]]:** *New commandment*, see [[John 13#^13-34|Jn 13.34]]; [[2 John 01#^1-5|2 Jn 5]]; and see Introduction. ^2-7
 
-**[[NRSVue 1 John 02#^2-9|9]]:** Dualistic formulations and demonization of opponents reflective of inter-communal strife are also found in the Dead Sea Scrolls, e.g., walking in “light” versus walking in “darkness” (1QS 3.20–21) and the “sons of righteousness” versus the “sons of deceit” (1QS 3.20–21). ^2-9
+**[[NRSVue 1 John 02#^2-9|9]]:** Dualistic formulations and demonization of opponents reflective of inter-communal strife are also found in the Dead Sea Scrolls, e.g., walking in “light” versus walking in “darkness” (1QS [[DSS 1QS#^3-20|3.20–21]]) and the “sons of righteousness” versus the “sons of deceit” (1QS [[DSS 1QS#^3-20|3.20–21]]). ^2-9
 
 **[[NRSVue 1 John 02#^2-11|11]]:** *Believer*, lit., “brother” (see translators’ note *e*). ^2-11
 
@@ -37,7 +37,7 @@ Text: [[NRSVue 1 John 02|NRSVue]] · [[1 John 02|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue 1 John 02#^2-15|15]]:** Johannine literature often uses *world* (Gk “kosmos”) to represent the sphere of opposition to God (see, e.g., [[John 15#^15-18|Jn 15.18–19]], but note [[John 03#^3-16|Jn 3.16]]: “God so loved the world”). ^2-15
 
-**[[NRSVue 1 John 02#^2-18|18]]:** *Antichrist*, this term is found in the NT only in John’s two letters (1 Jn 1.18,22; 4.3 and [[2 John 01#^1-7|2 Jn 7]]). The Gk noun “christos” means “anointed one” or “messiah”; the prefix “anti-” means “against” or “in place of.” The singular form of the term in 1 John refers to the end-time adversary of God and Christ. Antecedent ideas of an end-time person, or personification, of evil appear in, e.g., [[Daniel 07#^7-19|Dan 7.19–27]]; [[Daniel 08#^8-9|8.9–11]],[[Daniel 08#^8-23|23–25]]; [[Daniel 09#^9-27|9.27]]; CD 8.2; 1QM 17.5–8; 11QMelch 2.12–13; and *Sib. Or*. 3.75–92,611–15. See “Antichrist,” p. 520. *Last hour*, God’s intervention into human history and defeat of evil are expected at any time. ^2-18
+**[[NRSVue 1 John 02#^2-18|18]]:** *Antichrist*, this term is found in the NT only in John’s two letters (1 Jn 1.18,22; 4.3 and [[2 John 01#^1-7|2 Jn 7]]). The Gk noun “christos” means “anointed one” or “messiah”; the prefix “anti-” means “against” or “in place of.” The singular form of the term in 1 John refers to the end-time adversary of God and Christ. Antecedent ideas of an end-time person, or personification, of evil appear in, e.g., [[Daniel 07#^7-19|Dan 7.19–27]]; [[Daniel 08#^8-9|8.9–11]],[[Daniel 08#^8-23|23–25]]; [[Daniel 09#^9-27|9.27]]; CD [[DSS CD-A#^8-2|8.2]]; 1QM [[DSS 1QM#^17-5|17.5–8]]; 11QMelch [[DSS 11Q13#^2-12|2.12–13]]; and *Sib. Or*. 3.75–92,611–15. See “Antichrist,” p. 520. *Last hour*, God’s intervention into human history and defeat of evil are expected at any time. ^2-18
 
 **[[NRSVue 1 John 02#^2-19|19]]:** *They went out from us*, the recent schism. These former members are now adversaries identified as antichrists (2.18–19). ^2-19
 

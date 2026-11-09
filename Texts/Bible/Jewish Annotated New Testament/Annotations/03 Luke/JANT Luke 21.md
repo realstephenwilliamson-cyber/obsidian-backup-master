@@ -20,7 +20,7 @@ Text: [[NRSVue Luke 21|NRSVue]] · [[Luke 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 21#^21-2|2]]:** *Copper coins* (Gk “lepton”), see [[JANT Luke 12#^12-59|12.59n.]] ^21-2
 
-**[[NRSVue Luke 21#^21-4|4]]:** *All she had*, Jesus praises the women’s charity (see [[JANT Luke 06#^6-30|6.30n.]]; *Lev. Rab*. 107a offers the illustrative story of a priest who rejects a woman’s offering of a handful of meal, and is rebuked by God). Jesus does not, contrary to some commentaries, condemn the Temple for exploitation. Had Jesus believed the woman was exploited, he could have advised her to keep her coins. ^21-4
+**[[NRSVue Luke 21#^21-4|4]]:** *All she had*, Jesus praises the women’s charity (see [[JANT Luke 06#^6-30|6.30n.]]; *Lev. Rab*. [107](https://www.sefaria.org/Vayikra_Rabbah.107)a offers the illustrative story of a priest who rejects a woman’s offering of a handful of meal, and is rebuked by God). Jesus does not, contrary to some commentaries, condemn the Temple for exploitation. Had Jesus believed the woman was exploited, he could have advised her to keep her coins. ^21-4
 
 ### 21.5–6: Predicting the Temple’s destruction
 

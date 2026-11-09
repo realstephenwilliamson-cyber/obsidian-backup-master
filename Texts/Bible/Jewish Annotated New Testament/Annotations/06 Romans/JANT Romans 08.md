@@ -52,11 +52,11 @@ Text: [[NRSVue Romans 08|NRSVue]] · [[Romans 08|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 08#^8-28|28]]:** *For good*, see [[LXX Sirach 39#^39-25|Sir 39.25–27]]. *Love God*, see [[Torah 17 - Yitro#^20-6|Ex 20.6]]; [[Torah 45 - Vaetchanan#^5-10|Deut 5.10]]; [[Torah 45 - Vaetchanan#^6-5|6.5]]; [[Torah 45 - Vaetchanan#^7-9|7.9]]; [[Torah 46 - Eikev#^10-12|10.12]]; [[Psalms 031#^31-24|Ps 31.24]]; 97.10. For similar statements, see *Pss. Sol.* 4.25; Plato, *Resp.* 10.12 (612e–613a). ^8-28
 
-**[[NRSVue Romans 08#^8-9|9]]:** Cf. 1QS 3.15–16; 11.10–11,17–20; 1QH 1.7–8; CD 2.8. ^8-9
+**[[NRSVue Romans 08#^8-9|9]]:** Cf. 1QS [[DSS 1QS#^3-15|3.15–16]]; [[DSS 1QS#^11-10|11.10–11]],[[DSS 1QS#^11-17|17–20]]; 1QH 1.7–8; CD [[DSS CD-A#^2-8|2.8]]. ^8-9
 
 **[[NRSVue Romans 08#^8-29|29]]:** *Foreknew*, God’s sovereignty over the future, and not a comment on free will; see [[JANT Romans 09#^9-10|9.10–13n.]] *Within a large family*, lit., “among many brothers (and sisters)” (see translators’ note *d*). Jesus Christ is the firstborn of those raised from the dead (for non-Pauline expression of this idea, see [[Colossians 01#^1-15|Col 1.15]],[[Colossians 01#^1-18|18]]). ^8-29
 
-**[[NRSVue Romans 08#^8-30|30]]:** Cf. 1QM 3.2; 4.10–11. *Justified*, see [[Romans 02#^2-13|2.13]]; *glorified*, presented in a redeemed/resurrected body. Paul speaks as though these things had already been accomplished. ^8-30
+**[[NRSVue Romans 08#^8-30|30]]:** Cf. 1QM [[DSS 1QM#^3-2|3.2]]; [[DSS 1QM#^4-10|4.10–11]]. *Justified*, see [[Romans 02#^2-13|2.13]]; *glorified*, presented in a redeemed/resurrected body. Paul speaks as though these things had already been accomplished. ^8-30
 
 **[[NRSVue Romans 08#^8-31|31]]:** See Ps 118, esp. vv 5–9. Diatribe style through v 39, often with an implied negative answer. ^8-31
 

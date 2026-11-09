@@ -16,15 +16,15 @@ Text: [[NRSVue Matthew 28|NRSVue]] · [[Matthew 28|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 28#^28-1|Text]], p. 66* · ([[Mark 16#^16-1|Mk 16.1–8]]; [[Luke 24#^24-1|Lk 24.1–11]]; [[John 20#^20-1|Jn 20.1–18]]). ^28-1
 
-**[[NRSVue Matthew 28#^28-1|1]]:** *First day of the week*, Sunday, the third day after Jesus’ death. Some Jews believed the soul departed the body after three days (*m*. *Yebam*. 16.3; *y. Moʾed Qat*. 8.5; *b. Sanh.* [[Sanhedrin 90#90b|90b]]–91a; *b*. *Shabb*. 151b; *Gen. Rab*. 100; *Sem*. 8.1). *Went to see the tomb*, women as well as men visited and/or attended tombs. ^28-1-2
+**[[NRSVue Matthew 28#^28-1|1]]:** *First day of the week*, Sunday, the third day after Jesus’ death. Some Jews believed the soul departed the body after three days (*m*. *Yebam*. 16.3; *y. Moʾed Qat*. 8.5; *b. Sanh.* [[Sanhedrin 90#90b|90b]]–91a; *b*. *Shabb*. 151b; *Gen. Rab*. [100](https://www.sefaria.org/Bereshit_Rabbah.100); *Sem*. 8.1). *Went to see the tomb*, women as well as men visited and/or attended tombs. ^28-1-2
 
 **[[NRSVue Matthew 28#^28-2|2]]:** See *Acts Pil*. 13. *Great earthquake*, see [[JANT Matthew 08#^8-24|8.24n.]]; [[JANT Matthew 27#^27-51|27.51–53n.]] ^28-2
 
-**[[NRSVue Matthew 28#^28-3|3]]:** *Clothing white as snow*, see [[Daniel 07#^7-9|Dan 7.9]]; [[Daniel 10#^10-6|10.6]]; see also [[Revelation 01#^1-14|Rev 1.14]]; [[Revelation 02#^2-18|2.18]]; on “light,” see 1QS 3.20; 1QM 13.9–10. ^28-3
+**[[NRSVue Matthew 28#^28-3|3]]:** *Clothing white as snow*, see [[Daniel 07#^7-9|Dan 7.9]]; [[Daniel 10#^10-6|10.6]]; see also [[Revelation 01#^1-14|Rev 1.14]]; [[Revelation 02#^2-18|2.18]]; on “light,” see 1QS [[DSS 1QS#^3-20|3.20]]; 1QM [[DSS 1QM#^13-9|13.9–10]]. ^28-3
 
 **[[NRSVue Matthew 28#^28-4|4]]:** *Became like dead men*, the guards are more frightened than the women. ^28-4
 
-**[[NRSVue Matthew 28#^28-6|6]]:** *He is not here*, many Jews believed in bodily resurrection, which would occur at the dawn of the messianic age ([[Daniel 12#^12-2|Dan 12.2]]; Josephus, *J.W.* 2.158,163; 3.374; *Ant*. 10.277–80; 16.397–98; 18.14; *Pss. Sol*. 3.12–13; 5.12–13; *1 En*. 22.13; *b. Sanh*. 90). ^28-6
+**[[NRSVue Matthew 28#^28-6|6]]:** *He is not here*, many Jews believed in bodily resurrection, which would occur at the dawn of the messianic age ([[Daniel 12#^12-2|Dan 12.2]]; Josephus, *J.W.* 2.158,163; 3.374; *Ant*. 10.277–80; 16.397–98; 18.14; *Pss. Sol*. 3.12–13; 5.12–13; *1 En*. [[1 Enoch 022#^22-13|22.13]]; *b. Sanh*. 90). ^28-6
 
 **[[NRSVue Matthew 28#^28-7|7]]:** *Tell his disciples*, the women are commissioned as evangelists. *To Galilee*, 4.12; [[JANT Matthew 25#^25-32|25.32n.]] ^28-7
 

@@ -32,13 +32,13 @@ Text: [[NRSVue Matthew 06|NRSVue]] · [[Matthew 06|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 06#^6-9|Text]], p. 23* · **“Lord’s Prayer”** ([[Luke 11#^11-2|Lk 11.2–4]]). ^6-9
 
-**[[NRSVue Matthew 06#^6-9|9]]:** *Father in heaven*, see [[JANT Matthew 05#^5-45|5.45n.]] *Hallowed be your name*, see [[Psalms 105#^105-3|Ps 105.3]], “Glory in his holy name,” the Aramaic “Kaddish” prayer (from Heb “qadosh,” “holy,” e.g., [[Isaiah 06#^6-3|Isa 6.3]], source of the prayer), which became more common during the Talmudic era (*b.* Yebam. 79a; *b*. *Sot.* 49a; *Sifre Deut*. 32.3; *Midr. Ps*. 25.13), begins, “May his great name grow exalted and glorified” (see [[Torah 31 - Emor#^22-32|Lev 22.32]]; Isa 23.23; [[Ezekiel 36#^36-23|Ezek 36.23]]; [[Psalms 113#^113-2|Ps 113.2]]; cf. [[Torah 53 - Ha'Azinu#^32-3|Deut 32.3]]; Jn 17; *Did*. 8.2; 9.2–4; 1QM 11.15). ^6-9-2
+**[[NRSVue Matthew 06#^6-9|9]]:** *Father in heaven*, see [[JANT Matthew 05#^5-45|5.45n.]] *Hallowed be your name*, see [[Psalms 105#^105-3|Ps 105.3]], “Glory in his holy name,” the Aramaic “Kaddish” prayer (from Heb “qadosh,” “holy,” e.g., [[Isaiah 06#^6-3|Isa 6.3]], source of the prayer), which became more common during the Talmudic era (*b.* Yebam. 79a; *b*. *Sot.* 49a; *Sifre Deut*. 32.3; *Midr. Ps*. 25.13), begins, “May his great name grow exalted and glorified” (see [[Torah 31 - Emor#^22-32|Lev 22.32]]; Isa 23.23; [[Ezekiel 36#^36-23|Ezek 36.23]]; [[Psalms 113#^113-2|Ps 113.2]]; cf. [[Torah 53 - Ha'Azinu#^32-3|Deut 32.3]]; Jn 17; *Did*. 8.2; 9.2–4; 1QM [[DSS 1QM#^11-15|11.15]]). ^6-9-2
 
 **[[NRSVue Matthew 06#^6-10|10]]:** *Your will be done*, the rabbis emphasize obedience to divine will (*m. Avot* [[Pirkei Avot 01#^1-11|1.11]]; *t. Ber*. 3.7; *b. Ber*. [[Berakhot 29#29b|29b]]; *b. Meg*. [[Megillah 29#29b|29b]]; *b. Yoma* [[Yoma 53#53b|53b]]; 86b). *As it is in heaven*, angels have no independent power (e.g., Job 1–2). ^6-10
 
 **[[NRSVue Matthew 06#^6-11|11]]:** *Daily bread*, likely reflecting an unknown Aramaic original, possibly “leḥma maḥar,” meaning “bread for tomorrow” or the eschatological banquet. ^6-11
 
-**[[NRSVue Matthew 06#^6-12|12]]:** *Debts,* sins were considered “debts” ([[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. 85.2; 92.9; *Ex. Rab*. 25.6; 31.1; *Pesiq. Rab.* 11.23; 51.8). Cf. [[Luke 11#^11-4|Lk 11.4]], which uses “sin.” See [[JANT Matthew 18#^18-23-2|18.23–35n.]] ^6-12
+**[[NRSVue Matthew 06#^6-12|12]]:** *Debts,* sins were considered “debts” ([[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. [85.2](https://www.sefaria.org/Bereshit_Rabbah.85.2); [92.9](https://www.sefaria.org/Bereshit_Rabbah.92.9); *Ex. Rab*. 25.6; 31.1; *Pesiq. Rab.* 11.23; 51.8). Cf. [[Luke 11#^11-4|Lk 11.4]], which uses “sin.” See [[JANT Matthew 18#^18-23-2|18.23–35n.]] ^6-12
 
 **[[NRSVue Matthew 06#^6-13|13]]:** *Time of trial*, or testing, see [[2 Thessalonians 03#^3-3|2 Thess 3.3]]; [[James 01#^1-13|Jas 1.13]]. *Evil one*, Satan. *B. Ber.* 60b offers examples of similar prayers. ^6-13
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Matthew 06|NRSVue]] · [[Matthew 06|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 06#^6-19|Text]], p. 23* · ([[Mark 04#^4-21|Mk 4.21–23]]; [[Luke 12#^12-33|Lk 12.33–34]]; [[Luke 11#^11-33|11.33–34]]; [[Luke 16#^16-13|16.13]]; [[Luke 12#^12-22|12.22–31]]). ^6-19
 
-**[[NRSVue Matthew 06#^6-19|19–20]]:** *Treasures on earth*, some Jewish traditions decry obsession with material wealth ([[Proverbs 11#^11-4|Prov 11.4]]; [[LXX Sirach 31#^31-8|Sir 31.8–11]]; Josephus, *J.W.* 2.50; *y. Peʾah* 1.1; *1 En*. 63.10; 94.8; 96.4; 97.8; 1QS 10.18–19; 11.2; CD 4.17; 8.7). *Treasures in heaven* ([[Luke 12#^12-19|Lk 12.19–21]]), form, *For the kingdom and the power and the glory are yours forever. Amen.* d Other ancient authorities add *openly* e Gk *eating* f Gk *mammon* g Other ancient authorities lack *or what you will drink* h Or *add one cubit to your height* eschatological reward accumulated through right practice (see *2 Bar*. 24.1; *T. Job* 33; *b. [[Bava Batra 11#11a|B. Bat. 11a]]*). ^6-19-2
+**[[NRSVue Matthew 06#^6-19|19–20]]:** *Treasures on earth*, some Jewish traditions decry obsession with material wealth ([[Proverbs 11#^11-4|Prov 11.4]]; [[LXX Sirach 31#^31-8|Sir 31.8–11]]; Josephus, *J.W.* 2.50; *y. Peʾah* 1.1; *1 En*. [[1 Enoch 063#^63-10|63.10]]; [[1 Enoch 094#^94-8|94.8]]; [[1 Enoch 096#^96-4|96.4]]; [[1 Enoch 097#^97-8|97.8]]; 1QS [[DSS 1QS#^10-18|10.18–19]]; [[DSS 1QS#^11-2|11.2]]; CD [[DSS CD-A#^4-17|4.17]]; [[DSS CD-A#^8-7|8.7]]). *Treasures in heaven* ([[Luke 12#^12-19|Lk 12.19–21]]), form, *For the kingdom and the power and the glory are yours forever. Amen.* d Other ancient authorities add *openly* e Gk *eating* f Gk *mammon* g Other ancient authorities lack *or what you will drink* h Or *add one cubit to your height* eschatological reward accumulated through right practice (see *2 Bar*. 24.1; *T. Job* 33; *b. [[Bava Batra 11#11a|B. Bat. 11a]]*). ^6-19-2
 
 **[[NRSVue Matthew 06#^6-21|21]]:** See [[JANT Matthew 05#^5-8|5.8n.]] ^6-21
 
@@ -62,7 +62,7 @@ Text: [[NRSVue Matthew 06|NRSVue]] · [[Matthew 06|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 06#^6-25|25]]:** [[Luke 10#^10-41|Lk 10.41]]; [[Luke 12#^12-11|12.11]]; [[Philippians 04#^4-6|Phil 4.6]]. The promise recalls [[Torah 50 - Ki Tavo#^28-1|Deut 28.1–14]]. ^6-25
 
-**[[NRSVue Matthew 06#^6-26|26]]:** *Birds . . . Are you not of more value? B. Qidd.* 82b makes a similar argument, stating that if animals (were created to) serve humankind without trouble, then how much more must humans serve God without trouble. For “qal vahomer” (“light and heavy”) rabbinic arguments, see *m. Qidd*. 4.14; *b. Pesah*. [[Pesachim 66#66a|66a]]; *b. Sanh*. [[Sanhedrin 17#17a|17a]]; *Gen. Rab*. 92.7. See also [[Matthew 10#^10-24|10.24]]; [[Matthew 12#^12-10|12.10–12]]; 20.26–28. ^6-26
+**[[NRSVue Matthew 06#^6-26|26]]:** *Birds . . . Are you not of more value? B. Qidd.* 82b makes a similar argument, stating that if animals (were created to) serve humankind without trouble, then how much more must humans serve God without trouble. For “qal vahomer” (“light and heavy”) rabbinic arguments, see *m. Qidd*. 4.14; *b. Pesah*. [[Pesachim 66#66a|66a]]; *b. Sanh*. [[Sanhedrin 17#17a|17a]]; *Gen. Rab*. [92.7](https://www.sefaria.org/Bereshit_Rabbah.92.7). See also [[Matthew 10#^10-24|10.24]]; [[Matthew 12#^12-10|12.10–12]]; 20.26–28. ^6-26
 
 **[[NRSVue Matthew 06#^6-29|29]]:** *Solomon*, David’s son (1.6–7). ^6-29
 

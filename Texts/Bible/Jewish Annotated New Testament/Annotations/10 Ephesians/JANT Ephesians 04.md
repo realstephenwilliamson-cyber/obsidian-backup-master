@@ -50,11 +50,11 @@ Text: [[NRSVue Ephesians 04|NRSVue]] · [[Ephesians 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 04#^4-26|26]]:** *Be angry but do not sin*, [[Psalms 004#^4-5|Ps 4.4]]\[LXX\]; cf. [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]**–**18, where loving one’s neighbor requires reproving. *Do not let the sun go down*, similarly at 1QS V, 26. ^4-26
 
-**[[NRSVue Ephesians 04#^4-27|27]]:** *Devil*, “satan,” as per the Septuagint’s translation; see [[Job 01#^1-6|Job 1.6]]**–**7 and elsewhere. Postbiblical Jewish writings are replete with references to Satan (known by various names) and other rebellious or evil divine beings; see, e.g., *1 En*. 6.7 and 8.1**–**3; *Jub*. 17.16; *t. Avod. Zar.* 1.18. ^4-27
+**[[NRSVue Ephesians 04#^4-27|27]]:** *Devil*, “satan,” as per the Septuagint’s translation; see [[Job 01#^1-6|Job 1.6]]**–**7 and elsewhere. Postbiblical Jewish writings are replete with references to Satan (known by various names) and other rebellious or evil divine beings; see, e.g., *1 En*. [[1 Enoch 006#^6-7|6.7]] and 8.1**–**3; *Jub*. 17.16; *t. Avod. Zar.* 1.18. ^4-27
 
 **[[NRSVue Ephesians 04#^4-28|28]]:** S*omething to share with the needy*, and not merely to support themselves or acquire riches. See [[James 02#^2-14|Jas 2.14]]**–**17, where James argues that works are crucial for salvation and the needy must be supported. The rabbis, too, insisted that a person should have honest labor and support the poor; see, e.g*. , m. Avot* [[Pirkei Avot 01#^1-2|1.2]] and 3.17. ^4-28
 
-**[[NRSVue Ephesians 04#^4-29|29–31]]:** *Evil talk . . . wrangling and slander*, 1QS 7.2**–**9 condemns a similar list; the rabbis condemn what they call “leshon ha-raʿ,” “the tongue of evil”; see, e.g., *Lev. Rab*. 16 and *b. Arak*. [[Arakhin 15#15b|15b]]. ^4-29
+**[[NRSVue Ephesians 04#^4-29|29–31]]:** *Evil talk . . . wrangling and slander*, 1QS [[DSS 1QS#^7-2|7.2]]**–**9 condemns a similar list; the rabbis condemn what they call “leshon ha-raʿ,” “the tongue of evil”; see, e.g., *Lev. Rab*. [16](https://www.sefaria.org/Vayikra_Rabbah.16) and *b. Arak*. [[Arakhin 15#15b|15b]]. ^4-29
 
 **[[NRSVue Ephesians 04#^4-30|30]]:** *Seal*, see [[JANT Ephesians 01#^1-13|1.13n.]] ^4-30
 

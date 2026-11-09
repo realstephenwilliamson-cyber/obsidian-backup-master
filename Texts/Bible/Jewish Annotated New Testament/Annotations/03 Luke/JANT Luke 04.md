@@ -61,7 +61,7 @@ Text: [[NRSVue Luke 04|NRSVue]] · [[Luke 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 04#^4-22|22]]:** *Joseph’s son*, see [[Luke 02#^2-33|2.33]],[[Luke 02#^2-48|48]]; 3.23. ^4-22
 
-**[[NRSVue Luke 04#^4-23|23]]:** *Doctor, cure yourself*, a similar proverb appears in *Gen. Rab*. 23.4. *You did at Capernaum*, Luke does not describe these events; see 4.31–41. *Capernaum* (from “Kefar- Nahum,” Nahum’s village), fishing center on the Sea of Galilee. ^4-23
+**[[NRSVue Luke 04#^4-23|23]]:** *Doctor, cure yourself*, a similar proverb appears in *Gen. Rab*. [23.4](https://www.sefaria.org/Bereshit_Rabbah.23.4). *You did at Capernaum*, Luke does not describe these events; see 4.31–41. *Capernaum* (from “Kefar- Nahum,” Nahum’s village), fishing center on the Sea of Galilee. ^4-23
 
 **[[NRSVue Luke 04#^4-24|24]]:** *Truly* (Gk/Heb “amen,” lit., “so be it”; the only Heb word Luke uses), a term usually found at the end of prayers, but Jesus’ usage is not unique (e.g., [[Jeremiah 28#^28-6|Jer 28.6]]). ^4-24
 
@@ -83,7 +83,7 @@ Text: [[NRSVue Luke 04|NRSVue]] · [[Luke 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 04#^4-32|32]]:** *With authority* (also v 36), perhaps indicating teaching without citing tradition (see e.g., *m. Avot* [[Pirkei Avot 01#^1-1|1.1]]); see [[Matthew 07#^7-29|Mt 7.29]]. ^4-32
 
-**[[NRSVue Luke 04#^4-36|36]]:** *Commands the unclean spirits*, see [[LXX Tobit 03#^3-17|Tob 3.17]]; [[Acts 19#^19-13|Acts 19.13]]; 1QapGen 20.16–29; Josephus (*J.W*. 7.185; *Ant*. 8.45–49), and other sources attest Jewish exorcists. According to [[Zechariah 13#^13-2|Zech 13.2]], the “unclean spirit” is removed in an eschatological context. ^4-36
+**[[NRSVue Luke 04#^4-36|36]]:** *Commands the unclean spirits*, see [[LXX Tobit 03#^3-17|Tob 3.17]]; [[Acts 19#^19-13|Acts 19.13]]; 1QapGen [[DSS 1QapGen#^20-16|20.16–29]]; Josephus (*J.W*. 7.185; *Ant*. 8.45–49), and other sources attest Jewish exorcists. According to [[Zechariah 13#^13-2|Zech 13.2]], the “unclean spirit” is removed in an eschatological context. ^4-36
 
 ### 4.38–39: Simon Peter’s mother-in-law
 

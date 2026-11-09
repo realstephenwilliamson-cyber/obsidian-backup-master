@@ -44,7 +44,7 @@ Text: [[NRSVue Mark 06|NRSVue]] · [[Mark 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 06#^6-34|34]]:** *Sheep without a shepherd*, [[I Kings 22#^22-17|1 Kings 22.17]]. Like Moses, Jesus is called out of his preferred isolation (v 31) by *compassion* for the people (e.g., Ex 3–4) who will abandon him. *Shepherd,* [[Torah 41 - Pinchas#^27-17|Num 27.17]]; [[Isaiah 40#^40-11|Isa 40.11]]. ^6-34
 
-**[[NRSVue Mark 06#^6-41|41]]:** *Taking . . . blessed . . . broke . . . gave*, are especially close to words used in the Last Supper ([[Mark 14#^14-22|Mk 14.22]]–25n.); thus the miraculous feeding foreshadows the Eucharist while also suggesting the banquet prophesied at [[Isaiah 25#^25-6|Isa 25.6]] (cf. 1QM 2.11–22; *1 En.* 10.18–19). ^6-41
+**[[NRSVue Mark 06#^6-41|41]]:** *Taking . . . blessed . . . broke . . . gave*, are especially close to words used in the Last Supper ([[Mark 14#^14-22|Mk 14.22]]–25n.); thus the miraculous feeding foreshadows the Eucharist while also suggesting the banquet prophesied at [[Isaiah 25#^25-6|Isa 25.6]] (cf. 1QM [[DSS 1QM#^2-11|2.11–22]]; *1 En.* [[1 Enoch 010#^10-18|10.18–19]]). ^6-41
 
 **[[NRSVue Mark 06#^6-43|43]]:** *Twelve baskets* suggest the twelve disciples as well as the eschatological gathering of the twelve tribes ([[Luke 22#^22-28|Lk 22.28–30]]). ^6-43
 

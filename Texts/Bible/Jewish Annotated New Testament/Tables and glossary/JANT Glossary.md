@@ -1044,7 +1044,7 @@ not future events but are realized in one’s response to Jesus.
 
 **Targum Neofiti** the most complete copy (450 folios) of *Targum Yerushalmi*.
 
-**Teacher of Righteousness** (Heb *moreh ha-tzedek*) presumed founder of the community at Qumran (see e.g., CD 1.9–11).
+**Teacher of Righteousness** (Heb *moreh ha-tzedek*) presumed founder of the community at Qumran (see e.g., CD [[DSS CD-A#^1-9|1.9–11]]).
 
 **tefillin** small black leather boxes containing biblical passages from [[Torah 15 - Bo#^13-1|Ex 13.1–10]]; [[Torah 15 - Bo#^13-11|13.11–16]]; [[Torah 45 - Vaetchanan#^6-4|Deut 6.4–9]]; [[Torah 46 - Eikev#^11-13|11.13–21]]. Two are worn during weekday morning prayer: one on the head and one on the arm (see e.g., [[Torah 45 - Vaetchanan#^6-8|Deut 6.8]]). Also called “phylacteries.” Many copies were found among the Dead Sea Scrolls.
 

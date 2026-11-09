@@ -52,7 +52,7 @@ Text: [[NRSVue Matthew 08|NRSVue]] · [[Matthew 08|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 08#^8-15|15]]:** *Touched her hand*, typical healing gesture. Jesus violates no ritual law or social rule. *To serve*, Gk “diakonein,” whence the English “deacon,” can connote ministerial service. ^8-15
 
-**[[NRSVue Matthew 08#^8-16|16]]:** 8.28–34. *Demons . . . spirits*, see [[Torah 29 - Achrei Mot#^16-8|Lev 16.8]],[[Torah 29 - Achrei Mot#^16-10|10]],[[Torah 29 - Achrei Mot#^16-26|26]]; [[Isaiah 13#^13-21|Isa 13.21]]; [[Isaiah 34#^34-14|34.14]]; [[LXX Tobit 06#^6-7|Tob 6.7–8]],[[LXX Tobit 06#^6-16|16–17]]; [[LXX Tobit 08#^8-2|8.2–3]]; 1QM 13.11–12; *b. Git*. [[Gittin 70#70a|70a]]; *b. Ber*. [[Berakhot 6#6a|6a]]; Josephus, *Ant*. 8.45–49; *Jub*. 10.10–13. ^8-16
+**[[NRSVue Matthew 08#^8-16|16]]:** 8.28–34. *Demons . . . spirits*, see [[Torah 29 - Achrei Mot#^16-8|Lev 16.8]],[[Torah 29 - Achrei Mot#^16-10|10]],[[Torah 29 - Achrei Mot#^16-26|26]]; [[Isaiah 13#^13-21|Isa 13.21]]; [[Isaiah 34#^34-14|34.14]]; [[LXX Tobit 06#^6-7|Tob 6.7–8]],[[LXX Tobit 06#^6-16|16–17]]; [[LXX Tobit 08#^8-2|8.2–3]]; 1QM [[DSS 1QM#^13-11|13.11–12]]; *b. Git*. [[Gittin 70#70a|70a]]; *b. Ber*. [[Berakhot 6#6a|6a]]; Josephus, *Ant*. 8.45–49; *Jub*. 10.10–13. ^8-16
 
 **[[NRSVue Matthew 08#^8-17|17]]:** [[Isaiah 53#^53-4|Isa 53.4]]. The “suffering servant” motif is linked elsewhere to the redemption from sin (see [[JANT Matthew 05#^5-4|5.4n.]]; [[1 Peter 02#^2-18|1 Pet 2.18–25]]); in *b. Ber*. [[Berakhot 5#5a|5a]] the rabbis seem to indicate that Israel is the suffering servant whom God will redeem, possibly in the messianic era; see also *b. Sanh*. [[Sanhedrin 98#98a|98a]]. ^8-17
 
@@ -76,7 +76,7 @@ Text: [[NRSVue Matthew 08|NRSVue]] · [[Matthew 08|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 08#^8-28|28]]:** *Gadarenes*, the people of Gadara, a town six miles southeast of the Sea of Galilee (see [[Mark 05#^5-1|Mk 5.1]], citing Gerasa; see Josephus, *Life* 9.42). Matthew likely changed the location to fit the story’s details. ^8-28-2
 
-**[[NRSVue Matthew 08#^8-29|29]]:** *Before the time*, judgment day (*1 En.* 16.1; *Jub.* 10.7–10). ^8-29
+**[[NRSVue Matthew 08#^8-29|29]]:** *Before the time*, judgment day (*1 En.* [[1 Enoch 016#^16-1|16.1]]; *Jub.* 10.7–10). ^8-29
 
 **[[NRSVue Matthew 08#^8-31|31]]:** *Swine*, pigs are not kosher ([[Torah 26 - Shmini#^11-7|Lev 11.7]]; [[Torah 47 - Re'eh#^14-8|Deut 14.8]]; [[Isaiah 65#^65-4|Isa 65.4]]; [[Isaiah 66#^66-3|66.3]],[[Isaiah 66#^66-17|17]]; [[LXX 1 Maccabees 01#^1-47|1 Macc 1.47]]; [[LXX 2 Maccabees 06#^6-18|2 Macc 6.18–23]]); Gadara is Gentile territory. ^8-31
 

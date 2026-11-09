@@ -28,7 +28,7 @@ Text: [[NRSVue Matthew 19|NRSVue]] · [[Matthew 19|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 19#^19-9|9]]:** *Unchastity*, see [[JANT Matthew 05#^5-32|5.32n.]]; [[JANT Matthew 19#^19-4|19.4–6n.]] Jesus’ opinion on divorce resonates closely with the rabbinic House of Shammai, which permitted divorce only for serious transgressions. The House of Hillel was more lenient (see *b. Git.* [[Gittin 90#90a|90a]]). ^19-9
 
-**[[NRSVue Matthew 19#^19-12|12]]:** *Made themselves eunuchs*, could be taken literally, but could also refer to those who have forsworn marriage and procreation. Jewish sources strongly encourage both marriage and procreation ([[Torah 01 - Bereshit#^1-28|Gen 1.28]]; cf. [[Torah 04 - Vayera#^19-5|Gen 19.5]]; CD 4.20–5.2; *b. Yebam*. [[Yevamot 63#63a|63a]]), although some Jews in the Second Temple period valued celibacy (CD 6.11–7.9, which seems to indicate that at least some of the Dead Sea Scrolls group members at Qumran were celibate, although scholars debate this conclusion; Philo, *Cont*. *Life* 8.68). ^19-12
+**[[NRSVue Matthew 19#^19-12|12]]:** *Made themselves eunuchs*, could be taken literally, but could also refer to those who have forsworn marriage and procreation. Jewish sources strongly encourage both marriage and procreation ([[Torah 01 - Bereshit#^1-28|Gen 1.28]]; cf. [[Torah 04 - Vayera#^19-5|Gen 19.5]]; CD [[DSS CD-A#^4-20|4.20–5.2]]; *b. Yebam*. [[Yevamot 63#63a|63a]]), although some Jews in the Second Temple period valued celibacy (CD [[DSS CD-A#^6-11|6.11–7.9]], which seems to indicate that at least some of the Dead Sea Scrolls group members at Qumran were celibate, although scholars debate this conclusion; Philo, *Cont*. *Life* 8.68). ^19-12
 
 ### 19.13–15: Blessing children
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Matthew 19|NRSVue]] · [[Matthew 19|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 19#^19-26|26]]:** *All things are possible*, [[Torah 04 - Vayera#^18-14|Gen 18.14]]; [[Jeremiah 32#^32-17|Jer 32.17]]. ^19-26
 
-**[[NRSVue Matthew 19#^19-28|28]]:** *Renewal of all things*, messianic age; see [[JANT Matthew 08#^8-20|8.20n.]]; [[JANT Matthew 10#^10-23|10.23n.]]; [[Matthew 25#^25-30|25.30–31]]; *1 En*. 62.5. *Twelve tribes of Israel*, Jesus’ disciples will judge fellow Jews. ^19-28
+**[[NRSVue Matthew 19#^19-28|28]]:** *Renewal of all things*, messianic age; see [[JANT Matthew 08#^8-20|8.20n.]]; [[JANT Matthew 10#^10-23|10.23n.]]; [[Matthew 25#^25-30|25.30–31]]; *1 En*. [[1 Enoch 062#^62-5|62.5]]. *Twelve tribes of Israel*, Jesus’ disciples will judge fellow Jews. ^19-28
 
 **[[NRSVue Matthew 19#^19-29|29]]:** *Inherit eternal life*, see [[JANT Matthew 19#^19-16-2|19.16n.]] ^19-29
 

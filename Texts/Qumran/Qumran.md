@@ -1,0 +1,870 @@
+---
+type: text-index
+work: "Dead Sea Scrolls"
+edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
+converted: 2026-11-09
+aliases:
+  - "Dead Sea Scrolls"
+  - "DSS"
+---
+# Qumran
+
+The Dead Sea Scrolls in the English of García Martínez and Tigchelaar, *The Dead Sea Scrolls Study Edition* (2nd ed., Brill, 1999): one note per manuscript, in the order of the edition, by cave. Catalog: [[Garcia Martinez, Tigchelaar (eds.) - The Dead Sea Scrolls Study Edition]].
+
+Each numbered line of the translation has its own block: a column as `^<column>-<line>` (`[[DSS 1QS#^3-13]]` is 1QS col. iii 13; `[[DSS CD-A#^6-19]]` is CD vi 19), a fragment as `^f<fragment>-<line>`, with `c<column>` for a column of a fragment (`[[DSS 4Q521#^f2c2-12]]` is 4Q521 frag. 2 col. ii 12). Only the English is here; the Hebrew and Aramaic stand on the left-hand pages of the edition, in the PDF. Biblical manuscripts, which the edition does not translate, list their fragments and verses.
+
+## Key to symbols in the translation (the edition, p. xxiii)
+
+- `] XXX [` legible text of varying degrees of certainty, preserved in the manuscript
+- `[XXX]` text restoration, sometimes minimally preserved in the manuscript
+- `] … [` one or more illegible traces or untranslatable readings in the manuscript
+- `[…]` lacuna of unspecified length in the manuscript
+- `{XXX}` or `{…}` legible or illegible text erased or corrected by the copyist
+- `<XXX>` text written in the manuscript which should be deleted according to the editors
+- `‹XXX›` translation of corrected text
+- *Blank* space left blank in the manuscript
+- `****` four dots in the manuscript to represent the tetragrammaton
+- `(XXX)` explanation required for the meaning of the English text
+- `/XXX/` or `/…/` legible or illegible text inserted between the lines by the copyist
+
+## Cave 1
+
+- [[DSS 1Q1|1Q1]] 1QGenesis
+- [[DSS 1Q2|1Q2]] 1QExodus
+- [[DSS 1Q3|1Q3]] 1QLeviticus
+- [[DSS 1Q4|1Q4]] 1QDeuteronomya
+- [[DSS 1Q5|1Q5]] 1QDeuteronomyb
+- [[DSS 1Q6|1Q6]] 1QJudges
+- [[DSS 1Q7|1Q7]] 1QSamuel
+- [[DSS 1QIsaa|1QIsaa]] 1QIsaiaha
+- [[DSS 1QIsab|1QIsab]] 1QIsaiahb
+- [[DSS 1Q8|1Q8]] 1QIsaiahb
+- [[DSS 1Q9|1Q9]] 1QEzekiel
+- [[DSS 1Q10|1Q10]] 1QPsalmsa
+- [[DSS 1Q11|1Q11]] 1QPsalmsb
+- [[DSS 1Q12|1Q12]] 1QPsalmsc
+- [[DSS 1Q13|1Q13]] 1QPhylactery
+- [[DSS 1Q14|1Q14]] 1QPesher to Micah
+- [[DSS 1QpHab|1QpHab]] 1QPesher to Habakkuk
+- [[DSS 1Q15|1Q15]] 1QPesher to Zepha niah
+- [[DSS 1Q16|1Q16]] 1QPesher to Psalms
+- [[DSS 1Q17|1Q17]] 1QJubileesa
+- [[DSS 1Q18|1Q18]] 1QJubileesb
+- [[DSS 1Q19 + 1Q19bis|1Q19 + 1Q19bis]] 1QBook of Noah
+- [[DSS 1Q20|1Q20]] 1QGenesis Apocry phon
+- [[DSS 1QapGen|1QapGen]] ar 1QGenesis Apocryphon
+- [[DSS 1Q21|1Q21]] 1QTestament of Levi ar
+- [[DSS 1Q22|1Q22]] 1QWords of Moses
+- [[DSS 1Q23|1Q23]] 1QEnoch Giantsa ar
+- [[DSS 1Q24|1Q24]] 1QEnoch Giantsb ar
+- [[DSS 1Q25|1Q25]] 1QApocryphal Prophecy
+- [[DSS 1Q26|1Q26]] 1QInstruction
+- [[DSS 1Q27|1Q27]] 1QMysteries
+- [[DSS 1Q28|1Q28]] 1QS title
+- [[DSS 1QS|1QS]] 1QRule of the Community
+- [[DSS 1Q28a|1Q28a]] 1QRule of the Congrega tion
+- [[DSS 1Q28b|1Q28b]] 1QRule of Benedictions
+- [[DSS 1Q29|1Q29]] 1QLiturgy of the Three Tongues of Fire
+- [[DSS 1Q30|1Q30]] 1QLiturgical Text (?)
+- [[DSS 1Q31|1Q31]] 1QLiturgical Text (?)
+- [[DSS 1Q32|1Q32]] 1QNew Jerusalem ar
+- [[DSS 1QM|1QM]] 1QWar Scroll
+- [[DSS 1Q34 + 1Q34bis|1Q34 + 1Q34bis]] 1QFestival Prayers
+- [[DSS 1QHa|1QHa]] 1QHodayota
+- [[DSS 1Q35|1Q35]] 1QHodayotb
+- [[DSS 1Q36|1Q36]] 1QHymnic Composition
+- [[DSS 1Q37|1Q37]] 1QHymnic Composition (?)
+- [[DSS 1Q38|1Q38]] 1QHymnic Composition (?)
+- [[DSS 1Q39|1Q39]] 1QHymnic Composition (?)
+- [[DSS 1Q40|1Q40]] 1QHymnic Composition (?)
+- [[DSS 1Q41-70|1Q41-70]] 1Q70bis 1QUnclassiﬁed Fragments
+- [[DSS 1Q71|1Q71]] 1QDaniela
+- [[DSS 1Q72|1Q72]] 1QDanielb
+
+## Cave 2
+
+- [[DSS 2Q1|2Q1]] 2QGenesis
+- [[DSS 2Q2|2Q2]] 2QExodusa
+- [[DSS 2Q3|2Q3]] 2QExodusb
+- [[DSS 2Q4|2Q4]] 2QExodusc
+- [[DSS 2Q5|2Q5]] 2QLeviticus
+- [[DSS 2Q6|2Q6]] 2QNumbersa
+- [[DSS 2Q7|2Q7]] 2QNumbersb
+- [[DSS 2Q8|2Q8]] 2QNumbersc
+- [[DSS 2Q9|2Q9]] 2QNumbersd ?
+- [[DSS 2Q10|2Q10]] 2QDeuteronomya
+- [[DSS 2Q11|2Q11]] 2QDeuteronomyb
+- [[DSS 2Q12|2Q12]] 2QDeuteronomyc
+- [[DSS 2Q13|2Q13]] 2QJeremiah
+- [[DSS 2Q14|2Q14]] 2QPsalms
+- [[DSS 2Q15|2Q15]] 2QJob
+- [[DSS 2Q16|2Q16]] 2QRutha
+- [[DSS 2Q17|2Q17]] 2QRuthb
+- [[DSS 2Q18|2Q18]] 2QBen Sira
+- [[DSS 2Q19|2Q19]] 2QJubileesa
+- [[DSS 2Q20|2Q20]] 2QJubileesb
+- [[DSS 2Q21|2Q21]] 2QApocryphon of Moses
+- [[DSS 2Q22|2Q22]] 2QApocryphon of David?
+- [[DSS 2Q23|2Q23]] 2QApocryphal Prophecy
+- [[DSS 2Q24|2Q24]] 2QNew Jerusalem ar
+- [[DSS 2Q25|2Q25]] 2QJuridical text
+- [[DSS 2Q26|2Q26]] 2QBook of Giants ar
+- [[DSS 2Q27|2Q27]] 2QUnidentiﬁed text
+- [[DSS 2Q28|2Q28]] 2QUnidentiﬁed text
+- [[DSS 2Q29-33|2Q29-33]] 2QUnclassiﬁed fragments
+
+## Cave 3
+
+- [[DSS 3Q1|3Q1]] 3QEzekiel
+- [[DSS 3Q2|3Q2]] 3QPsalms
+- [[DSS 3Q3|3Q3]] 3QLamentations
+- [[DSS 3Q4|3Q4]] 3QIsaiah Pesher
+- [[DSS 3Q5|3Q5]] 3QJubilees
+- [[DSS 3Q6|3Q6]] 3QHymn
+- [[DSS 3Q7|3Q7]] 3QTestament of Judah (?)
+- [[DSS 3Q8|3Q8]] 3QUnidentiﬁed text
+- [[DSS 3Q9|3Q9]] 3QSectarian text (?)
+- [[DSS 3Q10|3Q10]] 3QUnclassiﬁed fragments
+- [[DSS 3Q11|3Q11]] 3QUnclassiﬁed fragments
+- [[DSS 3Q12|3Q12]] 3QUnclassiﬁed fragments ar
+- [[DSS 3Q13|3Q13]] 3QUnclassiﬁed fragments ar
+- [[DSS 3Q14|3Q14]] 3QUnclassiﬁed fragments
+- [[DSS 3Q15|3Q15]] 3QCopper Scroll
+
+## Cave 4
+
+- [[DSS 4Q1|4Q1]] 4QGenesis Exodusa
+- [[DSS 4Q2|4Q2]] 4QGenesisb
+- [[DSS 4Q3|4Q3]] 4QGenesisc
+- [[DSS 4Q4|4Q4]] 4QGenesisd
+- [[DSS 4Q5|4Q5]] 4QGenesise
+- [[DSS 4Q6|4Q6]] 4QGenesisf
+- [[DSS 4Q7|4Q7]] 4QGenesisg
+- [[DSS 4Q8|4Q8]] 4QGenesish1
+- [[DSS 4Q8a|4Q8a]] 4QGenesish2
+- [[DSS 4Q8b|4Q8b]] 4QGenesish-para
+- [[DSS 4Q8c|4Q8c]] 4QGenesish-title
+- [[DSS 4Q9|4Q9]] 4QGenesisj
+- [[DSS 4Q10|4Q10]] 4QGenesisk
+- [[DSS 4Q11|4Q11]] 4Qpaleo Genesis-Exodusl
+- [[DSS 4Q12|4Q12]] 4QGenesism
+- [[DSS 4Q13|4Q13]] 4QExodusb
+- [[DSS 4Q14|4Q14]] 4QExodusc
+- [[DSS 4Q15|4Q15]] 4QExodusd
+- [[DSS 4Q16|4Q16]] 4QExoduse
+- [[DSS 4Q17|4Q17]] 4QExodus Leviticusf
+- [[DSS 4Q18|4Q18]] 4QExodusg
+- [[DSS 4Q19|4Q19]] 4QExodush
+- [[DSS 4Q20|4Q20]] 4QExodusj
+- [[DSS 4Q21|4Q21]] 4QExodusk
+- [[DSS 4Q22|4Q22]] 4QpaleoExodusm
+- [[DSS 4Q23|4Q23]] 4QLeviticus Numbersa
+- [[DSS 4Q24|4Q24]] 4QLeviticusb
+- [[DSS 4Q25|4Q25]] 4QLeviticusc
+- [[DSS 4Q26|4Q26]] 4QLeviticusd
+- [[DSS 4Q26a|4Q26a]] 4QLeviticuse
+- [[DSS 4Q26b|4Q26b]] 4QLeviticusg
+- [[DSS 4Q27|4Q27]] 4QNumbersb
+- [[DSS 4Q28|4Q28]] 4QDeuteronomya
+- [[DSS 4Q29|4Q29]] 4QDeuteronomyb
+- [[DSS 4Q30|4Q30]] 4QDeuteronomyc
+- [[DSS 4Q31|4Q31]] 4QDeuteronomyd
+- [[DSS 4Q32|4Q32]] 4QDeuteronomye
+- [[DSS 4Q33|4Q33]] 4QDeuteronomyf
+- [[DSS 4Q34|4Q34]] 4QDeuteronomyg
+- [[DSS 4Q35|4Q35]] 4QDeuteronomyh
+- [[DSS 4Q36|4Q36]] 4QDeuteronomyi
+- [[DSS 4Q37|4Q37]] 4QDeuteronomyj
+- [[DSS 4Q38|4Q38]] 4QDeuteronomyk1
+- [[DSS 4Q38a|4Q38a]] 4QDeuteronomyk2
+- [[DSS 4Q38b|4Q38b]] 4QDeuteronomyk3
+- [[DSS 4Q39|4Q39]] 4QDeuteronomyl
+- [[DSS 4Q40|4Q40]] 4QDeuteronomym
+- [[DSS 4Q41|4Q41]] 4QDeuteronomyn
+- [[DSS 4Q42|4Q42]] 4QDeuteronomyo
+- [[DSS 4Q43|4Q43]] 4QDeuteronomyp
+- [[DSS 4Q44|4Q44]] 4QDeuteronomyq
+- [[DSS 4Q45|4Q45]] 4QpaleoDeutero nomyr
+- [[DSS 4Q47|4Q47]] 4QJoshuaa
+- [[DSS 4Q48|4Q48]] 4QJoshuab
+- [[DSS 4Q49|4Q49]] 4QJudgesa
+- [[DSS 4Q50|4Q50]] 4QJudgesb
+- [[DSS 4Q51|4Q51]] 4QSamuela
+- [[DSS 4Q52|4Q52]] 4QSamuelb
+- [[DSS 4Q53|4Q53]] 4QSamuelc
+- [[DSS 4Q54|4Q54]] 4QKings
+- [[DSS 4Q55|4Q55]] 4QIsaiaha
+- [[DSS 4Q56|4Q56]] 4QIsaiahb
+- [[DSS 4Q57|4Q57]] 4QIsaiahc
+- [[DSS 4Q58|4Q58]] 4QIsaiahd
+- [[DSS 4Q59|4Q59]] 4QIsaiahe
+- [[DSS 4Q60|4Q60]] 4QIsaiahf
+- [[DSS 4Q61|4Q61]] 4QIsaiahg
+- [[DSS 4Q62|4Q62]] 4QIsaiahh
+- [[DSS 4Q62a|4Q62a]] 4QIsaiahi
+- [[DSS 4Q63|4Q63]] 4QIsaiahj
+- [[DSS 4Q64|4Q64]] 4QIsaiahk
+- [[DSS 4Q65|4Q65]] 4QIsaiahl
+- [[DSS 4Q66|4Q66]] 4QIsaiahm
+- [[DSS 4Q67|4Q67]] 4QIsaiahn
+- [[DSS 4Q68|4Q68]] 4QIsaiaho
+- [[DSS 4Q69|4Q69]] 4QIsaiahp
+- [[DSS 4Q69a|4Q69a]] 4QIsaiahq
+- [[DSS 4Q69b|4Q69b]] 4QIsaiahr
+- [[DSS 4Q70|4Q70]] 4QJeremiaha
+- [[DSS 4Q71|4Q71]] 4QJeremiahb
+- [[DSS 4Q72|4Q72]] 4QJeremiahc
+- [[DSS 4Q72a|4Q72a]] 4QJeremiahd
+- [[DSS 4Q72b|4Q72b]] 4QJeremiahe
+- [[DSS 4Q73|4Q73]] 4QEzekiela
+- [[DSS 4Q74|4Q74]] 4QEzekielb
+- [[DSS 4Q75|4Q75]] 4QEzekielc
+- [[DSS 4Q76|4Q76]] 4QMinor Prophetsa
+- [[DSS 4Q77|4Q77]] 4QMinor Prophetsb
+- [[DSS 4Q78|4Q78]] 4QMinor Prophetsc
+- [[DSS 4Q79|4Q79]] 4QMinor Prophetsd
+- [[DSS 4Q80|4Q80]] 4QMinor Prophetse
+- [[DSS 4Q81|4Q81]] 4QMinor Prophetsf
+- [[DSS 4Q82|4Q82]] 4QMinor Prophetsg
+- [[DSS 4Q83|4Q83]] 4QPsalmsa
+- [[DSS 4Q84|4Q84]] 4QPsalmsb
+- [[DSS 4Q85|4Q85]] 4QPsalmsc
+- [[DSS 4Q86|4Q86]] 4QPsalmsd
+- [[DSS 4Q87|4Q87]] 4QPsalmse
+- [[DSS 4Q88|4Q88]] 4QPsalmsf
+- [[DSS 4Q89|4Q89]] 4QPsalmsg
+- [[DSS 4Q90|4Q90]] 4QPsalmsh
+- [[DSS 4Q91|4Q91]] 4QPsalmsj
+- [[DSS 4Q92|4Q92]] 4QPsalmsk
+- [[DSS 4Q93|4Q93]] 4QPsalmsl
+- [[DSS 4Q94|4Q94]] 4QPsalmsm
+- [[DSS 4Q95|4Q95]] 4QPsalmsn
+- [[DSS 4Q96|4Q96]] 4QPsalmso
+- [[DSS 4Q97|4Q97]] 4QPsalmsp
+- [[DSS 4Q98|4Q98]] 4QPsalmsq
+- [[DSS 4Q98a|4Q98a]] 4QPsalmsr
+- [[DSS 4Q98b|4Q98b]] 4QPsalmss
+- [[DSS 4Q98c|4Q98c]] 4QPsalmst
+- [[DSS 4Q98d|4Q98d]] 4QPsalmsu
+- [[DSS 4Q99|4Q99]] 4QJoba
+- [[DSS 4Q100|4Q100]] 4QJobb
+- [[DSS 4Q101|4Q101]] 4QpaleoJobc
+- [[DSS 4Q102|4Q102]] 4QProverbsa
+- [[DSS 4Q103|4Q103]] 4QProverbsb
+- [[DSS 4Q104|4Q104]] 4QRutha
+- [[DSS 4Q105|4Q105]] 4QRuthb
+- [[DSS 4Q106|4Q106]] 4QCanticlesa
+- [[DSS 4Q107|4Q107]] 4QCanticlesb
+- [[DSS 4Q108|4Q108]] 4QCanticlesc
+- [[DSS 4Q109|4Q109]] 4QQoheleta
+- [[DSS 4Q110|4Q110]] 4QQoheletb
+- [[DSS 4Q111|4Q111]] 4QLamentations
+- [[DSS 4Q112|4Q112]] 4QDaniela
+- [[DSS 4Q113|4Q113]] 4QDanielb
+- [[DSS 4Q114|4Q114]] 4QDanielc
+- [[DSS 4Q115|4Q115]] 4QDanield
+- [[DSS 4Q116|4Q116]] 4QDaniele
+- [[DSS 4Q117|4Q117]] 4QEzra
+- [[DSS 4Q118|4Q118]] 4QChronicles
+- [[DSS 4Q119|4Q119]] 4QSeptuagint Leviticusa
+- [[DSS 4Q120|4Q120]] 4QSeptuagint Leviticusb
+- [[DSS 4Q121|4Q121]] 4QSeptuagint Numbers
+- [[DSS 4Q122|4Q122]] 4QSeptuagint Deuteronomy
+- [[DSS 4Q123|4Q123]] 4QPara phrase of Joshua
+- [[DSS 4Q124|4Q124]] 4Qunidenti ﬁed paleo-Hebrew text 1
+- [[DSS 4Q126|4Q126]] 4Qunidentiﬁed text gr
+- [[DSS 4Q127|4Q127]] 4QPara phrase of Exodus
+- [[DSS 4Q128|4Q128]] 4QPhylactery A
+- [[DSS 4Q129|4Q129]] 4QPhylactery B
+- [[DSS 4Q130|4Q130]] 4QPhylactery C
+- [[DSS 4Q131|4Q131]] 4QPhylactery D
+- [[DSS 4Q132|4Q132]] 4QPhylactery E
+- [[DSS 4Q133|4Q133]] 4QPhylactery F
+- [[DSS 4Q134|4Q134]] 4QPhylactery G
+- [[DSS 4Q135|4Q135]] 4QPhylactery H
+- [[DSS 4Q136|4Q136]] 4QPhylactery I
+- [[DSS 4Q137|4Q137]] 4QPhylactery J
+- [[DSS 4Q138|4Q138]] 4QPhylactery K
+- [[DSS 4Q139|4Q139]] 4QPhylactery L
+- [[DSS 4Q140|4Q140]] 4QPhylactery M
+- [[DSS 4Q141|4Q141]] 4QPhylactery N
+- [[DSS 4Q142|4Q142]] 4QPhylactery O
+- [[DSS 4Q143|4Q143]] 4QPhylactery P
+- [[DSS 4Q144|4Q144]] 4QPhylactery Q
+- [[DSS 4Q145|4Q145]] 4QPhylactery R
+- [[DSS 4Q146|4Q146]] 4QPhylactery S
+- [[DSS 4Q147-148|4Q147-148]] 4QPhylacter ies T,U
+- [[DSS 4Q149|4Q149]] 4QMezuzah A
+- [[DSS 4Q150|4Q150]] 4QMezuzah B
+- [[DSS 4Q151|4Q151]] 4QMezuzah C
+- [[DSS 4Q152|4Q152]] 4QMezuzah D
+- [[DSS 4Q153|4Q153]] 4QMezuzah E
+- [[DSS 4Q154|4Q154]] 4QMezuzah F
+- [[DSS 4Q155|4Q155]] 4QMezuzah G
+- [[DSS 4Q156|4Q156]] 4QTargum of Levi ticus
+- [[DSS 4Q157|4Q157]] 4QTargum of Job
+- [[DSS 4Q158|4Q158]] 4QReworked Penta teucha
+- [[DSS 4Q159|4Q159]] 4QOrdinancesa
+- [[DSS 4Q160|4Q160]] 4QVision of Samuel
+- [[DSS 4Q161|4Q161]] 4QIsaiah Peshera
+- [[DSS 4Q162|4Q162]] 4QIsaiah Pesherb
+- [[DSS 4Q163|4Q163]] 4QIsaiah Pesherc
+- [[DSS 4Q164|4Q164]] 4QIsaiah Pesherd
+- [[DSS 4Q165|4Q165]] 4QIsaiah Peshere
+- [[DSS 4Q166|4Q166]] 4QHosea Peshera
+- [[DSS 4Q167|4Q167]] 4QHosea Pesherb
+- [[DSS 4Q168|4Q168]] 4QMicah Pesher (?)
+- [[DSS 4Q169|4Q169]] 4QNahum Pesher
+- [[DSS 4Q170|4Q170]] 4QZephaniah Pesher
+- [[DSS 4Q171|4Q171]] 4QPsalms Peshera
+- [[DSS 4Q172|4Q172]] 4QUnidentified Pesher Fragments
+- [[DSS 4Q173|4Q173]] 4QPsalms Pesherb
+- [[DSS 4Q173a|4Q173a]] (= 4Q173 frag. 5)
+- [[DSS 4Q174|4Q174]] 4QFlorilegium
+- [[DSS 4Q175|4Q175]] 4QTestimonia
+- [[DSS 4Q176|4Q176]] 4QTanΩûmîm
+- [[DSS 4Q176a-b|4Q176a,b]] (4QJubi,f?) 4QJubileesi,f?
+- [[DSS 4Q177|4Q177]] 4QCatena A
+- [[DSS 4Q178|4Q178]] 4QUnclassified fragments
+- [[DSS 4Q179|4Q179]] 4QApocryphal Lamentations A
+- [[DSS 4Q180|4Q180]] 4QAges of Creation A
+- [[DSS 4Q181|4Q181]] 4QAges of Creation B
+- [[DSS 4Q182|4Q182]] 4QCatena B
+- [[DSS 4Q183|4Q183]] 4QHistorical Work
+- [[DSS 4Q184|4Q184]] 4QWiles of the Wicked Woman
+- [[DSS 4Q185|4Q185]] 4QSapiential Work
+- [[DSS 4Q186|4Q186]] 4QHoroscope
+- [[DSS 4Q196|4Q196]] 4QpapTobita ar
+- [[DSS 4Q197|4Q197]] 4QTobitb ar
+- [[DSS 4Q198|4Q198]] 4QTobitc ar
+- [[DSS 4Q199|4Q199]] 4QTobitd ar
+- [[DSS 4Q200|4Q200]] 4QTobite
+- [[DSS 4Q201|4Q201]] 4QEnocha ar
+- [[DSS 4Q202|4Q202]] 4QEnochb ar
+- [[DSS 4Q203|4Q203]] 4QBook of Giantsa ar
+- [[DSS 4Q204|4Q204]] 4QEnochc ar
+- [[DSS 4Q205|4Q205]] 4QEnochd ar
+- [[DSS 4Q206|4Q206]] 4QEnoche ar
+- [[DSS 4Q207|4Q207]] 4QEnochf ar
+- [[DSS 4Q208|4Q208]] 4QAstronomical Enocha ar
+- [[DSS 4Q209|4Q209]] 4QAstronomical Enochb ar
+- [[DSS 4Q210|4Q210]] 4QAstronomical Enochc ar
+- [[DSS 4Q211|4Q211]] 4QAstronomical Enochd ar
+- [[DSS 4Q212|4Q212]] 4QEnochg ar
+- [[DSS 4Q213|4Q213]] 4QAramaic Levia
+- [[DSS 4Q213a|4Q213a]] 4QAramaic Levib
+- [[DSS 4Q213b|4Q213b]] 4QAramaic Levic
+- [[DSS 4Q214|4Q214]] 4QAramaic Levid
+- [[DSS 4Q214a|4Q214a]] 4QAramaic Levie
+- [[DSS 4Q214b|4Q214b]] 4QAramaic Levif
+- [[DSS 4Q215|4Q215]] 4QTestament of Naphtali
+- [[DSS 4Q215a|4Q215a]] 4QTime of Righteousness
+- [[DSS 4Q216|4Q216]] 4QJubileesa
+- [[DSS 4Q217|4Q217]] 4QpapJubileesb?
+- [[DSS 4Q218|4Q218]] 4QJubileesc
+- [[DSS 4Q219|4Q219]] 4QJubileesd
+- [[DSS 4Q220|4Q220]] 4QJubileese
+- [[DSS 4Q221|4Q221]] 4QJubileesf
+- [[DSS 4Q222|4Q222]] 4QJubileesg
+- [[DSS 4Q223-224|4Q223-224]] 4QpapJubi leesh
+- [[DSS 4Q225|4Q225]] 4QPseudo-Jubileesa
+- [[DSS 4Q226|4Q226]] 4QPseudo-Jubileesb
+- [[DSS 4Q227|4Q227]] 4QPseudo-Jubi leesc?
+- [[DSS 4Q228|4Q228]] 4QWork with citation of Jubi lees
+- [[DSS 4Q229|4Q229]] 4QPseudepigraphic work in Mishnaic Hebrew
+- [[DSS 4Q230|4Q230]] 4QCatalogue of Spiritsa
+- [[DSS 4Q231|4Q231]] 4QCatalogue of Spiritsb
+- [[DSS 4Q232|4Q232]] 4QNew Jerusalem (?)
+- [[DSS 4Q233|4Q233]] 4QFragments with place names
+- [[DSS 4Q234|4Q234]] 4QGen 27:20-21 (Exercitium Calami)
+- [[DSS 4Q235|4Q235]] 4QFragments of Book of Kings nabatean (?)
+- [[DSS 4Q236|4Q236]] 4QPsalm 89
+- [[DSS 4Q238|4Q238]] 4QHabakkuk 3 and songs
+- [[DSS 4Q239|4Q239]] 4QPesher on the True Israel
+- [[DSS 4Q240|4Q240]] 4QCommentary on Canticles (?)
+- [[DSS 4Q241|4Q241]] 4QFragments citing Lamenta tions
+- [[DSS 4Q242|4Q242]] 4QPrayer of Na bonidus ar
+- [[DSS 4Q243|4Q243]] 4QPseudo Daniela ar
+- [[DSS 4Q244|4Q244]] 4QPseudo Danielb ar
+- [[DSS 4Q245|4Q245]] 4QPseudo Danielc ar
+- [[DSS 4Q246|4Q246]] 4QAramaic Apocalypse
+- [[DSS 4Q247|4Q247]] Apocalypse of Weeks (?)
+- [[DSS 4Q248|4Q248]] Acts of a Greek King
+- [[DSS 4Q249|4Q249]] 4QCryp tic A: Midrash Sefer Moshe
+- [[DSS 4Q249a-m|4Q249a-m]] 4QCryptic A Texts
+- [[DSS 4Q251|4Q251]] 4QHalakhah A
+- [[DSS 4Q252|4Q252]] 4QCommen tary on Genesis A
+- [[DSS 4Q253|4Q253]] 4QCommen tary on Genesis B
+- [[DSS 4Q253a|4Q253a]] 4QCommentary on Malachi
+- [[DSS 4Q254|4Q254]] 4QCommen tary on Genesis C
+- [[DSS 4Q254a|4Q254a]] 4QCommen tary on Genesis D
+- [[DSS 4Q255|4Q255]] 4QRule of the Com munitya
+- [[DSS 4Q256|4Q256]] 4QRule of the Communi tyb
+- [[DSS 4Q257|4Q257]] 4QRule of the Com munityc
+- [[DSS 4Q258|4Q258]] 4QRule of the Communi tyd
+- [[DSS 4Q259 + 4Q319|4Q259 + 4Q319]] 4QRule of the Communitye + 4QOtot
+- [[DSS 4Q260|4Q260]] 4QRule of the Communi tyf
+- [[DSS 4Q261|4Q261]] 4QRule of the Communi tyg
+- [[DSS 4Q262|4Q262]] 4QRule of the Communi tyh
+- [[DSS 4Q262 (2)|4Q262]] frag. B
+- [[DSS 4Q263|4Q263]] 4QRule of the Communi tyi
+- [[DSS 4Q264|4Q264]] 4QRule of the Communi tyj
+- [[DSS 4Q264a|4Q264a]] 4QHalakhah B
+- [[DSS 4Q265|4Q265]] 4QMiscellaneous Rules
+- [[DSS 4Q266|4Q266]] 4QDamascus Documenta
+- [[DSS 4Q267|4Q267]] 4QDamascus Documentb
+- [[DSS 4Q268|4Q268]] 4QDamascus Documentc
+- [[DSS 4Q269|4Q269]] 4QDamascus Documentd
+- [[DSS 4Q270|4Q270]] 4QDamascus Documente
+- [[DSS 4Q271|4Q271]] 4QDamascus Documentf
+- [[DSS 4Q272|4Q272]] 4QDamascus Documentg
+- [[DSS 4Q273|4Q273]] 4QpapDamascus Documenth
+- [[DSS 4Q274|4Q274]] 4QPurification Rules A
+- [[DSS 4Q275|4Q275]] 4QCommunal Ceremony
+- [[DSS 4Q276|4Q276]] 4QPurification Rules Ba
+- [[DSS 4Q277|4Q277]] 4QPurification Rules Bb
+- [[DSS 4Q278|4Q278]] 4QPurification Rules C
+- [[DSS 4Q279|4Q279]] 4QFour Lots
+- [[DSS 4Q280|4Q280]] 4QCurses
+- [[DSS 4Q281a-4Q281f|4Q281a-4Q281f]] 4QUnidentified Frag ments A
+- [[DSS 4Q282a-4Q282t|4Q282a-4Q282t]] 4QUnidentified Frag ments B
+- [[DSS 4Q284|4Q284]] 4QPurification Liturgy
+- [[DSS 4Q284a|4Q284a]] 4QHarvesting
+- [[DSS 4Q285|4Q285]] 4QSefer ha-Milh≥amah
+- [[DSS 4Q286|4Q286]] 4QBlessingsa
+- [[DSS 4Q287|4Q287]] 4QBlessingsb
+- [[DSS 4Q288|4Q288]] 4QBlessingsc
+- [[DSS 4Q289|4Q289]] 4QBlessingsd
+- [[DSS 4Q290|4Q290]] 4QBlessingse
+- [[DSS 4Q291|4Q291]] 4QWork Containing Prayers A
+- [[DSS 4Q292|4Q292]] 4QWork Containing Prayers B
+- [[DSS 4Q293|4Q293]] 4QWork Containing Prayers C
+- [[DSS 4Q294|4Q294]] 4QSapiential-Didactic Work C
+- [[DSS 4Q298|4Q298]] 4QcryptA Words of the Maskil to All Sons of Dawn
+- [[DSS 4Q299|4Q299]] 4QMysteriesa
+- [[DSS 4Q300|4Q300]] 4QMysteriesb
+- [[DSS 4Q301|4Q301]] 4QMysteriesc (?)
+- [[DSS 4Q302|4Q302]] 4QAdmonitory Parable
+- [[DSS 4Q304|4Q304]] 4QMeditation on Creation B
+- [[DSS 4Q305|4Q305]] 4QMeditation on Creation C
+- [[DSS 4Q306|4Q306]] 4QMen of People who Err
+- [[DSS 4Q307|4Q307]] 4QText Mentioning Temple
+- [[DSS 4Q308|4Q308]] 4QSapiential Fragments
+- [[DSS 4Q309|4Q309]] 4QCursive Work ar
+- [[DSS 4Q310|4Q310]] 4QPapyrus Text ar
+- [[DSS 4Q311|4Q311]] 4QPapyrus Unclassified Text
+- [[DSS 4Q317|4Q317]] 4QcryptA Phases of the Moon
+- [[DSS 4Q312|4Q312]] 4QHebrew Text in Phoenician Cursive?
+- [[DSS 4Q313|4Q313]] 4QCryptic A Unclassified Frag ments
+- [[DSS 4Q314-4Q315|4Q314-4Q315]] 4QParcels of Parchment
+- [[DSS 4Q316|4Q316]] 4QUnclassified Fragments
+- [[DSS 4Q317 (2)|4Q317]] 4QcryptA Phases of the Moon
+- [[DSS 4Q318|4Q318]] 4QBrontologion
+- [[DSS 4Q319|4Q319]] 4QOtot  526,
+- [[DSS 4Q320|4Q320]] 4QCal endrical Document A
+- [[DSS 4Q321|4Q321]] 4QCal endrical Document Ba
+- [[DSS 4Q321a|4Q321a]] 4QCalendrical Document Bb
+- [[DSS 4Q322|4Q322]] 4QCal endrical Document Ca
+- [[DSS 4Q323|4Q323]] 4QCal endrical Document Cb
+- [[DSS 4Q324|4Q324]] 4QCal endrical Document Cc
+- [[DSS 4Q324a|4Q324a]] 4QCalendrical Document Cd
+- [[DSS 4Q324b|4Q324b]] 4QCalendrical Document Ce
+- [[DSS 4Q324c|4Q324c]] 4QCalendrical Document Cf
+- [[DSS 4Q325|4Q325]] 4QCal endrical Document D
+- [[DSS 4Q326|4Q326]] 4QCal endrical Document Ea
+- [[DSS 4Q327|4Q327]] 4QCalen drical Document Eb
+- [[DSS 4Q328|4Q328]] 4QCal endrical Document Fa
+- [[DSS 4Q329|4Q329]] 4QCal endrical Document Fb
+- [[DSS 4Q329a|4Q329a]] 4QCal endrical Document G
+- [[DSS 4Q330|4Q330]] 4QCal endrical Document H
+- [[DSS 4Q334|4Q334]] 4QOrder of Divine Office
+- [[DSS 4Q335-336|4Q335-336]] 4QAstronomical fragments ?
+- [[DSS 4Q337|4Q337]] 4QFragment of Calendar
+- [[DSS 4Q338|4Q338]] 4QGenealogical List
+- [[DSS 4Q339|4Q339]] 4QList of False Prophets ar
+- [[DSS 4Q340|4Q340]] 4QList of Netinim
+- [[DSS 4Q341|4Q341]] 4QList of proper names
+- [[DSS 4Q342|4Q342]] 4QLetter? ar
+- [[DSS 4Q343|4Q343]] 4QLetter nab
+- [[DSS 4Q344|4Q344]] 4QDebt Acknowledgement ar
+- [[DSS 4Q345|4Q345]] 4QDeed A ar or heb
+- [[DSS 4Q346|4Q346]] 4QDeed of Sale ar
+- [[DSS 4Q346a|4Q346a]] 4QUnidentified Fragment A
+- [[DSS 4Q347|4Q347]] [XH≥ev/Se 32 (+ 4Q347)] XH≥ev/ Se papDeed F (+ 4Q347) ar
+- [[DSS 4Q348|4Q348]] 4QDeed B heb?
+- [[DSS 4Q349|4Q349]] 4QSale of Property?
+- [[DSS 4Q350|4Q350]] 4QAccount of Cereal
+- [[DSS 4Q351|4Q351]] 4QAccount of Cereal A ar
+- [[DSS 4Q352|4Q352]] 4QpapAccount of Cereal B ar or heb
+- [[DSS 4Q352a|4Q352a]] 4QpapAccount A ar or heb
+- [[DSS 4Q353|4Q353]] 4QpapAccount of Cereal or Liquid ar or heb
+- [[DSS 4Q354|4Q354]] 4QAccount B ar or heb
+- [[DSS 4Q355|4Q355]] 4QAccount C
+- [[DSS 4Q356|4Q356]] 4QAccount D ar or heb
+- [[DSS 4Q357|4Q357]] 4QAccount E ar or heb
+- [[DSS 4Q358|4Q358]] 4QpapAccount F? ar or heb
+- [[DSS 4Q359|4Q359]] 4QpapDeed C? ar or heb
+- [[DSS 4Q360|4Q360]] 4QExercitium Calami B
+- [[DSS 4Q360a|4Q360a]] 4QpapUnidentified Fragments B ar
+- [[DSS 4Q361|4Q361]] 4QpapUnidentified Fragment gr
+- [[DSS 4Q362|4Q362]] 4QCryptic B Undeciphered Fragments A
+- [[DSS 4Q363|4Q363]] 4QCryptic B Undeciphered Fragments B
+- [[DSS 4Q363a|4Q363a]] 4QCryptic C Text
+- [[DSS 4Q364|4Q364]] 4QReworked Penta teuchb
+- [[DSS 4Q365|4Q365]] 4QReworked Penta teuchc
+- [[DSS 4Q365a|4Q365a]] 4QReworked Pentateuchc
+- [[DSS 4Q366|4Q366]] 4QReworked Penta teuchd
+- [[DSS 4Q367|4Q367]] 4QReworked Penta teuche
+- [[DSS 4Q368|4Q368]] 4QApocryph on Pentateuch A
+- [[DSS 4Q369|4Q369]] 4QPrayer of Enosh (?)
+- [[DSS 4Q370|4Q370]] 4QExhortation Based on the Flood
+- [[DSS 4Q371|4Q371]] 4QApocryph on of Josepha
+- [[DSS 4Q372|4Q372]] 4QApocryph on of Josephb
+- [[DSS 4Q373|4Q373]] 4QApocryph on of Josephc
+- [[DSS 4Q374|4Q374]] 4QDiscourse on the Exodus/ Conquest Tradition
+- [[DSS 4Q375|4Q375]] 4QApocryph on of Mosesa
+- [[DSS 4Q376|4Q376]] 4QApocry phon of Mosesb?
+- [[DSS 4Q377|4Q377]] 4QApocryph on Pentateuch B
+- [[DSS 4Q378|4Q378]] 4QApocryph on of Joshuaa
+- [[DSS 4Q379|4Q379]] 4QApocryph on of Joshuab
+- [[DSS 4Q380|4Q380]] 4QNon-Canonical Psalms A
+- [[DSS 4Q381|4Q381]] 4QNon-Canonical Psalms B
+- [[DSS 4Q382|4Q382]] 4QParaphrase of Kings
+- [[DSS 4Q383|4Q383]] 4QApocryphon of Jeremiaha
+- [[DSS 4Q384|4Q384]] 4QApocryphon of Jeremiahb (?)
+- [[DSS 4Q385|4Q385]] 4QPseudo-Ezekiela
+- [[DSS 4Q385a|4Q385a]] 4QPseudo Mosesa
+- [[DSS 4Q385b|4Q385b]] 4QApocryphon of Jeremiahc
+- [[DSS 4Q385c|4Q385c]] 4QPseudo Ezekielc
+- [[DSS 4Q386|4Q386]] 4QPseudo-Ezekielb
+- [[DSS 4Q387a|4Q387a]] 4QPseudo Mosesb
+- [[DSS 4Q387b|4Q387b]] 4QApocryphon of Jeremiahd
+- [[DSS 4Q388|4Q388]] 4QPseudo-Ezekield
+- [[DSS 4Q388a|4Q388a]] 4QPseudo-Mo sesc
+- [[DSS 4Q389|4Q389]] 4QPseudo-Mo sesd
+- [[DSS 4Q389a|4Q389a]] 4QApocryphon of Jeremiahe
+- [[DSS 4Q390|4Q390]] 4QPseudo-Mosese
+- [[DSS 4Q391|4Q391]] 4QpapPseudo Ezekiele
+- [[DSS 4Q392|4Q392]] 4QWorks of God  + 4Q393 4QCommunal Confession
+- [[DSS 4Q394|4Q394]] 4QHalakhic Lettera
+- [[DSS 4Q395|4Q395]] 4QHalakhic Letterb
+- [[DSS 4Q396|4Q396]] 4QHalakhic Letterc
+- [[DSS 4Q397|4Q397]] 4QHalakhic Letterd
+- [[DSS 4Q398|4Q398]] 4QHalakhic Lettere
+- [[DSS 4Q399|4Q399]] 4QHalakhic Letterf
+- [[DSS 4Q400|4Q400]] 4QSongs of the Sabbath Sacrificea
+- [[DSS 4Q401|4Q401]] 4QSongs of the Sabbath Sacrificeb
+- [[DSS 4Q403|4Q403]] 4QSongs of the Sabbath Sacrificed
+- [[DSS 4Q404|4Q404]] 4QSongs of the Sabbath Sacrificee
+- [[DSS 4Q405|4Q405]] 4QSongs of the Sabbath Sacrificef
+- [[DSS 4Q406|4Q406]] 4QSongs of the Sabbath Sacrificeg
+- [[DSS 4Q407|4Q407]] 4QSongs of the Sabbath Sacrificeh
+- [[DSS 4Q408|4Q408]] 4QMorning and Evening Prayer
+- [[DSS 4Q409|4Q409]] 4QLiturgy
+- [[DSS 4Q410|4Q410]] 4QVision and Its Interpretation
+- [[DSS 4Q411|4Q411]] 4QSapiential Hymn
+- [[DSS 4Q412|4Q412]] 4QSapiential-Didactic Work A
+- [[DSS 4Q413|4Q413]] 4QComposition concerning Divine Providence
+- [[DSS 4Q414|4Q414]] 4QRitual of Purification A
+- [[DSS 4Q415|4Q415]] 4QInstructiona
+- [[DSS 4Q416|4Q416]] 4QInstructionb
+- [[DSS 4Q417|4Q417]] 4QInstructionc
+- [[DSS 4Q418|4Q418]] 4QInstructiond
+- [[DSS 4Q418a|4Q418a]] 4QInstructione
+- [[DSS 4Q418c|4Q418c]] 4QInstructionf
+- [[DSS 4Q419|4Q419]] 4QSapiential Work B
+- [[DSS 4Q420|4Q420]] 4QWays of Righteousnessa
+- [[DSS 4Q421|4Q421]] 4QWays of Righteousnessb
+- [[DSS 4Q422|4Q422]] 4QParaphrase of Genesis and Exodus
+- [[DSS 4Q423|4Q423]] 4QInstructiong
+- [[DSS 4Q424|4Q424]] 4QSapiential Text
+- [[DSS 4Q425|4Q425]] 4QSapiential-Didactic Work B
+- [[DSS 4Q426|4Q426]] 4QSapiential-Hymnic Work A
+- [[DSS 4Q427|4Q427]] 4QHodayota
+- [[DSS 4Q428|4Q428]] 4QHodayotb
+- [[DSS 4Q429|4Q429]] 4QHodayotc
+- [[DSS 4Q430|4Q430]] 4QHodayotd
+- [[DSS 4Q431|4Q431]] 4QHodayote
+- [[DSS 4Q432|4Q432]] 4QHodayotf
+- [[DSS 4Q433|4Q433]] 4QHodayot-like text A
+- [[DSS 4Q433a|4Q433a]] 4QHodayot-like text B
+- [[DSS 4Q434|4Q434]] 4QBless, Oh my Soula
+- [[DSS 4Q434a|4Q434a]] 4QGrace after Meals
+- [[DSS 4Q435|4Q435]] 4QBless, Oh my Soulb
+- [[DSS 4Q436|4Q436]] 4QBless, Oh my Soulc
+- [[DSS 4Q437|4Q437]] 4QBless, Oh my Sould
+- [[DSS 4Q438|4Q438]] 4QBless, Oh my Soule
+- [[DSS 4Q439|4Q439]] 4QLament by a Leader
+- [[DSS 4Q440|4Q440]] 4QHodayot-like text C
+- [[DSS 4Q440a|4Q440a]] 4QHodayot-like text D
+- [[DSS 4Q441|4Q441]] 4QIndividual Thanksgiving A
+- [[DSS 4Q442|4Q442]] 4QIndividual Thanksgiving B
+- [[DSS 4Q443|4Q443]] 4QPersonal Prayer
+- [[DSS 4Q444|4Q444]] 4QIncantation
+- [[DSS 4Q445|4Q445]] 4QLament A
+- [[DSS 4Q446|4Q446]] 4QPoetic Text A
+- [[DSS 4Q447|4Q447]] 4QPoetic Text B
+- [[DSS 4Q448|4Q448]] 4QApocryphal Psalm and Prayer
+- [[DSS 4Q449|4Q449]] 4QPrayer A
+- [[DSS 4Q450|4Q450]] 4QPrayer B ?
+- [[DSS 4Q451|4Q451]] 4QPrayer C
+- [[DSS 4Q452|4Q452]] 4QPrayer D ?
+- [[DSS 4Q453|4Q453]] 4QLament B
+- [[DSS 4Q454|4Q454]] 4QPrayer E ?
+- [[DSS 4Q455|4Q455]] 4QDidactic Work C
+- [[DSS 4Q456|4Q456]] 4QHalleluyah
+- [[DSS 4Q457a|4Q457a]] 4QCreation ?
+- [[DSS 4Q457b|4Q457b]] 4QEschatological Hymn
+- [[DSS 4Q458|4Q458]] 4QNarrative A
+- [[DSS 4Q459|4Q459]] 4QNarrative Work Mentioning Lebanon
+- [[DSS 4Q460|4Q460]] 4QNarrative Work and Prayer
+- [[DSS 4Q461|4Q461]] 4QNarrative B
+- [[DSS 4Q462|4Q462]] 4QNarrative Ca
+- [[DSS 4Q463|4Q463]] 4QNarrative D
+- [[DSS 4Q464|4Q464]] 4QExposition on the Patriarchs
+- [[DSS 4Q464b|4Q464b]] 4QUnclassified Fragments
+- [[DSS 4Q465|4Q465]] 4QpapText Mentioning Samson ?
+- [[DSS 4Q466|4Q466]] 4QText Mentioning the Congre gation of the Lord
+- [[DSS 4Q467|4Q467]] 4QNarrative Cb
+- [[DSS 4Q468a-4Q468f|4Q468a-4Q468f]] 4QUnidentified Frag ments C
+- [[DSS 4Q468g|4Q468g]] 4QHistorical Text F
+- [[DSS 4Q468h|4Q468h]] 4QHistorical Text G
+- [[DSS 4Q468i|4Q468i]] 4QHistorical Text H
+- [[DSS 4Q468j|4Q468j]] 4QHymnic Work
+- [[DSS 4Q469|4Q469]] 4QApocryphon?
+- [[DSS 4Q470|4Q470]] 4QText Mentioning Zedekiah
+- [[DSS 4Q471|4Q471]] 4QWar Scroll-like Text B
+- [[DSS 4Q471a|4Q471a]] 4QPolemical fragment
+- [[DSS 4Q471b|4Q471b]] 4QSelf-Glorification Hymna
+- [[DSS 4Q472|4Q472]] 4QEschatological Work
+- [[DSS 4Q472a|4Q472a]] 4QHalakha C
+- [[DSS 4Q473|4Q473]] 4QThe Two Ways
+- [[DSS 4Q474|4Q474]] 4QText Concerning Rachel and Joseph
+- [[DSS 4Q475|4Q475]] 4QRenewed Earth
+- [[DSS 4Q476|4Q476]] 4Q476a 4QLiturgical Work B, 4QLiturgical Work C
+- [[DSS 4Q477|4Q477]] 4QRebukes Reported by the Overseer
+- [[DSS 4Q478|4Q478]] 4QpapFragment Mentioning Festivals
+- [[DSS 4Q479|4Q479]] 4QText Mentioning Descendants of David
+- [[DSS 4Q480|4Q480]] 4QNarrative F
+- [[DSS 4Q481|4Q481]] 4QText Mentioning Mixed Kinds
+- [[DSS 4Q481a|4Q481a]] 4QApocryph on of Elisha
+- [[DSS 4Q481b|4Q481b]] 4QNarrative G
+- [[DSS 4Q481c|4Q481c]] 4QPrayer for Mercy
+- [[DSS 4Q481d|4Q481d]] 4QFragments with Red Ink
+- [[DSS 4Q481e|4Q481e]] 4QNarrative H
+- [[DSS 4Q481f|4Q481f]] 4QUnclassified Fragments
+- [[DSS 4Q482|4Q482]] 4QJubilees (?)
+- [[DSS 4Q483|4Q483]] 4QGen esis or Jubilees (?)
+- [[DSS 4Q484|4Q484]] 4QTestament of Judah (?)
+- [[DSS 4Q485|4Q485]] 4QProphecy
+- [[DSS 4Q486|4Q486]] 4QSapiential Work A?
+- [[DSS 4Q487|4Q487]] 4QSapiential Work B?
+- [[DSS 4Q488|4Q488]] 4QApocryphon
+- [[DSS 4Q489|4Q489]] 4QApocalypse ar (?)
+- [[DSS 4Q490|4Q490]] 4QFragments belonging to 4Q489 (?)
+- [[DSS 4Q491|4Q491]] 4QWar Scrolla
+- [[DSS 4Q491c|4Q491c]] 4QSelf-Glorification Hymnb (= 4Q491 fragments 11 and 12)
+- [[DSS 4Q492|4Q492]] 4QWar Scrollb
+- [[DSS 4Q493|4Q493]] 4QWar Scrollc
+- [[DSS 4Q494|4Q494]] 4QWar Scrolld
+- [[DSS 4Q495|4Q495]] 4QWar Scrolle
+- [[DSS 4Q496|4Q496]] 4QWar Scrollf
+- [[DSS 4Q497|4Q497]] 4QWar Scroll-like Text A
+- [[DSS 4Q498|4Q498]] 4QHymnic or Sapiential Fragments
+- [[DSS 4Q499|4Q499]] 4QPrayer of Enoshb (?)
+- [[DSS 4Q500|4Q500]] 4QBenediction
+- [[DSS 4Q501|4Q501]] 4QApocryphal Lamentations B
+- [[DSS 4Q502|4Q502]] 4QRitual of Marriage
+- [[DSS 4Q503|4Q503]] 4QDaily Prayersa
+- [[DSS 4Q504|4Q504]] 4QWords of the Luminariesa
+- [[DSS 4Q505|4Q505]] 4QWords of the Luminariesb?
+- [[DSS 4Q506|4Q506]] 4QWords of the Luminariesc
+- [[DSS 4Q507|4Q507]] 4QFestival Prayersa (?)
+- [[DSS 4Q508|4Q508]] 4QFestival Prayersb
+- [[DSS 4Q509+4Q505|4Q509+4Q505]] 4QFes tival Prayersc
+- [[DSS 4Q510|4Q510]] 4QSongs of the Sagea
+- [[DSS 4Q511|4Q511]] 4QSongs of the Sageb
+- [[DSS 4Q513|4Q513]] 4QOrdinancesb
+- [[DSS 4Q514|4Q514]] 4QOrdinancesc
+- [[DSS 4Q515-520|4Q515-520]] 4QUnclassified papyrus fragments
+- [[DSS 4Q521|4Q521]] 4QMessianic Apocalypse
+- [[DSS 4Q522|4Q522]] 4QProphecy of Joshua
+- [[DSS 4Q523|4Q523]] 4QJonathan
+- [[DSS 4Q524|4Q524]] 4QTemple Scroll
+- [[DSS 4Q525|4Q525]] 4QBeatitudes
+- [[DSS 4Q526|4Q526]] 4QTestament?
+- [[DSS 4Q527|4Q527]] 4QLiturgical Work D?
+- [[DSS 4Q528|4Q528]] 4QHymnic or Sapiential Work B
+- [[DSS 4Q529|4Q529]] 4QWords of Michael ar
+- [[DSS 4Q530|4Q530]] 4QBook of Giantsb
+- [[DSS 4Q531|4Q531]] 4QBook of Giantsc
+- [[DSS 4Q532|4Q532]] 4QBook of Giantsd
+- [[DSS 4Q533|4Q533]] 4QGiants or Pseudo-Enoch ar
+- [[DSS 4Q534|4Q534]] 4QNoah ar
+- [[DSS 4Q535|4Q535]] 4QAramaic N
+- [[DSS 4Q536|4Q536]] 4QAramaic C
+- [[DSS 4Q537|4Q537]] ar) 4QTestament of Jacob(?) ar
+- [[DSS 4Q538|4Q538]] 4QTestament of Judah ar
+- [[DSS 4Q539|4Q539]] 4QApoc ryphon of Joseph B ar
+- [[DSS 4Q540|4Q540]] 4QApocry phon of Levia ar
+- [[DSS 4Q541|4Q541]] 4QApocry phon of Levib (?) ar
+- [[DSS 4Q542|4Q542]] 4QTestament of Qahat ar
+- [[DSS 4Q543|4Q543]] 4QVisions of Amrama ar
+- [[DSS 4Q544|4Q544]] 4QVisions of Amramb ar
+- [[DSS 4Q545|4Q545]] 4QVisions of Amramc ar
+- [[DSS 4Q546|4Q546]] 4QVisions of Amramd ar
+- [[DSS 4Q547|4Q547]] 4QVisions of Amrame ar
+- [[DSS 4Q548|4Q548]] 4QVisions of Amramf? ar
+- [[DSS 4Q549|4Q549]] Work Mentioning Hur and Miriam ar
+- [[DSS 4Q550|4Q550]] 4QProto Esthera ar
+- [[DSS 4Q550a|4Q550a]] 4QProto Estherb ar
+- [[DSS 4Q550b|4Q550b]] 4QProto Estherc ar
+- [[DSS 4Q550c|4Q550c]] 4QProto Estherd ar
+- [[DSS 4Q550d|4Q550d]] 4QProto Esthere ar
+- [[DSS 4Q551|4Q551]] 4QDaniel Suzanna (?) ar
+- [[DSS 4Q552|4Q552]] 4QFour Kingdomsa ar
+- [[DSS 4Q553|4Q553]] 4QFour Kingdomsb ar
+- [[DSS 4Q554|4Q554]] 4QNew Jerusalema ar
+- [[DSS 4Q554a|4Q554a]] 4QNew Jerusalemb ar
+- [[DSS 4Q555|4Q555]] 4QNew Jerusalemc ar
+- [[DSS 4Q556|4Q556]] 4QBook of Giantse
+- [[DSS 4Q557|4Q557]] 4QVisionc ar
+- [[DSS 4Q558|4Q558]] 4QVisionb ar
+- [[DSS 4Q559|4Q559]] 4QBiblical Chronology
+- [[DSS 4Q560|4Q560]] 4QExorcism ar
+- [[DSS 4Q561|4Q561]] 4QPhysiognomy/ Horoscope ar
+- [[DSS 4Q562|4Q562]] 4QAramaic D
+- [[DSS 4Q563|4Q563]] 4QAramaic E
+- [[DSS 4Q564|4Q564]] 4QAramaic F
+- [[DSS 4Q565|4Q565]] 4QAramaic G
+- [[DSS 4Q566|4Q566]] 4QAramaic H
+- [[DSS 4Q567|4Q567]] 4QAramaic I
+- [[DSS 4Q568|4Q568]] 4QAramaic K
+- [[DSS 4Q569|4Q569]] 4QAramaic L
+- [[DSS 4Q570|4Q570]] 4QAramaic R
+- [[DSS 4Q571|4Q571]] 4QAramaic V
+- [[DSS 4Q572|4Q572]] 4QAramaic W
+- [[DSS 4Q573|4Q573]] 4QAramaic X
+- [[DSS 4Q574|4Q574]] 4QAramaic Y
+- [[DSS 4Q575|4Q575]] 4QAramaic Z
+- [[DSS 4Q576|4Q576]] 4QGenesisn 244,
+- [[DSS 4Q577|4Q577]] 4QText Mentioning the Flood
+- [[DSS 4Q579|4Q579]] 4QHymnic Work(?)
+
+## Cave 5
+
+- [[DSS 5Q1|5Q1]] 5QDeuteronomy
+- [[DSS 5Q2|5Q2]] 5QKings
+- [[DSS 5Q3|5Q3]] 5QIsaiah
+- [[DSS 5Q4|5Q4]] 5QAmos
+- [[DSS 5Q5|5Q5]] 5QPsalms
+- [[DSS 5Q6|5Q6]] 5QLamentationsa
+- [[DSS 5Q7|5Q7]] 5QLamentationsb
+- [[DSS 5Q8|5Q8]] 5QPhylactery
+- [[DSS 5Q9|5Q9]] 5QApocryphon of Joshua
+- [[DSS 5Q10|5Q10]] 5QMalachi Pesher
+- [[DSS 5Q11|5Q11]] 5QRule of the Community
+- [[DSS 5Q12|5Q12]] 5QDamascus Document
+- [[DSS 5Q13|5Q13]] 5QRule
+- [[DSS 5Q14|5Q14]] 5QCurses
+- [[DSS 5Q15|5Q15]] 5QNew Jerusalem ar
+- [[DSS 5Q16|5Q16]] 5QUnclassiﬁed fragments
+- [[DSS 5Q17|5Q17]] 5QUnclassiﬁed fragments
+- [[DSS 5Q18|5Q18]] 5QUnclassiﬁed fragments
+- [[DSS 5Q19|5Q19]] 5QUnclassiﬁed fragments
+- [[DSS 5Q20|5Q20]] 5QUnclassiﬁed fragments
+- [[DSS 5Q21-25|5Q21-25]] 5QUnclassiﬁed fragments
+
+## Cave 6
+
+- [[DSS 6Q1|6Q1]] 6QGenesis
+- [[DSS 6Q2|6Q2]] 6QLeviticus
+- [[DSS 6Q3|6Q3]] 6QDeuteronomy (?)
+- [[DSS 6Q4|6Q4]] 6QKings
+- [[DSS 6Q5|6Q5]] 6QPsalm 78 (?)
+- [[DSS 6Q6|6Q6]] 6QCanticles
+- [[DSS 6Q7|6Q7]] 6QDaniel
+- [[DSS 6Q8|6Q8]] 6QGiants ar
+- [[DSS 6Q9|6Q9]] 6QApo cryphon on Samuel-Kings
+- [[DSS 6Q10|6Q10]] 6QProphecy
+- [[DSS 6Q11|6Q11]] 6QAllegory of the Vine
+- [[DSS 6Q12|6Q12]] 6QApocryphal Prophecy
+- [[DSS 6Q13|6Q13]] 6QPriestly Prophecy
+- [[DSS 6Q14|6Q14]] 6QApocalypse ar
+- [[DSS 6Q15|6Q15]] 6QDamascus Document
+- [[DSS 6Q16|6Q16]] 6QBenediction
+- [[DSS 6Q17|6Q17]] 6QCal endrical Document
+- [[DSS 6Q18|6Q18]] 6QHymn
+- [[DSS 6Q19|6Q19]] 6QGenesis (?) ar
+- [[DSS 6Q20|6Q20]] 6QDeuteronomy (?)
+- [[DSS 6Q21|6Q21]] 6QProphetic Text?
+- [[DSS 6Q22|6Q22]] 6QpapUnclassiﬁed fragments
+- [[DSS 6Q23|6Q23]] 6QpapUnclassiﬁed fragments ar
+- [[DSS 6Q24-25|6Q24-25]] 6QpapUnclassiﬁed fragments
+- [[DSS 6Q26|6Q26]] 6Qpap accounts or contracts
+- [[DSS 6Q27-30|6Q27-30]] 6QpapCursive Unclassiﬁed fragments
+- [[DSS 6Q31|6Q31]] 6QpapUnclassiﬁed fragments
+
+## Cave 7
+
+- [[DSS 7Q1|7Q1]] 7QSeptuagint Exo dus
+- [[DSS 7Q2|7Q2]] 7QEpistle of Jere miah
+- [[DSS 7Q4|7Q4]] 8, 11-14 (7QpapEn gr) 7QEnoch
+- [[DSS 7Q3|7Q3]] 5-7, 9-10, 15-18 7QUnclassiﬁed fragments
+- [[DSS 7Q19|7Q19]] 7QPapyrus Imprint
+
+## Cave 8
+
+- [[DSS 8Q1|8Q1]] 8QGenesis
+- [[DSS 8Q2|8Q2]] 8QPsalms
+- [[DSS 8Q3|8Q3]] 8QPhylactery
+- [[DSS 8Q4|8Q4]] 8QMezuzah
+- [[DSS 8Q5|8Q5]] 8QHymn
+
+## Cave 9
+
+- [[DSS 9Q|9Q]] 9Qpap Unclassiﬁed Fragment
+
+## Cave 11
+
+- [[DSS 11Q1|11Q1]] 11QLeviticusa
+- [[DSS 11Q2|11Q2]] 11QLeviticusa
+- [[DSS 11Q3|11Q3]] 11QDeuteronomy
+- [[DSS 11Q4|11Q4]] 11QEzekiel
+- [[DSS 11Q5|11Q5]] 11QPsalmsa
+- [[DSS 11Q6|11Q6]] 11QPsalmsb
+- [[DSS 11Q7|11Q7]] 11QPsalmsc
+- [[DSS 11Q8|11Q8]] 11QPsalmsd
+- [[DSS 11Q9|11Q9]] 11QPsalmse?
+- [[DSS 11Q10|11Q10]] 11QTargum of Job
+- [[DSS 11Q11|11Q11]] 11QApocryphal Psalms
+- [[DSS 11Q12|11Q12]] 11QJubilees
+- [[DSS 11Q13|11Q13]] 11QMelchizedek
+- [[DSS 11Q14|11Q14]] 11QSefer ha Milh≥amah
+- [[DSS 11Q15|11Q15]] 11QHymnsa
+- [[DSS 11Q16|11Q16]] 11QHymnsb
+- [[DSS 11Q17|11Q17]] 11QSongs of the Sabbath Sacriﬁce
+- [[DSS 11Q18|11Q18]] 11QNew Jerusalem
+- [[DSS 11Q19|11Q19]] 11QTemplea
+- [[DSS 11Q20|11Q20]] 11QTempleb
+- [[DSS 11Q21|11Q21]] 11QTemplec?
+- [[DSS 11Q22|11Q22]] 11QpaleoUniden tiﬁed Text
+- [[DSS 11Q23|11Q23]] 11QcryptA Unidentiﬁed Text
+- [[DSS 11Q24|11Q24]] 11QUnidentiﬁed Text ar
+- [[DSS 11Q25|11Q25]] 11QUnidentiﬁed Text A
+- [[DSS 11Q26|11Q26]] 11QUnidentiﬁed Text B
+- [[DSS 11Q27|11Q27]] 11QUnidentiﬁed Text C
+- [[DSS 11Q28|11Q28]] 11QUnidenti ﬁed Text D
+- [[DSS 11Q29|11Q29]] 11QFragment Related to Serekh ha-Yah≥ad
+- [[DSS 11Q30|11Q30]] 11QUnclassiﬁed Fragments
+- [[DSS 11Q31|11Q31]] 11QUnidentiﬁed Wads
+
+## Cairo Genizah
+
+- [[DSS CTL|CTL]] Cairo Geniza Testa ment of Levi
+- [[DSS CD-A|CD-A]] Damascus Documenta
+- [[DSS CD-B|CD-B]] Damascus Documentb
+
+## Other
+
+- [[DSS Mas1k|Mas1k]] Masada Songs of the Sabbath Sacrifice

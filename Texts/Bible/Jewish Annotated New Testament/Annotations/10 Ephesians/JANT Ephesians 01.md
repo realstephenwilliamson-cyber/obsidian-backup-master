@@ -24,7 +24,7 @@ Text: [[NRSVue Ephesians 01|NRSVue]] · [[Ephesians 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 01#^1-3|3]]:** *Blessed be*, reminiscent of the opening of blessing formulas used in the Tanakh (e.g., [[Torah 05 - Chayei Sara#^24-27|Gen 24.27]]); this formula, appearing more frequent in late Hebrew Bible texts and the Dead Sea Scrolls, became the standard opening formula in rabbinic blessings; see *m. Ber*. 6,9. *Spiritual blessing*, probably the blessing of “the seal of the promised Holy Spirit” (1.13). *Heavenly places*, Gk “ta epourania,” appears nowhere else in the NT. It refers to the unseen realm where God resides (1.20; 2.6). ^1-3-2
 
-**[[NRSVue Ephesians 01#^1-4|4]]:** *Chose us . . . before the foundation of the world*, hints at predestination, the divine determination of the future, especially with regard to salvation; biblical and rabbinic texts highlight the importance of certain objects by claiming that they predate creation (see [[Proverbs 08#^8-22|Prov 8.22]]**–**31, *Gen. Rab*. 1.1). *Blameless* . . . *in love*, and not on account of our works. ^1-4
+**[[NRSVue Ephesians 01#^1-4|4]]:** *Chose us . . . before the foundation of the world*, hints at predestination, the divine determination of the future, especially with regard to salvation; biblical and rabbinic texts highlight the importance of certain objects by claiming that they predate creation (see [[Proverbs 08#^8-22|Prov 8.22]]**–**31, *Gen. Rab*. [1.1](https://www.sefaria.org/Bereshit_Rabbah.1.1)). *Blameless* . . . *in love*, and not on account of our works. ^1-4
 
 **[[NRSVue Ephesians 01#^1-5|5]]:** *Adoption as his children*, divinely chosen inheritance replaces biological descent. ^1-5
 

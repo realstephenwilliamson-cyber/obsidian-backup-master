@@ -56,7 +56,7 @@ Text: [[NRSVue Matthew 22|NRSVue]] · [[Matthew 22|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 22#^22-25|25]]:** *Leaving the widow to his brother*, see [[JANT Matthew 01#^1-3|1.3n.]]; [[Torah 09 - Vayeshev#^38-8|Gen. 38.8]]; [[Torah 49 - Ki Teitzei#^25-5|Deut 25.5–10]]; *no resurrection* Josephus, *Ant*. 4.254–56; *m. Yebam.* 2.2. ^22-25
 
-**[[NRSVue Matthew 22#^22-28|28–30]]:** *Whose wife of the seven will she be,* the Sadducees attempt to point out the ridiculousness of bodily resurrection (see *2 Bar.* 51.10–11; *1 En*. 39.5; 69.11; *b. Ber*. [[Berakhot 17#17a|17a]]); Josephus, *J.W.* 3.374 states that the righteous dead in the world to come “dwell in chaste bodies.” ^22-28
+**[[NRSVue Matthew 22#^22-28|28–30]]:** *Whose wife of the seven will she be,* the Sadducees attempt to point out the ridiculousness of bodily resurrection (see *2 Bar.* 51.10–11; *1 En*. [[1 Enoch 039#^39-5|39.5]]; [[1 Enoch 069#^69-11|69.11]]; *b. Ber*. [[Berakhot 17#17a|17a]]); Josephus, *J.W.* 3.374 states that the righteous dead in the world to come “dwell in chaste bodies.” ^22-28
 
 **[[NRSVue Matthew 22#^22-32|32]]:** *God of Abraham . . . Jacob*, the Torah emphasizes the eternal nature of God’s relationship with Israel ([[Torah 13 - Shemot#^3-6|Ex 3.6]],[[Torah 13 - Shemot#^3-15|15–16]]; [[I Chronicles 29#^29-18|1 Chr 29.18]]; [[II Chronicles 30#^30-6|2 Chr 30.6]]; see also *2 En*. 22.3–14; 62.15–16; [[LXX 2 Maccabees 07#^7-9|2 Macc 7.9]],[[LXX 2 Maccabees 07#^7-36|36]]). ^22-32
 

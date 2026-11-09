@@ -36,7 +36,7 @@ Text: [[NRSVue Mark 09|NRSVue]] · [[Mark 09|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 09#^9-18|18]]:** At 6.7,13, the disciples were given the power to heal, but 6.5–6 also suggests that Jesus’ powers faltered as a result of people’s lack of faith. Here it is the disciples who are unable to heal someone. ^9-18
 
-**[[NRSVue Mark 09#^9-19|19]]:** Despairing over this *generation* (see [[JANT Mark 08#^8-38|8.38n.]]), Jesus lumps together both followers and others (cf. [[Torah 44 - Devarim#^1-34|Deut 1.34–40]]; [[Isaiah 44#^44-22|Isa 44.22]]; Ezek 10–11; 43–44; [[Zechariah 13#^13-1|Zech 13.1–2]]; [[Zechariah 14#^14-20|14.20–21]]; 1QS 9.4, *Gen. Rab.* 30.1). ^9-19
+**[[NRSVue Mark 09#^9-19|19]]:** Despairing over this *generation* (see [[JANT Mark 08#^8-38|8.38n.]]), Jesus lumps together both followers and others (cf. [[Torah 44 - Devarim#^1-34|Deut 1.34–40]]; [[Isaiah 44#^44-22|Isa 44.22]]; Ezek 10–11; 43–44; [[Zechariah 13#^13-1|Zech 13.1–2]]; [[Zechariah 14#^14-20|14.20–21]]; 1QS [[DSS 1QS#^9-4|9.4]], *Gen. Rab.* [30.1](https://www.sefaria.org/Bereshit_Rabbah.30.1)). ^9-19
 
 **[[NRSVue Mark 09#^9-20|20]]:** *The spirit*, see notes at 1.21–45; 2.1–12; 5.1–20. ^9-20
 

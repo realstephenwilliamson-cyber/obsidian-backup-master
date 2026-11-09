@@ -18,7 +18,7 @@ Text: [[NRSVue Matthew 09|NRSVue]] · [[Matthew 09|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 09#^9-1|1]]:** *His own town*, Capernaum (see [[Matthew 04#^4-13|4.13]]; [[Matthew 08#^8-5|8.5]]). ^9-1-2
 
-**[[NRSVue Matthew 09#^9-2|2]]:** *Sins are forgiven*, some sources connect sickness to sinfulness ([[Psalms 103#^103-3|Ps 103.3]]; 4Q510; 1QS 3.20–24; *m. Avot* [[Pirkei Avot 02#^2-7|2.7]]; *t. Ber*. 6.3). ^9-2
+**[[NRSVue Matthew 09#^9-2|2]]:** *Sins are forgiven*, some sources connect sickness to sinfulness ([[Psalms 103#^103-3|Ps 103.3]]; 4Q510; 1QS [[DSS 1QS#^3-20|3.20–24]]; *m. Avot* [[Pirkei Avot 02#^2-7|2.7]]; *t. Ber*. 6.3). ^9-2
 
 **[[NRSVue Matthew 09#^9-3|3]]:** *Blaspheming*, profaning God’s name; there is no indication that Jesus has blasphemed, according to Jewish legal standards. The authority to forgive sins belongs to God ([[Torah 21 - Ki Tisa#^34-7|Ex 34.7]]; [[Torah 37 - Sh'lach#^14-37|Num 14.37]]; [[II Samuel 12#^12-13|2 Sam 12.13]]; [[Isaiah 06#^6-7|Isa 6.7]]; [[Isaiah 43#^43-25|43.25]]; [[Isaiah 44#^44-22|44.22]]; [[Daniel 09#^9-9|Dan 9.9]]), but others can speak on God’s behalf. ^9-3
 
@@ -66,7 +66,7 @@ Text: [[NRSVue Matthew 09|NRSVue]] · [[Matthew 09|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 09#^9-27|Text]], p. 28* · ([[Mark 10#^10-46|Mk 10.46–52]]; [[Luke 18#^18-35|Lk 18.35–43]]). ^9-27
 
-**[[NRSVue Matthew 09#^9-27|27]]:** *Two blind men*, see 20.29–34. Blindness often symbolizes religious or spiritual lacking (see [[Torah 31 - Emor#^21-20|Lev 21.20]]; see also 11QSTemple 45.12–14, where the blind are not allowed to enter Jerusalem). *Son of David*, see [[Matthew 12#^12-23|12.23]]; [[Matthew 15#^15-22|15.22]]; [[Matthew 17#^17-15|17.15]]; [[Matthew 20#^20-30|20.30]]; [[Matthew 21#^21-9|21.9]]; *T. Sol*. 20.1. The title can suggest King Solomon (1.6), known for his healing powers. ^9-27-2
+**[[NRSVue Matthew 09#^9-27|27]]:** *Two blind men*, see 20.29–34. Blindness often symbolizes religious or spiritual lacking (see [[Torah 31 - Emor#^21-20|Lev 21.20]]; see also 11QSTemple [[DSS 11Q19#^45-12|45.12–14]], where the blind are not allowed to enter Jerusalem). *Son of David*, see [[Matthew 12#^12-23|12.23]]; [[Matthew 15#^15-22|15.22]]; [[Matthew 17#^17-15|17.15]]; [[Matthew 20#^20-30|20.30]]; [[Matthew 21#^21-9|21.9]]; *T. Sol*. 20.1. The title can suggest King Solomon (1.6), known for his healing powers. ^9-27-2
 
 **[[NRSVue Matthew 09#^9-29|29]]:** *According to your faith*, see [[JANT Matthew 08#^8-10|8.10n.]]; 15.28. ^9-29
 

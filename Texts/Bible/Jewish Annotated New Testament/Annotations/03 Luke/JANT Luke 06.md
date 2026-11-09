@@ -70,7 +70,7 @@ Text: [[NRSVue Luke 06|NRSVue]] · [[Luke 06|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 06#^6-24|Text]], p. 125* ^6-24
 
-**[[NRSVue Luke 06#^6-24|24]]:** Luke descries the *rich* who refuse to give alms ([[JANT Luke 06#^6-30|6.30n.]]) and encourages extreme generosity (11.41; 12.13–21,33–34; 16.13,19–31; 18.18–30; see also *1 En*. 94.8 \[*“*Woe to you rich, for you have trusted in your riches, and from your riches you shall depart, because you have not remembered the Most High in the days of your riches”\]); the condemnation of wealth is stronger in this Gospel than in, e.g., [[1 Timothy 06#^6-10|1 Tim 6.10]] and [[Hebrews 13#^13-5|Heb 13.5]] (where the issue is “love of money”; see also, e.g., [[Habakkuk 2#^2-5|Hab 2.5]]). See [[JANT Luke 06#^6-30|6.30n.]] ^6-24-2
+**[[NRSVue Luke 06#^6-24|24]]:** Luke descries the *rich* who refuse to give alms ([[JANT Luke 06#^6-30|6.30n.]]) and encourages extreme generosity (11.41; 12.13–21,33–34; 16.13,19–31; 18.18–30; see also *1 En*. [[1 Enoch 094#^94-8|94.8]] \[*“*Woe to you rich, for you have trusted in your riches, and from your riches you shall depart, because you have not remembered the Most High in the days of your riches”\]); the condemnation of wealth is stronger in this Gospel than in, e.g., [[1 Timothy 06#^6-10|1 Tim 6.10]] and [[Hebrews 13#^13-5|Heb 13.5]] (where the issue is “love of money”; see also, e.g., [[Habakkuk 2#^2-5|Hab 2.5]]). See [[JANT Luke 06#^6-30|6.30n.]] ^6-24-2
 
 ### 6.27–36: Avoiding violence
 

@@ -42,7 +42,7 @@ Text: [[NRSVue Revelation 17|NRSVue]] · [[Revelation 17|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 17#^17-11|11]]:** *Was and is not*, see v 8. ^17-11
 
-**[[NRSVue Revelation 17#^17-14|14]]:** Roman history culminates in eschatological *war* against the Lamb, here given traditional messianic titles, and his followers (*1 En*. 9.4; see [[Revelation 19#^19-16|Rev 19.16]]). This eschatological war does not necessarily replicate that in 16.14–16. ^17-14
+**[[NRSVue Revelation 17#^17-14|14]]:** Roman history culminates in eschatological *war* against the Lamb, here given traditional messianic titles, and his followers (*1 En*. [[1 Enoch 009#^9-4|9.4]]; see [[Revelation 19#^19-16|Rev 19.16]]). This eschatological war does not necessarily replicate that in 16.14–16. ^17-14
 
 **[[NRSVue Revelation 17#^17-16|16–17]]:** As with Ezekiel’s naked figures Oholah and Oholibah, vengeance on the *whore* is performed by her lovers, who strip her *naked* (cf. [[Ezekiel 23#^23-10|Ezek 23.10]],[[Ezekiel 23#^23-25|25–26]],[[Ezekiel 23#^23-29|29]]) in order to condemn the sexually alluring body. Rather than being stabbed or stoned (see [[Ezekiel 23#^23-10|Ezek 23.10]],[[Ezekiel 23#^23-47|47]]), this *whore* is devoured and burned (the punishment for sexual crimes \[[[Torah 09 - Vayeshev#^38-24|Gen 38.24]]; [[Torah 31 - Emor#^21-9|Lev 21.9]]\]). ^17-16
 

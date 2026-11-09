@@ -45,7 +45,7 @@ Text: [[NRSVue Mark 14|NRSVue]] · [[Mark 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 14#^14-24|24]]:** The *covenant* is ratified by Jesus’ blood just as Moses ratified the Sinai covenant with blood ([[Torah 18 - Mishpatim#^24-1|Ex 24.1–8]]; [[Zechariah 09#^9-11|Zech 9.11]]). Despite the use of “new covenant” at [[1 Corinthians 11#^11-25|1 Cor 11.25]] and [[Hebrews 08#^8-13|Heb 8.13]] (both alluding to [[Jeremiah 31#^31-31|Jer 31.31]]), Mark’s language (and likely Paul’s as well) suggests a concern with the present covenant, not a new or different covenant. Translator’s note *c* reflects the addition of “new” by later scribes. *For many*, see [[Isaiah 53#^53-11|Isa 53.11]] and “Jesus Dying as a Ransom.” p. 90. [[Matthew 26#^26-28|Matthew 26.28]] explicitly adds “for the forgiveness of sins” (cf. [[1 Corinthians 15#^15-3|1 Cor 15.3]]; [[Hebrews 09#^9-11|Heb 9.11–22]]; [[1 Peter 01#^1-18|1 Pet 1.18–19]]). ^14-24
 
-**[[NRSVue Mark 14#^14-25|25]]:** On the messiah’s future banquet, cf. [[Isaiah 25#^25-6|Isa 25.6]] and the DSS 1QM 2.11–22; cf. *1 En.* 10.18–19; *m. Avot* [[Pirkei Avot 03#^3-16|3.16–17]]; *Num. Rab.* 13.2. ^14-25
+**[[NRSVue Mark 14#^14-25|25]]:** On the messiah’s future banquet, cf. [[Isaiah 25#^25-6|Isa 25.6]] and the DSS 1QM [[DSS 1QM#^2-11|2.11–22]]; cf. *1 En.* [[1 Enoch 010#^10-18|10.18–19]]; *m. Avot* [[Pirkei Avot 03#^3-16|3.16–17]]; *Num. Rab.* [13.2](https://www.sefaria.org/Bamidbar_Rabbah.13.2). ^14-25
 
 ### 14.26–31: Peter’s denial prophesied
 

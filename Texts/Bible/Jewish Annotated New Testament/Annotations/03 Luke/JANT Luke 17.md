@@ -20,7 +20,7 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 17#^17-2|2]]:** *Millstone*, ca. 12–18 in (30–40 cm) in diameter and 2–4 in. (5–10 cm) thick, for grinding grain. *Little ones*, disciples. ^17-2
 
-**[[NRSVue Luke 17#^17-3|3]]:** *Rebuke the offender*, see [[Luke 03#^3-19|3.19–20]], [[Luke 03#^3-1|1]]QS 5.24–6.1 (“They shall rebuke one another in truth, humility, and charity . . .”); cf. CD 7.2–3; and cf. rabbinic injunctions to “tokheiḥah,” “rebuke” (e.g., [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; *Gen. Rab*. 54.3 \[R. Yose bar Hanina said: “Any love unaccompanied by criticism is no love at all”\]; *Sifra* 89a–89b). ^17-3
+**[[NRSVue Luke 17#^17-3|3]]:** *Rebuke the offender*, see [[Luke 03#^3-19|3.19–20]], [[Luke 03#^3-1|1]]QS 5.24–6.1 (“They shall rebuke one another in truth, humility, and charity . . .”); cf. CD [[DSS CD-A#^7-2|7.2–3]]; and cf. rabbinic injunctions to “tokheiḥah,” “rebuke” (e.g., [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; *Gen. Rab*. [54.3](https://www.sefaria.org/Bereshit_Rabbah.54.3) \[R. Yose bar Hanina said: “Any love unaccompanied by criticism is no love at all”\]; *Sifra* 89a–89b). ^17-3
 
 **[[NRSVue Luke 17#^17-3|3–4]]:** *Must forgive*, see [[Matthew 18#^18-15|Mt 18.15]],[[Matthew 18#^18-21|21–22]]. ^17-3-2
 
@@ -70,7 +70,7 @@ Text: [[NRSVue Luke 17|NRSVue]] · [[Luke 17|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 17#^17-25|25]]:** *Endure much suffering*, see 9.22. ^17-25
 
-**[[NRSVue Luke 17#^17-26|26–27]]:** *Noah*, see Gen 6–7. Rabbinic Judaism insists that Noah continually warned the people of the flood, from the time he planted the cedar trees for the wood with which to build the ark (see e.g., *b. Sanh*. [[Sanhedrin 108#108a|108a]]/b; *Pirqe R. El.* 22; *Gen. Rab*. 30.7; *Lev. Rab*. 27.5). ^17-26
+**[[NRSVue Luke 17#^17-26|26–27]]:** *Noah*, see Gen 6–7. Rabbinic Judaism insists that Noah continually warned the people of the flood, from the time he planted the cedar trees for the wood with which to build the ark (see e.g., *b. Sanh*. [[Sanhedrin 108#108a|108a]]/b; *Pirqe R. El.* 22; *Gen. Rab*. [30.7](https://www.sefaria.org/Bereshit_Rabbah.30.7); *Lev. Rab*. [27.5](https://www.sefaria.org/Vayikra_Rabbah.27.5)). ^17-26
 
 **[[NRSVue Luke 17#^17-28|28–29]]:** *Lot*, see [[Torah 04 - Vayera#^18-16|Gen 18.16–19.28]]. ^17-28
 

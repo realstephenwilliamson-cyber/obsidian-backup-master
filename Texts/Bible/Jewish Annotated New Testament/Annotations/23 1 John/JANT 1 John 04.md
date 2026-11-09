@@ -18,7 +18,7 @@ Text: [[NRSVue 1 John 04|NRSVue]] · [[1 John 04|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue 1 John 04#^4-5|5]]:** *From the world*, the sphere of opposition to God; see [[JANT 1 John 02#^2-15|2.15n.]] ^4-5
 
-**[[NRSVue 1 John 04#^4-6|6]]:** *Spirit of truth . . . error*, the Holy Spirit contrasted with the spirit of the world or the devil (3.10). The DSS refer to two competing spirits: the “spirit of truth,” is associated with light, truth, and righteousness; the “spirit of deceit” or “Belial” (lit., “of no worth”) is associated with darkness, sin, and evil (1QS 3.17–21; 4.7–25). ^4-6
+**[[NRSVue 1 John 04#^4-6|6]]:** *Spirit of truth . . . error*, the Holy Spirit contrasted with the spirit of the world or the devil (3.10). The DSS refer to two competing spirits: the “spirit of truth,” is associated with light, truth, and righteousness; the “spirit of deceit” or “Belial” (lit., “of no worth”) is associated with darkness, sin, and evil (1QS [[DSS 1QS#^3-17|3.17–21]]; [[DSS 1QS#^4-7|4.7–25]]). ^4-6
 
 **[[NRSVue 1 John 04#^4-7|7–12]]:** *Let us love one another*, see 3.11. The love that community members have for (Gk *dissolves Jesus*) each other is participation in God’s love, shown when *God sent his only Son . . . to be the atoning sacrifice* (see [[JANT 1 John 02#^2-1|2.2n.]]). ^4-7
 

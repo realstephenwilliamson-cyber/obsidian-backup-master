@@ -66,7 +66,7 @@ Text: [[NRSVue Hebrews 09|NRSVue]] · [[Hebrews 09|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 09#^9-25|25–26]]:** See [[JANT Hebrews 10#^10-1-2|10.1–18n.]] ^9-25
 
-**[[NRSVue Hebrews 09#^9-27|27]]:** *Judgment*, views of a collective judgment at the end of time were and *will* b Other ancient authorities lack *and goats* c Or *tabernacle* common among Jews of antiquity; see [[Revelation 20#^20-12|Rev 20.12]]; *Jub.* 5.10; 23.11; *1 En.* 10.4–16; *Mek.* “Beshallah” 4; *Mek.* “Shirah” 6. In the Mishnah, God judges people annually at the new year festival of Rosh Ha-Shanah (*m. Rosh Ha-Shanah* 1.2). ^9-27
+**[[NRSVue Hebrews 09#^9-27|27]]:** *Judgment*, views of a collective judgment at the end of time were and *will* b Other ancient authorities lack *and goats* c Or *tabernacle* common among Jews of antiquity; see [[Revelation 20#^20-12|Rev 20.12]]; *Jub.* 5.10; 23.11; *1 En.* [[1 Enoch 010#^10-4|10.4–16]]; *Mek.* “Beshallah” 4; *Mek.* “Shirah” 6. In the Mishnah, God judges people annually at the new year festival of Rosh Ha-Shanah (*m. Rosh Ha-Shanah* 1.2). ^9-27
 
 **[[NRSVue Hebrews 09#^9-28|28]]:** *Bear the sins of many* is from [[Isaiah 53#^53-12|Isa 53.12]], concerning the suffering servant; it is alluded to in [[Mark 10#^10-45|Mk 10.45]], and a different portion of the passage is quoted in [[Acts 08#^8-32|Acts 8.32–35]]. *Second time*, see [[Mark 13#^13-24|Mk 13.24–27]]; [[1 Thessalonians 03#^3-13|1 Thess 3.13]]; [[1 Thessalonians 04#^4-13|4.13–17]]. Jewish tradition combines the coming of the Messiah with the messianic age; it requires no “second coming.” *Not to deal with sin*, the crucifixion was a one-time event; Christ’s return does not involve a second sacrifice (see vv 24–26). ^9-28
 

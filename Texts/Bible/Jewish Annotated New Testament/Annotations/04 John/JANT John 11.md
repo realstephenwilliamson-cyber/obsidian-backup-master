@@ -34,7 +34,7 @@ Text: [[NRSVue John 11|NRSVue]] · [[John 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 11#^11-16|16]]:** *Thomas . . . Twin*, while the others read *and believe* c Gk *him* d Gk *he* e Gk *Didymus* other disciples fear for Jesus’ life should he return to Judea, Thomas demonstrates his loyalty and faithfulness by urging that the disciples both respect his decision to go and stand by him even if it means dying. “Thomas” may be a transliteration of the Heb word for twin (“tʾōmâ”). ^11-16
 
-**[[NRSVue John 11#^11-17|17]]:** *Four days*, according to some rabbinic sources (e.g., *Gen. Rab.* 50.10*)* and Zoroastrianism, the spirit hovers near the body for three days. ^11-17
+**[[NRSVue John 11#^11-17|17]]:** *Four days*, according to some rabbinic sources (e.g., *Gen. Rab.* [50.10](https://www.sefaria.org/Bereshit_Rabbah.50.10)*)* and Zoroastrianism, the spirit hovers near the body for three days. ^11-17
 
 **[[NRSVue John 11#^11-19|19]]:** *Many of the Jews . . . to console,* implying a somewhat ritualized mourning observance, though it is unclear whether the formal practice of sitting “shiva” (observing a week of home-based mourning during which time others console mourners) was already in existence. The Jews’ presence here is dissonant with the fear of exclusion from the synagogue ascribed to the parents in 9.22. ^11-19
 

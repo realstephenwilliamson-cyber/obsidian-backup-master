@@ -49,6 +49,6 @@ Text: [[NRSVue Acts 11|NRSVue]] · [[Acts 11|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 11#^11-28|28]]:** *Agabus*, see 21.10. *Famine*, contemporaneous local famines, including in Judea, are known (Josephus, *Ant.* 20.51–53,101), but the hyperbolic “all the world” implicates Rome as the failed ruler. *Claudius*, Roman emperor 41–54 CE. ^11-28
 
-**[[NRSVue Acts 11#^11-30|30]]:** *Elders*, Gk “presbyteroi”; church leaders (14.23; 15.2,4,22,23; 16.4; 20.17; 21.18; [[1 Timothy 04#^4-14|1 Tim 4.14]]; [[1 Timothy 05#^5-17|5.17]],[[1 Timothy 05#^5-19|19]]; [[Titus 01#^1-5|Titus 1.5]]; [[James 05#^5-14|Jas 5.14]]; [[Revelation 04#^4-4|Rev 4.4]]). The title was used in many Jewish communities, including Qumran (1QS 6.8, Heb “zekenim”); although etymologically related to old age, it refers to leaders, since this role was typically held by older men. ^11-30
+**[[NRSVue Acts 11#^11-30|30]]:** *Elders*, Gk “presbyteroi”; church leaders (14.23; 15.2,4,22,23; 16.4; 20.17; 21.18; [[1 Timothy 04#^4-14|1 Tim 4.14]]; [[1 Timothy 05#^5-17|5.17]],[[1 Timothy 05#^5-19|19]]; [[Titus 01#^1-5|Titus 1.5]]; [[James 05#^5-14|Jas 5.14]]; [[Revelation 04#^4-4|Rev 4.4]]). The title was used in many Jewish communities, including Qumran (1QS [[DSS 1QS#^6-8|6.8]], Heb “zekenim”); although etymologically related to old age, it refers to leaders, since this role was typically held by older men. ^11-30
 
 [[JANT Acts 10|← Acts 10]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Acts 12|Acts 12 →]]

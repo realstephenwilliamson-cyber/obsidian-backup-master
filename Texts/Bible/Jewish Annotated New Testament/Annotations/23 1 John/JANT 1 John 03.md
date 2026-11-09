@@ -28,7 +28,7 @@ Text: [[NRSVue 1 John 03|NRSVue]] · [[1 John 03|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue 1 John 03#^3-11|11]]:** *Love one another* (see [[1 John 03#^3-14|3.14]],[[1 John 03#^3-16|16]],[[1 John 03#^3-18|18]]), love is a principle Johannine theme (see [[John 13#^13-34|Jn 13.34–35]]). ^3-11
 
-**[[NRSVue 1 John 03#^3-12|12]]:** *Cain*, the first murderer (Gen 4). Genesis does not explain why God preferred Abel’s offering to that of Cain. Various attempts to explain why Cain murdered Abel are found in Jewish postbiblical traditions. For example, in *Gen. Rab.* 22.7, Cain suggests to Abel that they divide the world between them, with Cain getting all land and Abel getting all chattel; when Abel agrees, Cain accuses him of standing on his land, whereupon Abel points out that Cain is wearing garments of animal skins which belong to him; in the resulting battle, Cain kills Abel. ^3-12
+**[[NRSVue 1 John 03#^3-12|12]]:** *Cain*, the first murderer (Gen 4). Genesis does not explain why God preferred Abel’s offering to that of Cain. Various attempts to explain why Cain murdered Abel are found in Jewish postbiblical traditions. For example, in *Gen. Rab.* [22.7](https://www.sefaria.org/Bereshit_Rabbah.22.7), Cain suggests to Abel that they divide the world between them, with Cain getting all land and Abel getting all chattel; when Abel agrees, Cain accuses him of standing on his land, whereupon Abel points out that Cain is wearing garments of animal skins which belong to him; in the resulting battle, Cain kills Abel. ^3-12
 
 **[[NRSVue 1 John 03#^3-13|13]]:** *World hates you*, see [[John 15#^15-18|Jn 15.18–19]]. ^3-13
 

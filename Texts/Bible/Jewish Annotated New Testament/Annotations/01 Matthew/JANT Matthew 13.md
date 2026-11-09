@@ -18,7 +18,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-1|1–3]]:** Introduction to the parables ([[Mark 04#^4-1|Mk 4.1]]). ^13-1-2
 
-**[[NRSVue Matthew 13#^13-3|3]]:** *Parables*, Gk “parabolē,” meaning “comparison” (cf. Heb “mashal”; see “Midrash and Parables,” p. 707). Parables appear in various forms throughout Jewish literature ([[II Samuel 12#^12-1|2 Sam 12.1–7]]; [[Isaiah 05#^5-1|Isa 5.1–7]]; [[LXX Sirach 01#^1-24|Sir 1.24]]; [[LXX Sirach 03#^3-29|3.29]]; [[LXX Sirach 20#^20-20|20.20]]; [[LXX Sirach 39#^39-2|39.2]]; [[LXX Sirach 47#^47-17|47.17]]; *1 En*. 1.2–3; 37–71; *T. Job* 18.7–8; *m. Sot*. 9.15; *t. Sot.* 5.9; *b. Ber.* [[Berakhot 61#61b|61b]]). ^13-3
+**[[NRSVue Matthew 13#^13-3|3]]:** *Parables*, Gk “parabolē,” meaning “comparison” (cf. Heb “mashal”; see “Midrash and Parables,” p. 707). Parables appear in various forms throughout Jewish literature ([[II Samuel 12#^12-1|2 Sam 12.1–7]]; [[Isaiah 05#^5-1|Isa 5.1–7]]; [[LXX Sirach 01#^1-24|Sir 1.24]]; [[LXX Sirach 03#^3-29|3.29]]; [[LXX Sirach 20#^20-20|20.20]]; [[LXX Sirach 39#^39-2|39.2]]; [[LXX Sirach 47#^47-17|47.17]]; *1 En*. [[1 Enoch 001#^1-2|1.2–3]]; 37–71; *T. Job* 18.7–8; *m. Sot*. 9.15; *t. Sot.* 5.9; *b. Ber.* [[Berakhot 61#61b|61b]]). ^13-3
 
 ### 13.3–9: Parable of the sower
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 13#^13-10|Text]], p. 35* · ([[Mark 04#^4-10|Mk 4.10–12]]; [[Luke 08#^8-9|Lk 8.9–10]],[[Luke 08#^8-18|18]]; [[Luke 19#^19-26|19.26]]; [[John 12#^12-40|Jn 12.40]]). ^13-10
 
-**[[NRSVue Matthew 13#^13-11|11]]:** *Secrets*, indicating a divine plan previously unrevealed, which typified Jewish apocalyptic literature of the Second Temple Period ([[Daniel 02#^2-18|Dan 2.18]],[[Daniel 02#^2-19|19]],[[Daniel 02#^2-27|27]]; 1QpHab 7.8; 1QS 3.23; 1QM 3.9). ^13-11
+**[[NRSVue Matthew 13#^13-11|11]]:** *Secrets*, indicating a divine plan previously unrevealed, which typified Jewish apocalyptic literature of the Second Temple Period ([[Daniel 02#^2-18|Dan 2.18]],[[Daniel 02#^2-19|19]],[[Daniel 02#^2-27|27]]; 1QpHab [[DSS 1QpHab#^7-8|7.8]]; 1QS [[DSS 1QS#^3-23|3.23]]; 1QM [[DSS 1QM#^3-9|3.9]]). ^13-11
 
 **[[NRSVue Matthew 13#^13-13|13]]:** *Nor do they understand*, the message is open to a select few (e.g., the disciples; see [[Matthew 13#^13-16|13.16–17]]) having faith in Jesus. ^13-13
 
@@ -60,7 +60,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-37|37]]:** *Son of Man*, see [[JANT Matthew 08#^8-20|8.20n.]] ^13-37
 
-**[[NRSVue Matthew 13#^13-42|42]]:** See [[JANT Matthew 08#^8-12|8.12n.]]; 22.13. *Furnace*, represents judgment ([[Daniel 03#^3-6|Dan 3.6]]; *1 En*. 54.6; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 07#^7-36|7.36]]). ^13-42
+**[[NRSVue Matthew 13#^13-42|42]]:** See [[JANT Matthew 08#^8-12|8.12n.]]; 22.13. *Furnace*, represents judgment ([[Daniel 03#^3-6|Dan 3.6]]; *1 En*. [[1 Enoch 054#^54-6|54.6]]; *4 Ezra* \[2 Esd\] [[NRSVue 2 Esdras 07#^7-36|7.36]]). ^13-42
 
 **[[NRSVue Matthew 13#^13-43|43]]:** [[Daniel 12#^12-3|Dan 12.3]]. ^13-43
 

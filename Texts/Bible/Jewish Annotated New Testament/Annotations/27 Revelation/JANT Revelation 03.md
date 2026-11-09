@@ -67,7 +67,7 @@ Text: [[NRSVue Revelation 03|NRSVue]] · [[Revelation 03|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 03#^3-11|11]]:** *Crown*, see [[JANT Revelation 02#^2-10|2.10n.]] ^3-11
 
-**[[NRSVue Revelation 03#^3-12|12]]:** *Pillar in the temple*, symbol of permanence. Revelation refers often to the symbolic value of the heavenly Temple’s furniture and infrastructure (4.5; 11.4). *New Jerusalem*, see chs 21–22. Some early Jewish apocalyptic writers and prophets imagined God’s Temple in heaven, a utopian Jerusalem, that would appear or descend at the end of time (e.g., in various formulations, Ezek 40–48; *1 En.* 90.28–29; *2 Bar.* 4). The New Prophecy, an early second-century Christian movement that started in Asia Minor, expected the new Jerusalem in the town of Pepouza. See “The Heavenly Temple Cult,” p. 553 and “A Holy City Without a Holy Temple,” p. 573. *New name*, see [[JANT Revelation 02#^2-17|2.17n.]] ^3-12
+**[[NRSVue Revelation 03#^3-12|12]]:** *Pillar in the temple*, symbol of permanence. Revelation refers often to the symbolic value of the heavenly Temple’s furniture and infrastructure (4.5; 11.4). *New Jerusalem*, see chs 21–22. Some early Jewish apocalyptic writers and prophets imagined God’s Temple in heaven, a utopian Jerusalem, that would appear or descend at the end of time (e.g., in various formulations, Ezek 40–48; *1 En.* [[1 Enoch 090#^90-28|90.28–29]]; *2 Bar.* 4). The New Prophecy, an early second-century Christian movement that started in Asia Minor, expected the new Jerusalem in the town of Pepouza. See “The Heavenly Temple Cult,” p. 553 and “A Holy City Without a Holy Temple,” p. 573. *New name*, see [[JANT Revelation 02#^2-17|2.17n.]] ^3-12
 
 ### 3.14–22: Laodicea
 

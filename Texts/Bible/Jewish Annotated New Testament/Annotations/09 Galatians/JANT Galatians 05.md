@@ -40,7 +40,7 @@ Text: [[NRSVue Galatians 05|NRSVue]] · [[Galatians 05|BSB and SBLGNT]] · Intro
 
 *[[NRSVue Galatians 05#^5-13|Text]], p. 385* · Although not under the Law, the Galatians should not abuse that freedom by yielding to temptation or strife. ^5-13
 
-**[[NRSVue Galatians 05#^5-14|14]]:** *Summed up*, lit., “fulfilled,” see [[Romans 08#^8-4|Rom 8.4]]. *Love your neighbor as yourself*, [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], see also [[Romans 13#^13-8|Rom 13.8–10]]; Paul does not seem to know that Jesus is reputed to have said something very similar ([[Matthew 22#^22-34|Mt 22.34–40]]). Rabbinic literature attributes analogous sentiments to Hillel (*b. Shabb.* [[Shabbat 31#31a|31a]]) and to R. Akiva (*Sifra Qedoshim* 2, *Gen. Rab.* 24) (see “The Concept of Neighbor,” p. 645). ^5-14
+**[[NRSVue Galatians 05#^5-14|14]]:** *Summed up*, lit., “fulfilled,” see [[Romans 08#^8-4|Rom 8.4]]. *Love your neighbor as yourself*, [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], see also [[Romans 13#^13-8|Rom 13.8–10]]; Paul does not seem to know that Jesus is reputed to have said something very similar ([[Matthew 22#^22-34|Mt 22.34–40]]). Rabbinic literature attributes analogous sentiments to Hillel (*b. Shabb.* [[Shabbat 31#31a|31a]]) and to R. Akiva (*Sifra Qedoshim* 2, *Gen. Rab.* [24](https://www.sefaria.org/Bereshit_Rabbah.24)) (see “The Concept of Neighbor,” p. 645). ^5-14
 
 ### 5.16–26: Living by the Spirit
 

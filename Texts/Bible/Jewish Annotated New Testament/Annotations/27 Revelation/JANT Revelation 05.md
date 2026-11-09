@@ -43,7 +43,7 @@ Text: [[NRSVue Revelation 05|NRSVue]] · [[Revelation 05|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 05#^5-10|10]]:** *Kingdom and priests*, [[Torah 17 - Yitro#^19-6|Ex 19.6]] is here democratized from Israel to all people (see [[Revelation 07#^7-9|Rev 7.9]] and [[1 Peter 02#^2-9|1 Pet 2.9]]). *Reign on earth*, the eschatological age will be established in the form of divine rulership in the new earth (Rev 21–22). ^5-10
 
-**[[NRSVue Revelation 05#^5-11|11]]:** *Myriads*, [[Daniel 07#^7-10|Dan 7.10]]; Jewish apocalyptic visions of the heavenly throne room often included the innumerability of angels around the throne (see e.g., *1 En.* 14.22; 40.1; 71.8). ^5-11
+**[[NRSVue Revelation 05#^5-11|11]]:** *Myriads*, [[Daniel 07#^7-10|Dan 7.10]]; Jewish apocalyptic visions of the heavenly throne room often included the innumerability of angels around the throne (see e.g., *1 En.* [[1 Enoch 014#^14-22|14.22]]; [[1 Enoch 040#^40-1|40.1]]; [[1 Enoch 071#^71-8|71.8]]). ^5-11
 
 **[[NRSVue Revelation 05#^5-12|12–13]]:** The heavenly song makes a clear distinction between the enthroned one and the sacrificial *Lamb*. ^5-12
 

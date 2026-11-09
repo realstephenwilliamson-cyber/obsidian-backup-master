@@ -42,7 +42,7 @@ Text: [[NRSVue Acts 14|NRSVue]] · [[Acts 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 14#^14-16|16]]:** *Follow their own ways*, Jews could accept the use of idols by Gentiles (Philo, *Spec*. *Laws* 1.53; *Life of Moses* 2.205; Josephus, *Ant.* 4.207; *Ag. Ap.* 2.237), and legitimize that use by describing it as ancestral customs (*b. Hul.* [[Chullin 13#13b|13b]]). ^14-16
 
-**[[NRSVue Acts 14#^14-17|17]]:** *Rains . . . fruitful seasons*, God can be known through the natural world ([[Jeremiah 05#^5-24|Jer 5.24]]; [[Hosea 06#^6-3|Hos 6.3]]; [[Psalms 147#^147-8|Ps 147.8]]; Philo, *Leg. all.* 3.97–103; *Rewards* 41–42; *Spec. Laws* 3.189; *m. Ber.* 9.2; *Gen. Rab.* 39.1). ^14-17
+**[[NRSVue Acts 14#^14-17|17]]:** *Rains . . . fruitful seasons*, God can be known through the natural world ([[Jeremiah 05#^5-24|Jer 5.24]]; [[Hosea 06#^6-3|Hos 6.3]]; [[Psalms 147#^147-8|Ps 147.8]]; Philo, *Leg. all.* 3.97–103; *Rewards* 41–42; *Spec. Laws* 3.189; *m. Ber.* 9.2; *Gen. Rab.* [39.1](https://www.sefaria.org/Bereshit_Rabbah.39.1)). ^14-17
 
 **[[NRSVue Acts 14#^14-19|19]]:** *Jews*, traveling as much as 100 miles to denounce Paul reinforces their deep hatred. *Stoned*, see [[2 Corinthians 11#^11-25|2 Cor 11.25]]. ^14-19
 

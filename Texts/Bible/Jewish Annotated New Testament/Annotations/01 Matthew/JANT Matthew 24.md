@@ -16,7 +16,7 @@ Text: [[NRSVue Matthew 24|NRSVue]] · [[Matthew 24|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 24#^24-1|Text]], p. 54* · ([[Mark 13#^13-1|Mk 13.1–13]]; [[Luke 21#^21-5|Lk 21.5–19]]). ^24-1
 
-**[[NRSVue Matthew 24#^24-1|1–2]]:** *All will be thrown down*, evoking prophetic threats against the Temple (e.g., [[Jeremiah 26#^26-4|Jer 26.4–6]]; [[Micah 3#^3-12|Mic 3.12]]; see also [[Matthew 26#^26-67|Matt 26.67]]; [[Matthew 27#^27-40|27.40]]; [[Acts 06#^6-14|Acts 6.14]]; [[LXX 2 Maccabees 02#^2-22|2 Macc 2.22]]; Josephus, *J.W*. 6.267; 1QpHab 9.6–7; *b. Sukk.* [[Sukkah 51#51b|51b]]). Temple renovations begun by Herod the Great ca. 19 BCE were not completed in Jesus’ time. ^24-1-2
+**[[NRSVue Matthew 24#^24-1|1–2]]:** *All will be thrown down*, evoking prophetic threats against the Temple (e.g., [[Jeremiah 26#^26-4|Jer 26.4–6]]; [[Micah 3#^3-12|Mic 3.12]]; see also [[Matthew 26#^26-67|Matt 26.67]]; [[Matthew 27#^27-40|27.40]]; [[Acts 06#^6-14|Acts 6.14]]; [[LXX 2 Maccabees 02#^2-22|2 Macc 2.22]]; Josephus, *J.W*. 6.267; 1QpHab [[DSS 1QpHab#^9-6|9.6–7]]; *b. Sukk.* [[Sukkah 51#51b|51b]]). Temple renovations begun by Herod the Great ca. 19 BCE were not completed in Jesus’ time. ^24-1-2
 
 **[[NRSVue Matthew 24#^24-3|3]]:** *Mount of Olives*, see [[JANT Matthew 21#^21-1-2|21.1n.]]; the Temple could be seen from there. *Sign*, like the Pharisees, the disciples seek a sign; Jesus offers a prediction. *Your coming*, Gk “parousia,” a term associated with military and imperial parades. Among Jesus’ followers, it came to mean Jesus’ return to inaugurate the final judgment and the full messianic age (e.g., [[1 Thessalonians 02#^2-19|1 Thess 2.19]]). ^24-3
 

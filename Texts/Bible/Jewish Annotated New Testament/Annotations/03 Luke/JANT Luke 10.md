@@ -54,7 +54,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 10#^10-19|19]]:** *Snakes and scorpions*, see [[LXX Psalms 90#^90-13|Ps 90.13]]\[LXX\]. *Enemy*, Satan. ^10-19
 
-**[[NRSVue Luke 10#^10-20|20]]:** *Written in heaven*, an ancient Mesopotamian idea found in [[Torah 21 - Ki Tisa#^32-32|Ex 32.32]]; [[Psalms 069#^69-29|Ps 69.28]]; [[Daniel 12#^12-1|Dan 12.1]]; [[Revelation 03#^3-5|Rev 3.5]]; *1 En*. 47.3; 104.1; *Jub*. 19.9; etc., cf. the Rosh Ha-Shanah greeting: “May you be inscribed for a good year.” ^10-20
+**[[NRSVue Luke 10#^10-20|20]]:** *Written in heaven*, an ancient Mesopotamian idea found in [[Torah 21 - Ki Tisa#^32-32|Ex 32.32]]; [[Psalms 069#^69-29|Ps 69.28]]; [[Daniel 12#^12-1|Dan 12.1]]; [[Revelation 03#^3-5|Rev 3.5]]; *1 En*. [[1 Enoch 047#^47-3|47.3]]; [[1 Enoch 104#^104-1|104.1]]; *Jub*. 19.9; etc., cf. the Rosh Ha-Shanah greeting: “May you be inscribed for a good year.” ^10-20
 
 ### 10.21–24: Knowledge of God
 
@@ -87,7 +87,7 @@ Text: [[NRSVue Luke 10|NRSVue]] · [[Luke 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 10#^10-26|26]]:** *Law*, Torah (2.22–24,27,39; 5.17; 16.16–17; 24.44). ^10-26
 
-**[[NRSVue Luke 10#^10-27|27]]:** *Love the Lord*, see [[Torah 45 - Vaetchanan#^6-5|Deut 6.5]] (cf. [[Joshua 22#^22-5|Josh 22.5]]). *Your neighbor as yourself*, see [[Torah 30 - Kedoshim#^19-18|Lev 19.18]]; R. Akiva, *Sifre* on [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], calls this the “greatest principle in the Law.” The Heb “meʾodekha,” usually translated “as yourself,” could also mean “who is a person like you” (i.e., a fellow human being). To Akiva’s comment, R. Ben Azzai replies by citing [[Torah 01 - Bereshit#^5-1|Gen 5.1]] (creation in the image of God) “so that you should not say: ‘Since I despise myself, let my fellow be despised with me; since I am cursed, let my fellow be cursed with me.’ This is a more basic law” (see also *y. Ned.* 9.4; *Gen. Rab*. 24.7). On combining love of God and love of neighbor, see [[Matthew 22#^22-38|Mt 22.38]]**–**39; [[Mark 12#^12-30|Mk 12.30]]**–**33; *T. Dan* 5.3; *T. Iss*. 5.2. ^10-27
+**[[NRSVue Luke 10#^10-27|27]]:** *Love the Lord*, see [[Torah 45 - Vaetchanan#^6-5|Deut 6.5]] (cf. [[Joshua 22#^22-5|Josh 22.5]]). *Your neighbor as yourself*, see [[Torah 30 - Kedoshim#^19-18|Lev 19.18]]; R. Akiva, *Sifre* on [[Torah 30 - Kedoshim#^19-18|Lev 19.18]], calls this the “greatest principle in the Law.” The Heb “meʾodekha,” usually translated “as yourself,” could also mean “who is a person like you” (i.e., a fellow human being). To Akiva’s comment, R. Ben Azzai replies by citing [[Torah 01 - Bereshit#^5-1|Gen 5.1]] (creation in the image of God) “so that you should not say: ‘Since I despise myself, let my fellow be despised with me; since I am cursed, let my fellow be cursed with me.’ This is a more basic law” (see also *y. Ned.* 9.4; *Gen. Rab*. [24.7](https://www.sefaria.org/Bereshit_Rabbah.24.7)). On combining love of God and love of neighbor, see [[Matthew 22#^22-38|Mt 22.38]]**–**39; [[Mark 12#^12-30|Mk 12.30]]**–**33; *T. Dan* 5.3; *T. Iss*. 5.2. ^10-27
 
 ### 10.29–37: Parable of the good Samaritan
 

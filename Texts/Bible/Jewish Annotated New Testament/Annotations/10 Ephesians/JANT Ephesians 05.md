@@ -20,7 +20,7 @@ Text: [[NRSVue Ephesians 05|NRSVue]] · [[Ephesians 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 05#^5-5|5]]:** *That is, an idolater*, it is not clear whether the reference is to “one who is greedy” or also to fornicators and impure persons. The sinful “other” is no longer the generic Gentile but, rather, the idolater in particular. The rabbis have no Heb word for idolater but speak instead of “those who worship strange/foreign worship”; see, e.g., *m. Sanh.* 7.6. ^5-5
 
-**[[NRSVue Ephesians 05#^5-8|8]]:** *Darkness . . . children of light*, a common dichotomy; see, e.g., [[Luke 16#^16-8|Lk 16.8]]; [[John 12#^12-36|Jn 12.36]]; 1QM (the “War Scroll,” depicting the battle of the Sons of Light and Sons of Darkness), and 1QS 3.13**–**4.14 (which associates light with truth and darkness with deceit). ^5-8
+**[[NRSVue Ephesians 05#^5-8|8]]:** *Darkness . . . children of light*, a common dichotomy; see, e.g., [[Luke 16#^16-8|Lk 16.8]]; [[John 12#^12-36|Jn 12.36]]; 1QM (the “War Scroll,” depicting the battle of the Sons of Light and Sons of Darkness), and 1QS [[DSS 1QS#^3-13|3.13]]**–**4.14 (which associates light with truth and darkness with deceit). ^5-8
 
 **[[NRSVue Ephesians 05#^5-12|12]]:** *Shameful even to mention what such people do secretly*, *b. Yoma* [[Yoma 86#86b|86b]] questions whether it is proper to confess publically sins done in private, as all transgressions are evidence of the sinner’s rebellion against God. ^5-12
 

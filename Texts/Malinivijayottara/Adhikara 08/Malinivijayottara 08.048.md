@@ -1,0 +1,32 @@
+---
+type: "text"
+work: "Mālinīvijayottaratantra"
+translator: "Mark S. G. Dyczkowski"
+chapter: 8
+verse: 48
+edition: "Mark Dyczkowski's text and translation, serialised in the journal Mālinī, October–December 2024 and January–April 2025"
+aliases:
+  - "MVT 8.48"
+  - "MV 8.48"
+  - "Mālinīvijayottara 8.48"
+---
+[[Malinivijayottara 08.047|← 8.47]] · [[Malinivijayottara 08|Chapter 8]] · [[Malinivijayottara 08.049|8.49 →]]
+
+## Mūla
+
+किंतु बाह्यस्तु यो यत्र स तत्राङ्गसमन्वितः ।
+षष्ठः स्यादिति सर्वत्र षोढैवायमुदाहृतः ॥ ^mula
+
+kiṁtu bāhyas tu yo yatra sa tatrāṅgasamanvitaḥ |
+ṣaṣṭhaḥ syād iti sarvatra ṣoḍhaivāyam udāhṛtaḥ || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, *Mālinī*, October 2024 – December 2024
+> p. 27 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=26>))
+>
+> This deposition is considered in the same way to be of five kinds and concerns (all the mantras) with their varieties, however many they be (in all the Tantras), that denote Śiva, (His) Power and the individual soul.[^49] However, (one should take care) that wherever the (mantra) which is invoked[^50] (happens to be), that it is present there with its limbs, and should be the sixth (deposition). This sixfold (deposition) is mentioned everywhere (in the scriptures).[^51] (with 8.47–48)
+
+[^49]: TĀ 15/257, where MV 8/47 is quoted, reads *bhedāḥ* for *bhedaiḥ* and *ṣoḍhaiva kīrtitaḥ* for *pañcavidho mataḥ*. Thus, the translation of the text there in the TĀ is: 'The sixfold deposition (in this case) is said to be one in which (the Mantras deposited) are the kinds amongst these Mantras (taught in any of the Tantras), however many they be, that denote Śiva, (His) Power and the individual soul.'
+[^50]: Read with TĀ 15/258a kiṁtv āvāhyas tu for kiṁtu bāhyastu.
+[^51]: TĀ 15/258 is a direct citation of MV 8/48.

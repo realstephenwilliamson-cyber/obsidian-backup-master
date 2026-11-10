@@ -1,6 +1,6 @@
 ---
 type: parallel
-ref: 1 Thessalonians 4:13
+ref: Matthew 25:31
 translation: bsb
 cssclasses:
   - wide

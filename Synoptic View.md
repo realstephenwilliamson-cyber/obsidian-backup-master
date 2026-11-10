@@ -1,9 +1,10 @@
 ---
 type: parallel
-pericope: "30"
-translation: nrsvue
+pericope: "48"
+translation: bsb
 cssclasses:
   - wide
+greek: true
 ---
 # Synoptic View
 

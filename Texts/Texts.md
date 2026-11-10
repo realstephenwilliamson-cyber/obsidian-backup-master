@@ -9,6 +9,7 @@ Primary texts, cut by their own units (verse, chapter, parashah), cited by chapt
 
 - [[Tantraloka|Tantrāloka]] with Jayaratha's *Viveka* · [[Tantraloka study plan|Study plan]] · [[Tantraloka - secondary literature|Secondary literature]] · [[Tantraloka verse-page map|Verse-page map]]
 - [[Malinislokavarttika|Mālinīślokavārttika]]
+- [[Malinivijayottara|Mālinīvijayottara]], chapters 1–8: Dyczkowski's text and translation from *Mālinī* (2022–2025), one note per verse
 - [[Markandeya Purana|Mārkaṇḍeya Purāṇa]] · [[Devi Mahatmya|Devī Māhātmya]]
 - [[Muktabodha.base|Muktabodha e-texts]] (Sanskrit, plain text)
 - [[DCS]]: Mahācīnatantra, Toḍalatantra, Uḍḍāmareśvaratantra (Digital Corpus of Sanskrit)

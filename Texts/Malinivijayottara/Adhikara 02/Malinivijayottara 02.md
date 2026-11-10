@@ -50,12 +50,12 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 02 - Introduction 
 - [[Malinivijayottara 02.018|2.18]] pañcadhā bhūtasamjñas tu tathā trimśatidhā paraḥ
 - [[Malinivijayottara 02.019|2.19]] dvividhaḥ śaktisamjño 'pi jñātavyaḥ paramārthataḥ
 - [[Malinivijayottara 02.020|2.20]] āṇavo 'yam samākhyātaḥ śākto 'py evamvidhaḥ smṛtaḥ
-- [[Malinivijayottara 02.021|2.21]] uccārakaraṇadhyānavarṇasthānaprakal panaiḥ 
+- [[Malinivijayottara 02.021|2.21]] uccārakaraṇadhyānavarṇasthānaprakalpanaiḥ 
 - [[Malinivijayottara 02.022|2.22]] uccārarahitam vastu cetasaiva vicintayan
 - [[Malinivijayottara 02.023|2.23]] akimciccintakasyaiva guruṇā pratibodhataḥ
 - [[Malinivijayottara 02.024|2.24]] sārdham etac chatam proktam bhedānām anupūrvaśaḥ
 
-### A Brief Life-Sketch of Mahāmaheśvaracārya Abhinavgupta Chapter Two of the Mālinīvijayottara Tantra: [... continued from the Previous Issue] – Mark Dyczkowski – The Penetrations and the Five States of Consciousness of the Seven Perceivers
+### Chapter Two of the Mālinīvijayottara Tantra: [... continued from the Previous Issue] – Mark Dyczkowski – The Penetrations and the Five States of Consciousness of the Seven Perceivers
 
 - [[Malinivijayottara 02.025|2.25]] samvittiphalabhedo 'tra na prakalpyo manīṣibhiḥ
 - [[Malinivijayottara 02.026|2.26]] jāgratsvapnādibhedena sarvāveśakramo budhaiḥ
@@ -101,6 +101,10 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 02 - Introduction 
 
 This is the second chapter of the *Mālinīvijayottara* Tantra concerning pervasion.
 
-[To be continued.... ]
-
 *iti śrīmālinīvijayottare tantre vyāptyadhikāro dvitīyaḥ* ||
+
+## Footnotes printed without a call
+
+These notes stand at the foot of the page in the print, but no call for them is printed in the text.
+
+- 17 (p. 29): Printed edition: *pumstattvāttatkalāntakam*

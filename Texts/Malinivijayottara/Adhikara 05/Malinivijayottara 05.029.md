@@ -17,7 +17,7 @@ aliases:
 एकपिङ्गेक्षणेशानभुवनेशपुरःसराः ।
 अङ्गुष्ठमात्रसहिताः कालानलसमत्विषः ॥ ^mula
 
-ekapiṅgekṣaṇeśānabhuvaneśapuraḥs arāḥ |
+ekapiṅgekṣaṇeśānabhuvaneśapuraḥsarāḥ |
 aṅguṣṭhamātrasahitāḥ kālānalasamatviṣaḥ || ^iast
 
 ## Translation

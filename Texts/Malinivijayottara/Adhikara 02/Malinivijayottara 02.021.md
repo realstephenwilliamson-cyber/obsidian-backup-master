@@ -17,7 +17,7 @@ aliases:
 उच्चारकरणध्यानवर्णस्थानप्रकल्पनैः  ।
 यो भवेत्स समावेशः सम्यगाणव उच्यते ॥ ^mula
 
-uccārakaraṇadhyānavarṇasthānaprakal panaiḥ[^37] |
+uccārakaraṇadhyānavarṇasthānaprakalpanaiḥ[^37] |
 yo bhavet sa samāveśaḥ samyag āṇava ucyate || ^iast
 
 ## Translation
@@ -27,5 +27,5 @@ yo bhavet sa samāveśaḥ samyag āṇava ucyate || ^iast
 >
 > The penetration that takes place by (the practice) of the utterance (of Mantra and upward movement of the vital breath) (*uccāra*), the yogic instruments (*karaṇa*), visualization (*dhyāna*), the letters (*varṇa*) (as the subtle practice of Mantra) and the conception of locations (*sthānakalpanā*) (to make offerings and on which to concentrate) is rightly said to be Individual (*āṇava*).[^38]
 
-[^37]: MS G: -*vikalpanair iti* / (...to be continued)
+[^37]: MS G: -*vikalpanair iti* /
 [^38]: The three, MV 2/21-23, are quoted in the reverse order as TĀ 1/168-70 and explained by Abhinavagupta in the that follow.

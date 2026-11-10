@@ -50,7 +50,7 @@ aliases:
 
 ### Impurity
 
-- [[Malinivijayottara 01.023|1.23]] mal aikayuktas tatkarmayuktaḥ pralayakevalaḥ
+- [[Malinivijayottara 01.023|1.23]] malaikayuktas tatkarmayuktaḥ pralayakevalaḥ
 
 ### Karman
 
@@ -102,6 +102,16 @@ aliases:
 
 ## Closing
 
-This is the first chapter of the venerable Mālinīvijayottara. Dr. Mark Dyczkowski, born in London in 1951, after schooling came to India in 1969, started his saadhana, study of Sanskrit and sitar. In 1975 he started pursuing his Doctorate at the University of Oxford, back in London, which he completed in 1979. His thesis was published as the Doctrine of Vibration. In 1976 he went to Kashmir and received initiation from Swami Laksmanjoo. He is also the disciple of Sanderson, Pt. Chakravarty and Vrajavallabh Dvivedi. He worked on a project for the Indira Gandhi National Centre for twenty years up to 2007 to make an edition and extensively annotated translation in fourteen volumes of a part of the Manthaanabhairava Tantra. He is the author of several other books and numerous articles. Between 2007 and 2018, he planned and supervised the production of over 350 texts of Tantric books and manuscripts of primary importance for Muktabodha’s digital library. He has toured the world giving lectures at numerous Universities, guiding practice and playing sitar for over decades. May Gurudev Bless him.
+This is the first chapter of the venerable Mālinīvijayottara.
+
+*The journal adds:* Dr. Mark Dyczkowski, born in London in 1951, after schooling came to India in 1969, started his saadhana, study of Sanskrit and sitar. In 1975 he started pursuing his Doctorate at the University of Oxford, back in London, which he completed in 1979. His thesis was published as the Doctrine of Vibration. In 1976 he went to Kashmir and received initiation from Swami Laksmanjoo. He is also the disciple of Sanderson, Pt. Chakravarty and Vrajavallabh Dvivedi. He worked on a project for the Indira Gandhi National Centre for twenty years up to 2007 to make an edition and extensively annotated translation in fourteen volumes of a part of the Manthaanabhairava Tantra. He is the author of several other books and numerous articles. Between 2007 and 2018, he planned and supervised the production of over 350 texts of Tantric books and manuscripts of primary importance for Muktabodha’s digital library. He has toured the world giving lectures at numerous Universities, guiding practice and playing sitar for over decades. May Gurudev Bless him.
 
 *iti śrīmālinīvijayottare prathamo 'dhikāraḥ* ||
+
+## Footnotes printed without a call
+
+These notes stand at the foot of the page in the print, but no call for them is printed in the text.
+
+- 46 (p. 42): The printed edition of MV 1/22c reads *jñeyas* for hy *eṣaḥ*.
+- 47 (p. 42): Quoted ad 1/187cd-188ab, where the reading instead of jñeyas is hy eṣa. Thus, there the meaning is ‘this Self is of four kinds’ instead of ‘one should know that the Self is of four kinds.’
+- 86 (p. 48): TĀ 13/201cd-203 = MV 1/43cd-45. This sentence i.e., MV 1/45cd, is quoted in TĀv ad 13/233cd-234ab. MS C of the Tantrāloka adds the verse that follows in the MV (i.e., 1/46). Although Abhinavagupta does not comment on it in what follows, it is quite likely that MS C is in fact recording an added original reading, which is the verse that follows in the MV (see below). This appears to be the case, as it describes the fourth type of practitioner.

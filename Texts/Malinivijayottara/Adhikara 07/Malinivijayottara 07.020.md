@@ -29,4 +29,4 @@ jihvāṃ ca cālayenmantrī hāhākāraṃ ca kārayet || ^iast
 >
 > **11. Karālā (the Gaping Mouth and Protruding Teeth)**
 >
-> The reciter of mantra should pull apart the corners of the mouth with the ring and little fingers, wiggle the tongue and make the sound HSHS starring angrily. This the gesture of the Gaping Mouth and Protruding Teeth that instils fear in the wicked. (with 7.20–21ab)
+> The reciter of mantra should pull apart the corners of the mouth with the ring and little fingers, wiggle the tongue and make the sound HšHš starring angrily. This the gesture of the Gaping Mouth and Protruding Teeth that instils fear in the wicked. (with 7.20–21ab)

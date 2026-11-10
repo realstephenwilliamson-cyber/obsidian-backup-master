@@ -18,7 +18,7 @@ aliases:
 दण्डं केवलमुद्धृत्य वाममुद्रान्वितं पुनः ॥ ^mula
 
 usthitaṁ binduyuk prāṇaṁ pūrvavad daśanaṁ tataḥ |
-daṇḍaṁ keval am uddhṛtya vāmamudrānvitaṁ punaḥ || ^iast
+daṇḍaṁ kevalam uddhṛtya vāmamudrānvitaṁ punaḥ || ^iast
 
 ## Translation
 

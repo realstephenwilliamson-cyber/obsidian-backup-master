@@ -20,7 +20,7 @@ def chk(segs,ch,verbose=False,**kw):
             for a,b in zip(V[v]['iast'],V[v]['ks']): print('    ',v,'D:',a[:110],'\n        K:',b[:110])
     return D
 CH={1:[('f1',15,25)],2:[('f5',23,36),('f1',26,34)],3:[('f1',35,53)],4:[('f1',54,64)],5:[('f1',65,81)],6:[('f2',1,7),('f4',28,35)],8:[('f3',11,51)]}
-ENDS={2:{0:'Moti Lal Pandit'}}
+ENDS={2:{0:'A Brief Life-Sketch|Moti Lal Pandit'}}
 if __name__=='__main__':
     for c in sys.argv[1].split(','):
         c=int(c); D=chk(CH[c],c,verbose='-v' in sys.argv,ends=ENDS.get(c))

@@ -33,9 +33,12 @@ def insert_calls(lines):
         host=None;best=1e9
         for l in body:
             if l['page']!=c['page'] or l.get('foot'): continue
-            if l['x0']-6<=cx<=l['x1']+12 and l['y']-9<=c['y']<=l['y1']-2:
+            if l['x0']-6<=cx<=l['x1']+26 and l['y']-9<=c['y']<=l['y1']-2:
                 d=abs(c['y']-l['y'])
                 if d<best: best=d;host=l
+        if host is None:      # no line under it: the nearest line of the page takes the call
+            cand=[l for l in body if l['page']==c['page'] and not l.get('foot') and not any(x[0].startswith('F') for x in l['segs'])]
+            if cand: host=min(cand,key=lambda l:(abs(l['y']-c['y'])+ (0 if l['x0']-6<=cx<=l['x1']+60 else 40)))
         if host is None: c['orphan']=True; continue
         # position by character x
         done=False
@@ -76,17 +79,26 @@ def footnotes(lines, pageH):
             if m: items.append([m.group(1),m.group(2)])
             elif items: items[-1][1]=dehyph(items[-1][1],t) if items[-1][1] else t
             else: cont.append(t)
-        notes[pg]=dict(items=items,cont=' '.join(cont))
+        have={a for a,_ in items}; out=[]
+        for num,t in items:
+            while True:
+                nx=str(int(num)+1) if num.isdigit() else None
+                m=re.search(r'[\s'+IC+IO+r']'+nx+r'\.\s*['+IC+r']?\s+(?=['+IO+r']?[A-Z“‘(])',t) if nx and nx not in have else None
+                if not m: break
+                out.append([num,t[:m.start()+1].rstrip()+(IC if t[:m.start()+1].count(IO)>t[:m.start()+1].count(IC) else '')]); have.add(nx); num,t=nx,t[m.end():]
+            out.append([num,t])
+        notes[pg]=dict(items=out,cont=' '.join(cont))
     return body,notes
 def md(t):
     """internal marks -> markdown: italics and calls"""
-    t=t.replace(IC+IO,'').replace(IC+' '+IO,' ')
+    t=t.replace(IC+IO,'').replace(IC+' '+IO,' ').replace('ƒ','ḥ')
     t=re.sub(IO+r'(\s*)([^'+IC+r']*?)(\s*)'+IC, lambda m: m.group(1)+('*'+m.group(2)+'*' if m.group(2).strip() else m.group(2))+m.group(3), t)
     t=re.sub(CO+r'\d+:(\d+)'+CC,r'[^\1]',t)
     t=re.sub(r'[ \t]+',' ',t)
     t=re.sub(r'\s+([,.;:)])',r'\1',t)
     t=re.sub(r'(?<=[^\s(])\s+(\[\^\d)',r'\1',t)
     t=t.replace('( ','(')
+    t=re.sub('['+IO+IC+']','',t)
     return t.strip()
 def _dehyph(a,b):
     """join two lines of running prose"""
@@ -120,6 +132,7 @@ def parse_chapter(segs, ch, bold_is_head=False, starts=None, ends=None):
             if k in ends and not off[k] and re.search(ends[k],plain(l)): off[k]=True
             if not off[k] or l['foot']: keep.append(l)
         L=keep
+    L=[l for l in L if not re.match(r'\s*[\[(]?\s*\.*\s*[Tt]o be continued',plain(l))]
     L=insert_calls(L)
     L,notes=footnotes(L,0)
     L=[l for l in L if not l['foot']]

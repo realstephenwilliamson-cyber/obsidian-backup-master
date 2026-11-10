@@ -86,7 +86,7 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 ### Mātṛsadbhāva
 
 - [[Malinivijayottara 08.039|8.39]] jīvaḥ prāṇapuṭāntasthaḥ kālānalasamadyutiḥ
-- [[Malinivijayottara 08.040|8.40]] dakṣajānuyutaś cāyaṁ sarvamātṛgaṇānvitaḥ
+- [[Malinivijayottara 08.040|8.40]] dakṣajānuyutaś cāyaṁ sarvamātṛgaṇānvitaḥ 
 - [[Malinivijayottara 08.041|8.41]] sadbhāvaḥ paramo hy eṣa māt¬ṇāṁ paripaṭhyate
 - [[Malinivijayottara 08.042|8.42]] rudraśaktisamāveśo nityam atra pratiṣṭhitaḥ
 - [[Malinivijayottara 08.043|8.43]] yāvatyaḥ siddhayas tantre sarvāḥ syur anayā kṛtāḥ
@@ -103,6 +103,9 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 - [[Malinivijayottara 08.051|8.51]] kartavyā yasya saṁśuddhir anyasyāpy atra vastunaḥ
 - [[Malinivijayottara 08.052|8.52]] nā cāsaṁśodhitaṁ vastu kiṁcidapyatra kalpayet
 - [[Malinivijayottara 08.053|8.53]] tadambunā samāpūrya ṣaḍbhiraṅgaiḥ samarpya ca
+
+### The Inner Sacrifice The Trika Trident
+
 - [[Malinivijayottara 08.054|8.54]] ātmānaṁ pūjayitvā tu kuryādantaḥ kṛtiṁ yathā
 
 ### The Base of the Trident
@@ -111,7 +114,7 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 
 ### The Shaft of the Trident
 
-- [[Malinivijayottara 08.056|8.56]] ekaikāṅgulam etat syāc chūlasyāmalasārakam
+- [[Malinivijayottara 08.056|8.56]] ekaikāṅgulam etat syāc chūlasyāmalasārakam 
 - [[Malinivijayottara 08.057|8.57]] lambikāvadhitaś cātra śūlordhvaṁ granthir iṣyate
 
 ### Māyā at the Uvula
@@ -173,7 +176,7 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 ### Worship of Gaṇeśa
 
 - [[Malinivijayottara 08.090|8.90]] gandhadhūpādikaṁ datvā gaṇeśānaṁ prapūjayet
-- [[Malinivijayottara 08.091|8.91]] gāmityanena vighneśaṁ gandhadhūpādibhiryajet
+- [[Malinivijayottara 08.091|8.91]] gāmityanena vighneśaṁ gandhadhūpādibhiryajet 
 - [[Malinivijayottara 08.092|8.92]] trinetramuditaṁ dhyātvā gajāsyaṁ vāmanākṛtim
 - [[Malinivijayottara 08.093|8.93]] dattvānantaṁ tathā dharmaṁ jñānaṁ vairāgyam eva ca
 
@@ -194,10 +197,10 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 
 - [[Malinivijayottara 08.101|8.101]] tatrādau kumbham ādāya hemādimayam avraṇam
 - [[Malinivijayottara 08.102|8.102]] cūtapallavavaktraṁ ca sraksūtrakṛtakaṇṭhakam
-- [[Malinivijayottara 08.103|8.103]] śatāṣṭottarasaṁjapta mūlamantraprapūjitam
+- [[Malinivijayottara 08.103|8.103]] śatāṣṭottarasaṁjapta mūlamantraprapūjitam 
 - [[Malinivijayottara 08.104|8.104]] vikirair āsanaṁ dattvā pūrvoktaṁ tu vicakṣaṇaḥ
 - [[Malinivijayottara 08.105|8.105]] avicchinnāṁ tato dhārāṁ vārdhānyā pratipādayet
-- [[Malinivijayottara 08.106|8.106]] bho bhoḥ śakra tvayā svasyāṁ diśi vighnapraśāntaye
+- [[Malinivijayottara 08.106|8.106]] bho bhoḥ śakra tvayā svasyāṁ diśi vighnapraśāntaye 
 - [[Malinivijayottara 08.107|8.107]] nītvā tatrāsane pūrvaṁ mūrtibhūtaṁ ghaṭaṁ nyaset
 - [[Malinivijayottara 08.108|8.108]] ātmamūrtyādipūjyāntaṁ kumbhe vinyasya mantravit
 
@@ -244,3 +247,11 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 08 - Introduction 
 - [[Malinivijayottara 08.135|8.135]] kārayecchivakumbhena sarvaduṣkṛtahāriṇā
 
 ## Closing
+
+## Footnotes printed without a call
+
+These notes stand at the foot of the page in the print, but no call for them is printed in the text.
+
+- 72 (p. 19): k: *tataḥ*
+- 80 (p. 21): Read *jñāna-* for *icchā-*
+- 91 (p. 25): k: *nānyadvidārayed*

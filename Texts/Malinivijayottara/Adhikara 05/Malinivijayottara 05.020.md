@@ -18,7 +18,7 @@ aliases:
 महाकालाविमुक्तेशरुद्रकोट्यम्बरापदाः ॥ ^mula
 
 sthāṇusvarṇākṣakāv[^38] ādyau bhadragokarṇakau parau |
-mahākālāvimukteśarudrakoṭyambar āpadāḥ || ^iast
+mahākālāvimukteśarudrakoṭyambarāpadāḥ || ^iast
 
 ## Translation
 

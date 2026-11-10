@@ -25,4 +25,6 @@ tantrārtham upasaṁhṛtya samāsād yogināṁ hitam || ^iast
 > [!source] Dyczkowski, *Mālinī*, April 2023 – June 2023
 > p. 23 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=64>))
 >
-> And because, the wise say, (only) one who possesses well exercised knowledge bestows liberation. [n. 24] Thus, (O goddess) who is worshipped by (such) yogis, all this that should be known (and you wished to know) has been imparted. Having (thus) succinctly summarized the (essential purpose and) meaning of (this) Tantra, it is (certainly) of benefit to yogis. (with 4.40cd–41)
+> And because, the wise say, (only) one who possesses well exercised knowledge bestows liberation.[^24] Thus, (O goddess) who is worshipped by (such) yogis, all this that should be known (and you wished to know) has been imparted. Having (thus) succinctly summarized the (essential purpose and) meaning of (this) Tantra, it is (certainly) of benefit to yogis. (with 4.40cd–41)
+
+[^24]: MV 4/40cd is quoted in 13/332cd.

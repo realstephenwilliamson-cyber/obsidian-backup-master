@@ -30,7 +30,7 @@ bhedo 'paro 'pi samkṣepāt kathyamāno 'vadhāryatām || ^iast
 > [!source] Dyczkowski, *Mālinī*, October 2022 – December 2022
 > p. 19 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=26>))
 >
-> **A Brief Life-Sketch of Mahāmaheśvaracārya Abhinavgupta Chapter Two of the Mālinīvijayottara Tantra: [... continued from the Previous Issue] – Mark Dyczkowski – The Penetrations and the Five States of Consciousness of the Seven Perceivers**
+> **Chapter Two of the Mālinīvijayottara Tantra: [... continued from the Previous Issue] – Mark Dyczkowski – The Penetrations and the Five States of Consciousness of the Seven Perceivers**
 >
 > Another classification is now also taught in brief. Pay heed! The wise should know that the sequence of all the penetrations (āveśakrama) is (also) divided into another five types, each one distinct (from the other) in accord with the variety (bheda) of waking, dreaming and the rest (of the five states of consciousness).[^45] (with 2.25cd–26)
 

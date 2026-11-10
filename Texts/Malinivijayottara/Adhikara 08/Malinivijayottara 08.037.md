@@ -18,7 +18,7 @@ aliases:
 कवक्त्रकण्ठहृन्नाभिगुह्योरूपाद गं क्रमात् ॥ ^mula
 
 parāditritayaṁ paścācchikhāhṛtpādagaṁ nyaset |
-kavaktrakaṇṭhahṛnnābhiguhyorūpāda gaṁ kramāt || ^iast
+kavaktrakaṇṭhahṛnnābhiguhyorūpādagaṁ kramāt || ^iast
 
 ## Translation
 

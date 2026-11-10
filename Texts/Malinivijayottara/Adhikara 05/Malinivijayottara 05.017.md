@@ -30,7 +30,7 @@ tatra bhairavakedāramahākālāḥ samadhyamāḥ || ^iast
 > [!source] Dyczkowski, *Mālinī*, July 2023 – September 2023
 > p. 72 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=77>))
 >
-> B) There (the next group of eight consists of)[^35] 1) Bhairava, 2) Kedāra, 3) Mahākāla (Great Time), along with 4) Madhyama (Middle O ne), 5) Āmrātakeśa (Lord of Āmrātaka), 6) Jalpeśa (Lord of Chatter), 7) Śrīśaila along with 8) Harīndu.'[^36] (with 5.17cd–18ab)
+> B) There (the next group of eight consists of)[^35] 1) Bhairava, 2) Kedāra, 3) Mahākāla (Great Time), along with 4) Madhyama (Middle One), 5) Āmrātakeśa (Lord of Āmrātaka), 6) Jalpeśa (Lord of Chatter), 7) Śrīśaila along with 8) Harīndu.'[^36] (with 5.17cd–18ab)
 
 [^34]: Read patyāṣṭakam for pratyātmakam in accord with TĀ 8/441d. MV 5/16-17ab quoted in TĀv ad 8/204cd- 205ab (204).
 [^35]: According to TĀ 8/442 and 443 this is the secret group of eight secrets, whereas the following one is the group of eight great secrets.

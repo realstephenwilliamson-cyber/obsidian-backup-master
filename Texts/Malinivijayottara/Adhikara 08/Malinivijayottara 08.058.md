@@ -18,7 +18,7 @@ aliases:
 धर्मं ज्ञानं च वैराग्यमैश्वर्यं च चतुष्टयम् ॥ ^mula
 
 na sa yogam avāpnoti śivena saha mānavaḥ |
-dharmaṁ jñānaṁ c a vairāgyamaiśvaryaṁ ca catuṣṭayam || ^iast
+dharmaṁ jñānaṁ ca vairāgyamaiśvaryaṁ ca catuṣṭayam || ^iast
 
 ## Translation
 

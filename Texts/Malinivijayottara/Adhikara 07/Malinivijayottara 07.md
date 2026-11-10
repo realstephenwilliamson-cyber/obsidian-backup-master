@@ -14,7 +14,7 @@ aliases:
 
 36 verses, 1–36. Translation by Mark Dyczkowski, from *Mālinī*, July–September 2024: [PDF pp. 1–10](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=1>).
 
-The print is ten scanned pages with the English and a drawing of each gesture, and no Sanskrit. The English was read from the page images by Claude (9 Nov 2026) and is not yet checked by a second reader; the drawings are in the PDF. In verses 20–21 the print writes the sound with a mark on each S that could not be read at this resolution; it is given here as HSHS. The Sanskrit in the verse notes is the KSTS text.
+The print is ten scanned pages with the English and a drawing of each gesture, and no Sanskrit. The English was read from the page images by Claude (9 Nov 2026) ; the drawings are in the PDF. A second reader compared it with the page images on 10 Nov 2026. The Sanskrit in the verse notes is the KSTS text.
 
 ## Verses
 

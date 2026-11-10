@@ -18,7 +18,7 @@ aliases:
 मण्डलेश्वरमाकोटद्विरण्डछग लाण्डकौ ॥ ^mula
 
 sthūlaḥ sthūleśvaraḥ śaṅkukarṇakālañjarāv api |
-maṇḍaleśvaramākoṭadviraṇḍachaga lāṇḍakau || ^iast
+maṇḍaleśvaramākoṭadviraṇḍachagalāṇḍakau || ^iast
 
 ## Translation
 

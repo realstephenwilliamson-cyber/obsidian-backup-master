@@ -35,4 +35,4 @@ pūrvapatrāditaḥ paścād vāmādinavakaṁ nyaset || ^iast
 > One should then deposit the group of nine (goddesses) Vāmā and the rest (on the petals) beginning with the eastern one. (They are) Vāmā, Jyeṣṭhā, Raudrī, and then Kālī, Kalavikaraṇī, Balavikaraṇī, and Balapramathinī. Sarvabhūtadamanī is also another one and Manonmanī is in the centre. One should deposit them following the path of the sun (i.e., clockwise). (with 8.62cd–64)
 
 [^70]: k: *bījaṁ vikasitaṁ sitam*
-[^71]: Read, as Sanderson suggests (1986: 179, n 47) *kakhe* for *kakha-*.
+[^71]: Read,asSandersonsuggests(1986:179,n47)*kakhe*for*kakha-*.

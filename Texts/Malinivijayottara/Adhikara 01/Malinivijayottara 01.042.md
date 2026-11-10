@@ -30,4 +30,4 @@ evam asyātmanaḥ kāle kasmiṁścid yogyatāvaśāt |
 > (It happens that) at some (undetermined) time, because an individual soul is fit (to receive it), Śiva's tranquil (transcendent) power (śaivī) that bestows the fruit of liberation is connected to it.[^78] Thus some (fortunate one) is liberated due to that conjunction (saṁbandha) (with Śiva's power) at that very moment.[^79] (with 1.42–43ab)
 
 [^78]: This sentence is quoted by Abhinavagupta again in TĀ 21/4ab and by Jayaratha in TĀv ad 1/43.
-[^79]: TĀ 13/199cd-200 MV 1/42-43ab, 1/43ab is quoted in 21/4ab and explained in the following verse.
+[^79]: TĀ 13/199cd-200 = MV 1/42-43ab, 1/43ab is quoted in 21/4ab and explained in the following verse.

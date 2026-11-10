@@ -33,4 +33,4 @@ ity etac chāmbhavaṁ proktam aṣṭāntaṁ śāktam iṣyate || ^iast
 > Thus, this is said to be the Divine (śāmbhava) (Trident). The Empowered one (śākta) is considered (to reach up only to) the end of eight (fingers' space above the Cavity of Brahmā). One should know that the Individual (Trident) ends four (fingers' space above it). This is considered to be the triple Trident.[^86] (with 8.82cd–83ab)
 
 [^85]: MV 8/81cd-82ab is quoted in TĀv ad 15/361cd-363ab (361-362). TĀ 15/(361cd-365ab) (361-364) expands and explains MV 8/81-83ab, 84ab.
-[^86]: MV 8/82cd-83ab quoted in TĀv ad 15/363cd-364ab (363) of which it is a paraphrase. See TĀ 15/361cd-363ab (361-362). 87 kh: *śaktipadmam*
+[^86]: MV 8/82cd-83ab quoted in TĀv ad 15/363cd-364ab (363) of which it is a paraphrase. See TĀ 15/361cd-363ab (361-362).

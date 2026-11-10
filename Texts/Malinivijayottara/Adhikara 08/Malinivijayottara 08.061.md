@@ -36,9 +36,9 @@ padmākṛti[^68] kakhatattvam aiśvaraṁ cintayed budhaḥ[^69] || ^iast
 >
 > The wise man should meditate (cintayet) on the Īśvara principle within the Cavity of Brahma (kakha).[^71] Its form a lotus flower, blooming and white, it has a calix, stamens and seeds. (with 8.61cd–62ab)
 
-[^65]: k: *kakhalambakayormadhye tattvamanuvicintayedityeyaṁvidhaḥ*
+[^65]: k:*kakhalambakayormadhye tattvamanuvicintayedityeyaṁvidhaḥ*
 [^68]: k: kṛti kakhe tattvam
 [^69]: *cintayettata*
 [^66]: Read with MS Kh *chadanadvaya-* for *chadanatraya-.*
 [^67]: MV 8/61 is quoted inTĀv ad 15/297cd-303ab.
-[^71]: Read, as Sanderson suggests (1986: 179, n 47) *kakhe* for *kakha-*.
+[^71]: Read,asSandersonsuggests(1986:179,n47)*kakhe*for*kakha-*.

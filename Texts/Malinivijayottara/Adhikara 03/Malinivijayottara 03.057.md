@@ -18,7 +18,7 @@ aliases:
 शरीरद्रव्यविज्ञानशुद्धिकर्मगु णादिभिः ॥ ^mula
 
 śiṣyeṇāpi tadā grāhyā yadā saṁtoṣito guruḥ |
-śarīradravyavijñānaśuddhikarmagu ṇādibhiḥ || ^iast
+śarīradravyavijñānaśuddhikarmaguṇādibhiḥ || ^iast
 
 ## Translation
 

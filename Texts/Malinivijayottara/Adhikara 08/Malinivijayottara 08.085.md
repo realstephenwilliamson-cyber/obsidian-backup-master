@@ -29,4 +29,4 @@ nirvighnaṁ tad gṛhaṁ dhyātvā saṁhṛtyeśadiśaṁ nayet || ^iast
 >
 > Then, after having consecrated grains of wheat with the great Weapon twenty-one times, he should scatter them in all the directions, meditating on them as being like a burning fire. Having meditated on that abode (of the sacrifice) as being free of obstacles and gathered (the grains) together, he should place (them) in the northeastern quarter.[^90] (with 8.84cd–85)
 
-[^90]: This is where Gaṇeśa is worshipped. MV 8/85d is quoted in TĀv ad 15/377cd-378ab (376cd-377). See TĀ 15/369cd-370ab (369).
+[^90]: This is where Gaṇeśa is worshipped. MV 8/85d is quoted in TĀv ad 15/377cd-378ab (376cd-377). See TĀ 15/369cd-370ab(369).

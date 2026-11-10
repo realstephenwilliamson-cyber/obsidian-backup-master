@@ -62,6 +62,6 @@ long=[p for p in OUT if len('C:/Vaults/Obsidian Vault/'+p)>200]; print('long pat
 os.makedirs('/mnt/user-data/outputs/mvt',exist_ok=True)
 keys=sorted(OUT); half=len(keys)//2
 for i,ks in enumerate((keys[:half],keys[half:]),1):
-    json.dump({k:OUT[k] for k in ks},open(f'/mnt/user-data/outputs/mvt/mvt-bundle-{i}c.json','w'),ensure_ascii=False)
-    print('bundle',i,len(ks),os.path.getsize(f'/mnt/user-data/outputs/mvt/mvt-bundle-{i}c.json'))
+    json.dump({k:OUT[k] for k in ks},open(f'/mnt/user-data/outputs/mvt/mvt-bundle-{i}d.json','w'),ensure_ascii=False)
+    print('bundle',i,len(ks),os.path.getsize(f'/mnt/user-data/outputs/mvt/mvt-bundle-{i}d.json'))
 json.dump(B.REPORT,open('work/report.json','w'),ensure_ascii=False); json.dump(ST,open('work/stats.json','w'),ensure_ascii=False,default=str)

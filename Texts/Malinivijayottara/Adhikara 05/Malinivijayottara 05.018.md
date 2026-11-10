@@ -27,7 +27,7 @@ bhīmeśvaramahendrāṭṭahāsāḥ savimaleśvarāḥ || ^iast
 > [!source] Dyczkowski, *Mālinī*, July 2023 – September 2023
 > p. 72 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=77>))
 >
-> B) There (the next group of eight consists of)[^35] 1) Bhairava, 2) Kedāra, 3) Mahākāla (Great Time), along with 4) Madhyama (Middle O ne), 5) Āmrātakeśa (Lord of Āmrātaka), 6) Jalpeśa (Lord of Chatter), 7) Śrīśaila along with 8) Harīndu.'[^36] (with 5.17cd–18ab)
+> B) There (the next group of eight consists of)[^35] 1) Bhairava, 2) Kedāra, 3) Mahākāla (Great Time), along with 4) Madhyama (Middle One), 5) Āmrātakeśa (Lord of Āmrātaka), 6) Jalpeśa (Lord of Chatter), 7) Śrīśaila along with 8) Harīndu.'[^36] (with 5.17cd–18ab)
 
 > [!source] Dyczkowski, *Mālinī*, July 2023 – September 2023
 > p. 72 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=77>))

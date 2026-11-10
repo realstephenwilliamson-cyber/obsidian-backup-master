@@ -18,7 +18,7 @@ aliases:
 स्वार्णैरेवाङ्गषट्कम्तु फट्कारपरिदीपितम् ॥ ^mula
 
 svāṅgaṣaṭkasamopetaṁ diṅmātṛparivāritam |
-svārṇairevāṅgaṣaṭkam t u phaṭkāraparidīpitam || ^iast
+svārṇairevāṅgaṣaṭkam[^103] tu phaṭkāraparidīpitam || ^iast
 
 ## Translation
 
@@ -28,3 +28,5 @@ svārṇairevāṅgaṣaṭkam t u phaṭkāraparidīpitam || ^iast
 > **The Deity of the Weapon**
 >
 > Place (the deity of the Weapon) on it, having meditated (on him) as bearing a sword and shield. He has big teeth and his mouth gapes terribly; very fierce, the eyebrows on his face are knit. He is possesses his own six limbs and is surrounded by the Mothers of the directions. The group of six limbs (are fashioned) with their own (respective) vowels and are well energized by the syllable PHAṬ. (with 8.94–95)
+
+[^103]: k, kh: *sāṅgaiḥ (sārṇaiḥ) ityevaṁvidhaḥ*

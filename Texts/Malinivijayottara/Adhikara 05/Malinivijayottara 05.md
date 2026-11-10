@@ -76,11 +76,14 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 05 - Introduction 
 ### Lords of the Maṇḍalas reside in the Principle of Māyā
 
 - [[Malinivijayottara 05.028|5.28]] mahātejaḥprabhṛtayo maṇḍaleśānasaṁjñakāḥ
-- [[Malinivijayottara 05.029|5.29]] ekapiṅgekṣaṇeśānabhuvaneśapuraḥs arāḥ
+- [[Malinivijayottara 05.029|5.29]] ekapiṅgekṣaṇeśānabhuvaneśapuraḥsarāḥ
 
 ### The Five world-orders in the principle of Knowledge
 
 - [[Malinivijayottara 05.030|5.30]] vidyātattve 'pi pañcāhur bhuvanāni manīṣiṇaḥ
+
+### The Worlds in the Remaining Pure Principles
+
 - [[Malinivijayottara 05.031|5.31]] ambikā ca aghorā ca vāmadevī ca kīrtyate
 - [[Malinivijayottara 05.032|5.32]] raudrī jyeṣṭhā ca vāmā ca tathā śaktisadāśivau
 - [[Malinivijayottara 05.033|5.33]] evaṁ tu sarvatattveṣu śatam aṣṭādaśottaram

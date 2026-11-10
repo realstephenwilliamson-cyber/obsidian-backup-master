@@ -25,12 +25,15 @@ vikīryamāṇaṁ tadbhasma dhyātvā kavacavāyunā || ^iast
 > [!source] Dyczkowski, *Mālinī*, October 2024 – December 2024
 > p. 18 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=17>))
 >
-> Then, after having mentally created a protective barrier (*rakṣaṇa*) in the ten directions (around the site) with the Weapon, he should enter the abode of the sacrifice that is burning like a fire [n. 14] *facing east or facing north* [n. 15], and begin the special deposition (of mantra). There, first of all, he should recollect that the body is burnt inwardly and externally from the big toe (upwards) by the Weapon mantra, its radiant lustre like the Fire of Time. [n. 16] (with 8.17–19ab)
+> Then, after having mentally created a protective barrier (*rakṣaṇa*) in the ten directions (around the site) with the Weapon, he should enter the abode of the sacrifice that is burning like a fire[^14] *facing east or facing north*[^15], and begin the special deposition (of mantra). There, first of all, he should recollect that the body is burnt inwardly and externally from the big toe (upwards) by the Weapon mantra, its radiant lustre like the Fire of Time.[^16] (with 8.17–19ab)
 
 > [!source] Dyczkowski, *Mālinī*, October 2024 – December 2024
 > p. 18 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=17>))
 >
 > Once having visualized that the ash of that (body) is scattered by the wind of the Armour, he should then think that the form of the Self is that of Śiva's Point (śivabindu), and should then conjoin (Śiva's) unconquered[^17] power, which is SO 'HAṀ, to it.[^18] (with 8.19cd–20)
 
+[^14]: See TĀ 15/183cd-193.
+[^15]: MV 8/18a is quoted in TĀv ad 15/191cd-193 and also ad 15/230cd-231ab.
+[^16]: TĀ 15/233 is a paraphrase of MV 8/18cd-19ab.
 [^17]: See 15/232cd-239ab. Read *aparājitām* for *aparājitaḥ.* Gnoli (1999: 669 n 2) suggests the reading oṁ ham ity *aparājitām* for so *'ham ity aparājitaḥ* that is OṀ HAṀ for SO 'HAṀ.
 [^18]: See TĀ 15/232cd-239ab. Read *aparājitām* for *aparājitaḥ.* Gnoli suggests possibly amending *śaktim so 'ham to śaktim oṁ ham.*

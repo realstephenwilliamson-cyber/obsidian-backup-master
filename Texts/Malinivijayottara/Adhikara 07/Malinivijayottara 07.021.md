@@ -29,7 +29,7 @@ vāmaskandhagato vāmamuṣṭirucchritatarjanī || ^iast
 >
 > **11. Karālā (the Gaping Mouth and Protruding Teeth)**
 >
-> The reciter of mantra should pull apart the corners of the mouth with the ring and little fingers, wiggle the tongue and make the sound HSHS starring angrily. This the gesture of the Gaping Mouth and Protruding Teeth that instils fear in the wicked. (with 7.20–21ab)
+> The reciter of mantra should pull apart the corners of the mouth with the ring and little fingers, wiggle the tongue and make the sound HšHš starring angrily. This the gesture of the Gaping Mouth and Protruding Teeth that instils fear in the wicked. (with 7.20–21ab)
 
 > [!source] Dyczkowski, *Mālinī*, July 2024 – September 2024
 > p. 26 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=5>))

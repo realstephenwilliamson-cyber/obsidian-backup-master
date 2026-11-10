@@ -25,6 +25,15 @@ ambikā ca aghorā ca vāmadevī ca kīrtyate |
 > [!source] Dyczkowski, *Mālinī*, July 2023 – September 2023
 > p. 75 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=80>))
 >
+> **The Five world-orders in the principle of Knowledge**
+>
+> The wise say that there are five world-orders in the principle of Knowledge. They are: Hālāhalarudra (the Rudra called Poison), Krodha (Anger) is another, Ambikā, Aghorā and (the world) called Vāmadevī. (with 5.30–31ab)
+
+> [!source] Dyczkowski, *Mālinī*, July 2023 – September 2023
+> p. 75 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 1-5 (2022-2023).pdf#page=80>))
+>
+> **The Worlds in the Remaining Pure Principles**
+>
 > Within (the principle) Īśvara are the Great Lords (maheśvara) beginning with Pivana and ending with Aghora.[^50] (with 5.31cd)
 
 [^49]: k, kh: bhuvanāni syur

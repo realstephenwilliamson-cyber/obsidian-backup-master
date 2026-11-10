@@ -18,7 +18,7 @@ aliases:
 पृथग्यागविधानेन शक्तिचक्रं विचिन्तयेत् ॥ ^mula
 
 turyāntam āṇavaṁ vidyād iti śūlatrayaṁ matam |
-pṛthagyāgavidhānena śakticakraṁ [n. 87] vicintayet || ^iast
+pṛthagyāgavidhānena śakticakraṁ[^87] vicintayet || ^iast
 
 ## Translation
 
@@ -32,6 +32,7 @@ pṛthagyāgavidhānena śakticakraṁ [n. 87] vicintayet || ^iast
 >
 > (One can also) meditate on the assembly of powers (*śakticakra*) by the procedure (in which the deities) are worshipped individually (*pṛthagyāgavidhānena*).[^88] By that (means also), once formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.[^89] (with 8.83cd–84ab)
 
-[^86]: MV 8/82cd-83ab quoted in TĀv ad 15/363cd-364ab (363) of which it is a paraphrase. See TĀ 15/361cd-363ab (361-362). 87 kh: *śaktipadmam*
+[^87]: kh: *śaktipadmam*
+[^86]: MV 8/82cd-83ab quoted in TĀv ad 15/363cd-364ab (363) of which it is a paraphrase. See TĀ 15/361cd-363ab (361-362).
 [^88]: See TĀ 15/365.
 [^89]: TĀ 15/365cd-366ab) (365) is an explanation of MV 8/83cd-84ab (not quoted by Jayaratha).

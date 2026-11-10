@@ -27,7 +27,7 @@ prabhāte nityakarmādi kṛtvā svapnaṁ vicārayet || ^iast
 >
 > **The Examination of the Disciple's Dreams**
 >
-> Having rinsed (his mouth), performed the deposition, and worshipped Śaṅkara... in the abode, p u r e.[^143]
+> Having rinsed (his mouth), performed the deposition, and worshipped Śaṅkara... in the abode, pure.[^143]
 >
 > Having performed deposition on the disciples and, especially, himself, and performed the regular (daily) rites and the rest at dawn, (the teacher) should examine (each disciple's) dream. If it is auspicious, he reveals (the meaning) to them, whereas if it is inauspicious, he should perform a fire sacrifice (*homa*). (with 8.125–127ab)
 

@@ -25,6 +25,7 @@ aiśvaryaṁ karṇikāyāṁ ca[^101] ṣaḍuttham idam āsanam || ^iast
 > [!source] Dyczkowski, *Mālinī*, January 2025 – April 2025
 > p. 27 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=41>))
 >
-> (This is done) once Ananta, Dharma, Knowledge, Dispassion, Mastery and the calix (of a lotus) have been put in place. This is the throne made of six (components). [n. 102]
+> (This is done) once Ananta, Dharma, Knowledge, Dispassion, Mastery and the calix (of a lotus) have been put in place. This is the throne made of six (components).[^102]
 
-[^101]: k, kh, g: *ceti* 102*. MV 8/93 quoted in TĀv ad 15/377cd-378ab (376cd-377) which elaborate on it. Cf. SŚP 1/128-129.*
+[^101]: k, kh, g: *ceti*
+[^102]: *MV 8/93 quoted in TĀv ad 15/377cd-378ab (376cd-377) which elaborate on it. Cf. SŚP 1/128-129.*

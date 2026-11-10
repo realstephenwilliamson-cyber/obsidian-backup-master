@@ -14,16 +14,21 @@ HI_R.update({0x70:'•',0x71:'–',0x72:'—',0x73:'˜'})
 UNK = collections.Counter()
 def dec_shift(t, hi, tag):
     out=[]
-    for c in t:
+    for i,c in enumerate(t):
         o=ord(c)
-        if o==0x20: out.append(' ')
+        if o==0x20: out.append('=' if (0<i<len(t)-1 and t[i-1]=='\x03' and t[i+1]=='\x03') else ' ')
         elif o>0xff: out.append(c)
         elif o in hi: out.append(hi[o])
         elif o+29 < 0x7f: out.append(chr(o+29))
         else:
             UNK[(tag,o)]+=1; out.append('�%02x;'%o)
     return ''.join(out)
-def dec_plain(t): return ''.join(BAL.get(c,c) for c in t.replace('\x03',' '))
+def dec_plain(t):
+    t=t.replace('\x03',' ')
+    t=t.replace('\u02c6','^')
+    if re.search(r'[a-w][\^`]|[\^`][a-w]',t):      # capitals typed in a font whose ASCII sits 29 places up (one place: VAJRINE VAJRADHARĀYA, 3.61-64)
+        t=''.join(chr(ord(c)-29) if 0x3d<=ord(c)<=0x7a else ('Ä' if c=='ò' else c) for c in t)
+    return ''.join(BAL.get(c,c) for c in t)
 DESP=[False]
 def is_shift(t):
     if any(ord(c)<0x20 and ord(c)!=3 for c in t): return True
@@ -46,10 +51,29 @@ def despace(l):
     for s in l['spans']: s['text']=''
     prev=None
     for c,s in vis:
+        if prev is not None and c['bbox'][0]-prev['bbox'][2]>thr: s['text']+='\x03'
+        s['text']+=c['c']; prev=c
+    l['spans'][-1]['text']+='\x03'
+    return True
+def regap(l):
+    """Gentium pages (f3): a justified, letter-spaced line may carry no space characters at all, or one after every letter;
+    its words are then found from the gaps between glyphs."""
+    chars=[(c,s) for s in l['spans'] for c in s['chars']]
+    if not chars or not all(s['font'].startswith('GentiumBookPlus') for c,s in chars): return
+    vis=[(c,s) for c,s in chars if c['c'].strip()]
+    txt=''.join(c['c'] for c,s in chars); nsp=len(chars)-len(vis)
+    if len(vis)<4 or any(s['size']<7.2 for c,s in vis): return
+    singles=[w for w in txt.split() if len(w)==1 and w.islower() and w!='a']
+    if not ((len(vis)>=14 and nsp<len(vis)/14) or nsp>=0.42*len(chars) or len(singles)>=1): return
+    gaps=sorted(b[0]['bbox'][0]-a[0]['bbox'][2] for a,b in zip(vis,vis[1:]))
+    med=gaps[len(gaps)//2]; thr=med+1.4
+    for s in l['spans']: s['text']=''
+    prev=None
+    for c,s in vis:
         if prev is not None and c['bbox'][0]-prev['bbox'][2]>thr: s['text']+=' '
         s['text']+=c['c']; prev=c
     l['spans'][-1]['text']+=' '
-    return True
+    for s in l['spans']: s['chars']=[]
 def run(n):
     d=pymupdf.open(f'src/{n}.pdf'); out=[]
     for pn,p in enumerate(d,1):
@@ -65,6 +89,7 @@ def run(n):
         for b in p.get_text('rawdict')['blocks']:
             for l in b.get('lines',[]):
                 for s in l['spans']: s['text']=''.join(c['c'] for c in s['chars'])
+                regap(l)
                 DESP[0]=bool(despace(l))
                 spans=[s for s in l['spans'] if s['text']]
                 if not spans: continue
@@ -98,6 +123,9 @@ def run(n):
                     cx=[c['bbox'][0] for c in s['chars']] if len(s['chars'])==len(txt) else [None]*len(txt)
                     if segs and segs[-1][0]==st: segs[-1][1]+=txt; xs[-1]+=cx
                     else: segs.append([st,txt]); xs.append(cx)
+                for sg in segs:       # the same repair on the joined run (the PDF may store such a word in pieces)
+                    if sg[0] in('B','R','I') and re.search(r'[a-w][\^`][a-w]',sg[1]) and not re.search(r'[A-Z]{2}',sg[1]):
+                        sg[1]=''.join(chr(ord(c)-29) if 0x3d<=ord(c)<=0x7a else ('Ā' if c=='ḍ' else c) for c in sg[1])
                 x0,y0,x1,y1=l['bbox']
                 out.append(dict(page=pn,x0=round(x0,1),x1=round(x1,1),y=round(y0,1),y1=round(y1,1),size=round(max(s['size'] for s in spans),1),segs=segs,xs=[[None if v is None else round(v,1) for v in a] for a in xs]))
     json.dump(out,open(f'work/{n}.lines.json','w'),ensure_ascii=False)

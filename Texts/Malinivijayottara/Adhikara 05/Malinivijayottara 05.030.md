@@ -27,6 +27,4 @@ tatra hālāhalaḥ pūrvo rudraḥ krodhas tathāparaḥ || ^iast
 >
 > **The Five world-orders in the principle of Knowledge**
 >
-> The wise say that there are five world-orders in the principle of Knowledge. They are: Hālāhalarudra (the Rudra called Poison), Krodha (Anger) is another, Ambikā, Aghorā and (the world) called Vāmadevī. (30- 31ab) The Worlds in the Remaining Pure
->
-> Principles (with 5.30; the print has no reference)
+> The wise say that there are five world-orders in the principle of Knowledge. They are: Hālāhalarudra (the Rudra called Poison), Krodha (Anger) is another, Ambikā, Aghorā and (the world) called Vāmadevī. (with 5.30–31ab)

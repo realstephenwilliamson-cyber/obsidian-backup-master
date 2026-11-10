@@ -63,7 +63,7 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 03 - Introduction 
 - [[Malinivijayottara 03.025|3.25]] bījayonisamudbhūtā rudraśaktisamāśrayāḥ
 - [[Malinivijayottara 03.026|3.26]] sarvaśāstrārthagarbhiṇyā ity evaṁ vidhayānayā
 - [[Malinivijayottara 03.027|3.27]] sa tayā saṁprabuddhaḥ san yoniṁ vikṣobhya śaktibhiḥ
-- [[Malinivijayottara 03.028|3.28]] t e tair āliṅgitāḥ santaḥ sarvakāmaphalapradāḥ
+- [[Malinivijayottara 03.028|3.28]] te tair āliṅgitāḥ santaḥ sarvakāmaphalapradāḥ
 - [[Malinivijayottara 03.029|3.29]] tair idaṁ saṁtataṁ viśvaṁ sadevāsuramānuṣam
 
 ### The Three Energies Aghorā, Ghorā and Ghoratarā
@@ -115,7 +115,7 @@ Dyczkowski's introduction to the chapter: [[Malinivijayottara 03 - Introduction 
 - [[Malinivijayottara 03.059|3.59]] parāparāṅgasaṁbhūtā yoginyo 'ṣṭau mahābalāḥ
 - [[Malinivijayottara 03.060|3.60]] jñeyāḥ saptaikādaśārṇā ekārdhārṇadvayānvitā
 
-### (*vidyāṅga*)
+### The Five Limbs of the Vidyās (vidyāṅga)
 
 - [[Malinivijayottara 03.061|3.61]] vidyātrayasya gātrāṇi hrasvairvaktrāṇi paṇcabhiḥ
 - [[Malinivijayottara 03.062|3.62]] oṁ amṛte tejomālini svāhāpadavibhūṣitam 

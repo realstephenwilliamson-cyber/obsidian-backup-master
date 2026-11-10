@@ -17,7 +17,7 @@ aliases:
 ते तैरालिङ्गिताः सन्तः सर्वकामफलप्रदाः ।
 भवन्ति साधकेन्द्राणां नान्यथा वीरवन्दिते ॥ ^mula
 
-t e[^20] tair āliṅgitāḥ santaḥ sarvakāmaphalapradāḥ |
+te[^20] tair āliṅgitāḥ santaḥ sarvakāmaphalapradāḥ |
 bhavanti sādhakendrāṇāṁ nānyathā vīravandite || ^iast
 
 ## Translation

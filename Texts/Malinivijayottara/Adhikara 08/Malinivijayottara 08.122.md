@@ -17,7 +17,7 @@ aliases:
 शिवाग्निगुरुशिष्याणां वार्धानीकुम्भयोः समम् ।
 दन्तकाष्ठं ततो दद्यात्क्षीरवृक्षसमुद्भवम् ॥ ^mula
 
-śivāgniguruśiṣyāṇāṁ vārdhānīkumbhayoḥ samam |
+śivāgniguruśiṣyāṇāṁ[^137] vārdhānīkumbhayoḥ samam |
 dantakāṣṭhaṁ tato dadyāt kṣīravṛkṣasamudbhavam || ^iast
 
 ## Translation
@@ -32,6 +32,7 @@ dantakāṣṭhaṁ tato dadyāt kṣīravṛkṣasamudbhavam || ^iast
 >
 > (The teacher) should then give (them) a stick for the teeth made of milkwood (*kṣīravṛkṣa*). It is auspicious for that (stick) to fall to the east, north, north-east, west or vertically (ūrdhvadik). It is inauspicious (if it falls) elsewhere. (To remedy that, another fire sacrifice should be performed). There (in that case) also the oblations should be one hundred and eight.[^140] (with 8.122cd–123)
 
+[^137]: k: *śiṣyāṁśceti*
 [^138]: It seems that according to TĀ 15/439 ff. these Mantras are those of the three goddesses, the three Śaktis and Mātṛsadbhāva.
 [^139]: MV 8/121-122ab is quoted in TĀv ad 15/447cd-449 (444cd-446). See TĀ 15/444cd-445. There Śiva is replaced by the sthaṇḍila, that is, the sacrificial surface.
 [^140]: MV 8/123 is quoted in 15/450 (447). 15/450d (447d) reads *tatrāstrahomo 'py aṣṭaśataṁ bhavet –* 'there (in that case) also one hundred and eight oblations should be (offered) with the Weapon' for MV 8/123d: *tatrāpi homo'ṣṭaśatiko bhavet –* 'there (in that case) also the oblations should be one hundred and eight'.

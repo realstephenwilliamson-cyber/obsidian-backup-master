@@ -36,4 +36,4 @@ tato 'bhimantrya dhānyāni mahāstreṇa trisaptadhā || ^iast
 
 [^88]: See TĀ 15/365.
 [^89]: TĀ 15/365cd-366ab) (365) is an explanation of MV 8/83cd-84ab (not quoted by Jayaratha).
-[^90]: This is where Gaṇeśa is worshipped. MV 8/85d is quoted in TĀv ad 15/377cd-378ab (376cd-377). See TĀ 15/369cd-370ab (369).
+[^90]: This is where Gaṇeśa is worshipped. MV 8/85d is quoted in TĀv ad 15/377cd-378ab (376cd-377). See TĀ 15/369cd-370ab(369).

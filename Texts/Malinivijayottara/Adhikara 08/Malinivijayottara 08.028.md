@@ -17,7 +17,7 @@ aliases:
 ऋ ऋ नासापुटे तद्वतॢ ऌ गण्डद्वये तथा ।
 ए ऐ अधोर्ध्वदन्तेषु ओ-औकारौ तथोऽष्ठयोः ॥ ^mula
 
-ṛ ṛ nāsāpuṭe tadvat ḷ ḷ gaṇḍadvaye tathā |
+ṛ Ṛ nāsāpuṭe tadvat ḷ Ḷ gaṇḍadvaye tathā |
 e ai adhordhvadanteṣu o-aukārau tatho 'ṣṭhayoḥ || ^iast
 
 *Muktabodha's e-text of the KSTS edition (M00160) has:* ṛ ṛ nāsāpuṭe tadvaṃt ḷ ḹ gaṇḍadvaye tathā | e ai adhordhvadanteṣu o-aukārau tatho'ṣṭhayoḥ ||

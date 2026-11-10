@@ -22,11 +22,9 @@ tathā te kathayiṣyāmi sarvayogigaṇārcite || ^iast
 
 ## Translation
 
-> [!source] Dyczkowski, *Mālinī*, October 2024 – December 2024
-> p. 29 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=28>))
+> [!source] Dyczkowski, *Mālinī*, January 2025 – April 2025
+> p. 15 ([pdf](<Library/Trika/Dyczkowski - Malinivijayottaratantra, chapters 7-8 (2024-2025).pdf#page=29>))
 >
-> (To be continued....)
->
-> **The Study of the texts shines perfectly only when there is practical knowledge at the same time. Without practical knowledge, philosophical Study is useless. Swami Lakshman Joo Chapter Eight of the Mālinīvijayottara Tantra The Initiation into the Rule (samayadīkṣā) (Part - 2 of 2) The Sacrifice [... continued from Previous Issue] – Rajanaka Mark Dyczkowski – The Inner Sacrifice The Trika Trident**
+> **The Inner Sacrifice The Trika Trident**
 >
 > O goddess who is honoured by all the host of yogis, I will tell you now how, after having worshipped the Self, the inner sacrifice is performed.

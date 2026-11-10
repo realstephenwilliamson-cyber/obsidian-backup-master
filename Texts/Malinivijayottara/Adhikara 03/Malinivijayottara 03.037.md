@@ -17,7 +17,7 @@ aliases:
 न शिखा ऋऋ ऌ ऌ च शिरोमाला थ मस्तकम् ।
 नेत्राणि च ध वै नासा ई समुद्रे णुणू श्रुती ॥ ^mula
 
-na śikhā ṛṛ ḷ ḷ ca śiromālā tha mastakam |
+na śikhā ṛṚ ḷ Ḷ ca śiromālā tha mastakam |
 netrāṇi ca dha vai nāsā ī samudre ṇuṇū śrutī || ^iast
 
 *Muktabodha's e-text of the KSTS edition (M00160) has:* na śikhā ṝṛ ḷḹ ca śiromālā tha mastakam | netrāṇi ca dha vai nāsā ī samudre ṇuṇū śrutī ||

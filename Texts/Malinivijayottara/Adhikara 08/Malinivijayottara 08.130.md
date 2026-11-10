@@ -18,7 +18,7 @@ aliases:
 पक्वमांसाशनाभ्यङ्गगर्तादिपत नादिकम् ॥ ^mula
 
 etad evānyathābhūtaṁ duḥsvapna[^145] iti kīrtyate |
-pakvamāṁsāśanābhyaṅgagartādipata nādikam || ^iast
+pakvamāṁsāśanābhyaṅgagartādipatanādikam || ^iast
 
 ## Translation
 

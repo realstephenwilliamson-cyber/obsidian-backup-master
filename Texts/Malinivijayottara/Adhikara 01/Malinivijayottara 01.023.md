@@ -17,7 +17,7 @@ aliases:
 मलैकयुक्तस्तत्कर्मयुक्तः प्रलयकेवलः ।
 मलमज्ञानमिच्छन्ति संसाराङ्कुरकारणम् ॥ ^mula
 
-mal aikayuktas tatkarmayuktaḥ pralayakevalaḥ |
+malaikayuktas tatkarmayuktaḥ pralayakevalaḥ |
 malam ajñānam icchanti saṁsārāṅkurakāraṇam || ^iast
 
 ## Translation

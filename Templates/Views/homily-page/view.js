@@ -1,7 +1,8 @@
 // Homily page: the collect of the day, the readings, the psalm as the Prayer Book prints it and the earlier homilies on the same
 // readings, built each time a homily note is shown, from the note's own properties. Nothing is copied into the note: it keeps its
 // properties and your writing (Notes, Draft), so a correction to a text reaches every homily at once. 5 Nov 2026, first version
-// (Stephen: page above, writing below; the glossed page with JANT notes, the Fathers and parallels is the next step).
+// (Stephen: page above, writing below). 10 Nov 2026: a closed drawer of glosses under each New Testament reading (JANT, the Fathers and
+// Aquinas, Synoptic parallels), option C of the mock-up he chose; see "glosses" below.
 // In a note:   await dv.view("Templates/Views/homily-page")
 //              await dv.view("Templates/Views/homily-page", { earlier: false })   (without the Earlier homilies table)
 // The calling note's properties (written by the Homily templates; you may change them by hand):
@@ -80,18 +81,170 @@ const inlineNotes = (t, add) => { // "^[note]" (brackets may nest) -> a marker; 
   }
   return out;
 };
+// ---- glosses (10 Nov 2026, Stephen chose option C of the mock-up): under each New Testament reading a closed drawer holds the JANT
+// notes on its verses, the Fathers and Aquinas where they cite them, and the Synoptic parallels, found as New Testament View finds
+// them (nt-page). Nothing is drawn when a reading has none (the Old Testament and the psalms have none here yet). Closed on opening;
+// a Father's lines are clipped at about 260 characters, with "more" (about 900); an open drawer prints, a closed one does not.
+const NT_DIR = "Texts/Bible/New Testament/", NRSV_DIR = "Texts/Bible/NRSVue/", DRB_DIR = "Texts/Bible/Douay-Rheims/";
+const JANT_DIR = "Texts/Bible/Jewish Annotated New Testament/Annotations/", LEX_DIR = "Library/Lexicons/Greek NT/", SYN_TABLE = "Texts/Crosswalks/Synoptic parallels.md";
+const cmp = (a, b) => a[0] - b[0] || a[1] - b[1];
+let bibleIdx = null;
+const bibleNote = (dir, book, c) => {   // "Matthew", 25 -> the chapter note in that folder (BSB "Matthew 25", "NRSVue Matthew 25", "DRB …", "JANT …")
+  if (!bibleIdx) {
+    bibleIdx = {};
+    for (const f of V.getMarkdownFiles()) for (const d of [NT_DIR, NRSV_DIR, DRB_DIR, JANT_DIR]) if (f.path.startsWith(d)) {
+      const m = f.basename.match(/^(?:NRSVue |DRB |JANT )?(.+?) (\d+)$/); if (m) (bibleIdx[d] = bibleIdx[d] || {})[m[1] + "|" + (+m[2])] = f; break;
+    }
+  }
+  return (bibleIdx[dir] || {})[book + "|" + c] || null;
+};
+const balance = s => { if ((s.match(/\*\*/g) || []).length % 2) s += "**"; if ((s.replace(/\*\*/g, "").match(/\*/g) || []).length % 2) s += "*"; return s; };
+const clip = (t, max) => {
+  if (!max || t.length <= max) return t;
+  let s = t.slice(0, max);
+  const cut = Math.max(s.lastIndexOf(". "), s.lastIndexOf("; "), s.lastIndexOf(": "));
+  s = cut > max * 0.5 ? s.slice(0, cut + 1) : s.replace(/\s\S*$/, "");
+  const open = s.lastIndexOf("[["); if (open > s.lastIndexOf("]]")) s = s.slice(0, open);
+  return balance(s.trimEnd()) + " …";
+};
+const plainLinks = s => s.replace(/\[\[([^\]|]*?)\|([^\]]*?)\]\]/g, "$2").replace(/\[\[([^\]]*?)\]\]/g, (m, a) => a.split("#")[0].split("/").pop())
+  .replace(/\[\^\d+\]/g, "").replace(/\^\[[^\]]*\]/g, "").replace(/ \^[\w-]+$/gm, "").replace(/\s+/g, " ").trim();
+const around = (par, at, max) => {
+  let a = Math.max(0, at - Math.floor(max * 0.55));
+  if (a > 0) { const lo = Math.max(0, a - 80), m = par.slice(lo, Math.max(lo, at - 40)).match(/[.!?;:]["”’)]?\s+/); a = m ? lo + m.index + m[0].length : par.indexOf(" ", a) + 1; }
+  let s = par.slice(a);
+  const pre = par.slice(0, a), bold = (pre.match(/\*\*/g) || []).length % 2, ital = (pre.replace(/\*\*/g, "").match(/\*/g) || []).length % 2;
+  const o = s.indexOf("]]"), c = s.indexOf("[["); if (o >= 0 && (c < 0 || o < c)) s = s.slice(o + 2);
+  return (a > 0 ? "… " : "") + clip((bold ? "**" : "") + (ital ? "*" : "") + plainLinks(s).trim(), max);
+};
+const paraAt = (text, off) => {
+  const s = text.lastIndexOf("\n\n", off), e = text.indexOf("\n\n", off);
+  const a = s < 0 ? 0 : s + 2, b = e < 0 ? text.length : e;
+  return { text: text.slice(a, b), at: off - a };
+};
+const quoted = q => /^(?:… )?\**[“"‘]/.test(q) ? q : `“${q}”`;
+const linksInto = (targets, ids) => {   // links into any of the given notes whose block is one of the verses
+  const want = new Set(ids.map(x => x.join("-"))), paths = new Set(targets.filter(Boolean).map(f => f.path)), out = [];
+  for (const [src, tg] of Object.entries(MC.resolvedLinks)) {
+    if (paths.has(src) || ![...paths].some(p => tg[p])) continue;
+    const sf = V.getAbstractFileByPath(src); if (!sf) continue;
+    const c = MC.getFileCache(sf) || {};
+    for (const l of [...(c.links || []), ...(c.embeds || [])]) {
+      const [p, sub] = l.link.split("#");
+      if (!sub || !sub.startsWith("^") || !want.has(sub.slice(1))) continue;
+      const d = MC.getFirstLinkpathDest(p, src); if (!d || !paths.has(d.path)) continue;
+      out.push({ f: sf, id: sub.slice(1), cv: sub.slice(1).split("-").map(Number), off: l.position.start.offset });
+    }
+  }
+  return out;
+};
+const GOSPELS = [["Matthew", "Mt"], ["Mark", "Mk"], ["Luke", "Lk"], ["John", "Jn"]];
+const parseCell = text => {        // "Mt 3:1–6, 11–12" -> [{a:[c,v], b:[c,v]}]
+  const s = String(text || "").replace(/\[\[[^\]]*?\\?\|([^\]]*)\]\]/g, "$1").replace(/\b(?:Mt|Mk|Lk|Jn)\b\.?/g, " ").replace(/[()*_]/g, " ").replace(/\s*([–—-])\s*/g, "$1");
+  const parts = []; let c = null;
+  for (const t of s.match(/[^\s,;]+/g) || []) {
+    const m = t.match(/^(?:(\d+)[:.])?(\d+)(?:[–—-](?:(\d+)[:.])?(\d+))?$/); if (!m) continue;
+    if (m[1]) c = +m[1]; if (c === null) continue;
+    const a = [c, +m[2]]; if (m[3]) c = +m[3];
+    parts.push({ a, b: m[4] ? [c, +m[4]] : a });
+  }
+  return parts;
+};
+const synopticRows = async (book, first, last) => {
+  const g = GOSPELS.findIndex(x => x[0] === book); if (g < 0) return [];
+  const f = V.getAbstractFileByPath(SYN_TABLE); if (!f) return [];
+  const rows = []; let cols = null;
+  for (const line of (await V.cachedRead(f)).split("\n")) {
+    if (!line.trim().startsWith("|")) { if (cols && rows.length) break; continue; }
+    const cells = line.trim().split(/(?<!\\)\|/).slice(1, -1).map(s => s.trim());
+    if (!cols) { const h = cells.map(s => s.replace(/[*_]/g, "").toLowerCase()); if (["id", "title", "matthew"].every(k => h.includes(k))) cols = h; continue; }
+    if (cells.every(c => /^:?-{3,}:?$/.test(c))) continue;
+    const cell = n => (cells[cols.indexOf(n)] || "").replace(/\\\|/g, "|");
+    const mine = parseCell(cells[cols.indexOf(book.toLowerCase())] || "");
+    if (!mine.some(p => cmp(p.b, first) >= 0 && cmp(p.a, last) <= 0)) continue;
+    rows.push({ id: cell("id"), title: cell("title"), others: GOSPELS.filter(x => x[0] !== book).map(x => cell(x[0].toLowerCase())).filter(Boolean) });
+  }
+  return rows;
+};
+const flabel = f => f.basename.replace(/^Aquinas Summa /, "Summa ").replace(/\bQ0*(\d+)/, "q. $1").replace(/\bHom 0*(\d+)/, "Hom. $1").replace(/ 0+(\d)/g, " $1");
+// the glosses of one reading: vs = its verse notes [{ f, id }]
+const drawGlosses = async (box, vs) => {
+  const per = new Map();
+  for (const v of vs) {
+    const p = v.f.path; if (!(p.startsWith(NT_DIR) || p.startsWith(NRSV_DIR) || p.startsWith(DRB_DIR))) continue;
+    const m = v.f.basename.match(/^(?:NRSVue |DRB )?(.+?) (\d+)$/), cv = v.id.split("-").map(Number);
+    if (!m || cv.length !== 2 || cv.some(isNaN)) continue;
+    const k = m[1] + "|" + (+m[2]); if (!per.has(k)) per.set(k, { book: m[1], c: +m[2], ids: [] }); per.get(k).ids.push(cv);
+  }
+  const jant = [], fathers = [], rows = [], jantFiles = [], seenRow = new Set(), seenPar = new Set();
+  for (const g of per.values()) {
+    const bsb = bibleNote(NT_DIR, g.book, g.c); if (!bsb) continue;          // not a New Testament chapter (the NRSVue also holds the Old)
+    const nrsv = bibleNote(NRSV_DIR, g.book, g.c), drb = bibleNote(DRB_DIR, g.book, g.c), jf = bibleNote(JANT_DIR, g.book, g.c);
+    const ids = g.ids.sort(cmp), first = ids[0], last = ids[ids.length - 1];
+    if (jf) {
+      jantFiles.push(jf);
+      const jt = (await V.cachedRead(jf)).replace(/^---\n[\s\S]*?\n---\n/, "");
+      let sec = null;
+      for (const para of jt.split(/\n{2,}/)) {
+        const s = para.trim();
+        const h = s.match(/^#{2,3}\s+(\d+)\.(\d+)(?:[–-](?:(\d+)\.)?(\d+))?:\s*(.+)$/);
+        if (h) { const a = [+h[1], +h[2]], b = h[4] ? [h[3] ? +h[3] : a[0], +h[4]] : a; sec = { a, b, title: `${h[1]}.${h[2]}${h[4] ? "–" + (h[3] ? h[3] + "." : "") + h[4] : ""}: ${h[5]}` }; continue; }
+        if (/^#/.test(s) || !s) continue;
+        let a, b, body, lab;
+        const vn = s.match(/^\*\*\[\[[^\]|#]+#\^(\d+)-(\d+)\|([^\]]+)\]\]:?\*\*:?\s*/);
+        if (vn) { a = [+vn[1], +vn[2]]; const r = vn[3].match(/(\d+)\s*[–-]\s*(\d+)$/); b = r ? [a[0], +r[2]] : a; body = s.slice(vn[0].length); lab = vn[3]; }
+        else if (sec && /^\*\[\[[^\]]+\]\],?\s*p\.\s*\d+\*/.test(s)) { a = sec.a; b = sec.b; body = s.replace(/^\*\[\[[^\]]+\]\],?\s*p\.\s*\d+\*\s*·\s*/, ""); lab = null; }
+        else continue;
+        if (cmp(b, first) < 0 || cmp(a, last) > 0) continue;
+        jant.push({ head: lab || sec.title, body: body.replace(/\s*\^[\w-]+\s*$/, "") });
+      }
+    }
+    const L = linksInto([bsb, nrsv, drb], ids).filter(l => /^Texts\/(Fathers|Aquinas)\//.test(l.f.path));
+    for (const l of L.sort((a, b) => cmp(a.cv, b.cv) || a.off - b.off)) {
+      if (fathers.length >= 6) break;
+      if (fathers.filter(x => x.l.f === l.f).length >= 2) continue;
+      const t = await V.cachedRead(l.f), pa = paraAt(t, l.off), key = l.f.path + "|" + pa.text.slice(0, 60);
+      if (seenPar.has(key)) continue; seenPar.add(key);
+      fathers.push({ l, q: around(pa.text, pa.at, 260), more: around(pa.text, pa.at, 900) });
+    }
+    for (const r of await synopticRows(g.book, first, last)) if (!seenRow.has(r.id)) { seenRow.add(r.id); rows.push(r); }
+  }
+  const parts = [jant.length ? `JANT ${jant.length}` : "", fathers.length ? `Fathers ${fathers.length}` : "", rows.length ? `Parallels ${rows.length}` : ""].filter(Boolean);
+  if (!parts.length) return;
+  const d = box.createEl("details", { cls: "hp-gl" });
+  d.createEl("summary", { text: `Glosses: ${parts.join(" · ")}` });
+  const sect = t => { const s = d.createDiv({ cls: "hp-gl-sec" }); s.createDiv({ cls: "hp-gl-title", text: t }); return s; };
+  if (jant.length) {
+    const s = sect("Jewish Annotated New Testament");
+    for (const x of jant) md(s, `<span class="hp-gl-vn">${x.head}</span> ${x.body}`, "hp-gl-item");
+    md(s, "From " + jantFiles.map(f => lnk(noExt(f.path), f.basename)).join(" · "), "hp-aside");
+  }
+  if (fathers.length) {
+    const s = sect("The Fathers and Aquinas");
+    for (const x of fathers) {
+      const it = s.createDiv({ cls: "hp-gl-item" });
+      md(it, `<span class="hp-gl-vn">${x.l.cv.join(":")}</span> ${lnk(noExt(x.l.f.path), flabel(x.l.f))}: ${quoted(x.q)}`, "hp-gl-q");
+      if (x.more.length > x.q.length + 40) { const m = it.createEl("details", { cls: "hp-gl-more" }); m.createEl("summary", { text: "more" }); md(m, quoted(x.more), "hp-gl-q"); }
+    }
+  }
+  if (rows.length) {
+    const s = sect("Parallels");
+    for (const r of rows) md(s, `**${r.title}** (row ${r.id})${r.others.length ? "<br>" + r.others.join("<br>") : ""}`, "hp-gl-item");
+    md(s, "From " + lnk(noExt(SYN_TABLE), "Synoptic parallels"), "hp-aside");
+  }
+};
 // draws one reading into a box: groups of verses (an alternative reading starts a group, after its line "*or* Amos 5:18-24"),
 // each verse with its number (a link to the verse) and its text, then the reading's lettered notes
 const drawVerses = (box, targets) => drawReading(box, [{ lead: null, targets }]);
 const drawReading = async (box, groups) => {
-  const notes = [], used = {}, missing = [];
+  const notes = [], used = {}, missing = [], allv = [];
   let count = 0;
   for (const g of groups) {
     if (g.lead) md(box, g.lead, "hp-alt");
     const vs = [];
     for (const tg of g.targets) { try { vs.push(...await versesOf(tg)); } catch (e) { missing.push(e.message); } }
     const chapters = new Set(vs.map(v => v.f.path + ":" + v.id.split("-")[0]));
-    count += vs.length;
+    count += vs.length; allv.push(...vs);
     for (const v of vs) {
       const defs = await footDefs(v.f);
       let lines = v.raw.replace(/\s*\^[\w-]+\s*$/, "").split("\n");
@@ -106,6 +259,7 @@ const drawReading = async (box, groups) => {
   }
   if (notes.length) { const nb = box.createDiv({ cls: "hp-notes" }); notes.forEach((n, k) => md(nb, `<sup>${letters(k)}</sup> ${n}`, "hp-note")); }
   if (missing.length) say(box, `Not shown: ${missing.join("; ")}.`);
+  try { await drawGlosses(box, allv); } catch (e) { fail(e, box); }
   return count;
 };
 // the plain text of a block (a collect)

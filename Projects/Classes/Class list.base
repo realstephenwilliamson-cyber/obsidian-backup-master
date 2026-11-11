@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder.startsWith("Projects/Classes")
+    - type == "class"
+views:
+  - type: table
+    name: All classes
+    order:
+      - file.name
+      - occasion
+      - stage
+    sort:
+      - property: date
+        direction: DESC

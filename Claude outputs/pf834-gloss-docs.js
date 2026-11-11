@@ -1,0 +1,18 @@
+// APPLY
+(async () => {
+  // pf834-gloss-docs (10 Nov 2026): the Guide's Homilies section, the AI log (new entry, the glossed-page item off Open work, next job number) after pf833.
+  const JOB = "pf834-gloss-docs", V = app.vault, D = { errors: [], log: [] };
+  const rep = (t, a, b) => { const n = t.split(a).length - 1; if (n !== 1) { D.errors.push(`expected 1 of "${a.slice(0, 50)}" got ${n}`); return null; } return t.split(a).join(b); };
+  const edit = async (p, fn) => { const f = V.getAbstractFileByPath(p); if (!f) { D.errors.push("missing " + p); return; } const t = await V.read(f), r = fn(t); if (r === null) return; await V.modify(f, r); D.log.push("edit " + p); };
+  await edit("Vault Guide.md", t => rep(t, "(5 Nov 2026; a note made before then embeds the texts instead).", "(5 Nov 2026; a note made before then embeds the texts instead). Under each New Testament reading a closed drawer, *Glosses*, holds the JANT notes on those verses, the Fathers and Aquinas where they cite them (about 260 characters each, with *more*) and the Synoptic parallels, found as [[New Testament View]] finds them (10 Nov 2026; nothing is drawn for a reading that has none, as yet the Old Testament and the psalms; an open drawer prints, a closed one does not)."));
+  await edit("AI/AI log.md", t => {
+    t = rep(t, "**Next free job number: pf833.**", "**Next free job number: pf835.**"); if (t === null) return null;
+    const m = t.match(/^- \*\*Homily page, glossed version\*\*.*\n/m); if (!m) { D.errors.push("open-work item missing"); return null; }
+    t = t.replace(m[0], "");
+    const h = "## 10 Nov 2026 (15:49–";
+    const entry = "## 10 Nov 2026 (20:07–20:40): the glossed homily page (Sonnet lead, one Fable agent, in the cloud)\n\n- **Stephen:** the container had reset (week 29 %, Fable 21 %); mock-up first, then \"C is fine. Follow your recommendations on all.\"\n- **Mock-up** (a Fable agent, read-only; `/mnt/user-data/outputs/homily-glossed-mockup/` in the cloud, not kept): three layouts for 15 Nov (Proper 28A). Chosen **C**, a drawer under each reading. His seven questions were answered by the agent's recommendations: closed on opening (not remembered); an open drawer prints, a closed one does not; nothing for Old Testament readings and psalms; a Father clipped at about 260 characters with *more* (about 900); no commentary on Matthew imported; New Testament View's lookup copied into the view, not shared (nt-page untouched).\n- **Done (pf833):** `Templates/Views/homily-page/view.js` and `view.css` replaced (backup `.work/backup-homily-gloss-2026-11-10/`, new files in `.work/edits/homily-gloss-2026-11-10/`). Four test pages rendered off screen, no errors, about 0.8 s each, unresolved links 24 before and after. 15 Nov: JANT 7 and Fathers 6 under 1 Thessalonians 5, JANT 5, Fathers 6 and one parallel under Matthew 25; Zephaniah and Psalm 90 have none. Every homily note picks the new page up without being changed. Guide updated (pf834).\n- **Left:** try it on the phone and tablet and with *Export to PDF*; the sticky phone drawer and the verse-number dots of the mock-up were not built. A JANT note can run a translators' footnote into its text (as on New Testament View). The drawer for Matthew 25 shows six Fathers-and-Aquinas items although the mock-up's survey found no Father there; the cause was not checked (the Summa notes may link it). **Next free job number pf835.**\n\n";
+    return rep(t, h, entry + h);
+  });
+  await V.adapter.write(`.work/out/${JOB}.detail.json`, JSON.stringify(D, null, 1));
+  return JOB + ": " + D.errors.length + " errors " + D.errors.join("|") + " " + D.log.join(",");
+})()

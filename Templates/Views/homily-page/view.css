@@ -13,7 +13,19 @@
 .hp-page .hp-aside, .hp-page .hp-notice { font-size: .85em; color: var(--text-muted); margin: .4em 0; }
 .hp-page .hp-about { margin: .4em 0 .6em; }
 .hp-page .hp-error { color: var(--text-error); border-left: 3px solid var(--text-error); padding: .2em .6em; margin: .3em 0; }
+/* glosses: a closed drawer under each New Testament reading (10 Nov 2026) */
+.hp-page .hp-gl { margin: .6em 0 .2em; border: 1px solid var(--background-modifier-border); border-radius: 4px; font-size: .86em; line-height: 1.45; }
+.hp-page .hp-gl > summary { cursor: pointer; padding: .35em .7em; color: var(--text-muted); }
+.hp-page .hp-gl[open] > summary { color: var(--text-accent); border-bottom: 1px solid var(--background-modifier-border); }
+.hp-page .hp-gl-sec { padding: .2em .7em .4em; }
+.hp-page .hp-gl-title { margin-top: .4em; font-size: .8em; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; color: var(--text-muted); }
+.hp-page .hp-gl-item { margin: .3em 0; }
+.hp-page .hp-gl-vn { font-weight: 600; margin-right: .3em; }
+.hp-page .hp-gl-more > summary { cursor: pointer; color: var(--text-accent); display: inline; }
+.hp-page .hp-gl-more[open] > summary { display: block; }
 @media print {
+  .hp-page .hp-gl { border: 0; border-top: 1px solid #999; border-radius: 0; font-size: 8.5pt; }
+  .hp-page .hp-gl > summary { color: inherit; }
   .hp-page .hp-vn a { color: inherit; }
   .hp-page .hp-notes { color: inherit; }
 }

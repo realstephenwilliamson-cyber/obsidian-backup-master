@@ -38,10 +38,10 @@ Then confirm with me that no other AI tool is working on the vault.
    - A catalog note with text: print for the same work (a book I had only on paper): add the file to that note's files: and set text, keeping its status and print. Don't make a second note.
    - A volume of a set the library already has: it joins that set's catalog note.
 
-4. Subject and folder. The subject is one of Trika | Judaica | Christianity | Philosophy | Sanskrit-Study | Hinduism | Biblical-Studies | Other.
+4. Subject and folder. The subject is one of Trika | Judaica | Christianity | Philosophy | Sanskrit-Study | Hinduism | Biblical-Studies | Religious-Studies.
    - The file goes in Library/<Subject>/; Sanskrit-Study files go in Library/Sanskrit/.
    - The catalog note goes in Catalog/<Subject>/.
-   - Choose by content, not by the shelf a bookseller used. Kashmir Śaivism, Krama and Kaula material is Trika; other Śaiva, Śākta, Purāṇic and Vedic material is Hinduism; Sanskrit grammars, readers and dictionaries are Sanskrit-Study. "Other" is for what fits none of these.
+   - Choose by content, not by the shelf a bookseller used. Kashmir Śaivism, Krama and Kaula material is Trika; other Śaiva, Śākta, Purāṇic and Vedic material is Hinduism; Sanskrit grammars, readers and dictionaries are Sanskrit-Study. Religious-Studies is for general and comparative work on religion that fits none of these; what is not about religion goes to Philosophy.
    - If unsure, say so and suggest one.
 
 5. Name the file in ASCII: "Author - Short title (year).pdf", under about 100 characters, with no diacritics and none of [ ] # ^ | : * ? " < > \ /. For an edited volume, use "Editor (ed.) - Title (year)". COPY the file into the subject folder; leave the original in Downloads for me to delete.

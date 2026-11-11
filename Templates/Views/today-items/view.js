@@ -1,7 +1,7 @@
 // Today's study items: the CIS step and the day's letter card (made 19 Oct 2026 from the Fable design of 9 Oct 2026,
 // "Planner and letters design" §3 and "CIS study plan - decisions" 12).
 //   await dv.view("Templates/Views/today-items", {date: "2026-10-20"})  -> both lines for that day (the daily note's "## Today")
-//   await dv.view("Templates/Views/today-items", {only: "cis"})        -> the CIS line for today only (Home, Home (mobile))
+//   await dv.view("Templates/Views/today-items", {only: "cis"})        -> the CIS line for today only (Home)
 // The CIS line (Monday to Friday, from cis_start on): the first unticked step "- [ ] N.k …" in the note "CIS study plan",
 // with that day's session length from its properties cis_mwf (Mon, Wed, Fri) or cis_tth (Tue, Thu). On Tuesday and Thursday,
 // when the current step is a M/W/F step, the line says "review" and names the step as next. Nothing on Saturday or Sunday.

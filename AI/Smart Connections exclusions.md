@@ -17,7 +17,12 @@ Excalidraw/**
 Projects/_Originals/**
 Calendar/**
 Library/Biblical-Studies/**
-Library/Other/**
+Library/Religious-Studies/**
+Library/Philosophy/The Odyssey of Homer (Homer)/**
+Library/Philosophy/On Exactitude in Science (Borges).md
+Library/Philosophy/A Source Book in Chinese Philosophy (Chan)/**
+Library/Philosophy/A History of Western Philosophy (Russell)/**
+Library/Philosophy/AI Review of Virtual Identity Crisis.md
 Library/Trika/**
 Library/Christianity/**
 Library/Hinduism/**

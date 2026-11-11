@@ -4,7 +4,7 @@ updated: 2026-10-05
 ---
 # Check catalog notes against their files
 
-**Use when:** notes are waiting in *Needs review* (`status: review`), or you suspect catalog details were filled from file names rather than title pages.
+**Use when:** notes are waiting in the *Review* view of *Catalog.base* (`status: review`), or you suspect catalog details were filled from file names rather than title pages.
 
 **Before you start:** close other AI tools. In a new Cowork task, connect the vault folder. Control of Obsidian helps for applying the corrections.
 
@@ -42,4 +42,4 @@ Work in batches of about 25. For each batch, write the proposed changes as JSON 
 Report: notes checked, corrected, still in review (with reasons), and the problems list. At the end, clean up your scratch in .work as the house rules describe (never .work/plan or the backups).
 ````
 
-**Afterwards:** *Needs review* in *Catalog.base* (or `Catalog/Needs review.base`) should be shorter; what's left there needs your eyes.
+**Afterwards:** The *Review* view in *Catalog.base* should be shorter; what's left there needs your eyes.

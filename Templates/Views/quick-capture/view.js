@@ -1,4 +1,4 @@
-// Quick capture (Home (mobile), and Home): a new blank note, a new handwritten note (a note in the inbox opened with an Ink
+// Quick capture (on Home): a new blank note, a new handwritten note (a note in the inbox opened with an Ink
 // writing section; Excalidraw until 21 Oct 2026), photos of the pages
 // you mark in the printed books you are reading, and a form for adding a book you have only on paper.
 // Photos go into one "Marked pages" note per book in the marked-pages folder, under a dated heading; the note links back to
@@ -96,7 +96,7 @@ box.oninput = () => { st.filter = box.value; render(box.value); };
 render(box.value);
 
 // ---- Add a book you have on paper (no PDF) ----
-const SUBJECTS = ["Philosophy", "Christianity", "Judaica", "Trika", "Hinduism", "Sanskrit-Study", "Biblical-Studies", "Other"];
+const SUBJECTS = ["Philosophy", "Christianity", "Judaica", "Trika", "Hinduism", "Sanskrit-Study", "Biblical-Studies", "Religious-Studies"];
 const add = dv.el("details", "", { container: root, cls: "vp-capture-addbook" });
 keepOpen(add, "add");
 add.createEl("summary", { text: "Add a book you have on paper (no PDF)" });

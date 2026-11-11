@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+views:
+  - type: table
+    name: Physical Library
+    filters:
+      and:
+        - note.print == true
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - file.name
+      - year
+      - publisher
+      - subject
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Shelf check
+    order:
+      - file.name
+      - print
+      - subject
+    sort:
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC
+    columnSize:
+      note.author: 168
+      note.subject: 177
+  - type: table
+    name: To delete
+    filters:
+      and:
+        - status == "delete"
+    order:
+      - file.name
+      - files
+    sort:
+      - property: file.name
+        direction: ASC

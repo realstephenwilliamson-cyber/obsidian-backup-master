@@ -36,7 +36,7 @@ Page format (properties, then the body):
 type: scholar
 name: <Name as they publish it, with diacritics>
 aliases: [<the ASCII form, and other spellings>]
-subjects: [<the vault's subjects of their works in the library: Trika, Hinduism, Sanskrit-Study, Judaica, Christianity, Biblical-Studies, Philosophy, Other>]
+subjects: [<the vault's subjects of their works in the library: Trika, Hinduism, Sanskrit-Study, Judaica, Christianity, Biblical-Studies, Philosophy, Religious-Studies>]
 affiliation: "<position, institution>"
 catalog_names: [<every spelling the catalog uses>]
 profiled: <today's date, YYYY-MM-DD>

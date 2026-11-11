@@ -2,7 +2,7 @@
 type: scholar
 name: "J.N. Mohanty"
 aliases: ["Jitendra Nath Mohanty"]
-subjects: [Philosophy, Other]
+subjects: [Philosophy, Religious-Studies]
 affiliation: "Emeritus professor of philosophy, Temple University; died 2023"
 catalog_names: ["J.N. Mohanty"]
 profiled: 2026-10-18

@@ -18,8 +18,8 @@ pages: 5
 text: searchable
 print: false
 files:
-  - "[[Library/Other/(67) AI Review - Academia.edu.pdf]]"
-  - "[[Library/Other/AI Review of Virtual Identity Crisis]]"
+  - "[[(67) AI Review - Academia.edu.pdf]]"
+  - "[[AI Review of Virtual Identity Crisis]]"
 aliases:
   - AI Review of “Virtual Identity Crisis - The Phenomenology of Lockean Selfhood in the ‘Age of Disruption’”
 ---

@@ -32,3 +32,5 @@ await dv.view("Templates/Views/open-pdf")
 ```
 
 **Checked against the file** on 5 Oct 2026: Title, author and year 2013 confirmed; publisher city and page count added.
+
+See also: [[May - Genocide - A Normative Account]] (the same author).

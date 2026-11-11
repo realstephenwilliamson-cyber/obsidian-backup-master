@@ -1,4 +1,4 @@
-// Today's study block for Home and Home (mobile): progress in the Tantrāloka plan, today's portion, Dyczkowski pages,
+// Today's study block for Home: progress in the Tantrāloka plan, today's portion, Dyczkowski pages,
 // parashah and lectionary, buttons for today's and this week's notes and the coming homily.
 // Moved here from Home.md unchanged on 5 Oct 2026 so both homepages share it.
 // Home calls it as  await dv.view("Templates/Views/today-study", { container })  (see below).

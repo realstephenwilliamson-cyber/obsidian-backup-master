@@ -2,7 +2,7 @@
 type: scholar
 name: "Timothy Knepper"
 aliases: ["Tim Knepper"]
-subjects: [Philosophy, Other]
+subjects: [Philosophy, Religious-Studies]
 affiliation: "Professor of Philosophy and Director of The Comparison Project, Drake University"
 catalog_names: ["Timothy Knepper"]
 profiled: 2026-10-15

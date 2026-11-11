@@ -4,7 +4,7 @@
 // What it makes: the property block of a catalog note (Vault Guide, The catalog) and the title line, with cursor stops at
 //   the title, the subject, the file link and the heading (Templater's "Jump to next cursor location" moves between them).
 // When it runs: make the note yourself in Catalog/<Subject>/, named "Author - Short title", then run "Templater: Insert
-//   template" → Catalog Item; no folder applies it on its own. On the phone, "Add a book you have on paper" on Home (mobile)
+//   template" → Catalog Item; no folder applies it on its own. On the phone, "Add a book you have on paper" on Home
 //   makes a catalog note without this template. Opening this file does nothing.
 // What you may edit: the default values (type book, language English, text searchable, print false; status stays empty).
 // Don't rename the properties or change the shape of their values — subject, type, text, status, print, files,

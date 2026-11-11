@@ -29,6 +29,12 @@ await dv.view("Templates/Views/phoneme-card", { compact: true }); await dv.view(
 
 CIS minutes: M/W/F `INPUT[inlineSelect(option(5), option(10), option(15), option(20), option(25), option(30), option(35), option(40), option(45)):CIS study plan#cis_mwf]` · T/Th `INPUT[inlineSelect(option(5), option(10), option(15), option(20), option(25), option(30), option(35), option(40), option(45)):CIS study plan#cis_tth]`
 
+## Capture
+
+```dataviewjs
+await dv.view("Templates/Views/quick-capture")
+```
+
 ## Tasks
 
 Due today or overdue:
@@ -64,4 +70,4 @@ short mode
 
 ## Go to
 
-[[Catalog.base|Catalog]] · [[Texts]] · [[Study]] · [[Projects]] · [[Notes]] · [[Calendar]] · [[Vault Guide|Guide]] · [[Vault Guide|Tour]] · [[Home (mobile)|Phone page]]
+[[Catalog.base|Catalog]] · [[Texts]] · [[Study]] · [[Projects]] · [[Notes]] · [[Calendar]] · [[Vault Guide|Guide]] · [[Vault Guide|Tour]]

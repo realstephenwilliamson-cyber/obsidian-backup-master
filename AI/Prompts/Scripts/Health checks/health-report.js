@@ -67,7 +67,7 @@
     const nonAscii = named.filter(f => /[^\x00-\x7F]/.test(f.path)).map(f => f.path);
     const badChars = named.filter(f => /[\[\]#^|:*?"<>\\]/.test(f.name) || / \(\d\)\./.test(f.name) || / copy\./i.test(f.name) || /  /.test(f.name)).map(f => f.path);
     const empties = notes.filter(f => f.stat.size < 12 && !f.path.startsWith('Journal/')).map(f => f.path);
-    const top = files.filter(f => !f.path.includes('/') && !['Home.md', 'Home (mobile).md', 'Welcome to the vault.md', 'Vault Guide.md', 'Plugins.md'].includes(f.path)).map(f => f.path);
+    const top = files.filter(f => !f.path.includes('/') && !['Home.md', 'Welcome to the vault.md', 'Vault Guide.md', 'Plugins.md'].includes(f.path)).map(f => f.path);
     const strayJs = files.filter(f => f.extension === 'js' && !f.path.startsWith('Templates/Views/') && !f.path.startsWith('AI/Prompts/Scripts/') && !f.path.startsWith('AI/Archive/')).map(f => f.path);
     Object.assign(R.numbers, { names_non_ascii: nonAscii.length, names_bad: badChars.length, empty_notes: empties.length, top_level_strays: top.length, stray_scripts: strayJs.length });
     if (!nonAscii.length && !badChars.length) R.fine.push('File names: all plain ASCII outside the Greek lexicon and Stephen\'s originals, no forbidden characters, no " (1)" or " copy" endings.');
@@ -100,7 +100,7 @@
     console.error = (...a) => { errs.push(a.map(x => { try { return String((x && x.message) || x); } catch (e) { return '?'; } }).join(' ').slice(0, 200)); try { origErr.apply(console, a); } catch (e) {} };
     const prevLeaf = app.workspace.activeLeaf; const out = [];
     try {
-      for (const p of ['Home.md', 'Home (mobile).md', 'Calendar/Calendar.md', 'Journal/Habits.base', 'Catalog/Catalog.base', `Journal/${today.slice(0, 4)}/${today}.md`]) {
+      for (const p of ['Home.md', 'Calendar/Calendar.md', 'Journal/Habits.base', 'Catalog/Catalog.base', `Journal/${today.slice(0, 4)}/${today}.md`]) {
         const f = app.vault.getAbstractFileByPath(p); if (!f) { out.push([p, 'absent']); continue; }
         const n0 = errs.length; let el = null, made = null;
         const open = app.workspace.getLeavesOfType(f.extension === 'base' ? 'bases' : 'markdown').find(l => l.view && l.view.file && l.view.file.path === p);

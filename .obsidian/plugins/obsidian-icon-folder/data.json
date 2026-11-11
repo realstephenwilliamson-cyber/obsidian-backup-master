@@ -49,7 +49,6 @@
   "Catalog/Christianity": "FasCross",
   "Catalog/Hinduism": "FasOm",
   "Catalog/Judaica": "FabAffiliatetheme",
-  "Catalog/Other": "FasBookAtlas",
   "Catalog/Philosophy": "FasBrain",
   "Catalog/Sanskrit-Study": "FasPaintbrush",
   "Catalog/Scholars": "FasSchoolCircleXmark",
@@ -73,5 +72,6 @@
   "Texts/Hobbes": "FarFaceAngry",
   "Texts/Kitzur Shulchan Arukh": "FasTents",
   "Texts/Maimonides": "FabBlackTie",
-  "Texts/Talmud": "FasScaleBalanced"
+  "Texts/Talmud": "FasScaleBalanced",
+  "Catalog/Religious-Studies": "FasBookAtlas"
 }

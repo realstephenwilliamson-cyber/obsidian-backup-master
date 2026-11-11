@@ -109,11 +109,12 @@ One name per line, with the subjects of their works in the library. Add anyone y
 - [[Maurice Merleau-Ponty]] · Philosophy
 - [[Martin Buber]] · Philosophy
 - [[Edmund Husserl]] · Philosophy
-- [[J.N. Mohanty]] · Philosophy, Other
+- [[J.N. Mohanty]] · Philosophy, Religious-Studies
 - [[Mark Coeckelbergh]] · Philosophy
 - Gerald Moore · Philosophy
-- [[Timothy Knepper]] · Philosophy, Other
+- [[Timothy Knepper]] · Philosophy, Religious-Studies
 - [[Emmanuel Levinas]] · Philosophy, Judaica · added 29 Oct 2026 (two works)
+- Larry May · Philosophy · added 10 Nov 2026 (two works)
 
 ## Also in the library, not listed yet
 

@@ -61,6 +61,6 @@ Text: [[NRSVue Romans 07|NRSVue]] · [[Romans 07|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 07#^7-24|24]]:** The *I* seeks rescue not from Torah but from the *body of death*. ^7-24
 
-**[[NRSVue Romans 07#^7-25|25]]:** *A slave to the law of God*, i.e., a member of God’s family and principles for living; *a slave to the law of sin*, i.e., a member of the human family descended from Adam and the constraining forces of sin and death. See 1QS [[DSS 1QS#^11-9|11.9–15]]; 1QH 4.30–38. ^7-25
+**[[NRSVue Romans 07#^7-25|25]]:** *A slave to the law of God*, i.e., a member of God’s family and principles for living; *a slave to the law of sin*, i.e., a member of the human family descended from Adam and the constraining forces of sin and death. See 1QS [[DSS 1QS#^11-9|11.9–15]]; 1QH [[DSS 1QHa#^12-30|4.30–38]]. ^7-25
 
 [[JANT Romans 06|← Romans 6]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Romans 08|Romans 8 →]]

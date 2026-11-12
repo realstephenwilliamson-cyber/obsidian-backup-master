@@ -36,7 +36,7 @@ Text: [[NRSVue 1 Corinthians 04|NRSVue]] · [[1 Corinthians 04|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 04#^4-10|10]]:** *Fools*, used both ironically (1.21,25; 2.14; 3.18–19) as here, and straightforwardly (1.18,23,27). Contrast 1.27–29: the Corinthians’ hubris is antithetical to God’s call. ^4-10
 
-**[[NRSVue 1 Corinthians 04#^4-11|11–13]]:** Lists of tribulations are common rhetorical devices corroborating the admirable steadfastness of the sufferer (Josephus, *J.W.* 2.151–53; Plutarch, *Mor.* 326 D–E; *2 En.* 66.6; *m. Pesah.* 10.5; *m. B. Kamma* 1.1,4). See also Isa 53; [[Matthew 05#^5-3|Mt 5.3–11]]; 39–45; [[2 Corinthians 04#^4-7|2 Cor 4.7–12]]. ^4-11
+**[[NRSVue 1 Corinthians 04#^4-11|11–13]]:** Lists of tribulations are common rhetorical devices corroborating the admirable steadfastness of the sufferer (Josephus, *J.W.* 2.151–53; Plutarch, *Mor.* 326 D–E; *2 En.* [[The Books of Enoch 09 - 2 Enoch#Chapter 66|66.6]]; *m. Pesah.* 10.5; *m. B. Kamma* 1.1,4). See also Isa 53; [[Matthew 05#^5-3|Mt 5.3–11]]; 39–45; [[2 Corinthians 04#^4-7|2 Cor 4.7–12]]. ^4-11
 
 **[[NRSVue 1 Corinthians 04#^4-12|12]]:** *Work of our own hands*, the Bible commends handiwork ([[Proverbs 12#^12-24|Prov 12.24]]; [[Ecclesiastes 03#^3-13|Eccl 3.13]]), and rabbis practiced trades (*m. Avot* [[Pirkei Avot 02#^2-2|2.2]]; [[Pirkei Avot 04#^4-5|4.5]]; *t. Qidd.* 1.11; *b. Qidd.* [[Kiddushin 29#29a|29a]]; for Paul, see 16.19; [[Acts 18#^18-1|Acts 18.1–3]]); generally, the Greek elite disparaged manual labor. ^4-12
 

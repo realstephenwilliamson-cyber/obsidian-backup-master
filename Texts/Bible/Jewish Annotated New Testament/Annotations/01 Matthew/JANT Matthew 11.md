@@ -46,7 +46,7 @@ Text: [[NRSVue Matthew 11|NRSVue]] · [[Matthew 11|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 11#^11-25|Text]], p. 32* · ([[Luke 10#^10-21|Lk 10.21–22]]). ^11-25
 
-**[[NRSVue Matthew 11#^11-25|25]]:** See 10.42; 18.10. *Infants,* Jewish tradition speaks of teaching children (or the “simple”) ([[Torah 45 - Vaetchanan#^6-7|Deut 6.7]]; [[Psalms 008#^8-3|Ps 8.3]]; [[Psalms 019#^19-8|19.7]]; 114.6; [[Proverbs 01#^1-4|Prov 1.4]]; 1QH 7.21–22). ^11-25-2
+**[[NRSVue Matthew 11#^11-25|25]]:** See 10.42; 18.10. *Infants,* Jewish tradition speaks of teaching children (or the “simple”) ([[Torah 45 - Vaetchanan#^6-7|Deut 6.7]]; [[Psalms 008#^8-3|Ps 8.3]]; [[Psalms 019#^19-8|19.7]]; 114.6; [[Proverbs 01#^1-4|Prov 1.4]]; 1QH [[DSS 1QHa#^15-21|7.21–22]]). ^11-25-2
 
 **[[NRSVue Matthew 11#^11-27|27]]:** Jesus claims unique knowledge of the divine. ^11-27
 

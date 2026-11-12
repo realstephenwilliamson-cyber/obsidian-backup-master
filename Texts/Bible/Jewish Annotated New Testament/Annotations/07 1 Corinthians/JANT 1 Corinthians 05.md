@@ -26,7 +26,7 @@ Text: [[NRSVue 1 Corinthians 05|NRSVue]] · [[1 Corinthians 05|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 05#^5-6|6]]:** *Boasting*, see [[JANT 1 Corinthians 01#^1-29|1.29n.]]; 4.7. *Leavens*, that which puffs up or causes *boasting* ([[Hosea 07#^7-4|Hos 7.4]]; [[Matthew 16#^16-6|Mt 16.6]]; [[Galatians 05#^5-9|Gal 5.9]]; *Mek*. *Beshalah* 3 on [[Torah 16 - Beshalach#^14-11|Ex 14.11]]). ^5-6
 
-**[[NRSVue 1 Corinthians 05#^5-7|7–8]]:** *Clean out*, removing leaven in preparation for Passover ([[Torah 15 - Bo#^12-15|Ex 12.15]]; [[Torah 15 - Bo#^13-7|13.7]]). *Unleavened*, evoking the bread eaten at Passover with the *paschal lamb*, interpreted as Christ *sacrificed* at Passover (see [[Torah 15 - Bo#^12-8|Ex 12.8]],[[Torah 15 - Bo#^12-21|21]]; [[John 01#^1-29|Jn 1.29]]; [[Acts 08#^8-32|Acts 8.32]]; [[1 Peter 01#^1-19|1 Pet 1.19]]; [[Revelation 05#^5-6|Rev 5.6]]). *Festival*, the communal meal of the “ekklēsia” (see *2 En*. 68.9). *Old yeast*, a metaphor for evil (*b. Ber*. [[Berakhot 17#17a|17a]]). ^5-7
+**[[NRSVue 1 Corinthians 05#^5-7|7–8]]:** *Clean out*, removing leaven in preparation for Passover ([[Torah 15 - Bo#^12-15|Ex 12.15]]; [[Torah 15 - Bo#^13-7|13.7]]). *Unleavened*, evoking the bread eaten at Passover with the *paschal lamb*, interpreted as Christ *sacrificed* at Passover (see [[Torah 15 - Bo#^12-8|Ex 12.8]],[[Torah 15 - Bo#^12-21|21]]; [[John 01#^1-29|Jn 1.29]]; [[Acts 08#^8-32|Acts 8.32]]; [[1 Peter 01#^1-19|1 Pet 1.19]]; [[Revelation 05#^5-6|Rev 5.6]]). *Festival*, the communal meal of the “ekklēsia” (see *2 En*. [[The Books of Enoch 09 - 2 Enoch#Chapter 68|68.9]]). *Old yeast*, a metaphor for evil (*b. Ber*. [[Berakhot 17#17a|17a]]). ^5-7
 
 ### 5.9–13: Eschewing evil
 

@@ -16,7 +16,7 @@ Text: [[NRSVue Romans 01|NRSVue]] · [[Romans 01|BSB and SBLGNT]] · Introductio
 
 *[[NRSVue Romans 01#^1-1|Text]], p. 286* · Paul introduces his role as a herald of God’s good news about Jesus Christ, the Davidic descendant who, as Israel’s awaited Messiah, will also rescue the Gentiles, as scripture promises. The opening verses contain the formal features of Roman diplomatic correspondence: clarifying the sender, who is represented, by what authority, and to whom it is written. ^1-1
 
-**[[NRSVue Romans 01#^1-1|1]]:** *Servant*, slave. *Apostle*, lit., “one sent”; i.e., envoy. *Set apart*, see [[Isaiah 06#^6-8|Isa 6.8]]; [[Isaiah 49#^49-1|49.1]]; [[Isaiah 52#^52-7|52.7–10]]; [[Isaiah 61#^61-1|61.1–9]]; [[Jeremiah 01#^1-5|Jer 1.5]]; *Pss. Sol.* 11.1; 1QH 18.14. *Gospel*, lit., “message of good news.” ^1-1-2
+**[[NRSVue Romans 01#^1-1|1]]:** *Servant*, slave. *Apostle*, lit., “one sent”; i.e., envoy. *Set apart*, see [[Isaiah 06#^6-8|Isa 6.8]]; [[Isaiah 49#^49-1|49.1]]; [[Isaiah 52#^52-7|52.7–10]]; [[Isaiah 61#^61-1|61.1–9]]; [[Jeremiah 01#^1-5|Jer 1.5]]; *Pss. Sol.* 11.1; 1QH [[DSS 1QHa#^23-14|18.14]]. *Gospel*, lit., “message of good news.” ^1-1-2
 
 **[[NRSVue Romans 01#^1-2|2]]:** *Prophets . . . holy scriptures*, Paul regards the significance of Jesus’ death and resurrection as well as the turning of the Gentile nations to the God of Israel to have been predicted in Israel’s scriptures (for Paul, the Septuagint). ^1-2
 

@@ -30,7 +30,7 @@ Text: [[NRSVue Romans 03|NRSVue]] · [[Romans 03|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 03#^3-10|10–18]]:** Paul cites several verses from various books to illustrate his point; he must be aware of contrary passages (from among the Psalms esp.) that indicate the interlocutor’s devotion to righteousness and claim to live accordingly. Paul’s argument should not be universalized but understood as a polemical diatribe against hypothetical accusers; see, e.g., [[Psalms 040#^40-17|Ps 40.16]]; 97.10–12; 119; and Paul’s own self-confession of blamelessness in [[Philippians 03#^3-6|Phil 3.6]]. ^3-10
 
-**[[NRSVue Romans 03#^3-10|10]]:** See [[Ecclesiastes 07#^7-20|Eccl 7.20]]; see also [[Psalms 014#^14-3|Ps 14.3]]; [[Psalms 053#^53-4|53.4]]; 1QH 9.14. ^3-10-2
+**[[NRSVue Romans 03#^3-10|10]]:** See [[Ecclesiastes 07#^7-20|Eccl 7.20]]; see also [[Psalms 014#^14-3|Ps 14.3]]; [[Psalms 053#^53-4|53.4]]; 1QH [[DSS 1QHa#^17-14|9.14]]. ^3-10-2
 
 **[[NRSVue Romans 03#^3-11|11]]:** See [[Psalms 014#^14-2|Ps 14.2]]; cf. 53.3. ^3-11
 

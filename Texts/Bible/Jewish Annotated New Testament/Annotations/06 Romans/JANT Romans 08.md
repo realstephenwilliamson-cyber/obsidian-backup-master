@@ -40,7 +40,7 @@ Text: [[NRSVue Romans 08|NRSVue]] · [[Romans 08|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 08#^8-17|17]]:** *If . . . we suffer with him*, suffering is endured for identification with Christ. ^8-17
 
-**[[NRSVue Romans 08#^8-18|18–39]]:** Paul turns to the hope of Christ-believers and of creation. Assertions of delivery from the body of death are now qualified (in v 15 adoption is a present reality; in v 23 it is still awaited). Thus it is not clear how the reality claimed in Christ has changed for the Christ-following Gentiles: suffering continues, including weakness in the body that requires the Spirit’s intercession. Hope — anticipation of what has been promised — and thus living in a way that is both faithful to that reality and that is also reliant on God’s spirit (e.g., [[Isaiah 32#^32-15|Isa 32.15–17]]; 44; [[Ezekiel 36#^36-24|Ezek 36.24–38]]; 37; [[Psalms 139#^139-7|Ps 139.7]]), was already a central concern in Jewish tradition. Qumran literature speaks of dependence upon the Spirit (1QH 7.6; 12.11–12; 13.18–19; 16.11–12). ^8-18
+**[[NRSVue Romans 08#^8-18|18–39]]:** Paul turns to the hope of Christ-believers and of creation. Assertions of delivery from the body of death are now qualified (in v 15 adoption is a present reality; in v 23 it is still awaited). Thus it is not clear how the reality claimed in Christ has changed for the Christ-following Gentiles: suffering continues, including weakness in the body that requires the Spirit’s intercession. Hope — anticipation of what has been promised — and thus living in a way that is both faithful to that reality and that is also reliant on God’s spirit (e.g., [[Isaiah 32#^32-15|Isa 32.15–17]]; 44; [[Ezekiel 36#^36-24|Ezek 36.24–38]]; 37; [[Psalms 139#^139-7|Ps 139.7]]), was already a central concern in Jewish tradition. Qumran literature speaks of dependence upon the Spirit (1QH [[DSS 1QHa#^15-6|7.6]]; [[DSS 1QHa#^20-11|12.11–12]]; 13.18–19; 16.11–12). ^8-18
 
 **[[NRSVue Romans 08#^8-19|19]]:** *Creation waits*, [[Torah 01 - Bereshit#^3-17|Gen 3.17]], creation also became enslaved because of Adam’s sin. ^8-19
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Romans 08|NRSVue]] · [[Romans 08|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 08#^8-28|28]]:** *For good*, see [[LXX Sirach 39#^39-25|Sir 39.25–27]]. *Love God*, see [[Torah 17 - Yitro#^20-6|Ex 20.6]]; [[Torah 45 - Vaetchanan#^5-10|Deut 5.10]]; [[Torah 45 - Vaetchanan#^6-5|6.5]]; [[Torah 45 - Vaetchanan#^7-9|7.9]]; [[Torah 46 - Eikev#^10-12|10.12]]; [[Psalms 031#^31-24|Ps 31.24]]; 97.10. For similar statements, see *Pss. Sol.* 4.25; Plato, *Resp.* 10.12 (612e–613a). ^8-28
 
-**[[NRSVue Romans 08#^8-9|9]]:** Cf. 1QS [[DSS 1QS#^3-15|3.15–16]]; [[DSS 1QS#^11-10|11.10–11]],[[DSS 1QS#^11-17|17–20]]; 1QH 1.7–8; CD [[DSS CD-A#^2-8|2.8]]. ^8-9
+**[[NRSVue Romans 08#^8-9|9]]:** Cf. 1QS [[DSS 1QS#^3-15|3.15–16]]; [[DSS 1QS#^11-10|11.10–11]],[[DSS 1QS#^11-17|17–20]]; 1QH [[DSS 1QHa#^9-7|1.7–8]]; CD [[DSS CD-A#^2-8|2.8]]. ^8-9
 
 **[[NRSVue Romans 08#^8-29|29]]:** *Foreknew*, God’s sovereignty over the future, and not a comment on free will; see [[JANT Romans 09#^9-10|9.10–13n.]] *Within a large family*, lit., “among many brothers (and sisters)” (see translators’ note *d*). Jesus Christ is the firstborn of those raised from the dead (for non-Pauline expression of this idea, see [[Colossians 01#^1-15|Col 1.15]],[[Colossians 01#^1-18|18]]). ^8-29
 

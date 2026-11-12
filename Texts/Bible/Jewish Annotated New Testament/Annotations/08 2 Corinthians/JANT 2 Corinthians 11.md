@@ -29,7 +29,7 @@ Text: [[NRSVue 2 Corinthians 11|NRSVue]] · [[2 Corinthians 11|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 11#^11-2|2]]:** *Divine jealousy*, a zeal inspired by God; cf. [[I Kings 19#^19-10|1 Kings 19.10]], Elijah’s proclamation that he has been “zealous for the Lord”; in Heb as in Gk, the same verbal root conveys the sense both of jealousy and zealousness. *Promised you in marriage*, Paul presents himself as father of the *chaste* bride, that is, the founder of the congregation; see 1.19. ^11-2
 
-**[[NRSVue 2 Corinthians 11#^11-3|3]]:** *Serpent*, Satan; see [[2 Corinthians 02#^2-11|2.11]]; [[2 Corinthians 11#^11-14|11.14]]; [[1 Corinthians 07#^7-5|1 Cor 7.5]]. *Deceived Eve*, see [[Torah 01 - Bereshit#^3-13|Gen 3.13]]. In connection with “marriage” and “virginity” (v 2), Paul is probably thinking of the tradition that Satan sexually seduced Eve (*2 En*. 31.6). ^11-3
+**[[NRSVue 2 Corinthians 11#^11-3|3]]:** *Serpent*, Satan; see [[2 Corinthians 02#^2-11|2.11]]; [[2 Corinthians 11#^11-14|11.14]]; [[1 Corinthians 07#^7-5|1 Cor 7.5]]. *Deceived Eve*, see [[Torah 01 - Bereshit#^3-13|Gen 3.13]]. In connection with “marriage” and “virginity” (v 2), Paul is probably thinking of the tradition that Satan sexually seduced Eve (*2 En*. [[The Books of Enoch 09 - 2 Enoch#Chapter 31|31.6]]). ^11-3
 
 **[[NRSVue 2 Corinthians 11#^11-4|4]]:** *Another Jesus . . . different spirit . . . different gospel*, reminiscent of [[Galatians 01#^1-6|Gal 1.6–9]], where Paul declares that there is no different Gospel or other Jesus, even if there are individuals who wish to confuse the community and pervert the true Gospel that Paul teaches; see [[JANT 2 Corinthians 10#^10-13|10.13–16n.]] Cf. [[Torah 47 - Re'eh#^13-2|Deut 13.1–5]]. ^11-4
 

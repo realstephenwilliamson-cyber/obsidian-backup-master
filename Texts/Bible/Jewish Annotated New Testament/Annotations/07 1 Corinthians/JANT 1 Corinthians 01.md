@@ -74,7 +74,7 @@ Text: [[NRSVue 1 Corinthians 01|NRSVue]] · [[1 Corinthians 01|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 01#^1-25|25–31]]:** Jewish wisdom literature commonly contrasts foolishness and wisdom (e.g., [[Proverbs 10#^10-1|Prov 10.1]]; [[LXX Sirach 20#^20-31|Sir 20.31]]) and notes that divine wisdom surpasses human knowledge and sometimes subverts human plans (e.g., [[Proverbs 19#^19-21|Prov 19.21]]). ^1-25
 
-**[[NRSVue 1 Corinthians 01#^1-25|25–26]]:** God’s kingdom inverts hierarchies (in Jewish literature: Hannah’s prayer, as expanded in the Greek \[LXX 1 Kings ([[II Samuel 02#^2-8|2 Sam 2.8–10]] = 4QSama)\]; [[Proverbs 29#^29-23|Prov 29.23]]; 1QHa 9.35–39; *Lev. Rab.* [1.5](https://www.sefaria.org/Vayikra_Rabbah.1.5); see also [[Jeremiah 09#^9-22|Jer 9.22-3]]; in Christian literature: [[Matthew 18#^18-4|Mt 18.4]]; [[Matthew 19#^19-30|19.30]]; [[Matthew 20#^20-16|20.16]]; [[Matthew 23#^23-12|23.12]] and parallels; [[Luke 01#^1-46|Lk 1.46–55]]; [[James 04#^4-6|Jas 4.6–10]]). ^1-25-2
+**[[NRSVue 1 Corinthians 01#^1-25|25–26]]:** God’s kingdom inverts hierarchies (in Jewish literature: Hannah’s prayer, as expanded in the Greek \[LXX 1 Kings ([[II Samuel 02#^2-8|2 Sam 2.8–10]] = 4QSama)\]; [[Proverbs 29#^29-23|Prov 29.23]]; 1QHa [[DSS 1QHa#^9-35|9.35–39]]; *Lev. Rab.* [1.5](https://www.sefaria.org/Vayikra_Rabbah.1.5); see also [[Jeremiah 09#^9-22|Jer 9.22-3]]; in Christian literature: [[Matthew 18#^18-4|Mt 18.4]]; [[Matthew 19#^19-30|19.30]]; [[Matthew 20#^20-16|20.16]]; [[Matthew 23#^23-12|23.12]] and parallels; [[Luke 01#^1-46|Lk 1.46–55]]; [[James 04#^4-6|Jas 4.6–10]]). ^1-25-2
 
 **[[NRSVue 1 Corinthians 01#^1-26|26]]:** Paul suggests most Corinthians were uneducated, plebeian, and socially uninfluential. ^1-26
 

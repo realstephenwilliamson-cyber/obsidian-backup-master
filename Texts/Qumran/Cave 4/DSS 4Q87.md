@@ -19,89 +19,29 @@ aliases:
 
 *Study Edition, pp. 279–281 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1
-
-Ps 76:10-12; 77:1
-
-### Frag. 13
-
-Ps 105:23-25
-
-### Frag. 2 i
-
-Ps 78:6-7
-
-### Frag. 14-16 ii,
-
-Ps 105:36-45;
-
-### Frag. 2 ii
-
-Ps 78:31-33 17-19 146:1?
-
-### Frag. 3
-
-Ps 81:2-3
-
-### Frag. 20
-
-Ps 109:1?
-
-### Frag. 4
-
-Ps 86:10-11
-
-### Frag. 21
-
-Ps 109:8?
-
-### Frag. 5
-
-Ps 88:1-5
-
-### Frag. 22
-
-Ps 109:13
-
-### Frag. 6-7
-
-Ps 89:44-48
-
-### Frag. 23
-
-Ps 114:5?
-
-### Frag. 8
-
-Ps 89:50-53
-
-### Frag. 24
-
-Ps 115:15 - 116:3
-
-### Frag. 9
-
-Ps 118:29?; 104:1-3
-
-### Frag. 25
-
-Ps 120:6-7
-
-### Frag. 10-11
-
-Ps 104:20-22
-
-### Frag. 26 i
-
-Ps 125:2 - 126:5
-
-### Frag. 12, 16 i
-
-Ps 105:1-3
-
-### Frag. 26 ii
-
-Ps 129:8 - 130:6
+| Fragment | Text |
+|---|---|
+| Frag. 1 | Ps 76:10-12; 77:1 |
+| Frag. 2 i | Ps 78:6-7 |
+| Frag. 2 ii | Ps 78:31-33 |
+| Frag. 3 | Ps 81:2-3 |
+| Frag. 4 | Ps 86:10-11 |
+| Frag. 5 | Ps 88:1-5 |
+| Frag. 6-7 | Ps 89:44-48 |
+| Frag. 8 | Ps 89:50-53 |
+| Frag. 9 | Ps 118:29?; 104:1-3 |
+| Frag. 10-11 | Ps 104:20-22 |
+| Frag. 12, 16 i | Ps 105:1-3 |
+| Frag. 13 | Ps 105:23-25 |
+| Frag. 14-16 ii, 17-19 | Ps 105:36-45; 146:1? |
+| Frag. 20 | Ps 109:1? |
+| Frag. 21 | Ps 109:8? |
+| Frag. 22 | Ps 109:13 |
+| Frag. 23 | Ps 114:5? |
+| Frag. 24 | Ps 115:15 - 116:3 |
+| Frag. 25 | Ps 120:6-7 |
+| Frag. 26 i | Ps 125:2 - 126:5 |
+| Frag. 26 ii | Ps 129:8 - 130:6 |
 
 ### Col. vii (= 11Q5 xxii)
 

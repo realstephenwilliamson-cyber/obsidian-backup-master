@@ -393,9 +393,7 @@ Eight Sons and Daughter of Rṣabha, Who Governs the Islands of Bhārata
 
 *[p. 142]* ^pg160
 
-The greatly courageous Rṣabha, intent on righteousness, was the son of Nābhi. One should know that his son was the valorous Bharata, and that the most excellent land of Bhārata bears his name. O beloved, he too had eight sons and an excellent daughter. The eight sons were given the eight islands of Bhārata. The ninth, called Kumārī (Virgin), was given to the daughter(kanyā). Bharata named the islands after them.’[^407] 
-
-them. 
+The greatly courageous Rṣabha, intent on righteousness, was the son of Nābhi. One should know that his son was the valorous Bharata, and that the most excellent land of Bhārata bears his name. O beloved, he too had eight sons and an excellent daughter. The eight sons were given the eight islands of Bhārata. The ninth, called Kumārī (Virgin), was given to the daughter(kanyā). Bharata named the islands after them.’[^407]
 
 Measurements East to West of Jambūdvīpa 
 

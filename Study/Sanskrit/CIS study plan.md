@@ -76,62 +76,62 @@ A once-through plan for Antonia Ruppel's *The Cambridge Introduction to Sanskrit
 
 - [ ] 4.1 Read [[The Cambridge Introduction 11 - Chapter 4 The Present Tense|Ch. 4 The Present Tense]] — M/W/F
 - [ ] 4.2 Drill: `CIS Ch. 4 cards` (new words and forms) — T/Th
-- [ ] 4.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 4.3 Exercises ([[CIS - Answers to Chapter 4 Exercises (Ruppel)|key]]) — M/W/F
 
 **Chapter 5** · course: 101, week 5
 
 - [ ] 5.1 Read [[The Cambridge Introduction 12 - Chapter 5 Road Map Nominals|Ch. 5 Road Map: Nominals]] — M/W/F
 - [ ] 5.2 Drill: `CIS Ch. 5 cards` (new words and forms) — T/Th
-- [ ] 5.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 5.3 Exercises ([[CIS - Answers to Chapter 5 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 5.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 6** · course: 101, week 6
 
 - [ ] 6.1 Read [[The Cambridge Introduction 13 - Chapter 6 a-stems|Ch. 6 a-stems]] — M/W/F
 - [ ] 6.2 Drill: `CIS Ch. 6 cards` (new words and forms) — T/Th
-- [ ] 6.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 6.3 Exercises ([[CIS - Answers to Chapter 6 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 6.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 7** · course: 101, week 7
 
 - [ ] 7.1 Read [[The Cambridge Introduction 14 - Chapter 7 Vowel Gradation and Why We Need to Know about It|Ch. 7 Vowel Gradation and Why We Need to Know about It]] — M/W/F
 - [ ] 7.2 Drill: `CIS Ch. 7 cards` (new words and forms) — T/Th
-- [ ] 7.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 7.3 Exercises ([[CIS - Answers to Chapter 7 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 7.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 8** · course: 101, week 8
 
 - [ ] 8.1 Read [[The Cambridge Introduction 15 - Chapter 8 Absolutives, ta-participles and Infinitives; Introduction|Ch. 8 Absolutives, ta-participles and Infinitives; Introduction to Internal Sandhi]] — M/W/F
 - [ ] 8.2 Drill: `CIS Ch. 8 cards` (new words and forms) · add this chapter's rules to the sandhi cards — T/Th
-- [ ] 8.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 8.3 Exercises ([[CIS - Answers to Chapter 8 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 8.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 9** · course: 101, week 9
 
 - [ ] 9.1 Read [[The Cambridge Introduction 16 - Chapter 9 a-stems|Ch. 9 ā-stems]] — M/W/F
 - [ ] 9.2 Drill: `CIS Ch. 9 cards` (new words and forms) · add this chapter's rules to the sandhi cards — T/Th
-- [ ] 9.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 9.3 Exercises ([[CIS - Answers to Chapter 9 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 9.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 10** · course: 101, week 10
 
 - [ ] 10.1 Read [[The Cambridge Introduction 17 - Chapter 10 Prepositions and Preverbs|Ch. 10 Prepositions and Preverbs]] — M/W/F
 - [ ] 10.2 Drill: `CIS Ch. 10 cards` (new words and forms) · add this chapter's rules to the sandhi cards — T/Th
-- [ ] 10.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 10.3 Exercises ([[CIS - Answers to Chapter 10 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 10.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 11** · course: 101, week 11
 
 - [ ] 11.1 Read [[The Cambridge Introduction 18 - Chapter 11 Introduction to External Sandhi I Consonant Sandhi|Ch. 11 Introduction to External Sandhi I: Consonant Sandhi]] — M/W/F
 - [ ] 11.2 Drill: `CIS Ch. 11 cards` (new words and forms) · add this chapter's rules to the sandhi cards — T/Th
-- [ ] 11.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 11.3 Exercises ([[CIS - Answers to Chapter 11 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 11.4 Reading at the end of the chapter — M/W/F
 
 **Chapter 12** · course: 101, week 12
 
 - [ ] 12.1 Read [[The Cambridge Introduction 19 - Chapter 12 Imperfect Indicative and Present Potential|Ch. 12 Imperfect Indicative and Present Potential]] — M/W/F
 - [ ] 12.2 Drill: `CIS Ch. 12 cards` (new words and forms) — T/Th
-- [ ] 12.3 Exercises (key not yet in the vault) — M/W/F
+- [ ] 12.3 Exercises ([[CIS - Answers to Chapter 12 Exercises (Ruppel)|key]]) — M/W/F
 - [ ] 12.4 Reading at the end of the chapter — M/W/F
 
 ### Term 102: Chapters 13–24
@@ -345,7 +345,7 @@ Ruppel's [[An Introductory Sanskrit Reader (Ruppel)|An Introductory Sanskrit Rea
 ## Open questions
 
 - Spaced Repetition: a trial of ten cards on the laptop and the Fold before all the cards are made.
-- Answer keys beyond Chapter 3: converted as the plan reaches them.
+- Answer keys beyond Chapter 12: converted as the plan reaches them.
 - The course's week pages: if they are saved to the vault, the course labels can become links.
 - When to begin the *Introductory Sanskrit Reader*.
 

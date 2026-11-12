@@ -10,7 +10,7 @@ text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07
 ---
 
-[[A Source Book in Chinese 23 - Chapter 38 (end), Chapters 39-42, K'ang Yu-wei's Philosophy of Great Unity - The New Rationalistic Confucianism, Fung Yu-lan|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 25 - Appendix, On Translating Certain Chinese Philosophical Terms|next →]]
+[[A Source Book in Chinese 23 - Chapter 38 (end), Chapters 39-42, K'ang Yu-wei's Philosophy of Great Unity - The New Rationalistic Confucianism|← previous]] · [[A Source Book in Chinese Philosophy (Chan)|contents]] · [[A Source Book in Chinese 25 - Appendix, On Translating Certain Chinese Philosophical Terms|next →]]
 
 *[p. 761]* ^pg788
 

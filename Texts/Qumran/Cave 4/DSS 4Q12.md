@@ -22,6 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 26:21-28 |
+
+4QGenn cf. 4Q576
+
+| Fragment | Text |
+|---|---|
 | Frag. 1 | Gen 34:7-10 |
 | Frag. 2 | Gen 50:3 |
 

@@ -265,9 +265,7 @@ ng requires effort. This will be explained in the following chapter. As he will 
 
 ‘The (spontaneous) effortless (ayatnaja) (emergence of time within the flow of the breath) has been discussed; we will now talk about the (voluntary) 
 
-one, that is the result of effort.[^431] 
-
-effort. 
+one, that is the result of effort.[^431]
 
 Here he defines the emergence of the letters that takes place (spontaneously,) without effort. As supreme, subtle and gross, it is of three kinds. There the supreme (kind) of emergence of the letters is also of two kinds, one superior and the other inferior. Thus, he begins to define the superior, supreme arising (of the letters). 
 

@@ -296,9 +296,7 @@ As is said:
 
 ‘First of all, there is 1) one, 2) multiplied by ten, which, multiplied by ten, makes 3) one hundred (śata). 4) Having multiplied a hundred by ten, it is said to be a thousand (sahasra). 5) Ten times a thousand is said to be ten thousand (ayuta). 6) Ten times ten thousand is one hundred thousand (lakṣa), and 7) ten of those is a million (niyuta). 8) Ten of them are ten million (koṭi), and 9) ten of those are a hundred million (arbuda). 10) Ten of which are a thousand million (vṛnda). 11) (Multiplied) by ten makes ten thousand million (kharva), and 12) ten of those, a billion (nikharva). 13) Ten of those make ten billion (śaṅkha), and 14) ten of these make a hundred billion (padma), 15) ten of which make a thousand billion (sāgara). 16) Multiplied by ten they make ten thousand billion (madhya), and 17) by (another) ten a hundred thousand billion (anta), and multiplying that by ten, (the number) is said to be a trillion (parārdha). Such are the eighteen stages (sthāna) of (this serial process of) 
 
-multiplication.”[^369] 
-
-multiplication. 
+multiplication.”[^369]
 
 Although here, (according to this view), there are endless numbers of emanations and withdrawals, in order to explain their relationship with one another as principal and secondary, he says: 
 
@@ -890,9 +888,7 @@ Filling the ten main great channels and the other channels linked to them, (the 
 
 ‘Linked to them’, their subdivisions number seventy-two thousand, and ‘the other channels’ are their secondary subdivisions. As is said: 
 
-‘Seventy-two thousand channels emerge from them, and others emerge from these, and from those, others emerge, and so on repeatedly.”[^404] 
-
-repeatedly. 
+‘Seventy-two thousand channels emerge from them, and others emerge from these, and from those, others emerge, and so on repeatedly.”[^404]
 
 Thus, because it breathes equally throughout the body, this, the one called the Equalizing Breath, is said to ‘extend equally’. 
 
@@ -955,9 +951,15 @@ This same (Equalizing Breath) circulates, Night and Day, in the three main chann
 
 As is said (there): 
 
-‘O goddess, three channels out of the ten are said to be supreme. Two are the Point (bindu) and Sound, while Energy is said to be in the middle.”[^409] middle. 
+‘O goddess, three channels out of the ten are said to be supreme. Two are the Point (bindu) and Sound, while Energy is said to be in the middle.”[^409]
 
-Īśvara, Sadāśiva and Śiva preside over the right, left and middle (channel) by virtue of the supreme pervasion of Brahmā, Viṣṇu and Rudra. Thus, one should think that, because they are sustained (and governed) by Īśvara and the rest, the Fourth state pervades the three (states,) consisting of waking (dreaming and deep sleep). The nature of the supreme cause is taught by (saying that it) ‘transcends everything’. Like the Causes, he (now) teaches the condition of the three energies, divided into supreme and lower. jyeṣthā jñāne ca dakṣe ca kriyā vāmā tathottare || 152 ॥ raudrī cecchā ca madhyasthā. jñānādyā aparāḥ, jyeṣthādyās tu parāḥ \\\\ kāraṇānusāreṇa parakāraṇasvarūpavat paraśaktisvarūpam apy āha ---- n parā śaktiḥ parāparā | yāpya sthitety arthaḥ \\\\ sarvam eva param aparar ca atraiva somasūryāgnīnāha ---- ‘Jyeṣthā is in knowledge on the right. Similarly, action is Vāmā on the left, and Raudrī is the will, located in the middle.’ (7/152cd-153a) Knowledge etc. are lower (apara), whereas Jyeṣthā etc. are supreme. (He goes on to) teach the nature of the supreme power (paraśsakti) which, as (the energies are) in consonance with the Causes, is like the nature of the supreme Cause. “The supreme power is (both) supreme and lower (parāparā).’ (153b) The meaning is that it abides (as such) having pervaded everything, both supreme and lower. He (now) teaches that the Moon, Sun and Fire are here (also). The text continues with SvT 7/153cd-154ab, cited here by Jayaratha. \[mee\] Channel | \[illegible\] | | Right | \[e\] \[=\] Cause | Godde | Light y ss | \[illegible\] | Piṅgalā Gods | Sarva Waking | Gnosi | Brahmā, | Jyeṣthā \[moon | s | 3 1 Left |\] | Eees | Rajas | Premire | Actio | Viṣṇu, Vāmā | > | n\_ | Sadāśiva | Middle | Suṣumnā Śiva Tamas | Deep Sleep | Will | Rudra, | Raudri | Fire /Tuñya Śiva
+Īśvara, Sadāśiva and Śiva preside over the right, left and middle (channel) by virtue of the supreme pervasion of Brahmā, Viṣṇu and Rudra. Thus, one should think that, because they are sustained (and governed) by Īśvara and the rest, the Fourth state pervades the three (states,) consisting of waking (dreaming and deep sleep). The nature of the supreme cause is taught by (saying that it) ‘transcends everything’. Like the Causes, he (now) teaches the condition of the three energies, divided into supreme and lower. jyeṣthā jñāne ca dakṣe ca kriyā vāmā tathottare || 152 ॥ raudrī cecchā ca madhyasthā. jñānādyā aparāḥ, jyeṣthādyās tu parāḥ \\\\ kāraṇānusāreṇa parakāraṇasvarūpavat paraśaktisvarūpam apy āha ---- n parā śaktiḥ parāparā | yāpya sthitety arthaḥ \\\\ sarvam eva param aparar ca atraiva somasūryāgnīnāha ---- ‘Jyeṣthā is in knowledge on the right. Similarly, action is Vāmā on the left, and Raudrī is the will, located in the middle.’ (7/152cd-153a) Knowledge etc. are lower (apara), whereas Jyeṣthā etc. are supreme. (He goes on to) teach the nature of the supreme power (paraśsakti) which, as (the energies are) in consonance with the Causes, is like the nature of the supreme Cause. “The supreme power is (both) supreme and lower (parāparā).’ (153b) The meaning is that it abides (as such) having pervaded everything, both supreme and lower. He (now) teaches that the Moon, Sun and Fire are here (also). The text continues with SvT 7/153cd-154ab, cited here by Jayaratha.
+
+| Place | Channel | Path | Quality | State | Energy | Cause | Goddess | Light |
+|---|---|---|---|---|---|---|---|---|
+| Right | Piṅgalā | Gods | *Sattva* | Waking | Gnosis | Brahmā, Īśvara | Jyeṣṭhā | Moon |
+| Left | Īḍā | Fathers | *Rajas* | Dreaming | Action | Viṣṇu, Sadāśiva | Vāmā | Sun |
+| Middle | Suṣumnā | Śiva | *Tamas* | Deep Sleep / Turīya | Will | Rudra, Śiva | Raudrī | Fire |
 
 [^409]: SvT 7/19cd-20ab. The next line is also worth quoting. It reads: “(These three,) that benefit the adepts, are said to be in the Wheel of the Heart.’ In his commentary Kṣemarāja explains that ‘the Point (bindu) is predominantly the energy of knowledge. It is the exhaled breath (prāṇa) and the right channel. That 15 Piṅgalā’s nature. Sound is predominantly the energy of action. It is the inhaled breath (apāna) and the left channel. That is Idā’s nature. The (channel) called Suṣumnā is in between them and its nature is the radiant pulse of the energy of the supreme will.” Chart of Correspondences Left | Midde \[ Rigt | mā č | Suṣumnā | ?2० \_ | Apāna Samāna / Udāna Prāṇa Night Junctions (saṁṁdhyā) | 7» | Moon Fire Sun | Binu | Śakti Nāda Action Will Knowledge
 

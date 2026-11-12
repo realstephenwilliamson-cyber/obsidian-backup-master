@@ -5,7 +5,7 @@ manuscript: "3Q15"
 title: "3QCopper Scroll"
 location: "Cave 3"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "232–241"
+page_range: "232–239"
 aliases:
   - "3Q15"
 ---
@@ -16,7 +16,7 @@ aliases:
 > [!info]- Edition, photographs, parallels and bibliography
 > J.T. Milik, DJD III, 211-302, pl. XLVIII-LXXI PAM 40.096-40.111; 42.977-43.000 DAJ Bibliography: J.M. Allegro, The Treasure of the Copper Scroll (London: Routledge & Keegan, 1960); B.Z. Luria, The Copper Scroll from the Desert of Judah, (Jerusalem, 1963) [Hebrew]; B. Pixner, ‘Unravelling the Copper Scroll Code: A Study on the Topography of 3Q15’, RevQ 11/43 (1983) 323-366; A. Wolters, ‘Notes on the Copper Scroll (3Q15)’, RevQ 12/48 (1987) 589-596; P. Kyle McCarter, ‘The Mystery of the Copper Scroll’, in H. Shanks et al. (eds.), The Dead Sea Scrolls after Forty Years (Washington, D.C.: Biblical Archaeology Society, 1991) 41-54; J. Lefkovits, The Copper Scroll: 3Q15, a New Reading, Translation, and Commentary (diss. New York University, 1993); A. Wolters, ‘History and the Copper Scroll’, in M.O. Wise (ed.), Methods of Investigation of the Dead Sea Scrolls and the Khirbet Qumran Site: Present Realities and Future Prospects (New York: Academy of Sciences, 1994) 285-298; A. Wolters, The Copper Scroll. Overview, Text and Translation (Shefﬁeld: Shefﬁeld Academic Press, 1996); É. Puech, ‘Quelques résultats d’un nouvel examen du Rouleau de Cuivre (3Q15)’, RevQ 18/70 (1997) 163-190
 
-*Study Edition, pp. 232–241 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+*Study Edition, pp. 232–239 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 ### Col. i
 
@@ -398,30 +398,6 @@ aliases:
 
 **12** and its explanation and their measurements and the inventory of everything, ^12-12
 
-**13** Blank item by item. *[p. 241]* 1Q1, 2Q1, 4Q1, 4Q3, 4Q4, 4Q5, 4Q6, 4Q7, 4Q8, 4Q8a, 4Q8b, 4Q8c, 4Q9, 4Q10, 4Q11, 4Q12, 4Q576, 6Q1, 8Q1 ^12-13
-
-### Frag. 1 i
-
-Gen 1:1-25
-
-### Frag. 3 i
-
-Gen 4:2-11
-
-### Frag. 2
-
-Gen 1:25-28
-
-### Frag. 3 ii
-
-Gen 5:13 ?
-
-### Frag. 1 ii
-
-Gen 2:14-19
-
-### Frag. 4
-
-?
+**13** Blank item by item. ^12-13
 
 [[DSS 3Q14|← 3Q14]] · [[Qumran|index]] · [[DSS 4Q1|4Q1 →]]

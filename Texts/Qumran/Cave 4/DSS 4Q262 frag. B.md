@@ -1,15 +1,15 @@
 ---
 type: text
 work: "Dead Sea Scrolls"
-manuscript: "4Q262"
-title: "frag. B"
+manuscript: "4Q262 frag. B"
+title: "4Q262 frag. B"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "542–543"
 aliases:
-  - "4Q262"
+  - "4Q262 frag. B"
 ---
-# 4Q262 · frag. B
+# 4Q262 frag. B
 
 [[DSS 4Q262|← 4Q262]] · [[Qumran|index]] · [[DSS 4Q263|4Q263 →]]
 

@@ -32,4 +32,6 @@ aliases:
 | Frag. 22 | Lev 27:30-31? |
 | Frag. 23-24 | ? |
 
+Barthélemy accepts the possibility that there are three or four separate manuscripts, to which fragments 1-15, 16-21, 22-23 and 24 respectively belonged. M. D. McLean, The Use and Development of Paleo-Hebrew in the Hellenistic and Roman Period (Diss. Harvard 1982) 41-42, distinguishes three different MSS: 1QpaleoLeva: fragments 1-8.10-15; 1QpaleoLevb: fragments 22-23; 1Qpaleo- Num: fragments 16-21
+
 [[DSS 1Q2|← 1Q2]] · [[Qumran|index]] · [[DSS 1Q4|1Q4 →]]

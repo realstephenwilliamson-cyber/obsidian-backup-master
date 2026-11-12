@@ -607,9 +607,7 @@ by
 
 various means, (including) 
 
-contemplation (bhāvanā), meditation (dhyāna), the repeated recitation of mantra (japa), (yogic) sleep (svapna), (by observing a) vow (vrata), and (offering) oblations.”[^423] 
-
-oblations. 
+contemplation (bhāvanā), meditation (dhyāna), the repeated recitation of mantra (japa), (yogic) sleep (svapna), (by observing a) vow (vrata), and (offering) oblations.”[^423]
 
 Surely, (one may ask) what the authority (pramānṇa) here (for this view) is. With this doubt in mind, he says: 
 

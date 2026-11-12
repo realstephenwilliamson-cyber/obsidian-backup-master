@@ -74,9 +74,9 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 1Q35|1Q35]] 1QHodayotb
 - [[DSS 1Q36|1Q36]] 1QHymnic Composition
 - [[DSS 1Q37|1Q37]] 1QHymnic Composition (?)
-- [[DSS 1Q38|1Q38]] 1QHymnic Composition (?)
-- [[DSS 1Q39|1Q39]] 1QHymnic Composition (?)
-- [[DSS 1Q40|1Q40]] 1QHymnic Composition (?)
+- [[DSS 1Q38|1Q38]] Hymnic Composition (?)
+- [[DSS 1Q39|1Q39]] Hymnic Composition (?)
+- [[DSS 1Q40|1Q40]] Hymnic Composition (?)
 - [[DSS 1Q41-70|1Q41-70]] 1Q70bis 1QUnclassiﬁed Fragments
 - [[DSS 1Q71|1Q71]] 1QDaniela
 - [[DSS 1Q72|1Q72]] 1QDanielb
@@ -324,7 +324,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q173a|4Q173a]] (= 4Q173 frag. 5)
 - [[DSS 4Q174|4Q174]] 4QFlorilegium
 - [[DSS 4Q175|4Q175]] 4QTestimonia
-- [[DSS 4Q176|4Q176]] 4QTanΩûmîm
+- [[DSS 4Q176|4Q176]] 4QTanḥûmîm
 - [[DSS 4Q176a-b|4Q176a,b]] (4QJubi,f?) 4QJubileesi,f?
 - [[DSS 4Q177|4Q177]] 4QCatena A
 - [[DSS 4Q178|4Q178]] 4QUnclassified fragments
@@ -380,7 +380,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q233|4Q233]] 4QFragments with place names
 - [[DSS 4Q234|4Q234]] 4QGen 27:20-21 (Exercitium Calami)
 - [[DSS 4Q235|4Q235]] 4QFragments of Book of Kings nabatean (?)
-- [[DSS 4Q236|4Q236]] 4QPsalm 89
+- [[DSS 4Q236|4Q236]] 4QPsalm 89 [now 4Q98g]
 - [[DSS 4Q238|4Q238]] 4QHabakkuk 3 and songs
 - [[DSS 4Q239|4Q239]] 4QPesher on the True Israel
 - [[DSS 4Q240|4Q240]] 4QCommentary on Canticles (?)
@@ -393,7 +393,8 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q247|4Q247]] Apocalypse of Weeks (?)
 - [[DSS 4Q248|4Q248]] Acts of a Greek King
 - [[DSS 4Q249|4Q249]] 4QCryptic A: Midrash Sefer Moshe
-- [[DSS 4Q249a-m|4Q249a-m]] 4QCryptic A Texts
+- [[DSS 4Q249a-m|4Q249a-m]] 4Qpap Cryptic A Texts
+- [[DSS 4Q250|4Q250]] 4Qpap Cryptic A Texts
 - [[DSS 4Q251|4Q251]] 4QHalakhah A
 - [[DSS 4Q252|4Q252]] 4QCommentary on Genesis A
 - [[DSS 4Q253|4Q253]] 4QCommentary on Genesis B
@@ -408,7 +409,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q260|4Q260]] 4QRule of the Communityf
 - [[DSS 4Q261|4Q261]] 4QRule of the Communityg
 - [[DSS 4Q262|4Q262]] 4QRule of the Communityh
-- [[DSS 4Q262 (2)|4Q262]] frag. B
+- [[DSS 4Q262 frag. B|4Q262 frag. B]] 4Q262 frag. B
 - [[DSS 4Q263|4Q263]] 4QRule of the Communityi
 - [[DSS 4Q264|4Q264]] 4QRule of the Communityj
 - [[DSS 4Q264a|4Q264a]] 4QHalakhah B
@@ -432,7 +433,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q282a-4Q282t|4Q282a-4Q282t]] 4QUnidentified Fragments B
 - [[DSS 4Q284|4Q284]] 4QPurification Liturgy
 - [[DSS 4Q284a|4Q284a]] 4QHarvesting
-- [[DSS 4Q285|4Q285]] 4QSefer ha-Milh≥amah
+- [[DSS 4Q285|4Q285]] 4QSefer ha-Milḥamah
 - [[DSS 4Q286|4Q286]] 4QBlessingsa
 - [[DSS 4Q287|4Q287]] 4QBlessingsb
 - [[DSS 4Q288|4Q288]] 4QBlessingsc
@@ -456,12 +457,11 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q309|4Q309]] 4QCursive Work ar
 - [[DSS 4Q310|4Q310]] 4QPapyrus Text ar
 - [[DSS 4Q311|4Q311]] 4QPapyrus Unclassified Text
-- [[DSS 4Q317|4Q317]] 4QcryptA Phases of the Moon
 - [[DSS 4Q312|4Q312]] 4QHebrew Text in Phoenician Cursive?
 - [[DSS 4Q313|4Q313]] 4QCryptic A Unclassified Fragments
 - [[DSS 4Q314-4Q315|4Q314-4Q315]] 4QParcels of Parchment
 - [[DSS 4Q316|4Q316]] 4QUnclassified Fragments
-- [[DSS 4Q317 (2)|4Q317]] 4QcryptA Phases of the Moon
+- [[DSS 4Q317|4Q317]] 4QcryptA Phases of the Moon
 - [[DSS 4Q318|4Q318]] 4QBrontologion
 - [[DSS 4Q319|4Q319]] 4QOtot
 - [[DSS 4Q320|4Q320]] 4QCalendrical Document A
@@ -493,7 +493,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q345|4Q345]] 4QDeed A ar or heb
 - [[DSS 4Q346|4Q346]] 4QDeed of Sale ar
 - [[DSS 4Q346a|4Q346a]] 4QUnidentified Fragment A
-- [[DSS 4Q347|4Q347]] [XH≥ev/Se 32 (+ 4Q347)] XH≥ev/ Se papDeed F (+ 4Q347) ar
+- [[DSS 4Q347|4Q347]] [XḤev/Se 32 (+ 4Q347)] XḤev/Se papDeed F (+ 4Q347) ar
 - [[DSS 4Q348|4Q348]] 4QDeed B heb?
 - [[DSS 4Q349|4Q349]] 4QSale of Property?
 - [[DSS 4Q350|4Q350]] 4QAccount of Cereal
@@ -648,7 +648,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q473|4Q473]] 4QThe Two Ways
 - [[DSS 4Q474|4Q474]] 4QText Concerning Rachel and Joseph
 - [[DSS 4Q475|4Q475]] 4QRenewed Earth
-- [[DSS 4Q476|4Q476]] 4Q476a 4QLiturgical Work B, 4QLiturgical Work C
+- [[DSS 4Q476|4Q476, 4Q476a]] 4QLiturgical Work B, 4QLiturgical Work C
 - [[DSS 4Q477|4Q477]] 4QRebukes Reported by the Overseer
 - [[DSS 4Q478|4Q478]] 4QpapFragment Mentioning Festivals
 - [[DSS 4Q479|4Q479]] 4QText Mentioning Descendants of David
@@ -704,9 +704,9 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q527|4Q527]] 4QLiturgical Work D?
 - [[DSS 4Q528|4Q528]] 4QHymnic or Sapiential Work B
 - [[DSS 4Q529|4Q529]] 4QWords of Michael ar
-- [[DSS 4Q530|4Q530]] 4QBook of Giantsb
-- [[DSS 4Q531|4Q531]] 4QBook of Giantsc
-- [[DSS 4Q532|4Q532]] 4QBook of Giantsd
+- [[DSS 4Q530|4Q530]] 4QBook of Giantsb ar
+- [[DSS 4Q531|4Q531]] 4QBook of Giantsc ar
+- [[DSS 4Q532|4Q532]] 4QBook of Giantsd ar
 - [[DSS 4Q533|4Q533]] 4QGiants or Pseudo-Enoch ar
 - [[DSS 4Q534|4Q534]] 4QNoah ar
 - [[DSS 4Q535|4Q535]] 4QAramaic N
@@ -736,7 +736,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q554|4Q554]] 4QNew Jerusalema ar
 - [[DSS 4Q554a|4Q554a]] 4QNew Jerusalemb ar
 - [[DSS 4Q555|4Q555]] 4QNew Jerusalemc ar
-- [[DSS 4Q556|4Q556]] 4QBook of Giantse
+- [[DSS 4Q556|4Q556]] 4QBook of Giantse ar
 - [[DSS 4Q557|4Q557]] 4QVisionc ar
 - [[DSS 4Q558|4Q558]] 4QVisionb ar
 - [[DSS 4Q559|4Q559]] 4QBiblical Chronology
@@ -854,7 +854,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 11Q11|11Q11]] 11QApocryphal Psalms
 - [[DSS 11Q12|11Q12]] 11QJubilees
 - [[DSS 11Q13|11Q13]] 11QMelchizedek
-- [[DSS 11Q14|11Q14]] 11QSefer ha Milh≥amah
+- [[DSS 11Q14|11Q14]] 11QSefer ha-Milḥamah
 - [[DSS 11Q15|11Q15]] 11QHymnsa
 - [[DSS 11Q16|11Q16]] 11QHymnsb
 - [[DSS 11Q17|11Q17]] 11QSongs of the Sabbath Sacriﬁce
@@ -869,7 +869,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 11Q26|11Q26]] 11QUnidentiﬁed Text B
 - [[DSS 11Q27|11Q27]] 11QUnidentiﬁed Text C
 - [[DSS 11Q28|11Q28]] 11QUnidentiﬁed Text D
-- [[DSS 11Q29|11Q29]] 11QFragment Related to Serekh ha-Yah≥ad
+- [[DSS 11Q29|11Q29]] 11QFragment Related to Serekh ha-Yaḥad
 - [[DSS 11Q30|11Q30]] 11QUnclassiﬁed Fragments
 - [[DSS 11Q31|11Q31]] 11QUnidentiﬁed Wads
 

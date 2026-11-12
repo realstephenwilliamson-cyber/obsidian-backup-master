@@ -27,108 +27,42 @@ aliases:
 | Frag. E i | Ps 118:24-29; 104:1-6 |
 | Frag. E ii, F | Ps 104:22-35; 147:1-3 |
 | Frag. E iii | Ps 147:18-20; 105:1-12 |
-
-### Col. V
-
-Ps 128:4 - 131:1
-
-### Col. VI
-
-Ps 132:8-18; 119:1-6
-
-### Col. VII
-
-Ps 119:15-28
-
-### Col. VIII
-
-Ps 119:37-49
-
-### Col. IX
-
-Ps 119:59-73
-
-### Col. X
-
-Ps 119:82-96
-
-### Col. XI
-
-Ps 119:105-120
-
-### Col. XII
-
-Ps 119:128-142
-
-### Col. XIII
-
-Ps 119:150-164
-
-### Col. XIV
-
-Ps 119:171-176; 135:1-9
-
-### Col. XV
-
-Ps 135:17 - 136:16
-
-### Col. XVI
-
-Ps 136:26; 118:1, 15-16, 8-9, X, 29; 145:1-7
-
-### Col. XVII
-
-Ps 145:13-32
-
-### Col. XVIII
-
-Ps 154:3-19 (= Syriac Ps II)
-
-### Col. XIX
-
-Plea for Deliverance
-
-### Col. XX
-
-Ps 139:8-24; 137:1
-
-### Col. XXI
-
-Ps 137:9 - 138:8; Sirach 51:13-19
-
-### Col. XXII
-
-Sirach 51:30; Apostrophe to Zion; Ps 93:1-3
-
-### Col. XXIII
-
-Ps 141:5-10; 133:1-3; 144:1-7
-
-### Col. XXIV
-
-Ps 144:15; 155:1-19 (= Syriac Ps III)
-
-### Col. XXV
-
-Ps 142:4 - 143:8
-
-### Col. XXVI
-
-Ps 149:9 - 150:6; Hymn to the Creator
-
-### Col. XXVII
-
-**2** Sam 23:7; David’s Compositions; Ps 140:1-5 ^27-2
-
-### Col. XXVIII
-
-Ps 134, 151A, 151B
+| Col. I | Ps 105:25-45 |
+| Col. II | Ps 146:9, X, 10; 148:1-12 |
+| Col. III | Ps 121:1 - 123:2 |
+| Col. IV | Ps 124:8 - 127:1 |
+| Col. V | Ps 128:4 - 131:1 |
+| Col. VI | Ps 132:8-18; 119:1-6 |
+| Col. VII | Ps 119:15-28 |
+| Col. VIII | Ps 119:37-49 |
+| Col. IX | Ps 119:59-73 |
+| Col. X | Ps 119:82-96 |
+| Col. XI | Ps 119:105-120 |
+| Col. XII | Ps 119:128-142 |
+| Col. XIII | Ps 119:150-164 |
+| Col. XIV | Ps 119:171-176; 135:1-9 |
+| Col. XV | Ps 135:17 - 136:16 |
+| Col. XVI | Ps 136:26; 118:1, 15-16, 8-9, X, 29; 145:1-7 |
+| Col. XVII | Ps 145:13-32 |
+| Col. XVIII | Ps 154:3-19 (= Syriac Ps II) |
+| Col. XIX | Plea for Deliverance |
+| Col. XX | Ps 139:8-24; 137:1 |
+| Col. XXI | Ps 137:9 - 138:8; Sirach 51:13-19 |
+| Col. XXII | Sirach 51:30; Apostrophe to Zion; Ps 93:1-3 |
+| Col. XXIII | Ps 141:5-10; 133:1-3; 144:1-7 |
+| Col. XXIV | Ps 144:15; 155:1-19 (= Syriac Ps III) |
+| Col. XXV | Ps 142:4 - 143:8 |
+| Col. XXVI | Ps 149:9 - 150:6; Hymn to the Creator |
+| Col. XXVII | 2 Sam 23:7; David’s Compositions; Ps 140:1-5 |
+| Col. XXVIII | Ps 134, 151A, 151B |
 
 ### Col. xviii (cf. 4Q448 A)
 
-Psalm 154:3-19 = Syriac Psalm
+Psalm 154:3-19 = Syriac Psalm 2
 
-**2** [Unite] 1 your souls with the good ones and with the perfect ones to glorify the Most High. Join together 2 to make his salvation known and do not hesitate to proclaim his power and his glory ^18a-2
+**1** [Unite] your souls with the good ones and with the perfect ones to glorify the Most High. Join together ^18a-1
+
+**2** to make his salvation known and do not hesitate to proclaim his power and his glory ^18a-2
 
 **3** to all ordinary people. For, wisdom has been granted in order to make yhwh’s glory known, and in order to recount ^18a-3
 
@@ -162,9 +96,7 @@ Psalm 154:3-19 = Syriac Psalm
 
 **18** foreigner[s, who fre]es [the perfect from the wicked man’s hand; who raises a horn from Ja]cob and judges ^18a-18
 
-### Col. xix
-
-(= 11Q6 4 - 5)
+### Col. xix (= 11Q6 4 - 5)
 
 **1** (Plea for Deliverance) For a maggot can not give you thanks, and a worm can not tell of your kindness. ^19a-1
 

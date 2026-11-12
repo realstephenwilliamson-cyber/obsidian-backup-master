@@ -661,9 +661,7 @@ the subordinate sacrifice (anuyāga), in association with their own particular (
 
 #### Viveka on 29.174–175
 
-‘In accord with the procedure taught for the subordinate sacrifice’, as stated previously, (in the following verses) beginning with: ‘it is Śambhu’s settled opinion (viniścaya) that one should worship with whatever brings about (an) expansion (of consciousness) within his mind’ (and ending with) ‘In order to worship (in the highest sense), the wise (awakened) man should offer (as an act of worship) into the Supreme Abode the juice (of aesthetic delight) (rasa) that exudes from (the multitude of) phenomena (pressed down) because of the weight of (their) oneness with Siva.”[^419] 
-
-Siva. 
+‘In accord with the procedure taught for the subordinate sacrifice’, as stated previously, (in the following verses) beginning with: ‘it is Śambhu’s settled opinion (viniścaya) that one should worship with whatever brings about (an) expansion (of consciousness) within his mind’ (and ending with) ‘In order to worship (in the highest sense), the wise (awakened) man should offer (as an act of worship) into the Supreme Abode the juice (of aesthetic delight) (rasa) that exudes from (the multitude of) phenomena (pressed down) because of the weight of (their) oneness with Siva.”[^419]
 
 In order to show the greatness of his respect, he corroborates what he has said with a part of his own hymn, although that too was corroborated before. 
 

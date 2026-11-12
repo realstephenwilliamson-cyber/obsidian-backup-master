@@ -341,8 +341,8 @@ const draw = async (want, tr, greek, notices) => {
     let secTitle = null, shown = 0;
     for (const para of jt.split(/\n{2,}/)) {
       const s = para.trim();
-      const h = s.match(/^#{2,3}\s+(\d+)\.(\d+)(?:[–-](?:(\d+)\.)?(\d+))?:\s*(.+)$/);
-      if (h) { const a = [+h[1], +h[2]], b = h[4] ? [h[3] ? +h[3] : a[0], +h[4]] : a; secTitle = { a, b, title: `${h[1]}.${h[2]}${h[4] ? "–" + (h[3] ? h[3] + "." : "") + h[4] : ""}: ${h[5]}` }; continue; }
+      const h = s.match(/^#{2,3}\s+(\d+)[.:](\d+)([a-d]?)(?:\s*[–-]\s*(?:(\d+)[.:])?(\d+)([a-d]?))?:\s*(.*)$/); // also 1:21–28: and 9.37–43a: (12 Nov 2026, audit C-01)
+      if (h) { const a = [+h[1], +h[2]], b = h[5] ? [h[4] ? +h[4] : a[0], +h[5]] : a; secTitle = { a, b, title: `${h[1]}.${h[2]}${h[3]}${h[5] ? "–" + (h[4] ? h[4] + "." : "") + h[5] + h[6] : ""}${h[7] ? ": " + h[7] : ""}` }; continue; }
       if (/^#/.test(s) || !s) continue;
       let a, b, body, lab;
       const vn = s.match(/^\*\*\[\[[^\]|#]+#\^(\d+)-(\d+)\|([^\]]+)\]\]:?\*\*:?\s*/);

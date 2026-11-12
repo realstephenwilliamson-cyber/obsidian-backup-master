@@ -777,9 +777,7 @@ Goddess,
 
 who is called the \[Kundalini of the Phonemes (varṇakundalinī), pours out externally in the form of each Mantra of one or more syllables. When She is in consonance with the vital breath, that is, when Her emergence becomes consonant with the vital breath, that (emergence) manifests as the Transmental, at one with Śiva. As is said there (in the Siddhāmata): 
 
-‘One should make (the Mantra) which is to be repeated consonant with the vital breath. (So too,) make the fire sacrifice consonant with the vital breath. In this way, (Śiva’s) power, who is Mind Beyond Mind (manonmanī) and is called Kundalā, is consonant with the breath.’[^63] 
-
-breath. 
+‘One should make (the Mantra) which is to be repeated consonant with the vital breath. (So too,) make the fire sacrifice consonant with the vital breath. In this way, (Śiva’s) power, who is Mind Beyond Mind (manonmanī) and is called Kundalā, is consonant with the breath.’[^63]
 
 [^62]: After this exegetical digression from 22cd to 39, Abhinava returns to his textual source, the Yoginīkaula. He begins by supporting its authority as expounding a Trika teaching by stating that the SYM, which is a well-known Trika Tantra, agrees with it.
 

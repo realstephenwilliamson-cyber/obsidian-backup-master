@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Prompts - read me
 
@@ -10,7 +10,7 @@ The routine prompts below are ready-made instructions for an AI (a Claude Cowork
 
 Every prompt begins by sending the AI to [[House rules for AI work|House rules for AI work]] and [[Vault Guide]], so the rules live in one place: one AI at a time, back up first, renames, moves and deletes only through Obsidian, no config overwrites, no zip files, nothing made up, ASCII names, and the divine name left as the sources write it. Update those two notes, not the prompts, when a rule changes.
 
-**Sizes** are rough, from the October 2026 sessions, as a share of a week's usage on the plan Stephen had then: **S** is one short session, under an hour, about 1–3%; **M** is half a day to a day, about 5–10% (the orientation chat of 20–21 Oct, a day and a half of conversation and small jobs on Fable, had cost about 8% of the week and 12% of the Fable allowance by mid-afternoon on the 21st); **L** is a day or more with agents, 15% and up (the complete audit of 19 Oct). **Model:** *Sonnet* means a mid-tier model is enough because the work is scripted or mechanical; *Opus/Fable* means the step needs judgment (reading title pages against the catalog, deciding which of two copies is better, checking another agent's work). On the lower tier Stephen has had since 6 Nov 2026 (no Fable), keep the strongest model for the judgment steps and let the no-AI scripts do the measuring.
+**Sizes** are rough, from the October 2026 sessions, as a share of a week's usage on the plan Stephen had then: **S** is one short session, under an hour, about 1–3%; **M** is half a day to a day, about 5–10% (the orientation chat of 20–21 Oct, a day and a half of conversation and small jobs on Fable, had cost about 8% of the week and 12% of the Fable allowance by mid-afternoon on the 21st); **L** is a day or more with agents, 15% and up (the complete audit of 19 Oct). **Model:** *Sonnet* means a mid-tier model is enough because the work is scripted or mechanical; *Opus/Fable* means the step needs judgment (reading title pages against the catalog, deciding which of two copies is better, checking another agent's work). On the lower tier Stephen has had since 6 Nov 2026, do not count on Fable: it comes only now and then as a promotion on that tier, and it uses up the allowance quickly when it does. Where a prompt says *Opus/Fable*, Opus is the model to plan for; keep the strongest model for the judgment steps and let the no-AI scripts do the measuring.
 
 | Prompt | Use it for | Changes the vault? | Who runs it, model | Size |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ Every prompt begins by sending the AI to [[House rules for AI work|House rules f
 
 ## Maintenance mode (from 6 Nov 2026)
 
-From 6 November 2026 Stephen is on a lower paid tier of Claude, with no Fable allowance (he said so on 7 Nov 2026), so the vault's upkeep is arranged to need as little AI as possible, in separate small pieces that can each wait for a quiet moment:
+From 6 November 2026 Stephen is on a lower paid tier of Claude. Fable is not part of it: it is offered only now and then as a promotion, so no session should expect it (Stephen, 12 Nov 2026). The vault's upkeep is arranged to need as little AI as possible, in separate small pieces that can each wait for a quiet moment:
 
 - **Monthly, no AI:** the [[Monthly check-up]]'s report (`health-report.js` through the runner). Most months that is the whole check-up; the queues it lists are yours to work through in Obsidian, and its numbers show the vault moving month by month.
 - **Filing, batched:** new books and articles collect in the Downloads folder *Add to Obsidian* and are filed in one [[Add new files from Downloads]] session when there are ten or twenty, not one at a time.

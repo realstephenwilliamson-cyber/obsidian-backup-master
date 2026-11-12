@@ -187,9 +187,7 @@ Again:
 
 ‘O lady of good vows, there is no doubt that auspicious rites that bestow prosperity, undertaken at that time by one who is devoted to meditation and 
 
-Mantra, are successful.”[^183] 
-
-successful. 
+Mantra, are successful.”[^183]
 
 He (now) explains the division of the lunar days there (in the same flow of the breath): 
 
@@ -241,7 +239,7 @@ A Day and Night is divided by a lunar day, which extends for two and a quarter f
 
 ‘The half tuṭi, (which is the time it takes for) the first emergence (of the breath) from the lotus of the Heart, is the Day. When (the breath) moves during the second half tuṭi, 
 
-it is Night.”[^188] Night. 
+it is Night.”[^188]
 
 [^187]: As is the whole of manifestation, the rhythm of the breath is consonant with the rhythm of consciousness as it swings from manifestation — Light — to the Bliss which is repose of the Light in its own nature. The reflective awareness of individual consciousness, restricted by its identification with objectivity, necessarily participates nonetheless in the reflective awareness of consciousness that observes, induces, and is this activity at the Śāmbhava level. At the individual level of practice (āṇavopāya), this participation becomes evident by mindful attention to the rhythm of the breathing. At the junctions, the Light aspect of the Day and the Rest aspect of Night form a unity. When Night begins, the first aspect is Light, followed by Rest. When Day begins, the first aspect is Rest, followed by Light. In the following verses, Abhinava works out the details of this consonance between the rhythm and phases of the breath and perception, that is, the most tangible and subtle expression of the universal (sāmānya) pulse (spanda) of consciousness, that embraces all levels of its manifestation, from the unity of the innermost cycle of self-reflective awareness (experienced in Śāmbhavopāya), to that of unity and diversity of the cycle of perception (experienced in Śāktopāya), down to the diversity of the rhythm of the breathing (experienced in Āṇavopāya).
 

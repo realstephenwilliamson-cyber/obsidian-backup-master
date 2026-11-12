@@ -526,7 +526,7 @@ Again, there are said to be one hundred and eighteen worlds, according to the te
 
 (According to the Mālinīvijayottara, there are) ‘one hundred’ (and eighteen) worlds. That is said there: 
 
-‘Indeed, in this way, one should know briefly, not extensively, that there are one hundred and eighteen worlds in all the principles.’[^1110] principles. 
+‘Indeed, in this way, one should know briefly, not extensively, that there are one hundred and eighteen worlds in all the principles.’[^1110]
 
 (The Mālinīvijayottara is) ‘the main’ (scripture). It is on its authority that the application (pravṛtti) of this book is based. He says that. 
 

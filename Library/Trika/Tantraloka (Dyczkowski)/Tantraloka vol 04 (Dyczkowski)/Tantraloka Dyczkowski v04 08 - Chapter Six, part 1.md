@@ -151,9 +151,7 @@ universal pulsation (sāmānyaspanda) (of consciousness). As is said (in the Sva
 
 Moreover, (one should know) in particular the threefold Path of Mantra, parts of Mantra and phonemes (present in the vital breath). As he will say: 
 
-‘The first triad of this sixfold Path is the Path of Time, which is clearly established in the vital breath.[^12] 
-
-breath. 
+‘The first triad of this sixfold Path is the Path of Time, which is clearly established in the vital breath.[^12]
 
 He explains how that is possible: 
 

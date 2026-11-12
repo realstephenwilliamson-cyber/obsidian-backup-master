@@ -71,7 +71,7 @@ Elsewhere, Sanderson (Pondicherry Handout 2007: 3-4) provides a comparative char
 | Impure Universe: |  |
 | Ṛṣikula | Ṛṣikula |
 
-Sanderson (2001: 31) concludes: 'We see, then, a continuous line of development from the Lākulas to the Niśvāsa- Saiddhāntikas and then from them to the Svacchandabhairava worshippers of the *[p. 64]* non-Saiddhāntika Mantrapīṭha. And this continuity with the pre-Tantric Atimārga, so alien to the Siddhānta of the commentators, is echoed by other features in the practices and doctrines of the *Niśvāsa* and *Svacchanda* corpora. The flow of redaction can be followed further, into the literature of the Vidyāpīṭha.' It is this that we will now do.
+Sanderson (2001: 31) concludes: 'We see, then, a continuous line of development from the Lākulas to the Niśvāsa-Saiddhāntikas and then from them to the Svacchandabhairava worshippers of the *[p. 64]* non-Saiddhāntika Mantrapīṭha. And this continuity with the pre-Tantric Atimārga, so alien to the Siddhānta of the commentators, is echoed by other features in the practices and doctrines of the *Niśvāsa* and *Svacchanda* corpora. The flow of redaction can be followed further, into the literature of the Vidyāpīṭha.' It is this that we will now do.
 
 Abhinava navigates a course through the cosmologies of the Tantras to reconstruct one that is most in consonance with that of the *Mālinīvijayottara.* As he does so, he happens to illustrate how these cosmologies have developed within the Agamic corpus, starting from the *Svacchandatantra.*[^10] This is done by presenting details from several sources comparing and distinguishing them to reinforce the one Abhinava draws from most extensively, the *Svacchandatantra.* He also draws from the *Siddhayogeśvarīmata*[^11] and the *Triśirobhairavatantra,* that are Trikatantras, the *Ānandādhikatantra* and *Nandiśikhā,* that are Bhairava Tantras, and the Kālīmata of the *Jayadrathayāmala.*[^12] These are all Tantras that belong to the Vidyāpīṭha. Along with them, he also draws from the Saiddhāntika *Kiraṇāgama,*[^13] *Mātaṅgapārameśvara, Svāyambhuvasūtrasaṁgraha, Rauravasūtra-saṁgraha* (*Ruruśāsana*), and the *Rauravavṛtti* by Sadyojyotis, Others are the *Mayamata* (just one or two verses), which is a Tantra that deals with rites of installation (*pratiṣṭhā*), and (in one place at least) Somaśambhu and *Mṛgendrottara* (in one place). Another important source to which he regularly refers is the *Śivatanu* by Bṛhaspati. = From around verse 230, the *Śivatanuśāstra* becomes prominent, although often not clearly signalled. This, as its name suggests, describes as it eulogizes Śiva's body (*tanu*), made of the principles (*tattva*) and worlds populated by its creatures and governed by their Lords, with which he compares and contrasts the account in the *Svacchanda.* Although of unknown affiliation, that too largely follows the Siddhānta.
 
@@ -85,35 +85,7 @@ Abhinava presents the account in the *Mālinīvijayottara* as a brief version of
 
 *[p. 66]*
 
-'There is no doubt that when this
-
-(series of worlds) is purified, all
-
-(the other worlds and paths) are
-
-also purified. The great-minded
-
-one who is to purify all the Path
-
-should conceive union (yoga)
-
-within Śiva (for his disciple) (only
-
-after) having purified (him right)
-
-up to (immanent) Śiva 'with parts'
-
-(*sakala*). (The teacher) who knows
-
-yoga should bring about union
-
-(yoga) for (the disciple) who
-
-desires worldly benefits, having
-
-(thus) meditated on (Śiva) 'with
-
-parts' (*sakala*).'[^18]
+> 'There is no doubt that when this (series of worlds) is purified, all (the other worlds and paths) are also purified. The great-minded one who is to purify all the Path should conceive union (yoga) within Śiva (for his disciple) (only after) having purified (him right) up to (immanent) Śiva 'with parts' (*sakala*). (The teacher) who knows yoga should bring about union (yoga) for (the disciple) who desires worldly benefits, having (thus) meditated on (Śiva) 'with parts' (*sakala*).'[^18]
 
 Abhinava follows suit, underscoring the Tantra's primacy in all circumstances, even when it is evident that another Tantra is much more extensive. Thus, he introduces his presentation of the worlds listed there, saying: 'One hundred and eighteen worlds have been described in the teachings of the *Śrīpūrva* (*Mālinīvijayottara*). As this (scripture) is here (considered to be) the chief one, we will now state in brief (the worlds) which (according to it) are to be purified.'[^19]
 

@@ -34,4 +34,6 @@ await dv.view("Templates/Views/open-pdf")
 
 **Text layer:** the Internet Archive's OCR of a scanned library copy (2022). It reads well on the pages sampled, but expect slips; the first pages of the PDF are the Archive's cover notes and blanks.
 
+**PDF only** (Stephen, 12 Nov 2026): read on the computer; no Markdown copy will be made.
+
 See also: [[May - Limiting Leviathan - Hobbes on Law and International Affairs]] (the same author).

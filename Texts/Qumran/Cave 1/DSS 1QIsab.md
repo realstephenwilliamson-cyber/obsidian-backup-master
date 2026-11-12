@@ -21,8 +21,8 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Isa 10:17-19 |
-| Frag. 3 i | Isa 16:7-11 |
 | Frag. 2 i | Isa 13:16-19 |
+| Frag. 3 i | Isa 16:7-11 |
 | Frag. 4 | Isa 19:20 - 20:1 |
 | Frag. 5 | Isa 22:24 - 23:4 |
 | Frag. 6 i | Isa 26:1-5 |

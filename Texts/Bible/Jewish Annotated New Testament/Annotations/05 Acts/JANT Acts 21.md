@@ -32,7 +32,7 @@ Text: [[NRSVue Acts 21|NRSVue]] · [[Acts 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 21#^21-8|8]]:** *Caesarea*, see 8.40; 10.1. *One of the seven*, see 6.1–6. ^21-8
 
-**[[NRSVue Acts 21#^21-9|9]]:** *Prophecy*, see 2.16; 3.18; 7.37; 10.43; 11.27; 13.1; 15.32; 19.6. *Daughters*, on women and prophetic powers, see [[II Kings 22#^22-14|2 Kings 22.14–20]]; T. Job 46–52; *Ex. Rab.* 1.1. ^21-9
+**[[NRSVue Acts 21#^21-9|9]]:** *Prophecy*, see 2.16; 3.18; 7.37; 10.43; 11.27; 13.1; 15.32; 19.6. *Daughters*, on women and prophetic powers, see [[II Kings 22#^22-14|2 Kings 22.14–20]]; T. Job 46–52; *Ex. Rab.* [1.1](https://www.sefaria.org/Shemot_Rabbah.1.1). ^21-9
 
 **[[NRSVue Acts 21#^21-10|10]]:** *Agabus*, see 11.28. ^21-10
 

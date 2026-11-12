@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-गतागतम्सुविक्षिप्तम्सम्गतम्सुसमाहितम् ।
-चतुर्धा रूपसम्ज्ञम्तु ज्ञातव्यम्योगचिन्तकैः ॥ ^mula
+गतागतं सुविक्षिप्तं संगतं सुसमाहितम् ।
+चतुर्धा रूपसंज्ञं तु ज्ञातव्यं योगचिन्तकैः ॥ ^mula
 
 gatāgatam suvikṣiptam samgatam susamāhitam |
 caturdhā rūpasamjñam[^63] tu jñātavyam yogacintakaiḥ || ^iast

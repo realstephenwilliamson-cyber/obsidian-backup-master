@@ -4,7 +4,7 @@ title: "God Is Red: A Native View of Religion"
 author:
   - Vine Deloria Jr.
 work: "[[Deloria - God Is Red]]"
-source_pdf: Library/Other/Deloria - God Is Red (2003).pdf
+source_pdf: Library/Religious-Studies/Deloria - God Is Red (2003).pdf
 pages: 345
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF
 converted: 2026-10-07

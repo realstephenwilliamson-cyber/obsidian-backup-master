@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 126:6 |
-| Frag. 6 | Ps 128:3 |
 | Frag. 2-5 | Ps 127:1-5 |
+| Frag. 6 | Ps 128:3 |
 
 [[DSS 1Q10|← 1Q10]] · [[Qumran|index]] · [[DSS 1Q12|1Q12 →]]

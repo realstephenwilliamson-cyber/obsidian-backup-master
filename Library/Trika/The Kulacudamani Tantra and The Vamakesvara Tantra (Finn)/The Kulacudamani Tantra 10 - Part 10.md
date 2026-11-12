@@ -149,7 +149,7 @@ THE GOAD IS DESIRE, FIRE (AND) THE PERVADER.
 
 “The one at the end of the first" is "ā". The "Rudrasakti" which has the nature of the fourth vowel renowned for its proximity to "ā" (and) the pair of earrings which are the two letters "i" from whose
 
-[^216]: The path is presumably the path of evolution of the material elements with space considered to be "above" the four grosser ones of wind, fire, water and earth. These elements are considered to have corresponding positions within the body. The commentary is suggesting that the "arrows" DRAM DRIM KLIY VLUM and SAH are to be joined to the letters of the elements that begin with space and end with earth, thus forming the mādanas HDRĀM YDRĪM RKLIM LVLUM and VSAH. The anomaly here is that "1" is traditionally the letter for earth and "v" stands for water...
+[^216]: The path is presumably the path of evolution of the material elements with space considered to be "above" the four grosser ones of wind, fire, water and earth. These elements are considered to have corresponding positions within the body. The commentary is suggesting that the "arrows" DRĀṂ DRĪṂ KLĪṂ VLUṂ and SAḤ are to be joined to the letters of the elements that begin with space and end with earth, thus forming the mādanas HDRĀṂ YDRĪṂ RKLĪṂ LVLUṂ and VSAḤ. The anomaly here is that "l" is traditionally the letter for earth and "v" stands for water...
 
 *[p. 371]* ^pg367
 
@@ -432,10 +432,10 @@ EMBELLISHED WITH SAFFRON, ALOE, CAMPHOR AND MUSK THAT
 
 (EITHER) CONTAINS A STRING OF PEARLS, IS PRODUCED FROM ABUNDANT CAT'S EYE GEMS, CRYSTAL, RUDRĀKSA,
 
-[^7]: Japa may be performed with the cakra internalised. The meditation (dhyāna) for Tripurã is contained in I:113-131.
+[^7]: Japa may be performed with the cakra internalised. The meditation (dhyāna) for Tripurā is contained in I:113-131.
 [^8]: I.e., the cakra abridged to the seventh, eighth and ninth cakras.
 
-[^9]: "Silently" here means with a slight but pereeptible movement of the Lips as some do when reading a book.
+[^9]: "Silently" here means with a slight but perceptible movement of the lips as some do when reading a book.
 
 *[p. 380]* ^pg376
 
@@ -459,11 +459,11 @@ one stated variation. Here is another:
 
 "A string of beads shouid be fashioned that has the supporting tinged with red sandalwood.[^13] In the first (cakra) a three part one of pearls etc. is for the
 
-[^10]: The Rudrāksa seeds are from the tree Elaeocarpus ganitrus are sacred to Śiva. Putrajīvika seeds originate from Putranjiva roxburghii and are said to be propitious to the health and welfare of sons/cehildren.
+[^10]: The Rudrāksa seeds are from the tree Elaeocarpus ganitrus are sacred to Śiva. Putrajīvika seeds originate from Putranjiva roxburghii and are said to be propitious to the health and welfare of sons/children.
 
 [^11]: Although the Sanskrit verse ts not explicit on the matter, the rosary ís usually made of one substance entirely. There ts a tradition that the results of the japa will vary according to what the rosary is made of. The lotus seed rosary leads to the destruction of the enemy; with the coral rosary one gains wealth; a rosary of jewels and silver grants success and Kusa seeds deliver from sin. The type of rosary may also vary from sect to sect. (Chattopadyaya, Reflections, p. 67.) The commentary to this verse gives tts own verston of the effects of different rosartes.
 [^12]: In Hinduism there are nine traditionally ausptetous gems: pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire and gomeda (?). These nine jewels may be disposed on the pots or jars used in the sacred rituals.
-[^13]: Though the Sanskrit reads "Soṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made 'of it.
+[^13]: Though the Sanskrit reads "Soṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made of it.
 
 *[p. 381]* ^pg377
 
@@ -550,7 +550,7 @@ The "becomes" is implied.
 
 End of commentary on Verse 17.
 
-[^17]: The "Khecarts" are particular saktis or yogints that mediate the descent of the universal consetousness tnto the individual. The khecaris operate the sphere of conseiousness. The other Saktis in this classification are Gocarts, Dikearls and Bhūcaris who respectively operate the spheres of the psyche, the outer senses and the external world. (Singh, Pratyabhijnāhpdayam, pp.39-40.) The great lord of the vidyādharas ts ATTA The vidyā-dharas are mythical beings of human form belonging to the air- space regions and possessing magical knowledge.
+[^17]: The "Khecarīs" are particular śaktis or yoginīs that mediate the descent of the universal consciousness into the individual. The khecarīs operate the sphere of consciousness. The other śaktis in this classification are Gocarīs, Dikcarīs and Bhūcarīs who respectively operate the spheres of the psyche, the outer senses and the external world. (Singh, Pratyabhijñāhṛdayam, pp.39-40.) The great lord of the vidyādharas is Sarvārthasiddha. The vidyā-dharas are mythical beings of human form belonging to the air- space regions and possessing magical knowledge.
 
 [^18]: The use of the word hero is an allusion to one of the three baste types of Tantric sādhakas: the animal (paśu), the hero (vra) and the divine (divya).
 [^19]: Literally: "unimpeded, unobstructed"; Skt. :"apratihata".
@@ -619,9 +619,9 @@ FLOWERS?[^23] AND THE THREE SWEET SUBSTANCES ACCORDING TO RULE.
 
 The "Brahma tree" is the sacrificial (Butea frondosa) with its Palāsa (blossoms) etc.. The "three sweet substances" are sugar, ghee, milk and so on that have many preparations. If Svayaṇbhū flowers are
 
-[^21]: The ascending order of liñgas is traditionally: Svayambhū, Bāṇa, Itara and Para. This verse in giving a different order demonstrates, as Jayaratha says, the various alternative arrangements found. in the scriptures.
+[^21]: The ascending order of liṅgas is traditionally: Svayambhū, Bāṇa, Itara and Para. This verse in giving a different order demonstrates, as Jayaratha says, the various alternative arrangements found in the scriptures.
 
-[^22]: The procedure for homa as given below in the commentary may be sumed up in ten principal steps: meditation on the triangle; tnvocatton of Ambikā; bringing of Fire; casting tt tinto yont; blazing-up of Fire; consecration of ladles and offerings; pre-natal ceremontes etce.; dismissal of Mother Goddess; worshtp of mantra-cakra and visualizing of Fire as face.
+[^22]: The procedure for homa as given below in the commentary may be summed up in ten principal steps: meditation on the triangle; invocation of Ambikā; bringing of Fire; casting it into yoni; blazing-up of Fire; consecration of ladles and offerings; pre-natal ceremonies etc.; dismissal of Mother Goddess; worship of mantra-cakra and visualizing of Fire as face.
 
 [^23]: The Kusumbha flower ts the Safflower or Hermit's water-pot. But here tt apparently means any red flower.
 
@@ -638,7 +638,7 @@ mentioned in the text, it means wild flowers. By "according to rule" is meant th
 [^28]: Monter-Williams defines the mekhalās as the four lines or cords surrounding the receptacle for the sacrifietal fire. In the Tantric ritual, however, they are meant to be raised perimeters of earth at the bottom; half way up the sides and around the outer edge of the kunda or sacrifictal pit.
 [^29]: The Kusa grass serves the purpose of covering the inside and the outside of the kunda. The Saktis are worshipped for the removal of obstacles.
 [^30]: The "intersection" refers to the crossing into four with entrance? Is it an imaginary criss-crossing?
-[^31]: I.e., the mantra HRIM.
+[^31]: I.e., the mantra HRĪṂ.
 
 *[p. 386]* ^pg382
 
@@ -683,7 +683,7 @@ IN THE SACRIFICIAL PIT OF THE YONI, ONE BECOMES
 
 A FLUENT ORATOR; THERE IS EXCELLENT PLOUGHING IN THE FEMALE GENITAL SYMBOL;
 
-[^40]: Literally: "mark or sign"; Skt.: "anke".
+[^40]: Literally: "mark or sign"; Skt.: "aṅke".
 [^41]: The verse ts speetfying eight places suttable for the performance of homa. Either in an acetual sacerificetal pit, or in various locations within the yantra of the Érīcakra. "Vartula" meaning "ring or eirele” refers to the round stxteeen-petal lotus in assoctation with the three rings. "Ardhacandra" is a reference to the fourteen-spoked cakra as the period between one full moon and another ts approximately 28-30 days. Half of that is fourteen, or to put it another way, the time lapse between one half-moon and another is approximately fourteen days.
 [^42]: I.e., the root triangle.
 [^43]: "In the nine triangle cakra" might be taken to mean the cakra as a whole as there are four fires and five aktis, however the commentary suggests that tt is the eight-spoked cakra (with its eight triangles) plus the central triangle. In other words the eighth and ninth cakras are taken together. Performing the homa in this part of the Srieakra gives the "desired fruit” (of liberation) that is mentioned in Verse 27 below.
@@ -817,13 +817,13 @@ According to the view stated by the former venerable guru, such is the nature of
 [^57]: "Prameyatām" in Sanskrit.
 [^58]: "Pramātṛ" in Sanskrit. See the section on the "Introduetion to the Philosophy of the Texts".
 
-[^59]: "Parāmrsyatām" in Sanskrit.
+[^59]: "Parāmṛśyatām" in Sanskrit.
 
-[^60]: I.e., the pure undivided Self differentiates into separate centres of conseiousness. The experience of duality ts preserved in the illusion of an individual separate Self and other individual separate Selves.
+[^60]: I.e., the pure undivided Self differentiates into separate centres of consciousness. The experience of duality is preserved in the illusion of an individual separate Self and other individual separate Selves.
 
 [^61]: "Nigarbha" has the connotation of "in the womb" or "embryonic".
 
-[^62]: "Dp" - literally "seeing".
+[^62]: "Dṛś" - literally "seeing".
 
 [^63]: "Dasāsu” - literally: "in all states or conditions of life".
 [^64]: "Paraprakāsa" in Sanskrit.
@@ -847,7 +847,7 @@ According to this view, (consciousness reaches to a state of certainty that is t
 
 (him).
 
-[^68]: "Kalanā" is a difficult term to define, but it carries the meaning of "quality" or "impelling" amongst others. The notions of- existence-non-extstence do not apply to thts state of consetousness. Even "non-existence" impltes a something not existing. The state is beyond actual and conceptual limitations.
+[^68]: "Kalanā" is a difficult term to define, but it carries the meaning of "quality" or "impelling" amongst others. The notions of existence-non-existence do not apply to this state of consciousness. Even "non-existence" implies a something not existing. The state is beyond actual and conceptual limitations.
 
 [^65]: "Sahajamaisvaryam". The "supremacy" can be a reference to the etght supernatural powers or siddhis. Presumably it means that Śiva evokes a spontaneous development of latent spiritual powers...
 [^66]: See footnote 54 and the "Introd. to the. Philo. of the Texts".

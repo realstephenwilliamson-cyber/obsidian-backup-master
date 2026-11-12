@@ -70,7 +70,7 @@ const HABIT_LABELS = { office: "Office", tantraloka: "Tantrāloka", letter: "Let
 //     leaves out this heading);
 //   - "## Letter practice" (a place for an Ink writing section on the pen devices, and the scratchpad);
 //   - "## Chores" (21 Oct 2026): the weekday's chores from Journal/Chores.md (one line per chore, "- Name — days"), written as
-//     tasks dated that day, so Home's "Due today or overdue" list and the phone page show them (Stephen's wish of 21 Oct 2026).
+//     tasks dated that day, so Home's "Due today or overdue" list shows them (Stephen's wish of 21 Oct 2026).
 // Everything else is as before: the verses (Mūla), the Phoneme of the day, the Daily Office, Reflection, Words, Earlier on
 // these verses and This week, and the properties verses_read, parashah, sunday, feasts.
 // Changed 25 Oct 2026 (Stephen): the new weekly schedule in TIME_BLOCKS; the day ends with a BREAK after the last block and

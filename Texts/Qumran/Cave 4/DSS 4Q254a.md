@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q254a"
-title: "4QCommen tary on Genesis D"
+title: "4QCommentary on Genesis D"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "508–509"
@@ -10,7 +10,7 @@ aliases:
   - "4Q254a"
   - "4QcommGen D"
 ---
-# 4Q254a (4QcommGen D) · 4QCommen tary on Genesis D
+# 4Q254a (4QcommGen D) · 4QCommentary on Genesis D
 
 [[DSS 4Q254|← 4Q254]] · [[Qumran|index]] · [[DSS 4Q255|4Q255 →]]
 

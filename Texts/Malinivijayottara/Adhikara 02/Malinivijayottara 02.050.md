@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-पृथग्द्वयमसम्ख्यातमेकमेकम्पृथक्पृथक् ।
-आद्यम्धारिकया व्याप्तम्तत्रैकम्तत्त्वमिष्यते ॥ ^mula
+पृथग्द्वयमसंख्यातमेकमेकं पृथक्पृथक् ।
+आद्यं धारिकया व्याप्तं तत्रैकं तत्त्वमिष्यते ॥ ^mula
 
 pṛthag dvayam asamkhyātam ekam ekam pṛthak pṛthak |
 ādyam dhārikayā vyāptam tatraikam tattvam iṣyate || ^iast

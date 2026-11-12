@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Cantu - Theurgy of the Snake]]"
 book: "[[Theurgy of the Snake (Cantu)|Theurgy of the Snake (Cantu)]]"
 order: 1
-source_pdf: Library/Other/CantxFA_washington_0250O_14690.pdf
+source_pdf: Library/Religious-Studies/CantxFA_washington_0250O_14690.pdf
 page_range: 1–9
 pdf_pages: 1–11
 text_source: PDF text layer (born-digital), PyMuPDF

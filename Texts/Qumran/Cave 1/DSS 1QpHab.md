@@ -52,7 +52,7 @@ aliases:
 
 **16** [… Hab 1:5 Look, traitors, and behold,] ^1-16
 
-**17** [be astonished, shocked, for in your time a work is done which you would not believe if] 1Q14, 1QpHab I ^1-17
+**17** [be astonished, shocked, for in your time a work is done which you would not believe if] ^1-17
 
 ### Col. ii
 
@@ -140,7 +140,7 @@ aliases:
 
 **6** fortresses of the peoples and with derision laugh at them, ^4-6
 
-**7** they surround them with a huge army to capture them. And through 1QpHab II-IV *[p. 15]* dread and fear ^4-7
+**7** they surround them with a huge army to capture them. And through *[p. 15]* dread and fear ^4-7
 
 **8** they surrender to their hands, and they demolish them because of the wickedness of those who dwell ^4-8
 
@@ -224,7 +224,7 @@ aliases:
 
 **12** children at the breast will they pity. Hab 2:1-2 I will stand ﬁrm in my sentrypost, ^6-12
 
-**13** I will position myself in my fortress, and I will look out to see what he 1QpHab IV-VI *[p. 17]* says ^6-13
+**13** I will position myself in my fortress, and I will look out to see what he *[p. 17]* says ^6-13
 
 **14** to me, and what [he answers t]o my reproof. yhwh answered me ^6-14
 
@@ -304,7 +304,7 @@ aliases:
 
 **16** Blank The in[terpretation of the word] concerns the Priest who rebelled ^8-16
 
-**17** […] the precepts of [God …] … […] 1QpHab VI-VIII ^8-17
+**17** […] the precepts of [God …] … […] ^8-17
 
 ### Col. ix
 
@@ -392,7 +392,7 @@ aliases:
 
 **6** of his anger in the place of his banishment. In festival time, during the rest ^11-6
 
-**7** of the day of Atone- 1QpHab IX-XI *[p. 21]* ment, he appeared to them, to consume them ^11-7
+**7** of the day of Atonement, *[p. 21]* he appeared to them, to consume them ^11-7
 
 **8** and make them fall on the day of fasting, the sabbath of their rest. Hab 2:16 You are more glutted ^11-8
 

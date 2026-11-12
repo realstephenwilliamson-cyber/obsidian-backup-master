@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-चतुर्विधम्तु पिण्डस्थमषुद्धम्बुद्धमेव च ।
-प्रबुद्धम्सुप्रबुद्धम्च पदस्थम्च चतुर्विधम् ॥ ^mula
+चतुर्विधं तु पिण्डस्थमषुद्धं बुद्धमेव च ।
+प्रबुद्धं सुप्रबुद्धं च पदस्थं च चतुर्विधम् ॥ ^mula
 
 caturvidham tu piṇḍastham aṣuddham buddham eva ca |
 prabuddham suprabuddham ca padastham ca caturvidham || ^iast

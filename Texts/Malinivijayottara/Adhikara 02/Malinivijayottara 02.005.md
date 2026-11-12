@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-अनेनैव विधानेन पुम्स्तत्त्वात्तु कलान्तिकम् ।
-त्रयोदशविधम्ज्ञेयम्रुद्रवत्प्रलयाकलाः ॥ ^mula
+अनेनैव विधानेन पुंस्तत्त्वात्तु कलान्तिकम् ।
+त्रयोदशविधं ज्ञेयं रुद्रवत्प्रलयाकलाः ॥ ^mula
 
 anenaiva vidhānena pumstattvāt tu kalāntikam |
 trayodaśavidham jñeyam rudravatpralayākalāḥ || ^iast

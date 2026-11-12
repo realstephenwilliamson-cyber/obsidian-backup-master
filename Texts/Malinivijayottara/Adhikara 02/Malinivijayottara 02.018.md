@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-पञ्चधा भूतसम्ज्ञस्तु तथा त्रिम्शतिधा परः ।
-आत्माख्यस्त्रिविधः प्रोक्तो दशधा मन्त्रसम्ज्ञकः ॥ ^mula
+पञ्चधा भूतसंज्ञस्तु तथा त्रिंशतिधा परः ।
+आत्माख्यस्त्रिविधः प्रोक्तो दशधा मन्त्रसंज्ञकः ॥ ^mula
 
 pañcadhā bhūtasamjñas tu tathā trimśatidhā paraḥ |
 ātmākhyas trividhaḥ prokto daśadhā mantrasamjñakaḥ || ^iast

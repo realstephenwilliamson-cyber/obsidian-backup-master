@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Lev 14:27-29 |
-| Frag. 4 | Lev 17:2-11 |
 | Frag. 2 | Lev 14:33-36 |
-| Frag. 5-11 | ? |
 | Frag. 3 | Lev 15:20-24 |
+| Frag. 4 | Lev 17:2-11 |
+| Frag. 5-11 | ? |
 
 [[DSS 4Q25|← 4Q25]] · [[Qumran|index]] · [[DSS 4Q26a|4Q26a →]]

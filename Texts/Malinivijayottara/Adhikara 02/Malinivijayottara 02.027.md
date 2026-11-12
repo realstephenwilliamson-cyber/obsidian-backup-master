@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-तत्र स्वरूपम्शक्तिश्च सकलश्चेति तत्त्रयम् ।
-इति जाग्रदवस्थेयम्भेदे पष्चदशात्मके ॥ ^mula
+तत्र स्वरूपं शक्तिश्च सकलश्चेति तत्त्रयम् ।
+इति जाग्रदवस्थेयं भेदे पञ्चदशात्मके ॥ ^mula
 
 tatra svarūpam śaktiś ca sakalaś ceti tat trayam |
 iti jāgradavastheyam bhede paṣcadaśātmake || ^iast

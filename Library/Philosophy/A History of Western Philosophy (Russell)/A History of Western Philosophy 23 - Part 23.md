@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Russell - A History of Western Philosophy]]"
 book: "[[A History of Western Philosophy (Russell)|A History of Western Philosophy (Russell)]]"
 order: 23
-source_pdf: Library/Other/Bertrand Russell - A History of Western Philosophy-Touchstone (1967).pdf
+source_pdf: Library/Philosophy/Bertrand Russell - A History of Western Philosophy-Touchstone (1967).pdf
 page_range: 881–920
 pdf_pages: 881–920
 text_source: PDF text layer (born-digital), PyMuPDF

@@ -32,7 +32,7 @@ Text: [[NRSVue Matthew 17|NRSVue]] · [[Matthew 17|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 17#^17-10|10]]:** *Scribes*, see [[JANT Matthew 07#^7-28|7.28–29n.]]; [[JANT Matthew 13#^13-52|13.52n.]] *Elijah must come first*, as forerunner, here specifically of the Messiah rather than in the Tanakh as forerunner of the messianic age ([[Malachi 3#^3-22|Mal 4.4–6]] \[HB 3.22–24\]; see [[JANT Matthew 11#^11-4|11.4–5n.]]). ^17-10
 
-**[[NRSVue Matthew 17#^17-12|12–13]]:** *Elijah has already come*, referencing John the Baptist (3.3; [[Luke 01#^1-17|Lk 1.17]]; see also [[John 01#^1-21|Jn 1.21]]). Rabbinic literature varies regarding Elijah’s precise messianic role and duties. See [[JANT Matthew 11#^11-14|11.14–15n.]] In *m. Ed.* 8.7, Elijah, comes to make peace in the world ([[Malachi 3#^3-23|Mal 4.5–6]] \[HB 3.23–24\]); in *b. Sanh.* [[Sanhedrin 98#98a|98a]], Elijah refers to his earthly return; and *b. Eruv*. [[Eruvin 43#43b|43b]] states that Elijah will not return on certain festival eves (see *Ex. Rab*. 18.12). ^17-12
+**[[NRSVue Matthew 17#^17-12|12–13]]:** *Elijah has already come*, referencing John the Baptist (3.3; [[Luke 01#^1-17|Lk 1.17]]; see also [[John 01#^1-21|Jn 1.21]]). Rabbinic literature varies regarding Elijah’s precise messianic role and duties. See [[JANT Matthew 11#^11-14|11.14–15n.]] In *m. Ed.* 8.7, Elijah, comes to make peace in the world ([[Malachi 3#^3-23|Mal 4.5–6]] \[HB 3.23–24\]); in *b. Sanh.* [[Sanhedrin 98#98a|98a]], Elijah refers to his earthly return; and *b. Eruv*. [[Eruvin 43#43b|43b]] states that Elijah will not return on certain festival eves (see *Ex. Rab*. [18.12](https://www.sefaria.org/Shemot_Rabbah.18.12)). ^17-12
 
 ### 7.14–21: Jesus heals a “moonstruck” boy
 

@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-प्रचयम्रूपातीतम्च सम्यक्तुर्यमुदाहृतम् ।
-महाप्रचयमिच्छन्ति तुर्यातीतम्विचक्षणाः ॥ ^mula
+प्रचयं रूपातीतं च सम्यक्तुर्यमुदाहृतम् ।
+महाप्रचयमिच्छन्ति तुर्यातीतं विचक्षणाः ॥ ^mula
 
 pracayam rūpātītam ca samyak turyam udāhṛtam |
 mahāpracayam icchanti turyātītam vicakṣaṇāḥ || ^iast

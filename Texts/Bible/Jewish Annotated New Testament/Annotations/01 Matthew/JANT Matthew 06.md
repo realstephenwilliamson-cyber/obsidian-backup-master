@@ -38,7 +38,7 @@ Text: [[NRSVue Matthew 06|NRSVue]] · [[Matthew 06|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 06#^6-11|11]]:** *Daily bread*, likely reflecting an unknown Aramaic original, possibly “leḥma maḥar,” meaning “bread for tomorrow” or the eschatological banquet. ^6-11
 
-**[[NRSVue Matthew 06#^6-12|12]]:** *Debts,* sins were considered “debts” ([[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. [85.2](https://www.sefaria.org/Bereshit_Rabbah.85.2); [92.9](https://www.sefaria.org/Bereshit_Rabbah.92.9); *Ex. Rab*. 25.6; 31.1; *Pesiq. Rab.* 11.23; 51.8). Cf. [[Luke 11#^11-4|Lk 11.4]], which uses “sin.” See [[JANT Matthew 18#^18-23-2|18.23–35n.]] ^6-12
+**[[NRSVue Matthew 06#^6-12|12]]:** *Debts,* sins were considered “debts” ([[Torah 47 - Re'eh#^15-1|Deut 15.1–2]]; see also *Gen. Rab*. [85.2](https://www.sefaria.org/Bereshit_Rabbah.85.2); [92.9](https://www.sefaria.org/Bereshit_Rabbah.92.9); *Ex. Rab*. [25.6](https://www.sefaria.org/Shemot_Rabbah.25.6); [31.1](https://www.sefaria.org/Shemot_Rabbah.31.1); *Pesiq. Rab.* 11.23; 51.8). Cf. [[Luke 11#^11-4|Lk 11.4]], which uses “sin.” See [[JANT Matthew 18#^18-23-2|18.23–35n.]] ^6-12
 
 **[[NRSVue Matthew 06#^6-13|13]]:** *Time of trial*, or testing, see [[2 Thessalonians 03#^3-3|2 Thess 3.3]]; [[James 01#^1-13|Jas 1.13]]. *Evil one*, Satan. *B. Ber.* 60b offers examples of similar prayers. ^6-13
 

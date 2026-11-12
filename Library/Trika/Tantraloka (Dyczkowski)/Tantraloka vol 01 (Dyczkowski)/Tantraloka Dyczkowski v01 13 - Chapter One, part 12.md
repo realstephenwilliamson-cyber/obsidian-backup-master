@@ -659,7 +659,7 @@ In (this chapter, which teaches the initiation) of immediate exit (from the body
 
 *[p. 469]* ^pg483
 
-masamda वि[illegible]धि[illegible]ः ।
+masamda वि\[illegible\]धि\[illegible\]ः ।
 श्रावणं चाभ्यनुज्ञानं शोधनं पातकच्युतिः ।। ३१६ ॥
 शङ्धाच्छेद इति स्पष्टं वाच्यं लिगोद्धतिक्रमे ।
 

@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Chuang Tzu - Wandering on the Way]]"
 book: "[[Wandering on the Way (Mair)|Wandering on the Way (Mair)]]"
 order: 12
-source_pdf: Library/Other/Chuang Tzu - Wandering on the Way (1994).pdf
+source_pdf: Library/Religious-Studies/Chuang Tzu - Wandering on the Way (1994).pdf
 page_range: 66–74
 pdf_pages: 126–134
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026

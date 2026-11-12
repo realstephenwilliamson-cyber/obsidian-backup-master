@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 शिवश्चेति परिज्ञेयाः पञ्चैव वरवर्णिनि ।
-स्वम्शक्तिः सनिजेशाना शक्तिशम्भू च पञ्चके ॥ ^mula
+स्वं शक्तिः सनिजेशाना शक्तिशंभू च पञ्चके ॥ ^mula
 
 śivaś ceti parijñeyāḥ pañcaiva varavarṇini |
 svam śaktiḥ sanijeśānā[^48] śaktiśambhū ca pañcake || ^iast

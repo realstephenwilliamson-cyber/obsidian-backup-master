@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 44:3-5 |
-| Frag. 5-6 | Ps 44:23-24 |
 | Frag. 2 | Ps 44:4 |
-| Frag. 7 | Ps 44:25 |
 | Frag. 3 | Ps 44:7 |
-| Frag. 8-9 | ? |
 | Frag. 4 | Ps 44:9 |
+| Frag. 5-6 | Ps 44:23-24 |
+| Frag. 7 | Ps 44:25 |
+| Frag. 8-9 | ? |
 
 [[DSS 1Q11|← 1Q11]] · [[Qumran|index]] · [[DSS 1Q13|1Q13 →]]

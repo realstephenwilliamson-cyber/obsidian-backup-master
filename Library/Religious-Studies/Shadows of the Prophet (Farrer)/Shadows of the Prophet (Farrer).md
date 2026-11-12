@@ -4,7 +4,7 @@ title: "Shadows of the Prophet: Martial Arts and Sufi Mysticism"
 author:
   - D.S. Farrer
 work: "[[Farrer - Shadows of the Prophet]]"
-source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
+source_pdf: Library/Religious-Studies/Farrer - Shadows of the Prophet (2009).pdf
 pages: 316
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

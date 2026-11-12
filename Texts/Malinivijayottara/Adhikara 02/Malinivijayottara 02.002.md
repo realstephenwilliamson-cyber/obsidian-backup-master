@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-शक्तिमच्छक्तिभेदेन धरातत्त्वम्विभिद्यते ।
-स्वरूपसहितम्तच्च विज्ञेयम्दशपञ्चधा  ॥ ^mula
+शक्तिमच्छक्तिभेदेन धरातत्त्वं विभिद्यते ।
+स्वरूपसहितं तच्च विज्ञेयं दशपञ्चधा  ॥ ^mula
 
 śaktimacchaktibhedena dharātattvam vibhidyate |
 svarūpasahitam tac ca vijñeyam daśapañcadhā[^14] || ^iast

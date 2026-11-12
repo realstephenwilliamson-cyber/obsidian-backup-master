@@ -65,7 +65,7 @@ aliases:
 
 **4** [to d]o your word, and they act more wickedly than anybody. They do not understand your powerful strength. This is why you reject them, because you do not like ^f3c2-4
 
-**5** s[i]n, and the wicked person will not endure before you. How- 1QM XIX (+1Q33), 1Q34 + 1Q34bis *[p. 147]* 1Q34 + 1Q34bis, 1QH ever, you have chosen a people in the period of your favour, because you have remembered your covenant. ^f3c2-5
+**5** s[i]n, and the wicked person will not endure before you. However, *[p. 147]* you have chosen a people in the period of your favour, because you have remembered your covenant. ^f3c2-5
 
 **6** You established them, isolating them for yourself in order to make them holy among all the nations. And you have renewed your covenant with them in the vision of glory, and in the words of ^f3c2-6
 

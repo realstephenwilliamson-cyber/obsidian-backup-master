@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-रुद्रशक्तिसमावेशस्तत्र नित्यम्प्रतिष्ठितः ।
-सति तस्मिम्श्च चिह्नानि तस्यैतानि विलक्षयेत् ॥ ^mula
+रुद्रशक्तिसमावेशस्तत्र नित्यं प्रतिष्ठितः ।
+सति तस्मिंश्च चिह्नानि तस्यैतानि विलक्षयेत् ॥ ^mula
 
 rudraśaktisamāveśas tatra nityam pratiṣṭhitaḥ |
 sati tasmimś ca cihnāni tasyaitāni vilakṣayet || ^iast

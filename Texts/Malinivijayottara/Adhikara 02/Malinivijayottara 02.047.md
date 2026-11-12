@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 विज्ञानाकलपर्यन्तमात्मतत्त्वमुदाहृतम् ।
-ईश्वरान्तम्च विद्याह्नम्शेषम्शिवपदम्विदुः ॥ ^mula
+ईश्वरान्तं च विद्याह्नं शेषं शिवपदं विदुः ॥ ^mula
 
 vijñānākalaparyantam ātmatattvam udāhṛtam |
 īśvarāntam ca vidyāhnam śeṣam śivapadam viduḥ || ^iast

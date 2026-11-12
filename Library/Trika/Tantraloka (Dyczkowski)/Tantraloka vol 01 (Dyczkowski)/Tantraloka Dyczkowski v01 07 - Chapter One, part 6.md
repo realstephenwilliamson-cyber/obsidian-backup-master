@@ -607,7 +607,7 @@ The ‘upper’ is the exhaled breath (prāṇa), (so called) because it transpo
 
 [^684]: This passage extends from TĀ 1/85cd (86cd)- 89cd (90cd).
 
-[^685]: The word ‘rāma’ is derived from the root ram which means to delight or enjoy. It denotes the Supreme Self (paramātmā) characterized as Rāma, ‘the enjoyer’, who sports with the cosmic variety, sentient and insentient, delighting within himself. Thus, one who is ‘rāmastha’ is established in ‘rāma’, the Supreme Self who, delighted, plays. रि[illegible]ता, the well-known incarnation of Viṣṇu, is not meant here.
+[^685]: The word ‘rāma’ is derived from the root ram which means to delight or enjoy. It denotes the Supreme Self (paramātmā) characterized as Rāma, ‘the enjoyer’, who sports with the cosmic variety, sentient and insentient, delighting within himself. Thus, one who is ‘rāmastha’ is established in ‘rāma’, the Supreme Self who, delighted, plays. रि\[illegible\]ता, the well-known incarnation of Viṣṇu, is not meant here.
 
 [^686]: One could also translate fadgatiḥ as ‘that condition’, i.e. the state of the breath in which it flows up and down.
 

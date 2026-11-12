@@ -67,7 +67,7 @@
     const nonAscii = named.filter(f => /[^\x00-\x7F]/.test(f.path)).map(f => f.path);
     const badChars = named.filter(f => /[\[\]#^|:*?"<>\\]/.test(f.name) || / \(\d\)\./.test(f.name) || / copy\./i.test(f.name) || /  /.test(f.name)).map(f => f.path);
     const empties = notes.filter(f => f.stat.size < 12 && !f.path.startsWith('Journal/')).map(f => f.path);
-    const top = files.filter(f => !f.path.includes('/') && !['Home.md', 'Welcome to the vault.md', 'Vault Guide.md', 'Plugins.md'].includes(f.path)).map(f => f.path);
+    const top = files.filter(f => !f.path.includes('/') && !['Home.md', 'Vault Guide.md', 'New Testament View.md', 'Synoptic View.md', 'Talmud View.md', 'Tantraloka View.md', 'Torah View.md'].includes(f.path)).map(f => f.path);
     const strayJs = files.filter(f => f.extension === 'js' && !f.path.startsWith('Templates/Views/') && !f.path.startsWith('AI/Prompts/Scripts/') && !f.path.startsWith('AI/Archive/')).map(f => f.path);
     Object.assign(R.numbers, { names_non_ascii: nonAscii.length, names_bad: badChars.length, empty_notes: empties.length, top_level_strays: top.length, stray_scripts: strayJs.length });
     if (!nonAscii.length && !badChars.length) R.fine.push('File names: all plain ASCII outside the Greek lexicon and Stephen\'s originals, no forbidden characters, no " (1)" or " copy" endings.');
@@ -113,7 +113,7 @@
           const v = made.view; el = (v && v.previewMode && v.previewMode.containerEl) || (v && v.containerEl);
         }
         const txt = el ? el.textContent.replace(/\s+/g, ' ') : '';
-        const errEls = el ? [...el.querySelectorAll('.dataview-error, .dataview-error-box, .dataviewjs-error, .dataview-error-message, .bases-error, .markdown-embed-error, .mod-error')].filter(x => x.textContent.trim()).map(x => x.textContent.trim().slice(0, 120)) : [];
+        const errEls = el ? [...el.querySelectorAll('.dataview-error, .dataview-error-box, .dataviewjs-error, .dataview-error-message, .bases-error, .markdown-embed-error, .mod-error, .hp-error, .hp-notice, .vp-view-error')].filter(x => x.textContent.trim()).map(x => x.textContent.trim().slice(0, 120)) : [];
         out.push([p, { chars: txt.length, errors: errEls, console: errs.slice(n0).slice(0, 3) }]);
         if (made) { try { made.detach(); } catch (e) {} }
       }

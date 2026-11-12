@@ -316,9 +316,9 @@ The text is written in sixteen syllable sokas and the language is simple and dir
 
 Śakti.
 
-[^25]: Sandhyã bhāga is a kind of "twilight" language in which words are used with hidden meanings; Bharati says that "sandhābhāga entails a sort of systematice ambiguity" (Agehananda Bharati, The Tantric Tradition London: Rider and Co., 1965, p. 180), and Hoens says that "it is an intentional language” in whieh "a state of conseiousness is expressed by an erotice term" (Hindu Tantrism, p. 104).
+[^25]: Sandhyā bhāṣa is a kind of "twilight" language in which words are used with hidden meanings; Bharati says that "sandhābhāṣa entails a sort of systematic ambiguity" (Agehananda Bharati, The Tantric Tradition London: Rider and Co., 1965, p. 180), and Hoens says that "it is an intentional language” in which "a state of consciousness is expressed by an erotic term" (Hindu Tantrism, p. 104).
 
-[^26]: Sir John Woodroffe - Arthur Avalon, ed., The Kulacüdāmaṇi Tantra with an Introduction by A.K. Maitra (London: Luzae and Co., I915), pp. 14-15.
+[^26]: Sir John Woodroffe - Arthur Avalon, ed., The Kulacūḍāmaṇi Tantra with an Introduction by A.K. Maitra (London: Luzac and Co., 1915), pp. 14-15.
 
 *[p. 19]* ^pg15
 
@@ -330,7 +330,7 @@ Chapter I Verse 3 refers to the "Sāṁkara tradition" and it is unlikely that a
 
 Were it possible to date the tantras mentioned in the first chapter of the KCT, they would be excellent points of reference for the dating of the text itself. Unfortunately, the majority of tantras on this list appear to be titles that no longer correspond to extant
 
-[^29]: Goudriaan, Tantrie and Sākta Literature, p. 22. According to Sudhakar Chattopadhyaya, no Tantric text can be "confidently assigned to before the 9th C." (Reflections on the Tantras \[Delhi: M. Banarsidass, 1978\], p. 23.)
+[^29]: Goudriaan, Tantric and Śākta Literature, p. 22. According to Sudhakar Chattopadhyaya, no Tantric text can be "confidently assigned to before the 9th C." (Reflections on the Tantras \[Delhi: M. Banarsidass, 1978\], p. 23.)
 
 [^27]: Goudriaan, Tantrie and Sãkta Literature, p. 92.
 [^28]: J.N. Farquhar, An Outline of the Religious Literature of India, (Oxford University Press, 1920), p. 888.
@@ -393,7 +393,7 @@ Purāṇas.
 
 The epigraphical data on the Mothers is supported by archaeological evidence of a consistently early date. For example, there are sculptures of the Mothers at: \`
 
-[^47]: Corpus Inscriptionum Indicarum, Vol. 3, "Gangdhar Stone Inscription of Vigvavarman" (Oxford: Government of India, n.d.), pp. 72-8.
+[^47]: Corpus Inscriptionum Indicarum, Vol. 3, "Gangdhar Stone Inscription of Viśvavarman" (Oxford: Government of India, n.d.), pp. 72-8.
 
 [^48]: See the Appendix.
 
@@ -580,7 +580,7 @@ The division which is perhaps best known outside of Tantric circles is that into
 
 Unfortunately the terms "left-hand" and "right hand" are not always similarly defined by the varying authors who employ them. In common usage, the left-hand path has "emphasized the use of the five
 
-[^81]: A familiarity with the Saradã script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
+[^81]: A familiarity with the Śaradā script (from Kashmir) is sometimes necessary for the interpretation of the commentary due to the strong influence of Kashmir Śaivism.
 
 [^82]: Goudriaan, Tantrie and Sākta Literature, p. 64.
 
@@ -601,7 +601,7 @@ It is in connection with the more notorious connotations of the left-hand path a
 
 The second classification into "rotas" or "currents" is a more ancient one, but it too is not very instructive for the good reason that texts of the left current are rare[^91] and their content and meaning are so far effectively unknown.
 
-[^87]: I.e., wine, fish, meat, parched grain and sexual intereourse.
+[^87]: I.e., wine, fish, meat, parched grain and sexual intercourse.
 
 [^88]: Vijhānabhairava or Divine Consetousness, trsl. and notes by  Jaideva Singh (Delhi: M. Banarstdass, 1979), p. 4.
 
@@ -609,9 +609,9 @@ The second classification into "rotas" or "currents" is a more ancient one, but 
 
 89\. Bharati says that "dakgiṇnācāra and vāmācāra refer to the position of the female partner in the ritual in relation to the yogī; in praetices where she sits on his left, the ingrediente (sāmagrT) tend to be physically used, and where she sits on the right the use etther of substitutes or of meditation on the ingredients prevails". (Tantrie Tradition, p. 229.) "Vāmācāra prescribed an excessive use of intoxicants without any element of modesty in its praetice. While Kaulas use wine ete. in closed door compartments called Kulacakras, Vāmācārins take it publicly and profusely. Dakṣināecāra prohibits the use of such objects and preseribes instead smearing of ashes from funeral pyres, inhabiting in cremation grounds, using skull bones as utensils and so on. Vāmācāra is sweeter and quicker in results than Dakgiṇnācāra which ts more or less barbarie tn nature.” (B.N. Pandit, Aspects \_of Kashmir Saivism \[Srinagar: Utpal Publications, 1977\] p. 207.) The problems of definition may lie in the number of "paths", "eurrents" and "mouths" (see Goudriaan, Hindu Tantric and Sākta Literature, pp. 16-17), in which case Pandit's definition of Dakgiṇnamārga may be reconcilable with the "southern current” that is assoetated with Bhatrava and which tis constdered in the Brahma Yāmala to be impure. (Ibid., p. 16.)
 
-[^90]: Lalitã-Sahasranãman with Bhāskararāya's commentary, trsl. R. Anantakrishna Sastry (Madras: The Theosophical Publ. House, 1951; reprint ed. 1976), p. 360.
+[^90]: Lalitā-Sahasranāman with Bhāskararāya's commentary, trsl. R. Anantakrishna Sastry (Madras: The Theosophical Publ. House, 1951; reprint ed. 1976), p. 360.
 
-[^91]: "The left current seems to have become extingutshed at an early date; of its texts, only the VIṇāsíikha has been preserved..." (Goudriaan, Hindu Tantric and Sākta Literature, p. 16.)
+[^91]: "The left current seems to have become extinguished at an early date; of its texts, only the Vīṇāśikha has been preserved..." (Goudriaan, Hindu Tantric and Sākta Literature, p. 16.)
 
 *[p. 36]* ^pg32
 
@@ -625,7 +625,7 @@ The first five chapters of the Vāmakesvara Tantra presented here in translation
 
 Chapter I is concerned with the making and worship of the Srīceakra; Chapter II speaks of the various benefits obtainable from its worship; Chapter III describes the mudrās required for worship;
 
-[^93]: Rastogi, Krama Tantrieism, p. 20.
+[^93]: Rastogi, Krama Tantricism, p. 20.
 
 [^95]: The additional reason for calling the path pointed out by the Śaivāgamas, which originate from the northern face, Vāmamārga seems to be the influence...of Śiva and Śakti. ..the wife, according to the Indian tradition always stands to the left of the husband... the word Vāmā in Sanskrit, for this reason, stands for wife." (Pandey, Abhinavagupta, p. 611.) An exception to this general rule ts the goddess Minākṣt who ts regularly seated on the right.
 
@@ -646,7 +646,7 @@ Four hundred verses, however, is not the actual count for all the editions. In o
 
 [^96]: Verse 58 has been numbered twice over.
 
-[^97]: The \_"Nityāgodasikārṇava" \_ of the Vāõmakesvara Tantra, ed. Kāsinātha Sāstri Agāse, Anandāsrama Sanskrit sertes 56 (Poona, 1908).
+[^97]: The \_"Nityāṣoḍaśikārṇava" \_ of the Vāmakeśvara Tantra, ed. Kāśīnātha Śāstrī Āgāśe, Ānandāśrama Sanskrit Series 56 (Poona, 1908).
 
 *[p. 38]* ^pg34
 
@@ -656,7 +656,7 @@ One may therefore presume that this Kashmir edition contains not only tne oldest
 
 The principal subject matter of the VT is the esoteriç Śrīceakra and the Śrīvidyā. But in order to arrive at a basic understanding of the text, a commentary is necessary and it is by virtue of the commentary written by Jayaratha that the NSA was assimilated into the profound philosophic traditions of Kashmir Śaivism whose relevant aspects are dealt within Part II. The need for a commentary is a long standing one and can be judged by the several Sanskrit commentaries that are extant.[^100] Goudriaan says that the earliest commentary is reported by Jayaratha as
 
-[^98]: The Nityāgodasikārnava with Commentaries "Rjuvimarsint" by Sivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yoga-Tantra-Granthamãlā Vol. 1 (Varanasi: Varanaseya Sanskrit Vishvavidyalaya, 1968).
+[^98]: The Nityāṣoḍaśikārṇava with Commentaries "Ṛjuvimarśinī" by Śivānanda and "Artharatnāvalī" by Vidyānanda, ed. Vrajavallabha Dwiveda, Yoga-Tantra-Granthamālā Vol. 1 (Varanasi: Varanaseya Sanskrit Vishvavidyalaya, 1968).
 
 [^99]: See the Appendix.
 [^100]: Jayaratha's "Vivarana" (12th C); Sivānanda's "Rjuvimarśin"  (13th C); Vidyānanda's "A4rtharatnāval?" (? C) and Bhāskararāya's "Setubandha” (18th C). (Goudriaan, Bindu Tantric and Sākta Literature, p. 60.
@@ -700,7 +700,7 @@ The final guru whom Jayaratha mentions in a way which indicates that the guru wa
 
 [^108]: See commentary to I:1.
 
-[^109]: One presumes that it is the same text as the Utpala Stotrāvali ikā listed by Pandey as a work of Kgemarāja. (Ibíid., p. 2586.)
+[^109]: One presumes that it is the same text as the Utpala Stotrāvalī Ṭīkā listed by Pandey as a work of Kṣemarāja. (Ibid., p. 256.)
 
 *[p. 41]* ^pg37
 
@@ -747,9 +747,9 @@ If ĪsvaraSiva (9th C) was indeed a commentator of the VāmakeSvara Tantra, it i
 
 The facts at hand for speculation on the date of the text are few and are the following:
 
-[^116]: Goudriaan, Hindu Tantric and Sākta Literature, p. 60.
+[^116]: Goudriaan, Hindu Tantric and Śākta Literature, p. 60.
 
-[^117]: Cormentary to VT I:88. See note 92 of the translation.
+[^117]: Commentary to VT I:88. See note 92 of the translation.
 
 [^118]: It is Goudriaan who points out that the VT is not referred to by Abhinavagupta. (Ibid., p. 60.)
 

@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 तत्त्वानि सप्त बोधिन्या तच्चतुर्था पुराणि च ।
-तृतीये सप्त वर्णाः स्युः पदमन्त्रद्वयम्द्वयम् ॥ ^mula
+तृतीये सप्त वर्णाः स्युः पदमन्त्रद्वयं द्वयम् ॥ ^mula
 
 tattvāni sapta bodhinyā taccaturthā purāṇi ca |
 tṛtīye sapta varṇāḥ syuḥ padamantradvayam dvayam || ^iast

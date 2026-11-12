@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "1Q15"
-title: "1QPesher to Zepha niah"
+title: "1QPesher to Zephaniah"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "20–23"
@@ -10,7 +10,7 @@ aliases:
   - "1Q15"
   - "1QpZeph"
 ---
-# 1Q15 (1QpZeph) · 1QPesher to Zepha niah
+# 1Q15 (1QpZeph) · 1QPesher to Zephaniah
 
 [[DSS 1QpHab|← 1QpHab]] · [[Qumran|index]] · [[DSS 1Q16|1Q16 →]]
 

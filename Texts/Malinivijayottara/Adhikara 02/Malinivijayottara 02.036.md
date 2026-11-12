@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-भूयोऽप्यासामवस्थानाम्सम्ज्ञाभेदः प्रकाश्यते ।
-पिण्डस्थः सर्वतोभद्रो जाग्रन्नाम द्वयम्मतम् ॥ ^mula
+भूयोऽप्यासामवस्थानां संज्ञाभेदः प्रकाश्यते ।
+पिण्डस्थः सर्वतोभद्रो जाग्रन्नाम द्वयं मतम् ॥ ^mula
 
 bhūyo 'py āsām avasthānām samjñābhedaḥ prakāśyate |
 piṇḍasthaḥ sarvatobhadro jāgrannāma dvayam matam || ^iast

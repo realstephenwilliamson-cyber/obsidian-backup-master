@@ -35,7 +35,7 @@ aliases:
 
 **7** that they will desert [me and ch]oose [the sins of the] peo[ples,] their [abo]minations [and] their [disre]putable acts [and will serve] ^1-7
 
-**8** ido[l]s, who will become a tr[ap and] a snare. They will vio[late all the ho]ly [assem- *[p. 61]* blies], the sabbath of the covenant, [the festivals] which ^1-8
+**8** ido[l]s, who will become a tr[ap and] a snare. They will vio[late all the ho]ly [assemblies], *[p. 61]* the sabbath of the covenant, [the festivals] which ^1-8
 
 **9** I command you today [to k]eep. [This is why I will stri]ke them with a great [blow] in the midst of [the] land [for] ^1-9
 

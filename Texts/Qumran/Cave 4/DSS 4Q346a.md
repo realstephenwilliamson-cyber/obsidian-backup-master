@@ -20,6 +20,6 @@ aliases:
 
 ### Text
 
-**1** account … […] … *[p. 715]* 4Q347, 4Q348, 4Q351, 4Q352 4Q347 [XH˘ev/Se 32 (+ 4Q347)] XH˘ev/Se papDeed F (+ 4Q347) ar ROC 184, 734 Alleged to be from Qumran Cave 4, but from Nah≥al H˘ever ^t-1
+**1** account … […] … *[p. 715]* 4Q347 [XH˘ev/Se 32 (+ 4Q347)] XH˘ev/Se papDeed F (+ 4Q347) ar ROC 184, 734 Alleged to be from Qumran Cave 4, but from Nah≥al H˘ever ^t-1
 
 [[DSS 4Q346|← 4Q346]] · [[Qumran|index]] · [[DSS 4Q347|4Q347 →]]

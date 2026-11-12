@@ -22,7 +22,7 @@
   const noPdf = total - (sz.pdf || 0); const mukta = files.filter(f => f.path.startsWith('Texts/MUKTABODHA-LIBRARY-')).reduce((a, f) => a + f.stat.size, 0); const orig = files.filter(f => f.path.startsWith('Projects/_Originals/')).reduce((a, f) => a + f.stat.size, 0);
   out.sync = { noPdfGB: +(noPdf / 1e9).toFixed(2), muktaGB: +(mukta / 1e9).toFixed(2), originalsMB: Math.round(orig / 1e6), laptopRemoteGB: +((noPdf - mukta) / 1e9).toFixed(2), phoneGB: +((noPdf - mukta - orig) / 1e9).toFixed(2) };
   out.counts = { notes: V.getMarkdownFiles().length, files: files.length, zoharVols: V.getMarkdownFiles().filter(f => /^Texts\/Zohar\/Zohar \d+ - /.test(f.path)).length, convertedNotes: V.getMarkdownFiles().filter(f => { const fm = (MC.getFileCache(f) || {}).frontmatter; return fm && fm.source_pdf; }).length, taVerses: V.getMarkdownFiles().filter(f => /^Texts\/Tantraloka\/Ahnika \d+\/Tantraloka \d+\.\d+\.md$/.test(f.path)).length };
-  out.exists = {}; for (const p of ['Notes/Marked pages', 'Notes/Mini Notes', 'Journal/Weeks', 'Excalidraw/Matrika-sarira - 108-day drawing.excalidraw.md', 'Catalog/Scholars', 'AI/AI chats', 'AI/Vault analysis (6 Oct 2026)', 'AI/Archive/Phase 2 changes (6 Oct 2026).md']) out.exists[p] = !!V.getAbstractFileByPath(p);
+  out.exists = {}; for (const p of ['Notes/Marked pages', 'Journal/Weeks', 'Catalog/Scholars', 'AI/AI chats', 'AI/Vault analysis (6 Oct 2026)', 'AI/Archive/Phase 2 changes (6 Oct 2026).md']) out.exists[p] = !!V.getAbstractFileByPath(p);
   out.scholars = V.getMarkdownFiles().filter(f => f.path.startsWith('Catalog/Scholars/')).map(f => f.basename);
   await V.adapter.write('.work/out/s86j-numbers.json', JSON.stringify(out, null, 1));
   return JSON.stringify(out).slice(0, 1500);

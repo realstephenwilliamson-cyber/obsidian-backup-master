@@ -22,12 +22,12 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 1:1-17 |
-| Frag. 8 | Deut 4:31-34 |
 | Frag. 2-4 | Deut 1:22-24; 29-39 |
-| Frag. 9 | Deut 19:21? |
 | Frag. 5-6 | Deut 1:41; 1:43 - 2:6 |
-| Frag. 10 | Deut 31:9-11 |
 | Frag. 7 | Deut 2:28-30 |
+| Frag. 8 | Deut 4:31-34 |
+| Frag. 9 | Deut 19:21? |
+| Frag. 10 | Deut 31:9-11 |
 | Frag. 11-15 | Deut 33:18-22 |
 
 [[DSS 4Q34|← 4Q34]] · [[Qumran|index]] · [[DSS 4Q36|4Q36 →]]

@@ -98,7 +98,8 @@ i\) स्मृत्वा, स्मृतः (smṛtvā, smṛtaḥ)
 14\) Having seen the city conquered by evil men, the heroes do not want to enter it/that city.
 15\) The son, having taken the fruit that have fallen from the tree, wants to give them to [his] master.
 16\) The son, having taken the fruit that have been made to fall from the tree (that were shaken off the tree) by the man, wants to give them to [his] master.
-17\) I do not want to go to the forest. 18) Having seen the burnt field and the abandoned city here, the people mourn.
+17\) I do not want to go to the forest.
+18\) Having seen the burnt field and the abandoned city here, the people mourn.
 
 READINGS
 

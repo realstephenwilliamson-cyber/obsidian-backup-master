@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 5:28-32 |
-| Frag. 4 | Deut 32:22-23 |
 | Frag. 2 | Deut 11:6-13 |
-| Frag. 5 | Deut 32:25-27 |
 | Frag. 3 | Deut 32:17-18 |
+| Frag. 4 | Deut 32:22-23 |
+| Frag. 5 | Deut 32:25-27 |
 
 [[DSS 4Q37|← 4Q37]] · [[Qumran|index]] · [[DSS 4Q38a|4Q38a →]]

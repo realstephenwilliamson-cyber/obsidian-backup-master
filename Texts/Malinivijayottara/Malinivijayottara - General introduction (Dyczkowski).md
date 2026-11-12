@@ -382,21 +382,21 @@ which is the Lord.[^32] In (the section of) the
 
 *Devīyāmala* dealing with the (*maṇḍala*[^33]
 
-of the) Great Ḍāmara Sacrifice (*yāga*),
+of the) Great Ḍāmara[^34] Sacrifice (*yāga*),
 
 She is called *Kālakarṣiṇī* (the Destroyer
 
-of Time) who is situated on the head of
+of Time)[^35] who is situated on the head of
 
 *[p. 37]*
 
-the venerable Parā (the Supreme). In the
+the venerable Parā (the Supreme).[^36] In the
 
 *Mālinīvijaya* (*śrīpūrvaśāstra*) she is
 
 described as *Mātṛsadbhāva* (the Essential
 
-Being of the Mothers).'
+Being of the Mothers).'[^37]
 
 Finally, we should note that although the *Mālinīvijayottara* does not supply a large number of Mantras, they are the most important and essential ones for these basic Trika rites. Abhinava largely confines his liturgy (*paddhati*) to them and their application. He presents them all together in chapter thirty of the *Tantrāloka*.
 
@@ -413,8 +413,6 @@ l Chapter Two: The Seven Perceivers, the
 ## Penetrations and the Six Paths
 
 l Chapter Three: Mantras and the Deities of
-
-## Ḍāmara Devyāyāmala Devāyāmala maṇḍala vyāpti śrīparāmastake sthitā śrīparā mastake tathā.
 
 *[p. 38]*
 
@@ -444,24 +442,6 @@ l Chapter Seventeen: The Six Ancillaries of
 
 l Chapter Eighteen: The Supreme Vidyā l Chapter Nineteen: Kulacakra, Piṇḍastha,
 
-## The Contents of Chapter One
-
-## The Descent of the Scripture, What is to be Rejected and How
-
-l The Descent of the Scripture 1-13 l What is to be Abandoned and What is to be
-
-Adopted 14-17ab l The Characteristics of the Lord 17cd-18ab l The Great Creation 18cd-22ab l The Group of Four Selves 22cd-23ab l Impurity (mala) 23cd l Karman 24ab-25 l Māyā 26 l The Kañcukas 27ab-29
-
-Nature and the Lower Principles 30-34
-
-- l The Fully Conditioned (sakala) Perceivers
-
-35-36 l The Mantras 37-41 l Rudra's Power of Grace and the Types of
-
-Devotees 42-50
-
-The reader will notice that the English translation is in three type faces. Those lines
-
 ## Padastha Rūpastha, and Rūpātīta and the
 
 ## Contemplation of the Phonemes
@@ -484,7 +464,23 @@ l Chapter Twenty-Three: Meditations,
 
 ## Mantras and the Knowledge of Dreams
 
-that are in bold characters are quoted by Abhinavagupta. Those in italics are quoted by Jayaratha. Those in both type faces are quoted by both Jayaratha and Abhinavagupta. The lines in plain type are not quoted by either. The details of their location in the *Tantrāloka* and elsewhere are given in the notes. By referring to those places in my translation of the *Tantrāloka* the reader will learn how Abhinavagupta has understood them and commented on them. l *ĪPVv Īśvarapratyabhijñāvivṛtivimarśinī* l KSTS Kashmiri Series of Texts and Studies l *TĀ Tantrāloka* l 17 *Netratantra* l %< *Brahmayāmala* l 09 *Mālinīvijayottara* l 099 *Mālinīvijayavārtikā* l YSū Yogasūtra l 6Y7 *Svacchandatantra*
+## The Contents of Chapter One
+
+## The Descent of the Scripture, What is to be Rejected and How
+
+l The Descent of the Scripture 1-13 l What is to be Abandoned and What is to be
+
+Adopted 14-17ab l The Characteristics of the Lord 17cd-18ab l The Great Creation 18cd-22ab l The Group of Four Selves 22cd-23ab l Impurity (mala) 23cd l Karman 24ab-25 l Māyā 26 l The Kañcukas 27ab-29
+
+Nature and the Lower Principles 30-34
+
+- l The Fully Conditioned (sakala) Perceivers
+
+35-36 l The Mantras 37-41 l Rudra's Power of Grace and the Types of
+
+Devotees 42-50
+
+The reader will notice that the English translation is in three type faces. Those lines that are in bold characters are quoted by Abhinavagupta. Those in italics are quoted by Jayaratha. Those in both type faces are quoted by both Jayaratha and Abhinavagupta. The lines in plain type are not quoted by either. The details of their location in the *Tantrāloka* and elsewhere are given in the notes. By referring to those places in my translation of the *Tantrāloka* the reader will learn how Abhinavagupta has understood them and commented on them. l *ĪPVv Īśvarapratyabhijñāvivṛtivimarśinī* l KSTS Kashmiri Series of Texts and Studies l *TĀ Tantrāloka* l NT *Netratantra* l BY *Brahmayāmala* l MV *Mālinīvijayottara* l MVV *Mālinīvijayavārtikā* l YSū Yogasūtra l SvT *Svacchandatantra*
 
 [^1]: TĀ 1/16.
 [^2]: *iti yaj jñeyasatattvaṁ darśyate tac chivājñayā* || 105 || *mayā svasaṁvitsattarkapatiśāstratrikakramāt* _ The same can also be translated as follows. ‘Thus I will expound, at Śiva’s command, according to my own consciousness, sound discriminative reasoning (*sattarka*), Śaiva doctrine (*patiśāstra*), Trika and Krama,2 the true nature of what needs be known.’ TĀ 1/105cd-106ab (106)
@@ -493,7 +489,7 @@ that are in bold characters are quoted by Abhinavagupta. Those in italics are qu
 [^5]: MVV 2/278-280.
 [^6]: = Concerning this verse, see Dyczkowski, 1988: 180. Gnoli translates ‘Trika, cioe’ la scuola senza superiore’, i.e., ‘Trika, the most excellent school’, taking ‘anuttara’ to be simply an adjective of Trika rather than a proper name. Similarly, Sanderson (2007: 391, note 530) translates ‘the procedures of the supreme doctrine of Trika’. He acknowledges that Anuttaratrika, otherwise called Parākrama or Ekavīra, is considered to be the system taught in the *Parātrīśikā*, which Abhinava expounds in his commentary (*vivaraṇa*). But it seems that he wishes to distinguish it from the Trika taught in the Tantrāloka. This is because the Trika teachings of the PT and allied texts such as the *Vijñānabhairava,* do not admit the performance of outer ritual, whereas Abhinava dedicates most of the second half of the Tantrāloka to matters of ritual. However, this need not be so. Jayaratha considers the teaching of the Tantrāloka to be ‘the modality (of practice) (*prakriyā*) of the teaching (*artha*) of Anuttara Trika’. Abhinava himself refers to the mantras of his own school as that of the Anuttara Trika (below, 11/88) which Jayaratha glosses as being those ‘of the teaching (*artha*) of Anuttara Trika’ contained in the primary Trika Tantras that is, the *Siddhayogīśvarīmata*, *Anāmakatantra* and *Mālinīvijaya*. Finally, we may note that Swami Lakshmanjoo (1995: 7) also agrees that Abhinava meant to say that the system he teaches in his Tantrāloka is Anuttara Trika. Thus, the PT teaches *anuttaraprakriyā*, which is a name Abhinava gives to it because there is no outer ritual. The Tantrāloka also teaches the remaining two modalities of practice, namely, Tantra and Kula *prakriyā* which do. Note that this is so, even though the teachers of the *Pratyabhijñā* philosophy are considered, at least by Jayaratha, to be exponents of the former. Nonetheless, Tantraprakriyā like *Kulaprakriyā* is also a modality of ritual practice.
 [^7]: TĀ 1/14-15. Note, by the way, the reference Abhinavagupta makes to his fellow students. Clearly, he was still young man when he wrote the *Tantrāloka*.
-[^8]: MV 4/39-40ab. Jayaratha’s citation reads *siddhayogavid* for the MV KSTS edition reading *siddho yogavid.* One could amend *siddha-/ siddho* WR *dvayor yogavid* ‘of the two the one who knows yoga (is the most excellent)’. Thus, he clearly underscores the excellence of the yogi with respect to the *jñānin.* Gnoli’s translation is more conciliatory: ‘The ‘Gnostics’ and the yogis mentioned previously are of a progressively more elevated order. The most elevated of all is he who has attained a yoga and gnosis (*vid*) that are perfect [*siddho yogavid uttama*] because he also possesses knowledge — the preceding ones are excluded from the fruits of Yoga.’ The MV KSTS edition reads *siddho yogavid* in place of *siddhayogavid.*
+[^8]: MV 4/39-40ab. Jayaratha’s citation reads *siddhayogavid* for the MV KSTS edition reading *siddho yogavid.* One could amend *siddha-/ siddho* to *dvayor yogavid* ‘of the two the one who knows yoga (is the most excellent)’. Thus, he clearly underscores the excellence of the yogi with respect to the *jñānin.* Gnoli’s translation is more conciliatory: ‘The ‘Gnostics’ and the yogis mentioned previously are of a progressively more elevated order. The most elevated of all is he who has attained a yoga and gnosis (*vid*) that are perfect [*siddho yogavid uttama*] because he also possesses knowledge — the preceding ones are excluded from the fruits of Yoga.’ The MV KSTS edition reads *siddho yogavid* in place of *siddhayogavid.*
 [^9]: MV 4/40cd is quoted in 13/332cd.
 [^10]: TĀ 4/40cd-41
 [^11]: MV 4/4ab is quoted in TĀv ad 1/152-153.
@@ -519,3 +515,7 @@ that are in bold characters are quoted by Abhinavagupta. Those in italics are qu
 [^31]: Cf. TĀ, 4/181cd-182ab and TĀv ad 4/182cd-183.
 [^32]: Emending prabhuḥ ‘(which is) the lord’ to prabhoḥ ‘of the Lord’, the meaning would be ‘the supreme emission of the Lord’. This makes more sense, as visarga is the power of Lord Śiva, which is the Goddess. Sanderson (2011: 98) understands ‘prabhuḥ’ not as a noun — ‘the Lord’ — but as an adjective of the supreme form of emission, which is thus ‘prabhuḥ’ in the sense of ‘omnipotent’. Again, he translates supreme visarga, not literally as ‘emission’, but as ‘state of absolute potential’. He does so because no ‘emission’ of any content takes place at this supreme (i.e. transcendental) level. Indeed, we have seen that Maheśvarānanda also explains that the power Kaulikī is the state of potency or ‘intent’ (aunmukhya). Even so, I understand Abhinava uses this term (and it is his own in this sense) to underscore the dynamic creative — emissive — state of the power of consciousness. Thus, below, the Heart, which is supreme visarga, is said to be ‘perpetually active' (satatodita) as the universal pulse of consciousness (sāmānyaspanda), ‘which is the outpouring (of consciousness) within one’s own nature’ (4/183). There are three levels, forms, or states of ‘emission’. The supreme one is the emissive power of supreme consciousness (visargaśakti). It is indeed an omnipotent potency at this level, but even so, it is also dynamic. It emits, as it were, incessantly, in perfect tranquility into the eternity of consciousness, consciousness itself, as it were, which is thus ‘ever new’, renewed by its supreme inscrutable dynamism. The process of manifestation is this same ‘emission’ operating at the intermediate and lower levels of unity-in-difference, which is that of perception, that links the unity of the subject and the diversity of the object, and that of duality, which is that of its object, respectively. Thus, this ‘emission’ is seemingly triple. The image of Śiva (Light) perpetually emitting Himself as His own divine power into Himself as the Goddess who is Himself and through Himself is both aesthetically and theologically significant. This is indeed ‘a state of absolute potential’, but it is essentially dynamic. The three powers of will, knowledge and action fused in the Heart of consciousness are not static. Rather they constitute the state of perpetual transcendental equilibrium of their flow into one another, embraced in their dynamic, inscrutable unity, which we perceive as the waves of the ocean of consciousness in and through each act of perception. Cf. TĀ 3/102cd-104ab.
 [^33]: Sanderson (2005b: 102 n 38) points out that here the word ‘*yāga*’ denotes the *maṇḍala*. He extracts two more cogent meanings from the sources of the term yāga, which most commonly denotes the sacrificial sacrifice. One of these is ‘pantheon’. In this sense the word yāga means ‘that which is worshipped’ (*ijyata iti yāgaḥ*). He supplies examples of this usage. Thus, Kṣemarāja says, commenting on SvT 2/158b: *yāgaṁ tatraiva vinyaset* — ‘one should place the object of worship (*yāga*) there’ *ijyata iti yāgo mantragaṇaḥ* — *‘yāga* is that which is to be worshipped, that is, the hoard of mantra (deities).’ For more examples, see Sanderson 1990: 31, n. 2: ‘For *yāgaḥ* in this sense, lit. ‘that which is worshipped’ (*ijyata iti yāgaḥ*), see also SvT 13/1 and NT 16/58ab; SvT 4/522ab (*yāgaṁ saṁhareta*); BY f. 210v3 (*yāgaṁ... aśeṣaṁ tatra vinyaset*). TSā p. 191 (*upasaṁhṛte yāge*). Another meaning of the term *yāga* is ‘that on which (the deities) are worshipped’ (*atrejyanta iti yāgaḥ*), that is to say, the *maṇḍala.* Examples of this usage are found in the *Mṛgendra Kriyāpāda,* 8/136 and in the *Tantrāloka* itself (see below, 31/43a, 46c-47a and 53ab). The term *Ḍāmarayāga,* in the sense of a variant of the Trika Trident *maṇḍala* as taught in the *Devyāyāmala,* is found below in 31/100ab. For the use of the term to denote the section of the work in which that *maṇḍala* is taught, see TĀ 15/335cd.
+[^34]: ‘Ḍāmara’ is a Kashmiri word for a feuditory, baron, or landowner. It can also mean, as it does here, ‘warlock’ or ‘magician’. The ḍāmaras are central Asian people who settled in the Kashmir Valley centuries before Abhinavagupta, The presence of this term may be tentatively taken to be evidence that the *Devyāyāmala* (= *Devāyāmala*) originated in Kashmir. The Sacrifice of the Warlocks takes place in a cremation ground, where assemblies of Yoginīs and Siddhas gather. There the Trika Trident *maṇḍala* is drawn with ashes of the dead, and offerings made to it of bodily fluids. This invokes the Goddess, who penetrates the adept and gives him a vision of her pervasive presence (*vyāpti*) everywhere. See also below, 13/351cd, 15/335cd, 30/54cd-55ab and 31/100cd.
+[^35]: The name ‘Kālakarṣiṇī’ or ‘Kālasaṁkarṣiṇī’ (in the scriptural sources, more commonly called Kālasaṁkarṣaṇī) literally means ‘she who drags time (into herself)’. Time is the hallmark of the flow of cognitive events that manifest between the polarities of subject and object in the course of perception, and more so of the flow of the breath, and hence life itself. Time measures out the flow of mundane objectivized experience. Time is thus emitted by the dynamism of unitary consciousness with and through the flux of perception through this polarity formed by its self-limitation. The withdrawal of time back into consciousness and the power that brings that about thus annuls this polarity, and with it mundane fettered existence.
+[^36]: Read *śrīparāmastake sthitā* for *śrīparā mastake tathā*. See below, commentary on 15/254, where Jayaratha quotes this line with this reading.
+[^37]: TĀ 3/68cd-70 (69-71ab). See, TĀ 31/97-100 and 15/250cd-253. These lines are quoted in TĀv ad 15/252cd-255ab.

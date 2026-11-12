@@ -36,7 +36,7 @@
   for (const f of md) { const c = MC.getFileCache(f); if (!c || !c.embeds) continue; for (const e of c.embeds) { const n = e.link.split('#')[0]; if (!n) continue; if (!MC.getFirstLinkpathDest(n, f.path)) embMissing.push([f.path, e.link]); } }
   R.embedsMissing = embMissing.slice(0, 200);
   // 3. catalog
-  const SUBJ = ['Trika', 'Judaica', 'Christianity', 'Philosophy', 'Sanskrit-Study', 'Hinduism', 'Biblical-Studies', 'Other'];
+  const SUBJ = ['Trika', 'Judaica', 'Christianity', 'Philosophy', 'Sanskrit-Study', 'Hinduism', 'Biblical-Studies', 'Religious-Studies']; // 'Other' became 'Religious-Studies' on 10 Nov 2026
   const TYPES = ['book', 'article', 'chapter', 'thesis', 'collection', 'multi-volume-set', 'text', 'other']; // 'text' added 14 Oct 2026 (audit K-08)
   const TEXT = ['searchable', 'scan', 'print'], STATUS = [null, 'reading', 'review', 'delete'];
   const catNotes = md.filter(f => /^Catalog\/[^/]+\/[^/]+\.md$/.test(f.path) && !f.path.startsWith('Catalog/Scholars/') && f.basename !== f.parent.name);

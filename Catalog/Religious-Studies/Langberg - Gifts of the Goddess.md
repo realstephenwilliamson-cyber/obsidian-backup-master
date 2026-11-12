@@ -30,7 +30,7 @@ aliases: []
 await dv.view("Templates/Views/open-pdf")
 ```
 
-Buddhist studies; filed under Other because the library has no Buddhism folder.
+Buddhist studies; filed under Religious-Studies because the library has no Buddhism folder.
 
 Filed on 4 Oct 2026 from the phone folder. The subject was assigned by Claude; change it if the item belongs elsewhere.
 

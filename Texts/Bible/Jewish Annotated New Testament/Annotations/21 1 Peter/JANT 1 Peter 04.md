@@ -48,6 +48,6 @@ Text: [[NRSVue 1 Peter 04|NRSVue]] · [[1 Peter 04|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 04#^4-18|18]]:** See [[LXX Proverbs 11#^11-31|Prov 11.31]]\[LXX\]. ^4-18
 
-**[[NRSVue 1 Peter 04#^4-19|19]]:** *Faithful Creator*, the only place where the NT refers to God as creator, meaning that God controls all of history from the beginning of time until the end of days. (See similar ideas in [[Isaiah 45#^45-6|Isa 45.6–7]]; *Ex. Rab.* 21.6.) Readers are told that they can and should be faithful and trust in this “faithful Creator.” ^4-19
+**[[NRSVue 1 Peter 04#^4-19|19]]:** *Faithful Creator*, the only place where the NT refers to God as creator, meaning that God controls all of history from the beginning of time until the end of days. (See similar ideas in [[Isaiah 45#^45-6|Isa 45.6–7]]; *Ex. Rab.* [21.6](https://www.sefaria.org/Shemot_Rabbah.21.6).) Readers are told that they can and should be faithful and trust in this “faithful Creator.” ^4-19
 
 [[JANT 1 Peter 03|← 1 Peter 3]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Peter 05|1 Peter 5 →]]

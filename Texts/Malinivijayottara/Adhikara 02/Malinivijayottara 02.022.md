@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-उच्चाररहितम्वस्तु चेतसैव विचिन्तयन् ।
-यम्समावेशमाप्नोति शाक्तः सोऽत्राभिधीयते ॥ ^mula
+उच्चाररहितं वस्तु चेतसैव विचिन्तयन् ।
+यं समावेशमाप्नोति शाक्तः सोऽत्राभिधीयते ॥ ^mula
 
 uccārarahitam vastu cetasaiva vicintayan |
 yam samāveśam āpnoti śāktaḥ so 'trābhidhīyate || ^iast

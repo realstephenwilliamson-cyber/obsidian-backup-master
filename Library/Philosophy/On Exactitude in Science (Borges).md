@@ -4,7 +4,7 @@ title: On Exactitude in Science
 author:
   - Jorge Luis Borges
 work: "[[Borges - On Exactitude in Science]]"
-source_pdf: Library/Other/On Exactitude in Science.pdf
+source_pdf: Library/Philosophy/On Exactitude in Science.pdf
 page_range: "1"
 pdf_pages: 1–1
 text_source: PDF text layer (born-digital), PyMuPDF

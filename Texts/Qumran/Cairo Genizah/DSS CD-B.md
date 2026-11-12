@@ -28,7 +28,7 @@ aliases:
 
 **4** they shall walk in accordance with the law. Blank And according to the regulation of the ‹teachings›, according to the rule of the law ^19-4
 
-**5** as he said: Num 30:17 «/Between/ a man and his wife, and between a father and his son». But (over) all those who despise the precepts CD-A XIV, CD-B XIX *[p. 577]* ^19-5
+**5** as he said: Num 30:17 «/Between/ a man and his wife, and between a father and his son». But (over) all those who despise the precepts *[p. 577]* ^19-5
 
 **6** and the ordinances, may be emptied over them the punishment of the wicked, when God visits the earth, ^19-6
 
@@ -84,7 +84,7 @@ aliases:
 
 **32** those who follow them. And like this judgment will be that of all who reject God’s precepts … ^19-32
 
-**33** and forsake them and move aside in the stubbornness of their heart. Blank CD-B XIX *[p. 579]* Thus, all the men who entered the new ^19-33
+**33** and forsake them and move aside in the stubbornness of their heart. Blank *[p. 579]* Thus, all the men who entered the new ^19-33
 
 **34** covenant in the land of Damascus and turned and betrayed and departed from the well of living waters, ^19-34
 
@@ -140,7 +140,7 @@ aliases:
 
 **24** to the path of the people in some things. [All] of them, /each one/ according to his spirit, shall be judged in the holy ^20-24
 
-**25** council. CD-B XIX-XX *[p. 581]* Blank And all, among those who entered the covenant, transgressing the limits of the law, when ^20-25
+**25** council. *[p. 581]* Blank And all, among those who entered the covenant, transgressing the limits of the law, when ^20-25
 
 **26** the glory of God is manifested to Israel, shall be cut off from amongst the camp, and with them all who acted wickedly against ^20-26
 

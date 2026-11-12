@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Dan 8:20-21 (?) |
-| Frag. 7 | Dan 11:38 |
 | Frag. 2-5 | Dan 10:8-16 |
-| Frag. 8 | Dan 8:16-17 (?) |
 | Frag. 6 | Dan 11:33-36 |
+| Frag. 7 | Dan 11:38 |
+| Frag. 8 | Dan 8:16-17 (?) |
 | Frag. 9-13 | ? |
 
 [[DSS 6Q6|← 6Q6]] · [[Qumran|index]] · [[DSS 6Q8|6Q8 →]]

@@ -22,19 +22,19 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Jer 42:7-11 |
-| Frag. 13 i | Jer 48:43-45 |
 | Frag. 2 | Jer 42:14 |
-| Frag. 13 ii | Jer 49:10? |
 | Frag. 3-4 | Jer 43:8-11 |
-| Frag. 14 | Jer 13:22? |
 | Frag. 5 | Jer 44:1-3 |
-| Frag. 15 | Jer 32:24-25? |
 | Frag. 6 | Jer 44:12-14 |
-| Frag. 16 | Jer 48:2-4? |
 | Frag. 7-8 | Jer 46:27 - 47:2 |
-| Frag. 17 | Jer 48:41-42 |
 | Frag. 9 i | Jer 48:7 |
-| Frag. 18-27 | ? |
 | Frag. 9 ii-12 | Jer 48:25-39 |
+| Frag. 13 i | Jer 48:43-45 |
+| Frag. 13 ii | Jer 49:10? |
+| Frag. 14 | Jer 13:22? |
+| Frag. 15 | Jer 32:24-25? |
+| Frag. 16 | Jer 48:2-4? |
+| Frag. 17 | Jer 48:41-42 |
+| Frag. 18-27 | ? |
 
 [[DSS 2Q12|← 2Q12]] · [[Qumran|index]] · [[DSS 2Q14|2Q14 →]]

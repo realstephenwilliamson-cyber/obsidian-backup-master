@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-एतेषामेव तत्त्वानाम्भुवनानाम्च शाङ्करि ।
-य एकमपि जानाति सोऽपि योगफलम्लभेत् ॥ ^mula
+एतेषामेव तत्त्वानां भुवनानां च शाङ्करि ।
+य एकमपि जानाति सोऽपि योगफलं लभेत् ॥ ^mula
 
 eteṣām eva tattvānām bhuvanānām ca śāṅkari |
 ya ekam api jānāti so 'pi yogaphalam labhet || ^iast

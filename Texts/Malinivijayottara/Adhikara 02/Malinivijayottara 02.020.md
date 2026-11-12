@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-आणवोऽयम्समाख्यातः शाक्तोऽप्येवम्विधः स्मृतः ।
-एवम्शाम्भवमप्यैभिर्भेदैर्भिन्नम्विलक्षयेत् ॥ ^mula
+आणवोऽयं समाख्यातः शाक्तोऽप्येवंविधः स्मृतः ।
+एवं शाम्भवमप्यैभिर्भेदैर्भिन्नं विलक्षयेत् ॥ ^mula
 
 āṇavo 'yam samākhyātaḥ śākto 'py evamvidhaḥ smṛtaḥ |
 evam śāmbhavam apy aibhir bhedair bhinnam vilakṣayet || ^iast

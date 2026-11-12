@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-एवम्जलादिमूलान्तम्तत्त्वव्रातमिदम्महत् ।
-पृथग्भेदैरिमैर्भिन्नम्विज्ञेयम्तत्फलेप्सुभिः ॥ ^mula
+एवं जलादिमूलान्तं तत्त्वव्रातमिदं महत् ।
+पृथग्भेदैरिमैर्भिन्नं विज्ञेयं तत्फलेप्सुभिः ॥ ^mula
 
 evam jalādimūlāntam tattvavrātam idam mahat |
 pṛthagbhedair imair bhinnam vijñeyam tatphalepsubhiḥ || ^iast

@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 119:37-43 |
-| Frag. 4 | Ps 119:73-74 |
 | Frag. 2 | Ps 119:44-46 |
-| Frag. 5 | Ps 119:81-83 |
 | Frag. 3 | Ps 119:49-50 |
+| Frag. 4 | Ps 119:73-74 |
+| Frag. 5 | Ps 119:81-83 |
 | Frag. 6 | Ps 119:89-92 |
 
 [[DSS 4Q88|← 4Q88]] · [[Qumran|index]] · [[DSS 4Q90|4Q90 →]]

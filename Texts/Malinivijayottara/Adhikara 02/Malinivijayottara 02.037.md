@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-द्विसम्ज्ञम्स्वप्नमिच्छन्ति पदस्थम्व्याप्तिरित्यपि ।
-रूपस्थम्तु महाव्याप्तिः सुषुप्तस्यापि तद्द्वयम् ॥ ^mula
+द्विसंज्ञं स्वप्नमिच्छन्ति पदस्थं व्याप्तिरित्यपि ।
+रूपस्थं तु महाव्याप्तिः सुषुप्तस्यापि तद्द्वयम् ॥ ^mula
 
 dvisamjñam svapnam icchanti padastham vyāptir ity api |
 rūpastham tu mahāvyāptiḥ suṣuptasyāpi taddvayam || ^iast

@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "1Q28a"
-title: "1QRule of the Congrega tion"
+title: "1QRule of the Congregation"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "98–103"
@@ -10,7 +10,7 @@ aliases:
   - "1Q28a"
   - "1QSa"
 ---
-# 1Q28a (1QSa) · 1QRule of the Congrega tion
+# 1Q28a (1QSa) · 1QRule of the Congregation
 
 [[DSS 1QS|← 1QS]] · [[Qumran|index]] · [[DSS 1Q28b|1Q28b →]]
 
@@ -69,7 +69,7 @@ aliases:
 
 **24** [c]lans of the congregation, as commanders, judges /and ofﬁcials/, according to the number of all their armies, under the authority of the sons of Zadok, the priests, ^1-24
 
-**25** [and of all] the heads of the clans of the congregation. Blank And if 1Q28a I *[p. 103]* there is a convocation of all the assembly for a judgment, or ^1-25
+**25** [and of all] the heads of the clans of the congregation. Blank And if *[p. 103]* there is a convocation of all the assembly for a judgment, or ^1-25
 
 **26** for the community council, or for a convocation of war, they shall sanctify themselves during three days, so that every one who comes ^1-26
 
@@ -123,6 +123,6 @@ aliases:
 
 **21** towards the bread. [And afterwards, they shall ble]ss all the congregation of the community, each [one according to] his dignity. And in accordance with this precept one shall act ^2-21
 
-**22** at each me[al, when] at least ten me[n are gat]hered. Blank 1Q28a I-II ^2-22
+**22** at each me[al, when] at least ten me[n are gat]hered. Blank ^2-22
 
 [[DSS 1QS|← 1QS]] · [[Qumran|index]] · [[DSS 1Q28b|1Q28b →]]

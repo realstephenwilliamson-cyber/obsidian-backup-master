@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 निष्प्रपञ्चो निराभासः शुद्धः स्वात्मन्यवस्थितः ।
-सर्वातीतः शिवो ज्ञेयो यम्विदित्वा विमुच्यते ॥ ^mula
+सर्वातीतः शिवो ज्ञेयो यं विदित्वा विमुच्यते ॥ ^mula
 
 niṣprapañco nirābhāsaḥ śuddhaḥ svātmany avasthitaḥ |
 sarvātītaḥ śivo jñeyo yam viditvā vimucyate || ^iast

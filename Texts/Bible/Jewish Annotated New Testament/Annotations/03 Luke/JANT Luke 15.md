@@ -24,7 +24,7 @@ Text: [[NRSVue Luke 15|NRSVue]] · [[Luke 15|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 15#^15-3|Text]], p. 147* · ([[Matthew 18#^18-12|Mt 18.12–14]]). ^15-3
 
-**[[NRSVue Luke 15#^15-4|4]]:** *Having a hundred sheep*, indicating a person of some wealth. *Losing one*, hinting that the sheep owner is not God, for God does not lose people. To notice one sheep missing of 100, the owner had to count. *Go after the one*, for God as shepherd see Ps 23; 78.52; 80.1; 100.3; for the people as lost sheep see [[Jeremiah 50#^50-6|Jer 50.6]]; [[Ezekiel 34#^34-15|Ezek 34.15–16]]; [[Psalms 119#^119-176|Ps 119.176]]. *Ex. Rab*. 2.2 depicts Moses as the good shepherd who seeks after a lost sheep, and so receives a divine commission to shepherd God’s people, Israel. However, the parable does not use the term “shepherd.” ^15-4
+**[[NRSVue Luke 15#^15-4|4]]:** *Having a hundred sheep*, indicating a person of some wealth. *Losing one*, hinting that the sheep owner is not God, for God does not lose people. To notice one sheep missing of 100, the owner had to count. *Go after the one*, for God as shepherd see Ps 23; 78.52; 80.1; 100.3; for the people as lost sheep see [[Jeremiah 50#^50-6|Jer 50.6]]; [[Ezekiel 34#^34-15|Ezek 34.15–16]]; [[Psalms 119#^119-176|Ps 119.176]]. *Ex. Rab*. [2.2](https://www.sefaria.org/Shemot_Rabbah.2.2) depicts Moses as the good shepherd who seeks after a lost sheep, and so receives a divine commission to shepherd God’s people, Israel. However, the parable does not use the term “shepherd.” ^15-4
 
 **[[NRSVue Luke 15#^15-7|7]]:** *One sinner who repents*, Luke allegorizes the parable (see [[JANT Luke 08#^8-9|8.9n.]]; [[Luke 18#^18-1|18.1]]). ^15-7
 

@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Martin - The Dynamic of Sexuality in the Mystic Way]]"
 book: "[[The Dynamic of Sexuality in the Mystic Way (Martin)|The Dynamic of Sexuality in the Mystic Way (Martin)]]"
 order: 11
-source_pdf: Library/Other/The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf
+source_pdf: Library/Religious-Studies/The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf
 page_range: 98–101
 pdf_pages: 106–109
 text_source: PDF text layer (born-digital), PyMuPDF

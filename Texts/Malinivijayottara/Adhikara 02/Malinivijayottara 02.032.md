@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 तदीशाः शक्तिशंभू च पञ्चावस्थाः प्रकीर्तिताः ।
-पूर्ववत्सप्तभेदेऽपि स्वम्मन्त्रेशेशशक्तयः ॥ ^mula
+पूर्ववत्सप्तभेदेऽपि स्वं मन्त्रेशेशशक्तयः ॥ ^mula
 
 tadīśāḥ śaktiśambhū ca paṣcāvasthāḥ prakīrtitāḥ |
 pūrvavat saptabhede 'pi svam mantreśeśaśaktayaḥ || ^iast

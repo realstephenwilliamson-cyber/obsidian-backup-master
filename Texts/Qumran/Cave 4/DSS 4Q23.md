@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q23"
-title: "4QLeviticus Numbersa"
+title: "4QLeviticus-Numbersa"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "249–251"
@@ -10,7 +10,7 @@ aliases:
   - "4Q23"
   - "4QLev-Numa"
 ---
-# 4Q23 (4QLev-Numa) · 4QLeviticus Numbersa
+# 4Q23 (4QLev-Numa) · 4QLeviticus-Numbersa
 
 [[DSS 4Q22|← 4Q22]] · [[Qumran|index]] · [[DSS 4Q24|4Q24 →]]
 

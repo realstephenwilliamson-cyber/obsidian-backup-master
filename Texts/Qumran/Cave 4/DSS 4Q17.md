@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q17"
-title: "4QExodus Leviticusf"
+title: "4QExodus-Leviticusf"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "246"
@@ -10,7 +10,7 @@ aliases:
   - "4Q17"
   - "4QExod-Levf"
 ---
-# 4Q17 (4QExod-Levf) · 4QExodus Leviticusf
+# 4Q17 (4QExod-Levf) · 4QExodus-Leviticusf
 
 [[DSS 4Q16|← 4Q16]] · [[Qumran|index]] · [[DSS 4Q18|4Q18 →]]
 

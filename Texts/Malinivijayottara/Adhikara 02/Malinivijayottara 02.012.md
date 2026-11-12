@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 ये पुनर्दीक्षितास्तेन प्राणिनः शिवचोदिताः ।
-ते यथेष्टम्फलम्प्राप्य पदम्गच्छन्त्यनामयम्  ॥ ^mula
+ते यथेष्टं फलं प्राप्य पदं गच्छन्त्यनामयम्  ॥ ^mula
 
 ye punar dīkṣitās tena prāṇinaḥ śivacoditāḥ |
 te yatheṣṭam phalam prāpya padam gacchanty anāmayam[^26] || ^iast

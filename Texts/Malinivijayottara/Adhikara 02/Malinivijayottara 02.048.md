@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-एवम्भेदैरिमैर्भिन्नस्तत्राध्वा परिकीर्तितः ।
-युगपत्सर्वमार्गाणाम्प्रभेदः प्रोच्यतेऽधुना ॥ ^mula
+एवं भेदैरिमैर्भिन्नस्तत्राध्वा परिकीर्तितः ।
+युगपत्सर्वमार्गाणां प्रभेदः प्रोच्यतेऽधुना ॥ ^mula
 
 evam bhedair imair bhinnas tatrādhvā parikīrtitaḥ |
 yugapat sarvamārgāṇām prabhedaḥ procyate 'dhunā || ^iast

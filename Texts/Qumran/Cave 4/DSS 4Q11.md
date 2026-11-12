@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q11"
-title: "4Qpaleo Genesis-Exodusl"
+title: "4QpaleoGenesis-Exodusl"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "244"
@@ -10,7 +10,7 @@ aliases:
   - "4Q11"
   - "4QpaleoGen-Exodl"
 ---
-# 4Q11 (4QpaleoGen-Exodl) · 4Qpaleo Genesis-Exodusl
+# 4Q11 (4QpaleoGen-Exodl) · 4QpaleoGenesis-Exodusl
 
 [[DSS 4Q10|← 4Q10]] · [[Qumran|index]] · [[DSS 4Q12|4Q12 →]]
 

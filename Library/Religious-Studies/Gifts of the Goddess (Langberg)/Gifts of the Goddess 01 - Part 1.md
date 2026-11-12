@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Langberg - Gifts of the Goddess]]"
 book: "[[Gifts of the Goddess (Langberg)|Gifts of the Goddess (Langberg)]]"
 order: 1
-source_pdf: Library/Other/Langberg - Gifts of the Goddess, Sarasvati and Sri in the Sutra of Golden Light (2022).pdf
+source_pdf: Library/Religious-Studies/Langberg - Gifts of the Goddess, Sarasvati and Sri in the Sutra of Golden Light (2022).pdf
 page_range: 53–92
 pdf_pages: 1–40
 text_source: PDF text layer (born-digital), PyMuPDF

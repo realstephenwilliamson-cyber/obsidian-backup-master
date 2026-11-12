@@ -260,7 +260,7 @@ ato 'ntikasthasvakatādṛgindriya
 prayojanāntahkaraṇair yadā kṛtā ॥ 39 ॥
 tadā tadāttaṁ pratibimbam indriye 
 
-tādṛśīm | kriyāri sūyata eva tādṛśīm | 
+svakāṁ kriyāṁ sūyata eva tādṛśīm | 
 
 Therefore, it is (only) when an (object) is (sufficiently) close to its corresponding organ of sense and this is applied to it by the inner mental organ that (the object’s) reflection, grasped in the (cognitive field) of the sense organ, gives rise to its appropriate response (kriyā). (39cd-40ab) (41) 
 

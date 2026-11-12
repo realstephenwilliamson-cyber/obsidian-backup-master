@@ -31,7 +31,11 @@ aliases:
 
 **4** [of the blocks. Between one block and another there is the street, six rods wide: cubits,] forty-two. ^f1-4
 
-### Frag. 3 1 […] one […] 2 [… and] he measured up to the sapph[ire] door […]
+### Frag. 3
+
+**1** […] one […] ^f3-1
+
+**2** [… and] he measured up to the sapph[ire] door […] ^f3-2
 
 **3** […] the [tab]le which is before [the Lord …] ^f3-3
 

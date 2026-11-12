@@ -22,12 +22,12 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 86:5-8 |
-| Frag. 6-7 | Ps 119:31-34 |
 | Frag. 2 | Ps 92:12-14 |
-| Frag. 8-10 | Ps 119:43-48 |
 | Frag. 3-4 | Ps 94:16 |
-| Frag. 11 | Ps 119:77-79 |
 | Frag. 5 | Ps 95:11 - 96:2 |
+| Frag. 6-7 | Ps 119:31-34 |
+| Frag. 8-10 | Ps 119:43-48 |
+| Frag. 11 | Ps 119:77-79 |
 | Frag. 12-22 | ? |
 
 [[DSS 1Q9|← 1Q9]] · [[Qumran|index]] · [[DSS 1Q11|1Q11 →]]

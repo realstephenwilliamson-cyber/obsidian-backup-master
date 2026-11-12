@@ -22,8 +22,8 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Deut 7:15-24 |
-| Frag. 2-3 | Deut 32:20-21 ? |
 | Frag. 1 ii | Deut 8:5 - 9:2 |
+| Frag. 2-3 | Deut 32:20-21 ? |
 | Frag. 4-5 | Deut 33:1-2 |
 
 [[DSS 4Q579|← 4Q579]] · [[Qumran|index]] · [[DSS 5Q2|5Q2 →]]

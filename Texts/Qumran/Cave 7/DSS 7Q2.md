@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "7Q2"
-title: "7QEpistle of Jere miah"
+title: "7QEpistle of Jeremiah"
 location: "Cave 7"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "1161–1163"
@@ -10,7 +10,7 @@ aliases:
   - "7Q2"
   - "7QLXXEpJer"
 ---
-# 7Q2 (7QLXXEpJer) · 7QEpistle of Jere miah
+# 7Q2 (7QLXXEpJer) · 7QEpistle of Jeremiah
 
 [[DSS 7Q1|← 7Q1]] · [[Qumran|index]] · [[DSS 7Q4|7Q4 →]]
 
@@ -25,9 +25,11 @@ aliases:
 
 **2** 1 Enoch 105:1 ^t-2
 
-### Frag. 1 + 7Q12 + 7Q14 1 [… 1 Enoch 103:3-4] for the 2 [spirits of the righteous who
+### Frag. 1 + 7Q12 + 7Q14
 
-die]d.
+**1** [… 1 Enoch 103:3-4] for the ^f1-1
+
+**2** [spirits of the righteous who die]d. ^f1-2
 
 **3** [And] they will [rejoice] ^f1-3
 

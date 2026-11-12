@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-6 | Ps 17:5-9 |
-| Frag. 11-13 | Ps 18:10-13 |
 | Frag. 7 | Ps 17:14 |
-| Frag. 14 | ? |
 | Frag. 8-10 | Ps 18:6-9 |
+| Frag. 11-13 | Ps 18:10-13 |
+| Frag. 14 | ? |
 
 [[DSS 8Q1|← 8Q1]] · [[Qumran|index]] · [[DSS 8Q3|8Q3 →]]

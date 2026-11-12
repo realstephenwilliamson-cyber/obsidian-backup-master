@@ -22,12 +22,12 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 36:43 - 37:2 |
-| Frag. 7 | Gen 42:17-19 |
 | Frag. 2-3 | Gen 37:27-30 |
-| Frag. 8 | Gen 43:8-14 |
 | Frag. 4 i-5 | Gen 40:18 - 41:8 |
-| Frag. 9 | Gen 49:6-8 |
 | Frag. 4 ii, 6 | Gen 41:35-44 |
+| Frag. 7 | Gen 42:17-19 |
+| Frag. 8 | Gen 43:8-14 |
+| Frag. 9 | Gen 49:6-8 |
 | Frag. 10 | ? |
 
 [[DSS 4Q4|← 4Q4]] · [[Qumran|index]] · [[DSS 4Q6|4Q6 →]]

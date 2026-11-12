@@ -89,7 +89,7 @@ He should anoint the secret place and the Brahmārandhra with the yantra mixture
 25\. The ointment should be presented to a kula worshipper or else dropped into water, but not given to heretics, fools, ordinary people, nor to any twice-born person.
 
 [^71]: According to the Íyāmārahasya "kunga" refers to male and female sexual Futis mixed together and "gola" is the menstrual fluid of a widow. But according to a contemporary Sākta pundit - from the traditionally Sākta region of Mithila - "kunda" is the first menstruation of a girl born to a woman from a man other than her husband, and "gola" refers to a girl's first menstruation after her father's death. rT Batohi Jha informs that there are many such different kinds of "pugpa". E.g., "vajrapugpa" is the first menstruation after a vomān has lost her virginitys "svayambhū" is any woman's first menstruation; "sarvakālod-bhava pugpa" is the regular monthly pertod; "gop? chandan" is a mixture of semen and menstrual blood and kulacüdāmani ts menstrual blood freely granted for the purpose of sādhana.
-[^72]: The name of Svayambhīi is used for vartous plants.
+[^72]: The name of Svayambhū is used for various plants.
 [^73]: I.e., wine.
 [^74]: I.e., the mixture referred to in Verses 21 & 22. Although the "secret place" is almost certainly a euphemistic reference to the genitals, "guptasthāne" may possibly be taken to qualify Brahmārandhre in which case the translation would read "in the secret place of the Brahmārandhra".
 
@@ -144,7 +144,7 @@ the daughter.
 
 36\. Taking up the proper kula behest and bereft of shame and sloth bring about the union according to the prescribed procedure."
 
-[^81]: Her state of bliss ts produced by the initiation rite.
+[^81]: Her state of bliss is produced by the initiation rite.
 
 [^82]: The Kāmakatlā diagram that would seem to be intended here ts two interlaced triangles making a figure of six points. For a discussion on Kāmakalā see Part III on Symbolism. Illustration to Verse 33: *(a drawing in the print)*
 [^83]: I.e., the name of the uninitiated woman and the mantra.
@@ -165,7 +165,7 @@ When she whose eyes are red as the betel has given a fee to the guru,
 
 End of Chapter II
 
-[^84]: The best of the four classes of women into whteh the sex tis divide
+[^84]: The best of the four classes of women into which the sex is divided
 
 [^85]: The text reads "strakula" which gives no meaning. Aecording to the Bengali rescension of the Syāmãrahasya by Purṇānanda, the reading should be "svakula" indicating the Kundalini.
 [^86]: At the same time as the sādhaka has sexual unton with the. sakti he should take the Kundalini up to the Sahasrāra lotus and unite her there with Stiva.
@@ -309,7 +309,7 @@ BrahmāṇÎ etcetera.[^108]
 [^106]: Certain prectous or semi-precious gems are found in the different mountain regions.
 [^107]: The purified water is turned into nectar by a particular mudrā.
 [^108]: A traditional list of the Mothers is: Brahmānl, Maheśvart, Kaumãrl, Vaiṣṇavī, Vārāhī, Indrānī, Cāmunṇdā and Raudrī. Each verse of the hym that follows in Verses 35 to 43 is addressed to one of these Mother goddesses, with the exception of Raudrt who is replaced by Mahālakgmt.
-[^109]: "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and elarifted butter.
+[^109]: "Madhuparka” is a respectful offering usually consisting of honey and milk, but also may be of curds, honey and clarified butter.
 [^110]: The Sanskrit reads "keśasamskāra”, or in literal terms, "the adornment of the hair".
 
 *[p. 96]* ^pg92
@@ -382,7 +382,7 @@ Homage to you:
 
 45\. Oh my Son! The door guardians of the kula (place) have already been mentioned to you.[^116] If one does not worship them at the time of initiation or at the time of doing the daily pūja,[^117]
 
-[^117]: There are three types of pūjā. (1) Nitya = pūjā which must be performed daily (2) Naimittika = püjā whtch is performed only on certain ocecastons and (3) Kāmya = püjā performed as and when the sādhaka pleases usually with some desired end tn view.
+[^117]: There are three types of pūjā. (1) Nitya = pūjā which must be performed daily (2) Naimittika = pūjā which is performed only on certain occasions and (3) Kāmya = pūjā performed as and when the sādhaka pleases usually with some desired end in view.
 
 [^114]: Oh Great Illusion?
 [^115]: At one time educated ladies such as Ubhayabharati who challenged Saùkara were often considered to be especially formidable in debate. This hym will protect the sãdhaka should he ever have to confront such a lady.
@@ -428,9 +428,9 @@ Oh Bhairava! If there is a man there who knows the kuta
 
 teachings, he (too) is deserving of worship:
 
-[^118]: According to Maitra the hymm is called "Karnejapa-stotra" as one verse is whispered into the ear of each of the saktis.
+[^118]: According to Maitra the hymn is called "Karṇejapa-stotra" as one verse is whispered into the ear of each of the saktis.
 
-[^119]: Reluctant to eat in the presence of a male, the women will eat if the hym has been reeited. Also, it ts customary for the temple priest to recite verses while the idol in the temple privately "eats" the food placed as an offering.
+[^119]: Reluctant to eat in the presence of a male, the women will eat if the hymn has been recited. Also, it is customary for the temple priest to recite verses while the idol in the temple privately "eats" the food placed as an offering.
 
 [^120]: Presumably "former" refers to the purified women of Verse 51.
 
@@ -464,7 +464,7 @@ the women of all castes are to be honoured whether purified or unpurified, or ev
 
 If there is a glimpse of the seat of the Goddess during a puraścaraṇa ceremony,
 
-[^121]: As given in Chapter VII Verses 42-44 of the Kulārṇnava Tantra in the Tantric Text sertes edited by Str John Woodroffe the kula women are: a Candātī (member of the low caste originating from a Śudra father and a Brāhmin mother); a Carmakārt (of a leather working caste); a Mātañṇgí (a Candāla or Kirãta woman); a Khattakī (possibly a misprint for khaptikt (a woman who sells meat); Kaivart? (of a fisherman caste); Viśva-yoṣitā (a female member of the third varya); a PukkasīT (offspring of a Nishāda by a Ŝudra woman); and a Śvapacī (of a degraded caste - to do with dogs somehow?) . The eight non-kula women are: Kanđdukî (?); Śaungdikt (?); Sastrajīvī (a member ofa weapon making caste?) ; Rañjakt (of a caste of dyers?); Gūāyakī (member of a musician caste); Rajakī (a washerwoman) ; ilot (member of an artisan caste?) and Kaulikī (a member of the kula worshippers?).
+[^121]: As given in Chapter VII Verses 42-44 of the Kulārṇava Tantra in the Tantric Text series edited by Sir John Woodroffe the kula women are: a Caṇḍālī (member of the low caste originating from a Śudra father and a Brāhmin mother); a Carmakārī (of a leather working caste); a Mātaṅgi (a Caṇḍāla or Kirāta woman); a Khaṭṭakī (possibly a misprint for khaṭṭikī (a woman who sells meat); Kaivartī (of a fisherman caste); Viśva-yoṣitā (a female member of the third varṇa); a Pukkasī (offspring of a Nishāda by a Śudra woman); and a Śvapacī (of a degraded caste - to do with dogs somehow?) . The eight non-kula women are: Kandukī (?); Śaunḍikī (?); Śastrajīvī (a member of a weapon making caste?) ; Rañjakī (of a caste of dyers?); Gāyakī (member of a musician caste); Rajakī (a washerwoman) ; Śilpī (member of an artisan caste?) and Kaulikī (a member of the kula worshippers?).
 
 *[p. 100]* ^pg96
 
@@ -714,7 +714,7 @@ mardin,[^145]
 [^143]: Literally: "positioned near and/or far".
 [^144]: I.e., the bija mantra "PHAṬ". "SPHEM SPHEM KIṬḶI KIṬI PHAṬ"
 
-[^145]: Presumably the nine letters of that name taking the semi-vowel tp n" with nq",
+[^145]: Presumably the nine letters of that name taking the semi-vowel "r" with "d".
 
 
 *[p. 107]* ^pg103
@@ -1123,7 +1123,7 @@ In the first (inner) triangle he (should do pājā) to KālīĪ, Kapālinī and 
 
 63\. (in the second) to Kurukullā, Virodhī and Vipracittā, (in the third) to Ugramukhī, Ugraprabhā and Pradīptā,
 
-[^208]: I.e., the KĀIĪ yantra illustrated below.
+[^208]: I.e., the Kālī yantra illustrated below.
 
 [^205]: I.e., Ā KRĪM I KRĪM U KRĪM O KRĪM AI KRĪM AU KRĪM
 [^206]: Nyāsa or assigning of mantras or detittes to the various parts of Tio body. Exeluding visarga and anusvāra, the fourteen letters are the short and long vowels. Each one is to be placed with KRĪM on each of the parts of the body referred to in the verse.

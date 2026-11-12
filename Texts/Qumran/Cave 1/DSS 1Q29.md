@@ -56,7 +56,7 @@ aliases:
 
 **4** […] with them all. Your name […] ^f3-4
 
-**6** […] the greatness of the power of the glorious one[s …] 1Q28b V, 1Q29 ^f3-6
+**6** […] the greatness of the power of the glorious one[s …] ^f3-6
 
 ### Frags. 5 - 7
 

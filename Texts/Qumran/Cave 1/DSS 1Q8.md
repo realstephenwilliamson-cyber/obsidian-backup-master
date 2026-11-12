@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Isa 7:22 - 8:1 |
-| Frag. 5 | Isa 22:11-18 |
 | Frag. 2 | Isa 12:3 - 13:8 |
-| Frag. 6 | Isa 24:18 - 25:8 |
 | Frag. 3 | Isa 15:3 - 16:2 |
-| Frag. 7 | ? |
 | Frag. 4 | Isa 19:7-17 |
+| Frag. 5 | Isa 22:11-18 |
+| Frag. 6 | Isa 24:18 - 25:8 |
+| Frag. 7 | ? |
 
 [[DSS 1QIsab|← 1QIsab]] · [[Qumran|index]] · [[DSS 1Q9|1Q9 →]]

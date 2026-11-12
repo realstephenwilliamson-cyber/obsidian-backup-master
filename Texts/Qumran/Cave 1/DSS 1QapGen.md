@@ -76,7 +76,7 @@ aliases:
 
 **15** that this seed comes from you, that this pregnancy comes from you, that the planting of [this] fruit comes from you, […] ^2-15
 
-**16** and not from any foreigner nor from 1QapGen ar I-II *[p. 31]* any of the watchers or sons of heav[en. Why is the expression] ^2-16
+**16** and not from any foreigner nor from *[p. 31]* any of the watchers or sons of heav[en. Why is the expression] ^2-16
 
 **17** of your face so changed and distorted, and your spirit so depressed? [… Behold I] ^2-17
 
@@ -174,7 +174,7 @@ aliases:
 
 **6** T[he]n I, Noah, became a man, and I held fast to truth and clung to … […] ^6-6
 
-**7** … and I married Amzara his 1QapGen ar II, V-VI *[p. 33]* daughter, and she became pregnant from me and bore me th[ree] sons […] ^6-7
+**7** … and I married Amzara his *[p. 33]* daughter, and she became pregnant from me and bore me th[ree] sons […] ^6-7
 
 **8** … for my sons I took wives from my brother’s daughters, and my daughters I gave to my brother’s sons, according to the eternal law ^6-8
 
@@ -258,7 +258,7 @@ aliases:
 
 **17** … on all of them I placed salt, and the scent of my burnt-offering ascended to the [he]aven. Blank ^10-17
 
-**18** Then the Highest … […] 1QapGen ar VI-VII, X ^10-18
+**18** Then the Highest … […] ^10-18
 
 ### Col. xi
 
@@ -326,7 +326,7 @@ aliases:
 
 **9** […] stones and clay were cutting down, and taking from it for themselves. And I watched those of gold and sil[ver] ^13-9
 
-**10** […] iron, and they were cutting down all the trees, and taking of it for themselves. And I watched 1QapGen ar XI-XIII *[p. 37]* the sun and moon ^13-10
+**10** […] iron, and they were cutting down all the trees, and taking of it for themselves. And I watched *[p. 37]* the sun and moon ^13-10
 
 **11** and the stars cutting down and taking of it for themselves. And I watched until the creeping animals of the land and the creeping animals of the waters had consumed it, and the waters were ﬁnished, ^13-11
 
@@ -404,7 +404,7 @@ aliases:
 
 **15** […] … the waters of the river Tina … […] ^16-15
 
-**16** … the 1QapGen ar XIII-XVI *[p. 39]* river … ^16-16
+**16** … the *[p. 39]* river … ^16-16
 
 **17** [to] the Great Salt Sea, and this boundary runs as a spring from … […] ^16-17
 
@@ -474,7 +474,7 @@ aliases:
 
 **17** and was not [hewn down.] Blank I woke up from my slumber during the night and said to Sarai, my wife: I have had ^19-17
 
-**18** a dream [and] I am alarmed [by] this 1QapGen ar XVI-XVII, XIX *[p. 41]* dream. She said to me: Tell me your dream so that I may know it. And I began to tell her the dream, ^19-18
+**18** a dream [and] I am alarmed [by] this *[p. 41]* dream. She said to me: Tell me your dream so that I may know it. And I began to tell her the dream, ^19-18
 
 **19** [and I told her the interpretation] of th[is] dream. [I] sai[d:] … they want to kill me and leave you alone. This favour [o]nly ^19-19
 
@@ -526,7 +526,7 @@ aliases:
 
 **14** I lodge a complaint before you, my Lord, against Pharaoh Zoan, king of Egypt, because my wife has been taken away from me by force. Do justice for me against him and show your mighty arm ^20-14
 
-**15** against him, and against all his house. During this night, may he not be able to deﬁle my wife, separated from 1QapGen ar XIX-XX *[p. 43]* me, so that it be known about you, my Lord, that you are the Lord of all the kings ^20-15
+**15** against him, and against all his house. During this night, may he not be able to deﬁle my wife, separated from *[p. 43]* me, so that it be known about you, my Lord, that you are the Lord of all the kings ^20-15
 
 **16** of the earth. And I wept and stayed silent. That night, the God Most High sent him a chastising spirit, to afﬂict him and all the members of his household, an evil spirit ^20-16
 
@@ -572,7 +572,7 @@ aliases:
 
 **2** Upon it I offered holocausts and an offering to the God Most High, and invoked the name of the Lord of the Universe there; I praised God’s name and blessed ^21-2
 
-**3** God. I gave thanks there 1QapGen ar XX-XXI *[p. 45]* in God’s presence for all the ﬂocks and wealth which he had given me, because he had acted well towards me, and because he had returned me ^21-3
+**3** God. I gave thanks there *[p. 45]* in God’s presence for all the ﬂocks and wealth which he had given me, because he had acted well towards me, and because he had returned me ^21-3
 
 **4** in peace to this land. Blank ^21-4
 
@@ -616,7 +616,7 @@ aliases:
 
 **24** is Mesopotamia, and they declared war on Bera, king of Sodom, Birsha, king of Gomorrah, Shinab, king of Admah, ^21-24
 
-**25** Shemiabad, 1QapGen ar XXI *[p. 47]* king of Zeboiim and the king of Bela. All these had formed an alliance to wage war in the Valley of Siddim. However, the king of ^21-25
+**25** Shemiabad, *[p. 47]* king of Zeboiim and the king of Bela. All these had formed an alliance to wage war in the Valley of Siddim. However, the king of ^21-25
 
 **26** Elam and the kings allied with him were victorious over the king of Sodom and all his allies, and they imposed tribute on them. Over twelve years they continued ^21-26
 
@@ -666,7 +666,7 @@ aliases:
 
 **14** Shaveh, which is the Valley of the King, the Valley of Bet ha-Kerem. Melchizedek, king of Salem, brought out ^22-14
 
-**15** food and drink for Abram and for all the men there were with him. He was a priest of the Most High God. He 1QapGen ar XXI-XXII *[p. 49]* blessed ^22-15
+**15** food and drink for Abram and for all the men there were with him. He was a priest of the Most High God. He *[p. 49]* blessed ^22-15
 
 **16** [A]bram and said: Blessed be Abram by the Most High God, Lord of heaven and earth and blessed be the Most High God, ^22-16
 

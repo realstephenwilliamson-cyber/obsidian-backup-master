@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Balslev (ed.) - Religion and Time]]"
 book: "[[Religion and Time (Balslev)|Religion and Time (Balslev)]]"
 order: 13
-source_pdf: Library/Other/Balslev, Mohanty (eds.) - Religion and Time (1993).pdf
+source_pdf: Library/Religious-Studies/Balslev, Mohanty (eds.) - Religion and Time (1993).pdf
 page_range: 213–215
 pdf_pages: 221–223
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026

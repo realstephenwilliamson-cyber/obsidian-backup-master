@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 19:27-28 |
-| Frag. 2 ii | Gen 35:35-37 |
 | Frag. 2 i | Gen 36:6 |
+| Frag. 2 ii | Gen 35:35-37 |
 
 [[DSS 1Q72|← 1Q72]] · [[Qumran|index]] · [[DSS 2Q2|2Q2 →]]

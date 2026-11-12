@@ -3,7 +3,7 @@ type: other
 title: "AI Review of “Virtual Identity Crisis: The Phenomenology of Lockean Selfhood in the ‘Age of Disruption’”"
 author: []
 work: "[[AI Review of Virtual Identity Crisis - The Phenomenology of Lockean Selfhood in the 'Age of Disruption']]"
-source_pdf: Library/Other/(67) AI Review - Academia.edu.pdf
+source_pdf: Library/Philosophy/(67) AI Review - Academia.edu.pdf
 page_range: 1–5
 pdf_pages: 1–5
 text_source: PDF text layer (born-digital), PyMuPDF

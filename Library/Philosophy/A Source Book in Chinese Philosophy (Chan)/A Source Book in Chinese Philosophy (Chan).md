@@ -3,7 +3,7 @@ type: book
 title: A Source Book in Chinese Philosophy
 author: []
 work: "[[Chan (ed.) - A Source Book in Chinese Philosophy]]"
-source_pdf: Library/Other/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
+source_pdf: Library/Philosophy/Wing-Tsit Chan - A Source Book in Chinese Philosophy (1969).pdf
 pages: 883
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

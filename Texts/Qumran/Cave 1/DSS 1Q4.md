@@ -22,18 +22,18 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 1:22-25 |
-| Frag. 9 | Deut 13:4-6 |
 | Frag. 2 | Deut 4:47-49 |
-| Frag. 10 | Deut 13:13-14 |
 | Frag. 3 | Deut 8:18-19 |
-| Frag. 11 | Deut 14:21 |
 | Frag. 4 | Deut 8:19? |
-| Frag. 12 | Deut 14:24-25 |
 | Frag. 5 | Deut 9:27-28 |
-| Frag. 13 | Deut 16:4 |
 | Frag. 6 | Deut 11:27-30 |
-| Frag. 14 | Deut 16:6-7 |
 | Frag. 7-8 | Deut 13:1-4 |
+| Frag. 9 | Deut 13:4-6 |
+| Frag. 10 | Deut 13:13-14 |
+| Frag. 11 | Deut 14:21 |
+| Frag. 12 | Deut 14:24-25 |
+| Frag. 13 | Deut 16:4 |
+| Frag. 14 | Deut 16:6-7 |
 | Frag. 15-58 | ? |
 
 [[DSS 1Q3|← 1Q3]] · [[Qumran|index]] · [[DSS 1Q5|1Q5 →]]

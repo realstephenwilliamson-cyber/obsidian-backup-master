@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-मन्त्रमन्त्रेश्वरेशानाः शक्तिशम्भू च किर्तितौ ।
-प्रलयाकलभेदेऽपि स्वम्विज्ञानकलावुभौ ॥ ^mula
+मन्त्रमन्त्रेश्वरेशानाः शक्तिशंभू च किर्तितौ ।
+प्रलयाकलभेदेऽपि स्वं विज्ञानकलावुभौ ॥ ^mula
 
 mantramantreśvareśānāḥ śaktiśambhū ca kirtitau |
 pralayākalabhede 'pi svam vijñānakalāv ubhau || ^iast

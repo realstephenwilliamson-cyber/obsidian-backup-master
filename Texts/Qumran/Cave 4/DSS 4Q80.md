@@ -22,14 +22,14 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Hag 2:18-19 |
-| Frag. 14-15 | Zech 5:8 - 6:5 |
 | Frag. 2 | Hag 2:20-21 |
-| Frag. 16 | Zech 8:2-4 |
 | Frag. 3 | Zech 1:4-6 |
-| Frag. 17 | Zech 8:6-7 |
 | Frag. 4-5 | Zech 1:9-10, 13-14 |
-| Frag. 18 | Zech 12:7-12 |
 | Frag. 6-7 | Zech 2:10-14 |
 | Frag. 8-13 | Zech 3:2 - 4:4 |
+| Frag. 14-15 | Zech 5:8 - 6:5 |
+| Frag. 16 | Zech 8:2-4 |
+| Frag. 17 | Zech 8:6-7 |
+| Frag. 18 | Zech 12:7-12 |
 
 [[DSS 4Q79|← 4Q79]] · [[Qumran|index]] · [[DSS 4Q81|4Q81 →]]

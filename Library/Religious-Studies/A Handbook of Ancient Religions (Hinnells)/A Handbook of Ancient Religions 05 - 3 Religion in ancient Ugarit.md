@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Hinnells (ed.) - A Handbook of Ancient Religions]]"
 book: "[[A Handbook of Ancient Religions (Hinnells)|A Handbook of Ancient Religions (Hinnells)]]"
 order: 5
-source_pdf: Library/Other/Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf
+source_pdf: Library/Religious-Studies/Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf
 page_range: 105–160
 pdf_pages: 119–174
 text_source: PDF text layer (born-digital), PyMuPDF

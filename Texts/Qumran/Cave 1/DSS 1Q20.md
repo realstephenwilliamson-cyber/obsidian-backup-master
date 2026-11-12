@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "1Q20"
-title: "1QGenesis Apocry phon"
+title: "1QGenesis Apocryphon"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "26–27"
@@ -10,7 +10,7 @@ aliases:
   - "1Q20"
   - "1QapGen ar"
 ---
-# 1Q20 (1QapGen ar) · 1QGenesis Apocry phon
+# 1Q20 (1QapGen ar) · 1QGenesis Apocryphon
 
 [[DSS 1Q19 + 1Q19bis|← 1Q19 + 1Q19bis]] · [[Qumran|index]] · [[DSS 1QapGen|1QapGen →]]
 

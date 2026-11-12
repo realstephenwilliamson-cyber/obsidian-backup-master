@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Deloria - God Is Red]]"
 book: "[[God Is Red (Deloria)|God Is Red (Deloria)]]"
 order: 5
-source_pdf: Library/Other/Deloria - God Is Red (2003).pdf
+source_pdf: Library/Religious-Studies/Deloria - God Is Red (2003).pdf
 page_range: xv–xviii
 pdf_pages: 16–19
 text_source: the scan's OCR text layer (Adobe Acrobat Paper Capture, ClearScan), PyMuPDF

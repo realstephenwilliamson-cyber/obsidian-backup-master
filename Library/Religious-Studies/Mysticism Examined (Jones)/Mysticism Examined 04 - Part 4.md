@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Jones - Mysticism Examined - Philosophical Inquiries into Mysticism]]"
 book: "[[Mysticism Examined (Jones)|Mysticism Examined (Jones)]]"
 order: 4
-source_pdf: Library/Other/Jones - Mysticism Examined (1993).pdf
+source_pdf: Library/Religious-Studies/Jones - Mysticism Examined (1993).pdf
 page_range: 121–160
 pdf_pages: 121–160
 text_source: PDF text layer (born-digital), PyMuPDF

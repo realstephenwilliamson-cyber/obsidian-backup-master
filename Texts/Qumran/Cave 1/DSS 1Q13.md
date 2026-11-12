@@ -22,13 +22,13 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-18 | Deut 5:1-22 |
-| Frag. 26-27 | Deut 11:12 |
 | Frag. 19 | Deut 5:23-27 |
-| Frag. 28-29 | Exod 13:2-3 |
 | Frag. 20 | Deut 10:17-18 |
-| Frag. 30-31 | Exod 13:7-9 |
 | Frag. 21-22 | Deut 10:21 - 11:1 |
-| Frag. 32-58 | ? |
 | Frag. 23-25 | Deut 11:8-11 |
+| Frag. 26-27 | Deut 11:12 |
+| Frag. 28-29 | Exod 13:2-3 |
+| Frag. 30-31 | Exod 13:7-9 |
+| Frag. 32-58 | ? |
 
 [[DSS 1Q12|← 1Q12]] · [[Qumran|index]] · [[DSS 1Q14|1Q14 →]]

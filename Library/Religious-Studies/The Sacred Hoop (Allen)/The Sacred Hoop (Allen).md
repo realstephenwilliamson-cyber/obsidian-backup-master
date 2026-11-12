@@ -4,7 +4,7 @@ title: "The Sacred Hoop: Recovering the Feminine in American Indian Traditions"
 author:
   - Paula Gunn Allen
 work: "[[Allen - The Sacred Hoop]]"
-source_pdf: Library/Other/Allen - The Sacred Hoop (2015).pdf
+source_pdf: Library/Religious-Studies/Allen - The Sacred Hoop (2015).pdf
 pages: 439
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

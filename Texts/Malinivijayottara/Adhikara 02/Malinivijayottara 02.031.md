@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 मन्त्रमन्त्रेश्वरेशानाः शक्तीशावपि पूर्ववत् ।
-नवधा कीर्तिते भेदे स्वम्मन्त्राः मन्त्रनायकाः ॥ ^mula
+नवधा कीर्तिते भेदे स्वं मन्त्राः मन्त्रनायकाः ॥ ^mula
 
 mantramantreśvareśānāḥ śaktīśāv api pūrvavat |
 navadhā kīrtite bhede svam mantrāḥ mantranāyakāḥ || ^iast

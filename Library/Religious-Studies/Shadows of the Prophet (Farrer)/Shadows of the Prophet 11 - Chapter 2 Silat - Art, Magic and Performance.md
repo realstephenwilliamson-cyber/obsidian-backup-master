@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Farrer - Shadows of the Prophet]]"
 book: "[[Shadows of the Prophet (Farrer)|Shadows of the Prophet (Farrer)]]"
 order: 11
-source_pdf: Library/Other/Farrer - Shadows of the Prophet (2009).pdf
+source_pdf: Library/Religious-Studies/Farrer - Shadows of the Prophet (2009).pdf
 page_range: 43–84
 pdf_pages: 58–99
 text_source: PDF text layer (born-digital), PyMuPDF

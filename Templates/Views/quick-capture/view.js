@@ -4,7 +4,7 @@
 // Photos go into one "Marked pages" note per book in the marked-pages folder, under a dated heading; the note links back to
 // the book's catalog note, so the catalog note's backlinks show it.
 // A book added with the form gets a catalog note in <catalog>/<Subject>/ with text: print and an empty files: list
-// (Vault Guide -> The catalog), so it shows in the library browser, Currently reading and Physical Library like any other book.
+// (Vault Guide -> The catalog), so it shows in the library browser, Currently reading and the Physical Library view of Catalog/Library checks.base like any other book.
 // Changed 12 Oct 2026 (restructure): the catalog and marked-pages folders come from Templates/Views/paths.json.
 // Changed 7 Oct 2026 (phase 3): a title or surname with no Latin letters no longer gives an empty file name, and an unused
 // heading from an earlier click today is used again instead of repeated (F29 e, f).
@@ -25,7 +25,7 @@ const fail = e => {
 };
 try { // (the body is not indented, to keep the change small)
 const PATHS = await (async () => { try { return JSON.parse(await app.vault.adapter.read("Templates/Views/paths.json")); } catch (e) { return {}; } })();
-const CAT = PATHS.catalog || "Library/Catalog", MARKED = PATHS.markedPages || "Notes/Marked pages";
+const CAT = PATHS.catalog || "Catalog", MARKED = PATHS.markedPages || "Notes/Marked pages";
 // Dataview clears and re-runs this block whenever any note in the vault changes (on the phone also when Sync brings in a
 // file). What was typed in the filter and the form, the ticks, the subject, the last message and which parts were open are
 // kept on the block's container, so they come back; opened anew, the note starts with an empty form.

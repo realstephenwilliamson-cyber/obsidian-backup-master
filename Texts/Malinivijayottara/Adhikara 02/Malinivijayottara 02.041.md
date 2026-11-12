@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 मन्त्रास्तत्पतयः सेशा रूपस्थमिति कीर्त्यते ।
-रूपातीतम्परा शक्तिः सव्यापाराप्यनामया ॥ ^mula
+रूपातीतं परा शक्तिः सव्यापाराप्यनामया ॥ ^mula
 
 mantrās tatpatayaḥ seśā rūpastham iti kīrtyate |
 rūpātītam parā śaktiḥ savyāpārāpy anāmayā || ^iast

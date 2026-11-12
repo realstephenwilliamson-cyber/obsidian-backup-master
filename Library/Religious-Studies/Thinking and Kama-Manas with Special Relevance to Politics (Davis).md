@@ -4,7 +4,7 @@ title: Thinking and Kama-Manas with Special Relevance to Politics and Religion
 author:
   - James Davis
 work: "[[Davis - Thinking and Kama-Manas with Special Relevance to Politics and Religion]]"
-source_pdf: Library/Other/Thinking_and_Kama_Manas_with_Special_Rel.pdf
+source_pdf: Library/Religious-Studies/Thinking_and_Kama_Manas_with_Special_Rel.pdf
 page_range: 1–3
 pdf_pages: 1–3
 text_source: PDF text layer (born-digital), PyMuPDF

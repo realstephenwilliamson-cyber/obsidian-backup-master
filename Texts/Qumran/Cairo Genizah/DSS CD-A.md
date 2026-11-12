@@ -100,7 +100,7 @@ aliases:
 
 **18** of their hearts the Watchers of the heavens fell; on account of it they were caught, for they did not heed the precepts of God. ^2-18
 
-**19** And their sons, whose height was like that of cedars and whose bodies were like mountains, CD-A I-II *[p. 555]* fell. ^2-19
+**19** And their sons, whose height was like that of cedars and whose bodies were like mountains, *[p. 555]* fell. ^2-19
 
 **20** All ﬂesh which there was on the dry earth expired and they became as if they had never been, because they had realized ^2-20
 
@@ -156,7 +156,7 @@ aliases:
 
 **2** far away from me; they shall offer me the fat and the blood». Blank The priests are the converts of Israel ^4-2
 
-**3** who left the land of CD-A II-IV *[p. 557]* Judah; and ‹the levites are› those who joined them; Blank and the sons of Zadok are the chosen of ^4-3
+**3** who left the land of *[p. 557]* Judah; and ‹the levites are› those who joined them; Blank and the sons of Zadok are the chosen of ^4-3
 
 **4** Israel, the men of renown, who stand (to serve) at the end of days. Here is the detailed list ^4-4
 
@@ -218,7 +218,7 @@ aliases:
 
 **11** her father, for he is a blood relation. Blank And also they deﬁle their holy spirit, for with ^5-11
 
-**12** blasphemous tongue they have opened their mouth against the statutes CD-A IV-V *[p. 559]* of God’s covenant, saying: «they are unfounded». They speak abomination ^5-12
+**12** blasphemous tongue they have opened their mouth against the statutes *[p. 559]* of God’s covenant, saying: «they are unfounded». They speak abomination ^5-12
 
 **13** against them. They are all igniters of ﬁre, kindlers of blazes; webs ^5-13
 
@@ -280,7 +280,7 @@ aliases:
 
 **20** to set apart holy portions according to their exact interpretation; for each to love his brother ^6-20
 
-**21** like himself; to strengthen the hand of the poor, the needy and the foreigner; Blank for each to seek the peace CD-A V-VI ^6-21
+**21** like himself; to strengthen the hand of the poor, the needy and the foreigner; Blank for each to seek the peace ^6-21
 
 ### Col. vii (cf. CD-B xix; = 4Q266 3 iii)
 
@@ -342,7 +342,7 @@ aliases:
 
 **7** and approached for debauchery and bragged about wealth and gain. Each one did what was right in his eyes ^8-7
 
-**8** and each one has chosen the stubbornness of his heart. They did not keep apart CD-A VII-VIII *[p. 563]* from the people and have rebelled with insolence, ^8-8
+**8** and each one has chosen the stubbornness of his heart. They did not keep apart *[p. 563]* from the people and have rebelled with insolence, ^8-8
 
 **9** walking on the path of the wicked ones, about whom God says: Deut 32:33 «Their wine is serpents’ venom ^8-9
 
@@ -398,7 +398,7 @@ aliases:
 
 **13** they will [exact re]venge from him if he should become unfaithful. Blank All that has been revealed of the law for the multitude ^15-13
 
-**14** of the camp — if he inadvertently fails, the Inspector should tea[ch h]im and give orders concerning him, CD-A VIII, XV *[p. 565]* and he should le[arn] ^15-14
+**14** of the camp — if he inadvertently fails, the Inspector should tea[ch h]im and give orders concerning him, *[p. 565]* and he should le[arn] ^15-14
 
 **15** for a full year. And in accordance with (his) knowledge ‹he will approach. And no-one› who is stupid or deranged ‹should enter›; and anyone feeble[-minded and insane,] ^15-15
 
@@ -458,7 +458,7 @@ aliases:
 
 **3** the covenant who brings an accusation against his fellow, unless it is with reproach before witnesses, ^9-3
 
-**4** or brings it when he is angry, or tells it to his elders so that they might despise him, he is «the one who avenges himself and CD-A XV, XVI, IX *[p. 567]* bears resentment». ^9-4
+**4** or brings it when he is angry, or tells it to his elders so that they might despise him, he is «the one who avenges himself and *[p. 567]* bears resentment». ^9-4
 
 **5** Blank Is it not perhaps written that only Nah 1:2 «he (God) avenges himself on his foes and bears resentment against his enemies»? ^9-5
 
@@ -520,7 +520,7 @@ aliases:
 
 **10** their knowledge before they completed their days. Concerning puriﬁcation with water. No- ^10-10
 
-**11** one should bathe in water which is CD-A IX-X *[p. 569]* dirty or which is less than the amount which covers a man. ^10-11
+**11** one should bathe in water which is *[p. 569]* dirty or which is less than the amount which covers a man. ^10-11
 
 **12** Blank No-one should purify a vessel in it. And every cavity in the rock in which there is not the amount ^10-12
 
@@ -584,7 +584,7 @@ aliases:
 
 **19** to the altar a sacriﬁce, or an offering, or incense, or wood, by the hand of a man impure from any ^11-19
 
-**20** of the impurities, so allowing him to deﬁle the altar, for it CD-A X-XI *[p. 571]* is written: Prov 15:8 «the sacriﬁce ^11-20
+**20** of the impurities, so allowing him to deﬁle the altar, for it *[p. 571]* is written: Prov 15:8 «the sacriﬁce ^11-20
 
 **21** of the wicked ones is an abomination, but the prayer of the just ones is like an agreeable offering». Blank And everyone who enters ^11-21
 
@@ -646,7 +646,7 @@ aliases:
 
 **2** and tens. And in a place of ten, a priest learned in the book of hagy should not be lacking; by ^13-2
 
-**3** his authority all shall be governed. Blank And if there should not be an expert in CD-A XI-XIII *[p. 573]* them all, and one of the levites is an expert ^13-3
+**3** his authority all shall be governed. Blank And if there should not be an expert in *[p. 573]* them all, and one of the levites is an expert ^13-3
 
 **4** in them, the decision about the going out and coming in is his authority (with regard to) all the members of the camp. Blank But if ^13-4
 
@@ -702,7 +702,7 @@ aliases:
 
 **6** third and the proselyte fourth. And thus shall they sit and thus shall they be questioned about everything. And the priest who is named ^14-6
 
-**7** ‹at the head› of the Many will CD-A XIII-XIV *[p. 575]* be between thirty and sixty years old, learned in the book of ^14-7
+**7** ‹at the head› of the Many will *[p. 575]* be between thirty and sixty years old, learned in the book of ^14-7
 
 **8** h[a]gy and in all the regulations of the law, to formulate them in accordance with their regulations. Blank And the Inspector who is ^14-8
 

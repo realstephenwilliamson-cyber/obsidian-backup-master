@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q385a"
-title: "4QPseudo Mosesa"
+title: "4QPseudo-Mosesa"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "770–773"
@@ -10,7 +10,7 @@ aliases:
   - "4Q385a"
   - "4QpsMosesa"
 ---
-# 4Q385a (4QpsMosesa) · 4QPseudo Mosesa
+# 4Q385a (4QpsMosesa) · 4QPseudo-Mosesa
 
 [[DSS 4Q385|← 4Q385]] · [[Qumran|index]] · [[DSS 4Q385b|4Q385b →]]
 

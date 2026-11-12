@@ -4,7 +4,7 @@ title: Theurgy of the Snake
 author:
   - Keith Edward Cantú
 work: "[[Cantu - Theurgy of the Snake]]"
-source_pdf: Library/Other/CantxFA_washington_0250O_14690.pdf
+source_pdf: Library/Religious-Studies/CantxFA_washington_0250O_14690.pdf
 pages: 90
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

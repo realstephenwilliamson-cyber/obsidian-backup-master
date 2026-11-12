@@ -22,13 +22,13 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Lev 3:2-4 |
-| Frag. 6 | Lev 21:9-12 |
 | Frag. 2 | Lev 3:5-8 |
-| Frag. 7 | Lev 21:21-24 |
 | Frag. 3 | Lev 19:34-37 |
-| Frag. 8 | Lev 22:4-6 |
 | Frag. 4 | Lev 20:1-3 |
-| Frag. 9 | Lev 22:11-17 |
 | Frag. 5 | Lev 20:27 - 21:4 |
+| Frag. 6 | Lev 21:9-12 |
+| Frag. 7 | Lev 21:21-24 |
+| Frag. 8 | Lev 22:4-6 |
+| Frag. 9 | Lev 22:11-17 |
 
 [[DSS 4Q26|← 4Q26]] · [[Qumran|index]] · [[DSS 4Q26b|4Q26b →]]

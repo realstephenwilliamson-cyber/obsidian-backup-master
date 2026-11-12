@@ -22,8 +22,8 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 29:24-27 |
-| Frag. 2 ii, 4 | Deut 31:9-17 |
 | Frag. 2 i, 3 | Deut 30:3-14 |
+| Frag. 2 ii, 4 | Deut 31:9-17 |
 | Frag. 5-8 | Deut 31:24 - 32:3 |
 
 [[DSS 4Q28|← 4Q28]] · [[Qumran|index]] · [[DSS 4Q30|4Q30 →]]

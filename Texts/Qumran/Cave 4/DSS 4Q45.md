@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q45"
-title: "4QpaleoDeutero nomyr"
+title: "4QpaleoDeuteronomyr"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "260"
@@ -10,7 +10,7 @@ aliases:
   - "4Q45"
   - "4QpaleoDeutr"
 ---
-# 4Q45 (4QpaleoDeutr) · 4QpaleoDeutero nomyr
+# 4Q45 (4QpaleoDeutr) · 4QpaleoDeuteronomyr
 
 [[DSS 4Q44|← 4Q44]] · [[Qumran|index]] · [[DSS 4Q47|4Q47 →]]
 

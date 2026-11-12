@@ -53,7 +53,7 @@ THE UNIVERSE[^35] - SHE ASSUMES THE SHAPE OF A PYRAMIDAL
 
 TRIANGLE,[^36] OH SUPREME LADY:
 
-[^31]: I.e., "She who attracts”. It is the appellation most often used in the Krama branch of Kashmir Satvism.
+[^31]: I.e., "She who attracts”. It is the appellation most often used in the Krama branch of Kashmir Śaivism.
 
 [^33]: See Chapter I footnote 21 and "Introd. to the Philosophy of the Texts".
 
@@ -221,10 +221,10 @@ AND THE ŚAKTT BĪJA IS ICCHĀ HERSELF.
 
 Of the tattvas the three are liberation, desire and viga.[^70] Of the varpas (the three are) Vāgbhava, Kāmarāja and akti blja.[^71] And of the śaktis (the three are) Jñāna sakti etc.. There is an
 
-[^68]: See the commentary to the following verses for an explanation of the terms "tattva, varpa and sakti".
+[^68]: See the commentary to the following verses for an explanation of the terms "tattva, varṇa and śakti".
 
 [^70]: "Visa" is a reference to the ürdhvakuṇndalint in which the prāṇa and apāna prāṇas together rise up in the Suṣgumnā. Viga specifically symbolizes the rising up of the normally downward current of apāna. (Singh, Vijnānabhairava, p. 65.)
-[^71]: These are the three constituent bljas of the fifteen syllable root mantra.
+[^71]: These are the three constituent bījas of the fifteen syllable root mantra.
 
 [^69]: I.e., Kriyā sakti.
 
@@ -455,9 +455,9 @@ UNIVERSES.
 
 35 € 36. SHINING FORTH IN DUE ORDER FROM THE END OF DESIRE,
 
-[^93]: A reference to Paṇini's Aṣṭadhyāyt, or Patanjali 's Mahābhāgya.
+[^93]: A reference to Paṇini's Aṣṭadhyāyī, or Patañjali's Mahābhāṣya.
 
-[^94]: Literally: "he causes to descend"; Skt.: "avatāãrayati".
+[^94]: Literally: "he causes to descend"; Skt.: "avatārayati".
 
 [^95]: When the kāma or sun bindu begins to sprout it takes the form of Kāmakalā in the yoni.
 [^96]: Literally: "young"; Skt.: "taruṇa".
@@ -487,7 +487,7 @@ She who is of the essence of the (just) mentioned vowel-less "h" kalā[^101] nat
 
 [^99]: The "middle Sakti" is Kungalint who rises up through the Sugumā or middle current.
 
-[^100]: "yithout a head" refers to the mātrā or straight line from which the Sanskrit characters are suspended.
+[^100]: "Without a head" refers to the mātrā or straight line from which the Sanskrit characters are suspended.
 
 [^101]: "Kalā" ís used here in the sense of "letter".
 [^104]: The goddess ts in the role (bhumikā) of the sādhyā whose individual ego has been suppressed. It doesn't matter wherever or how many sādhyās there are, the Goddess is impersonated in them all.
@@ -597,7 +597,7 @@ Kāmini.
 
 One should draw the gaze of the sakti astride the eyes with it."
 
-[^115]: I.e., Kundalini sakti.
+[^115]: I.e., Kuṇḍalinī śakti.
 
 [^116]: Jayaratha is pointing out that despite the assoctations of  the moon with coolness, the metaphor of "rosy-red moon" intends to suggest a combination of both warmth and  refreshment.
 
@@ -657,7 +657,7 @@ And so on. According to the verse, the one in the form of the middle prāṇa ś
 
 Due to the difficulty of piercing the two knots of the palate,[^126] She is "enfolded",[^127] i.e. covered up in the place of little bells within
 
-[^123]: I.e., KLIY.
+[^123]: I.e., KLĪṂ.
 
 [^122]: The half-uttered "h" is visarga or the Śakti as Kuṇgalinī who rises through the middle breath channel called Sugumnā.
 [^124]: The gross manifestation of a letter ts beneath the mātrā or "head" which represents the transition tinto the purely spiritual or causal plane. Enclosed inside the head of "k" means that She ts within an imperceptible transcendental state, t.e. in the Sahasrãra.
@@ -793,9 +793,9 @@ The bīja "established in the number of Rudras' place" from the letter “u“ i
 
 The one that precedes the letter "p" "by the number of bhūutas" is the fifth one "e". Also, that which follows the letter "r" by the number
 
-[^150]: This, presumably, is a reference to the fact that certain Śāktas do not raise Kuṇdalint to the Sahasrāra, but instead worship Her in that part of the body wherein She normally lies dormant, t.e. they worship Her in the Mūlādhāra.
+[^150]: This, presumably, is a reference to the fact that certain Śāktas do not raise Kuṇḍalinī to the Sahasrāra, but instead worship Her in that part of the body wherein She normally lies dormant, i.e. they worship Her in the Mūlādhāra.
 
-[^151]: The "element in the supporting ground" is the mantra HRĪY which "retgns" in importance above all the mantras. By concentration on HRĪM the sādhaka activates the whole yantra and makes it powerfully effective. Although this yantra can be reproduced externally, the text intends that it should be visualized in the Sahasrāra or in the Mūlādhāra. In this Way, the Kāmamantra becomes an internalised yantra.
+[^151]: The "element in the supporting ground" is the mantra HRĪṂ which "reigns" in importance above all the mantras. By concentration on HRĪṂ the sādhaka activates the whole yantra and makes it powerfully effective. Although this yantra can be reproduced externally, the text intends that it should be visualized in the Sahasrāra or in the Mūlādhāra. In this way, the Kāmamantra becomes an internalised yantra.
 
 [^152]: There are five "desires" because the god of desire Kāma has five arrows.
 [^153]: There are eleven Rudras.
@@ -828,7 +828,7 @@ Kāmamantra with the goad[^159] and its five kinds of syllables throws the whole
 
 There is so much idiosyncrasy on this subject. As explained by Śrīkalyāṇavarman, one should put BLŪM in the six angles with the idea that the outer Añkusa bṛja is inside the vowel of the fourth desire.[^161] And on the outside of that are eight KROMs in the eight compass directions: AII such information as this etc. (suitable as instruction on incidental matters here and there) has been garnered from great great grandfather (and) originates in hearsay;[^162] being appropriated (seized even) from fellow gotra members, forcefully, by deception, somehow or other (and) as a last resort by theft etc..[^163]
 
-[^159]: The "goad" is the bija mantra KROY.
+[^159]: The "goad" is the bīja mantra KROṂ.
 
 [^160]: According to the yantra interpretation, the Kāmamantra as given in the main verses 45 and 46 reads thus: "That abiding on HRĪṂ abiding in the middle of KLĪṂ enfolded in the womb of AI¥Y one should lead to the goal certainly with STRIM. One should cast VLAM into the desires. Making it lovely with HRIM the one who is abiding in desire may throw the universe into turmoil." The reading is not strictly sabdakrama. The meaning of the first pada of the 46th verse is inverted as the commentary makes clear. The fourth desire is VLAM which is also led to the goal by the fifth desire STRIM.
 [^161]: Jayaratha does not agree that inside of the vowel "u" of BLŪM one should put the bija KROM as follows: Cs feror

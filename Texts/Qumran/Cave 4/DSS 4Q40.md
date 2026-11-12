@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-3 | Deut 3:18-22 |
-| Frag. 5 | Deut 7:18-22 |
 | Frag. 4 | Deut 4:32-33 |
+| Frag. 5 | Deut 7:18-22 |
 
 [[DSS 4Q39|← 4Q39]] · [[Qumran|index]] · [[DSS 4Q41|4Q41 →]]

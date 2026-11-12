@@ -4,7 +4,7 @@ title: Haunting the Buddha
 author:
   - Robert DeCaroli
 work: "[[DeCaroli - Haunting the Buddha]]"
-source_pdf: Library/Other/DeCaroli - Haunting the Buddha (OUP 2004).pdf
+source_pdf: Library/Religious-Studies/DeCaroli - Haunting the Buddha (OUP 2004).pdf
 pages: 241
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

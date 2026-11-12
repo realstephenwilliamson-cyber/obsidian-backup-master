@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Ps 119:99-101. 104 |
-| Frag. 2 | Ps 119:138-142 |
 | Frag. 1 ii | Ps 119:113-120 |
+| Frag. 2 | Ps 119:138-142 |
 
 [[DSS 5Q4|← 5Q4]] · [[Qumran|index]] · [[DSS 5Q6|5Q6 →]]

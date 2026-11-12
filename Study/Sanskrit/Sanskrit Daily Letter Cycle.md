@@ -8,7 +8,7 @@ status: active
 > This repeating calendar assigns one of the 108 Sanskrit cards to every day of your study. Over the 1,099-day Tantrāloka study course, this cycle repeats approximately **10 times**, ensuring that every letter, vowel sign, and ligature is encountered, written, and contemplated multiple times until recognition is effortless.
 
 > [!note] Since 13 October 2026
-> Home, the phone page and new daily notes show the [[Conjunct cycle (Tantraloka)|phoneme of the day]] (a conjunct from the Tantrāloka, decision D18) in place of this card. The card for each day is still here, and each of the fifty letters has its own note ([[Letters]]) with its cards.
+> Home and new daily notes show the [[Conjunct cycle (Tantraloka)|phoneme of the day]] (a conjunct from the Tantrāloka, decision D18) in place of this card. The card for each day is still here, and each of the fifty letters has its own note ([[Letters]]) with its cards.
 
 ## Today's card
 

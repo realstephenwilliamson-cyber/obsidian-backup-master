@@ -4,7 +4,7 @@ title: The Dynamic of Sexuality in the Mystic Way
 author:
   - Paul C. Martin
 work: "[[Martin - The Dynamic of Sexuality in the Mystic Way]]"
-source_pdf: Library/Other/The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf
+source_pdf: Library/Religious-Studies/The_Dynamic_of_Sexuality_in_the_Mystic_W.pdf
 pages: 119
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -22,14 +22,14 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Lev 11:10-11 |
-| Frag. 8 | Num 1:48-50 |
 | Frag. 2 | Lev 19:30-34 |
-| Frag. 9 | Num 36:7-8? |
 | Frag. 3-4 | Lev 20:20-24 |
-| Frag. 10-21 | ? |
 | Frag. 5-6 | Lev 21:24 - 22:6 |
-| Frag. 22 | Lev 27:30-31? |
 | Frag. 7 | Lev 23:4-8 |
+| Frag. 8 | Num 1:48-50 |
+| Frag. 9 | Num 36:7-8? |
+| Frag. 10-21 | ? |
+| Frag. 22 | Lev 27:30-31? |
 | Frag. 23-24 | ? |
 
 [[DSS 1Q2|← 1Q2]] · [[Qumran|index]] · [[DSS 1Q4|1Q4 →]]

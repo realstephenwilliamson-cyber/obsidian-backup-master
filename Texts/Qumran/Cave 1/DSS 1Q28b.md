@@ -91,7 +91,7 @@ aliases:
 
 **17** […] … […] ^3-17
 
-**18** [… to subd]ue for you ma[ny 1Q28b I-III *[p. 107]* natio]ns and not […] ^3-18
+**18** [… to subd]ue for you ma[ny *[p. 107]* natio]ns and not […] ^3-18
 
 **19** […] all the wealth of the world, to […] you from the spring ^3-19
 
@@ -171,7 +171,7 @@ aliases:
 
 **20** Blank Of the Instructor. To bless the prince of the congregation, who […] ^5-20
 
-**21** […] his […] And he will renew the covenant of the 1Q28b III-V *[p. 109]* [Com]munity for him, to establish the kingdom of his people for eve[r, to judge the poor with justice,] ^5-21
+**21** […] his […] And he will renew the covenant of the *[p. 109]* [Com]munity for him, to establish the kingdom of his people for eve[r, to judge the poor with justice,] ^5-21
 
 **22** to reproach the [hu]mble of the earth with upri[ghtness,] to walk in perfection before him on all the paths of […] ^5-22
 

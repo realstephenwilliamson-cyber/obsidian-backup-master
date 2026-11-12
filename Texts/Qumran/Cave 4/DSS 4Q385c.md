@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q385c"
-title: "4QPseudo Ezekielc"
+title: "4QPseudo-Ezekielc"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "774–775"
@@ -10,7 +10,7 @@ aliases:
   - "4Q385c"
   - "4QpsEzekc"
 ---
-# 4Q385c (4QpsEzekc) · 4QPseudo Ezekielc
+# 4Q385c (4QpsEzekc) · 4QPseudo-Ezekielc
 
 [[DSS 4Q385b|← 4Q385b]] · [[Qumran|index]] · [[DSS 4Q386|4Q386 →]]
 

@@ -93,7 +93,7 @@ Surely (one may ask,) as an injunction consists of a command (that impels to act
 ### TĀ 1.127
 
 विधिर्नियोगख्यंशा च भावना चोटनात्मिका ।
-vidhir niyogas 17) वकि[illegible] ca bhāvanā codanātmikā | 
+vidhir niyogas 17) वकि\[illegible\] ca bhāvanā codanātmikā | 
 
 An injunction (vidhi) is (essentially) a command (niyoga) that impels (to action) (codanā) (as laid down according to the Mīmāṁsā in its standard) execution (bhāvanā) in three aspects.[^858] (127ab) (127cd) 
 
@@ -179,7 +179,7 @@ Deities (of a lower order that) are separate from one’s own nature are like (c
 
 Surely, if[^871] one’s own Self shines by itself independently of (any) other means of knowledge,[^872] why is this not always so for everybody? With this doubt in mind, he says: ‘those’ etc. (For) ‘those’ who worship deities such as Indra that are separate from their own Self, their own Self is always manifest, otherwise consciousness of objectivity (vedyavedana) would be logically impossible, nor could anything else separate from that possibly be the state of Deity (devatātva). (Thus,) ‘although they know that (consciousness in this aspect as deity)’ in actual fact ‘they know it not’, because as they predominantly perceive objectivity, they would not know it as one with the perceiver. This is the meaning. Thus, they fall (from the higher state of consciousness) by accepting this or that particular limited (niyata) deity and the like (as their own and rejecting their own consciousness). That is said there (in the Bhagavadgītā): 
 
-‘They do not know Me in reality (as 1 truly am) and so they शि[illegible]\].[^873] He explains that. 
+‘They do not know Me in reality (as 1 truly am) and so they शि\[illegible\]\].[^873] He explains that. 
 
 ### TĀ 1.129
 

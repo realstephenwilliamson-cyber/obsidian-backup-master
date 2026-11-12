@@ -76,7 +76,7 @@ aliases:
 
 **1** but he has showered on us his merciful favour for ever and ever» And the priests will bless all ^2-1
 
-**2** the men of God’s lot who walk unblemished in all his paths and they shall say: «May he 1QS I-II *[p. 73]* bless you with everything ^2-2
+**2** the men of God’s lot who walk unblemished in all his paths and they shall say: «May he *[p. 73]* bless you with everything ^2-2
 
 **3** good, and may he protect you from everything bad. May he illuminate your heart with the discernment of life and grace you with eternal knowledge. ^2-3
 
@@ -124,7 +124,7 @@ aliases:
 
 **25** towards each other, in a holy council, associates of an everlasting society. And anyone who declines to enter ^2-25
 
-**26** [the covenant of Go]d in order to walk in the stubbornness of his heart shall not [enter the Com]munity of his truth, since 1QS II ^2-26
+**26** [the covenant of Go]d in order to walk in the stubbornness of his heart shall not [enter the Com]munity of his truth, since ^2-26
 
 ### Col. iii (= 4Q255 2; 4Q257 iii; 4Q262 1)
 
@@ -170,7 +170,7 @@ aliases:
 
 **21** Darkness is total dominion over the sons of deceit; they walk on paths of darkness. From the Angel of Darkness stems the corruption of ^3-21
 
-**22** all the sons of justice, and all their sins, their iniquities, their guilts and their offensive deeds are under his dominion 1QS III *[p. 77]* ^3-22
+**22** all the sons of justice, and all their sins, their iniquities, their guilts and their offensive deeds are under his dominion *[p. 77]* ^3-22
 
 **23** in compliance with the mysteries of God, until his moment; and all their afﬂictions and their periods of grief are caused by the dominion of his enmity; ^3-23
 
@@ -208,7 +208,7 @@ aliases:
 
 **13** without end with the humiliation of destruction by the ﬁre of the dark regions. And all the ages of their generations (they shall spend) in bitter weeping and harsh evils in the abysses of darkness until ^4-13
 
-**14** their destruction, without there being a remnant or a survivor for them. Blank 1QS III-IV *[p. 79]* ^4-14
+**14** their destruction, without there being a remnant or a survivor for them. Blank *[p. 79]* ^4-14
 
 **15** Blank In these (lies) the history of all men; in their (two) divisions all their armies have a share for their generations; in their paths they walk; every deed ^4-15
 
@@ -242,7 +242,7 @@ aliases:
 
 **3** the Community, those who persevere steadfastly in the covenant. By their authority, decision by lot shall be made in every affair involving the law, property and judgment, to achieve together truth and humility, ^5-3
 
-**4** justice and uprightness, compassionate love and 1QS IV-V *[p. 81]* seemly behaviour in all their paths. No-one should walk in the stubbornness of his heart in order to go astray following his heart ^5-4
+**4** justice and uprightness, compassionate love and *[p. 81]* seemly behaviour in all their paths. No-one should walk in the stubbornness of his heart in order to go astray following his heart ^5-4
 
 **5** and his eyes and the musings of his inclination. Instead he should circumcise in the Community the foreskin of his tendency and of his stiff neck in order to lay a foundation of truth for Israel, for the Community of the eternal ^5-5
 
@@ -274,7 +274,7 @@ aliases:
 
 **19** futility, for futile are all those who do not know the covenant. And all those who scorn his word he shall cause to vanish from the world; all their deeds are uncleanness ^5-19
 
-**20** before him and there is uncleanness in all {his} their possessions. And when someone enters the covenant to be- 1QS V *[p. 83]* have in compliance with all these decrees, enrolling in the assembly of holiness, they shall examine ^5-20
+**20** before him and there is uncleanness in all {his} their possessions. And when someone enters the covenant to behave *[p. 83]* in compliance with all these decrees, enrolling in the assembly of holiness, they shall examine ^5-20
 
 **21** their spirits in the Community, one another, in respect of his insight and of his deeds in law, under the authority of the sons of Aaron, those who freely volunteer in the Community to set up ^5-21
 
@@ -308,7 +308,7 @@ aliases:
 
 **9** all the people will sit down in order of rank. And following the same system they shall be questioned with regard to judgment, all counsel and any matter referred to the Many, so that each can impart his knowledge ^6-9
 
-**10** to the council of the Community. Blank No-one should talk during the speech of his fellow before his 1QS V-VI *[p. 85]* brother has ﬁnished speaking. Blank And neither should he speak before one whose rank is listed ^6-10
+**10** to the council of the Community. Blank No-one should talk during the speech of his fellow before his *[p. 85]* brother has ﬁnished speaking. Blank And neither should he speak before one whose rank is listed ^6-10
 
 **11** before his own. Whoever is questioned should speak in his turn. And in the session of the Many no-one should utter anything without the consent of the Many, save the ^6-11
 
@@ -342,7 +342,7 @@ aliases:
 
 **26** his fellow with stubbornness, (and) speaks with brusqueness, ruining the footing he has with him, defying the authority of his fellow who is enrolled ahead of him, ^6-26
 
-**27** [he h]as taken the law into his own hands; and he will be punished for on[e] year [… Who]ever enunciates the Name (which is) honoured above all … […] 1QS VI ^6-27
+**27** [he h]as taken the law into his own hands; and he will be punished for on[e] year [… Who]ever enunciates the Name (which is) honoured above all … […] ^6-27
 
 ### Col. vii (= 4Q259 i-ii; 4Q261 5, 6; cf. 4Q265 1 i; 4Q266 10 ii; 4Q270 7 i; 11Q29
 
@@ -388,7 +388,7 @@ aliases:
 
 **20** Blank {…} and during the second he shall not approach {the pure food} /the drink/ of the Many and shall sit at the back of all the men of the Community. ^7-20
 
-**21** When the days of the two years are complete 1QS VII *[p. 89]* the Many shall be questioned Blank concerning his affairs; if they admit him, he shall be enrolled in his rank; and later he will be questioned in connection with judgment. ^7-21
+**21** When the days of the two years are complete *[p. 89]* the Many shall be questioned Blank concerning his affairs; if they admit him, he shall be enrolled in his rank; and later he will be questioned in connection with judgment. ^7-21
 
 **22** {…} However, anyone who has been in the Community council {…} for ten full years. Blank ^7-22
 
@@ -430,7 +430,7 @@ aliases:
 
 **15** This is the study of the law wh[i]ch he commanded through the hand of Moses, in order to act in compliance with all that has been revealed from age to age, ^8-15
 
-**16** and according to what the prophets 1QS VII-VIII *[p. 91]* have revealed through his holy spirit. Blank And anyone of the men of the Community, the covenant of ^8-16
+**16** and according to what the prophets *[p. 91]* have revealed through his holy spirit. Blank And anyone of the men of the Community, the covenant of ^8-16
 
 **17** the Community, who insolently shuns anything at all commanded, cannot approach the pure food of the men of holiness, ^8-17
 
@@ -472,7 +472,7 @@ aliases:
 
 **8** and the goods of the men of holiness who walk in perfection. Their goods must not be mixed with the goods of the men of deceit who ^9-8
 
-**9** have not cleansed their path to separate from injustice and walk in a perfect behaviour. They should not de- 1QS VIII-IX *[p. 93]* part from any counsel of the law in order to walk ^9-9
+**9** have not cleansed their path to separate from injustice and walk in a perfect behaviour. They should not depart *[p. 93]* from any counsel of the law in order to walk ^9-9
 
 **10** in complete stubbornness of their heart, but instead shall be ruled by the ﬁrst directives which the men of the Community began to be taught ^9-10
 
@@ -504,7 +504,7 @@ aliases:
 
 **25** He should relish all the words of his mouth, wish for nothing that he has not commanded [and] be ever alert to the precept of God. ^9-25
 
-**26** [… and in distr]ess he shall bless his Creator and in all that happens he shall re[count … and with the offering of] his lips he shall bless him 1QS IX ^9-26
+**26** [… and in distr]ess he shall bless his Creator and in all that happens he shall re[count … and with the offering of] his lips he shall bless him ^9-26
 
 ### Col. x (= 4Q256 xix, xx; 4Q258 viii-x; 4Q260 ii-v)
 
@@ -544,7 +544,7 @@ aliases:
 
 **18** with goodness I shall pursue man. For to God (belongs) the judgment of every living being, and it is he who pays man his wages. I shall not be jealous with a wicked ^10-18
 
-**19** spirit, and my soul shall not 1QS X *[p. 97]* crave wealth by violence; I {shall not sustain angry resentment for those who convert} /shall not be involved/ in any dispute with the men of the pit /until the day/ of vengeance. However, my anger I shall not ^10-19
+**19** spirit, and my soul shall not *[p. 97]* crave wealth by violence; I {shall not sustain angry resentment for those who convert} /shall not be involved/ in any dispute with the men of the pit /until the day/ of vengeance. However, my anger I shall not ^10-19
 
 **20** remove from unjust men, nor shall I be appeased, until he carries out his judgment. I shall not sustain angry resentment for those who convert from iniquity, but I shall have no mercy ^10-20
 
@@ -580,7 +580,7 @@ aliases:
 
 **9** future ages. However, I belong to evil humankind, to the assembly of unfaithful ﬂesh; my failings, my iniquities, my sins, {…} with the depravities of my heart, ^11-9
 
-**10** be- 1QS X-XI *[p. 99]* long to the assembly of worms and of those who walk in darkness. For to man (does not belong) his path, nor can a human being steady his step; since the judgment belongs to God, and from his hand ^11-10
+**10** belong *[p. 99]* to the assembly of worms and of those who walk in darkness. For to man (does not belong) his path, nor can a human being steady his step; since the judgment belongs to God, and from his hand ^11-10
 
 **11** is the perfection of the path. By his knowledge everything shall come into being, and all that does exist he establishes with his calculations and nothing is done outside of him. Blank As for me, if ^11-11
 

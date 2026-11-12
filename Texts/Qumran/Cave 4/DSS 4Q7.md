@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 1:1-11 |
-| Frag. 3 | Gen 3:6-7? |
 | Frag. 2 | Gen 1:13-22 |
+| Frag. 3 | Gen 3:6-7? |
 
 [[DSS 4Q6|← 4Q6]] · [[Qumran|index]] · [[DSS 4Q8|4Q8 →]]

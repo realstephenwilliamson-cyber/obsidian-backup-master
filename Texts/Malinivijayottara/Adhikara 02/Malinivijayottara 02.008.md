@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-एवम्भुवनमालापि भिन्ना भेदैरिमैः स्फुटम् ।
-विज्ञेया योगसिद्ध्यर्थम्योगिभिर्योगपूजिता ॥ ^mula
+एवं भुवनमालापि भिन्ना भेदैरिमैः स्फुटम् ।
+विज्ञेया योगसिद्ध्यर्थं योगिभिर्योगपूजिता ॥ ^mula
 
 evam bhuvanamālāpi bhinnā bhedair imaiḥ sphuṭam |
 vijñeyā yogasiddhyartham yogibhir yogapūjitā || ^iast

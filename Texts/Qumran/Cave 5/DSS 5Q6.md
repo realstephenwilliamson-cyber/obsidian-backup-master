@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Lam 4:5-8 |
-| Frag. 1 v | Lam 5:4-12 |
 | Frag. 1 ii | Lam 4:11-15 |
-| Frag. 1 vi | Lam 5:12-13. 16 |
 | Frag. 1 iii | Lam 4:15-16. 19-20 |
 | Frag. 1 iv | Lam 4:20 - 5:3 |
+| Frag. 1 v | Lam 5:4-12 |
+| Frag. 1 vi | Lam 5:12-13. 16 |
 
 [[DSS 5Q5|← 5Q5]] · [[Qumran|index]] · [[DSS 5Q7|5Q7 →]]

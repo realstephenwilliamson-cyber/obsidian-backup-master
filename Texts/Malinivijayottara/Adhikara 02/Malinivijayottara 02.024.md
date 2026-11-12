@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-सार्धमेतच्छतम्प्रोक्तम्भेदानामनुपूर्वशः ।
-सम्क्षेपाद्विस्तरादस्य परिसम्ख्या न विद्यते ॥ ^mula
+सार्धमेतच्छतं प्रोक्तं भेदानामनुपूर्वशः ।
+संक्षेपाद्विस्तरादस्य परिसंख्या न विद्यते ॥ ^mula
 
 sārdham etac chatam proktam bhedānām anupūrvaśaḥ |
 samkṣepād vistarād asya parisamkhyā na vidyate || ^iast

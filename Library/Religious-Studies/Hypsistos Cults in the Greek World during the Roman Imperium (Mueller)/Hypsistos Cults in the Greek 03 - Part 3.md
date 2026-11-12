@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Mueller - Hypsistos Cults in the Greek World during the Roman Imperium]]"
 book: "[[Hypsistos Cults in the Greek World during the Roman Imperium (Mueller)|Hypsistos Cults in the Greek World during the Roman Imperium (Mueller)]]"
 order: 3
-source_pdf: Library/Other/Hypsistos Cults in the Greek World During the Imperium.pdf
+source_pdf: Library/Religious-Studies/Hypsistos Cults in the Greek World During the Imperium.pdf
 page_range: 75–90
 pdf_pages: 81–96
 text_source: PDF text layer (born-digital), PyMuPDF

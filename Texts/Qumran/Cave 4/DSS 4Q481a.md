@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q481a"
-title: "4QApocryph on of Elisha"
+title: "4QApocryphon of Elisha"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "960–963"
@@ -10,7 +10,7 @@ aliases:
   - "4Q481a"
   - "4QapocrElisha"
 ---
-# 4Q481a (4QapocrElisha) · 4QApocryph on of Elisha
+# 4Q481a (4QapocrElisha) · 4QApocryphon of Elisha
 
 [[DSS 4Q481|← 4Q481]] · [[Qumran|index]] · [[DSS 4Q481b|4Q481b →]]
 

@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ezek 10:6-16 |
-| Frag. 3 ii | Ezek 23:44-47 |
 | Frag. 2 | Ezek 10:17 - 11:11 |
-| Frag. 4 | Ezek 41:3-6 |
 | Frag. 3 i | Ezek 23:14-15, 17-18 |
+| Frag. 3 ii | Ezek 23:44-47 |
+| Frag. 4 | Ezek 41:3-6 |
 
 [[DSS 4Q72b|← 4Q72b]] · [[Qumran|index]] · [[DSS 4Q74|4Q74 →]]

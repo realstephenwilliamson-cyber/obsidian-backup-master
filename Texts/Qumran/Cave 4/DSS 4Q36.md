@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-2 i | Deut 20:9-13 |
-| Frag. 6 | Deut 23:23 - 24:1 |
 | Frag. 3 i, 4, 5 i | Deut 21:23 - 22:9 |
-| Frag. 7-8 | ? |
 | Frag. 3 ii, 5 ii | Deut 23:6-8; 12-16 |
+| Frag. 6 | Deut 23:23 - 24:1 |
+| Frag. 7-8 | ? |
 
 [[DSS 4Q35|← 4Q35]] · [[Qumran|index]] · [[DSS 4Q37|4Q37 →]]

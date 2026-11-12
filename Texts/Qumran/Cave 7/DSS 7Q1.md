@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "7Q1"
-title: "7QSeptuagint Exo dus"
+title: "7QSeptuagint Exodus"
 location: "Cave 7"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "1161"
@@ -10,7 +10,7 @@ aliases:
   - "7Q1"
   - "7QLXXExod"
 ---
-# 7Q1 (7QLXXExod) · 7QSeptuagint Exo dus
+# 7Q1 (7QLXXExod) · 7QSeptuagint Exodus
 
 [[DSS 6Q31|← 6Q31]] · [[Qumran|index]] · [[DSS 7Q2|7Q2 →]]
 

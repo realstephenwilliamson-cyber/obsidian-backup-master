@@ -22,15 +22,15 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Exod 1:11-14 |
-| Frag. 7 | Exod 26:11-13 |
 | Frag. 2 | Exod 7:1-4 |
-| Frag. 8 | Exod 30:21 |
 | Frag. 3 | Exod 9:27-29 |
-| Frag. 9 | Exod 30:23-25 |
 | Frag. 4 | Exod 11:3-7 |
-| Frag. 10 | Exod 32:32-34 |
 | Frag. 5 | Exod 12:32-41 |
-| Frag. 11-13 | ? |
 | Frag. 6 | Exod 21:18-20? |
+| Frag. 7 | Exod 26:11-13 |
+| Frag. 8 | Exod 30:21 |
+| Frag. 9 | Exod 30:23-25 |
+| Frag. 10 | Exod 32:32-34 |
+| Frag. 11-13 | ? |
 
 [[DSS 2Q1|← 2Q1]] · [[Qumran|index]] · [[DSS 2Q3|2Q3 →]]

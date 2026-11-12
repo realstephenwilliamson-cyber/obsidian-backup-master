@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-सम्वित्तिफलभेदोऽत्र न प्रकल्प्यो मनीषिभिः ।
-भेदोऽपरोऽपि सम्क्षेपात्कथ्यमानोऽवधार्यताम् ॥ ^mula
+संवित्तिफलभेदोऽत्र न प्रकल्प्यो मनीषिभिः ।
+भेदोऽपरोऽपि संक्षेपात्कथ्यमानोऽवधार्यताम् ॥ ^mula
 
 samvittiphalabhedo 'tra na prakalpyo manīṣibhiḥ |
 bhedo 'paro 'pi samkṣepāt kathyamāno 'vadhāryatām || ^iast

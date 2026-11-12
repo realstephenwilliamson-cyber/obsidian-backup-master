@@ -29,7 +29,7 @@ aliases:
 
 **4** [your anger. All the sons of your truth you bring to forgiveness in your presence, you purify them from] their [sins] ^f1c1-4
 
-**5** [by the greatness of your goodness and in the abundance of your compassion, to make them stand in your presence for ever and ever. Fo]r [you 1QHa XXVI, 1Q35 *[p. 205]* are an eternal] God, ^f1c1-5
+**5** [by the greatness of your goodness and in the abundance of your compassion, to make them stand in your presence for ever and ever. Fo]r [you *[p. 205]* are an eternal] God, ^f1c1-5
 
 **6** [and all your paths remain from eternity to eternity. And there is no-one apart from you. What] is ^f1c1-6
 

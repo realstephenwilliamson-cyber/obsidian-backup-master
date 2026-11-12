@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 अष्टादश विजानीयाद्भुवनानि समासतः ।
-शिवतत्त्वम्परम्शान्तम्कला तत्रावकाशदा ॥ ^mula
+शिवतत्त्वं परं शान्तं कला तत्रावकाशदा ॥ ^mula
 
 aṣṭādaśa vijānīyād bhuvanāni samāsataḥ |
 śivatattvam param śāntam kalā tatrāvakāśadā || ^iast

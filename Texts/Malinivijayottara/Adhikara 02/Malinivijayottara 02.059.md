@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 ब्रह्मा विष्णुश्च रुद्रश्च ईश्वरश्चेति सुव्रते ।
-पृथगेतेषु बोद्धव्यम्शान्तम्पतिचतुष्टयम् ॥ ^mula
+पृथगेतेषु बोद्धव्यं शान्तं पतिचतुष्टयम् ॥ ^mula
 
 brahmā viṣṇuś ca rudraś ca īśvaraś ceti suvrate |
 pṛthag eteṣu boddhavyam śāntam paticatuṣṭayam || ^iast

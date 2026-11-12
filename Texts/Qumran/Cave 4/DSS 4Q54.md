@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | 1 Kings 7:20-21 |
-| Frag. 6 | 1 Kings 7:51 - 8:9 |
 | Frag. 2 i | 1 Kings 7:25-27 |
-| Frag. 7 | 1 Kings 8:16-18 |
 | Frag. 3-4 | 1 Kings 7:29-31 |
-| Frag. 8 | ? |
 | Frag. 5 | 1 Kings 7:31-42 |
+| Frag. 6 | 1 Kings 7:51 - 8:9 |
+| Frag. 7 | 1 Kings 8:16-18 |
+| Frag. 8 | ? |
 
 [[DSS 4Q53|← 4Q53]] · [[Qumran|index]] · [[DSS 4Q55|4Q55 →]]

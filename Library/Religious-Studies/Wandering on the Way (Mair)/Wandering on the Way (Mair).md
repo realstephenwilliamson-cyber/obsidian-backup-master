@@ -4,7 +4,7 @@ title: "Wandering on the Way: Early Taoist Tales and Parables of Chuang Tzu"
 author:
   - Chuang Tzu
 work: "[[Chuang Tzu - Wandering on the Way]]"
-source_pdf: Library/Other/Chuang Tzu - Wandering on the Way (1994).pdf
+source_pdf: Library/Religious-Studies/Chuang Tzu - Wandering on the Way (1994).pdf
 pages: 468
 text_source: the PDF's OCR text layer, its junk words (digits for italic words, stray Devanagari) replaced from a fresh OCR (Tesseract 5, eng+san) of the page images; pages without a layer read by the fresh OCR. Stephen's decision of 8 Oct 2026
 converted: 2026-10-08

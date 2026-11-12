@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-भूततत्त्वाभिधानानाम्योगोऽधिष्ठेय इष्यते  ।
-पिण्डस्थमिति तम्प्राहुः पदस्थमपरम्विदुः ॥ ^mula
+भूततत्त्वाभिधानानां योगोऽधिष्ठेय इष्यते  ।
+पिण्डस्थमिति तं प्राहुः पदस्थमपरं विदुः ॥ ^mula
 
 bhūtatattvābhidhānānām yogo 'dhiṣṭheya iṣyate[^57] |
 piṇḍastham iti tam prāhuḥ padastham aparam viduḥ || ^iast

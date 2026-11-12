@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q329a"
-title: "4QCal endrical Document G"
+title: "4QCalendrical Document G"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "704–705"
@@ -10,7 +10,7 @@ aliases:
   - "4Q329a"
   - "4QCalendrical Doc G"
 ---
-# 4Q329a (4QCalendrical Doc G) · 4QCal endrical Document G
+# 4Q329a (4QCalendrical Doc G) · 4QCalendrical Document G
 
 [[DSS 4Q329|← 4Q329]] · [[Qumran|index]] · [[DSS 4Q330|4Q330 →]]
 

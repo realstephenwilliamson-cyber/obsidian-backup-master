@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-तत्रैतत्प्रथमम्चिह्नम्रुद्रे भक्तिः सुनिश्चला ।
-द्वितीयम्मन्त्रसिद्धिः स्यात्सद्यः प्रत्ययकारिका ॥ ^mula
+तत्रैतत्प्रथमं चिह्नं रुद्रे भक्तिः सुनिश्चला ।
+द्वितीयं मन्त्रसिद्धिः स्यात्सद्यः प्रत्ययकारिका ॥ ^mula
 
 tatraitat prathamam cihnam rudre bhaktiḥ suniścalā |
 dvitīyam mantrasiddhiḥ syāt sadyaḥ pratyayakārikā || ^iast

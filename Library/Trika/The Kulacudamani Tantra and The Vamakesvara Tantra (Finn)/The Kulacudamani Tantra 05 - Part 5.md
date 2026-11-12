@@ -36,7 +36,7 @@ because: (in due order) of its mastery, of the colours, of Nandī etc., of the l
 
 because it is in the form of the Gaṇapati tithí, because of the lordship of the vidyās, because of the letters of the lords of the two ganas and because of the lordship of the world,[^65] (ganeśa stands for) the cakra of nine.[^66]
 
-[^63]: Siddhis are supernatural powers of which eight are traditionally enumerated. They are Animā (smallness), Laghimā (Lightness), Prāpti (power to obtain everything), Prakāmyam (Trreststable will), Mahimā (largeness), Isitvam (supremacy), Vasitvam (power to subjugate) and Kāmāvasāyitā (complete satisfaction). Siz of the above correspond to this traditional list. The other four (Bhukti, Icchā, Mokga and Rasa - the highest attainment in some Tantric schools) vary the tradition and increase the stddhis to ten.
+[^63]: Siddhis are supernatural powers of which eight are traditionally enumerated. They are Animā (smallness), Laghimā (lightness), Prāpti (power to obtain everything), Prakāmyam (irresistable will), Mahimā (largeness), Īśitvam (supremacy), Vaśitvam (power to subjugate) and Kāmāvasāyitā (complete satisfaction). Six of the above correspond to this traditional list. The other four (Bhukti, Icchā, Mokṣa and Rasa - the highest attainment in some Tantric schools) vary the tradition and increase the siddhis to ten.
 
 [^64]: "Vidyās" are mantras that embody feminine detties. There are eight vidyās associated with the Śrícakra. The reason why Jayaratha refers to the number of siddhis, mudrās and vidyās tis to make the point that the other commentator does not demonstrate how all these can be made to correspond with the nine parts of the Sricakra. The offending verse is quoted below.
 [^65]: "Lordship of the world" tis mentioned because the ninth outer cakra ís called "Bhūpura" and it stands for the existent world.
@@ -174,11 +174,11 @@ having first worshipped this vidyā (called) Trailókya-
 
 mohint. "[^91] (4:67)
 
-[^89]: "Dākints are semi-divine female spirits whose powers are often of a malign nature. They are said to have evolved from the seven (sometimes eight) Mātrkāãs Brahmt ete.. These "demonesses" are of considerable tmportance in Tantrie Buddhism.
+[^89]: "Ḍākinīs are semi-divine female spirits whose powers are often of a malign nature. They are said to have evolved from the seven (sometimes eight) Mātṛkās Brahmī etc.. These "demonesses" are of considerable importance in Tantric Buddhism.
 
-[^90]: See footnote 10 for a deftnitton of "yogints". The reference to this verse is given as "3:50", but it actually oceurs at 3:19.
+[^90]: See footnote 10 for a definition of "yoginīs". The reference to this verse is given as "3:50", but it actually occurs at 3:19.
 
-[^91]: A "vidyā" is a feminine mantra. The fifteen syllable mantra (of whteh a one-third part is known as "Vāgbhava") is here referred to as Trailokyamohint and it is only after having worshipped this mantra that Viṣnu assumed the epithet of Trailokyamohana - the "charm of the three worlds". At Least such is the Tantric explanation.
+[^91]: A "vidyā" is a feminine mantra. The fifteen syllable mantra (of which a one-third part is known as "Vāgbhava") is here referred to as Trailokyamohinī and it is only after having worshipped this mantra that Viṣṇu assumed the epithet of Trailokyamohana - the "charm of the three worlds". At least such is the Tantric explanation.
 
 *[p. 172]* ^pg168
 
@@ -448,15 +448,15 @@ TURMOIL.[^142]
 
 (wholly) dependant on Herself. As for h t "gn
 
-[^139]: The word "ahan" means "I", but it also represents the entire alphabet as the word begins and ends with the first and last letters of the alphabet. Therefore it is doubly symbolte of creation for it sums up the span of creation as symbolized by the alphabet, and it signifies the "I-ness" or self-awareness whieh ts the precondition for creation.
+[^139]: The word "ahaṃ" means "I", but it also represents the entire alphabet as the word begins and ends with the first and last letters of the alphabet. Therefore it is doubly symbolic of creation for it sums up the span of creation as symbolized by the alphabet, and it signifies the "I-ness" or self-awareness which is the precondition for creation.
 
-[^140]: The Goddess ís of the nature of "ahaṇ" and the whole alphabet symbolizing the totality of being. Within that scope She tis more specifically the dynamice gakti immanent in the universe. "Ka" therefore symbolizes the first manifestation of the universe and "sa" (or "ha") is the last. The two letters form the conjunet "kga".
+[^140]: The Goddess is of the nature of "ahaṃ" and the whole alphabet symbolizing the totality of being. Within that scope She is more specifically the dynamic śakti immanent in the universe. "Ka" therefore symbolizes the first manifestation of the universe and "sa" (or "ha") is the last. The two letters form the conjunct "kṣa".
 
 [^141]: See Part II and the "Introd. to the Philo. of the Texts".
 
-[^142]: "Olija" is the churning stiek. Although She is responsible for the ocean of phenomena which She ts churning up, She ts essen- tially undisturbed by it.
+[^142]: "Olija" is the churning stick. Although She is responsible for the ocean of phenomena which She is churning up, She is essen- tially undisturbed by it.
 
-[^143]: "Vikalpa" usually means "alteration, permutation, modification" ete., but in this contest it refers to a classification in the philosophy of Kashmir Satvtism.
+[^143]: "Vikalpa" usually means "alteration, permutation, modification" etc., but in this context it refers to a classification in the philosophy of Kashmir Śaivism.
 
 *[p. 183]* ^pg179
 
@@ -601,7 +601,7 @@ We pause (here) over the remark that "in this verse there is also an indirect in
 
 End of commentary on Verse 12.
 
-[^163]: The Goddess is a treasure house because through the agency of the siddha yoginīs, She dispenses creation over the course of the four yugas. Gradually the yugas lose their divine impetus and when the final phase is reached in dissolution, the Goddess once again re-initiates the cycle. Each phase is correlated with a particular location or pîgha demonstrating the twin aspects of space and time in relation to the ereative process.
+[^163]: The Goddess is a treasure house because through the agency of the siddha yoginīs, She dispenses creation over the course of the four yugas. Gradually the yugas lose their divine impetus and when the final phase is reached in dissolution, the Goddess once again re-initiates the cycle. Each phase is correlated with a particular location or pīṭha demonstrating the twin aspects of space and time in relation to the creative process.
 
 [^164]: Literally: "out of place"; Skt.: "astkane".
 [^165]: The idea to which Jayaratha objeets ts that the verse hints at the pūjā arrangement for the eighth and ninth cakras. He takes this as an example of the addled thinking that persists in reading more into the verse than ts actually intended.
@@ -693,7 +693,7 @@ THE SEA OF THE SIXTEEN VIDYĀS THAT
 
 [^171]: The word vidyā has a double meaning that can refer either to a goddess, or to her sound equivalent the mantra.
 
-[^172]: This verse marks the actual „beginning of the "Nityāṣodağikārṇava" part of the Vāmakeśvarimatam or Vāmakeśvara Tantra.
+[^172]: This verse marks the actual beginning of the "Nityāṣoḍaśikārṇava" part of the Vāmakeśvarīmatam or Vāmakeśvara Tantra.
 
 *[p. 192]* ^pg188
 
@@ -813,7 +813,7 @@ In the prior (quote) the down pointing triangle is described with the word "trya
 [^181]: One of the meanings of "bhaga" ts "female genital area"  having the shape therefore of a downward potnting triangle.
 
 [^183]: See footnote 182.
-[^184]: Jayaratha has been pointing out in how many different and misleading ways the words "tryasra, bhaga" and "yoni" can be used. For example, it would have been more sensible to have used the word bhaga or yoni in the first of the immediate above quotes (because the tintertor triangle points down), and to have used the word "tryasra" in the second, as there are many upward pointing triangles among the forty-nine. To these the words "bhaga" and "yoni" do not properly apply.
+[^184]: Jayaratha has been pointing out in how many different and misleading ways the words "tryaśra, bhaga" and "yoni" can be used. For example, it would have been more sensible to have used the word bhaga or yoni in the first of the immediate above quotes (because the interior triangle points down), and to have used the word "tryaśra" in the second, as there are many upward pointing triangles among the forty-nine. To these the words "bhaga" and "yoni" do not properly apply.
 
 [^182]: The reference here is probably to the figure illustrated on page 458 of the Sanskrit text and reproduced on p.268 of the translation.
 

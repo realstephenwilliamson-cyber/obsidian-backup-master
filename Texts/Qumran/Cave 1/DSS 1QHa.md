@@ -116,7 +116,7 @@ aliases:
 
 **27** […] and I will consider every human treaty […] they shall ﬁnd it ^4-27
 
-**28** […] … and those who love it […] for ever and ever. 1QHa IV ^4-28
+**28** […] … and those who love it […] for ever and ever. ^4-28
 
 ### Col. v (Sukenik col. xiii + frags. 15a + 15b i + 31 + 17 + 20 + 33 + frag.
 
@@ -172,7 +172,7 @@ Puech)
 
 **25** thanks to the spirit you have placed in me […] and all your deeds are just, and your word does not depart, and a[ll] ^5-25
 
-**26** your periods are 1QHa V *[p. 153]* ﬁxed [… pu]rified for their affairs. And I shall know […] ^5-26
+**26** your periods are *[p. 153]* ﬁxed [… pu]rified for their affairs. And I shall know […] ^5-26
 
 **27** the wicked […] so that he may realise […] ^5-27
 
@@ -228,7 +228,7 @@ Puech)
 
 **23** [I give] you [thanks,] Lord, according to greatness of your strength and the abundance of your wonders from eternity and for [eternity. You are lof]ty, great, ^6-23
 
-**24** [lavish in fav]ours, forgiving those who turn away from offence, and punishing the iniquity of the wicked. [You love the truth] with a generous 1QHa V-VI *[p. 155]* ^6-24
+**24** [lavish in fav]ours, forgiving those who turn away from offence, and punishing the iniquity of the wicked. [You love the truth] with a generous *[p. 155]* ^6-24
 
 **25** [heart …] and you hate injustice, for ever. And myself, your servant, you have favoured me with the spirit of knowledge [to love tr]uth ^6-25
 
@@ -242,7 +242,9 @@ Puech)
 
 **30** […] of the vault upon the wings of the wind and he … […] ^6-30
 
-### Col. vii (Sukenik col. xv + frags. 10 + 32 + 34 + 42; = 4Q427 3 i) 1 […] … […]
+### Col. vii (Sukenik col. xv + frags. 10 + 32 + 34 + 42; = 4Q427 3 i)
+
+**1** […] … […] ^7-1
 
 **2** […] … I have received intelligence […] ^7-2
 
@@ -286,7 +288,7 @@ Puech)
 
 **22** you command, but choose what you hate. You have established all those [who …] your […] to carry out great judgments against them ^7-22
 
-**23** before the eyes of all your creatures, so they 1QHa VI-VII *[p. 157]* will be a sign and a por[tent for] eternal [generations,] so that all will know your glory and your great might. ^7-23
+**23** before the eyes of all your creatures, so they *[p. 157]* will be a sign and a por[tent for] eternal [generations,] so that all will know your glory and your great might. ^7-23
 
 **24** What, then, is ﬂesh, to understand [your mysteries?] How can dust direct its steps? Blank ^7-24
 
@@ -350,7 +352,7 @@ Puech)
 
 **22** in your presence [for ev]er. [May … not] associate with the spirit of your servant or with all [his] works […] ^8-22
 
-**23** […] May no afﬂiction [come] upon him which would let him fall away 1QHa VII-VIII *[p. 159]* from the precepts of your covenant! For […] ^8-23
+**23** […] May no afﬂiction [come] upon him which would let him fall away *[p. 159]* from the precepts of your covenant! For […] ^8-23
 
 **24** your face. And I kn[ow that you are a lenient] and compassionate [God,] s[lo]w to a[ng]er, full of kindness and of truth, who forgives offence […] ^8-24
 
@@ -408,7 +410,7 @@ Puech)
 
 **23** knowledge, terriﬁed by your just judgments. What can I say which is not known? Or declare which has not been told? Everything ^9-23
 
-**24** has been engraved before you with the stylus of remembrance for all the incessant periods and the cycles of the number of 1QHa VIII-IX *[p. 161]* everlasting years in all their predetermined times, ^9-24
+**24** has been engraved before you with the stylus of remembrance for all the incessant periods and the cycles of the number of *[p. 161]* everlasting years in all their predetermined times, ^9-24
 
 **25** and they will not be hidden, and will not be lacking from before you. How will a man count his sin? How will he defend his iniquities? ^9-25
 
@@ -460,7 +462,7 @@ Puech)
 
 **10** and a mockery of traitors, a foundation of truth and of knowledge for those on the straight path. Blank Because of the iniquity of the wicked I have become ^10-10
 
-**11** the target of slander on the lips of violent men, the scoffers ground their teeth. I 1QHa IX-X *[p. 163]* have become a laughing-stock for offenders, ^10-11
+**11** the target of slander on the lips of violent men, the scoffers ground their teeth. I *[p. 163]* have become a laughing-stock for offenders, ^10-11
 
 **12** and the assembly of the wicked is roused against me; they roar like the breakers of the seas: when their waves beat they spew out slime ^10-12
 
@@ -508,7 +510,7 @@ Puech)
 
 **34** and a reproof in the mouth of all who search deceit. Blank But you, my God, have freed the soul of the poor and needy ^10-34
 
-**35** from the hand of someone stronger than him; from the hand of the powerful you have saved my 1QHa X *[p. 165]* soul, and at their taunts you have not let me lose heart ^10-35
+**35** from the hand of someone stronger than him; from the hand of the powerful you have saved my *[p. 165]* soul, and at their taunts you have not let me lose heart ^10-35
 
 **36** so as to desert your service from fear of destruction by the wicked and exchange a ﬁrm purpose for follies which ^10-36
 
@@ -562,7 +564,7 @@ Puech)
 
 **22** the host of the holy ones, and can enter in communion with the congregation of the sons of heaven. You cast eternal destiny for man with the spirits of ^11-22
 
-**23** knowledge, 1QHa X-XI *[p. 167]* so that he praises your name in the community of jubilation, and tells of your wonders before all your creatures. But I, a creature of ^11-23
+**23** knowledge, *[p. 167]* so that he praises your name in the community of jubilation, and tells of your wonders before all your creatures. But I, a creature of ^11-23
 
 **24** clay, what am I? Mixed with water, as whom shall I be considered? What is my strength? For I ﬁnd myself at the boundary of wickedness ^11-24
 
@@ -612,7 +614,7 @@ Puech)
 
 **7** [… ] … they lure them, and mediators of deceit [mis]direct them, so that they come to ruin without perceiving it. For [they carry out] ^12-7
 
-**8** their deeds in folly. For I have been rejected by them, and they do not esteem me when you made yourself 1QHa XI-XII *[p. 169]* great through me; for they drive me from my land ^12-8
+**8** their deeds in folly. For I have been rejected by them, and they do not esteem me when you made yourself *[p. 169]* great through me; for they drive me from my land ^12-8
 
 **9** like a bird from its nest; all my friends and my acquaintances have been driven away from me, and rank me like a broken jug. But they are mediators of ^12-9
 
@@ -654,7 +656,7 @@ Puech)
 
 **28** By your wondrous counsel you have strengthened my position and worked wonders in the presence of the Many on account of your glory, and to show ^12-28
 
-**29** your powerful acts to all living things. What is ﬂesh 1QHa XII *[p. 171]* compared to this? What creature of clay can do wonders? He is in iniquity ^12-29
+**29** your powerful acts to all living things. What is ﬂesh *[p. 171]* compared to this? What creature of clay can do wonders? He is in iniquity ^12-29
 
 **30** from his maternal womb, and in guilt of unfaithfulness right to old age. But I know that justice does not belong to man nor to a son of Adam a perfect ^12-30
 
@@ -704,7 +706,7 @@ Puech)
 
 **12** revealing your salvation to me. For in the distress of my soul you did not desert me, you heard my call in the bitterness of my soul, ^13-12
 
-**13** you paid attention to the outcry of my pain in my complaint and saved {my} the soul of the poor 1QHa XII-XIII *[p. 173]* man in the lair of lions, who sharpen their tongue like swords. ^13-13
+**13** you paid attention to the outcry of my pain in my complaint and saved {my} the soul of the poor *[p. 173]* man in the lair of lions, who sharpen their tongue like swords. ^13-13
 
 **14** And you, my God, you closed {their tongue} their teeth so they would not rip up {my} the soul of the poor and wretched; their tongue has been drawn in ^13-14
 
@@ -746,7 +748,7 @@ Puech)
 
 **33** have opened a broad space in my heart but they have increased the narrowness and have wrapped me in darkness. I am eating the bread of weeping, ^13-33
 
-**34** my drink 1QHa XIII *[p. 175]* is tears without end. For my eyes are blinded by the grief and my soul by the bitterness of the day. Agony and pain ^13-34
+**34** my drink *[p. 175]* is tears without end. For my eyes are blinded by the grief and my soul by the bitterness of the day. Agony and pain ^13-34
 
 **35** surround me, shame covers my face, my bread has turned into quarrel and my drink into argument. They have entered in [my] bones ^13-35
 
@@ -796,7 +798,7 @@ Puech)
 
 **18** inexhaustible, in its shining ﬂames all the son[s of injustice] will burn [and it will be turned] into a ﬁre that singes all the men of ^14-18
 
-**19** guilt until destruction. But those, followers of my 1QHa XIII-XIV *[p. 177]* testimony, have allowed themselves to be enticed by those spread[ing lies] … in the service of justice, ^14-19
+**19** guilt until destruction. But those, followers of my *[p. 177]* testimony, have allowed themselves to be enticed by those spread[ing lies] … in the service of justice, ^14-19
 
 **20** even though you, God, commanded them to seek fortune far from their paths, [walking] on [your] ho[ly] path, on which the uncircumcised, the unclean, the vicious, ^14-20
 
@@ -850,7 +852,7 @@ Puech)
 
 **6** Blank I give you thanks, Lord, because you have sustained me with your strength, ^15-6
 
-**7** you have spread your holy spirit over me so that I will not stumble, 1QHa XIV-XV *[p. 179]* you have fortiﬁed me against the wars of wickedness, and in all their calamities ^15-7
+**7** you have spread your holy spirit over me so that I will not stumble, *[p. 179]* you have fortiﬁed me against the wars of wickedness, and in all their calamities ^15-7
 
 **8** you have n[ot] discouraged (me) from your covenant. You placed me like a sturdy tower, like a high wall, you founded upon rock, ^15-8
 
@@ -900,7 +902,7 @@ Puech)
 
 **31** to make them stand in your presence, for ever and ever. Blank For you are an eternal God and all your paths remain from eternity ^15-31
 
-**32** [to e]ter[nity.] And 1QHa XV *[p. 181]* there is no-one apart from you. What is the man of emptiness, or the owner of futility, to understand your wonderful [great] deeds? ^15-32
+**32** [to e]ter[nity.] And *[p. 181]* there is no-one apart from you. What is the man of emptiness, or the owner of futility, to understand your wonderful [great] deeds? ^15-32
 
 **33** Blank ^15-33
 
@@ -954,7 +956,7 @@ Puech)
 
 **21** By my hand you have opened their spring with channels [of water …] to turn their […] to the correctly measured position, and the planting of ^16-21
 
-**22** their trees with the plumb- 1QHa XV-XVI *[p. 183]* line of the sun, so that […] with foliage of glory. When I stretch my hand to dig out ^16-22
+**22** their trees with the plumb-line *[p. 183]* of the sun, so that […] with foliage of glory. When I stretch my hand to dig out ^16-22
 
 **23** its ditches, its roots pierce the rock of silex, […] their trunk into the earth, and in the time of heat it retains ^16-23
 
@@ -1014,7 +1016,7 @@ Puech)
 
 **10** your truth. I have chosen my judgment, I have been pleased with my afﬂictions, because I hope for your kindness. You have placed ^17-10
 
-**11** a plea in the mouth of your servant, you have not threatened 1QHa XVI-XVII *[p. 185]* my life, nor have you removed my well-being, nor have you deserted ^17-11
+**11** a plea in the mouth of your servant, you have not threatened *[p. 185]* my life, nor have you removed my well-being, nor have you deserted ^17-11
 
 **12** my expectation; rather, in the face of the afﬂiction you have upheld my spirit, for you have established my spirit and you know my intentions. ^17-12
 
@@ -1074,7 +1076,7 @@ Puech)
 
 **40** […] unceasingly […] ^17-40
 
-**41** […] … and praise […] 1QHa XVII ^17-41
+**41** […] … and praise […] ^17-41
 
 ### Col. xviii (Sukenik col. x; = 4Q427 3 i)
 
@@ -1134,7 +1136,7 @@ Puech)
 
 **28** the one more than the other. And so for the son of [your] maid-[servant …] you have increased his legacy ^18-28
 
-**29** in the knowledge of your truth, and according to his insight and … […] The soul of 1QHa XVIII *[p. 189]* your servant loathes wealth ^18-29
+**29** in the knowledge of your truth, and according to his insight and … […] The soul of *[p. 189]* your servant loathes wealth ^18-29
 
 **30** and robbery, and in the afﬂuence of luxuries he does not …. My heart rejoices in your covenant and in your truth ^18-30
 
@@ -1188,7 +1190,7 @@ Puech)
 
 **17** you have revealed [yo]ur [wonder]s to me, and I have contemplated […] of kindness. And I know ^19-17
 
-**18** [that] the justice belongs to you, and in 1QHa XVIII-XIX *[p. 191]* your kindness there is […] and destruction without your compassion. ^19-18
+**18** [that] the justice belongs to you, and in *[p. 191]* your kindness there is […] and destruction without your compassion. ^19-18
 
 **19** As for me, a source of bitter sorrow has opened for me, […] grief has not been hidden from my eyes, ^19-19
 
@@ -1242,7 +1244,7 @@ Puech)
 
 **6** light, when the dominion of the darkness begins; at the appointed moment of the night; through its course towards the return of dawn, at the moment ^20-6
 
-**7** when it withdraws to its quarter before the light; at the departure of night and the coming 1QHa XIX-XX *[p. 193]* of day; continually, at all ^20-7
+**7** when it withdraws to its quarter before the light; at the departure of night and the coming *[p. 193]* of day; continually, at all ^20-7
 
 **8** the births of time, the foundations of the period, and the course of seasons in their order, by their signs for all ^20-8
 
@@ -1314,7 +1316,7 @@ Puech)
 
 **4** [… Ho]w can I see if you do not open my eyes, and hear ^21-4
 
-**5** [if you do not open my ears? …] My [he]art is perturbed, because the word has been disclosed to an 1QHa XX-XXI *[p. 195]* uncircumcised ear and a […] heart ^21-5
+**5** [if you do not open my ears? …] My [he]art is perturbed, because the word has been disclosed to an *[p. 195]* uncircumcised ear and a […] heart ^21-5
 
 **6** […] And I know that you, my God, have done these things for yourself. And what is ﬂesh ^21-6
 
@@ -1402,7 +1404,7 @@ Puech)
 
 **11** [… you] loathe. And I, creature of clay, I have leaned ^22-11
 
-**12** … […] my God. I 1QHa XXI-XXII *[p. 197]* know that truth ^22-12
+**12** … […] my God. I *[p. 197]* know that truth ^22-12
 
 **13** is your mouth, [and you do not go] back [on your word]. And I, in my era, will keep ^22-13
 
@@ -1470,9 +1472,9 @@ Puech)
 
 **20** […] upon […] ^22b-20
 
-### Col. xxiii top (Sukenik col. xviii 1-16 i + frag. 57 i + 1 ii; = 4Q428 9) 1 your light,
+### Col. xxiii top (Sukenik col. xviii 1-16 i + frag. 57 i + 1 ii; = 4Q428 9)
 
-and you have established the lum[inaries …]
+**1** your light, and you have established the lum[inaries …] ^23-1
 
 **2** your light, without cea[se. …] ^23-2
 
@@ -1494,7 +1496,7 @@ and you have established the lum[inaries …]
 
 **11** you have inscribed according to the measuring cord [… to an]nounce from his knowledge to a creature, to mediate these matters ^23-11
 
-**12** to dust such as me. You 1QHa XXII-XXIII *[p. 199]* have opened a spr[ing] to rebuke the path of the fashioned from clay, the guilt of the one born of ^23-12
+**12** to dust such as me. You *[p. 199]* have opened a spr[ing] to rebuke the path of the fashioned from clay, the guilt of the one born of ^23-12
 
 **13** woman according to his deeds, to open the sp[rin]g of your truth to the creature whom you have supported with your power, ^23-13
 
@@ -1504,9 +1506,41 @@ and you have established the lum[inaries …]
 
 **16** […]…[…] ^23-16
 
-### Col. xxiii bottom (Sukenik frag. 2 i) 1-2 […] … […] 3 […] and in your land and
+### Col. xxiii bottom (Sukenik frag. 2 i)
 
-among the sons of gods and among the son[s of …] … […] 4 […] your […] and to recount all your glory. And I, what am I? For from the dust I have been taken and t[o] 5 [the dust I will return. For] your [gl]ory have you done all this. Give according to the abundance of your kindness the observance of your justice. 6 […] continually, until salvation. The mediators of knowledge are with all my steps, the reproachers of truth 7 […] For, what is dust in [their] palms? [The wo]rk of ash between their hands? They are nothing. But you 8 […] clay […] your will. Upon stones (?) do you put me as a test 9 […] and upon the dust you stretch out the spirit 10 […] in the mud [… the so]ns of gods, to be in communion with the sons of heaven. 11 [… et]ernal, without return of darkness. For 12 […] and light you have revealed, but not in order to make […] return 13 […] you have stretched out your [h]oly [spirit] to cover up guilt 14 [… at]tendants with your host and those who walk 15 […] … from before your presence, because they have been established in your truth 16 […] you have done these wonders for your glory. And spat saliva 17 […] … the injustice of the abominable creature. 18 […] abominable [crea]ture.
+**1–2** […] … […] ^23b-1-2
+
+**3** […] and in your land and among the sons of gods and among the son[s of …] … […] ^23b-3
+
+**4** […] your […] and to recount all your glory. And I, what am I? For from the dust I have been taken and t[o] ^23b-4
+
+**5** [the dust I will return. For] your [gl]ory have you done all this. Give according to the abundance of your kindness the observance of your justice. ^23b-5
+
+**6** […] continually, until salvation. The mediators of knowledge are with all my steps, the reproachers of truth ^23b-6
+
+**7** […] For, what is dust in [their] palms? [The wo]rk of ash between their hands? They are nothing. But you ^23b-7
+
+**8** […] clay […] your will. Upon stones (?) do you put me as a test ^23b-8
+
+**9** […] and upon the dust you stretch out the spirit ^23b-9
+
+**10** […] in the mud [… the so]ns of gods, to be in communion with the sons of heaven. ^23b-10
+
+**11** [… et]ernal, without return of darkness. For ^23b-11
+
+**12** […] and light you have revealed, but not in order to make […] return ^23b-12
+
+**13** […] you have stretched out your [h]oly [spirit] to cover up guilt ^23b-13
+
+**14** [… at]tendants with your host and those who walk ^23b-14
+
+**15** […] … from before your presence, because they have been established in your truth ^23b-15
+
+**16** […] you have done these wonders for your glory. And spat saliva ^23b-16
+
+**17** […] … the injustice of the abominable creature. ^23b-17
+
+**18** […] abominable [crea]ture. ^23b-18
 
 ### Col. xxiv top (Sukenik col. xviii 1-16 ii + frags. 57 ii + 9 + 50; = 4Q428
 
@@ -1552,7 +1586,7 @@ among the sons of gods and among the son[s of …] … […] 4 […] your […] 
 
 **7** […] (they) will be condemned as guilty during their lives […] ^24a-7
 
-**8** […] … […] 1QHa XXIII-XXIV ^24a-8
+**8** […] … […] ^24a-8
 
 ### Col. xxiv bottom (Sukenik frags. 6 + 2 ii)
 
@@ -1656,7 +1690,7 @@ among the sons of gods and among the son[s of …] … […] 4 […] your […] 
 
 **9** on me and [… will not be considered for me. Sing, favoured ones, sing to the king of glory,] ^26-9
 
-**10** rejoice [in the assembly of God, exult in the tent of salvation, praise in the 1QHa XXIV-XXVI *[p. 203]* holy residence,] ^26-10
+**10** rejoice [in the assembly of God, exult in the tent of salvation, praise in the *[p. 203]* holy residence,] ^26-10
 
 **11** exalt [together with the eternal host, ascribe greatness to our God and glory to our King; sanctify] ^26-11
 

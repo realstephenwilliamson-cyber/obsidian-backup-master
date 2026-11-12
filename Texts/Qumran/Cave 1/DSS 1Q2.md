@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Exod 16:12-16 |
-| Frag. 5-6 | Exod 20:25 - 21:1 |
 | Frag. 2-3 | Exod 19:24 - 20:1 |
-| Frag. 7 | Exod 21:4-5 |
 | Frag. 4 | Exod 20:5-6 |
+| Frag. 5-6 | Exod 20:25 - 21:1 |
+| Frag. 7 | Exod 21:4-5 |
 | Frag. 8-13 | ? |
 
 [[DSS 1Q1|← 1Q1]] · [[Qumran|index]] · [[DSS 1Q3|1Q3 →]]

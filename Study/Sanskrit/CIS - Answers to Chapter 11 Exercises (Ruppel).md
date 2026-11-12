@@ -7,7 +7,7 @@ work: "[[The Cambridge Introduction to Sanskrit - Answers to Chapter 11 Exercise
 source_pdf: Library/Sanskrit/Chapter_11.pdf
 page_range: "1"
 pdf_pages: 1–1
-text_source: PDF text layer (born-digital), PyMuPDF; Devanagari the text layer garbles rebuilt from the printed transliteration or read from the page image
+text_source: PDF text layer (born-digital), PyMuPDF; glyphs the text layer cannot map (an l with a tilde in item 4) read from the page image
 converted: 2026-11-10
 ---
 # The Cambridge Introduction to Sanskrit: Answers to Chapter 11 Exercises
@@ -17,10 +17,10 @@ Antonia M. Ruppel.
 Converted from the PDF on 10 Nov 2026. Each PDF page starts with `*[p. N]*`, the printed page number (or the PDF page where none is printed), ending in the block id `^pgK` for PDF page K. The PDF stays on the computer: open it from [[The Cambridge Introduction to Sanskrit - Answers to Chapter 11 Exercises|the catalog note]].
 
 > [!note] Devanagari
-> The PDF's text layer garbles most of the Devanagari. It is rebuilt here from the printed transliteration; check it against the PDF when it matters.
+> This page prints no Devanagari words, only the daṇḍas (। ॥), which the text layer gives as printed. Four glyphs in Latin letters that the text layer cannot map (items 1m and 4c, 4e, 4f) were read from the page image.
 
 > [!note] Item 1m
-> The PDF prints a missing-glyph box here; it is read as ḷ.
+> The PDF prints a missing-glyph box before the l here (shown as [missing glyph]); what it stands for is not given in the PDF.
 
 *[p. 1]* ^pg1
 
@@ -39,7 +39,7 @@ i\) -ggh-
 j\) -tt-
 k\) -mn-
 l\) -gl-
-m\) -ḷ -
+m\) -[missing glyph]l -
 n\) -ddh-
 o\) -annu-
 p\) -ṃst-
@@ -63,26 +63,21 @@ g\) -t + m-, - n + m-
 
 3\.
 a\) -t + l-
-b\) -t + vowel-/g-/gh-/d-/dh-/b- /bh-/y-/v-/r-/h-
-c\) -t + zero/k-/kh-/t-/th-/p-/ph- /ṣ-/s- d) -n + zero/vowel-/k-/kh-/g-/gh-/d-/dh-/p-/ph- /b-/bh-/n-/m-/y-/v-/r-/ṣ-/s-/h-
-e\) -k + vowel-/g- /gh-/j-/jh-/ḍ-/ḍh-/d-/dh-/b-/bh-/y-/v-/r-/l-/h-
-f\) -k + zero/k-/kh-/c-/ch-/ṭ-/ṭh-/t-/th-/p-/ph-/ś- /ṣ-/s-
-g\) -p + zero/k-/kh-/c-/ch-/ṭ-/ṭh-/t-/th-/p- /ph-/ś-/ṣ-/s-
+b\) -t + vowel-/g-/gh-/d-/dh-/b-/bh-/y-/v-/r-/h-
+c\) -t + zero/k-/kh-/t-/th-/p-/ph-/ṣ-/s-
+d\) -n + zero/vowel-/k-/kh-/g-/gh-/d-/dh-/p-/ph-/b-/bh-/n-/m-/y-/v-/r-/ṣ-/s-/h-
+e\) -k + vowel-/g-/gh-/j-/jh-/ḍ-/ḍh-/d-/dh-/b-/bh-/y-/v-/r-/l-/h-
+f\) -k + zero/k-/kh-/c-/ch-/ṭ-/ṭh-/t-/th-/p-/ph-/ś-/ṣ-/s-
+g\) -p + zero/k-/kh-/c-/ch-/ṭ-/ṭh-/t-/th-/p-/ph-/ś-/ṣ-/s-
 h\) -n + t-/th-
 
 4\.
 a\) -p, -b, -m
 b\) -m, -ṃ
-c\) -n, -ṃś, -ñ, - ṃṣ, -ṇ, -ṃs, -
-
-
+c\) -n, -ṃś, -ñ, -ṃṣ, -ṇ, -ṃs, -l̃
 d\) -t, -d, -c, -j, -ṭ, -ḍ, -n, -l
-e\) - ān, -āṃś, -āñ, -āṃṣ, -āṇ, -āṃs, -ā
-
-
-f\) -an, -ann, -añ, -aṃṣ, -aṇ, -aṃs, -a
-
-
+e\) -ān, -āṃś, -āñ, -āṃṣ, -āṇ, -āṃs, -āl̃
+f\) -an, -ann, -añ, -aṃṣ, -aṇ, -aṃs, -al̃
 
 5\.
 1\) vṛkṣāt patati/He falls from the tree. (‘flies from the tree’ if a bird is being talked about)
@@ -96,13 +91,21 @@ f\) -an, -ann, -añ, -aṃṣ, -aṇ, -aṃs, -a
 9\) kṣatriyān jayati/He defeats/conquers the warriors.
 (As always, 3rd Sg can imply ‘he’, ‘she’ or ‘it’.)
 
-6\. pūrvajanmakṛtaṃ karma taddaivamiti kathyate । tasmātpuruṣakāreṇa yatnaṃ kuryādatandritaḥ ॥
+6\.
+pūrvajanmakṛtaṃ karma taddaivamiti kathyate ।
+tasmātpuruṣakāreṇa yatnaṃ kuryādatandritaḥ ॥
 
-asmiṃstu nirguṇaṃ gotre nāpatyamupajāyate । ākare padmarāgāṇāṃ janma kācamaneḥ kutaḥ ॥
+asmiṃstu nirguṇaṃ gotre nāpatyamupajāyate ।
+ākare padmarāgāṇāṃ janma kācamaneḥ kutaḥ ॥
 
-yasmācca yena ca yathā ca yadā ca yacca । yāvacca yatra ca śubhāśubhamātmakarma ॥ tasmācca tena ca tathā ca tadā ca tacca । tāvacca tatra ca vidhātṛvaśādupaiti ॥
+yasmācca yena ca yathā ca yadā ca yacca ।
+yāvacca yatra ca śubhāśubhamātmakarma ॥
+tasmācca tena ca tathā ca tadā ca tacca ।
+tāvacca tatra ca vidhātṛvaśādupaiti ॥
 
-kaccijjñātīngurūnvṛddhāndaivatāṃstāpasānapi । caityāṃśca vṛkṣānkalyāṇānbrāhmaṇāṃśca namasyasi ॥ kaccicchokaḥ na manyuḥ vā tvayā protpādyate anagha ।
+kaccijjñātīngurūnvṛddhāndaivatāṃstāpasānapi ।
+caityāṃśca vṛkṣānkalyāṇānbrāhmaṇāṃśca namasyasi ॥
+kaccicchokaḥ na manyuḥ vā tvayā protpādyate anagha ।
 
 READINGS
 

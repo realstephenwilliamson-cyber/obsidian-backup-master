@@ -21,7 +21,7 @@
       const v = leaf.view; const vf = v && v.file ? v.file.path : null;
       const el = (v && v.previewMode && v.previewMode.containerEl) || (v && v.containerEl);
       const q = s => el ? el.querySelectorAll(s).length : -1;
-      const errEls = el ? [...el.querySelectorAll('.dataview-error, .dataview-error-box, .dataviewjs-error, .dataview-error-message, .bases-error, .markdown-embed-error, .callout-error')].filter(x => x.textContent.trim()) : [];
+      const errEls = el ? [...el.querySelectorAll('.dataview-error, .dataview-error-box, .dataviewjs-error, .dataview-error-message, .bases-error, .markdown-embed-error, .callout-error, .hp-error, .hp-notice, .vp-view-error')].filter(x => x.textContent.trim()) : [];
       const txt = el ? el.textContent.replace(/\s+/g, ' ') : '';
       R.push([f.path, { viewType: v && v.getViewType && v.getViewType(), viewFile: vf, sameFile: vf === f.path, mode: v && v.getMode && v.getMode(), dvBlocks: q('.block-language-dataviewjs, .block-language-dataview'), dvTables: q('table.dataview, .dataview.table-view-table, .dataview-list'), errors: errEls.map(x => x.className + ': ' + x.textContent.trim().slice(0, 200)), basesRows: q('.bases-tr, .bases-table-row, .bases-card, [class*="bases-"] tbody tr'), basesCount: (txt.match(/(\d+) (?:results?|items?)/) || [])[0] || null, bodyLen: txt.length, head: txt.slice(0, 200), consoleErrors: errs.slice(n0).map(e => e[1]), ms: Date.now() - t0 }]);
     }

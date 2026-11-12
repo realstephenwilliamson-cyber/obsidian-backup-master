@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-द्विविधः शक्तिसम्ज्ञोऽपि ज्ञातव्यः परमार्थतः ।
-पञ्चाशद्भेदभिन्नोऽयम्समावेशः प्रकीर्तितः ॥ ^mula
+द्विविधः शक्तिसंज्ञोऽपि ज्ञातव्यः परमार्थतः ।
+पञ्चाशद्भेदभिन्नोऽयं समावेशः प्रकीर्तितः ॥ ^mula
 
 dvividhaḥ śaktisamjño 'pi jñātavyaḥ paramārthataḥ |
 pañcāśadbhedabhinno 'yam samāveśaḥ prakīrtitaḥ || ^iast

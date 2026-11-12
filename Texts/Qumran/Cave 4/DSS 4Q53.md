@@ -22,9 +22,9 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | 1 Sam 25:30-32 |
-| Frag. 7-11 | 2 Sam 15:4-15 |
 | Frag. 2-5 | 2 Sam 14:7-21 |
-| Frag. 12 | ? |
 | Frag. 5-7 | 2 Sam 14:22 - 15:4 |
+| Frag. 7-11 | 2 Sam 15:4-15 |
+| Frag. 12 | ? |
 
 [[DSS 4Q52|← 4Q52]] · [[Qumran|index]] · [[DSS 4Q54|4Q54 →]]

@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-2 | Ps 2:1-8 |
-| Frag. 9 | Ps 18:15-17 ? |
 | Frag. 3 | Ps 9:3-7 |
-| Frag. 10 | Ps 19:4-8 |
 | Frag. 4-7 | Ps 12:5 - 14:6 |
-| Frag. 11 | Ps 25:2-7 |
 | Frag. 8 | Ps 17:9 - 18:12 |
+| Frag. 9 | Ps 18:15-17 ? |
+| Frag. 10 | Ps 19:4-8 |
+| Frag. 11 | Ps 25:2-7 |
 
 [[DSS 11Q6|← 11Q6]] · [[Qumran|index]] · [[DSS 11Q8|11Q8 →]]

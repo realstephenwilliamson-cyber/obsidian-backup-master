@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 यो हि यस्माद्गुणोत्कृष्टः स तस्मादूर्ध्व उच्यते ।
-एतत्ते कथितम्सर्वम्किमन्यत्परिपृच्छसि ॥ ^mula
+एतत्ते कथितं सर्वं किमन्यत्परिपृच्छसि ॥ ^mula
 
 yo hi yasmād guṇotkṛṣṭaḥ sa tasmād ūrdhva ucyate |
 etat te kathitam sarvam kim anyat paripṛcchasi || ^iast

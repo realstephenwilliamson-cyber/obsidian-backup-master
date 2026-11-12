@@ -4,7 +4,7 @@ title: "Gifts of the Goddess: Offerings of Dhāraṇī (Memory Enhancement), Man
 author:
   - Hillary Langberg
 work: "[[Langberg - Gifts of the Goddess]]"
-source_pdf: Library/Other/Langberg - Gifts of the Goddess, Sarasvati and Sri in the Sutra of Golden Light (2022).pdf
+source_pdf: Library/Religious-Studies/Langberg - Gifts of the Goddess, Sarasvati and Sri in the Sutra of Golden Light (2022).pdf
 pages: 50
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q388a"
-title: "4QPseudo-Mo sesc"
+title: "4QPseudo-Mosesc"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "780–781"
@@ -10,7 +10,7 @@ aliases:
   - "4Q388a"
   - "4QpsMosesc"
 ---
-# 4Q388a (4QpsMosesc) · 4QPseudo-Mo sesc
+# 4Q388a (4QpsMosesc) · 4QPseudo-Mosesc
 
 [[DSS 4Q388|← 4Q388]] · [[Qumran|index]] · [[DSS 4Q389|4Q389 →]]
 

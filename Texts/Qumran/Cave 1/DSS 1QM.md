@@ -77,7 +77,7 @@ aliases:
 
 **9** rest for Israel. During the thirty-ﬁve years of service, the war will be prepared during six years; and all the congregation together will prepare it. ^2-9
 
-**10** And the war of the divisions (will take place) dur- 1QM I-II *[p. 117]* ing the remaining twenty-nine years. During the ﬁrst year they shall wage war against Aram-Naharaim; during the second, against the sons of Lud; during the third ^2-10
+**10** And the war of the divisions (will take place) during *[p. 117]* the remaining twenty-nine years. During the ﬁrst year they shall wage war against Aram-Naharaim; during the second, against the sons of Lud; during the third ^2-10
 
 **11** they shall wage war against the remnant of the sons of Aram, against Uz and Hul, Togar and Mesha, who are beyond the Euphrates; during the fourth and ﬁfth, they shall wage war against the sons of Arpachsad; ^2-11
 
@@ -111,7 +111,7 @@ aliases:
 
 **8** God». And on the trumpets of the slain they shall write: «God’s mighty hand in the battle to fell all the slain of unfaithfulness». And on the trumpets of ambush they shall write: ^3-8
 
-**9** «God’s mysteries to destroy wickedness». And on the trumpets of pursuit they shall write: «God has struck all the sons of darkness, he shall not cause his wrath to return, until they are exterminated». 1QM II-III *[p. 119]* ^3-9
+**9** «God’s mysteries to destroy wickedness». And on the trumpets of pursuit they shall write: «God has struck all the sons of darkness, he shall not cause his wrath to return, until they are exterminated». *[p. 119]* ^3-9
 
 **10** And when they retreat from battle to return to the line, they shall write on the trumpets of retreat: «God has re-assembled». And on the trumpets of the path of return ^3-10
 
@@ -149,7 +149,7 @@ aliases:
 
 **9** Rule of the banners of the congregation. When they go out to battle they shall write on the ﬁrst banner: «God’s congregation»; on the second banner: «God’s camps»; on the third, ^4-9
 
-**10** «God’s tribes»; on the fourth: «God’s families»; on the ﬁfth: «God’s battalions»; on the sixth: «God’s As- 1QM III-IV *[p. 121]* sembly»; on the seventh: «Summoned by ^4-10
+**10** «God’s tribes»; on the fourth: «God’s families»; on the ﬁfth: «God’s battalions»; on the sixth: «God’s Assembly»; *[p. 121]* on the seventh: «Summoned by ^4-10
 
 **11** God»; on the eighth: «God’s armies»; and they shall write the list of their names in all their order. And when they approach for battle they shall write on their banners: ^4-11
 
@@ -187,7 +187,7 @@ aliases:
 
 **10** an artistic column. The point will be of shining white iron, work of a skilful craftsman, and will have an ear of wheat, of pure gold, in the centre of the point pointing towards ^5-10
 
-**11** the tip. The swords shall be of puriﬁed iron, reﬁned in a crucible and whitened like a mirror, work of a skilful craftsman; 1QM IV-V *[p. 123]* and it will have shapes of an ear of wheat, ^5-11
+**11** the tip. The swords shall be of puriﬁed iron, reﬁned in a crucible and whitened like a mirror, work of a skilful craftsman; *[p. 123]* and it will have shapes of an ear of wheat, ^5-11
 
 **12** of pure gold, encrusted in it on both sides. And it will have two straight channels right to the tip, two on each side. Length of the sword: one cubit ^5-12
 
@@ -229,7 +229,7 @@ aliases:
 
 **12** to the battle with the infantry-men shall be stallions, ﬂeet of foot, tame of mouth, long in wind, in the fullness of their days, trained for battle ^6-12
 
-**13** and disciplined to hearing [d]in and the sight of every display. And those who mount them shall be men, hardened 1QM V-VI *[p. 125]* in battle, trained in horsemanship. The range of ^6-13
+**13** and disciplined to hearing [d]in and the sight of every display. And those who mount them shall be men, hardened *[p. 125]* in battle, trained in horsemanship. The range of ^6-13
 
 **14** their days will be from thirty up to forty-ﬁve years. The horsemen of the array shall be between forty and ﬁfty years old. They ^6-14
 
@@ -273,7 +273,7 @@ aliases:
 
 **15** the priests and the levites. The priests will blow the two trumpets of muster [… of bat]tle upon ﬁfty shields, ^7-15
 
-**16** and ﬁfty infantrymen shall go out of the first gate 1QM VI-VII *[p. 127]* […] the ofﬁcers of the levites. And with ^7-16
+**16** and ﬁfty infantrymen shall go out of the first gate *[p. 127]* […] the ofﬁcers of the levites. And with ^7-16
 
 **17** each line they shall go out in accordance with this ru[le … the infan]trymen [shall go out] of the gates ^7-17
 
@@ -331,7 +331,7 @@ aliases:
 
 **5** warriors and six thousand on horse. All these shall pursue the enemy to exterminate them in God’s battle for ^9-5
 
-**6** eternal destruction. The priests shall blow the trumpets of 1QM VII-IX *[p. 129]* pursuit for them, and [they] shall divi[de] for the pursuit to destruction of all the enemy. And the cavalry ^9-6
+**6** eternal destruction. The priests shall blow the trumpets of *[p. 129]* pursuit for them, and [they] shall divi[de] for the pursuit to destruction of all the enemy. And the cavalry ^9-6
 
 **7** will make them return to the battle ﬁelds, until their annihilation. When the slain fall, the prie[st]s shall continue blowing at a distance, and they shall not enter ^9-7
 
@@ -379,7 +379,7 @@ aliases:
 
 **10** a nation of holy ones of the covenant, learned in the law, wise in knowledge, […] hearers of the glorious voice, seers of ^10-10
 
-**11** the holy angels, with 1QM IX-X *[p. 131]* opened ears, hearing profound things? [… You created] the dome of the sky, the army of luminaries, ^10-11
+**11** the holy angels, with *[p. 131]* opened ears, hearing profound things? [… You created] the dome of the sky, the army of luminaries, ^10-11
 
 **12** the task of the spirits, the dominion of the holy ones, the treasures of glo[ry, in the darkness] of the clouds; (you are) creator of the earth and of the laws of its divisions ^10-12
 
@@ -425,7 +425,7 @@ aliases:
 
 **14** sin on [their] gui[lty] heads, and to pronounce the justice of your truthful judgment on every son of man, and to make an everlasting name for yourself among the people of ^11-14
 
-**15** […] the wars, in order to show yourself great and holy in the eyes of the remainder of the peoples, so 1QM X-XI *[p. 133]* that they know […] ^11-15
+**15** […] the wars, in order to show yourself great and holy in the eyes of the remainder of the peoples, so *[p. 133]* that they know […] ^11-15
 
 **16** […] you shall carry out sentence on Gog and on all his gathering that has ga[th]ered to [him …] ^11-16
 
@@ -475,7 +475,7 @@ aliases:
 
 **1** and his brothers, the [pr]iests and the levites and all the elders of the array with him. And in their positions they shall bless the God of Israel and all the deeds of his truth and they shall damn ^13-1
 
-**2** there Belial and all the spirits of his lot. They shall begin speaking and say: «Blessed be the God of Israel for all his holy plan and for all the deeds of his truth, and blessed be 1QM XI-XIII *[p. 135]* ^13-2
+**2** there Belial and all the spirits of his lot. They shall begin speaking and say: «Blessed be the God of Israel for all his holy plan and for all the deeds of his truth, and blessed be *[p. 135]* ^13-2
 
 **3** all who serve him in justice, who know him in faith. Blank ^13-3
 
@@ -523,7 +523,7 @@ aliases:
 
 **6** the melting heart, and to open the mouth of the dumb to sing [God’s] marv[els], and to train feeble [hands] in warfare. Those with knocking knees he gives strength to stand upright, ^14-6
 
-**7** and vigor of loins to broken backs. By the poor in 1QM XIII-XIV *[p. 137]* spirit […] a hard heart. By the perfect ones of the path all the wicked peoples shall be destroyed. ^14-7
+**7** and vigor of loins to broken backs. By the poor in *[p. 137]* spirit […] a hard heart. By the perfect ones of the path all the wicked peoples shall be destroyed. ^14-7
 
 **8** None of their heroes will remain standing. But we are the rem[nant of your people. Bles]sed be your name, God of mercies, who guards the covenant with our fathers, and during ^14-8
 
@@ -569,7 +569,7 @@ aliases:
 
 **10** and to it go [their] desires, […] their refuge, their power disappears like smoke. All the assembly of ^15-10
 
-**11** their [ho]rdes … […] … will 1QM XIV-XV *[p. 139]* not be found. All the essence of their being swiftly vanishes ^15-11
+**11** their [ho]rdes … […] … will *[p. 139]* not be found. All the essence of their being swiftly vanishes ^15-11
 
 **12** [as a ﬂow]er in har[vest] ti[me …] Exert yourselves for God’s battle for today is the {day} /time/ of war ^15-12
 
@@ -617,7 +617,7 @@ aliases:
 
 **16** the mysteries of God. [You then, be strong, stand in the breach, and do not fear …] their […] … ^16-16
 
-**17** … […] 1QM XV-XVI ^16-17
+**17** … […] ^16-17
 
 ### Col. xvii (+ frag. 4; = 4Q491 11 ii)
 
@@ -667,7 +667,7 @@ aliases:
 
 **4** [… the trum]pets of remembrance and all the battle lines shall combine against them and shall divide up against all the c[amps of the Ki]ttim ^18-4
 
-**5** to 1QM XVII-XVIII (+1Q33) *[p. 143]* eliminate them. [… And] when the sun travels towards its setting on that day, the High Priest will take up position, likewise the priests and levites who are ^18-5
+**5** to *[p. 143]* eliminate them. [… And] when the sun travels towards its setting on that day, the High Priest will take up position, likewise the priests and levites who are ^18-5
 
 **6** with him and the ch[iefs of … and the men] of the array. And there they shall bless the God of Israel. They shall begin speaking and say: «Blessed be your name, God of gods, for ^18-6
 
@@ -711,7 +711,7 @@ aliases:
 
 **9** [Afterwards they shall gather in the ca]mp on that n[i]ght to rest until the morning. And in the morning they shall go out to the place of the line ^19-9
 
-**10** [where there fell the he]roes of the Kittim, the horde of Assyria and the army of all the 1QM XVIII-XIX (+1Q33) *[p. 145]* peoples that had gathered together, (to see) whether the slain ^19-10
+**10** [where there fell the he]roes of the Kittim, the horde of Assyria and the army of all the *[p. 145]* peoples that had gathered together, (to see) whether the slain ^19-10
 
 **11** [had died, without burial, which] had fallen there by God’s sword. And the Hi[gh] Priest will approach there, [and] his [se]cond, and [the priests,] ^19-11
 

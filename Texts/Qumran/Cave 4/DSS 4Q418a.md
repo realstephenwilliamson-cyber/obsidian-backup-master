@@ -11,7 +11,7 @@ aliases:
 ---
 # 4Q418a · 4QInstructione
 
-[[DSS 4Q418|← 4Q418]] · [[Qumran|index]] · [[DSS 4Q418c|4Q418c →]]
+[[DSS 4Q418|← 4Q418]] · [[Qumran|index]] · [[DSS 4Q418b|4Q418b →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
 > J. Strugnell, D.J Harrington, DJD XXXIV (forthcoming) PAM 41.997, 43.687 ROC 511 1Q26, 4Q415, 4Q416, 4Q417, 4Q418, 4Q423
@@ -40,18 +40,6 @@ aliases:
 
 **4** […] by omer and omer, by e[pha and epha …] ^f15-4
 
-**5** [… wh]ich is not toge[ther …] 4Q418b ROC 495 ^f15-5
+**5** [… wh]ich is not toge[ther …] ^f15-5
 
-### Frag. 1 (previously numbered 4Q418 115)
-
-**1** … […] ^f1-1
-
-**2** yo[ur] refuge […] … […] ^f1-2
-
-**3** Ps 107:26-27 They rise up to the mountains, and descend into the depth[s; their soul melts away in evil.] ^f1-3
-
-**4** [They stagger] and reel like a drunk, and all [their] wi[sdom is swallowed up.] ^f1-4
-
-**5** […] … in security […] ^f1-5
-
-[[DSS 4Q418|← 4Q418]] · [[Qumran|index]] · [[DSS 4Q418c|4Q418c →]]
+[[DSS 4Q418|← 4Q418]] · [[Qumran|index]] · [[DSS 4Q418b|4Q418b →]]

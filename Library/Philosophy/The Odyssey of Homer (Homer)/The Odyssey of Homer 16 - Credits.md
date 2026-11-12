@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Homer - The Odyssey (Lattimore tr.)]]"
 book: "[[The Odyssey of Homer (Homer)|The Odyssey of Homer (Homer)]]"
 order: 16
-source_pdf: Library/Other/Homer - The Odyssey of Homer (1965).pdf
+source_pdf: Library/Philosophy/Homer - The Odyssey of Homer (1965).pdf
 page_range: "413"
 pdf_pages: 413–413
 text_source: PDF text layer (born-digital), PyMuPDF

@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-उदितम्विपुलम्शान्तम्सुप्रसन्नमथापरम् ।
-मनोन्मनमनन्तम्च सर्वार्थम्सततोदितम् ॥ ^mula
+उदितं विपुलं शान्तं सुप्रसन्नमथापरम् ।
+मनोन्मनमनन्तं च सर्वार्थं सततोदितम् ॥ ^mula
 
 uditam vipulam śāntam suprasannamathāparam |
 manonmanam anantam ca sarvārtham satatoditam || ^iast

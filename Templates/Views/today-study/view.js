@@ -1,6 +1,6 @@
 // Today's study block for Home: progress in the Tantrāloka plan, today's portion, Dyczkowski pages,
 // parashah and lectionary, buttons for today's and this week's notes and the coming homily.
-// Moved here from Home.md unchanged on 5 Oct 2026 so both homepages share it.
+// Moved here from Home.md unchanged on 5 Oct 2026.
 // Home calls it as  await dv.view("Templates/Views/today-study", { container })  (see below).
 // Where it draws (F3, 7 Oct 2026): Home passes the part of the page it made for this view ({container}). Without one,
 // the view makes an element of its own in the block, in place of any left by an earlier run of the block (same

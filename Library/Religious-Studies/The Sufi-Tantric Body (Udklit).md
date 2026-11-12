@@ -4,7 +4,7 @@ title: The Sufi-Tantric Body
 author:
   - Therese Udklit
 work: "[[Udklit - The Sufi-Tantric Body]]"
-source_pdf: Library/Other/The-Sufi-Tantric-Body.pdf
+source_pdf: Library/Religious-Studies/The-Sufi-Tantric-Body.pdf
 page_range: 1–25
 pdf_pages: 1–25
 text_source: PDF text layer (born-digital), PyMuPDF

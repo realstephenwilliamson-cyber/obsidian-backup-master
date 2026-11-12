@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q550b"
-title: "4QProto Estherc ar"
+title: "4QProto-Estherc ar"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "1098–1099"
@@ -10,7 +10,7 @@ aliases:
   - "4Q550b"
   - "4QPrEstherc ar"
 ---
-# 4Q550b (4QPrEstherc ar) · 4QProto Estherc ar
+# 4Q550b (4QPrEstherc ar) · 4QProto-Estherc ar
 
 [[DSS 4Q550a|← 4Q550a]] · [[Qumran|index]] · [[DSS 4Q550c|4Q550c →]]
 

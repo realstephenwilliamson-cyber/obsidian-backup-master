@@ -11,7 +11,7 @@ aliases:
 ---
 # 4Q464b · 4QUnclassified Fragments
 
-[[DSS 4Q464|← 4Q464]] · [[Qumran|index]] · [[DSS 4Q465|4Q465 →]]
+[[DSS 4Q464a|← 4Q464a]] · [[Qumran|index]] · [[DSS 4Q465|4Q465 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
 > E. Eshel, M. Stone, DJD XIX, 233-234, pl. XXIX PAM 42.504, 43.357 ROC 264
@@ -21,4 +21,4 @@ aliases:
 > [!note] No English here
 > The conversion found no translation or list of contents for this manuscript. For biblical manuscripts the edition lists fragments and verses only, and many small or unclassified fragments have no translation; see the Study Edition, p. 944–945.
 
-[[DSS 4Q464|← 4Q464]] · [[Qumran|index]] · [[DSS 4Q465|4Q465 →]]
+[[DSS 4Q464a|← 4Q464a]] · [[Qumran|index]] · [[DSS 4Q465|4Q465 →]]

@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-पार्थिवम्प्राकृतम्चैव मायीयम्शाक्तमेव च ।
-इति सम्क्षेपतः प्रोक्तमेतदण्डचतुष्टयम् ॥ ^mula
+पार्थिवं प्राकृतं चैव मायीयं शाक्तमेव च ।
+इति संक्षेपतः प्रोक्तमेतदण्डचतुष्टयम् ॥ ^mula
 
 pārthivam prākṛtam caiva māyīyam śāktam eva ca |
 iti samkṣepataḥ proktam etad aṇḍacatuṣṭayam || ^iast

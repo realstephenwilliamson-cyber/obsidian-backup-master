@@ -1138,7 +1138,7 @@ A comparative chart between the tattvas and the Trident Throne
 
 \[xa\] 
 
-| र्त[illegible] 
+| र्त\[illegible\] 
 
 | Gosport |
 | Tbe Trident \[illegible\] \_|Pince on the body\] \[3s\] 

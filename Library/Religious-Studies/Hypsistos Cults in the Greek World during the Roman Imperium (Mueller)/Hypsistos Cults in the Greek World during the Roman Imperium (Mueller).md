@@ -4,7 +4,7 @@ title: Hypsistos Cults in the Greek World during the Roman Imperium
 author:
   - Mark Mueller
 work: "[[Mueller - Hypsistos Cults in the Greek World during the Roman Imperium]]"
-source_pdf: Library/Other/Hypsistos Cults in the Greek World During the Imperium.pdf
+source_pdf: Library/Religious-Studies/Hypsistos Cults in the Greek World During the Imperium.pdf
 pages: 96
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

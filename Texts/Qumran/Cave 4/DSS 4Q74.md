@@ -22,7 +22,7 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-4 | Ezek 1:10-13 |
-| Frag. 6 ii | Ezek 1:20-24 |
 | Frag. 5-6 i | Ezek 1:16-17, 19 |
+| Frag. 6 ii | Ezek 1:20-24 |
 
 [[DSS 4Q73|← 4Q73]] · [[Qumran|index]] · [[DSS 4Q75|4Q75 →]]

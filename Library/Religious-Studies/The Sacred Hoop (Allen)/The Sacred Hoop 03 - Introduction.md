@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[Allen - The Sacred Hoop]]"
 book: "[[The Sacred Hoop (Allen)|The Sacred Hoop (Allen)]]"
 order: 3
-source_pdf: Library/Other/Allen - The Sacred Hoop (2015).pdf
+source_pdf: Library/Religious-Studies/Allen - The Sacred Hoop (2015).pdf
 page_range: 16–24
 pdf_pages: 16–24
 text_source: PDF text layer (born-digital), PyMuPDF

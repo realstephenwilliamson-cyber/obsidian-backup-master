@@ -796,8 +796,8 @@ The Lower Mouth
 अधोवकत्रं त्विदं ्रैतकलैकान्तशातनम् ।
 क्षीयते तदुपासायां येनोध्वाधरडम्बरः ॥ १९४ ॥
 
-adhovaktraṁ tv idan dvaitakalaṅkaikāntaśātanam |
-adhovaktraṁ tv idaṁ dvaitakalaṅkaikāntaśātanam | kṣīyate tadupāsāyārṁi yenordhvādharadambaraḥ | 194 ॥ 
+adhovaktraṁ tv idaṁ dvaitakalaṅkaikāntaśātanam |
+kṣīyate tadupāsāyāṁ yenordhvādharaḍambaraḥ ॥ 194 ॥ 
 
 This ‘lower mouth’ (in which the inhaled breath rests) eradicates the stain of duality completely. When it is worshiped devoutly, the deluding play (dambara) of the upper (upward moving exhaled breath) and the lower (downward moving inhaled breath) is destroyed. (194) (193cd-194ab) 
 
@@ -816,8 +816,8 @@ Well then, does the repose (experienced) here in this way come about, as does th
 अत्रापानोदये प्रागवत्षष्टयब्दोदययोजनाम् ।
 यावत्कूर्वीत तुस्बादर्ुक्तादलविभागतः ॥ १९५ ॥
 
-atrāpānodaye prāgvat ṣaṣtyabdodayayojanām |
-atrāpānodaye prāgvat ṣaṣṭyabdodayayojanām | yāvat kurvīta tutyāder yuktāṁgulavibhāgataḥ || 195 ॥ 
+atrāpānodaye prāgvat ṣaṣṭyabdodayayojanām |
+yāvat kurvīta tuṭyāder yuktāṅgulavibhāgataḥ ॥ 195 ॥ 
 
 The same cycles from one tufi to sixty years should be applied here to the arising (of the downward moving) inhaled breath (apāna) as before, with their appropriate (spatial divisions of) finger breadths.[^399] (195) (194cd-195ab) 
 

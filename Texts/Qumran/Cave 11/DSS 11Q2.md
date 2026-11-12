@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Lev 7:34-35 |
-| Frag. 4 | Lev 14:16-17 |
 | Frag. 1 ii | Lev 8:8 or 9 |
-| Frag. 5, 6 | Lev 15:18-19 |
 | Frag. 2 | Lev 9:23 - 10:2 |
-| Frag. 7 | Lev 25:31-33 |
 | Frag. 3 | Lev 13:58-59 |
+| Frag. 4 | Lev 14:16-17 |
+| Frag. 5, 6 | Lev 15:18-19 |
+| Frag. 7 | Lev 25:31-33 |
 
 [[DSS 11Q1|← 11Q1]] · [[Qumran|index]] · [[DSS 11Q3|11Q3 →]]

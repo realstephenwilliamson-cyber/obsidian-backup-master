@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-स्वरषोडशकम्मन्त्रम्पदम्चैकम्विलक्षयेत् ।
-इत्येवम्षड्विधोऽप्यध्वा समासात्परिकीर्तितः ॥ ^mula
+स्वरषोडशकं मन्त्रं पदं चैकं विलक्षयेत् ।
+इत्येवं षड्विधोऽप्यध्वा समासात्परिकीर्तितः ॥ ^mula
 
 svaraṣoḍaśakam mantram padam caikam vilakṣayet |
 ity evam ṣaḍvidho 'py adhvā samāsāt parikīrtitaḥ || ^iast

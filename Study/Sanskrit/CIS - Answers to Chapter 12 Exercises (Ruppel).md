@@ -112,7 +112,7 @@ Having seen the horrible warrior, the man asked his friend: ‘Did you see the w
 4\) devān yajñaiḥ · toṣayema · iti śūraḥ · avadat.
 ‘We should please the gods with sacrifices’, the hero said.
 5\) yuddhe yathā nagarāṇi naṣṭāni (typo: not naṣṭhāni) tathā janāḥ · naṣṭāḥ (typo: not naṣṭhāḥ).
-Just as the cities were destroyed in battle, so were the people/so did the people perish. (Note typos: नष्तानि, नष्टाः:, not नष्ठानि, नष्ठाः:.)
+Just as the cities were destroyed in battle, so were the people/so did the people perish. (Note typos: नष्तानि, नष्टाः, not नष्ठानि, नष्ठाः.)
 6\) ugraḥ · nṛpaḥ · janebhyaḥ · dānāni · āptum aicchat.
 The terrible king wanted to get gifts from [his] people.
 7\) padmam darśayeḥ · iti bālau kanyām avadatām.

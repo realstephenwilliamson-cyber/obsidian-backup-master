@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 आग्नेयीं शक्तिहस्तां च याम्यां दण्डकरां ततः ।
-नैर्-ऋतीं वरुणानीं च वायवीं च विचक्षणः ॥ ^mula
+नैर्ऋतीं वरुणानीं च वायवीं च विचक्षणः ॥ ^mula
 
 āgneyīṁ śaktihastāṁ ca yāmyāṁ daṇḍakarāṁ tataḥ |
 nairṛtīṁ varuṇānīṁ ca vāyavīṁ ca vicakṣaṇaḥ || ^iast

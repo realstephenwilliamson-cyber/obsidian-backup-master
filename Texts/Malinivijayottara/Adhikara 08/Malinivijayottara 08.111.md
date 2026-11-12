@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 कुशास्तरणपरिधिविष्टराणां च कल्पनम् ।
-सर्वमस्त्रेण कुर्वीत विद्यामो.म्ह्रीमिति न्यसेत् ॥ ^mula
+सर्वमस्त्रेण कुर्वीत विद्यामों ह्रीमिति न्यसेत् ॥ ^mula
 
 kuśāstaraṇaparidhiviṣṭarāṇāṁ ca kalpanam |
 sarvam astreṇa kurvīta vidyām o.m hrīm iti[^127] nyaset || ^iast

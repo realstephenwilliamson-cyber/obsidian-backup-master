@@ -4,7 +4,7 @@ title: "Philosophies of Religion: A Global and Critical Introduction"
 author:
   - Timothy Knepper
 work: "[[Knepper - Philosophies of Religion]]"
-source_pdf: Library/Other/Knepper - Philosophies of Religion (2023).pdf
+source_pdf: Library/Religious-Studies/Knepper - Philosophies of Religion (2023).pdf
 pages: 497
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

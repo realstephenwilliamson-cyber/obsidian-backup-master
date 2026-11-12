@@ -20,7 +20,7 @@ Text: [[NRSVue 2 Corinthians 13|NRSVue]] · [[2 Corinthians 13|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 13#^13-3|3–4]]:** *Christ . . . is not weak . . . but is powerful*, the weakness–powerful paradox summarized; see [[JANT 2 Corinthians 10#^10-1-3|10.1n.]] ^13-3
 
-**[[NRSVue 2 Corinthians 13#^13-5|5]]:** *Examine yourselves . . . test yourselves*, a central rabbinic theme, e.g., *b. Ber*. [[Berakhot 5#5a|5a]]: “If a person sees that sufferings afflict him, let him examine his deeds.” *Jesus Christ is in you*, cf. [[Ezekiel 37#^37-14|Ezek 37.14]]: “I will put within my spirit you, and you shall live.” Some rabbinic texts see in this verse a depiction of the messianic resurrection of the dead (*Gen. Rab.* [96.5](https://www.sefaria.org/Bereshit_Rabbah.96.5); *Ex. Rab.* 48.4; *Song Rab.* [1.9](https://www.sefaria.org/Shir_HaShirim_Rabbah.1))*.* ^13-5
+**[[NRSVue 2 Corinthians 13#^13-5|5]]:** *Examine yourselves . . . test yourselves*, a central rabbinic theme, e.g., *b. Ber*. [[Berakhot 5#5a|5a]]: “If a person sees that sufferings afflict him, let him examine his deeds.” *Jesus Christ is in you*, cf. [[Ezekiel 37#^37-14|Ezek 37.14]]: “I will put within my spirit you, and you shall live.” Some rabbinic texts see in this verse a depiction of the messianic resurrection of the dead (*Gen. Rab.* [96.5](https://www.sefaria.org/Bereshit_Rabbah.96.5); *Ex. Rab.* [48.4](https://www.sefaria.org/Shemot_Rabbah.48.4); *Song Rab.* [1.9](https://www.sefaria.org/Shir_HaShirim_Rabbah.1))*.* ^13-5
 
 **[[NRSVue 2 Corinthians 13#^13-7|7]]:** *Have met the test*, see 2.9n. The Corinthians are to determine if Christ indeed is in them; if not, Paul’s work with them failed. ^13-7
 

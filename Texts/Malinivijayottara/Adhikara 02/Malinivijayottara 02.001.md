@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-अथैषामेव तत्त्वानाम्धरादीनामनुक्रमात् ।
-प्रपञ्चः कथ्यते लेशाद्योगिनाम्योगसिद्धये ॥ ^mula
+अथैषामेव तत्त्वानां धरादीनामनुक्रमात् ।
+प्रपञ्चः कथ्यते लेशाद्योगिनां योगसिद्धये ॥ ^mula
 
 athaiṣām eva tattvānām dharādīnām anukramāt |
 prapañcaḥ kathyate leśād yoginām yogasiddhaye || ^iast

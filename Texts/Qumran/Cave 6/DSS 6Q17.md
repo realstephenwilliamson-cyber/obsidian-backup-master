@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "6Q17"
-title: "6QCal endrical Document"
+title: "6QCalendrical Document"
 location: "Cave 6"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "1156–1157"
@@ -10,7 +10,7 @@ aliases:
   - "6Q17"
   - "6QpapCalendrical Doc."
 ---
-# 6Q17 (6QpapCalendrical Doc.) · 6QCal endrical Document
+# 6Q17 (6QpapCalendrical Doc.) · 6QCalendrical Document
 
 [[DSS 6Q16|← 6Q16]] · [[Qumran|index]] · [[DSS 6Q18|6Q18 →]]
 

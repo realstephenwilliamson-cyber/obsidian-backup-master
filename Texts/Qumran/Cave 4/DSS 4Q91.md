@@ -22,8 +22,8 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 48:1-9 |
-| Frag. 3-7 | Ps 49:9-12, 15, 17 |
 | Frag. 2 | Ps 49:6? |
+| Frag. 3-7 | Ps 49:9-12, 15, 17 |
 | Frag. 8 | Ps 51:2-5 |
 
 [[DSS 4Q90|← 4Q90]] · [[Qumran|index]] · [[DSS 4Q92|4Q92 →]]

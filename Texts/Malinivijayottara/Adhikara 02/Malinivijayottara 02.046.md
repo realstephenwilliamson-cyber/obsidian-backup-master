@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-प्रचये तत्र सम्ज्ञेयमेकम्तन्महति स्थितम् ।
-इत्येवम्पञ्चधाध्वानम्त्रिधेदानीम्निगद्यते ॥ ^mula
+प्रचये तत्र संज्ञेयमेकं तन्महति स्थितम् ।
+इत्येवं पञ्चधाध्वानं त्रिधेदानीं निगद्यते ॥ ^mula
 
 pracaye tatra samjñeyam ekam tan mahati sthitam |
 ity evam pañcadhādhvānam tridhedānīm nigadyate || ^iast

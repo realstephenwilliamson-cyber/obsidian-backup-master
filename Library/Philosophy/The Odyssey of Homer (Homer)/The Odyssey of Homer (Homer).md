@@ -4,7 +4,7 @@ title: The Odyssey of Homer
 author:
   - Homer
 work: "[[Homer - The Odyssey (Lattimore tr.)]]"
-source_pdf: Library/Other/Homer - The Odyssey of Homer (1965).pdf
+source_pdf: Library/Philosophy/Homer - The Odyssey of Homer (1965).pdf
 pages: 443
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

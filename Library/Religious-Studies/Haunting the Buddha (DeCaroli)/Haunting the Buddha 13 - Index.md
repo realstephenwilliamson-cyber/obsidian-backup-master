@@ -3,7 +3,7 @@ type: book-chapter
 work: "[[DeCaroli - Haunting the Buddha]]"
 book: "[[Haunting the Buddha (DeCaroli)|Haunting the Buddha (DeCaroli)]]"
 order: 13
-source_pdf: Library/Other/DeCaroli - Haunting the Buddha (OUP 2004).pdf
+source_pdf: Library/Religious-Studies/DeCaroli - Haunting the Buddha (OUP 2004).pdf
 page_range: 221–230
 pdf_pages: 232–241
 text_source: PDF text layer (born-digital), PyMuPDF

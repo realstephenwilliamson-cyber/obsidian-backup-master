@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 19:8-16 |
-| Frag. 5 | Deut 25:19 - 26:5 |
 | Frag. 2-3 | Deut 20:6-19 |
-| Frag. 6-7 | Deut 26:18 - 27:1? |
 | Frag. 4 | Deut 23:22 - 24:3 |
+| Frag. 5 | Deut 25:19 - 26:5 |
+| Frag. 6-7 | Deut 26:18 - 27:1? |
 | Frag. 8-13 | ? |
 
 [[DSS 4Q38|← 4Q38]] · [[Qumran|index]] · [[DSS 4Q38b|4Q38b →]]

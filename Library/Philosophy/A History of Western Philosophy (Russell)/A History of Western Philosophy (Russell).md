@@ -4,7 +4,7 @@ title: "A History of Western Philosophy: And Its Connection with Political and S
 author:
   - Bertrand Russell
 work: "[[Russell - A History of Western Philosophy]]"
-source_pdf: Library/Other/Bertrand Russell - A History of Western Philosophy-Touchstone (1967).pdf
+source_pdf: Library/Philosophy/Bertrand Russell - A History of Western Philosophy-Touchstone (1967).pdf
 pages: 955
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

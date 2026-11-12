@@ -46,7 +46,7 @@ The Jabberwocky the slithy toves: NOM; in the wabe: LOC; raths: NOM; my son: VOC
 3\)
 1\) तत्र/tatra
 2\) ‘to carry’
-3\) स्मृ/smṛ
+3\) √स्मृ/smṛ
 4\) ‘lion’
 5\) ‘what? why?’; marks sentence as a yes/no question
 6\) मित्रम्/mitram
@@ -65,4 +65,6 @@ The Jabberwocky the slithy toves: NOM; in the wabe: LOC; raths: NOM; my son: VOC
 
 READING
 
-hanumad-vacanāt eva sugrīveṇa samāgataḥ mahā-balaḥ rāmaḥ sugrīvāya sarvam tat aśaṃsat । tataḥ vānara-rājena sarvam vaira-anukathanam prati rāmāya āveditam ।
+hanumad-vacanāt eva sugrīveṇa samāgataḥ
+mahā-balaḥ rāmaḥ sugrīvāya sarvam tat aśaṃsat ।
+tataḥ vānara-rājena sarvam vaira-anukathanam prati rāmāya āveditam ।

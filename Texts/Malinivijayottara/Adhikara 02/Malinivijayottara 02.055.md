@@ -14,8 +14,8 @@ aliases:
 
 ## Mūla
 
-उत्पूयिन्या चतुर्थम्तु तत्र तत्त्वत्रयम्विदुः ।
-वर्णत्रयम्मन्त्रमेकम्पदमेकम्च लक्षयेत् ॥ ^mula
+उत्पूयिन्या चतुर्थं तु तत्र तत्त्वत्रयं विदुः ।
+वर्णत्रयं मन्त्रमेकं पदमेकं च लक्षयेत् ॥ ^mula
 
 utpūyinyā caturtham tu tatra tattvatrayam viduḥ |
 varṇatrayam mantram ekam padam ekam ca lakṣayet || ^iast

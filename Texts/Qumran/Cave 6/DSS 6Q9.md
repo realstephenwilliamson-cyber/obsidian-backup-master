@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "6Q9"
-title: "6QApo cryphon on Samuel-Kings"
+title: "6QApocryphon on Samuel-Kings"
 location: "Cave 6"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "1148–1149"
@@ -10,7 +10,7 @@ aliases:
   - "6Q9"
   - "6Qpap apocrSam-Kgs"
 ---
-# 6Q9 (6Qpap apocrSam-Kgs) · 6QApo cryphon on Samuel-Kings
+# 6Q9 (6Qpap apocrSam-Kgs) · 6QApocryphon on Samuel-Kings
 
 [[DSS 6Q8|← 6Q8]] · [[Qumran|index]] · [[DSS 6Q10|6Q10 →]]
 

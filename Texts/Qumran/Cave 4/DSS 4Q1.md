@@ -2,7 +2,7 @@
 type: text
 work: "Dead Sea Scrolls"
 manuscript: "4Q1"
-title: "4QGenesis Exodusa"
+title: "4QGenesis-Exodusa"
 location: "Cave 4"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
 page_range: "240"
@@ -10,7 +10,7 @@ aliases:
   - "4Q1"
   - "4QGen-Exoda"
 ---
-# 4Q1 (4QGen-Exoda) · 4QGenesis Exodusa
+# 4Q1 (4QGen-Exoda) · 4QGenesis-Exodusa
 
 [[DSS 3Q15|← 3Q15]] · [[Qumran|index]] · [[DSS 4Q2|4Q2 →]]
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # 4Q418c · 4QInstructionf
 
-[[DSS 4Q418a|← 4Q418a]] · [[Qumran|index]] · [[DSS 4Q419|4Q419 →]]
+[[DSS 4Q418b|← 4Q418b]] · [[Qumran|index]] · [[DSS 4Q419|4Q419 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
 > J. Strugnell, D.J Harrington, DJD XXXIV (forthcoming) PAM 43.486 ROC 499
@@ -40,4 +40,4 @@ aliases:
 
 **10** [… the summ]it of Carmel … […] ^f1-10
 
-[[DSS 4Q418a|← 4Q418a]] · [[Qumran|index]] · [[DSS 4Q419|4Q419 →]]
+[[DSS 4Q418b|← 4Q418b]] · [[Qumran|index]] · [[DSS 4Q419|4Q419 →]]

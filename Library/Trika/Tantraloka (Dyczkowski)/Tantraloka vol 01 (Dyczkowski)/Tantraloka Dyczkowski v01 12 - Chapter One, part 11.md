@@ -751,7 +751,7 @@ vikalpasrakṣyamānāny arucitāṁśasahiṣṇunaḥ || 268 ॥
 vastuno वे tathātvena sṛṣtiḥ soddeśasarijñitā |
 tadaiva saṁvic cinute yāvataḥ srakṣyamānatā || 269 ॥ 
 
-The emission (अकति[illegible]) in that way of a (generic) entity (vastu) that can sustain the other aspects that are desired (to satisfy the need to know it), which are to be emitted by the notion (vikalpa) (by means of which it is 
+The emission (अकति\[illegible\]) in that way of a (generic) entity (vastu) that can sustain the other aspects that are desired (to satisfy the need to know it), which are to be emitted by the notion (vikalpa) (by means of which it is 
 
 [^1242]: The point is that the person who desires heaven is one who is fit to offer sacrifice by virtue of his desire to do so. His relationship to the area of his effort, i.e. the offering of the sacrifice, has not been clearly ascertained, and so needs to be defined.
 

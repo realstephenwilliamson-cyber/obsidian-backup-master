@@ -4,7 +4,7 @@ title: "Mysticism Examined: Philosophical Inquiries into Mysticism"
 author:
   - Richard H. Jones
 work: "[[Jones - Mysticism Examined - Philosophical Inquiries into Mysticism]]"
-source_pdf: Library/Other/Jones - Mysticism Examined (1993).pdf
+source_pdf: Library/Religious-Studies/Jones - Mysticism Examined (1993).pdf
 pages: 304
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

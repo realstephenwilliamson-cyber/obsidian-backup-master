@@ -3,7 +3,7 @@ type: book
 title: A Handbook of Ancient Religions
 author: []
 work: "[[Hinnells (ed.) - A Handbook of Ancient Religions]]"
-source_pdf: Library/Other/Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf
+source_pdf: Library/Religious-Studies/Hinnells (ed.) - A Handbook of Ancient Religions (CUP 2007).pdf
 pages: 624
 text_source: PDF text layer (born-digital), PyMuPDF
 converted: 2026-10-07

@@ -267,7 +267,7 @@ creation and preservation; She is the eternal root cause of all the gods and all
 
 [^248]: The Sanskrit reads "samketa". As the ensuing verses give the mantra for Mahigamardini, "sign" or "mark" seem to be the more appropriate translations in the context.
 
-[^250]: "Three world blja = HRĪM; "the awakening word = the vocative of Mahiçṣamardint; "ereation and destruction" = the syllables SVĀHA. Hence HRIM MAHIṢAMARDINI SVĀHA.
+[^250]: "Three world bīja = HRĪṂ; "the awakening word = the vocative of Mahiṣamardinī; "creation and destruction" = the syllables SVĀHA. Hence HRĪṂ MAHIṢAMARDINĪ SVĀHA.
 
 [^249]: Note that the "Great Lady" is the mantra personified thereby indicating the equivalent nature of detty and mantra.
 [^251]: Although the eight syllables "Mahigamardint svāhā" may be mentioned, the bija "hriṇ" and the ritual practice or sãdhana connected with the mantra should not be revealed.
@@ -600,9 +600,9 @@ From (such) revelation (even) death may occur, so it must not be revealed in any
 
 Oh Lord of the Gods: If at the time of worship anyone turns up by chance,
 
-[^276]: The "Sāntisvastayana” eeremony.
+[^276]: The "śāntisvastayana” ceremony.
 
-[^277]: According to Goudriaan (Hindu Tantric and Sākta Literature, p. 94 n.), "Dakgiṇnācāra" Te one of the four Sākta ācāras along with Vāma, Siddhānta and Kaula. Unfortunately he gives no definition and the definitions which exist elsewhere are often not consistent with one another. Pandey (Abhinavagupta, p. 612) briefly says that dakgiṇa was followed for the attainment of material ends through limited spiritual powers. This definition has the merit of conforming to the tenor of these verses.
+[^277]: According to Goudriaan (Hindu Tantric and Śākta Literature, p. 94 n.), "Dakṣiṇācāra" is one of the four Śākta ācāras along with Vāma, Siddhānta and Kaula. Unfortunately he gives no definition and the definitions which exist elsewhere are often not consistent with one another. Pandey (Abhinavagupta, p. 612) briefly says that dakṣiṇa was followed for the attainment of material ends through limited spiritual powers. This definition has the merit of conforming to the tenor of these verses.
 
 *[p. 144]* ^pg140
 
@@ -1102,7 +1102,7 @@ the alphabet." (Sva. 11:199)
 
 
 
-[^11]: "PIthas" are geographical sites (sometimes parts of the body) sacred to the Goddess. There ts a tradition which maintains that they represent the places where the pieces of Satl's body fell after it had been dismembered by the discus of Viṣnu. Fifty-one sites are cormmonly enumerated, but four of them are particularly famous.
+[^11]: "Pīṭhas" are geographical sites (sometimes parts of the body) sacred to the Goddess. There is a tradition which maintains that they represent the places where the pieces of Satī's body fell after it had been dismembered by the discus of Viṣṇu. Fifty-one sites are commonly enumerated, but four of them are particularly famous.
 
 [^6]: The Sanskrit reads "bhaktitāratamyāt", i.e. "out of a eondition of more or less devotion", or, "out of a relative degree of devotton".
 [^7]: T.e., Śiva. This first seetion of commentary is intended to introduce the subsequent first verse of the main text. It does not refer baek to the Invocatory Verses.
@@ -1181,7 +1181,7 @@ This is an indirect way of saying that the "ganas" are the eight classes of lett
 
 "The classes of letters in their proper order are said to be associated with the six planets beginning with the Sun, then Mars, Jupiter, Mercury, Venus and Saturn. However, the "ya and "ṣa" serjes are said to be the givers of pleasure and pain because of their connections with the dark and bright aspects of the face of the moon."
 
-[^24]: The Sanskrit word used here is "unmisantim" which relates to the Tantric usage of the terms "urmega" and "nimega". Unmega Literally means "to open the eye" and refers to the start of the world process; as "nimega" refers to "the closing of the eye", or the dissolution of the world. (Ibid., pp. 165 & 170
+[^24]: The Sanskrit word used here is "unmiṣantīm" which relates to the Tantric usage of the terms "unmeṣa" and "nimeṣa". Unmeṣa literally means "to open the eye" and refers to the start of the world process; as "nimeṣa" refers to "the closing of the eye", or the dissolution of the world. (Ibid., pp. 165 & 170
 
 [^23]: Sovereignty and consetousness are aspects of the Supreme Śiva which as Sakti delight in manifesting in the multiplicity of creation. If the Lord were to choose one definite form of existence only, he would be as bereft as a pot of these very qualities. In other words, the Supreme Being carmnot be limite to one finite form.
 [^25]: The "ganas" usually refers to the attendants of Lord Śiva. Here the term is uged in a specifically Tantric way and refers to the eight classes of letters in the Sanskrit alphabet.
@@ -1244,7 +1244,7 @@ the time dimension by revealing the diversity of actions which are of
 
 the nature of varṇa;[^41] mantra[^42] and pada.[^43] She vibrates through the form of the universal AlI made up of (this) sixfold course.[^44]
 
-[^41]: In this context, the word "varna" indicates the first determining impulse to put sound in motion. It does not mean a letter in script, or letter as mental or enunctated sound. It refers to the starting point preceding any physical utterance or mental expression of a sound.
+[^41]: In this context, the word "varṇa" indicates the first determining impulse to put sound in motion. It does not mean a letter in script, or letter as mental or enunciated sound. It refers to the starting point preceding any physical utterance or mental expression of a sound.
 
 [^43]: "Pada" refers to articulated physical sound usually expressed in a word. Mantras have their "pada" form when they are actually spoken or written.
 
@@ -1272,7 +1272,7 @@ They say that: "She it is who manifests by virtue also of this-super-intendancy"
 
 (to it)."[^47]
 
-[^47]: The meaning seems to be that conseiousness ts the principal means to divine unity. Compared with it, the testimony of the physical body, rational mind ete. is only of secondary tmportance. However, having quoted the above remarks of an unknown commentator, Jayaratha goes on to discredit their relevance în the context of Verse 1.
+[^47]: The meaning seems to be that consciousness is the principal means to divine unity. Compared with it, the testimony of the physical body, rational mind etc. is only of secondary importance. However, having quoted the above remarks of an unknown commentator, Jayaratha goes on to discredit their relevance in the context of Verse 1.
 
 [^45]: According to the Śaiva system there are seven pramātaras enumerated in descending order as Siva, Mantramahesvara, Mantresvara, Mantra, Vijnānākala, Pralayākala and Sakala. "Knower of the field" ts an Upanigadie term referring to the consetous principle which knows; its corollary is the "field" or that which is known.
 [^46]: Pramāty and prameya are another pair of concepts familiar to Kashmir Saiva p ttlosophy which - like vācya and vācaka, prakāśa and vimarśa, Śiva and Śakti ete - expressos dual aspects of any one vṛrew of reality. In pramāty and prameya the outlook is concerned with ordinance, t.e. with dat whieh ordains and that which is ordained. As the mind "oversees" and orders the date of experience, by extension, the meaning of this pair approximates to "subject" and "object".

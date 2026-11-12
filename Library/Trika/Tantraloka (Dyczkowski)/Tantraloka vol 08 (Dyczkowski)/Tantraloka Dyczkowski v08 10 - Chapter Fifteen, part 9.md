@@ -888,7 +888,7 @@ AUM Anugrahāyai Upper lip
 
 AM 
 
-(सि[illegible] ëāěëO\] Uvula 
+(सि\[illegible\] ëāěëO\] Uvula 
 
 AH Mahāsenāyai Tongue 
 

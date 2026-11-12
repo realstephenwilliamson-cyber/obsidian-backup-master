@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 उत्तरादिक्रमाद्द्व्येकभेदो विद्यादिके त्रये ।
-काले प्रत्येकमुद्दिष्टमेकैक तु यथाक्रमम् ॥ ^mula
+काले प्रत्येकमुद्दिष्टमेकैकं तु यथाक्रमम् ॥ ^mula
 
 uttarādikramād dvyekabhedo vidyādike traye |
 kāle pratyekam uddiṣṭam ekaikaṁ tu yathākramam || ^iast

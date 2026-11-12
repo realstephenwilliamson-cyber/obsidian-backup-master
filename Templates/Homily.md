@@ -18,7 +18,7 @@
 //   idea, drafting, finished or preached.
 // To test an edit: make a note named with a future Sunday's date (2026-11-15) in Projects/Homilies, read it, delete it
 //   through Obsidian. A typo makes Templater show an error and leave the note empty; the previous version of this file is
-//   in .work/backup-homily-view-2026-11-05/Templates/ and in Sync's version history.
+//   in the vault's Git history and in Sync's version history.
 // ================================================================================================================
 // Homily note. Applied to new notes in Projects/Homilies. A title like "2026-10-04 Proper 22A"
 // picks the readings from the study plan (the feast of that day, if it has one); otherwise you choose from a list.

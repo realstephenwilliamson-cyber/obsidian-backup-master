@@ -15,7 +15,7 @@ aliases:
 ## Mūla
 
 स्वाङ्गषट्कसमोपेतं दिङ्मातृपरिवारितम् ।
-स्वार्णैरेवाङ्गषट्कम्तु फट्कारपरिदीपितम् ॥ ^mula
+स्वार्णैरेवाङ्गषट्कं तु फट्कारपरिदीपितम् ॥ ^mula
 
 svāṅgaṣaṭkasamopetaṁ diṅmātṛparivāritam |
 svārṇairevāṅgaṣaṭkam[^103] tu phaṭkāraparidīpitam || ^iast

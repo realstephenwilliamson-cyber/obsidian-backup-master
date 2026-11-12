@@ -19,9 +19,11 @@ aliases:
 
 *Study Edition, pp. 214–217 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1 1 [… Nadab and] Ab[i]hu, Elea[zar and Itamar …] 2 [… in order to do]
+### Frag. 1
 
-you justice in truth, and in order to reprove with faith[ful]ness […]
+**1** [… Nadab and] Ab[i]hu, Elea[zar and Itamar …] ^f1-1
+
+**2** [… in order to do] you justice in truth, and in order to reprove with faith[ful]ness […] ^f1-2
 
 **3** […] Blank […] ^f1-3
 

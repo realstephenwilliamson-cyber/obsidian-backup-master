@@ -506,8 +506,8 @@ temple, since those wretches were misguided in hoping in the building rather tha
 
 [^88]: Cf. [[Isaiah 40#^40-12|Isa 40:12]]; [[Isaiah 66#^66-1|66:1]].
 [^89]: Cf. [[Isaiah 49#^49-17|Isa 49:17]].
-[^90]: Cf. 1 Enoch 89:56.
-[^91]: Cf. [[Daniel 09#^9-24|Dan 9:24]]; 1 Enoch 91:13.
+[^90]: Cf. 1 Enoch [[1 Enoch 089#^89-56|89:56]].
+[^91]: Cf. [[Daniel 09#^9-24|Dan 9:24]]; 1 Enoch [[1 Enoch 091#^91-13|91:13]].
 
 *[p. 234]* ^pg238
 

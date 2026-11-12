@@ -463,7 +463,7 @@ one stated variation. Here is another:
 
 [^11]: Although the Sanskrit verse ts not explicit on the matter, the rosary ís usually made of one substance entirely. There ts a tradition that the results of the japa will vary according to what the rosary is made of. The lotus seed rosary leads to the destruction of the enemy; with the coral rosary one gains wealth; a rosary of jewels and silver grants success and Kusa seeds deliver from sin. The type of rosary may also vary from sect to sect. (Chattopadyaya, Reflections, p. 67.) The commentary to this verse gives tts own verston of the effects of different rosartes.
 [^12]: In Hinduism there are nine traditionally ausptetous gems: pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire and gomeda (?). These nine jewels may be disposed on the pots or jars used in the sacred rituals.
-[^13]: Though the Sanskrit reads "Soṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made of it.
+[^13]: Though the Sanskrit reads "śoṇacandanajam", it seems likely that the thread is dipped in sandal rather than being made of it.
 
 *[p. 381]* ^pg377
 

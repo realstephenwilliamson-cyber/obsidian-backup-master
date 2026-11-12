@@ -17,25 +17,12 @@ From *Mālinī*, April–June 2023: [PDF](<Library/Trika/Dyczkowski - Malinivija
 
 The contents of chapter four:
 
-Śaiva Yoga 1-8
-
-The Tattvas in the Mālinī Sequence
-
-9-18 ab.
-
-The Tattvas and Worlds in the
-
-Three Vidyās 18cd - Parāparā 19-
-
-23cd, Aparā 24 and Parā 25-27.
-
-Three and Four Kinds of Knowledge
-
-28-32.
-
-Types of Yoga and Yogis 33-38.
-
-The Special Excellence of Yogis 39-41.
+- Śaiva Yoga 1-8
+- The Tattvas in the Mālinī Sequence 9-18 ab.
+- The Tattvas and Worlds in the Three Vidyās 18cd - Parāparā 19-23cd, Aparā 24 and Parā 25-27.
+- Three and Four Kinds of Knowledge 28-32.
+- Types of Yoga and Yogis 33-38.
+- The Special Excellence of Yogis 39-41.
 
 After having presented the main Trika Mantras and the alphabets, Śiva goes on to teach their application. This is essentially the manner in which they are related to the metaphysical principles (*tattva*) and worlds (*bhuvana*). The Vidyā, their parts and the letters all have their own cosmic equivalents. Conjoining the two renders them accessible to the one who recites Mantra, tracing in this way his ascent through the cosmic and metaphysical order as he recites. Identifies with it with part of his body, as he rises, his cosmic body develops to ultimately become the body of Śiva, whom he thus realises is his authentic identity. All this takes place by the union – yoga – of the Mantra – the denotator – with the reality it denotes. Accordingly, the teaching is introduced by the definition of Yoga as ‘the union of one thing with another’ (MV 4/4). In this way, not only this part of ritual action, but ultimately all of it, is understood to be Yoga. Thus the Lord Kārttikeya who is questioned initially by the goddess concerning the Path of Yoga explains why his response is to teach Mantra and its projections onto the body. But for this to take place, knowledge of the realities to which the Mantras are to be conjoined is essential. The projection of Mantra onto realities is thus not only Yoga, it is also develops as the knowledge that saves from bondage. Ritual, the essence of which is the application of Mantra, to invoke, worship and construct the body of deity identified with the worshipper, the reciter of Mantra, who is at once both a yogi and a man of knowledge (jñānin). Thus, by teaching Mantra, yoga and ritual in this way, ultimately, in the deepest sense, the Lord transmits the liberating knowledge that the soul is embodied in the universe of all existing things. Thus he is Śiva (MV 4/4-5). But, for this to take place, the soul must be initiated, for there is no competence for this Śaiva Yoga without it (MV 4/6-8)
 

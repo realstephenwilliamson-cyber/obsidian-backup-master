@@ -564,7 +564,7 @@ and Greece, as well as to Michael as “one of the chief princes” (הראשׁ�
 
 place given to Israel in [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8–9]] grants Michael a position of authority among the various guardian angels. That the “princes” fight against each other no doubt indicates a Greco-Roman period interpretation of the divine warfare motif that limits the participants to the angelic taxonomy. The divine council domain lies in the background, providing conceptual structure for the divine hierarchy. 
 
-[^92]: See, for instance, *1 Enoch* 20; 89:55–90:19; *Jub* 10:22–23; [[LXX Sirach 17#^17-17|Sir 17:17]]; *Test. Naph* 8–10; 4Q403 1.i:1–29; cf. D. Hannah, “Guardian Angels and Angelic National Patrons in Second Temple Judaism and Early Christianity,” in *Angels: The Concept of Celestial Beings*, 418–23.
+[^92]: See, for instance, *1 Enoch* [[1 Enoch 020|20]]; [[1 Enoch 089#^89-55|89:55–90:19]]; *Jub* 10:22–23; [[LXX Sirach 17#^17-17|Sir 17:17]]; *Test. Naph* 8–10; 4Q403 1.i:1–29; cf. D. Hannah, “Guardian Angels and Angelic National Patrons in Second Temple Judaism and Early Christianity,” in *Angels: The Concept of Celestial Beings*, 418–23.
 
 *[p. 138]* ^pg145
 

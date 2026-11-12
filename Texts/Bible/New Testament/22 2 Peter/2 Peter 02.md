@@ -90,7 +90,7 @@ They consider it a pleasure to carouse in broad daylight. *They are* blots and b
 συμβέβηκεν[^28] αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν[^29] βορβόρου. ^2-22
 
 [^1]: SBLGNT apparatus: νυστάζει WH Treg NA28 ] νυστάξει RP
-[^2]: Greek *cast them into Tartarus*; see the First Book of Enoch (1 Enoch 13:1–11 and 1 Enoch 20:1–4).
+[^2]: Greek *cast them into Tartarus*; see the First Book of Enoch (1 Enoch [[1 Enoch 013#^13-1|13:1–11]] and 1 Enoch [[1 Enoch 020#^20-1|20:1–4]]).
 [^3]: SBLGNT apparatus: σειραῖς RP NA28 ] σιροις WH Treg NIV
 [^4]: WH does not include *to destruction*.
 [^5]: Or *on future generations of the ungodly*

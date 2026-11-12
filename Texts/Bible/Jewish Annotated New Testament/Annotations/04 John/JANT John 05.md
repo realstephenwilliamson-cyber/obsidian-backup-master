@@ -38,7 +38,7 @@ Text: [[NRSVue John 05|NRSVue]] · [[John 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 05#^5-21|21]]:** *Gives life*, the use of the present tense to express what otherwise reads like an anticipatory statement regarding the resurrection of Christians brings to the fore the tension in the Gospel of John with regard to a present salvation (realized eschatology; see [[JANT John 05#^5-24|5.24n.]]) or future salvation (future eschatology). The Gospel does not explicitly resolve this tension but creates the impression that the believer experiences both. ^5-21
 
-**[[NRSVue John 05#^5-22|22]]:** *Judges no one*, apocalyptic texts such as *1 En.* and *2 Bar.* express the belief in a final judgment after the messianic age, that is, after the coming of a personal Messiah; see *1 En.* 22; *2 Bar.* 7; this view is present in rabbinic literature as well, e.g., *m. Ed*. 2.10, which lists the length of time that specific groups are punished after judgment (see “Afterlife and Resurrection,” p. 691). ^5-22
+**[[NRSVue John 05#^5-22|22]]:** *Judges no one*, apocalyptic texts such as *1 En.* and *2 Bar.* express the belief in a final judgment after the messianic age, that is, after the coming of a personal Messiah; see *1 En.* [[1 Enoch 022|22]]; *2 Bar.* 7; this view is present in rabbinic literature as well, e.g., *m. Ed*. 2.10, which lists the length of time that specific groups are punished after judgment (see “Afterlife and Resurrection,” p. 691). ^5-22
 
 **[[NRSVue John 05#^5-24|24]]:** *Has eternal life*, God’s goals, expressed in Jesus’ ministry, are already accomplished (a position known as “realized eschatology,” meaning that the conditions of the “last days” \[Gk “eschata”\] are already present \[“realized”\]). ^5-24
 

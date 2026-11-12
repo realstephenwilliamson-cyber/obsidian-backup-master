@@ -39,77 +39,39 @@ Sanderson continues (2001: p. 29: 'As the *Svacchanda* had incorporated and exte
 
 Elsewhere, Sanderson (Pondicherry Handout 2007: 3-4) provides a comparative chart of Lokātīta - Atimārga (which is the cosmos of the *Niśvāvamukha*) and Saiddhāntika universe of the *Niśvāsaguhya.*
 
-Sanderson (2001: 31) concludes: 'We see, then, a continuous line of development from the Lākulas to the Niśvāsa- Saiddhāntikas and then from them to the Svacchandabhairava worshippers of the Lokātīta -Atimārga
+| Lokātīta -Atimārga cosmos of the the *Niśvāvamukha* | Saiddhāntika universe of *Niśvāsaguhya*[^9] |
+|---|---|
+|  | Pure Universe: |
+|  | Sadāśiva |
+|  | Ruroṅkāra |
+|  | Ghana |
+|  | Prabhava etc |
+|  | 8 Rudras: Prīta etc |
+|  | Nairañjana |
+|  | Dhruva 3 |
+|  | 11 Rudras: Brahmodarka etc Dhruva 2 |
+|  | Ekākṣa, Piṅgala Haṁsa |
+|  | Brahmā, Rudra, Pratoda, Ananta |
+| Pure Universe: |  |
+| Dhruva | Dhruva 1 |
+| Tejīśa | Tejīśa |
+|  | Īśvara (the supreme plane of the Pāśupatas) |
+| Eight Mūrtis | Eight Vidyeśvaras Mahāvidyā, Vāgīśvarī2 |
+| Eight Vidyās | Eight Vidyā: Vāma to Manonmanī |
+|  | Impure Universe: |
+|  | Māyā (Yoni 2) |
+| Eight Pramāṇas | Pramāṇas: Pañcārtha, Śivaguhya etc. |
+| Bhasmīśa | Bhasmīśa |
+| Dhyāna | Dhyāna |
+| Damaneśvara | Damaneśvara |
+| Dhātṛ | Dhātṛ |
+|  | Sādhya |
+| Praṇava | Oṁkāra |
+| Yoni, Vāgīśvarī | Yoni 1, Vāgīśvarī 1 |
+| Impure Universe: |  |
+| Ṛṣikula | Ṛṣikula |
 
-Saiddhāntika cosmos of the
-
-universe of the *Niśvāvamukha*
-
-*Niśvāsaguhya*[^9]
-
-Pure Universe:
-
-Sadāśiva
-
-Ruroṅkāra
-
-Ghana
-
-Prabhava etc
-
-8 Rudras: Prīta etc
-
-Nairañjana
-
-Dhruva 3
-
-11 Rudras: Brahmodarka
-
-etc Dhruva 2
-
-Ekākṣa, Piṅgala Haṁsa
-
-Brahmā, Rudra,
-
-Pratoda, Ananta Pure Universe: Dhruva
-
-Dhruva 1 Tejīśa
-
-Tejīśa
-
-Īśvara (the supreme
-
-plane of the Pāśupatas) Eight Mūrtis
-
-Eight Vidyeśvaras
-
-Mahāvidyā, Vāgīśvarī2 Eight Vidyās Eight Vidyā: Vāma to
-
-Manonmanī
-
-Impure Universe:
-
-Māyā (Yoni 2) Eight Pramāṇas Pramāṇas: Pañcārtha,
-
-Śivaguhya etc. Bhasmīśa
-
-Bhasmīśa Dhyāna
-
-Dhyāna Damaneśvara
-
-Damaneśvara Dhātṛ
-
-Dhātṛ
-
-Sādhya Praṇava
-
-Oṁkāra Yoni, Vāgīśvarī
-
-Yoni 1, Vāgīśvarī 1 Impure Universe: Ṛṣikula
-
-Ṛṣikula non-Saiddhāntika Mantrapīṭha. And this continuity with the pre-Tantric Atimārga, so alien to the Siddhānta of the commentators, is echoed by other features in the practices and doctrines of the *Niśvāsa* and *Svacchanda* corpora. The flow of redaction can be followed further, into the literature of the Vidyāpīṭha.' It is this that we will now do.
-
-*[p. 64]*
+Sanderson (2001: 31) concludes: 'We see, then, a continuous line of development from the Lākulas to the Niśvāsa- Saiddhāntikas and then from them to the Svacchandabhairava worshippers of the *[p. 64]* non-Saiddhāntika Mantrapīṭha. And this continuity with the pre-Tantric Atimārga, so alien to the Siddhānta of the commentators, is echoed by other features in the practices and doctrines of the *Niśvāsa* and *Svacchanda* corpora. The flow of redaction can be followed further, into the literature of the Vidyāpīṭha.' It is this that we will now do.
 
 Abhinava navigates a course through the cosmologies of the Tantras to reconstruct one that is most in consonance with that of the *Mālinīvijayottara.* As he does so, he happens to illustrate how these cosmologies have developed within the Agamic corpus, starting from the *Svacchandatantra.*[^10] This is done by presenting details from several sources comparing and distinguishing them to reinforce the one Abhinava draws from most extensively, the *Svacchandatantra.* He also draws from the *Siddhayogeśvarīmata*[^11] and the *Triśirobhairavatantra,* that are Trikatantras, the *Ānandādhikatantra* and *Nandiśikhā,* that are Bhairava Tantras, and the Kālīmata of the *Jayadrathayāmala.*[^12] These are all Tantras that belong to the Vidyāpīṭha. Along with them, he also draws from the Saiddhāntika *Kiraṇāgama,*[^13] *Mātaṅgapārameśvara, Svāyambhuvasūtrasaṁgraha, Rauravasūtra-saṁgraha* (*Ruruśāsana*), and the *Rauravavṛtti* by Sadyojyotis, Others are the *Mayamata* (just one or two verses), which is a Tantra that deals with rites of installation (*pratiṣṭhā*), and (in one place at least) Somaśambhu and *Mṛgendrottara* (in one place). Another important source to which he regularly refers is the *Śivatanu* by Bṛhaspati. = From around verse 230, the *Śivatanuśāstra* becomes prominent, although often not clearly signalled. This, as its name suggests, describes as it eulogizes Śiva's body (*tanu*), made of the principles (*tattva*) and worlds populated by its creatures and governed by their Lords, with which he compares and contrasts the account in the *Svacchanda.* Although of unknown affiliation, that too largely follows the Siddhānta.
 

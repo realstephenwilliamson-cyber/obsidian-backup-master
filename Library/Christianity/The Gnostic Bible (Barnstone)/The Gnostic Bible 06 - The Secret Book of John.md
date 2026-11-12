@@ -704,7 +704,7 @@ The angels took women, and from the darkness they produced children similar to t
 
 [^105]: The biblical story of the great flood is in [[Torah 01 - Bereshit#^6-5|Genesis 6:5-8:22]].
 [^106]: Genesis *7:7.*
-[^107]: See [[Torah 01 - Bereshit#^6-1|Genesis 6:1-4]]; 1 Enoch 6-11.
+[^107]: See [[Torah 01 - Bereshit#^6-1|Genesis 6:1-4]]; 1 Enoch [[1 Enoch 006|6-11]].
 
 *[p. 164]* ^pg173
 

@@ -12,9 +12,11 @@ From *Mālinī*, January–June 2022, pp. 25–38: [PDF](<Library/Trika/Dyczkows
 
 *[p. 25]*
 
-## The Mālinīvijayottara Tantra
+The Mālinīvijayottara Tantra
 
-## – Translation by Mark Dyczkowski – General Introduction to the Mālinīvijayottara Tantra
+– Translation by Mark Dyczkowski –
+
+## General Introduction to the Mālinīvijayottara Tantra
 
 The only Trika Tantras to have survived are the *Mālinīvijayottara,* a short recension of the *Siddhayogeśvarīmata* and the *Tantrāsadbhāva.* The first of these has been recovered from Kashmiri manuscripts. The other two are in Nepalese manuscripts. This tells us a lot about the great value the *Mālinīvijayottara* has for Kashmiris and the Kashmiri Trika tradition. Indeed, inspired by his master *Śambhunātha,* Abhinavagupta wrote three commentaries on it. The first was the *Śrīpūrvapañcika.* Unfortunately lost, it is mentioned in the *Parātrīśikāvivaraṇa* and so must predate it. Some verses from it have come down to us quoted by Jayaratha's in his commentary on the *Tantrāloka.* There has been some speculation that it was a commentary on the whole of the *Mālinīvijayottara* and so must have been quite long. However, its very name suggests that it was a commentary on just five verses.
 
@@ -32,167 +34,37 @@ We don't know exactly when, but probably even before he wrote his first substant
 
 *Śambhunātha's* influence on Abhinavagupta was immense. He appears in the preliminary verses of praise (*maṅgalaśloka*) in all of Abhinavagupta's Trika works. Thus, for example, he praises him profusely in one of several verses dedicated to him in the *Tantrāloka* declaring that:
 
-'Abhinavagupta does this (that s, writes
-
-the Tantrāloka), flaming with (awakened)
-
-consciousness. It has arisen by (devout)
-
-attendance (*upāsana*) to that remedy for
-
-the poison of the fetters, namely (all) that
-
-is other than (awakened) consciousness. It
-
-is (the teaching transmitted through the)
-
-lineage of teachers, (that has come) from
-
-the two lotus feet of the venerable
-
-*Bhaṭṭanātha* and the two feet of the
-
-venerable *Bhaṭṭārikā* (his consort).'[^1]
+> 'Abhinavagupta does this (that s, writes the Tantrāloka), flaming with (awakened) consciousness. It has arisen by (devout) attendance (*upāsana*) to that remedy for the poison of the fetters, namely (all) that is other than (awakened) consciousness. It is (the teaching transmitted through the) lineage of teachers, (that has come) from the two lotus feet of the venerable *Bhaṭṭanātha* and the two feet of the venerable *Bhaṭṭārikā* (his consort).'[^1]
 
 Viewing *Śambhunātha* as one with Lord Śiva, Abhinavagupta frequently refers to him as Śiva himself. It is in this state of identity that *Śambhunātha* ordered him to write the *Tantrāloka:*
 
-'Thus I will expound, at Śiva's command,
-
-according to the three (*trika*) namely,
-
-sound discriminative reasoning
-
-(*sattarka*) (inherent in) my own con-
-
-sciousness, the Lord (who is my teacher)
-
-and scripture, in due order the true nature
-
-of what needs be known.'[^2]
+> 'Thus I will expound, at Śiva's command, according to the three (*trika*) namely, sound discriminative reasoning (*sattarka*) (inherent in) my own consciousness, the Lord (who is my teacher) and scripture, in due order the true nature of what needs be known.'[^2]
 
 Abhinava repeatedly refers to this triad – trika – in his exposition of Trika in the *Tantrāloka.* 'What is to be known' is the full meaning of the *Malinīvijayottara.* The very name of Abhinavagupta's work tells us this. The word '*Tantrāloka*', according to Jayaratha, means both 'the Light of the Tantras' and 'the Light on the *Tantras.*' I would add that it would be more accurate to think of 'Tantra' here in the singular with specific reference to the *Mālinīvijayottara.* The word '*āloka*' meaning literally 'light' is one of many words used to denote a commentary. Abhinava similarly calls his commentary on Aanandavardhana's Dhvanyāloka – Dhvanyālocana. This is true even though Abhinava quotes from over a hundred texts – most of which are Tantras. This is because the *Mālinīvijayottara* contains all the teachings of all the Tantras either stated directly or implicitly. Thus Abhinavagupta declares at the beginning of his work:
 
 *[p. 27]*
 
-'There is nothing here (in the *Tantrāloka*)
-
-not taught by the God of gods in the
-
-venerable *Mālinīvijayottara* (Tantra),
-
-whether (directly) in His own words or
-
-(indirectly) by allusion (liṅgataḥ).[^3] The
-
-teaching (*śāsana*) of the pervasive Lord is
-
-divided into (groups of) ten, eighteen and
-
-eight times eight (*Tantras*), the essence of
-
-which is the Trika scriptures (*śāstra*) and
-
-the essence of that is the *Mālinīmata*.'[^4]
+> 'There is nothing here (in the *Tantrāloka*) not taught by the God of gods in the venerable *Mālinīvijayottara* (Tantra), whether (directly) in His own words or (indirectly) by allusion (liṅgataḥ).[^3] The teaching (*śāsana*) of the pervasive Lord is divided into (groups of) ten, eighteen and eight times eight (*Tantras*), the essence of which is the Trika scriptures (*śāstra*) and the essence of that is the *Mālinīmata*.'[^4]
 
 Preparing to write his *Tantrāloka,* Abhinavagupta sowed many seeds in the *Mālinīvijayavārtika* that were destined to grow in his future work. First and foremost of these was the space he dedicates there to establish right at the beginning of his endevor that Trika is the highest Aagamic tradition and that, as such, contains within itself all the traditions and teachings of the *Śaivāgama* and Kaula Tantras that extend out above it up to Trika. *Śambhunātha,* whom Abhinava acknowledges over thirty times in the *Tantrāloka* for teaching him extensive matters of doctrine, taught him what he calls the 'convergence of scripture' (*śāstrasaṁmelana*) to which he dedicates the whole of chapter thirty-five. There he establishes that the basis of all possible knowledge, however trivial or extensive, is an a priori conviction – termed *prasiddhi* - which amounts to the certainty of its correctness. It is because of that we are sure the sun will rise in the morning and we eat food without questioning whether it will be nourishing. In animals we would call it instinct. In young children it is their innate capacity to understand meaning which makes the learning of language possible. It is the same capacity that is applied to the exegesis of the scriptures. Indeed, it is its very soul for it is because of this that scripture can be understood. Inspired by *Śambhunātha*, Abhinava identifies this a priori conviction with Trika itself.
 
 Before this Abhinava had similarly formulated how Trika is all the scripture in the *Mālinīvijayavārtika* where he writes:
 
-'To the extent that the unanimity of the
-
-purport (of the scriptures) applies and is
-
-*[p. 28]*
-
-attainable by virtue of the variety of (the
-
-relationships between) primary and
-
-secondary modalities (of its purport), to
-
-that degree, (the wise) know that it is this
-
-one Trika (class of) scripture (*śāstra*) and
-
-the nature of the teacher here who is such
-
-and non-dual. The aggregate of the
-
-aspects of the teachings (*vākya*) within it,
-
-as well as the subjects (it teaches)
-
-(*prakaraṇa*) exist when the operative
-
-condition (*vṛttānta*) of the duality of
-
-*Māyā* is clearly evident. But even so, the
-
-main fruit at the end is the attainment of
-
-Śiva.'[^5]
+> 'To the extent that the unanimity of the purport (of the scriptures) applies and is *[p. 28]* attainable by virtue of the variety of (the relationships between) primary and secondary modalities (of its purport), to that degree, (the wise) know that it is this one Trika (class of) scripture (*śāstra*) and the nature of the teacher here who is such and non-dual. The aggregate of the aspects of the teachings (*vākya*) within it, as well as the subjects (it teaches) (*prakaraṇa*) exist when the operative condition (*vṛttānta*) of the duality of *Māyā* is clearly evident. But even so, the main fruit at the end is the attainment of Śiva.'[^5]
 
 This is the goal and final end of all the Śaiva scriptures and so these all find their fulfillment in Trika through which Śiva is ultimately attained. Here Trika is not just an inner noetic essence – pradsiddhi - it is the sum total of all the scriptures as their clear complete and full meaning. The scriptures of individual schools are parts that find completion in the whole which is Trika. Now as the essence of that is the *Mālinīvijayottara, Tantrāloka,* as the light that illumines that Tantra, illumines by the same token all the other Tantras as well. Thus, conversely, they all contribute to its clear and complete meaning. This Abhinavagupta does as a teacher for the sake of his needy students. Accordingly, at the beginning of the *Tantrāloka* he declares that:
 
-'Many and various are the liturgical
-
-manuals (*paddhati*) (in use) in the diverse
-
-currents (of scripture) (*srotas*). But there
-
-is not even one to be seen for the
-
-procedures (*krama*) of the Anuttara
-
-Trika.[^6] Thus, repeatedly requested by
-
-(those) virtuous people who are (my)
-
-disciples and fellow students, I compose
-
-this treatise (*prakriyā*), which is clear and
-
-complete (*pūrṇārthā*).'[^7]
+> 'Many and various are the liturgical manuals (*paddhati*) (in use) in the diverse currents (of scripture) (*srotas*). But there is not even one to be seen for the procedures (*krama*) of the Anuttara Trika.[^6] Thus, repeatedly requested by (those) virtuous people who are (my) disciples and fellow students, I compose this treatise (*prakriyā*), which is clear and complete (*pūrṇārthā*).'[^7]
 
 As such, the *Tantrāloka* is an exposition of the *Mālinīvijayottara.* Indeed, Abhinava quotes or refers to well over a half of it. Thus, the *Tantrāloka* is such an extensive and lucid commentary on the *Mālinīvijayottara* that without it we would be hard put to understand it properly and completely. It is clear from the manner in which Abhinava expresses himself that his *Tantrāloka,* modeled in the format of a Tantra, most especially the *Mālinīvijayottara* understands its teachings to be primarily focused on ritual (which includes Mantra) and Yoga, for this is the domain of liturgical manuals (*paddhati*). This is the case with practically all Tantras and so should not surprise us. However, the *Mālinīvijottara* has its own understanding of its practices as framed in the context of the practice of Yoga and salvific knowledge (*jñāna*). A striking and unusual feature of the teachings of the *Mālinīvijayottara* is the close interrelationship between them. Abhinvagupta follows suit, but whereas the Tantra puts a premium on Yoga, for Abhinavagupta it is the other way around. The Tantra declares that a teacher who is an accomplished yogi is superior to the man of knowledge (*jñānin*). This is because Yoga yields knowledge but knowledge cannot bestow Yoga. So the Tantra declares:
 
 *[p. 29]*
 
-'It is said that each succeedingly higher
-
-(kind) is the more excellent amongst
-
-them. The best amongst men of knowl-
-
-edge and yogis is one who knows accom-
-
-plished Yoga, for he also possesses
-
-knowledge, whereas the previous one (i.e.,
-
-the man of knowledge) is deprived of the
-
-fruit of yoga.'[^8]
+> 'It is said that each succeedingly higher (kind) is the more excellent amongst them. The best amongst men of knowledge and yogis is one who knows accomplished Yoga, for he also possesses knowledge, whereas the previous one (i.e., the man of knowledge) is deprived of the fruit of yoga.'[^8]
 
 Abhinavagupta maintains that the best teacher is both a *jñānī* and a yogi but if one has to choose between them the *jñānī* is superior to the Yogi because he knows the scripture and the procedures they teach that lead to liberation. The yogi may experience the higher stages of Yoga but without that knowledge of scripture cannot lead his disciple to them. Accordingly, Abhinavagupta quotes the *Mālinīvijayottara* as saying that it is the man of knowledge who can liberate others:
 
-## 'And because, the wise say, (only) one
-
-## who possesses well exercised knowledge
-
-bestows liberation.[^9] Thus, (O goddess)
-
-who is worshipped by (such) yogis, all this
-
-that should be known (and you wished to
-
-know) has been imparted. Having (thus)
-
-succinctly summarized the (essential
-
-purpose and) meaning of (this) Tantra, it
-
-is (certainly) of benefit to yogis.'[^10]
+> **'And because, the wise say, (only) one who possesses well exercised knowledge bestows liberation.**[^9] Thus, (O goddess) who is worshipped by (such) yogis, all this that should be known (and you wished to know) has been imparted. Having (thus) succinctly summarized the (essential purpose and) meaning of (this) Tantra, it is (certainly) of benefit to yogis.'[^10]
 
 Although Abhinavagupta does not contradict his primary scriptural authority, he has stretched its view in to his own direction. He does this simply by quoting selectively just the line in bold type, quietly ignoring the rest. He could not do otherwise because it is his basic tenent that knowledge alone leads to liberation, an assertion that he advances and diffends as the very first subject of his *Tantrāloka.* So while the *jñānī* is the key figure in the *Tantrāloka,* it is the yogi in the *Mālinīvijayottara* who teaches 'perfection in yoga' (MV 1/4cd-5ab). 'The very extensive Path of Yoga' was taught in the *Mālinīvijayatantra* (MV 1/9cd-10ab) that preceded the *Mālinīvijayottara.* The Tantra offers initiation into Yoga. The initiate who practices it first attains the accomplishment (*siddhi*) of Yoga, then 'the eternal plane.' (MV 1/46)
 
@@ -200,31 +72,7 @@ One of the reasons for the special excellence attributed to the *Mālinīvijayot
 
 *[p. 30]*
 
-'The (wise) maintain that Yoga (which
-
-literally means 'union') is the oneness of
-
-one entity (*vastu*) with another.[^11] That
-
-which is (this other) entity, is said to be
-
-what needs to be known in order to
-
-achieve (the prescribed) avoidance (of
-
-what obstructs the attainment of the goal
-
-and what should be adopted to achieve it).
-
-It cannot be known in either of its two
-
-forms (as what should be accepted or
-
-rejected) without knowledge (*jñāna*).
-
-Śiva has uttered the knowledge described
-
-(in this way) so that it may be achieved.'[^12]
+> 'The (wise) maintain that Yoga (which literally means 'union') is the oneness of one entity (*vastu*) with another.[^11] That which is (this other) entity, is said to be what needs to be known in order to achieve (the prescribed) avoidance (of what obstructs the attainment of the goal and what should be adopted to achieve it). It cannot be known in either of its two forms (as what should be accepted or rejected) without knowledge (*jñāna*). Śiva has uttered the knowledge described (in this way) so that it may be achieved.'[^12]
 
 Here it is clear that Yoga and knowledge work together. In that perspective it is discernment which is the foundation of Yoga. Yoga is, like ritual and the recitation of Mantra, liberating, sacred action. Accordingly, access to its practice can only be possible by means of initiation. The same initiation that confers the competence to perform the rites and utter the Mantras, also opens the door to the realization of liberating knowledge. Thus the Tantra says:
 
@@ -240,65 +88,13 @@ Here Abhinavagupta somewhat forces his interpretation. The *Mālinīvijayottara*
 
 *[p. 32]*
 
-The one (called) 'hearing' (i.e. study) is
-
-considered to be the full knowledge of a
-
-subject (*artha*) (taught in) scripture
-
-which is dispersed (in various places in it). 2) Having seen all of a teaching (*artha*) in
-
-the scriptures, its systematic arrangement
-
-(brought about by reflecting that) “this is
-
-(said) here; (whereas) this is said here and
-
-this is (rightly) applied here,” is the
-
-knowledge consisting of cogitation. (2A
-
-and 2B) It is taught that it is of two kinds,
-
-according to whether it is (superficial
-
-and) slow (*manda*) or (deep and) well
-
-practiced. There, (of these two), the well-
-
-practiced is the best. 3)
-
-Then, when it is well developed, the one
-
-consisting of contemplation arises within
-
-it. It is due to that once the yogi has
-
-attained yoga, he gets the fruit of yoga. In
-
-this way, the man of knowledge (*jñānin*) is
-
-said to be of four kinds (according to which
-
-of these kinds of knowledge he possesses).'[^17]
+> The one (called) 'hearing' (i.e. study) is considered to be the full knowledge of a subject (*artha*) (taught in) scripture which is dispersed (in various places in it). 2) Having seen all of a teaching (*artha*) in the scriptures, its systematic arrangement (brought about by reflecting that) “this is (said) here; (whereas) this is said here and this is (rightly) applied here,” is the knowledge consisting of cogitation. (2A and 2B) It is taught that it is of two kinds, according to whether it is (superficial and) slow (*manda*) or (deep and) well practiced. There, (of these two), the well-practiced is the best. 3) Then, when it is well developed, the one consisting of contemplation arises within it. It is due to that once the yogi has attained yoga, he gets the fruit of yoga. In this way, the man of knowledge (*jñānin*) is said to be of four kinds (according to which of these kinds of knowledge he possesses).'[^17]
 
 The adept rises to higher worlds, uniting with one and then the other, as he progresses in his knowledge of them to ultimately attain the highest knowledge that liberates him even as he attain union (yoga) with Śiva. Chapter six explains how these realities (*vastujāta*) are arranged within the body in the course of initiation based on knowledge (*jñānadīkṣā*). (6/1) This chapter systematically goes through the deployment of the world orders (*bhuvana*) and so also the principles (*tattva*) in the body measured in finger breadths along it. This is the knowledge imparted by this initiation that is required for it to take place. The ascent through the principles takes place by the successive meditation (*dhārañā*) of each one achieved by attaining knowledge of it. Attaining that knowledge the yogi obtains the accomplishments each level bestows. This I taught in detail in chapters twelve to sixteen.
 
 Thus it is clear that yogic action can give rise to the knowledge that saves from bondage along with many other accomplishment and yogic powers (*siddhi*). By the same token ritual action can develop into liberating knowledge. Abhinavagupta quotes the *Gamatantra* as his authority for this view:
 
-'Yoga does not differ (from action) and
-
-action does not differ (from Yoga).[^18] The
-
-insight (*mati*) that, mounted up through
-
-the metaphysical principles (*tattva*), serves
-
-*[p. 33]*
-
-to quell the latent impressions (*vāsanā*) in
-
-one's own mind,[^19] is termed action.'[^20]
+> 'Yoga does not differ (from action) and action does not differ (from Yoga).[^18] The insight (*mati*) that, mounted up through the metaphysical principles (*tattva*), serves *[p. 33]* to quell the latent impressions (*vāsanā*) in one's own mind,[^19] is termed action.'[^20]
 
 Abhinava goes on to explain this citation. Note that 'action' here includes and is above all, ritual action. He concludes by stressing, as he does throughout his exegesis, that only knowledge is liberating. Thus if yoga and ritual are liberating, they give rise to liberating knowledge. The Tantra teaches:
 
@@ -314,33 +110,7 @@ Kaula initiation is taught in chapter eleven. This is also a very important rite
 
 *[p. 35]*
 
-'Once (the disciple) has sat down (in
-
-front of him), (the teacher should)
-
-practice this procedure. His mind intent
-
-on imagining the purification of what is
-
-to be purified, (the teacher) should apply
-
-the energy, shining like an inflamed fire
-
-(burning away all impurity), beginning
-
-from the root object of purification. He
-
-should think that, free of disease (and
-
-death), that (energy) is burning away in
-
-this way all those things that need to be
-
-purified, and is (then) merged into Śiva
-
-without parts (*niñkale*), or else also with
-
-parts (*sakale*).[^26]
+> 'Once (the disciple) has sat down (in front of him), (the teacher should) practice this procedure. His mind intent on imagining the purification of what is to be purified, (the teacher) should apply the energy, shining like an inflamed fire (burning away all impurity), beginning from the root object of purification. He should think that, free of disease (and death), that (energy) is burning away in this way all those things that need to be purified, and is (then) merged into Śiva without parts (*niñkale*), or else also with parts (*sakale*).[^26]
 
 Applied by the yogi to the path (of *suñumnā*), (this energy) nourishes those things that are as it is (*sajātīya*) and burns away the mass of all that differs from it (*bhinnajāti*).[^27] The (teacher) of great intellect can, with due respect, perceive an aggregate of signs, beginning with joy, (that signal the progress of) his disciple who is being purified (in the course of his initiation) by this (power). They are joy, an upward leap, trembling, sleep and rolling of the eyes (*ghūrṇi*) as the fifth.[^28]
 
@@ -350,53 +120,11 @@ While the *Mālinīvijayottara* does indeed cover the basic ritual agenda of the
 
 *[p. 36]*
 
-'Therefore, it is this that he who recites
-
-Mantra who aspires to the most excellent
-
-accomplishment (of liberation), should
-
-repeatedly recite. The penetration of
-
-Rudra's power (*rudraśaktisamāveśa*) is
-
-always established here (in it), for it is said
-
-to be the Supreme Power (*parāśakti*), in
-
-this aspect.'[^30]
+> 'Therefore, it is this that he who recites Mantra who aspires to the most excellent accomplishment (of liberation), should repeatedly recite. The penetration of Rudra's power (*rudraśaktisamāveśa*) is always established here (in it), for it is said to be the Supreme Power (*parāśakti*), in this aspect.'[^30]
 
 There is no reason to doubt that the original intended sense in the *Mālinīvijayottara* is simply the Trika goddess Parā. It appears that by a happy coincidence in the *Devyāyāmala,* at least, Kālasaṁkarṣiṇī's seed syllable is also called Mātṛsadbhāva. Thus in Abhinavagupta's sophisticated explanation both alternatives are retained:
 
-'The reality (*tattva*) that is higher than
-
-supreme (transcendence) and lower
-
-(immanence) is said to be this Goddess.
-
-That is the 'Essence' (*sāra*) and that is the
-
-'Heart',[^31] the supreme emission (*visarga*),
-
-which is the Lord.[^32] In (the section of) the
-
-*Devīyāmala* dealing with the (*maṇḍala*[^33]
-
-of the) Great Ḍāmara[^34] Sacrifice (*yāga*),
-
-She is called *Kālakarṣiṇī* (the Destroyer
-
-of Time)[^35] who is situated on the head of
-
-*[p. 37]*
-
-the venerable Parā (the Supreme).[^36] In the
-
-*Mālinīvijaya* (*śrīpūrvaśāstra*) she is
-
-described as *Mātṛsadbhāva* (the Essential
-
-Being of the Mothers).'[^37]
+> 'The reality (*tattva*) that is higher than supreme (transcendence) and lower (immanence) is said to be this Goddess. That is the 'Essence' (*sāra*) and that is the 'Heart',[^31] the supreme emission (*visarga*), which is the Lord.[^32] In (the section of) the *Devīyāmala* dealing with the (*maṇḍala*[^33] of the) Great Ḍāmara[^34] Sacrifice (*yāga*), She is called *Kālakarṣiṇī* (the Destroyer of Time)[^35] who is situated on the head of *[p. 37]* the venerable Parā (the Supreme).[^36] In the *Mālinīvijaya* (*śrīpūrvaśāstra*) she is described as *Mātṛsadbhāva* (the Essential Being of the Mothers).'[^37]
 
 Finally, we should note that although the *Mālinīvijayottara* does not supply a large number of Mantras, they are the most important and essential ones for these basic Trika rites. Abhinava largely confines his liturgy (*paddhati*) to them and their application. He presents them all together in chapter thirty of the *Tantrāloka*.
 
@@ -404,83 +132,57 @@ The following is a list of the names of the chapters of the *Mālinīvijayottara
 
 Trika mantras are taught in chapter nine, twenty and twenty-three.
 
-Chapters eight to eleven deal with the rites of initiation. These are of two types. One follows the basic tantric procedure (*tantraprakriyā*). This taught in chapters eight to ten. The other is Kaula (*kulaprakriyā*) which is outlined in chapter eleven. Abhinava places this initiation at the beginning of the Kula procedure (*kulaviddhi*) taught in chapter twenty-nine of the *Tantrāloka.* He does this, no doubt, to emphasize and enhance the presence of Kaula elements in the *Mālinīvijayottara* which, as a whole, is not prominently Kaula. As Abhinava considers Kaulism to be the acme of the teachings of the Śaivāgama and the highest form of Trika to be Kaula, he needs to do this. Chapter nineteen also presents Kaula teachings. These concern the states of consciousness ranging from the waking state to the Fourth and Beyond the Fourth, These states, in relation to the seven perceivers outlined in chapter two, are presented in chapter ten of the *Tantrāloka.* In accord with his Trika Master's teachings he aligns the two, thus integrating originally Siddhānta doctrine with Kaula. l Chapter One: The Descent of the Scrip-
+Chapters eight to eleven deal with the rites of initiation. These are of two types. One follows the basic tantric procedure (*tantraprakriyā*). This taught in chapters eight to ten. The other is Kaula (*kulaprakriyā*) which is outlined in chapter eleven. Abhinava places this initiation at the beginning of the Kula procedure (*kulaviddhi*) taught in chapter twenty-nine of the *Tantrāloka.* He does this, no doubt, to emphasize and enhance the presence of Kaula elements in the *Mālinīvijayottara* which, as a whole, is not prominently Kaula. As Abhinava considers Kaulism to be the acme of the teachings of the Śaivāgama and the highest form of Trika to be Kaula, he needs to do this. Chapter nineteen also presents Kaula teachings. These concern the states of consciousness ranging from the waking state to the Fourth and Beyond the Fourth, These states, in relation to the seven perceivers outlined in chapter two, are presented in chapter ten of the *Tantrāloka.* In accord with his Trika Master's teachings he aligns the two, thus integrating originally Siddhānta doctrine with Kaula.
 
-## ture, What is to be Rejected and How
-
-l Chapter Two: The Seven Perceivers, the
-
-## Penetrations and the Six Paths
-
-l Chapter Three: Mantras and the Deities of
-
-*[p. 38]*
-
-## the Alphabets
-
-l Chapter Four: Śaiva Yoga and the Distribu-
-
-tion of the *Tattvas* l Chapter Five: The Path of the Worlds l Chapter Six: The Path in the Body and the
-
-## Procedures for its Deposition
-
-l Chapter Seven: Concerning the Gestures l Chapter Eight: The Initiation into the Rule
-
-(*samayadīkñā*), l Chapter Nine: Initiation into Ritual Action
-
-(kriyādīkñā): The Drawing of the Maṇḍala
-
-## and the Preparation of the Teacher.
-
-l Chapter Ten: The Consecration (*abhiñeka*) l Chapter Eleven: Kaula Initiation l Chapter Twelve to Sixteen: The Meditation
-
-## (dhāraṇa) on the Principles
-
-l Chapter Seventeen: The Six Ancillaries of
-
-## Yoga and Ritual Suicide
-
-l Chapter Eighteen: The Supreme Vidyā l Chapter Nineteen: Kulacakra, Piṇḍastha,
-
-## Padastha Rūpastha, and Rūpātīta and the
-
-## Contemplation of the Phonemes
-
-l Chapter Twenty: The Final Teaching
-
-## concerning All the Mantras
-
-l Chapter Twenty-One: Dragging the Moon
-
-## towards One's Self and the Transfer (of
-
-## consciousness into another body)
-
-(saṁkrānti) l Chapter Twenty-Two: Dragging the Sun
-
-## towards One's Self 1-34
-
-l Chapter Twenty-Three: Meditations,
-
-## Mantras and the Knowledge of Dreams
+- Chapter One: The Descent of the Scripture, What is to be Rejected and How
+- Chapter Two: The Seven Perceivers, the Penetrations and the Six Paths
+- Chapter Three: Mantras and the Deities of *[p. 38]* the Alphabets
+- Chapter Four: Śaiva Yoga and the Distribution of the *Tattvas*
+- Chapter Five: The Path of the Worlds
+- Chapter Six: The Path in the Body and the Procedures for its Deposition
+- Chapter Seven: Concerning the Gestures
+- Chapter Eight: The Initiation into the Rule (*samayadīkñā*),
+- Chapter Nine: Initiation into Ritual Action (kriyādīkñā): The Drawing of the Maṇḍala and the Preparation of the Teacher.
+- Chapter Ten: The Consecration (*abhiñeka*)
+- Chapter Eleven: Kaula Initiation
+- Chapter Twelve to Sixteen: The Meditation (dhāraṇa) on the Principles
+- Chapter Seventeen: The Six Ancillaries of Yoga and Ritual Suicide
+- Chapter Eighteen: The Supreme Vidyā
+- Chapter Nineteen: Kulacakra, Piṇḍastha, Padastha Rūpastha, and Rūpātīta and the Contemplation of the Phonemes
+- Chapter Twenty: The Final Teaching concerning All the Mantras
+- Chapter Twenty-One: Dragging the Moon towards One's Self and the Transfer (of consciousness into another body) (saṁkrānti)
+- Chapter Twenty-Two: Dragging the Sun towards One's Self 1-34
+- Chapter Twenty-Three: Meditations, Mantras and the Knowledge of Dreams
 
 ## The Contents of Chapter One
 
-## The Descent of the Scripture, What is to be Rejected and How
+The Descent of the Scripture, What is to be Rejected and How
 
-l The Descent of the Scripture 1-13 l What is to be Abandoned and What is to be
+- The Descent of the Scripture 1-13
+- What is to be Abandoned and What is to be Adopted 14-17ab
+- The Characteristics of the Lord 17cd-18ab
+- The Great Creation 18cd-22ab
+- The Group of Four Selves 22cd-23ab
+- Impurity (mala) 23cd
+- Karman 24ab-25
+- Māyā 26
+- The Kañcukas 27ab-29
+- Nature and the Lower Principles 30-34
+- The Fully Conditioned (sakala) Perceivers 35-36
+- The Mantras 37-41
+- Rudra's Power of Grace and the Types of Devotees 42-50
 
-Adopted 14-17ab l The Characteristics of the Lord 17cd-18ab l The Great Creation 18cd-22ab l The Group of Four Selves 22cd-23ab l Impurity (mala) 23cd l Karman 24ab-25 l Māyā 26 l The Kañcukas 27ab-29
+The reader will notice that the English translation is in three type faces. Those lines that are in bold characters are quoted by Abhinavagupta. Those in italics are quoted by Jayaratha. Those in both type faces are quoted by both Jayaratha and Abhinavagupta. The lines in plain type are not quoted by either. The details of their location in the *Tantrāloka* and elsewhere are given in the notes. By referring to those places in my translation of the *Tantrāloka* the reader will learn how Abhinavagupta has understood them and commented on them.
 
-Nature and the Lower Principles 30-34
-
-- l The Fully Conditioned (sakala) Perceivers
-
-35-36 l The Mantras 37-41 l Rudra's Power of Grace and the Types of
-
-Devotees 42-50
-
-The reader will notice that the English translation is in three type faces. Those lines that are in bold characters are quoted by Abhinavagupta. Those in italics are quoted by Jayaratha. Those in both type faces are quoted by both Jayaratha and Abhinavagupta. The lines in plain type are not quoted by either. The details of their location in the *Tantrāloka* and elsewhere are given in the notes. By referring to those places in my translation of the *Tantrāloka* the reader will learn how Abhinavagupta has understood them and commented on them. l *ĪPVv Īśvarapratyabhijñāvivṛtivimarśinī* l KSTS Kashmiri Series of Texts and Studies l *TĀ Tantrāloka* l NT *Netratantra* l BY *Brahmayāmala* l MV *Mālinīvijayottara* l MVV *Mālinīvijayavārtikā* l YSū Yogasūtra l SvT *Svacchandatantra*
+- *ĪPVv Īśvarapratyabhijñāvivṛtivimarśinī*
+- KSTS Kashmiri Series of Texts and Studies
+- *TĀ Tantrāloka*
+- NT *Netratantra*
+- BY *Brahmayāmala*
+- MV *Mālinīvijayottara*
+- MVV *Mālinīvijayavārtikā*
+- YSū Yogasūtra
+- SvT *Svacchandatantra*
 
 [^1]: TĀ 1/16.
 

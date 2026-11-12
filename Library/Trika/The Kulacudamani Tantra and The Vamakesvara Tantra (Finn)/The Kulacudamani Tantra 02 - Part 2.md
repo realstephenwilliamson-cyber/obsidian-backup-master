@@ -186,7 +186,7 @@ One of the above quotations which corresponds to this usage is: "Having got up e
 
 2\. Of the many meanings of kula given, but not expounded upon by Pandey, two of the more metaphysical ones state that kula means the "ultimate reality"[^11-p55] and "the objective world and the power, the
 
-[^8]: B. Bhattacarya, Buddhist Esoterism, p. 81.
+[^8]: B. Bhattaçarya, Buddhist Esoterism, p. 81.
 [^9-p55]: Pandey, Abhinavagupta, pp. 594-97.
 [^10-p55]: Often the Kula doctrine is referred to as Kaulism.
 [^11-p55]: Ibid., p. 595.

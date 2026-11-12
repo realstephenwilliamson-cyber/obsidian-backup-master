@@ -1351,7 +1351,7 @@ He opened, saying, “*And YHVH utters His voice before His forces; for vast is 
 
 [^225]: ***Built*…** Heavenly Jerusalem has been built by God in preparation for its eventual descent to earth.
 
-    See 1 Enoch 90:28–29; *Targum Yonatan*, [[Psalms 122#^122-3|Psalms 122:3]]; *Tanḥuma, Pequdei* 1; *Nistarot Rabbi Shim’on ben Yoḥai* (*Beit ha-Midrash*, 3:80); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26b|26b]] (*MhN*).
+    See 1 Enoch [[1 Enoch 090#^90-28|90:28–29]]; *Targum Yonatan*, [[Psalms 122#^122-3|Psalms 122:3]]; *Tanḥuma, Pequdei* 1; *Nistarot Rabbi Shim’on ben Yoḥai* (*Beit ha-Midrash*, 3:80); *ZḤ* [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26b|26b]] (*MhN*).
 
 [^226]: **שחברה (*she-ḥubberah*), *that is bound*…** If the two Jerusalems are bound together, then the verb should be in the plural: שחברו (*she-ḥubberu*), *that are bound*. However, according to Rabbi Shim’on, the singular form is correct because it emphasizes the eschatological unity of the divine mother and daughter, *Binah* and *Shekhinah*, who are symbolized respectively by heavenly and earthly Jerusalem.
 

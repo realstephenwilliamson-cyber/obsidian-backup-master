@@ -37,7 +37,7 @@ The master answered and said to us, "I have offered you faith many times—and h
 "I have spoken my last word to you; I shall depart from you, for a chariot of spirit[^34] has carried me up, and from now on I shall strip that I may be clothed.[^35]
 
 [^33]: - On existing and not existing, see the opening portion of the Secret Book of John, the Three Steles of Seth, and the Vision of the Foreigner.
-[^34]: - On Jesus riding a chariot into heaven, see the accounts of Elijah and Enoch traveling into heaven in 2 Kings 2 and 1 Enoch 70, as well as various figures ascending to heaven in chariots on Roman commemorative coins.
+[^34]: - On Jesus riding a chariot into heaven, see the accounts of Elijah and Enoch traveling into heaven in 2 Kings 2 and 1 Enoch [[1 Enoch 070|70]], as well as various figures ascending to heaven in chariots on Roman commemorative coins.
 [^35]: - Stripping and clothing refers to shedding the flesh as a garment and sometimes, as here, putting on a new and glorious heavenly garment.
 
 *[p. 350]* ^pg359

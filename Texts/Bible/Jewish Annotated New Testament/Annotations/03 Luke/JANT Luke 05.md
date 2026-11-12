@@ -51,7 +51,7 @@ Text: [[NRSVue Luke 05|NRSVue]] · [[Luke 05|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 05#^5-21|21]]:** *Scribes*, Heb “soferim.” *Blasphemies*, capital offense ([[Torah 31 - Emor#^24-14|Lev 24.14–16]]), although Jesus does not here blaspheme by using the divine name. Had he blasphemed, his opponents would do more than question *in \[their\] hearts* (v 22). In 4QPrNab, a Jewish exorcist forgives the sins of an ailing man. ^5-21
 
-**[[NRSVue Luke 05#^5-24|24]]:** *Son of Man*, Jesus’ self-designation, variously indicating a mortal ([[Ezekiel 02#^2-1|Ezek 2.1]]; [[Psalms 008#^8-5|Ps 8.4]]) or an apocalyptic redeemer ([[Daniel 07#^7-13|Dan 7.13–14]]; *1 En*. 71). ^5-24
+**[[NRSVue Luke 05#^5-24|24]]:** *Son of Man*, Jesus’ self-designation, variously indicating a mortal ([[Ezekiel 02#^2-1|Ezek 2.1]]; [[Psalms 008#^8-5|Ps 8.4]]) or an apocalyptic redeemer ([[Daniel 07#^7-13|Dan 7.13–14]]; *1 En*. [[1 Enoch 071|71]]). ^5-24
 
 **[[NRSVue Luke 05#^5-25|25]]:** *Glorifying God*, or giving glory (praise) to God; see18.43. Luke does not directly equate Jesus with “God,” but readers could make the connection (see [[JANT Luke 04#^4-8|4.8n.]]). diseases b Gk *he* c Gk *him* d Other ancient authorities read *was present to heal them* e Gk *into the midst* f Gk *Man* ^5-25
 

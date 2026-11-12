@@ -86,7 +86,7 @@ There is no clear evidence, then, that the three paragraphs in this section can 
 
 11\. M. Ps. 46:1, San. 104a, for example.
 
-[^12]: Ginzberg, *Legends,* V, 274 f., 419, see (I Enoch 53:1.
+[^12]: Ginzberg, *Legends,* V, 274 f., 419, see (I Enoch [[1 Enoch 053#^53-1|53:1]].
 
 *[p. 89]* ^pg116
 

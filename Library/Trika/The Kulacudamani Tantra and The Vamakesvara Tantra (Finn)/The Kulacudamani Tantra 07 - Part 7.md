@@ -201,7 +201,7 @@ Oh Great Lady! The secret Kāmabīja (stands} revealed! Through the mere utteran
 
 I will (now) speak of the third and most marvelous Sakti blja. The Śakti bīja is drawn out (with) that which is below 'ṣ' joined to that which is below "1', (with) the one before 'g', the one after 'ph', the one below 'ṣ', the one below 'p' (and) the one on the upper side of visarga joined to what is above "jh'. By just knowing this (bṛḷja} one can destroy all (kinds) of venom. This whole vidyā is said to be the supreme wonder-worker and there is nothing that one cannot accomplish by a thorough understanding of it."
 
-[^349]: The root vidyā, so-called because it is the mantra of the Supreme Goddess of the cakra Mahātripurasundarī, has fifteen "syllables" and reads: KEILHRĪṂ HKHLHRĪṂ HSKLHRĪṂ. 1234 5 6789 10 11.14 15
+[^349]: The root vidyā, so-called because it is the mantra of the Supreme Goddess of the cakra Mahātripurasundarī, has fifteen "syllables" and reads: KEILHRĪṂ HKHLHRĪṂ HSKLHRĪṂ. 1234 5 6789 10 11_14 15
 
 [^350]: I.e., in the centre of the Vāgbhava blja which consists of five elements.
 

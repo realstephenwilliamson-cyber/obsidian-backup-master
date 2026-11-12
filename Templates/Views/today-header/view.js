@@ -146,7 +146,9 @@ if (lffText) {
       else if (cal.dow === 0) why = "gives way to the Sunday";
     }
     west.push(why ? `*${shown}* (${why}, [[BCP - The Calendar of the Church Year|BCP pp. 17–18]])` : shown);
-    if (!why) cmp.comm = comm[0][1].replace(/[\[\]]/g, "").split(",")[0].trim();
+    // Home's line links the name to its biography in A Great Cloud of Witnesses when the table has one (12 Nov 2026, Stephen)
+    if (!why) { const nm = comm[0][1].replace(/[\[\]]/g, "").split(",")[0].trim(), bio = (comm[0][2] || "").match(/\[\[([^\]|\\]+)/);
+      cmp.comm = bio ? `[[${bio[1]}|${nm}]]` : nm; }
   }
 } else west.push(`Commemorations: ${LFF} not found.`);
 

@@ -36,7 +36,7 @@ Text: [[NRSVue Luke 16|NRSVue]] · [[Luke 16|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 16#^16-14|Text]], p. 149* · See “Pharisees in Luke,” p. 122. ^16-14
 
-**[[NRSVue Luke 16#^16-14|14]]:** *Lovers of money*, conventional Greco-Roman insult. For Luke, love of money is a major sin. See [[1 Timothy 06#^6-10|1 Tim 6.10]]; [[Hebrews 13#^13-5|Heb 13.5]]; *1 En*. 92–105. ^16-14-2
+**[[NRSVue Luke 16#^16-14|14]]:** *Lovers of money*, conventional Greco-Roman insult. For Luke, love of money is a major sin. See [[1 Timothy 06#^6-10|1 Tim 6.10]]; [[Hebrews 13#^13-5|Heb 13.5]]; *1 En*. [[1 Enoch 092|92–105]]. ^16-14-2
 
 ### 16.16–17: Torah’s permanence
 

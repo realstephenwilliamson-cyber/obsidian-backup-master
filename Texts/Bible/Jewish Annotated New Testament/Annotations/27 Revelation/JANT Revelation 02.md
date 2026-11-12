@@ -26,7 +26,7 @@ Text: [[NRSVue Revelation 02|NRSVue]] · [[Revelation 02|BSB and SBLGNT]] · Int
 
 **[[NRSVue Revelation 02#^2-6|6]]:** The author approves this congregation’s efforts to discern true and false apostles and to resist the *Nicolaitans*, an unknown group. ^2-6
 
-**[[NRSVue Revelation 02#^2-7|7]]:** The repeated phrase, *Let anyone who has an ear . . .* , probably referred to the traditions of Jesus’ own words (see [[Mark 04#^4-9|Mk 4.9]],[[Mark 04#^4-23|23]], etc.), although here it serves to sanction the voice of the risen Christ’s spirit. *Tree of life that is in the paradise of God*, the tree of Gen 2 here located in heaven (also depicted in *1 En.* 24–25; 32). ^2-7
+**[[NRSVue Revelation 02#^2-7|7]]:** The repeated phrase, *Let anyone who has an ear . . .* , probably referred to the traditions of Jesus’ own words (see [[Mark 04#^4-9|Mk 4.9]],[[Mark 04#^4-23|23]], etc.), although here it serves to sanction the voice of the risen Christ’s spirit. *Tree of life that is in the paradise of God*, the tree of Gen 2 here located in heaven (also depicted in *1 En.* [[1 Enoch 024|24–25]]; [[1 Enoch 032|32]]). ^2-7
 
 ### 2.8–11: Smyrna
 

@@ -23,7 +23,7 @@ Converted from the PDF on 10 Nov 2026. Each PDF page starts with `*[p. N]*`, the
 
 CHAPTER 7
 
-1\) vadati, śocati (√vad is among the roots that are cited in guṇa – you can see that from the fact that the form ‘vad’ contains an -a-. Already standing in guṇa, this root does thus not add an -a- to form the present- tense stem. √śuc, on the other hand is cited in zero grade, thus needs to add an -a- to form its present- tense stem, and thus we arrive at śocati.
+1\) vadati, śocati (√vad is among the roots that are cited in guṇa – you can see that from the fact that the form ‘vad’ contains an -a-. Already standing in guṇa, this root does thus not add an -a- to form the present-tense stem. √śuc, on the other hand is cited in zero grade, thus needs to add an -a- to form its present-tense stem, and thus we arrive at śocati.
 
 2\)
 1\) कथयति/kathayati – ‘to talk about’

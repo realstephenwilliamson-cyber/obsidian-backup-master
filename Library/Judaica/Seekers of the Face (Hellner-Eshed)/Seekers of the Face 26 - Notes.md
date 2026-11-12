@@ -1250,7 +1250,7 @@ Chapter 22: Emerging from the Idra Rabba
 
 3\. There are other cases in the Idra Rabba in which YHVH appears as a name of ʿ*Attiqa* (see, for example, [[Zohar 8.09 - Idra Rabba#^z3-138b|Zohar 3:138b]]). Daniel Matt offers an additional interpretive possibility, suggesting that the term *sees* (*yir*ʾ*eh*) be vocalized passively, *is seen* (*yera*ʾ*eh*). That is: *Adam is seen by the eyes, but YHVH* \[*Ze*ʿ*eir Anpin*\] *is seen by the heart* \[ʿ*Attiqa*\]. See Zohar, trans. Matt 8:451n457.
 
-4\. Indeed, this verse is understood to describe the figure of the Messiah, the perfected human being. For example, see BT [[Sanhedrin 98#98a|Sanhedrin 98a]]; Rashi on [[Daniel 07#^7-13|Daniel 7:13]]; Nahmanides commentary on [[Torah 01 - Bereshit#^2-3|Genesis 2:3]]; and others. In 1 Enoch 46–48, there is an account of the connection between the Ancient of Days and the human figure of the Messiah, the chosen one.
+4\. Indeed, this verse is understood to describe the figure of the Messiah, the perfected human being. For example, see BT [[Sanhedrin 98#98a|Sanhedrin 98a]]; Rashi on [[Daniel 07#^7-13|Daniel 7:13]]; Nahmanides commentary on [[Torah 01 - Bereshit#^2-3|Genesis 2:3]]; and others. In 1 Enoch [[1 Enoch 046|46–48]], there is an account of the connection between the Ancient of Days and the human figure of the Messiah, the chosen one.
 
 5\. See Boaz Huss, *Zohar: Reception and Impact*, esp. the chapter ”The Depiction of R. Shimon bar Yohai and Moses,” 9–35.
 

@@ -95,7 +95,7 @@ And Behemoth will reveal itself from its place and Leviathan will come from the 
 
 	1 Enoch
 
-The Book of Parables of Enoch,[^11] which could still have originated in the 1st century CE, contains a number of visionary discourses on the final judgement of the Son of Man. In the third discourse a vision of Noah is described. It connects the expectation of the end of times with the history of the Flood. Several images from *4 Ezra* return in *1 En.* 60:7–10: the monsters are kept, they are separated and are assigned to reside in different areas in the sea and on the land. In this way God created order out of chaos. The Leviathan subsequently helps to 
+The Book of Parables of Enoch,[^11] which could still have originated in the 1st century CE, contains a number of visionary discourses on the final judgement of the Son of Man. In the third discourse a vision of Noah is described. It connects the expectation of the end of times with the history of the Flood. Several images from *4 Ezra* return in *1 En.* [[1 Enoch 060#^60-7|60:7–10]]: the monsters are kept, they are separated and are assigned to reside in different areas in the sea and on the land. In this way God created order out of chaos. The Leviathan subsequently helps to 
 
 [^10]: *2 Bar.* 29:4, transl. by A.F.J. Klijn in Charlesworth, *The Old Testament Pseudepigrapha,* *Vol. I*, 630.
 [^11]: A part of the Pseudepigraphical work *1 En.* (37:1–71:17).
@@ -115,7 +115,7 @@ The Motif of an Eschatological Meal in Rabbinic Literature
 Each of the images mentioned in these three pseudepigraphical texts reoccurs in later Jewish writings, both in apocalyptic works originating a little later, 
 
 [^12]: Transl. by E. Isaac, in Charlesworth, *The Old Testament Pseudepigrapha, Vol. I*, 40–41.
-[^13]: *1 En.* 60:24, transl. E. Isaac, in Charlesworth, *The Old Testament Pseudepigrapha, Vol. I*,
+[^13]: *1 En.* [[1 Enoch 060#^60-24|60:24]], transl. E. Isaac, in Charlesworth, *The Old Testament Pseudepigrapha, Vol. I*,
 
 *[p. 123]* ^pg151
 

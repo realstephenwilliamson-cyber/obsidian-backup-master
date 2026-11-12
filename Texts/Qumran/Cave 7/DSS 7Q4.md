@@ -21,15 +21,15 @@ aliases:
 
 | Fragment | Text |
 |---|---|
-| 7Q11 | 1 Enoch 100:12 |
-| 7Q4 1 + 7Q12 + 7Q14 | 1 Enoch 103:3-4 |
-| 7Q8 | 1 Enoch 103:7-8 |
-| 7Q13 | 1 Enoch 103:15 |
-| 7Q4 2 | 1 Enoch 105:1 |
+| 7Q11 | 1 Enoch [[1 Enoch 100#^100-12\|100:12]] |
+| 7Q4 1 + 7Q12 + 7Q14 | 1 Enoch [[1 Enoch 103#^103-3\|103:3-4]] |
+| 7Q8 | 1 Enoch [[1 Enoch 103#^103-7\|103:7-8]] |
+| 7Q13 | 1 Enoch [[1 Enoch 103#^103-15\|103:15]] |
+| 7Q4 2 | 1 Enoch [[1 Enoch 105#^105-1\|105:1]] |
 
 ### Frag. 1 + 7Q12 + 7Q14
 
-**1** [… 1 Enoch 103:3-4] for the ^f1-1
+**1** [… 1 Enoch [[1 Enoch 103#^103-3|103:3-4]]] for the ^f1-1
 
 **2** [spirits of the righteous who die]d. ^f1-2
 

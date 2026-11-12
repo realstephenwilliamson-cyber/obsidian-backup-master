@@ -11,7 +11,6 @@ What Stephen wants to raise with the AI at its next session on the vault, in any
 ## Wanted features
 
 - **More views** (Stephen, 9 Nov 2026): he may want to discuss additional views.
-- How much trouble would it be to make the saint or holy person on the first calendar line of the homepage into a link to the bio?
 
 ## Plugins to explore
 

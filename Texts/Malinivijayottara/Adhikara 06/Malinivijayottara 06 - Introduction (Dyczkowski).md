@@ -13,37 +13,21 @@ From *Mālinī*, October–December 2023 and January–April 2024: [PDF](<Librar
 
 *[p. 13]*
 
-## Chapter Six of the Mālinīvijayottara Tantra:
+## Chapter Six of the Mālinīvijayottara Tantra: The Path of the Body
 
-## The Path of the Body
+1\) The Deposition of the Thirty-six Principles on the Body - MV 6/2-6ab, TĀ 16/101cd-105
 
-1) The Deposition of the Thirty-six
+2\) The Deposition of the Five Principles on the Body MV 6/6cd-9ab, TĀ 16/109-110ab
 
-Principles on the Body - MV 6/2-
+3\) The Deposition of the Three Principles on the Body - MV 6/10, TĀ 16/109-110ab
 
-6ab, TĀ 16/101cd-105 2) The Deposition of the Five
+4\) The Deposition of the Worlds on the Body MV 6/11ab-18ab, TĀ 16/114-131
 
-Principles on the Body MV 6/6cd-
+5\) The Inferior (*apara*) Deposition on the Body - MV 6/18cd-24, TĀ 16/101cd-105
 
-9ab, TĀ 16/109-110ab 3) The Deposition of the Three
+6\) The Middling (*parāpara*) Deposition on the Body - MV 6/24-26ab, TĀ 16/106
 
-Principles on the Body - MV 6/10,
-
-TĀ 16/109-110ab 4) The Deposition of the Worlds on
-
-the Body MV 6/11ab-18ab, TĀ
-
-16/114-131 5) The Inferior (*apara*) Deposition on
-
-the Body - MV 6/18cd-24, TĀ
-
-16/101cd-105 6) The Middling (*parāpara*) Deposi-
-
-tion on the Body - MV 6/24-26ab,
-
-TĀ 16/106 7) The Supreme (*para*) Deposition on
-
-the Body - MV 6/26cd-27ab, TĀ 16/107
+7\) The Supreme (*para*) Deposition on the Body - MV 6/26cd-27ab, TĀ 16/107
 
 Conclusion – MV 6/27cd-30ab
 

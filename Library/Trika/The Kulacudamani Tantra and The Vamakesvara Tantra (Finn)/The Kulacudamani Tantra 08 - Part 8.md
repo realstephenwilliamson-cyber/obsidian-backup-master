@@ -1159,7 +1159,7 @@ USAGE.[^25-p313]
 
 It is difficult to prove that this is the same mudrā of Conventional Usage that is described in the Tantra Rāja. For (the mudrā in the Tantra Rāja) consumes the fifty siddhis. And besides, we reject the
 
-[^24-p313]: These are the deities of the six Kuṇḍalinī cakras. Mūlādhāra = Sākinī; Svādhiṣṭhāna = Ḍākinī; Maṇipūra = Rākinī; Anāhata = Lākinī; Visuddha = Kākinī and Ajna = Hākinī.
+[^24-p313]: These are the deities of the six Kuṇḍalinī cakras. Mūlādhāra = Sākinī; Svādhiṣṭhāna = Ḍākinī; Maṇipūra = Rākinī; Anāhata = Lākinī; Visuddha = Kākinī and Ajnā = Hākinī.
 
 [^25-p313]: I.e., the Samaya mudrā.
 

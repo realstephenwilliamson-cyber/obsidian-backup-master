@@ -13,11 +13,9 @@ From *Mālinī*, October–December 2024 and January–April 2025: [PDF](<Librar
 
 *[p. 12]*
 
-## Chapter Eight of the Mālinīvijayottara Tantra The Initiation into the Rule (samayadīkṣā)
+## Chapter Eight of the Mālinīvijayottara Tantra: The Initiation into the Rule (samayadīkṣā)
 
-## (Part - 1 of 2)
-
-## The Sacrifice
+(Part - 1 of 2) · The Sacrifice
 
 This chapter is a very important one for Abhinavagupta who dedicates chapter fifteen, which is one of the longest chapters of his *Tantrāloka*, to it. It marks the beginning of the second half of the *Tantrāloka* that is dedicated to a variety of Trika rituals. In the first half, he presents forms of Yoga and the structure of the fundamental elements of ritual procedure, of which he offers a sophisticated analysis from the perspective of consciousness understood to be Deity. The rites begin with the basic initiation into the Rule – *samayadīkṣā.* This is standard procedure. Drawn from the *Mālinīvijayottara*, the most elevated of all Trika scriptures, Abhinavagupta follows it meticulously, commenting on almost every word. In this he tells us he is guided by his Trika Master *Śambhunātha.* Here and there, as required to complete the rite, he makes changes and a few additions. But he follows it so carefully that we can only understand this chapter of the *Mālinīvijayottara* with his help. The rite serves initially as one of the major ways the neophant is initiated into Trika and subsequently, in a reduced form, as the daily Trika ritual he performs regularly daily (*nityapūjā*). The phases of the rite are as a follows:
 

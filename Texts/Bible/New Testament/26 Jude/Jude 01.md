@@ -122,7 +122,7 @@ Amen.
 [^9]: This account is attributed by Origen to the Testament of Moses, also called the Assumption of Moses.
 [^10]: Or *are blemishes*
 [^11]: SBLGNT apparatus: οἱ WH Treg NA28 ] – RP
-[^12]: See the First Book of Enoch (1 Enoch 1:9).
+[^12]: See the First Book of Enoch (1 Enoch [[1 Enoch 001#^1-9|1:9]]).
 [^13]: SBLGNT apparatus: πάντας τοὺς ἀσεβεῖς WH Treg NIV ] + αὐτῶν RP; πᾶσαν ψυχὴν NA28
 [^14]: SBLGNT apparatus: αὐτῶν WH Treg RP ] ἑαυτῶν NA28
 [^15]: See [[2 Peter 03#^3-3|2 Peter 3:3]].

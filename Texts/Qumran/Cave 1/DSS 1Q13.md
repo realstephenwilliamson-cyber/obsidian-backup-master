@@ -5,7 +5,7 @@ manuscript: "1Q13"
 title: "1QPhylactery"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "6"
+page_range: "6–7"
 aliases:
   - "1Q13"
   - "1QPhyl"
@@ -17,7 +17,7 @@ aliases:
 > [!info]- Edition, photographs, parallels and bibliography
 > D. Barthélemy, DJD I, 72-76, pl. XIV PAM 40.458-40.466, 40.468-40.470 DAJ 4Q128, 4Q129, 4Q130, 4Q131, 4Q132, 4Q133, 4Q134, 4Q135, 4Q136, 4Q137, 4Q138, 4Q139, 4Q140, 4Q141, 4Q142, 4Q143, 4Q144, 4Q145, 4Q146, 4Q147, 4Q148, 5Q8
 
-*Study Edition, pp. 6 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+*Study Edition, pp. 6–7 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 | Fragment | Text |
 |---|---|

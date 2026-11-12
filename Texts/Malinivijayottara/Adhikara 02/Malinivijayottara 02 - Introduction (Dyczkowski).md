@@ -17,27 +17,12 @@ From *Mālinī*, July–September and October–December 2022: [PDF](<Library/Tr
 
 The contents of chapter two of the Mālinīvijayottara are as follows:
 
-Concerning Pervasion 1
-
-- The Division of the Principles into
-
-- Fifteen Divisions 2-12
-
-The Signs of Rudra's Power 13-16
-
-- The Penetrations of Rudra's Power
-
-- 17-25ab
-
-The Penetrations and the Five
-
-- States of Consciousness of the
-
-Seven Perceivers 25cd-48
-
-The Four Eggs and the Six Paths 49-
-
-- 60
+- Concerning Pervasion 1
+- The Division of the Principles into Fifteen Divisions 2-12
+- The Signs of Rudra's Power 13-16
+- The Penetrations of Rudra's Power 17-25ab
+- The Penetrations and the Five States of Consciousness of the Seven Perceivers 25cd-48
+- The Four Eggs and the Six Paths 49-60
 
 This chapter is dedicated to two basic, closely related topics. One concerns the expanse of reality and its contents. This is viewed both subjectively and objectively. The later is summed up and contained in four Eggs that cover the range of the thirty-five *Tattvas* up to śiva. These are: 1) Pṛthvyaṇḍa – the Egg of Earth that contains just that one *Tattva.* 2) Prakṛtyaṇḍa – the Egg of Nature that extends (the texts would say 'pervades') from Watter *Tattva* to Prakṛti. 3) *Māyāṇḍa* – the Egg of Māyā that covers the Tattvas from Puruṣa to Māyā and 4) śaktyaṇḍa – the Egg of śakti that contains the four pure principles above Māyā from śuddha Vidyā to śakti. Abhinava discusses this subject in the *Paramāthasāra* and in the *Tantrāloka.*[^1] In a more detailed perspective the objective order is comprised in the Six Paths of 1) the Worlds 2) the *Tattvas* 3) the Forces (*kalā*), 4) Mantra 5) Parts of Mantra and 6) Letters. These six Paths mark the stages the soul traverses in the course of initiation and so Abhinavagupta deals with them in great detail in chapters eight, nine and eleven of the *Tantrāloka.* The subjective order of reality is comprised in a hierarchy of seven perceivers that extends along the Path of the *Tattvas* and so, by extension, the other Paths also.
 

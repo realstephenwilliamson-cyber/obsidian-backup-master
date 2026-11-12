@@ -222,7 +222,7 @@ i. The Gospel of the Secret Supper: translated by Willis Barnstone, from the Fre
 
 3\. Isaiah 14:13-14. 
 
-4\. The angels who guard the gate of the sky are found in [[Revelation 16#^16-5|Revelation 16:5]]. The angels of the waters are in 1 Enoch 66:1-2. 
+4\. The angels who guard the gate of the sky are found in [[Revelation 16#^16-5|Revelation 16:5]]. The angels of the waters are in 1 Enoch [[1 Enoch 066#^66-1|66:1-2]]. 
 
 5\. These fish appear in Job 15:10,40:15, and [[Job 40#^40-25|41:1]]. 
 

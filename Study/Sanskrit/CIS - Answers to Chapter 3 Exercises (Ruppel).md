@@ -7,7 +7,7 @@ work: "[[The Cambridge Introduction to Sanskrit - Answers to Chapter 3 Exercises
 source_pdf: Library/Sanskrit/Chapter_3.pdf
 page_range: "1"
 pdf_pages: 1–1
-text_source: PDF text layer (born-digital), PyMuPDF; Devanagari the text layer leaves unmapped read from a fresh OCR (Tesseract eng+san)
+text_source: PDF text layer (born-digital), PyMuPDF; read against the page image
 converted: 2026-10-07
 ---
 # The Cambridge Introduction to Sanskrit: Answers to Chapter 3 Exercises
@@ -18,9 +18,22 @@ Converted from the PDF on 7 Oct 2026. Each PDF page starts with `*[p. N]*`, the 
 
 *[p. 1]* ^pg1
 
-CHAPTER 3 
+CHAPTER 3
 
-1\) 1) He (she/it) goes and enters. 2) What does he want? 3) He writes again. 4) Here and there. 5) He is not going/does not go. 6) He remembers and writes. 7) Does he go (away) or enter? 8) He does not remember and does not understand. 9) He does not remember and does not understand. 10) Does he not understand? 11) What does he take? 
+1\)
+1\) He (she/it) goes and enters.
+2\) What does he want?
+3\) He writes again.
+4\) Here and there.
+5\) He is not going/does not go.
+6\) He remembers and writes.
+7\) Does he go (away) or enter?
+8\) He does not remember and does not understand.
+9\) He does not remember and does not understand.
+10\) Does he not understand?
+11\) What does he take?
 
-2\) *sarvadevatāḥ gandharvāḥ tridaśālayāḥ Rāmam kamalapattrāśram puṣpavarṣaiḥ ca vāgbhiḥ ca tuṣṭuvuḥ* । *Rāmam tathā pūjayitvā yathāgatam pratijagmuḥ* । *tat ākāśam mahotsavasaṃkāśam āsīt acyuta* ।
-*yadi sūryasahasrasya bhāḥ sadṛśī utthitā divi yugapat bhavet sā bhāsaḥ tasya mahātmanaḥ syāt* ।
+2\)
+sarvadevatāḥ gandharvāḥ tridaśālayāḥ Rāmam kamalapattrāśram puṣpavarṣaiḥ ca vāgbhiḥ ca tuṣṭuvuḥ । Rāmam tathā pūjayitvā yathāgatam pratijagmuḥ । tat ākāśam mahotsavasaṃkāśam āsīt acyuta ।
+
+yadi sūryasahasrasya bhāḥ sadṛśī utthitā divi yugapat bhavet sā bhāsaḥ tasya mahātmanaḥ syāt ।

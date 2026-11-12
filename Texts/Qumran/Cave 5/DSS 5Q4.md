@@ -5,7 +5,7 @@ manuscript: "5Q4"
 title: "5QAmos"
 location: "Cave 5"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "1129"
+page_range: "1129–1130"
 aliases:
   - "5Q4"
   - "5QAmos"
@@ -15,12 +15,13 @@ aliases:
 [[DSS 5Q3|← 5Q3]] · [[Qumran|index]] · [[DSS 5Q5|5Q5 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
-> J.T. Milik, DJD III, 173-174, pl. XXXVI PAM 42.317, 42.321
+> J.T. Milik, DJD III, 173-174, pl. XXXVI PAM 42.317, 42.321 ROC 100 4Q78, 4Q82
 
-*Study Edition, pp. 1129 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+*Study Edition, pp. 1129–1130 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 | Fragment | Text |
 |---|---|
 | Frag. 1-7 | Amos 1:2-5 |
+| Frag. 8-14 | unidentiﬁed |
 
 [[DSS 5Q3|← 5Q3]] · [[Qumran|index]] · [[DSS 5Q5|5Q5 →]]

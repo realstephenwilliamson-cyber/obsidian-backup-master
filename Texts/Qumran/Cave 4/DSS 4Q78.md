@@ -32,8 +32,11 @@ aliases:
 | Frag. 14-17 | Joel 2:10-23 |
 | Frag. 18-20 | Joel 4:6-21 |
 | Frag. 21-23 | Amos 2:11 - 3:7 |
+| Frag. 24-29, 48 | Amos 3:8 - 4:2 |
 | Frag. 30-33 | Amos 6:13 - 7:16 |
 | Frag. 34 | Zeph 2:15 - 3:2 |
 | Frag. 35 | Mal 3:6-7? |
+| Frag. 36-37, 39-43, 45-47, 49-52 | unidentified |
+| Frag. 38 | 4Q83 Ps 38:4-6 |
 
 [[DSS 4Q77|← 4Q77]] · [[Qumran|index]] · [[DSS 4Q79|4Q79 →]]

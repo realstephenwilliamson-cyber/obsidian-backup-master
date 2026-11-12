@@ -44,6 +44,8 @@ aliases:
 | Frag. 21 | Exod 19:24 - 20:2 |
 | Frag. 22 | Exod 22:23-24 |
 | Frag. 23 | Exod 23:5-16 |
+| Frag. 24-29, 30 i | Exod 25:7-20 |
+| Frag. 30 ii, 31-34 | Exod 26:29 - 27:1 |
 | Frag. 35 | Exod 27:6-14 |
 | Frag. 36 | Exod 28:33-35 |
 | Frag. 37 | Exod 28:40-42 |

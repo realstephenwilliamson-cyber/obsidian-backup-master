@@ -34,6 +34,9 @@ aliases:
 | Frag. 10 | Ps 44:8-9? |
 | Frag. 11 | Ps 45:8-11 |
 | Frag. 12-14 i | Ps 48:15 - 49:17 |
+| Frag. 14 ii - 15 | Ps 50:13 - 51:5 |
+| Frag. 14 iii - 16 | Ps 52:5 - 53:1 |
+| Frag. 17-19 | unidentified |
 | Frag. 20 | ? |
 
 [[DSS 4Q84|← 4Q84]] · [[Qumran|index]] · [[DSS 4Q86|4Q86 →]]

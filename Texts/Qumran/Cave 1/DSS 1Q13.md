@@ -15,7 +15,7 @@ aliases:
 [[DSS 1Q12|← 1Q12]] · [[Qumran|index]] · [[DSS 1Q14|1Q14 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
-> D. Barthélemy, DJD I, 72-76, pl. XIV PAM 40.458-40.466, 40.468-40.470 DAJ
+> D. Barthélemy, DJD I, 72-76, pl. XIV PAM 40.458-40.466, 40.468-40.470 DAJ 4Q128, 4Q129, 4Q130, 4Q131, 4Q132, 4Q133, 4Q134, 4Q135, 4Q136, 4Q137, 4Q138, 4Q139, 4Q140, 4Q141, 4Q142, 4Q143, 4Q144, 4Q145, 4Q146, 4Q147, 4Q148, 5Q8
 
 *Study Edition, pp. 6 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 

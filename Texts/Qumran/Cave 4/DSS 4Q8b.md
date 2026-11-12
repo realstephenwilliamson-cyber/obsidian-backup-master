@@ -19,8 +19,8 @@ aliases:
 
 *Study Edition, pp. 243 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1
-
-A paraphrase of Gen 12:4-5
+| Fragment | Text |
+|---|---|
+| Frag. 1 | A paraphrase of Gen 12:4-5 |
 
 [[DSS 4Q8a|← 4Q8a]] · [[Qumran|index]] · [[DSS 4Q8c|4Q8c →]]

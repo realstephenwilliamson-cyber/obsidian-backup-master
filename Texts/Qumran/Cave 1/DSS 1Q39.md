@@ -5,7 +5,7 @@ manuscript: "1Q39"
 title: "1QHymnic Composition (?)"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "206"
+page_range: "206–207"
 aliases:
   - "1Q39"
 ---
@@ -13,9 +13,21 @@ aliases:
 
 [[DSS 1Q38|← 1Q38]] · [[Qumran|index]] · [[DSS 1Q40|1Q40 →]]
 
-*Study Edition, pp. 206 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+> [!info]- Edition, photographs, parallels and bibliography
+> J.T. Milik, DJD I, 142-143, pl. XXXIII PAM 40.499 BNP
 
-> [!note] No English here
-> The conversion found no translation or list of contents for this manuscript. For biblical manuscripts the edition lists fragments and verses only, and many small or unclassified fragments have no translation; see the Study Edition, p. 206.
+*Study Edition, pp. 206–207 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+
+### Frag. 1
+
+**1–2** […] … […] ^f1a-1
+
+**3** […] before you all the day[s …] ^f1a-3
+
+**4** […] and he will be honoured […] ^f1a-4
+
+**5** […] … […] ^f1a-5
+
+**6** […] … by your holy spirit […] ^f1a-6
 
 [[DSS 1Q38|← 1Q38]] · [[Qumran|index]] · [[DSS 1Q40|1Q40 →]]

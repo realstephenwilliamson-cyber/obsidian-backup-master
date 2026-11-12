@@ -19,12 +19,9 @@ aliases:
 
 *Study Edition, pp. 283 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Col. I
-
-Ps 135:6-16
-
-### Col. II
-
-Ps 99:1-5
+| Fragment | Text |
+|---|---|
+| Col. I | Ps 135:6-16 |
+| Col. II | Ps 99:1-5 |
 
 [[DSS 4Q91|← 4Q91]] · [[Qumran|index]] · [[DSS 4Q93|4Q93 →]]

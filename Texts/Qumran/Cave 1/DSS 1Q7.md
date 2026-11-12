@@ -19,18 +19,11 @@ aliases:
 
 *Study Edition, pp. 3 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1
-
-**1** Sam 18:17-18 ^f1-1
-
-### Frag. 3-7 (= 3) 2 Sam 21:16-18
-
-### Frag. 2-3 (= 2)
-
-**2** Sam 20:6-10 ^f2-2
-
-### Frag. 8 (= 4)
-
-**2** Sam 23:19-12 ^f8-2
+| Fragment | Text |
+|---|---|
+| Frag. 1 | 1 Sam 18:17-18 |
+| Frag. 2-3 (= 2) | 2 Sam 20:6-10 |
+| Frag. 3-7 (= 3) | 2 Sam 21:16-18 |
+| Frag. 8 (= 4) | 2 Sam 23:19-12 |
 
 [[DSS 1Q6|← 1Q6]] · [[Qumran|index]] · [[DSS 1QIsaa|1QIsaa →]]

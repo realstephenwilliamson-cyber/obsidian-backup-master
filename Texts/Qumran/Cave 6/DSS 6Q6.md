@@ -19,12 +19,9 @@ aliases:
 
 *Study Edition, pp. 1147 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Col. I
-
-Cant 1:1-6
-
-### Col. II
-
-Cant 1:6-7
+| Fragment | Text |
+|---|---|
+| Col. I | Cant 1:1-6 |
+| Col. II | Cant 1:6-7 |
 
 [[DSS 6Q5|← 6Q5]] · [[Qumran|index]] · [[DSS 6Q7|6Q7 →]]

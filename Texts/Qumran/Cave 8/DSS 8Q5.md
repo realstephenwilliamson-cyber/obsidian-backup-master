@@ -5,7 +5,7 @@ manuscript: "8Q5"
 title: "8QHymn"
 location: "Cave 8"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "1166–1171"
+page_range: "1166–1167"
 aliases:
   - "8Q5"
 ---
@@ -16,7 +16,7 @@ aliases:
 > [!info]- Edition, photographs, parallels and bibliography
 > M. Baillet, DJD III, 161-162, pl. XXXV PAM 42.962 ROC 917
 
-*Study Edition, pp. 1166–1171 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+*Study Edition, pp. 1166–1167 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 ### Frag. 1
 
@@ -38,38 +38,6 @@ aliases:
 
 **5** […] the persecutions and the judgments […] ^f2-5
 
-**6** […] and all the spirits before you […] *[p. 1169]* 10Q (10Qostr?) 10QOstracon M. Baillet, DJD III, 164, pl. XXXV PAM 42.434 ROC 918 10Q ^f2-6
-
-### Frag. 1 i
-
-Lev 7:34-35
-
-### Frag. 4
-
-Lev 14:16-17
-
-### Frag. 1 ii
-
-Lev 8:8 or 9
-
-### Frag. 5, 6
-
-Lev 15:18-19
-
-### Frag. 2
-
-Lev 9:23 - 10:2
-
-### Frag. 7
-
-Lev 25:31-33
-
-### Frag. 3
-
-Lev 13:58-59
-
-### Frag. 8, 9
-
-unidentiﬁed
+**6** […] and all the spirits before you […] ^f2-6
 
 [[DSS 8Q4|← 8Q4]] · [[Qumran|index]] · [[DSS 9Q|9Q →]]

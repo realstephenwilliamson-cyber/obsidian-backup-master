@@ -19,7 +19,17 @@ aliases:
 
 *Study Edition, pp. 266 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-> [!note] No English here
-> The conversion found no translation or list of contents for this manuscript. For biblical manuscripts the edition lists fragments and verses only, and many small or unclassified fragments have no translation; see the Study Edition, p. 266.
+| Fragment | Text |
+|---|---|
+| Col. I | Isa 45:20 |
+| Col. II | Isa 46:10 - 47:6 |
+| Col. III | Isa 47:8-9; 48:8-16 |
+| Col. IV | Isa 48:17 - 49:15 |
+| Col. VII | Isa 52:4-7 |
+| Col. VIII | Isa 53:8 - 54:2 |
+| Col. IX | Isa 54:2-11 |
+| Col. XI | Isa 57:9-17 |
+| Col. XII | Isa 57:18 - 58:3.5-7 |
+| Frag. 16 | unidentified |
 
 [[DSS 4Q57|← 4Q57]] · [[Qumran|index]] · [[DSS 4Q59|4Q59 →]]

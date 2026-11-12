@@ -27,5 +27,6 @@ aliases:
 | Frag. 1 iv | Lam 4:20 - 5:3 |
 | Frag. 1 v | Lam 5:4-12 |
 | Frag. 1 vi | Lam 5:12-13. 16 |
+| Frag. 2-14 | unidentiﬁed |
 
 [[DSS 5Q5|← 5Q5]] · [[Qumran|index]] · [[DSS 5Q7|5Q7 →]]

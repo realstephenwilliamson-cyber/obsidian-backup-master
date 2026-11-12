@@ -509,6 +509,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q359|4Q359]] 4QpapDeed C? ar or heb
 - [[DSS 4Q360|4Q360]] 4QExercitium Calami B
 - [[DSS 4Q360a|4Q360a]] 4QpapUnidentified Fragments B ar
+- [[DSS 4Q360b|4Q360b]] 4QpapUnidentified Fragment C
 - [[DSS 4Q361|4Q361]] 4QpapUnidentified Fragment gr
 - [[DSS 4Q362|4Q362]] 4QCryptic B Undeciphered Fragments A
 - [[DSS 4Q363|4Q363]] 4QCryptic B Undeciphered Fragments B
@@ -818,8 +819,8 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 
 - [[DSS 7Q1|7Q1]] 7QSeptuagint Exodus
 - [[DSS 7Q2|7Q2]] 7QEpistle of Jeremiah
-- [[DSS 7Q4|7Q4]] 8, 11-14 (7QpapEn gr) 7QEnoch
-- [[DSS 7Q3|7Q3]] 5-7, 9-10, 15-18 7QUnclassiﬁed fragments
+- [[DSS 7Q4|7Q4]] 7QEnoch
+- [[DSS 7Q3|7Q3]] 7QUnclassiﬁed fragments
 - [[DSS 7Q19|7Q19]] 7QPapyrus Imprint
 
 ## Cave 8
@@ -833,6 +834,10 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 ## Cave 9
 
 - [[DSS 9Q|9Q]] 9Qpap Unclassiﬁed Fragment
+
+## Cave 10
+
+- [[DSS 10Q|10Q]] 10QOstracon
 
 ## Cave 11
 

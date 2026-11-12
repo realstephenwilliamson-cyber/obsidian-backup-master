@@ -19,16 +19,10 @@ aliases:
 
 *Study Edition, pp. 1129 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1a
-
-**1** Kgs 1:1 ^f1-1
-
-### Frag. 1c
-
-**1** Kgs 1:27-37 ^f1a-1
-
-### Frag. 1b
-
-**1** Kgs 1:16-17 ^f1b-1
+| Fragment | Text |
+|---|---|
+| Frag. 1a | 1 Kgs 1:1 |
+| Frag. 1b | 1 Kgs 1:16-17 |
+| Frag. 1c | 1 Kgs 1:27-37 |
 
 [[DSS 5Q1|← 5Q1]] · [[Qumran|index]] · [[DSS 5Q3|5Q3 →]]

@@ -23,5 +23,6 @@ aliases:
 |---|---|
 | Frag. 1 | Deut 1:4-5 |
 | Frag. 2 | Deut 2:28-30 |
+| Frag. 3 i-ii | unidentiﬁed |
 
 [[DSS 11Q2|← 11Q2]] · [[Qumran|index]] · [[DSS 11Q4|11Q4 →]]

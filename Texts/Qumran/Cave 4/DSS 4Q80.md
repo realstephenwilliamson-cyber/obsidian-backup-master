@@ -31,5 +31,6 @@ aliases:
 | Frag. 16 | Zech 8:2-4 |
 | Frag. 17 | Zech 8:6-7 |
 | Frag. 18 | Zech 12:7-12 |
+| Frag. 19-25 | unidentified |
 
 [[DSS 4Q79|← 4Q79]] · [[Qumran|index]] · [[DSS 4Q81|4Q81 →]]

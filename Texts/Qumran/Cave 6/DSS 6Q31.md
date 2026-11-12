@@ -14,7 +14,7 @@ aliases:
 [[DSS 6Q27-30|← 6Q27-30]] · [[Qumran|index]] · [[DSS 7Q1|7Q1 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
-> M. Baillet, DJD III, 140-141, pl. XXIX PAM 42.963 ROC 784 6QpapUnclassified Fragments 7Q4, 8, 11-14 (7QpapEn gr) 7QEnoch M. Baillet, DJD III, 144-145, pl. XXX; E.A. Muro, ‘The Greek Fragments of Enoch from Qumran Cave 7 (7Q4, 7Q8, & 7Q12 = 7QEn gr = Enoch 103:3-4, 7-8)’, RevQ 18/70 (1997) 307-312, pl. 1; É. Puech, ‘Sept fragments grecs de la Lettre d’Hénoch (1 Hén 100, 103, 105) dans la grotte 7 de Qumrân (= 7QHén gr)’, RevQ 18/70 (1997) 313-323 PAM 42.961 ROC 789 Bibliography: Cf. J.A. Fitzmyer, The Dead Sea Scolls: Major Publications and Tools for Study (SBL Resources for Biblical Study 20; Atlanta: Scholars Press, 1990)
+> M. Baillet, DJD III, 140-141, pl. XXIX PAM 42.963 ROC 784
 
 *Study Edition, pp. 1160 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 

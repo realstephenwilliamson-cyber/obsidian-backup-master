@@ -5,7 +5,7 @@ manuscript: "1Q10"
 title: "1QPsalmsa"
 location: "Cave 1"
 edition: "F. García Martínez and E. J. C. Tigchelaar (eds.), The Dead Sea Scrolls Study Edition, 2nd ed. (Leiden: Brill, 1999)"
-page_range: "5–7"
+page_range: "5–6"
 aliases:
   - "1Q10"
   - "1QPsa"
@@ -15,9 +15,9 @@ aliases:
 [[DSS 1Q9|← 1Q9]] · [[Qumran|index]] · [[DSS 1Q11|1Q11 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
-> D. Barthélemy, DJD I, 69-70, pl. XIII PAM 40.492, 40.502, 40.504, 40.516, 40.547 4Q128, 4Q129, 4Q130, 4Q131, 4Q132, 4Q133, 4Q134, 4Q135, 4Q136, 4Q137, 4Q138, 4Q139, 4Q140, 4Q141, 4Q142, 4Q143, 4Q144, 4Q145, 4Q146, 4Q147, 4Q148, 5Q8
+> D. Barthélemy, DJD I, 69-70, pl. XIII PAM 40.492, 40.502, 40.504, 40.516, 40.547 1Q11, 1Q12, 2Q14, 3Q2, 4Q83, 4Q84, 4Q85, 4Q86, 4Q87, 4Q88, 4Q89, 4Q90, 4Q91, 4Q92, 4Q93, 4Q94, 4Q95, 4Q96, 4Q97, 4Q98, 4Q98a, 4Q98b, 4Q98c, 4Q98d, 4Q236, 5Q5, 6Q5, 8Q2, 11Q5, 11Q6, 11Q7, 11Q8, 11Q9
 
-*Study Edition, pp. 5–7 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
+*Study Edition, pp. 5–6 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 | Fragment | Text |
 |---|---|

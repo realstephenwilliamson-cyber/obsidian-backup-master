@@ -19,28 +19,13 @@ aliases:
 
 *Study Edition, pp. 213 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Col. I
-
-Ruth 2:13-14
-
-### Col. IV
-
-Ruth 2:22 - 3:3
-
-### Col. II
-
-Ruth 2:14-19
-
-### Col. V
-
-Ruth 3:4-8
-
-### Col. III
-
-Ruth 2:19-22
-
-### Frg. 8
-
-Ruth 4:3-4
+| Fragment | Text |
+|---|---|
+| Col. I | Ruth 2:13-14 |
+| Col. II | Ruth 2:14-19 |
+| Col. III | Ruth 2:19-22 |
+| Col. IV | Ruth 2:22 - 3:3 |
+| Col. V | Ruth 3:4-8 |
+| Frg. 8 | Ruth 4:3-4 |
 
 [[DSS 2Q15|← 2Q15]] · [[Qumran|index]] · [[DSS 2Q17|2Q17 →]]

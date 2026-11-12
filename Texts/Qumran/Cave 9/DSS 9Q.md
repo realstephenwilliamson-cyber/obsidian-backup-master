@@ -11,14 +11,14 @@ aliases:
 ---
 # 9Q · 9Qpap Unclassiﬁed Fragment
 
-[[DSS 8Q5|← 8Q5]] · [[Qumran|index]] · [[DSS 11Q1|11Q1 →]]
+[[DSS 8Q5|← 8Q5]] · [[Qumran|index]] · [[DSS 10Q|10Q →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
-> M. Baillet, DJD III, 163, pl. XXXV PAM 42.962 ROC 917 9Q
+> M. Baillet, DJD III, 163, pl. XXXV PAM 42.962 ROC 917
 
 *Study Edition, pp. 1168 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 > [!note] No English here
 > The conversion found no translation or list of contents for this manuscript. For biblical manuscripts the edition lists fragments and verses only, and many small or unclassified fragments have no translation; see the Study Edition, p. 1168.
 
-[[DSS 8Q5|← 8Q5]] · [[Qumran|index]] · [[DSS 11Q1|11Q1 →]]
+[[DSS 8Q5|← 8Q5]] · [[Qumran|index]] · [[DSS 10Q|10Q →]]

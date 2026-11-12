@@ -25,5 +25,6 @@ aliases:
 | Frag. 2 | Zeph 2:13-15 |
 | Frag. 3 | Zeph 3:19 - Hag 1:2 |
 | Frag. 4-5 | Hag 2:2-4 |
+| Frag. 6 | unidentified |
 
 [[DSS 4Q76|← 4Q76]] · [[Qumran|index]] · [[DSS 4Q78|4Q78 →]]

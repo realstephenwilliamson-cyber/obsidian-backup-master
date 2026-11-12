@@ -43,6 +43,8 @@ aliases:
 | Frag. 47a i-48 | Amos 4:4-9 |
 | Frag. 49 | Amos 5:1-2 |
 | Frag. 47a ii, 50 | Amos 5:9-18 |
+| Frag. 47b, 51-52a, 53a-54a, 55-56a, 57-58 | Amos 6:1-4, 6 - 7:1 |
+| Frag. 52b, 53b, 54b, 56b, 59-60 verso, 61 verso-64 | Amos 7:7-12, 14 - 8:5 |
 | Frag. 65-68 | Amos 8:11 - 9:1 |
 | Frag. 69 | Amos 9:6 |
 | Frag. 70-75 | Amos 9:14 - Obad 1-5, 8-12, 14-15 |
@@ -63,5 +65,6 @@ aliases:
 | Frag. 103 | Zeph 3:3-5 |
 | Frag. 104 | Zech 10:11 - 11:2 |
 | Frag. 105 | Zech 12:1-3 |
+| Frag. 106-258 | unidentified |
 
 [[DSS 4Q81|← 4Q81]] · [[Qumran|index]] · [[DSS 4Q83|4Q83 →]]

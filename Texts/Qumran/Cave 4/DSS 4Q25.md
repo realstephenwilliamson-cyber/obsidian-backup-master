@@ -14,6 +14,9 @@ aliases:
 
 [[DSS 4Q24|← 4Q24]] · [[Qumran|index]] · [[DSS 4Q26|4Q26 →]]
 
+> [!info]- Edition, photographs, parallels and bibliography
+> E. Tov, DJD XII, 189-192, pl. XXXV; P.W. Skehan, E. Ulrich, DJD XV, 74, pl. XII PAM 43.041, 43.157, 43.437 ROC 316 1Q3, 2Q5, 4Q17, 4Q23, 4Q24, 4Q26, 4Q26a, 4Q26b, 6Q2, 11Q1, 11Q2
+
 *Study Edition, pp. 250–251 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
 | Fragment | Text |

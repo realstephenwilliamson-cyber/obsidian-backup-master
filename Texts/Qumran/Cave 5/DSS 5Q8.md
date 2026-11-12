@@ -19,8 +19,8 @@ aliases:
 
 *Study Edition, pp. 1131 (the Hebrew or Aramaic on the left-hand pages, in the PDF).*
 
-### Frag. 1-3
-
-unopened
+| Fragment | Text |
+|---|---|
+| Frag. 1-3 | unopened |
 
 [[DSS 5Q7|← 5Q7]] · [[Qumran|index]] · [[DSS 5Q9|5Q9 →]]

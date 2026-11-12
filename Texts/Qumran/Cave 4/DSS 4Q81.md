@@ -21,6 +21,8 @@ aliases:
 
 | Fragment | Text |
 |---|---|
+| Col. I | Jon 1:6-8 |
+| Col. II | Jon 1:10-16 |
 | Frag. 5 | Mic 5:1-2 |
 
 [[DSS 4Q80|← 4Q80]] · [[Qumran|index]] · [[DSS 4Q82|4Q82 →]]
